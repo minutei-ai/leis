@@ -1,5 +1,3 @@
-###DEC-083812-0-000-07-08-1979@@@
-
 decreto nº 83.812, de 07 de agosto de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de São Luís, Estado do Maranhão.

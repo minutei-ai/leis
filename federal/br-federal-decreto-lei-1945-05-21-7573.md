@@ -1,5 +1,3 @@
-###DEL-007573-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.573 – DE 21 DE MAIO DE 1945
 
 AItera carreiras do Quadro Suplementar do Ministério da Marinha e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-070535-0-000-16-05-1972@@@
-
 DECRETO Nº 70.535, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública o Serviço de Obras Sociais  \- S.O.S, com sede em Boa Esperança, Estado de Minas Gerais.

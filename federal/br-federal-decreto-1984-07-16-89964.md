@@ -1,5 +1,3 @@
-###DEC-089964-0-000-16-07-1984@@@
-
 Decreto nº 89.964, de 16 de julho de 1984
 
 Outorga concessão à RÁDIO VERDES VALES DE GRAJAÚ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Grajaú, Estado do Maranhão.

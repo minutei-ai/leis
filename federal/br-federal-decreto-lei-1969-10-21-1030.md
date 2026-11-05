@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6b05de54-3a52-44c3-bbbd-c89a625a60b9/texto#nowhere)
 
-###DEL-001030-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.030, DE 21 DE OUTUBRO DE 1969
 
 Acrescenta parágrafo único ao artigo 882 do Código de Processo Civil (Decreto-lei nº 1.608, de 18 de setembro de 1939).

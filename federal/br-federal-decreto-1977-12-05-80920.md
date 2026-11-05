@@ -1,5 +1,3 @@
-###DEC-080920-0-000-05-12-1977@@@
-
 DECRETO Nº 80.920, DE 05 DE dezembro DE 1977.
 
 Declara sem efeito o Decreto nº 68.412, de 23 de março de 1971, que concedeu à Minérios Metalúrgicos do Nordeste Ltda. o direito de lavrar minério de manganês no Município de Saúde, Estado da Bahia

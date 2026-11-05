@@ -1,5 +1,3 @@
-###DEC-079856-0-000-23-06-1977@@@
-
 DECRETO Nº 79.856, DE 23 DE junho DE 1977
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências, Administrativas da Federação de Escolas Superiores do ABC, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

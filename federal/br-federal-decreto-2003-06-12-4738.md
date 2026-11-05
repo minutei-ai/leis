@@ -1,5 +1,3 @@
-###DEC-004738-0-000-12-06-2003@@@
-
 DECRETO Nº 4.738, DE 12 DE JUNHO DE 2003.
 
        Promulga a Declaração Facultativa prevista no art. 14 da Convenção Internacional sobre a Eliminação de Todas as Formas de Discriminação Racial, reconhecendo a competência do Comitê Internacional para a Eliminação da Discriminação Racial para receber e analisar denúncias de violação dos direitos humanos cobertos na mencionada Convenção.

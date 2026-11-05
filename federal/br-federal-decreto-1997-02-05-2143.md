@@ -1,5 +1,3 @@
-###DEC-002143-0-000-05-02-1997@@@
-
 DECRETO Nº 2.143, DE 5 DE FEVEREIRO DE 1997
 
 Promulga o Acordo Relativo à Isenção de Vistos, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Portuguesa, em Brasília, em 15 de abril de1996.

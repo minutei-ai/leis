@@ -1,5 +1,3 @@
-###DEC-059900-0-000-30-12-1966@@@
-
 DECRETO Nº 59.900, DE 30 DE DEZEMBRO DE 1966.
 
 Regulamenta o Decreto-lei nº 57, de 18 de novembro de 1966 e dá outras providências.

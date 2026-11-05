@@ -1,5 +1,3 @@
-###DEC-053164-0-000-11-12-1963@@@
-
 Decreto nº 53.164, de 11 de dezembro de 1963.
 
 Autoriza Mineração Curral del Rey Ltda. a pesquisar minério de ferro manganês, bauxita e argila no município de Nova Lima, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-064769-0-000-01-07-1969@@@
-
 DECRETO Nº 64.769 - DE 1º DE JULHO DE 1969.
 
 Dispõe sôbre o quadro de acesso da carreira de diplomata.

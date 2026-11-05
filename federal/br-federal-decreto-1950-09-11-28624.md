@@ -1,28 +1,26 @@
-###DEC-028624-0-000-11-09-1950@@@
+**DECRETO N. 28.624 – DE 11 DE SETEMBRO DE 1950**
 
-<strong>DECRETO N. 28.624 – DE 11 DE SETEMBRO DE 1950</strong>
-
-<em><strong>Aprova o Regulamento do Salão Nacional de Belas Artes.</strong></em>
+***Aprova o Regulamento do Salão Nacional de Belas Artes.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica aprovado o Regulamento do Salão Nacional de Belas Artes, que com êste baixa, assinado pelo Ministro de  Estado da Educação e Saúde.
+**Art.** 1º Fica aprovado o Regulamento do Salão Nacional de Belas Artes, que com êste baixa, assinado pelo Ministro de  Estado da Educação e Saúde.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor a partir da data da sua publicação, ficando revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor a partir da data da sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, 11 de setembro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Pedro Calmon.
 
-<h1 style="margin-top:12pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGULAMENTO D0 SALÃO NACIONAL DE BELAS ARTES</strong></span></span></h1>
+# **REGULAMENTO D0 SALÃO NACIONAL DE BELAS ARTES**
 
-<strong>Art.</strong> 1º O Salão Nacional de Belas Artes será realizado, em 1950, nas galerias do Museu Nacional de Belas Artes, de 15 de outubro a 15 de novembro.
+**Art.** 1º O Salão Nacional de Belas Artes será realizado, em 1950, nas galerias do Museu Nacional de Belas Artes, de 15 de outubro a 15 de novembro.
 
-<strong>Art.</strong> 2º O Salão Nacional de Belas Artes compreenderá as seguintes seções :
+**Art.** 2º O Salão Nacional de Belas Artes compreenderá as seguintes seções :
 
 I – Arquitetura;
 
@@ -36,21 +34,21 @@ V – Desenho e artes gráficas;
 
 VI – Artes aplicadas.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>DA COMISSÃO ORGANIZADORA E DOS JÚRIS</em></span></span></h2>
+## *DA COMISSÃO ORGANIZADORA E DOS JÚRIS*
 
-<strong>Art.</strong> 3º O Salão Nacional de Belas Artes será dirigido pela Comissão Organizadora, constituída por duas Divisões, correspondendo às tendências divergentes atuais dos artistas brasileiros: a Divisão Geral e a Divisão de Arte Moderna.
+**Art.** 3º O Salão Nacional de Belas Artes será dirigido pela Comissão Organizadora, constituída por duas Divisões, correspondendo às tendências divergentes atuais dos artistas brasileiros: a Divisão Geral e a Divisão de Arte Moderna.
 
-<strong>Art.</strong> 4º A Comissão Organizadora compor-se-á de um Presidente e seis membros, três dos quais  correspondente; a cada Divisão.
+**Art.** 4º A Comissão Organizadora compor-se-á de um Presidente e seis membros, três dos quais  correspondente; a cada Divisão.
 
 § 1º O Presidente será de livre designação do Ministro de Estado da Educação e Saúde, ao qual  competirá, também designar dois membros para cada Divisão escolhidos entre os artistas representativos das tendências referidas no art. 3º
 
 § 2º Os membros restantes serão eleitos pelos artistas expositores, um para cada Divisão.
 
-<strong>Art.</strong> 5º Para cada uma das Seções mencionadas no art. 2º haverá dois júris, um correspondente à Divisão Geral e outro à Divisão de Arte Moderna.
+**Art.** 5º Para cada uma das Seções mencionadas no art. 2º haverá dois júris, um correspondente à Divisão Geral e outro à Divisão de Arte Moderna.
 
 Parágrafo único. Os Júris serão compostos de cinco membros, três dos quais designados pela respectiva Comissão Organizadora e dois eleitos pelos artistas expositores.
 
-<strong>Art.</strong> 6º A designação e eleição dos membros da Comissão Organizadora e dos Júris obedecerão as seguintes condições.
+**Art.** 6º A designação e eleição dos membros da Comissão Organizadora e dos Júris obedecerão as seguintes condições.
 
 1 – Só poderão ser designados e eleitos membros da Comissão Organizadora e dos júris artistas que tenham obtido medalha de prata ou prêmio superior em Salão precedente, ou figurado entre os membros das Comissões e Júris anteriores.
 
@@ -64,19 +62,19 @@ Parágrafo único. Os Júris serão compostos de cinco membros, três dos quais 
 
 6 – Para o Júri da Seção de Arquitetura, poderão ser eleitos candidatos, independentemente da observância no disposto no nº(ilegível), desde que sejam diplomados em arquitetura por instituto federal, equiparados ou sob inspeção permanente.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>DA COMPETÊNCIA DOS ÓRGÃOS</em></span></span></h2>
+## *DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art.</strong> 7º Compete à Comissão Organizadora superintender a organização e o funcionamento do Salão Nacional de Belas Artes, promover a abertura das inscrições, receber os envios, convocar os artistas para procederem à escolha dos membros eletivos da própria Comissão e dos Júris, proclamar os eleitos, determinar a disposição dos trabalhos aceitos nas galerias, elaborar e promover a publicação do catálogo e providenciar para a publicidade do Salão.
+**Art.** 7º Compete à Comissão Organizadora superintender a organização e o funcionamento do Salão Nacional de Belas Artes, promover a abertura das inscrições, receber os envios, convocar os artistas para procederem à escolha dos membros eletivos da própria Comissão e dos Júris, proclamar os eleitos, determinar a disposição dos trabalhos aceitos nas galerias, elaborar e promover a publicação do catálogo e providenciar para a publicidade do Salão.
 
-<strong>Art.</strong> 8º Compete aos Júris deliberar sôbre a admissão dos trabalhos enviados ao Salão, conferir prêmios e recompensar e remeter à, Comissão Organizadora as atas das respectivas reuniões.
+**Art.** 8º Compete aos Júris deliberar sôbre a admissão dos trabalhos enviados ao Salão, conferir prêmios e recompensar e remeter à, Comissão Organizadora as atas das respectivas reuniões.
 
-<strong>Art.</strong> 9º Será gratuito o exercício das funções de membro da Comissão Organizadora e dos Júris.
+**Art.** 9º Será gratuito o exercício das funções de membro da Comissão Organizadora e dos Júris.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>DA INSCRIÇÃO E DA ADMISSÃO</em></span></span></h2>
+## *DA INSCRIÇÃO E DA ADMISSÃO*
 
-<strong>Art.</strong> 10. O candidato requererá a inscrição dos seus trabalhos à, Comissão Organizadora, designando a Divisão a que pretenda concorrer e fazendo entrega dos trabalhos que pretenda expôr, dentro do prazo estabelecido pela mesma Comissão.
+**Art.** 10. O candidato requererá a inscrição dos seus trabalhos à, Comissão Organizadora, designando a Divisão a que pretenda concorrer e fazendo entrega dos trabalhos que pretenda expôr, dentro do prazo estabelecido pela mesma Comissão.
 
-<strong>Art.</strong> 11. A admissão dos trabalhos no Salão Nacional de elas Artes será feita observadas as seguintes condições :
+**Art.** 11. A admissão dos trabalhos no Salão Nacional de elas Artes será feita observadas as seguintes condições :
 
 1 – Cada artista terá direito a apresentar três trabalhos no máximo, para serem admitdos ao Salão,
 
@@ -88,7 +86,7 @@ Parágrafo único. Os Júris serão compostos de cinco membros, três dos quais 
 
 6 – Na disposição geral da exposição, a colocação dos trabalhos cuja admissão fôr deliberada, tanto pelo Júri competente da Divisão Geral como pela da Divisão de Arte Moderna, ficará a critério exclusivo da Comissão Organizadora, que os situará de acôrdo com as características predominantes de cada um, procurando contudo criar um núcleo de transição, onde as várias tendências mais se aproximem e se harmonizem.
 
-<strong>Art.</strong> 12. Não serão admitidos ao Salão:
+**Art.** 12. Não serão admitidos ao Salão:
 
 1 – As cópias ainda que reproduções por diferentes processos, salvo na Seção de Artes Aplicadas.
 
@@ -102,9 +100,9 @@ Parágrafo único. Os Júris serão compostos de cinco membros, três dos quais 
 
 6 – As obras cuja exposição seja julgada inconveniente pela Comissão Organizadora.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>DOS PRÊMIOS</em></span></span></h2>
+## *DOS PRÊMIOS*
 
-<strong>Art.</strong> 13\. Aos artistas expositores poderão ser conferidos os seguintes prêmios:
+**Art.** 13\. Aos artistas expositores poderão ser conferidos os seguintes prêmios:
 
 1 – Medalha de ouro.
 
@@ -122,7 +120,7 @@ Parágrafo único. Os Júris serão compostos de cinco membros, três dos quais 
 
 § 4º Conquanto os Júris de cada Divisão concedam os prêmios separadamente, no exercício das atribuições privativas de cada um, tais prêmios não serão considerados como correspondentes a determinada Divisão para serem outorgados indistintamente pelo Salão.
 
-<strong>Art.</strong> 14, Além dos prêmios a que se refere o art. 13, deverão ainda ser concedidos os seguintes :
+**Art.** 14, Além dos prêmios a que se refere o art. 13, deverão ainda ser concedidos os seguintes :
 
 1 – Viagem ao estrangeiro.
 
@@ -130,7 +128,7 @@ Parágrafo único. Os Júris serão compostos de cinco membros, três dos quais 
 
 Parágrafo único. O prêmio de viagem ao estrangeiro consistirá numa bôlsa de estudos para dois anos e o de viagem ao País constará de uma bôlsa de estudos para um ano.
 
-<strong>Art</strong>. 15. Para o efeito da concessão dos prêmios de que trata o art.14, os Júris da Divisão Geral formarão um elenco e os da Divisão de Arte Moderna outro, competindo a cada elenco conceder um prêmio de viagem ao estrangeiro e um de viagem no País.
+**Art**. 15. Para o efeito da concessão dos prêmios de que trata o art.14, os Júris da Divisão Geral formarão um elenco e os da Divisão de Arte Moderna outro, competindo a cada elenco conceder um prêmio de viagem ao estrangeiro e um de viagem no País.
 
 § 1º Os prêmios de que trata êste artigo só poderão ser concedidos a brasileiros natos, que já, tenham obtido pelo menos medalha de prata em Salões anteriores e estejam juites com o serviço militar
 
@@ -140,30 +138,30 @@ Parágrafo único. O prêmio de viagem ao estrangeiro consistirá numa bôlsa de
 
 § 4º Serão incorporados desde logo ao acêrvo do Museu Nacional de elas Artes, independentemente de qualquer pagamento, os trabalhos por meio dos quais forem obtidos os prêmios de viagem no País e ao estrangeiro.
 
-<strong>Art.</strong> 16. Poderá ser conferido ainda, em circunstâncias especiais que o comportarem, o prêmio de medalha de honra, destinado a distinguir o mérito excepcional do expositor, tendo em vista o conjunto de sua obra,
+**Art.** 16. Poderá ser conferido ainda, em circunstâncias especiais que o comportarem, o prêmio de medalha de honra, destinado a distinguir o mérito excepcional do expositor, tendo em vista o conjunto de sua obra,
 
 § 1º O prêmio a que se refere este artigo será por cedido por deliberação, em reunião conjunta, da Divisão Geral e da de Arte Moderna, mediante escrutínio secreto, de que deverão participar pelo menos vinte e cinco expositores já laureados com medalha de prata, ou prêmio superior, no Salão Nacional de Belas Artes.
 
 § 2º Para concessão da medalha de honra serão necessários no mínimo dois têrços dos votos apurados, podendo realizar-se até três escrutínios para verificação do resultado.
 
-<strong>Art.</strong> 17\. Os expositores, quando membros da Comissão Organizadora e dos Júri, não poderão concorrer aos prêmios.
+**Art.** 17\. Os expositores, quando membros da Comissão Organizadora e dos Júri, não poderão concorrer aos prêmios.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>DISPOSIÇÕES GERAIS</em></span></span></h2>
+## *DISPOSIÇÕES GERAIS*
 
-<strong>Art.</strong> 18. O Salão Nacional de Belas artes funcionará durante o prazo estabelecido no art. lº que poderá ser prorrogado por proposta da Comissão Organizadora, aprovada, pelo Ministro de Estado da Educação e Saúde.
+**Art.** 18. O Salão Nacional de Belas artes funcionará durante o prazo estabelecido no art. lº que poderá ser prorrogado por proposta da Comissão Organizadora, aprovada, pelo Ministro de Estado da Educação e Saúde.
 
-<strong>Art.</strong> 19\. Encerrado o Salão, a Comissão Organizadora submeterá à homologação do Ministro de Estado da Educado e Saúde, a relação dos prêmios conferidos pelos Júris. instruída com cpia autêntica das atas respectivas.
+**Art.** 19\. Encerrado o Salão, a Comissão Organizadora submeterá à homologação do Ministro de Estado da Educado e Saúde, a relação dos prêmios conferidos pelos Júris. instruída com cpia autêntica das atas respectivas.
 
-<strong>Art.</strong> 20. Até o dia da inauguração do Salão Nacional de elas Artes, só poderão ter ingresso no seu recinto os membros da Comissão Organizadora ou dos Júris, o pessoal da secretaria e dos serviços auxiliares.
+**Art.** 20. Até o dia da inauguração do Salão Nacional de elas Artes, só poderão ter ingresso no seu recinto os membros da Comissão Organizadora ou dos Júris, o pessoal da secretaria e dos serviços auxiliares.
 
 Parágrafo único. Mediante autorização da Comissão Organizadora poderão ter também ingresso no Salão, antes da inauguração, jornalistas devidamente habilitados.
 
-<strong>Art.</strong> 21. Os trabalhos aceitos pelos Júris não poderão ser retocados nem retirados antes do enceramento do Salão.
+**Art.** 21. Os trabalhos aceitos pelos Júris não poderão ser retocados nem retirados antes do enceramento do Salão.
 
-<strong>Art.</strong> 22. Os trabalhos que não forem retirados pelos expositores até 15 dias após o encerramento do Salão serão enviados ao Depósito Público.
+**Art.** 22. Os trabalhos que não forem retirados pelos expositores até 15 dias após o encerramento do Salão serão enviados ao Depósito Público.
 
-<strong>Art.</strong> 23. O Ministro de Estado da Educação e Saúde designará por proposta do Presidente da Comissão Organizadora o secretário geral e os demais auxiliares necessários ao Salão Nacional de Belas Artes.
+**Art.** 23. O Ministro de Estado da Educação e Saúde designará por proposta do Presidente da Comissão Organizadora o secretário geral e os demais auxiliares necessários ao Salão Nacional de Belas Artes.
 
-<strong>Art.</strong> 24. Os casos omissos serão resolvidos pelo Ministro de Estado da Educação e Saúde, com a audiência da Comissão Organizadora.
+**Art.** 24. Os casos omissos serão resolvidos pelo Ministro de Estado da Educação e Saúde, com a audiência da Comissão Organizadora.
 
 Rio de Janeiro, 11 de setembro de 1950 – Pedro Calmon.

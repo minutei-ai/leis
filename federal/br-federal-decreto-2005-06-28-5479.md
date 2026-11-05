@@ -1,5 +1,3 @@
-###DEC-005479-0-000-28-06-2005@@@
-
 DECRETO Nº 5.479, DE 28 DE JUNHO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e a Agência Espacial Européia sobre a Cooperação Espacial para Fins Pacíficos, celebrado em Paris, em 1º de fevereiro de 2002.

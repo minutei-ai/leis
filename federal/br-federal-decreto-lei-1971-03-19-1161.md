@@ -1,5 +1,3 @@
-###DEL-001161-0-000-19-03-1971@@@
-
 # DECRETO-LEI Nº 1.161, DE 19 DE MARÇO DE 1971
 
 Dispõe sôbre os abatimentos da renda bruta e deduções do impôsto de renda, realizados por pessoas físicas em decorrência de aplicações financeiras de interêsse econômico ou social.

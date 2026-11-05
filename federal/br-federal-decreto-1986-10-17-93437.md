@@ -1,5 +1,3 @@
-###DEC-093437-0-000-17-10-1986@@@
-
 DECRETO Nº 93.437, DE 17 DE OUTUBRO DE 1986
 
 Dispõe sobre a Comissão Brasileira de Atividades Espaciais - COBAE, alterando o Decreto nº 68.099, de 20 de janeiro de 1971 e o Regulamento aprovado pelo Decreto nº 76.596, de 14 de novembro de 1975.

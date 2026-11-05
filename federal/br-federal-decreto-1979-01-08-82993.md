@@ -1,5 +1,3 @@
-###DEC-082993-0-000-08-01-1979@@@
-
 DECRETO Nº 82.993, DE 08 DE JANEIRO DE 1979
 
 Concede à SUCAL - Sudoeste Calcário Dolomítico Ltda. o direito de lavrar dolomito no Município de Jataí, Estado de Goiás.

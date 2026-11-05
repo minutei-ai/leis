@@ -1,5 +1,3 @@
-###DEC-055674-0-000-01-02-1965@@@
-
 DECRETO Nº 55.674, DE 1º DE FEVEREIRO DE 1965.
 
 Concede à Avanhandava - Companhia de Seguros autorização para funcionar e aprova os seus Estatutos.

@@ -1,5 +1,3 @@
-###DEC-057429-0-000-15-12-1965@@@
-
 DECRETO Nº 57.429, DE 15 de DEZEMBRO DE 1965.
 
 Revoga o Decreto nº 1.262, de 25 de junho de 1962 e dá outras providências.

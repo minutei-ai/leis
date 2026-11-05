@@ -1,5 +1,3 @@
-###DEC-096493-0-000-10-08-1988@@@
-
 DECRETO N° 96.493, DE 10 DE AGOSTO DE 1988
 
 Cria Grupo de Trabalho para estudar medidas relacionadas com o transporte ferroviário e dá outras providências.

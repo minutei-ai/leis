@@ -1,5 +1,3 @@
-###DEC-045768-0-000-07-04-1959@@@
-
 DECRETO Nº 45.768, DE 7 DE ABRIL DE 1959.
 
 Autoriza o Govêrno do Estado de Santa Catarina a encampar a concessão outorgada à Companhia Hidro Elétrica Piratuba pelo Decreto nº 25.405, de 30 de agôsto de 1948.

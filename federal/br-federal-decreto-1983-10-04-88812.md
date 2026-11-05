@@ -1,5 +1,3 @@
-###DEC-088812-0-000-04-10-1983@@@
-
 Decreto nº 88.812, de 04 de outubro de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de trecho de linha de subtransmissão da companhia Paulista de força e Luz - CPFL, no Estado de São Paulo.

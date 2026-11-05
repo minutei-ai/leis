@@ -1,5 +1,3 @@
-###DEC-088270-0-000-02-05-1983@@@
-
 Decreto nº 88.270, de 02 de maio de 1983
 
 Altera o Decreto nº 87.688, de 8 de outubro de 1982, que regula a importação de bens usados destinados a empresas jorna lísticas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055635-0-000-26-01-1965@@@
-
 DECRETO Nº 55.635, DE 26 DE JANEIRO DE 1965.
 
 Autoriza Euclides Rodrigues Lopes a comprar pedras preciosas.

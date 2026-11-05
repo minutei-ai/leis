@@ -1,5 +1,3 @@
-###DEC-052205-A-000-28-06-1963@@@
-
 decreto nº 52.205-a, de 28 de junho de 1963
 
 Declara de utilidade pública o “Hospital Maternidade Frei Galvão", com sede em Guaratinguetá, Estado de São Paulo.

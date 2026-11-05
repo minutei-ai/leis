@@ -1,5 +1,3 @@
-###DEC-086522-0-000-30-10-1981@@@
-
 Decreto nº 86.522, de 30 de outubro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação do canal de drenagem, de FURNAS - Centrais Elétricas S. A., no Estado do Paraná.

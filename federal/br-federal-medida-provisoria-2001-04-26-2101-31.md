@@ -1,5 +1,3 @@
-###MPV-002101-0-031-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.101- 31, DE 26 DE ABRIL DE 2001
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

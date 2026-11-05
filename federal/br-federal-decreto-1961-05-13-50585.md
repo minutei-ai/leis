@@ -1,5 +1,3 @@
-###DEC-050585-0-000-13-05-1961@@@
-
 DECRETO Nº 50.585, DE 13 DE MAIO DE 1961.
 
 Aprova o Regimento do Departamento Nacional da Propriedade Industrial (DNPI), do Ministério da Indústria e do Comércio, e dá outras providências.

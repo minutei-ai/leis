@@ -2,7 +2,8 @@ LEI Nº 6.855 DE 12 DE MAIO DE 1995
 
 Dispõe sobre a Política, o Gerenciamento e o Plano Estadual de Recursos Hídricos e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 [Decreto nº 6.296, de 21 de março de 1997](https://www.legislabahia.ba.gov.br/documentos/decreto-no-6296-de-21-de-marco-de-1997#DEC_6_296) \- Dispõe sobre a outorga de direito de uso de recursos hídricos, infração e penalidades e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -11,7 +12,8 @@ DISPOSIÇÃO PRELIMINAR
 
 Art. 1º - A Política, o Gerenciamento e o Plano Estadual de Recursos Hídricos reger-se-ão pelos princípios e normas estabelecidas por esta Lei.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DOS PRINCÍPIOS, DIRETRIZES E INSTRUMENTOS
 
 Art. 2º - A Política Estadual de Recursos Hídricos tem por finalidade o desenvolvimento e o aproveitamento racional dos recursos hídricos do Estado, devendo obedecer sempre aos seguintes princípios básicos:
@@ -50,7 +52,8 @@ II - a outorga de direito de uso dos recursos hídricos;
 
 III - a cobrança da água.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO ÓRGÃO GESTOR DOS RECURSOS HÍDRICOS
 
 Art. 5º - O órgão gestor dos recursos hídricos do Estado será a Superintendência de Recursos Hídricos, autarquia integrante da administração indireta da Secretaria de Recursos Hídricos, Saneamento e Habitação.
@@ -91,7 +94,8 @@ XVI - resolver, em primeira instância, as questões decorrentes do uso dos recu
 
 XVII - incentivar os usuários dos recursos hídricos a se organizarem sob a forma de Comitês de bacias hidrográficas, destinados a discutir e propor ao Órgão gestor sugestões de interesse das respectivas bacias.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA DESCENTRALIZAÇÃO
 
 Art. 7º - O gerenciamento dos recursos estaduais obedecerá ao princípio da descentralização, visando a eficiência e eficácia de suas ações.
@@ -120,7 +124,8 @@ X - R.A.A da Bacia do Rio Corrente, limitada ao norte pela bacia do Rio Grande, 
 
 Parágrafo único - O regulamento estabelecerá os critérios para a instalação das regiões Administrativas da Água.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO PLANO ESTADUAL DE RECURSOS HÍDRICOS
 
 Art. 9º - O Plano Estadual de Recursos Hídricos será elaborado em consonância com os princípios e as diretrizes da Política Estadual de Recursos Hídricos e com base nos planos de suas bacias hidrográficas, observadas as normas relativas à proteção do meio ambiente, às diretrizes do Plano Plurianual do Estado e demais normas desta Lei.
@@ -151,7 +156,8 @@ XI - campanhas educacionais visando conscientizar a sociedade para a utilizaçã
 
 Art. 11 - A alocação dos recursos necessários à elaboração e à implantação do Plano Estadual de Recursos Hídricos deverá obedecer às normas orçamentárias do Estado.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 OUTORGA DE DIREITO DE USO DOS RECURSOS HÍDRICOS
 
 Art. 12 - A implantação, ampliação e alteração de projetos de qualquer empreendimento que demande a utilização de recursos hídricos, superficiais ou subterrâneos, bem como a execução de obras ou serviços que alterem o seu regime, quantidade ou qualidade, dependerão de prévia outorga do órgão competente.
@@ -162,7 +168,8 @@ Art. 12 - A implantação, ampliação e alteração de projetos de qualquer emp
 
 Art. 13 - A derivação de água superficial ou subterrânea, para as diversas utilizações, incluindo o lançamento de efluentes em corpos d'água, dependerá de cadastramento e da outorga da permissão e do direito de uso, obedecidas as legislações federal e estadual pertinentes e atendidos os critérios e normas estabelecidos em regulamento.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA COBRANÇA PELO DIREITO DE USO DA ÁGUA
 
 Art. 14 - A cobrança pelo direito de uso da água é um instrumento gerencial que visa:
@@ -209,7 +216,8 @@ XIII - o princípio de tarifa progressiva com o consumo.
 
 §2º - A utilização dos recursos hídricos para fins de geração de energia elétrica reger-se-á pela legislação federal pertinente.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 RATEIO DE CUSTOS DAS OBRAS DE RECURSOS HÍDRICOS
 
 Art. 17 - As obras de usos múltiplos, de interesse comum ou coletivo, terão seus custos rateados, direta ou indiretamente, podendo ser financiadas ou receber subsídios, segundo critérios e normas a serem estabelecidos em regulamento, atendidos os seguintes procedimentos:
@@ -218,7 +226,8 @@ I - a permissão ou autorização de obras de regularização de vazão, com pot
 
 II - a construção de obras de interesse comum ou coletivo dependerá de estudo de viabilidades técnica, econômica, social e ambiental, com previsão de formas de retorno dos investimentos públicos ou justificativa circunstanciada da destinação de recursos a fundo perdido.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 18 - Constituem infração às normas de utilização estabelecidas pelo órgão gestor de recursos hídricos superficiais e subterrâneos:
@@ -257,7 +266,8 @@ IV - embargo administrativo definitivo, devidamente fundamentado, com revogaçã
 
 § 6º - Em caso de reincidência, as multas serão impostas no dobro do valor da inicialmente aplicada.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 20 - A concessão de licença de localização de empreendimento que demandem a utilização de recursos dependerá da prévia obtenção da respectiva outorga do direito de uso.

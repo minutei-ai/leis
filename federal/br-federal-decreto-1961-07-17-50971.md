@@ -1,5 +1,3 @@
-###DEC-050971-0-000-17-07-1961@@@
-
 DECRETO Nº 50.971, DE 17 DE JULHO DE 1961.
 
 Concede permissão à emprêsa Rilsan Brasileira S.A para exercer atividades em dias de repouso.

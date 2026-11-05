@@ -1,5 +1,3 @@
-###DEC-075062-0-000-09-12-1974@@@
-
 Decreto nº 75.062, de 9 de dezembro de 1974.
 
 Concede reconhecimento aos cursos de Matemática, de Geografia, de História e de Letras da Faculdade de Filosofia, Ciências e Letras "Rui Barbosa", mantida pela Sociedade Cultural de Andradina, com sede na cidade de Andradina, Estado de São Paulo.

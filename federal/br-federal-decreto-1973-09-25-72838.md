@@ -1,5 +1,3 @@
-###DEC-072838-0-000-25-09-1973@@@
-
 DECRETO Nº 72.838, DE 25 DE SETEMBRO DE 1973.
 
 Concede reconhecimento aos cursos de História, Letras, Pedagogia, Ciências (licenciatura de 1º grau) e Psicologia (Licenciatura), ministrados pelo Centro Pedagógico de Corumbá, mantido pela Universidade Estadual de Mato Grosso, com sede em Campo Grande, Estado de Mato Groso.

@@ -1,5 +1,3 @@
-###DEC-002672-0-000-15-07-1998@@@
-
 DECRETO Nº 2.672, DE 15 DE JULHO DE 1998
 
 Dá nova redação a dispositivos do Estatuto da Empresa Gerencial de Projetos Navais - EMGEPRON, aprovado pelo Decreto nº 98.160, de 21 de setembro de 1989.

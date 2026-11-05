@@ -1,5 +1,3 @@
-###DEC-000218-0-000-19-09-1991@@@
-
 DECRETO N° 218, DE 19 DE SETEMBRO DE 1991
 
 Aprova o Estatuto Social do Serviço de Processamento de Dados - SERPRO.

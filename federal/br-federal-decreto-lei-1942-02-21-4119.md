@@ -1,5 +1,3 @@
-###DEL-004119-0-000-21-02-1942@@@
-
 DECRETO-LEI N. 4.119 – DE 21 DE FEVEREIRO DE 1942
 
 Disposições transitórias para execução da lei orgânica do ensino industrial

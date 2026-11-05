@@ -1,5 +1,3 @@
-###DEL-006804-0-000-17-08-1944@@@
-
 DECRETO-LEI Nº 6.804 - DE 17 DE AGôSTO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar a Maternidade Casa da Mãe Pobre do pagamento do impôsto que menciona

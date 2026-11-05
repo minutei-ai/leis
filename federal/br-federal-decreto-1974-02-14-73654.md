@@ -1,5 +1,3 @@
-###DEC-073654-0-000-14-02-1974@@@
-
 DECRETO Nº 73.654, DE 14 DE FEVEREIRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Lajeado, Estado do Rio Grande do Sul.

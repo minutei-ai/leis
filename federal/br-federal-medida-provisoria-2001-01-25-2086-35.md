@@ -1,5 +1,3 @@
-###MPV-002086-0-035-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.086-35, DE 25 DE JANEIRO DE 2001.
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006150-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.150 – DE 30 DE DEZEMBRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 4.977, de 19 de novembro de 1942

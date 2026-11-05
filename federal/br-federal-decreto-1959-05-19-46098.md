@@ -1,5 +1,3 @@
-###DEC-046098-0-000-19-05-1959@@@
-
 DECRETO Nº 46.098, DE 19 DE MAIO DE 1959.
 
 Autoriza a Usina Siderúrgicas de Minas Gerais S.A., a construir, para uso exclusivo, uma linha de transmissão entre a localidade de Acesita e o distrito de Ipatinga, município de Coronel Fabriciano, Estado de Minas Gerais.

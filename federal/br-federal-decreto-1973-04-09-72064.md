@@ -1,5 +1,3 @@
-###DEC-072064-0-000-09-04-1973@@@
-
 DECRETO Nº 72.064, DE 9 DE ABRIL DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra no distrito de Imbariê, município de Duque de Caxias, no Estado do Rio de Janeiro.

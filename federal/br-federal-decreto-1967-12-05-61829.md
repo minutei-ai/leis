@@ -1,5 +1,3 @@
-###DEC-061829-0-000-05-12-1967@@@
-
 Decreto nº 61.829, de 5 de Dezembro de 1967.
 
 Declara insubsistente o Decreto número 53.497, de 27 de janeiro de 1964.

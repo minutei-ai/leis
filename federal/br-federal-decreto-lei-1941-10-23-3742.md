@@ -1,5 +1,3 @@
-###DEL-003742-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.742 – DE 23 DE OUTUBRO DE 1941
 
 Dispõe sobre a unificação dos serviços meteorológicos do país e dá outras providências

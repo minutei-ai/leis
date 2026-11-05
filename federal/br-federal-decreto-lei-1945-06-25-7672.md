@@ -1,5 +1,3 @@
-###DEL-007672-0-000-25-06-1945@@@
-
 DECRETO-LEI N. 7.672 – DE 25 DE JUNHO DE 1945
 
 Estabelece a abreviatura da palavra centavos

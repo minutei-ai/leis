@@ -1,5 +1,3 @@
-###DEC-076810-0-000-16-12-1975@@@
-
 DECRETO Nº 76.810, DE 16 DE DEZEMBRO DE 1975.
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica nos Municípios de Matipó e Santa Margarida e nas localidades de Realeza e Santo Amaro, no Estado de Minas Gerais.

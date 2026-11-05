@@ -1,5 +1,3 @@
-###DEL-003473-0-000-28-07-1941@@@
-
 DECRETO-LEI N. 3.473 – DE 28 DE JULHO DE 1941
 
 Altera, sem aumento de despesa, o atual, Orçamento do Ministério da Viação e Obras Públicas

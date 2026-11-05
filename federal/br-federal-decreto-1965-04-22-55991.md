@@ -1,5 +1,3 @@
-###DEC-055991-0-000-22-04-1965@@@
-
 decreto nº 55.991, de 22 de Abril de 1965.
 
 Autoriza o cidadão brasileiro Paulo Corrêa a lavrar calcário, no município de Capão Bonito, Estado de São Paulo.

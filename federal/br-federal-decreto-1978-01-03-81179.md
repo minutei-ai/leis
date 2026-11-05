@@ -1,5 +1,3 @@
-###DEC-081179-0-000-03-01-1978@@@
-
 Decreto nº 81 179, de 3 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Formação de Tecnólogo em Cooperativismo, da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado do Mato Grosso.

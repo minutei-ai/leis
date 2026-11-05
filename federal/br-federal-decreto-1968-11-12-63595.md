@@ -1,14 +1,12 @@
-###DEC-063595-0-000-12-11-1968@@@
+**DECRETO Nº 63.595, DE 12 DE NOVEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.595, DE 12 DE NOVEMBRO DE 1968.</strong>
+***Dispõe sôbre órgãos locais de execução, vigilância e fiscalização da Secretaria da Receita Federal do Ministério da Fazenda, e dá outras providências.***
 
-<em><strong>Dispõe sôbre órgãos locais de execução, vigilância e fiscalização da Secretaria da Receita Federal do Ministério da Fazenda, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II, da Constituição, e de acôrdo com o disposto no artigo 145 do Decreto-lei nº 37 de 18 de novembro de 1966,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II, da Constituição, e de acôrdo com o disposto no artigo 145 do Decreto-lei nº 37 de 18 de novembro de 1966,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam organizados sob a forma de Alfândegas, os seguintes órgãos locais de execução, vigilância e fiscalização de tributos federais da Secretaria da Receita Federal, localizados em:
+**Art**. 1º Ficam organizados sob a forma de Alfândegas, os seguintes órgãos locais de execução, vigilância e fiscalização de tributos federais da Secretaria da Receita Federal, localizados em:
 
 1 - Aceguá (RS)
 
@@ -124,29 +122,29 @@ Parágrafo único. O Laboratório Nacional de Análises exercerá suas atividade
 
 5 - Santos (SP)
 
-<strong>Art</strong>. 2º Ficam extintas as Alfândegas, Mesas de Renda, Agências Aduaneiras, Registros Fiscais, Serviços de Repressão ao Contrabando, Estação Aduaneira de Importação Aérea, Serviços de Importação Aérea e Postos Fiscais não compreendidos nas disposições do artigo anterior.
+**Art**. 2º Ficam extintas as Alfândegas, Mesas de Renda, Agências Aduaneiras, Registros Fiscais, Serviços de Repressão ao Contrabando, Estação Aduaneira de Importação Aérea, Serviços de Importação Aérea e Postos Fiscais não compreendidos nas disposições do artigo anterior.
 
-<strong>Art</strong>. 3º O Secretario da Receita Federal disporá sobre o acervo das repartições ora extintas, bem como sôbre a localização dos seus funcionários.
+**Art**. 3º O Secretario da Receita Federal disporá sobre o acervo das repartições ora extintas, bem como sôbre a localização dos seus funcionários.
 
-<strong>Art</strong>. 4º O Ministro da Fazenda poderá, em caráter excepcional, autorizar a instalação de Postos Aduaneiros em localidades onde não existe órgão da Secretaria da Receita Federal.
+**Art**. 4º O Ministro da Fazenda poderá, em caráter excepcional, autorizar a instalação de Postos Aduaneiros em localidades onde não existe órgão da Secretaria da Receita Federal.
 
 § 1º - Aos Postos Aduaneiros poderão ser atribuídas, no todo ou em parte, em caráter não permanente, e, as funções de execução, vigilância e fiscalização que forem cometidas em ato regimental às Alfândegas, de acôrdo com as necessidades do serviço e com as possibilidades humanas e materiais locais.
 
 § 2º - Idêntico critério aplicar-se-á às atribuições dos Administradores de Postos Aduaneiros, em relação às cometidas aos Administradores de Alfândegas.
 
-<strong>Art</strong>. 5º As Alfândegas localizadas fora das Capitais dos Estados e dos Territórios Federais terão por jurisdição territorial a área do respectivo Município e a dos limítrofes.
+**Art**. 5º As Alfândegas localizadas fora das Capitais dos Estados e dos Territórios Federais terão por jurisdição territorial a área do respectivo Município e a dos limítrofes.
 
-<strong>Art</strong>. 6º As Alfândegas localizadas nas Capitais dos Estados e dos Territórios Federais terão por jurisdição territorial a respectiva área geográfica, estendendo-se pela dos Municípios não compreendidos na jurisdição de outros órgãos fiscais.
+**Art**. 6º As Alfândegas localizadas nas Capitais dos Estados e dos Territórios Federais terão por jurisdição territorial a respectiva área geográfica, estendendo-se pela dos Municípios não compreendidos na jurisdição de outros órgãos fiscais.
 
-<strong>Art</strong>. 7º Nos Estados e nos Territórios Federais em que haja apenas uma repartição fiscal, a jurisdição desta compreenderá tôda a área geográfica do respectivo Estado ou Território Federal.
+**Art**. 7º Nos Estados e nos Territórios Federais em que haja apenas uma repartição fiscal, a jurisdição desta compreenderá tôda a área geográfica do respectivo Estado ou Território Federal.
 
-<strong>Art</strong>. 8º Fica o Secretário da Receita Federal autorizado a alterar a jurisdição dos órgãos fiscais bem como a estabelecer regras gerais e especiais para solução de conflitos positivos ou negativos de jurisdição.
+**Art**. 8º Fica o Secretário da Receita Federal autorizado a alterar a jurisdição dos órgãos fiscais bem como a estabelecer regras gerais e especiais para solução de conflitos positivos ou negativos de jurisdição.
 
-<strong>Art</strong>. 9º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 9º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 12 de novembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Antônio Delfim Netto
 

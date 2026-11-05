@@ -1,5 +1,3 @@
-###DEL-000135-0-000-02-02-1967@@@
-
 dECRETO-LEI Nº 135, DE 2 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a constituição da Fundação denominada Grupo de Estudos de Integração da Política de Transportes - GEIPOT - e sôbre os contratos celebrados pelo Grupo Executivo de Integração da Política de Transportes órgão centralizado da União.

@@ -1,5 +1,3 @@
-###DEC-079999-0-000-21-07-1977@@@
-
 DECRETO Nº 79.999, DE 21 DE JULHO DE 1977
 
 Autoriza o registro, em nome da União Federal, do Imóvel que menciona, situado no Estado do Rio Grande do Sul.

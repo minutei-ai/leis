@@ -1,5 +1,3 @@
-###DEL-009832-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.832 – DE 11 DE SETEMBRO DE 1946
 
 Modifica dispositivos do Decreto-lei nº 4.014, de 13 de janeiro de 1942, que regula as atividades dos despachantes aduaneiros.

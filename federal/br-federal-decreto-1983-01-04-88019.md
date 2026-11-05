@@ -1,5 +1,3 @@
-###DEC-088019-0-000-04-01-1983@@@
-
 decreto nº 88.019, de 04 de janeiro de 1983.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Porto Nacional da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

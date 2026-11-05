@@ -1,5 +1,3 @@
-###DEC-050314-0-000-04-03-1961@@@
-
 DECRETO Nº 50.314, DE 4 DE MARÇO DE 1961.
 
 Dispõe sôbre o pessoal temporário e de obras de que trata o Capítulo VI da Lei nº 3.780, de 12 de julho de 1960, e dá outras providências.

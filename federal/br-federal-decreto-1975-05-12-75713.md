@@ -1,5 +1,3 @@
-###DEC-075713-0-000-12-05-1975@@@
-
 DECRETO Nº 75.713, 12 DE MAIO DE 1975.
 
 Autoriza o funcionamento de licenciatura plena nos cursos de Letras, de Estudos Sociais e de Pedagogia e de licenciaturas de 1º grau e plena no curso de Ciências da Faculdade de Filosofia Ciências e Letras de Umuarama mantida pela Associação Paranaense de Ensino e Cultura com sede na cidade de Umuarama, Estado do Paraná.

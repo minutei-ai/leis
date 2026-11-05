@@ -1,5 +1,3 @@
-###DEL-008440-0-000-24-12-1945@@@
-
 DECRETO-LEI N. 8.440 – DE 24 DE DEZEMBRO DE 1945
 
 Estabelece normas para a aquisição, pelo Banco de Crédito da Borracha S. A., do acêrvo das concessões de Belterra e Fordlândia, no Estado do Pará, pertencentes à Companhia Ford Industrial do Brasil e dá outras providências.

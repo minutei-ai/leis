@@ -1,5 +1,3 @@
-###DEC-059067-0-000-12-08-1966@@@
-
 DECRETO Nº 59.067, DE 12 DE AGôSTO DE 1966.
 
 Institui Comissão Especial para o fim que especifica.

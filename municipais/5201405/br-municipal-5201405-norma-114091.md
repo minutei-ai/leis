@@ -14,5 +14,6 @@ Art. 2º Esta Lei entrará em vigor na data de sua publicação revogando as dis
 
 Gabinete do Prefeito de Aparecida de Goiânia – GO, aos 07 dias do mês de Maio de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal

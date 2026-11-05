@@ -1,7 +1,9 @@
 LEI Nº 2.781 DE 16 DE JANEIRO DE 1970
 
-Ver também:<br>
-A[rt. 35 da Lei nº 2.929, de 11 de maio de 1971: "Art. 35 - Revogam - se disposições em contrário, especialmente aquelas contidas na Lei 2.781, de 16 de janeiro de 1970, e no item X do inciso I, item III do inciso II do  artigo 61, itens 1 e 2 do inciso II, do art. 89 item 5 do inciso I do art. 183 e arts. 82 a 85 e 188 a 192 da Lei 2.321 de 11 de abril de 1966."<br>
+Ver também:
+
+A[rt. 35 da Lei nº 2.929, de 11 de maio de 1971: "Art. 35 - Revogam - se disposições em contrário, especialmente aquelas contidas na Lei 2.781, de 16 de janeiro de 1970, e no item X do inciso I, item III do inciso II do  artigo 61, itens 1 e 2 do inciso II, do art. 89 item 5 do inciso I do art. 183 e arts. 82 a 85 e 188 a 192 da Lei 2.321 de 11 de abril de 1966."
+
 ](https://www.legislabahia.ba.gov.br/documentos/lei-no-2929-de-11-de-maio-de-1971#LO_2_929_Art__35)
 
 Autoriza a transformação da Superintendência de Águas e Esgotos do Recôncavo SAER e a Superintendência de Engenharia Sanitária do Estado da Bahia - SESEB, em Sociedade de Economia Mista.

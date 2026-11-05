@@ -1,5 +1,3 @@
-###DEC-051309-0-000-25-08-1961@@@
-
 DECRETO Nº 51.309, DE 25 DE AGÔSTO DE 1961.
 
 Outorga concessão à Rádio Educação Rural Limitada para estabelecer uma estação radiodifusora de onda tropical.

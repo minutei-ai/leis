@@ -1,5 +1,3 @@
-###DEC-046586-0-000-13-08-1959@@@
-
 DECRETO Nº 46.586, DE 13 DE AGôSTO DE 1959.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$400.000,00, para auxiliar a Associação Brasileira de Enfermagem para comparecimento da Delegação Brasileira ao XI Congresso Quadrimestral de Enfermagem.

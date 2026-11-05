@@ -1,6 +1,10 @@
 > **LEI Nº 4.795, DE 01 DE ABRIL DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Inclui a Semana Santa no calendário oficial de datas comemorativas do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Inclui a Semana Santa no calendário oficial de datas comemorativas do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

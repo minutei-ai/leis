@@ -100,8 +100,6 @@ II – 244 a 269.
 
 Goiânia, 10 de março de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

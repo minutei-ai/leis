@@ -1,5 +1,3 @@
-###DEC-092484-0-000-21-03-1986@@@
-
 DECRETO Nº 92.484, DE 21 DE MARÇO DE 1986
 
 Outorga concessão à TV O ESTADO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Chapecó, Estado de Santa Catarina.

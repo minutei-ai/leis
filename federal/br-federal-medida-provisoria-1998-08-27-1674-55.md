@@ -1,5 +1,3 @@
-###MPV-001674-0-055-27-08-1998@@@
-
 medida provisória nº 1.674-55, de 27 de agosto de 1998
 
 Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social - PIS devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.

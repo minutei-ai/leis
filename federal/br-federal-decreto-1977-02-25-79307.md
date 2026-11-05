@@ -1,5 +1,3 @@
-###DEC-079307-0-000-25-02-1977@@@
-
 DECRETO Nº 79.307, DE 125 DE FEVEREIRO DE 1977.
 
 Autoriza a transferência direta para a Fundação Educacional União da Serra - Rádio Alvorada de Marau da Concessão outorgada à Radio Emissora Veranense Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Marau, Estado do Rio Grande do Sul.

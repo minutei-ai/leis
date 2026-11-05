@@ -1,6 +1,6 @@
 > **LEI Nº 3.658, DE 11 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre revisão ao Plano Plurianual do Estado do Acre para o quadriênio 2020-2023 – PPA 2020-2023, aprovado pela Lei nº 3.589, a fim de acrescer ao rol de Programas Temáticos o “Programa Estadual de Enfrentamento ao Novo Coronavírus - COVID-19”, e altera a Lei nº 3.619, de 17 de abril de 2020.</span></span></span></p></td></tr></tbody></table>
+Dispõe sobre revisão ao Plano Plurianual do Estado do Acre para o quadriênio 2020-2023 – PPA 2020-2023, aprovado pela Lei nº 3.589, a fim de acrescer ao rol de Programas Temáticos o “Programa Estadual de Enfrentamento ao Novo Coronavírus - COVID-19”, e altera a Lei nº 3.619, de 17 de abril de 2020.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -44,13 +44,11 @@ Promover ações de fortalecimento da atenção à saúde e mitigação aos impa
 
 **Indicadores**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"><p><span><strong><span>Indicador</span></strong></span></p></td><td rowspan="2"><p><span><strong><span>Unidade de Medida</span></strong></span></p></td><td colspan="2"><p><span><strong><span>Referência</span></strong></span></p></td><td rowspan="2"><p><span><strong><span>Fonte</span></strong></span></p></td></tr><tr><td valign="top"><p><span><strong><span>Índice</span></strong></span></p></td><td valign="top"><p><span><strong><span>Ano</span></strong></span></p></td></tr><tr><td><p><span><span>Índice de Transparência da Covid-19</span></span></p></td><td><p><span><span>Pontos</span></span></p></td><td><p><span><span>99</span></span></p></td><td><p><span><span>2020</span></span></p></td><td><p><span><span>OPEN KNOWLEDGE BRASIL</span></span></p></td></tr><tr><td><p><span><span>Casos de Covid-19 confirmados</span></span></p></td><td><p><span><span>Número absoluto</span></span></p></td><td><p><span><span>27.246*</span></span></p></td><td><p><span><span>2020</span></span></p></td><td><p><span><span>Datasus</span></span></p></td></tr><tr><td><p><span><span>Óbitos por Covid-19 confirmados</span></span></p></td><td><p><span><span>Número absoluto</span></span></p></td><td><p><span><span>651*</span></span></p></td><td><p><span><span>2020</span></span></p></td><td><p><span><span>Datasus</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"> **Indicador** </td><td rowspan="2"> **Unidade de Medida** </td><td colspan="2"> **Referência** </td><td rowspan="2"> **Fonte** </td></tr><tr><td valign="top"> **Índice** </td><td valign="top"> **Ano** </td></tr><tr><td> Índice de Transparência da Covid-19 </td><td> Pontos </td><td> 99 </td><td> 2020 </td><td> OPEN KNOWLEDGE BRASIL </td></tr><tr><td> Casos de Covid-19 confirmados </td><td> Número absoluto </td><td> 27.246* </td><td> 2020 </td><td> Datasus </td></tr><tr><td> Óbitos por Covid-19 confirmados </td><td> Número absoluto </td><td> 651* </td><td> 2020 </td><td> Datasus </td></tr></tbody></table>
 
 \* Indicadores mensurados em 23 de setembro de 2020.
 
 **Iniciativas**
-
-<br>
 
 \- aquisição de alimentos como alternativa a minimização dos impactos da COVID-19 no Acre;
 
@@ -138,18 +136,20 @@ Altera os Anexos I e IV do PPA 2020-2023 (Lei nº 3.589, de 19 de dezembro de 20
 
 **“ANEXO I - PROGRAMAS TEMÁTICOS**
 
-<br>
+**PROGRAMAS TEMÁTICOS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>PROGRAMAS TEMÁTICOS</span></strong></span></p></td></tr><tr><td><p><span><strong><span>PROGRAMA</span></strong></span></p></td></tr><tr><td><p><span><span>...</span></span></p></td></tr><tr><td><p><span><span>PROGRAMA ESTADUAL DE ENFRENTAMENTO AO NOVO CORONAVÍRUS - COVID19</span></span></p></td></tr></tbody></table>
+**PROGRAMA**
+
+...
+
+PROGRAMA ESTADUAL DE ENFRENTAMENTO AO NOVO CORONAVÍRUS - COVID19
 
 **” (NR)**
 
 **“ANEXO IV – REFERENCIAL ORÇAMENTÁRIO**
 
-<br>
-
 ...
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4"><p><span><strong><span>EIXO CIDADANIA E SEGURANÇA</span></strong></span></p></td></tr><tr><td colspan="2"><p><span><strong><span>Programa:</span></strong><span>&nbsp;Programa Estadual de Enfrentamento ao Novo Coronavírus - COVID19</span></span></p></td><td colspan="2"><p><span><strong><span>Código SAFIRA: 1430</span></strong></span></p></td></tr><tr><td><p><span><strong><span>ORÇAMENTO</span></strong></span></p></td><td><p><span><strong><span>VALOR 2020 (R$)</span></strong></span></p></td><td><p><span><strong><span>VALOR 2021-2023 (R$)</span></strong></span></p></td><td><p><span><strong><span>VALOR 2020-2023 (R$)</span></strong></span></p></td></tr><tr><td colspan="4"><p><span><strong><span>FISCAL E DA SEGURIDADE SOCIAL</span></strong></span></p></td></tr><tr><td><p><span><span>DESPESA CORRENTE</span></span></p></td><td><p><span><span>198.820.745,66</span></span></p></td><td><p><span><span>99.410.372,83</span></span></p></td><td><p><span><strong><span>298.231.118,49</span></strong></span></p></td></tr><tr><td><p><span><span>DESPESA DE CAPITAL</span></span></p></td><td><p><span><span>116.963.559,45</span></span></p></td><td><p><span><span>23.392.711,89</span></span></p></td><td><p><span><strong><span>140.356.271,34</span></strong></span></p></td></tr><tr><td><p><span><strong><span>TOTAL</span></strong></span></p></td><td><p><span><strong><span>315.784.305,11</span></strong></span></p></td><td><p><span><strong><span>122.803.084,72</span></strong></span></p></td><td><p><span><strong><span>&nbsp;</span></strong></span></p></td></tr><tr><td colspan="2"><p><span><strong><span>VALOR GLOBAL</span></strong></span></p></td><td><p><span><strong><span>&nbsp;</span></strong></span></p></td><td><p><span><strong><span>438.587.389,83</span></strong></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4"> **EIXO CIDADANIA E SEGURANÇA** </td></tr><tr><td colspan="2"> **Programa:**&nbsp;Programa Estadual de Enfrentamento ao Novo Coronavírus - COVID19 </td><td colspan="2"> **Código SAFIRA: 1430** </td></tr><tr><td> **ORÇAMENTO** </td><td> **VALOR 2020 (R$)** </td><td> **VALOR 2021-2023 (R$)** </td><td> **VALOR 2020-2023 (R$)** </td></tr><tr><td colspan="4"> **FISCAL E DA SEGURIDADE SOCIAL** </td></tr><tr><td> DESPESA CORRENTE </td><td> 198.820.745,66 </td><td> 99.410.372,83 </td><td> **298.231.118,49** </td></tr><tr><td> DESPESA DE CAPITAL </td><td> 116.963.559,45 </td><td> 23.392.711,89 </td><td> **140.356.271,34** </td></tr><tr><td> **TOTAL** </td><td> **315.784.305,11** </td><td> **122.803.084,72** </td><td> **&nbsp;** </td></tr><tr><td colspan="2"> **VALOR GLOBAL** </td><td> **&nbsp;** </td><td> **438.587.389,83** </td></tr></tbody></table>
 
 **” (NR)**

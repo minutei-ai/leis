@@ -1,7 +1,3 @@
-1
-
-###MPV-001015-0-000-26-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.015, DE 26 DE MAIO 1995
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

@@ -1,6 +1,5 @@
 LEI Nº 7.378, DE 28 DE JUNHO DE 2023.
 
-<br>
 Denomina Centro Municipal de Educação Infantil - CMEI Professora Simone Rodrigues Ribeiro e dá outras providências.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE – GO APROVA E EU SANCIONO A SEGUINTE LEI:**

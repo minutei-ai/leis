@@ -1,5 +1,3 @@
-###DEL-005777-0-000-26-08-1943@@@
-
 DECRETO‑LEI N. 5.777 – DE 26 DE AGÔSTO DE 1943
 
 Dispõe sôbre as desapropriações e liquidações decorrentes da execução do decreto‑lei n. 4.807, de 7 de outubro de 1942, e dá outras providências

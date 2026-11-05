@@ -1,5 +1,3 @@
-###DEC-056668-0-000-06-08-1965@@@
-
 DECRETO Nº 56.668, DE 6 DE AGÔSTO DE 1965.
 
 Autoriza a Companhia de Tecidos Paulista a Lavrar fosforita, no município de Paulista, Estado de Pernambuco.

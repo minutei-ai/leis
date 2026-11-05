@@ -1,5 +1,3 @@
-###DEC-047078-0-000-22-10-1959@@@
-
 DECRETO Nº47.078, DE 22 DE OUTUBRO DE 1959.
 
 Autoriza a desvinculação da Companhia “Elétrica Caiuá” de dois grupos termelétricos, acessórios e equipamentos, instalados em Presidente Venceslau Estado de São Paulo, de propriedade da Companhia “Elétrica Caiuá”.

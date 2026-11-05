@@ -1,5 +1,3 @@
-###DEC-061354-0-000-15-09-1967@@@
-
 DECRETO Nº 61.354, DE 15 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade de Ensino e Beneficência” com sede em São Paulo, Estado de São Paulo.

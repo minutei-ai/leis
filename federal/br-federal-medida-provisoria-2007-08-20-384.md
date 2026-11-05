@@ -1,5 +1,3 @@
-###MPV-000384-0-000-20-08-2007@@@
-
 MEDIDA PROVISÓRIA Nº 384, DE 20 DE AGOSTO DE 2007.
 
 Institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI, e dá outras providências.                      
@@ -121,5 +119,3 @@ Patrus Ananias
 Dilma Rousseff
 
 Luiz Soares Dulci
-
-Este texto não substitui o publicado no DOU de 21.8.2007

@@ -1,5 +1,3 @@
-###DEC-069093-0-000-18-08-1971@@@
-
 decreto nº 69.093, de 18 de agôsto de 1971.
 
 Concede reconhecimento ao Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras de São Bento, agora transformado em Faculdade de Psicologia da Pontifícia Universidade Católica de S. Paulo.

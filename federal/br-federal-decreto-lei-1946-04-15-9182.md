@@ -1,5 +1,3 @@
-###DEL-009182-0-000-15-04-1946@@@
-
 DECRETO-LEI N. 9.182 – DE 15 DE ABRIL DE 1946
 
 Retifica o art. 3º do Decreto-lei número 9.083, de 22 de Março de 1946.

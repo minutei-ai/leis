@@ -1,5 +1,3 @@
-###DEC-081779-0-000-12-06-1978@@@
-
 Decreto nº 81.779, de 12 de junho de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Dracena II, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

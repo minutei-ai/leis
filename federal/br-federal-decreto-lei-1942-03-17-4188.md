@@ -1,5 +1,3 @@
-###DEL-004188-0-000-17-03-1942@@@
-
 (\*) DECRETO-LEI N. 4.188 – DE 17 DE MARÇO DE 1942
 
 Autoriza o Instituto do Açucar e do Álcool a reorganizar os seus serviços.

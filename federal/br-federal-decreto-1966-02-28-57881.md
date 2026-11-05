@@ -1,5 +1,3 @@
-###DEC-057881-0-000-28-02-1966@@@
-
 DECRETO Nº 57.881, DE 28 DE FEVEREIRO DE 1966.
 
 Autoriza o Departamento Nacional de Obras Contra as Sêcas a instalar usina hidrelétrica no açude Poço da Cruz, município de Inajá, Estado de Pernambuco.

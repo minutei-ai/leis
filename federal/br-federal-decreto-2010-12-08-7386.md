@@ -1,5 +1,3 @@
-###DEC-007386-0-000-08-12-2010-PUB-01@@@
-
 DECRETO Nº 7.386, DE 8 DE DEZEMBRO DE 2010.
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Fazenda, e dá outras providências.

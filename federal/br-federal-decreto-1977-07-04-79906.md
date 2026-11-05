@@ -1,5 +1,3 @@
-###DEC-079906-0-000-04-07-1977@@@
-
 DECRETO Nº 79.906, DE 4 DE JULHO DE 1977
 
 Concede à Cerâmica Palácios S.A., o direito de lavrar argila no Município de Campinas, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001132-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.132, DE 26 DE SETEMBRO DE 1995.
 
 Reduz a alíquota do imposto de importação para os produtos que especifica e dá outras providências.

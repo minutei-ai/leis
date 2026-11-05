@@ -46,8 +46,6 @@ II – 1º de janeiro de 2024, nas importações de bens e mercadorias remetidas
 
 Goiânia, 25 de novembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###MPV-002121-0-039-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.121-39, DE 26 DE JANEIRO DE 2001
 
 Altera dispositivos das Leis nº s 9.082, de 25 de julho de 1995, 9.293, de 15 de julho de 1996, 9.473, de 22 de julho de 1997, 9.692, de 27 de julho de 1998, 9.811, de 28 de julho de 1999, e 9.995, de 25 de julho de 2000, que dispõem sobre as diretrizes para a elaboração da lei orçamentária para os exercícios de 1996, 1997, 1998, 1999, 2000 e 2001, respectivamente.

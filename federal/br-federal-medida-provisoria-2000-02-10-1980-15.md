@@ -1,5 +1,3 @@
-###MPV-001980-0-015-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-15, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

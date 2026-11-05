@@ -1,7 +1,3 @@
-1
-
-###DEC-002091-0-000-10-12-1996@@@
-
 DECRETO Nº 2.091, DE 10 DE DEZEMBRO DE 1996.
 
 Altera a alíquota do imposto de importação dos produtos que especifica.

@@ -1,5 +1,3 @@
-###DEC-001526-0-000-20-06-1995@@@
-
 # DECRETO Nº 1.526, DE 20 DE JUNHO DE 1995.
 
 Cria a Câmara da Reforma do Estado, do Conselho de Governo, e dá outras providências.

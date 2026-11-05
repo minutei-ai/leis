@@ -1,5 +1,3 @@
-###DEL-007841-0-000-08-08-1945@@@
-
 DECRETO-LEI N. 7. 841 – DE 8 DE AGÔSTO DE 1945
 
 Código de Águas Minerais

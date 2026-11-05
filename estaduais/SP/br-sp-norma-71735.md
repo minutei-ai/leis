@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=71735)
-
 # LEI COMPLEMENTAR Nº 1.009, DE 21 DE MAIO DE 2007
 
 ### _Cria cargos de Professor Doutor no Quadro de Pessoal Docente da Universidade de São Paulo - USP_

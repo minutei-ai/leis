@@ -1,5 +1,3 @@
-###DEC-077407-0-000-12-04-1976@@@
-
 Decreto nº 77.407- de 12 de abril de 1976
 
 Dispõe sobre a execução orçamentária e a programação financeira da União, regula a movimentação de cotas e dá outras providências.

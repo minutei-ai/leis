@@ -1,5 +1,3 @@
-###DEL-007515-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.515 – DE 3 DE MAIO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 26.500,00, para atender à despesa com desapropriação de terrenos

@@ -1,5 +1,3 @@
-###DEC-087040-0-000-17-03-1982@@@
-
 Decreto nº 87.040, de 17 de março de 1982
 
 Especifica áreas indispensáveis à segurança nacional insuscetíveis de usucapião especial, e dá outras providências.

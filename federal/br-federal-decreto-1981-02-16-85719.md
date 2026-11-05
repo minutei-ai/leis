@@ -1,5 +1,3 @@
-###DEC-085719-0-000-16-02-1981@@@
-
 DECRETO Nº 85.719, DE 16 DE FEVEREIRO DE 1981.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Contábeis, da Fundação Faculdade Estadual de Filosofia, Ciências e Letras de Paranaguá, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-097596-0-000-30-03-1989@@@
-
 DECRETO N° 97.596, DE 30 DE MARÇO DE 1989
 
 Afeta, a uso especial do Exército, terras públicas federais, referidas no art. 2° do Decreto nº 95.859, de 22 de março de 1988.

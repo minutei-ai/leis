@@ -1,5 +1,3 @@
-###DEC-071512-0-000-07-12-1972@@@
-
 DECRETO Nº 71.512 - DE 7 DE DEZEMBRO DE 1972
 
 Torna sem efeito aproveitamento de disponível no Ministério da Marinha e cassa a disponibilidade do mesmo.

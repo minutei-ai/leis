@@ -1,5 +1,3 @@
-###DEC-069974-0-000-20-01-1972@@@
-
 DECRETO Nº 69.974, DE 20 DE JANEIRO DE 1972.
 
 Concede a sociedade Gruppo Industrie Elettro Meccaniche Per Impianti AU'Estero - GIE - S.p.A. autorização para continuar a funcionar na República Federativa do Brasil.

@@ -1,5 +1,3 @@
-###DEC-072867-0-000-01-10-1973@@@
-
 DECRETO Nº 72.867, DE 1 DE OUTUBRO DE 1973.
 
 Prorroga o prazo da autorização concedida pelo Decreto nº 71.191, de 3 de outubro de 1972, à Companhia norte-americana Astro Marine Incorporated.

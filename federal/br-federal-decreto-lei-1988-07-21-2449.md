@@ -1,7 +1,3 @@
-1
-
-###DEL-002449-0-000-21-07-1988@@@
-
 # DECRETO-LEI N° 2.449, DE 21 DE JULHO DE 1988
 
 Altera disposições do Decreto-Lei n° 2.445, de 29 de junho de 1988, e dá outras providências.

@@ -131,7 +131,3 @@ Fundação TV MINAS – Cultural e Educativa
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,66551 Diretoria de Planejamento, Gestão e Finanças Diretor 01 1,43418 Diretoria de Programação e Produção Diretor 01 1,43418 Diretoria de Jornalismo Diretor 01 1,43418 Diretoria Técnica Diretor 01 1,43418 Assessoria Jurídica Assessor Jurídico 01 0,65420 Auditoria Seccional Auditor Seccional 01 0,65420 Assessoria de Comunicação Assessor de Comunicação Social 01 0,65420 Assessoria de Promoção de Eventos e Captação de Recursos Assessor-Chefe 01 0,65420
-
-\====================================
-
-Data da última atualização: 25/1/2011.

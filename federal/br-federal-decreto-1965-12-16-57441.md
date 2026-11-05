@@ -1,5 +1,3 @@
-###DEC-057441-0-000-16-12-1965@@@
-
 DECRETO Nº 57.441, DE 16 DE DEZEMBRO DE 1965.
 
 Transfere à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica no Município de Aurora, Estado do Ceará.

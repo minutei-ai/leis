@@ -1,5 +1,3 @@
-###DEC-094813-0-000-01-09-1987@@@
-
 DECRETO N° 94.813, DE 1° DE SETEMBRO DE 1987
 
 Outorga a VALEC - Engenharia e Construções Ltda. concessão para construção uso e gozo dos acessos ferroviários que menciona.

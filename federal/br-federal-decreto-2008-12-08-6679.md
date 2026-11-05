@@ -1,5 +1,3 @@
-###DEC-006679-0-000-08-12-2008@@@
-
 DECRETO Nº 6.679, DE 8 DE DEZEMBRO DE 2008.
 
 Promulga o Acordo sobre o Benefício da Justiça Gratuita e a Assistência Jurídica Gratuita entre os Estados Partes do MERCOSUL, a República da Bolívia e a República do Chile, assinado em Florianópolis, em 15 de dezembro de 2000.

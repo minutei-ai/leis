@@ -1,5 +1,3 @@
-###DEC-057298-0-000-19-11-1965@@@
-
 DECRETO Nº 57.298, 19 DE NOVEMBRO DE 1965.
 
 Regulamenta as comemorações do Dia Nacional de Ação de Graças.

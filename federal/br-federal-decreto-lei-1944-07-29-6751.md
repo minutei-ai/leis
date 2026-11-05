@@ -1,5 +1,3 @@
-###DEL-006751-0-000-29-07-1944@@@
-
 DECRETO-LEI N. 6.751 – DE 29 DE JULHO DE 1944
 
 Dispõe sôbre os órgãos específicos de edifícios públicos dos Ministérios Civis.

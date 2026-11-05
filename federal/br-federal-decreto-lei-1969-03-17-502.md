@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/61fffcc8-caf3-4db7-8330-2171fd99999f/texto#nowhere)
 
-###DEL-000502-0-000-17-03-1969@@@
-
 DECRETO-LEI Nº 502, DE 17 DE MARÇO DE 1969
 
 Estabelece medidas acauteladoras para o confisco de bens previsto no Artigo 8º do Ato Institucional nº 5, de 13 de dezembro de 1968 e no Ato Complementar nº 42, de 27 de janeiro de 1969.

@@ -79,7 +79,3 @@ ANEXO DA LEI DELEGADA Nº 15, DE 28 DE AGOSTO DE 1985
 (ARTIGO)
 
 SÍMBOLO DO CARGO EM COMISSÃO GRAUS MÍNIMOS EXIGIDOS – PARA OS SÍMBOLOS F – 0 F – 1 F – 2 e 3 F – 4 E D C F – 5 F E D F – 6 G F E F – 7 H G F F – 8 I H G F – 9 J I H
-
-\-----------------------------------------------------------------
-
-Data da última atualização: 29/10/2003.

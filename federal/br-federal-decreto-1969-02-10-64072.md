@@ -1,5 +1,3 @@
-###DEC-064072-0-000-10-02-1969@@@
-
 DECRETO Nº 64.072, DE 10 DE FEVEREIRO DE 1969.
 
 Declara sem efeito o Decreto numero 54.402, de 10 de outubro de 1964.

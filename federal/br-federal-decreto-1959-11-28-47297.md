@@ -1,5 +1,3 @@
-###DEC-047297-0-000-28-11-1959@@@
-
 DECRETO Nº 47.297, DE 28 DE Novembro DE 1959.
 
 Cria no Ministério das Relações Exteriores a Comissão de Coordenação da Política Econômica Exterior, O Grupo Interno de Coordenação da Execução da Política Econômica Exterior e o Secretariado Técnico de Análise e Planejamento da Política Econômica Exterior.

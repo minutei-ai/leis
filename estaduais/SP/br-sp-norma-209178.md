@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209178)<br>
-
 # DECRETO N° 68.376, DE 09 DE MARÇO DE 2024
 
 ### _Autoriza a Fazenda do Estado a re­ceber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de São Bernardo do Campo, parte do imóvel que especifica._

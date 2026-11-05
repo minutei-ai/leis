@@ -1,5 +1,3 @@
-###DEC-082309-0-000-25-09-1978@@@
-
 Decreto nº 82.309, de 25 de setembro de 1978.
 
 Declara de utilidade píblica, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

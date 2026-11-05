@@ -1,5 +1,3 @@
-###DEC-078954-0-000-16-12-1976@@@
-
 DECRETO Nº 78.954, DE 16 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento do curso de Educação Física, da Faculdade de Filosofia, Ciências e Letras de Arapongas, com sede na cidade de Arapongas, Estado do Paraná.

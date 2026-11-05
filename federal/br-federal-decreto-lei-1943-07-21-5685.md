@@ -1,5 +1,3 @@
-###DEL-005685-0-000-21-07-1943@@@
-
 DECRETO‑LEI N. 5.685 – DE  21  DE  JULHO  DE  1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 15.000.000,00, para restituição, de imposto de consumo

@@ -1,5 +1,3 @@
-###DEL-001367-0-000-02-12-1974@@@
-
 # DECretO-LEI Nº 1.367, DE 2 DE DEZEMbRO DE 1974
 
 Prorroga o prazo a que se refere o artigo 1º, da Lei nº 4.694, de 21 de junho de 1965.

@@ -1,5 +1,3 @@
-###DEC-059457-0-000-04-11-1966@@@
-
 DECRETO Nº 59.457, DE 4 DE NOVEMBRO DE 1966.
 
 Poder Judiciário - Tribunal Federal de Recursos. Abre o crédito suplementar de Cr$1.200.000.000, para refôrço da dotação orçamentária que especifica.

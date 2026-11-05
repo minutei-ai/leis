@@ -1,5 +1,3 @@
-###DEC-071332-0-000-08-11-1972@@@
-
 DECRETO Nº 71.332 - de 8 de novembro de 1972.
 
 Concede reconhecimento ao Curso de Comunicação Social (habilitação polivalente), da Universidade Federal do Ceará.

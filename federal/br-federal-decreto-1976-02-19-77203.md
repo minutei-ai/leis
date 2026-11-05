@@ -1,5 +1,3 @@
-###DEC-077203-0-000-19-02-1976@@@
-
 DECRETO Nº 77.203, DE 19 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Geologia da Universidade Federal Rural do Rio de Janeiro, com sede na Cidade de Itaguaí, Estado do Rio de Janeiro.

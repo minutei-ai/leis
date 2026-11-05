@@ -1,5 +1,3 @@
-###DEC-091306-0-000-03-06-1985@@@
-
 DECRETO nº 91.306, DE 03 DE junho DE 1985.
 
 Cria a Estação Ecológica Niquiá em área de terra que indica, e dá outras providências.

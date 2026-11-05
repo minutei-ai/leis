@@ -1,12 +1,11 @@
-<br>
 LEI Nº 4.222, de 14 de dezembro de 2001.
 
-<br>
-Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), para estabelecer<br>
-percentual dos cargos públicos para pessoas<br>
+Altera a [Lei n. 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170), para estabelecer
+
+percentual dos cargos públicos para pessoas
+
 portadoras de deficiência.
 
-<br>
  
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

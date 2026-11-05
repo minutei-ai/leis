@@ -1,5 +1,3 @@
-###DEC-070301-0-000-20-03-1972@@@
-
 Decreto nº 70.301, de 20 de março de 1972.
 
 Altera a redação do artigo 4º do Decreto nº 58.155, de 5 de abril de 1966.

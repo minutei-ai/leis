@@ -1,5 +1,3 @@
-###DEC-047259-0-000-17-11-1959@@@
-
 DECRETO Nº 47.259, DE 17 DE NOVEMBRO DE 1959.
 
 Altera dos Decretos ns. 35.430, de 29 de abril de 1954, 35.133, de 1 de março de 1954, 42.212, de 29 de agôsto de 1957 e 31.672, de 29 de outubro de 1952, e dá outras providências.

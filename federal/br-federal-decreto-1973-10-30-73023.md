@@ -1,5 +1,3 @@
-###DEC-073023-0-000-30-10-1973@@@
-
 Decreto nº 73.023, de 30 de outubro de 1973.
 
 Autoriza a cessão sob a forma de utilização gratuita do terreno que menciona, situado no Município de Sorocaba, Estado de São Paulo.

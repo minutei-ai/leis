@@ -1,5 +1,3 @@
-###DEC-088742-0-000-20-09-1983@@@
-
 Decreto nº 88.742, de 20 de setembro de 1983
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

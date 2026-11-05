@@ -1,5 +1,3 @@
-###DEC-077679-0-000-25-05-1976@@@
-
 DECRETO Nº 77.679, DE 25 DE MAIO DE 1976
 
 Retifica a concessão de lavra outorgada a Delzir Batista Guimarães pelo Decreto nº 44.549, de 25 de setembro de 1958.

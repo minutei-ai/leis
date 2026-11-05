@@ -1,5 +1,3 @@
-###DEL-004724-0-000-22-09-1942@@@
-
 DECRETO- LEI  N. 4.724 – DE 22 DE SETEMBRO DE 1942
 
 Abre, peIo  ministério do Trabalho, Indústrias e comércio, o crédito suplementar de 3:000$0, à Verba que especifica

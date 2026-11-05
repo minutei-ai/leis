@@ -1,6 +1,10 @@
 > **LEI Nº 3.924, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre redução da base de cálculo do Imposto Sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, nas operações com veículos usados, que tenham sido apreendidos pelo Departamento Estadual de Trânsito - DETRAN.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre redução da base de cálculo do Imposto Sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, nas operações com veículos usados, que tenham sido apreendidos pelo Departamento Estadual de Trânsito - DETRAN.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

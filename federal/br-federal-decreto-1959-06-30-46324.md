@@ -1,5 +1,3 @@
-###DEC-046324-0-000-30-06-1959@@@
-
 DECRETO Nº 46.324, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Companhia Alagoana de Fiação e Tecidos a construir uma subestação abaixadora e uma linha de transmissão.

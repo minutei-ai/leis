@@ -1,5 +1,3 @@
-###DEC-002317-0-000-04-09-1997@@@
-
 DECRETO Nº 2.317, DE 4 DE SETEMBRO DE 1997
 
 institui a hora de verão, em parte do Território Nacional, no período que indica.

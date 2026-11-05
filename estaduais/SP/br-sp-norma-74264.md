@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74264)
-
 # LEI Nº 12.721, DE 05 DE OUTUBRO DE 2007
 
 ## (Projeto de lei nº 597/2007, do Deputado Roberto Massafera - PSDB)

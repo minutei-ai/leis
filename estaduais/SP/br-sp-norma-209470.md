@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209470)<br>
-
 # DECRETO LEGISLATIVO N° 2.549, DE 22 DE MAIO DE 2024
 
 ### _Manifesta concordância com a implementação do Convênio ICMS 56/24, ratificado pelo Decreto n° 68.535, de 17 de maio de 2024._

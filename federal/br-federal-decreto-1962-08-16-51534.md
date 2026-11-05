@@ -1,5 +1,3 @@
-###DEC-051534-0-000-16-08-1962@@@
-
 DECRETO Nº 51.534, de 16 de agôsto de 1962.
 
 Institui Grupo de Trabalho para um estudo sôbre a agroindústria canavieira, e dá outras providências.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/5486)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1997/compilacao-lei-9791-30.09.1997.html)
 
 # LEI N° 9.791, DE 30 DE SETEMBRO DE 1997

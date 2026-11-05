@@ -22,15 +22,18 @@ Aparecida de Goiânia, 15 de dezembro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
-<br>
-ÁREA PÚBLICA MUNICIPAL APM-01 – JARDIM FLORENÇA<br>
-Limites, Confrontações e Dimensões<br>
-Matrícula: nº 220.094<br>
+ÁREA PÚBLICA MUNICIPAL APM-01 – JARDIM FLORENÇA
+
+Limites, Confrontações e Dimensões
+
+Matrícula: nº 220.094
+
 Localização: Loteamento Jardim Florença – Aparecida de Goiânia/GO
 
 | Confrontações | Dimensão |

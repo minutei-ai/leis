@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210715)<br>
-
 # DECRETO N° 69.413, DE 11 DE MARÇO DE 2025
 
 ### _Transfere o cargo que especifica e dá providências correlatas._

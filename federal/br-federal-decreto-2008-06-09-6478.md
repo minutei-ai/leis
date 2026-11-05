@@ -1,5 +1,3 @@
-###DEC-006478-0-000-09-06-2008@@@
-
 DECRETO Nº 6.478, DE 9 DE JUNHO DE 2008.
 
 Promulga a Convenção Internacional relativa à Intervenção em Alto-Mar em Casos de Acidentes com Poluição por Óleo, feita em Bruxelas, em 29 de novembro de 1969, e o Protocolo relativo à Intervenção em Alto-Mar em Casos de Poluição por Substâncias Outras que não Óleo, feito em Londres, em 2 de novembro de 1973.
@@ -22,11 +20,7 @@ Brasília, 9 de junho de 2008; 187º da Independência e 120º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 10.6.2008
-
-CONVENÇÃO INTERNACIONAL RELATIVA À INTERVENÇÃO EM ALTO-MAR EM
+Samuel Pinheiro Guimarães NetoCONVENÇÃO INTERNACIONAL RELATIVA À INTERVENÇÃO EM ALTO-MAR EM
 
 CASOS DE ACIDENTES COM POLUIÇÃO POR ÓLEO, DE 1969
 

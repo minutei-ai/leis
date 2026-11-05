@@ -1,14 +1,12 @@
-###DEC-043198-0-000-21-02-1958@@@
+**DECRETO Nº 43.198, DE 21 DE FEVEREIRO DE 1958.**
 
-<strong>DECRETO Nº 43.198, DE 21 DE FEVEREIRO DE 1958.</strong>
+***Altera o Regulamento para a Escola de Marinha Mercante do Rio de Janeiro.***
 
-<em><strong>Altera o Regulamento para a Escola de Marinha Mercante do Rio de Janeiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o Regulamento para a Escola de Marinha Mercante do Rio de Janeiro, aprovado pelo Decreto nº 40.112, de 11 de outubro de 1956, a fim de dar nova redação aos artigos 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10, 11 e 17, acrescentar aos itens I e II ao artigo 2º, I e II ao art. 4º, I, II, III e IV ao art. 5º, e os §§ 1º e 2º ao art. 17, a saber:
+**Art**. 1º Fica alterado o Regulamento para a Escola de Marinha Mercante do Rio de Janeiro, aprovado pelo Decreto nº 40.112, de 11 de outubro de 1956, a fim de dar nova redação aos artigos 2º, 3º, 4º, 5º, 6º, 7º, 8º, 9º, 10, 11 e 17, acrescentar aos itens I e II ao artigo 2º, I e II ao art. 4º, I, II, III e IV ao art. 5º, e os §§ 1º e 2º ao art. 17, a saber:
 
 “Art. 2º Para a consecução de sua finalidade, cabe especificamente à EMMRJ:
 
@@ -68,10 +66,10 @@ VI - Tantas praças do CPSA e do CPSCFN quantas forem necessárias aos Serviços
 
 Parágrafo único. Ficam suprimidos os parágrafos únicos dos artigos 7º e 17 do referido texto regulamentar.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 21 de fevereiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Alves Câmara

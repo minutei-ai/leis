@@ -1,5 +1,3 @@
-###DEC-087416-0-000-20-07-1982@@@
-
 Decreto nº 87.416, de 20 de julho de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

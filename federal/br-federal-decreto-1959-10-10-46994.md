@@ -1,5 +1,3 @@
-###DEC-046994-0-000-10-10-1959@@@
-
 decreto nº 46.994, de 10 de outubro de 1959.
 
 Concede permissão, em caráter permanente, à Cia. Industrial Celulose e Papel Guaíba. “Celupa” (Seção de Celulose), com sede no Estado do Rio Grande do Sul, para funcionar aos domingos e nos feriados civis e religiosos.

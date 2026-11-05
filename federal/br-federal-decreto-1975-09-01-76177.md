@@ -1,5 +1,3 @@
-###DEC-076177-0-000-01-09-1975@@@
-
 DECRETO Nº 76.177 - DE 1 DE SETEMBRO DE 1975
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis da Faculdade de Ciências Contábeis e Administrativas de Varginha, na cidade de Varginha, Estado de Minas Gerais.

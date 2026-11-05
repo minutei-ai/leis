@@ -1,5 +1,3 @@
-###DEC-094074-0-000-05-03-1987@@@
-
 DECRETO Nº 94.074, DE 05 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Canivete", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de MAFRA, no Estado de Santa Catarina, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.693, de 19 de maio de 1986, e dá outras providências.

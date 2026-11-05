@@ -1,5 +1,3 @@
-###DEC-092426-0-000-25-02-1986@@@
-
 DECRETO Nº 92.426, DE 25 DE FEVEREIRO DE 1986
 
 Outorga à Mineração Taboca S.A. concessão para o aproveitamento de energia hidráulica de um trecho do rio Pitinga, no Município de Presidente Figueiredo, Estado do Amazonas, para uso exclusivo.

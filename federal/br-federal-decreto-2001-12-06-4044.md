@@ -1,5 +1,3 @@
-###DEC-004044-0-000-06-12-2001@@@
-
 DECRETO Nº 4.044, DE 6 DE DEZEMBRO DE 2001.
 
 Dá nova organização ao Conselho de Saúde Suplementar - CONSU, criado pela Medida Provisória nº 2.177-44, de 24 de agosto de 2001.

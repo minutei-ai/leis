@@ -1,5 +1,3 @@
-###DEL-009388-0-000-20-06-1946@@@
-
 DECRETO-LEI N. 9.388 – DE 20 DE JUNHO DE 1946
 
 Cria a Universidade do Recife e dá outras providências.

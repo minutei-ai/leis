@@ -1,5 +1,3 @@
-###DEC-092008-0-000-28-11-1985@@@
-
 DECRETO Nº 92.008, DE 28 DE novembro DE 1985
 
 Estabelece requisito para os investimentos de empresas estatais em novos projetos, bem como na ampliação e modernização de empreendimentos existentes, e dá outras providências.

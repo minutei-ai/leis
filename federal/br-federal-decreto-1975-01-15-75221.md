@@ -1,5 +1,3 @@
-###DEC-075221-0-000-15-01-1975@@@
-
 decreto nº 75.221, de 15 de janeiro de 1975.
 
 Declara a cessação de privilégios, outorgada a Centrais Elétricas de São Paulo S.A. - CESP concessão nos municípios de Queluz, Areias, Silveiras e Lavrinhas, Estado de São Paulo, e dá outras providências.

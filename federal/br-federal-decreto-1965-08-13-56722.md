@@ -1,5 +1,3 @@
-###DEC-056722-0-000-16-08-1965@@@
-
 DECRETO Nº 56.722, DE 16 DE AGÔSTO DE 1965.
 
 Declara caduco o decreto nº 20.009 de 27 de novembro de 1945.

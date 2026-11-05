@@ -1,5 +1,3 @@
-###DEC-071687-0-000-12-01-1973@@@
-
 DECRETO Nº 71.687, DE 12 DE JANEIRO DE 1973.
 
 Altera o artigo 11, do Decreto número 70.882, de 27 de julho de 1972, e dá outras providências.

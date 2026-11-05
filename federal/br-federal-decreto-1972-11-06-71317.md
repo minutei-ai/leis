@@ -1,5 +1,3 @@
-###DEC-071317-0-000-06-11-1972@@@
-
 DECRETO Nº 71.317 - DE 6 DE NOVEMBRO DE 1972.
 
 Aprova o Regulamento para a Formação de Oficiais Engenheiros e o Ingresso no Corpo de Engenheiros e Técnicos Navais.

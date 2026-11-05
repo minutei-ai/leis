@@ -1,5 +1,3 @@
-###DEL-004711-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.711 – DE 18 DE SETEMBRO DE 1942
 
 Autoriza a aquisição da um terreno na cidade de Olinda, Estado de Pernambuco

@@ -1,5 +1,3 @@
-###DEC-046230-0-000-16-06-1959@@@
-
 DECRETO Nº 46.230, DE 29 DE JUNHO DE 1959.
 
 Altera o Decreto nº 45.363, de 29 de janeiro de 1959.

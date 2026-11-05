@@ -1,5 +1,3 @@
-###DEC-095517-0-000-18-12-1987@@@
-
 DECRETO Nº 95.517, DE 18 DE DEZEMBRO DE 1987
 
 Outorga a Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE concessão para o aproveitamento da energia hidráulica de um trecho do rio Manso, nos Municípios de Rosário Oeste e Chapada dos Guimarães, Estado do Mato Grosso.

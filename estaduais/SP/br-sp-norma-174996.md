@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/174996)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2015/compilacao-lei-15854-02.07.2015.html)
 
 # LEI N° 15.854, DE 02 DE JULHO DE 2015

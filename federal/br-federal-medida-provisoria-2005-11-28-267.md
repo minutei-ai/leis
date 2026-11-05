@@ -1,5 +1,3 @@
-###MPV-000267-0-000-28-11-2005@@@
-
 MEDIDA PROVISÓRIA Nº 267, DE 28 DE NOVEMBRO DE 2005.
 
 Altera dispositivos da Lei no 6.704, de 26 de outubro de 1979, que dispõe sobre o seguro de crédito à exportação, e autoriza cobranças judiciais e extrajudiciais de créditos da União, no exterior, decorrentes de sub-rogações de garantias de seguro de crédito à exportação honradas com recursos do Fundo de Garantia à Exportação - FGE e de financiamentos não pagos contratados com recursos do Programa de Financiamento às Exportações - PROEX e do extinto Fundo de Financiamento à Exportação - FINEX, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-000185-0-000-23-02-1967@@@
-
 DECRETO-LEI Nº 185, DE 23 DE FEVEREIRO DE 1967
 
 Estabelece normas para contratação de obras e para revisão de preços em contratos de obras ou serviços a cargo do Govêrno Federal.

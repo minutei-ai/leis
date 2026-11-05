@@ -1,5 +1,3 @@
-###DEL-005805-0-000-09-09-1943@@@
-
 DECRETO‑LEI N. 5.805 – DE 9 DE SETEMBRO DE 1943
 
 Abre ao Ministério das Relações Exteriores o crédito espacial de Cr$ 157.164,00, para classificação  de despesa

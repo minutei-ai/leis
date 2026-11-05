@@ -1,7 +1,3 @@
-1
-
-###DEC-099984-0-000-11-01-1991@@@
-
 DECRETO Nº 99.984, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública, para fins de instituição de servidão administrativa em favor da Companhia Energética de Mi­nas Gerais - CEMIG, as áreas de terra que menciona.

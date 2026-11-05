@@ -1,24 +1,22 @@
-###DEC-037581-0-000-11-07-1955@@@
+**DECRETO Nº 37.581, DE 11 DE JULHO DE 1955.**
 
-<strong>DECRETO Nº 37.581, DE 11 DE JULHO DE 1955.</strong>
+***Aprova o Regulamento para o Depósito Central de Armamento.***
 
-<em><strong>Aprova o Regulamento para o Depósito Central de Armamento.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Depósito Central de Armamento, que com êste baixa, assinado pelo General de Exército Henrique Baptista Dufles Texeira Lott, Ministro de Estado da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Depósito Central de Armamento, que com êste baixa, assinado pelo General de Exército Henrique Baptista Dufles Texeira Lott, Ministro de Estado da Guerra.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 11 de julho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott
 
-<strong>ÍNDICE DOS ASSUNTOS</strong>
+**ÍNDICE DOS ASSUNTOS**
 
 Capítulo I- Finalidade ...........................................................................................................1
 
@@ -32,13 +30,13 @@ Capítulo V - Do pessoal em serviço no Depósito ..............................
 
 Capítulo VI - Das comissões de recebimento e expedição de material .............................21
 
-<strong>REGULAMENTO DO DEPÓSITO CENTRAL DE ARMAMENTO</strong>
+**REGULAMENTO DO DEPÓSITO CENTRAL DE ARMAMENTO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>FINALIDADE</em>
+*FINALIDADE*
 
-<strong>Art</strong>. 1º O Depósito Central de Armamento (Dep. C. Armt.) é o órgão de suprimento e estocagem da Diretoria de Armamento (D. Armt.).
+**Art**. 1º O Depósito Central de Armamento (Dep. C. Armt.) é o órgão de suprimento e estocagem da Diretoria de Armamento (D. Armt.).
 
 Parágrafo único. O Depósito Central tem por finalidade:
 
@@ -50,11 +48,11 @@ c - fornecer aos Depósitos Regionais o material necessário para manter o níve
 
 d - fornecer, quando necessário e autorizado, diretamente às Unidades das Armas e dos Serviços, Órgãos de Serviços Estabelecimentos, Repartições e Comissões militares, o material constante de suas dotações.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização do Depósito</em>
+*Da Organização do Depósito*
 
-<strong>Art</strong>. 2º Sua organização compreende:
+**Art**. 2º Sua organização compreende:
 
 1 - Diretoria do Depósito:
 
@@ -130,13 +128,13 @@ g - Secção de Serviços Gerais (Sec Sv Gerais).
 
 A organização da Unidade será a constante do respectivo QO fixado pelo EME.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das Atribuições dos Diferentes Órgãos</em>
+*Das Atribuições dos Diferentes Órgãos*
 
 A - Da Secretaria
 
-<strong>Art</strong>. 3º À Secretaria incumbe:
+**Art**. 3º À Secretaria incumbe:
 
 1 - Por intermédio da Secção de Expediente e Arquivo:
 
@@ -156,15 +154,15 @@ b - organizar e manter em dia tôda a documentação relativa aos oficiais e pes
 
 B - Do Centro Social.
 
-<strong>Art</strong>. 4º Cabe ao Centro Social coordenar, manter e desenvolver os serviços sociais a cargo do Depósito, articulando-os à obra que estiver sendo elaborada no Exército.
+**Art**. 4º Cabe ao Centro Social coordenar, manter e desenvolver os serviços sociais a cargo do Depósito, articulando-os à obra que estiver sendo elaborada no Exército.
 
 C- Da Unidade de Depósito.
 
-<strong>Art</strong>. 5º A Unidade de Depósito de Armamento é uma Unidade de Tropa, de Serviço, destinada a enquadrar o pessoal previsto para execução dos diversos serviços especializados e administrativos do Depósito e de assegurar a Guarda e Vigilância do Estabelecimento.
+**Art**. 5º A Unidade de Depósito de Armamento é uma Unidade de Tropa, de Serviço, destinada a enquadrar o pessoal previsto para execução dos diversos serviços especializados e administrativos do Depósito e de assegurar a Guarda e Vigilância do Estabelecimento.
 
 D - Da Divisão do Material
 
-<strong>Art</strong>. 6º A Divisão do Material é a dependência especializada encarregada de:
+**Art**. 6º A Divisão do Material é a dependência especializada encarregada de:
 
 1 - Por intermédio da Secção de Contrôle:
 
@@ -176,13 +174,13 @@ D - Da Divisão do Material
 
 E -Da Divisão Administrativa
 
-<strong>Art</strong>. 7º À Divisão Administrativa incumbe coordenar as atividades dos diversos órgãos necessários à vida administrativa do Depósito.
+**Art**. 7º À Divisão Administrativa incumbe coordenar as atividades dos diversos órgãos necessários à vida administrativa do Depósito.
 
 Parágrafo único. Compete-lhe:
 
 1 - Por intermédio da Secção Administrativa:
 
-a) organizar e manter em dia e em ordem a escrituração controladora de material do Depósito, excetuando o material especializado de suprimento (letra <em>a</em> do art. 1º), em estoque, que é afeto à Divisão do Material;
+a) organizar e manter em dia e em ordem a escrituração controladora de material do Depósito, excetuando o material especializado de suprimento (letra *a* do art. 1º), em estoque, que é afeto à Divisão do Material;
 
 b) tratar dos assuntos contenciosos relativos a administração do Pessoal e do Material.
 
@@ -220,13 +218,13 @@ Assegurar o refôrço de mão de obra no serviço de estiva em geral;
 
 Assegurar , pelas Oficinas, a confecção, reparação e conservação das embalagens do material em estoque no Depósito ou a ser reparação e conservação do material distribuído e em uso no Estabelecimento.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições Funcionais</em>
+*Das Atribuições Funcionais*
 
 A - Do Diretor do Depósito
 
-<strong>Art</strong>. 8º O Diretor do Depósito Central de Armamento é o responsável, perante o Diretor de Armamento, pelo funcionamento eficiente do Depósito, pela guarda, conservação e segurança de todo material em estoque, assim como das respectivas instalações.
+**Art**. 8º O Diretor do Depósito Central de Armamento é o responsável, perante o Diretor de Armamento, pelo funcionamento eficiente do Depósito, pela guarda, conservação e segurança de todo material em estoque, assim como das respectivas instalações.
 
 Parágrafo único. Compete-lhes:
 
@@ -248,7 +246,7 @@ h) apresentar à Diretoria de Armamento, nas datas que forem estabelecidas, as d
 
 B - Do Sub-Diretor do Depósito
 
-<strong>Art</strong>. 9º O Sub-Diretor é o auxiliar é substituto imediato do Diretor.
+**Art**. 9º O Sub-Diretor é o auxiliar é substituto imediato do Diretor.
 
 Parágrafo único. Incumbe-lhe:
 
@@ -288,7 +286,7 @@ r) secundar o Diretor na coordenação do Serviço Social.
 
 C - Na Secretaria
 
-<strong>Art</strong>. 10. Ao Secretário incumbe:
+**Art**. 10. Ao Secretário incumbe:
 
 a) exercer as funções atribuídas pelos Regulamentos em vigor aos Secretários e Ajudantes dos Corpos de Tropa;
 
@@ -298,7 +296,7 @@ c) zelar e reponder pela carga atribuída à Secretaria e Gabinete do Diretor e 
 
 d) superintender e coordenar os trabalhos das Secções de Expedientes e Arquivo, do Pessoal e da Biblioteca.
 
-<strong>Art</strong>. 11. Ao Chefe da Seção dec Expediente e Arquivo incumbe:
+**Art**. 11. Ao Chefe da Seção dec Expediente e Arquivo incumbe:
 
 a) executar os trabalhos dos Serviços de Correio e Correspondência, ordinária e sigilosa e respectivos Arquivos Gerais, tudo de acôrdo com as “Instruções para o Serviço de Correspondência do Ministério da Guerra”;
 
@@ -306,7 +304,7 @@ b) a organização e publicação dos Boletins ordinários e sigilosos, ordens e
 
 c) zelar e responder pela carga distribuída à Seção.
 
-<strong>Art</strong>. 12. Ao Chefe da Seção de Pessoal incumbe:
+**Art**. 12. Ao Chefe da Seção de Pessoal incumbe:
 
 a) colaborar no estudo das questões concernentes ao pessoal civil e militar do Depósito, organizando o respectivo expediente;
 
@@ -322,7 +320,7 @@ f) colaborar nos trabalhos de assistência social referentes ao pessoal civil, f
 
 g) zelar e responder pela carga distribuída a Secção.
 
-<strong>Art</strong>. 13. Ao Bibliotecário incumbe:
+**Art**. 13. Ao Bibliotecário incumbe:
 
 a) fichar, classificar, catalogar e escriturar a carga de tôdas as publicações de assuntos militares de conhecimentos gerais, mandadas relacionar ou incluir no Depósito;
 
@@ -332,11 +330,11 @@ c)zelar e responder pela carga distribuída à Biblioteca.
 
 D - No Centro Social:
 
-<strong>Art</strong>. 14. Compete à Comissão do Serviço Social, presidida pelo Diretor do Depósito, estudar, planejar, promover e dirigir as providências relativas as obras e serviços suscetíveis de contribuir para o melhoramento das condições sociais do pessoal do Depósito, particularmente no que concerne à assistência, à saúde, alimentação, educação, recreação e transporte.
+**Art**. 14. Compete à Comissão do Serviço Social, presidida pelo Diretor do Depósito, estudar, planejar, promover e dirigir as providências relativas as obras e serviços suscetíveis de contribuir para o melhoramento das condições sociais do pessoal do Depósito, particularmente no que concerne à assistência, à saúde, alimentação, educação, recreação e transporte.
 
 E - Do Comandante da Unidade de Depósitos:
 
-<strong>Art</strong>. 15. O Comandante da Unidade de Depósito é o responsável perante o Diretor, pela administração, instrução e disciplina da Sub-Unidade.
+**Art**. 15. O Comandante da Unidade de Depósito é o responsável perante o Diretor, pela administração, instrução e disciplina da Sub-Unidade.
 
 Parágrafo único. Incumbe-lhe:
 
@@ -348,7 +346,7 @@ c) executar, de acôrdo com os planos de segurança aprovados pelo Diretor do De
 
 F - Na Divisão do Material:
 
-<strong>Art</strong>. 16. O Chefe da Divisão do Material é o responsável perante o Diretor pela escrituração controladora de todo o material de suprimento existente no Depósito, bem como pela boa execução do respectivo armazenamento e conservação nas diversas Secções e Sub-Secções subordinadas.
+**Art**. 16. O Chefe da Divisão do Material é o responsável perante o Diretor pela escrituração controladora de todo o material de suprimento existente no Depósito, bem como pela boa execução do respectivo armazenamento e conservação nas diversas Secções e Sub-Secções subordinadas.
 
 Parágrafo único. Compete-lhe:
 
@@ -368,7 +366,7 @@ g) providenciar a organização e conferir os mapas de material a serem enviados
 
 h) zelar pela carga afetada à Fiscalização Administrativa atribuída à Divisão e distribuí-la, mediante relacionamento, às Secções.
 
-<strong>Art</strong>. 17. O Chefe da Secção de Controle é o responsável, perante o Chefe da Divisão do Material, pelo perfeito funcionamento do serviço de Recebimento e Expedição do material de suprimento e pelo contrôle da respectiva movimentação.
+**Art**. 17. O Chefe da Secção de Controle é o responsável, perante o Chefe da Divisão do Material, pelo perfeito funcionamento do serviço de Recebimento e Expedição do material de suprimento e pelo contrôle da respectiva movimentação.
 
 Parágrafo único. Incumbe-lhe:
 
@@ -390,7 +388,7 @@ h) providenciar a organização das requisições de transporte relativas ao mat
 
 i) zelar pela carga, afeta à Fiscalização Administrativa, atribuída à Secção e distribuí-la, mediante relacionamento, às Sub-Secções.
 
-<strong>Art</strong>. 18. Ao Chefe da Sub-Secção de Recebimento e Expedição, incumbe:
+**Art**. 18. Ao Chefe da Sub-Secção de Recebimento e Expedição, incumbe:
 
 a) superintender o trabalho de abertura dos volumes, para o respectivo exame pela Comissão responsável e, após a identificação e etiquetagem do material recebido e aceito, quando fôr o caso, o de seu fechamento ou confecção de nova embalagem;
 
@@ -400,13 +398,13 @@ c) proceder à verificação e providenciar sôbre o perfeito acondicionamento e
 
 d) zelar e responder pela carga afeta à Fiscalização Administrativa, distribuída à Sub-Secção.
 
-<strong>Art</strong>. 19. Ao Chefe da Sub-Secção de Fichário e Catálogos incumbe:
+**Art**. 19. Ao Chefe da Sub-Secção de Fichário e Catálogos incumbe:
 
 a) Manter rigorosamente em ordem e em dia o Fichário de entrada e saída do material de suprimento;
 
 b) providenciar a organização e execução material dos Têrmos de Recebimento e, quando fôr o caso, de Notas  Discriminativas, segundo a simbologia padronizada, para efeito de inclusão em carga, assim como das Guias de Remessa, tudo com cópias em números suficiente para atender às necessidades do serviço;
 
-c) arquivar, após as alterações em consequência introduzidas nos fichários, uma via de cada um dos documentos mencionados na alínea <em>b</em>, supra, devendo a Guia de Remessa conter o recibo do Serviço ou Emprêsa transportadores e os comprovantes de recebimento do material, pelo destinatário;
+c) arquivar, após as alterações em consequência introduzidas nos fichários, uma via de cada um dos documentos mencionados na alínea *b*, supra, devendo a Guia de Remessa conter o recibo do Serviço ou Emprêsa transportadores e os comprovantes de recebimento do material, pelo destinatário;
 
 d) manter em dia relações ou fichas de preços dos dieferentes materiais existentes na Divisão de Material, inclusive de peças, acessórios, e equipamentos diversos, fornecendo-os às Secções interessadas;
 
@@ -422,7 +420,7 @@ i) distribuir as ordens de fornecimentos às Secções e Sub-Secções, desdobra
 
 j) zelar e responder pela carga afeta à Fiscalização Administrativa, distribuída à Sub-Secção.
 
-<strong>Art</strong>. 20. Aos Chefes de Secções incumbe:
+**Art**. 20. Aos Chefes de Secções incumbe:
 
 a) ser responsável perante o Chefe da Divisão, pela escrituração controladora (fichário) do Material de suprimento, distribuído à Secção, bem como pela perfeita execução de seu armazenamento, empilhagem e conservação;
 
@@ -444,7 +442,7 @@ i) cumprir as Ordens de Fornecimento recebidas, fazendo a entrega dos respectivo
 
 j) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída à Secção.
 
-<strong>Art</strong>. 21. Aos Auxiliares das Secções, incumbe:
+**Art**. 21. Aos Auxiliares das Secções, incumbe:
 
 a) auxiliar ao Chefe da Secção na execução de todos os trabalhos que lhes forem afetos;
 
@@ -452,7 +450,7 @@ b) ter a seu cargo a organização dos Fichários de contrôle do Material Espec
 
 c) manter-se a par do movimento das Sub-Secções de modo a poder, em qualquer eventualidade, assumir a Chefia de qualquer das subordinadas à Secção.
 
-<strong>Art</strong>. 22. Aos Chefes das Sub-Secções, incumbe:
+**Art**. 22. Aos Chefes das Sub-Secções, incumbe:
 
 a) responsabilidade direta pela existência, armazenamento, empelhamento e manutenção preventiva do Material em estoque:
 
@@ -470,7 +468,7 @@ g) zelar e responder pela carga afeta à Fiscalização Administrativa e distrib
 
 G - Na Divisão Administrativa
 
-<strong>Art</strong>. 23. O Chefe da Divisão Administrativa é o responsável, perante o Diretor do Depósito, pela execução dos encargos dos órgãos que lhe são subordinados.
+**Art**. 23. O Chefe da Divisão Administrativa é o responsável, perante o Diretor do Depósito, pela execução dos encargos dos órgãos que lhe são subordinados.
 
 Parágrafo único. Compete-lhe:
 
@@ -482,7 +480,7 @@ c) propor ao Sub-Diretor as medidas de caráter geral, destinadas a assegurar a 
 
 d) superintender, em acôrdo com as diretrizes do Diretor, os trabalhos do Serviço de Assistência Social ao pessoal civil do Depósito.
 
-<strong>Art</strong>. 24. O Chefe da Secção Administrativa é o auxiliar imediato do Fiscal Administrativo, incumbindo-lhe:
+**Art**. 24. O Chefe da Secção Administrativa é o auxiliar imediato do Fiscal Administrativo, incumbindo-lhe:
 
 a) a organização da execução material da escrituração controladora da carga geral do Depósito (exceto o Material Especializado de suprimento, afeto à Divisão do Material);
 
@@ -496,7 +494,7 @@ e) superintender os trabalhos da Portaria;
 
 f) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída à Secção.
 
-<strong>Art</strong>. 25. Ao Encarregado da Portaria incumbe:
+**Art**. 25. Ao Encarregado da Portaria incumbe:
 
 a) zelar pela fiel execução do Serviço de Ponto do pessoal civil do Depósito;
 
@@ -506,7 +504,7 @@ c) cumprir as ordens, com os meio à sua disposição, relacionadas com a vigil�
 
 d) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída à Portaria.
 
-<strong>Art</strong>. 26. Ao Tesoureiro incumbe:
+**Art**. 26. Ao Tesoureiro incumbe:
 
 a) as atribuições previstas, nos Regulamentos, para os Tesoureiros dos Corpos de Tropa;
 
@@ -514,7 +512,7 @@ b) proceder ao exame e informar os processos relacionados com o emprêgo de Fund
 
 c) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída à Tesouraria.
 
-<strong>Art</strong>. 27. Ao Almoxarife incumbe:
+**Art**. 27. Ao Almoxarife incumbe:
 
 a) as atribuições previstas, nos Regulamentos, para os Almoxarifes dos Corpos de Tropa;
 
@@ -522,7 +520,7 @@ b) organizar a documentação relacionada com as aquisições de material em ger
 
 c) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída ao Almoxarifado, assim como providenciar a manutenção, em estado de eficiência, dos materiais colhidos ao depósito respectivo.
 
-<strong>Art</strong>. 28. Ao Aprovisionado incumbe:
+**Art**. 28. Ao Aprovisionado incumbe:
 
 a) as atribuições previstas, nos Regulamentos, para os Aprovisionadores dos Corpos de Tropa;
 
@@ -530,7 +528,7 @@ b) colaborar nos trabalhos do Serviço de Assistência Social ao pessoal civil d
 
 c) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída ao Aprovisionamento e suas dependências.
 
-<strong>Art</strong>. 29. Ao Chefe da Secção de Saúde incumbe:
+**Art**. 29. Ao Chefe da Secção de Saúde incumbe:
 
 a) as atribuições previstas, nos Regulamentos, para os Chefes das Formações Sanitárias Regimentais;
 
@@ -538,7 +536,7 @@ b) colaborar nos trabalhos do Serviço de Assistência Social ao pessoal civil d
 
 c) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída à Secção de Saúde e suas dependências.
 
-<strong>Art</strong>. 30. Ao Chefe da Secção de Transporte incumbe:
+**Art**. 30. Ao Chefe da Secção de Transporte incumbe:
 
 a) ser o responsável imediato pela carga do material atribuído à Secção;
 
@@ -552,7 +550,7 @@ e) organizar e zelar pela fiel observância das normas de fiscalização da entr
 
 f) solicitar ao Fiscal Adminstrativo tôdas as providências necessárias à perfeita execução dos trabalhos da Secção.
 
-<strong>Art</strong>. 31. Ao Chefe da Secção de Serviços Gerais incumbe:
+**Art**. 31. Ao Chefe da Secção de Serviços Gerais incumbe:
 
 a) organizar o pessoal da Secção por forma a atender ao serviço de manutenção geral da área, instalações e edifícios do Depósito, tudo de acôrdo com as ordens e instruções do Fiscal Administrativo;
 
@@ -564,21 +562,21 @@ d) solicitar ao Fiscal Administrativo tôdas as providências necessárias à pe
 
 e) zelar e responder pela carga afeta à Fiscalização Administrativa e distribuída à Secção.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Pessoal em Serviço nos Depósitos</em>
+*Do Pessoal em Serviço nos Depósitos*
 
-<strong>Art</strong>. 32. O efetivo em Oficiais e Praças do Depósito é o constante do Quadro de Organização e Efetivo do Depósito Central de Material Bélico, e destina-se a enquadrar o trabalho nos diversos Órgãos do Depósito.
+**Art**. 32. O efetivo em Oficiais e Praças do Depósito é o constante do Quadro de Organização e Efetivo do Depósito Central de Material Bélico, e destina-se a enquadrar o trabalho nos diversos Órgãos do Depósito.
 
-<strong>Art</strong>. 33. Nas diferentes dependências do Depósito serão lotados funcionários civis e admitidos extranumerários, na forma da legislação.
+**Art**. 33. Nas diferentes dependências do Depósito serão lotados funcionários civis e admitidos extranumerários, na forma da legislação.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das Comissões de Recebimento e Expedição de Material</em>
+*Das Comissões de Recebimento e Expedição de Material*
 
-<strong>Art</strong>. 34. As Comissões de Recebimento de material afeto à Fiscalização Administrativa, regulam-se pelas disposições a respeito contidas no Capítulo III do Título II do R 3.
+**Art**. 34. As Comissões de Recebimento de material afeto à Fiscalização Administrativa, regulam-se pelas disposições a respeito contidas no Capítulo III do Título II do R 3.
 
-<strong>Art</strong>. 35. Para o recebimento e expedição do Material Especializado de suprimento, afeto à Divisão do Material, será constituída uma Comissão Permanente, composta de:
+**Art**. 35. Para o recebimento e expedição do Material Especializado de suprimento, afeto à Divisão do Material, será constituída uma Comissão Permanente, composta de:
 
 a) Membros permanentes:
 
@@ -590,10 +588,10 @@ b) Membro variável:
 
 Chefe da Sub-Secção interessada.
 
-<strong>Art</strong>. 36. Os trabalhos da Comissão Permanente regulam-se pelas mesmas disposições relativas às Comissões de Recebimento de que trata o Capítulo III do Título II do R 3.
+**Art**. 36. Os trabalhos da Comissão Permanente regulam-se pelas mesmas disposições relativas às Comissões de Recebimento de que trata o Capítulo III do Título II do R 3.
 
 Rio de Janeiro, 11 de julho de 1955.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**
 
 Ministro da Guerra

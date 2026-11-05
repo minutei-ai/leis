@@ -1,5 +1,3 @@
-###DEC-092370-0-000-06-02-1986@@@
-
 DECRETO Nº 92.370, DE 06 DE FEVEREIRO DE 1986
 
 Dispõe sobre a vinculação do Território Federal de Fernando de Noronha ao Estado-Maior das Forças Armadas, e dá outras providências.

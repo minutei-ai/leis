@@ -1,5 +1,3 @@
-###DEC-055697-0-000-02-02-1965@@@
-
 DECRETO Nº 55.697, DE 2 DE FEVEREIRO DE 1965.
 
 Concede à Empresa Águas Minerais Soledade toda, autorização para funcionar como emprêsa de mineração.

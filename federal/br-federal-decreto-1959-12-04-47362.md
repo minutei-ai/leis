@@ -1,5 +1,3 @@
-###DEC-047362-0-000-04-12-1959@@@
-
 decreto nº 47.362, de 4 de dezembro de 1959.
 
 Autoriza o cidadão brasileiro Edú Thomé Guimarães a pesquisar mica no município de Bom Jesus do Galho, Estado de Minas Gerais.

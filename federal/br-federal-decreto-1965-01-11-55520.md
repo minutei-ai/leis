@@ -1,5 +1,3 @@
-###DEC-055520-0-000-11-01-1965@@@
-
 DECRETO Nº 55.520, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Augusto Cesar a pesquisar ouro no município de Peixe, Estado de Goiás.

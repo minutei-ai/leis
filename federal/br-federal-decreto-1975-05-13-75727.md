@@ -1,5 +1,3 @@
-###DEC-075727-0-000-13-05-1975@@@
-
 DECRETO Nº 75.727, DE 13 DE MAIO DE 1975.
 
 Declara de utilidade pública e interesse social para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS) área de terra abrangida pelo Projeto de Irrigação "Souza Melo" ex-Santo Antônio de Russas, no Município de Russa, Estado do Ceará.

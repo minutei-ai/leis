@@ -16,24 +16,220 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 64.614,06</td><td style=" width:85px;    ">R$ 1.800.000,00</td><td style=" width:85px;    ">R$ 1.864.614,06</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 34.293,71</td><td style=" width:85px;    ">R$ 9.000.000,00</td><td style=" width:85px;    ">R$ 9.034.293,71</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 49.601,18</td><td style=" width:85px;    ">R$ 20.500.000,00</td><td style=" width:85px;    ">R$ 20.549.601,18</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 70.706,23</td><td style=" width:85px;    ">R$ 2.000.000,00</td><td style=" width:85px;    ">R$ 2.070.706,23</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 17.168,13</td><td style=" width:85px;    ">R$ 88.000.000,00</td><td style=" width:85px;    ">R$ 88.017.168,13</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 10.499,55</td><td style=" width:85px;    ">R$ 250.000,00</td><td style=" width:85px;    ">R$ 260.499,55</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA</td><td style=" width:85px;    ">12 366 4100 4157</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 82.643,27</td><td style=" width:85px;    ">R$ 1.800.000,00</td><td style=" width:85px;    ">R$ 1.882.643,27</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO</td><td style=" width:85px;    ">12 362 4100 4151</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 824.866,16</td><td style=" width:85px;    ">R$ 12.000.000,00</td><td style=" width:85px;    ">R$ 12.824.866,16</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:340px;  height:19px;   ">R$ 135.350.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 135.350.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 64.614,06
+
+R$ 1.800.000,00
+
+R$ 1.864.614,06
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 34.293,71
+
+R$ 9.000.000,00
+
+R$ 9.034.293,71
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 49.601,18
+
+R$ 20.500.000,00
+
+R$ 20.549.601,18
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 70.706,23
+
+R$ 2.000.000,00
+
+R$ 2.070.706,23
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 17.168,13
+
+R$ 88.000.000,00
+
+R$ 88.017.168,13
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 10.499,55
+
+R$ 250.000,00
+
+R$ 260.499,55
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - EJA
+
+12 366 4100 4157
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 82.643,27
+
+R$ 1.800.000,00
+
+R$ 1.882.643,27
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO MEDIO
+
+12 362 4100 4151
+
+15400108
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 824.866,16
+
+R$ 12.000.000,00
+
+R$ 12.824.866,16
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 135.350.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 135.350.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL</td><td style=" width:85px;    ">12 361 4100 4149</td><td style=" width:85px;    ">15400108</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 696.382.240,80</td><td style=" width:85px;    ">R$ 135.350.000,00</td><td style=" width:85px;    ">R$ 135.350.000,00</td></tr></tbody></table>
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:340px;  height:19px;   ">R$ 135.350.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 135.350.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS</td><td style=" width:340px;  height:19px;   ">R$ 135.350.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 135.350.000,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE PROFISSIONAIS DA EDUCAÇÃO - ENSINO FUNDAMENTAL
+
+12 361 4100 4149
+
+15400108
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 696.382.240,80
+
+R$ 135.350.000,00
+
+R$ 135.350.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 135.350.000,00
+
+**TOTAL**
+
+R$ 135.350.000,00
+
+**TOTAL POR FONTE**
+
+15400108 - TRANSFERÊNCIAS DO FUNDEB - IMPOSTOS E TRANSFERÊNCIAS DE IMPOSTOS
+
+R$ 135.350.000,00
+
+**TOTAL**
+
+R$ 135.350.000,00

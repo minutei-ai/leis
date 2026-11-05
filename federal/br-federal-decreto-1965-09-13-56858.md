@@ -1,5 +1,3 @@
-###DEC-056858-0-000-13-09-1965@@@
-
 DECRETO Nº 56.858, DE 13 DE SETEMBRO DE 1965.
 
 Dá nova redação ao art. 1º do Decreto nº 54.029, de 17 de julho de 1964.

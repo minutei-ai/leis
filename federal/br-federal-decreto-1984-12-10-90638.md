@@ -1,5 +1,3 @@
-###DEC-090638-0-000-10-12-1984@@@
-
 Decreto nº 90.638, de 10 de dezembro de 1984
 
 Altera a composição do Conselho Deliberativo da Comissão Executiva do Plano da Lavoura Cacaueira - CEPLAC e dá outras providências.

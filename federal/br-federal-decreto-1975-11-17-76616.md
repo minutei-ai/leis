@@ -1,5 +1,3 @@
-###DEC-076616-0-000-17-11-1975@@@
-
 DECRETO Nº 76.616, DE 17 DE NOVEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas Fluminense S.A. - CELF, no Estado do Rio de Janeiro.

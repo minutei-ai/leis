@@ -1,5 +1,3 @@
-###DEC-074762-0-000-25-10-1974@@@
-
 decreto nº 74.762, de 25 de outubro de 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de São José do Rio Pardo, Estado de São Paulo.

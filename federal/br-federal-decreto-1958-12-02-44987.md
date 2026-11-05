@@ -1,5 +1,3 @@
-###DEC-044987-0-000-02-12-1958@@@
-
 DECRETO Nº 44.987, DE 2 DE julho DE 1958.
 
 Autoriza o cidadão brasileiro João Batista da Silva a pesquisar mica e quartzo no Município de Virgolândia, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-058356-0-000-05-05-1966@@@
-
 decreto nº 58.356, de 5 de maio de 1966.
 
 Abre, pelo Ministério da Aviação e Obras Públicas, o crédito especial de Cr$11.000.000.000, para o fim que especifica.

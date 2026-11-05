@@ -1,5 +1,3 @@
-###DEC-060838-0-000-08-06-1967@@@
-
 decreto nº 60.838, de 8 de junho de 1967.
 
 Regulamenta a aplicação dos recursos previstos nos artigos 29 da lei número 4.131, de 3.9.62, artigo 5º da Lei nº 5.072, de 12. 08.66, Lei número 5.143, de 20.10.66, e dá outras providência.

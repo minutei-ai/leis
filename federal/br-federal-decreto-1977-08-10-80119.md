@@ -1,5 +1,3 @@
-###DEC-080119-0-000-10-08-1977@@@
-
 DECRETO Nº 80.119, DE 10 de agosto de 1977.
 
 Concede à Mineração Brejo do Rio Preto Ltda. o direito de lavrar cristal de rocha, no Município de Francisco Drumond, Estado de Minas Gerais.

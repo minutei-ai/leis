@@ -1,5 +1,3 @@
-###DEC-005067-0-000-03-05-2004@@@
-
 DECRETO Nº 5.067,  DE 3 DE MAIO DE 2004
 
 Dá nova redação à alínea "e" do inciso III e à alínea "g" do inciso IV do art. 1º do Decreto nº 3.648, de 30 de outubro de 2000, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz e dá outras providências.

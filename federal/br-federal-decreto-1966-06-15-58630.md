@@ -1,5 +1,3 @@
-###DEC-058630-0-000-15-06-1966@@@
-
 Decreto nº 58.630, de 15 de junho de 1966.
 
 Autoriza a Mineração da Amazônia, Comércio e Indústria S/A MACISA a lavrar cassiterita no município de Porto Velho, Território Federal de Rondônia.

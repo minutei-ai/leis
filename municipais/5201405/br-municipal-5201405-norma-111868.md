@@ -6,13 +6,16 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1º Os arts. 26 a 30, 134 e 135 da Lei Complementar nº 003, de 28 de dezembro de 2001, passam a vigorar com as seguintes alterações:
 
-TÍTULO II<br>
+TÍTULO II
+
 DO PROVIMENTO, VACÂNCIA, MOVIMENTAÇÃO E SUBSTITUIÇÃO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROVIMENTO (...)
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA JORNADA DE TRABALHO E DA FREQÜÊNCIA AO SERVIÇO
 
 Art. 26 A jornada normal de trabalho do servidor público municipal, exceto os casos previstos em lei, será de 40 (quarenta) horas semanais ou 08 (oito) horas diárias.
@@ -63,12 +66,14 @@ Art. 30 - A frequência dos servidores será apurada através de registro, a ser
 
 (...)
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DO REGIME DISCIPLINAR
 
 (...)
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ACUMULAÇÃO
 
 Art. 134. Ressalvados os casos previstos na Constituição Federal, é vedada a acumulação remunerada de cargos públicos.
@@ -87,8 +92,10 @@ Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as di
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 18 de dezembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

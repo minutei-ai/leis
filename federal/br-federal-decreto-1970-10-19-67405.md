@@ -1,5 +1,3 @@
-###DEC-067405-0-000-19-10-1970@@@
-
 DECRETO Nº 67.405, DE 19 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto número 10.103, de 30 de julho de 1942.

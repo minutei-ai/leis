@@ -1,5 +1,3 @@
-###DEL-005678-0-000-17-07-1943@@@
-
 DECRETO‑LEI N. 5.678 – DE 17 DE JULHO de 1943
 
 Isenta do impôsto de consumo o açucar e a aguardente requisitados pelo Instituto do Açucar e do Àlcool e destinados à produção de álcool motor

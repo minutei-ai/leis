@@ -1,5 +1,3 @@
-###DEC-002485-0-000-02-02-1998@@@
-
 DECRETO Nº 2.485, DE 2 DE FEVEREIRO DE 1998
 
 Cria a Floresta Nacional de Humaitá, no Estado do Amazonas, e dá outras providências.

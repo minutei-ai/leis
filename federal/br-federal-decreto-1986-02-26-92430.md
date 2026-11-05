@@ -1,5 +1,3 @@
-###DEC-092430-0-000-26-02-1986@@@
-
 DECRETO Nº 92.430, DE 26 DE FEVEREIRO DE 1986
 
 Cria a Embaixada do Brasil na República de Botsuana.

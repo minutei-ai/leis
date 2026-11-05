@@ -1,5 +1,3 @@
-###DEC-007774-0-000-04-07-2012-PUB-01@@@
-
 DECRETO Nº 7.774, DE 4 DE JULHO DE 2012
 
 Autoriza a criação de linha de crédito de investimento no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF, com bônus de adimplência para agricultores familiares de municípios da região Sul afetados por seca ou estiagem.

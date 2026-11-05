@@ -16,10 +16,68 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES</td><td style=" width:85px;    ">10 302 1043 2522</td><td style=" width:85px;    ">26010233</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 62.536,00</td><td style=" width:85px;    ">R$ 1.062.536,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.757.562,40</td><td style=" width:85px;    ">R$ 232.061,80</td><td style=" width:85px;    ">R$ 2.989.624,20</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; height: 19px; text-align: right;">R$ 232.061,80</td></tr><tr><td style=" width:340px;    ">26010233 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style="width: 340px; text-align: right;">R$ 62.536,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style="width: 340px; text-align: right;">R$ 294.597,80</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES
+
+10 302 1043 2522
+
+26010233
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.000.000,00
+
+R$ 62.536,00
+
+R$ 1.062.536,00
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.757.562,40
+
+R$ 232.061,80
+
+R$ 2.989.624,20
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 232.061,80
+
+26010233 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE ESTRUTURAÇÃO DA REDE DE SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 62.536,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 294.597,80

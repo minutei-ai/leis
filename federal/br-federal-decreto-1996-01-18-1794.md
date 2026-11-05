@@ -1,5 +1,3 @@
-###DEC-001794-0-000-18-01-1996@@@
-
 DECRETO N° 1.794, DE 18 DE JANEIRO DE 1996.
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona.

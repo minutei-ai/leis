@@ -1,5 +1,3 @@
-###DEC-048998-0-000-04-10-1960@@@
-
 DECRETO Nº 48.998, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza a Emprêsa Cosmopolitana de Comércio e Mineração S.A. a pesquisar mica e quartzo no município de Santa Maria do Suassuí, Estado de Minas Gerais.

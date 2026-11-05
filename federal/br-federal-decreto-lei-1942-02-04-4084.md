@@ -1,5 +1,3 @@
-###DEL-004084-0-000-04-02-1942@@@
-
 DECRETO-LEI N. 4.084 – DE 4 DE FEVEREIRO DE 1942
 
 Extingue a Comissão do Parque Nacional de Itatiaia do Ministério da Agricultura

@@ -1,5 +1,3 @@
-###DEC-071803-0-000-02-02-1973@@@
-
 DECRETO Nº 71.803, DE 2 DE FEVEREIRO DE 1973.
 
 Retifica o Decreto nº 70.938, de 4 de agosto de 1972, que dispõe sobre a reintegração de funcionários do Ministério da Agricultura, atingidos pelo Decreto nº 62.234, de 7.2.68, e dá outras providências.

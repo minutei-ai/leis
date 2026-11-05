@@ -1,5 +1,3 @@
-###DEC-049361-0-000-28-11-1960@@@
-
 DECRETO N. 49.361 – DE 28 DE NOVEMBRO DE 1960
 
 Decalara prioritária ao desenvolvimento do Nordeste, para afeito de isenção de impostos e taxas federais, a importação dos equipamentos novos, ora descritos e a serem trazidos do exterior pela em presa Grande Moinho Cearense S. A., de Fortaleza (Ce).

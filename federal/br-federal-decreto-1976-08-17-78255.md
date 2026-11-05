@@ -1,5 +1,3 @@
-###DEC-078255-0-000-17-08-1976@@@
-
 DECRETO Nº 78.255-DE 17 DE AGOSTO de 1976
 
 Concede reconhecimento ao curso de Biblioteconomia, do Instituto Superior de Mococa, com sede na cidade de Mococa, Estado de São Paulo.

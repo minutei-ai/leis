@@ -1,5 +1,3 @@
-###DEC-081315-0-000-08-02-1978@@@
-
 Decreto nº 81.315, de 8 de fevereiro de 1978.
 
 Regulamenta a aplicação do instituto da Ascensão Funcional, a que se refere a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

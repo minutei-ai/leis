@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e539fc61-2115-4ad5-9381-0ba307060a8c/texto#nowhere)
 
-###DEL-001896-0-000-17-12-1981@@@
-
 # Decreto-lei nº 1.896, de 17 DE dezembro de 1981
 
 Dispõe sobre a utilização de instalações e serviços destinado a apoiar e tornar segura a navegação aérea e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004667-0-000-04-04-2003@@@
-
 DECRETO N° 4.667, DE 4 DE ABRIL DE 2003.
 
 Altera o Decreto no 4.562, de 31 de dezembro de 2002, que estabelece normas gerais para celebração, substituição e aditamento dos contratos de fornecimento de energia elétrica; para tarifação e preço de energia elétrica; dispõe sobre compra de energia elétrica das concessionárias de serviço público de distribuição; valores normativos; estabelece a redução do número de submercados; diretrizes para revisão da metodologia de cálculo das Tarifas de Uso do Sistema de Transmissão \- TUST; o Decreto n° 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para as empresas concessionárias de serviços públicos de energia elétrica, e dá outras providências.

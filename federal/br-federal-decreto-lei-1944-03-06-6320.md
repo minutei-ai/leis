@@ -1,5 +1,3 @@
-###DEL-006320-0-000-06-03-1944@@@
-
 DECRETO-LEI N. 6.320 – DE 6 DE MARÇO DE 1944
 
 Concede pensão especial à viúva e aos filhos menores de Gerson Miranda de Souza

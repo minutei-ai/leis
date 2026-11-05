@@ -1,5 +1,3 @@
-###DEC-077091-0-000-28-01-1976@@@
-
 DECRETO Nº 77.091, DE 28 DE JANEIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Jornal de Itabuna S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Itabuna, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-002151-0-000-05-07-1984@@@
-
 # DecretO-lei nº 2.151, de 05 de julho de 1984
 
 Concede isenção dos impostos de importação e sobre produtos industrializados para equipamentos de produção cinematográfica.

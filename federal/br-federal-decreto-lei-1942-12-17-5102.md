@@ -1,5 +1,3 @@
-###DEL-005102-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.102 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 25.000,00 à verba que especifica

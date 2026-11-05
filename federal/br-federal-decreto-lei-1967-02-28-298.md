@@ -1,5 +1,3 @@
-###DEL-000298-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 298, DE 28 DE FEVEREIRO DE 1967
 
 Autoriza o Poder Executivo a abrir crédito de NCr$1.000.000,00 (hum milhão de cruzeiros novos) e dá outras providências.

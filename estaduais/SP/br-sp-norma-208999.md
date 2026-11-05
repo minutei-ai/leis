@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208999)<br>
-
 # LEI N° 17.859, DE 22 DE DEZEMBRO DE 2023
 
 ## (Projeto de lei n° 1303/2023, do Deputado Gerson Pessoa - PODE)

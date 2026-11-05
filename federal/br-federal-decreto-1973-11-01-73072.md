@@ -1,5 +1,3 @@
-###DEC-073072-0-000-01-11-1973@@@
-
 DECRETO Nº 73.072 - DE 1 DE NOVEMBRO DE 1973
 
 Dispõe sobre a criação de zona prioritária, para fins de Reforma Agrária, no Estado da Bahia, e dá outras providências.

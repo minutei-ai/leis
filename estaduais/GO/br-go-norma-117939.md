@@ -16,10 +16,12 @@ Goiânia, aos 03 dias do mês de Agosto de 2026.
 
 HELENA MARIA ADORNO MACEDO
 
-QUADRO 1<br>
+QUADRO 1
+
 SUPLEMENTAÇÃO
 
-| **700 - MINISTÉRIO PÚBLICO**<br>
+| **700 - MINISTÉRIO PÚBLICO**
+
 **701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
@@ -28,13 +30,16 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 7.900.000,00
 
-<table><thead></thead><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align:right">R$ 7.900.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.900.000,00
 
 QUADRO 2
 
 REDUÇÃO
 
-| **700 - MINISTÉRIO PÚBLICO**<br>
+| **700 - MINISTÉRIO PÚBLICO**
+
 **701 - GABINETE DO PROCURADOR GERAL DE JUSTICA** |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
@@ -43,8 +48,16 @@ REDUÇÃO
 
 TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III: R$ 7.900.000,00
 
-<table><thead></thead><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align:right">R$ 7.900.000,00</td></tr><tr><td style="text-align:right"><strong>TOTAL</strong></td><td style="text-align:right">R$ 7.900.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.900.000,00
+
+**TOTAL**
+
+R$ 7.900.000,00
 
 TOTAL POR FONTE: R$ 7.900.000,00
 
-<table><thead></thead><tbody><tr><td>15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style="text-align:right">R$ 7.900.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 7.900.000,00

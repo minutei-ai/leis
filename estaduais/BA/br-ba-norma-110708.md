@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a contratar, em nome do Estado da B
 
 Parágrafo único - Os recursos resultantes da operação de crédito autorizada neste artigo destinam-se ao financiamento do Programa de Restauração e Manutenção de Rodovias PREMAR no Estado da Bahia.
 
-Redação do Parágrafo único do art. 1º de acordo com o [art. 1º da Lei nº 10.017, de 24 de março de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10017-de-24-de-marco-de-2006#LO_10_017_Art__1) .<br>
+Redação do Parágrafo único do art. 1º de acordo com o [art. 1º da Lei nº 10.017, de 24 de março de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10017-de-24-de-marco-de-2006#LO_10_017_Art__1) .
+
 Redação original: "Art. 1º - Os recursos resultantes da operação de crédito autorizada neste artigo destinam-se ao financiamento do Programa de Conservação e Recuperação de Rodovias no Estado da Bahia - CREMA-Ba."
 
 Art. 2º - Fica o Poder Executivo autorizado a promover as modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei.

@@ -1,5 +1,3 @@
-###DEC-051166-0-000-08-08-1961@@@
-
 DECRETO Nº 51.166, DE 8 DE AGÔSTO DE 1961.
 
 Dispõe sôbre o expediente das repartições e o horário dos servidores.

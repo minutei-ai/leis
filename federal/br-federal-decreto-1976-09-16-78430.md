@@ -1,5 +1,3 @@
-###DEC-078430-0-000-16-09-1976@@@
-
 DECRETO Nº 78.430, DE 16 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Física e Educação Física, da Universidade Estadual de Maringá, com seda na cidade de Maringá, Estado do Paraná.

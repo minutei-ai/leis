@@ -1,5 +1,3 @@
-###DEC-071882-0-000-02-03-1973@@@
-
 DECRETO Nº 71.882, DE 2 DE MARÇO DE 1973.
 
 Modifica a estrutura da Universidade Federal do Ceará.

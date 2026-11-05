@@ -1,5 +1,3 @@
-###DEC-054733-0-000-30-10-1964@@@
-
 decreto nº 54.733, de 30 de outubro de 1964.
 
 Transfere do Serviço de Luz e Fôrça do Município de Fortaleza para a Companhia Nordeste de Eletrificação de Fortaleza concessão para distribuir energia elétrica.

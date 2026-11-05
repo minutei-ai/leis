@@ -1,5 +1,3 @@
-###DEL-006106-0-000-15-12-1943@@@
-
 DECRETO‑LEI N. 6.106 – DE 15 DE DEZEMBRO DE 1943
 
 Estende às escolas de agronomia e veterinária reconhecidas em caráter permanente, a validação de diplomas prevista no artigo 2º do decreto-lei n. 2.855, de 11 de dezembro de 1940

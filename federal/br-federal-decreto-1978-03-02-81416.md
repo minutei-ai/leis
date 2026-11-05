@@ -1,5 +1,3 @@
-###DEC-081416-0-000-02-03-1978@@@
-
 DECRETO Nº 81.416, DE 02 DE MARÇO DE 1978.
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

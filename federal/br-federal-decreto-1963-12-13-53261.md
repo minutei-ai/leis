@@ -1,5 +1,3 @@
-###DEC-053261-0-000-13-12-1963@@@
-
 Decreto nº 53.261, de 13 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro José Matias Py Moraes Sarmento a pesquisar calcário no município de São Jerônimo, Estado do Rio Grande do Sul.

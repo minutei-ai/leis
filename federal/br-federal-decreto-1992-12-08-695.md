@@ -1,7 +1,3 @@
-1
-
-###DEC-000695-0-000-08-12-1992@@@
-
 DECRETO N° 695, DE 8 DE DEZEMBRO DE 1992
 
 Altera a redação do art. 1° do Decreto n° 408, de 27 de dezembro de 1991, que regulamenta o art. 3° da Lei n° 8.242, de 12 de outubro de 1992, e dá outras providências.

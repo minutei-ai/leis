@@ -1,5 +1,3 @@
-###DEC-002166-0-000-27-02-1997@@@
-
 DECRETO Nº 2.166, DE 27 DE FEVEREIRO DE 1997
 
 Dá nova redação aos arts. 32, 44 e 45 do Regulamento de Promoções de Graduados da Aeronáutica – REPROGAER, aprovado pelo Decreto nº 881, de 23 de julho de 1993.

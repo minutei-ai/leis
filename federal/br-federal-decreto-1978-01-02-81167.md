@@ -1,5 +1,3 @@
-###DEC-081167-0-000-02-01-1978@@@
-
 Decreto nº 81.167, de 02 de janeiro de 1978
 
 Concede à Pedreira Vigné S/A o direito de lavrar sienito no Município de Nova Iguaçu, Estado do Rio de Janeiro.

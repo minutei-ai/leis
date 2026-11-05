@@ -1,5 +1,3 @@
-###DEL-003015-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.015 – DE 1 DE FEVEREIRO DE 1941
 
 Cria funções gratificadas no Quadro Permanente (Q. P.) do Ministério da Fazenda

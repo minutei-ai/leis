@@ -2,15 +2,17 @@ Modificada pela Lei nº [4.776, de 19 de Janeiro de 2026.](https://legis.ac.gov.
 
 > **LEI Nº 3.889, DE 22 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Programa de Compras Governamentais de Incentivo às Indústrias - CG Indústria.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Programa de Compras Governamentais de Incentivo às Indústrias - CG Indústria.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
 **Art. 1°** Fica criado no Estado o Programa de Compras Governamentais de Incentivo às Indústrias - CG Indústria, abrangendo todos os seguimentos industriais, como mecanismo de incentivo econômico ao desenvolvimento regional e de fomento à geração de emprego e distribuição de renda no Estado.
-
-<br>
 
 **Art. 1º-A.** Inclui, especificamente, o Programa de Compras Governamentais de Incentivo à Indústria do Café. (Incluído pela Lei nº 4.776, de 19/01/2026)
 
@@ -38,19 +40,11 @@ Modificada pela Lei nº [4.776, de 19 de Janeiro de 2026.](https://legis.ac.gov.
 
 **§ 3º** O órgão competente poderá solicitar o apoio técnico da Federação das Indústrias do Estado do Acre – FIEAC, para eventual avaliação da capacidade de produção das empresas interessadas no fornecimento.
 
-<br>
-
 **Art. 3-A.** Os critérios e requisitos para credenciamento, habilitação, recebimento e avaliação técnica, entre outros, serão estabelecidos em edital específico no tocante à aquisição do café industrializado. (Incluído pela Lei nº 4.776, de 19/01/2026)
-
-<br>
 
 **Art. 3-B.** O Programa de Compras Governamentais de Incentivo à Indústria do Café, será executado nas modalidades de compras direta e indireta. (Incluído pela Lei nº 4.776, de 19/01/2026)
 
-<br>
-
 **Art. 3-C.** Fica priorizada a aquisição de café industrializado, diretamente, de indústrias instaladas na região em que órgão da administração direta e indireta está geograficamente situado. (Incluído pela Lei nº 4.776, de 19/01/2026)
-
-<br>
 
 **Art. 3-D.** As despesas decorrentes desta Lei devem correr por conta de dotação orçamentária atribuída ao órgão responsável. (Incluído pela Lei nº 4.776, de 19/01/2026)
 

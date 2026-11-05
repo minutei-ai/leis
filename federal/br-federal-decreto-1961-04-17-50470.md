@@ -1,5 +1,3 @@
-###DEC-050470-0-000-17-04-1961@@@
-
 Decreto Nº 50.470, DE 17 DE ABRIL DE 1961.
 
 Concede permissão, em caráter permanente, a Champion Celulose S.A. com sede na Capital do Estado de São Paulo e com fábrica de celulose para indústria de papel, sita em Mogi-Guaçu, Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

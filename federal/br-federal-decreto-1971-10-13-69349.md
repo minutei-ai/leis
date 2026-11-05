@@ -1,5 +1,3 @@
-###DEC-069349-0-000-13-10-1971@@@
-
 DECRETO Nº 69.349, de 13 DE OUTUBRO DE 1971.
 
 Suspende temporàriamente a aplicação de dispositivos do Decreto n° 63.378, de 8 de outubro de 1968, alterado pelo Decreto n° 209, de 16 de setembro de 1970, que regulamenta a Lei de Promoções dos Oficiais da Ativa da Aeronáutica.

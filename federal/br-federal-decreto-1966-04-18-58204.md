@@ -1,5 +1,3 @@
-###DEC-058204-0-000-18-04-1966@@@
-
 DECRETO Nº 58.204, de 18 de abril de 1966.
 
 Autoriza o cidadão brasileiro Irineu Rodrigues de Souza a lavrar minério de ferro no município de Rio Piracicaba, Estado de Minas Gerais.

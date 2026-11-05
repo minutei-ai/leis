@@ -1,7 +1,3 @@
-1
-
-###DEC-095650-0-000-19-01-1988@@@
-
 DECRETO N° 95.650, DE 19 DE JANEIRO DE 1988
 
 Regulamenta a Lei n° 7.560, de l9 de dezembro de 1986, que criou o FUNCAB, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048554-0-000-21-07-1960@@@
-
 DECRETO Nº 48.554, DE 21 DE JULHO DE 1960.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar bauxita e argila, no município de de Poços de Caldas, Estado de Minas Gerais.

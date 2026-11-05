@@ -1,5 +1,3 @@
-###DEC-062283-0-000-20-02-1968@@@
-
 DECRETO Nº 62.283, DE 20 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que especifica, para construção da bacia hidráulica do Açude Público Gomes, no Município de Mauriti, Estado do Ceará.

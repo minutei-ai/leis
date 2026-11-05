@@ -1,5 +1,3 @@
-###DEC-051055-0-000-26-07-1961@@@
-
 DECRETO Nº 51.055, DE 26 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio Famoso.

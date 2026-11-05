@@ -1,5 +1,3 @@
-###DEL-002184-0-000-20-12-1984@@@
-
 # DECRETO-LEI Nº 2.184, de 20 de dezembro de 1984.
 
 Altera a redação do art. 2º do Decreto-lei nº 61, de 21 de novembro de 1966, que modificou a Legislação relativa ao Imposto Único sobre lubrificantes e combustíveis líquidos e gasosos e dá outras providências.

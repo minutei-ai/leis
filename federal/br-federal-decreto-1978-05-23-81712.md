@@ -1,5 +1,3 @@
-###DEC-081712-0-000-23-05-1978@@@
-
 Decreto nº 81.712, de 23 de maio de 1978
 
 Concede à Industria de Cal Lili Ltda. o direito de lavrar calcário no Município de Ijaci, Estado de Minas Gerais.

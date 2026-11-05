@@ -1,5 +1,3 @@
-###DEC-046061-0-000-19-05-1959@@@
-
 DECRETO Nº 46.061, DE 19 DE MAIO DE 1959.
 
 Abre, ao Poder Judiciário - Justiça do Trabalho, o crédito especial de Cr$12.600.000,00, para o fim que especificou.

@@ -1,5 +1,3 @@
-###DEC-059816-0-000-20-12-1966@@@
-
 DECRETO Nº 59.816, DE 20 DE DEZEMBRO DE 1966.
 
 Suprime cargo extinto.

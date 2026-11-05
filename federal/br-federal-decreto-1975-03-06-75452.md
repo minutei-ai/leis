@@ -1,5 +1,3 @@
-###DEC-075452-0-000-06-03-1975@@@
-
 decreto nº 75.452, de 6 de março de 1975.
 
 Concede à Mineradora Montita Ltda. O direito de lavrar minério de manganês no Município de Alexânia, Estado de Goiás.

@@ -56,11 +56,54 @@ Goiânia, 29 de junho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
 ANEXO ÚNICO
 
 “Anexo VI – Autorizações de Acréscimos de Despesas de Pessoal para 2026 (nos termos do art. 169, § 1º, inciso II, da Constituição Federal)
 
-<table><thead></thead><tbody><tr><td style="text-align:center">ITEM</td><td style="text-align:center">TIPO DE PODER</td><td style="text-align:center">DESCRIÇÃO</td><td style="text-align:center">ACRÉSCIMO AUTORIZADO</td></tr><tr><td style="text-align:center">1</td><td>Poder Executivo</td><td>Admissão ou Contratação de Pessoal</td><td style="text-align:right">173.236.598</td></tr><tr><td style="text-align:center">2</td><td>Poder Executivo</td><td>Alteração de Estruturas de Carreiras</td><td style="text-align:right">90.076.109</td></tr><tr><td style="text-align:center">3</td><td>Poder Executivo</td><td>Concessão de vantagens ou aumento de remuneração</td><td style="text-align:right">1.270.392.429</td></tr><tr><td style="text-align:center">.........</td><td style="text-align:center">.....................</td><td style="text-align:center">.........................................</td><td style="text-align:center">.........................................</td></tr><tr><td style="text-align:center">&nbsp;</td><td style="text-align:right">&nbsp;</td><td>TOTAL GERAL ANUAL</td><td style="text-align:right"><strong>2.452.907.236</strong></td></tr></tbody></table>
+ITEM
+
+TIPO DE PODER
+
+DESCRIÇÃO
+
+ACRÉSCIMO AUTORIZADO
+
+1
+
+Poder Executivo
+
+Admissão ou Contratação de Pessoal
+
+173.236.598
+
+2
+
+Poder Executivo
+
+Alteração de Estruturas de Carreiras
+
+90.076.109
+
+3
+
+Poder Executivo
+
+Concessão de vantagens ou aumento de remuneração
+
+1.270.392.429
+
+.........
+
+.....................
+
+.........................................
+
+.........................................
+
+TOTAL GERAL ANUAL
+
+**2.452.907.236**

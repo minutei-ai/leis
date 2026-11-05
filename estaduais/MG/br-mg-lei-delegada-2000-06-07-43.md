@@ -63,7 +63,3 @@ POSTOS/GRADUAÇÃO ABONO R$ REMUNERAÇÃO R$ Coronel 2.964,00 Tenente Coronel 2.
 \* Último ano do Curso de Formação de Oficiais
 
 \*\* Demais anos do Curso de Formação de Oficiais
-
-\----------------------------------------------
-
-Data da última atualização: 14/1/2005.

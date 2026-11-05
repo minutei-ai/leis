@@ -1,5 +1,3 @@
-###DEC-072692-0-000-24-08-1973@@@
-
 DECRETO Nº 72.692, DE 24 DE AGOSTO DE 1973.
 
 Autoriza a alienação do terreno que menciona, situado no Município de Valença, Estado do Rio de Janeiro.

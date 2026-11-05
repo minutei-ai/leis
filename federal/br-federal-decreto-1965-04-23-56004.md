@@ -1,5 +1,3 @@
-###DEC-056004-0-000-23-04-1965@@@
-
 DECRETO Nº 56.004, DE 23 DE ABRIL DE 1965.
 
 Autoriza Aços Laminados Itaúna Sociedade Anônima a pesquisar minério de ferro, no município de Itaúna, Estado de Minas Gerais.

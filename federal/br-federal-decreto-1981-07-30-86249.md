@@ -1,5 +1,3 @@
-###DEC-086249-0-000-30-07-1981@@@
-
 Decreto nº 86.249, de 30 de julhO de 1981
 
 Autoriza a supressão parcial de floresta de preservação permanente, para efeito de transferência de área para o Ministério da Aeronáutica, e dá outras providências.

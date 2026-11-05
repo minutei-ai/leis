@@ -1,5 +1,3 @@
-###DEC-071779-0-000-31-01-1973@@@
-
 DECRETO Nº 71.779, DE 31 DE JANEIRO DE 1973.
 
 Concede à Cláudio Bailone & Cia. o direito de lavrar feldspato e quartzo no Município de Inconfidentes, Estado de Minas Gerais.

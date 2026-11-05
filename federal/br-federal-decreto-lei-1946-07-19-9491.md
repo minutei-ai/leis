@@ -1,5 +1,3 @@
-###DEL-009491-0-000-19-07-1946@@@
-
 DECRETO-LEI N. 9.491 – DE 19 DE JULHO DE 1946
 
 Denomina Serviço Químico da Marinha o atual Laboratório de Provas de Material.

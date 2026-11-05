@@ -1,5 +1,3 @@
-###DEC-092509-0-000-01-04-1986@@@
-
 DECRETO Nº 92.509, DE 1º DE ABRIL DE 1986
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, os imóveis rurais denominados Fazendas Arapuá e Arapuá Corgão, compreendidos nas referidas áreas no Município de Varzelândia, no Estado de Minas Gerais, e dá outras providências.

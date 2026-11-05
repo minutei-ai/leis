@@ -1,5 +1,3 @@
-###DEC-003911-0-000-10-09-2001@@@
-
 DECRETO Nº 3.911, DE 10 DE SETEMBRO DE 2001
 
  Dispõe sobre a execução do Trigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 18, entre a República Federativa do Brasil, a República Argentina, a República do Paraguai e a República Oriental do Uruguai, de 17 de maio de 2001.

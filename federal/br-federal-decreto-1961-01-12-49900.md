@@ -1,5 +1,3 @@
-###DEC-049900-0-000-12-01-1961@@@
-
 DECRETO Nº 49.900, DE 12 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Aloísio Van Der Naillen da Silva a pesquisar areias ilmeníticas no município de Barreirinha, Estado do Maranhão.

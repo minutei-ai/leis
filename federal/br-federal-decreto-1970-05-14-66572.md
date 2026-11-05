@@ -1,5 +1,3 @@
-###DEC-066572-0-000-14-05-1970@@@
-
 DECRETO Nº 66.572, DE 14 DE MAIO DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Caxias do Sul - RS destinado ao Ministério do Exército.

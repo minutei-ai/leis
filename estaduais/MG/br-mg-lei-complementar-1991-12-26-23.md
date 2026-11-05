@@ -45,7 +45,3 @@ José Rezende de Andrade
 Paulo de Tarso Almeida Paiva
 
 Roberto Lúcio Rocha Brant
-
-\========================
-
-Data da última atualização: 11/11/2013.

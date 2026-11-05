@@ -1,5 +1,3 @@
-###DEC-053824-0-000-24-03-1964@@@
-
 DECRETO Nº 53.824, DE 24 DE MARÇO DE 1964.
 
 Renova o Decreto nº 46.746, de 20 de julho de 1959.

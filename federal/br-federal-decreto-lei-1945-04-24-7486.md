@@ -1,5 +1,3 @@
-###DEL-007486-0-000-24-04-1945@@@
-
 DECRETO-LEI N. 7.486 – DE 24 DE ABRIL DE 1945
 
 Restabelece na Prefeitura do Distrito Federal a Secretaria Geral do Interior e Segurança

@@ -1,5 +1,3 @@
-###DEC-096469-0-000-04-08-1988@@@
-
 DECRETO N° 96.469, DE 4 DE AGOSTO DE 1988
 
 Reconhece a Confederação Nacional dos Trabalhadores Metalúrgicos - CNTM.

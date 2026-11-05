@@ -1,5 +1,3 @@
-###DEC-058807-0-000-13-07-1966@@@
-
 DECRETO nº 58.807, DE 13 DE JULHO DE 1966.
 
 Concede autorização para o funcionamento da Faculdade de Ciências Econômicas, Contábeis e de Administração de Emprêsas “Padre Anchieta”, de Jundiaí, Estado de São Paulo.

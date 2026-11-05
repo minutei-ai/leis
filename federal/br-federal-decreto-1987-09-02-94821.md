@@ -1,5 +1,3 @@
-###DEC-094821-0-000-02-09-1987@@@
-
 DECRETO Nº 94.821, DE 2 DE SETEMBRO DE 1987.
 
 Autoriza o funcionamento do Curso de Química da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Sul.

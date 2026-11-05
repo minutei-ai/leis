@@ -1,7 +1,3 @@
-1
-
-###DEC-099128-0-000-09-03-1990@@@
-
 # DECRETO Nº 99.128, DE 9 DE MARÇO DE 1990
 
 Outorga concessão a RÁDIO VALE DO RIO PARANÁ LTDA., para explorar serviço de ra­diodifusão sonora em onda média, na Cida­de de Presidente Epitácio, Estado de São Paulo.

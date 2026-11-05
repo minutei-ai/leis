@@ -1,5 +1,3 @@
-###DEC-073972-0-000-22-04-1974@@@
-
 Decreto nº 73.972, de 22 de abril de 1974.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério da Aeronáutica.

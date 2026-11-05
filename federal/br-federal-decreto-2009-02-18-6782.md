@@ -1,5 +1,3 @@
-###DEC-006782-0-000-18-02-2009@@@
-
 DECRETO Nº 6.782, DE 18 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Apêndice II do Acordo de Complementação Econômica no 55, firmado entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos.         

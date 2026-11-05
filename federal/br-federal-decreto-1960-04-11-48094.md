@@ -1,5 +1,3 @@
-###DEC-048094-0-000-11-04-1960@@@
-
 DECRETO Nº 48.094, DE 11 DE ABRIL DE 1960.
 
 Autoriza a Sociedade Termoelétrica de Capivari a construir uma linha de transmissão de energia elétrica e uma subestação abaixadora, no Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-077011-0-000-14-01-1976@@@
-
 DECRETO Nº 77.011, DE 14 DE JANEIRO DE 1976.
 
 Declara a caducidade do Manifesto de Mina que menciona.

@@ -1,5 +1,3 @@
-###DEC-047631-0-000-15-01-1960@@@
-
 decreto nº 47.631, de 15 de janeiro de 1960.
 
 Autoriza o cidadão brasileiro Armando Angelini a pesquisar quartzo, quartzito, argila e caulim no município de Santana de Parnaíba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051108-0-000-02-08-1961@@@
-
 DECRETO Nº 51.108, DE 2 DE AGÔSTO DE 1961.
 
 Declara de utilidade pública uma área de terra necessária à construção da usina hidro-elétrica a que se refere o Decreto Federal nº 46.104, de 21 de maio de 1959, retificado pelo de número 47.866, de 7-3-60, e autoriza a Prefeitura Municipal de Santa Rita de Jacutinga, Estado de Minas Gerais, a promover a desapropriação da mesma.

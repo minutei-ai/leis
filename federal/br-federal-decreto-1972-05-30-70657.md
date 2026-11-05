@@ -1,5 +1,3 @@
-###DEC-070657-0-000-30-05-1972@@@
-
 DECRETO Nº 70.657, DE 30 DE MAIO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à construção de uma subestação no município de Belo Horizonte, Estado de Minas Gerais.

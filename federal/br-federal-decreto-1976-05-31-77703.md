@@ -1,5 +1,3 @@
-###DEC-077703-0-000-31-05-1976@@@
-
 DECRETO Nº 77.703 - DE 31 DE MAIO DE 1976
 
 Concede à Companhia Catarinense de Cimento Portland o direito de lavrar calcário no Município de Camboriú, Estado de Santa Catarina.

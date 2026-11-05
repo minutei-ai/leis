@@ -1,5 +1,3 @@
-###DEC-089805-0-000-14-06-1984@@@
-
 Decreto nº 89.805, de 14 de junho de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

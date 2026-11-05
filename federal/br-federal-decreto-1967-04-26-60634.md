@@ -1,5 +1,3 @@
-###DEC-060634-0-000-26-04-1967@@@
-
 DECRETO Nº 60.634, DE 26 DE ABRIL DE 1967.
 
 Inclui os cargos de Antropólogo e de Engenheiro-Agrônomo na relação constante do artigo 1º do Decreto nº 59.664, de 5 de dezembro de 1966, e dá outras providências.

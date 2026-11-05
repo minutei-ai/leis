@@ -1,5 +1,3 @@
-###DEC-061488-0-000-06-10-1967@@@
-
 DECRETO Nº 61.488, DE 6 DE OUTUBRO DE 1967.
 
 Dá nova redação ao Decreto nº 51.906, de 19 de abril de 1963, que declarou de utilidade pública, por interêsse social e para fim de desapropriação o domínio útil da Gleba Santa Alice dando características que, com maior precisão, identificam aquela Gleba e dá outras providências.

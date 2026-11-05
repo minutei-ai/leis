@@ -1,5 +1,3 @@
-###DEC-062504-0-000-08-04-1968@@@
-
 decreto nº 62.504, de 8 de abril de 1968.
 
 Regulamenta o artigo 65 da Lei número 4.504, de 30 de novembro de 1964, o artigo 11 e parágrafos do Decreto-lei nº 57, de 18 de novembro de 1966, e dá outras providências.

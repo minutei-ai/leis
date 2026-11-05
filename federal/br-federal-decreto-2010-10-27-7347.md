@@ -1,5 +1,3 @@
-###DEC-007347-0-000-27-10-2010-PUB-01@@@
-
 DECRETO Nº 7.347, DE 27 DE OUTUBRO DE 2010.
 
 Cria a Embaixada do Brasil em Bangui, na República Centro-Africana, cumulativa com a Embaixada em Brazzaville.

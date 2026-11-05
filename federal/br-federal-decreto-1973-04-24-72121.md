@@ -1,5 +1,3 @@
-###DEC-072121-0-000-24-04-1973@@@
-
 DECRETO Nº 72.121, DE 24 DE ABRIL DE 1973.
 
 Autoriza o funcionamento do Centro de Educação Técnica da Fundação de Educação para o Trabalho de Minas Gerais.

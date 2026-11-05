@@ -1,5 +1,3 @@
-###DEC-094234-0-000-15-04-1987@@@
-
 DECRETO Nº 94.234, DE 15 DE ABRIL DE 1987.
 
 Dispõe sobre a organização do Ministério da Saúde, e dá outras providências.

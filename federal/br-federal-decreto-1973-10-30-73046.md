@@ -1,5 +1,3 @@
-###DEC-073046-0-000-30-10-1973@@@
-
 DECRETO Nº 73.046, DE 30 DE OUTUBRO DE 1973.
 
 Declara perempta a concessão outorgada à Rádio Farroupilha S. A., para executar serviço de radiodifusão sonora em onda curta na cidade de Porto Alegre, Estado do Rio Grande do Sul.

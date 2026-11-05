@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209595)<br>
-
 # DECRETO N° 68.628, DE 19 DE JUNHO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, a área necessária à implantação de faixa adicional no trecho entre os km 43+500 e 44+300 da Rodovia SP-101, no Município de Capivari, e dá providências correlatas._

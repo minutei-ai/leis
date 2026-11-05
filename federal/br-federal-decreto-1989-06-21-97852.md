@@ -1,7 +1,3 @@
-1
-
-###DEC-097852-0-000-21-06-1989@@@
-
 DECRETO Nº 97.852, DE 21 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária o imóvel rural denominado “FAZENDA PIÃO”, classificado como “latifúndio por exploração”, situado no Município de Quixadá, no Estado do Ceará, compreendido na zona prioritária fixada pelo Decreto nº 92.617, de 2 de maio de 1986 e dá outras providências.

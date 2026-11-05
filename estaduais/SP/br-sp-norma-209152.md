@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209152)<br>
-
 # DECRETO N° 68.362, DE 01 DE MARÇO DE 2024
 
 ### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Pacaembu._

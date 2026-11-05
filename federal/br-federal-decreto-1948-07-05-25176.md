@@ -1,20 +1,18 @@
-###DEC-025176-0-000-05-07-1948@@@
+**DECRETO Nº 25.176, DE 5 DE JULHO DE 1948.**
 
-<strong>DECRETO Nº 25.176, DE 5 DE JULHO DE 1948.</strong>
+***Outorga ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica do desnível denominado Cachoeirão, existente no rio Jequitaí, situado na divisa dos municípios de Bocaiúva, Pirapora e Coração de Jesus, Estado Minas Gerais.***
 
-<em><strong>Outorga ao Estado de Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica do desnível denominado Cachoeirão, existente no rio Jequitaí, situado na divisa dos municípios de Bocaiúva, Pirapora e Coração de Jesus, Estado Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º - Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada ao Estado de Estado Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica do desnível denominado Cachoeirão, existente no rio Jequitaí, situado na divisa dos municípios de Bocaiúva, Pirapora e Coração de Jesus, distritos respectivamente de Vargem Mimosa, Guaicuí e Jequital, Estado de Minas Gerais.
+**Art**. 1º - Respeitados os direitos de terceiros anteriormente adquiridos, é outorgada ao Estado de Estado Minas Gerais, ou emprêsa que organizar, concessão para o aproveitamento progressivo da energia hidráulica do desnível denominado Cachoeirão, existente no rio Jequitaí, situado na divisa dos municípios de Bocaiúva, Pirapora e Coração de Jesus, distritos respectivamente de Vargem Mimosa, Guaicuí e Jequital, Estado de Minas Gerais.
 
 § 1º - Em portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar a descarga e a potência concedidas.
 
 § 1º - O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviços públicos estaduais e municipais, para serviços de utilidade pública e para comércio de energia nas localidades onde não haja concessionários de serviços de eletricidade que operam na região.
 
-<strong>Art</strong>. 2º - Sob pena de caducidade do presente título, o concessionário obriga-se a :
+**Art**. 2º - Sob pena de caducidade do presente título, o concessionário obriga-se a :
 
 I - Registrá-lo na Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro do prazo de trinta (30) dias, após a sua publicação.
 
@@ -58,28 +56,28 @@ V - Apresentar o mesmo contrato à Divisão de Águas, para fins de registro, at
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas.
 
-<strong>Art</strong>. 3º O concessionário fica obrigado a construir e manter, nas proximidades do local do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acõrdo com as instruções da mesma Divisão.
+**Art**. 3º O concessionário fica obrigado a construir e manter, nas proximidades do local do aproveitamento onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medições de descarga do curso d’água que vai utilizar e a realizar as observações de acõrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministério da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministério da Agricultura.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) dias, anos, contado da data do registro do respectivo contrato da Divisão de Águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) dias, anos, contado da data do registro do respectivo contrato da Divisão de Águas.
 
-<strong>Art</strong>. 6º O capital a ser remunerado será o investimento efetivo e criteriosamente invertido na constituição do patrimônio da concessão, em função da industria concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 6º O capital a ser remunerado será o investimento efetivo e criteriosamente invertido na constituição do patrimônio da concessão, em função da industria concorrendo, direta ou indiretamente, para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de Águas.
+**Art**. 7º As tabelas de preço de energia serão fixadas pela Divisão de Águas, no momento oportuno, e trienalmente revistas, de acôrdo com o disposto no art. 180 do Código de Águas.
 
-<strong>Art</strong>. 8º Para a manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art**. 8º Para a manutenção da integridade do capital a que se refere o art. 6º do presente decreto, será criado um fundo de reserva que proverá as renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que denominará “reserva de renovação” será realizada por quotas especiais que incidirão sôbre as tarifas, sob forma de percentagem. Estas cotas serão determinadas, tendo-se em vista a duração média do material a cuja renovação a dita reserva terá de atender, podendo ser modificadas, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 9º Até seis (6) meses antes do término do prazo da concessão, o Estado de Minas Gerais deverá requerer ao Govêrno Federal a renovação ou desistência da mesma.
+**Art**. 9º Até seis (6) meses antes do término do prazo da concessão, o Estado de Minas Gerais deverá requerer ao Govêrno Federal a renovação ou desistência da mesma.
 
-<strong>Art</strong>. 10 O presente Decreto entrará em vigor na data de sua publicação.
+**Art**. 10 O presente Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 11 Revogam-se as disposições em contrário.
+**Art**. 11 Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de julho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

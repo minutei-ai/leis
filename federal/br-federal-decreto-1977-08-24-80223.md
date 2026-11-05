@@ -1,5 +1,3 @@
-###DEC-080223-0-000-24-08-1977@@@
-
 DECRETO Nº 80.223, DE 24 DE AGOSTO DE 1977.
 
 Concede reconhecimento aos cursos de Turismo e de Economia Doméstica da Faculdade de Ciências Exatas, Administrativas e Sociais, com sede na cidade de Brasília, Distrito Federal.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0eacafa3-0a9b-43d5-b0c8-4af95f63d760/texto#nowhere)
 
-###DEL-000980-0-000-20-10-1969@@@
-
 DECRETO-LEI Nº 980, de 20 de Otubro de 1969
 
 Dispõe sôbre a cobrança de direitos outorais nas exibições cinematográficos.

@@ -1,5 +1,3 @@
-###DEL-008660-0-000-14-01-1946@@@
-
 DECRETO-LEI N. 8.660 – DE 14 DE JANEIRO DE 1946
 
 Delega aos Estados a faculdade de legislar sôbre a matéria constante do nº XXVI do artigo 16 da Constituição Federal (organização, instrucão, justiça e garantia das fôrças policiais dos Estados) e dá outras providências

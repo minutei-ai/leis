@@ -1,5 +1,3 @@
-###DEL-009658-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.658 – DE 28 DE AGÔSTO DE 1946
 
 Dispõe sôbre condições de alienação dos bens pertencentes às Emprêsas Incorporadas ao Patrimônio Nacional.

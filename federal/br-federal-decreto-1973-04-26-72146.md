@@ -1,5 +1,3 @@
-###DEC-072146-0-000-26-04-1973@@@
-
 DECRETO Nº 72.146, DE 26 DE ABRIL DE 1973
 
 Retifica decreto que redistribuiu cargos com os respectivos ocupantes, e dá providências.

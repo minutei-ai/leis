@@ -1,5 +1,3 @@
-###DEC-061770-0-000-23-11-1967@@@
-
 DECRETO Nº 61.770, DE 23 DE NOVEMBRO DE 1967.
 
 Outorga a Milton Barbosa Vieira e outros concessão para a exploração de uma usina hidrelétrica situada em um trecho do rio Muzambo - Cachoeira do Muzambo, no distrito e município de Serrania, Estado de Minas Gerais, destinada ao uso exclusivo.

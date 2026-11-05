@@ -1,5 +1,3 @@
-###DEL-008544-0-000-03-01-1946@@@
-
 DECRETO LEI N. 8.544 – de 03 DE JANEIRO DE 1946
 
 Eleva o padrão de vencimentos do cargos em comissão do Ministério da Agricultura

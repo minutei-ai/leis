@@ -1,5 +1,3 @@
-###MPV-002017-0-003-13-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.017-3, DE 13 de abril de 2000.
 
 Acresce dispositivo à Lei nº 8.929, de 22 de agosto de 1994, que institui a Cédula de Produto Rural, e dá outras providências.

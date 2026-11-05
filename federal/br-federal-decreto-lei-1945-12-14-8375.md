@@ -1,5 +1,3 @@
-###DEL-008375-0-000-14-12-1945@@@
-
 DECRETO-LEI N. 8.375 – DE 14 DE DEZEMBRO DE 1945
 
 Fixa os vencimentos e vantagens, no estrangeiro, do pessoal militar da Seção de Guarda, e dispõe sôbre a manutenção do Cemitério Militar Brasileiro de Pistóia (Itália).

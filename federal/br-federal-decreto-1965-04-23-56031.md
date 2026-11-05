@@ -1,5 +1,3 @@
-###DEC-056031-0-000-23-04-1965@@@
-
 decreto nº 56.031, de 23 de abril de 1965.
 
 Autoriza a S.A. Indústrias Reunidas F. Matarazzo a instalar grupos termelétricos nos Municípios de São Paulo, e São Caetano do Sul, Estado de São Paulo, para uso exclusivo.
@@ -63,8 +61,6 @@ Brasília, 23 de abril de 1965; 144º da Independência e 77º da República.
 H. Castello branco
 
 Mauro Thibau
-
-###DEC-056031-0-000-23-04-1965@@@RET01+++
 
 Decreto nº 56.031, de 23 de abril de 1965.
 

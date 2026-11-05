@@ -1,5 +1,3 @@
-###DEL-005872-0-000-01-10-1943@@@
-
 DECRETO‑LEI N. 5.872 – DE 1 DE OUTUBRO DE 1943
 
 Extingue uma Contadoria Seccional e no Quadro Permanente do Ministério da Fazenda, uma função gratificada

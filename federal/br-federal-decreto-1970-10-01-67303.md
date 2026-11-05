@@ -1,5 +1,3 @@
-###DEC-067303-0-000-01-10-1970@@@
-
 Decreto nº 67.303, de 1 de outubro de 1970.
 
 Declara caduco o Decreto nº 48.321, de 20 de junho de 1960.

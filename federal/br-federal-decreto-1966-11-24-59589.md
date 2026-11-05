@@ -1,5 +1,3 @@
-###DEC-059589-0-000-24-11-1966@@@
-
 DECRETO Nº 59.589, DE 24 DE NOVEMBRO DE 1966.
 
 Abre o crédito suplementar de Cr$150.000.000, ao Estado-Maior das Fôrças Armadas, para refôrço de dotação orçamentaria do vigente exercício, que especifica.

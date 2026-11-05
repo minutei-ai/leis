@@ -1,5 +1,3 @@
-###DEC-007278-0-000-26-08-2010-PUB-01@@@
-
 DECRETO Nº 7.278, DE 26 DE AGOSTO DE 2010.
 
 Autoriza o Conselho de Administração do Banco Nacional de Desenvolvimento Econômico e Social - BNDES a declarar dividendos intermediários e complementares

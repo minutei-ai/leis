@@ -1,5 +1,3 @@
-###DEC-058394-0-000-10-05-1966@@@
-
 DECRETO Nº 58.394, de 10 de maio de 1966.
 
 Altera o § 2º do artigo 8º do Decreto nº 57.271, de 16 de novembro de 1965.

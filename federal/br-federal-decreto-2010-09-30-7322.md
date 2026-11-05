@@ -1,5 +1,3 @@
-###DEC-007322-0-000-30-09-2010-PUB-01@@@
-
 DECRETO Nº 7.322, DE 30 DE SETEMBRO DE 2010.
 
 Dá nova redação ao caput do art. 7o do Estatuto da Financiadora de Estudos e Projetos - FINEP, aprovado pelo Decreto no 1.808, de 7 de fevereiro de 1996.

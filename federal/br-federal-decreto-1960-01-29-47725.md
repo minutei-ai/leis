@@ -1,5 +1,3 @@
-###DEC-047725-0-000-29-01-1960@@@
-
 DECRETO Nº 47.725, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Salim Cesar Curi a pesquisar cassiterita no município de Macapá, Território do Amapá.

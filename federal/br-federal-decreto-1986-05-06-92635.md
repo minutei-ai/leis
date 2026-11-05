@@ -1,5 +1,3 @@
-###DEC-092635-0-000-06-05-1986@@@
-
 DECRETO Nº 92.635, DE 6 DE MAIO DE 1986
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Formação de Professores de Alagoinhas, Bahia.

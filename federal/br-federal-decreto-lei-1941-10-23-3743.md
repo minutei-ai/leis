@@ -1,5 +1,3 @@
-###DEL-003743-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.743 – DE 23 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 250:000$0, para aquisição de automóveis

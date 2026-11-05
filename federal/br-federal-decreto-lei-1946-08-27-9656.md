@@ -1,5 +1,3 @@
-###DEL-009656-0-000-27-08-1946@@@
-
 DECRETO-LEI N. 9.656 – DE 27 DE AGÔSTO DE 1946
 
 Dispõe sôbre os balanços do exercício de 1945.

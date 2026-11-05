@@ -1,5 +1,3 @@
-###DEC-045816-0-000-16-04-1959@@@
-
 DECRETO Nº 45.816, DE 16 DE ABRIL DE 1959.
 
 Concede autorização para funcionamento de curso.

@@ -1,5 +1,3 @@
-###DEC-064627-0-000-03-06-1969@@@
-
 DECRETO Nº 64.627, DE 3 DE JUNHO DE 1969.
 
 Concede a Mineração Cambuí Limitada o direito de lavrar caulim, no município de Campo Alegre, Estado de Santa Catarina.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b83efab9-9f1d-407e-9f4d-d423fe909ebc/texto#nowhere)
 
-###DEL-000730-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 730, DE 5 DE AGÔSTO DE 1969
 
 Dispõe sôbre o Conselho de Política Aduaneira e dá outras providências.

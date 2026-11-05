@@ -1,5 +1,3 @@
-###DEC-070771-0-000-28-06-1972@@@
-
 DECRETO Nº 70.771, DE 28 DE JUNHO DE 1972.
 
 Regula os valores da Gratificação de Serviço Ativo, da Diária de Alimentação, da Indenização de Representação, da Indenização para Moradia, os requisitos para percepção da Indenização de Compensação Orgânica referente ao deslocamento em aeronave Militar, a Gratificação e a Ajuda de Custo referentes a Localidade Especial.

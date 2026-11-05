@@ -4,8 +4,10 @@ Institui o Código Tributário do Município de Aparecida de Goiânia – Goiás
 
 O Prefeito do Município de Aparecida de Goiânia faz saber que a Câmara de Vereadores aprovou e agora sanciona a seguinte lei:
 
-LIVRO I<br>
-DO SISTEMA TRIBUTÁRIO MUNICIPAL<br>
+LIVRO I
+
+DO SISTEMA TRIBUTÁRIO MUNICIPAL
+
  
 
 DISPOSIÇÕES PRELIMINARES
@@ -64,15 +66,18 @@ IV – contribuição de melhoria, decorrente de obras públicas;
 
 V – contribuição para o custeio do serviço de iluminação pública.
 
-TÍTULO II<br>
+TÍTULO II
+
 DOS IMPOSTOS
 
 Art. 5º - Imposto é o tributo cuja obrigação tem por fato gerador uma situação independente de qualquer atividade estatal específica, relativa ao contribuinte.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 IMPOSTO SOBRE A PROPRIEDADE TERRITORIAL URBANA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR E DA INCIDÊNCIA
 
 Art. 6º – O Imposto Sobre a Propriedade Territorial Urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel não edificado localizado na zona urbana do município, observando-se o disposto no artigo 11.
@@ -133,7 +138,8 @@ II – do resultado financeiro da exploração econômica do bem imóvel;
 
 III – do cumprimento de quaisquer exigências legais, regulamentares ou administrativas relativas ao bem imóvel.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA BASE DE CÁLCULO
 
 Art. 9º – A base de cálculo do imposto é o valor venal do imóvel não edificado.
@@ -162,7 +168,8 @@ IV – os serviços públicos ou de utilidade pública existentes na via ou logr
 
 V – quaisquer outros dados informativos obtidos pela repartição competente.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA ALÍQUOTA E DA APURAÇÃO DO IMPOSTO
 
 Art. 12. O imposto será calculado aplicando-se, para terreno e gleba, sobre o valor venal do imóvel encontrado para efeito de base de cálculo, nos termos da Planta de Valores Genéricos, as seguintes alíquotas:
@@ -185,7 +192,8 @@ VII – acima de R$ 1.000.000,01, alíquota de 3%.
 
 § 2º Para o imóvel não edificado em que for construída a calçada, a alíquota poderá ser reduzida em 50% (cinquenta por cento), uma única vez, no exercício seguinte ao de sua construção.
 
-§ 3º A fruição dos benefícios previstos nos §§ 1º e 2º dependerá de requerimento formal, por meio de processo administrativo, instruído com a documentação probatória e protocolado até a data de vencimento do imposto.<br>
+§ 3º A fruição dos benefícios previstos nos §§ 1º e 2º dependerá de requerimento formal, por meio de processo administrativo, instruído com a documentação probatória e protocolado até a data de vencimento do imposto.
+
 (Redação alterada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 ~~Art. 12 – O imposto será calculado aplicando-se, sobre o valor venal do imóvel, encontrado para efeito de base de cálculo nos termos da Planta de Valores Genéricos, a alíquota de 1,5% (um inteiro e cinco décimos por cento), para terreno e gleba;~~
@@ -196,10 +204,12 @@ VII – acima de R$ 1.000.000,01, alíquota de 3%.
 
 § 3º - suprimido.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 IMPOSTO SOBRE A PROPRIEDADE PREDIAL URBANA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR
 
 Art. 13 – O Imposto Sobre a Propriedade Territorial Urbana tem como fato gerador a propriedade, o domínio útil ou a posse de bem imóvel edificado localizado na zona urbana do município, observando- se o disposto nos artigos 7º e 10.
@@ -210,7 +220,8 @@ Art. 14 – Para os efeitos de incidência do imposto, considera-se imóvel edif
 
 Parágrafo único. A incidência do imposto independe das situações previstas no parágrafo único do artigo 8º desta Lei.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA BASE DE CÁLCULO
 
 Art. 15 – A base de cálculo do imposto é o valor venal do imóvel edificado.
@@ -227,22 +238,26 @@ III – o valor unitário do metro quadrado;
 
 IV – o estado de conservação;
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA ALÍQUOTA E A DA APURAÇÃO DO IMPOSTO
 
 Art. 17 – O imposto será calculado aplicando-se, sobre o valor venal do imóvel edificado, apurado para efeito de base de cálculo na Planta de Valores Genéricos, a alíquota de 0,40% (quatro décimos por cento).
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 SUJEITO PASSIVO, PLANTA DE VALOR GENÉRICO, LANÇAMENTO, PAGAMENTO, REVISÃO E RECLAMAÇÕES, ISENÇÕES DOS IMPOSTOS SOBRE A PROPRIEDADE TERRITORIAL E PREDIAL URBANA
 
-Subseção I<br>
+Subseção I
+
 Do Sujeito Passivo: Contribuinte e Responsável
 
 Art. 18 – O contribuinte dos impostos sobre a propriedade territorial ou predial urbana é o proprietário do imóvel, o titular do seu domínio útil, ou o seu possuidor, do imóvel edificado ou não a qualquer título.
 
 Art. 19 – São considerados sujeitos passivos da obrigação tributária:
 
-I – o promitente comprador, os titulares de direito real sobre imóvel alheio e o fideicomissário;<br>
+I – o promitente comprador, os titulares de direito real sobre imóvel alheio e o fideicomissário;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~I – o promitente comprador imitido na posse, os titulares de direito real sobre imóvel alheio e o fideicomissário;~~
@@ -261,19 +276,22 @@ III – o espólio, pelos tributos devidos pelo “de cujus” até a data da ab
 
 § 5º - A obrigação de pagar o imposto se transmite ao adquirente do imóvel ou dos direitos reais a ele relativos, sempre se constituindo como ônus real que acompanha o imóvel em todas as suas mutações de propriedade, domínio ou posse, mesmo que os débitos já estejam inscritos em dívida ativa, quando então será feita a devida atualização cadastral também na Certidão de Dívida Ativa, mesmo que já esteja em situação de execução fiscal junto ao poder judiciário.
 
-§ 6º - Na hipótese de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento, desmembramento ou incorporação, os adquirentes das respectivas unidades respondem pelo débito porventura existente, ou que venha a ser administrativamente apurado, resguardada a responsabilidade do proprietário loteador ou incorporador.<br>
+§ 6º - Na hipótese de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento, desmembramento ou incorporação, os adquirentes das respectivas unidades respondem pelo débito porventura existente, ou que venha a ser administrativamente apurado, resguardada a responsabilidade do proprietário loteador ou incorporador.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~§ 6º - Na hipótese de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento ou desmembramento, os adquirentes das respectivas frações ideais respondem proporcionalmente pelo débito porventura existente, ou que venha a ser administrativamente apurado.~~
 
 § 7º - Não será deferido por nenhuma autoridade administrativa, nenhum pedido de loteamento, desmembramento, Alvará de Construção, reforma, modificação, ampliação, acréscimo de área construída, ou Alvará de “Habite-se”, e a atualização do cadastro imobiliário, sem que o requerente comprove a inexistência de débitos de tributos incidentes sobre a unidade imobiliária.
 
-§ 8º. Por possuidor a qualquer título, para fins de determinação do sujeito passivo de que trata o § 2º deste artigo, entende-se como aquele detentor de escritura pública do imóvel, contrato público ou particular de compra e venda, contrato público ou particular de promessa ou compromisso de compra e venda, contrato público ou particular de permuta imobiliária, contrato ou termo público ou particular de doação de bem imóvel, dentro outros, ainda que não registrados perante o cartório de registro de imóveis competente, desde que o vendedor ou promitente vendedor seja o proprietário do imóvel.<br>
+§ 8º. Por possuidor a qualquer título, para fins de determinação do sujeito passivo de que trata o § 2º deste artigo, entende-se como aquele detentor de escritura pública do imóvel, contrato público ou particular de compra e venda, contrato público ou particular de promessa ou compromisso de compra e venda, contrato público ou particular de permuta imobiliária, contrato ou termo público ou particular de doação de bem imóvel, dentro outros, ainda que não registrados perante o cartório de registro de imóveis competente, desde que o vendedor ou promitente vendedor seja o proprietário do imóvel.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 Art. 20 – São solidariamente responsáveis pelo pagamento do tributo a entidade da Administração e o servidor que deixarem de cumprir o quanto o estabelecido no parágrafo 7º do artigo anterior.
 
-Subseção II<br>
+Subseção II
+
 Da Planta de Valores Genéricos dos Terrenos e Glebas e a Tabela dos Preços das Construções e o Valor da Terra Nua do Município
 
 Art. 21 – O valor venal dos imóveis será apurado com base na Planta de Valores Genéricos dos Terrenos e Glebas e a Tabela de Preços de Construções e o Valor da Terra Nua aprovada anualmente pela Câmara de Vereadores do Município.
@@ -316,7 +334,8 @@ Art. 24 – Não ocorrendo a aprovação da Planta de Valores e da Tabela de Pre
 
 Parágrafo único. A atualização monetária prevista neste artigo será estabelecida através de ato do Secretário da Fazenda do Município.
 
-Subseção III<br>
+Subseção III
+
 Da Apuração da Base de Cálculo
 
 Art. 25 – A base de cálculo do imposto é:
@@ -349,7 +368,8 @@ II – de 20% (vinte por cento), para os imóveis abertos e sem calçada;
 
 Parágrafo único – Nos logradouros onde não houver pavimentação e meio-fio a falta de calçada não será considerada para os efeitos deste artigo.
 
-Subseção IV<br>
+Subseção IV
+
 Do arbitramento
 
 Art. 27 – Aplica-se o critério do arbitramento para a determinação do valor venal, quando:
@@ -360,7 +380,8 @@ II – os imóveis se encontrem fechados e o contribuinte não for localizado.
 
 Parágrafo único. Na hipótese deste artigo, o cálculo das áreas do terreno e da construção será feito por estimativa, levando-se em conta elementos circunvizinhos e aparentes do imóvel, enquadrando-se o tipo e uso da construção com o de edificações semelhantes.
 
-Subseção V<br>
+Subseção V
+
 Da Avaliação Especial
 
 Art. 28 – Aplica-se o critério da avaliação especial para a fixação do valor venal, mediante requerimento do contribuinte, exclusivamente nos casos de:
@@ -373,27 +394,34 @@ III – terrenos que, pela natureza do solo, se tornem desfavoráveis à edifica
 
 Parágrafo único. Constatado que o contribuinte efetuou obra de construção, ampliação, reforma, demolição, aterro, terraplanagem, contenção ou qualquer outra que importe em alteração das características físicas do imóvel, sem o devido licenciamento urbanístico e ambiental, a avaliação especial somente será apreciada após a comprovação da regularização da situação perante o órgão municipal competente.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DO LANÇAMENTO E PAGAMENTO DO IMPOSTO
 
-Subseção I<br>
+Subseção I
+
 Do Lançamento
 
 Art. 29 – O lançamento do imposto, feito por ato da autoridade administrativa competente é de ofício, anual e distinto, um para cada imóvel ou unidade imobiliária independente, ainda que contíguo, à época da ocorrência do fato gerador, e reger-se-á pela lei então vigente ainda que posteriormente modificada ou revogada.
 
-Art. 29-A Nos casos de loteamento, a partir do exercício de 2026, o lançamento do ITU ou do IPTU relativo aos 4 (quatro) exercícios fiscais seguintes à data da expedição do decreto de sua aprovação, será realizado na inscrição cadastral da gleba, considerando as características fáticas existentes antes do registro da configuração urbanística decorrente do loteamento.<br>
+Art. 29-A Nos casos de loteamento, a partir do exercício de 2026, o lançamento do ITU ou do IPTU relativo aos 4 (quatro) exercícios fiscais seguintes à data da expedição do decreto de sua aprovação, será realizado na inscrição cadastral da gleba, considerando as características fáticas existentes antes do registro da configuração urbanística decorrente do loteamento.
+
 (Redação acrescentada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
-§ 1º Para os loteamentos aprovados após a publicação da Lei nº 14.620, de 13 de julho de 2023, o lançamento do ITU ou do IPTU, a partir do exercício de 2026, será efetuado na forma do disposto no caput. <br>
+§ 1º Para os loteamentos aprovados após a publicação da Lei nº 14.620, de 13 de julho de 2023, o lançamento do ITU ou do IPTU, a partir do exercício de 2026, será efetuado na forma do disposto no caput. 
+
 (Redação acrescentada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
-§ 2º O lançamento na forma de que trata o caput será interrompido caso, antes do decurso de 3 (três) exercícios fiscais, seja emitido termo de vistoria, certidão de conclusão de obra ou documento similar, que ateste a realização de todas as obras e serviços, com plena quitação das obrigações assumidas pelo loteador.<br>
+§ 2º O lançamento na forma de que trata o caput será interrompido caso, antes do decurso de 3 (três) exercícios fiscais, seja emitido termo de vistoria, certidão de conclusão de obra ou documento similar, que ateste a realização de todas as obras e serviços, com plena quitação das obrigações assumidas pelo loteador.
+
 (Redação acrescentada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
-§ 3º Após o prazo do caput, ou ocorrida a interrupção prevista no § 2º, o lançamento do ITU ou IPTU será realizado para cada imóvel ou unidade imobiliária, ainda que contíguo, levando em conta sua situação cadastral à época do fato gerador.<br>
+§ 3º Após o prazo do caput, ou ocorrida a interrupção prevista no § 2º, o lançamento do ITU ou IPTU será realizado para cada imóvel ou unidade imobiliária, ainda que contíguo, levando em conta sua situação cadastral à época do fato gerador.
+
 (Redação acrescentada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
-§ 4º O lançamento do ITU ou IPTU realizado na forma prevista no caput não impede que a administração tributária crie inscrições cadastrais para cada imóvel ou unidade imobiliária com a configuração urbanística resultante do loteamento, registradas em cartório, as quais serão utilizadas para fins de lançamento do ITBI.<br>
+§ 4º O lançamento do ITU ou IPTU realizado na forma prevista no caput não impede que a administração tributária crie inscrições cadastrais para cada imóvel ou unidade imobiliária com a configuração urbanística resultante do loteamento, registradas em cartório, as quais serão utilizadas para fins de lançamento do ITBI.
+
 (Redação acrescentada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 Art. 30 – O lançamento do imposto será procedido, no caso de condomínio, em nome de cada proprietário, titular do domínio útil ou possuidor da unidade autônoma.
@@ -416,12 +444,14 @@ Art. 34 – A notificação será feita por edital publicado em jornal local, Di
 
 § 2º. Do lançamento considera-se também regularmente notificado o sujeito passivo com a entrega do carnê ou boleto de pagamento pessoalmente ou por via postal, no seu domicílio, observadas as disposições de Regulamento.
 
-~~§ 3º. Em nenhuma hipótese o valor do imposto instituído neste Capítulo será inferior a 40 (quarenta) Unidades de Valor Fiscal de Aparecida de Goiânia – UVFA.~~<br>
+~~§ 3º. Em nenhuma hipótese o valor do imposto instituído neste Capítulo será inferior a 40 (quarenta) Unidades de Valor Fiscal de Aparecida de Goiânia – UVFA.~~
+
 (REVOGADO PELA [Lei Complementar nº 67](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111763 "Abrir Lei Complementar nº 67, de 2012 em nova aba"), DE 31 DE DEZEMBRO DE 2012)
 
 Art. 35 – Do lançamento do imposto, quando o sujeito passivo discordar, caberá reclamação, e respectivo pedido de revisão, à autoridade lançadora nos termos deste Código e observadas as disposições de Regulamento.
 
-Subseção II<br>
+Subseção II
+
 Do Pagamento
 
 Art. 36 – O imposto será pago de uma só vez ou parceladamente na forma e prazos definidos em regulamento.
@@ -434,15 +464,20 @@ Art. 36 – O imposto será pago de uma só vez ou parceladamente na forma e pra
 
 § 4º. O Poder Executivo poderá conceder desconto de até 20% (vinte por cento) para o pagamento em cota única, até a data de vencimento da primeira cota, conforme previsto no Calendário Fiscal.
 
-~~Art. 36-A Nos casos de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento, desmembramento ou incorporação, o prazo para pagamento do imposto será o definido em Calendário Fiscal para o exercício posterior à data de início da comercialização dos imóveis, podendo o pagamento ser efetuado em até 02 (dois) anos, contados da referida data.~~<br>
-~~(REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)~~<br>
-(Revogado pela Lei Complementar nº 248, de 11 de novembro de 2025).<br>
+~~Art. 36-A Nos casos de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento, desmembramento ou incorporação, o prazo para pagamento do imposto será o definido em Calendário Fiscal para o exercício posterior à data de início da comercialização dos imóveis, podendo o pagamento ser efetuado em até 02 (dois) anos, contados da referida data.~~
+
+~~(REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)~~
+
+(Revogado pela Lei Complementar nº 248, de 11 de novembro de 2025).
+
  
 
-~~Art. 36-A. Nos casos de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento, desmembramento ou incorporação, o prazo para pagamento do imposto será o definido no Calendário Fiscal para o exercício posterior ao do início da comercialização dos imóveis, não podendo este ser superior a 02 (dois) anos da data de aprovação do loteamento, desmembramento ou incorporação.~~<br>
+~~Art. 36-A. Nos casos de lançamento de unidade imobiliária, edificada ou não, decorrente de loteamento, desmembramento ou incorporação, o prazo para pagamento do imposto será o definido no Calendário Fiscal para o exercício posterior ao do início da comercialização dos imóveis, não podendo este ser superior a 02 (dois) anos da data de aprovação do loteamento, desmembramento ou incorporação.~~
+
 ~~(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).~~
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 37 – São infrações as situações a seguir indicadas, passíveis de aplicação das seguintes penalidades:
@@ -471,7 +506,8 @@ b) a falta de declaração do domicílio tributário para os proprietários de t
 
 c) a falta de recadastramento de imóvel, no cadastro imobiliário, quando determinado pelo Poder Executivo.
 
-IV – no valor de 500 UVFA pela apresentação de documentos inidôneos, para fins de alteração do sujeito passivo do imposto, cumulativamente com as demais infrações previstas nesse artigo.<br>
+IV – no valor de 500 UVFA pela apresentação de documentos inidôneos, para fins de alteração do sujeito passivo do imposto, cumulativamente com as demais infrações previstas nesse artigo.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 § 1º – As infrações previstas nos incisos II e III deste artigo poderão ser reduzidas em 50% (cinqüenta por cento), limitadas ao valor do imposto do exercício, e no prazo máximo de 20 (vinte) dias da data da ciência, quando se tratar de imóvel pertencente a:
@@ -486,10 +522,12 @@ III – entidade de assistência social, sem fins lucrativos, inscrita no Cadast
 
 § 3° - Os valores previstos nos incisos II e III serão atualizados monetariamente pela UVFA – Unidade de Valor Fiscal do Município de Aparecida de Goiânia, vigente no exercício do lançamento, que será divulgado anualmente por ato do Secretário da Fazenda.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA RECLAMAÇÃO E DA REVISÃO DO LANÇAMENTO
 
-Subseção I<br>
+Subseção I
+
 Da Reclamação
 
 Art. 38 – A reclamação será dirigida à repartição competente da Secretaria de Fazenda, em requerimento escrito, obedecidas as formalidades regulamentares e assinada pelo próprio contribuinte ou seu preposto, dentro do prazo de 30 (trinta) dias contados da notificação do lançamento.
@@ -510,7 +548,8 @@ Parágrafo único. O contribuinte que tiver sua reclamação indeferida, respond
 
 Art. 41 – O requerimento de reclamação será apreciado e decidido pela autoridade responsável pelo lançamento do imposto, no prazo de 30 (trinta) dias.
 
-Subseção II<br>
+Subseção II
+
 Da Revisão
 
 Art. 42 – O lançamento, após efetuado e notificado o sujeito passivo, só poderá ser alterado:
@@ -525,7 +564,8 @@ II – pela autoridade lançadora, em virtude de deferimento de reclamação do 
 
 § 3º - Não será conhecido e apreciado o pedido de revisão do lançamento do imposto fora do prazo previsto no artigo 38, deste Código.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DO CADASTRO IMOBILIÁRIO
 
 Art. 43 – Todos os imóveis, inclusive os que gozarem de imunidade ou isenção, situados na zona urbana do Município como definida neste Código, deverão ser inscritos, pelo contribuinte ou responsável, no Cadastro Imobiliário, na forma e prazo em que dispuser o regulamento.
@@ -550,35 +590,40 @@ IV – remissão parcial ou total de tributos imobiliários.
 
 Parágrafo único. A alteração cadastral, que não tenha sido objeto de revisão nos termos deste Código, requerida espontaneamente ou de ofício, somente terá validade para o exercício fiscal seguinte, não podendo retroagir a exercícios fiscais anteriores para alterar crédito tributário já tenha sido constituído e lançado, seja para aumentar ou para diminuir o imposto.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DAS ISENÇÕES
 
 Art. 45 – São isentos do Imposto Sobre a Propriedade Predial e Territorial Urbana os imóveis:
 
 I – quanto à fração ou totalidade, cedidos gratuitamente para uso da União, dos Estados, do Distrito Federal, dos Territórios, dos Municípios ou de suas autarquias e fundações, desde que utilizado nas suas finalidades institucionais e que não receba contraprestação pelos serviços prestados;
 
-II – pertencentes à sociedade civil reconhecidas por lei municipal de utilidade pública, templos religiosos, entidades filantrópicas, agremiação desportiva licenciada, sem fins lucrativos, e quando edificados e utilizados como sede destinada ao exercício de atividades culturais, recreativas, esportivas, religiosas, assistenciais, desde que utilizado na suas finalidade institucionais, e ainda, os pertencentes a entidades credenciadas/habilitadas no Projeto Minha Casa Minha Vida – PMCMV, Faixa I, desde que tais situações estejam devidamente reconhecida pela Secretaria Municipal da Fazenda, mediante regular processo administrativo;<br>
+II – pertencentes à sociedade civil reconhecidas por lei municipal de utilidade pública, templos religiosos, entidades filantrópicas, agremiação desportiva licenciada, sem fins lucrativos, e quando edificados e utilizados como sede destinada ao exercício de atividades culturais, recreativas, esportivas, religiosas, assistenciais, desde que utilizado na suas finalidade institucionais, e ainda, os pertencentes a entidades credenciadas/habilitadas no Projeto Minha Casa Minha Vida – PMCMV, Faixa I, desde que tais situações estejam devidamente reconhecida pela Secretaria Municipal da Fazenda, mediante regular processo administrativo;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~II – pertencentes à sociedade civil reconhecidas por lei municipal de utilidade pública, templos religiosos, entidades filantrópicas, agremiação desportiva licenciada, sem fins lucrativos, e quando edificados e utilizados como sede destinada ao exercício de atividades culturais, recreativas, esportivas, religiosas, assistenciais, desde que utilizado nas suas finalidades institucionais, e desde que tal situação esteja devidamente reconhecida pela Secretaria Municipal da Fazenda, mediante processo administrativo regular;~~
 
 III – declarados de utilidade pública para fins de desapropriação a partir da parcela correspondente ao período de arrecadação do imposto em que ocorrer a emissão de posse ou a ocupação efetiva pelo poder desapropriante.
 
-IV – Os imóveis pertencentes a aposentados, pensionistas e amparados pelo Benefício de Prestação Continuada, que possuam tão somente um único imóvel e que este seja destinado à sua residência, cuja área do terreno seja inferior ou igual a 500 m² (quinhentos metros quadrados), e a área construída seja igual ou inferior a 120 m² (cento e vinte metros quadrados), e desde que a única renda mensal auferida pela família não ultrapasse a dois salários mínimos.<br>
+IV – Os imóveis pertencentes a aposentados, pensionistas e amparados pelo Benefício de Prestação Continuada, que possuam tão somente um único imóvel e que este seja destinado à sua residência, cuja área do terreno seja inferior ou igual a 500 m² (quinhentos metros quadrados), e a área construída seja igual ou inferior a 120 m² (cento e vinte metros quadrados), e desde que a única renda mensal auferida pela família não ultrapasse a dois salários mínimos.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~IV – Os imóveis pertencentes a aposentados e pensionistas, que possuam tão somente um único imóvel e que este seja destinado à sua residência, cuja área do terreno seja inferior ou igual a 500 m² (quinhentos metros quadrados), e a área construída seja igual ou inferior a 120 m² (cento e vinte metros quadrados), e desde que a única renda mensal auferida pela família, não ultrapasse a dois salários mínimos oriunda do benefício da aposentadoria ou pensão.~~
 
 V – As áreas que constituem reserva florestal, e aquelas consideradas como de proteção ambiental, desde que devidamente designadas pelo órgão municipal competente.
 
-§ 1º. A concessão do benefício de isenção a que se refere o inciso IV, deste artigo dependerá de prévio requerimento e mediante processo administrativo regular, onde serão analisadas as informações contidas em pesquisa sócio econômica, podendo ser realizada diligência “in loco”, nos termos definidos em instrução normativa do Secretário Municipal da Fazenda.<br>
+§ 1º. A concessão do benefício de isenção a que se refere o inciso IV, deste artigo dependerá de prévio requerimento e mediante processo administrativo regular, onde serão analisadas as informações contidas em pesquisa sócio econômica, podendo ser realizada diligência “in loco”, nos termos definidos em instrução normativa do Secretário Municipal da Fazenda.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103 "Abrir Lei Complementar nº 116, de 2015 em nova aba"), DE 29 DE DEZEMBRO DE 2015).
 
 ~~§ 1º - A concessão do benefício de isenção a que se refere o inciso IV, deste artigo dependerá de prévio requerimento e mediante processo administrativo regular, onde serão analisadas as informações contidas em pesquisa sócio-econômica, obtida com diligência “in loco” pela assistência social, nos termos definidos em instrução normativa do Secretário Municipal da Fazenda.~~
 
 § 2º - As concessões das isenções mencionadas neste artigo deverão ser formalizadas por intermédio de processo administrativo, e dependerão de prévio reconhecimento do Secretário da Fazenda Municipal.
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 46 – O Imposto Sobre a Propriedade Predial e Territorial Urbana constitui ônus real e acompanha o imóvel em todos os casos de transmissão de propriedade ou de direitos reais a ele relativos.
@@ -603,10 +648,12 @@ Art. 49 – Quando o imóvel estiver situado em logradouro pavimentado e dotado 
 
 Art. 50 – Sem prejuízo do disposto nesta seção, aplicam-se aos imóveis do Município, o disposto no Plano Diretor por meio da Lei do Planejamento Municipal Sustentável, Lei de Política para o Crescimento e Desenvolvimento Estratégico, Lei de Parcelamento e Lei de Zoneamento.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 IMPOSTO SOBRE A TRANSMISSÃO DE BENS IMÓVEIS ‘INTER VIVOS’
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR
 
 Art. 51 – O Imposto Sobre a Transmissão “Inter Vivos”, de bens imóveis, por natureza e de direitos reais eles, tem como fato gerador:
@@ -691,7 +738,8 @@ III – a transação em que seja reconhecido direito que implique transmissão 
 
 § 6º. Na hipótese prevista no inciso VII do “caput” deste artigo, a incidência do Imposto independe da existência de reposição em moeda na divisão do patrimônio comum.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA NÃO INCIDÊNCIA
 
 Art. 53 – O imposto sobre a transmissão de bens móveis “Inter Vivos”, não incide quando:
@@ -714,7 +762,8 @@ IV – decorrente da incorporação ou da fusão de uma pessoa jurídica por out
 
 § 1º. A autoridade competente pode suspender a aplicação do benefício às entidades referidas no inciso II, deste artigo, na falta de cumprimento dos dispostos em suas alíneas.
 
-~~§ 2º. O imposto não incide sobre a transmissão aos mesmos alienantes, dos bens e direitos adquiridos na forma do inciso III, deste artigo, em decorrência da sua desincorporação do patrimônio da pessoa jurídica a que foram conferidos.~~<br>
+~~§ 2º. O imposto não incide sobre a transmissão aos mesmos alienantes, dos bens e direitos adquiridos na forma do inciso III, deste artigo, em decorrência da sua desincorporação do patrimônio da pessoa jurídica a que foram conferidos.~~
+
 (Revogado pela Lei Complementar nº 131, de 30 de outubro de 2017).
 
 § 3º. As vedações do inciso I, deste artigo, não se aplicam ao patrimônio, à renda e aos serviços, relacionados com exploração de atividades econômicas regidas pelas normas aplicáveis a empreendimentos privados, ou em que haja contraprestação ou pagamento de preços ou tarifas pelo usuário, nem exonera o promitente comprador da obrigação de pagar imposto relativamente ao bem imóvel.
@@ -731,21 +780,24 @@ Art. 54 – O disposto nos incisos III e IV do artigo anterior não se aplica qu
 
 § 4º. Fica prejudicada a análise da atividade preponderante, incidindo o imposto, quando a pessoa jurídica adquirente dos bens ou direitos tiver existência em período inferior ao previsto nos §§ 1º e 2º.
 
-§ 5º Na hipótese do art. 53, III, tratando-se de incorporação de imóvel, será concedida a imunidade em relação ao valor correspondente ao capital subscrito, e lançada a diferença do imposto com base no valor de avaliação do imóvel, observadas as vedações dos §s 1º e 2º do art. 59 desta Lei.<br>
+§ 5º Na hipótese do art. 53, III, tratando-se de incorporação de imóvel, será concedida a imunidade em relação ao valor correspondente ao capital subscrito, e lançada a diferença do imposto com base no valor de avaliação do imóvel, observadas as vedações dos §s 1º e 2º do art. 59 desta Lei.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774 "Abrir Lei Complementar nº 182, de 2020 em nova aba"), DE 23 DE DEZEMBRO DE 2020).
 
 ~~§ 5º. O disposto neste artigo não se aplica à transmissão de bens ou direitos, quando realizada em conjunto com a da totalidade do patrimônio da pessoa jurídica alienante.~~
 
 Art. 55 – A Secretaria Municipal da Fazenda disciplinará os procedimentos necessários para a concessão de isenção e o reconhecimento da não incidência e da imunidade, relativamente ao Imposto.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO SUJEITO PASSIVO
 
 Art. 56 – Contribuinte do imposto é o adquirente ou o cessionário do bem imóvel ou do direito a ele relativo.
 
 Parágrafo único. Nas transmissões que se efetuarem sem o pagamento do imposto devido, fica solidariamente responsável, o transmitente e/ou o cedente conforme o caso.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA BASE DE CÁLCULO
 
 Art. 57 – A base de cálculo do imposto é o valor venal dos bens ou direitos transmitidos, ou o atribuído em contrato quando este for maior.
@@ -760,13 +812,16 @@ Art. 57 – A base de cálculo do imposto é o valor venal dos bens ou direitos 
 
 § 5º. Declarada a extinção do fideicomisso, por qualquer motivo, e consolidada a propriedade, o imposto deverá ser recolhido no prazo de 30 (trinta) dias.
 
-§ 6º - Na primeira transação de compra e venda do imóvel, decorrente de loteamento ou incorporação, a base de cálculo do imposto será o valor da venda, sem os encargos de financiamento, devidamente corrigido pela UVFA, após homologação da autoridade fiscal.<br>
+§ 6º - Na primeira transação de compra e venda do imóvel, decorrente de loteamento ou incorporação, a base de cálculo do imposto será o valor da venda, sem os encargos de financiamento, devidamente corrigido pela UVFA, após homologação da autoridade fiscal.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
-§ 7º - Nos casos previstos no parágrafo anterior, o vencimento do imposto poderá ocorrer no prazo máximo de 48 (quarenta e oito) meses da data da assinatura do contrato.<br>
+§ 7º - Nos casos previstos no parágrafo anterior, o vencimento do imposto poderá ocorrer no prazo máximo de 48 (quarenta e oito) meses da data da assinatura do contrato.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
-Subseção I<br>
+Subseção I
+
 Da Apuração da Base de Cálculo
 
 Art. 58 – O valor venal do imposto corresponderá ao valor pelo qual o bem ou direito seria negociado à vista, em condições normais de mercado.
@@ -793,7 +848,8 @@ I – na cessão de direitos de usufruto, 2/3 (dois terços) do valor venal do i
 
 II – na concessão real de uso, na habitação ou renda expressamente constituída, a base de cálculo corresponderá a 1/2 (metade) do valor venal do imóvel;
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DAS ALÍQUOTAS
 
 Art. 62 – As alíquotas do Imposto Sobre a Transmissão “Inter Vivos” de Bens Imóveis e de direitos a eles relativos, são as seguintes:
@@ -804,7 +860,8 @@ II – nas transmissões compreendidas no Sistema Financeiro da Habitação – 
 
 III – nas demais transmissões compreendidas no Sistema Financeiro da Habitação – SFH e no Programa de Arrendamento Residencial – PAR, aplicável somente sobre a parte efetivamente financiada, 1,5% (um inteiro e cinco décimos por cento).
 
-IV - nas demais transmissões: 2,5% (dois inteiros e cinco décimos por cento).<br>
+IV - nas demais transmissões: 2,5% (dois inteiros e cinco décimos por cento).
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 215](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111719 "Abrir Lei Complementar nº 215, de 2023 em nova aba"), DE 09 DE AGOSTO DE 2023).
 
 ~~I – nas transmissões compreendidas no Sistema Financeiro de Habitação, em relação à parcela financiada, 0,5% (cinco décimos por cento);~~
@@ -813,7 +870,8 @@ IV - nas demais transmissões: 2,5% (dois inteiros e cinco décimos por cento).<
 
 ~~III – nas demais transmissões: 2,5% (dois inteiros e cinco décimos por cento).~~
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DO LOCAL, FORMA E PRAZOS DE PAGAMENTO DO IMPOSTO
 
 Art. 63 – O pagamento do imposto será feito junto à rede bancária credenciada, e o prazo para o vencimento do imposto é de até 30 (trinta) dias após a emissão do laudo de avaliação administrativa ou judicial.
@@ -854,7 +912,8 @@ d) caso o imóvel seja alienado pela pessoa jurídica, antes de decorrido o praz
 
 § 11. Os cartórios de Registro de Imóveis deverão exigir o comprovante do recolhimento da diferença apurada na forma no parágrafo 9º deste artigo, ou o novo Laudo de Avaliação Imobiliário Administrativo atestando a manutenção do valor venal original.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DAS ISENÇÕES
 
 Art. 64 – São isentos do imposto:
@@ -865,10 +924,12 @@ II – a indenização de benfeitorias feitas pelo locador ao locatário;
 
 III – os atos de transmissão de propriedade e de domínio útil de bens imóveis, que gozarem de isenção em virtude de dispositivos constitucionais e de leis complementares;
 
-IV - sobre a transação referente à primeira aquisição de unidade habitacional relativa a Programas de Habitação de Interesse Social do Município, do Estado, e da União quando destinadas a famílias com renda mensal que se enquadre no intervalo determinado pelo Programa Minha Casa Minha Vida (PMCMV) Faixa I.<br>
+IV - sobre a transação referente à primeira aquisição de unidade habitacional relativa a Programas de Habitação de Interesse Social do Município, do Estado, e da União quando destinadas a famílias com renda mensal que se enquadre no intervalo determinado pelo Programa Minha Casa Minha Vida (PMCMV) Faixa I.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DA RESTITUIÇÃO
 
 Art. 65 – O imposto será restituído quando o ato ou contrato, por força do qual se fez o recolhimento, não realizar ou for anulado por decisão judicial, conforme dispuser o regulamento.
@@ -883,7 +944,8 @@ III – de traslados de escrituras, contratos, cessões de direitos e outros doc
 
 § 2º. Não será recepcionado pedido de restituição ou compensação, para o imposto recolhido há mais de 5 (cinco) anos.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DAS OBRIGAÇÕES DOS SERVENTUÁRIOS DA JUSTIÇA, DOS CARTÓRIOS DE REGISTRO DE IMÓVEIS E DISPOSIÇÕES ESPECÍFICAS DO IMPOSTO
 
 Art. 66 – Quando a transmissão de bens imóveis ou de direitos a eles relativos se der por instrumento público ou particular, deverá constar no documento respectivo os seguintes dados referentes ao recolhimento do imposto:
@@ -932,10 +994,12 @@ Art. 72 – Deverá a Fazenda Pública Municipal ser representada em todos os pr
 
 § 5º. Havendo tributo a ser recolhido ao Município, e findo o prazo sem que os interessados tenham efetuado o pagamento, o representante da Fazenda Pública Municipal deverá comunicar o fato ao Juiz do feito, sob pena de responsabilidade funcional, objetivando a consignação judicial do valor do imposto, se houver, ou de outros bens para cumprimento da obrigação tributária.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 IMPOSTO SOBRE SERVIÇOS DE QUALQUER NATUREZA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR
 
 Art. 73 – O Imposto Sobre Serviços de Qualquer Natureza tem como fato gerador a prestação de serviços expressos na lista do artigo 1º da Lei Complementar Federal nº 116, de 31 de julho de 2003 e constante no Anexo I, deste Código, ainda que esses não se constituam como atividade preponderante do prestador.
@@ -970,7 +1034,8 @@ I – no local do estabelecimento do tomador ou intermediário do serviço ou, n
 
 II – da instalação dos andaimes, palcos, coberturas e outras estruturas, no caso dos serviços descritos no subitem 3.04 da lista de serviços anexa a esta Lei;
 
-III - da execução da obra, no caso dos serviços descritos no subitem 7.02, 7.17 e 14.14 da lista anexa;<br>
+III - da execução da obra, no caso dos serviços descritos no subitem 7.02, 7.17 e 14.14 da lista anexa;
+
 (Redação alterada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 ~~III – da execução da obra, no caso dos serviços descritos no subitem 7.02 e 7.17 da lista anexa;~~
@@ -987,7 +1052,8 @@ VIII – da execução da decoração e jardinagem, do corte e poda de árvores,
 
 IX – do controle e tratamento do efluente de qualquer natureza e de agentes físicos, químicos e biológicos, no caso dos serviços descritos no subitem 7.12 da lista anexa;
 
-X - do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios;<br>
+X - do florestamento, reflorestamento, semeadura, adubação, reparação de solo, plantio, silagem, colheita, corte, descascamento de árvores, silvicultura, exploração florestal e serviços congêneres indissociáveis da formação, manutenção e colheita de florestas para quaisquer fins e por quaisquer meios;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~X – do florestamento, reflorestamento, semeadura, adubação e congêneres, no caso dos serviços descritos no subitem 7.14 da lista anexa;~~
@@ -998,7 +1064,8 @@ XII – da limpeza e dragagem, no caso dos serviços descritos no subitem 7.16 d
 
 XIII – onde o bem estiver guardado ou estacionado, no caso dos serviços descritos no subitem 11.01 da lista anexa;
 
-XIV - dos bens, dos semoventes ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;<br>
+XIV - dos bens, dos semoventes ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~XIV – dos bens ou do domicílio das pessoas vigiados, segurados ou monitorados, no caso dos serviços descritos no subitem 11.02 da lista anexa;~~
@@ -1007,7 +1074,8 @@ XV – do armazenamento, depósito, carga, descarga, arrumação e guarda do bem
 
 XVI – da execução dos serviços de diversão, lazer, entretenimento e congêneres, no caso dos serviços descritos nos subitens do item 12, exceto o 12.13, da lista anexa;
 
-XVII - do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo item 16 da lista anexa;<br>
+XVII - do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo item 16 da lista anexa;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~XVII – do Município onde está sendo executado o transporte, no caso dos serviços descritos pelo subitem 16.01 da lista anexa;~~
@@ -1016,13 +1084,16 @@ XVIII – da feira, exposição, congresso ou congênere a que se referir o plan
 
 XIX – os serviços portuários, aeroportuários, ferroportuários, de terminais rodoviários e metroviários, descritos pelo item 20 da lista anexa, ressalvado o disposto no § 4º deste artigo.
 
-XX - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;<br>
+XX - do domicílio do tomador dos serviços dos subitens 4.22, 4.23 e 5.09;
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
-XXI - do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;<br>
+XXI - do domicílio do tomador do serviço no caso dos serviços prestados pelas administradoras de cartão de crédito ou débito e demais descritos no subitem 15.01;
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
-XXII - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09.<br>
+XXII - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 § 2º. No caso dos serviços a que se refere o subitem 3.03 da lista anexa, considera-se ocorrido o fato gerador e devido o imposto em cada Município em cujo território haja extensão de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza, objetos de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não.
@@ -1031,7 +1102,8 @@ XXII - do domicílio do tomador dos serviços dos subitens 10.04 e 15.09.<br>
 
 § 4º. Considera-se ocorrido o fato gerador do imposto no local do estabelecimento prestador nos serviços executados em águas marítimas, excetuados os serviços descritos no subitem 20.01.
 
-§ 5º Na hipótese de descumprimento do disposto no art. 96-A desta Lei Complementar, o imposto será devido no local do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado.<br>
+§ 5º Na hipótese de descumprimento do disposto no art. 96-A desta Lei Complementar, o imposto será devido no local do estabelecimento do tomador ou intermediário do serviço ou, na falta de estabelecimento, onde ele estiver domiciliado.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 Art. 75 – Considera-se estabelecimento prestador o local onde o contribuinte desenvolva a atividade de prestar serviços, de modo permanente ou temporário, e que configure unidade econômica ou profissional, sendo irrelevantes para caracterizá-lo as denominações de sede, filial, agência, posto de atendimento, sucursal, escritório de representação ou contato ou quaisquer outras que venham a ser utilizadas.
@@ -1050,7 +1122,8 @@ V – permanência ou ânimo de permanecer no local, para a exploração econôm
 
 § 2º. Todo e qualquer estabelecimento prestacional, comercial ou industrial deve obrigatoriamente ser inscrito no Cadastro de Contribuintes do Município – CCM, independente de constituir-se em pessoa física ou jurídica.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO SUJEITO PASSIVO – CONTRIBUINTE
 
 Art. 76 – Contribuinte do imposto é o prestador do serviço, empresa ou profissional autônomo que exercer, em caráter permanente ou temporário, quaisquer das atividades constantes do anexo I deste Código.
@@ -1085,7 +1158,8 @@ IX – as empresas de construção civil e os incorporadores imobiliários, incl
 
 X – o tomador ou intermediário de serviço proveniente do exterior do Pais ou cuja prestação se tenha iniciado no exterior do País;
 
-XI – a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens 3.04, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.14, 7.15, 7.16, 7.17, 7.19, 11.02, 12.07, 17.05 e 17.10 da lista a que se refere o Anexo I deste Código.<br>
+XI – a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens 3.04, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.14, 7.15, 7.16, 7.17, 7.19, 11.02, 12.07, 17.05 e 17.10 da lista a que se refere o Anexo I deste Código.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~XI – a pessoa jurídica, ainda que imune ou isenta, tomadora ou intermediária dos serviços descritos nos subitens 3.04, 7.02, 7.04, 7.05, 7.09, 7.10, 7.12, 7.14, 7.15, 7.16, 7.17, 7.19, 11.02, 17.05 e 17.10 da lista a que se refere o Anexo I deste Código.~~
@@ -1100,17 +1174,20 @@ Art. 78 – O Secretário de Finanças, através de Ato Normativo, poderá atrib
 
 Art. 79 – O proprietário de estabelecimento, na condição de sujeito passivo, é solidariamente responsável pelo imposto relativo à exploração de máquinas e aparelhos pertencentes a terceiros, quando instalados em seu estabelecimento.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA BASE DE CÁLCULO
 
 Art. 80 – Ressalvadas as hipóteses previstas nesta Lei, a base de cálculo do imposto é o preço do serviço, sem nenhuma dedução, excetuando-se os descontos ou abatimentos concedidos.
 
-Parágrafo único. Na falta do preço do serviço, ou não sendo este informado, será adotado o corrente na praça e apurado com base em estimativa ou arbitramento na forma deste Código.<br>
+Parágrafo único. Na falta do preço do serviço, ou não sendo este informado, será adotado o corrente na praça e apurado com base em estimativa ou arbitramento na forma deste Código.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103 "Abrir Lei Complementar nº 116, de 2015 em nova aba"), DE 29 DE DEZEMBRO DE 2015).
 
 ~~Parágrafo único. Não falta do preço do serviço, ou não sendo este informado, será adotado o corrente na praça e apurado com base em estimativa ou arbitramento na forma deste Código.~~
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 APURAÇÃO DA BASE DE CÁLCULO
 
 Art. 81 – Considera-se preço do serviço, para efeito de cálculo do imposto, a receita bruta mensal da prestação de serviços, mesmo que não tenha sido recebida.
@@ -1147,21 +1224,24 @@ VII – os sócios sejam profissionais habilitados e a sociedade tenha os seus a
 
 VIII – não possua pessoa jurídica como sócio.
 
-Parágrafo único. Em caso do não atendimento a qualquer dos requisitos previstos neste artigo, fica descaracterizada a sociedade profissional e a mesma recolherá o imposto com base no preço do serviço, observada a alíquota aplicável para a atividade exercida.<br>
+Parágrafo único. Em caso do não atendimento a qualquer dos requisitos previstos neste artigo, fica descaracterizada a sociedade profissional e a mesma recolherá o imposto com base no preço do serviço, observada a alíquota aplicável para a atividade exercida.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 90](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111766 "Abrir Lei Complementar nº 90, de 2014 em nova aba"), DE 02 DE JULHO DE 2014).
 
 ~~Parágrafo único. Ocorrendo qualquer das hipóteses previstas neste artigo, fica descaracterizada a sociedade profissional, e a mesma recolherá o imposto com base no preço do serviço, observada a alíquota aplicável para a atividade exercida.~~
 
 Art. 84. Na prestação dos serviços a que se refere os subitens 7.02, 7.05 e 7.15 do item 7, da lista de serviços do Anexo I deste Código, o imposto será calculado sobre o preço cobrado, deduzidas das parcelas correspondentes:
 
-I – os materiais empregados produzidos pelo prestador fora do local da obra e por ele destacadamente comercializados com a incidência de ICMS;<br>
+I – os materiais empregados produzidos pelo prestador fora do local da obra e por ele destacadamente comercializados com a incidência de ICMS;
+
 (Redação alterada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 ~~I - o valor dos materiais fornecidos pelo prestador dos serviços;~~
 
 II - o valor das subempreitadas já tributadas pelo imposto neste município.
 
-§ 1º-A  A norma prevista no inciso I deste artigo vigorará a partir de 1º de julho de 2026.<br>
+§ 1º-A  A norma prevista no inciso I deste artigo vigorará a partir de 1º de julho de 2026.
+
 (Redação alterada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 ~~§ 1º. Considera-se materiais, para efeitos do inciso I deste artigo, aqueles que incorporam diretamente à obra, na condição de elemento necessário à sua construção.~~
@@ -1176,7 +1256,8 @@ II - o valor das subempreitadas já tributadas pelo imposto neste município.
 
 § 6º. Poderá ainda ser deduzido do preço do serviço o valor da fração ideal do terreno, quando incluído no valor da unidade compromissada à venda.
 
-§ 7º. Na impossibilidade da aplicação do disposto no parágrafo anterior a base de cálculo do imposto será estipulada em 30% (trinta por cento) do preço da construção.<br>
+§ 7º. Na impossibilidade da aplicação do disposto no parágrafo anterior a base de cálculo do imposto será estipulada em 30% (trinta por cento) do preço da construção.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).
 
 ~~Art. 84 – Na prestação dos serviços a que se refere os subitens 7.02, 7.05 e 7.15 do item 7, da lista de serviços do Anexo I deste Código, quando as obras ou serviços forem executados em regime de administração, a receita bruta corresponderá à remuneração do administrador, abrangendo honorários, fornecimento de mão-de-obra, pagamento das obrigações previdenciárias, sociais e outros encargos trabalhistas, mesmo que tais pagamentos venham a ser reembolsados pelo proprietário da obra administrada, acrescido do percentual de 20%.~~
@@ -1193,7 +1274,8 @@ Art. 85 – Quando se tratar dos serviços descritos no subitem 3.03 da lista de
 
 Art. 86 – Na prestação dos serviços constantes dos subitens 4.22 e 4.23, quando prestados por cooperativas, a base de cálculo do imposto será calculada excluindo-se do preço do serviço os valores pagos aos serviços executados por hospitais, laboratórios, clínicas, médicos, odontologos e demais profissionais de saúde, desde que inscritos no Cadastro de Contribuintes do Município – CCM.
 
-Art. 86-A. Quando se tratar dos serviços de exploração de rodovia mediante cobrança de preço ou pedágio dos usuários, envolvendo execução de serviços de conservação, manutenção, melhoramentos para adequação de capacidade  e segurança de trânsito, operação, monitoração, assistência aos usuários e outros serviços definidos em contratos, atos de concessão ou de permissão ou em normas oficiais, forem prestados em mais de um Município, a base de cálculo será proporcional à extensão da ferrovia, rodovia, dutos e condutos, cabos de qualquer natureza no território do Município.<br>
+Art. 86-A. Quando se tratar dos serviços de exploração de rodovia mediante cobrança de preço ou pedágio dos usuários, envolvendo execução de serviços de conservação, manutenção, melhoramentos para adequação de capacidade  e segurança de trânsito, operação, monitoração, assistência aos usuários e outros serviços definidos em contratos, atos de concessão ou de permissão ou em normas oficiais, forem prestados em mais de um Município, a base de cálculo será proporcional à extensão da ferrovia, rodovia, dutos e condutos, cabos de qualquer natureza no território do Município.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).
 
 Art. 87 – Integra a base de cálculo do imposto o valor correspondente:
@@ -1220,7 +1302,8 @@ Art. 88 – A diferença de base de cálculo apurada acarretará a exigibilidade
 
 Parágrafo único. Aplica-se o disposto no caput deste artigo às empresas que enquadradas no regime de tributação diferenciado nos termos da Lei Complementar Federal nº 123 de 14.12.2006, ou outra que venha substituí-la, for apurada diferença de base de cálculo do imposto, que deverá ser recolhido diretamente aos cofres públicos municipais.
 
-Subseção I<br>
+Subseção I
+
 Da Estimativa
 
 Art. 89 – O Poder Executivo poderá estabelecer critérios para a estimativa da base de cálculo do imposto, quando se tratar de:
@@ -1253,7 +1336,8 @@ Art. 91 – O enquadramento do sujeito passivo, no regime de estimativa poderá,
 
 Art. 92 – O valor fixado por estimativa, não constituirá lançamento definitivo do imposto, ficando sujeito a posterior homologação pelo Fisco, ressalvados os casos de estimativa especial definida em Ato expedido pelo Secretário da Fazenda.
 
-Subseção II<br>
+Subseção II
+
 Do Arbitramento
 
 Art. 93 – O Poder Executivo poderá estabelecer critérios para o arbitramento do preço dos serviços e a respectiva base de cálculo do imposto, sem prejuízo das penalidades cabíveis, quando:
@@ -1298,10 +1382,12 @@ III - O valor das despesas gerais, dos salários, encargos sociais, previdenciá
 
 IV - A utilização do Custo Unitário Básico da Construção - CUB ou do preço referencial do Sistema Nacional de Custos e Índices da Construção Civil - SINAPI.
 
-Parágrafo único. Outros critérios para a fixação da base de cálculo do imposto a ser lançado por arbitramento poderão ser definidos por ato baixado pelo Chefe do Executivo.<br>
+Parágrafo único. Outros critérios para a fixação da base de cálculo do imposto a ser lançado por arbitramento poderão ser definidos por ato baixado pelo Chefe do Executivo.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).
 
-Subseção III<br>
+Subseção III
+
 Da Omissão de Receita 
 
 Art. 93-B. Caracteriza omissão de receita decorrente da prestação de serviços:
@@ -1326,10 +1412,12 @@ Art. 93- C. A omissão de receita poderá, também, ser determinada a partir de 
 
 § 1º Para os fins deste artigo, apurar-se-á a diferença, positiva ou negativa, entre a soma das quantidades de produtos em estoque no início do período com a quantidade de serviços prestados cuja venda houver sido registrada na escrituração contábil da empresa com as quantidades em estoque, no final do período de apuração.
 
-§ 2º Considera-se receita omitida, nesse caso, o valor resultante da multiplicação das diferenças de quantidades de produtos pelos respectivos valores dos serviços praticados, em cada período de apuração abrangido pelo levantamento."<br>
+§ 2º Considera-se receita omitida, nesse caso, o valor resultante da multiplicação das diferenças de quantidades de produtos pelos respectivos valores dos serviços praticados, em cada período de apuração abrangido pelo levantamento."
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DAS ALÍQUOTAS
 
 Art. 94 – As alíquotas aplicáveis para o cálculo do imposto são as estabelecidas na Tabela do Anexo II, deste Código.
@@ -1346,17 +1434,20 @@ Art. 96-A. alíquota mínima do Imposto sobre Serviços de Qualquer Natureza é 
 
 § 2º. É nula a lei ou o ato do Município ou do Distrito Federal que não respeite as disposições relativas à alíquota mínima prevista neste artigo no caso de serviço prestado a tomador ou intermediário localizado no Município de Aparecida de Goiânia, Goiás, diverso daquele onde está localizado o prestador do serviço.
 
-§ 3º. A nulidade a que se refere o § 2º deste artigo gera, para o prestador do serviço, perante o Município ou o Distrito Federal que não respeitar as disposições deste artigo, o direito à restituição do valor efetivamente pago do Imposto sobre Serviços de Qualquer Natureza calculado sob a égide da lei nula.<br>
+§ 3º. A nulidade a que se refere o § 2º deste artigo gera, para o prestador do serviço, perante o Município ou o Distrito Federal que não respeitar as disposições deste artigo, o direito à restituição do valor efetivamente pago do Imposto sobre Serviços de Qualquer Natureza calculado sob a égide da lei nula.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~Art. 96-A. Enquanto lei complementar não fixar as alíquotas mínimas do Imposto Sobre Serviços - ISS, bem como regular a forma e as condições como isenções, incentivos e benefícios fiscais serão concedidos e revogados, nos termos da Emenda Constitucional nº 037, de 12 de junho de 2002, que acrescentou o artigo 88 ao Ato das Disposições Constitucionais Transitórias, o referido imposto:~~ 
 
 ~~I – terá alíquota mínima de dois por cento;~~
 
-~~II – não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I.~~<br>
+~~II – não será objeto de concessão de isenções, incentivos e benefícios fiscais, que resulte, direta ou indiretamente, na redução da alíquota mínima estabelecida no inciso I.~~
+
 ~~(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).~~
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DO LANÇAMENTO E RECOLHIMENTO DO IMPOSTO
 
 Art. 97 – O imposto será lançado:
@@ -1387,10 +1478,12 @@ Art. 100 – O recolhimento do imposto será feito nos estabelecimentos de créd
 
 Parágrafo único. Os contribuintes que não tiverem movimento econômico durante o mês, deverão apresentar declarações negativas na forma regulamentar, nas quais venham a indicar essa circunstância, até o 10º (décimo) dia do mês seguinte.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA OBRIGAÇÃO ACESSÓRIA
 
-Subseção I<br>
+Subseção I
+
 Da Inscrição
 
 Art. 101 – A pessoa física ou jurídica cuja atividade esteja sujeita a reter e recolher os tributos, ainda que isenta ou imune, deverá se inscrever no cadastro próprio da Secretaria da Fazenda, antes de iniciar quaisquer atividades.
@@ -1413,7 +1506,8 @@ II – De ofício.
 
 § 7º. Tratando-se de firma individual prestadora de serviços, exigir-se-á do titular, em substituição ao CNPJ, o seu CPF.
 
-Subseção II<br>
+Subseção II
+
 Dos livros e documentos fiscais
 
 Art. 102 – O contribuinte dos tributos fica obrigado a manter em cada um dos seus estabelecimentos sujeito à inscrição, escrita fiscal e demais documentos destinados ao registro dos serviços nele prestados ou tomados, ainda que isentos ou não tributados, na forma disposta em regulamento.
@@ -1442,7 +1536,8 @@ Art. 106 – Os livros fiscais e comerciais, eletrônicos ou não, são de exibi
 
 Parágrafo único. Para os efeitos deste artigo, não tem aplicação, disposições legais excludentes ou limitativas dos direitos do fisco de examinar livros, arquivos, documentos, papéis e efeitos comerciais ou fiscais dos contribuintes, de acordo com o disposto no art. 195, da Lei Federal nº. 5.172, de 25 de outubro de 1966.
 
-Art. 106-A. Constituem documentos fiscais os impressos ou arquivos digitais fornecidos pelas pessoas físicas ou jurídicas indicadas no art. 347 desta lei.<br>
+Art. 106-A. Constituem documentos fiscais os impressos ou arquivos digitais fornecidos pelas pessoas físicas ou jurídicas indicadas no art. 347 desta lei.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).
 
 Art. 106-B. Considera-se inidôneo, para todos os efeitos fiscais, o documento que:
@@ -1457,10 +1552,12 @@ IV - discriminar mercadoria ou serviço que não corresponda ao objeto da opera�
 
 V - resulte na consignação de valor, quantidade, qualidade, espécie, origem ou destino diferentes nas suas vias;
 
-Art. 106-C. A inidoneidade de que trata o artigo anterior poderá ser afastada, mediante processo administrativo tributário, em que o sujeito passivo comprove, de forma inequívoca, que a irregularidade não importou em falta de pagamento, total ou parcial do imposto.<br>
+Art. 106-C. A inidoneidade de que trata o artigo anterior poderá ser afastada, mediante processo administrativo tributário, em que o sujeito passivo comprove, de forma inequívoca, que a irregularidade não importou em falta de pagamento, total ou parcial do imposto.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103 "Abrir Lei Complementar nº 116, de 2015 em nova aba"), DE 29 DE DEZEMBRO DE 2015).
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 107 – As infrações cometidas pelo sujeito passivo do Imposto Sobre Serviços de Qualquer Natureza serão punidas com as seguintes multas:
@@ -1491,7 +1588,8 @@ III – por faltas relacionadas com a inscrição e alterações cadastrais, o v
 
 a) 100,00 UVFA’s: pelo exercício de atividade, sem inscrição no Cadastro de Contribuintes do Município;
 
-b) 50,00 UVFA’s por exercício, em se tratando de pessoa jurídica, e 20 UVFA's por exercícios, em se tratando de pessoa física, pela falta de comunicação no prazo legal à repartição competente, da venda, transferência ou encerramento da atividade, ainda que temporariamente, bem como pela paralisação temporária ou encerramento da atividade econômica do estabelecimento, mudança de endereço ou qualquer alteração de dados cadastrais;<br>
+b) 50,00 UVFA’s por exercício, em se tratando de pessoa jurídica, e 20 UVFA's por exercícios, em se tratando de pessoa física, pela falta de comunicação no prazo legal à repartição competente, da venda, transferência ou encerramento da atividade, ainda que temporariamente, bem como pela paralisação temporária ou encerramento da atividade econômica do estabelecimento, mudança de endereço ou qualquer alteração de dados cadastrais;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 90](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111766 "Abrir Lei Complementar nº 90, de 2014 em nova aba"), DE 02 DE JULHO DE 2014).
 
 ~~b) 100,00 UVFA’s: por exercício, pela falta de comunicação no prazo legal à repartição competente, da venda, transferência ou encerramento da atividade, ainda que temporariamente, bem como pela paralisação temporária ou encerramento da atividade econômica do estabelecimento, mudança de endereço ou qualquer alteração de dados cadastrais;~~
@@ -1522,7 +1620,8 @@ j) 20,00 UVFA’s: pela apresentação de guia de informação ou de apuração,
 
 k) 100,00 UVFA’s: aplicável às operações de prestação de serviço, mensalmente, aos que, sujeitos ou não à tributação pelo imposto, deixarem de emitir Nota Fiscal de Serviços;
 
-l) 20,00 UVFA’s: aos que, sujeitos a escrita fiscal, deixarem de lançar no livro próprio, o imposto devido, ou ainda escriturarem com atraso superior ao permitido, inclusive as declarações eletrônicas de serviços prestados e/ou contratados, ainda que por falta de movimento econômico, aplicável a cada mês;<br>
+l) 20,00 UVFA’s: aos que, sujeitos a escrita fiscal, deixarem de lançar no livro próprio, o imposto devido, ou ainda escriturarem com atraso superior ao permitido, inclusive as declarações eletrônicas de serviços prestados e/ou contratados, ainda que por falta de movimento econômico, aplicável a cada mês;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 90](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111766 "Abrir Lei Complementar nº 90, de 2014 em nova aba"), DE 02 DE JULHO DE 2014).
 
 ~~l) 100,00 UVFA’s: aos que, sujeitos a escrita fiscal, deixarem de lançar no livro próprio, o imposto devido, ou ainda escriturarem com atraso superior ao permitido, inclusive as declarações eletrônicas de serviços prestados e/ou contratados, ainda que por falta de movimento econômico, aplicável a cada mês;~~
@@ -1535,10 +1634,12 @@ o) 5,00 UVFA’s: por documento fiscal em que não constar o número da inscriç
 
 p) 45,00 UVFA’s: por outras faltas relacionadas aos Documentos Fiscais e aos Livros Fiscais, não previstas neste Código;
 
-q) 500,00 UVFAs pela falta de prestação das informações ou sua apresentação de forma inexata, ou fora do prazo, das Declarações Eletrônicas de Serviços Prestados e Tomados pelas Cooperativas Médicas, Operadoras de Leasing e Administradoras de Cartão de Crédito aplicável a cada mês;<br>
+q) 500,00 UVFAs pela falta de prestação das informações ou sua apresentação de forma inexata, ou fora do prazo, das Declarações Eletrônicas de Serviços Prestados e Tomados pelas Cooperativas Médicas, Operadoras de Leasing e Administradoras de Cartão de Crédito aplicável a cada mês;
+
 (REDAÇÃO ACRSCENTADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
-r) 100,00 UVFAs, pela utilização de equipamento adquirido para uma pessoa física e/ou jurídica por outra, relacionados a serviços tomados das Administradoras de Cartão de Crédito, relativamente a cada equipamento.<br>
+r) 100,00 UVFAs, pela utilização de equipamento adquirido para uma pessoa física e/ou jurídica por outra, relacionados a serviços tomados das Administradoras de Cartão de Crédito, relativamente a cada equipamento.
+
 (REDAÇÃO ACRSCENTADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 § 1º. As multas previstas nas alíneas “c” e “m” do inciso IV, deste artigo, serão aplicadas por grupo de 25 (vinte e cinco) documentos, e sem prejuízo do arbitramento da receita tributável prevista no artigo 93 deste Código.
@@ -1551,16 +1652,20 @@ r) 100,00 UVFAs, pela utilização de equipamento adquirido para uma pessoa fís
 
 § 5º. O pagamento da multa não exime o infrator da obrigação de reparar os danos resultantes da infração, nem do cumprimento das exigências regulamentares que a tiverem determinado.
 
-§ 6º Em caso de reincidência, e observando o caput do artigo 245 desta Lei, a multa prevista na alínea "l" do inciso IV será de 100,00 UVFAs, e a prevista na alínea "q", será sempre o dobro da multa aplicada anteriormente.<br>
+§ 6º Em caso de reincidência, e observando o caput do artigo 245 desta Lei, a multa prevista na alínea "l" do inciso IV será de 100,00 UVFAs, e a prevista na alínea "q", será sempre o dobro da multa aplicada anteriormente.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
-~~§ 6º  Em caso de reincidência, e observado o caput do artigo 245 desta Lei, a multa prevista na alínea "l" do inciso III, será de 100,00 UVFA's.~~<br>
+~~§ 6º  Em caso de reincidência, e observado o caput do artigo 245 desta Lei, a multa prevista na alínea "l" do inciso III, será de 100,00 UVFA's.~~
+
 ~~(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 90](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111766 "Abrir Lei Complementar nº 90, de 2014 em nova aba"), DE 02 DE JULHO DE 2014).~~
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DA NÃO INCIDÊNCIA E DAS ISENÇÕES
 
-Subseção I<br>
+Subseção I
+
 Da não incidência
 
 Art. 108 – O Imposto Sobre Serviços de Qualquer Natureza não incide sobre:
@@ -1575,7 +1680,8 @@ IV – o valor intermediado no mercado de títulos e valores imobiliários, o va
 
 Parágrafo único. Não se enquadram no disposto no inciso I deste artigo, os serviços desenvolvidos no Brasil, cujo resultado aqui se verifique, ainda que o pagamento seja feito por residentes no exterior.
 
-Subseção II<br>
+Subseção II
+
 Das isenções
 
 Art. 109 – São isentos do Imposto Sobre Serviços de Qualquer Natureza:
@@ -1604,10 +1710,12 @@ VII – carroceiros; lavadores eventuais de carros; construção de moradia, por
 
 § 5º - Quando se tratar de empresa optante e enquadrada no regime diferenciado de tributação Simples Nacional, nos termos Lei Complementar Federal nº 123 de 14.12.2006, ou outros que venha a substituí- lo, ou ampliá-lo, e quando a empresa ou atividade gozar de benefício fiscal relativo ao Imposto Sobre Serviços de Qualquer Natureza (ISSQN), perderá o direito ao benefício fiscal já concedido, e não será objeto de nova concessão, enquanto perdurar o enquadramento, independente de notificação.
 
-§ 6º Ficam ressalvadas da previsão contida no parágrafo anterior as empresas estabelecidas no Centro Empresarial Village que poderão ter a alíquota efetiva (final) deduzida em até 60% (sessenta por cento), correspondente a cada faixa das tabelas constantes dos anexos da Lei Complementar Federal nº 123, de 14 de dezembro de 2006, e suas respectivas alterações, desde que atendidos os requisitos previstos em lei e regulamento, e que a alíquota remanescente para a tributação do ISS não seja inferior a 2% (dois por cento).<br>
+§ 6º Ficam ressalvadas da previsão contida no parágrafo anterior as empresas estabelecidas no Centro Empresarial Village que poderão ter a alíquota efetiva (final) deduzida em até 60% (sessenta por cento), correspondente a cada faixa das tabelas constantes dos anexos da Lei Complementar Federal nº 123, de 14 de dezembro de 2006, e suas respectivas alterações, desde que atendidos os requisitos previstos em lei e regulamento, e que a alíquota remanescente para a tributação do ISS não seja inferior a 2% (dois por cento).
+
 (REDAÇÃO ACRSCENTADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DAS DISPOSIÇÕES ESPECIAIS DA SUJEIÇÃO AO REGIME ESPECIAL DE FISCALIZAÇÃO
 
 Art. 110 – O contribuinte que, por mais de três vezes, reincidir em infração à legislação do Imposto Sobre Serviços de Qualquer Natureza, poderá ser submetido a regime especial de fiscalização.
@@ -1618,7 +1726,8 @@ Art. 110 – O contribuinte que, por mais de três vezes, reincidir em infraçã
 
 Art. 111 – É competente para determinar a suspensão do regime especial de fiscalização, a mesma autoridade que for competente para instituí-lo.
 
-SEÇÃO XI<br>
+SEÇÃO XI
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 112 – Para os efeitos do imposto instituído neste Capítulo, considera-se:
@@ -1637,7 +1746,8 @@ Parágrafo único. Para efeitos do inciso II deste artigo, equipara-se à empres
 
 Art. 113 – É obrigatória a comprovação de pagamento do imposto incidente sobre a obra:
 
-~~I – para expedição de “habite-se” ou “auto de vistoria”;~~<br>
+~~I – para expedição de “habite-se” ou “auto de vistoria”;~~
+
 (Revogado pela Lei Complementar nº 131, de 30 de outubro de 2017).
 
 II – para pagamento de obras contratadas com o Município.
@@ -1652,7 +1762,8 @@ c) número e data da guia de pagamento do imposto. número de inscrição do suj
 
 Art. 114 – Os contribuintes do Imposto Sobre Serviço de Qualquer Natureza – ISSQN, são obrigados a se inscreverem no Cadastro Municipal de Contribuintes – CCM, na forma e prazos previstos em regulamento.
 
-TÍTULO III<br>
+TÍTULO III
+
 DAS TAXAS
 
 Art. 115. As taxas instituídas por lei são:
@@ -1683,44 +1794,52 @@ Art. 116 – Considera-se poder de polícia atividade da administração públic
 
 Art. 117 – A taxa não pode ter base de cálculo ou fato gerador idênticos aos que correspondam a imposto, nem ser calculada em função do capital das empresas.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS DAS TAXAS DE LICENÇA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR DAS TAXAS DE LICENÇA
 
 Art. 118 – As Taxas de Licença tem como fato gerador o exercício regular do poder de polícia exercido no território do Município, consubstanciado no prévio exame e fiscalização periódica das condições de localização, segurança, higiene, saúde, incolumidade, bem como de respeito à ordem, aos costumes, à tranqüilidade pública, ao meio ambiente, à propriedade, aos direitos individuais e coletivos e à legislação de posturas em geral, inclusive urbanística e ambiental a que deva se submeter qualquer pessoa física ou jurídica.
 
-§ 1º. Ao microempreendedor individual ficam asseguradas as isenções das taxas de licença referente à sua abertura, inscrição, e para a renovação fica garantido a cobrança das taxas de licenças descritas nas alíneas “a”, “b”, “c”, “g”, “h” e “i”, todas do inciso II do artigo 4º desta lei, de forma unificada, no valor unitário de 50,00 (cinquenta) UVFA’s.<br>
+§ 1º. Ao microempreendedor individual ficam asseguradas as isenções das taxas de licença referente à sua abertura, inscrição, e para a renovação fica garantido a cobrança das taxas de licenças descritas nas alíneas “a”, “b”, “c”, “g”, “h” e “i”, todas do inciso II do artigo 4º desta lei, de forma unificada, no valor unitário de 50,00 (cinquenta) UVFA’s.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~§ 1º. Ao microempreendedor individual ficam asseguradas as isenções das taxa de licença inicial, e para a renovação fica garantido a cobrança de todas as taxas de licenças unificadas para todas as situações de incidência elencadas no caput deste artigo, no valor unitário de 50,00 (cinqüenta) UVFA’s.~~
 
 § 2º. Nenhuma licença prevista neste Código poderá ser concedida por período superior a 1 (um) ano, e ficará limitada à competência de cada exercício fiscal corrente.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO SUJEITO PASSIVO
 
 Art. 119 – Sujeito Passivo das Taxas de Licença é todo aquele que, pessoa física ou jurídica, estabelecidos ou não, necessita de permissão ou autorização para o exercício de atividades que, por sua natureza, dependem da fiscalização do poder de polícia.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA BASE DE CÁLCULO
 
 Art. 120 – A base de cálculo das Taxas de Licença é o custo presumido decorrentes do efetivo poder de polícia administrativa no território do Município.
 
 Art. 121 – Para efeito de base de cálculo das Taxas e outros valores que a legislação indicar, poderá utilizada, como valor de referência, a Unidade de Valor Fiscal de Aparecida de Goiânia – UVFA, que à data de efetivo recolhimento será convertido no valor da moeda corrente, nos termos da legislação pertinente e conforme descrito no Anexo VI deste Código.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DAS ALÍQUOTAS
 
 Art. 122 – As Taxas de Licença serão calculadas e cobradas com base nas Tabelas constantes dos Anexos III e VI, deste Código.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DO LANÇAMENTO
 
 Art. 123 – As Taxas serão lançada com base nos dados fornecidos pelo contribuinte, constatado em diligência no local e/ou existentes no Cadastro de Contribuintes do Município.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DO PAGAMENTO
 
 Art. 124 – As Taxas de Licença independem de lançamento de ofício e seu pagamento será efetuado nos seguintes prazos:
@@ -1733,13 +1852,16 @@ III – cada vez que se verificar mudança de local do estabelecimento ou da ati
 
 Parágrafo único. Não será concedido parcelamento das taxas de licença a qualquer título, ressalvado quando em valor superior a 1.000 (hum mil) UVFA’s, aplicar-se-á o disposto no artigo 309 deste Código.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS TAXAS DE LICENÇA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA TAXA DE LICENÇA PARA LOCALIZAÇÃO E DA TAXA DE LICENÇA PARA FUNCIONAMENTO
 
-Subseção I<br>
+Subseção I
+
 Do Fato Gerador
 
 Art. 125 A Taxa de Licença para Localização e Funcionamento tem como fato gerador o exercício do poder de polícia do Município, consubstanciado na vigilância constante e potencial, aos estabelecimentos comerciais, industriais, prestadores de serviços, profissionais, e outros que venham a exercer atividades no Município, pertencentes a quaisquer pessoas físicas ou jurídicas, licenciados ou não, para efeito de verificar, quando necessário, ou por constatação fiscal de rotina:
@@ -1752,7 +1874,8 @@ III - Se ocorreu ou não mudança da atividade ou ramo da atividade;
 
 IV - Se não houve violação a qualquer exigência legal ou regulamentar relativa ao exercício da atividade.
 
-Parágrafo único. Inclui-se na incidência da taxa o exercício de atividades decorrentes de profissão, arte, ofício ou função.<br>
+Parágrafo único. Inclui-se na incidência da taxa o exercício de atividades decorrentes de profissão, arte, ofício ou função.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 125 – A Taxa de Licença para Localização tem como fato gerador a concessão de licença obrigatória para a localização de estabelecimentos pertencentes a quaisquer pessoas físicas ou jurídicas, comerciais, industriais, profissionais, prestadores de serviços e outro que venham a exercer atividades no Município, ainda que em recinto ocupado por outro estabelecimento.~~
@@ -1771,22 +1894,26 @@ Parágrafo único. Inclui-se na incidência da taxa o exercício de atividades d
 
 ~~a) se a atividade atende às normas concernentes à saúde, à higiene, ao meio ambiente, à segurança, aos costumes, à moralidade e à ordem, emanadas do Poder de Polícia Municipal, legalmente instituído;~~
 
-~~b. se o estabelecimento e o local de exercício da atividade ainda atende às exigências mínimas de funcionamento, instituídas pelo Código de Posturas do Município de Aparecida de Goiânia;~~<br>
+~~b. se o estabelecimento e o local de exercício da atividade ainda atende às exigências mínimas de funcionamento, instituídas pelo Código de Posturas do Município de Aparecida de Goiânia;~~
+
 ~~(REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).~~
 
 ~~b) se o estabelecimento e o local de exercício da atividade ainda atende às exigências mínimas de funcionamento, instituídas pelo Código de Posturas do Município de Goiânia;~~
 
 ~~c) se ocorreu ou não mudança da atividade ou ramo da atividade;~~
 
-~~d) se não houve violação a qualquer exigência legal ou regulamentar relativa ao exercício da atividade.<br>
+~~d) se não houve violação a qualquer exigência legal ou regulamentar relativa ao exercício da atividade.
+
 ~~(ARTIGO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-Subseção II<br>
+Subseção II
+
 Do Sujeito Passivo
 
 Art. 127 – Sujeito passivo das taxas são os comerciantes, industriais, profissionais, prestadores de serviços e outros, estabelecidos ou não, inclusive os ambulantes que negociarem nas feiras livres, sem prejuízo, quanto a estes últimos, da cobrança da Taxa de Licença para Ocupação de Áreas em Vias e Logradouros Públicos.
 
-Subseção III<br>
+Subseção III
+
 Do Cálculo da Taxa
 
 Art. 128 A taxa será calculada de acordo com a Tabela 1 (um), do Anexo III, que faz parte indissociável deste Código.
@@ -1799,17 +1926,20 @@ Art. 128 A taxa será calculada de acordo com a Tabela 1 (um), do Anexo III, que
 
 I - exclusivamente em propriedade privada própria ou de terceiros consensuais, desde que não gere grande circulação de pessoas, ou seja, tipicamente digital;
 
-II - em zona urbana adequada, nos termos da lei municipal.<br>
+II - em zona urbana adequada, nos termos da lei municipal.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 128 – As taxas serão calculadas de acordo com as Tabelas 1 (um) e 2 (dois), e subdivisões, do Anexo III, que fazem parte integrante e indissociável deste Código.~~
 
 ~~§ 1°. Para cálculo da Taxa de Licença para Funcionamento considera-se o número médio de empregados existentes no estabelecimento, relativamente ao ano base.~~
 
-~~§  2° Para efeito de cálculo da taxa de licença para funcionamento em horário especial, considera-se o número de empregados naquele horário.~~<br>
+~~§  2° Para efeito de cálculo da taxa de licença para funcionamento em horário especial, considera-se o número de empregados naquele horário.~~
+
 ~~(REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 116](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103 "Abrir Lei Complementar nº 116, de 2015 em nova aba"), DE 29 DE DEZEMBRO DE 2015).~~
 
-Subseção IV<br>
+Subseção IV
+
 Da Arrecadação
 
 Art. 129 A Taxa de Licença para Localização e Funcionamento e a de Funcionamento em Horário Especial, que independem de lançamento de ofício, serão devidas e arrecadadas nos seguintes prazos:
@@ -1822,7 +1952,8 @@ III - Anualmente, em conformidade com o Calendário Fiscal.
 
 § 1º As taxas a que se refere o caput serão válidas para o exercício em que forem concedidas, proporcional ao mês do início da atividade.
 
-§ 2º O período de validade das licenças mensais ou diárias constará do recibo de pagamento da taxa, feito por antecipação.<br>
+§ 2º O período de validade das licenças mensais ou diárias constará do recibo de pagamento da taxa, feito por antecipação.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 129 – As taxas, que independem de lançamento de ofício, serão devidas e arrecadadas nos seguintes prazos:~~
@@ -1839,13 +1970,16 @@ III - Anualmente, em conformidade com o Calendário Fiscal.
 
 ~~b) até 30 (trinta) dias, contados da alteração, quando ocorrer mudança de atividade ou de ramo da atividade.~~
 
-~~Art. 130 – A Taxa de Licença para Localização será devida no ato de licenciamento ou antes do início da atividade e toda vez que se verificar mudança de local do estabelecimento, da atividade ou do ramo da atividade.~~<br>
+~~Art. 130 – A Taxa de Licença para Localização será devida no ato de licenciamento ou antes do início da atividade e toda vez que se verificar mudança de local do estabelecimento, da atividade ou do ramo da atividade.~~
+
 (ARTIGO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-~~Art. 131 – A Taxa de Licença para Localização, quando devida no decorrer do exercício financeiro, será recolhida no início ou alteração da atividade.<br>
+~~Art. 131 – A Taxa de Licença para Localização, quando devida no decorrer do exercício financeiro, será recolhida no início ou alteração da atividade.
+
 ~~(ARTIGO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-Subseção V<br>
+Subseção V
+
 Do Alvará de Licença para Localização
 
 Art. 132 – A licença para localização do estabelecimento será concedida pela Secretaria da Fazenda, mediante expedição do competente Alvará, por ocasião da respectiva abertura ou instalação.
@@ -1886,7 +2020,8 @@ a) o local não atenda mais às exigências para o qual fora expedido, inclusive
 
 b) a atividade exercida violar as normas de saúde, sossego, higiene, costumes, segurança, moralidade, silêncio e outras previstas na legislação pertinente.
 
-Subseção VI<br>
+Subseção VI
+
 Do Estabelecimento
 
 Art. 133 – Considera-se estabelecimento o local do exercício de qualquer atividade comercial, industrial, profissional, de prestação de serviço e similar, ainda que exercida no interior de residência, com localização fixa ou não.
@@ -1895,7 +2030,8 @@ Art. 134 Para efeito das Taxas de Licença para Localização e Funcionamento, e
 
 I – Os que, embora no mesmo local, ainda que com idêntico ramo de negócio, pertençam a diferentes pessoas físicas ou jurídicas;
 
-II – Os que, embora com idêntico ramo de negócio e sob a mesma responsabilidade, estejam situados em prédios distintos ou locais diversos.<br>
+II – Os que, embora com idêntico ramo de negócio e sob a mesma responsabilidade, estejam situados em prédios distintos ou locais diversos.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 134 – Para efeito da Taxa de Licença para Localização, considerar-se-ão estabelecimentos distintos:~~
@@ -1906,7 +2042,8 @@ II – Os que, embora com idêntico ramo de negócio e sob a mesma responsabilid
 
 ~~III – os locais onde sejam planejados, organizados, contratados, administrados, fiscalizados ou executados qualquer serviço sujeito à tributação municipal, ainda que parcial, de modo permanente ou temporário, sendo irrelevante para sua caracterização a denominação de sede, filial, agência, sucursal, escritório de representação ou de contato, loja, oficina ou quaisquer outras que venham a ser utilizadas.~~
 
-Subseção VII<br>
+Subseção VII
+
 Das Disposições Gerais
 
 Art. 135 – O Alvará de Licença para Localização deve ser colocado em lugar visível ao público e à fiscalização municipal, devendo estar acompanhado da guia de recolhimento da taxa, devidamente autenticada pelo órgão arrecadador.
@@ -1919,15 +2056,18 @@ Parágrafo único - As atividades cujo exercício dependem de autorização de c
 
 Art. 138 – A taxa incide, ainda, sobre o comércio exercido em balcões, bancas, tabuleiros e boxes instalados nos mercados municipais.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA TAXA DE LICENÇA PARA FUNCIONAMENTO DE ESTABELECIMENTO EM HORÁRIO ESPECIAL
 
-Art. 139 A Taxa de Licença para Funcionamento em Horário Especial tem como fato gerador o exercício do poder de polícia do Município fora do horário normal de funcionamento dos estabelecimentos.<br>
+Art. 139 A Taxa de Licença para Funcionamento em Horário Especial tem como fato gerador o exercício do poder de polícia do Município fora do horário normal de funcionamento dos estabelecimentos.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 139 – Poderá ser concedida licença para funcionamento de estabelecimentos comerciais, industriais, profissionais, de prestação de serviços e similares, fora do horário normal de abertura e fechamento.~~
 
-Art. 140 A Taxa de Licença para Funcionamento em Horário Especial será cobrada mediante acréscimo à Taxa de Localização e Funcionamento de acordo com a Tabela 3.A, do Anexo III deste Código.<br>
+Art. 140 A Taxa de Licença para Funcionamento em Horário Especial será cobrada mediante acréscimo à Taxa de Localização e Funcionamento de acordo com a Tabela 3.A, do Anexo III deste Código.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 140 – A taxa de licença para funcionamento em horário especial, será cobrada de acordo com a Tabela 3 (três) do Anexo III deste Código.~~
@@ -1942,27 +2082,32 @@ a) estabelecimento de pequeno e médio porte, o que possuir até 10 (dez) empreg
 
 b) estabelecimento de grande porte, aquele que tiver acima de 10 (dez) empregados.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 TAXA DE LICENÇA PARA O EXERCÍCIO DE COMÉRCIO OU ATIVIDADE EVENTUAL, FEIRANTE, FEIRANTE ESPECIAL OU AMBULANTE
 
-Subseção I<br>
+Subseção I
+
 Do Sujeito Passivo
 
 Art. 141 – O sujeito passivo da taxa é o comerciante ou prestador de serviço eventual, feirante, feirante especial e ambulante, sem prejuízo da responsabilidade solidária de terceiro, se aquele for empregado ou agente deste.
 
-Subseção II<br>
+Subseção II
+
 Do Cálculo da Taxa
 
 Art. 142 – A taxa será calculada de acordo com a Tabela 4 (quatro), e subdivisões, do Anexo III, que faz parte integrante e indissociável desta Lei.
 
-Subseção III<br>
+Subseção III
+
 Da Arrecadação
 
 Art. 143 – A taxa, que independe de lançamento de ofício, será arrecadada no ato do licenciamento ou do início da atividade e para renovação do exercício da atividade.
 
 Parágrafo único. A taxa compreenderá o exercício fiscal e será anual quando a atividade exercida der- se de forma contínua, e sua renovação e respectivo vencimento, será estabelecida em ato do Secretário da Fazenda.
 
-Subseção IV<br>
+Subseção IV
+
 Das Disposições Gerais
 
 Art. 144 – Para efeito de cobrança da taxa considera-se:
@@ -1973,7 +2118,8 @@ II – Comércio ou atividade ambulante, o que for exercido individualmente, sem
 
 Art. 145 – O regulamento poderá definir as atividades relativamente ao comércio eventual ou ambulante, bem como as que podem ser exercidas em instalações removíveis colocadas nas vias ou logradouros públicos.
 
-Art. 146. O pagamento da Taxa de Licença para o Exercício de Comércio ou Atividade Eventual, Feirante, Feirante Especial e Ambulante é dispensada nos casos em que for devida a Taxa de Licença para Ocupação de Áreas em Vias e Logradouros Públicos.<br>
+Art. 146. O pagamento da Taxa de Licença para o Exercício de Comércio ou Atividade Eventual, Feirante, Feirante Especial e Ambulante é dispensada nos casos em que for devida a Taxa de Licença para Ocupação de Áreas em Vias e Logradouros Públicos.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~Art. 146 – O pagamento da Taxa de Licença para o Exercício de Comércio ou Atividade Eventual, Feirante, Feirante Especial e Ambulante não dispensa a cobrança da Taxa de Licença para Ocupação de Áreas em Vias e Logradouros Públicos.~~
@@ -1982,17 +2128,20 @@ Art. 147 – Serão definidas em lei especial ou regulamento, as atividades que 
 
 Art. 148 – Respondem pela Taxa de Licença para o Exercício de Comércio ou Atividade Eventual, Feirante, Feirante Especial e Ambulante, as mercadorias encontradas em poder de vendedores, mesmo que pertençam a contribuintes que hajam pago a respectiva taxa.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA TAXA DE LICENÇA PARA OCUPAÇÃO DE ÁREAS EM VIAS E LOGRADOUROS PÚBLICOS
 
-Subseção I<br>
+Subseção I
+
 Do Sujeito Passivo
 
 Art. 149 – Sujeito passivo da taxa é a pessoa física ou jurídica que ocupar área em via ou logradouro público, mediante licença prévia da repartição municipal competente.
 
 Parágrafo único. Para efeito de cancelamento de inscrição da atividade informal, fica o contribuinte obrigado a comunicar à repartição, no prazo de 30 (trinta) dias, contados da ocorrência do encerramento da atividade.
 
-Subseção II<br>
+Subseção II
+
 Do Cálculo da Taxa
 
 Art. 150 – A taxa, que independe de lançamento de ofício e será arrecadada de acordo com a Tabela 5 (cinco), e subdivisões, do Anexo III, que faz parte integrante e indissociável deste Código.
@@ -2011,12 +2160,14 @@ Art. 150 – A taxa, que independe de lançamento de ofício e será arrecadada 
 
 § 7º Nas hipóteses de participação em número superior a 7 (sete) feiras livres ou a 3 (três) feiras especiais será exigida nova taxa.
 
-§ 8º Nas situações em que o feirante participar de mais de uma feira, havendo diferença na metragem da área, será considerada para a base de cálculo a maior delas.” (NR)<br>
+§ 8º Nas situações em que o feirante participar de mais de uma feira, havendo diferença na metragem da área, será considerada para a base de cálculo a maior delas.” (NR)
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 239](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111776 "Abrir Lei Complementar nº 239, de 2025 em nova aba"), DE 14 DE MAIO DE 2025).
 
 ~~Parágrafo único. No cálculo da taxa, considera-se como mínimo de ocupação, o espaço de 1 (um) metro quadrado.~~
 
-Subseção III<br>
+Subseção III
+
 Das Disposições Gerais
 
 Art. 151 – Entende-se por ocupação de área, aquela feita mediante instalação provisória de balcão, barraca, mesa, tabuleiro, quiosque, aparelho e qualquer outro móvel ou utensílio, depósito de material para fim comercial ou de prestação de serviços e estacionamento de veículos em local permitido.
@@ -2029,27 +2180,32 @@ Art. 153 – O pagamento da Taxa de Licença para o exercício de atividade even
 
 Parágrafo único. Respondem pela Taxa de Licença, na forma deste artigo, as mercadorias encontradas em poder dos vendedores, sem o seu devido recolhimento.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA TAXA DE LICENÇA PARA EXECUÇÃO DE OBRAS E LOTEAMENTOS
 
-Subseção I<br>
+Subseção I
+
 Do Sujeito Passivo
 
 Art. 154 – Sujeito passivo da taxa é o proprietário, o titular do domínio útil ou o possuidor dos imóveis em que se façam as obras referidas no 157 deste Código.
 
 Parágrafo único. Respondem solidariamente com o proprietário, quanto ao pagamento da taxa e a inobservância das posturas municipais, o profissional ou profissionais responsáveis pelo projeto e pela execução.
 
-Subseção II<br>
+Subseção II
+
 Do Cálculo da Taxa
 
 Art. 155 – Calcula-se a taxa, conforme a Tabela 6, e subdivisões, do Anexo III, que faz parte integrante e indissociável deste Código.
 
-Subseção III<br>
+Subseção III
+
 Da Arrecadação
 
 Art. 156 – A taxa será arrecadada no ato de licenciamento da obra ou da execução do arruamento ou loteamento.
 
-Subseção IV<br>
+Subseção IV
+
 Das Disposições Gerais
 
 Art. 157 – A taxa será devida pela aprovação do projeto e fiscalização de execução de obras, loteamento e demais atos e atividades constantes da tabela a que se refere o artigo 155 deste Código, dentro do território do Município.
@@ -2068,19 +2224,24 @@ Art. 158 – Na execução de obras, arruamento e loteamentos, não havendo disp
 
 Parágrafo único. No caso de prorrogação da licença, será cobrado um complemento de 50% (cinqüenta por cento) sobre o valor original da Taxa.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA TAXA DE LICENÇA PARA EXPLORAÇÃO DE VEÍCULOS DE ALUGUEL EM GERAL
 
-Subseção I<br>
+Subseção I
+
 Do Sujeito Passivo
 
-~~Art. 159 – O sujeito passivo da taxa é a pessoa física ou jurídica que realize o transporte de passageiros em veículos automóveis de aluguel no município.<br>
+~~Art. 159 – O sujeito passivo da taxa é a pessoa física ou jurídica que realize o transporte de passageiros em veículos automóveis de aluguel no município.
+
 ~~(Revogado pela Lei Complementar nº 158, de 3 de janeiro de 2019).
 
-~~Art. 160 – A licença para exploração de veículo de aluguel será exigida uma única vez quando da concessão ou autorização para exploração do serviço.<br>
+~~Art. 160 – A licença para exploração de veículo de aluguel será exigida uma única vez quando da concessão ou autorização para exploração do serviço.
+
 ~~(Revogado pela Lei Complementar nº 158, de 3 de janeiro de 2019).
 
-Subseção II<br>
+Subseção II
+
 Da Incidência
 
 ~~Art. 161 – A taxa incide para o licenciamento e a renovação anual para a exploração de veículos de aluguel nas seguintes modalidades:~~
@@ -2093,31 +2254,40 @@ Da Incidência
 
 ~~IV – Veículo de transporte escolar.~~
 
-~~V – outros veículos que explorem o aluguel em geral para o transporte de passageiros no Município.<br>
+~~V – outros veículos que explorem o aluguel em geral para o transporte de passageiros no Município.
+
 ~~(Revogado pela Lei Complementar nº 158, de 3 de janeiro de 2019).
 
-Subseção III<br>
+Subseção III
+
 Da Base de Cálculo e Alíquotas
 
-~~Art. 162 – Os valores da taxa de licença para a exploração de veículo de aluguel em geral, são previstos na Tabela 7, e subdivisões, do Anexo III, que faz parte integrante e indissociável deste Código.<br>
+~~Art. 162 – Os valores da taxa de licença para a exploração de veículo de aluguel em geral, são previstos na Tabela 7, e subdivisões, do Anexo III, que faz parte integrante e indissociável deste Código.
+
 ~~(Revogado pela Lei Complementar nº 158, de 3 de janeiro de 2019).
 
-Subseção IV<br>
+Subseção IV
+
 Da Inscrição
 
-~~Art. 163 – É obrigatória a inscrição de qualquer veículo que explore o aluguel para o transporte de passageiros no Município, bem como o seu condutor.<br>
+~~Art. 163 – É obrigatória a inscrição de qualquer veículo que explore o aluguel para o transporte de passageiros no Município, bem como o seu condutor.
+
 ~~(Revogado pela Lei Complementar nº 158, de 3 de janeiro de 2019).
 
-Subseção V<br>
+Subseção V
+
 Do Lançamento e Arrecadação
 
-~~Art. 164 – A Taxa de Licença Para Exploração de Veículos de Aluguel em Geral será lançada e recolhida previamente, quando da inclusão para licenciamento, alteração ou realização de eventos ou procedimentos, e conforme Calendário Fiscal da Secretaria da Fazenda, que observará cada exercício fiscal.~~<br>
+~~Art. 164 – A Taxa de Licença Para Exploração de Veículos de Aluguel em Geral será lançada e recolhida previamente, quando da inclusão para licenciamento, alteração ou realização de eventos ou procedimentos, e conforme Calendário Fiscal da Secretaria da Fazenda, que observará cada exercício fiscal.~~
+
 (Revogado pela Lei Complementar nº 158, de 3 de janeiro de 2019).
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA TAXA DE LICENÇA SANITÁRIA
 
-Subseção I<br>
+Subseção I
+
 Da Incidência
 
 Art. 165 – A Taxa de Licença e por Atos de Vigilância Sanitária Municipal, Zoonoses e Epidemiologia é devida pela pessoa física ou jurídica nas seguintes situações:
@@ -2134,27 +2304,32 @@ V – Análise e Aprovação Sanitária de Projetos de Construção Residencial,
 
 VI – Análises Laboratoriais.
 
-Subseção II<br>
+Subseção II
+
 Do Sujeito Passivo
 
 Art. 166 – Sujeito passivo data taxa de licença e dos atos da vigilância sanitária, zoonoses e epidemiologia é toda pessoa física ou jurídica, regular ou de fato, que tenha domicílio, residência e realize atividades dentro da esfera de Atos de Competência da Vigilância Sanitária Municipal, Zoonoses e Epidemiologia.
 
-Subseção III<br>
+Subseção III
+
 Da Base de Cálculo e Alíquotas
 
 Art. 167. Os valores das Taxas de Licença Sanitária são previstos na Tabela 8, do Anexo III, que faz parte integrante e indissociável deste Código.
 
-Parágrafo único. O enquadramento das atividades aos grupos a que se referem a tabela de que trata o caput dar-se-á segundo o grau de complexidade das atividades de fiscalização e será definido por ato do Secretário Municipal de Saúde.<br>
+Parágrafo único. O enquadramento das atividades aos grupos a que se referem a tabela de que trata o caput dar-se-á segundo o grau de complexidade das atividades de fiscalização e será definido por ato do Secretário Municipal de Saúde.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~Art. 167 – Os valores das Taxas dos Atos de Vigilância Sanitária Municipal, Zoonoses e Epidemiologia, bem como das Penalidades as Infrações Sanitárias, são previstos na Tabela 8, e subdivisões, do Anexo III, que faz parte integrante e indissociável deste Código.~~
 
-Subseção IV<br>
+Subseção IV
+
 Da Inscrição
 
 Art. 168 – É obrigatória a inscrição de qualquer Pessoa Física ou Jurídica que exerça atividades dentro da esfera de competência da Vigilância Sanitária Municipal, conforme dispuser o regulamento.
 
-Subseção V<br>
+Subseção V
+
 Do Lançamento e Arrecadação
 
 Art. 169. A Taxa de Licença e os Atos de Vigilância Sanitária, Zoonoses e Epidemiologia será devida e arrecadada nos seguintes prazos:
@@ -2163,20 +2338,24 @@ I – no ato de licenciamento, ou antes do início da atividade; 
 
 II - até 30 (trinta) dias, contados a partir da data de alteração ou realização de eventos ou procedimentos, 
 
-III - anualmente, de conformidade com o Calendário Fiscal, quando se referir a empresas ou estabelecimentos já licenciados ou não pela municipalidade.<br>
+III - anualmente, de conformidade com o Calendário Fiscal, quando se referir a empresas ou estabelecimentos já licenciados ou não pela municipalidade.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~Art. 169 – A Taxa de Licença e os Atos de Vigilância Sanitária, Zoonoses e Epidemiologia será lançada e recolhida previamente, quando da inclusão para licenciamento, alteração ou realização de eventos ou procedimentos.~~
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DA TAXA DE LICENÇA PARA EXPLORAÇÃO DE MEIOS DE PUBLICIDADE EM GERAL
 
-Subseção I<br>
+Subseção I
+
 Do Sujeito Passivo
 
 Art. 170 – Sujeito passivo da taxa é a pessoa física ou jurídica que explorar qualquer espécie de atividade emissora e/ ou produtora de poluição sonora e visual, inclusive a exploração de meios de publicidade em geral, feita através de anúncio, ao ar livre ou em locais expostos ao público ou que, nesses locais, explorar ou utilizar, com objetivos comerciais, a divulgação de anúncios de terceiros.
 
-Subseção II<br>
+Subseção II
+
 Do Cálculo da Taxa
 
 Art. 171 – A taxa será calculada por ano, mês, dia ou quantidade, de acordo com o que dispuser o Calendário Fiscal e de conformidade com a Tabela IX, e subdivisões, do Anexo III, que faz parte integrante e indissociável deste Código.
@@ -2187,7 +2366,8 @@ Art. 171 – A taxa será calculada por ano, mês, dia ou quantidade, de acordo 
 
 § 3º. Os cartazes ou anúncios destinados a afixação, exposição ou distribuição por quantidade, conterão em cada unidade, mediante carimbo ou qualquer processo mecânico adotado pela Prefeitura, a declaração do pagamento da taxa.
 
-Subseção III<br>
+Subseção III
+
 Do Lançamento e da Arrecadação
 
 Art. 172 – O lançamento da taxa far-se-á em nome:
@@ -2202,7 +2382,8 @@ Art. 174 – Não havendo na tabela especificação própria para a publicidade,
 
 Art. 175 – A taxa será arrecadada nos termos do que dispõe o artigo 124 deste Código.
 
-Subseção IV<br>
+Subseção IV
+
 Das Disposições Gerais
 
 Art. 176 – É devida a taxa em todos os casos de exploração ou utilização de meios de publicidade, tais como:
@@ -2229,17 +2410,20 @@ Art. 182 – A veiculação de publicidade realizada em jornais, revistas, rádi
 
 Parágrafo único. Não se considera publicidade as expressões de indicação.
 
-SEÇÃO IX<br>
+SEÇÃO IX
+
 DA TAXA DE LICENÇA AMBIENTAL
 
-Subseção I<br>
+Subseção I
+
 Do Fato gerador e do Sujeito Passivo
 
 Art. 183 - A taxa de licenciamento ambiental municipal, inclusive para exploração do solo e subsolo, tem como fato gerador a atuação do órgão ambiental municipal nas diversas fases e procedimentos do licenciamento ambiental de empreendimentos ou atividades considerados efetiva ou potencialmente causadores de poluição local, bem como os capazes, sob qualquer forma, de causar degradação ambiental local, definidos em Regulamento e em outros instrumentos legais cabíveis.
 
 Parágrafo único. São considerados sujeitos passivos da taxa de licenciamento ambiental municipal todas as pessoas físicas ou jurídicas que pretendam ou venham a desenvolver empreendimentos ou atividades nos termos do caput deste artigo.
 
-Subseção II<br>
+Subseção II
+
 Das licenças ambientais
 
 Art. 184 – São Licenças Ambientais:
@@ -2294,7 +2478,8 @@ II – Nos demais casos, por ocasião de seu requerimento.
 
 § 4º. Estarão isentas do pagamento do valor das taxas de licenciamento ambiental e autorização relacionadas nos anexos desta Lei todas as edificações uni ou plurifamiliares, sem elevadores, cujas unidades possuam até 100 m² (cem metros quadrados) de área útil construída e apenas 1 (um) banheiro.
 
-SEÇÃO X<br>
+SEÇÃO X
+
 DA INSCRIÇÃO
 
 Art. 191 – Os comerciantes, industriais, entidades religiosas ou filantrópicas, entidades da administração pública federal e estadual são obrigados a inscreverem, cada um de seus estabelecimentos, no cadastro próprio da Prefeitura, na forma e nos prazos fixados em regulamento.
@@ -2303,7 +2488,8 @@ Art. 191 – Os comerciantes, industriais, entidades religiosas ou filantrópica
 
 § 2º. Para efeito de cancelamento da inscrição fica o contribuinte obrigado a comunicar à repartição, no prazo de 30 (trinta) dias, contados da ocorrência, a transferência ou a venda do estabelecimento ou o encerramento da atividade.
 
-SEÇÃO XI<br>
+SEÇÃO XI
+
 DAS ISENÇÕES
 
 Art. 192 – São isentos das taxas de licença, aplicáveis a cada caso:
@@ -2320,56 +2506,68 @@ V – Os expositores de cartazes com fins publicitários, assim considerados: ca
 
 VI – Os projetos de edificações de casas populares, templos religiosos até 200m² (duzentos metros quadrados), sociedade civil com título de utilidade pública municipal, desde que obedeçam às normas e às disposições fixadas pelo órgão municipal competente.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA TAXA DE SERVIÇOS PÚBLICOS URBANOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR
 
 Art. 193 – A Taxa de Serviços Urbanos tem como fato gerador a prestação, efetiva e potencial, de serviços públicos específicos e divisíveis, prestados ao contribuinte ou postos à sua disposição.
 
 § 1°. Integram o elenco das Taxas de Serviços Urbanos prestadas pelo Município:
 
-I - coleta, remoção e destinação de resíduos sólidos de qualquer natureza;<br>
+I - coleta, remoção e destinação de resíduos sólidos de qualquer natureza;
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-~~I – remoção e depósito de lixo, de lixo extra-residencial e entulhos de qualquer natureza, e a manutenção e conservação do aterro sanitário do Município;~~<br>
+~~I – remoção e depósito de lixo, de lixo extra-residencial e entulhos de qualquer natureza, e a manutenção e conservação do aterro sanitário do Município;~~
+
 ~~(REDAÇÃO ALTERADA PELA [Lei Complementar nº 73](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111764 "Abrir Lei Complementar nº 73, de 2013 em nova aba"), DE 27 DE SETEMBRO DE 2013)~~
 
 ~~I – remoção e depósito de lixo, de lixo extra-residencial e entulhos de qualquer natureza;~~
 
 II – roçagem de lotes e/ou limpeza de terrenos baldios;
 
-III – remoção e depósito de entulhos de qualquer natureza.<br>
+III – remoção e depósito de entulhos de qualquer natureza.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
 ~~III – coleta, remoção e depósito de lixo e entulhos de qualquer natureza;~~
 
-~~IV – varrição de vias e logradouros públicos;<br>
+~~IV – varrição de vias e logradouros públicos;
+
 ~~(INCISO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-~~V – colocação de recipientes coletores de papéis;<br>
+~~V – colocação de recipientes coletores de papéis;
+
 ~~(INCISO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-~~VI – limpeza de galerias pluviais, bueiros ou bocas de lobos.<br>
+~~VI – limpeza de galerias pluviais, bueiros ou bocas de lobos.
+
 ~~(INCISO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
-~~VII – conservação de estradas municipais;<br>
+~~VII – conservação de estradas municipais;
+
 ~~(INCISO SUPRIMIDO PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
 § 2°. A base de cálculo da Taxa será o custo apurado ou presumido dos serviços prestados e terá valor fixado em Unidade de Valor Fiscal de Aparecida de Goiânia (UVFA), para cada imóvel beneficiado, conforme previstos na Tabelas I (um) e II (dois), e subdivisões, do Anexo IV, que faz parte integrante e indissociável deste Código.
 
 § 3º. A critério da repartição fiscal competente da Secretaria da Fazenda Municipal, a Taxa será lançada e cobrada quando da prestação dos serviços ou conjuntamente com IPTU ou ITU do exercício seguinte ao da ocorrência do fato gerador das Taxas.
 
-§ 4º Considera-se resíduo sólido todo aquele material, substância, objeto ou bem descartado resultante de atividades humanas em sociedade, a cuja destinação final se procede, se propõe proceder ou se está obrigado a proceder, nos estados sólido ou semissólido, bem como gases contidos em recipientes e líquidos cujas particularidades tornem inviável o seu lançamento na rede pública de esgotos ou em corpos d’água, ou exijam para isso soluções técnicas ou economicamente inviáveis em face da melhor tecnologia disponível.<br>
+§ 4º Considera-se resíduo sólido todo aquele material, substância, objeto ou bem descartado resultante de atividades humanas em sociedade, a cuja destinação final se procede, se propõe proceder ou se está obrigado a proceder, nos estados sólido ou semissólido, bem como gases contidos em recipientes e líquidos cujas particularidades tornem inviável o seu lançamento na rede pública de esgotos ou em corpos d’água, ou exijam para isso soluções técnicas ou economicamente inviáveis em face da melhor tecnologia disponível.
+
 (REDAÇÃO ACRSCENTADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO SUJEITO PASSIVO
 
 Art. 194 – Sujeito Passivo da Taxa de Serviços Públicos Urbanos é o proprietário, o titular do domínio útil ou o possuidor a qualquer título de bem imóvel situado em local onde o Município mantenha os serviços referidos no artigo anterior.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO CÁLCULO DA TAXA
 
 Art. 195 A Taxa de Serviços Urbanos é apurada com base no custo apurado ou presumido do serviço prestado ou colocado à disposição do contribuinte.
@@ -2384,7 +2582,8 @@ IV - A cobrança da taxa de serviços urbanos não incidirá sobre os imóveis l
 
 V – A taxa decorrente da prestação dos serviços previstos no inciso II do artigo 193, é devida por ocasião pela prestação do serviço, tendo seu custo apurado e definido no item 5 da Tabela I do Anexo IV desta Lei.
 
-VI – A taxa devida em razão dos serviços previstos no inciso III do artigo 193, o valor é o constante do item 2 da Tabela I do Anexo IV desta Lei, apurada com base no custo no serviço.<br>
+VI – A taxa devida em razão dos serviços previstos no inciso III do artigo 193, o valor é o constante do item 2 da Tabela I do Anexo IV desta Lei, apurada com base no custo no serviço.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
 ~~Art. 195 – A Taxa de Serviços Urbanos será apurada com base no custo efetivo ou presumido pelo Município, em cálculo divulgado periodicamente, conforme dispuser Regulamento.~~
@@ -2419,27 +2618,32 @@ VI – A taxa devida em razão dos serviços previstos no inciso III do artigo 1
 
 ~~§ 7º. Os prestadores de serviços, individualizados, como escritórios e consultórios, se equiparam, para efeito da cobrança da Taxa de Serviços Urbanos, às residências.~~
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DAS PENALIDADES
 
 Art. 196 – Aplicam-se à taxa de serviços públicos urbanos de que trata este Capítulo, as disposições dos artigos 207, 307 e 309, deste Código.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DO LANÇAMENTO E DO PAGAMENTO DA TAXA
 
-Subseção I<br>
+Subseção I
+
 Do Lançamento
 
 Art. 197 – A Taxa será lançada anualmente em nome do contribuinte, com base no seu cadastro imobiliário, ou no ato da solicitação ou execução do serviço, e se por estimativa, mensalmente.
 
 Parágrafo único. A taxa será lançada em nome do sujeito passivo, como definido no artigo 194, e arrecadada conforme definido no Anexo IV deste Código, e conforme critérios que serão estabelecidos, em regulamento, pelo Chefe do Poder Executivo.
 
-Subseção II<br>
+Subseção II
+
 Do Pagamento
 
 Art. 198 – A Taxa poderá ser paga de uma só vez ou em parcelas, concomitantemente com o Imposto Sobre a Propriedade Predial e Territorial Urbana.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 199 – A remoção e o depósito especial de lixo, assim entendida, a retirada de entulhos, detritos industriais, galhos de árvores e ainda a remoção de lixo realizada em horário especial por solicitação do interessado, aplicam-se as disposições contidas neste capítulo.
@@ -2448,22 +2652,26 @@ Parágrafo único. Ocorrendo violação às normas das posturas municipais, os s
 
 Art. 200 – O Poder Executivo poderá celebrar convênios com empresas concessionárias de serviços, visando a cobrança da Taxa instituída neste Capítulo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA TAXA DE EXPEDIENTE E SERVIÇOS DIVERSOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO FATO GERADOR E DO SUJEITO PASSIVO
 
 Art. 201 – A Taxa de Expediente e Serviços Diversos tem como fato gerador, a utilização efetiva ou potencial, de serviço público específico e divisível, prestado ao contribuinte ou posto à sua disposição.
 
 Parágrafo único. Sujeito passivo da taxa é o usuário do serviço, efetiva ou potencialmente, quando solicitado ou não.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO CÁLCULO DA TAXA
 
 Art. 202 – A taxa será calculada de acordo com as tabelas do Anexo V deste Código.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA ARRECADAÇÃO
 
 Art. 203 – A taxa será arrecadada mediante guia, conhecimento ou processo mecânico, na ocasião em que o ato ou fato for praticado, assinado ou visado, ou em que o instrumento formal for protocolado, expedido, anexado, desentranhado ou devolvido.
@@ -2472,7 +2680,8 @@ Art. 204 – Os serviços diversos, somente serão prestados por solicitação d
 
 Parágrafo único. Ocorrendo a violação do Código de Posturas, os serviços serão prestados compulsoriamente, ficando o responsável obrigado a efetuar o pagamento da taxa devida.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DAS ISENÇÕES
 
 Art. 205 – São isentas das Taxas de Expediente e Serviços Diversos:
@@ -2485,7 +2694,8 @@ II – A aprovação de projetos de edificação de casas populares e templos re
 
 § 2º. A isenção prevista no inciso II, deste artigo, atinge o processo de edificação em todas as suas fases, nela incluída a expedição de Termo de Habite-se.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 206 – As infrações a este Código serão punidas com as seguintes penalidades:
@@ -2532,14 +2742,16 @@ Art. 209 – Quando a cobrança ocorrer por ação executiva, o contribuinte res
 
 Art. 210 – Comprovado o não recolhimento da taxa e após passada em julgado, na esfera administrativa, a ação fiscal que determina a infração, a Secretaria da Fazenda tomará as necessárias providências para interdição do estabelecimento.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DA CONTRIBUIÇÃO DE MELHORIA
 
 Art. 211 – Contribuição de melhoria é o tributo cobrado para fazer face ao custo de obras públicas de que decorra valorização imobiliária.
 
 Parágrafo único. A contribuição de melhoria tem como limite total a despesa realizada e como limite individual o acréscimo de valor que da obra resultar para cada imóvel beneficiado.
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO FATO GERADOR
 
 Art. 212 – A Contribuição de Melhoria tem como fator gerador, a valorização do imóvel em função da execução de obra pública que resulte em benefícios, direta ou indiretamente.
@@ -2564,7 +2776,8 @@ VII – outras obras similares de interesse público.
 
 Art. 215 – A Contribuição de Melhoria será devida inclusive, pela execução de obra resultante de convênio firmado com a União e o Estado ou com entidade federal ou estadual.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO SUJEITO PASSIVO
 
 Art. 216 – Sujeito Passivo da Contribuição de Melhoria é o proprietário, o titular do domínio útil ou o possuidor a qualquer título, de imóvel beneficiado ao tempo do lançamento do tributo, transmitindo-se a responsabilidade aos adquirentes e sucessores.
@@ -2575,7 +2788,8 @@ Art. 216 – Sujeito Passivo da Contribuição de Melhoria é o proprietário, o
 
 § 3º. Quando houver condomínio, quer de simples terreno ou edificações, a Contribuição será lançada em nome de todos os condôminos, que serão responsáveis na proporção de suas quotas.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA BASE DE CÁLCULO
 
 Art. 217 – A Contribuição de Melhoria será determinada pelo rateio do custo da obra entre os imóveis beneficiados, respeitado o limite da valorização.
@@ -2588,7 +2802,8 @@ Art. 219 – No custo das obras públicas, as despesas de estudos, projetos, fis
 
 § 2º. Os elementos referidos no “caput” deste artigo, serão definidos para cada obra ou conjuntos de obras integrantes de um mesmo projeto, em memorial descritivo e orçamento detalhado de custos, elaborados pela Prefeitura Municipal, conforme dispuser o regulamento.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO PROGRAMA DE EXECUÇÃO DE OBRAS
 
 Art. 220 – As obras ou melhoramentos que justifiquem a cobrança da contribuição de melhoria enquadrar-se-ão em dois programas de realização:
@@ -2597,15 +2812,18 @@ I – Ordinário – quando referente a obras preferenciais e de iniciativa da 
 
 II – Extraordinário – quando referente a obra de interesse geral, solicitada por 2/3 (dois terços) dos proprietários de imóveis da zona de influência.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA FIXAÇÃO DA ZONA DE INFLUÊNCIA E DOS COEFICIENTES DE PARTICIPAÇÃO DOS IMÓVEIS
 
 Art. 221 – A fixação da zona de influência das obras públicas e dos coeficientes de participação dos imóveis nela situados será procedida pelo órgão competente do Município em relação a cada obra e obedecerá ao critério da valorização do imóvel.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO LANÇAMENTO E DA ARRECADAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO LANÇAMENTO
 
 Art. 222 – Para efeito de lançamento e cobrança da Contribuição de Melhoria a administração, obrigatoriamente, publicará previamente edital, contendo entre outros os seguintes elementos:
@@ -2636,7 +2854,8 @@ Art. 226 – As impugnações contra o lançamento, como também quaisquer recur
 
 § 2º. A impugnação será apreciada e decidida pela autoridade responsável pelo lançamento da Contribuição de Melhoria, no prazo de 30 (trinta) dias.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA ARRECADAÇÃO
 
 Art. 227 – A Contribuição de Melhoria poderá ser paga de uma só vez ou em parcelas mensais, iguais e consecutivas, acrescidas de juro e atualização com base na legislação aplicada aos tributos municipais.
@@ -2649,22 +2868,26 @@ Art. 227 – A Contribuição de Melhoria poderá ser paga de uma só vez ou em 
 
 § 4º - O Poder Executivo poderá conceder o desconto de até 15% (quinze porcento), do valor da Contribuição de Melhoria para pagamento em parcela única.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA NÃO INCIDÊNCIA E DA ISENÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA NÃO INCIDÊNCIA
 
 Art. 228 – Além dos casos de imunidade previstos neste Código, ficam excluídos da incidência da Contribuição de Melhoria, os imóveis de propriedade do Poder Público, exceto os prometidos à venda e os submetidos a regime de enfiteuse, aforamento ou concessão de uso.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA ISENÇÃO
 
 Art. 229 – Ficam isentos do pagamento da Contribuição de Melhoria, as entidades beneficentes, filantrópicas, de ação promocionais que não visem lucros e que estejam devidamente constituídas como pessoa jurídica, e já detenham termo de reconhecimento de imunidade na data da publicação do edital de lançamento.
 
 Parágrafo único. Dependerá de prévio reconhecimento da autoridade competente, na forma e condições estabelecidas em regulamento, a isenção prevista neste artigo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 230 – Aos proprietários de imóveis residenciais sujeitos à Contribuição de Melhoria, que ficar comprovada, em processo regular, sua incapacidade financeira em razão de baixa renda, e desde que se enquadrem nas condições de isenção para o IPTU na forma do artigo 45 deste Código, poderá ser estendida a isenção à contribuição.
@@ -2673,10 +2896,12 @@ Art. 231 – A Contribuição de Melhoria constitui ônus real, acompanhando o i
 
 Art. 232 – O Poder Executivo poderá firmar convênios com a União e o Estado, para efetuar o lançamento e a arrecadação da Contribuição de Melhoria devida por obra pública federal ou estadual, cabendo ao Município a percentagem que fixar da receita arrecadada.
 
-TÍTULO V<br>
+TÍTULO V
+
 DA CONTRIBUIÇÃO PARA O CUSTEIO DE SERVIÇOS DE ILUMINAÇÃO PÚBLICA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO FATO GERADOR, DO CÁLCULO E DO CONTRIBUINTE
 
 Art. 233 – A Contribuição para o Custeio de Serviços de Iluminação Pública – COSIP tem como fato gerador a prestação de serviços de iluminação pública.
@@ -2693,14 +2918,16 @@ IV - outras atividades correlatas.
 
 § 2º Considera-se custeio, expansão e melhoria do serviço de iluminação pública: aquisição, implantação, instalação, expansão, manutenção, operação, gestão e desenvolvimento de projetos, dos equipamentos, das tecnologias, dos serviços e dos ativos destinados à prestação de serviços relativos à rede de iluminação pública, temporária ou permanente, com o objetivo de prover iluminância em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital.
 
-§ 3º Considera-se custeio, expansão e melhoria de sistemas de monitoramento para segurança e preservação de logradouros públicos: aquisição, implantação, instalação, expansão, manutenção, operação, gestão e desenvolvimento de projetos, dos sistemas, das tecnologias, dos meios de transmissão da informação, da infraestrutura e dos equipamentos, todos destinados ao monitoramento para administração, controle, segurança, preservação e prevenção a desastres em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital, incluindo os ativos necessários ao funcionamento de centros integrados de operação e controle e à integração de sistemas de gestão de monitoramento pela Administração Pública.<br>
+§ 3º Considera-se custeio, expansão e melhoria de sistemas de monitoramento para segurança e preservação de logradouros públicos: aquisição, implantação, instalação, expansão, manutenção, operação, gestão e desenvolvimento de projetos, dos sistemas, das tecnologias, dos meios de transmissão da informação, da infraestrutura e dos equipamentos, todos destinados ao monitoramento para administração, controle, segurança, preservação e prevenção a desastres em vias, logradouros públicos e equipamentos públicos comunitários e urbanos, em qualquer área do território municipal ou distrital, incluindo os ativos necessários ao funcionamento de centros integrados de operação e controle e à integração de sistemas de gestão de monitoramento pela Administração Pública.
+
 (Redação alterada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 ~~Parágrafo único. Os serviços de iluminação pública a ser custeado pela COSIP compreende as despesas com:~~
 
 ~~I – 20,91 (vinte vírgula noventa e um centésimos) UVFA’s, para o contribuinte não residencial.~~
 
-~~II – 14,51 (quatorze vírgula cinquenta e um centésimos) UVFA’s, para o contribuinte residencial.~~<br>
+~~II – 14,51 (quatorze vírgula cinquenta e um centésimos) UVFA’s, para o contribuinte residencial.~~
+
 ~~(REDAÇÃO ALTERADA PELA [Lei Complementar nº 73](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111764 "Abrir Lei Complementar nº 73, de 2013 em nova aba"), DE 27 DE SETEMBRO DE 2013)~~
 
 ~~I – o consumo de energia para iluminação de vias, logradouros e demais bens públicos;~~
@@ -2725,14 +2952,16 @@ III – 80,00 UVFAs para as unidades consumidoras industriais.
 
 § 3º Para os fins do disposto neste artigo, entende-se como consumo de energia elétrica o consumo ativo, o consumo reativo excedente, demanda ativa e demanda excedente.
 
-§ 4º Nos casos de produção própria de energia ou fornecimento por pessoa diversa da concessionária, o município poderá arbitrar o consumo de energia elétrica para fins de lançamento e cobrança da COSIP.<br>
+§ 4º Nos casos de produção própria de energia ou fornecimento por pessoa diversa da concessionária, o município poderá arbitrar o consumo de energia elétrica para fins de lançamento e cobrança da COSIP.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 182](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111774 "Abrir Lei Complementar nº 182, de 2020 em nova aba"), DE 23 DE DEZEMBRO DE 2020).
 
 ~~Art. 234 – Os valores mensais da COSIP serão atualizados monetariamente no início de cada exercício, na forma indicada nesta Lei, e a partir do próximo exercício fiscal da data de publicação deste Código, será de:~~
 
 ~~I – 29,78 (vinte e nove inteiros e setenta e oito centésimos) UVFA's, para o contribuinte não residencial e para os imóveis não edificados;~~
 
-~~II – 20,66 (vinte inteiros e sessenta e seis centésimos) UVFA’s, para o contribuinte residencial.~~<br>
+~~II – 20,66 (vinte inteiros e sessenta e seis centésimos) UVFA’s, para o contribuinte residencial.~~
+
 ~~(REDAÇÃO ALTERADA PELA LEI COMPLEMENTAR 116, DE 29 DE DEZEMBRO DE 2015).~~
 
 ~~I – 18,76 (dezoito vírgula setenta e seis centésimos) UVFA’s, para o contribuinte não residencial.~~
@@ -2747,14 +2976,16 @@ III – 80,00 UVFAs para as unidades consumidoras industriais.
 
 ~~§ 4º. Em caso de acionamento das bandeiras tarifárias, instituídas pelo Decreto Federal nº 8.401, de 04 de fevereiro de 2015, ou norma que o substituir, e em se tratando de imóveis não edificados, o valor da COSIP será rateado ao final da cada exercício sendo a diferença devida lançada no exercício seguinte.~~                                                                                                                                                             
 
-~~§ 5º. As regulamentações referentes à COSIP serão feitas por ato do Chefe do Poder Executivo.~~<br>
+~~§ 5º. As regulamentações referentes à COSIP serão feitas por ato do Chefe do Poder Executivo.~~
+
 ~~(REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR 116, DE 29 DE DEZEMBRO DE 2015).~~
 
 Art. 235 – É contribuinte da COSIP a pessoa que usufrua do sistema de fornecimento de energia elétrica, residencial ou não residencial, beneficiária, direta ou indiretamente do serviço de iluminação pública.
 
 Art. 236 – Poderá o Poder Executivo em ato próprio, atribuir a responsabilidade pelo recolhimento da COSIP, na qualidade de substituto tributário, a empresa concessionária, e/ou geradora e distribuidora do serviço de energia elétrica, devendo recolher o montante devido no prazo previsto no Calendário Fiscal do Município de Aparecida de Goiânia.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO LANÇAMENTO E DO PAGAMENTO
 
 Art. 237 – Caso seja atribuída a responsabilidade pelo lançamento da COSIP, na forma do artigo anterior, este será realizado mensalmente, e o recolhimento será feito 5 (cinco) dias depois da data do pagamento da Conta Mensal de Energia Elétrica, pelo contribuinte substituto.
@@ -2765,7 +2996,8 @@ Art. 238 – O Poder Executivo criará o Fundo Municipal de Iluminação Públic
 
 Parágrafo único. Para o fundo serão destinados todos os recursos arrecadados com a Contribuição para Custeio de Serviços de Iluminação Pública – COSIP, que será destinado exclusivamente para o custeio do serviço de iluminação pública de que trata este Código.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS ISENÇÕES
 
 Art. 239 – São isentos da COSIP:
@@ -2774,14 +3006,16 @@ I – os órgãos da administração direta municipal, suas autarquias e fundaç
 
 II – o titular de unidade imobiliária residencial classificada como de baixa renda, com consumo mensal de até 50 (cinqüenta) Kwh, conforme disposto em Lei Federal e em Resolução da ANEEL.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 240 – O não recolhimento do tributo na data estabelecida implicará a penalidade na forma do inciso I do artigo 247, sem prejuízo do seu pagamento pelo contribuinte substituto.
 
 Art. 241 – As infrações e penalidades previstas nos artigos 247 e 248 deste Código são aplicáveis, no que couber, a esta Contribuição.
 
-TÍTULO VI<br>
+TÍTULO VI
+
 DAS INFRAÇÕES E PENALIDADES
 
 Art. 242 – Constitui infração toda ação ou omissão contra as disposições da Legislação Tributária e deste Código .
@@ -2812,7 +3046,8 @@ III – o conluio;
 
 IV – E os previstos nas Leis Federais nºs: 4.729, de 14.07.1965 e 8.137, de 27.12.1990
 
-Art. 245 – Considera-se reincidência a mesma infração cometida pelo mesmo contribuinte dentro de 05 (cinco) anos da data em que passou em julgado, administrativamente, a decisão condenatória referente à infração anterior.<br>
+Art. 245 – Considera-se reincidência a mesma infração cometida pelo mesmo contribuinte dentro de 05 (cinco) anos da data em que passou em julgado, administrativamente, a decisão condenatória referente à infração anterior.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 90](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111766 "Abrir Lei Complementar nº 90, de 2014 em nova aba"), DE 02 DE JULHO DE 2014).
 
 ~~Art. 245 – Considera-se reincidência a mesma infração cometida pelo mesmo contribuinte dentro de 1 (um) ano da data em que passou em julgado, administrativamente, a decisão condenatória referente à infração anterior.~~
@@ -2913,16 +3148,20 @@ Art. 253 – As multas serão cumulativas, quando resultarem concomitantemente d
 
 § 4º. O pagamento da dívida pelo contribuinte ou responsável, nos prazos previstos neste artigo, dará por findo o contraditório.
 
-LIVRO SEGUNDO<br>
+LIVRO SEGUNDO
+
 PARTE GERAL
 
-TÍTULO I<br>
+TÍTULO I
+
 DAS NORMAS GERAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA LEGISLAÇÃO TRIBUTÁRIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 254 – A Legislação Tributária Municipal compreende as leis, decretos e normas complementares que versem, no todo ou em parte, sobre tributos e relações jurídicas a eles pertinentes.
@@ -2955,7 +3194,8 @@ III – o patrimônio, a renda ou serviços dos partidos políticos, inclusive s
 
 § 3º. Os dispostos nos incisos II e III deste artigo, compreendem somente o patrimônio, a renda e os serviços, relacionados com as finalidades essenciais das entidades neles mencionados.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA VIGÊNCIA E APLICAÇÃO
 
 Art. 257 – As normas complementares, previstas no artigo 255 desta Lei, salvo disposição em contrário, entram em vigor:
@@ -2972,7 +3212,8 @@ Art. 258 – A legislação tributária municipal tem aplicação em todo territ
 
 Art. 259 – Entram em vigor no primeiro dia do exercício seguinte àquele em que ocorra a sua publicação os dispositivos de lei que instituem ou majoram impostos, que definem novas hipóteses de incidência e que extinguem ou reduzem isenções, salvo se a lei dispuser de maneira mais favorável ao contribuinte.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA INTERPRETAÇÃO E INTEGRAÇÃO
 
 Art. 260 – Observado o disposto no Código Tributário Nacional, na ausência de disposição expressa, a legislação tributária será interpretada utilizando, sucessivamente, na ordem indicada:
@@ -2989,10 +3230,12 @@ IV – a eqüidade.
 
 § 2º. O emprego da eqüidade não poderá resultar na dispensa do pagamento de tributo devido.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA OBRIGAÇÃO TRIBUTÁRIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 261 – A obrigação tributária é principal ou acessória.
@@ -3003,7 +3246,8 @@ Art. 261 – A obrigação tributária é principal ou acessória.
 
 § 3º. A obrigação acessória, pelo simples fato da sua inobservância, converte-se em obrigação principal relativamente a penalidade pecuniária.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO FATO GERADOR
 
 Art. 262 – Fato gerador da obrigação principal é a situação definida neste Código como necessária e suficiente à sua ocorrência.
@@ -3030,12 +3274,14 @@ I – da validade jurídica dos atos efetivamente praticados pelos contribuintes
 
 II – dos efeitos dos fatos efetivamente ocorridos.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO SUJEITO ATIVO
 
 Art. 267 – Sujeito ativo da obrigação tributária, relativamente a este Código, é o Município de Aparecida de Goiânia.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DO SUJEITO PASSIVO
 
 Art. 268 – Sujeito passivo da obrigação principal é a pessoa obrigada ao pagamento de tributo ou penalidade pecuniária.
@@ -3050,7 +3296,8 @@ Art. 270 – Sujeito passivo da obrigação acessória é a pessoa obrigada às 
 
 Art. 271 – Salvo disposições de lei em contrário, as convenções particulares, relativas à responsabilidade pelo pagamento de tributos, não podem ser opostas à Fazenda Pública, para modificar a definição legal do sujeito passivo das obrigações tributárias correspondentes.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 SOLIDARIEDADE
 
 Art. 272 – São solidárias ao sujeito passivo:
@@ -3069,7 +3316,8 @@ II – a isenção ou remissão de crédito exonera todos os obrigados, salvo se
 
 III – a interrupção da prescrição, em favor ou contra um dos obrigados, favorece ou prejudica aos demais.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 CAPACIDADE TRIBUTÁRIA
 
 Art. 274 – A capacidade tributária passiva independe:
@@ -3080,7 +3328,8 @@ II – de achar-se a pessoa natural sujeita a medidas que importem privação ou
 
 III – de estar a pessoa jurídica regularmente constituída, bastando que configure uma unidade econômica ou profissional.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DOMICÍLIO TRIBUTÁRIO
 
 Art. 275 – Considera-se domicílio tributário do sujeito passivo, contribuinte ou responsável, para os efeitos deste Código:
@@ -3093,15 +3342,18 @@ III – quanto às pessoas jurídicas de direito público, qualquer de suas repa
 
 Parágrafo único. A autoridade administrativa poderá recusar o domicílio eleito pelo contribuinte, quando impossibilite ou dificulte a arrecadação ou a fiscalização do tributo, aplicando-se as regras dos incisos deste artigo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 RESPONSABILIDADE TRIBUTÁRIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÃO GERAL
 
 Art. 276 – Sem prejuízo do disposto neste capítulo, a lei pode atribuir de modo expresso a responsabilidade pelo crédito tributário a terceira pessoa, vinculada ao fato gerador da respectiva obrigação, excluindo a responsabilidade do contribuinte ou atribuindo-a a este em caráter supletivo do cumprimento total ou parcial da referida obrigação.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 RESPONSABILIDADE DOS SUCESSORES
 
 Art. 277 – O disposto nesta Seção aplica-se por igual aos créditos tributários definitivamente constituídos ou em curso de constituição à data dos atos nela referidos, e aos constituídos posteriormente aos mesmos atos, desde que relativos a obrigações tributárias surgidas até a referida data.
@@ -3144,7 +3396,8 @@ III – identificado como agente do falido ou do devedor em recuperação judici
 
 § 3º. Em processo da falência, o produto da alienação judicial de empresa, filial ou unidade produtiva isolada permanecerá em conta de depósito à disposição do juízo de falência pelo prazo de 1 (um) ano, contado da data de alienação, somente podendo ser utilizado para o pagamento de créditos extraconcursais ou de créditos que preferem ao tributário.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 RESPONSABILIDADE DE TERCEIROS
 
 Art. 282 – Nos casos de impossibilidade de exigência do cumprimento da obrigação principal pelo contribuinte, respondem solidariamente com este nos atos em que intervierem ou pelas omissões de que forem responsáveis:
@@ -3173,7 +3426,8 @@ II – os mandatários, prepostos e empregados;
 
 III – os diretores, gerentes ou representantes de pessoas jurídicas de direito privado.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 RESPONSABILIDADE POR INFRAÇÕES
 
 Art. 284 – Salvo disposição de lei em contrário, a responsabilidade por infrações da legislação tributária independe da intenção do agente ou do responsável e da efetividade, natureza e extensão dos efeitos do ato.
@@ -3192,10 +3446,12 @@ Art. 286 – A responsabilidade é excluída pela denúncia espontânea da infra
 
 Parágrafo único. Não se considera espontânea a denúncia apresentada após o início de qualquer procedimento administrativo ou medida de fiscalização, relacionados com a infração
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO CRÉDITO TRIBUTÁRIO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 287 – O crédito tributário decorre da obrigação principal e tem a mesma natureza desta.
@@ -3206,7 +3462,8 @@ Art. 289 – O crédito tributário regularmente constituído somente se modific
 
 Art. 290 – Para os efeitos deste Código, consideram-se crédito tributário os valores do tributo devido, da multa, inclusive a de caráter moratório, dos juros de mora e da atualização monetária correspondente.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO LANÇAMENTO
 
 Art. 291 – Compete privativamente à autoridade administrativa constituir o crédito tributário pelo lançamento, assim entendido o procedimento administrativo tendente a verificar a ocorrência do fato gerador da obrigação correspondente, determinar a matéria tributável, calcular o montante do tributo devido, identificar o sujeito passivo e, sendo o caso, propor a aplicação da penalidade cabível.
@@ -3229,7 +3486,8 @@ III – iniciativa de ofício da autoridade administrativa, nos casos previstos 
 
 Art. 294 – A modificação introduzida, de ofício ou em conseqüência de decisão administrativa ou judicial, nos critérios jurídicos adotados pela autoridade administrativa no exercício do lançamento somente pode ser efetivada, em relação ao um mesmo sujeito passivo, quanto a fato gerador ocorrido posteriormente à sua introdução.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 MODALIDADES DE LANÇAMENTO
 
 Art. 295 – O lançamento é efetuado com base na declaração do sujeito passivo ou de terceiro, quando um ou outro, na forma de legislação tributária, presta à autoridade administrativa informações sobre matéria de fato, indispensáveis à sua efetivação.
@@ -3272,7 +3530,8 @@ Art. 298 – O lançamento por homologação, que ocorre quanto aos tributos cuj
 
 Art. 299 – Decorrido o prazo de 05 (cinco) anos, contados a partir da ocorrência do fato gerador, sem que a Fazenda Pública Municipal tenha se pronunciado, considerar-se-á homologado o lançamento e definitivamente extinto o crédito, salvo se comprovada a ocorrência de dolo, fraude ou simulação.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA SUSPENSÃO
 
 Art. 300 – Suspendem a exigibilidade do crédito tributário:
@@ -3291,7 +3550,8 @@ VI – o parcelamento.
 
 Parágrafo único. O disposto neste artigo não dispensa o cumprimento das obrigações acessórias dependentes da obrigação principal cujo crédito seja suspenso, ou dela conseqüentes.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA MORATÓRIA
 
 Art. 301 – A moratória somente pode ser concedida:
@@ -3324,7 +3584,8 @@ II – sem imposição de penalidade, nos demais casos.
 
 Parágrafo único. No caso do inciso I deste artigo, o tempo decorrido entre a concessão da moratória e sua revogação não se computa para efeito da prescrição do direito à cobrança do crédito; no caso do inciso II deste artigo, a revogação só pode ocorrer antes de prescrito o referido direito.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DAS MODALIDADES DE EXTINÇÃO DO CRÉDITO TRIBUTÁRIO
 
 Art. 305 – Extinguem o crédito tributário:
@@ -3349,17 +3610,20 @@ IX – a decisão administrativa irreformável, assim entendida e definitiva na 
 
 X – a decisão judicial passada em julgado.
 
-XI - a dação em pagamento em bem imóvel, nas condições definidas nesta Lei.<br>
+XI - a dação em pagamento em bem imóvel, nas condições definidas nesta Lei.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~XI – a dação em pagamento em bens imóveis, na forma e condições estabelecidas em lei.~~
 
 Parágrafo único. A lei disporá quanto aos efeitos da extinção total ou parcial do crédito sobre a ulterior verificação da irregularidade da sua constituição, observado o disposto nos artigos 292 e 297 deste Código.
 
-Subseção I<br>
+Subseção I
+
 Pagamento
 
-Art. 306 O pagamento de tributos municipais será efetuado em moeda corrente, em cheque e por meio de cartão de crédito ou débito, dentro dos prazos previstos neste Código e/ou em regulamento.<br>
+Art. 306 O pagamento de tributos municipais será efetuado em moeda corrente, em cheque e por meio de cartão de crédito ou débito, dentro dos prazos previstos neste Código e/ou em regulamento.
+
 (REDAÇÃO ALTERADA PELA LEI COMPLEMENTARNº 170, DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 306 – O pagamento de tributos municipais será efetuado em moeda corrente ou em cheque, dentro dos prazos previsto neste Código e/ou no regulamento.~~
@@ -3384,7 +3648,8 @@ II – em até 24 (vinte e quatro) parcelas para o débito superior a 2.572,00 U
 
 III – em até 36 (trinta e seis) parcelas para débitos superiores a 7.713,00 UVFA’s.
 
-“§ 2º. O valor de cada parcela não poderá ser inferior a 20 (vinte) Unidades de Valor Fiscal de Aparecida de Goiânia – UVFA, à data da consolidação e parcelamento do débito, ressalvado os casos previstos neste Código.<br>
+“§ 2º. O valor de cada parcela não poderá ser inferior a 20 (vinte) Unidades de Valor Fiscal de Aparecida de Goiânia – UVFA, à data da consolidação e parcelamento do débito, ressalvado os casos previstos neste Código.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 67](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111763 "Abrir Lei Complementar nº 67, de 2012 em nova aba"), DE 31 DE DEZEMBRO DE 2012).
 
 ~~§ 2º. O valor de cada parcela não poderá ser inferior a 40 (quarenta) UVFA’s, à data da consolidação e parcelamento do débito, ressalvado os casos previstos neste Código;~~
@@ -3395,7 +3660,8 @@ III – em até 36 (trinta e seis) parcelas para débitos superiores a 7.713,00 
 
 § 5º. A parcela paga com atraso, observado o disposto no parágrafo seguinte, fica sujeita à multa e juros moratórios, e à atualização monetária na forma deste Código.
 
-§ 6º Vencidas duas parcelas consecutivas, ou de qualquer das parcelas após 30 (trinta) dias contados da data final do parcelamento considerar-se-á denunciado o acordo do parcelamento.<br>
+§ 6º Vencidas duas parcelas consecutivas, ou de qualquer das parcelas após 30 (trinta) dias contados da data final do parcelamento considerar-se-á denunciado o acordo do parcelamento.
+
 (REDAÇÃO ALTERADA PELA LEI COPLEMENTAR Nº 170, DE 4 DE NOVEMBRO DE 2019).
 
 ~~§ 6º. Vencidas duas parcelas consecutivas, considerar-se-á denunciado o acordo do parcelamento, e proceder-se-á à execução da dívida.~~
@@ -3410,7 +3676,8 @@ II – poderá o devedor desistir de parcelamento em curso e solicitar o process
 
 III – é causa de rescisão do parcelamento a não concessão da recuperação judicial de que trata o art. 58 da Lei nº 11.101, de 9 de fevereiro de 2005, bem como a decretação da falência do devedor;
 
-IV – a concessão do parcelamento não implica a liberação dos bens e direitos do devedor ou de seus responsáveis que tenham sido constituídos em garantia dos respectivos créditos.<br>
+IV – a concessão do parcelamento não implica a liberação dos bens e direitos do devedor ou de seus responsáveis que tenham sido constituídos em garantia dos respectivos créditos.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~§ 8º. As condições de parcelamento dos créditos tributários previstos no §1º e §5º deste artigo, aplicam- se ao devedor em recuperação judicial.~~
@@ -3449,7 +3716,8 @@ Parágrafo único. A prescrição se interrompe:
 
 I – pelo despacho do juiz que ordenar a citação em execução fiscal;
 
-II – pelo protesto judicial ou extrajudicial;<br>
+II – pelo protesto judicial ou extrajudicial;
+
 (Redação alterada pela Lei Complementar nº 248, de 11 de novembro de 2025).
 
 ~~II – pelo protesto judicial;~~
@@ -3458,12 +3726,14 @@ III – por qualquer ato judicial que constitua em mora o devedor;
 
 IV – por qualquer ato inequívoco ainda que extrajudicial, que importe em reconhecimento do débito pelo devedor.
 
-Subseção II<br>
+Subseção II
+
 Demais Modalidades de Extinção do Crédito Tributário
 
 Art. 314. A compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda pública, somente será autorizada atendidas as condições e sob as garantias estabelecidas em regulamento do Chefe do Executivo.
 
-Parágrafo único. Sendo vincendo o crédito do sujeito passivo, o regulamento determinará, para os efeitos deste artigo, a apuração do seu montante, não podendo, porém, cominar redução maior que a correspondente ao juro de 1% (um por cento) ao mês pelo tempo a decorrer entre a data da compensação e a do vencimento.<br>
+Parágrafo único. Sendo vincendo o crédito do sujeito passivo, o regulamento determinará, para os efeitos deste artigo, a apuração do seu montante, não podendo, porém, cominar redução maior que a correspondente ao juro de 1% (um por cento) ao mês pelo tempo a decorrer entre a data da compensação e a do vencimento.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017).
 
 ~~Art. 314 – A lei municipal pode, nas condições e sob as garantias que estipular, ou cuja estipulação em cada caso atribuir à autoridade administrativa, autorizar a compensação de créditos tributários com créditos líquidos e certos, vencidos ou vincendos, do sujeito passivo contra a Fazenda pública.~~
@@ -3490,7 +3760,8 @@ V – a condições peculiares a determinada região do Município.
 
 Parágrafo único. O despacho referido neste artigo não gera direito adquirido, aplicando-se, quando cabível, o disposto no artigo 309.
 
-Art. 317-A. A extinção parcial ou integral do crédito tributário mediante dação em pagamento em bem imóvel deverá ser efetivada na forma de procedimento administrativo a ser regulamentado pelo Chefe do Executivo, atendidas as condições desta lei, conforme os seguintes requisitos:<br>
+Art. 317-A. A extinção parcial ou integral do crédito tributário mediante dação em pagamento em bem imóvel deverá ser efetivada na forma de procedimento administrativo a ser regulamentado pelo Chefe do Executivo, atendidas as condições desta lei, conforme os seguintes requisitos:
+
 (ARTIGO ACRESCENTADO PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017)
 
 I - a aceitação do imóvel oferecido pelo devedor em dação em pagamento deve ser:
@@ -3539,7 +3810,8 @@ c) integralização de capital em empresas públicas do Município.
 
 §9º Caso o crédito que se pretenda extinguir seja objeto de discussão judicial, a dação em pagamento somente produzirá efeitos após a desistência da referida ação pelo devedor ou corresponsável e a renúncia do direito sobre o qual se funda a ação, devendo o devedor ou o corresponsável arcar com o pagamento das custas judiciais e honorários advocatícios.
 
-Art. 317-B. Na dação em pagamento é vedada a aceitação de bem imóvel nas seguintes condições:<br>
+Art. 317-B. Na dação em pagamento é vedada a aceitação de bem imóvel nas seguintes condições:
+
 (ARTIGO ACRESCENTADO PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017)
 
 I - único de devedor utilizado para fins de residência própria;
@@ -3554,21 +3826,26 @@ V – cujo débito seja objeto de Parcelamento e/ou Programa de Recuperação Fi
 
 VI – de empresas enquadradas no Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional.
 
-Art. 317-C. A dação em pagamento produz efeitos plenos após o seu registro no Cartório de Registro de Imóveis, momento em que se considera extinto o crédito tributário, até o limite do valor da avaliação do imóvel, devendo ser providenciada a baixa da inscrição em Dívida Ativa, observado o disposto no §4º do art. 317-A.<br>
+Art. 317-C. A dação em pagamento produz efeitos plenos após o seu registro no Cartório de Registro de Imóveis, momento em que se considera extinto o crédito tributário, até o limite do valor da avaliação do imóvel, devendo ser providenciada a baixa da inscrição em Dívida Ativa, observado o disposto no §4º do art. 317-A.
+
 (ARTIGO ACRESCENTADO PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017)
 
-Art. 317-D. As despesas e tributos relativos à transferência do imóvel dado em pagamento devem ser suportados pelo devedor, assim como, as despesas decorrentes da avaliação do imóvel.<br>
+Art. 317-D. As despesas e tributos relativos à transferência do imóvel dado em pagamento devem ser suportados pelo devedor, assim como, as despesas decorrentes da avaliação do imóvel.
+
 (ARTIGO ACRESCENTADO PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017)
 
 Parágrafo único. É também de responsabilidade do devedor da obrigação tributária, o pagamento de eventuais custas judiciais, honorários advocatícios e periciais, devidos nos processos referentes a créditos tributários ajuizados, objeto do pedido de dação em pagamento. 
 
-Art. 317-E. Os imóveis recebidos em dação em pagamento passam a integrar o patrimônio do Município sob o regime de disponibilidade plena e absoluta, como bens dominicais, devendo ser cadastrados pelo órgão competente da Secretaria da Fazenda e da Secretaria de Desenvolvimento Econômico.<br>
+Art. 317-E. Os imóveis recebidos em dação em pagamento passam a integrar o patrimônio do Município sob o regime de disponibilidade plena e absoluta, como bens dominicais, devendo ser cadastrados pelo órgão competente da Secretaria da Fazenda e da Secretaria de Desenvolvimento Econômico.
+
 (ARTIGO ACRESCENTADO PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017)
 
-Art. 317-F. O Poder Executivo poderá alienar, a título oneroso, os bens recebidos em dação em pagamento, independentemente de autorização legislativa específica, observado o disposto no art. 19 da Lei nº 8.666, de 21 de junho de 1993. <br>
+Art. 317-F. O Poder Executivo poderá alienar, a título oneroso, os bens recebidos em dação em pagamento, independentemente de autorização legislativa específica, observado o disposto no art. 19 da Lei nº 8.666, de 21 de junho de 1993. 
+
 (ARTIGO ACRESCENTADO PELA [Lei Complementar nº 131](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118 "Abrir Lei Complementar nº 131, de 2017 em nova aba"), DE 30 DE OUTUBRO DE 2017)
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DA EXCLUSÃO
 
 Art. 318 – Excluem o crédito tributário:
@@ -3597,7 +3874,8 @@ I – aos atos qualificados em lei como crimes ou contravenções e aos que, mes
 
 II – salvo disposição em contrário, às infrações resultantes de conluio entre duas ou mais pessoas físicas ou jurídicas.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 DA RESTITUIÇÃO
 
 Art. 323 – O sujeito passivo tem direito, independentemente de prévio protesto, à restituição total ou parcial do tributo e seus acréscimos, seja qual for a modalidade do seu pagamento, nos seguintes casos:
@@ -3640,7 +3918,8 @@ V – outros erros originários da ação incorreta ou imprópria do próprio co
 
 Art. 326  – O direito de pleitear a restituição extingue-se com o decurso do prazo de 5 (cinco) anos, contados:
 
-I – nas hipóteses dos incisos I e II do artigo 323, da data da extinção do crédito tributário.<br>
+I – nas hipóteses dos incisos I e II do artigo 323, da data da extinção do crédito tributário.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~I – nas hipóteses dos incisos I e II do artigo 323, da data do vencimento do crédito tributário.~~
@@ -3655,13 +3934,16 @@ Parágrafo único. O prazo de prescrição é interrompido pelo início da açã
 
 LIVRO SEGUNDO PARTE GERAL
 
-TÍTULO II<br>
+TÍTULO II
+
 DO PROCEDIMENTO FISCAL TRIBUTÁRIO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA ADMINISTRAÇÃO TRIBUTÁRIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 328 – Os órgãos de fiscalização e arrecadação dos tributos municipais são os assim definidos em leis, decretos e atos que estruturam a Secretaria da Fazenda.
@@ -3704,7 +3986,8 @@ Art. 335 A Fazenda Pública da União e as dos Estados, do Distrito Federal e do
 
 Art. 336 – As atividades da Secretaria da Fazenda e dos fiscais de tributos dentro de suas atribuições e competências, terão precedência sobre os demais setores da Administração Pública Municipal.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA FISCALIZAÇÃO
 
 Art. 337 – A fiscalização direta de tributos municipais compete aos funcionários do Fisco da Secretaria da Fazenda, que no exercício de suas funções deverão, obrigatoriamente, exibir ao contribuinte documento de identificação funcional.
@@ -3773,17 +4056,20 @@ VI – os síndicos, comissários e liquidatários;
 
 VII – quaisquer outras entidades ou pessoas que a lei designe, em razão de seu cargo, ofício, função, ministério, atividade ou profissão.
 
-VIII - as empresas administradoras de cartões de crédito ou débito, relativamente às prestações de serviço realizadas por contribuinte do Imposto Sobre Serviços - ISS.<br>
+VIII - as empresas administradoras de cartões de crédito ou débito, relativamente às prestações de serviço realizadas por contribuinte do Imposto Sobre Serviços - ISS.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 97](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111768 "Abrir Lei Complementar nº 97, de 2014 em nova aba"), DE 23 DE DEZEMBRO DE 2014).
 
-IX - As pessoas físicas ou jurídicas que contratarem serviços das Cooperativas Médicas, Operadoras de Leasing e Administradoras de Cartão de Crédito. <br>
+IX - As pessoas físicas ou jurídicas que contratarem serviços das Cooperativas Médicas, Operadoras de Leasing e Administradoras de Cartão de Crédito. 
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019)
 
 § 1º. As pessoas físicas ou jurídicas, de direito público ou privado, referidas neste artigo, responderão, supletivamente, pelos prejuízos causados à Fazenda Pública Municipal, em decorrência do não atendimento ao disposto neste artigo.
 
 § 2º. A obrigação prevista neste artigo não abrange a prestação de informações quanto a fatos sobre os quais o informante esteja legalmente obrigado a observar segredo em razão de cargo, ofício, função, ministério, atividade ou profissão.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO CADASTRO DE CONTRIBUINTES E DOCUMENTOS FISCAIS
 
 Art. 348 – Os contribuintes dos tributos municipais são obrigados a se inscreverem no Cadastro de Contribuintes do Município.
@@ -3808,7 +4094,8 @@ II – emitir notas fiscais de serviços ou outros documentos admitidos pela Adm
 
 III – manter em cada um dos seus estabelecimentos ou, na falta destes, no seu domicílio os livros e documentos, eletrônicos ou não, utilizados para a apuração do imposto.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DA DÍVIDA ATIVA
 
 Art. 354 – Constituem Dívida Ativa do Município os créditos tributários provenientes dos tributos e multas de quaisquer natureza, previstos neste Código, o das taxas de serviços industriais e tarifas de serviços públicos, e os créditos de natureza não tributária, cuja arrecadação ou regulamentação se processe pelos órgãos e administração descentralizada do Município, desde que regularmente inscritos na repartição competente, depois de esgotados os prazos estabelecidos para pagamento ou decisão proferida em processo regular, transitada em julgado.
@@ -3891,12 +4178,14 @@ Parágrafo único. A autoridade que comprovadamente determinar a dispensa de qua
 
 Art. 366 Compete à Secretaria da Fazenda a inscrição, a cobrança amigável, a expedição da Certidão da Dívida Ativa e, à Procuradoria Geral do Município, o acompanhamento e a cobrança executiva. 
 
-§ 1º. A cobrança amigável poderá ocorrer mediante inscrição do débito em sistemas de proteção ao crédito, e cadastro de inadimplentes, e ainda, com o protesto da certidão de dívida ativa, cujo valor mínimo e regras de procedimento serão definidos por ato normativo do Secretário da Fazenda.<br>
+§ 1º. A cobrança amigável poderá ocorrer mediante inscrição do débito em sistemas de proteção ao crédito, e cadastro de inadimplentes, e ainda, com o protesto da certidão de dívida ativa, cujo valor mínimo e regras de procedimento serão definidos por ato normativo do Secretário da Fazenda.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 215](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111719 "Abrir Lei Complementar nº 215, de 2023 em nova aba"), DE 09 DE AGOSTO DE 2023).
 
 ~~§ 1º A cobrança amigável poderá ocorrer mediante protesto da certidão de dívida ativa, cujo valor mínimo e regras de procedimento serão definidos por ato normativo do Secretário da Fazenda.~~
 
-§ 2º Compete à Procuradoria Geral do Município, através da Subprocuradoria da Fazenda Municipal, a coordenação geral da cobrança executiva, como legítima representante da Fazenda Municipal.”<br>
+§ 2º Compete à Procuradoria Geral do Município, através da Subprocuradoria da Fazenda Municipal, a coordenação geral da cobrança executiva, como legítima representante da Fazenda Municipal.”
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
 ~~Art. 366 – Compete à Secretaria da Fazenda, a inscrição, a cobrança amigável, a expedição da Certidão da Dívida Ativa e, à Procuradoria Geral do Município, o acompanhamento e a cobrança executiva.~~
@@ -3905,7 +4194,8 @@ Art. 366 Compete à Secretaria da Fazenda a inscrição, a cobrança amigável, 
 
 ~~§ 2º. Enquanto não ocorrida a prescrição, comprovada a existência de erro administrativo de lançamento do tributo, a certidão de dívida ativa poderá ser emendada ou substituída.~~
 
-§ 3º. A cobrança judicial da Dívida Ativa Municipal deverá respeitar o valor mínimo de alçada de 1000 (um mil) UVFAs por ação de execução fiscal.<br>
+§ 3º. A cobrança judicial da Dívida Ativa Municipal deverá respeitar o valor mínimo de alçada de 1000 (um mil) UVFAs por ação de execução fiscal.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 215](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111719 "Abrir Lei Complementar nº 215, de 2023 em nova aba"), DE 09 DE AGOSTO DE 2023).
 
 ~~§ 3º A cobrança judicial da Dívida Ativa Municipal deverá respeitar o valor mínimo de alçada de 300 (trezentas) UVFAs por ação de execução fiscal.~~
@@ -3914,10 +4204,12 @@ Art. 366 Compete à Secretaria da Fazenda a inscrição, a cobrança amigável, 
 
 § 5º As ações de execução fiscal cujo valor da causa tenha sido inferior ao fixado neste artigo poderão ser objeto de transação, conciliação ou mediação, pela Procuradoria Geral do Município, através do Centro Judiciário de Solução de Conflitos e Cidadania (CEJUSC) do Tribunal de Justiça do Estado de Goiás, ou outro meio existente, devendo os critérios de negociação ser fixados em lei.
 
-§ 6º Enquanto não ocorrida à prescrição, comprovada a existência de erro administrativo de lançamento do tributo, a certidão de dívida ativa poderá ser emendada ou substituída.<br>
+§ 6º Enquanto não ocorrida à prescrição, comprovada a existência de erro administrativo de lançamento do tributo, a certidão de dívida ativa poderá ser emendada ou substituída.
+
 (REDAÇÃO ACRESCENTADA PELA [Lei Complementar nº 170](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111773 "Abrir Lei Complementar nº 170, de 2019 em nova aba"), DE 4 DE NOVEMBRO DE 2019).
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DA CERTIDÃO NEGATIVA
 
 Art. 367 – A prova de quitação dos tributos municipais será feita, quando exigível, por Certidão Negativa, expedida à vista de requerimento do interessado, que contenha todas as informações necessárias à identificação de sua pessoa, domicílio tributário, ramo de negócio ou atividade, localização e caracterização do imóvel, inscrição do Cadastro Fiscal, quando for o caso, e o fim a que se destina a certidão.
@@ -3934,7 +4226,8 @@ Art. 370 – A certidão negativa fornecida não exclui o direito de a Fazenda P
 
 Art. 371 – A certidão negativa exigida para lavratura de escritura pública que implique em transferência de domínio, poderá ter sua apresentação dispensada pelo adquirente que, neste caso, responderá, nos termos da lei, pelo pagamento dos débitos fiscais existentes.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO PROCESSO ADMINISTRATIVO TRIBUTÁRIO
 
 Art. 372 – O processo administrativo tributário tem por fim o exercício do controle da legalidade do lançamento ou a solução de dúvida sobre a interpretação e aplicação da legislação tributária.
@@ -3949,7 +4242,8 @@ Art. 376 – Ao contribuinte é assegurado o direito de consulta, dirigida ao ti
 
 Art. 377 – Lei municipal específica regulará o processo administrativo tributário e disporá sobre os órgãos de julgamento, conforme estatuído na Lei Orgânica do Município.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES ESPECIAIS
 
 Art. 378 – A expressão “Fazenda Pública”, quando empregada neste Código sem qualificação, refere-se à Fazenda Pública Municipal.
@@ -3958,7 +4252,8 @@ Art. 379 – Os prazos fixados neste Código ou na legislação tributária comp
 
 Parágrafo único. Os prazos só se iniciam ou vencem em dia de expediente normal na repartição em que corra o processo ou deva ser praticado o ato.
 
-Art. 380 Os valores fixados em reais estabelecidos no Código Tributário Municipal, serão atualizados mensalmente, por ato do Secretário da Fazenda, com base em coeficiente monetário que atualiza a UVFA – Unidade de Valor Fiscal de Aparecida de Goiânia.<br>
+Art. 380 Os valores fixados em reais estabelecidos no Código Tributário Municipal, serão atualizados mensalmente, por ato do Secretário da Fazenda, com base em coeficiente monetário que atualiza a UVFA – Unidade de Valor Fiscal de Aparecida de Goiânia.
+
 (REDAÇÃO ALTERADA PELA [Lei Complementar nº 215](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111719 "Abrir Lei Complementar nº 215, de 2023 em nova aba"), DE 09 DE AGOSTO DE 2023).
 
 ~~Art. 380 – Os valores fixados em reais estabelecidos no Código Tributário Municipal, serão atualizados anualmente, por ato do Secretário da Fazenda, com base em coeficiente monetário que atualiza a UVFA – Unidade de Valor Fiscal de Aparecida de Goiânia.~~
@@ -3981,14 +4276,18 @@ Art. 383 – Esta lei entra em vigor no dia primeiro de janeiro de dois mil doze
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 21 dias do mês de Dezembro do ano de 2011.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO
 
-CARLOS EDUARDO DE PAULA RODRIGUES<br>
+CARLOS EDUARDO DE PAULA RODRIGUES
+
 SECRETÁRIO DA FAZENDA
 
-ANEXOS<br>
+ANEXOS
+
 [https://legisla.casacivil.go.gov.br/api/v1/arquivos/18694](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18694)

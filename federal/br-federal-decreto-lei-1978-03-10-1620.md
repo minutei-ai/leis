@@ -1,5 +1,3 @@
-###DEL-001620-0-000-10-03-1978@@@
-
 # Decreto-lei nº 1.620, de 10 de março de 1978.
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias dos Tribunais do Trabalho e dá outras providências.

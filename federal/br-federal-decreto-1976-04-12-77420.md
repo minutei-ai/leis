@@ -1,5 +1,3 @@
-###DEC-077420-0-000-12-04-1976@@@
-
 DECRETO Nº 77.420 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Geografia da Universidade de Passo Fundo, Rio Grande do Sul.

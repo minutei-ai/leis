@@ -1,5 +1,3 @@
-###DEC-079172-0-000-26-01-1977@@@
-
 DECRETO Nº 79.172, DE 26 DE JANEIRO DE 1977.
 
 Concede reconhecimento à Universidade Estadual do Ceará, com sede na cidade de Fortaleza, Estado do Ceará.

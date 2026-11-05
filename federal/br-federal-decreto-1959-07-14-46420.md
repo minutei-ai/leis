@@ -1,5 +1,3 @@
-###DEC-046420-0-000-14-07-1959@@@
-
 DECRETO Nº 46.420, DE 14 DE JULHO DE 1959.
 
 Outorga concessão à Rádio Educadora Rio Doce Limitada para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEC-005015-0-000-12-03-2004@@@
-
 DECRETO Nº 5.015,  DE 12 DE MARÇO DE 2004.
 
 Promulga a Convenção das Nações Unidas contra o Crime Organizado Transnacional.

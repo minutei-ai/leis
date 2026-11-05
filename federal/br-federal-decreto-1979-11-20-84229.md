@@ -1,5 +1,3 @@
-###DEC-084229-0-000-20-11-1979@@@
-
 DECRETO Nº 84.229, DE 20 DE NOVEMBRO DE 1979.
 
 Concede autorização ao senhor SVEN O. KULLANDER para realizar, em águas doces nacionais, os serviços que específica.

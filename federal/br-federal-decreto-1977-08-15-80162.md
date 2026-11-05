@@ -1,5 +1,3 @@
-###DEC-080162-0-000-15-08-1977@@@
-
 DECRETO Nº 80.162, DE 15 DE AGOSTO DE 1977.
 
 Autoriza a transformação do curso de Música, da Faculdade de Música "Augusta de Souza França", com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-054356-0-000-30-09-1964@@@
-
 DECRETO Nº 54.356, DE 30 DE SETEMBRO DE 1964.
 
 Dispõe sôbre o Regime de Organização e Funcionamento da “Coordenação do Aperfeiçoamento de Pessoal de Nível Superior”.

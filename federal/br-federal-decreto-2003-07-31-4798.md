@@ -1,5 +1,3 @@
-###DEC-004798-0-000-31-07-2003@@@
-
 DECRETO Nº 4.798, DE 31 DE JULHO DE 2003.
 
 Declara perempta a concessão outorgada à Rádio Santana Ltda., concessionária do serviço de radiodifusão sonora em onda média, na cidade de Santana, Estado da Bahia.       
@@ -16,5 +14,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 31 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Miro Teixeira

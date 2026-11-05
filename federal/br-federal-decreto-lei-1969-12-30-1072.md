@@ -1,7 +1,3 @@
-1
-
-###DEL-001072-0-000-30-12-1969@@@
-
 DECRETO-LEI Nº 1.072, DE 30 DEZEMBRO DE 1969
 
 Dá nova redação ao art. 3º, letra “a” do Decreto-lei nº 667, de 2 de julho de 1969 e dá outras providências.

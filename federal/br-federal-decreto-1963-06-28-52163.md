@@ -1,5 +1,3 @@
-###DEC-052163-0-000-28-06-1963@@@
-
 DECRETO Nº 52.163, DE 28 DE JUNHO DE 1963.
 
 Aprova o Regulamento para Formação de Oficiais Engenheiros e Ingresso no Corpo de Engenheiros e Técnicos Navais.
@@ -157,8 +155,6 @@ Sylvio Borges de Sousa Motta,
 Almirante-de-Esquadra,
 
 Ministro da Marinha.
-
-###DEC-052163-0-000-28-06-1963@@@RET01+++
 
 DECRETO Nº 52.163, DE 28 DE JUNHO DE 1963.
 

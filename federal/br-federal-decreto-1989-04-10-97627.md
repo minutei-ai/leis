@@ -1,7 +1,3 @@
-1
-
-###DEC-097627-0-000-10-04-1989@@@
-
 DECRETO N° 97.627, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre a realização de estudos para apoio, organização e desenvolvimento da atividade de garimpagem, em forma associativa, e dá outras providências.

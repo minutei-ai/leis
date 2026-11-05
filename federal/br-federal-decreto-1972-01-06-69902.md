@@ -1,5 +1,3 @@
-###DEC-069902-0-000-06-01-1972@@@
-
 DECRETO nº 69.902, DE 6 DE JANEIRO DE 1972.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial da Universidade Federal do Rio Grande do Norte, cargos originários do Quadro Extinto - Parte IX da Estrada de Ferro Sampaio Correia, e dá outras providências.

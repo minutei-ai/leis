@@ -1,5 +1,3 @@
-###DEC-046377-0-000-07-07-1959@@@
-
 DECRETO Nº 46.377, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre a execução de um programa de educação de base para o Estado de Sergipe, através da radiodifusão.

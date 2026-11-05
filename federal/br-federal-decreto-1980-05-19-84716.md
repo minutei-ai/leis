@@ -1,5 +1,3 @@
-###DEC-084716-0-000-19-05-1980@@@
-
 Decreto nº 84.716, de 19 de maio de 1980.
 
 Delega competência para nomeação das autoridades que menciona e dá outras providências.

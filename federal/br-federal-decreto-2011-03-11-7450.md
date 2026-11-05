@@ -1,5 +1,3 @@
-###DEC-007450-0-000-11-03-2011-PUB-01@@@
-
 DECRETO Nº 7.450, DE 11 DE MARÇO DE 2011
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1952, de 29 de novembro de 2010, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.

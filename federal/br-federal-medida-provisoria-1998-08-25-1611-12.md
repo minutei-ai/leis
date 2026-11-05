@@ -1,5 +1,3 @@
-###MPV-001611-0-012-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.611-12, DE 25 DE AGOSTO DE 1998
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

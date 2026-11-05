@@ -1,5 +1,3 @@
-###DEC-085232-0-000-06-10-1980@@@
-
 Decreto nº 85.232, de 06 de outubro de 1980.
 
 Dispõe sobre a aplicação do Decreto-lei nº 1.798, de 24 de julho de 1980, por entidades da Administração Indireta e fundações supervisionadas, e dá outras providências.

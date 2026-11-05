@@ -1,5 +1,3 @@
-###DEL-008678-0-000-15-01-1946@@@
-
 DECRETO-LEI N. 8.678 – DE 15 DE JANEIRO DE 1946
 
 Abre ao Ministério da Educação e Saúde, o crédito especial de Cr$ 320.000,00, para atender a despesa com a realização do VIII Conselho Nacional de Estudantes.

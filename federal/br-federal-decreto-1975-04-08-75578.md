@@ -1,5 +1,3 @@
-###DEC-075578-0-000-08-04-1975@@@
-
 DECRETO Nº 75.578, DE 8 DE ABRIL DE 1975.
 
 Autoriza o funcionamento da habilitação em Orientação Educacional no curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Cruzeiro, mantida pelo Instituto de Ensino Superior de Cruzeiro, Estado de São Paulo.

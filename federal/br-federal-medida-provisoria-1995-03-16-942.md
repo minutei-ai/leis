@@ -1,7 +1,3 @@
-1
-
-###MPV-000942-0-000-16-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 942, DE 16 DE MARÇO DE 1995
 
 Dispõe sobre a vinculação da Fundação Osório, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055596-0-000-19-01-1965@@@
-
 DECRETO Nº 55.596, DE 19 DE JANEIRO DE 1965
 
 Prorroga vigência do Decreto número 26, de 12 de outubro de 1961

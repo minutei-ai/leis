@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/74d2a20b-a287-4111-8d29-e48d46df0ccc/texto#nowhere)
 
-###DEL-001056-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.056, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre prazo de pagamento de impôsto de renda das pessoas físicas e dá outras providências.

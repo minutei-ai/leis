@@ -1,5 +1,3 @@
-###DEC-060295-0-000-03-03-1967@@@
-
 DECRETO Nº 60.295, DE 3 DE MARÇO DE 1967.
 
 Autoriza a concessão de aval do Tesouro Nacional a financiamento que especifica.

@@ -1,5 +1,3 @@
-###LCP-000117-0-000-02-09-2004@@@
-
 LEI COMPLEMENTAR Nº 117, DE 2 DE SETEMBRO DE 2004
 
 Altera a Lei Complementar nº 97, de 9 de junho de 1999, que dispõe sobre as normas gerais para a organização, o preparo e o emprego das Forças Armadas, para estabelecer novas atribuições subsidiárias.

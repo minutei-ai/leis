@@ -1,5 +1,3 @@
-###DEL-003493-0-000-12-08-1941@@@
-
 DECRETO-LEI N. 3.493 – DE 12 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 1.809:600$0, à verba que especifica, e dá outras providências

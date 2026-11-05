@@ -1,5 +1,3 @@
-###DEC-094316-0-000-08-05-1987@@@
-
 DECRETO Nº 94.316, DE 8 DE MAIO DE 1987
 
 Institui Comissão para avaliar a conveniência, necessidade e a oportunidade da nova ligação ferroviária entre Rio, São Paulo, Campinas e Araraquara.

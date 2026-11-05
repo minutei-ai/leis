@@ -1,5 +1,3 @@
-###DEC-064389-0-000-23-04-1969@@@
-
 DECRETO Nº 64.389, DE 23 DE ABRIL DE 1969.
 
 Altera a lotação de repartições atendidas pelo Quadro Permanente do Ministério da Agricultura.

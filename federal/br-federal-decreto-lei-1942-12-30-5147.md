@@ -1,5 +1,3 @@
-###DEL-005147-0-000-30-12-1942@@@
-
 DECRETO-LEI N. 5.147 – DE 30 DE DEZEMBRO DE 1942
 
 Autoriza medida para atender às dificuldades da lavoura cafeeira dos Estados de São Paulo e Paraná em consequência das secas e geadas

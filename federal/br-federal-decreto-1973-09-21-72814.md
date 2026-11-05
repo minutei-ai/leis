@@ -1,5 +1,3 @@
-###DEC-072814-0-000-21-09-1973@@@
-
 Decreto Nº 72.814, de 21 de setembro de 1973.
 
 Revoga a cessão constante do artigo 1º do Decreto nº 64.122, de 25 de fevereiro de 1969, na parte  referente ao Ginásio Agrícola de Caetité e dá outras providências.

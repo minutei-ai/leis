@@ -1,5 +1,3 @@
-###DEC-085645-0-000-20-01-1981@@@
-
 Decreto nº 85.645, de 2O de janeiro de 1981.
 
 Regulamenta o instituto da ascensão funcional a que se refere a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

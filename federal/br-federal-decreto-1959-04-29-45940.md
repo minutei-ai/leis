@@ -1,5 +1,3 @@
-###DEC-045940-0-000-29-04-1959@@@
-
 DECRETO Nº 45.940, DE 29 DE ABRIL DE 1959.
 
 Renova o Decreto nº 40.906, de 13 de fevereiro de 1957.

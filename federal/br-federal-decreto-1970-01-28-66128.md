@@ -1,5 +1,3 @@
-###DEC-066128-0-000-28-01-1970@@@
-
 DECRETO Nº 66.128 - de 28 de janeiro de 1970
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Ministério da Educação e Cultura, cargos originários do extinto Serviço de Assistência a Menores (Quadro Extinto - Ministério da Justiça) e dá outras providências.

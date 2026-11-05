@@ -1,5 +1,3 @@
-###DEC-068061-0-000-14-01-1971@@@
-
 DECRETO Nº 68.061, DE 14 DE JANEIRO DE 1971.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

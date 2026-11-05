@@ -1,5 +1,3 @@
-###DEC-058877-0-000-20-07-1966@@@
-
 DECRETO Nº 58.877, DE 20 DE JULHO DE 1966.
 
 Declara caduco o Decreto nº 18.977, de 20 de junho de 1945.

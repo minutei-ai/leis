@@ -1,5 +1,3 @@
-###DEC-054861-0-000-03-11-1964@@@
-
 DECRETO Nº 54.861, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Manoel Veloso dos Reis a pesquisar bentonita no município de Carmo do Paranaíba, no Estado de Minas Gerais.

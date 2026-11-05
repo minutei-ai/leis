@@ -1,5 +1,3 @@
-###MPV-002111-0-048-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.111-48, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens e serviços nacionais, e dá outras providências.

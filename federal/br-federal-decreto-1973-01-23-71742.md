@@ -1,5 +1,3 @@
-###DEC-071742-0-000-23-01-1973@@@
-
 DECRETO Nº 71.742, de 23 de janeiro de 1973.
 
 Declara sem efeito o Decreto número 55.707, de 2 de fevereiro de 1965.

@@ -1,5 +1,3 @@
-###DEC-089383-0-000-15-02-1984@@@
-
 Decreto nº 89.383, dE 15 dE feVEreiro dE 1984
 
 Autoriza o funcionamento do curso de Secretariado Executivo da Associação Latino-Americana, em Recife, Pernambuco.

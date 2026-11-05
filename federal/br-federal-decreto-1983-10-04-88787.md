@@ -1,5 +1,3 @@
-###DEC-088787-0-000-04-10-1983@@@
-
 DECRETO Nº 88.787, DE 04 DE OUtubro DE 1983.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Campo Grande", situado no Município de Campo Erê, no Estado de Santa Catarina, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

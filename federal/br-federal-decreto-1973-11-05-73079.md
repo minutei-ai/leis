@@ -1,5 +1,3 @@
-###DEC-073079-0-000-05-11-1973@@@
-
 DECRETO Nº 73.079 - DE 5 DE NOVEMBRO DE 1973
 
 Dispõe sobre o sistema de classificação dos candidatos no Concurso Vestibular para admissão aos cursos superiores de graduação.

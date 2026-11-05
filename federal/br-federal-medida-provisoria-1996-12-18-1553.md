@@ -1,7 +1,3 @@
-1
-
-###MPV-001553-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.553, de 18 de DEZEMBRO DE 1996.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

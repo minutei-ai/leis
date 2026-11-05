@@ -1,5 +1,3 @@
-###DEC-099633-0-000-19-10-1990@@@
-
 DECRETO N° 99.633, DE 19 DE OUTUBRO DE 1990
 
 Altera o Estatuto da Companhia de Pesquisa de Recursos Minerais - CPRM.

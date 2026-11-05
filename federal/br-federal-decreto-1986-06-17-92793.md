@@ -1,5 +1,3 @@
-###DEC-092793-0-000-17-06-1986@@@
-
 DECRETO Nº 92.793, DE 17 DE JUNHO DE 1986
 
 Torna insubsistente o Decreto nº 82.820, de 11 de dezembro de 1978.

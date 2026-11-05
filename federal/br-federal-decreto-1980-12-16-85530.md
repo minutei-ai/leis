@@ -1,5 +1,3 @@
-###DEC-085530-0-000-16-12-1980@@@
-
 DECRETO Nº 85.530, de 16 dezembro de 1980.
 
 Altera o Decreto nº 79.531, de 13 de abril de 1977, que dispõe sobre a Organização Básica do Exército.

@@ -1,5 +1,3 @@
-###DEC-002476-0-000-27-01-1998@@@
-
 DECRETO Nº 2.476, DE 27 DE JANEIRO DE 1998
 
 Dá nova redação aos arts. 32 e 33 do Estatuto Social da Casa da Moeda do Brasil - CMB.

@@ -1,5 +1,3 @@
-###DEC-004229-0-000-13-05-2002@@@
-
 DECRETO Nº 4.229, DE 13 DE MAIO DE 2002 - 1ª PARTE
 
 Dispõe sobre o Programa Nacional de Direitos Humanos - PNDH, instituído pelo Decreto nº 1.904, de 13 de maio de 1996, e dá outras providências.
@@ -2264,550 +2262,4815 @@ Programas dos Ministérios:
 
  Ações PNDH II  Responsa-bilidade  Unidade  Meta  Código  LOA 2002 
 
-0813 - Monumenta: Preservação do Patrimônio Histórico<br> 
+0813 - Monumenta: Preservação do Patrimônio Histórico
+ 
 
-<table>
-<tr><td>Ações PNDH II</td><td>Responsa-bilidade</td><td>Unidade</td><td>Meta</td><td>Código</td><td>LOA 2002</td><td></td></tr>
-<tr><td>Propostas Gerais</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>2.</td><td>Apoiar, na esfera estadual e municipal, a criação de conselhos de direitos dotados de autonomia e com composição paritária de representantes do governo e da sociedade civil.</td><td>MJ</td><td>conselho implantado (unidade)</td><td>6</td><td>01543815</td><td>180.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>25</td><td>01565023</td><td>394.136,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>13</td><td>00651753</td><td>260.000,00</td></tr>
-<tr><td>3.</td><td>Apoiar a formulação de programas estaduais e municipais de direitos humanos e a realização de conferências e seminários voltados para a proteção e promoção de direitos humanos.</td><td>MJ</td><td>evento realizado (unidade)</td><td>2</td><td>01541807</td><td>80.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>5</td><td>00651815</td><td>210.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td>10</td><td>01531810</td><td>500.000,00</td></tr>
-<tr><td>5.</td><td>Estimular a criação de bancos de dados com indicadores sociais e econômicos sobre a situação dos direitos humanos nos estados brasileiros, a fim de orientar a definição de políticas públicas destinadas à redução da violência e à inclusão social.</td><td>MPOG, MJ</td><td>estudo/pesquisa divulgada (unidade)</td><td>4</td><td>80175029</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo/pesquisa realizada (unidade)</td><td>4</td><td>00651749</td><td>400.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>93.400</td><td>00653813</td><td>467.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo/pesquisa realizada (unidade)</td><td>3</td><td>01541747</td><td>260.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>40.000</td><td>01541733</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo/pesquisa publicada (unidade)</td><td>4</td><td>00681459</td><td>87.866,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>50.000</td><td>00681460</td><td>300.000,00</td></tr>
-<tr><td>10.</td><td>Garantir o acesso gratuito e universal ao registro civil de nascimento e ao assento de óbito.</td><td>PR, MJ</td><td>sistema implantado (% de execução física)</td><td>30</td><td>06663827</td><td>744.000,00</td></tr>
-<tr><td>Garantia do Direito à Vida</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>12.</td><td>Apoiar a execução do Plano Nacional de Segurança Pública - PNSP.</td><td>MJ</td><td>área crítica atendida (unidade)</td><td>28</td><td>06667805</td><td>145.053.652,00</td></tr>
-<tr><td>18</td><td>Ampliar programas voltados para a redução da violência nas escolas, a exemplo do programa `Paz nas Escolas`, especialmente em áreas urbanas que apresentem aguda situação de carência e exclusão.</td><td>MEC, MJ</td><td>estudo/pesquisa divulgada (unidade)</td><td>3</td><td>06683837</td><td>148.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>7.500</td><td>06683809</td><td>1.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>31</td><td>06682044</td><td>3.050.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>associação apoiada (unidade)</td><td>46</td><td>06682045</td><td>150.000,00</td></tr>
-<tr><td>19.</td><td>Estimular o aperfeiçoamento dos critérios para seleção e capacitação de policiais e implantar, nas Academias de polícia, programas de educação e formação em direitos humanos, em parceria com entidades não-governamentais.</td><td>MJ</td><td>policial capacitado (unidade)</td><td>7.854</td><td>06631715</td><td>4.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>21.430</td><td>06667795</td><td>22.799.700,00</td></tr>
-<tr><td></td><td></td><td></td><td>policial qualificado (unidade)</td><td>45.347</td><td>01011281</td><td>6.530.000,00</td></tr>
-<tr><td>21.</td><td>Propor a criação de programas de atendimento psicossocial para o policial e sua família, a obrigatoriedade de avaliações periódicas da saúde física e mental dos profissionais de polícia e a implementação de programas de seguro de vida e de saúde, de aquisição da casa própria e de estímulo à educação formal e à profissionalização.</td><td>MJ</td><td>criança de 0 a 6 anos atendida (unidade)</td><td>6.510</td><td>07912010</td><td>7.109.895,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa beneficiada (unidade)</td><td>66.760</td><td>07912004</td><td>18.167.520,00</td></tr>
-<tr><td>23</td><td>Apoiar o funcionamento e a modernização de corregedorias estaduais independentes e desvinculadas dos comandos policiais, com vistas a limitar abusos e erros em operações policiais e a emitir diretrizes claras aos integrantes das forças policiais com relação à proteção dos direitos humanos.</td><td>MJ</td><td>órgão modernizado (unidade)</td><td>6</td><td>06665041</td><td>286.000,00</td></tr>
-<tr><td>31</td><td>Incentivar ações educativas e preventivas destinadas a reduzir o número de acidentes e mortes no trânsito.</td><td>MJ</td><td>sistema implantado (% de execução física)</td><td>12</td><td>06601799</td><td>2.400.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>6</td><td>06601243</td><td>49.604.008,00</td></tr>
-<tr><td>32</td><td>Incentivar a implantação da polícia ou segurança comunitária e de ações de articulação e cooperação entre a comunidade e autoridades públicas com vistas ao desenvolvimento de estratégias locais de segurança pública, visando a garantir a proteção da integridade física das pessoas e dos bens da comunidade e o combate à impunidade.</td><td>MJ</td><td>polícia comunitária implantada</td><td>35</td><td>06667807</td><td>117.061.700,00</td></tr>
-<tr><td>33</td><td>Apoiar a criação e o funcionamento de centros de apoio a vítimas de crime nas áreas com maiores índices de violência, com vistas a disponibilizar assistência social, jurídica e psicológica às vítimas de violência e a seus familiares e dependentes.</td><td>MJ</td><td>centro implantado (unidade)</td><td>4</td><td>06701781</td><td>800.000,00</td></tr>
-<tr><td>34</td><td>Apoiar a realização de estudos e pesquisas de vitimização, com referência específica a indicadores de gênero e raça, visando a subsidiar a formulação, implementação e avaliação de programas de proteção dos direitos humanos.</td><td>MJ</td><td>estudo/pesquisa realizada (unidade)</td><td>2</td><td>06663814</td><td>50.000,00</td></tr>
-<tr><td>36</td><td>Implantar e fortalecer sistemas de informação nas áreas de segurança e justiça, como o INFOSEG, de forma a permitir o acesso à informação e a integração de dados sobre identidade criminal, mandados de prisão e situação da população carcerária em todas as unidades da Federação.</td><td>MJ</td><td>sistema implantado (% de execução física)</td><td>30</td><td>06663829</td><td>450.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema mantido (unidade)</td><td>1</td><td>06664286</td><td>1.607.000,00</td></tr>
-<tr><td>37</td><td>Criar bancos de dados sobre a organização e o funcionamento das polícias e sobre o fluxo das ocorrências no sistema de justiça criminal.</td><td>MJ</td><td>sistema implantado (% de execução física)</td><td>25</td><td>06667799</td><td>4.910.000,00</td></tr>
-<tr><td>Garantia do Direito à Justiça</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>54</td><td>Fortalecer os Institutos Médico-Legais ou de Criminalística, adotando medidas que assegurem a sua excelência técnica e progressiva autonomia.</td><td>MJ, SSPs, SJs</td><td>polícia estdual reaparelhada (unidade)</td><td>32</td><td>06667797</td><td>48.815.320,00</td></tr>
-<tr><td>55</td><td>Apoiar o fortalecimento da Defensoria Pública da União e das Defensorias Públicas Estaduais, assim como a criação de Defensorias Públicas junto a todas as comarcas do país.</td><td>MJ, DPU, DPEs</td><td>serviço implantado (unidade)</td><td>8</td><td>06991783</td><td>1.240.600,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa assistida (unidade)</td><td>21.980</td><td>06992725</td><td>5.111.600,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema implantado (% de execução física)</td><td>2</td><td>06993825</td><td>30.000,00</td></tr>
-<tr><td>56</td><td>Apoiar a criação de serviços de orientação jurídica gratuita, a exemplo dos balcões de direito e dos serviços de disque-denúncia, assim como o desenvolvimento de programas de formação de agentes comunitários de justiça. E mediação de conflitos</td><td>MJ</td><td>serviço implantado (unidade)</td><td>28</td><td>01541919</td><td>2.220.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço implantado (unidade)</td><td>18</td><td>01545033</td><td>930.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço mantido (unidade)</td><td>16</td><td>01542801</td><td>400.000,00</td></tr>
-<tr><td>57</td><td>Estimular a criação e o fortalecimento de órgãos de defesa do consumidor, em nível estadual e municipal, assim como apoiar as atividades das organizações da sociedade civil atuantes na defesa do consumidor.</td><td>MJ</td><td>agente capacitado (unidade)</td><td>355</td><td>06971756</td><td>188.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>4</td><td>06971811</td><td>140.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa atendida (unidade)</td><td>47</td><td>06972700</td><td>90.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema implantado (% de execução física)</td><td>1</td><td>06973830</td><td>510.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema mantido (unidade)</td><td>1</td><td>06974079</td><td>10.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>material divulgado (unidade)</td><td>15</td><td>06975636</td><td>150.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>7</td><td>06976067</td><td>2.280.000,00</td></tr>
-<tr><td>60</td><td>Estimular a criação de centros integrados de cidadania próximos às comunidades carentes e periferias, que contenham os órgãos administrativos para atendimento ao cidadão, delegacias de polícias e varas de juizado especial com representantes do Ministério Público e da Defensoria Pública.</td><td>MJ, MPAS, STJ, TJs, DPU, DPEs</td><td>serviço implantado (unidade)</td><td>28</td><td>06667801</td><td>16.235.000,00</td></tr>
-<tr><td>64</td><td>Fomentar um pacto nacional com as entidades responsáveis pela aplicação da Lei nº 9.455, de 7 de abril de 1997, que tipifica o crime de tortura, e manter sistema de recepção, tratamento e encaminhamento de denúncias para prevenção e apuração de casos - SOS Tortura.</td><td>MJ</td><td>rede implantada (% de execução física)</td><td>25</td><td>01545151</td><td>400.000,00</td></tr>
-<tr><td>66</td><td>Apoiar a criação e o funcionamento, nos estados, de programas de proteção de vítimas e testemunhas de crimes, expostas a grave e real ameaça em virtude de colaboração ou declarações prestadas em investigação ou processo penal.</td><td>MJ, Estados</td><td>pessoa assistida (unidade)</td><td>10.078</td><td>06704278</td><td>6.211.400,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço implantado (unidade)</td><td>4</td><td>06701787</td><td>1.200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>agente capacitado (unidade)</td><td>550</td><td>06701717</td><td>1.434.900,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa assistida (unidade)</td><td>150</td><td>06702831</td><td>600.000,00</td></tr>
-<tr><td>73</td><td>Apoiar o funcionamento da Central Nacional - CENAPA e das centrais estaduais de penas alternativas, estimulando a disseminação de informações e a reprodução dessas iniciativas, assim como a criação do Conselho Nacional de Penas e Medidas Alternativas.</td><td>MJ, Estados</td><td>apenado beneficiado (unidade)</td><td>3.610</td><td>06612730</td><td>3.137.000,00</td></tr>
-<tr><td>76</td><td>Apoiar a implementação do Sistema de Informática Penitenciária - INFOPEN, de forma a acompanhar a passagem do detento por todas as etapas do sistema de justiça penal, desde a detenção provisória até o relaxamento da prisão, seja pelo cumprimento da pena, seja pela progressão de regime, e de possibilitar um planejamento adequado da oferta de vagas, das ações gerenciais e de outras medidas destinadas a assegurar a melhoria do sistema.</td><td>MJ</td><td>sistema implantado (% de execução física)</td><td>27</td><td>06611846</td><td>4.100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
+Ações PNDH II
 
-<br>DECRETO Nº 4.229, DE 13 DE MAIO DE 2002 - 2ª PARTE<br> 
+Responsa-bilidade
 
-<table>
-<tr><td>79</td><td>Implementar políticas visando a garantir os direitos econômicos, sociais e culturais das pessoas submetidas à detenção.</td><td>MJ, SJs</td><td>pessoa assistida (unidade)</td><td>7.500</td><td>06612698</td><td>1.500.000,00</td></tr>
-<tr><td>82</td><td>Apoiar programas de emergência para corrigir as condições inadequadas dos estabelecimentos prisionais existentes, assim como para a construção de novos estabelecimentos, federais e estaduais, com a utilização de recursos do Fundo Penitenciário Nacional - FUNPEN.</td><td>MJ, SJs</td><td>equipamento adquirido (unidade)</td><td>120</td><td>06611701</td><td>4.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>vaga criada (unidade)</td><td>15.890</td><td>06611844</td><td>182.678.394,00</td></tr>
-<tr><td>89</td><td>Fortalecer o programa nacional de capacitação do servidor prisional, com vistas a assegurar a formação profissional do corpo técnico, da direção e dos agentes penitenciários.</td><td>MJ, SJs</td><td>agente capacitado (unidade)</td><td>5.300</td><td>06611718</td><td>4.240.366,00</td></tr>
-<tr><td>91</td><td>Promover programas educativos, culturais, de treinamento profissional e de apoio ao trabalho do preso, com vistas a contribuir para sua recuperação e reinserção na sociedade.</td><td>MJ, SJs</td><td>preso profissionalizado (unidade)</td><td>1.324</td><td>06612727</td><td>3.310.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>material esportivo produzido (unidade)</td><td>1.935.000</td><td>06615448</td><td>11.555.190,00</td></tr>
-<tr><td>92</td><td>Apoiar a realização de Mutirões da Execução Penal com vistas à concessão de progressão de regime e soltura dos presos que já cumpriram integralmente suas penas.</td><td>MJ, SJs</td><td>preso assistido (unidade)</td><td>9.385</td><td>06612719</td><td>1.840.000,00</td></tr>
-<tr><td>Garantia do Direito à Liberdade</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Opinião e Expressão</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>98</td><td>Apoiar o funcionamento da Coordenação Geral de Justiça, Classificação, Títulos e Qualificação, da Secretaria Nacional de Justiça do Ministério da Justiça, de modo a dotá-la de capacidade operativa compatível com sua missão institucional.</td><td>MJ</td><td>título cassado (unidade)</td><td>37</td><td>06712735</td><td>30.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>título concedido (unidade)</td><td>333</td><td>06712737</td><td>40.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>central de atendimento implantada (unidade)</td><td>20</td><td>06713818</td><td>48.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema implantado (% de execução física)</td><td>16</td><td>06713831</td><td>16.000,00</td></tr>
-<tr><td>Crença e Culto</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Orientação Sexual</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Garantia do Direito à Igualdade</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Crianças e Adolescentes</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>127</td><td>Promover campanhas de esclarecimento sobre os Fundos dos Direitos da Criança e do Adolescente, informando sobre as vantagens de aplicação para pessoas físicas e jurídicas, assim como criar mecanismos de incentivo à captação de recursos, garantindo formas de controle social de sua aplicação.</td><td>MJ</td><td>campanha realizada (unidade)</td><td>20</td><td>01531223</td><td>120.000,00</td></tr>
-<tr><td>128</td><td>Apoiar a produção e publicação de estudos e pesquisas que contribuam para a divulgação e aplicação do Estatuto da Criança e do Adolescente - ECA.</td><td>MJ</td><td>exemplar distribuído (unidade)</td><td>60.000</td><td>01531732</td><td>300.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo/pesquisa realizada (unidade)</td><td>10</td><td>01531743</td><td>300.000,00</td></tr>
-<tr><td>129</td><td>Assegurar a implantação e o funcionamento adequado dos órgãos que compõem o Sistema de Garantia de Direitos de Crianças e Adolescentes, estimulando a criação de Núcleos de Defensorias Públicas Especializadas no Atendimento a Crianças e Adolescentes (com os direitos violados), de Delegacias de Investigação de Crimes Praticados Contra Crianças e Adolescentes e de Varas Privativas de Crimes Contra Crianças e Adolescentes.</td><td>MJ, DPU, DPEs, SSPs, TJs</td><td>defensoria implantada (unidade)</td><td>8</td><td>01535002</td><td>1.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade de defesa implantada (unidade)</td><td>8</td><td>01531797</td><td>1.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade de defesa mantida (unidade)</td><td>4</td><td>01532717</td><td>8.300.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>delegacia implantada (unidade)</td><td>8</td><td>01531221</td><td>800.000,00</td></tr>
-<tr><td>131</td><td>Investir na formação e capacitação de profissionais encarregados da promoção e proteção dos direitos de crianças e adolescentes no âmbito de instituições públicas e de organizações não-governamentais.</td><td>MJ</td><td>pessoa capacitada (unidade)</td><td>8.333</td><td>01521758</td><td>2.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>3.000</td><td>01531761</td><td>900.000,00</td></tr>
-<tr><td>135</td><td>Viabilizar programas e serviços de atendimento e de proteção para crianças e adolescentes vítimas de violência, assim como de assistência e orientação para seus familiares.</td><td>MJ</td><td>criança e adolescente atendido (unidade)</td><td>1.200</td><td>01532042</td><td>375.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>criança e adolescente atendido (unidade)</td><td>17.000</td><td>00732383</td><td>5.100.000,00</td></tr>
-<tr><td>139</td><td>Fortalecer os programas que ofereçam benefícios a adolescentes em situação de vulnerabilidade, e que possibilitem o seu envolvimento em atividades comunitárias voltadas para a promoção da cidadania, saúde e meio ambiente.</td><td>MPAS, MJ</td><td>criança e adolescente atendido (unidade)</td><td>34.850</td><td>00702558</td><td>15.430.000,00</td></tr>
-<tr><td>140</td><td>Apoiar a implantação e implementação do Plano Nacional de Enfrentamento da Violência Sexual Infanto-Juvenil nos estados e municípios.</td><td>MJ</td><td>rede mantida (unidade)</td><td>1</td><td>00732815</td><td>140.000,00</td></tr>
-<tr><td>141</td><td>Dar continuidade à Campanha Nacional de Combate à Exploração Sexual Infanto-Juvenil, estimulando o lançamento de campanhas estaduais e municipais que visem a modificar concepções, práticas e atitudes que estigmatizam a criança e o adolescente em situação de violência sexual, utilizando como marco conceitual o ECA e as normas internacionais pertinentes.</td><td>MJ, Estados e Municípios</td><td>campanha realizada (unidade)</td><td>1</td><td>00737939</td><td>570.000,00</td></tr>
-<tr><td>144</td><td>Criar informativo, destinado a turistas estrangeiros, cobrindo aspectos relacionados aos crimes sexuais e suas implicações pessoais, sociais e judiciais.</td><td>MJ, MET, MPAS</td><td>campanha realizada (unidade)</td><td>3</td><td>00735393</td><td>700.000,00</td></tr>
-<tr><td>146</td><td>Ampliar o Programa de Erradicação do Trabalho Infantil - PETI de modo a focalizar as crianças de áreas urbanas em situação de risco, especialmente aquelas utilizadas em atividades ilegais como a exploração sexual infanto-juvenil e o tráfico de drogas.</td><td>MTE, MJ</td><td>evento realizado (unidade)</td><td>15</td><td>00681458</td><td>654.970,00</td></tr>
-<tr><td></td><td></td><td></td><td>campanha realizada (unidade)</td><td>2</td><td>00681910</td><td>2.200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>criança e adolescente atendido (unidade)</td><td>813.200</td><td>00682060</td><td>175.530.131,00</td></tr>
-<tr><td></td><td></td><td></td><td>mapeamento realizado (unidade)</td><td>1</td><td>00682602</td><td>25.983,00</td></tr>
-<tr><td></td><td></td><td></td><td>fiscalização realizada (unidade)</td><td>30.000</td><td>00682688</td><td>1.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>131</td><td></td><td>*</td><td></td></tr>
-<tr><td>147</td><td>Apoiar iniciativas de geração de renda para as famílias de crianças atendidas pelo PETI.</td><td>MTE, MPAS, MJ</td><td>criança e adolescente atendido (unidade)</td><td>813.000</td><td>00682569</td><td>235.803.202,00</td></tr>
-<tr><td></td><td></td><td></td><td>benefício processado (unidade</td><td>5.200.200</td><td>00684443</td><td>2.260.168,00</td></tr>
-<tr><td></td><td></td><td></td><td>benefício pago (unidade)</td><td>5.200.200</td><td>00684447</td><td>11.440.440,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>395.886</td><td>00686537</td><td>46.186.667,00</td></tr>
-<tr><td>149</td><td>Apoiar e fortalecer o Fórum Nacional de Prevenção e Erradicação do Trabalho Infantil.</td><td>MTE, MJ</td><td>131</td><td></td><td>*</td><td></td></tr>
-<tr><td>151</td><td>Ampliar programas de aprendizagem profissional para adolescentes em organizações públicas e privadas, respeitando as regras estabelecidas pelo ECA.</td><td>MJ</td><td>adolescente capacitado (unidade)</td><td>1.000</td><td>01531227</td><td>80.000,00</td></tr>
-<tr><td>152</td><td>Dar continuidade à implantação e implementação, no âmbito federal e de forma articulada com estados e municípios, do Sistema de Informação para a Infância e a Adolescência - SIPIA, no que se refere aos Módulos: I - monitoramento da situação de proteção da criança e do adolescente, sob a ótica da violação e ressarcimento de direitos; II - monitoramento do fluxo de atendimento ao adolescente em conflito com a lei; III - monitoramento da colocação familiar e das adoções nacionais e internacionais; e IV - acompanhamento da implantação dos Conselhos de Direitos, Conselhos Tutelares e Fundos para a Infância e a Adolescência.</td><td>MJ, Estados, Municípios</td><td>sistema implantado (% de execução física)</td><td>18</td><td>01531800</td><td>1.300.000,00</td></tr>
-<tr><td>153</td><td>Apoiar a criação de serviços de identificação, localização, resgate e proteção de crianças e adolescentes desaparecidos.</td><td>MJ, Estados, Municípios</td><td>rede implantada (% de execução física)</td><td>15</td><td>01531785</td><td>255.000,00</td></tr>
-<tr><td>155</td><td>Priorizar as medidas sócio-educativas em meio aberto para o atendimento dos adolescentes em conflito com a lei.</td><td>MJ, Municípios, Estados</td><td>serviço implantado (unidade)</td><td>25</td><td>01521782</td><td>3.500.000,00</td></tr>
-<tr><td>156</td><td>Incentivar o reordenamento das instituições privativas de liberdade para adolescentes em conflito com a lei, reduzindo o número de internos por unidade de atendimento e conferindo prioridade à implementação das demais medidas sócio-educativas previstas no ECA, em consonância com as resoluções do CONANDA.</td><td>MJ, Estados, Municípios</td><td>vaga criada (unidade)</td><td>640</td><td>01521722</td><td>11.200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade reformada (metro quadrado)</td><td>1.400</td><td>01521819</td><td>700.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>equipamento adquirido (unidade)</td><td>1.375</td><td>01521829</td><td>2.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>adolescente assistido (unidade)</td><td>3.000</td><td>01522227</td><td>3.881.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>egresso assistido (unidade)</td><td>4</td><td>01521780</td><td>478.416,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço implantado (unidade)</td><td>10</td><td>01521788</td><td>1.000.000,00</td></tr>
-<tr><td>159</td><td>Promover a integração operacional de órgãos do Poder Judiciário, Ministério Público, Defensorias Públicas e Secretarias de Segurança Pública com as delegacias especializadas em investigação de atos infracionais praticados por adolescentes e às entidades de atendimento, bem como ações de sensibilização dos profissionais indicados para esses órgãos quanto à aplicação do ECA.</td><td>MJ, Estados, Municípios</td><td>delegacia implantada (unidade)</td><td>2</td><td>01521728</td><td>1.000.000,00</td></tr>
-<tr><td>164</td><td>Promover a implementação da Convenção da Haia sobre a Proteção das Crianças e a Cooperação em Matéria de Adoção Internacional, por meio do fortalecimento da Autoridade Central Brasileira, instituída pelo Decreto n.o 3.174/99 e dos órgãos que a integram.</td><td>MJ</td><td>unidade administrativa instalada (unidade)</td><td>1</td><td>80171775</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>866</td><td>80175027</td><td>200.000,00</td></tr>
-<tr><td>166</td><td>Promover ações e iniciativas com vistas a reforçar o caráter excepcional das adoções internacionais.</td><td>MJ</td><td>evento realizado (uindade)</td><td>4</td><td>80175025</td><td>100.000,00</td></tr>
-<tr><td>Mulheres</td><td></td><td></td><td></td><td></td><td>*</td><td></td></tr>
-<tr><td>177</td><td>Apoiar a implementação e o fortalecimento do Programa de Assistência Integral à Saúde da Mulher - PAISM.</td><td>MS, MJ</td><td>campanha realizada (unidade)</td><td>10</td><td>00213879</td><td>9.280.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo/pesquisa realizada (unidade)</td><td>1</td><td>00213900</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>4</td><td>00213929</td><td>490.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>1.080</td><td>00217841</td><td>900.000,00</td></tr>
-<tr><td>182</td><td>Apoiar a criação e o funcionamento de delegacias especializadas no atendimento à mulher - DEAMs.</td><td>MJ</td><td>profissional capacitado (unidade)</td><td>700</td><td>01561713</td><td>700.000,00</td></tr>
-<tr><td>183</td><td>Incentivar a pesquisa e divulgação de informações sobre a violência e discriminação contra a mulher e sobre formas de proteção e promoção dos direitos da mulher.</td><td>MJ</td><td>estudo/pesquisa realizada (unidade)</td><td>12</td><td>01561748</td><td>350.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>200.000</td><td>01561737</td><td>405.864,00</td></tr>
-<tr><td>186</td><td>Apoiar programas de proteção e assistência a vítimas e testemunhas da violência de gênero, contemplando serviços de atendimento jurídico, social, psicológico, médico e de capacitação profissional, assim como a ampliação e o fortalecimento da rede de casas-abrigo em todo o país.</td><td>MJ</td><td>abrigo implantado (unidade)</td><td>108</td><td>01567051</td><td>2.605.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa beneficiada (milhar)</td><td>6</td><td>01566015</td><td>170.000,00</td></tr>
-</table>
+Unidade
 
-<br> 
+Meta
 
-<table>
-<tr><td>Afrodescendentes</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>192</td><td>Criar bancos de dados sobre a situação dos direitos civis, políticos, sociais, econômicos e culturais dos afrodescendentes na sociedade brasileira, com a finalidade de orientar a adoção de políticas públicas afirmativas.</td><td>MJ, MinC, MPOG</td><td>estudo/pesquisa realizada (unidade)</td><td>2</td><td>01721512</td><td>77.092,00</td></tr>
-<tr><td></td><td></td><td></td><td>centro implantado (unidade)</td><td>1</td><td>01721507</td><td>6.350.141,00</td></tr>
-<tr><td>198</td><td>Promover o cadastramento e a identificação das comunidades remanescentes de quilombos, em todo o território nacional, com vistas a possibilitar a emissão dos títulos de propriedade definitiva de suas terras.</td><td>MJ, MinC</td><td>comunidade titulada (unidade)</td><td>59</td><td>01721642</td><td>4.113.928,00</td></tr>
-<tr><td>200</td><td>Apoiar projetos de infraestrutura para as comunidades remanescentes de quilombos, como forma de evitar o êxodo rural e promover o desenvolvimento social e econômico dessas comunidades.</td><td>MS, MEC, MDA</td><td>pessoa capacitada (unidade)</td><td>880</td><td>01721508</td><td>440.000,00</td></tr>
-<tr><td>202</td><td>Incentivar ações que contribuam para a preservação da memória e fomento à produção cultural da comunidade afrodescendente no Brasil.</td><td>MinC</td><td>projeto apoiado (unidade)</td><td>31</td><td>01720503</td><td>7.628.711,00</td></tr>
-<tr><td></td><td></td><td></td><td>bem preservado /restaurado (unidade)</td><td>15</td><td>01724059</td><td>172.848,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>15</td><td>01726531</td><td>232.241,00</td></tr>
-<tr><td>Povos Indígenas</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>217</td><td>Formular e implementar políticas de proteção e promoção dos direitos dos povos indígenas, em substituição a políticas integracionistas e assistencialistas.</td><td>MJ</td><td>comunidade localizada / protegida (unidade)</td><td>6</td><td>01514524</td><td>550.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>técnico capacitado (unidade)</td><td>300</td><td>01511714</td><td>345.300,00</td></tr>
-<tr><td>221</td><td>Assegurar a efetiva participação dos povos indígenas, de suas organizações e do órgão indigenista federal no processo de formulação e implementação de políticas públicas de proteção e promoção dos direitos indígenas.</td><td>MJ</td><td>posto construído (unidade)</td><td>150</td><td>01501725</td><td>1.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>posto mantido (unidade)</td><td>180</td><td>01502715</td><td>2.430.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>posto recuperado / equipado (unidade)</td><td>150</td><td>01501741</td><td>350.000,00</td></tr>
-<tr><td>223</td><td>Demarcar e regularizar as terras indígenas tradicionalmente ocupadas, as reservadas e as de domínio que ainda não foram demarcadas e regularizadas.</td><td>MJ</td><td>terra indígena identificada / revisada (HA)</td><td>36</td><td>01514276</td><td>2.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>regularização efetivada (HA)</td><td>7.868.394</td><td>01514390</td><td>36.835.263,00</td></tr>
-<tr><td></td><td></td><td></td><td>terra indígena demarcada (HA)</td><td>1.217.354</td><td>01512235</td><td>2.030.301,00</td></tr>
-<tr><td>225</td><td>Garantir aos povos indígenas assistência na área da saúde, com a implementação de programas de saúde diferenciados, considerando as especificidades dessa população e priorizando ações na área de medicina preventiva e segurança alimentar.</td><td>MS, MJ</td><td>unidade de saúde modernizada / adequada (unidade)</td><td>314</td><td>01503869</td><td>9.251.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>comunidade indígena beneficiada (unidade)</td><td>47</td><td>01503913</td><td>1.720.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>indígena assistido (unidade)</td><td>5.800</td><td>01506057</td><td>7.420.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>indígena atendido (unidade)</td><td>350.000</td><td>01506501</td><td>115.000.000,00</td></tr>
-<tr><td>226</td><td>Assegurar aos povos indígenas uma educação escolar diferenciada, respeitando o seu universo sócio-cultural, e viabilizar apoio aos estudantes indígenas do ensino fundamental, de segundo grau e de nível universitário.</td><td>MEC, MJ</td><td>escola construída (unidade)</td><td>1</td><td>01501150</td><td>100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola mantida (unidade)</td><td>735</td><td>01502713</td><td>1.658.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>casa mantida (unidade)</td><td>400</td><td>01502714</td><td>857.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>professor capacitado (unidade)</td><td>250</td><td>01503089</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>professor capacitado (unidade)</td><td>180</td><td>01503810</td><td>135.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>material distribuído (unidade)</td><td>9.500</td><td>01501735</td><td>690.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>10.000</td><td>01504047</td><td>200.000,00</td></tr>
-<tr><td>227</td><td>Promover a criação de linhas de crédito e a concessão de bolsas de estudo específicas para estudantes indígenas universitários.</td><td>MEC, MJ</td><td>estudante assistido (unidade)</td><td>12.000</td><td>01506059</td><td>1.591.560,00</td></tr>
-<tr><td>229</td><td>Implementar políticas de proteção e gestão das terras indígenas, com a implantação de sistemas de vigilância permanente dessas terras e de seu entorno, a promoção de parcerias com a Polícia Federal, o IBAMA e as Secretarias Estaduais de Meio Ambiente, e a capacitação de servidores e membros das comunidades indígenas.</td><td>MDA, MJ, Estados</td><td>fiscalização realizada (unidade)</td><td>500</td><td>01512707</td><td>4.498.320,00</td></tr>
-<tr><td>230</td><td>Viabilizar programas e ações na área de etno-desenvolvimento voltados para a ocupação sustentável de espaços estratégicos no interior das terras indígenas, tais como áreas desocupadas por invasores e/ou áreas de ingresso de madeireiros e garimpeiros.</td><td>MMA, MDA, MJ</td><td>fiscalização realizada (unidade)</td><td>500</td><td>01512707</td><td>4.498.320,00</td></tr>
-<tr><td>235</td><td>Apoiar e assessorar as comunidades indígenas na elaboração de projetos e na execução de ações de etno-desenvolvimento de caráter sustentável.</td><td>MMA, MDA, MJ</td><td>família beneficiada (unidade)</td><td>33.505</td><td>01502711</td><td>8.239.672,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>180</td><td>01501712</td><td>460.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>comunidade atendida (unidade)</td><td>5</td><td>01502178</td><td>40.000,00</td></tr>
-<tr><td>237</td><td>Apoiar a criação de serviços específicos de assistência jurídica para indivíduos e comunidades indígenas.</td><td>MJ</td><td>indígena assistido (unidade)</td><td>1.000</td><td>01502699</td><td>137.000,00</td></tr>
-<tr><td>238</td><td>Garantir o direito constitucional dos povos indígenas ao uso exclusivo da biodiversidade existente em suas terras, implementando ações que venham a coibir a biopirataria dos recursos e conhecimentos tradicionais dos indígenas.</td><td>MMA, MJ</td><td>evento realizado (unidade)</td><td>141</td><td>01511812</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo realizado (unidade)</td><td>30</td><td>01511742</td><td>190.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>terra indígena recuperada (HA)</td><td>202</td><td>01511818</td><td>575.000,00</td></tr>
-<tr><td>239</td><td>Desenvolver políticas de proteção do patrimônio cultural e biológico e dos conhecimentos tradicionais dos povos indígenas, em especial as ações que tenham como objetivo a catalogação, o registro de patentes e a divulgação desse patrimônio.</td><td>MJ, MinC</td><td>documento preservado (unidade)</td><td>40.000</td><td>01516487</td><td>180.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pesquisa publicada (unidade)</td><td>20</td><td>01512724</td><td>172.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>bem preservado (unidade)</td><td>4.000</td><td>01512630</td><td>100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>40</td><td>01511738</td><td>100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>27</td><td>01511808</td><td>130.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>público atendido (unidade)</td><td>51.500</td><td>01512814</td><td>103.000,00</td></tr>
-<tr><td>Gays, Lésbicas, Travestis, Transexuais e Bissexuais – GLTTB</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Estrangeiros, Refugiados e Migrantes</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>257</td><td>Estabelecer políticas de promoção e proteção dos direitos das comunidades brasileiras no exterior e das comunidades estrangeiras no Brasil.</td><td>MJ, MRE</td><td>exemplar distribuído (unidade)</td><td>2.000</td><td>06961734</td><td>20.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>central instalada (% de execução física)</td><td>7</td><td>06961752</td><td>36.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>central mantida (unidade)</td><td>1</td><td>06964275</td><td>150.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estrangeiro regularizado (unidade)</td><td>641</td><td>06962728</td><td>42.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>registro digitalizado (unidade)</td><td>57.142</td><td>06963812</td><td>40.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema integrado (% de execução física)</td><td>2</td><td>06963833</td><td>24.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>cidadão assistido (unidade)</td><td>2.522</td><td>06862529</td><td>673.960,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
+Código
 
- DECRETO Nº 4.229, DE 13 DE MAIO DE 2002 - 3ª PARTE<br> 
+LOA 2002
 
-<table>
-<tr><td>Ciganos</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Pessoas Portadoras de Deficiência</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>266</td><td>Instituir medidas que propiciem a remoção de barreiras arquitetônicas, ambientais, de transporte e de comunicação para garantir o acesso da pessoa portadora de deficiência aos serviços e áreas públicas e aos edifícios comerciais.</td><td>MJ</td><td>barreira para deficiente removida (unidade)</td><td>133</td><td>00651740</td><td>200.000,00</td></tr>
-<tr><td>271</td><td>Estender a estados e municípios o Sistema Nacional de Informações sobre Deficiência - SICORDE.</td><td>MJ</td><td>sistema implantado (% de execução física)</td><td>25</td><td>00651825</td><td>430.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema mantido (unidade)</td><td>1</td><td>00654281</td><td>200.000,00</td></tr>
-<tr><td>273</td><td>Apoiar programas de educação profissional para pessoas portadoras de deficiência.</td><td>MEC, MJ, MTE</td><td>instituição apoiada (unidade)</td><td>45</td><td>00652043</td><td>800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa qualificada (unidade)</td><td>78.200</td><td>01015423</td><td>11.262.000,00</td></tr>
-<tr><td>280</td><td>Apoiar a inclusão de referências à acessibilidade para pessoas portadoras de deficiência nas campanhas promovidas pelo Governo Federal e pelos governos estaduais e municipais.</td><td>PR, Estados, Municípios</td><td>campanha realizada (unidade)</td><td>1</td><td>00653072</td><td>400.000,00</td></tr>
-<tr><td>281</td><td>Promover a capacitação de agentes públicos, profissionais de saúde, lideranças comunitárias e membros de conselhos sobre questões relativas às pessoas portadoras de deficiência.</td><td>MS, MJ</td><td>pessoa capacitada (unidade)</td><td>3.646</td><td>00651760</td><td>850.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>1.293</td><td>00655125</td><td>300.000,00</td></tr>
-<tr><td>Idosos</td><td></td><td></td><td></td><td></td><td>*</td><td></td></tr>
-<tr><td>282</td><td>Criar, fortalecer e descentralizar programas de assistência aos idosos, de acordo com a Lei no 8.842/94, de forma a contribuir para sua integração à família e à sociedade e a incentivar o atendimento no seu próprio ambiente.</td><td>MPAS, MS, MJ</td><td>pessoa idosa atendida (unidade)</td><td>29.413</td><td>00661394</td><td>13.275.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa idosa atendida (unidade)</td><td>353.022</td><td>00662559</td><td>39.602.041,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo/pesquisa publicada (unidade)</td><td>3</td><td>00663902</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>10</td><td>00663948</td><td>853.000,00</td></tr>
-<tr><td>285</td><td>Apoiar programas destinados à capacitação de cuidadores de idosos e de outros profissionais dedicados ao atendimento ao idoso.</td><td>MJ, MS, MTE</td><td>pessoa qualificada (unidade)</td><td>30.722</td><td>01015421</td><td>4.424.000,00</td></tr>
-<tr><td>Garantia do Direito à Educação</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>295</td><td>Contribuir para a formulação de diretrizes e normas para a educação infantil de modo a garantir padrões básicos de atendimento em creches e pré-escolas.</td><td>MEC</td><td>criança atendida (unidade)</td><td>91.463</td><td>00671001</td><td>34.475.076,00</td></tr>
-<tr><td></td><td></td><td></td><td>criança atendida (unidade)</td><td>1.702.630</td><td>00672556</td><td>275.914.309,00</td></tr>
-<tr><td>296</td><td>Contribuir para o planejamento, desenvolvimento e avaliação de práticas educativas, além da construção de propostas educativas que respondam às necessidades das crianças e de seus familiares nas diferentes regiões do país.</td><td>MEC</td><td>programa veiculado (unidade)</td><td>280.080</td><td>00424050</td><td>10.446.900,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno beneficiado (milhar)</td><td>11</td><td>00424088</td><td>4.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (milhar)</td><td>6.620</td><td>00427619</td><td>5.930.580,00</td></tr>
-<tr><td></td><td></td><td></td><td>profissional capacitado (unidade)</td><td>15.080</td><td>00427859</td><td>1.512.900,00</td></tr>
-<tr><td></td><td></td><td></td><td>módulo distribuído (milhar)</td><td>79</td><td>00672331</td><td>5.373.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>professor capacitado (unidade)</td><td>24.776</td><td>00674519</td><td>12.537.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola construída (unidade)</td><td>1</td><td>00675612</td><td>260.000,00</td></tr>
-<tr><td>298</td><td>Incentivar a associação estudantil em todos os níveis e a criação de conselhos escolares compostos por familiares, entidades, organizações não-governamentais e associações, para a fiscalização, avaliação e elaboração de programas e currículos escolares.</td><td>MEC, MJ</td><td>conselheiro capacitado (unidade)</td><td>648</td><td>00404389</td><td>1.500.000,00</td></tr>
-<tr><td>301</td><td>Consolidar um sistema de avaliação dos resultados do ensino público e privado em todo o país.</td><td>MEC</td><td>estudo/estatística disseminada (unidade)</td><td>85</td><td>00484000</td><td>4.800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>curso avaliado (unidade)</td><td>24</td><td>00480016</td><td>26.089.080,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno avaliado (unidade)</td><td>1.600.000</td><td>00480017</td><td>63.525.800,00</td></tr>
-<tr><td></td><td></td><td></td><td>módulo implantado (unidade)</td><td>13</td><td>00480021</td><td>3.178.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema educacional avaliado (unidade)</td><td>27</td><td>00480022</td><td>7.038.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>curso avaliado (unidade)</td><td>1.900</td><td>00480065</td><td>9.459.281,00</td></tr>
-<tr><td></td><td></td><td></td><td>instituição avaliada (unidade)</td><td>1.389</td><td>00480073</td><td>352.225,00</td></tr>
-<tr><td>303</td><td>Realizar periodicamente censos educacionais em parceria com as secretarias de educação dos estados e do Distrito Federal, com o objetivo de produzir dados estatístico-educacionais para subsidiar o planejamento e a gestão da educação nas esferas governamentais.</td><td>MEC, Estados, Municípios</td><td>censo/avaliação realizada (unidade)</td><td>3</td><td>00483090</td><td>1.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>censo realizado (unidade)</td><td>1</td><td>00484014</td><td>7.872.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>censo realizado (unidade)</td><td>1</td><td>00486503</td><td>3.430.000,00</td></tr>
-<tr><td>304</td><td>Apoiar a popularização do uso do microcomputador e da internet, através da massificação dessa tecnologia e da realização de cursos de treinamento em comunidades carentes e em espaços públicos, especialmente nas escolas, bibliotecas e espaços comunitários.</td><td>MEC</td><td>profissional capacitado (unidade)</td><td>6.000</td><td>00423160</td><td>3.088.000,00</td></tr>
-<tr><td>305</td><td>Garantir a universalização, a obrigatoriedade e a qualidade do ensino fundamental, estimulando a adoção da jornada escolar ampliada, a valorização do magistério e a participação da comunidade na gestão das escolas, e garantindo apoio ao transporte escolar.</td><td>MEC</td><td>FUNDEF</td><td></td><td>00400304</td><td>663.963.846,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>124</td><td>00400509</td><td>67.214.040,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola beneficiada (unidade)</td><td>95.850</td><td>00400515</td><td>204.011.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola beneficiada (unidade)</td><td>42.370</td><td>00400517</td><td>123.197.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola beneficiada (unidade)</td><td>10.106</td><td>00403693</td><td>80.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>veículo adquirido (unidade)</td><td>3.250</td><td>00403699</td><td>121.050.118,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno matriculado (unidade)</td><td>157.143</td><td>00404041</td><td>34.835.449,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola beneficiada (unidade)</td><td>1.000</td><td>00405079</td><td>20.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>professor capacitado (unidade)</td><td>23.913</td><td>00422337</td><td>12.100.000,00</td></tr>
-<tr><td>306</td><td>Promover a eqüidade nas condições de acesso, permanência e êxito escolar do aluno no ensino fundamental, por meio da ampliação de programas de transferência direta de renda vinculada à educação (bolsa-escola) e de aceleração da aprendizagem.</td><td>MEC</td><td>aluno beneficiado (milhar)</td><td>10.195</td><td>00400519</td><td>1.835.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família atendida (milhar)</td><td>5.422</td><td>00404401</td><td>155.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família atendida (milhar)</td><td>5.422</td><td>00404411</td><td>11.000.000,00</td></tr>
-<tr><td>307</td><td>Garantir o suprimento de livros gratuitos e de qualidade às escolas públicas do ensino fundamental.</td><td>MEC</td><td>exemplar distribuído (milhar)</td><td>65.557</td><td>00404046</td><td>325.670.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>módulo distribuído (unidade)</td><td>21.856</td><td>00404045</td><td>18.006.583,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
+Propostas Gerais
 
-<br> 
+*
 
-<table>
-<tr><td>308</td><td>Suprir parcialmente as necessidades nutricionais dos alunos das escolas públicas e das escolas mantidas por entidades filantrópicas por meio do oferecimento de, no mínimo, uma refeição diária adequada, estimulando bons hábitos alimentares e procurando diminuir a evasão e a repetência.</td><td>MEC</td><td>aluno beneficiado (milhar)</td><td>37.720</td><td>00400513</td><td>900.000.000,00</td></tr>
-<tr><td>309</td><td>Promover a expansão do acesso ao ensino médio com eqüidade e adequar a oferta atual, de forma ordenada e atendendo a padrões básicos mínimos.</td><td>MEC</td><td>aluno atendido (unidade)</td><td>1.940.683</td><td>00451327</td><td>405.529.040,00</td></tr>
-<tr><td></td><td></td><td></td><td>escola atendida (unidade)</td><td>6.263</td><td>00453682</td><td>69.455.170,00</td></tr>
-<tr><td>310</td><td>Adotar uma concepção para o ensino médio que corrresponda às determinações da Lei de Diretrizes e Bases da Educação - LDB, assim como à demanda e às necessidades do país.</td><td>MEC</td><td>estudo realizado (unidade)</td><td>20</td><td>00453680</td><td>5.080.389,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto implementado (% de execução física)</td><td>20</td><td>00453686</td><td>6.228.024,00</td></tr>
-<tr><td>311</td><td>Implementar a reforma curricular e assegurar a formação continuada de docentes e gestores de escolas de ensino médio.</td><td>MEC</td><td>profissional capacitado (unidade)</td><td>78.180</td><td>00453677</td><td>14.662.417,00</td></tr>
-<tr><td>312</td><td>Equipar progressivamente as escolas de ensino médio com bibliotecas, laboratórios de informática e ciências e kit tecnológico para recepção da TV Escola.</td><td>MEC</td><td>unidade equipada (unidade)</td><td>20.000</td><td>00421181</td><td>15.000.000,00</td></tr>
-<tr><td>315</td><td>Criar cursos que garantam perspectiva de trabalho para os jovens, que facilitem seu acesso ao mercado e que atendam também aos profissionais já inseridos no mercado de trabalho.</td><td>MEC</td><td>instituição apoiada (unidade)</td><td>165</td><td>00440529</td><td>27.594.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>profissional capacitado (unidade)</td><td>8.000</td><td>00443676</td><td>6.261.232,00</td></tr>
-<tr><td></td><td></td><td></td><td>profissional capacitado (unidade)</td><td>7.000</td><td>00445430</td><td>8.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>centro implantado (unidade)</td><td>45</td><td>00445606</td><td>42.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>centro implantado (unidade)</td><td>85</td><td>00447109</td><td>61.322.290,00</td></tr>
-<tr><td></td><td></td><td></td><td>jovem capacitado (unidade)</td><td>800</td><td>04153839</td><td>800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>jovem capacitado (unidade)</td><td>36.667</td><td>04155417</td><td>5.500.000,00</td></tr>
-<tr><td>318</td><td>Identificar oportunidades, estimular iniciativas, gerar alternativas e apoiar negociações que encaminhem o melhor atendimento educacional às pessoas com necessidades educativas especiais, de forma a garantir a sua integração escolar e social.</td><td>MEC, MJ</td><td>instituição apoiada (unidade)</td><td>1.153</td><td>00490511</td><td>28.165.511,00</td></tr>
-<tr><td></td><td></td><td></td><td>material distribuído (unidade)</td><td>40.000</td><td>00496113</td><td>2.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>profissional capacitado (unidade)</td><td>28.900</td><td>00496123</td><td>689.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno matriculado (unidade)</td><td>1.034</td><td>00496127</td><td>15.599.415,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo disseminado (unidade)</td><td>49</td><td>00496131</td><td>216.162,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar produzido e distribuído (unidade)</td><td>100.000</td><td>00496135</td><td>425.878,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>5</td><td>00496137</td><td>400.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>docente qualificado (unidade)</td><td>6.000</td><td>00496139</td><td>2.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa qualificada (unidade)</td><td>3.900</td><td>00496141</td><td>1.180.000,00</td></tr>
-<tr><td>324</td><td>Reduzir o índice de analfabetismo da população brasileira, elevando a média do tempo de estudos e ampliando programas de alfabetização para jovens e adultos.</td><td>MEC</td><td>aluno matriculado (unidade)</td><td>1.355.660</td><td>00470081</td><td>327.642.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno matriculado (unidade)</td><td>87.250</td><td>00470507</td><td>24.108.240,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno beneficiado (unidade)</td><td>1.002.941</td><td>00472047</td><td>102.600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>programa produzido (minuto)</td><td>360</td><td>00472263</td><td>555.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno beneficiado (unidade)</td><td>500.000</td><td>00472335</td><td>10.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>professor capacitado (unidade)</td><td>29.644</td><td>00474397</td><td>15.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>aluno matriculado (unidade)</td><td>135.903</td><td>00477857</td><td>11.441.000,00</td></tr>
-<tr><td>325</td><td>Estabelecer mecanismos de promoção da eqüidade de acesso ao ensino superior, levando em consideração a necessidade de que o contingente de alunos universitários reflita a diversidade racial e cultural da sociedade brasileira.</td><td>MEC, MJ</td><td>estudante financiado (unidade)</td><td>16.258</td><td>00410577</td><td>49.856.207,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudante financiado (unidade)</td><td>215.541</td><td>00410579</td><td>612.700.000,00</td></tr>
-<tr><td>Garantia do Direito à Saúde, à Previdência e à Assistência Social</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>328</td><td>Assegurar o princípio da universalização do acesso à saúde, fortalecendo o Sistema Único de Saúde - SUS, assegurando sua autonomia e democratização, bem como a sua consolidação em todos os estados e municípios brasileiros.</td><td>MS</td><td>unidade implantada/ aparelhada/ adequada (unidade)</td><td>5.172</td><td>00041823</td><td>540.573.346,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>32.437</td><td>00042729</td><td>7.484.100,00</td></tr>
-<tr><td></td><td></td><td></td><td>campanha realizada (unidade)</td><td>3</td><td>00043846</td><td>5.820.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade de saúde implantada/ampliada (unidade)</td><td>72</td><td>00043863</td><td>36.020.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade implantada/ ampliada (unidade)</td><td>153</td><td>00043865</td><td>14.780.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade de saúde modernizada / adequada (unidade)</td><td>4.568</td><td>00043868</td><td>88.560.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade modernizada/ adequada (unidade)</td><td>292</td><td>00043870</td><td>55.187.500,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>85</td><td>00043888</td><td>13.886.340,00</td></tr>
-<tr><td></td><td></td><td></td><td>cartão implantado (unidade)</td><td>######</td><td>00043914</td><td>66.684.450,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade de saúde implantada/ampliada (unidade)</td><td>31</td><td>00043917</td><td>35.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade de saúde modernizada / adequada (unidade)</td><td>141</td><td>00043923</td><td>114.425.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>9</td><td>00043936</td><td>600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>hospital acreditado (unidade)</td><td>100</td><td>00044291</td><td>100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa atendida (unidade)</td><td>2.000.000</td><td>00044310</td><td>900.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa beneficiada (unidade)</td><td>######</td><td>00044372</td><td>11.525.630,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade mantida (unidade)</td><td>625</td><td>00044525</td><td>94.519.112,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade móvel de saúde adquirida (unidade)</td><td>2.954</td><td>00045776</td><td>111.596.920,00</td></tr>
-<tr><td>330</td><td>Ampliar o acesso da população aos serviços básicos de saúde a partir do fortalecimento da atenção básica, valendo-se, para tanto, da expansão e consolidação do Programa de Saúde da Família - PSF.</td><td>MS</td><td>pessoa capacitada (unidade)</td><td>150.000</td><td>00013851</td><td>5.100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>15</td><td>00013932</td><td>700.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade móvel de saúde adquirida (unidade)</td><td>1</td><td>00014456</td><td>8.560.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>10</td><td>00017839</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>população coberta (milhar)</td><td>172.462</td><td>00010587</td><td>1.920.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>equipe de saúde da família mantida (unidade)</td><td>20.001</td><td>00010589</td><td>1.300.000.000,00</td></tr>
-<tr><td>331</td><td>Apoiar o fortalecimento de programas voltados para a assistência integral à saúde da mulher.</td><td>MS</td><td>campanha realizada (unidade)</td><td>10</td><td>00213879</td><td>9.280.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>1</td><td>00213900</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>4</td><td>00213929</td><td>490.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>1.080</td><td>00217841</td><td>900.000,00</td></tr>
-<tr><td>337</td><td>Apoiar programas de atenção integral à saúde da criança e de incentivo ao aleitamento materno que visem à redução da morbimortalidade materna e de crianças de zero a cinco anos de idade.</td><td>MS</td><td>hospital acreditado (unidade)</td><td>50</td><td>00272783</td><td>100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>6</td><td>00273891</td><td>1.310.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>banco de leite humano implantado (unidade)</td><td>30</td><td>00273906</td><td>1.548.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>89</td><td>00273947</td><td>830.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>criança vacinada (milhar)</td><td>15.800</td><td>00275602</td><td>13.503.000,00</td></tr>
-<tr><td>342</td><td>Apoiar programas que tenham como objetivo prevenir e reduzir os riscos, acidentes e doenças relacionadas ao ambiente e ao processo de trabalho.</td><td>MS</td><td>estudo / pesquisa publicada (unidade)</td><td>3</td><td>00223893</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço implantado (unidade)</td><td>200</td><td>00223920</td><td>3.200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>5</td><td>00223927</td><td>600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>fiscalização realizada (unidade)</td><td>2.000</td><td>00224337</td><td>800.000,00</td></tr>
-<tr><td>344</td><td>Garantir a assistência farmacêutica básica no âmbito do SUS.</td><td>MS</td><td>população coberta (milhar)</td><td>172.461</td><td>00050593</td><td>172.461.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade farmacêutica produzida (milhar)</td><td>712.428</td><td>00052522</td><td>41.408.914,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>15</td><td>00053928</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente atendido (unidade)</td><td>######</td><td>00054368</td><td>267.101.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>laboratório farmacêutico modernizado / adequado (unidade)</td><td>10</td><td>00057835</td><td>27.504.800,00</td></tr>
-<tr><td>345</td><td>Garantir a vigilância sanitária de medicamentos, alimentos e outros produtos.</td><td>MS</td><td>população coberta (milhar)</td><td>172.462</td><td>00100595</td><td>80.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>fiscalização realizada (unidade)</td><td>76.000</td><td>00102691</td><td>59.335.000,00</td></tr>
-<tr><td>350</td><td>Intensificar as ações destinadas a eliminar a hanseníase como problema de saúde pública no país, visando a garantir o diagnóstico precoce e o tratamento dos portadores, bem como a promover medidas destinadas a combater o preconceito contra a doença.</td><td>MS</td><td>paciente curado (unidade)</td><td>88.029</td><td>00200599</td><td>5.900.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente atendido (unidade)</td><td>60.000</td><td>00202739</td><td>2.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>9</td><td>00203855</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente tratado (unidade)</td><td>56.000</td><td>00204313</td><td>5.706.000,00</td></tr>
-<tr><td>351</td><td>Intensificar as ações destinadas a controlar a tuberculose no país, visando a garantir o diagnóstico precoce e o tratamento dos portadores, bem como a promover medidas destinadas a combater o preconceito contra a doença.</td><td>MS</td><td>paciente curado (unidade)</td><td>95.000</td><td>00190601</td><td>5.800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>22</td><td>00193856</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>3</td><td>00193941</td><td>350.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente tratado (unidade)</td><td>95.000</td><td>00194314</td><td>6.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pesquisa publicada (unidade)</td><td>40</td><td>00194363</td><td>5.791.100,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente atendido (unidade)</td><td>95.500</td><td>00194369</td><td>10.600.000,00</td></tr>
-<tr><td>352</td><td>Garantir a atenção integral à saúde dos idosos, promovendo o acesso aos medicamentos específicos no âmbito do SUS.</td><td>MS, MPAS</td><td>pessoa idosa atendida (unidade)</td><td>260.353</td><td>00660561</td><td>615.348.381,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa atendida (unidade)</td><td>530.177</td><td>00660573</td><td>1.173.796.870,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa idosa atendida (unidade)</td><td>29.413</td><td>00661394</td><td>13.275.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço extra-hospitalar implantado (unidade)</td><td>70</td><td>00661847</td><td>2.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa idosa atendida (unidade)</td><td>353.022</td><td>00662559</td><td>39.602.041,00</td></tr>
-<tr><td></td><td></td><td></td><td>benefício pago (unidade)</td><td>6.362.124</td><td>00662573</td><td>42.331.616,00</td></tr>
-<tr><td></td><td></td><td></td><td>benefício processado (unidade)</td><td>6.362.124</td><td>00662583</td><td>18.103.877,00</td></tr>
-<tr><td></td><td></td><td></td><td>benefício concedido/cessado (unidade)</td><td>247.538</td><td>00662589</td><td>2.748.100,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>3</td><td>00663902</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>10</td><td>00663948</td><td>853.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>idoso imunizado (milhar)</td><td>13.900</td><td>00665600</td><td>50.800.000,00</td></tr>
-<tr><td>353</td><td>Garantir a atenção integral à saúde dos adolescentes, levando em conta as necessidades específicas desse segmento populacional.</td><td>MS</td><td>evento realizado (unidade)</td><td>7</td><td>00263872</td><td>115.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>2</td><td>00263901</td><td>160.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>centro implantado (unidade)</td><td>64</td><td>00263907</td><td>1.300.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>campanha realizada (unidade)</td><td>1</td><td>00263998</td><td>5.500.000,00</td></tr>
-<tr><td>354</td><td>Garantir a atenção integral à saúde dos povos indígenas, levando em consideração as suas necessidades específicas.</td><td>MS, MJ</td><td>indígena atendido (unidade)</td><td>350.000</td><td>01506501</td><td>115.000.000,00</td></tr>
-<tr><td>355</td><td>Promover o controle dos fundos de pensão e dos planos privados de saúde, divulgando amplamente os direitos dos pacientes e seus mecanismos de efetivação.</td><td>MS</td><td>fiscalização realizada (unidade)</td><td>2.700</td><td>00254339</td><td>28.000.000,00</td></tr>
-<tr><td>360</td><td>Acelerar a implementação de medidas destinadas a desburocratizar os serviços do Instituto Nacional do Seguro Social - INSS para a concessão de aposentadorias e benefícios.</td><td>MPAS</td><td>unidade avaliada (unidade)</td><td>1.298</td><td>00852563</td><td>10.627.798,00</td></tr>
-<tr><td></td><td></td><td></td><td>usuário atendido (unidade)</td><td>190.000</td><td>00852587</td><td>790.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>usuário atendido (unidade)</td><td>######</td><td>00854405</td><td>3.897.467,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade implantada/ reformulada (unidade)</td><td>126</td><td>00855509</td><td>51.461.048,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema implantado (% de execução física)</td><td>30</td><td>00857933</td><td>1.935.000,00</td></tr>
-<tr><td>Saúde Mental</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>365</td><td>Apoiar a divulgação e a aplicação da Lei no 10.216, de 6 de abril de 2001, com vistas à desconstrução do aparato manicomial sob a perspectiva da reorientação do modelo de atenção em saúde mental.</td><td>MS, MJ</td><td>evento realizado (unidade)</td><td>15</td><td>00183951</td><td>250.000,00</td></tr>
-<tr><td>370</td><td>Criar uma política de atenção integral às vítimas de sofrimento psíquico na área da saúde mental, assegurando o cumprimento da carta de direitos dos usuários de saúde mental e o monitoramento dos hospitais psiquiátricos.</td><td>MS, MJ</td><td>paciente assistido (unidade)</td><td>5.500</td><td>00180591</td><td>5.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente atendido (unidade)</td><td>220.000</td><td>00182743</td><td>25.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>3</td><td>00183892</td><td>1.170.000,00</td></tr>
-<tr><td>Dependência Química</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>371</td><td>Promover campanhas nacionais de prevenção do alcoolismo e do uso de drogas que geram dependência química, incentivando estudos, pesquisas e programas para limitar a incidência e o impacto do consumo de drogas ilícitas.</td><td>PR, MS</td><td>campanha realizada (unidade)</td><td>5</td><td>06653681</td><td>1.917.110,00</td></tr>
-<tr><td>372</td><td>Propor o tratamento dos dependentes de drogas sob o enfoque de saúde pública.</td><td>PR, MS</td><td>serviço implantado (unidade)</td><td>207</td><td>00183911</td><td>8.380.000,00</td></tr>
-<tr><td>373</td><td>Apoiar ações para implementação do Programa de Ação Nacional Antidrogas - PANAD.</td><td>PR</td><td>fiscalização realizada (unidade)</td><td>1.000</td><td>06652679</td><td>2.391.219,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa atendida (unidade)</td><td>500</td><td>06652682</td><td>930.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>conselho municipal apoiado (unidade)</td><td>25</td><td>06654221</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pesquisa publicada (unidade)</td><td>1</td><td>06654419</td><td>400.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>fiscalização apoiada (unidade)</td><td>5.000</td><td>06656483</td><td>1.000.000,00</td></tr>
-<tr><td>374</td><td>Apoiar programas de assistência e orientação para usuários de drogas, em substituição ao indiciamento em inquérito policial e processo judicial.</td><td>PR, MS</td><td>centro apoiado (unidade)</td><td>10</td><td>06654219</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>agente capacitado (unidade)</td><td>20.000</td><td>06654197</td><td>740.000,00</td></tr>
-<tr><td>HIV/AIDS</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>376</td><td>Incentivar campanhas de informação sobre DST e HIV/AIDS, visando a esclarecer a população sobre os comportamentos que facilitem ou dificultem a sua transmissão.</td><td>MS</td><td>campanha realizada (unidade)</td><td>18</td><td>00033878</td><td>15.260.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>30</td><td>00033943</td><td>500.000,00</td></tr>
-<tr><td>377</td><td>Apoiar a melhoria da qualidade do tratamento e assistência das pessoas com HIV/AIDS, incluindo a ampliação da acessibilidade e a redução de custos.</td><td>MS</td><td>pessoa capacitada (unidade)</td><td>20.000</td><td>00033880</td><td>8.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço implantado (unidade)</td><td>200</td><td>00033910</td><td>9.279.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>grupo atendido (unidade)</td><td>30</td><td>00033954</td><td>21.810.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa atendida (unidade)</td><td>1.500.000</td><td>00034309</td><td>600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>diagnóstico efetuado (unidade)</td><td>3.000.000</td><td>00034327</td><td>23.311.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>paciente atendido (unidade)</td><td>139.500</td><td>00034370</td><td>516.000.000,00</td></tr>
-<tr><td>379</td><td>Incentivar a realização de estudos e pesquisas sobre DST e HIV/AIDS nas diversas áreas do conhecimento, atentando para princípios éticos de pesquisa.</td><td>MS</td><td>estudo / pesquisa publicada (unidade)</td><td>25</td><td>00033897</td><td>1.500.000,00</td></tr>
-<tr><td>Garantia do Direito ao Trabalho</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>385</td><td>Organizar banco de dados com indicadores sociais, que traduzam as condições de emprego, subemprego e desemprego, sob a perspectiva de gênero e raça.</td><td>MTE</td><td>pesquisa publicada (unidade)</td><td>7</td><td>01061277</td><td>6.035.000,00</td></tr>
-<tr><td>386</td><td>Assegurar o desenvolvimento de programas de qualificação e requalificação profissional compatíveis com as demandas do mercado de trabalho.</td><td>MTE</td><td>programa avaliado (unidade)</td><td>27</td><td>01011463</td><td>11.551.488,00</td></tr>
-<tr><td></td><td></td><td></td><td>supervisão realizada (unidade)</td><td>27</td><td>01014421</td><td>4.200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>empreendedor qualificado (unidade)</td><td>276.679</td><td>01015405</td><td>39.841.723,00</td></tr>
-<tr><td></td><td></td><td></td><td>campanha realizada (unidade)</td><td>10</td><td>01015418</td><td>4.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa qualificada (unidade)</td><td>108.433</td><td>01015420</td><td>15.630.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador qualificado (unidade)</td><td>234.713</td><td>01015424</td><td>33.798.600,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador qualificado (unidade)</td><td>42.575</td><td>01015425</td><td>6.130.774,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador qualificado (unidade)</td><td>783.534</td><td>01015426</td><td>112.829.223,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador qualificado (unidade)</td><td>310.770</td><td>01015427</td><td>44.750.880,00</td></tr>
-<tr><td>387</td><td>Fortalecer a política de concessão do seguro-desemprego</td><td>MTE</td><td>trabalhador beneficiado (unidade)</td><td>10.471</td><td>00990217</td><td>12.017.245,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador beneficiado (unidade)</td><td>4.155.147</td><td>00990583</td><td>5.218.355.565,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador doméstico beneficiado (unidade)</td><td>133.530</td><td>00990653</td><td>77.395.208,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador colocado (unidade)</td><td>821.790</td><td>00992550</td><td>92.487.990,00</td></tr>
-<tr><td></td><td></td><td></td><td>trabalhador habilitado (unidade)</td><td>4.676.686</td><td>00992633</td><td>23.646.907,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>1.200</td><td>00995101</td><td>1.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>campanha realizada (unidade)</td><td>4</td><td>00995415</td><td>2.000.000,00</td></tr>
-<tr><td>399</td><td>Fortalecer a atuação do Grupo Especial de Fiscalização Móvel do Ministério do Trabalho e Emprego com vistas à erradicação do trabalho forçado.</td><td>MTE</td><td>fiscalização realizada (unidade)</td><td>28</td><td>01072629</td><td>1.000.000,00</td></tr>
-<tr><td>402</td><td>Promover campanhas de sensibilização sobre o trabalho forçado e degradante e as formas contemporâneas de escravidão nos estados onde ocorre trabalho forçado e nos pólos de aliciamento de trabalhadores.</td><td>MTE</td><td>campanha realizada (unidade)</td><td>1</td><td>01071911</td><td>600.000,00</td></tr>
-<tr><td>Acesso a Terra</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>407</td><td>Promover a segurança da posse, compreendendo a urbanização de áreas informalmente ocupadas e a regularização de loteamentos populares, assim como a revisão dos instrumentos legais que disciplinam a posse da terra, como a lei que regula os registros públicos (Lei 6.015/73) e a lei federal de parcelamento do solo urbano (Lei 6.766/79).</td><td>MDA, INCRA, Congresso Nacional</td><td>família beneficiada (unidade)</td><td>37.000</td><td>01370427</td><td>92.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>37.000</td><td>01373668</td><td>37.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família atendida (unidade)</td><td>37.000</td><td>01375530</td><td>14.800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família assistida (unidade)</td><td>37.000</td><td>01375533</td><td>6.069.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família atendida (unidade)</td><td>37.000</td><td>01375609</td><td>3.700.000,00</td></tr>
-</table>
+2.
+
+Apoiar, na esfera estadual e municipal, a criação de conselhos de direitos dotados de autonomia e com composição paritária de representantes do governo e da sociedade civil.
+
+MJ
+
+conselho implantado (unidade)
+
+6
+
+01543815
+
+180.000,00
+
+25
+
+01565023
+
+394.136,00
+
+13
+
+00651753
+
+260.000,00
+
+3.
+
+Apoiar a formulação de programas estaduais e municipais de direitos humanos e a realização de conferências e seminários voltados para a proteção e promoção de direitos humanos.
+
+MJ
+
+evento realizado (unidade)
+
+2
+
+01541807
+
+80.000,00
+
+5
+
+00651815
+
+210.000,00
+
+10
+
+01531810
+
+500.000,00
+
+5.
+
+Estimular a criação de bancos de dados com indicadores sociais e econômicos sobre a situação dos direitos humanos nos estados brasileiros, a fim de orientar a definição de políticas públicas destinadas à redução da violência e à inclusão social.
+
+MPOG, MJ
+
+estudo/pesquisa divulgada (unidade)
+
+4
+
+80175029
+
+200.000,00
+
+estudo/pesquisa realizada (unidade)
+
+4
+
+00651749
+
+400.000,00
+
+exemplar distribuído (unidade)
+
+93.400
+
+00653813
+
+467.000,00
+
+estudo/pesquisa realizada (unidade)
+
+3
+
+01541747
+
+260.000,00
+
+exemplar distribuído (unidade)
+
+40.000
+
+01541733
+
+200.000,00
+
+estudo/pesquisa publicada (unidade)
+
+4
+
+00681459
+
+87.866,00
+
+exemplar distribuído (unidade)
+
+50.000
+
+00681460
+
+300.000,00
+
+10.
+
+Garantir o acesso gratuito e universal ao registro civil de nascimento e ao assento de óbito.
+
+PR, MJ
+
+sistema implantado (% de execução física)
+
+30
+
+06663827
+
+744.000,00
+
+Garantia do Direito à Vida
+
+*
+
+12.
+
+Apoiar a execução do Plano Nacional de Segurança Pública - PNSP.
+
+MJ
+
+área crítica atendida (unidade)
+
+28
+
+06667805
+
+145.053.652,00
+
+18
+
+Ampliar programas voltados para a redução da violência nas escolas, a exemplo do programa `Paz nas Escolas`, especialmente em áreas urbanas que apresentem aguda situação de carência e exclusão.
+
+MEC, MJ
+
+estudo/pesquisa divulgada (unidade)
+
+3
+
+06683837
+
+148.000,00
+
+pessoa capacitada (unidade)
+
+7.500
+
+06683809
+
+1.500.000,00
+
+projeto apoiado (unidade)
+
+31
+
+06682044
+
+3.050.000,00
+
+associação apoiada (unidade)
+
+46
+
+06682045
+
+150.000,00
+
+19.
+
+Estimular o aperfeiçoamento dos critérios para seleção e capacitação de policiais e implantar, nas Academias de polícia, programas de educação e formação em direitos humanos, em parceria com entidades não-governamentais.
+
+MJ
+
+policial capacitado (unidade)
+
+7.854
+
+06631715
+
+4.000.000,00
+
+pessoa capacitada (unidade)
+
+21.430
+
+06667795
+
+22.799.700,00
+
+policial qualificado (unidade)
+
+45.347
+
+01011281
+
+6.530.000,00
+
+21.
+
+Propor a criação de programas de atendimento psicossocial para o policial e sua família, a obrigatoriedade de avaliações periódicas da saúde física e mental dos profissionais de polícia e a implementação de programas de seguro de vida e de saúde, de aquisição da casa própria e de estímulo à educação formal e à profissionalização.
+
+MJ
+
+criança de 0 a 6 anos atendida (unidade)
+
+6.510
+
+07912010
+
+7.109.895,00
+
+pessoa beneficiada (unidade)
+
+66.760
+
+07912004
+
+18.167.520,00
+
+23
+
+Apoiar o funcionamento e a modernização de corregedorias estaduais independentes e desvinculadas dos comandos policiais, com vistas a limitar abusos e erros em operações policiais e a emitir diretrizes claras aos integrantes das forças policiais com relação à proteção dos direitos humanos.
+
+MJ
+
+órgão modernizado (unidade)
+
+6
+
+06665041
+
+286.000,00
+
+31
+
+Incentivar ações educativas e preventivas destinadas a reduzir o número de acidentes e mortes no trânsito.
+
+MJ
+
+sistema implantado (% de execução física)
+
+12
+
+06601799
+
+2.400.000,00
+
+projeto apoiado (unidade)
+
+6
+
+06601243
+
+49.604.008,00
+
+32
+
+Incentivar a implantação da polícia ou segurança comunitária e de ações de articulação e cooperação entre a comunidade e autoridades públicas com vistas ao desenvolvimento de estratégias locais de segurança pública, visando a garantir a proteção da integridade física das pessoas e dos bens da comunidade e o combate à impunidade.
+
+MJ
+
+polícia comunitária implantada
+
+35
+
+06667807
+
+117.061.700,00
+
+33
+
+Apoiar a criação e o funcionamento de centros de apoio a vítimas de crime nas áreas com maiores índices de violência, com vistas a disponibilizar assistência social, jurídica e psicológica às vítimas de violência e a seus familiares e dependentes.
+
+MJ
+
+centro implantado (unidade)
+
+4
+
+06701781
+
+800.000,00
+
+34
+
+Apoiar a realização de estudos e pesquisas de vitimização, com referência específica a indicadores de gênero e raça, visando a subsidiar a formulação, implementação e avaliação de programas de proteção dos direitos humanos.
+
+MJ
+
+estudo/pesquisa realizada (unidade)
+
+2
+
+06663814
+
+50.000,00
+
+36
+
+Implantar e fortalecer sistemas de informação nas áreas de segurança e justiça, como o INFOSEG, de forma a permitir o acesso à informação e a integração de dados sobre identidade criminal, mandados de prisão e situação da população carcerária em todas as unidades da Federação.
+
+MJ
+
+sistema implantado (% de execução física)
+
+30
+
+06663829
+
+450.000,00
+
+sistema mantido (unidade)
+
+1
+
+06664286
+
+1.607.000,00
+
+37
+
+Criar bancos de dados sobre a organização e o funcionamento das polícias e sobre o fluxo das ocorrências no sistema de justiça criminal.
+
+MJ
+
+sistema implantado (% de execução física)
+
+25
+
+06667799
+
+4.910.000,00
+
+Garantia do Direito à Justiça
+
+*
+
+54
+
+Fortalecer os Institutos Médico-Legais ou de Criminalística, adotando medidas que assegurem a sua excelência técnica e progressiva autonomia.
+
+MJ, SSPs, SJs
+
+polícia estdual reaparelhada (unidade)
+
+32
+
+06667797
+
+48.815.320,00
+
+55
+
+Apoiar o fortalecimento da Defensoria Pública da União e das Defensorias Públicas Estaduais, assim como a criação de Defensorias Públicas junto a todas as comarcas do país.
+
+MJ, DPU, DPEs
+
+serviço implantado (unidade)
+
+8
+
+06991783
+
+1.240.600,00
+
+pessoa assistida (unidade)
+
+21.980
+
+06992725
+
+5.111.600,00
+
+sistema implantado (% de execução física)
+
+2
+
+06993825
+
+30.000,00
+
+56
+
+Apoiar a criação de serviços de orientação jurídica gratuita, a exemplo dos balcões de direito e dos serviços de disque-denúncia, assim como o desenvolvimento de programas de formação de agentes comunitários de justiça. E mediação de conflitos
+
+MJ
+
+serviço implantado (unidade)
+
+28
+
+01541919
+
+2.220.000,00
+
+serviço implantado (unidade)
+
+18
+
+01545033
+
+930.000,00
+
+serviço mantido (unidade)
+
+16
+
+01542801
+
+400.000,00
+
+57
+
+Estimular a criação e o fortalecimento de órgãos de defesa do consumidor, em nível estadual e municipal, assim como apoiar as atividades das organizações da sociedade civil atuantes na defesa do consumidor.
+
+MJ
+
+agente capacitado (unidade)
+
+355
+
+06971756
+
+188.000,00
+
+evento realizado (unidade)
+
+4
+
+06971811
+
+140.000,00
+
+pessoa atendida (unidade)
+
+47
+
+06972700
+
+90.000,00
+
+sistema implantado (% de execução física)
+
+1
+
+06973830
+
+510.000,00
+
+sistema mantido (unidade)
+
+1
+
+06974079
+
+10.000,00
+
+material divulgado (unidade)
+
+15
+
+06975636
+
+150.000,00
+
+projeto apoiado (unidade)
+
+7
+
+06976067
+
+2.280.000,00
+
+60
+
+Estimular a criação de centros integrados de cidadania próximos às comunidades carentes e periferias, que contenham os órgãos administrativos para atendimento ao cidadão, delegacias de polícias e varas de juizado especial com representantes do Ministério Público e da Defensoria Pública.
+
+MJ, MPAS, STJ, TJs, DPU, DPEs
+
+serviço implantado (unidade)
+
+28
+
+06667801
+
+16.235.000,00
+
+64
+
+Fomentar um pacto nacional com as entidades responsáveis pela aplicação da Lei nº 9.455, de 7 de abril de 1997, que tipifica o crime de tortura, e manter sistema de recepção, tratamento e encaminhamento de denúncias para prevenção e apuração de casos - SOS Tortura.
+
+MJ
+
+rede implantada (% de execução física)
+
+25
+
+01545151
+
+400.000,00
+
+66
+
+Apoiar a criação e o funcionamento, nos estados, de programas de proteção de vítimas e testemunhas de crimes, expostas a grave e real ameaça em virtude de colaboração ou declarações prestadas em investigação ou processo penal.
+
+MJ, Estados
+
+pessoa assistida (unidade)
+
+10.078
+
+06704278
+
+6.211.400,00
+
+serviço implantado (unidade)
+
+4
+
+06701787
+
+1.200.000,00
+
+agente capacitado (unidade)
+
+550
+
+06701717
+
+1.434.900,00
+
+pessoa assistida (unidade)
+
+150
+
+06702831
+
+600.000,00
+
+73
+
+Apoiar o funcionamento da Central Nacional - CENAPA e das centrais estaduais de penas alternativas, estimulando a disseminação de informações e a reprodução dessas iniciativas, assim como a criação do Conselho Nacional de Penas e Medidas Alternativas.
+
+MJ, Estados
+
+apenado beneficiado (unidade)
+
+3.610
+
+06612730
+
+3.137.000,00
+
+76
+
+Apoiar a implementação do Sistema de Informática Penitenciária - INFOPEN, de forma a acompanhar a passagem do detento por todas as etapas do sistema de justiça penal, desde a detenção provisória até o relaxamento da prisão, seja pelo cumprimento da pena, seja pela progressão de regime, e de possibilitar um planejamento adequado da oferta de vagas, das ações gerenciais e de outras medidas destinadas a assegurar a melhoria do sistema.
+
+MJ
+
+sistema implantado (% de execução física)
+
+27
+
+06611846
+
+4.100.000,00
+
+DECRETO Nº 4.229, DE 13 DE MAIO DE 2002 - 2ª PARTE
+ 
+
+79
+
+Implementar políticas visando a garantir os direitos econômicos, sociais e culturais das pessoas submetidas à detenção.
+
+MJ, SJs
+
+pessoa assistida (unidade)
+
+7.500
+
+06612698
+
+1.500.000,00
+
+82
+
+Apoiar programas de emergência para corrigir as condições inadequadas dos estabelecimentos prisionais existentes, assim como para a construção de novos estabelecimentos, federais e estaduais, com a utilização de recursos do Fundo Penitenciário Nacional - FUNPEN.
+
+MJ, SJs
+
+equipamento adquirido (unidade)
+
+120
+
+06611701
+
+4.000.000,00
+
+vaga criada (unidade)
+
+15.890
+
+06611844
+
+182.678.394,00
+
+89
+
+Fortalecer o programa nacional de capacitação do servidor prisional, com vistas a assegurar a formação profissional do corpo técnico, da direção e dos agentes penitenciários.
+
+MJ, SJs
+
+agente capacitado (unidade)
+
+5.300
+
+06611718
+
+4.240.366,00
+
+91
+
+Promover programas educativos, culturais, de treinamento profissional e de apoio ao trabalho do preso, com vistas a contribuir para sua recuperação e reinserção na sociedade.
+
+MJ, SJs
+
+preso profissionalizado (unidade)
+
+1.324
+
+06612727
+
+3.310.000,00
+
+material esportivo produzido (unidade)
+
+1.935.000
+
+06615448
+
+11.555.190,00
+
+92
+
+Apoiar a realização de Mutirões da Execução Penal com vistas à concessão de progressão de regime e soltura dos presos que já cumpriram integralmente suas penas.
+
+MJ, SJs
+
+preso assistido (unidade)
+
+9.385
+
+06612719
+
+1.840.000,00
+
+Garantia do Direito à Liberdade
+
+*
+
+Opinião e Expressão
+
+*
+
+98
+
+Apoiar o funcionamento da Coordenação Geral de Justiça, Classificação, Títulos e Qualificação, da Secretaria Nacional de Justiça do Ministério da Justiça, de modo a dotá-la de capacidade operativa compatível com sua missão institucional.
+
+MJ
+
+título cassado (unidade)
+
+37
+
+06712735
+
+30.000,00
+
+título concedido (unidade)
+
+333
+
+06712737
+
+40.000,00
+
+central de atendimento implantada (unidade)
+
+20
+
+06713818
+
+48.000,00
+
+sistema implantado (% de execução física)
+
+16
+
+06713831
+
+16.000,00
+
+Crença e Culto
+
+*
+
+Orientação Sexual
+
+*
+
+Garantia do Direito à Igualdade
+
+*
+
+Crianças e Adolescentes
+
+*
+
+127
+
+Promover campanhas de esclarecimento sobre os Fundos dos Direitos da Criança e do Adolescente, informando sobre as vantagens de aplicação para pessoas físicas e jurídicas, assim como criar mecanismos de incentivo à captação de recursos, garantindo formas de controle social de sua aplicação.
+
+MJ
+
+campanha realizada (unidade)
+
+20
+
+01531223
+
+120.000,00
+
+128
+
+Apoiar a produção e publicação de estudos e pesquisas que contribuam para a divulgação e aplicação do Estatuto da Criança e do Adolescente - ECA.
+
+MJ
+
+exemplar distribuído (unidade)
+
+60.000
+
+01531732
+
+300.000,00
+
+estudo/pesquisa realizada (unidade)
+
+10
+
+01531743
+
+300.000,00
+
+129
+
+Assegurar a implantação e o funcionamento adequado dos órgãos que compõem o Sistema de Garantia de Direitos de Crianças e Adolescentes, estimulando a criação de Núcleos de Defensorias Públicas Especializadas no Atendimento a Crianças e Adolescentes (com os direitos violados), de Delegacias de Investigação de Crimes Praticados Contra Crianças e Adolescentes e de Varas Privativas de Crimes Contra Crianças e Adolescentes.
+
+MJ, DPU, DPEs, SSPs, TJs
+
+defensoria implantada (unidade)
+
+8
+
+01535002
+
+1.000.000,00
+
+unidade de defesa implantada (unidade)
+
+8
+
+01531797
+
+1.000.000,00
+
+unidade de defesa mantida (unidade)
+
+4
+
+01532717
+
+8.300.000,00
+
+delegacia implantada (unidade)
+
+8
+
+01531221
+
+800.000,00
+
+131
+
+Investir na formação e capacitação de profissionais encarregados da promoção e proteção dos direitos de crianças e adolescentes no âmbito de instituições públicas e de organizações não-governamentais.
+
+MJ
+
+pessoa capacitada (unidade)
+
+8.333
+
+01521758
+
+2.500.000,00
+
+pessoa capacitada (unidade)
+
+3.000
+
+01531761
+
+900.000,00
+
+135
+
+Viabilizar programas e serviços de atendimento e de proteção para crianças e adolescentes vítimas de violência, assim como de assistência e orientação para seus familiares.
+
+MJ
+
+criança e adolescente atendido (unidade)
+
+1.200
+
+01532042
+
+375.000,00
+
+criança e adolescente atendido (unidade)
+
+17.000
+
+00732383
+
+5.100.000,00
+
+139
+
+Fortalecer os programas que ofereçam benefícios a adolescentes em situação de vulnerabilidade, e que possibilitem o seu envolvimento em atividades comunitárias voltadas para a promoção da cidadania, saúde e meio ambiente.
+
+MPAS, MJ
+
+criança e adolescente atendido (unidade)
+
+34.850
+
+00702558
+
+15.430.000,00
+
+140
+
+Apoiar a implantação e implementação do Plano Nacional de Enfrentamento da Violência Sexual Infanto-Juvenil nos estados e municípios.
+
+MJ
+
+rede mantida (unidade)
+
+1
+
+00732815
+
+140.000,00
+
+141
+
+Dar continuidade à Campanha Nacional de Combate à Exploração Sexual Infanto-Juvenil, estimulando o lançamento de campanhas estaduais e municipais que visem a modificar concepções, práticas e atitudes que estigmatizam a criança e o adolescente em situação de violência sexual, utilizando como marco conceitual o ECA e as normas internacionais pertinentes.
+
+MJ, Estados e Municípios
+
+campanha realizada (unidade)
+
+1
+
+00737939
+
+570.000,00
+
+144
+
+Criar informativo, destinado a turistas estrangeiros, cobrindo aspectos relacionados aos crimes sexuais e suas implicações pessoais, sociais e judiciais.
+
+MJ, MET, MPAS
+
+campanha realizada (unidade)
+
+3
+
+00735393
+
+700.000,00
+
+146
+
+Ampliar o Programa de Erradicação do Trabalho Infantil - PETI de modo a focalizar as crianças de áreas urbanas em situação de risco, especialmente aquelas utilizadas em atividades ilegais como a exploração sexual infanto-juvenil e o tráfico de drogas.
+
+MTE, MJ
+
+evento realizado (unidade)
+
+15
+
+00681458
+
+654.970,00
+
+campanha realizada (unidade)
+
+2
+
+00681910
+
+2.200.000,00
+
+criança e adolescente atendido (unidade)
+
+813.200
+
+00682060
+
+175.530.131,00
+
+mapeamento realizado (unidade)
+
+1
+
+00682602
+
+25.983,00
+
+fiscalização realizada (unidade)
+
+30.000
+
+00682688
+
+1.000.000,00
+
+131
+
+*
+
+147
+
+Apoiar iniciativas de geração de renda para as famílias de crianças atendidas pelo PETI.
+
+MTE, MPAS, MJ
+
+criança e adolescente atendido (unidade)
+
+813.000
+
+00682569
+
+235.803.202,00
+
+benefício processado (unidade
+
+5.200.200
+
+00684443
+
+2.260.168,00
+
+benefício pago (unidade)
+
+5.200.200
+
+00684447
+
+11.440.440,00
+
+família beneficiada (unidade)
+
+395.886
+
+00686537
+
+46.186.667,00
+
+149
+
+Apoiar e fortalecer o Fórum Nacional de Prevenção e Erradicação do Trabalho Infantil.
+
+MTE, MJ
+
+131
+
+*
+
+151
+
+Ampliar programas de aprendizagem profissional para adolescentes em organizações públicas e privadas, respeitando as regras estabelecidas pelo ECA.
+
+MJ
+
+adolescente capacitado (unidade)
+
+1.000
+
+01531227
+
+80.000,00
+
+152
+
+Dar continuidade à implantação e implementação, no âmbito federal e de forma articulada com estados e municípios, do Sistema de Informação para a Infância e a Adolescência - SIPIA, no que se refere aos Módulos: I - monitoramento da situação de proteção da criança e do adolescente, sob a ótica da violação e ressarcimento de direitos; II - monitoramento do fluxo de atendimento ao adolescente em conflito com a lei; III - monitoramento da colocação familiar e das adoções nacionais e internacionais; e IV - acompanhamento da implantação dos Conselhos de Direitos, Conselhos Tutelares e Fundos para a Infância e a Adolescência.
+
+MJ, Estados, Municípios
+
+sistema implantado (% de execução física)
+
+18
+
+01531800
+
+1.300.000,00
+
+153
+
+Apoiar a criação de serviços de identificação, localização, resgate e proteção de crianças e adolescentes desaparecidos.
+
+MJ, Estados, Municípios
+
+rede implantada (% de execução física)
+
+15
+
+01531785
+
+255.000,00
+
+155
+
+Priorizar as medidas sócio-educativas em meio aberto para o atendimento dos adolescentes em conflito com a lei.
+
+MJ, Municípios, Estados
+
+serviço implantado (unidade)
+
+25
+
+01521782
+
+3.500.000,00
+
+156
+
+Incentivar o reordenamento das instituições privativas de liberdade para adolescentes em conflito com a lei, reduzindo o número de internos por unidade de atendimento e conferindo prioridade à implementação das demais medidas sócio-educativas previstas no ECA, em consonância com as resoluções do CONANDA.
+
+MJ, Estados, Municípios
+
+vaga criada (unidade)
+
+640
+
+01521722
+
+11.200.000,00
+
+unidade reformada (metro quadrado)
+
+1.400
+
+01521819
+
+700.000,00
+
+equipamento adquirido (unidade)
+
+1.375
+
+01521829
+
+2.000.000,00
+
+adolescente assistido (unidade)
+
+3.000
+
+01522227
+
+3.881.000,00
+
+egresso assistido (unidade)
+
+4
+
+01521780
+
+478.416,00
+
+serviço implantado (unidade)
+
+10
+
+01521788
+
+1.000.000,00
+
+159
+
+Promover a integração operacional de órgãos do Poder Judiciário, Ministério Público, Defensorias Públicas e Secretarias de Segurança Pública com as delegacias especializadas em investigação de atos infracionais praticados por adolescentes e às entidades de atendimento, bem como ações de sensibilização dos profissionais indicados para esses órgãos quanto à aplicação do ECA.
+
+MJ, Estados, Municípios
+
+delegacia implantada (unidade)
+
+2
+
+01521728
+
+1.000.000,00
+
+164
+
+Promover a implementação da Convenção da Haia sobre a Proteção das Crianças e a Cooperação em Matéria de Adoção Internacional, por meio do fortalecimento da Autoridade Central Brasileira, instituída pelo Decreto n.o 3.174/99 e dos órgãos que a integram.
+
+MJ
+
+unidade administrativa instalada (unidade)
+
+1
+
+80171775
+
+500.000,00
+
+pessoa capacitada (unidade)
+
+866
+
+80175027
+
+200.000,00
+
+166
+
+Promover ações e iniciativas com vistas a reforçar o caráter excepcional das adoções internacionais.
+
+MJ
+
+evento realizado (uindade)
+
+4
+
+80175025
+
+100.000,00
+
+Mulheres
+
+*
+
+177
+
+Apoiar a implementação e o fortalecimento do Programa de Assistência Integral à Saúde da Mulher - PAISM.
+
+MS, MJ
+
+campanha realizada (unidade)
+
+10
+
+00213879
+
+9.280.000,00
+
+estudo/pesquisa realizada (unidade)
+
+1
+
+00213900
+
+200.000,00
+
+evento realizado (unidade)
+
+4
+
+00213929
+
+490.000,00
+
+pessoa capacitada (unidade)
+
+1.080
+
+00217841
+
+900.000,00
+
+182
+
+Apoiar a criação e o funcionamento de delegacias especializadas no atendimento à mulher - DEAMs.
+
+MJ
+
+profissional capacitado (unidade)
+
+700
+
+01561713
+
+700.000,00
+
+183
+
+Incentivar a pesquisa e divulgação de informações sobre a violência e discriminação contra a mulher e sobre formas de proteção e promoção dos direitos da mulher.
+
+MJ
+
+estudo/pesquisa realizada (unidade)
+
+12
+
+01561748
+
+350.000,00
+
+exemplar distribuído (unidade)
+
+200.000
+
+01561737
+
+405.864,00
+
+186
+
+Apoiar programas de proteção e assistência a vítimas e testemunhas da violência de gênero, contemplando serviços de atendimento jurídico, social, psicológico, médico e de capacitação profissional, assim como a ampliação e o fortalecimento da rede de casas-abrigo em todo o país.
+
+MJ
+
+abrigo implantado (unidade)
+
+108
+
+01567051
+
+2.605.000,00
+
+pessoa beneficiada (milhar)
+
+6
+
+01566015
+
+170.000,00
+
+ 
+
+Afrodescendentes
+
+*
+
+192
+
+Criar bancos de dados sobre a situação dos direitos civis, políticos, sociais, econômicos e culturais dos afrodescendentes na sociedade brasileira, com a finalidade de orientar a adoção de políticas públicas afirmativas.
+
+MJ, MinC, MPOG
+
+estudo/pesquisa realizada (unidade)
+
+2
+
+01721512
+
+77.092,00
+
+centro implantado (unidade)
+
+1
+
+01721507
+
+6.350.141,00
+
+198
+
+Promover o cadastramento e a identificação das comunidades remanescentes de quilombos, em todo o território nacional, com vistas a possibilitar a emissão dos títulos de propriedade definitiva de suas terras.
+
+MJ, MinC
+
+comunidade titulada (unidade)
+
+59
+
+01721642
+
+4.113.928,00
+
+200
+
+Apoiar projetos de infraestrutura para as comunidades remanescentes de quilombos, como forma de evitar o êxodo rural e promover o desenvolvimento social e econômico dessas comunidades.
+
+MS, MEC, MDA
+
+pessoa capacitada (unidade)
+
+880
+
+01721508
+
+440.000,00
+
+202
+
+Incentivar ações que contribuam para a preservação da memória e fomento à produção cultural da comunidade afrodescendente no Brasil.
+
+MinC
+
+projeto apoiado (unidade)
+
+31
+
+01720503
+
+7.628.711,00
+
+bem preservado /restaurado (unidade)
+
+15
+
+01724059
+
+172.848,00
+
+evento realizado (unidade)
+
+15
+
+01726531
+
+232.241,00
+
+Povos Indígenas
+
+*
+
+217
+
+Formular e implementar políticas de proteção e promoção dos direitos dos povos indígenas, em substituição a políticas integracionistas e assistencialistas.
+
+MJ
+
+comunidade localizada / protegida (unidade)
+
+6
+
+01514524
+
+550.000,00
+
+técnico capacitado (unidade)
+
+300
+
+01511714
+
+345.300,00
+
+221
+
+Assegurar a efetiva participação dos povos indígenas, de suas organizações e do órgão indigenista federal no processo de formulação e implementação de políticas públicas de proteção e promoção dos direitos indígenas.
+
+MJ
+
+posto construído (unidade)
+
+150
+
+01501725
+
+1.500.000,00
+
+posto mantido (unidade)
+
+180
+
+01502715
+
+2.430.000,00
+
+posto recuperado / equipado (unidade)
+
+150
+
+01501741
+
+350.000,00
+
+223
+
+Demarcar e regularizar as terras indígenas tradicionalmente ocupadas, as reservadas e as de domínio que ainda não foram demarcadas e regularizadas.
+
+MJ
+
+terra indígena identificada / revisada (HA)
+
+36
+
+01514276
+
+2.000.000,00
+
+regularização efetivada (HA)
+
+7.868.394
+
+01514390
+
+36.835.263,00
+
+terra indígena demarcada (HA)
+
+1.217.354
+
+01512235
+
+2.030.301,00
+
+225
+
+Garantir aos povos indígenas assistência na área da saúde, com a implementação de programas de saúde diferenciados, considerando as especificidades dessa população e priorizando ações na área de medicina preventiva e segurança alimentar.
+
+MS, MJ
+
+unidade de saúde modernizada / adequada (unidade)
+
+314
+
+01503869
+
+9.251.000,00
+
+comunidade indígena beneficiada (unidade)
+
+47
+
+01503913
+
+1.720.000,00
+
+indígena assistido (unidade)
+
+5.800
+
+01506057
+
+7.420.000,00
+
+indígena atendido (unidade)
+
+350.000
+
+01506501
+
+115.000.000,00
+
+226
+
+Assegurar aos povos indígenas uma educação escolar diferenciada, respeitando o seu universo sócio-cultural, e viabilizar apoio aos estudantes indígenas do ensino fundamental, de segundo grau e de nível universitário.
+
+MEC, MJ
+
+escola construída (unidade)
+
+1
+
+01501150
+
+100.000,00
+
+escola mantida (unidade)
+
+735
+
+01502713
+
+1.658.000,00
+
+casa mantida (unidade)
+
+400
+
+01502714
+
+857.000,00
+
+professor capacitado (unidade)
+
+250
+
+01503089
+
+200.000,00
+
+professor capacitado (unidade)
+
+180
+
+01503810
+
+135.000,00
+
+material distribuído (unidade)
+
+9.500
+
+01501735
+
+690.000,00
+
+exemplar distribuído (unidade)
+
+10.000
+
+01504047
+
+200.000,00
+
+227
+
+Promover a criação de linhas de crédito e a concessão de bolsas de estudo específicas para estudantes indígenas universitários.
+
+MEC, MJ
+
+estudante assistido (unidade)
+
+12.000
+
+01506059
+
+1.591.560,00
+
+229
+
+Implementar políticas de proteção e gestão das terras indígenas, com a implantação de sistemas de vigilância permanente dessas terras e de seu entorno, a promoção de parcerias com a Polícia Federal, o IBAMA e as Secretarias Estaduais de Meio Ambiente, e a capacitação de servidores e membros das comunidades indígenas.
+
+MDA, MJ, Estados
+
+fiscalização realizada (unidade)
+
+500
+
+01512707
+
+4.498.320,00
+
+230
+
+Viabilizar programas e ações na área de etno-desenvolvimento voltados para a ocupação sustentável de espaços estratégicos no interior das terras indígenas, tais como áreas desocupadas por invasores e/ou áreas de ingresso de madeireiros e garimpeiros.
+
+MMA, MDA, MJ
+
+fiscalização realizada (unidade)
+
+500
+
+01512707
+
+4.498.320,00
+
+235
+
+Apoiar e assessorar as comunidades indígenas na elaboração de projetos e na execução de ações de etno-desenvolvimento de caráter sustentável.
+
+MMA, MDA, MJ
+
+família beneficiada (unidade)
+
+33.505
+
+01502711
+
+8.239.672,00
+
+pessoa capacitada (unidade)
+
+180
+
+01501712
+
+460.000,00
+
+comunidade atendida (unidade)
+
+5
+
+01502178
+
+40.000,00
+
+237
+
+Apoiar a criação de serviços específicos de assistência jurídica para indivíduos e comunidades indígenas.
+
+MJ
+
+indígena assistido (unidade)
+
+1.000
+
+01502699
+
+137.000,00
+
+238
+
+Garantir o direito constitucional dos povos indígenas ao uso exclusivo da biodiversidade existente em suas terras, implementando ações que venham a coibir a biopirataria dos recursos e conhecimentos tradicionais dos indígenas.
+
+MMA, MJ
+
+evento realizado (unidade)
+
+141
+
+01511812
+
+500.000,00
+
+estudo realizado (unidade)
+
+30
+
+01511742
+
+190.000,00
+
+terra indígena recuperada (HA)
+
+202
+
+01511818
+
+575.000,00
+
+239
+
+Desenvolver políticas de proteção do patrimônio cultural e biológico e dos conhecimentos tradicionais dos povos indígenas, em especial as ações que tenham como objetivo a catalogação, o registro de patentes e a divulgação desse patrimônio.
+
+MJ, MinC
+
+documento preservado (unidade)
+
+40.000
+
+01516487
+
+180.000,00
+
+pesquisa publicada (unidade)
+
+20
+
+01512724
+
+172.000,00
+
+bem preservado (unidade)
+
+4.000
+
+01512630
+
+100.000,00
+
+exemplar distribuído (unidade)
+
+40
+
+01511738
+
+100.000,00
+
+evento realizado (unidade)
+
+27
+
+01511808
+
+130.000,00
+
+público atendido (unidade)
+
+51.500
+
+01512814
+
+103.000,00
+
+Gays, Lésbicas, Travestis, Transexuais e Bissexuais – GLTTB
+
+*
+
+Estrangeiros, Refugiados e Migrantes
+
+*
+
+257
+
+Estabelecer políticas de promoção e proteção dos direitos das comunidades brasileiras no exterior e das comunidades estrangeiras no Brasil.
+
+MJ, MRE
+
+exemplar distribuído (unidade)
+
+2.000
+
+06961734
+
+20.000,00
+
+central instalada (% de execução física)
+
+7
+
+06961752
+
+36.000,00
+
+central mantida (unidade)
+
+1
+
+06964275
+
+150.000,00
+
+estrangeiro regularizado (unidade)
+
+641
+
+06962728
+
+42.000,00
+
+registro digitalizado (unidade)
+
+57.142
+
+06963812
+
+40.000,00
+
+sistema integrado (% de execução física)
+
+2
+
+06963833
+
+24.000,00
+
+cidadão assistido (unidade)
+
+2.522
+
+06862529
+
+673.960,00
+
+ DECRETO Nº 4.229, DE 13 DE MAIO DE 2002 - 3ª PARTE
+ 
+
+Ciganos
+
+*
+
+Pessoas Portadoras de Deficiência
+
+*
+
+266
+
+Instituir medidas que propiciem a remoção de barreiras arquitetônicas, ambientais, de transporte e de comunicação para garantir o acesso da pessoa portadora de deficiência aos serviços e áreas públicas e aos edifícios comerciais.
+
+MJ
+
+barreira para deficiente removida (unidade)
+
+133
+
+00651740
+
+200.000,00
+
+271
+
+Estender a estados e municípios o Sistema Nacional de Informações sobre Deficiência - SICORDE.
+
+MJ
+
+sistema implantado (% de execução física)
+
+25
+
+00651825
+
+430.000,00
+
+sistema mantido (unidade)
+
+1
+
+00654281
+
+200.000,00
+
+273
+
+Apoiar programas de educação profissional para pessoas portadoras de deficiência.
+
+MEC, MJ, MTE
+
+instituição apoiada (unidade)
+
+45
+
+00652043
+
+800.000,00
+
+pessoa qualificada (unidade)
+
+78.200
+
+01015423
+
+11.262.000,00
+
+280
+
+Apoiar a inclusão de referências à acessibilidade para pessoas portadoras de deficiência nas campanhas promovidas pelo Governo Federal e pelos governos estaduais e municipais.
+
+PR, Estados, Municípios
+
+campanha realizada (unidade)
+
+1
+
+00653072
+
+400.000,00
+
+281
+
+Promover a capacitação de agentes públicos, profissionais de saúde, lideranças comunitárias e membros de conselhos sobre questões relativas às pessoas portadoras de deficiência.
+
+MS, MJ
+
+pessoa capacitada (unidade)
+
+3.646
+
+00651760
+
+850.000,00
+
+pessoa capacitada (unidade)
+
+1.293
+
+00655125
+
+300.000,00
+
+Idosos
+
+*
+
+282
+
+Criar, fortalecer e descentralizar programas de assistência aos idosos, de acordo com a Lei no 8.842/94, de forma a contribuir para sua integração à família e à sociedade e a incentivar o atendimento no seu próprio ambiente.
+
+MPAS, MS, MJ
+
+pessoa idosa atendida (unidade)
+
+29.413
+
+00661394
+
+13.275.000,00
+
+pessoa idosa atendida (unidade)
+
+353.022
+
+00662559
+
+39.602.041,00
+
+estudo/pesquisa publicada (unidade)
+
+3
+
+00663902
+
+500.000,00
+
+evento realizado (unidade)
+
+10
+
+00663948
+
+853.000,00
+
+285
+
+Apoiar programas destinados à capacitação de cuidadores de idosos e de outros profissionais dedicados ao atendimento ao idoso.
+
+MJ, MS, MTE
+
+pessoa qualificada (unidade)
+
+30.722
+
+01015421
+
+4.424.000,00
+
+Garantia do Direito à Educação
+
+*
+
+295
+
+Contribuir para a formulação de diretrizes e normas para a educação infantil de modo a garantir padrões básicos de atendimento em creches e pré-escolas.
+
+MEC
+
+criança atendida (unidade)
+
+91.463
+
+00671001
+
+34.475.076,00
+
+criança atendida (unidade)
+
+1.702.630
+
+00672556
+
+275.914.309,00
+
+296
+
+Contribuir para o planejamento, desenvolvimento e avaliação de práticas educativas, além da construção de propostas educativas que respondam às necessidades das crianças e de seus familiares nas diferentes regiões do país.
+
+MEC
+
+programa veiculado (unidade)
+
+280.080
+
+00424050
+
+10.446.900,00
+
+aluno beneficiado (milhar)
+
+11
+
+00424088
+
+4.000.000,00
+
+exemplar distribuído (milhar)
+
+6.620
+
+00427619
+
+5.930.580,00
+
+profissional capacitado (unidade)
+
+15.080
+
+00427859
+
+1.512.900,00
+
+módulo distribuído (milhar)
+
+79
+
+00672331
+
+5.373.000,00
+
+professor capacitado (unidade)
+
+24.776
+
+00674519
+
+12.537.000,00
+
+escola construída (unidade)
+
+1
+
+00675612
+
+260.000,00
+
+298
+
+Incentivar a associação estudantil em todos os níveis e a criação de conselhos escolares compostos por familiares, entidades, organizações não-governamentais e associações, para a fiscalização, avaliação e elaboração de programas e currículos escolares.
+
+MEC, MJ
+
+conselheiro capacitado (unidade)
+
+648
+
+00404389
+
+1.500.000,00
+
+301
+
+Consolidar um sistema de avaliação dos resultados do ensino público e privado em todo o país.
+
+MEC
+
+estudo/estatística disseminada (unidade)
+
+85
+
+00484000
+
+4.800.000,00
+
+curso avaliado (unidade)
+
+24
+
+00480016
+
+26.089.080,00
+
+aluno avaliado (unidade)
+
+1.600.000
+
+00480017
+
+63.525.800,00
+
+módulo implantado (unidade)
+
+13
+
+00480021
+
+3.178.000,00
+
+sistema educacional avaliado (unidade)
+
+27
+
+00480022
+
+7.038.000,00
+
+curso avaliado (unidade)
+
+1.900
+
+00480065
+
+9.459.281,00
+
+instituição avaliada (unidade)
+
+1.389
+
+00480073
+
+352.225,00
+
+303
+
+Realizar periodicamente censos educacionais em parceria com as secretarias de educação dos estados e do Distrito Federal, com o objetivo de produzir dados estatístico-educacionais para subsidiar o planejamento e a gestão da educação nas esferas governamentais.
+
+MEC, Estados, Municípios
+
+censo/avaliação realizada (unidade)
+
+3
+
+00483090
+
+1.000.000,00
+
+censo realizado (unidade)
+
+1
+
+00484014
+
+7.872.000,00
+
+censo realizado (unidade)
+
+1
+
+00486503
+
+3.430.000,00
+
+304
+
+Apoiar a popularização do uso do microcomputador e da internet, através da massificação dessa tecnologia e da realização de cursos de treinamento em comunidades carentes e em espaços públicos, especialmente nas escolas, bibliotecas e espaços comunitários.
+
+MEC
+
+profissional capacitado (unidade)
+
+6.000
+
+00423160
+
+3.088.000,00
+
+305
+
+Garantir a universalização, a obrigatoriedade e a qualidade do ensino fundamental, estimulando a adoção da jornada escolar ampliada, a valorização do magistério e a participação da comunidade na gestão das escolas, e garantindo apoio ao transporte escolar.
+
+MEC
+
+FUNDEF
+
+00400304
+
+663.963.846,00
+
+projeto apoiado (unidade)
+
+124
+
+00400509
+
+67.214.040,00
+
+escola beneficiada (unidade)
+
+95.850
+
+00400515
+
+204.011.000,00
+
+escola beneficiada (unidade)
+
+42.370
+
+00400517
+
+123.197.000,00
+
+escola beneficiada (unidade)
+
+10.106
+
+00403693
+
+80.000.000,00
+
+veículo adquirido (unidade)
+
+3.250
+
+00403699
+
+121.050.118,00
+
+aluno matriculado (unidade)
+
+157.143
+
+00404041
+
+34.835.449,00
+
+escola beneficiada (unidade)
+
+1.000
+
+00405079
+
+20.000.000,00
+
+professor capacitado (unidade)
+
+23.913
+
+00422337
+
+12.100.000,00
+
+306
+
+Promover a eqüidade nas condições de acesso, permanência e êxito escolar do aluno no ensino fundamental, por meio da ampliação de programas de transferência direta de renda vinculada à educação (bolsa-escola) e de aceleração da aprendizagem.
+
+MEC
+
+aluno beneficiado (milhar)
+
+10.195
+
+00400519
+
+1.835.000.000,00
+
+família atendida (milhar)
+
+5.422
+
+00404401
+
+155.000.000,00
+
+família atendida (milhar)
+
+5.422
+
+00404411
+
+11.000.000,00
+
+307
+
+Garantir o suprimento de livros gratuitos e de qualidade às escolas públicas do ensino fundamental.
+
+MEC
+
+exemplar distribuído (milhar)
+
+65.557
+
+00404046
+
+325.670.000,00
+
+módulo distribuído (unidade)
+
+21.856
+
+00404045
+
+18.006.583,00
+
+ 
+
+308
+
+Suprir parcialmente as necessidades nutricionais dos alunos das escolas públicas e das escolas mantidas por entidades filantrópicas por meio do oferecimento de, no mínimo, uma refeição diária adequada, estimulando bons hábitos alimentares e procurando diminuir a evasão e a repetência.
+
+MEC
+
+aluno beneficiado (milhar)
+
+37.720
+
+00400513
+
+900.000.000,00
+
+309
+
+Promover a expansão do acesso ao ensino médio com eqüidade e adequar a oferta atual, de forma ordenada e atendendo a padrões básicos mínimos.
+
+MEC
+
+aluno atendido (unidade)
+
+1.940.683
+
+00451327
+
+405.529.040,00
+
+escola atendida (unidade)
+
+6.263
+
+00453682
+
+69.455.170,00
+
+310
+
+Adotar uma concepção para o ensino médio que corrresponda às determinações da Lei de Diretrizes e Bases da Educação - LDB, assim como à demanda e às necessidades do país.
+
+MEC
+
+estudo realizado (unidade)
+
+20
+
+00453680
+
+5.080.389,00
+
+projeto implementado (% de execução física)
+
+20
+
+00453686
+
+6.228.024,00
+
+311
+
+Implementar a reforma curricular e assegurar a formação continuada de docentes e gestores de escolas de ensino médio.
+
+MEC
+
+profissional capacitado (unidade)
+
+78.180
+
+00453677
+
+14.662.417,00
+
+312
+
+Equipar progressivamente as escolas de ensino médio com bibliotecas, laboratórios de informática e ciências e kit tecnológico para recepção da TV Escola.
+
+MEC
+
+unidade equipada (unidade)
+
+20.000
+
+00421181
+
+15.000.000,00
+
+315
+
+Criar cursos que garantam perspectiva de trabalho para os jovens, que facilitem seu acesso ao mercado e que atendam também aos profissionais já inseridos no mercado de trabalho.
+
+MEC
+
+instituição apoiada (unidade)
+
+165
+
+00440529
+
+27.594.000,00
+
+profissional capacitado (unidade)
+
+8.000
+
+00443676
+
+6.261.232,00
+
+profissional capacitado (unidade)
+
+7.000
+
+00445430
+
+8.000.000,00
+
+centro implantado (unidade)
+
+45
+
+00445606
+
+42.000.000,00
+
+centro implantado (unidade)
+
+85
+
+00447109
+
+61.322.290,00
+
+jovem capacitado (unidade)
+
+800
+
+04153839
+
+800.000,00
+
+jovem capacitado (unidade)
+
+36.667
+
+04155417
+
+5.500.000,00
+
+318
+
+Identificar oportunidades, estimular iniciativas, gerar alternativas e apoiar negociações que encaminhem o melhor atendimento educacional às pessoas com necessidades educativas especiais, de forma a garantir a sua integração escolar e social.
+
+MEC, MJ
+
+instituição apoiada (unidade)
+
+1.153
+
+00490511
+
+28.165.511,00
+
+material distribuído (unidade)
+
+40.000
+
+00496113
+
+2.000.000,00
+
+profissional capacitado (unidade)
+
+28.900
+
+00496123
+
+689.000,00
+
+aluno matriculado (unidade)
+
+1.034
+
+00496127
+
+15.599.415,00
+
+estudo disseminado (unidade)
+
+49
+
+00496131
+
+216.162,00
+
+exemplar produzido e distribuído (unidade)
+
+100.000
+
+00496135
+
+425.878,00
+
+evento realizado (unidade)
+
+5
+
+00496137
+
+400.000,00
+
+docente qualificado (unidade)
+
+6.000
+
+00496139
+
+2.000.000,00
+
+pessoa qualificada (unidade)
+
+3.900
+
+00496141
+
+1.180.000,00
+
+324
+
+Reduzir o índice de analfabetismo da população brasileira, elevando a média do tempo de estudos e ampliando programas de alfabetização para jovens e adultos.
+
+MEC
+
+aluno matriculado (unidade)
+
+1.355.660
+
+00470081
+
+327.642.000,00
+
+aluno matriculado (unidade)
+
+87.250
+
+00470507
+
+24.108.240,00
+
+aluno beneficiado (unidade)
+
+1.002.941
+
+00472047
+
+102.600.000,00
+
+programa produzido (minuto)
+
+360
+
+00472263
+
+555.000,00
+
+aluno beneficiado (unidade)
+
+500.000
+
+00472335
+
+10.000.000,00
+
+professor capacitado (unidade)
+
+29.644
+
+00474397
+
+15.000.000,00
+
+aluno matriculado (unidade)
+
+135.903
+
+00477857
+
+11.441.000,00
+
+325
+
+Estabelecer mecanismos de promoção da eqüidade de acesso ao ensino superior, levando em consideração a necessidade de que o contingente de alunos universitários reflita a diversidade racial e cultural da sociedade brasileira.
+
+MEC, MJ
+
+estudante financiado (unidade)
+
+16.258
+
+00410577
+
+49.856.207,00
+
+estudante financiado (unidade)
+
+215.541
+
+00410579
+
+612.700.000,00
+
+Garantia do Direito à Saúde, à Previdência e à Assistência Social
+
+*
+
+328
+
+Assegurar o princípio da universalização do acesso à saúde, fortalecendo o Sistema Único de Saúde - SUS, assegurando sua autonomia e democratização, bem como a sua consolidação em todos os estados e municípios brasileiros.
+
+MS
+
+unidade implantada/ aparelhada/ adequada (unidade)
+
+5.172
+
+00041823
+
+540.573.346,00
+
+pessoa capacitada (unidade)
+
+32.437
+
+00042729
+
+7.484.100,00
+
+campanha realizada (unidade)
+
+3
+
+00043846
+
+5.820.000,00
+
+unidade de saúde implantada/ampliada (unidade)
+
+72
+
+00043863
+
+36.020.000,00
+
+unidade implantada/ ampliada (unidade)
+
+153
+
+00043865
+
+14.780.000,00
+
+unidade de saúde modernizada / adequada (unidade)
+
+4.568
+
+00043868
+
+88.560.000,00
+
+unidade modernizada/ adequada (unidade)
+
+292
+
+00043870
+
+55.187.500,00
+
+estudo / pesquisa publicada (unidade)
+
+85
+
+00043888
+
+13.886.340,00
+
+cartão implantado (unidade)
+
+######
+
+00043914
+
+66.684.450,00
+
+unidade de saúde implantada/ampliada (unidade)
+
+31
+
+00043917
+
+35.500.000,00
+
+unidade de saúde modernizada / adequada (unidade)
+
+141
+
+00043923
+
+114.425.000,00
+
+evento realizado (unidade)
+
+9
+
+00043936
+
+600.000,00
+
+hospital acreditado (unidade)
+
+100
+
+00044291
+
+100.000,00
+
+pessoa atendida (unidade)
+
+2.000.000
+
+00044310
+
+900.000,00
+
+pessoa beneficiada (unidade)
+
+######
+
+00044372
+
+11.525.630,00
+
+unidade mantida (unidade)
+
+625
+
+00044525
+
+94.519.112,00
+
+unidade móvel de saúde adquirida (unidade)
+
+2.954
+
+00045776
+
+111.596.920,00
+
+330
+
+Ampliar o acesso da população aos serviços básicos de saúde a partir do fortalecimento da atenção básica, valendo-se, para tanto, da expansão e consolidação do Programa de Saúde da Família - PSF.
+
+MS
+
+pessoa capacitada (unidade)
+
+150.000
+
+00013851
+
+5.100.000,00
+
+evento realizado (unidade)
+
+15
+
+00013932
+
+700.000,00
+
+unidade móvel de saúde adquirida (unidade)
+
+1
+
+00014456
+
+8.560.000,00
+
+estudo / pesquisa publicada (unidade)
+
+10
+
+00017839
+
+500.000,00
+
+população coberta (milhar)
+
+172.462
+
+00010587
+
+1.920.000.000,00
+
+equipe de saúde da família mantida (unidade)
+
+20.001
+
+00010589
+
+1.300.000.000,00
+
+331
+
+Apoiar o fortalecimento de programas voltados para a assistência integral à saúde da mulher.
+
+MS
+
+campanha realizada (unidade)
+
+10
+
+00213879
+
+9.280.000,00
+
+estudo / pesquisa publicada (unidade)
+
+1
+
+00213900
+
+200.000,00
+
+evento realizado (unidade)
+
+4
+
+00213929
+
+490.000,00
+
+pessoa capacitada (unidade)
+
+1.080
+
+00217841
+
+900.000,00
+
+337
+
+Apoiar programas de atenção integral à saúde da criança e de incentivo ao aleitamento materno que visem à redução da morbimortalidade materna e de crianças de zero a cinco anos de idade.
+
+MS
+
+hospital acreditado (unidade)
+
+50
+
+00272783
+
+100.000,00
+
+estudo / pesquisa publicada (unidade)
+
+6
+
+00273891
+
+1.310.000,00
+
+banco de leite humano implantado (unidade)
+
+30
+
+00273906
+
+1.548.000,00
+
+evento realizado (unidade)
+
+89
+
+00273947
+
+830.000,00
+
+criança vacinada (milhar)
+
+15.800
+
+00275602
+
+13.503.000,00
+
+342
+
+Apoiar programas que tenham como objetivo prevenir e reduzir os riscos, acidentes e doenças relacionadas ao ambiente e ao processo de trabalho.
+
+MS
+
+estudo / pesquisa publicada (unidade)
+
+3
+
+00223893
+
+500.000,00
+
+serviço implantado (unidade)
+
+200
+
+00223920
+
+3.200.000,00
+
+evento realizado (unidade)
+
+5
+
+00223927
+
+600.000,00
+
+fiscalização realizada (unidade)
+
+2.000
+
+00224337
+
+800.000,00
+
+344
+
+Garantir a assistência farmacêutica básica no âmbito do SUS.
+
+MS
+
+população coberta (milhar)
+
+172.461
+
+00050593
+
+172.461.000,00
+
+unidade farmacêutica produzida (milhar)
+
+712.428
+
+00052522
+
+41.408.914,00
+
+evento realizado (unidade)
+
+15
+
+00053928
+
+500.000,00
+
+paciente atendido (unidade)
+
+######
+
+00054368
+
+267.101.000,00
+
+laboratório farmacêutico modernizado / adequado (unidade)
+
+10
+
+00057835
+
+27.504.800,00
+
+345
+
+Garantir a vigilância sanitária de medicamentos, alimentos e outros produtos.
+
+MS
+
+população coberta (milhar)
+
+172.462
+
+00100595
+
+80.000.000,00
+
+fiscalização realizada (unidade)
+
+76.000
+
+00102691
+
+59.335.000,00
+
+350
+
+Intensificar as ações destinadas a eliminar a hanseníase como problema de saúde pública no país, visando a garantir o diagnóstico precoce e o tratamento dos portadores, bem como a promover medidas destinadas a combater o preconceito contra a doença.
+
+MS
+
+paciente curado (unidade)
+
+88.029
+
+00200599
+
+5.900.000,00
+
+paciente atendido (unidade)
+
+60.000
+
+00202739
+
+2.000.000,00
+
+estudo / pesquisa publicada (unidade)
+
+9
+
+00203855
+
+500.000,00
+
+paciente tratado (unidade)
+
+56.000
+
+00204313
+
+5.706.000,00
+
+351
+
+Intensificar as ações destinadas a controlar a tuberculose no país, visando a garantir o diagnóstico precoce e o tratamento dos portadores, bem como a promover medidas destinadas a combater o preconceito contra a doença.
+
+MS
+
+paciente curado (unidade)
+
+95.000
+
+00190601
+
+5.800.000,00
+
+estudo / pesquisa publicada (unidade)
+
+22
+
+00193856
+
+500.000,00
+
+evento realizado (unidade)
+
+3
+
+00193941
+
+350.000,00
+
+paciente tratado (unidade)
+
+95.000
+
+00194314
+
+6.000.000,00
+
+pesquisa publicada (unidade)
+
+40
+
+00194363
+
+5.791.100,00
+
+paciente atendido (unidade)
+
+95.500
+
+00194369
+
+10.600.000,00
+
+352
+
+Garantir a atenção integral à saúde dos idosos, promovendo o acesso aos medicamentos específicos no âmbito do SUS.
+
+MS, MPAS
+
+pessoa idosa atendida (unidade)
+
+260.353
+
+00660561
+
+615.348.381,00
+
+pessoa atendida (unidade)
+
+530.177
+
+00660573
+
+1.173.796.870,00
+
+pessoa idosa atendida (unidade)
+
+29.413
+
+00661394
+
+13.275.000,00
+
+serviço extra-hospitalar implantado (unidade)
+
+70
+
+00661847
+
+2.000.000,00
+
+pessoa idosa atendida (unidade)
+
+353.022
+
+00662559
+
+39.602.041,00
+
+benefício pago (unidade)
+
+6.362.124
+
+00662573
+
+42.331.616,00
+
+benefício processado (unidade)
+
+6.362.124
+
+00662583
+
+18.103.877,00
+
+benefício concedido/cessado (unidade)
+
+247.538
+
+00662589
+
+2.748.100,00
+
+estudo / pesquisa publicada (unidade)
+
+3
+
+00663902
+
+500.000,00
+
+evento realizado (unidade)
+
+10
+
+00663948
+
+853.000,00
+
+idoso imunizado (milhar)
+
+13.900
+
+00665600
+
+50.800.000,00
+
+353
+
+Garantir a atenção integral à saúde dos adolescentes, levando em conta as necessidades específicas desse segmento populacional.
+
+MS
+
+evento realizado (unidade)
+
+7
+
+00263872
+
+115.000,00
+
+estudo / pesquisa publicada (unidade)
+
+2
+
+00263901
+
+160.000,00
+
+centro implantado (unidade)
+
+64
+
+00263907
+
+1.300.000,00
+
+campanha realizada (unidade)
+
+1
+
+00263998
+
+5.500.000,00
+
+354
+
+Garantir a atenção integral à saúde dos povos indígenas, levando em consideração as suas necessidades específicas.
+
+MS, MJ
+
+indígena atendido (unidade)
+
+350.000
+
+01506501
+
+115.000.000,00
+
+355
+
+Promover o controle dos fundos de pensão e dos planos privados de saúde, divulgando amplamente os direitos dos pacientes e seus mecanismos de efetivação.
+
+MS
+
+fiscalização realizada (unidade)
+
+2.700
+
+00254339
+
+28.000.000,00
+
+360
+
+Acelerar a implementação de medidas destinadas a desburocratizar os serviços do Instituto Nacional do Seguro Social - INSS para a concessão de aposentadorias e benefícios.
+
+MPAS
+
+unidade avaliada (unidade)
+
+1.298
+
+00852563
+
+10.627.798,00
+
+usuário atendido (unidade)
+
+190.000
+
+00852587
+
+790.000,00
+
+usuário atendido (unidade)
+
+######
+
+00854405
+
+3.897.467,00
+
+unidade implantada/ reformulada (unidade)
+
+126
+
+00855509
+
+51.461.048,00
+
+sistema implantado (% de execução física)
+
+30
+
+00857933
+
+1.935.000,00
+
+Saúde Mental
+
+*
+
+365
+
+Apoiar a divulgação e a aplicação da Lei no 10.216, de 6 de abril de 2001, com vistas à desconstrução do aparato manicomial sob a perspectiva da reorientação do modelo de atenção em saúde mental.
+
+MS, MJ
+
+evento realizado (unidade)
+
+15
+
+00183951
+
+250.000,00
+
+370
+
+Criar uma política de atenção integral às vítimas de sofrimento psíquico na área da saúde mental, assegurando o cumprimento da carta de direitos dos usuários de saúde mental e o monitoramento dos hospitais psiquiátricos.
+
+MS, MJ
+
+paciente assistido (unidade)
+
+5.500
+
+00180591
+
+5.000.000,00
+
+paciente atendido (unidade)
+
+220.000
+
+00182743
+
+25.000.000,00
+
+estudo / pesquisa publicada (unidade)
+
+3
+
+00183892
+
+1.170.000,00
+
+Dependência Química
+
+*
+
+371
+
+Promover campanhas nacionais de prevenção do alcoolismo e do uso de drogas que geram dependência química, incentivando estudos, pesquisas e programas para limitar a incidência e o impacto do consumo de drogas ilícitas.
+
+PR, MS
+
+campanha realizada (unidade)
+
+5
+
+06653681
+
+1.917.110,00
+
+372
+
+Propor o tratamento dos dependentes de drogas sob o enfoque de saúde pública.
+
+PR, MS
+
+serviço implantado (unidade)
+
+207
+
+00183911
+
+8.380.000,00
+
+373
+
+Apoiar ações para implementação do Programa de Ação Nacional Antidrogas - PANAD.
+
+PR
+
+fiscalização realizada (unidade)
+
+1.000
+
+06652679
+
+2.391.219,00
+
+pessoa atendida (unidade)
+
+500
+
+06652682
+
+930.000,00
+
+conselho municipal apoiado (unidade)
+
+25
+
+06654221
+
+500.000,00
+
+pesquisa publicada (unidade)
+
+1
+
+06654419
+
+400.000,00
+
+fiscalização apoiada (unidade)
+
+5.000
+
+06656483
+
+1.000.000,00
+
+374
+
+Apoiar programas de assistência e orientação para usuários de drogas, em substituição ao indiciamento em inquérito policial e processo judicial.
+
+PR, MS
+
+centro apoiado (unidade)
+
+10
+
+06654219
+
+200.000,00
+
+agente capacitado (unidade)
+
+20.000
+
+06654197
+
+740.000,00
+
+HIV/AIDS
+
+*
+
+376
+
+Incentivar campanhas de informação sobre DST e HIV/AIDS, visando a esclarecer a população sobre os comportamentos que facilitem ou dificultem a sua transmissão.
+
+MS
+
+campanha realizada (unidade)
+
+18
+
+00033878
+
+15.260.000,00
+
+evento realizado (unidade)
+
+30
+
+00033943
+
+500.000,00
+
+377
+
+Apoiar a melhoria da qualidade do tratamento e assistência das pessoas com HIV/AIDS, incluindo a ampliação da acessibilidade e a redução de custos.
+
+MS
+
+pessoa capacitada (unidade)
+
+20.000
+
+00033880
+
+8.000.000,00
+
+serviço implantado (unidade)
+
+200
+
+00033910
+
+9.279.000,00
+
+grupo atendido (unidade)
+
+30
+
+00033954
+
+21.810.000,00
+
+pessoa atendida (unidade)
+
+1.500.000
+
+00034309
+
+600.000,00
+
+diagnóstico efetuado (unidade)
+
+3.000.000
+
+00034327
+
+23.311.000,00
+
+paciente atendido (unidade)
+
+139.500
+
+00034370
+
+516.000.000,00
+
+379
+
+Incentivar a realização de estudos e pesquisas sobre DST e HIV/AIDS nas diversas áreas do conhecimento, atentando para princípios éticos de pesquisa.
+
+MS
+
+estudo / pesquisa publicada (unidade)
+
+25
+
+00033897
+
+1.500.000,00
+
+Garantia do Direito ao Trabalho
+
+*
+
+385
+
+Organizar banco de dados com indicadores sociais, que traduzam as condições de emprego, subemprego e desemprego, sob a perspectiva de gênero e raça.
+
+MTE
+
+pesquisa publicada (unidade)
+
+7
+
+01061277
+
+6.035.000,00
+
+386
+
+Assegurar o desenvolvimento de programas de qualificação e requalificação profissional compatíveis com as demandas do mercado de trabalho.
+
+MTE
+
+programa avaliado (unidade)
+
+27
+
+01011463
+
+11.551.488,00
+
+supervisão realizada (unidade)
+
+27
+
+01014421
+
+4.200.000,00
+
+empreendedor qualificado (unidade)
+
+276.679
+
+01015405
+
+39.841.723,00
+
+campanha realizada (unidade)
+
+10
+
+01015418
+
+4.000.000,00
+
+pessoa qualificada (unidade)
+
+108.433
+
+01015420
+
+15.630.000,00
+
+trabalhador qualificado (unidade)
+
+234.713
+
+01015424
+
+33.798.600,00
+
+trabalhador qualificado (unidade)
+
+42.575
+
+01015425
+
+6.130.774,00
+
+trabalhador qualificado (unidade)
+
+783.534
+
+01015426
+
+112.829.223,00
+
+trabalhador qualificado (unidade)
+
+310.770
+
+01015427
+
+44.750.880,00
+
+387
+
+Fortalecer a política de concessão do seguro-desemprego
+
+MTE
+
+trabalhador beneficiado (unidade)
+
+10.471
+
+00990217
+
+12.017.245,00
+
+trabalhador beneficiado (unidade)
+
+4.155.147
+
+00990583
+
+5.218.355.565,00
+
+trabalhador doméstico beneficiado (unidade)
+
+133.530
+
+00990653
+
+77.395.208,00
+
+trabalhador colocado (unidade)
+
+821.790
+
+00992550
+
+92.487.990,00
+
+trabalhador habilitado (unidade)
+
+4.676.686
+
+00992633
+
+23.646.907,00
+
+pessoa capacitada (unidade)
+
+1.200
+
+00995101
+
+1.500.000,00
+
+campanha realizada (unidade)
+
+4
+
+00995415
+
+2.000.000,00
+
+399
+
+Fortalecer a atuação do Grupo Especial de Fiscalização Móvel do Ministério do Trabalho e Emprego com vistas à erradicação do trabalho forçado.
+
+MTE
+
+fiscalização realizada (unidade)
+
+28
+
+01072629
+
+1.000.000,00
+
+402
+
+Promover campanhas de sensibilização sobre o trabalho forçado e degradante e as formas contemporâneas de escravidão nos estados onde ocorre trabalho forçado e nos pólos de aliciamento de trabalhadores.
+
+MTE
+
+campanha realizada (unidade)
+
+1
+
+01071911
+
+600.000,00
+
+Acesso a Terra
+
+*
+
+407
+
+Promover a segurança da posse, compreendendo a urbanização de áreas informalmente ocupadas e a regularização de loteamentos populares, assim como a revisão dos instrumentos legais que disciplinam a posse da terra, como a lei que regula os registros públicos (Lei 6.015/73) e a lei federal de parcelamento do solo urbano (Lei 6.766/79).
+
+MDA, INCRA, Congresso Nacional
+
+família beneficiada (unidade)
+
+37.000
+
+01370427
+
+92.500.000,00
+
+família beneficiada (unidade)
+
+37.000
+
+01373668
+
+37.000.000,00
+
+família atendida (unidade)
+
+37.000
+
+01375530
+
+14.800.000,00
+
+família assistida (unidade)
+
+37.000
+
+01375533
+
+6.069.000,00
+
+família atendida (unidade)
+
+37.000
+
+01375609
+
+3.700.000,00
 
 DECRETO Nº 4.229, DE 13 DE MAIO DE 2002 - 4ª PARTE
 
-<table>
-<tr><td>409</td><td>Implementar a regularização fundiária, o reassentamento e a reforma agrária, respeitando os direitos à moradia adequada e acessível, à demarcação de áreas indígenas e à titulação das terras de remanescentes de quilombos.</td><td>MDA, INCRA, Banco da Terra</td><td>área obtida (HA)</td><td>858.525</td><td>01350061</td><td>247.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>37.000</td><td>01350062</td><td>144.300.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família assistida (unidade)</td><td>45.000</td><td>01352108</td><td>610.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família assistida (unidade)</td><td>62.500</td><td>01352109</td><td>1.033.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>imóvel titulado (unidade)</td><td>50.000</td><td>01352111</td><td>6.600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>imóvel identificado (unidade)</td><td>2.188</td><td>01352116</td><td>8.800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>perícia realizada (unidade)</td><td>750</td><td>01352908</td><td>7.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família atendida (unidade)</td><td>37.000</td><td>01355527</td><td>14.800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família atendida (unidade)</td><td>37.857</td><td>01355608</td><td>4.100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>área obtida (HA)</td><td>1.337.432</td><td>01355611</td><td>362.720.000,00</td></tr>
-<tr><td>410</td><td>Criar e apoiar políticas e programas de ação integrados para o assentamento de trabalhadores sem terra, com infraestrutura adequada para a produção agrícola, agroindústria e incentivo a outras atividades econômicas compatíveis com a defesa do meio ambiente.</td><td>MDA, INCRA</td><td>projeto apoiado (unidade)</td><td>10</td><td>01392038</td><td>800.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo realizado (unidade)</td><td>5</td><td>01392103</td><td>1.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>assentamento assistido (unidade)</td><td>404</td><td>01392104</td><td>4.814.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>agente capacitado (unidade)</td><td>400</td><td>01392373</td><td>200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema implantado (% de execução física)</td><td>33</td><td>01397020</td><td>1.700.000,00</td></tr>
-<tr><td>411</td><td>Promover a agricultura familiar e modelos de agricultura sustentável, na perspectiva da distribuição da riqueza e do combate à fome.</td><td>MDA, MAPA</td><td>agricultor beneficiado (unidade)</td><td>938.148</td><td>03510359</td><td>253.300.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>municipio apoiado (unidade)</td><td>1.851</td><td>03511086</td><td>241.839.040,00</td></tr>
-<tr><td></td><td></td><td></td><td>tecnologia gerada (unidade)</td><td>8</td><td>03512174</td><td>11.296.500,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto acompanhado (unidade)</td><td>1.547</td><td>03512607</td><td>7.781.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>agricultor capacitado (unidade)</td><td>42.991</td><td>03513651</td><td>38.360.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo realizado (unidade)</td><td>8</td><td>03513654</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>produtor assistido (unidade)</td><td>132.600</td><td>03515695</td><td>2.260.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>entidade assistida (unidade)</td><td>526</td><td>03515696</td><td>9.674.000,00</td></tr>
-<tr><td>412</td><td>Fortalecer políticas de incentivo à agricultura familiar, em particular nos assentamentos de reforma agrária, transformando-os em base provedora de segurança alimentar local e sustentável.</td><td>MDA</td><td>assentamento assistido (unidade)</td><td>404</td><td>01392104</td><td>4.814.000,00</td></tr>
-<tr><td>416</td><td>Priorizar a regularização fundiária de áreas ocupadas, implantando um padrão mínimo de urbanização, de equipamentos e serviços públicos nos empreendimentos habitacionais e na regularização de áreas ocupadas.</td><td>MDA, Banco da Terra</td><td>família beneficiada (unidade)</td><td>20.800</td><td>01360060</td><td>85.280.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>3.780</td><td>01361177</td><td>15.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>12.200</td><td>01361545</td><td>50.020.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>121.061</td><td>01363667</td><td>104.501.100,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>37.000</td><td>01365613</td><td>11.100.000,00</td></tr>
-<tr><td>Garantia do Direito à Moradia</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>417</td><td>Promover a moradia adequada, incluindo aspectos de habitabilidade, salubridade, condições ambientais, espaço, privacidade, segurança, durabilidade, abastecimento de água, esgoto sanitário, disposição de resíduos sólidos e acessibilidade em relação a emprego e aos equipamentos urbanos, por meio da criação, manutenção e integração de programas e ações voltadas para a habitação, saneamento básico e infraestrutura urbana.</td><td>PR, Estados, Municípios</td><td>família beneficiada (unidade)</td><td>11.385</td><td>01213979</td><td>125.181.587,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>246</td><td>01215015</td><td>3.579.392,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>80.522</td><td>01283958</td><td>204.958.127,00</td></tr>
-<tr><td></td><td></td><td></td><td>unidade habitacional construída (unidade)</td><td>819</td><td>01283978</td><td>4.500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>lote urbanizado (unidade)</td><td>15.500</td><td>01283999</td><td>14.436.600,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>6</td><td>01223980</td><td>3.450.778,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>126.040</td><td>01225876</td><td>72.411.430,00</td></tr>
-<tr><td>Garantia do Direto a um Meio Ambiente Saudável</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>437</td><td>Apoiar programas destinados a ampliar o acesso e a utilização de recursos hídricos, bem como os serviços de tratamento da água.</td><td>MMA</td><td>vazão d`água outorgada (m3/h)</td><td>56.000</td><td>04952901</td><td>32.006.480,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>10</td><td>04952957</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>10</td><td>04953027</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>projeto elaborado (unidade)</td><td>25</td><td>04953028</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>4</td><td>04953042</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>estudo realizado (unidade)</td><td>7</td><td>04971107</td><td>28.206.124,00</td></tr>
-<tr><td></td><td></td><td></td><td>sistema implantado (unidade)</td><td>3</td><td>04971996</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>sistema implementado (% de execução física)</td><td>20</td><td>04971999</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>relatório elaborado (unidade)</td><td>4</td><td>04972396</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>mapa temático elaborado (unidade)</td><td>33</td><td>04972397</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>bacia fiscalizada (unidade)</td><td>50</td><td>04972947</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>vazão d`água outorgada (m3/h)</td><td>642.627</td><td>04972977</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>plano elaborado (unidade)</td><td>4</td><td>04973046</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>entidade apoiada (unidade)</td><td>5</td><td>04973871</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>área recuperada (HA)</td><td>113.300</td><td>04975305</td><td></td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>1.000</td><td>04977401</td><td></td></tr>
-<tr><td>438</td><td>Apoiar programas de saneamento básico, visando à qualidade de vida dos cidadãos e à redução dos impactos ambientais, incluindo programa de educação sanitária, com foco na prevenção de doenças e no uso racional dos recursos naturais.</td><td>MS</td><td>família beneficiada (unidade)</td><td>342.162</td><td>01193859</td><td>307.871.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>210.621</td><td>01193860</td><td>227.468.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>712.875</td><td>01193861</td><td>427.725.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>família beneficiada (unidade)</td><td>44.440</td><td>01193984</td><td>8.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>417</td><td></td><td>*</td><td></td></tr>
-<tr><td>441</td><td>Fortalecer o controle público das águas e desenvolver programas de revitalização de rios, mangues e praias, implementando comitês ou conselhos de bacias e sub-bacias, com a participação de representantes da sociedade civil.</td><td>MMA</td><td>437</td><td></td><td>*</td><td></td></tr>
-<tr><td>Garantia do Direito à Alimentação</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>444</td><td>Apoiar programas que tenham como objetivo o estímulo ao aleitamento materno.</td><td>MS</td><td>337</td><td></td><td>*</td><td></td></tr>
-<tr><td>447</td><td>Ampliar o sistema de vigilância alimentar e nutricional e promover ações educativas voltadas à adoção de hábitos de alimentação saudáveis.</td><td>MS, MAPA</td><td>estabelecimento qualificado (unidade)</td><td>100</td><td>03562120</td><td>2.600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estabelecimento inspecionado (unidade</td><td>6.000</td><td>03562131</td><td>1.792.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>laboratório mantido (unidade)</td><td>5</td><td>03562132</td><td>6.860.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>laboratório mantido (unidade)</td><td>6</td><td>03562136</td><td>3.665.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estabelecimento inspecionado (unidade</td><td>4.170</td><td>03562145</td><td>3.212.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>produto tipificado (unidade)</td><td>64.728</td><td>03562146</td><td>670.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>produto padronizado (unidade)</td><td>11</td><td>03562148</td><td>1.610.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estabelecimento fiscalizado (unidade)</td><td>9.000</td><td>03562150</td><td>2.656.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>tecnologia gerada (unidade)</td><td>2</td><td>03562163</td><td>1.542.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>tecnologia gerada (unidade)</td><td>23</td><td>03562164</td><td>8.456.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>certificado emitido (unidade)</td><td>165.200</td><td>03562487</td><td>1.200.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>produto classificado (ton)</td><td>7.000.000</td><td>03564239</td><td>2.869.000,00</td></tr>
-<tr><td>448</td><td>Ampliar o abastecimento alimentar, quantitativa e qualitativamente, com maior autonomia e fortalecimento da economia local, associada a programas de capacitação, geração de ocupações produtivas e aumento da renda familiar.</td><td>MAPA, MS</td><td>449</td><td></td><td>*</td><td></td></tr>
-<tr><td>449</td><td>Melhorar o acesso da população urbana e rural a uma alimentação de qualidade, com ampla disseminação de informações sobre práticas alimentares e estilos de vida saudáveis.</td><td>MS</td><td>bolsa alimentação concedida (unidade)</td><td>1.623.000</td><td>00080357</td><td>300.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>população coberta (unidade)</td><td>922.544</td><td>00080603</td><td>167.000.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa publicada (unidade)</td><td>20</td><td>00083890</td><td>3.100.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>78</td><td>00083945</td><td>500.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa beneficiada (unidade)</td><td>6.000.000</td><td>00084294</td><td>2.000.000,00</td></tr>
-<tr><td>450</td><td>Criar e implementar programas de segurança alimentar permanentes para as famílias carentes, fiscalizados e coordenados por associações de bairros em todos os estados.</td><td>MAPA</td><td>449</td><td></td><td>*</td><td></td></tr>
-<tr><td>454</td><td>Fomentar pesquisas que promovam ganhos de produtividade nas várias culturas, com vistas a criar estoques reguladores que assegurem alimentos a todos os cidadãos, particularmente aos mais pobres.</td><td>MAPA</td><td></td><td></td><td>0361</td><td>11.392.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>0363</td><td>4.820.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>0367</td><td>3.302.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>0368</td><td>9.720.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>0369</td><td>6.157.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>0371</td><td>3.725.000,00</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td>0372</td><td>14.774.750,00</td></tr>
-<tr><td>457</td><td>Promover a agricultura familiar e um modelo de agricultura sustentável, na perspectiva da distribuição da riqueza e do combate à fome.</td><td>MAPA, MDA</td><td>411</td><td></td><td>*</td><td></td></tr>
-<tr><td>Garantia do Direito à Cultura e ao Lazer</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>459</td><td>Garantir a expressão das identidades locais e regionais, considerando a diversidade étnica e cultural do país, através de políticas públicas de apoio e estímulo à sua preservação.</td><td>MinC</td><td>projeto apoiado (unidade)</td><td>76</td><td>01690497</td><td>10.130.569,00</td></tr>
-<tr><td></td><td></td><td></td><td>projeto apoiado (unidade)</td><td>32</td><td>01700499</td><td>13.113.893,00</td></tr>
-<tr><td></td><td></td><td></td><td>espaço cultural implantado / modernizado (unidade)</td><td>38</td><td>01701611</td><td>3.044.638,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>78.000</td><td>01701633</td><td>1.066.772,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa realizada (unidade)</td><td>5</td><td>01701582</td><td>81.000,00</td></tr>
-<tr><td>461</td><td>Garantir a proteção, preservação, restauração, recuperação e acesso aos bens tombados, conjuntos urbanísticos, monumentos culturais e naturais, edificações, sítios arqueológicos, peças de museus, bibliotecas e arquivos em todo o país.</td><td>MinC</td><td>projeto apoiado (unidade)</td><td>101</td><td>01672636</td><td>8.536.520,00</td></tr>
-<tr><td></td><td></td><td></td><td>bem preservado (unidade)</td><td>140</td><td>01672636</td><td>12.858.342,00</td></tr>
-<tr><td></td><td></td><td></td><td>agente capacitado (unidade)</td><td>120</td><td>01671502</td><td>120.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>exemplar distribuído (unidade)</td><td>16.500</td><td>01671527</td><td>330.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>bem registrado (unidade)</td><td>4</td><td>01671532</td><td>250.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>bem tombado (unidade)</td><td>54</td><td>01671538</td><td>220.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>prêmio concedido (unidade)</td><td>8</td><td>01671563</td><td>150.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>estudo / pesquisa realizada (unidade)</td><td>3</td><td>01671583</td><td>300.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>bem inventariado (unidade)</td><td>5.938</td><td>01671610</td><td>450.613,00</td></tr>
-<tr><td></td><td></td><td></td><td>sítio revitalizado (unidade)</td><td>7</td><td>01671648</td><td>788.630,00</td></tr>
-<tr><td></td><td></td><td></td><td>servidor capacitado (unidade)</td><td>150</td><td>01671759</td><td>160.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>museu modernizado (unidade)</td><td>10</td><td>01711612</td><td>1.693.810,00</td></tr>
-<tr><td></td><td></td><td></td><td>evento realizado (unidade)</td><td>19</td><td>01671814</td><td>226.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>pessoa capacitada (unidade)</td><td>500</td><td>08135017</td><td>1.121.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>campanha realizada (unidade)</td><td>1</td><td>08135021</td><td>2.227.200,00</td></tr>
-<tr><td></td><td></td><td></td><td>conjunto histórico preservado (unidade)</td><td>27</td><td>08135538</td><td>12.672.800,00</td></tr>
-<tr><td>466</td><td>Apoiar programas de revalorização e criação de casas de cultura, bibliotecas e arquivos públicos.</td><td>MinC</td><td>biblioteca implantada (unidade)</td><td>210</td><td>01681521</td><td>8.486.021,00</td></tr>
-<tr><td></td><td></td><td></td><td>público atendido (unidade)</td><td>530.000</td><td>01682650</td><td>3.470.000,00</td></tr>
-<tr><td>467</td><td>Apoiar a implementação do programa `Rota dos Escravos`, que prevê a recuperação, compilação e tratamento de arquivos históricos (fontes primárias) relativos ao tráfico de escravos, e o tratamento informatizado deste material, com a constituição de um banco de dados sobre o assunto.</td><td>MinC</td><td>202</td><td></td><td>*</td><td></td></tr>
-<tr><td>Educação, Conscientização e Mobilização</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>468</td><td>Apoiar a ampliação de programas voltados para jovens de 15 a 18 anos, que possibilitem o acesso à complementação educacional, qualificação profissional, capacitação em direitos humanos e participação comunitária, a exemplo dos Programas "Agente Jovem de Desenvolvimento Social e Humano" e "Serviço Civil Voluntário".</td><td>MPAS, MTE, MJ</td><td>pessoa qualificada (unidade)</td><td>187.938</td><td>01015422</td><td>29.600.000,00</td></tr>
-<tr><td></td><td></td><td></td><td>serviço civil gerenciado (unidade)</td><td>19</td><td>01542447</td><td>2.000.000,00</td></tr>
-<tr><td>474</td><td>Incentivar a criação de canais de acesso direto da população a informações e meios de proteção aos direitos humanos, como linhas telefônicas especiais.</td><td>MJ</td><td>56</td><td></td><td>*</td><td></td></tr>
-<tr><td>475</td><td>Apoiar programas de formação, educação e treinamento em direitos humanos para profissionais de direito, policiais, agentes penitenciários e lideranças sindicais, associativas e comunitárias.</td><td>MJ</td><td>pessoa capacitada (unidade)</td><td>12.750</td><td>01543811</td><td>2.550.000,00</td></tr>
-<tr><td>477</td><td>Apoiar a realização de fóruns, seminários e workshops na área de direitos humanos.</td><td>MJ</td><td>3</td><td></td><td>*</td><td></td></tr>
-<tr><td>478</td><td>Apoiar a estruturação da Rede Nacional de Direitos Humanos - http://www.rndh.gov.br, a criação de bancos de dados com informações relativas a entidades, representantes políticos, empresas, sindicatos, igrejas, escolas e associações comprometidos com a proteção e promoção dos direitos humanos, em nível nacional, e a divulgação de informações sobre direitos humanos por meio da internet.</td><td>MJ</td><td>rede estruturada (% de execução física)</td><td>25</td><td>01551767</td><td>850.000,00</td></tr>
-<tr><td>482</td><td>Promover programas de formação e qualificação de agentes comunitários de justiça e de direitos humanos, assim como programas de qualificação dos membros de conselhos municipais, estaduais e federais de direitos humanos.</td><td>MJ</td><td>475</td><td></td><td>*</td><td></td></tr>
-<tr><td>Inserção nos Sistemas Internacionais de Proteção</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>Implementação e Monitoramento</td><td></td><td></td><td></td><td>*</td><td></td><td></td></tr>
-<tr><td>512</td><td>Atribuir à Secretaria de Estado dos Direitos Humanos - SEDH a responsabilidade pela coordenação da implementação, monitoramento e atualização do Programa Nacional de Direitos Humanos.</td><td>MJ</td><td>sistema implantado (% de execução física)</td><td>13</td><td>01551796</td><td>247.000,00</td></tr>
-</table>
+409
+
+Implementar a regularização fundiária, o reassentamento e a reforma agrária, respeitando os direitos à moradia adequada e acessível, à demarcação de áreas indígenas e à titulação das terras de remanescentes de quilombos.
+
+MDA, INCRA, Banco da Terra
+
+área obtida (HA)
+
+858.525
+
+01350061
+
+247.500.000,00
+
+família beneficiada (unidade)
+
+37.000
+
+01350062
+
+144.300.000,00
+
+família assistida (unidade)
+
+45.000
+
+01352108
+
+610.000,00
+
+família assistida (unidade)
+
+62.500
+
+01352109
+
+1.033.000,00
+
+imóvel titulado (unidade)
+
+50.000
+
+01352111
+
+6.600.000,00
+
+imóvel identificado (unidade)
+
+2.188
+
+01352116
+
+8.800.000,00
+
+perícia realizada (unidade)
+
+750
+
+01352908
+
+7.500.000,00
+
+família atendida (unidade)
+
+37.000
+
+01355527
+
+14.800.000,00
+
+família atendida (unidade)
+
+37.857
+
+01355608
+
+4.100.000,00
+
+área obtida (HA)
+
+1.337.432
+
+01355611
+
+362.720.000,00
+
+410
+
+Criar e apoiar políticas e programas de ação integrados para o assentamento de trabalhadores sem terra, com infraestrutura adequada para a produção agrícola, agroindústria e incentivo a outras atividades econômicas compatíveis com a defesa do meio ambiente.
+
+MDA, INCRA
+
+projeto apoiado (unidade)
+
+10
+
+01392038
+
+800.000,00
+
+estudo realizado (unidade)
+
+5
+
+01392103
+
+1.000.000,00
+
+assentamento assistido (unidade)
+
+404
+
+01392104
+
+4.814.000,00
+
+agente capacitado (unidade)
+
+400
+
+01392373
+
+200.000,00
+
+sistema implantado (% de execução física)
+
+33
+
+01397020
+
+1.700.000,00
+
+411
+
+Promover a agricultura familiar e modelos de agricultura sustentável, na perspectiva da distribuição da riqueza e do combate à fome.
+
+MDA, MAPA
+
+agricultor beneficiado (unidade)
+
+938.148
+
+03510359
+
+253.300.000,00
+
+municipio apoiado (unidade)
+
+1.851
+
+03511086
+
+241.839.040,00
+
+tecnologia gerada (unidade)
+
+8
+
+03512174
+
+11.296.500,00
+
+projeto acompanhado (unidade)
+
+1.547
+
+03512607
+
+7.781.000,00
+
+agricultor capacitado (unidade)
+
+42.991
+
+03513651
+
+38.360.000,00
+
+estudo realizado (unidade)
+
+8
+
+03513654
+
+500.000,00
+
+produtor assistido (unidade)
+
+132.600
+
+03515695
+
+2.260.000,00
+
+entidade assistida (unidade)
+
+526
+
+03515696
+
+9.674.000,00
+
+412
+
+Fortalecer políticas de incentivo à agricultura familiar, em particular nos assentamentos de reforma agrária, transformando-os em base provedora de segurança alimentar local e sustentável.
+
+MDA
+
+assentamento assistido (unidade)
+
+404
+
+01392104
+
+4.814.000,00
+
+416
+
+Priorizar a regularização fundiária de áreas ocupadas, implantando um padrão mínimo de urbanização, de equipamentos e serviços públicos nos empreendimentos habitacionais e na regularização de áreas ocupadas.
+
+MDA, Banco da Terra
+
+família beneficiada (unidade)
+
+20.800
+
+01360060
+
+85.280.000,00
+
+família beneficiada (unidade)
+
+3.780
+
+01361177
+
+15.500.000,00
+
+família beneficiada (unidade)
+
+12.200
+
+01361545
+
+50.020.000,00
+
+família beneficiada (unidade)
+
+121.061
+
+01363667
+
+104.501.100,00
+
+família beneficiada (unidade)
+
+37.000
+
+01365613
+
+11.100.000,00
+
+Garantia do Direito à Moradia
+
+*
+
+417
+
+Promover a moradia adequada, incluindo aspectos de habitabilidade, salubridade, condições ambientais, espaço, privacidade, segurança, durabilidade, abastecimento de água, esgoto sanitário, disposição de resíduos sólidos e acessibilidade em relação a emprego e aos equipamentos urbanos, por meio da criação, manutenção e integração de programas e ações voltadas para a habitação, saneamento básico e infraestrutura urbana.
+
+PR, Estados, Municípios
+
+família beneficiada (unidade)
+
+11.385
+
+01213979
+
+125.181.587,00
+
+projeto apoiado (unidade)
+
+246
+
+01215015
+
+3.579.392,00
+
+família beneficiada (unidade)
+
+80.522
+
+01283958
+
+204.958.127,00
+
+unidade habitacional construída (unidade)
+
+819
+
+01283978
+
+4.500.000,00
+
+lote urbanizado (unidade)
+
+15.500
+
+01283999
+
+14.436.600,00
+
+projeto apoiado (unidade)
+
+6
+
+01223980
+
+3.450.778,00
+
+família beneficiada (unidade)
+
+126.040
+
+01225876
+
+72.411.430,00
+
+Garantia do Direto a um Meio Ambiente Saudável
+
+*
+
+437
+
+Apoiar programas destinados a ampliar o acesso e a utilização de recursos hídricos, bem como os serviços de tratamento da água.
+
+MMA
+
+vazão d`água outorgada (m3/h)
+
+56.000
+
+04952901
+
+32.006.480,00
+
+projeto apoiado (unidade)
+
+10
+
+04952957
+
+projeto apoiado (unidade)
+
+10
+
+04953027
+
+projeto elaborado (unidade)
+
+25
+
+04953028
+
+projeto apoiado (unidade)
+
+4
+
+04953042
+
+estudo realizado (unidade)
+
+7
+
+04971107
+
+28.206.124,00
+
+sistema implantado (unidade)
+
+3
+
+04971996
+
+sistema implementado (% de execução física)
+
+20
+
+04971999
+
+relatório elaborado (unidade)
+
+4
+
+04972396
+
+mapa temático elaborado (unidade)
+
+33
+
+04972397
+
+bacia fiscalizada (unidade)
+
+50
+
+04972947
+
+vazão d`água outorgada (m3/h)
+
+642.627
+
+04972977
+
+plano elaborado (unidade)
+
+4
+
+04973046
+
+entidade apoiada (unidade)
+
+5
+
+04973871
+
+área recuperada (HA)
+
+113.300
+
+04975305
+
+pessoa capacitada (unidade)
+
+1.000
+
+04977401
+
+438
+
+Apoiar programas de saneamento básico, visando à qualidade de vida dos cidadãos e à redução dos impactos ambientais, incluindo programa de educação sanitária, com foco na prevenção de doenças e no uso racional dos recursos naturais.
+
+MS
+
+família beneficiada (unidade)
+
+342.162
+
+01193859
+
+307.871.000,00
+
+família beneficiada (unidade)
+
+210.621
+
+01193860
+
+227.468.000,00
+
+família beneficiada (unidade)
+
+712.875
+
+01193861
+
+427.725.000,00
+
+família beneficiada (unidade)
+
+44.440
+
+01193984
+
+8.000.000,00
+
+417
+
+*
+
+441
+
+Fortalecer o controle público das águas e desenvolver programas de revitalização de rios, mangues e praias, implementando comitês ou conselhos de bacias e sub-bacias, com a participação de representantes da sociedade civil.
+
+MMA
+
+437
+
+*
+
+Garantia do Direito à Alimentação
+
+*
+
+444
+
+Apoiar programas que tenham como objetivo o estímulo ao aleitamento materno.
+
+MS
+
+337
+
+*
+
+447
+
+Ampliar o sistema de vigilância alimentar e nutricional e promover ações educativas voltadas à adoção de hábitos de alimentação saudáveis.
+
+MS, MAPA
+
+estabelecimento qualificado (unidade)
+
+100
+
+03562120
+
+2.600.000,00
+
+estabelecimento inspecionado (unidade
+
+6.000
+
+03562131
+
+1.792.000,00
+
+laboratório mantido (unidade)
+
+5
+
+03562132
+
+6.860.000,00
+
+laboratório mantido (unidade)
+
+6
+
+03562136
+
+3.665.000,00
+
+estabelecimento inspecionado (unidade
+
+4.170
+
+03562145
+
+3.212.000,00
+
+produto tipificado (unidade)
+
+64.728
+
+03562146
+
+670.000,00
+
+produto padronizado (unidade)
+
+11
+
+03562148
+
+1.610.000,00
+
+estabelecimento fiscalizado (unidade)
+
+9.000
+
+03562150
+
+2.656.000,00
+
+tecnologia gerada (unidade)
+
+2
+
+03562163
+
+1.542.000,00
+
+tecnologia gerada (unidade)
+
+23
+
+03562164
+
+8.456.000,00
+
+certificado emitido (unidade)
+
+165.200
+
+03562487
+
+1.200.000,00
+
+produto classificado (ton)
+
+7.000.000
+
+03564239
+
+2.869.000,00
+
+448
+
+Ampliar o abastecimento alimentar, quantitativa e qualitativamente, com maior autonomia e fortalecimento da economia local, associada a programas de capacitação, geração de ocupações produtivas e aumento da renda familiar.
+
+MAPA, MS
+
+449
+
+*
+
+449
+
+Melhorar o acesso da população urbana e rural a uma alimentação de qualidade, com ampla disseminação de informações sobre práticas alimentares e estilos de vida saudáveis.
+
+MS
+
+bolsa alimentação concedida (unidade)
+
+1.623.000
+
+00080357
+
+300.000.000,00
+
+população coberta (unidade)
+
+922.544
+
+00080603
+
+167.000.000,00
+
+estudo / pesquisa publicada (unidade)
+
+20
+
+00083890
+
+3.100.000,00
+
+evento realizado (unidade)
+
+78
+
+00083945
+
+500.000,00
+
+pessoa beneficiada (unidade)
+
+6.000.000
+
+00084294
+
+2.000.000,00
+
+450
+
+Criar e implementar programas de segurança alimentar permanentes para as famílias carentes, fiscalizados e coordenados por associações de bairros em todos os estados.
+
+MAPA
+
+449
+
+*
+
+454
+
+Fomentar pesquisas que promovam ganhos de produtividade nas várias culturas, com vistas a criar estoques reguladores que assegurem alimentos a todos os cidadãos, particularmente aos mais pobres.
+
+MAPA
+
+0361
+
+11.392.000,00
+
+0363
+
+4.820.000,00
+
+0367
+
+3.302.000,00
+
+0368
+
+9.720.000,00
+
+0369
+
+6.157.000,00
+
+0371
+
+3.725.000,00
+
+0372
+
+14.774.750,00
+
+457
+
+Promover a agricultura familiar e um modelo de agricultura sustentável, na perspectiva da distribuição da riqueza e do combate à fome.
+
+MAPA, MDA
+
+411
+
+*
+
+Garantia do Direito à Cultura e ao Lazer
+
+*
+
+459
+
+Garantir a expressão das identidades locais e regionais, considerando a diversidade étnica e cultural do país, através de políticas públicas de apoio e estímulo à sua preservação.
+
+MinC
+
+projeto apoiado (unidade)
+
+76
+
+01690497
+
+10.130.569,00
+
+projeto apoiado (unidade)
+
+32
+
+01700499
+
+13.113.893,00
+
+espaço cultural implantado / modernizado (unidade)
+
+38
+
+01701611
+
+3.044.638,00
+
+exemplar distribuído (unidade)
+
+78.000
+
+01701633
+
+1.066.772,00
+
+estudo / pesquisa realizada (unidade)
+
+5
+
+01701582
+
+81.000,00
+
+461
+
+Garantir a proteção, preservação, restauração, recuperação e acesso aos bens tombados, conjuntos urbanísticos, monumentos culturais e naturais, edificações, sítios arqueológicos, peças de museus, bibliotecas e arquivos em todo o país.
+
+MinC
+
+projeto apoiado (unidade)
+
+101
+
+01672636
+
+8.536.520,00
+
+bem preservado (unidade)
+
+140
+
+01672636
+
+12.858.342,00
+
+agente capacitado (unidade)
+
+120
+
+01671502
+
+120.000,00
+
+exemplar distribuído (unidade)
+
+16.500
+
+01671527
+
+330.000,00
+
+bem registrado (unidade)
+
+4
+
+01671532
+
+250.000,00
+
+bem tombado (unidade)
+
+54
+
+01671538
+
+220.000,00
+
+prêmio concedido (unidade)
+
+8
+
+01671563
+
+150.000,00
+
+estudo / pesquisa realizada (unidade)
+
+3
+
+01671583
+
+300.000,00
+
+bem inventariado (unidade)
+
+5.938
+
+01671610
+
+450.613,00
+
+sítio revitalizado (unidade)
+
+7
+
+01671648
+
+788.630,00
+
+servidor capacitado (unidade)
+
+150
+
+01671759
+
+160.000,00
+
+museu modernizado (unidade)
+
+10
+
+01711612
+
+1.693.810,00
+
+evento realizado (unidade)
+
+19
+
+01671814
+
+226.000,00
+
+pessoa capacitada (unidade)
+
+500
+
+08135017
+
+1.121.000,00
+
+campanha realizada (unidade)
+
+1
+
+08135021
+
+2.227.200,00
+
+conjunto histórico preservado (unidade)
+
+27
+
+08135538
+
+12.672.800,00
+
+466
+
+Apoiar programas de revalorização e criação de casas de cultura, bibliotecas e arquivos públicos.
+
+MinC
+
+biblioteca implantada (unidade)
+
+210
+
+01681521
+
+8.486.021,00
+
+público atendido (unidade)
+
+530.000
+
+01682650
+
+3.470.000,00
+
+467
+
+Apoiar a implementação do programa `Rota dos Escravos`, que prevê a recuperação, compilação e tratamento de arquivos históricos (fontes primárias) relativos ao tráfico de escravos, e o tratamento informatizado deste material, com a constituição de um banco de dados sobre o assunto.
+
+MinC
+
+202
+
+*
+
+Educação, Conscientização e Mobilização
+
+*
+
+468
+
+Apoiar a ampliação de programas voltados para jovens de 15 a 18 anos, que possibilitem o acesso à complementação educacional, qualificação profissional, capacitação em direitos humanos e participação comunitária, a exemplo dos Programas "Agente Jovem de Desenvolvimento Social e Humano" e "Serviço Civil Voluntário".
+
+MPAS, MTE, MJ
+
+pessoa qualificada (unidade)
+
+187.938
+
+01015422
+
+29.600.000,00
+
+serviço civil gerenciado (unidade)
+
+19
+
+01542447
+
+2.000.000,00
+
+474
+
+Incentivar a criação de canais de acesso direto da população a informações e meios de proteção aos direitos humanos, como linhas telefônicas especiais.
+
+MJ
+
+56
+
+*
+
+475
+
+Apoiar programas de formação, educação e treinamento em direitos humanos para profissionais de direito, policiais, agentes penitenciários e lideranças sindicais, associativas e comunitárias.
+
+MJ
+
+pessoa capacitada (unidade)
+
+12.750
+
+01543811
+
+2.550.000,00
+
+477
+
+Apoiar a realização de fóruns, seminários e workshops na área de direitos humanos.
+
+MJ
+
+3
+
+*
+
+478
+
+Apoiar a estruturação da Rede Nacional de Direitos Humanos - http://www.rndh.gov.br, a criação de bancos de dados com informações relativas a entidades, representantes políticos, empresas, sindicatos, igrejas, escolas e associações comprometidos com a proteção e promoção dos direitos humanos, em nível nacional, e a divulgação de informações sobre direitos humanos por meio da internet.
+
+MJ
+
+rede estruturada (% de execução física)
+
+25
+
+01551767
+
+850.000,00
+
+482
+
+Promover programas de formação e qualificação de agentes comunitários de justiça e de direitos humanos, assim como programas de qualificação dos membros de conselhos municipais, estaduais e federais de direitos humanos.
+
+MJ
+
+475
+
+*
+
+Inserção nos Sistemas Internacionais de Proteção
+
+*
+
+Implementação e Monitoramento
+
+*
+
+512
+
+Atribuir à Secretaria de Estado dos Direitos Humanos - SEDH a responsabilidade pela coordenação da implementação, monitoramento e atualização do Programa Nacional de Direitos Humanos.
+
+MJ
+
+sistema implantado (% de execução física)
+
+13
+
+01551796
+
+247.000,00

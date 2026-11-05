@@ -1,5 +1,3 @@
-###DEC-058978-0-000-03-08-1966@@@
-
 DECRETO Nº 58.978, DE 3 DE AGÔSTO DE 1966.
 
 Cria as Estações Experimentais da Rodovia Belém-Brasília e do Sudoeste do Paraná, subordinadas, respectivamente, ao Instituo de Pesquisas e Experimentação Agropecuárias do Norte (IPEAN) e Instituto de .Pesquisa e Experimentação Agropecuárias do Sul (IPEAS), do Departamento de Pesquisas e Experimentação Agropecuárias, do Ministério da Agricultura.

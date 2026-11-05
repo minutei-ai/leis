@@ -1,5 +1,3 @@
-###DEC-070041-0-000-24-01-1972@@@
-
 DECRETO Nº 70.041, DE 24 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Instituto Nossa Senhora da Assunção, com sede em Rio Claro, Estado de São Paulo.

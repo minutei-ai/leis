@@ -1,5 +1,3 @@
-###DEL-008503-0-000-29-12-1945@@@
-
 DECRETO-LEI N. 8.503 – DE 29 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 36.834,50 para classificação de despesa.

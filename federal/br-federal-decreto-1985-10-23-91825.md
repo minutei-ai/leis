@@ -1,5 +1,3 @@
-###DEC-091825-0-000-23-10-1985@@@
-
 Decreto nº 91.825, de 23 de outubro de 1985
 
 Outorga concessão à RÁDIO GUARANI DO MARAJÓ LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Soure, Estado do Pará.

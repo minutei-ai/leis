@@ -1,5 +1,3 @@
-###DEC-080543-0-000-11-10-1977@@@
-
 DECRETO Nº 80.543, DE 11 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Ciências Exatas, Administrativas e Sociais, com sede na cidade de Brasília, Distrito Federal.

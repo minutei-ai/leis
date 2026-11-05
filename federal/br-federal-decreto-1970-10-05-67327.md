@@ -1,5 +1,3 @@
-###DEC-067327-0-000-05-10-1970@@@
-
 DECRETO Nº 67.327, DE 5 DE OUTUBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Permanente - do Ministério das Relações Exteriores cargos originários do Ministério das Comunicações.

@@ -1,5 +1,3 @@
-###DEC-068985-0-000-26-07-1971@@@
-
 DECRETO Nº 68.985, DE 26 DE JULHO DE 1971.
 
 Altera a redação do artigo 35 do Regulamento aprovado pelo Decreto número 42.251, de 6 de setembro de 1957, e dá outras providências.

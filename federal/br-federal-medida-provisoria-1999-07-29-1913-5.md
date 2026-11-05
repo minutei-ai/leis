@@ -1,5 +1,3 @@
-###MPV-001913-0-005-29-07-1999@@@
-
 MEDIDA PROVISORIA N.º 1.913-5, DE 29 DE JULHO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

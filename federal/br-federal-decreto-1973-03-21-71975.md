@@ -1,5 +1,3 @@
-###DEC-071975-0-000-21-03-1973@@@
-
 DECRETO Nº 71.795, DE 21 DE MARÇO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à construção de uma subestação, no Estado de São Paulo.

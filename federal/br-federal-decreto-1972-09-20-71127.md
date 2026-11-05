@@ -1,5 +1,3 @@
-###DEC-071127-0-000-20-09-1972@@@
-
 Decreto nº 71.127, de 20 de setembro de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um terreno urbano, com benfeitorias, situado na cidade do Rio de Janeiro, Estado da Guanabara, destinado a construção da Estação Rádio-Central do Rio de Janeiro, pela Companhia Telefônica Brasileira.

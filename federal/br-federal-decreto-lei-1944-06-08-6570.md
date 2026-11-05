@@ -1,5 +1,3 @@
-###DEL-006570-0-000-08-06-1944@@@
-
 DECRETO-LEI N. 6.570 – DE 8 DE JUNHO DE 1944
 
 Torna extensivo à Aeronáutica o disposto no Decreto-lei nº 6.407, de 6 de abril do corrente ano

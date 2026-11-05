@@ -1,5 +1,3 @@
-###DEL-002940-0-000-10-01-1941@@@
-
 DECRETO-LEI N. 2.940 – DE 10 DE JANEIRO DE 1941
 
 Cria a função gratificada de Secretário da Escola Nacional de Agronomia e dá outras providências

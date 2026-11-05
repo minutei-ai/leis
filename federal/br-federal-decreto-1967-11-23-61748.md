@@ -1,5 +1,3 @@
-###DEC-061748-0-000-23-11-1967@@@
-
 DECRETO Nº 61.748, DE 23 DE NOVEMBRO DE 1967.
 
 Transfere da Prefeitura Municipal de Linhas para a Espírito Santo Centrais Elétricas S. A. a concessão para distribuir energia elétrica no município de Linhares, Estado do Espirito Santo.

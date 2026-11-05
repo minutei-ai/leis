@@ -1,5 +1,3 @@
-###DEC-053247-0-000-12-12-1963@@@
-
 DECRETO Nº 53.247,DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Virgílio Ferreira de Castro a pesquisar vermiculita, mica e feldspato, no município de Mercês, Estado de Minas Gerais.

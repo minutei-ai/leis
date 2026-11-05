@@ -1,5 +1,3 @@
-###DEC-003793-0-000-19-04-2001@@@
-
 DECRETO Nº 3.793, DE 19 DE ABRIL DE 2001 (\*)
 
 Regulamenta a redução da alíquota do imposto de renda incidente sobre as remessas, para o exterior, nos termos do art. 9º da Medida Provisória nº 2.062-64, de 27 de março de 2001.

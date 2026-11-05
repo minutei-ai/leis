@@ -1,5 +1,3 @@
-###DEC-088173-0-000-10-03-1983@@@
-
 Decreto nº 88.173, de 10 dE Março de 1983
 
 Outorga concessão à RÁDIO CULTURA DO OESTE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Pau dos Ferros, Estado do Rio Grande do Norte.

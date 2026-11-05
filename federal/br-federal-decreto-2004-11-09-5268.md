@@ -1,5 +1,3 @@
-###DEC-005268-0-000-09-11-2004@@@
-
 DECRETO Nº 5.268 DE 9 DE NOVEMBRO DE 2004
 
 Dá nova redação ao art. 172 do Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior, e ao art. 4o do Decreto no 5.171, de 6 de agosto de 2004, que regulamenta os §§ 10 e 12 do art. 8o e o inciso IV do art. 28 da Lei nº 10.865, de 30 de abril de 2004, que dispõe sobre a Contribuição para o PIS/PASEP-Importação e a COFINS-Importação, e dá outras providências.

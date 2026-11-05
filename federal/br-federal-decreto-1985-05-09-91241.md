@@ -1,5 +1,3 @@
-###DEC-091241-0-000-09-05-1985@@@
-
 Decreto nº 91.241, de 09 de maio de 1985
 
 Concede à Telecomunicações Aeronáuticas S/A - TASA, autorização para proceder o aumento de seu capital social.

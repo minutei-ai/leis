@@ -1,5 +1,3 @@
-###DEC-059063-0-000-12-08-1966@@@
-
 DECRETO Nº 59.063, de 12 de agôsto de 1966.
 
 Cria o Centro de Processamento de Dados do Exército

@@ -1,5 +1,3 @@
-###DEC-004483-0-000-25-11-2002@@@
-
 DECRETO Nº 4.483, DE 25 DE NOVEMBRO DE 2002
 
 Dá nova redação ao § 2º do art. 28 do Decreto nº 1.494, de 17 de maio de 1995, que regulamenta a Lei nº 8.313, de 23 de dezembro de 1991, e estabelece a sistemática de execução do Programa Nacional de Apoio à Cultura - PRONAC.
@@ -15,8 +13,6 @@ Brasília, 25 de novembro de 2002; 181º da Independência e 114º da República
 FERNANDO HENRIQUE CARDOSO
 
 Francisco Weffort
-
-###DEC-004483-0-000-25-11-2002@@@REP01+++
 
 DECRETO N. 4.483 – DE 25 DE NOVEMBRO DE 2002(\*)
 

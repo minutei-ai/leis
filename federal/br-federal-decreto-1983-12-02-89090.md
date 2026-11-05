@@ -1,5 +1,3 @@
-###DEC-089090-0-000-02-12-1983@@@
-
 Decreto nº 89.090, de 02 de dezembro de 1983
 
 Declara de utilidade pública para fins de desapropriação, área de terreno, sem benfeitoria, situada no Bairro do Polvilho, no Município de Cajamar, Estado de São Paulo, destinada a instalação de Central Telefônica, a cargo de Telecomunicações de São Paulo S.A. - TELESP.

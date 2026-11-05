@@ -1,5 +1,3 @@
-###DEC-051862-0-000-25-03-1963@@@
-
 DECRETO Nº 51.862, DE 25 DE MARÇO DE 1963.
 
 Declara de utilidade pública as áreas que menciona no Estado de Goiás.

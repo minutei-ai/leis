@@ -1,5 +1,3 @@
-###DEC-069828-0-000-22-12-1971@@@
-
 decreto nº 69.828 - de 22 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Associação Beneficente do Instituto Brasileiro de Reeducação Motora, com sede no Estado da Guanabara.

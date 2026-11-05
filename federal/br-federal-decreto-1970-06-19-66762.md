@@ -1,5 +1,3 @@
-###DEC-066762-0-000-19-06-1970@@@
-
 DECRETO Nº 66.762 - DE 19 DE JUNHO DE 1970
 
 Declara de utilidade pública a Santa Casa de Misericórdia "São Vicente de Paulo", com sede em São Pedro, Estado de São Paulo.

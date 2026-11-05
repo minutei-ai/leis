@@ -4,22 +4,28 @@ _Dispõe sobre a adequação do Regime Próprio de Previdência Social de Aparec
 
 **PREFEITO DE APARECIDA DE GOIÂNIA** FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU, E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º As aposentadorias dos servidores públicos municipais e as pensões por morte, abrangidas pelo Regime Próprio de Previdência Social - RPPS de que trata a Lei Complementar nº 010, de 20 de junho de 2005, e alterações subsequentes, passam a ser regidas por esta lei complementar.
 
-CAPÍTULO II<br>
-DAS APOSENTADORIAS<br>
+CAPÍTULO II
+
+DAS APOSENTADORIAS
+
  
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Aposentadorias voluntárias
 
-Subseção I<br>
+Subseção I
+
 Da regra geral
 
-Art. 2º O servidor, titular de cargo efetivo, que ingressar após a publicação desta Lei Complementar, no serviço público municipal, poderá se aposentar voluntariamente, desde que atenda cumulativamente aos seguintes requisitos:<br>
+Art. 2º O servidor, titular de cargo efetivo, que ingressar após a publicação desta Lei Complementar, no serviço público municipal, poderá se aposentar voluntariamente, desde que atenda cumulativamente aos seguintes requisitos:
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 2º O servidor público municipal, titular de cargo efetivo, será aposentado voluntariamente, desde que observados, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 10, § 1º, inciso I, alíneas “a” e “b”, da Emenda Constitucional nº 103, de 12 de novembro de 2019:~~
@@ -34,7 +40,8 @@ IV - 5 (cinco) anos no cargo efetivo em que se der a aposentadoria.
 
 Parágrafo único. O valor do benefício será fixado nos termos do art. 12 desta Lei Complementar.
 
-Subseção II<br>
+Subseção II
+
 Da aposentadoria dos servidores que exercem atividades especiais
 
 Art. 3º O servidor público municipal, titular de cargo efetivo, cujas atividades sejam exercidas com efetiva exposição a agentes nocivos químicos, físicos e biológicos prejudiciais à saúde, ou a associação desses agentes, será aposentado voluntariamente, desde que observados, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 10, § 2º, inciso II, da Emenda Constitucional nº 103/2019:
@@ -55,10 +62,12 @@ IV - 5 (cinco) anos no cargo efetivo em que se der a aposentadoria.
 
 § 4º Fica vedada, para fins de aposentadoria especial, a caracterização por categoria profissional ou ocupação, nos termos do artigo 201, § 1º, inciso II, da Constituição Federal.
 
-Subseção III<br>
+Subseção III
+
 Da aposentadoria do professor
 
-Art. 4º O servidor titular de cargo efetivo de professor que ingressar após a publicação desta Lei Complementar, será aposentado voluntariamente, desde que observados, cumulativamente, os seguintes requisitos:<br>
+Art. 4º O servidor titular de cargo efetivo de professor que ingressar após a publicação desta Lei Complementar, será aposentado voluntariamente, desde que observados, cumulativamente, os seguintes requisitos:
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 4º O servidor titular de cargo efetivo de professor será aposentado voluntariamente, desde que observados, cumulativamente, os seguintes requisitos, em simetria ao disposto no art. 10, § 2º, inciso III, da EC nº 103/2019:~~
@@ -85,7 +94,8 @@ III - coordenação e assessoramento pedagógico: funções estritamente pedagó
 
 § 4º Será considerado como tempo de exercício no magistério o período em que o professor tiver exercido ou exercer atividade docente, exclusivamente em sala de aula, nos estabelecimentos privados e conveniados pelo Município, na forma da lei, para efetiva contagem recíproca de tempo.
 
-Subseção IV<br>
+Subseção IV
+
 Da aposentadoria do servidor com deficiência
 
 Art. 5º O servidor com deficiência, titular de cargo efetivo, será aposentado voluntariamente, desde que cumpridos, cumulativamente, 10 (dez) anos de efetivo exercício de serviço público e 5 (cinco) anos no cargo efetivo em que se der a aposentadoria, observadas as seguintes condições, em simetria ao art. 22, _caput_, da EC nº 103/2019:
@@ -108,7 +118,8 @@ IV – tempo mínimo de contribuição de 15 (quinze) anos e comprovada a exist�
 
 § 2º Para o reconhecimento do direito à aposentadoria de que trata o “caput”, considera-se pessoa com deficiência aquela que tem impedimentos de longo prazo de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas.
 
-§ 3º As definições de deficiência leve, moderada e grave, bem como, a comprovação da condição de segurado com deficiência, serão definidas por Perícia Médica Oficial do Município de Aparecida de Goiânia, por meio de avaliação pericial da profissiografia do cargo do servidor.<br>
+§ 3º As definições de deficiência leve, moderada e grave, bem como, a comprovação da condição de segurado com deficiência, serão definidas por Perícia Médica Oficial do Município de Aparecida de Goiânia, por meio de avaliação pericial da profissiografia do cargo do servidor.
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~§ 3º As definições de deficiências grave, moderada e leve, bem como a comprovação da condição de segurado com deficiência, observarão os parâmetros definidos para o segurado do Regime Geral de Previdência Social.~~
@@ -125,7 +136,8 @@ IV – tempo mínimo de contribuição de 15 (quinze) anos e comprovada a exist�
 
 § 9º A redução do tempo de contribuição prevista nesta Lei Complementar não poderá ser acumulada, no tocante ao mesmo período contributivo, com a redução assegurada aos casos de atividades exercidas sob condições especiais que prejudiquem a saúde ou a integridade física.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da aposentadoria por incapacidade permanente para o trabalho
 
 Art. 6º O servidor, titular de cargo efetivo, vinculado ao regime próprio de previdência social municipal, será aposentado por incapacidade permanente para o trabalho no cargo em que estiver investido, quando insuscetível de readaptação, atestado em perícia médica do APARECIDAPREV, em simetria ao disposto no artigo 10, inciso II, da EC nº 103/2019.
@@ -140,10 +152,12 @@ Art. 6º O servidor, titular de cargo efetivo, vinculado ao regime próprio de p
 
 § 5º As disposições relativas à aposentadoria por incapacidade permanente para o trabalho aplicam-se aos servidores municipais, ocupantes de cargo efetivo, independentemente de data do ingresso.
 
-§ 6º Poderá o segurado, requerer previamente a perícia médica prevista no § 1º deste artigo, mediante prévio requerimento administrativo, que poderá ser acatado ou não a critério do perito responsável.<br>
+§ 6º Poderá o segurado, requerer previamente a perícia médica prevista no § 1º deste artigo, mediante prévio requerimento administrativo, que poderá ser acatado ou não a critério do perito responsável.
+
 (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
-Art. 7º As aposentadorias por incapacidade permanente para o trabalho passarão por revisão após o primeiro ano de concessão e o prazo das demais revisões serão determinadas periodicamente por ato discricionário da Perícia Médica do APARECIDAPREV, sob pena de suspensão do pagamento de seu benefício, e caso seja verificada a cessação da incapacidade, o benefício será extinto ex officio e o segurado será revertido à atividade, assegurada a necessidade de readaptação.<br>
+Art. 7º As aposentadorias por incapacidade permanente para o trabalho passarão por revisão após o primeiro ano de concessão e o prazo das demais revisões serão determinadas periodicamente por ato discricionário da Perícia Médica do APARECIDAPREV, sob pena de suspensão do pagamento de seu benefício, e caso seja verificada a cessação da incapacidade, o benefício será extinto ex officio e o segurado será revertido à atividade, assegurada a necessidade de readaptação.
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 7º O segurado é obrigado a se submeter anualmente à perícia médica do APARECIDAPREV, sob pena de suspensão do pagamento de seu benefício, e caso seja verificada a cessação da incapacidade, o benefício será extinto _exofficio_ e o segurado será revertido à atividade, assegurada a análise da necessidade de readaptação.~~
@@ -206,7 +220,8 @@ d) no percurso da residência para o local de trabalho ou deste para aquela, qua
 
 Art. 10. A caracterização da moléstia profissional ou do trabalho da qual decorrerá a aposentadoria por incapacidade permanente deverá ser feita pela perícia médica do APARECIDAPREV, que estabelecerá o nexo de causa e efeito entre a moléstia e o trabalho, mediante os subsídios fornecidos pelo ente ao qual se acha vinculado o servidor, com relação aos afastamentos para tratamento da saúde ao longo de sua vida funcional e a caracterização da doença como moléstia profissional ou do trabalho.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da aposentadoria compulsória
 
 Art. 11. O servidor que completar 75 (setenta e cinco) anos de idade será aposentado compulsoriamente, na forma da Lei Complementar Federal nº 152, de 03 de dezembro de 2015.
@@ -219,7 +234,8 @@ Art. 11. O servidor que completar 75 (setenta e cinco) anos de idade será apose
 
 § 4º A contagem do tempo de contribuição do servidor para cálculos dos proventos somente se dará até a data em que completar 75 (setenta e cinco) anos de idade.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Do cálculo dos proventos de aposentadoria e dos reajustes
 
 Art. 12. Para cálculo dos proventos das aposentadorias previstas neste Capítulo (Seções I, II, e III e respectivas subseções) será considerada a média aritmética simples das remunerações adotadas como base para as contribuições aos regimes de previdência, inclusive o militar, a que o servidor esteve vinculado, correspondentes a 100% (cem por cento) do período contributivo, desde a competência julho de 1994 ou desde a do início da contribuição, se posterior àquela competência, em simetria ao disposto no artigo 26, _caput_, da EC nº 103/2019.
@@ -248,10 +264,12 @@ Parágrafo único. Para o servidor que ingressou no serviço público, em cargo 
 
 Art. 14. Com exceção da aposentadoria compulsória, as aposentadorias previstas neste Capítulo, inclusive as decorrentes de incapacidade permanente ou de servidores com deficiência ou de servidores cujas atividades sejam exercidas com exposição a agentes nocivos, químicos, físicos e biológicos prejudiciais à saúde, terão os respectivos proventos devidos a partir do ato concessório.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO DIREITO ADQUIRIDO ÀS APOSENTADORIAS
 
-Art. 15. A concessão de aposentadoria ao servidor municipal será assegurada, a qualquer tempo, desde que tenham sido cumpridos os requisitos para obtenção do benefício até a data de entrada em vigor desta Lei Complementar.<br>
+Art. 15. A concessão de aposentadoria ao servidor municipal será assegurada, a qualquer tempo, desde que tenham sido cumpridos os requisitos para obtenção do benefício até a data de entrada em vigor desta Lei Complementar.
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 15. A concessão de aposentadoria ao servidor municipal será assegurada, a qualquer tempo, desde que tenham ingressado no serviço público e adquirido a estabilidade até a data de entrada em vigor desta Lei Complementar, observados os critérios da legislação mais favorável entre vigente na data em que foram atendidos os requisitos para a concessão da aposentadoria e a em vigor imediatamente anterior a vigência da presente Lei complementar, previstos, especialmente, nos artigos 14; 15; 16; 17; 18; 19; 20; 21; 21-A e 22, todos da Lei Complementar nº 10, de 2005.~~
@@ -266,16 +284,20 @@ Art. 15. A concessão de aposentadoria ao servidor municipal será assegurada, a
 
 § 5º O servidor com direito adquirido a uma regra de aposentadoria poderá optar pelas demais hipóteses de aposentadoria previstas nesta Lei Complementar, desde que nelas se enquadre e que lhe sejam mais vantajosas.
 
-§ 6º Os servidores que, até a data de entrada em vigor desta Lei Complementar, não cumpriram integralmente os requisitos exigidos pelas normas anteriores serão submetidos às disposições de transição previstas nos artigos 16-A, 16-B, 16-C e 16-D.<br>
+§ 6º Os servidores que, até a data de entrada em vigor desta Lei Complementar, não cumpriram integralmente os requisitos exigidos pelas normas anteriores serão submetidos às disposições de transição previstas nos artigos 16-A, 16-B, 16-C e 16-D.
+
  (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS REGRAS DE TRANSIÇÃO PARA AS APOSENTADORIAS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos requisitos para a aposentadoria – regra do somatório
 
-Art. 16. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, antes da data de entrada em vigor desta Lei Complementar, poderá aposentar-se voluntariamente quando preencher cumulativamente os requisitos:<br>
+Art. 16. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, antes da data de entrada em vigor desta Lei Complementar, poderá aposentar-se voluntariamente quando preencher cumulativamente os requisitos:
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 16. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, após a data de entrada em vigor desta Lei Complementar, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 4º da EC nº 103/2019:~~
@@ -296,7 +318,8 @@ V - somatório da idade e do tempo de contribuição, incluídas as frações, e
 
 § 3º A idade e o tempo de contribuição serão apurados em dias, incluídas as frações, para o cálculo do somatório de pontos a que se refere o inciso V deste artigo e o § 2º.
 
-Art. 16-A. O Segurado Ativo que ingressou no serviço público até a publicação desta Lei Complementar fará jus à aposentadoria voluntária por idade e tempo de contribuição com proventos calculados segundo o disposto no § 4º do presente artigo, desde que preencha, cumulativamente, os seguintes requisitos:<br>
+Art. 16-A. O Segurado Ativo que ingressou no serviço público até a publicação desta Lei Complementar fará jus à aposentadoria voluntária por idade e tempo de contribuição com proventos calculados segundo o disposto no § 4º do presente artigo, desde que preencha, cumulativamente, os seguintes requisitos:
+
 (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 I – tempo mínimo de contribuição de 10 (dez) anos de efetivo exercício no serviço público;
@@ -313,7 +336,8 @@ III – 60 (sessenta) anos de idade e 35 (trinta e cinco) de contribuição, se 
 
 § 4º Os proventos de aposentadoria serão calculados com base no Artigo 1º da Lei Federal n. 10.887/2004, ou seja, 80% das maiores contribuições, pela média aritmética apurada desde julho/1994.
 
-Art. 16-B. O segurado que ingressou até a data da publicação desta Lei Complementar, fará jus à aposentadoria por idade, com proventos proporcionais ao tempo de contribuição, desde que preencha, cumulativamente, os seguintes requisitos:<br>
+Art. 16-B. O segurado que ingressou até a data da publicação desta Lei Complementar, fará jus à aposentadoria por idade, com proventos proporcionais ao tempo de contribuição, desde que preencha, cumulativamente, os seguintes requisitos:
+
 (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 I – 10 (dez) anos de tempo mínimo de contribuição previdenciária;
@@ -326,7 +350,8 @@ IV – 65 (sessenta e cinco) anos de idade, se homem, e 60 (sessenta) anos de id
 
 Parágrafo único. Para o cálculo dos proventos proporcionais será considerado um trinta e cinco avos por ano de contribuição, se homem, e um trinta avos, se mulher e observado o Artigo 1º da Lei Federal n. 10.887/2004, através da média aritmética apurada.
 
-Art. 16-C. O Segurado Ativo, que tenha ingressado no serviço público até 31 de dezembro de 2003, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da sua última remuneração no cargo efetivo em que se der a aposentadoria, quando observadas as reduções de 5 (cinco) anos na idade e no tempo de contribuição aos professores no exercício da função de magistério, da presente lei, vier a preencher cumulativamente as seguintes condições:<br>
+Art. 16-C. O Segurado Ativo, que tenha ingressado no serviço público até 31 de dezembro de 2003, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da sua última remuneração no cargo efetivo em que se der a aposentadoria, quando observadas as reduções de 5 (cinco) anos na idade e no tempo de contribuição aos professores no exercício da função de magistério, da presente lei, vier a preencher cumulativamente as seguintes condições:
+
 (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 I – 60 (sessenta) anos de idade, se homem, e 55 (cinquenta e cinco) anos de idade, se mulher;
@@ -343,7 +368,8 @@ IV – 10 (dez) anos de carreira e 5 (cinco) anos de efetivo exercício no cargo
 
 § 3º Fica vedada à inclusão, para cálculo do provento, de qualquer espécie remuneratória paga em decorrência de função de confiança, de cargo em comissão ou do local de trabalho, assim como os adicionais de caráter individual, ou quaisquer outras vantagens pagas sobre o mesmo fundamento, ainda que sobre ela incida a contribuição previdenciária.
 
-Art. 16-D. Ressalvado o direito de opção pelas demais aposentadorias voluntárias, o segurado, que tenha ingressado no serviço público até 16 de dezembro de 1998, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da última remuneração do cargo efetivo em que se der a aposentadoria, desde que preencha, cumulativamente, as seguintes condições:<br>
+Art. 16-D. Ressalvado o direito de opção pelas demais aposentadorias voluntárias, o segurado, que tenha ingressado no serviço público até 16 de dezembro de 1998, poderá aposentar-se com proventos integrais, que corresponderão à totalidade da última remuneração do cargo efetivo em que se der a aposentadoria, desde que preencha, cumulativamente, as seguintes condições:
+
 (Redação acrescentada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 I – 35 (trinta e cinco) anos de contribuição, se homem, e 30 (trinta) anos de contribuição, se mulher;
@@ -360,10 +386,12 @@ III – idade mínima resultante da redução, relativamente aos limites do art.
 
 § 4º A presente regra constante do caput não se aplica aos professores, tendo em vista, que os mesmos já possuem regras com redutores de idade e tempo de contribuição.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Dos requisitos para aposentadoria – regra do período adicional
 
-Art. 17. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, antes da data de entrada em vigor desta Lei Complementar, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 20 da EC nº 103/2019:<br>
+Art. 17. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, antes da data de entrada em vigor desta Lei Complementar, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 20 da EC nº 103/2019:
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 17. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, após a data de entrada em vigor desta Lei Complementar, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 20 da EC nº 103/2019:~~
@@ -378,10 +406,12 @@ IV – 05 (cinco) anos no cargo efetivo em que se der a aposentadoria;
 
 V – período adicional de contribuição correspondente ao tempo que, na data da entrada em vigor desta lei complementar faltaria para atingir o tempo mínimo de contribuição referido no inciso II.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da aposentadoria dos titulares de cargo efetivo de professor – regra do somatório
 
-Art. 18. Para o titular do cargo de professor que tenha ingressado no serviço público, vinculado ao Regime Próprio de Previdência Social, em cargo efetivo antes da data de entrada em vigor desta Lei Complementar, e comprovar exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 4º, §§ 4º e 5º, da EC nº 103/2019:<br>
+Art. 18. Para o titular do cargo de professor que tenha ingressado no serviço público, vinculado ao Regime Próprio de Previdência Social, em cargo efetivo antes da data de entrada em vigor desta Lei Complementar, e comprovar exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 4º, §§ 4º e 5º, da EC nº 103/2019:
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 18. Para o titular do cargo de professor que tenha ingressado no serviço público, vinculado ao Regime Próprio de Previdência Social, em cargo efetivo após a data de entrada em vigor desta Lei Complementar, e comprovar exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 4º, §§ 4º e 5º, da EC nº 103/2019:~~
@@ -404,10 +434,12 @@ V – somatório de idade e do tempo de contribuição, incluídas as frações,
 
 § 4º Sobre funções do magistério na educação infantil, ensino fundamental e médio, aplica-se o disposto nos §§ 1º a 4º do art. 4º desta Lei Complementar.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da aposentadoria dos titulares de cargo efetivo de professor – regra do período adicional
 
-Art. 19. Para o titular do cargo de professor que tenha ingressado no serviço público, vinculado ao Regime Próprio de Previdência Social, em cargo efetivo, antes da data de entrada em vigor desta Lei Complementar, e comprovar exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria com o disposto no artigo 20, § 1º, da EC nº 103/2019:<br>
+Art. 19. Para o titular do cargo de professor que tenha ingressado no serviço público, vinculado ao Regime Próprio de Previdência Social, em cargo efetivo, antes da data de entrada em vigor desta Lei Complementar, e comprovar exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria com o disposto no artigo 20, § 1º, da EC nº 103/2019:
+
 (Redação alterada pela Lei Complementar nº 237, de 19 de fevereiro de 2025)
 
 ~~Art. 19. Para o titular do cargo de professor que tenha ingressado no serviço público, vinculado ao Regime Próprio de Previdência Social, em cargo efetivo, após a data de entrada em vigor desta Lei Complementar, e comprovar exclusivamente tempo de efetivo exercício das funções de magistério na educação infantil e no ensino fundamental e médio, poderá aposentar-se voluntariamente quando preencher, cumulativamente, os seguintes requisitos, em simetria com o disposto no artigo 20, § 1º, da EC nº 103/2019:~~
@@ -424,7 +456,8 @@ V – período adicional de contribuição correspondente ao tempo que, na data 
 
 Parágrafo único. Sobre funções do magistério na educação infantil, ensino fundamental e médio, aplica-se o disposto nos §§ 1º a 4º do art. 4º desta Lei Complementar.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Do cálculo de proventos
 
 Art. 20. Os proventos das aposentadorias concedidas nos termos dos artigos 16 e 18 desta Lei Complementar corresponderão, em simetria com o disposto no artigo 4º, § 6º, inciso I, da EC nº 103/2019:
@@ -461,7 +494,8 @@ II - à média aritmética simples dos salários de contribuição e das remuner
 
 § 4º Aos proventos de aposentadoria de que trata o inciso I do _caput_ deste artigo, aplicam-se as disposições contidas nos § 2º, 3º e 4º do art. 20 desta Lei Complementar.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Dos reajustes das aposentadorias
 
 Art. 22. Os proventos de aposentadoria de que tratam os artigos 16 e 18 desta Lei Complementar serão reajustados da seguinte forma, em simetria ao disposto no artigo 4º, §7º, da EC nº 103/2019:
@@ -480,7 +514,8 @@ II - pelo reajuste anual nos termos da Lei Municipal, no caso de proventos de a
 
 Parágrafo único. Se o servidor tiver optado pelo Regime Complementar de Previdência, na forma do disposto no § 16 do art. 40 da Constituição Federal, na redação da EC nº 103, de 2019, será sempre observado o limite dos benefícios do Regime Geral de Previdência Social.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Das aposentadorias dos servidores em atividades especiais
 
 Art. 24. O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, após a data de entrada em vigor desta Lei Complementar, cujas atividades tenham sido exercidas com efetiva exposição a agentes nocivos químicos, físicos e biológicos prejudiciais à saúde, ou associação desses agentes, poderá aposentar-se desde que observados, cumulativamente, os seguintes requisitos, em simetria ao disposto no artigo 21 da EC nº 103/2019:
@@ -509,17 +544,20 @@ IV - somatório da idade e do tempo de contribuição equivalente a 86 (oitenta 
 
 § 8º Fica vedada a caracterização de tempo especial por categoria profissional ou ocupação.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 Das aposentadorias de servidores com deficiência
 
 Art. 25.  O servidor que tenha ingressado no serviço público, com vinculação ao Regime Próprio de Previdência Social, em cargo efetivo, com deficiência, após a data da entrada em vigor desta Lei Complementar, poderá aposentar-se observadas às disposições estabelecidas no art. 5º desta Lei Complementar.
 
 Parágrafo único. Para o cálculo dos proventos e os reajustes, deverá ser observado o §7º, incisos I e II do art. 12, e o art. 13 desta Lei Complementar.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA PENSÃO POR MORTE
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Dependentes e da Habilitação
 
 Art. 26. São dependentes do servidor vinculado ao Regime Próprio de Previdência Social, para fins de recebimento da pensão por morte:
@@ -662,7 +700,8 @@ IV - da data do requerimento de dependente devidamente inscrito, no caso deste s
 
 § 6º O fato superveniente que importe em exclusão ou inclusão de dependente deve ser comunicado ao APARECIDAPREV, com as provas cabíveis.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Duração e da Extinção da Pensão
 
 Art. 34. O direito à percepção da cota individual cessará:
@@ -723,7 +762,8 @@ f) sem prazo determinado, com 44 (quarenta e quatro) ou mais anos de idade.
 
 § 3º O tempo de contribuição aos demais regimes de previdência será considerado na contagem das 18 (dezoito) contribuições mensais de que tratam os incisos I e II do _caput_ deste artigo.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Do cálculo e dos reajustes da pensão por morte
 
 Art. 36. A pensão por morte concedida a dependente do servidor será equivalente a uma cota familiar de 50% (cinquenta por cento) do valor da aposentadoria recebida pelo servidor ou daquela a que teria direito se fosse aposentado por incapacidade permanente na data do óbito, acrescida de cotas de 10 (dez) pontos percentuais por dependente, até o máximo de 100% (cem por cento), em simetria ao disposto no artigo 23 da EC nº 103/2019.
@@ -750,7 +790,8 @@ Art. 37. A pensão por morte devida no mês de dezembro de cada ano será sempr
 
 Art. 38. O benefício de pensão será reajustado para preservar-lhe, em caráter permanente o valor real, na mesma data em que se der o reajuste dos benefícios do RGPS e nos termos estabelecidos em Lei Municipal.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Do controle dos pensionistas, da prescrição e das eventuais alterações nas regras da concessão da pensão por morte
 
 Art. 39. O APARECIDAPREV poderá exigir dos pensionistas:
@@ -767,7 +808,8 @@ III - declaração, sob as penas da lei, de que mantêm a mesma situação civil
 
 Art. 40. O pagamento da pensão por morte será feito, na forma do disposto no art. 33 desta Lei Complementar, observado ainda o prazo prescricional de que trata o art. 58 da Lei Complementar nº 10, de 2005.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Do direito adquirido às pensões por morte e das pensões de segurados optantes da previdência complementar
 
 Art. 41. A concessão de pensão deixada pelo servidor ou pelo aposentado falecido até a data de entrada em vigor desta Lei Complementar, observará a legislação vigente na data da morte, inclusive para efeito de cálculo do benefício.
@@ -776,7 +818,8 @@ Parágrafo único. Com relação aos reajustes posteriores a serem concedidos ao
 
 Art. 42. Para o servidor que tenha optado pela previdência complementar, na forma do § 16 do art. 40 da Constituição Federal, ou o aposentado que está submetido a esse regime, a fixação do valor da pensão e os reajustes deverão observar os critérios estabelecidos para os benefícios do Regime Geral de Previdência Social.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Da Acumulação de Benefícios Previdenciários
 
 Art. 43. Ressalvadas as aposentadorias decorrentes dos cargos acumuláveis na forma da Constituição Federal, é vedada a percepção de mais de uma aposentadoria à conta de regime próprio de previdência social, aplicando-se outras vedações, regras e condições para acumulação de benefícios previdenciários estabelecidas no Regime Geral de Previdência Social.
@@ -787,7 +830,8 @@ Art. 44. É vedada a acumulação de mais de uma pensão por morte deixada por c
 
 I - pensão por morte deixada por cônjuge, companheiro ou companheira de um regime de previdência social com pensão por morte concedida por outro regime de previdência social ou com pensões decorrentes das atividades militares de que tratam os artigos 42 e 142 da Constituição Federal;
 
-II - pensão por morte deixada por cônjuge, companheiro ou companheira de um regime de previdência social com aposentadoria concedida no âmbito do Regime Geral de Previdência Social ou de Regime Próprio de Previdência Social ou com proventos de inatividade decorrentes das atividades militares de que tratam os artigos 42 e 142 da Constituição Federal;<br>
+II - pensão por morte deixada por cônjuge, companheiro ou companheira de um regime de previdência social com aposentadoria concedida no âmbito do Regime Geral de Previdência Social ou de Regime Próprio de Previdência Social ou com proventos de inatividade decorrentes das atividades militares de que tratam os artigos 42 e 142 da Constituição Federal;
+
 III - pensões decorrentes das atividades militares de que tratam os artigos 42 e 142 da Constituição Federal com aposentadoria concedida no âmbito do Regime Geral de Previdência Social ou de regime próprio de previdência social.
 
 § 2º Nas hipóteses das acumulações previstas no § 1º, é assegurada a percepção do valor integral do benefício mais vantajoso e de uma parte de cada um dos demais benefícios, apurada cumulativamente de acordo com as seguintes faixas:
@@ -808,7 +852,8 @@ IV - 10% (dez por cento) do valor que exceder 4 (quatro) salários-mínimos.
 
 § 6º As regras sobre acumulações previstas neste artigo poderão ser alteradas na forma do § 6º do art. 40 da Constituição Federal.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 45. Não será deferida revisão de benefício de aposentadoria ou pensão em fruição, concedida com fundamento em outras regras.
@@ -1043,5 +1088,6 @@ IV – referendadas as disposições contidas no art. 149, da Constituição Fed
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 26 de setembro de 2023.
 
-**VILMAR MARIANO DA SILVA**<br>
+**VILMAR MARIANO DA SILVA**
+
 Prefeito

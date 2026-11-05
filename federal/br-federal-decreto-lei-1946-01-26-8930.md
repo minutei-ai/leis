@@ -1,5 +1,3 @@
-###DEL-008930-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.930 – DE 26 de JANEIRO DE 1946
 
 Dispõe sôbre o regime de  férias do Tribunal  Marítimo

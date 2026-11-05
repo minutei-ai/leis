@@ -1,5 +1,3 @@
-###DEC-073153-0-000-14-11-1973@@@
-
 DECRETO Nº 73.153 - DE 14 DE Novembro DE 1973
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado na cidade de Lavras do Sul, Estado do Rio Grande do Sul.

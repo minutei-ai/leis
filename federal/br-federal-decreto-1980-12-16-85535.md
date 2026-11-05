@@ -1,5 +1,3 @@
-###DEC-085535-0-000-16-12-1980@@@
-
 Decreto nº 85.535, de 16 de dezembro de 1980.
 
 Cria a 15ª Brigada de Infantaria Motorizada e seu respectivo Comando no Ministério do Exército e dá outras providências.

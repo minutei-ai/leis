@@ -1,5 +1,3 @@
-###DEC-073438-0-000-11-01-1974@@@
-
 DECRETO Nº 73.438, DE 11 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado de São Paulo.

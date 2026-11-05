@@ -1,5 +1,3 @@
-###DEC-078089-0-000-19-07-1976@@@
-
 DECRETO Nº 78.089, DE 19 DE JULHO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona situado no Município de São Francisco, Estado de Minas Gerais.

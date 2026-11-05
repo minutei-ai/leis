@@ -1,5 +1,3 @@
-###DEC-080433-0-000-28-09-1977@@@
-
 DECRETO Nº 80.433, DE 28 DE SETEMBRO DE 1977.
 
 Concede à Itapetinga Agro-Industrial S.A. o direito de lavrar calcário no Município de Mossoró, Estado do Rio Grande do Norte.

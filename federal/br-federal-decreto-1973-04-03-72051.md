@@ -1,5 +1,3 @@
-###DEC-072051-0-000-03-04-1973@@@
-
 decreto nº 72.051, de 3 de abril de 1973.
 
 Retifica o Decreto nº 65.243, e 26 de setembro de 1969, e dá outras providências.

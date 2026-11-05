@@ -1,5 +1,3 @@
-###DEC-054167-0-000-21-08-1964@@@
-
 DECRETO Nº 54.167, DE 21 DE AGÔSTO DE 1964.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a pesquisar minério de ferro no município de Barão de Cocais, Estado de Minas Gerais.

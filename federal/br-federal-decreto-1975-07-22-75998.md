@@ -1,5 +1,3 @@
-###DEC-075998-0-000-22-07-1975@@@
-
 DECRETO Nº 75.998 - DE 22 DE JULHO DE 1975.
 
 Fixa o valor da bolsa especial de aluno Monitor, instituída pelo Decreto nº 66.315, de 13 de março de 1970.

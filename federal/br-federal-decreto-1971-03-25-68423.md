@@ -1,5 +1,3 @@
-###DEC-068423-0-000-25-03-1971@@@
-
 DECRETO Nº 68.423, DE 25 DE MARÇO DE 1971.
 
 Aprova o Regimento do Departamento Nacional de Estradas de Rodagem

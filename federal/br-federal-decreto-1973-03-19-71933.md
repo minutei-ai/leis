@@ -1,5 +1,3 @@
-###DEC-071933-0-000-19-03-1973@@@
-
 DECRETO Nº 71.933, DE 19 DE MARÇO DE 1973.
 
 Concede à Tosato & Cia. Ltda. o direito de lavrar caulim, no Município de Curitiba, Estado do Paraná.

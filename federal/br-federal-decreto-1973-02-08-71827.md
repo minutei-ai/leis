@@ -1,5 +1,3 @@
-###DEC-071827-0-000-08-02-1973@@@
-
 DECRETO Nº 71.827, DE 8 DE FEVEREIRO DE 1973.
 
 Aprova alteração introduzida nos Estatutos das Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

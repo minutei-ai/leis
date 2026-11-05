@@ -1,5 +1,3 @@
-###DEC-080950-0-000-07-12-1977@@@
-
 Decreto nº 80.950, de 07 de dezembro de 1977.
 
 Concede à Indaiá Águas Minerais S/A. o direito de lavrar água mineral no Município de Serra Negra, Estado de São Paulo.

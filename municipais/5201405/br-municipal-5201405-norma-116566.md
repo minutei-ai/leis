@@ -120,5 +120,6 @@ Aparecida de Goiânia, 7 de agosto de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

@@ -1,5 +1,3 @@
-###DEC-077192-0-000-19-02-1976@@@
-
 DECRETO Nº 77.192, DE 19 DE FEVEREIRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da subestação de "Rezende", da Companhia Paulista de Força e Luz - CPFEL, no Estado de São Paulo.

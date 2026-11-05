@@ -1,7 +1,3 @@
-1
-
-###DEC-098941-0-000-12-02-1990@@@
-
 DECRETO Nº 98.941, DE 12 DE FEVEREIRO DE 1990
 
 Autoriza o funcionamento do curso de Filosofia, das Faculdades Batista Carioca.

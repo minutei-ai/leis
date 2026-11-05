@@ -1,5 +1,3 @@
-###DEC-006288-0-000-06-12-2007@@@
-
 DECRETO Nº 6.288, DE 6 DE DEZEMBRO DE 2007.
 
 Dá nova redação ao art. 6o e acresce os arts. 6-A, 6-B, 6-C, 13-A e 21-A ao Decreto no 4.297, de 10 de julho de 2002.
@@ -65,5 +63,3 @@ Brasília, 6 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Marina Silva
-
-Este texto não substitui o publicado no DOU de 7.12.2007

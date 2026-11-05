@@ -1,5 +1,3 @@
-###DEC-054230-0-000-02-09-1964@@@
-
 decreto nº 54.230, de 2 de setembro de 1964.
 
 Extingue o Grupo de Trabalho da Indústria de Materiais e Equipamentos para Petróleo.

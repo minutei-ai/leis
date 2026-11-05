@@ -1,7 +1,3 @@
-1
-
-###DEC-098624-0-000-20-12-1989@@@
-
 DECRETO N.° 98.624, DE 20 DE DEZEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Munhoz, da ELETROPAULO Eletricidade de São Paulo S.A., no Estado de São Paulo.

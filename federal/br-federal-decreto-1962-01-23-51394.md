@@ -1,5 +1,3 @@
-###DEC-051394-0-000-23-01-1962@@@
-
 DECRETO Nº 51.394, DE 23 DE JANEIRO DE 1962.
 
 Altera os Decretos números 48.279, de 9 de junho e 1960, 48.864, de 18 de agôsto de 1960, e 49.385, de 30 de novembro de 1960.

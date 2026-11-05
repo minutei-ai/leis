@@ -1,5 +1,3 @@
-###DEC-071318-0-000-06-11-1972@@@
-
 DECRETO Nº 71.318 - DE 6 DE NOVEMBRO DE 1972.
 
 Concede autorização à organização "Scripps Institution of Oceanography", para operar no mar territorial do Brasil com o navio-oceanográfico "Melville", de bandeira norte-americana, nas pesquisas que especifica.

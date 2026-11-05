@@ -1,5 +1,3 @@
-###DEC-069698-0-000-03-12-1971@@@
-
 DECRETO Nº 69.698 - DE 3 DE DEZEMBRO DE 1971
 
 Reconhece o Curso de Administração da Faculdade de Ciências Econômicas e Administrativa da Universidade Católica de Campinas.

@@ -10,12 +10,14 @@ Faz saber que a Assembleia Legislativa decreta, e eu, em razão da sanção tác
 
 Art. 1º O § 1º do art. 11 da Lei nº 10.259, de 09 de janeiro de 2014, passa a vigorar com a seguinte redação:
 
-“Art. 11. ....................................................................<br>
+“Art. 11. ....................................................................
+
 § 1º A promoção funional aplica-se exclusivamente aos servidores ocupantes dos cargos de provimento efetivo.” (NR)
 
 Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Paço da Assembleia Legislativa do Estado da Paraíba, “Casa de Epitácio Pessoa”, João Pessoa, 08 de outubro de 2026.
 
-ADRIANO GALDINO<br>
+ADRIANO GALDINO
+
 Presidente

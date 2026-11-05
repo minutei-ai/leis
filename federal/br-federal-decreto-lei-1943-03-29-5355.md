@@ -1,5 +1,3 @@
-###DEL-005355-0-000-29-03-1943@@@
-
 DECRETO‑LEI N. 5.355 – DE 29 DE MARÇO DE 1943
 
 Dispôe sobre Promoções na Policia Militar do Distrito Federal

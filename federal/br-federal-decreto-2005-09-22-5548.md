@@ -1,5 +1,3 @@
-###DEC-005548-0-000-22-09-2005@@@
-
 DECRETO Nº 5.548, DE 22 DE SETEMBRO DE 2005
 
 Dispõe sobre a execução no Território Nacional da Resolução n o 1616, de 29 de julho de 2005, do Conselho de Segurança das Nações Unidas, que, entre outras providências, renova o embargo de armas a todo o território da República Democrática do Congo, proibição de viagens e congelamento de fundos, ativos financeiros e recursos econômicos de pessoas e entidades.

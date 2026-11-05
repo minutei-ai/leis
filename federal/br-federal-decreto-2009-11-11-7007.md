@@ -1,5 +1,3 @@
-###DEC-007007-0-000-11-11-2009@@@
-
 DECRETO Nº 7.007, DE 11 DE NOVEMBRO DE 2009.
 
 Altera o Estatuto Social do Banco Nacional do Desenvolvimento Econômico e Social - BNDES e aumenta o seu capital social.

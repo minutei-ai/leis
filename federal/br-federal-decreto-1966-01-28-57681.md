@@ -1,5 +1,3 @@
-###DEC-057681-0-000-28-01-1966@@@
-
 decreto nº 57.681, de 28 de janeiro de 1966.
 
 Dispõe sôbre a situação de funcionários federais nomeados para cargos criados pela Resolução número 61-64, da Assembléia Legislativa do Estado da Guanabara.

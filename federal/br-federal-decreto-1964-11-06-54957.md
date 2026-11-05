@@ -1,5 +1,3 @@
-###DEC-054957-0-000-06-11-1964@@@
-
 DECRETO Nº 54.957, de 6 de novembro de 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada na cidade de Aracaju, no Estado de Sergipe.

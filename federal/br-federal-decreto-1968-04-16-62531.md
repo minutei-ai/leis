@@ -1,5 +1,3 @@
-###DEC-062531-0-000-16-04-1968@@@
-
 DECRETO Nº 62.531, DE 16 DE ABRIL DE 1968.
 
 Outorga concessão à Rádio Jornal de Bauru Ltda., para estabelecer uma estação de radiodifusão sonora na cidade de Bauru, Estado de São Paulo.

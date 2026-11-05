@@ -1,5 +1,3 @@
-###DEC-055470-0-000-05-01-1965@@@
-
 DECRETO Nº 55.470, DE 5 DE JANEIRO DE 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica em diversos municípios localizados no Estado do Piauí.

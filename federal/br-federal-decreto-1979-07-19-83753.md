@@ -1,5 +1,3 @@
-###DEC-083753-0-000-19-07-1979@@@
-
 Decreto nº 83.753, de 19 de julho de 1979
 
 Fixa o fator de reajustamento salarial relativo a julho de 1979.

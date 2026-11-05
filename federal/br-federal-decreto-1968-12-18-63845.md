@@ -1,14 +1,12 @@
-###DEC-063845-0-000-18-12-1968@@@
+**DECRETO Nº 63.845, DE 18 DE DEZEMBRO DE 1968.**
 
-<strong>DECRETO Nº 63.845, DE 18 DE DEZEMBRO DE 1968.</strong>
+***Fixa, para o ano de 1969, valores das gratificações de Tempo de Serviço, de função Militar da Categorias “B” e “C”, de localidade Especial e das indenizações de representações estabelecidas no Código de Vencimentos Militares, de conformidade com as alterações prescritas na Lei nº 4.863, de 29 de novembro de 1965, e Lei nº 5.552, de 4 de dezembro de 1968.***
 
-<em><strong>Fixa, para o ano de 1969, valores das gratificações de Tempo de Serviço, de função Militar da Categorias “B” e “C”, de localidade Especial e das indenizações de representações estabelecidas no Código de Vencimentos Militares, de conformidade com as alterações prescritas na Lei nº 4.863, de 29 de novembro de 1965, e Lei nº 5.552, de 4 de dezembro de 1968.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 83, item II da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 83, item II da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º De acôrdo com o art. 3º da Lei nº 5.552, de 4 de dezembro de 1968, são fixados, para o ano de 1969, na forma abaixo, os valôres correspondentes às gratificações de Tempo de Serviço de Função Militar da Categoria “C” e de Localidade Especial, prevista na Lei nº 4.328 de 30 de abril de 1964:
+**Art**. 1º De acôrdo com o art. 3º da Lei nº 5.552, de 4 de dezembro de 1968, são fixados, para o ano de 1969, na forma abaixo, os valôres correspondentes às gratificações de Tempo de Serviço de Função Militar da Categoria “C” e de Localidade Especial, prevista na Lei nº 4.328 de 30 de abril de 1964:
 
 a) gratificação de Tempo de Serviço:
 
@@ -24,7 +22,7 @@ c) gratificação de Localidade Especial:
 
 \- 15 % (quinze por cento) do sôldo do pôsto ou da graduação para localidades classificadas na categoria “B”.
 
-<strong>Art</strong>. 2º De acôrdo com o art. 3º e seu parágrafo único da Lei número 5.552, de 4 de dezembro de 1968, no decorrer do ano de 1969, aos militares nas situações abaixo especificadas, é devida a gratificação de função militar da Categoria “B”, com os valôres a seguir fixados.
+**Art**. 2º De acôrdo com o art. 3º e seu parágrafo único da Lei número 5.552, de 4 de dezembro de 1968, no decorrer do ano de 1969, aos militares nas situações abaixo especificadas, é devida a gratificação de função militar da Categoria “B”, com os valôres a seguir fixados.
 
 I - 10 % (dez por cento) do sôldo do pôsto ou da graduação, quando:
 
@@ -64,7 +62,7 @@ c) Capitão-Tenente, Capitão ou Oficial Subalterno - 10 % (dez por cento) do s�
 
 § 3º Ao militar que possuir mais de um curso, será abonada a gratificação de maior valor.
 
-<strong>Art</strong>. 3º No decorrer do ano de 1969, a indenização de representação (art. 61 da Lei nº 4.328, de 30 de abril de 1964, alterado pelo art. 2º item II, da Lei nº 4.863, de 29 de novembro de 1965) é devida aos militares com os valôres abaixo fixados, nas situações a seguir especificadas:
+**Art**. 3º No decorrer do ano de 1969, a indenização de representação (art. 61 da Lei nº 4.328, de 30 de abril de 1964, alterado pelo art. 2º item II, da Lei nº 4.863, de 29 de novembro de 1965) é devida aos militares com os valôres abaixo fixados, nas situações a seguir especificadas:
 
 I - De acôrdo com regulamentação baixada pelo Poder Executivo, relativo ao pagamento de gratificação ou indenização de representação de gabinete, quando servindo no Gabinete Militar da Presidência da República, nos Gabinetes dos Ministros, das Pastas Militares no Gabinete do Chefe de Estado-Maior das Fôrças Armadas e na Secretaria-Geral do Conselho de Segurança Nacional;
 
@@ -98,15 +96,15 @@ VII - De conformidade com o estabelecido, em cada caso, em ato do Ministro da re
 
 § 1º As indenização de que trata êste artigo, à exceção da prevista no item VII, não poderão ser abonadas simultaneamente, ao mesmo militar, devendo, no caso de se enquadrar em mais de uma delas, lhe ser abonada a de maior valor.
 
-§ 2º Para os efeitos do estabelecido neste artigo, as expressões “Comandante” e “Cargo”, serão consideradas na acepção das definições do Código de Vencimentos dos Militares - (alíneas “<em>a</em>” e “<em>g</em>” do art. 2º da Lei nº 4.328, de 30 de abril de 1964).
+§ 2º Para os efeitos do estabelecido neste artigo, as expressões “Comandante” e “Cargo”, serão consideradas na acepção das definições do Código de Vencimentos dos Militares - (alíneas “*a*” e “*g*” do art. 2º da Lei nº 4.328, de 30 de abril de 1964).
 
-<strong>Art</strong>. 4º O presente decreto entrará em vigor a partir de 1º de janeiro de 1969.
+**Art**. 4º O presente decreto entrará em vigor a partir de 1º de janeiro de 1969.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Brasília, 18 de dezembro de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Augusto Hamann Rademaker Grünewald
 

@@ -1,5 +1,3 @@
-###DEC-050357-0-000-18-03-1961@@@
-
 DECRETO Nº 50.357, DE 18 DE MARÇO DE 1961.
 
 Altera a redação do artigo 2º do Decreto n.º 50.339, de 15 de março de 1961.

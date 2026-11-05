@@ -1,5 +1,3 @@
-###DEL-001976-0-000-20-12-1982@@@
-
 # Decreto-lei nº 1.976, de 20 de DEZEMBRO de 1982.
 
 Dispõe sobre a situação, perante a Previdência Social, da construção residencial unifamiliar que indica e dá outras providências.

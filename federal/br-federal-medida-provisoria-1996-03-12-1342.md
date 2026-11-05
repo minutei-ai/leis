@@ -1,7 +1,3 @@
-1
-
-###MPV-001342-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.342, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

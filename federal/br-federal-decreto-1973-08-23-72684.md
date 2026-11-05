@@ -1,5 +1,3 @@
-###DEC-072684-0-000-23-08-1973@@@
-
 DECRETO Nº 72.684, DE 23 DE AGOSTO DE 1973.
 
 Concede autorização à Companhia Key International Drilling Company Ltd., para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a embarcação de perfuração "Key West", de nacionalidade liberiana, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

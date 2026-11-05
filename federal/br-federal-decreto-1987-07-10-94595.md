@@ -1,5 +1,3 @@
-###DEC-094595-0-000-10-07-1987@@@
-
 DECRETO N° 94.595, DE 10 DE JULHO DE 1987
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo Regional de Abertura de Mercados em Favor da Bolívia, do Equador e do Paraguai.

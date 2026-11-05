@@ -1,5 +1,3 @@
-###DEC-065045-0-000-22-08-1969@@@
-
 DECRETO Nº 65.045 - DE 22 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública a Congregação das Servas de Maria Reparadoras, com sede no Estado da Guanabara.

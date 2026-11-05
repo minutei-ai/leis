@@ -1,5 +1,3 @@
-###MPV-000565-0-000-24-04-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° 565, DE 24 DE ABRIL DE 2012
 
 Altera a Lei n° 10.177, de 12 de janeiro de 2001, para autorizar o Poder Executivo a instituir linhas de crédito especiais com recursos dos Fundos Constitucionais de Financiamento do Norte, do Nordeste e do Centro-Oeste para atender aos setores produtivos rural, industrial, comercial e de serviços dos Municípios com situação de emergência ou estado de calamidade pública reconhecidos pelo Poder Executivo federal, e a Lei n° 10.954, de 29 de setembro de 2004, para permitir a ampliação do valor do Auxílio Emergencial Financeiro.

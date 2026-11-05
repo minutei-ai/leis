@@ -1,5 +1,3 @@
-###DEL-001275-0-000-01-06-1973@@@
-
 # DECRETO-LEI Nº 1.275, DE 1 DE JUNHO DE 1973
 
 Dispõe sobre a aplicação de recursos orçamentários consignados às Universidades que menciona e dá outras providências.

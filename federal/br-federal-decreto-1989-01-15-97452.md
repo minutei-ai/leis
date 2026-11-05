@@ -1,5 +1,3 @@
-###DEC-097452-0-000-15-01-1989@@@
-
 DECRETO N° 97.452, DE 15 DE JANEIRO DE 1989
 
 Determina ampla consulta para colher subsídios para a elaboração de projeto de lei estabelecendo reajuste de salários.

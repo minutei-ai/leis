@@ -1,5 +1,3 @@
-###DEC-085752-0-000-24-02-1981@@@
-
 Decreto nº 85.752, de 24 de fevereiro de 1981.
 
 Declara de utilidade pública as instituições que menciona

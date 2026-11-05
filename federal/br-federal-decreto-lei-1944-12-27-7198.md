@@ -1,5 +1,3 @@
-###DEL-007198-0-000-27-12-1944@@@
-
 DECRETO-LEI N. 7.198 – DE 27 DE DEZEMBRO DE 1944
 
 Estende ao Corpo de Bombeiros e à Polícia Militar do Distrito Federal o disposto no art. 201 do Decreto-lei n. 2.186, de 13 de maio de 1940

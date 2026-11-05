@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209375)<br>
-
 # LEI N° 17.935, DE 29 DE ABRIL DE 2024
 
 ### _Altera a Lei n° 17.557, de 21 de julho de 2022, que dispõe sobre a criação do Programa Estadual de Regularização de Terras, nos casos em que especifica._

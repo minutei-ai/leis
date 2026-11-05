@@ -1,5 +1,3 @@
-###DEC-003717-0-000-03-01-2001@@@
-
 DECRETO Nº 3.717, DE 3 DE JANEIRO DE 2001
 
 Regulamenta o depósito, a garantia e o arrolamento de bens para interposição de recurso voluntário no processo administrativo de determinação e exigência de créditos tributários da União.

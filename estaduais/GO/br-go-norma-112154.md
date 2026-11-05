@@ -16,40 +16,248 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">14 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.099.291,66</td><td style=" width:85px;    ">R$ 45.738,15</td><td style=" width:85px;    ">R$ 1.145.029,81</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 455.336,03</td><td style=" width:85px;    ">R$ 260.306,83</td><td style=" width:85px;    ">R$ 715.642,86</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO</b><br>1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.911.058,13</td><td style=" width:85px;    ">R$ 186.718,42</td><td style=" width:85px;    ">R$ 2.097.776,55</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 492.763,40</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 492.763,40</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+14 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.099.291,66
+
+R$ 45.738,15
+
+R$ 1.145.029,81
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 455.336,03
+
+R$ 260.306,83
+
+R$ 715.642,86
+
+**1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO**
+1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.911.058,13
+
+R$ 186.718,42
+
+R$ 2.097.776,55
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 492.763,40
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 492.763,40
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO</td><td style=" width:85px;    ">14 122 4100 4145</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.289.033,12</td><td style=" width:85px;    ">R$ 45.738,15</td><td style=" width:85px;    ">R$ 45.738,15</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1500 - CONTROLADORIA-GERAL DO ESTADO</b><br>1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 260.306,83</td><td style=" width:85px;    ">R$ 260.306,83</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO</b><br>1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO</td><td style=" width:85px;    ">04 122 4100 4145</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 486.042,98</td><td style=" width:85px;    ">R$ 186.718,42</td><td style=" width:85px;    ">R$ 186.718,42</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 492.763,40</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 492.763,40</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 492.763,40</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 492.763,40</td></tr></tbody></table>
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO
+
+14 122 4100 4145
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.289.033,12
+
+R$ 45.738,15
+
+R$ 45.738,15
+
+**1500 - CONTROLADORIA-GERAL DO ESTADO**
+1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 260.306,83
+
+R$ 260.306,83
+
+**1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO**
+1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZATÓRIO
+
+04 122 4100 4145
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 486.042,98
+
+R$ 186.718,42
+
+R$ 186.718,42
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 492.763,40
+
+**TOTAL**
+
+R$ 492.763,40
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 492.763,40
+
+**TOTAL**
+
+R$ 492.763,40

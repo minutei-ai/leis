@@ -1,5 +1,3 @@
-###DEC-093063-0-000-01-08-1986@@@
-
 DECRETO Nº 93.063, DE 1º DE AGOSTO DE 1986
 
 Dispõe sobre a autonomia administrativa e financeira limitada do Instituto de Promoção Cultural do Ministério da Cultura e dá outras providências.

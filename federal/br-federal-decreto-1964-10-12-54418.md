@@ -1,5 +1,3 @@
-###DEC-054418-0-000-12-10-1964@@@
-
 DECRETO Nº 54.418, de 12 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Alberto José Moore a pesquisar feldspato, no município de Mesquita, Estado de Minas Gerais.

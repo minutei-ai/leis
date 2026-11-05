@@ -1,5 +1,3 @@
-###DEC-070050-0-000-25-01-1972@@@
-
 DECRETO Nº 70.050, DE 25 DE JANEIRO DE 1972.
 
 Aprova o Regulamento para o Serviço de Investigação e Prevenção de Acidentes Aeronáuticos.

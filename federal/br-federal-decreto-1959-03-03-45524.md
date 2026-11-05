@@ -1,5 +1,3 @@
-###DEC-045524-0-000-03-03-1959@@@
-
 DECRETO Nº 45.524, DE 3 DE MARÇO DE 1959.
 
 Outorga concessão à Sociedade Rádiodifusora “A Voz da Amazônia” Limitada para instalar uma estação Rádiodifusora.

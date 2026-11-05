@@ -1,5 +1,3 @@
-###DEC-061067-0-000-26-07-1967@@@
-
 DECRETO Nº 61.067, DE 26 DE JULHO DE 1967.
 
 Retifica os artigos 2º, 10, § 2º e 15 do Decreto n.º 59.414, de 25 de outubro de 1966.

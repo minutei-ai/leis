@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/147366)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2008/compilacao-lei.complementar-1083-17.12.2008.html)
 
 # LEI COMPLEMENTAR N° 1.083, DE 17 DE DEZEMBRO DE 2008

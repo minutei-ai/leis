@@ -1,5 +1,3 @@
-###DEC-068328-0-000-09-03-1971@@@
-
 DECRETO Nº 68.328, DE 9 DE MARÇO DE 1971.
 
 Autorização para o funcionamento da Escola de Educação Física de Volta Redonda, da Fundação "Oswaldo Aranha", RJ.

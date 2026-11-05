@@ -1,5 +1,3 @@
-###DEC-076313-0-000-19-09-1975@@@
-
 Decreto Nº 76.313 - DE 19 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento do curso de Letras das Faculdades Integradas Estácio de Sá, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

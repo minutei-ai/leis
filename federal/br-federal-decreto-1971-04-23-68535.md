@@ -1,5 +1,3 @@
-###DEC-068535-0-000-23-04-1971@@@
-
 DECRETO Nº 68.535 - DE 23 DE ABRIL DE 1971.
 
 Dispõe sôbre a alienação de imóveis da União, sob a administração da Coordenação do Desenvolvimento de Brasília (CODEBRÁS), em Brasília, e dá outras providências.

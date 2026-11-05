@@ -1,5 +1,3 @@
-###DEC-061397-0-000-21-09-1967@@@
-
 DECRETO Nº 61.397, DE 21 DE SETEMBRO DE 1967.
 
 Retifica o Decreto nº 51.359, de 24 de novembro de 1961.

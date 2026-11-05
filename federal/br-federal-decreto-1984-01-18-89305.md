@@ -1,5 +1,3 @@
-###DEC-089305-0-000-18-01-1984@@@
-
 Decreto nº 89.305 de 18 de janeiro de 1984
 
 Renova por 10 (dez) anos a concessão outorgada À RADIO COPACABANA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Gonçalo, Estado do Rio de Janeiro.

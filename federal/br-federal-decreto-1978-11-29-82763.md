@@ -1,5 +1,3 @@
-###DEC-082763-0-000-29-11-1978@@@
-
 Decreto nº 82.763, de 29 de novembro de 1978
 
 Concede à ESAM - Empresa Santo Antonio de Mineração Ltda. o direito de lavrar granito no Município de nova Iguaçu, Estado do Rio de Janeiro.

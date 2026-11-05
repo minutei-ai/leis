@@ -1,5 +1,3 @@
-###MPV-000507-0-000-05-10-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 507, DE 5 DE OUTUBRO DE 2010.
 
 Institui hipóteses específicas de sanção disciplinar para a violação de sigilo fiscal e disciplina o instrumento de mandato que confere poderes a terceiros para praticar atos perante órgão da administração pública que impliquem fornecimento de dado protegido pelo sigilo fiscal.

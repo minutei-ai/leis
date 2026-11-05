@@ -1,5 +1,3 @@
-###DEC-066724-0-000-16-06-1970@@@
-
 DECRETO Nº 66.724, DE 16 DE JUNHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro Único de Pessoal - Parte Especial - da Universidade Federal do Rio de Janeiro, cargo originário da Universidade Federal de Pernambuco, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005875-0-000-15-08-2006@@@
-
 DECRETO Nº 5.875, DE 15 DE AGOSTO DE 2006.
 
 Adota a Recomendação no 003, de 22 de fevereiro de 2006, do Conselho Nacional do Meio Ambiente - CONAMA.
@@ -17,5 +15,3 @@ Brasília, 15, de agosto de 2006; 185o e 118o da Independência.
 LUIZ INÁCIO LULA DA SILVA
 
       Marina Silva
-
-Este texto não substitui o publicado no D.O.U. de 16.8.2006.

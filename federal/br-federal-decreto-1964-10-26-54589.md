@@ -1,5 +1,3 @@
-###DEC-054589-0-000-26-10-1964@@@
-
 DECRETO Nº 54.589, DE 26 DE OUTUBRO DE 1964.
 
 Amplia a zona de concessão da Centrais Elétricas de Goiás S.A.

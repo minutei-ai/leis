@@ -1,5 +1,3 @@
-###DEC-045371-0-000-02-02-1959@@@
-
 Decreto nº 45.371, de 2 de fevereiro de 1959.
 
 Renova o Decreto nº 31.405, de 8 de setembro de 1952, que declarou de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno situada no Município de Moxotó, Estado de Pernambuco.

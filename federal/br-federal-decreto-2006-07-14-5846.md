@@ -1,5 +1,3 @@
-###DEC-005846-0-000-14-07-2006@@@
-
 DECRETO Nº 5.846, DE 14 DE JULHO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Estado de Israel sobre o Exercício de Atividade Remunerada por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado em Brasília, em 12 de dezembro de 2002.
@@ -24,11 +22,7 @@ Brasília, 14 de  julho  de 2006; 185º da Independência e 118º da Repúblic
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no D.O.U. de 17.7.2006
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO ESTADO DE ISRAEL SOBRE O EXERCÍCIO DE ATIVIDADE REMUNERADA POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO
+        Samuel Pinheiro Guimarães NetoACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DO ESTADO DE ISRAEL SOBRE O EXERCÍCIO DE ATIVIDADE REMUNERADA POR PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR, ADMINISTRATIVO E TÉCNICO
 
         O Governo da República Federativa do Brasil
 

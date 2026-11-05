@@ -1,14 +1,12 @@
-###LEI-000285-0-000-01-08-1895@@@
+**LEI N. 285 – DE 1 DE AGOSTO DE 1895**
 
-<strong>LEI N. 285 – DE 1 DE AGOSTO DE 1895</strong>
-
-<em><strong>Fixa a Força naval para o exercicio de 1896.</strong></em>
+***Fixa a Força naval para o exercicio de 1896.***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decretou e eu sancciono a lei seguinte:
 
-<strong>Art.</strong> 1º A Força naval para o exercicio de 1896 constará:
+**Art.** 1º A Força naval para o exercicio de 1896 constará:
 
 § 1º Dos officiaes do Corpo da Armada e das classes annexas, de accordo com os respectivos quadros, comprehendidos os que for preciso embarcar nos navios de guerra e transportes da União, conforme suas lotações e dos estados-maiores das esquadras e divisões navaes;
 
@@ -22,7 +20,7 @@ Faço saber que o Congresso Nacional decretou e eu sancciono a lei seguinte:
 
 § 6º Em tempo de guerra, do pessoal que for necessario.
 
-<strong>Art.</strong> 2º E’ o Governo autorisado:
+**Art.** 2º E’ o Governo autorisado:
 
 § 1º A engajar para o serviço da Armada Nacional, durante a paz ou a guerra, o pessoal preciso para preencher os claros que houver na Força naval;
 
@@ -36,12 +34,12 @@ Faço saber que o Congresso Nacional decretou e eu sancciono a lei seguinte:
 
 Cada um desses navios terá a bordo o seguinte pessoal militar: commandante, immediato, commissario, mestre, fiel e um quinto da lotação, percebendo os vencimentos de navio armado.
 
-<strong>Art.</strong> 3º O Ministro da Marinha, de accordo com o da Industria, Viação e Obras Publicas, providenciará para que as companhias de navegação subvencionadas pelo Estado sejam obrigadas a construir seus navios com os requisitos indispensaveis para, na eventualidade de guerra, serem convertidos em cruzadores.
+**Art.** 3º O Ministro da Marinha, de accordo com o da Industria, Viação e Obras Publicas, providenciará para que as companhias de navegação subvencionadas pelo Estado sejam obrigadas a construir seus navios com os requisitos indispensaveis para, na eventualidade de guerra, serem convertidos em cruzadores.
 
-<strong>Art.</strong> 4º Ficam revogadas as disposições em contrario.
+**Art.** 4º Ficam revogadas as disposições em contrario.
 
 Capital Federal, 1 de agosto de 1895, 7º da Republica.
 
-<strong>PRUDENTE J. DE MORAES BARROS.</strong>
+**PRUDENTE J. DE MORAES BARROS.**
 
 Elisiario José Barbosa.

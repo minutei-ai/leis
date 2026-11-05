@@ -1,7 +1,3 @@
-1
-
-###MPV-001047-0-000-29-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.047, DE 29 DE JUNHO DE 1995.
 
 Reduz a alíquota do imposto de importação para os produtos que especifica e dá outras providências.

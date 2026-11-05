@@ -1,5 +1,3 @@
-###DEC-088819-0-000-06-10-1983@@@
-
 Decreto nº 88.819, de 06 de outubro de 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Poxoréo, Estado de Mato Grosso.

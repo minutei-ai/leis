@@ -1,5 +1,3 @@
-###DEC-056156-0-000-27-04-1965@@@
-
 DECRETO Nº 56.156, DE 27 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Carmino Ricci a pesquisar água mineral, no Município de Presidente Prudente, Estado de São Paulo.

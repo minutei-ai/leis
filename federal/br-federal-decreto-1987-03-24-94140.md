@@ -1,5 +1,3 @@
-###DEC-094140-0-000-24-03-1987@@@
-
 DECRETO Nº 94.140, DE 24 DE MARÇO DE 1987.
 
 Altera o artigo 1º, caput do Decreto nº 92.248, de 30 de dezembro de 1985, que dispõe sobre a composição do Conselho Deliberativo do Fundo Nacional de Desenvolvimento da Educação.

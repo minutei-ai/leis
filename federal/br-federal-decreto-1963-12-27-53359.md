@@ -1,5 +1,3 @@
-###DEC-053359-0-000-27-12-1963@@@
-
 Decreto nº 53.359, de 27 de dezembro de 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Pôrto Alegre, no Estado do Rio Grande do Sul.

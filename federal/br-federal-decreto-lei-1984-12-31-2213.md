@@ -1,5 +1,3 @@
-###DEL-002213-0-000-31-12-1984@@@
-
 # Decreto-lei nº 2.213, de 31 dezembro de 1984
 
 Reajusta o valor do soldo base de cálculo de remuneração dos integrantes da Polícia Militar e do Corpo de Bombeiros do Distrito Federal.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/c2a1fa2d-48aa-43f6-834e-c98397ea5ec3/texto#nowhere)
 
-###DEL-001037-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.037, DE 21 DE OUTUBRO DE 1969
 
 Autoriza o Distrito Federal a prestar fiança.

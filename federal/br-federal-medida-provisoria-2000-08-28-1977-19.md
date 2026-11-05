@@ -1,5 +1,3 @@
-###MPV-001977-0-019-28-08-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-19, DE 28 de agosto DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

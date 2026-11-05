@@ -1,5 +1,3 @@
-###DEC-076253-0-000-12-09-1975@@@
-
 DECRETO Nº 76.253 - DE 12 DE Setembro DE 1975
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras e benfeitorias necessárias à implantação da Usina Termoeléctrica denominada Jorge Larceda III, da Centrais Elétricas do Sul do Brasil S.A., - ELETROSUL, no Estado de Santa Catarina.

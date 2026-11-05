@@ -1,5 +1,3 @@
-###DEC-072944-0-000-17-10-1973@@@
-
 Decreto nº 72.944, de 17 de outubro de 1973.
 
 Transfere, com o respectivo cargo, para o Quadro de Pessoal do Ministério da Fazenda, servidora do Quadro de Pessoal em extinção da Fundação IBGE.

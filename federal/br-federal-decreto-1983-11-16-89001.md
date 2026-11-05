@@ -1,5 +1,3 @@
-###DEC-089001-0-000-16-11-1983@@@
-
 Decreto nº 89.001, de 16 de novembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação repetidora do Morro da Cruz, da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Santa Catarina.

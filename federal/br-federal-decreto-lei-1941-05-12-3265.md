@@ -1,5 +1,3 @@
-###DEL-003265-0-000-12-05-1941@@@
-
 DECRETO-LEI N. 3.265 – DE 12 DE MAIO DE 1941
 
 Cria a taxa fitossanitária e dá outras providências.

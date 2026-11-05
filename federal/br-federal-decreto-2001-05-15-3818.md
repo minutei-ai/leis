@@ -1,5 +1,3 @@
-###DEC-003818-0-000-15-05-2001@@@
-
 DECRETO Nº 3.818 , DE 15 DE MAIO DE 2001.
 
 Dispõe sobre medidas emergenciais de redução do consumo de energia elétrica no âmbito da Administração Pública Federal.

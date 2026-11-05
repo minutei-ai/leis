@@ -1,5 +1,3 @@
-###DEC-076539-0-000-04-11-1975@@@
-
 DECRETO Nº 76.539, DE 4 DE NOVEMBRO DE 1975.
 
 Renova por 10 (dez) anos a outorga deferida à S.A. "A Voz do Sertão", cuja denominação foi, posteriormente, alterada para Rádio Difusora de Presidente Prudente S.A., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Presidente Prudente, Estado de São Paulo.

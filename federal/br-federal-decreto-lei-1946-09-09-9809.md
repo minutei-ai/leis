@@ -1,5 +1,3 @@
-###DEL-009809-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.809 – DE 9 DE SETEMBRO DE 1946
 
 Interpreta o art. 16, do Decreto-lei nº 8.629, de 10 de janeiro de 1946.

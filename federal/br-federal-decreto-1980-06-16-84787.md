@@ -1,5 +1,3 @@
-###DEC-084787-0-000-16-06-1980@@@
-
 Decreto nº 84.787, de 16 de junho de 1980.
 
 Suspende o expediente nos órgãos e entidades da Administração Federal, por ocasião da visita de Sua Santidade o Papa João Paulo II.

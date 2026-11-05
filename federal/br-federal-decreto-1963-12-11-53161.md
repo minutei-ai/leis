@@ -1,5 +1,3 @@
-###DEC-053161-0-000-11-12-1963@@@
-
 DECRETO Nº 53.161, DE 11 DE DeZembro DE 1963.
 
 Autoriza a Chromium Mineração S.A a pesquisar minério de cromo no município de Piuí, Estado de Minas gerais.

@@ -1,5 +1,3 @@
-###DEL-006755-0-000-31-07-1944@@@
-
 DECRETO-LEI N. 6.755 – DE 31 DE JULHO DE 1944
 
 Dispõe sobre prazo e selagem de contratos de câmbio

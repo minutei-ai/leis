@@ -1,5 +1,3 @@
-###DEC-076754-0-000-09-12-1975@@@
-
 DECRETO Nº 76.754, De 9 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linhas de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEL-006575-0-000-09-06-1944@@@
-
 DECRETO-LEI N. 6.575 – DE 9 DE JUNHO DE 1944
 
 Autoriza a Prefeitura Municipal de São Vicente, do Estado de São Paulo, a utilizar, para fins urbanísticos, os terrenos de acrescidos de marinha que menciona, situadas na cidade e município do mesmo nome, e dá outras providências

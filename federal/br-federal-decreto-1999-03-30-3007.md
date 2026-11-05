@@ -1,5 +1,3 @@
-###DEC-003007-0-000-30-03-1999@@@
-
 DECRETO Nº 3.007, DE 30 DE MARÇO DE 1999
 
 Revoga o Decreto nº 80.419, de 27 de setembro de 1977, que dispõe sobre a execução da Convenção Regional sobre o Reconhecimento de Estudos, Títulos e Diplomas de Ensino Superior na América Latina e no Caribe.

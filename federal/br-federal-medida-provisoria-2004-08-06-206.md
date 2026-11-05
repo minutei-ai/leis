@@ -1,5 +1,3 @@
-###MPV-000206-0-000-06-08-2004@@@
-
 MEDIDA PROVISÓRIA Nº 206, DE 6 DE AGOSTO 2004
 
 Altera a tributação do mercado financeiro e de capitais, institui o Regime Tributário para Incentivo à Modernização e Ampliação da Estrutura Portuária - REPORTO, e dá outras providências.

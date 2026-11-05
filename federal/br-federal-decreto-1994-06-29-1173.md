@@ -1,7 +1,3 @@
-1
-
-###DEC-001173-0-000-29-06-1994@@@
-
 DECRETO N° 1.173, DE 29 DE JUNHO DE 1994
 
 Dispõe sobre a competência, organização e funcionamento do Conselho Nacional de Arquivos (CONARQ) e do Sistema Nacional de Arquivos (SINAR) e dá outras providências.

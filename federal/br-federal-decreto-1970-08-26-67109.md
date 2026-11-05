@@ -1,5 +1,3 @@
-###DEC-067109-0-000-26-08-1970@@@
-
 Decreto Nº 67.109, de 26 de AGôSTO de 1970.
 
 Declara de utilidade pública a Sociedade de Ensino e Beneficência - Província do Sul, com sede em Ponta Grossa, Estado do Paraná.

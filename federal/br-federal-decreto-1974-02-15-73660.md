@@ -1,5 +1,3 @@
-###DEC-073660-0-000-15-02-1974@@@
-
 DECRETO Nº 73.660, DE 15 DE FEVEREIRO DE 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

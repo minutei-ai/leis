@@ -1,5 +1,3 @@
-###DEC-053375-0-000-31-12-1963@@@
-
 Decreto nº 53.375, de 31 de dezembro de 1963.
 
 Cria no Ministério das Relações Exteriores o Serviço de Conservação do Patrimônio.

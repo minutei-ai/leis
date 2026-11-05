@@ -1,5 +1,3 @@
-###DEC-007132-0-000-19-03-2010@@@
-
 DECRETO Nº 7.132, DE 19 DE MARÇO DE 2010.
 
 Dá nova redação ao Decreto nº 3.184, de 27 de setembro de 1999, que dispõe sobre a concessão de indenização de transporte aos servidores públicos da administração direta, autárquica e fundacional do Poder Executivo da União, de modo a estender a indenização para os ocupantes de cargos em comissão.

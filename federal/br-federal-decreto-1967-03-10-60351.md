@@ -1,5 +1,3 @@
-###DEC-060351-0-000-10-03-1967@@@
-
 DECRETO Nº 60.351, DE 10 DE MARÇO DE 1967.
 
 Outorga à Companhia Paulista de Fôrça e Luz concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-007464-0-000-25-04-2011-PUB-01@@@
-
 DECRETO Nº7.464, DE 25 DE ABRIL DE 2011
 
 Dispõe sobre a prorrogação dos mandatos dos atuais membros do Conselho de Administração da Câmara de Comercialização de Energia Elétrica - CCEE.

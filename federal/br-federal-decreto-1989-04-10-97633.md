@@ -1,5 +1,3 @@
-###DEC-097633-0-000-10-04-1989@@@
-
 DECRETO N° 97.633, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre o Conselho Nacional de Proteção à Fauna - CNPF, e dá outras providências.

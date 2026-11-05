@@ -1,5 +1,3 @@
-###DEC-080961-0-000-07-12-1977@@@
-
 Decreto nº 80.961, de 07 de dezembro de 1977.
 
 Concede à Calminas - Calcários, Minérios Ltda. o direito de lavrar calcário no Município de Potiraguá, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-047567-0-000-31-12-1959@@@
-
 decreto nº 47.567, de 31 de dezembro de 1959
 
 Declara de utilidade pública e autoriza a desapropriação e aceitação de doação do domínio direto, do respectivo terreno, de imóvel que menciona, necessário ao Ministério da Guerra.

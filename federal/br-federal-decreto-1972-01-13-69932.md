@@ -1,5 +1,3 @@
-###DEC-069932-0-000-13-01-1972@@@
-
 DECRETO Nº 69.932, DE 13 DE JANEIRO DE 1972.
 
 Declara de utilidade pública o Asilo de Caridade Bom Sucesso, com sede em Bom Sucesso, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-005573-0-000-08-11-2005@@@
-
 DECRETO Nº 5.573, DE 8 DE NOVEMBRO DE 2005.
 
 Dispõe sobre a execução do Quadragésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 24 de junho de 2005.       
@@ -22,11 +20,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães Neto
-
-Este texto não substitui o publicado no DOU de 9.11.2005
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 CELEBRADO ENTRE
+Samuel Pinheiro Guimarães NetoACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 18 CELEBRADO ENTRE
 
 ARGENTINA, BRASIL, PARAGUAI E URUGUAI
 

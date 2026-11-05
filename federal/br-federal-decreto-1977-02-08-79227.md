@@ -1,5 +1,3 @@
-###DEC-079227-0-000-08-02-1977@@@
-
 Decreto nº 79.227, de 8 de fevereiro de 1977.
 
 Concede autorização à Fiação e Tecelagem São José S.A., para o funcionamento aos domingos e feriados civis e religiosos, nos setores que menciona, do seu estabelecimento industrial situado no Km 15 da BR-101, Distrito de Prazeres Município de Jaboatão, Estado de Pernambuco.

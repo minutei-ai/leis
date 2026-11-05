@@ -1,5 +1,3 @@
-###DEC-060464-A-000-14-03-1967@@@
-
 DECRETO Nº 60.464-A, DE 14 DE MARÇO DE 1967.
 
 Outorga concessão a Televisão Borborema Ltda., para instalar uma estação de radiodifusão de sons e imagens (televisão), na cidade de Campina Grande, Estado da Paraíba.

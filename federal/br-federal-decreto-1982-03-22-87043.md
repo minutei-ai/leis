@@ -1,5 +1,3 @@
-###DEC-087043-0-000-22-03-1982@@@
-
 DECRETO Nº 87.043, de 22 de março de 1982
 
 Regulamenta o Decreto-Lei nº 1.422, de 23 de outubro de 1975, que dispõe sobre o cumprimento do artigo 178 da Constituição por empresas e empregadores de toda natureza, mediante a manutenção do ensino de 1º grau gratuito ou recolhimento da contribuição do Salário-Educação.

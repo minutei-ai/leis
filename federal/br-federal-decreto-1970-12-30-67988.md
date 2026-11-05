@@ -1,5 +1,3 @@
-###DEC-067988-0-000-30-12-1970@@@
-
 DECRETO Nº 67.988, DE 30 DE DEZEMBRO DE 1970.
 
 Torna sem efeito o Decreto nº 64.975, de 11 de agôsto de 1969, na parte relativa a servidor que especifica.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211358)<br>
-
 # DECRETO N° 69.824, DE 26 DE AGOSTO DE 2025
 
 ### _Autoriza a Fazenda do Estado a instituir servidão administrativa, em favor do Município de Bauru, sobre o imóvel que especifica, e dá providências correlatas._

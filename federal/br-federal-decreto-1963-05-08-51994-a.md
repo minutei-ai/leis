@@ -1,5 +1,3 @@
-###DEC-051994-A-000-08-05-1963@@@
-
 Decreto nº 51.994-A, de 8 de maio de 1963.
 
 Aprova alterações introduzidas nos Estatutos da Solidez Companhia Nacional de Seguros.

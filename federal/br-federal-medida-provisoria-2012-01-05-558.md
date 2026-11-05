@@ -1,5 +1,3 @@
-###MPV-000558-0-000-05-01-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 558, DE 5 DE JANEIRO DE 2012
 
 Dispõe sobre alterações nos limites dos Parques Nacionais da Amazônia, dos Campos Amazônicos e Mapinguari, das Florestas Nacionais de Itaituba I, Itaituba II e do Crepori e da Área de Proteção Ambiental do Tapajós, e dá outras providências.

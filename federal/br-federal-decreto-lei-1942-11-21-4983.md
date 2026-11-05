@@ -1,5 +1,3 @@
-###DEL-004983-0-000-21-11-1942@@@
-
 DECRETO-LEI N. 4.983 – DE 21 DE NOVEMBRO DE 1942
 
 Dispõe sobre a organização do ensino industrial de emergência e sobre a transformação dos estabelecimentos de ensino industrial em centros de produção industrial para atender às exigências da guerra.

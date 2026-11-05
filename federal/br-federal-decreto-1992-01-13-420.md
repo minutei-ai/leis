@@ -1,7 +1,3 @@
-1
-
-###DEC-000420-0-000-13-01-1992@@@
-
 DECRETO Nº 420, DE 13 DE JANEIRO DE 1992
 
 Altera alíquotas do Imposto sobre Produtos Industrializados.

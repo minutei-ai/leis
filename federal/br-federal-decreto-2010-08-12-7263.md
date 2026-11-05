@@ -1,5 +1,3 @@
-###DEC-007263-0-000-12-08-2010-PUB-01@@@
-
 DECRETO Nº 7.263, DE 12 DE AGOSTO DE 2010.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Unida da Tanzânia sobre o Exercício de Atividade Remunerada por Parte de Dependentes do Pessoal Diplomático, Consular, Militar, Administrativo e Técnico, firmado em Dar es Salaam, em 22 de agosto de 2008.
@@ -116,4 +114,12 @@ Em testemunho do que os abaixo assinados, devidamente autorizados pelos seus res
 
 Feito em Dar es Salaam, em 22 de agosto de 2008.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:224.45pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">_____________________________ APPIO C. M. ACQUARONE FILHO Embaixador</span></p></td><td style="width:224.45pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA UNIDA DA TANZÂNIA</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">_____________________________ Mr. PENIEL M. LYIMO Secretário Permanente do Ministério da Agricultura, Segurança Alimentar </span><span style="font-family:Arial">e Cooperativas</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border-collapse:collapse"><tbody><tr><td style="width:224.45pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL&nbsp;&nbsp; _____________________________ APPIO C. M. ACQUARONE FILHO Embaixador
+
+</td><td style="width:224.45pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA UNIDA DA TANZÂNIA&nbsp;&nbsp; _____________________________ Mr. PENIEL M. LYIMO Secretário Permanente do Ministério da Agricultura, Segurança Alimentar e Cooperativas
+
+</td></tr></tbody></table>

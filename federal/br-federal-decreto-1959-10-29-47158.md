@@ -1,5 +1,3 @@
-###DEC-047158-0-000-29-10-1959@@@
-
 DECRETO Nº 47.158, DE 29 DE OUTUBRO DE 1959.
 
 Transfere, sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-Mensalista, de repartição do Ministério da Agricultura, na forma que menciona.

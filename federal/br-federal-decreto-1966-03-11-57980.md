@@ -1,5 +1,3 @@
-###DEC-057980-0-000-11-03-1966@@@
-
 DECRETO Nº 57.980, DE 11 DE MARÇO DE 1966.
 
 Regulamenta o art. 94 da Lei nº 4.024, de 20 de dezembro de 1961 (Lei que fixa as Diretrizes e Bases da Educação Nacional) na parte referente a bôlsas de estudo do ensino médio.

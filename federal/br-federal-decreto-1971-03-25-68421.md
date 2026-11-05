@@ -1,5 +1,3 @@
-###DEC-068421-0-000-25-03-1971@@@
-
 DECRETO Nº 68.421, DE 25 DE MARÇO DE 1971.
 
 Retifica decreto de redistribuição de cargo com respectivo ocupante, para o Quadro de Pessoal do Departamento de Polícia Federal.

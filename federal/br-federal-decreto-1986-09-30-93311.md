@@ -1,5 +1,3 @@
-###DEC-093311-0-000-30-09-1986@@@
-
 DECRETO Nº 93.311, DE 30 de SETEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Taboca" e "Laginhas", situados no Município de Itapipoca, no Estado do Ceará, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.617, de 02 de maio de 1986 e dá outras providências.

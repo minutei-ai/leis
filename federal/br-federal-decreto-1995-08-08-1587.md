@@ -1,7 +1,3 @@
-1
-
-###DEC-001587-0-000-08-08-1995@@@
-
 # DECRETO Nº 1.587, DE 8 DE AGOSTO DE 1995.
 
 Dispõe sobre o custeio de estada dos servidores que menciona, e dá outras providências.

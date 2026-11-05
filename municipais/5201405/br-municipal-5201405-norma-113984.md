@@ -1,4 +1,5 @@
-DECRETO “N” Nº 229, DE 16 DE AGOSTO DE 2018<br>
+DECRETO “N” Nº 229, DE 16 DE AGOSTO DE 2018
+
 (Revogado pelo Decreto“N” Nº 627, de 01 de agosto de 2024)
 
 ~~Delega atribuição ao Secretário Municipal de Administração.~~
@@ -13,8 +14,10 @@ DECRETO “N” Nº 229, DE 16 DE AGOSTO DE 2018<br>
 
 ~~Gabinete do Prefeito do Município de Aparecida de Goiânia - GO, Estado de Goiás, 16 agosto de 2018.~~
 
-~~GUSTAVO MENDANHA<br>
+~~GUSTAVO MENDANHA
+
 Prefeito~~
 
-~~EINSTEIN PANIAGO<br>
+~~EINSTEIN PANIAGO
+
 Chefe da Casa Civil~~

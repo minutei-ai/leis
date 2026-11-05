@@ -1,5 +1,3 @@
-###DEC-081248-0-000-23-01-1978@@@
-
 Decreto nº 81.248, de 23 de janeiro de 1978.
 
 Cria Organização Militar no Exército e dá outras providências.

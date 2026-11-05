@@ -1,5 +1,3 @@
-###DEC-051920-0-000-26-04-1963@@@
-
 DECRETO Nº 51.920, DE 26 DE ABRIL DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Mirandópolis no Estado de São Paulo.

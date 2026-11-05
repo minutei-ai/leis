@@ -1,5 +1,3 @@
-###DEC-054385-0-000-06-10-1964@@@
-
 DECRETO Nº 54.385, DE 6 DE OUTUBRO DE 1964.
 
 Designa administrador para o Serviço Federal de Habitação e Urbanismo até a nomeação do Superintendente.

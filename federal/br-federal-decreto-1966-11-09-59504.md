@@ -1,5 +1,3 @@
-###DEC-059504-0-000-09-11-1966@@@
-
 decreto Nº 59.504, de 9 de novembro de 1966.
 
 Declara de utilidade pública o Ambulatório “Maria Villac”, com sede em Campinas, Estado de São Paulo.

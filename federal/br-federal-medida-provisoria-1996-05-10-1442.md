@@ -1,7 +1,3 @@
-1
-
-###MPV-001442-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.442, DE 10 DE MAIO DE 1996
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089757-0-000-06-06-1984@@@
-
 Decreto nº 89.757 de 06 de junho de 1984
 
 Concede ao Instituto de Resseguros do Brasil - IRB autorização para proceder a aumento do seu capital social e altera seus Estatutos.

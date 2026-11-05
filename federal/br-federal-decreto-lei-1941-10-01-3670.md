@@ -1,5 +1,3 @@
-###DEL-003670-0-000-01-10-1941@@@
-
 DECRETO-LEI N. 3.670 – DE 1 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Justiça e negócios Interiores, o crédito suplementar de 170:000$0, à verba que especifica.

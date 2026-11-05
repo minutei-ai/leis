@@ -1,5 +1,3 @@
-###DEL-003366-0-000-25-06-1941@@@
-
 DECRETO- lEI N. 3.366 – DE 25 DE JUNHO DE 1941
 
 Dispõe sobre a execução dos serviços de transportes coletivos no Município de São Paulo e dá outras providências

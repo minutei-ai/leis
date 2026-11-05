@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica o Poder Executivo autorizado a oferecer, em nome do Estado da Bahia, garantias até o limite de US$ 123,500.000,00 (cento e vinte e três milhões e quinhentos mil dólares americanos), em operação de crédito da União com o Banco Internacional para Reconstrução e Desenvolvimento - BIRD, a ser repassada à Empresa Baiana de Águas e Saneamento S/A - EMBASA.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 6.899, de 30 de agosto de 1995](https://www.legislabahia.ba.gov.br/documentos/lei-no-6899-de-30-de-agosto-de-1995#LO_6_899_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 6.899, de 30 de agosto de 1995](https://www.legislabahia.ba.gov.br/documentos/lei-no-6899-de-30-de-agosto-de-1995#LO_6_899_Art__1) .
+
 Redação original: "Art. 1º - Fica o Poder Executivo autorizado a oferecer, em nome do Estado da Bahia, garantias até o limite de US$ 99,400,000,00 (noventa e nove milhões e quatrocentos mil dólares americanos), em operação de crédito da União com o Banco Internacional para Reconstrução e Desenvolvimento - BIRD, a ser repassada à Empresa Bahiana de Água e Saneamento S/A - EMBASA."
 
 Parágrafo único - Os recursos resultantes da operação de crédito de que trata este artigo destinam-se à ampliação de sistemas de abastecimento de água e de esgotamento sanitário no Estado da Bahia e à modernização e restruturação institucional da Empresa Bahiana de Água e Saneamento S/A - EMBASA.

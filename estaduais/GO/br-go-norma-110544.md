@@ -44,7 +44,8 @@ Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação.
 
 Goiânia, 31 de março de 2025; 137º da República.
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 MINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS
@@ -62,7 +63,7 @@ Funções Gratificadas
 | .................................................... | ............................ |
 | Subprocurador-­Geral de Justiça | 4 |
 | ............................................................. | ........................ |
-| ~~Coordenador do Gabinete de Planejamento e Gestão~~ ~~Integrada~~ | ~~0~~ |
+| ~~Coordenador do Gabinete de Planejamento e GestãoIntegrada~~ | ~~0~~ |
 | ............................................................. | ........................ |
 | Total | 120 |
 

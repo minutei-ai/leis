@@ -1,5 +1,3 @@
-###DEC-060900-0-000-26-06-1967@@@
-
 DECRETO Nº 60.900, DE 26 DE JUNHO DE 1967.
 
 Dispõe sobre a vinculação das entidades da Administração Indireta e dá outras providências.

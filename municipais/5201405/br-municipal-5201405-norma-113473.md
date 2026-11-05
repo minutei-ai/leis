@@ -40,12 +40,14 @@ Art. 8° A presente Lei poderá ser regulamentada por ato do Chefe do Poder Exec
 
 Art. 9º Revoga-se a Lei Municipal nº 3.594 de 02 de dezembro de 2020.
 
-Art. 10 Esta Lei entrará em vigor na data da sua publicação, produzindo efeitos jurídicos a partir de 29 de março de 2023. <br>
+Art. 10 Esta Lei entrará em vigor na data da sua publicação, produzindo efeitos jurídicos a partir de 29 de março de 2023. 
+
 (Redação alterada pela Lei Ordinária nº 3.705, de 11 de abril de 2023).
 
 ~~Art. 10º Esta Lei entrará em vigor na data da sua publicação produzindo efeitos jurídicos a partir de 01 de janeiro de 2023.~~
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, 23 de março de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

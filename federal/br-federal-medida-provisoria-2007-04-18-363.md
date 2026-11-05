@@ -1,5 +1,3 @@
-###MPV-000363-0-000-18-04-2007@@@
-
 MEDIDA PROVISÓRIA Nº 363, DE 18 DE ABRIL DE 2007.
 
 Acrescenta o art. 2o-A e altera o art. 3o da Lei no 10.184, de 12 de fevereiro de 2001, que dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais.
@@ -21,5 +19,3 @@ Brasília, 18 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 19.4.2007.

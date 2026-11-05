@@ -1,5 +1,3 @@
-###DEC-049296-0-000-19-11-1960@@@
-
 DECRETO Nº 49.296, DE 19 DE NOVEMBRO DE 1960.
 
 Concede à Mineração São Diogo Limitada autorização para funcionar como emprêsa de mineração.

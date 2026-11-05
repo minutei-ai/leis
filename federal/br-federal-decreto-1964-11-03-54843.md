@@ -1,5 +1,3 @@
-###DEC-054843-0-000-03-11-1964@@@
-
 DECRETO Nº 54.843, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Hiroshi Urushima a pesquisar minério de tungstênio no município de Nova Trento, Estado de Santa Catarina.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6d8d9697-e2d6-4540-880f-6cd8a7ca6af4/texto#nowhere)
 
-###DEL-000879-0-000-17-09-1969@@@
-
 Decreto-lei nº 879, de 17 de setembro de 1969
 
 Transfere cargo do Departamento Administrativo do Pessoal Civil (DASP) para o Ministério da Saúde.

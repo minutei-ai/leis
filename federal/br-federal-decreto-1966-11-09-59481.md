@@ -1,5 +1,3 @@
-###DEC-059481-0-000-09-11-1966@@@
-
 Decreto nº 59.481, de 9 de novembro de 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$2.000.000.000, para o fim que especifica.

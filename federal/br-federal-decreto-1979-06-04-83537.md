@@ -1,5 +1,3 @@
-###DEC-083537-0-000-04-06-1979@@@
-
 Decreto nº 83.537, de 04 de junho de 1979.
 
 Concede autorização à empresa "ALITALIA - LINEE AEREE ITALIANE" para continuar a funcionar no Brasil e altera Cláusulas que acompanharam o Decreto nº 25.602, de 28 de setembro de 1948.

@@ -1,5 +1,3 @@
-###DEC-051957-0-000-26-04-1963@@@
-
 decreto nº 51.957, de 26 de abril de 1963.
 
 Concede à Sociedade Anônima Martinelli - Navegação - Comércio “Samnave” autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

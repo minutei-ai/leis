@@ -1,5 +1,3 @@
-###DEC-064763-0-000-01-07-1969@@@
-
 DECRETO Nº 64.763 - DE 1º DE JULHO DE 1969.
 
 Designa a Delegacia Brasileira às Negociações Tarifárias com o Uruguai.

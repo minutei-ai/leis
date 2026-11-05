@@ -1,5 +1,3 @@
-###DEC-049802-0-000-31-12-1960@@@
-
 DECRETO Nº 49.802, DE 31 DE DEZEMBRO DE 1960.
 
 Altera a relação nominal que acompanha o Decreto nº 7.530 de 29 de dezembro de 1959.

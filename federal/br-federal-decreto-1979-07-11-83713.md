@@ -1,5 +1,3 @@
-###DEC-083713-0-000-11-07-1979@@@
-
 DECRETO Nº 83.713, DE 11 DE JULHO DE 1979.
 
 Concede à Julio, Julio & Cia. Ltda. o direito de lavrar granito no Município de Sorocaba, Estado de São Paulo.

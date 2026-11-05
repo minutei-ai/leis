@@ -1,5 +1,3 @@
-###DEL-007924-0-000-03-09-1945@@@
-
 DECRETO- LEI N. 7.924 – DE 3 DE SETEMBRO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Marinha e dá outras providências.

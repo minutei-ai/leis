@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185421)
-
 # DECRETO Nº 63.251, DE 08 DE MARÇO DE 2018
 
 ### _Disciplina a instauração e o processamento de apuração preliminar na hipótese de assédio sexual praticado por agente público no âmbito da Administração Pública Estadual_
@@ -38,50 +36,96 @@ Palácio dos Bandeirantes, 8 de março de 2018
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Márcio Luiz França Gomes<br>
-Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação<br>
-Jose Luiz de França Penna<br>
-Secretário da Cultura<br>
-José Renato Nalini<br>
-Secretário da Educação<br>
-Benedito Braga<br>
-Secretário de Saneamento e Recursos Hídricos<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Nelson Luiz Baeta Neves Filho<br>
-Secretário da Habitação<br>
-Laurence Casagrande Lourenço<br>
-Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Antonio Floriano Pereira Pesaro<br>
-Secretário de Desenvolvimento Social<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-David Everson Uip<br>
-Secretário da Saúde<br>
-Sérgio Turra Sobrane<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Segurança Pública<br>
-Lourival Gomes<br>
-Secretário da Administração Penitenciária<br>
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-José Luiz Ribeiro<br>
-Secretário do Emprego e Relações do Trabalho<br>
-Paulo Gustavo Maiurino<br>
-Secretário de Esporte, Lazer e Juventude<br>
-Ricardo Toledo Silva<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Energia e Mineração<br>
-Fabrício Cobra Arbex<br>
-Secretário-Adjunto da Casa Civil, Respondendo pelo Expediente da Secretaria de Turismo<br>
-Linamara Rizzo Battistella<br>
-Secretária dos Direitos da Pessoa com Deficiência<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Moacir Rossetti<br>
-Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+Márcio Luiz França Gomes
+
+Secretário de Desenvolvimento Econômico, Ciência, Tecnologia e Inovação
+
+Jose Luiz de França Penna
+
+Secretário da Cultura
+
+José Renato Nalini
+
+Secretário da Educação
+
+Benedito Braga
+
+Secretário de Saneamento e Recursos Hídricos
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Nelson Luiz Baeta Neves Filho
+
+Secretário da Habitação
+
+Laurence Casagrande Lourenço
+
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes
+
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Antonio Floriano Pereira Pesaro
+
+Secretário de Desenvolvimento Social
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+David Everson Uip
+
+Secretário da Saúde
+
+Sérgio Turra Sobrane
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria da Segurança Pública
+
+Lourival Gomes
+
+Secretário da Administração Penitenciária
+
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+José Luiz Ribeiro
+
+Secretário do Emprego e Relações do Trabalho
+
+Paulo Gustavo Maiurino
+
+Secretário de Esporte, Lazer e Juventude
+
+Ricardo Toledo Silva
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Energia e Mineração
+
+Fabrício Cobra Arbex
+
+Secretário-Adjunto da Casa Civil, Respondendo pelo Expediente da Secretaria de Turismo
+
+Linamara Rizzo Battistella
+
+Secretária dos Direitos da Pessoa com Deficiência
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Moacir Rossetti
+
+Secretário-Adjunto, Respondendo pelo Expediente da Secretaria de Governo
+
 Publicado na Secretaria de Governo, aos 8 de março de 2018.

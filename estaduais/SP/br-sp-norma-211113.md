@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211113)<br>
-
 # LEI N° 18.158, DE 27 DE JUNHO DE 2025
 
 ## (Projeto de lei n° 430/2022, do Deputado Luiz Fernando T. Ferreira - PT)

@@ -1,5 +1,3 @@
-###DEC-087862-0-000-23-11-1982@@@
-
 Decreto nº 87.862, de 23 de novembro de 1982.
 
 Suspende a execução da Lei nº 174, de 8 de dezembro de 1977, do Estado do Rio de Janeiro.

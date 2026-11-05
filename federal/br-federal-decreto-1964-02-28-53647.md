@@ -1,5 +1,3 @@
-###DEC-053647-0-000-28-02-1964@@@
-
 DECRETO Nº 53.647, DE 28 DE FEVEREIRO DE 1964.
 
 Altera dispositivos do Decreto número 52.025, de 20 de maio de1963.

@@ -1,5 +1,3 @@
-###DEC-056555-0-000-08-07-1965@@@
-
 DECRETO Nº 56.555, DE 8 DE JULHO DE 1965.
 
 Autoriza a Mineralurgia Limitada a lavrar minérios de ferro e de manganês, no município de Mariana, Estado de Minas Gerais.

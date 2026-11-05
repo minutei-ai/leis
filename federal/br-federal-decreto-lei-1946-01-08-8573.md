@@ -1,5 +1,3 @@
-###DEL-008573-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.573 – DE  8 de JANEIRO DE 1946
 
 Dispõe sôbre o registro de óbitos de militares da Aeronáutica, no estrangeiro.

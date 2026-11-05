@@ -1,5 +1,3 @@
-###DEC-006285-0-000-05-12-2007@@@
-
 DECRETO Nº 6.285, DE 5 DE DEZEMBRO DE 2007.
 
 Altera o Estatuto Social da Casa da Moeda do Brasil - CMB, aprovado pelo Decreto no 2.122, de 13 de janeiro de 1997.
@@ -57,5 +55,3 @@ Brasília, 5 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 6.12.2007

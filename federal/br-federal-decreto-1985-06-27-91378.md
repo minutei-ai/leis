@@ -1,5 +1,3 @@
-###DEC-091378-0-000-27-06-1985@@@
-
 Decreto nº 91.378, de 27 de junho de 1985
 
 Autoriza a Universidade Federal de Uberlândia a permutar com o Estado de Minas Gerais os imóveis que especifica.

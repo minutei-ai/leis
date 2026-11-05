@@ -48,5 +48,6 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 4 de novembro de 2021; 133º da República.
 
-Ronaldo Caiado<br>
+Ronaldo Caiado
+
 Governador do Estado

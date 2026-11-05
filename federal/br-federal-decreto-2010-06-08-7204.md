@@ -1,5 +1,3 @@
-###DEC-007204-0-000-08-06-2010@@@
-
 DECRETO Nº 7.204, DE 8 DE JUNHO DE 2010.
 
 Regulamenta o parágrafo único do art. 1o e o art. 4o-A da Lei no 9.991, de 24 de julho de 2000, que dispõe sobre realização de investimentos em pesquisa e desenvolvimento e em eficiência energética por parte das empresas concessionárias, permissionárias e autorizadas do setor de energia elétrica.

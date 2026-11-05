@@ -1,5 +1,3 @@
-###DEC-007514-0-000-05-07-2011-PUB-01@@@
-
 DECRETO Nº 7.514, DE 5 DE JULHO DE 2011
 
 Regulamenta os arts. 85 a 100 da Lei nº 12.249, de 11 de junho de 2010, referentes à inclusão em quadro em extinção da administração federal dos servidores e dos militares oriundos do ex-Território Federal de Rondônia.

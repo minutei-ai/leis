@@ -1,5 +1,3 @@
-###DEC-072959-0-000-18-10-1973@@@
-
 DECRETO Nº 72.959, DE 18 DE OUTUBRO DE 1973.
 
 Redistribui cargo, Com a respectiva ocupante, para o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

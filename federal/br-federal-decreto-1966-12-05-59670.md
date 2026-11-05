@@ -1,5 +1,3 @@
-###DEC-059670-0-000-05-12-1966@@@
-
 Decreto Nº 59.670, DE 5 DE DEZEMBRO DE 1966.
 
 Ministérios da Guerra e da Marinha - Abre créditos especiais, desatinados ao pagamento de vencimentos e gratificações devidos a vários oficiais integrantes da comitiva da Escola Superior de Guerra, que em 1962 visitou os Estados Unidos da América.

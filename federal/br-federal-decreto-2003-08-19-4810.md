@@ -1,5 +1,3 @@
-###DEC-004810-0-000-19-08-2003@@@
-
 DECRETO Nº 4.810, DE 19 DE AGOSTO DE 2003.
 
 Estabelece normas para operação de embarcações pesqueiras nas zonas brasileiras de pesca, alto mar e por meio de acordos internacionais, e dá outras providências.       

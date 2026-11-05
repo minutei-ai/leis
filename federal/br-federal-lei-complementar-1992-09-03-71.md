@@ -1,7 +1,3 @@
-1
-
-###LCP-000071-0-000-03-09-1992@@@
-
 # LEI COMPLEMENTAR N° 71, DE 3 DE SETEMBRO DE 1992
 
 Dá nova redação ao art. 3° da Lei Complementar n° 62, de 28 de dezembro de 1989, que "estabelece normas sobre o cálculo, a entrega e o controle das liberações dos recursos dos Fundos de Participação e dá outras providências".

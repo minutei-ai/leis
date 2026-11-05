@@ -1,5 +1,3 @@
-###DEC-076997-0-000-08-01-1976@@@
-
 DECRETO Nº 76.997, DE 8 DE JANEIRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Nossa Senhora de Fátima Ltda., transferida à Fundação Cultural Riograndense - Rádio Fátima de Vacaria, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Vacaria, Estado do Rio Grande do Sul.

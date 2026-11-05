@@ -1,7 +1,3 @@
-1
-
-###DEL-000563-0-000-30-04-1969@@@
-
 DECRETO-LEI Nº 563, DE 30 DE ABRIL DE 1969
 
 Dá nova redação ao artigo 2º do Decreto-lei nº 300, de 28 de fevereiro de 1967, relativo a operações de crédito rural.
@@ -23,8 +19,6 @@ A. COSTA E SILVA
 Antônio Delfim Netto
 
 Jarbas G. Passarinho
-
-###DEL-000563-0-000-30-04-1969@@@REP01+++
 
 (\*) DECRETO-LEI Nº 563, DE 30 DE ABRIL DE 1969
 

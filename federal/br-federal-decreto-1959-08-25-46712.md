@@ -1,5 +1,3 @@
-###DEC-046712-0-000-25-08-1959@@@
-
 DECRETO Nº 46.712, DE 25 DE AGÔSTO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Pato Branco, no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-073804-0-000-12-03-1974@@@
-
 DECRETO Nº 73.804, DE 12 DE MARÇO DE 1974.
 
 Declara de utilidade pública as instituições que menciona.

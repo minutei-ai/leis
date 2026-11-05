@@ -1,5 +1,3 @@
-###DEC-002748-0-000-26-08-1998@@@
-
 DECRETO Nº 2.748, DE 26 DE AGOSTO DE 1998
 
 Alerta o Decreto nº 75.924, de 2 de julho de 1975, que dispõe sobre a Medalha Marechal Hermes - Aplicação e Estudo.

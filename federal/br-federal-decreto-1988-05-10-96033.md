@@ -1,5 +1,3 @@
-###DEC-096033-0-000-10-05-1988@@@
-
 # DECRETO N° 96.033, DE 10 DE MAIO DE 1988
 
 Dispõe sobre aumento do capital social da EMBRAER - Empresa Brasileira de Aeronáutica S.A.

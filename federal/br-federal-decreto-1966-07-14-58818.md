@@ -1,5 +1,3 @@
-###DEC-058818-0-000-14-07-1966@@@
-
 DECRETO Nº 58.818, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção nº 94 sôbre as cláusulas de Trabalho nos contratos firmados por Autoridade Pública.
@@ -208,4 +206,20 @@ O texto que precede é o texto autêntico da convenção devidamente adotada pel
 
 Em fé do que, assinaram a 18 de agôsto de 1949.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Presidente da Conferência</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Guildhayme Myrddin-Evans</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>O Diretor-Geral da Repartição Internacional do Trabalho</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>David A. Morse</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Presidente da Conferência
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Guildhayme Myrddin-Evans
+
+</td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+O Diretor-Geral da Repartição Internacional do Trabalho
+
+</td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+David A. Morse
+
+</td></tr></tbody></table>

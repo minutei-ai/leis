@@ -1,5 +1,3 @@
-###DEC-075849-0-000-11-06-1975@@@
-
 DECRETO Nº 75.849, DE 11 DE JUNHO DE 1975
 
 Concede reconhecimento ao curso de Turismo da Faculdade de Turismo no Morumbi, mantida pela Organização Bandeirante de Tecnologia e Cultura, com sede na cidade de São Paulo, Estado de São Paulo.

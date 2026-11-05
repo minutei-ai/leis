@@ -1,5 +1,3 @@
-###DEC-073705-0-000-28-02-1974@@@
-
 DECRETO Nº 73.705, DE 28 DE FEVEREIRO DE 1974.
 
 Declara perempta a outorga deferida à Rádio Difusora Rumo ao Oeste Ltda., para executar serviço de radiodifusão sonora em onda curta, na cidade de Goiânia, Estado de Goiás.

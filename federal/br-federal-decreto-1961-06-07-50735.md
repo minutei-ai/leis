@@ -1,5 +1,3 @@
-###DEC-050735-0-000-07-06-1961@@@
-
 DECRETO Nº 50.735, DE 7 DE JUNHO DE 1961.
 
 Promulga a Convenção para o Fomento das Relações Culturais interamericanas, assinada em Caracas, a 28 de março de 1954.

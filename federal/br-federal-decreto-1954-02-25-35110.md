@@ -1,6 +1,4 @@
-###DEC-035110-0-000-25-02-1954@@@
-
-<strong>DECRETO Nº 35.110, DE 25 DE FEVEREIRO DE 1954.</strong>
+**DECRETO Nº 35.110, DE 25 DE FEVEREIRO DE 1954.**
 
 <!-- fac-simile-oficial:inicio -->
 

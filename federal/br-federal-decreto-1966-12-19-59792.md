@@ -1,5 +1,3 @@
-###DEC-059792-0-000-19-12-1966@@@
-
 DECRETO Nº 59.792, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Francisco Matarazzo Júnior a pesquisar água mineral no município de Santa Rosa de Viterbo, Estado de São Paulo.

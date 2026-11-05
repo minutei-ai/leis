@@ -1,7 +1,3 @@
-1
-
-###DEL-002373-0-000-18-11-1987@@@
-
 # DECRETO-LEI Nº 2.373, DE 18 DE NOVEMBRO DE 1987.
 
 Dispõe sobre o posicionamento dos funcionários pertencentes à categoria de Técnico do Tesouro Nacional da Carreira Auditoria do Tesouro Nacional, instituída pelo Decreto-lei nº 2.225, de 10 de janeiro de 1985.

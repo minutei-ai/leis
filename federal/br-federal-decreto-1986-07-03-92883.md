@@ -1,5 +1,3 @@
-###DEC-092883-0-000-03-07-1986@@@
-
 DECRETO Nº 92.883, DE 3 DE JULHO DE 1986
 
 Renova a concessão outorgada à RÁDIO CLUBE NEPOMUCENO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Nepomuceno, Estado de Minas Gerais.

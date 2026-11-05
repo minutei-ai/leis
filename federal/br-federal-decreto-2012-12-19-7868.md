@@ -1,5 +1,3 @@
-###DEC-007868-0-000-19-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.868, DE 19 DE DEZEMBRO DE 2012
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória.

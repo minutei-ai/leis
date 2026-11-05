@@ -1,5 +1,3 @@
-###DEL-005877-0-000-04-10-1943@@@
-
 DECRETO‑LEI N. 5.877 – DE 4 DE OUTUBRO DE 1943
 
 Regula a pesquisa e exploração da turfa nos terrenos de Jacarepaguá e dá outras providências

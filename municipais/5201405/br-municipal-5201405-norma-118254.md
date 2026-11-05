@@ -39,7 +39,49 @@ SITUAÇÃO PROPOSTA
 | LOTE 03A | 240,00 |
 | LOTE 07A | 240,00 |
 
-<table><thead></thead><tbody><tr><td style="text-align:center">LOTE 07B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 08A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 08B</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 09A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 10A</td><td style="text-align:center">240,00</td></tr><tr><td style="text-align:center">LOTE 14A</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">LOTE 14B</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">LOTE 15A</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">LOTE 16A</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">LOTE 17A</td><td style="text-align:center">300,00</td></tr><tr><td style="text-align:center">LOTE 18A</td><td style="text-align:center">300,00</td></tr></tbody></table>
+LOTE 07B
+
+240,00
+
+LOTE 08A
+
+240,00
+
+LOTE 08B
+
+240,00
+
+LOTE 09A
+
+240,00
+
+LOTE 10A
+
+240,00
+
+LOTE 14A
+
+300,00
+
+LOTE 14B
+
+300,00
+
+LOTE 15A
+
+300,00
+
+LOTE 16A
+
+300,00
+
+LOTE 17A
+
+300,00
+
+LOTE 18A
+
+300,00
 
 Parágrafo único. O remembramento/desmembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.012.883, aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana.
 
@@ -47,8 +89,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 19 de julho de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

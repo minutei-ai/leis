@@ -1,5 +1,3 @@
-###DEC-049189-A-000-08-11-1960@@@
-
 DECRETO Nº 49.189-A, DE 8 DE NOVEMBRO DE 1960.
 
 Assegura ao algodão da zona meridional do País da safra de 1960-61, a garantia de preços marítimos.
@@ -12,13 +10,85 @@ Art. 1º Fica assegurada ao algodão da zona meridional do Pais da safra de 1960
 
 a) aquisição do algodão em pluma, por arrôba de 15 quilos com fibra de 28 a 30 milímetros acondicionado em fardos de densidade média nunca inferior a 400 quilos amarrados em seis ou mais fitas de aço, podendo uma ser emendada, pôsto nos armazéns gerais da Capital do Estado de São Paulo, para a produção da região econômica que lhe é convergente e nos portos do País para as demais regiões, de acôrdo com a padronização oficial do Ministério da Agricultura, baixada pelo Decreto nº 43.427, de 26 de março de 1958, e nas seguintes bases:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cruzeiros</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipos ...............................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(p/ arrôba de 15kg)</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 .....................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.325,06</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4 ......................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.300,63</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4/5 ..................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.263,99</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 ......................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.221,25</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5/6 ...................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.178,51</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6 .....................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.125,99</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6/7....................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.069,81</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 ......................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.020,96</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7/8 ...................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>979,44</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8 ....................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>946,47</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9 ......................................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>928,15</span></p></td></tr></tbody></table>
+Cruzeiros
+
+Tipos ...............................................................................................................
+
+(p/ arrôba de 15kg)
+
+3 .....................................................................................................................
+
+1.325,06
+
+4 ......................................................................................................................
+
+1.300,63
+
+4/5 ..................................................................................................................
+
+1.263,99
+
+5 ......................................................................................................................
+
+1.221,25
+
+5/6 ...................................................................................................................
+
+1.178,51
+
+6 .....................................................................................................................
+
+1.125,99
+
+6/7....................................................................................................................
+
+1.069,81
+
+7 ......................................................................................................................
+
+1.020,96
+
+7/8 ...................................................................................................................
+
+979,44
+
+8 ....................................................................................................................
+
+946,47
+
+9 ......................................................................................................................
+
+928,15
 
 b) 80% (oitenta por cento) do financiamento, na base dos preços mínimos fixados na letra “a” dêste artigo;
 
 c) aquisição de algodão em carôço, por arrôba de 15 quilos líquidos, ensacado, sêco, pôsto em armazéns gerais ou em depósitos das usinas de descaroçamento, do Estado de São Paulo, e para os demais Estados da região meridional do País, de conformidade com o disposto no art. 4º da Lei nº 1.506, de 19 de dezembro de 1954, de acôrdo com a padronização baixada pelo referido Decreto nº 43.427, de 26 de março de 1958, nas seguintes bases:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cruzeiros</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tipos .........................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(p/ arrôba de 15</span><span>kg)</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 </span><span>-</span><span> superior</span><span> </span><span>....................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>428,58</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 </span><span>-</span><span> bom</span><span> </span><span>......................................................................</span><span>...</span><span>..................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>414,75</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5 </span><span>-</span><span> regular</span><span> </span><span>...................................................................................</span><span>..</span><span>..................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>395,00</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7 </span><span>-</span><span> Sofrível</span><span> </span><span>.....................................................................................................</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>346,81</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9 </span><span>-</span><span> inferior</span><span> </span><span>..................................................................................</span><span>..................</span><span>...</span></p></td><td style="width:88.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>407,70</span></p></td></tr></tbody></table>
+Cruzeiros
+
+Tipos .........................................................................................................
+
+(p/ arrôba de 15kg)
+
+1 - superior ....................................................................................................
+
+428,58
+
+3 - bom ...........................................................................................................
+
+414,75
+
+5 - regular .......................................................................................................
+
+395,00
+
+7 - Sofrível .....................................................................................................
+
+346,81
+
+9 - inferior .......................................................................................................
+
+407,70
 
 d) aquisição de carôço de algodão do tipo 2 da classe “caroços vestidos” das especificações baixadas pelo artigo 28 do Decreto nº 43.427, já citado, pelo preço de Cr$150,00 (cento e cinqüenta cruzeiros) por arrôba de 15 quilos líquidos, sêco e ensacado, pôsto em armazéns da Capital do Estado de São Paulo, e nos demais Estados, de conformidade com o art. 4º da Lei nº 1.506, de 19 de dezembro de 1951.
 

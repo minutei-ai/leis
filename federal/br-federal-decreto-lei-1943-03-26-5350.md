@@ -1,5 +1,3 @@
-###DEL-005350-0-000-26-03-1943@@@
-
 DECRETO-LEI N. 5.350 – DE 26 DE MARÇO DE 1943
 
 Dá nova sede ao 2º Batalhão de Carros de Combate

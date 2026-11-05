@@ -1,5 +1,3 @@
-###DEC-073374-0-000-26-12-1973@@@
-
 DECRETO Nº 73.374 - DE 26 DE DEZEMBRO DE 1973
 
 Concede autorização às empresas Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda, para executarem trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRAS.

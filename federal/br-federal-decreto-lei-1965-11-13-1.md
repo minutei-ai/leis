@@ -1,7 +1,3 @@
-1
-
-###DEL-000001-0-000-13-11-1965@@@
-
 Decreto-lei Nº 1, DE 13 DE novembro DE 1965
 
 Institui o cruzeiro nôvo e dá outras providências

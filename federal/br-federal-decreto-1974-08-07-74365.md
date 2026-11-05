@@ -1,5 +1,3 @@
-###DEC-074365-0-000-07-08-1974@@@
-
 DECRETO Nº 74.365, DE 7 DE AGOSTO DE 1974
 
 Concede reconhecimento ao curso de Química Industrial da Universidade Regional do Nordeste, mantida pela Fundação Universidade Regional do Nordeste, com sede na cidade de Campina Grande, Estado da Paraíba.

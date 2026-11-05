@@ -1,5 +1,3 @@
-###DEL-003435-0-000-17-07-1941@@@
-
 DECRETO-LEI n. 3.435 – DE 17 DE JULHO de 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 40:000$0, para atender a despesas que especifica, da Comissão Nacional de Fiscalização de Entorpecentes.

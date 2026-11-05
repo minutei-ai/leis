@@ -1,5 +1,3 @@
-###DEC-090639-0-000-10-12-1984@@@
-
 Decreto nº 90.639, de 10 de dezembro de 1984
 
 Mantém, sob nova denominação, o Conselho Consultivo dos Produtores de Cacau e dá outras providências.

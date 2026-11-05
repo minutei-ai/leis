@@ -1,5 +1,3 @@
-###DEC-081570-0-000-18-04-1978@@@
-
 Decreto nº 81.570, de 18 de abril de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

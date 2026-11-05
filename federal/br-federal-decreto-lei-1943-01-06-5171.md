@@ -1,5 +1,3 @@
-###DEL-005171-0-000-06-01-1943@@@
-
 DECRETO‑LEI N. 5.171 – DE 6 DE JANEIRO DE 1943
 
 Cria o 2º Regimento Auto‑metralhadoras de Cavalaria, com sede em Uru­guaiana, Estado do Rio Grande do Sal

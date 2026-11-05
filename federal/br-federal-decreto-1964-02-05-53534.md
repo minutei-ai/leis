@@ -1,5 +1,3 @@
-###DEC-053534-0-000-05-02-1964@@@
-
 Decreto nº 53.534, de 5 de fevereiro de 1964.
 
 Aprova o Regimento da Comissão Coordenadora da Criação do Cavalo Nacional.
@@ -507,8 +505,6 @@ Brasília, 20 de janeiro de 1964.
 Gen. Div. Estevão Taurino de Rezende Netto
 
 PRESIDENTE da CCCCN
-
-###DEC-053534-0-000-05-02-1964@@@RET01+++
 
 DECRETO Nº 53.534, DE 5 DE FEVEREIRO DE 1964.
 

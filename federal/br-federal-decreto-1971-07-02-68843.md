@@ -1,5 +1,3 @@
-###DEC-068843-0-000-02-07-1971@@@
-
 DECRETO Nº 68.843, DE 2 DE JULHO DE 1971.
 
 Concede à Diatomita Catarinense Ltda. o direito de lavrar diatomita, no município de Imbituba, Estado de Santa Catarina.

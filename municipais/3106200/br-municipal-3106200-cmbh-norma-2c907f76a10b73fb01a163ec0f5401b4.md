@@ -4,9 +4,7 @@
 
 O povo do Município de Belo Horizonte, por seus representantes, decreta e eu sanciono a seguinte lei:
 
-Art. 1º - <u>**O art. 144-A da Lei nº 8.616, de 14 de julho de 2003**</u>, passa a vigorar com a seguinte redação:
-
-<br>
+Art. 1º - **O art. 144-A da Lei nº 8.616, de 14 de julho de 2003**, passa a vigorar com a seguinte redação:
 
 “Art. 144-A - É proibido comercializar nos veículos de que trata esta seção:
 
@@ -23,5 +21,3 @@ Belo Horizonte, 21 de outubro de 2026.
 Prefeito de Belo Horizonte
 
 _(Originária do Projeto de Lei nº 591/25, de autoria do vereador Wagner Ferreira)_
-
-<br>

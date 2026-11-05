@@ -1,5 +1,3 @@
-###DEL-005637-0-000-01-07-1943@@@
-
 DECRETO‑LEI N. 5.637 – DE 1 DE JULHO DE 1943
 
 Altera o Quadro Permanente do Ministério das Relações Exteriores, na parte referente a funções gratificadas, e dá outras providências
@@ -28,4 +26,310 @@ QUADRO PERMANENTE
 
 FUNÇÕES GRATIFICADAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:35.55pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Número</span></p></td><td style="width:134.75pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Nome</span></p></td><td style="width:49.7pt; border-top-style:double; border-top-width:1.5pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Gratificação</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">anual</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Cr$</span></p></td><td style="width:35.5pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Número</span></p></td><td style="width:134.75pt; border-top-style:double; border-top-width:1.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Nome</span></p></td><td style="width:49.7pt; border-top-style:double; border-top-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Gratificação</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">anual</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Cr$</span></p></td></tr><tr><td style="width:35.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Comissão de Eficiência</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Comissão de Eficiência</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Membros.............................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Secretário............................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">8.400,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="font-size:0.8em">3.600,00</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">3</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Membros.............................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Secretário............................................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">8.400,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="font-size:0.8em">3.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Departamento de Administração</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Departamento de Administração</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">...........................................................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Secretário do Chefe............................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Auxiliar do Chefe.................................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão do Pessoal..............</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe do Serviço de Cominicações....</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Secção de Mecanografia.....</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2.400,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">6.000,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">2.400,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe de Departamento......................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Auxiliar do Chefe.................................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Auxiliar do Chefe.................................</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão do Pessoal..............</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão do Material..............</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão do Orçamento.........</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe do Serviço de Comunicações...</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Secção de Mecanografia.....</span></p><p class="Tabela" style="text-indent:0pt"><span style="font-size:0.8em">Chefe da Biblioteca do S. D. ..............</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da Portaria................................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">12.000,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">2.400,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">7.200,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">7.200,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">7.200,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">7.200,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="font-size:0.8em">3.600,00</span></p></td></tr><tr style="height:11pt"><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Departamento Diplomático e Consular</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Departamento Diplomático e Consular</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:11pt"><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="font-size:0.8em; -aw-import:ignore">&nbsp;</span></p></td></tr><tr style="height:11pt"><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">............................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">Secretário do Chefe............................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">Auxiliar do Chefe.................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">2.400,00</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="font-size:0.8em">Chefe do Departamento......................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span style="font-size:0.8em">Auxiliar do Chefe.................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="font-size:0.8em">Auxiliar do Chefe.................................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">18.000,00</span></p><p class="Tabela" style="text-indent:0pt; text-align:right"><span style="font-size:0.8em">4.800,00</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="font-size:0.8em">2.400,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão Política e Diplomá-tica.......................................................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="font-size:0.8em">Chefe da Divisão Econômica e Comercial............................................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="font-size:0.8em">Chefe da Divisão de Fronteiras...........</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão de Atos, Congres-sos e Conferências Internacionais......</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão do Cerimonial..........</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da divisão de Cooperação Intelectual............................................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão Consular.................</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr><tr><td style="width:35.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">............................................................</span></p></td><td style="width:49.7pt; border-right-style:double; border-right-width:1.5pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:2.75pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">–</span></p></td><td style="width:35.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">1</span></p></td><td style="width:134.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-size:0.8em">Chefe da Divisão de Passaportes.......</span></p></td><td style="width:49.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:double; border-bottom-width:1.5pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-size:0.8em">9.600,00</span></p></td></tr></tbody></table>
+Número
+
+Nome
+
+Gratificação
+
+anual
+
+Cr$
+
+Número
+
+Nome
+
+Gratificação
+
+anual
+
+Cr$
+
+Comissão de Eficiência
+
+Comissão de Eficiência
+
+3
+
+1
+
+Membros.............................................
+
+Secretário............................................
+
+8.400,00
+
+3.600,00
+
+3
+
+1
+
+Membros.............................................
+
+Secretário............................................
+
+8.400,00
+
+3.600,00
+
+Departamento de Administração
+
+Departamento de Administração
+
+–
+
+1
+
+1
+
+1
+
+–
+
+–
+
+1
+
+1
+
+–
+
+–
+
+...........................................................
+
+Secretário do Chefe............................
+
+Auxiliar do Chefe.................................
+
+Chefe da Divisão do Pessoal..............
+
+............................................................
+
+............................................................
+
+Chefe do Serviço de Cominicações....
+
+Chefe da Secção de Mecanografia.....
+
+............................................................
+
+............................................................
+
+–
+
+4.800,00
+
+2.400,00
+
+4.800,00
+
+–
+
+–
+
+6.000,00
+
+2.400,00
+
+–
+
+–
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+Chefe de Departamento......................
+
+Auxiliar do Chefe.................................
+
+Auxiliar do Chefe.................................
+
+Chefe da Divisão do Pessoal..............
+
+Chefe da Divisão do Material..............
+
+Chefe da Divisão do Orçamento.........
+
+Chefe do Serviço de Comunicações...
+
+Chefe da Secção de Mecanografia.....
+
+Chefe da Biblioteca do S. D. ..............
+
+Chefe da Portaria................................
+
+12.000,00
+
+4.800,00
+
+2.400,00
+
+7.200,00
+
+7.200,00
+
+7.200,00
+
+7.200,00
+
+4.800,00
+
+4.800,00
+
+3.600,00
+
+Departamento Diplomático e Consular
+
+Departamento Diplomático e Consular
+
+–
+
+1
+
+1
+
+............................................................
+
+Secretário do Chefe............................
+
+Auxiliar do Chefe.................................
+
+–
+
+4.800,00
+
+2.400,00
+
+1
+
+1
+
+1
+
+Chefe do Departamento......................
+
+Auxiliar do Chefe.................................
+
+Auxiliar do Chefe.................................
+
+18.000,00
+
+4.800,00
+
+2.400,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão Política e Diplomá-tica.......................................................
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão Econômica e Comercial............................................
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão de Fronteiras...........
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão de Atos, Congres-sos e Conferências Internacionais......
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão do Cerimonial..........
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da divisão de Cooperação Intelectual............................................
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão Consular.................
+
+9.600,00
+
+–
+
+............................................................
+
+–
+
+1
+
+Chefe da Divisão de Passaportes.......
+
+9.600,00

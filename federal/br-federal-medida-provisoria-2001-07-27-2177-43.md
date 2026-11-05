@@ -1,5 +1,3 @@
-###MPV-002177-0-043-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.177- 43, DE 27 DE JUlHO DE 2001
 
 Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde e dá outras providências.

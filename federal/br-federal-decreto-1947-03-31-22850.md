@@ -1,26 +1,24 @@
-###DEC-022850-0-000-31-03-1947@@@
+**DECRETO Nº 22.850, DE 31 DE MARÇO DE 1947.**
 
-<strong>DECRETO Nº 22.850, DE 31 DE MARÇO DE 1947.</strong>
+***Aprova novas especificações e tabelas para a classificação e fiscalização da exportação do fruto de oiticica.***
 
-<em><strong>Aprova novas especificações e tabelas para a classificação e fiscalização da exportação do fruto de oiticica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição, e tendo em vista o que dispõe o art. 6º do Decreto-lei n.º 334 de 15 de março de 1938, e o art. 94 do Regulamento aprovado pelo Decreto n.º 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição, e tendo em vista o que dispõe o art. 6º do Decreto-lei n.º 334 de 15 de março de 1938, e o art. 94 do Regulamento aprovado pelo Decreto n.º 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1.º Ficam aprovadas novas especificações e tabela para a classificação e fiscalização da exportação do fruto de oiticica.
 
-<strong>Art</strong>. 1.º Ficam aprovadas novas especificações e tabela para a classificação e fiscalização da exportação do fruto de oiticica.
+**Art**. 2.º Êste Decreto entrará em vigor 180 dias depois da data de sua publicação.
 
-<strong>Art</strong>. 2.º Êste Decreto entrará em vigor 180 dias depois da data de sua publicação.
-
-<strong>Art</strong>. 3.º revogam-se as disposições em contrário.
+**Art**. 3.º revogam-se as disposições em contrário.
 
 Rio de Janeiro, 31 de março de 1947, 126.º da Independência e 59.º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho
 
-<strong>NOVAS ESPECIFICAÇÕES E TABELAS PARA A CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DE FRUTO DE OITICICA,BAIXADAS COM O DECRETO Nº 22.850, DE 31 DE MARÇO DE 1947, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.</strong>
+**NOVAS ESPECIFICAÇÕES E TABELAS PARA A CLASSIFICAÇÃO E FISCALIZAÇÃO DA EXPORTAÇÃO DE FRUTO DE OITICICA,BAIXADAS COM O DECRETO Nº 22.850, DE 31 DE MARÇO DE 1947, EM VIRTUDE DE DISPOSIÇÕES DO DECRETO-LEI Nº 334, DE 15 DE MARÇO DE 1938, E DO REGULAMENTO APROVADO PELO DECRETO Nº 5.739, DE 29 DE MAIO DE 1940.**
 
 I - O fruto de oiticica (Licânia rígida, BENTH) será classificado segundo a aparência, o estado de maturidade, de conservação e de sanidade, a quantidade de impurezas e defeitos.
 
@@ -60,7 +58,7 @@ B) Reclassificação (artigo 39), inclusive emissão de certificado, por quilo..
 
 C) Arbitragem (parágrafo único) do art. 84), por quilo.................................................... 0,01
 
-D) Inspeções para os fins indicados nas alíneas <em>e</em> e <em>d</em> do art. 79, por quilo................ 0,001
+D) Inspeções para os fins indicados nas alíneas *e* e *d* do art. 79, por quilo................ 0,001
 
 E) Análise de amostras em laboratórios...................................................................... 100,00
 

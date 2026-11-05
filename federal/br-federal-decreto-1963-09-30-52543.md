@@ -1,5 +1,3 @@
-###DEC-052543-0-000-30-09-1963@@@
-
 DECRETO Nº 52.543, DE 30 DE SETEMBRO DE 1963.
 
 Transfere à Prefeitura Municipal de Campestre concessão para produzir e distribuir energia elétrica no município.

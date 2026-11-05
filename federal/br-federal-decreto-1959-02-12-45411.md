@@ -1,5 +1,3 @@
-###DEC-045411-0-000-12-02-1959@@@
-
 DECRETO Nº 45.411, DE 12 DE FEVEREIRO DE 1959.
 
 Declara públicas, de uso comum, do domínio da União e do Estado do Paraná, as águas do Rio “Mangueirinha”.

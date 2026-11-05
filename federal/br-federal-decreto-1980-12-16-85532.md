@@ -1,5 +1,3 @@
-###DEC-085532-0-000-16-12-1980@@@
-
 DECRETO Nº 85.532, de 16 de dezembro de 1980.
 
 Extingue o Grupamento do Leste Catarinense, os 1º, 2º e 3º Grupamento de Fronteira no Ministério do Exército.

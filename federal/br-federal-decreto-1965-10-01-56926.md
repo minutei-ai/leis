@@ -1,5 +1,3 @@
-###DEC-056926-0-000-01-10-1965@@@
-
 DECRETO Nº 56.926, DE 1º DE OUTUBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos de A Equitativa dos Estados Unidos do Brasil.

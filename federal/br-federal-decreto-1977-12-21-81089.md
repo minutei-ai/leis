@@ -1,5 +1,3 @@
-###DEC-081089-0-000-21-12-1977@@@
-
 DECRETO Nº 81.089, DE 21 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, das Faculdades Associadas do Ipiranga, com sede na cidade de São Paulo, Estado de São Paulo.

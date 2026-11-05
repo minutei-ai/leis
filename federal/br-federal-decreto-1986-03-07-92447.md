@@ -1,5 +1,3 @@
-###DEC-092447-0-000-07-03-1986@@@
-
 DECRETO Nº 92.447, DE 07 DE MARÇO DE 1986
 
 Renova a concessão outorgada à RÁDIO CULTURA DE SERGIPE S/A, para explorar serviço de radiodifusão sonora em onda média, na cidade de Aracajú, Estado de Sergipe.

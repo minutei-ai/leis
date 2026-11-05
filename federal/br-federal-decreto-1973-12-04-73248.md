@@ -1,5 +1,3 @@
-###DEC-073248-0-000-04-12-1973@@@
-
 DECRETO Nº 73.248 - DE 4 DE DEZEMBRO DE 1973
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a empréstimo externo que especifica.

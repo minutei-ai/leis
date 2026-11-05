@@ -1,5 +1,3 @@
-###DEC-068655-0-000-24-05-1971@@@
-
 DECRETO Nº 68.655 - DE 24 DE MAIO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Adrianópolis - Rocha Leão, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-068939-0-000-16-07-1971@@@
-
 DECRETO Nº 68.939, DE 16 DE JULHO DE 1971.
 
 Dispõe sôbre a extinção de cargos e funções gratificadas no Quadro de Pessoal da Agência Nacional.

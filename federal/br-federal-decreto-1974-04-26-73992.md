@@ -1,5 +1,3 @@
-###DEC-073992-0-000-26-04-1974@@@
-
 DECRETO nº 73.992, de 26 de abril de 1974.
 
 Concede autorização à empresa Dearborn Storn Drilling S.A, para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-007191-0-000-31-05-2010@@@
-
 DECRETO Nº 7.191, DE 31 DE MAIO DE 2010.
 
 Dispõe sobre a lotação dos cargos de Analista Técnico de Políticas Sociais da Carreira de Desenvolvimento de Políticas Sociais de que trata a Lei no 12.094, de 19 de novembro de 2009, e sobre o exercício de seus ocupantes
@@ -42,4 +40,66 @@ ANEXO
 
 LOTAÇÃO INICIAL DOS CARGOS DE ANALISTA TÉCNICO DE POLÍTICAS SOCIAIS DA CARREIRA DE DESENVOLVIMENTO DE POLÍTICAS SOCIAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">ÓRGÃO DE LOTAÇÃO</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">QUANTIDADE</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Cultura</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Educação</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">300</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Justiça</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Pesca e Aquicultura</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Previdência Social</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério da Saúde</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">720</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério das Cidades</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério do Desenvolvimento Agrário</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério do Desenvolvimento Social e Combate à Fome</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">330</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério do Trabalho e Emprego</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretaria de Direitos Humanos</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretaria de Políticas de Promoção da Igualdade Racial</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Secretaria de Políticas para as Mulheres</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ministério do Planejamento, Orçamento e Gestão</span></p></td><td style="width:71.1pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">430</span></p></td></tr><tr><td style="width:375.9pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">T O T A L</span></p></td><td style="width:71.1pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.400</span></p></td></tr></tbody></table>
+ÓRGÃO DE LOTAÇÃO
+
+QUANTIDADE
+
+Ministério da Cultura
+
+100
+
+Ministério da Educação
+
+300
+
+Ministério da Justiça
+
+200
+
+Ministério da Pesca e Aquicultura
+
+30
+
+Ministério da Previdência Social
+
+20
+
+Ministério da Saúde
+
+720
+
+Ministério das Cidades
+
+60
+
+Ministério do Desenvolvimento Agrário
+
+60
+
+Ministério do Desenvolvimento Social e Combate à Fome
+
+330
+
+Ministério do Trabalho e Emprego
+
+60
+
+Secretaria de Direitos Humanos
+
+30
+
+Secretaria de Políticas de Promoção da Igualdade Racial
+
+30
+
+Secretaria de Políticas para as Mulheres
+
+30
+
+Ministério do Planejamento, Orçamento e Gestão
+
+430
+
+T O T A L
+
+2.400

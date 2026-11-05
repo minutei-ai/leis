@@ -1,7 +1,3 @@
-1
-
-###DEC-000935-0-000-22-09-1993@@@
-
 # DECRETO N° 935, DE 22 DE SETEMBRO DE 1993
 
 Altera dispositivos do Regulamento dos Benefícios da Previdência Social e do Regulamento da Organização e do Custeio da Seguridade Social, aprovados, respectivamente, pelos Decretos n°s 611 e 612, de 21 de julho de 1992, e modificações posteriores, e dá outras providências.

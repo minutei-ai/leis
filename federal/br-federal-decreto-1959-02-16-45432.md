@@ -1,5 +1,3 @@
-###DEC-045432-0-000-16-02-1959@@@
-
 DECRETO Nº 45.432, DE 16 DE FEVEREIRO DE 1959.
 
 Altera o Decreto nº 45.359, de 28 de janeiro de 1959, dispondo sôbre a aplicação da Lei nº 5.531, de 19 de janeiro de 1959, e dá outras providências.

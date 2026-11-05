@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62048)
-
 # LEI Nº 12.308, DE 12 DE ABRIL DE 2006
 
 ### _Autoriza o DER, a alienar, mediante doação ao Município de Rancharia, imóvel que especifica_

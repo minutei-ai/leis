@@ -1,5 +1,3 @@
-###DEL-005770-0-000-23-08-1943@@@
-
 DECRETO‑LEI N. 5.770 – DE 23 DE AGÔSTO DE 1943
 
 Cria o 1º Batalhão de Fronteira, com sede em Cascavel, Estado do Paraná

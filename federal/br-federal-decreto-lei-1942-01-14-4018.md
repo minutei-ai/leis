@@ -1,5 +1,3 @@
-###DEL-004018-0-000-14-01-1942@@@
-
 DECRETO-LEI N. 4.018 – DE 14 DE JANEIRO DE 1942
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei n. 2 .156, de 30 de abril de 1940

@@ -12,7 +12,8 @@ Art. 2º A Política de Educação Digital nas Escolas – Cidadania Digital vis
 
 Parágrafo único. A Política de Educação Digital nas Escolas – Cidadania Digital será executada em articulação com outros programas apoiados técnica ou financeiramente pelo Governo do Estado de Goiás destinados ao uso adequado da internet na educação.
 
-Art. 2º-A (VETADO)<br>
+Art. 2º-A (VETADO)
+
 \- [Acrescido pela Lei nº 22.412, de 22-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108114/lei-22412).
 
 Art. 3º A Política de Educação Digital nas Escolas – Cidadania Digital, atenderá às seguintes diretrizes, especialmente:
@@ -21,14 +22,16 @@ I – incentivar a alfabetização digital, a ética e a segurança;
 
 II – incentivar a utilização segura da tecnologia digital;
 
-III – incentivar a cidadania digital, o ensino da tecnologia digital e o impacto nas atividades cotidianas;<br>
+III – incentivar a cidadania digital, o ensino da tecnologia digital e o impacto nas atividades cotidianas;
+
 \- [Redação dada pela Lei nº 22.412, de 22-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108114/lei-22412).
 
 ~~III – incentivar a cidadania digital e o ensino da tecnologia digital;~~
 
 IV – estimular o uso responsável da internet;
 
-V – conscientizar sobre os riscos presentes no ambiente digital como crimes cibernéticos, informações falsas, cyberbullying, vazamento de dados pessoais, crimes sexuais virtuais e outras ameaças;<br>
+V – conscientizar sobre os riscos presentes no ambiente digital como crimes cibernéticos, informações falsas, cyberbullying, vazamento de dados pessoais, crimes sexuais virtuais e outras ameaças;
+
 \- [Redação dada pela Lei nº 22.412, de 22-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108114/lei-22412).
 
 ~~V – estimular a discussão de temas como crimes de internet, informações falsas, _bullying_ na rede, privacidade, bem como sobre o risco de postar fotos íntimas;~~
@@ -39,10 +42,12 @@ VII – incentivar a cultura de paz na internet;
 
 VIII – conscientizar sobre os prejuízos gerados por situações vexatórias na internet, a exemplo do _bullying_ e do _cyberbullying_.
 
-IX – o aprendizado do conceito de cibercidadania, estimulando nos estudantes a criticidade no trato das relações sociais nos ambientes digitais;<br>
+IX – o aprendizado do conceito de cibercidadania, estimulando nos estudantes a criticidade no trato das relações sociais nos ambientes digitais;
+
 \- [Acrescido pela Lei nº 22.412, de 22-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108114/lei-22412).
 
-X – a conscientização sobre os riscos à saúde física e psicológica decorrentes do uso de tecnologias digitais.<br>
+X – a conscientização sobre os riscos à saúde física e psicológica decorrentes do uso de tecnologias digitais.
+
 \- [Acrescido pela Lei nº 22.412, de 22-11-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108114/lei-22412).
 
 Art. 4º A Política de Educação Digital nas Escolas – Cidadania Digital contará com as seguintes ações, nos termos a serem definidos em regulamento:
@@ -64,8 +69,6 @@ Art. 7º Esta Lei define o mínimo de especificações e funcionalidades da Pol�
 Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 2 de fevereiro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

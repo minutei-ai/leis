@@ -1,5 +1,3 @@
-###DEL-003761-0-000-25-10-1941@@@
-
 DECRETO-LEI N. 3.761 – DE 25 DE OUTUBRO DE 1941
 
 Dispõe sobre a visita a embarcações no fundeadouro, reestrutura carreiras e dá outras providências

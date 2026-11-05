@@ -1,5 +1,3 @@
-###DEC-052995-0-000-27-11-1963@@@
-
 DECRETO Nº 52.995, DE 27 DE NOVEMBRO DE 1963.
 
 Transfere do Município de Lavras do Sul para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica.

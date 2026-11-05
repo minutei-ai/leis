@@ -1,5 +1,3 @@
-###DEL-008290-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.290 – DE 5 DE DEZEMBRO DE 1945
 
 Cria a Escola de Agronomia da Amazônia.

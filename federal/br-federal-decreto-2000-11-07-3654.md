@@ -1,5 +1,3 @@
-###DEC-003654-0-000-07-11-2000@@@
-
 DECRETO Nº 3.654, DE 7 DE NOVEMBRO DE 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Centrais de Abastecimento de Minas Gerais S.A. - CEASA/MG e da Companhia de Armazéns e Silos do Estado de Minas - CASEMG.

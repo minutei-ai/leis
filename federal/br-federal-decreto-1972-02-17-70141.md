@@ -1,5 +1,3 @@
-###DEC-070141-0-000-17-02-1972@@@
-
 DECRETO Nº 70.141, DE 17 DE FEVEREIRO DE 1972.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar caulim no município de Tapiraí, Estado de São Paulo.

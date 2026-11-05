@@ -28,4 +28,44 @@ ANEXO Nº 1
 
 CARGOS EM COMISSÃO
 
-<table style="width: 340.2pt; margin-left: 35.45pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="454" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 198.45pt; border: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>CARGOS</span></p></td><td style="width: 63.8pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>SÍMBOLO</span></p></td><td style="width: 77.95pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>QUANTIDADE</span></p></td></tr><tr><td style="width: 198.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Diretor do Departamento Estadual de Trânsito</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>2 - C</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 198.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Chefe de Gabinete</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>5 - C</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 198.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Diretor do Serviço de Administração</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>7 - C</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 198.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Diretor do Serviço Financeiro</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>7 - C</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 198.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Diretor de Divisão</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>5 - C</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 198.45pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span>Coordenador do Trânsito do Interior</span></p></td><td style="width: 63.8pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="85"><p class="Tabela-Texto"><span>5 - C</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr></tbody></table>
+CARGOS
+
+SÍMBOLO
+
+QUANTIDADE
+
+Diretor do Departamento Estadual de Trânsito
+
+2 - C
+
+1
+
+Chefe de Gabinete
+
+5 - C
+
+1
+
+Diretor do Serviço de Administração
+
+7 - C
+
+1
+
+Diretor do Serviço Financeiro
+
+7 - C
+
+1
+
+Diretor de Divisão
+
+5 - C
+
+3
+
+Coordenador do Trânsito do Interior
+
+5 - C
+
+1

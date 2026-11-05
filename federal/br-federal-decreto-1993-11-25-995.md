@@ -1,7 +1,3 @@
-1
-
-###DEC-000995-0-000-25-11-1993@@@
-
 DECRETO N° 995, DE 25 DE NOVEMBRO DE 1993
 
 Dispõe sobre o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

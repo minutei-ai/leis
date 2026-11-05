@@ -1,5 +1,3 @@
-###MPV-001755-0-015-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.755-15, DE 2 DE JUNHO DE 1999.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

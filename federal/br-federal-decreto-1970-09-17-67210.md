@@ -1,5 +1,3 @@
-###DEC-067210-0-000-17-09-1970@@@
-
 Decreto nº 67.210, de 17 de setembro de 1970.
 
 Reestrutura a administração do Serviço de Assistência e Seguro Social dos Economiários (S.A.S.S.E.).

@@ -1,5 +1,3 @@
-###DEC-099609-0-000-13-10-1990@@@
-
 DECRETO Nº 99.609, DE 13 DE OUTUBRO DE 1990
 
 Transfere a sede da Comissão de Valores Mobiliários - CVM, para a Cidade de Brasília, Distrito Federal, e dá outras providências.

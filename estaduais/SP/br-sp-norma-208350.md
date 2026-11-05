@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208350)<br>
-
 # DECRETO N° 67.841, DE 27 DE JULHO DE 2023
 
 ### _Altera dispositivo do Decreto n° 54.928, de 16 de outubro de 2009, que autorizou a Fazenda do Estado a receber, mediante doação, sem quaisquer ônus ou encargos, do Município de Limeira, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-047374-0-000-07-12-1959@@@
-
 Decreto nº 47.374, de 7 de dezembro de 1959.
 
 Autoriza a cessão gratuita do terreno que menciona, situado no Município de Criciúma, no Estado de Santa Catarina.

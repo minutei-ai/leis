@@ -1,5 +1,3 @@
-###DEC-076755-0-000-09-12-1975@@@
-
 DECRETO Nº 76.755, DE 9 DE DEZEMBRO DE 1975.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.
@@ -41,8 +39,6 @@ Brasília, 9 de dezembro de 1975; 154º da Independência e 87º da República.
 Ernesto Geisel
 
 Mário Henrique Simonsen
-
-###DEC-076755-0-000-09-12-1975@@@
 
 DECRETO Nº 76.755, DE 9 DE DEZEMBRO DE 1975.
 

@@ -1,5 +1,3 @@
-###DEC-094512-0-000-24-06-1987@@@
-
 DECRETO N° 94.512, DE 24 DE JUNHO DE 1987.
 
 Altera dispositivo do Regulamento de Benefícios da Previdência Social, aprovado pelo Decreto n° 83.080, de 24 de janeiro de 1979.

@@ -1,5 +1,3 @@
-###DEC-092135-0-000-13-12-1985@@@
-
 Decreto nº 92.135, de 13 de dezembro de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

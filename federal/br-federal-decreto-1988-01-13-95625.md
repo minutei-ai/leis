@@ -1,7 +1,3 @@
-1
-
-###DEC-095625-0-000-13-01-1988@@@
-
 DECRETO N° 95.625, DE 13 DE JANEIRO DE 1988
 
 Autoriza a Cooperativa de Cafeicultores e Agropecuaristas de Maringá Ltda. - COCAMAR, com sede no Município de Maringá, Estado do Paraná, a utilizar o trabalho noturno de mulher maior de dezoito anos, e dá outras providencias.

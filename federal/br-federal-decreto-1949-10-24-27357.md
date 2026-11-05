@@ -1,10 +1,8 @@
-###DEC-027357-0-000-24-10-1949@@@
+**DECRETO Nº 27.357, DE 24 DE OUTUBRO DE 1949.**
 
-<strong>DECRETO Nº 27.357, DE 24 DE OUTUBRO DE 1949.</strong>
+***Concedo honras de Chefe de Estado ao Conselheiro Rui Barbosa. considerando que a Nacao Brasileira se vem manifestando expontaneamente no sentido de s***
 
-<em><strong>Concedo honras de Chefe de Estado ao Conselheiro Rui Barbosa. considerando que a Nacao Brasileira se vem manifestando expontaneamente no sentido de s</strong></em>
-
-<strong>O</strong> <strong>PRESIDENTE</strong> <strong>DA</strong> <strong>REPÚBLICA</strong>, serem dadas provas expressivas do seu culto á memória do centenário do seu nascimento;
+**OPRESIDENTEDAREPÚBLICA**, serem dadas provas expressivas do seu culto á memória do centenário do seu nascimento;
 
 CONSIDERANDO, também, que a  transladação do corpo do ilustre baiano para a sua terra natal terá o significado de uma consagração nacional ao grande pregador da democracia e da liberdade;
 
@@ -18,7 +16,7 @@ Artigo único. Serão prestadas, como homenagem excepcional honras de Chefe de E
 
 Rio de Janeiro,24 de outubro de 1949;128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Costa
 

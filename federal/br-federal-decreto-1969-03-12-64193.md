@@ -1,5 +1,3 @@
-###DEC-064193-0-000-12-03-1969@@@
-
 DECRETO Nº 64.193, DE 12 DE MARÇO DE 1969.
 
 Baixa o Regulamento da Superintendência da Exposição Mundial Comemorativa do Sesquicentenário da Independência do Brasil. (EXPO-72).

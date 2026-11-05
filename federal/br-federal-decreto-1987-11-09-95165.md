@@ -1,5 +1,3 @@
-###DEC-095165-0-000-09-11-1987@@@
-
 DECRETO Nº 95.165, DE 9 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à Sociedade Radiodifusão Independente de Cruz Alta Ltda. para explorar serviço de radiodifusão sonora em onda média, na cidade de Cruz Alta, Estado do Rio Grande do Sul.

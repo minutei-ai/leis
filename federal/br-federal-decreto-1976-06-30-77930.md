@@ -1,5 +1,3 @@
-###DEC-077930-0-000-30-06-1976@@@
-
 Decreto nº 77.930, de 30 de junho de 1976.
 
 Concede à Mineração Faisca Ltda. o direito de lavrar pedras semi-preciosas no Município de Teófilo Otoni, Estado de Minas Gerais.

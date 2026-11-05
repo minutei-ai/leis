@@ -1,7 +1,3 @@
-1
-
-###DEC-000623-0-000-04-08-1992@@@
-
 DECRETO Nº 623, DE 4 DE AGOSTO DE 1992
 
 Regulamenta o Decreto-Lei nº 1.809 de 7 de outubro de 1980, que instituiu o Sistema de Proteção ao Programa Nuclear Brasileiro (SIPRON), e dá outras providências.

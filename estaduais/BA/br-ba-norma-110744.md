@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO DE PEQUENOS CRIADORES E PRODUTORES RURAIS DE UMBURANAS E ADJACÊNCIAS, com sede e foro no município de Brumado.
 
-Redação de acordo com a Lei nº 10.882, de 12 de dezembro de 2007.<br>
+Redação de acordo com a Lei nº 10.882, de 12 de dezembro de 2007.
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO DE MORADORES E PEQUENOS PRODUTORES RURAIS DE UMBURANAS, com sede e foro no município de Brumado."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.
@@ -19,4 +20,4 @@ Deputado CLÓVIS FERRAZ
 
 Presidente
 
-* * *
+ *

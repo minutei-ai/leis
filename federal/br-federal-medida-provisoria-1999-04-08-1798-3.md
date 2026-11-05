@@ -1,5 +1,3 @@
-###MPV-001798-0-003-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.798-3, DE 8 DE ABRIL DE 1999.
 
 Acresce e altera dispositivos das Leis nos 5.869, de 11 de janeiro de 1973, 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, 9.494, de 10 de setembro de 1997, e dá outras providências.

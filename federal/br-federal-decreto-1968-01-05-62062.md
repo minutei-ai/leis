@@ -1,5 +1,3 @@
-###DEC-062062-0-000-05-01-1968@@@
-
 DECRETO Nº 62.062, DE 5 DE JANEIRO DE 1968.
 
 Autoriza a Light - Serviços de Eletricidade S.A. a construir linha de transmissão.

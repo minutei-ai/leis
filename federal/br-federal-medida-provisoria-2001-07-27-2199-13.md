@@ -1,5 +1,3 @@
-###MPV-002199-0-013-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.199‑13, DE 27 DE JUlHO DE 2001
 
 Altera a legislação do imposto sobre a renda no que se refere aos incentivos fiscais de isenção e de redução, define diretrizes para os incentivos fiscais de aplicação de parcela do imposto sobre a renda nos Fundos de Investimentos Regionais, e dá outras providências.
@@ -125,8 +123,6 @@ I ‑ a condição de empresa beneficiária de incentivos fiscais com patrimôni
 II ‑ a advertência de que os valores mobiliários nas condições descritas no inciso I não são negociados em bolsa de valores ou mercado de balcão e que os seus adquirentes somente poderão negociá‑los em transações privadas.
 
 § 4º As faculdades previstas no § 1º e incisos deste artigo não se aplicam às empresas beneficiárias de incentivos fiscais que tenham valores mobiliários disseminados no mercado, até que procedam ao cancelamento do seu registro na CVM, mediante oferta pública de aquisição da totalidade daqueles títulos, nos termos das normas por ela fixadas." (NR)
-
-<br>
 
 Art. 5º As empresas titulares de projeto aprovado pelas extintas SUDENE e SUDAM, que tenham obtido o Certificado de Empreendimento Implantado (CEI), a seu critério e com aprovação do Ministério da Integração Nacional, relativamente à parte ou à totalidade das debêntures vincendas, conversíveis e não-conversíveis, subscritas em favor do FINOR e do FINAM, poderão:
 

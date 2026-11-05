@@ -1,5 +1,3 @@
-###DEC-049018-0-000-04-10-1960@@@
-
 DECRETO Nº 49.018, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza a Companhia Cearense de Cimento Portland a pesquisar calcáreo, nos municípios de Coreaú e Sobral, Estado do Ceará.

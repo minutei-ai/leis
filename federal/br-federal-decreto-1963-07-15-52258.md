@@ -1,5 +1,3 @@
-###DEC-052258-0-000-15-07-1963@@@
-
 DECRETO Nº 52.258, DE 15 DE JULHO DE 1963.
 
 Reorganiza o Gabinete do Ministro das Minas e Energia.

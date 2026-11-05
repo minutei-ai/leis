@@ -1,5 +1,3 @@
-###DEC-054302-0-000-24-09-1964@@@
-
 DECRETO Nº 54.302, DE 24 DE SETEMBRO DE 1964.
 
 Cria a Comissão Coordenadora dos Planos de Investimentos no Setor de Saneamento.

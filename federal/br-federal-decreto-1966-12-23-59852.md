@@ -1,5 +1,3 @@
-###DEC-059852-0-000-23-12-1966@@@
-
 DECRETO Nº 59.852, DE 23 DE DEZEMBRO DE 1966.
 
 Declara caduco o Decreto nº 54.512, de 21 de outubro de 1964.

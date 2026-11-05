@@ -1,5 +1,3 @@
-###DEL-000093-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 93,  DE 30 DE DEZEMBRO 1966
 
 Prorroga por mais um exercício a vigência do Decreto nº 58.912, de 22 de julho de 1966 que abriu o crédito especial de Cr$180.000.000 (cento e oitenta milhões de cruzeiros).

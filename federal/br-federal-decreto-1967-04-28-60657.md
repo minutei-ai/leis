@@ -1,5 +1,3 @@
-###DEC-060657-0-000-28-04-1967@@@
-
 DECRETO Nº 60.657, DE 28 DE ABRIL DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Campanha de Seguros Marítimos e Terrestres Confiança, relativa ao aumento do capital social.

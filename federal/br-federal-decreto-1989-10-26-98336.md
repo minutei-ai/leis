@@ -1,7 +1,3 @@
-1
-
-###DEC-098336-0-000-26-10-1989@@@
-
 DECRETO N° 98.336, DE 26 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Humanas de Vitória.

@@ -1,5 +1,3 @@
-###DEC-051938-0-000-26-04-1963@@@
-
 DECRETO Nº 51.938, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Sociedade Industrial e Mineradora SIMA Ltda. a pesquisar minério de ferro no município de Belo Vale, Estado de Minas Gerais.

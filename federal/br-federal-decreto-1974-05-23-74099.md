@@ -1,5 +1,3 @@
-###DEC-074099-0-000-23-05-1974@@@
-
 DECRETO Nº 74.099, DE 23 DE MAIO DE 1974.
 
 Altera dispositivos do Decreto número 68.099, de 20 de janeiro de 1971, que criou a Comissão Brasileira de Atividades Espaciais (COBAE).

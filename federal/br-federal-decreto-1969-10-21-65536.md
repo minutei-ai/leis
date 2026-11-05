@@ -1,5 +1,3 @@
-###DEC-065536-0-000-21-10-1969@@@
-
 DECRETO Nº 65.536 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Obras de Saneamento, cargo originário da Administração do Pôrto do Rio de Janeiro e dá outras providências.

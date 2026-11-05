@@ -1,5 +1,3 @@
-###DEL-001459-0-000-19-04-1976@@@
-
 # DECRETO-LEI Nº 1.459, DE 19 DE ABRIL DE 1976
 
 Reajusta os vencimentos e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

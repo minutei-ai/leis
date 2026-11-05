@@ -1,5 +1,3 @@
-###DEC-066672-0-000-09-06-1970@@@
-
 DECRETO Nº 66.672, DE 9 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Associação Brasileira de Cimento Portland, com sede em São Paulo, Estado de São Paulo.

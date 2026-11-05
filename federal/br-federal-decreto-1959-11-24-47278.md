@@ -1,5 +1,3 @@
-###DEC-047278-0-000-24-11-1959@@@
-
 Decreto nº 47.278, de 24 de novembro de 1959.
 
 Outorga concessão à Rádio Sociedade Gaúcha Sociedade Anônima para estabelecer uma estação de radiotelevisão na cidade de Pôrto Alegre, Estado do Rio Grande do Sul.

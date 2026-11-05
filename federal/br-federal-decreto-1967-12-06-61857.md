@@ -1,5 +1,3 @@
-###DEC-061857-0-000-06-12-1967@@@
-
 decreto nº 61.857, de 6 de dezembro de 1967.
 
 Abre ao Ministério dos Transportes Departamento Nacional de Estradas de Ferro - o Crédito Especial de NCr$500.000,00 (quinhentos mil cruzeiros novos) para o fim que específica.

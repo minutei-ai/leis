@@ -1,5 +1,3 @@
-###DEC-088862-0-000-17-10-1983@@@
-
 DECRETO Nº 88.862, DE 17 de outubro de 1983
 
 Altera dispositivo do Decreto nº 84.355, de 31 de dezembro de 1979, que regulamenta o ingresso e a promoção no Quadro Auxiliar de Oficiais (QAO)

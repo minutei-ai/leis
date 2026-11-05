@@ -1,5 +1,3 @@
-###DEC-079595-0-000-26-04-1977@@@
-
 DECRETO Nº 79.595, DE 26 ABRIL DE 1977.
 
 Transfere das Centrais Elétricas de São Paulo S. A. - CESP para a Companhia Paulista de Força e Luz - CPFL a concessão para o aproveitamento da energia hidráulica da cachoeira situada no rio Mogi-Guaçu, no Município de Pinhal, Estado de São Paulo, onde se acha instalada a usina Eloy Chaves e dá outras providências.

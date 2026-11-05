@@ -1,5 +1,3 @@
-###DEC-052629-0-000-08-10-1963@@@
-
 DECRETO Nº 52.629, DE 08 DE OUTUBRO DE 1963.
 
 Autoriza Centrais Elétricas de Goiás S.A. a construir linha de transmissão e dá outras providências.

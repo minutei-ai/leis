@@ -1,5 +1,3 @@
-###DEC-050496-0-000-25-04-1961@@@
-
 DECRETO Nº 50.496, DE 25 DE ABRIL DE 1961.
 
 Dispõe sôbre o Conselho Nacional de Folclore da Companhia de Defesa do Folclore Brasileiro.

@@ -1,5 +1,3 @@
-###DEL-006041-0-000-26-11-1943@@@
-
 DECRETO‑LEI N. 6.041 – DE 26 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.000.000,00 para a Coordenação da Mobilização Econômica

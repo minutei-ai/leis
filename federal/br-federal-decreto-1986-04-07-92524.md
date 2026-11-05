@@ -1,5 +1,3 @@
-###DEC-092524-0-000-07-04-1986@@@
-
 DECRETO Nº 92.524, DE 7 DE ABRIL DE 1986
 
 Regulamenta a Lei nº 7.387, de 21 de outubro de 1985, que dispõe sobre o exercício da profissão de Economista Doméstico, e dá outras providências.

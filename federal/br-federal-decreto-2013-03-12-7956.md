@@ -1,5 +1,3 @@
-###DEC-007956-0-000-12-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.956, DE 12 DE MARÇO DE 2013
 
 Altera o Decreto nº 7.775, de 4 de julho de 2012, que regulamenta o Programa de Aquisição de Alimentos.

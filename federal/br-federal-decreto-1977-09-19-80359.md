@@ -1,5 +1,3 @@
-###DEC-080359-0-000-19-09-1977@@@
-
 DECRETO Nº 80.359, DE 19 DE SETEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Batalha, Estado de Alagoas.

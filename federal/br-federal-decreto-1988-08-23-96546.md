@@ -1,5 +1,3 @@
-###DEC-096546-0-000-23-08-1988@@@
-
 DECRETO N° 96.546, DE 23 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO IMPERATRIZ DOS CAMPOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Tobias Barreto, Estado de Sergipe.

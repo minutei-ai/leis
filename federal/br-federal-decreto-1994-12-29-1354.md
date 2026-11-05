@@ -1,7 +1,3 @@
-1
-
-###DEC-001354-0-000-29-12-1994@@@
-
 DECRETO Nº 1.354, DE 29 DE DEZEMBRO DE 1994
 
 Institui, no âmbito do Ministério do Meio Ambiente e da Amazônia Legal, o Programa Nacional da Diversidade Biológica, e dá outras providências.

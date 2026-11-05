@@ -1,5 +1,3 @@
-###DEC-082021-0-000-24-07-1978@@@
-
 Decreto nº 82.021, de 24 de julho de 1978.
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica do curso de Estudos Sociais da Faculdade de Ciências e Letras de Avaré, com sede na Cidade de Avaré, Estado de São Paulo.

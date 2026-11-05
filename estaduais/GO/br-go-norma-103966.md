@@ -88,8 +88,6 @@ Parágrafo único. Ficam mantidas as disposições da Lei estadual nº [20.970](
 
 Goiânia, 14 de maio de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

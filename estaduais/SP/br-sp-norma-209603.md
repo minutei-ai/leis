@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209603)<br>
-
 # LEI N° 17.949, DE 19 DE JUNHO DE 2024
 
 ## (Projeto de lei n° 1697/2023, da Deputada Monica Seixas do Movimento Pretas - PSOL)

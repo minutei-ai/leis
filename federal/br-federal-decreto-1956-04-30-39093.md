@@ -1,14 +1,12 @@
-###DEC-039093-0-000-30-04-1956@@@
+**DECRETO Nº 39.093, DE 30 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 39.093, DE 30 DE ABRIL DE 1956.</strong>
+***Altera o Decreto nº 30.691, de 29 de março de 1952, que aprovou o Regulamento da Inspeção Industrial e Sanitária de Projetos de Origem Animal.***
 
-<em><strong>Altera o Decreto nº 30.691, de 29 de março de 1952, que aprovou o Regulamento da Inspeção Industrial e Sanitária de Projetos de Origem Animal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do art. 14, da Lei nº 1.283, de 18 de dezembro de 1950,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do art. 14, da Lei nº 1.283, de 18 de dezembro de 1950,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 26 - 33 - 34 - 50 - 62 - 102 - 271 - 272 - 273 - 279 - 280 - 281 - 282 - 286 - 289 - 291 - 293 - 294 - 322 - 354 - 355 - 365 - 432 - 433 - 444 - 445 - 450 - 451 - 453 - 454 - 455 - 458 - 459 - 461 - 462 - 463 - 465 - 471 - 476 - 495 - 505 - 507 - 509 - 510 - 523 - 529 - 531 - 537 - 538 - 540 - 545 - 549 - 551 - 580 - 583 - 611 - 621 - 658 - 660 - 668 - 669 - 681 - 682 - 688 - 797 - 820 - 825 - 880 - 908 - 921 - 922 - 928 - 939, do Decreto nº 30.691, de 29 de março de 1952, passam a vigorar com a seguinte redação:
+**Art**. 1º Os arts. 26 - 33 - 34 - 50 - 62 - 102 - 271 - 272 - 273 - 279 - 280 - 281 - 282 - 286 - 289 - 291 - 293 - 294 - 322 - 354 - 355 - 365 - 432 - 433 - 444 - 445 - 450 - 451 - 453 - 454 - 455 - 458 - 459 - 461 - 462 - 463 - 465 - 471 - 476 - 495 - 505 - 507 - 509 - 510 - 523 - 529 - 531 - 537 - 538 - 540 - 545 - 549 - 551 - 580 - 583 - 611 - 621 - 658 - 660 - 668 - 669 - 681 - 682 - 688 - 797 - 820 - 825 - 880 - 908 - 921 - 922 - 928 - 939, do Decreto nº 30.691, de 29 de março de 1952, passam a vigorar com a seguinte redação:
 
 Art. 26 - 4 - “posto de desnatação“ assim denominado o estabelecimento destinado ao desnate do leite, bem como à pré-fabricação de caseína.
 
@@ -24,7 +22,7 @@ Art. 50.
 
 Parágrafo único - Será automàticamente cancelado o registro do estabelecimento que não fizer o comércio interestadual ou internacional pelo prazo de 1 (um) ano e do que interromper seu funcionamento pelo mesmo prazo.
 
-Art. 62 - Nos estabelecimentos de produtos de origem animal destinados à alimentação humana para efeito de registro ou relacionamento, é obrigatória a apresentação de boletim oficial de exame da água do abastecimento que prove estarem satisfeitas as alíneas, <em>a</em>), <em>b</em>), <em>c</em>), <em>d</em>) e <em>e</em>), sendo facultativo as demais alíneas.
+Art. 62 - Nos estabelecimentos de produtos de origem animal destinados à alimentação humana para efeito de registro ou relacionamento, é obrigatória a apresentação de boletim oficial de exame da água do abastecimento que prove estarem satisfeitas as alíneas, *a*), *b*), *c*), *d*) e *e*), sendo facultativo as demais alíneas.
 
 Art. 102 - 6 - quando o estabelecimento funciona em regime de Inspeção Federal e está afastado do perímetro urbano, deve fornecer gratuitamente, habitações adequada aos servidores ou condução, no caso de não haver meio de transporte público fácil e acessível condições que serão julgadas pela D. I. P. O. A.;
 
@@ -182,7 +180,7 @@ Art. 476.
 
 Art. 495. É proibido, nas propriedades rurais, a padronização ou o desnate parcial ou total do leite destinado ao consumo.
 
-Art. 505. São leites de consumo “<em>in natura</em>”: o integral, o padronizado, o magro e o desnatado, que devem ser identificados.
+Art. 505. São leites de consumo “*in natura*”: o integral, o padronizado, o magro e o desnatado, que devem ser identificados.
 
 § 1º - leia-se parágrafo único.
 
@@ -306,14 +304,14 @@ Art. 939. As línguas dos animais que reagirem à inocilação podem ter aprovei
 
 § 2º - Nos animais não reagentes, as línguas que não apresentarem reação visível, poderão ser dadas ao consumo, exceto ao comércio internacional.
 
-<strong>Art</strong>. 2º Ficam revogados os §§ 1º e 2º do art. 272, parágrafo único do art. 352, arts. 408 e 410, item 9 do artigo 422, item 2 do art. 440, item 6 do art. 459, item 3, letra <em>a</em> do art. 504 § 2º do art. 505, §§ 1º, 2º e 3º do artigo 545 e § 1º do art. 939.
+**Art**. 2º Ficam revogados os §§ 1º e 2º do art. 272, parágrafo único do art. 352, arts. 408 e 410, item 9 do artigo 422, item 2 do art. 440, item 6 do art. 459, item 3, letra *a* do art. 504 § 2º do art. 505, §§ 1º, 2º e 3º do artigo 545 e § 1º do art. 939.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Ernesto Dornelles

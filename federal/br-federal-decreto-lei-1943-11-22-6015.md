@@ -1,5 +1,3 @@
-###DEL-006015-0-000-22-11-1943@@@
-
 DECRETO‑LEI N. 6.015 – DE 22 DE NOVEMBRO DE 1943
 
 Declara sem aplicação a importância que indica e abre crédito especial de igual importância, ao Departamento Administrativo do Serviço Público

@@ -1,5 +1,3 @@
-###DEC-078747-0-000-18-11-1976@@@
-
 DECRETO Nº 78.747, de 18 Novembro de 1976
 
 Revoga a encampação de que trata o Decreto número 72.533, de 26 de julho de 1973, na parte referente aos bens e instalações existentes em diversos Municípios dos Estados de Sergipe e Bahia, explorados pela Companhia Sul Sergipana de Eletricidade - SULGIPE.

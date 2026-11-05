@@ -1,5 +1,3 @@
-###DEC-089127-0-000-06-12-1983@@@
-
 Decreto nº 89.127, de 06 de dezembro de 1983
 
 Autoriza empresas de telecomunicações controladas pela Telecomunicações Brasileiras S.A. - TELEBRÁS, a promoverem aumento de capital social.

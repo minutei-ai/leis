@@ -1,5 +1,3 @@
-###DEC-064283-0-000-31-03-1969@@@
-
 DECRETO Nº 64.283, DE 31 DE MARÇO DE 1969.
 
 Aprova o Regulamento do Estado-Maior da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-051296-0-000-25-08-1961@@@
-
 DECRETO Nº 51.296, DE 25 DE AGÔSTO DE 1961.
 
 Anula o Decreto nº 47.355, de 4 de dezembro de 1959.

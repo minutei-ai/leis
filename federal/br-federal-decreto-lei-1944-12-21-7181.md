@@ -1,5 +1,3 @@
-###DEL-007181-0-000-21-12-1944@@@
-
 DECRETO-LEI N. 7.181 – DE 21 DE DEZEMBRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 5.212, de 21 de janeiro de 1943

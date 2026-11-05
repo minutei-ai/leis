@@ -1,5 +1,3 @@
-###DEC-056960-0-000-01-10-1965@@@
-
 DECRETO Nº 56.960, DE 1 DE OUTUBRO DE 1965.
 
 Transfere à Diretoria do Instituto Brasileiro de Reforma Agrária (IBRA), as atribuições e os encargos previsto no Decreto nº 56.799, de 27 de agôsto de 1965.

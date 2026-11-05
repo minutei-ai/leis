@@ -1,5 +1,3 @@
-###DEL-004349-0-000-29-05-1942@@@
-
 DECRETO-LEI N. 4.349 – DE 29 DE MAIO DE 1942
 
 Desapropria terrenos adjacentes à Base Aérea de Recife necessários à ampliaçào da rererida Base; declara a urgência da respectiva desapropriação

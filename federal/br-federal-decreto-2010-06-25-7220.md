@@ -1,5 +1,3 @@
-###DEC-007220-0-000-25-06-2010@@@
-
 DECRETO Nº 7.220, DE 25 DE JUNHO DE 2010.
 
 Excepciona a aplicação do intervalo de movimentação e aumenta o valor de saque de conta vinculada do Fundo de Garantia do Tempo de Serviço - FGTS, estabelecidos no art. 4o do Decreto no 5.113, de 22 de junho de 2004, para os atingidos por desastres naturais em Pernambuco e Alagoas.

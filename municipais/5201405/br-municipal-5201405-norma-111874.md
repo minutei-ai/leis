@@ -14,5 +14,6 @@ Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação, conv
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 24 de Junho de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

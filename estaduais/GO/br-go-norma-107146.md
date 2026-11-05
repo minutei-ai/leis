@@ -6,17 +6,20 @@ A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Cons
 
 Art. 1º Fica instituída a Política Estadual de fornecimento gratuito de medicamentos fitoterápicos e fitofármacos prescritos à base da planta inteira ou isolada, que contenham em sua composição fitocanabinoides, como Canabidiol (CBD), Canabigerol (CBG), Tetrahidrocanabinol (THC), nas unidades de saúde pública estaduais e privadas conveniadas com o Sistema Único de Saúde – SUS.
 
-Art. 2º É direito do paciente receber gratuitamente do Poder Público medicamentos, nacionais e/ou importados, à base de _cannabis_ para fins terapêuticos e medicinais, que contenham em sua composição fitocanabinoides, através de medicamentos fitofármacos e/ou fitoterápicos, desde que devidamente autorizado, seja por ordem judicial ou pela Agência Nacional de Vigilância Sanitária (ANVISA), e/ou prescrito por profissional médico acompanhado do devido laudo das razões da prescrição, nas unidades de saúde pública estaduais em funcionamento em todo o âmbito do Estado de Goiás.<br>
+Art. 2º É direito do paciente receber gratuitamente do Poder Público medicamentos, nacionais e/ou importados, à base de _cannabis_ para fins terapêuticos e medicinais, que contenham em sua composição fitocanabinoides, através de medicamentos fitofármacos e/ou fitoterápicos, desde que devidamente autorizado, seja por ordem judicial ou pela Agência Nacional de Vigilância Sanitária (ANVISA), e/ou prescrito por profissional médico acompanhado do devido laudo das razões da prescrição, nas unidades de saúde pública estaduais em funcionamento em todo o âmbito do Estado de Goiás.
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
-Parágrafo único. O paciente receberá os medicamentos fitofármacos e/ou fitoterápicos de que trata o _caput_ durante o período prescrito pelo médico, independentemente de idade ou sexo.<br>
+Parágrafo único. O paciente receberá os medicamentos fitofármacos e/ou fitoterápicos de que trata o _caput_ durante o período prescrito pelo médico, independentemente de idade ou sexo.
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
 Art. 3º A presente Política orienta-se de acordo com as seguintes diretrizes:
 
 I – a efetivação de uma política de assistência integral no fornecimento de medicamentos fitoterápicos e fitofármacos indicados no _caput_ do art. 1º por meio dos serviços públicos de saúde, em colaboração com os órgãos públicos e com a participação de entidades civis organizadas;
 
-II **\-** o respeito aos direitos humanos, com garantia de autonomia, independência e liberdade aos pacientes para fazerem suas próprias escolhas quanto ao seu tratamento;<br>
+II **\-** o respeito aos direitos humanos, com garantia de autonomia, independência e liberdade aos pacientes para fazerem suas próprias escolhas quanto ao seu tratamento;
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
 III – a atenção integral às necessidades de saúde e ao atendimento profissional e o acesso a medicamentos e tratamentos;
@@ -39,13 +42,16 @@ VI – melhorar a qualidade de vida das pessoas e evitar o agravamento de doenç
 
 VII – reduzir a judicialização em torno dos pedidos de concessão dos medicamentos e tratamentos previstos nesta Lei.
 
-Art. 5º O fornecimento dos medicamentos previstos nesta Lei depende da formalização prévia de requerimento, com atendimento cumulativo aos seguintes requisitos:<br>
+Art. 5º O fornecimento dos medicamentos previstos nesta Lei depende da formalização prévia de requerimento, com atendimento cumulativo aos seguintes requisitos:
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
-I **\-** prescrição por profissional legalmente habilitado, a qual deve conter obrigatoriamente a identificação do paciente e do medicamento, a posologia, o quantitativo necessário, o tempo de tratamento, a data, a assinatura e o número do registro do profissional perante o conselho de classe; <br>
+I **\-** prescrição por profissional legalmente habilitado, a qual deve conter obrigatoriamente a identificação do paciente e do medicamento, a posologia, o quantitativo necessário, o tempo de tratamento, a data, a assinatura e o número do registro do profissional perante o conselho de classe; 
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
-II - laudo contendo a descrição do caso, a Classificação Internacional de Doenças e Problemas Relacionados à Saúde (CID) da doença, a justificativa para a utilização do medicamento fitofármaco e/ou fitoterápico indicado e a viabilidade em detrimento das alternativas terapêuticas já disponibilizadas no âmbito do SUS e dos tratamentos anteriores, podendo este laudo ser substituído por autorização administrativa da Agência Nacional de Vigilância Sanitária (ANVISA).<br>
+II - laudo contendo a descrição do caso, a Classificação Internacional de Doenças e Problemas Relacionados à Saúde (CID) da doença, a justificativa para a utilização do medicamento fitofármaco e/ou fitoterápico indicado e a viabilidade em detrimento das alternativas terapêuticas já disponibilizadas no âmbito do SUS e dos tratamentos anteriores, podendo este laudo ser substituído por autorização administrativa da Agência Nacional de Vigilância Sanitária (ANVISA).
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
 Art. 6º Para o cumprimento desta Lei, é lícito ao Poder Público:
@@ -56,10 +62,12 @@ II – adquirir medicamentos fitofármacos e/ou fitoterápicos, de entidades nac
 
 III – celebrar convênios com outros órgãos públicos e/ou entidades públicas e privadas.
 
-Art. 7º A Política ora instituída será de responsabilidade da Secretaria de Estado da Saúde, que definirá as competências em cada nível de atuação.<br>
+Art. 7º A Política ora instituída será de responsabilidade da Secretaria de Estado da Saúde, que definirá as competências em cada nível de atuação.
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
-Parágrafo único. A Secretaria de Estado da Saúde poderá criar comissão de trabalho para implantar as diretrizes desta Política no Estado de Goiás, com participação de técnicos e representantes de associações sem fins lucrativos de apoio e pesquisa à _cannabis_ e de associações representativas de pacientes.<br>
+Parágrafo único. A Secretaria de Estado da Saúde poderá criar comissão de trabalho para implantar as diretrizes desta Política no Estado de Goiás, com participação de técnicos e representantes de associações sem fins lucrativos de apoio e pesquisa à _cannabis_ e de associações representativas de pacientes.
+
 \- [Promulgado pela Assembleia Legislativa](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18491).
 
 Art. 8º A Política ora instituída, bem como os endereços das unidades de atendimento deverão ser objetos de divulgação constante em todas as unidades de saúde do Estado de Goiás e nos meios de comunicação de ampla difusão e circulação.
@@ -67,8 +75,6 @@ Art. 8º A Política ora instituída, bem como os endereços das unidades de ate
 Art. 9º Esta Lei entra em vigor 90 (noventa) dias após a data de sua publicação.
 
 Goiânia, 18 de maio de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

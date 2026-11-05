@@ -1,5 +1,3 @@
-###DEC-092859-0-000-27-06-1986@@@
-
 DECRETO Nº 92.859, DE 27 DE JUNHO DE 1986
 
 Dispõe sobre aumento do capital social da EMBRAER AIRCRAFT CORPORATION - EAC.

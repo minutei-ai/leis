@@ -1,7 +1,3 @@
-1
-
-###DEC-000453-0-000-26-02-1992@@@
-
 DECRETO N° 453, DE 26 DE FEVEREIRO DE 1992
 
 Altera a alíquota do Imposto sobre Produtos Industrializados - IPI, incidente sobre os cigarros.

@@ -1,6 +1,10 @@
 > **LEI Nº 3.685, DE 07 DE JANEIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a proibição da cobrança de valores adicionais - sobretaxa para matrícula ou mensalidade de estudantes portadores de síndrome de Down, autismo, transtorno invasivo do desenvolvimento ou outras síndromes.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a proibição da cobrança de valores adicionais - sobretaxa para matrícula ou mensalidade de estudantes portadores de síndrome de Down, autismo, transtorno invasivo do desenvolvimento ou outras síndromes.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -19,8 +23,6 @@
 **Art. 5º** Esta Lei entra em vigor na data de sua publicação. 
 
 Rio Branco-Acre, 7 de janeiro de 2021, 133º da República, 119º do Tratado de Petrópolis e 60º do Estado do Acre.
-
-<br>
 
 **Gladson de Lima Cameli**
 

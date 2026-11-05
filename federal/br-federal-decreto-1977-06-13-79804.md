@@ -1,5 +1,3 @@
-###DEC-079804-0-000-13-06-1977@@@
-
 DECRETO Nº 79.804, DE 13 DE JUNHO DE 1977
 
 Regulamenta o regime especial de trânsito aduaneiro, previsto nos artigos 73 e 74 do Decreto-lei nº 37 de 18 de novembro de 1966.

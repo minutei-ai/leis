@@ -58,4 +58,4 @@ Brasília, 8 de julho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Paulo Guedes<br>
+Paulo Guedes

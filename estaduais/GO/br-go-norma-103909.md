@@ -8,10 +8,12 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Retificar o Anexo Único, inciso I, do Decreto nº [8.000](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/66578/decreto-8000), de 20 de setembro de 2013, publicado no Suplemento do Diário Oficial do dia 23 do mesmo mês e ano, a fim de fazer nele a seguinte inclusão:
 
-| I – ENQUADRAMENTO PREVISTO PARA O EXERCÍCIO DE 2013 –<br>
+| I – ENQUADRAMENTO PREVISTO PARA O EXERCÍCIO DE 2013 –
+
 REFERENTE AOS 34% (ART. 6º DA LEI Nº [17.916](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89871/lei-17916), DE 27 DE DEZEMBRO DE 2012). |
 | --- |
-| NÍVEL DE ESCOLA-<br>
+| NÍVEL DE ESCOLA-
+
 RIDADE DO EMPREGO | ORDEM DE CLASSIFI-CAÇÃO | NOME | CPF/ME Nº |
 Nº DO PROCESSO DE REQUER-IMENTO DE ANISTIA/ INCLUSÃO
 
@@ -29,8 +31,6 @@ CLEUSA ROCHA DA SILVA TELLES
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 25 de março de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

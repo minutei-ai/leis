@@ -1,5 +1,3 @@
-###DEC-075661-0-000-25-04-1975@@@
-
 Decreto nº 75.661, de 25 de abril de 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

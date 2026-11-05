@@ -1,5 +1,3 @@
-###DEC-082625-0-000-13-11-1978@@@
-
 Decreto nº 82.625, de 13 de novembro de 1978.
 
 Concede reconhecimento aos cursos de Educação Artística e de Música, da Escola de Comunicações e Artes da Universidade de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

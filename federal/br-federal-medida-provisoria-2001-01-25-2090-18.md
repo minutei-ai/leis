@@ -1,5 +1,3 @@
-###MPV-002090-0-018-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.090-18, DE 25 DE JANEIRO DE 2001
 
 Altera dispositivos da Lei nº 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de Longo Prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao Trabalhador e do Fundo da Marinha Mercante.

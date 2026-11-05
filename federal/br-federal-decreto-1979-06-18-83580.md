@@ -1,5 +1,3 @@
-###DEC-083580-0-000-18-06-1979@@@
-
 Decreto nº 83.580, de 18 de junho de 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

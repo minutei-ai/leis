@@ -1,5 +1,3 @@
-###DEC-059567-0-000-16-11-1966@@@
-
 DECRETO Nº 59.567, DE 16 DE NOVEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da A Independência Companhia de Seguros Gerais, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEL-006874-0-000-15-09-1944@@@
-
 DECRETO-LEI N. 6.874 – DE 15 DE SETEMBRO DE 1944
 
 Dispõe sôbre aluguel de próprios nacionais ocupados por servidores civis da União

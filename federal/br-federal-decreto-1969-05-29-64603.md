@@ -1,5 +1,3 @@
-###DEC-064603-0-000-29-05-1969@@@
-
 DECRETO Nº 64.603, DE 29 DE MAIO DE 1969.
 
 Retifica o artigo 1º do Decreto nº 62.969, de 10 de julho de 1968.

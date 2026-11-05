@@ -1,5 +1,3 @@
-###DEC-079525-0-000-13-04-1977@@@
-
 DECRETO Nº 79.525, DE 13 DE ABRIL DE 1977.
 
 Retifica a concessão de lavra outorgada à Companhia Materiais Sulforosos - MATSULFUR pelo Decreto nº 2.218, de 22 de janeiro de 1963.

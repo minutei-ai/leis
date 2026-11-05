@@ -1,5 +1,3 @@
-###DEL-008368-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.368 – DE 13 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 500,00, à verba que especifica.

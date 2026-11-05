@@ -1,5 +1,3 @@
-###DEC-051949-0-000-26-04-1963@@@
-
 Decreto nº 51.949, de 26 de abril de 1963.
 
 Autoriza a Companhia de Cimento Portland Paraíso a pesquisar calcário no município de Cantagalo, Estado do Rio de Janeiro.

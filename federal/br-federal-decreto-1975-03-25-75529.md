@@ -1,5 +1,3 @@
-###DEC-075529-0-000-25-03-1975@@@
-
 DECRETO Nº 75.529, DE 25 DE MARÇO DE 1925.
 
 Autoriza o Ministério do Interior, através do Governo do Território Federal de Roraima, a instalar, na Cidade de Boa Vista uma estação de radiodifusão sonora em onda média, com fins exclusivamente educativos mediante convênio a ser celebrado com o Ministério das Comunicações.

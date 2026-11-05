@@ -1,5 +1,3 @@
-###DEC-073115-0-000-08-11-1973@@@
-
 DECRETO Nº 73.115 - DE 8 DE NOVEMBRO DE 1973
 
 Transforma o Centro de Treinamento e Desenvolvimento do Pessoal do Ministério da Fazenda, CETREMFA - em Escola de Administração Fazendária - ESAF - e dá outras providências.

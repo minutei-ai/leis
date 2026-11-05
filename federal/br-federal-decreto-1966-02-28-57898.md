@@ -1,5 +1,3 @@
-###DEC-057898-0-000-28-02-1966@@@
-
 DECRETO Nº 57.898, DE 28 DE FEVEREIRO DE 1966.
 
 Retifica o enquadramento dos cargos, funções e empregos do Quadro I do Ministério da Viação e Obras Públicas.

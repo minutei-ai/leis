@@ -1,5 +1,3 @@
-###DEC-046822-0-000-15-09-1959@@@
-
 DECRETO Nº 46.822, DE 15 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Geraldo Alves Motta a lavrar caulim no município de Itapecerica da Serra, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007285-0-000-31-01-1945@@@
-
 DECRETO-LEI N. 7.285 – DE 31 DE JANEIRO DE 1945
 
 Concede pensão especial a Maria Maika, viúva do cabo do Exército – Simão Maika

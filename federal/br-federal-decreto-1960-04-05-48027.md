@@ -1,5 +1,3 @@
-###DEC-048027-0-000-05-04-1960@@@
-
 decreto nº 48.027, de 05 de abril de 1960.
 
 Concede à Indústria e Comércio de Minérios do Brasil S.A. (ICOMBRA) autorização para funcionar como emprêsa de mineração.

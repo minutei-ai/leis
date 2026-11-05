@@ -1,5 +1,3 @@
-###DEC-081774-0-000-08-06-1978@@@
-
 DECRETO Nº 81.774, DE 8 DE JUNHO DE 1978
 
 Dá nova redação ao artigo 6º e seus parágrafos do Decreto nº 80.762, de 18 de 18 de novembro de 1977, que consolidou as disposições sobre o Programa Nacional do Álcool.

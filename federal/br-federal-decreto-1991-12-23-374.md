@@ -1,7 +1,3 @@
-1
-
-###DEC-000374-0-000-23-12-1991@@@
-
 DECRETO N° 374, DE 23 DE DEZEMBRO DE 1991
 
 Dá nova redação à alínea “b” do § 2° do art. 6° do Anexo I ao Decreto n° 99.602, de 13 de outubro de 1990, que aprova a Estrutura Regimental do Instituto Brasileiro do Patrimônio Cultural - IBPC.

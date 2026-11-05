@@ -1,5 +1,3 @@
-###DEC-065273-0-000-06-10-1969@@@
-
 DECRETO Nº 65.273 - DE 6 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Fundação Manoel João Gonçalves, com sede em Niterói, Estado do Rio de Janeiro.

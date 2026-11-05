@@ -1,5 +1,3 @@
-###DEC-067315-0-000-02-10-1970@@@
-
 DECRETO Nº 67.315, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o decreto nº 30.145 de 7 de novembro de 1951.

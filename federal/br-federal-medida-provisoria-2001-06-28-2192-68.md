@@ -1,5 +1,3 @@
-###MPV-002192-0-068-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.192‑ 68, DE 28 DE JUNHO DE 2001
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

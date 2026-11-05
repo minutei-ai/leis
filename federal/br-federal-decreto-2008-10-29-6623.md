@@ -1,5 +1,3 @@
-###DEC-006623-0-000-29-10-2008@@@
-
 DECRETO Nº 6.623, DE 29 DE OUTUBRO DE 2008.
 
 Dá nova redação aos arts. 2o, 3o e 8o do Decreto no 3.937, de 25 de setembro de 2001, que regulamenta a Lei no 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.

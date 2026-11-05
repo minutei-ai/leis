@@ -1,5 +1,3 @@
-###DEC-049814-0-000-05-01-1961@@@
-
 DECRETO Nº 49.814, DE 5 DE JANEIRO DE 1961.
 
 Abre ao Poder Judiciário - Justiça do Distrito Federal - Tribunal de Justiça o credito especial de Cr$600.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-074446-0-000-21-08-1974@@@
-
 DECRETO Nº 74.446 - DE 21 DE AGOSTO DE 1974.
 
 Dispõe sobre a criação de área prioritária de emergência, para fins de Reforma Agrária, Estado de Minas Gerais e dá outras providências.

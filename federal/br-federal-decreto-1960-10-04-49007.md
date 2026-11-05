@@ -1,5 +1,3 @@
-###DEC-049007-0-000-04-10-1960@@@
-
 DECRETO Nº 49.007, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Ubaldo Sales da Fraga a lavrar mica no município de São Sebastião do Maranhão, Estado de Minas Gerais.

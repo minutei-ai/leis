@@ -1,5 +1,3 @@
-###DEC-093854-0-000-22-12-1986@@@
-
 DECRETO Nº 93.854, DE 22 DE DEZEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Humanidades Leonel Bogéa, Rio de Janeiro.

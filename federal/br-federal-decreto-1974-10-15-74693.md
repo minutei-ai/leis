@@ -1,5 +1,3 @@
-###DEC-074693-0-000-15-10-1974@@@
-
 DECRETO Nº 74.693, DE 15 DE OUTUBRO DE 1974.
 
 Declara a cessação da exploração do serviço de geração de energia elétrica, outorga à Centrais Elétricas de São Paulo S. A. - CESP concessão para aproveitamento hidráulico e dá outras providências.

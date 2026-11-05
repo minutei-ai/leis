@@ -1,5 +1,3 @@
-###DEL-009436-0-000-08-07-1946@@@
-
 DECRETO-LEI N. 9.436 – DE 8 DE JULHO DE 1946
 
 Dispõe sôbre a situação de Oficiais da Reserva de 2ª Classe

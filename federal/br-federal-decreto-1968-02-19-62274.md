@@ -1,5 +1,3 @@
-###DEC-062274-0-000-19-02-1968@@@
-
 DECRETO Nº 62.274, DE 19 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados na cidade do Rio de Janeiro, Estado da Guanabara.

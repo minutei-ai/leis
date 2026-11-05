@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208742)<br>
-
 # DECRETO N° 68.051, DE 31 DE OUTUBRO DE 2023
 
 ### _Dispõe sobre a criação da Unidade de Gestão do Projeto São Paulo Mais Digital e dá providências correlatas._

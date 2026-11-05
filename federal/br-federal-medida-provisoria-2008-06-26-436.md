@@ -1,5 +1,3 @@
-###MPV-000436-0-000-26-06-2008@@@
-
 MEDIDA PROVISÓRIA Nº 436, DE 26 DE JUNHO DE 2008.
 
 Altera as Leis nos 10.833, de 29 de dezembro de 2003, e 11.727, de 23 de junho de 2008, relativamente à incidência do Imposto sobre Produtos Industrializados - IPI, da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS, incidentes no mercado interno e na importação, sobre produtos dos Capítulos 21 e 22 da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006.

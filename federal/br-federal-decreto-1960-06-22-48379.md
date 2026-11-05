@@ -1,5 +1,3 @@
-###DEC-048379-0-000-22-06-1960@@@
-
 Decreto nº 48.379, de 22 de junho de 1960.
 
 Institui o Museu Villa-Lobos.

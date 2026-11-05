@@ -1,5 +1,3 @@
-###DEC-065311-0-000-09-10-1969@@@
-
 DECRETO Nº 65.311 - DE 9 DE OUTUBRO de 1969.
 
 Concede nacionalização, dependente de posterior homologação governamental, à emprêsa Société de Sucreries Brésiliennes, sob a denominação social de Usinas Brasileiras de Açúcar Sociedade Anônima.
@@ -66,7 +64,25 @@ Emols, NCr$ 110,00 (2 vias, t. u.)
 
 # LISTA DOS ACIONISTAS DA SOCIETÉ DE SUCRERIES BRESILIENNES EM 31 DE JULHO DE 1969
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:358.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">GICADEL S. A............................................................................................</span></p></td><td style="width:76.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">78.038 ações</span></p></td></tr><tr><td style="width:358.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">DELTEC INTERNATIONAL Ltd..............................................................</span></p></td><td style="width:76.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">21.085 ações</span></p></td></tr><tr><td style="width:358.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">DELTEC BANKING CORPORATION.....................................................</span></p></td><td style="width:76.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">538 ações</span></p></td></tr><tr><td style="width:358.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">ZEFEC Ltda.................................................................................................</span></p></td><td style="width:76.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.550 ações</span></p></td></tr><tr><td style="width:358.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">VALLE DE TROYES..................................................................................</span></p></td><td style="width:76.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">32 ações</span></p></td></tr></tbody></table>
+GICADEL S. A............................................................................................
+
+78.038 ações
+
+DELTEC INTERNATIONAL Ltd..............................................................
+
+21.085 ações
+
+DELTEC BANKING CORPORATION.....................................................
+
+538 ações
+
+ZEFEC Ltda.................................................................................................
+
+11.550 ações
+
+VALLE DE TROYES..................................................................................
+
+32 ações
 
 TABELA.
 

@@ -1,5 +1,3 @@
-###DEC-059718-0-000-14-12-1966@@@
-
 DECRETO Nº 59.718, DE 14 DE DEZEMBRO DE 1966.
 
 Concede à Companhia Nacional de Fertilizantes Potássicos - COFERK, autorização para funcionar como emprêsa de mineração.

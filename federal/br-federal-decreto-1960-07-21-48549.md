@@ -1,5 +1,3 @@
-###DEC-048549-0-000-21-07-1960@@@
-
 DECRETO Nº 48.549, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro José Vicente de Souza a pesquisar ouro e diamante, no município de Itupiranga, Estado do Pará.

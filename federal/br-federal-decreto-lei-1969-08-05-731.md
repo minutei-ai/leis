@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/934d6eaf-f149-4a84-ba0b-b77fba22c1d4/texto#nowhere)
 
-###DEL-000731-0-000-05-08-1969@@@
-
 Decreto-lei nº 731, de 5 de agôsto de 1969
 
 Altera a disposição da Lei nº 4.402, de 10 de setembro de 1964, e dá outras providências.

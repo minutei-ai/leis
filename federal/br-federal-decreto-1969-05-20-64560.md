@@ -1,5 +1,3 @@
-###DEC-064560-0-000-20-05-1969@@@
-
 DECRETO Nº 64.560, DE 20 DE MAIO DE 1969.
 
 Altera dispositivos do Decreto número 62.724, de 17 de maio de 1968.

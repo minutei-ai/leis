@@ -1,5 +1,3 @@
-###DEC-055579-0-000-18-01-1965@@@
-
 DECRETO Nº 55.579, DE 18 DE JANEIRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Nacional de Seguros Ipiranga, inclusive aumento do capital social.

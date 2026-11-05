@@ -1,5 +1,3 @@
-###DEC-003380-0-000-13-03-2000@@@
-
 DECRETO Nº 3.380, DE 13 DE MARÇO DE 2000.
 
 Dispõe sobre a conversão para a versão modificada da Nomenclatura da ALADI baseada no Sistema Harmonizado de Designação e Codificação de Mercadorias (NALADI/SH 96) do Acordo Regional nº 7 de Cooperação e Intercâmbio de Bens nas Áreas Cultural, Educacional e Científica, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Chile, da República da Colômbia, da República de Cuba, da República do Equador, dos Estados Unidos Mexicanos, da República do Paraguai, da República do Peru, da República Oriental do Uruguai e da República da Venezuela.

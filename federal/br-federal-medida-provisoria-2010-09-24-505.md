@@ -1,5 +1,3 @@
-###MPV-000505-0-000-24-09-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 505, DE 24 DE SETEMBRO DE 2010.
 
 Constitui fonte de recursos adicional ao Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

@@ -1,5 +1,3 @@
-###DEC-051377-0-000-20-12-1961@@@
-
 DECRETO Nº 51.377, DE 20 DE DEZEMBRO DE 1961.
 
 Dispõe sôbre a Delegação do Brasil junto à Comunidade Econômica Européia.

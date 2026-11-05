@@ -1,5 +1,3 @@
-###DEC-093532-0-000-05-11-1986@@@
-
 DECRETO Nº 93.532, DE 5 DE NOVEMBRO DE 1986.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Fazenda Bálsamo'', situado no Município de Unaí, no Estado de Minas Gerais, e compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986 e dá outras providências.

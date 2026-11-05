@@ -1,5 +1,3 @@
-###DEL-002255-0-000-04-03-1985@@@
-
 # Decreto-leI nº 2.255, de 04 de março de 1985
 
 Institui a Gratificação de Incentivo à Atividade Agronômica no Distrito Federal, e dá outras providências.

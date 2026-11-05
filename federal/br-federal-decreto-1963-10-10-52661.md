@@ -1,5 +1,3 @@
-###DEC-052661-0-000-10-10-1963@@@
-
 DECRETO Nº 52.661, DE 10 DE OUTUBRO DE 1963.
 
 Altera o Regulamento para o Comando Naval de Brasília.

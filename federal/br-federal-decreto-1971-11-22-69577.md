@@ -1,5 +1,3 @@
-###DEC-069577-0-000-22-11-1971@@@
-
 DECRETO Nº 69.577 - DE 22 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada a implantação de uma estação repetidora de microondas, no Município de Bebedouro, Estado de São Paulo.

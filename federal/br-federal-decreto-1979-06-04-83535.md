@@ -1,5 +1,3 @@
-###DEC-083535-0-000-04-06-1979@@@
-
 Decreto nº 83.535, de 4 de junho de 1979.
 
 Declara luto oficial por três dias.

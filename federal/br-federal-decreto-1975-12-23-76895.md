@@ -1,5 +1,3 @@
-###DEC-076895-0-000-23-12-1975@@@
-
 DECRETO Nº 76.895, DE 23 DE DEZEMBRO DE 1975.
 
 Dispõe sobre a criação, no Ministério da Agricultura, do Centro Nacional de Engenharia Agrícola (CENEA) e dá outras providências.

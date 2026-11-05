@@ -1,5 +1,3 @@
-###DEC-079983-0-000-18-07-1977@@@
-
 DECRETO Nº 79.983, DE 18 DE JUlHO DE 1977
 
 Altera a redação do artigo 5º do Decreto nº 60.466, de 14 de março de 1967, que regulamenta a arrecadação de contribuições previdenciárias.

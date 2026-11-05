@@ -1,5 +1,3 @@
-###DEC-059551-0-000-11-11-1966@@@
-
 DECRETO Nº 59.551, DE 11 DE NOVEMBRO DE 1966.
 
 Altera o art. 1º do Decreto número 53.158, de 11 de dezembro de 1963.

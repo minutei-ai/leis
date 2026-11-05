@@ -1,5 +1,3 @@
-###DEC-059554-0-000-11-11-1966@@@
-
 DECRETO Nº 59.554, DE 11 DE NOVEMBRO DE 1966.
 
 Autoriza a Mineração Triângulo Sociedade Anônima a Lavrar argila no município de Uberaba, Estado de Minas Gerais.

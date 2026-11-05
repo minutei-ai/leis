@@ -1,5 +1,3 @@
-###DEL-008463-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.463 – DE 27 DE DEZEMBRO DE 1945
 
 Reorganiza o Departamento Nacional de Estradas de Rodagem, cria o Fundo Rodoviário Nacional e dá outras providências.

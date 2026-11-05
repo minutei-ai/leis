@@ -1,5 +1,3 @@
-###DEC-081369-0-000-21-02-1978@@@
-
 Decreto nº 81.369, de 21 de fevereiro de 1978.
 
 Declara a caducidade do Manifesto da  Mina que menciona.

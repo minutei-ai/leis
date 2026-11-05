@@ -1,5 +1,3 @@
-###DEC-055570-0-000-18-01-1965@@@
-
 decreto nº 55.570, de 18 de janeiro de 1965.
 
 Concede à sociedade Navegação Mercantil S. A. - NAVEM autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

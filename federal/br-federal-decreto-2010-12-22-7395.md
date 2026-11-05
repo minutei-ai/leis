@@ -1,5 +1,3 @@
-###DEC-007395-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº 7.395, DE 22 DE DEZEMBRO DE 2010.
 
 Estabelece a remuneração para as contratações temporárias voltadas a atividades de assistência à saúde para comunidades indígenas, de que trata a Lei no 8.745, de 9 de dezembro de 1993.

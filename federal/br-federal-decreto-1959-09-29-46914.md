@@ -1,5 +1,3 @@
-###DEC-046914-0-000-29-09-1959@@@
-
 DECRETO Nº 46.914, DE 29 DE Setembro DE 1959.
 
 Aprova convenções para balizamento dos canais, portos, barras rios e lagos.

@@ -1,5 +1,3 @@
-###DEC-053965-0-000-11-06-1964@@@
-
 DECRETO Nº 53.965, DE 11 DE JUNHO DE 1964.
 
 Proíbe a nomeação ou admissão de pessoal na forma que estabelece e dá outras providências.

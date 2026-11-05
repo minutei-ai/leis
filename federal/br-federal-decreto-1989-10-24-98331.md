@@ -1,7 +1,3 @@
-1
-
-###DEC-098331-0-000-24-10-1989@@@
-
 DECRETO N° 98.331, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão à RÁDIO VANGUARDA DE CARIDADE LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Caridade, Estado do Ceará.

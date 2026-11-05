@@ -1,5 +1,3 @@
-###DEC-052813-0-000-11-11-1963@@@
-
 DECRETO Nº 52.813, DE 11 DE NOVEMBRO DE 1963.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde, aprovada pelo Decreto número 49.346, de 25 de novembro de 1960 e dá outras providências.

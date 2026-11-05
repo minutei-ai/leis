@@ -1,5 +1,3 @@
-###DEC-052129-0-000-17-06-1963@@@
-
 decreto nº 52.129, de 17 de junho de 1963.
 
 Altera o Decreto nº 51.133, de 3 de agôsto de 1961 que criou o Grupo de Organização da Comissão Nacional de Atividades Espaciais e revoga o Decreto nº 477, de 5 de janeiro de 1962.

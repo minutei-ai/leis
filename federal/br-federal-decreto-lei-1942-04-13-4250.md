@@ -1,5 +1,3 @@
-###DEL-004250-0-000-13-04-1942@@@
-
 DECRETO-LEI N. 4.250 – DE 13 DE ABRIL DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito suplementar de 33:488$0 à Verba 2 – Material, Consignação II, Subconsignação 28-34-23

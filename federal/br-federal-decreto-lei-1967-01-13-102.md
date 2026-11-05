@@ -1,5 +1,3 @@
-###DEL-000102-0-000-13-01-1967@@@
-
 DECRETO-LEI Nº 102, dE 13 DE JANEIRO DE 1967
 
 Dispõe sôbre a distribuição gratuita à magistratura e magistério especializado das publicações do Supremo Tribunal Federal, e dá outras providências.

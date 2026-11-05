@@ -1,5 +1,3 @@
-###DEL-009052-0-000-12-03-1946@@@
-
 DECRETO-LEI N. 9.052 – DE 12 DE MARÇO DE 1946
 
 Subordina ao regime de licença prévia a exportação de artefatos de metais preciosos, e dá outras providências.

@@ -1,19 +1,17 @@
-###DEC-027481-0-000-21-11-1949@@@
+**DECRETO Nº 27.481, DE 21 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.481, DE 21 DE NOVEMBRO DE 1949.</strong>
+***Suprime Cargos Provisórios.***
 
-<em><strong>Suprime Cargos Provisórios.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87 nº I Constituição Federal, e nos têrmos do artigo 1º alínea *N* , do Decreto-lei nº 3.195, de 14 de Abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87 nº I Constituição Federal, e nos têrmos do artigo 1º alínea <em>N</em> , do Decreto-lei nº 3.195, de 14 de Abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica suprimido 1 cargo da classe *K*, da carreira de médico do Quadro Permanente do Ministério da Fazenda, vago em virtude da promoção de Aroldo Alves de Almeida e Albuquerque, devendo a dotação correspondente ser levada a crédito da Conta-Corrente dos mesmos Quadro e Ministério.
 
-<strong>Art</strong>. 1º Fica suprimido 1 cargo da classe <em>K</em>, da carreira de médico do Quadro Permanente do Ministério da Fazenda, vago em virtude da promoção de Aroldo Alves de Almeida e Albuquerque, devendo a dotação correspondente ser levada a crédito da Conta-Corrente dos mesmos Quadro e Ministério.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 21 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira

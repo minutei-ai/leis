@@ -1,5 +1,3 @@
-###DEC-058475-0-000-19-05-1966@@@
-
 decreto nº 58.475, de 19 de maio de 1966.
 
 “Declara caduco o Decreto número 45.304, de 27 de janeiro de 1959.”

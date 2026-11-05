@@ -1,5 +1,3 @@
-###DEC-004315-0-000-30-07-2002@@@
-
 DECRETO Nº 4.315, DE 30 DE JULHO DE 2002
 
 Altera dispositivos do Decreto nº 2.574, de 29 de abril de 1998, que regulamenta a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre o desporto e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001639-0-000-18-09-1995@@@
-
 DECRETO Nº 1.639, DE 18 DE SETEMBRO DE 1995
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da COMPANHIA DE NAVEGAÇÃO LLOYD BRASILEIRO - LLOYDBRÁS.

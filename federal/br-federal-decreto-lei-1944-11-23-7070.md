@@ -1,5 +1,3 @@
-###DEL-007070-0-000-23-11-1944@@@
-
 DECRETO-LEI N. 7.070 – DE 23 NOVEMBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial da Cr$ 4.391.970,00, para refôrço do abastecimento dágua a Santa Cruz

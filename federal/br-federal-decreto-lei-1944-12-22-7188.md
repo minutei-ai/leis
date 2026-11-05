@@ -1,5 +1,3 @@
-###DEL-007188-0-000-22-12-1944@@@
-
 DECRETO-LEI N. 7.188 – DE 22 DE DEZEMBRO DE 1944
 
 Prorroga a vigência do crédito aberto pelo art. 2º do Decreto-lei nº 6.646, de 29 de junho de 1944

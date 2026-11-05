@@ -1,5 +1,3 @@
-###DEL-009864-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.864 – DE 13 DE SETEMBRO DE 1946.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 3.800.000,00 para aquisição de cédulas do papel-moeda.

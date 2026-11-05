@@ -1,5 +1,3 @@
-###DEL-006736-0-000-25-07-1944@@@
-
 DECRETO-LEI N. 6.736 – DE 25 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 15.000.000,00, à verba que específica

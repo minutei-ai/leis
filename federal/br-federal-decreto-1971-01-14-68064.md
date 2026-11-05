@@ -1,5 +1,3 @@
-###DEC-068064-0-000-14-01-1971@@@
-
 DECRETO Nº 68.064, DE 14 DE JANEIRO DE 1971.
 
 Fixa, no Ministério da Aeronáutica, as proporções que determinam o número de vagas, que servirão de base para o cálculo de aplicação da cota compulsória, referente ao ano de 1970.

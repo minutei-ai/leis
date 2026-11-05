@@ -1,5 +1,3 @@
-###DEC-054769-0-000-30-10-1964@@@
-
 DECRETO Nº 54.769, DE 30 DE OUTUBRO DE 1964.
 
 Prorroga o Regulamento para o Setor de Identificação do Ministério das Relações Exteriores.

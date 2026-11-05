@@ -1,5 +1,3 @@
-###DEC-070724-0-000-19-06-1972@@@
-
 DECRETO Nº 70.724, DE 19 DE JUNHO DE 1972.
 
 Concede à Empresa de Mineração Santo Antônio de Lindoya Ltda, o direito de lavrar água mineral no município de Lindóia, Estado de São Paulo.

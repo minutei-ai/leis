@@ -1,5 +1,3 @@
-###DEC-050169-0-000-28-01-1961@@@
-
 DECRETO Nº 50.169, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Jornal de Itabuna Limitada para estabelecer uma estação de radiotelevisão.

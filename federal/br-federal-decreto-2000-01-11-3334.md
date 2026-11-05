@@ -1,5 +1,3 @@
-###DEC-003334-0-000-11-01-2000@@@
-
 DECRETO Nº 3.334, DE 11 DE JANEIRO DE 2000.
 
 Altera o Decreto nº 715, de 29 de dezembro de 1992, que delega competência a Ministros de Estados, para aprovar orçamentos das entidades que menciona, e dá outras providências.

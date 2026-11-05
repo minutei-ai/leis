@@ -1,5 +1,3 @@
-###DEC-054810-0-000-03-11-1964@@@
-
 DECRETO Nº 54.810, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Nagib Jafet a pesquisar minério de cobre, no município de Bom Jesus da Lapa, Estado da Bahia.

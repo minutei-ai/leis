@@ -1,5 +1,3 @@
-###DEC-083286-0-000-13-03-1979@@@
-
 Decreto nº 83.286, de 13 de março de 1979
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, situado na Cidade de Porto Alegre, Estado do Rio Grande do Sul.

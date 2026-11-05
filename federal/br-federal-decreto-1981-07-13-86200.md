@@ -1,5 +1,3 @@
-###DEC-086200-0-000-13-07-1981@@@
-
 DECRETO nº 86.200, de 13 de julho do 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-097073-0-000-21-11-1988@@@
-
 DECRETO N° 97.073, DE 21 DE NOVEMBRO DE 1988
 
 Altera a denominação e a localização do Centro de Informática e Estatística.

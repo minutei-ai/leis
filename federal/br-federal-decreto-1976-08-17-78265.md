@@ -1,5 +1,3 @@
-###DEC-078265-0-000-17-08-1976@@@
-
 DECRETO Nº 78.265, DE 17 DE AGOSTO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Universidade Católica de Pernambuco, com sede na cidade do Recife, Estado de Pernambuco.

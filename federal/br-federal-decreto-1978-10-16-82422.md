@@ -1,5 +1,3 @@
-###DEC-082422-0-000-16-10-1978@@@
-
 Decreto n.º 82 422, de 16 de outubro de 1978
 
 Concede à Indumar Comercial e Industrial S.A. o direito de lavrar dolomita no Município de Ouro Preto, Estado de Minas Gerais.

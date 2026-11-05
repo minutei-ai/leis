@@ -1,5 +1,3 @@
-###DEC-075712-0-000-12-05-1975@@@
-
 DECRETO Nº 75.712, DE 12 DE MAIO DE 1975.
 
 Concede reconhecimento do curso de Engenharia de Operação da Universidade do Vale do Rio dos Sinos, mantida pela Sociedade Antônio Vieira, com sede na cidade de São Leopoldo, Estado do Rio Grande do Sul.

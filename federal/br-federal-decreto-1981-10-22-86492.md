@@ -1,5 +1,3 @@
-###DEC-086492-0-000-22-10-1981@@@
-
 Decreto nº 86.492, de 22 de outubro de 1981
 
 Altera o Decreto nº 81.240, de 20 de janeiro de 1978, que dispõe sobre as entidades fechadas de previdência privada, e dá outras providências.

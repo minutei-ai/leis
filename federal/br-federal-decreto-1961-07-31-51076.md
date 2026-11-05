@@ -1,5 +1,3 @@
-###DEC-051076-0-000-31-07-1961@@@
-
 DECRETO Nº 51.076, DE 31 DE JULHO DE 1961.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$5.000.000,00, para atender às despesas com o auxílio concedido ao Museu de Arte Moderna de São Paulo.

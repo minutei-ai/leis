@@ -1,5 +1,3 @@
-###DEC-081977-0-000-18-07-1978@@@
-
 Decreto nº 81.977, de 18 de julho de 1978.
 
 Declara a caducidade do Manifesto de Mina que menciona.

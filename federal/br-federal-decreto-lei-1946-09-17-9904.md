@@ -1,5 +1,3 @@
-###DEL-009904-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.904 – DE 17 DE SETEMBRO DE 1946
 
 Altera, sem aumanto de despesa, o Orçamento Geral da República

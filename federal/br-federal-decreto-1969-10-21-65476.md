@@ -1,5 +1,3 @@
-###DEC-065476-0-000-21-10-1969@@@
-
 Decreto Nº 65.476 - DE 21 DE OUTUBRO DE 1969.
 
 Dispõe sôbre as atividades de cooperação técnica internacional e dá outras providências.

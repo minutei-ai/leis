@@ -1,5 +1,3 @@
-###DEC-050558-0-000-08-05-1961@@@
-
 Decreto nº 50.558, de 8 de maio de 1961.
 
 Transforma o 3º Regimento de Artilharia 75 Auto-Rebocado em 3º Regimento de Obuses. 105.

@@ -1,5 +1,3 @@
-###DEC-073823-0-000-12-03-1974@@@
-
 DECRETO Nº 73.823, DE 12 DE MARÇO DE 1974.
 
 Aprova o Regulamento do Fundo do Exército e dá outras providências.

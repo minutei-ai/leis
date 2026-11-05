@@ -1,5 +1,3 @@
-###DEC-081451-0-000-15-03-1978@@@
-
 Decreto nº 81.451, de 15 de março de 1978.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Sociedade Gaúcha S.A., atual Rádio e Televisão Gaúcha S.A. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Porto Alegre, Estado do Rio Grande do Sul.

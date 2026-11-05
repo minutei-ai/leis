@@ -1,5 +1,3 @@
-###DEC-064250-0-000-21-03-1969@@@
-
 DECRETO Nº 64.250, DE 21 DE MARÇO DE 1969.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Subestação de Pirajui à Subestação de Guarantã, nos Municípios de Pirajui e Guarantã, no Estado de São Paulo.

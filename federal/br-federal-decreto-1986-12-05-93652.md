@@ -1,5 +1,3 @@
-###DEC-093652-0-000-05-12-1986@@@
-
 DECRETO Nº 93.652, DE 5 DE DEZEMBRO DE 1986
 
 Concede à CARBONÍFERA PRÓSPERA S.A., autorização para proceder a aumento de seu capital social.

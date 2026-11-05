@@ -1,5 +1,3 @@
-###DEC-075460-0-000-07-03-1975@@@
-
 DECRETO Nº 75.460, DE 7 DE MARÇO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Cuiabá Ltda., para que a Fundação Bom Jesus de Cuiabá passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cuiabá, Estado de Mato Grosso.

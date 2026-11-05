@@ -1,5 +1,3 @@
-###DEC-078231-0-000-12-08-1976@@@
-
 Decreto nº 78.231, de 12 de agosto de 1976.
 
 Regulamenta a Lei nº 6.259, de 30 de outubro de 1975, que dispõe sobre a organização das ações de Vigilância Epidemiológica, sobre o Programa Nacional de Imunizações, estabelece normas relativas à notificação compulsória de doenças, e dá outras providências.

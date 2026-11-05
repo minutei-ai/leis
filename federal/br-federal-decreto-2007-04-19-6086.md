@@ -1,5 +1,3 @@
-###DEC-006086-0-000-19-04-2007@@@
-
 DECRETO Nº 6.086, DE 19 DE ABRIL DE 2007.
 
 Promulga o Acordo sobre o Benefício da Justiça Gratuita e Assistência Jurídica Gratuita entre os Estados Partes do Mercosul, assinado em Florianópolis, em 15 de dezembro de 2000.
@@ -24,11 +22,7 @@ Brasília,19 de abril de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.4.2007
-
-ACORDO SOBRE O BENEFÍCIO DA JUSTIÇA GRATUITA E ASSISTÊNCIA
+Celso Luiz Nunes AmorimACORDO SOBRE O BENEFÍCIO DA JUSTIÇA GRATUITA E ASSISTÊNCIA
 
 JURÍDICA GRATUITA ENTRE OS ESTADOS PARTES DO MERCOSUL
 

@@ -25,5 +25,3 @@ JOÃO COSER
 JANETE DE SÁ
 
 2ª Secretária
-
-Este texto não substitui o publicado no D.O. de 20.06.2024.

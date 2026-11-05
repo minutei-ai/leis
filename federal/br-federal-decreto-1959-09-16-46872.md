@@ -1,5 +1,3 @@
-###DEC-046872-0-000-16-09-1959@@@
-
 DECRETO Nº 46.872, DE 16 DE SETEMBRO DE 1959.
 
 Altera a redação de dois artigos do Regulamento para o Quadro de Práticos dos rios da Prata, baixo e médio Paraná, Paraguai e costas, criado pelo Decreto nº 7.368, de 11-6-1941.

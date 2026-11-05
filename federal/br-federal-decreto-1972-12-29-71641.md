@@ -1,5 +1,3 @@
-###DEC-071641-0-000-29-12-1972@@@
-
 DECRETO Nº 71.641 - DE 29 DE DEZEMBRO DE 1972
 
 Declara de utilidade pública, para efeito de desapropriação, os imóveis constitutivos da área que menciona, no Município de Santos, Estado de São Paulo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087256-0-000-07-06-1982@@@
-
 Decreto nº 87.256, de 07 de junho de 1982
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Gleba nº 2 e Gleba nº 5, da Colônia "B", Santa Helena e Sol de Maio", situados no Município de Santa Helena, no Estado do Paraná, compreendidos na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

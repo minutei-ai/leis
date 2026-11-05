@@ -1,5 +1,3 @@
-###DEC-059524-0-000-09-11-1966@@@
-
 DEcRETO Nº 59.524, de 9 de novembro de 1966.
 
 Autoriza o Govêrrno do Estado de Minas Gerais a pesquisar cianita e grafita no município de Minas Gerais, Estado de Minas Gerais.

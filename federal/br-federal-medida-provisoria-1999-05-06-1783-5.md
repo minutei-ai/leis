@@ -1,5 +1,3 @@
-###MPV-001783-0-005-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.783-5, DE 6 DE MAIO DE 1999.
 
 Institui o Auxilio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

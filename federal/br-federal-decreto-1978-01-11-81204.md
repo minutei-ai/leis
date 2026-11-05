@@ -1,5 +1,3 @@
-###DEC-081204-0-000-11-01-1978@@@
-
 DECRETO Nº 81 204, de 11 de janeiro de 1978
 
 Cria Organizações Militares no Ministério do Exército e dá outras providências.

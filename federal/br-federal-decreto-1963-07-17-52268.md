@@ -1,5 +1,3 @@
-###DEC-052268-0-000-17-07-1963@@@
-
 Decreto nº 52.268, de 17 de julho de 1963.
 
 Cria o Estandarte-Distintivo para o 1º Grupo de Obuses 155.

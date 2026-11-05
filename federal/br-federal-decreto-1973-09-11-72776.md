@@ -1,5 +1,3 @@
-###DEC-072776-0-000-11-09-1973@@@
-
 DECRETO Nº 72.776, DE 11 DE SETEMBRO DE 1973.
 
 Dispõe sobre a estrutura básica da Secretária Executiva da Superintendência do Desenvolvimento do Nordeste (SUDENE).

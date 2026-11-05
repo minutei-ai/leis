@@ -1,5 +1,3 @@
-###DEC-056651-0-000-05-08-1965@@@
-
 DECRETO Nº 56.651, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza Caraíba Mineração e Metalurgia S.A. a pesquisar minério de cobre no municipio de Curaça, Estado da Bahia.

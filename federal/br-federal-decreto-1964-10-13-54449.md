@@ -1,5 +1,3 @@
-###DEC-054449-0-000-13-10-1964@@@
-
 decreto nº 54.449, de 13 de outubro de 1964.
 
 Renova o decreto nº 49.260 de 17 de novembro de 1960.

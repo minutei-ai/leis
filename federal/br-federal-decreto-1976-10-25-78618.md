@@ -1,5 +1,3 @@
-###DEC-078618-0-000-25-10-1976@@@
-
 DECRETO Nº 78.618, DE 25 DE OUTUBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado na cidade de São Roque, Estado de São Paulo, necessário ao Ministério da Aeronáutica.

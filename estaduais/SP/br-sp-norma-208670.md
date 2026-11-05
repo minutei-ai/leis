@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208670)<br>
-
 # DECRETO N° 68.021, DE 11 DE OUTUBRO DE 2023
 
 ### _Institui o catálogo eletrônico de padronização de compras, serviços e obras, nos termos do inciso II do artigo 19 da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Preliminares
 
 **Artigo 1° -** Este decreto institui o catálogo eletrônico de padronização de compras, serviços e obras, nos termos do inciso II do artigo 19 da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
@@ -27,10 +26,12 @@ II - catálogo de serviços, para serviços em geral;
 
 III - catálogo de obras e de serviços de engenharia, para projetos em geral ou serviços comuns de engenharia, de baixa complexidade técnica e operacional.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Padronização
 
-#### Seção I<br>
+#### Seção I
+
 Diretrizes e Etapas
 
 **Artigo 5° -** No processo de padronização do catálogo eletrônico de compras, serviços e obras, deverão ser observados:
@@ -71,7 +72,8 @@ IX - publicação no Portal Nacional de Contratações Públicas do item padroni
 
 **§ 2° -** No caso de projeto de obra ou de serviço de engenharia, o parecer técnico é de competência privativa das profissões de engenheiro ou de arquiteto, conforme o caso.
 
-#### Seção II<br>
+#### Seção II
+
 Documentos componentes do catálogo
 
 **Artigo 7° -** O catálogo eletrônico de padronização conterá os seguintes documentos da fase preparatória de licitações:
@@ -94,7 +96,8 @@ VI - parecer jurídico referencial.
 
 **§ 3° -** Ato do Procurador Geral do Estado disciplinará a elaboração de parecer jurídico referencial nas hipóteses de que trata este decreto.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Da revisão do catálogo
 
 **Artigo 8° -** O órgão ou entidade competente poderá revisar o item já padronizado:
@@ -121,7 +124,8 @@ III - revogação do padrão, sem que novo item seja padronizado.
 
 **§ 2° -** Após a aprovação das minutas documentais e a elaboração de parecer jurídico referencial, nos termos do § 1° deste artigo, os documentos serão publicados no Portal de Compras do Estado de São Paulo e no Portal Nacional de Contratações Públicas.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Utilização do Catálogo
 
 **Artigo 10 -** O catálogo eletrônico de padronização será utilizado em licitações cujo critério de julgamento seja o de menor preço ou o de maior desconto, bem como nas contratações diretas de que tratam o inciso I do artigo 74 e os incisos I e II do artigo 75 da Lei n° 14.133, de 2021.
@@ -144,7 +148,8 @@ VI - informação sobre a adequação orçamentária.
 
 **Parágrafo único -** Em todos os casos, é vedada a alteração da especificação do objeto.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Disposições Finais
 
 **Artigo 12 -** As informações sobre o catálogo eletrônico de padronização serão disponibilizadas no Portal de Compras do Estado de São Paulo e no Portal Nacional de Contratações Públicas.

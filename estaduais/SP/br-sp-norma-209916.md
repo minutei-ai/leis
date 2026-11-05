@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209916)<br>
-
 # DECRETO N° 68.825, DE 04 DE SETEMBRO DE 2024
 
 ### _Regulamenta a Lei n° 17.853, de 8 de dezembro de 2023, quanto ao funcionamento do Fundo de Apoio à Universalização do Saneamento no Estado de São Paulo - FAUSP, instituído pela Lei n° 17.853, de 8 de dezembro de 2023._

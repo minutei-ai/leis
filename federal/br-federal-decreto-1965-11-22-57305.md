@@ -1,5 +1,3 @@
-###DEC-057305-0-000-22-11-1965@@@
-
 DECRETO Nº 57.305, DE 22 DE NOVEMBRO DE 1965.
 
 Concede nacionalização à sociedade anônima Gillette Safety Razor Company of Brazil, sob nova forma social de Gillette do Brasil Limitada.

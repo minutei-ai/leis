@@ -1,5 +1,3 @@
-###DEC-096521-0-000-15-08-1988@@@
-
 DECRETO N° 96.521, DE 15 DE AGOSTO DE 1988
 
 Declara de interesse social, para fins de desapropriação o imóvel rural denominado “FAXINAL  DOS RIBEIROS” ou “VALE DO RIO D'AREIA”  QUINHÕES I C, 139, 179, 93 E 94, classificado como latifúndio por exploração, situado no Município de Pinhão, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 2 de maio de 1986, e dá outras providências.

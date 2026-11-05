@@ -1,7 +1,3 @@
-1
-
-###DEC-098950-0-000-15-02-1990@@@
-
 DECRETO Nº 98.950, DE 16 DE FEVEREIRO DE 1990
 
 Outorga concessão à RÁDIO VALE DO POTENGI LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de São Paulo do Potengi, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-062093-0-000-09-01-1968@@@
-
 DECRETO Nº 62.093, DE 9 DE JANEIRO DE 1968.
 
 Autoriza Elias Freire Junior, a comprar pedras preciosas.

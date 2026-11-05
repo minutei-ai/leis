@@ -1,5 +1,3 @@
-###DEC-070524-0-000-16-05-1972@@@
-
 DECRETO Nº 70.524, DE 16 DE MAIO DE 1972.
 
 Declara de utilidade pública a Associação de Assistência Social Joana D'Arc, com sede em Tupã, Estado de São Paulo.

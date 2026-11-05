@@ -1,5 +1,3 @@
-###DEC-092383-0-000-06-02-1986@@@
-
 DECRETO Nº 92.383, DE 06 DE FEVEREIRO DE 1986
 
 Outorga ao Serviço de Água e Esgoto do Município de Araras concessão para captação de água do rio Mogi-Guaçu, para abastecimento público, no Estado de São Paulo.

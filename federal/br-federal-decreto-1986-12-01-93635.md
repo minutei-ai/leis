@@ -1,5 +1,3 @@
-###DEC-093635-0-000-01-12-1986@@@
-
 DECRETO Nº 93.635, DE 1º DE DEZEMBRO DE 1986
 
 Altera a denominação do Curso de Tecnólogo em Processamento de Dados, ministrado pelas Faculdades Integradas de Ibirapuera.

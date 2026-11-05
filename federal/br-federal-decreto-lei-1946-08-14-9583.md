@@ -1,5 +1,3 @@
-###DEL-009583-0-000-14-08-1946@@@
-
 DECRETO-LEI N. 9.583 – DE 14 DE AGÔSTO DE 1946
 
 Cria uma Coletoria Federal no Município de Registro, no Estado de São Paulo, e dá outras providências.

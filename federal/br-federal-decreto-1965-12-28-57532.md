@@ -1,5 +1,3 @@
-###DEC-057532-0-000-28-12-1965@@@
-
 decreto nº 57.532, de 28 de dezembro de 1965.
 
 Autoriza a Companhia Paulista de Força e Luz a construir linha de transmissão e dá outras providencias.

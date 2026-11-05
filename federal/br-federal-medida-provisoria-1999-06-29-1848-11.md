@@ -1,5 +1,3 @@
-###MPV-001848-0-011-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.848-11, DE 29 DE JUNHO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Refinanciamento da Dívida Pública Mobiliária Federal - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$68.383.840.000,00, para reforço de dotações consignadas no vigente orçamento.

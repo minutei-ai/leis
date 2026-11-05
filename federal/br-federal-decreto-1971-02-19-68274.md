@@ -1,5 +1,3 @@
-###DEC-068274-0-000-19-02-1971@@@
-
 DECRETO Nº 68.274, DE 19 DE FEVEREIRO DE 1971.
 
 Reorganiza o Departamento Geral de Serviços do Ministério do Exército e dá outras providências.

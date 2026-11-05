@@ -1,7 +1,3 @@
-1
-
-###DEC-001608-0-000-28-08-1995@@@
-
 DECRETO Nº 1.608, DE 28 DE AGOSTO DE 1995
 
 Vincula o Conselho Diretor do Fundo de Participação PIS-PASEP à Secretaria do Tesouro Nacional do Ministério da Fazenda, e revoga o Decreto nº  931, de 15.09.93.

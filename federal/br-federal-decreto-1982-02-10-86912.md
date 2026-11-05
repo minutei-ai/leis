@@ -1,5 +1,3 @@
-###DEC-086912-0-000-10-02-1982@@@
-
 Decreto nº 86.912, de 10 de fevereiro de 1982
 
 Institui o Programa de Financiamento de Equipamentos de Irrigação - PROFIR, e dá outras providências.

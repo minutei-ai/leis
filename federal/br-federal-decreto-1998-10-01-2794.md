@@ -1,5 +1,3 @@
-###DEC-002794-0-000-01-10-1998@@@
-
 DECRETO Nº 2.794, DE 1º DE OUTUBRO DE 1998
 
 Institui a Política Nacional de Capacitação dos Servidores para a Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

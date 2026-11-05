@@ -1,5 +1,3 @@
-###DEC-058771-0-000-28-06-1966@@@
-
 Decreto nº 58.771, de 28 de junho de 1966.
 
 Modifica o Decreto nº 46.124, de 26 de maio de 1959, e estabelece procedimento para autorização dos vôos não regulares de transporte de carga, em aeronaves estrangeiras.

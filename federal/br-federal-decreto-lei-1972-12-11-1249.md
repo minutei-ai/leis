@@ -1,5 +1,3 @@
-###DEL-001249-0-000-11-12-1972@@@
-
 # DECreTO-LEi Nº 1.249, DE 11 DE DEZEMBRO DE 1972
 
 Fixa valor do soldo do posto de Almirante-de-Esquadra ou equivalente e dá outras providências.

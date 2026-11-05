@@ -1,7 +1,3 @@
-1
-
-###DEC-099139-0-000-12-03-1990@@@
-
 DECRETO Nº 99.139, DE 12 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Administração, das Faculdades Integradas do Planalto Central, em Luziânia, Estado de Goiás.

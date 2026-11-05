@@ -1,5 +1,3 @@
-###DEC-087406-0-000-15-07-1982@@@
-
 Decreto nº 87.406, de 15 de julho de 1982
 
 Concede ao LUDWING INSTITUT FÜR KREBSFORSCHUNG (Instituto Ludwing de Pesquisa sobre o Câncer) autorização para funcionamento de filial no Brasil.

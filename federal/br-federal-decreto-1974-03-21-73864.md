@@ -1,5 +1,3 @@
-###DEC-073864-0-000-21-03-1974@@@
-
 DECRETO Nº 73.864, DE 21 DE MARÇO DE 1974.
 
 Dá nova redação a dispositivos do Regimento do Gabinete Militar da Presidência da Republica.

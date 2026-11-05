@@ -1,5 +1,3 @@
-###DEC-053967-0-000-16-06-1964@@@
-
 DECRETO Nº 53.967, DE 16 DE JUNHO DE 1964.
 
 Regulamenta o art. 37 da Lei número 3.244, de 14 agôsto de 1957, e dá outras providências.
@@ -149,8 +147,6 @@ Brasília, 16 de junho de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Octávio Bulhões
-
-###DEC-053967-0-000-16-06-1964@@@RET01+++
 
 DECRETO Nº 53.967, DE 16 DE JUNHO DE 1964.
 

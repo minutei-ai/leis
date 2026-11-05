@@ -22,5 +22,6 @@ Art. 6º Esta Lei entra em vigor na data de sua publicação, revogando as alter
 
 GABINETE DO PRESIDENTE DA CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA, AOS 12 DE DEZEMBRO DE 2017.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Presidente da Câmara Municipal

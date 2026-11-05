@@ -1,5 +1,3 @@
-###DEC-059624-0-000-30-11-1966@@@
-
 DECRETO nº 59.624, DE 30 DE NOVEMBRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Liberdade, inclusive aumento do capital social.

@@ -1,5 +1,3 @@
-###DEL-004213-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.213 – DE 27 DE março DE 1942
 
 Cria uma coletoria federal no município de Francisco Sales, no Estado de Minas Gerais, e dá outras providências.

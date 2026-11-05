@@ -1,5 +1,3 @@
-###DEC-049400-0-000-01-12-1960@@@.
-
 DECRETO Nº 49.400 – DE 01 DE Dezembro DE 1960.
 
 Autoriza o cidadão brasileiro Antonio Quirino da Silva a pesquisar minério de ferro no Município de Itauna, Estado de Minas Gerais.

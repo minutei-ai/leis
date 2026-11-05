@@ -1,5 +1,3 @@
-###DEC-058049-0-000-23-03-1966@@@
-
 Decreto nº 58.049, de 23 de março de 1966.
 
 Autoriza Cimento Aratu S. A. a pesquisar conchas calcárias e corais, no município de Salvador, Estado da Bahia.

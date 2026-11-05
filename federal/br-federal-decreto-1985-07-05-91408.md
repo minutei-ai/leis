@@ -1,5 +1,3 @@
-###DEC-091408-0-000-05-07-1985@@@
-
 DECRETO Nº 91.408, DE 5 DE JULHO DE 1985
 
 Altera a composição do Conselho Federal de Educação.

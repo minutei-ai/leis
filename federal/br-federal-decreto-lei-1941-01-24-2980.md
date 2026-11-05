@@ -1,5 +1,3 @@
-###DEL-002980-0-000-24-01-1941@@@
-
 DECRETO-LEI N. 2.980 – DE 24 DE JANEIRO DE 1941
 
 Consolida as disposições sobre o serviço de loterias e dá outras providências

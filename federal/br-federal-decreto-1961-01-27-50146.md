@@ -1,5 +1,3 @@
-###DEC-050146-0-000-27-01-1961@@@
-
 DECRETO Nº 50.146, DE 27 DE JANEIRO DE 1961.
 
 Aprova o regulamento para a fiscalização do comércio de fertilizantes e produtos correlatos destinados à agricultura.

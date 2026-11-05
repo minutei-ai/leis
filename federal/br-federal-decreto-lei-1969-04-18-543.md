@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9d93b9ea-f3ce-4f7a-b2b9-b3be440fd9c2/texto#nowhere)
 
-###DEL-000543-0-000-18-04-1969@@@
-
 DECRETO-LEI Nº 543, DE 18 DE ABRIL DE 1969
 
 Aprova Atos do IX Congresso da União Postal das Américas e Espanha, adotados na cidade do México, em 16 de junho de 1966.

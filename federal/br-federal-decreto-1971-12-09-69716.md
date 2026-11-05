@@ -1,5 +1,3 @@
-###DEC-069716-0-000-09-12-1971@@@
-
 decreto nº 69.716 - de 9 de dezembro de 1971
 
 Concede autorização ao "Lamont Doherty Geological Observatory", da Universidade de Columbia, USA, para operar em águas territoriais brasileiras com o navio-oceanográfico "ROBERT D. CONRAD" de nacionalidade norte-americana, efetuando as pesquisas que especifica.

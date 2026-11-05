@@ -1,5 +1,3 @@
-###DEC-057698-0-000-02-02-1966@@@
-
 Decreto Nº 57.698, DE 2 DE FEVEREIRO DE 1966.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$138.941.000, para atender às despesas que específica.

@@ -1,5 +1,3 @@
-###DEC-072810-0-000-14-09-1973@@@
-
 DECRETO Nº 72.810, DE 14 DE SETEMBRO DE 1973.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupantes, para o Quadro de Pessoal da Superintendência Nacional do Abastecimento.

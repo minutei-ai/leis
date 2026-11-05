@@ -1,5 +1,3 @@
-###DEC-058047-0-000-23-03-1966@@@
-
 DECRETO nº 58.047, DE 23 DE MARÇO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-083463-0-000-17-05-1979@@@
-
 Decreto nº 83.463, de 17 de maio de 1979.
 
 Altera a redação dos artigos 2º, 5º, 8º e 24 do Decreto nº 77.339, de 25 de Março de 1976.

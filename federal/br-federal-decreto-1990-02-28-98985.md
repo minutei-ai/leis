@@ -1,7 +1,3 @@
-1
-
-###DEC-098985-0-000-28-02-1990@@@
-
 DECRETO Nº 98.985, DE 28 DE FEVEREIRO DE 1990
 
 Declara o valor do salário mínimo do mês de março de 1990, na forma da Lei nº 7.789, de 3 de julho de 1989.

@@ -1,5 +1,3 @@
-###DEC-005051-0-000-19-04-2004@@@
-
 DECRETO Nº 5.051,  DE 19 DE ABRIL DE 2004
 
 Promulga a Convenção nº 169 da Organização Internacional do Trabalho - OIT sobre Povos Indígenas e Tribais. 

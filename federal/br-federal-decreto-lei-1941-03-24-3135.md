@@ -1,5 +1,3 @@
-###DEL-003135-0-000-24-03-1941@@@
-
 DECRETO-LEI N. 3.135 – DE 24 DE MARÇO DE 1941
 
 Reorganiza o Estabelecimento de Subsistência, Militar das 1º, 2º e 4º Regiões Militares

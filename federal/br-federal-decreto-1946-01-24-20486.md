@@ -1,34 +1,32 @@
-###DEC-020486-0-000-24-01-1946@@@
+**DECRETO Nº 20.486, DE 24 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.486, DE 24 DE JANEIRO DE 1946.</strong>
+***Aprova e manda executar o Regulamento para os Centros de Instrução da Marinha.***
 
-<em><strong>Aprova e manda executar o Regulamento para os Centros de Instrução da Marinha.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em> ,da Constituição,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a* ,da Constituição,
 
 RESOLVE aprovar e mandar executar o regulamento para os centros de Instrução da Marinha que a êste acompanha assinado pelo Vice Almirante Jorge Dodsworth Martins - Ministro do Estado dos Negócios da Marinha.
 
 Rio de Janeiro, 24 de Janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Jorge Dodsworth Martins
 
-<strong>REGULAMENTO PARA OS CENTROS DE INSTRUÇÃO DA MARINHA A QUE SE REFERE O DECRETO Nº 20.486, DE 24 DE JANEIRO DE 1946.</strong>
+**REGULAMENTO PARA OS CENTROS DE INSTRUÇÃO DA MARINHA A QUE SE REFERE O DECRETO Nº 20.486, DE 24 DE JANEIRO DE 1946.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Dos Centros de Instrução e seus Fins</em>
+*Dos Centros de Instrução e seus Fins*
 
-<strong>Art</strong>. 1º Os Centros de Instrução, reorganizados pelo Decreto-lei numérico 8.389, de 17 de Dezembro de 1945, são estabelecidos destinados a missão estabelecimentos destinados a ministrar em seus diversos graus instrução profissional especializada ao pessoal militar, da ativa ou da reserva, da Marinha de Guerra.
+**Art**. 1º Os Centros de Instrução, reorganizados pelo Decreto-lei numérico 8.389, de 17 de Dezembro de 1945, são estabelecidos destinados a missão estabelecimentos destinados a ministrar em seus diversos graus instrução profissional especializada ao pessoal militar, da ativa ou da reserva, da Marinha de Guerra.
 
-<strong>Art</strong>. 2º Os Centros de Instrução são subordinados, técnica e administrativamente à Diretoria de Ensino Naval.
+**Art**. 2º Os Centros de Instrução são subordinados, técnica e administrativamente à Diretoria de Ensino Naval.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3º Os Centros de Instrução serão constituídos por:
+**Art**. 3º Os Centros de Instrução serão constituídos por:
 
 I - Comando;
 
@@ -42,23 +40,23 @@ b) Departamento do Material
 
 IV - Secretaria.
 
-<strong>Art</strong>. 4º O Departamento de Instrução será constituída pelas Escolas de Especialidade determinadas pelo Ministro da Marinha na forma do art. 2º do decreto nº 8.389, de 17 de Dezembro de 1945, e a ele ficarão subordinadas os serviços técnicos necessários a execução do plano de ensino.
+**Art**. 4º O Departamento de Instrução será constituída pelas Escolas de Especialidade determinadas pelo Ministro da Marinha na forma do art. 2º do decreto nº 8.389, de 17 de Dezembro de 1945, e a ele ficarão subordinadas os serviços técnicos necessários a execução do plano de ensino.
 
-<strong>Art</strong>. 5º Os serviços dos Departamentos de Administração serão distribuídos por tantas Divisões quantas as localizações do Centro e o número de suas escolas exigirem.
+**Art**. 5º Os serviços dos Departamentos de Administração serão distribuídos por tantas Divisões quantas as localizações do Centro e o número de suas escolas exigirem.
 
 Parágrafo único. Quando um Centro estiver instalado no recinto de uma Base Naval, poderá deixar de ter serviços próprios de Saúde e de Fazenda.
 
-<strong>Art</strong>. 6º Os detalhes da organização e funcionamento de cada Centro serão regidos por uma “Organização Interna Administrativa” proposta pelo respectivo Comandante e aprovada pelo Diretor Geral do Ensino Naval.
+**Art**. 6º Os detalhes da organização e funcionamento de cada Centro serão regidos por uma “Organização Interna Administrativa” proposta pelo respectivo Comandante e aprovada pelo Diretor Geral do Ensino Naval.
 
-<strong>Art</strong>. 7º A instrução nas Escolas obedecerá as normas gerais e particulares que a Diretoria do Ensino estabelecer em “Instruções Gerais” ou “Especiais”.
+**Art**. 7º A instrução nas Escolas obedecerá as normas gerais e particulares que a Diretoria do Ensino estabelecer em “Instruções Gerais” ou “Especiais”.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 8º A direção geral dos serviços de um centro de Instrução compete a um Capitão de Mar e Guerra do Corpo da Armada com título de Comandante.
+**Art**. 8º A direção geral dos serviços de um centro de Instrução compete a um Capitão de Mar e Guerra do Corpo da Armada com título de Comandante.
 
-<strong>Art</strong>. 9º Para a execução dos serviços de Administração e instrução um Centro terá o seguinte pessoal:
+**Art**. 9º Para a execução dos serviços de Administração e instrução um Centro terá o seguinte pessoal:
 
 a) um (1) Capitão de Fragata da ativa do Corpo da Armada, para Imediato;
 
@@ -74,25 +72,25 @@ f) Tantos Capitães Tenentes ou Primeiros Tenentes da ativa ou da reserva remune
 
 g) Os auxiliares do Corpo de Pessoal Subalterno da Armada e os servidores Civis que forem necessários ao funcionamento regular dos centros na forma de sua Organização Interna cujos números será fixados nas Lotações e Tabelas numéricas respectivas.
 
-<strong>Art</strong>. 10 As nomeações e designações para servir nos Centros de Instalação processar-se-ão de acôrdo com as normas de legislação em vigor.
+**Art**. 10 As nomeações e designações para servir nos Centros de Instalação processar-se-ão de acôrdo com as normas de legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 11. Aos oficiais de Departamento de Instrução não deverão salvo caso de emergência absoluta ser atribuídas funções nos Departamentos de Administração.
+**Art**. 11. Aos oficiais de Departamento de Instrução não deverão salvo caso de emergência absoluta ser atribuídas funções nos Departamentos de Administração.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 12 As atividades constantes da letra <em>b</em> do artigo 3º do antigo Regulamento do Centro de Instrução do Rio de Janeiro aprovado pelo Decreto nº 18.382 de 17-4-45 continuarão a ser exercidas por êsse Centro até a criação e instalação de órgão especializado destinado a atendê-las.
+**Art**. 12 As atividades constantes da letra *b* do artigo 3º do antigo Regulamento do Centro de Instrução do Rio de Janeiro aprovado pelo Decreto nº 18.382 de 17-4-45 continuarão a ser exercidas por êsse Centro até a criação e instalação de órgão especializado destinado a atendê-las.
 
 Parágrafo único. Essas atividades serão superintendidas pelo Comandante do Centro auxiliado pelo encarregado da Escola de Educação Física e pessoal a esta subordinado.
 
 Rio de Janeiro 24 de Janeiro de 1946.
 
-<strong>JORGE DODSWORTH MARTINS</strong>
+**JORGE DODSWORTH MARTINS**
 
 Vice Almirante
 

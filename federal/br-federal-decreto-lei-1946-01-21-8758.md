@@ -1,5 +1,3 @@
-###DEL-008758-0-000-21-01-1946@@@
-
 DECRETO-LEI 8.758 – DE 21 DE JANEIRO DE 1946
 
 Dá nova, redação ao art. 7º, do Decreto-lei nº 925, de 2 de dezembro de 1938, e dá outras providências.

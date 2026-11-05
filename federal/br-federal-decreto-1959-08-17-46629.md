@@ -1,5 +1,3 @@
-###DEC-046629-0-000-17-08-1959@@@
-
 DECRETO Nº 46.629, DE 17 DE AGôSTO DE 1959.
 
 Estabelece a frequência de 60 ciclos por segundo no sistema da Companhia Sanjoanense de Eletricidade.

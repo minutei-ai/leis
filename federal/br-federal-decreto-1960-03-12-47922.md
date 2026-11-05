@@ -1,5 +1,3 @@
-###DEC-047922-0-000-12-03-1960@@@
-
 DECRETO Nº 47.922, DE 12 DE MARÇO DE 1960.
 
 Inclui funções gratificadas no Ministério da Saúde, e dá outras providências.

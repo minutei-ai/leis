@@ -1,38 +1,36 @@
-###DEC-052462-0-000-12-09-1963@@@
+**DECRETO Nº 52.462, DE 12 DE SETEMBRO DE 1963.**
 
-<strong>DECRETO Nº 52.462, DE 12 DE SETEMBRO DE 1963.</strong>
+***Aprova o Regulamento da Secretaria da Procuradoria Geral da Justiça Militar.***
 
-<em><strong>Aprova o Regulamento da Secretaria da Procuradoria Geral da Justiça Militar.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Secretaria da Procuradoria Geral da Justiça Militar, o qual com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Secretaria da Procuradoria Geral da Justiça Militar, o qual com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, ficando revogado o de nº 37.159, de 13 de abril de 1955.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, ficando revogado o de nº 37.159, de 13 de abril de 1955.
 
 Brasília, 12 de setembro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Jair Ribeiro
 
-<strong>REGULAMENTO</strong>
+**REGULAMENTO**
 
 Da Secretaria do Ministro Público da União junto à Justiça Militar
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º A Secretaria da Procuradoria Geral da Justiça Militar, criada pela Lei 3.478, de 4 de dezembro de 1958, tem por fim a centralização e execução de todos os serviços administrativos pertinentes ao Ministério Público da União junto à Justiça Militar.
+**Art**. 1º A Secretaria da Procuradoria Geral da Justiça Militar, criada pela Lei 3.478, de 4 de dezembro de 1958, tem por fim a centralização e execução de todos os serviços administrativos pertinentes ao Ministério Público da União junto à Justiça Militar.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º A Secretaria da Procuradoria Geral da Justiça Militar é constituída de:
+**Art**. 2º A Secretaria da Procuradoria Geral da Justiça Militar é constituída de:
 
 I - Secretaria propriamente dita, compreendendo três Seções
 
@@ -60,13 +58,13 @@ c) Portaria.
 
 § 5º Caberá ao Procurador Geral da Justiça Militar lotar, mediante portaria, os funcionários do Quadro da Secretaria do Ministério Público junto à Justiça Militar, conforme as necessidades do serviço e atendendo à legislação vigente.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 3º Compete à Secretaria da Procuradoria Geral da Justiça Militar a centralização, coordenação e execução de todos os serviços administrativos e judiciários.
+**Art**. 3º Compete à Secretaria da Procuradoria Geral da Justiça Militar a centralização, coordenação e execução de todos os serviços administrativos e judiciários.
 
-<strong>Art</strong>. 4º À 1ª Seção Administrativa incumbe:
+**Art**. 4º À 1ª Seção Administrativa incumbe:
 
 1\) Elaborar os trabalhos de ordem administrativa em geral;
 
@@ -76,7 +74,7 @@ c) Portaria.
 
 4\) Providenciar a publicação, nos órgãos oficiais do expediente da Procuradoria Geral da Justiça Militar;
 
-5\) Organizar, para publicação no <em>Diário de Justiça</em>, até 15 de janeiro, as listas de antiguidade relativas ao ano anterior, e processar as reclamações, a elas referentes;
+5\) Organizar, para publicação no *Diário de Justiça*, até 15 de janeiro, as listas de antiguidade relativas ao ano anterior, e processar as reclamações, a elas referentes;
 
 a) dos Promotores nas respectivas categorias; e
 
@@ -112,7 +110,7 @@ b) do pessoal da Secretaria.
 
 20\) Preparar, semanalmente e distribuir, o Boletim Interno da Procuradoria Geral da Justiça Militar que será assinado pelo Chefe da Seção e pelo chefe da Secretaria, devendo requisitar os elementos necessários a sua elaboração à Seção Judiciária, Legislação e Jurisprudência, Correspondência, Datilografia e Estenografia e aos Serviços Auxiliares.
 
-<strong>Art</strong>. 5º - A Seção Judiciária, Legislação e Jurisprudência incumbe:
+**Art**. 5º - A Seção Judiciária, Legislação e Jurisprudência incumbe:
 
 1\) Lavrar todos os têrmos de processos relativos aos feitos criminais em andamento, bem como a publicação de editais e atos referentes aos aludidos feitos;
 
@@ -144,7 +142,7 @@ b) do pessoal da Secretaria.
 
 15\) Fornecer à 1ª Seção Administrativa os elementos necessários à confecção do Boletim Interno.
 
-<strong>Art</strong>. 6º - A 3ª Seção de Correspondência, Datilografia e Estenografia incumbe:
+**Art**. 6º - A 3ª Seção de Correspondência, Datilografia e Estenografia incumbe:
 
 1\) Receber, registrar, distribuir, numerar, expedir e guardar a correspondência oficial e papéis relativos às atividades da Procuradoria Geral da Justiça Militar;
 
@@ -166,7 +164,7 @@ b) do pessoal da Secretaria.
 
 10\) Coligir e fornecer anualmente ao Chefe da Secretaria, até 15 de janeiro, o movimento geral da Seção, para constar do Relatório do Procurador Geral.
 
-<strong>Art</strong>. 7º Aos Serviços Auxiliares incumbe:
+**Art**. 7º Aos Serviços Auxiliares incumbe:
 
 a) Biblioteca
 
@@ -216,11 +214,11 @@ c) Portaria
 
 10\) Fornecer à 1ª Seção Administrativa os dados necessários à confecção do Boletim Interno e ao Chefe da Secretaria, até 15 de janeiro de cada ano, os destinados à elaboração do Relatório Anual do Procurador Geral.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições do Procurador Geral da Justiça Militar</em>
+*Das atribuições do Procurador Geral da Justiça Militar*
 
-<strong>Art</strong>. 8º Além das atribuições previstas na legislação vigente e das que decorrem do exercício do cargo, ao Procurador Geral da Justiça Militar incumbe ainda:
+**Art**. 8º Além das atribuições previstas na legislação vigente e das que decorrem do exercício do cargo, ao Procurador Geral da Justiça Militar incumbe ainda:
 
 1\) Aprovar por portaria a lotação dos funcionários do Quadro do Pessoal da Secretaria do Ministério Público da União, junto à Justiça Militar, de acôrdo com as necessidades do serviço;
 
@@ -252,11 +250,11 @@ c) Portaria
 
 15\) Expedir as carteiras de que trata o art. 19 das Disposições Gerais do presente regulamento.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das atribuições do Chefe da Secretaria e dos Funcionários</em>
+*Das atribuições do Chefe da Secretaria e dos Funcionários*
 
-<strong>Art</strong>. 9º Ao Chefe da Secretaria da Procuradoria Geral incumbe:
+**Art**. 9º Ao Chefe da Secretaria da Procuradoria Geral incumbe:
 
 1\) Despachar com o Procurador Geral a matéria administrativa;
 
@@ -278,7 +276,7 @@ c) Portaria
 
 10\) Propor a instauração de processos administrativos;
 
-11\) Baixar instruções e ordens sôbre serviços da Secretaria, <em>ad-referendum</em> do Procurador Geral;
+11\) Baixar instruções e ordens sôbre serviços da Secretaria, *ad-referendum* do Procurador Geral;
 
 12\) Propor a designação de servidores lotados ou requisitados para serviço, missão ou estudo em qualquer ponto do território nacional;
 
@@ -290,7 +288,7 @@ c) Portaria
 
 16\) Assinar certidões que forem requisitadas.
 
-<strong>Art</strong>. 10. Ao Chefe de Seção incumbe:
+**Art**. 10. Ao Chefe de Seção incumbe:
 
 1\) Dirigir e fiscalizar os trabalhos da Seção sob sua responsabilidade;
 
@@ -306,40 +304,40 @@ c) Portaria
 
 7\) Despachar pessoalmente com o Chefe da Secretaria.
 
-<strong>Art</strong>. 11. Aos assistentes incumbe executar os encargos específicos de acôrdo com as atribuições definidas no art. 60, letras <em>a</em> e <em>b</em> e as ordens de serviço que lhes forem determinadas pelo Chefe da Secretaria.
+**Art**. 11. Aos assistentes incumbe executar os encargos específicos de acôrdo com as atribuições definidas no art. 60, letras *a* e *b* e as ordens de serviço que lhes forem determinadas pelo Chefe da Secretaria.
 
-<strong>Art</strong>. 12. Ao Porteiro compete atribuições análogas às fixadas no artigo 60, letra <em>c</em> e mais:
+**Art**. 12. Ao Porteiro compete atribuições análogas às fixadas no artigo 60, letra *c* e mais:
 
 1\) Determinar os plantões e escalas de serviços e fiscalizar pessoalmente a execução dos trabalhos a cargo do pessoal que lhe fôr subordinado;
 
 2\) Atender com presteza aos pedidos e reclamações dos órgãos da Procuradoria-Geral, tomando as medidas que couberem, no limite de suas atribuições.
 
-<strong>Art</strong>. 13. Ao Motorista incumbe dirigir, conservar e manter em estado de limpeza o automóvel que lhe fôr destinado para o serviço a seu cargo.
+**Art**. 13. Ao Motorista incumbe dirigir, conservar e manter em estado de limpeza o automóvel que lhe fôr destinado para o serviço a seu cargo.
 
-<strong>Art</strong>. 14. Aos funcionários em geral em exercício nas Secretarias, incumbe executar os trabalhos que lhes forem determinados pelo Chefe Imediato.
+**Art**. 14. Aos funcionários em geral em exercício nas Secretarias, incumbe executar os trabalhos que lhes forem determinados pelo Chefe Imediato.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 15. O horário normal de trabalho será fixado pelo Procurador-Geral, respeitada a legislação em vigor.
+**Art**. 15. O horário normal de trabalho será fixado pelo Procurador-Geral, respeitada a legislação em vigor.
 
-<strong>Art</strong>. 16. O Chefe da Secretaria da Procuradoria-Geral da Justiça Militar, não fica sujeito a ponto, devendo, porém, observar o horário fixado na legislação vigente.
+**Art**. 16. O Chefe da Secretaria da Procuradoria-Geral da Justiça Militar, não fica sujeito a ponto, devendo, porém, observar o horário fixado na legislação vigente.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 17. Serão substituídos, automaticamente em suas faltas e impedimentos eventuais até 30 dias por designação do Procurador-Geral:
+**Art**. 17. Serão substituídos, automaticamente em suas faltas e impedimentos eventuais até 30 dias por designação do Procurador-Geral:
 
 1\) O Chefe da Secretaria da Procuradoria-Geral, por um dos Chefes de Seção indicado pelo Procurador-Geral;
 
 2\) Os Chefes de Seção e o Porteiro por um funcionário indicado pelo Procurador-Geral.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 18. Ficam criadas três funções gratificadas símbolo 5-F de Chefe de Seção e mantida a função gratificada símbolo 4-F, de Chefe da Secretaria.
+**Art**. 18. Ficam criadas três funções gratificadas símbolo 5-F de Chefe de Seção e mantida a função gratificada símbolo 4-F, de Chefe da Secretaria.
 
-<strong>Art</strong>. 19. Fica criado o emblema de Promotor da Justiça Militar, segundo modêlo oficial, e a “Carteira de Representação Oficial” dos Membros do Ministério Público e dos seus auxiliares diretos, com as características constantes das Instruções a serem fixadas pela Procuradoria-Geral da Justiça Militar.
+**Art**. 19. Fica criado o emblema de Promotor da Justiça Militar, segundo modêlo oficial, e a “Carteira de Representação Oficial” dos Membros do Ministério Público e dos seus auxiliares diretos, com as características constantes das Instruções a serem fixadas pela Procuradoria-Geral da Justiça Militar.

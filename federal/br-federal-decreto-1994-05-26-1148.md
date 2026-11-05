@@ -1,7 +1,3 @@
-1
-
-###DEC-001148-0-000-26-05-1994@@@
-
 DECRETO N° 1.148, DE 26 DE MAIO DE 1994
 
 Transfere do Ministério da Integração Regional para a Fundação Universidade Federal de Pelotas, no Estado do Rio Grande do Sul, o acervo técnico-científico, os bens patrimoniais e os projetos vinculados ao Plano de Desenvolvimento Integrado da Bacia da Lagoa Mirim.

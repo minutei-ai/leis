@@ -1,5 +1,3 @@
-###DEC-048318-0-000-20-06-1960@@@
-
 DECRETO Nº 48.318, DE 20 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Severino Pereira da Silva a lavrar calcário no município de Mossoró, Estado do Rio Grande do Norte.

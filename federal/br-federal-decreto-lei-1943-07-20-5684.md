@@ -1,5 +1,3 @@
-###DEL-005684-0-000-20-07-1943@@@
-
 DECRETO‑LEI N. 5.684 – DE 20 DE JULHO DE 1943
 
 Autoriza a criação da Companhia Nacional de Álcalis, e dá outras providências

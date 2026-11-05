@@ -1,5 +1,3 @@
-###DEC-057396-0-000-07-12-1965@@@
-
 DECRETO Nº 57.396, DE 7 DE DEZEMBRO DE 1965.
 
 Abre, pelo Ministério da Indústria e do Comércio, a favor do Instituto de Resseguros do Brasil (I.R.B.) o crédito especial de Cr$1.000.000.000 (um bilhão de cruzeiros).

@@ -1,5 +1,3 @@
-###DEC-074649-0-000-04-10-1974@@@
-
 decreto nº 74.649, de 4 de outubro de 1974.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas, Contábeis e Administração de Campo Grande, mantida pelo Missão Salesiana de Mato Grosso, com sede na cidade de Campo Grande, Estado de Mato Grosso.

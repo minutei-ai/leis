@@ -1,5 +1,3 @@
-###DEC-059098-0-000-19-08-1966@@@
-
 DECRETO Nº 59.098, DE 19 DE AGÔSTO DE 1966.
 
 Cria o Consulado Honorário do Brasil em Alicante, Espanha.

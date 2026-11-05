@@ -1,5 +1,3 @@
-###DEC-056886-0-000-20-09-1965@@@
-
 DECRETO N º 56.886, DE 20 DE SETEMBRO DE 1965.
 
 Modifica denominação de Instituição do Departamento Nacional de Educação.

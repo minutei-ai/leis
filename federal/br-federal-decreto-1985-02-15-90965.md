@@ -1,5 +1,3 @@
-###DEC-090965-0-000-15-02-1985@@@
-
 DECRETO Nº 90.965, DE 15 DE fevereiro De 1985
 
 Concede à empresa EBCAL TRADING S.A., autorização para funcionar na República Federativa do Brasil.

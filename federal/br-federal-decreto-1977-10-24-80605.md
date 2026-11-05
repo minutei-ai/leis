@@ -1,5 +1,3 @@
-###DEC-080605-0-000-24-10-1977@@@
-
 DECRETO Nº 80.605, DE 24 DE OUTUBRO DE 1977.
 
 Autoriza a transformação dos cursos de Ciências e de Matemática, em curso de Ciências da Faculdade de Filosofia, Ciências e Letras de São José do Rio Pardo, Estado de São Paulo.

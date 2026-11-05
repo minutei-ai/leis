@@ -1,5 +1,3 @@
-###MPV-002202-0-000-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.202, DE 28 DE JUNHO DE 2001
 
 Dispõe sobre o ressarcimento das contribuições para os Programas e Integração Social e de Formação do Patrimônio do Servidor público ‑ PIS/PASEP e para a Seguridade Social ‑ COFINS incidentes sobre insumos utilizados na fabricação de produtos destinados à exportação.

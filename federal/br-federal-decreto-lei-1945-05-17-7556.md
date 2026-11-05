@@ -1,5 +1,3 @@
-###DEL-007556-0-000-17-05-1945@@@
-
 DECRETO-LEI N. 7.556 – DE 17 DE MAIO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 80.000,00, para pagamento de indenização "o Banco do Brasil S. A.

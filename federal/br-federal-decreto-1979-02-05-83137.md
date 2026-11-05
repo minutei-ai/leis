@@ -1,5 +1,3 @@
-###DEC-083137-0-000-05-02-1979@@@
-
 Decreto nº 83.137, de 05 de fevereiro de 1979.
 
 Altera a redação do artigo 9º do Decreto nº 81.315, de 8 de fevereiro de 1978, com a modificação feita pelo Decreto nº 81.806, de 23 de junho de 1978

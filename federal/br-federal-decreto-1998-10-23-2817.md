@@ -1,5 +1,3 @@
-###DEC-002817-0-000-23-10-1998@@@
-
 DECRETO Nº 2.817, DE 23 DE OUTUBRO DE 1998
 
 Promulga o Acordo de Cooperação Técnica, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Namíbia, em Brasília, em 7 de março de 1995.
@@ -130,4 +128,14 @@ Em fé do que, os abaixo assinados, devidamente autorizados por seus respectivos
 
 Feito em Brasília, em 07 de março de 1995, em 4 (quatro) originais, 2 (dois) em português e 2 (dois) em inglês, sendo todos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:200.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Namíbia</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:200.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Theo-Ben Gurirab, M.P</span></p></td></tr><tr><td style="width:221.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:200.2pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-top:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro dos Negócios Estrangeiros</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República da Namíbia
+
+Luiz Felipe Lampreia
+
+Theo-Ben Gurirab, M.P
+
+Ministro de Estado das Relações Exteriores
+
+Ministro dos Negócios Estrangeiros

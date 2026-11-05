@@ -1,5 +1,3 @@
-###DEC-059831-0-000-21-12-1966@@@
-
 Decreto nº 59.831, de 21 de dezembro de 1966.
 
 Declara de utilidade pública a Sociedade dos Amigos de Augusto Frederico Schimdt, com sede no Estado da Guanabara.

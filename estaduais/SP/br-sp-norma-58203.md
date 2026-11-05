@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58203)
-
 # LEI Nº 12.084, DE 04 DE OUTUBRO DE 2005
 
 ## (PL 797/2004 - Marcelo Candido, Simão Pedro)

@@ -1,5 +1,3 @@
-###DEC-044938-0-000-01-12-1958@@@
-
 DECRETO Nº 44.938, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro José Gabriel Ferreira a pesquisar bauxita e argila no município de Poços de Caldas, Estado de Minas Gerais.

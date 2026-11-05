@@ -1,5 +1,3 @@
-###DEL-003064-0-000-19-02-1941@@@
-
 DECRETO-LEI N. 3.064 – DE 19 DE FEVEREIRO DE 1941
 
 Passa para a responsabilidade e administração do Governo Federal a Estação Geral de Experimentação de Sete Lagoas

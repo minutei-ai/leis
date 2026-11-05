@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 PALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 09 de junho de 2020; 132° da República.
 
-<br>
-
 Governador do Estado
 
 ZÉ CARAPÔ

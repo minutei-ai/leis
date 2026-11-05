@@ -1,5 +1,3 @@
-###DEC-045160-0-000-31-12-1958@@@
-
 Decreto nº 45.160, de 31 de dezembro de 1958.
 
 Concede à Mineração Oyapoque Limitada autorização para funcionar com emprêsa de mineração.

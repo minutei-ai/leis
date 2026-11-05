@@ -1,5 +1,3 @@
-###DEC-048571-0-000-21-07-1960@@@
-
 DECRETO Nº 48.571, DE 21 DE JUlho DE 1960.
 
 Autoriza o cidadão brasileiro Luiz Alberto Sisnando Costa a pesquisar água mineral, no município de Conceição do Rio Verde, Estado de Minas Gerais.

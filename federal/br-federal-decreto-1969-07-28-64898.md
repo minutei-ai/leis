@@ -1,5 +1,3 @@
-###DEC-064898-0-000-28-07-1969@@@
-
 DECRETO Nº 64.898 - DE 28 DE JULHO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro do Pessoal - Parte Especial - do Estado Maior das Fôrças Armadas, cargo originário do Extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/7653)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/compilacao-lei-10241-17.03.1999.html)
 
 # LEI N° 10.241, DE 17 DE MARÇO DE 1999

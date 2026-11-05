@@ -1,5 +1,3 @@
-###DEC-061780-0-000-24-11-1967@@@
-
 DECRETO Nº 61.780, DE 24 DE NOVEMBRO DE 1967.
 
 Prorroga o prazo fixado no artigo 3º do Decreto nº 61.076, de 26 de julho de 1967.

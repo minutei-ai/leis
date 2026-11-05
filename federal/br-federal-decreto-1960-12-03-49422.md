@@ -1,5 +1,3 @@
-###DEC-049422-0-000-03-12-1960@@@
-
 DECRETO Nº 49.422, DE 3 DE dezembro DE 1960.
 
 Dá a denominação de “Regimento Ararigboia” ao atual 3º Regimento de Infantaria.

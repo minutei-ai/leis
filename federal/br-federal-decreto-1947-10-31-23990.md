@@ -1,44 +1,42 @@
-###DEC-023990-0-000-31-10-1947@@@
+**DECRETO N. 23.990 – DE 31 DE OUTUBRO DE 1947**
 
-<strong>DECRETO N. 23.990 – DE 31 DE OUTUBRO DE 1947</strong>
-
-<em><strong>Aprova o Regulamento da Comissão Executiva de Defesa da Borracha</strong></em>
+***Aprova o Regulamento da Comissão Executiva de Defesa da Borracha***
 
 O Presidente da República usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto na Lei n. 86, de 8 de setembro de 1947,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovada o Regulamento da Comissão Executiva e Defesa da Borracha, criada nos têrmos da Lei n. 86, de 8 de setembro de 1947, que baixa com êste Decreto, assinado pelo Ministro de Estado dos Negócios da Fazenda.
+**Art**. 1º Fica aprovada o Regulamento da Comissão Executiva e Defesa da Borracha, criada nos têrmos da Lei n. 86, de 8 de setembro de 1947, que baixa com êste Decreto, assinado pelo Ministro de Estado dos Negócios da Fazenda.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 31 de outubro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 José Vieira Machado.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGULAMENTO DA COMISSÃO EXECUTIVA DE DEFESA DA BORRACHA</strong></span></span></h1>
+# **REGULAMENTO DA COMISSÃO EXECUTIVA DE DEFESA DA BORRACHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Comissão Executiva de Defesa da Borracha, criada nos têrmos da Lei n. 86, de 8 de setembro de 1947,, tem por finalidade assistir e amparar as indústrias extrativa e manufatureira de borracha brasileira, de acôrdo com as atribuições que lhe confere a citada Lei.
+**Art**. 1º A Comissão Executiva de Defesa da Borracha, criada nos têrmos da Lei n. 86, de 8 de setembro de 1947,, tem por finalidade assistir e amparar as indústrias extrativa e manufatureira de borracha brasileira, de acôrdo com as atribuições que lhe confere a citada Lei.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A Comissão Executiva de Defesa da Borracha, que funcionará sob a presidência do Ministro de Estado dos Negócios da Fazenda, é constituída de três membros; sendo um representante do Banco de Crédito da Borracha S. A., um dos produtores e um da indústria manufatureira, os quais serão nomeados por decreto do Presidente da República, de acôrdo com os arts. 5º e 8º e seu parágrafo único da Lei n. 86, de 8 de setembro de 1947.
+**Art**. 2º A Comissão Executiva de Defesa da Borracha, que funcionará sob a presidência do Ministro de Estado dos Negócios da Fazenda, é constituída de três membros; sendo um representante do Banco de Crédito da Borracha S. A., um dos produtores e um da indústria manufatureira, os quais serão nomeados por decreto do Presidente da República, de acôrdo com os arts. 5º e 8º e seu parágrafo único da Lei n. 86, de 8 de setembro de 1947.
 
 Parágrafo único. Dentre os membros da Comissão Executiva da Borracha, um deles será simultaneamente nomeado pelo Presidente da República para exercer as funções de vice-presidente.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA</em>
+*DA COMPETÊNCIA*
 
-<strong>Art</strong>. 3º A Comissão Executiva de Defesa da Borracha compete:
+**Art**. 3º A Comissão Executiva de Defesa da Borracha compete:
 
 a) assegurar, por intermédio do Banco de Crédito da Borracha S. A., a manutenção de estoques de borracha nos centros industriais, em qualidades e quantidades suficientes para, garantir o pleno funcionamento dos estabelecimentos manufatureiros ;
 
@@ -60,11 +58,11 @@ i) colaborar com o Banco de Crédito da Borracha, S. A., na fixação dos preço
 
 j) tomar as providências necessárias para a organização de seus serviços administrativos e para dar plena  execução, às funções que lhe são cometidas, inclusive realizar entendimentos com entidades públicas e particulares objetivando a consecução de suas finalidades.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 4º – São atribuições do Presidente da Comissão Executiva de Defesa da Borracha:
+**Art**. 4º – São atribuições do Presidente da Comissão Executiva de Defesa da Borracha:
 
 a) presidir às reuniões,
 
@@ -88,9 +86,9 @@ j) promover as diligências que fizerem mister para o cumprimento das finalidade
 
 l) resolver as questões de ordem administrativa.
 
-<strong>Art</strong>. 5º – Ao Vice-Presidente da Comissão Executiva de Defesa Borracha incumbe, além de suas atribuições como membro da mesma, substituir o Presidente em suas faltas e impedimentos e dirigir os serviços administrativos da Comissão.
+**Art**. 5º – Ao Vice-Presidente da Comissão Executiva de Defesa Borracha incumbe, além de suas atribuições como membro da mesma, substituir o Presidente em suas faltas e impedimentos e dirigir os serviços administrativos da Comissão.
 
-<strong>Art</strong>. 6º – Aos membros da Comissão Executiva de Defesa da Borracha compete:
+**Art**. 6º – Aos membros da Comissão Executiva de Defesa da Borracha compete:
 
 a) comparecer às sessões, salvo motivo de fôrça maior, justificado perante o Presidente;
 
@@ -108,44 +106,44 @@ g) assinar o livro de presença ao comparecer às reuniões;
 
 h) subscrever as atas depois de aprovadas.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS SESSÕES</em>
+*DAS SESSÕES*
 
-<strong>Art</strong>. 7º A Comissão Executiva de Defesa da Borracha reunir-se-á, em dia prèviamente designado pelo Presidente.
+**Art**. 7º A Comissão Executiva de Defesa da Borracha reunir-se-á, em dia prèviamente designado pelo Presidente.
 
 Parágrafo único. Quando necessário, o Presidente, a seu juízo ou a requerimento de qualquer dos membros, convocará sessões extraordinárias.
 
-<strong>Art</strong>. 8º A Comissão só deliberará com a presença de pelo menos dois têrços do total de seus membros,
+**Art**. 8º A Comissão só deliberará com a presença de pelo menos dois têrços do total de seus membros,
 
-<strong>Art</strong>. 9º A juízo do Presidente, poderão comparecer às sessões interessados os técnicos no assunto objeto de discussão.
+**Art**. 9º A juízo do Presidente, poderão comparecer às sessões interessados os técnicos no assunto objeto de discussão.
 
-<strong>Art</strong>. 10. De tôdas as sessões serão lavradas atas, mesmo que não haja deliberação por falta de número, mencionando-se sempre os nomes dos membros que comparecem.
+**Art**. 10. De tôdas as sessões serão lavradas atas, mesmo que não haja deliberação por falta de número, mencionando-se sempre os nomes dos membros que comparecem.
 
-<strong>Art</strong>. 11. Encerrado o debate de cada matéria em pauta, será a mesma posta em votação, e pelo Presidente colhidos os votos e proclamado o resultado.
+**Art**. 11. Encerrado o debate de cada matéria em pauta, será a mesma posta em votação, e pelo Presidente colhidos os votos e proclamado o resultado.
 
 § 1º A votação será, nominal, expressa pelas fórmulas sim ou não nos casos de total acordo ou desacordo com os têrmos do parecer, podendo ter lugar. nesta última hipótese, a apresentação de voto em separado.
 
 § 2º Se o voto do relator fôr vencido, o Presidente designará para redigir a decisão, dentro do prazo de oito (8) dias, o membro da Comissão cujo voto fôr vencedor.
 
-<strong>Art</strong>. 12. O relator da matéria sujeita a deliberação da Comissão poderá, declarar-se suspeito ou impedido, cabendo ao Presidente designar novo relator.
+**Art**. 12. O relator da matéria sujeita a deliberação da Comissão poderá, declarar-se suspeito ou impedido, cabendo ao Presidente designar novo relator.
 
 Parágrafo único. Qualquer membro da Comissão poderá, igualmente, declarar-se suspeito ou impedido por ocasião da discussão ou votação.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 13. O Presidente solicitará ao Poder Executivo a exoneração de qualquer membro da Comissão que deixe de comparecer, sem motivo justificado, a três (3) sessões ordinárias consecutivas; bem como a nomeação do seu substituto, de acôrdo com o que dispõe o art. 8º da Lei n. 86, de 8 de setembro de 1947.
+**Art**. 13. O Presidente solicitará ao Poder Executivo a exoneração de qualquer membro da Comissão que deixe de comparecer, sem motivo justificado, a três (3) sessões ordinárias consecutivas; bem como a nomeação do seu substituto, de acôrdo com o que dispõe o art. 8º da Lei n. 86, de 8 de setembro de 1947.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 14. Os casos omissos no presente Regulamento serão resolvidos pela Comissão Executiva de Defesa da Borracha, em sessão Plenária.
+**Art**. 14. Os casos omissos no presente Regulamento serão resolvidos pela Comissão Executiva de Defesa da Borracha, em sessão Plenária.
 
-<strong>Art</strong>. 15. A Comissão Executiva de Defesa da Borracha gozará de franquia postal e telegráfica.
+**Art**. 15. A Comissão Executiva de Defesa da Borracha gozará de franquia postal e telegráfica.
 
-<strong>Art</strong>. 16. O presente Regulamento entra em vigor dentro de trinta (30) dias a contar da data de sua publicação, revogadas as disposições em contrário.
+**Art**. 16. O presente Regulamento entra em vigor dentro de trinta (30) dias a contar da data de sua publicação, revogadas as disposições em contrário.
 
  Rio de Janeiro, 31 de outubro de 1947– José Viana Machado.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097648-0-000-12-04-1989@@@
-
 DECRETO N° 97.648, DE 12 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Administração das Faculdades Integradas de Vilhena, em Rondônia.

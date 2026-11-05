@@ -1,5 +1,3 @@
-###DEC-004505-0-000-11-12-2002@@@
-
 DECRETO N. 4.505 – DE 11 DE DEZEMBRO DE 2002
 
 Altera os Decretos nos 3.520, de 21 de junho de 2000, e 4.131, de 14 de fevereiro de 2002, que dispõem sobre a estrutura e funcionamento do Conselho Nacional de Política Energética – CNPE, e medidas de redução de consumo de energia elétrica no âmbito da Administração Pública Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066896-0-000-17-07-1970@@@
-
 DECRETO Nº 66.896, DE 17 DE JULHO DE 1970.
 
 Cancela o Decreto nº 16.627, de 20 de setembro de 1944.

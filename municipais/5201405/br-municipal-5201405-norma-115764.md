@@ -4,7 +4,8 @@ Dispõe sobre a organização do Sistema Municipal de Defesa do Consumidor – S
 
 O PREFEITO DE APARECIDA DE GOIÂNIA Faço saber que a Câmara Municipal de Aparecida de Goiânia aprova e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º A presente Lei estabelece a organização do Sistema Municipal de Defesa do Consumidor - SMDC, nos termos dos arts. 5º, inciso XXXII e 170, inciso V, da Constituição federal, do art. 133 da Constituição do Estado de Goiás, do art. 105 da Lei federal nº 8.078, de 11 de setembro de 1990 – Código de Defesa do Consumidor, e das disposições previstas na Lei Orgânica do Município de Aparecida de Goiânia.
@@ -19,7 +20,8 @@ III - o Fundo Municipal de Defesa do Consumidor.
 
 Parágrafo único. Integram o Sistema Municipal de Defesa do Consumidor, os órgãos federais, estaduais e municipais e as entidades privadas que se dedicam à proteção e defesa do consumidor, sediadas no município, observado o disposto nos incisos I e II do art. 5º da Lei federal nº 7.347, de 24 de julho de 1985.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO CONSELHO MUNICIPAL DE DEFESA DO CONSUMIDOR – CONDECON
 
 Art. 3º Fica instituído o Conselho Municipal de Defesa do Consumidor - CONDECON, órgão colegiado de caráter consultivo, deliberativo e fiscalizador, integrante do Sistema Municipal de Defesa do Consumidor, com as seguintes atribuições:
@@ -80,7 +82,8 @@ Art. 6º O Conselho reunir-se-á, ordinariamente, uma vez por trimestre e, extr
 
 § 2º Não havendo quórum para a instalação da sessão em primeira convocação, será realizada nova convocação para o mesmo dia, com intervalo mínimo de 30 (trinta) minutos, ou para data posterior, quando a sessão poderá ser instalada com a presença de, no mínimo, 1/3 (um terço) de seus membros.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO FUNDO MUNICIPAL DE DEFESA DO CONSUMIDOR
 
 Art. 7º Fica instituído o Fundo Municipal de Defesa do Consumidor - FMDC, de natureza contábil-financeira, vinculado ao órgão municipal de proteção e defesa do consumidor, com o objetivo de centralizar e gerir os recursos destinados ao desenvolvimento das ações e serviços de proteção e defesa dos direitos dos consumidores, em atendimento ao disposto no art. 57 da Lei federal nº 8.078, de 1990, e no Decreto federal nº 2.181, de 20 de março de 1997.
@@ -201,7 +204,8 @@ Art. 12. O orçamento do Fundo Municipal de Defesa do Consumidor observará, em
 
 Art. 13. O gestor do Fundo deverá observar, na realização das despesas custeadas com recursos do Fundo, as normas relativas à licitação pública, nos termos da legislação vigente.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DISPOSIÇÕES FINAIS
 
 Art. 14. No exercício de suas atribuições, os órgãos do Sistema Municipal de Defesa do Consumidor poderão celebrar convênios, acordos ou outros instrumentos de cooperação técnica e de fiscalização com órgãos e entidades públicas ou privadas, observadas as respectivas competências, especialmente com: I - Departamento de Proteção e Defesa do Consumidor
@@ -240,5 +244,6 @@ Aparecida de Goiânia, 23 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

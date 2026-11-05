@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208218)<br>
-
 # DECRETO N° 67.771, DE 24 DE JUNHO DE 2023
 
 ### _Altera os decretos n° 66.805 e 66.806, ambos de 2 de junho de 2022, que regulamentam a concessão do Adicional de Local de Exercício aos integrantes dos Quadro de Apoio Escolar e Quadro do Magistério, de que tratam, respectivamente, as Leis Complementares n° 687, de 7 de outubro de 1992, e n° 669, de 20 de dezembro de 1991, alteradas pela Lei Complementar n° 1.374, de 30 de março de 2022._

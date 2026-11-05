@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/55ebe04e-1b3e-4c2e-88a1-20c25a0459fe/texto#nowhere)
 
-###DEL-000930-0-000-10-10-1969@@@
-
 DECRETO-LEI Nº 930, DE 10 DE OUTUBRO DE 1969
 
 Autoriza o Banco do Estado do Amazonas S.A. na qualidade de Agente Financeiro do Estado a contratar financiamento externo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092064-0-000-05-12-1985@@@
-
 Decreto nº 92.064, de 05 de dezembro de 1985
 
 Autoriza o funcionamento dos cursos de Letras e Estudos Sociais, no Campus de Telêmaco Borba, pela Universidade Estadual de Ponta Grossa.

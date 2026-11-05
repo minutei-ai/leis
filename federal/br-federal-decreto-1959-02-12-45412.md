@@ -1,5 +1,3 @@
-###DEC-045412-0-000-12-02-1959@@@
-
 DECRETO Nº 45.412, DE 12 DE FEVEREIRO DE 1959.
 
 Outorga à Prefeitura Municipal de Gouvêa concessão para o aproveitamento de energia hidráulica de desnível existente no córrego Braúna, no distrito sede do município de Gouvêa, Estado de Minas Gerais.

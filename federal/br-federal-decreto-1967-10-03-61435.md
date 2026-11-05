@@ -1,5 +1,3 @@
-###DEC-061435-0-000-03-10-1967@@@
-
 DECRETO Nº 61.435, DE 3 DE OUTUBRO DE 1967.
 
 Regulamenta o disposto na Seção III do Capítulo III, Título III, artigos 84 a 86 da Lei nº 4.504, de 30 de novembro de 1964.

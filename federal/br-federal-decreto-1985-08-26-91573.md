@@ -1,5 +1,3 @@
-###DEC-091573-0-000-26-08-1985@@@
-
 Decreto nº 91.573, de 26 de agosto de 1985
 
 Outorga concessão à FUNDAÇÃO DE TELECOMUNICAÇÕES DO PARÁ - FUNTELPA, para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belém, Estado do Pará.

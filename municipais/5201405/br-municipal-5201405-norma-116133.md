@@ -16,8 +16,10 @@ Art. 3º Esta Lei entrará em vigor a partir de sua aprovação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, Aos 21 de Outubro de 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

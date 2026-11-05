@@ -1,5 +1,3 @@
-###DEC-091729-0-000-02-10-1985@@@
-
 DECRETO nº 91.729, de 02 de OUTUBRO de 1985
 
 Autoriza o funcionamento do curso de Relações Internacionais da Faculdade de Economia e Administração das Faculdades Integradas Estácio de Sá.

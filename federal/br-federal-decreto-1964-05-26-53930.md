@@ -1,5 +1,3 @@
-###DEC-053930-0-000-26-05-1964@@@
-
 DECRETO Nº 53.930, DE 26 DE MAIO DE 1964.
 
 Revoga o Decreto nº 52.759, de 24 de outubro de 1963.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4813dfe3-4222-46e0-b216-0cb3133ede29/texto#nowhere)
 
-###DEL-001811-0-000-27-10-1980@@@
-
 # DECRETO-LEI Nº 1.811, DE 27 DE OUTUBRO DE 1980
 
 Dispõe sobre o tratamento tributário das operações de arrendamento mercantil e dá outras providências.

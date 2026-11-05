@@ -1,5 +1,3 @@
-###DEC-093904-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.904, DE 09 DE JANEIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação do Centro de Operação de Sistema, da Companhia de Eletricidade do Estado da Bahia - COELBA, no Estado da Bahia.

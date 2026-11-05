@@ -1,5 +1,3 @@
-###DEL-005280-0-000-26-02-1943@@@
-
 DECRETO‑LEI N. 5.280 – DE 26 DE FEVEREIRO DE 1943
 
 Abre, ao Ministério da Guerra, o crédito especial de Cr$ 4.666,70, para pagamento da diferença de Vencimentos que compete a dois oficiais administrativos, classe 24, do Quadro Suplementar do Ministério da Guerra

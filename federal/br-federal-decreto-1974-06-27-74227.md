@@ -1,5 +1,3 @@
-###DEC-074227-0-000-27-06-1974@@@
-
 DECRETO N° 74.227, DE 27 DE JUNHO DE 1974.
 
 Concede reconhecimento aos cursos de Pedagogia, Letras, Matemática, Geografia, História e Psicologia, da Faculdade de Filosofia, Ciências e Letras do Distrito Federal, mantido pelo Centro de Ensino Unificado de Brasília (CEUB), com sede na Cidade de Brasília, Distrito Federal.

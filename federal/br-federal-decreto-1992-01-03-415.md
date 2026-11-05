@@ -1,7 +1,3 @@
-1
-
-###DEC-000415-0-000-03-01-1992@@@
-
 DECRETO Nº 415, DE 03 DE JANEIRO DE 1992
 
 Dispõe sobre a execução da Ata de Retificação do Quarto Protocolo Adicional ao Acordo de Complementação Econômica, entre o Brasil e a Argentina (ACE-14).

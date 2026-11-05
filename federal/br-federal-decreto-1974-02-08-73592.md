@@ -1,5 +1,3 @@
-###DEC-073592-0-000-08-02-1974@@@
-
 DECRETO nº 73.592, de 8 de Fevereiro de 1974.
 
 Autoriza o funcionamento dos cursos de Administração e Ciências Contábeis da Fundação Faculdade Estadual de Ciências Econômicas de Apucarana, com sede na cidade de Apucarana, Estado do Paraná.

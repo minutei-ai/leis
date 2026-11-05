@@ -1,5 +1,3 @@
-###DEL-003196-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.196 – DE 14 DE ABRIL DE 1941
 
 Dispõe sobre a transformação do 1º Batalhão Rodoviário em 5º Batalhão de Engenharia e sobre a criação da Comissão de Estradas de Rodagem para os Estados de Paraná e Santa Catarina.

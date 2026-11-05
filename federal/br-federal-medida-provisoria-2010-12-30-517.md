@@ -1,5 +1,3 @@
-###MPV-000517-0-000-30-12-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº  517, DE 30 DE DEZEMBRO DE 2010
 
 Dispõe sobre a incidência do imposto sobre a renda nas operações que especifica, altera as Leis nºs 6.404, de 15 de dezembro de 1976, 9.430, de 27 de dezembro de 1996, 11.478, de 29 de maio de 2007, e 12.350, de 20 de dezembro de 2010, institui o Regime Especial de Incentivos para o Desenvolvimento de Usinas Nucleares - RENUCLEAR, dispõe sobre medidas tributárias relacionadas ao Plano Nacional de Banda Larga, altera a legislação relativa à isenção do Adicional ao Frete para Renovação da Marinha Mercante - AFRMM, dispõe sobre a extinção do Fundo Nacional de Desenvolvimento, e dá outras providências.

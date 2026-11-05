@@ -1,5 +1,3 @@
-###DEL-004903-0-000-31-10-1942@@@
-
 DECRETO-LEI N. 4.903 – DE 31 DE OUTUBRO DE 1942
 
 Dá organização ao Quartel General da 10ª Região Militar, com sede em Fortaleza

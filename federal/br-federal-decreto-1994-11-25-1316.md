@@ -1,7 +1,3 @@
-1
-
-###DEC-001316-0-000-25-11-1994@@@
-
 DECRETO N° 1.316, DE 25 DE NOVEMBRO DE 1994
 
 Altera a redação dos arts. 2°, 6°, 7°, 13 e 14 do Regulamento do Serviço de Radioamador, aprovado pelo Decreto n° 91.836, de 24 de outubro de 1985.

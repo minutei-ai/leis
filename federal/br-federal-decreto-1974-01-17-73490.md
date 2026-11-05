@@ -1,5 +1,3 @@
-###DEC-073490-0-000-17-01-1974@@@
-
 Decreto Nº 73.490, DE 17 DE JANEIRO DE 1974.
 
 Muda a subordinação do 1º Batalhão de Engenharia de Construção, e dá outras providências.

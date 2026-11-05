@@ -1,5 +1,3 @@
-###DEC-075681-0-000-30-04-1975@@@
-
 DECRETO Nº 75.681, DE 30 DE ABRIL DE 1975.
 
 Outorga à Centrais Elétricas de Santa Catarina S. A. - CELESC concessão para transmitir e distribuir energia elétrica no Município de Orleans, no Estado de Santa Catarina.

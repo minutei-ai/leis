@@ -1,5 +1,3 @@
-###DEL-000203-0-000-27-02-1967@@@
-
 DECRETO-lei Nº 203, DE 27 De Fevereiro DE 1967
 
 Autoriza a Prefeitura do Distrito Federal a promover a desapropriação de terras situadas no perímetro do Distrito Federal.

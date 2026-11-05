@@ -1,5 +1,3 @@
-###DEC-085910-0-000-15-04-1981@@@
-
 DecreTo nº 85.910, de 15 de abril dE 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado de Sergipe.

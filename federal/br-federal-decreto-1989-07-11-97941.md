@@ -1,7 +1,3 @@
-1
-
-###DEC-097941-0-000-11-07-1989@@@
-
 DECRETO N° 97.941, DE 11 DE JULHO DE 1989
 
 Outorga concessão à ORGANIZAÇÃO KIMURA-NAKAYA DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Bastos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-046181-0-000-09-06-1959@@@
-
 DECRETO Nº 46.181, DE 9 DE JUNHO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Educação e Cultura.

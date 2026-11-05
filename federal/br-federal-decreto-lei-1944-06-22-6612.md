@@ -1,5 +1,3 @@
-###DEL-006612-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.612 – DE 22 DE JUNHO DE 1944
 
 Prorroga a vigência do Decreto-Lei nº 6.107, de 6 de dezembro de 1943 e dá outras providências

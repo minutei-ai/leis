@@ -1,5 +1,3 @@
-###DEC-007149-0-000-08-04-2010@@@
-
 DECRETO Nº 7.149, DE 8 DE ABRIL DE 2010.
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1896, de 30 de novembro de 2009, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.

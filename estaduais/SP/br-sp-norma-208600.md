@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208600)<br>
-
 # LEI N° 17.781, DE 02 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 15/2023, da Deputada Carla Morando - PSDB)

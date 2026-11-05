@@ -1,5 +1,3 @@
-###DEC-088939-0-000-07-11-1983@@@
-
 decreto nº 88.939, de 07 de novembro de 1983
 
 Concede à FEM-Fábrica de Estruturas Metálicas S.A. autorização para proceder a aumento do seu capital social.

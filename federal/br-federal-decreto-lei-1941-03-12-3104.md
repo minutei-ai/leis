@@ -1,5 +1,3 @@
-###DEL-003104-0-000-12-03-1941@@@
-
 DECRETO-LEI N. 3.104 – DE 12 DE MARÇO DE 1941
 
 Dispõe sobre a ampliação das instalações da The São Paulo Tramway, Light and Power Company, Limited, nos municípios de S. Sebastião e Caraguatatuba, Estado de S. Paulo.

@@ -1,5 +1,3 @@
-###DEC-054544-0-000-22-10-1964@@@
-
 DECRETO Nº 54.544, DE 22 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Julio de Oliveira a pesquisar mica, no município de Santa Maria do Suassui, Estado de Minas Gerais.

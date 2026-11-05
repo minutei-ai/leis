@@ -1,5 +1,3 @@
-###DEC-060352-0-000-10-03-1967@@@
-
 DECRETO Nº 60.352, DE 10 DE MARÇO DE 1967.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Araçatuba, Estado de São Paulo.

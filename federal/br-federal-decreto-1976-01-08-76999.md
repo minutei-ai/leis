@@ -1,5 +1,3 @@
-###DEC-076999-0-000-08-01-1976@@@
-
 DECRETO Nº 76.999, DE 8 DE JANEIRO DE 1976.
 
 Dispõe sobre o processo administrativo de demarcação das terras indígenas e dá outras providências.

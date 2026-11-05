@@ -1,5 +1,3 @@
-###DEC-046410-0-000-13-07-1959@@@
-
 DECRETO Nº 46.410, DE 13 DE JULHO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos da The Northern Assurance Company Limited.

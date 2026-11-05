@@ -1,5 +1,3 @@
-###DEC-059437-0-000-27-10-1966@@@
-
 DECRETO Nº 59.437, de 27 de outubro de 1966.
 
 Outorgada à Ágrico-Industrial Rondônia S.A. autorização para o estudo dos recursos hidráulicos de trecho da bacia do Alto Jauru, município de Cáceres, Estado do Mato Grosso.

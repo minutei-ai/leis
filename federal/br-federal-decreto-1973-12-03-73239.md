@@ -1,5 +1,3 @@
-###DEC-073239-0-000-03-12-1973@@@
-
 Decreto Nº 73.239 - de 3 de Dezembro de 1973
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, nos Estados de Santa Catarina e Paraná.

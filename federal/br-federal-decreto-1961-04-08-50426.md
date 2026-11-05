@@ -1,5 +1,3 @@
-###DEC-050426-0-000-08-04-1961@@@
-
 DECRETO Nº 50.426, DE 8 DE ABRIL DE 1961.
 
 Retifica a Tabela Numérica de Mensalistas da Comissão Federal de Abastecimento e Preços.

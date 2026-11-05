@@ -1,5 +1,3 @@
-###DEC-083731-0-000-18-07-1979@@@
-
 Decreto nº 83.731, de 18 de julho de 1979
 
  Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação do Canteiro de Obras da Usina da Taquaruçu, da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

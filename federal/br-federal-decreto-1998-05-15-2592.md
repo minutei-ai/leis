@@ -1,5 +1,3 @@
-###DEC-002592-0-000-15-05-1998@@@
-
 DECRETO Nº 2.592, DE 15 DE MAIO DE 1998
 
 Aprova o Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado Prestado no Regime Público.

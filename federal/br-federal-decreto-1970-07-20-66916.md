@@ -1,5 +1,3 @@
-###DEC-066916-0-000-20-07-1970@@@
-
 decreto nº 66.916, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 30.571, de 21 de fevereiro de 1952.

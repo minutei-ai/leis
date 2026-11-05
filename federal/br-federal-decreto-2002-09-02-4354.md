@@ -1,5 +1,3 @@
-###DEC-004354-0-000-02-09-2002@@@
-
 DECRETO Nº 4.354, DE 2 DE SETEMBRO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Hungria sobre Cooperação Técnica e Procedimentos Sanitários nas Áreas Veterinária e de Saúde Pública Animal, celebrado em Brasília, em 10 de novembro de 1999.

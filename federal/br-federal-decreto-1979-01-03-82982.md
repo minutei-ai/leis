@@ -1,5 +1,3 @@
-###DEC-082982-0-000-03-01-1979@@@
-
 Decreto nº 82.982, de 03 de janeiro de 1979
 
 Concede reconhecimento aos cursos de Tecnológico em Administração Rural e de Tecnológico em Cooperativismo, ministrados pela Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

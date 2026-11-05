@@ -224,8 +224,6 @@ Art. 22. Ficam revogados o § 3º do art. 91 e o parágrafo único do art. 94 da
 
 Goiânia, 21 de março de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-072557-0-000-31-07-1973@@@
-
 DECRETO Nº 72.557, DE 31 DE JULHO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Professora Nair Fortes Abu-Merhy", mantida pela Fundação Educacional de Além Paraíba, com sede na cidade de Além Paraíba, Estado de Minas Gerais.

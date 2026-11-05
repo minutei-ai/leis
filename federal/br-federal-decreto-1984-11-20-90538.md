@@ -1,5 +1,3 @@
-###DEC-090538-0-000-20-11-1984@@@
-
 Decreto nº 90.538, de 20 de novembro de 1984
 
 Autoriza o funcionamento do curso de Ciências Econômicas, a ser ministrado pela Faculdade de Ciências Contábeis e Administrativas de Santa Cruz do Sul.

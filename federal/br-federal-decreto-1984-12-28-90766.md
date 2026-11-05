@@ -1,5 +1,3 @@
-###DEC-090766-0-000-28-12-1984@@@
-
 Decreto nº 90.766, de 28 de dezembro de 1984
 
 Renova a concessão outorgada à RÁDIO CAPIXABA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Vitória, Estado do Espírito Santo.

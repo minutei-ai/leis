@@ -1,5 +1,3 @@
-###MPV-001661-0-007-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.661-7, De 24 DE SEtEMBRO De 1998
 
 Altera a redação dos arts. 26, 27, 31 e 44 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998.

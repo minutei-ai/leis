@@ -1,5 +1,3 @@
-###DEC-052776-0-000-29-10-1963@@@
-
 DECRETO Nº 52.776, DE 29 DE OUTUBRO DE 1963.
 
 Aprova alterações introduzidas nos estatutos da Companhia de Seguros de Vida Previdência do Sul, inclusive aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 29 de outubro de 1963; 142° da Independência e 75° da República.
 JOÃO GOULART
 
 Egydio Michaelsen
-
-###DEC-052776-0-000-29-10-1963@@@RET01+++
 
 DECRETO Nº 52.776, DE 29 DE OUTUBRO DE 1963.
 

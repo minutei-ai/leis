@@ -1,5 +1,3 @@
-###DEC-080970-0-000-09-12-1977@@@
-
 Decreto nº 80.970, de 09 de dezembro de 1977.
 
 Altera o artigo 18 do Decreto número 71.323, de 7 de novembro de 1972, que dispõe sobre o Grupo Diplomacia, e o artigo 9º do Decreto número 71.535, de 13 de dezembro de 1972, que dispõe sobre a progressão funcional na Carreira de Diplomata.

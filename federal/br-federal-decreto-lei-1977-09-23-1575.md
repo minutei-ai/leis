@@ -1,5 +1,3 @@
-###DEL-001575-0-000-23-09-1977@@@
-
 # DECRETO-LEI Nº 1.575, DE 23 DE SETEMBRO DE 1977
 
 Autoriza o Ministro da Fazenda a conceder redução de alíquotas do Imposto sobre Produtos Industrializados para os produtos que menciona, e dá outras providências.

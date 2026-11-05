@@ -1,5 +1,3 @@
-###DEC-052619-0-000-07-10-1963@@@
-
 DECRETO Nº 52.619, DE 7 DE OUTUBRO DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a ampliar suas instalações.
@@ -27,8 +25,6 @@ Brasília, 7 de outubro de 1963; 142º a Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052619-0-000-07-10-1963@@@RET01+++
 
 DECRETO Nº 52.619, DE 7 DE OUTUBRO DE 1963.
 

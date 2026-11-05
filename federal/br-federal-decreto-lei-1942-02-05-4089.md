@@ -1,5 +1,3 @@
-###DEL-004089-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.089 – DE 5 DE FEVEREIRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito especial de 1:500$0 para pagamento de pessoal

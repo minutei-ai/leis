@@ -1,5 +1,3 @@
-###DEC-082927-0-000-21-12-1978@@@
-
 decreto nº 82.927, de 21 de dezembro de 1978.
 
 Retifica a concessão de lavra outorgada à Sociedade de Mineração Ceramite Ltda. pelo Decreto nº 81.157, de 02 de janeiro de 1978.

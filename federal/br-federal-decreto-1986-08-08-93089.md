@@ -1,5 +1,3 @@
-###DEC-093089-0-000-08-08-1986@@@
-
 DECRETO Nº 93.089, DE 08 DE AGOSTO DE 1986
 
 Extingue, no Ministério da Aeronáutica, A Comissão de Estudos e Construção da Academia da Força Aérea.

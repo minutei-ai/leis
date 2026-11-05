@@ -1,5 +1,3 @@
-###DEC-066691-0-000-11-06-1970@@@
-
 DECRETO Nº 66.691, DE 11 DE JUNHO DE 1970.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do próprio nacional que menciona, situado no Município de Ponta Grossa, Estado do Paraná.
@@ -23,8 +21,6 @@ Emílio G. Médici
 Orlando Geisel
 
 Antônio Delfim Netto
-
-###DEC-066691-0-000-11-06-1970@@@RET01+++
 
 decreto nº 66.691, de 11 de junho de 1970.
 

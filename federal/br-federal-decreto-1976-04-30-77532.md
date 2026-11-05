@@ -1,5 +1,3 @@
-###DEC-077532-0-000-30-04-1976@@@
-
 DECRETO Nº 77.532 - DE 30 DE ABRIL DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno situada no Município de Campina Grande - Paraíba, necessária à expansão do "Campus" da Universidade Federal da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-046893-0-000-24-09-1959@@@
-
 DECRETO Nº 46.893, DE 24 DE SETEMBRO DE 1959.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha que menciona, no Distrito Federal.

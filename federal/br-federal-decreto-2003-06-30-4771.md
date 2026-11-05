@@ -1,5 +1,3 @@
-###DEC-004771-0-000-30-06-2003@@@
-
 DECRETO Nº 4.771, DE 30 DE JUNHO DE 2003.
 
        Dispõe sobre o remanejamento de Funções Comissionadas Técnicas.
@@ -22,10 +20,12 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 30 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
  
 
-Humberto Sérgio Costa Lima<br>
+Humberto Sérgio Costa Lima
+
 Guido Mantega
 
 ANEXO

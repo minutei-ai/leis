@@ -1,5 +1,3 @@
-###DEC-057730-0-000-03-02-1966@@@
-
 DECRETO Nº 57.730, DE 3 DE FEVEREIRO DE 1966.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$500.000.000, autorizado pela Lei n.º 4.788, de 13-10-1965.

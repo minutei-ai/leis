@@ -678,40 +678,138 @@ ITURBSON AGOSTINHO DOS SANTOS
 
 **QUADRO DE CARGOS EM COMISSÃO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="403" valign="top" style="width:302.4pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="84" valign="top" style="width:63.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLO</span></p></td><td width="89" valign="top" style="width:66.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANT.</span></p></td></tr><tr><td width="403" valign="top" style="width:302.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Presidente</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Diretor da Previdência Social</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Diretor de Investimentos</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Diretor de Administração Geral</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenador Jurídico-Previdenciário *1</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenador Executivo de Controle da Arrecadação *2</span></p><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Coordenador Executivo de Tecnologia da Informação *3</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assessor Chefe da Previdência</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Assessor de Comunicação</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Ouvidor</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista de Planejamento</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista Previdenciário</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista de Administração Geral</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista Jurídico-Previdenciário</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Analista de Investimentos</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Secretária Executiva</span></p><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Secretária de Diretoria</span></p></td><td width="84" valign="top" style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-2</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-2</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-2</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-2</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-3</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-3</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-3</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US" style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCS-4</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCI-2</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CCI-3</span></p></td><td width="89" valign="top" style="width:66.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1</span></p><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">6</span></p></td></tr><tr><td width="403" valign="top" style="width:302.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Total</span></p></td><td width="84" valign="top" style="width:63.0pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="89" valign="top" style="width:66.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">22</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANT.
+
+Presidente
+
+Diretor da Previdência Social
+
+Diretor de Investimentos
+
+Diretor de Administração Geral
+
+Coordenador Jurídico-Previdenciário *1
+
+Coordenador Executivo de Controle da Arrecadação *2
+
+Coordenador Executivo de Tecnologia da Informação *3
+
+Assessor Chefe da Previdência
+
+Assessor de Comunicação
+
+Ouvidor
+
+Analista de Planejamento
+
+Analista Previdenciário
+
+Analista de Administração Geral
+
+Analista Jurídico-Previdenciário
+
+Analista de Investimentos
+
+Secretária Executiva
+
+Secretária de Diretoria
+
+CCS-1
+
+CCS-2
+
+CCS-2
+
+CCS-2
+
+CCS-2
+
+CCS-3
+
+CCS-3
+
+CCS-3
+
+CCS-4
+
+CCS-4
+
+CCS-4
+
+CCS-4
+
+CCS-4
+
+CCS-4
+
+CCS-4
+
+CCI-2
+
+CCI-3
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+1
+
+6
+
+Total
+
+22
 
 **QUADRO DE FUNÇÕES GRATIFICADAS**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="379" valign="top" style="width:284.4pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">DENOMINAÇÃO</span></p></td><td width="108" valign="top" style="width:81.0pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">SÍMBOLO</span></p></td><td width="89" valign="top" style="width:66.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">QUANT.</span></p></td></tr><tr><td width="379" valign="top" style="width:284.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Gerente de Departamento</span></p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FGG-1</span></p></td><td width="89" valign="top" style="width:66.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">14</span></p></td></tr><tr><td width="379" valign="top" style="width:284.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Função de Apoio Gratificada – 1</span></p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAG-1</span></p></td><td width="89" valign="top" style="width:66.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">20</span></p></td></tr><tr><td width="379" valign="top" style="width:284.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">total</span></p></td><td width="108" valign="top" style="width:81.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="89" valign="top" style="width:66.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">34</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANT.
+
+Gerente de Departamento
+
+FGG-1
+
+14
+
+Função de Apoio Gratificada – 1
+
+FAG-1
+
+20
+
+total
+
+34

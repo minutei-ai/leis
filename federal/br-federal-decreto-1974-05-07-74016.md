@@ -1,5 +1,3 @@
-###DEC-074016-0-000-07-05-1974@@@
-
 DECRETO Nº 74.016, DE 7 DE MAIO DE 1974
 
 Autoriza o funcionamento dos cursos de Pedagogia e Ciências Biológicas da Faculdade Bandeirante de Filosofia, Ciências e Letras, mantida pelo Instituto de Ensino Superior da Região Bragantina, com sede na cidade de Bragança Paulista, Estado de São Paulo.

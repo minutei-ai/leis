@@ -1,5 +1,3 @@
-###DEC-069970-0-000-19-01-1972@@@
-
 DECRETO Nº 69.970, DE 19 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências da Educação, em Chapecó, Estado de Santa Catarina.

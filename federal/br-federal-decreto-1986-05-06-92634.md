@@ -1,5 +1,3 @@
-###DEC-092634-0-000-06-05-1986@@@
-
 DECRETO Nº 92.634, DE 6 DE MAIO DE 1986
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras, em Alfenas, Minas Gerais.

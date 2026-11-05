@@ -1,5 +1,3 @@
-###DEC-062523-0-000-16-04-1968@@@
-
 decreto nº 62.523, de 16 de abril de 1968.
 
 Declara de utilidade pública a “Associação Santa Isabel das Senhoras de Caridade de Ilhéus”, com sede em Ilhéus, Estado da Bahia.

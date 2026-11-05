@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185449)
-
 # DECRETO Nº 63.262, DE 09 DE MARÇO DE 2018
 
 ### _Aprova o novo Regulamento dos artigos 9º a 13 da Lei nº 7.663, de 30 de dezembro de 1991, que estabelece normas de orientação à Política Estadual de Recursos Hídricos bem como ao Sistema Integrado de Gerenciamento de Recursos Hídricos_
@@ -20,12 +18,14 @@ Palácio dos Bandeirantes, 9 de março de 2018
 
 GERALDO ALCKMIN
 
-#### ANEXO<br>
+#### ANEXO
+
 a que se refere o artigo 1º do [Decreto nº 63.262, de 9 de março de 2018](https://www.al.sp.gov.br/norma/185449)
 
 #### REGULAMENTO DA OUTORGA DE DIREITOS DE USO DOS RECURSOS HÍDRICOS
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Outorga e suas Modalidades
 
 **Artigo 1º -** Outorga é o ato pelo qual o Departamento de Águas e Energia Elétrica - DAEE defere:

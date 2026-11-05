@@ -1,5 +1,3 @@
-###MPV-002034-0-045-24-10-2000@@@
-
 medida provisória Nº 2.034-45, de 24 de outubro de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providencias.

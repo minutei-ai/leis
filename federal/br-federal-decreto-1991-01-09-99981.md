@@ -1,7 +1,3 @@
-1
-
-###DEC-099981-0-000-09-01-1991@@@
-
 DECRETO Nº 99.981, DE 9 DE JANEIRO DE 1991.
 
 Autoriza a Secretaria da Ciência e Tecnologia a manter programa de cooperação com instituições públicas ou privadas.

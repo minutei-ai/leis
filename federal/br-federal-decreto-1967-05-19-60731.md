@@ -1,5 +1,3 @@
-###DEC-060731-0-000-19-05-1967@@@
-
 decreto nº 60.731, de 19 de maio de 1967.
 
 Transfere para o Ministério da Educação e Cultura os órgãos de ensino do Ministério da Agricultura e dá outras providências.

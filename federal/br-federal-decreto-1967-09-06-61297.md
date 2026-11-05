@@ -1,5 +1,3 @@
-###DEC-061297-0-000-06-09-1967@@@
-
 DECRETO Nº 61.297, DE 6 DE SETEMBRO DE 1967.
 
 Retifica o Quadro de Pessoal da Superintendência do Desenvolvimento do Nordeste (SUDENE).

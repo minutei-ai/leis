@@ -1,5 +1,3 @@
-###DEC-091662-0-000-19-09-1985@@@
-
 DECRETO Nº 91.662, DE 19 DE SETEMBRO DE 1985
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Ituiutaba, Minas Gerais.

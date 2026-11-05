@@ -1,5 +1,3 @@
-###DEC-006157-0-000-16-07-2007@@@
-
 DECRETO Nº 6.157, DE 16 DE JULHO DE 2007.
 
 Dá nova redação ao art. 19 do Decreto no 5.209, de 17 de setembro de 2004, que regulamenta a Lei no 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.
@@ -29,5 +27,3 @@ Guido Mantega
 Paulo Bernardo Silva
 
 Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 17.7.2007

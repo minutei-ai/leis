@@ -1,5 +1,3 @@
-###DEC-052549-0-000-30-09-1963@@@
-
 DECRETO Nº 52.549, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Centrais Elétricas de Goiás S.A. concessão para distribuir energia elétrica no Município de Aurilândia, Estado de Goiás.

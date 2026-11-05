@@ -1,5 +1,3 @@
-###DEC-048233-0-000-17-05-1960@@@
-
 decreto nº 48.233, de 17 de maio de 1960.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$50.000.000,00, destinado à construção do Hospital Getúlio Vargas, em Manaus - Estado do Amazonas.

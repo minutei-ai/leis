@@ -1,5 +1,3 @@
-###DEC-098502-0-000-12-12-1989@@@
-
 DECRETO N° 98.502, DE 12 DE DEZEMBRO DE 1989
 
 Aprova o Plano de Defesa das Áreas Indígenas Yanomami e dá outras providências.

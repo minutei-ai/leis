@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210241)<br>
-
 # DECRETO N° 69.047, DE 14 DE NOVEMBRO DE 2024
 
 ### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de São Paulo, e dá providências correlatas._

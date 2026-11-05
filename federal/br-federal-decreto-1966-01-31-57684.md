@@ -1,5 +1,3 @@
-###DEC-057684-0-000-31-01-1966@@@
-
 decreto nº 57.684, de 31 de janeiro de 1966.
 
 Concede reconhecimento a Faculdade de Odontologia de Passo Fundo, Estado do Rio Grande do Sul.

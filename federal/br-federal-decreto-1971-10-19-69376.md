@@ -1,5 +1,3 @@
-###DEC-069376-0-000-19-10-1971@@@
-
 DECRETO Nº 69.376, DE 19 DE OUTUBRO DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Agricultura para o Instituto Nacional de Pesquisas da Amazônia, e dá outras providências.

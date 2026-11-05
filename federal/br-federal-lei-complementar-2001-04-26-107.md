@@ -1,5 +1,3 @@
-###LCP-000107-0-000-26-04-2001@@@
-
 LEI COMPLEMENTAR Nº 107, DE 26 DE ABRIL DE 2001
 
 Altera a Lei Complementar nº 95, de 26 de fevereiro de 1998.

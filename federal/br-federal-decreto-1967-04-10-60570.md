@@ -1,5 +1,3 @@
-###DEC-060570-0-000-10-04-1967@@@
-
 DECRETO Nº 60.570, DE 10 DE ABRIL DE 1967.
 
 Retifica o art. 1º do Decreto número 53.830, de 24 de março de 1964.

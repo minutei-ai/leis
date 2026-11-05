@@ -1,7 +1,3 @@
-1
-
-###DEC-001155-0-000-14-06-1994@@@
-
 DECRETO N° 1.155, DE 14 DE JUNHO DE 1994
 
 Dá nova redação aos arts. 2° e 3° do Decreto n° 772, de 16 de março de 1993, e aprova o Regulamento da Ordem Nacional do Mérito Científico.

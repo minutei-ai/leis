@@ -1,7 +1,3 @@
-1
-
-###DEC-095725-0-000-11-02-1988@@@
-
 DECRETO N° 95.725, DE 11 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo Comercial n° 12, do Setor da Indústria Eletrônica e de Comunicações Elétricas, entre o Brasil e o México.

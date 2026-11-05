@@ -1,5 +1,3 @@
-###DEC-093066-0-000-06-08-1986@@@
-
 DECRETO Nº 93.066, DE 06 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas APURINÃ, área de terras que menciona no Estado do Amazonas, e dá outras providências.

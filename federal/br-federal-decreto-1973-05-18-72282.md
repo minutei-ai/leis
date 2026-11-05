@@ -1,5 +1,3 @@
-###DEC-072282-0-000-18-05-1973@@@
-
 DECRETO Nº 72.282, DE 18 DE MAIO DE 1973.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Dracena, mantida pela Fundação Dracenense de Educação e Cultura, com sede na cidade de Dracena, Estado de São Paulo.

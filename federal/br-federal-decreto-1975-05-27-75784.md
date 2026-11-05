@@ -1,5 +1,3 @@
-###DEC-075784-0-000-27-05-1975@@@
-
 Decreto nº 75.784, de 27 de maio de 1975
 
 Altera a redação do § 1º do artigo 18 do Decreto nº 62.724, de 17 de maio de 1968, que estabelece normas gerais de tarifação para as empresas concessionárias de serviços públicos de energia elétrica.

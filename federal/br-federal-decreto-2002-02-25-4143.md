@@ -1,5 +1,3 @@
-###DEC-004143-0-000-25-02-2002@@@
-
 DECRETO Nº 4.143, DE 25 DE FEVEREIRO DE 2002
 
 Regulamenta a Lei nº 10.332, de 19 de dezembro de 2001, na parte que institui mecanismo de financiamento para o Programa de Fomento à Pesquisa em Saúde, e dá outras providências.

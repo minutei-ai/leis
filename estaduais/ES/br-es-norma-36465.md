@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.I. O de 01/03/2018.
+
+<!-- nota-edicao:fim -->
+
 **![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)**
 
 EMENDA CONSTITUCIONAL Nº 110, DE 27 DE FEVEREIRO DE 2018
@@ -33,5 +39,3 @@ RAQUEL LESSA
 ENIVALDO DOS ANJOS
 
 2º Secretário
-
-Este texto não substitui o publicado no D.I. O de 01/03/2018.

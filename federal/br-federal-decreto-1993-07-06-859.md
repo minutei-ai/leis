@@ -1,7 +1,3 @@
-1
-
-###DEC-000859-0-000-06-07-1993@@@
-
 # DECRETO N° 859, DE 6 DE JULHO DE 1993
 
 Altera o art. 4° do Decreto n° 807, de 24 de abril de 1993, que institui o Conselho Nacional de Segurança Alimentar (Consea).

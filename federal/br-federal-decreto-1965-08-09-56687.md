@@ -1,5 +1,3 @@
-###DEC-056687-0-000-09-08-1965@@@
-
 Decreto nº 56.687, de 9 de agôsto de 1965.
 
 Autoriza a Dragagem de Ouro Ltda. a pesquisar ouro e diamantes, nos municípios de Diamantina e Corinto, Estado de Minas Gerais.

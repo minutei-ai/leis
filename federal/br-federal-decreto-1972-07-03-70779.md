@@ -1,5 +1,3 @@
-###DEC-070779-0-000-03-07-1972@@@
-
 Decreto nº 70.779, de 3 de julho de 1972.
 
 Concede honras de Chefe de Estado ao Marechal Humberto de Alencar Castello  Branco, por ocasião da transladação de seus restos mortais.

@@ -1,5 +1,3 @@
-###DEC-067045-0-000-13-08-1970@@@
-
 DECRETO Nº 67.045, DE 13 DE AGÔSTO DE 1970.
 
 Declara de utilidade pública o Movimento Social Palotino, com sede em Fátima do Sul, Estado de Mato Grosso.

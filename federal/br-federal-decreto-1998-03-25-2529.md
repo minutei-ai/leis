@@ -1,5 +1,3 @@
-###DEC-002529-0-000-25-03-1998@@@
-
 DECRETO Nº 2.529, DE 25 DE MARÇO DE 1998
 
 Dispõe sobre a transferência de recursos do Fundo Nacional de Assistência Social - FNAS, para os fundos estaduais, do Distrito Federal e municipais, e sua respectiva prestação de contas, na forma estabelecida na Lei nº 9.604, de 5 de fevereiro de 1998.

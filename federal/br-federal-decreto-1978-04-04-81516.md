@@ -1,5 +1,3 @@
-###DEC-081516-0-000-04-04-1978@@@
-
 Decreto nº 81.516, de 04 de abril de 1978.
 
 Concede à Companhia de Mineração Serra da Jacobina - SERJANA o direito de lavrar cromita no Município de Campo Formoso, Estado da Bahia.

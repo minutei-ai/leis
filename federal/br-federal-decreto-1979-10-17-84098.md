@@ -1,5 +1,3 @@
-###DEC-084098-0-000-17-10-1979@@@
-
 decreto nº 84.098, de 17 de outubro de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, nos Estados de São Paulo e Minas Gerais.

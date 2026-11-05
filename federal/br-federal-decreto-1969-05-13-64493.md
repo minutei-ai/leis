@@ -1,5 +1,3 @@
-###DEC-064493-0-000-13-05-1969@@@
-
 DECRETO Nº 64.493, DE 13 DE MAIO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Administração de Santo Ângelo - RS.

@@ -1,5 +1,3 @@
-###DEC-079258-0-000-14-02-1977@@@
-
 DECRETO Nº 79.258, DE 14 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Formação de Professores, com sede na cidade de Vitória da Conquista, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-062213-0-000-01-02-1968@@@
-
 DECRETO Nº 62.213, DE 1 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública a “Associação os Advogados de São Paulo”, com sede em São Paulo, Estado de São Paulo.

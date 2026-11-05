@@ -1,5 +1,3 @@
-###DEC-053358-0-000-27-12-1963@@@
-
 DECRETO Nº 53.358, DE 27 DE DEZEMBRO DE 1963.
 
 Autoriza pessoa jurídica estrangeira a adquirir em transferência de aforamento, o domínio útil do terreno de Marinha que menciona, no Estado da Bahia.

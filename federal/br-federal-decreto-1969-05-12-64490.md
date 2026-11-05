@@ -1,5 +1,3 @@
-###DEC-064490-0-000-12-05-1969@@@
-
 DECRETO Nº 64.490, DE 12 DE MAIO DE 1969.
 
 Dá nova redação a letra "h" do artigo 1º do Decreto número 53.937, de 29 de maio de 1964 alterado pelo Decreto número 54.383, de 6 de outubro de 1964, que fixa a lotação de Adidos e Adjuntos de Adidos Militares, Navais e Aeronáuticos junto às representações diplomáticas brasileiras no exterior e dá outras providências.

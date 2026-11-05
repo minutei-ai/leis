@@ -1,5 +1,3 @@
-###DEC-051725-0-000-19-02-1963@@@
-
 DECRETO N.º 51.725, DE 19 DE FEVEREIRO DE 1963.
 
 Retifica relação que acompanhou o Decreto n.º 51.523, de 25 de junho de 1962, que aprovou o enquadramento dos cargos e funções da Rede Mineira de Viação e deu outras providências.

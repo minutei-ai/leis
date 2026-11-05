@@ -1,5 +1,3 @@
-###DEC-050437-0-000-11-04-1961@@@
-
 DECRETO Nº 50.437, DE 11 DE ABRIL DE 1961.
 
 Declara de utilidade pública, para fins de desapropriação, pelo 2º Batalhão Ferroviário, faixa de terreno necessária à construção de trecho ferroviário localizado em Mafra, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-055303-0-000-30-12-1964@@@
-
 Decreto nº 55.303, de 30 de dezembro de 1964.
 
 Prorroga por mais 120 (cento e vinte) dias o prazo de que trata o parágrafo único do art. 1º do Decreto nº 54.104, de 6 de agôsto de 1964.

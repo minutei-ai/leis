@@ -1,5 +1,3 @@
-###DEC-093250-0-000-12-09-1986@@@
-
 DECRETO Nº 93.250, DE 12 DE SETEMBRO DE 1986
 
 Altera o Decreto nº 89.620, de 7 de maio de 1984, que dispõe sobre o Grupo Atividades de Fiscalização de Combustíveis, e dá outras providências.

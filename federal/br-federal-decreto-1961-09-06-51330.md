@@ -1,5 +1,3 @@
-###DEC-051330-0-000-06-09-1961@@@
-
 DECRETO Nº 51.330, DE 6 DE SETEMBRO DE 1961.
 
 Altera o Regulamento do Departamento de Produção e Obras (DPO)

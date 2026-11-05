@@ -1,5 +1,3 @@
-###DEC-056250-0-000-05-05-1965@@@
-
 DECRETO Nº 56.250, DE 5 DE MAIO DE 1965.
 
 Retifica símbolo de função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura.

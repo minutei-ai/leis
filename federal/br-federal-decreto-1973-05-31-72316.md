@@ -1,5 +1,3 @@
-###DEC-072316-0-000-31-05-1973@@@
-
 DECRETO Nº 72.316, DE 31 DE MAIO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no Estado do Espírito Santo.

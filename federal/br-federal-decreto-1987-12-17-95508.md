@@ -1,5 +1,3 @@
-###DEC-095508-0-000-17-12-1987@@@
-
 DECRETO Nº 95.508, DE 17 DE DEZEMBRO DE 1987
 
 Dispõe sobre a readaptação de servidor do Quadro Permanente do Ministério da Fazenda, e dá outras providências.

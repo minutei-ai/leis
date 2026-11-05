@@ -1,7 +1,3 @@
-1
-
-###DEC-095706-0-000-09-02-1988@@@
-
 DECRETO Nº 95.706, DE 9 DE FEVEREIRO DE 1988
 
 Autoriza o funcionamento do curso de Educação Artística do Centro de Ensino Técnico do Estado do Pará.

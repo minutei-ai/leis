@@ -1,5 +1,3 @@
-###DEC-006660-0-000-21-11-2008@@@
-
 DECRETO Nº 6.660, DE 21 DE NOVEMBRO DE 2008.
 
 Regulamenta dispositivos da Lei no 11.428, de 22 de dezembro de 2006, que dispõe sobre a utilização e proteção da vegetação nativa do Bioma Mata Atlântica.

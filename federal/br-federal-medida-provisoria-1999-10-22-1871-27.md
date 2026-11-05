@@ -1,5 +1,3 @@
-###MPV-001871-0-027-22-10-1999@@@
-
 medida provisória nº 1.871-27, de 22 de outubro de 1999.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

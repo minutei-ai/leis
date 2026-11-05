@@ -1,7 +1,3 @@
-1
-
-###DEC-098902-0-000-31-01-1990@@@
-
 DECRETO Nº 98.902, DE 31 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Educação Física do Instituto Gammon, em Lavras, Estado de Minas Gerais.

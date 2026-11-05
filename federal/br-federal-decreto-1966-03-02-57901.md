@@ -1,5 +1,3 @@
-###DEC-057901-0-000-02-03-1966@@@
-
 DECRETO Nº 57.901, DE 2 DE MARÇO DE 1966.
 
 Aprova Normas para a administração e utilização industrial do acervo de bens da ORQUIMA - Indústrias Químicas Reunidas S. A. e dá outras providências.

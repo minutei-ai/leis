@@ -1,5 +1,3 @@
-###DEC-048619-0-000-25-07-1960@@@
-
 DECRETO Nº 48.619, DE 25 DE JULHO DE 1960.
 
 Concede à Mineração Bandeirantes, Limitada autorização para funcionar como emprêsa de mineração.

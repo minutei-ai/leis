@@ -1,5 +1,3 @@
-###DEL-009112-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.112 – DE 1 ABRIL DE 1946
 
 Extingue a Secretaria Geral de Administração da Prefeitura do Distrito Federal e dá outras providências.

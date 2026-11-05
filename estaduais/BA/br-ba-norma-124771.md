@@ -18,7 +18,8 @@ Parágrafo único - É de um ano na classe o interstício para as promoções, q
 
 Art. 3º - A classe de Sub-Procurador Geral do Estado será provida mediante acesso alternado de hum (1) por antiguidade e dois (2) por merecimento, dos integrantes da 1ª classe da carreira de Procurador Geral do Estado, em lista tríplice organizada pelo Conselho de Procuradores.
 
-Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.<br>
+Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.
+
 Redação original: "Art. 3º - A classe de Subprocurador Geral do Estado será provida mediante acesso, pelo critério exclusivo do merecimento, por ocupante de qualquer das classes da carreira de Procurador do Estado."
 
 Art. 4º - O interstício para a elevação por acesso ao cargo de Subprocurador Geral do Estado é o mesmo previsto para a promoção na carreira de Procurador do Estado.
@@ -41,15 +42,24 @@ V-trabalhos jurídicos publicados.
 
 § 3º - Para a fiel observância do disposto no parágrafo anterior, a Seção de Pessoal da Procuradoria Geral do Estado fará os registros necessários no prontuário do Procurador promovido.
 
-Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.<br>
-Redação original: "Art. 5º - O merecimento, para efeito de acesso à classe de Subprocurador Geral do Estado ou para promoção na carreira de Procurador do Estado, será apurado pelo Conselho de Procuradores, com a verificação dos elementos seguintes, em ordem de preferência:<br>
-I - competência profissional, demonstrada através de trabalhos realizados no desempenho do cargo;<br>
-II - dedicação ao exercício da função pública e espírito de colaboração;<br>
-III - assiduidade;<br>
-IV - títulos ou diplomas de conclusão de cursos relacionados com as atribuições do cargo;<br>
-V - trabalhos jurídicos publicados.<br>
-§ 1º - A cada item deste artigo corresponderão pontos, cujos limites máximos são, respectivamente, 50 (cinquenta), 40 (quarenta), 30 (trinta), 20 (vinte) e 10 (dez).<br>
-§ 2º - Os elementos computados para uma promoção não poderão ser considerados para as subsequentes.<br>
+Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.
+
+Redação original: "Art. 5º - O merecimento, para efeito de acesso à classe de Subprocurador Geral do Estado ou para promoção na carreira de Procurador do Estado, será apurado pelo Conselho de Procuradores, com a verificação dos elementos seguintes, em ordem de preferência:
+
+I - competência profissional, demonstrada através de trabalhos realizados no desempenho do cargo;
+
+II - dedicação ao exercício da função pública e espírito de colaboração;
+
+III - assiduidade;
+
+IV - títulos ou diplomas de conclusão de cursos relacionados com as atribuições do cargo;
+
+V - trabalhos jurídicos publicados.
+
+§ 1º - A cada item deste artigo corresponderão pontos, cujos limites máximos são, respectivamente, 50 (cinquenta), 40 (quarenta), 30 (trinta), 20 (vinte) e 10 (dez).
+
+§ 2º - Os elementos computados para uma promoção não poderão ser considerados para as subsequentes.
+
 § 3º - Para a fiel observância do disposto no parágrafo anterior, a Seção de Pessoal da Procuradoria Geral do Estado fará os registros necessários no prontuário do Procurador promovido."
 
 Art. 6º - As listas de classificação por merecimento ou antiguidade, para efeito de acesso ou promoção, organizadas pelo Conselho de Procuradores, serão publicadas no órgão oficial para conhecimento dos interessados, que poderão reclamar contra erro na atribuição de pontos ou na classificação, bem como contra preterição ou exclusão, no prazo de 08 (oito) dias, contados da publicação.
@@ -60,12 +70,14 @@ Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.R
 
 § 1º - As Chefias das Procuradorias Especializadas serão exercidas por Sub-Procuradores Gerais do Estado.
 
-Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.<br>
+Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.
+
 Redação original: "§ 1º - Os Subprocuradores Gerais do Estado exercerão os cargos de direção e as funções de chefia, coordenação e supervisão, cabendo-lhes, em especial as chefias das Procuradorias Especializadas e as das Representações da Procuradoria nas Secretarias de Estado."
 
 § 2º - As Chefias das Representações junto às Secretarias de Estado e órgãos autônomos da Administração direta serão exercidas por Sub-Procuradores ou Procuradores do Estado.
 
-Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.<br>
+Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.
+
 Redação original: "§ 2º - As chefias das Representações da Procuradoria Geral do Estado nos demais órgãos serão exercidas pelos integrantes da carreira de Procurador do Estado."
 
 Art. 8º - O Conselho de Procuradores passa a ter a seguinte constituição:
@@ -98,7 +110,8 @@ Art. 17 - Os cargos que compõem os Quadros Suplementares instituídos pela Lei 
 
 § 1º - Os integrantes do Quadro Suplementar criado pelo Decreto nº 20.130 de 13/01/1967, considerados excedentes nos termos deste artigo, concorrem ao acesso para preenchimento de claros no Quadro Permanente, nas mesmas condições dos integrantes deste.
 
-Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.<br>
+Redação de acordo com o art. 2º da Lei nº 2.999, de 13 de dezembro de 1971.
+
 Redação original: "§ 1º - Os integrantes do Quadro Suplementar criado pelo Decreto n. 20.130, de 13 de janeiro de 1967, considerados excedentes, nos termos deste artigo, concorrem ao acesso para preenchimento de futuros claros no Quadro Permanente, nas mesmas condições dos integrantes deste."
 
 § 2º - Os Procuradores da Fazenda, integrantes do Quadro Suplementar da Procuradoria Geral do Estado criado pela Lei 2.422/66, continuarão com os seus direitos e vantagens regulados em lei especial.
@@ -115,6 +128,6 @@ Governador
 
 Heitor Dias Pereira
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 389.85pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="3" valign="top" width="520"><p class="Tabela-Texto">ANEXO I</p><p class="Tabela-Texto">(À LEI DELEGADA Nº 02)</p></td></tr><tr><td style="width: 389.85pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="3" valign="top" width="520"><p class="Tabela-Texto">Quadro Permanente dos Cargos Técnico - Jurídicos da Procuradoria Geral do Estado</p></td></tr><tr><td style="width: 87.5pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="117"><p class="Tabela-Texto">Quantidade</p></td><td style="width: 222.95pt; border-top: solid windowtext 1.0pt; border-left: none; border-bottom: none; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="297"><p class="Tabela-Texto">DENOMINAÇÃO DO CARGO</p></td><td style="width: 79.4pt; border-top: solid windowtext 1.0pt; border-left: none; border-bottom: none; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="106"><p class="Tabela-Texto">CLASSE</p></td></tr><tr><td style="width: 87.5pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="117"><p class="Tabela-Texto">19</p></td><td style="width: 222.95pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="297"><p class="Tabela-Texto">Subprocurador Geral do Estado</p></td><td style="width: 79.4pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="106"><p class="Tabela-Texto">Singular</p></td></tr><tr><td style="width: 87.5pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="117"><p class="Tabela-Texto">22</p></td><td style="width: 222.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="297"><p class="Tabela-Texto">Procurador do Estado</p></td><td style="width: 79.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="106"><p class="Tabela-Texto">1ª</p></td></tr><tr><td style="width: 87.5pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="117"><p class="Tabela-Texto">22</p></td><td style="width: 222.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="297"><p class="Tabela-Texto">Procurador do Estado</p></td><td style="width: 79.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="106"><p class="Tabela-Texto">2ª</p></td></tr><tr><td style="width: 87.5pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="117"><p class="Tabela-Texto">27</p></td><td style="width: 222.95pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="297"><p class="Tabela-Texto">Procurador do Estado</p></td><td style="width: 79.4pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="106"><p class="Tabela-Texto">3ª</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="3" valign="top"> ANEXO I (À LEI DELEGADA Nº 02) </td></tr><tr><td colspan="3" valign="top"> Quadro Permanente dos Cargos Técnico - Jurídicos da Procuradoria Geral do Estado </td></tr><tr><td valign="top"> Quantidade </td><td valign="top"> DENOMINAÇÃO DO CARGO </td><td valign="top"> CLASSE </td></tr><tr><td valign="top"> 19 </td><td valign="top"> Subprocurador Geral do Estado </td><td valign="top"> Singular </td></tr><tr><td valign="top"> 22 </td><td valign="top"> Procurador do Estado </td><td valign="top"> 1ª </td></tr><tr><td valign="top"> 22 </td><td valign="top"> Procurador do Estado </td><td valign="top"> 2ª </td></tr><tr><td valign="top"> 27 </td><td valign="top"> Procurador do Estado </td><td valign="top"> 3ª </td></tr></tbody></table>
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 389.85pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="2" valign="top" width="520"><p class="Tabela-Texto">ANEXO II</p><p class="Tabela-Texto">(À LEI DELEGADA Nº 02)</p></td></tr><tr><td style="width: 389.85pt; border: solid windowtext 1.0pt; border-bottom: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="2" valign="top" width="520"><p class="Tabela-Texto">Tabela Especial de Vencimentos dos Titulares dos Cargos Técnico-Jurídicos da Procuradoria Geral do Estado</p></td></tr><tr><td style="width: 262.25pt; border: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="350"><p class="Tabela-Texto">CARGO</p></td><td style="width: 127.6pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto">VENCIMENTO</p></td></tr><tr><td style="width: 262.25pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="350"><p class="Tabela-Texto">Subprocurador Geral do Estado</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto">NCr$1.800,00</p></td></tr><tr><td style="width: 262.25pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="350"><p class="Tabela-Texto">Procurador do Estado de 1ª Classe</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto">NCr$1.600,00</p></td></tr><tr><td style="width: 262.25pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="350"><p class="Tabela-Texto">Procurador do Estado de 2ª Classe</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto">NCr$1.400,00</p></td></tr><tr><td style="width: 262.25pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="350"><p class="Tabela-Texto">Procurador do Estado de 3ª Classe</p></td><td style="width: 127.6pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="170"><p class="Tabela-Texto">NCr$1.200,00</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> ANEXO II (À LEI DELEGADA Nº 02) </td></tr><tr><td colspan="2" valign="top"> Tabela Especial de Vencimentos dos Titulares dos Cargos Técnico-Jurídicos da Procuradoria Geral do Estado </td></tr><tr><td valign="top"> CARGO </td><td valign="top"> VENCIMENTO </td></tr><tr><td valign="top"> Subprocurador Geral do Estado </td><td valign="top"> NCr$1.800,00 </td></tr><tr><td valign="top"> Procurador do Estado de 1ª Classe </td><td valign="top"> NCr$1.600,00 </td></tr><tr><td valign="top"> Procurador do Estado de 2ª Classe </td><td valign="top"> NCr$1.400,00 </td></tr><tr><td valign="top"> Procurador do Estado de 3ª Classe </td><td valign="top"> NCr$1.200,00 </td></tr></tbody></table>

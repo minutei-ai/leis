@@ -1,5 +1,3 @@
-###DEC-080758-0-000-16-11-1977@@@
-
 Decreto nº 80.758, de 16 de novembro de 1977.
 
 Autoriza a Escola Federal de Engenharia de Itajubá a alienar bens imóveis de sua propriedade e dá outras providências.

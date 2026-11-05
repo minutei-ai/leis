@@ -1,5 +1,3 @@
-###DEC-049823-0-000-05-01-1961@@@
-
 DECRETO Nº 49.823, DE 5 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 43.998, de 8 de julho de 1958.

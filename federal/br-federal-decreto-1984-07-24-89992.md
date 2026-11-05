@@ -1,5 +1,3 @@
-###DEC-089992-0-000-24-07-1984@@@
-
 Decreto nº 89 992, de 24 de julho de 1984
 
 Revoga o Decreto nº 73.603, de 8 de fevereiro de 1974, que aprova o Regulamento do Departamento de Aviação Civil.

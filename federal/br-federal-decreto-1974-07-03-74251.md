@@ -1,5 +1,3 @@
-###DEC-074251-0-000-03-07-1974@@@
-
 DECRETO Nº 74.251 - DE 3 DE JULHO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, um lote de terreno urbano, com benfeitorias, situado na Cidade de Pitangueiras, Estado de São Paulo, destinado à implantação de Centro Telefônico para Telecomunicações de São Paulo S.A. - TELESP.

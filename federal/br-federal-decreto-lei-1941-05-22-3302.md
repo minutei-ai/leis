@@ -1,5 +1,3 @@
-###DEL-003302-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.302 – DE 22 DE MAIO DE 1941
 
 Da nova denominação às Forças Aéreas Nacionais e aos seus estabelecimentos

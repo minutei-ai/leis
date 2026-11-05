@@ -1,5 +1,3 @@
-###DEL-004229-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.229 – DE 2 DE ABRIL DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de 2.000:000$0 para serviços de dragagem do porto de Cabedelo

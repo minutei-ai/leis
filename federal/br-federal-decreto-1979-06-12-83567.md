@@ -1,5 +1,3 @@
-###DEC-083567-0-000-12-06-1979@@@
-
 Decreto nº 83.567, de 12 de junho de 1979.
 
 Cria Comissão interministerial de estudos para controle das enchentes do rio São Francisco e dá outras providências.

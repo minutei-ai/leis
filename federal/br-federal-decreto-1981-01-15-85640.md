@@ -1,5 +1,3 @@
-###DEC-085640-0-000-15-01-1981@@@
-
 Decreto nº 85.640, de 15 de janeiro de 1981
 
 Concede à Insumos Básicos S/A. - Financiamento e Participações - FIBASE, autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-094847-0-000-04-09-1987@@@
-
 DECRETO N° 94.847, DE 4 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "SÍTIO SÃO JOSÉ OU CÓRREGO NOVO" classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Itapipoca, Estado do Ceará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.617, de 02 de maio de 1986, e dá outras providências.

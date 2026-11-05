@@ -1,5 +1,3 @@
-###DEC-062239-0-000-08-02-1968@@@
-
 Decreto nº 62.239, de 8 de fevereiro de 1968.
 
 Dispõe sôbre transferência de acervos, a unificação do Instituto Nacional do Livro e dá outras providências.

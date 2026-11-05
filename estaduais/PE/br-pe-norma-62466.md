@@ -68,119 +68,67 @@ ERNANI VARJAL MEDICIS PINTO
 
 **ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:-.75pt;background:white;border-collapse:collapse;
- border:none"><tbody><tr style="height:16.1pt"><td width="396" style="width:297.2pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">DENOMINAÇÃO</span></p></td><td width="90" style="width:67.5pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">SÍMBOLO</span></p></td><td width="134" style="width:100.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">QUANTIDADE</span></p></td></tr><tr style="height:16.1pt"><td width="396" style="width:297.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GRATIFICAÇAO POR ENCARGO POLICIAL CIVIL - 2</span></p></td><td width="90" style="width:67.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">GEPC-2</span></p></td><td width="134" style="width:100.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">8</span></p></td></tr><tr style="height:16.1pt"><td width="396" style="width:297.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GRATIFICAÇAO POR ENCARGO POLICIAL CIVIL - 5</span></p></td><td width="90" style="width:67.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">GEPC-5</span></p></td><td width="134" style="width:100.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">8</span></p></td></tr><tr style="height:16.1pt"><td width="396" style="width:297.2pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TOTAL</span></p></td><td width="90" style="width:67.5pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:16.1pt"></td><td width="134" style="width:100.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:16.1pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">16</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+GRATIFICAÇAO POR ENCARGO POLICIAL CIVIL - 2
+
+GEPC-2
+
+8
+
+GRATIFICAÇAO POR ENCARGO POLICIAL CIVIL - 5
+
+GEPC-5
+
+8
+
+TOTAL
+
+16
 
 **ANEXO II**
 
 “ANEXO III DA [LEI Nº 13.487, DE 2008](https://legis.alepe.pe.gov.br/?lo134872008)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="margin-left:.75pt;background:white;border-collapse:collapse;border:
- none"><tbody><tr><td width="439" style="width:329.05pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">DENOMINAÇÃO</span></p></td><td width="121" style="width:59.1pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">QUANTITATIVO</span></p></td><td width="102" style="width:76.85pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">VALOR</span></p></td></tr><tr><td width="439" style="width:329.05pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">CHEFE DO GTA (GAT)</span></p></td><td width="121" style="width:59.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1</span></p></td><td width="102" style="width:76.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">3.620,87</span></p></td></tr><tr><td width="439" style="width:329.05pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">SUBCHEFE DO GTA (GAT-1)</span></p></td><td width="121" style="width:59.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1</span></p></td><td width="102" style="width:76.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.800,00</span></p></td></tr><tr><td width="439" style="width:329.05pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">PILOTO / OPERADOR AEROTÁTICO (GAT – 2)</span></p></td><td width="121" style="width:59.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">30</span></p></td><td width="102" style="width:76.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.525,00</span></p></td></tr><tr><td width="439" style="width:329.05pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">POLICIAIS DO GTA (GAT-3)</span></p></td><td width="121" style="width:59.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">20</span></p></td><td width="102" style="width:76.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.000,00</span></p></td></tr><tr><td width="439" style="width:329.05pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">MILITARES DE OPERAÇÕES POLICIAIS ESTRATÉGICAS (GAT-4)</span></p></td><td width="121" style="width:59.1pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">4.513</span></p></td><td width="102" style="width:76.85pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">800,00</span></p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+QUANTITATIVO
+
+VALOR
+
+CHEFE DO GTA (GAT)
+
+1
+
+3.620,87
+
+SUBCHEFE DO GTA (GAT-1)
+
+1
+
+2.800,00
+
+PILOTO / OPERADOR AEROTÁTICO (GAT – 2)
+
+30
+
+2.525,00
+
+POLICIAIS DO GTA (GAT-3)
+
+20
+
+1.000,00
+
+MILITARES DE OPERAÇÕES POLICIAIS ESTRATÉGICAS (GAT-4)
+
+4.513
+
+800,00
 
 ”
 
@@ -188,335 +136,12 @@ ERNANI VARJAL MEDICIS PINTO
 
 VALORES NOMINAIS E QUANTITATIVO DA GRATIFICAÇÃO PELO EXERCÍCIO NA ATIVIDADE DE INTELIGÊNCIA - GEAI, POR SISTEMA E GRUPO OPERACIONAL
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width:453.55pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:33.7pt"><td width="125" style="width:93.95pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">SISTEMAS</span></p></td><td width="225" style="width:169.8pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupos Operacionais</span></p></td><td width="141" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Quantitativo de Gratificações por Grupo Operacional</span></p></td><td width="114" style="width:85.55pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Valor&nbsp;&nbsp;&nbsp; R$</span></p></td></tr><tr style="height:33.7pt"><td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Centro Integrado de Inteligência da SDS</span></p></td><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - I</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">09</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.100,00</span></p></td></tr><tr style="height:33.7pt"><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">65</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr><tr style="height:33.7pt"><td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Subsistema de Inteligência da Polícia Civil</span></p></td><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - I</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">20</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.100,00</span></p></td></tr><tr style="height:33.7pt"><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">199</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr><tr style="height:33.7pt"><td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Sistema de Inteligência da Polícia Militar</span></p></td><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - I</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">58</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.100,00</span></p></td></tr><tr style="height:33.7pt"><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">325</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> SISTEMAS </td><td> Grupos Operacionais </td><td> Quantitativo de Gratificações por Grupo Operacional </td><td> Valor&nbsp;&nbsp;&nbsp; R$ </td></tr><tr><td rowspan="2"> Centro Integrado de Inteligência da SDS </td><td> Grupo Operacional Nível - I </td><td> 09 </td><td> 2.100,00 </td></tr><tr><td> Grupo Operacional Nível - II </td><td> 65 </td><td> 1.600,00 </td></tr><tr><td rowspan="2"> Subsistema de Inteligência da Polícia Civil </td><td> Grupo Operacional Nível - I </td><td> 20 </td><td> 2.100,00 </td></tr><tr><td> Grupo Operacional Nível - II </td><td> 199 </td><td> 1.600,00 </td></tr><tr><td rowspan="2"> Sistema de Inteligência da Polícia Militar </td><td> Grupo Operacional Nível - I </td><td> 58 </td><td> 2.100,00 </td></tr><tr><td> Grupo Operacional Nível - II </td><td> 325 </td><td> 1.600,00 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width:453.55pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:33.7pt"><td width="125" style="width:93.95pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Secretaria Executiva de Ressocialização</span></p></td><td width="225" style="width:169.8pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">33</span></p></td><td width="114" style="width:85.55pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr><tr style="height:33.7pt"><td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Secretaria da Casa Militar</span></p></td><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - I</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">03</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.100,00</span></p></td></tr><tr style="height:33.7pt"><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">14</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr><tr style="height:33.7pt"><td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Corpo de Bombeiros Militar de Pernambuco</span></p></td><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - I</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">03</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.100,00</span></p></td></tr><tr style="height:33.7pt"><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">06</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr><tr style="height:33.7pt"><td width="125" rowspan="2" style="width:93.95pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">Unidade de Inteligência da Corregedoria da SDS</span></p></td><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - I</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">02</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">2.100,00</span></p></td></tr><tr style="height:33.7pt"><td width="225" style="width:169.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">Grupo Operacional Nível - II</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">13</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">1.600,00</span></p></td></tr><tr style="height:33.7pt"><td width="350" colspan="2" style="width:263.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">TOTAL</span></p></td><td width="141" style="width:106.3pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">750</span></p></td><td width="114" style="width:85.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:33.7pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><b><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,serif;color:#333333">-</span></b></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td> Secretaria Executiva de Ressocialização </td><td> Grupo Operacional Nível - II </td><td> 33 </td><td> 1.600,00 </td></tr><tr><td rowspan="2"> Secretaria da Casa Militar </td><td> Grupo Operacional Nível - I </td><td> 03 </td><td> 2.100,00 </td></tr><tr><td> Grupo Operacional Nível - II </td><td> 14 </td><td> 1.600,00 </td></tr><tr><td rowspan="2"> Corpo de Bombeiros Militar de Pernambuco </td><td> Grupo Operacional Nível - I </td><td> 03 </td><td> 2.100,00 </td></tr><tr><td> Grupo Operacional Nível - II </td><td> 06 </td><td> 1.600,00 </td></tr><tr><td rowspan="2"> Unidade de Inteligência da Corregedoria da SDS </td><td> Grupo Operacional Nível - I </td><td> 02 </td><td> 2.100,00 </td></tr><tr><td> Grupo Operacional Nível - II </td><td> 13 </td><td> 1.600,00 </td></tr><tr><td colspan="2"> TOTAL </td><td> 750 </td><td> **-** </td></tr></tbody></table>
 
                                                                                                                                                     **”**
 
 **ANEXO IV**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="0" style="width:503.25pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:15.0pt"><td width="671" colspan="4" style="width:503.25pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">GRATIFICAÇÃO DE OPERAÇÕES ESPECIAIS DA POLICIAL CIVIL - SÍMBOLO GOE</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">DENOMINAÇÃO</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">SÍMBOLO</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">QUANT.</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif;color:#333333">VALOR</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DELEGADO CHEFE DO GRUPO DE OPERAÇÕES ESPECIAIS DA POLÍCIA CIVIL - GOE</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOE</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">01</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 3.620,87</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DELEGADO CHEFE DO COMANDO DE OPERAÇÕES E RECURSOS ESPECIAIS DA POLÍCIA CIVIL - CORE</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOE</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">01</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 3.620,87</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DELEGADO SUBCHEFE DO GRUPO DE OPERAÇÕES ESPECIAIS DA POLÍCIA CIVIL - GOE</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOE -1</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">01</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 2.800,00</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">DELEGADO SUBCHEFE DO COMANDO DE OPERAÇÕES E RECURSOS ESPECIAIS DA POLÍCIA CIVIL - CORE</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOE -1</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">01</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 2.800,00</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">POLICIAIS DO GRUPO DE OPERAÇÕES ESPECIAIS DA POLÍCIA CIVIL - GOE</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOE -2</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">30</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 2.525,00</span></p></td></tr><tr style="height:15.0pt"><td width="395" style="width:296.5pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">POLICIAIS DO COMANDO DE OPERAÇÕES E RECURSOS ESPECIAIS DA POLÍCIA CIVIL - CORE</span></p></td><td width="103" style="width:76.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">GOE -2</span></p></td><td width="75" style="width:56.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">40</span></p></td><td width="98" style="width:73.6pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:15.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:-2.25pt;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  color:#333333">R$ 2.525,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="4"> GRATIFICAÇÃO DE OPERAÇÕES ESPECIAIS DA POLICIAL CIVIL - SÍMBOLO GOE </td></tr><tr><td> DENOMINAÇÃO </td><td> SÍMBOLO </td><td> QUANT. </td><td> VALOR </td></tr><tr><td> DELEGADO CHEFE DO GRUPO DE OPERAÇÕES ESPECIAIS DA POLÍCIA CIVIL - GOE </td><td> GOE </td><td> 01 </td><td> R$ 3.620,87 </td></tr><tr><td> DELEGADO CHEFE DO COMANDO DE OPERAÇÕES E RECURSOS ESPECIAIS DA POLÍCIA CIVIL - CORE </td><td> GOE </td><td> 01 </td><td> R$ 3.620,87 </td></tr><tr><td> DELEGADO SUBCHEFE DO GRUPO DE OPERAÇÕES ESPECIAIS DA POLÍCIA CIVIL - GOE </td><td> GOE -1 </td><td> 01 </td><td> R$ 2.800,00 </td></tr><tr><td> DELEGADO SUBCHEFE DO COMANDO DE OPERAÇÕES E RECURSOS ESPECIAIS DA POLÍCIA CIVIL - CORE </td><td> GOE -1 </td><td> 01 </td><td> R$ 2.800,00 </td></tr><tr><td> POLICIAIS DO GRUPO DE OPERAÇÕES ESPECIAIS DA POLÍCIA CIVIL - GOE </td><td> GOE -2 </td><td> 30 </td><td> R$ 2.525,00 </td></tr><tr><td> POLICIAIS DO COMANDO DE OPERAÇÕES E RECURSOS ESPECIAIS DA POLÍCIA CIVIL - CORE </td><td> GOE -2 </td><td> 40 </td><td> R$ 2.525,00 </td></tr></tbody></table>

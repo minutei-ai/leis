@@ -1,5 +1,3 @@
-###DEC-091264-0-000-22-05-1985@@@
-
 Decreto nº 91.264, de 22 de maio de 1985
 
 Autoriza o funcionamento do curso de Direito da Fundação de Ensino do Desenvolvimento do Oeste, em Chapecó, Santa Catarina.

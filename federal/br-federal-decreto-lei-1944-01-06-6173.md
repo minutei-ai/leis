@@ -1,5 +1,3 @@
-###DEL-006173-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.173 – DE 06 DE JANEIRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei nº 3.564, de 28 de agôsto do 1941

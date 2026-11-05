@@ -1,5 +1,3 @@
-###DEC-065315-0-000-09-10-1969@@@
-
 DECRETO Nº 65.315 - DE 9 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública a Associação Santo Agostinho - A.S.A., com sede em São Paulo, Estado de São Paulo.

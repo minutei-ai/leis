@@ -1,5 +1,3 @@
-###DEC-053943-0-000-03-06-1964@@@
-
 DECRETO Nº 53.943, DE 3 DE JUNHO DE 1964.
 
 Regulamenta a Lei nº 3.144, de 20 de maio de 1957, dispondo sôbre o Curso Superior de Agrimensura.

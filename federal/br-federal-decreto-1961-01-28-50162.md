@@ -1,5 +1,3 @@
-###DEC-050162-0-000-28-01-1961@@@
-
 DECRETO Nº 50.162, DE 28 DE JANEIRO DE 1961.
 
 Concede autorização para o funcionamento de curso.

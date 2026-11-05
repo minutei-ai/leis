@@ -1,5 +1,3 @@
-###DEC-007166-0-000-05-05-2010@@@
-
 DECRETO Nº 7.166, DE 5 DE MAIO DE 2010.
 
 Cria o Sistema Nacional de Registro de Identificação Civil, institui seu Comitê Gestor, regulamenta disposições da Lei no 9.454, de 7 de abril de 1997, e dá outras providências. 

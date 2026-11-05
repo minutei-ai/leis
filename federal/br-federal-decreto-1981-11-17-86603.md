@@ -1,5 +1,3 @@
-###DEC-086603-0-000-17-11-1981@@@
-
 Decreto nº 86.603, de 17 de novembro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da Estação de Microondas de FURNAS - Centrais Elétricas S.A., no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-002778-0-000-10-09-1998@@@
-
 DECRETO Nº 2.778, DE 10 DE SETEMBRO DE 1998
 
 Promulga o Acordo, por troca de Notas, Relativo ao Exercício de Atividades Remuneradas por Parte de Dependentes do Pessoal Diplomático, Consular, Administrativo e Técnico, celebrado entre o Governo da República Federativa do Brasil e o Governo do Reino dos Países Baixos, em Brasília, em 31 de julho de 1996.

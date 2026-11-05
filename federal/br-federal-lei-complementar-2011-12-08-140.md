@@ -1,5 +1,3 @@
-###LCP-000140-0-000-08-12-2011-PUB-01@@@
-
 LEI COMPLEMENTAR Nº 140, DE 8 DE DEZEMBRO DE 2011
 
 Fixa normas, nos termos dos incisos III, VI e VII do caput e do parágrafo único do art. 23 da Constituição Federal, para a cooperação entre a União, os Estados, o Distrito Federal e os Municípios nas ações administrativas decorrentes do exercício da competência comum relativas à proteção das paisagens naturais notáveis, à proteção do meio ambiente, ao combate à poluição em qualquer de suas formas e à preservação das florestas, da fauna e da flora; e altera a Lei no 6.938, de 31 de agosto de 1981.

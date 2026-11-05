@@ -1,5 +1,3 @@
-###DEC-070944-0-000-07-08-1972@@@
-
 DECRETO Nº 70.944, DE 7 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento dos cursos de Artes Práticas e Industriais da Faculdade de Filosofia, Ciências e Letras de Sorocaba - SP.

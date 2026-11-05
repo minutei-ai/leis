@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209002)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2023/compilacao-lei-17862-22.12.2023.html)
 
 # LEI N° 17.862, DE 22 DE DEZEMBRO DE 2023

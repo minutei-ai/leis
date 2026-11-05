@@ -1,7 +1,3 @@
-1
-
-###DEC-000295-0-000-29-10-1991@@@
-
 DECRETO Nº 295, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Recreio/São Félix, no Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-088365-0-000-06-06-1983@@@
-
 # DECRETO Nº 88.365, DE 06 DE JUNHO DE 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói e Mangaratiba, Estado do Rio de Janeiro.

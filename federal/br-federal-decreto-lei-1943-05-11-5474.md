@@ -1,5 +1,3 @@
-###DEL-005474-0-000-11-05-1943@@@
-
 DECRETO‑LEI N. 5.474 – DE 11 DE MAIO DE 1943
 
 Dispõe sobre as atribuições dos porteiros de auditórios no Distrito Federal

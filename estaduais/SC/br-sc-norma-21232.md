@@ -44,6 +44,26 @@ Presidente da Assembleia Legislativa, no exercício do cargo de Governador do Es
 
 ~~SEMANAS ALUSIVAS~~
 
-<table><tbody><tr><td><p><s>SEMANA</s></p></td><td><p><s>JUNHO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>.........................</s></p></td><td><p><s>................................................................</s></p></td><td><p><s>.............................</s></p></td></tr><tr><td><p><s>Quarta Semana</s></p></td><td><p><s>Semana de Combate e Prevenção ao Vitiligo</s></p></td><td><p></p></td></tr><tr><td><p><s>.........................</s></p></td><td><p><s>................................................................</s></p></td><td><p><s>.............................</s></p></td></tr></tbody></table>
+~~SEMANA~~
+
+~~JUNHO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~.........................~~
+
+~~................................................................~~
+
+~~.............................~~
+
+~~Quarta Semana~~
+
+~~Semana de Combate e Prevenção ao Vitiligo~~
+
+~~.........................~~
+
+~~................................................................~~
+
+~~.............................~~
 
 ~~” (NR)~~

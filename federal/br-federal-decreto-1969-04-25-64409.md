@@ -1,5 +1,3 @@
-###DEC-064409-0-000-25-04-1969@@@
-
 DECRETO Nº 64.409, DE 25 DE ABRIL DE 1969.
 
 Restaura a vigência do artigo 20 do Regulamento do Fundo Aeronáutico.

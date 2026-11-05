@@ -1,5 +1,3 @@
-###DEC-081322-0-000-09-02-1978@@@
-
 Decreto nº 81.322, de 9 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas e Contábeis de Santana do Livramento, Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-053230-0-000-12-12-1963@@@
-
 DECRETO Nº 53.230, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Delto Menozzi Teixeira a pesquisar calcário, argila e xisto argiloso no município de Iporanga, Estado de São Paulo.

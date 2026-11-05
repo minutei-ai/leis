@@ -1,5 +1,3 @@
-###DEC-004206-0-000-23-04-2002@@@
-
 DECRETO Nº 4.206, DE 23 DE ABRIL DE 2002
 
 Dispõe sobre o regime de previdência complementar no âmbito das entidades fechadas.

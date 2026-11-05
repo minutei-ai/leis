@@ -1,5 +1,3 @@
-###DEL-000343-0-000-28-12-1967@@@
-
 DECRETO-LEI Nº 343, DE 28 DE DEZEMBRO DE 1967
 
 Altera a legislação do Impôsto Único sôbre lubrificantes e combustíveis líquidos e gasosos, e dá outras providências.
@@ -93,8 +91,6 @@ Mario David Andreazza
 José Costa Cavalcanti
 
 Hélio Beltrão
-
-###DEL-000343-0-000-28-12-1967@@@RET01+++
 
 DECRETO-LEI Nº 343, DE 28 DE DEZEMBRO DE 1967
 

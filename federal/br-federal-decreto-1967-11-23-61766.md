@@ -1,5 +1,3 @@
-###DEC-061766-0-000-23-11-1967@@@
-
 DECRETO Nº 61.766, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza a cidadã brasileira Itália Speranza Paiva a lavrar caulim no município de Paraíba do Sul, Estado do Rio de Janeiro.

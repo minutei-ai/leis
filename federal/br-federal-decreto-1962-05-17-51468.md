@@ -1,5 +1,3 @@
-###DEC-051468-0-000-17-05-1962@@@
-
 Decreto nº 51.468, de 17 de maio de 1962.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$20.000.000,00, destinado à Cruz Vermelha Brasileira.

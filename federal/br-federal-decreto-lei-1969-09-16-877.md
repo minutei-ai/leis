@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9c7c744a-c184-4126-bfd1-a1895cee47a3/texto#nowhere)
 
-###DEL-000877-0-000-16-09-1969@@@
-
 DECRETO-LEI Nº 877, DE 16 DE SETEmbRO DE 1969
 
 Dispõe sobre eleições para os Conselhos de Contabilidade e dá outras providências.

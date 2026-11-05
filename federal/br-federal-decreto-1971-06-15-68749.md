@@ -1,5 +1,3 @@
-###DEC-068749-0-000-15-06-1971@@@
-
 DECRETO Nº 68.749 - DE 15 DE JUNHO DE 1971.
 
 Redistribui, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro, cargo do Ministério da Agricultura, e dá outras providências.

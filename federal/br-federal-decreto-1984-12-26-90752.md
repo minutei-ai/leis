@@ -1,5 +1,3 @@
-###DEC-090752-0-000-26-12-1984@@@
-
 Decreto nº 90.752, dE 26 de dezembro de 1984
 
 Estabelece normas de execução orçamentária, define a programação financeira para o exercício financeiro de 1985 e dá outras providências.

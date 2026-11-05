@@ -1,5 +1,3 @@
-###DEC-046817-0-000-15-09-1959@@@
-
 decreto nº 46.817, de 15 de setembro de 1959.
 
 Transcreve, sem aumento de despesa, função de Tabela Especial de Extranumerário-mensalistas do Ministério da Agricultura.

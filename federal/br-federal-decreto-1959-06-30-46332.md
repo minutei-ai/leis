@@ -1,5 +1,3 @@
-###DEC-046332-0-000-30-06-1959@@@
-
 DECRETO Nº 46.332, DE 30 DE JUNHO DE 1959.
 
 Outorga à Companhia Urbanizadora da Nova Capital do Brasil (NOVACAP) concessão para o aproveitamento progressivo de energia hidráulica da cachoeira do Paranoa, existente no rio do mesmo nome, situada na área determinada pela Lei nº 2.874, de 19 de setembro de 1956, para a Capital Federal do Brasil, no Estado de Goiás.

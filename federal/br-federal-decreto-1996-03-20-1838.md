@@ -1,5 +1,3 @@
-###DEC-001838-0-000-20-03-1996@@@
-
 DECRETO Nº 1.838, DE 20 DE MARÇO DE 1996.
 
 Regulamenta a Lei n° 7.549, de 11 de dezembro de 1986, que dispõe sobre o ensino no Ministério da Aeronáutica.

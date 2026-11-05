@@ -1,5 +1,3 @@
-###DEL-005938-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.938 – DE 28 DE OUTUBRO DE 1943
 
 Estabelece critério para desempate de antigüidade o merecimento, para efeito de promoção

@@ -1,5 +1,3 @@
-###DEC-083507-0-000-28-05-1979@@@
-
 DECRETO Nº 83.507, DE 28 DE MAIO DE 1979.
 
 Autoriza o funcionamento da habilitação de Psicólogo do curso de Psicologia das Faculdades Metropolitanas Unidas-Associação  Educacional, com sede na cidade de São Paulo, Estado de São Paulo.

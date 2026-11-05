@@ -1,5 +1,3 @@
-###DEC-056877-0-000-16-09-1965@@@
-
 DECRETO Nº 56.877, DE 16 DE SETEMBRO DE 1965.
 
 Concede à sociedade Westinghouse Electric Company, S.A., autorização para continuar a funcionar na República.

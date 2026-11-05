@@ -1,5 +1,3 @@
-###DEC-060258-0-000-23-02-1967@@@
-
 DECRETO Nº 60.258, DE 23 DE FEVEREIRO DE 1967.
 
 Declara de utilidade pública o “Ambulatório Médico-Dentário Dr. Fleming” com sede em Baurú, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-007721-0-000-16-04-2012-PUB-01@@@
-
 DECRETO N° 7.721, DE 16 DE ABRIL DE 2012
 
 Dispõe sobre o condicionamento do recebimento da assistência financeira do Programa de Seguro-Desemprego à comprovação de matrícula e frequência em curso de formação inicial e continuada ou de qualificação profissional, com carga horária mínima de cento e sessenta horas.

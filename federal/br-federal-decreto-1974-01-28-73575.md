@@ -1,5 +1,3 @@
-###DEC-073575-0-000-28-01-1974@@@
-
 DECRETO Nº 73.575, DE 28 DE JANEIRO DE 1974.
 
 Altera o Regulamento da Diretoria de Movimentação, do Departamento Geral do Pessoal do Ministério do Exército, e dá outras providências.

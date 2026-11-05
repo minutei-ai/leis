@@ -1,5 +1,3 @@
-###DEC-057067-0-000-15-10-1965@@@
-
 DECRETO Nº 57.067, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Luiz Carlos Rocha de Assis a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

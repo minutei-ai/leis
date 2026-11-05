@@ -1,5 +1,3 @@
-###DEC-062383-0-000-11-03-1968@@@
-
 Decreto nº 62.383, de 11 de março de 1968.
 
 Dispõe sôbre a concessão de autorização para o funcionamento e outorga de linhas para as emprêsas de navegação de longo curso, de cabotagem, fluvial e lacustre e fixa normas para a cassação de linhas de navegação.

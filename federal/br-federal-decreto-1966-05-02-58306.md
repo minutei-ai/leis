@@ -1,5 +1,3 @@
-###DEC-058306-0-000-02-05-1966@@@
-
 DECRETO Nº 58.306, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Christovam Miguel Sanches a lavrar água mineral no município de Valinhos, Estados de São Paulo.

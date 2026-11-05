@@ -1,5 +1,3 @@
-###DEC-004468-0-000-13-11-2002@@@
-
 DECRETO Nº4.468, DE 13 DE NOVEMBRO DE 2002
 
 Altera dispositivos do Decreto nº 4.247, de 22 de maio de 2002, que regulamenta a Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, e dá outras providências.

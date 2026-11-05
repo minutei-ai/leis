@@ -1,5 +1,3 @@
-###DEL-003524-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.524 – DE 21 DE AGOSTO DE 1941
 
 Aumenta de um membro a Comissão de Marinha Mercante e dá outras providências.

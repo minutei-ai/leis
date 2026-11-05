@@ -1,5 +1,3 @@
-###DEC-054725-0-000-30-10-1964@@@
-
 DECRETO Nº 54.725, DE 30 DE OUTUBRO DE 1964.
 
 Outorga à Companhia Agrícola Fibrasil concessão para o aproveitamento de um desnível existente no distrito de Pilar do Sul, Município de Pilar do Sul, Estado de São Paulo, para uso exclusivo.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9766e0d2-7995-4ada-a8d3-ac35cda7f213/texto#nowhere)
 
-###DEL-000448-0-000-03-02-1969@@@
-
 DECRETO-LEI Nº 448, DE 3 DE FEVEREIrO DE 1969
 
 Dispõe sôbre a aplicação de penalidades às instituições financeiras, às sociedades e emprêsas integrantes do sistema de distribuição de títulos ou valôres mobiliários e aos seus agentes autônomos, e dá outras providências.

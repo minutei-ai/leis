@@ -1,5 +1,3 @@
-###DEC-047322-0-000-02-12-1959@@@
-
 Decreto nº 47.322, de 2 de dezembro de 1959.
 
 Renova o Decreto nº 42.300, de 20 de setembro de 1957.

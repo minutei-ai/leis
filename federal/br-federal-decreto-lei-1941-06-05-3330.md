@@ -1,5 +1,3 @@
-###DEL-003330-0-000-05-06-1941@@@
-
 DECRETO-LEI N. 3.330 – DE 5 DE JUNHO DE 1941
 
 Altera a redação do artigo 248 do decreto-lei n. 1.713, de 28 de outubro de 1939

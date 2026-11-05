@@ -1,5 +1,3 @@
-###DEC-061621-0-000-03-11-1967@@@
-
 DECRETO Nº 61.621, DE 3 DE NOVEMBRO DE 1967.
 
 Extingue o Consulado honorário em Palma de Mallorca, Baleares, Espanha.

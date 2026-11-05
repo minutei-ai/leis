@@ -22,7 +22,51 @@ QUADRA 11 – com área de 11.506,18 m² composta de 04 lotes numerados como Lot
 
 Art. 2º A área denominada loteamento POLO EMPRESARIAL GOIÁS - ETAPA XV, mencionada no inciso II do art. 1º deste Decreto, será composta conforme quadro resumo abaixo:
 
-<table class="MsoTableGrid" style="width:16.0cm; margin-left:-2px; border-collapse:collapse; border:none" width="605"><tbody><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   " valign="top">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; DESCRIÇÃO</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   " valign="top">ÁREA (m²)</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   " valign="top">QUANTITATIVO</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   " valign="top">PERCENTUAL</td></tr><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   ">Área Total de Registro</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   ">58.108,68</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   ">&nbsp;</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   ">100,00 %</td></tr><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   ">Área Total a parcelar Polo Empresarial Goiás Etapa XV</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   ">12.523,23</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   ">&nbsp;</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   ">21,55 %</td></tr><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   ">Área Remanescente Jardim Cristal 1º Complemento</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   ">45.585,45</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   ">&nbsp;</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   ">78,45 %</td></tr><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   ">Área Total a parcelar Polo Empresarial Goiás Etapa XV</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   ">12.523,23</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   ">&nbsp;</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   ">21,55 %</td></tr><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   ">Área de Lotes</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   ">11.506,18</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   ">4</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   ">91,88 %</td></tr><tr><td style=" width:246px; padding:0cm 7px 0cm 7px;   ">Sistema Viário</td><td style=" width:104px; padding:0cm 7px 0cm 7px;   ">&nbsp;1.017,05</td><td style=" width:142px; padding:0cm 7px 0cm 7px;   ">&nbsp;</td><td style=" width:113px; padding:0cm 7px 0cm 7px;   ">8,12 %</td></tr></tbody></table>
+DESCRIÇÃO
+
+ÁREA (m²)
+
+QUANTITATIVO
+
+PERCENTUAL
+
+Área Total de Registro
+
+58.108,68
+
+100,00 %
+
+Área Total a parcelar Polo Empresarial Goiás Etapa XV
+
+12.523,23
+
+21,55 %
+
+Área Remanescente Jardim Cristal 1º Complemento
+
+45.585,45
+
+78,45 %
+
+Área Total a parcelar Polo Empresarial Goiás Etapa XV
+
+12.523,23
+
+21,55 %
+
+Área de Lotes
+
+11.506,18
+
+4
+
+91,88 %
+
+Sistema Viário
+
+1.017,05
+
+8,12 %
 
 Art. 3º O remanejamento referido no art. 1º desta Lei está em conformidade com os documentos acostados ao processo administrativo n° 2021.111.073, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -30,8 +74,10 @@ Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogando o
 
 Aparecida de Goiânia, Estado de Goiás, aos 19 de outubro de 2023.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

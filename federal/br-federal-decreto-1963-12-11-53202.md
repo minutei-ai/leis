@@ -1,5 +1,3 @@
-###DEC-053202-0-000-11-12-1963@@@
-
 Decreto nº 53.202, de 11 de dezembro de 1963
 
 Suspende, provisòriamente, a aquisição de material permanente e de consumo para os serviço público, e dá outras providências.

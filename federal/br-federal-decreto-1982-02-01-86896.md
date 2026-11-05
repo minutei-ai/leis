@@ -1,5 +1,3 @@
-###DEC-086896-0-000-01-02-1982@@@
-
 Decreto nº 86.896, de 01 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CATURITÉ LTDA., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Campina Grande, Estado da Paraíba.

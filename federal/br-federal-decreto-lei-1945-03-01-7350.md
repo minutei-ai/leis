@@ -1,5 +1,3 @@
-###DEL-007350-0-000-01-03-1945@@@
-
 DECRETO-LEl N. 7.350 – DE 1 DE MARÇO DE 1945
 
 Autoriza o Ministério da Fazenda a alienar, mediante concorrência pública, imóveis de propriedade da União, situados nos Municípios de Pôrto Alegre e Tupaceretã, no Estado do Rio Grande do Sul

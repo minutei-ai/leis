@@ -1,5 +1,3 @@
-###DEC-092515-0-000-04-04-1986@@@
-
 DECRETO Nº 92.515, DE 4 DE ABRIL DE 1986
 
 Outorga concessão à RÁDIO REGIONAL DE SERRINHA LTDA. para explorar serviço de rádio diodifusão sonora em onda média, na cidade de Serrinha, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-004532-0-000-19-12-2002@@@
-
 DECRETO N. 4.532 – DE 19 DE DEZEMBRO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas – FCT para o Ministério dos Transportes.
@@ -26,4 +24,30 @@ ANEXO
 
 FUNÇÕES COMISSIONADAS TÉCNICAS DO DEPARTAMENTO DE MARINHA MERCANTE
 
-<table cellspacing="0" cellpadding="0" style="margin-left:28.1pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:198.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FUNÇÕES COMISSIONADA TÉCNICA</span></p></td><td style="width:163.1pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">QUANTITATIVO DE FUNÇÕES</span></p></td></tr><tr><td style="width:198.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCT 1</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2</span></p></td></tr><tr><td style="width:198.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCT 7</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">16</span></p></td></tr><tr><td style="width:198.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCT 9</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">67</span></p></td></tr><tr><td style="width:198.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCT 10</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5</span></p></td></tr><tr><td style="width:198.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">FCT 11</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">30</span></p></td></tr><tr><td style="width:198.55pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">TOTAL</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Normal0" style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">120</span></p></td></tr></tbody></table>
+FUNÇÕES COMISSIONADA TÉCNICA
+
+QUANTITATIVO DE FUNÇÕES
+
+FCT 1
+
+2
+
+FCT 7
+
+16
+
+FCT 9
+
+67
+
+FCT 10
+
+5
+
+FCT 11
+
+30
+
+TOTAL
+
+120

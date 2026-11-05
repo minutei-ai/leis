@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211164)<br>
-
 # LEI N° 18.174, DE 08 DE JULHO DE 2025
 
 ## (Projeto de lei n° 106/2025, do Deputado Oseias de Madureira - PSD)

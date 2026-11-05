@@ -1,5 +1,3 @@
-###DEC-097410-0-000-23-12-1988@@@
-
 DECRETO N° 97.410, DE 23 DE DEZEMBRO DE 1988
 
 Aprova a Tabela de Incidência do Imposto sobre Produtos Industrializados.

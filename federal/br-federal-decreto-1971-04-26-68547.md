@@ -1,5 +1,3 @@
-###DEC-068547-0-000-26-04-1971@@@
-
 DECRETO Nº 68.547, DE 26 DE ABRIL DE 1971.
 
 Cria, no Ministério da Marinha, o Centro de Instrução de Fluviários de Pirapora.

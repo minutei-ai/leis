@@ -1,5 +1,3 @@
-###DEC-091248-0-000-15-05-1985@@@
-
 Decreto nº 91.248, de 15 de maio de 1985.
 
 Dispõe sobre a finalidade, estrutura e competência do Conselho Nacional de Desenvolvimento Urbano (CNDU) e dá outras providências.

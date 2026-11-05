@@ -1,5 +1,3 @@
-###DEC-053437-0-000-20-01-1964@@@
-
 DECRETO Nº 53.437, DE 20 DE JANEIRO DE 1964.
 
 Autoriza SAMBRA S. A. Mármores Brasileiros a lavrar mármore no município de Juazeiro, Estado da Bahia.

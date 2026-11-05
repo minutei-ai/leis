@@ -1,5 +1,3 @@
-###DEC-083083-0-000-24-01-1979@@@
-
 Decreto nº 83.083, de 24 de janeiro de 1979
 
 Altera o valor do capital da Empresa Brasileira de Correios e Telégrafos-ECT.

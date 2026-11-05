@@ -1,5 +1,3 @@
-###DEC-059447-0-000-03-11-1966@@@
-
 DECRETO Nº 59.447, DE 3 DE NOVEMBRO DE 1966.
 
 Retifica o Decreto nº 58.656, de 16-6-1966.

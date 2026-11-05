@@ -1,5 +1,3 @@
-###DEC-066055-0-000-13-01-1970@@@
-
 DECRETO Nº 66.055 - DE 13 DE JANEIRO DE 1970
 
 Concede à Alumínio Poços de Caldas S.A. o direito de lavrar bauxita no município de Oriximiná, Estado do Pará.

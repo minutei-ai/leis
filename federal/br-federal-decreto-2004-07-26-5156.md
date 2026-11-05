@@ -1,5 +1,3 @@
-###DEC-005156-0-000-26-07-2004@@@
-
 DECRETO Nº 5.156 DE 26 DE JULHO DE 2004
 
 Dispõe sobre o Sistema Nacional de Processamento de Alto Desempenho - SINAPAD.

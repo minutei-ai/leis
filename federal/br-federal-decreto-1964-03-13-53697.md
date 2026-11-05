@@ -1,5 +1,3 @@
-###DEC-053697-0-000-13-03-1964@@@
-
 DECRETO Nº 53.697, DE 13 DE MARÇO DE 1964.
 
 Institui o “Dia do Engenheiro de Saneamento”

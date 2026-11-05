@@ -1,5 +1,3 @@
-###DEC-065028-0-000-20-08-1969@@@
-
 DECRETO Nº 65.028 - DE 20 DE AGôSTO DE 1969.
 
 Declara de utilidade pública a Fundação "Escolas Johnson" com sede em Fortaleza, Estado do Ceará.

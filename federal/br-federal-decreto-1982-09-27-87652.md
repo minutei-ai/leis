@@ -1,5 +1,3 @@
-###DEC-087652-0-000-27-09-1982@@@
-
 Decreto nº 87.652, de 27 de setembro de 1982
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural que especifica, situado no Município de Marechal Cândido Rondon, no Estado do Paraná, compreendido na área prioritária para reforma agrária fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

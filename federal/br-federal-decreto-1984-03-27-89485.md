@@ -1,5 +1,3 @@
-###DEC-089485-0-000-27-03-1984@@@
-
 Decreto nº 89.485, de 27 de março de 1984
 
 Autoriza o Banco do Brasil S.A. a proceder ao aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-086622-0-000-20-11-1981@@@
-
 Decreto nº 86.622, de 20 de novembro de 1981
 
 Autoriza o aumento do capital social da VALENORTE ALUMINIO LTDA.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098825-0-000-15-01-1990@@@
-
 DECRETO 98.825, DE 16 DE JANEIRO DE 1990
 
 Homologa a demarcação administrativa da Terra Indígena Carretão II, que menciona, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-095481-0-000-14-12-1987@@@
-
 DECRETO Nº 95.481, DE 14 DE DEZEMBRO DE 1987
 
 Autoriza a Prefeitura Municipal de Uberlândia, Estado de Minas Gerais, a explorar, através da FUNDAÇÃO DE RADIODIFUSÃO EDUCATIVA DE UBERLÂNDIA, na cidade de Uberlândia, Estado de Minas Gerais, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

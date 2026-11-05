@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209380)<br>
-
 # LEI N° 17.934, DE 26 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 129/2024, da Deputada Marina Helou - REDE)

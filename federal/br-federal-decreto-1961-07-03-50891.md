@@ -1,5 +1,3 @@
-###DEC-050891-0-000-03-07-1961@@@
-
 DECRETO Nº 50.891, de 3 de Julho de 1961.
 
 Concede à sociedade Sul-Atlântica Comércio e Navegação Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-055703-0-000-02-02-1965@@@
-
 DECRETO Nº 55.703, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Francisco Paulista de Souza a pesquisar mica e pedras coradas no município de Mendes Pimentel, Estado de Minas Gerais.

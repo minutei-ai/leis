@@ -26,16 +26,20 @@ JOSÉ FRANCISCO DE MELO CAVALCANTI NETO
 
 ERNANI VARJAL MEDICIS PINTO
 
-**ANEXO ÚNICO**<br>
+**ANEXO ÚNICO**
+
 **MEMORIAL DESCRITIVO**
 
-Área de Supressão em APP<br>
+Área de Supressão em APP
+
 Barragem Dr. Murilo Tavares de Melo
 
-Bacia Hidrográfica: Rio Goiana<br>
+Bacia Hidrográfica: Rio Goiana
+
 Área de Supressão: 5,31 ha
 
-Sistema de Referência Geodésico SIRGAS 2000<br>
+Sistema de Referência Geodésico SIRGAS 2000
+
 Coordenadas Projetadas UTM Fuso 25 S
 
 |

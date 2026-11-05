@@ -1,4 +1,5 @@
-DECRETO Nº 10.153, DE 4 DE OUTUBRO DE 2022<br>
+DECRETO Nº 10.153, DE 4 DE OUTUBRO DE 2022
+
 \- [Vide Decreto nº 10.157, de 13-10-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106191/decreto-10157).
 
 Altera a organização administrativa do Poder Executivo estabelecida pela Lei nº 20.491, de 25 de junho de 2019, na Secretaria-Geral da Governadoria e na Secretaria de Estado da Casa Militar.
@@ -20,8 +21,6 @@ Art. 2º As alíneas “f” e “i” do inciso I do Anexo I da [Lei nº 20.491
 Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 4 de outubro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2587c803-d8f4-4e42-8bea-56492bdd6900/texto#nowhere)
 
-###DEL-001930-0-000-18-03-1982@@@
-
 # DECRETO-LEI Nº 1.930, DE 18 DE MARÇO DE 1982
 
 Altera os limites do benefício fiscal instituído pelo Decreto-Lei nº 1.358, de 12 de novembro de 1974, e dá outras providências.

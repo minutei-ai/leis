@@ -1,5 +1,3 @@
-###DEC-072516-0-000-23-07-1973@@@
-
 DECRETO Nº 72.516, DE 23 DE JULHO DE 1973.
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro de Pessoal do Ministério da Educação e Cultura e dá outras providencias.

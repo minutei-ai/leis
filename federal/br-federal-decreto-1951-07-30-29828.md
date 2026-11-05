@@ -1,14 +1,12 @@
-###DEC-029828-0-000-30-07-1951@@@
+**DECRETO Nº 29.828, DE 30 DE JULHO DE 1951.**
 
-<strong>DECRETO Nº 29.828, DE 30 DE JULHO DE 1951.</strong>
+***Altera o Art. 3º do Regimento do Serviço Nacional de Fiscalização da Medicina, aprovado pelo Decreto nº 21.339, de 20 de junho de 1946.***
 
-<em><strong>Altera o Art. 3º do Regimento do Serviço Nacional de Fiscalização da Medicina, aprovado pelo Decreto nº 21.339, de 20 de junho de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º O art. 3º do Regimento do Serviço Nacional de Fiscalização da Medicina, baixado com o Decreto nº 21.339, de 20 de junho de 1946, passa a ter a seguinte redação:
+**Art**. 1.º O art. 3º do Regimento do Serviço Nacional de Fiscalização da Medicina, baixado com o Decreto nº 21.339, de 20 de junho de 1946, passa a ter a seguinte redação:
 
 “Art. 3.º Como órgãos subordinados ao Serviço, sob a presidência do respectivo Diretor e tendo como Secretário um servidor em exercício, funcionarão:
 
@@ -24,10 +22,10 @@ b) uma Comissão de Revisão da Farmacopéia, constituída de um professor da Fa
 
 § 4º A função de membro das subcomissões referidas no parágrafo anterior não será remunerada, constituindo, porém, serviço relevante de interêsse público”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 30 de julho de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 E. Simões Filho

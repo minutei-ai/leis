@@ -1,5 +1,3 @@
-###DEC-053144-0-000-10-12-1963@@@
-
 DECRETO Nº 53.144, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Omnia Minérios Limitada autorização para funcionar como emprêsa de mineração.

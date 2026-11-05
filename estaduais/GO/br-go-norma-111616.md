@@ -40,9 +40,12 @@ ANEXO I
 
 "**DEMONSTRATIVO 1 – METAS ANUAIS**
 
-GOVERNO DO ESTADO DE GOIÁS<br>
-LEI DE DIRETRIZES ORÇAMENTÁRIAS<br>
-ANEXO DE METAS FISCAIS<br>
+GOVERNO DO ESTADO DE GOIÁS
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS
+
 METAS ANUAIS 2025
 
 | AMF - Demonstrativo 1 (LRF, art. 4º, § 1º)    |       R$ 1,00 |
@@ -104,10 +107,14 @@ ANEXO II
 
 "**DEMONSTRATIVO 3 – METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES**
 
-GOVERNO DO ESTADO DE GOIÁS<br>
-LEI DE DIRETRIZES ORÇAMENTÁRIAS<br>
-ANEXO DE METAS FISCAIS<br>
-**METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES**<br>
+GOVERNO DO ESTADO DE GOIÁS
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS
+
+**METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES**
+
 2025
 
 | AMF – Demonstrativo 3 (LRF, art.4º, §2º, inciso II) | R$ 1,00 |
@@ -180,24 +187,32 @@ Sistema de Contabilidade Geral do Estado de Goiás (SCG)
 
 NOTAS: 
 
-1\) A elaboração desse demonstrativo segue a metodologia de cálculo disposta no item 03.06.00 - Anexo 6 da Parte III do MDF. Portanto, no cálculo do Resultado Primário (SEM RPPS) - acima da linha, não são consideradas as receitas e despesas com as fontes do RPPS. Estas são apresentadas de forma apartada, com impacto apenas no cálculo do Resultado Primário (COM RPPS) - acima da linha, para fins de transparência. Também não são consideradas as dívidas, disponibilidade de caixa e haveres financeiros do RPPS no cálculo do Resultado Nominal (SEM RPPS) - abaixo da linha.<br>
+1\) A elaboração desse demonstrativo segue a metodologia de cálculo disposta no item 03.06.00 - Anexo 6 da Parte III do MDF. Portanto, no cálculo do Resultado Primário (SEM RPPS) - acima da linha, não são consideradas as receitas e despesas com as fontes do RPPS. Estas são apresentadas de forma apartada, com impacto apenas no cálculo do Resultado Primário (COM RPPS) - acima da linha, para fins de transparência. Também não são consideradas as dívidas, disponibilidade de caixa e haveres financeiros do RPPS no cálculo do Resultado Nominal (SEM RPPS) - abaixo da linha.
+
 2) As metas para os exercícios de 2022 e 2023 foram calculadas com base na metodologia estipulada pelo MDF/STN vigente à época da elaboração de cada LDO. Desta forma, não foi possível obter os valroes das receitas e despesas, total e primária, exceto e com fontes RPPS, conforme estipulado pela 14ª edição do MDF. Isso decorre do fato de que essas fontes (RPPS) não eram projetadas no momento de elaboração das respectivas LDO. Neste sentido, para o preenchimento deste demonstrativa e, principalmente, para fins de comparação, os valores apresentados neste demonstrativo foram estimados a partir das proporções de cada fonte de receita e despesa nos valores realizados de 2021 e 2022, respectivamente
 
-ANEXO III<br>
+ANEXO III
+
 (Alteração do Anexo I – Metas Fiscais da [Lei nº 23.570](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111087), de 10 de julho de 2025)
 
-ESTADO DE GOIÁS<br>
-LEI DE DIRETRIZES ORÇAMENTÁRIAS<br>
-ANEXO DE METAS FISCAIS<br>
-**estimativa e compensação da renúncia de receita**<br>
+ESTADO DE GOIÁS
+
+LEI DE DIRETRIZES ORÇAMENTÁRIAS
+
+ANEXO DE METAS FISCAIS
+
+**estimativa e compensação da renúncia de receita**
+
 2026
 
 | AMF - Demonstrativo 7 (LRF, art. 4°, § 2°, inciso V) | R$ 1,00 |
 | --- | --- |
 | TRIBUTO | MODALIDADE  | SETORES/PROGRAMAS/ BENEFICIÁRIOS | 2026 | 2027 | 2028 |
 | --- | --- | --- | --- | --- | --- |
-| ICMS<br>
-  | Crédito Outorgado<br>
+| ICMS
+
+  | Crédito Outorgado
+
   | Atacado | 3.006.986.728 | 3.189.811.521 | 3.378.220.928 |
 | Indústria | 5.345.330.134 | 5.670.326.206 | 6.005.249.694 |
 | Varejo | 160.978.115 | 170.765.584 | 180.852.024 |
@@ -211,7 +226,8 @@ ANEXO DE METAS FISCAIS<br>
 | Prestação de serviços | 2.139.253 | 2.269.319 | 2.403.359 |
 | Sub-total | 2.777.840.596 | 2.946.733.304 | 3.120.785.054 |
 | CO + ProGoiás | Total | 11.433.729.907 | 12.128.900.685 | 12.845.306.333 |
-| Redução de Base de Cálculo<br>
+| Redução de Base de Cálculo
+
   | Atacado | 315.606.315 | 334.795.179 | 354.570.191 |
 | Indústria | 78.781.854 | 83.571.790 | 88.508.042 |
 | Varejo | 724.882.525 | 768.955.383 | 814.374.501 |

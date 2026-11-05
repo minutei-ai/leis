@@ -1,5 +1,3 @@
-###DEC-073915-0-000-05-04-1974@@@
-
 Decreto nº 73.915, de 5 de abril de 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Francisco Beltrão - PR, destinado ao Ministério do Exército.

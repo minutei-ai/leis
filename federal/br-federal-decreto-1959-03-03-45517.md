@@ -1,5 +1,3 @@
-###DEC-045517-0-000-03-03-1959@@@
-
 Decreto nº 45.517, 03 de MARÇO de 1959.
 
 Concede o abono provisório aos servidores do Instituto de aposentadoria e Pensões dos Industriários.

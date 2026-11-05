@@ -1,5 +1,3 @@
-###DEC-086432-0-000-02-10-1981@@@
-
 DECRETO Nº 86.432, DE 02 DE OUTUBRO DE 1981.
 
 Concede ao INSTITUTO DE RESSEGUROS DO BRASIL - IBR, autorização para proceder a aumento de seu capital social.

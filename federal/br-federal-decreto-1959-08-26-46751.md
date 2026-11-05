@@ -1,5 +1,3 @@
-###DEC-046751-0-000-26-08-1959@@@
-
 DECRETO Nº 46.751, DE 26 DE AGÔSTO DE 1959.
 
 Renova o Decreto nº 41.606 de 29 de maio de 1957.

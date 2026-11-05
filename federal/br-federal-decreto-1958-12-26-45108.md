@@ -1,5 +1,3 @@
-###DEC-045108-0-000-26-12-1958@@@
-
 DECRETO Nº 45.108, DE 26 DE DEZEMBRO DE 1958.
 
 Modifica a redação do Decreto número 43.190, de 12 de fevereiro de 1958.

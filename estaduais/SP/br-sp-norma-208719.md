@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208719)<br>
-
 # LEI N° 17.814, DE 27 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 1285/2019, do Deputado Jorge Caruso - MDB)

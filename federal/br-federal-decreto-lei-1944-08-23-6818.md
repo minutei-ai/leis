@@ -1,5 +1,3 @@
-###DEL-006818-0-000-23-08-1944@@@
-
 DECRETO-LEI N. 6.818 – DE 23 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Agricultura o crédito suplementar de Cr$ 36.000,00 à verba que especifica

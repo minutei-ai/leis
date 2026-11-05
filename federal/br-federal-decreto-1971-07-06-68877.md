@@ -1,5 +1,3 @@
-###DEC-068877-0-000-06-07-1971@@@
-
 DECRETO Nº 68.877, DE 6 de JULHO DE 1971.
 
 Altera dispositivo do Regulamento Geral da Previdência Social aprovado pelo Decreto nº 60.501, de 14 de março de 1967.

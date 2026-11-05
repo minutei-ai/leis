@@ -1,5 +1,3 @@
-###DEC-045292-0-000-26-01-1959@@@
-
 DECRETO Nº 45.292, DE 26 DE JANEIRO DE 1959.
 
 Autoriza Cidadão Brasileiro José Tameirão Neto a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

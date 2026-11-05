@@ -1,5 +1,3 @@
-###DEC-059956-0-000-09-01-1967@@@
-
 DECRETO Nº 59.956, DE 9 DE JANEIRO DE 1967.
 
 Concede a Pedreira São Jorge Ltda. autorização para funcionar como emprêsa de mineração.

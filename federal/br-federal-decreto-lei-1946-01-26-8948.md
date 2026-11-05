@@ -1,5 +1,3 @@
-###DEL-008948-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.948 – DE 26 DE JANEIRO DE 1946
 
 Altera a Tabela Numérica de Mensalistas da Divisão do Pessoal Civil, da Diretoria do Pessoal da Armada, do Ministério da Marinha e dá outras providências.

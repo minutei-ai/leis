@@ -1,5 +1,3 @@
-###DEC-057856-0-000-25-02-1966@@@
-
 DECRETO Nº 57.856, DE 25 DE FEVEREIRO DE 1966.
 
 Autoriza a Centrais Elétricas de Santa Catarina S. A. a construir linha de transmissão.

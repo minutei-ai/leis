@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209119)<br>
-
 # DECRETO N° 68.337, DE 22 DE FEVEREIRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 219+850m da Rodovia SP-333, no Município de Borborema, e dá providências correlatas._

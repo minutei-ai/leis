@@ -1,5 +1,3 @@
-###DEL-004654-0-000-03-09-1942@@@
-
 DECRETO-LEI N. 4.654 – DE 3 DE SETEMBRO DE 1942
 
 Autoriza a emissão de papel-moeda até 364.000:000$0

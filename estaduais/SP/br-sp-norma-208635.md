@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208635)<br>
-
 # LEI N° 17.789, DE 06 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 68/2020, da Deputada Dra. Damaris Moura - PSDB)

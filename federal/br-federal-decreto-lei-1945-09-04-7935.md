@@ -1,5 +1,3 @@
-###DEL-007935-0-000-04-09-1945@@@
-
 DECRETO-LEI N. 7.935 – DE 4 DE SETEMBRO DE 1945
 
 Aprova a Carta das Nações Unidas, assinada em São Francisco, a 26 de junho de 1945, da qual faz parte integrante o anexo Estatuto da Côrte Internacional da Justiça

@@ -1,5 +1,3 @@
-###DEL-005797-0-000-03-09-1943@@@
-
 DECRETO‑LEI N. 5.797 – DE 3 DE SETEMBRO DE 1943
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 30.600,00,00 para pagamento de salários

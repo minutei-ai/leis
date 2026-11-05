@@ -1,5 +1,3 @@
-###DEC-045183-0-000-31-12-1958@@@
-
 DECRETO Nº 45.183, DE 31 DE DEZEMBRO DE 1958.
 
 Outorga à Companhia Paranaense de Energia Elétrica - COPEL - concessão para o aproveitamento progressivo da energia hidráulica do Salto Grande, situado no rio Iguaçu, município de Cruz Machado, Estado do Paraná.

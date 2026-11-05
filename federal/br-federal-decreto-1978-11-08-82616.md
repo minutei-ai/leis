@@ -1,5 +1,3 @@
-###DEC-082616-0-000-08-11-1978@@@
-
 Decreto nº 82.616, de 08 de novembro de 1978.
 
 Concede reconhecimento ao Curso de Comunicação Social, ministrado pela Faculdade de Comunicação Social de Barra Mansa, no Estado do Rio de Janeiro.

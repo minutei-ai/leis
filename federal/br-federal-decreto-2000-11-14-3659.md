@@ -1,5 +1,3 @@
-###DEC-003659-0-000-14-11-2000@@@
-
 DECRETO Nº 3.659, DE 14 DE NOVEMBRO DE 2000
 
 Regulamento a autorização e a fiscalização de jogos de bingo, e dá outras providências.

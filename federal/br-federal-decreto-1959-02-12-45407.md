@@ -1,5 +1,3 @@
-###DEC-045407-0-000-12-02-1959@@@
-
 DECRETO Nº 45.407, DE 12 DE FEVEREIRO DE 1959.
 
 Aprova o Regulamento da Diretoria Técnica da Diretoria Geral de Saúde do Exército (DT/DGSE)

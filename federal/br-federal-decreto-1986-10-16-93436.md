@@ -1,5 +1,3 @@
-###DEC-093436-0-000-16-10-1986@@@
-
 DECRETO Nº 93.436, DE 16 DE OUTUBRO DE 1986
 
 Outorga concessão à RÁDIO LITORAL MARANHENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Luís, Estado do Maranhão.

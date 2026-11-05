@@ -1,5 +1,3 @@
-###DEC-002475-0-000-27-01-1998@@@
-
 DECRETO Nº 2.475, DE 27 DE JANEIRO DE 1998
 
 Inclui produtos na Lista de Exceções à Tarifa Externa Comum - TEC, do MERCOSUL.
@@ -10,7 +8,41 @@ DECRETA:
 
 Art. 1º Na Lista Básica de Exceções à Tarifa Externa Comum - TEC, que constitui o Anexo II do Decreto nº 2.376, de 12 de novembro de 1997, ficam incluídos os seguintes produtos e respectivos cronogramas de convergências
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">CÓDIGO</span></p></td><td style="width:184pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">DESCRIÇÃO</span></p></td><td style="width:44.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">1998</span></p></td><td style="width:30.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01/01/1999</span></p></td><td style="width:30.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01/01/2000</span></p></td><td style="width:30.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">01/01/2001</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2207.10.00</span></p></td><td style="width:184pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Álcool etílico não desnaturado, com um teor alcoólico em volume igual ao superior a 80% vol, para fins carburantes</span></p></td><td style="width:44.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td><td style="width:30.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td><td style="width:30.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td><td style="width:30.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr><tr><td style="width:51.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2207.20.10</span></p></td><td style="width:184pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Álcool etílico, para fins carburantes</span></p></td><td style="width:44.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">35</span></p></td><td style="width:30.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">30</span></p></td><td style="width:30.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">25</span></p></td><td style="width:30.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td></tr></tbody></table>
+CÓDIGO
+
+DESCRIÇÃO
+
+1998
+
+01/01/1999
+
+01/01/2000
+
+01/01/2001
+
+2207.10.00
+
+Álcool etílico não desnaturado, com um teor alcoólico em volume igual ao superior a 80% vol, para fins carburantes
+
+35
+
+30
+
+25
+
+20
+
+2207.20.10
+
+Álcool etílico, para fins carburantes
+
+35
+
+30
+
+25
+
+20
 
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 

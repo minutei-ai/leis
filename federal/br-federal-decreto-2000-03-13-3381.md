@@ -1,5 +1,3 @@
-###DEC-003381-0-000-13-03-2000@@@
-
 DECRETO Nº 3.381, DE 13 DE MARÇO DE 2000.
 
 Dá nova redação aos §§ 2º e 4º do art. 1º do Decreto nº 2.673, de 16 de julho de 1998, que dispõe sobre o pagamento, pelas empresas estatais federais, de dividendos ou de juros sobre o capital próprio.

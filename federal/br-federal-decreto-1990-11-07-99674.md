@@ -1,7 +1,3 @@
-1
-
-###DEC-099674-0-000-07-11-1990@@@
-
 DECRETO N° 99.674, DE 7 DE NOVEMBRO DE 1990.
 
 Altera a redução do § 2° do artigo 1° do Decreto n° 99.478, de 27 de agosto de 1990.

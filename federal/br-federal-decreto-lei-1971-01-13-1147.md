@@ -1,5 +1,3 @@
-###DEL-001147-0-000-13-01-1971@@@
-
 # DECRETO-LEI Nº 1.147, DE 13 DE JANEIRO DE 1971
 
 Altera para o exercício de 1971, a distribuição do produto da arrecadação dos impostos únicos.

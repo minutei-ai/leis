@@ -1,5 +1,3 @@
-###DEC-045034-0-000-05-12-1958@@@
-
 DECRETO Nº 45.034, DE 5 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno situada no Município de Pentecoste, Estado do Ceará.

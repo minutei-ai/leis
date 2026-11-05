@@ -1,5 +1,3 @@
-###DEC-051462-0-000-08-05-1962@@@
-
 DECRETO Nº 51.462, DE 8 DE MAIO DE 1962.
 
 Dispõe sôbre a nomeação interina de ex-combatentes, no Serviço Civil do Poder Executivo, e dá outras providências.

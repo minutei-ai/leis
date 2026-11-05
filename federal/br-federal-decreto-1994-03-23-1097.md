@@ -1,7 +1,3 @@
-1
-
-###DEC-001097-0-000-23-03-1994@@@
-
 DECRETO Nº 1.097, DE 23 DE MARÇO DE 1994
 
 Dispõe sobre providências relativas às entidades de fins filantrópicos.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/9f764511-c82e-4ba7-817b-de54bbd1ceae/texto#nowhere)
 
-###DEL-001702-0-000-18-10-1979@@@
-
 # Decreto-lei nº 1.702, de 18 de outubro de 1979
 
 Dispõe sobre a contribuição para análise e fiscalização de projetos técnico-econômico nas áreas da SUDAM e da SUDENE, e dá outras providências.

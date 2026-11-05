@@ -1,5 +1,3 @@
-###DEC-069228-0-000-21-09-1971@@@
-
 DECRETO Nº 69.228, DE 21 DE SETEMBRO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Agricultura, e dá outras providências.

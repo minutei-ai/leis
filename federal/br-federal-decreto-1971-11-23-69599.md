@@ -1,5 +1,3 @@
-###DEC-069599-0-000-23-11-1971@@@
-
 DECRETO Nº 69.599 - DE 23 de NOVEMBRO DE 1971
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Paranavai - Paraná.

@@ -1,5 +1,3 @@
-###DEC-084030-0-000-26-09-1979@@@
-
 decreto nº 84.030, de 26 de setembro de 1979.
 
 Suspende, por inconstitucionalidade, a execução do artigo 1º e seu parágrafo único do Decreto nº 4.995, de 25 de março de 1970, do Estado da Paraíba.

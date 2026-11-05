@@ -1,5 +1,3 @@
-###DEC-049660-0-000-31-12-1960@@@
-
 DECRETO Nº 49.660, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à Companhia de Cimento Portland Alvorada autorização para funcionar como emprêsa de mineração.

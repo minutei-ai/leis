@@ -1,5 +1,3 @@
-###DEC-094113-0-000-19-03-1987@@@
-
 DECRETO N° 94.113, DE 19 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Agropecuária Mercedina", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situado no Município Bataiporã, no Estado de Mato Grosso do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.621, de 2 de maio de 1986, e dá outras providências.

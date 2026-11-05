@@ -1,5 +1,3 @@
-###DEC-050326-0-000-08-03-1961@@@
-
 DECRETO Nº 50.326, DE 8 DE MARÇO DE 1961.
 
 Aprova a tabela dos índices de reajustamento das aposentadorias e pensões e benefícios de manutenção de salário em vigor nos Institutos de aposentadorias e Pensões a que se refere o Art. 67 e seus parágrafos da Lei nº 3.807, de 26 de agôsto de 1960, combinados com os Artigos 116 a 118 dos respectivo regulamento aprovado pelo Decreto nº 48.959-A, de 19 de setembro de 1960.
@@ -12,7 +10,19 @@ Art. 1º Os valores das aposentadorias e pensões nos Institutos de Aposentadori
 
 Art. 2º Os coeficientes de reajustamento dos benefícios a que alude o Art. 1º serão os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:93.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Coeficiente</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Aposentadorias e pensões globais e benefícios de manutenção </span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>de salários concedidos até 31 de dezembro de 1958 ............................</span></p></td><td style="width:93.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,68</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Aposentadorias e pensões globais e benefícios de manutenção</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>De salários iniciados em 1959 ................................................................</span></p></td><td style="width:93.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,26</span></p></td></tr></tbody></table>
+Coeficiente
+
+Aposentadorias e pensões globais e benefícios de manutenção
+
+de salários concedidos até 31 de dezembro de 1958 ............................
+
+1,68
+
+Aposentadorias e pensões globais e benefícios de manutenção
+
+De salários iniciados em 1959 ................................................................
+
+1,26
 
 § 1º O coeficiente relativo aos benefícios concedidos até o ano de 1957, inclusive, se aplica aos valores adquiridos pelos mesmos após o reajustamento determinado pelo Decreto nº 47.149, de 29 de outubro de 1959.
 

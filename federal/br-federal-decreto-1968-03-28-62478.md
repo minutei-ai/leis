@@ -1,5 +1,3 @@
-###DEC-062478-0-000-28-03-1968@@@
-
 DECRETO Nº 62.478, DE 28 DE MARÇO DE 1968.
 
 Autoriza o Ministério da Fazenda a assinar aditivos ao Convênio existente entre a Comissão Executiva do Plano de Recuperação Econômico-Rural da Lavoura Cacaueira (CEPLAC) e o Instituto Interamericano de Ciências Agrícolas da Organização dos Estados Americanos (IICA).

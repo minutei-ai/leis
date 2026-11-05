@@ -1,5 +1,3 @@
-###DEC-053032-0-000-28-11-1963@@@
-
 DECRETO Nº 53.032, DE 28 DE NOVEMBRO DE 1963.
 
 Autoriza a cidadã brasileira Maria Nóbrega de Andrade a Pesquisar fosfato no município de João Pessoa, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-071202-0-000-04-10-1972@@@
-
 DECRETO Nº 71.202 - DE 4 DE OUTUBRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado em Porto Alegre,  Estado do Rio Grande do Sul.

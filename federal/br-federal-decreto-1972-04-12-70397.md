@@ -1,5 +1,3 @@
-###DEC-070397-0-000-12-04-1972@@@
-
 DECRETO Nº 70.397, DE 12 DE ABRIL DE 1972.
 
 Extingue a Companhia de Serviços da Diretoria de Especialização e Extensão.

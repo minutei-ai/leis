@@ -1,5 +1,3 @@
-###DEC-056479-0-000-18-06-1965@@@
-
 DECRETO Nº 56.479, DE 18 DE JUNHO DE 1965.
 
 Concede à sociedade Transportes Marítimos Araújo S.A. autorização para continuar a funcionar como empresa de navegação de cabotagem.

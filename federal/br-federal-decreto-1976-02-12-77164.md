@@ -1,5 +1,3 @@
-###DEC-077164-0-000-12-02-1976@@@
-
 DECRETO Nº 77.164, DE 12 DE FEVEREIRO DE 1976.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Itapetininga, com sede na Cidade de Itapetininga, Estado de São Paulo.

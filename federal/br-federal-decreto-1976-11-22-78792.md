@@ -1,5 +1,3 @@
-###DEC-078792-0-000-22-11-1976@@@
-
 DECRETO Nº 78.792, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à Mineração Phoenix Limitada, o direito de lavrar vermiculita e talco no Município de Brumado, Estado da Bahia.

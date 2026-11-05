@@ -1,5 +1,3 @@
-###DEC-048600-0-000-25-07-1960@@@
-
 DECRETO Nº 48.600, DE 25 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Feres Dequech a pesquisar serpentinito, no município de Rio Negro, Estado do Paraná.

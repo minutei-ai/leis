@@ -1,5 +1,3 @@
-###DEC-002680-0-000-17-07-1998@@@
-
 DECRETO Nº 2.680, DE 17 DE JULHO DE 1998
 
 Altera a redação e acresce dispositivo ao Decreto nº 433, de 24 de janeiro de 1992, que dispõe sobre a aquisição de imóveis rurais, para fins de reforma agrária, por meio de compra e venda.

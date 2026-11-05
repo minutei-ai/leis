@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208906)<br>
-
 # DECRETO N° 68.160, DE 09 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária de Rodovias do Oeste de São Paulo - VIAOESTE S/A., as áreas necessárias à implantação de dispositivo de acesso e retorno no km 75+900m da Rodovia Raposo Tavares, SP - 270, no Município de Alumínio, e dá providências correlatas._

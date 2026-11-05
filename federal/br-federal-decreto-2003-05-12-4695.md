@@ -1,5 +1,3 @@
-###DEC-004695-0-000-12-05-2003@@@
-
 DECRETO Nº 4.695, DE 12 DE MAIO DE 2003.
 
        Altera o inciso IX do art. 1o do Decreto no 3.648, de 30 de outubro de 2000, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz e dá outras providências.
@@ -20,5 +18,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 12 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Jose Viegas Filho

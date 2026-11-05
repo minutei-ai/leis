@@ -1,5 +1,3 @@
-###DEC-076814-0-000-16-12-1975@@@
-
 DECRETO Nº 76.814, DE 16 DE DEZEMBRO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona. situado no Estado do Rio de Janeiro.
@@ -23,8 +21,6 @@ Silvio Frota
 Mário Henrique Simonsen
 
 ## RETIFICAÇÃO
-
-###DEC-076814-0-000-16-12-1975@@@
 
 DECRETO Nº 76.814, DE 16 DE DEZEMBRO DE 1975.
 

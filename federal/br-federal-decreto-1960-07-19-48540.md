@@ -1,5 +1,3 @@
-###DEC-048540-0-000-19-07-1960@@@
-
 DECRETO Nº 48.540, DE 21 DE JULHO DE 1960.
 
 Aceita para todos os efeitos doação de terrenos feita ao Ministério da Aeronáutica no Município de Parnarama, Estado do Maranhão.

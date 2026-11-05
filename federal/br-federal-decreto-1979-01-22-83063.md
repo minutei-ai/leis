@@ -1,5 +1,3 @@
-###DEC-083063-0-000-22-01-1979@@@
-
 DECRETO Nº 83.063, DE 22 DE JANEIRO DE 1979
 
 Altera o Decreto nº 80.161, de 15 de agosto de 1977, que autorizou a transformação dos Cursos de Desenho e de Educação Musical, em curso de Educação Artística da Universidade de Passo Fundo, Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-069389-0-000-20-10-1971@@@
-
 DECRETO Nº 69.389, DE 20 DE OUTUBRO DE 1971.
 
 Autoriza Furnas - Centrais Elétricas S.A., a construir linha de transmissão e dá outras providências.

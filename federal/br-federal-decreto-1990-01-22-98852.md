@@ -1,7 +1,3 @@
-1
-
-###DEC-098852-0-000-22-01-1990@@@
-
 DECRETO Nº 98.852, DE 22 DE JANEIRO DE 1990
 
 Homologa a demarcação da Terra Indígena que menciona, no Estado do Maranhão.

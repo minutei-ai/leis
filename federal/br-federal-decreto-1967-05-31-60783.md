@@ -1,5 +1,3 @@
-###DEC-060783-0-000-31-05-1967@@@
-
 DECRETO Nº 60.783, DE 31 DE MAIO DE 1967.
 
 Outorga à Espírito Santo Centrais Elétricas S.A., autorização para o estudo dos recursos hidráulicos de trecho do Rio Pancas, município de Pancas, Estado do Espírito Santo.

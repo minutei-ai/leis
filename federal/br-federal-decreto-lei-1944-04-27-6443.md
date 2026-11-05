@@ -1,5 +1,3 @@
-###DEL-006443-0-000-27-04-1944@@@
-
 DECRETO-LEI N. 6.443 – DE 27 DE ABRIL DE 1944
 
 Prorroga por 90 dias a vigência do Decreto-lei nº 6.198, de 13 de janeiro do corrente ano

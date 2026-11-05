@@ -1,5 +1,3 @@
-###DEC-004586-0-000-05-02-2003@@@
-
 DECRETO Nº 4.586, DE 5 DE FEVEREIRO DE 2003.
 
        Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais, para 2003, e dá outras providências.
@@ -26,5 +24,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 5 de fevereiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

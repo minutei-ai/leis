@@ -1,5 +1,3 @@
-###DEC-049077-0-000-07-10-1960@@@
-
 DECRETO Nº 49.077, DE 7 DE OUTUBRO DE 1960.
 
 Declara de utilidade pública a faixa necessária à construção da linha de transmissão Anhanguera-Jundiaí e do ramal de Perus, e autoriza a respectiva desapropriação.
@@ -151,8 +149,6 @@ Brasília, 7 de outubro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Antônio Barros Carvalho
-
-###DEC-049077-0-000-07-10-1960@@@RET01+++
 
 Decreto nº 49.077, de 7 de outubro de 1960.
 

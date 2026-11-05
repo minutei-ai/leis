@@ -1,5 +1,3 @@
-###MPV-001712-0-003-19-11-1998@@@
-
 medida provisória nº 1.712-3, de 19 de novembro de 1998.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$7.556.000,00, para os fins que especifica.

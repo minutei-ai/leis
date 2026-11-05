@@ -1,5 +1,3 @@
-###DEC-094177-0-000-03-04-1987@@@
-
 DECRETO N° 94.177, DE 3 DE ABRIL DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Mucambinho", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Santa Luz, no Estado da Bahia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.689, de 19 de maio de 1986, e dá outras providências.

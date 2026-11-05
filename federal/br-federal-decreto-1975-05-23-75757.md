@@ -1,5 +1,3 @@
-###DEC-075757-0-000-23-05-1975@@@
-
 DECRETO Nº 75.757, de 23 de maio de 1975.
 
 Altera a redação do inciso II do artigo 11 do regulamento do Imposto Único sobre Minerais aprovado pelo Decreto número 66.694, de 11 de junho de 1970.

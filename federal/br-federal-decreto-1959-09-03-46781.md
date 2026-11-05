@@ -1,5 +1,3 @@
-###DEC-046781-0-000-03-09-1959@@@
-
 decreto nº 46.781, de 3 de setembro de 1959.
 
 Autoriza o cidadão brasileiro Domício Gondim Barreto a pesquisar minério de zinco, chumbo e cobre no município de Januário, Estado de Minas Gerais.

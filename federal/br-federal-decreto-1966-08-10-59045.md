@@ -1,5 +1,3 @@
-###DEC-059045-0-000-10-08-1966@@@
-
 DECRETO Nº 59.045, DE 10 DE AGÔSTO DE 1966.
 
 Aprova o Regimento do Gabinete do Ministro da Justiça e Negócios Interiores.

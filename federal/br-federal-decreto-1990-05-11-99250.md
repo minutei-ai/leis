@@ -1,7 +1,3 @@
-1
-
-###DEC-099250-0-000-11-05-1990@@@
-
 DECRETO Nº 99.250, DE 11 DE MAIO DE 1990
 
 Institui o Programa Nacional de Racionalização da Produção e do Uso de Energia e dá outras providências.

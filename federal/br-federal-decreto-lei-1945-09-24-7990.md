@@ -1,5 +1,3 @@
-###DEL-007990-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.990 – DE 2 DE SETEMBRO DE 1945
 
 Concede o prazo de noventa dias trabalhadores braçais para apresentarem prova de quitação com o serviço militar.

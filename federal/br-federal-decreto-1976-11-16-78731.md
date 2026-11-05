@@ -1,5 +1,3 @@
-###DEC-078731-0-000-16-11-1976@@@
-
 DECRETO Nº 78.731, DE 16 DE NOVEMBRO DE 1976.
 
 Altera a redação dos artigos 11 e 13 do Estatuto da Fundação Movimento Brasileiro de Alfabetização (MOBRAL).

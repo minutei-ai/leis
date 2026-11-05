@@ -1,5 +1,3 @@
-###DEC-000054-0-000-08-03-1991@@@
-
 DECRETO Nº 54, DE 8 DE MARÇO DE 1991.
 
 Promulga o Acordo Básico Referente à Ajuda do Programa Mundial de Alimentos, entre o Governo da República Federativa do Brasil e o Programa Mundial de Alimentos da Organização das Nações Unidas para Alimentação e Agricultura - FAO.

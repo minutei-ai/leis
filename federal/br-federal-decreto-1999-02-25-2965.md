@@ -1,5 +1,3 @@
-###DEC-002965-0-000-25-02-1999@@@
-
 DECRETO Nº 2.965, DE 25 DE FEVEREIRO DE 1999.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Instituto Interamericano para Pesquisa em Mundanças Globais acerca da Sede do IAI celebrado, no Rio de Janeiro, em 28 de abril de 1995.
@@ -254,7 +252,17 @@ Este Acordo expirará caso a sede do IAI seja transferida do território do paí
 
 Feito no Rio de janeiro, em 28 de abril de 1995, em dois exemplares originais, nos idiomas português, espanhol, inglês e francês, sendo todos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Instituto Interamericano para Pesquisa Em Mudanças Globais</span></p></td></tr><tr><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Israel Vargas</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Robert Corell</span></p></td></tr><tr><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Professor</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado da Ciência e Tecnologia</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-top:6pt; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Instituto Interamericano para Pesquisa Em Mudanças Globais
+
+José Israel Vargas
+
+Robert Corell
+
+Professor
+
+Ministro de Estado da Ciência e Tecnologia
 
 Anexo A
 

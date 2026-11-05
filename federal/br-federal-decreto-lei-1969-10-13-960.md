@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3d89877c-2303-4aa8-9e87-86522dd40fcf/texto#nowhere)
 
-###DEL-000960-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 960, DE 13 DE OUTUBRO DE 1969
 
 Revoga o Decreto-Lei nº 9.049, de 11 de março de 1946.

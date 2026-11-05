@@ -1,5 +1,3 @@
-###DEC-079022-0-000-23-12-1976@@@
-
 DECRETO Nº 79.022, DE 23 DE DEZEMBRO DE 1976.
 
 Autoriza a transformação das licenciaturas plenas de Física, de Química, de Matemática e de Ciências Biológicas do Instituto de Ciências Biológicas, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

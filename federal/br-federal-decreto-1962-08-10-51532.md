@@ -1,5 +1,3 @@
-###DEC-051532-0-000-10-08-1962@@@
-
 DECRETO Nº 51.532, DE 10 DE AGÔSTO DE 1962.
 
 Designa liquidante do Conselho Coordenador do Abastecimento e dá outras providências.

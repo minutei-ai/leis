@@ -1,5 +1,3 @@
-###DEC-046600-0-000-14-08-1959@@@
-
 DECRETO nº 46.600, de 14 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro Manoel Batista Sampaio a lavrar minérios de ferro e manganês no município de Betim, Estado de Minas Gerais.

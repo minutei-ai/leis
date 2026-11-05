@@ -1,5 +1,3 @@
-###DEL-006314-0-000-03-03-1944@@@
-
 DECRETO-LEI  N. 6.314 – DE 3 DE MARÇO DE 1944
 
 Cria o 3º Corpo de Trem Misto

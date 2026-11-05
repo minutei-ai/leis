@@ -1,5 +1,3 @@
-###DEC-095467-0-000-11-12-1987@@@
-
 DECRETO Nº 95.467, DE 11 DE DEZEMBRO DE 1987
 
 Outorga concessão à RÁDIO EDUCADORA DE BELÉM LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Belém de São Francisco, Estado de Pernambuco.

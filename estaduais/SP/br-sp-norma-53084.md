@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53084)
-
 # LEI Nº 11.913, DE 24 DE MARÇO DE 2005
 
 ## (PL 443/2004 - Célia Leão)

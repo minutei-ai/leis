@@ -1,5 +1,3 @@
-###DEC-073653-0-000-15-02-1974@@@
-
 DECRETO Nº 73.653, DE 15 FEVEREIRO DE 1974.
 
 Estabelece normas de execução orçamentária, define a programação financeira do Tesouro Nacional, no exercício de 1974 e dá outra providência.

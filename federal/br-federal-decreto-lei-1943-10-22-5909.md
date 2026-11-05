@@ -1,5 +1,3 @@
-###DEL-005909-0-000-22-10-1943@@@
-
 DECRETO‑LEI N. 5.909 – DE 22 DE OUTUBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito de Cr$ 82.000,00, à verba que específica
@@ -16,13 +14,19 @@ Consignação II – Material de Consumo
 
 S/c. n 17 – Artigos de expediente, desenho, ensino e educação; artigos; escolares para distribuição; fichas e livros de escrituração; impressos e material de classificação.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>22 – Delegacias Fiscais..............................................</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 80. 000,00</span></p></td></tr></tbody></table>
+22 – Delegacias Fiscais..............................................
+
+Cr$ 80. 000,00
 
 Consignação III – Diversas Despesas
 
 S/c. n. 42 – Telefone, telefonemas, telegramas, radio­gramas e porte postal
 
-<table cellspacing="0" cellpadding="0" style="margin-left:7.1pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>22 – Delegacias Fiscais..............................................</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 2.000,00</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:106.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 82. 000,00</span></p></td></tr></tbody></table>
+22 – Delegacias Fiscais..............................................
+
+Cr$ 2.000,00
+
+Cr$ 82. 000,00
 
 Parágrafo único. O crédito a que se refere êste artigo se destina à De­legacia Fiscal do Tesouro Nacional no Estado de São Paulo.
 

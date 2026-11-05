@@ -1,5 +1,3 @@
-###DEL-001498-0-000-20-12-1976@@@
-
 # DECRETO-LEI Nº 1.498, DE 20 DE DEZEMBRO DE 1976
 
 Inclui dispositivos no Decreto-lei número 1.445, de 13 de fevereiro de 1976, que reajustou os vencimentos e salários dos servidores civis do Poder Executivo, dos membros da Magistratura e do Tribunal de Contas da União.

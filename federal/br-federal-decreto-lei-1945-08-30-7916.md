@@ -1,5 +1,3 @@
-###DEL-007916-0-000-30-08-1945@@@
-
 DECRETO-LEI N. 7.916 – DE 30 DE AGÔSTO DE 1945
 
 Dispõe sôbre a distribuição das terras devolutas nos Territórios Federais e dá outras providências.

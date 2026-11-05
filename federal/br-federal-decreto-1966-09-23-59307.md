@@ -1,5 +1,3 @@
-###DEC-059307-0-000-23-09-1966@@@
-
 DERETO Nº 59.307, DE 23 DE SETEMBRO DE 1966.
 
 Institui o Boletim de Serviço do Ministério das Relações Exteriores.

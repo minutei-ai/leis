@@ -1,5 +1,3 @@
-###DEL-007574-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.574 – DE 21 DE MAIO DE 1945
 
 Modifica o quadro de oficiais médicos do Corpo de Bombeiros do Distrito Federal e dá outras providências

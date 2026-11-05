@@ -1,14 +1,12 @@
-###DEC-034789-0-000-16-12-1953@@@
+**DECRETO Nº 34.789, DE 16 DE DEZEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.789, DE 16 DE DEZEMBRO DE 1953.</strong>
+***Cria o Distintivo do Curso de Estado-Maior e Comando das Fôrças Armadas da Escola Superior de Guerra.***
 
-<em><strong>Cria o Distintivo do Curso de Estado-Maior e Comando das Fôrças Armadas da Escola Superior de Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criado o Distintivo do Curso de Estado-Maior e Comando das Fôrças Armadas, da Escola Superior de Guerra, de acôrdo com o modêlo que acompanha o presente Decreto e com as seguintes características:
+**Art**. 1º Fica criado o Distintivo do Curso de Estado-Maior e Comando das Fôrças Armadas, da Escola Superior de Guerra, de acôrdo com o modêlo que acompanha o presente Decreto e com as seguintes características:
 
 a) sôbre um resplendor destaca-se um escudo representativo das três Fôrças Armadas;
 
@@ -22,13 +20,13 @@ e) O Distintivo constituirá uma peça única, ligeiramente convexa, estampada e
 
 f) Tamanho e forma de acôrdo com o modêlo.
 
-<strong>Art</strong>. 2º O Distintivo será usado sôbre o bôlso superior direito da túnica ou na posição correspondente.
+**Art**. 2º O Distintivo será usado sôbre o bôlso superior direito da túnica ou na posição correspondente.
 
-<strong>Art</strong>. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 16 de dezembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 

@@ -1,5 +1,3 @@
-###DEC-080983-0-000-12-12-1977@@@
-
 Decreto nº 80.983, de 12 de dezembro de 1977.
 
 Concede à Ita Mineração Ltda., o direito de lavrar calcário dolomítico no Município de Três Rios, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-049687-0-000-31-12-1960@@@
-
 DECRETO Nº 49.687, DE 31 DE DEZEMBRO DE 1960.
 
 Declara de utilidade pública a faixa de terra destinada à passagem da linha de transmissão da Companhia Hidro Elétrica do São Francisco, de 13,8 kV, de Caruaru a São Caetano, no Estado de Pernambuco.

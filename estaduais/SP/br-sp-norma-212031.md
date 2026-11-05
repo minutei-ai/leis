@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212031)<br>
-
 # DECRETO N° 70.225, DE 19 DE DEZEMBRO DE 2025
 
 ### _Reorganiza e altera a denominação do Restaurante Popular para Restaurante Bom Prato, é dá providências correlatas._
@@ -56,7 +54,8 @@ Arthur Luis Pinho de Lima
 
 Juliana Felicidade Armede
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 3° deste decreto
 
 #### MINUTA DE TERMO DE COLABORAÇÃO
@@ -65,14 +64,16 @@ TERMO DE COLABORAÇÃO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERM�
 
 O ESTADO DE SÃO PAULO, por sua SECRETARIA de DESENVOLVIMENTO SOCIAL, com sede na Rua\_\_\_\_\_, São Paulo, SP, inscrita no CNPJ/MF sob n° 69.122.893/0001-44, representada neste ato, por seu titular, \_\_\_\_\_\_\_ \[NOME COMPLETO DO SECRETÁRIO\], inscrito no CPF/MF sob n°\_\_, devidamente autorizado na forma do Decreto n°, de de de 20\_\_, doravante SECRETARIA, e \[ORGANIZAÇÃO DA SOCIEDADE CIVIL\], com sede \[logradouro, número, bairro, cidade, Estado\], inscrita no CNPJ/MF sob n°\_\_, representada neste ato, por seu \[cargo do dirigente / procurador\], \[NOME COMPLETO DO DIRIGENTE / PROCURADOR\], inscrito no CPF/MF sob n°\_\_, doravante OSC, com fundamento no que dispõem a Lei federal n° 13.019, de 31 de julho de 2014, e o Decreto n° 61.981, de 20 de maio de 2016, e suas alterações, resolvem firmar o presente Termo de Colaboração, que será regido pelas cláusulas e condições que seguem.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 O presente Termo de Colaboração, decorrente de chamamento público n°\_\_, tem por objeto a transferência de recursos financeiros à OSC, objetivando disponibilizar às pessoas em situação de vulnerabilidade social e insegurança alimentar uma alimentação de qualidade, a preços acessíveis, na unidade \_\_\_\_ do Restaurante Bom Prato, consoante o plano de trabalho anexo, parte integrante indissociável deste ajuste (Anexo I).
 
 **Parágrafo único -** O plano de trabalho poderá ser revisto para alteração de valores ou de metas, mediante termo aditivo, respeitada a legislação vigente e após proposta previamente justificada pela OSC e acolhida em parecer técnico favorável do órgão competente, ratificado pelo Titular da SECRETARIA, vedada alteração do objeto.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Responsabilidades e Obrigações
 
 São responsabilidades e obrigações, além de outros compromissos assumidos por meio deste termo e respectivo plano de trabalho, os previstos na Lei federal n° 13.019, de 31 de julho de 2014, no Decreto n° 61.981, de 20 de maio de 2016, e legislação e regulamentação aplicáveis à espécie:
@@ -193,7 +194,8 @@ z2) responsabilizar-se pela legalidade e regularidade das despesas realizadas pa
 
 z3) responsabilizar-se, exclusivamente, pelo gerenciamento administrativo e financeiro dos recursos recebidos, inclusive no que diz respeito às despesas de custeio, de investimento e de pessoal.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Gestor da Parceria
 
 O gestor fará a interlocução técnica com a OSC, bem como o acompanhamento e a fiscalização da execução do objeto da parceria, devendo zelar pelo seu adequado cumprimento e por manter a SECRETARIA informada sobre o andamento das atividades, competindo-lhe em especial:
@@ -222,14 +224,16 @@ VIII - realizar a conferência e a checagem do cumprimento das metas e suas resp
 
 **§ 4° -** Em caso de vacância da função de gestor, o Secretário de Desenvolvimento Social ou quem ele indicar assumirá interinamente a gestão da parceria, por meio de simples apostilamento, até a indicação de novo gestor.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Monitoramento e da Avaliação de Resultados
 
 Os resultados alcançados com a execução do objeto da parceria devem ser monitorados e avaliados sistematicamente por meio de relatórios técnicos emitidos por responsável designado pelo Secretário de Desenvolvimento Social em ato próprio, na forma do artigo 59 da Lei federal n° 13.019, de 31 de julho de 2014.
 
 **Parágrafo único -** A periodicidade e a quantidade dos relatórios técnicos previstos no "caput" desta cláusula serão estipuladas pela Comissão de Monitoramento e Avaliação.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Comissão de Monitoramento e Avaliação
 
 Compete à Comissão de Monitoramento e Avaliação:
@@ -246,7 +250,8 @@ V - solicitar aos demais órgãos da SECRETARIA ou à OSC esclarecimentos que se
 
 VI - emitir relatório conclusivo sobre os resultados alcançados no período, contendo a nota da parceria, avaliação das justificativas apresentadas no relatório técnico de monitoramento e avaliação, recomendações, críticas e sugestões.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Dos Recursos Financeiros
 
 O valor total da presente parceria é de R$\_\_ (valor da parceria por extenso), sendo R$ \_\_ (valor do cofinanciamento estadual por extenso) de responsabilidade da SECRETARIA, advindo do programa de trabalho\_\_, onerando a U.O. \_\_\_ \[nomenclatura da UO\], U.G.O. \_\_, U.G.E. \_\_, natureza da despesa \_\_ \[nomenclatura da natureza da despesa\], e R$ \_\_ (valor da contrapartida da OSC por extenso) como contrapartida \[financeira / não financeira\].
@@ -261,7 +266,8 @@ O valor total da presente parceria é de R$\_\_ (valor da parceria por extenso),
 
 **§ 4° -** É vedada a realização de despesas, à conta dos recursos destinados à parceria, para finalidades diversas ao objeto pactuado, mesmo que em caráter de urgência.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Cessão e da Administração dos Bens Públicos
 
 Durante o período de vigência desta parceria, poderão ser destinados à OSC bens públicos necessários ao seu cumprimento, os quais poderão ser disponibilizados por meio de disposição constante do plano de trabalho, de permissão de uso ou de instrumento equivalente em que se transfira a responsabilidade pelo seu uso e guarda, na forma da lei.
@@ -270,7 +276,8 @@ Durante o período de vigência desta parceria, poderão ser destinados à OSC b
 
 **§ 2° -** Extinto o ajuste por realização integral de seu objeto, os bens adquiridos com recursos da parceria poderão ser doados à própria OSC de acordo com o interesse público, mediante justificativa formal do Secretário de Desenvolvimento Social, atendidas as normas legais e regulamentares aplicáveis à espécie.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Prestação de Contas
 
 A OSC elaborará e apresentará à SECRETARIA prestação de contas na forma discriminada nesta cláusula, observando-se o Capítulo IV da Lei federal n° 13.019, de 31 de julho de 2014, o artigo 8° do Decreto n° 61.981, de 20 de maio de 2016, e demais legislação e regulamentação aplicáveis.
@@ -301,7 +308,8 @@ A OSC elaborará e apresentará à SECRETARIA prestação de contas na forma dis
 
 **§ 8° -** A responsabilidade da OSC pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais relativos ao funcionamento da instituição e à execução do objeto da parceria é exclusiva, não se caracterizando responsabilidade solidária ou subsidiária da SECRETARIA pelos respectivos pagamentos, qualquer oneração do objeto da parceria ou restrição à sua execução.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Vigência e da Prorrogação
 
 O prazo de vigência desta parceria é de \_\_ (número de meses por extenso) meses, a partir da data de sua assinatura.
@@ -310,7 +318,8 @@ O prazo de vigência desta parceria é de \_\_ (número de meses por extenso) me
 
 **§ 2° -** A SECRETARIA prorrogará de ofício a vigência da parceria quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente, seguidas as orientações contidas no Manual de Identidade Visual do Governo do Estado de São Paulo.
@@ -321,7 +330,8 @@ Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente,
 
 **§ 3° -** A divulgação de resultados técnicos, bem como todo e qualquer ato promocional relacionado ao desenvolvimento ou inovação tecnológica e/ou metodológica, decorrentes de trabalhos realizados no âmbito da presente parceria, deverá apresentar a marca do Governo do Estado de São Paulo, sendo vedada a sua divulgação total ou parcial sem o consentimento prévio e formal da SECRETARIA.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Proteção de Dados Pessoais
 
 A OSC deve cumprir a Lei federal n° 13.709/2018 no âmbito da execução do objeto desta parceria e observar as instruções por escrito da SECRETARIA no tratamento de dados pessoais.
@@ -356,7 +366,8 @@ A OSC deve cumprir a Lei federal n° 13.709/2018 no âmbito da execução do obj
 
 **§ 13 -** É vedada a transferência de dados pessoais, pela OSC, para fora do território do Brasil.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Da Denúncia e da Rescisão
 
 A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos partícipes mediante notificação escrita com antecedência de 90 (noventa) dias e será rescindida por infração legal ou descumprimento das obrigações assumidas, ou pela superveniência de norma legal ou fato que a torne jurídica, material ou formalmente inexequível.
@@ -369,19 +380,22 @@ A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos p
 
 **§ 4° -** A inobservância do disposto no parágrafo anterior ensejará a imediata instauração da tomada de contas especial, sem prejuízo da inscrição da OSC no Cadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Estaduais - CADIN estadual, nos termos da Lei n° 12.799, de 11 de janeiro de 2008.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Das Alterações
 
 Este termo poderá ser alterado, mediante termo aditivo, em qualquer de suas cláusulas e condições, exceto no que tange ao seu objeto, de comum acordo, desde que tal interesse seja manifestado por qualquer dos partícipes, previamente e por escrito, observado o disposto no parágrafo único da Cláusula Primeira.
 
-#### CLÁUSULA DÉCIMA QUARTA<br>
+#### CLÁUSULA DÉCIMA QUARTA
+
 Das Responsabilizações e das Sanções
 
 Pela execução da parceria em desacordo com o plano de trabalho e com as normas da Lei federal n° 13.019, de 2014 e da legislação específica, a SECRETARIA poderá, garantida a prévia defesa, aplicar à OSC as sanções previstas no artigo 73 da Lei federal n° 13.019, de 2014, observado o disposto no artigo 9° do Decreto n° 61.981, de 2016.
 
 **Parágrafo único -** Aplicadas as sanções previstas no caput desta cláusula, deverão ser as mesmas registradas no portal de parcerias com organizações da sociedade civil.
 
-#### CLÁUSULA DÉCIMA QUINTA<br>
+#### CLÁUSULA DÉCIMA QUINTA
+
 Das Disposições Gerais
 
 Acordam as partes, ainda, em estabelecer as condições seguintes:
@@ -394,7 +408,8 @@ III - todas as comunicações relativas a esta parceria serão consideradas como
 
 IV - As exigências que não puderem ser cumpridas por meio eletrônico deverão ser supridas através da regular instrução processual, em meio físico.
 
-#### CLÁUSULA DÉCIMA SEXTA<br>
+#### CLÁUSULA DÉCIMA SEXTA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer questões resultantes da execução ou da interpretação deste instrumento e que não puderem ser resolvidas administrativamente.
@@ -423,7 +438,8 @@ Nome:
 
 CPF:
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 3° deste decreto
 
 #### MINUTA DE TERMO DE COLABORAÇÃO
@@ -432,14 +448,16 @@ TERMO DE COLABORAÇÃO QUE ENTRE SI CELEBRAM O ESTADO DE SÃO PAULO, POR INTERM�
 
 O ESTADO DE SÃO PAULO, por sua SECRETARIA de DESENVOLVIMENTO SOCIAL, com sede na Rua \_\_\_\_\_, São Paulo, SP, inscrita no CNPJ/MF sob n° 69.122.893/0001-44, representada neste ato, por seu titular, \_\_\_\_\_\_\_ \[NOME COMPLETO DO SECRETÁRIO\], inscrito no CPF/MF sob n° \_\_, devidamente autorizado na forma do Decreto n°\_\_\_\_, de \_\_ de \_\_\_ de 20\_\_, doravante SECRETARIA, o Município de \_\_, inscrito no CNPJ n° \_\_, com sede na \_\_, neste ato devidamente representada por seu Prefeito, , R.G. \_\_, CPF \_\_, doravante MUNICÍPIO e, de outro lado, \[ORGANIZAÇÃO DA SOCIEDADE CIVIL\], com sede \[logradouro, número, bairro, cidade, Estado\], inscrita no CNPJ/MF sob n° , representada neste ato, por seu \[cargo do dirigente / procurador\], \[NOME COMPLETO DO DIRIGENTE / PROCURADOR\], inscrito no CPF/MF sob n° \_\_, doravante OSC, com fundamento no que dispõem a Lei federal n° 13.019, de 31 de julho de 2014, e o Decreto n° 61.981, de 20 de maio de 2016, e suas alterações, resolvem firmar o presente Termo de Colaboração, que será regido pelas cláusulas e condições que seguem:
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 O presente Termo de Colaboração, decorrente de chamamento público n° \_\_, tem por objeto a transferência de recursos financeiros à OSC, objetivando disponibilizar às pessoas em situação de vulnerabilidade social e insegurança alimentar uma alimentação de qualidade, a preços acessíveis, na unidade do Restaurante Bom Prato, consoante o plano de trabalho anexo, parte integrante indissociável deste ajuste (Anexo I).
 
 **Parágrafo único -** O plano de trabalho poderá ser revisto para alteração de valores ou de metas, mediante termo aditivo, respeitada a legislação vigente e após proposta previamente justificada pela OSC e acolhida em parecer técnico favorável do órgão competente, ratificado pelo Titular da SECRETARIA, vedada alteração do objeto.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Responsabilidades e Obrigações
 
 São responsabilidades e obrigações, além de outros compromissos assumidos por meio deste termo e respectivo plano de trabalho, os previstos na Lei federal n° 13.019, de 31 de julho de 2014, no Decreto n° 61.981, de 20 de maio de 2016, e legislação e regulamentação aplicáveis à espécie:
@@ -564,7 +582,8 @@ z2) responsabilizar-se pela legalidade e regularidade das despesas realizadas pa
 
 z3) responsabilizar-se, exclusivamente, pelo gerenciamento administrativo e financeiro dos recursos recebidos, inclusive no que diz respeito às despesas de custeio, de investimento e de pessoal.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Gestor da Parceria
 
 O gestor fará a interlocução técnica com a OSC, bem como o acompanhamento e a fiscalização da execução do objeto da parceria, devendo zelar pelo seu adequado cumprimento e por manter a SECRETARIA informada sobre o andamento das atividades, competindo-lhe em especial:
@@ -593,14 +612,16 @@ VIII - realizar a conferência e a checagem do cumprimento das metas e suas resp
 
 **§ 4° -** Em caso de vacância da função de gestor, o Secretário de Desenvolvimento Social ou quem ele indicar assumirá interinamente a gestão da parceria, por meio de simples apostilamento, até a indicação de novo gestor.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Monitoramento e da Avaliação de Resultados
 
 Os resultados alcançados com a execução do objeto da parceria devem ser monitorados e avaliados sistematicamente por meio de relatórios técnicos emitidos por responsável designado pelo Secretário de Desenvolvimento Social em ato próprio, na forma do artigo 59 da Lei federal n° 13.019, de 31 de julho de 2014.
 
 **Parágrafo único -** A periodicidade e a quantidade dos relatórios técnicos previstos no "caput" desta cláusula serão estipuladas pela Comissão de Monitoramento e Avaliação.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Comissão de Monitoramento e Avaliação
 
 Compete à Comissão de Monitoramento e Avaliação:
@@ -617,7 +638,8 @@ V - solicitar aos demais órgãos da SECRETARIA ou à OSC esclarecimentos que se
 
 VI - emitir relatório conclusivo sobre os resultados alcançados no período, contendo a nota da parceria, avaliação das justificativas apresentadas no relatório técnico de monitoramento e avaliação, recomendações, críticas e sugestões.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Dos Recursos Financeiros
 
 O valor total da presente parceria é de R$ (valor da parceria por extenso), dos quais R$ (\_\_) (valor do cofinanciamento estadual por extenso) recursos estaduais de responsabilidade da SECRETARIA, advindo do programa de trabalho \_\_, onerando a U.O. \_\_ \[nomenclatura da UO\], U.G.O. \_\_, U.G.E. \_\_, natureza da despesa \_\_ \[nomenclatura da natureza da despesa\], R$ (\_\_) (valor do cofinanciamento municipal por extenso) recursos municipais do programa de trabalho \_\_ e R$ \_\_ (valor da contrapartida da OSC por extenso) como contrapartida \[financeira / não financeira\].
@@ -632,7 +654,8 @@ O valor total da presente parceria é de R$ (valor da parceria por extenso), dos
 
 **§ 4° -** É vedada a realização de despesas, à conta dos recursos destinados à parceria, para finalidades diversas ao objeto pactuado, mesmo que em caráter de urgência.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Cessão e da Administração Dos Bens Públicos
 
 Durante o período de vigência desta parceria, poderão ser destinados à OSC bens públicos necessários ao seu cumprimento, os quais poderão ser disponibilizados por meio de disposição constante do plano de trabalho, de permissão de uso ou de instrumento equivalente em que se transfira a responsabilidade pelo seu uso e guarda, na forma da lei.
@@ -641,7 +664,8 @@ Durante o período de vigência desta parceria, poderão ser destinados à OSC b
 
 **§ 2° -** Extinto o ajuste por realização integral de seu objeto, os bens adquiridos com recursos da parceria poderão ser doados à própria OSC de acordo com o interesse público, mediante justificativa formal do Secretário de Desenvolvimento Social, atendidas as normas legais e regulamentares aplicáveis à espécie.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Prestação de Contas
 
 A OSC elaborará e apresentará à SECRETARIA e ao MUNICÍPIO prestação de contas na forma discriminada nesta cláusula, observando se o Capítulo IV da Lei federal n° 13.019, de 31 de julho de 2014, o artigo 8° do Decreto n° 61.981, de 20 de maio de 2016, e demais legislação e regulamentação aplicáveis.
@@ -672,7 +696,8 @@ A OSC elaborará e apresentará à SECRETARIA e ao MUNICÍPIO prestação de con
 
 **§ 8° -** A responsabilidade da OSC pelo pagamento dos encargos trabalhistas, previdenciários, fiscais e comerciais relativos ao funcionamento da instituição e à execução do objeto da parceria é exclusiva, não se caracterizando responsabilidade solidária ou subsidiária da SECRETARIA ou do MUNICÍPIO pelos respectivos pagamentos, qualquer oneração do objeto da parceria ou restrição à sua execução.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Vigência e da Prorrogação
 
 O prazo de vigência desta parceria é de \_\_ (número de meses por extenso) meses, a partir da data de sua assinatura.
@@ -681,7 +706,8 @@ O prazo de vigência desta parceria é de \_\_ (número de meses por extenso) me
 
 **§ 2° -** A SECRETARIA prorrogará de ofício a vigência da parceria quando der causa ao atraso na liberação dos recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente, seguidas as orientações contidas no Manual de Identidade Visual do Governo do Estado de São Paulo.
@@ -692,7 +718,8 @@ Em qualquer ação promocional relacionada à parceria serão, obrigatoriamente,
 
 **§ 3° -** A divulgação de resultados técnicos, bem como todo e qualquer ato promocional relacionado ao desenvolvimento ou inovação tecnológica e/ou metodológica, decorrentes de trabalhos realizados no âmbito da presente parceria, deverá apresentar a marca do Governo do Estado de São Paulo, sendo vedada a sua divulgação total ou parcial sem o consentimento prévio e formal da SECRETARIA.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Proteção de Dados Pessoais
 
 A OSC deve cumprir a Lei federal n° 13.709/2018 no âmbito da execução do objeto desta parceria e observar as instruções por escrito da SECRETARIA no tratamento de dados pessoais.
@@ -727,7 +754,8 @@ A OSC deve cumprir a Lei federal n° 13.709/2018 no âmbito da execução do obj
 
 **§ 13 -** É vedada a transferência de dados pessoais, pela OSC, para fora do território do Brasil.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Da Denúncia e da Rescisão
 
 A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos partícipes mediante notificação escrita com antecedência de 90 (noventa) dias e será rescindida por infração legal ou descumprimento das obrigações assumidas, ou pela superveniência de norma legal ou fato que a torne jurídica, material ou formalmente inexequível.
@@ -740,19 +768,22 @@ A presente parceria poderá, a qualquer tempo, ser denunciada por qualquer dos p
 
 **§ 4° -** A inobservância do disposto no parágrafo anterior ensejará a imediata instauração da tomada de contas especial, sem prejuízo da inscrição da OSC no Cadastro Informativo dos Créditos não Quitados de Órgãos e Entidades Estaduais - CADIN estadual, nos termos da Lei n° 12.799, de 11 de janeiro de 2008.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Das Alterações
 
 Este termo poderá ser alterado, mediante termo aditivo, em qualquer de suas cláusulas e condições, exceto no que tange ao seu objeto, de comum acordo, desde que tal interesse seja manifestado por qualquer dos partícipes, previamente e por escrito, observado o disposto no parágrafo único da Cláusula Primeira.
 
-#### CLÁUSULA DÉCIMA QUARTA<br>
+#### CLÁUSULA DÉCIMA QUARTA
+
 Das Responsabilizações e das Sanções
 
 Pela execução da parceria em desacordo com o plano de trabalho e com as normas da Lei federal n° 13.019, de 2014 e da legislação específica, a SECRETARIA poderá, garantida a prévia defesa, aplicar à OSC as sanções previstas no artigo 73 da Lei federal n° 13.019, de 2014, observado o disposto no artigo 9° do Decreto n° 61.981, de 2016.
 
 **Parágrafo único -** Aplicadas as sanções previstas no caput desta cláusula, deverão ser as mesmas registradas no portal de parcerias com organizações da sociedade civil.
 
-#### CLÁUSULA DÉCIMA QUINTA<br>
+#### CLÁUSULA DÉCIMA QUINTA
+
 Das Disposições Gerais
 
 Acordam as partes, ainda, em estabelecer as condições seguintes:
@@ -765,7 +796,8 @@ III - todas as comunicações relativas a esta parceria serão consideradas como
 
 IV - as exigências que não puderem ser cumpridas por meio eletrônico deverão ser supridas através da regular instrução processual, em meio físico.
 
-#### CLÁUSULA DÉCIMA SEXTA<br>
+#### CLÁUSULA DÉCIMA SEXTA
+
 Do Foro
 
 Fica eleito o Foro da Comarca da Capital do Estado de São Paulo para dirimir quaisquer questões resultantes da execução ou da interpretação deste instrumento e que não puderem ser resolvidas administrativamente.

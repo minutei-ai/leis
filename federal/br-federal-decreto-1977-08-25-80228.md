@@ -1,5 +1,3 @@
-###DEC-080228-0-000-25-08-1977@@@
-
 DECRETO Nº 80.228, DE 25 DE AGOSTO DE 1977.
 
 Regulamenta a Lei nº 6.251, de 8 de outubro de 1975, que institui normas gerais sobre desportos e dá outras providências.

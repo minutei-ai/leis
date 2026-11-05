@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209148)<br>
-
 # DECRETO N° 68.347, DE 29 DE FEVEREIRO DE 2024
 
 ### _Dispõe sobre o Sistema Estadual de Trânsito do Estado de São Paulo, o Conselho Estadual de Trânsito, as Juntas Administrativas de Recursos de Infrações, o Programa Respeito à Vida e o Sistema de Informações Gerenciais de Sinistros de Trânsito, e dá providências correlatas_
@@ -8,12 +6,14 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e cons
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objeto
 
 **Artigo 1° -** Este decreto dispõe sobre o Sistema Estadual de Trânsito - SISTRAN-SP, reorganiza o Conselho Estadual de Trânsito do Estado de São Paulo - CETRAN-SP e as Juntas Administrativas de Recursos de Infrações - JARIs, reformula o Programa Respeito à Vida e institui o Sistema de Informações Gerenciais de Acidentes de Trânsito - Infosiga.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Do Sistema Estadual De Trânsito - SISTRAN - SP
 
 #### Seção I
@@ -36,7 +36,8 @@ VI - induzir a capacitação profissional para gestão, operação e educação 
 
 VII - estabelecer a sistemática de fluxos permanentes de informações entre os seus diversos órgãos e entidades, a fim de facilitar o processo decisório, a capacidade de gestão e a integração do Sistema.
 
-#### Seção II<br>
+#### Seção II
+
 Da Composição do SISTRAN-SP
 
 **Artigo 4° -** Compõem o SISTRAN-SP:
@@ -93,7 +94,8 @@ IV - Guardas Municipais e outros órgãos executivos de trânsito ou rodoviário
 
 **Artigo 6° -** Admite-se a participação no SISTRAN-SP, mediante convite, de representantes de outros órgãos e entidades, públicas e privadas, além de pesquisadores e especialistas, quando necessário para o cumprimento de sua finalidade.
 
-#### Seção III<br>
+#### Seção III
+
 Das Ações do SISTRAN-SP
 
 **Artigo 7° -** Aos entes que compõem o SISTRAN-SP cabe a adoção das ações contidas no Pnatrans, em especial:
@@ -118,15 +120,18 @@ VII - a cooperação e integração interinstitucional, bem como o intercâmbio 
 
 VIII - a promoção e o apoio de projetos para a captação de recursos financeiros que possibilitem a sua consecução, inclusive firmando acordos de cooperação com organismos que promovam a segurança viária.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Conselho Estadual de Trânsito - CETRAN-SP
 
-#### Seção I<br>
+#### Seção I
+
 Das Atribuições
 
 **Artigo 8° -** O Conselho Estadual de Trânsito do Estado de São Paulo - CETRAN-SP, órgão normativo, consultivo e coordenador do Sistema Nacional de Trânsito no âmbito do Estado de São Paulo, vinculado à Secretaria de Gestão e Governo Digital, reger-se-á pelas normas da Lei federal n° 9.503, de 23 de setembro de 1997, da legislação correlata e pelas disposições do presente decreto.
 
-#### Seção II<br>
+#### Seção II
+
 Da Composição
 
 **Artigo 9° -** O CETRAN-SP, órgão colegiado formado por 55 (cinquenta e cinco) membros titulares, sendo um Presidente e 54 (cinquenta e quatro) Conselheiros e seus respectivos suplentes, todos com reconhecida experiência em matéria de trânsito e residência permanente no Estado de São Paulo, terá a seguinte composição:
@@ -197,7 +202,8 @@ i) 2 (dois) representantes da área específica de meio ambiente, com conhecimen
 
 **§ 5° -** Nos impedimentos do Presidente do CETRAN - SP, a substituição se dará nos termos de seu Regimento Interno.
 
-#### Seção III<br>
+#### Seção III
+
 Da Estrutura Administrativa, Financeira e Técnica
 
 **Artigo 10 -** O CETRAN-SP tem a seguinte estrutura organizacional:
@@ -232,10 +238,12 @@ IV - Suporte Técnico e Administrativo.
 
 **§ 2° -** As despesas de que trata o § 1° deste artigo correrão por conta de verba própria do DETRAN-SP.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Das Juntas Administrativas de Recursos de Infrações - JARIs
 
-#### Seção I<br>
+#### Seção I
+
 Disposições Gerais
 
 **Artigo 13 -** As Juntas Administrativas de Recursos de Infrações - JARIs, órgãos colegiados componentes do Sistema Nacional de Trânsito, reger-se-ão pelas normas da Lei federal n° 9.503, de 23 de setembro de 1997, da legislação correlata e pelas disposições do presente decreto.
@@ -270,7 +278,8 @@ Disposições Gerais
 
 **§ 2° -** As despesas de que trata o § 1° deste artigo correrão por conta do órgão ou entidade de vinculação da JARI.
 
-#### Seção II<br>
+#### Seção II
+
 Da Composição das JARIs
 
 **Artigo 16 -** A composição das JARIs respeitará o disposto pelo CONTRAN, nos termos do inciso VI do artigo 12 da Lei federal n° 9.503, de 23 de setembro de 1997.
@@ -291,7 +300,8 @@ Da Composição das JARIs
 
 **Artigo 17 -** A qualquer tempo, de ofício ou por representação do interessado, o CETRAN-SP examinará o funcionamento das JARIs, especialmente quanto à observância das normas do Código de Trânsito Brasileiro e de sua legislação complementar ou supletiva, assim como das disposições deste decreto e de seu Regimento Interno.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Programa Respeito à Vida
 
 **Artigo 18 -** Fica instituído, no âmbito da Administração Pública do Estado de São Paulo, o Programa permanente denominado Respeito à Vida, com o objetivo de concentrar esforços e implementar políticas de proteção à vida, segurança viária e redução de mortes e lesões em decorrência de sinistros de trânsito.
@@ -330,7 +340,8 @@ II - participar da proposição de ações próprias ou em colaboração com out
 
 III - apresentar, sempre que solicitado, relatório com o estágio de ações e projetos em andamento, assim como os resultados obtidos quando concluídos no âmbito do órgão ou entidade.
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Do Sistema de Informações Gerenciais de Sinistros de Trânsito
 
 **Artigo 22 -** Fica instituído o Sistema de Informações Gerenciais de Sinistros de Trânsito - Infosiga, com a finalidade de centralizar, integrar e gerir as informações referentes à mobilidade e segurança viária no Estado de São Paulo.
@@ -353,7 +364,8 @@ V - disponibilizar as informações coletadas e geradas para consulta pública, 
 
 **Parágrafo único -** Os dados serão disponibilizados no máximo até o 5° (quinto) dia útil do mês seguinte ao de apuração, nos moldes e canais definidos em ato normativo expedido pelo Diretor-Presidente do DETRAN-SP.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 25 -** O Secretário de Gestão e Governo Digital poderá expedir normas complementares, necessárias à execução deste decreto.
@@ -388,7 +400,8 @@ XIII - o [Decreto n° 65.264, de 20 de outubro de 2020](https://www.al.sp.gov.br
 
 XIV - o [Decreto n° 66.673, de 19 de abril de 2022](https://www.al.sp.gov.br/norma/203140).
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 DA DISPOSIÇÃO TRANSITÓRIA
 
 **Artigo único -** Até a complementação dos membros de que trata o artigo 9° deste decreto, o CETRAN-SP deliberará com sua composição atual.

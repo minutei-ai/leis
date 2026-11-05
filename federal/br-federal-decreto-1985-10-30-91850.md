@@ -1,5 +1,3 @@
-###DEC-091850-0-000-30-10-1985@@@
-
 Decreto nº 91.850, de 30 de outubro de 1985
 
 Cria Função de Assessoramento Superior (FAS), para o Ministério da Ciência e Tecnologia, e dá outras previdências.

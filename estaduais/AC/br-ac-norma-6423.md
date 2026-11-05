@@ -1,6 +1,10 @@
 > **LEI Nº 4.577, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Veda a nomeação para cargos públicos, administrativos e políticos, no Estado de pessoas que tenham sido condenadas pela prática de violência doméstica e familiar.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Veda a nomeação para cargos públicos, administrativos e políticos, no Estado de pessoas que tenham sido condenadas pela prática de violência doméstica e familiar.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

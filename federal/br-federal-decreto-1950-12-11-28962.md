@@ -1,14 +1,12 @@
-###DEC-028962-0-000-11-12-1950@@@
+**DECRETO Nº 28.962, DE 11 DE DEZEMBRO DE 1950.**
 
-<strong>DECRETO Nº 28.962, DE 11 DE DEZEMBRO DE 1950.</strong>
+***Dá nova redação ao art. 16 do Regulamento aprovado pelo Decreto número 27.264, de 28 de setembro de 1949.***
 
-<em><strong>Dá nova redação ao art. 16 do Regulamento aprovado pelo Decreto número 27.264, de 28 de setembro de 1949.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 16, do Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 27.264, de 28 de setembro de 1949, passa a ter a seguinte redação:
+**Art**. 1º O art. 16, do Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 27.264, de 28 de setembro de 1949, passa a ter a seguinte redação:
 
 “Art. 16. Ao estagiário, que realizar todo o estágio previsto, será conferido um diploma, assinado pelo Comandante da Escola, correspondente ao curso em que haja sido matriculado.
 
@@ -16,11 +14,11 @@
 
 § 2º Enquanto não fôr organizada a Junta Consultiva, o parecer referido no parágrafo anterior será emitido pelo Chefe do Estado-Maior da Fôrças Armadas”.
 
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 11 de dezembro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha
 

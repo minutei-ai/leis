@@ -1,5 +1,3 @@
-###DEC-062385-0-000-11-03-1968@@@
-
 decreto nº 62.385, de 11 de março de 1968.
 
 Declara de utilidade pública o “Patronato Madre Mazzarello” com sede em Anápolis, Estado de Goiás.

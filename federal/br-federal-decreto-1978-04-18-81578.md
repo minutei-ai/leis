@@ -1,5 +1,3 @@
-###DEC-081578-0-000-18-04-1978@@@
-
 Decreto nº 81.578, de 18 de abril de 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Minas Gerais.

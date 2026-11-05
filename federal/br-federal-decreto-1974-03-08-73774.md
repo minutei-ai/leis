@@ -1,5 +1,3 @@
-###DEC-073774-0-000-08-03-1974@@@
-
 DECRETO nº 73.774, de 3 de março de 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Canoinhas, Estado de Santa Catarina.

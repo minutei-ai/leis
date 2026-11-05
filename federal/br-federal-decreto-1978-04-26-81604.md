@@ -1,5 +1,3 @@
-###DEC-081604-0-000-26-04-1978@@@
-
 Decreto nº 81.604, de 26 abril de 1978
 
 Fica autorizada a conversão dos cursos de Engenharia de Operação e, de Engenharia Mecânica, em habilitação Engenharia Industrial-Mecânica, do curso de Engenharia da Escola de Engenharia Industrial de São José dos Campos, Estado de São Paulo.

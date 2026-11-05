@@ -1,5 +1,3 @@
-###DEC-007671-0-000-17-01-2012-PUB-01@@@
-
 DECRETO Nº 7.671, DE 17 DE JANEIRO DE 2012
 
 Fixa, para a Aeronáutica, os quantitativos de vagas para promoções obrigatórias de oficiais, para os Quadros que menciona, no ano-base de 2011.

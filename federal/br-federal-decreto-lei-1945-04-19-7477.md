@@ -1,5 +1,3 @@
-###DEL-007477-0-000-19-04-1945@@@
-
 DECRETO-LEI N. 7.477 – DE 19 DE ABRIL DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 930.545,00, para execução de obras de reparação na ponte de Igapó, da Estrada de Ferro Central do Rio Grande do Norte

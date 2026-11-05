@@ -1,5 +1,3 @@
-###DEL-004038-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.038 – DE 19 DE JANEIRO DE 1942
 
 Dá interpretação ao art. 4º, § 13, alínea XIV, incisos 1º, Letra e e 2º, letra e, do regulamento aprovado pelo decreto-lei nº 739, de 24 de setembro de 1938

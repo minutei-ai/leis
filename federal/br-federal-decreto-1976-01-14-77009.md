@@ -1,5 +1,3 @@
-###DEC-077009-0-000-14-01-1976@@@
-
 DECRETO Nº 77.009, DE 14 DE JANEIRO DE 1976.
 
 Autoriza estrangeiro a adquirir o domínio do imóvel que menciona, no Estado do Rio de Janeiro.

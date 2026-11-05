@@ -1,5 +1,3 @@
-###DEC-004150-0-000-06-03-2002@@@
-
 DECRETO Nº 4.150, DE 6 DE MARÇO DE 2002
 
 Dispõe sobre a execução, no Território Nacional, da Resolução 1390 (2002) do Conselho de Segurança das Nações Unidas.

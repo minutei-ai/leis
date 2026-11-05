@@ -1,5 +1,3 @@
-###DEC-052737-0-000-23-10-1963@@@
-
 Decreto Nº 52.737, DE 23 DE OUTUBRO DE 1963.
 
 Regulamenta o art. 21 da Lei número 3.765, de 4 de maio de 1960.

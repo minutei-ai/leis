@@ -1,5 +1,3 @@
-###DEC-064820-0-000-14-07-1969@@@
-
 DECRETO Nº 64.820 - DE 14 DE JULHO DE 1969.
 
 Decreta a intervenção federal no Município de Rolândida, Estado do Paraná.

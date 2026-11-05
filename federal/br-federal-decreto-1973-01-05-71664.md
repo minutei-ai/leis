@@ -1,5 +1,3 @@
-###DEC-071664-0-000-05-01-1973@@@
-
 DECRETO Nº 71.664, DE 5 DE JANEIRO DE 1973.
 
 Concede reconhecimento da Faculdade de Medicina da Organização Mogiana de Educação e Cultura, de Mogi das Cruzes, Estado de São Paulo.

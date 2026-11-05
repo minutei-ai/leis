@@ -1,5 +1,3 @@
-###DEC-060615-0-000-24-04-1967@@@
-
 DECRETO Nº 60.615, DE 24 DE ABRIL DE 1967.
 
 Dispõe sôbre a fixação das multas a que se refere o art. 161, do Decreto-lei nº 32, de 18 de novembro de 1966 (Código Brasileiro do Ar), da outras providências.

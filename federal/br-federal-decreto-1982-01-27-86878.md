@@ -1,5 +1,3 @@
-###DEC-086878-0-000-27-01-1982@@@
-
 decreto nº 86.878, de 27 de janeiro de 1982.
 
 Dispõe sobre a Embaixada na República da Zâmbia.

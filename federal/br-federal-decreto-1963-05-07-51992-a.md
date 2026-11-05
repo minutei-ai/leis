@@ -1,5 +1,3 @@
-###DEC-051992-A-000-07-05-1963@@@
-
 DECRETO Nº 51.992-A, DE 7 DE MAIO DE 1963.
 
 Concede à Emprêsa de Navegação Aliança S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

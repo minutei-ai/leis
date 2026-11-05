@@ -1,5 +1,3 @@
-###DEC-065449-0-000-13-10-1969@@@
-
 DECRETO Nº 65.449 - DE 13 DE OUTUBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal, e dá outras providências.

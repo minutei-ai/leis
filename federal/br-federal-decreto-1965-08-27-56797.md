@@ -1,5 +1,3 @@
-###DEC-056797-0-000-27-08-1965@@@
-
 DECRETO Nº 56.797, DE 27 DE AGÔSTO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno que menciona, em Belém, Estado do Pará.

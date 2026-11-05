@@ -1,5 +1,3 @@
-###DEL-009605-0-000-19-08-1946@@@
-
 DECRETO-LEI N. 9.605 – DE 19 DE AGÔSTO DE 1946
 
 Dá nova redação ao n. lI do artigo 16 do Código de Minas.

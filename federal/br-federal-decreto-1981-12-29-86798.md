@@ -1,5 +1,3 @@
-###DEC-086798-0-000-29-12-1981@@@
-
 Decreto nº 86.798, de 29 de dezembro de 1981.
 
 Declara de utilidade pública para fins de desapropriação, área de terra necessária à implantação da Estação Fixa de Rádio Serra da Cantareira, da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

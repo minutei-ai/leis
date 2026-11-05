@@ -1,5 +1,3 @@
-###DEC-057437-0-000-16-12-1965@@@
-
 DECRETO Nº 57.437, de 16 de dezembro de 1965.
 
 Autoriza o cidadão brasileiro Décio Amaral Castro a pesquisar amianto mica e minério de níquel no município de Niquelândia, Estado de Goiás.
@@ -21,8 +19,6 @@ Brasília, 16 de dezembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-057437-0-000-16-12-1965@@@
 
 DECRETO Nº 57.437, 16 DE DEZEMBRO DE 1965.
 

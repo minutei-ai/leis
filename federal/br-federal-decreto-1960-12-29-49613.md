@@ -1,5 +1,3 @@
-###DEC-049613-0-000-29-12-1960@@@
-
 DECRETO Nº 49.613, DE 29 DE DEZEMBRO DE 1960.
 
 Outorga concessão à Emissora Continental do Recife S.A. para estabelecer uma estação de radiotelevisão.

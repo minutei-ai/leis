@@ -1,5 +1,3 @@
-###DEC-076811-0-000-16-12-1975@@@
-
 DECRETO Nº 76.811, DE 16 DE DEZEMBRO DE 1975.
 
 Inclui na classificação de órgãos de deliberação coletiva aprovada pelo Decreto nº 70.154, de 17 de fevereiro de 1972, a Comissão de Coordenação e Implementação de Técnicas Financeiras (COCITEF).

@@ -1,5 +1,3 @@
-###DEC-005169-0-000-04-08-2004@@@
-
 DECRETO Nº 5.169 DE 4 DE AGOSTO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Tunísia sobre Isenção Parcial de Vistos, celebrado em Túnis, em 19 de julho de 2001.

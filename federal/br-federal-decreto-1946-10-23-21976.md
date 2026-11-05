@@ -1,40 +1,38 @@
-###DEC-021976\-0-000-23-10-1946@@@
+**DECRETO Nº 21.976, DE 23 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.976, DE 23 DE OUTUBRO DE 1946.</strong>
+***Transforma o Patronato Agrícola Venceslau Braz, do Serviço de Assistência a Menores, do Ministério da Justiça e Negócios Interiores, em Escola Venceslau Braz e aprova o regimento dêste órgão.***
 
-<em><strong>Transforma o Patronato Agrícola Venceslau Braz, do Serviço de Assistência a Menores, do Ministério da Justiça e Negócios Interiores, em Escola Venceslau Braz e aprova o regimento dêste órgão.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constitutição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constitutição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica transformado em Escola Venceslau Braz O Patronato Agrícola Venceslau Braz, do Serviço de Assistência a Menores, do Ministério da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica transformado em Escola Venceslau Braz O Patronato Agrícola Venceslau Braz, do Serviço de Assistência a Menores, do Ministério da Justiça e Negócios Interiores.
+**Art**. 2º. Fica aprovado o regimento da escola Venceslau Braz, que, assinado, pelo Ministro da justiça e Negócios Interiores, com êste baixa.
 
-<strong>Art</strong>. 2º. Fica aprovado o regimento da escola Venceslau Braz, que, assinado, pelo Ministro da justiça e Negócios Interiores, com êste baixa.
+**Art**. 3º. Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º. Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 4º. Revogam-se as disposições em contrário.
+**Art**. 4º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 23 de outubro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Benedito Costa Netto
 
-<strong>REGIMENTO DA ESCOLA VENCESLAU BRAZ</strong>
+**REGIMENTO DA ESCOLA VENCESLAU BRAZ**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Escola Venceslau Bráz ( E.V.B.), órgão executor do Serviço de Assistência a Menores ( S.A.M.) do Ministério da Justiça e Negócios Interiores ( M.J.N.I.) e diretamente subordinado ao Diretor do referido Serviço, tem por finalidade ajustar menores desvalidos, do sexo masculino, devendo, para isso, ministrar-lhes, de acôrdo com as normas expedidas pelo órgão central do S.A.M., educação e ensino geral primário, paralelamente à iniciação profissional que sirva de base a posterior ensino profissional.
+**Art**. 1º A Escola Venceslau Bráz ( E.V.B.), órgão executor do Serviço de Assistência a Menores ( S.A.M.) do Ministério da Justiça e Negócios Interiores ( M.J.N.I.) e diretamente subordinado ao Diretor do referido Serviço, tem por finalidade ajustar menores desvalidos, do sexo masculino, devendo, para isso, ministrar-lhes, de acôrdo com as normas expedidas pelo órgão central do S.A.M., educação e ensino geral primário, paralelamente à iniciação profissional que sirva de base a posterior ensino profissional.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A E.V.B. compõem-se de:
+**Art**. 2º A E.V.B. compõem-se de:
 
 Setor de Ensino Primário (S.E.P.) Setor de Iniciação Profissional (S.I.P.).
 
@@ -44,17 +42,17 @@ Setor de Disciplina (S.D.)
 
 Secretária (S.)
 
-<strong>Art</strong>. 3º A E.V.B. terá um Diretor.
+**Art**. 3º A E.V.B. terá um Diretor.
 
-<strong>Art</strong>. 4º Os setores e a Secretária terão chefes designados pelo Diretor da E.V.B.
+**Art**. 4º Os setores e a Secretária terão chefes designados pelo Diretor da E.V.B.
 
-<strong>Art</strong>. 5º Os órgãos que integram a E.V.B. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os órgãos que integram a E.V.B. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º.Ao S.E.P. compete:
+**Art**. 6º.Ao S.E.P. compete:
 
 I - ministrar aos educandos o ensino primário geral, de acôrdo com os programas expedidos pelo órgão Central do S.A.M.;
 
@@ -62,11 +60,11 @@ II - ministrar a educação física, a educação artistíca e a educação soci
 
 III - promover a organização de excursões, de museus e bibliotecas escolares bem como dramatização e demais atividades extra-classe.
 
-<strong>Art</strong>. 7º Ao S.I.P. compete promover a iniciação profissional dos menores, nas diversas oficinas e atividades rurais ou em outros setores por determinação do diretor, anotando as aptidões e tendências, com o fim de permitir a orientação profissional, facilitando ao órgão Central o encaminhamento posterior dos menores aos estabelecimentos adequados.
+**Art**. 7º Ao S.I.P. compete promover a iniciação profissional dos menores, nas diversas oficinas e atividades rurais ou em outros setores por determinação do diretor, anotando as aptidões e tendências, com o fim de permitir a orientação profissional, facilitando ao órgão Central o encaminhamento posterior dos menores aos estabelecimentos adequados.
 
 Parágrafo único. Compete ainda ao S.I.P. suprir com as oficinas e atividades rurais as necessidades da E.V.B
 
-<strong>Art</strong>. 8º.Ao S.S. compete:
+**Art**. 8º.Ao S.S. compete:
 
 I - assegurar aos educandos tratamento médico e odontológico conveniente;
 
@@ -98,7 +96,7 @@ III - fornecer laudos médicos para efeito de admissão, exercício, licenças e
 
 § 2º. Na execução dos serviços a que se refere o parágrafo anterior, o S.S. observará as normas expedidas pela Divisão do Pessoal do D.A. do M.J.N.I.
 
-<strong>Art</strong>. 9º. Ao S.D compete:
+**Art**. 9º. Ao S.D compete:
 
 I - manter a disciplina ativa entre os educandos;
 
@@ -108,7 +106,7 @@ III - cuidar da vigilância diurna e noturna dos edíficios e terrenos da E.V.B.
 
 IV - zelar, com o auxílio dos educandos, pela limpeza e bom estado de conservação das dependências da Escola.
 
-<strong>Art</strong>. 10 À Secretária compete:
+**Art**. 10 À Secretária compete:
 
 I - promover a matrícula e demais assentamentos referente aos menores;
 
@@ -142,11 +140,11 @@ II - velar, permanentemente, pelo bom funcionamento das instalações de água e
 
 Parágrafo 2º. No que concerne às atividades de administração geral a secretária deverá funcionar articulada com o D.A. do M.J.N.I., observando as normas e métodos de trabalho prescritos pelo mesmo.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 11 Ao Diretor incumbe:
+**Art**. 11 Ao Diretor incumbe:
 
 I - administrar a Escola;
 
@@ -194,7 +192,7 @@ XXII - determinar os trabalhos a serem realizados pels oficinas e autorizar a ex
 
 XXIII - distribuir os educandos pelas classes e oficinas.
 
-<strong>Art</strong>. 12. Aos Chefes dos Setores e da Secretária incumbe:
+**Art**. 12. Aos Chefes dos Setores e da Secretária incumbe:
 
 I - dirigir o respectivo setor de trabalho;
 
@@ -212,7 +210,7 @@ VII - propor ao Diretor da Escola a antcipação ou prorrogação do período no
 
 VIII -  organizar e submeter à aprovação do Diretor da Escola a escala de férias do pessoal que lhes fôr subordinado, bem como as alterações subseqüentes.
 
-<strong>Art</strong>. 13. Ao Chefe do S.E.P. e ao do S.I.P. compete além do enumerado no artigo anterior:
+**Art**. 13. Ao Chefe do S.E.P. e ao do S.I.P. compete além do enumerado no artigo anterior:
 
 I - designar, para cada auxiliar de ensino, a classe que irá reger;
 
@@ -224,11 +222,11 @@ IV - superintender e fiscalizar os trabalhos das várias classes e orientar os a
 
 V - comunicar, imediatamente, por escrito, ao S.D., qualquer infração praticada, nas aulas, pelos educandos.
 
-<strong>Art</strong>. 14. Ao Chefe do S.I.P. compete, ainda, distribuir às oficinas os trabalhos e encomendas autorizados pelo diretor.
+**Art**. 14. Ao Chefe do S.I.P. compete, ainda, distribuir às oficinas os trabalhos e encomendas autorizados pelo diretor.
 
-<strong>Art</strong>. 15. Ao Chefe do S.S. compete, além do enumerado no artigo 12, informar periódicamente o Diretor sôbre as condições de saúde dos educandos.
+**Art**. 15. Ao Chefe do S.S. compete, além do enumerado no artigo 12, informar periódicamente o Diretor sôbre as condições de saúde dos educandos.
 
-<strong>Art</strong>. 16. Ao Chefe do S.D. compete ainda:
+**Art**. 16. Ao Chefe do S.D. compete ainda:
 
 I - comunicar, imediatamente, ao Diretor, qualquer ocorrência extraordinária que se verificar na E.V.B.;
 
@@ -238,29 +236,29 @@ III - orientar e fiscalizar o trabalho dos inspetores de alunos;
 
 IV - orientar e fiscalizar o trabalho dos guardas.
 
-<strong>Art</strong>. 17. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 17. Aos demais servidores, sem funções especificadas neste Regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>C</strong><strong>APÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 18. A E.V.B. terá a lotação aprovada em decreto.
+**Art**. 18. A E.V.B. terá a lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, a E.V.B. poderá ter pessoal Extranumerário.
 
-<strong>C</strong><strong>APÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 19. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 19. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 20. O Diretor da E.V.B. não fica sujeito a ponto, devendo, porém, observar o horário fixado.
+**Art**. 20. O Diretor da E.V.B. não fica sujeito a ponto, devendo, porém, observar o horário fixado.
 
-<strong>C</strong><strong>APÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 21. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 21. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - o Diretor, por um dos Chefes de Setor ou da Secretaria designado, por indicação sua, pelo Diretor do S.A.M.;
 
@@ -268,20 +266,20 @@ II - os Chefes dos Setores e da Secretaria, por servidores designados pelo Diret
 
 Parágrafo único. Haverá, sempre, servidores previamente designado para as substituições de que trata êste artigo.
 
-<strong>C</strong><strong>APÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 22. Mediante instruções de serviço do respectivo Chefe, os Setores e a Secretaria poderão desdobrar-se em turmas.
+**Art**. 22. Mediante instruções de serviço do respectivo Chefe, os Setores e a Secretaria poderão desdobrar-se em turmas.
 
-<strong>Art</strong>. 23. Nenhum servidor poderá fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionem com as organização e as atividades da E.V.B. sem autorização do Diretor do S.A.M.
+**Art**. 23. Nenhum servidor poderá fazer publicações, conferências ou dar entrevistas sôbre assuntos que se relacionem com as organização e as atividades da E.V.B. sem autorização do Diretor do S.A.M.
 
-<strong>Art</strong>. 24. É vedado aos Mestres e ao pessoal das oficinas a realização, por deliberação própria, de qualquer trabalho de natureza particular.
+**Art**. 24. É vedado aos Mestres e ao pessoal das oficinas a realização, por deliberação própria, de qualquer trabalho de natureza particular.
 
-<strong>Art</strong>. 25. Além dos trabalhos para a Escola, as oficinas do S.I.P. poderão executar trabalhos de encomenda autorizados pelo Diretor.
+**Art**. 25. Além dos trabalhos para a Escola, as oficinas do S.I.P. poderão executar trabalhos de encomenda autorizados pelo Diretor.
 
-<strong>Art</strong>. 26. Excepcionalmente, enquanto não houver número suficiente de menores que preencham os requisitos psico-pedagógicos exigidos pelo o ensino a que é destinada, a Escola servirá também para internar, sob diverso regime pedagógico, outros menores que lhe forem encaminhados pelo Órgão Central do S.A.M.
+**Art**. 26. Excepcionalmente, enquanto não houver número suficiente de menores que preencham os requisitos psico-pedagógicos exigidos pelo o ensino a que é destinada, a Escola servirá também para internar, sob diverso regime pedagógico, outros menores que lhe forem encaminhados pelo Órgão Central do S.A.M.
 
 Rio de Janeiro, em 23 de outubro de 1946.
 
-<strong>BENEDICTO COSTA NETTO</strong>
+**BENEDICTO COSTA NETTO**

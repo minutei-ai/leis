@@ -1,5 +1,3 @@
-###DEC-078321-0-000-26-08-1976@@@
-
 DECRETO Nº 78.321, DE 26 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento do curso de Ciências, licenciatura de 1º grau, da Faculdade de Filosofia, Ciências e Letras "Madre Gertrudes de São José", com sede na cidade de Cachoeiro do Itapemirim, Estado do Espirito Santo.

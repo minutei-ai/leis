@@ -1,5 +1,3 @@
-###DEC-049441-0-000-06-12-1960@@@
-
 DECRETO Nº 49.441, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Massilon Saboia de Albuquerque a pesquisar água mineral no município de Sobral, Estado do Ceará.

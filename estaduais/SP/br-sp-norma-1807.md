@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=1807)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2003/compilacao-lei-11373-03.04.2003.html)
 
 # LEI Nº 11.373, DE 03 DE ABRIL DE 2003
@@ -9,19 +8,27 @@
 
 ### _Transforma em Estância Turística o Município de Santa Fé do Sul_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Fica transformado em Estância Turística o Município de Santa Fé do Sul.<br>
-**Artigo 2.º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 3 de abril de 2003.<br>
-GERALDO ALCKMIN<br>
-João Carlos de Souza Meirelles<br>
-Secretário da Ciência, Tecnologia, Desenvolvimento Econômico e Turismo<br>
-Arnaldo Madeira<br>
-Secretário-Chefe da Casa Civil<br>
-Publicada na Assessoria Técnico-Legislativa, aos 3 de abril de 2003.~~
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Fica transformado em Estância Turística o Município de Santa Fé do Sul.
+
+**Artigo 2.º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 3 de abril de 2003.
+
+GERALDO ALCKMIN
+
+João Carlos de Souza Meirelles
+
+Secretário da Ciência, Tecnologia, Desenvolvimento Econômico e Turismo
+
+Arnaldo Madeira
+
+Secretário-Chefe da Casa Civil
+
+Publicada na Assessoria Técnico-Legislativa, aos 3 de abril de 2003.~~
 
 Revogada.
 

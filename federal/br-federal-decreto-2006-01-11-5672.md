@@ -1,5 +1,3 @@
-###DEC-005672-0-000-11-01-2006@@@
-
 DECRETO Nº 5.672, DE 11 DE JANEIRO DE 2006.
 
 Dispõe sobre o aumento do capital social da Empresa Brasileira de Correios e Telégrafos - ECT, e dá outras providências.

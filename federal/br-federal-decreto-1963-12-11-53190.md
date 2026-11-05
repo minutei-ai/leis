@@ -1,5 +1,3 @@
-###DEC-053190-0-000-11-12-1963@@@
-
 decreto nº 53.190, de 11 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Gregório de Moura Teles Santiago a pesquisar argila no município de Paracatu, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-008993-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.993 – DE 18 DE FEVEREIRO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar do impôsto predial os imóveis sitos na Rua Arquias Cordeiro ns. 530, 538 e 540, na forma que menciona.

@@ -1,5 +1,3 @@
-###DEC-068698-0-000-02-06-1971@@@
-
 DECRETO Nº 68.698, DE 2 DE JUNHO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Engenharia "General Roberto Lisbôa", com os cursos de Engenheiros Civis e Engenheiros Eletricistas (eletrônica e telecomunicações).

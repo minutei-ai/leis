@@ -1,5 +1,3 @@
-###DEC-049538-0-000-15-12-1960@@@
-
 DECRETO Nº 49.538, DE 15 DE DEZEMBRO DE 1960.
 
 Retifica a redação do artigo 1º do Decreto nº 48.088, de 8 de abril de 1960.

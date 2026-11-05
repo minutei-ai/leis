@@ -1,5 +1,3 @@
-###DEL-006636-0-000-28-06-1944@@@
-
 DECRETO-LEI N. 6.636 – DE 28 DE JUNHO DE 1944
 
 Dispõe sôbre classificação, avaliação e padronização dos produtores minerais destinados à exportação

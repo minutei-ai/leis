@@ -1,5 +1,3 @@
-###DEC-082432-0-000-16-10-1978@@@
-
 Decreto nº 82.432, de 16 de outubro de 1978.
 
 Concede à Companhia Níquel Tocantins o direito de lavrar minério de níquel no Município de Niquelândia, Estado de Goiás.

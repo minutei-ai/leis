@@ -1,5 +1,3 @@
-###DEL-006290-0-000-24-02-1944@@@
-
 DECRETO-LEI N. 6.290 – DE 24 DE FEVEREIRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.259.600,00, para a ligação ferroviária Palmeira dos Índios- Colégio

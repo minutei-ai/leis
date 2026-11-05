@@ -1,5 +1,3 @@
-###DEL-009441-0-000-10-07-1946@@@
-
 DECRETO-LEI N. 9.441– DE 10 DE JULHO DE 1946
 
 Cria a 14ª Circunscrição de Recrutamento e transfere a 6.ª Circunscrição de Recrutamento, com sede em Bauru, para a jurisdição da 9ª Região Militar.

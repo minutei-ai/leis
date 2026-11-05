@@ -1,5 +1,3 @@
-###DEC-057813-0-000-15-02-1966@@@
-
 Decreto nº 57.813, de 15 de fevereiro de 1966.
 
 Altera a redação do artigo 2º do Decreto nº 54.999, de 13 de novembro de 1964.

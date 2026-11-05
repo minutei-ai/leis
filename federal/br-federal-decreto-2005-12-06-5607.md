@@ -1,5 +1,3 @@
-###DEC-005607-0-000-06-12-2005@@@
-
 DECRETO Nº 5.607, DE 6 DE DEZEMBRO DE 2005.
 
 Dá nova redação ao caput do art. 6o do Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto no 4.418, de 11 de outubro de 2002.

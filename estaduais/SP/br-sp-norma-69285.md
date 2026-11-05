@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69285)
-
 # LEI Nº 12.410, DE 21 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 431/2003, do Deputado José Caldini Crespo - PFL)

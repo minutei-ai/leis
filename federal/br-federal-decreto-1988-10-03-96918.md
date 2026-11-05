@@ -1,5 +1,3 @@
-###DEC-096918-0-000-03-10-1988@@@
-
 DECRETO Nº 96.918, DE 3 DE OUTUBRO DE 1988
 
 Renova a concessão à RÁDIO JORNAL DA TRANSAMAZÔNICA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na Cidade de Altamira, Estado do Pará.

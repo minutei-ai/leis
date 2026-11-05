@@ -1,5 +1,3 @@
-###DEC-064723-0-000-20-06-1969@@@
-
 Decreto nº 64.723, de 20 de junho de 1969.
 
 Declara caduco o Decreto nº 18.408, de 18 de abril de 1945.

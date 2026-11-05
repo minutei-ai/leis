@@ -1,5 +1,3 @@
-###DEL-007466-0-000-16-04-1945@@@
-
 DECRETO-LEI N. 7.466 – DE 16 DE ABRIL DE 1945
 
 Altera disposições do Decreto-lei nº 6.739, de 26 de julho de 1944 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052899-0-000-21-11-1963@@@
-
 Decreto nº 52.899, de 21 de novembro de 1963.
 
 Concede reconhecimento à Escola de Arte da Fundação Armando Álvares Penteado, Estado de São Paulo.

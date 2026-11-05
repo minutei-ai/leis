@@ -1,5 +1,3 @@
-###DEC-097500-0-000-09-02-1989@@@
-
 DECRETO N° 97.500, DE 9 DE FEVEREIRO DE 1989
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo Regional de Abertura de Mercados em Favor da Bolívia (Acordo n° 1), subscrito entre o Brasil e a Bolívia.

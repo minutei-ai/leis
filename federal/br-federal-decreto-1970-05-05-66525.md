@@ -1,5 +1,3 @@
-###DEC-066525-0-000-05-05-1970@@@
-
 DCRETO Nº 66.525, DE 5 DE MAIO DE 1970.
 
 Declara de utilidade pública para fins de desapropriação, áreas de terra destinada à construção da usina termoelétrica de Manaus, no Município de Manaus, Estado de Amazonas.

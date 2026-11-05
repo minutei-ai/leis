@@ -1,5 +1,3 @@
-###DEC-052757-0-000-24-10-1963@@@
-
 Decreto nº 52.757, de 24 de outubro de 1963.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

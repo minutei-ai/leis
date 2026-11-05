@@ -1,14 +1,12 @@
-###DEC-041884-0-000-23-07-1957@@@
+**DECRETO Nº 41.884, DE 23 DE JULHO DE 1957.**
 
-<strong>DECRETO Nº 41.884, DE 23 DE JULHO DE 1957.</strong>
+***SUPRIME CARGOS EXTINTOS:***
 
-<em><strong>SUPRIME CARGOS EXTINTOS:</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição e nos têrmos do art. 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, alínea I, da Constituição e nos têrmos do art. 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam suprimidos, no Quadro Suplementar do Ministério da Saúde, os seguintes cargos extintos:
+**Art**. 1º Ficam suprimidos, no Quadro Suplementar do Ministério da Saúde, os seguintes cargos extintos:
 
 a) um cargo da classe D, da carreira de Artífice, vago em virtude da promoção de Salvador Stavele;
 
@@ -42,12 +40,12 @@ p) cinco cargos da classe F, da carreira de Prático do Laboratório, vagos em v
 
 q) treze cargos da classe C da carreira de Trabalhador, vagos em virtude das aposentadorias de Laurinda Carvalho Cruz e Francisco Duarte; do falecimento de Antenor de Assis Atanásio e das promoções de Antonio Vieira de Souza, Albino dos Santos, Aureliano Bráulio de Souza, Iracema Magalhães, Genésio D’Alcântara, João Luiz Fiães, José Joaquim de Almeida, José Maria Alonso, José Sabino e Manoel Araujo Corrêa.
 
-<strong>Art</strong>. 2º A. dotação decorrente da supressão de cargos de que trata êste Decreto deverá atender ao provimento dos cargos vagos no Quadro Permanente do mesmo Ministério.
+**Art**. 2º A. dotação decorrente da supressão de cargos de que trata êste Decreto deverá atender ao provimento dos cargos vagos no Quadro Permanente do mesmo Ministério.
 
-<strong>Art</strong>. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 23 de julho de 1957, 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Maurício de Medeiros

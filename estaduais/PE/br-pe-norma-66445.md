@@ -78,146 +78,266 @@ ERNANI VARJAL MEDICIS PINTO
 
 . (Redação alterada pelo art. 3º da [Lei nº 17.899, de 15 de julho de 2022](https://legis.alepe.pe.gov.br/?lo178992022).)
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="234" style="width:175.5pt;border:none;background:transparent;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:16.8pt;vertical-align:baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;border:none windowtext 1.0pt;
-  padding:0cm">MUNICÍPIO</span></p></td><td width="175" style="width:131.0pt;border:none;background:transparent;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:16.8pt;vertical-align:baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;border:none windowtext 1.0pt;
-  padding:0cm">VALOR POR MUNICÍPIO</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Recife</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 33.051.902,05</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Jaboatão dos Guararapes</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 18.625.044,23</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Olinda</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 11.445.163,19</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Paulista</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9.863.584,11</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Cabo de Santo Agostinho</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5.908.238,60</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Abreu e Lima</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.306.327,47</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Igarassu</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4.286.630,80</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Camaragibe</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.882.658,45</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">São Lourenço da Mata</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3.481.481,76</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Goiana</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.724.113,02</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Palmares</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.433.491,83</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Escada</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.312.516,15</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Moreno</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.171.843,80</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Paudalho</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2.090.769,77</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Limoeiro</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.933.196,41</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Timbaúba</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.767.363,15</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bom Jardim</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.759.992,79</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Aliança</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.644.862,57</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Passira</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.151.047,99</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Sirinhaém</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.073.659,14</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Glória de Goitá</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.069.084,43</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Nazaré da Mata</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.052.310,49</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Pombos</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.045.321,35</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vicência</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 850.514,92</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Macaparana</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 801.209,71</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chã Grande</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 799.049,43</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Araçoiaba</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 702.599,29</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">São José da Coroa Grande</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;688.366,85</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lagoa do Carro</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 638.426,26</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">São Vicente Férrer</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 608.944,80</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Tracunhaém</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 530.285,19</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Chã de Alegria</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 595.983,12</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Correntes</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 687.604,40</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Itamaracá</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 912.654,74</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">João Alfredo</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:15.0pt;text-align:right;
-  line-height:16.8pt;vertical-align:baseline"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 969.584,47</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Primavera</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 543.882,25</span></p></td></tr><tr><td width="234" valign="top" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Quipapá</span></p></td><td width="175" valign="top" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-bottom:15.0pt;text-align:right;
-  line-height:16.8pt;vertical-align:baseline"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 789.391,71</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Água Preta</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.080.394,13</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Águas Belas</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.959.500,99</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Angelim</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;420.110,91</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Barreiros</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.843.735,40</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Belém de Maria</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 536.257,73</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Bom Conselho</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.601.911,12</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Brejão</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 396.601,98</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Caetés</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.085.858,36</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Calçado</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;358.098,17</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Canhotinho</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 782.275,49</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Capoeiras</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 715.052,66</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Catende</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.857.840,76</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Cortês</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 565.866,27</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Jaqueira</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;469.543,20</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Jucati</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 425.956,38</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Jupi</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 629.403,92</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Jurema</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 669.051,41</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Lagoa do Ouro</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 484.792,24</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Iati</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 891.051,94</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Itaíba</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1.145.075,45</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Maraial</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 489.875,25</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Palmeirina</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;323.025,39</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Panelas</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 973.905,03</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Paranatama</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 585.181,72</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Saloá</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 568.916,08</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">São Benedito do Sul</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 413.884,22</span></p></td></tr><tr><td width="234" valign="bottom" style="width:175.5pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Terezinha</span></p></td><td width="175" valign="bottom" style="width:131.0pt;border:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:15.0pt;line-height:16.8pt;vertical-align:
-  baseline"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 261.012,65</span></p></td></tr><tr><td width="234" style="width:175.5pt;border:none;background:transparent;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  16.8pt;vertical-align:baseline"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,&quot;serif&quot;;border:none windowtext 1.0pt;padding:0cm">TOTAL</span></p></td><td width="175" style="width:131.0pt;border:none;background:transparent;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  16.8pt;vertical-align:baseline"><span style="font-size:12.0pt;font-family:
-  &quot;Times New Roman&quot;,&quot;serif&quot;;border:none windowtext 1.0pt;padding:0cm">R$&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;150.733.279,56</span></p></td></tr></tbody></table>
+MUNICÍPIO
+
+VALOR POR MUNICÍPIO
+
+Recife
+
+R$           33.051.902,05
+
+Jaboatão dos Guararapes
+
+R$           18.625.044,23
+
+Olinda
+
+R$           11.445.163,19
+
+Paulista
+
+R$             9.863.584,11
+
+Cabo de Santo Agostinho
+
+R$             5.908.238,60
+
+Abreu e Lima
+
+R$             4.306.327,47
+
+Igarassu
+
+R$             4.286.630,80
+
+Camaragibe
+
+R$             3.882.658,45
+
+São Lourenço da Mata
+
+R$             3.481.481,76
+
+Goiana
+
+R$             2.724.113,02
+
+Palmares
+
+R$             2.433.491,83
+
+Escada
+
+R$             2.312.516,15
+
+Moreno
+
+R$             2.171.843,80
+
+Paudalho
+
+R$             2.090.769,77
+
+Limoeiro
+
+R$             1.933.196,41
+
+Timbaúba
+
+R$             1.767.363,15
+
+Bom Jardim
+
+R$             1.759.992,79
+
+Aliança
+
+R$             1.644.862,57
+
+Passira
+
+R$             1.151.047,99
+
+Sirinhaém
+
+R$             1.073.659,14
+
+Glória de Goitá
+
+R$             1.069.084,43
+
+Nazaré da Mata
+
+R$             1.052.310,49
+
+Pombos
+
+R$             1.045.321,35
+
+Vicência
+
+R$                850.514,92
+
+Macaparana
+
+R$                801.209,71
+
+Chã Grande
+
+R$                799.049,43
+
+Araçoiaba
+
+R$                702.599,29
+
+São José da Coroa Grande
+
+R$                688.366,85
+
+Lagoa do Carro
+
+R$                638.426,26
+
+São Vicente Férrer
+
+R$                608.944,80
+
+Tracunhaém
+
+R$                530.285,19
+
+Chã de Alegria
+
+R$                595.983,12
+
+Correntes
+
+R$                687.604,40
+
+Itamaracá
+
+R$                912.654,74
+
+João Alfredo
+
+R$                 969.584,47
+
+Primavera
+
+R$                 543.882,25
+
+Quipapá
+
+R$                 789.391,71
+
+Água Preta
+
+R$              1.080.394,13
+
+Águas Belas
+
+R$              1.959.500,99
+
+Angelim
+
+R$                 420.110,91
+
+Barreiros
+
+R$              1.843.735,40
+
+Belém de Maria
+
+R$                 536.257,73
+
+Bom Conselho
+
+R$              1.601.911,12
+
+Brejão
+
+R$                 396.601,98
+
+Caetés
+
+R$              1.085.858,36
+
+Calçado
+
+R$                 358.098,17
+
+Canhotinho
+
+R$                 782.275,49
+
+Capoeiras
+
+R$                 715.052,66
+
+Catende
+
+R$              1.857.840,76
+
+Cortês
+
+R$                 565.866,27
+
+Jaqueira
+
+R$                 469.543,20
+
+Jucati
+
+R$                 425.956,38
+
+Jupi
+
+R$                 629.403,92
+
+Jurema
+
+R$                 669.051,41
+
+Lagoa do Ouro
+
+R$                 484.792,24
+
+Iati
+
+R$                 891.051,94
+
+Itaíba
+
+R$              1.145.075,45
+
+Maraial
+
+R$                 489.875,25
+
+Palmeirina
+
+R$                 323.025,39
+
+Panelas
+
+R$                 973.905,03
+
+Paranatama
+
+R$                 585.181,72
+
+Saloá
+
+R$                 568.916,08
+
+São Benedito do Sul
+
+R$                 413.884,22
+
+Terezinha
+
+R$                 261.012,65
+
+TOTAL
+
+R$          150.733.279,56

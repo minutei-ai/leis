@@ -1,5 +1,3 @@
-###DEC-001900-0-000-09-05-1996@@@
-
 DECRETO Nº 1.900, DE 9 DE MAIO DE 1996.
 
 Promulga o Acordo Relativo ao uso de Peritos em Cooperação Técnica entre Países em Desenvolvimento, entre o Governo da República Federativa do Brasil e a Organização das Nações Unidas para a Alimentação e a Agricultura.
@@ -106,4 +104,22 @@ Emendas e Término
 
 Feito em Brasília, em 21 de fevereiro de 1995, em dois exemplares originais nos idiomas português e inglês, sendo ambos os textos igualmente autênticos .
 
-<table cellspacing="0" cellpadding="0" style="margin-left:3.35pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:205.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Luiz Felipe Lampreia</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Ministro de Estado das Relações Exteriores</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:205.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>PELA ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA ALIMENTAÇÃO E AGRICUTLURA (FAO)</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Jacques Diouf</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>Diretor Geral</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-left:3.35pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:205.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das Relações Exteriores
+
+&nbsp;
+
+</td><td style="width:205.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+PELA ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA ALIMENTAÇÃO E AGRICUTLURA (FAO)
+
+Jacques Diouf
+
+Diretor Geral
+
+</td></tr></tbody></table>

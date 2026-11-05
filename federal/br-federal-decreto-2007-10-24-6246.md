@@ -1,5 +1,3 @@
-###DEC-006246-0-000-24-10-2007@@@
-
 DECRETO Nº 6.246, DE 24 DE OUTUBRO DE 2007.
 
 Cria a Empresa Brasil de Comunicação - EBC, aprova seu Estatuto e dá outras providências.
@@ -26,11 +24,7 @@ Guido Mantega
 
 Paulo Bernardo Silva
 
-Franklin Martins
-
-Este texto não substitui o publicado no DOU de 25.10.2007
-
-ANEXO
+Franklin MartinsANEXO
 
 CAPÍTULO I
 

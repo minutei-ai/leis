@@ -1,5 +1,3 @@
-###DEC-058718-0-000-24-06-1966@@@
-
 DECRETO Nº 58.718, DE 24 DE JUNHO DE 1966.
 
 Concede à sociedade Moore-McCormack Lines, Incorporated autorização para funcionar na República dos Estados Unidos do Brasil.

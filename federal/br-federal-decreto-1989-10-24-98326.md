@@ -1,7 +1,3 @@
-1
-
-###DEC-098326-0-000-24-10-1989@@@
-
 DECRETO Nº 98.326, DE 24 DE OUTUBRO DE 1989
 
 Outorga concessão à TELEVISÃO RIO FORMOSO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Jataí, Estado de Goiás.

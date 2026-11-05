@@ -1,5 +1,3 @@
-###DEL-006882-0-000-20-09-1944@@@
-
 DECRETO-LEI N. 6.882 – DE 20 DE SETEMBRO DE 1944
 
 Dispõe sôbre empréstimos contraídos no exterior, por sociedades ou firmas brasileiras

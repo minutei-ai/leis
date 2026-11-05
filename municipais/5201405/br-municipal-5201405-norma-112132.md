@@ -12,13 +12,16 @@ Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos quatro dias do mês de março de dois mil e cinco.
 
-JOSÉ MACEDO DE ARAÚJO<br>
+JOSÉ MACEDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-PAULO HENRIQUE DE TOLEDO CARDOSO<br>
+PAULO HENRIQUE DE TOLEDO CARDOSO
+
 SEC. DE ADMINISTRAÇÃO
 
 [ANEXO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18727)

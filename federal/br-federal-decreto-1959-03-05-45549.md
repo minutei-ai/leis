@@ -1,5 +1,3 @@
-###DEC-045549-0-000-05-03-1959@@@
-
 Decreto nº 45.549, de 5 de março de 1959.
 
 Autoriza o cidadão brasileiro Horácio Scaramussa a lavrar calcário e mármore no município de Cachoeira do Itapemirim, Estado do Espírito Santo.

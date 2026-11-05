@@ -1,5 +1,3 @@
-###LEI-000000-0-001-26-09-1829@@@
-
 LEI - DE 26 DE SETEMBRO DE 1829
 
 Isenta os arrematantes de rendas publicas de propinas e quaesquer outras despezas da arrematação.

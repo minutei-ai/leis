@@ -1,5 +1,3 @@
-###DEC-070606-0-000-24-05-1972@@@
-
 DECRETO Nº 70.606, DE 24 DE MAIO DE 1972.
 
 Dá nova redação ao artigo 2º do Decreto nº 62.178, de 25 de janeiro de 1968.

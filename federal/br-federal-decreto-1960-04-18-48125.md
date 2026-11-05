@@ -1,5 +1,3 @@
-###DEC-048125-0-000-18-04-1960@@@
-
 DECRETO Nº 48.125, DE 18 DE ABRIL DE 1960.
 
 Cria as Inspetorias Florestais do Distrito Federal, que terão sede em Brasília e a do Estado da Guanabara, com sede na cidade do Rio de Janeiro.

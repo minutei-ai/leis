@@ -1,5 +1,3 @@
-###DEC-083349-0-000-18-04-1979@@@
-
 DECRETO Nº 83.349, DE 18 DE ABRIL DE 1979.
 
 Dispõe sobre a aplicação dos Regulamentos Disciplinares das Forças Armadas aos militares da reserva remunerada ou reformados.

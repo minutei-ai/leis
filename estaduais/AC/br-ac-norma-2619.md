@@ -1,6 +1,10 @@
 > **LEI Nº 3.613, DE 16 DE MARÇO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Estado a conceder imóvel à Federação de Pescadores do Estado do Acre – FEPEAC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Estado a conceder imóvel à Federação de Pescadores do Estado do Acre – FEPEAC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

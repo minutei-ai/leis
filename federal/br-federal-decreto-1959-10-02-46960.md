@@ -1,5 +1,3 @@
-###DEC-046960-0-000-02-10-1959@@@
-
 DECRETO Nº 46.960, DE 2 DE OUTUBRO DE 1959.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a ampliar suas instalações.

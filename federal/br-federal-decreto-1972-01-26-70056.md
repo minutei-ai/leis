@@ -1,5 +1,3 @@
-###DEC-070056-0-000-26-01-1972@@@
-
 DECRETO Nº 70.056, DE 26 DE JANEIRO DE 1972.
 
 Retifica o art. 1º do Decreto nº 46.036, de 18 de maio de 1959.

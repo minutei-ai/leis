@@ -1,5 +1,3 @@
-###DEC-056616-0-000-27-07-1965@@@
-
 Decreto nº 56.616, de 27 de julho de 1965.
 
 Cria a Embaixada do Brasil em Trindad-e-Tobago e extingue o Consulado em Port-of-Spain.

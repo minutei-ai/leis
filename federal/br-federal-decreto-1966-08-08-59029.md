@@ -1,5 +1,3 @@
-###DEC-059029-0-000-08-08-1966@@@
-
 DECRETO Nº 59.029, de 8 de agôsto de 1966.
 
 Concede reconhecimento a cursos da Escola Politécnica de Pernambuco, agrega à Universidade Católica de Pernambuco.

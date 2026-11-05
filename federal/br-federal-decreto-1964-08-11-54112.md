@@ -1,5 +1,3 @@
-###DEC-054112-0-000-11-08-1964@@@
-
 DECRETO Nº 54.112, DE 11 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento, áreas de terreno situadas em Belém, Estado do Pará.

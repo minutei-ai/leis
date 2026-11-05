@@ -1,5 +1,3 @@
-###DEC-063938-0-000-30-12-1968@@@
-
 DECRETO Nº 63.938, DE 30 DE DEZEMBRO DE 1968.
 
 Abre, ao Ministério da Fazenda, em favor dos Municípios situados nos Territórios Federais, o crédito especial de NCr$ 150.000,00, para o fim que específica.

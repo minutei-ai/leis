@@ -1,5 +1,3 @@
-###DEC-054466-0-000-14-10-1964@@@
-
 DECRETO Nº 54.466, DE 14 DE OUTUBRO DE 1964.
 
 Regulamenta o dispositivo da Lei número 4.328, de 30 de abril de 1964 (Código de Vencimentos dos Militares).

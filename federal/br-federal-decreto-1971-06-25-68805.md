@@ -1,5 +1,3 @@
-###DEC-068805-0-000-25-06-1971@@@
-
 DECRETO Nº 68.805 - DE 25 DE JUNHO DE 1971.
 
 Concede reconhecimento ao Curso de Administração da Universidade Federal de Santa Maria, RS.

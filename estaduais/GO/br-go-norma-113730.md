@@ -16,10 +16,48 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA</td><td style=" width:85px;    ">09 272 0200 7203</td><td style=" width:85px;    ">28020330</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 213.964.202,71</td><td style=" width:85px;    ">R$ 213.964.202,71</td></tr></tbody></table>
+**1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">28020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 213.964.202,71</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 213.964.202,71</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA
+
+09 272 0200 7203
+
+28020330
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 213.964.202,71
+
+R$ 213.964.202,71
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+28020330 - RECURSOS VINCULADOS AO RPPS - TAXA DE ADMINISTRAÇÃO - EXERCÍCIOS ANTERIORES
+
+R$ 213.964.202,71
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 213.964.202,71

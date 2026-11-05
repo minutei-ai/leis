@@ -1,5 +1,3 @@
-###DEC-060346-0-000-09-03-1967@@@
-
 DECRETO Nº 60.346, DE 9 DE MARÇO DE 1967.
 
 Abre ao Ministério da Fazenda o crédito suplementar de NCr$1.160.766,00, à categoria econômica que especifica.
@@ -10,11 +8,61 @@ DECRETA:
 
 Art. 1º É aberto ao Ministério da Fazenda o crédito suplementar de NCr$1.160.766,00 (um milhão, cento e sessenta mil, setecentos e sessenta e seis cruzeiros novos), em refôrço a seguinte categoria econômica:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.07.00</span></p></td><td style="width:382.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Ministério da Fazenda</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.07.26</span></p></td><td style="width:382.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Diretoria da Despesa Pública (Encargos Gerais)</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.0.0</span></p></td><td style="width:382.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Transferências Correntes</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.3</span></p></td><td style="width:382.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Entidades Estaduais</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>K.11</span></p></td><td style="width:382.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>- Guanabara</span></p></td></tr></tbody></table>
+4.07.00
+
+- Ministério da Fazenda
+
+4.07.26
+
+- Diretoria da Despesa Pública (Encargos Gerais)
+
+3.2.0.0
+
+- Transferências Correntes
+
+3.2.9.3
+
+- Entidades Estaduais
+
+K.11
+
+- Guanabara
 
 2\) Para atender a encargos de pessoal, de acôrdo com a Lei nº 3.752, de 12 de abril de 1960:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>NCr$</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>a) Colônia Agrícola .................................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>155.692,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>b) Instituto Reeducacional ......................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>192.015,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>c) Conselho Penitenciário ......................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.115,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>g) Depósito Público ................................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>10.154,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>j) Penitenciária Professor Lemos de Brito ..............................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>417.493,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>m) Presídio .............................................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>374.143,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>n) Serviço Estadual de Bio-Estatística ...................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>7.541,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>o) Divisão de Fiscalização da Mediciana ...............................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>613,00</span></p></td></tr></tbody></table>
+NCr$
+
+a) Colônia Agrícola .................................................................................................
+
+155.692,00
+
+b) Instituto Reeducacional ......................................................................................
+
+192.015,00
+
+c) Conselho Penitenciário ......................................................................................
+
+3.115,00
+
+g) Depósito Público ................................................................................................
+
+10.154,00
+
+j) Penitenciária Professor Lemos de Brito ..............................................................
+
+417.493,00
+
+m) Presídio .............................................................................................................
+
+374.143,00
+
+n) Serviço Estadual de Bio-Estatística ...................................................................
+
+7.541,00
+
+o) Divisão de Fiscalização da Mediciana ...............................................................
+
+613,00
 
 Art. 2º O crédito de que trata o artigo anterior, será automàticamente registrado e distribuído ao Tesouro Nacional pelo Tribunal de Contas da União.
 

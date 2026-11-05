@@ -1,5 +1,3 @@
-###DEC-068653-0-000-24-05-1971@@@
-
 DECRETO Nº 68.653, DE 24 DE MAIO DE 1971.
 
 Concede à Companhia Nacional de Cimento Portland o direito de lavrar gipsita, nos municípios de Camamu e Maraú, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-072020-0-000-28-03-1973@@@
-
 DECRETO Nº 72.020, DE 28 DE MARÇO DE 1973.
 
 Aprova os Estatutos da Empresa Brasileira de Pesquisas Agropecuária e dá outras providências.

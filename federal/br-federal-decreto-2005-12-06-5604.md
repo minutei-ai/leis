@@ -1,5 +1,3 @@
-###DEC-005604-0-000-06-12-2005@@@
-
 DECRETO Nº 5.604, DE 6 DE DEZEMBRO DE 2005.
 
 Dispõe sobre a criação da Embaixada do Brasil na República do Benin, com sede em Cotonou.

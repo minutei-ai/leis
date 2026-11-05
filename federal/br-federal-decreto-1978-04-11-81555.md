@@ -1,5 +1,3 @@
-###DEC-081555-0-000-11-04-1978@@@
-
 Decreto nº 81.555, de 11 de abril de 1978.
 
 Autoriza a conversão do curso de Engenharia de Operação da Faculdade de Engenharia Industrial Santa Cecília, com sede na cidade de Santos, Estado de São Paulo.

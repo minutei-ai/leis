@@ -1,5 +1,3 @@
-###DEC-091759-0-000-08-10-1985@@@
-
 DECRETO Nº 91.759, DE 08 DE OUTUBRO DE 1985
 
 Concede à Companhia Eletromecânica CELMA, autorização para proceder o aumento de seu capital social.

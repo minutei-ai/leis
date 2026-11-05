@@ -1,5 +1,3 @@
-###DEC-070696-0-000-08-06-1972@@@
-
 DECRETO Nº 70.696, DE 8 DE JUNHO DE 1972.
 
 Autoriza a cessão gratuita de imóvel ao Departamento de Estradas de Rodagem do Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004105-0-000-11-02-1942@@@
-
 DECRETO-LEI N. 4.105 – DE 11 DE FEVEREIRO DE 1942
 
 Reconhece a União Nacional, dos Estudantes como entidade coordenadora e representativa dos corpos discentes dos estabelecimentos de ensino superior

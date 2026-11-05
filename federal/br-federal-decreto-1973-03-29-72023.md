@@ -1,5 +1,3 @@
-###DEC-072023-0-000-29-03-1973@@@
-
 DECRETO Nº 72.023, DE 29 DE MARÇO DE 1973.
 
 Aproveita funcionários no Quadro de Pessoal do Departamento de Polícia Federal, e dá outras providências.
@@ -71,8 +69,6 @@ Brasília, 29 de março de 1973; 152º da Independência e 85º da República.
 Emilio G. Médici
 
 Alfredo Buzaid
-
-###DEC-072023-0-000-29-03-1973@@@RET01+++
 
 DECRETO Nº 72.023, DE 29 DE MARÇO DE 1973.
 

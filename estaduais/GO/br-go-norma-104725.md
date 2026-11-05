@@ -10,8 +10,6 @@ Art. 2º Esta Lei entra em vigor em 1º de fevereiro de 2022.
 
 Goiânia, 29 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

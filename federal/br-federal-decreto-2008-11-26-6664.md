@@ -1,5 +1,3 @@
-###DEC-006664-0-000-26-11-2008@@@
-
 DECRETO Nº 6.664, DE 26 DE NOVEMBRO DE 2008.
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República do Benin, firmado em Brasília, em 11 de agosto de 2005.

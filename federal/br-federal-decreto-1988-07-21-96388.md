@@ -1,5 +1,3 @@
-###DEC-096388-0-000-21-07-1988@@@
-
 DECRETO N° 96.388, DE 21 DE JULHO DE 1988
 
 Altera o Decreto n° 62.127, de 16 de janeiro de 1968, que aprova o Regulamento do Código Nacional de Trânsito.

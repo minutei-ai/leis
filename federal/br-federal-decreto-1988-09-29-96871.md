@@ -1,5 +1,3 @@
-###DEC-096871-0-000-29-09-1988@@@
-
 DECRETO N° 96.871, DE 29 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO DO COMÉRCIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Barra Mansa, Estado do Rio de Janeiro.

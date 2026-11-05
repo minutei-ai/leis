@@ -1,5 +1,3 @@
-###DEC-083733-0-000-18-07-1979@@@
-
 Decreto nº 83.733, de 18 de julho de 1979.
 
 Declara de utilidade pública, para fins, de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado do Paraná.

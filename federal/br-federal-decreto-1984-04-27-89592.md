@@ -1,5 +1,3 @@
-###DEC-089592-0-000-27-04-1984@@@
-
 Decreto nº 89.592, de 27 de abril 1984
 
 Renova por 10 (dez) anos, as concessões outorgadas às entidades que menciona, para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

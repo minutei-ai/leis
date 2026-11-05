@@ -1,5 +1,3 @@
-###DEC-068346-0-000-15-03-1971@@@
-
 Decreto nº 68.346, de 15 de março de 1971.
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.

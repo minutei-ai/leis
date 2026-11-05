@@ -1,5 +1,3 @@
-###DEC-061105-0-000-28-07-1967@@@
-
 decreto nº 61.105, de 28 de julho de 1967.
 
 Institui o Fundo para o Desenvolvimento da Pecuária - FUNDEPE - e dá outras providências.

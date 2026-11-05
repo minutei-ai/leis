@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bf3e891d-beb1-4911-b953-b0689d548a05/texto#nowhere)
 
-###DEL-001884-0-000-17-09-1981@@@
-
 # Decreto-lei nº 1.884, de 17 de setembro de 1981.
 
 Acrescenta parágrafos ao artigo 4º do Decreto-lei nº 1.798, de 24 de julho de 1980, que estabelece limite de remuneração mensal para os servidores da Administração Federal.

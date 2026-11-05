@@ -1,7 +1,3 @@
-1
-
-###DEC-000893-0-000-12-08-1993@@@
-
 DECRETO N° 893, DE 12 DE AGOSTO DE 1993
 
 Aprova o Regulamento do Conselho de Defesa Nacional.

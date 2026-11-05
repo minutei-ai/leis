@@ -1,5 +1,3 @@
-###DEC-054879-0-000-04-11-1964@@@
-
 DECRETO Nº 54.879, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Eduardo Gomes Ferreira Leite a pesquisar cassiterita, no município de Porto Velho, Território Federal de Rondônia.

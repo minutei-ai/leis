@@ -1,5 +1,3 @@
-###DEC-089871-0-000-28-06-1984@@@
-
 # Decreto nº 89.871 de 28 de junho de 1984
 
 Outorga concessão à TELEVISÃO NAIPI LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Foz de Iguaçu, Estado do Paraná.

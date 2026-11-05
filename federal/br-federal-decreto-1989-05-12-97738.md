@@ -1,7 +1,3 @@
-1
-
-###DEC-097738-0-000-12-05-1989@@@
-
 DECRETO Nº 97.738, DE 12 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “IQUIRI” ou “PETROLINA”, classificado como “latifúndio por exploração” situado no Município de Senador Guiomard, no Estado do Acre, compreendido na zona prioritária, fixada pelo Decreto n° 92.676, de 19 de maio de 1986, e dá outras providências.

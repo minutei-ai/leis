@@ -1,5 +1,3 @@
-###DEC-005137-0-000-09-07-2004@@@
-
 DECRETO Nº 5.137, DE 9 DE JULHO DE 2004.
 
        Promulga o Acordo, por troca de Notas, entre o Governo da República Federativa do Brasil e o Governo do Japão, que dará efetividade ao "Programa de Recuperação Ambiental da Região Metropolitana da Baixada Santista", celebrado em Brasília, em 20 de agosto de 2003.
@@ -22,14 +20,18 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 9 de julho de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 Brasília, 20 de agosto de 2003
 
-        Sua Excelência<br>
-        Celso Luiz Nunes Amorim<br>
-        Ministro das Relações Exteriores<br>
+        Sua Excelência
+
+        Celso Luiz Nunes Amorim
+
+        Ministro das Relações Exteriores
+
         da República Federativa do Brasil
 
 Excelência,
@@ -82,15 +84,20 @@ Excelência,
 
         Aproveito a oportunidade para apresentar a Vossa Excelência os protestos da minha mais alta consideração.
 
-Tadashi Ikeda<br>
-Embaixador Extraordinário e Plenipotenciário do Japão na<br>
+Tadashi Ikeda
+
+Embaixador Extraordinário e Plenipotenciário do Japão na
+
 República Federativa do Brasil
 
 Brasília, 20 de agosto de 2003
 
-        A Sua Excelência o Senhor<br>
-        Tadashi Ikeda<br>
-        Embaixador Extraordinário e Plenipotenciário<br>
+        A Sua Excelência o Senhor
+
+        Tadashi Ikeda
+
+        Embaixador Extraordinário e Plenipotenciário
+
         do Japão
 
         Senhor Embaixador,
@@ -147,14 +154,18 @@ Brasília, 20 de agosto de 2003
 
         Aproveito a oportunidade para apresentar a Vossa Excelência os protestos da minha mais alta consideração.
 
-Tadashi Ikeda<br>
-Embaixador Extraordinário e Plenipotenciário do Japão na<br>
+Tadashi Ikeda
+
+Embaixador Extraordinário e Plenipotenciário do Japão na
+
 República Federativa do Brasil"
 
         Tenho ainda a honra de confirmar, em nome do Governo da República Federativa do Brasil, que o acima exposto é também o entendimento do Governo da República Federativa do Brasil, e de concordar com que a Nota de Vossa Excelência e esta Nota de resposta constituam um Acordo entre os dois Governos, o qual entrará em vigor à data do recebimento, pelo Governo do Japão, de notificação por escrito, por parte do Governo da República Federativa do Brasil de que se cumpriram os procedimentos internos necessários à sua vigência, incluindo os procedimentos domésticos para a aprovação das garantias mencionadas no parágrafo 3.
 
         Aproveito esta oportunidade para renovar a Vossa Excelência os protestos da minha mais alta consideração.
 
-Celso Amorim<br>
-Ministro de Estado das Relações Exteriores da<br>
+Celso Amorim
+
+Ministro de Estado das Relações Exteriores da
+
 República Federativa do Brasil

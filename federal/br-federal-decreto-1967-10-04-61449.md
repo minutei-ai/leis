@@ -1,5 +1,3 @@
-###DEC-061449-0-000-04-10-1967@@@
-
 DECRETO Nº 61.449, DE 4 DE OUTUBRO DE 1967.
 
 Outorga à Centrais Elétricas do Pará S.A. autorização para o estudo dos recursos hidráulicos do rio Gurupi, no Estado do Pará.

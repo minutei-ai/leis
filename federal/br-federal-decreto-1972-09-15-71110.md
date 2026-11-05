@@ -1,5 +1,3 @@
-###DEC-071110-0-000-15-09-1972@@@
-
 DECRETO Nº 71.110, DE 15 DE SETEMBRO DE 1972.
 
 Torna sem efeito aproveitamento de disponível do Ministério da Aeronáutica no Quadro de Pessoal do Instituto de Previdência dos Servidores do Estado e dá outras providências.

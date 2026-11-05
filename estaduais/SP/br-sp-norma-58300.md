@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58300)
-
 # LEI Nº 12.089, DE 07 DE OUTUBRO DE 2005
 
 ## (PL 608/2003 - Edmir Chedid)

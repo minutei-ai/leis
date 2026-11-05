@@ -1,5 +1,3 @@
-###DEC-046637-0-000-17-08-1959@@@
-
 DECRETO Nº 46.637, de 17 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro Vilmar Freitas a pesquisar fluorita, no município de Tubarão, Estado de Santa Catarina.

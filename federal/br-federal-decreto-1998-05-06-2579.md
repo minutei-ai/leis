@@ -1,5 +1,3 @@
-###DEC-002579-0-000-06-05-1998@@@
-
 DECRETO Nº 2.579, DE 6 DE MAIO DE 1998
 
 Promulga o Acordo Básico de Cooperação Técnica, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha, em Brasília, em 17 de setembro de 1996.
@@ -208,4 +206,20 @@ Artigo 11
 
 Feito em Brasília, em 17 de setembro de 1996, em quatro exemplares originais, dois no idioma português e dois no idioma alemão, sendo todos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federal da Alemanha</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia Ministro de Estado das Relações Exteriores</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Claus J. Duisberg</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federal da Alemanha
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Luiz Felipe Lampreia Ministro de Estado das Relações Exteriores
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Claus J. Duisberg
+
+</td></tr></tbody></table>

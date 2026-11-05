@@ -1,5 +1,3 @@
-###DEC-006550-0-000-27-08-2008@@@
-
 DECRETO Nº 6.550, DE 27 DE AGOSTO DE 2008.
 
 Dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Integração de Políticas de Transporte - CONIT, e dá outras providências.

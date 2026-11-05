@@ -1,5 +1,3 @@
-###DEC-064137-0-000-26-02-1969@@@
-
 DECRETO Nº 64.137, DE 26 DE FEVEREIRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Ministério da Saúde, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional e Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-001991-0-000-29-08-1996@@@
-
 DECRETO Nº 1.991, DE 29 DE AGOSTO DE 1996.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.865, de 16 de abril de 1996.

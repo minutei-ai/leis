@@ -1,5 +1,3 @@
-###DEC-064586-0-000-27-05-1969@@@
-
 decreto nº 64.586, de 27 de maio de 1969.
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais, com sede em São José do Rio Prêto, Estado de São Paulo.

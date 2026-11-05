@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62197)
-
 # LEI Nº 12.384, DE 11 DE MAIO DE 2006
 
 ## (Projeto de lei nº 36/2005, do Deputado Aldo Demarchi - PFL)

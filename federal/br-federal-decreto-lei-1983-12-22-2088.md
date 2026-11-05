@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/80f10547-a9c3-4ba6-ac43-cf7a112cf847/texto#nowhere)
 
-###DEL-002088-0-000-22-12-1983@@@
-
 # Decreto-LEI nº 2.088, dE 22 dE dezembro de 1983
 
 Dispõe sobre pagamento de débitos de contribuições previdenciárias.
@@ -39,8 +37,6 @@ Brasília, 22 de dezembro de 1983; 162º da Independência e 95º da República.
 JOãO FIGUEIREDO
 
 Jarbas Passarinho
-
-###DEL-002088-0-000-22-12-1983@@@REP01+++
 
 # (\*) DECRETO-LEI Nº 2.088, DE 22 DE DEZEMBRO DE 1983
 

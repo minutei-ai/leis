@@ -1,5 +1,3 @@
-###DEC-073914-0-000-05-04-1974@@@
-
 DECRETO Nº 73.914, DE 5 DE ABRIL DE 1974.
 
 Concede reconhecimento à Faculdade de Educação "Princesa Isabel" mantida pela Associação Princesa Isabel de Educação, com sede na cidade de São Paulo, Estado de São Paulo.

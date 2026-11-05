@@ -1,5 +1,3 @@
-###DEC-072941-0-000-17-10-1973@@@
-
 DECRETO Nº 72.941, DE 17 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-073518-0-000-21-01-1974@@@
-
 DECRETO Nº 73.518, DE 21 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 29.841, de agosto de 1951, através do qual foi concedido à Usina Queiroz Júnior S.A. - Indústria Siderúrgica o direito de lavrar minério de ferro e associados, no Município de Itabirito, Estado de Minas Gerais.

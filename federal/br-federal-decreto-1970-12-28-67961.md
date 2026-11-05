@@ -1,5 +1,3 @@
-###DEC-067961-0-000-28-12-1970@@@
-
 DECRETO Nº 67.961, DE 28 DE DEZEMBRO DE 1970.
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil e continuar a operar em seguros sob nova denominação social.

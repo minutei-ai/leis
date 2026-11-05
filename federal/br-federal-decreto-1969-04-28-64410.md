@@ -1,5 +1,3 @@
-###DEC-064410-0-000-28-04-1969@@@
-
 DECRETO Nº 64.410, DE 28 DE ABRIL DE 1969
 
 Provê sôbre o prazo para cumprimento de disposições relativas a subvenções ordinárias do Conselho Nacional do Serviço Social.

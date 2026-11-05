@@ -1,5 +1,3 @@
-###DEL-008421-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.421 – DE 21 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a concessão do abono aos servidores de emprêsas de energia elétrica.

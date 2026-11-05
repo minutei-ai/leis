@@ -1,5 +1,3 @@
-###DEC-078236-0-000-12-08-1976@@@
-
 Decreto nº 78.236, de 12 de agosto de 1976.
 
 Dá provimento parcial ao Recurso apresentado por João Corsino de Freitas, e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7417c707-b5e9-42e3-9217-bb2c8053f13d/texto#nowhere)
 
-###DEL-001818-0-000-11-12-1980@@@
-
 # DECRETO-lei nº 1.818, dE 11 dE dezembro de 1980
 
 Dispõe sobre reavaliação de bens do ativo imobilizado da Rede Ferroviária Federal S.A.

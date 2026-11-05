@@ -1,5 +1,3 @@
-###DEC-077229-0-000-25-02-1976@@@
-
 DECRETO Nº 77.229, DE 25 DE FEVEREIRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Humberto de Campos, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEL-003344-0-000-12-06-1941@@@
-
 DECRETO-LEI N. 3.344 –  DE 12 DE JUNHO DE 1941
 
 Organiza o 16º Regimento de Infantaria

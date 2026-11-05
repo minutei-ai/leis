@@ -1,5 +1,3 @@
-###DEC-004821-0-000-28-08-2003@@@
-
 DECRETO Nº 4.821,  DE 28 DE AGOSTO DE 2003.
 
        Altera a alínea "b" do § 3o do art. 2o do Regulamento da Ordem do Mérito Cultural, aprovado pelo Decreto no 1.711, de 22 de novembro de 1995.
@@ -18,5 +16,6 @@ DECRETO Nº 4.821,  DE 28 DE AGOSTO DE 2003.
 
         Brasília, 28 de agosto de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Gilberto Gil

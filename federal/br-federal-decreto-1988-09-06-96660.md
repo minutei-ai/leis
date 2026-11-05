@@ -1,5 +1,3 @@
-###DEC-096660-0-000-06-09-1988@@@
-
 DECRETO N° 96.660, DE 6 DE SETEMBRO DE 1988
 
 Dispõe sobre o Grupo de Coordenação incumbido de elaborar e atualizar o Plano Nacional de Gerenciamento Costeiro e as normas para sua implementação.

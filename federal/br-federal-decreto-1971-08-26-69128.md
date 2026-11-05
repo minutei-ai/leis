@@ -1,5 +1,3 @@
-###DEC-069128-0-000-26-08-1971@@@
-
 DECRETO Nº 69.128, DE 26 DE agôsto DE 1971.
 
 Autoriza o funcionamento da Faculdade Filosofia, Ciências e Letras de Guarulhos - SP, com diversos cursos.

@@ -1,5 +1,3 @@
-###DEC-056302-0-000-19-05-1965@@@
-
 DECRETO Nº 56.302, DE 19 DE MAIO DE 1965.
 
 Declarada de utilidade pública a fundação Nilo Carvalho com sede em São Paulo, Estado de São Paulo.

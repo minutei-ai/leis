@@ -1,5 +1,3 @@
-###DEC-066771-0-000-24-06-1970@@@
-
 DECRETO Nº 66.771 - DE 24 DE JUNHO DE 1970
 
 Declara de utilidade pública a Escola São Francisco de Assis, com sede em Bauru, Estado de São Paulo.

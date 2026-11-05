@@ -1,7 +1,3 @@
-1
-
-###DEC-099085-0-000-08-03-1990@@@
-
 DECRETO Nº 99.085, DE 8 DE MARÇO DE 1990.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado no Bairro Areinha, lote nº 1 (um) da Quadra nº 38 da Avenida Bacanga em São Luís, Estado do Maranhão.

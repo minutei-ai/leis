@@ -1,5 +1,3 @@
-###DEL-005440-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.440 – DE 30 DE ABRIL DE 1943
 
 Transfere gratuitamente à Fundação Darcí Vargas o domínio util de terrenos acrescidos de marinha, situados na Capital Federal, e dá outras provi­dências.

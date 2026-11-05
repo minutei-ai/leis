@@ -1,5 +1,3 @@
-###DEC-075036-0-000-04-12-1974@@@
-
 DECRETO Nº 75.036, DE 4 DE DEZEMBRO DE 1974.
 
 Concede à Indústria de Calcário Itá Limitada o direito de lavrar calcário dolomítico no Município de Tietê, Estado de São Paulo.

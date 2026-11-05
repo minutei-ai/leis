@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62220)
-
 # LEI Nº 12.389, DE 15 DE MAIO DE 2006
 
 ## (Projeto de lei nº 252/2005, do Deputado José Caldini Crespo - PFL)

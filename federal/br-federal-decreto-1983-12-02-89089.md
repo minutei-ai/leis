@@ -1,5 +1,3 @@
-###DEC-089089-0-000-02-12-1983@@@
-
 Decreto nº 89.089, de 02 de dezembro de 1983
 
 Outorga concessão à RÁDIO E TELEVISÃO CAMPESTRE LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Santa Isabel, Estado de São Paulo.

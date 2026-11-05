@@ -1,5 +1,3 @@
-###DEC-064946-0-000-06-08-1969@@@
-
 DECRETO Nº 64.946 - DE 6 DE AGôSTO DE 1969.
 
 Concede reconhecimento a Cursos da Sociedade Universitária Gama Filho - Guanabara.

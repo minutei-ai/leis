@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211710)<br>
-
 # DECRETO N° 70.014, DE 21 DE OUTUBRO DE 2025
 
 ### _Autoriza a outorga de uso, à Seleção Paulista, do imóvel que especifica, e dá providências correlatas._

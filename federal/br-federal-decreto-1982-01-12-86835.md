@@ -1,5 +1,3 @@
-###DEC-086835-0-000-12-01-1982@@@
-
 DECRETO nº 86.835, de 12 de janeiro de 1982
 
 Autoriza o aumento de potência de EMISSORAS DO VALE LTDA., na cidade de Cruzeiro, Estado de São Paulo.

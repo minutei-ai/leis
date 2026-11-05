@@ -1,5 +1,3 @@
-###DEL-006399-0-000-03-04-1944@@@
-
 DECRETO-LEI N. 6.399 – DE 3 DE ABRIL DE 1944
 
 Cria funções gratificadas no Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

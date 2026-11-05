@@ -1,5 +1,3 @@
-###DEC-086022-0-000-22-05-1981@@@
-
 decreTO nº 86.022, de 22 de maio de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A, nos Estados de São Paulo e Rio de Janeiro.

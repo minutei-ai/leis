@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210777)<br>
-
 # DECRETO N° 69.424, DE 20 DE MARÇO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação de Programa Habitacional e de Desenvolvimento Urbano, no Município de São Paulo, e dá providências correlatas._

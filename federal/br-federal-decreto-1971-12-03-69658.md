@@ -1,5 +1,3 @@
-###DEC-069658-0-000-03-12-1971@@@
-
 DECRETO Nº 69.658 - DE 3 DE DEZEMBRO DE 1971
 
 Autoriza a cessão de terreno ao Estado de Mato Grosso.

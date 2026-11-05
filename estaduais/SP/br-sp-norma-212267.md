@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212267)<br>
-
 # DECRETO N° 70.402, DE 26 DE FEVEREIRO DE 2026
 
 ### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._

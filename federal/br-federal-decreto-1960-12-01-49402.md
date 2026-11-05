@@ -1,5 +1,3 @@
-###DEC-049402-0-000-01-12-1960@@@
-
 DECRETO Nº 49.402, DE 1º DE DEZEMBRO DE 1960.
 
 Altera o artigo 1º do Decreto número 49.177, de 1º de novembro de 1960, que criou cargos e funções gratificada no Quadro do Instituto de Aposentadoria e Pensões dos Empregos em Transportes e cargos.

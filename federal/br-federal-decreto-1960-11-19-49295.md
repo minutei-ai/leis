@@ -1,5 +1,3 @@
-###DEC-049295-0-000-19-11-1960@@@
-
 DECRETO Nº 49.295, DE 19 DE NOVEMBRO DE 1960.
 
 Concede à Sociedade Mineração Morro Agudo Limitada autorização para funcionar como emprêsa de mineração.

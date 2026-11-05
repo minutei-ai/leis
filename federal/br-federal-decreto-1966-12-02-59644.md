@@ -1,5 +1,3 @@
-###DEC-059644-0-000-02-12-1966@@@
-
 decreto nº 59.644, de 2 de dezembro de 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$5.124.905 (cinco milhões, cento e vinte e quatro mil, novecentos e cinco cruzeiros), autorizado pela Lei nº 5.059, de 1º de julho de 1966, para atender as despesas que especifica.
@@ -10,7 +8,23 @@ decreta:
 
 Art. 1º É aberto pelo Ministério da Fazenda, o crédito especial de Cr$5.124.905 (cinco milhões, cento e vinte e quatro mil, novecentos e cinco cruzeiros) para atender ao pagamento do seguinte:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1. Destinado à indenização das despesas efetuiadas pelo Sr. Gercy Rodrigues Alves, com a mudança dos móveis e demais pertences da exatoria Federal de Joinville, Santa Catarina................................................................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>60.230</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2). Para atender ao pagamento à São Paulo Ligth S.A. - Serviços de Eletricidade, de fornecimento de luz à Delegacia Regional de Rendas Internas em São Paulo, nos meses de janeiro a dezembro de 1965...........................................................................</span></p></td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5.064.675</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+1. Destinado à indenização das despesas efetuiadas pelo Sr. Gercy Rodrigues Alves, com a mudança dos móveis e demais pertences da exatoria Federal de Joinville, Santa Catarina................................................................................................................
+
+</td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+60.230
+
+</td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+2). Para atender ao pagamento à São Paulo Ligth S.A. - Serviços de Eletricidade, de fornecimento de luz à Delegacia Regional de Rendas Internas em São Paulo, nos meses de janeiro a dezembro de 1965...........................................................................
+
+</td><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom">
+
+5.064.675
+
+</td></tr></tbody></table>
 
 Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 

@@ -1,5 +1,3 @@
-###MPV-001956-0-046-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.956-46, DE 3 DE Fevereiro DE 2000.
 
 Dá nova redação aos arts. 3º, 16 e 44 da Lei nº 4.771, de 15 de setembro de 1965, e dispõe sobre a proibição do incremento da conversão de áreas florestais em áreas agrícolas na região Norte e na parte Norte da região Centro-Oeste, e dá outras providências.

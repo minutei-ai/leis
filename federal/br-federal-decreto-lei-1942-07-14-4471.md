@@ -1,5 +1,3 @@
-###DEL-004471-0-000-14-07-1942@@@
-
 DECRETO-LEI N. 4.471 – DE 14 DE JULHO DE 1942
 
 Dispõe sobre licenças a funcionários da Justiça Militar

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209638)<br>
-
 # DECRETO N° 68.651, DE 27 DE JUNHO DE 2024
 
 ### _Transfere os cargos que especifica e dá providências correlatas._
@@ -24,8 +22,90 @@ Anderson Marcio de Oliveira        
 
 #### ANEXO I
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:none;border-left:none;border-right:none;border-top:none;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>DENOMINAÇÃO DA CLASSE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>SUBQUADRO</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>EX-OCUPANTE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>RG</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>MOTIVO DA VACÂNCIA</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>DO</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>PARA</strong></span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">ASSESSOR DE GABINETE II</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">ANA FLAVIA PIGOZZO FEDATO</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">6.532.765-1 PR</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">EXONERAÇÃO</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QCC</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSEMIL</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">ASSESSOR TÉCNICO DE GABINETE IV</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">THIAGO RODRIGUES SÃO MARCOS NOGUEIRA</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">30.657.662-4</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">EXONERAÇÃO</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QCC</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSECOM</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">COORDENADOR</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">JOÃO DE PAULA FERREIRA NETO</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">18.155.183-4</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">EXONERAÇÃO</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QCC</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">QSECOM</span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DA CLASSE**
+
+**SUBQUADRO**
+
+**EX-OCUPANTE**
+
+**RG**
+
+**MOTIVO DA VACÂNCIA**
+
+**DO**
+
+**PARA**
+
+ASSESSOR DE GABINETE II
+
+SQC-I
+
+ANA FLAVIA PIGOZZO FEDATO
+
+6.532.765-1 PR
+
+EXONERAÇÃO
+
+QCC
+
+QSEMIL
+
+ASSESSOR TÉCNICO DE GABINETE IV
+
+SQC-I
+
+THIAGO RODRIGUES SÃO MARCOS NOGUEIRA
+
+30.657.662-4
+
+EXONERAÇÃO
+
+QCC
+
+QSECOM
+
+COORDENADOR
+
+SQC-I
+
+JOÃO DE PAULA FERREIRA NETO
+
+18.155.183-4
+
+EXONERAÇÃO
+
+QCC
+
+QSECOM
 
 #### ANEXO II
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:none;border-left:none;border-right:none;border-top:none;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>DENOMINAÇÃO DA CLASSE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>SUBQUADRO</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>EX-OCUPANTE</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>RG</strong></span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:40px;padding:2px;vertical-align:top;width:152.188px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;"><strong>MOTIVO DA VACÂNCIA</strong></span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">ASSESSOR I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">ANICE EDUARDO AZZAM</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">39.288.526-8</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.188px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">EXONERAÇÃO</span></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">ASSESSOR I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SQC-I</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">SONIA REGINA ALVES DE CARVALHO</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.125px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">22.269.057-4</span></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:40px;padding:2px;vertical-align:top;width:152.188px;"><p style="margin-left:0px;"><span style="color:rgb(0,0,0)!important;">EXONERAÇÃO</span></p></td></tr></tbody></table>
+**DENOMINAÇÃO DA CLASSE**
+
+**SUBQUADRO**
+
+**EX-OCUPANTE**
+
+**RG**
+
+**MOTIVO DA VACÂNCIA**
+
+ASSESSOR I
+
+SQC-I
+
+ANICE EDUARDO AZZAM
+
+39.288.526-8
+
+EXONERAÇÃO
+
+ASSESSOR I
+
+SQC-I
+
+SONIA REGINA ALVES DE CARVALHO
+
+22.269.057-4
+
+EXONERAÇÃO

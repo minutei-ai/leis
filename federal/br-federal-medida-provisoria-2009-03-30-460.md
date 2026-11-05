@@ -1,5 +1,3 @@
-###MPV-000460-0-000-30-03-2009@@@
-
 MEDIDA PROVISÓRIA Nº 460, DE 30 DE MARÇO DE 2009.
 
 Dá nova redação aos arts. 4o e 8o da Lei no 10.931, de 2 de agosto de 2004, que tratam de patrimônio de afetação de incorporações imobiliárias, dispõe sobre o tratamento tributário a ser dado às receitas mensais auferidas pelas empresas construtoras nos contratos de construção de moradias firmados dentro do Programa Minha Casa, Minha Vida - PMCMV, atribui à Agência Nacional de Telecomunicações - ANATEL as atribuições de apurar, constituir, fiscalizar e arrecadar a Contribuição para o Fomento da Radiodifusão Pública, e dá outras providências.

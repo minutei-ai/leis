@@ -1,5 +1,3 @@
-###DEC-076139-0-000-19-08-1975@@@
-
 DECRETO Nº 76.139 - DE 19 DE AGOSTO DE 1975
 
 Declara cessação de exploração de serviços de energia elétrica, consolida área de concessão da Centrais Elétricas de Minas Gerais S.A. - CEMIG e dá outras providências.

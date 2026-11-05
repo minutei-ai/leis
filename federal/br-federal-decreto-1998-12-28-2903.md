@@ -1,5 +1,3 @@
-###DEC-002903-0-000-28-12-1998@@@
-
 DECRET0 Nº 2.903, DE 28 DE DEZEMBRO DE 1998
 
 Altera o Decreto nº 2.451, de 5 de janeiro de 1998.

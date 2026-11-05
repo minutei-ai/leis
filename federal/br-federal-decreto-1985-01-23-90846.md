@@ -1,5 +1,3 @@
-###DEC-090846-0-000-23-01-1985@@@
-
 Decreto nº 90.846, de 23 de Janeiro de 1985
 
 Outorga concessão à RÁDIO EMISSORA DE ACOPIARA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Acopiara, Estado do Ceará.

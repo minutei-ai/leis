@@ -1,5 +1,3 @@
-###DEL-006647-0-000-29-06-1944@@@
-
 DECRETO-LEI N. 6.647 – DE 29 DE JUNHO DE 1944
 
 Indica o crédito destinado a atender às despesas decorrentes das vantagens de que trata o Decreto-lei nº 6.317, de 6 de março de 1944

@@ -1,5 +1,3 @@
-###DEC-054681-0-000-29-10-1964@@@
-
 DECRETO Nº 54.681, DE 29 DE OUTUBRO DE 1964.
 
 Outorga à Madeireira Nacional S.A. concessão par aproveitamento de energia hidráulica.

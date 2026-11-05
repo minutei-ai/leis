@@ -1,5 +1,3 @@
-###DEC-007820-0-000-03-10-2012-PUB-01@@@
-
 DECRETO Nº 7.820, DE 3 DE OUTUBRO DE 2012
 
 Altera o Decreto nº 6.707, de 23 de dezembro de 2008, para modificar percentuais aplicados sobre o preço de referência de cervejas de malte e cervejas sem álcool, para efeito de cálculo dos tributos que menciona.

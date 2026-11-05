@@ -1,5 +1,3 @@
-###DEC-082918-0-000-20-12-1978@@@
-
 Decreto nº 82.918, de 20 de dezembro de 1978
 
 Declara sem efeito o Decreto nº 74.203, de 21 de junho de 1974, retificado pelo Decreto nº 78.010, de 08 de julho de 1976, que concedeu à Mineração Cristal Ltda. o direito de lavrar água potável de mesa no Município de Ibirité, Estado de Minas Gerais.

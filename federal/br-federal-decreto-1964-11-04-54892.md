@@ -1,5 +1,3 @@
-###DEC-054892-0-000-04-11-1964@@@
-
 DECRETO Nº 54.892, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileiro Manoel Martins Pedra a pesquisar quartzo e mica, no município de Governador Valadares, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-063949-0-000-31-12-1968@@@
-
 decreto nº 63.949, de 31 de dezembro de 1968.
 
 Dispõem sôbre reserva para cobertura das responsabilidades das sociedades de seguro pelos acidentes do trabalho não liquidados.

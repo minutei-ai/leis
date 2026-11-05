@@ -1,5 +1,3 @@
-###DEC-072010-0-000-27-03-1973@@@
-
 DECRETO Nº 72.010, DE 27 DE MARÇO DE 1973.
 
 Concede reconhecimento aos cursos de Engenharia Civil, Engenharia Elétrica e Engenharia Mecânica, da Universidade de Brasília - DF., mantida Fundação Universidade de Brasília.

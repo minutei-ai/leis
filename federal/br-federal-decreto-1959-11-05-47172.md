@@ -1,5 +1,3 @@
-###DEC-047172-0-000-05-11-1959@@@
-
 DECRETO Nº 47.172, DE 5 DE NOVEMBRO DE 1959
 
 Dispõe sôbre a aquisição de veículos para o Serviço Público Federal, e dá outras providências.

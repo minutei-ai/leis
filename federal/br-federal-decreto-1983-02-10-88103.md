@@ -1,5 +1,3 @@
-###DEC-088103-0-000-10-02-1983@@@
-
 Decreto nº 88.103, de 10 de fevereiro de 1983.
 
 Declara de utilidade pública as instituições que menciona

@@ -1,5 +1,3 @@
-###DEC-063934-0-000-30-12-1968@@@
-
 DECRETO Nº 63.934, DE 30 DE DEZEMBRO DE 1968.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de NCr$ 276.000,00 (duzentos e setenta e seis mil cruzeiros novos) a favor do Departamento Nacional de Educação, para atender às despesas de atividades extra-escolares do Projeto Rondon.

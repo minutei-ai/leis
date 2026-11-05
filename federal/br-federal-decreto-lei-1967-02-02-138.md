@@ -1,5 +1,3 @@
-###DEL-000138-0-000-02-02-1967@@@
-
 decreTO-LEI Nº 138, de 2 de FEVEREIRO DE 1967
 
 Autoriza o Departamento Nacional de Obras Contra as Sêcas a executar obras de Engenharia Rural.

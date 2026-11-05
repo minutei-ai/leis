@@ -1,5 +1,3 @@
-###DEC-064302-0-000-02-04-1969@@@
-
 DECRETO Nº 64.302, DE 2 DE ABRIL DE 1969.
 
 Concede reconhecimento ao Curso de Jornalismo da Universidade Federal do Paraná.

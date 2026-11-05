@@ -1,7 +1,3 @@
-1
-
-###MPV-000978-0-000-20-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 978, DE 20 DE ABRIL DE 1995
 
 Dispõe sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do Real e os critérios para conversão das obrigações para o Real, e dá outras providências.

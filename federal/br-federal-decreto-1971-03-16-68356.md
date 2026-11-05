@@ -1,5 +1,3 @@
-###DEC-068356-0-000-16-03-1971@@@
-
 Decreto nº 68.356, de 16 de março de 1971.
 
 Concede reconhecimento à Faculdade Estadual de Direito de Maringá e ao Curso de Bacharelado, em Maringá, no Estado do Paraná.

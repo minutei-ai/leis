@@ -1,5 +1,3 @@
-###DEC-074111-0-000-27-05-1974@@@
-
 DECRETO Nº 74.111, DE 27 DE MAIO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de São Bernardo do Campo, mantida pela Fundação Educacional João Ramalho, com os cursos de Letras, de Química, de Pedagogia e de Estudos Sociais, com sede em São Bernardo do Campo, Estado de São Paulo.

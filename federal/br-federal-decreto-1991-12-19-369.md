@@ -1,7 +1,3 @@
-1
-
-###DEC-000369-0-000-19-12-1991@@@
-
 DECRETO N° 369, DE 19 DE DEZEMBRO DE 1991
 
 Aprova o Estatuto da Companhia Nacional de Abastecimento - CONAB.

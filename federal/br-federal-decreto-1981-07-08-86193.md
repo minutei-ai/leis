@@ -1,5 +1,3 @@
-###DEC-086193-0-000-08-07-1981@@@
-
 Decreto nº 86.193, de 08 de julho de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

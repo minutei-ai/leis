@@ -1,5 +1,3 @@
-###DEC-090046-0-000-13-08-1984@@@
-
 DECRETO Nº 90.046, DE 13 DE AGOSTO DE 1984
 
 Eleva o capital do Banco Nacional de Desenvolvimento Econômico e Social - BNDES.

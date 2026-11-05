@@ -1,5 +1,3 @@
-###DEC-071926-0-000-16-03-1973@@@
-
 Decreto Nº 71.926, DE 16 DE MARÇO DE 1973
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exercício.

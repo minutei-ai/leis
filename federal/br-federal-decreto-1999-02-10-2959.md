@@ -1,5 +1,3 @@
-###DEC-002959-0-000-10-02-1999@@@
-
 DECRETO Nº 2.959, DE 10 DE FEVEREIRO DE 1999.
 
 Dispõe sobre medidas a serem implementadas na Amazônia Legal, para monitoramento, prevenção, educação ambiental e combate a incêndios florestais.

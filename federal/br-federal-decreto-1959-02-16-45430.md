@@ -1,5 +1,3 @@
-###DEC-045430-0-000-16-02-1959@@@
-
 DECRETO Nº 45.430, DE 16 DE FEVEREIRO DE 1959.
 
 Revigora o prazo de que trata o Decreto nº 43.466, de 27 de março de 1958, prorrogando-o até 31 de maio de 1959.

@@ -16,108 +16,903 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA</td><td style=" width:85px;    ">09 272 0200 7203</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 166.513.548,25</td><td style=" width:85px;    ">R$ 30.997.636,58</td><td style=" width:85px;    ">R$ 197.511.184,83</td></tr></tbody></table>
+**1880-FUNDO FINANCEIRO DO REGIME PRÓPRIO DE PREVIDÊNCIA DO SERVIDOR - FFRPPS**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 30.997.636,58</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 30.997.636,58</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ENCARGOS COM BENEFÍCIOS PREVIDENCIÁRIOS PELOS REGIMES PRÓPRIOS DE PREVIDÊNCIA
+
+09 272 0200 7203
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 166.513.548,25
+
+R$ 30.997.636,58
+
+R$ 197.511.184,83
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 30.997.636,58
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 30.997.636,58
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1300 - VICE-GOVERNADORIA</b><br>1301 - GABINETE DO VICE-GOVERNADOR</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr></tbody></table>
+**1300 - VICE-GOVERNADORIA**
+1301 - GABINETE DO VICE-GOVERNADOR
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO</b><br>1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.215.806,32</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1500 - CONTROLADORIA-GERAL DO ESTADO</b><br>1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 130.000,00</td><td style=" width:85px;    ">R$ 130.000,00</td><td style=" width:85px;    ">R$ 130.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1600 - SECRETARIA DE ESTADO DA CASA MILITAR</b><br>1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 150.000,00</td><td style=" width:85px;    ">R$ 150.000,00</td><td style=" width:85px;    ">R$ 150.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1900 - SECRETARIA DE ESTADO DE GOVERNO</b><br>1901 - GABINETE DO SECRETARIO DE GOVERNO</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+28 846 0100 7119
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2904 - POLÍCIA CIVIL</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 500.000,00</td><td style=" width:85px;    ">R$ 500.000,00</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2906 - DIRETORIA-GERAL DE POLICIA PENAL</td></tr></tbody></table>
+1 - PESSOAL E ENCARGOS SOCIAIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 3.500.000,00</td><td style=" width:85px;    ">R$ 3.500.000,00</td><td style=" width:85px;    ">R$ 3.500.000,00</td></tr></tbody></table>
+R$ 50.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+R$ 50.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 10.000.000,00</td><td style=" width:85px;    ">R$ 10.000.000,00</td><td style=" width:85px;    ">R$ 10.000.000,00</td></tr></tbody></table>
+R$ 50.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1261-AGÊNCIA BRASIL CENTRAL - ABC</b></td></tr></tbody></table>
+**1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO**
+1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.555.303,06</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4000 - SECRETARIA-GERAL DE GOVERNO</b><br>4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER</b><br>2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</b><br>2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 250.000,00</td><td style=" width:85px;    ">R$ 250.000,00</td><td style=" width:85px;    ">R$ 250.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 2.161.344,38</td><td style=" width:85px;    ">R$ 2.000.000,00</td><td style=" width:85px;    ">R$ 2.000.000,00</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 3.123.654,50</td><td style=" width:85px;    ">R$ 3.000.000,00</td><td style=" width:85px;    ">R$ 3.000.000,00</td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO</b><br>1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO</td></tr></tbody></table>
+04 122 4100 4144
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 400.000,00</td><td style=" width:85px;    ">R$ 400.000,00</td><td style=" width:85px;    ">R$ 400.000,00</td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">04 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 4.492.307,56</td><td style=" width:85px;    ">R$ 3.417.636,58</td><td style=" width:85px;    ">R$ 3.417.636,58</td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2500 - SECRETARIA DE ESTADO DE CULTURA</b><br>2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr></tbody></table>
+1 - PESSOAL E ENCARGOS SOCIAIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+R$ 1.215.806,32
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td></tr></tbody></table>
+R$ 1.000.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</b><br>3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS</td></tr></tbody></table>
+R$ 1.000.000,00
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td></tr></tbody></table>
+**1500 - CONTROLADORIA-GERAL DO ESTADO**
+1501 - GABINETE DO SECRETÁRIO - CHEFE DA CONTROLADORIA GERAL DO ESTADO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1863-AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS - AGR</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 100.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">12 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.648.651,13</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.239.471,76</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO</b><br>1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV</td><td style=" width:85px;    ">28 846 0100 7119</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td><td style=" width:85px;    ">R$ 50.000,00</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1400 - PROCURADORIA-GERAL DO ESTADO DE GOIÁS - PGE</b><br>1401 - GABINETE DO PROCURADOR GERAL DO ESTADO</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:85px;    ">03 122 4100 4144</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">91</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.214.768,15</td><td style=" width:85px;    ">R$ 1.000.000,00</td><td style=" width:85px;    ">R$ 1.000.000,00</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 30.997.636,58</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 30.997.636,58</td></tr></tbody></table>
+28 846 0100 7119
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+15000100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 30.997.636,58</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 30.997.636,58</td></tr></tbody></table>
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 130.000,00
+
+R$ 130.000,00
+
+R$ 130.000,00
+
+**1600 - SECRETARIA DE ESTADO DA CASA MILITAR**
+1601 - GABINETE DO SECRETÁRIO - CHEFE DA CASA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 150.000,00
+
+R$ 150.000,00
+
+R$ 150.000,00
+
+**1900 - SECRETARIA DE ESTADO DE GOVERNO**
+1901 - GABINETE DO SECRETARIO DE GOVERNO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2904 - POLÍCIA CIVIL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2906 - DIRETORIA-GERAL DE POLICIA PENAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 3.500.000,00
+
+R$ 3.500.000,00
+
+R$ 3.500.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 10.000.000,00
+
+R$ 10.000.000,00
+
+R$ 10.000.000,00
+
+**1261-AGÊNCIA BRASIL CENTRAL - ABC**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.555.303,06
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**4000 - SECRETARIA-GERAL DE GOVERNO**
+4001 - GABINETE DO CHEFE DA SECRETARIA-GERAL DA GOVERNADORIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+**2600 - SECRETARIA DE ESTADO DE ESPORTE E LAZER**
+2601 - GABINETE DA SECRETARIA DE ESTADO DE ESPORTE E LAZER
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+**2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL**
+2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 250.000,00
+
+R$ 250.000,00
+
+R$ 250.000,00
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 2.161.344,38
+
+R$ 2.000.000,00
+
+R$ 2.000.000,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 3.123.654,50
+
+R$ 3.000.000,00
+
+R$ 3.000.000,00
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**1800 - SECRETARIA DE ESTADO DA ADMINISTRAÇÃO**
+1801 - GABINETE DO SECRETÁRIO DE ESTADO DA ADMINISTRAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 400.000,00
+
+R$ 400.000,00
+
+R$ 400.000,00
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+04 122 4100 4144
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 4.492.307,56
+
+R$ 3.417.636,58
+
+R$ 3.417.636,58
+
+**2500 - SECRETARIA DE ESTADO DE CULTURA**
+2501 - GABINETE DO SECRETÁRIO DE ESTADO DE CULTURA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+**3300 - SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS**
+3301 - GAB. SEC. DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+**1863-AGÊNCIA GOIANA DE REGULAÇÃO, CONTROLE E FISCALIZAÇÃO DE SERVIÇOS PÚBLICOS - AGR**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+R$ 100.000,00
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+12 122 4100 4144
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.648.651,13
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.239.471,76
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO**
+1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR - RPV
+
+28 846 0100 7119
+
+15000100
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+R$ 50.000,00
+
+**1400 - PROCURADORIA-GERAL DO ESTADO DE GOIÁS - PGE**
+1401 - GABINETE DO PROCURADOR GERAL DO ESTADO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+03 122 4100 4144
+
+15000100
+
+91
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.214.768,15
+
+R$ 1.000.000,00
+
+R$ 1.000.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 30.997.636,58
+
+**TOTAL**
+
+R$ 30.997.636,58
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 30.997.636,58
+
+**TOTAL**
+
+R$ 30.997.636,58

@@ -1,5 +1,3 @@
-###DEC-094763-0-000-10-08-1987@@@
-
 DECRETO N° 94.763, DE 10 DE AGOSTO DE 1987.
 
 Dispõe sobre a composição do Conselho Deliberativo da Superintendência do Desenvolvimento da Região Sul, e dá outras providências.

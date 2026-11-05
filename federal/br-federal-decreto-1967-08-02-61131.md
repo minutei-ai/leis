@@ -1,5 +1,3 @@
-###DEC-061131-0-000-02-08-1967@@@
-
 DECRETO Nº 61.131, DE 2 DE AGÔSTO DE 1967.
 
 Prorroga, por cento e oitenta dias, o prazo a que se refere o parágrafo único do art. 3º do Decreto número 60.056, de 12 de janeiro de 1967.

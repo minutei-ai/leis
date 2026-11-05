@@ -1,5 +1,3 @@
-###DEL-004350-0-000-30-05-1942@@@
-
 DECRETO-LEI N. 4.350 – DE 30 DE MAIO DE 1942
 
 Dispõe sobre a contagem do tempo de serviço dos marítimos empregados nas linhas consideradas de risco agravado e os sujeita aos preceitos disciplinares e penais militares

@@ -1,5 +1,3 @@
-###DEC-071737-0-000-22-01-1973@@@
-
 DECRETO Nº 71.737, DE 22 DE JANEIRO DE 1973.
 
 Transforma em Departamento de Ensino Supletivo o Departamento de Educação Complementar e dá outras providências.

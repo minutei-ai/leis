@@ -1,5 +1,3 @@
-###DEL-001103-0-000-06-04-1970@@@
-
 # DECRETO-LEI Nº 1.103, de 6 DE ABRIL DE 1970
 
 Altera dispositivos do Decreto-Lei nº 1.034-69, que dispõe sôbre a segurança das Instituições Bancárias, Caixas Econômicas e Cooperativas de Créditos.

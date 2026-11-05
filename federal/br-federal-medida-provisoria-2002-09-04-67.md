@@ -1,5 +1,3 @@
-###MPV-000067-0-000-04-09-2002@@@
-
 MEDIDA PROVISÓRIA Nº 67, DE 4 DE SETEMBRO DE 2002
 
 Dispõe sobre o tratamento tributário dispensado às empresas de transporte aéreo, e dá outras providências.

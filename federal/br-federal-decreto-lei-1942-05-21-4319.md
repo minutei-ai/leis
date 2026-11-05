@@ -1,5 +1,3 @@
-###DEL-004319-0-000-21-05-1942@@@
-
 DECRETO-LEI N. 4.319 – DE 21 DE MAIO DE 1942
 
 Eleva o orçamento das obras do porto de Mucuripe e prorroga o prazo para conclusão dessas obras

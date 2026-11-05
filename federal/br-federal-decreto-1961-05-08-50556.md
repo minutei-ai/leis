@@ -1,5 +1,3 @@
-###DEC-050556-0-000-08-05-1961@@@
-
 DECRETO Nº 50.556, DE 8 DE MAIO DE 1961.
 
 Prorroga por mais 45 dias o prazo a que se refere o art. 7º do Decreto número 50.423, de 8 de abril de 1961.

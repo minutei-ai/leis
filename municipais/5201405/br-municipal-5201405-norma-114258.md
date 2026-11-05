@@ -26,20 +26,24 @@ Município de Aparecida de Goiânia, 26 de Abril de 2024.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-MARLUCIO PEREIRA<br>
+MARLUCIO PEREIRA
+
 Secretário
 
 ANEXO ÚNICO
 
 Endereço: Rua Oliveira Lobo com Rua Vereador Jerônimo Pereira com Rua Manoel Gomes Xavier com Rua Alexandre Fleming, Quadra 93, Lotes 1 ao 08, Setor Serra Dourada 3ª Etapa. Aparecida de Goiânia, Goiás.
 
-Memorial Descritivo:<br>
+Memorial Descritivo:
+
 REGULARIZAÇÃO FUNDIÁRIA URBANA DE INTERESSE SOCIAL
 
 Situação em Certidão:

@@ -1,5 +1,3 @@
-###DEC-046924-0-000-30-09-1959@@@
-
 DECRETO Nº 46.924, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Antonio Mardegam, a pesquisar água mineral no município de Ibirá, Estado de São Paulo.

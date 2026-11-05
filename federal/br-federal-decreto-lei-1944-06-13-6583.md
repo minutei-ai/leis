@@ -1,5 +1,3 @@
-###DEL-006583-0-000-13-06-1944@@@
-
 DECRETO-LEI N. 6.583 – DE 13 JUNHO DE 1944
 
  Dispõe sôbre redução de interstícios

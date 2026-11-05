@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.347, de 23 de Abril de 2024](https://legis.ac.gov.br/
 
 > **LEI Nº 3.480, DE 24 DE MAIO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Sistema Estadual de Defesa do Consumidor – SISDECON, cria o Conselho Estadual de Defesa do Consumidor – CONDECON, o Fundo Estadual de Defesa do Consumidor – FEDC, e o Instituto de Proteção e Defesa do Consumidor do Estado do Acre – PROCON-AC, e dá outras providências</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Sistema Estadual de Defesa do Consumidor – SISDECON, cria o Conselho Estadual de Defesa do Consumidor – CONDECON, o Fundo Estadual de Defesa do Consumidor – FEDC, e o Instituto de Proteção e Defesa do Consumidor do Estado do Acre – PROCON-AC, e dá outras providências
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -84,8 +88,6 @@ Modificada pela Lei nº [4.347, de 23 de Abril de 2024](https://legis.ac.gov.br/
 
 **VII -** aprovar acordos para pôr fim a processos administrativos com assuntos da mesma natureza e situações fáticas semelhantes. (Incluído pela Lei nº 4.347, de 23/04/2024)
 
-<br>
-
 **CAPÍTULO II**
 
 **Da Composição**
@@ -134,33 +136,19 @@ Modificada pela Lei nº [4.347, de 23 de Abril de 2024](https://legis.ac.gov.br/
 
 **§ 1º** O Conselho deliberará por maioria simples, presente a maioria absoluta de seus membros. (Transformado pela Lei nº 4.347, de 23/04/2024)
 
-<br>
-
 **§ 2º** Os conselheiros do CONDECON perceberão, por reunião de caráter deliberativo a que efetivamente comparecerem, indenização correspondente a cento e nove Unidades Padrão Fiscal - UPF do Estado do Acre, ou da unidade de referência que vier a substituí-la, paga sob a forma de jetons. (Incluído pela Lei nº 4.347, de 23/04/2024)
-
-<br>
 
 **§ 3º** Os jetons serão pagos por até quatro reuniões anuais, considerando-se não remuneradas eventuais reuniões excedentes no mesmo exercício. (Incluído pela Lei nº 4.347, de 23/04/2024)
 
 **§ 4º** O repasse dos jetons será processado considerando as atas das reuniões realizadas pelo CONDECON. (Incluído pela Lei nº 4.347, de 23/04/2024)
 
-<br>
-
 **§ 5º** Será vedado o pagamento prévio ou ainda pendente de comprovação de participação em reunião. (Incluído pela Lei nº 4.347, de 23/04/2024)
-
-<br>
 
 **§ 6º** Aos conselheiros que deixarem de comparecer a reunião ordinária ou extraordinária, não serão pagos os jetons correspondentes. (Incluído pela Lei nº 4.347, de 23/04/2024)
 
-<br>
-
 **§ 7º** Aplica-se o disposto neste artigo aos conselheiros suplentes quando comparecerem a reuniões em substituição aos titulares. (Incluído pela Lei nº 4.347, de 23/04/2024)
 
-<br>
-
 **§ 8º** O pagamento dos jetons será custeado com recursos próprios do FEDC. (Incluído pela Lei nº 4.347, de 23/04/2024)
-
-<br>
 
 **Art. 8º** As deliberações serão lavradas em atas que serão redigidas com clareza, e registradas todas as decisões tomadas, tornando-se objeto de aprovação formal.
 
@@ -376,11 +364,7 @@ Modificada pela Lei nº [4.347, de 23 de Abril de 2024](https://legis.ac.gov.br/
 
 **Parágrafo único.** O PROCON-AC, até que seja aprovado o seu PCCR, poderá, mediante acordo, solicitar servidores de outros órgãos e entidades da administração pública direta e indireta.
 
-<br>
-
 **Art. 21-A.** Os cargos em comissão da estrutura do PROCON, de livre nomeação e exoneração do Presidente, adotarão os mesmos parâmetros de remuneração e simbologia daqueles previstos na lei que dispõe sobre a estrutura administrativa do Poder Executivo estadual, no que couber. (Incluído pela Lei Complementar nº 428, de 16/02/2023, com efeitos a contar de 1º de março de 2023) 
-
-<br>
 
 **Parágrafo único.** A instalação e preenchimento dos cargos a que se refere o **caput** terá o valor referencial mensal de R$ 100.000,00 (cem mil reais), não incluídos os encargos sociais e previdenciários correspondentes. (Incluído pela Lei Complementar nº 428, de 16/02/2023, com efeitos a contar de 1º de março de 2023)
 

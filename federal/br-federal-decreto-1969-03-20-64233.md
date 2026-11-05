@@ -1,5 +1,3 @@
-###DEC-064233-0-000-20-03-1969@@@
-
 DECRETO Nº 64.233, de 20 DE MARÇO DE 1969.
 
 Autoriza o funcionamento da Faculdade de Arquitetura e Urbanismo "Santa Úrsula", Rio de Janeiro - GB.

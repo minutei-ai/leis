@@ -1,5 +1,3 @@
-###DEL-009197-0-000-24-04-1946@@@
-
 DECRETO LEI N. 9.197 – DE 24 DE ABRIL DE 1946
 
 Altera padrão de cargo de Professor da Escola Técnica de Campos da Diretoria  do Ensino Industrial

@@ -1,5 +1,3 @@
-###DEL-005725-0-000-05-08-1943@@@
-
 DECRETO-LEI N. 5.725 – DE 5 DE AGôSTO DE 1943
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 19.500,00, à verba que especifica

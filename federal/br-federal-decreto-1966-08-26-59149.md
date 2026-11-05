@@ -1,5 +1,3 @@
-###DEC-059149-0-000-26-08-1966@@@
-
 DECRETO Nº 59.149, DE 26 DE AGôSTO DE 1966.
 
 Altera a determinação do Centro de Pesquisas de Belo Horizonte, do Instituto Nacional de Endemias rurais, do Departamento Nacional de Endemias Rurais, e dá outras providências.

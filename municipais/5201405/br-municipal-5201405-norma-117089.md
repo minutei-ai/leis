@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.205, DE 08 DE AGOSTO DE 2014.<br>
+LEI MUNICIPAL Nº 3.205, DE 08 DE AGOSTO DE 2014.
+
 (Revogada pela Lei Ordinária nº 3.889, de 19 de janeiro de 2026).
 
 ~~Dispõe sobre a criação do Conselho Municipal dos Direitos da Pessoa com Deficiência no Município de Aparecida de Goiânia - CMDPD, e dá outras providências.~~
@@ -195,8 +196,10 @@ LEI MUNICIPAL Nº 3.205, DE 08 DE AGOSTO DE 2014.<br>
 
  
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~

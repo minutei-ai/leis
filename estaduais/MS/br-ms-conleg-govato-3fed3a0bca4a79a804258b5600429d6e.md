@@ -6,15 +6,16 @@ Denomina de Escola Estadual Professora Maria Augusta Costa Ramos da Silva a esco
 
 Publicada no Diário Oficial nº 11.552, de 10 de julho de 2024, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominada de Escola Estadual Professora Maria Augusta Costa Ramos da Silva a escola estadual localizada no Bairro Estoril, no Município de Ribas do Rio Pardo.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominada de Escola Estadual Professora Maria Augusta Costa Ramos da Silva a escola estadual localizada no Bairro Estoril, no Município de Ribas do Rio Pardo.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 9 de julho de 2024.
 
-<br>
-EDUARDO CORRÊA RIEDEL<br>
+EDUARDO CORRÊA RIEDEL
+
 Governador do Estado

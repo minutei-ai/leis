@@ -1,5 +1,3 @@
-###DEL-006084-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.084 – DE 9 DE DEZEMBRO DE 1943
 
 Concede pensão á viúva e á filha menor de Amadeu Ferreira, vítima de acidente em serviço

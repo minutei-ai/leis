@@ -1,5 +1,3 @@
-###DEC-094147-0-000-26-03-1987@@@
-
 DECRETO Nº 94.147, DE 26 DE MARÇO DE 1987.
 
 Autoriza a transferência direta da concessão outorgada a FUNDAÇÃO NOSSA SENHORA DO PILAR DE ANTONINA (RÁDIO ANTONINENSE), para a Fundação Redentorista de Comunicações Sociais.

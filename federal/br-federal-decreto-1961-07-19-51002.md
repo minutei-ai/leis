@@ -1,5 +1,3 @@
-###DEC-051002-0-000-19-07-1961@@@
-
 DECRETO Nº 51.002, DE 19 DE JUlHO DE 1961.
 
 Autoriza a Companhia Hidro Elétrica do São Francisco (CHESF) a constituir garantia em favor do Banco Nacional do Desenvolvimento Econômico.

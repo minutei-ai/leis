@@ -1,5 +1,3 @@
-###DEC-091725-0-000-30-09-1985@@@
-
 Decreto nº 91.725, de 30 de setembro de 1985
 
 Regulamenta, para a Aeronáutica, a Lei nº 5 821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

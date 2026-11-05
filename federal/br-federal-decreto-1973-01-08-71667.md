@@ -1,5 +1,3 @@
-###DEC-071667-0-000-08-01-1973@@@
-
 DECRETO Nº 71.667, DE 8 DE JANEIRO DE 1973.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário no município de Salvador, Estado da Bahia.

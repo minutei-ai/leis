@@ -1,5 +1,3 @@
-###DEL-007730-0-000-12-07-1945@@@
-
 DECRETO-LEI N. 7.730 – DE 12 DE JULHO DE 1945
 
 Dispõe sôbre a aposentadoria e licença dos Ministros do Supremo Tribunal Federal e dá outras providências

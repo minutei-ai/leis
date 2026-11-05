@@ -1,5 +1,3 @@
-###DEC-073552-0-000-24-01-1974@@@
-
 DECRETO Nº 73.552, DE 24 DE JANEIRO DE 1974.
 
 Altera artigo do Regulamento da Ordem do Mérito Militar
@@ -14,7 +12,25 @@ Art. 1º os artigos 4º, 9º, 12º, 16º, 28º e 41º do Regulamento da Ordem do
 
 "Art. 9º O Efetivo máximo do Quadro Ordinário do Corpo de Graduados Efetivos é de:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grã-Cruzes .....................................................................................................</span></p></td><td style="width:87.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Grande-Oficiais ...............................................................................................</span></p></td><td style="width:87.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Comendadores ...............................................................................................</span></p></td><td style="width:87.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">110</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Oficiais ............................................................................................................</span></p></td><td style="width:87.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">250</span></p></td></tr><tr><td style="width:336.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cavaleiros .......................................................................................................</span></p></td><td style="width:87.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">500</span></p></td></tr></tbody></table>
+Grã-Cruzes .....................................................................................................
+
+10
+
+Grande-Oficiais ...............................................................................................
+
+30
+
+Comendadores ...............................................................................................
+
+110
+
+Oficiais ............................................................................................................
+
+250
+
+Cavaleiros .......................................................................................................
+
+500
 
 § 1º As vagas em cada grau do Quadro Ordinário abrem-se por promoção, transferência para o Quadro Suplementar, exclusão ou morte dos graduados daquele Quadro.
 

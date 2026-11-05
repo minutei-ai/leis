@@ -1,5 +1,3 @@
-###DEC-003779-0-000-23-03-2001@@@
-
 DECRETO Nº 3.779, DE 23 DE MARÇO DE 2001
 
 Acresce dispositivo ao art. 1º do Decreto nº 3.714, de 3 de janeiro de 2001, que dispõe sobre a remessa por meio eletrônico de documentos.

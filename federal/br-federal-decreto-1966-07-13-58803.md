@@ -1,5 +1,3 @@
-###DEC-058803-0-000-13-07-1966@@@
-
 DECRETO nº 58.803, DE 13 DE JULHO DE 1966.
 
 Retifica o enquadramento aprovado pelo Decreto nº 52.794, de 31 de outubro de 1963.

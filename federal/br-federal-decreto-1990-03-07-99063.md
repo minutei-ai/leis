@@ -1,7 +1,3 @@
-1
-
-###DEC-099063-0-000-07-03-1990@@@
-
 DECRETO N° 99.063, DE 7 DE MARÇO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, de um imóvel rural, situada no Município de Alvorada do Norte, Estado de Goiás, onde se encontra instalada uma Repetidora Telefônica da Telecomunicações de Brasília S.A.  \- TELEBRASÍLIA, e dá outras providências.

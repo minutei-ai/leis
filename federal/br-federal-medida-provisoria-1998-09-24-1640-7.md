@@ -1,5 +1,3 @@
-###MPV-001640-0-007-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.640-7, DE 24 DE SETEMBRO DE 1998
 
 Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-001661-0-006-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.661-6, DE 25 DE AGOSTO DE 1998
 
 Altera a redação dos arts. 26, 31 e 44 da Lei nº 9.473, de 22 de julho de 1997, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1998.

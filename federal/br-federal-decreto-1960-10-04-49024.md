@@ -1,5 +1,3 @@
-###DEC-049024-0-000-04-10-1960@@@
-
 DECRETO Nº 49.024, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Socrates Bonfim a pesquisar mica, no município de Aripuanã, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-072917-0-000-15-10-1973@@@
-
 DECRETO Nº 72.917, DE 15 DE OUTUBRO DE 1973.
 
 Transfere cargo, com respectiva ocupante, do Quadro de Pessoal extinto do antigo Conselho Nacional de Estatística, para o Quadro de Pessoal das Secretarias do Ministério Público Federal.

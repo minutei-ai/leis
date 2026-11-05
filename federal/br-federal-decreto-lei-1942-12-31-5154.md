@@ -1,5 +1,3 @@
-###DEL-005154-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.154 – DE 31 DE DEZEMBRO DE 1942
 
 Dispõe sobre a intervenção nas sociedades cooperativas

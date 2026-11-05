@@ -1,5 +1,3 @@
-###DEL-007315-A-000-10-02-1945@@@
-
 DECRETO-LEI N. 7.315 – A – DE 10 DE FEVEREIRO DE 1945
 
 Dispõe sôbre a requisição, ocupação e desapropriação de imóveis destinados à defesa nacional

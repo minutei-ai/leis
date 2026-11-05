@@ -1,5 +1,3 @@
-###DEC-072065-0-000-10-04-1973@@@
-
 DECRETO Nº 72.065, DE 10 DE ABRIL DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada na Cidade de Varginha, Estado de Minas Gerais, destinada à construção da estação telefônica daquela cidade, pela Companhia Telefônica de Minas Gerais - CTMG.
@@ -25,8 +23,6 @@ EMÍLIO G. MÉDICI
 Hygino C. Corsetti
 
 Retificação
-
-###DEC-072065-0-000-10-04-1973@@@
 
 DECRETO Nº 72.065, DE 10 DE ABRIL DE 1973.
 

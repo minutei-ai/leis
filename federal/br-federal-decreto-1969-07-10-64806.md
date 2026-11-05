@@ -1,5 +1,3 @@
-###DEC-064806-0-000-10-07-1969@@@
-
 DECRETO Nº 64.806 - DE 10 DE JULHO DE 1969.
 
 Concede permissão em caráter permanente, a Dominium S.A. Indústria e Comércio, sediada no Estado de São Paulo, para funcionar aos domingos e nos feriados civis e religiosos.

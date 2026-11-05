@@ -1,5 +1,3 @@
-###DEC-090027-0-000-02-08-1984@@@
-
 Decreto nº 90.027, de 02 de agosto de 1984
 
 Outorga concessão à RADIO CULTURA DE PEDREIRAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Pedreiras, Estado do Maranhão.

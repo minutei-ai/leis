@@ -1,5 +1,3 @@
-###DEC-093784-0-000-17-12-1986@@@
-
 DECRETO Nº 93.784, DE 17 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Borda da Mata", situado no Município de Canhoba, no Estado de Sergipe, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.687, de 19 de maio de 1986 e dá outras providências.

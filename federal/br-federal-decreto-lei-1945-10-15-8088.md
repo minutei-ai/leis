@@ -1,5 +1,3 @@
-###DEL-008088-0-000-15-10-1945@@@
-
 DECRETO-LEI N. 8.088 – DE 15 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 4.188.687,20, para pagamento de notas de papel-moeda.

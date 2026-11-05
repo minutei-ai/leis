@@ -1,5 +1,3 @@
-###DEC-005937-0-000-19-10-2006@@@
-
 DECRETO Nº 5.937, DE 19 DE OUTUBRO DE 2006.
 
 Dispõe sobre a execução do Qüinquagésimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 28 de março de 2006.
@@ -22,11 +20,7 @@ Brasília, 19 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.10.2006
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 18
+        Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 18
 
 CELEBRADO ENTRE A ARGENTINA, O BRASIL,
 
@@ -98,7 +92,15 @@ Art. 4 - A preferência tarifária mencionada no artigo 3o será aplicada aos pr
 
 Para tais efeitos se aplicará a seguinte fórmula:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:9pt; border-collapse:collapse"><tbody><tr><td style="width:67.9pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:126pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">ⁿ TMI - ∑</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">TIEZ</span><span style="font-family:'Arial CYR'">і</span><span style="font-family:Arial"> * ø</span><span style="font-family:'Arial CYR'">і</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;</span></p></td><td style="width:158.3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:67.9pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PREF=</span></p></td><td style="width:126pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:'Arial CYR'">і</span><span style="font-family:Arial"> =1</span></p></td><td style="width:158.3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">* 100</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span></p></td></tr><tr><td style="width:67.9pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:126pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-family:Arial">TMI</span></p></td><td style="width:158.3pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr></tbody></table>
+ⁿ TMI - ∑   TIEZі * øі
+
+PREF=
+
+і =1
+
+* 100
+
+TMI
 
 TMI: Tarifa da mercadoria intermediária no EP de última etapa
 

@@ -1,5 +1,3 @@
-###DEC-054909-0-000-04-11-1964@@@
-
 DECRETO Nº 54.909, DE 4 DE NOVEMBRO DE 1964.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Latino-Americana, inclusive aumento do capital social.

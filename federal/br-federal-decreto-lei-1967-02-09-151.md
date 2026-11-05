@@ -1,5 +1,3 @@
-###DEL-000151-0-000-09-02-1967@@@
-
 DECRETO-LEI Nº 151, DE 9 DE FEVEreiRO DE 1967
 
 Dispõe sôbre os depósitos bancários do SESI, SESC, SENAI, SENAC e das entidades sindicais.

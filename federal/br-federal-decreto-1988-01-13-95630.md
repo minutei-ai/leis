@@ -1,7 +1,3 @@
-1
-
-###DEC-095630-0-000-13-01-1988@@@
-
 DECRETO N° 95.630, DE 13 DE JANEIRO DE 1988
 
 Outorga concessão à TV ITAPICURU LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Codó, Estado do Maranhão.

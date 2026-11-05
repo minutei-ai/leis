@@ -1,5 +1,3 @@
-###DEC-072526-0-000-25-07-1973@@@
-
 DECRETO Nº 72.526, de 25 DE julho de 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

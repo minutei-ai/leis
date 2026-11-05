@@ -1,5 +1,3 @@
-###DEC-049458-0-000-06-12-1960@@@
-
 DECRETO Nº 49.458, DE 6 DE DEZEMBRO DE 1960.
 
 Modifica a redação de dispositivos do Decreto nº 49.358, de 28 de novembro de 1960.

@@ -1,5 +1,3 @@
-###DEC-080576-0-000-19-10-1977@@@
-
 decreto nº 80.576, de 19 de outubro de 1977.
 
 Fixa o fator de reajustamento salarial relativo a outubro de 1977.

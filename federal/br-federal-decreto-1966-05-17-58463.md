@@ -1,5 +1,3 @@
-###DEC-058463-0-000-17-05-1966@@@
-
 decreto nº 58.463, de 17 de maio de 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 17 de maio de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-058463-0-000-17-05-1966@@@RET01+++
 
 DECRETO Nº 58.463, DE 17 DE MAIO DE 1966.
 

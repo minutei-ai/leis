@@ -1,11 +1,13 @@
-LEI MUNICIPAL Nº 3.249, DE 23 DE DEZEMBRO DE 2014.<br>
+LEI MUNICIPAL Nº 3.249, DE 23 DE DEZEMBRO DE 2014.
+
 (Revogada pela Lei Ordinária nº 3.548, de 6 de abril de 2020).
 
 ~~“Estabelece normas e diretrizes para o Conselho Municipal de Assistência Social de Aparecida de Goiânia e revoga a Lei nº 1.521, de , e a Lei nº 2.007, de , e dá outras providências.”~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:~~
 
-~~Capítulo I<br>
+~~Capítulo I
+
 Dos objetivos~~
 
 ~~Art. 1º O Conselho Municipal de Assistência Social de Aparecida de Goiânia – CMASAP, órgão deliberativo, de caráter permanente, de âmbito municipal, criado pela Lei no. 1.521, de , com alterações introduzidas pela Lei no. 2007 de passa a reger-se pelas normas previstas nesta Lei.~~
@@ -58,10 +60,12 @@ Dos objetivos~~
 
 ~~Parágrafo único. A inscrição de entidade não-governamental prestadora de serviços socioassistenciais, no Conselho Municipal de Assistência Social, com atuação em mais de um município no mesmo estado, está condicionada à regulamentação específica pelo CNAS, conforme art. 9º, § 1º da LOAS/SUAS.~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 DA ESTRUTURA E DO FUNCIONAMENTO~~
 
-~~SEÇÃO I<br>
+~~SEÇÃO I
+
 Da Composição~~
 
 ~~Art. 3º O Conselho Municipal de Assistência Social de Aparecida de Goiânia – CMASAP será composto por 20 membros titulares e igual número de suplentes, sendo: 50% (cinqüenta por cento) de representantes do governo e 50% (cinquenta por cento) representantes da sociedade civil.~~
@@ -146,7 +150,8 @@ Da Composição~~
 
 ~~VI – Equipe administrativa – composta por funcionários contratados e disponibilizados pelo órgão gestor de Assistência Social do Município, atendendo às necessidades do Conselho. Parágrofo único. O plenário reunir-se-á obrigatoriamente, uma vez ao mês e, extraordinariamente, sempre que necessário, e funcionará de acordo com o Regimento Interno, que definirá, também, o quorum mínimo para o caráter deliberativo das reuniões do plenário e para as questões de suplência e perda de mandato por faltas.~~
 
-~~SEÇÃO II<br>
+~~SEÇÃO II
+
 DO FUNCIONAMENTO~~
 
 ~~Art. 10 O Conselho Municipal de Assistência Social de Aparecida de Goiânia – CMASAP terá seu funcionamento normatizado por Regimento Interno próprio, tendo o plenário como instância de deliberação máxima.~~
@@ -163,7 +168,8 @@ DO FUNCIONAMENTO~~
 
 ~~§ 2º As Resoluções do Conselho Municipal de Assistência Social de Aparecida de Goiânia – CMASAP, serão publicadas no Diário Oficial do Município.~~
 
-~~SEÇÃO III<br>
+~~SEÇÃO III
+
 DO DESEMPENHO DOS CONSELHEIROS/AS~~
 
 ~~Art. 13 Para o bom desempenho do Conselho, é fundamental que os/as conselheiros/as:~~
@@ -206,8 +212,10 @@ DO DESEMPENHO DOS CONSELHEIROS/AS~~
 
  
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~

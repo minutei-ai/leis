@@ -1,5 +1,3 @@
-###DEC-091028-0-000-05-03-1985@@@
-
 Decreto nº 91.028, de 05 de março de 1985
 
 Declara de ocupação dos índios Parakanã, a área de terras nos Municípios de Itupiranga e Jacundá, no Estado do Pará e determina outras providências.

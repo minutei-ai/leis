@@ -1,12 +1,10 @@
-###DEC-029389-0-000-26-03-1951@@@
+**DECRETO N.º 29.389, DE 26 DE MARÇO DE 1951.**
 
-<strong>DECRETO N.º 29.389, DE 26 DE MARÇO DE 1951.</strong>
+***Outorga à Prefeitura Municipal de Cáceres concessão para destribuir e fazer o comércio de energia elétrica na sede do município de Cáceres, Estado de Mato Grosso, dá outras providência***
 
-<em><strong>Outorga à Prefeitura Municipal de Cáceres concessão para destribuir e fazer o comércio de energia elétrica na sede do município de Cáceres, Estado de Mato Grosso, dá outras providência</strong></em>
+**O PRESIDENTE DA REPÚBLICA** , usando da atribuição que lhe confere o artigo 87, inciso I da Constituição, e nos têrmos do art. 10 do Decreto-lei n.º 2.281, de 5 de junho de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong> , usando da atribuição que lhe confere o artigo 87, inciso I da Constituição, e nos têrmos do art. 10 do Decreto-lei n.º 2.281, de 5 de junho de 1940,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Art. 1.º E’ outorgada à prefeitura municipal de Cáceres concessão para distribuir e fazer o comércio de energia elétrica na sede do município de Cáceres, Estado de Mato Grosso, ficando para tanto autorizada a montar uma usina termoelétrica de 97 KW e a instalar o sistema de distribuição de energia elétrica em tôda a sua zona de concessão.
 
@@ -28,6 +26,6 @@ Art. 5.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de março de 1951; 130.º da Independência e 63º da República.
 
-<strong>GERTULIO VARGAS</strong>
+**GERTULIO VARGAS**
 
 João Cleofas.

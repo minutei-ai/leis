@@ -1,5 +1,3 @@
-###DEC-084987-0-000-31-07-1980@@@
-
 DECRETO Nº 84.987 DE 31 DE JULHO DE 1980.
 
 Altera o Decreto nº 84.399, de 16 de janeiro de 1980 que prorroga a data estabelecida para a vigência do interstício no posto de 1º Tenente.

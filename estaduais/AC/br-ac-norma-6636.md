@@ -1,6 +1,10 @@
 > **LEI Nº 4.751, DE 29 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação de imóvel à Cooperativa Agroextrativista de Assis Brasil, Epitaciolândia e Brasiléia - COOPAEB.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação de imóvel à Cooperativa Agroextrativista de Assis Brasil, Epitaciolândia e Brasiléia - COOPAEB.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

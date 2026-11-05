@@ -1,5 +1,3 @@
-###DEC-061239-0-000-25-08-1967@@@
-
 DECRETO Nº 61.239, DE 25 DE AGÔSTO DE 1967.
 
 Organiza a Comissão de Revisão e Coordenação dos Projetos de Códigos.

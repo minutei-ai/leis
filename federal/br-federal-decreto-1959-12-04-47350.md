@@ -1,5 +1,3 @@
-###DEC-047350-0-000-04-12-1959@@@
-
 DECRETO Nº 47.350, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Jorge Jacob a pesquisar minério de ferro no Município de Betim, Estado de Minas Gerais.

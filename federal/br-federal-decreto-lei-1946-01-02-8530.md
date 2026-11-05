@@ -1,5 +1,3 @@
-###DEL-008530-0-000-02-01-1946@@@  
-
 DECRETO-LEI N. 8.530 – DE 2 DE JANEIRO DE 1946
 
 Lei Orgânica do Ensino Normal

@@ -1,14 +1,12 @@
-###DEC-043622-0-000-30-04-1958@@@
+**DECRETO Nº 43.622, DE 30 DE ABRIL DE 1958.**
 
-<strong>DECRETO Nº 43.622, DE 30 DE ABRIL DE 1958.</strong>
+***Altera a redação dos arts. 12, parágrafo 1º, 26, parágrafo único, 27 e 39, e suprime o parágrafo único do*** *art. 27, do Decreto nº 21.810, de 4 de setembro de 1946.***
 
-<em><strong>Altera a redação dos arts. 12, parágrafo 1º, 26, parágrafo único, 27 e 39, e suprime o parágrafo único do</strong></em> <em>art</em><em><strong>. 27, do Decreto nº 21.810, de 4 de setembro de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada a redação dos artigos 12, § 1º, 26, parágrafo único, 27 e 39 do Decreto número 21.810, de 4 de setembro de 1946, que passará a ser a seguinte:
+**Art**. 1º Fica alterada a redação dos artigos 12, § 1º, 26, parágrafo único, 27 e 39 do Decreto número 21.810, de 4 de setembro de 1946, que passará a ser a seguinte:
 
 “Art. 12 ...........................……………………………………………………………………………
 
@@ -22,13 +20,13 @@ Art. 27. O Presidente e cada um dos membros do Conselho Técnico terá direito a
 
 Art. 39. Cada membro do Conselho Fiscal, em exercício, terá a remuneração trimestral que fôr fixada pelo Conselho Técnico na forma do parágrafo único do art. 26”.
 
-<strong>Art</strong>. 2º Fica suprimido o parágrafo único do art. 27 do Decreto nº 21.810, de 4 de setembro de 1946.
+**Art**. 2º Fica suprimido o parágrafo único do art. 27 do Decreto nº 21.810, de 4 de setembro de 1946.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 30 de abril de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso
 

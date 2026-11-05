@@ -1,5 +1,3 @@
-###DEL-007425-0-000-29-03-1945@@@
-
 DECRETO-LEI N. 7.425 – DE 29 DE MARÇO DE 1945
 
 Autoriza a Rêde de Viação Férrea Federal do Rio Grande do Sul a alienar o imóvel que menciona

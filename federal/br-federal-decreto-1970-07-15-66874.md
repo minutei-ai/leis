@@ -1,5 +1,3 @@
-###DEC-066874-0-000-15-07-1970@@@
-
 DECRETO Nº 66.874, DE 15 DE JULHO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargos originários do extinto Serviço de Navegação da Bacia do Prata e dá outras providências.

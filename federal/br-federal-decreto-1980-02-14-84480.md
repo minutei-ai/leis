@@ -1,5 +1,3 @@
-###DEC-084480-0-000-14-02-1980@@@
-
 DECRETO Nº 84.480, DE 14 DE FEVEREIRO DE 1980.
 
 Renova por 15 (quinze) anos, a concessão outorgada à Rádio e Televisão Coroados S.A., e autoriza transferência direta para a Sociedade Rádio Emissora Paranaense S.A. que passará a executar Serviço de Radiodifusão de Sons e Imagens (televisão), na cidade de Londrina, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-056818-0-000-01-09-1965@@@
-
 DECRETO Nº 56.818, de 1º de setembro de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Centrais Elétricas Brasileiras S.A.

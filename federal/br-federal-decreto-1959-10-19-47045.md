@@ -1,5 +1,3 @@
-###DEC-047045-0-000-19-10-1959@@@
-
 DECRETO Nº 47.045, DE 19 DE OUTUBRO DE 1959.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Patrocínio (M. G.).

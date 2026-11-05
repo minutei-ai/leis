@@ -1,5 +1,3 @@
-###DEC-068276-0-000-19-02-1971@@@
-
 DECRETO Nº 68.276, DE 19 DE FEVEREIRO 1971.
 
 Reorganiza o Departamento de Material Bélico do Ministério do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048716-0-000-04-08-1960@@@
-
 DECRETO Nº 48.716 de 4 de agôsto de 1960.
 
 Cria cargos e funções no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transporte e Cargas e dá outras providências.

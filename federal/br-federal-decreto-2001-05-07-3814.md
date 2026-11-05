@@ -1,5 +1,3 @@
-###DEC-003814-0-000-07-05-2001@@@
-
 DECRETO N° 3.814, DE 7 DE MAIO DE 2001
 
 Dispõe sobre a execução do Trigésimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica n.º 2 (prorrogação do ACE‑2), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 1º de março de 2001.

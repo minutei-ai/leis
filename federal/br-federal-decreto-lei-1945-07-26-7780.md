@@ -1,5 +1,3 @@
-###DEL-007780-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.780 – DE 26 DE JULHO DE 1945
 
 Institui medidas de proteção financeira aos estabelecimentos particulares de ensino.

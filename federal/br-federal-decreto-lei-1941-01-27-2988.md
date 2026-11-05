@@ -1,5 +1,3 @@
-###DEL-002988-0-000-27-01-1941@@@
-
 DECRETO-LEI N. 2.988 – DE 27 DE JANEIRO DE 1941
 
 Reorganiza o Serviço de Alimentação da Previdência Social (S.A.P.S.)

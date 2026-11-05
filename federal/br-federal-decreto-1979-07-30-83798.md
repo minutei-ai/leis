@@ -1,5 +1,3 @@
-###DEC-083798-0-000-30-07-1979@@@
-
 DECRETO Nº 83.798, DE 30 DE JULHO DE 1979.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Educação, Ciências e Letras, com sede na cidade de Brasília, Distrito Federal.

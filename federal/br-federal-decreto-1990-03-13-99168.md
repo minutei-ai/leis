@@ -1,7 +1,3 @@
-1
-
-###DEC-099168-0-000-13-03-1990@@@
-
 DECRETO N° 99.168, DE 13 DE MARÇO DE 1990
 
 Dispõe sobre a administração dos portos organizados e a estruturação dos Conselhos Especiais de Usuários.

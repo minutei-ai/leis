@@ -1,5 +1,3 @@
-###DEC-003663-0-000-16-11-2000@@@
-
 DECRETO Nº 3.663, DE 16 DE NOVEMBRO DE 2000.
 
 Altera o Decreto nº 3.161, de 2 de setembro de 1999, e dá outras providências.

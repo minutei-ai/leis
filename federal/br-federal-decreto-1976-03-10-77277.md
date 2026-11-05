@@ -1,5 +1,3 @@
-###DEC-077277-0-000-10-03-1976@@@
-
 DECRETO Nº 77.277, DE 10 DE MARÇO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Ciências Humanas, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-081925-0-000-11-07-1978@@@
-
 DECRETO Nº 81.925, DE 11 DE JULHO DE 1978.
 
 Concede à Mário Razzera - Firma Individual, o direito de lavrar calcário no Município de Caçapava do Sul, Estado do Rio Grande do Sul.

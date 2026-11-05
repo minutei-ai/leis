@@ -1,5 +1,3 @@
-###DEC-077362-0-000-01-04-1976@@@
-
 DECRETO Nº 77.362 - DE 1º DE ABRIL DE 1976
 
 Dispõe sobre a instituirão e organização do Sistema Nacional de Formação de Mão-de-Obra e dá outras providências.

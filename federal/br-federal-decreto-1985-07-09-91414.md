@@ -1,5 +1,3 @@
-###DEC-091414-0-000-09-07-1985@@@
-
 Decreto nº 91.414, de 09 de julho de 1985
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Centro de Ensino Superior do Vale do Parnaíba.

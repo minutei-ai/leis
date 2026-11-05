@@ -1,7 +1,3 @@
-1
-
-###MPV-001041-0-000-29-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.041, DE 29 DE JUNHO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082452-0-000-18-10-1978@@@
-
 Decreto nº 82.452, de 18 de outubro de 1978.
 
 Declara a caducidade do Manifesto de Mina que menciona.

@@ -1,5 +1,3 @@
-###DEC-045494-0-000-26-02-1959@@@
-
 Decreto nº 45.494, de 26 de fevereiro de 1959.
 
 Autoriza o cidadão brasileiro Stefano Quaranta a pesquisar tremolita, agalmatolito, silimanita, talco e quartzito no Município de Mogi das Cruzes, Estado de São Paulo.

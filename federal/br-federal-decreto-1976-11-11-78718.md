@@ -1,5 +1,3 @@
-###DEC-078718-0-000-11-11-1976@@@
-
 Decreto Nº 78.718, DE 11 DE NOVEMBRO DE 1976.
 
 Autoriza, até 31 de dezembro de 1977, o aproveitamento dos navios estrangeiros na cabotagem nacional.

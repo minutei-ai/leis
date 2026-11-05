@@ -1,5 +1,3 @@
-###DEC-076496-0-000-22-10-1975@@@
-
 DECRETO Nº 76.496, DE 22 DE OUTUBRO DE 1975.
 
 Concede autorização às empresas Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda, para executarem trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

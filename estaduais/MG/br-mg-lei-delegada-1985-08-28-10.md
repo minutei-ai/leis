@@ -235,7 +235,3 @@ Carlos Alberto Cotta
 Walfrido Silvino dos Mares Guia Neto
 
 Milton de Lima Filho
-
-\----------------------------------------------------
-
-Data da última atualização: 12/7/2011.

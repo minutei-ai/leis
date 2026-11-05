@@ -1,5 +1,3 @@
-###DEC-061119-0-000-31-07-1967@@@
-
 DECRETO Nº 61.119, DE 31 DE julho DE 1967.
 
 Declara de utilidade pública a “Sociedade Assistencial Nossa Senhora Aparecida”, com sede em Pelotas, Estado do Rio Grande do Sul.

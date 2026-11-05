@@ -1,5 +1,3 @@
-###DEC-096377-0-000-20-07-1988@@@
-
 DECRETO N° 96.377, DE 20 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SABACU”, classificado como latifúndio por exploração, situado no Município de São Mateus, no Estado do Espírito Santo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.618, de 2 de maio de 1986, e dá outras providências.

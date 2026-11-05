@@ -1,5 +1,3 @@
-###DEC-089761-0-000-06-06-1984@@@
-
 Decreto nº 89.761, de 06 de junho de 1984.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileira S.A. - PETROBRÁS.

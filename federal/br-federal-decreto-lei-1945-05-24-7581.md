@@ -1,5 +1,3 @@
-###DEL-007581-0-000-24-05-1945@@@
-
 DECRETO-LEI N. 7.581 – DE 24 DE MAIO DE 1945
 
 Dispõe sôbre a promoção e reforma de aspirantes a oficial do Corpo de Bombeiros do Distrito Federal

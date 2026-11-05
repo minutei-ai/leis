@@ -1,5 +1,3 @@
-###DEL-003115-0-000-13-03-1941@@@
-
 DECRETO-LEI N. 3.115 – DE 13 DE MARÇO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 6.000:000$0, para melhoramento do porto de Corumbá

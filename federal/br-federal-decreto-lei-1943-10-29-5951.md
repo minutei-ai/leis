@@ -1,5 +1,3 @@
-###DEL-005951-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.951 – DE 29 DE OUTUBRO DE 1943
 
 Cria o 1º Regimento de Obuses Auto‑Rebocadoa

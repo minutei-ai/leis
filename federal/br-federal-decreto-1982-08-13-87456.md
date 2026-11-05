@@ -1,5 +1,3 @@
-###DEC-087456-0-000-13-08-1982@@@
-
 Decreto nº 87.456, de 13 de agosto de 1982
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Alagoa Nova, no Estado da Paraíba, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 56.583, de 19 de julho de 1965, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19 de janeiro de 1971, 75.147, de 27 de dezembro de 1974, e 82.884, de 19 de dezembro de 1978.

@@ -1,5 +1,3 @@
-###DEC-067688-0-000-01-12-1970@@@
-
 DECRETO Nº 67.688, DE 1 DE DEZEMBRO DE 1970.
 
 Autoriza o licenciamento, com menos de 10 (de) meses de serviço, de conscritos do 17º Regimento de Cavalaria.

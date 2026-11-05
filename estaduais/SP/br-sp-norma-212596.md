@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212596)<br>
-
 # DECRETO N° 70.602, DE 13 DE MAIO DE 2026
 
 ### _Institui a Medalha do "Cinquentenário do Comando de Policiamento do Interior Dois" e dá providências correlatas_

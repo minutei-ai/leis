@@ -1,5 +1,3 @@
-###DEC-070762-0-000-26-06-1972@@@
-
 DECRETO Nº 70.762, de 26 de junho de 1972.
 
 Concede autorização à organização "Woods Hole Oceanographic Institution" para operar no mar territorial do Brasil com o navio "Atlantis II", de bandeira norte-americana, nas pesquisas que especifica.

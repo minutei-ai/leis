@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3f95e921-5c03-447e-93f0-68e85007eb6e/texto#nowhere)
 
-###DEL-001222-0-000-29-05-1972@@@
-
 # deCRETO-LEI Nº 1.222, DE 29 DE MAIO DE 1972
 
 Cria o cargo em comissão de Secretário Especial de Saúde da Região Amazônica.

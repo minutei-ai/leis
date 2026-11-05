@@ -1,5 +1,3 @@
-###DEC-082651-0-000-14-11-1978@@@
-
 Decreto nº 82.651, de 14 de novembro de 1978
 
 Autoriza a conversão dos cursos de Matemática, Ciências e Ciências Biológicas, em curso de ciências da Faculdade de Filosofia, Ciências e Letras de São Caetano do Sul, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

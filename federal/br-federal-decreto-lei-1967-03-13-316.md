@@ -1,5 +1,3 @@
-###DEL-000316-0-000-13-03-1967@@@
-
 DECRETO-LEI Nº 316, DE 13 DE MARÇO DE 1967
 
 Dispõe sôbre as estipulações de moeda de pagamento das obrigações.

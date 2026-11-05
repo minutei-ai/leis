@@ -4,12 +4,14 @@ Cria o Sistema de Esporte e Lazer no âmbito do Estado da Bahia, institui a Pol�
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica instituído o Sistema de Esporte e Lazer do Estado da Bahia, com a finalidade de garantir e fomentar as práticas de Esporte e de Lazer, observados os princípios e normas estabelecidos nesta Lei e na legislação federal vigente.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO SISTEMA DE ESPORTE E LAZER
 
 Art. 2º - O Sistema de Esporte e Lazer do Estado da Bahia congrega as pessoas físicas e jurídicas encarregadas da organização, do planejamento, da coordenação, da normatização e do apoio à prática de Esporte e de Lazer, compreendendo:
@@ -64,7 +66,8 @@ X - estimular a realização de congressos, foros, seminários, encontros e curs
 
 Parágrafo único - A Superintendência dos Desportos do Estado da Bahia será responsável pela execução das ações relativas à Política Estadual de Esporte e Lazer.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA POLÍTICA ESTADUAL DE ESPORTE E LAZER
 
 Art. 5º - A Política Estadual de Esporte e Lazer compreende a fixação de diretrizes para a promoção do esporte e o incentivo das práticas de lazer, objetivando:
@@ -121,7 +124,8 @@ I - de modo profissional, caracterizado por remuneração pactuada em contrato d
 
 II - de modo não profissional, identificado pela inexistência de contrato de trabalho, bem como pela liberdade de prática, sendo permitido o recebimento de incentivos materiais, por parte do Poder Público, além de patrocínio, pela iniciativa privada.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO CONSELHO DE ESPORTE E LAZER DO ESTADO DA BAHIA
 
 Art. 11 - Fica criado o Conselho de Esporte e Lazer do Estado da Bahia, órgão colegiado, representativo da comunidade esportiva estadual, integrante da estrutura básica da Secretaria do Trabalho, Emprego, Renda e Esporte, de caráter consultivo sobre a Política Estadual de Esporte e Lazer e deliberativo no âmbito das seguintes competências:
@@ -176,7 +180,8 @@ XI - 01 (um) representante indicado pelo Fórum do Sistema S (Serviços Sociais 
 
 XII - 01 (um) representante do Conselho Estadual de Juventude -  CEJUVE
 
-Redação de acordo com a Lei nº [13.974](https://www.legislabahia.ba.gov.br/documentos/lei-no-13974-de-12-de-julho-de-2018) de 12 de julho de 2018.<br>
+Redação de acordo com a Lei nº [13.974](https://www.legislabahia.ba.gov.br/documentos/lei-no-13974-de-12-de-julho-de-2018) de 12 de julho de 2018.
+
 Redação original: "XII - 01 (um) representante da Conferência da Juventude;"
 
 XIII - 01 (um) representante do Fórum das Federações de Esporte Amador da Bahia;
@@ -191,7 +196,8 @@ XV - 01 (um) representante dos Clubes Sócio Esportivos do Estado da Bahia.
 
 § 3º - A participação dos membros titulares ou suplentes no Conselho de Esporte e Lazer do Estado da Bahia será considerada de relevante interesse público, não ensejando qualquer tipo de remuneração.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA CONFERÊNCIA ESTADUAL DE ESPORTE E LAZER
 
 Art. 13 - A Conferência Estadual de Esporte e Lazer do Estado da Bahia terá os seguintes objetivos:
@@ -208,7 +214,8 @@ V - incentivar a elaboração de diretrizes para políticas públicas de Esporte
 
 Art. 14 - A Conferência Estadual de Esporte e Lazer da Bahia será convocada pela Administração Pública Estadual de Esporte e Lazer a cada 02 (dois) anos e deverá contemplar as diversas representações e segmentos sociais interessados no debate acerca do Esporte e Lazer.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 15 - Para os efeitos desta Lei, os dirigentes, unidades ou órgãos de entidades estaduais de administração do Esporte, inscritos ou não no registro público competente, não exercem função delegada pelo Poder Público Estadual, nem são considerados autoridades públicas.

@@ -1,5 +1,3 @@
-###DEC-091142-0-000-15-03-1985@@@
-
 DECRETO Nº 91.142, DE 15 DE MARÇO DE 1985.
 
 Institui a Secretaria para Assuntos Extraordinário e dá outras  providências.

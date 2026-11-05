@@ -1,5 +1,3 @@
-###DEC-076113-0-000-13-08-1975@@@
-
 DECRETO Nº 76.113 - DE 13 DE AGOSTO DE 1975
 
 Encampa bens e instalações vinculados aos serviços públicos de energia elétrica nos Municípios de Aracitaba, Paiva e Oliveira Fortes, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-055341-0-000-31-12-1964@@@
-
 Decreto nº 55.341, de 31 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Ernesto Affonso Scheide a pesquisar caulim no município de Campo Alegre, Estado de Santa Catarina.

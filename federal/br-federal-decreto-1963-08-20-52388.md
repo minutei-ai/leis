@@ -1,5 +1,3 @@
-###DEC-052388-0-000-20-08-1963@@@
-
 DECRETO Nº 52.388, DE 20 DE AGÔSTO DE 1963.
 
 Dá nova redação a dispositivo do Decreto nº 50.524, de 3 de maio de 1961, e dá outras providências.

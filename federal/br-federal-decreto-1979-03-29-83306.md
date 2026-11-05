@@ -1,5 +1,3 @@
-###DEC-083306-0-000-29-03-1979@@@
-
 DECRETO Nº 83.306, DE 29 DE MARÇO DE 1979
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada pela VALESUL ALUMÍNIO S/A.

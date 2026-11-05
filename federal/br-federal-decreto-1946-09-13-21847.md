@@ -1,36 +1,34 @@
-###DEC-021847-0-000-13-09-1946@@@
+**DECRETO Nº 21.847, DE 13 DE SETEMBRO DE 1946.**
 
-<strong>DECRETO Nº 21.847, DE 13 DE SETEMBRO DE 1946.</strong>
+***Aprova o Regulamento para o Gabinete do Ministro da Guerra.***
 
-<em><strong>Aprova o Regulamento para o Gabinete do Ministro da Guerra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, respondendo pelo Expediente do Ministério da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Gabinete do Ministro da Guerra, que com êste baixa, assinado pelo General de Divisão Canrobert Pereira da Costa, respondendo pelo Expediente do Ministério da Guerra.
-
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 13 de Setembro de 1946, 125,º da Independência e 58,º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert. P. da Costa
 
-<strong>REGULAMENTO PARA O GABINETE DO MINISTRO DA GUERRA</strong>
+**REGULAMENTO PARA O GABINETE DO MINISTRO DA GUERRA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>ATRIBUIÇÕES DO GABINETE</em>
+*ATRIBUIÇÕES DO GABINETE*
 
-<strong>Art</strong>. 1.º O Gabinete do Ministro da Guerra é um órgão da alta administração do Exército, que tem por fim auxiliar o Ministro na solução de todos os assuntos concernentes ao Exército, preparando-lhe os elementos de decisão e lavrando os atos oficiais correspondentes.
+**Art**. 1.º O Gabinete do Ministro da Guerra é um órgão da alta administração do Exército, que tem por fim auxiliar o Ministro na solução de todos os assuntos concernentes ao Exército, preparando-lhe os elementos de decisão e lavrando os atos oficiais correspondentes.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ORGANIZAÇÃO DO GABINETE</em>
+*ORGANIZAÇÃO DO GABINETE*
 
-<strong>Art</strong>. 2.º O Gabinete do Ministro da Guerra compreende:
+**Art**. 2.º O Gabinete do Ministro da Guerra compreende:
 
 I - Gabinete.
 
@@ -44,7 +42,7 @@ V - Serviços Auxiliares.
 
 I - Gabinete
 
-<strong>Art</strong>. 3.º O Gabinete compreende:
+**Art**. 3.º O Gabinete compreende:
 
 a) Chefia do Gabinete.
 
@@ -54,9 +52,9 @@ c) Adjuntos do Gabinete.
 
 A) Chefia do Gabinete
 
-<strong>Art</strong>. 4.º A Chefia do Gabinete é exercida por oficial do pôsto de Coronel, com o curso de Estado-Maior.
+**Art**. 4.º A Chefia do Gabinete é exercida por oficial do pôsto de Coronel, com o curso de Estado-Maior.
 
-<strong>Art</strong>. 5.º Compete ao Chefe do Gabinete:
+**Art**. 5.º Compete ao Chefe do Gabinete:
 
 a) superintender e coordenar todos os trabalhos do Gabinete, de modo a assegurar perfeita execução às ordens emanadas no Ministro;
 
@@ -74,9 +72,9 @@ Parágrafo único. No exercício de seu cargo, o Chefe do Gabinete tem as atribu
 
 B) Subchefia do Gabinete
 
-<strong>Art</strong>. 6º A Subchefia do Gabinete é exercida pelo Adjunto mais graduado ou mais antigo.
+**Art**. 6º A Subchefia do Gabinete é exercida pelo Adjunto mais graduado ou mais antigo.
 
-<strong>Art</strong>. 7º Compete ao Subchefe do Gabinete.
+**Art**. 7º Compete ao Subchefe do Gabinete.
 
 a) substituir o Chefe do Gabinete em seus impedimentos eventuais;
 
@@ -86,9 +84,9 @@ c) fazer executar tôdas as ordens do Chefe do Gabinete, no que diz respeito ao 
 
 C) Adjuntos do Gabinete
 
-<strong>Art</strong>. 8º O número de Adjuntos do Gabinete é fixado pelo Ministro, de acôrdo com as necessidades do serviço.
+**Art**. 8º O número de Adjuntos do Gabinete é fixado pelo Ministro, de acôrdo com as necessidades do serviço.
 
-<strong>Art</strong>. 9º Aos adjuntos do Gabinete compete:
+**Art**. 9º Aos adjuntos do Gabinete compete:
 
 a) a representação do Ministro em cerimônias e atos oficiais;
 
@@ -104,13 +102,13 @@ f) a ligação com os outros Ministérios e demais repartições pertencentes à
 
 Parágrafo único. Os dois Adjuntos encarregados da ligação com o Estado Maior do Exército, são oficiais do Quadro de Estado Maior da Ativa.
 
-<strong>Art</strong>. 10. O Gabinete tem um “Serviço Secreto” sob a chefia de um dos seus Adjuntos, com protocolo, arquivo e seção mecanográfica especiais.
+**Art**. 10. O Gabinete tem um “Serviço Secreto” sob a chefia de um dos seus Adjuntos, com protocolo, arquivo e seção mecanográfica especiais.
 
 Parágrafo único. O Chefe do Serviço Secreto é oficial do Quadro de Estado Maior da Ativa.
 
 II - DIVISÃO DO EXPEDIENTE
 
-<strong>Art</strong>. 11. A Divisão do Expediente é constituída de funcionários civis, de acôrdo com a lotação fixada e destinada à execução dos serviços burocráticos do Gabinete.
+**Art**. 11. A Divisão do Expediente é constituída de funcionários civis, de acôrdo com a lotação fixada e destinada à execução dos serviços burocráticos do Gabinete.
 
 Compreende:
 
@@ -122,13 +120,13 @@ B) Seção de Mecanografia.
 
 C) Biblioteca e Arquivo.
 
-<strong>Art</strong>. 12. A Divisão do Expediente é chefiada por um dos Adjuntos do Gabinete e suas Seções por funcionários civis, obedecendo-se à sua categoria funcional.
+**Art**. 12. A Divisão do Expediente é chefiada por um dos Adjuntos do Gabinete e suas Seções por funcionários civis, obedecendo-se à sua categoria funcional.
 
-<strong>Art</strong>. 13. Ao Chefe da Divisão do Expediente compete:
+**Art**. 13. Ao Chefe da Divisão do Expediente compete:
 
 a) dirigir e fiscalizar a execução dos trabalhos afetos às Seções e à Biblioteca e Arquivo;
 
-b) providenciar sôbre a publicação dos atos oficiais no <em>Diário Oficial</em> e a distribuição do seu noticiário à imprensa;
+b) providenciar sôbre a publicação dos atos oficiais no *Diário Oficial* e a distribuição do seu noticiário à imprensa;
 
 c) distribuir o pessoal de acôrdo com suas aptidões e conveniência do serviço, podendo efetuar transferência de uma para outra Seção;
 
@@ -138,7 +136,7 @@ e) organizar a escala de férias do pessoal civil da Divisão;
 
 f) organizar, nos períodos fixados na legislação, o boletim de merecimento dos funcionários civis da Divisão, dando-lhe o conveniente destino.
 
-<strong>Art</strong>. 14. Compete à Seção de Redação:
+**Art**. 14. Compete à Seção de Redação:
 
 a) redigir os atos oficiais não especificados nas atribuições dos Adjuntos do Gabinete, bem como os que forem determinados pelo Chefe da Divisão de Expediente;
 
@@ -146,19 +144,19 @@ b) organizar, publicar e distribuir o Boletim Interno do Gabinete;
 
 c) registrar em llivros especiais todos os decretos e atos adminstrativos de caráter extensivo, reunindo além disso todos os elementos que permitam prestar aos Adjuntos do Gabinete as informações por êles solicitadas.
 
-<strong>Art</strong>. 15. Compete à Seção de Protocolo e Portaria:
+**Art**. 15. Compete à Seção de Protocolo e Portaria:
 
 a) receber a correspondência oficial destinada ao Gabinete, entregando a sigilosa, ainda fechada, ao “Serviço Secreto”, protocolando, fichando e encaminhando a ostensiva aos diferentes destinos, obedecida a distribuição dos assuntos entre os Adjuntos do Gabinete;
 
 b) expedir, devidamente numerada e datada, a correspondência normal.
 
-<strong>Art</strong>. 16. Compete à Seção de Mecanografia:
+**Art**. 16. Compete à Seção de Mecanografia:
 
 a) executar todos os trabalhos mecanográficos do Gabinete, distribuidos, por intermédio do Chefe da Divisão de Expediente, pelo Chefe da Divisão de Expediente, pelo Chefe e pelos Adjuntos do Gabinete;
 
 b) manter sôbre os trabalhos a seu cargo, qualquer que seja o seu caráter, o indispensável sigilo.
 
-<strong>Art</strong>. 17. Compete à Biblioteca e Arquivo:
+**Art**. 17. Compete à Biblioteca e Arquivo:
 
 A) Biblioteca:
 
@@ -180,15 +178,15 @@ e) restituir, mediante recibo, documentos anexados a processos arquivados.
 
 III - FISCALIZAÇÃO ADMINISTRATIVA
 
-<strong>Art</strong>. 18. O Serviço de Fiscalização Administrativa é exercido por um dos oficiais Intendentes do Gabinete, regendo-se, no que lhe fôr aplicável, pelas normas gerais em vigor.
+**Art**. 18. O Serviço de Fiscalização Administrativa é exercido por um dos oficiais Intendentes do Gabinete, regendo-se, no que lhe fôr aplicável, pelas normas gerais em vigor.
 
 IV - TESOURARIA E ALMOXARIFADO.
 
-<strong>Art</strong>. 19. As funções de Tesoureiro e Almoxarife são exercidas por um dos Adjuntos do Gabinete, do Quadro de Intendentes, de acôrdo com as leis e regulamentos que regem os assuntos atinentes a esses órgãos da administração.
+**Art**. 19. As funções de Tesoureiro e Almoxarife são exercidas por um dos Adjuntos do Gabinete, do Quadro de Intendentes, de acôrdo com as leis e regulamentos que regem os assuntos atinentes a esses órgãos da administração.
 
 V - SERVIÇOS AUXILIARES
 
-<strong>Art</strong>. 20. O Gabinete tem mais os seguintes serviços auxiliares:
+**Art**. 20. O Gabinete tem mais os seguintes serviços auxiliares:
 
 a) Serviço de Ordens, A cargo do Sub-Chefe do Gabinete e executado por um contingente fixado pelo Ministro;
 
@@ -206,18 +204,18 @@ c) Serviço de Transmissões, com as seguintes características:
 
 d) Serviço de Limpeza e Conservação, controlado pelo Sub-Chefe do Gabinete e dirigido por um funcionário de carreira de Contínuo ou de Servente, desigando pelo Chefe de Gabinete.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 21. Os Ajudantes de Ordens atendem diretamente às determinações do Ministro e dirigirão os Serviços de Ordens e de Transportes do Gabinete.
+**Art**. 21. Os Ajudantes de Ordens atendem diretamente às determinações do Ministro e dirigirão os Serviços de Ordens e de Transportes do Gabinete.
 
-<strong>Art</strong>. 22. O Chefe do Gabinete mediante normas gerais fixadas pelo Ministro, organizará o Regimento Interno, com instruções complemetares para a execução dêste Regulamento e feitura do expediente.
+**Art**. 22. O Chefe do Gabinete mediante normas gerais fixadas pelo Ministro, organizará o Regimento Interno, com instruções complemetares para a execução dêste Regulamento e feitura do expediente.
 
 Parágrafo único. Êsse regimento pode ser modificado no todo ou em parte, sempre que a experiência ou as circunstâncias o exigirem
 
 Rio de Janeiro, 13 de Setembro de 1946.
 
-<strong>GEN. CANROBERT. P. DA COSTA</strong>
+**GEN. CANROBERT. P. DA COSTA**
 
 respondendo pelo Expediente

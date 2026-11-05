@@ -1,5 +1,3 @@
-###DEC-073586-0-000-29-01-1974@@@
-
 DECRETO Nº 73.586, DE 29 DE JANEIRO DE 1974.
 
 Autoriza a Comissão Executiva do Sal a utilizar até a importância de Cr$ 664.000,00, destinada ao "Programa de Unificação das Pequenas e Médias Salinas no Estado do Rio Grande do Norte", e dá outras providências.

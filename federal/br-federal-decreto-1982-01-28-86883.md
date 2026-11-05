@@ -1,5 +1,3 @@
-###DEC-086883-0-000-28-01-1982@@@
-
 Decreto nº 86.883, de 28 de janeiro de 1982.
 
 Altera dispositivo do Decreto nº 75.911, de 26 de junho de 1975, que fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, alterado pelos Decretos nºs 81.636 de 08 de maio de 1978, 84.088, de 16 de outubro de 1979 e 86.780, de 23 de dezembro de 1981.

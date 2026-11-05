@@ -1,5 +1,3 @@
-###DEL-007683-0-000-27-06-1945@@@
-
 DECRETO-LEI  N. 7.683 – DE 27 DE JUNHO DE 1945
 
 Abre ao Ministério da Agricultura, o crédito suplementar de Cr$  100.000,00 à Verba que especifica

@@ -1,5 +1,3 @@
-###MPV-002068-0-038-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.068-38, DE 25 DE JANEIRO DE 2001
 
 Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física, reduz o imposto de importação para os produtos que especifica, e dá outras providências.

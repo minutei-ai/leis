@@ -1,5 +1,3 @@
-###DEC-050493-0-000-25-04-1961@@@
-
 DECRETO Nº 50.493, DE 25 DE ABRIL DE 1961.
 
 Altera a redação do art. 43 do Regulamento aprovado pelo Decreto número 5.739, de 29 de maio de 1940, modificado pelo Decreto nº 22.988, de 22 de abril de 1947, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080812-0-000-23-11-1977@@@
-
 DECRETO Nº 80.812, DE 23 DE NOVEMBRO DE 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

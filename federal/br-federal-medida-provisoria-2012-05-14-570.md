@@ -1,5 +1,3 @@
-###MPV-000570-0-000-14-05-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº  570, DE 14 DE MAIO DE 2012
 
 Altera a Lei nº 10.836, de 9 de janeiro de 2004; dispõe sobre o apoio financeiro da União aos Municípios e ao Distrito Federal para ampliação da oferta da educação infantil; e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003275-0-000-06-12-1999@@@
-
 DECRETO Nº 3.275, DE 6 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a dissolução, liquidação e extinção da Rede Federal de Armazéns Gerais Ferroviários S.A. - AGEF.

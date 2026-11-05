@@ -1,5 +1,3 @@
-###DEC-096108-0-000-31-05-1988@@@
-
 DECRETO N° 96.108, DE 31 DE MAIO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

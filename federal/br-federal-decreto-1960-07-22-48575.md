@@ -1,5 +1,3 @@
-###DEC-048575-0-000-22-07-1960@@@
-
 DECRETO Nº 48.575, DE 22 DE JULHO DE 1960.
 
 Autoriza a Cia. Mineira de Cimento Portland S.A. - COMINCI a pesquisar argila no município de Matosinhos, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-071261-0-000-17-10-1972@@@
-
 DECRETO Nº 71.261 - DE 17 DE OUTUBRO DE 1972.
 
 Aprova o Regulamento da Diretoria de Eletrônica e Proteção ao Vôo e dá outras providências.

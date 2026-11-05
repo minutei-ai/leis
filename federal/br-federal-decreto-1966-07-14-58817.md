@@ -1,5 +1,3 @@
-###DEC-058817-0-000-14-07-1966@@@
-
 DECRETO Nº 58.817, DE 14 DE JULHO DE 1966.
 
 Promulga a Convenção n° 22 concernente ao contrato de engajamento de marinheiros.

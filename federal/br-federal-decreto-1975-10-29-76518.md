@@ -1,5 +1,3 @@
-###DEC-076518-0-000-29-10-1975@@@
-
 DECRETO Nº 76.518, DE 29 DE OUTUBRO DE 1975.
 
 Transfere a sede do 55º Batalhão de Infantaria, do 41º Batalhão de Infantaria Motorizado e dá outras providências.

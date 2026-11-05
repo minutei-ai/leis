@@ -1,7 +1,3 @@
-1
-
-###DEC-001534-0-000-27-06-1995@@@
-
 DECRETO Nº 1.534, DE 27 DE JUNHO DE 1995
 
 Introduz alterações no Decreto nº 1.502, de 25 de maio de 1995, que dispõe sobre  consignações em folha de pagamento de servidores públicos federais

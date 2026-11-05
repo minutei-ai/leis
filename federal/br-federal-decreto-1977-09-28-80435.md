@@ -1,5 +1,3 @@
-###DEC-080435-0-000-28-09-1977@@@
-
 DECRETO Nº 80.435, DE 28 DE SETEMBRO DE 1977.
 
 Concede à Silva Areal Mármores e Granitos S.A. o direito de lavrar granito ornamental no Município de Rio de Janeiro, Estado do Rio de Janeiro.

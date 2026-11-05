@@ -1,5 +1,3 @@
-###DEC-046051-0-000-18-05-1959@@@
-
 Decreto nº 46.051, de 18 de maio de 1959.
 
 Autoriza o cidadão brasileiro Homero de Oliveira Julio a pesquisar mica e pedras coradas, no município de Santa Maria do Suassuí, Estado de Minas Gerais.

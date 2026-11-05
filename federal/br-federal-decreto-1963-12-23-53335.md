@@ -1,5 +1,3 @@
-###DEC-053335-0-000-23-12-1963@@@
-
 DECRETO Nº 53.335, DE 23 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação, bens que constituem o patrimônio da Fundação Gaffree e Guinle, no Estado da Guanabara.

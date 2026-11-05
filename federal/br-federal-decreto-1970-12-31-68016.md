@@ -1,5 +1,3 @@
-###DEC-068016-0-000-31-12-1970@@@
-
 DECRETO Nº 68.016, DE 31 DE DEZEMBRO DE 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o Departamento de Polícia Federal (DPF) e dá outras providências.

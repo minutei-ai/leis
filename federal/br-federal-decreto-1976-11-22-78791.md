@@ -1,5 +1,3 @@
-###DEC-078791-0-000-22-11-1976@@@
-
 DECRETO Nº 78.791, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à Mineração Caolinita Ltda, o direito de lavrar vermiculita no Município de Cipotânea, Estado de Minas Gerais.

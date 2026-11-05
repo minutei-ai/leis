@@ -1,5 +1,3 @@
-###DEC-048015-0-000-05-04-1960@@@
-
 DECRETO Nº 48.015, DE 5 DE ABRIL DE 1960.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

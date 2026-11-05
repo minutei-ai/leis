@@ -1,5 +1,3 @@
-###DEC-099544-0-000-24-09-1990@@@
-
 DECRETO N° 99.544, DE 24 DE Setembro DE 1990
 
 Modifica o Estatuto Social da Companhia Brasileira de Armazenamento CIBRAZEM e dá outras providências.

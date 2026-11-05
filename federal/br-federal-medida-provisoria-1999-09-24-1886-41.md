@@ -1,5 +1,3 @@
-###MPV-001886-0-041-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.886-41, DE 24 DE SETEMBRO DE 1999.
 
 Altera dispositivos das Leis nºs 9.138, de 29 de novembro de 1995, 8.427, de 27 de maio de 1992, e 9.126, de 10 de novembro de 1995, que dispõem, respectivamente, sobre o crédito rural; sobre a concessão de subvenção econômica nas operações de crédito rural; autoriza o Poder Executivo a renegociar as obrigações financeiras relativas à liquidação de operações Empréstimos do Governo Federal - EGF, vendidas e prorrogadas a partir de 1991; e a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais e com recursos das Operações Oficiais de Crédito.

@@ -1,5 +1,3 @@
-###DEC-083913-0-000-28-08-1979@@@
-
 Decreto nº 83.913, de 28 de agosto de 1979.
 
 Autoriza o funcionamento dos cursos de Desenho Industrial e de Comunicação Visual da Faculdade de Desenho Industrial Brasileiro de Almeida, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

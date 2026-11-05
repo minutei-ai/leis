@@ -1,5 +1,3 @@
-###DEC-076098-0-000-08-08-1975@@@
-
 Decreto Nº 76.098 - DE 8 DE AGOSTO DE 1975
 
 Aprova o novo Regulamento para o Alto-Comando do Exército (R-189)

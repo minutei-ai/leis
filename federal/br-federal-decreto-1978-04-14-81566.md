@@ -1,5 +1,3 @@
-###DEC-081566-0-000-14-04-1978@@@
-
 Decreto nº 81.566, de 14 de abril de 1978.
 
 Subordina aos Comandos dos Distritos Navais todas as Organizações Militares da Marinha sediadas na área de sua jurisdição, e dá outras providências.

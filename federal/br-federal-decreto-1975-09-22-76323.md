@@ -1,5 +1,3 @@
-###DEC-076323-0-000-22-09-1975@@@
-
 Decreto nº 76.323 - de 22 de setembro de 1975
 
 Regulamenta a Lei nº 6.165, de 9 de dezembro de 1974, que dispõe sobre a formação de Oficiais Engenheiros para o Corpo de Oficiais da Aeronáutica, da Ativa e dá outras providências.

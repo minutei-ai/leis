@@ -1,5 +1,3 @@
-###DEC-061177-0-000-18-08-1967@@@
-
 DECRETO Nº 61.177, DE 18 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão no Estado de São Paulo.

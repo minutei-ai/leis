@@ -1,5 +1,3 @@
-###DEC-046278-0-000-29-06-1959@@@
-
 DECRETO Nº 46.278, DE 29 DE JUNHO DE 1959.
 
 Altera a redação do art. 1º do Decreto nº 40.931, de 13 de fevereiro de 1957.

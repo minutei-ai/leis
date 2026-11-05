@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210128)<br>
-
 # DECRETO N° 68.981, DE 21 DE OUTUBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, as faixas de terra onde está implantado o Coletor Tronco de Esgoto Itaim, integrante do Sistema de Esgotamento Sanitário - S.E.S., no Jardim Boa Vista/Raposo Tavares, no Município de São Paulo, e dá providências correlatas._

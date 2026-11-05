@@ -1,5 +1,3 @@
-###DEC-004538-0-000-23-12-2002@@@
-
 DECRETO N. 4.538 – DE 23 DE DEZEMBRO DE 2002
 
 Dispõe sobre a concessão de subvenção econômica com a finalidade de contribuir para a modicidade da tarifa de fornecimento de energia elétrica aos consumidores finais integrantes da Subclasse Residencial Baixa Renda.

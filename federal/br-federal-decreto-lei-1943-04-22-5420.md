@@ -1,5 +1,3 @@
-###DEL-005420-0-000-22-04-1943@@@
-
 DECRETO‑LEI N. 5.420 – DE 22 DE ABRIL DE 1943
 
 Dispõe sobre a designação de vogais e suplentes de junta de Conciliação e jul­gamento, nas localidades em que não há sindicato, e dá outras providências

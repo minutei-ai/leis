@@ -1,5 +1,3 @@
-###DEC-049368-0-000-29-11-1960@@@@
-
 DECRETO Nº 49.368, DE 29 DE NOVEMBRO DE 1960.
 
 Autoriza União Indústria e Comércio S. A. a lavrar conchas calcárias na Lagoa de Araruama, Estado do Rio de Janeiro.

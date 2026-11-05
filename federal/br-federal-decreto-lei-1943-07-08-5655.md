@@ -1,5 +1,3 @@
-###DEL-005655-0-000-08-07-1943@@@
-
 DECRETO‑LEI N. 5.655 – DE  8 DE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 800.000,00 para despesas da Comissão de Contrôle dos Acordos de Washington

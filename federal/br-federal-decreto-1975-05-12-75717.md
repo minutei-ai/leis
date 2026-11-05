@@ -1,5 +1,3 @@
-###DEC-075717-0-000-12-05-1975@@@
-
 DECRETO Nº 75.717, DE 12 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Ciências e Letras "Padre Anchieta" mantida pela Associação "Padre Anchieta" de Ensino, com sede na cidade de Jundiaí, Estado de São Paulo.

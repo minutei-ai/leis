@@ -1,5 +1,3 @@
-###DEC-054393-0-000-08-10-1964@@@
-
 DECRETO Nº 54.393, DE 8 DE OUTUBRO DE 1964.
 
 Altera o § 2º do art. 2º do Decreto nº 51.860, de 22 de março de 1963.

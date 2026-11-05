@@ -1,5 +1,3 @@
-###DEL-006414-0-000-12-04-1944@@@
-
 DECRETO-LEI N. 6.414 – DE 12 DE ABRIL DE 1944
 
 Abre, pelo Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 7.260,00 (sete mil duzentos e sessenta cruzeiros), para pagamento, a título de gratificação, a Plácido Modesto de Melo, como membro da extinta Comissão de Censura Cinematográfica, nos exercícios de 1935 e 1936.

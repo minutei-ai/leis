@@ -1,5 +1,3 @@
-###DEC-075588-0-000-10-04-1975@@@
-
 decreto nº 75.588, de 10 de abril de 1975.
 
 Concede reconhecimento aos cursos de Administração e Ciências Contábeis da Faculdade de Ciências Econômicas de Bagé, mantida pela Fundação Átila Taborda, com sede na cidade de Bagé, Estado do Rio Grande do Sul.

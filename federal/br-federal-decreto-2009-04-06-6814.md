@@ -1,5 +1,3 @@
-###DEC-006814-0-000-06-04-2009@@@
-
 DECRETO Nº 6.814, DE 6 DE ABRIL DE 2009.
 
 Regulamenta a Lei no 11.508, de 20 de julho de 2007, que dispõe sobre o regime tributário, cambial e administrativo das Zonas de Processamento de Exportação - ZPE.

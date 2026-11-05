@@ -1,5 +1,3 @@
-###DEC-097029-0-000-01-11-1988@@@
-
 DECRETO N° 97.029, DE 1° DE NOVEMBRO DE 1988
 
 Estatutos da Indústria de Material Bélico do Brasil - IMBEL. Altera.

@@ -1,5 +1,3 @@
-###DEC-002422-0-000-16-12-1997@@@
-
 DECRETO Nº 2.422, DE 16 DE DEZEMBRO DE 1997
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND da DATAMEC S.A. - Sistemas e Processamento de Dados.

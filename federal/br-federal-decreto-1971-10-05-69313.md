@@ -1,5 +1,3 @@
-###DEC-069313-0-000-05-10-1971@@@
-
 DECRETO Nº 69.313, DE 5 de OUTUBRO DE 1971.
 
 Altera o artigo 12 do Regulamento da Medalha Militar, aprovado pelo Decreto n° 39.207, de 22 de maio de 1956.

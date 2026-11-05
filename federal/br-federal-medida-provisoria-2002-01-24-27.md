@@ -1,5 +1,3 @@
-###MPV-000027-0-000-24-01-2002@@@
-
 MEDIDA PROVISÓRIA NO 27, DE 24 DE JANEIRO DE 2002.
 
 Dispõe sobre infrações penais de repercussão interestadual ou internacional que exigem repressão uniforme, para os fins do disposto no inciso I do § 1o do art. 144 da Constituição.

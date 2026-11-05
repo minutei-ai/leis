@@ -1,5 +1,3 @@
-###DEC-045808-0-000-15-04-1959@@@
-
 DECRETO Nº 45.808, DE 15 DE ABRIL DE 1959.
 
 Estende a jurisdição da Delegacia Regional do Ministério do Trabalho, Indústria e Comércio, no Estado do Piauí à cidade de Timon, no Estado do Maranhão, e dá outras providências.

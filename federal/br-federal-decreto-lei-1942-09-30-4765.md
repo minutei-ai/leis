@@ -1,5 +1,3 @@
-###DEL-004765-0-000-30-09-1942@@@
-
 DECRETO-LEI N. 4.765 – DE 30 DE SETEMBRO DE 1942
 
 Cria dois cargos isolados, de provimento efetivo, de ajudante de tesoureiro, padrão G, no Quadro Permanente do Ministério da Justiça e Negócios lnteriores e dá outras providências

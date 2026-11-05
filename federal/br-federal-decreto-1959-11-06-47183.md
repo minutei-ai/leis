@@ -1,5 +1,3 @@
-###DEC-047183-0-000-06-11-1959@@@
-
 decreto nº 47.183, de 6 de novembro de 1959.
 
 Renova o Decreto nº 42.107, de 19 de agôsto de 1957.

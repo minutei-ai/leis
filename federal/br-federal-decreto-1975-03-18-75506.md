@@ -1,5 +1,3 @@
-###DEC-075506-0-000-18-03-1975@@@
-
 DECRETO Nº 75.506, DE 18 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Artes Práticas da Faculdade de Filosofia, Ciência e Letras de Tatuí mantida pela Associação de Ensino Tatuiense, com sede na Cidade de Tatuí, Estado de São Paulo.

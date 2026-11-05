@@ -1,5 +1,3 @@
-###DEL-007942-0-000-06-09-1945@@@
-
 DECRETO-LEI N. 7.942 – DE 6 DE SETEMBRO DE 1945
 
 Cria funções gratificadas no Quadro Único, Parte Permanente, do Ministério do Trabalho, Indústria e Comércio.

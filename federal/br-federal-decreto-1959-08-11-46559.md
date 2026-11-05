@@ -1,5 +1,3 @@
-###DEC-046559-0-000-11-08-1959@@@
-
 DECRETO Nº 46.559, DE 11 DE AGÔSTO DE 1959.
 
 Cria uma Embaixada do Brasil na Federação da Malaia.

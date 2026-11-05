@@ -1,5 +1,3 @@
-###DEC-087746-0-000-29-10-1982@@@
-
 Decreto nº 87.746, de 29 de outubro de 1982.
 
 Altera dispositivo do Decreto nº 69.442 de 29 de outubro de 1971 que institui a Comissão Naval Brasileira na Europa, e dá outras providências.

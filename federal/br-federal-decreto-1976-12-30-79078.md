@@ -1,5 +1,3 @@
-###DEC-079078-0-000-30-12-1976@@@
-
 DECRETO Nº 79.078, DE 30 DE DEZEMBRO DE 1976.
 
 Autoriza a transferência para o patrimônio da Empresa Brasileira de Aeronáutica S. A. - EMBRAER, do imóvel que menciona, situado no Município de São José dos Campos, Estado de São Paulo.

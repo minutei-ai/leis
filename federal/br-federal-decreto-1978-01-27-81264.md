@@ -1,5 +1,3 @@
-###DEC-081264-0-000-27-01-1978@@@
-
 Decreto nº 81 264, de 27 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Filosofia, Ciência e Letras de Tatuí, com sede na cidade de Tatuí, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-054579-0-000-26-10-1964@@@
-
 DECRETO Nº 54.579, DE 26 DE OUTUBRO DE 1964.
 
 Transforma o Consulado Privativo do Brasil em Rivera - (Uruguai) em Consulado de Carreira.

@@ -1,5 +1,3 @@
-###DEL-007551-0-000-15-05-1945@@@
-
 DECRETO-LEI N. 7.551 – DE 15 DE MAIO DE 1945
 
 Dispõe sôbre a matéria do Decreto-lei nº 7.036, de 10 de novembro de 1944, em face das disposições do Decreto-lei nº 7. 526, de 7 de maio de 1945, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-055832-0-000-12-03-1965@@@
-
 DECRETO Nº 55.832, DE 12 DE MARÇO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona necessário do Ministério da Guerra.

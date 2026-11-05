@@ -1,5 +1,3 @@
-###DEC-068646-0-000-21-05-1971@@@
-
 DECRETO Nº 68.646 - de 21 de maio 1971.
 
 Autoriza a cessão, sob o regime de aforamento, dos terrenos que menciona, situados no Município de Porto Belo, no Estado de Santa Catarina.

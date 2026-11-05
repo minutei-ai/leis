@@ -1,5 +1,3 @@
-###DEC-047804-0-000-15-02-1960@@@
-
 DECRETO Nº 47.804, DE 15 DE FEVEREIRO DE 1960.
 
 Transfere sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Guerra.

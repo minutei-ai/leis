@@ -1,5 +1,3 @@
-###DEC-054487-0-000-15-10-1964@@@
-
 DECRETO Nº 54.487, DE 15 DE OUTUBRO DE 1964.
 
 Aprova o aumento de capital e a reforma estatutária promovida pelo Banco de Crédito Real de Minas Gerais S.A.

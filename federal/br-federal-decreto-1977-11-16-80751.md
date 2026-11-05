@@ -1,5 +1,3 @@
-###DEC-080751-0-000-16-11-1977@@@
-
 Decreto nº 80.751, de 16 de novembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

@@ -1,5 +1,3 @@
-###DEC-085609-0-000-30-12-1980@@@
-
 Decreto nº 85.609, de 30 de dezembro de 1980
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Faculdade de Ciências da Saúde Grande Rio.

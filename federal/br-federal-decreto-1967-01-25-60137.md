@@ -1,5 +1,3 @@
-###DEC-060137-0-000-25-01-1967@@@
-
 decreto nº 60.137, de 25 de janeiro de 1967.
 
 Abre o crédito especial de Cr$15.000.000.000 (quinze bilhões de cruzeiros), ao Ministério das Minas e Energia, para o fim que especifica.

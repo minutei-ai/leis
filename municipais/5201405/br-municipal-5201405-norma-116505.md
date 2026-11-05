@@ -1,6 +1,5 @@
 LEI MUNICIPAL Nº 3.504, DE 10 DE OUTUBRO DE 2019
 
-<br>
 “Altera a Lei Municipal n° 3.182/2014, que Institui data comemorativa denominada “Dia Municipal dos Povos e Comunidades Matriz Africana de Aparecida de Goiânia - GO” e dá outras providências.”
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
@@ -13,8 +12,10 @@ Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogando-se as
 
 Gabinete do Prefeito Municipal de Aparecida Goiânia, Estado de Goiás, 10 de Outubro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

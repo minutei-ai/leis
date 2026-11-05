@@ -1,5 +1,3 @@
-###DEL-006224-0-000-24-01-1944@@@
-
 DECRETO-LEI N. 6.224 – DE 24 DE JANEIRO DE 1944
 
 Institui o impôsto sôbre lucros extraordinários e dá outras providências

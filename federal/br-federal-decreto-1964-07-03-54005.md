@@ -1,5 +1,3 @@
-###DEC-054005-0-000-03-07-1964@@@
-
 DECRETO Nº 54.005, DE 3 DE JULHO DE 1964.
 
 Regulamenta o § 6º do artigo 1º da Lei nº 4.345, de 26 de junho de 1964, e dá outras providências.
@@ -10,7 +8,45 @@ decreta:
 
 Art. 1º Os atuais cargos de provimento em comissão, classificados em símbolos de valores abaixo de 12-C, ficam transformados, a partir de 1º de junho de 1964, data da vigência dos efeitos financeiros da Lei número 4.345, de 26 de junho de 1964, em funções gratificadas, de acordo com a tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Situação anterior</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(Cargo em comissão</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Situação nova</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>(Função gratificada)</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>8-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>16-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>17-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>18-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>19-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>12-F</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20-C ...........................................................................................................</span></p></td><td style="width:99.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>13-F</span></p></td></tr></tbody></table>
+Situação anterior
+
+(Cargo em comissão
+
+Situação nova
+
+(Função gratificada)
+
+13-C ...........................................................................................................
+
+6-F
+
+14-C ...........................................................................................................
+
+7-F
+
+15-C ...........................................................................................................
+
+8-F
+
+16-C ...........................................................................................................
+
+9-F
+
+17-C ...........................................................................................................
+
+10-F
+
+18-C ...........................................................................................................
+
+11-F
+
+19-C ...........................................................................................................
+
+12-F
+
+20-C ...........................................................................................................
+
+13-F
 
 Art. 2º Os símbolos das funções gratificadas de que trata o presente decreto são fixados em caráter provisório e estão sujeitos à revisão da Divisão de Classificação de Cargos e da Comissão de Classificação de Cargos, a fim de serem adaptados às normas constantes do art. 12 da Lei nº 3.780, de 12 de julho de 1960, regulamentado pelo Decreto nº 49.592, de 27 de dezembro de 1960.
 

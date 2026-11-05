@@ -1,5 +1,3 @@
-###DEC-045785-0-000-14-04-1959@@@
-
 Decreto nº 45.785, de 14 de abril de 1959.
 
 Autoriza Porcelana e Steatita S.A. a lavrar dolomita no município de Castro, Estado do Paraná.

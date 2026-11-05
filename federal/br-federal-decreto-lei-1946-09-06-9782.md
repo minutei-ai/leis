@@ -1,5 +1,3 @@
-###DEL-009782-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.782 – DE 6 DE SETEMBRO DE 1946
 
 Extingue, a partir de 1947 o “Plano de Obras e Equipamentos”, dispõe sôbre sua execução no atual exercício, modifica o Orçamento Geral da República para 1946, e dá outras providências.

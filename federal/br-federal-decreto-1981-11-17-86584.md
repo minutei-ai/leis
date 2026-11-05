@@ -1,5 +1,3 @@
-###DEC-086584-0-000-17-11-1981@@@
-
 decreto nº 86.584, de 17 de novembro de 1981
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

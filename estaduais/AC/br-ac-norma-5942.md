@@ -1,6 +1,10 @@
 > **LEI Nº 4.311, DE 04 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Semana de Prevenção ao Afogamento e Incentivo à Natação.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Semana de Prevenção ao Afogamento e Incentivo à Natação.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-049934-0-000-13-01-1961@@@
-
 Decreto Nº 49.934, DE 13 DE JANEIRO DE 1961.
 
 Renova o Decreto nº 44.701, de 20 de outubro de 1958.

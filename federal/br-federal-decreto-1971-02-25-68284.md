@@ -1,5 +1,3 @@
-###DEC-068284-0-000-25-02-1971@@@
-
 DECRETO Nº 68.284, DE 25 DE FEVEREIRO DE 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério dos Transportes para o Ministério da Indústria e do Comércio, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070558-0-000-17-05-1972@@@
-
 DECRETO Nº 70.558, DE 17 DE MAIO DE 1972.
 
 Declara de utilidade pública o Lar Esperança, com sede em Casa Branca, Estado de São Paulo.

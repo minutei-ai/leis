@@ -20,7 +20,8 @@ Aparecida de Goiânia, 4 de agosto de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
@@ -41,4 +42,30 @@ SITUAÇÃO ATUAL
 
 PROPOSTA DESMEMBRAMENTO
 
-<table align="center" class="MsoTableGrid" style="width:15.0cm; border-collapse:collapse; border:none" width="567"><tbody><tr><td style=" width:265px;  height:29px;   ">IMÓVEL</td><td style=" width:302px;  height:29px;   ">ÁREA (m²)</td></tr><tr><td style=" width:265px;    ">LOTE 11/16/17 A</td><td style=" width:302px;    ">180,00</td></tr><tr><td style=" width:265px;    ">LOTE 11/16/17 B</td><td style=" width:302px;    ">180,00</td></tr><tr><td style=" width:265px;    ">LOTE 11/16/17 C</td><td style=" width:302px;    ">180,00</td></tr><tr><td style=" width:265px;    ">LOTE 11/16/17 D</td><td style=" width:302px;    ">180,00</td></tr><tr><td style=" width:265px;    ">LOTE 11/16/17 E</td><td style=" width:302px;    ">180,00</td></tr><tr><td style=" width:265px;    ">LOTE 11/16/17 F</td><td style=" width:302px;    ">180,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 11/16/17 A
+
+180,00
+
+LOTE 11/16/17 B
+
+180,00
+
+LOTE 11/16/17 C
+
+180,00
+
+LOTE 11/16/17 D
+
+180,00
+
+LOTE 11/16/17 E
+
+180,00
+
+LOTE 11/16/17 F
+
+180,00

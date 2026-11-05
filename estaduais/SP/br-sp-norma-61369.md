@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61369)
-
 # LEI Nº 12.269, DE 20 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 859/2001, do Deputado Sidney Beraldo - PSDB)

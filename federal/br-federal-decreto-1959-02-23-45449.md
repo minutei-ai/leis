@@ -1,5 +1,3 @@
-###DEC-045449-0-000-23-02-1959@@@
-
 decreto nº 45.449, de 23 de fevereiro de 1959.
 
 Concede o abono provisório aos servidores do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas.

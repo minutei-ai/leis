@@ -1,5 +1,3 @@
-###DEC-092336-0-000-27-01-1986@@@
-
 DECRETO Nº 92.336 DE 27 DE JANEIRO DE 1986
 
 Autoriza o funcionamento de habilitação do curso de Letras da Faculdade Niteroiense de Educação, Letras e Turismo.

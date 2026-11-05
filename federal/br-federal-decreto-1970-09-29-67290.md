@@ -1,5 +1,3 @@
-###DEC-067290-0-000-29-09-1970@@@
-
 DECRETO Nº 67.290, DE 29 DE SETEMBRO DE 1970.
 
 Declara luto oficial.

@@ -1,5 +1,3 @@
-###DEC-000131-0-000-22-05-1991@@@
-
 DECRETO N° 131, DE 22 DE MAIO DE 1991
 
 Promulga a Convenção n° 135, da Organização Internacional do Trabalho - OIT, sobre a Proteção de Representantes de Trabalhadores.

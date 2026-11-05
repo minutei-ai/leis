@@ -1,5 +1,3 @@
-###DEC-092429-0-000-26-02-1986@@@
-
 DECRETO Nº 92.429, DE 26 DE FEVEREIRO DE 1986
 
 Dispõe sobre a delegação de competência aos Ministros de Estado da Marinha, do Exército, e da Aeronáutica para a execução do disposto na Emenda Constitucional nº 26, de 27 de novembro de 1985, e dá outras providências.

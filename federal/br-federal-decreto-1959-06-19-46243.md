@@ -1,5 +1,3 @@
-###DEC-046243-0-000-19-06-1959@@@
-
 DECRETO Nº 46.243, DE 19 DE JUNHO DE 1959.
 
 Abre, pelo Ministério da Agricultura, o critério especial de Cr$3.000.000,00 destinado a auxiliar a prefeitura municipal de Estrêla, no estado do Rio Grande do Sul, na realização da I Exposição Nacional de Suínos.

@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/180475)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2017/compilacao-lei.complementar-1295-02.01.2017.html)
 
 # LEI COMPLEMENTAR N° 1.295, DE 02 DE JANEIRO DE 2017
@@ -7,14 +6,22 @@
 
 ### _Altera a Lei Complementar n° 988, de 9 de janeiro de 2006, que organiza a Defensoria Pública do Estado e institui o regime jurídico da carreira de Defensor Público do Estado_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:**<br>
-Artigo 1° -** Ficam incluídos o inciso X e o § 2° no artigo 134 da [Lei Complementar n° 988, de 9 de janeiro de 2006](https://www.al.sp.gov.br/norma/59904), renumerando-se o atual inciso X como XI e o atual parágrafo único como § 1°, com a seguinte redação:<br>
-"Artigo 134 - .............................................................<br>
-...................................................................................<br>
-X - compensação em razão de atividades realizadas nos finais de semana, feriados ou recessos, mediante designação por Ato do Defensor Público-Geral do Estado, observados os critérios definidos pelo Conselho Superior;<br>
-XI - ...........................................................................<br>
-§ 1° - .........................................................................<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:**
+
+Artigo 1° -** Ficam incluídos o inciso X e o § 2° no artigo 134 da [Lei Complementar n° 988, de 9 de janeiro de 2006](https://www.al.sp.gov.br/norma/59904), renumerando-se o atual inciso X como XI e o atual parágrafo único como § 1°, com a seguinte redação:
+
+"Artigo 134 - .............................................................
+
+...................................................................................
+
+X - compensação em razão de atividades realizadas nos finais de semana, feriados ou recessos, mediante designação por Ato do Defensor Público-Geral do Estado, observados os critérios definidos pelo Conselho Superior;
+
+XI - ...........................................................................
+
+§ 1° - .........................................................................
+
 § 2° - Na hipótese de compensação de que trata o inciso X deste artigo, o eventual indeferimento do respectivo gozo, por necessidade de serviço, deverá gerar indenização, observado o limite de 1/30 (um trinta avos) dos vencimentos de Defensor Público Nível I por atividade, conforme critérios definidos pelo Conselho Superior." (NR)
 
 ~~Artigo 2° - Vetado.~~
@@ -35,8 +42,10 @@ _\- Artigo 2° declarado inconstitucional, em controle concentrado, pelo Tribuna
 
 ~~Artigo 3° - Vetado.~~
 
-~~Artigo 3° - O § 1° do artigo 26 da [Lei Complementar n° 988, de 9 de janeiro de 2006](https://www.al.sp.gov.br/norma/59904), passa a vigorar com a seguinte redação:~~<br>
-~~"Artigo 26 - (...)~~<br>
+~~Artigo 3° - O § 1° do artigo 26 da [Lei Complementar n° 988, de 9 de janeiro de 2006](https://www.al.sp.gov.br/norma/59904), passa a vigorar com a seguinte redação:~~
+
+~~"Artigo 26 - (...)~~
+
 ~~§ 1° - Os integrantes referidos nos incisos I a V e no inciso X deste artigo serão membros natos do Conselho Superior, e os demais serão eleitos pelo voto direto e secreto de todos os Defensores Públicos, na forma a ser estabelecida em regulamento." (NR)~~ 
 
 _~~Artigo 3° vetado pelo Governador.~~_
@@ -49,12 +58,20 @@ _\- Artigo 3° declarado inconstitucional, em controle concentrado, pelo Tribuna
 
 **Artigo 4° -** Esta lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1° de junho de 2016.
 
-Palácio dos Bandeirantes, 2 de janeiro de 2017.<br>
-GERALDO ALCKMIN<br>
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
+Palácio dos Bandeirantes, 2 de janeiro de 2017.
+
+GERALDO ALCKMIN
+
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnica da Casa Civil, em 2 de janeiro de 2017.

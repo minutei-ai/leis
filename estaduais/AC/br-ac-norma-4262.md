@@ -1,6 +1,10 @@
 > **LEI Nº 3.718, DE 02 DE FEVEREIRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Título de Cidadã Acreana à Sra. Rosália da Silva Moreira Mandroti.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Título de Cidadã Acreana à Sra. Rosália da Silva Moreira Mandroti.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-064027-A-000-27-01-1969@@@
-
 DECRETO Nº 64.027-A, DE 27 DE JANEIRO DE 1969.
 
 Retifica os limites da área reservada, aos índios Irantxe, pelo Decreto nº 63.368, de 8 de outubro de 1968.

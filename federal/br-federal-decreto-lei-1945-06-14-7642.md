@@ -1,5 +1,3 @@
-###DEL-007642-0-000-14-06-1945@@@
-
 DECRETO-LEI N. 7.642 – DE 14 DE JUNHO DE 1945
 
 Revoga o Decreto-lei nº 1.401, de 3 de junho de 1939

@@ -1,7 +1,3 @@
-1
-
-###DEC-000676-0-000-03-11-1992@@@
-
 DECRETO N° 676, DE 3 DE NOVEMBRO DE 1992
 
 Dispõe sobre a vinculação do Fundo de Defesa da Economia Cafeeira - FUNCAFÉ ao Ministério da Fazenda.

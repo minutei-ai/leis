@@ -1,7 +1,3 @@
-1
-
-###DEC-000944-0-000-30-09-1993@@@
-
 DECRETO Nº 944, DE 30 DE SETEMbro DE 1993
 
 Altera os arts. 115 e 118 do Regulamento da organização e do Custeio da Seguridade Social, aprovado pelo decreto nº 612, de 21 de julho de 1992, alterados pelo Decreto nº 656, de 24 de setembro de 1992, e dá outras providências.

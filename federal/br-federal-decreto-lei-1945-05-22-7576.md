@@ -1,5 +1,3 @@
-###DEL-007576-0-000-22-05-1945@@@
-
 DECRETO-LEI N. 7.576 – DE 22 DE MAIO DE 1945
 
 Autoriza a cobrança, sem muIta, de dívida fiscal em atraso, e dá outras providências

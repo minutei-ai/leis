@@ -1,5 +1,3 @@
-###DEC-059575-0-000-18-11-1966@@@
-
 Decreto Nº 59.575, DE 18 DE NOVEMBRO DE 1966.
 
 Regulamenta a aplicação do art. 23, da Lei nº 4.863, de 29 de novembro de 1965.

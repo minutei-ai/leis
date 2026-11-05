@@ -1,4 +1,5 @@
-DECRETO “N” Nº 142 DE 06 DE MARÇO DE 2023<br>
+DECRETO “N” Nº 142 DE 06 DE MARÇO DE 2023
+
 (Revogado pelo Decreto "N" Nº 361, de 5 de junho de 2023).
 
 ~~Dispõe sobre desmembramento de imóvel situado no Loteamento SETOR GARAVELO, neste município.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 142 DE 06 DE MARÇO DE 2023<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 06 de março de 2023~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Secretário de Governo~~
 
-~~JULIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana~~<br>
+~~JULIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana~~

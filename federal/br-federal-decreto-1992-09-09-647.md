@@ -1,7 +1,3 @@
-1
-
-###DEC-000647-0-000-09-09-1992@@@
-
 DECRETO N° 647, DE 9 DE SETEMBRO DE 1992
 
 Altera dispositivos do Decreto nº 99.266, de 28 de maio de 1990.

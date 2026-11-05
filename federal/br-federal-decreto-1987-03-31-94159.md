@@ -1,5 +1,3 @@
-###DEC-094159-0-000-31-03-1987@@@
-
 DECRETO N° 94.159, DE 31 DE MARÇO DE 1987
 
 Altera a denominação, a estrutura básica e a competência da Secretaria de Planejamento da Presidência da República e dá outras Providências.

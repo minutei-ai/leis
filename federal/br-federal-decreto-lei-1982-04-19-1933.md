@@ -1,5 +1,3 @@
-###DEL-001933-0-000-19-04-1982@@@
-
 # Decreto lei nº 1.933, de 19 de abril de 1982
 
 Acrescenta parágrafos ao artigo 4º do Decreto-lei nº 1.219, de 15 de maio de 1972, que dispõe sobre a concessão de estímulos à exportação de manufaturados.

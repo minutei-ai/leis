@@ -1,5 +1,3 @@
-###DEC-081660-0-000-15-05-1978@@@
-
 Decreto nº 81.660, de 15 de maio de 1978.
 
 Cria o 1º Esquadrão de Helicópteros de Esclarecimento e Ataque Anti-Submarino e dá outras providências.

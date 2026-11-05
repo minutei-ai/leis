@@ -1,5 +1,3 @@
-###DEC-065508-0-000-21-10-1969@@@
-
 DECRETO Nº 65.508 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

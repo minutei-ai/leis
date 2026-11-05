@@ -1,5 +1,3 @@
-###DEC-050911-0-000-05-07-1961@@@
-
 Decreto nº 50.911, de 5 de julho de 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 37.216, de 23 de abril de 1955, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público ÔLHO D’ ÁGUA DOS CASADOS, no município de Piranhas, Estado de Alagoas.

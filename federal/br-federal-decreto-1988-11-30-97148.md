@@ -1,5 +1,3 @@
-###DEC-097148-0-000-30-11-1988@@@
-
 DECRETO Nº 97.148, DE 30 NOVEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Educação Física, do Centro Integrado de Ensino de Concórdia em Santa Catarina.

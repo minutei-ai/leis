@@ -1,5 +1,3 @@
-###DEC-094759-0-000-10-08-1987@@@
-
 DECRETO Nº 94.759, DE 10 DE AGOSTO DE 1987.
 
 Autoriza o funcionamento do curso de Ciência da Computação da Escola de Engenharia de Piracicaba.

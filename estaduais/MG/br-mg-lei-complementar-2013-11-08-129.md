@@ -1943,7 +1943,3 @@ ANEXO III
 Quantitativo de Funções Públicas e Cargos Resultantes de Efetivação pela Emenda à Constituição nº 49, de 13 de junho de 2001
 
 Órgão Carreira Quantitativo Polícia Civil do Estado de Minas Gerais Investigador de Polícia II 70
-
-\======================================================================
-
-Data da última atualização: 18/8/2026.

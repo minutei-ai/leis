@@ -1,5 +1,3 @@
-###DEC-084964-0-000-25-07-1980@@@
-
 Decreto nº 84.964, de 25 de julho de 1980.
 
 Altera o Decreto nº 84.525, de 03 de março de 1980, que dispõe sobre os Cargos Privativos de Oficial-General do Exército em tempo de paz.

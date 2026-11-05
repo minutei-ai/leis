@@ -1,5 +1,3 @@
-###DEC-007288-0-000-01-09-2010-PUB-01@@@
-
 DECRETO Nº 7.288, DE 1º DE SETEMBRO DE 2010.
 
 Cria a Embaixada do Brasil em Cabul, na República Islâmica do Afeganistão.

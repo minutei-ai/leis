@@ -1,5 +1,3 @@
-###DEC-048617-0-000-25-07-1960@@@
-
 DECRETO Nº 48.617, DE 25 DE JULHO DE 1960.
 
 Autoriza S.A. Mineração Jerônimo Rosado a pesquisar gipsita, no município de Santana do Cariri, Estado do Ceará.

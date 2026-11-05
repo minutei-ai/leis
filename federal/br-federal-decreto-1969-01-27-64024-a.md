@@ -1,5 +1,3 @@
-###DEC-064024-A-000-27-01-1969@@@
-
 DECRETO Nº 64.024-A, DE 27 DE JANEIRO DE 1969.
 
 Acrescenta parágrafos ao artigo 1º do Decreto nº 63.166, de 26 de agôsto de 1968.

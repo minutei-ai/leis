@@ -1,5 +1,3 @@
-###DEC-047843-0-000-05-03-1960@@@
-
 DECRETO Nº 47.843, DE 5 DE MARÇO DE 1960.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Diretoria de Engenharia de Aeronáutica para a do Destacamento da Base Aérea de Belo Horizonte.

@@ -1,5 +1,3 @@
-###DEC-053734-0-000-18-03-1964@@@
-
 DECRETO Nº 53.734, DE 18 DE MARÇO DE 1964.
 
 Declara de utilidade pública, para fins de servidão ou de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis situados no Estado da Bahia, necessários à pesquisa e lavra de petróleo.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209391)<br>
-
 # LEI N° 17.928, DE 26 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1278/2023, do Deputado Carlos Cezar - PL)

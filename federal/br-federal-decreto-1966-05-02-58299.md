@@ -1,5 +1,3 @@
-###DEC-058299-0-000-02-05-1966@@@
-
 decreto nº 58.299, de 2 de maio de 1966.
 
 Renova o Decreto nº 51.939, de 26 de abril de 1963.

@@ -1,5 +1,3 @@
-###DEC-087324-0-000-24-06-1982@@@
-
 Decreto nº 87.324, de 24 de junho de 1982
 
 Inclui categoria funcional no Grupo-Tributação, Arrecadação e Fiscalização, a que se refere a Lei nº 5.645, de 10 de dezembro de 1970, e dá outras providências.

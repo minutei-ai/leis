@@ -1,5 +1,3 @@
-###DEC-056765-0-000-20-08-1965@@@
-
 Decreto nº 56.765, de 20 de agôsto de 1965.
 
 Outorga concessão à Televisão Itapoan S.A. para instalar uma emissora de radiodifusão de sons e imagens (televisão).

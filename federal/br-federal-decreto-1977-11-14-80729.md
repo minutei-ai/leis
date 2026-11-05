@@ -1,5 +1,3 @@
-###DEC-080729-0-000-14-11-1977@@@
-
 Decreto nº 80.729, de 14 de novembro de 1977.
 
 Concede à JOMIC - Empresa de Mineração, Indústria e Comércio Ltda. o direito de lavrar esmeralda no Município de Mirangaba, Estado da Bahia.

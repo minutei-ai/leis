@@ -1,5 +1,3 @@
-###DEL-009784-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.784 – DE 6 DE SETEMBRO DE 1946
 
 Cria no Ministério da Fazenda uma Divisão da Economia Cafeeira e dá outras providências.

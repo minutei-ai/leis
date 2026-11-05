@@ -1,5 +1,3 @@
-###DEC-047914-0-000-12-03-1960@@@
-
 DECRETO Nº 47.914, DE 12 DE MARÇO DE 1960.
 
 Eleva o Vice-Consulado honorário do Brasil em Encarnación, Paraguai, à categoria de Consulado honorário.

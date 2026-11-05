@@ -1,5 +1,3 @@
-###DEC-065245-0-000-29-09-1969@@@
-
 DECRETO Nº 65.245 - DE 29 DE setemBRO DE 1969.
 
 Declara de utilidade pública a Fundação Brasileira para a Conservação da Natureza, com sede no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-078860-0-000-30-11-1976@@@
-
 DECRETO Nº 78.860, DE 30 DE NOVEMBRO DE 1976.
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar argila no Município de Rio Pardo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-068842-0-000-02-07-1971@@@
-
 DECRETO Nº 68.842, DE 2 DE JULHO DE 1971.
 
 Concede à Companhia Catarinense de Cimento Portland o direito de lavrar calcário, no município de Camboriú, Estado de Santa Catarina.

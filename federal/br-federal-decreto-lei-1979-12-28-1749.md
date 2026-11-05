@@ -1,5 +1,3 @@
-###DEL-001749-0-000-28-12-1979@@@
-
 # Decreto-lei nº 1.749, de 28 de dezembro de 1979
 
 Eleva em até Cr$350.000.000,00 o limite atribuído ao Governo do Distrito Federal para abertura de crédito suplementar.

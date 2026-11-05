@@ -1,5 +1,3 @@
-###DEC-006580-0-000-25-09-2008@@@
-
 DECRETO Nº 6.580, DE 25 DE SETEMBRO DE 2008.
 
 Dá nova redação ao parágrafo único do art. 3o do Decreto no 4.081, de 11 de janeiro de 2002, para excluir a representação da Controladoria-Geral da União na Comissão de Ética dos Agentes Públicos da Presidência e Vice-Presidência da República - CEPR.

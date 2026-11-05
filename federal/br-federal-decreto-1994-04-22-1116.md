@@ -1,7 +1,3 @@
-1
-
-###DEC-001116-0-000-22-04-1994@@@
-
 DECRETO N° 1.116, DE 22 DE ABRIL DE 1994
 
 Altera os arts. 3º e 4º do Decreto n° 95.640, de 13 de janeiro de 1988, que cria o Instituto de Logística da Aeronáutica.

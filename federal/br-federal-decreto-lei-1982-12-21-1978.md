@@ -1,5 +1,3 @@
-###DEL-001978-0-000-21-12-1982@@@
-
 # Decreto-lei nº 1.978, de 21 de dezembro de 1982
 
 Estimula a capitalização de empresas e dá outras providências.

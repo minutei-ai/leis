@@ -1,5 +1,3 @@
-###DEC-047615-0-000-13-01-1960@@@
-
 DECRETO Nº 47.615, DE 13 DE JANEIRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial de Extranumerário-mensalista do Estabelecimento Central de Material de Saúde do Exército para idêntica Tabela do Hospital de Guarnição da Vila Militar, ambas do Ministério da Guerra.

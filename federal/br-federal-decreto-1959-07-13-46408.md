@@ -1,5 +1,3 @@
-###DEC-046408-0-000-13-07-1959@@@
-
 DECRETO N. 46.408 – DE 13 DE JULHO DE 1959
 
 Concede à Emprêsa de Navegação e Pesca Vieira Limitada autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

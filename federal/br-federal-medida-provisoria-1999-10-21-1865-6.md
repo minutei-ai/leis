@@ -1,5 +1,3 @@
-###MPV-001865-0-006-21-10-1999@@@
-
 Medida Provisória nº 1.865-6, de 21 de outubro de 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

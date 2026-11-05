@@ -6,12 +6,16 @@ Cria o cargo de Agente Municipal de Trânsito e dá outras providências.
 
 Art. 1º Fica criado o cargo de Agente Municipal de Trânsito, que passa a integrar o Anexo II da Lei n. 3.853/99, alusivo à categoria operacional, apresentando-se da forma seguinte:
 
-**Cargo: Agente Municipal de Trânsito        <br>
-Categoria:** Operacional                <br>
+**Cargo: Agente Municipal de Trânsito        
+
+Categoria:** Operacional                
+
 **Classe de Vencimento:** VI a IX (R$360,00)    
 
-**Categoria: OP-039<br>
-Série de Classe:** Ag Mun Trânsito<br>
+**Categoria: OP-039
+
+Série de Classe:** Ag Mun Trânsito
+
 **Função:** Agente Mun Trânsito
 
 **Tarefas:**
@@ -24,10 +28,14 @@ Série de Classe:** Ag Mun Trânsito<br>
 
 **Requisitos**
 
-• 2º grau completo;<br>
-• Curriculum vitae;<br>
-• Concurso público;<br>
-• Habilitação para conduzir veículos;<br>
+• 2º grau completo;
+
+• Curriculum vitae;
+
+• Concurso público;
+
+• Habilitação para conduzir veículos;
+
 • Conhecimentos básicos em micro-informática.
 
 Art. 2º O quantitativo do cargo de Agente Municipal de Trânsito é de 80 (oitenta) unidades e o servidor que o ocupar terá, no efetivo exercício da função, direito à percepção de adicional de periculosidade, cujo valor corresponderá a 30% (trinta por cento) do vencimento inicial, que é de R$ 360,00 (trezentos e sessenta reais).

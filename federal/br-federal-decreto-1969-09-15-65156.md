@@ -1,5 +1,3 @@
-###DEC-065156-0-000-15-09-1969@@@
-
 DECRETO Nº 65.156 - DE 15 DE SETEMBRO DE 1969.
 
 Anula ato de alienação de barco de pesca praticado por Ismael July Osório e confisca bens.

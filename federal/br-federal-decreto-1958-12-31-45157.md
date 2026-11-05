@@ -1,5 +1,3 @@
-###DEC-045157-0-000-31-12-1958@@@
-
 DECRETO Nº 45.157, DE 31 DE DEZEMBRO DE 1958.
 
 Autoriza emprêsa de mineração Irmãos Thá S.A., Construções Indústrias e Comércio a pesquisar calcário no município Almirante Tamandaré, Estado do Paraná.

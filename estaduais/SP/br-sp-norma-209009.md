@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209009)<br>
-
 # DECRETO N° 68.238, DE 22 DE DEZEMBRO DE 2023
 
 ### _Altera o Decreto n° 57.314, de 8 de setembro de 2011, que institui, sob a coordenação do então denominado Fundo Social de Solidariedade do Estado de São Paulo - FUSSESP, o Programa Escola de Qualificação Profissional._

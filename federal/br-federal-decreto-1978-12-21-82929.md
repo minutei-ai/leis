@@ -1,5 +1,3 @@
-###DEC-082929-0-000-21-12-1978@@@
-
 Decreto nº 82.929, de 21 de dezembro de 1978.
 
 Declara sem efeito o Decreto nº 59.525, de 09 de novembro de 1966, que autorizou a Companhia de Mineração Serra da Moeda a lavrar minério de ferro no Município de Oliveira, Estado de Minas Gerais.

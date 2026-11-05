@@ -1,5 +1,3 @@
-###DEC-049035-0-000-05-10-1960@@@
-
 decreto nº 49.035, de 5 de outubro de 1960.
 
 Autoriza o cidadão brasileiro Gheorghe Popescu a pesquisar areia quartzosa no município de Peruíbe, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-079405-0-000-16-03-1977@@@
-
 DECRETO Nº 79.405, DE 16 DE MARÇO DE 1977.
 
 Cancela a autorização para funcionamento do curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Botucatu, com sede na cidade de Botucatu, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-057691-0-000-02-02-1966@@@
-
 decreto nº 57.691, de 2 de fevereiro de 1966.
 
 Abre, pelo Ministério da Aviação e Obras Públicas, o crédito especial de Cr$71.597.240, para o fim que especifica.

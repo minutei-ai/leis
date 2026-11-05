@@ -1,5 +1,3 @@
-###DEC-077175-0-000-13-02-1976@@@
-
 decreto nº 77.175, de 13 de fevereiro de 1976.
 
 Autoriza o aterro de área em mar e a cessão, sob o regime aforamento, do terreno que menciona, situado no Município de São Francisco do Conde, Estado da Bahia.

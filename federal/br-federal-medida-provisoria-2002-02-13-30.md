@@ -1,5 +1,3 @@
-###MPV-000030-0-000-13-02-2002@@@
-
 MEDIDA PROVISÓRIA No 30, DE 13 DE FEVEREIRO 2002.
 
 Institui o Programa Bolsa-Renda para atendimento a agricultores familiares atingidos pelos efeitos da estiagem nos Municípios em estado de calamidade pública ou situação de emergência, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004242-0-000-21-05-2002@@@
-
 DECRETO Nº 4.242, DE 21 DE MAIO DE 2002
 
 Dispõe sobre a prorrogação estabelecida na Lei nº 10.459, de 15 de maio de 2002, relativa ao prazo da autorização de que tratam o art. 1º da Lei nº 10.309, de 22 de novembro de 2001, e o Decreto nº 3.953, de 5 de outubro de 2001.

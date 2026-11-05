@@ -1,5 +1,3 @@
-###DEL-008074-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.074 – DE 11 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Agricultura o credito especial de Cr$ 944.000,00 (novecentos e quarenta e quatro mil cruzeiros) para os fins que especifica.

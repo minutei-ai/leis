@@ -1,5 +1,3 @@
-###DEC-000591-0-000-06-07-1992@@@
-
 DECRETO N° 591, DE 6 DE JULHO DE 1992
 
 Atos Internacionais. Pacto Internacional sobre Direitos Econômicos, Sociais e Culturais. Promulgação.

@@ -1,5 +1,3 @@
-###DEL-003907-0-000-08-12-1941@@@
-
 DECRETO-LEI N. 3.907 – DE 8 DE DEZEMBRO DE 1941
 
 Modifica a estrutura das carreiras que indica

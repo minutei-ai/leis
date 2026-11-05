@@ -1,7 +1,3 @@
-1
-
-###DEC-001067-0-000-28-02-1994@@@
-
 DECRETO N° 1.067, DE 28 DE FEVEREIRO DE 1994
 
 Dispõe sobre autorização a servidores do Banco Central do Brasil e da Casa da Moeda do Brasil para afastamento do País.

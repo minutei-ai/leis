@@ -1,5 +1,3 @@
-###DEC-045053-0-000-15-12-1958@@@
-
 DECRETO Nº 45.053, DE 15 DE DEZEMBRO DE 1858.
 
 Outorga à Prefeitura Municipal de Paraná concessão para o aproveitamento de energia hidráulica de um desnível existente no Ribeirão Lajes no município de Paraná, Estado de Goiás.

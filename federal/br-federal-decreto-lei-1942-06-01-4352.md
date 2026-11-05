@@ -1,5 +1,3 @@
-###DEL-004352-0-000-01-06-1942@@@
-
 DECRETO-LEI N. 4.352 – DE 1 DE JUNHO DE 1942
 
 Encampa as Companhias Brasileira de Mineração e Siderurgia S.A. e Itabira de Mineração S.A., e dá outras providências

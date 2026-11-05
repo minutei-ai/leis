@@ -1,5 +1,3 @@
-###MPV-000525-0-000-14-02-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 525, DE 14 DE FEVEREIRO DE 2011
 
 Altera a Lei nº 8.745, de 9 de dezembro de 1993, no tocante à contratação de professores.

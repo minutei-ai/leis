@@ -1,5 +1,3 @@
-###DEC-080128-0-000-10-08-1977@@@
-
 DECRETO Nº 80.128, DE 10 DE AGOSTO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-056304-0-000-20-05-1965@@@
-
 decreto nº 56.304, de 20 de maio de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que indica, no Estado da Guanabara, ocupado pelo Laboratório Central de Contrôle de Drogas, Medicamentos e Alimentos.

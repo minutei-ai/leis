@@ -1,5 +1,3 @@
-###DEC-067587-0-000-17-11-1970@@@
-
 DECRETO Nº 67.587, DE 17 DE NOVEMBRO DE 1970.
 
 Altera o Regimento do Departamento Nacional da produção Mineral do Ministério das Minas e Energia.

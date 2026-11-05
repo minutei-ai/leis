@@ -1,5 +1,3 @@
-###DEL-002103-0-000-30-12-1983@@@
-
 # decreto-lei nº 2.103, de 30 de dezembro de 1983
 
 Prorroga prazo previsto no Decreto-lei nº 2.066, de 27 de outubro de 1983, que autoriza remissão de créditos relativos ao imposto sobre a propriedade territorial rural e à contribuição dos que exercem atividades rurais, dispensa da taxa de serviços cadastrais e cancelamento dos débitos de contribuição sindical rural.

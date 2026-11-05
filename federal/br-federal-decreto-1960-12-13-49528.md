@@ -1,5 +1,3 @@
-###DEC-049528-0-000-13-12-1960@@@
-
 DECRETO Nº 49.528, DE 13 DE DEZEMBRO DE 1960.
 
 Concede autorização para o funcionamento do Curso de Administração Pública, da Escola de Administração do Ceará.

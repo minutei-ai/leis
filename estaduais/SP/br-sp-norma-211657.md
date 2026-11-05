@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211657)<br>
-
 # LEI N° 18.286, DE 14 DE OUTUBRO DE 2025
 
 ## (Projeto de lei n° 919/2023, do Deputado Carlos Cezar - PL)

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ee66efb0-f271-4a3a-a112-2fd9cfd7c44d/texto#nowhere)
 
-###DEL-000514-0-000-31-03-1969@@@
-
 DECRETO-LEI Nº 514, DE 31 DE MARÇO DE 1969
 
 Inclui no Plano Nacional de Viação-Setor Rodoviário aprovado pela Lei nº 5.356, de 17 de novembro de 1967, a ligação que menciona.

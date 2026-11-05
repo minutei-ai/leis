@@ -1,5 +1,3 @@
-###DEL-000566-0-000-02-05-1969@@@
-
 DECRETO-LEI Nº 566, DE 2 DE MAIO DE 1969
 
 Autoriza o Poder Executivo a fazer doação a Legião Brasileira de Assistência.

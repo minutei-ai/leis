@@ -56,4 +56,82 @@ Raymundo de Souza Brito
 
 TABELA DE VENCIMENTO
 
-<table style="width: 382.75pt; margin-left: 7.1pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 5.4pt 0in 5.4pt;" width="510" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 297.7pt; border: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>CARGOS</span></p></td><td style="width: 85.05pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>VENCIMENTOS</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Tabelião de Notas</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Subtabelião de Notas</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.500,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Oficial do Registro de Imóveis e Hipotecas</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Suboficial do Registro de Imóveis e Hipotecas</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.500,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Oficial do Registro de Títulos e Documentos e das Pessoas Jurídicas</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Suboficial do Registro de Títulos e Documentos das Pessoas Jurídicas</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.500,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Oficial de Protestos de Títulos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Suboficial de Protestos de Títulos.</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.500,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Oficial do Registro das Pessoas Naturais dos Subdistritos Urbanos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>3.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Sub-oficial do Registro das<span style="mso-spacerun: yes;">&nbsp; </span>Pessoas<span style="mso-spacerun: yes;">&nbsp; </span>Naturais dos subdistritos Urbanos.</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto">&nbsp;</p><p class="Tabela-Texto"><span>1.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Escrivão</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.300,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Subescrivão</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.150,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Avaliador Judicial</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.300,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Contador e Distribuidor</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>2.300,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Depositário Público</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.500,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Porteiro dos Auditórios</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>1.000,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Porteiro do Juri.</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>800,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Oficial de Justiça</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>750,00</span></p></td></tr><tr><td style="width: 297.7pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="397"><p class="Tabela-Texto"><span>Comissário de Vigilância.</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 5.4pt 0in 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>500,00</span></p></td></tr></tbody></table>
+CARGOS
+
+VENCIMENTOS
+
+Tabelião de Notas
+
+3.000,00
+
+Subtabelião de Notas
+
+1.500,00
+
+Oficial do Registro de Imóveis e Hipotecas
+
+3.000,00
+
+Suboficial do Registro de Imóveis e Hipotecas
+
+1.500,00
+
+Oficial do Registro de Títulos e Documentos e das Pessoas Jurídicas
+
+3.000,00
+
+Suboficial do Registro de Títulos e Documentos das Pessoas Jurídicas
+
+1.500,00
+
+Oficial de Protestos de Títulos
+
+3.000,00
+
+Suboficial de Protestos de Títulos.
+
+1.500,00
+
+Oficial do Registro das Pessoas Naturais dos Subdistritos Urbanos
+
+3.000,00
+
+Sub-oficial do Registro das  Pessoas  Naturais dos subdistritos Urbanos.
+
+1.000,00
+
+Escrivão
+
+2.300,00
+
+Subescrivão
+
+1.150,00
+
+Avaliador Judicial
+
+2.300,00
+
+Contador e Distribuidor
+
+2.300,00
+
+Depositário Público
+
+1.500,00
+
+Porteiro dos Auditórios
+
+1.000,00
+
+Porteiro do Juri.
+
+800,00
+
+Oficial de Justiça
+
+750,00
+
+Comissário de Vigilância.
+
+500,00

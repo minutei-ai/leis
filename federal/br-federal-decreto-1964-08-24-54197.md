@@ -1,5 +1,3 @@
-###DEC-054197-0-000-24-08-1964@@@
-
 decreto nº 54.197, de 24 de agôsto de 1964.
 
 Autoriza a cidadã brasileira Rosana Rodrigues de Siqueira a pesquisar caulim e quartzito no município de Santana de Parnaíba, Estado e São Paulo.

@@ -1,5 +1,3 @@
-###MPV-002146-0-001-04-05-2001@@@
-
 MEDIDA provisória Nº 2.146‑1, DE 4 DE MAIO DE 2001
 
 Cria as Agências de Desenvolvimento da Amazônia a do Nordeste, extingue a Superintendência do Desenvolvimento da Amazônia ‑ SUDAM e a Superintendência do Desenvolvimento do Nordeste ‑SUDENE‑ a de outras providências.

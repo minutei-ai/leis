@@ -1,5 +1,3 @@
-###DEC-062177-0-000-25-01-1968@@@
-
 DECRETO Nº 62.177, DE 25 DE JANEIRO DE 1968.
 
 Retifica o Decreto nº 60.791, de 1 de junho de 1967.

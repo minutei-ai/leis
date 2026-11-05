@@ -1,5 +1,3 @@
-###DEC-074224-0-000-26-06-1974@@@
-
 DECRETO Nº 74.224, DE 26 DE JUNHO DE 1974.
 
 Autoriza estrangeiros a adquirirem o domínio útil dos terrenos que menciona.

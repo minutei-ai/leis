@@ -1,5 +1,3 @@
-###DEL-005470-0-000-07-05-1943@@@
-
 DECRETO‑lei N. 5.470 – DE 7 DE MAIO DE 1943
 
 Abre ao Ministério da Fazenda o crédito  especial  de Cr$ 286.607,80 para obras de reparo e conservação no edifício da Alfândega da cidade do Rio Grande

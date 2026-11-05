@@ -1,5 +1,3 @@
-###DEC-079521-0-000-13-04-1977@@@
-
 Decreto nº 79.521, de 13 de abril de 1977.
 
 Concede á Itabira Agro-Industrial S.A. o direito de lavrar calcário e argila no Município de Capão Bonito, Estado de São Paulo.

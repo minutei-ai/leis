@@ -1,5 +1,3 @@
-###DEC-053384-0-000-31-12-1963@@@
-
 DECRETO Nº 53.384, de 31 de dezembro de 1963.
 
 Altera a Ordenança Geral para o Serviço da Armada.

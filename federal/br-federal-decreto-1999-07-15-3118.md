@@ -1,5 +1,3 @@
-###DEC-003118-0-000-15-07-1999@@@
-
 DECRETO Nº 3.118, DE 15 DE JULHO DE 1999.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

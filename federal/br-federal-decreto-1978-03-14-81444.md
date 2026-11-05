@@ -1,5 +1,3 @@
-###DEC-081444-0-000-14-03-1978@@@
-
 Decreto nº 81 444, de 14 de março de 1978.
 
 Concede à Mineração Santa Lúcia Ltda. o direito de lavrar diatomita no Município de Mucugê. Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-009194-0-000-23-04-1946@@@
-
 DECRETO-LEI N. 9.194 – DE 23 DE ABRIL DE 1946
 
 Revoga o Decreto-lei nº 8.949, de 26 Janeiro de 1946, e dá outras providências.

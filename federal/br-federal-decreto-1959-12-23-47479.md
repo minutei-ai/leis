@@ -1,5 +1,3 @@
-###DEC-047479-0-000-23-12-1959@@@
-
 DECRETO Nº 47.479, DE 23 DE DEZEMBRO DE 1959.
 
 Autoriza a liberação do crédito no Plano de Economia a fim de efetuar depósito para dar cumprimento à ação de desapropriação.
@@ -19,8 +17,6 @@ Rio de Janeiro, em 23 de dezembro de 1959; 138º da Independência e 71º da Rep
 JUSCELINO KUBITSCHEK
 
 Jorge do Paço Mattoso Maia.
-
-###DEC-047479-0-000-23-12-1959@@@RET01+++
 
 DECRETO Nº 47.479, de 23 DE dezembro DE 1959.
 

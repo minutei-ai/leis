@@ -1,5 +1,3 @@
-###DEC-048269-0-000-03-06-1960@@@
-
 Decreto nº 48.269, de 3 de junho de 1960.
 
 Altera o Quadro do Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.
@@ -51,8 +49,6 @@ Brasília, em 3 de junho de 1960, 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 João Baptista Ramos
-
-###DEC-048269-0-000-03-06-1960@@@RET01+++
 
 DECRETO Nº 48.269, DE 3 DE JUNHO DE 1960.
 

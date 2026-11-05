@@ -1,5 +1,3 @@
-###DEL-000096-0-000-22-12-1937@@@
-
 DECRETO-LEI N. 96 – DE 22 DE DEZEMBRO DE 1937
 
 Dispõe sôbre a administração do Distrito Federal

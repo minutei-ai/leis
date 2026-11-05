@@ -1,5 +1,3 @@
-###DEL-008099-0-000-16-10-1945@@@
-
 DECRETO-LEI N. 8.099 – DE 16 DE OUTUBRO DE 1945
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito especial de Cr$ 3.525,00, para liquidação de compromissos assumidos nos exercícios de 1936 e 1937.

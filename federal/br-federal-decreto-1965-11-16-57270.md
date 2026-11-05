@@ -1,5 +1,3 @@
-###DEC-057270-0-000-16-11-1965@@@
-
 DECRETO Nº 57.270, DE 16 DE NOVEMBRO DE 1965.
 
 Autoriza a Carbonífera Criciúma Ltda., a lavrar carvão mineral, no município de Criciúma, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-002433-0-000-19-12-1997@@@
-
 DECRETO Nº 2.433, DE 19 DE DEZEMBRO DE 1997
 
 Prorroga o prazo estabelecido no art. 3º do Decreto nº 2.321, de 8 de setembro de 1997.

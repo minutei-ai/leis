@@ -1,5 +1,3 @@
-###DEL-000265-0-000-25-02-1967@@@
-
 DECRETO-LEI Nº 265, DE 25 DE fEvEREiRo DE 1967
 
 Cria a Cédula Industrial Pignoratícia, altera disposições sôbre a Duplicata e dá outras providências.

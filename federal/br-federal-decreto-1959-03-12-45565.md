@@ -1,5 +1,3 @@
-###DEC-045565-0-000-12-03-1959@@@
-
 DECRETO Nº 45.565, DE 12 DE março DE 1959.
 
 Concede abono provisório aos servidores da Administração do Pôrto do Rio de Janeiro.

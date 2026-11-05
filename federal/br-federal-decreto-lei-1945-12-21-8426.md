@@ -1,5 +1,3 @@
-###DEL-008426-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.426 – DE 21 DE DEZEMBRO DE 1945
 
 Abre ao Instituto Brasileiro de Geografia e Estatística o crédito especial de Cr$ 6.000.000,00, para pagamento de auxilio.

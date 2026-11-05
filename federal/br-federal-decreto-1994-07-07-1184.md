@@ -1,7 +1,3 @@
-1
-
-###DEC-001184-0-000-07-07-1994@@@
-
 DECRETO N° 1.184 DE 7 DE JULHO DE 1994
 
 Dispõe sobre a transferência de Cargos em Comissão que menciona.

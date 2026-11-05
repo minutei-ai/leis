@@ -1,5 +1,3 @@
-###DEL-009093-0-000-26-03-1946@@@
-
 DECRETO-LEI N. 9.093 – DE 26 DE MARÇO DE 1946
 
 Altera, sem aumento de despesa o Orçamento Geral da República.

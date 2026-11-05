@@ -1,5 +1,3 @@
-###DEC-052370-0-000-19-08-1963@@@
-
 decreto nº 52.370, de 19 de agôsto de 1963.
 
 Revoga o Decreto nº 52.041, de 22 de maio de 1963, restabelecendo a plena vigência do artigo 68 do Regulamento do Pessoal do Ministério Relações Exteriores.

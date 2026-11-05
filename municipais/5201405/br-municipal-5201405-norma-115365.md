@@ -12,5 +12,6 @@ Art. 2° - Os órgãos ou entidades de trânsito e transporte durante o mês de 
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 20 dias do mês de Setembro de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

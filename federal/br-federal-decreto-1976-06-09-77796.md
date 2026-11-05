@@ -1,5 +1,3 @@
-###DEC-077796-0-000-09-06-1976@@@
-
 DECRETO Nº 77.796, DE 9 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Serviço Social da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

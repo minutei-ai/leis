@@ -1,6 +1,10 @@
 > **LEI Nº 3.668, DE 18 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a criação do programa emergencial de testagem para o Covid - 19 em modalidade de Drive Thru.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a criação do programa emergencial de testagem para o Covid - 19 em modalidade de Drive Thru.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

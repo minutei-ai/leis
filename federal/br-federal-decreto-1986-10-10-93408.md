@@ -1,5 +1,3 @@
-###DEC-093408-0-000-10-10-1986@@@
-
 DECRETO Nº 93.408, DE 10 DE OUTUBRO DE 1986
 
 Dispõe sobre a instituição de creches e demais serviços de assistência pré-escolar, para os filhos de servidores dos órgãos e entidades da Administração Federal, e dá outras providências.

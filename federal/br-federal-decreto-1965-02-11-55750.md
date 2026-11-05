@@ -1,5 +1,3 @@
-###DEC-055750-0-000-11-02-1965@@@
-
 Decreto nº 55.750, de 11 de fevereiro de 1965.
 
 Promulga o Tratado de Extradição com os Estados Unidos da América e respectivo Protocolo Adicional.

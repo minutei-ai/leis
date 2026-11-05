@@ -1,5 +1,3 @@
-###DEC-089130-0-000-07-12-1983@@@
-
 Decreto nº 89.130, de 07 de dezembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necesssária à implantação da Estação de Banco de Capacitores, denominada C.B.A, ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

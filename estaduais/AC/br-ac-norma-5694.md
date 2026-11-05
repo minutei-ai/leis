@@ -1,6 +1,10 @@
 > **LEI Nº 4.142, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Assegura às crianças e aos adolescentes que, comprovadamente, por meio de laudo médico ou pericial, tenham sido vítimas de abuso e exploração sexual, a prioridade no atendimento psicológico na Rede Pública de Saúde do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Assegura às crianças e aos adolescentes que, comprovadamente, por meio de laudo médico ou pericial, tenham sido vítimas de abuso e exploração sexual, a prioridade no atendimento psicológico na Rede Pública de Saúde do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

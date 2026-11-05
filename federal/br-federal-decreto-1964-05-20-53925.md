@@ -1,5 +1,3 @@
-###DEC-053925-0-000-20-05-1964@@@
-
 decreto nº 53.925, de 20 de maio de 1964.
 
 Prorroga, até 31 de maio de 1964, o prazo estabelecido no artigo 5º do Decreto nº 53.787, de 20 de março de 1964.

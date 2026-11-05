@@ -1,7 +1,3 @@
-1
-
-###DEC-001078-0-000-04-03-1994@@@
-
 DECRETO N° 1.078, DE 4 DE MARÇO DE 1994
 
 Dispõe sobre a execução do Décimo Oitavo Protocolo Adicional ao Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 22 de junho de 1993.

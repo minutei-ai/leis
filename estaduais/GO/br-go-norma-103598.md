@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.905 / 2020
 
 LEI Nº 20.905, DE 23 DE NOVEMBRO DE 2020
@@ -26,8 +32,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 23 de novembro de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -35,7 +39,4 @@ Governador do Estado
 TALLES BARRETO
 
 Deputado Estadual
-
-Este texto não substitui o publicado no Suplemento do D.O. de 23-11-2020
-
 ..

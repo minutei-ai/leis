@@ -1,5 +1,3 @@
-###DEC-059338-0-000-30-09-1966@@@
-
 DECRETO Nº 59.338, DE 30 DE SETEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Nelson Deusdará Filho a pesquisar barita no Município de Taquaraçu de Minas, Estado de Minas Gerais.

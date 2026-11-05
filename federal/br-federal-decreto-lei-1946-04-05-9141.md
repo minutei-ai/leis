@@ -1,5 +1,3 @@
-###DEL-009141-0-000-05-04-1946@@@
-
 DECRETO-LEI N. 9.141 – DE 5 DE ABRIL DE 1946
 
 Cria mais um lugar de membro do  Conselho Superior das Caixas Econômicas Federais.

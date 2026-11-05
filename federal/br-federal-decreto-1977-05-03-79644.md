@@ -1,5 +1,3 @@
-###DEC-079644-0-000-03-05-1977@@@
-
 DECRETO Nº 79.644, DE 3 DE MAIO DE 1977.
 
 Outorga concessão à Rede Gaúcha-Zero Hora de Comunicação Ltda., para estabelecer uma estação de radiodifusão de sons e imagens (televisão), na cidade de Florianópolis, Estado de Santa Catarina.

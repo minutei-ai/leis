@@ -1,7 +1,3 @@
-1
-
-###DEC-001919-0-000-29-05-1996@@@
-
 DECRETO Nº 1.919, DE 29 DE MAIO DE 1996.
 
 Aprova o Estatuto e o Quadro Demonstrativo de Cargos em Comissão e Funções Gratificadas da Fundação Jorge Duprat Figueiredo, de Segurança e Medicina do Trabalho - FUNDACENTRO, e dá outras providências.

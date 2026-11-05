@@ -1,5 +1,3 @@
-###DEC-049505-0-000-12-12-1960@@@
-
 DECRETO Nº 49.505, DE 12 DE DEZEMBRO DE 1960.
 
 Dá nova redação ao art. 180 do Regulamento do Serviço de Saúde da Aeronáutica.

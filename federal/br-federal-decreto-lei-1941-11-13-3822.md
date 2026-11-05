@@ -1,5 +1,3 @@
-###DEL-003822-0-000-13-11-1941@@@
-
 DECRETO-LEI N. 3.822 – DE 13 DE NOVEMBRO DE 1941
 
 Abre, pelo Departamento  de imprensa e Propaganda, credito suplementa  de 900:000$0, à verba que especifica .

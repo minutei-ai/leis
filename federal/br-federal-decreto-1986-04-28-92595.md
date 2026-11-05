@@ -1,5 +1,3 @@
-###DEC-092595-0-000-28-04-1986@@@
-
 DECRETO Nº 92.595, DE 28 DE ABRIL DE 1986
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitoras necessárias à execução do Programa ''APROVEITAMENTOS HIDROAGRÍCOLAS DO PROJETO JOGUARIBE - APODI'', na região da Chapada do Apodi, Estado do Ceará, e dá outras providências.

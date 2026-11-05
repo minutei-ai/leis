@@ -1,5 +1,3 @@
-###DEC-079815-0-000-15-06-1977@@@
-
 DECRETO Nº 79.815, de 15 de junho de 1977
 
 Acrescenta parágrafo ao artigo 36 do Regulamento aprovado pelo Decreto nº 64.203, de 17 de março de 1969.

@@ -1,5 +1,3 @@
-###DEC-002842-0-000-13-11-1998@@@
-
 DECRETO Nº 2.842, DE 13 DE NOVEMBRO DE 1998.
 
 Regulamenta o art. 14, § 3º, inciso III, da Lei nº 9.650, de 27 de maio de 1998.

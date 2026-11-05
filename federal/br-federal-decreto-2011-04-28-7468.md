@@ -1,5 +1,3 @@
-###DEC-007468-0-000-28-04-2011-PUB-01@@@
-
 DECRETO Nº 7.468, DE 28 DE ABRIL DE 2011
 
 Mantém a validade dos restos a pagar não processados inscritos nos exercícios financeiros de 2007, 2008 e 2009 que especifica, altera o parágrafo único do art. 68 do Decreto nº 93.872, de 23 de dezembro de 1986, e dá outras providências.

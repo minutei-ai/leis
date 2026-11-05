@@ -1,5 +1,3 @@
-###MPV-001751-0-063-11-03-1999@@@
-
 MEDIDA PROVISória Nº 1.751-63, DE 11 DE MARÇO DE 1999.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal e de Controle Interno do Poder Executivo e dá outras providências.

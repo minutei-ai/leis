@@ -1,5 +1,3 @@
-###DEC-054739-0-000-30-10-1964@@@
-
 decreto nº 54.739, de 30 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Fernando Matos de Souza a pesquisar água mineral, no município de Manaus, Estado do Amazonas.

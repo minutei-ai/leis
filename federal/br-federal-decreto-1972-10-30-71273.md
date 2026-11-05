@@ -1,5 +1,3 @@
-###DEC-071273-0-000-30-10-1972@@@
-
 DECRETO Nº 71.273 - DE 30 DE OUTUBRO DE 1972.
 
 Cria o Programa Especial de Vias Expressas - PROGRES.

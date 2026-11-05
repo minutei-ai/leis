@@ -1,7 +1,3 @@
-1
-
-###DEC-001141-0-000-19-05-1994@@@
-
 DECRETO N° 1.141, DE 19 DE MAIO DE 1994
 
 Dispõe sobre as ações de proteção ambiental, saúde e apoio às atividades produtivas para as comunidades indígenas.

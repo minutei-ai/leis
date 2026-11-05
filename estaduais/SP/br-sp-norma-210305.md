@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210305)<br>
-
 # DECRETO N° 69.121, DE 09 DE DEZEMBRO DE 2024
 
 ### _Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2024 e dá providências correlatas._
@@ -8,12 +6,14 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Órgãos Abrangidos
 
 **Artigo 1° -** Os Órgãos da Administração Direta, Autarquias, inclusive Universidades Estaduais, Fundações e Empresas Dependentes disciplinarão suas atividades orçamentária e financeira de encerramento em conformidade com as normas fixadas neste decreto.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Encerramento das Execuções Orçamentária e Financeira
 
 **Artigo 2° -** Os pedidos de confirmação do excesso de arrecadação de 2024 ou superávit financeiro de receitas próprias, vinculadas ou de operações de crédito apurado no balanço patrimonial de 2023 deverão ser formalizados até 11 de dezembro de 2024, mediante a utilização do Sistema Integrado da Receita - SIR, disponibilizado no endereço eletrônico https://portal.fazenda.sp.gov.br/servicos/integrado-receita/.
@@ -38,7 +38,8 @@ Do Encerramento das Execuções Orçamentária e Financeira
 
 **Artigo 8° -** Os lançamentos da receita e os registros da despesa orçamentária devem ser encerrados até 10 de janeiro de 2025, para a elaboração dos demonstrativos da Lei de Responsabilidade Fiscal, a serem publicados até 30 de janeiro de 2025.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos Restos a Pagar
 
 **Artigo 9° -** O registro dos restos a pagar far-se-ão por credor e empenho correspondente.
@@ -63,7 +64,8 @@ Dos Restos a Pagar
 
 **Artigo 12 -** Os restos a pagar não processados, inscritos ou revigorados, que superarem a disponibilidade financeira apurada na elaboração do Demonstrativo dos Restos a Pagar do Relatório de Gestão Fiscal, da Lei de Responsabilidade Fiscal, serão cancelados no SIAFEM/SP.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Atualizações Patrimoniais e Conciliações
 
 **Artigo 13 -** Para efeitos do levantamento dos Balanços pelas Autarquias, inclusive Universidades Estaduais, Fundações e Empresas Dependentes, e consolidação do Balanço Geral do Estado, a conciliação e a escrituração dos ajustes patrimoniais no SIAFEM/SP deverão ser obrigatoriamente concluídas nos seguintes prazos:
@@ -80,7 +82,8 @@ a) o registro dos ajustes contábeis e baixas nos saldos relativos a estoque, al
 
 b) o registro dos ajustes contábeis de atualizações nos saldos relativos aos demais ativos e passivos registrados no SIAFEM/SP, com base em documentação hábil e controles da data base 31 de dezembro de 2024.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das Disposições Gerais
 
 **Artigo 14 -** O processo de apuração do superávit financeiro, relativo às receitas vinculadas, será gerado automaticamente no SIAFEM/SP, pela Secretaria da Fazenda e Planejamento, com base na apuração de informações financeiras e orçamentárias registradas no SIAFEM/SP até 31 de dezembro de 2024.

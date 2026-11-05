@@ -1,5 +1,3 @@
-###DEC-097558-0-000-07-03-1989@@@
-
 DECRETO N° 97.558, DE 7 DE MARCO DE 1989
 
 Altera o art. 6° do Decreto n° 83.351, de 1° de junho de 1983, que dispõe sobre a composição do Conselho Nacional do Meio Ambiente - CONAMA.

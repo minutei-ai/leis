@@ -42,56 +42,68 @@ Art. 6º A jornada de trabalho dos servidores lotados no Agrocolégio Estadual M
 
 Parágrafo único. O disposto no _caput_ deste artigo será aplicado aos servidores que atuarem nas funções de magistério ou administrativas, sejam eles dos quadros próprios da SEDUC, ocupantes dos cargos de Professor ou de Agente Administrativo Educacional, ou contratados temporariamente, bem como efetivos de outros órgãos ou entes no exercício das referidas funções.
 
-Seção III<br>
-Das funções comissionadas e das gratificações<br>
+Seção III
+
+Das funções comissionadas e das gratificações
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Das funções comissionadas~~
 
-Art. 7º Ficam criadas as seguintes Funções Comissionadas Educacionais – FCEs e Gratificações Educacionais – GRATIEDUs para o Agrocolégio Estadual Maguito Vilela:<br>
+Art. 7º Ficam criadas as seguintes Funções Comissionadas Educacionais – FCEs e Gratificações Educacionais – GRATIEDUs para o Agrocolégio Estadual Maguito Vilela:
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 7º Fica criada a Função Comissionada do Agrocolégio Estadual Maguito Vilela – FCEAGRO, integrante das Funções Comissionadas Educacionais previstas no art. 99, no art. 100 e na alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e sua concessão será de acordo com as funções indicadas no art. 8º e com os quantitativos e valores mensais especificados no Anexo I, ambos desta Lei.~~
 
-I – a Função Comissionada de Gestor Escolar do Agrocolégio Estadual Maguito Vilela – FCEAGRO– GESTOR, integrante das Funções Comissionadas Educacionais previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e sua concessão será de acordo com a função indicada no inciso I do art. 8º desta Lei e no valor mensal especificado no Anexo I também desta Lei; e<br>
+I – a Função Comissionada de Gestor Escolar do Agrocolégio Estadual Maguito Vilela – FCEAGRO– GESTOR, integrante das Funções Comissionadas Educacionais previstas nos arts. 99 e 100 e na alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e sua concessão será de acordo com a função indicada no inciso I do art. 8º desta Lei e no valor mensal especificado no Anexo I também desta Lei; e
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-II – a Gratificação de Secretário do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-SEC, a Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-CAF, a Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-COOP e a Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-ACORD, integrantes das Gratificações Educacionais previstas no Capítulo VII– A e no Anexo IX da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e sua concessão será de acordo com as funções indicadas nos incisos II a V do art. 8º desta Lei e nos valores mensais especificados no Anexo I também desta Lei.<br>
+II – a Gratificação de Secretário do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-SEC, a Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-CAF, a Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-COOP e a Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-ACORD, integrantes das Gratificações Educacionais previstas no Capítulo VII– A e no Anexo IX da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e sua concessão será de acordo com as funções indicadas nos incisos II a V do art. 8º desta Lei e nos valores mensais especificados no Anexo I também desta Lei.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-Art. 8º As FCEs e as GRATIEDUs do Agrocolégio Estadual Maguito Vilela serão concedidas conforme as funções e os critérios a seguir:<br>
+Art. 8º As FCEs e as GRATIEDUs do Agrocolégio Estadual Maguito Vilela serão concedidas conforme as funções e os critérios a seguir:
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 8º As FCEAGROs serão concedidas conforme as funções e os critérios a seguir:~~
 
 I – Função Comissionada de Gestor Escolar do Agrocolégio Estadual Maguito Vilela – FCEAGRO– GESTOR: será concedida ao Professor em razão do efetivo exercício na função de Gestor Escolar;
 
-II – Gratificação de Secretário Escolar do Agrocolégio Estadual Maguito Vilela – GRATEAGRO– SEC: será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar;<br>
+II – Gratificação de Secretário Escolar do Agrocolégio Estadual Maguito Vilela – GRATEAGRO– SEC: será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar;
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~II – Função Comissionada de Secretário Escolar do Agrocolégio Estadual Maguito Vilela – FCEAGRO– SEC: será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar;~~
 
-III – Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-CAF: será concedida ao servidor em razão do efetivo exercício na função de Coordenador Administrativo Financeiro;<br>
+III – Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-CAF: será concedida ao servidor em razão do efetivo exercício na função de Coordenador Administrativo Financeiro;
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~III – Função Comissionada de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela – FCEAGRO-CAF: será concedida ao servidor em razão do efetivo exercício na função de Coordenador Administrativo Financeiro;~~
 
-IV – Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-COOP: será concedida ao servidor em razão do efetivo exercício na função de Coordenador de Pernoite; e<br>
+IV – Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-COOP: será concedida ao servidor em razão do efetivo exercício na função de Coordenador de Pernoite; e
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~IV – Função Comissionada de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela – FCEAGRO– COOP: será concedida ao servidor em razão do efetivo exercício na função de Coordenador de Pernoite; e~~
 
-V – Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-ACORD: será concedida ao servidor em razão do efetivo exercício na função de Auxiliar de Coordenação.<br>
+V – Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela – GRATEAGRO-ACORD: será concedida ao servidor em razão do efetivo exercício na função de Auxiliar de Coordenação.
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~V – Função Comissionada de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela – FCEAGRO– ACORD: será concedida ao servidor em razão do efetivo exercício na função de Auxiliar de Coordenação.~~
 
-Parágrafo único. As funções comissionadas e as gratificações de que trata este artigo exigirão o cumprimento da carga horária de quarenta horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.<br>
+Parágrafo único. As funções comissionadas e as gratificações de que trata este artigo exigirão o cumprimento da carga horária de quarenta horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Parágrafo único. As funções comissionadas de que trata este artigo exigirão o cumprimento da carga horária de 40 (quarenta) horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.~~
 
-Art. 9º A GRATEAGRO-COOP será destinada ao servidor que zelar pelos estudantes matriculados no Agrocolégio Estadual Maguito Vilela, que deverá:<br>
+Art. 9º A GRATEAGRO-COOP será destinada ao servidor que zelar pelos estudantes matriculados no Agrocolégio Estadual Maguito Vilela, que deverá:
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 9º A FCEAGRO-COOP será destinada ao servidor que zelar pelos estudantes matriculados no Agrocolégio Estadual Maguito Vilela, que deverá:~~
@@ -102,34 +114,42 @@ II – fiscalizar os alojamentos dos estudantes após direcioná-los aos seus re
 
 III – fiscalizar as atividades produtivas dos estudantes antes do café da manhã.
 
-Art. 10. A GRATEAGRO-ACORD será destinada ao servidor que acompanhar os estudantes matriculados no Agrocolégio Estadual Maguito Vilela durante todas as rotinas e as atividades práticas, pedagógicas e de lazer.<br>
+Art. 10. A GRATEAGRO-ACORD será destinada ao servidor que acompanhar os estudantes matriculados no Agrocolégio Estadual Maguito Vilela durante todas as rotinas e as atividades práticas, pedagógicas e de lazer.
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 ~~Art. 10. A FCEAGRO-ACORD será destinada ao servidor que acompanhar os estudantes matriculados no Agrocolégio Estadual Maguito Vilela durante todas as rotinas e as atividades práticas e pedagógicas, bem como nas atividades de lazer.~~
 
-Art. 10-A. Caso a atribuição e a responsabilidade diferenciada de que tratam os incisos II a V do art. 8º desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a FCE correspondente.<br>
+Art. 10-A. Caso a atribuição e a responsabilidade diferenciada de que tratam os incisos II a V do art. 8º desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a FCE correspondente.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 1º As funções comissionadas de que trata este artigo são as previstas na Tabela 12 da alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos das Gratificações Educacionais do Agrocolégio Estadual Maguito Vilela.<br>
+§ 1º As funções comissionadas de que trata este artigo são as previstas na Tabela 12 da alínea “c” do Anexo III da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos das Gratificações Educacionais do Agrocolégio Estadual Maguito Vilela.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 2º O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.<br>
+§ 2º O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-Art. 10-B. Decreto regulamentador estabelecerá o valor global que abrangerá as FCEs e as GRATIEDUs do Agrocolégio Estadual Maguito Vilela.<br>
+Art. 10-B. Decreto regulamentador estabelecerá o valor global que abrangerá as FCEs e as GRATIEDUs do Agrocolégio Estadual Maguito Vilela.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 1º Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.<br>
+§ 1º Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
-§ 2º A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a modificação ou a designação com data retroativa.<br>
+§ 2º A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a modificação ou a designação com data retroativa.
+
 \- [Acrescido pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 CAPÍTULO III
 
 DO AUXÍLIO-LOCOMOÇÃO AO GESTOR ESCOLAR
 
-Art. 11. Fica o Chefe do Poder Executivo autorizado a instituir o Auxílio-Locomoção ao Gestor Escolar, com natureza indenizatória, ao servidor ocupante da função de Gestor Escolar em atividade na SEDUC, no valor mensal de R$ 500,00 (quinhentos reais).<br>
+Art. 11. Fica o Chefe do Poder Executivo autorizado a instituir o Auxílio-Locomoção ao Gestor Escolar, com natureza indenizatória, ao servidor ocupante da função de Gestor Escolar em atividade na SEDUC, no valor mensal de R$ 500,00 (quinhentos reais).
+
 \- [Vide Decreto nº 10.639, de 6-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110425/decreto-10639) (Institui Auxílio-Locomoção).
 
 § 1º Poderão ser beneficiários do auxílio tratado no _caput_ deste artigo os servidores com vínculo efetivo no desempenho da função de Gestor Escolar.
@@ -140,7 +160,8 @@ Art. 11. Fica o Chefe do Poder Executivo autorizado a instituir o Auxílio-Locom
 
 § 4º A ampliação do benefício para os comandantes de Colégios da Polícia Militar do Estado de Goiás poderá se dar conforme dispuser o decreto regulamentar.
 
-~~§ 5º Fica vedado o pagamento do Auxílio-Locomoção ao Gestor Escolar ao pessoal lotado em escola conveniada.~~<br>
+~~§ 5º Fica vedado o pagamento do Auxílio-Locomoção ao Gestor Escolar ao pessoal lotado em escola conveniada.~~
+
 \- [Revogado pela Lei nº 23.559, de 8-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111041), art. 2º.
 
 § 6º O auxílio tratado pelo  _caput_ deste artigo não é incorporável, em qualquer hipótese, à remuneração mensal do servidor e caracteriza-se como rendimento não tributável, sem incidência de contribuição previdenciária e não será computado para efeito do 13º salário, bem como para a base de cálculo de margem consignável.
@@ -163,7 +184,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO I<br>
+ANEXO I
+
 \- [Redação dada pela Lei nº 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174).
 
 | TABELA 1 – FUNÇÃO COMISSIONADA EDUCACIONAL DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA |

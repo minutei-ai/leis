@@ -1,5 +1,3 @@
-###DEC-086128-0-000-17-06-1981@@@
-
 Decreto nº 86.128, de 17 de junho de 1981.
 
 Atribui competência ao Ministro da Educação e Cultura para autorizar afastamento do País de pessoal docente.

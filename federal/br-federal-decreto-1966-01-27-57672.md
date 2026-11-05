@@ -1,5 +1,3 @@
-###DEC-057672-0-000-27-01-1966@@@
-
 decreto nº 57.672, de 27 de janeiro de 1966.
 
 Concede á sociedade anônima Lancashire General Investiment Company Limited autorização para continuar a funcionar na República.

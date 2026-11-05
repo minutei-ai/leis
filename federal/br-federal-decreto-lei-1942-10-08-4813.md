@@ -1,5 +1,3 @@
-###DEL-004813-0-000-08-10-1942@@@
-
 DECRETO-LEI N. 4.813 – DE 8 DE OUTUBRO DE 1942
 
 Reorganiza o Instituto Nacional do Pinho

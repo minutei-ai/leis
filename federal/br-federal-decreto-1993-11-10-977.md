@@ -1,7 +1,3 @@
-1
-
-###DEC-000977-0-000-10-11-1993@@@
-
 DECRETO N° 977, DE 10 DE NOVEMBRO DE 1993
 
 Dispõe sobre a assistência Pré-Escolar destinada aos dependentes dos servidores públicos da Administração Pública Federal direta, autárquica e fundacional.

@@ -1,5 +1,3 @@
-###DEC-060018-0-000-10-01-1967@@@
-
 DECRETO Nº 60.018, DE 10 DE JANEIRO DE 1967.
 
 Autoriza Mineração Mascote Ltda. a pesquisar amianto no Município de Itororó, Estado da Bahia.

@@ -58,8 +58,6 @@
 
 **§ 2°** A aquisição onerosa de bens imóveis pelo Estado depende de autorização legal específica, exceto quando decorrente de desapropriação, usucapião, dação em pagamento, adjudicação e acordos em processos judiciais. (Redação dada pela Emenda Constitucional nº 72, de 01/11/2023)
 
-<br>
-
 **§ 3°** A outorga de uso gratuito ou onerosa de bens móveis e imóveis do Estado, por prazo determinado ou indeterminado, será disciplinada por lei. (Incluído pela Emenda Constitucional nº 72, de 01/11/2023)
 
 **CAPÍTULO II**
@@ -530,9 +528,8 @@
 
 **§ 7º** A incorporação de Deputados Estaduais às Forças Armadas, em tempo de guerra, ainda que militares, dependerá de prévia licença da Assembleia Legislativa, que deliberará em votação secreta e pela maioria absoluta de seus membros.
 
-<br>
+~~**§ 8º** As imunidades dos Deputados Estaduais subsistirão durante o estado de sítio, só podendo ser suspensas quando o forem as dos Deputados Federais e Senadores, conforme previsto na Constituição Federal.
 
-~~**§ 8º** As imunidades dos Deputados Estaduais subsistirão durante o estado de sítio, só podendo ser suspensas quando o forem as dos Deputados Federais e Senadores, conforme previsto na Constituição Federal.<br>
 ~~
 
 **§ 8º** As imunidades dos Deputados Estaduais subsistirão durante o estado de sítio, só podendo ser suspensas mediante o voto de dois terços dos membros da Casa, nos casos de atos praticados fora do recinto da Assembléia Legislativa, que sejam incompatíveis com a execução da medida. (Redação dada pela Emenda Constitucional nº 28, de 30/04/2002)
@@ -707,7 +704,7 @@
 
 **~~XII -~~** ~~planos e programas estaduais, regionais e setoriais de desenvolvimento;~~
 
-**XII -** planos e programas estaduais, regionais e setoriais de desenvolvimento, incluindo planejamento estratégico de desenvolvimento de longo prazo; (Redação dada pela Emenda Constitucional nº 70, de 29/06/2023)<br>
+**XII -** planos e programas estaduais, regionais e setoriais de desenvolvimento, incluindo planejamento estratégico de desenvolvimento de longo prazo; (Redação dada pela Emenda Constitucional nº 70, de 29/06/2023)
 
 **XIII -** transferência temporária da sede do Governo;
 
@@ -720,8 +717,6 @@
 **XVII -** convênios, acordos ou contratos firmados com os Governos Federal, Estadual e Municipal, com entidades de direito público ou privado, ou com particulares, de que resultem para o Estado quaisquer encargos não estabelecidos na Lei Orçamentária Estadual;
 
 **XVIII -** ratificação de convênios que, por motivo de urgência ou interesse público relevante, forem efetivados sem a prévia autorização, desde que encaminhados à Assembleia Legislativa nos dez dias subsequentes à sua celebração.
-
-<br>
 
 **~~Art. 46.~~** ~~A convocação de que trata o art. 44, incisos XV e XVI, deverá ser encaminhada, por escrito, através da Mesa Diretora da Assembléia Legislativa.~~ 
 
@@ -1102,8 +1097,6 @@
 **~~Art. 69.~~** ~~Substituirá o Governador do Estado, no caso de impedimento, ausência e suceder-lhe-á, no de vaga, o Vice-Governador do Estado.~~
 
 **Art. 69.** Substituirá o Governador do Estado, imediatamente, no caso de impedimento, licença, ausência e suceder-lhe-á, no de vaga, o Vice-Governador do Estado. (Redação dada pela Emenda Constitucional nº 12, de 30/04/1996)
-
-<br>
 
 **~~§ 1º -~~** ~~Somente quando a ausência do Estado depender de Licença da Assembléia Legislativa, ou quando atender a motivos particulares, será necessário a transmissão de cargo pelo Governador ao Vice-Governador; ou, por este, quando no exercício de Governador, aos que lhe seguirem na sucessão, nos termos do Art. 71 da Constituição Estadual.~~ ~~(Incluído pela Emenda Constitucional nº 02, de 20/09/1991)~~
 
@@ -1757,9 +1750,9 @@
 
 **~~Art. 132.~~** ~~A Polícia Civil, Polícia Militar e o Corpo de Bombeiros Militar do Estado subordinam-se diretamente ao Governador do Estado.~~
 
-**~~Art. 132~~** ~~A Polícia Civil, a Polícia M~~~~ilitar e o Corpo de Bombeiros Militar do Estado são órgãos executivos, de atuação integrada, subordinados ao Governador do Estado, sob a orientação operacional da Secretaria de Estado responsável pela Segurança Pública. (Redação dada pela Emenda Constitucional nº 31, de 23/12/2002)~~
+**~~Art. 132~~** ~~A Polícia Civil, a Polícia Militar e o Corpo de Bombeiros Militar do Estado são órgãos executivos, de atuação integrada, subordinados ao Governador do Estado, sob a orientação operacional da Secretaria de Estado responsável pela Segurança Pública. (Redação dada pela Emenda Constitucional nº 31, de 23/12/2002)~~
 
-**~~Art. 132.~~** ~~A Polícia Civil, a Polí~~~~cia Penal, a Polícia Militar e o Corpo de Bombeiros Militar do Estado são órgãos executivos, de atuação integrada, subordinados ao governador do Estado, sob orientação operacional da secretaria de Estado responsável pela segurança pública. (Redação dada pela Emenda Constitucional nº 53, de 12/12/2019)~~
+**~~Art. 132.~~** ~~A Polícia Civil, a Polícia Penal, a Polícia Militar e o Corpo de Bombeiros Militar do Estado são órgãos executivos, de atuação integrada, subordinados ao governador do Estado, sob orientação operacional da secretaria de Estado responsável pela segurança pública. (Redação dada pela Emenda Constitucional nº 53, de 12/12/2019)~~
 
 **~~Art. 132 –~~** ~~A Polícia Civil, a Polícia Militar, o Corpo de Bombeiros Militar do Estado, o Instituto Socioeducativo e os Agentes de Trânsito são órgãos executivos, de atuação integrada, subordinados ao governador do Estado, sob orientação operacional da Secretaria de Estado responsável pela Segurança Pública. (Redação dada pela Emenda Constitucional nº 57, de 21/12/2021)~~
 
@@ -1793,8 +1786,6 @@
 
 **Art. 133-A.** À Polícia Penal, instituição permanente do poder público, dirigida por integrante da carreira de polícia penal, incumbe a segurança dos estabelecimentos penais do Estado. (Incluído pela Emenda Constitucional nº 53, de 12/12/2019)
 
-<br>
-
 **Art. 133-B** Compete no âmbito do Estado do Acre e dos Municípios, aos respectivos órgãos ou entidades executivas e seus agentes de trânsito, estruturados em carreira, na forma da lei, a segurança viária, exercida para a preservação da ordem e da incolumidade das pessoas e do seu patrimônio nas vias públicas, e correspondentes e compreende: (Incluído pela Emenda Constitucional nº 59, de 21/12/2021)
 
 **I –** A educação, engenharia e fiscalização de trânsito, além de outras atividades previstas em lei, que assegurem ao cidadão o direito a mobilidade urbana eficiente. (Incluído pela Emenda Constitucional nº 59, de 21/12/2021)
@@ -1810,8 +1801,6 @@
 **~~Art. 134-A.~~** ~~A Polícia Penal é estruturada em carreira, cujo ingresso dar-se-á mediante aprovação em concurso público de provas e títulos. (Incluído pela Emenda Constitucional nº 53, de 12/12/2019)~~
 
 **Art. 134–A.** A Polícia Penal é estruturada em carreira, cujo o ingresso dar-se-á mediante aprovação em concurso público de provas e títulos, e por meio de transformação dos atuais agentes penitenciários, socioeducativo e dos cargos equivalentes (Redação dada pela Emenda Constitucional nº 63, de 22/06/2022) 
-
-<br>
 
 **§ 1º** Nos Quadros da Polícia Penal serão aproveitados os Agentes penitenciários, socioeducativos e dos cargos públicos equivalentes contratados em caráter temporário com mais de 05 (cinco) anos de serviço contínuo e ininterrupto, através do benefício da estabilidade que durará até a aposentadoria destes. (Incluído pela Emenda Constitucional nº 63, de 22/06/2022)
 
@@ -1995,8 +1984,6 @@
 
 **IV -** serviços de qualquer natureza não compreendidos no inciso II, do artigo anterior, definidos em lei complementar.
 
-<br>
-
 **§ 1º** O imposto de que trata o inciso I deste artigo, poderá ser progressivo, nos termos da lei municipal, de forma a assegurar o cumprimento da função social da propriedade.
 
 **§ 2º** O imposto de que trata o inciso II deste artigo, não incide sobre a transmissão de bens ou diretos incorporados ao patrimônio de pessoas jurídicas em realização de capital, nem sobre a transmissão de bens ou direitos decorrentes de fusão, incorporação, cisão ou extinção de pessoas jurídicas, salvo se, nesses casos, a atividade preponderante do adquirente for o comércio desses bens ou direitos, locação de bens imóveis ou arredamento mercantil.
@@ -2039,7 +2026,7 @@
 
 **~~Art. 149.~~** ~~As disponibilidades de caixa do Estado e dos Municípios, dos órgãos ou entidades do Poder Público e das empresas por ele controladas, serão depositadas em instituições financeiras oficiais, ressalvadas as situações previstas em lei.~~
 
-**~~Art. 1~~~~49 -~~** ~~As di~~~~sponibilidades de caixa do Estado e dos Municípios, dos órgãos ou entidades do Poder Público e das empresas por ele controladas, serão depositadas em instituições financeiras oficiais, ressalvadas as situações previstas em lei. (Redação dada pela Emenda Constitucional nº 16, de 16/06/1998)~~
+**~~Art. 149 -~~** ~~As disponibilidades de caixa do Estado e dos Municípios, dos órgãos ou entidades do Poder Público e das empresas por ele controladas, serão depositadas em instituições financeiras oficiais, ressalvadas as situações previstas em lei. (Redação dada pela Emenda Constitucional nº 16, de 16/06/1998)~~
 
 **Art. 149** As disponibilidades financeiras do Estado, dos municípios, das autarquias, fundações e empresas cujo controle acionário majoritário pertença ao Governo do Estado, serão movimentadas em Instituições Bancárias que atendam, obrigatoriamente, os seguintes requisitos: (Redação dada pela Emenda Constitucional nº 17, de 06/05/1999)
 
@@ -2077,8 +2064,6 @@
 
 **Art. 150-A.** O planejamento estratégico de desenvolvimento de longo prazo estabelecerá as diretrizes, os objetivos, indicadores e metas para um período não inferior a dez (anos), alinhado aos princípios democráticos, participação cidadã e gestão para resultados. (Incluído pela Emenda Constitucional nº 70, de 29/06/2023)
 
-<br>
-
 **Art. 151.** A lei que trata do plano plurianual definirá as diretrizes, objetivos e metas da administração pública estadual, levando em consideração a região em que forem feitas as despesas de capital e outras despesas delas decorrentes e as relativas aos programas de duração continuada.
 
 **Art. 152.** A Lei de Diretrizes Orçamentárias estabelecerá as metas e prioridades da administração pública estadual, orientação para a elaboração da Lei Orçamentária anual, alterações na legislação tributária, a política de aplicação de agências financeiras oficiais de fomento e incluirá, pormenorizando, fisicamente, as despesas de capital para o exercício financeiro subsequente.
@@ -2094,8 +2079,6 @@
 **Art. 154.** O Projeto de Lei Orçamentária será acompanhado de demonstrativo regionalizado do efeito, sobre as contas de receitas e despesas, decorrentes de isenções, anistias, subsídios e benefícios de natureza financeira, tributária e creditícia.
 
 **Art. 155.** A Lei Orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa.
-
-<br>
 
 **Parágrafo único.** Não se incluirá na proibição:
 
@@ -2157,11 +2140,12 @@
 
 **~~§ 4º~~** ~~As emendas individuais ao projeto de lei orçamentária serão aprovadas no montante de vinte por cento da reserva de contingência prevista no Projeto de Lei Orçamentária encaminhado pelo Poder Executivo, sendo que cem por cento deste Percentual poderá ser destinado às ações e serviços públicos de saúde ou de segurança pública, respeitadas as proibições descritas no § 3º deste artigo. (Incluído pela Emenda Constitucional nº 48, de 27/04/2017)~~
 
-**~~§ 4º~~** ~~As em~~~~endas individuais ao~~ ~~projeto de lei orçamentária serão aprovadas no montante global de R$ 12.000.000,00 (doze milhões de reais) na previsão de recursos da receita tributária estimada no projeto de lei orçamentária anual encaminhado pelo Poder Executivo, sendo que cinquenta por cento, R$ 6.000.000,00 (seis milhões de reais), serão destinadas as ações e serviços públicos de educação, saúde e segurança pública e o~~ ~~restante destinados em quaisquer áreas.~~ ~~(Redação dada pela Emenda Constitucional nº 55, de 12/12/2019)~~
+**~~§ 4º~~** ~~As emendas individuais ao~~ ~~projeto de lei orçamentária serão aprovadas no montante global de R$ 12.000.000,00 (doze milhões de reais) na previsão de recursos da receita tributária estimada no projeto de lei orçamentária anual encaminhado pelo Poder Executivo, sendo que cinquenta por cento, R$ 6.000.000,00 (seis milhões de reais), serão destinadas as ações e serviços públicos de educação, saúde e segurança pública e o~~ ~~restante destinados em quaisquer áreas.~~ ~~(Redação dada pela Emenda Constitucional nº 55, de 12/12/2019)~~
 
 **~~§ 4º~~** ~~As emendas individuais ao projeto de lei orçamentária serão aprovadas no montante global de R$ 24.000.000,00 (vinte e quatro milhões de reais) da previsão de recursos da receita tributária estimada no projeto de lei orçamentária anual encaminhado pelo Poder Executivo, sendo que cinquenta por cento, R$ 12.000.000,00 (doze milhões de reais), serão destinadas às ações e serviços públicos de infraestrutura, educação, saúde e segurança pública e o restante destinados em quaisquer áreas.~~ ~~(Redação dada pela Emenda Constitucional nº 58, de 21/12/2021)~~
 
-**~~§ 4º~~** ~~As emendas individuais ao projeto de lei orçamentária serão aprovadas no montante global de R$ 48.000.000,00 (quarenta e oito milhões de reais) da previsão de recursos da receita tributária estimada no projeto de lei orçamentária de 2023, sendo que cinquenta por cento, R$ 24.000.000,00 (vinte e quatro milhões de reais), serão destinadas às ações de serviços públicos de educação, saúde, infraestrutura e segurança pública e o restante dos recursos em quaisquer áreas. (Redação dada pela Emenda Constitucional nº 67, de 20/07/2022)<br>~~
+**~~§ 4º~~** ~~As emendas individuais ao projeto de lei orçamentária serão aprovadas no montante global de R$ 48.000.000,00 (quarenta e oito milhões de reais) da previsão de recursos da receita tributária estimada no projeto de lei orçamentária de 2023, sendo que cinquenta por cento, R$ 24.000.000,00 (vinte e quatro milhões de reais), serão destinadas às ações de serviços públicos de educação, saúde, infraestrutura e segurança pública e o restante dos recursos em quaisquer áreas. (Redação dada pela Emenda Constitucional nº 67, de 20/07/2022)
+~~
 
 **~~§ 4°~~** ~~As emendas individuais ao projeto de lei orçamentária serão aprovadas no percentual de 3,5% (três inteiros e cinco décimos por cento), relativo ao somatório da receita tributária, efetivamente realizada no exercício anterior, ao do encaminhamento do projeto de lei orçamentária, observado que cinquenta por cento serão destinados às ações de serviços públicos de educação, saúde, infraestrutura e segurança pública e o restante dos recursos serão alocados em quaisquer funções orçamentária. (Redação dada pela Emenda Constitucional nº 71, de 05/07/2023)~~
 
@@ -2173,23 +2157,20 @@
 
 **~~§ 5º~~** ~~É obrigatória a execução, orçamentária e financeira das programações a que se refere o § 4º deste artigo. (Redação dada pela Emenda Constitucional nº 55, de 12/12/2019)~~
 
-**~~§ 5º~~** ~~Pelo menos 50% (cinquenta por cento) das transferências especiais de que trata o inciso do **caput** deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o § 1° deste artigo (Redação dada pela Emenda Constitucional nº 74, de 12/12/2023)<br>~~
+**~~§ 5º~~** ~~Pelo menos 50% (cinquenta por cento) das transferências especiais de que trata o inciso do **caput** deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o § 1° deste artigo (Redação dada pela Emenda Constitucional nº 74, de 12/12/2023)
+~~
 
 **§ 5º** É obrigatória a execução orçamentária e financeira das programações a que se refere o § 4º deste artigo. (Redação dada pela Emenda Constitucional nº 75, de 28/02/2024)
 
-**~~§ 6º~~** ~~Os~~ ~~restos a pagar~~ ~~poder~~~~ão ser considerados para fins de cumprimento da execução financeira prevista no § 5º deste artigo, até o limite de dez por cento da reserva de contingência realizada no exercício anterior. (Incluído pela Emenda Constitucional nº 48, de 27/04/2017)~~
+**~~§ 6º~~** ~~Os~~ ~~restos a pagar~~ ~~poderão ser considerados para fins de cumprimento da execução financeira prevista no § 5º deste artigo, até o limite de dez por cento da reserva de contingência realizada no exercício anterior. (Incluído pela Emenda Constitucional nº 48, de 27/04/2017)~~
 
 **§ 6º** os restos a pagar poderão ser considerados para fins de cumprimento da execução financeira prevista no § 5º deste artigo (Redação dada pela Emenda Constitucional nº 55, de 12/12/2019)
 
-**~~§ 7º~~** ~~Os critérios para e~~~~xecução equitativa, os procedimentos que deverão ser adotados quando houver impedimentos legais ou de ordem técnica, o cumprimento de restos a pagar e as limitações de caráter obrigatório serão definidos em Lei Complementar. (Incluído pela Emenda Constitucional nº 48, de 27/04/2017)~~
+**~~§ 7º~~** ~~Os critérios para execução equitativa, os procedimentos que deverão ser adotados quando houver impedimentos legais ou de ordem técnica, o cumprimento de restos a pagar e as limitações de caráter obrigatório serão definidos em Lei Complementar. (Incluído pela Emenda Constitucional nº 48, de 27/04/2017)~~
 
 **§ 7º** Os critérios para a execução equitativa, os procedimentos que deverão ser adotados quando houver impedimentos legais ou de ordem técnica, o cumprimento de restos a pagar e as limitações das programações de caráter obrigatório serão definidos em Lei Complementar (Redação dada pela Emenda Constitucional nº 55, de 12/12/2019)
 
-<br>
-
 **§ 8º** Considera-se equitativa a execução das programações de caráter obrigatório que atenda de forma igualitária e impessoal às emendas apresentadas, independentemente da autoria. (Incluído pela Emenda Constitucional nº 55, de 12/12/2019) 
-
-<br>
 
 **~~§ 9º~~** ~~O valor global das emendas parlamentares será de R$ 12.000.000,00 (doze milhões de reais), cabendo a Comissão de Orçamento e Finanças da Assembleia Legislativa do Estado do Acre definir a quantidade e o valor das emendas individuais, bem como o limite para cada parlamentar.~~ ~~(Incluído pela Emenda Constitucional nº 55, de 12/12/2019)~~
 
@@ -2197,13 +2178,9 @@
 
 **§ 9°** Cabe a Comissão de Orçamento e Finanças da Assembleia Legislativa do Estado do Acre, conforme prevê o § 4º deste artigo, definir a quantidade e o valor das emendas individuais. (Redação dada pela Emenda Constitucional nº 73, de 07/11/2023)
 
-<br>
-
-**~~§ 10~~** ~~As emendas ind~~~~ividuais poderão ser alteradas em sua destinação e/ou aplicação, obedecendo ao disposto no § 4º, até o final do primeiro semestre do exercício financeiro vigente.~~ ~~(Incluído pela Emenda Constitucional nº 66, de 20/07/2022)~~
+**~~§ 10~~** ~~As emendas individuais poderão ser alteradas em sua destinação e/ou aplicação, obedecendo ao disposto no § 4º, até o final do primeiro semestre do exercício financeiro vigente.~~ ~~(Incluído pela Emenda Constitucional nº 66, de 20/07/2022)~~
 
 **§ 10.** As emendas não executadas por impossibilidade técnica, devidamente fundamentada, poderão ser remanejadas, pelo autor, até 15 de dezembro do exercício financeiro vigente. (Redação dada pela Emenda Constitucional nº 73, de 07/11/2023)
-
-<br>
 
 **Art. 160-A.** As emendas individuais impositivas apresentadas ao projeto de lei orçamentária anual poderão alocar recursos aos Municípios por meio de: (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
@@ -2215,15 +2192,11 @@
 
 **II -** transferência com finalidade definida. (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
-<br>
-
 **§ 1º** Os recursos transferidos na forma do **caput** não integrarão a receita do Município para fins de repartição e para o cálculo dos limites da despesa com pessoal ativo e inativo, bem como de seu endividamento, vedada, em qualquer caso, a aplicação dos referidos recursos no pagamento de: (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
 **I -** despesas com pessoal e encargos sociais relativas a ativos e inativos, e com pensionistas; e (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
 **II -** encargos referentes ao serviço da dívida. (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
-
-<br>
 
 **§ 2°** Na transferência especial a que se refere o inciso I do **caput**, os recursos: (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
@@ -2233,11 +2206,7 @@
 
 **III -** serão aplicados em programações finalísticas das áreas de competência do Poder Executivo do Município beneficiado, observado a disposto no § 5º deste artigo. (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
-<br>
-
 **§ 3º** O Município beneficiado pela transferência especial a que se refere o inciso I do **caput** poderá firmar contratos de cooperação técnica para fins de subsidiar o acompanhamento da execução orçamentária na aplicação dos recursos. (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
-
-<br>
 
 **§ 4º** Na transferência com finalidade definida a que se refere o inciso II do **caput**, os recursos serão: (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
@@ -2245,17 +2214,13 @@
 
 **II -** aplicados nas áreas da competência constitucional dos Estados. (Incluído pela Emenda Constitucional nº 69, de 29/06/2023)
 
-<br>
-
 **~~§ 5º~~** ~~Pelo menos 70% (setenta por cento) das transferências especiais de que trata o inciso do **caput** deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o § 1º deste artigo.~~ ~~(Incluído pela Emenda Constitucional nº 69, de 29/06/2023)~~
 
 **~~§ 5º~~** ~~Pelo menos 50% (cinquenta por cento) das transferências especiais a que se refere o inciso I do **caput** deverão ser aplicadas em despesas de capital, observada a restrição a que se refere o § 1º deste artigo”. (Redação dada pela Emenda Constitucional nº 75, de 28/02/2024)~~
 
-**§ 5º** Pelo menos 50% (cinquenta por cento) das transferências especiais a que se refere o inciso I do **caput** deverão ser aplicadas em despesas de capital, ressalvadas as excepcionalidades estabelecidas em ato do Poder Executivo, e observando-se a restrição a que se refere o § 1º deste artigo. (Redação dada pela Emenda Constitucional nº 76, de 21/03/2024)<br>
+**§ 5º** Pelo menos 50% (cinquenta por cento) das transferências especiais a que se refere o inciso I do **caput** deverão ser aplicadas em despesas de capital, ressalvadas as excepcionalidades estabelecidas em ato do Poder Executivo, e observando-se a restrição a que se refere o § 1º deste artigo. (Redação dada pela Emenda Constitucional nº 76, de 21/03/2024)
 
 **§ 6º** Fica facultada aos parlamentares a vinculação das transferências especiais a que se refere o inciso I do **caput**, às áreas prioritárias a que se refere o § 4º do artigo 160”. (Incluído pela Emenda Constitucional nº 75, de 28/02/2024)
-
-<br>
 
 **Art. 161.** São vedados:
 
@@ -2423,19 +2388,13 @@
 
 **~~Art. 182.~~** ~~O Estado contribuirá, através de órgão específico, com habitação para a população de baixa renda, compreendendo, além da moradia, adequada assistência sanitária, escolar e social.~~
 
-**Art. 182** O Estado contribuirá, através de órgão especifico, com a busca de condições mínimas para se atingir a dignidade da população de baixa renda, compreendendo a habitação, o vestuário, a higiene, o acesso ao transporte, à educação, à saúde, ao saneamento básico, ao lazer, à assistência social, ao trabalho, à previdência social e a uma adequada assistência financeira. (Redação dada pela Emenda Constitucional nº 60, de 11/05/2022)<br>
+**Art. 182** O Estado contribuirá, através de órgão especifico, com a busca de condições mínimas para se atingir a dignidade da população de baixa renda, compreendendo a habitação, o vestuário, a higiene, o acesso ao transporte, à educação, à saúde, ao saneamento básico, ao lazer, à assistência social, ao trabalho, à previdência social e a uma adequada assistência financeira. (Redação dada pela Emenda Constitucional nº 60, de 11/05/2022)
 
-<br>
+**§ 1º** A assistência Financeira de que trata o **caput** será operacionalizada por intermédio de programa de transferência de renda, destinado, prioritariamente, aos desvalidos, hipossuficientes e excluídos do mercado de trabalho. (Incluído pela Emenda Constitucional nº 60, de 11/05/2022)
 
-**§ 1º** A assistência Financeira de que trata o **caput** será operacionalizada por intermédio de programa de transferência de renda, destinado, prioritariamente, aos desvalidos, hipossuficientes e excluídos do mercado de trabalho. (Incluído pela Emenda Constitucional nº 60, de 11/05/2022)<br>
+**§ 2º** Para os fins de transferência de renda será considerada, além da condição dos beneficiários, a capacidade orçamentário-financeira do Estado que consignará, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual, as respectivas dotações para o mencionado programa. (Incluído pela Emenda Constitucional nº 60, de 11/05/2022)
 
-<br>
-
-**§ 2º** Para os fins de transferência de renda será considerada, além da condição dos beneficiários, a capacidade orçamentário-financeira do Estado que consignará, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual, as respectivas dotações para o mencionado programa. (Incluído pela Emenda Constitucional nº 60, de 11/05/2022)<br>
-
-<br>
-
-**§ 3º** Lei Complementar, de iniciativa exclusiva do Poder Executivo, disporá sobre os conceitos de renda mínima, bem como sobre a regulamentação e operacionalização do respectivo programa de transferência de renda. (Incluído pela Emenda Constitucional nº 60, de 11/05/2022)<br>
+**§ 3º** Lei Complementar, de iniciativa exclusiva do Poder Executivo, disporá sobre os conceitos de renda mínima, bem como sobre a regulamentação e operacionalização do respectivo programa de transferência de renda. (Incluído pela Emenda Constitucional nº 60, de 11/05/2022)
 
 **Art. 183.** Ao Estado incumbe criar órgão e manter estabelecimentos especializados, com o objetivo de estudar os problemas relacionados com o menor abandonado, desvalido e carecedor de cuidados especiais, a fim de que lhe seja proporcionada a necessária proteção.
 
@@ -2725,15 +2684,11 @@
 
 **Parágrafo Único** **–** O direito à proteção especial, conforme a lei, abrangerá, dentre outros aspectos, a criação de programas de prevenção e atendimento especializado à criança e ao adolescente dependentes de entorpecentes e drogas afins. (Redação dada pela Emenda Constitucional nº 5, de 12/12/1991)
 
-<br>
-
 **Art. 211 –** O Estado e os municípios promoverão, conjuntamente com entidades não-governamentais, programas de assistência integral à saúde da criança e do adolescente, obedecendo aos seguintes princípios: (Redação dada pela Emenda Constitucional nº 5, de 12/12/1991)
 
 **I** **–** aplicação de percentual dos recursos públicos destinados à saúde na assistência materno-infantil; (Redação dada pela Emenda Constitucional nº 5, de 12/12/1991)
 
 **II** **–** estímulo do Poder Público, através de assistência jurídica, incentivos fiscais e subsídios, nos termos da lei, ao acolhimento, sob forma de guarda, de criança ou adolescente órfão ou abandonado. (Redação dada pela Emenda Constitucional nº 5, de 12/12/1991)
-
-<br>
 
 **Art. 212 –** O Estado executará programas de amparo aos idosos carentes, preferencialmente em seus lares. (Redação dada pela Emenda Constitucional nº 5, de 12/12/1991)
 
@@ -2789,15 +2744,11 @@
 
 **Art. 220 -** Cabe ao Poder Público celebrar os convênios necessários a garantir à pessoas portadora de deficiências as condições ideais para o convívio social, o estudo, o trabalho e a locomoção, com a participação de suas entidades representativas. (Redação dada pela Emenda Constitucional nº 5, de 12/12/1991)
 
-<br>
-
 **Seção III**
 
 **Dos Povos Indígenas**
 
 (Incluído pela Emenda Constitucional nº 23, de 29/06/2001)
-
-<br>
 
 **Art. 220-A.** O Estado e os Municípios promoverão a proteção, a preservação e incentivarão a autonomia dos povos indígenas e sua cultura, organização social, costumes, línguas, crenças, tradições, assim como reconhecerão seus direitos originários sobre as terras que, tradicionalmente, ocupam. (Incluído pela Emenda Constitucional nº 23, de 29/06/2001)
 
@@ -2806,8 +2757,6 @@
 **§ 2º** O Poder Público poderá participar, quando couber, das definições e implementação de planos, programas e projetos da União, destinados aos povos indígenas. (Incluído pela Emenda Constitucional nº 23, de 29/06/2001)
 
 **§ 3º** O Estado e os Municípios, no limite de suas competências, devem garantir a posse permanente dos povos indígenas sobre as terras que tradicionalmente ocupam, assim como o usufruto exclusivo sobre as riquezas do solo, dos rios e dos lagos nelas existentes. (Incluído pela Emenda Constitucional nº 23, de 29/06/2001)
-
-<br>
 
 **§ 4º** A participação dos povos indígenas é essencial à formulação de conceitos, políticas e na tomada de decisões sobre assuntos que lhes digam respeito, sendo instrumento desta participação o Conselho Estadual Indígena, composto majoritariamente por representantes desses povos e organizações, que terá sua implantação em funcionamento regulados em lei. (Incluído pela Emenda Constitucional nº 23, de 29/06/2001)
 
@@ -2863,11 +2812,7 @@ Nos termos do Tratado de Petrópolis de 1903, Tratado do Rio de Janeiro de 1909 
 
 **Art. 10.** ~~Os membros de quaisquer Conselhos Estaduais e Municipais exercerão seus mandatos em caráter honorífico, exceto o Conselho Estadual de Educação.~~ ~~(Redação dada pela Emenda Constitucional nº 21, de 08/12/2000)~~ (Revogado pela Emenda Constitucional nº 68, de 04/01/2023)
 
-<br>
-
 **Art. 10-A.** Lei específica regulamentará o pagamento de jetons em razão da efetiva participação em reuniões dos Conselhos Estaduais e Municipais, desde que instituídos por lei em sentido formal ou previstos na Constituição Estadual, observadas as normas pertinentes na Lei Complementar Federal nº 101, de 4 de maio de 2000. (Incluído pela Emenda Constitucional nº 68, de 04/01/2023)
-
-<br>
 
 **Parágrafo único.** Na lei que trata o **caput**, serão observados os seguintes parâmetros mínimos: (Incluído pela Emenda Constitucional nº 68, de 04/01/2023)
 
@@ -2957,47 +2902,25 @@ Nos termos do Tratado de Petrópolis de 1903, Tratado do Rio de Janeiro de 1909 
 
 **§ 3º** A revisão constitucional, consubstanciada em apenas um ato, será promulgada após a aprovação de seu texto, conforme rito definido para as emendas constitucionais, nos termos do art. 53 desta Constituição Estadual. (Incluído pela Emenda Constitucional nº 49, de 14/07/2017)
 
-<br>
-
 **Art. 39.** Fica assegurado aos servidores que ocupem o cargo efetivo de Assistente Jurídico de que trata a Lei nº 3.226, de 17 de março de 2017, admitidos através de concurso público e que estejam em efetivo exercício na data da promulgação da Emenda Constitucional que incluiu o presente artigo ao ADCT, a concessão de Vantagem Pessoal Nominalmente Identificada - VPNI referente à diferença entre a renumeração do cargo efetivo que exerce e aquela prevista no art. 31 da Constituição do Estado do Acre, ora revogado, observando-se a correspondência entre suas respectivas classes e níveis. (Incluído pela Emenda Constitucional nº 61, de 11/05/2022)
-
-<br>
 
 **Parágrafo Único.** A VPNI de que trata o **caput** deste artigo não servirá de base de cálculo para nenhuma outra vantagem ou gratificação, não poderá ser paga cumulativamente com outra parcela de idêntica origem ou natureza decorrente de decisão judicial, e será gradativamente absorvida por ocasião do desenvolvimento no cargo por progressão ou promoção ordinária ou extraordinária, da reorganização ou da reestruturação dos cargos ou das remunerações previstas na Lei nº 3.226, de 17 de março de 2017, ressalvada a atualização decorrente de revisão geral da renumeração dos servidores públicos estaduais. (Incluído pela Emenda Constitucional nº 61, de 11/05/2022)
 
-<br>
-
 **Art. 40** Os servidores do Instituto de Administração Penitenciária - IAPEN e do Instituto Socioeducativo - ISE, contratados na forma do art. 27, inciso X, desta Constituição e de sua respectiva lei regulamentadora, em efetivo exercício na data da publicação desta Emenda Constitucional, farão jus a uma indenização extraordinária, correspondente a um salário mínimo, por cada ano de efetivo exercício, quando da rescisão dos respectivos contratos, desde que de forma involuntária e sem justa causa: (Incluído pela Emenda Constitucional nº 62, de 11/05/2022)
-
-<br>
 
 **§ 1º** Para efeito de pagamento da indenização de que trata o **caput** do presente artigo serão contabilizados, como de efetivo exercício, todo o tempo de serviço prestado pelos agentes em seus respectivos cargos temporários, independentemente da quantidade de contratos provisórios celebrados entre estes e a administração pública. (Incluído pela Emenda Constitucional nº 62, de 11/05/2022)
 
-<br>
-
 **§ 2º** Fica estabelecido o prazo máximo de sessenta dias para o pagamento da indenização extraordinária de que trata o **caput** deste artigo. (Incluído pela Emenda Constitucional nº 62, de 11/05/2022)
-
-<br>
 
 **Art. 41.** Os ex servidores do Departamento Estadual de Trânsito - DETRAN/AC e do Departamento Estadual de Água e Saneamento - DEPASA, atual Serviço de Água e Esgoto do Estado do Acre - SANEACRE, contratados na forma do art. 27, inciso X, desta Constituição e de sua respectiva lei regulamentadora, farão jus a uma indenização extraordinária, correspondente a um salário mínimo, por cada ano de efetivo exercício, desde que a rescisão tenha ocorrido de forma involuntária e sem justa causa, e, que não tenham recebido indenização ordinária. (Incluído pela Emenda Constitucional nº 64, 01/07/2022)
 
-<br>
-
 **§ 1º** Para efeito do pagamento da indenização de que trata o **caput** do presente artigo serão contabilizados, como de efetivo exercício, todo o tempo de serviço prestado pelos servidores em seus respectivos cargos temporários, independentemente da quantidade de contratos provisórios celebrados entre estes e a administração pública. (Incluído pela Emenda Constitucional nº 64, 01/07/2022)
-
-<br>
 
 **§ 2º** Fica estabelecido o prazo máximo de sessenta dias para o pagamento da indenização extraordinária de que trata o **caput** deste artigo. (Incluído pela Emenda Constitucional nº 64, 01/07/2022)
 
-<br>
-
 **Art. 42.** Fica instituído, no âmbito do Poder Executivo Estadual, o Fundo Estadual da Juventude, a ser regulado por Lei Complementar, destinado a financiar as ações destinadas à Juventude, cujo objetivo deve ser a construção e implementação de um Piano Estadual da Juventude. (Incluído pela Emenda Constitucional nº 65, de 01/07/2022)
 
-<br>
-
 **Parágrafo único.** O Fundo deve atender, na forma de seu regulamento, aos objetivos traçados pela Política Estadual da Juventude, em consonância com o disposto no Estatuto da Juventude, Lei n. 12.852/2013. (Incluído pela Emenda Constitucional nº 65, de 01/07/2022)
-
-<br>
 
 **Art. 43.** Compõe o Fundo Estadual de Juventude: (Incluído pela Emenda Constitucional nº 65, de 01/07/2022)
 
@@ -3013,11 +2936,7 @@ Nos termos do Tratado de Petrópolis de 1903, Tratado do Rio de Janeiro de 1909 
 
 **VI -** outras receitas a serem definidas na regulamentação do referido Fundo; (Incluído pela Emenda Constitucional nº 65, de 01/07/2022)
 
-<br>
-
 **Art. 68.** os recursos do Fundo são rotativos, não se revertendo os saldos do exercício financeiro aos cofres da Fazenda Estadual. (Incluído pela Emenda Constitucional nº 65, de 01/07/2022)
-
-<br>
 
 **ASSEMBLEIA LEGISLATIVA DO ESTADO DO ACRE**, com função Constituinte, na cidade de Rio Branco, em 03 de outubro de 1989; 167º ano da Independência, 100º da República, 86º do Tratado de Petrópolis e 27º do Estado do Acre.
 

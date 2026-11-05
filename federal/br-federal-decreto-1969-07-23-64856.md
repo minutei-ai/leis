@@ -1,5 +1,3 @@
-###DEC-064856-0-000-23-07-1969@@@
-
 DECRETO Nº 64.856 - DE 23 DE JULHO DE 1969.
 
 Altera o Decreto nº 61.989, de 28 de dezembro de 1967.

@@ -1,5 +1,3 @@
-###DEC-094373-0-000-26-05-1987@@@
-
 DECRETO Nº 94.373, DE 26 DE MAIO DE 1987.
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 subscrito entre o Brasil e o Peru (Acordo nº 12).

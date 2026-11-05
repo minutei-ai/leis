@@ -1,5 +1,3 @@
-###DEC-055624-0-000-25-01-1965@@@
-
 DECRETO Nº 55.624, DE 25 DE JANEIRO DE 1965.
 
 Declara luto oficial

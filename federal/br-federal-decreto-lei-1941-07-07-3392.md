@@ -1,5 +1,3 @@
-###DEL-003392-0-000-07-07-1941@@@
-
 DECRETO-LEI N. 3.392 – DE 7 DE JULHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, crédito especial para pagamento aos herdeiros de Augusto de Andrade Figueira

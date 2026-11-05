@@ -1,5 +1,3 @@
-###DEC-057143-0-000-29-10-1965@@@
-
 Decreto nº 57.143, de 29 de outubro de 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Imperial, relativa ao aumento do capital social.

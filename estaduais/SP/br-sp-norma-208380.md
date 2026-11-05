@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208380)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2023/compilacao-ato.da.mesa-36-04.08.2023.html)
 
 # ATO DA MESA N° 36, DE 04 DE AGOSTO DE 2023

@@ -1,5 +1,3 @@
-###DEC-006255-0-000-13-11-2007@@@
-
 DECRETO Nº 6.255, DE 13 DE NOVEMBRO DE 2007.
 
 Altera os arts. 12, 16 e 18 do Anexo ao Decreto no 4.853, de 6 de outubro de 2003, que aprova o Regulamento de Promoções de Graduados do Exército (R-196).
@@ -37,5 +35,3 @@ Brasília, 13 de novembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 14.11.2007

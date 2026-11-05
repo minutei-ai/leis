@@ -1,5 +1,3 @@
-###DEC-049850-0-000-07-01-1961@@@
-
 DECRETO Nº 49.850, DE 07 DE janeiro DE 1961.
 
 Altera o item I do artigo 2º do Decreto nº 33.635, de 1 de agôsto de 1953 e dá outras providências.

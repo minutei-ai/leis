@@ -1,5 +1,3 @@
-###DEC-085471-0-000-10-12-1980@@@
-
 Decreto nº 85.471, de 10 de dezembro de 1980.
 
 Dispõe sobre a contratação de operações de crédito interno por órgãos e entidades da Administração Federal e dá outras providências.

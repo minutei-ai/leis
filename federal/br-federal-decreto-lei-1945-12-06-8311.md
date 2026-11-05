@@ -1,5 +1,3 @@
-###DEL-008311-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.311 – DE 6 DE DEZEMBRO DE 1945
 
 Cria uma receita especial destinada ao melhoramento e ampliação do aparelhamento dos portos organizados, substituindo o Decreto-lei n. 7.995, de 24 de setembro do corrente ano e dá outras providências.

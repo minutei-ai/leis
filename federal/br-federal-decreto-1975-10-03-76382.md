@@ -1,5 +1,3 @@
-###DEC-076382-0-000-03-10-1975@@@
-
 DECRETO Nº 76.382, DE 3 DE OUTUBRO DE 1975.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Taubaté, com sede na Cidade de Taubaté, Estado de São Paulo.

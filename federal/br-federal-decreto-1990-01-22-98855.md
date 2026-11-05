@@ -1,7 +1,3 @@
-1
-
-###DEC-098855-0-000-22-01-1990@@@
-
 DECRETO N° 98.855, DE 22 DE JANEIRO DE 1990
 
 Autoriza a transferência direta da concessão outorgada à 0RGANIZAÇÃO RÁDIO COLORADO LTDA., para a TUPI-REDE DE COMUNICAÇÃO LTDA

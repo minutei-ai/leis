@@ -1,5 +1,3 @@
-###DEC-056878-0-000-20-09-1965@@@
-
 DECRETO Nº 56.878, DE 20 DE SETEMBRO DE 1965.
 
 Autoriza a Sociedade Anônima Mineração de Amianto a pesquisar amianto no município de Uruaçú, Estado de Goiás.

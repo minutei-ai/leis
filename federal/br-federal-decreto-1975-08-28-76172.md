@@ -1,5 +1,3 @@
-###DEC-076172-0-000-28-08-1975@@@
-
 DECRETO Nº 76.172 - DE 28 DE AGOSTO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Três Lagoas, Estado de Mato Grosso.

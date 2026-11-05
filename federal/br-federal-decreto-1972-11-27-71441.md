@@ -1,5 +1,3 @@
-###DEC-071441-0-000-27-11-1972@@@
-
 DECRETO Nº 71.441, DE 27 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Curso de Estudos Sociais - habilitação em educação Moral e Cívica a ser ministrado na Faculdade de Filosofia, Ciências e Letras de Mogi das Cruzes.

@@ -1,5 +1,3 @@
-###DEL-000319-0-000-27-03-1967@@@
-
 DECRETO-LEI Nº 319, DE 27 de MARÇO DE 1967
 
 Prorroga o prazo de início para a cobrança e recolhimento do Impôsto de Circulação de Mercadorias sôbre os derivados de petróleo.

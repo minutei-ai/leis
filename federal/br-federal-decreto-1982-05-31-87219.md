@@ -1,5 +1,3 @@
-###DEC-087219-0-000-31-05-1982@@@
-
 Decreto nº 87.219, de 31 de maio de 1982
 
 Aprova alteração introduzida no Estatuto da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-083508-0-000-28-05-1979@@@
-
 Decreto nº 83.508, de 28 de maio de 1979.
 
 Concede reconhecimento ao curso de Agronomia da Faculdade Integrada de Ciências Biológicas, com sede na cidade de Machado, Estado de Minas Gerais.

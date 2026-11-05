@@ -1,5 +1,3 @@
-###DEC-092612-0-000-02-05-1986@@@
-
 DECRETO Nº 92.612, DE 2 DE MAIO DE 1986
 
 Outorga concessão a TELEVISÃO SUL BAHIA DE TEIXEIRA DE FREITAS LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Teixeira de Freitas, Estado da Bahia.

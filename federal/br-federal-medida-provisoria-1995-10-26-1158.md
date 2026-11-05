@@ -1,7 +1,3 @@
-1
-
-###MPV-001158-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.158, DE 26 DE OUTUBRO DE 1995.
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

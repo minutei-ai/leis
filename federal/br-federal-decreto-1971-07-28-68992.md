@@ -1,5 +1,3 @@
-###DEC-068992-0-000-28-07-1971@@@
-
 DECRETO Nº 68.992, DE 28 DE JULHO DE 1971.
 
 Dispõe sôbre a auditoria nos órgãos integrantes do Sistema de Pessoal Civil da Administração Federal (SIPEC).

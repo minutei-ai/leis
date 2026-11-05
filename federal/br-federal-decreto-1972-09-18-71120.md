@@ -1,5 +1,3 @@
-###DEC-071120-0-000-18-09-1972@@@
-
 DECRETO Nº 71.120, DE 18 DE SETEMBRO DE 1972.
 
 Extingue a Assistência Médico-Social da Armada e dá outras providências.

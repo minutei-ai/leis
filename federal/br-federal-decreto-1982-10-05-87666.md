@@ -1,5 +1,3 @@
-###DEC-087666-0-000-05-10-1982@@@
-
 decreto nº 87.666, de 05 de outubro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CLUBE DE RIO LARGO S/A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Rio Largo, Estado de Alagoas.

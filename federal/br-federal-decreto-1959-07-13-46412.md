@@ -1,5 +1,3 @@
-###DEC-046412-0-000-13-07-1959@@@
-
 DECRETO Nº 46.412, DE 13 DE JULHO DE 1959.
 
 Concede à Companhia Anchieta de Seguros Gerais autorização para funcionar e aprova os seus Estatutos.

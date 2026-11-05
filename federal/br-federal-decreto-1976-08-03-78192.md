@@ -1,5 +1,3 @@
-###DEC-078192-0-000-03-08-1976@@@
-
 decreto nº 78.192, de 3 de agosto de 1976.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade de Niterói, Estado de Rio de Janeiro.

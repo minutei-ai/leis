@@ -1,5 +1,3 @@
-###DEC-064135-0-000-25-02-1969@@@
-
 DECRETO Nº 64.135, DE 25 DE FEVEREIRO DE 1969.
 
 Aprova o Regulamento das Inspetorias Gerais de Finanças e dá outras providências.

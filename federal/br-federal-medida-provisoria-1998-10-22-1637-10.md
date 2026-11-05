@@ -1,5 +1,3 @@
-###MPV-001637-0-010-22-10-1998@@@
-
 MeDiDA PROVISÓRIA Nº 1.637-10, de 22 De outubro de 1998
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

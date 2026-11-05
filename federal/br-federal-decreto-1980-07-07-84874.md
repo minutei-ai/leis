@@ -1,5 +1,3 @@
-###DEC-084874-0-000-07-07-1980@@@
-
 Decreto nº 84.874, de 7 de julho de 1980.
 
 Concede honras de Ministro de Estado Ao General de Exército RODRIGO OCTÁVIO JORDÃO RAMOS.

@@ -1,5 +1,3 @@
-###DEC-090995-0-000-26-02-1985@@@
-
 DECRETO Nº 90.995, de 26 de fevereiro dE 1985
 
 Autoriza o funcionamento do curso superior de Tecnologia da Fundação Educacional de Marechal Cândido Rondon/PR.

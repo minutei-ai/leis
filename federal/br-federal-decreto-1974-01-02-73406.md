@@ -1,5 +1,3 @@
-###DEC-073406-0-000-02-01-1974@@@
-
 DECRETO Nº 73.406, DE 2 DE JANEIRO DE 1974.
 
 Concede autorização às empresas Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda. para executarem trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

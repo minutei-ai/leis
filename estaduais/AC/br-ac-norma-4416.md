@@ -1,6 +1,10 @@
 > **LEI Nº 3.723, DE 13 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a propagação vegetal e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a propagação vegetal e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -41,8 +45,6 @@
 **Art. 7º** Prestador de serviço em transporte de mercadoria e de correspondência será obrigado a comunicar ao IDAF/AC, o trânsito de material de propagação vegetal, na forma prevista no regulamento desta lei.
 
 **Art. 8º** Na fiscalização do trânsito de plantas, produtos e subprodutos de origem vegetal, além de máquina, de equipamento e de implemento agrícola usados o IDAF/AC contará com a efetiva participação da Secretaria de Estado da Fazenda – SEFAZ, por seus órgãos de arrecadação e fiscalização, das Polícias Civil e Militar do Estado do Acre, bem como de outras instituições municipais ou federais.
-
-<br>
 
 **CAPÍTULO II**
 

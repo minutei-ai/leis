@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210969)<br>
-
 # DECRETO N° 69.556, DE 23 DE MAIO DE 2025
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

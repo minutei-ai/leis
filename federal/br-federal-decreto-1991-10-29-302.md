@@ -1,7 +1,3 @@
-1
-
-###DEC-000302-0-000-29-10-1991@@@
-
 DECRETO Nº 302, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da Área indígena Porto Lindo, no Estado do Mato Grosso do Sul.

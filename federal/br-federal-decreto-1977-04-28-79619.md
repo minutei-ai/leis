@@ -1,5 +1,3 @@
-###DEC-079619-0-000-28-04-1977@@@
-
 DECRETO Nº 79.619, DE 28 DE ABRIL DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada a passagem de trecho de linha de transmissão da companhia Brasileira de Energia Elétrica, no Estado do Rio de Janeiro.

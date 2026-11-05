@@ -1,5 +1,3 @@
-###DEC-047080-0-000-22-10-1959@@@
-
 DECRETO Nº 47.080, DE 22 DE OUTUBRO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros permanente e Suplementar do Ministério da Agricultura.

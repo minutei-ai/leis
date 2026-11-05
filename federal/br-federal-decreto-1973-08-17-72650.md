@@ -1,5 +1,3 @@
-###DEC-072650-0-000-17-08-1973@@@
-
 DECRETO Nº 72.650, DE 17 DE AGOSTO DE 1973.
 
 Concede à Gelcyra Violeta de Carvalho, firma individual, o direito de lavrar calcário dolomítico no Município de Ouro Preto, Estado de Minas Gerais.

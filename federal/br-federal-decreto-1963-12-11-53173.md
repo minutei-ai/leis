@@ -1,5 +1,3 @@
-###DEC-053173-0-000-11-12-1963@@@
-
 DECRETO Nº 53.173, DE 11 DE DEZEMBRO DE 1963.
 
 Dispõe sôbre a denominação da Faculdade de Filosofia, Ciências e Letras, Cristo Rei, de São Leopoldo.

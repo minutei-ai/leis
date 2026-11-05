@@ -1,7 +1,3 @@
-1
-
-###DEC-099201-0-000-03-04-1990@@@
-
 DECRETO N° 99.201, DE 3 DE ABRIL DE 1990
 
 Autoriza a Superintendência Nacional do Abastecimento - SUNAB a não ajuizar ações que menciona, e dá outras providências.

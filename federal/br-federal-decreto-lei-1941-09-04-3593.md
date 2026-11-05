@@ -1,5 +1,3 @@
-###DEL-003593-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.593 – DE 4 DE SETEMBRO DE 1941
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Agricultura

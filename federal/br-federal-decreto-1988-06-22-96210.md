@@ -1,5 +1,3 @@
-###DEC-096210-0-000-22-06-1988@@@
-
 DECRETO N° 96.210, DE 22 DE JUNHO DE 1988
 
 Outorga concessão à FUNDAÇÃO BRASI­LEIRA DE COMUNICAÇÃO, para explorar serviço de radiodifusão sonora em onda curta, na cidade de Santa Maria, Estado do Rio Grande do Sul.

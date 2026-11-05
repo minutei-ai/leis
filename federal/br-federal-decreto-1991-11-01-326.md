@@ -1,7 +1,3 @@
-1
-
-###DEC-000326-0-000-01-11-1991@@@
-
 DECRETO Nº 326, DE 1º DE NOVEMBRO DE 1991
 
 Dispõe sobre o recolhimento, ao Tesouro Nacional, de dividendos, lucros ou resultados de empresas estatais e dá outras providências.

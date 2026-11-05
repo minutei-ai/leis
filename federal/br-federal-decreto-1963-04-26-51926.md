@@ -1,5 +1,3 @@
-###DEC-051926-0-000-26-04-1963@@@
-
 DECRETO Nº 51.926, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Décio Luiz Malta Campos, a comprar pedras preciosas.

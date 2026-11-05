@@ -1,5 +1,3 @@
-###DEC-081197-0-000-09-01-1978@@@
-
 Decreto nº 81.197, de 9 de janeiro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

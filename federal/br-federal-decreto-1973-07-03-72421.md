@@ -1,5 +1,3 @@
-###DEC-072421-0-000-03-07-1973@@@
-
 DECRETO Nº 72.421, DE 3 DE JULHO DE 1973.
 
 Retifica redistribuição de cargo efetuada pelo Decreto nº 72.007, de 27 de março de 1973.

@@ -1,5 +1,3 @@
-###DEC-082366-0-000-04-10-1978@@@
-
 Decreto nº 82.366, de 04 de outubro de 1978
 
 Concede à Cury & Cia. Ltda. o direito de lavrar argila no Município de Itu, Estado de São Paulo.

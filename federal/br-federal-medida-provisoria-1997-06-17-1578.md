@@ -1,5 +1,3 @@
-###MPV-001578-0-000-17-06-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.578, DE 17 DE JUNHO DE 1997
 
 Dispõe sobre a administração do Instituto de Resseguros do Brasil - IRB, sobre a transferência e a transformação de suas ações, e dá outras providências.

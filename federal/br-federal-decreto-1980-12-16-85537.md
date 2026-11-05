@@ -1,5 +1,3 @@
-###DEC-085537-0-000-16-12-1980@@@
-
 DECRETO Nº 85.537, DE 16 DE DEZEMBRO DE 1980.
 
 Cria a 16ª Brigada de Infantaria Motorizada e seu respectivo Comando no Ministério do Exército e dá outras providências.

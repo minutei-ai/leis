@@ -1,5 +1,3 @@
-###DEC-062114-0-000-12-01-1968@@@
-
 DECRETO Nº 62.114, DE 12 DE JANEIRO DE 1968.
 
 Fixa o número mínimo de vagas para a cota compulsória no Ministério da Marinha.
@@ -10,7 +8,109 @@ decreta:
 
 Art. 1º Fica fixado para o ano de 1967, na forma do disposto nas alíneas “d”, “e” e “f” do artigo 16 da Lei nº 4.902, de 16 de dezembro de 1965, o número mínimo de vagas abaixo discriminado para os diversos corpos e quadros do Ministério da Marinha:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Corpo ou Quadro</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Vagas</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>I - Corpo da Armada</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>13</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>15</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>18</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>II - Corpo de Fuzileiros Navais</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>III - Corpo de Engenheiros e Técnicos Navais</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>IV - Corpo de Intendentes da Marinha</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>5</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>V - Corpo de Saúde da Marinha</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>a) Quadros de Médicos:</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>b) Quadro de Farmacêutico:</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>-</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>-</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>-</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>c) Quadro de Cirurgiões-Dentistas:</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Mar-e-Guerra ..................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Fragata ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td></tr><tr><td style="width:393.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Capitães-de-Corveta ...........................................................................................................</span></p></td><td style="width:32pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td></tr></tbody></table>
+Corpo ou Quadro
+
+Vagas
+
+I - Corpo da Armada
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+13
+
+Capitães-de-Fragata ...........................................................................................................
+
+15
+
+Capitães-de-Corveta ...........................................................................................................
+
+18
+
+II - Corpo de Fuzileiros Navais
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+2
+
+Capitães-de-Fragata ...........................................................................................................
+
+2
+
+Capitães-de-Corveta ...........................................................................................................
+
+3
+
+III - Corpo de Engenheiros e Técnicos Navais
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+2
+
+Capitães-de-Fragata ...........................................................................................................
+
+3
+
+Capitães-de-Corveta ...........................................................................................................
+
+3
+
+IV - Corpo de Intendentes da Marinha
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+2
+
+Capitães-de-Fragata ...........................................................................................................
+
+3
+
+Capitães-de-Corveta ...........................................................................................................
+
+5
+
+V - Corpo de Saúde da Marinha
+
+a) Quadros de Médicos:
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+2
+
+Capitães-de-Fragata ...........................................................................................................
+
+3
+
+Capitães-de-Corveta ...........................................................................................................
+
+4
+
+b) Quadro de Farmacêutico:
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+-
+
+Capitães-de-Fragata ...........................................................................................................
+
+-
+
+Capitães-de-Corveta ...........................................................................................................
+
+-
+
+c) Quadro de Cirurgiões-Dentistas:
+
+Capitães-de-Mar-e-Guerra ..................................................................................................
+
+1
+
+Capitães-de-Fragata ...........................................................................................................
+
+1
+
+Capitães-de-Corveta ...........................................................................................................
+
+1
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

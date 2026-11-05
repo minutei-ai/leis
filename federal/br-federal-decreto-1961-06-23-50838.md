@@ -1,5 +1,3 @@
-###DEC-050838-0-000-23-06-1961@@@
-
 DECRETO Nº 50.838, DE 23 DE JUNHO DE 1961.
 
 Altera a constituição do Grupo Executivo da Indústria Mecânica Pesada (GEIMAPE), instituído pelo Decreto nº 50.522, de 3 de maio de 1961.

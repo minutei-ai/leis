@@ -1,5 +1,3 @@
-###DEC-086650-0-000-26-11-1981@@@
-
 Decreto nº 86.650, de 26 de novembro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Paraná.

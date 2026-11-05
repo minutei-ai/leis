@@ -1,5 +1,3 @@
-###DEL-003227-0-000-30-04-1941@@@
-
 DECRETO-LEI N. 3.227 – DE 30 DE ABRIL DE 1941
 
 Altera séries funcionais aprovadas pelo decreto-lei nº 2.936, de 3 de dezembro de 1940, e dá outras providências

@@ -1,5 +1,3 @@
-###MPV-001978-0-019-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.978-19, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

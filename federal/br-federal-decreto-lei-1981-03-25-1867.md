@@ -1,7 +1,3 @@
-1
-
-###DEL-001867-0-000-25-03-1981@@@
-
 # Decreto-lei 1.867, de 25 de março de 1981.
 
 Dá nova redação ao Decreto-lei nº 1.861, de 25 de fevereiro de 1981.

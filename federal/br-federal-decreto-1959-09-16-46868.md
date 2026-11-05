@@ -1,5 +1,3 @@
-###DEC-046868-0-000-16-09-1959@@@
-
 DECRETO Nº 46.868, DE 16 DE SETEMBRO DE 1959.
 
 Concede reconhecimento aos cursos de Letras Neolatinas e de Geografia e História da Faculdade de Filosofia de Natal.

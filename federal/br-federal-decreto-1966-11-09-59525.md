@@ -1,5 +1,3 @@
-###DEC-059525-0-000-09-11-1966@@@
-
 DECRETO Nº 59.525, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza a Companhia de Mineração Serra da Moeda a lavrar minério de ferro, no Município de Oliveira, Estado de Minas Gerais.

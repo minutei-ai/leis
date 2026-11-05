@@ -1,5 +1,3 @@
-###DEC-086090-0-000-09-06-1981@@@
-
 DECRETO Nº 86.090, DE 09 DE JUNHO DE 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação lpê, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

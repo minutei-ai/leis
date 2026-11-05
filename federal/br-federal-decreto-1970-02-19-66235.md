@@ -1,5 +1,3 @@
-###DEC-066235-0-000-19-02-1970@@@
-
 DECRETO Nº 66.235 - DE 19 DE Fevereiro DE 1970
 
 Reestrutura a Comissão Nacional de Energia Nuclear (CNEN) e dá outras providências.

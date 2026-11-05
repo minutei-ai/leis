@@ -1,5 +1,3 @@
-###DEC-061157-0-000-16-08-1967@@@
-
 DECRETO Nº 61.157, DE 16 DE AGÔSTO DE 1967.
 
 Constitui Reserva Nacional de sal-gema e sais de potássio a área que menciona, no Estado de Sergipe, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-059608-0-000-29-11-1966@@@
-
 DECRETO Nº 59.608, DE 29 DE NOVEMBRO DE 1966.
 
 Ministério da Fazenda. Abre o credito especial de Cr$6.994.800.000 (seis bilhões, novecentos e noventa e quatro milhões e oitocentos mil cruzeiros), autorizado pela Lei nº 5.164, de 21 de outubro de 1966, para atender a despesas que menciona.

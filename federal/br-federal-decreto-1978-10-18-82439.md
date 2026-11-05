@@ -1,5 +1,3 @@
-###DEC-082439-0-000-18-10-1978@@@
-
 Decreto nº 82.439, de 18 de outubro de 1978.
 
 Institui incentivos à Industria de mineração do carvão coqueificável e de sua transformação primária.

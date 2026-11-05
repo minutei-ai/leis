@@ -1,5 +1,3 @@
-###DEC-073747-0-000-06-03-1974@@@
-
 DECRETO Nº 73.747, DE 6 DE MARÇO DE 1974.
 
 Declara de utilidade pública, para uns de desapropriação, um lote de terreno urbano, sem benfeitorias, situado na Cidade de Lavras, Estado de Minas Gerais, destinado à construção de uma torre de microondas, pela Telecomunicações de Minas Gerais S. A. - TELEMIG.

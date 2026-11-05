@@ -1,7 +1,3 @@
-1
-
-###DEC-099299-0-000-12-06-1990@@@
-
 DECRETO N° 99.299, DE 12 DE JUNHO DE 1990
 
 Institui a Comissão de Execução de Tratado de Integração, Cooperação e Desenvolvimento entre a República Federativa do Brasil e a República da Argentina, e dá outras providências.

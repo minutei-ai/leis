@@ -1,5 +1,3 @@
-###DEC-047673-0-000-20-01-1960@@@
-
 DECRETO Nº 47.673, DE 20 DE JANEIRO DE 1960.
 
 Aprova o Regulamento para o ingresso de oficiais no Corpo de Engenheiros e Técnicos Navais.

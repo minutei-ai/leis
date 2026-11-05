@@ -1,5 +1,3 @@
-###DEC-070773-0-000-28-06-1972@@@
-
 DECRETO Nº 70.773, DE 28 DE JUNHO DE 1972.
 
 Regulamenta o pagamento dos militares por crédito em conta-corrente bancária.

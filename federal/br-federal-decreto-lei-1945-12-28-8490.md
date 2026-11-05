@@ -1,5 +1,3 @@
-###DEL-008490-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.490 – DE 28 DE DEZEMBRO DE 1945
 
 Suprime o Quadro Suplementar do D. A. S. P., e dá outras providências.

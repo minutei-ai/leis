@@ -52,8 +52,6 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 7 de outubro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

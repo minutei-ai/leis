@@ -1,5 +1,3 @@
-###DEC-054376-0-000-05-10-1964@@@
-
 decreto nº 54.376, de 5 de outubro de 1964.
 
 Outorga a Centrais Elétricas do Rio das Contas S.A. concessão para distribuir energia elétrica e dá outras providências.

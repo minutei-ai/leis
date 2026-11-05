@@ -1,7 +1,3 @@
-1
-
-###DEC-099846-0-000-18-12-1990@@@
-
 # DECRETO N° 99.846, DE 18 DE DEZEMBRO DE 1990
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Complementação Econômica, entre o Brasil e a Argentina (Acordo n° 12).

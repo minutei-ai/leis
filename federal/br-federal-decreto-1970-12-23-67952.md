@@ -1,5 +1,3 @@
-###DEC-067952-0-000-23-12-1970@@@
-
 DECRETO Nº 67.952, DE 23 DE DEZEMBRO DE 1970.
 
 Dispõe sôbre a apuração de merecimento para os fins de programação de funcionários policiais da União.

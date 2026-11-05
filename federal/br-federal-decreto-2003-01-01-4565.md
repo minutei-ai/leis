@@ -1,5 +1,3 @@
-###DEC-004565-0-000-01-01-2003@@@
-
 DECRETO Nº 4.565, DE 1º JANEIRO DE 2003.
 
 Reduz as alíquotas da Contribuição de Intervenção no Domínio Econômico incidente sobre a importação e a comercialização de petróleo e seus derivados, gás natural e seus derivados, e álcool etílico combustível (Cide), instituída pela Lei no 10.336, de 19 de dezembro de 2001, e dá outras providências.

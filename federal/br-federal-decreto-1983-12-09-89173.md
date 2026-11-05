@@ -1,5 +1,3 @@
-###DEC-089173-0-000-09-12-1983@@@
-
 DECRETO Nº 89.173, DE 09 DE DEZEMBRO DE 1983
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO CLUBE DE LONDRINA LTDA. para a RADIONORTE LTDA.

@@ -1,5 +1,3 @@
-###DEL-009483-0-000-18-07-1946@@@
-
 DECRETO-LEI N. 9.483 – DE 18 DE JULHO DE 1946
 
 Concede  isenção do impôsto de consumo  pelo prazo de 2 anos, ao material destinado às emprêsas de navegação aérea.

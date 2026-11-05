@@ -1,5 +1,3 @@
-###DEC-093034-0-000-27-07-1986@@@
-
 DECRETO Nº 93.034, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Lote 13, Gleba J, Loteamento Fazenda Serra, situado nos Municípios de Itaguatins e Sitio Novo de Goiás, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

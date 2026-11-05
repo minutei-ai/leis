@@ -1,5 +1,3 @@
-###DEC-090405-0-000-07-11-1984@@@
-
 Decreto nº 90.405, de 07 de novembro de 1984.
 
 Autoriza o funcionamento do curso de Serviço Social do Centro de Ensino Superior do Estado do Pará.

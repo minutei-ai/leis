@@ -1,5 +1,3 @@
-###DEC-045609-0-000-24-03-1959@@@
-
 Decreto nº 45.609, de 24 de março de 1959.
 
 Extingue, a pedido do interessado, o funcionamento do segundo ciclo do Colégio Progresso Campineiro, de Campinas, no Estado de São Paulo.

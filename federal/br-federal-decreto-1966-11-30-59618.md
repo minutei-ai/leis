@@ -1,5 +1,3 @@
-###DEC-059618-0-000-30-11-1966@@@
-
 DECRETO Nº 59.618, DE 30 DE NOVEMBRO DE 1966.
 
 Concede à The London Assurance autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

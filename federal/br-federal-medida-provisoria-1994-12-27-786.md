@@ -1,7 +1,3 @@
-1
-
-###MPV-000786-0-000-27-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 786, DE 27 DE DEZEMBRO DE 1994
 
 Altera a redação do art. 2º do Decreto-Lei nº 2.236, de 23 de janeiro de 1985, que dispõe sobre a tabela de emolumentos e taxas, aprovada pelo art. 131 da Lei nº  6.815, de 19 de agosto de 1980.

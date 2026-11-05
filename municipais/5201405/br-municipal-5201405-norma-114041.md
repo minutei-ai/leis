@@ -28,11 +28,14 @@ Art. 8º - Este Decreto entrará em vigor na data de sua publicação, retrogind
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 13 de agosto de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-SERGIO CANDIDO DE CARVALHO<br>
+SERGIO CANDIDO DE CARVALHO
+
 Secretário Executivo de Mobilidade

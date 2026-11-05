@@ -1,5 +1,3 @@
-###DEC-003300-0-000-21-12-1999@@@
-
 DECRETO Nº 3.300, DE 21 DE DEZEMBRO DE 1999.
 
 Altera o art. 1º do Decreto nº 3.031, de 20 de abril de 1999, e revoga os arts. 5º e 6º  do Decreto nº 2.984, de 5 de março de 1999, e o Decreto nº 3.235, de 9 de novembro de 1999.

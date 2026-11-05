@@ -1,5 +1,3 @@
-###DEC-064004-0-000-20-01-1969@@@
-
 DECRETO Nº 64.004, DE 20 DE JANEIRO DE 1969.
 
 Eleva à categoria de Delegacia, a Agência da Capitania dos Portos do Estado de Santa Catarina, em Imbituba.

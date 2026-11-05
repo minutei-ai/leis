@@ -1,5 +1,3 @@
-###DEC-005400-0-000-28-03-2005@@@
-
 DECRETO Nº 5.400 DE 28 DE MARÇO DE 2005
 
 Dispõe sobre a criação do Consulado do Brasil em Beirute, República Libanesa.

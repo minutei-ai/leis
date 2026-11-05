@@ -1,7 +1,3 @@
-1
-
-###MPV-000950-0-000-23-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 950, DE 23 DE MARÇO DE 1995
 
 Dispõe sobre a base de cálculo da Contribuição para o Programa de Integração Social (PIS), devida pelas pessoas jurídicas a que se refere o § 1º do art. 22 da Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.

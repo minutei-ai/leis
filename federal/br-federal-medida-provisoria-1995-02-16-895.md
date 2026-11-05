@@ -1,7 +1,3 @@
-1
-
-###MPV-000895-0-000-16-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 895, DE 16 DE FEVEREIRO DE 1995
 
 Dá nova redação ao art. 1º da Lei nº 6.150, de 3 de dezembro de 1974, que dispõe sobre a obrigatoriedade da iodação do sal destinado ao consumo humano, seu controle pelos órgãos sanitários e dá outras providências.

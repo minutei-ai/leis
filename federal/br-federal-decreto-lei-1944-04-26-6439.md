@@ -1,5 +1,3 @@
-###DEL-006439-0-000-26-04-1944@@@
-
 DECRETO-LEI N. 6.439 – DE 26 DE ABRIL DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 4.000,00, para pagamento da vantagem (Pessoal) que indica

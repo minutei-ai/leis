@@ -44,10 +44,12 @@ II – pagar apenas a parte não litigiosa do crédito tributário; e
 
 III – efetuar o pagamento parcial do crédito tributário à vista, observada a imputação do valor pago na forma prevista no § 3º do art. 166 da [Lei nº 11.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87836), de 26 de dezembro de 1991, Código Tributário do Estado de Goiás – CTE.
 
-Art. 4º O sujeito passivo, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 20 de dezembro de 2024.<br>
+Art. 4º O sujeito passivo, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 20 de dezembro de 2024.
+
 \- [Redação dada pela Lei nº 23.036, de 25-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109756/lei-23036).
 
-~~Art. 4º O sujeito passivo, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 210 (duzentos e dez) dias do início da produção de efeitos desta Lei.~~<br>
+~~Art. 4º O sujeito passivo, para usufruir dos benefícios previstos nesta Lei, deve fazer sua adesão até 210 (duzentos e dez) dias do início da produção de efeitos desta Lei.~~
+
 \- [Redação dada pela Lei nº 22.873, de 24-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109223/lei-22873).
 
 ~~Art. 4º O sujeito passivo, para usufruir dos benefícios previstos nesta Lei, deve fazer adesão até 120 (cento e vinte) dias do início da produção de efeitos desta Lei.~~
@@ -124,10 +126,12 @@ Parágrafo único. Sobre o valor da parcela não paga na data de vencimento deve
 
 Art. 11. No caso de débito em execução fiscal com penhora ou arresto de bens efetivados nos autos ou com outra garantia, nos termos do art. 9º da Lei federal nº 6.830, de 22 de setembro de 1980, a concessão do parcelamento fica condicionada à manutenção da garantia.
 
-~~Art. 12. No caso de débito ajuizado, haverá a redução de 65% (sessenta e cinco por cento) dos honorários advocatícios.~~<br>
+~~Art. 12. No caso de débito ajuizado, haverá a redução de 65% (sessenta e cinco por cento) dos honorários advocatícios.~~
+
 [\- Declarado inconstitucional pelo STF na ADI nº 7615.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18507)
 
-~~Parágrafo único. Fica dispensada, na hipótese prevista no _caput_ deste artigo, a comprovação de despesas processuais.~~<br>
+~~Parágrafo único. Fica dispensada, na hipótese prevista no _caput_ deste artigo, a comprovação de despesas processuais.~~
+
 [\- Declarado inconstitucional pelo STF na ADI nº 7615.](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18507)
 
 Art. 13. Na impossibilidade de o órgão fazendário competente concluir, dentro do horário de expediente do último dia útil previsto para o pagamento, o atendimento ao contribuinte que comparecer à repartição fazendária para efetuar o pagamento do crédito tributário favorecido, deve ser emitido, até o primeiro dia útil seguinte, o documento de arrecadação que permita a esse contribuinte efetuar o pagamento com os benefícios previstos nesta Lei.

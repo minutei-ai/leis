@@ -1,5 +1,3 @@
-###DEC-085986-0-000-07-05-1981@@@
-
 DECRETO Nº 85.986, DE 07 DE MAIO DE 1981.
 
 Altera o Regulamento Disciplinar do Exército (R-4), aprovado pelo Decreto nº 79.985, de 19 de julho de 1977.

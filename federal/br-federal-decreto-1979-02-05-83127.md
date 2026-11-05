@@ -1,5 +1,3 @@
-###DEC-083127-0-000-05-02-1979@@@
-
 decreto nº 83.127, de 05 de fevereiro de 1979
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

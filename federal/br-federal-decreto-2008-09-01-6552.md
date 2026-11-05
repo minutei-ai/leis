@@ -1,5 +1,3 @@
-###DEC-006552-0-000-01-09-2008@@@
-
 DECRETO Nº 6.552, DE 1º DE SETEMBRO DE 2008.
 
 Regulamenta a Gratificação de Desempenho de Atividade de Execução e Apoio Técnico à Auditoria - GDASUS, de que trata a Lei no 11.344, de 8 de setembro de 2006.

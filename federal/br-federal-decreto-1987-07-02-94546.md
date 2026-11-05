@@ -1,5 +1,3 @@
-###DEC-094546-0-000-02-07-1987@@@
-
 DECRETO N° 94.546, DE 2 DE JULHO DE 1987
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas subscrito entre o Brasil e Bolívia (Acordo n °8).
@@ -42,7 +40,57 @@ Artigo 2° Não obstante o disposto no artigo anterior, as preferências caducar
 
 Artigo 3° O presente Protocolo vigorará a partir da data de sua subscrição.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:109.9pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">NALADI</span></p></td><td style="width:308.3pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PRODUTO</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">07.05.1.32</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Feijões pretos</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">07.05.1.39</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Os demais feijões</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">11.01.0.05</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Farinha de milho</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">22.03.0.01</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Cervejas em lata</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">22.09.2.06</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Vodca</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">28.28.3.03</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Trióxido de antimônio</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">41.02.1.01</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Couros e peles de bezerro preparados</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">41.02.1.02</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Peles de bovinos variedade chamada box-calf</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">41.02.1.99</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Os demais couros e peles de bovinos (vacuns)</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">44.07.0.01</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Dormentes de madeira para vias férreas</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">47.01.9.01</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Pasta de papel à base de línteres de algodão</span></p></td></tr><tr><td style="width:109.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">78 01.1 01</span></p></td><td style="width:308.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Chumbo em lingotes ou pães.</span></p></td></tr></tbody></table>
+NALADI
+
+PRODUTO
+
+07.05.1.32
+
+Feijões pretos
+
+07.05.1.39
+
+Os demais feijões
+
+11.01.0.05
+
+Farinha de milho
+
+22.03.0.01
+
+Cervejas em lata
+
+22.09.2.06
+
+Vodca
+
+28.28.3.03
+
+Trióxido de antimônio
+
+41.02.1.01
+
+Couros e peles de bezerro preparados
+
+41.02.1.02
+
+Peles de bovinos variedade chamada box-calf
+
+41.02.1.99
+
+Os demais couros e peles de bovinos (vacuns)
+
+44.07.0.01
+
+Dormentes de madeira para vias férreas
+
+47.01.9.01
+
+Pasta de papel à base de línteres de algodão
+
+78 01.1 01
+
+Chumbo em lingotes ou pães.
 
 A Secretaria-Geral da Associação será depositária do presente Protocolo, do qual enviará cópias devidamente autenticadas aos Governos signatários.
 

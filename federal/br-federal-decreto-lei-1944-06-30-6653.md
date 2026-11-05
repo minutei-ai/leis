@@ -1,5 +1,3 @@
-###DEL-006653-0-000-30-06-1944@@@
-
 DECRETO-LEI N. 6.653 – DE 30 DE Junho DE 1944
 
 Eleva a gratificação de função do Chefe da Seção de Administração do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, e dá outras providências

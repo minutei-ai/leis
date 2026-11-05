@@ -1,5 +1,3 @@
-###DEC-094659-0-000-21-07-1987@@@
-
 DECRETO Nº 94.659, DE 21 DE JULHO DE 1987.
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial nº 12, subscrito entre o Brasil e o Peru.

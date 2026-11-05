@@ -1,5 +1,3 @@
-###DEC-073870-0-000-26-03-1974@@@
-
 DECRETO Nº 73.870, DE 26 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Cabo Frio, mantida pela Fundação Educacional da Região dos Lagos - FERLAGOS, com sede na cidade de Cabo Frio, Estado do Rio de Janeiro.

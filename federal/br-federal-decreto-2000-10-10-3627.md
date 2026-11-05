@@ -1,5 +1,3 @@
-###DEC-003627-0-000-10-10-2000@@@
-
 DECRETO Nº 3.627, DE 10 DE OUTUBRO DE 2000.
 
 Prorroga o prazo previsto no § 5º do art. 2º da Medida Provisória nº 1.950-68, de 21 de setembro de 2000.

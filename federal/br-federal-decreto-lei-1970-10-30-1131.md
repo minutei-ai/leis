@@ -1,5 +1,3 @@
-###DEL-001131-0-000-30-10-1970@@@
-
 # DECRETO-LEI Nº 1.131, DE 30 DE OUTUBRO DE 1970
 
 Declara de interêsse da Segurança Nacional, nos têrmos do Art. 15, § 1º, alínea b, da Constituição, os Municípios que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053043-0-000-29-11-1963@@@
-
 DECRETO nº 53.043, DE 29 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Olney Barros a pesquisar mica no município de Santa Maria Madalena, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-002179-0-000-18-03-1997@@@
-
 DECRETO Nº 2.179, DE 18 DE MARÇO DE 1997
 
 Dispõe sobre a concessão de incentivos fiscais para o desenvolvimento regional para os produtos que especifica e dá outras providências.

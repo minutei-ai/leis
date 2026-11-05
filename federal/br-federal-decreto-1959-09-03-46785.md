@@ -1,5 +1,3 @@
-###DEC-046785-0-000-03-09-1959@@@
-
 Decreto nº 46.785, de 3 de setembro de 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Sul América Capitalização, S.A.

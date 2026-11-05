@@ -1,5 +1,3 @@
-###DEC-070480-0-000-04-05-1972@@@
-
 DECRETO Nº 70.480, DE 4 DE MAIO DE 1972.
 
 Altera o Decreto nº 70.435, de 18 de abril de 1972, e dá outras providências.

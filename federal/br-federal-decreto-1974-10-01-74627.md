@@ -1,5 +1,3 @@
-###DEC-074627-0-000-01-10-1974@@@
-
 DECRETO Nº 74.627, DE 1 DE outubro DE 1974.
 
 Promulga o Protocolo Modificativo do Tratado de Montevidéu - Protocolo de Caracas.

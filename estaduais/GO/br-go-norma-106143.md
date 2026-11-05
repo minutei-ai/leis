@@ -12,7 +12,8 @@ II – o Colégio Estadual de Educação do Campo Gilberto Arruda Falcão, no Mu
 
 III – o Colégio Estadual de Educação do Campo Antônio Pereira Maia, a partir de 21 de julho de 2004, situado no Município de Uirapuru/GO;
 
-IV – o Colégio Estadual Quilombola Kalunga Mãe França ~~Colégio Estadual Quilombola Kalunga III~~, a partir de 1º de janeiro de 1993, no Município de Teresina de Goiás/GO;<br>
+IV – o Colégio Estadual Quilombola Kalunga Mãe França ~~Colégio Estadual Quilombola Kalunga III~~, a partir de 1º de janeiro de 1993, no Município de Teresina de Goiás/GO;
+
 \- [Denominação dada pela Lei nº 22.939, de 21-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109397/lei-22939).
 
 V – o Colégio Estadual Agenor Cardoso de Oliveira, situado na Avenida Uruguaiana, Quadra 32, 2, Jardim Novo Mundo, no Município de Goiânia/GO, a partir de 1º de janeiro de 2021; e
@@ -22,8 +23,6 @@ VI – o Centro Estadual de Educação de Jovens e Adultos Universitário, situa
 Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 14 de setembro de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

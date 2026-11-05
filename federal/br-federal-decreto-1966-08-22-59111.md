@@ -1,5 +1,3 @@
-###DEC-059111-0-000-22-08-1966@@@
-
 DECRETO Nº 59.111, DE 22 DE AGÔSTO DE 1966.
 
 Autoriza o Departamento Nacional de Estradas de Ferro (DNEF) a ceder, gratuitamente, através de têrmo ou contrato, ao Estado de Pernambuco o imóvel de sua propriedade, situado em Petrolina, naquele Estado.

@@ -1,5 +1,3 @@
-###DEC-078054-0-000-15-07-1976@@@
-
 DECRETO Nº 78.054, DE 15 DE JULHO DE 1976.
 
 Autoriza a transformação do curso de Desenho e Plástica para Licenciatura de Educação Artística, da Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, com sede na Cidade de Itu, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-064464-0-000-06-05-1969@@@
-
 DECRETO Nº 64.464, DE 6 de maio DE 1969.
 
 Declara de utilidade pública a Casa de Portugal, com sede no Estado da Guanabara.

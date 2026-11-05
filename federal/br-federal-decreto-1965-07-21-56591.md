@@ -1,5 +1,3 @@
-###DEC-056591-0-000-21-07-1965@@@
-
 DECRETO Nº 56.591, DE 21 DE JULHO DE 1965.
 
 Autoriza a contratação de especialistas temporários pelo Ministério da Educação e Cultura.

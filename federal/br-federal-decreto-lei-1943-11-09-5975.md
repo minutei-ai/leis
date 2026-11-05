@@ -1,5 +1,3 @@
-###DEL-005975-0-000-09-11-1943@@@
-
 DECRETO‑LEI N. 5.975 – DE 9 DE NOVEMBRO DE 1943
 
 Estende aos diplomados pelo Curso de Educação Física do Departamento de Educação Física da Marinha, as regalias de licenciado em educação física

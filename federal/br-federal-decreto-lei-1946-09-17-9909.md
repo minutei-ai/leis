@@ -1,5 +1,3 @@
-###DEL-009909-0-000-17-09-1946@@@
-
 DECRETO-LEI N. 9.909 – DE 17 DE SETEMBRO DE 1946
 
 Dispõe sôbre os cargos de magistério da Prefeitura do Distrito Federal e sôbre a carreira de Técnico de Educação da mesma Prefeitura, e dá outras providências.

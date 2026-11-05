@@ -1,5 +1,3 @@
-###DEC-078606-0-000-21-10-1976@@@
-
 DECRETO Nº 78.606, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis, da Faculdade de Ciências Administrativas e Contábeis de Atibaia, com sede na cidade de Atibaia, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-076550-0-000-05-11-1975@@@
-
 decreto nº 76.550, de 5 de novembro de 1975.
 
 Concede Indulto, comuta penas e dá outras providências.

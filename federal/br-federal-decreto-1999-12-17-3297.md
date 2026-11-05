@@ -1,5 +1,3 @@
-###DEC-003297-0-000-17-12-1999@@@
-
 DECRETO Nº 3.297, DE 17 DE DEZEMBRO DE 1999.
 
 Regulamenta o art. 45 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre as consignações em folha de pagamento dos servidores públicos civis, dos aposentados e dos pensionistas da Administração direta, autárquica e fundacional do Poder Executivo da União, e dá outras providências.

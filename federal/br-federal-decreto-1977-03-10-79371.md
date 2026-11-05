@@ -1,5 +1,3 @@
-###DEC-079371-0-000-10-03-1977@@@
-
 DECRETO Nº 79.371, DE 10 DE MARÇO DE 1977.
 
 Outorga concessão à Rádio Uirapuru de Morada Nova Ltda. para estabelecer uma estação uma estação de radiodifusão sonora em onda médica de âmbito regional, na Cidade de Morada Nova, Estado do Ceará.

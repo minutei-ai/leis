@@ -1,5 +1,3 @@
-###MPV-001773-0-038-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.773-38, DE 2 DE JUNHO DE 1999.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outra providências.

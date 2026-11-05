@@ -1,5 +1,3 @@
-###DEC-000041-0-000-15-02-1991@@@
-
 DECRETO Nº 41, DE 15 DE FEVEREIRO DE 1991
 
 Dispõe sobre a execução do Décimo Quinto Protocolo Adicional ao Acordo de Complementação Econômica subscrito entre o Brasil e o Uruguai {Acordo nº 2).

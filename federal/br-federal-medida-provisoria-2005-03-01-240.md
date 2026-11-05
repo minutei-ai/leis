@@ -1,5 +1,3 @@
-###MPV-000240-0-000-01-03-2005@@@
-
 MEDIDA PROVISÓRIA Nº 240, DE 1º DE MARÇO DE 2005
 
 Dispõe sobre a aplicação dos arts. 5º, 6º, 7º e 8º da Medida Provisória nº 232, de 30 de dezembro de 2004.

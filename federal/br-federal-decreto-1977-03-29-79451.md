@@ -1,5 +1,3 @@
-###DEC-079451-0-000-29-03-1977@@@
-
 DECRETO nº 79.451, DE 29 DE MARÇO DE 1977.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade de Niterói, Estado do Rio de Janeiro.

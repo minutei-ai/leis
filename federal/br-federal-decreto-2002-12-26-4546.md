@@ -1,5 +1,3 @@
-###DEC-004546-0-000-26-12-2002@@@
-
 DECRETO N. 4.546 – DE 26 DE DEZEMBRO DE 2002
 
 Altera os Anexos IV, VI, VII e XII do Decreto no 4.120, de 7 de fevereiro de 2002, e dá outras providências.

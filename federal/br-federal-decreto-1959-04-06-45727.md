@@ -1,5 +1,3 @@
-###DEC-045727-0-000-06-04-1959@@@
-
 DECRETO Nº 45.727, DE 06 DE abril DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Monteiro de Carvalho a pesquisar areia quatzosa no município de Queluz, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004639-0-000-31-08-1942@@@
-
 DECRETO-LEI N. 4.639 – DE 31 DE AGOSTO DE 1942
 
 Faculta a prorrogação da duração normal do trabalho nas empresas que interessem à produção e à defesa nacional e dá outras providências

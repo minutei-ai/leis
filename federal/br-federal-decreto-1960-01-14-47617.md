@@ -1,5 +1,3 @@
-###DEC-047617-0-000-14-01-1960@@@
-
 DECRETO Nº 47.617, DE 14 DE JANEIRO DE 1960.
 
 Autoriza os Decretos ns. 46.904 e 46.912, respectivamente de 25 e 29 de setembro de 1959.

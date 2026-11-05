@@ -1,5 +1,3 @@
-###DEC-074253-0-000-04-07-1974@@@
-
 DECRETO Nº 74.253 - DE 4 DE JULHO DE 1974
 
 Dispõe sobre a requisição de pessoal do INPS e do IPASE para o Ministério do Trabalho.

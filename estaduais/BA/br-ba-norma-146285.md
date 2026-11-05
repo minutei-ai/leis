@@ -4,7 +4,8 @@ Institui o Código de Vigilância em Saúde do Estado.
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei, denominada Código de Vigilância em Saúde do Estado, estabelece normas de ordem pública e de interesse social para a promoção e proteção da saúde, para o controle e eliminação de riscos e para a prevenção de agravos e doenças no Estado, e dispõe sobre o Sistema Estadual de Vigilância em Saúde, a organização das ações e dos serviços de vigilância em saúde nas esferas estadual e municipal.
@@ -83,7 +84,8 @@ DAS DISPOSIÇÕES PRELIMINARES
 
 **IX -** Vigilância de Emergências em Saúde Pública: situação que demanda o emprego urgente de medidas de prevenção, controle e contenção de riscos, danos e agravos à saúde pública.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO SISTEMA ESTADUAL DE VIGILÂNCIA EM SAÚDE
 
 **Art. 8º** - O Sistema Estadual de Vigilância em Saúde é constituído por um conjunto de organizações, serviços e práticas de saúde que se organizam em rede com o objetivo de responder aos problemas e necessidades de saúde identificados no território, por meio de ações integradas de promoção e proteção da saúde, prevenção e controle das doenças e agravos.
@@ -224,7 +226,8 @@ DO SISTEMA ESTADUAL DE VIGILÂNCIA EM SAÚDE
 
 **Art. 13** - De modo a elevar o potencial de execução das atividades correspondentes aos seus limites de competência, os municípios podem constituir consórcios públicos intermunicipais ou interfederativos que possuam como objeto o desenvolvimento de ações de vigilância em saúde, autorizando a gestão associada, bem como a transferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dos serviços transferidos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA AUTORIDADE SANITÁRIA E DO PODER DE POLÍCIA
 
 **Art. 14** - Considera-se poder de polícia sanitária a atividade da administração pública que, limitando ou disciplinando direito, interesse ou liberdade, regula a prática de ato ou abstenção de fato, em razão de interesse público concernente à promoção, proteção e prevenção da saúde pública.
@@ -253,7 +256,8 @@ DA AUTORIDADE SANITÁRIA E DO PODER DE POLÍCIA
 
 **Art. 18** - Caberá ao Estado e Municípios, por meio de suas procuradorias jurídicas, prover a devida defesa relativa aos atos praticados pelos ocupantes de cargo ou função investidos de autoridade sanitária no exercício de suas atribuições.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA VIGILÂNCIA EPIDEMIOLÓGICA
 
 **Art. 19** - A vigilância epidemiológica tem como propósito fornecer orientação técnica permanente para os que possuem a responsabilidade de decidir sobre a execução das ações de controle de doenças e agravos.
@@ -282,7 +286,8 @@ DA VIGILÂNCIA EPIDEMIOLÓGICA
 
 **Art. 22** - As ações e serviços do sistema de vigilância epidemiológica em saúde, incluindo a rede laboratorial, devem estar formalmente integradas entre si e articuladas com outros órgãos estaduais e municipais e outras instituições públicas ou privadas, que utilizem meios diagnósticos que devem ser compartilhados, visando identificação e intervenção em situações de interesse da saúde pública de importância nacional e internacional e outras situações especiais, conforme regulamentação vigente.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Da Notificação de Doenças, Agravos e Outros Eventos Adversos à Saúde
 
 **Art. 23** - A Notificação é a comunicação da ocorrência de determinada doença, agravo ou evento adverso à saúde, feita à respectiva autoridade sanitária por profissionais de saúde ou qualquer cidadão, para fins de adoção de medidas de intervenção pertinentes.
@@ -319,7 +324,8 @@ Da Notificação de Doenças, Agravos e Outros Eventos Adversos à Saúde
 
 **Art. 27** - A SESAB deverá ordenar e monitorar o fluxo de informações da Rede Estadual de Vigilância Epidemiológica para o órgão federal competente, de acordo com a legislação vigente e o Regulamento Sanitário Internacional.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Investigação Epidemiológica e Medidas de Controle
 
 **Art. 28** - A investigação epidemiológica será realizada a partir de estudos de campo ou de casos suspeitos notificados clinicamente compatíveis, e de seus contatos, de rumores ou de denúncias, tendo como principais objetivos:
@@ -350,7 +356,8 @@ Da Investigação Epidemiológica e Medidas de Controle
 
 **Art. 32** - No curso da investigação epidemiológica, a autoridade sanitária local poderá adotar medidas restritivas podendo, inclusive, ser providenciada a interdição total ou parcial de estabelecimentos, centros de reunião ou diversão, escolas, creches e quaisquer locais abertos ao público durante o tempo necessário ao controle da situação, obedecida à legislação pertinente.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Do Manejo Ambiental de Fatores Biológicos, Controle de Vetores e Zoonoses
 
 **Art. 33** - A autoridade sanitária estadual ou municipal coordenará, nas respectivas esferas de gestão, as ações de manejo ambiental para controle de vetores, reservatórios, hospedeiros e outras fontes de infecção, em articulação com órgãos federais, estaduais e municipais competentes.
@@ -403,7 +410,8 @@ Do Manejo Ambiental de Fatores Biológicos, Controle de Vetores e Zoonoses
 
 **III -** coordenar as ações relativas ao sistema de monitoramento da resistência dos vetores aos inseticidas.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da Vacinação
 
 **Art. 40** - A SESAB, através da Coordenação Estadual do Programa de Imunizações, fará executar no âmbito estadual as vacinações de caráter obrigatório definidas no Programa Nacional de Imunizações.
@@ -424,7 +432,8 @@ Da Vacinação
 
 **Art. 45** - O Estado, através da SESAB, ouvido o Ministério da Saúde, poderá sugerir medidas legislativas complementares visando o cumprimento das vacinações obrigatórias por parte da população no âmbito do seu território.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Das Informações De Interesse à Vigilância em Saúde
 
 **Art. 46** - A Rede Estadual de Vigilância Epidemiológica deverá coletar, analisar e divulgar informações e estatísticas de saúde de interesse para a Vigilância da Saúde, mediante articulação entre a SESAB, Secretarias Municipais de Saúde e demais órgãos e instâncias da Rede Estadual de Informações em Saúde.
@@ -433,7 +442,8 @@ Das Informações De Interesse à Vigilância em Saúde
 
 **Art. 47** - Os estabelecimentos de atenção e assistência e demais estabelecimentos e atividades produtivas de interesse à saúde, bem como os respectivos profissionais de saúde, deverão, quando solicitados, remeter regular e sistematicamente os dados e informações necessários à elaboração de estatísticas de saúde, além das informações, depoimentos e relatórios técnicos de importância para a Vigilância da Saúde.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Das Declarações de Óbito e de Nascido Vivo
 
 **Art. 48** - A Declaração de Óbito é documento indispensável para a obtenção da guia de sepultamento e da certidão de óbito, fornecida pelo cartório de Registro Civil para o enterro, e deverá ser preenchida pelo médico assistente em impresso especialmente destinado a esse fim, devendo as vias serem remetidas para as instâncias determinadas, de acordo com procedimento estabelecido em regulamentação específica.
@@ -450,14 +460,16 @@ Das Declarações de Óbito e de Nascido Vivo
 
 **§ 2**º - Os Cartórios de Registro Civil ficam obrigados a remeter cópias das Declarações de Nascido Vivo neles registradas à Secretaria da Saúde, de acordo com a legislação vigente.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Inumações, Exumações, Transladações e Cremações
 
 **Art. 52** - As inumações, exumações, transladações e cremações obedecerão às condições sanitárias e normas técnicas editadas pela SESAB e Secretarias Municipais de Saúde.
 
 **Art. 53** - O sepultamento de cadáveres de pessoas e animais vitimados por doenças, agravos e outros eventos sob vigilância, somente poderá ser feito com observância e adoção das intervenções pertinentes, podendo a autoridade sanitária exigir a necropsia para determinar a causa da morte.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA VERIFICAÇÃO DE ÓBITO
 
 **Art. 54** - O Sistema Estadual de Vigilância em Saúde contará com a Rede de Serviços de Verificação de Óbito regionalizada e integrada às demais áreas da Vigilância em Saúde e serviços afins.
@@ -514,7 +526,8 @@ DA VERIFICAÇÃO DE ÓBITO
 
 **Parágrafo único -** Nos casos previstos no _caput_ do presente artigo, deverá constar no atestado a informação de que a morte ocorreu sem assistência médica.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA VIGILÂNCIA LABORATORIAL
 
 **Art. 61** - A Vigilância Laboratorial consiste no conjunto de ações transversais aos demais sistemas de Vigilância em Saúde, que propiciam o conhecimento e investigação diagnóstica de agravos e verificação da qualidade de produtos de interesse da saúde, mediante estudos, pesquisas e análises de ensaios relacionados aos riscos epidemiológicos, sanitários, ambientais e da saúde do trabalhador e da trabalhadora.
@@ -543,7 +556,8 @@ DA VIGILÂNCIA LABORATORIAL
 
 **Art. 64** - Compete à direção estadual do SUS, em caráter suplementar à Legislação Federal, estabelecer normas técnicas para a vigilância laboratorial, podendo, na ausência das referidas normas, adotar outras normas, preceitos e recomendações de instituições nacionais e internacionais referendadas.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DA VIGILÂNCIA DA SAÚDE DO TRABALHADOR
 
 **Art. 65** - A Vigilância da Saúde do Trabalhador e da Trabalhadora compreende:
@@ -676,7 +690,8 @@ DA VIGILÂNCIA DA SAÚDE DO TRABALHADOR
 
 **Art. 75** - Compete à autoridade sanitária, no desempenho de suas funções, exigir do(a) empregador(a) a adoção de medidas de correção nos ambientes de trabalho, de acordo com as normas aplicáveis ao caso, nos aspectos relacionados ao seu âmbito de competência.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA VIGILÂNCIA SANITÁRIA
 
 **Art. 76** - São atribuições da autoridade sanitária, no exercício de suas funções da Vigilância Sanitária:
@@ -697,7 +712,8 @@ DA VIGILÂNCIA SANITÁRIA
 
 **VIII -** apoiar tecnicamente os municípios no desenvolvimento das ações de Vigilância Sanitária.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Competências e Atribuições das Equipes da Vigilância Sanitária
 
 **Art. 77** - Consideram-se como controle sanitário as ações desenvolvidas pelas autoridades sanitárias com vistas à verificação das condições para o licenciamento e funcionamento dos estabelecimentos de saúde e de interesse à saúde, à aprovação de projetos arquitetônicos (quando aplicável), à investigação de eventos adversos, queixas técnicas e surtos, ao monitoramento da qualidade dos produtos para saúde e de interesse à saúde, apuração das denúncias, abrangendo:
@@ -752,7 +768,8 @@ Das Competências e Atribuições das Equipes da Vigilância Sanitária
 
 **Parágrafo único -** Sem prejuízo do disposto neste artigo, submetem-se ao regime de vigilância sanitária as instalações físicas, equipamentos, tecnologias, ambientes e procedimentos envolvidos em todas as fases dos processos de produção dos bens e produtos submetidos ao controle e fiscalização sanitária, incluindo a destinação dos respectivos resíduos.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Do Licenciamento Sanitário
 
 **Art. 79** - O Alvará Sanitário é o documento emitido pelo órgão de Vigilância Sanitária que habilita a operação de atividade(s) específica(s) sujeita(s) à sua fiscalização.
@@ -827,10 +844,12 @@ Do Licenciamento Sanitário
 
 **Parágrafo único -** A suspensão do Alvará Sanitário determina a imediata interdição do estabelecimento até a regularização das pendências sanitárias descritas nos incisos I a IV do _caput_ deste artigo.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DA FISCALIZAÇÃO SANITÁRIA
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Atividades Relacionadas a Produtos de Interesse à Saúde
 
 **Art. 88** - O controle sanitário a que estão sujeitos os produtos de interesse da saúde compreendem todas as etapas e processos, desde a sua produção até sua utilização ou consumo.
@@ -869,7 +888,8 @@ Das Atividades Relacionadas a Produtos de Interesse à Saúde
 
 **Art. 98** - O uso das técnicas de engenharia genética na construção, cultivo, manipulação, transporte, comercialização, consumo, liberação e descarte de Organismo Geneticamente Modificado - OGM, deverão observar as normas de segurança e os mecanismos de fiscalização vigente visando proteger a vida e a saúde do homem, dos animais e das plantas, bem como o meio ambiente.
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Dos Medicamentos
 
 **Art. 99** - A vigilância sanitária de medicamentos será realizada nos estabelecimentos em que sejam realizadas as atividades de produção/industrialização, manipulação, beneficiamento, fracionamento, embalagem, armazenamento, dispensação, comercialização, utilização, consumo e transporte de medicamentos e insumos.
@@ -922,7 +942,8 @@ Dos Medicamentos
 
 **§ 2**º - Fica terminantemente proibida aos postos de medicamentos a comercialização de entorpecentes, de psicotrópicos e antimicrobianos.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Dos Saneantes, dos Cosméticos, dos Produtos de Higiene Pessoal e Perfumes
 
 **Art. 110** - A vigilância sanitária de saneantes, cosméticos, produtos de higiene pessoal e perfumes será realizada nos estabelecimentos em que sejam realizadas as atividades de produção/industrialização, manipulação, beneficiamento, fracionamento, embalagem, armazenamento, comercialização, utilização, consumo e transporte.
@@ -947,14 +968,16 @@ Dos Saneantes, dos Cosméticos, dos Produtos de Higiene Pessoal e Perfumes
 
 **Art. 115** - As empresas aplicadoras de saneantes domissanitários deverão possuir equipamentos e instalações adequados, incluindo EPI para seus trabalhadores, utilizar produtos devidamente regularizado pela Agência Nacional de Vigilância Sanitária - ANVISA e seguir as instruções constantes nas embalagens dos produtos.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Dos Produtos para a Saúde
 
 **Art. 116** - A vigilância sanitária de produtos para saúde será realizada nos estabelecimentos em que sejam realizadas as atividades de produção/industrialização, beneficiamento, fracionamento, embalagem, armazenamento, comercialização, utilização e transporte.
 
 **Art. 117** - Os estabelecimentos que produzam, beneficiem, fracionem, embalem, armazenem, comercializem, utilizem e transportem artigos cirúrgicos, ortopédicos, fisioterápicos e odontológicos, dentre outros, deverão possuir instalações adequadas, a critério da autoridade sanitária competente, atendendo às boas práticas dispostas em legislação específica.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Dos Estabelecimentos que Industrializam ou Comercializam Lentes Oftálmicas
 
 **Art. 118** - Os estabelecimentos que industrializem ou comercializem lentes oftálmicas, somente poderão funcionar, depois de devidamente licenciados e sob a responsabilidade de um técnico legalmente habilitado.
@@ -985,7 +1008,8 @@ Dos Estabelecimentos que Industrializam ou Comercializam Lentes Oftálmicas
 
 **Art. 123** - Nenhum médico da localidade onde exercer a clínica, nem o respectivo cônjuge, poderá possuir ou ter sociedade para explorar o comércio de óticas.
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 Dos Alimentos
 
 **Art. 124** - A Vigilância Sanitária Estadual planejará e coordenará, no Estado, os meios de controle higiênico da alimentação, visando a obtenção e o consumo de alimentos que satisfaçam aos requisitos sanitários.
@@ -1070,10 +1094,12 @@ Dos Alimentos
 
 **Art. 141** - As águas minerais, águas adicionadas de sais e naturais de fonte devem ser captadas, processadas, envasadas, armazenadas, transportadas, comercializadas, conforme o disposto no Código de Águas e nas normas técnicas específicas.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Atividades Relacionadas à Prestação de Serviços de Saúde ou Equipamentos de Saúde
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Dos Serviços de Saúde
 
 **Art. 142** - Consideram-se serviços de saúde, empresas ou instituições públicas ou privadas ou de qualquer outra natureza jurídica, que tenham por finalidade promover e proteger a saúde, prevenir os agravos à saúde, recuperar e reabilitar a saúde, voltados para a atenção ambulatorial, seja de rotina ou de emergência, ou realizados em regime de internação, os serviços de apoio diagnóstico e terapêutico, outros serviços de assistência complementar à saúde, bem como aqueles que impliquem a incorporação de novas tecnologias, tais como hospitais, clínicas e consultórios de qualquer natureza, ambulatórios, laboratórios, serviços médico-odontológicos, serviços de diálise, radioterapia, quimioterapia, hemoterapia,  bancos de órgãos, de leite e congêneres, pronto atendimento de pacientes e postos de saúde, dentre outros.
@@ -1160,7 +1186,8 @@ Dos Serviços de Saúde
 
 **IV -** elaborar e implementar Plano de Gerenciamento de Resíduos de serviços de saúde.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Dos Bancos de Leite Humano
 
 **Art. 163** - O Banco de Leite Humano é um serviço especializado vinculado a um hospital de atenção materna ou infantil, responsável por ações de promoção, proteção e apoio ao aleitamento materno e execução de atividades de coleta da produção lática da nutriz, seleção, classificação, processamento, controle de qualidade e distribuição.
@@ -1185,7 +1212,8 @@ Dos Bancos de Leite Humano
 
 **§ 2**º - A ordenha e a coleta devem ser realizadas de forma a manter as características químicas, físico-químicas, imunológicas e microbiológicas do leite humano.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Da Terapia Nutricional Enteral, Parenteral e Lactários
 
 **Art. 170** - Para efeitos desta Lei, entende-se como Terapia Nutricional Enteral ou Parenteral aquela que complementa ou substitui a alimentação oral e é composta por alimentos com nutrientes controlados, especialmente formulados e elaborados para uso por sondas ou via oral, industrializados ou não, indicada para pessoas desnutridas ou não, que se encontrem em regime hospitalar, ambulatorial ou domiciliar e visa um estado nutricional adequado.
@@ -1218,7 +1246,8 @@ Da Terapia Nutricional Enteral, Parenteral e Lactários
 
 **Art. 174** - A ocorrência de acidentes em Terapia Nutricional Parenteral está sujeita a sanções aplicadas pela Vigilância Sanitária e qualificadas através de Processo Administrativo Sanitário, sem prejuízo das ações legais resultantes de sua responsabilidade criminal e administrativa, inclusive as disposições previstas no Código de Defesa do Consumidor - Lei Federal nº 8.078, de 11 de setembro de 1990, ou normativo que venha a substituir.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Dos Serviços de Saúde Móveis
 
 **Art. 175** - A vigilância sanitária de serviços de saúde móveis será realizada em todos os serviços de saúde móveis no Estado, sejam eles públicos e privados, filantrópicos, civis ou militares, incluindo aqueles que exercem ações de ensino e pesquisa.
@@ -1239,7 +1268,8 @@ Dos Serviços de Saúde Móveis
 
 **Art. 182** - As instalações de água, esgoto, energia elétrica, gases medicinais, climatização, proteção e combate a incêndio, comunicação e outras existentes, devem estar adequadas ao tipo de assistência prestada.
 
-SUBSEÇÃO V<br>
+SUBSEÇÃO V
+
 Dos Laboratórios de Prótese Dentária
 
 **Art. 183** - Os estabelecimentos que confeccionem prótese dentária, somente poderão funcionar depois de devidamente licenciados e sob a responsabilidade de um técnico legalmente habilitado, junto ao conselho de classe.
@@ -1270,7 +1300,8 @@ Dos Laboratórios de Prótese Dentária
 
 **Art. 189** - Os laboratórios de próteses odontológicas poderão funcionar anexos aos serviços odontológicos, desde que haja separação por parede ou divisória até o teto.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Vigilância dos Serviços de Interesse à Saúde
 
 **Art. 190** - Consideram-se serviços ou estabelecimentos de interesse à saúde, o local, a empresa, a instituição, ou a atividade exercida por pessoa física, jurídica ou de qualquer outra natureza jurídica, que pelas características dos produtos ou serviços ofertados impliquem em risco à saúde da população e à preservação do meio ambiente, tais como:
@@ -1319,7 +1350,8 @@ Da Vigilância dos Serviços de Interesse à Saúde
 
 **Art. 194** - Os serviços que transportam, manipulam e empregam substâncias nocivas ou perigosas à saúde afixarão avisos ou cartazes nos locais expostos a risco, contendo advertências, informações sobre cuidados a serem tomados e o símbolo de perigo ou risco correspondente, segundo a padronização internacional.
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Dos Serviços Veterinários
 
 **Art. 195** - Os serviços médicos veterinários incluem os hospitais, clínicas e consultórios veterinários, bem como os estabelecimentos de pensão e adestramento, destinados ao atendimento a animais, devem seguir as normas federais e estaduais vigentes e as normas do Conselho de Medicina Veterinária.
@@ -1338,7 +1370,8 @@ Dos Serviços Veterinários
 
 **Art. 201** - Os cadáveres de animais com suspeita ou diagnóstico de zoonoses atenderão aos preceitos de segurança nas formas definidas em normas técnicas especiais vigentes.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Das Habitações, dos Estabelecimentos e das Áreas e Locais de Cultura, Lazer, Diversões e Congêneres
 
 **Art. 202** - Os proprietários e responsáveis por áreas e estabelecimentos culturais, de diversão e lazer previstos nesta Lei, e outros congêneres, devem observar os preceitos higiênico-sanitários, bem como a qualidade e segurança da construção e dos equipamentos.
@@ -1363,7 +1396,8 @@ Das Habitações, dos Estabelecimentos e das Áreas e Locais de Cultura, Lazer, 
 
 **Parágrafo único -** Os estabelecimentos que exibam filmes em terceira dimensão são obrigados a apresentar Procedimento Operacional Padrão - POP de higienização dos óculos e acessórios reutilizáveis.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Da Fiscalização dos Eventos de Massa
 
 **Art. 206** - Consideram-se eventos de massa aquelas atividades coletivas de natureza cultural, esportiva, comercial, religiosa, social ou política, por tempo pré-determinado, com concentração ou fluxo excepcional de pessoas, de origem nacional ou internacional, onde há risco aumentado para transmissão de doenças infecciosas e de surtos, ou agravos à saúde, sendo necessária a atuação coordenada de órgãos de saúde pública da gestão municipal, ou estadual, ou federal.
@@ -1386,7 +1420,8 @@ Da Fiscalização dos Eventos de Massa
 
 **V -** medidas de gerenciamento de risco relacionados ao uso ou consumo de produtos e serviços de interesse à saúde.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Dos Demais Estabelecimentos
 
 **Art. 210** - Os estabelecimentos tratados nesta seção atenderão as condições previstas nesta Lei, ou em outra específica em âmbito federal, estadual ou municipal, independente de suas peculiaridades, e têm as seguintes denominações gerais:
@@ -1453,10 +1488,12 @@ Dos Demais Estabelecimentos
 
 **Parágrafo único -** Todos os estabelecimentos integrantes da Administração Pública ou por elas instituídos estão obrigados ao cumprimento das normas de proteção à saúde e segurança dos trabalhadores e trabalhadoras e de prevenção de doenças e agravos relacionados ao trabalho, às normas de prevenção de doenças, eventos e agravos de interesse à saúde pública e demais recomendações das autoridades sanitárias.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DA VIGILÂNCIA EM SAÚDE AMBIENTAL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Disposições Gerais
 
 **Art. 217** - A Vigilância em Saúde Ambiental consiste no conjunto de ações que propiciam o conhecimento e a detecção de mudanças nos fatores determinantes e condicionantes do meio ambiente que interferem na saúde humana, com a finalidade de identificar as medidas de prevenção e controle dos fatores de risco ambientais relacionados às doenças ou a outros agravos à saúde, em especial:
@@ -1475,7 +1512,8 @@ Das Disposições Gerais
 
 **Art. 218** - A Vigilância em Saúde Ambiental atuará em articulação com outros órgãos e instituições governamentais nas ações de proteção do ambiente.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Da Proteção da Saúde e Prevenção de Doenças e Agravos Provenientes dos Riscos Advindos do Meio Ambiente
 
 **Art. 219** - A Vigilância em Saúde Ambiental atuará no sentido de proteger a saúde e prevenir os agravos à saúde humana provocadas pela contaminação ou degradação ambiental, observadas a legislação e normas técnicas em vigor.
@@ -1498,43 +1536,50 @@ Da Proteção da Saúde e Prevenção de Doenças e Agravos Provenientes dos Ris
 
 **VI -** contribuir para a formulação de políticas públicas nacionais, estaduais e municipais de proteção à saúde da população frente aos riscos decorrentes da exposição aos contaminantes ambientais.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Vigilância em Saúde Ambiental da Qualidade da Água para Consumo Humano
 
 **Art. 221** - A Vigilância em Saúde Ambiental relacionada à qualidade da água para consumo humano consiste no conjunto de ações adotadas continuamente pelas autoridades de saúde pública, para garantir que a água consumida pela população, atenda ao padrão e às normas estabelecidas na legislação vigente, a partir da avaliação dos riscos que a água de consumo pode representar para a saúde humana.
 
 **Art. 222** - A Vigilância da Qualidade da Água atenderá à norma federal e demais normativos complementares.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da Vigilância em Saúde Ambiental de Populações Expostas a Contaminantes Químicos
 
 **Art. 223** - A Vigilância em Saúde Ambiental relacionada a populações expostas a contaminantes químicos refere-se ao conjunto de ações voltadas aos riscos de exposição a solos, ar, água e alimentos contaminados visando ao conhecimento, à detecção de mudanças nos fatores determinantes e condicionantes do meio ambiente que possam produzir efeitos na saúde humana, com a finalidade de adotar medidas de promoção da saúde.
 
 **Art. 224** - A Vigilância de Populações Expostas a Contaminantes Químicos atenderá à norma federal e demais normativas complementares.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 Da Vigilância de Populações Expostas aos Desastres Naturais e Tecnológicos
 
 **Art. 225** - No que se refere à Vigilância em Saúde Ambiental de Populações Expostas aos Riscos Decorrentes de Desastres Naturais e Tecnológicos, caberá ao Estado e aos Municípios promoverem ações de mitigação, prevenção, preparação e resposta aos cenários de desastres, resultantes de exposição da população aos riscos à saúde, em articulação intrasetorial e demais órgãos que atuam em cenários multirriscos.
 
 **Art. 226** - A Vigilância em Saúde Ambiental atuará de forma articulada com instituições e órgãos que atuam na mitigação, prevenção, preparação e resposta às emergências em saúde pública oriunda de desastres naturais e tecnológicos atendendo a normas federais e demais normativas complementares.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 Dos Contaminantes Ambientais e Substâncias Químicas
 
 **Art. 227** - Caberá ao Estado e aos Municípios, no que se refere às ações de Vigilância em Saúde Ambiental de contaminantes ambientais e substâncias químicas, identificar, caracterizar, monitorar as populações expostas, estabelecer normas e implementar políticas que resultem na segurança química individual e coletiva.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 Dos Efeitos dos Fatores Físicos
 
 **Art. 228** - Caberá ao Estado e aos Municípios, no que se refere à Vigilância em Saúde Ambiental relacionada aos efeitos dos fatores físicos, atuar considerando a gestão do risco sanitário adotando uma postura de promoção e proteção da saúde humana diante das diversas situações que resultem na emissão de radiações eletromagnéticas.
 
-SEÇÃO VIII<br>
+SEÇÃO VIII
+
 Da Avaliação de Impacto à Saúde Provocada por Empreendimentos
 
 **Art. 229** - A Vigilância em Saúde Ambiental poderá se manifestar quanto ao planejamento, implantação e operação de empreendimentos sujeitos ao licenciamento ambiental, que possam interferir na saúde humana.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DA VIGILÂNCIA DE EMERGÊNCIAS EM SAÚDE PÚBLICA
 
 **Art. 230** - Por meio dos seus Centros de Informações Estratégicas em Vigilância em Saúde - CIEVS, a SESAB e as Secretarias Municipais de Saúde devem atuar na preparação, detecção, monitoramento e resposta a emergências em saúde públicas no âmbito dos seus respectivos territórios, observando o Regulamento Sanitário Internacional.
@@ -1561,10 +1606,12 @@ DA VIGILÂNCIA DE EMERGÊNCIAS EM SAÚDE PÚBLICA
 
 **VIII -** monitorar e avaliar os indicadores da vigilância epidemiológica em âmbito hospitalar.
 
-CAPÍTULO XII<br>
+CAPÍTULO XII
+
 DO PROCESSO ADMINISTRATIVO SANITÁRIO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Das Definições
 
 **Art. 233** - Para efeito deste Código e demais normas que se relacionem com o rito do Processo Administrativo Sanitário, serão utilizadas as seguintes definições:
@@ -1631,7 +1678,8 @@ Das Definições
 
 **XXXI -** inspeção sanitária: conjunto de procedimentos técnicos e administrativos que visa a proteção da saúde individual e coletiva, por meio da verificação in loco, realizada preferencialmente com aviso prévio, quanto ao cumprimento dos marcos legal e regulatório sanitários relacionados às atividades desenvolvidas e às condições sanitárias de estabelecimentos, processos e produtos.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Infrações Sanitárias
 
 **Art. 234** - Constituem infrações sanitárias todos os atos ou omissões praticadas em desacordo com este Código e demais disposições legais ou regulamentares pertinentes.
@@ -1902,12 +1950,14 @@ Das Infrações Sanitárias
 
 **a)** pena: advertência, apreensão, inutilização do produto, interdição parcial ou total, suspensão da venda e/ou de fabricação do produto, cancelamento do registro do produto, ou autorização para funcionamento da empresa, cassação da licença, proibição de propaganda ou multa.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Das Normas Gerais
 
 **Art. 236** - O Processo Administrativo Sanitário, no âmbito do Estado, tem seu rito estabelecido pela presente Lei.
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Dos Direitos dos Administrados
 
 **Art. 237** - O administrado tem os seguintes direitos no âmbito do Processo Administrativo Sanitário, sem prejuízo de outros que lhe sejam assegurados:
@@ -1920,7 +1970,8 @@ Dos Direitos dos Administrados
 
 **IV -** fazer-se assistir, facultativamente, por advogado, salvo quando obrigatória a representação, por força de lei.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Dos Deveres dos Administrados
 
 **Art. 238** - São deveres do administrado perante a Administração, sem prejuízo de outros previstos em ato normativo:
@@ -1933,7 +1984,8 @@ Dos Deveres dos Administrados
 
 **IV -** prestar as informações que lhe forem solicitadas e colaborar para o esclarecimento dos fatos.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Das Penalidades Sanitárias
 
 **Art. 239** - O resultado da infração sanitária é imputável a quem lhe deu causa ou para ela concorreu.
@@ -2042,7 +2094,8 @@ Das Penalidades Sanitárias
 
 **d)** até R$250.000,00 (duzentos e cinquenta mil reais), para as empresas de grande porte;
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Da Notificação, Apreensão, Inutilização, Coleta de Amostra e Interdição Cautelar
 
 **Art. 245** - As Notificações, os Termos de Apreensão Cautelar, os Termos de Inutilização, os Termos de Coleta de Amostra, os Termos de Interdição Cautelar e os Termos de Desinterdição deverão ser impressos, numerados em série e preenchidos de forma clara e precisa, sem entrelinhas, rasuras ou emendas, em modelos impressos ou em formato digital, devendo ser assinados pela autoridade competente e pelo representante legal.
@@ -2205,10 +2258,12 @@ Da Notificação, Apreensão, Inutilização, Coleta de Amostra e Interdição C
 
 **§ 7**º - O termo de compromisso será publicado pelos órgãos competentes do Sistema Estadual de Vigilância em Saúde.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Do Rito do Processo Administrativo Sanitário
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 Do Início do Processo
 
 **Art. 261** - O processo administrativo de apuração de infrações sanitárias será instaurado por meio de lavratura de Auto de Infração.
@@ -2237,7 +2292,8 @@ Do Início do Processo
 
 **Parágrafo único -** O Autuado será considerado ciente da autuação a partir da juntada aos autos do comprovante de recebimento da carta pela via postal, e, em caso de citação editalícia, a partir da efetivação da publicação, nos termos do _caput_ deste artigo.
 
-SUBSEÇÃO II<br>
+SUBSEÇÃO II
+
 Da Defesa
 
 **Art. 264** - O autuado poderá oferecer defesa ou impugnação do Auto de Infração no prazo de 15 (quinze) dias contados da ciência do auto, podendo, ainda, fazer uso de qualquer tipo de prova em direito admitido e ser assistido ou representado por advogado devidamente habilitado.
@@ -2256,7 +2312,8 @@ Da Defesa
 
 **V -** data e assinatura do requerente ou de seu representante.
 
-SUBSEÇÃO III<br>
+SUBSEÇÃO III
+
 Do Julgamento e Imposição de Penalidades
 
 **Art. 265** - Apresentada ou não a defesa ou impugnação, o Auto de Infração deverá ser julgado, de forma motivada, pela autoridade sanitária competente.
@@ -2315,7 +2372,8 @@ Do Julgamento e Imposição de Penalidades
 
 **§ 3**º - O procedimento indicado no § 2º deste artigo deverá ser devidamente anotado no Processo Administrativo Sanitário respectivo.
 
-SUBSEÇÃO IV<br>
+SUBSEÇÃO IV
+
 Do Recurso e da Revisão
 
 **Art. 271** - O autuado poderá, no prazo de 15 (quinze) dias a contar da ciência da decisão que lhe impôs a penalidade, recorrer, mediante requerimento à autoridade julgadora de primeira instância, que, não revendo o posicionamento original, deverá encaminhar o recurso, devidamente instruído, à autoridade julgadora de segunda instância.
@@ -2338,7 +2396,8 @@ Do Recurso e da Revisão
 
 **Parágrafo único -** Da revisão do processo não poderá resultar agravamento da sanção.
 
-CAPÍTULO XIII<br>
+CAPÍTULO XIII
+
 MEDIDAS PARA ENFRENTAMENTO DE EMERGÊNCIAS EM SAÚDE PÚBLICA DE IMPORTÂNCIA NACIONAL OU INTERNACIONAL
 
 **Art. 276** - As medidas previstas no presente capítulo serão cabíveis apenas durante a vigência de ato normativo da esfera federal que institua uma Situação de Emergência de Saúde Pública de Importância Nacional ou Internacional.
@@ -2409,7 +2468,8 @@ MEDIDAS PARA ENFRENTAMENTO DE EMERGÊNCIAS EM SAÚDE PÚBLICA DE IMPORTÂNCIA NA
 
 **Art. 279** - A SESAB editará os atos necessários à regulamentação e operacionalização do disposto neste Código.
 
-CAPÍTULO XIV<br>
+CAPÍTULO XIV
+
 DAS DISPOSIÇÕES GERAIS, FINAIS E TRANSITÓRIAS
 
 **Art. 280** - A SESAB deverá elaborar modelos ou formulários padronizados para assuntos relacionados ao Processo Administrativo Sanitário.

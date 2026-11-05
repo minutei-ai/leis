@@ -1,5 +1,3 @@
-###DEC-004296-0-000-10-07-2002@@@
-
 DECRETO Nº 4.296, DE 10 DE JULHO DE 2002
 
 Disciplina a não-incidência da Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira (CPMF) nas hipóteses de que trata o art. 85 do Ato das Disposições Constitucionais Transitórias.

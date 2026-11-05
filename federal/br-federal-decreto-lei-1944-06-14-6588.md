@@ -1,5 +1,3 @@
-###DEL-006588-0-000-14-06-1944@@@
-
 DECRETO-LEI N. 6.588 – DE 14 DE JUNHO DE 1944
 
 Dispõe sôbre a não realização, em 1944, da sexta sessão ordinária dos Conselhos Nacionais de Geografia e de Estatística

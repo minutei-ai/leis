@@ -1,5 +1,3 @@
-###DEC-094878-0-000-16-09-1987@@@
-
 DECRETO N° 94.878, DE 16 DE SETEMBRO DE 1987
 
 Autoriza os aumentos dos capitais autorizado e social da Companhia Nacional de Álcalis.

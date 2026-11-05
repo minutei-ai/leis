@@ -1,5 +1,3 @@
-###DEC-070663-0-000-31-05-1972@@@
-
 DECRETO Nº 70.663, DE 31 DE MAIO DE 1972.
 
 Redistribui, com o respectivo ocupante, para o Departamento Nacional de Estradas de Rodagem, cargo do Departamento Nacional de Obras Contra as Secas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-091571-0-000-23-08-1985@@@
-
 DECRETO nº 91.571, de 23 de agosto de 1985
 
 Renova as concessões outorgadas às entidades que menciona para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

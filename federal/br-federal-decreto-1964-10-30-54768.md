@@ -1,5 +1,3 @@
-###DEC-054768-0-000-30-10-1964@@@
-
 DECRETO Nº 54.768, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Sinézio Borges a pesquisar argila no município de Poços de Caldas - Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-004528-0-000-29-07-1942@@@
-
 DECRETO-LEI N. 4.528 – DE 29 DE JULHO DE 1942
 
 Transfere dotação orçamentária do Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEC-060303-0-000-06-03-1967@@@
-
 Decreto nº 60.303, de 6 de março de 1967.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Aeronáutica.

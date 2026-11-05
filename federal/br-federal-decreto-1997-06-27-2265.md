@@ -1,5 +1,3 @@
-###DEC-002265-0-000-27-06-1997@@@
-
 DECRETO Nº 2.265, DE 27 DE JUNHO DE 1997
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 1.998, de 3 de setembro de 1996.

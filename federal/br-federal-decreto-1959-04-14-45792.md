@@ -1,5 +1,3 @@
-###DEC-045792-0-000-14-04-1959@@@
-
 DECRETO Nº 45.792, DE 14 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro José Tiradentes de Lima a pesquisar areias ilmeníticas no município de Brejo Grande, Estado de Sergipe.

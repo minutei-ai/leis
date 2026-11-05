@@ -1,5 +1,3 @@
-###DEL-005382-0-000-07-04-1943@@@
-
 DECRETO‑LEI N. 5.382 – DE 7 DE ABRIL DE 1943
 
 Abre, ao Ministério da Educação e Saude o crédito especial de Cr. 1.333,30, para pagamento de gratificação do magistério

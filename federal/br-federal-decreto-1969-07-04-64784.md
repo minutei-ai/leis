@@ -1,5 +1,3 @@
-###DEC-064784-0-000-04-07-1969@@@
-
 DECRETO Nº 64.784 - DE 4 DE JULHO DE 1969.
 
 Cria Representações da Diretoria do Ensino Secundário do Ministério da Educação e Cultura e revoga determinação do Decreto nº 64.117, de 14 de fevereiro de 1969.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212950)<br>
-
 # DECRETO N° 70.847, DE 09 DE SETEMBRO DE 2026
 
 ### _Coloca à disposição da Justiça Eleitoral servidores e dependências dos estabelecimentos da Rede Estadual de Ensino, com vistas ao pleito de 4 de outubro de 2026, em primeiro turno, e 25 de outubro de 2026, em segundo turno, se houver._

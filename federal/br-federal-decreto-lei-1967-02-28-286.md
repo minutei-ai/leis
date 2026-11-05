@@ -1,5 +1,3 @@
-###DEL-000286-0-000-28-02-1967@@@
-
 DeCRETO-LEI Nº 286, De 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a regularização de emissões ilegais de títulos, e dá outras providências.

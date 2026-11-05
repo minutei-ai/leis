@@ -1,7 +1,3 @@
-1
-
-###DEC-001238-0-000-12-09-1994@@@
-
 DECRETO N° 1.238, DE 12 DE SETEMBRO DE 1994
 
 Regulamenta o art. 60 da Lei n° 8.112, de 11 de dezembro de 1990, e dá outras providências.

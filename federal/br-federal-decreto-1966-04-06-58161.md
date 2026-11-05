@@ -1,5 +1,3 @@
-###DEC-058161-0-000-06-04-1966@@@
-
 DECRETO Nº 58.161, DE 6 DE ABRIL DE 1966.
 
 Declara de interêsse social para fins de desapropriação imóveis rurais situados no Município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

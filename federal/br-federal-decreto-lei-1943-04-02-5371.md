@@ -1,5 +1,3 @@
-###DEL-005371-0-000-02-04-1943@@@
-
 DECRETO‑LEI N. 5.371 – DE 2 DE ABRIL DE 1943
 
 Cria o Estabelecimento de Subsistência da 10ª Região Militar 

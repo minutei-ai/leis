@@ -1,5 +1,3 @@
-###DEC-058478-0-000-20-05-1966@@@
-
 Decreto nº 58.478, de 20 de maio de 1966.
 
 Retifica o Quadro de Pessoal do Ministério da Marinha.

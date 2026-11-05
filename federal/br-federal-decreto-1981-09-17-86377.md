@@ -1,5 +1,3 @@
-###DEC-086377-0-000-17-09-1981@@@
-
 DECRETO Nº 86.377, DE 17 DE SETEMBRO DE 1981
 
 Acresce parágrafo único ao artigo 2º do Decreto nº 83.937, de 6 de setembro de 1979.

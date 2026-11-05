@@ -1,5 +1,3 @@
-###DEC-067999-0-000-31-12-1970@@@
-
 DECRETO Nº 67.999, DE 31 DE DEZEMBRO de 1970.
 
 Retifica o art. 1º do Decreto número 63.300 de 27 de setembro de 1968.

@@ -1,5 +1,3 @@
-###DEL-004093-0-000-05-02-1942@@@
-
 DECRETO-LEI N. 4.093 – DE 5 DE FEVEREIRO DE 1942
 
 Dispõe sobre distribuição e emprego de créditos destinados à Administração do Território do Acre

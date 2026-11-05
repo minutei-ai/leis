@@ -1,5 +1,3 @@
-###DEC-053781-0-000-20-03-1964@@@
-
 DECRETO Nº 53.781, DE 20 DE MARÇO DE 1964.
 
 Revoga o parágrafo único do art. 3º do Decreto nº 53.403, de 10 de janeiro de 1964, e dá outras providências.

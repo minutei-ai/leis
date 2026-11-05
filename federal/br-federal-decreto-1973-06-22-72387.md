@@ -1,5 +1,3 @@
-###DEC-072387-0-000-22-06-1973@@@
-
 DECRETO Nº 72.387, DE 22 DE JUNHO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Comunicação, com o curso de Comunicação Social e do curso de Turismo, na Faculdade de Ciências Humanas, mantidas pela Associação de Ensino de Ribeirão Preto com sede na cidade de Ribeirão Preto, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-064562-0-000-21-05-1969@@@
-
 Decreto nº 64.562, de 21 de maio de 1969.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargo originário da Campanha Nacional de Navegação Costeira - Autárquia Federal, e dá outras providências.

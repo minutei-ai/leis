@@ -1,5 +1,3 @@
-###DEC-050497-0-000-25-04-1961@@@
-
 DECRETO Nº 50.497, DE 25 DE ABRIL DE 1961.
 
 Dispõe sôbre o regime de previdência e assistência aos servidores da Superintendência do Plano de Valorização Econômica da Amazônia.

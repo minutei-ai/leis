@@ -1,5 +1,3 @@
-###DEC-004523-0-000-17-12-2002@@@
-
 DECRETO N. 4.523 – DE 17 DE DEZEMBRO DE 2002
 
 Regulamenta o arrolamento de bens para interposição de recurso voluntário no processo administrativo de determinação e exigência de créditos tributários da União.

@@ -1,5 +1,3 @@
-###DEL-003224-0-000-30-04-1941@@@
-
 DECRETO-LEI n. 3.224 – DE 30 DE ABRIL DE 1941
 
 Autoriza o Presidente do Tribunal de Apelação do Distrito Federal a receber e gastar somas que menciona

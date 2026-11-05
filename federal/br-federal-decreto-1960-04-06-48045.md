@@ -1,5 +1,3 @@
-###DEC-048045-0-000-06-04-1960@@@
-
 DECRETO Nº 48.045, de 6 de abril de 1960.
 
 Autoriza a Emprêsa Sul Brasileira de Eletricidade S.A. a constituir hipoteca sôbre a sua Usina de Diesel Elétrica em favor do Banco Nacional do Desenvolvimento Econômico.
@@ -25,8 +23,6 @@ Rio de Janeiro, 6 de abril de 1960; 139º da Independência e 72º da República
 Juscelino Kubitschek
 
 Fernando Nóbrega
-
-###DEC-048045-0-000-06-04-1960@@@RET01+++
 
 Decreto nº 48.045, de 6 de abril de 1960.
 

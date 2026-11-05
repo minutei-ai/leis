@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53805)
-
 # LEI Nº 11.967, DE 10 DE JUNHO DE 2005
 
 ## ( PL 544/2004 - Marcelo Bueno)

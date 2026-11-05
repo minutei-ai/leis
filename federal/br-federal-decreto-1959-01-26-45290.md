@@ -1,5 +1,3 @@
-###DEC-045290-0-000-26-01-1959@@@
-
 Decreto nº 45.290, de 26 de janeiro de 1959.
 
 Autoriza a cidadã brasileira Alda Batista de Freitas a pesquisar mica no município de Resplendor, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-070477-0-000-04-05-1972@@@
-
 DECRETO Nº 70.477, DE 4 DE MAIO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas e Contábeis Tabajara- São Paulo- S.P.

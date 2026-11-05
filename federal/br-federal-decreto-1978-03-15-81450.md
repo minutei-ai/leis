@@ -1,5 +1,3 @@
-###DEC-081450-0-000-15-03-1978@@@
-
 DECRETO N° 81.450, DE 15 de MARÇO DE 1978.
 
 Declara perempta a concessão outorgada á Rádio Marajoara Ltda., posteriormente Rádio Marajoara S.A., para executar serviço de radiodifusão sonora em onda curta, na cidade de Belém, Estado do Pará.

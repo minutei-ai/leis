@@ -1,7 +1,3 @@
-1
-
-###DEC-098182-0-000-26-09-1989@@@
-
 # DECRETO Nº 98.182, DE 26 DE SETEMBRO DE 1989
 
 Dispõe sobre a criação de área de prote­ção ambiental no Estado de Minas Gerais, e dá outras providências.

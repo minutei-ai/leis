@@ -1,5 +1,3 @@
-###DEC-059440-0-000-28-10-1966@@@
-
 Decreto nº 59.440 de 28 de outubro de 1966
 
 Estabelece Proveniências para estudo de bases para concessão, no exercício financeiro de 1967, de reajustamento da remuneração dos servidores Públicos Civis e Militares da União.

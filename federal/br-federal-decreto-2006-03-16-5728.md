@@ -1,5 +1,3 @@
-###DEC-005728-0-000-16-03-2006@@@
-
 DECRETO Nº 5.728, DE 16 DE MARÇO DE 2006.
 
 Aprova alterações no Regulamento do Serviço Nacional de Aprendizagem Comercial - SENAC, de que trata o Decreto nº 61.843, de 5 de dezembro de 1967.

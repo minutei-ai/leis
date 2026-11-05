@@ -1,5 +1,3 @@
-###DEC-064337-0-000-10-04-1969@@@
-
 decreto nº 64.337, de 10 de abril 1969.
 
 Modifica a redação do Decreto nº 43.190, de 12 de fevereiro de 1958.

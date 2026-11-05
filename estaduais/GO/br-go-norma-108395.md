@@ -18,8 +18,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação e seus efeitos 
 
 Goiânia, 9 de janeiro de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-061176-0-000-18-08-1967@@@
-
 decreto nº 61.176, de 18 de agÔsto de 1967.
 
 Revoga o Decreto nº 60.351, de 10 de março de 1967, que outorgou à Companhia Paulista de Fôrça e Luz concessão para distribuir energia elétrica no Município de Ibiraci, no Estado de Minas Gerais, e ao mesmo tempo encampa concessão e bens e instalações vinculados aos referidos serviços.

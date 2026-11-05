@@ -1,5 +1,3 @@
-###DEC-045525-0-000-03-03-1959@@@
-
 DECRETO Nº 45.525, DE 3 DE MARÇO DE 1959.
 
 Outorga concessão à Rádio Difusão Sul Riograndense Limitada para instalar uma estação radiodifusora.

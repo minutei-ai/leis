@@ -1,5 +1,3 @@
-###DEC-076361-0-000-02-10-1975@@@
-
 DECRETO Nº 76.361, DE 2 DE OUTUBRO DE 1975.
 
 Outorga concessão à Rádio Oito de Setembo Ltda. para estabelecer uma estação de radiodifusão sonora em onda tropical, na Cidade de Descalvado, Estado de São Paulo.

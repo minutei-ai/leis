@@ -1,5 +1,3 @@
-###MPV-000259-0-000-21-07-2005@@@
-
 MEDIDA PROVISÓRIA Nº 259, DE 21 DE JULHO DE 2005.
 
        Altera a Lei no 10.683, de 28 de maio de 2003, que dispõe sobre a organização da Presidência da República e dos Ministérios, autoriza a prorrogação de contratos temporários firmados com fundamento no art. 23 da Lei no 10.667, de 14 de maio de 2003, altera o art. 4o da Lei no 8.745, de 9 de dezembro de 1993, e dá outras providências.
@@ -174,11 +172,7 @@ Parágrafo único.  São Ministros de Estado os titulares dos Ministérios, o C
 
 LUIZ INÁCIO LULA DA SILVA
 
-Dilma Rousseff
-
-Este texto não substitui o publicado no D.O.U. de 22.7.2005 e republicado no D.O.U de 25.7.2005
-
-REPUBLICAÇÃO
+Dilma RousseffREPUBLICAÇÃO
 
 MEDIDA PROVISÓRIA Nº 259, DE 21 DE JULHO DE 2005.
 

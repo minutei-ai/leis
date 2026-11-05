@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61448)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2006/compilacao-lei-12288-22.02.2006.html)
 
 # LEI Nº 12.288, DE 22 DE FEVEREIRO DE 2006
@@ -13,13 +12,10 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
-<br>
-
 #### CAPÍTULO I
 
 #### Das Disposições Preliminares
 
-<br>
 ~~Artigo 1º - As pessoas físicas ou jurídicas que utilizam ou tenham sob sua guarda transformadores, capacitores e demais equipamentos elétricos contendo PCBs, bem como óleos ou outros materiais contaminados por PCBs, ficam obrigadas a providenciar a sua eliminação progressiva até 2020, de acordo com os critérios estabelecidos nesta lei.~~
 
 **Artigo 1º -** As pessoas físicas ou jurídicas que utilizam ou tenham sob sua guarda transformadores, capacitores e demais equipamentos elétricos contendo PCBs, bem como óleos ou outros materiais contaminados por PCBs, ficam obrigadas a providenciar a sua eliminação progressiva até 2025, de acordo com os critérios estabelecidos nesta lei. (NR)
@@ -40,21 +36,20 @@ _\- Artigo 1º com redação dada pela [](https://www.al.sp.gov.br/norma/200460)
 
 **VI -** "Equipamentos elétricos isentos de PCBs" - transformadores, capacitores e outros equipamentos elétricos cujo líquido isolante contenha teores de PCBs inferiores ao limite de quantificação do método de ensaio, quando ensaiados conforme a ABNT NBR 13882.
 
-<br>
-
 #### CAPÍTULO II
 
 #### Dos Prazos
 
-<br>
 ~~Artigo 3º - A Destinação Final dos transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que se encontram em operação e instalados em logradouros públicos, tais como, metrô, hospitais, salas de espetáculos, estádios de futebol, bancos, prédios públicos, etc., deve ser processada o mais breve possível, não devendo ultrapassar o mês de dezembro de 2010.~~
 
 ~~Artigo 4º - Os Detentores de PCBs e seus resíduos, de transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que estejam fora de operação, mesmo permanecendo instalados no seu local de origem e/ou armazenados, deverão ter a sua Destinação Final até dezembro de 2008.~~
 
 ~~Artigo 5º - Os transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que forem desativados por atingirem o final da sua vida útil, ou por qualquer outro motivo, deverão ter a sua Destinação Final processada, no máximo, após 3 anos da data da sua desativação, não podendo ultrapassar dezembro de 2020.~~
 
-**Artigo 3º -** A Destinação Final dos transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que se encontram em operação e instalados em logradouros públicos, tais como, metrô, hospitais, salas de espetáculos, estádios de futebol, bancos, prédios públicos, etc., deve ser processada o mais breve possível, não devendo ultrapassar o mês de dezembro de 2028. (NR)<br>
-**Artigo 4º -** Os Detentores de PCBs e seus resíduos, de transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que estejam fora de operação, mesmo permanecendo instalados no seu local de origem e/ou armazenados, deverão ter a sua Destinação Final até dezembro de 2028. (NR)<br>
+**Artigo 3º -** A Destinação Final dos transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que se encontram em operação e instalados em logradouros públicos, tais como, metrô, hospitais, salas de espetáculos, estádios de futebol, bancos, prédios públicos, etc., deve ser processada o mais breve possível, não devendo ultrapassar o mês de dezembro de 2028. (NR)
+
+**Artigo 4º -** Os Detentores de PCBs e seus resíduos, de transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que estejam fora de operação, mesmo permanecendo instalados no seu local de origem e/ou armazenados, deverão ter a sua Destinação Final até dezembro de 2028. (NR)
+
 **Artigo 5º -** Os transformadores, capacitores e demais equipamentos elétricos contaminados com PCBs, que forem desativados por atingirem o final da sua vida útil, ou por qualquer outro motivo, deverão ter a sua Destinação Final processada, no máximo, após 3 (três) anos da data da sua desativação, não podendo ultrapassar o mês de dezembro de 2028. (NR)
 
 _\- Artigos 3º ao 5º com redação dada pela [](https://www.al.sp.gov.br/norma/200460)[Lei nº 17.432, de 18/10/2021](https://www.al.sp.gov.br/norma/200460)._
@@ -69,7 +64,6 @@ _\- Artigo 6º-A acrescentado pela [](https://www.al.sp.gov.br/norma/200460)[Lei
 
 #### Dos Inventários e da Programação de Eliminação
 
-<br>
 **Artigo 7º -** Os Detentores de PCBs deverão elaborar um inventário, a ser enviado ao órgão competente do Estado, num prazo máximo de 180 dias, a contar da publicação desta lei, juntamente com a programação de eliminação dos materiais inventariados, observados os prazos estabelecidos no Capítulo II.
 
 **I -** Os Detentores de transformadores e capacitores e demais equipamentos elétricos "selados" e não violados deverão elaborar um inventário dos mesmos, com os seguintes elementos:
@@ -122,7 +116,6 @@ _\- Artigo 6º-A acrescentado pela [](https://www.al.sp.gov.br/norma/200460)[Lei
 
 #### Da Destinação Final
 
-<br>
 **Artigo 11 -** Excepcionalmente para os transformadores originalmente fabricados com óleos isolantes "isentos de PCBs", que tiveram o seu óleo contaminado por PCBs, por qualquer motivo que seja, com teor de PCBs superior a 50mg/kg e inferior a 500mg/kg, segundo os critérios da Norma ABNT NBR 13882, a Destinação Final do óleo isolante deverá ser feita por incineração e ou descontaminação a valores inferiores a 50mg/kg.
 
 **Parágrafo único -** Os materiais sólidos, constituintes da carcaça e parte ativa, permeáveis e impermeáveis, somente estarão dispensados da Destinação Final de que trata esta Lei, se os mesmos apresentarem teor de PCBs inferior a 50mg/kg, quando analisado segundo os critérios da Norma ABNT NBR 13882, por laboratórios devidamente habilitados para este fim.
@@ -133,7 +126,6 @@ _\- Artigo 6º-A acrescentado pela [](https://www.al.sp.gov.br/norma/200460)[Lei
 
 #### Do Gerenciamento dos Passivos de PCBs
 
-<br>
 **Artigo 13 -** Após a entrega dos inventários de resíduos de que trata o Capítulo III, caberá ao órgão de controle ambiental estadual disponibilizar publicamente, sem a identificação dos Detentores dos Resíduos de PCBs, um inventário consolidado, com o objetivo de:
 
 **I -** permitir que as Empresas de Destinação Final de resíduos de PCBs possam adequar suas capacidades de processamento para que o prazo final de eliminação seja respeitado, e;
@@ -142,13 +134,9 @@ _\- Artigo 6º-A acrescentado pela [](https://www.al.sp.gov.br/norma/200460)[Lei
 
 **Artigo 14 -** Além da publicação de que trata o artigo 13, a cada período de renovação do inventário por parte dos Detentores de resíduos de PCBs, o órgão de controle ambiental do Estado promoverá, se necessário, ações corretivas para que o prazo final da eliminação dos resíduos de PCBs seja atendido.
 
-<br>
-
 #### CAPÍTULO VI
 
 #### Das Restrições e Proibições de Comércio de Equipamentos Elétricos e dos Serviços de Regeneração de Óleos Isolantes
-
-<br>
 
 **Artigo 15 -** Fica expressamente proibida a comercialização, para qualquer finalidade, de transformadores e capacitores elétricos não "selados", e os "selados" violados, sem a comprovação formal de que o óleo isolante contido nesses equipamentos não apresentam teor de PCBs superiores a 50mg/kg, quando analisado segundo os critérios da Norma ABNT NBR 13882, por laboratório devidamente habilitado para este fim.
 
@@ -168,13 +156,10 @@ _\- Artigo 6º-A acrescentado pela [](https://www.al.sp.gov.br/norma/200460)[Lei
 
 **§ 3º -** Excepcionalmente, o processo de regeneração de óleos isolantes com teor superior de PCBs a 50mg/kg, poderá ser realizado por empresas devidamente licenciadas pelo órgão de controle ambiental do Estado, que detenham, além do processo de regeneração, o de descontaminação, quer seja em instalações industriais fixas ou móveis, que garantam a devolução do óleo isolante ao seu cliente original e/ou a venda do mesmo, com teor de PCBs inferior a 50mg/kg, acompanhado de Nota Fiscal onde conste o nome e CNPJ do laboratório que determinou o teor de PCBs, com a respectiva data, nome e CRQ do analista.
 
-<br>
-
 #### CAPÍTULO VII
 
 #### Das Penalidades
 
-<br>
 **Artigo 19 -** As infrações às disposições desta lei, bem como de seu regulamento, sujeitarão a quem concorrer para a sua prática ou dela se beneficiar à pena de advertência ou multa, sem prejuízo das demais penalidades previstas na legislação em vigor, especialmente de crimes ambientais.
 
 **Artigo 20 -** Para efeito de aplicação das penalidades, as infrações classificam-se em três categorias:

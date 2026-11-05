@@ -1,5 +1,3 @@
-###DEC-055950-0-000-19-04-1965@@@
-
 DECRETO Nº 55.950, DE 19 DE ABRIL DE 1965.
 
 Declara de utilidade pública a Santa Casa de Caridade de Dom Pedrito, com sede em Dom Pedrito, Estado do Rio Grande do Sul.

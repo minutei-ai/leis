@@ -1,5 +1,3 @@
-###DEC-053744-0-000-18-03-1964@@@
-
 DECRETO Nº 53.744, DE 18 DE MARÇO DE 1964.
 
 Complementa o Decreto nº 52.687, de 14 de outubro de 1963.

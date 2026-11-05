@@ -1,5 +1,3 @@
-###DEC-056320-0-000-21-05-1965@@@
-
 DECRETO Nº 56.320, DE 21 DE MAIO DE 1965.
 
 Autoriza o cidadão brasileiro Tânus Féres de Andrade a pesquisar caulim, no município de Ubá, Estado de Minas Gerais.

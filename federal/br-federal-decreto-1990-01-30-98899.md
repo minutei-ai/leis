@@ -1,7 +1,3 @@
-1
-
-###DEC-098899-0-000-30-01-1990@@@
-
 DECRETO Nº 98.899, DE 30 DE JANEIRO DE 1990
 
 Dispõe sobre o aumento do capital social da Centrais Elétricas Brasileiras S.A. ELETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-074266-0-000-08-07-1974@@@
-
 DECRETO Nº 74.266 - DE 8 DE JULHO DE 1974.
 
 Atribui, indistintamente, ao posto de General-de-Divisão ou General-de-Brigada cargos privativos de um ou outro posto.

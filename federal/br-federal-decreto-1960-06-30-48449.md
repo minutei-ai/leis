@@ -1,5 +1,3 @@
-###DEC-048449-0-000-30-06-1960@@@
-
 decreto nº 48.449, de 30 de junho de 1960.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, em São Jerônimo, Estado do Rio Grande do Sul, necessários ao Ministério da Aeronáutica.

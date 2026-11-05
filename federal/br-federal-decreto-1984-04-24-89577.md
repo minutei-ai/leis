@@ -1,5 +1,3 @@
-###DEC-089577-0-000-24-04-1984@@@
-
 DeCreto nº 89.577, de 24 de ABRIL de 1984
 
 Autorizar o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

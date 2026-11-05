@@ -1,5 +1,3 @@
-###DEC-086990-0-000-08-03-1982@@@
-
 Decreto nº 86.990, de 08 de março de 1982
 
 Cria a Delegacia Regional do Trabalho no Estado de Rondônia.

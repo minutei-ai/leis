@@ -1,5 +1,3 @@
-###DEC-072009-0-000-27-03-1973@@@
-
 Decreto Nº 72.009, DE 27 DE MARÇO DE 1973.
 
 Concede permissão, em caráter permanente, à empresa Cartonifício Valinhos S. A., para funcionar aos domingos e nos dias feriados civis e religiosos.

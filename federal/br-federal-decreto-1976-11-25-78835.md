@@ -1,5 +1,3 @@
-###DEC-078835-0-000-25-11-1976@@@
-
 DECRETO Nº 78.835, DE 25 DE NOVEMBRO DE 1976
 
 Liquidação da Empresa de Reparos Navais - COSTEIRA S.A.

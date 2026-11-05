@@ -1,5 +1,3 @@
-###DEC-060523-0-000-31-03-1967@@@
-
 DECRETO Nº 60.523, DE 31 DE MARÇO DE 1967.
 
 Autoriza a Companhia Luz e Fôrça Santa Cruz a ampliar suas instalações hidrelétricas e dá outras providências.

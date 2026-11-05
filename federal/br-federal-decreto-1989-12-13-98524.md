@@ -1,5 +1,3 @@
-###DEC-098524-0-000-13-12-1989@@@
-
 DECRETO N° 98.524, DE 13 DE DEZEMBRO DE 1989
 
 Cria a Reserva Biológica de Pedra Talhada.

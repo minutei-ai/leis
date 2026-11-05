@@ -1,6 +1,10 @@
 > **LEI Nº 3.634, DE 04 DE JUNHO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a organização da Política de Assistência Social do Estado do Acre e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a organização da Política de Assistência Social do Estado do Acre e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**, 
 
@@ -88,7 +92,7 @@
 
 **Art. 6º** São princípios éticos para oferta da proteção socioassistencial no Sistema Único de Assistência Social – SUAS, tomam por referência os seguintes direitos socioassistenciais:
 
-**I** **\-** defesa incondicional da liberdade, da dignidade da pessoa humana, da privacidade, da cidadania, da integridade física, moral e psicológica e dos direitos socioassistenciais;
+**I\-** defesa incondicional da liberdade, da dignidade da pessoa humana, da privacidade, da cidadania, da integridade física, moral e psicológica e dos direitos socioassistenciais;
 
 **II** - defesa do protagonismo e da autonomia dos usuários e a recusa de práticas de caráter clientelista, vexatório ou com intuito de benesse ou ajuda;
 
@@ -163,8 +167,6 @@
 **I** - das situações de vulnerabilidades e riscos que incidem sobre famílias e indivíduos e dos eventos de violação de direitos em determinados territórios; e
 
 **II** - do tipo, volume, e padrões de qualidade ofertada pela rede socioassistencial.
-
-<br>
 
 **Art. 10.** A vigilância socioassistencial deve manter estreita interface com as áreas diretamente responsáveis pela oferta dos serviços socioassistencial a população na proteção social básica e especial, com vistas ao aprimoramento da gestão do SUAS no Estado.
 
@@ -984,5 +986,6 @@ n - aprovar a política estadual de assistência social, elaborada em consonânc
 
 Rio Branco-Acre, 04 de junho de 2020, 132º da República, 118º do Tratado de Petrópolis e 59º do Estado do Acre.
 
-**Gladson de Lima Cameli<br>
+**Gladson de Lima Cameli
+
 **Governador do Estado do Acre

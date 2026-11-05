@@ -1,5 +1,3 @@
-###DEC-057323-0-000-24-11-1965@@@
-
 DECRETO Nº 57.323, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia Estadual de Energia Elétrica do Estado do Rio Grande do Sul concessão para distribuir energia elétrica.

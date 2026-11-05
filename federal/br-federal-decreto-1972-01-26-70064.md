@@ -1,5 +1,3 @@
-###DEC-070064-0-000-26-01-1972@@@
-
 DECRETO Nº 70.064, DE 26 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento da Escola de Educação Física, em Mogi das Cruzes - SP

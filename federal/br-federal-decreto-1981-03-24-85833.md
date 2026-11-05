@@ -1,7 +1,3 @@
-1
-
-###DEC-085833-0-000-24-03-1981@@@
-
 DECRETO nº 85.833, de 24 de março de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da subestação Leão XIII, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

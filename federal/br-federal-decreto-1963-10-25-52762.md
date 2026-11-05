@@ -1,5 +1,3 @@
-###DEC-052762-0-000-25-10-1963@@@
-
 DECRETO Nº 52.762, DE 25 DE OUTUBRO DE 1963.
 
 Aprova alterações introduzidas nas Estatutos da Madepinho Seguradora S.A.
@@ -17,8 +15,6 @@ Brasília, 25 de outubro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Egydio Michaelsen
-
-###DEC-052762-0-000-25-10-1963@@@RET01+++
 
 DECRETO Nº 52.762, DE 25 DE OUTUBRO DE 1963.
 

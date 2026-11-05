@@ -1,5 +1,3 @@
-###DEC-084105-0-000-22-10-1979@@@
-
 Decreto nº 84.105, de 22 de outubro de 1979
 
 Dispõe sobre a Embaixada na República Democrática de São Tomé e Príncipe.

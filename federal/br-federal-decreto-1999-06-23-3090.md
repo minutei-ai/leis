@@ -1,5 +1,3 @@
-###DEC-003090-0-000-23-06-1999@@@
-
 decreto nº 3.090, de 23 de junho de 1999.
 
 Altera dispositivo do Decreto nº 2.246, de 6 de junho de 1997, e dá nova redação ao art. 1º do Decreto nº 1.967, de 29 de julho de 1996.

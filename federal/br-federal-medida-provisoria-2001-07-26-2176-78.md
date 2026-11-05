@@ -1,5 +1,3 @@
-###MPV-002176-0-078-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.176‑78, DE 26 DE JULHO DE 2001
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

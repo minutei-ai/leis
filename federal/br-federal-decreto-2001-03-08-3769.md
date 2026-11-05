@@ -1,5 +1,3 @@
-###DEC-003769-0-000-08-03-2001@@@
-
 DECRETO Nº 3.769, DE 8 DE MARÇO DE 2001
 
 Estabelece diretrizes para execução de projetos voltados para a área social e cria o Comitê de Gestão e Acompanhamento do Projeto Alvorada.

@@ -1,5 +1,3 @@
-###MPV-001747-0-005-13-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.747-5, DE 13 DE JANEIRO DE 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$7.556.000,00, para os fins que específica.

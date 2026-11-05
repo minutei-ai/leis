@@ -1,5 +1,3 @@
-###DEC-062483-0-000-29-03-1968@@@
-
 Decreto nº 62.483, de 29 de março de 1968.
 
 Dispõe sôbre a construção, manutenção e exploração de aeródromos públicos, pela União ou mediante concessão.

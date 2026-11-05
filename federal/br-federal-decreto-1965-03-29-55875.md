@@ -1,36 +1,34 @@
-###DEC-055875-0-000-29-03-1965@@@
+**DECRETO Nº 55.875, 29 DE MARÇO DE 1965.**
 
-<strong>DECRETO Nº 55.875, 29 DE MARÇO DE 1965.</strong>
+***Aprova o Regimento do Serviço de Estatística Demográfica, Moral e Política do Ministério da Justiça e Negócios Interiores.***
 
-<em><strong>Aprova o Regimento do Serviço de Estatística Demográfica, Moral e Política do Ministério da Justiça e Negócios Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Estatística Demográfica, Moral e Política do Ministério da Justiça e Negócios Interiores pelo respectivo Ministro de Estado, que com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Estatística Demográfica, Moral e Política do Ministério da Justiça e Negócios Interiores pelo respectivo Ministro de Estado, que com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 29 de março de 1965; 144º da Independência e 77º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Milton Soares Campos
 
-<strong>REGIMENTO DO SERVIÇO DE ESTATÍSTICA DEMOGRÁFICA, MORAL E POLÍTICA</strong>
+**REGIMENTO DO SERVIÇO DE ESTATÍSTICA DEMOGRÁFICA, MORAL E POLÍTICA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Estatística Moral e Política (S.E.D.M.P) subordinado administrativamente ao Ministério da Justiça e Negócios Interiores obediente à orientação técnica do Conselho Nacional de Estatística, constitui um dos órgãos executivos centrais do Instituto Brasileiro de Geografia e Estatística (I.B.G.E) e tem por finalidade levantar as estatísticas referentes as atividades demográficas, morais, administrativa e políticas, bem como promover, em publicações próprias ou por intermédio do Serviço de Documentação e do I.B.G.E., a divulgação dessas estatísticas.
+**Art**. 1º O Serviço de Estatística Moral e Política (S.E.D.M.P) subordinado administrativamente ao Ministério da Justiça e Negócios Interiores obediente à orientação técnica do Conselho Nacional de Estatística, constitui um dos órgãos executivos centrais do Instituto Brasileiro de Geografia e Estatística (I.B.G.E) e tem por finalidade levantar as estatísticas referentes as atividades demográficas, morais, administrativa e políticas, bem como promover, em publicações próprias ou por intermédio do Serviço de Documentação e do I.B.G.E., a divulgação dessas estatísticas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O S.E.D.M.P. compreende:
+**Art**. 2º O S.E.D.M.P. compreende:
 
 I - Seção de Estudos e Coordenação (SEC)
 
@@ -44,17 +42,17 @@ V - Seção de Apuração Mecânica (SAM)
 
 VI - Seção de Administração (SA)
 
-<strong>Art</strong>. 3º As Seções terão chefes e as Turmas encarregadas, designada na fôrma dêste Regimento.
+**Art**. 3º As Seções terão chefes e as Turmas encarregadas, designada na fôrma dêste Regimento.
 
-<strong>Art</strong>. 4º O Diretor terá três assistentes e um secretário designados na fôrma dêste Regimento.
+**Art**. 4º O Diretor terá três assistentes e um secretário designados na fôrma dêste Regimento.
 
-<strong>Art</strong>. 5º Os órgãos que integram o S.E.D.M.P, funcionaram perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os órgãos que integram o S.E.D.M.P, funcionaram perfeitamente coordenados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos Órgãos</em>
+*Da competência dos Órgãos*
 
-<strong>Art</strong>. 6º Compete à Seção de Estudos e Coordenação (SEC):
+**Art**. 6º Compete à Seção de Estudos e Coordenação (SEC):
 
 I - Através da Turma de Estudos e Análises:
 
@@ -90,7 +88,7 @@ III - Através da Turma de Documentação e Divulgação:
 
 5 - organizar e manter em dia a documentação informativa doutrinária técnica ou científica e colecionar cópias dos trabalhos elaborados pelo Serviço, recorte de jornais, publicações e quaisquer informações necessárias aos interêsses da repartição.
 
-<strong>Art</strong>. 7º Compete à Seção de Estatística Demográfica (SED)
+**Art**. 7º Compete à Seção de Estatística Demográfica (SED)
 
 I - Através da Turma de Registro Civil:
 
@@ -122,7 +120,7 @@ IV - Através da Turma de Estudo da População:
 
 4 - executar estudos e cálculos sôbre os assuntos específicos das estatísticas da população.
 
-<strong>Art</strong>. 8º Compete à Seção de Estatística Policial e Judiciária (SEPJ).
+**Art**. 8º Compete à Seção de Estatística Policial e Judiciária (SEPJ).
 
 I - Através da turma de Estatística Policial:
 
@@ -160,7 +158,7 @@ IV- Através da Turma de Cadastro:
 
 4 - organizar e manter em dia o cadastro de organizações policiais.
 
-<strong>Art</strong>. 9º Compete à Seção de Estatística Moral e Política (SEMP):
+**Art**. 9º Compete à Seção de Estatística Moral e Política (SEMP):
 
 I - Através da Turma de Estatística Religiosa:
 
@@ -188,7 +186,7 @@ III - Através da Turma de Estatística de Segurança Pública:
 
 4 - coletar, criticar e apurar as estatísticas sôbre a fiscalização de veículo pessoal e emissão de carteiras.
 
-<strong>Art</strong>. 10. Compete à Seção de Apuração Mecânica (SAM):
+**Art**. 10. Compete à Seção de Apuração Mecânica (SAM):
 
 I - Através da Turma de Codificação e Perfuração:
 
@@ -198,7 +196,7 @@ II - Através da Turma de Apuração:
 
 1 - apurar e totalizar, em impressos próprios, os elementos constantes dos cartões oriundos da Turma de Codificação e Perfuração.
 
-<strong>Art</strong>. 11. Compete à Seção de Administração:
+**Art**. 11. Compete à Seção de Administração:
 
 I - Através da Turma de Comunicação e Arquivo:
 
@@ -216,11 +214,11 @@ II - Através da Turma de Serviços Gerais:
 
 3 - manter intercâmbio com o Departamento de Administração do Ministério nos assuntos pertinentes as suas atividades, observando as normas e métodos de trabalhos prescritos pelo mesmo.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 12. Ao Diretor incumbe:
+**Art**. 12. Ao Diretor incumbe:
 
 I - orientar e coordenar as atividades do Serviço;
 
@@ -268,7 +266,7 @@ XXII - determinar a instauração de processo administrativo;
 
 XXIII - antecipar ou prorrogar o período normal de trabalho.
 
-<strong>Art</strong>. 13. Aos chefes de seção incumbe:
+**Art**. 13. Aos chefes de seção incumbe:
 
 I - dirigir e fiscalizar o trabalho da respectiva seção;
 
@@ -294,7 +292,7 @@ XI - aplicar penas disciplinares, inclusive a de suspensão de 15 dias aos seus 
 
 XII - velar pela disciplina e manutenção do silêncio nos recintos de trabalho.
 
-<strong>Art</strong>. 14. Aos chefes da S.E.C.,S.E.D.,S.E.M.P. e S.E.P.J. incumbe, além dos enumerados no artigo anterior:
+**Art**. 14. Aos chefes da S.E.C.,S.E.D.,S.E.M.P. e S.E.P.J. incumbe, além dos enumerados no artigo anterior:
 
 I - organizar, anualmente, o plano de trabalho da seção e submetê-lo à aprovação do Diretor;
 
@@ -308,7 +306,7 @@ V - organizar os originais da série especial de tabelas sistemáticas destinada
 
 VI - propor ao Diretor os servidores que poderão ser designados para executar fora da repartição serviços de coleta e outros de interêsse da seção.
 
-<strong>Art</strong>. 15. Ao Secretário do Diretor incumbe:
+**Art**. 15. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhado-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -316,7 +314,7 @@ II - representar o Diretor, quando para isso fôr designado;
 
 III - redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 16. Aos assistentes incumbe:
+**Art**. 16. Aos assistentes incumbe:
 
 a) assessorar o Diretor em trabalhos cujos assuntos importem em estudos específicos e envolvam atribuições de ordem geral;
 
@@ -326,7 +324,7 @@ c) sugerir ao Diretor medidas que visem aperfeiçoar a rotina dos trabalhos elab
 
 d) manter contato com as seções no sentido de, na ocasião própria, ter disponíveis a documentação e demais elementos necessários a seus estudos.
 
-<strong>Art</strong>. 17. Aos chefes de turma incumbe:
+**Art**. 17. Aos chefes de turma incumbe:
 
 I - zelar pela perfeita execução dos trabalhos confiados à respectiva turma;
 
@@ -336,31 +334,31 @@ III - manter a coordenação entre os componentes de sua turma buscando observar
 
 IV - prestar informações sôbre assuntos que se relacionem com as atribuições de sua turma.
 
-<strong>Art</strong>. 18. Aos demais servidores sem funções especificadas neste regimento incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 18. Aos demais servidores sem funções especificadas neste regimento incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Lotação</em>
+*Da Lotação*
 
-<strong>Art</strong>. 19. O Serviço terá a lotação aprovada em decreto.
+**Art**. 19. O Serviço terá a lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, o Serviço poderá ter pessoal admitido pela verba global.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 20. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 20. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 21. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o limite de horas semanais ou mensais estabelecidas para o Serviço Público Civil, sendo a freqüência apurada por meios de boletins diários de produção.
+**Art**. 21. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o limite de horas semanais ou mensais estabelecidas para o Serviço Público Civil, sendo a freqüência apurada por meios de boletins diários de produção.
 
-<strong>Art</strong>. 22. O Diretor não fica sujeito a ponto.
+**Art**. 22. O Diretor não fica sujeito a ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 23. Serão substituídos, automàticamente, em suas férias e impedimentos eventuais, até 30 dias:
+**Art**. 23. Serão substituídos, automàticamente, em suas férias e impedimentos eventuais, até 30 dias:
 
 I - O Diretor, por um dos chefes de seção de sua indicação;
 
@@ -368,82 +366,80 @@ II - Os chefes de seção, por servidores designados pelo Diretor, mediante indi
 
 Parágrafo único. Haverá sempre servidores prèviamente designados para as substituições de que trata êste artigo
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 24. Os trabalhos realizados no S.E.D.M.P., poderão ser publicados, desde que para isso haja autorização do Diretor, em revistas nacionais ou estrangeiras, constando, porém, como único subtítulo a expressão: ”Trabalho do Serviço de Estatística Demográfica Moral e Política”.
+**Art**. 24. Os trabalhos realizados no S.E.D.M.P., poderão ser publicados, desde que para isso haja autorização do Diretor, em revistas nacionais ou estrangeiras, constando, porém, como único subtítulo a expressão: ”Trabalho do Serviço de Estatística Demográfica Moral e Política”.
 
-<strong>Art</strong>. 25. Ajuízo do Diretor, poderão ser incluídos em publicações do S.E.D.M.P. trabalhos relevantes de técnicos estrangeiros ao mesmo, quando se referirem a assuntos relacionados com as suas atividades.
+**Art**. 25. Ajuízo do Diretor, poderão ser incluídos em publicações do S.E.D.M.P. trabalhos relevantes de técnicos estrangeiros ao mesmo, quando se referirem a assuntos relacionados com as suas atividades.
 
-<strong>MILTON SOARES CAMPOS</strong>
+**MILTON SOARES CAMPOS**
 
-###DEC-055875-0-000-29-03-1965@@@RET01+++
+**DECRETO Nº 55.875, DE 29 DE MARÇO DE 1965.**
 
-<strong>DECRETO Nº 55.875, DE 29 DE MARÇO DE 1965.</strong>
+***Aprova o Regimento do Serviço de Estatística Demográfica, Moral e Política do Ministério da Justiça e Negócios Interiores.***
 
-<em><strong>Aprova o Regimento do Serviço de Estatística Demográfica, Moral e Política do Ministério da Justiça e Negócios Interiores.</strong></em>
+(Publicado no *Diário Oficial* de 31 de março de 1965)
 
-(Publicado no <em>Diário Oficial</em> de 31 de março de 1965)
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 Na página 3.274, 2ª coluna, Art. 1º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... do Ministério da Justiça e Negócios Interiores pelo respectivo Ministro de Estado ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... do Ministério da Justiça e Negócios Interiores assinado pelo respectivo Ministro de Estado, ...
 
 Na 3ª coluna, Art. 3º,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... e as Turmas encarregadas, designadas na forma ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... e as Turmas encarregados, designados na forma ...
 
 Na 4ª coluna, Art. 7º, item I,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... Turma de Registro Civil ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... Turma do Registro Civil ...
 
 Na mesma coluna, item 3,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... dos oficiais de registro ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... dos oficiais do registro ...
 
 Na página 3.275, 2ª coluna, Art. 12, item XI,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... planos de trabalhos, pesquisas ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... planos de trabalho, pesquisas ...
 
 Na 4ª coluna, Art. 17, item I,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u><strong>:</strong>
+**ONDESELÊ:**
 
 ... confiados a respectiva turma; ...
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE</strong></u><strong>:</strong>
+**LEIA\-SE:**
 
 ... confiados à respectiva turma; ...

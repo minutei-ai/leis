@@ -1,5 +1,3 @@
-###DEC-056655-0-000-05-08-1965@@@
-
 DECRETO Nº 56.655, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza Sinézio Cerqueira Sampaio, a comprar pedras preciosas

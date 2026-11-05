@@ -1,5 +1,3 @@
-###DEC-058876-0-000-20-07-1966@@@
-
 DECRETO Nº 58.876, DE 20 DE JULHO DE 1966.
 
 Autoriza o cidadão brasileiro Francisco Vieira de Barros a pesquisar feldspato, quartzo e xisto argiloso, no município de Piedade, Estado de São Paulo.

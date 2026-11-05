@@ -1,6 +1,10 @@
 > **LEI Nº 4.502, DE 16 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.673, de 31 de dezembro de 2020, que dispõe sobre o parcelamento incentivado de débitos ficais relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, para tratar do alcance do Programa de Recuperação Fiscal 2021 - REFIS 2021 e dos percentuais de multas e juros.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.673, de 31 de dezembro de 2020, que dispõe sobre o parcelamento incentivado de débitos ficais relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, para tratar do alcance do Programa de Recuperação Fiscal 2021 - REFIS 2021 e dos percentuais de multas e juros.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

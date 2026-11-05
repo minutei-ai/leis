@@ -1,5 +1,3 @@
-###DEC-051861-0-000-22-03-1963@@@
-
 DECRETO Nº 51.861, DE 22 DE MARÇO DE 1963.
 
 Cria, no Gabinete do Ministro do Trabalho e Previdência Social, o Conselho Coordenador da Previdência Social.

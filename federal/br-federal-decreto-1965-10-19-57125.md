@@ -1,5 +1,3 @@
-###DEC-057125-0-000-19-10-1965@@@
-
 DECRETO Nº 57.125, de 19 de outubro de 1965.
 
 Promulga a Convenção Internacional para proteção aos artistas intérpretes ou executantes, aos produtores de fonogramas e aos organismos de radiodifusão.

@@ -1,5 +1,3 @@
-###DEL-005488-0-000-17-05-1943@@@
-
 DECRETO-LEI N. 5.488 – DE 17 DE MAIO DE 1943
 
 Extingue a ala moto‑mecanizada do 7º Regimento de Cavalaria Divisionário, com sede em Recife

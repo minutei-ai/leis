@@ -1,5 +1,3 @@
-###DEC-054533-0-000-21-10-1964@@@
-
 DECRETO Nº 54.533, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Newton Costa a pesquisar coridon, no município de Vitória da Conquista, Estado da Bahia.

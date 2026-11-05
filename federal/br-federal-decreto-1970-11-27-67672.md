@@ -1,5 +1,3 @@
-###DEC-067672-0-000-27-11-1970@@@
-
 DECRETO Nº 67.672, DE 27 DE NOVEMBRO DE 1970.
 
 Altera o Decreto nº 60.544, de 7 de abril de 1967, que aprovou o Quadro Único de Pessoal da Universidade Federal da Paraíba, e dá outras providências.

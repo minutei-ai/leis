@@ -8,7 +8,15 @@ DECRETA:
 
 Art. 1º Fica aberto, pelo Ministério das Relações Exteriores, o crédito suplementar de mil, oitocentos e cinqüenta e quatro contos e oitocentos mil réis (1.854:800$0) para reforço da Verba 3 – Serviços e Encargos, sub-consignação n. 3 – item 01), do atual orçamento do referido Ministério (Anexo n. 5, do decreto-lei n. 107, de 27 de dezembro de 1937), assim distribuído:
 
-<table><tbody><tr><td>a) Setor Norte.......................................................................................... 927:400$0</td></tr><tr><td>b) Setor Oeste........................................................................................ 388:000$0</td></tr><tr><td>c)Setor Sul............................................................................................. 355:000$0</td></tr><tr><td>d) Ponte Internacional sobre o rio Uruguai. <u>184:400$0</u></td></tr><tr><td><u>1.854:800$0</u></td></tr></tbody></table>
+a) Setor Norte.......................................................................................... 927:400$0
+
+b) Setor Oeste........................................................................................ 388:000$0
+
+c)Setor Sul............................................................................................. 355:000$0
+
+d) Ponte Internacional sobre o rio Uruguai. 184:400$0
+
+1.854:800$0
 
 Art. 2º O item 01) da sub-consignação a que se refere o artigo anterior, passa a ter a seguinte redação:
 

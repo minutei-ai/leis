@@ -1,14 +1,12 @@
-###DEC-021468-0-000-19-07-1946@@@
+**DECRETO Nº 21.468, DE 19 DE JULHO DE 1946.**
 
-<strong>DECRETO Nº 21.468, DE 19 DE JULHO DE 1946.</strong>
+***Altera artigos do Regulamento da Escola de Guerra Naval.***
 
-<em><strong>Altera artigos do Regulamento da Escola de Guerra Naval.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, alínea *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, alínea <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 5º, 6º, 13 e 21 do Regulamento para a Escola de Guerra Naval, baixado com o Decreto nº 6.386, de 4 de Outubro de 1940, passam a ter a seguinte redação.
+**Art**. 1º Os artigos 5º, 6º, 13 e 21 do Regulamento para a Escola de Guerra Naval, baixado com o Decreto nº 6.386, de 4 de Outubro de 1940, passam a ter a seguinte redação.
 
 Art. 5º ......................................................................................................................................
 
@@ -44,10 +42,10 @@ e) .............................................................................
 
 f) um secretário Militar, oficial superior da ativa do Corpo da Armada, com o Curso do Comando, será “Ex-officio”, o chefe do Departamento de Administração.
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de Julho de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Jorge Dodsworth Martins

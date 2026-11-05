@@ -1,5 +1,3 @@
-###DEC-054331-0-000-28-09-1964@@@
-
 Decreto nº 54.331, de 28 de setembro de 1964.
 
 Autoriza “MAM” - Mineração, Comércio e Indústria de Minérios Ltda. a pesquisar quartzo, mica e cassiterita no município de Pirenópolis, Estado de Goiás.

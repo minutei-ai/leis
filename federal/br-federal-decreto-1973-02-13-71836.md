@@ -1,5 +1,3 @@
-###DEC-071836-0-000-13-02-1973@@@
-
 Decreto nº 71.836, de 13 de fevereiro de 1973.
 
 Altera o § 2º, do artigo 34, do Regulamento aprovado pelo Decreto nº 50.146, de 27 de janeiro de 1961, que dispõe sobre a fiscalização do comércio de fertilizantes e produtos correlatos destinados à agricultura.

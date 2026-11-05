@@ -1,5 +1,3 @@
-###DEC-089752-0-000-05-06-1984@@@
-
 Decreto nº 89.752, de 05 de junho de 1984.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Cáceres, no Estado de Mato Grosso.

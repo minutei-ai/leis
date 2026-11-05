@@ -1,5 +1,3 @@
-###DEC-044863-0-000-21-11-1958@@@
-
 DECRETO Nº 44.863, DE 21 DE NOVEMBRO DE 1958.
 
 Institui a Comissão Brasileira de Turismo.

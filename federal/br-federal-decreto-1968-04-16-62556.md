@@ -1,5 +1,3 @@
-###DEC-062556-0-000-16-04-1968@@@
-
 Decreto nº 62.556, de 16 de abril de 1968.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir um ramal de linha de transmissão e dá outras providências.

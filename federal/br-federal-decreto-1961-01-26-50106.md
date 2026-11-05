@@ -1,5 +1,3 @@
-###DEC-050106-0-000-26-01-1961@@@
-
 DECRETO Nº 50.106, DE 26 DE JANEIRO DE 1961.
 
 Abre, ao Ministério da Educação e Cultura o crédito especial de Cr$30.000.000,00 para auxiliar a Fundação Abrigo do Cristo Redentor, na sua manutenção.

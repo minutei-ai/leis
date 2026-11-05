@@ -1,5 +1,3 @@
-###DEC-064902-0-000-29-07-1969@@@
-
 DECRETO Nº 64.902, DE 29 DE JULHO DE 1969.
 
 Aprova o Regimento do Conselho Federal de Educação.

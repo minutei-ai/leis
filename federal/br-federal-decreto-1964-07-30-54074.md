@@ -1,5 +1,3 @@
-###DEC-054074-0-000-30-07-1964@@@
-
 DECRETO Nº 54.074, DE 30 DE JULHO DE 1964.
 
 Cria a Embaixada do Brasil junto ao Govêrno de Chipre.

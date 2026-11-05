@@ -1,5 +1,3 @@
-###DEC-053499-0-000-27-01-1964@@@
-
 DECRETO Nº 53.499, DE 27 DE JANEIRO DE 1964.
 
 Declara de interêsse social, para fins de desapropriação, parte da área de terras da Fazenda “Pedrões” ou “Ribeirão Manso”, situada no distrito de Canoeiros, Município de São Gonçalo do Abaeté, à margem da Rodovia Federal Belo Horizonte - Brasília, e dá outras providências.

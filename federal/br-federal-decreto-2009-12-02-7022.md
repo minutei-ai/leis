@@ -1,5 +1,3 @@
-###DEC-007022-0-000-02-12-2009@@@
-
 DECRETO Nº 7.022, DE 2 DE DEZEMBRO DE 2009.
 
 Estabelece medidas organizacionais de caráter excepcional para dar suporte ao processo de implantação da Rede Federal de Educação Profissional, Científica e Tecnológica, criada pela Lei no 11.892, de 29 de dezembro de 2008, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045827-0-000-17-04-1959@@@
-
 DECRETO Nº 45.827, DE 17 DE ABRIL DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Ipiaú, no Estado da Bahia.

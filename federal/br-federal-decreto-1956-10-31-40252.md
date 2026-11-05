@@ -1,6 +1,4 @@
-###DEC-040252-0-000-31-10-1956@@@
-
-<strong>DECRETO Nº 40.252, DE 31 DE OUTUBRO DE 1956.</strong>
+**DECRETO Nº 40.252, DE 31 DE OUTUBRO DE 1956.**
 
 <!-- fac-simile-oficial:inicio -->
 

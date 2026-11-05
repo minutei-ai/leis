@@ -1,5 +1,3 @@
-###DEC-079350-0-000-08-03-1977@@@
-
 DECRETO Nº 79.350, DE 8 DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias, necessárias à construção de acampamento e aproveitamento de jazidas de materiais a serem usadas na obra da Usina Hidrelétrica de Emborcação localizada no rio Paranaiba, na divisa dos Estados de Minas Gerais e Goiás.

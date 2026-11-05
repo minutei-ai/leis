@@ -1,5 +1,3 @@
-###DEL-009853-0-000-13-09-1946@@@
-
 DECRETO-LEI N. 9.853 – DE 13 DE SETEMBRO DE 1946
 
 Atribui à Confederação Nacional do Comércio o encargo de criar e organizar o Serviço Social do Comércio e dá outras providências.

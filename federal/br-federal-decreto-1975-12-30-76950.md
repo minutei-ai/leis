@@ -1,5 +1,3 @@
-###DEC-076950-0-000-30-12-1975@@@
-
 DECRETO Nº 76.950, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Letras, da Faculdade Paulistana de Ciência e Letras, com sede na cidade de São Paulo, Estado de São Paulo.

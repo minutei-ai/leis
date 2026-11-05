@@ -12,8 +12,6 @@ Art. 2º Este decreto entra em vigor em 30 de janeiro de 2024.
 
 Goiânia, 15 de janeiro de 2024; 136º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

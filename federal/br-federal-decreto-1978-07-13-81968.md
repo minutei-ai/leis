@@ -1,5 +1,3 @@
-###DEC-081968-0-000-13-07-1978@@@
-
 DECRETO Nº 81.968, DE 13 DE JULHO DE 1978.
 
 Cria o Comando da Força Fragatas, acrescenta item ao artigo 2º do Decreto nº 77 272, de 9 de março de 1976, que reorganiza as Forças Navais, Aeronavais e de Fuzileiros Navais, e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/31ec763e-0390-45be-87ab-a15a13c78ed5/texto#nowhere)
 
-###DEL-001046-0-000-21-10-1969@@@
-
 decreto-lei nº 1.046, de 21 de Outubro de 1969
 
 Altera Quadros de Pessoal dos Ministérios da Agricultura e da Educação e Cultura e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054090-0-000-04-08-1964@@@
-
 DECRETO Nº 54.090, DE 4 DE AGôSTO DE 1964.
 
 Declara de utilidade pública o Hospital Arquidiocesano Consul Carlos Renaux, cm sede em Brusque, Estado de Santa Catarina.

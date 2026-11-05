@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185300)
-
 # DECRETO Nº 63.230, DE 26 DE FEVEREIRO DE 2018
 
 ### _Organiza a Coordenadoria de Gestão de Pessoas, da Secretaria da Fazenda, altera o Decreto nº 60.812, de 30 de setembro de 2014, e dá providências correlatas_
@@ -562,8 +560,6 @@ a) a gestão de mudança;
 
 #### Das Competências
 
-<br>
-
 #### SEÇÃO I
 
 #### Do Coordenador de Gestão de Pessoas
@@ -1000,12 +996,20 @@ Palácio dos Bandeirantes, 26 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Marcos Antonio Monteiro<br>
-Secretário de Planejamento e Gestão<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Marcos Antonio Monteiro
+
+Secretário de Planejamento e Gestão
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 26 de fevereiro de 2018.

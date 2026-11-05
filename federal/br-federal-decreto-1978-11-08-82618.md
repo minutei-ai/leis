@@ -1,5 +1,3 @@
-###DEC-082618-0-000-08-11-1978@@@
-
 Decreto nº 82.618, de 08 de novembro de 1978.
 
 Dispõe sobre a Transferência da gestão do Fundo de Amparo à Tecnologia - FUNAT para a Secretaria de Tecnologia Industrial do Ministério da Indústria e do Comércio e dá outras providências.

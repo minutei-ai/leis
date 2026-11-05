@@ -1,5 +1,3 @@
-###DEC-048841-0-000-12-08-1960@@@
-
 DECRETO Nº 48.841, DE 12 DE AGÔSTO DE 1960.
 
 Outorga ao Estado do Paraná concessão para o aproveitamento progressivo de energia hidráulica de um desnível existente no curso d’água Sant’Ana, distrito de Francisco Beltrão, município de Francisco Beltrão, Estado do Paraná.

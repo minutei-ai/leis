@@ -1,5 +1,3 @@
-###DEC-080360-0-000-19-09-1977@@@
-
 DECRETO Nº 80.360, DE 19 DE SETEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal do imóvel que menciona, situado no Município de Mata Grande, Estado de Alagoas.

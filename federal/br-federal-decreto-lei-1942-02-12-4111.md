@@ -1,5 +1,3 @@
-###DEL-004111-0-000-12-02-1942@@@
-
 DECRETO-LEI N. 4.111 – DE 12 DE FEVEREIRO DE 1942
 
 Concede uma pensão especial à viuva e filhos menores de Aristides de Almeida, vítima de acidente em serviço

@@ -1,5 +1,3 @@
-###DEC-007143-0-000-29-03-2010@@@
-
 DECRETO Nº 7.143, DE 29 DE MARÇO DE 2010.
 
 Regulamenta o Bônus Especial de Desempenho Institucional - BESP/DNIT de que trata a Lei no 12.155, de 23 de dezembro de 2009.

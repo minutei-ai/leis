@@ -1,5 +1,3 @@
-###DEC-058069-0-000-24-03-1966@@@
-
 DECRETO Nº 58.069, DE 24 DE MARÇO DE 1966.
 
 Concede à Sociedade Bates do Brasil S.A., autorização para continuar a funcionar na República.

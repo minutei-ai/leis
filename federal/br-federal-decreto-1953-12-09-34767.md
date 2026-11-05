@@ -1,14 +1,12 @@
-###DEC-034767-0-000-09-12-1953@@@
+**DECRETO Nº 34.767, DE 9 DE DEZEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.767, DE 9 DE DEZEMBRO DE 1953.</strong>
+***Abre, pelo Ministério da Agricultura, o crédito especial de Cr$10.072.260,00 para o fim que especifica.***
 
-<em><strong>Abre, pelo Ministério da Agricultura, o crédito especial de Cr$10.072.260,00 para o fim que especifica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da autorização contida no art. 4º da Lei nº 1.813, de 12 de fevereiro de 1953, e tendo consultado o Tribunal de Contas e ouvido o Ministério da Fazenda, nos têrmos do art. 93 do Regulamento Geral de Contabilidade,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da autorização contida no art. 4º da Lei nº 1.813, de 12 de fevereiro de 1953, e tendo consultado o Tribunal de Contas e ouvido o Ministério da Fazenda, nos têrmos do art. 93 do Regulamento Geral de Contabilidade,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica aberto, pelo Ministério da Agricultura, o crédito especial de Cr$10.072.260,00 (dez milhões, setenta e dois mil, duzentos e sessenta cruzeiros), para atender à segunda metade das despesas previstas no artigo 4º da Lei nº 1.813, de 12 de fevereiro de 1953, assim discriminadas:
+**Art**. 1º Fica aberto, pelo Ministério da Agricultura, o crédito especial de Cr$10.072.260,00 (dez milhões, setenta e dois mil, duzentos e sessenta cruzeiros), para atender à segunda metade das despesas previstas no artigo 4º da Lei nº 1.813, de 12 de fevereiro de 1953, assim discriminadas:
 
 Cr$
 
@@ -28,17 +26,17 @@ Material                                    
 
 Serviços e Encargos                                                                                                       375.000,00
 
-Obras (ligeiros reparos)                                                                                                   <u>200.000,00</u>
+Obras (ligeiros reparos)                                                                                                   200.000,00
 
 10.072.260,00
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 9 de dezembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas
 

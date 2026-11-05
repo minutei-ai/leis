@@ -1,5 +1,3 @@
-###DEC-085929-0-000-23-04-1981@@@
-
 DECRETO Nº 85.929, DE 23 DE ABRIL DE 1981
 
 "Institui o Terceiro Programa de Incentivo à Produção de Borracha Natural - PROBOR III"

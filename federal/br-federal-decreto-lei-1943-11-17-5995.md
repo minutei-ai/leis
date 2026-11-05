@@ -1,5 +1,3 @@
-###DEL-005995-0-000-17-11-1943@@@
-
 DECRETO‑LEI N. 5.995 – DE 17 DE NOVEMBRO DE 1943
 
 Dispõe sôbre a estrutura do Serviço de Meteorologia da Agricultura e dá outras providências

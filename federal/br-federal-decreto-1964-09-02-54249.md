@@ -1,5 +1,3 @@
-###DEC-054249-0-000-02-09-1964@@@
-
 Decreto Nº 54.249, DE 2 DE SETEMBRO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal da Comissão de Marinha Mercante e dá outras providências.

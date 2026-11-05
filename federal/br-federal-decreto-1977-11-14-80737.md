@@ -1,5 +1,3 @@
-###DEC-080737-0-000-14-11-1977@@@
-
 Decreto nº 80.737, de 14 de novembro de 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

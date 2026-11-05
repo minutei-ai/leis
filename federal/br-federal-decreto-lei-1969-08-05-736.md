@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3e07e993-2d54-4bdc-bbb0-6cb419ea23be/texto#nowhere)
 
-###DEL-000736-0-000-05-08-1969@@@
-
 DECRETO-LEI Nº 736, dE 5 DE AGÔSTO DE 1969
 
 Aprova a reforma do ex-cabo Wilson Evangelista de Souza, cujo registro foi negado pelo Tribunal de Contas da União.

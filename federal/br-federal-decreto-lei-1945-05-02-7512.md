@@ -1,5 +1,3 @@
-###DEL-007512-0-000-02-05-1945@@@
-
 DECRETO-LEI N. 7.512 – DE 2 DE MAIO DE 1945
 
 Suspende, até 31 de dezembro de 1945, o disposto ao art. 1º do Decreto-lei nº 2.954

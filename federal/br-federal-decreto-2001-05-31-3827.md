@@ -1,5 +1,3 @@
-###DEC-003827-0-000-31-05-2001@@@
-
 DECRETO Nº 3.827, DE 31 DE MAIO DE 2001
 
 Altera alíquota do Imposto sobre Produtos Industrializados ‑ IPI incidente sobre os produtos que menciona.
@@ -30,7 +28,7 @@ Art. 5º A Secretaria da Receita Federal expedirá, para fins de aplicação do 
 
 Art. 6º O código 8516.79.90, passa a descrever os seguintes produtos, sujeitos às respectivas alíquotas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td colspan="2" style="width:117pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CÓDIGO</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>DESCRIÇÃO</span></p></td><td style="width:141.85pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>ALÍQUOTA</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>%</span></p></td></tr><tr><td style="border-top-style:solid; border-top-width:0.75pt; vertical-align:top"></td><td style="width:117.6pt; border-style:solid; border-width:0.75pt; padding-right:2.48pt; padding-left:2.48pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8516.79.90</span></p></td><td style="width:157.3pt; border-style:solid; border-width:0.75pt; padding-right:2.48pt; padding-left:2.48pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outros</span></p></td><td style="width:143.15pt; border-style:solid; border-width:0.75pt; padding-right:2.48pt; padding-left:2.48pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="vertical-align:top"></td><td style="width:117.6pt; border-style:solid; border-width:0.75pt; padding-right:2.48pt; padding-left:2.48pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:157.3pt; border-style:solid; border-width:0.75pt; padding-right:2.48pt; padding-left:2.48pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 - Chuveiro de potência máxima superior a 4 kW</span></p></td><td style="width:143.15pt; border-style:solid; border-width:0.75pt; padding-right:2.48pt; padding-left:2.48pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40</span></p></td></tr><tr style="height:0pt"><td style="width:0.7pt"></td><td style="width:123.3pt"></td><td style="width:163pt"></td><td style="width:148.85pt"></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> CÓDIGO </td><td> DESCRIÇÃO </td><td> ALÍQUOTA % </td></tr><tr><td></td><td> 8516.79.90 </td><td> Outros </td><td> 15 </td></tr><tr><td></td><td> &nbsp; </td><td> Ex 01 - Chuveiro de potência máxima superior a 4 kW </td><td> 40 </td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
 Art. 7º Este Decreto entra em vigor na data de sua publicação.
 
@@ -42,8 +40,100 @@ Pedro Malan
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:117pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-weight:bold">CÓDIGO</span></p></td><td style="width:156pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-weight:bold">DESCRIÇÃO</span></p></td><td style="width:141.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="font-weight:bold">ALÍQUOTA</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="font-weight:bold">%</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.31.20</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 02 – Fotovoltáicos.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.32.20</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 02 – Fotovoltáicos.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.33.20</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 02 – Fotovoltáicos.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.34.20</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – Fotovoltáicos.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.51.10</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 - De alto rendimento, segundo normas NBR – 7094.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.52.10</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 - De alto rendimento, segundo normas NBR – 7094.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8501.53.10</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 - De alto rendimento, segundo normas NBR – 7094.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8516.10.00</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – Aquecedores instantâneos de potência superior a 5 kW.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>40</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.21.10</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – Lâmpadas dicróicas.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.21.90</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – Lâmpadas dicróicas.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.22.00</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – Lâmpadas incandescentes, de tensão superior a 100 V.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.29.90</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 02 – Lâmpadas incandescentes, de tensão superior a 100 V.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.31.00</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – De descarga em baixa pressão, de base única, com ou sem reator eletrônico incorporado, com eficiência superior a 40 lúmes/W(lâmpada fluorescente compacta).</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.32.00</span></p></td><td style="width:156pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 - De vapor de sódio, de alta pressão.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0</span></p></td></tr><tr><td style="width:117pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8539.39.00</span></p></td><td style="width:156pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ex 01 – Lâmpadas mistas.</span></p></td><td style="width:141.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>45</span></p></td></tr></tbody></table>
+CÓDIGO
 
-<br>
+DESCRIÇÃO
 
-<br>
+ALÍQUOTA
+
+%
+
+8501.31.20
+
+Ex 02 – Fotovoltáicos.
+
+0
+
+8501.32.20
+
+Ex 02 – Fotovoltáicos.
+
+0
+
+8501.33.20
+
+Ex 02 – Fotovoltáicos.
+
+0
+
+8501.34.20
+
+Ex 01 – Fotovoltáicos.
+
+0
+
+8501.51.10
+
+Ex 01 - De alto rendimento, segundo normas NBR – 7094.
+
+0
+
+8501.52.10
+
+Ex 01 - De alto rendimento, segundo normas NBR – 7094.
+
+0
+
+8501.53.10
+
+Ex 01 - De alto rendimento, segundo normas NBR – 7094.
+
+0
+
+8516.10.00
+
+Ex 01 – Aquecedores instantâneos de potência superior a 5 kW.
+
+40
+
+8539.21.10
+
+Ex 01 – Lâmpadas dicróicas.
+
+20
+
+8539.21.90
+
+Ex 01 – Lâmpadas dicróicas.
+
+20
+
+8539.22.00
+
+Ex 01 – Lâmpadas incandescentes, de tensão superior a 100 V.
+
+20
+
+8539.29.90
+
+Ex 02 – Lâmpadas incandescentes, de tensão superior a 100 V.
+
+20
+
+8539.31.00
+
+Ex 01 – De descarga em baixa pressão, de base única, com ou sem reator eletrônico incorporado, com eficiência superior a 40 lúmes/W(lâmpada fluorescente compacta).
+
+0
+
+8539.32.00
+
+Ex 01 - De vapor de sódio, de alta pressão.
+
+0
+
+8539.39.00
+
+Ex 01 – Lâmpadas mistas.
+
+45

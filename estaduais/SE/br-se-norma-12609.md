@@ -65,5 +65,3 @@ Cristiano Barreto Guimarães
 Secretário Especial de Governo
 
 Iniciativa da Deputada Kitty Lima - PSB
-
-Este texto não substitui o publicado no D.O.E. de 09.09.2026.

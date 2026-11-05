@@ -1,5 +1,3 @@
-###DEC-069310-0-000-05-10-1971@@@
-
 decreto nº 69.310, de 5 de outubro de 1971.
 
 Acrescenta parágrafos ao artigo 9º do Regime Interno da Inspetoria-Geral de Finanças do Ministério da Fazenda, aprovado pelo Decreto nº 64.136, de 25 de fevereiro de 1969.

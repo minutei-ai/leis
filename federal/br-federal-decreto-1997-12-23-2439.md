@@ -1,5 +1,3 @@
-###DEC-002439-0-000-23-12-1997@@@
-
 DECRETO Nº 2.439, DE 23 DE DEZEMBRO DE 1997
 
 Dispõe sobre procedimentos relativos à execução de pagamento de pequenas compras e dá outras providências.

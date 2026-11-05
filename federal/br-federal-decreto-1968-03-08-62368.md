@@ -1,5 +1,3 @@
-###DEC-062368-0-000-08-03-1968@@@
-
 decreto nº 62.368, de 8 de março de 1968.
 
 Declara de utilidade pública o “Asilo da Velhice Nossa Senhora Medianeira”, com sede em Cachoeira do Sul, Estado do Rio Grande do Sul.

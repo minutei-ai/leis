@@ -1,46 +1,44 @@
-###DEC-021809-0-000-03-09-1946@@@
+**DECRETO N° 21.809, DE 3 DE SETEMBRO DE 1946.**
 
-<strong>DECRETO N° 21.809, DE 3 DE SETEMBRO DE 1946.</strong>
+***Aprova o Regulamento da Estação Aduaneira de Importação Aérea em São Paulo.***
 
-<em><strong>Aprova o Regulamento da Estação Aduaneira de Importação Aérea em São Paulo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o art. 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o art. 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1° Fica aprovado o regimento da Estação Aduaneira de Importação Aérea em São Paulo, baixado em cumprimento ao disposto no artigo 10 do Decreto-lei n° 8.854, de 24 de janeiro de 1946.
 
-<strong>Art</strong>. 1° Fica aprovado o regimento da Estação Aduaneira de Importação Aérea em São Paulo, baixado em cumprimento ao disposto no artigo 10 do Decreto-lei n° 8.854, de 24 de janeiro de 1946.
+**Art**. 2° Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2° Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3° Revogam-se as disposições em contrário.
+**Art**. 3° Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 3 de setembro de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DULTRA</strong>
+**EURICO G. DULTRA**
 
 Gastam Vidigal
 
-<strong>REGIMENTO DA ESTAÇÃO ADUANEIRA DE IMPORTAÇÃO AÉREA EM SÃO PAULO.</strong>
+**REGIMENTO DA ESTAÇÃO ADUANEIRA DE IMPORTAÇÃO AÉREA EM SÃO PAULO.**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1° A Estação de Importação Aérea em São Paulo (E. A. I. A. S. P.), subordinada diretamente à Diretoria das Renda Aduaneiras, tem por finalidade a cobrança e fiscalização dos diretores, impostos e taxas devidos à União, referentes ao Serviço de Importação Aérea e à supervisão e execução dos mesmos serviços de Encomendas postais internacionais.
+**Art**. 1° A Estação de Importação Aérea em São Paulo (E. A. I. A. S. P.), subordinada diretamente à Diretoria das Renda Aduaneiras, tem por finalidade a cobrança e fiscalização dos diretores, impostos e taxas devidos à União, referentes ao Serviço de Importação Aérea e à supervisão e execução dos mesmos serviços de Encomendas postais internacionais.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A E. A. I. A. S. P. terá estrutura indivisa, podendo, entretanto, o trabalho ser dividido em turmas, de acôrdo com as necessidades e obedecidas as prescrições da legislação em vigor.
+**Art**. 2º A E. A. I. A. S. P. terá estrutura indivisa, podendo, entretanto, o trabalho ser dividido em turmas, de acôrdo com as necessidades e obedecidas as prescrições da legislação em vigor.
 
-<strong>Art</strong>. 3º A E. A. I. A. S. P. será dirigida por um Chefe designado pelo Presidente da República dentre os funcionários com prática de serviço aduaneiro.
+**Art**. 3º A E. A. I. A. S. P. será dirigida por um Chefe designado pelo Presidente da República dentre os funcionários com prática de serviço aduaneiro.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA</em>
+*DA COMPETÊNCIA*
 
-<strong>Art</strong>. 4.° À E. A. I. A. S. P. compete:
+**Art**. 4.° À E. A. I. A. S. P. compete:
 
 I - processar os despachos de importação, exportação, reexportação, transito e retôrno de mercadorias nacionais e estrangeiras transportadas por via aérea dentro da aérea de sua jurisdição;
 
@@ -70,11 +68,11 @@ XIII - remeter ao Serviço de Estatística Econômica e Financeira uma cópia do
 
 XIV - encaminhar os recursos indispostos nos têrmos da lei.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA ATRIBUIÇÕES DO PESSOAL</em>
+*DA ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 5.° Ao Chefe da E. A. I. A. S. P. incumbe:
+**Art**. 5.° Ao Chefe da E. A. I. A. S. P. incumbe:
 
 I - supervisionar, dirigir, orientar e coordenar os trabalhos da repartição baixando instruções de serviço que se fizerem necessárias, uma vez aprovadas pela D. R. A.;
 
@@ -130,7 +128,7 @@ XXVI - designar e dispensar seu secretário e o chefe da portaria, bem como os f
 
 XXVII - encaminhar à D. R. A. os processo de restituição de direitos, por exercío findos.
 
-<strong>Art</strong>. 6° - Ao Secretário incumbe:
+**Art**. 6° - Ao Secretário incumbe:
 
 A) atender à pessoas que desejarem comunicar-se com o chefe, encaminhando-as ou dando a êsteconhecimento do assunto a tratar;
 
@@ -140,7 +138,7 @@ c) representar o chefe, quando designado; e
 
 d) redigir a correspondencia pessoal do chefe.
 
-<strong>Art</strong>. 7.° - Ao Ponteiro que é o Chefe da Portaria, incumbem:
+**Art**. 7.° - Ao Ponteiro que é o Chefe da Portaria, incumbem:
 
 a) abrir a repartiçao com a antecedência presisa e fechá-la cuidadosamente quando o expediente;
 
@@ -158,38 +156,38 @@ g) determinar os platões e escalas de serviços e fiscalizar pessoalmenteexecu�
 
 h) aplicar as penas de adivertência e represão, representando ao chefe quando julgar necessárias a aplicação de penalidade que escapem à sua alçada.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>DA COMISSÃO DE TERIFAS</em>
+*DA COMISSÃO DE TERIFAS*
 
-<strong>Art</strong>. 8.° A. E. A. I. A. S. P., terá uma Comissão de Tarifas que se regerá pelas disposições da Nova Consolidade das Leis das Alfândegas e será Constituída de oficiais administrativos, e, na falta desse, de escriturário mais antigos.
+**Art**. 8.° A. E. A. I. A. S. P., terá uma Comissão de Tarifas que se regerá pelas disposições da Nova Consolidade das Leis das Alfândegas e será Constituída de oficiais administrativos, e, na falta desse, de escriturário mais antigos.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 9.° A lotação da E. A. I. A. S. P. será fixada em Decreto.
+**Art**. 9.° A lotação da E. A. I. A. S. P. será fixada em Decreto.
 
 Parágrafo único. A lotação será preenchida com funcionários especializados mediante proposta da diretoria das Rendas Aduaneiras.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 10.° O horário normal de trabalho será fixado pelo Chefe da Estação Aduaneira, repetido o número de horas semanais estabelecidos para o serviço público civil, com aprovação da D. R. A.
+**Art**. 10.° O horário normal de trabalho será fixado pelo Chefe da Estação Aduaneira, repetido o número de horas semanais estabelecidos para o serviço público civil, com aprovação da D. R. A.
 
-<strong>Art</strong>. 11.° O Chefe da Estação Aduaneira não fica sujeito a ponto, devendo, porem, observar o horário fixado.
+**Art**. 11.° O Chefe da Estação Aduaneira não fica sujeito a ponto, devendo, porem, observar o horário fixado.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 12.° O Chefe da Estação Aduaneira será substituído, automaticamente, em suas faltas ou impedimentos eventuais, até trinta (30) dias, pelo funcionário de sua indicação, nos têrmos da legislação em vigor.
+**Art**. 12.° O Chefe da Estação Aduaneira será substituído, automaticamente, em suas faltas ou impedimentos eventuais, até trinta (30) dias, pelo funcionário de sua indicação, nos têrmos da legislação em vigor.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 13.° A Estação Aduaneira deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e intrusões de serviço que digam respeito às atividades específicas da mesma, bem como coleção encadernada do Diário Oficial.
+**Art**. 13.° A Estação Aduaneira deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, ordens e intrusões de serviço que digam respeito às atividades específicas da mesma, bem como coleção encadernada do Diário Oficial.
 
-<strong>Art</strong>. 14.° Nenhum servidor poderá fazer publicações e conferências ou dar entrevista sobre assunto que se relacionem com a organização e atividades do serviço, sem autorização da autoridade competente.
+**Art**. 14.° Nenhum servidor poderá fazer publicações e conferências ou dar entrevista sobre assunto que se relacionem com a organização e atividades do serviço, sem autorização da autoridade competente.

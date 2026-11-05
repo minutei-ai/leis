@@ -1,5 +1,3 @@
-###DEC-047232-0-000-16-11-1959@@@
-
 DECRETO Nº 47.232 DE 16 DE NOVEMBRO DE 1959.
 
 Abre, pelo Ministério da Agricultura o crédito especial de Cr$154.900,00, para pagamento da prestação de serviços como “Guarda dos Bens” da Colônia Agrícola de Papuan, Estado de Santa Catarina, no período de 13 de abril de 1948, a 2 de agôsto de 1952.

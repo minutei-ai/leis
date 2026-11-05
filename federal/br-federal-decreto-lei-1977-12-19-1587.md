@@ -1,5 +1,3 @@
-###DEL-001587-0-000-19-12-1977@@@
-
 # Decreto-lei nº 1.587, de 19 de dezembro de 1977
 
 Institui, nas condições que especifica, estímulos fiscais destinados às empresas nacionais prestadoras de serviços a turistas estrangeiros no País.

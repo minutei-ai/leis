@@ -1,7 +1,3 @@
-1
-
-###DEC-000840-0-000-22-06-1993@@@
-
 DECRETO N° 840, DE 22 DE JUNHO DE 1993
 
 Dispõe sobre a organização e o funcionamento do Conselho Nacional de Imigração e dá outras providências.

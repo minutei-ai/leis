@@ -1,7 +1,3 @@
-1
-
-###DEC-000680-0-000-11-11-1992@@@
-
 DECRETO Nº 680, DE 11 DE NOVEMBRO DE 1992
 
 Concede nacionalização à Empresa SMITHKLINE BEECHAM BVI INC. (SBBI).

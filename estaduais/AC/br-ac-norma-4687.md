@@ -1,6 +1,10 @@
 > **LEI Nº 3.745, DE 28 DE JUNHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a criação do Conselho Estadual de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação FUNDEB.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a criação do Conselho Estadual de Acompanhamento e Controle Social do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação FUNDEB.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

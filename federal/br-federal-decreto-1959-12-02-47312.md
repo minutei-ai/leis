@@ -1,5 +1,3 @@
-###DEC-047312-0-000-02-12-1959@@@
-
 DECRETO Nº 47.312, DE 2 DE DEZEMBRO DE 1959.
 
 Aprova a transformação da Sociedade Mútua de Seguros Gerais “A Universal” em sociedade anônima, com a denominação de “A Universal” Companhia Nacional de Seguros Gerais.

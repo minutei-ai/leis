@@ -1,5 +1,3 @@
-###DEC-082585-0-000-06-11-1978@@@
-
 Decreto nº 82.585, de 06 de novembro de 1978.
 
 Promulga o Acordo sobre Cooperação Sanitária Brasil-Bolívia.
@@ -182,4 +180,10 @@ Disposições Finais
 
 FEITO na cidade de Brasília, aos oito dias do mês de junho de mil e novecentos e setenta e dois, em dois exemplares, em português e em castelhano, ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:166.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República Federativa do Brasil:</span></p></td><td style="width:257.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:166.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:257.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Francisco de Paula Rocha Lagoa</span></p></td></tr><tr><td style="width:166.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República da Bolívia:</span></p></td><td style="width:257.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:166.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:257.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos Valverde Barberi</span></p></td></tr></tbody></table>
+Pela República Federativa do Brasil:
+
+Francisco de Paula Rocha Lagoa
+
+Pela República da Bolívia:
+
+Carlos Valverde Barberi

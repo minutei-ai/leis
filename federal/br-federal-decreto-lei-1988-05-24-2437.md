@@ -1,7 +1,3 @@
-1
-
-###DEL-002437-0-000-24-05-1988@@@
-
 # DECRETO‑LEI N° 2.437, DE 24 DE MAIO DE 1988
 
 Altera a redação do art. 1° do Decreto‑lei n° 2.401, de 21 de dezembro de 1987, e dá outras providências.

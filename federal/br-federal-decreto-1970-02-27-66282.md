@@ -1,5 +1,3 @@
-###DEC-066282-0-000-27-02-1970@@@
-
 DECRETO Nº 66.282 - DE 27 DE FEVEREIRO DE 1970
 
 Suspende a observância do Artigo 45 do Regulamento de Promoções de Graduados do Exército, para as promoções do 2º semestre de 1970

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61084)
-
 # LEI Nº 12.265, DE 15 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 296/2005, da Deputada Rosmary Corrêa - PSDB)

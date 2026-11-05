@@ -1,7 +1,3 @@
-1
-
-###DEL-002408-0-000-05-01-1988@@@
-
 # DECRETO‑LEI Nº 2.408, DE 5 DE JANEIRO DE 1988
 
 Restabelece a vigência do art.  12 da Lei nº 5.107, de 13 de setembro de 1966, dando‑lhe nova redação, e dá outras providências.

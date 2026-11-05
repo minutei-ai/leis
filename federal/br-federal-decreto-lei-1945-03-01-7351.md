@@ -1,5 +1,3 @@
-###DEL-007351-0-000-01-03-1945@@@
-
 DECRETO-LEI N. 7.351 – DE 1 DE MARÇO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 40. 392,00, para pagamento de aluguéis devidos à Administração do Pôrto do Rio de Janeiro

@@ -1,5 +1,3 @@
-###DEC-073246-0-000-04-12-1973@@@
-
 DECRETO Nº 73.246 - DE 4 DE DEZEMBRO DE 1973
 
 Redistribui cargo, com o respectivo ocupante, e dá outras providências.

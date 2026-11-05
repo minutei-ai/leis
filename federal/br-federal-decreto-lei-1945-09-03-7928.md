@@ -1,5 +1,3 @@
-###DEL-007928-0-000-03-09-1945@@@
-
 DECRETO-LEI N. 7.928 – DE 3 DE SETEMBRO DE 1945 
 
 Institui condecorações destinadas a premiar serviços prestados à humanidade, por intermédio da Sociedade Cruz Vermelha Brasileira, considerada de caráter nacional pelo Decreto n° 9.620, de 13 de junho de 1912.

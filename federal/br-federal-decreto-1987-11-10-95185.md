@@ -1,5 +1,3 @@
-###DEC-095185-0-000-10-11-1987@@@
-
 DECRETO N° 95.185, DE 10 DE NOVEMBRO DE 1987
 
 Altera a composição da Comissão de Cartografia - COCAR, e dá outras providências.

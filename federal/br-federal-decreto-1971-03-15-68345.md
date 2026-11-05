@@ -1,5 +1,3 @@
-###DEC-068345-0-000-15-03-1971@@@
-
 DECRETO Nº 68.345, DE 15 DE MARÇO DE 1971.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Estado de Mato Grosso:

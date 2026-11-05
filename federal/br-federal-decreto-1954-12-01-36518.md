@@ -1,32 +1,30 @@
-###DEC-036518-0-000-01-12-1954@@@
+**DECRETO Nº 36.518, DE 1 DE DEZEMBRO DE 1954.**
 
-<strong>DECRETO Nº 36.518, DE 1 DE DEZEMBRO DE 1954.</strong>
+***Aprova o Regimento do Museu Histórico Nacional, do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Museu Histórico Nacional, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Museu Histórico Nacional do Ministério da Educação e Cultura que, assinado pelo respectivo Ministério de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Museu Histórico Nacional do Ministério da Educação e Cultura que, assinado pelo respectivo Ministério de Estado, com êste baixa.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º revogada-se as disposições em contrário.
+**Art**. 3º revogada-se as disposições em contrário.
 
 Rio de Janeiro, em 1 de dezembro de 1954; 133º da Independência e 66º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Cândido Mota Filho
 
-<strong>REGULAMENTO DO MUSEU HISTÓRICO NACIONAL</strong>
+**REGULAMENTO DO MUSEU HISTÓRICO NACIONAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Museu Histórico Nacional (M.H.N), órgão integrante do Ministério da Educação e Cultura, diretamente subordinado ao respectivo Ministro de Estado, tem por finalidade:
+**Art**. 1º O Museu Histórico Nacional (M.H.N), órgão integrante do Ministério da Educação e Cultura, diretamente subordinado ao respectivo Ministro de Estado, tem por finalidade:
 
 I - recolher, classificar, catalogar e expor ao público objetos e documentos manuscritos de importância histórica e valor artístico, principalmente os relativos ao Brasil;
 
@@ -34,11 +32,11 @@ II - concorrer, por meio de pesquisas, estudos, cursos, conferências, comemora�
 
 III - administrar e ministrar o Curso de Museus, criado pelo Decreto nº 21.129, de 7 de março de 1932 e reorganizado pelo Decreto-lei número 6.689, de 13-7-44 e pelo Decreto nº 16.078, de 13 de julho de 1944.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º o M.H.N é constituído dos seguintes órgãos:
+**Art**. 2º o M.H.N é constituído dos seguintes órgãos:
 
 I - Divisão de História (S.H.).
 
@@ -68,9 +66,9 @@ V) - Serviço de administração - (S.A).
 
 VI) - Gabinete de Restauração - (GR).
 
-<strong>Art</strong>. 3º o M. H.N. será dirigido por um Diretor, em comissão de livre escolha do Presidente da República.
+**Art**. 3º o M. H.N. será dirigido por um Diretor, em comissão de livre escolha do Presidente da República.
 
-<strong>Art</strong>. 4º O Diretor do M.H.N. será assistido pelos Chefes de Divisão e por um Secretário, escolhidos dentre os servidores do Ministério da Educação e Cultura.
+**Art**. 4º O Diretor do M.H.N. será assistido pelos Chefes de Divisão e por um Secretário, escolhidos dentre os servidores do Ministério da Educação e Cultura.
 
 § 1º As funções de Chefe da D.H.A e da D.N.C. serão exercidas por conservadores pertencentes ao Quadro do Ministério da Educação e Cultura;
 
@@ -78,31 +76,31 @@ VI) - Gabinete de Restauração - (GR).
 
 § 3º O Coordenador dos Cursos será assistido por um Secretário.
 
-<strong>Art</strong>. 5º Ficarão afetos ao S.A os serviços de Portaria.
+**Art**. 5º Ficarão afetos ao S.A os serviços de Portaria.
 
-<strong>Art</strong>. 6º Os Chefes de Divisão de Seção e os Encarregados da Portaria e dos Gabinetes e respectivos substitutos, bem como os secretários do Diretor e do Coordenador dos Cursos serão designados e dispensados pelo Diretor do M.H.N.
+**Art**. 6º Os Chefes de Divisão de Seção e os Encarregados da Portaria e dos Gabinetes e respectivos substitutos, bem como os secretários do Diretor e do Coordenador dos Cursos serão designados e dispensados pelo Diretor do M.H.N.
 
-<strong>Art</strong>. 7º O Coordenador do Curso de Museus será designados pelo Ministro de Estado dentro de Estado dentre especialistas em museologia mediante indicação do Diretor do M.H.N.
+**Art**. 7º O Coordenador do Curso de Museus será designados pelo Ministro de Estado dentro de Estado dentre especialistas em museologia mediante indicação do Diretor do M.H.N.
 
-<strong>Art</strong>. 8º Os órgãos que integram a M.H.N funcionarão perfeitamente coordenador em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 8º Os órgãos que integram a M.H.N funcionarão perfeitamente coordenador em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos órgãos</em>
+*Da Competência dos órgãos*
 
-<strong>Art</strong>. 9º À D.H.A. compete:
+**Art**. 9º À D.H.A. compete:
 
 I - Receber, classificar colecionar, catalogar, expor e conservar os objetos adquiridos, doados ou transferidos, ligados direta ou indiretamente à História do Brasil e à Arte Retrospectiva:
 
 II - Realizar pesquisas sôbre assuntos da História do Brasil e Arte Retrospectiva, relacionados com a finalidades do Museu.
 
-<strong>Art</strong>. 10. A.D.N.C. compete:
+**Art**. 10. A.D.N.C. compete:
 
 I - receber, estudar, classificar, colecionar, catalogar, expor e conservar os objetos adquiridos, doados ou transferidos, constantes de moedas, medalhas condecorações, sêlos e peças similares, do pais, e do estrangeiro;
 
 II - realizar pesquisas sôbre assuntos correlatos com os objetos expostos na referida Divisão.
 
-<strong>Art</strong>. 11. A D.D compete:
+**Art**. 11. A D.D compete:
 
 I - Manter repositórios de obras, periódicas, mapas, estampas e fotográfias nacionais e estrangeiras sôbre assuntos relacionados direta ou indireta ou indiretamente com material da competência do Museu e o arquivo de documentos históricos;
 
@@ -130,7 +128,7 @@ XII - Executar os serviços fotográficos solicitados pelos demais órgãos do M
 
 XIII - Organizar e manter atualizados o Catálogo Descritivo ou Guia dos Visitantes, o Catálogo Comentado e os Anais do M.H.N.;
 
-<strong>Art</strong>. 12. A D.C.M compete:
+**Art**. 12. A D.C.M compete:
 
 I - Preparar pessoal habilitado a exercer as funções de conservador de museus históricos e artísticos ou de instruções análogas;
 
@@ -140,7 +138,7 @@ III - Incentivar o interesse pelo estudo da História do Brasil e da arte nacion
 
 IV - Ministrar o Curso de Museus, criado pelo Decreto-lei a 21.129, de 7-3-32 e reorganizado pelo Decreto número 16.078, de 13-7-44.
 
-<strong>Art</strong>. 13 Ao S.A. compete:
+**Art**. 13 Ao S.A. compete:
 
 I - Executar as atividades de administração do M.H.N. devendo, para isso, manter-se perfeitamente articulada com o Departamento articulada com o Departamento de Administração do Ministério, observando e fazendo observar normas e métodos de trabalho de trabalho pelo mesmo prescritas;
 
@@ -186,13 +184,13 @@ IV - fazer a guarda diurna e noturna da área ocupada pelo M.H.N;
 
 V - auxiliar a arrumação dos objetos e móveis.
 
-<strong>Art</strong>. 14 Compete ao G.R.:
+**Art**. 14 Compete ao G.R.:
 
 I - executar as restaurações, retoques e demais serviços que dependerem da sua especialidade, quando solicitado pelos demais órgãos do M.H.N.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
 I - orientar, coordenar, dirigir e fiscaliza os trabalhos do M.H.N.;
 
@@ -250,7 +248,7 @@ XXVII - providenciar no sentido do Curso de Museus;
 
 XXVIIII - designar os servidores que deviam servir como professores que devam servir como professores das matérias do Curso de Museus e, em caso de necessidade, convidar pessoas estranhos, de reconhecido saber.
 
-<strong>Art</strong>. 16. Aos chefes de Divisão e ao Coordenados de Curso compete:
+**Art**. 16. Aos chefes de Divisão e ao Coordenados de Curso compete:
 
 I - dirigir e fiscalizar os trabalhos das respectivas Divisões;
 
@@ -270,7 +268,7 @@ VIII - dar parecer sôbre questões de interêsse do M.H.N. quando solicitado pe
 
 IX - propôs ao Diretor a designação dos chefes das Seções que lhes forem subordinadas.
 
-<strong>Art</strong>. 17 Ao Chefe do S.A. compete.
+**Art**. 17 Ao Chefe do S.A. compete.
 
 I - dirigir orientar e fiscalizar a execução dos trabalhos que couberem ao S.A.;
 
@@ -286,7 +284,7 @@ VI - aplicar aos subordinados as penas disciplinares, inclusive a de suspensão 
 
 VII- apresentar ao Diretor, anualmente o relatório dos trabalhos realizados pelo S.A..
 
-<strong>Art</strong>. 18. Ao Secretário do Diretor compete:
+**Art**. 18. Ao Secretário do Diretor compete:
 
 I - atender as pessoas que procurarem o Diretor, encaminhando-as ou dando conhecimento a êste do assunto a tratar;
 
@@ -296,7 +294,7 @@ III - manter em dia o contrôle do movimento dos processos subordinados a despac
 
 IV - auxiliar o Diretor na confecção dos relatórios das atividades do M.H.N. devendo, para isso, ter sempre coligidos os dados necessários.
 
-<strong>Art</strong>. 19. Aos Chefes de Seção compete:
+**Art**. 19. Aos Chefes de Seção compete:
 
 I - zelar pela boa ordem dos trabalhos da Seção;
 
@@ -308,13 +306,13 @@ IV - apresentar, anualmente, ao chefe da Divisão, o plano de trabalho da Seçã
 
 V - apresentar, anualmente o relatório circunstânciado dos trabalhos executados pela Seção.
 
-<strong>Art</strong>. 20. Ao Chefe da B., além das atribuições constantes do art. 19 Compete:
+**Art**. 20. Ao Chefe da B., além das atribuições constantes do art. 19 Compete:
 
 I - zelar pela conservação do material bibliográfico sob sua guarda;
 
 II - orientar os consulentes na escolha das obras a consultar;
 
-<strong>Art</strong>. 21. Ao Encarregado da Portaria compete:
+**Art**. 21. Ao Encarregado da Portaria compete:
 
 I - dirigir, distribuir e fiscalizar os trabalhos à afetos a Portaria;
 
@@ -326,29 +324,29 @@ IV - superintender os serviços de limpeza e conservação dos objetos, mostruá
 
 V - superintender os serviços de guarda e vigilância do prédio.
 
-<strong>Art</strong>. 22. Aos servidores que não tenham atribuições especificadas neste Regulamento incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art**. 22. Aos servidores que não tenham atribuições especificadas neste Regulamento incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 23. M. H. N. terá lotação aprovada em decreto.
+**Art**. 23. M. H. N. terá lotação aprovada em decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 24. O horário normal de trabalho do M.H.N. será fixado pelo diretor, respeitado o número de horas semanais estabelecido para o serviço público, fixado, porém, o de 44 horas de trabalho semanal para os vigias e pessoal destacado na Portaria.
+**Art**. 24. O horário normal de trabalho do M.H.N. será fixado pelo diretor, respeitado o número de horas semanais estabelecido para o serviço público, fixado, porém, o de 44 horas de trabalho semanal para os vigias e pessoal destacado na Portaria.
 
-<strong>Art</strong>. 25. Os servidores do M.H.N estão sujeitas ao regime de plantões, nos domingos e feriados, obedecendo a condição de um mínimo de 33 horas de trabalho semanal, com um dia obrigatório para descanso.
+**Art**. 25. Os servidores do M.H.N estão sujeitas ao regime de plantões, nos domingos e feriados, obedecendo a condição de um mínimo de 33 horas de trabalho semanal, com um dia obrigatório para descanso.
 
 Parágrafo único. O Diretor não está sujeito a ponto, devendo, porém, observar o disposto no art. 5º da Lei nº 2.188, de 3 de março de 1954.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 26 Serão automàticamente substituídos nas faltas e impedimentos ocasionais:
+**Art**. 26 Serão automàticamente substituídos nas faltas e impedimentos ocasionais:
 
 I - O Diretor, por um chefe de Divisão de sua escolha, prèviamente designado pelo Ministro;
 
@@ -356,48 +354,48 @@ II - Os Chefes de Divisão, Serviço, por servidores de sua livre escolha, prèv
 
 III - O coordenador da D.C.M., pelo seu Secretário.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 27. Será permitida a entrada ao Museu a tôdas as pessoas que se apresentarem convenientemente trajadas, salvo crianças, menores de 10 anos de idade, não acompanhadas por pessoa idônea.
+**Art**. 27. Será permitida a entrada ao Museu a tôdas as pessoas que se apresentarem convenientemente trajadas, salvo crianças, menores de 10 anos de idade, não acompanhadas por pessoa idônea.
 
-<strong>Art</strong>. 28. O M.H.N deverá facilitar a sua visitação por todos os meios possíveis e fornecer ao público quaisquer informações relacionadas com as suas finalidades, tendo em vista despertar nos visitantes e consulentes o interêsse pela história do Brasil e o culto pelas tradições nacionais.
+**Art**. 28. O M.H.N deverá facilitar a sua visitação por todos os meios possíveis e fornecer ao público quaisquer informações relacionadas com as suas finalidades, tendo em vista despertar nos visitantes e consulentes o interêsse pela história do Brasil e o culto pelas tradições nacionais.
 
-<strong>Art</strong>. 29 A consulta às obras, documentos e fichários mantidos pela D.D. só será facultada nos dias úteis, das 13 às 16 horas, mediante permissão do Diretor ou Chefe da D.D.
+**Art**. 29 A consulta às obras, documentos e fichários mantidos pela D.D. só será facultada nos dias úteis, das 13 às 16 horas, mediante permissão do Diretor ou Chefe da D.D.
 
-<strong>Art</strong>. 30. Qualquer pessoa pode requerer ao diretor do M.H.N. a autenticação e peritagem de objetos históricos e artísticos, por técnicos de  Museu, mediante pagamento dos emolumentos fixados em lei.
+**Art**. 30. Qualquer pessoa pode requerer ao diretor do M.H.N. a autenticação e peritagem de objetos históricos e artísticos, por técnicos de  Museu, mediante pagamento dos emolumentos fixados em lei.
 
-<strong>Art</strong>. 31 Os objetos exposto só poderão ser retirados dos mostruários e examinados com permissão especial do Diretor.
+**Art**. 31 Os objetos exposto só poderão ser retirados dos mostruários e examinados com permissão especial do Diretor.
 
 § 1º Não se mostrarão objetos retirados dos mostruários a mais de uma pessoa ao mesmo tempo.
 
 § 2º A comparação dos objetos e estranhos com os do M.H.N., por parte dos visitantes e consulentes, só se efetuará na presença do Diretor ou do Chefe da respectiva Divisão.
 
-<strong>Art</strong>. 32 O fichário, os documentos e as obras só poderão ser consultadas em presença dos servidores encarregados de sua guarda.
+**Art**. 32 O fichário, os documentos e as obras só poderão ser consultadas em presença dos servidores encarregados de sua guarda.
 
-<strong>Art</strong>. 33. A cópia de trechos das obras impressas e dos documentos expostos á consulta independe de autorização.
+**Art**. 33. A cópia de trechos das obras impressas e dos documentos expostos á consulta independe de autorização.
 
-<strong>Art</strong>. 34. A reprodução de objetos e documentos, bem como cópia de trechos das obras impressas pelo M.H.N., em livros, revistas ou jornal só será permitida, obrigando-se o interessado a indicar expressamente na publicação, documentos a precedência da peça, documentos ou trecho reproduzido.
+**Art**. 34. A reprodução de objetos e documentos, bem como cópia de trechos das obras impressas pelo M.H.N., em livros, revistas ou jornal só será permitida, obrigando-se o interessado a indicar expressamente na publicação, documentos a precedência da peça, documentos ou trecho reproduzido.
 
-<strong>Art</strong>. 35. A fim de fazer a sua propaganda e satisfazer interêsses de visitante e turistas, o M.H.N., poderá mandar editar cartões postais avulsos ou em bloco, com a reprodução fotográfica ou litográfica de edifício, salas e objetos principais, os quais deverão ser vendidos ao público na portaria, sendo o produto da venda recolhido conforme a legislação em vigor.
+**Art**. 35. A fim de fazer a sua propaganda e satisfazer interêsses de visitante e turistas, o M.H.N., poderá mandar editar cartões postais avulsos ou em bloco, com a reprodução fotográfica ou litográfica de edifício, salas e objetos principais, os quais deverão ser vendidos ao público na portaria, sendo o produto da venda recolhido conforme a legislação em vigor.
 
-<strong>Art</strong>. 36. A sala de conferências só será cedida para fins educativos e patrióticos.
+**Art**. 36. A sala de conferências só será cedida para fins educativos e patrióticos.
 
-<strong>Art</strong>. 37. As grandes datas da História do Brasil serão comemoradas no M.H.N, por meio de sessões cívicas, conferências e exposições especiais.
+**Art**. 37. As grandes datas da História do Brasil serão comemoradas no M.H.N, por meio de sessões cívicas, conferências e exposições especiais.
 
-<strong>Art</strong>. 38. O M.H.N. deverá manter as mais estreitas relações de cooperação com estabelecimentos similares do país e do estrangeiro.
+**Art**. 38. O M.H.N. deverá manter as mais estreitas relações de cooperação com estabelecimentos similares do país e do estrangeiro.
 
-<strong>Art</strong>. 39. Em hipótese algum, poderão ser cedidos por empréstimo objetos históricos e artísticos do M.H.N. poderá ser feita, fora do M.H.N, sob qualquer exposição dêsses objetos só sua direção e responsabilidade.
+**Art**. 39. Em hipótese algum, poderão ser cedidos por empréstimo objetos históricos e artísticos do M.H.N. poderá ser feita, fora do M.H.N, sob qualquer exposição dêsses objetos só sua direção e responsabilidade.
 
-<strong>Art</strong>. 40. O Diretor determinará a necessária vigilância das salas de exposição, de conferências e de aulas, proibindo o uso de fumo e que os objetos sejam tocados pelos visitantes.
+**Art**. 40. O Diretor determinará a necessária vigilância das salas de exposição, de conferências e de aulas, proibindo o uso de fumo e que os objetos sejam tocados pelos visitantes.
 
-<strong>Art</strong>. 41. Sem prejuízo das atribuições do G.R., es trabalhos de restauração, em casos especiais, poderão ser confiados a pessoas estranhos, de idoneidade e capacidade comprovadas, juízo do Diretor e sob sua fiscalização.
+**Art**. 41. Sem prejuízo das atribuições do G.R., es trabalhos de restauração, em casos especiais, poderão ser confiados a pessoas estranhos, de idoneidade e capacidade comprovadas, juízo do Diretor e sob sua fiscalização.
 
-<strong>Art</strong>. 42.nas fotografias feitas no interior do M.H.N. é absolutamente proibido o uso de substâncias químicas destinadas a produzir luz artificial.
+**Art**. 42.nas fotografias feitas no interior do M.H.N. é absolutamente proibido o uso de substâncias químicas destinadas a produzir luz artificial.
 
-<strong>Art</strong>. 43. De todos os atos de vida do M.H.N. deverá ser dada conveniente divulgação.
+**Art**. 43. De todos os atos de vida do M.H.N. deverá ser dada conveniente divulgação.
 
 Rio de Janeiro, me 1 de dezembro de 1954.
 
-<strong>CANDIDO MOTA FILHO</strong>
+**CANDIDO MOTA FILHO**

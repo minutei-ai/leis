@@ -1,5 +1,3 @@
-###DEC-070450-0-000-25-04-1972@@@
-
 DECRETO Nº 70.450, DE 25 DE ABRIL DE 1972.
 
 Torna sem efeito aproveitamento de disponível na Universidade Federal Rural de Pernambuco.

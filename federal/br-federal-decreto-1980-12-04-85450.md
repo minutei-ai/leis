@@ -1,5 +1,3 @@
-###DEC-085450-0-000-04-12-1980@@@
-
 (\*) - Decreto nº 85.450, de 04 de dezembro de 1980.
 
 Aprova o Regulamento para a cobrança e fiscalização do Imposto sobre a Renda e Proventos de Qualquer Natureza.

@@ -1,5 +1,3 @@
-###DEC-073338-0-000-19-12-1973@@@
-
 DECRETO nº 73.338 - de 19 de dezembro de 1973
 
 Cria funções gratificadas no quadro de pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

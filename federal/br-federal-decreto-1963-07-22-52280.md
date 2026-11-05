@@ -1,5 +1,3 @@
-###DEC-052280-0-000-22-07-1963@@@
-
 decreto nº 52.280, de 22 de julho de 1963.
 
 Cria a Secretaria-Geral Adjunta para Assuntos de Planejamento Político.

@@ -12,8 +12,10 @@ Goiânia, 10 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-MAJOR ARAÚJO<br>
+MAJOR ARAÚJO
+
 Deputado Estadual

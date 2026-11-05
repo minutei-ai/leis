@@ -1,5 +1,3 @@
-###DEL-001464-0-000-29-04-1976@@@
-
 # DECRETO-LEI Nº 1.464, DE 29 DE ABRIL DE 1976
 
 Fixa o valor do soldo do posto de Coronel da Polícia Militar e do Corpo de Bombeiros do Distrito Federal, e dá outras providências.

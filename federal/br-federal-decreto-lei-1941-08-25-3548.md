@@ -1,5 +1,3 @@
-###DEL-003548-0-000-25-08-1941@@@
-
 DECRETO-LEI N. 3.548 – DE 25 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de réis 1.018:200$0 para aquisição de material destinado à Escola de Especialistas de Aeronáutica.

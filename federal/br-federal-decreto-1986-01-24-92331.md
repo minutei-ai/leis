@@ -1,5 +1,3 @@
-###DEC-092331-0-000-24-01-1986@@@
-
 DECRETO Nº 92.331, DE 24 DE JANEIRO DE 1986
 
 Outorga concessão à REDE MS-INTEGRAÇÃO DE RÁDIO E TELEVISÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Campo Grande, Estado do Mato Grosso do Sul.

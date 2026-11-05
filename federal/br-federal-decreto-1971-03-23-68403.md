@@ -1,5 +1,3 @@
-###DEC-068403-0-000-23-03-1971@@@
-
 DECRETO Nº 68.403, DE 23 DE MARÇO DE 1971.
 
 Autoriza a cessão onerosa de parte de imóvel da União situado em Belo Horizonte, Estado de Minas Gerais, nas condições específicas.

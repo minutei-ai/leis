@@ -1,5 +1,3 @@
-###DEC-056653-0-000-05-08-1965@@@
-
 DECRETO Nº 56.653, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza Mário Fernando Adriano Franco a comprar pedras preciosas.

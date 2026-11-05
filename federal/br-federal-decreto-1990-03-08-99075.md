@@ -1,7 +1,3 @@
-1
-
-###DEC-099075-0-000-08-03-1990@@@
-
 DECRETO Nº 99.075, DE 8 DE MARÇO DE 1990
 
 Autoriza a Telecomunicações Brasileiras S.A. - TELEBRÁS a promover aumento de capital social.

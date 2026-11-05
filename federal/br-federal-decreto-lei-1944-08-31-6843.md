@@ -1,5 +1,3 @@
-###DEL-006843-0-000-31-08-1944@@@
-
 DECRETO-LEI N. 6.843 – DE 31 DE AGÔSTO DE 1944
 
 Altera o Decreto-lei nº 5.530, de 28 de maio de 1943

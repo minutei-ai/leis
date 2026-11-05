@@ -1,5 +1,3 @@
-###DEL-002314-0-000-23-12-1986@@@
-
 # DECRETO-LEI Nº 2.314, DE 23 DE DEZEMBRO DE 1986
 
 Altera a legislação do imposto de renda.

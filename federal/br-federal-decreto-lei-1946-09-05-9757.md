@@ -1,5 +1,3 @@
-###DEL-009757-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.757 – DE 5 DE SETEMBRO DE 1946
 
 Acresce de mais um General de Divisão o Quadro de Oficiais Generais do Exército

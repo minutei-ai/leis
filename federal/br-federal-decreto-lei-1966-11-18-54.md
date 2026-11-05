@@ -1,5 +1,3 @@
-###DEL-000054-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 54, DE 18 DE NOVEMBRO DE 1966
 
 Dá nova redação ao artigo 4º do decreto-lei nº 7.381, de 13 de março de 1945.

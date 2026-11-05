@@ -1,5 +1,3 @@
-###DEL-005577-0-000-15-06-1943@@@
-
 DECRETO‑LEI N. 5.577 – DE 15 DE JUNHO DE 1943
 
 Funda as carreiras de Médico Psiquiatra dos Quadros Permanente e Suple­mentar do Ministério da Educação e Saúde, e dá outras providências
@@ -19,8 +17,6 @@ Rio de Janeiro, 15 de junho de 1943, 122º da Independência e 55º da Repúblic
 GETÚLIO VARGAS.
 
 Gustavo Capanema.
-
-<br>
 
 MINISTÊRIO DA EDUCAÇÃO E SAúDE QUADRO PERMANENTE
 

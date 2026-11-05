@@ -1,7 +1,3 @@
-1
-
-###DEC-099444-0-000-09-08-1990@@@
-
 DECRETO N° 99.444, DE 9 DE AGOSTO DE 1990
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo Regional de Abertura de Mercados em Favor do Paraguai (Acordo n° 3), entre o Brasil e o Paraguai.

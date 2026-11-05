@@ -1,5 +1,3 @@
-###DEC-061238-0-000-24-08-1967@@@
-
 decreto nº 61.238, de 24 de agÔsto de 1967.
 
 Autoriza estrangeiros a adquirir, em confirmação e transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

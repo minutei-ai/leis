@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209922)<br>
-
 # DECRETO N° 68.831, DE 04 DE SETEMBRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Linha Universidade S/A., os imóveis necessários à implantação de saída de emergência na Linha 6 - Laranja de Metrô, localizados na Rua da Consolação n°s 1.231, 1.233, 1.241 e 1.243, no Município de São Paulo, e dá providências correlatas._

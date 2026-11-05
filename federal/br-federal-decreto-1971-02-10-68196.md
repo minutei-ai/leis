@@ -1,5 +1,3 @@
-###DEC-068196-0-000-10-02-1971@@@
-
 DECRETO Nº 68.196, DE 10 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem de uma linha de transmissão e de um ramal da mesma, no Estado de São Paulo.

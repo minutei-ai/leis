@@ -1,5 +1,3 @@
-###DEC-089081-0-000-30-11-1983@@@
-
 decretO nº 89.081, de 30 de novembro de 1983
 
 Concede autorização à Empresa PECTEN SANTOS EXPLORATION COMPANY para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

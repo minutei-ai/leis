@@ -1,5 +1,3 @@
-###DEC-046206-0-000-11-06-1959@@@
-
 Decreto nº 46.206, De 11 de junho de 1959.
 
 Transfere de Heráclito de Paula Martins para Domingos Ferreira Rios a concessão para a produção e fornecimento de energia elétrica ao distrito de Caputira, Município de Matipó Estado de Minas Gerais.

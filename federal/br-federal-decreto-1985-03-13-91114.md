@@ -1,5 +1,3 @@
-###DEC-091114-0-000-13-03-1985@@@
-
 DECRETO Nº 91.114, de 13 de março de 1985
 
 Revoga o Decreto nº 38.599, de 17 de Janeiro de 1956, que aprovou o Regulamento de Estatística para Fins Militares.

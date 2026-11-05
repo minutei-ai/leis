@@ -1,5 +1,3 @@
-###MPV-000025-0-000-23-01-2002@@@
-
 MEDIDA PROVISÓRIA No 25, DE 23 DE JANEIRO DE 2002.
 
 Dispõe sobre a tributação dos planos de benefícios de caráter previdenciário.

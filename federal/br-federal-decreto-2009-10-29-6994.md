@@ -1,5 +1,3 @@
-###DEC-006994-0-000-29-10-2009@@@
-
 DECRETO Nº 6.994, DE 29 DE OUTUBRO DE 2009.
 
 Dispõe sobre a execução do Qüinquagésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica no 35 (54PA-ACE35), assinado entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República do Chile, em 7 de julho de 2009.

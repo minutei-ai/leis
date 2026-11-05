@@ -1,5 +1,3 @@
-###DEC-055724-0-000-03-02-1965@@@
-
 DECRETO Nº 55.724, DE 3 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro João Ernesto da Costa a pesquisar água mineral no município de Pedro Avelino, Estado do Rio Grande do Norte.

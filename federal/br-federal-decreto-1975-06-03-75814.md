@@ -1,5 +1,3 @@
-###DEC-075814-0-000-03-06-1975@@@
-
 DECRETO Nº 75.814, DE 3 DE JUNHO DE 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de distribuição da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

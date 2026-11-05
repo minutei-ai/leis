@@ -87,7 +87,3 @@ ANEXO II (a que se refere o § 3º do art. 8º da Lei Complementar nº 139, de 3
 “ANEXO II Relação das comarcas com os municípios que as integram (a que se refere o § 2º do art. 3º da Lei Complementar nº 59, de 2001, consolidado com as alterações promovidas pelos arts. 52 e 53 da Lei Complementar nº 105, de 2008)
 
 (…) 181 – Matipó Matipó Caputira Santa Margarida
-
-\=====================================
-
-Data da última atualização: 7/1/2021.

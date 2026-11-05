@@ -1,5 +1,3 @@
-###DEL-009318-0-000-03-06-1946@@@
-
 DECRETO-LEI N. 9.318 – DE 3 DE JUNHO DE 1946
 
 Dá nova redação ao art. 1º, do Decreto-lei nº 8.342, de 10 de Novembro de 1945

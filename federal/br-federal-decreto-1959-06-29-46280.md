@@ -1,5 +1,3 @@
-###DEC-046280-0-000-29-06-1959@@@
-
 decreto nº 46.280, de 29 de junho de 1959.
 
 Cancela o Decreto nº 40.759, de 15 de janeiro de 1957.

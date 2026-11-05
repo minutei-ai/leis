@@ -1,5 +1,3 @@
-###DEL-002040-0-000-30-06-1983@@@
-
 # Decreto-LeI nº 2.040, de 30 de junho de 1983
 
 Altera a legislação do imposto de renda e da outras providências.

@@ -1,5 +1,3 @@
-###DEC-057704-0-000-02-02-1966@@@
-
 Decreto nº 57.704, DE 2 DE FEVEREIRO DE 1966.
 
 Declara de utilidade pública a “Obra da Fraternidade da Mulher Brasileira” com sede no Estado da Guanabara.

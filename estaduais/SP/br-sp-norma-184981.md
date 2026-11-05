@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184981)
-
 # DECRETO Nº 63.155, DE 16 DE JANEIRO DE 2018
 
 ### _Dá denominação de Penitenciária "AEVP Cristiano de Oliveira" de Flórida Paulista à Penitenciária de Flórida Paulista, da Coordenadoria de Unidades Prisionais da Região Oeste do Estado, da Secretaria da Administração Penitenciária_
@@ -16,10 +14,16 @@ Palácio dos Bandeirantes, 16 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Lourival Gomes<br>
-Secretário da Administração Penitenciária<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Lourival Gomes
+
+Secretário da Administração Penitenciária
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 16 de janeiro de 2018.

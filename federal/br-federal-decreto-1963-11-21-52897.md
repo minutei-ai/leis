@@ -1,5 +1,3 @@
-###DEC-052897-0-000-21-11-1963@@@
-
 Decreto nº 52.897, de 21 de novembro de 1963.
 
 Aprova alterações introduzidas nos Estatutos da Ultramar Companhia Brasileira de Seguros, inclusive aumento do capital social.

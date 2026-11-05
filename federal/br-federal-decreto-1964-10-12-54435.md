@@ -1,5 +1,3 @@
-###DEC-054435-0-000-12-10-1964@@@
-
 decreto nº 54.435, de 12 de outubro de 1964.
 
 Autoriza cessão gratuita de imóvel da União Federal, no Estado da Guanabara, à Fundação Getúlio Vargas, com apoio no parágrafo 3º do artigo 64 e artigos 125 e 126, todos do Decreto-lei nº 9.760, de 1946.

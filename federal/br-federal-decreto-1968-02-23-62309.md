@@ -1,5 +1,3 @@
-###DEC-062309-0-000-23-02-1968@@@
-
 DECRETO Nº 62.309, DE 23 DE FEVEREIRO DE 1968.
 
 Autoriza a Light Serviços de Eletricidade S. A. a construir linha de transmissão.

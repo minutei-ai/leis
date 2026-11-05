@@ -1,5 +1,3 @@
-###DEC-048250-0-000-31-05-1960@@@
-
 decreto nº 48.250, de 31 de maio de 1960.
 
 Concede reconhecimento a curso.

@@ -1,5 +1,3 @@
-###DEL-009796-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.796 – DE 9 DE SETEMBRO DE 1946
 
 Dispõe sôbre os descontos e recolhimentos das cotas devidas à Legião Brasileira de Assistência.

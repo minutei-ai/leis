@@ -1,5 +1,3 @@
-###DEC-060622-0-000-26-04-1967@@@
-
 DECRETO Nº 60.622, DE 26 DE ABRIL DE 1967.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. – Eletrobrás.

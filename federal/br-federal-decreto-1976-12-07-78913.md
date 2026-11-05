@@ -1,5 +1,3 @@
-###DEC-078913-0-000-07-12-1976@@@
-
 DECRETO Nº 78.913, DE 7 DE DEZEMBRO DE 1976.
 
 Altera dispositivo do Regulamento para o Corpo de Oficiais da Reserva do Exército, aprovado pelo Decreto número 41.475, de 8 de maio de 1957, e dá outras providências.

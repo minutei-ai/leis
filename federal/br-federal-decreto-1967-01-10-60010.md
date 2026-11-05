@@ -1,5 +1,3 @@
-###DEC-060010-0-000-10-01-1967@@@
-
 DECRETO nº 60.010, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Antônio Lopes Vieira Leite a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

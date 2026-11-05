@@ -1,5 +1,3 @@
-###DEC-064660-0-000-06-06-1969@@@
-
 DECRETO Nº 64.660, DE 6 DE JUNHO DE 1969.
 
 Cria o 7º Batalhão de Engenharia de Construção.

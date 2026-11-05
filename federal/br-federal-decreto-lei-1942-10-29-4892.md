@@ -1,5 +1,3 @@
-###DEL-004892-0-000-29-10-1942@@@
-
 DECRETO-LEI N. 4.892 – DE 29 DE OUTUBRO DE 1942
 
 Autoriza o prefeito do Distrito Federal a efetuar a permuta do prédio da rua Senhor dos Passos, 83/85, com o da rua General Câmara n. 256.  nas condições que menciona

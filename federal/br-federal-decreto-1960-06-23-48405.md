@@ -1,5 +1,3 @@
-###DEC-048405-0-000-23-06-1960@@@
-
 DECRETO Nº 48.405, DE 23 DE JUNHO E 1960.
 
 Autoriza o cidadão brasileiro Antônio Lamas Filho, a pesquisar vermiculita, no município de Rio Pomba, Estado de Minas Gerais.

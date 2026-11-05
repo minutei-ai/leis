@@ -1,5 +1,3 @@
-###DEC-089388-0-000-20-02-1984@@@
-
 Decreto nº 89.388, de 20 de fevereiro de 1984
 
 Altera os Estatutos da Empresa Brasileira de Assistência Técnica e Extensão Rural - EMBRATER, aprova dos pelo Decreto nº 75.373, de 14 de fevereiro de 1975, e dá outras providências.

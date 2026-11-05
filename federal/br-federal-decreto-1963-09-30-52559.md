@@ -1,5 +1,3 @@
-###DEC-052559-0-000-30-09-1963@@@
-
 DECRETO Nº 52.559, DE 30 dE SETEMBRO DE 1963.
 
 Transfere de Frederico Alves Pinto para a Prefeitura municipal de Joanópolis, Estado de São Paulo, a concessão para produção, transmissão e distribuição de energia elétrica no município.

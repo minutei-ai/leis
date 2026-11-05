@@ -1,5 +1,3 @@
-###DEC-053089-0-000-06-12-1963@@@
-
 Decreto nº 53.089, de 6 de dezembro de 1963.
 
 Altera, sem aumento de despesa, a lotação numérica dos Tesoureiros Auxiliares de Delegacias Regionais do Instituto de Aposentadoria e Pensões dos Ferroviários e Empregados dos Serviços Públicos, aprovada pelo Decreto nº51.500, de 8 de junho de 1962.

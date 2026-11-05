@@ -1,5 +1,3 @@
-###DEC-058148-0-000-04-04-1966@@@
-
 Decreto nº 58.148, de 4 de abril de 1966.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica

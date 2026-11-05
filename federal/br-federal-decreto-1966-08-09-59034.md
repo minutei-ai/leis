@@ -1,5 +1,3 @@
-###DEC-059034-0-000-09-08-1966@@@
-
 DECRETO Nº 59.034, DE 09 DE AGôSTO DE 1966.
 
 Disciplina a Adjudicação de cota- parte de multas, relativamente a quaisquer tributos, e dá outras providências.

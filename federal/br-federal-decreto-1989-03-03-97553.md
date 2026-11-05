@@ -1,5 +1,3 @@
-###DEC-097553-0-000-03-03-1989@@@
-
 DECRETO N° 97.553, DE 3 DE MARÇO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências Administrativas de Barra Mansa, Rio de Janeiro.

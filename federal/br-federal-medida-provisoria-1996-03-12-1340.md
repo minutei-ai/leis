@@ -1,7 +1,3 @@
-1
-
-###MPV-001340-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.340, DE 12 DE MARÇO DE 1996.
 
 Altera as Leis nºs 8.019, de 11 de abril de 1990, e 8.212, de 24 de julho de 1991, e dá outras providências.

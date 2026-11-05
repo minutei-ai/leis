@@ -1,5 +1,3 @@
-###DEC-066141-0-000-29-01-1970@@@
-
 decreto nº 66.141 - de 29 de janeiro de 1970
 
 Autoriza funcionamento de Escola.

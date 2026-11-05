@@ -1,5 +1,3 @@
-###DEC-090724-0-000-19-12-1984@@@
-
 Decreto nº 90.724, de 19 de dezembro de 1984
 
 Declara de interesse social, para fins de desapropriação os Lotes números 06, 07 e 08 do Loteamento "Fazenda Extrema", situados no Município de Nazaré, Estado de Goiás, compreendido na Zona Prioritária de reforma agrária de que trata o Decreto 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de agosto de 1980 e Decreto 87.095, de 16 de abril de 1982.

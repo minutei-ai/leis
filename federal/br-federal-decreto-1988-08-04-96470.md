@@ -1,5 +1,3 @@
-###DEC-096470-0-000-04-08-1988@@@
-
 DECRETO Nº 96.470, DE 4 DE AGOSTO DE 1988
 
 Reduz alíquotas do Imposto sobre Produtos Industrializados.

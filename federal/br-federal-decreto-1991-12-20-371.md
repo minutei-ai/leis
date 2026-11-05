@@ -1,7 +1,3 @@
-1
-
-###DEC-000371-0-000-20-12-1991@@@
-
 DECRETO N° 371, DE 20 DE DEZEMBRO DE 1991
 
 Institui o Serviço Social Autônomo “Associação das Pioneiras Sociais”, e dá outras providências.

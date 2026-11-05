@@ -1,5 +1,3 @@
-###DEC-006579-0-000-25-09-2008@@@
-
 DECRETO Nº 6.579, DE 25 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução do Sexagésimo Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, de 12 de maio de 2008.

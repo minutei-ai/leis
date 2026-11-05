@@ -1,4 +1,5 @@
-DECRETO Nº 2.766, DE 10 DE DEZEMBRO DE 2025<br>
+DECRETO Nº 2.766, DE 10 DE DEZEMBRO DE 2025
+
 (Revogado pelo DECRETO Nº 466, DE 15 DE JUNHO DE 2026).
 
 ~~Dispõe sobre o remembramento do Lote 01 da Gleba de Terras Fazenda Santo Antônio e Lote 02 da Área 01 Fazenda Santo Antônio, situados à Rodovia BR-153, no Loteamento Villa Sul, no Município de Aparecida de Goiânia.~~
@@ -21,7 +22,8 @@ DECRETO Nº 2.766, DE 10 DE DEZEMBRO DE 2025<br>
 
  
 
-~~LEANDRO VILELA VELLOSO<br>
+~~LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia~~
 
 ~~ANEXO~~

@@ -1,5 +1,3 @@
-###DEC-078429-0-000-16-09-1976@@@
-
 DECRETO Nº 78.429, DE 16 DE SETEMBRO DE 1976.
 
 Altera dispositivo do Decreto número 73.672-74, de 18 de fevereiro de 1974, que concedeu reconhecimento aos cursos de Estudos Sociais, de Ciências e de Letras da Faculdade de Filosofia, Ciências e Letras das Faculdades Integradas do Instituto Educacional Piracicabano, com sede na cidade de Piracicaba, Estado de São Paulo.

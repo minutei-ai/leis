@@ -1,5 +1,3 @@
-###MPV-001863-0-051-27-07-1999@@@
-
 Medida Provisória nº 1.863-51, de 27 de julho de 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgão e entidades federais, e dá outras providências.

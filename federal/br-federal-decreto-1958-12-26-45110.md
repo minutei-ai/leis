@@ -1,5 +1,3 @@
-###DEC-045110-0-000-26-12-1958@@@
-
 DECRETO Nº 45.110, DE 26 DE DEZEMBRO DE 1958.
 
 Dá nova denominação a funções gratificadas da Casa de Rui Barbosa.

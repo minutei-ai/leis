@@ -1,5 +1,3 @@
-###DEC-088936-0-000-01-11-1983@@@
-
 decreto nº 88.936, de 01 de novembro de 1983.
 
 Altera a composição das Armas - Oficiais Combatentes - e dos Quadros de Material Bélico, de Intendentes, de Médicos e de Dentistas e dá outras providências.

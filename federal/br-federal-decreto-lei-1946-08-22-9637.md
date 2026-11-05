@@ -1,5 +1,3 @@
-###DEL-009637-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.637 – DE 22 DE AGÔSTO DE 1946
 
 Altera o Orçamento Geral da República sem aumento de despesa

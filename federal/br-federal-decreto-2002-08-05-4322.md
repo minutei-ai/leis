@@ -1,5 +1,3 @@
-###DEC-004322-0-000-05-08-2002@@@
-
 DECRETO Nº 4.322, DE 5 DE AGOSTO DE 2002
 
 Publica Plano Plurianual 2000-2003 vigente.

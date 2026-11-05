@@ -1,5 +1,3 @@
-###DEC-075749-0-000-22-05-1975@@@
-
 DECRETO Nº 75.749, DE 22 DE MAIO DE 1975.
 
 Considera relevantes os serviços prestados nas Comissões Municipais do MOBRAL.

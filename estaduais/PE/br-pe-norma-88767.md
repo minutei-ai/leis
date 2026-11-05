@@ -49,17 +49,27 @@ BIANCA FERREIRA TEIXEIRA
 **INCLUSÃO DE AÇÃO E/OU FINALIDADE**
 
 <table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="614" style="width:460.45pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="236" style="width:177.2pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;background:white"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">AÇÃO</span></p></td><td width="378" style="width:283.25pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">FINALIDADE</span></p></td></tr><tr><td width="236" valign="top" style="width:177.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4828 - Transferências Especiais à União</span></p></td><td width="378" valign="top" style="width:283.25pt;border-top:none;border-left:
+  0cm 0cm 0cm 0cm">
+
+AÇÃO
+
+</td><td width="378" style="width:283.25pt;border:solid windowtext 1.0pt;border-left:
+  none;padding:0cm 0cm 0cm 0cm">
+
+FINALIDADE
+
+</td></tr><tr><td width="236" valign="top" style="width:177.2pt;border:solid windowtext 1.0pt;
+  border-top:none;padding:0cm 0cm 0cm 0cm">
+
+4828 - Transferências Especiais à União
+
+</td><td width="378" valign="top" style="width:283.25pt;border-top:none;border-left:
   none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">NÃO SE APLICA</span></p></td></tr></tbody></table>
+  padding:0cm 0cm 0cm 0cm">
+
+NÃO SE APLICA
+
+</td></tr></tbody></table>
 
 **ANEXO II**
 
@@ -91,194 +101,8 @@ Regionalização: Todo Estado
 
 2.  Quadro das Dotações Orçamentárias:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="651" style="width:488.25pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="516" colspan="7" valign="bottom" style="width:387.2pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ORÇAMENTO FISCAL 2026</span></p></td><td width="134" colspan="3" valign="bottom" style="width:100.4pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">EM R$ 1,00</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="height:1.15pt"><td width="231" colspan="4" valign="bottom" style="width:173.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="419" colspan="6" valign="bottom" style="width:314.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">RECURSOS DE TODAS AS FONTES</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="height:1.15pt"><td width="231" colspan="4" valign="bottom" style="width:173.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ESPECIFICAÇÃO</span></p></td><td width="285" colspan="3" valign="bottom" style="width:214.0pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="48" valign="bottom" style="width:36.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FONTE</span></p></td><td width="86" colspan="2" valign="bottom" style="width:64.4pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VALOR</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="height:1.15pt"><td width="516" colspan="7" valign="top" style="width:387.2pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">29000 - ENCARGOS GERAIS DO ESTADO</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">00118 - Recursos sob Supervisão da Secretaria da Fazenda - Administração Direta</span></p></td><td width="50" colspan="2" valign="bottom" style="width:37.25pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="85" colspan="2" valign="bottom" style="width:63.8pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="height:1.15pt"><td width="104" style="width:78.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Op. Especial:</span></p></td><td width="98" style="width:73.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">28.846.0197.4828</span></p></td><td width="313" colspan="4" style="width:234.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Transferências Especiais à União</span></p></td><td width="51" colspan="3" valign="top" style="width:38.35pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="85" colspan="2" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46.800.000,00</span></p></td></tr><tr style="height:1.15pt"><td width="104" style="width:78.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="98" style="width:73.55pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.4.20.00</span></p></td><td width="313" colspan="4" style="width:234.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Investimentos</span></p></td><td width="51" colspan="3" style="width:38.35pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">0500</span></p></td><td width="85" colspan="2" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46.800.000,00</span></p></td></tr><tr style="height:1.15pt"><td width="104" style="width:78.0pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="99" colspan="2" style="width:74.6pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="307" colspan="2" style="width:229.9pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="56" colspan="4" style="width:41.95pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="85" colspan="2" style="width:63.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46.800.000,00</span></p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="7" valign="bottom"> ORÇAMENTO FISCAL 2026 </td><td colspan="3" valign="bottom"> EM R$ 1,00 </td><td> &nbsp; </td></tr><tr><td colspan="4" valign="bottom"> &nbsp; </td><td colspan="6" valign="bottom"> RECURSOS DE TODAS AS FONTES </td><td> &nbsp; </td></tr><tr><td colspan="4" valign="bottom"> ESPECIFICAÇÃO </td><td colspan="3" valign="bottom"> &nbsp; </td><td valign="bottom"> FONTE </td><td colspan="2" valign="bottom"> VALOR </td><td> &nbsp; </td></tr><tr><td colspan="7" valign="top"> 29000 - ENCARGOS GERAIS DO ESTADO 00118 - Recursos sob Supervisão da Secretaria da Fazenda - Administração Direta </td><td colspan="2" valign="bottom"> &nbsp; </td><td colspan="2" valign="bottom"> &nbsp; </td></tr><tr><td> Op. Especial: </td><td> 28.846.0197.4828 </td><td colspan="4"> Transferências Especiais à União </td><td colspan="3" valign="top"> &nbsp; </td><td colspan="2"> 46.800.000,00 </td></tr><tr><td> &nbsp; </td><td> 4.4.20.00 </td><td colspan="4"> Investimentos </td><td colspan="3"> 0500 </td><td colspan="2"> 46.800.000,00 </td></tr><tr><td> &nbsp; </td><td colspan="2"> &nbsp; </td><td colspan="2"> TOTAL </td><td colspan="4"> &nbsp; </td><td colspan="2"> 46.800.000,00 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>
 
 3.  Anulação de Dotações Orçamentárias:
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="652" style="width:489.0pt;background:white;border-collapse:collapse;border:none"><tbody><tr style="height:1.15pt"><td width="518" colspan="6" valign="bottom" style="width:388.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ORÇAMENTO FISCAL 2026</span></p></td><td width="134" colspan="3" valign="bottom" style="width:100.45pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">EM R$ 1,00</span></p></td></tr><tr style="height:1.15pt"><td width="233" colspan="5" valign="bottom" style="width:174.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="419" colspan="4" valign="bottom" style="width:314.45pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">RECURSOS DE TODAS AS FONTES</span></p></td></tr><tr style="height:1.15pt"><td width="233" colspan="5" valign="bottom" style="width:174.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">ESPECIFICAÇÃO</span></p></td><td width="285" valign="bottom" style="width:214.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="48" colspan="2" valign="bottom" style="width:36.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">FONTE</span></p></td><td width="86" valign="bottom" style="width:64.4pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">VALOR</span></p></td></tr><tr style="height:1.15pt"><td width="518" colspan="6" valign="top" style="width:388.55pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">29000 - ENCARGOS GERAIS DO ESTADO</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">00118 - Recursos sob Supervisão da Secretaria da Fazenda - Administração Direta</span></p></td><td width="48" colspan="2" valign="bottom" style="width:36.05pt;border-top:none;
-  border-left:none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" valign="bottom" style="width:64.4pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr><tr style="height:1.15pt"><td width="94" style="width:70.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Op. Especial:</span></p></td><td width="96" colspan="2" style="width:72.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">28.843.0197.0780</span></p></td><td width="328" colspan="4" style="width:246.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Serviços da Dívida Pública Interna</span></p></td><td width="47" style="width:35.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46.800.000,00</span></p></td></tr><tr style="height:1.15pt"><td width="94" style="width:70.85pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="96" colspan="2" style="width:72.25pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3.2.90.00</span></p></td><td width="328" colspan="4" style="width:246.05pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Juros e Encargos da Dívida</span></p></td><td width="47" style="width:35.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">0500</span></p></td><td width="86" style="width:64.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46.800.000,00</span></p></td></tr><tr style="height:1.15pt"><td width="104" colspan="2" style="width:77.9pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="101" colspan="2" style="width:75.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="314" colspan="3" style="width:235.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">TOTAL</span></p></td><td width="47" style="width:35.45pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td width="86" style="width:64.4pt;border-top:none;border-left:none;border-bottom:
-  solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:1.15pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">46.800.000,00</span></p></td></tr><tr><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="6" valign="bottom"> ORÇAMENTO FISCAL 2026 </td><td colspan="3" valign="bottom"> EM R$ 1,00 </td></tr><tr><td colspan="5" valign="bottom"> &nbsp; </td><td colspan="4" valign="bottom"> RECURSOS DE TODAS AS FONTES </td></tr><tr><td colspan="5" valign="bottom"> ESPECIFICAÇÃO </td><td valign="bottom"> &nbsp; </td><td colspan="2" valign="bottom"> FONTE </td><td valign="bottom"> VALOR </td></tr><tr><td colspan="6" valign="top"> 29000 - ENCARGOS GERAIS DO ESTADO 00118 - Recursos sob Supervisão da Secretaria da Fazenda - Administração Direta </td><td colspan="2" valign="bottom"> &nbsp; </td><td valign="bottom"> &nbsp; </td></tr><tr><td> Op. Especial: </td><td colspan="2"> 28.843.0197.0780 </td><td colspan="4"> Serviços da Dívida Pública Interna </td><td> &nbsp; </td><td> 46.800.000,00 </td></tr><tr><td> &nbsp; </td><td colspan="2"> 3.2.90.00 </td><td colspan="4"> Juros e Encargos da Dívida </td><td> 0500 </td><td> 46.800.000,00 </td></tr><tr><td colspan="2"> &nbsp; </td><td colspan="2"> &nbsp; </td><td colspan="3"> TOTAL </td><td> &nbsp; </td><td> 46.800.000,00 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td></tr></tbody></table>

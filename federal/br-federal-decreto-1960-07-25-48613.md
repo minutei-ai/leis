@@ -1,5 +1,3 @@
-###DEC-048613-0-000-25-07-1960@@@
-
 DECRETO Nº 48.613, DE 25 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Manoel de Matos Junior a pesquisar calcário no município de Itumirim, Estado de Minas Gerais.

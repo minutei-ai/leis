@@ -1,5 +1,3 @@
-###DEC-006179-0-000-02-08-2007@@@
-
 DECRETO Nº 6.179, DE 2 DE AGOSTO DE 2007.
 
 Dispõe sobre a remuneração aos agentes arrecadadores de receitas federais.
@@ -27,5 +25,3 @@ Brasília, 2 de agosto de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 3.8.2007

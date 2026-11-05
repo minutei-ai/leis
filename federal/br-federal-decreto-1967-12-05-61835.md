@@ -1,5 +1,3 @@
-###DEC-061835-0-000-05-12-1967@@@
-
 Decreto nº 61.835, de 5 de dezembro de 1967.
 
 Retifica o art. 1º do Decreto número 38.884, de 13 de março de 1956.

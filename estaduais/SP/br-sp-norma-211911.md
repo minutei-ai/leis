@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211911)<br>
-
 # LEI N° 18.350, DE 28 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 857/2024, da Deputada Letícia Aguiar - PP)

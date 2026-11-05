@@ -1,5 +1,3 @@
-###DEC-085631-0-000-07-01-1981@@@
-
 Decreto nº 85.631, de 7 de janeiro de 1.981.
 
 Vincula ao Ministério da Justiça a Empresa Brasileira de Notícias e dá outras providências.

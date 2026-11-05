@@ -1,5 +1,3 @@
-###DEC-005322-0-000-28-12-2004@@@
-
 DECRETO Nº 5.322 DE 28 DE DEZEMBRO DE 2004
 
 Acresce e altera dispositivo do Decreto nº 4.992, de 18 de fevereiro de 2004, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2004, e dá outras providências.

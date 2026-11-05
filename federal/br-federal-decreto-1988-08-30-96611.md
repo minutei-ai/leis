@@ -1,5 +1,3 @@
-###DEC-096611-0-000-30-08-1988@@@
-
 DECRETO Nº 96.611, DE 30 DE AGOSTO DE 1988
 
 Outorga concessão à SOCIEDADE RÁDIO UNIVERSITÁRIA DE GARP LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Garça, Estado de São Paulo.

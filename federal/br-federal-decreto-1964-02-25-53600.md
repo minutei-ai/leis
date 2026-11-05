@@ -1,5 +1,3 @@
-###DEC-053600-0-000-25-02-1964@@@
-
 DECRETO Nº 53.600, DE 25 DE FEVEREIRO DE 1964.
 
 Autoriza o cidadão brasileiro Vinícios Valladares Vasconcellos a pesquisar dolomita, minérios de ferro e de manganês no município de Nova Lima, Estado de Minas Gerais.

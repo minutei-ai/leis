@@ -1,5 +1,3 @@
-###DEC-007569-0-000-22-09-2011-PUB-01@@@
-
 DECRETO N° 7.569, DE 22 DE SETEMBRO DE 2011
 
 Promulga o Acordo de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República do Uzbequistão, firmado em Brasília, em 28 de maio de 2009.

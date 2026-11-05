@@ -1,5 +1,3 @@
-###DEC-086705-0-000-09-12-1981@@@
-
 Decreto nº 86.705, de 09 de dezembro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

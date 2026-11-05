@@ -1,5 +1,3 @@
-###DEC-058859-0-000-15-07-1966@@@
-
 DECRETO Nº 58.859, DE 15 DE JULHO DE 1966.
 
 Dispõe sôbre o aproveitamento de empregados de “A Equitativa dos Estados Unidos do Brasil S. A. de Seguros Gerais”.

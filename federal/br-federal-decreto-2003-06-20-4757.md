@@ -1,5 +1,3 @@
-###DEC-004757-0-000-20-06-2003@@@
-
 DECRETO Nº 4.757, DE 20 DE JUNHO DE 2003.
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas do Ministério do Meio Ambiente para o Ministério do Planejamento, Orçamento e Gestão.       
@@ -18,8 +16,10 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 20 de junho de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
-Guido Mantega<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
+Guido Mantega
+
 Marina Silva
 
 ANEXO

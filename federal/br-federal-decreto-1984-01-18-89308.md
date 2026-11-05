@@ -1,5 +1,3 @@
-###DEC-089308-0-000-18-01-1984@@@
-
 Decreto nº 89.308, de 18 de janeiro de 1984
 
 Altera o Decreto nº 88.290, de 09 de maio de 1983, que autoriza o funcionamento de habilitações em curso de Letras.

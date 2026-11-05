@@ -1,7 +1,3 @@
-1
-
-###DEC-098570-0-000-15-12-1989@@@
-
 DECRETO Nº 98.570, DE 15 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado Fazenda Canhada Funda, situado no Município de Fraiburgo, Estado de Santa Catarina, e dá outras providências.

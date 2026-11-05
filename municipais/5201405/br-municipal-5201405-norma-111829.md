@@ -130,20 +130,24 @@ Art. 296...................................
 
 § 5º- Os créditos tributáveis quando cobrados em decorrência de ação executiva, alem das cominações previstas nesta Lei, serão acrescidos das despesas de execução, calculadas na forma do item 01 , do anexo V.
 
-Art. 2º Fica criada a UVFA - Unidade de valor fiscal de Aparecida de Goiânia, com valor fixado em R$ 1,1288.<br>
+Art. 2º Fica criada a UVFA - Unidade de valor fiscal de Aparecida de Goiânia, com valor fixado em R$ 1,1288.
+
 (REDAÇÃO ALTERADA PELA LEI COMPLEMENTAR Nº 215, DE 9 DE AGOSTO DE 2023).
 
 ~~Art. 2º - Fica criada a UVFA – Unidade de valor fiscal de Aparecida de Goiânia, com valor fixado em R$ 1,1288, o qual será corrigido anualmente pôr ato do Secretario de Finanças com base na variação anual do IPCA – Índice de Preço ao Consumidor Ampliado.~~
 
-Parágrafo único. A UVFA, constante do caput deste artigo, será corrigida mensalmente, por ato do Secretário da Fazenda, com base na variação mensal do IPCA - Índice de Preço ao Consumidor Ampliado.<br>
+Parágrafo único. A UVFA, constante do caput deste artigo, será corrigida mensalmente, por ato do Secretário da Fazenda, com base na variação mensal do IPCA - Índice de Preço ao Consumidor Ampliado.
+
 (REDAÇÃO ACRESCENTADA PELA LEI COMPLEMENTAR Nº 215, DE 9 DE AGOSTO DE 2023).
 
 Art. 3º - Os valores em “REAL” ou “UFIR” constante da Legislação Tributaria Municipal serão convertidas em “UVFA”, pelo seu valor vigente em 1º de janeiro de 2001.
 
 Art. 4º - Os itens abaixo relativos aos anexos III,IV,e V, passarão a vigorar com a redação dada pôr esta Lei:
 
-ANEXO III<br>
-TABELA PARA CALCULO E COBRANÇA DA TAXA DE LICENÇA<br>
+ANEXO III
+
+TABELA PARA CALCULO E COBRANÇA DA TAXA DE LICENÇA
+
 (Art.133-CTM )
 
 04- Circos, parques de diversões e similares:
@@ -204,8 +208,10 @@ b) clubes – pôr dia..........................................................
 
 c) casas de shows/danceterias- pôr dia......................................................50 UVFA
 
-ANEXO IV<br>
-TABELA DE ALIQUOTAS PARA COBRANÇA DA TAXA DE SERVIÇOS URBANOS<br>
+ANEXO IV
+
+TABELA DE ALIQUOTAS PARA COBRANÇA DA TAXA DE SERVIÇOS URBANOS
+
 (Art148 –CTM)
 
 01 – Prédios comerciais- pôr metro linear de testada...............0,30 UVFA
@@ -222,8 +228,10 @@ OBS: Os itens 01,02 e 03- lançamento anual
 
 Os itens 04 e 05 – lançamento pôr serviço executado:
 
-ANEXO V<br>
-TABELA DE ALIQUOTAS PARA COBRANÇA DA TAXA DE SERVIÇO DIVERSOS<br>
+ANEXO V
+
+TABELA DE ALIQUOTAS PARA COBRANÇA DA TAXA DE SERVIÇO DIVERSOS
+
 (Art 153 – CTM) 
 
 01 - Atos de Secretaria de Finanças:
@@ -316,7 +324,8 @@ n) – Laudo Ambiental..........................................................
 
 a) Certidões diversas.........................................................................................6,00UVFA
 
-b) Inscrições em concursos (taxa mínima)........................................................20,00 UVFA<br>
+b) Inscrições em concursos (taxa mínima)........................................................20,00 UVFA
+
 ou conforme disposto em Edital.
 
 05 – Atos da Secretaria de Saúde:
@@ -397,11 +406,14 @@ Art. 7º - Esta Lei entrará em vigor na data de sua publicação, ficando revog
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e oito dias do mês de dezembro de dois mil e um.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-ZANOME RODRIGUES PEREIRA<br>
+ZANOME RODRIGUES PEREIRA
+
 SEC. DE FINANÇAS

@@ -1,5 +1,3 @@
-###MPV-001933-0-008-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.933-8, DE 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre os reajustes do salário-mínimo a vigorar a partir de 1º de maio de 1999 e dos benefícios mantidos pela Previdência Social a partir 1º de junho de 1999.

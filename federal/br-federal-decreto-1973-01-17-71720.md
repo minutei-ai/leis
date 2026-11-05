@@ -1,5 +1,3 @@
-###DEC-071720-0-000-17-01-1973@@@
-
 DECRETO Nº 71.720, DE 17 DE JANEIRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra no distrito de Itaquera, município de São Paulo, no Estado de São Paulo.

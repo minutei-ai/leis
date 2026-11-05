@@ -1,5 +1,3 @@
-###DEC-046889-0-000-24-09-1959@@@
-
 DECRETO Nº 46.889, DE 24 DE SETEMBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia Rochedo de Seguros.

@@ -1,5 +1,3 @@
-###DEC-057094-0-000-19-10-1965@@@
-
 DECRETO Nº 57.094, DE 19 DE OUTUBRO DE1965.
 
 Autoriza a Mineração Santa Catarina Ltda, a lavrar fluorita, no município de Urussanga, no Estado de Santa Catarina.

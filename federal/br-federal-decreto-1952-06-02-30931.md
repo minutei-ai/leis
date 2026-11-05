@@ -1,14 +1,12 @@
-###DEC-030931-0-000-02-06-1952@@@
+**DECRETO Nº 30.931, DE 2 DE JUNHO DE 1952.**
 
-<strong>DECRETO Nº 30.931, DE 2 DE JUNHO DE 1952.</strong>
+***Cria o Estandarte-Distintivo para a Escola de Sargentos das Armas.***
 
-<em><strong>Cria o Estandarte-Distintivo para a Escola de Sargentos das Armas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica criando o ‘'Estandarte-Distintivo’' para a Escola de Sargentos das Armas, de acôrdo com o modêlo que acompanha o presente Decreto e as seguintes características:
+**Art**. 1º Fica criando o ‘'Estandarte-Distintivo’' para a Escola de Sargentos das Armas, de acôrdo com o modêlo que acompanha o presente Decreto e as seguintes características:
 
 a) Campo de verde com bordadura de vermelho;
 
@@ -26,10 +24,10 @@ g) Laço militar das côres nacionais, com a inscrição: ESCOLA DE SARGENTOS DA
 
 Dimensões: 0,80 x 1,10m.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 2 de junho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

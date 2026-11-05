@@ -1,5 +1,3 @@
-###DEC-006625-0-000-31-10-2008@@@
-
 DECRETO Nº 6.625, DE 31 DE OUTUBRO DE 2008.
 
 Dá nova redação ao caput do art. 1o do Decreto no 6.331, de 28 de dezembro de 2007, que prorroga a validade dos restos a pagar não processados inscritos nos exercícios financeiros de 2005 e 2006.

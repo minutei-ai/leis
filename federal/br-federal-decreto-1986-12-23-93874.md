@@ -1,5 +1,3 @@
-###DEC-093874-0-000-23-12-1986@@@
-
 DECRETO Nº 93.874, DE 23 DE DEZEMBRO DE 1986
 
 Dispõe sobre os Sistemas de Administração Financeira, Contabilidade e Auditoria, e de Programação Financeira, organiza o Sistema de Controle Interno do Poder Executivo, e dá outras providências.

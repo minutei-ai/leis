@@ -1,5 +1,3 @@
-###DEC-007081-0-000-26-01-2010@@@
-
 DECRETO Nº 7.081, DE 26 DE JANEIRO DE 2010.
 
 Altera o Decreto no 6.490, de 19 de junho de 2008, que regulamenta a Lei no 11.530, de 24 de outubro de 2007, que institui o Programa Nacional de Segurança Pública com Cidadania - PRONASCI.

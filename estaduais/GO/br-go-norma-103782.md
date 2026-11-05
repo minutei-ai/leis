@@ -6,67 +6,86 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA, autorizada a celebrar, bem como manter, nos termos da [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 68 contratos temporários pelo prazo máximo estabelecido no inciso VI do art. 2º da referida lei, conforme as especificações dispostas no Anexo Único deste Decreto.<br>
+Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA, autorizada a celebrar, bem como manter, nos termos da [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 68 contratos temporários pelo prazo máximo estabelecido no inciso VI do art. 2º da referida lei, conforme as especificações dispostas no Anexo Único deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037).
 
-~~Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA, autorizada a celebrar, bem como manter, nos termos da [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 105 (cento e cinco) contratos temporários pelo prazo máximo estabelecido no inciso VI do art. 2º da referida lei, conforme as especificações dispostas no Anexo Único deste Decreto.~~<br>
+~~Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA, autorizada a celebrar, bem como manter, nos termos da [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 105 (cento e cinco) contratos temporários pelo prazo máximo estabelecido no inciso VI do art. 2º da referida lei, conforme as especificações dispostas no Anexo Único deste Decreto.~~
+
 \- [Redação dada pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424).
 
-~~Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA, autorizada a celebrar, bem como manter, nos termos da Lei nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918) de 21 de dezembro de 2020, mediante processo seletivo simplificado, 204 (duzentos e quatro) contratos temporários pelo prazo máximo estabelecido no inciso VI do art. 2º da referida lei, nos quantitativos por formação profissional a seguir especificados:~~<br>
+~~Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA, autorizada a celebrar, bem como manter, nos termos da Lei nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918) de 21 de dezembro de 2020, mediante processo seletivo simplificado, 204 (duzentos e quatro) contratos temporários pelo prazo máximo estabelecido no inciso VI do art. 2º da referida lei, nos quantitativos por formação profissional a seguir especificados:~~
+
 [\- Redação dada pelo Decreto nº 9.953, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104312/decreto-9953)
 
 ~~Art. 1º Fica a Agência Goiana de Infraestrutura e Transportes – GOINFRA autorizada a celebrar e/ou manter, nos termos da Lei nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 140 (cento e quarenta) contratos temporários pelo prazo máximo estabelecido pelo inciso VI do art. 2º da referida lei, nos quantitativos por formação profissional a seguir especificados:~~
 
-~~I – Arquitetura: 11 (onze);~~<br>
-\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.<br>
+~~I – Arquitetura: 11 (onze);~~
+
+\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
+
  [\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)
 
 ~~I – Arquitetura: 6 (seis);~~
 
-~~II – Biologia: 1 (um);~~<br>
+~~II – Biologia: 1 (um);~~
+
 \- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
 
-~~III – Engenharia de Agrimensura: 3 (três);~~<br>
+~~III – Engenharia de Agrimensura: 3 (três);~~
+
 \- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
 
-~~IV – Engenharia Agrônoma ou Florestal: 2 (dois);~~<br>
-\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.<br>
+~~IV – Engenharia Agrônoma ou Florestal: 2 (dois);~~
+
+\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
+
 [\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)
 
 ~~IV – Engenharia Agrônoma ou Florestal: 1 (um);~~
 
-~~V – Engenharia Ambiental: 2 (dois);~~<br>
+~~V – Engenharia Ambiental: 2 (dois);~~
+
 \- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
 
-~~VI – Engenharia Civil: 174 (cento e setenta e quatro);~~<br>
-\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.<br>
+~~VI – Engenharia Civil: 174 (cento e setenta e quatro);~~
+
+\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
+
 [\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)
 
 ~~VI – Engenharia Civil: 121 (cento e vinte um);~~
 
-~~VII – Engenharia de Minas ou Geologia: 1 (um);~~<br>
+~~VII – Engenharia de Minas ou Geologia: 1 (um);~~
+
 \- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
 
-~~VIII – Engenharia Elétrica: 7 (sete); e~~<br>
-\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.<br>
+~~VIII – Engenharia Elétrica: 7 (sete); e~~
+
+\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
+
 [\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)
 
 ~~VIII – Engenharia Elétrica: 3 (três); e~~
 
-~~IX – Engenharia Mecânica: 3 (três).~~<br>
-\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.<br>
+~~IX – Engenharia Mecânica: 3 (três).~~
+
+\- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
+
 [\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)
 
 ~~IX – Engenharia Mecânica: 2 (dois).~~
 
-~~Parágrafo único. O vencimento individual mensal para as formações profissionais previstas neste artigo é de R$ 4.665,82 (quatro mil, seiscentos e sessenta e cinco reais e oitenta e dois centavos), com jornada semanal de 40 (quarenta) horas.~~<br>
+~~Parágrafo único. O vencimento individual mensal para as formações profissionais previstas neste artigo é de R$ 4.665,82 (quatro mil, seiscentos e sessenta e cinco reais e oitenta e dois centavos), com jornada semanal de 40 (quarenta) horas.~~
+
 \- [Revogado pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424) , art. 5º.
 
 Art. 2º Para participação no processo seletivo simplificado, o candidato deverá apresentar formação superior na área correspondente, e poderá ser exigido dele o registro no órgão fiscalizador de exercício profissional.
 
 Art. 3º Em todas as formações profissionais, ainda poderá ser exigida do candidato a comprovação de especialização e/ou experiência na respectiva área de atuação.
 
-~~Art. 4º O Decreto nº [7.513](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65330/decreto-7513), de 9 de dezembro de 2011, passa a vigorar com as seguintes alterações:~~<br>
+~~Art. 4º O Decreto nº [7.513](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65330/decreto-7513), de 9 de dezembro de 2011, passa a vigorar com as seguintes alterações:~~
+
 \- [Revogado pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037), art. 8º, III.
 
 ~~“Art 1º ..............................................................................................~~
@@ -103,7 +122,8 @@ RONALDO CAIADO
 
 Governador do Estado
 
-ANEXO ÚNICO<br>
+ANEXO ÚNICO
+
 \- [Acrescido pelo Decreto nº 10.424, de 13-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108531/decreto-10424).
 
 TABELA DE CONTRATOS TEMPORÁRIOS DISCRIMINADA POR FUNÇÕES, QUANTITATIVO, CARGA HORÁRIA, VENCIMENTO, ATRIBUIÇÕES E REQUISITOS
@@ -137,12 +157,14 @@ REQUISITOS
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 |
 
-Arquiteto<br>
+Arquiteto
+
 ~~Arquitetura~~
 
  |
 
-4<br>
+4
+
 ~~5~~
 
  |
@@ -151,8 +173,10 @@ Arquiteto<br>
 
  |
 
-R$ 8.386,40<br>
-\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).<br>
+R$ 8.386,40
+
+\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).
+
 ~~R$ 8.000,00~~
 
  |
@@ -181,7 +205,8 @@ Superior Completo em Arquitetura, com registro no Conselho de Arquitetura e Urba
 | \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037). |
 | 2 |
 
-Biólogo<br>
+Biólogo
+
 ~~Biologia~~
 
  |
@@ -194,10 +219,14 @@ Biólogo<br>
 
  |
 
-R$ 5.117,15<br>
-\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).<br>
-~~R$4.881,38~~<br>
-\- [Vide Lei nº 22.692, de 15-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108849).<br>
+R$ 5.117,15
+
+\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).
+
+~~R$4.881,38~~
+
+\- [Vide Lei nº 22.692, de 15-5-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108849).
+
 ~~R$ 4.665,82~~
 
  |
@@ -216,12 +245,14 @@ Superior Completo em Biologia, com registro no Conselho de Biologia.
 | \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037). |
 | 3 |
 
-Engenheiro Civil<br>
+Engenheiro Civil
+
 ~~Engenharia Civil~~
 
  |
 
-60<br>
+60
+
 ~~95~~
 
  |
@@ -230,8 +261,10 @@ Engenheiro Civil<br>
 
  |
 
-R$ 8.386,40<br>
-\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).<br>
+R$ 8.386,40
+
+\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).
+
 ~~R$ 8.000,00~~
 
  |
@@ -256,7 +289,8 @@ gerenciamento, avaliação de projetos
 | \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037). |
 | 4 |
 
-Engenheiro de Minas ou Geólogo<br>
+Engenheiro de Minas ou Geólogo
+
 ~~Engenharia de Minas ou Geologia~~
 
  |
@@ -269,8 +303,10 @@ Engenheiro de Minas ou Geólogo<br>
 
  |
 
-R$ 8.386,40<br>
-\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).<br>
+R$ 8.386,40
+
+\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).
+
 ~~R$ 8.000,00~~
 
  |
@@ -295,12 +331,14 @@ Superior Completo em Engenharia de Minas ou Geologia com registro no Conselho de
 | \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037). |
 | 5 |
 
-Engenheiro Eletricista<br>
+Engenheiro Eletricista
+
 ~~Engenharia Elétrica~~
 
  |
 
-2<br>
+2
+
 ~~3~~
 
  |
@@ -309,8 +347,10 @@ Engenheiro Eletricista<br>
 
  |
 
-R$ 8.386,40<br>
-\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).<br>
+R$ 8.386,40
+
+\- [Vide Lei nº 23.236, de 16-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110398/lei-23236).
+
 ~~R$ 8.000,00~~
 
  |
@@ -337,6 +377,7 @@ Superior Completo em Engenharia Elétrica, com registro no Conselho de Engenhari
 
  |
 | \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037). |
-| Total | 68<br>
+| Total | 68
+
 ~~105~~ |   |
 | \- [Redação dada pelo Decreto nº 10.721, de 7-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111037). |

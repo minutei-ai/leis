@@ -1,5 +1,3 @@
-###DEL-005896-0-000-20-10-1943@@@
-
 DECRETO‑LEI N. 5.896 – DE 20 DE OUTUBRO DE 1943
 
 Dispõe sôbre a transferência, à Companhia Paulista de Fôrça e Luz, de autorização dada à Companhia Fôrça e Luz do Avanhandava

@@ -1,5 +1,3 @@
-###DEC-060592-0-000-13-04-1967@@@
-
 DECRETO Nº 60.592, DE 13 DE ABRIL DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação pela Petróleo Brasileiro S.A. - Petrobrás, área de terreno com 118.533m2, situada na Estrada da Gávea, na cidade do Rio de Janeiro, Estado da Guanabara.

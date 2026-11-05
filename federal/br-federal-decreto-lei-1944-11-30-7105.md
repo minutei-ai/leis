@@ -1,5 +1,3 @@
-###DEL-007105-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.105 – DE 30 DE NOVEMBRO DE 1944
 
 Cria cargos, suprime funções gratificadas no Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-059585-0-000-24-11-1966@@@
-
 DECRETO nº 59.585, DE 24 DE NOVEMBRO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$201.591.171, para o fim que especifica.

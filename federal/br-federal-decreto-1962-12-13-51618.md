@@ -1,5 +1,3 @@
-###DEC-051618-0-000-13-12-1962@@@
-
 DECRETO Nº 51.618, DE 13 DE DEZEMBRO DE 1962.
 
 Suprime cargo extinto.

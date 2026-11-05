@@ -1,7 +1,3 @@
-1
-
-###DEC-099982-0-000-09-01-1991@@@
-
 DECRETO Nº 99.982, DE 9 DE JANEIRO DE 1991
 
 Cria Comissão Especial de Articulação com os Governos Estaduais Eleitos.

@@ -1,5 +1,3 @@
-###DEC-055723-0-000-03-02-1965@@@
-
 DECRETO Nº 55.723, DE 3 DE FEVEREIRO DE 1965.
 
 Cassa autorização para funcionamento do curso que menciona.

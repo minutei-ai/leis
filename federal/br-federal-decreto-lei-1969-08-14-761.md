@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7be086af-bf05-4267-a638-60c2cc46043e/texto#nowhere)
 
-###DEL-000761-0-000-14-08-1969@@@
-
 DECreto-lei Nº 761, De 14 De AGÔSTO De 1969
 
 Dispõe sôbre o contrato de trabalho de safristas, e dá outras providências.

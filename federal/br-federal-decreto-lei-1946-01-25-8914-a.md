@@ -1,5 +1,3 @@
-###DEL-008914-A-000-25-01-1946@@@
-
 DECRETO-LEI N. 8.914 “A” – DE 25 DE JANEIRO DE 1946
 
 Dispõe sôbre alterações e reclassificações de carreiras privativas do Departamento Federal de Segurança Pública.

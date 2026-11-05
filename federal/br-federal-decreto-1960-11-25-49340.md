@@ -1,5 +1,3 @@
-###DEC-049340-0-000-25-11-1960@@@
-
 DECRETO Nº 49.340, DE 25 DE NOVEMBRO DE 1960.
 
 Dispões sôbre o Corpo de Estagiários Permanentes do Instituto Benjamim Constantes, do Ministério da Educação e Cultura.

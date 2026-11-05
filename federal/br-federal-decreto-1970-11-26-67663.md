@@ -1,5 +1,3 @@
-###DEC-067663-0-000-26-11-1970@@@
-
 DECRETO nº 67.663, DE 26 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública o Hospital Miron Pedreira e Maternidade D. Luiz Marelim, com sede em Caxias, Estado do Maranhão.

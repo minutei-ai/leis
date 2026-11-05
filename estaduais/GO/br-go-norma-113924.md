@@ -4,7 +4,8 @@ Portaria Orçamentária nº 71/2026 - Economia
 
 **RESOLVE:**
 
-Art. 1º Ficam abertos à UNIVERSIDADE ESTADUAL DE GOIÁS, POLÍCIA CIVIL, SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO, créditos suplementares no valor global de R$ 3.742.585,20 (três milhões setecentos e quarenta e dois mil quinhentos e oitenta e cinco reais e vinte centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Ficam abertos à UNIVERSIDADE ESTADUAL DE GOIÁS, POLÍCIA CIVIL, SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO, créditos suplementares no valor global de R$ 3.742.585,20 (três milhões setecentos e quarenta e dois mil quinhentos e oitenta e cinco reais e vinte centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior.
@@ -17,18 +18,250 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2904 - POLÍCIA CIVIL</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">27060002</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 87.663,48</td><td style=" width:85px;    ">R$ 87.663,48</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2904 - POLÍCIA CIVIL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</b><br>3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA</td><td style=" width:85px;    ">20 608 1035 3210</td><td style=" width:85px;    ">27000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 891.951,21</td><td style=" width:85px;    ">R$ 891.951,21</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA</td><td style=" width:85px;    ">20 608 1035 3210</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 21.973,85</td><td style=" width:85px;    ">R$ 21.973,85</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">CONCESSÃO DE BOLSA/AUXÍLIO FINANCEIRO ACADÊMICO</td><td style=" width:85px;    ">12 364 1008 2466</td><td style=" width:85px;    ">25010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 229.877,98</td><td style=" width:85px;    ">R$ 9.469,85</td><td style=" width:85px;    ">R$ 239.347,83</td></tr><tr><td style=" width:85px;    ">APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG</td><td style=" width:85px;    ">12 364 1008 2399</td><td style=" width:85px;    ">25010220</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 3.561,84</td><td style=" width:85px;    ">R$ 183.235,91</td><td style=" width:85px;    ">R$ 186.797,75</td></tr><tr><td style=" width:85px;    ">APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG</td><td style=" width:85px;    ">12 364 1008 2399</td><td style=" width:85px;    ">27030292</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.445.600,00</td><td style=" width:85px;    ">R$ 745.614,81</td><td style=" width:85px;    ">R$ 2.191.214,81</td></tr><tr><td style=" width:85px;    ">APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG</td><td style=" width:85px;    ">12 364 1008 2399</td><td style=" width:85px;    ">27000290</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 814.210,85</td><td style=" width:85px;    ">R$ 85.414,54</td><td style=" width:85px;    ">R$ 899.625,39</td></tr><tr><td style=" width:85px;    ">APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG</td><td style=" width:85px;    ">12 364 1008 2399</td><td style=" width:85px;    ">27000290</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 449.829,15</td><td style=" width:85px;    ">R$ 211.546,13</td><td style=" width:85px;    ">R$ 661.375,28</td></tr><tr><td style=" width:85px;    ">APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG</td><td style=" width:85px;    ">12 364 1008 2399</td><td style=" width:85px;    ">27000290</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 62.400,00</td><td style=" width:85px;    ">R$ 10.715,42</td><td style=" width:85px;    ">R$ 73.115,42</td></tr><tr><td style=" width:85px;    ">APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG</td><td style=" width:85px;    ">12 364 1008 2399</td><td style=" width:85px;    ">27060002</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 138.000,00</td><td style=" width:85px;    ">R$ 1.495.000,00</td><td style=" width:85px;    ">R$ 1.633.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 21.973,85</td></tr><tr><td style=" width:340px;    ">25010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 192.705,76</td></tr><tr><td style=" width:340px;    ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 891.951,21</td></tr><tr><td style=" width:340px;    ">27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 307.676,09</td></tr><tr><td style=" width:340px;    ">27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 745.614,81</td></tr><tr><td style=" width:340px;    ">27060002 - TRANSFERÊNCIA ESPECIAL DA UNIÃO - CAPITAL - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.582.663,48</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 3.742.585,20</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+27060002
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 87.663,48
+
+R$ 87.663,48
+
+**3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA
+
+20 608 1035 3210
+
+27000280
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 891.951,21
+
+R$ 891.951,21
+
+AQUISIÇÃO DE MÁQUINA / EQUIPAMENTO AGRÍCOLA
+
+20 608 1035 3210
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 21.973,85
+
+R$ 21.973,85
+
+**4062-UNIVERSIDADE ESTADUAL DE GOIÁS - UEG**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+CONCESSÃO DE BOLSA/AUXÍLIO FINANCEIRO ACADÊMICO
+
+12 364 1008 2466
+
+25010220
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 229.877,98
+
+R$ 9.469,85
+
+R$ 239.347,83
+
+APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG
+
+12 364 1008 2399
+
+25010220
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 3.561,84
+
+R$ 183.235,91
+
+R$ 186.797,75
+
+APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG
+
+12 364 1008 2399
+
+27030292
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.445.600,00
+
+R$ 745.614,81
+
+R$ 2.191.214,81
+
+APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG
+
+12 364 1008 2399
+
+27000290
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 814.210,85
+
+R$ 85.414,54
+
+R$ 899.625,39
+
+APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG
+
+12 364 1008 2399
+
+27000290
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 449.829,15
+
+R$ 211.546,13
+
+R$ 661.375,28
+
+APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG
+
+12 364 1008 2399
+
+27000290
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 62.400,00
+
+R$ 10.715,42
+
+R$ 73.115,42
+
+APOIO A PROJETOS E ATIVIDADES PARA ENSINO, PESQUISA, EXTENSÃO E DESENVOLVIMENTO INSTITUCIONAL DA UEG
+
+12 364 1008 2399
+
+27060002
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 138.000,00
+
+R$ 1.495.000,00
+
+R$ 1.633.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 21.973,85
+
+25010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS - EXERCÍCIOS ANTERIORES
+
+R$ 192.705,76
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 891.951,21
+
+27000290 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 307.676,09
+
+27030292 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DE OUTRAS ENTIDADES - ADMINISTRAÇÃO INDIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 745.614,81
+
+27060002 - TRANSFERÊNCIA ESPECIAL DA UNIÃO - CAPITAL - EXERCÍCIOS ANTERIORES
+
+R$ 1.582.663,48
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 3.742.585,20

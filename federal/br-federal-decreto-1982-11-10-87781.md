@@ -1,5 +1,3 @@
-###DEC-087781-0-000-10-11-1982@@@
-
 DECRETO Nº 87.781, DE 10 DE NOVEMBRO DE 1982.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Xinguara, desmembrado do Município de Conceição do Araguaia no Estado do Pará, compreendido na área prioritária de reforma agrária de que trata o Decreto nº 67.557, de 12 de novembro 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980, e ampliada pelo Decreto nº 87.095, de 16 de abril de 1982.

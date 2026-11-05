@@ -1,6 +1,10 @@
 > **LEI Nº 4.661, DE 30 DE OUTUBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o recebimento de bem imóvel, a título de doação, para fins de construção, instalação e funcionamento de uma unidade escolar da rede pública estadual de ensino.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o recebimento de bem imóvel, a título de doação, para fins de construção, instalação e funcionamento de uma unidade escolar da rede pública estadual de ensino.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

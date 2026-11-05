@@ -1,5 +1,3 @@
-###DEC-005059-0-000-30-04-2004@@@
-
 DECRETO Nº 5.059,  DE 30 DE ABRIL DE 2004
 
 Reduz as alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre a importação e a comercialização de gasolina, óleo diesel, gás liquefeito de petróleo (GLP) e querosene de aviação.

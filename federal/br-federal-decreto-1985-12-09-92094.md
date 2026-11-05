@@ -1,5 +1,3 @@
-###DEC-092094-0-000-09-12-1985@@@
-
 Decreto nº 92.094, de 09 de dezembro de 1995.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação o imóvel rural denominado "Fazenda Caxá", compreendido na referida área, no Município de Marcionílio Souza, no Estado da Bahia, e dá outras providências.

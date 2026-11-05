@@ -1,7 +1,3 @@
-1
-
-###DEC-097903-0-000-04-07-1989@@@
-
 DECRETO Nº 97.903, DE 4 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade de Educação Física e Ciências Econômicas de Fátima do Sul.

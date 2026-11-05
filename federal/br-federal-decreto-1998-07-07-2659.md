@@ -1,5 +1,3 @@
-###DEC-002659-0-000-07-07-1998@@@
-
 DECRETO Nº 2.659, DE 7 DE JULHO DE 1998
 
 Dá nova redação ao art. 2º do Regulamento para o Conselho Superior de Economia e Finanças do Exército (R-8), aprovado pelo Decreto nº 989, de 22 de novembro de 1993, e dá outras providências.

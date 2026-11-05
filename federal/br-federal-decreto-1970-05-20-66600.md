@@ -1,5 +1,3 @@
-###DEC-066600-0-000-20-05-1970@@@
-
 decreto nº 66.600, de 20 de maio de 1970.
 
 Cria Grupo de Trabalho no Ministério da Educação e Cultura para estudar, planejar e propor medidas para a atualização e expansão do Ensino Fundamental e do Colegial.

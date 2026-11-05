@@ -1,5 +1,3 @@
-###DEC-066803-0-000-30-06-1970@@@
-
 DECRETO Nº 66.803 - DE 30 DE JUNHO DE 1970
 
 Autoriza a funcionar como emprêsa de energia elétrica a Centrais Elétricas de Rondônia S.A., outorga concessão e dá outras providências.

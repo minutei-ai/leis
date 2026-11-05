@@ -1,5 +1,3 @@
-###DEC-004353-0-000-30-08-2002@@@
-
 DECRETO Nº 4.353, DE 30 DE AGOSTO DE 2002
 
 Institui medidas de política econômica de apoio à produção e à comercialização do álcool combustível e dá outras providências.

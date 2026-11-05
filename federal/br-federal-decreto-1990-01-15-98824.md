@@ -1,7 +1,3 @@
-1
-
-###DEC-098824-0-000-15-01-1990@@@
-
 DECRETO Nº 98.824, DE 15 DE JANEIRO DE 1990
 
 Homologa a demarcação da área indígena que menciona, no Estado de Mato Grosso, e dá outras providências.

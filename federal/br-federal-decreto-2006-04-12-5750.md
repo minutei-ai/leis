@@ -1,5 +1,3 @@
-###DEC-005750-0-000-12-04-2006@@@
-
 DECRETO Nº 5.750, DE 12 DE ABRIL DE 2006.
 
 Dispõe sobre a execução do Vigésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, na condição de Estados Partes do MERCOSUL, e da República da Bolívia, de 28 de dezembro de 2005.

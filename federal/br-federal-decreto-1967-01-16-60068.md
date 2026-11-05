@@ -1,5 +1,3 @@
-###DEC-060068-0-000-16-01-1967@@@
-
 DECRETO Nº 60.068, DE 16 DE JANEIRO DE 1967.
 
 Autoriza a Rhodia - Indústrias Químicas e Têxteis S.A. a instalar um grupo turbogerador, no município de Paulínia, Estado de São Paulo.

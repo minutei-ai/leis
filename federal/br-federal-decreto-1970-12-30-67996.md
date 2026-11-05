@@ -1,5 +1,3 @@
-###DEC-067996-0-000-30-12-1970@@@
-
 Decreto nº 67.996, de 30 de dezembro de 1970.
 
 Redistribui cargos, com respectivos ocupantes, para a Agência Nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210644)<br>
-
 # DECRETO N° 69.369, DE 21 DE FEVEREIRO DE 2025
 
 ### _Declara luto oficial no Estado, por 3 (três) dias, em manifestação de profundo pesar pelas vítimas do desastre rodoviário ocorrido no Estado de São Paulo, no dia 20 de fevereiro de 2025._

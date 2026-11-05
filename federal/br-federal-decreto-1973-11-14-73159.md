@@ -1,5 +1,3 @@
-###DEC-073159-0-000-14-11-1973@@@
-
 DECRETO Nº 73.159 - DE 14 DE NOVEMBRO DE 1973
 
 Dispõe sobre a Estrutura Básica do Departamento Nacional de Obras Contra as Secas - DNOCS.

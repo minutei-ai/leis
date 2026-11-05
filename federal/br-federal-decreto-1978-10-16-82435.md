@@ -1,5 +1,3 @@
-###DEC-082435-0-000-16-10-1978@@@
-
 Decreto nº 82.435, de 16 de outubro de 1978
 
 Concede reconhecimento ao curso de Engenharia Florestal da Universidade de Brasília, com sede na cidade de Brasília, Distrito Federal.

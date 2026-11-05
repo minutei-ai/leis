@@ -1,5 +1,3 @@
-###DEC-091458-0-000-22-07-1985@@@
-
 DECRETO Nº 91.458, DE 22 DE JULHO DE 1985.
 
 Dispõe sobre o aumento do Capital Social da Petroflex Indústria e Comércio S.A.

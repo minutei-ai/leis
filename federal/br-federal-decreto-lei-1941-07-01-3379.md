@@ -1,5 +1,3 @@
-###DEL-003379-0-000-01-07-1941@@@
-
 DECRETO-LEI N. 3.379 – DE 1 DE JULHO DE 1941
 
 Autoriza o Estado do Rio Grande do Sul a assegurar a Liquidação dos débitos de agricultores, e da outras providências
@@ -26,7 +24,8 @@ Art. 4º O Governo do Estado do Rio Grande do Sul criará uma taxa de remição 
 
 § 1º Ao Instituto Rio grande sul do Arroz caberá elaborar o regulamento da arrecadação e aplicação da taxa de remição, que vigorará a partir de sua criação para decreto do governo Estadual.
 
-§ 2º A taxa de juros dos financiamentos de custeio não poderá ser superior a 7 % ao ano e a dos débitos resultantes de financiamento da safra frustrada de 1940-41 a 5º/º<br>
+§ 2º A taxa de juros dos financiamentos de custeio não poderá ser superior a 7 % ao ano e a dos débitos resultantes de financiamento da safra frustrada de 1940-41 a 5º/º
+
 artigo .5º. se, para motivos supervenientes, alguns dos débitos provenientes do financiamento da safra do 1940-41. não estiverem integralmente resgatados ao terminar a safra de 1943-44, o Estado do Rio Grande do Sul os resgatará em dinheiro.
 
 Art. 6º Revogam-se as disposições em contrário.

@@ -1,5 +1,3 @@
-###DEC-083477-0-000-21-05-1979@@@
-
 Decreto nº.83.477, de 21 de maio de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra e benfeitorias necessárias à relocação da variante ferroviária Três Ranchos - Douradoquara, nos Estados de Goiás e Minas Gerais.

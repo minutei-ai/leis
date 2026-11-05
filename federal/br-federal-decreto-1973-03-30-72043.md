@@ -1,5 +1,3 @@
-###DEC-072043-0-000-30-03-1973@@@
-
 DECRETO Nº 72.043, DE 30 DE MARÇO DE 1973.
 
 Concede a Silex do Brasil Ltda, o direito de lavrar cianita no Município de Mateus Leme, Estado de Minas Gerais.

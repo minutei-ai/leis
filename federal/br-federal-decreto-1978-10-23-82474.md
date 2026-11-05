@@ -1,5 +1,3 @@
-###DEC-082474-0-000-23-10-1978@@@
-
 Decreto nº 82.474, de 23 de outubro de 1978.
 
 Declara de utilidade pública as instituições que menciona.

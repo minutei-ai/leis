@@ -1,5 +1,3 @@
-###DEC-067779-0-000-10-12-1970@@@
-
 DECRETO Nº 67.779, de 10 de dezembro de 1970.
 
 Declara caduco o Decreto nº 26.612 de 27 de abril de 1949.

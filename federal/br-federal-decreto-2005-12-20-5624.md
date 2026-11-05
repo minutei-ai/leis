@@ -1,5 +1,3 @@
-###DEC-005624-0-000-20-12-2005@@@
-
 DECRETO Nº 5.624, DE 20 DE DEZEMBRO DE 2005
 
 Dá nova redação ao art. 2º do Decreto nº 517, de 8 de maio de 1992, que regulamenta o art. 11 da Lei nº 8.387, de 30 de dezembro de 1991.

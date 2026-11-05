@@ -1,5 +1,3 @@
-###DEC-006106-0-000-30-04-2007@@@
-
 DECRETO Nº- 6.106, DE 30 DE ABRIL DE 2007
 
 Dispõe sobre a prova de regularidade fiscal perante a Fazenda Nacional, altera o Decreto no 3.048, de 6 de maio de 1999, que aprova o Regulamento da Previdência Social, e dá outras providências.
@@ -39,5 +37,3 @@ Brasília, 30 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 2.5.2007 - Edição extra

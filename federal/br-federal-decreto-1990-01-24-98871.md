@@ -1,7 +1,3 @@
-1
-
-###DEC-098871-0-000-24-01-1990@@@
-
 DECRETO Nº 98.871, DE 24 DE JANEIRO DE 1990
 
 Renova a concessão outorgada à RÁDIO CLUBE de Votuporanga Ltda., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Votuporanga, Estado de São Paulo.

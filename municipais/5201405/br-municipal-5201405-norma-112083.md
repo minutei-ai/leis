@@ -16,5 +16,6 @@ Art. 5º Esta Lei entrará em vigor a partir de 01 de janeiro de 2025.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 01 de Outubro de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal

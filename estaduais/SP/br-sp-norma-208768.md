@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208768)<br>
-
 # DECRETO N° 68.061, DE 07 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A., as áreas necessárias à implantação de pista marginal, sentido crescente, entre os km 331+000m e 331+900m da Rodovia Dona Leonor Mendes de Barros, SP 333, no Município de Marília, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-080683-0-000-09-11-1977@@@
-
 decreto nº 80.683, de 09 de novembro de 1977.
 
 Autoriza a transformação dos cursos de Matemática e Ciências Biológicas, em curso de Ciências, da Faculdade Estadual de Filosofia, Ciências e Letras de Jacarezinho, Estado do Paraná.

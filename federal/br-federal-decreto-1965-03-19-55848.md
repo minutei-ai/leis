@@ -1,5 +1,3 @@
-###DEC-055848-0-000-19-03-1965@@@
-
 Decreto nº 55.848, de 19 de março de 1965.
 
 Retifica o Decreto nº 54.093, de 4 de agôsto de 1964.

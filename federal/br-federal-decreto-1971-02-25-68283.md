@@ -1,5 +1,3 @@
-###DEC-068283-0-000-25-02-1971@@@
-
 DECRETO Nº 68.283, DE 25 DE FEVEREIRO DE 1971.
 
 Retifica o Decreto nº 68.166, de 4 de fevereiro de 1971, publicado no Diário Oficial de 5 de fevereiro de 1971, que concede reconhecimento de Cursos da Faculdade de Filosofia, Ciências e Letras de Penápolis - São Paulo.

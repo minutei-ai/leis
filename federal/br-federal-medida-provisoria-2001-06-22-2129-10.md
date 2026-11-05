@@ -1,5 +1,3 @@
-###MPV-002129-0-010-22-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.129-10, DE 22 DE JUNHO DE 2001
 
 Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social, e altera dispositivos das Leis nº 6.015, de 31 de dezembro de 1973, 8.212 e 8.213, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, 9.604, de 5 de fevereiro de 1998, 9.639, de 25 de maio de 1998, 9.717, de 27 de novembro de 1998, e 9.796, de 5 de maio de 1999, e dá outras providências.

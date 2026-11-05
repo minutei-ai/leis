@@ -1,5 +1,3 @@
-###DEC-057006-0-000-11-10-1965@@@
-
 DECRETO Nº 57.006, DE 11 DE OUTUBRO DE 1965.
 
 Abre, pelo Ministério da Indústria e do Comércio, o crédito especial, com vigência de dois exercícios, de Cr$1.000.000.000 (um bilhão de cruzeiros) para atender às despesas que especifica.

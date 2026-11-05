@@ -1,5 +1,3 @@
-###DEC-068738-0-000-14-06-1971@@@
-
 DECRETO Nº 68.738 - DE 14 DE JUNHO DE 1971.
 
 Redistribui cargo do Departamento Administrativo do Pessoal Civil, com o respectivo ocupante, para o Ministério da Indústria e do Comércio.

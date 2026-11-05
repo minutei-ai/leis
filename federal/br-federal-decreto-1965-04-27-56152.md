@@ -1,5 +1,3 @@
-###DEC-056152-0-000-27-04-1965@@@
-
 DECRETO Nº 56.152, DE 27 DE ABRIL DE 1965.
 
 Concede à MIPLA - Mineradora Planalto de Poços de Caldas S.A autorização para funcionar como emprêsa de mineração.

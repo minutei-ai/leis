@@ -1,6 +1,7 @@
 LEI Nº 4.439 DE 09 DE MAIO DE 1985
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique.
 
 Cria o Município de Barro Alto, desmembrado do de Canarana.
@@ -21,8 +22,10 @@ Começa no marco existente no lugar Alto da Cruz, no Rio Jacaré ou Vereda do Ro
 
 Começa no Rio Jacaré ou Vereda do Romão Gramacho, em um marco no lugar, Passagem dos Porcos, próximo ao Povoado de Feira Nova, daí em linha reta a um marco situado a 1.500m ao nascente da Igreja de Lagoa Funda, daí passando pela Lagoa da Malícia, daí em linha reta ao Morro D'Água, ainda em reta, situado na estrada que vai de Salobro à Lagoa do Boi, a 1.500m da Igreja existente em Salobro, daí também em reta a um marco a 1.500m ao Norte de Lajedinho, daí em reta a um marco no lugar Cainana.
 
-Redação de acordo com a Lei nº 6.328, de 18 de outubro de 1991.<br>
-Redação original: "Com o Município de Canarana:<br>
+Redação de acordo com a Lei nº 6.328, de 18 de outubro de 1991.
+
+Redação original: "Com o Município de Canarana:
+
 Começa no Rio Jacaré ou Vereda do Romão Gramacho, no marco no lugar Passagem dos Porcos, próximo ao povoado de Feira Nova, daí em linha reta ao lugar Morrinho e deste, ainda em reta, a um marco situado na Estrada que vai de Lagoa do Boi a Salobro, a 1.500 metros da Igreja existente nesta última localidade, daí, também em reta, ao marco no lugar Cainana, extremando-se com o Município de Cafarnaum.
 
 4- Com o Município de Cafarnaum:

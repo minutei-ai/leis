@@ -1,5 +1,3 @@
-###DEC-061346-0-000-15-09-1967@@@
-
 DECRETO Nº 61.346, DE 15 DE SETEMBRO DE 1967.
 
 Dispõe sôbre a aplicação, ao pessoal temporário da Companhia de Erradicação da Malária, do reajustamento salarial previsto no artigo 10 do Decreto-lei nº 81, de 21 de dezembro de 1966.

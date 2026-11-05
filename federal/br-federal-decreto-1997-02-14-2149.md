@@ -1,5 +1,3 @@
-###DEC-002149-0-000-14-02-1997@@@
-
 DECRETO Nº 2.149, DE 14 DE FEVEREIRO DE 1997
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona e dá outras providências.

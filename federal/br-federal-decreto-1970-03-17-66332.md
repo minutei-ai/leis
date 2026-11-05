@@ -1,5 +1,3 @@
-###DEC-066332-0-000-17-03-1970@@@
-
 DECRETO Nº 66.332 - DE 17 DE MARÇO DE 1970
 
 Dispõe sôbre normas operativas de financiamento do sistema de Centrais de Abastecimento e dá outras providências.

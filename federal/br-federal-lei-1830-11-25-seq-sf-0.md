@@ -1,5 +1,3 @@
-###LEI-000000-0-000-25-11-1830@@@
-
 LEI - DE 25 DE NOVEMBRO DE 1830
 
 Regula as forças navaes para o anno financeiro de 1831 - 1832.

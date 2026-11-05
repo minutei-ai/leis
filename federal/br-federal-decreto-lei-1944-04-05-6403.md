@@ -1,5 +1,3 @@
-###DEL-006403-0-000-05-04-1944@@@
-
 DECRETO-LEI N. 6.403 – DE 5 DE ABRIL DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 1.515.135,00, para auxílio a mutilados e paralíticos

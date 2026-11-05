@@ -1,5 +1,3 @@
-###DEC-090644-0-000-10-12-1984@@@
-
 decreto nº 90.644, de 10 de dezembro de 1984
 
 Declara de ocupação dos silvícolas, área de terras no Município de FEIJÓ, no Estado do Acre, e dá outras providências.

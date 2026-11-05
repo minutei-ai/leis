@@ -1,5 +1,3 @@
-###DEC-066999-0-000-05-08-1970@@@
-
 decreto nº 66.999, de 5 de Agôsto de 1970.
 
 Confisca bens de João Corsino de Freitas, e dá outras providências.

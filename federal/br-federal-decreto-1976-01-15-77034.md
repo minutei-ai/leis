@@ -1,5 +1,3 @@
-###DEC-077034-0-000-15-01-1976@@@
-
 DECRETO Nº 77.034, DE 15 DE JANEIRO DE 1976.
 
 Autoriza o funcionamento do curso de Administração, da Faculdade de Ciências Econômicas de Itabuna, Estado da Bahia.

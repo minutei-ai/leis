@@ -1,5 +1,3 @@
-###DEC-060059-0-000-13-01-1967@@@
-
 Decreto nº 60.059, de 13 de janeiro de 1967.
 
 Concede à sociedade São José de Ribamar Industrial e Cabotagem Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-093884-0-000-29-12-1986@@@
-
 DECRETO Nº 93.884, DE 29 DE DEZEMBRO DE 1986
 
 Dispõe sobre alteração da localização de sede da 1ª Brigada de Artilharia de Costa e Antiaérea.

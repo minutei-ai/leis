@@ -1,5 +1,3 @@
-###DEC-003508-0-000-14-06-2000@@@
-
 DECRETO Nº 3.508, DE 14 DE JUNHO DE 2000.
 
 Dispõe sobre o Conselho Nacional de Desenvolvimento Rural Sustentável - CNDRS, e dá outras providências.

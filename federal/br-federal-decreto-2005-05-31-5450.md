@@ -1,5 +1,3 @@
-###DEC-005450-0-000-31-05-2005@@@
-
 DECRETO Nº 5.450, DE 31 DE MAIO DE 2005
 
 Regulamenta o pregão, na forma eletrônica, para aquisição de bens e serviços comuns, e dá outras providências.

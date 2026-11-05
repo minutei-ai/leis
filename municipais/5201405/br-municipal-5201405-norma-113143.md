@@ -15,8 +15,10 @@ Art. 1º Fica alterado o Anexo Único do Decreto nº 1.945, de 11 de agosto de 2
 
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
-Aparecida de Goiânia, 27 de novembro de 2025.<br>
+Aparecida de Goiânia, 27 de novembro de 2025.
+
     
 
-LEANDRO VILELA VELLOSO<br>
-Prefeito de Aparecida de Goiânia<br>
+LEANDRO VILELA VELLOSO
+
+Prefeito de Aparecida de Goiânia

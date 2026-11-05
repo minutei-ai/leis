@@ -1,5 +1,3 @@
-###DEC-053764-0-000-20-03-1964@@@
-
 DECRETO Nº 53.764, DE 20 DE MARçO DE 1964.
 
 Outorga a Companhia Paranaense de Energia Elétrica autorização de estudos para o aproveitamento de fontes de energia hidráulica existente no rio Chopim e seus afluentes, no Estado do Paraná.

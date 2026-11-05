@@ -1,5 +1,3 @@
-###DEC-079133-0-000-17-01-1977@@@
-
 DECRETO N.º 79.133, DE 17 DE jANEIRO DE 1977.
 
 Declara de relevante interesse nacional a adoção em todos os campos de atividade, de medidas que possibilitem redução de consumo de combustíveis derivados de petróleo, e estabelece normas de atuação, nesse campo, para os órgãos e entidades da administração federal direta e indireta e fundações supervisionadas.

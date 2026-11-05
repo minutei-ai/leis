@@ -1,5 +1,3 @@
-###DEC-090598-0-000-30-11-1984@@@
-
 Decreto nº 90.598, de 30 de novembro de 1984
 
 Revoga o Decreto que outorgou concessão à RÁDIO JORNAL DO BRASIL CENTRAL S.A, para executar serviço de radiodifusão sonora em onda média, na cidade de Goiânia, e o Decreto que renovou e transferiu ao Governo do Estado de Goiás, para ser executado pelo Consórcio de Empresas de Radiodifusão e Notícias do Estado - CERNE.

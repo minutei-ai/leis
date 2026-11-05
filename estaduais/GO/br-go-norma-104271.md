@@ -72,8 +72,6 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 31 de agosto de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEL-001504-0-000-23-12-1976@@@
-
 # DECRETO-LEI Nº 1.504, DE 23 DE DEZEMBRO DE 1976
 
 Altera dispositivo do Decreto-lei nº 1.455, de 7 de abril de 1976, que dispõe sobre bagagem de passageiro procedente do exterior, disciplina o regime de entreposto aduaneiro, estabelece normas sobre mercadorias estrangeiras apreendidas e dá outras providências.

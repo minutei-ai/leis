@@ -1,5 +1,3 @@
-###DEC-092869-0-000-30-06-1986@@@
-
 DECRETO Nº 92.869, DE 30 DE JUNHO DE 1986
 
 Extingue o Consulado do Brasil no Havre.

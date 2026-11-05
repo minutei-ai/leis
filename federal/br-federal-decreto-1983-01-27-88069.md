@@ -1,5 +1,3 @@
-###DEC-088069-0-000-27-01-1983@@@
-
 DECRETO Nº 88.069, DE 27 DE JANEIRO DE 1983.
 
 Altera dispositivo do Decreto nº 87.258 de 7 de junho de 1982, que concede autorização ao navio de pesquisa soviético "PROFESSOR STOCKMAN" para realizar trabalhos de pesquisa científica na região do rio Amazonas.

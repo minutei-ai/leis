@@ -1,5 +1,3 @@
-###DEC-082965-0-000-29-12-1978@@@
-
 Decreto nº 82.965, de 29 de dezembro de 1978
 
 Revoga o confisco do bem que menciona, objeto do Decreto nº 79.294, de 24 de fevereiro de 1977.

@@ -1,5 +1,3 @@
-###DEC-064082-0-000-11-02-1969@@@
-
 DECRETO Nº 64.082, DE 11 DE FEVEREIRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde o Município de Cachoeira Paulista até o Município de Cruzeiro no Estado de São Paulo.

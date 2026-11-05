@@ -1,5 +1,3 @@
-###DEC-090646-0-000-10-12-1984@@@
-
 Decreto nº 90.646, de 10 de dezembro de 1984
 
 Transfere da Prefeitura Municipal de Alto Araguaia para a Centrais Elétricas Matogrossenses S.A.- CEMAT a concessão para o aproveitamento da energia hidráulica no rio Araguaia, no Município Alto Araguaia, Estado de Mato Grosso.

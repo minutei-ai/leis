@@ -1,5 +1,3 @@
-###DEL-007327-0-000-17-02-1945@@@
-
 DECRETO-LEI N. 7.327 – DE 17 DE FEVEREIRO DE 1945
 
 Revoga o Decreto-lei nº 7.286, de 31 de janeiro de 1945

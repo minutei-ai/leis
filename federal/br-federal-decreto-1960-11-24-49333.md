@@ -1,5 +1,3 @@
-###DEC-049333-0-000-24-11-1960@@@
-
 DECRETO Nº 49.333, DE 24 DE novembro DE 1960.
 
 Cria cargos e função gratificada no quadro do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas e dá outras providências.

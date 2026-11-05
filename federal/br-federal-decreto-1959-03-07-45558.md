@@ -1,5 +1,3 @@
-###DEC-045558-0-000-07-03-1959@@@
-
 DECRETO Nº 45.558, DE 7 DE MARÇO DE 1959.
 
 Concede o abono provisório aos servidores da Caixa de Crédito da Pesca.

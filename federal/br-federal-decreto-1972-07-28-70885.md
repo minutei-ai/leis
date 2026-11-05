@@ -1,5 +1,3 @@
-###DEC-070885-0-000-28-07-1972@@@
-
 decreto nº 70.885, de 28 de julho de 1972.
 
 Regulamenta a isenção do Imposto Único sobre Combustíveis e Lubrificantes Líquidos e Gasosos incidente sobre o combustível consumido por embarcações de pesca, prevista no artigo 2º do Decreto-lei nº 1.118, de 10 de agosto de 1970.

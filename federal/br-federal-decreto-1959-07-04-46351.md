@@ -1,5 +1,3 @@
-###DEC-046351-0-000-04-07-1959@@@
-
 Decreto nº 46.351, de 4 de julho de 1959.
 
 Altera o Decreto nº 28.959 de 1950.

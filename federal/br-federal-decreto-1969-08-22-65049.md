@@ -1,5 +1,3 @@
-###DEC-065049-0-000-22-08-1969@@@
-
 DECRETO Nº 65.049 - DE 22 DE AGÔSTO DE 1969.
 
 Provê sôbre o funcionamento e a convocação em reunião plenária da Conferência Nacional de Educação.

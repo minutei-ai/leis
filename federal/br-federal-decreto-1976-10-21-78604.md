@@ -1,5 +1,3 @@
-###DEC-078604-0-000-21-10-1976@@@
-
 DECRETO Nº 78.604, DE 21 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências Contábeis, da Faculdade de Ciências Contábeis e Administrativas de Santa Rosa, com sede na cidade de Santa Rosa, Estado do Rio Grande do Sul.

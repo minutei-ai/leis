@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208436)<br>
-
 # DECRETO N° 67.902, DE 23 DE AGOSTO DE 2023
 
 ### _Convoca a 4ª Conferência Estadual de Juventude e dá providências correlatas._

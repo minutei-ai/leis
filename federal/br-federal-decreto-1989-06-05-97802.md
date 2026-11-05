@@ -1,7 +1,3 @@
-1
-
-###DEC-097802-0-000-05-06-1989@@@
-
 DECRETO N° 97.802, DE 05 DE JUNHO DE 1989
 
 Altera o artigo 6° do Decreto n° 88.351, de 1° de junho de 1983, e suas alterações posteriores, para incluir o Ministério da Aeronáutica no Plenário do Conselho Nacional do Meio Ambiente - CONAMA.

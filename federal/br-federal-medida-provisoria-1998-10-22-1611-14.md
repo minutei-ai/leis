@@ -1,5 +1,3 @@
-###MPV-001611-0-014-22-10-1998@@@
-
 MEDIDA pROVISóRIA Nº 1.611-14, DE 22 DE OUTUBRO DE 1998
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-004519-0-000-13-12-2002@@@
-
 DECRETO Nº 4.519, DE 13 DE DEZEMBRO DE 2002
 
 Dispõe sobre o serviço voluntário em unidades de conservação federais, e dá outras providências.

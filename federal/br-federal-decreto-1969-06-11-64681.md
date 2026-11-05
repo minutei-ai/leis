@@ -1,5 +1,3 @@
-###DEC-064681-0-000-11-06-1969@@@
-
 DECRETO Nº 64.681, DE 11 DE JUNHO DE 1969.
 
 Amplia a competência do Conselho Nacional de Desenvolvimento da Pecuária - CONDEPE, criado pelo Decreto nº 61.105, de 28 de julho de 1967.

@@ -1,5 +1,3 @@
-###DEC-004905-0-000-01-12-2003@@@
-
 DECRETO Nº 4.905 DE 1º DE DEZEMBRO DE 2003.
 
        Cria, no âmbito do Ministério das Relações Exteriores, o Grupo Interministerial de Trabalho para a Implementação do Fórum de Diálogo Índia, Brasil e África do Sul.

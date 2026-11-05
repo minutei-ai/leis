@@ -1,5 +1,3 @@
-###DEC-066835-0-000-03-07-1970@@@
-
 Decreto nº 66.835, de 3 de julho de 1970.
 
 Autoriza funcionamento do Centro Estadual de Educação Tecnológica de São Paulo.

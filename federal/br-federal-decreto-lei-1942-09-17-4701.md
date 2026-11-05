@@ -1,5 +1,3 @@
-###DEL-004701-0-000-17-09-1942@@@
-
 DECRETO-LEI N. 4.701 – DE 17 DE SETEMBRO DE 1942
 
 Dispõe sobre o comércio de aparelhos de rádio, transmissores ou receptores, seus pertences e acessórios e dá outras providências

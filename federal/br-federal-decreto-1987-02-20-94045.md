@@ -1,5 +1,3 @@
-###DEC-094045-0-000-20-02-1987@@@
-
 DECRETO Nº 94.045, DE 20 DE FEVEREIRO DE 1987.
 
 Autoriza o Banco Meridional do Brasil S.A., a proceder ao aumento do capital social.

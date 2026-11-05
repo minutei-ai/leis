@@ -1,5 +1,3 @@
-###DEC-071077-0-000-12-09-1972@@@
-
 DECRETO Nº 71.077, DE 12 DE SETEMBRO DE 1972.
 
 Concede reconhecimento à Faculdade de Tecnologia de Bauru da Fundação Educacional de Bauru - SP.

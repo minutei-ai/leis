@@ -1,5 +1,3 @@
-###DEC-049873-0-000-11-01-1961@@@
-
 DECRETO Nº 49.873, DE 11 DE janeiro DE 1961.
 
 Declara de utilidade pública a “Fundação Coimbra Bueno Pela Nova Capital do Brasil”.

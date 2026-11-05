@@ -1,5 +1,3 @@
-###DEC-085695-0-000-04-02-1981@@@
-
 DECRETO Nº 85.695, DE 04 DE FEVEREIRO DE 1981.
 
 Concede à Vale do Rio Doce Navegação S.A. - DOCENAVE autorização para proceder ao aumento do limite de seu capital social.

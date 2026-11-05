@@ -1,5 +1,3 @@
-###DEC-054526-0-000-21-10-1964@@@
-
 DECRETO 54.526, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Mauro Eugenio Pimentel a pesquisar mica no município de Teófilo Otoni, Estado de Minas Gerais.

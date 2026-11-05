@@ -1,5 +1,3 @@
-###DEL-008210-0-000-23-11-1945@@@
-
 DECRETO-LEl N. 8.210 – DE 23 DE NOVEMBRO DE 1945
 
 Abre ao ministério da viação e Obras Públicas o crédito Suplementar de Cr$ 89.215,00, à verba que especifica.

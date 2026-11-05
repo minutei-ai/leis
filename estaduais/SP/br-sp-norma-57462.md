@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57462)
-
 # LEI Nº 12.001, DE 09 DE SETEMBRO DE 2005
 
 ## ( PL 329/2004 - João Caramez)

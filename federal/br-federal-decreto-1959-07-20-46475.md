@@ -1,5 +1,3 @@
-###DEC-046475-0-000-20-07-1959@@@
-
 DECRETO Nº 46.475, DE 20 DE JULHO DE 1959.
 
 Autoriza estrangeiros a adquirir lotes do terreno nacional interior que menciona, situado no Distrito Federal.

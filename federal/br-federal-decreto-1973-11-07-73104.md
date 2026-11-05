@@ -1,5 +1,3 @@
-###DEC-073104-0-000-07-11-1973@@@
-
 DECRETO Nº 73.104 - DE 7 DE NOVEMBRO DE 1973
 
 Transfere para o Quadro de Pessoal do Ministério da Fazenda cargos, com os respectivos ocupantes, integrantes do Quadro de Pessoal em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

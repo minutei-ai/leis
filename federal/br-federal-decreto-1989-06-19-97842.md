@@ -1,7 +1,3 @@
-1
-
-###DEC-097842-0-000-19-06-1989@@@
-
 DECRETO Nº 97.842, DE 19 DE JUNHO DE 1989
 
 Reajusta o valor do Piso Nacional de Salários.

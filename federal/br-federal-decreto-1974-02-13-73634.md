@@ -1,5 +1,3 @@
-###DEC-073634-0-000-13-02-1974@@@
-
 DECRETO Nº 73.634, DE 13 DE FEVEREIRO DE 1974.
 
 Retifica o artigo do Decreto número 62.084, de 8 de janeiro de 1968, que retificou o Decreto nº54.922, de 4 de novembro de 1964, através do qual foi concedido à Itapessoca Agro - Industrial S.A o direito de lavrar gipsita, no Município de Ipubi, Estado de Pernambuco.

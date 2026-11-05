@@ -1,5 +1,3 @@
-###DEC-075968-0-000-14-07-1975@@@
-
 Decreto nº 75.968 - de 14 de julho de 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Pará.

@@ -1,5 +1,3 @@
-###DEL-003597-0-000-05-09-1941@@@
-
 DECRETO-LEI N. 3.597 – DE 5 DE SETEMBRO DE 1941
 
 Prorroga por 60 dias o prazo de que trata o art. 2º do decreto-lei n. 3.389, de 4 de julho de 1941

@@ -1,5 +1,3 @@
-###DEC-092318-0-000-23-01-1986@@@
-
 DECRETO Nº 92.318, DE 23 DE JANEIRO DE 1986
 
 Dispõe sobre a execução da Convenção destinada a evitar a Dupla Tributação em Matéria de Impostos sobre a Renda, celebrada entre os Governos do Brasil e do Canadá.

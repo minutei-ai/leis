@@ -1,5 +1,3 @@
-###DEC-056764-0-000-20-08-1965@@@
-
 Decreto nº 56.764, de 20 de agôsto de 1965.
 
 Renova o Decreto nº 1.731, de 29 de novembro de 1962.

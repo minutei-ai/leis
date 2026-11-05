@@ -1,5 +1,3 @@
-###DEL-006319-0-000-06-03-1944@@@
-
 DECRETO-LEI N. 6.319 – DE 6 DE MARÇO DE 1944
 
 Dispõe sôbre o prazo do depósito e seguro contra riscos de incêndio de mercadorias depositadas em Armazens Gerais, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-086436-0-000-05-10-1981@@@
-
 Decreto nº 86.436, de 05 de outubro de 1981.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Maravilha, no Estado de Santa Catarina, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

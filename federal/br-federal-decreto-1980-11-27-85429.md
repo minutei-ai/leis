@@ -1,5 +1,3 @@
-###DEC-085429-0-000-27-11-1980@@@
-
 Decreto nº 85.429, de 27 novembro de 1980
 
 Dispõe sobre o Quadro de Oficiais Especialistas da Aeronáutica (QOEA), e dá outras providências.

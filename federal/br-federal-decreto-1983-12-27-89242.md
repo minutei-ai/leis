@@ -1,5 +1,3 @@
-###DEC-089242-0-000-27-12-1983@@@
-
 DECRETO Nº 89.242, DE 27 DE DEZEMBRO DE 1983
 
 Dispõe sobre a criação da Área de Proteção Ambiental de Cairuçu, no Estado do Rio de Janeiro e dá outras providências.

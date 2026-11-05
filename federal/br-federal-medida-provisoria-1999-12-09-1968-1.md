@@ -1,5 +1,3 @@
-###MPV-001968-0-001-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.968-1, DE 9 DE DEZEMBRO DE 1999.
 
 Altera dispositivos da Lei nº 9.870, de 23 de novembro de 1999, que dispõe sobre o valor das anuidades escolares.

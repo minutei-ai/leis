@@ -1,5 +1,3 @@
-###DEC-076476-0-000-20-10-1975@@@
-
 DECRETO Nº 76.476, DE 20 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem do ramal de linha de transmissão que se estenderá desde um ponto da linha de transmissão Viracopos - Tanquinho (Torre 21-1), no Município de Valinhos, Estado de São Paulo, até a futura subestação denominada "Cruzeiro" no Município de Itatiba, naquele Estado.

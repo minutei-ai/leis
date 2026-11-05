@@ -1,5 +1,3 @@
-###DEL-003871-0-000-02-12-1941@@@
-
 DECRETO-LEI N. 3.871 – DE 2 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 9:400$0 para pagamento de ajuda de custo

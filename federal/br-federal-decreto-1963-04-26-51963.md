@@ -1,5 +1,3 @@
-###DEC-051963-0-000-26-04-1963@@@
-
 DECRETO Nº 51.963, DE 26 DE ABRIL DE 1963.
 
 Autoriza a desvinculação da Companhia Fôrça e Luz de Minas Gerais, de um circuito de sua linha de transmissão entre a usina de Rio das Pedras e a Subestação SE-1, de propriedade da referida emprêsa, situado em sua zona de concessão, no Estado de Minas Gerais.

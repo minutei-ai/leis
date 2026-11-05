@@ -1,5 +1,3 @@
-###DEC-066393-0-000-25-03-1970@@@
-
 DECRETO Nº 66.393 - DE 25 DE MARÇO DE 1970
 
 Altera o § 1º do Artigo 25 do Decreto nº 62.860, de 18 de junho de 1968, que estabeleceu a Estrutura Básica da Organização do Ministério da Marinha.

@@ -1,5 +1,3 @@
-###DEC-085111-0-000-02-09-1980@@@
-
 Decreto nº 85.111, de 02 de setembro de 1980.
 
 Cancela a autorização de funcionamento dos cursos de História e Geografia da Faculdade  de Filosofia, Ciências e Letras Dom Bosco, de Santa Rosa,  Rio Grande do Sul.

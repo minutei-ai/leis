@@ -1,5 +1,3 @@
-###DEC-061343-0-000-14-09-1967@@@
-
 Decreto nº 61.343, de 14 de setembro de 1967.
 
 Extingue funções gratificadas da Auditoria da Caixa de Amortização.

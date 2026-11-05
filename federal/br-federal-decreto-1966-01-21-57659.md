@@ -1,5 +1,3 @@
-###DEC-057659-0-000-21-01-1966@@@
-
 DECRETO Nº 57.659, DE 21 DE JANEIRO DE 1966.
 
 Aprova o Regulamento para o Conselho Superior do Fundo do Exército e dá outras providências.

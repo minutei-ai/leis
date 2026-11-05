@@ -1,7 +1,3 @@
-1
-
-###DEC-001533-0-000-26-06-1995@@@
-
 DECRETO Nº 1.533, DE 26 DE JUNHO DE 1995.
 
 Dá nova redação ao art. 5º do Decreto nº 737, de 28 de janeiro de 1993, que dispõe sobre a Ordem Nacional do Mérito Educativo.

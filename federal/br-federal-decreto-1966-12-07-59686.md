@@ -1,5 +1,3 @@
-###DEC-059686-0-000-07-12-1966@@@
-
 DECRETO Nº 59.686, DE 7 DE DEZEMBRO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de Cr$2.490.031.000, para o fim que especifica.

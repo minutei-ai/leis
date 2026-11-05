@@ -1,5 +1,3 @@
-###DEC-080642-0-000-27-10-1977@@@
-
 decreto nº 80.642, de 27 de outubro de 1977.
 
 Transfere sede de Organização Militar no Ministério do Exército e dá outras providências.

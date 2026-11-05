@@ -1,5 +1,3 @@
-###DEC-048474-0-000-07-07-1960@@@
-
 DECRETO Nº 48.474, DE 7 DE JULHO DE 1960.
 
 Aprova o aumento de capital do banco do Estado de São Paulo S.A.

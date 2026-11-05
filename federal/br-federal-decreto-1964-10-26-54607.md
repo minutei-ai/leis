@@ -1,5 +1,3 @@
-###DEC-054607-0-000-26-10-1964@@@
-
 DECRETO Nº 54.607, DE 26 DE OUTUBRO DE 1964.
 
 Outorga à Centrais Elétricas do Pará S.A. concessão para distribuir energia elétrica no Município de Capanema, Estado do Pará.

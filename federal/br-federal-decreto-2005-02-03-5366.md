@@ -1,5 +1,3 @@
-###DEC-005366-0-000-03-02-2005@@@
-
 DECRETO Nº 5.366 DE 3 DE FEVEREIRO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e a República Portuguesa sobre o Exercício de Atividades Remuneradas por Parte do Pessoal Diplomático, Consular, Administrativo, Técnico e de Apoio ou Serviço, celebrado em Brasília, em 5 de setembro de 2001.
@@ -26,9 +24,12 @@ LUIZ INÁCIO LULA DA SILVA
 
 Samuel Pinheiro Guimarães Neto
 
-# ACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA<br>
-PORTUGUESA SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR<br>
-PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR,<br>
+# ACORDO ENTRE A REPÚBLICA FEDERATIVA DO BRASIL E A REPÚBLICA
+
+PORTUGUESA SOBRE O EXERCÍCIO DE ATIVIDADES REMUNERADAS POR
+
+PARTE DE DEPENDENTES DO PESSOAL DIPLOMÁTICO, CONSULAR,
+
 ADMINISTRATIVO, TÉCNICO E DE SERVIÇO OU APOIO
 
         A República Federativa do Brasil
@@ -125,12 +126,14 @@ Entrada em Vigor do Acordo
 
         Feito em Brasília, em 5 de setembro de 2001, em dois exemplares originais, no idioma português, sendo ambos os textos sendo igualmente autênticos.
 
-PELA REPÚBLICA FEDERATIVA DO BRASIL<br>
+PELA REPÚBLICA FEDERATIVA DO BRASIL
+
 CELSO LAFER
 
 Ministro de Estado das Relações Exteriores
 
-PELA REPÚBLICA PORTUGUESA<br>
+PELA REPÚBLICA PORTUGUESA
+
 JAIME GAMA
 
 Ministro de Estado e de Negócios Estrangeiros

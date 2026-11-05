@@ -1,5 +1,3 @@
-###LEI-000000-0-000-09-12-1830@@@
-
 LEI - DE 9 DEZEMBRO DE 1830
 
 Extingue a Congregação dos Padres de S. Felippe Nery, estabelecida em Pernambuco, e applica os seus bens para patrimonio de uma casa pia do educação de Orphãos desvalidos de ambos os sexos.

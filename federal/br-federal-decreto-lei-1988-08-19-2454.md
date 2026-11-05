@@ -1,7 +1,3 @@
-1
-
-###DEL-002454-0-000-19-08-1988@@@
-
 # DECRETO-LEI Nº 2.454, DE 19 DE AGOSTO DE 1988
 
 Dispõe sobre a prorrogação dos prazos de vigência de incentivos fiscais para empreendimentos localizados nas áreas de atuação da Superintendência do Desenvolvimento da Amazônia - SUDAM e da Superintendência do Desenvolvimento do Nordeste - SUDENE.

@@ -1,5 +1,3 @@
-###DEC-081722-0-000-24-05-1978@@@
-
 DECRETO Nº 81.722, DE 24 DE MAIO DE 1978.
 
 Concede reconhecimento ao curso de Geologia, da Universidade de Fortaleza, com sede na cidade de Fortaleza, Estado do Ceará.

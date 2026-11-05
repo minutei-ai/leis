@@ -1,7 +1,3 @@
-1
-
-###DEC-098334-0-000-24-10-1989@@@
-
 DECRETO Nº 98.334, DE 24 DE OUTUBRO DE 1989
 
 Regulamenta o art. 27 da Lei n e 7.773, de 8 de junho de 1989, para efeito de ressarcimento fiscal pela propaganda eleitoral gratuita, relativa às eleições de 15 de novembro de 1989.

@@ -44,11 +44,14 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 16 de outubro de 2024.
 
-ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana
+
  
 
-<table><thead></thead><tbody><tr><td colspan="2"><strong>ALANNA RITIELLE P. DE ARAÚJO FRANÇA</strong> Secretária de Governo</td><td colspan="2" style="text-align:center"><strong>JÚLIO CÉSAR CHAGAS MENDES</strong> Secretário de Planejamento e Regulação Urbana</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td colspan="2">**ALANNA RITIELLE P. DE ARAÚJO FRANÇA** Secretária de Governo</td><td colspan="2">**JÚLIO CÉSAR CHAGAS MENDES** Secretário de Planejamento e Regulação Urbana</td></tr></tbody></table>

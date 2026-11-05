@@ -1,7 +1,3 @@
-1
-
-###DEC-001139-0-000-11-05-1994@@@
-
 DECRETO N° 1.139, DE 11 DE MAIO DE 1994
 
 Consolida o regulamento da Lei n ° 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional (NTN) e dá outras providências.

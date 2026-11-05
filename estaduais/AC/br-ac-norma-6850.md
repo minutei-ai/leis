@@ -1,6 +1,10 @@
 > **LEI Nº 4.816, DE 30 DE JUNHO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui indenização especial, de natureza compensatória e humanitária, aos dependentes das vítimas fatais do episódio ocorrido no Instituto São José, em Rio Branco AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui indenização especial, de natureza compensatória e humanitária, aos dependentes das vítimas fatais do episódio ocorrido no Instituto São José, em Rio Branco AC.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

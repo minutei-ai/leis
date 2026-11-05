@@ -1,5 +1,3 @@
-###DEC-079284-0-000-16-02-1977@@@
-
 DECRETO Nº 79.284, DE 16 DE FEVEREIRO DE 1977.
 
 Outorga concessão à Rádio Araguaia Ltda. para estabelecer uma estação de radiodifusão sonora em onda tropical, na cidade de Araguaina, Estado de Goiás.

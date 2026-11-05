@@ -1,5 +1,3 @@
-###DEC-055659-0-000-30-01-1965@@@
-
 DECRETO N° 55.659, de 30 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Luiz Palmero a pesquisar água mineral, no município de Itirapina, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-005470-0-000-16-06-2005@@@
-
 DECRETO Nº 5.470, DE 16 DE JUNHO DE 2005
 
 Dispõe sobre a execução no Território Nacional da Resolução nº 1.591, de 29 de março de 2005, do Conselho de Segurança das Nações Unidas, que estabelece, entre outras providências, embargo de armas, proibição de viagem e congelamento de bens a grupos e indivíduos operando na região de Darfur, no Sudão.

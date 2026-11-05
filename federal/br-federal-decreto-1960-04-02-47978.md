@@ -1,5 +1,3 @@
-###DEC-047978-0-000-02-04-1960@@@
-
 DECRETO Nº 47.978, DE 2 DE ABRIL DE 1960.
 
 Dispõe sôbre o registro de Técnicos Desportivos.

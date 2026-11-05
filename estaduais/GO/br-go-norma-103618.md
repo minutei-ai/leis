@@ -1,8 +1,15 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020 .
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.760 / 2020
 
 ![](/assets/brasao_goias.gif)
 
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
 **DECRETO Nº 9.760, DE 30 DE NOVEMBRO DE 2020.**
@@ -46,5 +53,3 @@ Governador do Estado
 **ANEXO III**
 
 ![](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17163)
-
-  _Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020 ._

@@ -1,5 +1,3 @@
-###DEL-008364-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.364 – DE 13 DE DEZEMBRO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a alienar o imóvel que menciona.

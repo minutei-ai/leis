@@ -1,5 +1,3 @@
-###DEL-000347-0-000-29-12-1967@@@
-
 DECRETO-LEI Nº 347, DE 29 DE DEZEMBRO DE 1967
 
 Dispõe sôbre a entrega das parcelas pertencentes aos Municípios, do produto da arrecadação do impôsto sôbre circulação de mercadorias.
@@ -83,8 +81,6 @@ Brasília, 29 de dezembro de 1967; 146º da Independência e 79º da República.
 A. COSTA E SILVA
 
 Antônio Delfim Netto
-
-###DEL-000347-0-000-29-12-1967@@@RET01+++
 
 DECRETO-LEI Nº 347, DE 29 DE DEZEMBRO DE 1967
 

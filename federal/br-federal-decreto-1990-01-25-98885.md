@@ -1,7 +1,3 @@
-1
-
-###DEC-098885-0-000-25-01-1990@@@
-
 DECRETO Nº 98.885, DE 25 DE JANEIRO DE 1990
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Educação Montenegro.

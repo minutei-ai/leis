@@ -1,5 +1,3 @@
-###DEC-006815-0-000-06-04-2009@@@
-
 DECRETO Nº 6.815, DE 6 DE ABRIL DE 2009.
 
 Dá nova redação ao art. 3o do Decreto no 3.564, de 17 de agosto de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho de Aviação Civil - CONAC, e dá outras providências.

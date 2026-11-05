@@ -1,6 +1,4 @@
-###DEC-063570-0-000-07-11-1968@@@
-
-<strong>DECRETO Nº 63.570, DE 7 DE NOVEMBRO DE 1968.</strong>
+**DECRETO Nº 63.570, DE 7 DE NOVEMBRO DE 1968.**
 
 <!-- fac-simile-oficial:inicio -->
 

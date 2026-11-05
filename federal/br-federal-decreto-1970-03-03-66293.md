@@ -1,5 +1,3 @@
-###DEC-066293-0-000-03-03-1970@@@
-
 DECRETO Nº 66.293 - DE 3 DE MARÇO DE 1970
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Casa Branca, com sede em Casa Branca, Estado de São Paulo.

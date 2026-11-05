@@ -1,5 +1,3 @@
-###DEC-084692-0-000-12-05-1980@@@
-
 Decreto nº 84.692, de 12 de maio de 1980.
 
 Concede ao Banco Nacional de Crédito Cooperativo S.A. - BNCC autorização para proceder ao aumento de seu Capital Social.

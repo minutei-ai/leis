@@ -1,5 +1,3 @@
-###DEC-067098-0-000-24-08-1970@@@
-
 Decreto nº 67.098, de 24 de agôsto de 1970.
 
 Extingue cargo de Escriturário do Quadro de Pessoal do Ministério das Relações Exteriores.

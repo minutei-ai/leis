@@ -1,5 +1,3 @@
-###MPV-001811-0-003-20-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.811-3, DE 20 DE MAIO DE 1999.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que específica, de responsabilidade dos Municípios.

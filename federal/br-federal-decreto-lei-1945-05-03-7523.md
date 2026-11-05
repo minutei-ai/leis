@@ -1,5 +1,3 @@
-###DEL-007523-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.523 – DE 3 DE MAIO DE 1945
 
 Cria uma coletoria federal no município de Pacotí, no Estado do Ceará, e dá outras providências

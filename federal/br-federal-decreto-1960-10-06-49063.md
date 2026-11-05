@@ -1,5 +1,3 @@
-###DEC-049063-0-000-06-10-1960@@@
-
 Decreto nº 49.063, de 6 de outubro de 1960.
 
 Concede reconhecimento a cursos.

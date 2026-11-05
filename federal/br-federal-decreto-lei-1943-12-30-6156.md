@@ -1,5 +1,3 @@
-###DEL-006156-0-000-30-12-1943@@@
-
 DECRETO‑LEI N. 6.156 – DE 30 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 2.400. 000,00, à verba que especifica

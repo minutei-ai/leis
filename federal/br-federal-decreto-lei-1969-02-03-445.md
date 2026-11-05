@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bbe6a1b0-69fe-471a-a5b4-3d3f899362ec/texto#nowhere)
 
-###DEL-000445-0-000-03-02-1969@@@
-
 DECRETO-LEI Nº 445, DE 3 DE FEVEREIRO DE 1969
 
 Dá nova redação a dispositivos da Lei nº 5.353, de 8 de novembro de 1967, que dispõe sôbre a criação, no Ministério da Educação e Cultura, de 9 (nove) prêmios literários nacionais.

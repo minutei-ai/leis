@@ -1,5 +1,3 @@
-###DEC-055155-0-000-04-12-1964@@@
-
 Decreto nº 55.155, de 4 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro João Marquetto a pesquisar caulim no município de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-049874-0-000-11-01-1961@@@
-
 DECRETO Nº 49.874, DE 11 DE JANEIRO DE 1961.
 
 Cria o “Parque Nacional das Emas”, no Estado de Goiás, abrangendo parte menor, do Estado de Mato Grosso.

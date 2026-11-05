@@ -1,5 +1,3 @@
-###DEC-070775-0-000-28-06-1972@@@
-
 DECRETO Nº 70.775, DE 28 DE JUNHO DE 1972.
 
 Altera o Decreto nº 62.123, de 16 de janeiro de 1968, que criou a Embaixada do Brasil na República do Iraque

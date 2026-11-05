@@ -1,5 +1,3 @@
-###DEC-069940-0-000-14-01-1972@@@
-
 DECRETO Nº 69.940, DE 14 DE JANEIRO DE 1972.
 
 Torna sem efeito Redistribuição de cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Conselho Nacional de Telecomunicações.

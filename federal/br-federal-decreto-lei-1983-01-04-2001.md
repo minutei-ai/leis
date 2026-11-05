@@ -1,5 +1,3 @@
-###DEL-002001-0-000-04-01-1983@@@
-
 # Decreto-lei nº 2.001, de 04 de janeiro de 1983
 
 Reajusta os valores de vencimentos e proventos dos servidores da Secretaria - Geral do Tribunal de Contas da União e dá outras providências.

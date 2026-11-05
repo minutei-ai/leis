@@ -1,7 +1,3 @@
-1
-
-###DEC-095824-0-000-14-03-1988@@@
-
 DECRETO N° 95.824, DE 14 DE MARÇO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra necessária à construção do Açude Público "TEJUSSUOCA", nos Municípios de Apuiarés e Itapajé, Estado do Ceará, e dá outras providências.

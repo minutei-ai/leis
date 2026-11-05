@@ -1,5 +1,3 @@
-###DEC-054747-0-000-30-10-1964@@@
-
 DECRETO Nº 54.747, DE 30 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública o “Conselho Central Diocesano da Sociedade de São Vicente de Paulo de Juíz de Fora”, com sede em Juíz de Fora, Estado de Minas Gerais.

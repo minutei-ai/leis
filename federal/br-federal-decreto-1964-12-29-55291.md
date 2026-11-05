@@ -1,5 +1,3 @@
-###DEC-055291-0-000-29-12-1964@@@
-
 DECRETO Nº 55.291, DE 29 DE Dezembro DE 1964.
 
 Regula as condições para venda a tôrno, do vinho nacional.

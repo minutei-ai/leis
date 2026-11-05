@@ -1,5 +1,3 @@
-###DEC-068552-0-000-28-04-1971@@@
-
 DECRETO Nº 68.552, DE 28 DE ABRIL DE 1971.
 
 Retifica o artigo 1º do Decreto número 60.206, de 10 de fevereiro de 1967, que retificou o de número 54.261, de 4 de setembro de 1964, que retificou o enquadramento dos cargos, funções e empregos de funcionários do Ministério da Aeronáutica.

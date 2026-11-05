@@ -1,28 +1,26 @@
-###DEC-026690-0-000-23-05-1949@@@
+**DECRETO N. 26.690 – DE 23 DE MAIO DE 1949**
 
-<strong>DECRETO N. 26.690 – DE 23 DE MAIO DE 1949</strong>
-
-<em><strong>Aprova o Regimento do Departamento Nacional da Criança.</strong></em>
+***Aprova o Regimento do Departamento Nacional da Criança.***
 
 O Vice–Presidente da República, em exercício no cargo de Presidenta da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, decreta:
 
-<strong>Art.</strong> 1º – Fica aprovado  Regimento do Departamento Nacional da Criança a que se refere a Lei nº 282, de 24 de maio de 1948, o qual com êste baixa, assinado pelo Ministro de Estado da Educação e Saúde.
+**Art.** 1º – Fica aprovado  Regimento do Departamento Nacional da Criança a que se refere a Lei nº 282, de 24 de maio de 1948, o qual com êste baixa, assinado pelo Ministro de Estado da Educação e Saúde.
 
-<strong>Art.</strong> 2º – O presente Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
+**Art.** 2º – O presente Decreto entrará em vigor na data de sua publicação, ficando revogadas as disposições em contrário.
 
 Rio de Janeiro, em 23 de maio de 1949; 128º da Independência e 61º da República.
 
-<strong>NEREU RAMOS.</strong>
+**NEREU RAMOS.**
 
 Clemente Mariani.
 
-<h1 style="margin-top:6pt; margin-bottom:24pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><strong>REGIMENTO DO DEPARTAMENTO NACIONAL DA CRIANÇA</strong></span></span></h1>
+# **REGIMENTO DO DEPARTAMENTO NACIONAL DA CRIANÇA**
 
-<strong>CAPÍTULO</strong>   <strong>I</strong>
+**CAPÍTULO**   **I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art.</strong> 1º – O Departamento Nacional da Criança (D. N. Cr.). órgão integrante do Ministério da Educação e Saúde (M.E.S.), diretamente subordinado ao Ministro de Estado, tem por objeto a defesa e proteção da criança, cabendo-lhe para isso promover:
+**Art.** 1º – O Departamento Nacional da Criança (D. N. Cr.). órgão integrante do Ministério da Educação e Saúde (M.E.S.), diretamente subordinado ao Ministro de Estado, tem por objeto a defesa e proteção da criança, cabendo-lhe para isso promover:
 
 I – o estimulo de tôdas as atividades nacionais relativas à maternidade, à infância e à adolescência;
 
@@ -38,11 +36,11 @@ VI – a fiscalização, no País, das atividades particulares que tenham por ob
 
 Parágrafo único – Mediante acôrdo entre a União e qualquer Estado, poderá o D. N. Cr. orientar e fiscalizar os órgãos locais de proteção à maternidade, à infância e à adolescência, ou executar diretamente no Estado os serviços que visem a ésse fim.
 
-<strong>CAPÍTULO</strong>   <strong>II</strong>
+**CAPÍTULO**   **II**
 
-<em>DA ORGANIZAÇÁO</em>
+*DA ORGANIZAÇÁO*
 
-<strong>Art.</strong> 2º – O Departamento Nacional da Criança ( D. N. Cr.) compor-se-á de:
+**Art.** 2º – O Departamento Nacional da Criança ( D. N. Cr.) compor-se-á de:
 
 I – Divisão de Organização e Cooperação (D. O. C.) que compreende :
 
@@ -64,7 +62,7 @@ b) Seção de Pediatria, constituída de Enfermarias e Ambulatórios de clinica 
 
 c) Seção de Maternidade, constituída de Enfermarias de clínica obstétrica e Consultórios de Higiene Pré-Natal;
 
-d) Gabinetes d<em>e</em> Oto-rino-laringologia, Oftalmologia, Dermato-sifilografia, Odontologia, Electrodiagnóstico e Fisioterapia e Radiologia;
+d) Gabinetes d*e* Oto-rino-laringologia, Oftalmologia, Dermato-sifilografia, Odontologia, Electrodiagnóstico e Fisioterapia e Radiologia;
 
 e) Laboratório;
 
@@ -120,7 +118,7 @@ e) Biblioteca (B. );
 
 f) Portaria (P. );
 
-§ 1º Para atender e completar as atividades dos diversos serviços o I. F. <em>F.</em> manterá as seguintes dependências:
+§ 1º Para atender e completar as atividades dos diversos serviços o I. F. *F.* manterá as seguintes dependências:
 
 I – Centro de estudos, denominado “Olinto de Oliveira”, que funcionará em regime de seminário, e destinado à apresentação de trabalhos científicos realizados no Instituto;
 
@@ -128,31 +126,31 @@ II – Rouparia, Lavanderia, Refeitório, Cozinha Geral, Necrotério e Desinfet�
 
 § 2º As enfermarias terão a capacidade máxima de vinte(20) leitos cada uma, para o internamento de doentes até três anos de idade.
 
-<strong>Art.</strong> 3º O Departamento Nacional da Criança será dirigido por um Diretor–Geral, nomeado em Comissão.
+**Art.** 3º O Departamento Nacional da Criança será dirigido por um Diretor–Geral, nomeado em Comissão.
 
-<strong>Art.</strong> 4º O Diretor–Geral terá um Assistente e um Auxiliar por êle designados.
+**Art.** 4º O Diretor–Geral terá um Assistente e um Auxiliar por êle designados.
 
-<strong>Art.</strong> 5º Os cargos em comissão de Diretor de Divisão, Diretor do Instituto Fernandes Figueira e de Delegados Federais da Criança, serão providos mediante propostas do Diretor Geral.
+**Art.** 5º Os cargos em comissão de Diretor de Divisão, Diretor do Instituto Fernandes Figueira e de Delegados Federais da Criança, serão providos mediante propostas do Diretor Geral.
 
 Parágrafo único Os cargos de Diretor de Divisão, Diretor do I. F. F., Delegados Federais da Criança, Chefes de Serviço de Educação e Divulgação e de Estatística serão providos por médicos portadores do certificado de conclusão do Curso de Puericultura e Administração do D. N. Cr., tendo preferência os servidores integrantes da carreira de Médico Puericultor.
 
-<strong>Art.</strong> 6º Os Chefes de Serviço e o Diretor dos Cursos serão designados pelo Ministro de Estado, mediante proposta do Diretor–Geral.
+**Art.** 6º Os Chefes de Serviço e o Diretor dos Cursos serão designados pelo Ministro de Estado, mediante proposta do Diretor–Geral.
 
-<strong>Art.</strong> 7º Os Chefes de Seção, de Gabinetes, de Laboratório, do Banco de Sangue, da Farmácia, da Agência, de Serviço Social, da Secretária, da Biblioteca, da Portaria, o Secretário dos Cursos, o Administrador e a Enfermeira Chefe; serão designados pelos superiores imediatos, mediante prévia aprovação do Diretor–Geral.
+**Art.** 7º Os Chefes de Seção, de Gabinetes, de Laboratório, do Banco de Sangue, da Farmácia, da Agência, de Serviço Social, da Secretária, da Biblioteca, da Portaria, o Secretário dos Cursos, o Administrador e a Enfermeira Chefe; serão designados pelos superiores imediatos, mediante prévia aprovação do Diretor–Geral.
 
-<strong>Art.</strong> 8º O Diretor do I. F. F. terá um Assistente, por êle designado.
+**Art.** 8º O Diretor do I. F. F. terá um Assistente, por êle designado.
 
-<strong>Art.</strong> 9º Os órgãos que integram o D. N. Cr. funcionarão perfeitamente articu1ados, em regime de mútua colaboração, sob a orientação do Diretor–Geral.
+**Art.** 9º Os órgãos que integram o D. N. Cr. funcionarão perfeitamente articu1ados, em regime de mútua colaboração, sob a orientação do Diretor–Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Divisão de Organização e Cooperação</em>
+*Da Divisão de Organização e Cooperação*
 
-<strong>Art.</strong> 10. À  D. O. C.  compete:
+**Art.** 10. À  D. O. C.  compete:
 
 I – Estimular a organização e o eficiente funcionamento dos serviços estaduais e territoriais de proteção à maternidade, à infância e à adolescência e, em colaboração com os mesmos, orientar as atividades médico–higiênicas dos serviços municipais e das instituições que visem o mesmo objetivo ;
 
@@ -176,11 +174,11 @@ IX – Fiscalizar a aplicação dos auxílios, subvenções e contribuições fe
 
 § 2º À S. A. F. compete a realização das atividades compreendidas nos itens V. VI, V II, VIII e IX.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Divisão de Proteção Social</em>
+*Da Divisão de Proteção Social*
 
-<strong>Art.</strong> 11 – À  D. P. S, compete:
+**Art.** 11 – À  D. P. S, compete:
 
 I – estudar e propor os meios para a solução dos problemas de assistência social relacionados com a maternidade, a infância e a adolescência;
 
@@ -200,7 +198,7 @@ VIII – orientar o reajustamento da criança por meio de recreação dirigida, 
 
 IX – opinar sôbre os planos de auxílio na parte que diz respeito às obras destinadas à proteção social da maternidade, da infância e da adolescência ;
 
-X – fornecer à, D. <em>O.</em> C. ele mentos necessários à elaboração dos projetos de obras de proteção social à maternidade, à, infância e à adolescência ;
+X – fornecer à, D. *O.* C. ele mentos necessários à elaboração dos projetos de obras de proteção social à maternidade, à, infância e à adolescência ;
 
 XI – estudar e organizar  fichário sôbre a legislação de proteção a maternidade, da infância e da adolescência, e das organizações administrativas e associativas que se incumbem de tais cuidados;
 
@@ -208,39 +206,39 @@ XII – estudar normas e padrões de funcionamento dos estabelecimentos particul
 
 XIII - – fornecer ao S. E. D. es elementos necessários à divulgação de conhecimentos referentes à proteção social da maternidade, da infância e da adolescência.
 
-<strong>Art.</strong> 12 – À S. O. S. compete a realização das atividades compreendidas nos itens:  I, II, III, VI, VII e VIII.
+**Art.** 12 – À S. O. S. compete a realização das atividades compreendidas nos itens:  I, II, III, VI, VII e VIII.
 
-<strong>Art.</strong> 13 – À  S. A. O. S. compete a realização das atividades compreendidas nos itens : IV, V, X, XI, XII e XIII.
+**Art.** 13 – À  S. A. O. S. compete a realização das atividades compreendidas nos itens : IV, V, X, XI, XII e XIII.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do Instituto Fernandes Figueira</em>
+*Do Instituto Fernandes Figueira*
 
-<strong>Art.</strong> 14 – Ao I. F. F. compete o estudo e as investigações de natureza bio-médio-social sôbre a maternidade, a infância e a adolescência.
+**Art.** 14 – Ao I. F. F. compete o estudo e as investigações de natureza bio-médio-social sôbre a maternidade, a infância e a adolescência.
 
-<strong>Art.</strong> 15 – A Seção de Puericultura compete realizar, através de suas unidades de serviço, estudos e pesquisas sôbre os fenômenos sociais relacionados com a maternidade e a infância e sôbre os problemas de  higiene individual da criança articularmente no tocante aos processos de alimentação do lactente.
+**Art.** 15 – A Seção de Puericultura compete realizar, através de suas unidades de serviço, estudos e pesquisas sôbre os fenômenos sociais relacionados com a maternidade e a infância e sôbre os problemas de  higiene individual da criança articularmente no tocante aos processos de alimentação do lactente.
 
-<strong>Art.</strong> 16 – À Seção de Pediatria compete estudar, através de suas unidades de serviço, os aspectos da patologia médica e cirúrgica da criança, particularmente do recém-nascido e do lactante, que possam contribuir para o conhecimento dos fatores de morbidade e mortalidade.
+**Art.** 16 – À Seção de Pediatria compete estudar, através de suas unidades de serviço, os aspectos da patologia médica e cirúrgica da criança, particularmente do recém-nascido e do lactante, que possam contribuir para o conhecimento dos fatores de morbidade e mortalidade.
 
-<strong>Art.</strong> 17 – À Seção de Maternidade compete estudar e investigar, através de suas unidades de serviço os problemas concernentes à puericultura, pré e post natal, bem como a assistência ao parto e puerpério
+**Art.** 17 – À Seção de Maternidade compete estudar e investigar, através de suas unidades de serviço os problemas concernentes à puericultura, pré e post natal, bem como a assistência ao parto e puerpério
 
-<strong>Art.</strong> 18 – Aos Gabinetes de Otorino-laringologia, Oftalmologia, Dermato-sifilografia, Odontologia, Eletrodiagnóstico e Fisioterapia e Radiologia compete o estudo das  respectivas especialidades particulares e aplicado à maternidade e à infância<em>,</em> bem como atender subsidiariamente aos demais serviços.
+**Art.** 18 – Aos Gabinetes de Otorino-laringologia, Oftalmologia, Dermato-sifilografia, Odontologia, Eletrodiagnóstico e Fisioterapia e Radiologia compete o estudo das  respectivas especialidades particulares e aplicado à maternidade e à infância*,* bem como atender subsidiariamente aos demais serviços.
 
-<strong>Art.</strong> 19 – Ao Laboratório que centralizará todos os trabalhos  de pesquisas, compete fazer investigações próprias nas suas diversas atividades e realizar os exames e pesquisas solicitados pelos demais serviços.
+**Art.** 19 – Ao Laboratório que centralizará todos os trabalhos  de pesquisas, compete fazer investigações próprias nas suas diversas atividades e realizar os exames e pesquisas solicitados pelos demais serviços.
 
-<strong>Art.</strong> 20 – Ao Banco de Sangue compete colher e armazenar sangue e plasma com fins terapêuticos, não só para os doentes assistidos pelo I. F. F., como para as demais instituições hospitalares que ao recorrem.
+**Art.** 20 – Ao Banco de Sangue compete colher e armazenar sangue e plasma com fins terapêuticos, não só para os doentes assistidos pelo I. F. F., como para as demais instituições hospitalares que ao recorrem.
 
-<strong>Art.</strong> 21 – A Farmácia, organizada de acôrdo com a legislação vigente, compete o aviamento do receituário prescrito nos diversos serviços do I. <em>F.</em> F.
+**Art.** 21 – A Farmácia, organizada de acôrdo com a legislação vigente, compete o aviamento do receituário prescrito nos diversos serviços do I. *F.* F.
 
-<strong>Art.</strong> 22 – A Agência de Serviço Social compete prestar assistência à família das crianças matriculadas no I. F. <em>F.</em> e às gestantes, bem como desenvolver tôdas as atividades próprias do serviço social em benefícios dos doentes internados.
+**Art.** 22 – A Agência de Serviço Social compete prestar assistência à família das crianças matriculadas no I. F. *F.* e às gestantes, bem como desenvolver tôdas as atividades próprias do serviço social em benefícios dos doentes internados.
 
-<strong>Art.</strong> 23 – A Secretaria do I. F. F. compete providenciar sôbre o andamento dos papéis de acôrdo com os despachos do respectivo Diretor e ter sob sua guarda tôda a documentação que não fôr arquivada na S. C. do S. A.
+**Art.** 23 – A Secretaria do I. F. F. compete providenciar sôbre o andamento dos papéis de acôrdo com os despachos do respectivo Diretor e ter sob sua guarda tôda a documentação que não fôr arquivada na S. C. do S. A.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Do Serviço de Educação e Divulgação</em>
+*Do Serviço de Educação e Divulgação*
 
-<strong>Art.</strong> 24 – Ao S. E. D. compete:
+**Art.** 24 – Ao S. E. D. compete:
 
 I – elaborar avulsos, folhetos, livros, catálogos, cartazes e artigos de imprensa, destinados a divulgar ensinamentos sôbre todos os assuntos de competência do D. N. Cr.;
 
@@ -266,11 +264,11 @@ XI – promover, periodicamente, concursos de monografias sôbre temas relaciona
 
 Parágrafo único – Os trabalhos do S. E. D. serão organizados sob a orientação técnica dos órgãos do D. N. Cr. com êles relacionados e adiante aprovação do Diretor–Geral.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Do Serviço de Estatística</em>
+*Do Serviço de Estatística*
 
- <strong>Art.</strong> 25 – Ao S. E. compete:
+ **Art.** 25 – Ao S. E. compete:
 
 I – proceder ao levantamento dos dados estatísticos, referentes aos assuntos da competência do D. N. Cr., estudá-los e criticá-los;
 
@@ -290,11 +288,11 @@ VIII – realizar pesquisas estatísticas referentes aos assuntos de competênci
 
 IX – encarregar-se da estatística, administrativa de que trata o Decreto-lei nº 3.854, de 21 de novembro de 1941.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Das Delegacias Federais da Criança</em>
+*Das Delegacias Federais da Criança*
 
-<strong>Art.</strong> 26 – Às D. F. Cr. compete:
+**Art.** 26 – Às D. F. Cr. compete:
 
 I – manter permanente entendimento com os serviços oficiais e particulares de proteção à maternidade, à infância e à adolescência, procurando articular e orientar o seu desenvolvimento :
 
@@ -306,19 +304,19 @@ IV – estudar e propor os planos de auxílio federal, ouvindo as administraçõ
 
 V – informar, com os esclarecimentos obtidos "in-loco”, os processos de auxílios, subvenções e contribuições relativos a instituições de proteção à maternidade, à infância e à adolescência e fiscalizar a sua aplicação;
 
-VI – realizar, em colaboração com os competentes órgãos do D. N. Cr. e mediante aprovação do Diretor- Geral, estudos e inquéritos sôbre os problemas <em>regionais</em> da maternidade, da infância e adolescência;
+VI – realizar, em colaboração com os competentes órgãos do D. N. Cr. e mediante aprovação do Diretor- Geral, estudos e inquéritos sôbre os problemas *regionais* da maternidade, da infância e adolescência;
 
 VII –  prosperar nos cursos regionais organizados pelo D. N. Cr.;
 
 VIII – coletar dados de estatística vital e administrativa dos serviços oficiais e particulares de proteção à maternidade, à  infância  e à adolescência.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Do Serviço de Administração</em>
+*Do Serviço de Administração*
 
-<strong>Art.</strong> 27 – O S. A. terá a seu cargo as atividades referentes a pessoal, material, orçamento, comunicações, biblioteca e portaria, dos órgãos integrantes do D. N. Cr.
+**Art.** 27 – O S. A. terá a seu cargo as atividades referentes a pessoal, material, orçamento, comunicações, biblioteca e portaria, dos órgãos integrantes do D. N. Cr.
 
-<strong>Art.</strong> 28 – À S. P. compete:
+**Art.** 28 – À S. P. compete:
 
 I – preparar e processar o expediente relativo a, pessoal do D. N. Cr.;
 
@@ -330,7 +328,7 @@ IV – coligir os elementos necessários à preparação da proposta orçamentá
 
 V – manter atualizado o ementário da legislação e dos atos referentes a pessoal.
 
-<strong>Art.</strong> 29 – À S. M. compete;
+**Art.** 29 – À S. M. compete;
 
 I – fazer as estimativas de consumo e encaminhar ao órgão competente, nas épocas estabelecidas, as requisições do material a ser adquirido para abastecer o D. N. Cr. ;
 
@@ -342,13 +340,13 @@ IV – propor à D.M. do D.A. a troca, cessão, venda ou baixa de material consi
 
 V – coligir os elementos necessários à preparação da proposta, orçamentária do D. N. Cr., na parte referente a material;
 
-VI <em>–</em> anotar as verbas e os créditos adicionais destinados a material do D.N.Cr.;
+VI *–* anotar as verbas e os créditos adicionais destinados a material do D.N.Cr.;
 
 VII – proceder o inventário dos bens do D.N.Cr. de acordo com normas baixados pelos órgãos competentes ;
 
 VIII – manter atualizado o ementário da legislação e dos atos referentes a material.
 
-<strong>Art.</strong> 30. À S. O. compete;
+**Art.** 30. À S. O. compete;
 
 I – manter em dia a escrituração das verbas orçamentárias e os créditos adicionais destinados nos diferentes órgãos do D. N. Cr, ;
 
@@ -364,7 +362,7 @@ VI – contabilizar a movimentação do Fundo Nacional de Proteção à Criança
 
 VII – manter atualizado o ementário da legislação e dos atos referentes a orçamento.
 
-<strong>Art.</strong> 31. À S. C. compete:
+**Art.** 31. À S. C. compete:
 
 I – receber, registrar e distribuir os papéis a serem encaminhados pelos órgãos do D. N. Cr. e expedir os dêles provenientes;
 
@@ -380,7 +378,7 @@ VI – promover a publicação, no Diário Oficial, dos atos e decisões relativ
 
 VII – passar certidões, quando autorizadas, referentes às atividades específicas  do D. N. Cr.
 
-<strong>Art.</strong> 32. À B. compete:
+**Art.** 32. À B. compete:
 
 I – providenciar a aquisição de livros, ouvidos os órgãos do D.N.Cr., e mediante plano submetido à aprovação do Diretor–Geral;
 
@@ -398,7 +396,7 @@ VII – organizar e distribuir listas bibliográficas sôbre assuntos de interê
 
 Parágrafo único – A Biblioteca poderá manter, nos órgãos do D. N. Cr., seções especializadas de acôrdo com as necessidades particulares de cada órgão, continuando, porém, a seu cargo o contrôle e conservação das obras.
 
-<strong>Art.</strong> 33. À P. compete:
+**Art.** 33. À P. compete:
 
 I – executar os trabalhos de limpeza na sede do D.N. Cr.;
 
@@ -406,13 +404,13 @@ II – executar os trabalhos de vigilância interna dos órgãos do D. N. Cr. qu
 
 III – zelar pela conservação do material em uso no edifício-sede do D. N.Cr.
 
-<strong>Art.</strong> 34. O S.A. funcionará perfeitamente articulado com o D. A. do Ministério, cuja orientação deverá observar.
+**Art.** 34. O S.A. funcionará perfeitamente articulado com o D. A. do Ministério, cuja orientação deverá observar.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO</em>  <em>PESSOAL</em>
+*DAS ATRIBUIÇÕES DO*  *PESSOAL*
 
-<strong>Art.</strong> 35. Ao Diretor–Geral incumbe:
+**Art.** 35. Ao Diretor–Geral incumbe:
 
 I – orientar, coordenar e fiscalizar as atividades do D. N. Cr.;
 
@@ -462,9 +460,9 @@ XXIII – submeter à aprovação do Ministro de Estado o programa das Jornadas 
 
 XXIV – submeter ao Ministro de Estado os planos de formação e aplicação do Fundo Nacional de Proteção à Criança;
 
-XXV <em>–</em> apresentar, anualmente, ao Ministro de Estado, planos de auxílios aos Estados, Territórios e Municípios.
+XXV *–* apresentar, anualmente, ao Ministro de Estado, planos de auxílios aos Estados, Territórios e Municípios.
 
-<strong>Art.</strong> 36. Aos Diretores, aos Delegados e aos Chefes de Serviço incumbe:
+**Art.** 36. Aos Diretores, aos Delegados e aos Chefes de Serviço incumbe:
 
 I – dirigir, coordenar e fiscalizar as atividades dos respectivos órgãos;
 
@@ -500,13 +498,13 @@ XVI – aprovar a escala de serviço e de férias do pessoal que lhes fôr diret
 
 XVII – elogiar e aplicar penas disciplinares, inclusive a de suspensão até 15 dias, aos servidores lotados nos respectivos órgãos, propondo ao Diretor-Geral a aplicação de penalidade que exceder de sua alçada.
 
-<strong>Art.</strong> 37. Ao Diretor do I.F.F. incumbe, ainda:
+**Art.** 37. Ao Diretor do I.F.F. incumbe, ainda:
 
 I – providenciar para que todos os técnicos do I.F.F. realizem pesquisas científicas nos serviços a seu cargo, traçando com os respectivos chefes os planos de trabalhos, cuja realização lhe cumpre facilitar pelos recursos ao seu alcance, já organizando as equipes técnicas, já fornecendo material e meios necessários à execução;
 
 II – convocar e presidir as reuniões do Centro de Estudos “Olinto de Oliveira”.
 
-<strong>Art.</strong> 38<em>.</em> Aos Delegados Federais da Criança incumbe, ainda:
+**Art.** 38*.* Aos Delegados Federais da Criança incumbe, ainda:
 
 I – percorrer as regiões para que forem designados, e em casos de urgência, outros pontos do território nacional que forem determinados pelo Diretor-Geral;
 
@@ -522,7 +520,7 @@ III – obtêr dos serviços estaduais as informações necessárias à elabora�
 
 VII – apresentar, anualmente, ao Diretor-Geral, o relatório dos trabalhos executados.
 
-<strong>Art.</strong> 39. Aos Chefes de Seção, de Gabinetes, do Laboratório, do Banco de Sangue, da Farmácia, da Agência de Serviço Social, da Secretaria, da Biblioteca e ao Secretário dos Cursos, incumbe dirigir e fiscalizar os trabalhos respectivos, devendo para tanto:
+**Art.** 39. Aos Chefes de Seção, de Gabinetes, do Laboratório, do Banco de Sangue, da Farmácia, da Agência de Serviço Social, da Secretaria, da Biblioteca e ao Secretário dos Cursos, incumbe dirigir e fiscalizar os trabalhos respectivos, devendo para tanto:
 
 I – distribuir os trabalhos aos servidores, orientar sua execução e manter coordenação entre os elementos componentes do respectivo setor, determinando as normas e métodos que se fizerem aconselháveis;
 
@@ -540,7 +538,7 @@ VII – expedir boletins de merecimento dos funcionários que lhes forem diretam
 
 VIII – encerrar o ponto do pessoal que lhes fôr subordinado.
 
-<strong>Art.</strong> 40. Ao Assistente do Diretor–Geral incumbe:
+**Art.** 40. Ao Assistente do Diretor–Geral incumbe:
 
 I – chefiar o gabinete do Diretor-Geral;
 
@@ -550,9 +548,9 @@ III – representar o Diretor-Geral, quando para isso fôr designado;
 
 IV – redigir a correspondência pessoal do Diretor-Geral.
 
-<strong>Art.</strong> 41. Ao Auxiliar do Gabinete incumbe os trabalhos que lhe forem determinados pelo Diretor Geral ou pelo Assistente.
+**Art.** 41. Ao Auxiliar do Gabinete incumbe os trabalhos que lhe forem determinados pelo Diretor Geral ou pelo Assistente.
 
-<strong>Art.</strong> 42 – Ao Assistente do Diretor da I.F.F. incumbe:
+**Art.** 42 – Ao Assistente do Diretor da I.F.F. incumbe:
 
 I – auxiliar o Diretor em suas funções normais e executar as que forem por êle determinadas;
 
@@ -560,7 +558,7 @@ II – redigir a correspondência pessoal do Diretor;
 
 III – substituir o Diretor em suas faltas e impedimentos eventuais e representá-lo quando por êle designado.
 
-<strong>Art.</strong> 43. Ao Administrador incumbe:
+**Art.** 43. Ao Administrador incumbe:
 
 I – gerir, de acôrdo com as ordens do Diretor, os serviços de Portaria, Necrotério, Cozinha Geral, Refeitório, Rouparia, Lavanderia e Desinfetório;
 
@@ -592,7 +590,7 @@ XIV – ter sob sua guarda os espólios dos doentes falecidos para entregá-los 
 
 XV – encerrar o ponto do pessoal que lhe fôr subordinado.
 
-<strong>Art.</strong> 44. À Enfermeira Chefe incumbe:
+**Art.** 44. À Enfermeira Chefe incumbe:
 
 I – orientar e controlar todo o serviço de enfermagem do I.F.F., supervisionado pelo Diretor;
 
@@ -610,7 +608,7 @@ VII – elogiar e aplicar penas disciplinares aos seus subordinados, inclusive a
 
 VIII – distribuir serviço ao pessoal que lhe fôr subordinado.
 
-<strong>Art.</strong> 45. Ao Chefe da Portaria incumbe:
+**Art.** 45. Ao Chefe da Portaria incumbe:
 
 I – superintender, distribuir e fiscalizar os trabalhos da competência da Portaria, transmitindo as necessárias instruções ;
 
@@ -622,39 +620,39 @@ IV– organizar e submeter à aprovação do superior imediato a escala de plant
 
 V – encerrar o ponto do pessoal que lhe fôr subordinado.
 
-<strong>Art.</strong> 46. Aos demais servidores, sem função especificada neste Regimento, compete executar os trabalhos que lhes forem determinados pelos superiores imediatos.
+**Art.** 46. Aos demais servidores, sem função especificada neste Regimento, compete executar os trabalhos que lhes forem determinados pelos superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong><em>.</em> 47\. O D. N. Cr. terá lotação aprovada em decreto.
+**Art***.* 47\. O D. N. Cr. terá lotação aprovada em decreto.
 
 Parágrafo único. Além do pessoal constante da lotação, o D. N. Cr poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art.</strong> 48. O horário normal do trabalho será fixado pelo Diretor–Geral, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art.** 48. O horário normal do trabalho será fixado pelo Diretor–Geral, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art.</strong> 49. Os servidores do I.F.F. ficam sujeitos ao regime de plantão, respeitados os seguintes números de horas semanais.
+**Art.** 49. Os servidores do I.F.F. ficam sujeitos ao regime de plantão, respeitados os seguintes números de horas semanais.
 
 I – quarenta e oito horas para o inspetor, enfermeiro, atendente, chefe de Portaria, porteiro, zelador, contínuo, artífice, servente, trabalhador e mensageiro;
 
 II – trinta e três horas para os demais servidores.
 
-<strong>Art.</strong> 50 – O ponto do pessoal do D. N. Cr. será encerrado e remetido ao S. A., na hora regulamentar, para o competente registro diário.
+**Art.** 50 – O ponto do pessoal do D. N. Cr. será encerrado e remetido ao S. A., na hora regulamentar, para o competente registro diário.
 
-<strong>Art.</strong> 51 – A freqüência do pessoal em trabalho fora da sede será verificada por boletim diários de produção controlados pelo superior imediato, e remetidos ao S. A. para registro.
+**Art.** 51 – A freqüência do pessoal em trabalho fora da sede será verificada por boletim diários de produção controlados pelo superior imediato, e remetidos ao S. A. para registro.
 
-<strong>Art.</strong> 52 – Não ficam sujeitos a ponto o Diretor–Geral, os Diretores, os Chefes de Serviço e os Delegados, devendo, porém, observar o horário fixado.
+**Art.** 52 – Não ficam sujeitos a ponto o Diretor–Geral, os Diretores, os Chefes de Serviço e os Delegados, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art.</strong> 53 – Serão substituídos, automaticamente, em suas faltas e impedimentos:
+**Art.** 53 – Serão substituídos, automaticamente, em suas faltas e impedimentos:
 
 I – O Diretor–Geral por um Diretor ou Chefe de Serviço de sua indicação, designado pelo Ministro de Estado;
 
@@ -662,25 +660,25 @@ II – os Diretores, os Delegados e os Chefes de Serviço, por um servidor de su
 
 Parágrafo único – Haverá sempre servidores previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSICÕES GERAIS</em>
+*DISPOSICÕES GERAIS*
 
-<strong>Art.</strong> 54 – Só poderão ser publicados com a responsabilidade e nome dos órgãos do D. N. Cr. os trabalhos aprovados pelas respectivas chefias, autorizada a publicação pelo Diretor–Geral.
+**Art.** 54 – Só poderão ser publicados com a responsabilidade e nome dos órgãos do D. N. Cr. os trabalhos aprovados pelas respectivas chefias, autorizada a publicação pelo Diretor–Geral.
 
-<strong>Art.</strong> 55 – A juízo do Diretor–Geral, e dentro das verbas competentes, o Serviço de Educação e Divulgação poderá ajustar com profissionais de notório valor a preparação de trabalhos destinados a publicação.
+**Art.** 55 – A juízo do Diretor–Geral, e dentro das verbas competentes, o Serviço de Educação e Divulgação poderá ajustar com profissionais de notório valor a preparação de trabalhos destinados a publicação.
 
-<strong>Art.</strong> 56 – O D. N. Cr. manterá, sob a denominação de “Arquivos do D. N. Cr.”, uma publicação anual destinada a divulgar nos meios científicos os trabalhos relatados no Centro de Estudos “Olinto de Oliveira”, além de outras publicações de caráter educativo, relacionadas com a sua finalidade, para distribuição gratuita a todos  os interessadas.
+**Art.** 56 – O D. N. Cr. manterá, sob a denominação de “Arquivos do D. N. Cr.”, uma publicação anual destinada a divulgar nos meios científicos os trabalhos relatados no Centro de Estudos “Olinto de Oliveira”, além de outras publicações de caráter educativo, relacionadas com a sua finalidade, para distribuição gratuita a todos  os interessadas.
 
-<strong>Art.</strong> 57 – Deverão residir no I.F.F., para assistência e vigilância continua, a enfermeira-chefe e, obrigatoriamente, uma auxiliar de administração indicado pelo Administrador e designado pela Diretor do I.F.F.
+**Art.** 57 – Deverão residir no I.F.F., para assistência e vigilância continua, a enfermeira-chefe e, obrigatoriamente, uma auxiliar de administração indicado pelo Administrador e designado pela Diretor do I.F.F.
 
-<strong>Art.</strong> 58 – De acôrdo com os recursos orçamentários o Diretor do I.F,F., mediante aprovação do Diretor–Geral, poderá conceder, com prazo certo, estágio e médicos e a acadêmicos de medicina.
+**Art.** 58 – De acôrdo com os recursos orçamentários o Diretor do I.F,F., mediante aprovação do Diretor–Geral, poderá conceder, com prazo certo, estágio e médicos e a acadêmicos de medicina.
 
 Parágrafo único – Os estagiários acadêmicos residirão no I.F.F. e ficam obrigados a vinte e quatro horas de trabalho semanal.
 
-<strong>Art.</strong> 59 – As instituições, quer particulares, quer paraestatais, de proteção e assistência, à maternidade, à infância e à adolescência, como as que incluem em seus objetivos atividades dessa natureza, que recebem quaisquer recursos decorrentes de leis federais para manutenção e desenvolvimento dos serviços, deverão apresentar, anualmente, ao Departamento Nacional da Criança, detalhado relatório de suas atividades, bem como o programa das mesmas para o exercício futuro.
+**Art.** 59 – As instituições, quer particulares, quer paraestatais, de proteção e assistência, à maternidade, à infância e à adolescência, como as que incluem em seus objetivos atividades dessa natureza, que recebem quaisquer recursos decorrentes de leis federais para manutenção e desenvolvimento dos serviços, deverão apresentar, anualmente, ao Departamento Nacional da Criança, detalhado relatório de suas atividades, bem como o programa das mesmas para o exercício futuro.
 
-<strong>Art.</strong> 60 – As instituições de proteção à maternidade, à infância e à adolescência, particulares, congregadas, ou as que incluam entre seus objetivos estas atividades, só receberão os auxílios, subvenções, contribuições ou quaisquer outros recursos da União se satisfizerem os seguintes requisitos indispensáveis ao competente registro no D. N. Cr.
+**Art.** 60 – As instituições de proteção à maternidade, à infância e à adolescência, particulares, congregadas, ou as que incluam entre seus objetivos estas atividades, só receberão os auxílios, subvenções, contribuições ou quaisquer outros recursos da União se satisfizerem os seguintes requisitos indispensáveis ao competente registro no D. N. Cr.
 
 I – certidão de que instituição se acha legalmente constituída, com personalidade jurídica;
 
@@ -696,16 +694,16 @@ VI – quando se tratar de construção, ampliação, manutenção, ou desenvolv
 
 Parágrafo único – O registro de que trata êsse artigo será feito no Serviço de Estatística do D.N.C..
 
-<strong>Art.</strong> 61 – O D. N. Cr. promoverá os meios necessários para que a Federação de obras a  que se refere o item IV do art. 11 trabalhe articuladamente com êle e mantenha em sua Diretoria um representante indicado pelo Diretor–Geral do Departamento.
+**Art.** 61 – O D. N. Cr. promoverá os meios necessários para que a Federação de obras a  que se refere o item IV do art. 11 trabalhe articuladamente com êle e mantenha em sua Diretoria um representante indicado pelo Diretor–Geral do Departamento.
 
-<strong>Art.</strong> 62 – Cada, órgão do D. N. Cr. deverá organizar, e manter atualizada. uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviços, que digam respeito às atividades especificas dos mesmos.
+**Art.** 62 – Cada, órgão do D. N. Cr. deverá organizar, e manter atualizada. uma coleção de leis, regulamentos, circulares, portarias, ordens e instruções de serviços, que digam respeito às atividades especificas dos mesmos.
 
-<strong>Art.</strong> 63 – De acôrdo com as possibilidades poderá o D. N. Cr, contratar com instituições particulares a manutenção de serviços que não puderem ser executados no próprio Departamento.
+**Art.** 63 – De acôrdo com as possibilidades poderá o D. N. Cr, contratar com instituições particulares a manutenção de serviços que não puderem ser executados no próprio Departamento.
 
-<strong>Art.</strong> 64 – O Departamento Nacional da Criança, por proposta do Diretor dos Cursos e a critério do Diretor–Geral, poderá entrar em entendimento com as Universidades ou estabelecimentos superiores de ensino oficiais do país, no sentido de firmar acôrdos para que os cursos do <em>D.</em> N. Cr. possam ter cunho universitário.
+**Art.** 64 – O Departamento Nacional da Criança, por proposta do Diretor dos Cursos e a critério do Diretor–Geral, poderá entrar em entendimento com as Universidades ou estabelecimentos superiores de ensino oficiais do país, no sentido de firmar acôrdos para que os cursos do *D.* N. Cr. possam ter cunho universitário.
 
-<strong>Art.</strong> 65. – Os médicos puericultores de carreira ficam sujeitos a servir pelo prazo mínimo de dois anos nas Delegacias Federais da Criança.
+**Art.** 65. – Os médicos puericultores de carreira ficam sujeitos a servir pelo prazo mínimo de dois anos nas Delegacias Federais da Criança.
 
-<strong>Art.</strong> 66 – Os casos omissos dêste Regimento serão resolvidos pelo Ministro do Estado, mediante proposta do Diretor–Geral.
+**Art.** 66 – Os casos omissos dêste Regimento serão resolvidos pelo Ministro do Estado, mediante proposta do Diretor–Geral.
 
 Rio de Janeiro, em 23 de maio de 1949.  – Clemente Mariani.

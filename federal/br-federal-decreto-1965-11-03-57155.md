@@ -1,5 +1,3 @@
-###DEC-057155-0-000-03-11-1965@@@
-
 DECRETO Nº 57.155, DE 3 DE NOVEMBRO DE 1965.
 
 Expede nova regulamentação da Lei nº 4.090, de 13 de julho de 1962, que institui a gratificação de Natal para os trabalhadores, com as alterações introduzidas pela Lei nº 4.749, de 12 de agôsto de 1965.

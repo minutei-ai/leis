@@ -1,5 +1,3 @@
-###DEC-077194-0-000-19-02-1976@@@
-
 DECRETO Nº 77.194, DE 19 DE FEVEREIRO DE 1976.
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco (CODEVASF), área de terras necessária à implantação do Projeto de Irrigação Formoso A, no Município de Bom Jesus da Lapa, no Estado da Bahia, e dá outras providências.

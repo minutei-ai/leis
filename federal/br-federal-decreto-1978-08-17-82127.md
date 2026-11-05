@@ -1,5 +1,3 @@
-###DEC-082127-0-000-17-08-1978@@@
-
 Decreto nº 82.127, de 17 de agosto de 1978.
 
 Declara sem efeito o Decreto nº 69.136, de 30 de agosto de 1971, que concedeu à Sinézio Borges - Firma Individual o direito de lavrar argila no Município de Poços de Caldas, Estado de Minas Gerais.

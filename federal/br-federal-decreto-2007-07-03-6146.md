@@ -1,5 +1,3 @@
-###DEC-006146-0-000-03-07-2007@@@
-
 DECRETO Nº 6.146, DE 3 DE JULHO DE 2007.
 
 Altera o Decreto no 5.123, de 1o de julho de 2004, que regulamenta a Lei no 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - Sinarm e define crimes.
@@ -41,5 +39,3 @@ Brasília, 3 de julho de 2007; 186º da Independência e 119º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Tarso Genro
-
-Este texto não substitui o publicado no DOU de 4.7.2007

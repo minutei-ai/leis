@@ -1,5 +1,3 @@
-###DEC-050545-0-000-04-05-1961@@@
-
 DECRETO Nº 50.545, De 4 de Maio de 1961.
 
 Dispõe sôbre a fiscalização dos gêneros distribuídos pela Campanha Nacional de Merenda Escolar e dá outras providências.

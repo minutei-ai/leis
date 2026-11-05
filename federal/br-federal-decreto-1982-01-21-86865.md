@@ -1,5 +1,3 @@
-###DEC-086865-0-000-21-01-1982@@@
-
 DECRETO Nº 86.865, de 21 de janeiro de 1982
 
 Concede à Companhia Eletromecânica CELMA autorização para proceder o aumento de seu Capital.

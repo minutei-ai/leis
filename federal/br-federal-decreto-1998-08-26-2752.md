@@ -1,5 +1,3 @@
-###DEC-002752-0-000-26-08-1998@@@
-
 DECRETO Nº 2.752, DE 26 DE AGOSTO DE 1998
 
 Estabelece condições para prestação de assistência judicial aos servidores integrantes da Carreira Auditoria do Tesouro Nacional e aos titulares de cargos de Direção e Assessoramento Superiores, em ações decorrentes do exercício de cargo na Secretaria da Receita Federal.

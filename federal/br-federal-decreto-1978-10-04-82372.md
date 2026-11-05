@@ -1,5 +1,3 @@
-###DEC-082372-0-000-04-10-1978@@@
-
 Decreto nº 82 372, de 04 de outubro de 1978.
 
 Concede reconhecimento aos cursos de Pedagogia e de Letras da Faculdade de Filosofia, Ciências e Letras de Rezende, com sede na cidade de Rezende, Estado do Rio de Janeiro.

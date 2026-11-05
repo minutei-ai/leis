@@ -1,5 +1,3 @@
-###DEC-059812-0-000-19-12-1966@@@
-
 DECRETO Nº 59.812, DE 19 DE DEZEMBRO DE 1966.
 
 Retifica os §§ 1º e 2º do art. 3º do Decreto nº 54.397, de 9 de outubro de 1964.

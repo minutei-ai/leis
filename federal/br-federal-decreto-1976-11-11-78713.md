@@ -1,5 +1,3 @@
-###DEC-078713-0-000-11-11-1976@@@
-
 DECRETO Nº 78.713, DE 11 DE NOVEMBRO DE 1976.
 
 Regulamenta a Lei nº 6.275, de 1º de dezembro de 1975, que acrescenta parágrafo único ao artigo 3º da Lei nº 5.760, de 3 de dezembro de 1971 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055455-0-000-05-01-1965@@@
-
 Decreto nº 55.455, de 5 de janeiro de 1965.
 
 Renova o Decreto nº 46.310, de 30 de junho de 1959.

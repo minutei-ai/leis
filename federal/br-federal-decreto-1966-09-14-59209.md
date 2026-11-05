@@ -1,5 +1,3 @@
-###DEC-059209-0-000-14-09-1966@@@
-
 decreto nº 59.209, de 14 de setembro de 1966.
 
 Altera os preços mínimos básicos para financiamento ou aquisição de algodão das Regiões Central e Meridional do País, da safra do ano de 1967, fixados pelo Decreto número 58.975, de 3.8.66.

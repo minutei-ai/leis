@@ -1,5 +1,3 @@
-###DEC-046379-0-000-07-07-1959@@@
-
 DECRETO Nº 46.379, DE 7 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho, com a finalidade de elaborar e pôr em execução um programa de fomento ao artesanato rural, no Estado do Rio Grande do Norte.

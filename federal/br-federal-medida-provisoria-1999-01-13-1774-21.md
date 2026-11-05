@@ -1,5 +1,3 @@
-###MPV-001774-0-021-13-01-1999@@@
-
 medida provisória nº 1.774-21, de 13 de janeiro de 1999.
 
 Altera a redação e acresce dispositivos às Leis nºs 8.629, de 25 de fevereiro de 1993, e 8.437, de 30 de junho de 1992, e dá outras providências.

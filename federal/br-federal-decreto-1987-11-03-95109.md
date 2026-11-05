@@ -1,5 +1,3 @@
-###DEC-095109-0-000-03-11-1987@@@
-
 DECRETO Nº 95.109, DE 3 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Informática Veiga de Almeida.

@@ -1,10 +1,8 @@
-###DEC-042405-0-000-03-10-1957@@@
+**DECRETO Nº 42.405, DE 3 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.405, DE 3 DE OUTUBRO DE 1957.</strong>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei, 2.784, de 20 de novembro de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do Decreto-lei, 2.784, de 20 de novembro de 1940,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade Lima & Companhia com sede na cidade de Mossoró,
 
@@ -12,6 +10,6 @@ Artigo único. É concedida à sociedade Lima & Companhia com sede na cidade de 
 
 Rio de Janeiro, 3 de outubro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEKER</strong>
+**JUSCELINO KUBITSCHEKER**
 
 Parsifal Barroso

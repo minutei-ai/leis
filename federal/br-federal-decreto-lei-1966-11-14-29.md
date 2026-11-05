@@ -1,5 +1,3 @@
-###DEL-000029-0-000-14-11-1966@@@
-
 DECRETO-LEI Nº 29, DE 14 DE NOVEMBRO DE 1966
 
 Suprime a concessão de abatimentos de passagens e fretes no transporte aéreo, dispõe sôbre a requisição de transporte, limita a concessão de passagem ou frete aéreo gratuito, ou de cortesia, e dá outras providências.

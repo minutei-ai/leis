@@ -1,7 +1,3 @@
-1
-
-###MPV-001542-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.542, DE 18 DE DEZEMBRO DE 1996.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

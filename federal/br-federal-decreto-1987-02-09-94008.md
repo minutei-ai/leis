@@ -1,5 +1,3 @@
-###DEC-094008-0-000-09-02-1987@@@
-
 DECRETO Nº 94.008, DE 09 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação de rádio UHF - Multicanal de Morro dos Cabelos Brancos, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

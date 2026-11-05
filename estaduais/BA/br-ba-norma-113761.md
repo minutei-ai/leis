@@ -1,6 +1,7 @@
 LEI Nº 1.012 DE 28 DE JULHO DE 1958
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.363](https://www.legislabahia.ba.gov.br/documentos/lei-no-13363-de-29-de-junho-de-2015#LO%2013.363) de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos Municípios Abaré, Chorrochó, Glória, Macururé, Paulo Afonso e Rodelas.
 
 Cria o Município de Paulo Afonso, desmembrado do de Glória.
@@ -67,4 +68,4 @@ Julio Gadelha
 
 João Andréa
 
-* * *
+ *

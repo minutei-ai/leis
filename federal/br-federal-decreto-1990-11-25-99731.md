@@ -1,7 +1,3 @@
-1
-
-###DEC-099731-0-000-25-11-1990@@@
-
 DECRETO Nº 99.731, DE 25 DE NOVEMBRO DE 1990.
 
 Dispõe sobre a composição e o funcionamento do Grupo de Coordenação incumbido da atualização do Plano Nacional de Gerenciamento Costeiro.

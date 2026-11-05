@@ -1,5 +1,3 @@
-###DEC-092210-0-000-24-12-1985@@@
-
 Decreto nº 92.210, de 24 de deZEMBRO de 1985.
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Ciências e Artes Aplicadas de Londrina.

@@ -1,5 +1,3 @@
-###DEC-059349-0-000-30-09-1966@@@
-
 DECRETO Nº 59.349, DE 30 DE SETEMBRO DE 1966.
 
 Renova o Decreto nº 1.694, de 27 de novembro de 1962.

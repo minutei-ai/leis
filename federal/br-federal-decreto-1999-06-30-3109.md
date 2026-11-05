@@ -1,5 +1,3 @@
-###DEC-003109-0-000-30-06-1999@@@
-
 DECRETO Nº 3.109, DE 30 DE JUNHO DE 1999.
 
 Promulga a Convenção Internacional para a Proteção das Obtenções Vegetais, de 2 de dezembro de 1961, revista em Genebra, em 10 de novembro de 1972 e 23 de outubro de 1978.

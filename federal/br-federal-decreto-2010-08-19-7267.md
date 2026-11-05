@@ -1,5 +1,3 @@
-###DEC-007267-0-000-19-08-2010-PUB-01@@@
-
 DECRETO Nº 7.267, DE 19 DE AGOSTO DE 2010.
 
 Dispõe sobre a exclusão da VALEC - Engenharia, Construções e Ferrovias S.A. do Programa Nacional de Desestatização - PND.

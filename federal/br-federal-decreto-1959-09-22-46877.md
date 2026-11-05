@@ -1,5 +1,3 @@
-###DEC-046877-0-000-22-09-1959@@@
-
 decreto nº 46.877, de 22 de setembro de 1959.
 
 Concede equiparação a estabelecimento de ensino industrial.

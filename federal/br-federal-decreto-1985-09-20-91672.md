@@ -1,5 +1,3 @@
-###DEC-091672-0-000-20-09-1985@@@
-
 Decreto nº 91.672, de 20 de setembro de 1985
 
 Concede à Companhia Siderúrgica de Tubarão - CST, autorização para proceder a aumento do seu Capital Social.

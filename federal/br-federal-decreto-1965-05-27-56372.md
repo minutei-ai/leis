@@ -1,5 +1,3 @@
-###DEC-056372-0-000-27-05-1965@@@
-
 DECRETO Nº 56.372, DE 27 DE MAIO DE 1965.
 
 Retifica o Decreto nº 51.340, de 28 de outubro de 1961, que aprovou o sistema de Classificação de Cargos do Instituto de Previdência e Assistência dos Servidores do Estado.

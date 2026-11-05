@@ -1,5 +1,3 @@
-###DEC-080214-0-000-23-08-1977@@@
-
 decreto nº 80.214, de 23 de agosto de 1977.
 
 Autoriza a transformação do curso de Ciências, licenciatura de 1º Grau, em curso de Ciências, licenciatura plena da Faculdade de Filosofia, Ciência e Letras Dom Bosco, mantida pelo Instituto Educacional Dom Bosco, com sede na cidade de Santa Rosa, no Rio Grande do Sul.

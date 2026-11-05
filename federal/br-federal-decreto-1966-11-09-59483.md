@@ -1,5 +1,3 @@
-###DEC-059483-0-000-09-11-1966@@@
-
 Decreto nº 59.483, de 9 de novembro de 1966.
 
 Concede a Moreira Moagem de Minérios S.A. autorização para funcionar como emprêsa de mineração.

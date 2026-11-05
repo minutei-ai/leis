@@ -1,5 +1,3 @@
-###DEC-075228-0-000-16-01-1975@@@
-
 DECRETO Nº 75.228, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Civil da Universidade Federal de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEC-055344-0-000-31-12-1964@@@
-
 DECRETO Nº 55.344, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Bernardo Dale Mascarenhas a pesquisar calcário no município de Curvelo, Estado de Minas Gerais.

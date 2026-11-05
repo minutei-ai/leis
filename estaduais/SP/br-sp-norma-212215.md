@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212215)<br>
-
 # LEI N° 18.396, DE 07 DE FEVEREIRO DE 2026
 
 ## (Projeto de lei n° 923/2024, dos Deputados Paulo Fiorilo - PT e Edson Giriboni - UNIÃO)

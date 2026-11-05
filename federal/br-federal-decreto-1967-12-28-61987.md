@@ -1,5 +1,3 @@
-###DEC-061987-0-000-28-12-1967@@@
-
 Decreto nº 61.987, de 28 de Dezembro de 1967.
 
 Dá nova redação ao parágrafo único do art. 8º dos Estatutos da Fundação Instituto de Pesquisa Econômico-Social Aplicada (IPEA).

@@ -1,5 +1,3 @@
-###DEC-053211-0-000-12-12-1963@@@
-
 Decreto nº 53.211, de 12 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Augusto Coelho da Silva Netto a pesquisar pedras coradas, no município de Colatina, no Estado do Espírito Santo.

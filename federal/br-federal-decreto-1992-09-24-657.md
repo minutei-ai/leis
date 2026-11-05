@@ -1,7 +1,3 @@
-1
-
-###DEC-000657-0-000-24-09-1992@@@
-
 DECRETO N° 657, DE 24 DE SETEMBRO DE 1992
 
 Promulga o Acordo de Cooperação para o Aproveitamento dos Recursos Naturais e o Desenvolvimento da Bacia do Rio Quaraí, entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai.

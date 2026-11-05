@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4ad4b26c-1443-4ea3-bf78-efd074148f37/texto#nowhere)
 
-###DEL-001810-0-000-23-10-1980@@@
-
 # Decreto-lei nº 1.810, de 23 de outubro de 1980
 
 Dispõe sobre a construção de usinas nucleoelétricas.

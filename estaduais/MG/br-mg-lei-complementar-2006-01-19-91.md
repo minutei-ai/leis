@@ -403,7 +403,3 @@ Antonio Augusto Junho Anastasia
 Fuad Jorge Noman Filho
 
 Wilson Nélio Brumer
-
-\===================
-
-Data da última atualização: 23/9/2020.

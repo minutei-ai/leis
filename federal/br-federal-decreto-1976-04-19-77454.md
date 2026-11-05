@@ -1,5 +1,3 @@
-###DEC-077454-0-000-19-04-1976@@@
-
 DECRETO Nº 77.454 - DE 19 DE ABRIL DE 1976
 
 Dispõe sobre a transferência para a Empresa Brasileira de Assistência Técnica e Extensão Rural -EMBRATER, dos programas executados pelo Conselho Nacional de Desenvolvimento da Pecuária -CONDEPE e dá outras providências.

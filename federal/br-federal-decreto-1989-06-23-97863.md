@@ -1,7 +1,3 @@
-1
-
-###DEC-097863-0-000-23-06-1989@@@
-
 DECRETO Nº 97.863, DE 23 DE JUNHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA MARAVILHA”, classificado como “latifúndio por exploração”, situado no Município de Moju, Estado do Pará, compreendido na zona prioritária fixada pelo Decreto nº 92.623, de 02 de maio de 1986, e dá outras providências.

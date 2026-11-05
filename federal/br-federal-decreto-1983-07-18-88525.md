@@ -1,5 +1,3 @@
-###DEC-088525-0-000-18-07-1983@@@
-
 Decreto nº 88.525, de 18 de julho de 1983
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP concessão para captação de água do rio Paraíba do Sul, para abastecimento público, no Estado de São Paulo.

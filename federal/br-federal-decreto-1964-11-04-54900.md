@@ -1,5 +1,3 @@
-###DEC-054900-0-000-04-11-1964@@@
-
 DECRETO Nº 54.900, DE 4 DE Novembro DE 1964.
 
 Autoriza a Sociedade Brasileira de Mineração Fama Ltda. a pesquisar amianto no município de Niquelândia, Estado de Goiás.

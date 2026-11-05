@@ -1,5 +1,3 @@
-###DEC-075465-0-000-11-03-1975@@@
-
 DECRETO Nº 75.465, DE 11 DE MARÇO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia - COELBA, no Estado da Bahia.

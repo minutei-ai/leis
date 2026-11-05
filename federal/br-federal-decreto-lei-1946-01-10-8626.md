@@ -1,5 +1,3 @@
-###DEL-008626-0-000-10-01-1946@@@
-
 DECRETO-LEI N. 8.626 – DE 10 DE JANEIRO DE 1946
 
 Transforma cargos do Quadro da Justiça do Ministério da Justiça e Negócios Interiores, eleva o padrão dos respectivos vencimentos e dá outras providências.

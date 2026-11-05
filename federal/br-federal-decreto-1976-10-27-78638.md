@@ -1,5 +1,3 @@
-###DEC-078638-0-000-27-10-1976@@@
-
 DECRETO Nº 78.638, de 27 de outubro de 1976.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que lhe menciona, situado o Município de Simões Filho, Estado da Bahia, destinado ao TRT da 5ª Região.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095655-0-000-21-01-1988@@@
-
 DECRETO N° 95.655, DE 21 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do curso de Odontologia da Fundação de Ensino e Tecnologia de Alfenas, Minas Gerais.

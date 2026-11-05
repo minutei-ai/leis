@@ -1,5 +1,3 @@
-###DEC-049499-0-000-12-12-1960@@@
-
 Decreto nº 49.499, de 12 de dezembro de 1960.
 
 Declara sem efeito o Decreto número 43.973, de 4 de julho de 1958.

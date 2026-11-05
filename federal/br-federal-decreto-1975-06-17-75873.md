@@ -1,5 +1,3 @@
-###DEC-075873-0-000-17-06-1975@@@
-
 DECRETO Nº 75.873, DE 17 DE JUNHO DE 1975.
 
 Regula os valores da Gratificação de Serviço Ativo, da Diária de Alimentação, da Indenização de Representação, da Indenização de Moradia, os requisitos para recepção da Indenização de Compensação Orgânica referentes ao deslocamento em Aeronave Militar, a Gratificação e a Ajuda de Custo referentes à Localidade Especial.

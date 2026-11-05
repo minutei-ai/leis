@@ -1,5 +1,3 @@
-###DEC-066861-0-000-08-07-1970@@@
-
 Decreto nº 66.861, de 8 de julho de 1970.
 
 Decreta a intervenção federal no Município de São João de Meriti, Estado do Rio de Janeiro e dá outras providências.

@@ -1,16 +1,14 @@
-###DEC-065685-0-000-10-11-1969@@@
+**DECRETO Nº 65.685, DE 10 DE NOVEMBRO DE 1969.**
 
-<strong>DECRETO Nº 65.685, DE 10 DE NOVEMBRO DE 1969.</strong>
+***Altera dispositivo do Decreto número 59.905, de 30 de dezembro de 1966, modificado pelos Decretos nºs 62.289, de 21 de fevereiro de 1968 e 65.521, de 21 de outubro de 1969.***
 
-<em><strong>Altera dispositivo do Decreto número 59.905, de 30 de dezembro de 1966, modificado pelos Decretos nºs 62.289, de 21 de fevereiro de 1968 e 65.521, de 21 de outubro de 1969.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 81, item II, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 81, item II, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Os dispositivos do Decreto nº 59.905, de 30 de dezembro de 1966, alterado pelos Decretos números 62.289, de 21 de fevereiro de 1968 e 65.521, de 21 de outubro de 1969, adiante indicados, passam a vigorar com a seguinte redação:
 
-<strong>Art</strong>. 1º Os dispositivos do Decreto nº 59.905, de 30 de dezembro de 1966, alterado pelos Decretos números 62.289, de 21 de fevereiro de 1968 e 65.521, de 21 de outubro de 1969, adiante indicados, passam a vigorar com a seguinte redação:
-
-“<strong>Art</strong>. 26.....................................................................................................................................
+“**Art**. 26.....................................................................................................................................
 
 a) .............................................................................................................................................
 
@@ -20,7 +18,7 @@ c) .............................................................................
 
 d) .............................................................................................................................................
 
-“<strong>Art</strong>. 27.....................................................................................................................................
+“**Art**. 27.....................................................................................................................................
 
 a) .............................................................................................................................................
 
@@ -32,10 +30,10 @@ d) sido classificado em mais de 60% das informações semestrais relativas à pr
 
 Parágrafo único. ....................................................................................................................”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 10 de novembro de 1969, 148º da Independência e 81º da República.
 
-<strong>EMÍLIO G. MÉDICI</strong>
+**EMÍLIO G. MÉDICI**
 
 Adalberto de Barros Nunes

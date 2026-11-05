@@ -1,36 +1,34 @@
-###DEC-023714-0-000-19-09-1947@@@
+**DECRETO N. 23.714 – DE 19 DE SETEMBRO DE 1947**
 
-  <strong>DECRETO N. 23.714 – DE 19 DE SETEMBRO DE 1947</strong>
-
-<em><strong>Outorga concessão ao Govêrno do Estado de Alagoas para estabelecer, em Maceió, uma estação radiodifusora de ondas médias.</strong></em>
+***Outorga concessão ao Govêrno do Estado de Alagoas para estabelecer, em Maceió, uma estação radiodifusora de ondas médias.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, nº I da Constituição, atendendo ao que solicitou o Govêrno do Estado de Alagoas e tendo em vista o disposto no artigo 5º, nº XII, da mesma, Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Artigo único</strong> – Fica outorgada concessão ao Govêrno do Estado de Alagôas para estabelecer em Maceió, sem direito de exclusividade uma estação de ondas médias, destinadas executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
+**Artigo único** – Fica outorgada concessão ao Govêrno do Estado de Alagôas para estabelecer em Maceió, sem direito de exclusividade uma estação de ondas médias, destinadas executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
 Parágrafo único – O contrato decorrente desta concessão deverá ser assinado dentro do prazo de 60 dias, a contar da data da publicação dêste Decreto no Diário Oficial, sob pena de ser logo considerada nula a concessão.
 
 Rio de Janeiro, 19 de setembro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clovis Pestana.
 
-<h2 style="margin-top:6pt; font-size:1.2em;font-weight:normal;font-style:normal"><span><span><em>Cláusulas a que se refere o Decreto nº 23.714, desta data:</em></span></span></h2>
+## *Cláusulas a que se refere o Decreto nº 23.714, desta data:*
 
-<strong>I</strong>
+**I**
 
 Fica assegurado ao Govêrno do Estado de Alagoas o direito de estabelecer na cidade de Maceió, uma estação de ondas médias, destinada a executar o serviço de radiodifusão, com finalidade e orientação intelectual e instrutiva, e com subordinação a tôdas as obrigações e exigências instituídas nêste ato de concessão.
 
-<strong>II</strong>
+**II**
 
 A presente concessão é outorgada pelo prazo de dez (10) anos, a contar da data do registro dêste contrato pelo Tribunal de Contas, e renovável, a juízo do Govêrno sem prejuízo da faculdade que lhe assegura a legislação vigente de, em qualquer tempo, desapropriar, no interêsse geral, o serviço outorgado.
 
 Parágrafo único – O Govêrno não se responsabiliza por indenização alguma, se o Tribunal de Contas denegar o registro do contrato de que trata esta cláusula.
 
-<strong>III</strong>
+**III**
 
 O concessionário é obrigado a:
 
@@ -60,11 +58,11 @@ l) submeter-se à ressalva de que a freqüência distribuída ao concessionário
 
 m) submeter-se aos preceitos instituídos nas convenções e regulamentos internacionais, bem como a tôdas as disposições contidas em leis, regulamentos e instruções que existam venham a existir, referentes ou aplicáveis ao serviço da concessão.
 
-<strong>IV</strong>
+**IV**
 
 O concessionário se obriga a manter sua estação em perfeito funcionamento, com a eficiência necessária e de acôrdo com as prescrições técnicas que estiverem em vigor ou vierem vigorar.
 
-<strong>V</strong>
+**V**
 
 Pela inobservância de qualquer dos presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno Federal  poderá pelo órgão fiscalizador, implicar ao concessionário multa de Cr$ 100 (cem cruzeiros) a Cr$ 5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
@@ -72,7 +70,7 @@ Parágrafo único – A importância de qualquer multa será recolhida à Tesour
 
 Em qualquer tempo, são aplicáveis ao concessionário os preceitos da legislação sôbre desapropriação por necessidade ou utilidade pública e requisições militares.
 
-<strong>VII</strong>
+**VII**
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 

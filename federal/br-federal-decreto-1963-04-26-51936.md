@@ -1,5 +1,3 @@
-###DEC-051936-0-000-26-04-1963@@@
-
 DECRETO Nº 51.936, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Júlio Maria da Motta a pesquisar diamantes, no município de Bocaiuva, Estado de Minas Gerais.

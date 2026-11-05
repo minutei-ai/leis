@@ -1,5 +1,3 @@
-###DEC-048477-0-000-08-07-1960@@@
-
 DECRETO Nº 48.477, DE 8 de julho DE 1960.
 
 Vincula recursos do Fundo Federal de Eletrificação à 2ª etapa do projeto da Cachoeira Dourada e autoriza o Banco Nacional do Desenvolvimento Econômico a tomar as providências necessárias.

@@ -1,5 +1,3 @@
-###DEC-098110-0-000-31-08-1989@@@
-
 DECRETO Nº 98.110, DE 31 DE AGOSTO DE 1989
 
 Outorga concessão à AECOFABA RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Riacho de Santana, Estado da Bahia.

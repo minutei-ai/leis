@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=97887)
-
 # LEI COMPLEMENTAR Nº 1.048, DE 10 DE JUNHO DE 2008
 
 ### _Dispõe sobre o gozo de licença-prêmio no âmbito da Administração Pública Direta, das Autarquias Estaduais e de outros Poderes do Estado._

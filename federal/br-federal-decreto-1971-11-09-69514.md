@@ -1,5 +1,3 @@
-###DEC-069514-0-000-09-11-1971@@@
-
 DECRETO Nº 69.514 - de 14 de Novembro de 1971
 
 Dispõe sôbre a execução de medidas de proteção materno infantil e dá outras providencias.

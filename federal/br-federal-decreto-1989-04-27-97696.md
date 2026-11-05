@@ -1,7 +1,3 @@
-1
-
-###DEC-097696-0-000-27-04-1989@@@
-
 DECRETO N° 97.696, DE 27 DE ABRIL DE 1989
 
 Reajusta o valor do Piso Nacional de Salários.

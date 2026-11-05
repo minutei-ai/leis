@@ -1,5 +1,3 @@
-###DEC-068627-0-000-17-05-1971@@@
-
 DECRETO Nº 68.627 - DE 17 DE MAIO DE 1971.
 
 Autorização para funcionamento da Faculdade de Engenharia Civil e Industrial de Itatiba, S.P.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183502)
-
 # DECRETO Nº 62.859, DE 03 DE OUTUBRO DE 2017
 
 ### _Dá nova redação ao artigo 1º do Decreto nº 60.289, de 25 de março de 2014, que autorizou a Fazenda do Estado a permitir o uso, a título precário e por prazo indeterminado, em favor do Alto Comissariado das Nações Unidas para Refugiados - ACNUR, de parte do imóvel que especifica_
@@ -18,10 +16,16 @@ Palácio dos Bandeirantes, 3 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 3 de outubro de 2017.

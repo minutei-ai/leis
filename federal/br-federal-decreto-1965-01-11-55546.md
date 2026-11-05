@@ -1,5 +1,3 @@
-###DEC-055546-0-000-11-01-1965@@@
-
 DECRETO Nº 55.546, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Walter Cardoso dos Santos a pesquisar água mineral, no município de Colombo, Estado do Paraná.

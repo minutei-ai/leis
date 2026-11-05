@@ -1,7 +1,3 @@
-1
-
-###DEC-098455-0-000-01-12-1989@@@
-
 DECRETO Nº 98.455, DE 1º DE DEZEMBRO DE 1989
 
 Fixa cargos privativos de Oficial-General da Aeronáutica, em tempo de paz, e dá outras providências.

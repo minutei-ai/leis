@@ -1,5 +1,3 @@
-###DEL-007819-0-000-02-08-1945@@@
-
 DECRETO-LEI N. 7.819 – DE 2 DE AGÔSTO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a vender em concorrência pública o imóvel que menciona.

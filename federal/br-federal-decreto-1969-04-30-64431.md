@@ -1,5 +1,3 @@
-###DEC-064431-0-000-30-04-1969@@@
-
 DECRETO nº 64.431, DE 30 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Colégio Dom Bosco, com sede em Campo Grande, Estado de Mato Grosso.

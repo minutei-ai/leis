@@ -1,7 +1,3 @@
-1
-
-###MPV-000832-0-000-19-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 832, DE 19 DE JANEIRO DE 1995
 
 Altera o art. 5º da Lei nº 7.862, de 30 de outubro de 1989, que dispõe sobre a remuneração das disponibilidades do Tesouro Nacional.

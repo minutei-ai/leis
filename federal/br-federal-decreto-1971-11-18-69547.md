@@ -1,5 +1,3 @@
-###DEC-069547-0-000-18-11-1971@@@
-
 DECRETO Nº 69.547 - DE 18 DE NOVEMBRO DE 1971
 
 Revoga o Decreto nº 48.631, de 27 de julho de 1960.

@@ -1,5 +1,3 @@
-###DEC-059887-0-000-28-12-1966@@@
-
 DECRETO Nº 59.887, DE 28 DE DEZEMBRO DE 1966.
 
 Retifica o enquadramento dos cargos, funções e empregos do Ministério da Educação e Cultura.

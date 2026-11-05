@@ -1,5 +1,3 @@
-###DEC-056552-0-000-08-07-1965@@@
-
 DECRETO Nº 56.552, DE 8 DE JULHO DE 1965.
 
 Regula a fiscalização dos serviços concedidos de radiodifusão e de sons e imagens.

@@ -1,5 +1,3 @@
-###DEC-052310-0-000-29-07-1963@@@
-
 DECRETO Nº 52.310, DE 29 DE JULHO DE 1963.
 
 Cria o Grupo de Trabalho Misto de Metereologia (G.T.M.M.)

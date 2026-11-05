@@ -1,5 +1,3 @@
-###DEL-008996-0-000-18-02-1946@@@
-
 DECRETO-LEI N. 8.996 – DE 18 DE FEVEREIRO DE 1946
 
 Altera a denominação de Seções do Instituto Nacional de Estudos Pedagógicos e dá outras providências.

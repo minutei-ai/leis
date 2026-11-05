@@ -1,5 +1,3 @@
-###LEI-000000-0-000-07-06-1831@@@
-
 LEI - DE 7 DE JUNHO DE 1831
 
 Isenta os navios nacionaes da obrigação de levar a seu bordo Capellães e Cirurgiões.

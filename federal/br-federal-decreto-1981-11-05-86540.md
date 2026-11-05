@@ -1,5 +1,3 @@
-###DEC-086540-0-000-05-11-1981@@@
-
 Decreto nº 86.540, de 05 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO CLUB DE FAXINAL LTDA., na cidade de Faxinal, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-007193-0-000-01-06-2010@@@
-
 DECRETO Nº 7.193, DE 1º DE JUNHO DE 2010.
 
 Transfere a cumulatividade da Embaixada do Brasil em Djibuti, na República de Djibuti, para a Embaixada do Brasil em Adis Abeba

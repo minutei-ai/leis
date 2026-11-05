@@ -1,5 +1,3 @@
-###DEC-053134-0-000-10-12-1963@@@
-
 DECRETO Nº 53.134, DE 10 DE DEZEMBRO DE 1963.
 
 Amplia a zona de concessão da Prefeitura Municipal de Campina Grande, Estado da Paraíba, e dá outras providências.
@@ -31,8 +29,6 @@ Brasília, 10 de dezembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-053134-0-000-10-12-1963@@@RET01+++
 
 decreto nº 53.134, de 10 de dezembro de 1963.
 

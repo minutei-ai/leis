@@ -78,49 +78,47 @@ Sobre o valor de cada quinhão ou legado, separadamente, será calculado e pago 
 
 II - ADICIONAL
 
-<table border="1" cellspacing="0" cellpadding="0" width="548" style="width:411.1pt;
- margin-left:7.1pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt"><tbody><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">O produto do imposto devido será acrescido do adicional de 0,5% (meio por cento) a que se refere o artigo 28 do Ato das Disposições Constitucionais Transitórias do Estado<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>0,5%<quebra></quebra></span></p></td></tr></tbody></table>
+<quebra></quebra>
+
+O produto do imposto devido será acrescido do adicional de 0,5% (meio por cento) a que se refere o artigo 28 do Ato das Disposições Constitucionais Transitórias do Estado<quebra></quebra>
+
+<quebra></quebra>
+
+0,5%<quebra></quebra>
 
 III - DEDUÇÕES LEGAIS
 
-<table border="1" cellspacing="0" cellpadding="0" width="548" style="width:411.1pt;
- margin-left:7.1pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt"><tbody><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>1)<quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>O Imposto devido pelo herdeiro ou legatário será reduzido em função da idade deste, uma vez legalmente comprovada, de acordo com as proporções a seguir:<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>a) sempre que tiver mais de 60 anos na data da abertura da sucessão, pagará as taxas com desconto de vinte e cinco por cento<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>25%<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>b) sempre que tiver mais de 70 anos, desconto de cinquenta por cento<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>50%<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>c) sempre que tiver mais de 75 anos, desconto de setenta e cinco por cento<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>75%<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>2)<quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>Sobre o valor dos títulos ao Portador ou jóias no inventário, metade das taxações devidas, conforme o grau de parentesco.<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+1)<quebra></quebra>
+
+O Imposto devido pelo herdeiro ou legatário será reduzido em função da idade deste, uma vez legalmente comprovada, de acordo com as proporções a seguir:<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+a) sempre que tiver mais de 60 anos na data da abertura da sucessão, pagará as taxas com desconto de vinte e cinco por cento<quebra></quebra>
+
+<quebra></quebra>
+
+25%<quebra></quebra>
+
+<quebra></quebra>
+
+b) sempre que tiver mais de 70 anos, desconto de cinquenta por cento<quebra></quebra>
+
+50%<quebra></quebra>
+
+<quebra></quebra>
+
+c) sempre que tiver mais de 75 anos, desconto de setenta e cinco por cento<quebra></quebra>
+
+75%<quebra></quebra>
+
+2)<quebra></quebra>
+
+Sobre o valor dos títulos ao Portador ou jóias no inventário, metade das taxações devidas, conforme o grau de parentesco.<quebra></quebra>
+
+<quebra></quebra>
 
 IV - OBSERVAÇÕES
 
@@ -138,19 +136,19 @@ V - BONIFICAÇÕES
 
 No ato do pagamento do imposto sobre transmissão de propriedade causa - mortis serão concedidas bonificações nos seguintes casos:
 
-<table border="1" cellspacing="0" cellpadding="0" width="548" style="width:411.1pt;
- margin-left:7.1pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt"><tbody><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">a) quando recolhido até 120 dias contados da data do falecimento do "de cujus" vinte por cento<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>20%<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>b) quando recolhido entre 121 a 180 dias contados da data do falecimento do "de cujus" dez por cento<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>10%<quebra></quebra></span></p></td></tr></tbody></table>
+<quebra></quebra>
+
+a) quando recolhido até 120 dias contados da data do falecimento do "de cujus" vinte por cento<quebra></quebra>
+
+20%<quebra></quebra>
+
+<quebra></quebra>
+
+b) quando recolhido entre 121 a 180 dias contados da data do falecimento do "de cujus" dez por cento<quebra></quebra>
+
+<quebra></quebra>
+
+10%<quebra></quebra>
 
 TABELA Nº 2
 
@@ -158,19 +156,23 @@ IMPOSTO SOBRE VENDAS E CONSIGNAÇÕES
 
 (0.15.2)
 
-<table border="1" cellspacing="0" cellpadding="0" width="548" style="width:411.1pt;
- margin-left:7.1pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt"><tbody><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>I -<quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>Sobre o valor das vendas ou consignações efetuadas por comerciantes e produtores, inclusive industriais sem discriminação das espécies vendidas ou consignadas, qualquer que seja o agente passivo do imposto<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>6,5%<quebra></quebra></span></p></td></tr><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  border-top:none;mso-border-top-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>II -<quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span>Sobre o valor das vendas ou consignações realizadas por industriais e artesãos em relação aos produtos de sua fabricação, realizadas para qualquer centro de consumo do território nacional<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  mso-border-top-alt:solid black .75pt;mso-border-left-alt:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>5%<quebra></quebra></span></p></td></tr></tbody></table>
+I -<quebra></quebra>
+
+Sobre o valor das vendas ou consignações efetuadas por comerciantes e produtores, inclusive industriais sem discriminação das espécies vendidas ou consignadas, qualquer que seja o agente passivo do imposto<quebra></quebra>
+
+<quebra></quebra>
+
+<quebra></quebra>
+
+6,5%<quebra></quebra>
+
+II -<quebra></quebra>
+
+Sobre o valor das vendas ou consignações realizadas por industriais e artesãos em relação aos produtos de sua fabricação, realizadas para qualquer centro de consumo do território nacional<quebra></quebra>
+
+<quebra></quebra>
+
+5%<quebra></quebra>
 
 ADICIONAL:
 
@@ -182,12 +184,13 @@ IMPOSTO SOBRE EXPORTAÇÃO
 
 (0.16.2)
 
-<table border="1" cellspacing="0" cellpadding="0" width="548" style="width:411.1pt;
- margin-left:7.1pt;border-collapse:collapse;border:none;mso-border-alt:solid black .75pt;
- mso-padding-alt:0cm 3.5pt 0cm 3.5pt"><tbody><tr><td width="47" valign="top" style="width:35.45pt;border:solid black .75pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="444" valign="top" style="width:333.1pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span style="">Sobre<span style="mso-spacerun: yes">&nbsp; </span>o valor comercial ou nos casos que a lei autorize sobre o valor de pauta nas exportações para o estrangeiro sem distinção dos produtos a exportar<quebra></quebra></span></p></td><td width="57" valign="top" style="width:42.55pt;border:solid black .75pt;
-  border-left:none;mso-border-left-alt:solid black .75pt;padding:0cm 3.5pt 0cm 3.5pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p><p class="Tabela-Texto"><span>5%<quebra></quebra></span></p></td></tr></tbody></table>
+<quebra></quebra>
+
+Sobre  o valor comercial ou nos casos que a lei autorize sobre o valor de pauta nas exportações para o estrangeiro sem distinção dos produtos a exportar<quebra></quebra>
+
+<quebra></quebra>
+
+5%<quebra></quebra>
 
 MAJORAÇÃO:
 
@@ -209,4 +212,4 @@ O Imposto do selo incide sobre todos os atos emanados do Governo do Estado e neg
 
 [TABELA I - PARTE IV](https://www.legislabahia.ba.gov.br/sites/default/files/anexos/LO19621819image004.gif)
 
-* * *
+ *

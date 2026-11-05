@@ -1,5 +1,3 @@
-###DEC-075354-0-000-05-02-1975@@@
-
 Decreto nº 75.354, de 5 de fevereiro de 1975.
 
 Cria no Ministério da Aeronáutica as Secretarias Regionais de Economia e Finanças das Aeronáutica e dá outras providências.

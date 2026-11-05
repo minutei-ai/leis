@@ -1,5 +1,3 @@
-###DEL-005634-0-000-30-06-1943@@@
-
 DECRETO‑LEI N. 5.634 – DE 30 DE JUNHO DE 1943
 
 Dispõe sôbre a remuneração dos despachantes aduaneiros

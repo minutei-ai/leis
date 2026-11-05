@@ -1,5 +1,3 @@
-###MPV-001917-0-000-29-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.917, DE 29 DE JULHO DE 1999
 
 Institui no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário - PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

@@ -1,5 +1,3 @@
-###DEL-004414-0-000-27-06-1942@@@
-
 DECRETO-LEI N. 4.414 – DE 27 DE JUNHO DE 1942
 
 Cria funções gratificadas no Quadro Permanente (Q. P. ) do Ministério da Fazenda e abre crédito

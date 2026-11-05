@@ -1,5 +1,3 @@
-###DEC-052087-0-000-31-05-1963@@@
-
 DECRETO Nº 52.087, DE 31 DE MAIO DE 1963.
 
 Institui, no Ministério da Relações Exteriores a Comissão Nacional para os Assuntos da Associação Latino-Americana de Livre Comércio (C. L. C.) e dá outras providências.

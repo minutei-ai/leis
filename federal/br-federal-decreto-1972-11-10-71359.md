@@ -1,5 +1,3 @@
-###DEC-071359-0-000-10-11-1972@@@
-
 DECRETO Nº 71.359 - DE 10 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, no Estado do Espírito Santo.

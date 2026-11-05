@@ -1,5 +1,3 @@
-###DEC-096837-0-000-28-09-1988@@@
-
 DECRETO Nº 96.837, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada a RÁDIO EDUCADORA DE LARANJEIRAS DO SUL LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Laranjeiras do Sul, Estado do Paraná.

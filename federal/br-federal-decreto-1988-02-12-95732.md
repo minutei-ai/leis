@@ -1,7 +1,3 @@
-1
-
-###DEC-095732-0-000-12-02-1988@@@
-
 DECRETO N° 95.732, DE 12 DE FEVEREIRO DE 1988
 
 Aprova o Regulamento da Escola Superior de Guerra.

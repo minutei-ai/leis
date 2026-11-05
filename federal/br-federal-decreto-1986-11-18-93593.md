@@ -1,5 +1,3 @@
-###DEC-093593-0-000-18-11-1986@@@
-
 DECRETO Nº 93.593, DE 18 DE NOVEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Secretariado Executivo Bilíngüe e de Serviço Social, em Toledo, Paraná.

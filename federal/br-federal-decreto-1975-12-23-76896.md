@@ -1,5 +1,3 @@
-###DEC-076896-0-000-23-12-1975@@@
-
 Decreto Nº 76.896, De 23 De Dezembro De 1975
 
 Declara de Interesse Social, para fins de desapropriação, imóvel rural situado nos Município de Brejo  do Buriti, no Estado do Maranhão, compreendido na área prioritária para fins de reforma agrária de que tratam os Decretos ns. 7.220, de 1º de março de 1972, e 71.195, de 4 de outubro de 1972.

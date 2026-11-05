@@ -1,5 +1,3 @@
-###DEC-078628-0-000-26-10-1976@@@
-
 DECRETO Nº 78.628, DE 26 DE OUTUBRO DE 1976.
 
 Autoriza o Banco Nacional da Habitação (BNH) a prestar, em caráter temporário, assistência financeira para o funcionamento de Centros Sociais Urbanos, construídos dentro do Programa Nacional de Centros Sociais Urbanos, e dá outras providências.

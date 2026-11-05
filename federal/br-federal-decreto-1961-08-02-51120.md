@@ -1,5 +1,3 @@
-###DEC-051120-0-000-02-08-1961@@@
-
 DECRETO Nº 51.120, DE 2 DE AGÔSTO DE 1961.
 
 Autoriza Piccoli & Cia., a lavrar água mineral no município de Alegrete, Estado do Rio Grande do Sul.

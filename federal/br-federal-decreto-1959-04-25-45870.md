@@ -1,5 +1,3 @@
-###DEC-045870-0-000-25-04-1959@@@
-
 Decreto nº 45.870, de 25 de abril de 1959.
 
 Transfere função da Tabela Numérica Especial de Extranumerário-mensalista da Escola de Especialistas de Aeronáutica para a da Policlínica de Aeronáutica de São Paulo.

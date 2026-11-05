@@ -1,5 +1,3 @@
-###DEC-081601-0-000-25-04-1978@@@
-
 decreta nº 81.601, de 25 de abril de 1978.
 
 Dispõe sobre a criação da Comissão Especial prevista no artigo 48, da Lei Complementar nº 31, de 11 de outubro de 1977, e dá outras providências.

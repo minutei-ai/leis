@@ -1,5 +1,3 @@
-###DEC-049199-0-000-10-11-1960@@@
-
 DECRETO Nº 49.199, DE 10 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Sócrates Bomfim a pesquisar minério de ferro, no município de Urucará, Estado do Amazonas.

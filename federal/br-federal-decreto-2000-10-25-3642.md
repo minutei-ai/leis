@@ -1,5 +1,3 @@
-###DEC-003642-0-000-25-10-2000@@@
-
 DECRETO Nº 3.642, DE 25 DE OUTUBRO DE 2000.
 
 Dispõe sobre as Funções Comissionadas Técnicas- FCT e dá outras providências.
@@ -88,7 +86,15 @@ ANEXO
 
 FORMA DE CÁLCULO DAS FUNÇÕES COMISSIONADAS TÉCNICAS - FCT POR MINISTÉRIO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:148.85pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>FCT =</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,38X</span></p></td><td style="width:28.4pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(QP)</span><span style="font-size:0.67em; vertical-align:super">2</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;</span><span>,onde</span></p></td></tr><tr><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:28.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>QSE</span></p></td><td style="width:28.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+FCT =
+
+0,38X
+
+(QP)2
+
+,onde
+
+QSE
 
 QP = Quantitativo de ocupantes de cargos efetivos do Plano de Classificação de Cargos diversos, deduzindo o quantitativo geral de ocupantes de cargos ou funções comissionadas no órgão ou na entidade;
 

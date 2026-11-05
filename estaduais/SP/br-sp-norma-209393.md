@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209393)<br>
-
 # LEI N° 17.936, DE 30 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 636/2023, do Deputado Itamar Borges - MDB)

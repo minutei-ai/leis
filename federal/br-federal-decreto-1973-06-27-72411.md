@@ -1,5 +1,3 @@
-###DEC-072411-0-000-27-06-1973@@@
-
 DECRETO Nº 72.411, DE 27 DE JUNHO DE 1973.
 
 Altera o Decreto nº 70.951, de 9 de agosto de 1972.

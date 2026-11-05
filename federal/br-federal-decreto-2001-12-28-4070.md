@@ -1,5 +1,3 @@
-###DEC-004070-0-000-28-12-2001@@@           
-
 DECRETO Nº 4.070, DE 28 DE DEZEMBRO DE 2001
 
 Aprova a Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI).

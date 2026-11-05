@@ -1,7 +1,3 @@
-1
-
-###DEC-098898-0-000-30-01-1990@@@
-
 DECRETO Nº 98.898, DE 30 DE JANEIRO DE 1990
 
 Transfere da Centrais Elétricas de Goiás S.A. CELG para a Companhia de Energia Elétrica do Estado do Tocantins CELTINS a concessão para o aproveitamento hidrelétrico de um trecho do Rio Balsas Mineiro, situado entre os Municípios de Ponte Alta do Norte e Monte do Carmo, Estado de Tocantins.

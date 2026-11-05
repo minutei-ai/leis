@@ -1,5 +1,3 @@
-###DEC-083718-0-000-12-07-1979@@@
-
 Decreto nº 83.718, de 12 de julho de 1979.
 
 Concede à Empresa Comercial Industrial Escol S.A. o direito de lavrar água potável de mesa do Município de Guaramiranga, Estado do Ceará.

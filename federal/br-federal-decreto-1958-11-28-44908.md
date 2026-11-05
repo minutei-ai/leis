@@ -1,5 +1,3 @@
-###DEC-044908-0-000-28-11-1958@@@
-
 DECRETO Nº 44.908, DE 28 DE NOVEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Theóphilo Badin, a pesquisar columbita e associados no município de Paramirim, Estado da Bahia.

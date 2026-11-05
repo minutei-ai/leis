@@ -1,5 +1,3 @@
-###DEC-080097-0-000-05-08-1977@@@
-
 DECRETO Nº 80.097, DE 5 DE AGOSTO DE 1977.
 
 Altera o artigo 2º do Decreto nº 58.358, de 5 de maio de 1966, que fixa a composição da Delegação Brasileira na Comissão Militar Mista Brasil - Estados Unidos e na Comissão Mista de Defesa Brasil - Estados Unidos.

@@ -1,5 +1,3 @@
-###DEC-061234-0-000-23-08-1967@@@
-
 decreto nº 61.234, de 23 de agôsto de 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no município de Diogo de Vasconcelos, Estado de Minas Gerais.

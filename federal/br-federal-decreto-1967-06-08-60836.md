@@ -1,5 +1,3 @@
-###DEC-060836-0-000-08-06-1967@@@
-
 DECRETO Nº 60.836, DE 8 DE JUNHO DE 1967.
 
 Retifica função gratificada no Quadro de Pessoal do Ministério da Educação e Cultura.

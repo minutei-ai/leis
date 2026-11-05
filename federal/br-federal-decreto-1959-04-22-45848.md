@@ -1,5 +1,3 @@
-###DEC-045848-0-000-22-04-1959@@@
-
 DECRETO Nº 45.848, de 22 DE abril DE 1959.
 
 Declara pública de uso comum, do domínio do Estado do Rio Grande do Sul, as águas do rio “Monjolo” “Monjolo” e “Cinco Voltas” respectivamente nos seus trechos superior, médio e inferior.

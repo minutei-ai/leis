@@ -1,5 +1,3 @@
-###DEC-068400-0-000-23-03-1971@@@
-
 DECRETO Nº 68.400, DE 23 DE MARÇO de 1971.
 
 Concede à Companhia de Cimento Salvador o direito de lavrar calcário no município de São Francisco do Conde, Estado da Bahia.

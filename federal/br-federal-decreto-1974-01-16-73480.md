@@ -1,5 +1,3 @@
-###DEC-073480-0-000-16-01-1974@@@
-
 DECRETO Nº 73.480, DE 16 DE JANEIRO DE 1974.
 
 Retifica o Decreto nº 72.668, de 21 de agosto de 1973.

@@ -1,5 +1,3 @@
-###DEC-046696-0-000-20-08-1959@@@
-
 DECRETO Nº 46.696, DE 20 DE AGôSTO DE 1959.
 
 Transfere, sem aumento de despesa, função de uma para outra Tabela Numérica Especial de Extranumerários-mensalistas do Ministério da Guerra, que menciona.

@@ -1,5 +1,3 @@
-###DEC-076977-0-000-02-01-1976@@@
-
 DECRETO Nº 76.977, DE 2 DE JANEIRO DE 1976.
 
 Concede autorização para o funcionamento ininterrupto, inclusive aos domingos e feriados civis e religiosos, à empresa Companhia Vale do Rio Doce, em suas minas de minério de ferro de Cauê, Conceição e de Picarrão, localizadas no Estado de Minas Gerais.

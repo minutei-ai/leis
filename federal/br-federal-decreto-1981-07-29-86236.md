@@ -1,5 +1,3 @@
-###DEC-086236-0-000-29-07-1981@@@
-
 Decreto nº 86.236, de 29 de julho dE 1981
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais que menciona, situados nos Municípios de Mazagão e Macapá, no Território Federal do Amapá, compreendidos na área prioritária de reforma agrária fixada pela Decreto nº 86.235, de 29 de julho de 1981.

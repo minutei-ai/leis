@@ -1,5 +1,3 @@
-###DEC-067974-0-000-29-12-1970@@@
-
 DECRETO Nº 67.974, DE 29 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 39.882, de 3.9.1956.

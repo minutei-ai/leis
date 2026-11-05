@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210836)<br>
-
 # LEI N° 18.149, DE 03 DE ABRIL DE 2025
 
 ## (Projeto de lei n° 143/2024, dos Deputados Agente Federal Danilo Balas – PL e Carla Morando – PSDB)

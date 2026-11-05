@@ -1,5 +1,3 @@
-###DEC-047720-0-000-29-01-1960@@@
-
 DECRETO Nº 47.720, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Raul Alves de Brito a pesquisar minério de manganês no município de Urandi, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-052720-0-000-21-10-1963@@@
-
 DECRETO Nº 52.720, de 21 DE OUTUBRO DE 1963.
 
 Transfere à Superintendência Nacional do Abastecimento (SUNAB) atribuições da Comissão Nacional de Alimentação.

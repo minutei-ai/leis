@@ -1,7 +1,3 @@
-1
-
-###DEC-000490-0-000-08-04-1992@@@
-
 DECRETO Nº 490, DE 8 DE ABRIL DE 1992
 
 Dispõe sobre a nomeação e contratação de pessoal docente e técnico administrativo das Instituições Federais de Ensino Superior, durante o exercício de 1992.

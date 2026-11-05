@@ -1,5 +1,3 @@
-###DEC-091997-0-000-28-11-1985@@@
-
 DECRETO Nº 91.997, DE 28 DE novembro DE 1985
 
 Altera o caput do art. 1º do Decreto nº 91.403, de 05 de julho de 1985, para incluir novas medidas de contenção de despesas, e dá outras providências.

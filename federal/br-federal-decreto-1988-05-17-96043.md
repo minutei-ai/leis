@@ -1,5 +1,3 @@
-###DEC-096043-0-000-17-05-1988@@@
-
 DECRETO N° 96.043, DE 17 DE MAIO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à segurança e operação da subestação de Goianinha, da Companhia Hidro Elétrica do São Francisco-CHESF, no Estado de Pernambuco.

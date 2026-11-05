@@ -1,5 +1,3 @@
-###DEC-054995-0-000-13-11-1964@@@
-
 Decreto nº 54.995, de 13 de novembro de 1964.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, o domínio útil de fração ideal do terreno acrescido de marinha que menciona, no Estado da Guanabara.

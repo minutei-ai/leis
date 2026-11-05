@@ -1,5 +1,3 @@
-###DEC-073533-0-000-23-01-1974@@@
-
 DECRETO Nº 75.533, de 23 de janeiro de 1974.
 
 Concede reconhecimento à Faculdade de Odontologia de Valença, com o curso de Odontologia, mantida pela Fundação Educacional Dom André Arcoverde, com sede na cidade de Valença, Estado do Rio de Janeiro.

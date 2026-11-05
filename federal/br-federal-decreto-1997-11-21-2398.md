@@ -1,5 +1,3 @@
-###DEC-002398-0-000-21-11-1997@@@
-
 DECRETO Nº 2.398, DE 21 DE NOVEMBRO DE 1997
 
 Dispõe sobre a criação, no âmbito do Serviço Brasileiro de Apoio às Micro e Pequenas Empresas - SEBRAE, da Agência de Promoção de Exportações - APEX.

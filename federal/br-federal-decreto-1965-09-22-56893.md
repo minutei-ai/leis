@@ -1,5 +1,3 @@
-###DEC-056893-0-000-22-09-1965@@@
-
 DECRETO Nº 56.893, DE 22 DE SETEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de São José, Estado de Santa Catarina.

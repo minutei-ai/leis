@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212181)<br>
-
 # DECRETO N° 70.351, DE 02 DE FEVEREIRO DE 2026
 
 ### _Altera o Decreto n° 69.876, de 19 de setembro de 2025, que dispõe sobre a classificação institucional da Secretaria da Educação nos Sistemas de Administração Financeira e Orçamentária do Estado._

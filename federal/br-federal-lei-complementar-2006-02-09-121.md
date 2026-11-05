@@ -1,5 +1,3 @@
-###LCP-000121-0-000-09-02-2006@@@
-
 LEI COMPLEMENTAR Nº 121, DE 9 DE FEVEREIRO DE 2006
 
        Cria o Sistema Nacional de Prevenção, Fiscalização e Repressão ao Furto e Roubo de Veículos e Cargas e dá outras providências.
@@ -83,5 +81,3 @@ Paulo Bernardo Silva
 Márcio Fortes de Almeida
 
 Álvaro Augusto Ribeiro Costa
-
-Este texto não substitui o publicado no D.O.U. de 10.2.2006

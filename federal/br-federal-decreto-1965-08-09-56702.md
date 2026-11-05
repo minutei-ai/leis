@@ -1,5 +1,3 @@
-###DEC-056702-0-000-09-08-1965@@@
-
 DECRETO Nº 56.702, DE 9 DE AGÔSTO DE 1965.
 
 Regulamenta a Lei nº 4.669, de 8 de junho de 1965.

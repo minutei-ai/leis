@@ -1,5 +1,3 @@
-###DEC-079066-0-000-30-12-1976@@@
-
 Decreto nº 79.066, de 30 de dezembro de 1976.
 
 Concede reconhecimento aos cursos de Engenharia Química, de Engenharia de Operação - modalidade Química, e o de Formação de Tecnólogos em Análise Química Industrial, da Faculdade de Engenharia Química de Lorena, com sede na cidade de Lorena, Estado de São Paulo.

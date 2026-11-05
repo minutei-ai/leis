@@ -1,5 +1,3 @@
-###DEC-053393-0-000-06-01-1964@@@
-
 DECRETO Nº 53.393, DE 6 DE JANEIRO DE 1964.
 
 Alteração do Regulamento para a Diretoria de Engenharia da Marinha.

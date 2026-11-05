@@ -1,5 +1,3 @@
-###DEC-005638-0-000-26-12-2005@@@
-
 DECRETO Nº 5.638, DE 26 DE DEZEMBRO DE 2005.
 
        Altera o inciso IV do art. 11 do Anexo I ao Decreto no 5.157, de 27 de julho de 2004, e os incisos IV e V do art. 6º do Anexo I ao Decreto no 5.159, de 28 de julho de 2004.
@@ -27,5 +25,3 @@ LUIZ INÁCIO LULA DA SILVA
 Fernando Haddad
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 27.12.2005

@@ -1,5 +1,3 @@
-###DEC-078650-0-000-27-10-1976@@@
-
 DECRETO Nº 78.650, de 27 de outubro de 1976.
 
 Inclui o resíduo aromático no regime estatuído pelo DECRETO nº 4.071, de 12 de maio de 1939.

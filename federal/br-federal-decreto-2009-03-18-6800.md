@@ -1,5 +1,3 @@
-###DEC-006800-0-000-18-03-2009@@@
-
 DECRETO Nº 6.800, DE 18 DE MARÇO DE 2009.
 
 Dá nova redação ao art. 2o do Decreto no 1.948, de 3 de julho de 1996, que regulamenta a Lei no 8.842, de 4 de janeiro de 1994, que dispõe sobre a Política Nacional do Idoso, e dá outras providências.

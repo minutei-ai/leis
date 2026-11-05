@@ -1,5 +1,3 @@
-###DEL-005232-0-000-08-02-1943@@@
-
 DECRETO‑LEI N. 5.232 – DE 8 DE FEVEREIRO DE 1943
 
 Cria a função gratificada de secretário do presidente do Supremo Tribunal Militar e dá outras providências

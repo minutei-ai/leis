@@ -1,5 +1,3 @@
-###DEC-079561-0-000-20-04-1977@@@
-
 DECRETO Nº 79.561, DE 20 DE ABRIL DE 1977.
 
 Concede reconhecimento ao curso de Engenharia de Minas, mantido pela Universidade Católica de Salvador, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-058749-0-000-28-06-1966@@@
-
 DECRETO Nº 58.749, DE 28 DE JUNHO DE 1966.
 
 Exclui da proibição constante do artigo 5º do Decreto nº 57.630, de 14 de janeiro de 1966, a nomeação interina para o cargo vago que específica, do Ministério da Educação e cultura.

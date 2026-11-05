@@ -1,5 +1,3 @@
-###DEC-047088-0-000-22-10-1959@@@
-
 DECRETO Nº 47.088, DE 22 DE OUTUBRO DE 1959.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da “A Piratininga” Companhia Nacional de Seguros Gerais e Acidentes do Trabalho.

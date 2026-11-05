@@ -1,5 +1,3 @@
-###DEC-049856-0-000-10-01-1961@@@
-
 DECRETO Nº 49.856, DE 10 DE JANEIRO DE 1961.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, as frações ideais do domínio útil do terreno de marinha, que menciona, no Estado da Guanabara.

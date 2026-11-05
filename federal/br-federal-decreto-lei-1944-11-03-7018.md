@@ -1,5 +1,3 @@
-###DEL-007018-0-000-03-11-1944@@@
-
 DECRETO-LEI N. 7.018 – DE 3 DE NOVEMBRO DE 1944
 
 Cria uma coletoria federal no município de Miracema, no Estado do Rio de Janeiro, e dá outras providências

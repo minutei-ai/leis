@@ -1,5 +1,3 @@
-###DEC-097482-0-000-31-01-1989@@@
-
 DECRETO N° 97.482, DE 31 DE JANEIRO DE 1989
 
 Dispõe sobre o reajuste das prestações devidas pelos mutuários do S.F.H.

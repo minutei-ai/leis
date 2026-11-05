@@ -1,5 +1,3 @@
-###DEC-070272-0-000-09-03-1972@@@
-
 DECRETO Nº 70.272, DE 9 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra localizada na cidade de Araruama, Estado do Rio de Janeiro, destinada à instalação de uma torre de microondas.

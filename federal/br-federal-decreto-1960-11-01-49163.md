@@ -1,5 +1,3 @@
-###DEC-049163-0-000-01-11-1960@@@
-
 DECRETO Nº 49.163, DE 1º DE Novembro DE 1960.
 
 Cria a Delegacia do IAPI em Brasília e dá outra providências.

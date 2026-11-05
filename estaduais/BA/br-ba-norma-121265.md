@@ -6,7 +6,8 @@ O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, faç
 
 Art. 1º - Cria o Conselho Estadual dos Direitos dos Povos Indígenas do Estado da Bahia - COPIBA, na estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, com a finalidade de formular diretrizes para a Política Estadual de Proteção aos Povos Indígenas, acompanhar, fiscalizar e avaliar os programas e ações governamentais, garantindo os direitos constitucionalmente assegurados aos povos indígenas.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 1º - Cria o Conselho Estadual dos Direitos dos Povos Indígenas do Estado da Bahia ? COPIBA, na estrutura da Secretaria da Justiça, Cidadania e Direitos Humanos ? SJCDH, com a finalidade de formular diretrizes para a Política Estadual de Proteção aos Povos Indígenas, acompanhar, fiscalizar e avaliar os programas e ações governamentais, garantindo os direitos constitucionalmente assegurados aos povos indígenas."
 
 Art. 2º - Compete ao Conselho Estadual dos Direitos dos Povos Indígenas do Estado da Bahia:
@@ -39,12 +40,14 @@ I - 01 (um) representante de cada uma das Secretarias de Estado a seguir relacio
 
 a) Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, que o presidirá;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "a) Secretaria da Justiça, Cidadania e Direitos Humanos, que o presidirá;"
 
 b) Secretaria de Promoção da Igualdade Racial;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "b) Secretaria de Promoção da Igualdade;"
 
 c) Secretaria da Saúde;
@@ -53,7 +56,8 @@ d) Secretaria da Educação;
 
 e) Secretaria de Infraestrutura Hídrica e Saneamento;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "e) Secretaria de Desenvolvimento Social e Combate à Pobreza;"
 
 f) Secretaria do Meio Ambiente;
@@ -62,12 +66,14 @@ g) Secretaria de Cultura;
 
 h) Secretaria de Desenvolvimento Rural;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "h) Secretaria de Desenvolvimento e Integração Regional;"
 
 i) Secretaria da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "i) Secretaria da Agricultura, Irrigação e Reforma Agrária;"
 
 j) Secretaria de Infra-Estrutura;
@@ -124,7 +130,8 @@ n) Xukuru-Kariri.
 
 Art. 4º - A Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social dará o apoio administrativo, técnico e financeiro necessário ao cumprimento das finalidades do Conselho.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 4º - A Secretaria da Justiça, Cidadania e Direitos Humanos dará o apoio administrativo, técnico e financeiro necessário ao cumprimento das finalidades do Conselho."
 
 Art. 5º - Os serviços prestados pelos membros do COPIBA, inclusive participação nas reuniões, são considerados de interesse público relevante e não serão remunerados.

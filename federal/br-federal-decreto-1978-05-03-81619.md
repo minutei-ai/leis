@@ -1,5 +1,3 @@
-###DEC-081619-0-000-03-05-1978@@@
-
 Decreto nº 81.619, de 3 de maio de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação externa.

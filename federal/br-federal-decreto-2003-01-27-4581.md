@@ -1,5 +1,3 @@
-###DEC-004581-0-000-27-01-2003@@@
-
 DECRETO Nº 4.581, DE 27 DE JANEIRO DE 2003.
 
 Promulga a Emenda ao Anexo I e Adoção dos Anexos VIII e IX à Convenção de Basiléia sobre o Controle do Movimento Transfronteiriço de Resíduos Perigosos e seu Depósito.
@@ -20,7 +18,8 @@ Promulga a Emenda ao Anexo I e Adoção dos Anexos VIII e IX à Convenção de B
 
         Brasília, 27 de janeiro de 2003; 182~~º~~ da Independência e 115~~º~~ da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
 Celso Luiz Nunes Amorim
 
 C.N. 77.1998. Tratados-2 (Anexo IV/9).
@@ -359,7 +358,91 @@ Lista B
 
         B1120 Catalisadores esgotados, excluindo líquidos usados como catalisadores, contendo qualquer dos seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:261.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="margin-top:5pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">. Metais de transição, excluindo resíduos de catalisadores (catalisadores esgotados, catali-</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">sadores usados líquidos ou outros catalizado-</span></p><p style="margin-top:10pt; margin-bottom:5pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">res) na lista A:</span></p></td><td style="width:95.3pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="margin-top:5pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Escândio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vanádio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manganês</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cobalto</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cobre</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ítrio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nióbio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Háfnio</span></p><p style="margin-top:10pt; margin-bottom:5pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tungstênio</span></p></td><td style="width:86.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="margin-top:5pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Titânio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cromo</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ferro</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Níquel</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Zinco</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Zircônio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Molibdênio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tântalo</span></p><p style="margin-top:10pt; margin-bottom:5pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rênio</span></p></td></tr><tr><td style="width:261.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="margin-top:5pt; margin-bottom:5pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">. Lantanídeos (metais terras-raras)</span></p></td><td style="width:95.3pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="margin-top:5pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lantânio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Praseodímio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Samário</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Gadolínio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Disprósio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Érbio</span></p><p style="margin-top:10pt; margin-bottom:5pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Itérbio</span></p></td><td style="width:86.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="margin-top:5pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cério</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Neodímio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Európio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Térbio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Hólmio</span></p><p style="margin-top:10pt; margin-bottom:10pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Túlio</span></p><p style="margin-top:10pt; margin-bottom:5pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lutécio</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:261.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+. Metais de transição, excluindo resíduos de catalisadores (catalisadores esgotados, catali-
+
+sadores usados líquidos ou outros catalizado-
+
+res) na lista A:
+
+</td><td style="width:95.3pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Escândio
+
+Vanádio
+
+Manganês
+
+Cobalto
+
+Cobre
+
+Ítrio
+
+Nióbio
+
+Háfnio
+
+Tungstênio
+
+</td><td style="width:86.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Titânio
+
+Cromo
+
+Ferro
+
+Níquel
+
+Zinco
+
+Zircônio
+
+Molibdênio
+
+Tântalo
+
+Rênio
+
+</td></tr><tr><td style="width:261.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+. Lantanídeos (metais terras-raras)
+
+</td><td style="width:95.3pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Lantânio
+
+Praseodímio
+
+Samário
+
+Gadolínio
+
+Disprósio
+
+Érbio
+
+Itérbio
+
+</td><td style="width:86.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Cério
+
+Neodímio
+
+Európio
+
+Térbio
+
+Hólmio
+
+Túlio
+
+Lutécio
+
+</td></tr></tbody></table>
 
         B1130 Catalisadores contendo metais preciosos, esgotados e lavados
 

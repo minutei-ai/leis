@@ -1,5 +1,3 @@
-###DEC-048654-0-000-03-08-1960@@@
-
 DECRETO Nº 48.654, DE 3 DE AGÔSTO DE 1960.
 
 Concede à sociedade anônima Bates Valve Bag Corporation of Brazil autorização para continuar a funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-047270-0-000-19-11-1959@@@
-
 DECRETO Nº 47.270, DE 19 DE NOVEMBRO DE 1959.
 
 Transfere da Prefeitura Municipal de Passo Fundo para a Comissão Estadual de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica ao município de Passo Fundo, Estado do Rio Grande do Sul.

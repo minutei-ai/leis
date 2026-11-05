@@ -1,5 +1,3 @@
-###DEC-070303-0-000-20-03-1972@@@
-
 DECRETO Nº 70.303, DE 20 DE MARÇO DE 1972.
 
 Institui a Comissão Aeronáutica Brasileira na Europa, extingue a Comissão Aeronáutica em Londres, de que trata o Regulamento do Comando de Apoio, aprovado pelo Decreto nº 66.492, de 24 de abril de 1970, e dá outras providências.

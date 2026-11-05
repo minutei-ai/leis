@@ -1,5 +1,3 @@
-###DEC-051569-0-000-18-10-1962@@@
-
 DECRETO Nº 51.569, DE 18 DE OUTUBRO DE 1962.
 
 Estende as disposições do Decreto número 51.450, de 2 de abril de 1962, às instituições que menciona.

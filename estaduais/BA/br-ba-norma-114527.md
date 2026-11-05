@@ -1,6 +1,7 @@
 LEI Nº 1.647 DE 22 DE MARÇO DE 1962
 
-Ver também:<br>
+Ver também:
+
  Lei nº 9.432 de 11 de fevereiro de 2005 - Corrige os limites do Município de BOTUPORÃ, alterado em 2001, através da Lei nº 7.812, de 11 de maio.
 
 Cria o Município de Botuporã, desmembrado do de Macaúbas.
@@ -59,4 +60,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

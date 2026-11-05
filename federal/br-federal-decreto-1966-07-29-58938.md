@@ -1,5 +1,3 @@
-###DEC-058938-0-000-29-07-1966@@@
-
 DECRETO Nº 58.938, DE 29 DE JULHO DE 1966.
 
 Outorga concessão à Rádio Educadora São José Ltda., para instalar uma estação de radiodifusão sonora na Cidade de Macapá, Território Federal do Amapá.

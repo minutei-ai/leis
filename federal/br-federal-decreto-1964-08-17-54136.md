@@ -1,5 +1,3 @@
-###DEC-054136-0-000-17-08-1964@@@
-
 DECRETO Nº 54.136, DE 17 DE AGôsTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas e Rodagem, área de terreno situada no Município de Tijuquinhas, Estado de Santa Catarina.

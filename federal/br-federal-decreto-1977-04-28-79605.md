@@ -1,5 +1,3 @@
-###DEC-079605-0-000-28-04-1977@@@
-
 Decreto nº 79.605, de 28 de abril de 1977.
 
 Outorga concessão à Rádio Cultura de Várzea Alegre Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na Cidade de Várzea Alegre, Estado do Ceará.

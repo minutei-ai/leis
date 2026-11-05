@@ -1,5 +1,3 @@
-###DEC-052620-0-000-07-10-1963@@@
-
 Decreto Nº 52.620, DE 7 DE OUTUBRO DE 1963.
 
 Amplia o Quadro da Administração Central e Órgãos Locais - 1º Seção do Orçamento - Parte Permanente, do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE).

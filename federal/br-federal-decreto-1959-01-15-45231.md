@@ -1,5 +1,3 @@
-###DEC-045231-0-000-15-01-1959@@@
-
 DECRETO Nº 45.231, DE 15 DE JANEIRO DE 1959.
 
 Outorga à S.A. Fôrça e Luz Santa Rita concessão para o aproveitamento de energia hidráulica de um desnível existente no rio Santana, distrito de Sericita, município de Abre Campo Estado de Minas Gerais.

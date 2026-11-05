@@ -1,5 +1,3 @@
-###DEC-066784-0-000-26-06-1970@@@
-
 DECRETO Nº 66.784 - DE 26 DE JUNHO DE 1970
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Conchas, com sede em Conchas, Estado de São Paulo.

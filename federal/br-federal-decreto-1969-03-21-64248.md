@@ -1,5 +1,3 @@
-###DEC-064248-0-000-21-03-1969@@@
-
 DECRETO Nº 64.248, DE 24 DE MARÇO DE 1969.
 
 Regulamenta, com base no artigo 75 do Decreto-lei nº 37, de 18 de dezembro de 1966, a concessão de autorização para admissão temporária, com suspensão de tributos, de bens destinados à execução de obras de interêsse público.

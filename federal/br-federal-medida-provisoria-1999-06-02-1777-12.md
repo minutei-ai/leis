@@ -1,5 +1,3 @@
-###MPV-001777-0-012-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.777-12, DE 2 JUNHO DE 1999.
 
 Dispõe sobre a renegociação de dívidas no âmbito do Programa de Crédito Educativo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080552-0-000-11-10-1977@@@
-
 DECRETO Nº 80.552, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de formação de Professores de Vitória da Conquista, com sede na cidade de Vitória da Conquista, Estado da Bahia.

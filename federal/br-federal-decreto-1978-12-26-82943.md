@@ -1,5 +1,3 @@
-###DEC-082943-0-000-26-12-1978@@@
-
 Decreto nº 82. 943, de 26 de dezembro de 1978
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Formação de Professores de Alagoinhas, com sede na cidade de Alagoinhas, Estado da Bahia.

@@ -1,5 +1,3 @@
-###MPV-001861-0-014-29-06-1999@@@
-
 medida provisória nº 1.861-14, de 29 de junho de 1999.
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

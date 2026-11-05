@@ -1,5 +1,3 @@
-###DEL-007492-0-000-26-04-1945@@@
-
 DECRETO-LEI N. 7.492 – DE 26 DE ABRIL DE 1945
 
 Autoriza o Ministério da Fazenda a aceitar a doação do domínio útil de um terreno de propriedade do Município de Rio Branco, no Território do Acre.

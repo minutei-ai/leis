@@ -1,5 +1,3 @@
-###DEC-049715-0-000-31-12-1960@@@
-
 Decreto nº 49.715, de 31 de dezembro de 1960.
 
 Concede à Companhia Aymorés, Indústria - Navegação - Comércio, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

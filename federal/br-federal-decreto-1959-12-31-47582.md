@@ -1,5 +1,3 @@
-###DEC-047582-0-000-31-12-1959@@@
-
 DECRETO Nº 47.582, DE 31 DE DEZEMBRO DE 1959.
 
 Autoriza o Ministério da Viação e Obras Públicas a aprovar o esquema da discriminação-tipo do orçamento da despesa do Departamento dos Correios e Telégrafos.

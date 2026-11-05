@@ -1,5 +1,3 @@
-###DEC-054155-0-000-20-08-1964@@@
-
 DECRETO Nº 54.155, DE 20 DE AGÔSTO DE 1964.
 
 Outorga a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica e dá outras providências.
@@ -37,8 +35,6 @@ Brasília, 20 de agôsto de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054155-0-000-20-08-1964@@@RET01+++
 
 DECRETO Nº 54.115, DE 20 DE AGÔSTO DE 1964.
 

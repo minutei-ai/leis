@@ -1,5 +1,3 @@
-###DEC-050323-0-000-07-03-1961@@@
-
 DECRETO Nº 50.323, DE 7 DE MARÇO DE 1961.
 
 Dispõe sôbre a composição da Comissão Técnica de Orientação Sindical e dá outras providências.

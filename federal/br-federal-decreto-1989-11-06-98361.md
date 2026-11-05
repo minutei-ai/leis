@@ -1,7 +1,3 @@
-1
-
-###DEC-098361-0-000-06-11-1989@@@
-
 DECRETO Nº 98.361, DE 06 DE NOVEMBRO DE 1989
 
 Fixa o Percentual de não Numerados de Coronéis dos Quadros de Oficiais da Ativa da Aeronáutica, Definitivamente Impossibilitados de Acesso ao Primeiro Posto de Oficial-General.

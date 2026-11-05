@@ -1,5 +1,3 @@
-###DEC-092147-0-000-16-12-1985@@@
-
 Decreto nº 92.147, de 16 de dezembro de 1985.
 
 Dispõe sobre o aumento do Capital Social da Centrais Elétricas do Norte Brasil S.A. - ELETRONORTE.

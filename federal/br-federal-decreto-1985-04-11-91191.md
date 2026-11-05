@@ -1,5 +1,3 @@
-###DEC-091191-0-000-11-04-1985@@@
-
 Decreto nº 91.191 de 11 de abril de 1985.
 
 Inclui representante do Programa Nacional de Desburocratização na Comissão de Reforma Tributária e Descentralização Administrativo-Financeira, criada pelo Decreto nº 91.157, de 18 de março de 1985.

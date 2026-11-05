@@ -1,5 +1,3 @@
-###DEC-085247-0-000-09-10-1980@@@
-
 Decreto nº 85.247, de 09 de outubro de 1980
 
 Dispensa a licitação para a alienação das terras devolutas de União que menciona, e dá outras providências.

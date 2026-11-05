@@ -1,5 +1,3 @@
-###DEC-056632-0-000-02-08-1965@@@
-
 Decreto Nº 56.632, DE 2 DE AGôSTO DE 1965.
 
 Autoriza em caráter excepcional, o provimento interino dos cargos que especifica.

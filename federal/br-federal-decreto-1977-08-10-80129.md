@@ -1,5 +1,3 @@
-###DEC-080129-0-000-10-08-1977@@@
-
 Decreto nº 80.129, de 10 de agosto de 1977
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Alagoas.

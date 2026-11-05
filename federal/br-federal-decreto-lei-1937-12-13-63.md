@@ -1,5 +1,3 @@
-###DEL-000063-0-000-13-12-1937@@@
-
 DECRETO-LEI N. 63 – DE 13 DE DEZEMBRO DE 1937
 
 Declara em disponibilidade os funcionários da extinta Justiça Eleitoral

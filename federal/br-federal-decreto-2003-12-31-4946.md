@@ -1,5 +1,3 @@
-###DEC-004946-0-000-31-12-2003@@@
-
 DECRETO Nº 4.946,  DE 31 DE DEZEMBRO DE 2003.
 
 Altera, revoga e acrescenta dispositivos ao Decreto no 3.945, de 28 de setembro de 2001, que regulamenta a Medida Provisória no 2.186-16, de 23 de agosto de 2001.

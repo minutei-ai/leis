@@ -1,5 +1,3 @@
-###DEC-062304-0-000-22-02-1968@@@
-
 DECRETO Nº 62.304, DE 22 DE FEVEREIRO DE 1968.
 
 Declara caduco o Decreto número 30.917, de 28 de maio de 1952.

@@ -1,5 +1,3 @@
-###DEC-055413-0-000-31-12-1964@@@
-
 DECRETO Nº 55.413, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza Mineração Bonfim S.A. a lavrar minério de manganês no município de Manicoré, Estado do Amazonas.

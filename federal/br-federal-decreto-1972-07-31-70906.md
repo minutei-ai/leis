@@ -1,5 +1,3 @@
-###DEC-070906-0-000-31-07-1972@@@
-
 DECRETO Nº 70.906, de 31 de julho de 1972.
 
 Concede reconhecimento à Faculdade de Educação Musical do Paraná.

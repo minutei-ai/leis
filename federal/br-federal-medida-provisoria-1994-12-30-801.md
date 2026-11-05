@@ -1,7 +1,3 @@
-1
-
-###MPV-000801-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 801, DE 30 DE DEZEMBRO DE 1994
 
 Autoriza a utilização do produto da alienação do navio Docevale no saneamento financeiro da Companhia de Navegação Lloyd Brasileiro(Lloydbrás).

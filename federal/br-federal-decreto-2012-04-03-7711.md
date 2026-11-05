@@ -1,5 +1,3 @@
-###DEC-007711-0-000-03-04-2012-PUB-01@@@
-
 DECRETO Nº 7.711, DE 3 DE ABRIL DE 2012
 
 Regulamenta o disposto no art.10 da Lei nº 12.546, de 14 de dezembro de 2011, e institui Comissão Tripartite de Acompanhamento e Avaliação da Desoneração da Folha de Pagamentos.

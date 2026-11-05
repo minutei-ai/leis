@@ -1,5 +1,3 @@
-###DEC-060931-0-000-04-07-1967@@@
-
 DECRETO Nº 60.931, DE 4 DE JULHO DE 1967.
 
 Modifica o Decreto nº 50.517, de 2 de maio de 1961, que regulamentou a Lei nº 91, de 28 de agôsto de 1935.

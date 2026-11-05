@@ -1,5 +1,3 @@
-###DEC-052943-0-000-26-11-1963@@@
-
 Decreto nº 52.943, de 26 de novembro de 1963.
 
 Concede à Bonargila Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-074964-0-000-25-11-1974@@@
-
 DECRETO Nº 74.964, DE 25 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Direito de Sete Lagoas, mantida pela Fundação Educacional "Monsenhor Messias", com sede na cidade de Sete Lagoas, Estado de Minas Gerais.

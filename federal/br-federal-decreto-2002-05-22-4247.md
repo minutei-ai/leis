@@ -1,5 +1,3 @@
-###DEC-004247-0-000-22-05-2002@@@
-
 DECRETO Nº 4.247, DE 22 DE MAIO DE 2002
 
 Regulamenta a Gratificação de Desempenho de Atividade Técnico-Administrativa - GDATA, e dá outras providências.
@@ -152,8 +150,40 @@ ANEXO I
 
 TABELAS DE VALOR DOS PONTOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:144pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>NÍVEL DO CARGO</span></p></td><td style="width:230.4pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>VALOR DO PONTO (EM R $)</span></p></td></tr><tr><td style="width:144pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>SUPERIOR</span></p></td><td style="width:230.4pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5,04</span></p></td></tr><tr><td style="width:144pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>INTERMEDIÁRIO</span></p></td><td style="width:230.4pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>1,48</span></p></td></tr><tr><td style="width:144pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>AUXILIAR</span></p></td><td style="width:230.4pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0,68</span></p></td></tr></tbody></table>
+NÍVEL DO CARGO
+
+VALOR DO PONTO (EM R $)
+
+SUPERIOR
+
+5,04
+
+INTERMEDIÁRIO
+
+1,48
+
+AUXILIAR
+
+0,68
 
 ANEXO II
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:275.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>ÍNDICE DE ATINGIMENTO DAS METAS DE DESEMPENHO INSTITUCIONAL</span></p></td><td style="width:189.15pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>PONTUAÇÃO A SER ATRIBUÍDA AOS SERVIDORES</span></p></td></tr><tr><td style="width:275.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>A partir de 80%</span></p></td><td style="width:189.15pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>15 pontos</span></p></td></tr><tr><td style="width:275.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De 60% a 80%, exclusive</span></p></td><td style="width:189.15pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>10 pontos</span></p></td></tr><tr><td style="width:275.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>De 40% a 60%, exclusive</span></p></td><td style="width:189.15pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>5 pontos</span></p></td></tr><tr><td style="width:275.1pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Abaixo de 40%</span></p></td><td style="width:189.15pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>0 pontos</span></p></td></tr></tbody></table>
+ÍNDICE DE ATINGIMENTO DAS METAS DE DESEMPENHO INSTITUCIONAL
+
+PONTUAÇÃO A SER ATRIBUÍDA AOS SERVIDORES
+
+A partir de 80%
+
+15 pontos
+
+De 60% a 80%, exclusive
+
+10 pontos
+
+De 40% a 60%, exclusive
+
+5 pontos
+
+Abaixo de 40%
+
+0 pontos

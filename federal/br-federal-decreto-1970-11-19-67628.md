@@ -1,5 +1,3 @@
-###DEC-067628-0-000-19-11-1970@@@
-
 Decreto Nº 67.628, DE 19 DE NOVEMBRO DE 1970.
 
 Decreta intervenção federal no Município de Lauro de Freitas, no Estado de Bahia, e dá outras providências.

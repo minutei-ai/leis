@@ -1,5 +1,3 @@
-###DEL-008256-0-000-30-11-1945@@@
-
 DECRETO-LEI N. 8.256 – DE 30 DE NOVEMBRO DE 1945
 
 Cria no Ministério da Marinha o Departamento Administrativo de Recuperação do Material (DARM) e da outras providencias.

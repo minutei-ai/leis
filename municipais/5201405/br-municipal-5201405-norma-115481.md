@@ -6,7 +6,8 @@ O PREFEITO DE APARECIDA DE GOIÂNIA, no uso da atribuição que lhe confere o ar
 
 **DECRETA:**
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º Este Decreto regulamenta a Lei nº 3.841, de 22 de julho de 2025, que dispõe sobre o comércio de alimentos em veículos sobre rodas, denominado Cozinha Móvel Sobre Rodas (food truck), no âmbito do Município de Aparecida de Goiânia.
@@ -15,7 +16,8 @@ Art. 2º As disposições deste Decreto aplicam-se às atividades de venda diret
 
 Parágrafo único. Para os fins deste Decreto, considera-se Cozinha Móvel Sobre Rodas o veículo automotor ou rebocado adaptado e licenciado para a produção e a comercialização de alimentos e bebidas preparados ou pré-preparados.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO LICENCIAMENTO
 
 Art. 3º A exploração da atividade de Cozinha Móvel Sobre Rodas depende da obtenção:
@@ -50,7 +52,8 @@ VII – certificado de conclusão de curso de boas práticas de manipulação de
 
 § 2º Não será concedida autorização à pessoa jurídica cujo sócio administrador, controlador ou respectivo cônjuge participe de outra pessoa jurídica já autorizatária.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS CONDIÇÕES SANITÁRIAS
 
 Art. 6º Os veículos e equipamentos utilizados no exercício da atividade deverão observar integralmente as normas sanitárias federais, estaduais e municipais aplicáveis.
@@ -73,7 +76,8 @@ Art. 8º Os alimentos deverão ser armazenados, preparados e comercializados em 
 
 Parágrafo único. Durante o funcionamento da atividade, é obrigatória a presença de, pelo menos, um manipulador capacitado em boas práticas sanitárias.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO USO DOS ESPAÇOS PÚBLICOS
 
 Art. 9º A utilização de áreas públicas para o exercício da atividade dependerá de autorização concedida em caráter precário, vinculada à pessoa jurídica autorizatária e intransferível.
@@ -144,7 +148,8 @@ IX – comercializar bebidas alcoólicas em desacordo com a legislação municip
 
 Parágrafo único. O disposto no inciso II do caput não impede a alteração societária da pessoa jurídica autorizatária, desde que não implique desvirtuamento da autorização concedida e seja previamente comunicada e aprovada pelos órgãos competentes.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA FISCALIZAÇÃO E DAS PENALIDADES
 
 Art. 15. A fiscalização do cumprimento deste Decreto será exercida pelos órgãos municipais competentes, especialmente pela Vigilância Sanitária, pela Fiscalização de Posturas, pela Secretaria Municipal de Planejamento e Regulação Urbana e pela Secretaria Municipal de Trânsito.
@@ -217,12 +222,14 @@ Parágrafo único. As infrações gravíssimas sujeitam o infrator à multa, à 
 
 Art. 21. Considera-se reincidência a prática de nova infração da mesma natureza no período de 12 (doze) meses, contado da decisão administrativa definitiva que tenha aplicado penalidade anterior.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 22. Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 17 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia

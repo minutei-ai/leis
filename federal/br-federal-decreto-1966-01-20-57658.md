@@ -1,5 +1,3 @@
-###DEC-057658-0-000-20-01-1966@@@
-
 DECRETO Nº 57.658, DE 20 DE JANEIRO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Estradas de Rodagem, área de terreno, onde está situada a Pedreira do Guaíba, no Município de Guaíba, Estado do Rio Grande do Sul.

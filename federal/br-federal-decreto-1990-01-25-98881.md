@@ -1,7 +1,3 @@
-1
-
-###DEC-098881-0-000-25-01-1990@@@
-
 DECRETO Nº 98.881, DE 25 DE; JANEIRO DE 1990
 
 Dispõe sobre a criação de área de proteção ambiental no Estado de Minas Gerais. e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006959-0-000-15-09-2009@@@
-
 DECRETO Nº 6.959, DE 15 DE SETEMBRO DE 2009.
 
 Dá nova redação aos arts. 3o, 4o e 5o do Decreto no 6.447, de 7 de maio de 2008, que regulamenta o art. 19 da Lei no 10.696, de 2 de julho de 2003, que institui o Programa de Aquisição de Alimentos.

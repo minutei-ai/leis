@@ -1,5 +1,3 @@
-###DEC-002354-0-000-20-10-1997@@@
-
 DECRETO Nº 2.354, DE 20 DE OUTUBRO DE 1997
 
 Aprova o Regulamento para o Corpo de Oficiais da Reserva do Exército (R-68).
@@ -28,7 +26,87 @@ Zenildo de Lucena
 
 Art
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO I - FINALIDADE, CONSTITUIÇÃO E INCLUSÃO</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO I - Da Finalidade</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">1º</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO II - Da Constituição</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">2º</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO III - Da Inclusão</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">3º/6º</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO II - ESTÁGIOS</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">7º/17</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO III - CONVOCAÇÃO</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO I - Das Convocações</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">18/20</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO II Da Convocação como Oficial Temporário e das Prorrogações</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">21/26</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO IV - PROMOÇÕES, TRANSFERÊNCIA DE ARMA, QUADRO</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">OU SERVIÇO E LICENCIAMENTO</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO I - Das Promoções</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">27/33</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO II - Da Transferência de Arma, Quadro ou Serviço</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">34</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO III - Do Licenciamento</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">35/39</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO V - EXCLUSÃO, REFORMA E PERDA DE POSTO</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO I - Da Exclusão da Reserva</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">40/41</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO II - Da Reforma</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">42</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO III - Da Perda do Posto e da Patente</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">43/46</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO VI - DEVERES, DIREITO E PRERROGATIVAS</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO I - Dos Deveres</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">47/50</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO II - Dos Direitos e Prerrogativas</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">51/54</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO VII - INFRAÇÕES E PENALIDADES</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO I - Das Infrações</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">55</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">SEÇÃO II - Das Penalidades</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">56/59</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">CAPÍTULO VIII - DISPOSIÇÕES DIVERSAS</span></p></td><td style="width:79.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">60/65</span></p></td></tr></tbody></table>
+CAPÍTULO I - FINALIDADE, CONSTITUIÇÃO E INCLUSÃO
+
+SEÇÃO I - Da Finalidade
+
+1º
+
+SEÇÃO II - Da Constituição
+
+2º
+
+SEÇÃO III - Da Inclusão
+
+3º/6º
+
+CAPÍTULO II - ESTÁGIOS
+
+7º/17
+
+CAPÍTULO III - CONVOCAÇÃO
+
+SEÇÃO I - Das Convocações
+
+18/20
+
+SEÇÃO II Da Convocação como Oficial Temporário e das Prorrogações
+
+21/26
+
+CAPÍTULO IV - PROMOÇÕES, TRANSFERÊNCIA DE ARMA, QUADRO
+
+OU SERVIÇO E LICENCIAMENTO
+
+SEÇÃO I - Das Promoções
+
+27/33
+
+SEÇÃO II - Da Transferência de Arma, Quadro ou Serviço
+
+34
+
+SEÇÃO III - Do Licenciamento
+
+35/39
+
+CAPÍTULO V - EXCLUSÃO, REFORMA E PERDA DE POSTO
+
+SEÇÃO I - Da Exclusão da Reserva
+
+40/41
+
+SEÇÃO II - Da Reforma
+
+42
+
+SEÇÃO III - Da Perda do Posto e da Patente
+
+43/46
+
+CAPÍTULO VI - DEVERES, DIREITO E PRERROGATIVAS
+
+SEÇÃO I - Dos Deveres
+
+47/50
+
+SEÇÃO II - Dos Direitos e Prerrogativas
+
+51/54
+
+CAPÍTULO VII - INFRAÇÕES E PENALIDADES
+
+SEÇÃO I - Das Infrações
+
+55
+
+SEÇÃO II - Das Penalidades
+
+56/59
+
+CAPÍTULO VIII - DISPOSIÇÕES DIVERSAS
+
+60/65
 
 # REGULAMENTO PARA O CORPO DE OFICIAIS DA RESERVA DO EXÉRCITO
 

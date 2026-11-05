@@ -1,6 +1,10 @@
 > **LEI Nº 4.017, DE 07 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a contratar operações de crédito externo junto ao Banco Internacional para Reconstrução e Desenvolvimento – BIRD, com a garantia da União e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a contratar operações de crédito externo junto ao Banco Internacional para Reconstrução e Desenvolvimento – BIRD, com a garantia da União e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

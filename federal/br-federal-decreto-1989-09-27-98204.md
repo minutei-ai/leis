@@ -1,7 +1,3 @@
-1
-
-###DEC-098204-0-000-27-09-1989@@@
-
 DECRETO Nº 98.204 DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA CHOPIM - FRAÇÃO A - QUINHÃO II”, situado no Município de Mangueirinha, Estado do Paraná e dá outras providências.

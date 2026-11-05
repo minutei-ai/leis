@@ -1,5 +1,3 @@
-###DEC-051731-0-000-21-02-1963@@@
-
 Decreto nº 51.731, de 21 de fevereiro de 1963.
 
 Dá nova redação ao art. 11, do Decreto nº 34.132, de 9 de outubro de 1953.

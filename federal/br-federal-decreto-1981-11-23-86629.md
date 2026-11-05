@@ -1,5 +1,3 @@
-###DEC-086629-0-000-23-11-1981@@@
-
 Decreto nº 86.629, de 23 de novembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação pela Escola Superior de Agricultura de Lavras, área de terra necessária à sua expansão, no Município de Lavras, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-088065-0-000-26-01-1983@@@
-
 Decreto nº 88.065, de 26 de janeiro de 1983.
 
 Altera o Regulamento do Código Nacional de Trânsito e dá outras providências.

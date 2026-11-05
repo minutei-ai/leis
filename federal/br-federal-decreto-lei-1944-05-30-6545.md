@@ -1,5 +1,3 @@
-###DEL-006545-0-000-30-05-1944@@@
-
 DECRETO-LEI N. 6.545 – DE 30 DE MAIO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 6.564,50, para pagamento de vencimentos

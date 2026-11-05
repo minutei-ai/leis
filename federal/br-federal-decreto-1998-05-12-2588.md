@@ -1,5 +1,3 @@
-###DEC-002588-0-000-12-05-1998@@@
-
 DECRETO Nº 2.588, DE 12 DE MAIO DE 1998
 
 Promulga o Acordo para o Estabelecimento e Utilização de Meios de Rastreamento e de Telemedida situados em Território Brasileiro, celebrado entre o Governo da República Federativa do Brasil e a Agência Espacial Européia, em Paris, em 3 de maio de 1994.
@@ -124,4 +122,20 @@ O presente Acordo entrará em vigor na data em que cada Parte notificar à outra
 
 feito em Brasília, e em Paris, aos terceiro dias do mês de maio de mil novecentos e noventa e, quatro, em dois originais, em português e francês, cada texto sendo igualmente autêntico. A Agência elaborará as versões nos idiomas inglês e alemão.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela Agência Espacial Européia</span></p></td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Arnaldo Leite Pereira</span></p></td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jean-Marie Luton</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+</td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pela Agência Espacial Européia
+
+</td></tr><tr><td style="width:207.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Arnaldo Leite Pereira
+
+</td><td style="width:214.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Jean-Marie Luton
+
+</td></tr></tbody></table>

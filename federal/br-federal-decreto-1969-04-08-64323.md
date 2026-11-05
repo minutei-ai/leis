@@ -1,5 +1,3 @@
-###DEC-064323-0-000-08-04-1969@@@
-
 DECRETO Nº 64.323, DE 8 DE ABRIL DE 1969.
 
 Dispõe sôbre a competência interna para a aplicação das cláusulas de salvaguarda previstas no Tratado de Montevidéu.

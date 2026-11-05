@@ -1,5 +1,3 @@
-###DEL-000036-0-000-01-12-1937@@@
-
 DECRETO-LEI N. 36 – DE 1 DE DEZEMBRO DE 1937
 
 Dispõe sôbre os serviços odontológicos os do Exército Nacional

@@ -1,5 +1,3 @@
-###MPV-001977-0-023-21-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-23, De 21 de dezembro DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

@@ -36,7 +36,8 @@ Titular: Penélope Bueno – CPF 695.XXX.XXX-XX
 
 Suplente: karina Pimentel Gonçalves – CPF 046.XXX.XXX-XX
 
-III – REPRESENTANTES NÃO GOVERNAMENTAIS:<br>
+III – REPRESENTANTES NÃO GOVERNAMENTAIS:
+
     
 
 a)    CENTRO JUVENIL GIOVANNI PINI
@@ -49,14 +50,16 @@ b)    SOCIEDADE VIDA E ESPERANÇA – SOVESP
 
 Titular: Regina Aparecida Gomides Calisto – CPF 509.XXX.XXX-XX
 
-Suplente: Karla Regina Gomides Calisto – CPF 757.XXX.XXX-XX<br>
+Suplente: Karla Regina Gomides Calisto – CPF 757.XXX.XXX-XX
+
  
 
 c)    CENTRO MARISTA DIVINO PAI ETERNO – CEMADIPE
 
 Titular: Ângelo Félix Dias Silva – CPF 858.XXX.XXX-XX
 
-Suplente: Juliana Cardoso Araújo Oliveira – CPF 022.XXX.XXX-XX<br>
+Suplente: Juliana Cardoso Araújo Oliveira – CPF 022.XXX.XXX-XX
+
  
 
 d)    CENTRO DE FORMAÇÃO INTEGRAL – CENFI
@@ -81,11 +84,14 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogando a
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 20 de março de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-SULNARA SANTANA<br>
+SULNARA SANTANA
+
 Secretária de Assistência Social

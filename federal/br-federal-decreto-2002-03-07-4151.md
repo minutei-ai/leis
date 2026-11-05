@@ -1,5 +1,3 @@
-###DEC-004151-0-000-07-03-2002@@@
-
 DECRETO Nº 4.151, DE 7 DE MARÇO DE 2002
 
 Extingue o Comitê Nacional da Qualidade e Produtividade.

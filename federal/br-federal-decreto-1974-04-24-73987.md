@@ -1,5 +1,3 @@
-###DEC-073987-0-000-24-04-1974@@@
-
 DECRETO Nº 73.987, DE 24 de abril DE 1974.
 
 Delega competência aos Ministros de Estado, ao Chefe do Gabinete Civil da Presidência da República e ao Diretor-Geral do Departamento  Administrativo do Pessoal Civil para baixar os atos que especifica.

@@ -1,5 +1,3 @@
-###DEL-002226-0-000-16-01-1985@@@
-
 # DECRETO-LEI Nº 2.226, DE 16 DE JANEIRO DE 1985
 
 Autoriza o Tesouro Nacional a participar do capital da Companhia Brasileira de Entrepostos e Comércio-COBEC e dá outras providências.

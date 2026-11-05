@@ -1,5 +1,3 @@
-###DEC-049991-0-000-24-01-1961@@@
-
 DECRETO Nº 49.991, DE 24 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Tamoio Sociedade Anônima para instalar uma estação radiodifusora.

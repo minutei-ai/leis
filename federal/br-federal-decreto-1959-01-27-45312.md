@@ -1,5 +1,3 @@
-###DEC-045312-0-000-27-01-1959@@@
-
 DECRETO Nº 45.312, DE 27 DE JANEIRO DE 1959.
 
 Autoriza a cidadã brasileira Teresa Rodrigues Larreta de Corrêa a pesquisar argila no município de Magé, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEL-003358-0-000-19-06-1941@@@
-
 DECRETO-LEI N. 3.358 – DE 19 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 400:000$0 para o custeio dos serviços de saneamento da Amazônia

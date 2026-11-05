@@ -1,5 +1,3 @@
-###DEC-077698-0-000-27-05-1976@@@
-
 DECRETO Nº 77.698, DE 27 DE MAIO DE 1976
 
 Dispõe sobre a constituição da Empresa Brasileira de Radiodifusão - RADIOBRÁS, e dá outras providências.

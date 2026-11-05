@@ -1,5 +1,3 @@
-###DEC-053604-0-000-25-02-1964@@@
-
 DECRETO Nº 53.604, DE 25 DE FEVEREIRO DE 1964.
 
 Revoga o Decreto n.º 53.071, de 3 de Dezembro de 1963.

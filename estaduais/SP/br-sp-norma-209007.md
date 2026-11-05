@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209007)<br>
-
 # DECRETO N° 68.236, DE 22 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno entre os km 279+000m e 280+000m da Rodovia Dona Leonor Mendes de Barros, SP-333, no Município de Guarantã, e dá providências correlatas._

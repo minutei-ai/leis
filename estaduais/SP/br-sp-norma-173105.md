@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/173105)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2014/compilacao-lei.complementar-1247-27.06.2014.html)
 
 # LEI COMPLEMENTAR N° 1.247, DE 27 DE JUNHO DE 2014

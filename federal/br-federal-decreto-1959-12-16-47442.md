@@ -1,5 +1,3 @@
-###DEC-047442-0-000-16-12-1959@@@
-
 DECRETO Nº 47.442, DE 16 DE Dezembro DE 1959.
 
 Renova a declaração de utilidade publica a que se refere o Decreto número 33.451, de 3 de agôsto de 1953, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, das áreas de terreno e respectivas benfeitorias, no Estado do Rio Grande do Sul.

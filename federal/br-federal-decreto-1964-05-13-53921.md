@@ -1,5 +1,3 @@
-###DEC-053921-0-000-13-05-1964@@@
-
 DECRETO Nº 53.921, DE 13 DE MAIO DE 1964.
 
 Aprova o Regulamento do Depósito Central de Intendência da Aeronáutica.
@@ -247,8 +245,6 @@ Major Brigadeiro-do-Ar
 Nelson Freire Lavenère Wanderley
 
 Ministro da Aeronáutica
-
-###DEC-053921-0-000-13-05-1964@@@RET01+++
 
 decreto nº 53.921, de 13 de maio de 1964.
 

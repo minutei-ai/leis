@@ -1,5 +1,3 @@
-###DEC-069106-0-000-23-08-1971@@@
-
 DECRETO Nº 69.106, DE 23 DE AGÔSTO DE 1971.
 
 Declara de utilidade pública a Escola de Menores São Vicente de Paulo, com sede em Antônio Carlos, Estado de Minas Gerais.

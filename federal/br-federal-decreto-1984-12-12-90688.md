@@ -1,5 +1,3 @@
-###DEC-090688-0-000-12-12-1984@@@
-
 Decreto nº 90.688, de 12 de dezembro de 1984
 
 Autoriza o funcionamento do curso de ciências contábeis, da Faculdade de Administração, ciências Econômicas e Contábeis de Guaratinguetá.

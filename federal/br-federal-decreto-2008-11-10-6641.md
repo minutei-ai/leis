@@ -1,5 +1,3 @@
-###DEC-006641-0-000-10-11-2008@@@
-
 DECRETO Nº 6.641, DE 10 DE NOVEMBRO DE 2008.
 
 Regulamenta as atribuições da Carreira de Auditoria da Receita Federal do Brasil, composta pelos cargos de nível superior de Auditor-Fiscal da Receita Federal do Brasil e de Analista-Tributário da Receita Federal do Brasil, conforme previsão contida no § 3~~º~~  do art. 6~~º~~ da Lei n~~º~~ 10.593, de 6 de dezembro de 2002.

@@ -1,5 +1,3 @@
-###DEC-087195-0-000-19-05-1982@@@
-
 Decreto nº 87.195, de 19 de maio de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da Estação de Banco Capacitores Itapecerica da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

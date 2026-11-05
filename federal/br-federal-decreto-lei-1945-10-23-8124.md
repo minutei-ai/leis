@@ -1,5 +1,3 @@
-###DEL-008124-0-000-23-10-1945@@@
-
 DECRETO-LEI N. 8.124 – DE 23 DE OUTUBRO DE 1945
 
 Concede pensão especial aos filhos menores de Agenor Martins de Sousa.

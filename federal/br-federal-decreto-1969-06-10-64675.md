@@ -1,5 +1,3 @@
-###DEC-064675-0-000-10-06-1969@@@
-
 DECRETO Nº 64.675, DE 10 DE JUNHO DE 1969.
 
 Estabelece normas para enquadramento dos pesquisadores da Universidade Federal do Rio de Janeiro, não classificados nos têrmos da Lei nº 4.881-A, de 6 de dezembro de 1965.

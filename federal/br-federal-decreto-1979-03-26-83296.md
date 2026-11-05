@@ -1,5 +1,3 @@
-###DEC-083296-0-000-26-03-1979@@@
-
 decreto nº 83.296, de 26 de março de 1979
 
 Concede reconhecimento ao curso do Tecnólogo em Saneamento Ambiental da Universidade Federal de Mato Grosso, com sede na cidade de Cuiabá, Estado do Mato Grosso.

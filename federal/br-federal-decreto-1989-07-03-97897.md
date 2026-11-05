@@ -1,7 +1,3 @@
-1
-
-###DEC-097897-0-000-03-07-1989@@@
-
 DECRETO N° 97.897, DE 3 DE JULHO DE 1989
 
 Prorroga os trabalhos de garimpagem na localidade de Serra Pelada, de acordo com o estabelecido na Lei n° 7.194, de 11 de junho de 1984, e posterior alteração da Lei n° 7.599, de 15 de maio de 1987.

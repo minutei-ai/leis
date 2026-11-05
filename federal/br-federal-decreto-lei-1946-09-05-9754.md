@@ -1,5 +1,3 @@
-###DEL-009754-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.754 – DE 5 DE SETEMBRO DE 1946
 
 Autoriza o Touring Club do Brasil e Automóvel Club do Brasil a acreditar funcionários seus junto às repartições municipais.

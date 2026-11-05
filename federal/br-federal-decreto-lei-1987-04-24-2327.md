@@ -1,7 +1,3 @@
-1
-
-###DEL-002327-0-000-24-04-1987@@@
-
 # DECRETO-LEI Nº 2.327, DE 24 DE ABRIL DE 1987
 
 Altera o Decreto-lei nº 2.321, de 25 de fevereiro de 1987.

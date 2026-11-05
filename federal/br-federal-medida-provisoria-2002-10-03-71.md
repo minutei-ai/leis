@@ -1,5 +1,3 @@
-###MPV-000071-0-000-03-10-2002@@@
-
 MEDIDA PROVISÓRIA Nº 71, DE 3 DE OUTUBRO DE 2002
 
 Altera disposições das Leis n 9.028, de 12 de abril de 1995, e 10.480, de 2 de julho de 2002, da Medida Provisória nº 2.229-43, de 6 de setembro de 2001, dispõe sobre a Secretaria da Receita Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047929-0-000-14-03-1960@@@
-
 DECRETO Nº 47.929, DE 14 DE MARÇO DE 1960.
 
 Abre à Superintendência do Desenvolvimento do Nordeste o crédito especial de Cr$50.000.000,00 (cinqüenta milhões de cruzeiros) para o fim que especifica.

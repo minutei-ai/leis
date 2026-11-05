@@ -354,7 +354,15 @@ Do cálculo do Lucro Líquido GloBE e Prejuízo Líquido GloBE
 
 Art. 17\. O Lucro Líquido GloBE da jurisdição para um ano fiscal será o valor positivo da diferença calculada por meio da seguinte fórmula:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="border:0.75pt solid #000000; -aw-border:0.5pt single; border-collapse:collapse"><tbody><tr><td style="width:95.3pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Lucro Líquido GloBE</span></p></td><td style="width:10.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>=</span></p></td><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Lucro GloBE de todas as Entidades Constituintes</span></p></td><td style="width:3.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>-</span></p></td><td style="width:130.65pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Prejuízo GloBE de todas as Entidades Constituintes</span></p></td></tr></tbody></table>
+Lucro Líquido GloBE
+
+=
+
+Lucro GloBE de todas as Entidades Constituintes
+
+-
+
+Prejuízo GloBE de todas as Entidades Constituintes
 
 § 1º Para fins da fórmula de que trata o caput:
 
@@ -398,7 +406,15 @@ Lucros Excedentes
 
 Art. 20\. Os Lucros Excedentes da jurisdição para um ano fiscal corresponderão ao valor positivo da diferença, se houver, calculada por meio da seguinte fórmula:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="border:0.75pt solid #000000; -aw-border:0.5pt single; border-collapse:collapse"><tbody><tr><td style="width:81.1pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Lucros Excedentes</span></p></td><td style="width:6.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>=</span></p></td><td style="width:92.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Lucro Líquido GloBE</span></p></td><td style="width:3.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>-</span></p></td><td style="width:187.35pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Exclusão do Lucro Baseada na Substância</span></p></td></tr></tbody></table>
+Lucros Excedentes
+
+=
+
+Lucro Líquido GloBE
+
+-
+
+Exclusão do Lucro Baseada na Substância
 
 Parágrafo único. Para fins da fórmula de que trata o caput:
 
@@ -436,11 +452,79 @@ Regras de transição aplicáveis à Exclusão do Lucro Baseada na Substância
 
 Art. 25\. Para fins de aplicação do disposto no art. 23, o percentual de 5% (cinco por cento) será substituído pelos percentuais estabelecidos na tabela a seguir para cada ano fiscal que iniciar em cada um dos anos calendários seguintes:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; -aw-border:0.5pt single; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:130.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Ano Fiscal iniciando em:</span></p></td><td style="width:130.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Percentual do art. 23:</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2025</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>9,6%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2026</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>9,4%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2027</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>9,2%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2028</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>9,0%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2029</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>8,2%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2030</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>7,4%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2031</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>6,6%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2032</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>5,8%</span></p></td></tr></tbody></table>
+Ano Fiscal iniciando em:
+
+Percentual do art. 23:
+
+2025
+
+9,6%
+
+2026
+
+9,4%
+
+2027
+
+9,2%
+
+2028
+
+9,0%
+
+2029
+
+8,2%
+
+2030
+
+7,4%
+
+2031
+
+6,6%
+
+2032
+
+5,8%
 
 Art. 26\. Para fins de aplicação do disposto no art. 24, o percentual de 5% (cinco por cento) será substituído pelos percentuais estabelecidos na tabela a seguir para cada ano fiscal que iniciar em cada um dos anos calendários seguintes:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; -aw-border:0.5pt single; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:130.95pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Ano Fiscal iniciando em:</span></p></td><td style="width:130.95pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Percentual do art. 24:</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2025</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>7,6%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2026</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>7,4%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2027</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>7,2%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2028</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>7,0%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2029</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>6,6%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2030</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>6,2%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2031</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>5,8%</span></p></td></tr><tr><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-right:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>2032</span></p></td><td style="width:130.95pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top; -aw-border-left:0.5pt single; -aw-border-top:0.5pt single"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>5,4%</span></p></td></tr></tbody></table>
+Ano Fiscal iniciando em:
+
+Percentual do art. 24:
+
+2025
+
+7,6%
+
+2026
+
+7,4%
+
+2027
+
+7,2%
+
+2028
+
+7,0%
+
+2029
+
+6,6%
+
+2030
+
+6,2%
+
+2031
+
+5,8%
+
+2032
+
+5,4%
 
 Seção VII
 
@@ -448,7 +532,19 @@ Adicional da CSLL da jurisdição
 
 Art. 27\. O Adicional da CSLL da jurisdição para um ano fiscal corresponderá ao valor positivo, se houver, calculado por meio da seguinte fórmula:
 
-<table cellspacing="0" cellpadding="0" class="TableGrid" style="width:428.7pt; border:0.75pt solid #000000; -aw-border:0.5pt single; border-collapse:collapse"><tbody><tr><td style="width:84.7pt; padding-right:5.4pt; padding-left:5.03pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Adicional da CSLL da jurisdição</span></p></td><td style="width:14.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>= (</span></p></td><td style="width:85.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Percentual do Adicional da CSLL</span></p></td><td style="width:6.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>X</span></p></td><td style="width:52.3pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Lucros Excedentes</span></p></td><td style="width:17.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>) +</span></p></td><td style="width:91.35pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:middle"><p class="DefaultParagraph" style="text-indent:0pt; text-align:center; font-size:0.83em"><span>Ajuste do Adicional da CSLL</span></p></td></tr></tbody></table>
+Adicional da CSLL da jurisdição
+
+= (
+
+Percentual do Adicional da CSLL
+
+X
+
+Lucros Excedentes
+
+) +
+
+Ajuste do Adicional da CSLL
 
 Parágrafo único. Para fins da fórmula de que trata o caput:
 

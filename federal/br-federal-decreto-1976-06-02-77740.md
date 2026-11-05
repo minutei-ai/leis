@@ -1,5 +1,3 @@
-###DEC-077740-0-000-02-06-1976@@@
-
 DECRETO Nº 77.740, DE 2 DE JUNHO DE 1976.
 
 Aprova o Regulamento da Lei número 6.249, de 08 de outubro de 1975, que dispõe sobre o Magistério da Aeronáutica e dá outras providências.

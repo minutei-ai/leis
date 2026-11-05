@@ -1,5 +1,3 @@
-###DEC-057950-0-000-10-03-1966@@@
-
 DECRETO Nº 57.950, DE 10 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Wilson Félix Soares a lavrar minérios de ferro e maganês no município de Corumbá Estado de Mato Grosso.

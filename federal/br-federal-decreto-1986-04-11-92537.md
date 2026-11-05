@@ -1,5 +1,3 @@
-###DEC-092537-0-000-11-04-1986@@@
-
 DECRETO Nº 92.537, DE 11 DE ABRIL DE 1986
 
 Revoga os Decretos nº 74.055, de 13 de maio de 1974, e nº 80.851, de 28 de novembro de 1977.

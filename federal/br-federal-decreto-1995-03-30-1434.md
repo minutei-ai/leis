@@ -1,7 +1,3 @@
-1
-
-###DEC-001434-0-000-30-03-1995@@@
-
 DECRETO Nº 1.434, DE 30 DE MARÇO DE 1995
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Concessões Outorgadas no Período 1962/1980 (Acordo nº 11), entre Brasil e Equador, de 17 de novembro de 1994.

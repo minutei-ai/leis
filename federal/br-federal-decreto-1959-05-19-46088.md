@@ -1,5 +1,3 @@
-###DEC-046088-0-000-19-05-1959@@@
-
 DECRETO Nº 46.088, DE 19 DE MAIO DE 1959.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica em Mandaguaçu, Estado do Paraná, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005633-0-000-22-12-2005@@@
-
 DECRETO Nº 5.633, DE 22 DE DEZEMBRO DE 2005.
 
        Dispõe sobre a criação da Embaixada do Brasil na República do Togo, com sede em Lomé.
@@ -19,5 +17,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
        Ruy Nunes Pinto Nogueira
-
-Este texto não substitui o publicado no DOU de 23.12.2005

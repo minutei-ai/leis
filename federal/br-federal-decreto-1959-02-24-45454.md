@@ -1,5 +1,3 @@
-###DEC-045454-0-000-24-02-1959@@@
-
 decreto nº 45.454, de 24 de fevereiro de 1959.
 
 Outorga à Companhia Paranaense de Energia Elétrica (COPEL) autorização de estudos para o aproveitamento de energia hidráulica no Rio Iguaçu, seus afluente e subafluentes, desde a sua cabeceira até o Salto Grande.

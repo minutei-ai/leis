@@ -1,5 +1,3 @@
-###DEL-000061-0-000-21-11-1966@@@
-
 # DECRETO-LEI Nº 61, DE 21 dE NOVEMBRO De 1966
 
 Altera a legislação relativa ao Impospôsto Único sôbre lubrificantes e combustíveis líquidos e gasosos, e dá outras providências.
@@ -26,7 +24,55 @@ Art. 1º O Impôsto Único sôbre lubrificantes e combustíveis líquidos e gaso
 
 Gás liqüefeito do petróleo
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>%</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(GLP).......................................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>87,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gasolina de Avião......................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>323,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Querosene de Avião...................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>270,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gasolina automotiva tipo A.........................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>347,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gasolina automotiva tipo B.........................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>400,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Querosene e “</span><span style="font-style:italic">signal</span><span> </span><span style="font-style:italic">oil</span><span>”..............................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>144,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Óleo Diesel...............................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>271,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Óleo Combustível (</span><span style="font-style:italic">fuel</span><span> </span><span style="font-style:italic">oil</span><span>)..........................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8,5</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Óleos lubrificantes simples, compostos ou emulsivos, a granel......................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>825,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>a</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.050,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Idem, idem, idem, embalados</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>963,0</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>a</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.225,0</span></p></td></tr></tbody></table>
+%
+
+(GLP).......................................................................................................................
+
+87,0
+
+Gasolina de Avião......................................................................................................
+
+323,0
+
+Querosene de Avião...................................................................................................
+
+270,0
+
+Gasolina automotiva tipo A.........................................................................................
+
+347,0
+
+Gasolina automotiva tipo B.........................................................................................
+
+400,0
+
+Querosene e “signal oil”..............................................................................................
+
+144,0
+
+Óleo Diesel...............................................................................................................
+
+271,0
+
+Óleo Combustível (fuel oil)..........................................................................................
+
+8,5
+
+Óleos lubrificantes simples, compostos ou emulsivos, a granel......................................
+
+825,0
+
+a
+
+1.050,0
+
+Idem, idem, idem, embalados
+
+963,0
+
+a
+
+1.225,0
 
 § 1º O custo CIF do petróleo bruto que servirá de base para calcular o impôsto único será determinado de acôrdo com as seguintes normas:
 
@@ -66,11 +112,45 @@ Grupo IV - Depreciação, amortização e remuneração dos capitais investidos.
 
 c) O Conselho Nacional do Petróleo procederá à fixação dos preços de realização das refinarias, partindo do preço de realização da Gasolina automotiva A, ora fixado em Cr$53,44/1 por êste Decreto-lei, atribuindo para os quatro grupos de custos os seguintes pesos percentuais, que servirão de base para os reajustamentos de valôres:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>%</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grupo I ....................................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>74,3</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grupo II ....................................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>9,2</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grupo Ill ..................................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12,7</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Grupo IV ..................................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3,8</span></p></td></tr></tbody></table>
+%
+
+Grupo I ....................................................................................................................
+
+74,3
+
+Grupo II ....................................................................................................................
+
+9,2
+
+Grupo Ill ..................................................................................................................
+
+12,7
+
+Grupo IV ..................................................................................................................
+
+3,8
 
 d) Os preços de realização dos demais derivados serão fixados com base na seguinte escala de relação, em que a gasolina A é igual a 100 que poderá ser alterada por deliberação do Conselho Nacional do Petróleo, se assim se fizer necessário em virtude das condições do mercado internacional e da conjuntura interna da economia nacional:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gás liquefeito de petróleo ..........................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>105</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gasolina B ...............................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>118</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Querosene ...............................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>135</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Óleo Diesel ..............................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:384.45pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Óleo Combustível ......................................................................................................</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>72</span></p></td></tr></tbody></table>
+Gás liquefeito de petróleo ..........................................................................................
+
+105
+
+Gasolina B ...............................................................................................................
+
+118
+
+Querosene ...............................................................................................................
+
+135
+
+Óleo Diesel ..............................................................................................................
+
+100
+
+Óleo Combustível ......................................................................................................
+
+72
 
 e) Os demais produtos definidos no “caput” do art. 1º, quando produzidos no país, terão seus preços de realização fixados dentro dos critérios gerais estabelecidos pelo item “a” dêste parágrafo.
 

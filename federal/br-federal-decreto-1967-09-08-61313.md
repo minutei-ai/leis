@@ -1,5 +1,3 @@
-###DEC-061313-0-000-08-09-1967@@@
-
 decreto nº 61.313, de 8 de setembro de 1967.
 
 Provê sôbre a Constituição da Rêde Nacional de Alfabetização Funcional e Educação de Adultos e dá outras Providências.

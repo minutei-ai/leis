@@ -1,5 +1,3 @@
-###DEC-073904-0-000-05-04-1974@@@
-
 DECRETO Nº 73.904, DE 5 DE ABRIL 1974.
 
 Concede à Mercantil Industrial de Minérios Ltda. o direito de lavrar dolomito no Município de Rio Branco do Sul, Estado do Paraná.

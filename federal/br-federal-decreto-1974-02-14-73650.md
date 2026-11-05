@@ -1,5 +1,3 @@
-###DEC-073650-0-000-14-02-1974@@@
-
 DECRETO Nº 73.650, DE 14 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento do curso de Ciências Administração da Faculdade de Ciências Econômica e Contábeis de Lages, mantida pela Fundação de Escolas unidas ao Planalto Catarina (UNIPLAC), com sede na cidade de Lages, Estado de Santa Catarina.

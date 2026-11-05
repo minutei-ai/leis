@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209118)<br>
-
 # DECRETO N° 68.336, DE 22 DE FEVEREIRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à recuperação da pista, pavimentação de acostamentos e melhoria do trecho entre os km 128,00m e 165,32m da Rodovia Péricles Bellini, SP-461, nos Municípios de Votuporanga, Álvares Florence e Cardoso, e dá providências correlatas._

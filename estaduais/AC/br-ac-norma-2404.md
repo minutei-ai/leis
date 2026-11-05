@@ -1,6 +1,6 @@
 > **LEI Nº 3.227, DE 15 DE MARÇO DE 2017**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 2.448, de 10 de outubro de 2011, que “Institui o Plano de Cargos, Carreiras e Remuneração – PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre – DETRAN/AC.</span></span></span></p></td></tr></tbody></table>
+Altera a Lei nº 2.448, de 10 de outubro de 2011, que “Institui o Plano de Cargos, Carreiras e Remuneração – PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre – DETRAN/AC.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -65,8 +65,6 @@ VII – atividade ostensiva de trânsito; e
 VIII – **ticket** alimentação.
 
 ... 
-
-<br>
 
 **Art. 25.** A gratificação de atividade de trânsito será concedida aos integrantes das carreiras do DETRAN/AC, em efetivo exercício, em decorrência de atribuições específicas da área de trânsito, a ser paga da seguinte forma:
 
@@ -136,8 +134,6 @@ Rio Branco – Acre, 15 de março de 2017, 129º da República, 115º do Tratado
 
 Governador do Estado do Acre
 
-<br>
-
 **ANEXO I**
 
 **“ANEXO I**
@@ -146,7 +142,7 @@ Governador do Estado do Acre
 
 Estrutura e Composição, segundo os grupos ocupacionais, cargos, classes e referências
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="11"><p><span>&nbsp;</span></p><p><span><strong>Quadro de Servidores do Departamento Estadual de Trânsito</strong></span></p></td><td><p><span><strong>Grupos</strong></span></p><p><span><strong>Ocupacionais</strong></span></p></td><td><p><span><strong>Cargos</strong></span></p></td><td><p><span><strong>Classe</strong></span></p></td><td><p><span><strong>Referência</strong></span></p></td></tr><tr><td rowspan="5"><p><span>Superior</span></p></td><td rowspan="5" valign="top"><p><span>Analista de Sistemas</span></p><p><span>Assistente Técnico</span></p><p><span>Contador</span></p><p><span>Engenheiro Civil</span></p><p><span>Pedagogo</span></p></td><td><p><span>Especial</span></p></td><td rowspan="5"><p><span>1 a 3</span></p></td></tr><tr><td><p><span>IV</span></p></td></tr><tr><td><p><span>III</span></p></td></tr><tr><td><p><span>II</span></p></td></tr><tr><td><p><span>I</span></p></td></tr><tr><td rowspan="5"><p><span>Médio</span></p></td><td rowspan="5" valign="top"><p><span>Agente da Autoridade de Trânsito</span></p><p><span>Examinador de Trânsito</span></p><p><span>Técnico Administrativo</span></p></td><td><p><span>Especial</span></p></td><td rowspan="5"><p><span>1 a 3</span></p></td></tr><tr><td><p><span>IV</span></p></td></tr><tr><td><p><span>III</span></p></td></tr><tr><td><p><span>II</span></p></td></tr><tr><td><p><span>I</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="11"> &nbsp; **Quadro de Servidores do Departamento Estadual de Trânsito** </td><td> **GruposOcupacionais** </td><td> **Cargos** </td><td> **Classe** </td><td> **Referência** </td></tr><tr><td rowspan="5"> Superior </td><td rowspan="5" valign="top"> Analista de Sistemas Assistente Técnico Contador Engenheiro Civil Pedagogo </td><td> Especial </td><td rowspan="5"> 1 a 3 </td></tr><tr><td> IV </td></tr><tr><td> III </td></tr><tr><td> II </td></tr><tr><td> I </td></tr><tr><td rowspan="5"> Médio </td><td rowspan="5" valign="top"> Agente da Autoridade de Trânsito Examinador de Trânsito Técnico Administrativo </td><td> Especial </td><td rowspan="5"> 1 a 3 </td></tr><tr><td> IV </td></tr><tr><td> III </td></tr><tr><td> II </td></tr><tr><td> I </td></tr></tbody></table>
 
 “**ANEXO II**
 
@@ -154,7 +150,7 @@ Estrutura e Composição, segundo os grupos ocupacionais, cargos, classes e refe
 
 Linhas de Promoção
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>PROVIMENTO</strong></span></p></td><td colspan="4"><p><span><strong>PROMOÇÃO</strong></span></p></td></tr><tr><td><p><span><strong>Classe I</strong></span></p></td><td><p><span><strong>Classe II</strong></span></p></td><td><p><span><strong>Classe III</strong></span></p></td><td><p><span><strong>Classe IV</strong></span></p></td><td><p><span><strong>Classe Especial</strong></span></p></td></tr><tr><td><p><span>Analista de Sistemas I</span></p></td><td><p><span>Analista de Sistemas II</span></p></td><td><p><span>Analista de Sistemas III</span></p></td><td><p><span>Analista de Sistemas IV</span></p></td><td><p><span>Analista de Sistemas Especial</span></p></td></tr><tr><td><p><span>Assistente Técnico I</span></p></td><td><p><span>Assistente Técnico II</span></p></td><td><p><span>Assistente Técnico III</span></p></td><td><p><span>Assistente Técnico IV</span></p></td><td><p><span>Assistente Técnico Especial</span></p></td></tr><tr><td><p><span>Contador I</span></p></td><td><p><span>Contador II</span></p></td><td><p><span>Contador III</span></p></td><td><p><span>Contador IV</span></p></td><td><p><span>Contador Especial</span></p></td></tr><tr><td><p><span>Engenheiro Civil I</span></p></td><td><p><span>Engenheiro Civil II</span></p></td><td><p><span>Engenheiro</span></p><p><span>Civil III</span></p></td><td><p><span>Engenheiro Civil IV</span></p></td><td><p><span>Engenheiro Civil Especial</span></p></td></tr><tr><td><p><span>Pedagogo I</span></p></td><td><p><span>Pedagogo II</span></p></td><td><p><span>Pedagogo III</span></p></td><td><p><span>Pedagogo IV</span></p></td><td><p><span>Pedagogo Especial</span></p></td></tr><tr><td><p><span>Agente da Autoridade de Trânsito I</span></p></td><td><p><span>Agente da Autoridade de Trânsito II</span></p></td><td><p><span>Agente da Autoridade de Trânsito III</span></p></td><td><p><span>Agente da Autoridade de Trânsito IV</span></p></td><td><p><span>Agente da Autoridade de Trânsito Especial</span></p></td></tr><tr><td><p><span>Examinador</span></p><p><span>de Trânsito I</span></p></td><td><p><span>Examinador de Trânsito II</span></p></td><td><p><span>Examinador de Trânsito III</span></p></td><td><p><span>Examinador de Trânsito IV</span></p></td><td><p><span>Examinador de Trânsito Especial</span></p></td></tr><tr><td><p><span>Técnico Administrativo</span></p><p><span>I</span></p></td><td><p><span>Técnico Administrativo II</span></p></td><td><p><span>Técnico Administrativo</span></p><p><span>III</span></p></td><td><p><span>Técnico Administrativo IV</span></p></td><td><p><span>Técnico Administrativo Especial</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **PROVIMENTO** </td><td colspan="4"> **PROMOÇÃO** </td></tr><tr><td> **Classe I** </td><td> **Classe II** </td><td> **Classe III** </td><td> **Classe IV** </td><td> **Classe Especial** </td></tr><tr><td> Analista de Sistemas I </td><td> Analista de Sistemas II </td><td> Analista de Sistemas III </td><td> Analista de Sistemas IV </td><td> Analista de Sistemas Especial </td></tr><tr><td> Assistente Técnico I </td><td> Assistente Técnico II </td><td> Assistente Técnico III </td><td> Assistente Técnico IV </td><td> Assistente Técnico Especial </td></tr><tr><td> Contador I </td><td> Contador II </td><td> Contador III </td><td> Contador IV </td><td> Contador Especial </td></tr><tr><td> Engenheiro Civil I </td><td> Engenheiro Civil II </td><td> Engenheiro Civil III </td><td> Engenheiro Civil IV </td><td> Engenheiro Civil Especial </td></tr><tr><td> Pedagogo I </td><td> Pedagogo II </td><td> Pedagogo III </td><td> Pedagogo IV </td><td> Pedagogo Especial </td></tr><tr><td> Agente da Autoridade de Trânsito I </td><td> Agente da Autoridade de Trânsito II </td><td> Agente da Autoridade de Trânsito III </td><td> Agente da Autoridade de Trânsito IV </td><td> Agente da Autoridade de Trânsito Especial </td></tr><tr><td> Examinador de Trânsito I </td><td> Examinador de Trânsito II </td><td> Examinador de Trânsito III </td><td> Examinador de Trânsito IV </td><td> Examinador de Trânsito Especial </td></tr><tr><td> Técnico Administrativo I </td><td> Técnico Administrativo II </td><td> Técnico Administrativo III </td><td> Técnico Administrativo IV </td><td> Técnico Administrativo Especial </td></tr></tbody></table>
 
 **“ANEXO III**
 
@@ -162,63 +158,63 @@ Linhas de Promoção
 
 **Tabelas de Vencimentos**
 
-1.    <br>
+1.    
 
-    <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span><strong><span>&nbsp;</span></strong></span></p></td><td colspan="3" valign="top"><p><span><strong><span>Referência&nbsp;</span></strong></span></p></td></tr><tr><td valign="top"><p><span><strong><span>Classe</span></strong></span></p></td><td valign="top"><p><span><strong><span>1</span></strong></span></p></td><td valign="top"><p><span><strong><span>2</span></strong></span></p></td><td valign="top"><p><span><strong><span>3</span></strong></span></p></td></tr><tr><td valign="top"><p><span><span>Classe Especial</span></span></p></td><td valign="top"><p><span><span>R$ 6.166,92</span></span></p></td><td valign="top"><p><span><span>R$ 6.475,26</span></span></p></td><td valign="top"><p><span><span>R$ 6.783,60</span></span></p></td></tr><tr><td valign="top"><p><span><span>Classe IV</span></span></p></td><td valign="top"><p><span><span>R$ 5.396,05</span></span></p></td><td valign="top"><p><span><span>R$ 5.665,85</span></span></p></td><td valign="top"><p><span><span>R$ 5.935,66</span></span></p></td></tr><tr><td valign="top"><p><span><span>Classe III</span></span></p></td><td valign="top"><p><span><span>R$ 4.625,20</span></span></p></td><td valign="top"><p><span><span>R$ 4.856,45</span></span></p></td><td valign="top"><p><span><span>R$ 5.087,72</span></span></p></td></tr><tr><td valign="top"><p><span><span>Classe II</span></span></p></td><td valign="top"><p><span><span>R$ 3.854,33</span></span></p></td><td valign="top"><p><span><span>R$ 4.047,03</span></span></p></td><td valign="top"><p><span><span>R$ 4.239,74</span></span></p></td></tr><tr><td valign="top"><p><span><span>Classe I</span></span></p></td><td valign="top"><p><span><span>R$ 3.083,46</span></span></p></td><td valign="top"><p><span><span>R$ 3.237,65</span></span></p></td><td valign="top"><p><span><span>R$ 3.391,80</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> **&nbsp;** </td><td colspan="3" valign="top"> **Referência&nbsp;** </td></tr><tr><td valign="top"> **Classe** </td><td valign="top"> **1** </td><td valign="top"> **2** </td><td valign="top"> **3** </td></tr><tr><td valign="top"> Classe Especial </td><td valign="top"> R$ 6.166,92 </td><td valign="top"> R$ 6.475,26 </td><td valign="top"> R$ 6.783,60 </td></tr><tr><td valign="top"> Classe IV </td><td valign="top"> R$ 5.396,05 </td><td valign="top"> R$ 5.665,85 </td><td valign="top"> R$ 5.935,66 </td></tr><tr><td valign="top"> Classe III </td><td valign="top"> R$ 4.625,20 </td><td valign="top"> R$ 4.856,45 </td><td valign="top"> R$ 5.087,72 </td></tr><tr><td valign="top"> Classe II </td><td valign="top"> R$ 3.854,33 </td><td valign="top"> R$ 4.047,03 </td><td valign="top"> R$ 4.239,74 </td></tr><tr><td valign="top"> Classe I </td><td valign="top"> R$ 3.083,46 </td><td valign="top"> R$ 3.237,65 </td><td valign="top"> R$ 3.391,80 </td></tr></tbody></table>
 
-    2.    <br>
+    2.    
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong><span>&nbsp;</span></strong></p></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"><p><strong><span>Referência&nbsp;</span></strong></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **Referência&nbsp;** </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong><span>Classe</span></strong></p></td></tr></tbody></table>
+        **Classe**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong><span>1</span></strong></p></td></tr></tbody></table>
+        **1**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong><span>2</span></strong></p></td></tr></tbody></table>
+        **2**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong><span>3</span></strong></p></td></tr></tbody></table>
+        **3**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>Classe Especial</span></p></td></tr></tbody></table>
+        Classe Especial
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.395,19</span></p></td></tr></tbody></table>
+        R$ 2.395,19
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.514,95</span></p></td></tr></tbody></table>
+        R$ 2.514,95
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.634,71</span></p></td></tr></tbody></table>
+        R$ 2.634,71
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>Classe IV</span></p></td></tr></tbody></table>
+        Classe IV
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.129,06</span></p></td></tr></tbody></table>
+        R$ 2.129,06
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.235,52</span></p></td></tr></tbody></table>
+        R$ 2.235,52
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.341,95</span></p></td></tr></tbody></table>
+        R$ 2.341,95
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>Classe III</span></p></td></tr></tbody></table>
+        Classe III
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.862,93</span></p></td></tr></tbody></table>
+        R$ 1.862,93
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.956,07</span></p></td></tr></tbody></table>
+        R$ 1.956,07
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 2.049,23</span></p></td></tr></tbody></table>
+        R$ 2.049,23
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>Classe II</span></p></td></tr></tbody></table>
+        Classe II
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.596,78</span></p></td></tr></tbody></table>
+        R$ 1.596,78
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.676,64</span></p></td></tr></tbody></table>
+        R$ 1.676,64
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.756,48</span></p></td></tr></tbody></table>
+        R$ 1.756,48
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>Classe I</span></p></td></tr></tbody></table>
+        Classe I
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.330,65</span></p></td></tr></tbody></table>
+        R$ 1.330,65
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.397,18</span></p></td></tr></tbody></table>
+        R$ 1.397,18
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.463,72</span></p></td></tr></tbody></table>
+        R$ 1.463,72
 
         **ANEXO IV**
 
@@ -226,83 +222,83 @@ Linhas de Promoção
 
         Quantificação de Cargos
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Grupos</strong></p></td></tr></tbody></table>
+        **Grupos**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Ocupacionais</strong></p></td></tr></tbody></table>
+        **Ocupacionais**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>&nbsp;</strong></p></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Cargos</strong></p></td></tr></tbody></table>
+        **Cargos**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>&nbsp;</strong></p></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Quantidade</strong></p></td></tr></tbody></table>
+        **Quantidade**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>&nbsp;</p></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>&nbsp;</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> &nbsp; </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>&nbsp;</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> &nbsp; </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>Superior</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Superior </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>Analista de Sistemas</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Analista de Sistemas </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>Assistente Técnico</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Assistente Técnico </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>Contador</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Contador </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>Engenheiro Civil</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Engenheiro Civil </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>Pedagogo</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Pedagogo </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>07</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> 07 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>14</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> 14 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>02</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> 02 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>03</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> 03 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p>03</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> 03 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>&nbsp;</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> &nbsp; </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>Médio</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> Médio </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>Agente da Autoridade de Trânsito</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> Agente da Autoridade de Trânsito </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>Examinador de Trânsito</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> Examinador de Trânsito </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>Técnico Administrativo</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> Técnico Administrativo </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>150</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> 150 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>50</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> 50 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"><p>206</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3" valign="top"> 206 </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>TOTAL</strong></p></td></tr></tbody></table>
+        **TOTAL**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"><p><strong>435</strong></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **435** </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><br></td></tr></tbody></table>
+        
 
         C
 
@@ -312,49 +308,49 @@ Linhas de Promoção
 
         Adicional de Titulação
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><strong>GRUPOS OCUPACIONAIS</strong></p></td></tr></tbody></table>
+        **GRUPOS OCUPACIONAIS**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><strong>DENOMINAÇÃO DO CARGO</strong></p></td></tr></tbody></table>
+        **DENOMINAÇÃO DO CARGO**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p><strong>ESCOLARIDADE</strong></p></td></tr></tbody></table>
+        **ESCOLARIDADE**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5"><p>Superior</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5"> Superior </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5"><p>&nbsp;</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5"> &nbsp; </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5"><p>&nbsp;</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5"> &nbsp; </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Analista de Sistemas</p></td></tr></tbody></table>
+        Analista de Sistemas
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p><span>Pós-graduação (lato sensu): &nbsp;7,5%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Pós-graduação (lato sensu): &nbsp;7,5% </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p><span>Mestrado: 15%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Mestrado: 15% </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p><span>Doutorado: 20%</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> Doutorado: 20% </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"><p><span>(Máximo 20%)</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="5" valign="top"> (Máximo 20%) </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Assistente Técnico</p></td></tr></tbody></table>
+        Assistente Técnico
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Contador</p></td></tr></tbody></table>
+        Contador
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Engenheiro Civil</p></td></tr></tbody></table>
+        Engenheiro Civil
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Pedagogo</p></td></tr></tbody></table>
+        Pedagogo
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"><p>Médio</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"> Médio </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Agente da Autoridade de Trânsito</p></td></tr></tbody></table>
+        Agente da Autoridade de Trânsito
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"><p>Superior: 20%</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"> Superior: 20% </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"><p><span>&nbsp;</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"> &nbsp; </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"><p><span>(Máximo 20%)</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="3"> (Máximo 20%) </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Examinador de Trânsito</p></td></tr></tbody></table>
+        Examinador de Trânsito
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td><p>Técnico Administrativo</p></td></tr></tbody></table>
+        Técnico Administrativo
 
         **“ANEXO VI**
 
@@ -364,56 +360,54 @@ Linhas de Promoção
 
         Nível Superior: analista de sistemas, assistente técnico, contador, engenheiro civil e pedagogo:
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"><p><strong>Posição na Tabela em Extinção</strong></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **Posição na Tabela em Extinção** </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"><p><strong>Enquadramento na Nova Tabela</strong></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **Enquadramento na Nova Tabela** </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Nível</strong></p></td></tr></tbody></table>
+        **Nível**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Vencimento</strong></p></td></tr></tbody></table>
+        **Vencimento**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Classe</strong></p></td></tr></tbody></table>
+        **Classe**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Referência</strong></p></td></tr></tbody></table>
+        **Referência**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Vencimento</strong></p></td></tr></tbody></table>
+        **Vencimento**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>A</p></td></tr></tbody></table>
+        A
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>R$ 2.681,27</p></td></tr></tbody></table>
+        R$ 2.681,27
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>I</p></td></tr></tbody></table>
+        I
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>1</p></td></tr></tbody></table>
+        1
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>R$ 3.083,46</p></td></tr></tbody></table>
+        R$ 3.083,46
 
         Nível Médio: agente da autoridade de trânsito, examinadores de trânsito e técnico administrativo:
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"><p><strong>Posição na Tabela em Extinção</strong></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="2" valign="top"> **Posição na Tabela em Extinção** </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"><p><strong>Enquadramento na Nova Tabela</strong></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **Enquadramento na Nova Tabela** </td></tr></tbody></table>
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Nível</strong></p></td></tr></tbody></table>
+        **Nível**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Vencimento</strong></p></td></tr></tbody></table>
+        **Vencimento**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Classe</strong></p></td></tr></tbody></table>
+        **Classe**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Referência</strong></p></td></tr></tbody></table>
+        **Referência**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><strong>Vencimento</strong></p></td></tr></tbody></table>
+        **Vencimento**
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>A</p></td></tr></tbody></table>
+        A
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>R$ 1.157,09</p></td></tr></tbody></table>
+        R$ 1.157,09
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>I</p></td></tr></tbody></table>
+        I
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p>1</p></td></tr></tbody></table>
+        1
 
-        <table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>R$ 1.330,65</span></p></td></tr></tbody></table>
+        R$ 1.330,65
 
                                        ” **(NR)**
-
-        <br>

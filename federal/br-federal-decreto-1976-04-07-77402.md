@@ -1,5 +1,3 @@
-###DEC-077402-0-000-07-04-1976@@@
-
 DECRETO Nº 77.402 - DE 7 DE ABRIL DE 1976
 
 Concede autorização à S.A. Indústrias Reunidas F. Matarazzo, com sede em São Paulo, para funcionar aos domingos e feriados civis e religiosos, no setor industrial que menciona.

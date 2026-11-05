@@ -1,12 +1,10 @@
-###LEI-000816-0-000-09-09-1949@@@
+**LEI Nº 816, DE 9 DE SETEMBRO DE 1949**
 
-<strong>LEI Nº 816, DE 9 DE SETEMBRO DE 1949</strong>
+***Dá nova redação aos artigos 132 e 134, do Decreto-lei nº 5.452, de 1º de maio de 1943.***
 
-<em><strong>Dá nova redação aos artigos 132 e 134, do Decreto-lei nº 5.452, de 1º de maio de 1943.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
-
-<strong>Art</strong>. 1º Os artigos 132 e 134 do Decreto-lei nº 5.452, de 1º de maio de 1943, passam a ter esta redação:
+**Art**. 1º Os artigos 132 e 134 do Decreto-lei nº 5.452, de 1º de maio de 1943, passam a ter esta redação:
 
 “Art. 132. Os empregados terão direito a férias, depois de cada período de doze meses, a que alude o artigo 130, na seguinte proporção:
 
@@ -32,12 +30,12 @@ d) o tempo de suspensão por motivo de inquérito administrativo, quando o mesmo
 
 e) a ausência na hipótese do artigo 473 e seus parágrafos;
 
-f) os dias em que, por conveniência da emprêsa, não tenha havido trabalho, excetuada a hipótese da alínea <em>c</em>, do artigo 133".
+f) os dias em que, por conveniência da emprêsa, não tenha havido trabalho, excetuada a hipótese da alínea *c*, do artigo 133".
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de janeiro, 9 de setembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Honório Monteiro

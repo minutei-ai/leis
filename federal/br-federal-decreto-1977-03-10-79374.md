@@ -1,5 +1,3 @@
-###DEC-079374-0-000-10-03-1977@@@
-
 DECRETO Nº 79.374, DE 10 DE MARÇO DE 1977.
 
 Concede reconhecimento ao curso de Tecnólogo em Programação Econômica e Planejamento Administrativo da Universidade Federal do Piauí, com sede na cidade de Teresina, Estado do Piauí.

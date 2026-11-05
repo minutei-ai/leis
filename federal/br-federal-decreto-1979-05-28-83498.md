@@ -1,5 +1,3 @@
-###DEC-083498-0-000-28-05-1979@@@
-
 Decreto nº 83.498, de 28 de maio de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-074707-0-000-17-10-1974@@@
-
 DECRETO Nº 74.707, DE 17 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento do curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Catanduva, Estado de São Paulo.

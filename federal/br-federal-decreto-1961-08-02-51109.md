@@ -1,5 +1,3 @@
-###DEC-051109-0-000-02-08-1961@@@
-
 DECRETO Nº 51.109, DE 2 DE AGÔSTO DE 1961.
 
 Autoriza Mineração Geral do Brasil Ltda. a lavrar calcário, no município de Prados, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-058458-0-000-17-05-1966@@@
-
 DECRETO Nº 58.458, DE 17 DE MAIO DE 1966.
 
 Concede autorização para funcionar, como emprêsa de energia elétrica, à Termoelétrica de Alegrete S.A.

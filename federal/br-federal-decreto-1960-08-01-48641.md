@@ -1,5 +1,3 @@
-###DEC-048641-0-000-01-08-1960@@@
-
 DECRETO Nº 48.641, DE 1 DE AGÔSTO DE 1960.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$3.000.000,00, para auxiliar a restauração da Matriz de Nossa Senhora de Loreto, em Jacarepaguá, na cidade do Rio de Janeiro.

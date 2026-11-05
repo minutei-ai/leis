@@ -1,5 +1,3 @@
-###DEC-057463-0-000-20-12-1965@@@
-
 DECRETO Nº 57.463, DE 20 DE DEZEMBRO DE 1965.
 
 Aprova a transformação de A Equitativa dos Estados Unidos do Brasil, Sociedade Mútua de Seguros Gerais em sociedade anônima, bem como seus Estatutos.

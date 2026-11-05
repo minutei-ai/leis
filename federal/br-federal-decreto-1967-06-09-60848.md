@@ -1,5 +1,3 @@
-###DEC-060848-0-000-09-06-1967@@@
-
 Decreto nº 60.848, de 9 de junho de 1967.
 
 Cria Grupo de Trabalho para propor medidas relativas às normas sôbre energia elétrica e à utilização da tarifa como instrumento de promoção do desenvolvimento.

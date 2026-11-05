@@ -1,5 +1,3 @@
-###DEL-006915-0-000-02-10-1944@@@
-
 DECRETO-LEI N. 6.915 – DE 2 DE OUTUBRO DE 1944
 
 Manda incorporar ao Patrimônio Nacional patentes de invenção, modelos de utilidade, desenho ou modelos industriais, marcas de indústria e de comércio, títulos de estabelecimento, insígnias e frases de propaganda pertencentes a súditos de países inimigos, domiciliados no estrangeiro

@@ -1,5 +1,3 @@
-###DEC-045423-0-000-12-02-1959@@@
-
 Decreto nº 45.423, de 12 de fevereiro de 1959.
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$16.000.000.000,00 para os fins que especifica.

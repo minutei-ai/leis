@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209835)<br>
-
 # DECRETO N° 68.767, DE 12 DE AGOSTO DE 2024
 
 ### _Declara luto oficial no Estado, por 3 (três) dias, pelo falecimento do economista Antônio Delfim Netto._

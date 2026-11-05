@@ -1,5 +1,3 @@
-###DEL-001423-0-000-23-10-1975@@@
-
 # DECRETO-LEI Nº 1.423, DE 23 DE OUTUBRO DE 1975
 
 Prorroga a vigência de estímulos à exportação de produtos manufaturados.

@@ -1,5 +1,3 @@
-###DEC-086696-0-000-07-12-1981@@@
-
 Decreto nº 86.696, de 07 de dezembro de 1981
 
 Altera o art. 1º do Decreto nº 84.605, de 31 de março de 1980, que dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Vila Bela da Santíssima Trindade, Estado de Mato Grosso, e dá outras providências.

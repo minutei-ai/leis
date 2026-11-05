@@ -1,5 +1,3 @@
-###MPV-002032-0-026-25-08-2000@@@5
-
 MEDIDA PROVISÓRIA Nº 2.032-26, DE 25 DE agosto DE 2000.
 
 Autorizo o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Refinanciamento da Divida Mobiliária Federal - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$68.383.840.000,00, para reforço de dotações consignadas no vigente orçamento.

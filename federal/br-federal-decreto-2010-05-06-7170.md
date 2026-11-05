@@ -1,5 +1,3 @@
-###DEC-007170-0-000-06-05-2010@@@
-
 DECRETO Nº 7.170, DE 6 DE MAIO DE 2010.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República do Paraguai para o Desenvolvimento Sustentável e a Gestão Integrada da Bacia Hidrográfica do Rio Apa, firmado em Brasília, em 11 de setembro de 2006

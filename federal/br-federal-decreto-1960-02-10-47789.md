@@ -1,5 +1,3 @@
-###DEC-047789-0-000-10-02-1960@@@
-
 DECRETO Nº 47.789, DE 10 DE FEVEREIRO DE 1960.
 
 Autoriza a Rio Light S. A.- Serviços de Eletricidade e Carris a ampliar seu sistema de transmissão de energia elétrica no Estado do Rio de Janeiro, município de Barra do Piraí e Marquês de Valença.

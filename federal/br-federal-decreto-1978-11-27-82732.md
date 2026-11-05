@@ -1,5 +1,3 @@
-###DEC-082732-0-000-27-11-1978@@@
-
 Decreto nº 82.732, de 27 de novembro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Bráulio Carsalade pelo Decreto nº 18.828, de 07 de junho de 1945.

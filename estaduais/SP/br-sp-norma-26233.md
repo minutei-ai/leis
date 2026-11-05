@@ -1,17 +1,25 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=26233)
-
 # LEI Nº 5.657, DE 30 DE ABRIL DE 1987
 
 ### _Dá a denominação de "Prof. João Pessoa Maschietto'' à Escola Estadual de 1.° Grau do Jardim Itamarati, em Mogi Guaçu_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Passa a denominar-se "Prof. João Pessoa Maschietto" a Escola Estadual de 1.° Grau do Jardim Itamarati, em Mogi Guaçu.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 30 de abril de 1987.<br>
-ORESTES QUÉRCIA<br>
-Chopin Tavares de Lima<br>
-Secretário da Educação<br>
-Antônio Carlos Mesquita<br>
-Secretário do Governo<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Passa a denominar-se "Prof. João Pessoa Maschietto" a Escola Estadual de 1.° Grau do Jardim Itamarati, em Mogi Guaçu.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 30 de abril de 1987.
+
+ORESTES QUÉRCIA
+
+Chopin Tavares de Lima
+
+Secretário da Educação
+
+Antônio Carlos Mesquita
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico Legislativa, aos 30 de abril de 1987.

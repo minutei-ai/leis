@@ -1,5 +1,3 @@
-###DEC-061647-0-000-07-11-1967@@@
-
 DECRETO Nº 61.647, DE 7 DE NOVEMBRO DE 1967.
 
 Altera o art. 8º do Decreto número 60.731, de 19 de maio de 1967.

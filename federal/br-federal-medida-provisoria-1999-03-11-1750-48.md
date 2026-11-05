@@ -1,5 +1,3 @@
-###MPV-001750-0-048-11-03-1999@@@
-
 meDIDA PRovisóRiA Nº 1.750-48, DE 11 DE MARÇO DE 1999
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

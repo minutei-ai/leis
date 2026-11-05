@@ -1,5 +1,3 @@
-###DEC-079603-0-000-27-04-1977@@@
-
 DECRETO Nº 79.603, DE 27 DE ABRIL DE 1977.
 
 Cria o Vice-Consulado em Valletta.

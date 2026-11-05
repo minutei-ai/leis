@@ -1,5 +1,3 @@
-###DEC-070574-0-000-22-05-1972@@@
-
 DECRETO Nº 50.574, DE 22 DE MAIO DE 1972.
 
 Declara de utilidade pública para fins de constituição de servidão ou desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, áreas de terras e benfeitorias, situadas no Município de Aracaju, Estado de Sergipe.

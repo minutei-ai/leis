@@ -1,5 +1,3 @@
-###DEC-048258-0-000-02-06-1960@@@
-
 DECRETO Nº 48.258, DE 2 DE JUNHO DE 1960.
 
 Declara de utilidade pública, para fins da desapropriação pelo Departamento Nacional de Estradas de Rodagem, o imóvel situado no município de São Leopoldo, estado do Rio Grande do Sul, necessário à instalação dos serviços de conservação no subtrecho Pôrto Alegre - Picada do café (km. 56 da BR-2 - R. S.).

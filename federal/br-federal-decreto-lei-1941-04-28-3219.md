@@ -1,5 +1,3 @@
-###DEL-003219-0-000-28-04-1941@@@
-
 DECRETO-LEI N. 3.219 – DE 28 DE ABRIL DE 1941
 
 Cria a função gratificada de Diretor da Secretaria do Tribunal de Contas da Prefeitura do Distrito Federal

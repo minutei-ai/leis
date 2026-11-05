@@ -1,5 +1,3 @@
-###DEC-093173-0-000-26-08-1986@@@
-
 DECRETO Nº 93.173, DE 26 DE AGOSTO DE 1986
 
 Autoriza o funcionamento do curso de Filosofia do Centro de Estudos de Comportamento Humano.

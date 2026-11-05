@@ -1,5 +1,3 @@
-###DEC-075042-0-000-05-12-1974@@@
-
 DECRETO Nº 75.042, DE 5 DE DEZEMBRO DE 1974.
 
 Outorga concessão à Rádio Salamanca de Barbalha S.A., para estabelecer uma estação de radiodifusão sonora em onda média, na cidade de Barbalha, Estado do Ceará.

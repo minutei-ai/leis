@@ -39,7 +39,3 @@ Art. 5º - Este decreto-lei entrará em vigor na data de sua publicação, revog
 Palácio do Governo, em Aimorés, 12 de julho de 1947.
 
 Milton Soares Campos - Governador do Estado
-
-\================================================================
-
-Data da última atualização: 05/09/2006.

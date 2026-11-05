@@ -1,5 +1,3 @@
-###DEC-067136-0-000-03-09-1970@@@
-
 DECRETO Nº 67.136, DE 3 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto nº 12.474, de 27 de maio de 1943.

@@ -1,5 +1,3 @@
-###DEC-052225-0-000-02-07-1963@@@
-
 decreto nº 52.225, de 2 de julho de 1963.
 
 Autoriza a aceitação, para efeito de incorporação ao patrimônio da União Federal, do imóvel que menciona, no Estado de Goiás.

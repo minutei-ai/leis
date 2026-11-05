@@ -1,5 +1,3 @@
-###DEC-074788-0-000-30-10-1974@@@
-
 DECRETO Nº 74.788, DE 30 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Difusora Rádio Cultura, cuja denominação foi alterada para Sociedade Difusora Rádio Cultura Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito Regional, na cidade de Pelotas, Estado do Rio Grande do Sul.

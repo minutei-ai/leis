@@ -1,5 +1,3 @@
-###DEC-003672-0-000-28-11-2000@@@
-
 DECRETO Nº 3.672, DE 28 DE NOVEMBRO DE 2000
 
 Prorroga o prazo estabelecido no art. 1º, do Decreto nº 3.470, de 18 de maio de 2000.

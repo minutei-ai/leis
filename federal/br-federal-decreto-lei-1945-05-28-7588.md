@@ -1,5 +1,3 @@
-###DEL-007588-0-000-28-05-1945@@@
-
 DECRETO-LEI N. 7.588 – DE 28 DE MAIO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Agricultura

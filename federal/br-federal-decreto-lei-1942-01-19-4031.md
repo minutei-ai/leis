@@ -1,5 +1,3 @@
-###DEL-004031-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.031 – DE 19 DE JANEIRO DE 1942
 
 Cria a Artilharia Divisionária da 7ª Região Militar com sede em Recife

@@ -1,5 +1,3 @@
-###DEL-006608-0-000-21-06-1944@@@
-
 DECRETO-LEI N. 6.608 – DE 21 DE JUNHO DE 1944
 
 Modifica o Decreto-lei n. 1.393, de 29 de junho de 1939, que dispõe sôbre a organização do Tribunal de Segurança Nacional

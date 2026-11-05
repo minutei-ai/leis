@@ -1,5 +1,3 @@
-###DEC-093029-0-000-27-07-1986@@@
-
 DECRETO Nº 93.029, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, objetivando a reforma agrária, os imóveis rurais denominados Fazenda Alvorada e Fazenda Santa Fé, no Município de Arapoema, Estado de Goiás, incluídos na área prioritária criada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054849-0-000-03-11-1964@@@
-
 decreto nº 54.849, de 3 de novembro de 1964.
 
 Autoriza a Companhia de Mineração Serra da Moeda a pesquisar dolomita, calcário, minério de ferro e de manganês, nos municípios de Ouro Prêto e Ouro Branco, no Estado de Minas Gerais.

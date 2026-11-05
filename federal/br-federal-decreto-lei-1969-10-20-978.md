@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7fcdea3e-e54d-4ad4-9bd5-e8e45b5d3cf4/texto#nowhere)
 
-###DEL-000978-0-000-20-10-1969@@@
-
 DECreto-LEI Nº 978, DE 20 DE OUTUBRO DE 1969
 
 Provê sôbre a utilização de imóvel de propriedade da União, para fins educacionais.

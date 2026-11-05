@@ -1,5 +1,3 @@
-###DEC-057718-0-000-02-02-1966@@@
-
 DECRETO Nº 57.718, de 2 de Fevereiro de 1966.
 
 Autoriza o cidadão brasileiro Luiz Palhato a pesquisar calcário, no município Guapiara, Estado de São Paulo.

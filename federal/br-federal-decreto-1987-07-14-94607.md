@@ -1,5 +1,3 @@
-###DEC-094607-0-000-14-07-1987@@@
-
 DECRETO N° 94.607, DE 14 DE JULHO DE 1987
 
 Declara de ocupação dos indígenas Kaimbé área de terras no Município de Euclides da Cunha, Estado da Bahia, e dá outras providências.

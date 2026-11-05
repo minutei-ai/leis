@@ -1,5 +1,3 @@
-###DEL-001448-0-000-13-02-1976@@@
-
 # DECRETO-LEI Nº 1.448, DE 13 DE FEVEREIRO DE 1976
 
 Fixa o valor do soldo base do cálculo da remuneração dos Militares.

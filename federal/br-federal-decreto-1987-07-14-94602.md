@@ -1,5 +1,3 @@
-###DEC-094602-0-000-14-07-1987@@@
-
 DECRETO Nº 94.602, DE 14 DE JULHO DE 1987
 
 Declara de ocupação dos índios Apiaká e Kayabi área de terras no Município de Juara, no Estado de Mato Grosso, e dá outras providências.

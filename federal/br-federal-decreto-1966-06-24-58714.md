@@ -1,5 +1,3 @@
-###DEC-058714-0-000-24-06-1966@@@
-
 DECRETO Nº 58.714, DE 24 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Guilhermino de Freitas Jatobá a pesquisar mármore no município de Juazeiro, no Estado da Bahia.

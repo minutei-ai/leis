@@ -1,5 +1,3 @@
-###DEC-096586-0-000-25-08-1988@@@
-
 DECRETO N° 96.586, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão à EMISSORA DO PLANALTO LIMITADA, para explorar serviço de radiodifusão sonora em onda média, na Cidade de Paulínea, Estado de São Paulo.

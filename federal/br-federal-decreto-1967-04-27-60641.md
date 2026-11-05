@@ -1,5 +1,3 @@
-###DEC-060641-0-000-27-04-1967@@@
-
 DECRETO Nº 60.641, DE 27 DE ABRIL DE 1967.
 
 Autoriza promoção no Corpo do Pessoal Subalterno da Aeronáutica.

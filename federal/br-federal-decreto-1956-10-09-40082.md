@@ -1,14 +1,12 @@
-###DEC-040082-0-000-09-10-1956@@@
+**DECRETO Nº 40.082, DE 9 DE OUTUBRO DE 1956.**
 
-<strong>DECRETO Nº 40.082, DE 9 DE OUTUBRO DE 1956.</strong>
+***Declara de utilidade pública as áreas de terra compreendidas no plano de aproveitamento de energia hidráulica existente no Rio Grande, entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de Desemboque, no Estado de Minas Gerais, e autoriza a Companhia Paulista de Fôrça e Luz, sociedade anônima, com sede nesta Capital, a promover a respectiva desapropriação.***
 
-<em><strong>Declara de utilidade pública as áreas de terra compreendidas no plano de aproveitamento de energia hidráulica existente no Rio Grande, entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de Desemboque, no Estado de Minas Gerais, e autoriza a Companhia Paulista de Fôrça e Luz, sociedade anônima, com sede nesta Capital, a promover a respectiva desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e atendendo ao que dispõe o Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e atendendo ao que dispõe o Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidades públicas seguintes áreas de terra necessárias à realização das obras do aproveitamento de energia hidráulica existente no Rio Grande de conformidade com o Decreto número 31.132, de 11 de julho de 1952:
+**Art**. 1º Ficam declaradas de utilidades públicas seguintes áreas de terra necessárias à realização das obras do aproveitamento de energia hidráulica existente no Rio Grande de conformidade com o Decreto número 31.132, de 11 de julho de 1952:
 
 Gleba nº 1 - Área de quarenta e oito mil setecentos e cinqüenta (48.750) metros quadrados, constituindo a ilha denominada do “Pavão”, situada no Rio Grande, fronteira aos municípios de Delfinópolis e Cássia, distritos dos mesmos nomes, de propriedade atribuída a Pedro Salles.
 
@@ -98,16 +96,16 @@ Gleba nº 43 - Áreas de duzentos e cinqüenta e seis mil e quatrocentos (256.40
 
 Parágrafo único. As glebas anteriormente discriminadas estão indicadas nas plantas aprovadas pelo Ministro da Agricultura constantes do processo Divisão de Águas número 4 947-55.
 
-<strong>Art</strong>. 2º A Companhia Paulista de Fôrça e Luz, sociedade anônima, fica autorizada a promover a desapropriação das referidas áreas de terra na forma da legislação vigente.
+**Art**. 2º A Companhia Paulista de Fôrça e Luz, sociedade anônima, fica autorizada a promover a desapropriação das referidas áreas de terra na forma da legislação vigente.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pela Lei nº 2.786, de 21 de maio de 1956.
 
-<strong>Art</strong>. 4º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 9 de outubro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

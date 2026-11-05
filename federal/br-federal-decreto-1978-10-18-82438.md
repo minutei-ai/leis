@@ -1,5 +1,3 @@
-###DEC-082438-0-000-18-10-1978@@@
-
 Decreto nº 82.438, de 18 de outubro de 1978.
 
 Promulga o Acordo de Comércio e Pagamentos Brasil-Iugoslávia.

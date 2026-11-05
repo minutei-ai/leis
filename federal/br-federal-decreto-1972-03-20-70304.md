@@ -1,5 +1,3 @@
-###DEC-070304-0-000-20-03-1972@@@
-
 DECRETO Nº 70.304, DE 20 DE MARÇO E 1972.
 
 Altera a RUMAER, aprovado pelo Decreto número 41.660, de 7 de junho de 1957.

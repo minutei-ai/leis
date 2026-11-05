@@ -1,7 +1,3 @@
-1
-
-###DEC-099205-0-000-06-04-1990@@@
-
 DECRETO Nº 99.205, DE 6 DE ABRIL DE 1990
 
 Fixa Quadro de Distribuição do Grupo‑Direção e Assessoramento Superiores (DAS) no Ministério das Relações Exteriores.
@@ -63,8 +59,6 @@ Inspetoria-Geral do Serviço Exterior
 Consultoria Jurídica
 
  Consultor Jurídico      5  1
-
-<br>
 
                   Código Nº de Cargos
 
@@ -137,8 +131,6 @@ Divisão da América Meridiona - I
  Chefe        4  1
 
  Assessor       2  1
-
-<br>
 
                   Código Nº de Cargos
 
@@ -216,8 +208,6 @@ Divisão da África - II
 
  Assessor       2  1
 
-<br>
-
                   Código Nº de Cargos
 
 Ministério das Relações Exteriores    DAS Funções DAS
@@ -291,8 +281,6 @@ Departamento de Tem as Especiais
  Chefe        5  1
 
  Assessor       2  1
-
-<br>
 
                   Código Nº de Cargos
 
@@ -368,8 +356,6 @@ Divisão de Produtos de Base
 
  Assessor       2  1
 
-<br>
-
                   Código Nº de Cargos
 
 Ministério das Relações Exteriores    DAS Funções DAS
@@ -441,8 +427,6 @@ Divisão de Ciência e Tecnologia
 Divisão de Cooperação Técnica
 
  Chefe        4  1
-
-<br>
 
                   Código Nº de Cargos
 
@@ -516,8 +500,6 @@ Departamento do Serviço Exterior
 
  Assessor       2  1
 
-<br>
-
                   Código Nº de Cargos
 
 Ministério das Relações Exteriores    DAS Funções DAS
@@ -589,8 +571,6 @@ Divisão de Arquivo
  Chefe        4  1
 
  Assessor       2  1
-
-<br>
 
                   Código Nº de Cargos
 

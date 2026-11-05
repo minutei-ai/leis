@@ -1,5 +1,3 @@
-###DEC-071831-0-000-08-02-1973@@@
-
 DECRETO Nº 71.831, DE 8 DE FEVEREIRO DE 1973.
 
 Confisca bens da senhora Carmelita da Silva Braga, domiciliada no Estado de Mato Grosso, para a reparação de danos causados ao patrimônio público, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008613-0-000-09-01-1946@@@
-
 DECRETO-LEI N. 8.613 – DE 9 DE JANEIRO DE 1946
 
 Altera carreiras no Quadro Permanente do Ministério da Agricultura.

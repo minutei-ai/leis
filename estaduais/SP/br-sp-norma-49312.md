@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49312)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2004/compilacao-lei-11658-13.01.2004.html)
 
 # LEI Nº 11.658, DE 13 DE JANEIRO DE 2004
@@ -9,16 +8,26 @@
 
 ### _Institui o "Dia dos Heróis MMDCA", a ser comemorado, anualmente, no dia 23 de maio_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1º -** Fica instituído o "Dia dos Heróis MMDCA", a ser comemorado, anualmente, no dia 23 de maio.<br>
-**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 13 de janeiro de 2004.<br>
-GERALDO ALCKMIN<br>
-Cláudia Maria Costin<br>
-Secretária da Cultura<br>
-Arnaldo Madeira<br>
-Secretário - Chefe da Casa Civil<br>
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1º -** Fica instituído o "Dia dos Heróis MMDCA", a ser comemorado, anualmente, no dia 23 de maio.
+
+**Artigo 2º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 13 de janeiro de 2004.
+
+GERALDO ALCKMIN
+
+Cláudia Maria Costin
+
+Secretária da Cultura
+
+Arnaldo Madeira
+
+Secretário - Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 13 de janeiro de 2004.~~
 
 _\- Revogada pela [Lei nº 13.840, de 01/12/2009](http://www.al.sp.gov.br/norma?id=158495)._

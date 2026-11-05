@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212260)<br>
-
 # DECRETO N° 70.398, DE 24 DE FEVEREIRO DE 2026
 
 ### _Acrescenta dispositivo ao Decreto n° 48.898, de 27 de agosto de 2004, que aprova o Plano de Classificação e a Tabela de Temporalidade de Documentos da Administração Pública do Estado de São Paulo: Atividades - Meio._

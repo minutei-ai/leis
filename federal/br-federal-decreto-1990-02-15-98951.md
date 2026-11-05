@@ -1,7 +1,3 @@
-1
-
-###DEC-098951-0-000-15-02-1990@@@
-
 DECRETO N° 98.951, DE 15 DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à RAULAND PUBLICIDADE E NEGÓCIOS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Castanhal, Estado do Pará.

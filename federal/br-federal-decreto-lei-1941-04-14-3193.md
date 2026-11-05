@@ -1,5 +1,3 @@
-###DEL-003193-0-000-14-04-1941@@@
-
 DECRETO-LEI N. 3.193 – DE 14 DE ABRIL DE 1941
 
 Altera a redação do art. 4º do decreto-lei n. 2.028, de 22 fevereiro de 1940.

@@ -1,5 +1,3 @@
-###DEC-057917-0-000-04-03-1966@@@
-
 DECRETO Nº 57.917, DE 4 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Benjamim Carmo Ribeiro a pesquisar calcário, no município de Pedro Leopoldo, Estado de Minas Gerais.

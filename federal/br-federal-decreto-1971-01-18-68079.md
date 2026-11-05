@@ -1,5 +1,3 @@
-###DEC-068079-0-000-18-01-1971@@@
-
 DECRETO Nº 68.079, de 18 de Janeiro de 1971.
 
 Autoriza a cessão, nas condições que menciona, do terreno integrante do imóvel situado no Caminho do Itararé nº 161, do Estado da Guanabara.

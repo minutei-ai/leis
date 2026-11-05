@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69355)
-
 # LEI Nº 12.466, DE 22 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 730/2005, do Deputado Afanasio Jazadji - PFL)

@@ -1,5 +1,3 @@
-###DEC-091339-0-000-18-06-1985@@@
-
 Decreto nº 91.339, de 18 de junho de 1985
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Enseada, da ELETROPAULO-Eletricidade de São Paulo S.A., no Estado de São Paulo.

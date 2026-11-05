@@ -1,5 +1,3 @@
-###DEC-049791-0-000-31-12-1960@@@
-
 DECRETO Nº 49.791, DE 31 DE DEZEMBRO DE 1960.
 
 Concede à São Carlos de Minérios S.A. autorização para funcionar como emprêsa de mineração.

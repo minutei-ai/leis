@@ -32,5 +32,6 @@ Art. 3º. Esta Lei entra em vigor na data de sua publicação e retroagirá seu
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA – aos 16 de Maio de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

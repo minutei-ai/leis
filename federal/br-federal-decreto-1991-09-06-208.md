@@ -1,5 +1,3 @@
-###DEC-000208-0-000-06-09-1991@@@
-
 DECRETO Nº 208, DE 6 DE SETEMBRO DE 1991
 
 Dá nova redação ao art. 27 do Decreto nº 92.435, de 3 de março de 1986, que dispõe sobre a Estrutura Básica da Secretaria Executiva da Superintendência do Desenvolvimento do Nordeste - SUDENE.

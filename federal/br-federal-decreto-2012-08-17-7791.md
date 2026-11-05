@@ -1,5 +1,3 @@
-###DEC-007791-0-000-17-08-2012-PUB-01@@@
-
 DECRETO Nº  7.791, DE 17 DE AGOSTO DE 2012
 
 Regulamenta a compensação fiscal na apuração o Imposto sobre a Renda da Pessoa Jurídica - IRPJ pela divulgação gratuita da propaganda partidária e eleitoral, de plebiscitos e referendos.

@@ -1,5 +1,3 @@
-###DEL-009709-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.709 – DE 3 DE SETEMBRO DE 1946
 
 Altera a tabela III, que acompanha o Decreto-lei nº 8.512, de 31 de Dezembro de 1945.

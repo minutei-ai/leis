@@ -1,5 +1,3 @@
-###DEL-005834-0-000-20-09-1943@@@
-
 DECRETO‑LEI N. 5.834 – DE 20 DE SETEMBRO DE 1943
 
 Altera a carreira de Inspetor de Alunos, do Quadro Suplementar do Ministério da Guerra

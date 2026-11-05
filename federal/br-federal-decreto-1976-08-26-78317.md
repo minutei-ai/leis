@@ -1,5 +1,3 @@
-###DEC-078317-0-000-26-08-1976@@@
-
 Decreto nº 78.317, de 26 de agosto de 1976.
 
 Concede reconhecimento ao curso de Psicologia da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-064320-0-000-07-04-1969@@@
-
 DECRETO Nº 64.320, DE 7 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 33.415, de 29 de julho de 1953.

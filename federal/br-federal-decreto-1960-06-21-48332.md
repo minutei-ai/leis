@@ -1,5 +1,3 @@
-###DEC-048332-0-000-21-06-1960@@@
-
 DECRETO Nº 48.332, DE 21 DE JUNHO DE 1960.
 
 Autoriza a Siderúrgica Pinheiros Ltda. a pesquisar minério de fero no município de Cláudio, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-054950-0-000-06-11-1964@@@
-
 Decreto nº 54.950, de 6 de novembro de 1964.
 
 Declara de utilidade pública, par fins de desapropriação, pelo Ministério da Agricultura, a área de terreno que menciona, situada em Samaritá, Município de São Vicente, Santos, Estado de São Paulo e destinada à instalação e funcionamento de um Quarentenário Veterinário.

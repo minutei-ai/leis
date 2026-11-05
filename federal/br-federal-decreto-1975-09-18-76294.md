@@ -1,5 +1,3 @@
-###DEC-076294-0-000-18-09-1975@@@
-
 DECRETO Nº 76.294 - DE 18 DE SETEMBRO DE 1975
 
 Introduz alterações no Plano Geral de Convocação para o Serviço Militar nas Forças Armadas em 1976 - aprovado pelo Decreto nº 75.901, de 24 de junho de 1975.

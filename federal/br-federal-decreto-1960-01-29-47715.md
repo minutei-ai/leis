@@ -1,5 +1,3 @@
-###DEC-047715-0-000-29-01-1960@@@
-
 DECRETO Nº 47.715, 29 DE JANEIRO DE 1960.
 
 Renova o Decreto nº 42.297, de 20 de setembro de 1957.

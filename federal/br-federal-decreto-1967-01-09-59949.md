@@ -1,5 +1,3 @@
-###DEC-059949-0-000-09-01-1967@@@
-
 DECRETO Nº 59.949, DE 9 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Joaquim Martins Moreno a pesquisar minério de manganês no município de Caldas Novas, Estado de Goiás.

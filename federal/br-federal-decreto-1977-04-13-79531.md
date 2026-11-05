@@ -1,5 +1,3 @@
-###DEC-079531-0-000-13-04-1977@@@
-
 DECRETO Nº 79.531, de 13 de abril de 1977
 
 Dispõe sobre a Organização Básica do Ministério do Exército e dá outras providências.

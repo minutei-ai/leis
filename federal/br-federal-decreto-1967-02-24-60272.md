@@ -1,5 +1,3 @@
-###DEC-060272-0-000-24-02-1967@@@
-
 DECRETO Nº 60.272, DE 24 DE FEVEREIRO DE 1967.
 
 Acrescenta dispositivos ao Regulamento para o Corpo de Oficiais da Reserva do Exército, aprovado pelo Decreto n° 41.475, de 8 de maio de 1957.

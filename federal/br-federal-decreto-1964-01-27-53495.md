@@ -1,5 +1,3 @@
-###DEC-053495-0-000-27-01-1964@@@
-
 DECRETO Nº 53.495, DE 27 DE JANEIRO DE 1964.
 
 Altera o art. 82, alínea a), do Regulamento de Promoções para Oficiais da Marinha, aprovado pelo Decreto nº 42.808, de 13 de dezembro de 1957.

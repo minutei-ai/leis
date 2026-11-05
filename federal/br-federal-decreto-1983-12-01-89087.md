@@ -1,5 +1,3 @@
-###DEC-089087-0-000-01-12-1983@@@
-
 Decreto nº 89.087, de 01 de dezembro de 1983
 
 Altera dispositivos do Decreto nº 82.047, de 01 de agosto de 1978, que regulamenta, para a Aeronáutica, a Lei nº 5.821, de 10 de novembro de 1972.

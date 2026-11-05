@@ -1,5 +1,3 @@
-###DEC-053096-0-000-10-12-1963@@@
-
 DECRETO Nº 53.096, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto nº 49.318, de 22 de novembro de 1960.

@@ -1,5 +1,3 @@
-###DEC-059748-0-000-15-12-1966@@@
-
 DECRETO Nº 59.748, de 15 de dezembro de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, as áreas situadas no município de Itumbiara, Estado de Goiás, necessárias à bacia de acumulação do aproveitamento progressivo da energia hidráulica da Cachoeira Dourada, rio Paranaíba, entre os Estados de Goiás e Minas Gerais.

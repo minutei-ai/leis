@@ -1,5 +1,3 @@
-###DEC-005138-0-000-12-07-2004@@@
-
 DECRETO Nº 5.138, DE 12 DE JULHO DE 2004.
 
        Dá nova redação ao inciso I do art. 328 do Decreto no 4.543, de 26 de dezembro de 2002, que regulamenta a administração das atividades aduaneiras, e a fiscalização, o controle e a tributação das operações de comércio exterior.
@@ -20,5 +18,6 @@ b) às aeronaves, classificadas na posição 88.02 da Nomenclatura Comum do Mer
 
         Brasília, 12 de julho de 2004; 183º da Independência e 116º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Bernard Appy

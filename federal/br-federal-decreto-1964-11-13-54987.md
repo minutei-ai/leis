@@ -1,5 +1,3 @@
-###DEC-054987-0-000-13-11-1964@@@
-
 DECRETO Nº 54.987, DE 13 DE NOVEMBRO DE 1964.
 
 Retifica o art. 1º do Decreto número 32.059, de 7 de janeiro de 1953.

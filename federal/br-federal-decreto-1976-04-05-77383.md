@@ -1,5 +1,3 @@
-###DEC-077383-0-000-05-04-1976@@@
-
 DECRETO Nº 77.383 - DE 5 DE ABRIL DE 1976
 
 Cria o Consulado do Brasil em São Francisco

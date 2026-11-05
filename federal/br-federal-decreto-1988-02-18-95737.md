@@ -1,7 +1,3 @@
-1
-
-###DEC-095737-0-000-18-02-1988@@@
-
 DECRETO N° 95.737, DE 18 DE FEVEREIRO DE 1988
 
 Altera dispositivos do Regulamento da Ordem do Mérito Forças Armadas.

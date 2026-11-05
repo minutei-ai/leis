@@ -1,5 +1,3 @@
-###DEC-062554-0-000-16-04-1968@@@
-
 Decreto nº 62.554, de 16 de abril de 1968.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Nilo Peçanha até a tôrre número 16-A, da linha existente entre Vigário e Santa Cecília, no município de Piraí, no Estado do Rio de Janeiro.

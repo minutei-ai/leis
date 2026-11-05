@@ -1,5 +1,3 @@
-###DEL-004511-0-000-23-07-1942@@@
-
 DECRETO-LEI N. 4.511 – DE 23 DE JULHO DE 1942
 
 Autoriza a emissão de papel-moeda até 500.000:000$0

@@ -1,5 +1,3 @@
-###DEC-048366-0-000-22-06-1960@@@
-
 DECRETO Nº 48.366, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Alberto Cardia, a pesquisar feldspato no município de Monte Alegre do Sul, Estado de São Paulo.

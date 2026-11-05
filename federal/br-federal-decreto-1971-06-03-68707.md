@@ -1,5 +1,3 @@
-###DEC-068707-0-000-03-06-1971@@@
-
 DECRETO Nº 68.707 - de 3 de junho de 1971.
 
 Reconhece a existência do estado de calamidade pública no Município de Cachoeira do Sul, no Estado do Rio Grande do Sul, abre o crédito extraordinário de Cr$ 200.000,00, na forma que estabelece, e dá outras providências.

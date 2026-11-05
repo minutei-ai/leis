@@ -1,5 +1,3 @@
-###DEC-073520-0-000-21-01-1974@@@
-
 DECRETO Nº 73.520, DE 21 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto nº 55.351, de 31 de dezembro de 1964, através do qual foi concedido a Gheorghe Popescu o direito de lavrar areia quartzosa, nos Municípios de Peruibe e Itanhaém, Estado de São Paulo.

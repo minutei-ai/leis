@@ -1,5 +1,3 @@
-###DEC-048597-0-000-22-07-1960@@@
-
 DECRETO Nº 48.597, DE 22 DE JULHO DE 1960.
 
 Altera o Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

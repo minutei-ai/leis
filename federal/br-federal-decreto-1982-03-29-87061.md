@@ -1,5 +1,3 @@
-###DEC-087061-0-000-29-03-1982@@@
-
 Decreto nº 87.061, de 29 de março de 1982
 
 Declara de utilidade pública as instituições que menciona.

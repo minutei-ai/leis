@@ -1,5 +1,3 @@
-###DEC-093713-0-000-15-12-1986@@@
-
 DECRETO Nº 93.713, DE 15 DE DEZEMBRO DE 1986
 
 Delega competência a Ministro de Estado, para a prática dos atos que especifica.

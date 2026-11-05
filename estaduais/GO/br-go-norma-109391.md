@@ -50,7 +50,8 @@ Art. 2º Fica permitido o pagamento parcelado dos débitos relativos à implemen
 
 Art. 3º Aplicam-se os benefícios das Leis [nº 22.571](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108547) e [nº 22.572](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108546), ambas de 19 de março de 2024, na implementação das condições descumpridas indicadas nos incisos II ou III do _caput_ do art. 1º desta Lei, desde que o período seja abrangido pelo programa definido nas referidas leis e o pagamento seja feito conforme as demais regras estabelecidas.
 
-Art. 4º O contribuinte, para usufruir da convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal e da extinção de crédito tributário conexo, deve fazer sua adesão até 20 de dezembro de 2024.<br>
+Art. 4º O contribuinte, para usufruir da convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal e da extinção de crédito tributário conexo, deve fazer sua adesão até 20 de dezembro de 2024.
+
 \- [Redação dada pela Lei nº 23.036, de 25-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109756/lei-23036).
 
 ~~Art. 4º O contribuinte, para usufruir da convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal e da extinção de crédito tributário conexo, deve fazer adesão em até 90 (noventa) dias da data da publicação desta Lei.~~

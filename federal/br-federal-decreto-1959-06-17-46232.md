@@ -1,5 +1,3 @@
-###DEC-046232-0-000-17-06-1959@@@
-
 DECRETO Nº 46.232, DE 17 DE JUNHO DE 1959.
 
 Declara de utilidade pública, para fins de desaprovação 6 (seis) lotes de terreno, no Município e Cidade de Presidente Epitácio, Estado de São Paulo, para os fins que especifica.

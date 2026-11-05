@@ -1,5 +1,3 @@
-###DEC-072997-0-000-24-10-1973@@@
-
 DECRETO Nº 72.997, DE 24 DE OUTUBRO DE 1973.
 
 Muda a denominação de organização Militar e dá outras providências.

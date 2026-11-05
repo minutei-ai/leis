@@ -75,5 +75,3 @@ Cristiano Barreto Guimarães
 Secretário Especial de Governo
 
 Iniciativa do Deputado Neto Batalha - PSD
-
-Este texto não substitui o publicado no D.O.E. de 09.09.2026.

@@ -1,4 +1,5 @@
-_Publicado no DOE<br>
+_Publicado no DOE
+
 Em_ _13.02.2025_
 
 LEI Nº 14.826 DE 12 DE FEVEREIRO DE 2025
@@ -9,7 +10,7 @@ Declara de utilidade pública o Grupo de Acolhimento aos Presos e Egressos do No
 
 **Art. 1º** - Fica declarada de utilidade pública o Grupo de Acolhimento aos Presos e Egressos do Nordeste – GAPENE, com sede e foro no município de Salvador.
 
-**Art. 2º** **-** Esta Lei entra em vigor na data de sua publicação.
+**Art. 2º-** Esta Lei entra em vigor na data de sua publicação.
 
 GABINETE DA PRESIDÊNCIA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA, EM 12 DE FEVEREIRO DE 2025.
 

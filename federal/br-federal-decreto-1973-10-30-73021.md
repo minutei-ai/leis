@@ -1,5 +1,3 @@
-###DEC-073021-0-000-30-10-1973@@@
-
 DECRETO nº 73.021, DE 30 DE OUTUBRO DE 1973.
 
 Regulamenta o parágrafo 2º do artigo 4º, do Decreto-lei n.° 836, de 8 de setembro de 1969, e dá outras providências.

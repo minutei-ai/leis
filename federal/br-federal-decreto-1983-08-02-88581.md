@@ -1,5 +1,3 @@
-###DEC-088581-0-000-02-08-1983@@@
-
 Decreto nº 88.581, de 02 de agosto de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO RÁDIO RURAL, para explorar serviço de radiodifusão sonora em onda média, na cidade de Concórdia, Estado de Santa Catarina.

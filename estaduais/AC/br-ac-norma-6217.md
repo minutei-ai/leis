@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.588, de 24 de Março de 2025.](https://legis.ac.gov.b
 
 > **LEI Nº 4.434, DE 14 DE NOVEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a campanha estadual de conscientização e orientação do Lúpus Eritematoso Sistêmico - LES.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a campanha estadual de conscientização e orientação do Lúpus Eritematoso Sistêmico - LES.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -35,8 +39,6 @@ Modificada pela Lei nº [4.588, de 24 de Março de 2025.](https://legis.ac.gov.b
 **Art. 4º** O Poder Executivo poderá regulamentar esta lei estabelecendo as normas necessárias ao seu fiel cumprimento.
 
 **Art. 5º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 **Parágrafo único.** Fica suspensa a eficácia do art. 2º quanto à concessão de benefícios previdenciários e fiscais no âmbito da Administração Pública estadual até a edição da lei federal reconhecendo o LES como deficiência para todos os efeitos legais. (Incluído pela Lei nº 4.588, de 24/03/2025)
 

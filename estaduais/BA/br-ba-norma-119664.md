@@ -4,7 +4,8 @@ Reorganiza a Junta Comercial do Estado da Bahia - JUCEB e dá outras providênci
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA FINALIDADE E COMPETÊNCIA
 
 Art. 1º - A Junta Comercial do Estado da Bahia - JUCEB, criada pela [Lei Delegada nº 1, de 16 de outubro de 1968](https://www.legislabahia.ba.gov.br/documentos/ld-no-01-de-16-de-outubro-de-1968#LD_01) , autarquia vinculada à Secretaria da Indústria, Comércio e Mineração, com personalidade jurídica de direito público, autonomia administrativa e financeira e patrimônio próprio, tem por finalidade efetivar os serviços de Registro Público de Empresas Mercantis e Atividades Afins, consoante o disposto na Lei Federal nº 8.934, de 18 de novembro de 1994, regulamentada pelo Decreto nº 1.800, de 30 de janeiro de 1996, competindo-lhe:
@@ -33,7 +34,8 @@ Art. 2º - A JUCEB tem sede e foro na cidade do Salvador, capital do Estado, e c
 
 Art. 3º - A JUCEB gozará de todas as franquias, privilégios, imunidades e isenções concedidos aos órgãos da administração direta do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ESTRUTURA
 
 Art. 4º - A JUCEB tem a seguinte estrutura básica:
@@ -44,7 +46,8 @@ II - Plenário;
 
 III - Turmas.
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 DA PRESIDÊNCIA
 
 Art. 5º - A Presidência, com função diretiva e representativa, exercida pelo Presidente, é constituída por um conjunto de órgãos de planejamento, assessoramento, execução, avaliação e controle, tendo a seguinte organização:
@@ -73,17 +76,26 @@ V - Secretaria-Geral.
 
 § 7º - A fixação da estrutura interna de cada Unidade integrante da Presidência, bem como suas competências e atribuições dos seus respectivos titulares serão estabelecidas em Regimento a ser aprovado pelo Plenário e homologado pelo Governador do Estado."
 
-Redação do art. 5º de acordo com o [art. 1º da Lei nº 9.208 de 01 de setembro de 2004](https://www.legislabahia.ba.gov.br/documentos/lei-no-9208-de-01-de-setembro-de-2004#LO_9_208_Art__1) .<br>
-Redação original: "Art. 5º - A Presidência, com função diretiva e representativa, exercida pelo Presidente, é constituída por um conjunto de órgãos de planejamento, assessoramento, execução, avaliação e controle, tendo a seguinte organização:<br>
-I - Presidência;<br>
-II - Vice-Presidência;<br>
-III - Secretaria Geral;<br>
-IV - Procuradoria Jurídica; V - Assessoria Técnica;<br>
-VI - Coordenação de Modernização Administrativa;<br>
-VII - Diretoria de Registro Empresarial; VIII - Diretoria Administrativo-Financeira.<br>
+Redação do art. 5º de acordo com o [art. 1º da Lei nº 9.208 de 01 de setembro de 2004](https://www.legislabahia.ba.gov.br/documentos/lei-no-9208-de-01-de-setembro-de-2004#LO_9_208_Art__1) .
+
+Redação original: "Art. 5º - A Presidência, com função diretiva e representativa, exercida pelo Presidente, é constituída por um conjunto de órgãos de planejamento, assessoramento, execução, avaliação e controle, tendo a seguinte organização:
+
+I - Presidência;
+
+II - Vice-Presidência;
+
+III - Secretaria Geral;
+
+IV - Procuradoria Jurídica; V - Assessoria Técnica;
+
+VI - Coordenação de Modernização Administrativa;
+
+VII - Diretoria de Registro Empresarial; VIII - Diretoria Administrativo-Financeira.
+
 Parágrafo único - A fixação da estrutura interna de cada órgão integrante da Presidência, bem como suas competências e atribuições de seus respectivos titulares serão estabelecidas em regimento a ser aprovado pelo Plenário e homologado pelo Governador do Estado."
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 DO PLENÁRIO
 
 Art. 6º - O Plenário, órgão consultivo e de deliberação superior, é constituído de no máximo 20 (vinte) Vogais e respectivos suplentes, tendo a seguinte composição:
@@ -98,12 +110,14 @@ IV - 3 (três) Vogais e seus Suplentes, representantes das classes dos advogados
 
 Parágrafo único - Os Vogais e respectivos Suplentes, aludidos nos incisos I a IV, serão nomeados pelo Governador do Estado.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 DAS TURMAS
 
 Art. 7º - As Turmas, órgãos deliberativos inferiores, são constituídas de 03 (três) Vogais por Turma.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DAS RECEITAS
 
 Art. 8º - Constituem receitas da JUCEB:
@@ -124,7 +138,8 @@ VII - outras receitas eventuais ou extraordinárias que lhe sejam atribuídas.
 
 Art. 9º - Os recursos da JUCEB serão depositados no Banco do Estado da Bahia S/A - BANEB, salvo determinação em contrário expressa em contrato ou convênio.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO PATRIMÔNIO
 
 Art. 10 - Constituem patrimônio da JUCEB:
@@ -139,7 +154,8 @@ III - o que vier a ser constituído, na forma legal.
 
 § 2º - Em caso de extinção da JUCEB, os seus bens reverterão ao patrimônio do Estado da Bahia, salvo disposição em contrário expressa em lei.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO PESSOAL
 
 Art. 11 - O pessoal da JUCEB será regido pelo Estatuto dos Servidores Públicos Civis do Estado da Bahia, [Lei nº 6.677, de 26 de setembro de 1994](https://www.legislabahia.ba.gov.br/documentos/lei-no-6677-de-26-de-setembro-de-1994#LO_6_677) .
@@ -150,7 +166,8 @@ Art. 12 - O Presidente e o Vice-Presidente da JUCEB serão nomeados pelo Governa
 
 Parágrafo único - Os demais titulares dos cargos em comissão da JUCEB serão designados e dispensados mediante ato do seu Presidente, exceto o de Secretário Geral que, também, será da competência do Governador do Estado.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - Do total da arrecadação mensal proveniente da prestação de serviços pela entidade, poderá a JUCEB destinar até 30% (trinta por cento) para custeio de gratificação de incentivo à produtividade, a ser concedida aos servidores do seu quadro ou que estejam à sua disposição, segundo critérios a serem estabelecidos em Regulamento.
@@ -187,4 +204,116 @@ QUADRO DE CARGOS EM COMISSÃO DA
 
 JUNTA COMERCIAL DO ESTADO DA BAHIA - JUCEB
 
-<table style="width: 291.0pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="388" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 102.0pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">CARGO</p></td><td style="width: 85.5pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 103.5pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Presidente</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2A</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Vice-Presidente</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Secretário Geral</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Diretor</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Procurador Chefe</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Assessor Chefe</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Ouvidor</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Coordenador Técnico</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-2D</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Assessor Técnico</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Coordenador II</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Gerente</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Assessor Administrativo</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">04</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Coordenador III</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Secretário Administrativo I</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">07</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Coordenador IV</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">11</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Supervisor Regional</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">15</p></td></tr><tr><td style="width: 102.0pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Secretário Administrativo II</p></td><td style="width: 85.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-6</p></td><td style="width: 103.5pt; border: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">04</p></td></tr><tr><td style="width: 102.0pt; border: none; border-bottom: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="136"><p class="Tabela-Texto">Coordenador V</p></td><td style="width: 85.5pt; border: none; border-bottom: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="114"><p class="Tabela-Texto">DAI-6</p></td><td style="width: 103.5pt; border: none; border-bottom: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="138"><p class="Tabela-Texto">06</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Presidente
+
+DAS-2A
+
+01
+
+Vice-Presidente
+
+DAS-2B
+
+01
+
+Secretário Geral
+
+DAS-2C
+
+01
+
+Diretor
+
+DAS-2C
+
+02
+
+Procurador Chefe
+
+DAS-2C
+
+01
+
+Assessor Chefe
+
+DAS-2C
+
+01
+
+Ouvidor
+
+DAS-2C
+
+01
+
+Coordenador Técnico
+
+DAS-2D
+
+01
+
+Assessor Técnico
+
+DAS-3
+
+03
+
+Coordenador II
+
+DAS-3
+
+03
+
+Gerente
+
+DAS-3
+
+03
+
+Assessor Administrativo
+
+DAI-4
+
+04
+
+Coordenador III
+
+DAI-4
+
+03
+
+Secretário Administrativo I
+
+DAI-5
+
+07
+
+Coordenador IV
+
+DAI-5
+
+11
+
+Supervisor Regional
+
+DAI-5
+
+15
+
+Secretário Administrativo II
+
+DAI-6
+
+04
+
+Coordenador V
+
+DAI-6
+
+06

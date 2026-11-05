@@ -1,5 +1,3 @@
-###MPV-000471-0-000-20-11-2009@@@
-
 MEDIDA PROVISÓRIA Nº 471, DE 20 DE NOVEMBRO DE 2009.
 
 Altera as Leis nos 9.440, de 14 de março de 1997, e 9.826, de 23 de agosto de 1999, que estabelecem incentivos fiscais para o desenvolvimento regional.

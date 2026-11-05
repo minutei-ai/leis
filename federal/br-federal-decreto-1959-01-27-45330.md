@@ -1,5 +1,3 @@
-###DEC-045330-0-000-27-01-1959@@@
-
 Decreto nº 45.330, de 27 de janeiro de 1959.
 
 Concede à Itaminas Comércio de Minérios Ltda, autorização para funcionar com emprêsa de mineração.

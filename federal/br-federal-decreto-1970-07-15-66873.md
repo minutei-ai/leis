@@ -1,5 +1,3 @@
-###DEC-066873-0-000-15-07-1970@@@
-
 DECRETO Nº 66.873, DE 15 DE JULHO DE 1970.
 
 Dá nova redação ao artigo 6º do Regulamento para a Diretoria do Pessoal Civil da Marinha, transforma cargo em comissão e funções gratificadas em cargo em  comissão e dá outras providências.

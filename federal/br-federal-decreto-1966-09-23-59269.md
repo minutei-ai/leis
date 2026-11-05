@@ -1,5 +1,3 @@
-###DEC-059269-0-000-23-09-1966@@@
-
 DECRETO Nº 59.269, DE 23 DE SETEMBRO DE 1966.
 
 Cria funções gratificadas na Parte Permanente do Quadro de Pessoal do Ministério da Aeronáutica.

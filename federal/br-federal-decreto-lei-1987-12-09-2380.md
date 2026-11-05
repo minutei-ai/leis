@@ -1,7 +1,3 @@
-1
-
-###DEL-002380-0-000-09-12-1987@@@
-
 # DECRETO-LEI Nº 2.380, DE 9 DE DEZEMBRO DE 1987.
 
 Altera a Tabela de Escalonamento Vertical de que trata o art. 1º do Decreto-lei nº 1.447, de 13 de fevereiro de 1976, e dá outras providências.

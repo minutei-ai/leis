@@ -1,5 +1,3 @@
-###DEC-050593-0-000-15-05-1961@@@
-
 DECRETO Nº 50.593, DE 15 DE MAIO DE 1961.
 
 Fixa as gratificações de representação a que se refere o art. 100, parágrafo único da Lei nº 3.807-60 e dá outras providências.

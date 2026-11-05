@@ -1,5 +1,3 @@
-###DEC-075657-0-000-24-04-1975@@@
-
 DECRETO Nº 75.657, DE 24 DE ABRIL DE 1975.
 
 Dispõe sobre o Sistema de Serviços Gerais dos órgãos civis da Administração Federal direta e das Autarquias federais e dá outras providências.

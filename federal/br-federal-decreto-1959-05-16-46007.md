@@ -1,5 +1,3 @@
-###DEC-046007-0-000-16-05-1959@@@
-
 DECRETO Nº 46.007, DE 16 DE MAIO DE 1959.
 
 Outorga concessão à Rádio Difusora Mearim Sociedade Anônima para instalar uma estação radiodifusora.

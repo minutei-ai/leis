@@ -1,5 +1,3 @@
-###DEC-074630-0-000-02-10-1974@@@
-
 DECRETO Nº 74.630, DE 02 DE OUTUBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Medicina de Catanduva e ao seu curso de Medicina, mantida pela Fundação Padre Albino, com sede na Cidade de Catanduva, Estado de São Paulo.

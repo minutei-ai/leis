@@ -1,5 +1,3 @@
-###DEC-068406-0-000-23-03-1971@@@
-
 DECRETO Nº 68.406, DE 23 DE MARÇO DE 1971.
 
 Autorização para funcionamento da Faculdade de Filosofia, Ciências e  Letras de Tatui, SP.

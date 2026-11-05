@@ -1,5 +1,3 @@
-###DEC-084963-0-000-25-07-1980@@@
-
 Decreto nº 84.963, de 25 de julho de 1980.
 
 Extingue Organização Militar no Ministério do Exército e dá outras providências.

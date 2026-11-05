@@ -1,5 +1,3 @@
-###DEC-096455-0-000-02-08-1988@@@
-
 DECRETO N° 96.455, DE 2 DE AGOSTO DE 1988
 
 Altera o item denominado "Ramal R-2" do parágrafo único do artigo 1° do Decreto n° 92.547, de 15 de abril de 1986, que declara imóveis de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A.  PETROBRÁS.

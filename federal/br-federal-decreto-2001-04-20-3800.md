@@ -1,5 +1,3 @@
-###DEC-003800-0-000-20-04-2001@@@
-
 DECRETO Nº 3.800, DE 20 DE ABRIL DE 2001
 
 Regulamenta os arts. 4°, 9º e 11 da Lei nº 8.248, de 23 de outubro de 1991, e os arts. 8º e 11 da Lei nº 10.176, de 11 de janeiro de 2001, que tratam do benefício fiscal concedida às empresas de desenvolvimento ou produção de bens e serviços de informática e automação, que investirem em atividades de pesquisa e desenvolvimento em tecnologia da informação, e dá outras providências.

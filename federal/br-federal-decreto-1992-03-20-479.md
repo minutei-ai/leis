@@ -1,7 +1,3 @@
-1
-
-###DEC-000479-0-000-20-03-1992@@@
-
 DECRETO N° 479, DE 20 DE MARÇO DE 1992
 
 Altera a redação do art. 7° do Decreto n° 62.724, de 17 de maio de l968.

@@ -1,5 +1,3 @@
-###DEC-075232-0-000-16-01-1975@@@
-
 Decreto nº 75.232, de 16 de janeiro de 1975.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas e Comércio Exterior do Paraná, mantida pelo Centro de Estudos de Comércio Exterior do Paraná, com sede na Cidade de Curitiba.

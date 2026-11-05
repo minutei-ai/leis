@@ -1,5 +1,3 @@
-###DEL-009530-0-000-31-07-1946@@@
-
 DECRETO-LEI N. 9.530 – DE 31 DE JULHO DE 1946
 
 Concede dispensa da  exigência de que trata o art. 39 do Decreto-lei número 5.344, de 23 de Setembro de 1943.

@@ -1,5 +1,3 @@
-###DEL-000713-0-000-29-07-1969@@@
-
 DECRETO-LEI Nº 713, DE 29 DE JULHO DE 1969
 
 Autoriza a venda de imóveis do I.N.P.S. nas condições que especifica e dá outras providências.

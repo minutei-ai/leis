@@ -1,5 +1,3 @@
-###DEL-001191-0-000-27-10-1971@@@
-
 # DECRETO-LEI Nº 1.191, DE 27 DE OUTuBRO DE 1971
 
 Dispõe sôbre os incentivos fiscais ao turismo e dá outras providências

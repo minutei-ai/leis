@@ -1,5 +1,3 @@
-###DEC-072252-0-000-11-05-1973@@@
-
 DECRETO Nº 72.252, DE 11 DE MAIO DE 1973.
 
 Concede a Alcides Alves da Cunha, firma individual, o direito de lavrar agalmatolito no Município de Mateus Leme, Estado de Minas Gerais.

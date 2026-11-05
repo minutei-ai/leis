@@ -1,5 +1,3 @@
-###DEC-047012-0-000-13-10-1959@@@
-
 DECRETO Nº 47.012, DE 13 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Idalino Fretta a pesquisar fluorita, no município de Tubarão, Estado de Santa Catarina.

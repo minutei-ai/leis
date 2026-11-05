@@ -1,5 +1,3 @@
-###DEC-004040-0-000-03-12-2001@@@
-
 DECRETO Nº 4.040, DE 3 DE DEZEMBRO DE 2001
 
 Dá nova redação aos arts. 1º e 3º do Decreto nº 1.840, de 20 de março de 1996, que dispõe sobre o custeio da estada dos ocupantes de cargos públicos que menciona.

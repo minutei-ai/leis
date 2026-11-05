@@ -1,5 +1,3 @@
-###DEC-045317-0-000-27-01-1959@@@
-
 DECRETO Nº 45.317, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro José Evandro de Castro Toledo a pesquisar quartzo e minério de ferro no município de Sabará, Estado de Minas Gerais.

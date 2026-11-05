@@ -1,5 +1,3 @@
-###DEC-003875-0-000-23-07-2001@@@
-
 DECRETO Nº 3.875, DE 23 DE JULHO DE 2001
 
 Promulga o Tratado sobre a Transferência de Presos, entre a República Federativa do Brasil e a República Argentina, celebrado em Buenos Aires, em 11 de setembro de 1998.

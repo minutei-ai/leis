@@ -1,5 +1,3 @@
-###DEC-073502-0-000-17-01-1974@@@
-
 DECRETO Nº 73.502, DE 17 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão, no município de Cristalândia, Estado de Goiás.

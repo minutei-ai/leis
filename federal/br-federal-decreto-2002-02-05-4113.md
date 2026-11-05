@@ -1,5 +1,3 @@
-###DEC-004113-0-000-05-02-2002@@@
-
 DECRETO Nº4.113, DE 5 DE FEVEREIRO DE 2002.
 
 Transfere da estrutura do Ministério da Fazenda para a da Casa Civil da Presidência da República a Secretaria Federal de Controle Interno e a Comissão de Coordenação de Controle Interno, e dá outras providências.

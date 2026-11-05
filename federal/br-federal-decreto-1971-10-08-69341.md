@@ -1,5 +1,3 @@
-###DEC-069341-0-000-08-10-1971@@@
-
 Decreto Nº 69.341, DE 8 DE outubro DE 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Indústria e do Comércio, cargos originários da Extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

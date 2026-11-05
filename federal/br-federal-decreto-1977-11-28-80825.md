@@ -1,5 +1,3 @@
-###DEC-080825-0-000-28-11-1977@@@
-
 DECRETO Nº 80.825, DE 28 DE NOVEMBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de União da Vitória, Estado do Paraná.

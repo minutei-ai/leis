@@ -1,5 +1,3 @@
-###DEL-009047-0-000-11-03-1946@@@
-
 DECRETO-LEI N. 9.047 – DE 11 DE MARÇO DE 1946
 
 Revoga o Decreto-lei nº 8.840, de 24 de janeiro de 1946.

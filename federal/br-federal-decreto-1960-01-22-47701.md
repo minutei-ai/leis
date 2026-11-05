@@ -1,5 +1,3 @@
-###DEC-047701-0-000-22-01-1960@@@
-
 DECRETO Nº 47.701, DE 22 DE JANEIRO DE 1960.
 
 Transfere na forma do art. 15, § 4º, da Lei nº 3.115, de 16 de março de 1957, cargo de Tesoureiro-auxiliar para o Quadro Suplementar do Ministério da Fazenda.

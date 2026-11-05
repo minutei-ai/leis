@@ -1,5 +1,3 @@
-###DEL-001536-0-000-23-08-1939@@@
-
 DECRETO-LEI N. 1.536 – DE 23 DE AGOSTO DE 1939
 
 Abre, pelo Ministério das Relações Exteriores, um crédito especial de 350:000$0, para atender a despesas da Missão Militar que vai à Europa.

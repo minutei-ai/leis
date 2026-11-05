@@ -1,5 +1,3 @@
-###DEC-073874-0-000-27-03-1974@@@
-
 DECRETO Nº 73.874, DE 27 DE MARÇO DE 1974.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Econômicas do Triângulo Mineiro, mantida pela Associação Comercial e Industrial, com sede na cidade de Uberaba, Estado de Minas Gerais.

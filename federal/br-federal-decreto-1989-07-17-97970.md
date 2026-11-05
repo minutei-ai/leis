@@ -1,7 +1,3 @@
-1
-
-###DEC-097970-0-000-17-07-1989@@@
-
 DECRETO Nº 97.970, DE 17 DE JULHO DE 1989
 
 Dispõe sobre o pagamento dos servidores, civis e militares, da União, das autarquias e das fundações públicas, e dá outras providências.

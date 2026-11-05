@@ -1,5 +1,3 @@
-###DEC-089465-0-000-21-03-1984@@@
-
 DECRETO Nº 89.465, DE 21 DE MARÇO DE 1984
 
 Extingue Cargo Privativo de Oficial-General e o Quadro de Oficiais-Generais do Serviço de Veterinária, no Ministério do Exército, e dá outras providências.

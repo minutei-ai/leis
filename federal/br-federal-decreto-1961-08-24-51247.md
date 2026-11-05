@@ -1,5 +1,3 @@
-###DEC-051247-0-000-24-08-1961@@@
-
 Decreto nº 51.247, de 24 de agôsto de 1961.
 
 Autoriza o cidadão brasileiro Tarnier Teixeira a pesquisar cassiterita no município de Ipameri, Estado de Goiás.

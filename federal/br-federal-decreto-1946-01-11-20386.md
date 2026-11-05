@@ -1,14 +1,12 @@
-###DEC-020386-0-000-11-01-1946@@@
+**DECRETO Nº 20.386, DE 11 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.386, DE 11 DE JANEIRO DE 1946.</strong>
+***Altera a lotação numérica do Ministério da Agricultura.***
 
-<em><strong>Altera a lotação numérica do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura a vigorar com as seguintes alterações.
+**Art**. 1º Passa a lotação numérica das repartições atendidas pelos Quadros Permanentes e Suplementar do Ministério da Agricultura a vigorar com as seguintes alterações.
 
 I - na carreira de Agrônomo:
 
@@ -66,10 +64,10 @@ XIII - na carreira de Zootecnista:
 
 a) transfere-se um cargo da lotação permanente da Diretoria da Divisão de Fomento da Produção Animal, do Departamento Nacional da Produção Animal, para a do Serviço de Documentação.
 
-<strong>Art</strong>. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 11 de janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Theodureto de Camargo

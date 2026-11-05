@@ -1,7 +1,3 @@
-1
-
-###DEC-001197-0-000-14-07-1994@@@
-
 DECRETO Nº 1.197, DE 14 DE JULHO DE 1994
 
 Regulamenta dispositivos das Leis nºs 8.861, de 25 de março de 1994 e 8.870, de 15 de abril de 1994, que alteram dispositivos das Leis nºs 8.212 e 8.213, ambas de 24 de julho de 1991.

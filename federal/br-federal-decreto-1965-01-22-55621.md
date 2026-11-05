@@ -1,5 +1,3 @@
-###DEC-055621-0-000-22-01-1965@@@
-
 DECRETO Nº 55.621, DE 22 DE JANEIRO DE 1965.
 
 Altera o Regulamento Interno e dos Serviços Gerais (R/1), aprovado pelo Decreto nº 42.018, de 9 de agôsto de 1957.

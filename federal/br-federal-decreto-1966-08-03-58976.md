@@ -1,5 +1,3 @@
-###DEC-058976-0-000-03-08-1966@@@
-
 DECRETO Nº 58.976, DE 3 DE AGÔSTO DE 1966.
 
 Fixa o preço mínimo básico relativo à safra do Girassol de 1967 para o produto das Regiões Central e Meridional.

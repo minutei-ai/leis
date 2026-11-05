@@ -1,7 +1,3 @@
-1
-
-###MPV-000890-0-000-13-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 890, DE 13 DE FEVEREIRO DE 1995
 
 Estabelece normas para outorga e prorrogação das concessões e permissões de serviços públicos, e dá outras providências.

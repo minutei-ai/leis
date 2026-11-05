@@ -1,5 +1,3 @@
-###DEC-051916-B-000-26-04-1963@@@
-
 DECRETO Nº 51.916-B, de 26 de abril de 1963.
 
 Declara de utilidade pública a “Sociedade Civil Servos da Caridade”, com sede em Porto Alegre, Estado do Rio Grande do Sul.

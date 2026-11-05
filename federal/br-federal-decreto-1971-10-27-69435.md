@@ -1,5 +1,3 @@
-###DEC-069435-0-000-27-10-1971@@@
-
 DECRETO Nº 69.435 - DE 27 DE OUTUBRO DE 1971
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Instituto Brasileiro de Desenvolvimento Florestal (IBDF), cargo originário da Extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá outras providências.

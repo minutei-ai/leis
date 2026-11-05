@@ -1,5 +1,3 @@
-###DEL-007785-0-000-26-07-1945@@@
-
 DECRETO-LEI N. 7.785 – DE 26 DE JULHO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 2.000.000,00, à verba que especifica.

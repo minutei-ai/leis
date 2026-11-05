@@ -1,5 +1,3 @@
-###DEL-008764-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.764 – DE 21 DE JANEIRO DE 1946
 
 Dispõe sôbre a inclusão no Quadro de Infantaria de Guarda de Oficiais da Reserva de 2ª Classe do Exército postos à disposição do Ministério da Aeronáutica

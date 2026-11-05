@@ -1,5 +1,3 @@
-###DEC-072344-0-000-08-06-1973@@@
-
 decreto Nº 72.344, de 8 de junho de 1973.
 
 Altera o dispositivo do Regulamento para o Hospital das Forças Armadas aprovado pelo Decreto n.º 69.859, de 29 de dezembro de 1971.

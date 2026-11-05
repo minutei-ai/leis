@@ -1,5 +1,3 @@
-###DEC-091750-0-000-04-10-1985@@@
-
 Decreto nº 91.750, de 04 de outubro de 1985
 
 Renova a concessão outorgada à RÁDIO CULTURA DE CAMPOS LTDA., e autoriza a transferência direta para a RÁDIO CULTURA FLUMINENSE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Campos, Estado do Rio de Janeiro.

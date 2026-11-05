@@ -1,5 +1,3 @@
-###DEC-089469-0-000-21-03-1984@@@
-
 Decreto nº 89.469, de 21 de março de 1984
 
 Revoga o Decreto nº 86.391, de 18 de setembro de 1981, que concedeu à empresa READING & BATES BRAZIL PETROLEUM CO. autorização para funcionar na República Federativa do Brasil.

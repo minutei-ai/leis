@@ -1,5 +1,3 @@
-###DEC-045965-0-000-05-05-1959@@@
-
 DECRETO Nº 45.965, DE 5 DE MAIO DE 1959.
 
 Considera de caráter ou de interêsse militar as funções de direção ou orientação técnica exercidas por oficiais das Fôrça Armadas na Companhia Urbanizadora da Nova Capital do Brasil.

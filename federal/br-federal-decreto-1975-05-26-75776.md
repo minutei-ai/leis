@@ -1,5 +1,3 @@
-###DEC-075776-0-000-26-05-1975@@@
-
 DECRETO Nº 75.776, DE 26 DE MAIO DE 1975.
 
 Subordina o Grupo Executivo de Movimentação de Safras - GREMOS à CIBRAZEM e dá outras providências.

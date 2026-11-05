@@ -1,5 +1,3 @@
-###DEC-091866-0-000-01-11-1985@@@
-
 Decreto nº 91.866, de 01 de novembro 1985
 
 Renova a concessão outorgada à RÁDIO JORNAL DE ITAPETINGA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itapetinga, Estado da Bahia.

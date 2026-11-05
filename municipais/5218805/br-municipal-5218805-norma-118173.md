@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR Nº 19 , DE 19 DE AGOSTO DE 2014.
 
-<br>
 Insere dispositivos à Lei Complementar nº 5.727, de 11 de dezembro de 2009 – Código Tributário Municipal.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

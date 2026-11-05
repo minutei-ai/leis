@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/173103)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2014/compilacao-lei.complementar-1245-27.06.2014.html)
 
 # LEI COMPLEMENTAR N° 1.245, DE 27 DE JUNHO DE 2014
@@ -7,7 +6,8 @@
 
 ### _Institui a Bonificação por resultados - BR aos integrantes das Polícias Civil, Técnico-Científica e Militar, e dá providências correlatas_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
 ~~Artigo 1° - Fica instituída a Bonificação por Resultados - BR a ser paga aos policiais civis e militares, integrantes das Polícias Civil, Técnico-Científica e Militar, em exercício no âmbito da Secretaria da Segurança Pública, na forma a ser regulamentada por decreto.~~
@@ -36,12 +36,18 @@ _\- Parágrafo único com redação dada pela [Lei Complementar n° 1.361, de 21
 
 _\- "Caput" com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](https://www.al.sp.gov.br/norma/192660), em vigor a partir de 01/01/2020._
 
-**§ 1° -** Para os fins do disposto no "caput" deste artigo, será realizada avaliação para apurar os resultados obtidos em período determinado, de acordo com os indicadores a que se referem os artigos 4° a 6° desta lei complementar.<br>
-**§ 2° -** Compete ao Secretário da Segurança Pública estabelecer os critérios de que trata o "caput" deste artigo.**<br>
-Artigo 4° -** Para fins de determinação da Bonificação por Resultados - BR, a que se refere esta lei complementar, considera-se:<br>
-**I -** indicadores: índices utilizados para medir o desempenho da Secretaria da Segurança Pública;<br>
-**II -** metas: valores a serem alcançados em cada um dos indicadores, em determinado período de tempo;<br>
-**III -** índice de cumprimento de metas: a diferença entre a meta fixada e o valor efetivamente alcançado no processo de avaliação;<br>
+**§ 1° -** Para os fins do disposto no "caput" deste artigo, será realizada avaliação para apurar os resultados obtidos em período determinado, de acordo com os indicadores a que se referem os artigos 4° a 6° desta lei complementar.
+
+**§ 2° -** Compete ao Secretário da Segurança Pública estabelecer os critérios de que trata o "caput" deste artigo.**
+
+Artigo 4° -** Para fins de determinação da Bonificação por Resultados - BR, a que se refere esta lei complementar, considera-se:
+
+**I -** indicadores: índices utilizados para medir o desempenho da Secretaria da Segurança Pública;
+
+**II -** metas: valores a serem alcançados em cada um dos indicadores, em determinado período de tempo;
+
+**III -** índice de cumprimento de metas: a diferença entre a meta fixada e o valor efetivamente alcançado no processo de avaliação;
+
 **IV -** índice consolidado de cumprimento de metas: a consolidação dos índices de que trata o inciso III deste artigo, conforme critérios definidos por comissão intersecretarial, na forma do artigo 6° desta lei complementar, podendo ser adotados pesos diferentes para as diversas metas;
 
 ~~**V -** dias de efetivo exercício: os dias do período de avaliação em que o policial tenha exercido regularmente suas funções, desconsiderada toda e qualquer ausência, à exceção das que se verificarem em virtude de férias, licença à gestante, licençapaternidade, licença por adoção, nojo e licença-saúde em razão do exercício da atividade policial;~~
@@ -62,11 +68,16 @@ _\- Inciso VI com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019
 
 _\- "Caput" com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](https://www.al.sp.gov.br/norma/192660), em vigor a partir de 01/01/2020._
 
-**Parágrafo único -** Os indicadores de que trata o "caput" deste artigo serão definidos para períodos determinados, observados os seguintes critérios:<br>
-**1 -** alinhamento com os objetivos estratégicos da Secretaria da Segurança Pública;<br>
-**2 -** comparabilidade ao longo do tempo;<br>
-**3 -** fácil compreensão e mensuração;<br>
-**4 -** apuração mediante informações preexistentes, de amplo uso;<br>
+**Parágrafo único -** Os indicadores de que trata o "caput" deste artigo serão definidos para períodos determinados, observados os seguintes critérios:
+
+**1 -** alinhamento com os objetivos estratégicos da Secretaria da Segurança Pública;
+
+**2 -** comparabilidade ao longo do tempo;
+
+**3 -** fácil compreensão e mensuração;
+
+**4 -** apuração mediante informações preexistentes, de amplo uso;
+
 **5 -** publicidade e transparência na apuração.
 
 ~~Artigo 6° - Os indicadores, seus critérios de apuração, avaliação e respectivas metas serão definidos, mediante proposta do Secretário da Segurança Pública, por comissão intersecretarial, a ser constituída em decreto, integrada pelos Titulares das seguintes Pastas:~~
@@ -115,8 +126,10 @@ _\- Inciso IV revogado pela [Lei Complementar n° 1.351, de 13/12/2019](https://
 
 _\- "Caput" com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](https://www.al.sp.gov.br/norma/192660), em vigor a partir de 01/01/2020._
 
-**§ 1° -** O período de avaliação será definido pelo Secretário da Segurança Pública.<br>
-**§ 2° -** As regras para a interposição de recursos sobre os resultados, seu julgamento e demais providências serão estabelecidas por resolução do Secretário da Segurança Pública.<br>
+**§ 1° -** O período de avaliação será definido pelo Secretário da Segurança Pública.
+
+**§ 2° -** As regras para a interposição de recursos sobre os resultados, seu julgamento e demais providências serão estabelecidas por resolução do Secretário da Segurança Pública.
+
 **§ 3° -** Independente da periodicidade da avaliação relativa à Bonificação por Resultados - BR, a autoridade referida no § 1° deste artigo poderá determinar avaliações de acompanhamento em períodos inferiores, para fins de ajuste ou correção de trajetória.
 
 ~~Artigo 8° - O valor da Bonificação por Resultados - BR, observados os limites estabelecidos nesta lei complementar e a dotação orçamentária, será calculado sobre o valor máximo anual de até 80 (oitenta) Unidades Básicas de Valor - UBV, a que se refere o artigo 33 da [Lei Complementar n° 1.080, de 17 de dezembro de 2008](https://www.al.sp.gov.br/norma/157195), por policial, multiplicado pelo:~~
@@ -125,8 +138,10 @@ _\- "Caput" com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](
 
 _\- "Caput" com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](https://www.al.sp.gov.br/norma/192660), em vigor a partir de 01/01/2020._
 
-**I -** índice consolidado de cumprimento de metas;<br>
-**II -** índice de dias de efetivo exercício.<br>
+**I -** índice consolidado de cumprimento de metas;
+
+**II -** índice de dias de efetivo exercício.
+
 **§ 1° -** O valor a que se refere o "caput" deste artigo será fixado, anualmente, em decreto.
 
 _~~\- Vide [Decreto n° 60.717, de 07/08/2014](https://www.al.sp.gov.br/norma/173361).~~_
@@ -171,8 +186,10 @@ _\- "Caput" com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](
 
 _\- § 1° com redação dada pela [Lei Complementar n° 1.351, de 13/12/2019](https://www.al.sp.gov.br/norma/192660), em vigor a partir de 01/01/2020._
 
-**§ 2° -** O disposto no "caput" deste artigo não se aplica aos policiais afastados por licença-saúde em razão do exercício da atividade policial.<br>
-**§ 3° -** O servidor afastado com fundamento na [Lei Complementar n° 343, de 6 de janeiro de 1984](https://www.al.sp.gov.br/norma/36704), fará jus à Bonificação por Resultados - BR, de que trata esta lei complementar, nos termos a serem definidos em resolução do Secretário da Segurança Pública.<br>
+**§ 2° -** O disposto no "caput" deste artigo não se aplica aos policiais afastados por licença-saúde em razão do exercício da atividade policial.
+
+**§ 3° -** O servidor afastado com fundamento na [Lei Complementar n° 343, de 6 de janeiro de 1984](https://www.al.sp.gov.br/norma/36704), fará jus à Bonificação por Resultados - BR, de que trata esta lei complementar, nos termos a serem definidos em resolução do Secretário da Segurança Pública.
+
 **§ 4° -** Serão estabelecidas, em resolução do Secretário da Segurança Pública, as demais situações em que o policial fará jus à Bonificação por Resultados - BR.
 
 ~~Artigo 10 - É vedado o pagamento da Bonificação por Resultados - BR, nos termos desta lei complementar, aos:~~
@@ -193,20 +210,36 @@ _\- Inciso III acrescentado pela [Lei Complementar n° 1.351, de 13/12/2019](htt
 
 _\- Inciso IV acrescentado pela [Lei Complementar n° 1.351, de 13/12/2019](https://www.al.sp.gov.br/norma/192660), em vigor a partir de 01/01/2020._
 
-**Artigo 11 -** A manipulação de dados e informações com o propósito de alterar o resultado das avaliações previstas nesta lei complementar caracteriza procedimento irregular de natureza grave, a ser apurado mediante procedimento disciplinar, ssegurados o direito à ampla defesa e ao contraditório, na forma da lei.**<br>
-Artigo 12 -** A Secretaria da Segurança Pública publicará em seu sítio eletrônico os indicadores, seus critérios de apuração e respectivas metas, bem como os resultados apurados.**<br>
-Artigo 13 -** Fica o Poder Executivo autorizado a abrir crédito especial, mediante a utilização de recursos nos termos do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.**<br>
-Artigo 14 -** Esta lei complementar entra em vigor na data de sua publicação, produzindo efeitos a partir de 1° de janeiro de 2014.<br>
-Palácio dos Bandeirantes, 27 de junho de 2014.<br>
-GERALDO ALCKMIN<br>
-Fernando Grella Vieira<br>
-Secretário da Segurança Pública<br>
-Andrea Sandro Calabi<br>
-Secretário da Fazenda<br>
-Waldemir Aparício Caputo<br>
-Secretário de Gestão Pública<br>
-Júlio Francisco Semeghini Neto<br>
-Secretário de Planejamento e Desenvolvimento Regional<br>
-Edson Aparecido dos Santos<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 11 -** A manipulação de dados e informações com o propósito de alterar o resultado das avaliações previstas nesta lei complementar caracteriza procedimento irregular de natureza grave, a ser apurado mediante procedimento disciplinar, ssegurados o direito à ampla defesa e ao contraditório, na forma da lei.**
+
+Artigo 12 -** A Secretaria da Segurança Pública publicará em seu sítio eletrônico os indicadores, seus critérios de apuração e respectivas metas, bem como os resultados apurados.**
+
+Artigo 13 -** Fica o Poder Executivo autorizado a abrir crédito especial, mediante a utilização de recursos nos termos do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.**
+
+Artigo 14 -** Esta lei complementar entra em vigor na data de sua publicação, produzindo efeitos a partir de 1° de janeiro de 2014.
+
+Palácio dos Bandeirantes, 27 de junho de 2014.
+
+GERALDO ALCKMIN
+
+Fernando Grella Vieira
+
+Secretário da Segurança Pública
+
+Andrea Sandro Calabi
+
+Secretário da Fazenda
+
+Waldemir Aparício Caputo
+
+Secretário de Gestão Pública
+
+Júlio Francisco Semeghini Neto
+
+Secretário de Planejamento e Desenvolvimento Regional
+
+Edson Aparecido dos Santos
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 27 de junho de 2014.

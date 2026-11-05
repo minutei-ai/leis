@@ -1,5 +1,3 @@
-###DEC-055949-0-000-19-04-1965@@@
-
 Decreto nº 55.949, de 19 de Abril de 1965.
 
 Declara de utilidade pública a Biblioteca Cultural Altino Arantes, com sede em Ribeirão Prêto, Estado de São Paulo.

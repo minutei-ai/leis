@@ -1,5 +1,3 @@
-###DEL-007047-0-000-13-11-1944@@@
-
 DECRETO-LEI N. 7.047 – 13 DE NOVEMBRO DE 1944
 
 Veda o abono de percentagem pela cobrança executiva de contribuições compulsórias para “Obrigações de Guerra”.

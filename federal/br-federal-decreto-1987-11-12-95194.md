@@ -1,5 +1,3 @@
-###DEC-095194-0-000-12-11-1987@@@
-
 DECRETO N.° 95.194, DE 12 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "LOTE N° 2, DO LOTEAMENTO FAZENDA EXTREMA”", classificado como latifúndio por exploração, situado no Município de Nazaré, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.690, de 19 de maio de 1986, e dá outras providências.

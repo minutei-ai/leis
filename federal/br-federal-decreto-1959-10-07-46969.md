@@ -1,5 +1,3 @@
-###DEC-046969-0-000-07-10-1959@@@
-
 DECRETO Nº 46.969, DE 7 DE OUTUBRO DE 1959.
 
 Outorga concessão à Companhia Telefônica de Minas Gerais para executar serviço radiotelefônico publico interior, através de “cabos hertzianos” enter rio de Janeiro e Belo Horizonte.

@@ -1,5 +1,3 @@
-###DEC-003658-0-000-13-11-2000@@@
-
 DECRETO No 3.658, DE 13 DE NOVEMBRO DE 2000.
 
 Dispõe sobre o Imposto de Exportação incidente sobre os produtos que menciona.

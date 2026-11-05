@@ -1,5 +1,3 @@
-###DEC-071699-0-000-16-01-1973@@@
-
 DECRETO Nº 71.699, DE 16 DE JANEIRO DE 1973.
 
 Autoriza funcionamento da Faculdade de Ciências Humanas de Olinda, mantida pela Associação Instrutora Missionária de Olinda, Pernambuco.

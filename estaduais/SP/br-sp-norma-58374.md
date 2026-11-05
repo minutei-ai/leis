@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58374)
-
 # LEI Nº 12.111, DE 11 DE OUTUBRO DE 2005
 
 ## ( PL 785/2004 - Rosmary Corrêa)

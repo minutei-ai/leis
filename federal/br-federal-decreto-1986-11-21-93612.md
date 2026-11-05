@@ -1,5 +1,3 @@
-###DEC-093612-0-000-21-11-1986@@@
-
 DECRETO Nº 93.612, DE 21 DE NOVEMBRO DE 1986
 
 Extingue órgãos do Ministério da Fazenda, e dá outras providências.

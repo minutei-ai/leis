@@ -1,5 +1,3 @@
-###DEC-079135-0-000-17-01-1977@@@
-
 DECRETO Nº 79.135, DE 17 DE JANEIRO DE 1977.
 
 Cria o Grupo Executivo da Racionalização do Uso de Combustíveis (GERAC), e dá outras providências.

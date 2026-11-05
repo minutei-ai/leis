@@ -1,5 +1,3 @@
-###DEC-046365-0-000-07-07-1959@@@
-
 DECRETO Nº 45.365, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias ao desenvolvimento da criação de gado e da indústria leiteira, nos Municípios de São Bento da Una, Belo Jardim, Sanharó, Pesqueira, Arco Verde, Pedra, Buíque, Garanhuns, Poção, Bom Conselho e Alagoinha, no Estado de Pernambuco.

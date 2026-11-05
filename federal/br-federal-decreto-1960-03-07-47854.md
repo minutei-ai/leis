@@ -1,5 +1,3 @@
-###DEC-047854-0-000-07-03-1960@@@
-
 DECRETO Nº 47.854, DE 7 DE MARÇO DE 1960.
 
 Autoriza a Companhia Nacional de Mineração de Carvão do Barro Branco a pesquisar carvão mineral no Município de Orleães, Estado de Santa Catarina.

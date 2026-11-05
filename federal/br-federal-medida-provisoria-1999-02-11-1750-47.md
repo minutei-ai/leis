@@ -1,5 +1,3 @@
-###MPV-001750-0-047-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.750-47, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

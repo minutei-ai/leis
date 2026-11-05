@@ -1,5 +1,3 @@
-###DEC-003665-0-000-20-11-2000@@@
-
 DECRETO Nº 3.665, DE 20 DE NOVEMBRO DE 2000.
 
 Dá nova redação ao Regulamento para a Fiscalização de produtos Controlados (R - 105)
@@ -288,31 +286,79 @@ Legenda:(X) Atividades sujeitas a controle.
 
 Art. 11. Os produtos controlados de uso restrito, conforme a desatinação, são classificados quanto ao grau de restrição, de acordo com o quadro a seguir:
 
-<table>
-<tr><td>Grau de Restriçao</td><td>Destinaçao</td></tr>
-<tr><td>A</td><td>Forças Armadas</td></tr>
-<tr><td>B</td><td>Forças Auxiliares e Policiais</td></tr>
-<tr><td>C</td><td>Pessoas juridicas especializadas registradas no Exercito.</td></tr>
-<tr><td>D</td><td>Pessoas Fisicas autorizadas pelo Exercito</td></tr>
-</table>
+Grau de Restriçao
+
+Destinaçao
+
+A
+
+Forças Armadas
+
+B
+
+Forças Auxiliares e Policiais
+
+C
+
+Pessoas juridicas especializadas registradas no Exercito.
+
+D
+
+Pessoas Fisicas autorizadas pelo Exercito
 
 Art. 12. Os produtos controlados são identificados por símbolos segundo seus grupos de utilização, de acordo com o quadro a seguir:
 
-<table>
-<tr><td>Simbolo</td><td>Grupos de Utilizaçao</td></tr>
-<tr><td>AcAr</td><td>Acessorio de Arma</td></tr>
-<tr><td>AcEx</td><td>Acessorio Explosivo</td></tr>
-<tr><td>AcIn</td><td>Acessorio Iniciador</td></tr>
-<tr><td>GQ</td><td>Agente de Guerra Quimica (Agente Quimico de Guerra),Armamento Quimico ou Muniçao Quimica</td></tr>
-<tr><td>Ar</td><td>Arma</td></tr>
-<tr><td>Pi</td><td>Artificio Pirotecnico</td></tr>
-<tr><td>Dv</td><td>Diversos</td></tr>
-<tr><td>Ex</td><td>Explosivo ou Propelente</td></tr>
-<tr><td>Mn Ap</td><td>Muniçao Autopropelida</td></tr>
-<tr><td>Mn</td><td>Muniçao Comun</td></tr>
-<tr><td>PGQ</td><td>Precusor de Agente de Guerra Quimica</td></tr>
-<tr><td>QM</td><td>Produto Quimico de Interresse Militar</td></tr>
-</table>
+Simbolo
+
+Grupos de Utilizaçao
+
+AcAr
+
+Acessorio de Arma
+
+AcEx
+
+Acessorio Explosivo
+
+AcIn
+
+Acessorio Iniciador
+
+GQ
+
+Agente de Guerra Quimica (Agente Quimico de Guerra),Armamento Quimico ou Muniçao Quimica
+
+Ar
+
+Arma
+
+Pi
+
+Artificio Pirotecnico
+
+Dv
+
+Diversos
+
+Ex
+
+Explosivo ou Propelente
+
+Mn Ap
+
+Muniçao Autopropelida
+
+Mn
+
+Muniçao Comun
+
+PGQ
+
+Precusor de Agente de Guerra Quimica
+
+QM
+
+Produto Quimico de Interresse Militar
 
 Art. 13. O Exercito poderá incluir ou excluir qualquer produto na classificação de controlado, criar ou mudar a categoria de controle, colocar, retirar ou trocar a classificação de uso restrito para permitido, ou vice-versa, ou ainda alterar o grau de restrição.
 
@@ -400,19 +446,69 @@ XI - veículo de passeio blindado.
 
 Art. 18. Os equipamentos de proteção balística contra armas portáteis e armas de porte são classificados quanto ao grau de restrição - uso permitido ou uso restrito - de acordo com nível de proteção, conforme a seguinte tabela:
 
-<table>
-<tr><td>Nível</td><td>Munição</td><td>Energia Cinética (Joules)</td><td>Grau de Restrição</td></tr>
-<tr><td>I</td><td>22 LRHV Chumbo</td><td>133(cento e trinta e três)</td><td></td></tr>
-<tr><td></td><td>38 Special RN Chumbo</td><td>342 (trezentos e quarenta e dois )</td><td></td></tr>
-<tr><td>II-A</td><td>9 FMJ</td><td>441 (quatrocentos e quarenta e um)</td><td></td></tr>
-<tr><td></td><td>357 Magnum JSP</td><td>740 (Setecentos e quarenta</td><td>Uso permitido</td></tr>
-<tr><td>II</td><td>9 FMJ</td><td>513(Quinhentos e treze)</td><td></td></tr>
-<tr><td></td><td>357 Magnum JSP</td><td>921(novecentos e vinte e um)</td><td></td></tr>
-<tr><td>III-A</td><td>9 FMJ</td><td>726(setecentos e vinte e seis)</td><td></td></tr>
-<tr><td></td><td>44 Mgnum SWC Chumbo</td><td>1411(um mil quatrocentos e onze)</td><td></td></tr>
-<tr><td>III</td><td>7,62 FMJ(308 Winchester)</td><td>3406(três mil quatrocentos e seis)</td><td>Uso restrito</td></tr>
-<tr><td>IV</td><td>30-06 AP</td><td>4068 (quatro mil e sessenta e oito)</td><td></td></tr>
-</table>
+Nível
+
+Munição
+
+Energia Cinética (Joules)
+
+Grau de Restrição
+
+I
+
+22 LRHV Chumbo
+
+133(cento e trinta e três)
+
+38 Special RN Chumbo
+
+342 (trezentos e quarenta e dois )
+
+II-A
+
+9 FMJ
+
+441 (quatrocentos e quarenta e um)
+
+357 Magnum JSP
+
+740 (Setecentos e quarenta
+
+Uso permitido
+
+II
+
+9 FMJ
+
+513(Quinhentos e treze)
+
+357 Magnum JSP
+
+921(novecentos e vinte e um)
+
+III-A
+
+9 FMJ
+
+726(setecentos e vinte e seis)
+
+44 Mgnum SWC Chumbo
+
+1411(um mil quatrocentos e onze)
+
+III
+
+7,62 FMJ(308 Winchester)
+
+3406(três mil quatrocentos e seis)
+
+Uso restrito
+
+IV
+
+30-06 AP
+
+4068 (quatro mil e sessenta e oito)
 
 Parágrafo único. Poderão ser autorizadas aos veículos de passeio as blindagens até o nível III.
 
@@ -2799,7 +2895,7 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td>0140</td><td colspan="2">1</td><td colspan="2">GQ</td><td>Acroléina (aldeido acrílico; 2-propenal)</td></tr>
 <tr><td>0150</td><td colspan="2">1</td><td colspan="2">GQ</td><td>Agente de guerra química (agente químico de guerra)</td></tr>
 <tr><td>0160</td><td colspan="2">5</td><td colspan="2">PGQ</td><td>Alcool 2-cloroetílico (2-cloroatanol)</td></tr>
-<tr><td>0170</td><td colspan="2">1</td><td colspan="2">GQ</td><td>Alquil [metil, etil, propil (n ou iso)] fosfonofluoridratos de o-alquila (<u>&lt;</u>c 10, incluída a cicloalquila) ex.: sarin:metilfosfonolfluoridrato de o-isopropila. soman: metilfosfonofluoridrato de o-pinacolila.</td></tr>
+<tr><td>0170</td><td colspan="2">1</td><td colspan="2">GQ</td><td>Alquil [metil, etil, propil (n ou iso)] fosfonofluoridratos de o-alquila (&lt;c 10, incluída a cicloalquila) ex.: sarin:metilfosfonolfluoridrato de o-isopropila. soman: metilfosfonofluoridrato de o-pinacolila.</td></tr>
 <tr><td>0180</td><td colspan="2">5</td><td colspan="2">PGQ</td><td>Alcool pinacolílico (3,3-dimetil-2-butanol)</td></tr>
 <tr><td>0190</td><td colspan="2">2</td><td colspan="2">QM</td><td>Alumínio em pó lamelar e suas ligas</td></tr>
 <tr><td>0200</td><td colspan="2">1</td><td colspan="2">GQ</td><td>Aminofenol</td></tr>
@@ -2921,7 +3017,7 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td>1330</td><td colspan="2">1</td><td colspan="2">Ex</td><td>Detonador (espoleta) não elétrico</td></tr>
 <tr><td>1340</td><td colspan="2">1</td><td colspan="2">GQ</td><td>N, N-diaquil [metil, etil, propil (n ou iso)] fosforamidocianidratos de O-alquila (&lt;=C10, inclui cicloalquila) Ex.: Tabun: N, N-dimetilfosforamidocianidrato de O-etila</td></tr>
 <tr><td>1350</td><td colspan="2">1</td><td colspan="2">GQ</td><td>S-2 diaquil [metil, teil, propil (n ou iso)] aminoetilalquil [metil, etil, propil (n ou iso) fosfonotiolatos de O-alquila (H ou &lt;=C10, inclusive a cicloalquila) e sais alquilados ou protonados correspondentes Ex.: VX: S-2 diisopropilaminoetilfosfonotiolato de O-etila</td></tr>
-<tr><td>1360</td><td colspan="2">1</td><td colspan="2">GQ</td><td>O-2-diaquil [metil, etil, propil (n ou isso)] aminoetilalquil, ou fosfonitos de O-alquila (H ou <u>&lt;</u>C10, inclusive a cicloalquila) e sais alquilados ou protonados correspondentes Ex.: QL: 02- diisopropilaminoetilmetilfosfonito de O-etila</td></tr>
+<tr><td>1360</td><td colspan="2">1</td><td colspan="2">GQ</td><td>O-2-diaquil [metil, etil, propil (n ou isso)] aminoetilalquil, ou fosfonitos de O-alquila (H ou &lt;C10, inclusive a cicloalquila) e sais alquilados ou protonados correspondentes Ex.: QL: 02- diisopropilaminoetilmetilfosfonito de O-etila</td></tr>
 <tr><td>1370</td><td colspan="2">1</td><td colspan="2">Ex</td><td>Diazodinitrofenol (DDNP)</td></tr>
 <tr><td>1380</td><td colspan="2">1</td><td colspan="2">Ex</td><td>Diazometano (azimetileno)</td></tr>
 <tr><td>1390</td><td colspan="2">1</td><td colspan="2">PGQ</td><td>Dicloreto de enxofre</td></tr>
@@ -2947,33 +3043,33 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td>1590</td><td colspan="2">5</td><td colspan="2">PGQ</td><td>Diisopropilaminoetanotiol (N, N-diisopropilaminoetanotiol)</td></tr>
 <tr><td>1600</td><td colspan="2">5</td><td colspan="2">PGQ</td><td>Diisopropil - (beta) - aminoetanol (N, N-diisopropil - (beta) aminoetanol)</td></tr>
 <tr><td>1610</td><td colspan="2">1</td><td colspan="2">PGQ</td><td>dimetilamina</td></tr>
-<tr><td>1620</td><td colspan="2">1</td><td colspan="2">PGQ</td><td>dimetil fosforamidato de dietila <em>(N, N-dimetifosforoamidatoi de dietila)</em></td></tr>
+<tr><td>1620</td><td colspan="2">1</td><td colspan="2">PGQ</td><td>dimetil fosforamidato de dietila *(N, N-dimetifosforoamidatoi de dietila)*</td></tr>
 <tr><td>1630</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dimetil hidrozina assimétrica</td></tr>
-<tr><td>1640</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dimetilinitrobenzeno <em>(</em>nitroxileno<em>)</em></td></tr>
+<tr><td>1640</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dimetilinitrobenzeno *(*nitroxileno*)*</td></tr>
 <tr><td>1650</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinamite</td></tr>
-<tr><td>1660</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinitrato de dietilonoglicol <em>(</em>DEGN<em>)</em></td></tr>
-<tr><td>1670</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinitrato de trietiloglicol <em>(</em>TEGN<em>)</em></td></tr>
+<tr><td>1660</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinitrato de dietilonoglicol *(*DEGN*)*</td></tr>
+<tr><td>1670</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinitrato de trietiloglicol *(*TEGN*)*</td></tr>
 <tr><td>1680</td><td colspan="2">1</td><td colspan="2">Ex</td><td>Dinitrobenzeno</td></tr>
 <tr><td>1690</td><td colspan="2">1</td><td colspan="2">Ex</td><td>Dinitroglicol</td></tr>
-<tr><td>1700</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinitrotolueno <em>(</em>dinitrotoluol, DNT<em>)</em></td></tr>
-<tr><td>1710</td><td colspan="2">4</td><td colspan="2">QM</td><td>dióxido de nitrogênio <em>(</em>monômero do tetraóxido de dinitrogênio<em>)</em></td></tr>
-<tr><td>1720</td><td colspan="2">1</td><td colspan="2">GQ</td><td>dioxina <em>(</em>tetraclorodibenzeno-p-dioxina-2-3-7-8<em>)</em></td></tr>
+<tr><td>1700</td><td colspan="2">1</td><td colspan="2">Ex</td><td>dinitrotolueno *(*dinitrotoluol, DNT*)*</td></tr>
+<tr><td>1710</td><td colspan="2">4</td><td colspan="2">QM</td><td>dióxido de nitrogênio *(*monômero do tetraóxido de dinitrogênio*)*</td></tr>
+<tr><td>1720</td><td colspan="2">1</td><td colspan="2">GQ</td><td>dioxina *(*tetraclorodibenzeno-p-dioxina-2-3-7-8*)*</td></tr>
 <tr><td>1730</td><td colspan="2">4</td><td colspan="2">Ex</td><td>dispositivo gerador de gás instantâneo com explosivos ou mistura pirotécnica em sua composição</td></tr>
 <tr><td>1740</td><td colspan="2">1</td><td colspan="2">Dv</td><td>dispositivo para acionamento de minas</td></tr>
-<tr><td>1750</td><td colspan="2">1</td><td colspan="2">Dv</td><td>dispositivo para lançamento de gás agressivo <em>(</em>tubo de gás paralisante)</td></tr>
+<tr><td>1750</td><td colspan="2">1</td><td colspan="2">Dv</td><td>dispositivo para lançamento de gás agressivo *(*tubo de gás paralisante)</td></tr>
 <tr><td>1760</td><td colspan="2">3</td><td colspan="2">Dv</td><td>dispositivo para sinalização pirotécnica ou salvatagem</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">E</span></td></tr>
+<tr><td colspan="6">E</td></tr>
 <tr><td colspan="2">1770</td><td>1</td><td>Dv</td><td colspan="2">escudo a prova de balas</td></tr>
 <tr><td colspan="2">1780</td><td>1</td><td>Dv</td><td colspan="2">equipamento especialmente projetado para controle de tiro de artilharia, foguetes ou mísseis</td></tr>
 <tr><td colspan="2">1790</td><td>1</td><td>Ar</td><td colspan="2">equipamento especialmente projetado para lançamento de foguetes ou mísses</td></tr>
 <tr><td colspan="2">1800</td><td>1</td><td>Dv</td><td colspan="2">equipamento (máquina) especialmente projetado para produção de agente químico de guerra</td></tr>
-<tr><td colspan="2">1810</td><td>1</td><td>Dv</td><td colspan="2">equipamento <em>(</em>máquina<em>)</em> especialmente projetado para produção de armas e munições</td></tr>
-<tr><td colspan="2">1820</td><td>1</td><td>Dv</td><td colspan="2">equipamento <em>(</em>máquina<em>)</em> especialmente projetado para produção de explosivos</td></tr>
+<tr><td colspan="2">1810</td><td>1</td><td>Dv</td><td colspan="2">equipamento *(*máquina*)* especialmente projetado para produção de armas e munições</td></tr>
+<tr><td colspan="2">1820</td><td>1</td><td>Dv</td><td colspan="2">equipamento *(*máquina*)* especialmente projetado para produção de explosivos</td></tr>
 <tr><td colspan="2">1830</td><td>1</td><td>Ar</td><td colspan="2">equipamento especialmente projetado para transporte e lançamento de foguetes ou mísseis</td></tr>
 <tr><td colspan="2">1840</td><td>1</td><td>Dv</td><td colspan="2">equipamento para detecção de minas</td></tr>
 <tr><td colspan="2">1850</td><td>1</td><td>Dv</td><td colspan="2">equipamento para lançamento de minas</td></tr>
 <tr><td colspan="2">1860</td><td>1</td><td>Dv</td><td colspan="2">equipamento para recarga de munições e suas matrizes</td></tr>
-<tr><td colspan="2">1870</td><td>1</td><td>Dv</td><td colspan="2">equipamento para visão noturna <em>(</em>luneta; óculos; etc; {imagem térmica; infravermelho; luz residual; etc<em>}</em>)</td></tr>
+<tr><td colspan="2">1870</td><td>1</td><td>Dv</td><td colspan="2">equipamento para visão noturna *(*luneta; óculos; etc; {imagem térmica; infravermelho; luz residual; etc*}*)</td></tr>
 <tr><td colspan="2">1880</td><td>3</td><td>Ar</td><td colspan="2">espada ou espadim de uso exclusivo das Forças Armadas ou Forças Auxiliares</td></tr>
 <tr><td colspan="2">1890</td><td>1</td><td>Ar</td><td colspan="2">espargidor de agente de guerra química</td></tr>
 <tr><td colspan="2">1900</td><td>1</td><td>Ac In</td><td colspan="2">espoleta elétrica</td></tr>
@@ -2983,11 +3079,11 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">1940</td><td>1</td><td>MnAp</td><td colspan="2">estágio individual para míssil ou foguete</td></tr>
 <tr><td colspan="2">1950</td><td>1</td><td>Ex</td><td colspan="2">estifinato de chumbo (trinitrorresorcinato de chumbo)</td></tr>
 <tr><td colspan="2">1960</td><td>1</td><td>Mn</td><td colspan="2">estojo (cartucho vazio) para munição de arma de fogo</td></tr>
-<tr><td colspan="2">1970</td><td>1</td><td>Mn</td><td colspan="2">estopilha (cápsula<em>; </em>espoleta) para carga de projeção de armamento pesado</td></tr>
+<tr><td colspan="2">1970</td><td>1</td><td>Mn</td><td colspan="2">estopilha (cápsula*; *espoleta) para carga de projeção de armamento pesado</td></tr>
 <tr><td colspan="2">1980</td><td>1</td><td>Ac In</td><td colspan="2">estopim de qualquer tipo</td></tr>
 <tr><td colspan="2">1990</td><td>1</td><td>GQ</td><td colspan="2">éter dibromometílico</td></tr>
 <tr><td colspan="2">2000</td><td>1</td><td>GQ</td><td colspan="2">éter diclorometílico</td></tr>
-<tr><td colspan="2">2010</td><td>1</td><td>GQ</td><td colspan="2">etilcarbazol (N<em>-</em>etilcarbazol)</td></tr>
+<tr><td colspan="2">2010</td><td>1</td><td>GQ</td><td colspan="2">etilcarbazol (N*-*etilcarbazol)</td></tr>
 <tr><td colspan="2">2020</td><td>1</td><td>GQ</td><td colspan="2">Etildibromoarsina (dibromoetilarsina)</td></tr>
 <tr><td colspan="2">2030</td><td>1</td><td>GQ</td><td colspan="2">etidicloroarsina (dicloroetilarsina; ED)</td></tr>
 <tr><td colspan="2">2040</td><td>4</td><td>PGQ</td><td colspan="2">Etildietanolamina</td></tr>
@@ -2997,9 +3093,9 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">2080</td><td>1</td><td>GQ</td><td colspan="2">etil-S-2-diisopropilaminoetilmetilfosfonotiolato (VX)</td></tr>
 <tr><td colspan="2">2090</td><td>1</td><td>Ex</td><td colspan="2">explosivos não listados nesta relação</td></tr>
 <tr><td colspan="2">2100</td><td>1</td><td>Ex</td><td colspan="2">exp losivo plástico</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">F</span></td></tr>
+<tr><td colspan="6">F</td></tr>
 <tr><td colspan="2">2110</td><td>1</td><td>GO</td><td colspan="2">Fenildibromoarsina (dibromofenilarsina)</td></tr>
-<tr><td colspan="2">2120</td><td>1</td><td>GQ</td><td colspan="2">Fenildicloroarsina (diclorofenilarsina<em>; </em>PD)</td></tr>
+<tr><td colspan="2">2120</td><td>1</td><td>GQ</td><td colspan="2">Fenildicloroarsina (diclorofenilarsina*; *PD)</td></tr>
 <tr><td colspan="2">2130</td><td>5</td><td>PGQ</td><td colspan="2">fluoreto de potássio</td></tr>
 <tr><td colspan="2">2140</td><td>5</td><td>PGQ</td><td colspan="2">fluoreto de sódio</td></tr>
 <tr><td colspan="2">2150</td><td>5</td><td>PGQ</td><td colspan="2">fluorfenoxiaetato de clorobutila (4-fluorfenoxiacetato de 2-clorobutila)</td></tr>
@@ -3012,8 +3108,8 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">2220</td><td>1</td><td>PGQ</td><td colspan="2">fosfito de trimetila (fosfito trimetílico; trimetil fosfito)</td></tr>
 <tr><td colspan="2">2230</td><td>1</td><td>GQ</td><td colspan="2">fosfonildifluoretos de alquila [metil, etil, propil (n ou isso)] Ex.: DF: mitilfosfonildifluoretos</td></tr>
 <tr><td colspan="2">2240</td><td>1</td><td>GQ</td><td colspan="2">fósforo branco ou amarelo</td></tr>
-<tr><td colspan="2">2250</td><td>1</td><td>Ex</td><td colspan="2">fulminato de mercúrio (cianato mercúrico<em>)</em></td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">G</span></td></tr>
+<tr><td colspan="2">2250</td><td>1</td><td>Ex</td><td colspan="2">fulminato de mercúrio (cianato mercúrico*)*</td></tr>
+<tr><td colspan="6">G</td></tr>
 <tr><td colspan="2">2260</td><td>1</td><td>QM</td><td colspan="2">glicidil azida polimerizada</td></tr>
 <tr><td colspan="2">2270</td><td>1</td><td>Mn</td><td colspan="2">granada de exercício e suas partes</td></tr>
 <tr><td colspan="2">2280</td><td>1</td><td>Mn</td><td colspan="2">granada de manejo e suas partes</td></tr>
@@ -3021,14 +3117,14 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">2300</td><td>1</td><td>Mn</td><td colspan="2">granada perfurante e suas partes</td></tr>
 <tr><td colspan="2">2310</td><td>1</td><td>Mn</td><td colspan="2">granada química e suas partes</td></tr>
 <tr><td colspan="2">2320</td><td>1</td><td>Ex</td><td colspan="2">grão moldado (propelente) para foguete ou missil</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">H</span></td></tr>
+<tr><td colspan="6">H</td></tr>
 <tr><td colspan="2">2330</td><td>1</td><td>Ex</td><td colspan="2">hexanitroazobenzeno</td></tr>
 <tr><td colspan="2">2340</td><td>1</td><td>Ex</td><td colspan="2">hexanitrocarbanilida</td></tr>
 <tr><td colspan="2">2350</td><td>1</td><td>Ex</td><td colspan="2">hexanitrodifenilamina (hexil)</td></tr>
 <tr><td colspan="2">2360</td><td>1</td><td>Ex</td><td colspan="2">hexanitrodifenilsulfeto</td></tr>
 <tr><td colspan="2">2370</td><td>1</td><td>Ex</td><td colspan="2">hidrazina</td></tr>
 <tr><td colspan="2">2380</td><td>5</td><td>PGQ</td><td colspan="2">hidroximetilpiperidina (3-hidroxil-l-metilpiperidina)</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">I</span></td></tr>
+<tr><td colspan="6">I</td></tr>
 <tr><td colspan="2">2390</td><td>1</td><td>GQ</td><td colspan="2">iodeto de benzila</td></tr>
 <tr><td colspan="2">2400</td><td>1</td><td>GQ</td><td colspan="2">iodeto de cianogênio (cianeto de iodo)</td></tr>
 <tr><td colspan="2">2410</td><td>1</td><td>GQ</td><td colspan="2">iodeto de fenarsazina</td></tr>
@@ -3045,7 +3141,7 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">2510</td><td>1</td><td>Ar</td><td colspan="2">lança-rojões (material bélico)</td></tr>
 <tr><td colspan="2">2520</td><td>1</td><td>GQ</td><td colspan="2">lewisitas: lewisita 1: 2-clorovinildicloroarsina lewisita 2: bis (2-clorovinil) cloroarsina lewisita 3: tris (2-clorovinil) arsina</td></tr>
 <tr><td colspan="2">2530</td><td>1</td><td>AcAr</td><td colspan="2">luneta para armas</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">M</span></td></tr>
+<tr><td colspan="6">M</td></tr>
 <tr><td colspan="2">2540</td><td>1</td><td>QM</td><td colspan="2">magnésio e suas ligas, em pó</td></tr>
 <tr><td colspan="2">2550</td><td>3</td><td>Dv</td><td colspan="2">máscara contra gases</td></tr>
 <tr><td colspan="2">2560</td><td>1</td><td>Ar</td><td colspan="2">material bélico não listado nesta relação</td></tr>
@@ -3070,10 +3166,10 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">2750</td><td>1</td><td>Mn</td><td colspan="2">Munição (cartucho) de uso permitido para arma de fogo e suas partes</td></tr>
 <tr><td colspan="2">2760</td><td>1</td><td>Mn</td><td colspan="2">Munição (cartucho) de uso restrito para arma de fogo e suas partes</td></tr>
 <tr><td colspan="2">2770</td><td>1</td><td>Mn</td><td colspan="2">Munição (cartucho; foguete; rojão; tiro; etc) para armamento pesado (canhão; lança foguete; lança granada; lança rojão; morteiro; obuseiro; etc) e suas partes</td></tr>
-<tr><td colspan="2">2780</td><td>3</td><td>Mn</td><td colspan="2">Munição<em> (cartucho)</em> para arma de uso industrial e suas partes</td></tr>
+<tr><td colspan="2">2780</td><td>3</td><td>Mn</td><td colspan="2">Munição* (cartucho)* para arma de uso industrial e suas partes</td></tr>
 <tr><td colspan="2">2790</td><td>1</td><td>Mn</td><td colspan="2">Munição química e suas partes</td></tr>
 <tr><td colspan="2">2800</td><td>1</td><td>AcAr</td><td colspan="2">mira laser</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">N</span></td></tr>
+<tr><td colspan="6">N</td></tr>
 <tr><td colspan="2">2810</td><td>1</td><td>GQ</td><td colspan="2">NAPALM (puro ou como gasolina gelatinizada para uso em bombas incendiárias e lança-chamas)</td></tr>
 <tr><td colspan="2">2820</td><td>1</td><td>Ex</td><td colspan="2">Nitrato de amila</td></tr>
 <tr><td colspan="2">2830</td><td>1</td><td>QM</td><td colspan="2">Nitrato de amônio</td></tr>
@@ -3091,14 +3187,14 @@ RELAÇÃO DE PRODUTOS CONTROLADOS PELO EXÉRCITO
 <tr><td colspan="2">2950</td><td>1</td><td>Ex</td><td colspan="2">nitronaftaleno (mono; di; tri; tetra)</td></tr>
 <tr><td colspan="2">2960</td><td>1</td><td>Ex</td><td colspan="2">nitropenta (nitropentaeritrita; nitropentaeritritol; PETN; tetranitrato de pentaeritritol)</td></tr>
 <tr><td colspan="2">2970</td><td>1</td><td>Ex</td><td colspan="2">Nitroxilenos</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">O</span></td></tr>
+<tr><td colspan="6">O</td></tr>
 <tr><td colspan="2">2980</td><td>1</td><td>GQ</td><td colspan="2">ortoclorobenzalmalononitrila (CS)</td></tr>
 <tr><td colspan="2">2990</td><td>1</td><td>PGQ</td><td colspan="2">oxicloreto de fósforo</td></tr>
 <tr><td colspan="2">3000</td><td>1</td><td>GQ</td><td colspan="2">óxido de dimetilaminoetoxicianofosfina ([ethyl N, N-dimethylphosphoramido-cyanidate]; etil éster do ácido fosforoamidociânico; GA; [monoetil-dimetil-amido-cianofosfato]; TABUN)</td></tr>
 <tr><td colspan="2">3010</td><td>1</td><td>GQ</td><td colspan="2">óxido de metilisopropiloxiflorofosfina (GB; [isso-propil methylphosphono-fluoridate]; l-metil-etil éster do ácido metilfosfonofluorídrico, [monoisopropil-metil-fluorofosfato]; SARIN)</td></tr>
 <tr><td colspan="2">3020</td><td>1</td><td>GQ</td><td colspan="2">óxido de metilpinacoliloxifluorifosfina (GD; [monopinacol-metil-fluorofosfato]; [1,2,2-trimethylpropyl methylphosphonofluoridate]; 1,2,2-trimetil-propil éster do ácido metilfosfonofluorídrico, SOMAN)</td></tr>
 <tr><td colspan="2">3030</td><td>1</td><td>GQ</td><td colspan="2">óxido de tri (1-(2-metil) aziridinil) fosfina</td></tr>
-<tr><td colspan="6"><span style="text-transform:uppercase">P</span></td></tr>
+<tr><td colspan="6">P</td></tr>
 <tr><td colspan="2">3040</td><td>1</td><td>Ar</td><td colspan="2">peça para arma de fogo</td></tr>
 <tr><td colspan="2">3050</td><td>1</td><td>Ar</td><td colspan="2">peça para arma de fogo automática</td></tr>
 <tr><td colspan="2">3060</td><td>1</td><td>Ar</td><td colspan="2">peça para arma de fogo de repartição de uso permitido</td></tr>
@@ -3314,7 +3410,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td colspan="2">Ethyphosphonyl difluoride</td><td>1530</td></tr>
 <tr><td colspan="2">Etilenodinitroamina</td><td>2050</td></tr>
 <tr><td colspan="2">etil éster do ácido fosforoamidociânico</td><td>3000</td></tr>
-<tr><td colspan="3"><strong>F</strong></td></tr>
+<tr><td colspan="3">**F**</td></tr>
 <tr><td>4 - fluorfenoxiacentano de 2 - clorobutila</td><td colspan="2">2150</td></tr>
 <tr><td>Fenilacetonitrila</td><td colspan="2">0670</td></tr>
 <tr><td>fluoreto de hidrogênio</td><td colspan="2">0080</td></tr>
@@ -3327,7 +3423,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>Fosgênio</td><td colspan="2">0780</td></tr>
 <tr><td>fosgênio oxima</td><td colspan="2">1460</td></tr>
 <tr><td>Fuzil</td><td colspan="2">0220; 0230; 0240; 0250; 0270; 0280; 0290; 0300; 0330</td></tr>
-<tr><td colspan="3"><strong>G</strong></td></tr>
+<tr><td colspan="3">**G**</td></tr>
 <tr><td>GA</td><td colspan="2">3000</td></tr>
 <tr><td>gás cianídrico</td><td colspan="2">06960</td></tr>
 <tr><td>gás lacrimogênio</td><td colspan="2">1130</td></tr>
@@ -3336,7 +3432,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>gás pimenta</td><td colspan="2">3280</td></tr>
 <tr><td>GB</td><td colspan="2">3010</td></tr>
 <tr><td>GD</td><td colspan="2">3020</td></tr>
-<tr><td colspan="3"><strong>H</strong></td></tr>
+<tr><td colspan="3">**H**</td></tr>
 <tr><td>HD</td><td colspan="2">3490</td></tr>
 <tr><td>Hexanitrato de manitol</td><td colspan="2">2940</td></tr>
 <tr><td>Hexil</td><td colspan="2">2350</td></tr>
@@ -3352,19 +3448,19 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>Homociclonite</td><td colspan="2">0750</td></tr>
 <tr><td>HX878</td><td colspan="2">3520</td></tr>
 <tr><td>HX879</td><td colspan="2">3510</td></tr>
-<tr><td colspan="3"><strong>I</strong></td></tr>
+<tr><td colspan="3">**I**</td></tr>
 <tr><td>iodeto de difenilarsina</td><td colspan="2">2420</td></tr>
 <tr><td>iodeto de fenarsina</td><td colspan="2">2420</td></tr>
 <tr><td>Iperita</td><td colspan="2">3490</td></tr>
 <tr><td>Isophorone diiscoyanatec</td><td colspan="2">1580</td></tr>
 <tr><td>Isso-propil methylphosphono-fluoridate</td><td colspan="2">3010</td></tr>
-<tr><td colspan="3"><strong>L</strong></td></tr>
+<tr><td colspan="3">**L**</td></tr>
 <tr><td>lança foguete</td><td colspan="2">0340</td></tr>
 <tr><td>lança granada</td><td colspan="2">0340</td></tr>
 <tr><td>lança rojão</td><td colspan="2">0340</td></tr>
 <tr><td>Lewisita (primária; secundária; terciária)</td><td colspan="2">1080</td></tr>
 <tr><td>luneta para visão noturna</td><td colspan="2">1870</td></tr>
-<tr><td colspan="3"><strong>M</strong></td></tr>
+<tr><td colspan="3">**M**</td></tr>
 <tr><td>Marguinita</td><td colspan="2">0790</td></tr>
 <tr><td>máquina especialmente projetada para produção de agente químico de guerra</td><td colspan="2">1800</td></tr>
 <tr><td>máquina especialmente projetada para produção de armas e munições</td><td colspan="2">1810</td></tr>
@@ -3381,7 +3477,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>Monoisopropril-metil-fluorofosfato</td><td colspan="2">3010</td></tr>
 <tr><td>Monopinacol-metil-fluorofosfato</td><td colspan="2">3020</td></tr>
 <tr><td>Morteiro</td><td colspan="2">0340</td></tr>
-<tr><td colspan="3"><strong>N</strong></td></tr>
+<tr><td colspan="3">**N**</td></tr>
 <tr><td>Naftita</td><td colspan="2">3770</td></tr>
 <tr><td>N-butil-ferroceno</td><td colspan="2">0570</td></tr>
 <tr><td>n-etilcarbazol</td><td colspan="2">2010</td></tr>
@@ -3394,7 +3490,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>N,N-diisopropilaminoetanotiol</td><td colspan="2">1590</td></tr>
 <tr><td>N,N- dimetifosforoamidato de dietila</td><td colspan="2">1620</td></tr>
 <tr><td>Nordiidrocapsaicina</td><td colspan="2">3280</td></tr>
-<tr><td colspan="3"><strong>O</strong></td></tr>
+<tr><td colspan="3">**O**</td></tr>
 <tr><td>Obuseiro</td><td colspan="2">0340</td></tr>
 <tr><td>Octogeno</td><td colspan="2">0750</td></tr>
 <tr><td>óculos de visão noturna</td><td colspan="2">1870</td></tr>
@@ -3402,7 +3498,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>oxalato de hexaclorodimetila</td><td colspan="2">0620</td></tr>
 <tr><td>Oxicloreto de caborno</td><td colspan="2">0780</td></tr>
 <tr><td>Oxicloreto sulfúrico</td><td colspan="2">0880</td></tr>
-<tr><td colspan="3"><strong>P</strong></td></tr>
+<tr><td colspan="3">**P**</td></tr>
 <tr><td>Palita</td><td colspan="2">0990;1000</td></tr>
 <tr><td>Pd</td><td colspan="2">2120</td></tr>
 <tr><td>Petn</td><td colspan="2">2960</td></tr>
@@ -3413,15 +3509,15 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>pólvora chocolate</td><td colspan="2">3320</td></tr>
 <tr><td>pólvora negra</td><td colspan="2">3320</td></tr>
 <tr><td>2- propenal</td><td colspan="2">0140</td></tr>
-<tr><td colspan="3"><strong>Q</strong></td></tr>
+<tr><td colspan="3">**Q**</td></tr>
 <tr><td>Q</td><td colspan="2">3460</td></tr>
 <tr><td>3- quinuclidinol</td><td colspan="2">3360</td></tr>
 <tr><td>3- quinuclidinoma</td><td colspan="2">3370</td></tr>
-<tr><td colspan="3"><strong>R</strong></td></tr>
+<tr><td colspan="3">**R**</td></tr>
 <tr><td>RDX</td><td colspan="2">0740</td></tr>
 <tr><td>Revólver</td><td colspan="2">0240; 0250; 0220; 0320; 0330</td></tr>
 <tr><td>Rojão</td><td colspan="2">2770</td></tr>
-<tr><td colspan="3"><strong>S</strong></td></tr>
+<tr><td colspan="3">**S**</td></tr>
 <tr><td>AS</td><td colspan="2">3680</td></tr>
 <tr><td>SARIN</td><td colspan="2">3010</td></tr>
 <tr><td>Sequimostarda</td><td colspan="2">3460</td></tr>
@@ -3434,7 +3530,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>sulfeto dicloroetílico</td><td colspan="2">3490</td></tr>
 <tr><td>Sulvinita</td><td colspan="2">1060</td></tr>
 <tr><td>super palita</td><td colspan="2">1030</td></tr>
-<tr><td colspan="3"><strong>T</strong></td></tr>
+<tr><td colspan="3">**T**</td></tr>
 <tr><td>TABUN</td><td colspan="2">3000</td></tr>
 <tr><td>TEGN</td><td colspan="2">1670</td></tr>
 <tr><td>Tetraclorodibenzeno- p- dioxina-2-3-7-8</td><td colspan="2">1720</td></tr>
@@ -3461,7 +3557,7 @@ TABELA DE NOMES ALTERNATIVAS
 <tr><td>Trinitrorresorcinato de chumbo</td><td colspan="2">1950</td></tr>
 <tr><td>2,4,6 trinitrorresorcinol</td><td colspan="2">3780</td></tr>
 <tr><td>tubo de gás paralizante</td><td colspan="2">1750</td></tr>
-<tr><td colspan="3"><strong>V</strong></td></tr>
+<tr><td colspan="3">**V**</td></tr>
 <tr><td>viatura blindada</td><td colspan="2">3820</td></tr>
 <tr><td>Vilatita</td><td colspan="2">1070</td></tr>
 <tr><td>VX</td><td colspan="2">2070</td></tr>
@@ -3476,7 +3572,7 @@ PRODUTOS QUÍMICOS
 
 <table>
 <tr><td></td><td colspan="2">Produto quimico</td><td colspan="2">Grupo</td><td colspan="2">Emprego e efeitos fisiologicos</td></tr>
-<tr><td></td><td colspan="6"><strong>A</strong></td></tr>
+<tr><td></td><td colspan="6">**A**</td></tr>
 <tr><td></td><td colspan="2">ácido benzídrico (ácido-alfa-hidroxi-alfa-fenil-benzenoacético)</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente psicoquímico BZ</td></tr>
 <tr><td></td><td colspan="2">ácido fluorídrico(fluoreto de hidrogênio)</td><td colspan="2">PGQ</td><td colspan="2">precursor dos agentes neurotóxicos: etil sarin (GE);SOMAN (GD); GF</td></tr>
 <tr><td></td><td colspan="2">ácido metifosfônico</td><td colspan="2">PGQ</td><td colspan="2">precurso de agentes neurotóxicos</td></tr>
@@ -3503,7 +3599,7 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">Bromoacetona</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">Bromometiletilcetona</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">butil-ferroceno (n-butil-ferroceno)</td><td colspan="2">QM</td><td colspan="2">tecnologia de foguetes e misseis</td></tr>
-<tr><td></td><td colspan="6"><strong>C</strong></td></tr>
+<tr><td></td><td colspan="6">**C**</td></tr>
 <tr><td></td><td colspan="2">carbonato de haxaclorodimetila (carbonato de hexaclorometila; oxalato de hexaclorodimetila; trifosgênio)</td><td colspan="2">GQ</td><td colspan="2">agente sufocante</td></tr>
 <tr><td></td><td colspan="2">carboranos e seus derivados</td><td colspan="2">QM</td><td colspan="2">combustível para foguetes</td></tr>
 <tr><td></td><td colspan="2">Catoceno</td><td colspan="2">QM</td><td colspan="2">tecnologia de foguetes e misseis</td></tr>
@@ -3545,7 +3641,7 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">clorossuflfonato de etila (sulvinita)</td><td colspan="2">GQ</td><td colspan="2">agente sufocante</td></tr>
 <tr><td></td><td colspan="2">clorossulfonato de metila (vilantita)</td><td colspan="2">GQ</td><td colspan="2">agente sufocante</td></tr>
 <tr><td></td><td colspan="2">clorovinildicloroarsina (lewisita)</td><td colspan="2">GQ</td><td colspan="2">agente vesicante</td></tr>
-<tr><td></td><td colspan="6"><strong>D</strong></td></tr>
+<tr><td></td><td colspan="6">**D**</td></tr>
 <tr><td></td><td colspan="2">decaboranos e seus derivados</td><td colspan="2">QM</td><td colspan="2">Combustível para foguetes</td></tr>
 <tr><td></td><td colspan="2">dicloreto de enxofre</td><td colspan="2">PGQ</td><td colspan="2">precursor de agentes neurotóxicos precursor de agentes vesicantes</td></tr>
 <tr><td></td><td colspan="2">dicloreto de etifosfonila</td><td colspan="2">PGQ</td><td colspan="2">precursor de agente neurotóxico etil sarin (GE)</td></tr>
@@ -3573,7 +3669,7 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">dimetilfosforoamidato de dietila (N, N-dimetilfosforoamidato de dietila)</td><td colspan="2">PGQ</td><td colspan="2">precurso do agente neurotóxico TABUN (GA)</td></tr>
 <tr><td></td><td colspan="2">dióxido de nitrogênio (monômero do tetraóxido de dinitrogênio)</td><td colspan="2">QM</td><td colspan="2">oxidante para combustível para foguetes</td></tr>
 <tr><td></td><td colspan="2">dioxina (tetraclorodibenzeno-p.dioxina-2-3-7-8)</td><td colspan="2">GQ</td><td colspan="2">extremamente tóxico; composto comprovadamente teratogênico; empregado associado a agentes com ação sobre a vida vegetal.</td></tr>
-<tr><td></td><td colspan="6"><strong>E</strong></td></tr>
+<tr><td></td><td colspan="6">**E**</td></tr>
 <tr><td></td><td colspan="2">éter dibromometílico</td><td colspan="2">GQ</td><td colspan="2">agente sufocante</td></tr>
 <tr><td></td><td colspan="2">éter diclorometílico</td><td colspan="2">GQ</td><td colspan="2">agente sufocante</td></tr>
 <tr><td></td><td colspan="2">etilcarbazol (N-etilcarbazol)</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
@@ -3583,7 +3679,7 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">etilfosfonato de dietila</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neurotóxico etil sarin (GE0</td></tr>
 <tr><td></td><td colspan="2">etilfosfonato de dimetila</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neurotóxico etil sarin (GE)</td></tr>
 <tr><td></td><td colspan="2">etil S-2-disopropilaminoetilene-tilfosfonotiolato (VX)</td><td colspan="2">GQ</td><td colspan="2">agente neurotóxico</td></tr>
-<tr><td></td><td colspan="6"><strong>F</strong></td></tr>
+<tr><td></td><td colspan="6">**F**</td></tr>
 <tr><td></td><td colspan="2">fenildibromoarsina (dibromofenilarsina)</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">fenildicloroarsina (diclorofenilarsina; PD)</td><td colspan="2">GQ</td><td colspan="2">agente vesicante</td></tr>
 <tr><td></td><td colspan="2">fluoreto de potássio</td><td colspan="2">PGQ</td><td colspan="2">precurso de agentes neurotóxicos; SARIN (GB); SOMAN (GD); GF</td></tr>
@@ -3594,11 +3690,11 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">fosfito de trietila (fosfito trietílico; trietil fosfito)</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neurotóxico VG</td></tr>
 <tr><td></td><td colspan="2">fosfito de trimetila (fosfito trimetílico, trimetil fosfito)</td><td colspan="2">PGQ</td><td colspan="2">usado para fazer dimetilmetilfosfonato (DMMP) - rearranjo molecular</td></tr>
 <tr><td></td><td colspan="2">fósforo branco ou amarelo</td><td colspan="2">GQ</td><td colspan="2">agente incendiário</td></tr>
-<tr><td></td><td colspan="6"><strong>G</strong></td></tr>
+<tr><td></td><td colspan="6">**G**</td></tr>
 <tr><td></td><td colspan="2">glicidil azida polimerizada</td><td colspan="2">GM</td><td colspan="2">constituinte de propelente</td></tr>
-<tr><td></td><td colspan="6"><strong>H</strong></td></tr>
+<tr><td></td><td colspan="6">**H**</td></tr>
 <tr><td></td><td colspan="2">hidroximetilpiperidina (3-hidroxi-1-metilpiperidina)</td><td colspan="2">PGQ</td><td colspan="2">provável precursor de compostos psicoativos tais como o BZ</td></tr>
-<tr><td></td><td colspan="6"><strong>I</strong></td></tr>
+<tr><td></td><td colspan="6">**I**</td></tr>
 <tr><td></td><td colspan="2">iodeto de benzila</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">iodeto de cianogênio (cianeto de iodo)</td><td colspan="2">GQ</td><td colspan="2">provável emprego como agente hermatóxico</td></tr>
 <tr><td></td><td colspan="2">iodeto de fenarsazina</td><td colspan="2">GQ</td><td colspan="2">provável emprego como agente vomitivo</td></tr>
@@ -3606,7 +3702,7 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">iodeto de nitrobenzila</td><td colspan="2">GQ</td><td colspan="2">provável emprego como agente lacrimogêneo</td></tr>
 <tr><td></td><td colspan="2">iodoacetato de etila</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">iodoacetona</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
-<tr><td></td><td colspan="6"><strong>M</strong></td></tr>
+<tr><td></td><td colspan="6">**M**</td></tr>
 <tr><td></td><td colspan="2">magnésio e suas ligas, em pó</td><td colspan="2">QM</td><td colspan="2">agente incendiário</td></tr>
 <tr><td></td><td colspan="2">metildicloroarsina (diclorometilarsina; MD)</td><td colspan="2">GQ</td><td colspan="2">agente vesicante</td></tr>
 <tr><td></td><td colspan="2">metildietanolamina</td><td colspan="2">PGQ</td><td colspan="2">precursor de agentes vesicantes nitrogênio mostardas</td></tr>
@@ -3614,32 +3710,32 @@ PRODUTOS QUÍMICOS
 <tr><td></td><td colspan="2">metilfosfonato de O-etil-2-diisopropilaminoetilo</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neurotóxico VX</td></tr>
 <tr><td></td><td colspan="2">misturas polimétricas compostas de ácido acrílico-polibutadieno-acrilonitrila</td><td colspan="2">QM</td><td colspan="2">combustível para foguetes</td></tr>
 <tr><td></td><td colspan="2">misturas polimétricas compostas de ácido acrílico e polibutadieno</td><td colspan="2">QM</td><td colspan="2">combustível para foguetes</td></tr>
-<tr><td></td><td colspan="6"><strong>N</strong></td></tr>
+<tr><td></td><td colspan="6">**N**</td></tr>
 <tr><td></td><td colspan="2">NAPALM (puro ou como gasolina gelatinizada para uso em bombas incendiárias e lança-chamas)</td><td colspan="2">GQ</td><td colspan="2">gelatinizante de gasolina; nome aplicado à gasolina gelatinizada, agente incendiário</td></tr>
 <tr><td></td><td colspan="2">nitrato de potássio</td><td colspan="2">QM</td><td colspan="2">componente da pólvora negra</td></tr>
-<tr><td></td><td colspan="6"><strong>O</strong></td></tr>
+<tr><td></td><td colspan="6">**O**</td></tr>
 <tr><td></td><td colspan="2">ortoclorobenzalmalononitrila (CS)</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">oxicloreto de fósforo</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neorotóxico TABUN (GA)</td></tr>
 <tr><td></td><td colspan="2">óxido de dimetilaminoetoxicianofosfina (GA, etil éster do ácido fosforoamidociânico, TABUN)</td><td colspan="2">GQ</td><td colspan="2">agente neurológico</td></tr>
 <tr><td></td><td colspan="2">óxido de metilsopropiloxiflorofosfina (GB, 1-metil-etil éster do ácido metilfosfonofluorídrico, SARIN)</td><td colspan="2">GQ</td><td colspan="2">agente neurotóxico</td></tr>
 <tr><td></td><td colspan="2">óxido de metilpinacoliloxifluorifosfina (GD; 1,1,2-trimetril-propil éster do ácido metilfosfonofluorídrico, SOMAN)</td><td colspan="2">GQ</td><td colspan="2">agente neurotóxico</td></tr>
 <tr><td></td><td colspan="2">óxido de tri (1(2-metil) aziridinil) fosfina</td><td colspan="2">GQ</td><td colspan="2">agente neurotóxico</td></tr>
-<tr><td></td><td colspan="6"><strong>P</strong></td></tr>
+<tr><td></td><td colspan="6">**P**</td></tr>
 <tr><td></td><td colspan="2">pentacloreto de fósforo</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neurotóxico TABUN(GA)</td></tr>
 <tr><td></td><td colspan="2">pentóxido de dinitrogênio</td><td colspan="2">QM</td><td colspan="2">oxidante para combustível para foguetes</td></tr>
 <tr><td></td><td colspan="2">pimenta líquida (oleoresin capsicum (capsaicinoides): capaicina; diidrocapsaicina; e nordiidrocapsaicina)</td><td colspan="2">GQ</td><td colspan="2">agente lacrimogênio</td></tr>
 <tr><td></td><td colspan="2">pinacolona (3,3-dicloro-2-butanona)</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente neurotóxico SOMAN(GD)</td></tr>
 <tr><td></td><td colspan="2">polibutadieno carboxiterminado</td><td colspan="2">QM</td><td colspan="2">combustível para foguetes</td></tr>
 <tr><td></td><td colspan="2">polibutadieno hidroxiterminado</td><td colspan="2">QM</td><td colspan="2">combustível para foguetes</td></tr>
-<tr><td></td><td colspan="6"><strong>Q</strong></td></tr>
+<tr><td></td><td colspan="6">**Q**</td></tr>
 <tr><td></td><td colspan="2">quinuclidinol (3-quinuclidinol; 1-azabiciclo[2,2,2] octan-3-o1)</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente psicoquímimco BZ</td></tr>
 <tr><td></td><td colspan="2">quinuclidinona (3-quinuclidinona)</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente psicoquímico BZ</td></tr>
-<tr><td></td><td colspan="6"><strong>S</strong></td></tr>
+<tr><td></td><td colspan="6">**S**</td></tr>
 <tr><td></td><td colspan="2">sulfato de dimetila (sulfato de metila)</td><td colspan="2">CG</td><td colspan="2">agente vesicante</td></tr>
 <tr><td></td><td colspan="2">Sulfeto de 1, 2-bis (2-cloroetiltio) etano (o; sesquimostarda)</td><td colspan="2">GQ</td><td colspan="2">Agente vesicante</td></tr>
 <tr><td></td><td colspan="2">sulfeto de sódio</td><td colspan="2">PGQ</td><td colspan="2">precursor do agente vesicante mostarda (HD)</td></tr>
 <tr><td></td><td colspan="2">sulfeto diclorodietílico (gás mostarda; HD; iperita; sulfeto de diclorodietila; sulfeto de dicloroetila; sulfeto de etila diclorado; sulfeto dicloroetílico)</td><td colspan="2">GQ</td><td colspan="2">agente vesicante</td></tr>
-<tr><td></td><td colspan="6"><strong>T</strong></td></tr>
+<tr><td></td><td colspan="6">**T**</td></tr>
 <tr><td></td><td colspan="2">tepan (reaçãod e tetratilenopentamina e acrilonitrila, HX879)</td><td colspan="2">QM</td><td colspan="2">emprego em misturas combustíveis para foguetes</td></tr>
 <tr><td></td><td colspan="2">tepanol (reação de tetratileno-pentamina, acrilonitrila e glicidol, HX878)</td><td colspan="2">QM</td><td colspan="2">emprego em misturas combustíveis para foguetes</td></tr>
 <tr><td></td><td colspan="2">tetraclorodinitroetano</td><td colspan="2">GQ</td><td colspan="2">altamente tóxico pro ingestão e inalação; fortemente irritante - provável emprego como agente inquietante, vomitivo</td></tr>
@@ -3789,10 +3885,13 @@ V - Observações:
 
 VI - Matéria-prima utilizada na obtenção de 1.000 kg:
 
-<table>
-<tr><td>Nomenclatura</td><td>Quantidade</td><td>Procedência</td><td>Observações</td></tr>
-<tr><td></td><td></td><td></td><td></td></tr>
-</table>
+Nomenclatura
+
+Quantidade
+
+Procedência
+
+Observações
 
 VIII - Fontes de aquisição da matéria-prima (firmas e endereços):
 
@@ -4430,10 +4529,19 @@ Exmo Sr Comandante da ..............ª Região Militar
 
 (Nome da firma).............................................................., estabelecida à....................................(rua, nº)........................................portadora do Certificado de Registro nº........................, apresenta à V. Exa. O mapa de estocagem de produto controlados referente ao........trimestre (\*) de 20......., de acordo com o regulamento para a Fiscalização de Produtos Controlados (R-105).
 
-<table>
-<tr><td>PRODUTO CONTROLADO</td><td>Nº DAS GUIAS DE TRÁFEGO</td><td>ENTRADA</td><td>ESTOQUE DO TRIMESTRE ANTERIOR</td><td>CONSUMO</td><td>ESTOQUE PARA O TRIMESTRE SEGUINTE</td><td>PROCEDÊNCIA</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
+PRODUTO CONTROLADO
+
+Nº DAS GUIAS DE TRÁFEGO
+
+ENTRADA
+
+ESTOQUE DO TRIMESTRE ANTERIOR
+
+CONSUMO
+
+ESTOQUE PARA O TRIMESTRE SEGUINTE
+
+PROCEDÊNCIA
 
 (\*)Poderá ser enviado mensalmente, se for do interesse da empresa.
 
@@ -4645,10 +4753,21 @@ MAPA DOS DESEMBARAÇOS ALFANDEGÁRIOS
 
 MAPA DOS DESEMBARAÇOS ALFANDEGÁRIOS PROCEDIDOS POR ESTA REGIÃO MILITAR DURANTE O\_\_\_\_\_\_\_\_\_\_TRIMESTRE DO ANO DE\_\_\_\_\_\_\_\_
 
-<table>
-<tr><td>DISCRIMINAÇÃO DOS DESEMBARAÇOS</td><td>UNIDADE</td><td>QUANTIDADE</td><td>PROCEDÊNCIA</td><td>DESTINÁRIO</td><td>CIDADE</td><td>UF</td><td>OBS</td></tr>
-<tr><td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td></tr>
-</table>
+DISCRIMINAÇÃO DOS DESEMBARAÇOS
+
+UNIDADE
+
+QUANTIDADE
+
+PROCEDÊNCIA
+
+DESTINÁRIO
+
+CIDADE
+
+UF
+
+OBS
 
 Obs.: na coluna destinada a observações, citar o número e data do CII correspondente.
 
@@ -4662,15 +4781,19 @@ Exmo. Sr. Comandante da \_\_\_\_\_\_\_Região Militar
 
 (Impresso em papel liso com 16 espaços simples.)
 
-<table>
-<tr><td>(Nome da empresa)..............................................................................................., estabelecida em</td></tr>
-<tr><td>......................................................................, representada, neste ato, por seu proprietário (sócio,</td></tr>
-<tr><td>Diretor, etc,) ...............(nome do sócio, diretor, etc,)................., ..............................(nacionalidade</td></tr>
-<tr><td>de)........, ...........(estado civil)................, .....................(profissão)....................... domiciliado à .......</td></tr>
-<tr><td>......................(endereço completo)............................,.............. portador do Certificado de Registro</td></tr>
-<tr><td>nº.............................................................., vem, pelo presente, requerer a V Exa autorização para</td></tr>
-<tr><td>proceder o seguinte Desembaraço Alfandegário:</td></tr>
-</table>
+(Nome da empresa)..............................................................................................., estabelecida em
+
+......................................................................, representada, neste ato, por seu proprietário (sócio,
+
+Diretor, etc,) ...............(nome do sócio, diretor, etc,)................., ..............................(nacionalidade
+
+de)........, ...........(estado civil)................, .....................(profissão)....................... domiciliado à .......
+
+......................(endereço completo)............................,.............. portador do Certificado de Registro
+
+nº.............................................................., vem, pelo presente, requerer a V Exa autorização para
+
+proceder o seguinte Desembaraço Alfandegário:
 
 \-DISCRIMINAÇÃO-
 
@@ -4758,19 +4881,27 @@ GUIA DE DESEMBARAÇO Nº \_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Ilmo Sr. Inspetor da Alfândega de ...................................................................................................
 
-<table>
-<tr><td>De acordo com o art. 210 do Regulamento para Fiscalização de Produtos Controlados (R-105)</td></tr>
-<tr><td>, aprovado pelo decreto nº ..........., de ...................e determinação do Exmo Sr Comandante da</td></tr>
-<tr><td>....................Regio Militar, informa V. S<sup>a </sup>que no exame precedido em</td></tr>
-<tr><td>.......................................................................................................................................................</td></tr>
-<tr><td>.......................................................................................................................................................</td></tr>
-<tr><td>com as marcas: .............................................................................................................................</td></tr>
-<tr><td>Número de volumes..............................., numerados:..................................................................,</td></tr>
-<tr><td>Procedentes de:........................................................................., entrado neste porto (aeroporto)</td></tr>
-<tr><td>em:...................................................., e descarregados no armazém .........................................,</td></tr>
-<tr><td>não haver inconveniente no desembaraço dos referidos volumes.</td></tr>
-<tr><td>Requerimento protocolado sob o nº ....................................................................</td></tr>
-</table>
+De acordo com o art. 210 do Regulamento para Fiscalização de Produtos Controlados (R-105)
+
+, aprovado pelo decreto nº ..........., de ...................e determinação do Exmo Sr Comandante da
+
+....................Regio Militar, informa V. Sªque no exame precedido em
+
+.......................................................................................................................................................
+
+.......................................................................................................................................................
+
+com as marcas: .............................................................................................................................
+
+Número de volumes..............................., numerados:..................................................................,
+
+Procedentes de:........................................................................., entrado neste porto (aeroporto)
+
+em:...................................................., e descarregados no armazém .........................................,
+
+não haver inconveniente no desembaraço dos referidos volumes.
+
+Requerimento protocolado sob o nº ....................................................................
 
 Importação autorizada pelo Certificado Internacional de Importação nº ........................................
 
@@ -4792,15 +4923,19 @@ Exmo Sr Coandante da \_\_\_\_\_\_\_\_\_\_\_\_ Região Militar
 
 (Impresso com 16 espaços simples)
 
-<table>
-<tr><td>(Nome por extenso)....................................................., (nacionalidade), ........................................</td></tr>
-<tr><td>Residente à ...................................portador do passa porte nº ........................................................,</td></tr>
-<tr><td>emitido em (Cidade, Estado)............................................., em (data) ......................, tendo trazido</td></tr>
-<tr><td>do .............. (país)...................................., com bagagem acompanhada (ou acompanhada),</td></tr>
-<tr><td>vinda pelo navio (ou pelo vôo nº) ........... na data de .................................................., os produtos</td></tr>
-<tr><td>Controlados pelo Exército abaixo especificados, vem pelo presente requerer a V Exa o desemba</td></tr>
-<tr><td>ço alfandegário dos mesmos, que se encontram no armazém de bagagem do .............................</td></tr>
-</table>
+(Nome por extenso)....................................................., (nacionalidade), ........................................
+
+Residente à ...................................portador do passa porte nº ........................................................,
+
+emitido em (Cidade, Estado)............................................., em (data) ......................, tendo trazido
+
+do .............. (país)...................................., com bagagem acompanhada (ou acompanhada),
+
+vinda pelo navio (ou pelo vôo nº) ........... na data de .................................................., os produtos
+
+Controlados pelo Exército abaixo especificados, vem pelo presente requerer a V Exa o desemba
+
+ço alfandegário dos mesmos, que se encontram no armazém de bagagem do .............................
 
 \-DISCRIMINAÇÃO-
 

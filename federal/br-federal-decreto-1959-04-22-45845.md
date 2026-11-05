@@ -1,5 +1,3 @@
-###DEC-045845-0-000-22-04-1959@@@
-
 DECRETO Nº 45.845, DE 22 DE ABRIL DE 1959.
 
 Declara públicas de uso comum, do domínio do Estado de Minas Gerais, as águas do rio “Serra Azul”.

@@ -1,5 +1,3 @@
-###DEC-051472-0-000-23-05-1962@@@
-
 DECRETO Nº 51.472, DE 23 DE MAIO DE 1962.
 
 Amplia a carreira de Procurado do Instituto de Previdência e Assistência dos Servidores do Estado.

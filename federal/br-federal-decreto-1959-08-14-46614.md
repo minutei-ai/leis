@@ -1,5 +1,3 @@
-###DEC-046614-0-000-14-08-1959@@@
-
 Decreto nº 46.614, de 14 de agôsto de 1959.
 
 Autoriza o cidadão brasileiro Ovídio Regis de Jesus a pesquisar minério de chumbo no município de Uruaçu, Estado de Goiás.

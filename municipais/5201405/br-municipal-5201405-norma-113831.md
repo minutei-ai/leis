@@ -34,7 +34,8 @@ III - EVANGELISTA FERREIRA DIAS, portador da Carteira de Identidade nº 314XXXX 
 
 IV -  ANDRÉ DE CARVALHO ALVES, portador da Carteira de Identidade nº 272XXXX SSP/GO, representante com conhecimento na área de trânsito;
 
-V -  LARYSSA ROMERO DE PAULA, portadora da Carteira de Identidade nº 593XXXX SSP/GO, representante da Prefeitura;<br>
+V -  LARYSSA ROMERO DE PAULA, portadora da Carteira de Identidade nº 593XXXX SSP/GO, representante da Prefeitura;
+
 (Redação alterada pelo Decreto “N” Nº 135, de 12 de março de 2024.)
 
 ~~PRESIDENTE:~~
@@ -75,11 +76,14 @@ Art. 4º - Ficam revogados os Decretos “N” Nº 681, de 14 de setembro de 202
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 12 de julho de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo
 
-AVELINO MARINHO SOUSA<br>
+AVELINO MARINHO SOUSA
+
 Secretário Executivo de Mobilidade

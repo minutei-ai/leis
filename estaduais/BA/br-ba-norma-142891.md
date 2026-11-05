@@ -4,14 +4,16 @@ Institui a Política Estadual de Agroecologia e Produção Orgânica, e dá outr
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Fica instituída a Política Estadual de Agroecologia e Produção Orgânica - PEAPO, com o objetivo de promover ações indutoras da transição agroecológica, da produção orgânica, de base agroecológica e do extrativismo sustentável, orientando o desenvolvimento sustentável e a qualidade de vida das populações nas cidades e no campo, por meio da oferta e consumo de alimentos saudáveis e do uso sustentável de recursos naturais na perspectiva da segurança e soberania alimentar e nutricional.
 
 **Parágrafo único -** A PEAPO será implementada pelo Estado em regime de cooperação com a União, Municípios, organizações populares e movimentos da sociedade civil e outras entidades privadas, além da conferência correspondente.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS CONCEITOS ADOTADOS
 
 **Art. 2º** - Para fins desta Lei, considera-se:
@@ -52,7 +54,8 @@ DOS CONCEITOS ADOTADOS
 
 **XVIII -** educação do campo: concepção pedagógica e política, pautada na inclusão, sustentabilidade e bem-estar, em consonância com a realidade local, vocação socioeconômica e a diversidade das populações do campo, em vista do fortalecimento das identidades, pertencimentos, aspectos socioculturais e ambientais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DIRETRIZES
 
 **Art. 3º** - São diretrizes da PEAPO:
@@ -91,7 +94,8 @@ DAS DIRETRIZES
 
 **XVII -** realizar ações complementares, no âmbito desta Lei, em apoio à reforma agrária, para discriminação, regularização, demarcação e distribuição das terras públicas do Estado e para terras das comunidades de povos tradicionais.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS INSTRUMENTOS
 
 **Art. 4º** - São instrumentos da PEAPO:
@@ -124,7 +128,8 @@ DOS INSTRUMENTOS
 
 **XIV -** currículos contextualizados na educação pública nos diversos níveis e modalidades, bem como oferta de cursos técnicos de nível médio e superior de agroecologia no âmbito do Sistema Estadual de Ensino.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO PLANO ESTADUAL DE AGROECOLOGIA E DE PRODUçãO ORGâNICA
 
 **Art. 5º** - O PLEAPO terá como conteúdo os seguintes elementos:
@@ -175,7 +180,8 @@ DO PLANO ESTADUAL DE AGROECOLOGIA E DE PRODUçãO ORGâNICA
 
 **Art. 7º** - Será criado um sistema participativo de certificação de produtos de base agroecológica, cujo selo será destinado exclusivamente ao público da Lei Federal nº 11.326, de 24 de julho de 2006, a ser regulamentado pelo Poder Executivo Estadual.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA INSTâNCIA DE GESTÃO
 
 **Art. 8º** - São instâncias e componentes de gestão, execução e controle social da PEAPO:
@@ -236,7 +242,8 @@ DA INSTâNCIA DE GESTÃO
 
 **Art. 13** - A participação dos representantes na CEAPO e na CIAPO será considerada de relevante interesse público e não enseja remuneração.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS FONTES DE FINANCIAMENTO
 
 **Art. 14** - Poderão constituir fontes de financiamento da PEAPO:

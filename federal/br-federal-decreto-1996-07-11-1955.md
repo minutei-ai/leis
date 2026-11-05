@@ -1,5 +1,3 @@
-###DEC-001955-0-000-11-07-1996@@@
-
 DECRETO Nº 1.955, DE 11 DE JULHO DE 1996.
 
 Dá nova redação aos arts. 1º, 2º, 4º, 5º, 8º e 13 do Decreto nº 1.903, de 10 de maio de 1996, que dispõe sobre as consignações em folha de pagamento de servidores públicos civis da Administração Federal direta, autárquica e fundacional.

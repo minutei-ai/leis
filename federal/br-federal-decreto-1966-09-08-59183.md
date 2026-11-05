@@ -1,5 +1,3 @@
-###DEC-059183-0-000-08-09-1966@@@
-
 DECRETO Nº 59.183, DE 8 DE SETEMBRO DE 1966.
 
 Autoriza a Companhia Siderúrgica Paulista - COSIPA - a lavrar calcário no município de Salto de Pirapora, no Estado de São Paulo.

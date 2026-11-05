@@ -1,5 +1,3 @@
-###DEC-052788-0-000-30-10-1963@@@
-
 DECRETO Nº 52.788, DE 30 DE OUTUBRO DE 1963.
 
 Cria a Comissão Brasileira para Assuntos da Indústria Automobilística na ALALC

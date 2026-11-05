@@ -1,5 +1,3 @@
-###DEC-070512-0-000-12-05-1972@@@
-
 Decreto Nº 70.512, de 12 de Maio de 1972.
 
 Autoriza a cessão, sob o regime de aforamento, à Prefeitura Municipal de São Luís, no Estado do Maranhão, dos terrenos que menciona.

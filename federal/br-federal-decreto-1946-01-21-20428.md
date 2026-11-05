@@ -1,10 +1,8 @@
-###DEC-020428-0-000-21-01-1946@@@
+**DECRETO Nº 20.428, DE 21 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.428, DE 21 DE JANEIRO DE 1946.</strong>
+***Aprova o Plano Telegráfico Nacional elaborado pelo Departamento dos Correios e Telégrafos e dá outras providências.***
 
-<em><strong>Aprova o Plano Telegráfico Nacional elaborado pelo Departamento dos Correios e Telégrafos e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 74, letra *a*, da Constituição, e
 
 CONSIDERANDO que o volume do tráfego telegráfico nas zonas de maior densidade demográfica e de mais intenso intercâmbio comercial ultrapassou a capacidade da atual rêde telegráfica do Departamento dos Correios e Telégrafos, compreendidos nesta os circuitos rádio;
 
@@ -16,13 +14,13 @@ CONSIDERANDO que o problema não pode ser resolvido sòmente por meio de circuit
 
 CONSIDERANDO que dos estudos a que procedeu o Departamento dos Correios e Telégrafos resultou a elaboração de um plano telegráfico que atenderá as necessidades atuais do tráfego telegráfico e às previsíveis em futuro razoável, utilizados os recursos da moderna técnica de comunicações;
 
-CONSIDERANDO que para êsse <em>desideratum</em> é imperioso fixar as diretrizes do plano a executar e as suas características técnicas; e
+CONSIDERANDO que para êsse *desideratum* é imperioso fixar as diretrizes do plano a executar e as suas características técnicas; e
 
-Atendendo ao que propôs a Comissão de Planejamento do Departamento dos Correios e Telégrafos, de acôrdo com a alínea <em>e</em> do art. 29 do Decreto-lei nº 8.308, de 6 de dezembro de 1945.
+Atendendo ao que propôs a Comissão de Planejamento do Departamento dos Correios e Telégrafos, de acôrdo com a alínea *e* do art. 29 do Decreto-lei nº 8.308, de 6 de dezembro de 1945.
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovado o Plano Telegráfico Nacional, representado e descrito nos seguintes documentos que com êste baixa:
+**Art**. 1º Fica aprovado o Plano Telegráfico Nacional, representado e descrito nos seguintes documentos que com êste baixa:
 
 a) mapa do Brasil com a indicação da rêde básica geral de condutores e de circuitos radiotelegráficos compreendidos no Plano (desenhos nº I);
 
@@ -34,23 +32,23 @@ d) especificações gerais de ordem técnica que devem ser atendidas na constru�
 
 e) especificações gerais de ordem técnica da aparelhagem que deve ser empregada para o serviço telegráfico por fio e da aparelhagem destinada ao serviço telegráfico por via rádio.
 
-<strong>Art</strong>. 2º O sistema telegráfico do Departamento dos Correios e Telégrafos, previsto no Plano de que trata êste decreto, compreenderá:
+**Art**. 2º O sistema telegráfico do Departamento dos Correios e Telégrafos, previsto no Plano de que trata êste decreto, compreenderá:
 
 a) uma rêde básica de condutores ligando os principais pontos do País, nas áreas em que fôr praticável e aconselhável o emprêgo de linhas;
 
 b) uma rêde básica de circuitos rádio cobrindo as áreas não servidas pela rêde de condutores e superpondo-se a esta nos principais pontos de convergência de tráfego, tendo aí, por objetivo, constituir uma via de comunicação a mais nas situações de emergência.
 
-<strong>Art</strong>. 3º O Plano Telegráfico Nacional será realizado por etapas sucessivas, segundo a ordem de prioridades determinada em conseqüência das solicitações de tráfego, de modo que a realização de cada etapa, por si só, acarrete alívio imediato e melhoramento definitivo ao serviço atual.
+**Art**. 3º O Plano Telegráfico Nacional será realizado por etapas sucessivas, segundo a ordem de prioridades determinada em conseqüência das solicitações de tráfego, de modo que a realização de cada etapa, por si só, acarrete alívio imediato e melhoramento definitivo ao serviço atual.
 
-<strong>Art</strong>. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 21 de janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva
 
-<strong>PLANO TELEGRÁFICO NACIONAL</strong>
+**PLANO TELEGRÁFICO NACIONAL**
 
 O sistema telegráfico do Departamento dos Correios e Telégrafos de que trata o presente Plano compreende:
 
@@ -72,7 +70,7 @@ A) REDE BÁSICA DE CONDUTORES
 
 Esta rêde está assim planejada:
 
-I. <em>Linha Norte</em>. – Partindo do Rio de Janeiro, alcançará a cidade de Vitória e daí, rumando para o norte, sucessivamente, as Capitais dos Estados, até Belém.
+I. *Linha Norte*. – Partindo do Rio de Janeiro, alcançará a cidade de Vitória e daí, rumando para o norte, sucessivamente, as Capitais dos Estados, até Belém.
 
 Esta linha desviar-se-à do trassado da linha existente em dois trechos:
 
@@ -80,15 +78,15 @@ entre o Rio de Janeiro e Vitória, devido à necessidade de evitar as zonas palu
 
 daí em diante, acompanhará praticamente traçado existente.
 
-II. <em>Linha Centro-Oeste</em>. – Partindo do Rio de Janeiro, atingirá a cidade de Belo Horizonte e prosseguirá para o norte. Alcançando o rio São Francisco, seguir-lhe-á mais ou menos o curso, até Juazeiro, donde rumará para o noroeste, terminando em Teresina.
+II. *Linha Centro-Oeste*. – Partindo do Rio de Janeiro, atingirá a cidade de Belo Horizonte e prosseguirá para o norte. Alcançando o rio São Francisco, seguir-lhe-á mais ou menos o curso, até Juazeiro, donde rumará para o noroeste, terminando em Teresina.
 
 Esta linha acompanhará parcialmente o atual traçado ao norte de Belo Horizonte e, entre Juazeiro e Oeiras, terá um extenso trêcho com traçado inteiramente novo.
 
-III. <em>Linha Sul</em>. – Partindo do Rio de Janeiro, passará por São Paulo e Curitiba e, atravessando o interior do Estado de Santa Catarina, terminará em Pôrto Alegre.
+III. *Linha Sul*. – Partindo do Rio de Janeiro, passará por São Paulo e Curitiba e, atravessando o interior do Estado de Santa Catarina, terminará em Pôrto Alegre.
 
 Do Rio de Janeiro a São Paulo e daí a Curitiba, a linha planejada seguirá, em geral, o curso da linha atual.
 
-IV. <em>Linha Sudoeste</em>. – De Capão Bonito, Estado de São Paulo, para o sul, a linha Sul será ramificada para sudoeste, constituindo essa ramificação a linha Sudoeste que, atravessando parte do Território de Iguaçu, irá atingir Passo Fundo e Santa Maria.
+IV. *Linha Sudoeste*. – De Capão Bonito, Estado de São Paulo, para o sul, a linha Sul será ramificada para sudoeste, constituindo essa ramificação a linha Sudoeste que, atravessando parte do Território de Iguaçu, irá atingir Passo Fundo e Santa Maria.
 
 Embora haja atualmente linhas nesse itinerário, a linha planejada terá traçado próprio na maior parte do percurso.
 
@@ -96,9 +94,9 @@ As quatro linhas básicas sumariamente descritas constituirão as principais art
 
 Constituirão também parte integrante do Plano, como linhas básicas, pela importância que assumem sob o ponto de vista econômico, social e político, as seguintes:
 
-V. <em>Linha Oeste-Norte</em>. – Partindo de Uberaba e passando por Goiânia, penetrará até Cuiabá. Constituirá ligação dos Estados de Mato Grosso e Goiás ao Rio de Janeiro por duas vias: pela linha Uberaba-São Paulo e pela linha Uberaba-Belo Horizonte.
+V. *Linha Oeste-Norte*. – Partindo de Uberaba e passando por Goiânia, penetrará até Cuiabá. Constituirá ligação dos Estados de Mato Grosso e Goiás ao Rio de Janeiro por duas vias: pela linha Uberaba-São Paulo e pela linha Uberaba-Belo Horizonte.
 
-VI. <em>Linha Oeste-Sul</em>. – Partindo de São Paulo, por Botucatu e Bauru, tomará aproximadamente o rumo da Estrada de Ferro Noroeste do Brasil até Campo Grande.
+VI. *Linha Oeste-Sul*. – Partindo de São Paulo, por Botucatu e Bauru, tomará aproximadamente o rumo da Estrada de Ferro Noroeste do Brasil até Campo Grande.
 
 Tôdas as linhas que constituem a rêde básica de condutores terão linhas de conexão transversais, indicadas no mapa, cujo fim será o de assegurar, por vias alternativas e sem sacrifício da eficiência do sistema planejado, as ligações das principais capitais entre si e ao Rio de Janeiro.
 
@@ -192,7 +190,7 @@ Por outro lado, com a instalação conveniente de equipamentos adicionais, a cap
 
 ESPECIFICAÇÕES GERAIS PARA CONSTRUÇÃO DAS LINHAS
 
-O tipo de linha da rêde básica telegráfica será constituído por dois pares de condutores de cobre de 2,59 mm de diâmetro (calibre 10 B&S) e de condutores adicionais de cobre, ou de ferro, quando conveniente, destinados aos circuitos <em>omnibus</em> que forem necessários, além dos que possam ser derivados da linha básica. Um par será destinado ao serviço e outro constituirá uma reserva para casos de acidente ou para facilidade dos trabalhos de conservação.
+O tipo de linha da rêde básica telegráfica será constituído por dois pares de condutores de cobre de 2,59 mm de diâmetro (calibre 10 B&S) e de condutores adicionais de cobre, ou de ferro, quando conveniente, destinados aos circuitos *omnibus* que forem necessários, além dos que possam ser derivados da linha básica. Um par será destinado ao serviço e outro constituirá uma reserva para casos de acidente ou para facilidade dos trabalhos de conservação.
 
 Nos casos em que a densidade do tráfego o exigir, a linha será constituída por quatro pares de condutores nas mesmas condições, tal como na ligação Rio de Janeiro – São Paulo.
 
@@ -210,7 +208,7 @@ A posteação será locada na base do vão normal de 66,70 m (15 postes por km).
 
 Os postes serão de madeira de lei, de ferro ou de concreto armado, segundo as conveniências econômicas da construção em função da possibilidade de cada região, devendo, nas zonas urbanas, haver preferência pela posteação em concreto armado.
 
-Às linhas secundárias e locais, destinadas aos circuitos <em>omnibus</em>, principalmente nas regiões expostas a atmosfera corrosiva, será dada preferência ao emprêgo de condutores do tipo de fio de cobre com alma de aço.
+Às linhas secundárias e locais, destinadas aos circuitos *omnibus*, principalmente nas regiões expostas a atmosfera corrosiva, será dada preferência ao emprêgo de condutores do tipo de fio de cobre com alma de aço.
 
 Terão preferência, os isoladores de porcelana, dos modelos mais indicados para trabalhos nas freqüências usadas nos sistemas telegráficos de onda portadora, recomendando-se os produzidos pela indústria nacional, sempre que, a juízo do Departamento dos Correios e Telégrafos, ofereçam a eficiência desejada.
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3176d605-f91a-481b-aab3-473da2e5971d/texto#nowhere)
 
-###DEL-000825-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 825, DE 5 DE SETEMBRO DE 1969
 
 Dispõe sôbre programas educacionais nos Territórios e Fronteiras.

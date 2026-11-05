@@ -1,5 +1,3 @@
-###DEC-081820-0-000-23-06-1978@@@
-
 Decreto nº 81.820, de 23 de junho de 1978
 
 Concede à Companhia de Indústrias Gerais, Obras e Terras S.A. o direito de lavras calcário dolomítico no Município de Pinheiro Machado, Estado do Rio Grande do Sul.

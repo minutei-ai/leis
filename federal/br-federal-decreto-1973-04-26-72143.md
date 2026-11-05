@@ -1,5 +1,3 @@
-###DEC-072143-0-000-26-04-1973@@@
-
 decreto nº 72.143, de 26 de abril de 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada no lugar denominado São José, Distrito de São Amaro, Município de São Paulo, Estado de São Paulo, destinada á construção de uma Estação Telefônica, pela Companhia Telefônica Brasileira - CTB.

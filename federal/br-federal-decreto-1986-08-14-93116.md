@@ -1,5 +1,3 @@
-###DEC-093116-0-000-14-08-1986@@@
-
 DECRETO Nº 93.116, DE 14 DE AGOSTO DE 1986
 
 Cria Grupo de Trabalho objetivando a elaboração de proposta de Política Governamental para a Pecuária de Corte.

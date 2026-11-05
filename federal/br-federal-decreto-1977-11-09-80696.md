@@ -1,5 +1,3 @@
-###DEC-080696-0-000-09-11-1977@@@
-
 DECRETO Nº 80.696, DE 9 DE NOVEMBRO DE 1977.
 
 Concede à Engenharia de Minas, Indústria, Comércio e Mineração Haralyi Ltda. o direito de lavrar feldspato, quartzo e caulim no Município de Campinas, Estado de São Paulo.

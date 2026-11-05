@@ -1,5 +1,3 @@
-###DEL-004837-0-000-15-10-1942@@@
-
 DECRETO-LEI N. 4.837 – DE 15 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Agricultura o crédito suplementar de 576:600$0, às verbas que especifica

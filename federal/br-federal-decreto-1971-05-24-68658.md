@@ -1,5 +1,3 @@
-###DEC-068658-0-000-24-05-1971@@@
-
 DECRETO Nº 68.658 - DE 24 DE MAIO DE 1971.
 
 Concede à Indústria Química Sorocal S.A. o direito de lavrar diatomita, no município de Vitória da Conquista, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-006884-0-000-25-06-2009@@@
-
 DECRETO Nº 6.884, DE 25 DE JUNHO DE 2009.
 
 Institui o Comitê para Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios - CGSIM.

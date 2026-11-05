@@ -1,7 +1,3 @@
-1
-
-###DEC-001406-0-000-02-03-1995@@@
-
 DECRETO N° 1.406, DE 2 DE MARÇO DE 1995
 
 Dispõe sobre a transferência de cargos em comissão e funções gratificadas que menciona.

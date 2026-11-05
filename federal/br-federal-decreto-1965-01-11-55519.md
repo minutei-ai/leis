@@ -1,5 +1,3 @@
-###DEC-055519-0-000-11-01-1965@@@
-
 DECRETO Nº 55.519, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Augusto Cesar a pesquisar no município de Peixe, Estado de Goiás.

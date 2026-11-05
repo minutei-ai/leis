@@ -1,5 +1,3 @@
-###DEC-057941-0-000-10-03-1966@@@
-
 DECRETO Nº 57.941, DE 10 DE MARÇO DE 1966.
 
 Regula a aplicação da Lei nº 4.838, de 10 de novembro de 1965.

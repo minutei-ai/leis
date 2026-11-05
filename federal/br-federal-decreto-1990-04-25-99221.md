@@ -1,7 +1,3 @@
-1
-
-###DEC-099221-0-000-25-04-1990@@@
-
 DECRETO Nº 99.221, DE 25 DE ABRIL DE 1990
 
 Cria a Comissão Interministerial para a Preparação da Conferência das Nações Unidas sobre Meio Ambiente e Desenvolvimento (Cima), e dá outras providências.

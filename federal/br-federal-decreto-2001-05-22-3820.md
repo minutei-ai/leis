@@ -1,5 +1,3 @@
-###DEC-003820-0-000-22-05-2001@@@
-
 DECRETO Nº 3.820, DE 22 DE MAIO DE 2001
 
 Dispõe sobre o horário de expediente nos ministérios e nos órgãos e entidades sob sua supervisão durante o período de crise de energia elétrica.

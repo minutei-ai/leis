@@ -1,5 +1,3 @@
-###DEL-003113-0-000-12-03-1941@@@
-
 DECRETO-LEI N. 3.113 – DE 12 DE MARÇO DE 1941
 
 Dispõe sobre a extensão dos serviços de energia elétrica à vila de Indiana, município de Regente Feijó, Estado de São Paulo, por parte da Companhia Elétrica Caiuá, S. A.

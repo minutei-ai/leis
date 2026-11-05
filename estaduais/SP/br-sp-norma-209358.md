@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209358)<br>
-
 # DECRETO N° 68.476, DE 24 DE ABRIL DE 2024
 
 ### _Dispõe sobre a fixação de valor máximo anual para fins de pagamento da Bonificação por Resultados - BR da Secretaria da Educação relativa ao exercício de 2023._

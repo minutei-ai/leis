@@ -1,5 +1,3 @@
-###DEC-054405-0-000-10-10-1964@@@
-
 DECRETO Nº 54.405, DE 10 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro France de Paula Andrade a lavrar minério de ferro, no município de Itabira Estado de Minas Gerais.

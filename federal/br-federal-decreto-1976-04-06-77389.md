@@ -1,5 +1,3 @@
-###DEC-077389-0-000-06-04-1976@@@
-
 DECRETO Nº 77.389 - DE 6 DE ABRIL DE 1976
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto número 70.025, de 24 de janeiro de 1972, o Conselho Nacional de Direito Autoral.

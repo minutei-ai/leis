@@ -1,5 +1,3 @@
-###DEC-002254-0-000-16-06-1997@@@
-
 DECRETO Nº 2.254, DE 16 DE JUNHO DE 1997
 
 Aprova o Estatuto da Caixa Econômica Federal - CEF e dá outras providências.

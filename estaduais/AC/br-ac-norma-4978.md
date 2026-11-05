@@ -1,6 +1,10 @@
 > **LEI Nº 3.881, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa Estadual de Fomento “Novos Horizontes”, destinado às cooperativas e associações de agricultura familiar, por meio de estratégias de inclusão produtivas, com vistas à promoção da segurança alimentar e nutricional, e contribuindo para o incremento da renda dos beneficiários e de suas famílias.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa Estadual de Fomento “Novos Horizontes”, destinado às cooperativas e associações de agricultura familiar, por meio de estratégias de inclusão produtivas, com vistas à promoção da segurança alimentar e nutricional, e contribuindo para o incremento da renda dos beneficiários e de suas famílias.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

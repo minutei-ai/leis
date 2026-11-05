@@ -1,5 +1,3 @@
-###DEC-085862-0-000-31-03-1981@@@
-
 Decreto nº 85.862, de 31 de março de 1981.
 
 Atribui competência às Instituições de Ensino Superior para fixar as condições de Ensino superior para fixar as condições necessárias ao exercício das funções de monitoria e dá outras providências.

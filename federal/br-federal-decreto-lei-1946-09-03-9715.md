@@ -1,5 +1,3 @@
-###DEL-009715-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.715 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 149. 715,20, para pagamento de fornecimentos feitos pela firma F. Passos & Companhia.

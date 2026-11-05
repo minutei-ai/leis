@@ -1,5 +1,3 @@
-###DEC-002342-0-000-09-10-1997@@@
-
 DECRETO Nº 2.342, DE 9 DE OUTUBRO DE 1997
 
 Altera o Anexo do Regulamento da Organização e de Custeio da Seguridade Social - ROCSS, aprovado pelo Decreto nº 2.173, de 5 de março de 1997.

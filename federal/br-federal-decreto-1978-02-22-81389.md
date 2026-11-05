@@ -1,5 +1,3 @@
-###DEC-081389-0-000-22-02-1978@@@
-
 Decreto nº 81.389, de 22 de fevereiro de 1978.
 
 Declara sem efeito o Decreto nº 44.293, de 07 de agosto de 1958, que autorizou o cidadão brasileiro José Marinho Thomasi a lavrar minério de ferro no Município de Itabira, Estado de Minas Gerais.

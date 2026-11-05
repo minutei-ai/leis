@@ -1,5 +1,3 @@
-###DEC-091993-0-000-28-11-1985@@@
-
 DECRETO Nº 91.993, DE 28 DE NOVEMBRO DE 1985.
 
 Altera o caput e o § 1º do art. 2º do Decreto nº 91.370, de 26 de junho de 1985.

@@ -1,5 +1,3 @@
-###DEC-073658-0-000-15-02-1974@@@
-
 DECRETO Nº 73.658, DE 15 DE FEVEREIRO DE 1974.
 
 Dispõe sobre o enquadramento de servidor do extinto serviço de Alimentação da Previdência Social.

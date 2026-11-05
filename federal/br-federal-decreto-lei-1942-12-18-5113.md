@@ -1,5 +1,3 @@
-###DEL-005113-0-000-18-12-1942@@@
-
 DECRETO-LEI N. 5.113 – DE 18 DE DEZEMBRO DE 1942
 
 Cria a 1ª Companhia de Metralhadoras Anti-Aéreas da 8ª Região Militar

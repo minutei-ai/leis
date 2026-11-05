@@ -1,7 +1,3 @@
-1
-
-###DEC-001750-0-000-19-12-1995@@@
-
 DECRETO Nº 1.750, DE 19 DE DEZEMBRO DE 1995.
 
 Altera a Ordenança Geral para o Serviço da Armada, aprovada pelo Decreto nº 95.480, de 13 de dezembro de 1987.

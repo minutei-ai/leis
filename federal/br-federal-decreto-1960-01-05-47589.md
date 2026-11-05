@@ -1,5 +1,3 @@
-###DEC-047589-0-000-05-01-1960@@@
-
 DECRETO Nº 47.589, DE 5 DE JANEIRO DE 1960.
 
 Renova a declaração de utilidade pública, a que se refere o Decreto número 31.166, de 21 de julho de 1952, para fins de desapropriação, pelo Departamento Nacional de Estradas de Ferro, de áreas de terrenos e respectivas benfeitorias, no Estado de Goiás.

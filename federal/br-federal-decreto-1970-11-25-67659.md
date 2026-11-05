@@ -1,5 +1,3 @@
-###DEC-067659-0-000-25-11-1970@@@
-
 DECRETO Nº 67.659, de 25 de novembro de 1970.
 
 Declara de utilidade pública o Instituto Bom Pastor, com sede em Recife, Estado de Pernambuco.

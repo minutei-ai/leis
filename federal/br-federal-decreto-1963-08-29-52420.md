@@ -1,5 +1,3 @@
-###DEC-052420-0-000-29-08-1963@@@
-
 DECRETO Nº 52.420, DE 29 DE AGÔSTO DE 1963.
 
 Altera o Decreto nº 45.426, de fevereiro de 1959, publicado no Diário Oficial de 22 e republicado no D.O. de 28 do mesmo mês e ano e reajusta a representação por serviço no exterior concedida aos Cônsules Privativos, nível 18.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000853-0-000-26-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 853, DE 26 DE JANEIRO DE 1995
 
 Dispõe sobre a remuneração dos recursos do Fundo Nacional De Desenvolvimento (FND) repassados, sob a forma de empréstimo, à Financiadora de Estudos e Projetos (Finep).

@@ -1,5 +1,3 @@
-###DEC-095190-0-000-11-11-1987@@@
-
 DECRETO N° 95.190, DE 11 DE NOVEMBRO DE 1987
 
 Dispõe sobre aumento do capital social da Companhia Eletromecânica Celma.

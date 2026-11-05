@@ -1,5 +1,3 @@
-###DEC-069293-0-000-27-09-1971@@@
-
 Decreto nº 69.293, de 27 de setembro de 1971.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Ministério da Marinha, cargos originários da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e do Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

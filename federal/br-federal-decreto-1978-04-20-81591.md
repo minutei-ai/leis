@@ -1,5 +1,3 @@
-###DEC-081591-0-000-20-04-1978@@@
-
 Decreto nº 81.591, de 20 de abril de 1978.
 
 Dá nova denominação a Capitania dos Portos, cria e suprime Capitanias dos Portos, Delegacias e Agências.

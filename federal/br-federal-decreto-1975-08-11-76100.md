@@ -1,5 +1,3 @@
-###DEC-076100-0-000-11-08-1975@@@
-
 DECRETO Nº 76.100 - DE 11 DE Agosto DE 1975
 
 Declara de utilidade pública, para fins de desapropriação, terreno e benfeitorias necessários à construção da  subestação de Braz de Pina, da Light- Serviço de Eletricidade S.A.., no Estado do Rio de Janeiro.

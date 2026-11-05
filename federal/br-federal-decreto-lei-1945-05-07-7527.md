@@ -1,5 +1,3 @@
-###DEL-007527-0-000-07-05-1945@@@
-
 DECRETO-LEI N. 7.527 – DE 7 DE MAIO DE 1945
 
 Altera a redação do Decreto-lei nº 7.036, de 10-11-44

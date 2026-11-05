@@ -1,5 +1,3 @@
-###DEL-006825-0-000-25-08-1944@@@
-
 DECRETO-LEI N. 6.825 – DE 25 DE AGÔSTO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar a Casa do Pobre de Nossa Senhora de Copacabana do pagamento do impôsto que menciona

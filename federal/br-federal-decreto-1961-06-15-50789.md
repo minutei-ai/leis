@@ -1,5 +1,3 @@
-###DEC-050789-0-000-15-06-1961@@@
-
 DECRETO Nº 50.789, DE 15 de junho DE 1961.
 
 Autoriza o Serviço do patrimônio da União a fazer a cessão de uma área de terreno da Coudelaria de Rinção em São Borja no Estado do Rio Grande do Sul.

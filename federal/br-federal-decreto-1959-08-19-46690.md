@@ -1,5 +1,3 @@
-###DEC-046690-0-000-19-08-1959@@@
-
 DECRETO Nº 46.690, DE 19 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Luiz Rodolpho de Campos a pesquisar areia no município de São Paulo, Estado de São Paulo.

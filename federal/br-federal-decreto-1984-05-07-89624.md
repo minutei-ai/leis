@@ -1,5 +1,3 @@
-###DEC-089624-0-000-07-05-1984@@@
-
 DECRETO Nº 89.624, DE 07 DE MAIO DE 1984
 
 Outorga concessão à TELEVISÃO BAHIA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Salvador, Estado da Bahia.

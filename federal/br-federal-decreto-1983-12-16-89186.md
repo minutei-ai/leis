@@ -1,5 +1,3 @@
-###DEC-089186-0-000-16-12-1983@@@
-
 DECREto nº 89.186, de 16 de dezembro dE 1983
 
 Autoriza o funcionamento do curso de Educação Física das Faculdades Reunidas de Administração, Ciências Contábeis e Ciências Econômicas de Palmas, Paraná.

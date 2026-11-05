@@ -1,5 +1,3 @@
-###DEC-073827-0-000-13-03-1974@@@
-
 DECRETO Nº 73.827, DE 13 DE MARÇO DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, do Ministério da Agricultura, para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

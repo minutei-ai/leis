@@ -1,5 +1,3 @@
-###DEL-000308-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 308, DE 28 de FEVEREIRO DE 1967
 
 Dispõe sôbre a receita do Instituto do Açúcar e do Álcool (I.A.A.) e dá outras providências.

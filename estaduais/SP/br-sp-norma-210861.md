@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210861)<br>
-
 # DECRETO N° 69.483, DE 14 DE ABRIL DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria da Administração Penitenciária nos Sistemas de Administração Financeira e Orçamentária do Estado._

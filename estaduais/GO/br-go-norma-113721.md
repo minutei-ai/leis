@@ -16,10 +16,49 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>800 - DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS</b><br>801 - GABINETE DO DEFENSOR PÚBLICO DO ESTADO DE GOIÁS</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 2328</td><td style=" width:85px;    ">27000280</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.000,00</td><td style=" width:85px;    ">R$ 21.261,66</td><td style=" width:85px;    ">R$ 26.261,66</td></tr></tbody></table>
+**800 - DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS**
+801 - GABINETE DO DEFENSOR PÚBLICO DO ESTADO DE GOIÁS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 21.261,66</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 21.261,66</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 2328
+
+27000280
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.000,00
+
+R$ 21.261,66
+
+R$ 26.261,66
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+27000280 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INSTRUMENTOS CONGÊNERES DA UNIÃO - ADMINISTRAÇÃO DIRETA - EXERCÍCIOS ANTERIORES
+
+R$ 21.261,66
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 21.261,66

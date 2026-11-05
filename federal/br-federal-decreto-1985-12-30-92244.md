@@ -1,5 +1,3 @@
-###DEC-092244-0-000-30-12-1985@@@
-
 Decreto nº 92.244, de 30 de dezembro de 1985
 
 Outorga concessão à TELEVISÃO ABRIL LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Paulo, Estado de São Paulo.

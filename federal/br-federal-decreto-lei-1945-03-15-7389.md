@@ -1,5 +1,3 @@
-###DEL-007389-0-000-15-03-1945@@@
-
 DECRETO-LEI N. 7.389 – DE 15 DE MARÇO DE 1945
 
 Autoriza O Mantepio dos Empregados Municípais a executar imediatamente as operações de que trata a letra c do art. 2º do decreto legislativo municipal nº 175, de 28 de Janeiro de 1937

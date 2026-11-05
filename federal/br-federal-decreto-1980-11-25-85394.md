@@ -1,5 +1,3 @@
-###DEC-085394-0-000-25-11-1980@@@
-
 Decreto nº 85.394, de 25 de novembro de 1980.
 
 Inclui na estrutura básica da Superintendência do Desenvolvimento da Pesca - SUDEPE e o programa de Pesquisa e Desenvolvimento Pesqueiro do Brasil - PDP e dá outras providências.

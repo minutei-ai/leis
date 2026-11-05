@@ -1,5 +1,3 @@
-###DEC-075549-0-000-02-04-1975@@@
-
 DECRETO Nº 75.549, de 2 de abril de 1975.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou de instituição de servidão de passagens, imóveis, constituídos de terras e benfeitorias, situados nos Municípios de Araucária e Campo Largo, no Estado do Paraná.

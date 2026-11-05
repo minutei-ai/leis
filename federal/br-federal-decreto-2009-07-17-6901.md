@@ -1,5 +1,3 @@
-###DEC-006901-0-000-17-07-2009@@@
-
 DECRETO Nº 6.901, DE 17 DE JULHO DE 2009.
 
 Acresce ao Decreto n~~º~~ 93.872, de 23 de dezembro de 1986, dispositivo que atribui competência aos dirigentes máximos de Agências Reguladoras para autorizar a utilização do Cartão de Pagamento do Governo Federal - CPGF na modalidade de saque.

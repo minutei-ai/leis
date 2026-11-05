@@ -1,5 +1,3 @@
-###DEC-053886-0-000-14-04-1964@@@
-
 DECRETO Nº 53.886, DE 14 DE ABRIL DE 1964.
 
 Revoga o Decreto nº 53.465, de 21 de janeiro de 1964, que instituiu o Programa Nacional de Alfabetização do Ministério da Educação e Cultura.

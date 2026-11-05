@@ -1,5 +1,3 @@
-###DEL-007566-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.566 – DE 21 DE MAIO DE 1945
 
 Suspende, no corrente ano, a exigência constante das letras f e k do artigo 12 do Decreto-lei nº 7.343, de 26 de fevereiro de 1945

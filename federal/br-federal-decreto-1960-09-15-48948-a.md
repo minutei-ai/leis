@@ -1,5 +1,3 @@
-###DEC-048948-A-000-15-09-1960@@@
-
 DECRETO Nº 48.948-A, DE 15 DE SETEMBRO DE 1960.
 
 Dispõe sôbre as sociedades de economia mista que colaboram no programa governamental de eletrificação.

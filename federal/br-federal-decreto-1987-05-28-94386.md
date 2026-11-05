@@ -1,5 +1,3 @@
-###DEC-094386-0-000-28-05-1987@@@
-
 DECRETO Nº 94.386, DE 28 DE MAIO DE 1987.
 
 Institui, no Banco do Nordeste do Brasil S.A., o Fundo de Desenvolvimento Regional.

@@ -1,5 +1,3 @@
-###DEC-055660-0-000-30-01-1965@@@
-
 DECRETO Nº 55.660, DE 30 DE JANEIRO DE 1965.
 
 Autoriza a Sociedade São Paulo de Mineração Limitada a lavrar minério de ferro, no município de Joinvile, Estado de Santa Catarina.

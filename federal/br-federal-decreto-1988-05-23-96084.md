@@ -1,5 +1,3 @@
-###DEC-096084-0-000-23-05-1988@@@
-
 DECRETO Nº 96.084, DE 23 DE MAIO DE 1988
 
 Regulamenta o § 1° do art. 5° do Decreto-lei nº 2.375, de 24 de novembro de 1987, que autoriza a União a transferir, a título gratuito, a Estados ou Territórios, terras públicas a ela pertencentes, localizadas na Faixa de Fronteira.

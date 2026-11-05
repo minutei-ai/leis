@@ -1,5 +1,3 @@
-###DEC-055052-0-000-24-11-1964@@@
-
 DECRETO Nº 55.052, DE 24 DE NOVEMBRO DE 1964.
 
 Autoriza a Companhia de Mineração Serra da Moeda a pesquisar dolomita, calcário, minérios de ferro e de manganês, nos municípios de Ouro Prêto e Ouro Branco, no Estado de Minas Gerais.

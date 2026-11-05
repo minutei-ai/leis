@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208490)<br>
-
 # DECRETO N° 67.927, DE 12 DE SETEMBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Mogi das Cruzes, parte do imóvel que especifica._

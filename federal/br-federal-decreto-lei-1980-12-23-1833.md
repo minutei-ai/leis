@@ -1,7 +1,3 @@
-1
-
-###DEL-001833-0-000-23-12-1980@@@
-
 # DECRETO-LEI Nº 1.833, de 23 de dezembro de 1980
 
 Extingue a vinculação a categorias econômicas na aplicação, pelos Estados, Distrito Federal, Territórios e Municípios, de recursos tributários transferidos pela União, e dá outras providências.

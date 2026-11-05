@@ -1,5 +1,3 @@
-###DEC-054408-0-000-10-10-1964@@@
-
 Decreto nº 54.408, de 10 de outubro de 1964.
 
 Outorga ao Município de Pôrto da Fôlha, Estado de Sergipe, concessão para distribuir energia elétrica.

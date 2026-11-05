@@ -1,5 +1,3 @@
-###DEC-051376-0-000-20-12-1961@@@
-
 DECRETO Nº 51.376, DE 20 DE DEZEMBRO DE 1961.
 
 Transfere na forma do art. 15, § 4º, da Lei nº 3.115, de 16 de março de 1957, cargo de Tesoureiro-Auxiliar para o quadro Suplementar do Ministério da Fazenda.

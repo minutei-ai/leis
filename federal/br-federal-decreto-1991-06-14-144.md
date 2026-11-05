@@ -1,5 +1,3 @@
-###DEC-000144-0-000-14-06-1991@@@
-
 DECRETO N° 144, DE 14 DE JUNHO DE 1991
 
 Promulga as Emendas à Convenção da Organização Marítima Consultiva Intergovernamental (OMCI).

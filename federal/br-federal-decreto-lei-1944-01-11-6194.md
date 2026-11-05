@@ -1,5 +1,3 @@
-###DEL-006194-0-000-11-01-1944@@@
-
 DECRETO-LEI N. 6.194 – DE 11 DE JANEIRO DE 1944
 
 Altera os efetivos do Quadro de Oficiais Aviadores do Corpo de Oficiais da Aeronáutica

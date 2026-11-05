@@ -1,5 +1,3 @@
-###DEC-048197-0-000-12-05-1960@@@
-
 DECRETO Nº 48.197, DE 12 DE MAIO DE 1960.
 
 Renova o Decreto nº 42.709, de 29 de novembro de 1957.

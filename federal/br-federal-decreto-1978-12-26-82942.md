@@ -1,5 +1,3 @@
-###DEC-082942-0-000-26-12-1978@@@
-
 Decreto nº 82 942, de 26 de dezembro de 1978
 
 Concede reconhecimento ao Curso de Ciências, ministrado pela Escola de Estudos Sociais, com sede na cidade de Brusque, Estado de Santa Catarina.

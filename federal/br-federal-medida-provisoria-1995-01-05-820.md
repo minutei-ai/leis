@@ -1,7 +1,3 @@
-1
-
-###MPV-000820-0-000-05-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 820, DE 5 DE JANEIRO DE 1995
 
 Dispõe sobre a alocação, em depósitos especiais remunerados, de recursos da disponibilidade financeira do Fundo de Amparo ao Trabalhador - FAT, no Banco do Brasil S.A., e dá outras providências.

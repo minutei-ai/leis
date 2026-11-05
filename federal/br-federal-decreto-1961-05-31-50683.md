@@ -1,5 +1,3 @@
-###DEC-050683-0-000-31-05-1961@@@
-
 Decreto nº 50.683, de 31 de maio de 1961.
 
 Autoriza a Companhia Agrícola Industrial Luiz Corrêa a construir uma linha de transmissão de energia elétrica, no distrito sede do município de Bom Jardim, Estado do Rio de Janeiro.

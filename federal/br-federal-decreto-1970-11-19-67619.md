@@ -1,5 +1,3 @@
-###DEC-067619-0-000-19-11-1970@@@
-
 DECRETO Nº 67.619, DE 19 DE NOVEMBRO DE 1970.
 
 Declara de utilidade pública a Ação Social para Promoção Humana, com sede em Catanduva, Estado de São Paulo.

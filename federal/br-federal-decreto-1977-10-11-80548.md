@@ -1,5 +1,3 @@
-###DEC-080548-0-000-11-10-1977@@@
-
 DECRETO Nº 80.548, DE 11 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Ciências, da Universidade Católica de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

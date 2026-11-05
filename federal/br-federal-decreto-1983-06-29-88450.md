@@ -1,5 +1,3 @@
-###DEC-088450-0-000-29-06-1983@@@
-
 # Decreto nº 88.450, de 29 de Junho de 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem do ramal de linha de transmissão da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

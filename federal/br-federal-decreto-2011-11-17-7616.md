@@ -1,5 +1,3 @@
-###DEC-007616-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.616, DE 17 DE NOVEMBRO DE 2011
 
 Dispõe sobre a declaração de Emergência em Saúde Pública de Importância Nacional - ESPIN e institui a Força Nacional do Sistema Único de Saúde - FN-SUS.

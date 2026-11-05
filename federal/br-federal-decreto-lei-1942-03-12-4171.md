@@ -1,5 +1,3 @@
-###DEL-004171-0-000-12-03-1942@@@
-
 DECRETO-LEI N. 4.171 – DE 12 DE MARÇO DE 1942
 
 Dispõe sabre a transformação dos planos “sem juros” em planos “juros recíprocos”, nas caixas construtoras, e dá outras providências.

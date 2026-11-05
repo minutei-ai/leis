@@ -1,5 +1,3 @@
-###DEC-061232-0-000-23-08-1967@@@
-
 DECRETO Nº 61.232, DE 23 DE AGÔSTO DE 1967.
 
 Aprova a incorporação de diversas emprêsas concessionárias de serviços públicos à São Paulo Light S.A. - Serviços de Eletricidade, transfere direitos e obrigações e dá outras providências.

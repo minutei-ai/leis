@@ -1,7 +1,3 @@
-1
-
-###DEC-000866-0-000-09-07-1993@@@
-
 DECRETO N° 866, DE 9 DE JULHO DE 1993
 
 Dá nova redação aos arts. 10 e 12 do Regulamento do Quadro de Oficiais Especialistas da Aeronáutica (QOEA), aprovado pelo Decreto n° 565, de 10 de junho de 1992.

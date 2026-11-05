@@ -1,5 +1,3 @@
-###DEC-073604-0-000-08-02-1974@@@
-
 decreto nº 73.604, de 8 de fevereiro de 1974.
 
 Aprova o Regulamento da Diretoria Patrimonial de Brasília, da Secretaria-Geral do Exército do Ministério do Exército, e dá outras providências.

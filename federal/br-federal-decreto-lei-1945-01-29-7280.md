@@ -1,5 +1,3 @@
-###DEL-007280-0-000-29-01-1945@@@
-
 DECRETO-LEI N. 7.280 – DE 29 DE JANEIRO DE 1945
 
 Abre, ao Ministério do Trabalho, lndústria e Comércio, o crédito suplementar de Cr$ 698.400,00 às dotações que especifica do Orçamento vigente

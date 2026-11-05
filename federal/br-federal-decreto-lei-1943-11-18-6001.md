@@ -1,5 +1,3 @@
-###DEL-006001-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.001 – DE 18 DE NOVEMBRO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a isentar a "Casa da Providência" da Associação São Vicente de Paulo, do pagamento do imposto predial, na forma que menciona.

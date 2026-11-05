@@ -1,5 +1,3 @@
-###DEC-071142-0-000-25-09-1972@@@
-
 DECRETO Nº 71.142, DE 25 DE SETEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação das Faculdades Integradas - Santo Antônio, em São Paulo mantida pelo Instituto de Ensino Superior da Região Bragantina - São Paulo.

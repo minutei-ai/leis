@@ -1,22 +1,20 @@
-###DEC-034638-0-000-17-11-1953@@@
+**DECRETO Nº 34.638, DE 17 DE NOVEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.638, DE 17 DE NOVEMBRO DE 1953.</strong>
+***Institui a Campanha de Aperfeiçoamento e Difusão do Ensino Secundário.***
 
-<em><strong>Institui a Campanha de Aperfeiçoamento e Difusão do Ensino Secundário.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o art. 87 da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o art. 87 da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica instituída, na Diretoria do Ensino Secundário do Ministério da Educação e Cultura, a Campanha de Aperfeiçoamento e Difusão do Ensino Secundário (C.A.D.E.S.).
 
-<strong>Art</strong>. 1º Fica instituída, na Diretoria do Ensino Secundário do Ministério da Educação e Cultura, a Campanha de Aperfeiçoamento e Difusão do Ensino Secundário (C.A.D.E.S.).
-
-<strong>Art</strong>. 2º Caberá à Campanha promover, por todos os meios a seu alcance, as medidas necessárias à elevação do nível e à difusão do ensino secundário no país, tendo por finalidade:
+**Art**. 2º Caberá à Campanha promover, por todos os meios a seu alcance, as medidas necessárias à elevação do nível e à difusão do ensino secundário no país, tendo por finalidade:
 
 a) tornar a educação secundária mais ajustada aos interêsses e possibilidades dos estudantes bem como às reais condições e necessidades do meio a que a escola serve, conferindo, assim, ao ensino secundário maior eficácia e sentido social.
 
 b) possibilitar a maior número de jovens brasileiros acesso à escola secundária.
 
-<strong>Art</strong>. 3º Para a consecução dos objetivos previstos no artigo anterior, a Campanha deverá:
+**Art**. 3º Para a consecução dos objetivos previstos no artigo anterior, a Campanha deverá:
 
 a) promover a realização de cursos e estágios de especialização e aperfeiçoamento para professôres, técnicos e administradores de estabelecimentos de ensino secundário;
 
@@ -46,11 +44,11 @@ m) divulgar atos, experiências e iniciativas julgadas de interêsse ao ensino s
 
 n) promover o esclarecimento da opinião pública, quanto às vantagens asseguradas pela boa educação secundária.
 
-<strong>Art</strong>. 4º Dirigirá a Campanha o Diretor do Ensino Secundário, que será assistido por um Conselho Consultivo compôsto de representantes de entidades públicas e privadas, relacionadas com a cultura, a educação e a assistência social no país.
+**Art**. 4º Dirigirá a Campanha o Diretor do Ensino Secundário, que será assistido por um Conselho Consultivo compôsto de representantes de entidades públicas e privadas, relacionadas com a cultura, a educação e a assistência social no país.
 
 Parágrafo único. Os Membros do Conselho Consultivo não perceberão remuneração especial pelos seus trabalhos, mas serão considerados como tendo prestado relevantes serviços ao País.
 
-<strong>Art</strong>. 5º Haverá um fundo especial para custeio das atividades da Campanha, e que será constituído de:
+**Art**. 5º Haverá um fundo especial para custeio das atividades da Campanha, e que será constituído de:
 
 a) contribuições de entidades públicas e privadas;
 
@@ -60,18 +58,18 @@ c) contribuições que forem previstas nos orçamentos da União, dos Estados, d
 
 d) renda eventual do patrimônio da Campanha;
 
-<strong>Art</strong>. 6º A Campanha poderá firmar convênio com entidades públicas e privadas para a realização de programas que contribuam para o aperfeiçoamento do ensino secundário.
+**Art**. 6º A Campanha poderá firmar convênio com entidades públicas e privadas para a realização de programas que contribuam para o aperfeiçoamento do ensino secundário.
 
-<strong>Art</strong>. 7º Os programas de aperfeiçoamento, mantidos por entidades públicas e privadas, que atenderem aos objetivos da Campanha, poderão ser considerados como integrantes do plano de aperfeiçoamento do ensino secundário.
+**Art**. 7º Os programas de aperfeiçoamento, mantidos por entidades públicas e privadas, que atenderem aos objetivos da Campanha, poderão ser considerados como integrantes do plano de aperfeiçoamento do ensino secundário.
 
 Parágrafo único. Mediante convênio com as entidades promotores, os programas referidos nêste artigo poderão ser auxiliados pela Campanha.
 
-<strong>Art</strong>. 8º O Ministro da Educação e Cultura baixará as instruções necessárias à organização e execução da Campanha.
+**Art**. 8º O Ministro da Educação e Cultura baixará as instruções necessárias à organização e execução da Campanha.
 
-<strong>Art</strong>. 9º Êste decreto entrará em vigor na data da sua publicação.
+**Art**. 9º Êste decreto entrará em vigor na data da sua publicação.
 
 Rio de Janeiro, 17 de novembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Antônio Balbino

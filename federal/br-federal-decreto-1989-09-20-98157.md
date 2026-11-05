@@ -1,7 +1,3 @@
-1
-
-###DEC-098157-0-000-20-09-1989@@@
-
 DECRETO Nº 98.157, DE 20 DE SETEMBRO DE 1989
 
 Fixa o Valor Básico de Diárias a que se refere o Decreto nº 94 344, de 19 de maio de 1987, altera o seu art. 2º, e dá outras providências.

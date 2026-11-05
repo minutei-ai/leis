@@ -1,5 +1,3 @@
-###DEC-049000-0-000-04-10-1960@@@
-
 DECRETO Nº 49.000, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Jerônimo Vingt-Un Rosado Maia a pesquisar gipsita no município de Codó, Estado do Maranhão.

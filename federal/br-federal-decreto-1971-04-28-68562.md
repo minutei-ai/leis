@@ -1,5 +1,3 @@
-###DEC-068562-0-000-28-04-1971@@@
-
 DECRETO Nº 68.562 - DE 28 de ABRIL DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS -, imóvel situado em município do Estado do Rio de Janeiro.

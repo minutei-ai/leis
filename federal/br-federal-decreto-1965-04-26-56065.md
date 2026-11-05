@@ -1,5 +1,3 @@
-###DEC-056065-0-000-26-04-1965@@@
-
 DECRETO Nº 56.065, DE 26 DE ABRIL DE 1965.
 
 Transfere da Prefeitura Municipal de Itapetinga para a Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

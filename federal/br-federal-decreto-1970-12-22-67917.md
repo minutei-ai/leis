@@ -1,5 +1,3 @@
-###DEC-067917-0-000-22-12-1970@@@
-
 DECRETO Nº 67.917, DE 22 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, faixas de terra destinadas a passagem das linhas de transmissão que se estenderão desde a subestação de Barretos à usina de Pôrto Colômbia e da estrutura número 40-2 da linha de transmissão Olimpia-Barretos até a subestação de Barretos, Estado de São Paulo.

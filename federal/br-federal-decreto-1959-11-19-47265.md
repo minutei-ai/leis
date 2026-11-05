@@ -1,5 +1,3 @@
-###DEC-047265-0-000-19-11-1959@@@
-
 decreto nº 47.265, de 19 de novembro de 1959.
 
 Extingue a Coudelaria de Minas Gerais.

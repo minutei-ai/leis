@@ -16,20 +16,38 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style="width: 100%; height: 19px; text-align: center;"><b>SUPLEMENTAÇÃO</b></td></tr><tr><td colspan="8" style=" width:100%;    "><b>300 - TRIBUNAL DE CONTAS DOS MUNICÍPIOS</b><br>301 - GABINETE DO PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS</td></tr><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TCMGO</td><td style=" width:12%;    ">01 032 4100 4128</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 3.526.901,81</td><td style=" width:12%;    ">R$ 400.000,00</td><td style=" width:12%;    ">R$ 3.926.901,81</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**SUPLEMENTAÇÃO**</td></tr><tr><td colspan="8">**300 - TRIBUNAL DE CONTAS DOS MUNICÍPIOS** 301 - GABINETE DO PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO ORÇAMENTÁRIO**</td><td>**VALOR A SUPLEMENTAR**</td><td>**SALDO ATUALIZADO**</td></tr><tr><td>FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TCMGO</td><td>01 032 4100 4128</td><td>15000100</td><td>90</td><td>3 - OUTRAS DESPESAS CORRENTES</td><td>R$ 3.526.901,81</td><td>R$ 400.000,00</td><td>R$ 3.926.901,81</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**TOTAL A SUPLEMENTAR POR FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 400.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 400.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 400.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 400.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td colspan="8" style="width: 100%; height: 19px; text-align: center;"><b>REDUÇÃO</b></td></tr><tr><td colspan="8" style=" width:100%;    "><b>300 - TRIBUNAL DE CONTAS DOS MUNICÍPIOS</b><br>301 - GABINETE DO PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS</td></tr><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TCMGO</td><td style=" width:12%;    ">01 032 4100 4128</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">91</td><td style=" width:12%;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:12%;    ">R$ 7.675.340,77</td><td style=" width:12%;    ">R$ 400.000,00</td><td style=" width:12%;    ">R$ 400.000,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="8">**REDUÇÃO**</td></tr><tr><td colspan="8">**300 - TRIBUNAL DE CONTAS DOS MUNICÍPIOS** 301 - GABINETE DO PRESIDENTE DO TRIBUNAL DE CONTAS DOS MUNICÍPIOS</td></tr><tr><td>**ESPECIFICAÇÃO**</td><td>**AÇÃO**</td><td>**FONTE**</td><td>**MODALIDADE**</td><td>**GRUPO**</td><td>**SALDO A PROGRAMAR**</td><td>**VALOR BLOQUEADO**</td><td>**VALOR A REDUZIR**</td></tr><tr><td>FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS DO TCMGO</td><td>01 032 4100 4128</td><td>15000100</td><td>91</td><td>1 - PESSOAL E ENCARGOS SOCIAIS</td><td>R$ 7.675.340,77</td><td>R$ 400.000,00</td><td>R$ 400.000,00</td></tr></tbody></table>
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style="width: 100%; height: 19px; text-align: center;"><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 400.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 400.000,00</td></tr></tbody></table>
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style="width: 680px; height: 19px; text-align: center;"><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+R$ 400.000,00
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 400.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 400.000,00</td></tr></tbody></table>
+**TOTAL**
+
+R$ 400.000,00
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 400.000,00
+
+**TOTAL**
+
+R$ 400.000,00

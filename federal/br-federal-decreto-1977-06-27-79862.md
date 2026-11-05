@@ -1,5 +1,3 @@
-###DEC-079862-0-000-27-06-1977@@@
-
 DECRETO Nº 79.862, de 27 DE JUNHO DE 1977
 
 Autoriza o funcionamento do curso de Medicina Veterinária, da Escola de Medicina Veterinária, com sede na Cidade de São Luis, Estado do Maranhão.

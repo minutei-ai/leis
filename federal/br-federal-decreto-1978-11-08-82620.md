@@ -1,5 +1,3 @@
-###DEC-082620-0-000-08-11-1978@@@
-
 Decreto nº 82.620, de 08 de novembro de 1978.
 
 Autoriza o Ministro da Fazenda a Conceder garantia a operação externa.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097841-0-000-19-06-1989@@@
-
 DECRETO Nº 97.841, DE 19 DE JUNHO DE 1989
 
 Autoriza a doação dos imóveis que menciona.

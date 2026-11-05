@@ -1,5 +1,3 @@
-###DEC-087392-0-000-13-07-1982@@@
-
 decreto nº 87.392, de 13 de julho de 1982
 
 Autoriza a aumento do Capital Social da Centrais Elétricas de Roraima S.A. - CER.

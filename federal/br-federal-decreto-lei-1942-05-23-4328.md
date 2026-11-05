@@ -1,5 +1,3 @@
-###DEL-004328-0-000-23-05-1942@@@
-
 DECRETO-LEI N. 4.328 – DE 23 DE MAIO DE 1942
 
 Fixa o horário normal de trabalho dos empregados em estabelecimentos bancários

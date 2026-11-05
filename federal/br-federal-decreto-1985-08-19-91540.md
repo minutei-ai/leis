@@ -1,5 +1,3 @@
-###DEC-091540-0-000-19-08-1985@@@
-
 Decreto nº 91.540, de 19 de agosto de 1985
 
 Cria, na Superintendência do Desenvolvimento do Nordeste (SUDENE), a Superintendência-Adjunta de Desenvolvimento Social e de lnfra-estrutura - SDS, e dá outras providências.

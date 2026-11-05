@@ -1,5 +1,3 @@
-###DEC-057256-0-000-16-11-1965@@@
-
 Decreto nº 57.256, de 16 de novembro de 1965.
 
 Autoriza o cidadão brasileiro Helio Moutinho a pesquisar amianto, no município de Itapací, Estado de Goiás.

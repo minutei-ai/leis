@@ -46,5 +46,6 @@ Art. 9º Esta Lei entrará em vigor na data de sua publicação.
 
 Câmara Municipal de Aparecida de Goiânia, 28 de abril de 2025.
 
-GILSON RODRIGUES DA MATA<br>
+GILSON RODRIGUES DA MATA
+
 Presidente da Câmara Municipal

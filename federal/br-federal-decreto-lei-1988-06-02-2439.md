@@ -1,7 +1,3 @@
-1
-
-###DEL-002439-0-000-02-06-1988@@@
-
 # DECRETO‑LEI N° 2.439, DE 2 DE JUNHO DE 1988
 
 Dá nova redação aos arts. 4° e 7° do Decreto‑lei n ° 2.423, de 7 de abril de 1988.

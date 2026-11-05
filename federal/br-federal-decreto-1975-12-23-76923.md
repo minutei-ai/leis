@@ -1,5 +1,3 @@
-###DEC-076923-0-000-23-12-1975@@@
-
 DECRETO Nº 76.923, DE 23 DE DEZEMBRO DE 1975.
 
 Regulamenta o Decreto-lei nº 1.422, de 23 de outubro de 1975, que dispõe sobre o Salário-Educação, e dá outras providências.

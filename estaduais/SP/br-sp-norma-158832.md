@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/158832)<br>
 [Texto com alterações](https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/lei-13920-07.01.2010.html)
 
 # LEI N° 13.920, DE 07 DE JANEIRO DE 2010

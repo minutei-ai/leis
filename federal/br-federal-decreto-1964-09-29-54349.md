@@ -1,5 +1,3 @@
-###DEC-054349-0-000-29-09-1964@@@
-
 DECRETO Nº 54.349, DE 29 DE SETEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Manoel Gomes Seabra Filho a pesquisar areia quartzosa, no município de Mongaguá, Estado de São Paulo.

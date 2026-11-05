@@ -1,5 +1,3 @@
-###DEC-059777-0-000-16-12-1966@@@
-
 DECRETO Nº 59.777, DE 16 DE DEZEMBRO DE 1966.
 
 Autoriza a Indústria Química Sorocal S.A. a pesquisar tripolita no município de Vitória da Conquista, Estado da Bahia.

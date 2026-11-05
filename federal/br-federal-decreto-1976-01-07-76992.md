@@ -1,5 +1,3 @@
-###DEC-076992-0-000-07-01-1976@@@
-
 DECRETO Nº 76.992, DE 7 DE JANEIRO DE 1976.
 
 Fixa os efetivos do Exército para 1976.

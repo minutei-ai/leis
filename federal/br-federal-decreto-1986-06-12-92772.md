@@ -1,5 +1,3 @@
-###DEC-092772-0-000-12-06-1986@@@
-
 DECRETO Nº 92.772, DE 12 DE JUNHO DE 1986
 
 Renova a concessão outorgada à RÁDIO UIRAPURU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Birigui, Estado de São Paulo.

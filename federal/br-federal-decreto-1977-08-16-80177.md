@@ -1,5 +1,3 @@
-###DEC-080177-0-000-16-08-1977@@@
-
 DECRETO Nº 80.177, DE 16 DE AGOSTO DE 1977.
 
 Autoriza o Sindicato dos Comissários de Despachos no Estado de São Paulo a filiar-se à Federação Internacional das Associações de Despachantes e Similares (FIATA).

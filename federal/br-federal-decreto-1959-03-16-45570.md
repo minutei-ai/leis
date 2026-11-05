@@ -1,5 +1,3 @@
-###DEC-045570-0-000-16-03-1959@@@
-
 DECRETO Nº 45.570, DE 16 DE março DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de São Paulo.

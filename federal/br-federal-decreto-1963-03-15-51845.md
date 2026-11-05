@@ -1,5 +1,3 @@
-###DEC-051845-0-000-15-03-1963@@@
-
 DECRETO Nº 51.845, DE 15 DE MARÇO DE 1963.
 
 Autoriza o serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona, situados no Município de Adamantina, Estado de São Paulo.

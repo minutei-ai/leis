@@ -1,5 +1,3 @@
-###DEC-053772-0-000-20-03-1964@@@
-
 DECRETO Nº 53.772, DE 20 DE MARÇO DE 1964.
 
 Autoriza o Ministro da Fazenda a assinar Convênio entre a Comissão Executiva do Plano de Recuperação Econômico-Rural da Lavoura Cacaueira (CEPLAC) e o Instituto Interamericano de Ciências Agrícolas de Organizações dos Estados Americanos (IICA).

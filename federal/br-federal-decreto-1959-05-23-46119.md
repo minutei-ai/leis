@@ -1,5 +1,3 @@
-###DEC-046119-0-000-23-05-1959@@@
-
 DECRETO Nº 46.119, DE 23 DE MAIO DE 1959.
 
 Regula a aplicação dos efeitos do decreto nº 46.115, de 22 de maio de 1959, a emprêsa que especifica.

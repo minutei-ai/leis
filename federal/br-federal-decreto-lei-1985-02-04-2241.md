@@ -1,5 +1,3 @@
-###DEL-002241-0-000-04-02-1985@@@
-
 # DECRETO-LEI Nº 2.241, DE 04 DE FEVEREIRO DE 1985.
 
 Estende até 31 de dezembro de 1985 o prazo a que se refere o artigo 5º do Decreto-lei nº 2.061, de 19 de setembro de 1983.

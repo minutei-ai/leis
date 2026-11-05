@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211042)<br>
-
 # DECRETO N° 69.595, DE 09 DE JUNHO DE 2025
 
 ### _Altera o Decreto n° 62.624, de 8 de junho de 2017, que institui, junto à Secretaria de Desenvolvimento Social, a Comissão Estadual de Erradicação do Trabalho Infantil e de Proteção ao Trabalhador Adolescente e dá providências correlatas._

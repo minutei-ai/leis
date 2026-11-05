@@ -1,5 +1,3 @@
-###DEC-057176-0-000-04-11-1965@@@
-
 Decreto nº 57.176, de 4 de novembro de 1965.
 
 Complementa disposições dos Decretos nº 28.959, de 11 de dezembro de 1950 e nº 1.481, de 29 de outubro de 1962 e o Decreto nº 52.468, de 12 de setembro de 1963.

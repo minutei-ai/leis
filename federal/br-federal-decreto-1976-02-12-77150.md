@@ -1,5 +1,3 @@
-###DEC-077150-0-000-12-02-1976@@@
-
 DECRETO Nº 77.150, DE 12 DE FEVEREIRO DE 1976.
 
 Autoriza o funcionamento da Faculdade de Biblioteconomia das Faculdades Integradas Tereza D'Ávila, em Santo André, Estado de São Paulo, mantidas pela Inspetoria Santa Catarina de Sena, com sede na Cidade de São Paulo, no mesmo Estado.

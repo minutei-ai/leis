@@ -1,5 +1,3 @@
-###DEC-091755-0-000-07-10-1985@@@
-
 Decreto nº 91.755, de 07 de outubro de 1985
 
 Dispõe sobre aquisição e arrolamento de Equipamentos e Material Permanente pelos Órgãos e Entidades integrantes do Sistema Serviços Gerais, e dá outras providências.

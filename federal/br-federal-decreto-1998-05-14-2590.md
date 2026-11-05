@@ -1,5 +1,3 @@
-###DEC-002590-0-000-14-05-1998@@@
-
 DECRETO Nº 2.590, DE 14 DE MAIO DE 1998
 
 Dispõe sobre as condições de suprimento de álcool etílico hidratado para as indústrias alcoolquímicas da Região Nordeste, prevista nos Decretos nºs 410, de 30 de dezembro de 1991, 1.407, de 2 de março de 1995, e 2.213, de 25 de abril de 1997.

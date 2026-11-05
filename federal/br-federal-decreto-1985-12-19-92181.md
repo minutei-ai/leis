@@ -1,5 +1,3 @@
-###DEC-092181-0-000-19-12-1985@@@
-
 Decreto nº 92.181 de 19 de dezembro de 1985
 
 Aprova o Regulamento do artigo 21 da Lei nº 7.232, de 29 de outubro de 1984, que dispõe sobre dedução do imposto de renda, para subscrição de ações novas de empresas nacionais de informática, nas condições que especifica, e dá outras providências.

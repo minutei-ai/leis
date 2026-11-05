@@ -1,5 +1,3 @@
-###DEC-057872-0-000-25-02-1966@@@
-
 DECRETO Nº 57.872, DE 25 DE FEVEREIRO DE 1966.
 
 Outorga a Companhia Paranaense de Energia Elétrica concessão para aproveitamento de energia hidráulica.

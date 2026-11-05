@@ -1,7 +1,3 @@
-1
-
-###DEC-096017-0-000-06-05-1988@@@
-
 # DECRETO N° 96.017, DE 6 DE MAIO DE 1988
 
 Prorroga os prazos previstos nos artigos 4° e 5° e dá nova redação ao parágrafo único do artigo 2° do Decreto n° 95.904, de 7 de abril de 1988.

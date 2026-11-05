@@ -1,5 +1,3 @@
-###DEC-085151-0-000-15-09-1980@@@
-
 Decreto nº 85.151de 15 de setembro de 1980
 
 Cria o Consulado do Brasil em Mendoza, Argentina.

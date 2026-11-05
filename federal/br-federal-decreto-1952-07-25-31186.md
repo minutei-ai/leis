@@ -1,12 +1,10 @@
-###DEC-031186-0-000-25-07-1952@@@
+**DECRETO Nº 31.186 DE 25 DE JULHO DE 1952.**
 
-<strong>DECRETO Nº 31.186 DE 25 DE JULHO DE 1952.</strong>
+***Altera a redação do artigo 50 e seus parágrafos, do Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto número 28.703, de 2 de outubro de 1950.***
 
-<em><strong>Altera a redação do artigo 50 e seus parágrafos, do Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto número 28.703, de 2 de outubro de 1950.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo 1º O artigo 50 e seus parágrafos do Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado e mandado executar pelo Decreto nº 28.703, de 2 de outubro de 1950, passam avigorar com seguinte redação:
 
@@ -20,6 +18,6 @@ Artigo 2º - O presente Decreto entrará em vigor na data de sua publicação, r
 
 Rio de Janeiro, 25 de julho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel

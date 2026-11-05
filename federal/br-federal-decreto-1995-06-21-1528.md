@@ -1,7 +1,3 @@
-1
-
-###DEC-001528-0-000-21-06-1995@@@
-
 DECRETO Nº 1.528, DE 21 DE JUNHO DE 1995.
 
 Acresce dispositivo ao art. 1º do Decreto nº 1.096, de 23 de março de 1994, que dispõe sobre cargos privativos de Oficial-General do Exército em Tempo de Paz.

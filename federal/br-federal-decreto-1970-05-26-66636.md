@@ -1,5 +1,3 @@
-###DEC-066636-0-000-26-05-1970@@@
-
 DECRETO Nº 66.636, DE 26 DE MAIO DE 1970.
 
 Altera o artigo 6º do Regulamento da Lei do Magistério da Marinha, aprovado pelo Decreto nº 52,721, de 21 de outubro de 1963, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068005-0-000-31-12-1970@@@
-
 DECRETO Nº 68.005, DE 31 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 28.714, de 6 de outubro de 1950, retificado pelo de nº 29.214, de 26-1-51.

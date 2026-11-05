@@ -1,5 +1,3 @@
-###DEL-007336-0-000-22-02-1945@@@
-
 DECRETO-LEI N. 7.336 – DE 22 DE FEVEREIRO DE 1945
 
 Dispõe sôbre o pessoal da Caixa Econômica Federal do Estudo do Rio de Janeiro

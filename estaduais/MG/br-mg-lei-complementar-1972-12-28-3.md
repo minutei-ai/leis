@@ -2213,7 +2213,3 @@ RONDON PACHECO
 Abílio Machado Filho
 
 Rafael Caio Nunes Coelho
-
-\-------------------------------------------------------------------------
-
-Data da última atualização: 30/10/2003.

@@ -1,5 +1,3 @@
-###DEC-003792-0-000-19-04-2001@@@
-
 DECRETO Nº 3.792, DE 19 DE ABRIL DE 2001.
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica no 43, entre os Governos da República Federativa do Brasil e da República de Cuba, de 19 de janeiro de 2001.

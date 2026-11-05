@@ -18,15 +18,32 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 18 de junho de 2026.
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 13</td><td style="text-align:center">364,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 13
+
+364,00
 
 SITUAÇÃO PROPOSTA DE DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 13 A</td><td style="text-align:center">182,00</td></tr><tr><td style="text-align:center">LOTE 13 B</td><td style="text-align:center">182,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 13 A
+
+182,00
+
+LOTE 13 B
+
+182,00

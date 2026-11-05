@@ -1,5 +1,3 @@
-###DEC-097488-0-000-08-02-1989@@@
-
 DECRETO N° 97.488, DE 8 DE FEVEREIRO DE 1989
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo comercial n° 21, no Setor de Indústria Química, entre o Brasil e o México.

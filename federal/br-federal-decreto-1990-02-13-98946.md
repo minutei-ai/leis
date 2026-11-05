@@ -1,5 +1,3 @@
-###DEC-098946-0-000-13-02-1990@@@
-
 DECRET0 Nº 98.946, DE 13 DE FEVEREIR0 DE 1990
 
 Altera o Decreto nº 17.253, de 28 de novembro de 1943, e dá outras providências.

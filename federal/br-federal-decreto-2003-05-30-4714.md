@@ -1,5 +1,3 @@
-###DEC-004714-0-000-30-05-2003@@@
-
 DECRETO Nº 4.714, DE 30 DE MAIO DE 2003.
 
        Cria a Câmara de Política Social, do Conselho de Governo.
@@ -68,5 +66,6 @@ DECRETO Nº 4.714, DE 30 DE MAIO DE 2003.
 
 Brasília, 30 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Dirceu de Oliveira e Silva

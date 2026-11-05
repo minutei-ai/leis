@@ -1,5 +1,3 @@
-###DEC-084746-0-000-27-05-1980@@@
-
 Decreto nº 84.746, de 27 de maio de 1980.
 
 Revoga o artigo 2º do Decreto nº 73.544, de 23 de janeiro de 1974, que aprova o Regulamento dos Parques de Material Aeronáutico.

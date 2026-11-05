@@ -1,5 +1,3 @@
-###DEC-006979-0-000-08-10-2009@@@
-
 DECRETO Nº 6.979, DE 8 DE OUTUBRO DE 2009.
 
 Altera o art. 3o do Decreto no 3.939, de 26 de setembro de 2001, que dispõe sobre a Comissão Interministerial para os Recursos do Mar (CIRM).

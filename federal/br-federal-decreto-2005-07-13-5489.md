@@ -1,5 +1,3 @@
-###DEC-005489-0-000-13-07-2005@@@
-
 DECRETO Nº 5.489, DE 13 DE JULHO DE 2005
 
        Dispõe sobre a execução no Território Nacional da Resolução no 1596, de 18 de abril de 2005, do Conselho de Segurança das Nações Unidas, que, entre outras providências, estende o embargo de armas a todo o território da República Democrática do Congo e impõe sanções àqueles que violarem a medida.
@@ -18,11 +16,7 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
 JOSÉ ALENCAR GOMES DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 14.7.2005
-
-        O Conselho de Segurança,
+Celso Luiz Nunes AmorimO Conselho de Segurança,
 
         Recordando as resoluções relativas à República Democrática do Congo, em particular as Resoluções 1493, de 28 de julho de 2003, 1533, de 12 de março de 2004, 1552, de 27 de julho de 2004, 1565, de 1° de outubro de 2004, e 1592, de 30 de março de 2005, e recordando também as declarações do seu Presidente relativas à República Democrática do Congo, em particular a de 7 de dezembro de 2004.
 

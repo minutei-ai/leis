@@ -1,5 +1,3 @@
-###DEL-000214-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 214, DE 27 DE FEVEREIRO DE 1967
 
 Prorroga o período de vigência do crédito especial autorizado pela Lei nº 4.793, de 20 de outubro de 1965.

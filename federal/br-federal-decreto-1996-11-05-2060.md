@@ -1,5 +1,3 @@
-###DEC-002060-0-000-05-11-1996@@@
-
 DECRETO Nº 2.060, DE 5 DE NOVEMBRO DE 1996.
 
 Prorroga o prazo estabelecido no § 2º do art. 1º do Decreto nº 1.778, de 9 de janeiro de 1996.

@@ -1,5 +1,3 @@
-###DEC-067559-0-000-12-11-1970@@@
-
 DECRETO Nº 67.559, DE 12 DE NOVEMBRO DE 1970.
 
 Altera com redução de despesa, a Tabela de Empregos e Salários da Secretaria do Ministério Público da União junto à Justiça Militar, aprovada pelo Decreto nº 66.407, de 2 de abril de 1970.

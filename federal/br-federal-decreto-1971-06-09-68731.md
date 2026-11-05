@@ -1,5 +1,3 @@
-###DEC-068731-0-000-09-06-1971@@@
-
 DECRETO Nº 68.731 - DE 9 DE JUNHO DE 1971.
 
 Revoga o Decreto nº 68.127, de 28 de janeiro de 1971.

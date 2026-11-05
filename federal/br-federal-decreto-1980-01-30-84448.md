@@ -1,5 +1,3 @@
-###DEC-084448-0-000-30-01-1980@@@
-
 DECRETO N.º 84.448 DE 30 DE JANEIRO DE 1980.
 
 Altera dispositivo do Decreto n.º 68.078, de 18 de janeiro de 1971, que autoriza cessão de imóvel à Prefeitura Municipal de Bom Jardim (MG) e dá outras providências.

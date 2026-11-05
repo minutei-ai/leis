@@ -1,5 +1,3 @@
-###DEC-058254-0-000-26-04-1966@@@
-
 DECRETO Nº 58.254, DE 26 DE ABRIL DE 1966.
 
 Declara de utilidade pública o “Lar Sant’Ana”, com sede em Passa Quatro, Estado de Minas Gerais.

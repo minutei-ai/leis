@@ -1,5 +1,3 @@
-###DEC-070172-0-000-18-02-1972@@@
-
 decreto nº 70.172, de 18 de fevereiro de 1972.
 
 Revoga o Decreto nº 64.719, de 19 de junho de 1969, e restaura vigência do Decreto nº 41.660, de 7 de junho de 1957, que aprova o Regulamento de Uniformes para os Militares da Aeronáutica (RUMAER).

@@ -1,5 +1,3 @@
-###DEC-069036-0-000-09-08-1971@@@
-
 DECRETO Nº 69.036, DE 9 DE AGôSTO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão Araraquara-Campinas, no Estado de São Paulo.

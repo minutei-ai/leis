@@ -1,5 +1,3 @@
-###DEC-095059-0-000-19-10-1987@@@
-
 DECRETO Nº 95.059, DE 19 DE OUTUBRO DE 1987
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco (CODESVAF), área de terra localizada no Município de Igreja Nova, no Estado de Alagoas.

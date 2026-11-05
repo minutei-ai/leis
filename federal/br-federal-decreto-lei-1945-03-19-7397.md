@@ -1,5 +1,3 @@
-###DEL-007397-0-000-19-03-1945@@@
-
 DECRETO-LEI N. 7.397 – DE 19 DE MARÇO DE 1945
 
 Altera o Decreto-lei nº 6.067, de 3 de dezembro de 1943.

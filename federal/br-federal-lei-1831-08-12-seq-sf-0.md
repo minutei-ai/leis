@@ -1,5 +1,3 @@
-###LEI-000000-0-000-12-08-1831@@@
-
 LEI - DE 12 DE AGOSTO DE 1831
 
 Marca as funcções do cargo de Tutor do Imperador Menor o Senhor D. Pedro II, e de Suas Augustas Irmãs.

@@ -1,5 +1,3 @@
-###DEC-074572-0-000-19-09-1974@@@
-
 DECRETO Nº 74.572, DE 19 DE SETEMBRO DE 1974.
 
 Concede reconhecimento aos cursos de Matemática e de Letras da Faculdade de Filosofia, Ciências e Letras de Umuarama, mantida pela Associação - APEC -, com sede na cidade de Umuarama, Estado do Paraná.

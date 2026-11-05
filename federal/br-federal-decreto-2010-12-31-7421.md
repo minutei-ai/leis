@@ -1,5 +1,3 @@
-###DEC-007421-0-000-31-12-2010-PUB-01@@@
-
 DECRETO Nº 7.421, DE 31 DE DEZEMBRO DE 2010.
 
 Acresce número ao item VII da relação a que se refere o art. 7~~º~~ do Regulamento aprovado pelo Decreto n~~º~~ 27.048, de 12 de agosto de 1949.

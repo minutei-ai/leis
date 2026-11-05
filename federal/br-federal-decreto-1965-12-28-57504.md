@@ -1,5 +1,3 @@
-###DEC-057504-0-000-28-12-1965@@@
-
 decreto nº 57.504, de 28 de dezembro de 1965.
 
 Autoriza Mineração Industria e Comércio Magé Ltda., a lavrar caulim no município e Magé, Estado do Rio de Janeiro.

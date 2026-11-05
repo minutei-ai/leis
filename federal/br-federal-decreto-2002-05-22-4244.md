@@ -1,5 +1,3 @@
-###DEC-004244-0-000-22-05-2002@@@
-
 DECRETO Nº 4.244, DE 22 DE MAIO DE 2002
 
 Dispõe sobre o transporte aéreo, no País, de autoridades em aeronave do Comando da Aeronáutica.

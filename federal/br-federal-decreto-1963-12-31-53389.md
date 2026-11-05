@@ -1,5 +1,3 @@
-###DEC-053389-0-000-31-12-1963@@@
-
 DECRETO Nº 53.389, DE 31 DE DEZEMBRO DE 1963.
 
 Cria funções gratificadas na Procuradoria-Geral do Distrito Federal.

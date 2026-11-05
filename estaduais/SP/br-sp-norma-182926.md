@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=182926)
-
 # DECRETO Nº 62.798, DE 23 DE AGOSTO DE 2017
 
 ### _Revoga o Decreto nº 59.093, de 15 de abril de 2013, e o inciso XIV do artigo 3º do Decreto nº 61.038, de 1º de janeiro de 2015_
@@ -30,10 +28,16 @@ Palácio dos Bandeirantes, 23 de agosto de 2017
 
 GERALDO ALCKMIN
 
-João Carlos de Souza Meirelles<br>
-Secretário de Energia e Mineração<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+João Carlos de Souza Meirelles
+
+Secretário de Energia e Mineração
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 23 de agosto de 2017.

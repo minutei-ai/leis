@@ -1,5 +1,3 @@
-###DEC-047005-0-000-13-10-1959@@@
-
 DECRETO Nº 47.005, de 13 de outubro de 1959.
 
 Renova o decreto nº 41.405, de 24 de abril de 1957.

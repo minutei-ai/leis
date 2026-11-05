@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/06ad60ea-9f04-425d-a815-9ffd3b208611/texto#nowhere)
 
-###DEL-000939-0-000-13-10-1969@@@
-
 Decreto-LEI nº 939, de 13 Outubro de 1969
 
 Altera a redação do parágrafo único do artigo 1º do Decreto-lei nº 794, de 27 de agôsto de 1969, e dá outras providências.

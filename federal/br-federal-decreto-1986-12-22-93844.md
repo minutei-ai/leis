@@ -1,5 +1,3 @@
-###DEC-093844-0-000-22-12-1986@@@
-
 DECRETO Nº 93.844, DE 22 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado FAZENDA JUERANA, situado no Município de São Mateus, no Estado do Espírito Santo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.618, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.

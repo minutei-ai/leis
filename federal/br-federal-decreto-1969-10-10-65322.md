@@ -1,5 +1,3 @@
-###DEC-065322-0-000-10-10-1969@@@
-
 DECRETO Nº 65.322 - DE 10 DE OUTUBRO DE 1969.
 
 Aprova o Estatuto do Centro Nacional de Aperfeiçoamento de Pessoal para a Formação Profissional (CENAFOR).

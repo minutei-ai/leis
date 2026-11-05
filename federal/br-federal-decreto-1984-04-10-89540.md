@@ -1,5 +1,3 @@
-###DEC-089540-0-000-10-04-1984@@@
-
 Decreto n.º 89.540 de 1o abril de 1984
 
 Autoriza a COMPANHIA AÇOS ESPECIAIS ITABIRA - ACESITA a  proceder ao aumento do seu capital social.

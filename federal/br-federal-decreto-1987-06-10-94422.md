@@ -1,5 +1,3 @@
-###DEC-094422-0-000-10-06-1987@@@
-
 DECRETO Nº 94.422, DE 10 DE JUNHO DE 1987
 
 Autoriza o BANCO HOLANDÊS UNIDO S.A. a instalar mais três filiais no Brasil.

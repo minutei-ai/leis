@@ -1,5 +1,3 @@
-###DEC-085772-0-000-26-02-1981@@@
-
 Decreto nº 85.772, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Desenho Industrial da Faculdade de Desenho Industrial Silva e Souza, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

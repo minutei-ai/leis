@@ -1,5 +1,3 @@
-###DEC-003169-0-000-14-09-1999@@@
-
 DECRETO Nº 3.169, DE 14 DE SETEMBRO DE 1999
 
 Institui  no âmbito da Casa Civil da Presidência da República, a Comissão de Estudo para criação do fundo de que trata o art. 21, inciso XIV, da Constituição.

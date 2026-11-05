@@ -1,5 +1,3 @@
-###DEL-000016-0-000-25-11-1937@@@
-
 DECRETO-LEI N. 16 – DE 25 DE NOVEMBRO DE 1937
 
 Autoriza a aquisição de um terreno em Cruz Alta, para misteres da aviação militar

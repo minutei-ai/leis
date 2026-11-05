@@ -1,5 +1,3 @@
-###DEC-006639-0-000-07-11-2008@@@
-
 DECRETO Nº 6.639, DE 7 DE NOVEMBRO DE 2008.
 
 Regulamenta a Lei no 11.668, de 2 de maio de 2008, que dispõe sobre o exercício da atividade de franquia postal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045696-0-000-03-04-1959@@@
-
 DECRETO Nº 45.696, de 3 ABRIL DE 1959.
 
 Altera os artigos 100, 115 e 121, do Regulamento da Escola de Oficiais Especialistas e de Infantaria de Guarda, aprovado pelo Decreto nº 31.488, de 19 de setembro de 1952, e alterado pelo Decreto nº 33.053, de 15 de junho de 1953.

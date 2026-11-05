@@ -1,5 +1,3 @@
-###DEC-066909-0-000-20-07-1970@@@
-
 Decreto nº 66.909, de 20 de julho de 1970.
 
 Declara de utilidade pública a Associação de Assistência Social Coração de Jesus, com sede em Niterói,  Estado do Rio de Janeiro.

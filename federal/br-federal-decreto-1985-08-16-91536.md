@@ -1,5 +1,3 @@
-###DEC-091536-0-000-16-08-1985@@@
-
 DECRETO nº 91.536, de 16 de agosto de 1985
 
 Altera dispositivos do Decreto nº 90.079, de 16 de agosto de 1984, que "dispõe sobre o Regulamento da Escola Superior de Guerra e dá outras providências".

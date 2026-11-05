@@ -1,7 +1,3 @@
-1
-
-###MPV-001507-0-000-20-06-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.507, de 20 de JUNHO DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

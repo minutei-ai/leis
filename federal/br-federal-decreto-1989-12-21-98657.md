@@ -1,7 +1,3 @@
-1
-
-###DEC-098657-0-000-21-12-1989@@@
-
 DECRETO Nº 98.657, DE 21 DE DEZEMBRO DE 1989
 
 Promulga o Acordo de Cooperação Científica e Tecnológica, entre a República Federativa do Brasil e o Reino da Dinamarca.

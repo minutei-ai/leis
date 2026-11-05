@@ -1,5 +1,3 @@
-###DEC-054404-0-000-10-10-1964@@@
-
 DECRETO Nº 54.404, DE 10 DE OUTUBRO DE 1964.
 
 Renova o Decreto nº 48.333 de 21 de junho de 1960.

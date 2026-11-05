@@ -1,5 +1,3 @@
-###MPV-002165-0-036-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.165-36, DE 23 DE AGOSTO DE 2001
 
  Institui o Auxílio-Transporte, dispõe sobre o pagamento dos militares e dos servidores do Poder Executivo Federal, inclusive de suas autarquias, fundações, empresas públicas e sociedades de economia mista, e dá outras providências.

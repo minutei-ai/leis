@@ -1,5 +1,3 @@
-###DEC-058123-0-000-30-03-1966@@@
-
 DECRETO Nº 58.123, DE 30 DE março DE 1966.
 
 Declara caduco o Decreto nº 38.578, de 16 de janeiro de 1956.

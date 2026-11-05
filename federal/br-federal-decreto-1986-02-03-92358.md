@@ -1,5 +1,3 @@
-###DEC-092358-0-000-03-02-1986@@@
-
 DECRETO Nº 92.358, DE 03 DE FEVEREIRO DE 1986
 
 Altera dispositivos do Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha, e dá outras providências.

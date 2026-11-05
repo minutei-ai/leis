@@ -1,5 +1,3 @@
-###DEC-060025-0-000-11-01-1967@@@
-
 DECRETA Nº 60.025, DE 11 DE JANEIRO DE 1967.
 
 Declara sem efeito o Decreto número 55.720, de 2 de fevereiro de 1965.

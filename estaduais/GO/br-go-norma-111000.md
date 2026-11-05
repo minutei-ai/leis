@@ -60,7 +60,8 @@ d) Diretoria-Geral de Polícia Penal – DGPP:
 
 4\. socialização e reintegração dos reeducandos.
 
-e) Diretoria da Polícia Científica – DPCI: perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal no âmbito das investigações criminais e ações penais.<br>
+e) Diretoria da Polícia Científica – DPCI: perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal no âmbito das investigações criminais e ações penais.
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
 Art. 3º Integram a estrutura básica da SSP, como órgãos autônomos:
@@ -73,7 +74,8 @@ III – o CBM; 
 
 IV – a DGPP, com seu regulamento definido em ato normativo próprio; e
 
-V – a DPCI.<br>
+V – a DPCI.
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
 Art. 4º Integram ainda a SSP, como órgãos colegiados:
@@ -178,19 +180,24 @@ e) Superintendência de Proteção aos Direitos do Consumidor:
 
 5\. Gerência de Contencioso Administrativo;
 
-~~f) Superintendência de Polícia Técnico-Científica – SPTC:~~<br>
+~~f) Superintendência de Polícia Técnico-Científica – SPTC:~~
+
 \- [Revogada pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, a.
 
-~~1\. Gerência de Criminalística;~~<br>
+~~1\. Gerência de Criminalística;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, a.
 
-~~2\. Gerência de Medicina Legal;~~<br>
+~~2\. Gerência de Medicina Legal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, a.
 
-~~3\. Gerência de Suporte Operacional; e~~<br>
+~~3\. Gerência de Suporte Operacional; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, a.
 
-~~4\. Coordenação Regional de Polícia Técnico-Científica;~~<br>
+~~4\. Coordenação Regional de Polícia Técnico-Científica;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, a.
 
 g) Superintendência de Combate à Corrupção e ao Crime Organizado:
@@ -331,7 +338,8 @@ l) CBM:
 
 1.1.8. Comando de Saúde; e
 
-1.1.9 Comando de Missões Especiais;<br>
+1.1.9 Comando de Missões Especiais;
+
 \- [Nomenclatura dada pelo Decreto nº 10.865, de 25-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113251/decreto-10865).
 
 ~~1.1.9. Comando de Operações Especiais;~~
@@ -342,25 +350,32 @@ l) CBM:
 
 m) DGPP; e
 
-n) DPCI:<br>
+n) DPCI:
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1\. Gabinete do Diretor-Geral da Polícia Científica:<br>
+1\. Gabinete do Diretor-Geral da Polícia Científica:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1.1. Diretoria-Geral Adjunta;<br>
+1.1. Diretoria-Geral Adjunta;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1.2. Gerência de Criminalística;<br>
+1.2. Gerência de Criminalística;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1.3. Gerência de Medicina Legal;<br>
+1.3. Gerência de Medicina Legal;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1.4. Gerência de Suporte Operacional; e<br>
+1.4. Gerência de Suporte Operacional; e
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1.5. Coordenação Regional da Polícia Científica.<br>
+1.5. Coordenação Regional da Polícia Científica.
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
 TÍTULO IV
@@ -2033,302 +2048,398 @@ IX – elaborar e disponibilizar dados estatísticos sobre suas ações; e
 
 X – encarregar-se de competências correlatas.
 
-~~CAPÍTULO IV~~<br>
+~~CAPÍTULO IV~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
 ~~SUPERINTENDÊNCIA DE POLÍCIA TÉCNICO-CIENTÍFICA~~
 
-~~Art. 46. Compete à SPTC:~~<br>
+~~Art. 46. Compete à SPTC:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~I – planejar, coordenar e fiscalizar as atividades da Polícia Técnico– Científica para o cumprimento de sua missão institucional;~~<br>
+~~I – planejar, coordenar e fiscalizar as atividades da Polícia Técnico– Científica para o cumprimento de sua missão institucional;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~II – coletar e analisar dados estatísticos, estudos e pesquisas referentes ao seu campo de atuação;~~<br>
+~~II – coletar e analisar dados estatísticos, estudos e pesquisas referentes ao seu campo de atuação;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~III – promover o intercâmbio de experiências nas áreas técnica e operacional com instituições públicas e privadas nos âmbitos federal, estadual e municipal;~~<br>
+~~III – promover o intercâmbio de experiências nas áreas técnica e operacional com instituições públicas e privadas nos âmbitos federal, estadual e municipal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IV – gerenciar a realização de perícias internas e externas, bem como a emissão de laudos e pareceres na área de criminalística, nos âmbitos de investigação policial e de processo criminal;~~<br>
+~~IV – gerenciar a realização de perícias internas e externas, bem como a emissão de laudos e pareceres na área de criminalística, nos âmbitos de investigação policial e de processo criminal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~V – gerenciar a realização de exames em vivos e em mortos para a determinação da natureza de lesões e causa mortis, bem como a emissão de laudos e pareceres na área de medicina legal, nos âmbitos de investigação policial e de processo criminal;~~<br>
+~~V – gerenciar a realização de exames em vivos e em mortos para a determinação da natureza de lesões e causa mortis, bem como a emissão de laudos e pareceres na área de medicina legal, nos âmbitos de investigação policial e de processo criminal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VI – controlar os recursos financeiros, materiais e humanos colocados à disposição da superintendência, bem como o fiel cumprimento dos regulamentos, das normas e das legislações que regem o funcionamento da Polícia Técnico-Científica;~~<br>
+~~VI – controlar os recursos financeiros, materiais e humanos colocados à disposição da superintendência, bem como o fiel cumprimento dos regulamentos, das normas e das legislações que regem o funcionamento da Polícia Técnico-Científica;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VII – coordenar as unidades regionais da Polícia Técnico-Científica no Estado de Goiás, diretamente ou por intermédio de Coordenador-Geral de Regionais;~~<br>
+~~VII – coordenar as unidades regionais da Polícia Técnico-Científica no Estado de Goiás, diretamente ou por intermédio de Coordenador-Geral de Regionais;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VIII – supervisionar as atividades de requisição, distribuição de equipamentos, insumos, manutenção predial, assim como os contratos e os convênios referentes às unidades da SPTC e geridos pela Gerência de Suporte Operacional;~~<br>
+~~VIII – supervisionar as atividades de requisição, distribuição de equipamentos, insumos, manutenção predial, assim como os contratos e os convênios referentes às unidades da SPTC e geridos pela Gerência de Suporte Operacional;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IX – promover a articulação e o alinhamento com as unidades administrativas básicas da SSP, de forma a obter um fluxo contínuo de informações, que facilite a coordenação e o processo de tomada de decisões;~~<br>
+~~IX – promover a articulação e o alinhamento com as unidades administrativas básicas da SSP, de forma a obter um fluxo contínuo de informações, que facilite a coordenação e o processo de tomada de decisões;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~X – participar, no que lhe compete, da política estadual de segurança pública;~~<br>
+~~X – participar, no que lhe compete, da política estadual de segurança pública;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XI – promover o acompanhamento e o desenvolvimento de pesquisas e estudos relacionados às atividades da Polícia Técnico-Científica e à análise das tendências da criminalidade, para a melhoria da qualidade e da eficácia na prestação dos serviços à população;~~<br>
+~~XI – promover o acompanhamento e o desenvolvimento de pesquisas e estudos relacionados às atividades da Polícia Técnico-Científica e à análise das tendências da criminalidade, para a melhoria da qualidade e da eficácia na prestação dos serviços à população;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XII – manter estreita ligação com as demais unidades do sistema de segurança pública, a fim de possibilitar a coordenação operacional dos planejamentos realizados conjuntamente aos demais órgãos do Estado;~~<br>
+~~XII – manter estreita ligação com as demais unidades do sistema de segurança pública, a fim de possibilitar a coordenação operacional dos planejamentos realizados conjuntamente aos demais órgãos do Estado;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIII – buscar e consolidar parcerias para a integração de todos os órgãos e setores da sociedade, públicos ou privados, que tenham interesse direto ou indireto na segurança pública;~~<br>
+~~XIII – buscar e consolidar parcerias para a integração de todos os órgãos e setores da sociedade, públicos ou privados, que tenham interesse direto ou indireto na segurança pública;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIV – assessorar e supervisionar a elaboração e a execução dos planos setoriais para o cumprimento do Plano Estratégico e submetê-lo à aprovação do Secretário de Estado da Segurança Pública;~~<br>
+~~XIV – assessorar e supervisionar a elaboração e a execução dos planos setoriais para o cumprimento do Plano Estratégico e submetê-lo à aprovação do Secretário de Estado da Segurança Pública;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XV – promover atividades de cooperação técnica, operacional e financeira com órgãos da União, dos estados, do Distrito Federal e dos municípios, também com entidades privadas, com a possibilidade de firmar, para tanto, conjuntamente ao Secretário de Estado da Segurança Pública, os respectivos termos de ajustes;~~<br>
+~~XV – promover atividades de cooperação técnica, operacional e financeira com órgãos da União, dos estados, do Distrito Federal e dos municípios, também com entidades privadas, com a possibilidade de firmar, para tanto, conjuntamente ao Secretário de Estado da Segurança Pública, os respectivos termos de ajustes;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVI – planejar, coordenar e fiscalizar as atividades de ensino policial técnico– científico, a serem executadas por meio de unidade de ensino diretamente subordinada à superintendência; e~~<br>
+~~XVI – planejar, coordenar e fiscalizar as atividades de ensino policial técnico– científico, a serem executadas por meio de unidade de ensino diretamente subordinada à superintendência; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVII – encarregar-se de competências correlatas.~~<br>
+~~XVII – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à SPTC exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:~~<br>
+~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à SPTC exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~I – Gerência de Criminalística;~~<br>
+~~I – Gerência de Criminalística;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~II – Gerência de Medicina Legal;~~<br>
+~~II – Gerência de Medicina Legal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~III – Gerência de Suporte Operacional; e~~<br>
+~~III – Gerência de Suporte Operacional; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IV – Coordenações Regionais de Polícia Técnico– Científica.~~<br>
+~~IV – Coordenações Regionais de Polícia Técnico– Científica.~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~Seção I~~<br>
+~~Seção I~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
 ~~Gerência de Criminalística~~
 
-~~Art. 47. Compete à Gerência de Criminalística:~~<br>
+~~Art. 47. Compete à Gerência de Criminalística:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~I – executar os serviços de perícia criminal de natureza oficial e atividades correlatas, no âmbito das atividades de polícia judiciária e de apuração das infrações penais, que envolvam:~~<br>
+~~I – executar os serviços de perícia criminal de natureza oficial e atividades correlatas, no âmbito das atividades de polícia judiciária e de apuração das infrações penais, que envolvam:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~a) os exames de perícia criminal do local de crime nos municípios da unidade regional de Goiânia; e~~<br>
+~~a) os exames de perícia criminal do local de crime nos municípios da unidade regional de Goiânia; e~~
+
 \- [Revogada pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~b) os exames de perícia criminal realizados nos laboratórios e nas seções internos do Instituto de Criminalística Leonardo Rodrigues, demandados em todos os municípios do Estado de Goiás e que não sejam atendidos por laboratórios ou seções das unidades regionais;~~<br>
+~~b) os exames de perícia criminal realizados nos laboratórios e nas seções internos do Instituto de Criminalística Leonardo Rodrigues, demandados em todos os municípios do Estado de Goiás e que não sejam atendidos por laboratórios ou seções das unidades regionais;~~
+
 \- [Revogada pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~II – emitir laudos, pareceres ou prestar informações sobre assuntos referentes à área de criminalística no âmbito das investigações policiais e dos processos criminais;~~<br>
+~~II – emitir laudos, pareceres ou prestar informações sobre assuntos referentes à área de criminalística no âmbito das investigações policiais e dos processos criminais;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~III – prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;~~<br>
+~~III – prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IV – manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;~~<br>
+~~IV – manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~V – apresentar à SPTC minucioso relatório das realizações da gerência, sempre que for solicitado;~~<br>
+~~V – apresentar à SPTC minucioso relatório das realizações da gerência, sempre que for solicitado;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VI – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;~~<br>
+~~VI – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VII – promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir– lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;~~<br>
+~~VII – promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir– lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VIII – proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;~~<br>
+~~VIII – proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IX – gerir o almoxarifado do Instituto de Criminalística Leonardo Rodrigues e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e~~<br>
+~~IX – gerir o almoxarifado do Instituto de Criminalística Leonardo Rodrigues e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~X– encarregar-se de competências correlatas.~~<br>
+~~X– encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~Seção II~~<br>
+~~Seção II~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
 ~~Gerência de Medicina Legal~~
 
-~~Art. 48. Compete à Gerência de Medicina Legal:~~<br>
+~~Art. 48. Compete à Gerência de Medicina Legal:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~I – efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis , com a elaboração dos respectivos laudos periciais, nos âmbitos de investigação policial e de processo criminal;~~<br>
+~~I – efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis , com a elaboração dos respectivos laudos periciais, nos âmbitos de investigação policial e de processo criminal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~II – preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;~~<br>
+~~II – preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~III – emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal nos âmbitos das investigações policiais e dos processos criminais;~~<br>
+~~III – emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal nos âmbitos das investigações policiais e dos processos criminais;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IV – prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;~~<br>
+~~IV – prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~V – apresentar à SPTC minucioso relatório das realizações da gerência;~~<br>
+~~V – apresentar à SPTC minucioso relatório das realizações da gerência;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VI – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;~~<br>
+~~VI – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VII – promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;~~<br>
+~~VII – promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VIII – proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;~~<br>
+~~VIII – proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IX – gerir o almoxarifado do Instituto Médico-Legal Aristoclides Teixeira e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e~~<br>
+~~IX – gerir o almoxarifado do Instituto Médico-Legal Aristoclides Teixeira e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~X – encarregar-se de competências correlatas.~~<br>
+~~X – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~Seção III~~<br>
+~~Seção III~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
 ~~Gerência de Suporte Operacional~~
 
-~~Art. 49. Compete à Gerência de Suporte Operacional:~~<br>
+~~Art. 49. Compete à Gerência de Suporte Operacional:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~I – auxiliar os gestores de contrato e fiscalizar sua atuação no âmbito das unidades da Polícia Técnico-Científica, bem como reportar o andamento da execução dos contratos à Superintendência;~~<br>
+~~I – auxiliar os gestores de contrato e fiscalizar sua atuação no âmbito das unidades da Polícia Técnico-Científica, bem como reportar o andamento da execução dos contratos à Superintendência;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~II – realizar o levantamento orçamentário para a celebração ou a renovação de contratos, planejar as compras e elaborar as requisições de despesas da SPTC, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos seus insumos e materiais de uso próprio;~~<br>
+~~II – realizar o levantamento orçamentário para a celebração ou a renovação de contratos, planejar as compras e elaborar as requisições de despesas da SPTC, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos seus insumos e materiais de uso próprio;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~III – fazer a gestão do fundo rotativo, realizar regularmente a prestação de contas e cumprir as exigências legais;~~<br>
+~~III – fazer a gestão do fundo rotativo, realizar regularmente a prestação de contas e cumprir as exigências legais;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IV – realizar o controle do patrimônio da SPTC;~~<br>
+~~IV – realizar o controle do patrimônio da SPTC;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~V – gerir o almoxarifado geral da SPTC, com o controle rigoroso da entrada e da saída de materiais, a manutenção do estoque mínimo e a solicitação das compras necessárias, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos estoques específicos de suas respectivas unidades;~~<br>
+~~V – gerir o almoxarifado geral da SPTC, com o controle rigoroso da entrada e da saída de materiais, a manutenção do estoque mínimo e a solicitação das compras necessárias, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos estoques específicos de suas respectivas unidades;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VI – fazer a distribuição de bens, materiais e equipamentos para as unidades da Polícia Técnico-Científica;~~<br>
+~~VI – fazer a distribuição de bens, materiais e equipamentos para as unidades da Polícia Técnico-Científica;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VII – realizar o levantamento das necessidades de investimento na SPTC;~~<br>
+~~VII – realizar o levantamento das necessidades de investimento na SPTC;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VIII – elaborar e gerenciar projetos, bem como realizar o cadastramento nas respectivas plataformas;~~<br>
+~~VIII – elaborar e gerenciar projetos, bem como realizar o cadastramento nas respectivas plataformas;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IX – auxiliar as Coordenações Regionais de Polícia Técnico-Científica e os Postos de Atendimento de Polícia Técnico-Científica na elaboração de projetos e captação de recursos, bem como acompanhá-los;~~<br>
+~~IX – auxiliar as Coordenações Regionais de Polícia Técnico-Científica e os Postos de Atendimento de Polícia Técnico-Científica na elaboração de projetos e captação de recursos, bem como acompanhá-los;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~X – assessorar e auxiliar o Superintendente da Polícia Técnico-Científica na captação de recursos financeiros para a instituição;~~<br>
+~~X – assessorar e auxiliar o Superintendente da Polícia Técnico-Científica na captação de recursos financeiros para a instituição;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XI – auxiliar a SSP na construção de seu Planejamento Estratégico;~~<br>
+~~XI – auxiliar a SSP na construção de seu Planejamento Estratégico;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XII – assessorar e auxiliar o Superintendente da Polícia Técnico-Científica em conjunto à Superintendência de Gestão Integrada da SSP;~~<br>
+~~XII – assessorar e auxiliar o Superintendente da Polícia Técnico-Científica em conjunto à Superintendência de Gestão Integrada da SSP;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIII – manter organizados e atualizados os cadastros dos prestadores de serviços e dos fornecedores;~~<br>
+~~XIII – manter organizados e atualizados os cadastros dos prestadores de serviços e dos fornecedores;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIV – elaborar e manter o controle de documentos referentes aos assuntos de gestão de pessoas;~~<br>
+~~XIV – elaborar e manter o controle de documentos referentes aos assuntos de gestão de pessoas;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XV – realizar pré-análise dos documentos enviados pelas unidades da Polícia Técnico-Científica e comunicar à chefia imediata os que não estiverem em conformidade;~~<br>
+~~XV – realizar pré-análise dos documentos enviados pelas unidades da Polícia Técnico-Científica e comunicar à chefia imediata os que não estiverem em conformidade;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVI – assessorar o Superintendente da Polícia Técnico-Científica na supervisão, no controle e na correção das escalas de serviço extraordinário;~~<br>
+~~XVI – assessorar o Superintendente da Polícia Técnico-Científica na supervisão, no controle e na correção das escalas de serviço extraordinário;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVII – supervisionar, acompanhar e controlar o processo de avaliação do estágio probatório, assim como assessorar a Comissão Permanente de Avaliação do Estágio Probatório;~~<br>
+~~XVII – supervisionar, acompanhar e controlar o processo de avaliação do estágio probatório, assim como assessorar a Comissão Permanente de Avaliação do Estágio Probatório;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVIII – publicar e manter atualizado o Boletim-Geral da Polícia Técnico-Científica;~~<br>
+~~XVIII – publicar e manter atualizado o Boletim-Geral da Polícia Técnico-Científica;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIX – elaborar e executar políticas destinadas à preparação do policial técnico-científico para a aposentadoria;~~<br>
+~~XIX – elaborar e executar políticas destinadas à preparação do policial técnico-científico para a aposentadoria;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XX – auxiliar na execução de processos e manutenções da estrutura física das unidades da Polícia Técnico-Científica;~~<br>
+~~XX – auxiliar na execução de processos e manutenções da estrutura física das unidades da Polícia Técnico-Científica;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XXI – auxiliar na captação de recursos da unidade executora – UEX vinculada à Polícia Técnico-Científica;~~<br>
+~~XXI – auxiliar na captação de recursos da unidade executora – UEX vinculada à Polícia Técnico-Científica;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XXII – elaborar e gerenciar convênios com municípios, instituições de ensino, secretarias e instituições científicas;~~<br>
+~~XXII – elaborar e gerenciar convênios com municípios, instituições de ensino, secretarias e instituições científicas;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XXIII – elaborar e gerenciar estudos técnicos preliminares para o Superintendente da Polícia Técnico-Científica; e~~<br>
+~~XXIII – elaborar e gerenciar estudos técnicos preliminares para o Superintendente da Polícia Técnico-Científica; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XXIV – encarregar-se de competências correlatas.~~<br>
+~~XXIV – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~Seção IV~~<br>
+~~Seção IV~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
 ~~Coordenações Regionais de Polícia Técnico-Científica~~
 
-~~Art. 50. Compete às Coordenações Regionais de Polícia Técnico-Científica:~~<br>
+~~Art. 50. Compete às Coordenações Regionais de Polícia Técnico-Científica:~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~I – planejar, coordenar e supervisionar as atividades, os planos, os projetos e as ações da unidade;~~<br>
+~~I – planejar, coordenar e supervisionar as atividades, os planos, os projetos e as ações da unidade;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~II – assessorar a atuação dos integrantes de sua equipe, com a distribuição adequada das tarefas entre eles e a avaliação do seu desempenho;~~<br>
+~~II – assessorar a atuação dos integrantes de sua equipe, com a distribuição adequada das tarefas entre eles e a avaliação do seu desempenho;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~III – identificar necessidades de capacitação dos integrantes de sua equipe e proceder às ações necessárias à sua realização;~~<br>
+~~III – identificar necessidades de capacitação dos integrantes de sua equipe e proceder às ações necessárias à sua realização;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IV – aprimorar continuamente os processos de trabalho de sua unidade para otimizar a utilização dos recursos disponíveis;~~<br>
+~~IV – aprimorar continuamente os processos de trabalho de sua unidade para otimizar a utilização dos recursos disponíveis;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~V – executar os serviços de perícia criminal de natureza oficial e atividades correlatas, nos âmbitos das atividades de polícia judiciária e de apuração das infrações penais prestadas pelo Estado de Goiás, que envolvam sua regional com relação aos exames de perícia criminal de local de crime nos municípios de sua regional;~~<br>
+~~V – executar os serviços de perícia criminal de natureza oficial e atividades correlatas, nos âmbitos das atividades de polícia judiciária e de apuração das infrações penais prestadas pelo Estado de Goiás, que envolvam sua regional com relação aos exames de perícia criminal de local de crime nos municípios de sua regional;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VI – emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de criminalística;~~<br>
+~~VI – emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de criminalística;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VII – prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;~~<br>
+~~VII – prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~VIII – manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;~~<br>
+~~VIII – manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~IX – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional e, nos casos de necessidade e para a garantia da continuidade dos serviços executados, alocar seus recursos humanos no respectivo Posto de Atendimento, onde houver;~~<br>
+~~IX – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional e, nos casos de necessidade e para a garantia da continuidade dos serviços executados, alocar seus recursos humanos no respectivo Posto de Atendimento, onde houver;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~X – no âmbito das investigações policiais e dos processos criminais, efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis , com a elaboração dos respectivos laudos periciais;~~<br>
+~~X – no âmbito das investigações policiais e dos processos criminais, efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis , com a elaboração dos respectivos laudos periciais;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XI – preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;~~<br>
+~~XI – preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XII – emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal;~~<br>
+~~XII – emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIII – apresentar à SPTC relatório das realizações da Coordenação Regional;~~<br>
+~~XIII – apresentar à SPTC relatório das realizações da Coordenação Regional;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XIV – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional;~~<br>
+~~XIV – coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XV – promover a execução de perícias, avaliações e arbitramento ou emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;~~<br>
+~~XV – promover a execução de perícias, avaliações e arbitramento ou emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVI – manter estreita ligação com órgãos locais do sistema de segurança pública, para possibilitar a coordenação operacional dos planejamentos realizados conjuntamente aos demais órgãos do Estado;~~<br>
+~~XVI – manter estreita ligação com órgãos locais do sistema de segurança pública, para possibilitar a coordenação operacional dos planejamentos realizados conjuntamente aos demais órgãos do Estado;~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVII – buscar e consolidar parcerias locais para a integração com setores da sociedade, públicos ou privados, que tenham interesse direto ou indireto na segurança pública; e~~<br>
+~~XVII – buscar e consolidar parcerias locais para a integração com setores da sociedade, públicos ou privados, que tenham interesse direto ou indireto na segurança pública; e~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
-~~XVIII – encarregar-se de competências correlatas.~~<br>
+~~XVIII – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939), art. 5º, II, b.
 
 CAPÍTULO V
@@ -5469,7 +5580,8 @@ VII – Comando de Gestão Estratégica;
 
 VIII – Comando de Saúde; e
 
-IX – Comando de Missões Especiais.<br>
+IX – Comando de Missões Especiais.
+
 \- [Nomenclatura dada pelo Decreto nº 10.865, de 25-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113251/decreto-10865).
 
 ~~IX – Comando de Operações Especiais.~~
@@ -6008,7 +6120,8 @@ V – apoiar a corporação na execução de atividades preventivas e operaciona
 
 VI – encarregar-se de competências correlatas.
 
-Art. 124. Compete ao Comando de Missões Especiais:<br>
+Art. 124. Compete ao Comando de Missões Especiais:
+
 \- [Nomenclatura dada pelo Decreto nº 10.865, de 25-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113251/decreto-10865).
 
 ~~Art. 124. Compete ao Comando de Operações Especiais:~~
@@ -6201,321 +6314,426 @@ II – à SEAD, quanto às competências de transformação da gestão dos servi
 
 III – à SGG, quanto às competências de tecnologia da informação e da comunicação.
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
 DIRETORIA DA POLÍCIA CIENTÍFICA – DPCI
 
-Art. 126-A. Compete à Diretoria da Polícia Científica – DPCI:<br>
+Art. 126-A. Compete à Diretoria da Polícia Científica – DPCI:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-I – realizar a perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal, o que abrange o exame de local de crime, as perícias criminais de laboratório e os demais exames de corpo de delito, no âmbito das investigações criminais e das ações penais;<br>
+I – realizar a perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal, o que abrange o exame de local de crime, as perícias criminais de laboratório e os demais exames de corpo de delito, no âmbito das investigações criminais e das ações penais;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-II – elaborar laudos e pareceres técnico-científicos nas áreas de Criminalística, Medicina Legal e Odontologia Legal nos âmbitos da investigação policial e do processo criminal;<br>
+II – elaborar laudos e pareceres técnico-científicos nas áreas de Criminalística, Medicina Legal e Odontologia Legal nos âmbitos da investigação policial e do processo criminal;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-III – gerir e supervisionar os procedimentos relativos à cadeia de custódia dos vestígios materiais submetidos à DPCI, nos termos da legislação aplicável;<br>
+III – gerir e supervisionar os procedimentos relativos à cadeia de custódia dos vestígios materiais submetidos à DPCI, nos termos da legislação aplicável;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-IV – planejar, coordenar e fiscalizar as atividades de Criminalística, Medicina Legal e Odontologia Legal de exame de local de crime e de gestão da cadeia de custódia de vestígios materiais a seu cargo;<br>
+IV – planejar, coordenar e fiscalizar as atividades de Criminalística, Medicina Legal e Odontologia Legal de exame de local de crime e de gestão da cadeia de custódia de vestígios materiais a seu cargo;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-V – planejar, coordenar e fiscalizar as atividades de ensino e de pesquisa no âmbito de sua competência;<br>
+V – planejar, coordenar e fiscalizar as atividades de ensino e de pesquisa no âmbito de sua competência;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-VI – promover o desenvolvimento e a padronização dos procedimentos realizados no âmbito da DPCI;<br>
+VI – promover o desenvolvimento e a padronização dos procedimentos realizados no âmbito da DPCI;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-VII – participar, no que lhe compete, da política estadual de segurança pública e do SUSP; e<br>
+VII – participar, no que lhe compete, da política estadual de segurança pública e do SUSP; e
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-VIII – encarregar-se de competências correlatas.<br>
+VIII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-§ 1º Compete ao Gabinete do Diretor-Geral da Polícia Científica, unidade de direção que tem por finalidades o exercício da direção-geral, o planejamento institucional e a administração superior da DPCI:<br>
+§ 1º Compete ao Gabinete do Diretor-Geral da Polícia Científica, unidade de direção que tem por finalidades o exercício da direção-geral, o planejamento institucional e a administração superior da DPCI:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-I – exercer a direção-geral, o planejamento institucional e a administração superior da DPCI, mediante a supervisão, a coordenação, o controle e a fiscalização de suas funções finalísticas e administrativas;<br>
+I – exercer a direção-geral, o planejamento institucional e a administração superior da DPCI, mediante a supervisão, a coordenação, o controle e a fiscalização de suas funções finalísticas e administrativas;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-II – indicar ou prover, mediante delegação expressa do Chefe do Poder Executivo, os cargos em comissão dos quadros de pessoal da DPCI, observada a legislação em vigor;<br>
+II – indicar ou prover, mediante delegação expressa do Chefe do Poder Executivo, os cargos em comissão dos quadros de pessoal da DPCI, observada a legislação em vigor;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-III – editar atos normativos para a consecução das funções de competência da DPCI;<br>
+III – editar atos normativos para a consecução das funções de competência da DPCI;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-IV – coordenar as regionais de polícia científica no Estado de Goiás;<br>
+IV – coordenar as regionais de polícia científica no Estado de Goiás;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-V – controlar os recursos financeiros, materiais e humanos colocados à disposição da DPCI e zelar pelo fiel cumprimento dos regulamentos, das normas e das legislações que regem o funcionamento da Polícia Científica;<br>
+V – controlar os recursos financeiros, materiais e humanos colocados à disposição da DPCI e zelar pelo fiel cumprimento dos regulamentos, das normas e das legislações que regem o funcionamento da Polícia Científica;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-VI – encaminhar ao Secretário de Estado da Segurança Pública a proposta orçamentária da DPCI, observada a rubrica orçamentária específica do órgão;<br>
+VI – encaminhar ao Secretário de Estado da Segurança Pública a proposta orçamentária da DPCI, observada a rubrica orçamentária específica do órgão;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-VII – acompanhar e avaliar, no âmbito da DPCI, a execução orçamentária e financeira, a administração e o controle de bens e de pessoal e a execução dos ajustes dos quais seja interveniente;<br>
+VII – acompanhar e avaliar, no âmbito da DPCI, a execução orçamentária e financeira, a administração e o controle de bens e de pessoal e a execução dos ajustes dos quais seja interveniente;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-VIII – manter interlocução com o Delegado-Geral da Polícia Civil, o Comandante-Geral da PM, o Comandante-Geral do CBM e o Diretor-Geral de Polícia Penal, para a articulação e a integração ao SUSP;<br>
+VIII – manter interlocução com o Delegado-Geral da Polícia Civil, o Comandante-Geral da PM, o Comandante-Geral do CBM e o Diretor-Geral de Polícia Penal, para a articulação e a integração ao SUSP;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-IX – celebrar, conjuntamente ao Secretário de Estado da Segurança Pública, ajustes de cooperação técnica, operacional e financeira com órgãos e entidades públicos e privados;<br>
+IX – celebrar, conjuntamente ao Secretário de Estado da Segurança Pública, ajustes de cooperação técnica, operacional e financeira com órgãos e entidades públicos e privados;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-X – determinar a realização de pesquisas técnico-científicas e de estudos estatísticos relacionados às funções da DPCI para subsídio à tomada de decisão;<br>
+X – determinar a realização de pesquisas técnico-científicas e de estudos estatísticos relacionados às funções da DPCI para subsídio à tomada de decisão;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-XI – propor a criação e a extinção de cargos e funções na DPCI;<br>
+XI – propor a criação e a extinção de cargos e funções na DPCI;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-XII – praticar os demais atos necessários à administração da DPCI, nos termos da legislação;<br>
+XII – praticar os demais atos necessários à administração da DPCI, nos termos da legislação;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-XIII – estabelecer, por meio de portaria, a organização interna das atividades administrativas e de apoio necessárias ao funcionamento da DPCI; e<br>
+XIII – estabelecer, por meio de portaria, a organização interna das atividades administrativas e de apoio necessárias ao funcionamento da DPCI; e
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-XIV – encarregar-se de competências correlatas.<br>
+XIV – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-§ 2º Além das competências constantes do § 1º deste artigo, compete ao Gabinete do Diretor-Geral da Polícia Científica exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:<br>
+§ 2º Além das competências constantes do § 1º deste artigo, compete ao Gabinete do Diretor-Geral da Polícia Científica exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-I – Diretoria-Geral Adjunta, unidade de assessoramento superior do Gabinete do Diretor-Geral da Polícia Científica, que tem por finalidade a assistência à direção nos âmbitos administrativo, estratégico, tático e operacional, por meio da organização, da supervisão técnica e do controle das atividades da DPCI, à qual compete:<br>
+I – Diretoria-Geral Adjunta, unidade de assessoramento superior do Gabinete do Diretor-Geral da Polícia Científica, que tem por finalidade a assistência à direção nos âmbitos administrativo, estratégico, tático e operacional, por meio da organização, da supervisão técnica e do controle das atividades da DPCI, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-a) assessorar e assistir o Diretor-Geral no desempenho de suas atribuições e seus compromissos oficiais;<br>
+a) assessorar e assistir o Diretor-Geral no desempenho de suas atribuições e seus compromissos oficiais;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-b) dirigir o serviço de administração do Gabinete do Diretor-Geral da Polícia Científica e distribuir, entre os servidores, o expediente e as demais tarefas que lhes competem;<br>
+b) dirigir o serviço de administração do Gabinete do Diretor-Geral da Polícia Científica e distribuir, entre os servidores, o expediente e as demais tarefas que lhes competem;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-c) organizar e coordenar a agenda do Diretor-Geral;<br>
+c) organizar e coordenar a agenda do Diretor-Geral;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-d) transmitir as ordens e divulgar os despachos do Diretor-Geral;<br>
+d) transmitir as ordens e divulgar os despachos do Diretor-Geral;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-e) coordenar a elaboração dos expedientes e das correspondências a serem assinados e encaminhados pelo Diretor-Geral;<br>
+e) coordenar a elaboração dos expedientes e das correspondências a serem assinados e encaminhados pelo Diretor-Geral;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-f) exercer as funções de organização, supervisão técnica e controle das atividades da DPCI;<br>
+f) exercer as funções de organização, supervisão técnica e controle das atividades da DPCI;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-g) substituir o Diretor-Geral em suas ausências e seus impedimentos;<br>
+g) substituir o Diretor-Geral em suas ausências e seus impedimentos;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-h) analisar as demandas internas e externas direcionadas à DPCI e determinar a devida instrução e a correta destinação;<br>
+h) analisar as demandas internas e externas direcionadas à DPCI e determinar a devida instrução e a correta destinação;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-i) decidir os processos administrativos cuja competência lhe for delegada pelo Diretor-Geral; e<br>
+i) decidir os processos administrativos cuja competência lhe for delegada pelo Diretor-Geral; e
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-j) encarregar-se de competências correlatas;<br>
+j) encarregar-se de competências correlatas;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-II – Gerência de Criminalística, à qual compete:<br>
+II – Gerência de Criminalística, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-a) executar os serviços de perícia criminal de natureza oficial e atividades correlatas, no âmbito das atividades de polícia judiciária e de apuração das infrações penais, que envolvam:<br>
+a) executar os serviços de perícia criminal de natureza oficial e atividades correlatas, no âmbito das atividades de polícia judiciária e de apuração das infrações penais, que envolvam:
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-1\. os exames de perícia criminal do local de crime nos municípios da unidade regional de Goiânia; e<br>
+1\. os exames de perícia criminal do local de crime nos municípios da unidade regional de Goiânia; e
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-2\. os exames de perícia criminal realizados nos laboratórios e nas seções internos do Instituto de Criminalística Leonardo Rodrigues, demandados em todos os municípios do Estado de Goiás e que não sejam atendidos por laboratórios ou seções das unidades regionais;<br>
+2\. os exames de perícia criminal realizados nos laboratórios e nas seções internos do Instituto de Criminalística Leonardo Rodrigues, demandados em todos os municípios do Estado de Goiás e que não sejam atendidos por laboratórios ou seções das unidades regionais;
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-b) emitir laudos, pareceres ou prestar informações sobre assuntos referentes à área de criminalística no âmbito das investigações policiais e dos processos criminais;<br>
+b) emitir laudos, pareceres ou prestar informações sobre assuntos referentes à área de criminalística no âmbito das investigações policiais e dos processos criminais;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-c) prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;<br>
+c) prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-d) manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;<br>
+d) manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-e) apresentar à DPCI minucioso relatório das realizações da gerência, sempre que for solicitado;<br>
+e) apresentar à DPCI minucioso relatório das realizações da gerência, sempre que for solicitado;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-f) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;<br>
+f) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-g) promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;<br>
+g) promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-h) proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;<br>
+h) proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-i) gerir o almoxarifado do Instituto de Criminalística Leonardo Rodrigues e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e<br>
+i) gerir o almoxarifado do Instituto de Criminalística Leonardo Rodrigues e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-j) encarregar-se de competências correlatas;<br>
+j) encarregar-se de competências correlatas;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-III – Gerência de Medicina Legal, à qual compete:<br>
+III – Gerência de Medicina Legal, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-a) efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis, com a elaboração dos respectivos laudos periciais, nos âmbitos de investigação policial e de processo criminal;<br>
+a) efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis, com a elaboração dos respectivos laudos periciais, nos âmbitos de investigação policial e de processo criminal;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-b) preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;<br>
+b) preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-c) emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal nos âmbitos das investigações policiais e dos processos criminais;<br>
+c) emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal nos âmbitos das investigações policiais e dos processos criminais;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-d) prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;<br>
+d) prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-e) apresentar à DPCI minucioso relatório das realizações da gerência;<br>
+e) apresentar à DPCI minucioso relatório das realizações da gerência;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-f) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;<br>
+f) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da gerência;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-g) promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;<br>
+g) promover a execução de perícias, avaliações e arbitramento ou a emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-h) proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;<br>
+h) proceder ao levantamento orçamentário para a celebração ou a renovação de contratos e ao planejamento de compras, em colaboração com a Gerência de Suporte Operacional na elaboração das respectivas requisições de despesas, bem como solicitar as contratações necessárias em tempo hábil para a tramitação do processo;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-i) gerir o almoxarifado do Instituto Médico-Legal Aristoclides Teixeira e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e<br>
+i) gerir o almoxarifado do Instituto Médico-Legal Aristoclides Teixeira e controlar, rigorosamente, a entrada e a saída de materiais, bem como manter estoque mínimo e solicitar as compras necessárias; e
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-j) encarregar-se de competências correlatas;<br>
+j) encarregar-se de competências correlatas;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-IV – Gerência de Suporte Operacional, à qual compete:<br>
+IV – Gerência de Suporte Operacional, à qual compete:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-a) auxiliar os gestores de contrato e fiscalizar sua atuação no âmbito das unidades da Polícia Científica, bem como reportar o andamento da execução dos contratos ao Gabinete do Diretor-Geral da Polícia Científica;<br>
+a) auxiliar os gestores de contrato e fiscalizar sua atuação no âmbito das unidades da Polícia Científica, bem como reportar o andamento da execução dos contratos ao Gabinete do Diretor-Geral da Polícia Científica;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-b) realizar o levantamento orçamentário para a celebração ou a renovação de contratos, planejar as compras e elaborar as requisições de despesas da DPCI, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos seus insumos e materiais de uso próprio;<br>
+b) realizar o levantamento orçamentário para a celebração ou a renovação de contratos, planejar as compras e elaborar as requisições de despesas da DPCI, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos seus insumos e materiais de uso próprio;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-c) fazer a gestão do fundo rotativo, realizar regularmente a prestação de contas e cumprir as exigências legais;<br>
+c) fazer a gestão do fundo rotativo, realizar regularmente a prestação de contas e cumprir as exigências legais;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-d) realizar o controle do patrimônio da DPCI;<br>
+d) realizar o controle do patrimônio da DPCI;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-e) gerir o almoxarifado geral da DPCI, com o controle rigoroso da entrada e da saída de materiais, a manutenção do estoque mínimo e a solicitação das compras necessárias, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos estoques específicos de suas respectivas unidades;<br>
+e) gerir o almoxarifado geral da DPCI, com o controle rigoroso da entrada e da saída de materiais, a manutenção do estoque mínimo e a solicitação das compras necessárias, ressalvada a competência das Gerências de Criminalística e de Medicina Legal em relação aos estoques específicos de suas respectivas unidades;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-f) fazer a distribuição de bens, materiais e equipamentos para as unidades da Polícia Científica;<br>
+f) fazer a distribuição de bens, materiais e equipamentos para as unidades da Polícia Científica;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-g) realizar o levantamento das necessidades de investimento na DPCI;<br>
+g) realizar o levantamento das necessidades de investimento na DPCI;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-h) elaborar e gerenciar projetos, bem como realizar o cadastramento nas respectivas plataformas;<br>
+h) elaborar e gerenciar projetos, bem como realizar o cadastramento nas respectivas plataformas;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-i) auxiliar as Coordenações Regionais da Polícia Científica e os Postos de Atendimento da Polícia Científica na elaboração de projetos e captação de recursos, bem como acompanhá-los;<br>
+i) auxiliar as Coordenações Regionais da Polícia Científica e os Postos de Atendimento da Polícia Científica na elaboração de projetos e captação de recursos, bem como acompanhá-los;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-j) assessorar e auxiliar o Diretor-Geral da Polícia Científica na captação de recursos financeiros para a instituição;<br>
+j) assessorar e auxiliar o Diretor-Geral da Polícia Científica na captação de recursos financeiros para a instituição;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-k) auxiliar a SSP na construção de seu Planejamento Estratégico;<br>
+k) auxiliar a SSP na construção de seu Planejamento Estratégico;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-l) assessorar e auxiliar o Diretor-Geral da Polícia Científica em conjunto à Superintendência de Gestão Integrada da SSP;<br>
+l) assessorar e auxiliar o Diretor-Geral da Polícia Científica em conjunto à Superintendência de Gestão Integrada da SSP;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-m) manter organizados e atualizados os cadastros dos prestadores de serviços e dos fornecedores;<br>
+m) manter organizados e atualizados os cadastros dos prestadores de serviços e dos fornecedores;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-n) elaborar e manter o controle de documentos referentes aos assuntos de gestão de pessoas;<br>
+n) elaborar e manter o controle de documentos referentes aos assuntos de gestão de pessoas;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-o) realizar pré-análise dos documentos enviados pelas unidades da Polícia Científica e comunicar à chefia imediata os que não estiverem em conformidade;<br>
+o) realizar pré-análise dos documentos enviados pelas unidades da Polícia Científica e comunicar à chefia imediata os que não estiverem em conformidade;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-p) assessorar o Diretor-Geral da Polícia Científica na supervisão, no controle e na correção das escalas de serviço extraordinário;<br>
+p) assessorar o Diretor-Geral da Polícia Científica na supervisão, no controle e na correção das escalas de serviço extraordinário;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-q) supervisionar, acompanhar e controlar o processo de avaliação do estágio probatório, assim como assessorar a Comissão Permanente de Avaliação do Estágio Probatório;<br>
+q) supervisionar, acompanhar e controlar o processo de avaliação do estágio probatório, assim como assessorar a Comissão Permanente de Avaliação do Estágio Probatório;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-r) publicar e manter atualizado o Boletim-Geral da Polícia Científica;<br>
+r) publicar e manter atualizado o Boletim-Geral da Polícia Científica;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-s) elaborar e executar políticas destinadas à preparação do policial científico para a aposentadoria;<br>
+s) elaborar e executar políticas destinadas à preparação do policial científico para a aposentadoria;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-t) auxiliar na execução de processos e manutenções da estrutura física das unidades da Polícia Científica;<br>
+t) auxiliar na execução de processos e manutenções da estrutura física das unidades da Polícia Científica;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-u) auxiliar na captação de recursos da unidade executora – UEX vinculada à Polícia Científica;<br>
+u) auxiliar na captação de recursos da unidade executora – UEX vinculada à Polícia Científica;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-v) elaborar e gerenciar convênios com municípios, instituições de ensino, secretarias e instituições científicas;<br>
+v) elaborar e gerenciar convênios com municípios, instituições de ensino, secretarias e instituições científicas;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-w) elaborar e gerenciar estudos técnicos preliminares para o Diretor-Geral da Polícia Científica; e<br>
+w) elaborar e gerenciar estudos técnicos preliminares para o Diretor-Geral da Polícia Científica; e
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-x) encarregar-se de competências correlatas; e<br>
+x) encarregar-se de competências correlatas; e
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-V – Coordenações Regionais da Polícia Científica, às quais competem:<br>
+V – Coordenações Regionais da Polícia Científica, às quais competem:
+
 \- [Acrescido pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-a) planejar, coordenar e supervisionar as atividades, os planos, os projetos e as ações da unidade;<br>
+a) planejar, coordenar e supervisionar as atividades, os planos, os projetos e as ações da unidade;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-b) assessorar a atuação dos integrantes de sua equipe, com a distribuição adequada das tarefas entre eles e a avaliação do seu desempenho;<br>
+b) assessorar a atuação dos integrantes de sua equipe, com a distribuição adequada das tarefas entre eles e a avaliação do seu desempenho;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-c) identificar necessidades de capacitação dos integrantes de sua equipe e proceder às ações necessárias à sua realização;<br>
+c) identificar necessidades de capacitação dos integrantes de sua equipe e proceder às ações necessárias à sua realização;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-d) aprimorar continuamente os processos de trabalho de sua unidade para otimizar a utilização dos recursos disponíveis;<br>
+d) aprimorar continuamente os processos de trabalho de sua unidade para otimizar a utilização dos recursos disponíveis;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-e) executar os serviços de perícia criminal de natureza oficial e atividades correlatas, nos âmbitos das atividades de polícia judiciária e de apuração das infrações penais prestadas pelo Estado de Goiás, que envolvam sua regional com relação aos exames de perícia criminal de local de crime nos municípios de sua regional;<br>
+e) executar os serviços de perícia criminal de natureza oficial e atividades correlatas, nos âmbitos das atividades de polícia judiciária e de apuração das infrações penais prestadas pelo Estado de Goiás, que envolvam sua regional com relação aos exames de perícia criminal de local de crime nos municípios de sua regional;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-f) emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de criminalística;<br>
+f) emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de criminalística;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-g) prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;<br>
+g) prestar esclarecimentos às autoridades judiciárias, policiais e correcionais, também aos membros do Ministério Público, quando isso for solicitado ou requisitado;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-h) manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;<br>
+h) manter sob sua guarda e sua responsabilidade os laudos de exames de perícia criminal e os demais documentos gerados, bem como preservar, nos termos legais, o sigilo das informações, dos dados e dos documentos em circulação ou depositados em suas dependências;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-i) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional e, nos casos de necessidade e para a garantia da continuidade dos serviços executados, alocar seus recursos humanos no respectivo Posto de Atendimento, onde houver;<br>
+i) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional e, nos casos de necessidade e para a garantia da continuidade dos serviços executados, alocar seus recursos humanos no respectivo Posto de Atendimento, onde houver;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-j) no âmbito das investigações policiais e dos processos criminais, efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis, com a elaboração dos respectivos laudos periciais;<br>
+j) no âmbito das investigações policiais e dos processos criminais, efetuar exames em cadáveres para a determinação da natureza das lesões e da causa mortis, com a elaboração dos respectivos laudos periciais;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-k) preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;<br>
+k) preservar o sigilo das informações, dos dados e dos documentos em circulação depositados em suas dependências, sob pena de responsabilidade;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-l) emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal;<br>
+l) emitir laudos e pareceres e prestar informações sobre assuntos referentes à área de medicina legal;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-m) apresentar à DPCI relatório das realizações da Coordenação Regional;<br>
+m) apresentar à DPCI relatório das realizações da Coordenação Regional;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-n) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional;<br>
+n) coordenar e supervisionar as atividades administrativas e de pessoal no âmbito da Coordenação Regional;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-o) promover a execução de perícias, avaliações e arbitramento ou emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;<br>
+o) promover a execução de perícias, avaliações e arbitramento ou emissão de pareceres, quando lhe forem solicitados por autoridade competente, bem como designar técnicos e garantir-lhes ampla liberdade e imparcialidade na elaboração dos respectivos laudos;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-p) manter estreita ligação com órgãos locais do sistema de segurança pública, para possibilitar a coordenação operacional dos planejamentos realizados conjuntamente aos demais órgãos do Estado;<br>
+p) manter estreita ligação com órgãos locais do sistema de segurança pública, para possibilitar a coordenação operacional dos planejamentos realizados conjuntamente aos demais órgãos do Estado;
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-q) buscar e consolidar parcerias locais para a integração com setores da sociedade, públicos ou privados, que tenham interesse direto ou indireto na segurança pública; e<br>
+q) buscar e consolidar parcerias locais para a integração com setores da sociedade, públicos ou privados, que tenham interesse direto ou indireto na segurança pública; e
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
-r) encarregar-se de competências correlatas.<br>
+r) encarregar-se de competências correlatas.
+
 \- [Acrescida pelo Decreto nº 10.939, de 29-6-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115975/decreto-10939).
 
 TÍTULO VIII

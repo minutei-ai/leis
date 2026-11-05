@@ -1,7 +1,3 @@
-1
-
-###DEC-085836-0-000-24-03-1981@@@
-
 DECRETO Nº 85.836, DE 24 DE MARÇO DE 1981.
 
 Cria o Centro de Comunicação Social do Ministério do Exército.

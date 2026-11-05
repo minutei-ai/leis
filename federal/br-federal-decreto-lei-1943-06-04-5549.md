@@ -1,5 +1,3 @@
-###DEL-005549-0-000-04-06-1943@@@
-
 DECRETO‑LEI N. 5.549 – DE 4 DE JUNHO DE 1943
 
 Dispõe sôbre o Comando do Destacamento Misto de Guarnição com sede em Fernando de Noronha

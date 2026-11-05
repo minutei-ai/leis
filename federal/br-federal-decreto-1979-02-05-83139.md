@@ -1,5 +1,3 @@
-###DEC-083139-0-000-05-02-1979@@@
-
 Decreto nº 83.139, de 5 de fevereiro de 1979.
 
 Autoriza o aforamento dos terrenos que menciona, situado no Município de Salvador, Estado da Bahia e dá outras providências.

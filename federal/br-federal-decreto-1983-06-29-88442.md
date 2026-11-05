@@ -1,5 +1,3 @@
-###DEC-088442-0-000-29-06-1983@@@
-
 # DECRETO Nº 88.442, de 29 de junho de 1983.
 
 Promulga o Acordo sobre Sanidade Animal em Áreas de Fronteira, entre o Governo da República Federativa do Brasil e o Governo da República da Argentina.
@@ -94,4 +92,20 @@ O presente Acordo vigorará pelo prazo de 3 (três) anos, contados a partir da d
 
 Feito na cidade de Buenos Aires, capital da República Argentina, aos dezessete dias do mês de maio de mil novecentos e oitenta, em dois exemplares, nos idiomas português e espanhol, ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-align:center"><span>PELO GOVERNO DA REPUBLICA ARGENTINA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Carlos W. Pastor</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPUBLICA ARGENTINA:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Ramiro Saraiva Guerreiro
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Carlos W. Pastor
+
+</td></tr></tbody></table>

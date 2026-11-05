@@ -1,5 +1,3 @@
-###DEL-009341-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.341 – DE 10 DE JUNHO DE 1946
 
 Revoga os Decretos-leis números 8.931, de 26 de Janeiro de 1946, e 9.040, de 6 de Março de  1946, e dá outras providências.

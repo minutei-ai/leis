@@ -1,5 +1,3 @@
-###DEL-005825-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.825 – DE 16 DE SETEMBRO DE 1943
 
 Estabelece a taxação dos filmes de procedência americana sob a base do pêso real

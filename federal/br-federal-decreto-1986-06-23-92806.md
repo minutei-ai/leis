@@ -1,5 +1,3 @@
-###DEC-092806-0-000-23-06-1986@@@
-
 DECRETO Nº 92.806, DE 23 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda da Ramada", situado no Município de Julio de Castilhos, no Estado do Rio Grande do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.692, de 19 de maio de 1986, e dá outras providências.

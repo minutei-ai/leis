@@ -1,5 +1,3 @@
-###DEC-095276-0-000-23-11-1987@@@
-
 DECRETO N° 95.276, DE 23 DE NOVEMBRO DE 1987
 
 Classifica o Conselho Deliberativo do Instituto Nacional de Alimentação e Nutrição - INAN, autarquia vinculada ao Ministério da Saúde, como órgão de deliberação coletiva de 2° grau.

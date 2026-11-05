@@ -1,5 +1,3 @@
-###DEC-088174-0-000-10-03-1983@@@
-
 Decreto nº 88.174, de 10 de março de 1983.
 
 Cria a Embaixada do Brasil em Belize.

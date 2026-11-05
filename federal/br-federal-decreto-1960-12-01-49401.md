@@ -1,5 +1,3 @@
-###DEC-049401-0-000-01-12-1960@@@
-
 DECRETO Nº 49.401, DE 1º DE DEZEMBRO DE 1960.
 
 Regula o Recrutamento de Oficiais Médicos Dentistas e Farmacêuticos da Aeronáutica.

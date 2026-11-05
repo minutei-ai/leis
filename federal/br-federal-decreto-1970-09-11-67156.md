@@ -1,5 +1,3 @@
-###DEC-067156-0-000-11-09-1970@@@
-
 Decreto nº 67.156, de 11 de setembro de 1970.
 
 Reconhecimento de Cursos na Escola Politécnica da PUC, RS.

@@ -49,5 +49,3 @@ DEPUTADO JEFERSON ANDRADE
 PRESIDENTE
 
 Iniciativa do Deputado Garibalde Mendonça - MDB
-
-Este texto não substitui o publicado no D.O.E. de 18.09.2026.

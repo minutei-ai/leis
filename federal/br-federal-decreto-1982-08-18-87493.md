@@ -1,5 +1,3 @@
-###DEC-087493-0-000-18-08-1982@@@
-
 decreto nº 87.493, de 18 de agosto de 1982.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da vila Residencial, do Acampamento e do Canteiro de Obras da Usina Hidrelétrica Corumbá I, da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

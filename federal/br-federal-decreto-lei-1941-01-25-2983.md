@@ -1,5 +1,3 @@
-###DEL-002983-0-000-25-01-1941@@@
-
 DECRETO-LEI N. 2.983 – DE 25 DE JANEIRO DE 1941
 
 Dispõe sobre a internação de beligerantes

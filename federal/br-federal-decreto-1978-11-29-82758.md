@@ -1,5 +1,3 @@
-###DEC-082758-0-000-29-11-1978@@@
-
 Decreto n.º 82.758, de 29 de novembro de 1978.
 
 Autoriza o Ministério da Fazenda conceder garantia do Tesouro Nacional a operação de crédito externo.

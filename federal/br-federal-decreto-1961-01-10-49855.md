@@ -1,5 +1,3 @@
-###DEC-049855-0-000-10-01-1961@@@
-
 DECRETO Nº 49.855, DE 10 DE JANEIRO DE 1961.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha, que menciona, no Estado da Guanabara.

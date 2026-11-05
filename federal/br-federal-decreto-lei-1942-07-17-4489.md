@@ -1,5 +1,3 @@
-###DEL-004489-0-000-17-07-1942@@@
-
 DECRETO-LEI  4.489 – DE 17 DE JULHO DE 1942
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas

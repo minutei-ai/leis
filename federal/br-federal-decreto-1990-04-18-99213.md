@@ -1,7 +1,3 @@
-1
-
-###DEC-099213-0-000-18-04-1990@@@
-
 DECRETO Nº 99.213, DE 18 DE ABRIL DE 1990
 
 Altera o artigo 1º do Decreto nº 96.660, de 6 de setembro de 1988 que dispõe sobre o Grupo de Coordenação incum­bido de elaborar e atualizar o Plano Nacio­nal de Gerenciamento Costeiro.

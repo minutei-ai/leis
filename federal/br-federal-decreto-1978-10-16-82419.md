@@ -1,5 +1,3 @@
-###DEC-082419-0-000-16-10-1978@@@
-
 Decreto n.º 82 419, de 16 de outubro de 1978
 
 Concede à Partezani e Cia. Ltda. o direito de lavrar argila no Município de Laranjal Paulista, Estado de São Paulo.

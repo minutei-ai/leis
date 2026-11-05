@@ -1,5 +1,3 @@
-###DEC-092000-0-000-28-11-1985@@@
-
 DecReto nº 92.000, de 28 de NOVEMBRO de 1985
 
 Dispõe sobre a composição do Conselho Federal de Cultura.
@@ -29,8 +27,6 @@ Brasília, 28 de novembro de 1985; 164º da Independência e 97º da República.
 JOSÉ SARNEY
 
 Aluísio Pimenta
-
-###DEC-092000-0-000-28-11-1985@@@RET01+++
 
 DECRETO Nº 92.000, de 28 de novembro de 1985
 

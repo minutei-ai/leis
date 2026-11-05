@@ -1,5 +1,3 @@
-###DEC-052207-0-000-02-07-1963@@@
-
 DECRETO Nº 52.207, DE 2 DE JULHO DE 1963.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 39.915, de 5 de setembro de 1956, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, de área de terreno necessária à construção do açude público “São Mateus”, no Município de Canindé, Estado do Ceará.

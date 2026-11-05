@@ -1,5 +1,3 @@
-###DEL-003372-0-000-26-06-1941@@@
-
 DECRETO-LEI N. 3.372 – DE 26 DE JUNHO DE 1941
 
 Cria uma 2ª coletoria para arrecadação das rendas federais em Passos, Estado de Minas Gerais, e dá outras providencias

@@ -1,5 +1,3 @@
-###DEC-070413-0-000-14-04-1972@@@
-
 DECRETO Nº 70.413, DE 14 DE ABRIL DE 1972.
 
 Redistribui, com a respectiva ocupante, cargo do Ministério da Agricultura para o Instituto Nacional de Colonização e Reforma Agrária, e dá outras providências.

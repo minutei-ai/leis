@@ -1,5 +1,3 @@
-###DEC-053718-0-000-17-03-1964@@@
-
 Decreto nº 53.718, de 17 de março de 1964.
 
 Estabelece as anuidades e taxas a que se refere a Lei nº 2.800, de 18 de junho de 1956.

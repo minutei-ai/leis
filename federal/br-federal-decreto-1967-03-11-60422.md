@@ -1,5 +1,3 @@
-###DEC-060422-0-000-11-03-1967@@@
-
 DECRETO Nº 60.422, DE 11 DE MARÇO DE 1967.
 
 Reclassifica função gratificada do Quadro de Pessoal do Estado Maior da Fôrças Armadas.

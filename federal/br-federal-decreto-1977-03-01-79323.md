@@ -1,5 +1,3 @@
-###DEC-079323-0-000-01-03-1977@@@
-
 DECRETO Nº 79.323, DE 1 DE mARÇO DE 1977.
 
 Concede à Mineração Nossa Senhora de Monte Serrate Ltda. o direito de lavrar agalmatolito no Município de Mateus Leme, Estado de Minas Gerais.

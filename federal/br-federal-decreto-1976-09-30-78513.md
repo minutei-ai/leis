@@ -1,5 +1,3 @@
-###DEC-078513-0-000-30-09-1976@@@
-
 DECRETO Nº 78.513, DE 30 DE SETEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora Bento Gonçalves Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Bento Gonçalves, Estado do Rio Grande do Sul.

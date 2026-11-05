@@ -1,5 +1,3 @@
-###DEC-059275-0-000-23-09-1966@@@
-
 DECRETO Nº 59.275, DE 23 DE SETEMBRO DE 1966.
 
 Dá nova redação ao artigo 3º do Decreto nº 51.320, de 2 de setembro de 1961, que dispõe sôbre o expediente das repartições públicas e o horário de trabalho do funcionalismo.

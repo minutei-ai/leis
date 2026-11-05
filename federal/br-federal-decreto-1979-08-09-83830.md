@@ -1,5 +1,3 @@
-###DEC-083830-0-000-09-08-1979@@@
-
 DECRETO Nº 83.830, DE 09 DE AGOSTO DE 1979.
 
 Suspende o funcionamento das sociedades civis que indica e dá outras providências.

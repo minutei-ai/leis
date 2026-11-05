@@ -1,7 +1,3 @@
-1
-
-###DEC-085793-0-000-09-03-1981@@@
-
 Decreto nº 85.793, de 09 de marÇo de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Itatiaia, da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

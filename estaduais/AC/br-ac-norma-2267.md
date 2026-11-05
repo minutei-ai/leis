@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.510, de 20 de Dezembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 3.496, DE 02 DE AGOSTO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Fundo do Trabalho e cria o Conselho Estadual de Trabalho, Emprego e Renda.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Fundo do Trabalho e cria o Conselho Estadual de Trabalho, Emprego e Renda.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -76,7 +80,7 @@ Da Aplicação dos Recursos do Fundo do Trabalho
 
 **VII** **-** aquisição de material permanente e de consumo e de outros insumos e serviços necessários ao desenvolvimento dos programas e projetos;
 
-**VII****I -** construção, reforma, ampliação, aquisição, ou locação de imóveis para prestação de serviços de atendimento ao trabalhador;  
+**VIII -** construção, reforma, ampliação, aquisição, ou locação de imóveis para prestação de serviços de atendimento ao trabalhador;  
 
 **IX** \- desenvolvimento e aperfeiçoamento dos instrumentos de gestão, planejamento, administração e controle das ações e serviços no âmbito da política estadual de trabalho, emprego e renda;
 

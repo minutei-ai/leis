@@ -1,5 +1,3 @@
-###DEC-002057-0-000-04-11-1996@@@
-
 DECRETO Nº 2.057, DE 4 DE NOVEMBRO DE 1996.
 
 Dá nova redação ao Art. 27 do Decreto n° 63.704, de 29 de novembro de 1968, Regulamento da Lei de Prestação do Serviço Militar pelos estudantes de Medicina, Farmácia, Odontologia e Veterinária e pelos Médicos, Farmacêuticos, Dentistas e Veterinários.

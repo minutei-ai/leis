@@ -1,5 +1,3 @@
-###DEL-007502-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.502 – DE 30 DE ABRIL DE 1945
 
 Dispõe sôbre concessão de diárias aos extranumerários da União

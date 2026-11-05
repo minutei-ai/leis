@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0d5e42f9-552c-4fbf-85c2-2360a80b470c/texto#nowhere)
 
-###DEC-091611-0-000-03-09-1985@@@
-
 # decreto nº 91.611, de 03 de setembro de 1985.
 
 Extingue o Consulado do Brasil em Istambul.

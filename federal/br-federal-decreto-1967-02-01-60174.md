@@ -1,5 +1,3 @@
-###DEC-060174-0-000-01-02-1967@@@
-
 DECRETO Nº 60.174, DE 1 DE FEVEREIRO DE 1967.
 
 Torna insubsistente o Decreto número 60.110, de 20 de janeiro de 1967.

@@ -1,5 +1,3 @@
-###DEC-072883-0-000-08-10-1973@@@
-
 DECRETO Nº 72.883, DE 8 DE OUTUBRO DE 1973.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União à operação externa que especifica.

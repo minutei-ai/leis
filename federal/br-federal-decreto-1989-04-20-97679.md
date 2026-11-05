@@ -1,7 +1,3 @@
-1
-
-###DEC-097679-0-000-20-04-1989@@@
-
 DECRETO Nº 97.679, DE 20 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis das Faculdades Integradas de Jaciara, em Mato Grosso.

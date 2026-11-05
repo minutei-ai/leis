@@ -1,5 +1,3 @@
-###DEC-069024-0-000-06-08-1971@@@
-
 decreto nº 69.024, de 6 de AGÔSTO de 1971.
 
 Autoriza o Ministro do Exército a antecipar o licenciamento dos conscritos do 3º Regimento de Cavalaria de Guardas, incorporados em 1971.

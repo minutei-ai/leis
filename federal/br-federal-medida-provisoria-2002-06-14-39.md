@@ -1,5 +1,3 @@
-###MPV-000039-0-000-14-06-2002@@@
-
 MEDIDA PROVISÓRIA Nº 39, DE 14 DE JUNHO DE 2002
 
 Altera a Lei nº 9.615, de 24 de março de 1998, que institui normas gerais sobre desporto e dá outras providências.

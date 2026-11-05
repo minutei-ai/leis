@@ -1,14 +1,12 @@
-###DEC-031940-0-000-18-12-1952@@@
+**DECRETO N. 31.940 – DE 18 DE DEZEMBRO DE 1952**
 
-<strong>DECRETO N. 31.940 – DE 18 DE DEZEMBRO DE 1952</strong>
-
-<em><strong>Declara de utilidade pública as áreas de terras que discrimina, destinadas à passagem de linhas de transmissão da Companhia Paulista de Fôrça e Luz S. A., e constitui sôbre elas as necessárias servidões.</strong></em>
+***Declara de utilidade pública as áreas de terras que discrimina, destinadas à passagem de linhas de transmissão da Companhia Paulista de Fôrça e Luz S. A., e constitui sôbre elas as necessárias servidões.***
 
 O Presidente da República usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, tendo em vista o que requereu a interessada e o disposto no art. 151, letra c, do Código de Águas e mais preceitos legais em vigor,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º São declaradas de utilidade pública as seguintes áreas de terras no Estado de São Paulo, destinadas à passagem de diversas linhas de transmissão da Companhia Paulista de Fôrça e Luz, concessionária de serviços de eletricidade, de acôrdo com as plantas aprovadas pedo Ministro da Agricultura:
+**Art.** 1º São declaradas de utilidade pública as seguintes áreas de terras no Estado de São Paulo, destinadas à passagem de diversas linhas de transmissão da Companhia Paulista de Fôrça e Luz, concessionária de serviços de eletricidade, de acôrdo com as plantas aprovadas pedo Ministro da Agricultura:
 
 I – Para a linha de transmissão de energia elétrica de 11 kv, de Serra Negra a Termas de Lindoia:
 
@@ -22,7 +20,7 @@ d) de 26.100 m<sup>2</sup>, situada no municipio de Lindoia, de propriedade atri
 
 e) de 19.400 m<sup>2</sup>, situada do município de Lindoia, de propriedade atribuída a Aquiles Mantovani e outros.
 
-II – Para a linha de transmissão de 66 kv, de Linz a Baurú, a área <em>de</em> 2.460 metros quadrados, situada nes<em>te</em> último município, de propriedade atribuída a Maria Gomes de Morais e outros.
+II – Para a linha de transmissão de 66 kv, de Linz a Baurú, a área *de* 2.460 metros quadrados, situada nes*te* último município, de propriedade atribuída a Maria Gomes de Morais e outros.
 
 III – Para a linha de transmissão de 66 kv, da usina de Avanhandava a Araçatuba, a área de 4.400 metros quadrados, situada no município de Birigui, de propriedade atribuída à viúva Marina Cavarezzi Boato e filhos.
 
@@ -56,24 +54,24 @@ b) de 7.800 m<sup>2</sup>, situada no município de Amparo, de propriedade atrib
 
 c) de 5.910 m<sup>2</sup>, situada no município de Amparo, de propriedade atribuída aos Herdeiros de José Fontana;
 
-d) de 26.120 m<sup>2</sup>, situada no município de Amparo, de propriedade atribuída aos Herdeiros de A r <em>t</em> u r Pinto Lima;
+d) de 26.120 m<sup>2</sup>, situada no município de Amparo, de propriedade atribuída aos Herdeiros de A r *t* u r Pinto Lima;
 
 e) de 16.080 m<sup>2</sup>, situada no município de Amparo de propriedade atribuída a Valdomira Soares de Arruda e outros;
 
 f) de 7.020 m<sup>2</sup>, situada no município de Itapira, de propriedade atribuída a Adolfo Rodrigues da Silva e outros.
 
-<strong>Art.</strong> 2º Fica constituída em favor da Companhia Paulista de Fôrça e Luz, na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito, atribuído à emprêsa concessionária, de praticar todos os atos de construção, manutenção e conservação das mencionadas linhas de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
+**Art.** 2º Fica constituída em favor da Companhia Paulista de Fôrça e Luz, na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito, atribuído à emprêsa concessionária, de praticar todos os atos de construção, manutenção e conservação das mencionadas linhas de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
 
 § 1º Os proprietários das áreas de terras atingidas pelo onus limitarão o uso e gôzo das mesmas ao que fôr compatível com a  existência da servidão, abstendo-se, em conseqüência, de praticar, dentro dessas áreas, quaisquer atos que a embaracem, ou lhe causem dano, incluídos entre êles os de erguerem construções ou fazerem plantações de elevado porte.
 
 § 2º A Companhia Paulista de Fôrça e Luz S. A. fica autorizada a promover, no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, inclusive a utilizar-se de processo de desapropriação, nos têrmos do art. 40 do Decreto-lei nº 3.365, de 21 de junho de 1941.
 
-<strong>Art.</strong> 3º O presente Decreto entrará em vigor na data da sua publicação.
+**Art.** 3º O presente Decreto entrará em vigor na data da sua publicação.
 
-<strong>Art.</strong> 4º Revogam-se as disposições em contrário.
+**Art.** 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 18 de dezembro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

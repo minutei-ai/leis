@@ -1,5 +1,3 @@
-###DEL-005185-0-000-12-01-1943@@@
-
 DECRETO‑LEI N. 5.185 – DE 12 DE JANEIRO DE 1943
 
 Modifica o decreto‑lei n. 4.451, de 9 de julho de 1942, que autoriza a constituição do Banco de Crédito da Borracha e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-001484-0-000-25-10-1976@@@
-
 # DECRETO-LEI Nº 1.484, DE 25 DE OUtuBRO DE 1976
 
 Altera o Decreto-lei nº 1.469, de 24 de maio de 1976, que reajusta os vencimentos e salários dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal.

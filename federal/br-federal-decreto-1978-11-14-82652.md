@@ -1,5 +1,3 @@
-###DEC-082652-0-000-14-11-1978@@@
-
 Decreto nº 82.652, de 14 de novembro de 1978.
 
 Autoriza a conversão do curso de Professorado em Arte Dramática para curso de Educação Artística da Escola da Comunicações e Artes da Universidade de São Paulo, Estado de São Paulo.

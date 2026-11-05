@@ -1,5 +1,3 @@
-###DEL-004924-0-000-06-11-1942@@@
-
 DECRETO-LEI n. 4.924 – DE 6 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Marinha crédito especial de Cr$ 2.605.679,50, para pagamento à Companhia Mecânica a Importadora de São Paulo

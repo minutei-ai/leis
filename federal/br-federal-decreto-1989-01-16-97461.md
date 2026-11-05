@@ -1,5 +1,3 @@
-###DEC-097461-0-000-16-01-1989@@@
-
 DECRETO N° 97.461, DE 16 DE JANEIRO DE 1989
 
 Fixa o percentual de não numerados de Capitães-de-Mar-e-Guerra dos diversos Corpos de Carreira da Marinha, definitiva­mente impossibilitados de acesso ao primeiro posto de Oficial-General.

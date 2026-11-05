@@ -1,5 +1,3 @@
-###DEC-070278-0-000-14-03-1972@@@
-
 DECRETO Nº 70.278, DE 14 DE MARÇO DE 1972.
 
 Torna sem efeito redistribuição de cargo, com o respectivo ocupante, para o Quadro de Pessoal das Secretarias do Ministério Público Federal.

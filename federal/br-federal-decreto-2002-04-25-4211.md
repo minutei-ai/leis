@@ -1,5 +1,3 @@
-###DEC-004211-0-000-25-04-2002@@@
-
 DECRETO Nº 4.211, DE 25 DE ABRIL DE 2002
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia, celebrado em La Paz, em 26 de julho de 1999.
@@ -136,4 +134,48 @@ ANEXO I
 
 Quadro de Atividades
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Numeração</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Área</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Sub-área</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Artes Cênicas</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01. Circo 02. Dança 03. Pantomima 04.Ópera 05.Teatro 06. Marionetes</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>02</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produção Audiovisual Cinematográfica, Videográfica, Discográfica e de Rádio e de Televisão Educativa/Cultural de caráter não comercial</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01. Cinema 02. Rádio 03. Televisão 04.Vídeo 05. Multimídia</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>03</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Música</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01. Clássica, Popular, Folclórica, Étnica, de Vanguarda (Erudita) 02. Eletroacústica 03. Discografia</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>04</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Artes plásticas, visuais, gráficas, filatelia e numismática</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>05</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Patrimônio Cultural, Culturas Negras e Indígenas, Culturas Regionais, Artesanatos, Museologia e Arquivos</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01. Artesanatos 02. Culturas regionais 03. Culturas indígenas 04. Folclore 05. Patrimônio cultural 06. Museus 07. Bibliotecas, Arquivos e Acervos 08. Livros e incentivo à leitura</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>06</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Literatura e Humanidades</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01. De referência 02. Didática 03. Letras e Artes 04. Co-produção editorial 05. Filosofia e Ciências Sociais 06. Ciências Exatas 07. Periódicos</span></p></td></tr><tr><td style="width:56.75pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>07</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Áreas Integradas</span></p></td><td style="width:226.8pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>01. Feiras Culturais 02. Turismo Cultural 03. Ecoturismo 04. Seminários e Conferências</span></p></td></tr></tbody></table>
+Numeração
+
+Área
+
+Sub-área
+
+01
+
+Artes Cênicas
+
+01. Circo 02. Dança 03. Pantomima 04.Ópera 05.Teatro 06. Marionetes
+
+02
+
+Produção Audiovisual Cinematográfica, Videográfica, Discográfica e de Rádio e de Televisão Educativa/Cultural de caráter não comercial
+
+01. Cinema 02. Rádio 03. Televisão 04.Vídeo 05. Multimídia
+
+03
+
+Música
+
+01. Clássica, Popular, Folclórica, Étnica, de Vanguarda (Erudita) 02. Eletroacústica 03. Discografia
+
+04
+
+Artes plásticas, visuais, gráficas, filatelia e numismática
+
+05
+
+Patrimônio Cultural, Culturas Negras e Indígenas, Culturas Regionais, Artesanatos, Museologia e Arquivos
+
+01. Artesanatos 02. Culturas regionais 03. Culturas indígenas 04. Folclore 05. Patrimônio cultural 06. Museus 07. Bibliotecas, Arquivos e Acervos 08. Livros e incentivo à leitura
+
+06
+
+Literatura e Humanidades
+
+01. De referência 02. Didática 03. Letras e Artes 04. Co-produção editorial 05. Filosofia e Ciências Sociais 06. Ciências Exatas 07. Periódicos
+
+07
+
+Áreas Integradas
+
+01. Feiras Culturais 02. Turismo Cultural 03. Ecoturismo 04. Seminários e Conferências

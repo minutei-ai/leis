@@ -1,5 +1,3 @@
-###DEC-073690-0-000-22-02-1974@@@
-
 DECRETO Nº 73.690, DE 22 DE FEVEREIRO DE 1974.
 
 Dispõe sobre a estrutura básica do Instituto do Açúcar e do Álcool e dá outras providências.

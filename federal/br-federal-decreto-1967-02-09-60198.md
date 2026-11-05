@@ -1,5 +1,3 @@
-###DEC-060198-0-000-09-02-1967@@@
-
 Decreto nº 60.198, de 9 de fevereiro de 1967.
 
 Declara de utilidade pública a “Casa da Amizade das Senhoras dos Rotarianos de Campos”, com sede em Campos, Estado do Rio de Janeiro.

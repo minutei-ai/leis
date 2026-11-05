@@ -1,5 +1,3 @@
-###DEC-002202-0-000-09-04-1997@@@
-
 DECRETO Nº 2.202, DE 9 DE ABRIL DE 1997
 
 Dispõe sobre a execução do Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Complementação Econômica nº 34, entre os Governos dos Estados Partes do MERCOSUL e o Governo da República da Bolívia, de 31 de dezembro de 1996.

@@ -1,5 +1,3 @@
-###DEC-002233-0-000-23-05-1997@@@
-
 DECRETO Nº 2.233 DE 23 DE MAIO DE 1997
 
 Dispõe sobre os setores das atividades econômicas excluídos das restrições previstas no art. 39 da Lei nº 4.131, de 3 de setembro de 1962.

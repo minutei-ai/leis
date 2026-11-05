@@ -1,5 +1,3 @@
-###DEC-006771-0-000-16-02-2009@@@
-
 DECRETO Nº 6.771, DE 16 DE FEVEREIRO DE 2009.
 
 Promulga o Acordo sobre Isenção de Taxas e Emolumentos Devidos à Emissão e Renovação de Autorizações de Residência para os Cidadãos da Comunidade dos Países de Língua Portuguesa, assinado em Brasília, em 30 de julho de 2002.

@@ -1,5 +1,3 @@
-###DEL-003298-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.298 – DE 22 DE MAIO DE 1941
 
 Dispõe sobre professores aposentados da Faculdade de Direito de São Paulo e dá outras providências

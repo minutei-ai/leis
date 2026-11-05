@@ -1,5 +1,3 @@
-###DEC-055497-0-000-11-01-1965@@@
-
 DECRETO Nº 55.497, 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Álvaro Ribeiro a pesquisar caulim e quartzo, no município de Santana de Parnaíba, Estado de São Paulo.

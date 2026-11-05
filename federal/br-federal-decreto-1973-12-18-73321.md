@@ -1,5 +1,3 @@
-###DEC-073321-0-000-18-12-1973@@@
-
 DECRETO Nº 73.321 - DE 18 DE DEZEMBRO DE 1973
 
 Encampa bens e instalações que constituem a linha de transmissão que estabelece o interconexão dos sistemas da Centrais Elétricas de Minas Gerais S.A. e da Espírito Santo Centrais Elétricas S.A. através das subestações de Governador Valadares e Mascarenhas, nos Estados de Minas Gerais e Espírito Santo.

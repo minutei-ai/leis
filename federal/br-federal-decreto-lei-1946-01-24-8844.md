@@ -1,5 +1,3 @@
-###DEL-008844-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.844 – DE 24 DE JANEIRO DE 1946
 
 Abre ao Ministério da Educação e Saúde, o crédito especial de Cr$ 160.000,00 para atender à despesas relacionadas com o Salão Nacional de Belas Artes.

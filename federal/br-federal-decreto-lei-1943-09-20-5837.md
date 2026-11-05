@@ -1,5 +1,3 @@
-###DEL-005837-0-000-20-09-1943@@@
-
 DECRETO‑LEI N. 5.837 – de 20 DE SETEMBRO DE 1943
 
 Modifica os arts. 222, 225 e 226 do decreto‑lei n. 2.035, de 27 de fevereiro de 1940

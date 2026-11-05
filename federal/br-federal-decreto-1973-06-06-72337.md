@@ -1,5 +1,3 @@
-###DEC-072337-0-000-06-06-1973@@@
-
 DECRETO Nº 72.337, DE 6 DE JUNHO DE 1973
 
 Redistribui cargo, com o respectivo ocupante, para o Quadro Único, de Pessoal da Universidade Federal do Ceará, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082178-0-000-28-08-1978@@@
-
 Decreto nº 82.178, de 28 de agosto de 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município Itaocara, Estado do Rio de Janeiro.

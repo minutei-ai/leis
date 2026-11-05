@@ -1,5 +1,3 @@
-###DEC-061573-0-000-19-10-1967@@@
-
 Decreto Nº 61.573, DE 19 DE Outubro DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério do Exército.

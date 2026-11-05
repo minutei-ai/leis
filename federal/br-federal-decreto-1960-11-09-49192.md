@@ -1,5 +1,3 @@
-###DEC-049192-0-000-09-11-1960@@@
-
 Decreto nº 49.192, de 9 de novembro de 1960.
 
 Autoriza estrangeiros a adquirirem os lotes de terreno nacional interior que menciona, situado no Estado da Guanabara.

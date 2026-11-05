@@ -1,5 +1,3 @@
-###DEC-081929-0-000-11-07-1978@@@
-
 Decreto nº 81.929, de 11 de julho de 1978.
 
 Fixa o fator de reajustamento salarial relativo a julho de 1978.

@@ -1,5 +1,3 @@
-###DEC-054906-0-000-04-11-1964@@@
-
 decreto nº 54.906, de 4 de novembro de 1964.
 
 Declara públicas, de uso comum as águas do curso d’água que especifica.

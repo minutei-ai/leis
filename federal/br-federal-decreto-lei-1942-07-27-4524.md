@@ -1,5 +1,3 @@
-###DEL-004524-0-000-27-07-1942@@@
-
 DECRETO-LEI N. 4.524 – DE 27 DE JULHO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de 6:540$0 para pagamento de indenizações devidas aos empregados do extinto Sindicato Unitivo Ferroviário da Central do Brasil, e dá outras providências.

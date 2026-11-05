@@ -1,5 +1,3 @@
-###MPV-001792-0-001-28-01-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.792-1, DE 28 DE JANEIRO DE 1999.
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências.

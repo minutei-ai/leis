@@ -1,5 +1,3 @@
-###DEL-008041-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.041 – DE 4 DE OUTUBRO DE 1945
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 83.299,80 para pagamento do acréscimo de 30 % de que trata o art. 94, inciso V, da Lei nº 2.544, de 4 de janeiro de 1912.

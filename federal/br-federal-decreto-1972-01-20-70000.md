@@ -1,5 +1,3 @@
-###DEC-070000-0-000-20-01-1972@@@
-
 Decreto Nº 70.000, De 20 de Janeiro de 1972.
 
 Declara de utilidade pública o Ginásio Imaculada Conceição de Arcoverde, com sede em Arcoverde, Estado de Pernambuco.

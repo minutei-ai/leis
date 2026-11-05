@@ -1,5 +1,3 @@
-###DEC-056759-0-000-20-08-1965@@@
-
 DECRETO Nº 56.759, DE 20 DE AGÔSTO DE 1965.
 
 Baixa Normais Técnicas Especiais para a Profilaxia da Febre Amarela e dá outras providências.

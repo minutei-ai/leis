@@ -1,5 +1,3 @@
-###DEC-054614-0-000-27-10-1964@@@
-
 DECRETO Nº 54.614, DE 27 DE OUTUBRO DE 1964.
 
 Concede nacionalização à sociedade anônima J. WALTER THOMPSON COMPANY DO BRASIL, sob a denominação de J. WALTER THOMPSON S.A - SERVIÇOS DE PUBLICIDADE.

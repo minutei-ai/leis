@@ -1,5 +1,3 @@
-###DEL-004006-0-000-09-01-1942@@@
-
 DECRETO-LEI N. 4006 – DE 9 DE JANEIRO DE 1942
 
 Cria a Escola Preparatória de Cadetes em Fortaleza, Estado do Ceará

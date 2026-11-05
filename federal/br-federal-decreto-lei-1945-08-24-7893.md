@@ -1,5 +1,3 @@
-###DEL-007893-0-000-24-08-1945@@@
-
 DECRETO-LEI N. 7.893 – DE 24 DE AGÔSTO DE 1945
 
 Altera sedes normais de estacionamento de Unidades de Aviação.

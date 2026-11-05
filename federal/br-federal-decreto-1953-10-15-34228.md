@@ -1,10 +1,8 @@
-###DEC-034228-0-000-15-10-1953@@@
+**DECRETO Nº 34.228, DE 15 DE OUTUBRO DE 1953.**
 
-<strong>DECRETO Nº 34.228, DE 15 DE OUTUBRO DE 1953.</strong>
+***Retifica o Decreto nº 29.544, de 9 de maio de 1951.***
 
-<em><strong>Retifica o Decreto nº 29.544, de 9 de maio de 1951.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto nº 23.793, de 23 de janeiro de 1934 (Código Florestal);
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição e nos têrmos do Decreto nº 23.793, de 23 de janeiro de 1934 (Código Florestal);
 
 CONSIDERANDO haver sido feito reexame do processado S. C. 702-52, que abrange o processo S. C. 23.941-51, ambos do Ministério da Agricultura;
 
@@ -20,16 +18,16 @@ CONSIDERANDO, também, êsse levantamento imprescindível a possíveis desapropr
 
 CONSIDERANDO, finalmente, necessária, em face do exposto precedentemente, a revalidação do Decreto número 29.544, de 9 de maio de 1951,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica retificado o Decreto nº 29.544, de 9 de maio de 1951, para que seja procedido o levantamento topográfico das duas áreas existentes na fazenda “Pedra Branca”, no município fluminense de Nova Friburgo.
+**Art**. 1º Fica retificado o Decreto nº 29.544, de 9 de maio de 1951, para que seja procedido o levantamento topográfico das duas áreas existentes na fazenda “Pedra Branca”, no município fluminense de Nova Friburgo.
 
 Parágrafo único. O artigo 1º, parágrafos 1º e 2º, os artigos 2º e 3º do referido Decreto nº 29.544, de 9 de maio de 1951, são, de pleno, ratificados.
 
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de outubro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas

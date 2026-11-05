@@ -1,5 +1,3 @@
-###DEC-075085-0-000-12-12-1974@@@
-
 DECRETO Nº 75.085, DE 12 DE DEZEMBRO DE 1974.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Palotina e Assis Chateaubriand, no Estado do Paraná, compreendidos no área prioritária de Reforma Agrária de que trata o Decreto nº 69.411, de 22 de outubro de 1971.

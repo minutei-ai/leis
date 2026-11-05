@@ -1,5 +1,3 @@
-###DEC-092262-0-000-30-12-1985@@@
-
 Decreto nº 92.262, de 30 de dezembro de 1985
 
 Dispõe sobre a fixação e área prioritária, para fins de reforma agrária, e declara de interesse social, para fins e desapropriação, o imóvel rural denominado "Gleba Entroncamento", situado no Município de ltapecuru-Mirim, no Estado do Maranhão, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003222-0-000-28-04-1941@@@
-
 DECRETO-LEI N. 3.222 – DE 28 DE ABRIL DE 1941
 
 Cria o estudante distintivo para o Regimento, João Propício O Presidente da República, usando da atribuição que lhe confere o art. 180 da Constituição,

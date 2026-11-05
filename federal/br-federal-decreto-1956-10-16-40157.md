@@ -1,14 +1,12 @@
-###DEC-040157-0-000-16-10-1956@@@
+**DECRETO Nº 40.157, DE 16 DE OUTUBRO DE 1956.**
 
-<strong>DECRETO Nº 40.157, DE 16 DE OUTUBRO DE 1956.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário – rio - mensalista do Ministério da Educação e Cultura, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário – rio - mensalista do Ministério da Educação e Cultura, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes para as tabelas indicadas, as seguintes funções:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes para as tabelas indicadas, as seguintes funções:
 
 I - uma (1) função de Mensageiro, referência 17, ocupada por José Fernandes, da Tabela Numérica Especial de Extranumerário - mensalista do Conservatório Nacional de Canto Orfeônico, do Departamento Nacional de Educação, para idêntica tabela do Museu Nacional de Belas Artes, aprovadas, respectivamente pelos Decretos ns. 32.879, de 27 de maio de 1953, e 32.779, de 14 de maio de 1953;
 
@@ -24,14 +22,14 @@ VI - duas (2) funções de Servente, referêrncia 17, ocupada por Hamilton dos S
 
 VII - uma (1) função de Trabalhador, referência 8, ocupada por Nelson Arruda, da Tabela Numérica Especial de Extranumerário-mensalista da Divisão de Pessoal, para idêntica tabela da Divisão de Material, ambas do  Departamento de Administração, aprovadas, respectivamente, pelos Decretos, ns. 32.918, de 2 de junho de 1953, e 32.753, de 11 de maio de 1953.
 
-<strong>Art</strong>. 2º As despesas decorrentes da execução dêste Decreto correrão pelas dotações próprias deferidas aos órgãos nele indicados no vigente Orçamento para o Ministério da Educação e Cultura.
+**Art**. 2º As despesas decorrentes da execução dêste Decreto correrão pelas dotações próprias deferidas aos órgãos nele indicados no vigente Orçamento para o Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 16 de outubro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos

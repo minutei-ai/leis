@@ -1,5 +1,3 @@
-###DEL-003702-0-000-10-10-1941@@@
-
 DECRETO-LEI N. 3.702 – DE 10 DE OUTUBRO DE 1941
 
 Autoriza a aquisição de imóvel situado na ilha “Mocanguê Grande”

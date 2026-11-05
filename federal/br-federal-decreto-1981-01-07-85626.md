@@ -1,5 +1,3 @@
-###DEC-085626-0-000-07-01-1981@@@
-
 Decreto nº 85.626, de 07 de janeiro de 1981
 
 Autoriza o aumento do capital da Companhia Docas do Ceará - CDC.

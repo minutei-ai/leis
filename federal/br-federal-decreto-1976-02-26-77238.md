@@ -1,5 +1,3 @@
-###DEC-077238-0-000-26-02-1976@@@
-
 DECRETO Nº 77.238, DE 26 DE FEVEREIRO DE 1976.
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

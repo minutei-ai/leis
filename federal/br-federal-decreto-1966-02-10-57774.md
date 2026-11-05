@@ -1,5 +1,3 @@
-###DEC-057774-0-000-10-02-1966@@@
-
 DECRETO Nº 57.774, DE 10 DE FEVEREIRO DE 1966.
 
 Altera os Incisos I e II do art. 2º do Decreto nº 57.624, de 13 de janeiro de 1966.

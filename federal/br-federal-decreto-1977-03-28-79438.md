@@ -1,5 +1,3 @@
-###DEC-079438-0-000-28-03-1977@@@
-
 DECRETO Nº 79.438, DE 28 DE MARÇO DE 1977.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona.

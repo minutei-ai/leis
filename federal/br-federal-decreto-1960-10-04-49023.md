@@ -1,5 +1,3 @@
-###DEC-049023-0-000-04-10-1960@@@
-
 DECRETO Nº 49.023, DE 4 DE OUTUBRO DE 1960.
 
 Autoriza a siderúrgica Oeste de Minas S.A. a pesquisar minérios de ferro e de manganês, no município de Itaúna, Estado de Minas Gerais.

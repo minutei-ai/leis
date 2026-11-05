@@ -1,5 +1,3 @@
-###DEC-049073-0-000-07-10-1960@@@
-
 DECRETO Nº 49.073, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza a São Paulo Light S.A. - Serviços de Eletricidade a construir uma linha de transmissão no município de São Bernardo do Campo, Estado de São Paulo, entre a linha tronco Cubatão - São Caetano e a subestação da fábrica de automóveis Volkswagen do Brasil S.A. no mesmo município.

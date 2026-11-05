@@ -1,5 +1,3 @@
-###DEC-049905-0-000-12-01-1961@@@
-
 DECRETO N.º 49.905, DE 12 DE janeiro DE 1961.
 
 Renova o Decreto nº 44.538, de 24 de setembro de 1958.

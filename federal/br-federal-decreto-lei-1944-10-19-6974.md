@@ -1,5 +1,3 @@
-###DEL-006974-0-000-19-10-1944@@@
-
 DECRETO-LEI N. 6.974 – DE 19 DE OUTUBRO DE 1944
 
 Autoriza o Ministério da Agricultara a colaborar com o Govêrno do Estado de Goiaz na realização do 1º Congresso Econômico do Oeste, e dá outras providências

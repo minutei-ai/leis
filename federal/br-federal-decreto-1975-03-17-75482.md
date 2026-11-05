@@ -1,5 +1,3 @@
-###DEC-075482-0-000-17-03-1975@@@
-
 DECRETO Nº 75.482, dE 17 DE MARÇO DE 1975
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pela Companhia de Desenvolvimento do Vale do São Francisco - CODEVASF, áreas de várzeas abrangidas pelo Projeto de energia do Baixo São Francisco, situadas em Município do Baixo São Francisco, nos Estados de Alagoas e Sergipe.
@@ -23,8 +21,6 @@ Brasília, 17 de março de 1975; 154º da Independência e 87º da República.
 ERNESTO GEISEL
 
 Maurício Rangel Reis
-
-###DEC-075482-0-000-17-03-1975@@@RET01+++
 
 DECRETO Nº 75.482, DE 17 DE MARÇO DE 1975.
 

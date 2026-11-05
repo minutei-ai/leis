@@ -1,5 +1,3 @@
-###DEC-056970-0-000-01-10-1965@@@
-
 DECRETO Nº 56.970, DE 1 DE OUTUBRO DE 1965.
 
 Acrescenta parágrafo único ao artigo 26 do Regulamento aprovado pelo Decreto nº 40.359, de 16 de novembro de 1956, alterado pelo de número 2.030, de 14 de janeiro de 1963.

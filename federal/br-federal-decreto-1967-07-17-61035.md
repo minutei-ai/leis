@@ -1,5 +1,3 @@
-###DEC-061035-0-000-17-07-1967@@@
-
 DECRETO Nº 61.035, DE 17 DE JULHO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em Dourados - MT, destinado ao Ministério do Exército.

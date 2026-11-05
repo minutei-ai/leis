@@ -1,5 +1,3 @@
-###DEC-085744-0-000-20-02-1981@@@
-
 Decreto nº 85.744, de 20 de fevereiro de 1981.
 
 Revoga Decretos que aprova e altera o Regulamento do Gabinete do Ministério da Aeronáutica (GABAER).

@@ -1,5 +1,3 @@
-###DEL-006470-0-000-03-05-1944@@@
-
 DECRETO-LEI N. 6.470 – DE 3 DE MAIO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 19.896,00 para pagamento da vantagem (Pessoal) que indica

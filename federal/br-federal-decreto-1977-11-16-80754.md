@@ -1,5 +1,3 @@
-###DEC-080754-0-000-16-11-1977@@@
-
 Decreto nº 80.754, de 16 de novembro de 1977.
 
 Autoriza estrangeira a adquirir direitos sobre o imóvel que menciona, no Estado do Rio de Janeiro.

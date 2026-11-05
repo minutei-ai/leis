@@ -1,14 +1,12 @@
-###DEC-038835-0-000-06-03-1956@@@
+**DECRETO Nº 38.835, DE 6 DE MARÇO DE 1956.**
 
-<strong>DECRETO Nº 38.835, DE 6 DE MARÇO DE 1956.</strong>
+***Altera a redação do item II do Artigo 1º do Decreto nº 31.452, de 13 de setembro de 1952.***
 
-<em><strong>Altera a redação do item II do Artigo 1º do Decreto nº 31.452, de 13 de setembro de 1952.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O item II do Artigo 1º do Decreto nº 31.452, de 13 de setembro de 1952, passa a ter seguinte redação:
+**Art**. 1º O item II do Artigo 1º do Decreto nº 31.452, de 13 de setembro de 1952, passa a ter seguinte redação:
 
 II Infantarias Divisionárias:
 
@@ -26,10 +24,10 @@ ID da 6ª DI Pôrto Alegre (RS);
 
 ID da 7ª DI Natal (RN);
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 6 de março de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBTSCHEK</strong>
+**JUSCELINO KUBTSCHEK**
 
 Henrique Lott

@@ -1,5 +1,3 @@
-###DEC-056400-0-000-03-06-1965@@@
-
 DECRETO Nº 56.400, DE 3 DE JUNHO DE 1965.
 
 Autoriza Bauxita Santa Rita Ltda. BAUXITA a pesquisar bauxita, no município de Parintins, Estado do Amazonas.

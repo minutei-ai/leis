@@ -1,5 +1,3 @@
-###DEC-045639-0-000-25-03-1959@@@
-
 DECRETO Nº 45.639, DE 25 DE MARÇO DE 1959.
 
 Retifica o artigo 1º do Decreto nº 41.296, de 10 de abril de 1957.

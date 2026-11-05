@@ -1,5 +1,3 @@
-###DEC-048689-0-000-04-08-1960@@@
-
 DECRETO Nº 48.689, DE 4 DE AGÔSTO DE 1960.
 
 Dispõe sôbre a denominação de Universidade.

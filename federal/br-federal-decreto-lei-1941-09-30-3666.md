@@ -1,5 +1,3 @@
-###DEL-003666-0-000-30-09-1941@@@
-
 DECRETO-LEI N. 3.666 – de 30 DE SETEMBRO DE 1941
 
 Organiza o 1º Grupo Independente de Artilharia Mista

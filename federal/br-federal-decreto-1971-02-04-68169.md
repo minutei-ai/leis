@@ -1,5 +1,3 @@
-###DEC-068169-0-000-04-02-1971@@@
-
 DECRETO Nº 68.169, DE 4 DE FEVEREIRO DE 1971.
 
 Declara nulo o ato de outorga de concessão à Televisão de Goiás Ltda. para instalar uma estação de radiodifusão de sons e imagens (televisão) na cidade de Goiânia, Estado de Goiás.

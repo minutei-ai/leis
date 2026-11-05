@@ -1,5 +1,3 @@
-###DEC-003264-0-000-29-11-1999@@@
-
 DECRETO Nº 3.264, DE 29 DE NOVEMBRO DE 1999.
 
 Altera o Programa de Dispêndios Globais - PDG, para 1999, de diversas empresas estatais federais, aprovados pelo Decreto nº 2.912, de 29 de dezembro de 1998.

@@ -1,5 +1,3 @@
-###DEC-006488-0-000-19-06-2008@@@
-
 DECRETO Nº 6.488, DE 19 DE JUNHO DE 2008.
 
 Regulamenta os arts. 276 e 306 da Lei no 9.503, de 23 de setembro de 1997 - Código de Trânsito Brasileiro, disciplinando a margem de tolerância de álcool no sangue e a equivalência entre os distintos testes de alcoolemia para efeitos de crime de trânsito.
@@ -35,5 +33,3 @@ José Gomes Temporão
 Marcio Fortes de Almeida
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 20.6.2008

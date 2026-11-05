@@ -1,5 +1,3 @@
-###DEC-006054-0-000-01-03-2007@@@
-
 DECRETO Nº 6.054, DE 1º DE MARÇO DE 2007.
 
 Regulamenta o art. 16 da Lei no 8.025, de 12 de abril de 1990, que dispõe sobre o valor das taxas de uso de imóveis funcionais de propriedade da União.
@@ -47,5 +45,3 @@ Brasília, 1o de março de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 2.3.2007.

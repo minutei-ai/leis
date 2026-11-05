@@ -1,5 +1,3 @@
-###DEC-077515-0-000-29-04-1976@@@
-
 DECRETO Nº 77.515 - DE 29 DE ABRIL DE 1976
 
 Autoriza a transferência, para o patrimônio da Empresa Brasileira de Infra-Estrutura Aeroportuária - INFRAERO, dos imóveis que menciona, situados em Brasília, Distrito Federal.

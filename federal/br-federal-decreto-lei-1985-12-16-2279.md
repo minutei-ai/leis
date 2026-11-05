@@ -1,5 +1,3 @@
-###DEL-002279-0-000-16-12-1985@@@
-
 # Decreto-lei nº 2.279, de 16 de dezembro de 1985
 
 Dispõe sobre o reajustamento dos vencimentos dos funcionários de que tratam os Decretos-leis ns. 2.225, de 10 de janeiro de 1985, e 2.251, de 26 de fevereiro de 1985.

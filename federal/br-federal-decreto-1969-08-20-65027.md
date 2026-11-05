@@ -1,5 +1,3 @@
-###DEC-065027-0-000-20-08-1969@@@
-
 DECRETO Nº 65.027 - DE 20 DE AGôSTO DE 1969.
 
 Declara de utilidade pública a Sociedade de Assistência à Maternidade Escola Assis Chateaubriand, com sede em Fortaleza, Estado do Ceará.

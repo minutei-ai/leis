@@ -1,5 +1,3 @@
-###DEC-067602-0-000-18-11-1970@@@
-
 DECRETO Nº 67.602, DE 18 DE NOVEMBRO DE 1970.
 
 Concede à firma individual Antônio Mendes o direito de lavrar água mineral, no município de Votorantim, Estado de São Paulo.

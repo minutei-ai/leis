@@ -1,5 +1,3 @@
-###DEC-060359-0-000-10-03-1967@@@
-
 decreto nº 60.359, de 10 de março de 1967.
 
 Inclui nas relações de que trata o Decreto nº 54.015, de 13 de julho de 1964, a série de classes de Redatores.

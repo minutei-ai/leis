@@ -1,5 +1,3 @@
-###DEC-096285-0-000-06-07-1988@@@
-
 DECRETO N.° 96.285, DE 6 DE JULHO DE 1988
 
 Outorga à Empresa de Energia Elétrica de Mato Grosso do Sul S.A. - ENERSUL concessão para o aproveitamento da energia hidráulica de um trecho do Rio Sucuriú, no Município de Costa Rica, Estado de Mato Grosso do Sul.

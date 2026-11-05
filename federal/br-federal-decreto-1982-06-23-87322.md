@@ -1,5 +1,3 @@
-###DEC-087322-0-000-23-06-1982@@@
-
 Decreto nº 87.322, de 23 de Junho 1982.
 
 Declara de utilidade pública, para fins de a desapropriação, áreas de terra necessárias à implantação da subestação Nazaré da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

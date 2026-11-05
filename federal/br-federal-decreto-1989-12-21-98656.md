@@ -1,7 +1,3 @@
-1
-
-###DEC-098656-0-000-21-12-1989@@@
-
 # DECRETO N° 98.656, DE 21 DE DEZEMBRO DE 1989
 
 Promulga a Convenção relativa à Orientação Profissional e Formação Profissional no Desenvolvimento de Recursos Humanos  Convenção n° 142 da Organização Internacional do Trabalho.

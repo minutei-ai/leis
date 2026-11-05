@@ -1,5 +1,3 @@
-###DEC-068200-0-000-11-02-1971@@@
-
 DECRETO Nº 68.200, DE 11 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, a área de terra destinada a ampliação da subestação de Lapinha, situada no distrito de Santo Antônio, no município de Salvador, Estado da Bahia.

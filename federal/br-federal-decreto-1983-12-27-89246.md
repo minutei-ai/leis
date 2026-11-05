@@ -1,5 +1,3 @@
-###DEC-089246-0-000-27-12-1983@@@
-
 DECRETO Nº 89.246, DE 27 DE DEZEMBRO DE 1983
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Barra Mansa, Rio de Janeiro.

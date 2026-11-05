@@ -1,5 +1,3 @@
-###DEC-080711-0-000-10-11-1977@@@
-
 DECRETO Nº 80.711, DE 10 DE NOVEMBRO DE 1977.
 
 Declara a caducidade da concessão de lavra que menciona.

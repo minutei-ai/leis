@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decret
 
 Art. 1º - Fica criado, na estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, o Conselho Estadual dos Direitos da População de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, órgão colegiado de natureza consultiva, com a finalidade de formular e propor diretrizes e políticas públicas voltadas para o combate à discriminação e à promoção e defesa dos direitos de Lésbicas, Gays, Bissexuais, Travestis e Transexuais - LGBT.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 1º - Fica criado, na estrutura da Secretaria da Justiça, Cidadania e Direitos Humanos - SJCDH, o Conselho Estadual dos Direitos da População de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, órgão colegiado de natureza consultiva, com a finalidade de formular e propor diretrizes e políticas públicas voltadas para o combate à discriminação e à promoção e defesa dos direitos de Lésbicas, Gays, Bissexuais, Travestis e Transexuais - LGBT."
 
 Art. 2º - Compete ao Conselho Estadual dos Direitos da População de Lésbicas, Gays, Bissexuais, Travestis e Transexuais:
@@ -55,14 +56,16 @@ I - 15 (quinze) representantes do Poder Público Estadual, sendo:
 
 a) 01 (um) representante da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "a) 01 (um) representante da Secretaria da Justiça, Cidadania e Direitos Humanos - SJCDH;"
 
 b) 01 (um) representante da Secretaria da Segurança Pública - SSP;
 
 c) 01 (um) representante da Secretaria de Desenvolvimento Rural - SDR;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "c) 01 (um) representante da Secretaria de Desenvolvimento Social e Combate à Pobreza - SEDES;"
 
 d) 01 (um) representante da Secretaria da Saúde - SESAB;
@@ -109,7 +112,8 @@ c) 02 (dois) representantes de grupos e núcleos de pesquisa de instituições d
 
 Art. 4º - A Presidência do Conselho será exercida pela Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social e a Vice-Presidência será eleita, anualmente, dentre os representantes mencionados no art. 3º desta Lei.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 4º - A Presidência do Conselho será exercida pela Secretaria da Justiça, Cidadania e Direitos Humanos e a Vice-Presidência será eleita, anualmente, dentre os representantes mencionados no art. 3º desta Lei."
 
 Art. 5º - Os membros do Conselho terão mandato de 02 (dois) anos, permitida a recondução.
@@ -132,26 +136,30 @@ III - Secretaria Executiva.
 
 Art. 9º - A Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS prestará o apoio técnico, administrativo e financeiro necessário ao cumprimento da finalidade do Conselho Estadual de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, viabilizando a participação das representações do interior do Estado.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 9º - A Secretaria da Justiça, Cidadania e Direitos Humanos - SJCDH prestará o apoio técnico, administrativo e financeiro necessário ao cumprimento da finalidade do Conselho Estadual de Lésbicas, Gays, Bissexuais, Travestis e Transexuais, viabilizando a participação das representações do interior do Estado."
 
 Art. 10 - O Regimento Interno do Conselho, aprovado pela maioria absoluta de seus membros e homologado por ato do Governador do Estado, definirá as regras de seu funcionamento.
 
 Parágrafo único - Enquanto não for aprovado o Regimento do Conselho, as regras provisórias de sua organização e funcionamento serão definidas por ato do Secretário de Justiça, Direitos Humanos e Desenvolvimento Social.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Parágrafo único - Enquanto não for aprovado o Regimento do Conselho, as regras provisórias de sua organização e funcionamento serão definidas por ato do Secretário da Justiça, Cidadania e Direitos Humanos."
 
 Art. 11 - Caberá ao Plenário a condução e organização do procedimento de eleição dos representantes da sociedade civil organizada, bem como do Vice-Presidente do Conselho.
 
 Parágrafo único - O primeiro processo de eleição referido no caput deste artigo será normatizado, organizado e conduzido pela Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Parágrafo único - O primeiro processo de eleição referido no caput deste artigo será normatizado, organizado e conduzido pela Secretaria da Justiça, Cidadania e Direitos Humanos - SJCDH."
 
 Art. 12 - As despesas decorrentes da aplicação desta Lei correrão à conta dos recursos constantes do orçamento da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social, ficando o Poder Executivo autorizado a promover as alterações que se fizerem necessárias.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Art. 12 - As despesas decorrentes da aplicação desta Lei correrão à conta dos recursos constantes do orçamento da Secretaria da Justiça, Cidadania e Direitos Humanos, ficando o Poder Executivo autorizado a promover as alterações que se fizerem necessárias."
 
 Art. 13 - Esta Lei entra em vigor na data de sua publicação.

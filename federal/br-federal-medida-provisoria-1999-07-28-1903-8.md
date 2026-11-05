@@ -1,5 +1,3 @@
-###MPV-001903-0-008-28-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.903-8, DE 28 DE JULHO DE 1999.
 
 Dispõe sobre o recolhimento ao Tesouro Nacional de parcela da Tarifa de Embarque Internacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005582-0-000-16-11-2005@@@
-
 DECRETO Nº 5.582, DE 16 DE NOVEMBRO DE 2005.
 
 Cria a Missão Permanente do Brasil junto à Agência Internacional de Energia Atômica (AIEA) e Organismos Internacionais Conexos, com sede em Viena.

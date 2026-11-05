@@ -1,5 +1,3 @@
-###DEC-059530-0-000-09-11-1966@@@
-
 DECRETO Nº 59.530, DE 9 DE NOVEMBRO DE 1966.
 
 Concede à Mineradora Minas S.A. autorização para funcionar como emprêsa de mineração.

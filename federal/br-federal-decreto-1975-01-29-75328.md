@@ -1,5 +1,3 @@
-###DEC-075328-0-000-29-01-1975@@@
-
 decreto nº 75.328, de 29 de janeiro de 1975.
 
 Retifica o Decreto nº 65.163, de 15 de setembro de 1969, que aprovou o enquadramento de servidores do Ministério da Educação e Cultura, beneficiados pelo disposto no parágrafo único, do artigo 23, da Lei número 4.069, de 11 de junho de 1962, e dá outras providências.

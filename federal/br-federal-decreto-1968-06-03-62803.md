@@ -1,20 +1,18 @@
-###DEC-062803-0-000-03-06-1968@@@
+**DECRETO Nº 62.803, DE 3 DE JUNHO DE 1968**.
 
-<strong>DECRETO Nº 62.803, DE 3 DE JUNHO DE 1968</strong>.
+***Aprovava o regulamento das Divisões de Segurança e Informações dos Ministérios Civis.*
 
-<em><strong>Aprovava o regulamento das Divisões de Segurança e Informações dos Ministérios Civis</strong></em><em>.</em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o Artigo 83, item II, da Constituição e na conformidade do disposto no Artigo 3º e na letra *b* do parágrafo único do artigo 146 do Decreto-lei nº 200, de 25 de fevereiro de 1967, e Decreto número 61.341, de 13 de setembro de 1967,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o Artigo 83, item II, da Constituição e na conformidade do disposto no Artigo 3º e na letra <em>b</em> do parágrafo único do artigo 146 do Decreto-lei nº 200, de 25 de fevereiro de 1967, e Decreto número 61.341, de 13 de setembro de 1967,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento das Divisões de Segurança e Informações dos Ministérios Civis, que com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento das Divisões de Segurança e Informações dos Ministérios Civis, que com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 3 de junho de 1968; 147º da Independência e 80º da República.
 
-<strong>A.</strong> <strong>COSTA E SILVA</strong>
+**A.COSTA E SILVA**
 
 Luís Antônio da Gama e Silva
 
@@ -42,21 +40,21 @@ Antônio Faustino Porto Sobrinho
 
 Carlos F. de Simas
 
-<strong>REGULAMENTO DAS DIVISÕES DE SEGURANÇA E INFORMAÇÕES DOS MINISTÉRIOS CIVIS</strong>
+**REGULAMENTO DAS DIVISÕES DE SEGURANÇA E INFORMAÇÕES DOS MINISTÉRIOS CIVIS**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º As Divisões de Segurança e Informações dos Ministérios Civis (DSI), a que se referem os Decretos-leis nº 200, de 25 de fevereiro de 1967, nº 348, de 4 de janeiro de 1968 e Decreto nº 60.940, de 4 de julho de 1967, são órgãos complementares do Conselho de Segurança Nacional, subordinadas diretamente aos respectivos Ministros de Estado e destinam-se ao estudo de assuntos de interêsse da Segurança Nacional, no âmbito das atribuições de seus Ministérios.
+**Art**. 1º As Divisões de Segurança e Informações dos Ministérios Civis (DSI), a que se referem os Decretos-leis nº 200, de 25 de fevereiro de 1967, nº 348, de 4 de janeiro de 1968 e Decreto nº 60.940, de 4 de julho de 1967, são órgãos complementares do Conselho de Segurança Nacional, subordinadas diretamente aos respectivos Ministros de Estado e destinam-se ao estudo de assuntos de interêsse da Segurança Nacional, no âmbito das atribuições de seus Ministérios.
 
 Parágrafos único. As DSI colaborarão estreitamente com a Secretaria Geral do Conselho de Segurança Nacional e com o Serviço Nacional de Informações, aos quais prestarão tôdas as informações que lhes forem solicitadas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Competência</em>
+*Da Competência*
 
-<strong>Art</strong>. 2º Compete às DSI:
+**Art**. 2º Compete às DSI:
 
 I - no que se refere à Segurança Nacional:
 
@@ -80,11 +78,11 @@ c) cooperar na xeceução dos Planos Particulares e de outros encargos recomenad
 
 § 2º As informações e carefas solicitadas às DSI pela Secretaria-Geral do Conselho de Segurança Nacional e pelo Serviço Nacional de Informações terão alta prioridade.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Estrutura e da Competência dos Órgãos</em>
+*Da Estrutura e da Competência dos Órgãos*
 
-<strong>Art</strong>. 3º As DSI têm a seguinte estrutura:
+**Art**. 3º As DSI têm a seguinte estrutura:
 
 \- Direção (D/DSI);
 
@@ -98,25 +96,25 @@ c) cooperar na xeceução dos Planos Particulares e de outros encargos recomenad
 
 Parágrafo único. As DSI terão a cooperação de elementos de ligação dos órgãos de Administração Indireta.
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Direção</em>
+*Da Direção*
 
-<strong>Art</strong>. 4º A Direção das DSI tem por finalidade planejar, dirigir, coordenar e fiscalizar as atividades da Divisão.
+**Art**. 4º A Direção das DSI tem por finalidade planejar, dirigir, coordenar e fiscalizar as atividades da Divisão.
 
-<strong>Art</strong>. 5º O Diretor da DSI, após prévia aprovação de seu nome, pelo Secretário-Geral do Conselho de Segurança Nacional, será nomeando pelo Presidente da República, por indicação do Ministro de Estado, devendo a escolha recair em cidadão civil diplomado pela Escola Superior de Guerra, ou oficial superior da Reserva das Fôrças Armadas, de preferência com o Curso de Comando e Estado-Maior ou equivalente.
+**Art**. 5º O Diretor da DSI, após prévia aprovação de seu nome, pelo Secretário-Geral do Conselho de Segurança Nacional, será nomeando pelo Presidente da República, por indicação do Ministro de Estado, devendo a escolha recair em cidadão civil diplomado pela Escola Superior de Guerra, ou oficial superior da Reserva das Fôrças Armadas, de preferência com o Curso de Comando e Estado-Maior ou equivalente.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Assessoria Especial</em>
+*Da Assessoria Especial*
 
-<strong>Art</strong>. 6º À Assessoria Especial compete realizar estudos do ponto de vista da segurança Nacional mediante a constituição de Grupos Especiais, nos quais poderão ser incluídos elementos não pertencentes ao Ministério, para fazerem o levantamento de dados e informações setoriais, a fim de serem verificadas as deficiências e vulnerabilidades na área do Ministério.
+**Art**. 6º À Assessoria Especial compete realizar estudos do ponto de vista da segurança Nacional mediante a constituição de Grupos Especiais, nos quais poderão ser incluídos elementos não pertencentes ao Ministério, para fazerem o levantamento de dados e informações setoriais, a fim de serem verificadas as deficiências e vulnerabilidades na área do Ministério.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Seção de Informações</em>
+*Da Seção de Informações*
 
-<strong>Art</strong>. 7º À Seção de Informações compete:
+**Art**. 7º À Seção de Informações compete:
 
 I - obter informações gerais de interêsse do Ministério;
 
@@ -130,11 +128,11 @@ V - executar os trabalhos criptográficos de correspondência, quando fôr o cas
 
 VI - colaborar na elaboração dos Planos Particular de Informação no âmbito dos respectivos Ministérios.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Seção de Estudos e Planejamento</em>
+*Da Seção de Estudos e Planejamento*
 
-<strong>Art</strong>. 8º À Seção de Estudos e Planejamento compete:
+**Art**. 8º À Seção de Estudos e Planejamento compete:
 
 I - realizar estudos de assuntos de interêsse da Segurança Nacional ou assuntos específicos no âmbito do Ministério quando determinado pelo Ministro de Estado;
 
@@ -142,25 +140,25 @@ II - colaborar na elaboração do Plano Particular de segurança Nacional, no â
 
 III - colaborar no planejamento executivo da Mobilização Nacional cadastrando os recursos necessários ao fortalecimento do Poder Nacional.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Seção Administrativa</em>
+*Da Seção Administrativa*
 
-<strong>Art</strong>. 9º À Seção Administrativa compete executar os trabalhos de Secretaria de documentos e arquivo contrôle financeiro e de serviços gerais.
+**Art**. 9º À Seção Administrativa compete executar os trabalhos de Secretaria de documentos e arquivo contrôle financeiro e de serviços gerais.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da Ligação com os Órgãos da Administratração Indireta</em>
+*Da Ligação com os Órgãos da Administratração Indireta*
 
-<strong>Art</strong>. 10. Os Órgãos da Administração Indireta deverão designar um elemento da direção, para manter estreita ligação com a DSI do respectivo Ministério.
+**Art**. 10. Os Órgãos da Administração Indireta deverão designar um elemento da direção, para manter estreita ligação com a DSI do respectivo Ministério.
 
 Parágrafo único. Os organismos de segurança, quando existentes na estrutura das entidades de administração indireta, ficarão encarregados dessa ligação.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições Funcionais</em>
+*Das Atribuições Funcionais*
 
-<strong>Art</strong>. 11. Ao Diretor da DSI subordinado diretamente ao Ministros de Estado, a quem assessora nos assuntos referentes à Segurança Nacional compete:
+**Art**. 11. Ao Diretor da DSI subordinado diretamente ao Ministros de Estado, a quem assessora nos assuntos referentes à Segurança Nacional compete:
 
 I - dirigir coordenar e fiscalizar os trabalhos da Divisão;
 
@@ -192,7 +190,7 @@ XIV - assinar o expediente da Divisão;
 
 XV - indicar o seu substituto eventual.
 
-<strong>Art</strong>. 12. Ao Chefe da Assessoria especial compete:
+**Art**. 12. Ao Chefe da Assessoria especial compete:
 
 I - dirigir, coordenar e fiscalizar as atividades desenvolvidas pelos grupos de Estudos Especiais, designados pelo Diretor da Divisão;
 
@@ -204,7 +202,7 @@ IV - determinar tôdas as medidas de caráter administrativo necessárias ao bom
 
 V - manter estrita ligação com os órgãos de planejamento do Ministério a que pertence.
 
-<strong>Art</strong>. 13. Ao Chefe de seção de Informações compete:
+**Art**. 13. Ao Chefe de seção de Informações compete:
 
 I - dirigir coordenar e fiscalizar as atividades referentes às informações;
 
@@ -226,7 +224,7 @@ IX - difundir os Sumários de Informações de interêsse da área do Ministéri
 
 X - orientar e fiscalizar o sistema de segurança da Divisão.
 
-<strong>Art</strong>. 14. Ao Chefe da Seção de Estudos e Planejamento compete:
+**Art**. 14. Ao Chefe da Seção de Estudos e Planejamento compete:
 
 I - dirigir, coordenar e fiscalizar as atividades de estudo e planejamento;
 
@@ -252,58 +250,58 @@ XI - baixar normas referentes à organização do arquivo do SEP/DSI;
 
 XII - manter sob a sua guarda a documentação sigilosa pertinente a seu cargo.
 
-<strong>Art</strong>. 15 Ao Chefe da Seção Administrativa compete dirigir, coordenar e fiscalizar a execução dos trabalhos a cargo da Seção Administrativa.
+**Art**. 15 Ao Chefe da Seção Administrativa compete dirigir, coordenar e fiscalizar a execução dos trabalhos a cargo da Seção Administrativa.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Pessoal</em>
+*Do Pessoal*
 
-<strong>Art</strong>. 16. As DSI terão a lotação que fôr aprovada em Decreto.
+**Art**. 16. As DSI terão a lotação que fôr aprovada em Decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação as DSI poderão, ainda, contar com a colaboração de funcionários requisitados na forma da legislação em vigor e designados por Portaria do respectivos Ministro.
 
-<strong>Art</strong>. 17. Os Chefes dos AE/DSI, SI/DSI e SEP/DSI serão nomeados pelo Presidente da República por indicação do Ministro de estado à vista de proposta do Diretor da DSI, devendo a escolha recair em elementos de competência para as atividades do setor.
+**Art**. 17. Os Chefes dos AE/DSI, SI/DSI e SEP/DSI serão nomeados pelo Presidente da República por indicação do Ministro de estado à vista de proposta do Diretor da DSI, devendo a escolha recair em elementos de competência para as atividades do setor.
 
-<strong>Art</strong>. 18 O pessoal técnico especializado necessário à execução de encargos específicos de duração limitada, poderá ser contratado, sob o regime de Consolidação das Leis do Trabalho por proposta do Diretor da Divisão, ao Ministro de estado observada a legislação em vigor.
+**Art**. 18 O pessoal técnico especializado necessário à execução de encargos específicos de duração limitada, poderá ser contratado, sob o regime de Consolidação das Leis do Trabalho por proposta do Diretor da Divisão, ao Ministro de estado observada a legislação em vigor.
 
 Parágrafo único. O pessoal de que trata êste artigo ficará vinculado durante a realização dos trabalhos a Assessoria Especial sob a coordenação do respectivo Chefe.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 19. Os Ministros de Estado poderão expedir normas complementares gerais para o funcionamento das DSI, fixando a orientação geral a ser seguida nos assuntos referentes à Segurança Nacional, afetos aos seus Ministérios e estabelecimentos as prioridades de trabalho, em consonância com as instruções da Secretaria-Geral do Conselho de Segurança Nacional.
+**Art**. 19. Os Ministros de Estado poderão expedir normas complementares gerais para o funcionamento das DSI, fixando a orientação geral a ser seguida nos assuntos referentes à Segurança Nacional, afetos aos seus Ministérios e estabelecimentos as prioridades de trabalho, em consonância com as instruções da Secretaria-Geral do Conselho de Segurança Nacional.
 
-<strong>Art</strong>. 20 Os estudos e pareceres elaborados pelas DSI que encerrem conclusões opinativas, parciais ou não, e recomendações de medidas a serem adotadas, só deverão ser dados ao conhecimento dos demais órgãos subordinados e vinculados, após aprovados pelo respectivos Ministro de Estado.
+**Art**. 20 Os estudos e pareceres elaborados pelas DSI que encerrem conclusões opinativas, parciais ou não, e recomendações de medidas a serem adotadas, só deverão ser dados ao conhecimento dos demais órgãos subordinados e vinculados, após aprovados pelo respectivos Ministro de Estado.
 
-<strong>Art</strong>. 21 Tôdas as organizações oficiais da União subordinadas e vinculadas a cada um dos Ministérios serão obrigadas a fornecer, às DSI respectivas, dados informações e esclarecimento que lhes forem solicitados, observando o disposto no Regulamento para a Salvaguarda de Assuntos sigilosos.
+**Art**. 21 Tôdas as organizações oficiais da União subordinadas e vinculadas a cada um dos Ministérios serão obrigadas a fornecer, às DSI respectivas, dados informações e esclarecimento que lhes forem solicitados, observando o disposto no Regulamento para a Salvaguarda de Assuntos sigilosos.
 
-<strong>Art</strong>. 22. Os dados, informações e documentos com classificação sigilosa, que se encontrem nas DSI ou em andamento processual, não poderão ser utilizados pela demais repartições subordinadas e vinculadas ao Ministério respectivos, salvo aquêles que, mediante determine da autoridade competente, necessitem ser divulgadas, respeitando, as prescrições inerentes ao regulamento para a salvaguarda de Assuntos sigilosos.
+**Art**. 22. Os dados, informações e documentos com classificação sigilosa, que se encontrem nas DSI ou em andamento processual, não poderão ser utilizados pela demais repartições subordinadas e vinculadas ao Ministério respectivos, salvo aquêles que, mediante determine da autoridade competente, necessitem ser divulgadas, respeitando, as prescrições inerentes ao regulamento para a salvaguarda de Assuntos sigilosos.
 
 Parágrafo único. Os documentos de classificação sigilosa da Secretaria-Geral do Conselho de Segurança Nacional do Serviço Nacional de Informações e dos Ministérios, sòmente poderão ser divulgados ou terem sua classificação alterada por autoridade superior ou mediante autorização expressa da autoridade que o expediu.
 
-<strong>Art</strong>. 23. Os dados e informações solicitados pela Secretaria-Geral do Conselho de Segurança Nacional e pelo Serviço Nacional de Informações serão fornecidos diretamente, respeitadas as prescrições inerentes ao Regulamento para a Salvaguarda de Assuntos Sigilosos.
+**Art**. 23. Os dados e informações solicitados pela Secretaria-Geral do Conselho de Segurança Nacional e pelo Serviço Nacional de Informações serão fornecidos diretamente, respeitadas as prescrições inerentes ao Regulamento para a Salvaguarda de Assuntos Sigilosos.
 
-<strong>Art</strong>. 24. Todo documento encaminhado a Secretaria-Geral do Conselho de Segurança Nacional, para apreciação deverá ser acompanhado de estudos e perecer da DSI que o remeteu, levando em conta os aspectos de interêsse do Ministério respectivos.
+**Art**. 24. Todo documento encaminhado a Secretaria-Geral do Conselho de Segurança Nacional, para apreciação deverá ser acompanhado de estudos e perecer da DSI que o remeteu, levando em conta os aspectos de interêsse do Ministério respectivos.
 
-<strong>Art</strong>. 25. A organização pormenorizada das DSI será estabelecida em Regimento Interno para cada uma aprovado pelo respectivo Ministro de Estado após Parecer da Secretaria-Geral do Conselho de Segurança Nacional.
+**Art**. 25. A organização pormenorizada das DSI será estabelecida em Regimento Interno para cada uma aprovado pelo respectivo Ministro de Estado após Parecer da Secretaria-Geral do Conselho de Segurança Nacional.
 
 Parágrafo único. O regimento Interno da DSI/MRE deverá atender também às peculiaridades do referido Ministério.
 
-<strong>Art</strong>. 26. As Divisões de Segurança e Informações terão consignadas no orçamento do Ministério verbas próprias necessárias ao desempenho de suas atribuições, possuindo para êsse fim, na forma da legislação em vigor.
+**Art**. 26. As Divisões de Segurança e Informações terão consignadas no orçamento do Ministério verbas próprias necessárias ao desempenho de suas atribuições, possuindo para êsse fim, na forma da legislação em vigor.
 
-<strong>Art</strong>. 27. A correspondência oficial das DSI gozará de franquia postal e telegráfica.
+**Art**. 27. A correspondência oficial das DSI gozará de franquia postal e telegráfica.
 
-<strong>Art</strong>. 28. O exercício das funções nas DSI não acarretará prejuízo de qualquer vantagem a que fizer jus o funcionário civil em seu cargo efetivo e será para todos os efeitos legais, considerado como serviço relevante na sua vida funcional.
+**Art**. 28. O exercício das funções nas DSI não acarretará prejuízo de qualquer vantagem a que fizer jus o funcionário civil em seu cargo efetivo e será para todos os efeitos legais, considerado como serviço relevante na sua vida funcional.
 
-<strong>Art</strong>. 29. O pessoal em serviço nas DSI será obrigado ao absoluto sigilo e reserva sôbre os assuntos e trabalhos em tela, cumprindo as classificações sigilosas, na forma da legislação em vigor.
+**Art**. 29. O pessoal em serviço nas DSI será obrigado ao absoluto sigilo e reserva sôbre os assuntos e trabalhos em tela, cumprindo as classificações sigilosas, na forma da legislação em vigor.
 
-<strong>Art</strong>. 30. Os cargos de Chefe de Grupos Especiais símbolo 5-C, Chefe do Órgão de Informações símbolo 5-C e Chefe de Órgão de Estudos e Planejamento, símbolo 5-C, de que trata o Artigo 3º do Decreto nº 60.940, de 4 de julho de 1967, passam a denominar-se respectivamente, Chefe da Assessoria Especial , símbolo 5-C, Chefe de Seção de Informações, símbolo 5-C e Chefe da Seção de Estudos e Planejamento símbolo 5-C.
+**Art**. 30. Os cargos de Chefe de Grupos Especiais símbolo 5-C, Chefe do Órgão de Informações símbolo 5-C e Chefe de Órgão de Estudos e Planejamento, símbolo 5-C, de que trata o Artigo 3º do Decreto nº 60.940, de 4 de julho de 1967, passam a denominar-se respectivamente, Chefe da Assessoria Especial , símbolo 5-C, Chefe de Seção de Informações, símbolo 5-C e Chefe da Seção de Estudos e Planejamento símbolo 5-C.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Disposições Transitórias</em>
+*Das Disposições Transitórias*
 
-<strong>Art</strong>. 31. Os Ministérios do Interior do Planejamento e Coordenação Geral e das Comunicações darão execução ao disposto neste Decreto mediante a aplicação do Art. 209, do Decreto-lei nº 200, de 25 de fevereiro de 1967.
+**Art**. 31. Os Ministérios do Interior do Planejamento e Coordenação Geral e das Comunicações darão execução ao disposto neste Decreto mediante a aplicação do Art. 209, do Decreto-lei nº 200, de 25 de fevereiro de 1967.
 
-<strong>Art</strong>. 32. As DSI submeterão à Secretaria-Geral do Conselho de Segurança Nacional, para apreciação, no prazo de sessenta dias, a contar da publicação dêste Regulamento, os Regimentos respectivos.
+**Art**. 32. As DSI submeterão à Secretaria-Geral do Conselho de Segurança Nacional, para apreciação, no prazo de sessenta dias, a contar da publicação dêste Regulamento, os Regimentos respectivos.

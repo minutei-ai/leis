@@ -1,5 +1,3 @@
-###DEC-006458-0-000-14-05-2008@@@
-
 DECRETO Nº 6.458, DE 14 DE MAIO DE 2008.
 
 Altera o art. 4o do Decreto no 5.297, de 6 de dezembro de 2004, que dispõe sobre os coeficientes de redução diferenciados das alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes na produção e na comercialização de biodiesel.
@@ -35,5 +33,3 @@ Nelson Machado
 Edison Lobão
 
 Guilherme Cassel
-
-Este texto não substitui o publicado no DOU de 15.5.2008

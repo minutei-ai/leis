@@ -1,5 +1,3 @@
-###DEC-054998-0-000-13-11-1964@@@
-
 DECRETO Nº 54.998, DE 13 DE NOVEMBRO DE 1964.
 
 Concede à sociedade Navegação Aliança Ltda., autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

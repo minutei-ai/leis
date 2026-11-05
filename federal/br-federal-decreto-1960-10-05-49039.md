@@ -1,5 +1,3 @@
-###DEC-049039-0-000-05-10-1960@@@
-
 DECRETO Nº 49.039, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Nagib Salim a pesquisar mica no município de Raul Soares, Estado de Minas Gerais.

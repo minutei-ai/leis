@@ -1,5 +1,3 @@
-###DEC-047103-0-000-26-10-1959@@@
-
 DECRETO Nº 47.103, DE 26 DE OUTUBRO DE 1959.
 
 Autoriza o Departamento de Imprensa Nacional a realizar despesas nos têrmos do art. 48 do Código de Contabilidade da União e dá outras providências.

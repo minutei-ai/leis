@@ -14,5 +14,6 @@ Art. 2º Este Decreto entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA/GO, 27 de maio de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

@@ -1,5 +1,3 @@
-###DEC-052403-0-000-27-08-1963@@@
-
 DECRETO Nº 52.403.,DE 27 DE AGÔSTO DE 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de imóveis situados em Campinas, Estado de São Paulo, necessários ao Ministério da Guerra.

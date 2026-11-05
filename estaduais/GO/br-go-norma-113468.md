@@ -16,32 +16,523 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI</td><td style=" width:85px;    ">10 126 1043 2499</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 59.254.036,54</td><td style=" width:85px;    ">R$ 1.100.016,30</td><td style=" width:85px;    ">R$ 60.354.052,84</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES</td><td style=" width:85px;    ">10 302 1043 2522</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 16.152.680,04</td><td style=" width:85px;    ">R$ 54.671,31</td><td style=" width:85px;    ">R$ 16.207.351,35</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.035.039.330,33</td><td style=" width:85px;    ">R$ 151.910.287,38</td><td style=" width:85px;    ">R$ 2.186.949.617,71</td></tr><tr><td style=" width:85px;    ">ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO) E TERMO DE COOPERAÇÃO TÉCNICA</td><td style=" width:85px;    ">10 303 1043 2599</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 20.000.000,00</td><td style=" width:85px;    ">R$ 20.010.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 6.882.477,44</td><td style=" width:85px;    ">R$ 3.609.625,37</td><td style=" width:85px;    ">R$ 10.492.102,81</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÂO DA &nbsp;POLÍTICA NACIONAL DE ALIMENTAÇÃO E NUTRIÇÃO</td><td style=" width:85px;    ">10 306 1043 2517</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 149.500,00</td><td style=" width:85px;    ">R$ 217.000,00</td><td style=" width:85px;    ">R$ 366.500,00</td></tr><tr><td style=" width:85px;    ">ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO) E TERMO DE COOPERAÇÃO TÉCNICA</td><td style=" width:85px;    ">10 303 1043 2599</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 82.322.527,80</td><td style=" width:85px;    ">R$ 20.794.617,65</td><td style=" width:85px;    ">R$ 103.117.145,45</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE &nbsp;PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE</td><td style=" width:85px;    ">10 302 1043 2521</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.468.951,83</td><td style=" width:85px;    ">R$ 7.500.000,00</td><td style=" width:85px;    ">R$ 8.968.951,83</td></tr><tr><td style=" width:85px;    ">COORDENAÇÃO DO PROGRAMA &nbsp;NACIONAL DE IMUNIZAÇÃO &nbsp;EM ÂMBITO ESTADUAL</td><td style=" width:85px;    ">10 305 1043 2512</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 418.028,28</td><td style=" width:85px;    ">R$ 360.000,00</td><td style=" width:85px;    ">R$ 778.028,28</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR</td><td style=" width:85px;    ">10 304 1043 2497</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.165.156,00</td><td style=" width:85px;    ">R$ 1.269.937,03</td><td style=" width:85px;    ">R$ 4.435.093,03</td></tr><tr><td style=" width:85px;    ">ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI</td><td style=" width:85px;    ">10 126 1043 2499</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 150.000,00</td><td style=" width:85px;    ">R$ 45.000,00</td><td style=" width:85px;    ">R$ 195.000,00</td></tr><tr><td style=" width:85px;    ">CAPTAÇÃO E TRANSPLANTE DE ÓRGÃO E TECIDO</td><td style=" width:85px;    ">10 302 1043 2504</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 960.000,00</td><td style=" width:85px;    ">R$ 386.525,47</td><td style=" width:85px;    ">R$ 1.346.525,47</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR</td><td style=" width:85px;    ">10 304 1043 2497</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 1.919.503,68</td><td style=" width:85px;    ">R$ 1.926.703,68</td><td style=" width:85px;    ">R$ 3.846.207,36</td></tr><tr><td style=" width:85px;    ">IMPLEMENTAÇÂO DA &nbsp;POLÍTICA NACIONAL DE ALIMENTAÇÃO E NUTRIÇÃO</td><td style=" width:85px;    ">10 306 1043 2517</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 66.000,00</td><td style=" width:85px;    ">R$ 66.000,00</td><td style=" width:85px;    ">R$ 132.000,00</td></tr><tr><td style=" width:85px;    ">PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS</td><td style=" width:85px;    ">10 305 1043 2519</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 4.881.775,80</td><td style=" width:85px;    ">R$ 5.076.395,40</td><td style=" width:85px;    ">R$ 9.958.171,20</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">26050001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 465.000,00</td><td style=" width:85px;    ">R$ 33.808,30</td><td style=" width:85px;    ">R$ 498.808,30</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">26050001</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 6.336.270,44</td><td style=" width:85px;    ">R$ 491.122,09</td><td style=" width:85px;    ">R$ 6.827.392,53</td></tr><tr><td style=" width:85px;    ">GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES</td><td style=" width:85px;    ">10 302 1043 2516</td><td style=" width:85px;    ">26050001</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 56.885.729,56</td><td style=" width:85px;    ">R$ 8.208.946,58</td><td style=" width:85px;    ">R$ 65.094.676,14</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2800 - SECRETARIA DA SAÚDE</b><br>2801 - GABINETE DO SECRETARIO DA SAUDE</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS</td><td style=" width:85px;    ">10 128 1043 2520</td><td style=" width:85px;    ">26000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 693.000,00</td><td style=" width:85px;    ">R$ 17.250,00</td><td style=" width:85px;    ">R$ 710.250,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 173.064.974,99</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 41.269.054,60</td></tr><tr><td style=" width:340px;    ">26050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À&nbsp; COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 8.733.876,97</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 223.067.906,56</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI
+
+10 126 1043 2499
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 59.254.036,54
+
+R$ 1.100.016,30
+
+R$ 60.354.052,84
+
+REALIZAÇÃO DE ATENDIMENTO NAS UNIDADES GERIDAS PELA SES
+
+10 302 1043 2522
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 16.152.680,04
+
+R$ 54.671,31
+
+R$ 16.207.351,35
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.035.039.330,33
+
+R$ 151.910.287,38
+
+R$ 2.186.949.617,71
+
+ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO) E TERMO DE COOPERAÇÃO TÉCNICA
+
+10 303 1043 2599
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 20.000.000,00
+
+R$ 20.010.000,00
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.882.477,44
+
+R$ 3.609.625,37
+
+R$ 10.492.102,81
+
+IMPLEMENTAÇÂO DA  POLÍTICA NACIONAL DE ALIMENTAÇÃO E NUTRIÇÃO
+
+10 306 1043 2517
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 149.500,00
+
+R$ 217.000,00
+
+R$ 366.500,00
+
+ATENÇÃO AO USUÁRIO DE MEDICAMENTOS DO COMPONENTE ESPECIALIZADO (ALTO CUSTO) E TERMO DE COOPERAÇÃO TÉCNICA
+
+10 303 1043 2599
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 82.322.527,80
+
+R$ 20.794.617,65
+
+R$ 103.117.145,45
+
+REALIZAÇÃO DE  PROCEDIMENTOS E ENSAIOS LABORATORIAIS PARA OS SERVIÇOS DE VIGILÂNCIA EM SAÚDE
+
+10 302 1043 2521
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.468.951,83
+
+R$ 7.500.000,00
+
+R$ 8.968.951,83
+
+COORDENAÇÃO DO PROGRAMA  NACIONAL DE IMUNIZAÇÃO  EM ÂMBITO ESTADUAL
+
+10 305 1043 2512
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 418.028,28
+
+R$ 360.000,00
+
+R$ 778.028,28
+
+REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR
+
+10 304 1043 2497
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.165.156,00
+
+R$ 1.269.937,03
+
+R$ 4.435.093,03
+
+ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI
+
+10 126 1043 2499
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 150.000,00
+
+R$ 45.000,00
+
+R$ 195.000,00
+
+CAPTAÇÃO E TRANSPLANTE DE ÓRGÃO E TECIDO
+
+10 302 1043 2504
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 960.000,00
+
+R$ 386.525,47
+
+R$ 1.346.525,47
+
+REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR
+
+10 304 1043 2497
+
+26000232
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 1.919.503,68
+
+R$ 1.926.703,68
+
+R$ 3.846.207,36
+
+IMPLEMENTAÇÂO DA  POLÍTICA NACIONAL DE ALIMENTAÇÃO E NUTRIÇÃO
+
+10 306 1043 2517
+
+26000232
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 66.000,00
+
+R$ 66.000,00
+
+R$ 132.000,00
+
+PROMOÇÃO DA SAÚDE, PREVENÇÃO E CONTROLE DE RISCOS E DANOS, AGRAVOS E DOENÇAS
+
+10 305 1043 2519
+
+26000232
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 4.881.775,80
+
+R$ 5.076.395,40
+
+R$ 9.958.171,20
+
+REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2498
+
+26050001
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 465.000,00
+
+R$ 33.808,30
+
+R$ 498.808,30
+
+REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2498
+
+26050001
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.336.270,44
+
+R$ 491.122,09
+
+R$ 6.827.392,53
+
+GESTÃO INDIRETA - ATENDIMENTO AMBULATORIAL E / OU HOSPITALAR E PRODUÇÃO DE HEMOCOMPONENTES
+
+10 302 1043 2516
+
+26050001
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 56.885.729,56
+
+R$ 8.208.946,58
+
+R$ 65.094.676,14
+
+**2800 - SECRETARIA DA SAÚDE**
+2801 - GABINETE DO SECRETARIO DA SAUDE
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS
+
+10 128 1043 2520
+
+26000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 693.000,00
+
+R$ 17.250,00
+
+R$ 710.250,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 173.064.974,99
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 41.269.054,60
+
+26050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À  COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM - EXERCÍCIOS ANTERIORES
+
+R$ 8.733.876,97
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 223.067.906,56
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 100.292.287,70</td><td style=" width:85px;    ">R$ 44.779.999,81</td><td style=" width:85px;    ">R$ 44.779.999,81</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE PLANO DE FORTALECIMENTO DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2601</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">41</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 333.445.699,88</td><td style=" width:85px;    ">R$ 67.400.000,00</td><td style=" width:85px;    ">R$ 67.400.000,00</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO, REFORMA E ESTRUTURAÇÃO DE UNIDADES DA SES</td><td style=" width:85px;    ">10 302 1043 3286</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 9.108.118,72</td><td style=" width:85px;    ">R$ 342.494,02</td><td style=" width:85px;    ">R$ 342.494,02</td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA</td><td style=" width:85px;    ">10 302 1043 3284</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 42.500.000,00</td><td style=" width:85px;    ">R$ 12.500.000,00</td><td style=" width:85px;    ">R$ 12.500.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">10 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 112.449.274,51</td><td style=" width:85px;    ">R$ 20.596.418,34</td><td style=" width:85px;    ">R$ 20.596.418,34</td></tr><tr><td style=" width:85px;    ">ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI</td><td style=" width:85px;    ">10 126 1043 2499</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 50.425.846,02</td><td style=" width:85px;    ">R$ 27.446.062,82</td><td style=" width:85px;    ">R$ 27.446.062,82</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 41.269.054,60</td></tr><tr><td style=" width:340px;    ">26050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À&nbsp; COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 8.733.876,97</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 50.002.931,57</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 173.064.974,99</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 173.064.974,99</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 173.064.974,99</td></tr><tr><td style=" width:340px;    ">26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 41.269.054,60</td></tr><tr><td style=" width:340px;    ">26050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À&nbsp; COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 8.733.876,97</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 223.067.906,56</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2498
+
+15000100
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 100.292.287,70
+
+R$ 44.779.999,81
+
+R$ 44.779.999,81
+
+REALIZAÇÃO DE PLANO DE FORTALECIMENTO DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2601
+
+15000100
+
+41
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 333.445.699,88
+
+R$ 67.400.000,00
+
+R$ 67.400.000,00
+
+CONSTRUÇÃO, REFORMA E ESTRUTURAÇÃO DE UNIDADES DA SES
+
+10 302 1043 3286
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 9.108.118,72
+
+R$ 342.494,02
+
+R$ 342.494,02
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DO COMPLEXO ONCOLÓGICO DE REFERÊNCIA - CORA
+
+10 302 1043 3284
+
+15000100
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 42.500.000,00
+
+R$ 12.500.000,00
+
+R$ 12.500.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+10 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 112.449.274,51
+
+R$ 20.596.418,34
+
+R$ 20.596.418,34
+
+ADEQUAÇÃO DA INFRAESTRUTURA DE SERVIÇOS DE TI
+
+10 126 1043 2499
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 50.425.846,02
+
+R$ 27.446.062,82
+
+R$ 27.446.062,82
+
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 41.269.054,60
+
+26050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À  COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM - EXERCÍCIOS ANTERIORES
+
+R$ 8.733.876,97
+
+**TOTAL**
+
+R$ 50.002.931,57
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 173.064.974,99
+
+**TOTAL**
+
+R$ 173.064.974,99
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 173.064.974,99
+
+26000232 - TRANSFERÊNCIAS FUNDO A FUNDO DO SUS - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE - EXERCÍCIOS ANTERIORES
+
+R$ 41.269.054,60
+
+26050001 - ASSISTÊNCIA FINANCEIRA DA UNIÃO DESTINADA À  COMPLEMENTAÇÃO AO PAGAMENTO DOS PISOS SALARIAIS PARA PROFISSIONAIS DA ENFERMAGEM - EXERCÍCIOS ANTERIORES
+
+R$ 8.733.876,97
+
+**TOTAL**
+
+R$ 223.067.906,56

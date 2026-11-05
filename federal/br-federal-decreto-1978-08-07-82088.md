@@ -1,5 +1,3 @@
-###DEC-082088-0-000-07-08-1978@@@
-
 decreto nº 82.088, de 07 de agosto de 1978.
 
 Confisca o acervo da empresa S.A. Fiação e Tecelagem Lutfalla e dá outras providências.

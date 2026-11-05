@@ -1,5 +1,3 @@
-###DEC-090152-0-000-05-09-1984@@@
-
 Decreto nº 90.152, de 05 de setembro de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado do maranhão.

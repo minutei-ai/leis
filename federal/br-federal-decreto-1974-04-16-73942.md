@@ -1,5 +1,3 @@
-###DEC-073942-0-000-16-04-1974@@@
-
 DECRETO Nº 73.942, DE 16 DE ABRIL DE 1974.
 
 Concede à Bemil - Beneficiamento de Minérios Limitada o direito de lavrar talco no Município de Ouro Preto, Estado de Minas Gerais.

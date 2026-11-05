@@ -1,5 +1,3 @@
-###DEC-088692-0-000-12-09-1983@@@
-
 Decreto nº 88.692, de 12 de setembro de 1983
 
 Dá nova redação a dispositivo do Decreto nº 79.456, de 30 de março de 1977, que dispõe sobre o Grupo-Saúde Pública do Serviço Civil da União.

@@ -1,5 +1,3 @@
-###DEC-096539-0-000-22-08-1988@@@
-
 DECRETO N° 96.539, DE 22 DE AGOSTO 1988
 
 Dispõe sobre o aumento do capital au­torizado da Empresas Nucleares Brasileiras S.A.  NUCLEBRÁS.

@@ -1,5 +1,3 @@
-###DEL-005329-0-000-18-03-1943@@@
-
 DECRETO‑LEI N. 5.329 – DE 18 DE MARÇO DE 1943
 
 Inclui na divisão II, alínea 1, do art. 545 da Tarifa em vigor, os livros para leitura, de pequeno formato, com capa revestida de papel celofane

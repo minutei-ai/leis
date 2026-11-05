@@ -1,5 +1,3 @@
-###DEL-005483-0-000-14-05-1943@@@
-
 DECRETO‑LEI N. 5.483 – DE 14 MAIO DE 1943
 
 Revoga o decreto‑lei n. 5.472, de 11 de maio de 1943

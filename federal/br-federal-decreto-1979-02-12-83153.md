@@ -1,5 +1,3 @@
-###DEC-083153-0-000-12-02-1979@@@
-
 DECRETO Nº 83.153, DE 12 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Geografia, ministrado pela Universidade Vale do Rio dos Sinos, com sede na cidade de São Leopoldo, Estado do Rio Grande do Sul.

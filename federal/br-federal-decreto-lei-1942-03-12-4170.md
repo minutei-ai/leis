@@ -1,5 +1,3 @@
-###DEL-004170-0-000-12-03-1942@@@
-
 DECRETO-LEI N.  4.170 – DE 12 DE  MARÇO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona.

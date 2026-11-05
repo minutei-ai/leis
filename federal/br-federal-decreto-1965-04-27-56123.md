@@ -1,5 +1,3 @@
-###DEC-056123-0-000-27-04-1965@@@
-
 DECRETO Nº 56.123, DE 27 DE ABRIL DE 1965.
 
 Retifica o art. 1º do Decreto número 53.122, de 10 de dezembro de 1963.

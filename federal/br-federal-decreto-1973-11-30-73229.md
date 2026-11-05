@@ -1,5 +1,3 @@
-###DEC-073229-0-000-30-11-1973@@@
-
 DECRETO Nº 73.229 - DE 30 DE NOVEMBRO DE 1973
 
 Declara perempta a concessão outorgada à Rádio Educadora Palmares de Alagoas Ltda. para executar serviço de radiodifusão sonora em onda tropical, na cidade de Maceió, Estado de Alagoas.

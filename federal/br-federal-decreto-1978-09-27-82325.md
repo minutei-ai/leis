@@ -1,5 +1,3 @@
-###DEC-082325-0-000-27-09-1978@@@
-
 Decreto nº 82.325, de 27 de setembro de 1978.
 
 Altera o Decreto nº 81.240, de 20 de janeiro de 1978, que regulamenta as disposições da Lei nº 6.435, de 1977, relativas às entidades fechadas de previdência privada.

@@ -1,5 +1,3 @@
-###DEC-068260-0-000-16-02-1971@@@
-
 DECRETO Nº 68.260, DE 16 DE FEVEREIRO DE 1971.
 
 Declara de utilidade publica o Centro Social Maria Medianeira, com Sede em Fortaleza, Estado do Ceará.

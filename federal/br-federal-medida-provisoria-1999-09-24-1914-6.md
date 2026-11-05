@@ -1,5 +1,3 @@
-###MPV-001914-0-006-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.914-6, DE 24 DE SETEMBRO DE 1999.
 
 Estabelece a nulidade das disposições contratuais que menciona, inverte, nas hipóteses que prevê, o ônus da prova nas ações intentadas para sua declaração, e altera o art. 1º da Lei nº 7.347, de 24 de junho de 1985.

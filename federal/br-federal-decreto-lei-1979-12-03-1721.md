@@ -1,5 +1,3 @@
-###DEL-001721-0-000-03-12-1979@@@
-
 # DECRETO-LEI Nº 1.721, de 3 de dezembro de 1979
 
 Dá nova redação ao artigo 1º do Decreto-lei nº 1.158, de 16 de março de 1971, ao parágrafo 2º do artigo 1º do Decreto-lei nº 1.189, de 24 de setembro de 1971, e ao artigo 4º do Decreto-lei nº 1.248, de 29 de novembro de 1972.

@@ -1,5 +1,3 @@
-###DEC-064413-0-000-28-04-1969@@@
-
 DECRETO Nº 64.413, DE 28 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Ambulatório Dom Joaquim, com sede em Brusque, Estado de Santa Catarina.

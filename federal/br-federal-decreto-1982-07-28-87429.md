@@ -1,5 +1,3 @@
-###DEC-087429-0-000-28-07-1982@@@
-
 Decreto nº 87.429, de 28 de julho de 1982
 
 Aumenta o capital social da Empresa de Processamento de Dados da Previdência Social - DATAPREV.

@@ -1,5 +1,3 @@
-###DEC-091027-0-000-05-03-1985@@@
-
 DECRETO Nº 91.027, DE 05 DE MARÇO DE 1985.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural constituído de parte da "Fazenda Sofia", situado no Município de Nazaré, no Estado da Bahia e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 91.026, de 05 de março de 1985.

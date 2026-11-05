@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7427fb26-091a-416e-9ef4-81656d9fc1f3/texto#nowhere)
 
-###DEL-000234-0-000-28-02-1967@@@
-
 DecretO-LEI Nº 234, DE 28 DE FEVEREIRO DE 1967
 
 Altera disposições do Decreto-lei número 32, de 18 de novembro de 1966 (Código Brasileiro do Ar), e dá outras providências.

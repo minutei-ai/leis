@@ -1,5 +1,3 @@
-###DEC-094197-0-000-07-04-1987@@@
-
 DECRETO Nº 94.197, DE 7 DE ABRIL DE 1987
 
 Dispõe sobre a instituição, no Ministério da Saúde, da Campanha Nacional de Combate ao Aedes Aegypti.

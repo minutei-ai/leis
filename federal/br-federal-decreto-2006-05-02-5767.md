@@ -1,5 +1,3 @@
-###DEC-005767-0-000-02-05-2006@@@
-
 DECRETO Nº 5.767, DE 2 DE MAIO DE 2006.
 
 Promulga o Tratado entre a República Federativa do Brasil e a República Portuguesa sobre a Transferência de Pessoas Condenadas, celebrado em Brasília, em 5 de setembro de 2001.

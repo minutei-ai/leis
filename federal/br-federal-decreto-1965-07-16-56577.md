@@ -1,5 +1,3 @@
-###DEC-056577-0-000-16-07-1965@@@
-
 DECRETO Nº 56.577, DE 16 DE JULHO DE 1965.
 
 Extingue a Comissão de Altos Estudos e Planejamento.

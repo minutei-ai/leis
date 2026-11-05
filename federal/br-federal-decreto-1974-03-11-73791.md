@@ -1,5 +1,3 @@
-###DEC-073791-0-000-11-03-1974@@@
-
 DECRETO Nº 73.791, DE 11 DE MARÇO DE 1974.
 
 Cria a reserva Biológica Nacional de Poço das Antas, no Estado do Rio de Janeiro, com os limites que especifica e dá outras providências.

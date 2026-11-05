@@ -1,5 +1,3 @@
-###DEC-089679-0-000-17-05-1984@@@
-
 Decreto nº 89.679, de 17 de maio de 1984.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de São Félix do Araguaia, no Estado de Mato Grosso.

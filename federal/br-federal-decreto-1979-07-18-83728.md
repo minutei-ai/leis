@@ -1,5 +1,3 @@
-###DEC-083728-0-000-18-07-1979@@@
-
 decreto nº 83.728, de 18 de julho de 1979.
 
 Declara de utilidade pública, para os fins de constituição de servidão administrativa, faixa de terra destinada à passagem da linha de distribuição da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

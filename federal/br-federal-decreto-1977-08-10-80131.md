@@ -1,5 +1,3 @@
-###DEC-080131-0-000-10-08-1977@@@
-
 DECRETO Nº 80.131, DE 10 DE AGOSTO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

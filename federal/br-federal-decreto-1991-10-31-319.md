@@ -1,5 +1,3 @@
-###DEC-000319-0-000-31-10-1991@@@
-
 DECRETO N° 319, DE 31 DE OUTUBRO DE 1991
 
 Promulga o Acordo, por Troca de Notas para a Modificação do Regime Operacional do Acordo sobre Transportes Aéreos de 6 de julho de 1976, entre o Governo da República Federativa do Brasil e o Governo do Reino dos Países Baixos.

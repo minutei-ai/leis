@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/8f052c0b-197e-43b9-ad08-791cc19ad154/texto#nowhere)
 
-###DEL-001062-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.062, de 21 de Outubro de 1969
 
 Acrescenta § 3º ao artigo 64 ao Decreto-lei nº 728, de 4 de agôsto de 1969, que instituiu o Código de Vencimentos do Militares.

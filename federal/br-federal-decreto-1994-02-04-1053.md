@@ -1,7 +1,3 @@
-1
-
-###DEC-001053-0-000-04-02-1994@@@
-
 DECRETO Nº 1.053, DE 4 DE FEVEREIRO DE 1994
 
 Fixa o número de dias para exibição de obras cinematográficas brasileiras durante o ano de 1994.

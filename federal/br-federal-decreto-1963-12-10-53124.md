@@ -1,5 +1,3 @@
-###DEC-053124-0-000-10-12-1963@@@
-
 DECRETO Nº 53.124, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Industrial e Mineradora Biguá Ltda autorização para funcionar como emprêsa de mineração.

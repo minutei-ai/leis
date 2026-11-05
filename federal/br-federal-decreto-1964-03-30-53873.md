@@ -1,5 +1,3 @@
-###DEC-053873-0-000-30-03-1964@@@
-
 DECRETO Nº 53.873, DE 30 DE MARÇO DE 1964.
 
 Altera o Quadro do Instituto de Previdência e Assistência dos Servidores do Estados (IPASE) e a outras providências.

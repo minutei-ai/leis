@@ -1,5 +1,3 @@
-###DEC-059344-0-000-30-09-1966@@@
-
 DECRETO Nº 59.344, DE 30 DE SETEMBRO DE 1966.
 
 Renova o Decreto nº 1.923, de 19 de dezembro de 1962.

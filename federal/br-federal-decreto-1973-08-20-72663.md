@@ -1,5 +1,3 @@
-###DEC-072663-0-000-20-08-1973@@@
-
 DECRETO N.º 72.663, DE 20 DE AGOSTO DE 1973.
 
 Autoriza o funcionamento do curso de licenciatura de matérias para o magistério especial de 2º grau, na Faculdade de Filosofia, Ciências e Letras "Brás Cubas", mantida pela Sociedade Civil de Educação "Brás Cubas" em Moji das Cruzes, Estado de São Paulo.

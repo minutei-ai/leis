@@ -1,5 +1,3 @@
-###DEC-092144-0-000-16-12-1985@@@
-
 Decreto nº 92.144, de 16 dE dezembro de 1985.
 
 Dispõe sobre  o aumento do Capital Autorizado da PETROBRÁS MINERAÇÃO S.A. - PETROMISA.

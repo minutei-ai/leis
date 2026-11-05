@@ -1,5 +1,3 @@
-###DEC-088783-0-000-03-10-1983@@@
-
 Decreto nº 88.783, de 03 de outubro de 1983
 
 Regulamenta o Decreto-lei 2.032, de 9 de junho de 1983, que "Dispõe sobre o ressarcimento, pelo Tesouro Nacional, de investimentos realizados nas regiões semi-áridas do Nordeste".

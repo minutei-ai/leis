@@ -1,5 +1,3 @@
-###DEC-088340-0-000-30-05-1983@@@
-
 Decreto nº 88.340, de 30 de maio de 1983
 
 Autoriza o Governo do Estado do Amazona, através da SUPERINTENDÊNCIA DA TELEVISÃO EDUCATIVA DO AMAZONAS-TVE, a executar serviço de radiodifusão de sons e imagem (televisão) com fins exclusivamente educativos, na cidade de Manaus, mediante convênio a ser celebrado com o Ministério das Comunicações.

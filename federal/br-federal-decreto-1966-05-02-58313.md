@@ -1,5 +1,3 @@
-###DEC-058313-0-000-02-05-1966@@@
-
 Decreto nº 58.313, de 2 de maio de 1966.
 
 Altera os arts. 31 e 32 do Regulamento da Diretoria do Material da Aeronáutica.

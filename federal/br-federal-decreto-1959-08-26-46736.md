@@ -1,5 +1,3 @@
-###DEC-046736-0-000-26-08-1959@@@
-
 DECRETO Nº 46.736, DE 26 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro Ernesto Diogo de Faria a pesquisar caulim e feldspato no município de Franco da Rocha, Estado de São Paulo.

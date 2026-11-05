@@ -1,5 +1,3 @@
-###DEC-047396-0-000-10-12-1959@@@
-
 DECRETO Nº 47.396, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro André Manzano Lopes a pesquisar bauxita no município de Divinolândia, Estado de São Paulo.

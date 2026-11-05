@@ -1,5 +1,3 @@
-###DEC-079824-0-000-20-06-1977@@@
-
 Decreto nº 79.824, de 20 de junho de 1977
 
 Altera disposições do Decreto nº 75.627, de 18 de abril de 1975, na redação dada pelo Decreto nº 77.475, de 23 de abril de 1976, e dá outras providências.

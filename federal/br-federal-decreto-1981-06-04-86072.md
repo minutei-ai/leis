@@ -1,5 +1,3 @@
-###DEC-086072-0-000-04-06-1981@@@
-
 Decreto nº 86.072, de 04 dE Junho de 1981.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-055379-0-000-31-12-1964@@@
-
 DECRETO Nº 55.379, DE 31 DE DEZEMBRO DE 1964.
 
 Retifica o art. 1º do decreto 9.313 de 28 de abril de 1942, referente a autorização de lavra de jazida de calcáreo concedida à Sociedade Anônima Indústrias Votorantim, no município de Igarassu, Estado de Pernambuco.

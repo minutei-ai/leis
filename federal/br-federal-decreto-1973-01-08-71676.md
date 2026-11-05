@@ -1,5 +1,3 @@
-###DEC-071676-0-000-08-01-1973@@@
-
 DECReTO Nº 71.676, DE 8 DE JANEIRO DE 1973.
 
 Concede a Mineração Mota Ltda. o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

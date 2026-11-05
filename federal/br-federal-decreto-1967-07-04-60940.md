@@ -1,5 +1,3 @@
-###DEC-060940-0-000-04-07-1967@@@
-
 decreto nº 60.940, de 4 de julho de 1967.
 
 Transforma em Divisão de Segurança e Informações as atuais Seções de Segurança Nacional dos Ministérios Civis e dá outras providências.

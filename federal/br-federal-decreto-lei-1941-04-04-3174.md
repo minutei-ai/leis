@@ -1,5 +1,3 @@
-###DEL-003174-0-000-04-04-1941@@@
-
 DECRETO-LEI N. 3.174 – DE 4 DE ABRIL DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 189:018$3 para pagamento de pessoal  extranumerário-diarista.

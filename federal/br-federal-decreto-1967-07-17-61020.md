@@ -1,5 +1,3 @@
-###DEC-061020-0-000-17-07-1967@@@
-
 DECRETO Nº 61.020, DE 17 DE JULHO DE 1967.
 
 Provê sôbre a concessão de bôlsas de estudo nos estabelecimentos particulares de nível superior.

@@ -1,5 +1,3 @@
-###DEC-077103-0-000-03-02-1976@@@
-
 decreto nº 77.103, de 3 de fevereiro de 1976.
 
 Autoriza o funcionamento dos cursos de Letras e de Pedagogia, da Faculdade de Educação, Ciências e Letras de São Gonçalo, com sede na cidade de São Gonçalo, Estado do Rio de Janeiro.

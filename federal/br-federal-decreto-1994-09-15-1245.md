@@ -1,7 +1,3 @@
-1
-
-###DEC-001245-0-000-15-09-1994@@@
-
 DECRETO Nº 1.245, DE 15 DE SETEMBRO DE 1994
 
 Aprova alteração do Estatuto Social da Petróleo Brasileiro S.A.-PETROBRÁS.

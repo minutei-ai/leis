@@ -1,5 +1,3 @@
-###DEC-007185-0-000-27-05-2010@@@
-
 DECRETO Nº 7.185, DE 27 DE MAIO DE 2010.
 
 Dispõe sobre o padrão mínimo de qualidade do sistema integrado de administração financeira e controle, no âmbito de cada ente da Federação, nos termos do art. 48, parágrafo único, inciso III, da Lei Complementar no 101, de 4 de maio de 2000, e dá outras providências

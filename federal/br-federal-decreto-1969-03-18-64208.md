@@ -1,5 +1,3 @@
-###DEC-064208-0-000-18-03-1969@@@
-
 DECRETO Nº 64.208, de 18 de março de 1969.
 
 Declara de utilidade pública a Escola Normal e Ginásio "Madre Tereza Michel", com sede em Criciúma, Estado de Santa Catarina.

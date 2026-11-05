@@ -1,5 +1,3 @@
-###DEC-007239-0-000-26-07-2010@@@
-
 DECRETO Nº 7.239, DE 26 DE JULHO DE 2010
 
 Promulga o Ajuste Complementar ao Acordo para Permissão de Residência, Estudo e Trabalho a Nacionais Fronteiriços Brasileiros e Uruguaios, para Prestação de Serviços de Saúde, firmado no Rio de Janeiro, em 28 de novembro de 2008.

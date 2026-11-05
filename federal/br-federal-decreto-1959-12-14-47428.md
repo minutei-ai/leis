@@ -1,14 +1,12 @@
-###DEC-047428-0-000-14-12-1959@@@
+**DECRETO Nº 47.428, DE 14 DE DEZEMBRO DE 1959.**
 
-<strong>DECRETO Nº 47.428, DE 14 DE DEZEMBRO DE 1959.</strong>
+***Transfere sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerário-Mensalista do Ministério da Guerra, que menciona.***
 
-<em><strong>Transfere sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerário-Mensalista do Ministério da Guerra, que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidos, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumérarios-Mensalista do Ministério da Guerra, abaixo indicadas:
+**Art**. 1º Ficam transferidos, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumérarios-Mensalista do Ministério da Guerra, abaixo indicadas:
 
 I - duas (2) funções de Artífice, referência 21, excedentes, ocupadas por Amilcar Anibal Cogliatti e Hamilton Alves de Carvalho, uma da Tabela Numérica Especial de Extra-Numerário-Mensalista do Parque Central de Motomecanização e a outra de igual tabela do parque Central do Material de Comunicação, ambas par idênticas da Fábrica do Realengo e Campo de Provas da Marambaia;
 
@@ -22,12 +20,12 @@ V - uma (1) função de Servente, referência 21, excedente, ocupada por Paulino
 
 Parágrafo único. As funções excedentes a que se refere os itens I, III, IV, e V dêste artigo, continuarão como excedentes nas novas tabelas.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 14 de dezembro de 1959, 138º da Independência e 71º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

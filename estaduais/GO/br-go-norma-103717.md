@@ -88,12 +88,14 @@ Art. 4º  O comparativo será realizado em 2 (dois) períodos mensais, previame
 
 § 2º  Caso a Unidade Central identifique lançamentos inconsistentes durante a conferência, fica autorizada a excluí-los, sem prejuízo da comunicação do fato à Unidade Setorial e do devido cadastramento no mês subsequente, se for o caso.
 
-§ 3º Além dos documentos anexados no comparativo, a Unidade Central poderá, a qualquer momento, requisitar informações ou documentos adicionais quanto às inclusões ou às alterações na folha de pagamento, e eles deverão ser remetidos tempestivamente pela Unidade Setorial, sob pena de exclusão do lançamento até sua regularização.<br>
+§ 3º Além dos documentos anexados no comparativo, a Unidade Central poderá, a qualquer momento, requisitar informações ou documentos adicionais quanto às inclusões ou às alterações na folha de pagamento, e eles deverão ser remetidos tempestivamente pela Unidade Setorial, sob pena de exclusão do lançamento até sua regularização.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 3º Além dos documentos colacionados no comparativo, a Unidade Central poderá, a qualquer momento, requisitar informações ou documentos adicionais quanto às inclusões ou alterações na folha de pagamento.~~
 
-§ 4º  As documentações referentes ao comparativo deverão ser enviadas pelo SEI de acordo com as normas definidas pela Unidade Central, sob pena de devolução para a adequação.<br>
+§ 4º  As documentações referentes ao comparativo deverão ser enviadas pelo SEI de acordo com as normas definidas pela Unidade Central, sob pena de devolução para a adequação.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 4º  As documentações referentes ao comparativo deverão ser enviadas por meio do sistema SEI da Unidade Setorial diretamente à Unidade Central.~~
@@ -112,7 +114,8 @@ Seção I
 
 Da vigência dos atos
 
-Art. 6º Os atos instituidores ou concessivos que necessitem de inclusão no sistema RHNet terão vigência a partir da data de sua assinatura ou publicação, conforme o caso, quando estiverem relacionados com:<br>
+Art. 6º Os atos instituidores ou concessivos que necessitem de inclusão no sistema RHNet terão vigência a partir da data de sua assinatura ou publicação, conforme o caso, quando estiverem relacionados com:
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 6º  Os atos instituidores ou concessivos que necessitem ser incluídos no sistema RHNet terão vigência a partir da data de sua edição, quando estiverem relacionados com:~~
@@ -127,37 +130,48 @@ IV – indenização; e
 
 V – adicional.
 
-VI – funções comissionadas em geral.<br>
+VI – funções comissionadas em geral.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 1º A Unidade Setorial que receber ato em discordância com o prazo estipulado no caput deste artigo deverá retorná-lo à unidade emitente para a confecção de novo ato, sem prejuízo ao disposto no § 3º deste artigo.<br>
+§ 1º A Unidade Setorial que receber ato em discordância com o prazo estipulado no caput deste artigo deverá retorná-lo à unidade emitente para a confecção de novo ato, sem prejuízo ao disposto no § 3º deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º O ato de designação das funções comissionadas em geral, da Gratificação do Sistema Estruturador das Redes de Gestão – GRG, ou equivalentes, fica condicionado à prévia comprovação de ficha limpa, nos termos dos incisos I e II do § 2º do art. 93 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.<br>
+§ 2º O ato de designação das funções comissionadas em geral, da Gratificação do Sistema Estruturador das Redes de Gestão – GRG, ou equivalentes, fica condicionado à prévia comprovação de ficha limpa, nos termos dos incisos I e II do § 2º do art. 93 da [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 3º Se o ato de instituição ou concessão de que tratam os incisos I ao VI do caput deste artigo for assinado quando não houver a possibilidade da inclusão no RHNet para o pagamento no mês de referência, nele deverá constar expressamente que a respectiva instituição ou a concessão terá vigência a partir do dia 1º do mês subsequente.<br>
+§ 3º Se o ato de instituição ou concessão de que tratam os incisos I ao VI do caput deste artigo for assinado quando não houver a possibilidade da inclusão no RHNet para o pagamento no mês de referência, nele deverá constar expressamente que a respectiva instituição ou a concessão terá vigência a partir do dia 1º do mês subsequente.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-~~Parágrafo único.  A Unidade Setorial que receber ato em discordância com o prazo estipulado no caput deste artigo deverá retorná-lo à unidade emitente para a confecção de novo ato.~~<br>
+~~Parágrafo único.  A Unidade Setorial que receber ato em discordância com o prazo estipulado no caput deste artigo deverá retorná-lo à unidade emitente para a confecção de novo ato.~~
+
 \- [Revogado pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700) , art. 4°, II, a.
 
-Art. 6º-A É vedado editar atos de nomeação, admissão ou contratação, posse ou exercício, movimentação de pessoal com efeito retroativo, e tornar sem efeito atos de exoneração, exceto para a correção de atos com vícios destinada à regularização da situação funcional do servidor.<br>
+Art. 6º-A É vedado editar atos de nomeação, admissão ou contratação, posse ou exercício, movimentação de pessoal com efeito retroativo, e tornar sem efeito atos de exoneração, exceto para a correção de atos com vícios destinada à regularização da situação funcional do servidor.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 1º A administração definirá a data do início de efetivo exercício do servidor empossado, a qual ocorrerá até 30 (trinta) dias após a posse, preferencialmente no início do mês subsequente, nos termos do § 2º do art. 24 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 1º A administração definirá a data do início de efetivo exercício do servidor empossado, a qual ocorrerá até 30 (trinta) dias após a posse, preferencialmente no início do mês subsequente, nos termos do § 2º do art. 24 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º Quando o servidor se apresentar ao órgão ou à entidade em período que impossibilite sua inclusão no Sistema da Folha de Pagamento para o pagamento no mês de referência, deverá constar expressamente no termo de exercício que os efeitos serão transferidos para o dia 1º do mês subsequente.<br>
+§ 2º Quando o servidor se apresentar ao órgão ou à entidade em período que impossibilite sua inclusão no Sistema da Folha de Pagamento para o pagamento no mês de referência, deverá constar expressamente no termo de exercício que os efeitos serão transferidos para o dia 1º do mês subsequente.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 3º Excepcionalmente, quando for devidamente justificado pelo titular do órgão ou da entidade, ou por autoridade a ele equivalente, observado o interesse público, o exercício do servidor de que trata o § 2º deste artigo poderá ser imediato.<br>
+§ 3º Excepcionalmente, quando for devidamente justificado pelo titular do órgão ou da entidade, ou por autoridade a ele equivalente, observado o interesse público, o exercício do servidor de que trata o § 2º deste artigo poderá ser imediato.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Art. 6º-B Qualquer ato de investidura em cargo ou função pública da administração direta, autárquica e fundacional do Poder Executivo estadual, inclusive de pessoas sem vínculo, deverá ser precedido de consulta à Qualificação Cadastral no portal do Sistema de Escrituração Digital das Obrigações Fiscais Previdenciárias e Trabalhistas – eSocial.<br>
+Art. 6º-B Qualquer ato de investidura em cargo ou função pública da administração direta, autárquica e fundacional do Poder Executivo estadual, inclusive de pessoas sem vínculo, deverá ser precedido de consulta à Qualificação Cadastral no portal do Sistema de Escrituração Digital das Obrigações Fiscais Previdenciárias e Trabalhistas – eSocial.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Parágrafo único. Caso o resultado da consulta à Qualificação Cadastral do eSocial apresente divergência nos dados, a continuidade do ato ficará suspensa até sua regularização, observados os limites de prazo legalmente estabelecidos.<br>
+Parágrafo único. Caso o resultado da consulta à Qualificação Cadastral do eSocial apresente divergência nos dados, a continuidade do ato ficará suspensa até sua regularização, observados os limites de prazo legalmente estabelecidos.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Seção II
@@ -214,20 +228,24 @@ VI – qualquer pendência funcional que impeça ou dificulte a consecução de 
 
 § 2º  Resolvida a pendência de que tratam os incisos do caput deste artigo, o pagamento será desbloqueado e o sistema RHNet enviará mensagem ao servidor para notificá-lo de que a pendência foi regularizada e que o seu salário será creditado em até 48 (quarenta e oito) horas úteis.
 
-Art. 14. Independentemente do motivo, a remuneração do servidor somente poderá ser bloqueada por 1 (um) mês, e sua suspensão deverá ocorrer a partir do mês seguinte até que haja a regularização da situação funcional que motivou o bloqueio.<br>
+Art. 14. Independentemente do motivo, a remuneração do servidor somente poderá ser bloqueada por 1 (um) mês, e sua suspensão deverá ocorrer a partir do mês seguinte até que haja a regularização da situação funcional que motivou o bloqueio.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 14.  Independentemente do motivo, a remuneração do servidor que permanecer bloqueada por 2 (dois) meses consecutivos será suspensa até a regularização da situação funcional que ensejou o bloqueio.~~
 
-~~§ 1º  Se a situação não for regularizada e os pagamentos continuarem bloqueados, eles serão recolhidos aos cofres públicos, conforme estabelecido no calendário de que trata o inciso V do art. 1º deste Decreto.~~<br>
+~~§ 1º  Se a situação não for regularizada e os pagamentos continuarem bloqueados, eles serão recolhidos aos cofres públicos, conforme estabelecido no calendário de que trata o inciso V do art. 1º deste Decreto.~~
+
 \- [Revogado pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700), art. 4°, II, b.
 
-§ 2º Caso a situação motivadora do bloqueio seja regularizada após a suspensão, o procedimento para o pagamento das diferenças salarias seguirá o rito definido pela Unidade Central.<br>
+§ 2º Caso a situação motivadora do bloqueio seja regularizada após a suspensão, o procedimento para o pagamento das diferenças salarias seguirá o rito definido pela Unidade Central.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 2º  Caso a situação que ensejou o bloqueio seja regularizada após a suspensão ou o recolhimento, o procedimento para pagamento seguirá aquele definido para as diferenças salariais.~~
 
-§ 3º A Unidade Setorial deverá utilizar todos os meios possíveis, preferencialmente o eletrônico, para cientificar antecipadamente o servidor de que sua remuneração será bloqueada ou suspensa.<br>
+§ 3º A Unidade Setorial deverá utilizar todos os meios possíveis, preferencialmente o eletrônico, para cientificar antecipadamente o servidor de que sua remuneração será bloqueada ou suspensa.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 CAPÍTULO V
@@ -242,20 +260,24 @@ Art. 15.  É facultado ao servidor, observados os critérios da oportunidade e 
 
 Parágrafo único.  A possibilidade de que trata o caput deste artigo não altera o período aquisitivo de férias do servidor para o acerto financeiro nos casos que o exijam.
 
-Art. 15-A. O período aquisitivo de férias inicia-se na data do efetivo exercício do servidor empossado, nos termos do § 4º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, e será contado separadamente para cada vínculo do servidor.<br>
+Art. 15-A. O período aquisitivo de férias inicia-se na data do efetivo exercício do servidor empossado, nos termos do § 4º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, e será contado separadamente para cada vínculo do servidor.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Parágrafo único. No caso de servidor ocupante de cargo de provimento efetivo, empregado público permanente ou militar nomeado para ocupar cargo em comissão, será aplicado o disposto no caput deste artigo para cada um dos vínculos isoladamente, inclusive para o acerto financeiro.<br>
+Parágrafo único. No caso de servidor ocupante de cargo de provimento efetivo, empregado público permanente ou militar nomeado para ocupar cargo em comissão, será aplicado o disposto no caput deste artigo para cada um dos vínculos isoladamente, inclusive para o acerto financeiro.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Art. 16.  O benefício de que trata o caput do art. 15 deste Decreto pode ser aproveitado pelo servidor exonerado de um cargo de provimento efetivo ou em comissão e nomeado em outro, desde que entre o período não haja interrupção de exercício por prazo superior a 30 (trinta) dias, observado o disposto em seu parágrafo único.
 
-~~Parágrafo único.  O disposto no caput deste artigo se aplica ao contratado temporariamente que venha a ser nomeado em cargo efetivo ou em comissão.~~<br>
+~~Parágrafo único.  O disposto no caput deste artigo se aplica ao contratado temporariamente que venha a ser nomeado em cargo efetivo ou em comissão.~~
+
 \- [Revogado pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700) , art. 4°, II, c.
 
 Art. 17.  As férias deverão ser solicitadas com a antecedência mínima de 60 (sessenta) dias a contar do início do gozo.
 
-§ 1º Depois de pagas, as férias poderão ser suspensas somente por emergência pública, calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, licença para tratamento da saúde prejudicada, licença-maternidade e licença-paternidade, observado o disposto no § 2º do art. 132 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 1º Depois de pagas, as férias poderão ser suspensas somente por emergência pública, calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, licença para tratamento da saúde prejudicada, licença-maternidade e licença-paternidade, observado o disposto no § 2º do art. 132 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 1º  Depois de pagas, as férias só poderão ser suspensas por motivo de calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, licença para tratamento de saúde, licença-maternidade e licença-paternidade.~~
@@ -268,10 +290,12 @@ Art. 17.  As férias deverão ser solicitadas com a antecedência mínima de 60
 
 § 5º  Somente em caso de extrema necessidade comprovada, com evento que não se poderia prever ou evitar, o titular do órgão ou entidade poderá autorizar o gozo de férias solicitadas no decurso do mês de início da fruição, se forem observados os prazos no calendário da folha de pagamento, hipótese em que não haverá o pagamento antecipado do adicional de que trata o § 2º do art. 18 deste Decreto.
 
-§ 6º A autorização do titular do órgão ou da entidade de que trata os §§ 2º e 5º deste artigo poderá ser delegada.<br>
+§ 6º A autorização do titular do órgão ou da entidade de que trata os §§ 2º e 5º deste artigo poderá ser delegada.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 7º Ficam dispensados da comprovação de extrema necessidade e da autorização do titular do órgão ou da entidade de que trata o § 5º deste artigo os ocupantes de cargos das estruturas básica e complementar, desde que seja observado o calendário da folha de pagamento.<br>
+§ 7º Ficam dispensados da comprovação de extrema necessidade e da autorização do titular do órgão ou da entidade de que trata o § 5º deste artigo os ocupantes de cargos das estruturas básica e complementar, desde que seja observado o calendário da folha de pagamento.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Art. 18.  As férias do servidor ou empregado público requisitado externo, assim compreendido o oriundo de órgãos ou de entidades dos Poderes da União, do Estado de Goiás ou de outros estados, do Distrito Federal ou dos municípios, bem como de órgãos autônomos, que esteja em exercício nos órgãos ou entidades do Poder Executivo estadual, por disposição ou cessão, seguirão as regras de parcelamento do gozo estabelecidas em seu órgão ou entidade de origem.
@@ -286,53 +310,66 @@ Seção II
 
 Da suspensão de férias e licenças
 
-Art. 19. Em caso de emergência pública, calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, licença para tratamento da saúde prejudicada, licença-maternidade ou licença-paternidade superveniente às férias em usufruto, a Unidade Setorial deverá incluir no sistema RHNet a ocorrência suspensiva ao afastamento vigente.<br>
+Art. 19. Em caso de emergência pública, calamidade pública, comoção interna, convocação para júri, serviço militar ou eleitoral, licença para tratamento da saúde prejudicada, licença-maternidade ou licença-paternidade superveniente às férias em usufruto, a Unidade Setorial deverá incluir no sistema RHNet a ocorrência suspensiva ao afastamento vigente.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 19.  Em caso de licença para tratamento de saúde, licença-maternidade ou licença-paternidade superveniente a férias em usufruto, a Unidade Setorial deverá incluir no sistema RHNet ocorrência suspensiva ao afastamento vigente.~~
 
-§ 1º O restante do período suspenso será gozado de uma só vez, imediatamente após a cessação do evento que tenha dado causa à suspensão, nos termos do § 1º do art. 132 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 1º O restante do período suspenso será gozado de uma só vez, imediatamente após a cessação do evento que tenha dado causa à suspensão, nos termos do § 1º do art. 132 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Constituído § 1°, com nova redação pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Parágrafo único.  A fruição das férias será restabelecida a partir do 1º dia útil subsequente ao término da licença para tratamento de saúde, licença-maternidade ou licença-paternidade.~~
 
-§ 2º Fica vedada a suspensão de qualquer tipo de licença ou afastamento, salvo ela se estiver expressamente prevista em lei, sob pena de responsabilização da autoridade competente, nos termos do § 2º do art. 132 da [Lei 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 2º Fica vedada a suspensão de qualquer tipo de licença ou afastamento, salvo ela se estiver expressamente prevista em lei, sob pena de responsabilização da autoridade competente, nos termos do § 2º do art. 132 da [Lei 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Seção III
 
 Do pagamento de substituição
 
-Art. 20. O pagamento de substituição nos casos de afastamento ou impedimento legal ou regulamentar do ocupante de cargo em comissão de direção, chefia ou assessoramento integrante da estrutura básica ou complementar será equivalente a 60% (sessenta por cento) do subsídio fixado para o cargo em comissão que vier a substituir, proporcionalmente aos dias da efetiva substituição, sem prejuízo à remuneração do cargo ou da função que ocupa.<br>
+Art. 20. O pagamento de substituição nos casos de afastamento ou impedimento legal ou regulamentar do ocupante de cargo em comissão de direção, chefia ou assessoramento integrante da estrutura básica ou complementar será equivalente a 60% (sessenta por cento) do subsídio fixado para o cargo em comissão que vier a substituir, proporcionalmente aos dias da efetiva substituição, sem prejuízo à remuneração do cargo ou da função que ocupa.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 20.  O pagamento de substituição em caso de afastamento de ocupante de cargo em comissão de direção, chefia ou assessoramento superior se dará de forma proporcional aos dias de efetiva substituição e dentro do mês a que se destina, ainda que se trate de afastamento motivado por gozo de férias.~~
 
-§ 1º É vedado o pagamento de substituição em cascata, nos termos do § 1º do art. 32 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 1º É vedado o pagamento de substituição em cascata, nos termos do § 1º do art. 32 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448 de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º É vedada a designação de servidores para responderem por cargo vago.<br>
+§ 2º É vedada a designação de servidores para responderem por cargo vago.
+
 \- [Acrescido pelo Decreto nº 10.448 de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 3º Não é devida a complementação de que trata o inciso II do art. 92 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, nos casos de substituição.<br>
+§ 3º Não é devida a complementação de que trata o inciso II do art. 92 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, nos casos de substituição.
+
 \- [Acrescido pelo Decreto nº 10.448 de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-~~Parágrafo único.  O substituto perceberá, durante o tempo da substituição:~~<br>
+~~Parágrafo único.  O substituto perceberá, durante o tempo da substituição:~~
+
 \- [Revogado pelo Decreto nº 10.448 de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700) , art. 4°, II, d.
 
-~~I – se efetivo, o subsídio ou a remuneração do cargo de que for titular efetivo, cumulativamente com o equivalente a 60% (sessenta por cento) do subsídio fixado para o cargo em comissão que vier a substituir, assegurada complementação até o valor dele, se do somatório resultar quantia inferior, e será deduzido o valor do cargo em comissão ou da função comissionada que ocupe, se for o caso; ou~~<br>
+~~I – se efetivo, o subsídio ou a remuneração do cargo de que for titular efetivo, cumulativamente com o equivalente a 60% (sessenta por cento) do subsídio fixado para o cargo em comissão que vier a substituir, assegurada complementação até o valor dele, se do somatório resultar quantia inferior, e será deduzido o valor do cargo em comissão ou da função comissionada que ocupe, se for o caso; ou~~
+
 \- [Revogado pelo Decreto nº 10.448 de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700) , art. 4°, II, d.
 
-~~II – se puramente comissionado, a diferença necessária para completar o subsídio do cargo em comissão do substituído.~~<br>
+~~II – se puramente comissionado, a diferença necessária para completar o subsídio do cargo em comissão do substituído.~~
+
 \- [Revogado pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700) , art. 4°, II, d.
 
-Art. 20-A. A função comissionada ou a GRG será passível de substituição apenas nos casos de férias, luto, licença-maternidade, licença-paternidade, casamento e, até o limite de 120 (cento e vinte) dias, licença para o tratamento da própria saúde prejudicada, excluídos quaisquer outros, também deverá ser efetivada por portaria subscrita pelo titular do órgão ou da entidade para designar a substituição.<br>
+Art. 20-A. A função comissionada ou a GRG será passível de substituição apenas nos casos de férias, luto, licença-maternidade, licença-paternidade, casamento e, até o limite de 120 (cento e vinte) dias, licença para o tratamento da própria saúde prejudicada, excluídos quaisquer outros, também deverá ser efetivada por portaria subscrita pelo titular do órgão ou da entidade para designar a substituição.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 1º Fica dispensada a publicação da portaria de que trata o _caput_ deste artigo no Diário Oficial do Estado de Goiás.<br>
+§ 1º Fica dispensada a publicação da portaria de que trata o _caput_ deste artigo no Diário Oficial do Estado de Goiás.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º Em caso de acumulação de função comissionada ou GRG, o valor da substituição será a diferença entre as duas, e caso a função ou a gratificação substituída seja maior, o valor será proporcional aos dias de substituição.<br>
+§ 2º Em caso de acumulação de função comissionada ou GRG, o valor da substituição será a diferença entre as duas, e caso a função ou a gratificação substituída seja maior, o valor será proporcional aos dias de substituição.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Seção IV
@@ -413,38 +450,44 @@ DO ACERTO FINANCEIRO DE SERVIDOR DISPENSADO OU DESLIGADO
 
 Art. 27.  Nos casos de demissão, exoneração, aposentadoria ou vacância, o servidor tem direito de receber os créditos a que faz jus até a data do evento, isto é, até o dia anterior ao do ato do seu desligamento.
 
-§ 1º O disposto neste artigo aplica-se, inclusive, aos casos de dispensa da função comissionada, de GRG ou de exoneração de cargo em comissão, quando:<br>
+§ 1º O disposto neste artigo aplica-se, inclusive, aos casos de dispensa da função comissionada, de GRG ou de exoneração de cargo em comissão, quando:
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 1º  O disposto neste artigo aplica-se, inclusive, aos casos de dispensa da função comissionada ou de exoneração de cargo em comissão, quando:~~
 
 I – seguidos de nomeações sucessivas; ou
 
-II – tratar– se de servidor, hipótese em que ele fará jus à percepção proporcional dos créditos decorrentes, inclusive o décimo terceiro salário e as férias, observado o disposto no art. 15 deste Decreto.<br>
+II – tratar– se de servidor, hipótese em que ele fará jus à percepção proporcional dos créditos decorrentes, inclusive o décimo terceiro salário e as férias, observado o disposto no art. 15 deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700) .
 
 ~~II – se tratar de servidor efetivo, hipótese em que faz jus à percepção proporcional dos créditos daí decorrentes, inclusive o décimo terceiro salário e as férias.~~
 
-§ 2º Apenas o período de exercício do encargo é considerado para o acerto do décimo terceiro salário e das férias do servidor dispensado de função comissionada ou GRG ou exonerado de cargo de provimento em comissão.<br>
+§ 2º Apenas o período de exercício do encargo é considerado para o acerto do décimo terceiro salário e das férias do servidor dispensado de função comissionada ou GRG ou exonerado de cargo de provimento em comissão.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 2º  Será considerado para o acerto de décimo terceiro salário e das férias de servidor dispensado de função comissionada ou exonerado de cargo de provimento em comissão apenas o período de exercício do encargo.~~
 
 § 3º  Nos casos de demissão, vacância ou exoneração de cargo de provimento efetivo ou em comissão, ou aposentadoria, tanto as férias não gozadas quanto as proporcionais deverão ser indenizadas com base na remuneração ou subsídio devido no mês da ocorrência do evento, com o acréscimo do adicional de férias.
 
-§ 4º Nos casos de dispensa de função comissionada ou GRG, o servidor fará jus à indenização das férias não gozadas ou proporcionais e de seu consequente adicional no mês do evento.<br>
+§ 4º Nos casos de dispensa de função comissionada ou GRG, o servidor fará jus à indenização das férias não gozadas ou proporcionais e de seu consequente adicional no mês do evento.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 4º  Nos casos de dispensa de função comissionada, o servidor efetivo fará jus à indenização das férias não gozadas ou proporcionais e do seu consequente adicional no mês do evento.~~
 
-§ 5º O servidor desligado após o usufruto das férias, com o período aquisitivo não adquirido, deverá devolver o valor correspondente, na proporção de 1/12 (um doze avos) por mês não trabalhado, nos termos do § 2º deste artigo e do parágrafo único do art. 15 deste Decreto.<br>
+§ 5º O servidor desligado após o usufruto das férias, com o período aquisitivo não adquirido, deverá devolver o valor correspondente, na proporção de 1/12 (um doze avos) por mês não trabalhado, nos termos do § 2º deste artigo e do parágrafo único do art. 15 deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 5º  O servidor desligado após o recebimento das férias, cujo período aquisitivo não tenha sido adquirido, deverá devolver o valor correspondente, na proporção de 1/12 (um doze avos) por mês não trabalhado, nos termos do § 2º deste artigo.~~
 
 § 6º  Ao servidor, nas situações de demissão, exoneração, vacância ou aposentadoria, será devido o décimo terceiro salário, na proporção de 1/12 (um doze avos) por mês de efetivo exercício, e terá como base de cálculo a remuneração percebida no mês de acerto do servidor, com a dedução do adiantamento, se for o caso.
 
-§ 7º Nos casos da dispensa de função comissionada ou da GRG, o servidor fará jus ao décimo terceiro salário na proporção de 1/12 (um doze avos) por mês de efetivo exercício, com a quitação dele na folha de pagamento de dezembro.<br>
+§ 7º Nos casos da dispensa de função comissionada ou da GRG, o servidor fará jus ao décimo terceiro salário na proporção de 1/12 (um doze avos) por mês de efetivo exercício, com a quitação dele na folha de pagamento de dezembro.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 7º  Nos casos de dispensa de função comissionada, o servidor efetivo fará jus ao décimo terceiro salário na proporção de 1/12 (um doze avos) por mês de efetivo exercício, com a quitação dele na folha de pagamento do mês de dezembro.~~
@@ -463,7 +506,8 @@ II – tratar– se de servidor, hipótese em que ele fará jus à percepção p
 
 § 14.  Não serão devidos acertos, na forma do § 13, relacionados à respectiva remuneração original do servidor conforme seu vínculo efetivo, em função do seu ônus ter ficado com a origem ou de já ter sido ressarcido pelo Estado de Goiás.
 
-§ 15. Caso o servidor tenha recebido o adiantamento de férias, com o período aquisitivo já adquirido, e seja desligado sem a respectiva fruição, ele devolverá o valor recebido antecipadamente e o receberá como férias indenizadas no acerto.<br>
+§ 15. Caso o servidor tenha recebido o adiantamento de férias, com o período aquisitivo já adquirido, e seja desligado sem a respectiva fruição, ele devolverá o valor recebido antecipadamente e o receberá como férias indenizadas no acerto.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 CAPÍTULO VII
@@ -500,40 +544,48 @@ DOS SERVIDORES CEDIDOS OU À DISPOSIÇÃO
 
 Art. 33.  O órgão ou a entidade que possuir servidor à disposição ou cedido poderá, a qualquer momento, requisitar ao cessionário fichas funcionais e financeiras, frequências e documentos comprobatórios de licenças ou de afastamentos ocorridos durante a disposição ou a cessão, sem prejuízo do que pode dispor norma específica.
 
-§ 1º Caberá ao órgão ou à entidade cessionária comunicar, o quanto antes, ao cedente qualquer alteração funcional de servidor cedido ou colocado a sua disposição, sob pena de revogação da movimentação.<br>
+§ 1º Caberá ao órgão ou à entidade cessionária comunicar, o quanto antes, ao cedente qualquer alteração funcional de servidor cedido ou colocado a sua disposição, sob pena de revogação da movimentação.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º É vedada a edição de ato de remoção, disposição ou cessão com data retroativa, salvo para corrigir atos com vícios e regularizar a situação funcional do servidor.<br>
+§ 2º É vedada a edição de ato de remoção, disposição ou cessão com data retroativa, salvo para corrigir atos com vícios e regularizar a situação funcional do servidor.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-~~Parágrafo único.  Caberá ao órgão ou à entidade cessionária comunicar, o quanto antes, ao cedente, qualquer alteração funcional de servidor cedido ou colocado à sua disposição, sob pena de revogação da movimentação.~~<br>
+~~Parágrafo único.  Caberá ao órgão ou à entidade cessionária comunicar, o quanto antes, ao cedente, qualquer alteração funcional de servidor cedido ou colocado à sua disposição, sob pena de revogação da movimentação.~~
+
 \- [Revogado pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700)  , art. 4°, II, e.
 
 CAPÍTULO IX
 
 DA LICENÇA PARA TRATAMENTO DE SAÚDE
 
-Art. 34. A licença médica dependente de inspeção pela Junta Médica Oficial do Estado deverá ser solicitada obrigatoriamente pelo servidor, por representante ou procurador no máximo de 3 (três) dias úteis da data do início de seu afastamento.<br>
+Art. 34. A licença médica dependente de inspeção pela Junta Médica Oficial do Estado deverá ser solicitada obrigatoriamente pelo servidor, por representante ou procurador no máximo de 3 (três) dias úteis da data do início de seu afastamento.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 34.  A perícia médica oficial do Estado, prevista para os casos de afastamentos que ultrapassem 3 (três) dias abonados por atestado médico deverá ser solicitada obrigatoriamente pelo servidor ou por representante ou procurador, no prazo de 10 (dez) dias úteis contados da data de início de seu afastamento.~~
 
-§ 1º A documentação comprobatória dos afastamentos por saúde prejudicada que não dependam de inspeção pela Junta Médica Oficial do Estado deverá ser encaminhada obrigatoriamente pelo servidor, por representante ou procurador no máximo de 3 (três) dias úteis da data do início de seu afastamento à Unidade Setorial ou à unidade designada pelo órgão ou pela entidade de exercício.<br>
+§ 1º A documentação comprobatória dos afastamentos por saúde prejudicada que não dependam de inspeção pela Junta Médica Oficial do Estado deverá ser encaminhada obrigatoriamente pelo servidor, por representante ou procurador no máximo de 3 (três) dias úteis da data do início de seu afastamento à Unidade Setorial ou à unidade designada pelo órgão ou pela entidade de exercício.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 1º  O atestado médico que prescinda de homologação pela Junta Médica Oficial do Estado deverá ser apresentado à chefia imediata no prazo máximo de 5 (cinco) dias contados da data do início do afastamento do servidor.~~
 
-§ 2º A não apresentação da documentação comprobatória no prazo estabelecido no § 1º deste artigo, salvo por motivo justificado, caracterizará falta injustificada ao serviço.<br>
+§ 2º A não apresentação da documentação comprobatória no prazo estabelecido no § 1º deste artigo, salvo por motivo justificado, caracterizará falta injustificada ao serviço.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 2º  A não apresentação do atestado no prazo estabelecido no § 1º deste artigo, salvo por motivo justificado, caracterizará falta injustificada ao serviço.~~
 
-§ 3º O laudo pericial emitido pela Junta Médica Oficial do Estado deverá ser encaminhado à Unidade Setorial de lotação até 3 (três) dias úteis da data da realização da perícia médica ou do ato pericial.<br>
+§ 3º O laudo pericial emitido pela Junta Médica Oficial do Estado deverá ser encaminhado à Unidade Setorial de lotação até 3 (três) dias úteis da data da realização da perícia médica ou do ato pericial.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 3º  O laudo pericial emitido pela Junta Médica Oficial do Estado deverá ser encaminhado à Unidade Setorial de lotação em até 5 (cinco) dias úteis contados da data de realização da perícia.~~
 
-Art. 35. Para a concessão de licença médica, o servidor submetido ao Regime Geral de Previdência Social – RGPS deverá solicitar, com o relatório do médico assistente, a emissão de laudo pericial à Junta Médica Oficial do Estado, no prazo previsto no caput do art. 34 deste Decreto.<br>
+Art. 35. Para a concessão de licença médica, o servidor submetido ao Regime Geral de Previdência Social – RGPS deverá solicitar, com o relatório do médico assistente, a emissão de laudo pericial à Junta Médica Oficial do Estado, no prazo previsto no caput do art. 34 deste Decreto.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 35.  Para a concessão de licença médica, o servidor submetido ao Regime Geral de Previdência Social – RGPS deverá solicitar, de posse do relatório médico assistente, a emissão de laudo pericial à Junta Médica Oficial do Estado, no prazo previsto no § 1º do art. 34 deste Decreto.~~
@@ -544,17 +596,20 @@ Art. 35. Para a concessão de licença médica, o servidor submetido ao Regime G
 
 § 3º  Caberá à Unidade Setorial cadastrar no sistema RHNet a ocorrência de licença médica, assim como suspender a remuneração do servidor pela quantidade de dias indicados pela Junta Médica Oficial do Estado, até haver a integração entre o Sistema de Acompanhamento a Licenças dos Servidores – SALIS e o sistema RHNet.
 
-§ 4º Ao receber o laudo pericial do INSS, a Unidade Setorial deverá analisar se a ocorrência indicada no § 3º deste artigo encontra-se em conformidade e, se não estiver, providenciará os acertos necessários.<br>
+§ 4º Ao receber o laudo pericial do INSS, a Unidade Setorial deverá analisar se a ocorrência indicada no § 3º deste artigo encontra-se em conformidade e, se não estiver, providenciará os acertos necessários.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 4º  Ao receber o laudo pericial do INSS, a Unidade Setorial invalidará no sistema RHNet a ocorrência de suspensão de pagamento e incluirá a ocorrência de licença para tratamento de saúde – RGPS.~~
 
 § 5º  O servidor regido pelo Regime Geral de Previdência Social – RGPS que, por não observância do prazo de entrega do atestado em tempo hábil, der causa ao pagamento indevido por mais de 15 (quinze dias) consecutivos, situação em que já estará amparado pela Previdência Social, deverá restituir ao erário os valores indevidamente auferidos, nos termos dos arts. 97 e 98 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
 
-§ 6º Os dias não trabalhados decorrentes da diferença de dias do atestado do médico assistente e da perícia médica não implicarão abandono de cargo.<br>
+§ 6º Os dias não trabalhados decorrentes da diferença de dias do atestado do médico assistente e da perícia médica não implicarão abandono de cargo.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Art. 36. O retorno antecipado ao trabalho do servidor em prazo inferior ao indicado no relatório do médico assistente ficará condicionado à apresentação do novo atestado da capacidade laborativa emitido pelo médico assistente.<br>
+Art. 36. O retorno antecipado ao trabalho do servidor em prazo inferior ao indicado no relatório do médico assistente ficará condicionado à apresentação do novo atestado da capacidade laborativa emitido pelo médico assistente.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~Art. 36.  Só poderá retornar ao trabalho em prazo inferior ao indicado no relatório do médico assistente o servidor do regime geral de previdência social que apresentar laudo pericial do INSS que ateste a sua capacidade laboradora.~~
@@ -657,12 +712,14 @@ Art. 44.  Em decorrência do disposto no art. 42 deste Decreto, é obrigatório
 
 § 5º  Os documentos em formato PDF ficarão disponíveis para posterior consulta pela Unidade Setorial no sistema próprio de recadastramento do Poder Executivo.
 
-§ 6º Fica dispensada a realização do recadastramento anual no primeiro ano do efetivo exercício do servidor.<br>
+§ 6º Fica dispensada a realização do recadastramento anual no primeiro ano do efetivo exercício do servidor.
+
 \- [Redação dada pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 ~~§ 6º  Não será obrigatória a realização do recadastramento anual no primeiro ano de efetivo exercício do servidor.~~
 
-§ 7º O disposto no § 2º deste artigo não se aplicará ao ano em que for instituído o Programa de Atualização Cadastral Anual na nova plataforma a ser disponibilizada pela central de gestão de pessoal, e o servidor deverá inserir em campo próprio do sistema cópia legível de todos os documentos exigidos.<br>
+§ 7º O disposto no § 2º deste artigo não se aplicará ao ano em que for instituído o Programa de Atualização Cadastral Anual na nova plataforma a ser disponibilizada pela central de gestão de pessoal, e o servidor deverá inserir em campo próprio do sistema cópia legível de todos os documentos exigidos.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Art. 45.  A Unidade Setorial poderá, a qualquer momento, solicitar a presença do servidor, munido de documentação original, para a verificação de dados ilegíveis ou fazer prova de vida.
@@ -683,113 +740,150 @@ Art. 48.  A não regularização cadastral no prazo de 4 (quatro) meses contado
 
 § 2º  Na hipótese de o servidor encontrar-se em gozo de licença ou afastamento regularmente previsto, o recadastramento anual poderá ocorrer no mês do seu aniversário ou, obrigatoriamente, no mês de retorno do afastamento.
 
-CAPÍTULO XII-A<br>
-DOS PROCEDIMENTOS ESPECIAIS<br>
+CAPÍTULO XII-A
+
+DOS PROCEDIMENTOS ESPECIAIS
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Seção I<br>
+Seção I
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Do adicional por serviço extraordinário<br>
+Do adicional por serviço extraordinário
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Art. 48-A. Para o pagamento do adicional por serviço extraordinário de que trata o art. 122 da Lei nº 20.756, de 2020, o processo deverá ser instruído obrigatoriamente com a prévia autorização do órgão central de gestão de pessoal.<br>
+Art. 48-A. Para o pagamento do adicional por serviço extraordinário de que trata o art. 122 da Lei nº 20.756, de 2020, o processo deverá ser instruído obrigatoriamente com a prévia autorização do órgão central de gestão de pessoal.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 1º Somente será permitida a prestação de serviço extraordinário para atender a situações excepcionais e temporárias em que não for possível a utilização do banco de horas, respeitado o limite máximo de 2 (duas) horas por jornada diária e 60 (sessenta) horas mensais.<br>
+§ 1º Somente será permitida a prestação de serviço extraordinário para atender a situações excepcionais e temporárias em que não for possível a utilização do banco de horas, respeitado o limite máximo de 2 (duas) horas por jornada diária e 60 (sessenta) horas mensais.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º Quando se tratar da prestação de serviço extraordinário realizado em finais de semana e feriados, a jornada ficará limitada a 10 (dez) horas diárias.<br>
+§ 2º Quando se tratar da prestação de serviço extraordinário realizado em finais de semana e feriados, a jornada ficará limitada a 10 (dez) horas diárias.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 3º O processo com a planilha das horas extraordinárias deverá ser instruído, no mínimo, com os seguintes dados do servidor: CPF, nome, número de horas realizadas, remuneração base de cálculo, valor das horas extraordinárias e atesto da chefia imediata da realização das horas, sob pena de devolução para a regularização.<br>
+§ 3º O processo com a planilha das horas extraordinárias deverá ser instruído, no mínimo, com os seguintes dados do servidor: CPF, nome, número de horas realizadas, remuneração base de cálculo, valor das horas extraordinárias e atesto da chefia imediata da realização das horas, sob pena de devolução para a regularização.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 4º Compete à Unidade Central o lançamento do adicional por serviço extraordinário em folha de pagamento.<br>
+§ 4º Compete à Unidade Central o lançamento do adicional por serviço extraordinário em folha de pagamento.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 5º Fica vedado o pagamento do adicional por serviço extraordinário realizado antes da autorização de que trata o caput deste artigo.<br>
+§ 5º Fica vedado o pagamento do adicional por serviço extraordinário realizado antes da autorização de que trata o caput deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
- Seção II<br>
+ Seção II
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Do auxílio funeral<br>
+Do auxílio funeral
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Art. 48-B. O auxílio funeral de que trata o art. 112 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, será pago integralmente, por procedimento sumaríssimo, à pessoa da família que comprovadamente houver custeado o funeral.<br>
+Art. 48-B. O auxílio funeral de que trata o art. 112 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, será pago integralmente, por procedimento sumaríssimo, à pessoa da família que comprovadamente houver custeado o funeral.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 1º A comprovação do custeio do funeral ocorrerá com a apresentação de notas fiscais.<br>
+§ 1º A comprovação do custeio do funeral ocorrerá com a apresentação de notas fiscais.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º A solicitação do auxílio funeral deverá ser instruída obrigatoriamente com os seguintes documentos:<br>
+§ 2º A solicitação do auxílio funeral deverá ser instruída obrigatoriamente com os seguintes documentos:
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-I – requerimento formulado pelo interessado;<br>
+I – requerimento formulado pelo interessado;
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-II – cópia da certidão de registro civil e do CPF do ex servidor e do requerente;<br>
+II – cópia da certidão de registro civil e do CPF do ex servidor e do requerente;
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-III – cópia da certidão de óbito do ex servidor;<br>
+III – cópia da certidão de óbito do ex servidor;
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-IV – cópia dos documentos que comprovem o grau de parentesco com o ex servidor, se isso for aplicável;<br>
+IV – cópia dos documentos que comprovem o grau de parentesco com o ex servidor, se isso for aplicável;
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-V – certidão de casamento atualizada, se isso for aplicável;<br>
+V – certidão de casamento atualizada, se isso for aplicável;
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-VI – dados da conta bancária para o pagamento do auxílio funeral;<br>
+VI – dados da conta bancária para o pagamento do auxílio funeral;
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-VII – procuração com firma reconhecida, com cópias dos documentos pessoais do procurador e do outorgante, caso se trate de requerimento por procuração; e<br>
+VII – procuração com firma reconhecida, com cópias dos documentos pessoais do procurador e do outorgante, caso se trate de requerimento por procuração; e
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-VIII – decisão judicial que homologou a união estável, caso se trate de declaração de união estável post mortem.<br>
+VIII – decisão judicial que homologou a união estável, caso se trate de declaração de união estável post mortem.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 3º Se o funeral for custeado por terceiro, serão aplicadas as regras do art. 113 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 3º Se o funeral for custeado por terceiro, serão aplicadas as regras do art. 113 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Seção III<br>
+Seção III
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Da indenização de férias<br>
+Da indenização de férias
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Art. 48-C. A indenização de férias de que trata o § 5º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, será paga aos ocupantes de cargos de provimento em comissão integrantes das estruturas básica e complementar de órgão ou entidade que, por necessidade do serviço, não tiverem condições de usufruir as férias.<br>
+Art. 48-C. A indenização de férias de que trata o § 5º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, será paga aos ocupantes de cargos de provimento em comissão integrantes das estruturas básica e complementar de órgão ou entidade que, por necessidade do serviço, não tiverem condições de usufruir as férias.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 1º Aos servidores que possuírem mais de 2 (dois) períodos aquisitivos adquiridos, vencidos e não usufruídos até 31 de dezembro de 2023, será facultado solicitar ao titular do órgão ou da entidade de lotação, até essa data, em processo individualizado no SEI, a indenização do excedente a 2 (dois) períodos aquisitivos, que será paga em janeiro de 2024, sem a incidência de juros e correção monetária, observado o caput deste artigo.<br>
+§ 1º Aos servidores que possuírem mais de 2 (dois) períodos aquisitivos adquiridos, vencidos e não usufruídos até 31 de dezembro de 2023, será facultado solicitar ao titular do órgão ou da entidade de lotação, até essa data, em processo individualizado no SEI, a indenização do excedente a 2 (dois) períodos aquisitivos, que será paga em janeiro de 2024, sem a incidência de juros e correção monetária, observado o caput deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 2º Caso a solicitação de indenização das férias de que trata o § 1º deste artigo pelo servidor seja posterior a 31 de dezembro de 2023, o pagamento será realizado no mês subsequente ao da manifestação da anuência do titular do órgão ou da entidade, em observância ao disposto no § 6º do art. 294 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 2º Caso a solicitação de indenização das férias de que trata o § 1º deste artigo pelo servidor seja posterior a 31 de dezembro de 2023, o pagamento será realizado no mês subsequente ao da manifestação da anuência do titular do órgão ou da entidade, em observância ao disposto no § 6º do art. 294 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 3º Caso não haja, até 30 de junho de 2024, a solicitação pelo servidor da indenização das férias de que trata o § 1º deste artigo será aplicada a regra geral disposta no art. 294 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 3º Caso não haja, até 30 de junho de 2024, a solicitação pelo servidor da indenização das férias de que trata o § 1º deste artigo será aplicada a regra geral disposta no art. 294 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 4º As férias vencidas a partir de janeiro de 2024 e superiores a 2 (dois) períodos aquisitivos poderão ser indenizadas, se isso for solicitado ao titular do órgão ou da entidade de lotação do servidor até 60 (sessenta) dias antes de completar o 3º (terceiro) período aquisitivo, e o pagamento será realizado no mês seguinte ao de seu adimplemento, obedecido o calendário da folha de pagamento, nos termos do § 6º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 4º As férias vencidas a partir de janeiro de 2024 e superiores a 2 (dois) períodos aquisitivos poderão ser indenizadas, se isso for solicitado ao titular do órgão ou da entidade de lotação do servidor até 60 (sessenta) dias antes de completar o 3º (terceiro) período aquisitivo, e o pagamento será realizado no mês seguinte ao de seu adimplemento, obedecido o calendário da folha de pagamento, nos termos do § 6º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 5º No caso de servidor ocupante de cargo de provimento efetivo nomeado para ocupar cargo em comissão da estrutura básica ou complementar, a indenização das férias superiores a 2 (dois) períodos aquisitivos será paga para cada um dos vínculos isoladamente.<br>
+§ 5º No caso de servidor ocupante de cargo de provimento efetivo nomeado para ocupar cargo em comissão da estrutura básica ou complementar, a indenização das férias superiores a 2 (dois) períodos aquisitivos será paga para cada um dos vínculos isoladamente.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 6º O processo SEI deverá ser encaminhado à Unidade Setorial do órgão ou da entidade de lotação do servidor para a validação dos períodos aquisitivos adquiridos, nos termos deste decreto, para o cálculo das férias indenizadas indenizáveis e para subsidiar a deliberação do titular do órgão ou da entidade.<br>
+§ 6º O processo SEI deverá ser encaminhado à Unidade Setorial do órgão ou da entidade de lotação do servidor para a validação dos períodos aquisitivos adquiridos, nos termos deste decreto, para o cálculo das férias indenizadas indenizáveis e para subsidiar a deliberação do titular do órgão ou da entidade.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 7º No caso da negativa do titular do órgão ou da entidade ou de não realização da solicitação no prazo a que se referem os §§ 1º e 2º deste artigo, as férias deverão ser concedidas de ofício, sem prejuízo ao disposto no § 9º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, vedada a indenização posterior.<br>
+§ 7º No caso da negativa do titular do órgão ou da entidade ou de não realização da solicitação no prazo a que se referem os §§ 1º e 2º deste artigo, as férias deverão ser concedidas de ofício, sem prejuízo ao disposto no § 9º do art. 128 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, vedada a indenização posterior.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 8º Caso haja a autorização do titular do órgão ou da entidade, a Unidade Setorial deverá encaminhar o processo à Unidade Central com toda a documentação comprobatória para o lançamento no RHNet, obedecido o calendário da folha de pagamento.<br>
+§ 8º Caso haja a autorização do titular do órgão ou da entidade, a Unidade Setorial deverá encaminhar o processo à Unidade Central com toda a documentação comprobatória para o lançamento no RHNet, obedecido o calendário da folha de pagamento.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 9º A indenização de que trata o caput deste artigo será do período integral das férias, vedado o fracionamento, com o cálculo para cada vínculo do servidor e baseado na remuneração devida ao servidor no mês de ocorrência do efetivo pagamento, nos termos do § 7º do art. 128, da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+§ 9º A indenização de que trata o caput deste artigo será do período integral das férias, vedado o fracionamento, com o cálculo para cada vínculo do servidor e baseado na remuneração devida ao servidor no mês de ocorrência do efetivo pagamento, nos termos do § 7º do art. 128, da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-§ 10. Caso o servidor tenha iniciado o gozo parcelado de um período aquisitivo, deverá usufruir todo o período aquisitivo restante antes de solicitar a indenização de que trata o caput deste artigo.<br>
+§ 10. Caso o servidor tenha iniciado o gozo parcelado de um período aquisitivo, deverá usufruir todo o período aquisitivo restante antes de solicitar a indenização de que trata o caput deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 CAPÍTULO XIII
@@ -798,25 +892,30 @@ CAPÍTULO XIII
 
 Art. 49.  As disposições deste Decreto se aplicam em plenitude aos efetivos, aos comissionados e aos demais, no que couber, em observância à legislação de regência.
 
-~~Art. 50.  As medidas que se referem à atualização cadastral anual, dispostas nos arts. 40 a 44 deste Decreto, terão validade a partir do mês de janeiro do próximo exercício.~~<br>
+~~Art. 50.  As medidas que se referem à atualização cadastral anual, dispostas nos arts. 40 a 44 deste Decreto, terão validade a partir do mês de janeiro do próximo exercício.~~
+
 \- [Revogado pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700), art. 4°, II, f.
 
 Art. 51.  As empresas públicas e as sociedades de economia mista do Estado de Goiás devem fornecer as informações gerenciais necessárias, sempre que forem solicitadas pela Unidade Central.
 
-Art. 51-A. Compete à Secretaria de Estado da Administração – SEAD, pela Gerência de Governança de Estatais, o acompanhamento mensal da evolução da folha de pagamento de pessoal das empresas estatais dependentes que não processam a folha no sistema RHNet.<br>
+Art. 51-A. Compete à Secretaria de Estado da Administração – SEAD, pela Gerência de Governança de Estatais, o acompanhamento mensal da evolução da folha de pagamento de pessoal das empresas estatais dependentes que não processam a folha no sistema RHNet.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Parágrafo único. Ato do titular da SEAD definirá o formato, a periodicidade e o meio de envio das informações da despesa de pessoal das empresas de que trata o caput deste artigo, com a possibilidade de ser requisitado o histórico de até 5 (cinco) anos.<br>
+Parágrafo único. Ato do titular da SEAD definirá o formato, a periodicidade e o meio de envio das informações da despesa de pessoal das empresas de que trata o caput deste artigo, com a possibilidade de ser requisitado o histórico de até 5 (cinco) anos.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Art. 52.  Será promovida a responsabilização disciplinar cabível às autoridades e aos servidores que, de qualquer forma, contribuírem para o descumprimento do disposto neste Decreto ou agirem com má-fé, negligência, imperícia ou imprudência nos atos atinentes ao processamento da folha de pagamento.
 
 Parágrafo único. A responsabilização destacada no caput deste artigo ocorrerá sem prejuízo da obrigação de repor aos cofres públicos as importâncias indevidamente pagas ou recebidas, nos termos da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
 
-Art. 52-A. Na hipótese de interrupção da licença de que trata o art. 163 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, a pedido ou a critério da administração, o servidor deverá se apresentar em seu órgão ou entidade de origem.<br>
+Art. 52-A. Na hipótese de interrupção da licença de que trata o art. 163 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020, a pedido ou a critério da administração, o servidor deverá se apresentar em seu órgão ou entidade de origem.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
-Parágrafo único. Quando a interrupção da licença de que trata o caput deste artigo ocorrer a pedido do servidor, a administração definirá sua data de efetivo exercício, que deverá ser preferencialmente a partir do dia 1º do mês subsequente, observado o prazo do § 4º do art. 163 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.<br>
+Parágrafo único. Quando a interrupção da licença de que trata o caput deste artigo ocorrer a pedido do servidor, a administração definirá sua data de efetivo exercício, que deverá ser preferencialmente a partir do dia 1º do mês subsequente, observado o prazo do § 4º do art. 163 da [Lei nº 20.756](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100979), de 2020.
+
 \- [Acrescido pelo Decreto nº 10.448, de 19-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108700).
 
 Art. 53.  A Secretaria de Estado da Administração poderá editar normas complementares para operacionalizar a execução do disposto neste Decreto.

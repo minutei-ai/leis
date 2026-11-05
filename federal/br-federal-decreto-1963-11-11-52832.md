@@ -1,5 +1,3 @@
-###DEC-052832-0-000-11-11-1963@@@
-
 DECRETO Nº 52.832, DE 11 DE NOVEMBRO DE 1963.
 
 Autoriza emprêsa de mineração Ravena Mineração Ltda., a pesquisar minério de ferro no município de Sabará, Estado de Minas Gerais.

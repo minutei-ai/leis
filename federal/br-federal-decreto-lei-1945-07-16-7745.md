@@ -1,5 +1,3 @@
-###DEL-007745-0-000-16-07-1945@@@
-
 DECRETO-LEI N. 7.745 – DE 16 DE JULHO DE 1945
 
 Classifica a Delegacia do Trabalho Marítimo, com sede no pôrto da Foz do Iguaçu, Território do Iguaçu, e dá outras providências.

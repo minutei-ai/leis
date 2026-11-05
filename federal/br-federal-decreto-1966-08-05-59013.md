@@ -1,5 +1,3 @@
-###DEC-059013-0-000-05-08-1966@@@
-
 DECRETO Nº 59.013, DE 5 DE AGÔSTO DE 1966.
 
 Transfere Concessão.

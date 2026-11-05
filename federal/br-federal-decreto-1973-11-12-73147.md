@@ -1,5 +1,3 @@
-###DEC-073147-0-000-12-11-1973@@@
-
 DECRETO Nº 73.147 - DE 12 DE NOVEMBRO DE 1973
 
 Autoriza o funcionamento do curso de Engenharia Elétrica da Faculdade de Engenharia mantida pela Fundação Armando Alvares Penteado, com sede na cidade de São Paulo, Estado de São Paulo.

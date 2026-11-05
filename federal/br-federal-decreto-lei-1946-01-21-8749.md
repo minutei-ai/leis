@@ -1,5 +1,3 @@
-###DEL-008749-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.749 DE 21 – DE JANEIRO DE 1946
 
 Cria cargo isolado, de provimento efetivo, e dá outras providências .

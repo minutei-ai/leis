@@ -1,5 +1,3 @@
-###DEL-009246-0-000-09-05-1946@@@
-
 DECRETO-LEI N. 9.246 – DE 9 DE MAIO DE 1946
 
 Transforma o Consulado em Caiena em Consulado Privativo, e dá outras providências.

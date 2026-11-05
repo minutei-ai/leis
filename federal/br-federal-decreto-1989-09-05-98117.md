@@ -1,7 +1,3 @@
-1
-
-###DEC-098117-0-000-05-09-1989@@@
-
 DECRETO N° 98.117, DE 5 DE SETEMBRO DE 1989
 
 Altera a denominação do Centro de Aplicações Táticas e Recompletamento de Equipagens.

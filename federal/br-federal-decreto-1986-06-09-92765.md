@@ -1,5 +1,3 @@
-###DEC-092765-0-000-09-06-1986@@@
-
 DECRETO Nº 92.765, DE 9 DE JUNHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, a ser desmembrada de maior porção, situada no Município e Comarca de Indaiatuba, Estado de São Paulo, destinada à instalação de Estação Telefônica da Telecomunicações de São Paulo S.A. - TELESP e dá outras providências.

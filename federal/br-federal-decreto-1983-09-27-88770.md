@@ -1,5 +1,3 @@
-###DEC-088770-0-000-27-09-1983@@@
-
 Decreto nº 88.770, de 27 de setembro de 1983
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

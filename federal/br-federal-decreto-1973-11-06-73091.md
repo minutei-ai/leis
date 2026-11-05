@@ -1,5 +1,3 @@
-###DEC-073091-0-000-06-11-1973@@@
-
 DECRETO Nº 73.091 - DE 6 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada á passagem de linha de transmissão, no Estado de São Paulo.

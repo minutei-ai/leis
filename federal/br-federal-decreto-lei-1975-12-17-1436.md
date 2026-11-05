@@ -1,5 +1,3 @@
-###DEL-001436-0-000-17-12-1975@@@
-
 # DECRETO-LEI Nº 1.436, DE 17 DE DEZEMBRO DE 1975
 
 Concede isenção do imposto de importação às obras de arte que participarem das Bienais Internacionais de São Paulo e forem vendidas no recinto da exposição.

@@ -1,6 +1,5 @@
 LEI COMPLEMENTAR N. 156, DE 27 DE JUNHO DE 2019
 
-<br>
 Altera a [Lei nº 3.968/2000](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/114170) – Estatuto dos Servidores do Município de Rio Verde.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE – GO APROVA E EU SANCIONO A SEGUINTE LEI:**
@@ -29,7 +28,8 @@ Art. 113-A. A cessão de servidor para ter exercício em outra entidade dos Pode
 
 § 8º Qualquer dano causado pelo servidor cedido a terceiros será de responsabilidade do cessionário.
 
-Art. 113-B. O tempo em que o servidor estiver cedido contar-se-á para todos os efeitos legais.<br>
+Art. 113-B. O tempo em que o servidor estiver cedido contar-se-á para todos os efeitos legais.
+
 Parágrafo único. Para efeito da evolução na carreira, o servidor cedido será avaliado no órgão em que estiver em exercício.
 
 Art. 113-C. A cessão será pelo prazo fixado no termo da cessão ou no decreto.

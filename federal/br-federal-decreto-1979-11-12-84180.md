@@ -1,5 +1,3 @@
-###DEC-084180-0-000-12-11-1979@@@
-
 Decreto nº 84.180, de 12 de novembro de 1979.
 
 Autoriza a alienação de bens imóveis pertencentes à Universidade Federal do Espírito Santo.

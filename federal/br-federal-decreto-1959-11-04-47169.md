@@ -1,5 +1,3 @@
-###DEC-047169-0-000-04-11-1959@@@
-
 DECRETO Nº 47.169, DE 4 DE NOVEMBRO DE 1959.
 
 Cria o cargo de Adido Aeronáutico junto à Embaixada do Brasil em Oslo (Noruega) e dá outras providências.

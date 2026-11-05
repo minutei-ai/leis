@@ -1,5 +1,3 @@
-###DEC-059401-0-000-19-10-1966@@@
-
 DECRETO Nº 59.401, DE 19 DE OUTUBRO DE 1966.
 
 Declara de utilidade pública imóvel que menciona na cidade de São Paulo, Estado de São Paulo.

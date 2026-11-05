@@ -1,5 +1,3 @@
-###DEC-069317-0-000-06-10-1971@@@
-
 decreto nº 69.317, de 6 de outubro de 1971.
 
 Dispõe sôbre a exclusão do enquadramento aprovado pelo Decreto número 68.335, de 10 de março de 1971, de servidor que nêle figurou indevidamente.

@@ -1,5 +1,3 @@
-###DEC-077704-0-000-31-05-1976@@@
-
 DECRETO Nº 77.704 - DE 31 DE MAIO DE 1976
 
 Retifica a concessão de lavra outorgada à Mármores Itabirito Ltda. pelo Decreto nº 73.446-74, de 11 de janeiro de 1974.

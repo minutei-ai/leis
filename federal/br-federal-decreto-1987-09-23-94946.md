@@ -1,5 +1,3 @@
-###DEC-094946-0-000-23-09-1987@@@
-
 DECRETO Nº 94.946, DE 23 DE SETEMBRO DE 1987
 
 Regulamenta o item I, do artigo 17, da Lei nº 6.001, de 19 de dezembro de 1973.

@@ -1,5 +1,3 @@
-###DEC-089775-0-000-13-06-1984@@@
-
 Decreto nº 89.775, de 13 de junho de 1984
 
 Altera a vigência do Decreto nº 89.733, de 04 de junho de 1984.

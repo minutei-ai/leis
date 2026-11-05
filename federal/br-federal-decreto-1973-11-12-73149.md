@@ -1,5 +1,3 @@
-###DEC-073149-0-000-12-11-1973@@@
-
 Decreto nº 73.149 - de 12 de novembro de 1973
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas de Anápolis, mantida pela Fundação Faculdade de Ciências Econômicas de Anápolis, com sede na cidade de Anápolis, Estado de Goiás.

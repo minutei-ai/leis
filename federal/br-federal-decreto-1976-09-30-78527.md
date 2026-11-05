@@ -1,5 +1,3 @@
-###DEC-078527-0-000-30-09-1976@@@
-
 DECRETO Nº 78.527, DE 30 DE SETEMBRO DE 1976.
 
 Altera dispositivo do Decreto número 71.348, de 9 de novembro de 1972, que autorizou o funcionamento do curso de Ciências Contábeis, mantida pela Sociedade Colégio Caratinga, com sede na cidade de Caratinga, Estado de Minas Gerais.

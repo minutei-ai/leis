@@ -1,5 +1,3 @@
-###DEC-052648-0-000-10-10-1963@@@
-
 DECRETO Nº 52.648, DE 10 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Xavantes, com sede em Xavantes, Estado de São Paulo.

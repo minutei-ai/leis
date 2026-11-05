@@ -1,5 +1,3 @@
-###DEC-057825-0-000-16-02-1966@@@
-
 DECRETO Nº 57.825, DE 16 DE FEVEREIRO DE 1966.
 
 Dispõe sôbre a prestação de serviços na forma prevista no parágrafo único do artigo 2º do Decreto número 35.956, de 2 de agôsto de 1954, com a redação dada pelo Decreto número 36.479, de 19 de novembro de 1954.

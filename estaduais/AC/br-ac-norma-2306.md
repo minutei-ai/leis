@@ -1,6 +1,10 @@
 > **LEI Nº 3.521, DE 25 DE SETEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a obrigatoriedade de atendimento especializado às pessoas com deficiência auditiva no âmbito da Organização de Centrais de Atendimento - OCA e Defensoria Pública do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a obrigatoriedade de atendimento especializado às pessoas com deficiência auditiva no âmbito da Organização de Centrais de Atendimento - OCA e Defensoria Pública do Estado.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, § 8º da Constituição Estadual c/c o art. 15, § 1º, X do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga a seguinte Lei:
 

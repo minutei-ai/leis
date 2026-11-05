@@ -1,5 +1,3 @@
-###DEC-072015-0-000-27-03-1973@@@
-
 DECRETO Nº 72.015, DE 27 DE MARÇO DE 1973.
 
 Aprova o Regulamento da Diretoria de Inativos e Pensionistas, do Departamento Geral do Pessoal do Ministério do Exército, e dá outras providências.

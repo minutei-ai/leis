@@ -1,5 +1,3 @@
-###DEL-001130-0-000-19-10-1970@@@
-
 # DECRETO-LEI Nº 1.130, DE 19 DE OUTUBRO DE 1970
 
 Altera a estrutura do Grupo Ocupacional CT-100 - Aeroviário, do Serviço Público Federal, e dá outras providências.
@@ -16,7 +14,73 @@ CONSIDERANDO, finalmente os estudos realizado pelos órgãos competentes do Depa
 
 Art. 1º O Anexo I da Lei nº 3.780, de 12 de julho de 1960, na parte referente ao Grupo Ocupacional CT-100 - Aeroviário, códigos CT-102.16.B a CT-105.5 e CT-108.5, passa a vigorar com a seguinte redação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:58.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Código</span></p></td><td style="width:116.8pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Série de Classe</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt; text-align:center"><span>ou Classes</span></p></td><td style="width:116.75pt; border-style:solid; border-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Características da Classe</span></p></td><td style="width:90.85pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>Acesso A:</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-102.18.B</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Assessor de Tráfego Aéreo B</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Supervisão e Assessoramento</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>-</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-102.17.A</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Assessor de Tráfego Aéreo A</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Assessoramento</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>-</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-103.16.C</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscal de Aeroporto C</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscalização, coordenação e orientação</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Assessor de Tráfego Aéreo A</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-103.14.B</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscal de Aeroporto B</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscalização, revisão e execução</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>-</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-103.12.A</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscal de Aeroporto A</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscalização, e execução</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>-</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-104.8</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Auxiliar de Aeroporto</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Execução</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Fiscal de Aeroporto A</span></p></td></tr><tr><td style="width:58.4pt; border-right-style:solid; border-right-width:0.75pt; padding-right:5.03pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>CT-108.8</span></p></td><td style="width:116.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Auxiliar de Segurança Aérea</span></p></td><td style="width:116.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:5.03pt; padding-left:5.03pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Execução</span></p></td><td style="width:90.85pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Técnico de Segurança Aérea A.</span></p><p class="Artigo" style="margin-top:6pt; text-indent:0pt"><span>Fiscal de Aeroporto A e Telegrafista A</span></p></td></tr></tbody></table>
+Código
+
+Série de Classe
+
+ou Classes
+
+Características da Classe
+
+Acesso A:
+
+CT-102.18.B
+
+Assessor de Tráfego Aéreo B
+
+Supervisão e Assessoramento
+
+-
+
+CT-102.17.A
+
+Assessor de Tráfego Aéreo A
+
+Assessoramento
+
+-
+
+CT-103.16.C
+
+Fiscal de Aeroporto C
+
+Fiscalização, coordenação e orientação
+
+Assessor de Tráfego Aéreo A
+
+CT-103.14.B
+
+Fiscal de Aeroporto B
+
+Fiscalização, revisão e execução
+
+-
+
+CT-103.12.A
+
+Fiscal de Aeroporto A
+
+Fiscalização, e execução
+
+-
+
+CT-104.8
+
+Auxiliar de Aeroporto
+
+Execução
+
+Fiscal de Aeroporto A
+
+CT-108.8
+
+Auxiliar de Segurança Aérea
+
+Execução
+
+Técnico de Segurança Aérea A.
+
+Fiscal de Aeroporto A e Telegrafista A
 
 Art. 2º A atual série de classes de Superintendente de Aeroporto, códigos CT-102.16.B e CT-102.15.A, fica transformada na série de classes de Assessor de Tráfego Aéreo, códigos CT-102.18.B e CT-102.17.A, aplicados, no que couber, os procedimentos previstos no artigo 20 da Lei nº 3.780, de 12 de julho de 1960, quanto aos atuais ocupantes dos cargos ora transformados.
 

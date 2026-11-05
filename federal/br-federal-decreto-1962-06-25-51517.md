@@ -1,5 +1,3 @@
-###DEC-051517-0-000-25-06-1962@@@
-
 DECRETO Nº 51.517, DE 25 DE JUNHO DE 1962.
 
 Cria o Núcleo Colonial Alexandre Gusmão, no Distrito Federal, em terras do Instituto Nacional da Imigração e Colonização.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.128, DE 11 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei n° 3.752, de 9 de julho de 2021, que dispõe sobre o atendimento preferencial às pessoas com fibromialgia nos locais que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei n° 3.752, de 9 de julho de 2021, que dispõe sobre o atendimento preferencial às pessoas com fibromialgia nos locais que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-003624-0-000-05-10-2000@@@
-
 DECRETO Nº 3.624, DE 5 DE OUTUBRO DE 2000.
 
 Dispõe sobre a regulamentação do Fundo de Universalização dos Serviços de Telecomunicações – Fust, e dá outras providências.

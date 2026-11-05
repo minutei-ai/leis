@@ -1,5 +1,3 @@
-###DEC-097079-0-000-21-11-1988@@@
-
 DECRETO N° 97.079, DE 21 DE NOVEMBRO DE 1988
 
 Autoriza a Casa da Moeda do Brasil - CMB a proceder ao aumento de seu capital social.

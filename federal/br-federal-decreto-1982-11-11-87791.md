@@ -1,5 +1,3 @@
-###DEC-087791-0-000-11-11-1982@@@
-
 Decreto nº 87.791, de 11 de novembro de 1982
 
 Altera o Capítulo V do Regulamento para o Corpo do Pessoal Graduado da Aeronáutica, aprovado pelo Decreto nº 68.951, de 19 de julho de 1971.

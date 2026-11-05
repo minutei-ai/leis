@@ -1,5 +1,3 @@
-###DEC-058732-0-000-27-06-1966@@@
-
 DECRETO Nº 58.732, DE 27 DE JUNHO DE 1966.
 
 Dá nova redação ao artigo 1º do Decreto nº 54.412, de 12 de outubro de 1964.

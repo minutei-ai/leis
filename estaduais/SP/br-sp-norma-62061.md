@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62061)
-
 # LEI Nº 12.321, DE 12 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 321/2005, da Deputada Analice Fernandes - PSDB)

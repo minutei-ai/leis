@@ -1,5 +1,3 @@
-###DEC-088095-0-000-10-02-1983@@@
-
 DECRETO Nº 88.095, DE 10 DE FEVEREIRO DE 1983.
 
 Transfere ao DEPARTAMENTO DE COMUNICAÇÃO SOCIAL - DECOM, autarquia vinculada à Secretaria de Estado Extraordinária de Comunicação Social, concessão outorgada à FUNDAÇÃO CULTURAL DO ESPIRITO SANTO, para executar serviço de radiodifusão sonora em onda tropical, na cidade de Vitória, Estado do Espirito Santo.

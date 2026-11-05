@@ -1,5 +1,3 @@
-###DEC-084083-0-000-15-10-1979@@@
-
 Decreto nº 84.083, de 15 de outubro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, nos Estados do Ceará e Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-066870-0-000-15-07-1970@@@
-
 Decreto nº 66.870, de 15 de julho de 1970.
 
 Autoriza o funcionamento da Escola de Odontologia de Volta Redonda, RJ.

@@ -1,5 +1,3 @@
-###DEL-002002-0-000-04-01-1983@@@
-
 # decreto-lei nº 2.002, de 04 de janeiro de 1983
 
 Reajusta os vencimentos e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências.

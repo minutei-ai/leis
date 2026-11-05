@@ -1,5 +1,3 @@
-###DEC-005217-0-000-29-09-2004@@@
-
 DECRETO Nº 5.217 DE 29 DE SETEMBRO DE 2004.
 
    Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Equador, de 30 de junho de 2004. 
@@ -20,7 +18,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 29 de setembro de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 39 ASSINADO ENTRE AS REPÚBLICAS DA COLÔMBIA, DO EQUADOR, DO PERU E DA VENEZUELA, PAÍSES-MEMBROS DA COMUNIDADE ANDINA, E A REPÚBLICA FEDERATIVA DO BRASIL

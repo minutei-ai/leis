@@ -1,5 +1,3 @@
-###DEL-009889-0-000-16-09-1946@@@
-
 DECRETO-LEI N. 9.889 – DE 16 DE SETEMBRO DE 1946
 
 Lei de organização da Fôrça Aérea Brasileira em tempo de paz

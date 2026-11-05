@@ -1,5 +1,3 @@
-###DEC-074330-0-000-29-07-1974@@@
-
 DECRETO Nº 74.330 - DE 29 DE JULHO DE 1974.
 
 Autoriza o funcionamento dos cursos de Matemática, Ciências Biológicas e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras do "Sagrado Coração de Jesus", em Bauru, mantida pelo Instituto das Apóstolas do "Sagrado Coração de Jesus", com sede na Cidade de São Paulo, Estado de São Paulo.

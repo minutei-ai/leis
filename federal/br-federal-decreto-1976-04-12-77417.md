@@ -1,5 +1,3 @@
-###DEC-077417-0-000-12-04-1976@@@
-
 DECRETO Nº 77.417 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Administração, ministrado no sub-campus de Parnaíba, da Universidade Federal do Piauí.

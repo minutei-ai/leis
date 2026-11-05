@@ -1,5 +1,3 @@
-###DEC-047253-0-000-17-11-1959@@@
-
 DECRETO Nº 47.253, DE 17 DE NOVEMBRO DE 1959.
 
 Autoriza estrangeiro a adquirir lote de terreno nacional interior que menciona, situado no Distrito Federal.

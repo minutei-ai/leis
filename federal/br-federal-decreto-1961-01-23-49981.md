@@ -1,5 +1,3 @@
-###DEC-049981-0-000-23-01-1961@@@
-
 DECRETO Nº 49.981, DE 23 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Colombo Limitada para estabelecer uma estação de radiodifusão.

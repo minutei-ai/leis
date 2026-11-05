@@ -1,5 +1,3 @@
-###DEL-009232-0-000-06-05-1946@@@
-
 DECRETO-LEI N. 9.232 – DE  6 MAIO DE 1946
 
 Altera observação constante do anexo ao Decreto-lei n.º 7.921, de 3 de Setembro  de 1945

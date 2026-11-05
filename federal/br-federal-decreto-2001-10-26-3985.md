@@ -1,5 +1,3 @@
-###DEC-003985-0-000-26-10-2001@@@
-
 DECRETO Nº 3.985, DE 26 DE OUTUBRO DE 2001
 
 Disciplina o instituto de progressão dos servidores integrantes da Carreira de Delegado de Polícia do Distrito Federal e da Carreira de Polícia Civil do Distrito Federal.

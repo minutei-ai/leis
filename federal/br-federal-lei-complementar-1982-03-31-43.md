@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/896eaaf1-ea08-4650-858a-095851b5bb7e/texto#nowhere)
 
-###LCP-000043-0-000-31-03-1982@@@
-
 # LEI COMPLEMENTAR Nº 43, DE 31 DE MARÇO DE 1982
 
 Altera a Lei Complementar nº 5, de 29 de abril de 1970, que estabelece os casos de inelegibilidades.

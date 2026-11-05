@@ -1,5 +1,3 @@
-###DEC-083355-0-000-20-04-1979@@@
-
 Decreto nº 83.355, de 20 de abril de 1979.
 
 Cria o Conselho Nacional de Desenvolvimento Urbano e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074349-0-000-01-08-1974@@@
-
 DECRETO Nº 74.349 - DE 1 DE AGOSTO DE 1974.
 
 Concede reconhecimento ao curso de Serviço Social da Faculdade Paulista de Serviço Social, de São Caetano do Sul, mantida pela Sociedade de Serviço Social de São Paulo Estado de São Paulo.

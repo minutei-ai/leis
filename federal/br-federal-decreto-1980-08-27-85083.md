@@ -1,5 +1,3 @@
-###DEC-085083-0-000-27-08-1980@@@
-
 Decreto nº 85.083, de 27 de agosto de 1980.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (D.N.O.C.S.), área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "BARRA DO JUÁ", nos Municípios de Floresta e Betânia, Estado de Pernambuco, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005318-0-000-12-03-1943@@@
-
 DECRETO‑LEI N. 5.318 – DE 12 DE MARÇO DE 1943
 
 Transfere a sede do 37º Batalhão de Caçadores

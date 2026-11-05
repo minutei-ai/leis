@@ -1,5 +1,3 @@
-###DEC-048396-0-000-23-06-1960@@@
-
 DECRETO Nº 48.396, DE 23 DE JUNHO DE 1960.
 
 Autoriza a Siderúrgica Itatiáia S.A. a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

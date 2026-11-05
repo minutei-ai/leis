@@ -1,5 +1,3 @@
-###DEC-050795-0-000-15-06-1961@@@
-
 DECRETO Nº 50.795, DE 15 DE JUNHO DE 1961.
 
 Outorga a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica.

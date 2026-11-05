@@ -1,5 +1,3 @@
-###DEC-052202-B-000-28-06-1963@@@
-
 decreto nº 52.202-B, de 28 de junho de 1963.
 
 Declara de utilidade pública a Fundação Ferrucio Celani, com sede em Valinhos, Estado de São Paulo.

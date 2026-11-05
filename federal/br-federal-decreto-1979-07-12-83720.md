@@ -1,5 +1,3 @@
-###DEC-083720-0-000-12-07-1979@@@
-
 decreto nº 83.720, de 12 de julho de 1979.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de São José do Norte, Estado do Rio grande do Sul.

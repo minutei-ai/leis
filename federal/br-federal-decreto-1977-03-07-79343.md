@@ -1,5 +1,3 @@
-###DEC-079343-0-000-07-03-1977@@@
-
 DECRETO Nº 79.343, DE 7 DE MARÇO DE 1977.
 
 Declara de utilidade pública para fins de desapropriação pelo Ministério do Interior - Secretaria Especial do Meio Ambiente - SEMA, área de terra no município de Esmeralda, Estado do Rio Grande do Sul.

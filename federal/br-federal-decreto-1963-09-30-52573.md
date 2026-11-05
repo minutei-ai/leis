@@ -1,5 +1,3 @@
-###DEC-052573-0-000-30-09-1963@@@
-
 DECRETO Nº 52.573, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Verolme Estaleiros Reunidos do Brasil S.A. a instalar usina termoelétrica, para uso próprio no município de Angra dos Reis, Estado do Rio de Janeiro.

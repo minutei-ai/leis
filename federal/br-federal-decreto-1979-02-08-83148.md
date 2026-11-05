@@ -1,5 +1,3 @@
-###DEC-083148-0-000-08-02-1979@@@
-
 DECRETO Nº 83.148, de 08 de fevereirO de 1979
 
 Aprova o Estatuto da Fundação Legião Brasileira de Assistência - LBA.

@@ -1,5 +1,3 @@
-###DEC-069887-0-000-31-12-1971@@@
-
 DECRETO Nº 69.887 - DE 31 DE DEZEMBRO DE 1971
 
 Redistribui, com os respectivos ocupantes, cargos do Quadro de Pessoal do Ministério da Justiça para o das Secretarias do Ministério Público Federal, e dá outras providências.

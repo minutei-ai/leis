@@ -1,5 +1,3 @@
-###DEC-071657-0-000-04-01-1973@@@
-
 DECRETO N° 71.657, DE 4 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação Física do Norte do Paraná, mantida pelo Centro de Estudos do Norte do Paraná, Londrina, Paraná.

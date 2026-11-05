@@ -40,4 +40,40 @@ ANEXO
 
 a) - MÉDICO
 
-<table style="width: 283.5pt; margin-left: 63.8pt; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="378" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 113.4pt; border: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Classe</span></p></td><td style="width: 85.05pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Nº de Cargos</span></p></td><td style="width: 85.05pt; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Valor</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>II</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>550</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>NCr$ 750,00</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>I</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>400</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>NCr$ 680,00</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>b) - MÉDICO LEGISTA</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113">&nbsp;</td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113">&nbsp;</td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>Classe</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Nº de Cargos</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Valor</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>II</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>20</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>NCr$ 750,00</span></p></td></tr><tr><td style="width: 113.4pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="151"><p class="Tabela-Texto"><span>I</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>30</span></p></td><td style="width: 85.05pt; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="113"><p class="Tabela-Texto"><span>NCr$ 680,00</span></p></td></tr></tbody></table>
+Classe
+
+Nº de Cargos
+
+Valor
+
+II
+
+550
+
+NCr$ 750,00
+
+I
+
+400
+
+NCr$ 680,00
+
+b) - MÉDICO LEGISTA
+
+Classe
+
+Nº de Cargos
+
+Valor
+
+II
+
+20
+
+NCr$ 750,00
+
+I
+
+30
+
+NCr$ 680,00

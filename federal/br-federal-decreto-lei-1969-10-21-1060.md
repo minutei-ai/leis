@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cce092dc-2cdd-4065-bea0-cf09587095bc/texto#nowhere)
 
-###DEL-001060-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.060, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre a declaração de bens, dinheiros ou valôres, existentes no estrangeiro, a prisão administrativa e o seqüestro de bens por infrações fiscais e dá outras providências.

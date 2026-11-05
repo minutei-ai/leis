@@ -1,7 +1,3 @@
-1
-
-###DEC-001036-0-000-04-01-1994@@@
-
 DECRETO Nº 1.036, DE 4 DE JANEIRO DE 1994
 
 Disciplina a destinação de recursos oriundos da alienação de imóveis residenciais de propriedade da União, para o Programa de Difusão de Tecnologia para a Construção de Habitação de Baixo Custo PROTECH, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002711-0-000-06-08-1998@@@
-
 DECRETO Nº 2.711, DE 6 DE AGOSTO DE 1998
 
 Altera o Programa de Dispêndio Globais - PDG das empresas do Sistema TELEBRÁS para 1998, aprovado pelo Decreto nº 2.453, de 6 de janeiro de 1998.

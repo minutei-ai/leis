@@ -1,5 +1,3 @@
-###DEL-007419-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.419 – DE 26 DE MARÇO DE 1945
 
 Art. 1º O § 1º do art. 4º do Decreto-lei nº 7.171, de 19 de dezembro de 1944.

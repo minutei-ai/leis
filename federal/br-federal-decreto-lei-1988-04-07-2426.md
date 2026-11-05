@@ -1,7 +1,3 @@
-1
-
-###DEL-002426-0-000-07-04-1988@@@
-
 # DECRETO‑LEI N° 2.426, DE 7 DE ABRIL DE 1988
 
 Altera a legislação do imposto de renda aplicável às pessoas jurídicas.

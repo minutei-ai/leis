@@ -1,5 +1,3 @@
-###DEC-075714-0-000-12-05-1975@@@
-
 DECRETO Nº 75.714, DE 12 DE MAIO DE 1975.
 
 Concede reconhecimento ao curso de Educação Física da Universidade de Uberlândia, com sede na cidade de Uberlândia, Estado de Minas Gerais.

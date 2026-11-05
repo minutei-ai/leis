@@ -36,19 +36,24 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 26 de
 
  
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-ARNALDO LEITE DE SOUZA<br>
+ARNALDO LEITE DE SOUZA
+
 Secretário
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil
 
-JÓRIO COELHO RIOS<br>
+JÓRIO COELHO RIOS
+
 Secretário
 
-ANDRE LUIS FERREIRA DA ROSA<br>
+ANDRE LUIS FERREIRA DA ROSA
+
 Secretário
 
 ANEXO ÚNICO
@@ -57,4 +62,44 @@ ANEXO ÚNICO
 
 CARGOS DE PROVIMENTO EFETIVO DA CARREIRA ÚNICA DA GUARDA CIVIL MUNICIPAL DE APARECIDA DE GOIÂNIA
 
-<table style="border-collapse:collapse; width:593px" width="593"><colgroup><col style="width:236pt" width="315"> <col style="width:121pt" width="161"> <col style="width:88pt" width="117"></colgroup><tbody><tr><td class="xl64" style="border-bottom:1px solid black; height:20px; width:315px; text-align:center; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:1px solid black; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="font-weight:700"><span style="color:black"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">CARGO</span></span></span></span></span></span></td><td class="xl65" style="border-bottom:1px solid black; width:161px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:1px solid black; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">JORNADA</span></span></span></span></span></span></td><td class="xl66" style="border-bottom:1px solid black; width:117px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:1px solid black; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">QUANTITATIVO</span></span></span></span></span></span></td></tr><tr><td class="xl67" style="border-bottom:1px solid black; height:20px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">Guarda Civil Municipal de Classe II</span></span></span></span></span></span></td><td class="xl63" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">40 horas semanais</span></span></span></span></span></span></td><td class="xl68" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">513 - 100%</span></span></span></span></span></span></td></tr><tr><td class="xl67" style="border-bottom:1px solid black; height:20px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">Guarda Civil Municipal de Classe I</span></span></span></span></span></span></td><td class="xl63" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">41 horas semanais</span></span></span></span></span></span></td><td class="xl68" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">128 - 25%</span></span></span></span></span></span></td></tr><tr><td class="xl67" style="border-bottom:1px solid black; height:20px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">Guarda Civil Municipal Inspetor de Classe III</span></span></span></span></span></span></td><td class="xl63" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">42 horas semanais</span></span></span></span></span></span></td><td class="xl68" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">51 - 10%</span></span></span></span></span></span></td></tr><tr><td class="xl67" style="border-bottom:1px solid black; height:20px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">Guarda Civil Municipal Inspetor de Classe II</span></span></span></span></span></span></td><td class="xl63" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">43 horas semanais</span></span></span></span></span></span></td><td class="xl68" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">36 - 7%</span></span></span></span></span></span></td></tr><tr><td class="xl67" style="border-bottom:1px solid black; height:20px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">Guarda Civil Municipal Inspetor de Classe I</span></span></span></span></span></span></td><td class="xl63" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">44 horas semanais</span></span></span></span></span></span></td><td class="xl68" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">26 - 5%</span></span></span></span></span></span></td></tr><tr><td class="xl69" style="border-bottom:1px solid black; height:21px; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:1px solid black"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">Guarda Civil Municipal Inspetor de Classe Especial</span></span></span></span></span></span></td><td class="xl70" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">45 horas semanais</span></span></span></span></span></span></td><td class="xl71" style="border-bottom:1px solid black; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap; border-top:none; border-right:1px solid black; border-left:none"><span style="font-size:15px"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none"><span style="font-family:Calibri,sans-serif">15 - 3%</span></span></span></span></span></span></td></tr></tbody></table>
+CARGO
+
+JORNADA
+
+QUANTITATIVO
+
+Guarda Civil Municipal de Classe II
+
+40 horas semanais
+
+513 - 100%
+
+Guarda Civil Municipal de Classe I
+
+41 horas semanais
+
+128 - 25%
+
+Guarda Civil Municipal Inspetor de Classe III
+
+42 horas semanais
+
+51 - 10%
+
+Guarda Civil Municipal Inspetor de Classe II
+
+43 horas semanais
+
+36 - 7%
+
+Guarda Civil Municipal Inspetor de Classe I
+
+44 horas semanais
+
+26 - 5%
+
+Guarda Civil Municipal Inspetor de Classe Especial
+
+45 horas semanais
+
+15 - 3%

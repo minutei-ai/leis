@@ -1,5 +1,3 @@
-###DEC-069832-0-000-23-12-1971@@@
-
 decreto nº 69.832 - de 23 DE DEZEMBRO de 1971
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Pesquisa de Recursos Minerais - CPRM.

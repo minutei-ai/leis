@@ -1,5 +1,3 @@
-###DEC-047309-0-000-02-12-1959@@@
-
 Decreto nº 47.309, de 02 de dezembro de 1959.
 
 Altera o artigo 10 do Decreto nº 42.507, de 25 de outubro de 1957.

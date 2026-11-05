@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/fa3ec2ad-cd42-46d6-a42a-e3bd8eb91249/texto#nowhere)
 
-###DEL-000532-0-000-16-04-1969@@@
-
 DEcRETO-LEI Nº 532, DE 16 de aBRIL DE 1969
 
 Dispõe sôbre a fixação e o reajustamento de anuidades, taxas e demais contribuições do serviço educacional.

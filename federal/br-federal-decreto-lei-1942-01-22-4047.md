@@ -1,5 +1,3 @@
-###DEL-004047-0-000-22-01-1942@@@
-
 DECRETO-LEI N. 4.047 – DE 22 DE JANEIRO DE 1942
 
 Transfere gratuitamente à Associação Pro-Matre o domínio útil dos terrenos acrescidos de marinha que menciona, situados na Capital Federal, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-064078-0-000-11-02-1969@@@
-
 DECRETO Nº 64.078, DE 11 DE FEVEREIRO DE 1969.
 
 Declara sem efeito o Decreto número 23.688, de 16 de setembro de 1947

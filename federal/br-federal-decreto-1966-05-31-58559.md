@@ -1,5 +1,3 @@
-###DEC-058559-0-000-31-05-1966@@@
-
 DECRETO Nº 58.559, DE 31 DE MAIO DE 1966.
 
 Transfere da jurisdição da Capitania dos Portos Fluviais do Rio Paraná para a jurisdição da Capitania dos Portos do Estado de São Paulo a Agência de Presidente Epitácio.

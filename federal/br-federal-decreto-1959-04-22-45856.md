@@ -1,5 +1,3 @@
-###DEC-045856-0-000-22-04-1959@@@
-
 DECRETO Nº 45.856, DE 22 DE ABRIL DE 1959.
 
 Autoriza a Companhia Hidrelétrica do Rio Pardo a instalar, ao Estado de São Paulo, um sistema de linhas de transmissão em alta tensão, e as subestações transformadoras abaixadoras necessárias.

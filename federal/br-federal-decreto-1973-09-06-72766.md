@@ -1,5 +1,3 @@
-###DEC-072766-0-000-06-09-1973@@@
-
 DECRETO Nº 72.766, de 6 de setembro de 1973
 
 Concede à Mineração e Moagem São João Batista Ltda. o direito de lavrar quartzito no Município de Queluz, Estado de São Paulo.

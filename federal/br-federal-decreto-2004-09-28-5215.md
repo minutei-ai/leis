@@ -1,5 +1,3 @@
-###DEC-005215-0-000-28-09-2004@@@
-
 DECRETO Nº 5.215 DE 28 DE SETEMBRO DE 2004.
 
       Dá nova redação aos arts. 1o e 2o do Decreto no 5.115, de 24 de junho de 2004, que instituiu a Comissão Especial Interministerial \- CEI de revisão dos atos administrativos praticados pelas comissões criadas pelos Decretos nos 1.498 e 1.499, de 24 de maio de l995, e 3.363, de 11 de fevereiro de 2000, referentes a processos de anistia de que trata a Lei no 8.878, de 11 de maio de 1994. 
@@ -26,5 +24,6 @@ V \- dois dos anistiados, escolhidos em assembléia das respectivas entidades 
 
         Brasília, 28 de setembro de 2004; 183o da Independência e 116o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

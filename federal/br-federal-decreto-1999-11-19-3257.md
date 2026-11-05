@@ -1,5 +1,3 @@
-###DEC-003257-0-000-19-11-1999@@@
-
 DECRETO Nº 3.257, DE 19 DE NOVEMBRO DE 1999.
 
 Institui a Medalha Palácio Itamaraty.

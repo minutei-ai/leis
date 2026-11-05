@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49323)
-
 # LEI Nº 11.669, DE 13 DE JANEIRO DE 2004
 
 ## (PL 1128/2003 - Afonso Lobato)

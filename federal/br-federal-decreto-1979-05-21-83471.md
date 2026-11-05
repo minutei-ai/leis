@@ -1,5 +1,3 @@
-###DEC-083471-0-000-21-05-1979@@@
-
 Decreto nº 83.471, de 21 de maio de 1979.
 
 Autoriza a conversão dos cursos de Ciências e de Ciências Biológicas em curso de Ciências, da Pontifícia Universidade Católica, em Campinas, São Paulo.

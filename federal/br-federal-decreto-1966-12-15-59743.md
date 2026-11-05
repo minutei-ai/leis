@@ -1,5 +1,3 @@
-###DEC-059743-0-000-15-12-1966@@@
-
 DECRETO Nº 59.743, DE 15 DE DEZEMBRO DE 1966.
 
 Autoriza a Companhia de Tecidos Paulista a lavrar fosforita no município de Paulista, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-000000-0-000-24-01-1823@@@
-
 DECRETO - DE 24 DE JANEIRO DE 1823
 
 Approra o plano do uma subscripção mensal para augmento da Marinha de Guerra do Imperio.

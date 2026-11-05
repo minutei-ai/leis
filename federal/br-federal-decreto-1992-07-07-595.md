@@ -1,5 +1,3 @@
-###DEC-000595-0-000-07-07-1992@@@
-
 DECRETO N° 595, DE 7 DE JULHO DE 1992
 
 Promulga o Acordo-Quadro de Cooperação Fazendário-Financeira, entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos Mexicanos.

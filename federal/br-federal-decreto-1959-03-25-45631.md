@@ -1,5 +1,3 @@
-###DEC-045631-0-000-25-03-1959@@@
-
 Decreto nº 45.631, De 25 de março de 1959.
 
 Autoriza o cidadão brasileiro Márcio Pacífico Homem de Andrade a pesquisar minérios de ferro e manganês no município de Itabirito, Estado de Minas Gerais.

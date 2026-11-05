@@ -1,5 +1,3 @@
-###DEC-048397-0-000-23-06-1960@@@
-
 decreto nº 48.397, de 23 de junho de 1960.
 
 Autoriza o cidadão brasileiro Joaquim de Souza a lavrar mica no município de Raul Soares, Estado de Minas Gerais.

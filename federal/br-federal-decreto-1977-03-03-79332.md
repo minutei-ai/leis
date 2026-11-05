@@ -1,5 +1,3 @@
-###DEC-079332-0-000-03-03-1977@@@
-
 DECRETO Nº 79.332, DE 3 DE MARÇO DE 1977.
 
 Complementa disposições do Decreto nº 79.148, de 18 de janeiro de 1977.

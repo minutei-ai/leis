@@ -1,5 +1,3 @@
-###DEC-049397-0-000-01-12-1960@@@
-
 DECRETO Nº 49.397, DE 1º DE DEZEMBRO DE 1960.
 
 Autoriza a Cia. Brasileira Industrial de Pesquisas e Mineração a pesquisar areia quartzosa, no município de Caraguatatuba, Estado de São Paulo.

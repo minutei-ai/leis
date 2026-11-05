@@ -1,5 +1,3 @@
-###DEC-086340-0-000-02-09-1981@@@
-
 Decreto nº 86.340, de 02 de setembro de 1981
 
 Reduz a zero a alíquota do Imposto sobre Produtos Industrializados incidente sobre álcool etílico hidratado "in natura''.

@@ -1,5 +1,3 @@
-###DEC-071100-0-000-14-09-1972@@@
-
 DECRETO Nº 71.100, DE 14 DE SETEMBRO DE 1972.
 
 Concede à Companhia Pernambucana de Mineração o direito de lavrar argila no Município de Paudalho, Estado de Pernambuco.

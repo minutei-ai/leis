@@ -1,5 +1,3 @@
-###LEI-000000-0-000-30-08-1831@@@
-
 LEI - DE 30 DE AGOSTO DE 1831
 
 Fixa as forças de terra ordinarias para o anno financeiro de 1832 - 1833.

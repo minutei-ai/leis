@@ -1,5 +1,3 @@
-###DEC-052253-0-000-10-07-1963@@@
-
 DECRETO Nº 52.253, DE 10 DE JULHO DE 1963.
 
 Cria a 10ª Companhia de Guardas e dá outras providências.

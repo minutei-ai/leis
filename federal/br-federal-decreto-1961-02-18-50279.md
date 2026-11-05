@@ -1,5 +1,3 @@
-###DEC-050279-0-000-18-02-1961@@@
-
 DECRETO Nº 50.279, de 18 de fevereiro de 1961.
 
 Dispõe sôbre o funcionamento do Ministério da Indústria e Comércio.

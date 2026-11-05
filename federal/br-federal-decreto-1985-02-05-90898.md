@@ -1,5 +1,3 @@
-###DEC-090898-0-000-05-02-1985@@@
-
 Decreto nº 90.898, de O5 de fevereiro de 1985.
 
 Altera dispositivos do Decreto nº 89.811, de 19 de junho de 1984, que dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Alto Paraguai, no Estado de Mato Grosso.

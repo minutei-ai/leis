@@ -1,5 +1,3 @@
-###DEC-072568-0-000-02-08-1973@@@
-
 decreto n.º 72.568, de 2 de agosto de 1973.
 
 Autoriza o funcionamento da Faculdade de Administração de Empresa, Faculdade de Ciências Jurídicas e Sociais, Faculdade de Educação Física e Instituto de Psicologia, a serem mantidos através de convênio celebrado entre a Prefeitura Municipal de João Pessoa e os Institutos Paraibanos de Educação - IPÊ João Pessoa, Estado da Paraíba.

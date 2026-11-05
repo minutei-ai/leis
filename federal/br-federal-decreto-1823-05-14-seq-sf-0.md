@@ -1,5 +1,3 @@
-###DEC-000000-0-000-14-05-1823@@@
-
 DECRETO - DE 14 DE MAIO DE 1823
 
 Marca as attribuições do Inspector do Arsenal do Exercito.

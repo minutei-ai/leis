@@ -1,5 +1,3 @@
-###DEC-058676-0-000-21-06-1966@@@
-
 DECRETO Nº 58.676, DE 21 DE JUNHO DE 1966.
 
 Suspende o funcionamento da União dos Portuários do Brasil.

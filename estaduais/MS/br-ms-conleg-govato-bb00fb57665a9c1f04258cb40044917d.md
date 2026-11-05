@@ -6,15 +6,16 @@ Institui o Tuiuiú (Jabiru mycteria) como ave-símbolo do Pantanal Sul-Mato-Gros
 
 Publicada no Diário Oficial nº 11.863, de 25 de junho de 2025, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica instituído o Tuiuiú (<i>Jabiru mycteria</i>) como ave-símbolo oficial do Pantanal Sul-Mato-Grossense, em reconhecimento à sua relevância ecológica, cultural e turística para a região.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica instituído o Tuiuiú (*Jabiru mycteria*) como ave-símbolo oficial do Pantanal Sul-Mato-Grossense, em reconhecimento à sua relevância ecológica, cultural e turística para a região.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 24 de junho de 2025.
 
-<br>
-EDUARDO CORRÊA RIEDEL<br>
+EDUARDO CORRÊA RIEDEL
+
 Governador do Estado

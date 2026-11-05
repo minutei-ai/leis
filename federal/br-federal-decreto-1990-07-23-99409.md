@@ -1,7 +1,3 @@
-1
-
-###DEC-099409-0-000-23-07-1990@@@
-
 DECRETO Nº 99.409, DE 23 DE JULHO DE 1990
 
 Altera o Anexo I do Decreto nº 99.311, de 15 de junho de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061799-0-000-30-11-1967@@@
-
 DECRETO Nº 61.799, DE 30 DE NOVEMBRO DE 1967.
 
 Dispõe sôbre credenciamento para rubricar e proceder ao registro dos livros ou fichas de empregados de emprêsas e dá outras providências.

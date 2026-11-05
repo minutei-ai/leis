@@ -1,5 +1,3 @@
-###DEC-053498-0-000-27-01-1964@@@
-
 DECRETO Nº 53.498, DE 27 DE JANEIRO DE 1964.
 
 Declara de intêresse social, para fins de desapropriação, as área de terras situadas nos Municípios de Piuí e Capitólio, Estado de Minas Gerais, e dá outras providências.

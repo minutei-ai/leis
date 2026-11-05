@@ -1,5 +1,3 @@
-###MPV-001800-0-004-20-05-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.800-4, DE 20 DE MAIO DE 1999.
 
 Dá nova redação a dispositivos de Lei nº 9.491, de 9 de setembro de 1997, que altera procedimentos relativos ao Programa Nacional de Desestatização,. revoga a Lei nº 8.031, de 12 de abril de 1990. e dá outras providências.

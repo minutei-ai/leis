@@ -1,5 +1,3 @@
-###DEC-072301-0-000-28-05-1973@@@
-
 DECRETO Nº 72.301, de 28 de maio de 1973.
 
 Retifica o Decreto nº 71.542,de 14 de dezembro de 1972, que declarou de utilidade pública, entre outras sociedades, o Hospital e Maternidade Aliete Martins, com sede em Vitória do Mearim, no Estado do Maranhão.

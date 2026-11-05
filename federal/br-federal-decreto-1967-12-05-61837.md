@@ -1,5 +1,3 @@
-###DEC-061837-0-000-05-12-1967@@@
-
 DECRETO Nº 61.837, DE 5 DE DEZEMBRO DE 1967.
 
 Prorroga prazo para conclusão de trabalho previsto no Decreto número 61.580, de 20.10.67.

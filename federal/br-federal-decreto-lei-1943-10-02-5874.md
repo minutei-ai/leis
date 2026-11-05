@@ -1,5 +1,3 @@
-###DEL-005874-0-000-02-10-1943@@@
-
 DECRETO‑LEI N. 5.874 – de 2 DE OUTUBRO DE 1943
 
 Aprova, o Convênio celebrado entra os Estados Cafeeiros em, 31 de maio de 1943, e dá outras providências

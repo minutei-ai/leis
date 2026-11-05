@@ -1,5 +1,3 @@
-###DEC-071658-0-000-04-01-1973@@@
-
 DECRETO Nº 71.658, DE 4 DE JANEIRO DE 1973.
 
 Concede reconhecimento ao Curso de Formação de Professores para o Ensino Normal, em funcionamento no Instituto de Educação do Estado da Guanabara.

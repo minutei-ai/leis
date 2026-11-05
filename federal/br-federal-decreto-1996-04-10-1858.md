@@ -1,5 +1,3 @@
-###DEC-001858-0-000-10-04-1996@@@
-
 DECRETO N° 1.858, DE 10 DE ABRIL DE 1996
 
 Dispõe sobre o remanejamento do cargo em comissão que menciona.

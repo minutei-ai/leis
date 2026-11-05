@@ -1,5 +1,3 @@
-###DEL-008718-0-000-18-01-1946@@@
-
 DECRETO-LEI N.  8.718 – DE 18 DE JANEIRO DE 1946
 
 Dá nova redação aos incisos 1º e 4º do art. 2º do Decreto-lei nº 4.508, de 23 de Julho de 1942, que dispôs sôbre financiamento de  construções de conjuntos residenciais operários pelo instituto de Aposentadoria e Pensões dos industriários.

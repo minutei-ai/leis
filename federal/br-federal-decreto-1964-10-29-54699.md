@@ -1,5 +1,3 @@
-###DEC-054699-0-000-29-10-1964@@@
-
 DECRETO Nº 54.699, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Leônidas Afonso Primo a pesquisar argila, no município de Sacramento, Estado de Minas Gerais.

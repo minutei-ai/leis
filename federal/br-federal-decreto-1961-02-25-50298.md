@@ -1,5 +1,3 @@
-###DEC-050298-0-000-25-02-1961@@@
-
 DECRETO Nº 50.298, DE 25 DE FEVEREIRO DE 1961.
 
 Autoriza o Patrimônio da União a fazer a cessão de uma área de terreno em Curitiba, no Estado da Paraná.

@@ -1,5 +1,3 @@
-###DEC-050067-0-000-25-01-1961@@@
-
 DECRETO Nº 50.067, DE 25 DE JANEIRO DE 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.369, de 21-10-1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público COCAL, no Município de Cocal, Estado do Piauí.

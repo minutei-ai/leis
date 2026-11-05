@@ -36,8 +36,10 @@ Goiânia, 6 de julho de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-DELEGADO EDUARDO PRADO<br>
+DELEGADO EDUARDO PRADO
+
 Deputado Estadual

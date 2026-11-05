@@ -1,5 +1,3 @@
-###DEC-051020-0-000-24-07-1961@@@
-
 decreto nº 51.020, de 24 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio “Siemens”.

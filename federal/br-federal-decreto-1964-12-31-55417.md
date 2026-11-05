@@ -1,5 +1,3 @@
-###DEC-055417-0-000-31-12-1964@@@
-
 DECRETO Nº 55.417, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Fuad Auada a pesquisar Areia Quartzosa e Argila, no município de São Paulo - Estado de São Paulo.

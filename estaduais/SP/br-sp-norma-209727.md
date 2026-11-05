@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209727)<br>
-
 # DECRETO N° 68.701, DE 15 DE JULHO DE 2024
 
 ### _Institui Grupo de Trabalho Intersecretarial com o objetivo de estabelecer as diretrizes gerais e coordenar as ações necessárias à implantação do Centro Administrativo do Estado de São Paulo, na região central do Município de São Paulo._

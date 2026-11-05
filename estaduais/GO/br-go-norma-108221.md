@@ -18,14 +18,13 @@ Art. 3º O art. 2º da [Lei nº 22.422](https://legisla.casacivil.go.gov.br/pesq
 
 “Art. 2º Esta Lei entra em vigor na data de sua publicação, porém produz efeitos a partir de 1º de fevereiro de 2024.” (NR)
 
-Art. 4º Esta Lei entra em vigor na data de sua publicação, porém produz efeitos a partir de 1º de abril de 2024 quanto aos seus arts. 1º e 2º.<br>
+Art. 4º Esta Lei entra em vigor na data de sua publicação, porém produz efeitos a partir de 1º de abril de 2024 quanto aos seus arts. 1º e 2º.
+
 \- [Redação dada pela Lei nº 22.572, de 19-3-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108546/lei-22572).
 
 ~~Art. 4º Esta Lei entra em vigor na data de sua publicação, porém produz efeitos somente a partir de 1º de abril de 2024.~~
 
 Goiânia, 12 de dezembro de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

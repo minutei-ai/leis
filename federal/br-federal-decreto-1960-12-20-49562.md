@@ -1,5 +1,3 @@
-###DEC-049562-0-000-20-12-1960@@@
-
 DECRETO Nº 49.562, DE 20 DE DEZEMBRO DE 1960.
 
 Emprêsa civil considerada de interêsse militar.

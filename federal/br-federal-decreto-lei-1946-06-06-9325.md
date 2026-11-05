@@ -1,5 +1,3 @@
-###DEL-009325-0-000-06-06-1946@@@
-
 DECRETO-LEI N. 9.325 – DE 6 DE JUNHO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar o Dispensário dos Pobres da Imaculada Conceição do impôsto que menciona.

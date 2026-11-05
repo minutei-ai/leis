@@ -1,5 +1,3 @@
-###DEC-054048-0-000-24-07-1964@@@
-
 DECRETO Nº 54.048, DE 24 DE JULHO DE 1964.
 
 Dispõe sôbre o acêrvo e material do Instituto de Química, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional de Ensino e Pesquisas Agronômicas, órgãos extintos do Ministério da Agricultura pela Lei Delegada nº 9, de 11 de outubro de 1962 e dá outras providências.

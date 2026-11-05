@@ -1,5 +1,3 @@
-###DEL-006905-0-000-26-09-1944@@@
-
 DECRETO-LEI N. 6.905 – DE 26 DE SETEMBRO DE 1944
 
 Dispõe sôbre a concessão de auxílio pecuniário por motivo de enfermidade do empregado

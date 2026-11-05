@@ -1,5 +1,3 @@
-###DEC-094194-0-000-07-04-1987@@@
-
 DECRETO Nº 94.194, DE 7 DE ABRIL DE 1987
 
 Altera o Decreto nº 93.538, de 6 de novembro de 1986, que regulamenta o Fundo Nacional de Desenvolvimento - FND.

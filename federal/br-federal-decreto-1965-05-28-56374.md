@@ -1,5 +1,3 @@
-###DEC-056374-0-000-28-05-1965@@@
-
 decreto nº 56.374, de 28 de maio de 1965.
 
 Permite o uso nos uniformes militares de condecoração da “Ordem do Mérito Médico”.

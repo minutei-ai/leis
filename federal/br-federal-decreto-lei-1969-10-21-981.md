@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b9084fe8-b714-4db1-80c7-eab3f83141b8/texto#nowhere)
 
-###DEL-000981-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 981, DE 21 DE OUTUBRO DE 1969
 
 Dá nova redação ao artigo 18 da Lei nº 4.591, de 16 de dezembro de 1964.

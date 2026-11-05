@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61532)
-
 # LEI Nº 12.289, DE 02 DE MARÇO DE 2006
 
 ## (Projeto de lei nº 1158/2003, do Deputado Hamilton Pereira - PT)

@@ -1,5 +1,3 @@
-###DEC-069325-0-000-07-10-1971@@@
-
 DECRETO Nº 69.325, DE 7 DE OUTUBRO DE 1971.
 
 Autoriza o Ministro da Fazenda a contratar com o Banco Internacional de Reconstrução e Desenvolvimento, empréstimo no valor de US$ 45,000.000.00 e dá outras providências.

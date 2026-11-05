@@ -1,6 +1,10 @@
 > **LEI Nº 3.744, DE 25 DE JUNHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o atendimento de serviços extrajudiciais por meio de centrais e plataformas de serviços eletrônicos no Estado; e solicitação de emissão de documento de Identificação Civil pelos Registros Civis das Pessoas Naturais.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o atendimento de serviços extrajudiciais por meio de centrais e plataformas de serviços eletrônicos no Estado; e solicitação de emissão de documento de Identificação Civil pelos Registros Civis das Pessoas Naturais.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

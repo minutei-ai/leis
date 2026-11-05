@@ -1,5 +1,3 @@
-###DEC-061393-0-000-21-09-1967@@@
-
 DECRETO Nº 61.393, DE 21 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Ação Social Padre Eustáquio” com sede em Belo Horizonte, estado de Minas Gerais.

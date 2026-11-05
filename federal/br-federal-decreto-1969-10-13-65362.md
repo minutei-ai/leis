@@ -1,5 +1,3 @@
-###DEC-065362-0-000-13-10-1969@@@
-
 DECRETO Nº 65.362 - DE 13 DE OUTUBRO DE 1969.
 
 Modifica o Decreto nº 65.016, de 18 de agôsto de 1969.

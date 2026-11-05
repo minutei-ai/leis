@@ -1,5 +1,3 @@
-###DEL-005715-0-000-31-07-1943@@@
-
 DECRETO‑LEI N. 5.715 – DE 31 DE JULHO DE 1943
 
 Cria, junto ao D.A.S.P., o Conselho de Administração do Material

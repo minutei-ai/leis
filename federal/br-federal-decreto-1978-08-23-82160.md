@@ -1,5 +1,3 @@
-###DEC-082160-0-000-23-08-1978@@@
-
 Decreto nº 82.160, de 23 de agosto de 1978.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS imóveis constituídos de terras e benfeitorias que estipula.

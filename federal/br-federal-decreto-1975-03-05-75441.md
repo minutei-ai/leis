@@ -1,5 +1,3 @@
-###DEC-075441-0-000-05-03-1975@@@
-
 DECRETO Nº 75.441, DE 5 DE MARÇO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor da petróleo Brasileiro S.A. - PETROBRÁS, imóveis e benfeitorias necessários à ampliação da Fábrica de Asfalto de Fortaleza, situados no Município de Fortaleza no Estado do Ceará.

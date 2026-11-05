@@ -1,5 +1,3 @@
-###DEC-073950-0-000-17-04-1974@@@
-
 DECRETO Nº 73.950, DE 17 DE ABRIL DE 1974.
 
 Concede reconhecimento ao curso de Psicologia da Faculdade de Filosofia, Ciências e Letras do Sagrado Coração de Jesus, mantida pelo Instituto das Apóstolas do Sagrado Coração de Jesus, com sede na cidade de Bauru, Estado de São Paulo.

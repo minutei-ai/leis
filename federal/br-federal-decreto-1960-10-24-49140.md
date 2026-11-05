@@ -1,5 +1,3 @@
-###DEC-049140-0-000-24-10-1960@@@
-
 DECRETO Nº 49.140, DE 24 DE OUTUBRO DE 1960.
 
 Declara transferidos cargos de contador do Ministério do Trabalho, Industria e Comércio.

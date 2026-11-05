@@ -1,5 +1,3 @@
-###DEC-048806-0-000-12-08-1960@@@
-
 DECRETO Nº 48.806, DE 12 DE AGÔSTO DE 1960.
 
 Torna sem efeito o Decreto nº 43.580, de 28 de abril de 1958.

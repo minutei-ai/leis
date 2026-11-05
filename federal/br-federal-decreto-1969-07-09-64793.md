@@ -1,5 +1,3 @@
-###DEC-064793-0-000-09-07-1969@@@
-
 DECRETO Nº 64.793 - de 9 de julho de 1969.
 
 Da nova redação ao Decreto nº 64.074, de 10 de fevereiro de 1969.

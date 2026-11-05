@@ -1,5 +1,3 @@
-###DEC-084833-0-000-24-06-1980@@@
-
 Decreto nº 84.833, de 24 de junho de 1980.
 
 Autoriza o aumento do capital da Companhia de Eletricidade do AMAPÁ - CEA.

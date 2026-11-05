@@ -1,5 +1,3 @@
-###DEC-090025-0-000-02-08-1984@@@
-
 Decreto nº 90.025, de 02 de agosto de 1984.
 
 Concede à Companhia Siderúrgica de Mogi das Cruzes - COSIM autorização para proceder a aumento do seu capital social.

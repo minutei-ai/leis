@@ -1,5 +1,3 @@
-###DEC-068137-0-000-29-01-1971@@@
-
 DECRETO Nº 68.137, DE 29 DE JANEIRO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante, para o Departamento Nacional de Estradas de Rodagem e dá outras providências.

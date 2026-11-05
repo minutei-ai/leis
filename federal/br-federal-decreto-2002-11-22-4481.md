@@ -1,5 +1,3 @@
-###DEC-004481-0-000-22-11-2002@@@
-
 DECRETO Nº 4.481, DE 22 DE NOVEMBRO DE 2002
 
 Dispõe sobre os critérios para definição dos hospitais estratégicos, no âmbito do Sistema Único de Saúde - SUS, e dá outras providências.

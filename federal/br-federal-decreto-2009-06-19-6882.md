@@ -1,5 +1,3 @@
-###DEC-006882-0-000-19-06-2009@@@
-
 DECRETO Nº 6.882, DE 19 DE JUNHO DE 2009.
 
 Institui, no âmbito do Ministério do Desenvolvimento Agrário, o Programa de Desenvolvimento Sustentável da Unidade de Produção Familiar - Pronaf Sustentável, e dá outras providências.

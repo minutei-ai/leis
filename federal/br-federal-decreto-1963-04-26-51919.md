@@ -1,5 +1,3 @@
-###DEC-051919-0-000-26-04-1963@@@
-
 Decreto nº 51.919, de 26 de abril de 1963.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Iacanga, Estado de São Paulo.

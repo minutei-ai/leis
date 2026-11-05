@@ -1,5 +1,3 @@
-###DEC-079385-0-000-14-03-1977@@@
-
 DECRETO Nº 79.385, DE 14 DE MARÇO DE 1977.
 
 Declara sem efeito o Decreto número 58.940, de 29 de julho de 1966.

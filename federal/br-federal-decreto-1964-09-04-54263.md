@@ -1,5 +1,3 @@
-###DEC-054263-0-000-04-09-1964@@@
-
 DECRETO Nº 54.263, DE 4 DE SETEMBRO DE 1964.
 
 Abre, pelo Ministério do Trabalho e Previdência Social, o crédito especial de Cr$100.000.000,00 para os fins que especifica.

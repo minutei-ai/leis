@@ -1,5 +1,3 @@
-###DEC-083428-0-000-08-05-1979@@@
-
 Decreto nº 83.428, de 08 de maio de 1979.
 
 Concede reconhecimento à habilitação em Biologia, do curso de Ciências, da Faculdade de Ciências, em Bauru, São Paulo.

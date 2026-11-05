@@ -1,5 +1,3 @@
-###DEL-003531-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.531 – DE 21 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 40:000$0 para concessão de auxílio

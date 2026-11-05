@@ -1,5 +1,3 @@
-###DEL-003020-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.020 – DE 1 DE FEVEREIRO DE 1941
 
 Prorroga à Aeronáutica a jurisdição da Justiça Militar do Exército

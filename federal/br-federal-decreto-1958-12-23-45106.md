@@ -1,5 +1,3 @@
-###DEC-045106-0-000-23-12-1958@@@
-
 decreto nº 45.106, de 23 de dezembro de 1958.
 
 Declara de utilidade pública, para fins de desapropriação imóveis que menciona, na Cidade de Alegrete, no Estado do Rio Grande do Sul, necessário à 3ª Região Militar e Ministério da Guerra.

@@ -1,12 +1,10 @@
-###DEC-022218-0-000-03-12-1946@@@
+**DECRETO Nº 22.218, DE 3 DE DEZEMBRO DE 1946.**
 
-<strong>DECRETO Nº 22.218, DE 3 DE DEZEMBRO DE 1946.</strong>
+***Altera o Decreto nº 21.154, de 22 de maio de 1946, que aprovou projeto de orçamento para construção de armazem pela Companhia Docas de Santos.***
 
-<em><strong>Altera o Decreto nº 21.154, de 22 de maio de 1946, que aprovou projeto de orçamento para construção de armazem pela Companhia Docas de Santos.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica alterado o artigo único do Decreto nº 21.154, de 22 de maio de 1946, que passa a ter a seguinte redação:
 
@@ -14,6 +12,6 @@ Artigo único. Fica alterado o artigo único do Decreto nº 21.154, de 22 de mai
 
 Rio de Janeiro, 3 de dezembro de 1946; 125º da Independência 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana

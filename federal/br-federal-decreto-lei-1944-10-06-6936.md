@@ -1,5 +1,3 @@
-###DEL-006936-0-000-06-10-1944@@@
-
 DECRETO-LEI N. 6. 936 – DE 6 DE OUTUBRO DE 1944
 
 Estende a diplomados pela Escola de Educação Física da Fôrça Policial do Estado de São Paulo as regalias dos licenciados em educação física e dos médicos especializados em educação física e desportos.

@@ -1,5 +1,3 @@
-###DEC-092413-0-000-20-02-1986@@@
-
 DECRETO Nº 92.413, DE 20 DE FEVEREIRO DE 1986
 
 Outorga concessão a RÁDIO PRIMEIRO DE JULHO LTDA., para explorar serviço da radiodifusão sonora em onda média, na cidade de Água Branca, Estado do Piauí.

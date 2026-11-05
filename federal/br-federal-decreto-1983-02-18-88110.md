@@ -1,5 +1,3 @@
-###DEC-088110-0-000-18-02-1983@@@
-
 DECRETO Nº 88.110, de 18 de fevereiro de 1983.
 
 APROVA O REGULAMENTO DA SECRETARIA DE ECONOMIA E FINANÇAS DO MINISTÉRIO DO EXÉRCITO (R-25)
@@ -22,7 +20,71 @@ Walter Pires
 
 # ÍNDICE DOS ASSUNTOS
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Art</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TÍTULO I</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- GENERALIDADES</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO I</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Da Secretaria e de suas finalidades</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">1º</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO II</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Da competência</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">2º</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TÍTULO II</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- ORGANIZAÇÃO</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO III</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Da organização geral</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">3º</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO IV</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Da organização pormenorizada</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">4º</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TÍTULO III</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- ATRIBUIÇÕES</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO V</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Das atribuições orgânicas</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">5º/6º</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO VI</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Das atribuições funcionais</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">7º/16</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">TÍTULO IV</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- OUTRAS DISPOSIÇÕES</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPÍTULO VII</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Das substituições</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">17</span></p></td></tr><tr><td style="width:108pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">CAPITULO VIII</span></p></td><td style="width:265.65pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">- Prescrições diversas</span></p></td><td style="width:37.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">18/19.</span></p></td></tr></tbody></table>
+Art
+
+TÍTULO I
+
+- GENERALIDADES
+
+CAPÍTULO I
+
+- Da Secretaria e de suas finalidades
+
+1º
+
+CAPÍTULO II
+
+- Da competência
+
+2º
+
+TÍTULO II
+
+- ORGANIZAÇÃO
+
+CAPÍTULO III
+
+- Da organização geral
+
+3º
+
+CAPÍTULO IV
+
+- Da organização pormenorizada
+
+4º
+
+TÍTULO III
+
+- ATRIBUIÇÕES
+
+CAPÍTULO V
+
+- Das atribuições orgânicas
+
+5º/6º
+
+CAPÍTULO VI
+
+- Das atribuições funcionais
+
+7º/16
+
+TÍTULO IV
+
+- OUTRAS DISPOSIÇÕES
+
+CAPÍTULO VII
+
+- Das substituições
+
+17
+
+CAPITULO VIII
+
+- Prescrições diversas
+
+18/19.
 
 REGULAMENTO DA SECRETARIA DE ECONOMIA E FINANÇAS (R-25)
 

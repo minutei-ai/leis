@@ -1,5 +1,3 @@
-###DEC-061031-0-000-17-07-1967@@@
-
 DECRETO Nº 61.031, DE 17 DE JULHO DE 1967.
 
 Abre ao Ministério da Agricultura o Crédito Suplementar de NCr$487.987,29 (quatrocentos e oitenta e sete mil, novecentos e oitenta e setes cruzeiros novos e vinte e nove centavos) para ocorrer as despesas previstas no Decreto número 60.831, de 8 de junho de 1967.

@@ -1,5 +1,3 @@
-###DEC-065305-0-000-07-10-1969@@@
-
 DECRETO Nº 65.305 - DE 7 DE OUTUBRO de 1969.
 
 Revoga o Decreto nº 54.688, de 29 de outubro de 1964.

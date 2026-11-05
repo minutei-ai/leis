@@ -1,5 +1,3 @@
-###MPV-001738-0-020-11-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.738-20, DE 11 DE MARÇO DE 1999
 
 Cria o Fundo de Garantia à Exportação - FGE, e dá outras providências.

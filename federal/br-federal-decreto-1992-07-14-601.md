@@ -1,5 +1,3 @@
-###DEC-000601-0-000-14-07-1992@@@
-
 DECRETO Nº 601, DE 14 DE JULHO DE 1992
 
 Dispõe sobre a composição das diretorias e dos conselhos de administração, fiscal e curador das entidades estatais que menciona .

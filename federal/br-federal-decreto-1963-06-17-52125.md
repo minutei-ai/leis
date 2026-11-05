@@ -1,5 +1,3 @@
-###DEC-052125-0-000-17-06-1963@@@
-
 Decreto nº 52.125, de 17 de junho de 1963.
 
 Altera o Regulamento da Diretoria de Aeronáutica Civil.
@@ -14,7 +12,29 @@ A) O parágrafo único do art. 4º do Decreto nº 8.535, de 15-1-42, passa a ter
 
 “Parágrafo único. A Divisão do Tráfego (DC-2), para cumprimento de suas finalidades, terá a seguinte organização:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1ª Seção</span></p></td><td style="width:159.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Coordenação ................................</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1-DC-2</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2ª Seção</span></p></td><td style="width:159.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Fiscalização ..................................</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2-DC-2</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3ª Seção</span></p></td><td style="width:159.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Estatística .....................................</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3-DC-2</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4ª Seção</span></p></td><td style="width:159.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Contrôle ........................................</span></p></td><td style="width:102.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4-DC-2</span></p></td></tr></tbody></table>
+1ª Seção
+
+- Coordenação ................................
+
+1-DC-2
+
+2ª Seção
+
+- Fiscalização ..................................
+
+2-DC-2
+
+3ª Seção
+
+- Estatística .....................................
+
+3-DC-2
+
+4ª Seção
+
+- Contrôle ........................................
+
+4-DC-2
 
 B) O art. 5º, do Decreto nº 8.535, de 15 de janeiro de 1942, passa a ter a seguinte redação:
 
@@ -68,7 +88,17 @@ j) opinar sôbre os assuntos técnicos em geral, de interêsse da Diretoria de A
 
 Art. 3º A Divisão Técnica, para o cumprimento de suas finalidades, terá a seguinte organização:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>1-DC-6</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Seção de Aeronaves</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>2-DC-6</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Seção de Vistorias</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>3-DC-6</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Seção de Homologação e Contrôle</span></p></td></tr></tbody></table>
+1-DC-6
+
+- Seção de Aeronaves
+
+2-DC-6
+
+- Seção de Vistorias
+
+3-DC-6
+
+- Seção de Homologação e Contrôle
 
 § 1º O Diretor da Divisão Técnica será um Coronel ou Tenente-Coronel do Quadro de Oficiais-Aviadores, de preferência Engenheiro.
 

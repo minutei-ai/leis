@@ -1,5 +1,3 @@
-###DEL-006772-0-000-07-08-1944@@@
-
 DECRETO-LEI N. 6.772 – DE 7 DE AGôSTO DE 1944
 
 Dispõe sôbte a concessão de favores à V Feira Nacional de Indústrias a realizar-se em São Paulo, o dá outras providências

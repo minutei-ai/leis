@@ -1,5 +1,3 @@
-###DEC-055533-0-000-11-01-1965@@@
-
 DECRETO Nº 55.533, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Leonardo Antônio Galvão a lavrar água mineral no município de Nova Era, Estado de Minas Gerais.

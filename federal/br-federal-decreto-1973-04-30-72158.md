@@ -1,5 +1,3 @@
-###DEC-072158-0-000-30-04-1973@@@
-
 DECRETO Nº 72.158, DE 30 DE ABRIL DE 1973.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Pioneira de Teresina Ltda., para execução de serviço de radiodifusão sonora, em onda tropical, na cidade de Teresina, Estado do Piauí.

@@ -1,5 +1,3 @@
-###DEL-005644-0-000-05-07-1943@@@
-
 DECRETO-LEI N. 5.644 – DE 5 DE JULHO DE 1943
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 15.000.000,00, para pagamento de abono familiar, e dá outras providências

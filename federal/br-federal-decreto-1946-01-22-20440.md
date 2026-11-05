@@ -1,14 +1,12 @@
-###DEC-020440-0-000-22-01-1946@@@
+**DECRETO Nº 20.440, DE 22 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.440, DE 22 DE JANEIRO DE 1946.</strong>
+***Altera a lotação nominal de repartições atendidas pelo Quadro I do Ministério da Viação e Obras Públicas.***
 
-<em><strong>Altera a lotação nominal de repartições atendidas pelo Quadro I do Ministério da Viação e Obras Públicas.</strong></em>
+**O PRESENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam introduzidas, na lotação nominal das repartições atendidas pelo Quadro I do Ministério da Viação e Obras Públicas, as seguintes alterações, conseqüentes à expedição de Decreto nº 20.298, de 2 de janeiro de 1945, que alterou a respectiva lotação numérica:
+**Art**. 1º Ficam introduzidas, na lotação nominal das repartições atendidas pelo Quadro I do Ministério da Viação e Obras Públicas, as seguintes alterações, conseqüentes à expedição de Decreto nº 20.298, de 2 de janeiro de 1945, que alterou a respectiva lotação numérica:
 
 a) são incluídos:
 
@@ -64,12 +62,12 @@ Oficial Administrativa
 
 Firmino Rangel Brígido.
 
-<strong>Art</strong>. 2º Os funcionários removidos por força deste decreto deverão entrar em exercício, na repartição em que ficarem lotados, no prazo estabelecido pela legislação vigente e independentemente de qualquer comunicação escrita.
+**Art**. 2º Os funcionários removidos por força deste decreto deverão entrar em exercício, na repartição em que ficarem lotados, no prazo estabelecido pela legislação vigente e independentemente de qualquer comunicação escrita.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 22 de janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Maurício Joppert da Silva

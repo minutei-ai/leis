@@ -1,5 +1,3 @@
-###DEC-074659-0-000-07-10-1974@@@
-
 DECRETO Nº 74.659, DE 7 DE OUTUBRO DE 1974.
 
 Autoriza o funcionamento do curso de Serviço Social das Faculdades Integradas Santo Antônio, de São Paulo, Estado de São Paulo, mantidas pelo Instituto de Ensino Superior da Região Bragantina, com sede na Cidade de Bragança Paulista.

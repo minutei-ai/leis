@@ -1,5 +1,3 @@
-###DEC-059056-0-000-11-08-1966@@@
-
 DECRETO Nº 59.056, DE 11 DE AGÔSTO DE 1966.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Guaçuí, com sede em Guaçuí, Estado do Espírito Santo.

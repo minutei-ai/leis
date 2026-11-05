@@ -1,5 +1,3 @@
-###DEC-057636-0-000-14-01-1966@@@
-
 decreto nº 57.636, de 14 de janeiro de 1966.
 
 Dá nova redação a dispositivo de Regimento aprovado pelo decreto nº 56.788, de 25 de agôsto de 1965.

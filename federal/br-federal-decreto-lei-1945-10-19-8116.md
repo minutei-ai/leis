@@ -1,5 +1,3 @@
-###DEL-008116-0-000-19-10-1945@@@
-
 DECRETO-LEI N. 8.116 – DE 19 OUTUBRO DE 1945
 
 Considera caduca a concessão outorgada à “Brasunido Sociedade Anônima” pelo Decreto-lei nº 2.618, de 23 de setembro de 1940.

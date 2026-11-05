@@ -1,5 +1,3 @@
-###DEC-093665-0-000-09-12-1986@@@
-
 DECRETO Nº 93.665, DE 9 DE DEZEMBRO DE 1986
 
 Acrescenta dispositivo ao Decreto nº 88.545, de 26 de julho de 1983, que aprovou o Regulamento Disciplinar para a Marinha.

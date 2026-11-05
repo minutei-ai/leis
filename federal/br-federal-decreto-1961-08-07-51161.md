@@ -1,5 +1,3 @@
-###DEC-051161-0-000-07-08-1961@@@
-
 DECRETO Nº 51.161, DE 7 DE AGÔSTO DE 1961.
 
 Concede à Termas de Campos de Jordão S. A. autorização para funcionar como emprêsa de mineração.

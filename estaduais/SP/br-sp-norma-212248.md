@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212248)<br>
-
 # DECRETO N° 70.386, DE 24 DE FEVEREIRO DE 2026
 
 ### _Declara de interesse social, para fins de desapropriação, o imóvel situado na Rua dos Andradas, n°s 65, 69 e 73, Distrito da República, no Município de São Paulo, necessário à execução de programa habitacional e de desenvolvimento urbano, e dá providências correlatas._

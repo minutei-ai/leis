@@ -1,5 +1,3 @@
-###DEC-097450-0-000-13-01-1989@@@
-
 DECRETO N° 97.450, DE 13 DE JANEIRO DE 1989
 
 Fixa relação entre os preços do álcool hidratado e da gasolina.

@@ -1,5 +1,3 @@
-###DEC-071996-0-000-27-03-1973@@@
-
 DECRETO Nº 71.996, DE 27 DE MARÇO DE 1973.
 
 Outorga a Ernesto José Annoni concessão para o aproveitamento hidráulico de um trecho do rio Sepultura Grande, no Estado do Rio Grande do Sul.
@@ -37,8 +35,6 @@ Brasília, 27 de março de 1973; 152º da Independência e 85º da República.
 Emílio G Médici
 
  Antônio Dias Leite Júnior
-
-###DEC-071996-0-000-27-03-1973@@@RET01+++
 
 DECRETO Nº 71.996, DE 27 DE MARÇO DE 1973.
 

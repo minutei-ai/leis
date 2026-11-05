@@ -1,5 +1,3 @@
-###DEC-066844-0-000-03-07-1970@@@
-
 DECRETO Nº 66.844, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Casa dos Amigos de Santo Antônio - C. A. S. A., com sede em Pôrto Alegre,  Estado do Rio Grande do Sul.

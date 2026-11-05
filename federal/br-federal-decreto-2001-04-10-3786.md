@@ -1,5 +1,3 @@
-###DEC-003786-0-000-10-04-2001@@@
-
 DECRETO Nº 3.786, DE 10 DE ABRIL DE 2001
 
 Regulamenta o art. 99 da Lei nº 9.504, de 30 de setembro de 1997, para os efeitos de ressarcimento fiscal pela propaganda eleitoral gratuita relativamente ao ano-calendário de 2000 e subseqüentes.

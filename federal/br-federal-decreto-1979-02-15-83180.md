@@ -1,5 +1,3 @@
-###DEC-083180-0-000-15-02-1979@@@
-
 DECRETO Nº 83.180, DE 15 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Tecnologia em Obras de Solos da Faculdade de Engenharia de Limeira, em Limeira, Estado de São Paulo.

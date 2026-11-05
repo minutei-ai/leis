@@ -1,5 +1,3 @@
-###DEL-009646-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.646 – DE 22 DE AGÔSTO DE 1946
 
 Reorganiza os serviços da Presidência da República e dá outras providências

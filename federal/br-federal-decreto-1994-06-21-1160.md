@@ -1,7 +1,3 @@
-1
-
-###DEC-001160-0-000-21-06-1994@@@
-
 DECRETO N° 1.160, DE 21 DE JUNHO DE 1994
 
 Cria a Comissão Interministerial para o Desenvolvimento Sustentável (CIDES) e dá outras providências.

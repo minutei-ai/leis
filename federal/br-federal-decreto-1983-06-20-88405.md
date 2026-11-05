@@ -1,5 +1,3 @@
-###DEC-088405-0-000-20-06-1983@@@
-
 Decreto nº 88.405, de 20 de junho de 1983
 
 Revoga o Decreto nº 84.759, de 02 de junho de 1980 que outorgou concessão à TV RÁDIO TROPICAL DE LÁBREA LTDA., para exploração do serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Lábrea, Estado do Amazonas.

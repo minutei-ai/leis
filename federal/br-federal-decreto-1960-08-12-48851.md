@@ -1,5 +1,3 @@
-###DEC-048851-0-000-12-08-1960@@@
-
 DECRETO Nº 48.851, DE 12 DE AGÔSTO DE 1960.
 
 Outorga ao Estado do Paraná concessão para distribuir energia elétrica.

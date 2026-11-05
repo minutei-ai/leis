@@ -1,5 +1,3 @@
-###DEC-051202-0-000-17-08-1961@@@
-
 DECRETO Nº 51.202, DE 17 DE AGÔSTO DE 1961.
 
 Dispõe sôbre as atribuições e o regime de trabalho do Substituto do Presidente da Comissão Federal de Abastecimento e Preços (COFAP).

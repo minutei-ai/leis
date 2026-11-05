@@ -1,5 +1,3 @@
-###DEC-077941-0-000-30-06-1976@@@
-
 DECRETO Nº 77.941, DE 30 DE JUNHO DE 1976.
 
 Cria Grupo de Trabalho para o fim que específica.

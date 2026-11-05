@@ -10,8 +10,6 @@ Art.2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, 08 de março de 2023.
 
-<br>
-
 CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
 Secretária de Estado da Economia

@@ -1,5 +1,3 @@
-###DEL-006745-0-000-28-07-1944@@@
-
 DECRETO-LEI N. 6.745 – DE 28 DE JULHO DE 1944
 
 Abre ao Conselho de Segurança Nacional o crédito suplementar de Cr$ 1.500,00 à dotação que especifica

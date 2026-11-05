@@ -1,5 +1,3 @@
-###DEC-048483-0-000-09-07-1960@@@
-
 DECRETO Nº 48.483, DE 9 DE JULHO DE 1960.
 
 Transfere função da Tabela Única de Extranumerário-mensalista do Ministério da Justiça e Negócios Interiores, para a Tabela Única de Extranumerário-mensalista do Ministério da Fazenda.

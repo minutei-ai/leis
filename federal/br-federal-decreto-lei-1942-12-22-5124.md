@@ -1,5 +1,3 @@
-###DEL-005124-0-000-22-12-1942@@@
-
 DECRETO-LEI N. 5.124 – DE 22 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de Cr$ 4.300,00 à verba que especifica

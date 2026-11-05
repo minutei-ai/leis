@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210341)<br>
-
 # DECRETO N° 69.156, DE 12 DE DEZEMBRO DE 2024
 
 ### _Transfere, da Secretaria da Segurança Pública para a Secretaria da Justiça e Cidadania, a administração do imóvel que especifica, localizado no Município de São Paulo._

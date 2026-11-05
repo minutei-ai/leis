@@ -1,5 +1,3 @@
-###DEC-047903-0-000-11-03-1960@@@
-
 DECRETO Nº 47.903, DE 11 DE MARÇO DE 1960.
 
 Autoriza concessão de suprimento de recursos à Comissão de Marinha Mercante para pagamento de auxílio-operacional às emprêsas de navegação de Cabotagem e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-001719-0-000-28-11-1979@@@
-
 # Decreto-lei nº 1.719, de 28 de novembro de 1979
 
 Autoriza a garantia do Tesouro Nacional a empréstimo interno para o Estado de Mato Grosso, no limite e condições que especifica.

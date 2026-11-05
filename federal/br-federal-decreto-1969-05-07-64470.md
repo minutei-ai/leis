@@ -1,5 +1,3 @@
-###DEC-064470-0-000-07-05-1969@@@
-
 DECRETO Nº 64.470, DE 7 DE MAIO DE 1969.
 
 Declara de utilidade pública a Academia Brasileira de Administração Hospitalar, com sede no Estado da Guanabara.

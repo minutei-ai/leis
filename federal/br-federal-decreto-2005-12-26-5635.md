@@ -1,5 +1,3 @@
-###DEC-005635-0-000-26-12-2005@@@
-
 DECRETO Nº 5.635, DE 26 DE DEZEMBRO DE 2005.
 
        Dá nova redação ao inciso I do art. 2o do Decreto no 5.355, de 25 de janeiro de 2005, que dispõe sobre a utilização do Cartão de Pagamento do Governo Federal - CPGF, pelos órgãos e entidades da administração pública federal direta, autárquica e fundacional, para pagamento de despesas realizadas nos termos da legislação vigente.

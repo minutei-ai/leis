@@ -1,5 +1,3 @@
-###DEC-092013-0-000-28-11-1985@@@
-
 Decreto nº 92.013, de 28 de novembro de 1985
 
 Declara de ocupação dos indígenas, área de terras que menciona, no Estado do Acre, e dá outras providências.

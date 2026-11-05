@@ -1,5 +1,3 @@
-###DEC-046256-0-000-10-06-1959@@@
-
 DECRETO Nº 46.256, DE 10 DE JUNHO DE 1959.
 
 Altera o Regimento do Conselho Nacional do Petróleo, aprovado pelo Decreto nº 42.786, de 10 de dezembro de 1957.

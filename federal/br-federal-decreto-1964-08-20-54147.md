@@ -1,5 +1,3 @@
-###DEC-054147-0-000-20-08-1964@@@
-
 DECRETO Nº 54.147, DE 20 DE AGÔSTO DE 1964.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Central Elétrica Capivari Cachoeira S.A. - Eletrocap.

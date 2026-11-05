@@ -1,5 +1,3 @@
-###DEC-074184-0-000-18-06-1974@@@
-
 DECRETO Nº 74.184, DE 18 DE JUNHO DE 1974
 
 Concede reconhecimento à Faculdade de Administração de Empresas de Santos, mantida pela Fundação Lusíada, com sede na cidade de Santos, Estado de São Paulo.

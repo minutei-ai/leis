@@ -24,7 +24,8 @@ IV – Auxiliar Pedagógico Disciplinar;
 
 ..........................................................................................................................” (NR)
 
-“Art. 7º A jornada de trabalho dos integrantes do Quadro Permanente do Magistério – QPM efetivo ou contratado temporariamente e dos Agentes Administrativos Educacionais em exercício nos Colégios Estaduais em Período Integral – CEPIs ~~Centros de Ensino em Período Integral – CEPIs~~ será cumprida em Regime de Dedicação Plena e Integral – RDPI, com carga de 8 (oito) horas diárias, correspondente a 40 (quarenta) horas semanais, e de 6 (seis) horas diárias, correspondente a 30 (trinta) horas semanais, em período integral, com atividades multidisciplinares e/ou de gestão especializada, respeitado o tempo de funcionamento de cada unidade, conforme regulamento.” (NR)<br>
+“Art. 7º A jornada de trabalho dos integrantes do Quadro Permanente do Magistério – QPM efetivo ou contratado temporariamente e dos Agentes Administrativos Educacionais em exercício nos Colégios Estaduais em Período Integral – CEPIs ~~Centros de Ensino em Período Integral – CEPIs~~ será cumprida em Regime de Dedicação Plena e Integral – RDPI, com carga de 8 (oito) horas diárias, correspondente a 40 (quarenta) horas semanais, e de 6 (seis) horas diárias, correspondente a 30 (trinta) horas semanais, em período integral, com atividades multidisciplinares e/ou de gestão especializada, respeitado o tempo de funcionamento de cada unidade, conforme regulamento.” (NR)
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 “Art. 15. O pagamento da Gratificação de Dedicação Plena e Integral – GDPI será concedido aos servidores constantes do art. 5º desta Lei.
@@ -37,24 +38,28 @@ IV – Auxiliar Pedagógico Disciplinar;
 
 ..........................................................................................................................” (NR)
 
-“Art. 20-A. As unidades escolares integrantes do Programa de Educação Plena e Integral, denominadas Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~, terão o processo específico de escolha do Gestor Escolar, disciplinado em regulamento próprio.” (NR)<br>
+“Art. 20-A. As unidades escolares integrantes do Programa de Educação Plena e Integral, denominadas Colégios Estaduais em Período Integral ~~Centros de Ensino em Período Integral~~, terão o processo específico de escolha do Gestor Escolar, disciplinado em regulamento próprio.” (NR)
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º.
 
 Art. 3º Cada unidade escolar denominada Colégio Estadual da Polícia Militar de Goiás pertencente à parceria entre a Polícia Militar de Goiás e a Secretaria de Estado da Educação e que integra o Programa de Educação Plena e Integral passará a ser denominada Colégio Estadual da Polícia Militar de Goiás Integral – CEPMGI, será acompanhada pela Superintendência de Educação Integral e pela Superintendência de Segurança Escolar e Colégio Militar, também fará jus a gratificações, quadro de profissionais e diretrizes dos CEPIs.
 
 Art. 4º A remuneração dos profissionais da educação contratados temporariamente nos CEPIs fica adicionada da Gratificação de Dedicação Plena e Integral nos casos em que o servidor exercer as funções elencadas no Anexo I desta Lei.
 
-~~Art. 5º Em decorrência do disposto no art. 4º desta Lei, a Tabela 2 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, passa a vigorar com as alterações constantes do Anexo II desta Lei.~~<br>
+~~Art. 5º Em decorrência do disposto no art. 4º desta Lei, a Tabela 2 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, passa a vigorar com as alterações constantes do Anexo II desta Lei.~~
+
 \- [Revogado pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595), art. 14, V.
 
 Art. 6º Ficam criadas as unidades escolares de educação básica pertencentes ao Programa de Educação Plena e Integral elencadas no Anexo III desta Lei.
 
 Art. 7º As Gratificações de Dedicação Plena e Integral – GDPIs, previstas no Anexo II da [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633/lei-20917), de 2020, ficam alteradas, nos termos no Anexo I desta Lei.
 
-~~Art. 8º As funções comissionadas previstas na Tabela 2 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, ficam alteradas, nos termos do Anexo II desta Lei.~~<br>
+~~Art. 8º As funções comissionadas previstas na Tabela 2 da alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 2019, ficam alteradas, nos termos do Anexo II desta Lei.~~
+
 \- [Revogado pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595), art. 14, V.
 
-Art. 9º  Ficam criadas, na SEDUC, para o pessoal lotado nos Colégios Estaduais da Polícia Militar, nas Coordenações Regionais de Educação e na Secretaria de Estado da Educação, as seguintes gratificações:<br>
+Art. 9º  Ficam criadas, na SEDUC, para o pessoal lotado nos Colégios Estaduais da Polícia Militar, nas Coordenações Regionais de Educação e na Secretaria de Estado da Educação, as seguintes gratificações:
+
 \- [Redação dada pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Art. 9º Ficam criadas, na Secretaria de Estado da Educação, para os servidores lotados nos Colégios Estaduais da Polícia Militar, nas Coordenações Regionais de Educação e na Secretaria de Estado da Educação, as seguintes funções comissionadas:~~
@@ -65,48 +70,60 @@ II – Assessoramento Pedagógico; e
 
 III – Tutoria Educacional.
 
-Parágrafo único.  Em nenhuma hipótese poderão ser concedidas aos servidores que não se encontram no efetivo exercício de gestão pedagógica, assessoramento pedagógico e tutoria educacional as gratificações de que trata este artigo, mesmo quando estiverem lotados nos Colégios Estaduais da Polícia Militar, nas Coordenações Regionais de Educação ou na Centralizada.<br>
+Parágrafo único.  Em nenhuma hipótese poderão ser concedidas aos servidores que não se encontram no efetivo exercício de gestão pedagógica, assessoramento pedagógico e tutoria educacional as gratificações de que trata este artigo, mesmo quando estiverem lotados nos Colégios Estaduais da Polícia Militar, nas Coordenações Regionais de Educação ou na Centralizada.
+
 \- [Redação dada pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Parágrafo único. Em nenhuma hipótese poderão ser concedidas aos servidores que não se encontram no efetivo exercício de gestão pedagógica, assessoramento pedagógico e tutoria educacional as funções comissionadas de que trata este artigo, mesmo quando estiverem lotados nos Colégios Estaduais da Polícia Militar, nas Coordenações Regionais de Educação e/ou na Centralizada.~~
 
-Art. 10.  As gratificações de que trata o art. 9º desta Lei não se incorporarão ao vencimento ou aos proventos dos profissionais do magistério para qualquer efeito e não serão computadas ou acumuladas para a concessão de quaisquer acréscimos pecuniários posteriores, salvo 13º salário e adicional de férias, sob o mesmo título ou idêntico fundamento, também não incidirão sobre elas descontos de cunho previdenciário.<br>
+Art. 10.  As gratificações de que trata o art. 9º desta Lei não se incorporarão ao vencimento ou aos proventos dos profissionais do magistério para qualquer efeito e não serão computadas ou acumuladas para a concessão de quaisquer acréscimos pecuniários posteriores, salvo 13º salário e adicional de férias, sob o mesmo título ou idêntico fundamento, também não incidirão sobre elas descontos de cunho previdenciário.
+
 \- [Redação dada pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Art. 10. As funções comissionadas de que trata o art. 9º desta Lei não se incorporarão ao vencimento ou aos proventos dos profissionais do magistério para qualquer efeito e não serão computadas ou acumuladas para a concessão de quaisquer acréscimos pecuniários posteriores, salvo 13º salário e adicional de férias, sob o mesmo título ou idêntico fundamento, também não incidirão sobre elas descontos de cunho previdenciário.~~
 
-Art. 11.  As gratificações de que trata o art. 9º desta Lei observarão os tipos, os símbolos e os valores constantes do Anexo IV desta Lei.<br>
+Art. 11.  As gratificações de que trata o art. 9º desta Lei observarão os tipos, os símbolos e os valores constantes do Anexo IV desta Lei.
+
 \- [Redação dada pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Art. 11. Ficam acrescidas à alínea “c” do Anexo VI da [Lei nº 20.491](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100701/lei-20491), de 25 de junho de 2019, as funções comissionadas previstas na Tabela 6, constante do Anexo IV desta Lei.~~
 
-§ 1º  Os quantitativos das gratificações de que trata o caput deste artigo serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.<br>
+§ 1º  Os quantitativos das gratificações de que trata o caput deste artigo serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 2º  A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a modificação ou a designação com data retroativa.<br>
+§ 2º  A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração – SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a modificação ou a designação com data retroativa.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 3º  Os critérios da avaliação periódica para a manutenção da percepção das gratificações de que trata o caput deste artigo serão estabelecidos em decreto.<br>
+§ 3º  Os critérios da avaliação periódica para a manutenção da percepção das gratificações de que trata o caput deste artigo serão estabelecidos em decreto.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-Art. 11-A.  Caso a atribuição e a responsabilidade diferenciada de que trata o art. 9º desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele a Função Comissionada Educacional – FCE equivalente.<br>
+Art. 11-A.  Caso a atribuição e a responsabilidade diferenciada de que trata o art. 9º desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele a Função Comissionada Educacional – FCE equivalente.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 1º  A FCE de que trata este artigo é prevista na Tabela 9 da alínea “c” do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos da Gratificação de Assessoramento Pedagógico do Anexo IV desta Lei.<br>
+§ 1º  A FCE de que trata este artigo é prevista na Tabela 9 da alínea “c” do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos da Gratificação de Assessoramento Pedagógico do Anexo IV desta Lei.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-§ 2º  O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.<br>
+§ 2º  O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-Art. 11-B.  O valor global das gratificações de que trata o art. 9º desta Lei será estabelecido no decreto regulamentador.<br>
+Art. 11-B.  O valor global das gratificações de que trata o art. 9º desta Lei será estabelecido no decreto regulamentador.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-Parágrafo único. O valor das funções comissionadas, quando for aplicável nos termos do art. 11-A desta Lei, será compartilhado com o das gratificações de que trata o caput deste artigo.<br>
+Parágrafo único. O valor das funções comissionadas, quando for aplicável nos termos do art. 11-A desta Lei, será compartilhado com o das gratificações de que trata o caput deste artigo.
+
 \- [Acrescido pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 Art. 12. As despesas decorrentes desta Lei serão custeadas pelo Orçamento-Geral do Estado.
 
-Parágrafo único.  As despesas decorrentes do que é estabelecido pelo art. 11 desta Lei serão custeadas com a redução das horas-aula previstas no [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946), de 23 de abril de 2021, em montante igual ou superior aos custos provenientes da criação das gratificações previstas nos incisos I, II e III do art. 9º desta Lei, observado o disposto nos §§ 2º e 3º do art. 8º da Lei Complementar federal nº 159, de 19 de maio de 2017, que trata de compensação em caso de acréscimo de despesa com pessoal.<br>
+Parágrafo único.  As despesas decorrentes do que é estabelecido pelo art. 11 desta Lei serão custeadas com a redução das horas-aula previstas no [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946), de 23 de abril de 2021, em montante igual ou superior aos custos provenientes da criação das gratificações previstas nos incisos I, II e III do art. 9º desta Lei, observado o disposto nos §§ 2º e 3º do art. 8º da Lei Complementar federal nº 159, de 19 de maio de 2017, que trata de compensação em caso de acréscimo de despesa com pessoal.
+
 \- [Redação dada pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
 ~~Parágrafo único. As despesas decorrentes do estabelecido pelo art. 11 desta Lei serão custeadas com a redução das horas-aula previstas no [Decreto nº 9.853](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103946/decreto-9853), de 23 de abril de 2021, em montante igual ou superior aos custos decorrentes da criação das funções comissionadas previstas nos incisos I, II e III do art. 9º desta Lei, observado o disposto nos §§ 2º e 3º do art. 8º da Lei Complementar federal nº 159, de 19 de maio de 2017, que trata de compensação em caso de acréscimo de despesa com pessoal.~~
@@ -145,7 +162,8 @@ GRATIFICAÇÃO DE DEDICAÇÃO PLENA E INTEGRAL – GDPI
 
 ..........................................................................................................................”(NR)
 
-ANEXO II<br>
+ANEXO II
+
 \- [Revogado pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595), art. 14, V.
 
 “~~ANEXO VI~~
@@ -177,18 +195,23 @@ ANEXO III
 
 | CIDADE | UNIDADE ESCOLAR | ENDEREÇO |
 | --- | --- | --- |
-| Águas Lindas de Goiás | Colégio Estadual em Período Integral  ~~Centro de Ensino em Período Integral~~ Nelson Mandela<br>
+| Águas Lindas de Goiás | Colégio Estadual em Período Integral  ~~Centro de Ensino em Período Integral~~ Nelson Mandela
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. | Quadra 53 APM, Lotes 1 a 3, Jardim Brasília |
-| Águas Lindas de Goiás | Colégio Estadual Iris Rezende Machado<br>
-\- [Denominação dada pela Lei nº 23.069, de 11-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109912).<br>
+| Águas Lindas de Goiás | Colégio Estadual Iris Rezende Machado
+
+\- [Denominação dada pela Lei nº 23.069, de 11-11-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109912).
+
 ~~Centro de Ensino em Período Integral Iris Rezende Machado~~ | Rua Mansões Odisseia, SN, Quadra APM 2, Lotes 1 a 3, Mansões Odisseia |
-| Santo Antônio do Descoberto | Colégio Estadual em Período Integral ~~Centro de Ensino em Período Integral~~ Parque Estrela D’Alva XIII<br>
+| Santo Antônio do Descoberto | Colégio Estadual em Período Integral ~~Centro de Ensino em Período Integral~~ Parque Estrela D’Alva XIII
+
 \- [Denominação dada pela Lei nº 23.991, de 30-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983), art. 2º. | Rua 66, Quadras 150 e 151, Equipamento Público e Comunitário, Estrela D’Alva XIII |
 
-ANEXO IV<br>
+ANEXO IV
+
 \- [Redação dada pela Lei º 23.595, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111174/lei-23595).
 
-<table style="width: 681px;"><tbody><tr><td colspan="4" style="text-align: center; width: 645px;">TABELA 1 – GRATIFICAÇÃO DE ASSESSORAMENTO PEDAGÓGICO</td></tr><tr><td style="text-align: center; width: 2px;">TIPO</td><td style="text-align: center; width: 325px;">DENOMINAÇÃO</td><td style="text-align: center; width: 101px;">SÍMBOLO</td><td style="text-align: center; width: 161px;">VALOR</td></tr><tr><td style="text-align: center; width: 2px;">1</td><td style="text-align: center; width: 325px;">Gratificação de Gestor Pedagógico</td><td style="text-align: center; width: 101px;">GRATGP</td><td style="width: 161px; text-align: center;">R$ 2.000,00</td></tr><tr><td style="text-align: center; width: 2px;">2</td><td style="text-align: center; width: 325px;">Gratificação de Assessoria Pedagógica Regional</td><td style="text-align: center; width: 101px;">GRATAPCRE</td><td style="width: 161px; text-align: center;">R$ 1.800,00</td></tr><tr><td style="text-align: center; width: 2px;">3</td><td style="text-align: center; width: 325px;">Gratificação de Assessoria Pedagógica Central</td><td style="text-align: center; width: 101px;">GRATAPCENT</td><td style="width: 161px; text-align: center;">R$ 1.800,00</td></tr><tr><td style="text-align: center; width: 2px;">4</td><td style="text-align: center; width: 325px;">Gratificação de Tutor Educacional</td><td style="text-align: center; width: 101px;">GRATTE</td><td style="width: 161px; text-align: center;">R$ 2.300,00</td></tr></tbody></table>
+<table><tbody><tr><td colspan="4">TABELA 1 – GRATIFICAÇÃO DE ASSESSORAMENTO PEDAGÓGICO</td></tr><tr><td>TIPO</td><td>DENOMINAÇÃO</td><td>SÍMBOLO</td><td>VALOR</td></tr><tr><td>1</td><td>Gratificação de Gestor Pedagógico</td><td>GRATGP</td><td>R$ 2.000,00</td></tr><tr><td>2</td><td>Gratificação de Assessoria Pedagógica Regional</td><td>GRATAPCRE</td><td>R$ 1.800,00</td></tr><tr><td>3</td><td>Gratificação de Assessoria Pedagógica Central</td><td>GRATAPCENT</td><td>R$ 1.800,00</td></tr><tr><td>4</td><td>Gratificação de Tutor Educacional</td><td>GRATTE</td><td>R$ 2.300,00</td></tr></tbody></table>
 
 | ~~TABELA 6 FUNÇÕES COMISSIONADAS DE ASSESSORAMENTO PEDAGÓGICO – FCEs~~ |
 | --- |

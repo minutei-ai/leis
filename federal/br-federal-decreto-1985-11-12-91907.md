@@ -1,5 +1,3 @@
-###DEC-091907-0-000-12-11-1985@@@
-
 # Decreto nº 91.907, de 12 de novembro de 1985.
 
 Modifica a redação do artigo 8º do Decreto nº 81.053, de 19 de dezembro de 1977, que regulamenta a transferência e a movimentação dos servidores civis da União e das autarquias federais.

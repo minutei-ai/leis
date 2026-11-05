@@ -1,5 +1,3 @@
-###DEC-059340-0-000-30-09-1966@@@
-
 DECRETO Nº 59.340, de 30 de SETEMBRO DE 1966.
 
 Autoriza a Companhia de Cimento Portland Maringá a lavrar minério de ferro no município de Itararé, São Paulo.

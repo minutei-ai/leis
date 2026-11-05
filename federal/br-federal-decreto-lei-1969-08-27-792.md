@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b87461c9-df83-44ac-99af-9aecfa0101cd/texto#nowhere)
 
-###DEL-000792-0-000-27-08-1969@@@
-
 DECRETO-LEI Nº 792, DE 27 de AGôSTO DE 1969
 
 Suprime o art. 8º do Decreto-lei nº 315, de 13 de março de 1967 e assegura ao pessoal da Polícia Militar e do Corpo de Bombeiros do Distrito Federal a observância das disposições da Lei nº 4.328, de 30 de abril de 1964, que lhe eram aplicáveis.

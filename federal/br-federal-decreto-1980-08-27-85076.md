@@ -1,5 +1,3 @@
-###DEC-085076-0-000-27-08-1980@@@
-
 Decreto nº 85.076, de 27 de agosto de 1980
 
 Declara de interesse social, para fins de desaproprição, o imóvel rural que menciona, situado nos Municípios de Xapuri e Brasiléia, no Estado do Acre, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelo Decreto nº 75.295, de 27 de janeiro de 1975, e cuja vigência foi prorrogada pelo Decreto nº 85.075, de 27 de agosto de 1980.

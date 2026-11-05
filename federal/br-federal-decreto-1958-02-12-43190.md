@@ -1,14 +1,12 @@
-###DEC-043190-0-000-12-02-1958@@@
+**DECRETO Nº 43.190, DE 12 DE FEVEREIRO DE 1958.**
 
-<strong>DECRETO Nº 43.190, DE 12 DE FEVEREIRO DE 1958.</strong>
+***Designa as funções privativas de oficial-general em tempo de paz.***
 
-<em><strong>Designa as funções privativas de oficial-general em tempo de paz.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º São privativas de oficial-general as seguintes funções instituídas pela Lei número 2.851, de 25 de agôsto de 1956:
+**Art**. 1º São privativas de oficial-general as seguintes funções instituídas pela Lei número 2.851, de 25 de agôsto de 1956:
 
 A - Do pôsto de Marechal ou General de Exército:
 
@@ -164,9 +162,9 @@ P - Do pôsto de General de Brigada Veterinário:
 
 1 - Diretor de Veterinária.
 
-<strong>Art</strong>. 2º Os Comandos das 4ª, 5ª e 7ª Regiões Militares são exercidos cumulativamente com os das 4ª, 5ª e 7ª Divisões de Infantaria, respectivamente.
+**Art**. 2º Os Comandos das 4ª, 5ª e 7ª Regiões Militares são exercidos cumulativamente com os das 4ª, 5ª e 7ª Divisões de Infantaria, respectivamente.
 
-<strong>Art</strong>. 3º Poderão ser desempenhadas por Generais de Brigada ou Coronéis as seguintes funções:
+**Art**. 3º Poderão ser desempenhadas por Generais de Brigada ou Coronéis as seguintes funções:
 
 \- Diretor do Hospital Central do Exército (Médico)
 
@@ -184,12 +182,12 @@ P - Do pôsto de General de Brigada Veterinário:
 
 \- Comandante das Guarnições de Santos, Florianópolis, Niterói, Maceió, Aracajú e Manáus (Combatente).
 
-<strong>Art</strong>. 4º As funções de 2º Subchefe do Departamento de Produção e Obras, de Diretor de Obras e Fortificações, de Diretor de Comunicações, de Diretor do Patrimônio do Exército, de Diretor de Vias de Transporte e de Diretor de Material de Comunicações podem ser exercidas por oficial-general combatente as duas primeiras e por oficial-general técnico as quatro últimas.
+**Art**. 4º As funções de 2º Subchefe do Departamento de Produção e Obras, de Diretor de Obras e Fortificações, de Diretor de Comunicações, de Diretor do Patrimônio do Exército, de Diretor de Vias de Transporte e de Diretor de Material de Comunicações podem ser exercidas por oficial-general combatente as duas primeiras e por oficial-general técnico as quatro últimas.
 
-<strong>Art</strong>. 5º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 12 de fevereiro de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

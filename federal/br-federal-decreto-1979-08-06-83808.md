@@ -1,5 +1,3 @@
-###DEC-083808-0-000-06-08-1979@@@
-
 Decreto nº 83.808, de 06 de agosto de 1979.
 
 Concede à Empresa "Ecuatoriana de Aviación" autorização para funcionar no Brasil, com Escritório para venda de transporte aéreo, na Cidade do Rio de Janeiro.

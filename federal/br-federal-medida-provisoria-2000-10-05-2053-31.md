@@ -1,5 +1,3 @@
-###MPV-002053-0-031-05-10-2000@@@
-
 Medida provisória nº 2.053-31, de 5 de outubro de 2000.
 
 Dá nova redação ao art. 9º da Lei nº 8.723, de 28 de outubro de 1993, que dispõe sobre redução de emissão de poluente por veiculo automotores, e dá outras providências.

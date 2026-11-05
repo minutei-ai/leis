@@ -1,5 +1,3 @@
-###DEC-091632-0-000-06-09-1985@@@
-
 Decreto nº 91.632, de 06 de Setembro de 1985
 
 Altera o Art. 4º do Decreto nº 90.725, de 19 de dezembro de 1984, que institui a Comissão Assessora de Assuntos Científicos e Tecnológicos das Forças Armadas - COMASSE.

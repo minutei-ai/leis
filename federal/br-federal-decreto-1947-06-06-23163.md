@@ -1,14 +1,12 @@
-###DEC-023163-0-000-06-06-1947@@@
+**decreto nº 23.163, de 6 de junho de 1947.**
 
-<strong>decreto nº 23.163, de 6 de junho de 1947.</strong>
+***Dá nova redação ao § 2º do art. 3º e ao art. 7º do Regulamento aprovado pelo Decreto nº 20.497, de 24 de janeiro de 1946.***
 
-<em><strong>Dá nova redação ao § 2º do art. 3º e ao art. 7º do Regulamento aprovado pelo Decreto nº 20.497, de 24 de janeiro de 1946.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**Decreta:**
 
-<strong>Decreta:</strong>
-
-<strong>Art</strong>. 1º - O § 2º do art. 3º e o orçamento 7º do Regulamento aprovado pelo Decreto nº 20.497, de 24 de janeiro de 1946, passam a vigorar com a seguinte redação:
+**Art**. 1º - O § 2º do art. 3º e o orçamento 7º do Regulamento aprovado pelo Decreto nº 20.497, de 24 de janeiro de 1946, passam a vigorar com a seguinte redação:
 
 "§ 2º do art. 3º - A "Cruz de Aviação" será de bronze oxidado; cruz patea estilizada, com 40mm de diâmetro, quatro ramos iguais de 12mm casa um, tendo, na parte mais larga, 13mm e, na mais estreita, 2mm, ligados a um disco fletado de 16mm de diâmetro, - contornado por filete de 1mm tendo ao centro, em relevo, o emblema da Fôrça Aérea Brasileira, com envergadura de asas de 21mme sabre de 16mm de altura.
 
@@ -22,14 +20,14 @@ Fita B - com 27mm de largura e por 40mm de largura de chamalote com faixas verti
 
 Art. 7º A "Cruz de Aviação" será conferida aos tripulantes de aeronaves militares da ativa ou da reserva convocados, que tenham desempenhado, com eficiência, missão de guerra.
 
-§ 1º A "Cruz de Aviação" será usada a fita <em>A</em> ou a fita <em>B</em>, conforme o seu detentor tenha desempenhado missões na Itália ou no litoral brasileiro.
+§ 1º A "Cruz de Aviação" será usada a fita *A* ou a fita *B*, conforme o seu detentor tenha desempenhado missões na Itália ou no litoral brasileiro.
 
 § 2º Sempre que o detentor da medalha complete 20 missões, terá direito a uma estrela de bronze a ser colocada em fita ou passadeira; cada grupo de cinco estrelas será substituído por uma palma de bronze, a ser usada nas mesmas condições acima referidas.
 
-<strong>Art</strong>. 2º - Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
+**Art**. 2º - Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 
 Rio de Janeiro, 6 de junho de 1947, 126º da Independência e 59º da República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Armando Trompowsky

@@ -1,5 +1,3 @@
-###DEC-081574-0-000-18-04-1978@@@
-
 Decreto nº 81.574, de 18 de abril de 1978.
 
 Retifica a concessão de lavra outorga a Sebastião Soares da Cunha pelo Decreto nº 8.320, de 03 de dezembro de 1941.

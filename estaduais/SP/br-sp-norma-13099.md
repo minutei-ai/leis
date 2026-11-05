@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/13099)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1994/compilacao-lei.complementar-759-25.07.1994.html)
 
 # LEI COMPLEMENTAR N° 759, DE 25 DE JULHO DE 1994
@@ -7,8 +6,10 @@
 
 ### _Institui Gratificação por Atividade de Apoio à Agricultura - GAAG, para os integrantes das classes que especifica e dá outras providências._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
+
 ~~Artigo 1° - Fica instituída Gratificação por Atividade de Apoio à Agricultura - GAAG, aos integrantes das classes adiante mencionadas, que se encontrem em efetivo exercício na Coordenadoria de Assistência Técnica Integral CATI, da Secretaria de Agricultura e Abastecimento, na seguinte conformidade:~~
 
 ~~Artigo 1° - Fica instituída a Gratificação por Atividade de Apoio à Agricultura - GAAG aos integrantes das classes adiante mencionadas, que se encontrem em efetivo exercício na Coordenadoria de Assistência Técnica e Integral - CATI e na Coordenadoria de Defesa Agropecuária - CDA, da Secretaria de Agricultura e Abastecimento, na seguinte conformidade: (NR)~~
@@ -19,51 +20,90 @@ _~~\- "Caput" com redação dada pela [Lei Complementar n° 975, de 06/10/2005](
 
 _\- Artigo 1° revogado pela [Lei Complementar n° 1.157, de 02/12/2011](https://www.al.sp.gov.br/norma/164377), com efeitos a partir de 01/07/2011._
 
-~~**I -** pertencentes às Escalas de Vencimentos do Plano Geral de Cargos, Vencimentos e Salários, instituído pela [Lei Complementar n° 712, de 12 de abril de 1993](https://www.al.sp.gov.br/norma/16084):~~<br>
-~~**a)** Escala de Vencimentos - Nível Elementar:~~<br>
-~~**1 -** Auxiliar Agropecuário;~~<br>
-~~**2 -** Auxiliar de Serviços;~~<br>
-~~**3 -** Feitor;~~<br>
-~~**4 -** Mestre de Obras;~~<br>
-~~**5 -** Oficial de Serviços Gráficos;~~<br>
-~~**6 -** Oficial de Serviços e Manutenção;~~<br>
-~~**7 -** Telefonista;~~<br>
-~~**8 -** Trabalhador Braçal; e~~<br>
-~~**9 -** Vigia;~~<br>
-~~**b)** Escala de Vencimentos - Nível Intermediário:~~<br>
-~~**1 -** Agente Administrativo;~~<br>
-~~**2 -** Almoxarife;~~<br>
-~~**3 -** Auxiliar de Engenheiro;~~<br>
-~~**4 -** Desenhista;~~<br>
-~~**5 -** Motorista;~~<br>
-~~**6 -** Oficial Administrativo;~~<br>
-~~**7 -** Oficial de Serviços em Cine e Foto;~~<br>
-~~**8 -** Operador de Máquinas;~~<br>
-~~**9 -** Operador de Telecomunicações;~~<br>
-~~**10 -** Recreacionista;~~<br>
-~~**11 -** Técnico Agrícola;~~<br>
-~~**12 -** Técnico Agropecuário;~~<br>
-~~**13 -** Técnico de Contabilidade; e~~<br>
-~~**14 -** Topógrafo;~~<br>
-~~**c)** Escala de Vencimentos - Nível Universitário: Zootecnista;~~<br>
-~~**d)** Escala de Vencimentos - Classes Executivas: Executivo Público I;~~<br>
-~~**e)** Escala de Vencimentos - Comissão:~~<br>
-~~**1 -** Chefe de Seção;~~<br>
-~~**2 -** Chefe de Seção Técnica;~~<br>
-~~**3 -** Encarregado de Setor; e~~<br>
+~~**I -** pertencentes às Escalas de Vencimentos do Plano Geral de Cargos, Vencimentos e Salários, instituído pela [Lei Complementar n° 712, de 12 de abril de 1993](https://www.al.sp.gov.br/norma/16084):~~
+
+~~**a)** Escala de Vencimentos - Nível Elementar:~~
+
+~~**1 -** Auxiliar Agropecuário;~~
+
+~~**2 -** Auxiliar de Serviços;~~
+
+~~**3 -** Feitor;~~
+
+~~**4 -** Mestre de Obras;~~
+
+~~**5 -** Oficial de Serviços Gráficos;~~
+
+~~**6 -** Oficial de Serviços e Manutenção;~~
+
+~~**7 -** Telefonista;~~
+
+~~**8 -** Trabalhador Braçal; e~~
+
+~~**9 -** Vigia;~~
+
+~~**b)** Escala de Vencimentos - Nível Intermediário:~~
+
+~~**1 -** Agente Administrativo;~~
+
+~~**2 -** Almoxarife;~~
+
+~~**3 -** Auxiliar de Engenheiro;~~
+
+~~**4 -** Desenhista;~~
+
+~~**5 -** Motorista;~~
+
+~~**6 -** Oficial Administrativo;~~
+
+~~**7 -** Oficial de Serviços em Cine e Foto;~~
+
+~~**8 -** Operador de Máquinas;~~
+
+~~**9 -** Operador de Telecomunicações;~~
+
+~~**10 -** Recreacionista;~~
+
+~~**11 -** Técnico Agrícola;~~
+
+~~**12 -** Técnico Agropecuário;~~
+
+~~**13 -** Técnico de Contabilidade; e~~
+
+~~**14 -** Topógrafo;~~
+
+~~**c)** Escala de Vencimentos - Nível Universitário: Zootecnista;~~
+
+~~**d)** Escala de Vencimentos - Classes Executivas: Executivo Público I;~~
+
+~~**e)** Escala de Vencimentos - Comissão:~~
+
+~~**1 -** Chefe de Seção;~~
+
+~~**2 -** Chefe de Seção Técnica;~~
+
+~~**3 -** Encarregado de Setor; e~~
+
 ~~**4 -** Secretário;~~
 
 **I -** Revogado.
 
 _\- Inciso I revogado pela [Lei Complementar n° 1.080, de 17/12/2008](https://www.al.sp.gov.br/norma/157195), com efeitos a partir de 01/10/2008._
 
-~~**II -** pertencentes às Escalas de Vencimentos do Plano de Cargos, Vencimentos e Salários - PCVS, instituído pela [Lei Complementar n° 674, de 8 de abril de 1992](https://www.al.sp.gov.br/norma/18412):~~<br>
-~~**a)** Escala de Vencimentos - Nível Elementar: Auxiliar de Laboratório;~~<br>
-~~**b)** Escala de Vencimentos - Nível Intermediário:~~<br>
-~~**1 -** Auxiliar de Enfermagem; e~~<br>
-~~**2 -** Técnico de Laboratório;~~<br>
-~~**c)** Escala de Vencimentos - Nível Universitário:~~<br>
-~~**1 -** Assistente Social; e~~<br>
+~~**II -** pertencentes às Escalas de Vencimentos do Plano de Cargos, Vencimentos e Salários - PCVS, instituído pela [Lei Complementar n° 674, de 8 de abril de 1992](https://www.al.sp.gov.br/norma/18412):~~
+
+~~**a)** Escala de Vencimentos - Nível Elementar: Auxiliar de Laboratório;~~
+
+~~**b)** Escala de Vencimentos - Nível Intermediário:~~
+
+~~**1 -** Auxiliar de Enfermagem; e~~
+
+~~**2 -** Técnico de Laboratório;~~
+
+~~**c)** Escala de Vencimentos - Nível Universitário:~~
+
+~~**1 -** Assistente Social; e~~
+
 ~~**2 -** Médico Veterinário.~~
 
 **II -** Revogado.
@@ -110,31 +150,50 @@ _\- Artigo 4° revogado pela [Lei Complementar n° 1.157, de 02/12/2011](https:/
 
 _\- Artigo 5° revogado pela [Lei Complementar n° 1.157, de 02/12/2011](https://www.al.sp.gov.br/norma/164377), com efeitos a partir de 01/07/2011._
 
-**Artigo 6° -** Passa a vigorar com a seguinte redação o § 2° do artigo 9° da [Lei Complementar n° 661, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20177):<br>
-"§ 2° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados anualmente com a promoção ate 20% (vinte por cento) do contingente da classe, existente no âmbito de cada Instituto de Pesquisa na data de abertura do respectivo processo."**<br>
-Artigo 7° -** Passa a vigorar com a seguinte redação o § 1° do artigo 79 da [Lei Complementar n° 662, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20178).<br>
-"§ 1° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados anualmente com a promoção até 20% (vinte por cento) do contingente da série de classes, existente no âmbito de cada Instituto de Pesquisa na data de abertura do respectivo processo."**<br>
-Artigo 8° -** Passa a vigorar com a seguinte redação o § 29 do artigo 8° da [Lei n° 7.951, de 16 de julho de 1992](https://www.al.sp.gov.br/norma/17735):<br>
-"§ 2° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados anualmente com a promoção até 20% (vinte por cento) do contingente da classe, existente no âmbito da Coordenadoria de Assistência Técnica Integral na data de abertura do respectivo processo."**<br>
-Artigo 9° -** Ficam acrescentados ao artigo 6° da [Lei Complementar n° 661, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20177), os §§ 2°, 3° e 4°, renumerando-se o parágrafo único para § 1°:<br>
+**Artigo 6° -** Passa a vigorar com a seguinte redação o § 2° do artigo 9° da [Lei Complementar n° 661, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20177):
+
+"§ 2° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados anualmente com a promoção ate 20% (vinte por cento) do contingente da classe, existente no âmbito de cada Instituto de Pesquisa na data de abertura do respectivo processo."**
+
+Artigo 7° -** Passa a vigorar com a seguinte redação o § 1° do artigo 79 da [Lei Complementar n° 662, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20178).
+
+"§ 1° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados anualmente com a promoção até 20% (vinte por cento) do contingente da série de classes, existente no âmbito de cada Instituto de Pesquisa na data de abertura do respectivo processo."**
+
+Artigo 8° -** Passa a vigorar com a seguinte redação o § 29 do artigo 8° da [Lei n° 7.951, de 16 de julho de 1992](https://www.al.sp.gov.br/norma/17735):
+
+"§ 2° - Obedecidos os interstícios e as demais exigências estabelecidas em decreto, poderão ser beneficiados anualmente com a promoção até 20% (vinte por cento) do contingente da classe, existente no âmbito da Coordenadoria de Assistência Técnica Integral na data de abertura do respectivo processo."**
+
+Artigo 9° -** Ficam acrescentados ao artigo 6° da [Lei Complementar n° 661, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20177), os §§ 2°, 3° e 4°, renumerando-se o parágrafo único para § 1°:
+
 "§ 2° - O servidor titular de cargo efetivo que, em decorrência de aprovação em concurso, vier a ser nomeado para cargo das classes instituídas pelo artigo 1° desta lei complementar, terá esse cargo enquadrado, a partir da data do início do exercício, no nível de valor retribuitório igual ou imediatamente superior ao valor do padrão do cargo anteriormente ocupado.
 
 § 3° - Na hipótese do parágrafo anterior, quando o valor retribuitório do nível I do cargo a ser provido, já for superior àquele percebido no cargo de que era titular, o enquadramento far-se-á nesse nível.
 
 § 4° - O disposto nos parágrafos anteriores aplica-se aos servidores ocupantes de funções-atividades."
 
-**Artigo 10 -** Ficam acrescentados ao artigo 5° da [Lei Complementar n° 662, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20178), os §§ 1°, 2° e 3°, na seguinte conformidade:<br>
-"§ 1° - O servidor titular de cargo efetivo que, em decorrência de aprovação em concurso, vier a ser nomeado para cargo da série de classes a que se refere o "caput" deste artigo, terá esse cargo enquadrado, a partir da data do início do exercício, na classe de valor retribuitório igual ou imediatamente superior ao valor do padrão do cargo anteriormente ocupado.<br>
-§ 2° - Na hipótese do parágrafo anterior, quando o valor retribuitório da classe inicial da série de classes já for superior aquele percebido no cargo de que era titular, o enquadramento far-se-á nessa classe.<br>
-§ 3° - O disposto nos parágrafos anteriores aplica-se aos servidores ocupantes de funções atividades.**<br>
-Artigo 11 -** Ficam acrescentados ao artigo 5° da [Lei n° 7.951, de 16 de julho de 1992](https://www.al.sp.gov.br/norma/17735), os §§ 1°, 2° e 3°, com a seguinte redação:<br>
-"§ 1° - O servidor titular de cargo efetivo que, em decorrência de aprovação em concurso, vier a ser nomeado para cargo das classes instituídas pelo artigo 1° desta lei, terá esse cargo enquadrado, a partir da data do inicio do exercício, no nível de valor retribuitório igual ou imediatamente superior ao valor do padrão do cargo anteriormente ocupado.<br>
-§ 2° - Na hipótese do parágrafo anterior, quando o valor retribuitório do nível I do cargo a ser provido, já for superior aquele percebido no cargo de que era titular, o enquadramento far-se-á nesse nível.<br>
-§ 3° - O disposto nos parágrafos anteriores aplica-se aos servidores ocupantes de funções-atividades."**<br>
-Artigo 12 -** As despesas decorrentes da aplicação desta lei complementar serão cobertas com as dotações próprias do orçamento, ficando o Poder Executivo autorizado a abrir, para o corrente exercício, créditos suplementares até o limite de CR$ 854.550.000,00 (oitocentos e cinquenta e quatro milhões, quinhentos e cinquenta mil cruzeiros reais), mediante utilização de recursos nos termos do § 1° do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.**<br>
-Artigo 13 -** Esta lei complementar entrará em vigor na data de sua publicação, retroagindo efeitos:<br>
-**I -** a 12 de julho de 1991, no que se refere aos artigos 99 e 10;<br>
-**II -** a 17 de julho de 1992, no que se refere ao artigo 11;<br>
+**Artigo 10 -** Ficam acrescentados ao artigo 5° da [Lei Complementar n° 662, de 11 de julho de 1991](https://www.al.sp.gov.br/norma/20178), os §§ 1°, 2° e 3°, na seguinte conformidade:
+
+"§ 1° - O servidor titular de cargo efetivo que, em decorrência de aprovação em concurso, vier a ser nomeado para cargo da série de classes a que se refere o "caput" deste artigo, terá esse cargo enquadrado, a partir da data do início do exercício, na classe de valor retribuitório igual ou imediatamente superior ao valor do padrão do cargo anteriormente ocupado.
+
+§ 2° - Na hipótese do parágrafo anterior, quando o valor retribuitório da classe inicial da série de classes já for superior aquele percebido no cargo de que era titular, o enquadramento far-se-á nessa classe.
+
+§ 3° - O disposto nos parágrafos anteriores aplica-se aos servidores ocupantes de funções atividades.**
+
+Artigo 11 -** Ficam acrescentados ao artigo 5° da [Lei n° 7.951, de 16 de julho de 1992](https://www.al.sp.gov.br/norma/17735), os §§ 1°, 2° e 3°, com a seguinte redação:
+
+"§ 1° - O servidor titular de cargo efetivo que, em decorrência de aprovação em concurso, vier a ser nomeado para cargo das classes instituídas pelo artigo 1° desta lei, terá esse cargo enquadrado, a partir da data do inicio do exercício, no nível de valor retribuitório igual ou imediatamente superior ao valor do padrão do cargo anteriormente ocupado.
+
+§ 2° - Na hipótese do parágrafo anterior, quando o valor retribuitório do nível I do cargo a ser provido, já for superior aquele percebido no cargo de que era titular, o enquadramento far-se-á nesse nível.
+
+§ 3° - O disposto nos parágrafos anteriores aplica-se aos servidores ocupantes de funções-atividades."**
+
+Artigo 12 -** As despesas decorrentes da aplicação desta lei complementar serão cobertas com as dotações próprias do orçamento, ficando o Poder Executivo autorizado a abrir, para o corrente exercício, créditos suplementares até o limite de CR$ 854.550.000,00 (oitocentos e cinquenta e quatro milhões, quinhentos e cinquenta mil cruzeiros reais), mediante utilização de recursos nos termos do § 1° do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.**
+
+Artigo 13 -** Esta lei complementar entrará em vigor na data de sua publicação, retroagindo efeitos:
+
+**I -** a 12 de julho de 1991, no que se refere aos artigos 99 e 10;
+
+**II -** a 17 de julho de 1992, no que se refere ao artigo 11;
+
 **III -** a 1° de setembro de 1993, no que se refere aos artigos 1° a 5°.
 
 #### Disposição Transitória
@@ -157,14 +216,24 @@ Artigo 13 -** Esta lei complementar entrará em vigor na data de sua publicaçã
 
 **§ 8° -** Os recursos serão apreciados no prazo de 10 (dez) dias e a listagem final será encaminhada ao Secretário da Administração e Modernização do Serviço Público, para homologação.
 
-Palácio dos Bandeirantes, 25 de julho de 1994.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Eduardo Maia de Castro Ferraz<br>
-Secretário da Fazenda<br>
-José Pilon<br>
-Secretário de Agricultura e Abastecimento<br>
-Avanir Duran Galhardo<br>
-Secretário da Administração e Modernização do Serviço Público<br>
-Frederico Pinto Ferreira Coelho Neto<br>
-Secretário do Governo<br>
+Palácio dos Bandeirantes, 25 de julho de 1994.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Eduardo Maia de Castro Ferraz
+
+Secretário da Fazenda
+
+José Pilon
+
+Secretário de Agricultura e Abastecimento
+
+Avanir Duran Galhardo
+
+Secretário da Administração e Modernização do Serviço Público
+
+Frederico Pinto Ferreira Coelho Neto
+
+Secretário do Governo
+
 Publicada na Assessoria Técnico-Legislativa, aos 25 de julho de 1994.

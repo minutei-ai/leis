@@ -1,5 +1,3 @@
-###DEC-005212-0-000-22-09-2004@@@
-
 DECRETO Nº 5.212 DE 22 DE SETEMBRO DE 2004
 
 Altera o Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social \- BNDES, para o fim de instituir o Comitê de Auditoria.

@@ -1,5 +1,3 @@
-###DEC-073966-0-000-19-04-1974@@@
-
 decreto nº 73.966, de 19 de abril de 1974.
 
 Concede permissão, em caráter permanente, à empresa Rigesa, Celulose, Papel e Embalagens Ltda., com sede em Valinhos, Estado de São Paulo, para funcionar aos domingos e no dias feriados civis e religiosos no estabelecimento que menciona.

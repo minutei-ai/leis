@@ -1,5 +1,3 @@
-###DEC-051857-0-000-20-03-1963@@@
-
 Decreto nº 51.857, de 20 de março de 1963.
 
 Declara a Instituição a Confederação Brasileira de Automobilismo.

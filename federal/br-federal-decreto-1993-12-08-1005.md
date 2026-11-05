@@ -1,7 +1,3 @@
-1
-
-###DEC-001005-0-000-08-12-1993@@@
-
 DECRETO N° 1.005, DE 8 DE DEZEMBRO DE 1993
 
 Dispõe sobre a tarifa especial prevista no art. 104 da Lei n° 4.117, de 27 de agosto de 1962, e dá outras providências.

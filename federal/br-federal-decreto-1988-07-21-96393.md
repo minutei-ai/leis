@@ -1,5 +1,3 @@
-###DEC-096393-0-000-21-07-1988@@@
-
 DECRETO N° 96.393, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento dos cursos de Ciências e de Estudos Sociais do Centro de Ensino Superior de Roraima.

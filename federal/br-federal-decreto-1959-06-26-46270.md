@@ -1,5 +1,3 @@
-###DEC-046270-0-000-26-06-1959@@@
-
 Decreto nº 46.270, de 26 de junho de 1959.
 
 Autoriza a filiação de entidade sindical patronal à Organização Internacional dos Empregadores.

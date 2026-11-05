@@ -1,5 +1,3 @@
-###DEL-009148-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.148 – DE 8 DE ABRIL DE 1946
 
 Dispõe sôbre registro do impôsto de consumo

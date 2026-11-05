@@ -1,5 +1,3 @@
-###DEC-045762-0-000-07-04-1959@@@
-
 DECRETO Nº 45.762, DE 07 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Lucas Carvelo Filho, a pesquisar água mineral no município de Goiânia, Estado de Goiás.

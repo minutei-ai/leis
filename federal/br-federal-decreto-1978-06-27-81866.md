@@ -1,5 +1,3 @@
-###DEC-081866-0-000-27-06-1978@@@
-
 Decreto nº 81.866, de 27 de junho de 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais, licenciatura de 1º grau, ministrado pela Faculdade de Educação e Estudos Sociais de Araraquara, Integrante da Federação das Faculdades Isoladas de Araraquara, Estado de São Paulo.

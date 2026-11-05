@@ -1,5 +1,3 @@
-###DEC-006474-0-000-05-06-2008@@@
-
 DECRETO Nº 6.474, DE 5 DE JUNHO DE 2008.
 
 Dispõe sobre a criação da Medalha alusiva ao Centenário da Imigração Japonesa para o Brasil.
@@ -27,5 +25,3 @@ Brasília, 5 de junho de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA 
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 6.6.2008

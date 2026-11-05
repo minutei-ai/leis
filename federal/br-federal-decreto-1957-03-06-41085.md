@@ -1,14 +1,12 @@
-###DEC-041085-0-000-06-03-1957@@@
+**DECRETO Nº 41.085, DE 6 DE MARÇO DE 1957.**
 
-<strong>DECRETO Nº 41.085, DE 6 DE MARÇO DE 1957.</strong>
+***Dá nova redação ao nº 16 do art. 1º do Decreto nº 38.105, de 18 de outubro de 1955.***
 
-<em><strong>Dá nova redação ao nº 16 do art. 1º do Decreto nº 38.105, de 18 de outubro de 1955.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, tendo em vista o § 16 do art. 141 da Constituição Federal e usando das atribuições que lhe confere o item I do artigo 87 da mesma Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, tendo em vista o § 16 do art. 141 da Constituição Federal e usando das atribuições que lhe confere o item I do artigo 87 da mesma Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passa a ter a redação seguinte no nº 16 do art. 1º do Decreto nº 38.105, de 18 de outubro de 1955:
+**Art**. 1º Passa a ter a redação seguinte no nº 16 do art. 1º do Decreto nº 38.105, de 18 de outubro de 1955:
 
 ...........................................................................................................................................................
 
@@ -16,10 +14,10 @@
 
 ...........................................................................................................................................................
 
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de março de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

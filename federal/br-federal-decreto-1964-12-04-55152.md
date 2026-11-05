@@ -1,5 +1,3 @@
-###DEC-055152-0-000-04-12-1964@@@
-
 DECRETO Nº 55.152, DE 4 DE DEZEMBRO DE 1964.
 
 Revoga os decretos ns. 14.640-44 e 24.516-48 e outorga à Companhia Estatual de Energia Elétrica concessão para distribuir energia elétrica no Distrito de São Marcos, Município de Caxias do Sul, Estado do Rio grande do Sul.

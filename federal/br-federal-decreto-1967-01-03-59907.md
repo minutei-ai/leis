@@ -1,5 +1,3 @@
-###DEC-059907-0-000-03-01-1967@@@
-
 DECRETO Nº 59.907, DE 3 DE JANEIRO DE 1967.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 59.647, de 2.12.66.

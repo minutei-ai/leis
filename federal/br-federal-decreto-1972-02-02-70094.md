@@ -1,5 +1,3 @@
-###DEC-070094-0-000-02-02-1972@@@
-
 DECRETO Nº 70.094, DE 2 DE FEVEREIRO DE 1972.
 
 Concede a Irmãos Guilhermino Ltda., o direito de lavrar caulim, no município de Brás Pires, Estado de Minas Gerais.

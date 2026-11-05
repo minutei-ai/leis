@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212098)<br>
-
 # DECRETO N° 70.272, DE 23 DE DEZEMBRO DE 2025
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Analândia, que declarou Situação de Emergência em áreas do Município._

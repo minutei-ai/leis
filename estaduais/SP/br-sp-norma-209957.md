@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209957)<br>
-
 # LEI N° 18.026, DE 09 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 374/2024, dos Deputados Lucas Bove - PL, Gil Diniz - PL, Guto Zacarias - UNIÃO e Paulo Mansur - PL)

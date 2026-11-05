@@ -1,5 +1,3 @@
-###DEC-006211-0-000-18-09-2007@@@
-
 DECRETO Nº 6.211, DE 18 DE SETEMBRO DE 2007.
 
 Dá nova redação ao item 6 do art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto no 88.777, de 30 de setembro de 1983, e dá outras providências.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
 Marcelo Bicalho Bear
 
 Rubem Peixoto Alexandre
-
-Este texto não substitui o publicado no DOU de 19.9.2007

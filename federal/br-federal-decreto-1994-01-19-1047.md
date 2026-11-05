@@ -1,7 +1,3 @@
-1
-
-###DEC-001047-0-000-19-01-1994@@@
-
 DECRETO N° 1.047, DE 19 DE JANEIRO DE 1994
 
 Extingue Agências de Capitanias dos Portos.

@@ -1,5 +1,3 @@
-###DEC-054947-0-000-06-11-1964@@@
-
 DECRETO Nº 54.947, DE 6 de novembro de 1964.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Orlândia estado de São Paulo.

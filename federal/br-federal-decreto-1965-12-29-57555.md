@@ -1,5 +1,3 @@
-###DEC-057555-0-000-29-12-1965@@@
-
 Decreto nº 57.555, de 29 de dezembro de 1965.
 
 Cria uma Comissão Executiva com o objetivo de elaborar os projetos definitivos de ligação direta, através de ponte, entre o Estado da Guanabara e a cidade de Niterói, Capital do Estado do Rio de Janeiro.

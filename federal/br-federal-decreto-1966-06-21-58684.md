@@ -1,5 +1,3 @@
-###DEC-058684-0-000-21-06-1966@@@
-
 decreto nº 58.684, de 21 de junho de 1966.
 
 Institui o plano de assistência aos trabalhadores desempregados, estabelece as normas de seu custeio e da outras providências.

@@ -1,5 +1,3 @@
-###DEC-060768-0-000-29-05-1967@@@
-
 DECRETO Nº 60.768, DE 29 DE MAIO DE 1967.
 
 Considera data festiva da Fôrça Aérea Brasileira o dia 24 de junho e cria a Medalha comemorativa do centenário da Observação Aérea e dá outras providências.

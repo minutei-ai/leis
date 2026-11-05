@@ -1,5 +1,3 @@
-###DEC-004192-0-000-10-04-2002@@@
-
 DECRETO Nº 4.192, DE 10 DE ABRIL DE 2002.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de aproveitamentos hidrelétricos, e dá outras providências.
@@ -22,6 +20,8 @@ Art. 3o Este Decreto entra em vigor na data de sua publicação.
 
 Brasília, 10 de abril de 2002; 181o da Independência e 114o da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
-Benjamim Benzaquen Sicsú<br>
+FERNANDO HENRIQUE CARDOSO
+
+Benjamim Benzaquen Sicsú
+
 Francisco Luiz Sibut Gomide

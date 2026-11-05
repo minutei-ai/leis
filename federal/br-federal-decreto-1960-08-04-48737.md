@@ -1,5 +1,3 @@
-###DEC-048737-0-000-04-08-1960@@@
-
 DECRETO Nº 48.737, DE 4 DE Agôsto DE 1960.
 
 Dispõe sobre exercício provisório das atribuições de cargo, ou função, em caso de vacância.

@@ -1,5 +1,3 @@
-###DEC-006535-0-000-11-08-2008@@@
-
 DECRETO Nº 6.535, DE 11 DE AGOSTO DE 2008.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agencia Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-044971-0-000-02-12-1958@@@
-
 DECRETO Nº 44.971, DE 02 DE DEZEMBRO DE 1958.
 
 Altera artigos do RUPE - 1ª e 2ª Partes.

@@ -1,5 +1,3 @@
-###DEL-005493-0-000-17-05-1943@@@
-
 DECRETO-LEI N. 5.493 – DE 17 DE MAIO DE 1943
 
 Cria o 3º Regimento Moto‑Mecanizado, com sede em Bagé

@@ -1,5 +1,3 @@
-###DEL-008195-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.195 – DE 20 DE NOVEMBRO DE 1945
 
 Altera disposições do Decreto-lei número 1,190, de 4 de abril de 1939:

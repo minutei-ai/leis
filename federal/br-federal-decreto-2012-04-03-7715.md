@@ -1,5 +1,3 @@
-###DEC-007715-0-000-03-04-2012-PUB-01@@@
-
 DECRETO N°\- 7.715, DE 3 DE ABRIL DE 2012
 
 Altera o Decreto no 5.602, de 6 de dezembro de 2005, que regulamenta o Programa de Inclusão Digital instituído pela Lei n° 11.196, de 21 de novembro de 2005.

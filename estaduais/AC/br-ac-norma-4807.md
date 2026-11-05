@@ -1,6 +1,10 @@
 > **LEI Nº 3.781, DE 27 DE SETEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Semana do Hip-Hop, a ser realizada, anualmente, na segunda semana do mês de junho, que passa a integrar o Calendário Oficial de Eventos do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Semana do Hip-Hop, a ser realizada, anualmente, na segunda semana do mês de junho, que passa a integrar o Calendário Oficial de Eventos do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

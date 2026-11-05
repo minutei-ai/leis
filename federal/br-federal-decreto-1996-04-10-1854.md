@@ -1,5 +1,3 @@
-###DEC-001854-0-000-10-04-1996@@@
-
 DECRETO Nº 1.854, DE 10 DE ABRIL DE 1996
 
 Promulga o Acordo por troca de Notas, Relativo à Lotação de Funcionários Consulares Brasileiros e Argentinos, nos Respectivos Consulados, de 26 de maio de 1993.

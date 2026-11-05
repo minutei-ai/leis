@@ -1,5 +1,3 @@
-###MPV-002151-0-002-27-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.151‑2, DE 27 DE JUlHO DE 2001
 
 Regulamenta o art. 8º do Ato das Disposições Constitucionais Transitórias e dá outras providências.

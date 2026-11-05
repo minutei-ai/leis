@@ -1,5 +1,3 @@
-###MPV-000108-0-000-27-02-2003@@@
-
 MEDIDA PROVISÓRIA Nº 108, DE 27 DE FEVEREIRO 2003.
 
        Cria o Programa Nacional de Acesso à Alimentação - "Cartão Alimentação".

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0db6bf3b-67eb-4601-9654-23b26862a303/texto#nowhere)
 
-###DEL-000751-0-000-08-08-1969@@@
-
 Decreto-lei nº 751, de 8 de AGôSTO de 1969
 
 Dá nova redação ao § 1º do artigo 16 do Decreto-Lei nº 37, de 18 de novembro de 1966.

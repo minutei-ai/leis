@@ -1,5 +1,3 @@
-###DEC-089620-0-000-07-05-1984@@@
-
 Decreto nº 89.620, de 07 de maio de 1984.
 
 Dispõe sobre o Grupo-Atividades de Fiscalização de Combustíveis e dá outras providências.

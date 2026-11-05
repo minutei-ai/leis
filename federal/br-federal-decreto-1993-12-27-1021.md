@@ -1,7 +1,3 @@
-1
-
-###DEC-001021-0-000-27-12-1993@@@
-
 DECRETO Nº 1.021, DE 27 DE DEZEMBRO DE 1993
 
 Dispõe sobre a fiscalização da distribuição, do armazenamento e do comércio de combustíveis, apuração das infrações e penalidades.

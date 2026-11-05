@@ -1,5 +1,3 @@
-###DEL-006102-0-000-15-12-1943@@@
-
 DECRETO‑LEI N. 6.102 – DE 15 DE DEZEMBRO DE 1943
 
 Orça a Receita e fixa a Despesa do Distrito Federal para o exercício de 1944

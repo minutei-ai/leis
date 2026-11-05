@@ -1,5 +1,3 @@
-###DEL-006992-0-000-26-10-1944@@@
-
 DECRETO-LEI N. 6.992 – DE 26 DE OUTUBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar o Conservatório Brasileiro de Música do pagamento de 50% (cinqüenta por cento) do impôsto de transmissão, na forma que menciona

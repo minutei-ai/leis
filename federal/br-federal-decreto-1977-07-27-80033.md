@@ -1,5 +1,3 @@
-###DEC-080033-0-000-27-07-1977@@@
-
 Decreto nº 80.033, de 27 de julho de 1977
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação dos terrenos que menciona, situados no Município de Goiânia, Estado de Goiás.

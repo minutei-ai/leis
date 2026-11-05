@@ -1,5 +1,3 @@
-###DEC-007840-0-000-12-11-2012-PUB-01@@@
-
 DECRETO N°\- 7.840, DE 12 DE NOVEMBRO DE 2012
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de perfuratrizes e patrulhas mecanizadas, para fins do disposto no art. 3º da Lei nº 8.666, de 21 de junho de 1993.

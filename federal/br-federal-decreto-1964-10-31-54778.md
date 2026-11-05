@@ -1,5 +1,3 @@
-###DEC-054778-0-000-31-10-1964@@@
-
 DECRETO Nº 54.778, DE 31 DE OUTUBRO DE 1964.
 
 Autoriza a Indústria Mineração Alvo Mármore Ltda. a pesquisar mármore no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

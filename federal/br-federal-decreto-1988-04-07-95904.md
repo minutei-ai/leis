@@ -1,5 +1,3 @@
-###DEC-095904-0-000-07-04-1988@@@
-
 DECRETO N° 95.904, DE 07 DE ABRIL DE 1988
 
 Dispõe sobre as relações dos órgãos ou entidades da Administração Federal com as pessoas jurídicas que menciona e dá outras providencias.

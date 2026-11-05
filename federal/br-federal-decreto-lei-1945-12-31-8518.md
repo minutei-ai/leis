@@ -1,5 +1,3 @@
-###DEL-008518-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.518 – DE 31 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 226.754,90, à verba que especifica.

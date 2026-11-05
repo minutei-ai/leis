@@ -1,5 +1,3 @@
-###DEC-059989-0-000-10-01-1967@@@
-
 decreto nº 59.989, de 10 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Orlando Regis Schuler Villarôco a pesquisar calcário no município de Alhandra, Estado da Paraíba.

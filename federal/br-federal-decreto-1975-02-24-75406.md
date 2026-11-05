@@ -1,5 +1,3 @@
-###DEC-075406-0-000-24-02-1975@@@
-
 DECRETO Nº 75.406, DE 24 DE FEVEREIRO DE 1975.
 
 Extingue as Coudelarias de Campo Grande (MT), Rincão (RS), Tindiquera (PR), e Pouso Alegre - (MG), e dá outras providências.

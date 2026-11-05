@@ -1,5 +1,3 @@
-###DEC-001901-0-000-09-05-1996@@@
-
 # DECRETO Nº 1.901, DE 9 DE MAIO DE 1996.
 
 Promulga o Protocolo Adicional ao Tratado de Assunção sobre a Estrutura Institucional do MERCOSUL (Protocolo de Ouro Preto), de 17 de dezembro de 1994.

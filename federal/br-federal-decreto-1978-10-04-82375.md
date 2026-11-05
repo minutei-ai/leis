@@ -1,5 +1,3 @@
-###DEC-082375-0-000-04-10-1978@@@
-
 Decreto nº 82.375, de 04 de outubro de 1978.
 
 Concede reconhecimento à habilitação de Inspeção Escolar de 2º grau do curso de Pedagogia das Faculdades Integradas Santo Antônio, com sede na cidade de São Paulo, Estado de São Paulo.

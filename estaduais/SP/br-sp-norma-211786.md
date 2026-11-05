@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211786)<br>
-
 # DECRETO N° 70.063, DE 07 DE NOVEMBRO DE 2025
 
 ### _Estabelece normas relativas ao encerramento da execução orçamentária e financeira das Administrações Direta e Indireta, visando o levantamento do Balanço Geral do Estado do exercício de 2025 e dá providências correlatas._
@@ -8,14 +6,16 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Dos Órgãos Abrangidos
 
 **Artigo 1° -** Os Órgãos da Administração Direta do Poder Executivo, Autarquias, inclusive Universidades Estaduais, Fundações e Empresas Dependentes disciplinarão suas atividades orçamentária e financeira de encerramento em conformidade com as normas fixadas neste decreto.
 
 **Parágrafo Único -** O disposto neste decreto aplica-se, no que couber, aos órgãos dos Poderes Judiciário, Legislativo, incluindo Assembleia Legislativa e Tribunal de Contas do Estado, ao Ministério Público, à Defensoria Pública do Estado.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Encerramento das Execuções Orçamentária e Financeira
 
 **Artigo 2° -** Os pedidos de confirmação do excesso de arrecadação de 2025 ou superávit financeiro de receitas próprias, vinculadas ou de operações de crédito apurado no balanço patrimonial de 2024 deverão ser formalizados até 11 de novembro de 2025, mediante a utilização do Sistema Integrado da Receita - SIR, disponibilizado no endereço eletrônico https://portal.fazenda.sp.gov.br/servicos/integrado-receita/.
@@ -36,7 +36,8 @@ Do Encerramento das Execuções Orçamentária e Financeira
 
 **Artigo 8° -** Os lançamentos da receita e os registros da despesa orçamentária devem ser encerrados até 09 de janeiro de 2026, para a elaboração dos demonstrativos da Lei de Responsabilidade Fiscal, a serem publicados até 30 de janeiro de 2026.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos Restos a Pagar
 
 **Artigo 9° -** O registro dos restos a pagar far-se-á por credor e empenho correspondente.
@@ -61,7 +62,8 @@ Dos Restos a Pagar
 
 **Artigo 12 -** Os restos a pagar não processados, inscritos ou revigorados, que superarem a disponibilidade financeira apurada na elaboração do Demonstrativo dos Restos a Pagar do Relatório de Gestão Fiscal, da Lei de Responsabilidade Fiscal, serão cancelados no SIAFEM/SP.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Das Atualizações Patrimoniais e Conciliações
 
 **Artigo 13 -** Para efeitos do levantamento e consolidação do Balanço Geral do Estado, a conciliação e a escrituração dos ajustes patrimoniais no SIAFEM/SP, pelos órgãos e entidades de que trata o art. 1°, deverão ser obrigatoriamente concluídas nos seguintes prazos:
@@ -82,7 +84,8 @@ b) o registro dos ajustes contábeis de atualizações nos saldos relativos aos 
 
 **Parágrafo Único -** Todos os recursos existentes nas contas bancárias apuradas a partir do levantamento de que trata o caput deste artigo deverão estar devidamente escriturados pela contabilidade, inclusive os recursos de terceiros que, transitoriamente, estejam em poder dos órgãos ou das entidades, devendo ser contabilizados como Depósitos de Diversas Origens (DDO) até a sua devida regularização ou devolução.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das Disposições Gerais
 
 **Artigo 15 -** O processo de apuração do superávit financeiro de 2025, relativo às receitas vinculadas, será gerado automaticamente no SIAFEM/SP, pela Secretaria da Fazenda e Planejamento, com base na apuração de informações financeiras e orçamentárias registradas no SIAFEM/SP até o prazo final para os registros contábeis, estabelecido no art. 13, I deste Decreto.

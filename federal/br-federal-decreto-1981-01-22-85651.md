@@ -1,5 +1,3 @@
-###DEC-085651-0-000-22-01-1981@@@
-
 Decreto nº 85.651, de 22 de janeiro de 1981.
 
 Declara de interesse social, para fins de desapropriação, terrenos situados no Município de Belém, Estado do Pará.

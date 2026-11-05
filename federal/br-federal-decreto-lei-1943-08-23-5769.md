@@ -1,5 +1,3 @@
-###DEL-005769-0-000-23-08-1943@@@
-
 DECRETO-LEI N. 5.769 – DE 23 DE AGOSTO DE 1943
 
 Cria o 14º Batalhão de Engenharia, com sede em Campina Grande, Estado da Paraíba

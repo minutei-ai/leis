@@ -1,5 +1,3 @@
-###DEC-053281-0-000-16-12-1963@@@
-
 DECRETO Nº 53.281, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Washington Lopes Gomes a pesquisar minério de ferro no município de Coimbra, Estado de Minas Gerais.

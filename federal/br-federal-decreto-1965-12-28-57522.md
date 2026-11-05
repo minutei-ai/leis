@@ -1,5 +1,3 @@
-###DEC-057522-0-000-28-12-1965@@@
-
 DECRETO Nº 57.522, DE 28 DE DEZEMBRO DE 1965.
 
 Declara sem efeito o Decreto número 49.423, de 3 de dezembro de 1960.

@@ -1,5 +1,3 @@
-###DEC-048989-0-000-01-10-1960@@@
-
 Decreto nº 48.989, de 1 de outubro de 1960.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Capivari, com sede em Capivari, Estado de São Paulo.

@@ -36,7 +36,8 @@ c)    Secretaria Municipal de Saúde:
 
 Titular: Pollyanna Costa Franco – CPF 984.XXX.XXX-XX
 
-Suplente: Évora Narah Rodrigues dos Santos – CPF 701.XXX.XXX-XX<br>
+Suplente: Évora Narah Rodrigues dos Santos – CPF 701.XXX.XXX-XX
+
    
 
 III – REPRESENTANTE DA CÂMARA DE VEREADORES
@@ -81,7 +82,8 @@ d)    2º Comando Regional da Polícia Militar:
 
 Titular: Bruno Luiz Tiradentes Ferreira – CPF 091.XXX.XXX-XX
 
-Suplente: Onilton Rodrigues de Almeida – CPF 690.XXX.XXX-XX<br>
+Suplente: Onilton Rodrigues de Almeida – CPF 690.XXX.XXX-XX
+
  
 
 Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário.
@@ -90,11 +92,14 @@ Município de Aparecida de Goiânia, 30 de abril de 2024.
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-SULNARA SANTANA<br>
+SULNARA SANTANA
+
 Secretária de Assistência Social

@@ -1,5 +1,3 @@
-###DEC-064262-0-000-21-03-1969@@@
-
 DECRETO Nº 64.262, de 21 de março de 1969.
 
 Declara caduco o Decreto nº 10.919, de 25-11-1942.

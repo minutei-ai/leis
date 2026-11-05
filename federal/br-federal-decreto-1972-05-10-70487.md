@@ -1,5 +1,3 @@
-###DEC-070487-0-000-10-05-1972@@@
-
 DECRETO Nº 70.487, DE 10 DE MAIO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel, situado à rua Cônego Tostes - Taquari, Estado do Rio Grande do Sul, casa onde nasceu o Presidente Marechal Arthur da Costa e Silva.

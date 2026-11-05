@@ -1,5 +1,3 @@
-###DEC-077548-0-000-04-05-1976@@@
-
 DECRETO Nº 77.548, DE 4 DE MAIO DE 1976
 
 Altera dispositivos do Decreto número 66.332, de 17 de março de 1970 e dá outras Providências.

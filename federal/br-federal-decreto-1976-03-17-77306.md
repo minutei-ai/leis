@@ -1,5 +1,3 @@
-###DEC-077306-0-000-17-03-1976@@@
-
 DECRETO Nº 77.306, DE 17 de MARÇO DE 1976
 
 Concede reconhecimento ao curso de Estatística, da Faculdade de Administração e Estatística "Pais e Barros", com sede na cidade de São Paulo, Estado de São Paulo.

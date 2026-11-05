@@ -1,5 +1,3 @@
-###DEL-006007-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 6.007 – DE 18 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 4.000,00, à verba que especifica

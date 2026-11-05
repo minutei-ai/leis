@@ -1,5 +1,3 @@
-###DEC-084212-0-000-14-11-1979@@@
-
 Decreto nº 84.212, de 14 de novembro de 1979.
 
 Autoriza a Rádio Alto Taquari Ltda, a aumentar a potência e mudar a frequência de sua estação.

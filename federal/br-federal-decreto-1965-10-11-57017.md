@@ -1,5 +1,3 @@
-###DEC-057017-0-000-11-10-1965@@@
-
 DECRETO Nº 57.017, DE 11 DE OUTUBRO de 1965.
 
 Autoriza o cidadão brasileiro Adriano Berutto a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

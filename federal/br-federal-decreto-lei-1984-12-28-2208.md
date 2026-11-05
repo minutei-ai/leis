@@ -1,5 +1,3 @@
-###DEL-002208-0-000-28-12-1984@@@
-
 # Decreto nº 2.208, de 28 de dezembro de 1984.
 
 Prorroga até 31 de dezembro de 1985 o prazo estabelecido no Decreto-lei nº 1.846, de 30 de dezembro de 1980.

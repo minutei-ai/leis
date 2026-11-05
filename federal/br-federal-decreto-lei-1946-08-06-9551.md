@@ -1,5 +1,3 @@
-###DEL-009551-0-000-06-08-1946@@@
-
 DECRETO-LEI N. 9.551 – DE 6 DE AGÔSTO DE 1946
 
 Concede gratificação de 20% (vinte por cento) a funcionário com exercício em repartição sediada em zona insalubre.

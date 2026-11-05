@@ -1,5 +1,3 @@
-###DEL-008135-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.135 – DE 25 DE OUTUBRO DE 1945
 
 Cria a Comissão de Publicações Oficiais

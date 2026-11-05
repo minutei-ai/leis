@@ -1,5 +1,3 @@
-###DEC-085169-0-000-16-09-1980@@@
-
 decreto nº 85.169, de 16 de setembro de 1980.
 
 Autoriza o funcionamento dos cursos de Educação Artística, de Artes Cênicas e de Música, da Faculdade de Artes, mantida pela Fundação Brasileira de Teatro, com sede em Brasília, Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-005984-0-000-12-12-2006@@@
-
 DECRETO Nº 5.984 DE 12 DE DEZEMBRO DE 2006.
 
 Promulga o Acordo de Assistência Judiciária em Matéria Penal entre a República Federativa do Brasil e a Ucrânia, celebrado em Kiev, em 16 de janeiro de 2002.
@@ -24,11 +22,7 @@ Brasília, 12 de dezembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 13.12.2006
-
-ACORDO DE ASSISTÊNCIA JUDICIÁRIA EM MATÉRIA PENAL ENTRE
+         Celso Luiz Nunes AmorimACORDO DE ASSISTÊNCIA JUDICIÁRIA EM MATÉRIA PENAL ENTRE
 
 A REPÚBLICA FEDERATIVA DO BRASIL E A UCRÂNIA
 

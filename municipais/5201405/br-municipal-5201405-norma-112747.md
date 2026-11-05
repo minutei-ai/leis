@@ -20,5 +20,6 @@ IV - Balancete contábil.
 
 Art. 4º - Esta Lei entra em vigor na data de sua publicação.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

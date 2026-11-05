@@ -1,5 +1,3 @@
-###DEC-064734-0-000-25-06-1969@@@
-
 decreto nº 64.734, de 25 de junho de 1969.
 
 Revoga o Decreto nº 59.430, de 27 de outubro de 1966.

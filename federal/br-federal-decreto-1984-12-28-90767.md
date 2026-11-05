@@ -1,5 +1,3 @@
-###DEC-090767-0-000-28-12-1984@@@
-
 Decreto nº 90.767, de 28 de dezembro de 1984
 
 Renova a concessão outorgada à RÁDIO SOCIEDADE PONTE NOVA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ponte Nova, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-084844-0-000-24-06-1980@@@
-
 DECRETO Nº 84.844, DE 24 DE JUNHO DE 1980.
 
 Altera os limites do Parque Nacional do Araguaia e do Parque Indígena do Araguaia.

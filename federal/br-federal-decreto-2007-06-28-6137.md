@@ -1,5 +1,3 @@
-###DEC-006137-0-000-28-06-2007@@@
-
 DECRETO Nº 6.137, DE 28 DE JUNHO DE 2007.
 
 Dá nova redação ao caput do art. 1o do Decreto no 6.007, de 29 de dezembro de 2006, que prorroga a validade dos restos a pagar inscritos no exercício financeiro de 2005.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Nelson Machado
-
-Este texto não substitui o publicado no DOU de 29.6.2007

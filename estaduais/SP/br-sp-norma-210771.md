@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210771)<br>
-
 # LEI N° 18.139, DE 20 DE MARÇO DE 2025
 
 ## (Projeto de lei n° 1479/2023, do Deputado Carlos Cezar - PL)

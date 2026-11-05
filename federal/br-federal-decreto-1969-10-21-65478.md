@@ -1,5 +1,3 @@
-###DEC-065478-0-000-21-10-1969@@@
-
 DECRETO Nº 65.478 - DE 21 DE OUTUBRO DE 1969.
 
 Cria o Grupo Executivo de Modernização e Expansão dos Serviços de Armazenagem - GESA e dá outras providências.

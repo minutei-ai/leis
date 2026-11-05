@@ -1,5 +1,3 @@
-###DEC-059239-0-000-19-09-1966@@@
-
 DECRETO Nº 59.239, DE 19 DE SETEMBRO DE 1966.
 
 Renova o Decreto nº 53.310, de 16 de dezembro de 1963.

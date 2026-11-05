@@ -1,5 +1,3 @@
-###DEC-065296-0-000-07-10-1969@@@
-
 DECRETO Nº 65.296 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto n° 48.198, de 12 de maio de 1960.

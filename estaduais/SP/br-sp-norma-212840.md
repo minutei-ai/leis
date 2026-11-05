@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212840)<br>
-
 # DECRETO N° 70.757, DE 14 DE JULHO DE 2026
 
 ### _Transfere os cargos e as funções-atividades que especifica e dá providências correlatas._
@@ -34,8 +32,178 @@ Eleuses Vieira de Paiva
 
 #### A N E X O I
 
-<table style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO/ FUNÇÃO-ATIVIDADE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC/SQF</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">OCUPANTE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">RG/CPF/CIN</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DO</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">PARA</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Reinaldo Leite Machado</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">24.951.202-6</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QCC</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Executivo Público</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Giovana Apuzzo Zappalá</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">163.449.488-17</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QCGE</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Julio Cezar de Lima Sant´Ana</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">425.243.238-38</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QCGE</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Auxiliar de Enfermagem</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Lucimara Martinês Carrenho Trindade</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">138.631.378-50</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Auxiliar de Serviços Gerais</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQF-II</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Daniel Nunes da Silva</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">599.372.625-34</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Auxiliar de Enfermagem</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Daniel Alves Adão</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">261.542.848-96</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Roberto Marques Correa</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">144.878.648-79</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSCEIC</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSDS</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Márcio Peres Biazotti Júnior</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">400.129.168-11</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSEMIL</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQF-II</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Luiz Carlos Oliveira do Nascimento</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">128.452.588-01</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSGGD</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Elisete da Silva Miguel</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">132.634.878-76</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSGGD</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSSP</td></tr></tbody></table>
+CARGO/ FUNÇÃO-ATIVIDADE
+
+SQC/SQF
+
+OCUPANTE
+
+RG/CPF/CIN
+
+DO
+
+PARA
+
+Oficial Administrativo
+
+SQC-III
+
+Reinaldo Leite Machado
+
+24.951.202-6
+
+QSAP
+
+QCC
+
+Executivo Público
+
+SQC-III
+
+Giovana Apuzzo Zappalá
+
+163.449.488-17
+
+QSS
+
+QCGE
+
+Oficial Administrativo
+
+SQC-III
+
+Julio Cezar de Lima Sant´Ana
+
+425.243.238-38
+
+QSS
+
+QCGE
+
+Auxiliar de Enfermagem
+
+SQC-III
+
+Lucimara Martinês Carrenho Trindade
+
+138.631.378-50
+
+QSS
+
+QSAP
+
+Auxiliar de Serviços Gerais
+
+SQF-II
+
+Daniel Nunes da Silva
+
+599.372.625-34
+
+QSS
+
+QSAP
+
+Auxiliar de Enfermagem
+
+SQC-III
+
+Daniel Alves Adão
+
+261.542.848-96
+
+QSS
+
+QSAP
+
+Oficial Administrativo
+
+SQC-III
+
+Roberto Marques Correa
+
+144.878.648-79
+
+QSCEIC
+
+QSDS
+
+Oficial Administrativo
+
+SQC-III
+
+Márcio Peres Biazotti Júnior
+
+400.129.168-11
+
+QSS
+
+QSEMIL
+
+Oficial Administrativo
+
+SQF-II
+
+Luiz Carlos Oliveira do Nascimento
+
+128.452.588-01
+
+QSS
+
+QSGGD
+
+Oficial Administrativo
+
+SQC-III
+
+Elisete da Silva Miguel
+
+132.634.878-76
+
+QSGGD
+
+QSSP
 
 #### A N E X O II
 
-<table style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">CARGO</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">EX-OCUPANTE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">RG/CPF</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">MOTIVO DA VACÂNCIA</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">DO</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">PARA</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Durvalino dos Santos Filho</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">13.527.875-2</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Aposentadoria</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QCC</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSAP</td></tr><tr><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Oficial Administrativo</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">SQC-III</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Elaine Cristina Costa da Maia</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">19.289.692-1</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Exoneração</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QCGE</td><td style="border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">QSS</td></tr></tbody></table>
+CARGO
+
+SQC
+
+EX-OCUPANTE
+
+RG/CPF
+
+MOTIVO DA VACÂNCIA
+
+DO
+
+PARA
+
+Oficial Administrativo
+
+SQC-III
+
+Durvalino dos Santos Filho
+
+13.527.875-2
+
+Aposentadoria
+
+QCC
+
+QSAP
+
+Oficial Administrativo
+
+SQC-III
+
+Elaine Cristina Costa da Maia
+
+19.289.692-1
+
+Exoneração
+
+QCGE
+
+QSS

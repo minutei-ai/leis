@@ -1,6 +1,10 @@
 > **LEI Nº 3.518, DE 23 DE SETEMBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.476, de 24 de maio de 2019, que autoriza o Estado do Acre a conceder o uso oneroso de edificação pública localizada no Município de Rio Branco.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.476, de 24 de maio de 2019, que autoriza o Estado do Acre a conceder o uso oneroso de edificação pública localizada no Município de Rio Branco.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

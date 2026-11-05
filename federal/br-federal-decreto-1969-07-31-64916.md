@@ -1,5 +1,3 @@
-###DEC-064916-0-000-31-07-1969@@@
-
 DECRETO Nº 64.916 - DE 31 DE JULHO DE 1969.
 
 Declara de utilidade pública a Associação Cristã Beneficente "Euripides Barsanulfo" com sede em Santos, Estado de São Paulo.

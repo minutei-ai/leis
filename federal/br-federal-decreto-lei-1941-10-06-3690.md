@@ -1,5 +1,3 @@
-###DEL-003690-0-000-06-10-1941@@@
-
 DECRETO-LEI N. 3.690 – DE 6 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de 13:200$0 a verba que especifica

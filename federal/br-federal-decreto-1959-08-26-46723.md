@@ -1,5 +1,3 @@
-###DEC-046723-0-000-26-08-1959@@@
-
 DECRETO Nº 46.723, DE 26 DE AGôSTO DE 1959.
 
 Aprova alterações introduzidas nos estatutos, inclusive aumento do capital social da Companhia Nacional de seguros Ipiranga.

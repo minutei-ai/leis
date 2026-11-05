@@ -1,7 +1,3 @@
-1
-
-###DEC-095896-0-000-05-04-1988@@@
-
 # DECRETO N° 95.896, DE 5 DE ABRIL DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados do Centro de Ensino Superior de Valença, no Rio de Janeiro.

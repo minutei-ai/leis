@@ -1,5 +1,3 @@
-###DEC-061944-0-000-22-12-1967@@@
-
 DECRETO Nº 61.944, DE 22 DE DEZEMBRO DE 1967.
 
 Retifica, sem ônus para o Tesouro Nacional, o Decreto nº 61.911, de 14 de dezembro de 1967.

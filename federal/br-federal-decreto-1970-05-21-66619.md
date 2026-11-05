@@ -1,5 +1,3 @@
-###DEC-066619-0-000-21-05-1970@@@
-
 DECRETO Nº 66.619, DE 21 DE MAIO DE 1970.
 
 Altera o Regulamento do Fundo de Garantia do Tempo de Serviço, aprovado pelo Decreto nº 59.820, de 20 de dezembro de 1966, alterado pelo Decreto nº 61.405, de 28 de setembro de 1967.

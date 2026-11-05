@@ -4,7 +4,8 @@ Institui o Programa Consórcios Municipais da Bahia - Programa Consórcio Bahia,
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROGRAMA CONSÓRCIOS MUNICIPAIS DA BAHIA - PROGRAMA CONSÓRCIO BAHIA
 
 **Art. 1º** - Fica instituído o Programa Consórcios Municipais da Bahia - Programa Consórcio Bahia, com o objetivo de disciplinar a realização de acordos entre o Estado da Bahia e os consórcios municipais, constituídos em seu território, nos termos do inciso I do § 1º do art. 2º da Lei Federal nº 11.107, de 06 de abril de 2005, bem como de apoiar e fomentar a instituição e o desenvolvimento dos consórcios municipais.
@@ -33,10 +34,12 @@ DO PROGRAMA CONSÓRCIOS MUNICIPAIS DA BAHIA - PROGRAMA CONSÓRCIO BAHIA
 
 **XI -** a padronização de procedimentos e políticas públicas, através da realização de estudos e projetos a serem utilizados nas diversas ações dos consórcios ou entre estes e o Estado.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO ACORDO CONSORCIAL
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Do Conceito
 
 **Art. 3º** - Acordo Consorcial é o instrumento pelo qual a Administração Pública Estadual, direta ou indireta, estabelece parceria com os consórcios municipais voltados à realização de obras e serviços de interesse comum ou de cada uma das partes, além da implementação de políticas públicas, a serem realizadas no âmbito de abrangência das entidades consorciais, que envolvam ou não aportes de recursos financeiros.
@@ -47,7 +50,8 @@ Do Conceito
 
 **§ 3**º - O Acordo Consorcial de que trata o _caput_ deste artigo deve ser previamente motivado, contendo a respectiva indicação do órgão da Administração Pública Estadual acordante, a justificativa técnica para a escolha desta opção, economicidade e celeridade, e os impactos econômicos e sociais para a região a ser beneficiada.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Do Objeto
 
 **Art. 4º** - Os Acordos Consorciais podem ter por objeto:
@@ -82,7 +86,8 @@ Do Objeto
 
 **j)** outras áreas públicas de interesse social ou econômico.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Formalização
 
 **Art. 5º** - Os Acordos Consorciais serão regidos pelo disposto nesta Lei e pelas normas gerais de direito administrativo, devendo constar em seus instrumentos e anexos as seguintes cláusulas e condições:
@@ -119,7 +124,8 @@ Da Formalização
 
 **XVI -** indicação do foro da Capital do Estado da Bahia para dirimir as dúvidas decorrentes da execução da parceria, estabelecendo a obrigatoriedade da prévia tentativa de solução administrativa com a participação da Procuradoria Geral do Estado - PGE.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Das Condições Financeiras
 
 **Art. 6º** - Os valores para o desenvolvimento do Acordo Consorcial deverão ser definidos considerando a complexidade e os custos diretos e indiretos para a plena execução do objeto.
@@ -142,7 +148,8 @@ critérios isonômicos para a definição dos valores a serem aportados conforme
 
 **Art. 10** - O Acordo Consorcial deverá considerar, para efeito da definição dos valores a serem repassados ao Consórcio, de forma a reduzir os custos, bens e insumos que eventualmente tenham sido cedidos ou doados pela Administração Pública Estadual direta ou indireta, ainda que por órgão ou entidade que não integre o Acordo.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 **Art. 11** - Os contratos celebrados entre o Estado da Bahia e os consórcios municipais poderão ser convertidos em Acordos Consorciais, desde que devidamente ajustados ao que dispõe a presente Lei, sendo seus atos convalidados em todos os seus efeitos.

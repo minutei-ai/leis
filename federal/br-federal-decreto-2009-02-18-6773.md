@@ -1,5 +1,3 @@
-###DEC-006773-0-000-18-02-2009@@@
-
 DECRETO Nº 6.773, DE 18 DE FEVEREIRO DE 2009.
 
 Dá nova redação ao inciso VI do art. 1o do Decreto no 5.294, de 1o de dezembro de 2004, visando estabelecer aditância militar na Índia.

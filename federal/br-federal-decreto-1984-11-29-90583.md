@@ -1,5 +1,3 @@
-###DEC-090583-0-000-29-11-1984@@@
-
 Decreto nº 90.583, de 29 de novembro de 1984
 
 Transfere da Centrais Elétricas de Goiás S.A. - CELG para Furnas-Centrais Elétricas S.A. a concessão para o aproveitamento da energia hidráulica, de um trecho do rio Corumbá, no Estado de Goiás.

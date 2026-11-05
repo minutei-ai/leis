@@ -1,5 +1,3 @@
-###DEC-057251-0-000-12-11-1965@@@
-
 DECRETO Nº 57.251, DE 12 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública a “Associação Brasileira para o Rearmamento Moral”, com sede em Petrópolis, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-073625-0-000-12-02-1974@@@
-
 DECRETO Nº 73.625, DE 12 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento do Centro de Ensino Superior, com sede na Cidade de Chapecó, Estado de Santa Catarina.

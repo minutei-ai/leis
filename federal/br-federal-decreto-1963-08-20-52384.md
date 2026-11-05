@@ -1,5 +1,3 @@
-###DEC-052384-0-000-20-08-1963@@@
-
 DECRETO Nº 52.384, DE 20 DE AGÔSTO DE 1963.
 
 Autoriza o cidadão brasileiro Mário de Souza Ferraz a pesquisar gipsita no município de Ouricuri, estado de Pernambuco.

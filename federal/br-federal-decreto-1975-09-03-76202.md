@@ -1,5 +1,3 @@
-###DEC-076202-0-000-03-09-1975@@@
-
 DECRETO Nº 76.202 - DE 3 DE SETEMBRO DE 1975
 
 Inclui representação do Ministério da Previdência e Assistência Social nos órgãos de deliberação coletiva que menciona.

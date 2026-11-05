@@ -1,5 +1,3 @@
-###DEC-082513-0-000-27-10-1978@@@
-
 Decreto nº 82 513, de 27 de outubro de 1978.
 
 Retifica a concessão de lavra outorgada à Alumínio Poços de Caldas S.A. pelo Decreto nº 64.393, de 23 de abril de 1969.

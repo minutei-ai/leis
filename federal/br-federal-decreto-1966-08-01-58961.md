@@ -1,5 +1,3 @@
-###DEC-058961-0-000-01-08-1966@@@
-
 DECRETO Nº 58.961, DE 1 DE AGôSTO DE 1966.
 
 Cancela o Decreto nº 29.227, de 26 de janeiro de 1961.

@@ -1,5 +1,3 @@
-###DEC-047262-0-000-19-11-1959@@@
-
 DECRETO Nº 47.262, DE 19 DE NOVEMBRO DE 1959.
 
 Autoriza o Departamento de Imprensa Nacional a realizar despesas nos têrmos do art. 48 do Código de Contabilidade da União e dá outras providências.

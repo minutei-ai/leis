@@ -1,6 +1,10 @@
 > **LEI Nº 3.217, DE 29 DE DEZEMBRO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Extingue o Fundo de Desenvolvimento Estadual – FDE, instituído pela Lei nº 565, de 30 de setembro de 1975, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Extingue o Fundo de Desenvolvimento Estadual – FDE, instituído pela Lei nº 565, de 30 de setembro de 1975, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

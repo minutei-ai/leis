@@ -1,5 +1,3 @@
-###DEL-007432-0-000-02-04-1945@@@
-
 DECRETO-LEI N. 7.432 – DE 2 DE ABriL DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 1.313.281,70,  para liquidação de despesa

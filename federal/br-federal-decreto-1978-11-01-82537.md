@@ -1,5 +1,3 @@
-###DEC-082537-0-000-01-11-1978@@@
-
 decreto nº 82.537, de 01 de novembro de 1978.
 
 Concede reconhecimento ao curso de Medicina Veterinária da Faculdade de Ciências Agrárias do Pará, com sede na cidade de Belém, Estado do Pará.

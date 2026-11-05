@@ -1,5 +1,3 @@
-###DEC-087583-0-000-20-09-1982@@@
-
 Decreto Nº 87.583, de 20 setembro de 1982
 
 Altera dispositivo do Decreto nº 84.067, de 08 de outubro de 1979, que cria a Secretaria Especial de Informática, como órgão complementar do Conselho de Segurança Nacional.

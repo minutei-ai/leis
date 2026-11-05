@@ -1,14 +1,12 @@
-###DEC-030135-0-000-05-11-1951@@@
+**DECRETO Nº 30.135, DE 05 DE NOVEMBRO DE 1951.**
 
-<strong>DECRETO Nº 30.135, DE 05 DE NOVEMBRO DE 1951.</strong>
+***Dá nova redação ao art. 2º do Decreto nº 29.122, de 12-1-1951.***
 
-<em><strong>Dá nova redação ao art. 2º do Decreto nº 29.122, de 12-1-1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 2º do Decreto número 29.122, de 12 de janeiro de 1951, que dispõe sôbre as funções privativas dos diferentes postos e quadros do Corpo de Oficiais de Aeronáutica, passa ter a seguinte redação:
+**Art**. 1º O art. 2º do Decreto número 29.122, de 12 de janeiro de 1951, que dispõe sôbre as funções privativas dos diferentes postos e quadros do Corpo de Oficiais de Aeronáutica, passa ter a seguinte redação:
 
 “Art. 2º São funções privativas de Oficiais do Quadro de Saúde da Aeronáutica:
 
@@ -46,10 +44,10 @@ f) do pôsto de Capitão-Médico:
 
 \- Auxiliar de Gabinete no Instituto de Seleção e Contrôle”
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, 5 de dezembro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Nero Moura

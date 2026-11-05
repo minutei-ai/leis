@@ -1,5 +1,3 @@
-###DEC-005392-0-000-10-03-2005@@@
-
 DECRETO Nº 5.392 DE 10 DE MARÇO DE 2005
 
 Declara estado de calamidade pública no setor hospitalar do Sistema Único de Saúde no Município do Rio de Janeiro, e dá outras providências.

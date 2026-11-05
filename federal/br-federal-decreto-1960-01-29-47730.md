@@ -1,5 +1,3 @@
-###DEC-047730-0-000-29-01-1960@@@
-
 DECRETO Nº 47.730, DE 29 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Jacinto Straub a lavrar calcita no município de Bocaiuva do Sul, Estado do Paraná.

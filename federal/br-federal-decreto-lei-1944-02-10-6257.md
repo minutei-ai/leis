@@ -1,5 +1,3 @@
-###DEL-006257-0-000-10-02-1944@@@
-
 DECRETO-LEI N. 6.257 – DE 10 DE FEVEREIRO DE 1944
 
 Concede uma pensão especial ao ex-Soldado Antônio Francisco da Silva

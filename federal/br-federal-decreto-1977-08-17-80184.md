@@ -1,5 +1,3 @@
-###DEC-080184-0-000-17-08-1977@@@
-
 DECRETO Nº 80.184, DE 17 DE AGOSTO DE 1977.
 
 Concede à Cia. Nacional de Grafite o direito de lavrar grafite no Município de Pedra Azul, Estado Minas Gerais.

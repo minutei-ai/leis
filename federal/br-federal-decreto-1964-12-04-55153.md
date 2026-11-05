@@ -1,5 +1,3 @@
-###DEC-055153-0-000-04-12-1964@@@
-
 DECRETO Nº 55.153, DE 4 DE DEZEMBRO DE 1964.
 
 Concede à “Ciprospar” Produtora de Feldspato Limitada autorização para funcionar como emprêsa de mineração.

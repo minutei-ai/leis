@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d8fbd99e-51c0-46fd-b9bd-a09d966f3117/texto#nowhere)
 
-###DEL-000559-0-000-29-04-1969@@@
-
 DECRETO-LEI Nº 559, DE 29 DE ABRIL DE 1969
 
 Aprova a aposentadoria de Augusto Carlos Emílio na função de Artífice, referência 20, do então Ministério da Guerra, cujo registro foi negado pelo Tribunal de Contas da União.

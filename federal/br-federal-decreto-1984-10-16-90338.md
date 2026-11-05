@@ -1,5 +1,3 @@
-###DEC-090338-0-000-16-10-1984@@@
-
 Decreto nº 90.338, de 16 de outubro de 1984
 
 Concede autorização a empresa BP PETROLEUM DEVELOPMENT BPAZIL LIMITED, para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

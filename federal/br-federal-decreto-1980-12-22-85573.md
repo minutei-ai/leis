@@ -1,5 +1,3 @@
-###DEC-085573-0-000-22-12-1980@@@
-
 Decreto nº 85.573, de 22 de dezembro de 1980.
 
 Concede ao INSTITUTO DE RESSEGUROS DO BRASIL - IRB, autorização para proceder a aumento de seu capital social.

@@ -1,5 +1,3 @@
-###DEC-048468-0-000-07-07-1960@@@
-
 DECRETO N. 48.468 – DE 7 DE JULHO DE 1960
 
 Cria função gratificada no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Comerciários, e dá outras providências.

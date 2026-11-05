@@ -1,5 +1,3 @@
-###DEC-054574-0-000-23-10-1964@@@
-
 DECRETO Nº 54.574, DE 23 DE OUTUBRO DE 1964.
 
 Outorga à Indupinho Limitada concessão para o aproveitamento de um desnível denominado Salto Buriti, existente no curso d’água Butiá, município de Palmas, Estado do Paraná.

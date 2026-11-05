@@ -1,7 +1,3 @@
-1
-
-###DEC-002027-0-000-11-10-1996@@@
-
 DECRETO Nº 2.027, DE 11 DE OUTUBRO DE 1996.
 
 Dispõe obre a nomeação para cargo ou emprego efetivo na Administração Pública Federal direta e indireta do servidor público civil aposentado ou servidor público militar reformato ou da reserva remunerada.

@@ -1,5 +1,3 @@
-###DEC-005922-0-000-03-10-2006@@@
-
 DECRETO Nº 5.922, DE 3 DE OUTUBRO DE 2006.
 
 Promulga a Convenção entre o Governo da República Federativa do Brasil e o Governo da República da África do Sul para Evitar a Dupla Tributação e Prevenir a Evasão Fiscal em Relação aos Impostos sobre a Renda, celebrado em Pretória, em 8 de novembro de 2003.
@@ -24,11 +22,7 @@ Brasília, 3 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 4.10.2006.
-
-CONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ÁFRICA DO SUL PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM RELAÇÃO AOS IMPOSTOS SOBRE A RENDA
+         Celso Luiz Nunes AmorimCONVENÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA ÁFRICA DO SUL PARA EVITAR A DUPLA TRIBUTAÇÃO E PREVENIR A EVASÃO FISCAL EM RELAÇÃO AOS IMPOSTOS SOBRE A RENDA
 
  PREÂMBULO
 

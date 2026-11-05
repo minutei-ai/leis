@@ -1,5 +1,3 @@
-###DEL-006066-0-000-03-12-1943@@@
-
 DECRETO‑LEI N. 6.066 – DE 3 DEZEMBRO DE 1943
 
 Dispõe sôbre a finalidade de funcionamento, do Instituto Benjamin Constant e dá outras providências

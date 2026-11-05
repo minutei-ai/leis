@@ -1,5 +1,3 @@
-###DEC-079777-0-000-06-06-1977@@@
-
 DECRETO Nº 79.777, DE 6 DE JUNHO DE 1977
 
 Concede reconhecimento do curso de Letras, da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Uruguaiana, Estado do Rio Grande do Sul.

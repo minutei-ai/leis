@@ -1,5 +1,3 @@
-###DEC-075450-0-000-06-03-1975@@@
-
 DECRETO Nº 75.450, DE 6 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas e Administrativas de Franca, com sede na cidade de Franca, Estado de São Paulo.

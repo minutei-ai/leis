@@ -1,5 +1,3 @@
-###DEL-009503-0-000-23-07-1946@@@
-
 DECRETO-LEI N. 9.503 – DE 23 DE JULHO DE 1946
 
 Extingue as Comissões de Eficiência, e dá outras providências.

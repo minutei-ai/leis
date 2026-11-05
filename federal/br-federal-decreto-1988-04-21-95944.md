@@ -1,5 +1,3 @@
-###DEC-095944-0-000-21-04-1988@@@
-
 DECRETO Nº 95.944, DE 21 DE ABRIL DE 1988
 
 Promulga o Acordo de Cooperação Cultural e Educacional entre o Governo da República Federativa do Brasil e o Governo da República Popular da China.

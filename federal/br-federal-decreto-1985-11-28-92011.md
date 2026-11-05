@@ -1,5 +1,3 @@
-###DEC-092011-0-000-28-11-1985@@@
-
 Decreto nº 92.011, de 28 de novembro de 1985
 
 Declara de ocupação dos indígenas, área de terras que menciona no Estado de Mato Grosso, e dá outras providências.

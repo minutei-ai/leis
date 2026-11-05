@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/81176749-b22c-4066-a098-4004e8de2cfd/texto#nowhere)
 
-###DEL-002092-0-000-27-12-1983@@@
-
 # Decreto-Lei nº 2.092, de 27 de dezembro de 1983
 
 Reajusta os vencimentos, salários e proventos dos servidores dos Tribunais do Trabalho e dá outras providências.

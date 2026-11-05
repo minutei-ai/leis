@@ -1,5 +1,3 @@
-###DEL-008770-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.770 – DE 21 DE JANEIRO DE 1946
 
 Cria cargo de técnico de artes gráficas da Imprensa Nacional no quadro Permanente do Ministério da Justiça e Negócios Interiores.

@@ -1,5 +1,3 @@
-###DEC-068243-0-000-16-02-1971@@@
-
 DECRETO Nº 68.243, DE 16 DE FEVEREIRO DE 1971.
 
 Cancela o Decreto nº 12.805, de 7 de julho de 1943.

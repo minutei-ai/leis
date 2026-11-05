@@ -1,5 +1,3 @@
-###DEC-048788-0-000-12-08-1960@@@
-
 DECRETO Nº 48.788, de 12 de agôsto de 1960.
 
 Autoriza o cidadão brasileiro João Francisco Belieni a pesquisar água mineral no município de Campos, Estado do Rio de Janeiro.

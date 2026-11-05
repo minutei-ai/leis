@@ -1,5 +1,3 @@
-###DEC-077201-0-000-19-02-1976@@@
-
 decreto nº 77.201, de 19 de fevereiro de 1976.
 
 Concede reconhecimento aos cursos de Magistério das Disciplinas Especializadas do 2º Grau, Esquemas I e II, de Letras e de Pedagogia, das Faculdades Integradas de Marília, Estado de São Paulo.

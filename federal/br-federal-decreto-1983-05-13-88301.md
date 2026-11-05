@@ -1,5 +1,3 @@
-###DEC-088301-0-000-13-05-1983@@@
-
 Decreto nº 88.301, de 13 de maio de 1983
 
 Concede a empresa ENTE NAZIONALE IDROCARBURI (E.N.I) autorização para funcionar na República Federativa do Brasil.

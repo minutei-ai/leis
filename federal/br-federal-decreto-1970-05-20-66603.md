@@ -1,5 +1,3 @@
-###DEC-066603-0-000-20-05-1970@@@
-
 DECRETO Nº 66.603, DE 20 DE MAIO DE 1970.
 
 Autoriza o funcionamento dos Cursos de Sociologia, Serviço Social, Economia, Contabilidade e Atuária e de Administração do Instituto Superior de Ciências Aplicadas, mantido pela Associação Limeirense de Educação.

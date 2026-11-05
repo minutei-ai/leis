@@ -1,5 +1,3 @@
-###DEC-072517-0-000-24-07-1973@@@
-
 DECRETO Nº 72.517, DE 24 DE JULHO DE 1973.
 
 Autoriza o funcionamento dos cursos de Ciência Contábeis e Administração de Empresas, da Faculdade de Ciências Econômicas de Marília, mantida pela Associação de Ensino de Marília, com sede na cidade de Marília, Estado de São Paulo.

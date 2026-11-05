@@ -1,5 +1,3 @@
-###DEC-062462-0-000-25-03-1968@@@
-
 DECRETO Nº 62.462, DE 25 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Sociedade de Beneficência Humboldt” com sede no Estado da Guanabara.

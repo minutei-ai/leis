@@ -1,32 +1,30 @@
-###LEI-000604-0-000-03-01-1949@@@
+**LEI Nº 604, DE 3 DE JANEIRO DE 1949**
 
-<strong>LEI Nº 604, DE 3 DE JANEIRO DE 1949</strong>
+***Transforma em estabelecimento federal de ensino superior a Faculdade de Direito de Goiás.***
 
-<em><strong>Transforma em estabelecimento federal de ensino superior a Faculdade de Direito de Goiás.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+**Art**. 1º Fica transformada em estabelecimento federal de ensino superior a Faculdade de Direito de Goiás, incorporados ao Patrimônio Nacional todos os seus direitos, bens móveis e imóveis.
 
-<strong>Art</strong>. 1º Fica transformada em estabelecimento federal de ensino superior a Faculdade de Direito de Goiás, incorporados ao Patrimônio Nacional todos os seus direitos, bens móveis e imóveis.
+**Art**. 2º O estabelecimento incorporado, que passa a subordinar-se ao Ministério da Educação e Saúde, obedecerá ao regulamento aprovado pelo Decreto nº 23.609, de 20 de dezembro de 1933, com as modificações posteriores, até expedição do regulamento próprio pelo Poder Executivo.
 
-<strong>Art</strong>. 2º O estabelecimento incorporado, que passa a subordinar-se ao Ministério da Educação e Saúde, obedecerá ao regulamento aprovado pelo Decreto nº 23.609, de 20 de dezembro de 1933, com as modificações posteriores, até expedição do regulamento próprio pelo Poder Executivo.
-
-<strong>Art</strong>. 3º Vetado.
+**Art**. 3º Vetado.
 
 Parágrafo único. Vetado.
 
-<strong>Art</strong>. 4º Vetado.
+**Art**. 4º Vetado.
 
-<strong>Art</strong>. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 5º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio Janeiro, 3 de janeiro de 1949, 128º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clemente Mariani
 
 Corrêa e Castro
 
-<strong>RAZÕES DO VETO PARCIAL APÔSTO AO DECRETO DO CONGRESSO NACIONAL, QUE TRANSFORMA EM ESTABELECIMENTO FEDERAL DE ENSINO SUPERIOR A FACULDADE DE DIREITO DE GOIÁS (PUBLICAÇÃO FEITA EM OBEDIÊNCIA AO DISPOSTO NO § 1º DO ART. 70 DA CONSTITUIÇÃO).</strong>
+**RAZÕES DO VETO PARCIAL APÔSTO AO DECRETO DO CONGRESSO NACIONAL, QUE TRANSFORMA EM ESTABELECIMENTO FEDERAL DE ENSINO SUPERIOR A FACULDADE DE DIREITO DE GOIÁS (PUBLICAÇÃO FEITA EM OBEDIÊNCIA AO DISPOSTO NO § 1º DO ART. 70 DA CONSTITUIÇÃO).**
 
 Nº 2:
 
@@ -50,4 +48,4 @@ Ante o exposto, solicito ao Congresso Nacional haja por bem reconsiderar o assun
 
 Rio de Janeiro, 2 de janeiro de 1949.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**

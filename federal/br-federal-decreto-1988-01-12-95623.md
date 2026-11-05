@@ -1,7 +1,3 @@
-1
-
-###DEC-095623-0-000-12-01-1988@@@
-
 DECRETO N° 95.623, DE 12 DE JANEIRO DE 1988
 
 Autoriza a criação da Universidade Luterana do Brasil ULBRA, em Canoas, Rio Grande do Sul.

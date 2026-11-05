@@ -1,5 +1,3 @@
-###DEC-092840-0-000-27-06-1986@@@
-
 DECRETO Nº 92.840, DE 27 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Bom Sucesso" e "CapimIBarra da Onça", situado no Município de Poço Redondo, no Estado de Sergipe, e compreendido no zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.687, de 19 de maio de 1986, e dá outras providências.

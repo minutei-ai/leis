@@ -1,5 +1,3 @@
-###DEC-045065-0-000-19-12-1958@@@
-
 DECRETO Nº 45.065, DE 19 DE DEZEMBRO DE 1958.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$30.000.000,00 para auxiliar a construção da futura sede do Instituto Histórico e Geográfico Brasileiro no Distrito Federal.
@@ -21,8 +19,6 @@ JUSCELINO KUBITSCHEK
 Clovis Salgado
 
 Lucas Lopes
-
-###DEC-045065-0-000-19-12-1958@@@RET01+++
 
 DECRETO Nº 45.065, DE 19 DE DEZEMBRO DE 1958.
 

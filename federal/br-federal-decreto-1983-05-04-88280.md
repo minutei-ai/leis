@@ -1,5 +1,3 @@
-###DEC-088280-0-000-04-05-1983@@@
-
 DECRETO Nº 88.280, DE 04 DE MAIO DE 1983
 
 Declara de interesse social; para fins de desapropriação, o imóvel rural denominado "Gleba São Domingos", situado no Município de Pontes e Lacerda, no Estado de Mato Grosso, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.279, de 04 de maio de 1983.

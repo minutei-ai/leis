@@ -4,7 +4,8 @@ Autoriza a administração pública do Estado de Goiás a abrir créditos adicio
 
 A **ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS**, nos termos do art. 10 da [Constituição Estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152), decreta e eu sanciono a seguinte Lei Complementar:
 
-Art. 1º Os recursos oriundos de cancelamento de restos a pagar, provenientes de transferências de recursos da União com aplicação vinculada, legalmente autorizados e justificados, desde que não tenham sido comprometidos, poderão ser utilizados como origem de recursos para a abertura de créditos adicionais no mesmo exercício do cancelamento, com a recomposição do superávit financeiro do exercício anterior, desde que sejam aplicados para atender despesas decorrentes da mesma finalidade da vinculação original.<br>
+Art. 1º Os recursos oriundos de cancelamento de restos a pagar, provenientes de transferências de recursos da União com aplicação vinculada, legalmente autorizados e justificados, desde que não tenham sido comprometidos, poderão ser utilizados como origem de recursos para a abertura de créditos adicionais no mesmo exercício do cancelamento, com a recomposição do superávit financeiro do exercício anterior, desde que sejam aplicados para atender despesas decorrentes da mesma finalidade da vinculação original.
+
 \- [Redação dada pela Lei Complementar nº 207, de 1º-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111012).
 
 ~~Art. 1º Os recursos oriundos de cancelamento de restos a pagar legalmente autorizados e justificados, desde que não tenham sido comprometidos, poderão ser utilizados como origem de recursos para a abertura de créditos adicionais no mesmo exercício do cancelamento, com a recomposição do superávit financeiro do exercício anterior.~~

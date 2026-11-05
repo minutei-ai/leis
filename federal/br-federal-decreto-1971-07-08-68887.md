@@ -1,5 +1,3 @@
-###DEC-068887-0-000-08-07-1971@@@
-
 DECRETO Nº 68.887, DE 8 DE JULHO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e de Administração de Emprêsas - Guanabara.

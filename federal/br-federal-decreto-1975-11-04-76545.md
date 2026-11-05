@@ -1,5 +1,3 @@
-###DEC-076545-0-000-04-11-1975@@@
-
 DECRETO Nº 76.545, DE 4 DE NOVEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Ciências Afonso Celso, com sede na cidade do Rio de Janeiro, Estado do Rio de janeiro.

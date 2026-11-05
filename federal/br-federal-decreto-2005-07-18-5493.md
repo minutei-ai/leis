@@ -1,5 +1,3 @@
-###DEC-005493-0-000-18-07-2005@@@
-
 DECRETO Nº 5.493, DE 18 DE JULHO DE 2005.
 
        Regulamenta o disposto na Lei no 11.096, de 13 de janeiro de 2005.
@@ -105,5 +103,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
 Tarso Genro
-
-Este texto não substitui o publicado no DOU de 19.7.2005

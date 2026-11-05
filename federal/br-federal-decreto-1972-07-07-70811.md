@@ -1,5 +1,3 @@
-###DEC-070811-0-000-07-07-1972@@@
-
 DECRETO Nº 70.811, DE 7 DE JULHO DE 1972.
 
 Autoriza o funcionamento da Escola de Engenharia de Operação Vale do Aço - Coronel Fabriciano - Minas Gerais.

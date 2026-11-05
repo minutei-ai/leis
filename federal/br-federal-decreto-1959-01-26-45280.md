@@ -1,5 +1,3 @@
-###DEC-045280-0-000-26-01-1959@@@
-
 Decreto nº 45.280, de 26 de janeiro de 1959.
 
 Transfere, sem aumento de despesa função da Tabela Numérica Especial de Extranumerário-mensalista da Inspetora Regional da Divisão de Defesa Sanitária Animal, em Salvador, Estado da Bahia, para idêntica tabela do Serviço de Meteorologia, ambas do Ministério da Agricultura.

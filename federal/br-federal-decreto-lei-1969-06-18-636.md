@@ -1,5 +1,3 @@
-###DEL-000636-0-000-18-06-1969@@@
-
 Decreto-lei nº 636, de 18 de Junho de 1969
 
 Modifica o Quadro de Oficiais-Generais do Exército, em tempo de paz, e dá outras providências.

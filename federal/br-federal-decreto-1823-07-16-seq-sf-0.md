@@ -1,5 +1,3 @@
-###DEC-000000-0-000-16-07-1823@@@
-
 DECRETO - DE 16 DE JULHO DE 1823
 
 Declara sem effeito a segunda devassa a que se procedeu sobre os acontecimentos de S. Paulo

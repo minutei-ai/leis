@@ -1,5 +1,3 @@
-###DEL-004434-0-000-02-07-1942@@@
-
 DECRETO-LEI N. 4.434 – DE 2 DE JULHO DE 1942
 
 Declara de utilidade pública as matas que menciona, para o fim de desapropriação pela Estrada de Ferro Noroeste do Brasil

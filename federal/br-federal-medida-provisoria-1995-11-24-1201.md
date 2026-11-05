@@ -1,7 +1,3 @@
-1
-
-###MPV-001201-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.201, DE 24 DE NOVEMBRO DE 1995.
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e COFINS nos casos que especifica, e dá outras providências.

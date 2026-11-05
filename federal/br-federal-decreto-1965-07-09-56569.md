@@ -1,5 +1,3 @@
-###DEC-056569-0-000-09-07-1965@@@
-
 DECRETO Nº 56.569, DE 9 DE JULHO DE 1965.
 
 Dá nova redação a alguns dispositivos da legislação que rege o ingresso no Magistério efetivo do Exército.

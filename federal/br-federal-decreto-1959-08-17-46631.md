@@ -1,5 +1,3 @@
-###DEC-046631-0-000-17-08-1959@@@
-
 DECRETO Nº 46.631, DE 17 DE AGÔSTO DE 1959.
 
 Declara órgão Auxiliar do Conselho Nacional de Águas e Energia Elétrica a Comissão Estadual de Energia Elétrica do Estado do Pará.

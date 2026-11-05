@@ -1,5 +1,3 @@
-###DEC-066153-0-000-02-02-1970@@@
-
 DECRETO Nº 66.153 - DE 2 DE FEVEREIRO DE 1970
 
 Fixa o número mínimo de vagas que deveriam ser abertas em 1969 para a aplicação da Cota Compulsória no Ministério da Marinha.

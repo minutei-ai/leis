@@ -1,5 +1,3 @@
-###DEC-055799-0-000-24-02-1965@@@
-
 DECRETO Nº 55.799, DE 24 DE FEVEREIRO DE 1965.
 
 Altera o Regulamento da Escola de Aeronáutica.

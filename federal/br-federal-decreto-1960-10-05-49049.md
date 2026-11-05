@@ -1,5 +1,3 @@
-###DEC-049049-0-000-05-10-1960@@@
-
 DECRETO Nº 49.049, DE 5 DE OUTUBRO DE 1960.
 
 Renova o Decreto nº 43.589, de 28 de abril de 1958.

@@ -1,5 +1,3 @@
-###DEC-070822-0-000-12-07-1972@@@
-
 DECRETO Nº 70.822, DE 12 DE JULHO DE 1972.
 
 Concede a SOMICOL S. A. Mineração Comércio e Indústria o direito de lavrar minério de manganês no município de Maraú, Estado da Bahia.

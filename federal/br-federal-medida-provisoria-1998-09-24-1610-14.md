@@ -1,5 +1,3 @@
-###MPV-001610-0-014-24-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.610-14, DE 24 DE SETEMBRO DE 1998
 
 Cria o Fundo de Garantia à Exposição - FGE, e dá outras providências.

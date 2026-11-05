@@ -1,5 +1,3 @@
-###DEC-061362-0-000-18-09-1967@@@
-
 DECRETO Nº 61.362, DE 18 DE SETEMBRO DE 1967.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil da fração ideal do terreno da marinha que menciona, no Estado da Guanabara.

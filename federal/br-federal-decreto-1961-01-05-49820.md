@@ -1,5 +1,3 @@
-###DEC-049820-0-000-05-01-1961@@@
-
 DECRETO Nº 49.820, DE 5 DE JANEIRO DE 1961.
 
 Renova o decreto nº 43.666, de 7 de maio de 1.958.

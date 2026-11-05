@@ -1,5 +1,3 @@
-###DEC-052826-0-000-14-11-1963@@@
-
 DECRETO Nº 52.826, DE 14 DE NOVEMBRO DE 1963.
 
 Altera o Regulamento do Ensino industrial, aprovado pelo Decreto nº 47.038, de 16 de outubro de 1959, e modificado pelos de nºs 47.258, de 17 de novembro de 1959, 49.304, de 21 de novembro de 1960, 615, de 20 de fevereiro de 1962 e 52.212, de 2 de julho de 1963.

@@ -1,5 +1,3 @@
-###DEL-003851-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.851 – DE 20 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito especial de 73:000$0, para regularização de despesas

@@ -1,5 +1,3 @@
-###DEC-074533-0-000-11-09-1974@@@
-
 DECRETO Nº 74.533, DE 11 DE SETEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada no Município de Paracambi, Estado do Rio de Janeiro destinado à instalação de uma estação telefônica automática pela Companhia Telefônica Brasileira - CTB.

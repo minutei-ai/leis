@@ -1,5 +1,3 @@
-###MPV-000142-0-000-02-12-2003@@@
-
 MEDIDA PROVISÓRIA Nº 142, DE 2 DE DEZEMBRO 2003.
 
        Dispõe sobre os créditos do Banco Central do Brasil contra instituição financeira credenciada a operar no Convênio de Pagamentos e Créditos Recíprocos - CCR, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001549-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.549, DE 18 DE DEZEMBRO DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

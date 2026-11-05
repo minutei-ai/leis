@@ -1,5 +1,3 @@
-###DEC-004003-0-000-08-11-2001@@@
-
 DECRETO Nº 4.003, DE 8 DE NOVEMBRO DE 2001
 
 Dá nova redação aos arts. 2º e 3º do Decreto nº 2.774, de 9 de setembro de 1998, que dispõe sobre a composição do Conselho de Gestão da Previdência Complementar e dá outras providências.

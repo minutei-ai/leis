@@ -1,5 +1,3 @@
-###DEC-088596-0-000-08-08-1983@@@
-
 Decreto nº 88.596, de 08 de agosto de 1983
 
 Altera o método de faturamento da energia elétrica fornecida a unidades consumidoras do Grupo A atingidas pelas inundações ocorridas nos Estados do Rio Grande do Sul, Santa Catarina e Paraná, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005261-0-000-03-11-2004@@@
-
 DECRETO Nº 5.261 DE 3 DE NOVEMBRO DE 2004
 
 Dispõe sobre a 11ª Brigada de Infantaria Blindada, a 5ª Brigada de Cavalaria Blindada e a 5ª Brigada de Infantaria Blindada e dá outras providências.

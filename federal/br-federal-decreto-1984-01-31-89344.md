@@ -1,5 +1,3 @@
-###DEC-089344-0-000-31-01-1984@@@
-
 Decreto nº 89.344 de 31 de janeiro de 1984
 
 Revoga a concessão outorgada à RÁDIO CLUBE DE CONQUISTA LTDA., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Vitória da Conquista, Estado da Bahia.

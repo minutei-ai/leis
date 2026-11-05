@@ -1,5 +1,3 @@
-###DEC-080028-0-000-26-07-1977@@@
-
 Decreto nº 80.028, de 26 de julho de 1977
 
 Concede reconhecimento ao curso de Letras, do Centro Pedagógico de Aquidauana, com sede na cidade de Aquidauana, Estado do Mato Grosso.

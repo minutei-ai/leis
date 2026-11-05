@@ -1,5 +1,3 @@
-###DEL-005808-0-000-13-09-1943@@@
-
 DECRETO‑LEI N. 5.808 – DE 13 DE SETEMBRO DE 1943
 
 Modifica o n. 10 da tabela de imposto do sêlo

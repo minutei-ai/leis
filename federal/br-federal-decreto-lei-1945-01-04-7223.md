@@ -1,5 +1,3 @@
-###DEL-007223-0-000-04-01-1945@@@
-
 DECRETO-LEI N. 7.223 – DE 4 DE JANEIRO DE 1945
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 66.460,80, para classificação de despesa

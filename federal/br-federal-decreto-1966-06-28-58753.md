@@ -1,5 +1,3 @@
-###DEC-058753-0-000-28-06-1966@@@
-
 DECRETO Nº 58.753, DE 28 DE JUNHO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$100.000.000, para atender às despesas decorrentes do reajustamento da contribuição brasileira ao Fundo Especial de Assistência para o Desenvolvimento.

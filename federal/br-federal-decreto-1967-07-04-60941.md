@@ -1,5 +1,3 @@
-###DEC-060941-0-000-04-07-1967@@@
-
 DECRETO Nº 60.941, DE 4 DE JULHO DE 1967.
 
 Dispõe sôbre o prazo de prestação de serviços de natureza eventual em órgãos que não disponham de quadro próprio de pessoal.

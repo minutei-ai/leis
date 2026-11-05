@@ -1,5 +1,3 @@
-###DEC-089376-0-000-09-02-1984@@@
-
 Decreto nº 89.376, de 09 de fevereiro de 1984.
 
 Altera o Regimento de Custas do Tribunal Marítimo.

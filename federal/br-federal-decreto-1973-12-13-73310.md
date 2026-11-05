@@ -1,5 +1,3 @@
-###DEC-073310-0-000-13-12-1973@@@
-
 DECRETO N° 73.310 - DE 13 DE DEZEMBRO DE 1973
 
 Concede a Agenor Roschel Schunk, firma individual, o direito de lavrar caulim, no Município de Embu-Guaçu, Estado de São Paulo.

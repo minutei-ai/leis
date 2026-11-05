@@ -1,5 +1,3 @@
-###DEC-093185-0-000-28-08-1986@@@
-
 DECRETO Nº 93.185, DE 28 DE AGOSTO DE 1986
 
 Institui o Ano Nacional do Turismo e dá outras providências.

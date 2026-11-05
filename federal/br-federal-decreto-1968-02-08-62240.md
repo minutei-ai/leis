@@ -1,5 +1,3 @@
-###DEC-062240-0-000-08-02-1968@@@
-
 DECRETO Nº 62.240, DE 8 DE FEVEREIRO DE 1968.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado em Macapá, Território do Amapá.

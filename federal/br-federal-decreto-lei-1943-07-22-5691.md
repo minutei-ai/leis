@@ -1,5 +1,3 @@
-###DEL-005691-0-000-22-07-1943@@@
-
 DECRETO-LEI N. 5.691 – DE 22 DE JULHO DE 1943
 
 Dispõe sôbre a concessão de abono Familiar aos empregados de entidades autárquicas

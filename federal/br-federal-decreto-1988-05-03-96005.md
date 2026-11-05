@@ -1,5 +1,3 @@
-###DEC-096005-0-000-03-05-1988@@@
-
 DECRETO N° 96.005, DE 03 DE MAIO DE 1988
 
 Renova a concessão outorgada à RÁDIO CIDADE MARACAJU LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Maracaju, Estado do Mato Grosso do Sul.

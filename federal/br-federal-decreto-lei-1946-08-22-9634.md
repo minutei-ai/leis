@@ -1,5 +1,3 @@
-###DEL-009634-0-000-22-08-1946@@@
-
 DECRETO-LEI N. 9.634 – DE 22 DE AGÔSTO DE 1946
 
 Retifica o nome do Pôsto Fiscal em Montenegro.

@@ -1,5 +1,3 @@
-###DEC-084331-0-000-20-12-1979@@@
-
 Decreto nº 84.331 de 20 de dezembro de 1979.
 
 Autoriza o funcionamento da habilitação em Educação Especial, área de Deficiente Mental, da Universidade do Estado do Rio de Janeiro.

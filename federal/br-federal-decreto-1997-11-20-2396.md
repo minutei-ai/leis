@@ -1,5 +1,3 @@
-###DEC-002396-0-000-20-11-1997@@@
-
 DECRETO Nº 2.396, DE 20 DE NOVEMBRO DE 1997
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre Brasil e Venezuela, de 26 de setembro de 1997.

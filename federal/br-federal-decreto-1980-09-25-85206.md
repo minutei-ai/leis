@@ -1,5 +1,3 @@
-###DEC-085206-0-000-25-09-1980@@@
-
 Decreto nº 85.206, de 25 de setembro de 1980
 
 Altera o artigo 8º do Decreto nº 76.389, de 3 de outubro de 1975, que dispõe sobre as medidas de prevenção e controle da poluição Industrial.

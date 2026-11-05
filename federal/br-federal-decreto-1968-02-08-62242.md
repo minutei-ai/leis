@@ -1,5 +1,3 @@
-###DEC-062242-0-000-08-02-1968@@@
-
 DECRETO Nº 62.242, DE 8 DE FEVEREIRO DE 1968.
 
 Aprova o “Regulamento para o Comando Naval de Natal”.

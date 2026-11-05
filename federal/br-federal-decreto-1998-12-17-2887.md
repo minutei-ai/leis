@@ -1,5 +1,3 @@
-###DEC-002887-0-000-17-12-1998@@@
-
 DECRETO Nº 2.887, DE 17 DE DEZEMBRO DE 1998.
 
 Cria a Nota do Tesouro Nacional Série S - NTN-S.

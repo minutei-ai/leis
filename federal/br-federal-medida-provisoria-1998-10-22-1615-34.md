@@ -1,5 +1,3 @@
-###MPV-001615-0-034-22-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.615-34, DE 22 DE OUTUBRO DE 1998
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-003892-0-000-20-08-2001@@@
-
 DECRETO Nº 3.892, DE 20 DE AGOSTO DE 2001
 
 Dispõe sobre a aquisição de bilhetes de passagem aérea e compras de materiais e serviços, mediante utilização do Cartão de Crédito Corporativo, pelos órgãos e pelas entidades da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

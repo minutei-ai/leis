@@ -1,5 +1,3 @@
-###DEC-087803-0-000-16-11-1982@@@
-
 Decreto nº 87.803, de 16 de novembro de 1982
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Cabo Frio, Estado do Rio de Janeiro; Fortaleza, Estado do Ceará; Recife, Estado de Pernambuco e Salvador, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-075511-0-000-19-03-1975@@@
-
 DECRETO Nº 75.511, DE 19 DE MARÇO DE 1975.
 
 Aprova incorporação da Companhia Espírito Santo Meridional de Eletricidade pela Espírito Santo Centrais Elétricas S.A. e dá outras providências.
@@ -37,8 +35,6 @@ Brasília,19 de março de 1975; 154º da Independência e 87º da República.
 ERNESTO GEISEL
 
 Shigeaki Ueki
-
-###DEC-075511-0-000-19-03-1975@@@RET01+++
 
 DECRETO Nº 75.511, DE 19 DE MARÇO DE 1975.
 

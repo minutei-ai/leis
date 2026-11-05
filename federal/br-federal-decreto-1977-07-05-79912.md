@@ -1,5 +1,3 @@
-###DEC-079912-0-000-05-07-1977@@@
-
 DECRETO Nº 79.912, DE 5 DE JULHO DE 1977
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

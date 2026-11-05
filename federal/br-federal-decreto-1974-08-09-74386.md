@@ -1,5 +1,3 @@
-###DEC-074386-0-000-09-08-1974@@@
-
 DECRETO Nº 74.386 - DE 9 DE AGOSTO DE 1974
 
 Concede reconhecimento ao curso de Administração da Faculdade de Administração e Ciências Econômicas "Santana, mantida pelo Instituto Santanense de Ensino, com sede na Cidade de São Paulo, Estado de São Paulo.

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no DPL de 22.12.2017
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL Nº 109, DE 20 DE DEZEMBRO DE 2017
@@ -29,5 +35,3 @@ RAQUEL LESSA
 ENIVALDO DOS ANJOS
 
 2º Secretário
-
-Este texto não substitui o publicado no DPL de 22.12.2017

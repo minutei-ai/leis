@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212093)<br>
-
 # LEI N° 18.384, DE 23 DE DEZEMBRO DE 2025
 
 ### _Fixa o subsídio dos Deputados Estaduais para o exercício de 2026._

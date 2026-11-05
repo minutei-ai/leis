@@ -1,5 +1,3 @@
-###DEC-065358-0-000-13-10-1969@@@
-
 DECRETO Nº 65.358 - DE 13 DE OUTUBRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

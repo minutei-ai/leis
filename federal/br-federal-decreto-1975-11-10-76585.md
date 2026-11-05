@@ -1,5 +1,3 @@
-###DEC-076585-0-000-10-11-1975@@@
-
 DECRETO Nº 76.585, DE 10 DE NOVEMBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Anhanguera, Difusora e Televisora S.A., cuja denominação foi posteriormente alterada para Rádio Anhanguera S.A., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Goiânia, Estado de Goiás.

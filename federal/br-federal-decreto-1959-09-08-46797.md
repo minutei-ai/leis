@@ -1,5 +1,3 @@
-###DEC-046797-0-000-08-09-1959@@@
-
 DECRETO Nº 46.797, DE 8 DE SETEMBRO DE 1959.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$10.000.000,00, destinados à Província Brasileira dos Irmãos Lassalistas - Sociedade Porvir Científico.

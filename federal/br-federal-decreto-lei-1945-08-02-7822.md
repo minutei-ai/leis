@@ -1,5 +1,3 @@
-###DEL-007822-0-000-02-08-1945@@@
-
 DECRETO-LEI N. 7.822 – DE 2 DE AGÔSTO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 47.382,20 para pagamento de transporte

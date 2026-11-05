@@ -1,5 +1,3 @@
-###DEL-006713-0-000-19-07-1944@@@
-
 DECRETO-LEI N. 6.713 – DE 19 DE JULHO DE 1944
 
 Autoriza o Ministério dos Negócios da Fazenda a aceitar, pela União, a doação de bens de propriedade da Companhia Territorial Vila dos Lírios, e dá outras providências

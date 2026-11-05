@@ -1,5 +1,3 @@
-###DEC-051722-0-000-18-02-1963@@@
-
 DECRETO Nº 51.722, DE 18 DE FEVEREIRO DE 1963.
 
 Aprova o Regulamento da Pagadoria de Inativos e Pensionistas da Marinha.

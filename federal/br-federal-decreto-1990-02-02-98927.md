@@ -1,7 +1,3 @@
-1
-
-###DEC-098927-0-000-02-02-1990@@@
-
 DECRETO Nº 98.927, DE 2 FEVEREIRO DE 1990
 
 Altera a redação do parágrafo único do art. 1º do Decreto nº 94.090, de 13 de março de 1987, que regulamenta a Lei nº 7.474, de 8 de maio de 1986.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212843)<br>
-
 # DECRETO N° 70.759, DE 17 DE JULHO DE 2026
 
 ### _Regulamenta a Lei Complementar n° 863, de 29 de dezembro de 1999, e institui a Política Estadual de Governança Normativa, no âmbito do Poder Executivo._
@@ -8,10 +6,12 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Disposições Gerais
 
-#### Seção I<br>
+#### Seção I
+
 Do Objeto e Âmbito de Aplicação
 
 **Artigo 1° -** Este decreto regulamenta a [Lei Complementar n° 863, de 29 de dezembro de 1999](https://www.al.sp.gov.br/norma/8716), e institui a Política Estadual de Governança Normativa, a ser observada na propositura de medidas legislativas e na edição de atos normativos no âmbito do Poder Executivo do Estado.
@@ -26,7 +26,8 @@ Do Objeto e Âmbito de Aplicação
 
 **Parágrafo único -** Os atos normativos inferiores a decreto serão numerados, a partir de 1° de janeiro de 2027, em séries próprias e sequenciais, sem renovação anual, no âmbito de cada órgão ou entidade, observado o siglário a ser estabelecido por ato do Secretário de Estado ou dirigente da entidade da Administração Pública indireta.
 
-#### Seção II<br>
+#### Seção II
+
 Das Definições
 
 **Artigo 3° -** Para fins deste decreto, considera-se:
@@ -51,10 +52,12 @@ IX - Relatório de Avaliação de Impacto Normativo - RAIN: documento destinado 
 
 X - resumo executivo: síntese explicativa, em linguagem acessível, que acompanha as propostas normativas, visando a propiciar a compreensão da medida pretendida.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Da Política Estadual de Governança Normativa
 
-#### Seção I<br>
+#### Seção I
+
 Dos Objetivos
 
 **Artigo 4° -** São objetivos da Política Estadual de Governança Normativa:
@@ -71,7 +74,8 @@ V - fomentar a simplificação, a clareza, a precisão e a ordem lógica das nor
 
 VI - instituir mecanismos de integração e a articulação entre os órgãos e entidades, evitando sobreposições, redundâncias e conflitos de competência.
 
-#### Seção II<br>
+#### Seção II
+
 Das Diretrizes da Política Estadual de Governança Normativa
 
 **Artigo 5° -** São diretrizes da Política Estadual de Governança Normativa:
@@ -86,10 +90,12 @@ IV - implementação de mecanismos de avaliação do impacto das propostas de in
 
 V - promoção da transparência na produção normativa.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Do Processo de Produção Normativa
 
-#### Seção I<br>
+#### Seção I
+
 Da Propositura
 
 **Artigo 6° -** Compete aos Secretários de Estado, ao Controlador Geral do Estado, ao Chefe da Casa Militar e ao Procurador Geral do Estado a apresentação de propostas normativas ao Governador do Estado, observados os respectivos campos funcionais.
@@ -102,10 +108,12 @@ Da Propositura
 
 **Artigo 8° -** As propostas normativas de que trata este decreto observarão as regras de legística previstas na [Lei Complementar n° 863, de 29 de dezembro de 1999](https://www.al.sp.gov.br/norma/8716), e em normas complementares, devendo ser veiculadas por meio do Sistema Eletrônico de Informações do Estado de São Paulo - SEI, de que trata o [Decreto n° 67.641, de 10 de abril de 2023](https://www.al.sp.gov.br/norma/207600).
 
-#### Seção II<br>
+#### Seção II
+
 Da Instrução da Proposta
 
-#### Subseção I<br>
+#### Subseção I
+
 Disposições Gerais
 
 **Artigo 9° -** O órgão ou entidade proponente deverá instruir os processos administrativos relativos a propostas normativas a serem submetidas ao Governador do Estado com os seguintes documentos:
@@ -142,7 +150,8 @@ VII - exposição de motivos, nos termos do artigo 14 deste decreto.
 
 2\. reduzido, por determinação da Casa Civil, em caso de urgência.
 
-#### Subseção II<br>
+#### Subseção II
+
 Do Parecer de Mérito
 
 **Artigo 11 -** O parecer de mérito conterá:
@@ -171,7 +180,8 @@ a) objetivos, metas e indicadores para acompanhamento e avaliação dos resultad
 
 b) indicação do órgão ou entidade responsável e do eventual corresponsável pela gestão da política.
 
-#### Subseção III<br>
+#### Subseção III
+
 Da Adequação de Natureza Orçamentária e Financeira
 
 **Artigo 12 -** Na hipótese de implicar renúncia de receita ou aumento de despesas, inclusive em decorrência de criação, aperfeiçoamento ou expansão da ação governamental, o órgão proponente deverá providenciar a instrução do processo com:
@@ -206,7 +216,8 @@ I - atender ao disposto no artigo 26 da Lei Complementar federal n° 101, de 4 d
 
 II - dispor sobre as condições e os critérios para a concessão do benefício.
 
-#### Subseção IV<br>
+#### Subseção IV
+
 Da Exposição de Motivos
 
 **Artigo 14 -** A exposição de motivos deverá:
@@ -227,7 +238,8 @@ IV - indicar e justificar eventual urgência da edição da proposta normativa;
 
 V - ser assinada pelo Secretário de Estado proponente, pelo Controlador Geral do Estado, pelo Chefe da Casa Militar ou pelo Procurador Geral do Estado, inclusive nas hipóteses de propostas normativas originadas de entidades da Administração Pública indireta.
 
-#### Seção III<br>
+#### Seção III
+
 Do Exame da Proposta
 
 **Artigo 15 -** Cabe à Casa Civil:
@@ -256,17 +268,20 @@ VIII - elaborar exposições de motivos de atos normativos provenientes da Casa 
 
 **Parágrafo único -** O órgão ou entidade proponente poderá reapresentar a proposta, mediante justificativa.
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Da Referenda, da Retificação e da Republicação dos Atos Normativos
 
-#### Seção I<br>
+#### Seção I
+
 Da Referenda
 
 **Artigo 17 -** Os Secretários de Estado, o Controlador Geral do Estado, o Chefe da Casa Militar e o Procurador Geral do Estado referendarão as leis promulgadas pelo Governador do Estado e os decretos que incidirem sobre as respectivas áreas de atuação.
 
 **Parágrafo único -** A referenda será realizada mediante a aposição de assinatura por meio do sistema de que trata o [Decreto n° 67.641, de 10 de abril de 2023](https://www.al.sp.gov.br/norma/207600).
 
-#### Seção II<br>
+#### Seção II
+
 Da Retificação
 
 **Artigo 18 -** O ato normativo publicado no Diário Oficial do Estado de São Paulo - DOESP com lapso manifesto será objeto de retificação.
@@ -277,14 +292,16 @@ Da Retificação
 
 **§ 3° -** A correção de erro material de articulação, grafia, concordância verbal ou nominal que não afete a substância ou o alcance do ato normativo será realizada por meio de retificação, dispensadas as assinaturas de que trata o § 2° deste artigo.
 
-#### Seção III<br>
+#### Seção III
+
 Da Republicação
 
 **Artigo 19 -** O ato normativo publicado no Diário Oficial do Estado com incorreção em relação ao original será objeto de republicação.
 
 **Parágrafo único -** A republicação de que trata o "caput" deste artigo poderá abranger somente o trecho do ato que contenha a incorreção.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Da Consolidação dos Textos Normativos
 
 **Artigo 20 -** Os textos normativos devem ser, sempre que possível, objeto de consolidação, observado o processo legal de sua aprovação.
@@ -293,10 +310,12 @@ Da Consolidação dos Textos Normativos
 
 **§ 2° -** A consolidação dos textos normativos infralegais observará as disposições constantes do Capítulo III da [Lei Complementar n° 863, de 29 de dezembro de 1999](https://www.al.sp.gov.br/norma/8716).
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Avaliação de Impacto Normativo - AIN
 
-#### Seção I<br>
+#### Seção I
+
 Da Metodologia da AIN
 
 **Artigo 21 -** A realização da Avaliação de Impacto Normativo - AIN observará as seguintes diretrizes:
@@ -311,14 +330,16 @@ IV - mapeamento dos riscos inerentes à proposta, mensurando seu impacto e proba
 
 **Parágrafo único -** Ato do Secretário-Chefe da Casa Civil poderá estabelecer a metodologia da AIN, se necessário.
 
-#### Seção II<br>
+#### Seção II
+
 Do Procedimento da AIN
 
 **Artigo 22 -** A realização da Avaliação de Impacto Normativo - AIN não é elemento essencial para a formação do ato normativo, sendo medida a ser discricionariamente adotada, a juízo do Secretário-Chefe da Casa Civil.
 
 **Artigo 23 -** Solicitada a realização da AIN, o órgão ou entidade proponente terá o prazo de 30 (trinta) dias para realizar os estudos necessários e elaborar o Relatório de Avaliação de Impacto Normativo - RAIN, prorrogável por decisão fundamentada do Secretário-Chefe da Casa Civil.
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Disposições Finais
 
 **Artigo 24 -** O Secretário-Chefe da Casa Civil e o Procurador Geral do Estado poderão, no âmbito de suas competências, editar normas complementares para execução deste decreto.

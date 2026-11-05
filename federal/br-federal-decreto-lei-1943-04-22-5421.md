@@ -1,5 +1,3 @@
-###DEL-005421-0-000-22-04-1943@@@
-
 DECRETO‑LEI N. 5.421 – DE 22 DE ABRIL DE 1943
 
 Transfere ao Ministério da Agricultura a execução dos serviços de limpeza e desinfeção de vagões e outros veículos de qualquer natureza utilizados no transporte de animais vivos.

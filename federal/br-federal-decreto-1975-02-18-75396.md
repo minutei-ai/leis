@@ -1,5 +1,3 @@
-###DEC-075396-0-000-18-02-1975@@@
-
 DECRETO Nº 75.396, DE 18 DE FEVEREIRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educação Rural de Tefé Ltda., para executar serviço de radiodifusão sonora em onda tropical, na Cidade de Tefé, Estado do Amazonas.

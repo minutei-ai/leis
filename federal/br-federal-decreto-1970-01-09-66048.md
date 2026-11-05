@@ -1,5 +1,3 @@
-###DEC-066048-0-000-09-01-1970@@@
-
 decreto nº 66.048 - de 9 de janeiro de 1970
 
 Declara de utilidade pública a Confederação Evangélica do Brasil, com sede em, São Paulo, Estado de São Paulo.

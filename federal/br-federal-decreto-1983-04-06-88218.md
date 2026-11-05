@@ -1,5 +1,3 @@
-###DEC-088218-0-000-06-04-1983@@@
-
 DECRETO Nº 88.218, DE 06 DE ABRIL DE 1983
 
 Cria o Parque Nacional Marinho dos Abrolhos.
@@ -16,11 +14,61 @@ Art. 2º - O Parque Nacional Marinho dos Abrolhos, situado no litoral sul do Est
 
 § 1º - A primeira das duas áreas, com 233,60 milhas náuticas quadradas, centraliza-se no Parcel dos Abrolhos e é delimitada pelo quadrilátero cujos vértices têm as seguintes coordenadas geográficas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice A: 17º43'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 038º45'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice B: 17º54'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 038º33,5'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice C: 18º09'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 038º33,5'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice D: 18º09'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 038º45'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste.</span></p></td></tr></tbody></table>
+Vértice A: 17º43'
+
+Lat. Sul e 038º45'
+
+Long. Oeste,
+
+Vértice B: 17º54'
+
+Lat. Sul e 038º33,5'
+
+Long. Oeste,
+
+Vértice C: 18º09'
+
+Lat. Sul e 038º33,5'
+
+Long. Oeste,
+
+Vértice D: 18º09'
+
+Lat. Sul e 038º45'
+
+Long. Oeste.
 
 § 2º - A segunda das duas áreas com 32,35 milhas náuticas quadradas, centraliza-se nos Recifes das Timbebas e é delimitada pelo pentágono irregular cujos vértices têm as seguintes coordenadas geográficas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice A: 17º25'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 039º02,7'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice B: 17º28'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 038º58'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice C: 17º32'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 038º58'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice D: 17º32'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 039º02'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste,</span></p></td></tr><tr><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Vértice E: 17º29'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lat. Sul e 039º05,4'</span></p></td><td style="width:136.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Long. Oeste.</span></p></td></tr></tbody></table>
+Vértice A: 17º25'
+
+Lat. Sul e 039º02,7'
+
+Long. Oeste,
+
+Vértice B: 17º28'
+
+Lat. Sul e 038º58'
+
+Long. Oeste,
+
+Vértice C: 17º32'
+
+Lat. Sul e 038º58'
+
+Long. Oeste,
+
+Vértice D: 17º32'
+
+Lat. Sul e 039º02'
+
+Long. Oeste,
+
+Vértice E: 17º29'
+
+Lat. Sul e 039º05,4'
+
+Long. Oeste.
 
 Art. 3º - O Parque Nacional Marinho dos Abrolhos compreende todas as águas, ilhas, recifes e a plataforma continental dentro de seus limites.
 

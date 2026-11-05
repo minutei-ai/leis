@@ -1,5 +1,3 @@
-###DEC-075374-0-000-14-02-1975@@@
-
 DECRETO Nº 75.374, DE 14 DE FEVEREIRO DE 1975.
 
 Aprova os novos Estatutos da Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA e dá outras providências.

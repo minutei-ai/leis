@@ -1,5 +1,3 @@
-###DEL-004444-0-000-07-07-1942@@@
-
 DECRETO-LEI N. 4.444 – DE 7 DE JULHO DE 1942
 
 Dispõe sobre a designação de funcionários para servir na Delegacia do Tesouro Brasileiro no exterior e dá outras providências

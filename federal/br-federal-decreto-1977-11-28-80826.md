@@ -1,5 +1,3 @@
-###DEC-080826-0-000-28-11-1977@@@
-
 DECRETO Nº 80.826, DE 28 DE NOVEMBRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Santo Antônio de Pádua, Estado do Rio de Janeiro.

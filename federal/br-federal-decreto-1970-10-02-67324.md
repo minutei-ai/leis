@@ -1,5 +1,3 @@
-###DEC-067324-0-000-02-10-1970@@@
-
 DECRETO Nº 67.324, DE 2 DE OUTUBRO DE 1970.
 
 Altera os estatutos da Fundação Nacional do Bem Estar do Menor.

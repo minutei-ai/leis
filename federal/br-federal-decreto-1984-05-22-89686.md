@@ -1,5 +1,3 @@
-###DEC-089686-0-000-22-05-1984@@@
-
 Decreto nº 89.686 de 22 de maio de 1984.
 
 Promulga a Convenção nº 131 da Organização Internacional do Trabalho sobre a Fixação de Salários Mínimos, com Referência Especial aos Países em Desenvolvimento, 1970.

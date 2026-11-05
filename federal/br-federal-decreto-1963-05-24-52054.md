@@ -1,5 +1,3 @@
-###DEC-052054-0-000-24-05-1963@@@
-
 DECRETO Nº 52.054, DE 24 DE MAIO DE 1963.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 38.894, de 14 de março de 1956, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas de área de terreno necessária à construção do açude público “Currais Novos”, no Município de Currais Novos, no Estado do Rio Grande do Norte.

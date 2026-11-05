@@ -1,5 +1,3 @@
-###MPV-000511-0-000-05-11-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 511, DE 5 DE NOVEMBRO DE 2010
 
 Dispõe sobre medidas para assegurar a sustentabilidade econômico-financeira do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, sobre autorização para garantia do financiamento do Trem de Alta Velocidade - TAV, no trecho entre os Municípios do Rio de Janeiro - RJ e Campinas - SP, e dá outras providências.

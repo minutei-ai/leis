@@ -1,5 +1,3 @@
-###DEC-056717-0-000-12-08-1965@@@
-
 Decreto nº 56.717, de 12 de agôsto de 1965.
 
 Outorga concessão à Campos Difusora Limitada.

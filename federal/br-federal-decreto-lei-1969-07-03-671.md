@@ -1,5 +1,3 @@
-###DEL-000671-0-000-03-07-1969@@@
-
 DECRETO-LEI Nº 671, DE 3 DE JULHO DE 1969
 
 Considera a posse de Manoel Palmeira Nunes para o exercício interino do cargo de Pedreiro, código A-101-8A, válida para efeito de nomeação para o mesmo cargo, em caráter efetivo.

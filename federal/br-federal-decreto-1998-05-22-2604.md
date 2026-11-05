@@ -1,5 +1,3 @@
-###DEC-002604-0-000-22-05-1998@@@
-
 DECRETO Nº 2.604, DE 22 DE MAIO DE 1998
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.224, de 13 de maio de 1997.

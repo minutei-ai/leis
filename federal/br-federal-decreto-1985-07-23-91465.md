@@ -1,5 +1,3 @@
-###DEC-091465-0-000-23-07-1985@@@
-
 DECRETO Nº 91.465, DE 23 DE JULHO DE 1985.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da Subestação de Transição Sanatório, da LIGHT-Serviços de Eletricidade S.A., no Estado do Rio de Janeiro.

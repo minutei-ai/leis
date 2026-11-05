@@ -1,5 +1,3 @@
-###DEL-000659-0-000-30-06-1969@@@
-
 DECRETO-LEI Nº 659, DE 30 DE JUNHO DE 1969
 
 Aprova a Convenção das Nações Unidas sôbre Consentimento para casamento, Idade Mínima para casamento e Registro de casamento.

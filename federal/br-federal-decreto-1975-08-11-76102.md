@@ -1,5 +1,3 @@
-###DEC-076102-0-000-11-08-1975@@@
-
 DECRETO Nº 76.102 - DE 11 DE AGOSTO DE 1975
 
 Concede à Mineração Vale do Paranaíba S.A. - VELEP, o direito de lavrar minérios de fosfato e titânio no Município de Tapira, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-000331-0-000-21-09-1967@@@
-
 DECRETO-LEI Nº 331, DE 21 DE SETEMBRO DE 1967
 
 Prorroga a vigência do Decreto-lei nº 265, de 28 de fevereiro de 1967

@@ -1,5 +1,3 @@
-###DEL-008393-0-000-17-12-1945@@@
-
 DECRETO-LEI N. 8.393 – DE 17 DE DEZEMBRO DE 1945
 
 Concede autonomia, administrativa financeira, didática e disciplinar, à Universidade do Brasil, e dá outras providências.

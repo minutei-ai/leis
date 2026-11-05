@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6e023d39-f35c-4897-a73f-524771d6bd1b/texto#nowhere)
 
-###DEL-000853-0-000-11-09-1969@@@
-
 DECReTO-LEI Nº 853, DE 11 DE SETEMBRO DE 1969
 
 Dispõe sôbre a Comissão de Estudos Tributários Internacionais.

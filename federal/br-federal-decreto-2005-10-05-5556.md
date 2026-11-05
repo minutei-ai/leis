@@ -1,5 +1,3 @@
-###DEC-005556-0-000-05-10-2005@@@
-
 DECRETO Nº 5.556, DE 5 DE OUTUBRO DE 2005
 
 Regulamenta as salvaguardas transitórias, objeto do art. 16 do Protocolo de Acessão da República Popular da China à Organização Mundial de Comércio - OMC.

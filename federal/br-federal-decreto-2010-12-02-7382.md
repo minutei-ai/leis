@@ -1,5 +1,3 @@
-###DEC-007382-0-000-02-12-2010-PUB-01@@@
-
 DECRETO Nº 7.382, DE 2 DE DEZEMBRO DE 2010.
 
 Regulamenta os Capítulos I a VI e VIII da Lei no 11.909, de 4 de março de 2009, que dispõe sobre as atividades relativas ao transporte de gás natural, de que trata o art. 177 da Constituição Federal, bem como sobre as atividades de tratamento, processamento, estocagem, liquefação, regaseificação e comercialização de gás natural.

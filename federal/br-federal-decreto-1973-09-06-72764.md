@@ -1,5 +1,3 @@
-###DEC-072764-0-000-06-09-1973@@@
-
 DECRETO Nº 72.764, DE 6 dE SETEMBRO DE 1973.
 
 Concede à Sambra S.A. Mármores Brasileiros o direito de lavrar mármore e calcita no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-055391-0-000-31-12-1964@@@
-
 DECRETO Nº 55.391, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza a Indústrias Brasileiras de Artigos Refratários S.A. - IBAR, a pesquisar pirofilita no município de Itapeva, Estado de São Paulo.

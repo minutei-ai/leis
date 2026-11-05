@@ -1,5 +1,3 @@
-###DEC-077615-0-000-17-05-1976@@@
-
 DECRETO Nº 77.615, DE 17 DE MAIO DE 1976
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras Dom Bosco, com sede na Cidade de Santa Rosa, Estado do Rio Grande do Sul.

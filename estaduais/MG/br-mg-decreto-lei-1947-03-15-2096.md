@@ -23,7 +23,3 @@ Art. 6º - Revogadas as disposições em contrário, entrará este Decreto-lei e
 Palácio da Liberdade, Belo Horizonte, 15 de março de 1947.
 
 Alcides Lins - Interventor Federal
-
-\================================================================
-
-Data da última atualização: 04/09/2006.

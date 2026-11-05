@@ -1,5 +1,3 @@
-###DEC-082305-0-000-20-09-1978@@@
-
 Decreto nº 82.305, de 20 de setembro de 1978.
 
 Autoriza a cessão, sob regime de aforamento, do imóvel que menciona situado no Município de São Carlos, Estado de São Paulo.

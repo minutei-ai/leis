@@ -1,5 +1,3 @@
-###DEL-000009-0-000-25-06-1966@@@
-
 DECRETO-LEI Nº 9, DE 25 DE JUNHO DE 1966
 
 Dispõe sôbre o organização da Política Militar e do Corpo de Bombeiros do Distrito Federal, e dá outras providências.
@@ -26,11 +24,155 @@ Art. 4º Os quadros da Polícia Militar e do Corpo de Bombeiros do Distrito Fede
 
 I - POLÍCIA MILITAR DO DISTRITO FEDERAL
 
-<table cellspacing="0" cellpadding="0" style="margin-left:78pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel .....................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenentes-Coronéis .....................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Majores ....................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Major Médico ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães ...................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães Médicos ......................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span>Tenentes .............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>36</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Tenentes Médicos ................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Tenente Músico ....................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos Músicos ...............................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos Músicos ...............................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos Enfermeiros ..........................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos Músicos ...............................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos Enfermeiros ..........................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabos ......................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Soldados ..................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>925</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total ................................</span></p></td><td style="width:31.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.200</span></p></td></tr></tbody></table>
+Coronel .....................................................
+
+1
+
+Tenentes-Coronéis .....................................
+
+2
+
+Majores ....................................................
+
+6
+
+Major Médico ............................................
+
+1
+
+Capitães ...................................................
+
+25
+
+Capitães Médicos ......................................
+
+2
+
+1ºsTenentes .............................................
+
+36
+
+1ºs Tenentes Médicos ................................
+
+4
+
+1ºs Sargentos ............................................
+
+12
+
+2ºs Tenente Músico ....................................
+
+1
+
+1ºs Sargentos ............................................
+
+2
+
+1ºs Sargentos Músicos ...............................
+
+15
+
+2ºs Sargentos ............................................
+
+25
+
+2ºs Sargentos Músicos ...............................
+
+15
+
+2ºs Sargentos Enfermeiros ..........................
+
+3
+
+3ºs Sargentos ............................................
+
+32
+
+3ºs Sargentos Músicos ...............................
+
+15
+
+3ºs Sargentos Enfermeiros ..........................
+
+6
+
+Cabos ......................................................
+
+50
+
+Soldados ..................................................
+
+925
+
+Total ................................
+
+1.200
 
 II - corpo de bombeiros do DISTRITO FEDERAL
 
-<table cellspacing="0" cellpadding="0" style="margin-left:78pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coronel ....................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Tenentes-Coronéis ...................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Majores ....................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitães ...................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>24</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão Médico .........................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão Químico ........................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Capitão Farmacêutico ................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Tenentes .............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>36</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Tenentes .............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>13</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Subtenentes .............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>11</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>78</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>128</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3º</span><span style="font-size:0.8em; vertical-align:5pt">s</span><span> Sargentos ............................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>97</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cabos ......................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>170</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Soldados ..................................................</span></p></td><td style="width:31.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>670</span></p></td></tr><tr><td style="width:194.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Total..............................</span></p></td><td style="width:31.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.238</span></p></td></tr></tbody></table>
+Coronel ....................................................
+
+1
+
+Tenentes-Coronéis ...................................
+
+2
+
+Majores ....................................................
+
+5
+
+Capitães ...................................................
+
+24
+
+Capitão Médico .........................................
+
+1
+
+Capitão Químico ........................................
+
+1
+
+Capitão Farmacêutico ................................
+
+1
+
+1ºs Tenentes .............................................
+
+36
+
+2ºs Tenentes .............................................
+
+13
+
+Subtenentes .............................................
+
+11
+
+1ºs Sargentos ............................................
+
+78
+
+2ºs Sargentos ............................................
+
+128
+
+3ºs Sargentos ............................................
+
+97
+
+Cabos ......................................................
+
+170
+
+Soldados ..................................................
+
+670
+
+Total..............................
+
+1.238
 
 § 1º Os servidores do Departamento Federal de Segurança Pública e da Polícia do Distrito Federal que, no prazo de trinta dias, contados da publicação dêste decreto-lei, optarem pelo ingresso na Polícia Militar do Distrito Federal, serão aproveitados, nos cargos a que se refere o item I dêste artigo, por ato do Prefeito do Distrito Federal.
 
@@ -57,8 +199,6 @@ Brasília, 25 de junho de 1966; 145º da Independência e 78º da República.
 H. CASTELLO BRANCO
 
 Mem de Sá
-
-###DEL-000009-0-000-25-06-1966@@@RET01+++
 
 DECRETO-LEI Nº 9, DE 25 DE JUNHO DE 1966
 

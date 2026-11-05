@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208833)<br>
-
 # LEI N° 17.845, DE 24 DE NOVEMBRO DE 2023
 
 ## (Projeto de lei n° 72/2020, do Deputado Castello Branco - PSL)

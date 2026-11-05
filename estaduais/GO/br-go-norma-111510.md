@@ -16,40 +16,350 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:100%;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 181 1051 2352</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 455.982,25</td><td style=" width:12%;    ">R$ 294.683,87</td><td style=" width:12%;    ">R$ 750.666,12</td></tr><tr><td style=" width:12%;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 181 1051 2352</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 1.080.759,90</td><td style=" width:12%;    ">R$ 11.032,62</td><td style=" width:12%;    ">R$ 1.091.792,52</td></tr><tr><td style=" width:12%;    ">FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS</td><td style=" width:12%;    ">06 122 4100 4144</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 46.778,53</td><td style=" width:12%;    ">R$ 46.778,53</td><td style=" width:12%;    ">R$ 93.557,06</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 181 1051 2352</td><td style=" width:12%;    ">17530161</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 9.492.781,36</td><td style=" width:12%;    ">R$ 647.957,45</td><td style=" width:12%;    ">R$ 10.140.738,81</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</b><br>3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:12%;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:12%;    ">GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS</td><td style=" width:12%;    ">20 608 1035 2407</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 0,00</td><td style=" width:12%;    ">R$ 7.175,45</td><td style=" width:12%;    ">R$ 7.175,45</td></tr><tr><td style=" width:12%;    ">GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS</td><td style=" width:12%;    ">20 608 1035 2407</td><td style=" width:12%;    ">17610156</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 1.000.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 359.670,47</td></tr><tr><td style=" width:50%;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:50%;    ">R$ 647.957,45</td></tr><tr><td style=" width:50%;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:50%;    ">R$ 500.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:50%;    ">R$ 1.507.627,92</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 455.982,25
+
+R$ 294.683,87
+
+R$ 750.666,12
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.080.759,90
+
+R$ 11.032,62
+
+R$ 1.091.792,52
+
+FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS
+
+06 122 4100 4144
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 46.778,53
+
+R$ 46.778,53
+
+R$ 93.557,06
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FORTALECIMENTO DO SISTEMA DE SEGURANÇA PÚBLICA
+
+06 181 1051 2352
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 9.492.781,36
+
+R$ 647.957,45
+
+R$ 10.140.738,81
+
+**3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS
+
+20 608 1035 2407
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 7.175,45
+
+R$ 7.175,45
+
+GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS
+
+20 608 1035 2407
+
+17610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+R$ 1.000.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 359.670,47
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 647.957,45
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 500.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.507.627,92
 
 QUADRO 2
 
-<table align="center" class="Table" style="width: 100%;" width="100%"><tbody><tr><td style="  width: 100%;  height: 19px;"><b>REDUÇÃO</b></td></tr><tr><td style="  width: 100%;     "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:12%;    ">06 122 4200 4243</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 1.478.451,36</td><td style=" width:12%;    ">R$ 305.716,49</td><td style=" width:12%;    ">R$ 305.716,49</td></tr><tr><td style=" width:12%;    ">CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 181 1051 3177</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 184.093,83</td><td style=" width:12%;    ">R$ 46.778,53</td><td style=" width:12%;    ">R$ 46.778,53</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2901 - GABINETE DO SECRETÁRIO DA SEGURANÇA PÚBLICA
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA</td><td style=" width:12%;    ">06 181 1051 2351</td><td style=" width:12%;    ">17530161</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 739.985,61</td><td style=" width:12%;    ">R$ 647.957,45</td><td style=" width:12%;    ">R$ 647.957,45</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</b><br>3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:12%;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>AÇÃO</b></td><td style=" width:12%;  height:19px;   "><b>FONTE</b></td><td style=" width:12%;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:12%;  height:19px;   "><b>GRUPO</b></td><td style=" width:12%;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:12%;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:12%;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:12%;    ">GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS</td><td style=" width:12%;    ">20 608 1035 2407</td><td style=" width:12%;    ">15000100</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">4 - INVESTIMENTOS</td><td style=" width:12%;    ">R$ 7.175,45</td><td style=" width:12%;    ">R$ 7.175,45</td><td style=" width:12%;    ">R$ 7.175,45</td></tr><tr><td style=" width:12%;    ">GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS</td><td style=" width:12%;    ">20 608 1035 2407</td><td style=" width:12%;    ">17610156</td><td style=" width:12%;    ">90</td><td style=" width:12%;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 500.000,00</td><td style=" width:12%;    ">R$ 500.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 359.670,47</td></tr><tr><td style=" width:50%;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:50%;    ">R$ 647.957,45</td></tr><tr><td style=" width:50%;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:50%;    ">R$ 500.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 1.507.627,92</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:100%;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="width:100.0%; border-collapse:collapse" width="100%"><tbody><tr><td style=" width:50%;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:50%;  height:19px;   ">R$ 359.670,47</td></tr><tr><td style=" width:50%;    ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:50%;    ">R$ 647.957,45</td></tr><tr><td style=" width:50%;    ">17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE</td><td style=" width:50%;    ">R$ 500.000,00</td></tr><tr><td style=" width:50%;    "><b>TOTAL</b></td><td style=" width:50%;    ">R$ 1.507.627,92</td></tr></tbody></table>
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.478.451,36
+
+R$ 305.716,49
+
+R$ 305.716,49
+
+CONSTRUÇÃO, REFORMA OU AMPLIAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3177
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 184.093,83
+
+R$ 46.778,53
+
+R$ 46.778,53
+
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DISPONIBILIZAÇÃO DE FROTA PARA AS ATIVIDADES DE SEGURANÇA PÚBLICA
+
+06 181 1051 2351
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 739.985,61
+
+R$ 647.957,45
+
+R$ 647.957,45
+
+**3200 - SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO**
+3201 - GABINETE DA SECRETARIA DE ESTADO DE AGRICULTURA, PECUÁRIA E ABASTECIMENTO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS
+
+20 608 1035 2407
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 7.175,45
+
+R$ 7.175,45
+
+R$ 7.175,45
+
+GESTÃO DA INICIATIVA DE ESTRUTURAÇÃO E FOMENTO À S CADEIAS PRODUTIVAS AGROPECUÁRIAS
+
+20 608 1035 2407
+
+17610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+R$ 500.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 359.670,47
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 647.957,45
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 500.000,00
+
+**TOTAL**
+
+R$ 1.507.627,92
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 359.670,47
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 647.957,45
+
+17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE
+
+R$ 500.000,00
+
+**TOTAL**
+
+R$ 1.507.627,92

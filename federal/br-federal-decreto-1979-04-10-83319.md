@@ -1,5 +1,3 @@
-###DEC-083319-0-000-10-04-1979@@@
-
 Decreto nº 83.319, de 10 de abril de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Bom Jardim da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

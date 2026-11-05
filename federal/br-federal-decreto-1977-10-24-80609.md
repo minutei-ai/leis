@@ -1,5 +1,3 @@
-###DEC-080609-0-000-24-10-1977@@@
-
 DECRETO Nº 80.609, DE 24 DE OUTUBRO DE 1977.
 
 Declara perempta a concessão outorgada à Rádio Difusora Mearim S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Belém, Estado do Pará.

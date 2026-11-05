@@ -1,5 +1,3 @@
-###DEC-053989-0-000-01-07-1964@@@
-
 decreto nº 53.989, de 01 de julho de 1964.
 
 Dá nova redação ao art. 1º do Decreto nº 888, de 11 de abril de 1962.

@@ -1,5 +1,3 @@
-###DEC-096612-0-000-30-08-1988@@@
-
 DECRETO Nº 96.612, DE 30 DE AGOSTO DE 1988
 
 Outorga concessão à RÁDIO BRASIL NOVO LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Jaraguá do Sul, Estado de Santa Catarina.

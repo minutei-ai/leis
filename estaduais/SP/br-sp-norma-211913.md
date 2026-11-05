@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211913)<br>
-
 # LEI N° 18.352, DE 28 DE NOVEMBRO DE 2025
 
 ## (Projeto de lei n° 295/2025, do Deputado Fábio Faria de Sá - PODE)

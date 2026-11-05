@@ -1,5 +1,3 @@
-###DEL-007575-0-000-21-05-1945@@@
-
 DECRETO-LEI N. 7.575 – DE 21 DE MAIO DE 1945
 
  Regula o Decreto-lei nº 3.175, de 7 de abril de 1941

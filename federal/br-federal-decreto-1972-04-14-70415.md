@@ -1,5 +1,3 @@
-###DEC-070415-0-000-14-04-1972@@@
-
 DECRETO Nº 70.415, DE 14 DE ABRIL DE 1972.
 
 Dispõe sobre o regime de tempo integral e dedicação exclusiva no Tribunal Marítimo.

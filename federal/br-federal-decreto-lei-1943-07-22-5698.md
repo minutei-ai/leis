@@ -1,5 +1,3 @@
-###DEL-005698-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.698 – DE 22 DE JULHO DE 1943
 
 Dispõe sôbre a cooperação financeira da União com as entidades privadas a que se refere o decreto‑lei n. 527, de 1 de julho de 1938

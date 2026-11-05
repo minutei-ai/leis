@@ -1,5 +1,3 @@
-###DEC-069554-0-000-18-11-1971@@@
-
 DECRETO Nº 69.554 - DE 18 DE NOVEMBRO DE 1971
 
 Cria Fundo de Desenvolvimento do Mercado de Capitais e dá outras providências.

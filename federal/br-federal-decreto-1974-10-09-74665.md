@@ -1,5 +1,3 @@
-###DEC-074665-0-000-09-10-1974@@@
-
 DECRETO nº 74.665, DE 9 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Ribeirão Preto, cuja denominação foi alterada para Rádio Clube de Ribeirão Preto S. A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Ribeirão Preto, Estado de São Paulo.

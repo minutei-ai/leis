@@ -1,5 +1,3 @@
-###DEC-057391-0-000-07-12-1965@@@
-
 DECRETO Nº 57.391, DE 7 DE DEZEMBRO DE 1965.
 
 Autoriza a Comissão de Financiamento da Produção (CFP) a conceder financiamento aos beneficiadores dos produtos resultantes das atividades agrícola, pecuária ou extrativa que hajam assegurado aos produtores ou suas cooperativas o preço mínimo fixado pela legislação em vigor, e dá outras providências.

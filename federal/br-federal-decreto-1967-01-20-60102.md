@@ -1,5 +1,3 @@
-###DEC-060102-0-000-20-01-1967@@@
-
 DECRETO Nº 60.102, DE 20 de JANEIRO DE 1967.
 
 Institui um Grupo de Trabalho para estudo sôbre o aproveitamento integrado do Vale do Parnaíba, revoga o Decreto n° 59.323, de 29 de setembro de 1966 e dá outras providências.

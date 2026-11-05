@@ -1,5 +1,3 @@
-###MPV-001948-0-049-09-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.948-49, DE 9 DE DEZEMBRO DE 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

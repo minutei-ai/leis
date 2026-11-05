@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=181784)
-
 # DECRETO Nº 62.592, DE 22 DE MAIO DE 2017
 
 ### _Dá denominação de "Delegado de Polícia Dr. Roberto Martins de Barros" à Delegacia Seccional de Polícia de Taubaté, do Departamento de Polícia Judiciária de São Paulo Interior - DEINTER 1 - São José dos Campos, da Polícia Civil, da Secretaria da Segurança Pública_
@@ -16,10 +14,16 @@ Palácio dos Bandeirantes, 22 de maio de 2017
 
 GERALDO ALCKMIN
 
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 22 de maio de 2017.

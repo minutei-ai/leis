@@ -1,5 +1,3 @@
-###DEC-055126-0-000-02-12-1964@@@
-
 decreto nº 55.126, de 02 de dezembro de 1964.
 
 Autoriza a Companhia de Mineração Serra da Farofa - CEFAR - a pesquisar minérios de ferro e de manganês nos municípios de Brumadinho, Mateus Leme e Igarapé, Estado de Minas Gerais.

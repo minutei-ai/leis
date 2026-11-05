@@ -1,5 +1,3 @@
-###DEC-007962-0-000-15-03-2013-PUB-01@@@
-
 DECRETO N°\- 7.962, DE 15 DE MARÇO DE 2013
 
 Regulamenta a Lei n° 8.078, de 11 de setembro de 1990, para dispor sobre a contratação no comércio eletrônico.

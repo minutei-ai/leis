@@ -1,5 +1,3 @@
-###DEC-046194-0-000-11-06-1959@@@
-
 DECRETO Nº 46.194, DE 11 DE JUNHO DE 1959.
 
 Autoriza a Cia. Matérias Sulfurosos Matsulfur a lavrar gipsita no município de Ouricuri, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-091746-0-000-04-10-1985@@@
-
 Decreto nº 91.746, de 04 de outubro de 1985
 
 Renova as disposições outorgadas às entidades que menciona para explorarem serviço de radiodifusão sonora em onda média, nas cidades e unidades de Federação indicadas.

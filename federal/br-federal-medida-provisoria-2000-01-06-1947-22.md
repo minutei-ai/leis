@@ -1,5 +1,3 @@
-###MPV-001947-0-022-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.947-22, DE 6 DE JANEIRO DE 2000.
 
 dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211626)<br>
-
 # DECRETO N° 69.949, DE 10 DE OUTUBRO DE 2025
 
 ### _Transfere para a Secretaria da Cultura, Economia e Indústria Criativas a administração do imóvel que especifica, localizado no Município de São Paulo_

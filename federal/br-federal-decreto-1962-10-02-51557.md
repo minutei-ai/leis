@@ -1,5 +1,3 @@
-###DEC-051557-0-000-02-10-1962@@@
-
 DECRETO Nº 51.557, DE 2 DE OUTUBRO DE 1962.
 
 Prorroga o prazo de que trata o Decreto n.º 51.396, de 24 de janeiro de 1962.

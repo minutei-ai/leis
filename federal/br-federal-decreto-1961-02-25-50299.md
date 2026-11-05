@@ -1,5 +1,3 @@
-###DEC-050299-0-000-25-02-1961@@@
-
 DECRETO Nº 50.299, DE 25 DE Fevereiro DE 1961.
 
 Declara de utilidade publica, para fins de desapropriação, o imóvel que menciona, necessário à 4º Região Militar em São João Del Rei, Estado de Minas Gerais.

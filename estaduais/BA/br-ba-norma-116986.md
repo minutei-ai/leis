@@ -36,4 +36,22 @@ Nelson de Carvalho Assis Barros
 
 **TABELA ÚNICA**
 
-<table style="margin-left: 69.2pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 134.65pt; border: 1pt solid windowtext; padding: 0cm 5.4pt;" valign="top" width="180"><p style="text-align: center;" align="center">CATEGORIA</p></td><td style="width: 95.9pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">NÍVEL</p></td><td style="width: 109.65pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="146"><p style="text-align: center;" align="center">VENCIMENTO</p></td></tr><tr><td style="width: 134.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="180"><p style="text-align: center;" align="center">SANITARISTA</p></td><td style="width: 95.9pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">1</p></td><td style="width: 109.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="146"><p style="text-align: right;" align="right">652.806,00</p></td></tr><tr><td style="width: 134.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="180"><p>&nbsp;</p></td><td style="width: 95.9pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">2</p></td><td style="width: 109.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="146"><p style="text-align: right;" align="right">787.104,00</p></td></tr><tr><td style="width: 134.65pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 5.4pt;" valign="top" width="180"><p>&nbsp;</p></td><td style="width: 95.9pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="128"><p style="text-align: center;" align="center">3</p></td><td style="width: 109.65pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 5.4pt;" valign="top" width="146"><p style="text-align: right;" align="right">984.984,00</p></td></tr></tbody></table>
+CATEGORIA
+
+NÍVEL
+
+VENCIMENTO
+
+SANITARISTA
+
+1
+
+652.806,00
+
+2
+
+787.104,00
+
+3
+
+984.984,00

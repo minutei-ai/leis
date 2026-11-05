@@ -1,14 +1,12 @@
-###DEC-041951-0-000-02-08-1957@@@
+**DECRETO Nº 41.951, DE 2 DE AGÔSTO DE 1957.**
 
-<strong>DECRETO Nº 41.951, DE 2 DE AGÔSTO DE 1957.</strong>
+***Extingue cargos excedentes***
 
-<em><strong>Extingue cargos excedentes</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1, alínea “*n*”, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do artigo 1, alínea “<em>n</em>”, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam extintos os seguintes cargos no Quadro IV do Ministério da Viação e Obras Públicas:
+**Art**. 1º Ficam extintos os seguintes cargos no Quadro IV do Ministério da Viação e Obras Públicas:
 
 a) na carreira de Agente de estrada de ferro 5 (cinco) na classe G, vagos em virtude do acesso automático determinado pela Lei nº 2.570, de 13 de agosto de 1955, de Aurelino Wanick, Eliseu Cesco, João Quaggio, João Sigolo e José de Paula Ramos e 10 (dez) na classe D, vagos em virtude da promoção de Antônio de Araújo, Benedicto Souza Pinto, Anezio Pires, Moysés Leme da Silva Júnior e Alcides de Campos e do acesso automático determinado pela Lei número 2.570, de 13 de agôsto de 1955, de Adalberto Capella, Antonio Sampaio Oliveira Filho e Maria Apparecida de Oliveira Santos;
 
@@ -26,12 +24,12 @@ g) na carreira de Maquinista de estrada de ferro: 6 (seis) na classe G vagos em 
 
 h) na carreira de Mestre de unha: 2 (dois) na classe G, vagos em virtude da aposentadoria de Joaquim Alves Penna e José Pereira Pinto.
 
-<strong>Art</strong>. 2º A dotação correspondente aos cargos ora extintos será lavada a crédito da Conta-Corrente do mesmo Quadro do referido Ministério.
+**Art**. 2º A dotação correspondente aos cargos ora extintos será lavada a crédito da Conta-Corrente do mesmo Quadro do referido Ministério.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 2 de agôsto de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira

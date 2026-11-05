@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/627046c7-0c4c-4547-bda7-29d2dd7a1f47/texto#nowhere)
 
-###DEL-000473-0-000-19-02-1969@@@
-
 DECRETO-LEI Nº 473, DE 19 DE FEVEREIRO DE 1969
 
 Autoriza o Govêrno do Estado do Rio Grande do Sul a dar garantia a um empréstimo a ser concedido pelo Western American Bank (Europe) Limited ao Banco do Estado do Rio Grande do Sul S.A.

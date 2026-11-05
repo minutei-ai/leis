@@ -1,5 +1,3 @@
-###DEC-052230-0-000-09-07-1963@@@
-
 DECRETO Nº 52.230, DE 9 DE JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Casimiro Brodziak Filho a pesquisar caulim, no município de Itapecerica da Serra, Estado de São Paulo.

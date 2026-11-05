@@ -1,5 +1,3 @@
-###DEC-002999-0-000-25-03-1999@@@
-
 DECRETO Nº 2.999, DE 25 DE MARÇO DE 1999
 
 Dispõe sobre o Conselho da Comunidade Solidária e dá outras providências.

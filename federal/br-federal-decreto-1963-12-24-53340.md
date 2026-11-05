@@ -1,5 +1,3 @@
-###DEC-053340-0-000-24-12-1963@@@
-
 DECRETO Nº 53.340, DE 24 DE DEZEMBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Paulista de Seguros, inclusive aumento do capital social.

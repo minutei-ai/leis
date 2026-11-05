@@ -1,7 +1,3 @@
-1
-
-###DEL-001799-0-000-05-08-1980@@@
-
 # Decreto-lei nº 1.799, de 5 de agosto de 1980.
 
 Reestrutura o Grupo Executivo das Terras do Araguaia-Tocantins - GETAT, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-088343-0-000-30-05-1983@@@
-
 Decreto nº 88.343, de 30 de maio de 1983
 
 Acrescenta parágrafo único ao Art. 4º do Decreto nº 86.036, de 27 de maio de 1981, que regulamenta a obrigatoriedade de as emissoras de televisão incluírem em suas programações semanais de filmes estrangeiros, pelo menos, um filme com legenda em português.

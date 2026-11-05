@@ -1,5 +1,3 @@
-###DEL-002957-0-000-17-01-1941@@@
-
 DECRETO-LEI N. 2.957 – DE 17 DE JANEIRO DE 1941
 
 Dispõe sobre a, carreira de Engenheiro do Quadro Permanente do Ministério da Fazenda, e dá outras providências.

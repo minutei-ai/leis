@@ -1,5 +1,3 @@
-###DEC-066250-0-000-23-02-1970@@@
-
 DECRETO Nº 66.250 - DE 23 DE FEVEREIRO DE 1970
 
 Autoriza estrangeiro a adquirir o domínio útil do imóvel que menciona, no Estado da Guanabara.

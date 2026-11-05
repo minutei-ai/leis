@@ -1,5 +1,3 @@
-###DEC-089979-0-000-18-07-1984@@@
-
 DECRETO Nº 89.979, de 18 De jUlHO DE 1984
 
 Simplifica procedimentos de controle de recursos orçamentários-financeiros e dá outras providências.

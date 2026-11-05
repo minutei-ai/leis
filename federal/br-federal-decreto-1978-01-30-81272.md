@@ -1,5 +1,3 @@
-###DEC-081272-0-000-30-01-1978@@@
-
 Decreto nº 81.272, de 30 de janeiro de 1978.
 
 Estabelece os limites dos Municípios criados pela Lei nº 6.448, de 11 de outubro de 1977 e dos Distritos correspondentes.

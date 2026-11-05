@@ -1,5 +1,3 @@
-###DEC-068844-0-000-02-07-1971@@@
-
 DECRETO Nº 68.844, DE 2 DE JULHO DE 1971.
 
 Concede à Mineração Mata do Cintra Ltda, o direito de lavrar grafita, no município de São Francisco de Oliveira, Estado de Minas Gerais.

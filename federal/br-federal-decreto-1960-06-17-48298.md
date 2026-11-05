@@ -1,5 +1,3 @@
-###DEC-048298-0-000-17-06-1960@@@
-
 DECRETO Nº 48.298, DE 17 DE JUNHO DE 1960.
 
 Dispõe sôbre a instituição da Fundação Hospitalar do Distrito Federal.

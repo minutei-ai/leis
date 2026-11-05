@@ -1,5 +1,3 @@
-###DEC-080949-0-000-07-12-1977@@@
-
 DECRETO Nº 80.949, DE 07 DE DEZEMBRO DE 1977.
 
 Concede a Sambra S.A. Mármores Brasileiros o direito de lavrar mármore no Município de Rio Branco do Sul, Estado do Paraná.

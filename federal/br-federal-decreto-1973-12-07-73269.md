@@ -1,5 +1,3 @@
-###DEC-073269-0-000-07-12-1973@@@
-
 DECRETO Nº 73.269 - DE 7 DE DEZEMBRO DE 1973
 
 Concede reconhecimento à Universidade Estadual de Ponta Grossa, com sede na Cidade de Ponta Grossa, Estado do Paraná.

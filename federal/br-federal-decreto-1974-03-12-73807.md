@@ -1,5 +1,3 @@
-###DEC-073807-0-000-12-03-1974@@@
-
 DECRETO Nº 73.807, DE 12 DE MARÇO DE 1974.
 
 Inclui na composição do Conselho Deliberativo do Instituto do Açúcar e do Álcool um representante do Ministério dos Transportes.

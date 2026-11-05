@@ -1,5 +1,3 @@
-###DEC-080546-0-000-11-10-1977@@@
-
 DECRETO Nº 80.546, DE 11 DE OUTUBRO DE 1977.
 
 Autoriza a transformação dos cursos de Ciências Biológicas e de Ciências, ministrados pela Federação das Faculdades Bras Cubas, com sede na cidade de Mogi das Cruzes, Estado de São Paulo, em curso de Ciências.

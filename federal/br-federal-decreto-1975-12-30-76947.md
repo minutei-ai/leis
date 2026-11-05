@@ -1,5 +1,3 @@
-###DEC-076947-0-000-30-12-1975@@@
-
 DECRETO Nº 76.947, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Engenharia Elétrica da Faculdade de Engenharia General Roberto Lisboa, unidade integrante das Faculdades Reunidas Nuno Lisboa, com sede na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-096169-0-000-15-06-1988@@@
-
 DECRETO N° 96.169, DE 15 DE JUNHO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Graduação em Engenharia Industrial Elétrica, em Manaus, Amazonas.

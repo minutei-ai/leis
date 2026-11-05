@@ -1,5 +1,3 @@
-###DEC-085773-0-000-26-02-1981@@@
-
 Decreto nº 85.773, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Formação de Executivos para Instituições Financeiras, da Faculdade de Ciências Sociais e Aplicadas do Morumbi, São Paulo, Estado de São Paulo.

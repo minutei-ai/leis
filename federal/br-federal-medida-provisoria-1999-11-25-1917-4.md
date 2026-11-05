@@ -1,5 +1,3 @@
-###MPV-001917-0-004-25-11-1999@@@
-
 medida provisória nº 1.917-4, de 25 de novembro de 1999
 
 Instituí, no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário – PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

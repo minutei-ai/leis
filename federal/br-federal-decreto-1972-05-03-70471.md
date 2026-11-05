@@ -1,5 +1,3 @@
-###DEC-070471-0-000-03-05-1972@@@
-
 DECRETO Nº 70.471, DE 3 DE MAIO DE 1972.
 
 Retifica o Decreto nº 70.351, de 29 de março de 1972, que redistribui cargo, com a respectiva ocupante, para o Estado-Maior das Forças Armadas.

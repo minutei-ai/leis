@@ -1,5 +1,3 @@
-###DEC-060375-0-000-11-03-1967@@@
-
 DECRETO Nº 60.375, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Renato Rodrigues da Cunha a pesquisar minério de manganês no município de Itaberaí, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-046172-0-000-08-06-1959@@@
-
 DECRETO Nº 46.172, DE 8 DE JUNHO DE 1959.
 
 Transforma a Comissão de Organização da Triticultura Nacional (COTRIN)em Comissão de Organização da Triticultura Nacional e Armazenamento Geral (COTRINAG) e dá outras providências.

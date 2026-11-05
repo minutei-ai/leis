@@ -1,5 +1,3 @@
-###DEL-008849-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.849 – DE 24 DE JANEIRO DE 1946
 
 Abre ao Ministério da Educação e Saúde o Crédito especial de Cr$ 1.936.813,00 para pagamento a The Rio de Janeiro City Improvements Co. Ltd.

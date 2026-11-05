@@ -1,5 +1,3 @@
-###DEC-074923-0-000-21-11-1974@@@
-
 DECRETO Nº 74.923, DE 21 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia, Ciências e Letras "Prof. Carlos Pasquale", mantida pela Sociedade Educacional "Liceu Acadêmico São Paulo", com sede na cidade de São Paulo, Estado de São Paulo.

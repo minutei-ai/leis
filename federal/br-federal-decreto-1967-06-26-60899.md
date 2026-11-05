@@ -1,5 +1,3 @@
-###DEC-060899-0-000-26-06-1967@@@
-
 DECRETO Nº 60.899, DE 26 DE JUNHO DE 1967.
 
 Autoriza o Espírito Santo Centrais Elétricas S.A. - ESCELSA a construir linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-051447-0-000-02-04-1962@@@
-
 Decreto nº 51.447, de 2 de abril de 1962.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde e dá outras providências.

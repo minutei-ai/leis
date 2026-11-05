@@ -1,5 +1,3 @@
-###DEL-003204-0-000-22-04-1941@@@
-
 DECRETO-LEI N. 3.204 – DE 22 DE ABRIL DE 1941
 
 Abre pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 532$6 para pagamento de diferença de vencimento

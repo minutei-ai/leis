@@ -1,7 +1,3 @@
-1
-
-###DEC-099061-0-000-07-03-1990@@@
-
 DECRETO N° 99.061, DE 07 DE MARÇO DE 1990
 
 Altera o Regulamento do Imposto sobre Produtos Industrializados e dá outras providências.

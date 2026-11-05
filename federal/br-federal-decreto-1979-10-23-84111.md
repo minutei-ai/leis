@@ -1,5 +1,3 @@
-###DEC-084111-0-000-23-10-1979@@@
-
 Decreto nº 84.111, de 23 DE outubrO de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

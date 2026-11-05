@@ -1,5 +1,3 @@
-###DEC-061370-0-000-18-09-1967@@@
-
 Decreto nº 61.370, de 18 de Setembro de 1967.
 
 Outorga à Tibrás - Titânio do Brasil S.A. concessão para derivar as águas do rio Açu, no Estado da Bahia, para fins industriais.

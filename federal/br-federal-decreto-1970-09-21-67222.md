@@ -1,5 +1,3 @@
-###DEC-067222-0-000-21-09-1970@@@
-
 decreto nº 67.222, de 21 de setembro de 1970.
 
 Altera o Quadro de Pessoal - Parte Especial - da Superintendência do Nordeste (SUDENE) e dá outras providências.

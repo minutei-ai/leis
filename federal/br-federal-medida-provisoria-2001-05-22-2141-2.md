@@ -1,5 +1,3 @@
-###MPV-002141-0-002-22-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.141-2, DE 22 DE MAIO DE 2001.
 
 Altera a Lei nº 9.615, de 24  de março de 1998, que institui normas gerais sobre desporto e dá outras providências.

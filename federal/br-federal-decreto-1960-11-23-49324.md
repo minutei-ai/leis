@@ -1,5 +1,3 @@
-###DEC-049324-0-000-23-11-1960@@@
-
 DECRETO Nº 49.324, DE 23 DE NOVEMBRO DE 1960.
 
 Cria a Estação Rádio da Marinha, em Brasília.

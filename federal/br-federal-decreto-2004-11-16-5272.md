@@ -1,5 +1,3 @@
-###DEC-005272-0-000-16-11-2004@@@
-
 DECRETO Nº 5.272 DE 16 DE NOVEMBRO DE 2004
 
 Promulga o Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica no 39, entre os Governos da República Federativa do Brasil e da República do Peru, de 27 de setembro de 2004.

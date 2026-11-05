@@ -1,5 +1,3 @@
-###DEC-053799-0-000-23-03-1964@@@
-
 DECRETO Nº 53.799, DE 23 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro Hugo Ferraz Pôrto a pesquisar feldspato no município de Maricá, Estado do Rio de Janeiro.

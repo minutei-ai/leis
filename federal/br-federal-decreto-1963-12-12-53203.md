@@ -1,5 +1,3 @@
-###DEC-053203-0-000-12-12-1963@@@
-
 DECRETO Nº 53.203, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Almiro de Lima Pedreira e pesquisar Bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

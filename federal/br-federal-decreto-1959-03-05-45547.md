@@ -1,5 +1,3 @@
-###DEC-045547-0-000-05-03-1959@@@
-
 DECRETO Nº 45.547, DE 05 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Michael Pereira de Souza a pesquisar calcário, no município de Matozinhos, Estado de Minas Gerais.

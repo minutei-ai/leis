@@ -1,4 +1,5 @@
-LEI Nº 22.482, DE 22 DE DEZEMBRO DE 2023<br>
+LEI Nº 22.482, DE 22 DE DEZEMBRO DE 2023
+
 \- [Revogada pela Lei nº 22.574, de 19-3-2024, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108549/lei-22574).
 
 ~~Dispõe sobre o exercício do controle externo pela Assembleia Legislativa do Estado de Goiás.~~
@@ -196,8 +197,6 @@ LEI Nº 22.482, DE 22 DE DEZEMBRO DE 2023<br>
 ~~Art. 19. Esta Lei entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 22 de dezembro de 2023; 135º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

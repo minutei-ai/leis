@@ -1,5 +1,3 @@
-###DEC-082118-0-000-16-08-1978@@@
-
 Decreto nº 82.118, de 16 dE agosto de 1978.
 
 Altera a denominação do atual Depósitos de Sobressalentes para Navios para Depósito de Sobressalentes da Marinha no Rio de Janeiro, aprova o respectivo Regulamento e dá outras providências.

@@ -28,896 +28,1208 @@ Presidente
 
 **I. GRUPO ESPECIAL**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify"><strong><span style="font-weight:normal">MUNICÍPIO</span></strong></p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify"><strong><span style="font-weight:normal">SERVENTIA</span></strong></p></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Afrânio</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Cachoeira do Roberto</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Agrestina</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Barra de Jardim</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila Barra do Chata</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Alagoinha</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Altinho</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Amaraji</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Angelim</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Araçoiaba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Barra de Guabiraba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Belém de Maria</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Belém de São Francisco</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Betânia</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Brejão</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Brejinho</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Buenos Aires</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cachoeirinha</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Cabanas</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Caetés</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Calçado</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Calumbi</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Camocim de São Félix</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Camutanga</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Canhotinho</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Capoeiras</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Carnaíba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Ibitiranga</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Carnaubeira da Penha</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Casinhas</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cedro</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Chã de Alegria</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Chã Grande</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Condado</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Correntes</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cortês</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cumaru</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Ameixas</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cupira</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila Laje de São José</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Dormentes</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Feira Nova</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ferreiros</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Flores</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Sítio dos Nunes</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Frei Miguelinho</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Gameleira</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Granito</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Iati</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ibimirim</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ibirajuba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Iguaraci</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Inajá</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ingazeira</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Itacuruba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Itaíba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Itapetim</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de São Vicente</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Itaquitinga</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jaqueira</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jataúba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Passagem do Tó</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jatobá</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">João Alfredo</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Joaquim Nabuco</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jucati</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jupi</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jurema</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Lagoa de Itaenga</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Lagoa do Carro</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Lagoa do Ouro</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Igapó</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Lagoa dos Gatos</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Entroncamento</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Igarapeassu</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Lagoa Grande</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Jutaí</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Macaparana</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Machados</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Manari</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Maraial</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Sertãozinho</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Mirandiba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Moreilândia</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Cariri-mirim</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Orobó</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Umburetama</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila Chã do Rocha</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Orocó</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Palmeirina</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Panelas</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila de Cruzes</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila de São José</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Paranatama</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Parnamirim</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Passira</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Pedra</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila Santo Antônio do Tará</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de São Pedro do Cordeiro</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Poção</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Pombos</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Primavera</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Quipapá</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Quixaba</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Riacho das Almas</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila de Couro D’antas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila Trapiá</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Salgadinho</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Saloá</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Iatecá</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Sanharó</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Cruz</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Cruz da Baixa Verde</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Filomena</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Maria do Cambucá</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Terezinha</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São Benedito do Sul</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São João</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São Joaquim do Monte</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São Vicente Ferrer</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Siriji</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Serrita</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Solidão</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tabira</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tacaimbó</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tacaratu</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Taquaritinga do Norte</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Pão de Açúcar</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Terezinha</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Terra Nova</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tracunhaém</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Triunfo</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tupanatinga</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tuparetama</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Venturosa</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Grotão</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Verdejante</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Vertente do Lério</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Vertentes</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="159" style="width:119.35pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Xexéu</p></td><td width="483" style="width:362.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr></tbody></table>
+**MUNICÍPIO**
 
-          <strong>II.</strong>               **GRUPO A**
+**SERVENTIA**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">MUNICÍPIO</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">SERVENTIA</p></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Água Preta</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Águas Belas</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Aliança</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Upatininga</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bodocó</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Claranã</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Feitoria</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bom Conselho</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Rainha Isabel</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bom Jardim</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Bizarra</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bonito</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Alto Bonito</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Brejo da Madre de Deus</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Fazenda Nova</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de São Domingos</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Buíque</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Guanumby</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Carneiro</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Catimbau</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cabrobó</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Catende</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Custódia</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Quitimbu</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Escada</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Exu</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Tabocas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Timorante</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Viração</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Zé Gomes</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Floresta</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Airi</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Carqueja</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Glória do Goitá</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Apoti</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ilha de Itamaracá</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ipubi</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Serrolândia</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Itambé</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Ibiranga</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Itapissuma</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Lajedo</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Nazaré da Mata</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Petrolândia</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ribeirão</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila de Aripibu</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Rio Formoso</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Cucaú</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Sauê</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Maria da Boa Vista</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São Caitano</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São José da Coroa Grande</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São José do Belmonte</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São José do Egito</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Bonfim</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Riacho do Meio</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Tigre</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Sirinhaém</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Barra de Sirinhaém</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Toritama</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Trindade</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr><tr><td width="170" style="width:127.45pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Vicência</p></td><td width="461" style="width:346.0pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral e Notarial</span></li></ul></td></tr></tbody></table>
+Afrânio
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Cachoeira do Roberto</li></ul>
+
+Agrestina
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Barra de Jardim</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila Barra do Chata</li></ul>
+
+Alagoinha
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Altinho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Amaraji
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Angelim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Araçoiaba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Barra de Guabiraba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Belém de Maria
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Belém de São Francisco
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Betânia
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Brejão
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Brejinho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Buenos Aires
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Cachoeirinha
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Cabanas</li></ul>
+
+Caetés
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Calçado
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Calumbi
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Camocim de São Félix
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Camutanga
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Canhotinho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Capoeiras
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Carnaíba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Ibitiranga</li></ul>
+
+Carnaubeira da Penha
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Casinhas
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Cedro
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Chã de Alegria
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Chã Grande
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Condado
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Correntes
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Cortês
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Cumaru
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Ameixas</li></ul>
+
+Cupira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila Laje de São José</li></ul>
+
+Dormentes
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Feira Nova
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Ferreiros
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Flores
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Sítio dos Nunes</li></ul>
+
+Frei Miguelinho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Gameleira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Granito
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Iati
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Ibimirim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Ibirajuba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Iguaraci
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Inajá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Ingazeira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Itacuruba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Itaíba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Itapetim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de São Vicente</li></ul>
+
+Itaquitinga
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Jaqueira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Jataúba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Passagem do Tó</li></ul>
+
+Jatobá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+João Alfredo
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Joaquim Nabuco
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Jucati
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Jupi
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Jurema
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Lagoa de Itaenga
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Lagoa do Carro
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Lagoa do Ouro
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Igapó</li></ul>
+
+Lagoa dos Gatos
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Entroncamento</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Igarapeassu</li></ul>
+
+Lagoa Grande
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Jutaí</li></ul>
+
+Macaparana
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Machados
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Manari
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Maraial
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Sertãozinho</li></ul>
+
+Mirandiba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Moreilândia
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Cariri-mirim</li></ul>
+
+Orobó
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Umburetama</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila Chã do Rocha</li></ul>
+
+Orocó
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Palmeirina
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Panelas
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila de Cruzes</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila de São José</li></ul>
+
+Paranatama
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Parnamirim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Passira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Pedra
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila Santo Antônio do Tará</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de São Pedro do Cordeiro</li></ul>
+
+Poção
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Pombos
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Primavera
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Quipapá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Quixaba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Riacho das Almas
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila de Couro D’antas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila Trapiá</li></ul>
+
+Salgadinho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Saloá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Iatecá</li></ul>
+
+Sanharó
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Santa Cruz
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Santa Cruz da Baixa Verde
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Santa Filomena
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Santa Maria do Cambucá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Santa Terezinha
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+São Benedito do Sul
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+São João
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+São Joaquim do Monte
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+São Vicente Ferrer
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Siriji</li></ul>
+
+Serrita
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Solidão
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Tabira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Tacaimbó
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Tacaratu
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Taquaritinga do Norte
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Pão de Açúcar</li></ul>
+
+Terezinha
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Terra Nova
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Tracunhaém
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Triunfo
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Tupanatinga
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Tuparetama
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Venturosa
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Grotão</li></ul>
+
+Verdejante
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Vertente do Lério
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Vertentes
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Xexéu
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+          **II.**               **GRUPO A**
+
+MUNICÍPIO
+
+SERVENTIA
+
+Água Preta
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Águas Belas
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Aliança
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Upatininga</li></ul>
+
+Bodocó
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Claranã</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Feitoria</li></ul>
+
+Bom Conselho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Rainha Isabel</li></ul>
+
+Bom Jardim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Bizarra</li></ul>
+
+Bonito
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Alto Bonito</li></ul>
+
+Brejo da Madre de Deus
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Fazenda Nova</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de São Domingos</li></ul>
+
+Buíque
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Guanumby</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Carneiro</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Catimbau</li></ul>
+
+Cabrobó
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Catende
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Custódia
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Quitimbu</li></ul>
+
+Escada
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Exu
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Tabocas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Timorante</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Viração</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Zé Gomes</li></ul>
+
+Floresta
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Airi</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Carqueja</li></ul>
+
+Glória do Goitá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Apoti</li></ul>
+
+Ilha de Itamaracá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Ipubi
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Serrolândia</li></ul>
+
+Itambé
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Ibiranga</li></ul>
+
+Itapissuma
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Lajedo
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Nazaré da Mata
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Petrolândia
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Ribeirão
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila de Aripibu</li></ul>
+
+Rio Formoso
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Cucaú</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Sauê</li></ul>
+
+Santa Maria da Boa Vista
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+São Caitano
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+São José da Coroa Grande
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+São José do Belmonte
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+São José do Egito
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Bonfim</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Riacho do Meio</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Tigre</li></ul>
+
+Sirinhaém
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Barra de Sirinhaém</li></ul>
+
+Toritama
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Trindade
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
+
+Vicência
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral e Notarial</li></ul>
 
 3.  **GRUPO B**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">MUNICÍPIO</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">SERVENTIA</p></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Abreu e Lima</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Afogados da Ingazeira</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Araripina</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Morais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Nascentes</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Arcoverde</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Barreiros</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila de Carimã</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Belo Jardim</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Água Fria</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Serra do Vento</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Bezerros</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Sapucarana</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Camaragibe</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Carpina</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Goiana</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Pontas de Pedra</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Tejucupapo</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Gravatá</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Uruçu-mirim</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Igarassu</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Três Ladeiras</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Limoeiro</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Urucuba</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Moreno</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ouricuri</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Barra de São Pedro</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Palmares</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Paudalho</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Pesqueira</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Cimbres</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Mimoso</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Mutuca</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Papagaio</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Sairé</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Salgueiro</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Conceição das Creoulas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vasques</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Santa Cruz do Capibaribe</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Poço Fundo</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São Bento do Uma</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">São Lourenço da Mata</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Serra Talhada</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Caiçarinha da Penha</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Luanda</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Tauapiranga</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Bernardo Vieira</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Sertânia</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Rio da Barra</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Surubim</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Tamandaré</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Timbaúba</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila Cruangi</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Livramento do Tiúma</span></li></ul></td></tr><tr><td width="184" style="width:138.15pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Vitória de Santo Antão</p></td><td width="454" style="width:340.85pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Pirituba</span></li></ul></td></tr></tbody></table>
+MUNICÍPIO
+
+SERVENTIA
+
+Abreu e Lima
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Afogados da Ingazeira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Araripina
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Morais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Nascentes</li></ul>
+
+Arcoverde
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Barreiros
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila de Carimã</li></ul>
+
+Belo Jardim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Água Fria</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Serra do Vento</li></ul>
+
+Bezerros
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Sapucarana</li></ul>
+
+Camaragibe
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Carpina
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Goiana
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Pontas de Pedra</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Tejucupapo</li></ul>
+
+Gravatá
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Uruçu-mirim</li></ul>
+
+Igarassu
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Três Ladeiras</li></ul>
+
+Limoeiro
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Urucuba</li></ul>
+
+Moreno
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Ouricuri
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Barra de São Pedro</li></ul>
+
+Palmares
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Paudalho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Pesqueira
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Cimbres</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Mimoso</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Mutuca</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Papagaio</li></ul>
+
+Sairé
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Salgueiro
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Conceição das Creoulas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vasques</li></ul>
+
+Santa Cruz do Capibaribe
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Poço Fundo</li></ul>
+
+São Bento do Uma
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+São Lourenço da Mata
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Serra Talhada
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Caiçarinha da Penha</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Luanda</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Tauapiranga</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Bernardo Vieira</li></ul>
+
+Sertânia
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Rio da Barra</li></ul>
+
+Surubim
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Tamandaré
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li></ul>
+
+Timbaúba
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila Cruangi</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Livramento do Tiúma</li></ul>
+
+Vitória de Santo Antão
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Pirituba</li></ul>
 
 **GRUPO C**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="581" style="width:435.85pt;background:white;border-collapse:collapse;border:none"><tbody><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">MUNICÍPIO</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">SERVENTIA</p></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Recife</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">3º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">4º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">5º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">6º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">7º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">8º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">9º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">10º Tabelionato de Notas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">3ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">4ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">5ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">6ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">7ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Tabelionato de Protesto</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Tabelionato de Protesto</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">3º Tabelionato de Protesto</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">4º Tabelionato de Protesto</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Registro de Títulos e Documentos e Civil das Pessoas Jurídicas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Registro de Títulos e Documentos e Civil das Pessoas Jurídicas</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Registro Civil das Pessoas Naturais (antigos 1º 5º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Registro Civil das Pessoas Naturais (antigos 2º e 3º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">3º Registro Civil das Pessoas Naturais (antigo 4º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">4º Registro Civil das Pessoas Naturais (antigo 6º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">5º Registro Civil das Pessoas Naturais (antigo 7º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">6º Registro Civil das Pessoas Naturais (antigo 8º RCPN)</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Recife</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">7º Registro Civil das Pessoas Naturais (antigo 9º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">8º Registro Civil das Pessoas Naturais (antigo 10º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">9º Registro Civil das Pessoas Naturais (antigo 11º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">10º Registro Civil das Pessoas Naturais (antigo 12º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">11º Registro Civil das Pessoas Naturais (antigo 13º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">12º Registro Civil das Pessoas Naturais (antigo 14º RCPN)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">13º Registro Civil das Pessoas Naturais (antigo 15º RCPN)</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Fernando de Noronha</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Única</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Cabo de Santo Agostinho</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais - Sede</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Ponte dos Carvalhos</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Jussaral</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Caruaru</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Registro Civil das Pessoas Naturais - Sede</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Registro Civil das Pessoas Naturais - Sede</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Vila de Carapotós</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Garanhuns</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais - Sede - 1ª Zona Judiciária</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais - Sede - 2ª Zona Judiciária</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Iratama</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Miracica</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de São Pedro</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Ipojuca</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais - Sede</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Camela</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Nossa Senhora do Ó</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Jaboatão dos Guararapes</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Registro Civil das Pessoas Naturais - Sede (Prazeres)</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Registro Civil das Pessoas Naturais - Centro</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">3º Registro Civil das Pessoas Naturais - Cavaleiro</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Olinda</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Registro Civil das Pessoas Naturais</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Registro Civil das Pessoas Naturais</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Paulista</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1º Registro Civil das Pessoas Naturais - Sede</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2º Registro Civil das Pessoas Naturais - Paratibe</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">3º Registro Civil das Pessoas Naturais - Praia de Conceição</span></li></ul></td></tr><tr><td width="186" style="width:139.8pt;padding:0cm 0cm 0cm 0cm"><p style="margin:0cm;margin-bottom:.0001pt;text-align:justify">Petrolina</p></td><td width="395" style="width:296.05pt;padding:0cm 0cm 0cm 0cm"><ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Notarial</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">1ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">2ª Serventia Registral</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais - Sede</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Cristália</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de&nbsp;Curral Queimado</span></li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
-       text-align:justify;line-height:normal"><span style="font-size:12.0pt;
-       font-family:&quot;Times New Roman&quot;,serif">Registro Civil das Pessoas Naturais do Distrito de Rajada</span></li></ul></td></tr></tbody></table>
+MUNICÍPIO
+
+SERVENTIA
+
+Recife
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">3º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">4º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">5º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">6º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">7º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">8º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">9º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">10º Tabelionato de Notas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">3ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">4ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">5ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">6ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">7ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Tabelionato de Protesto</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Tabelionato de Protesto</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">3º Tabelionato de Protesto</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">4º Tabelionato de Protesto</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Registro de Títulos e Documentos e Civil das Pessoas Jurídicas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Registro de Títulos e Documentos e Civil das Pessoas Jurídicas</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Registro Civil das Pessoas Naturais (antigos 1º 5º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Registro Civil das Pessoas Naturais (antigos 2º e 3º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">3º Registro Civil das Pessoas Naturais (antigo 4º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">4º Registro Civil das Pessoas Naturais (antigo 6º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">5º Registro Civil das Pessoas Naturais (antigo 7º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">6º Registro Civil das Pessoas Naturais (antigo 8º RCPN)</li></ul>
+
+Recife
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">7º Registro Civil das Pessoas Naturais (antigo 9º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">8º Registro Civil das Pessoas Naturais (antigo 10º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">9º Registro Civil das Pessoas Naturais (antigo 11º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">10º Registro Civil das Pessoas Naturais (antigo 12º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">11º Registro Civil das Pessoas Naturais (antigo 13º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">12º Registro Civil das Pessoas Naturais (antigo 14º RCPN)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">13º Registro Civil das Pessoas Naturais (antigo 15º RCPN)</li></ul>
+
+Fernando de Noronha
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Única</li></ul>
+
+Cabo de Santo Agostinho
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais - Sede</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Ponte dos Carvalhos</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Jussaral</li></ul>
+
+Caruaru
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Registro Civil das Pessoas Naturais - Sede</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Registro Civil das Pessoas Naturais - Sede</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Vila de Carapotós</li></ul>
+
+Garanhuns
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais - Sede - 1ª Zona Judiciária</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais - Sede - 2ª Zona Judiciária</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Iratama</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Miracica</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de São Pedro</li></ul>
+
+Ipojuca
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais - Sede</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Camela</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Nossa Senhora do Ó</li></ul>
+
+Jaboatão dos Guararapes
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Registro Civil das Pessoas Naturais - Sede (Prazeres)</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Registro Civil das Pessoas Naturais - Centro</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">3º Registro Civil das Pessoas Naturais - Cavaleiro</li></ul>
+
+Olinda
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Registro Civil das Pessoas Naturais</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Registro Civil das Pessoas Naturais</li></ul>
+
+Paulista
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1º Registro Civil das Pessoas Naturais - Sede</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2º Registro Civil das Pessoas Naturais - Paratibe</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">3º Registro Civil das Pessoas Naturais - Praia de Conceição</li></ul>
+
+Petrolina
+
+<ul style="margin-top:0cm" type="disc"><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Notarial</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">1ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">2ª Serventia Registral</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais - Sede</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Cristália</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Curral Queimado</li><li class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;
+       text-align:justify;line-height:normal">Registro Civil das Pessoas Naturais do Distrito de Rajada</li></ul>

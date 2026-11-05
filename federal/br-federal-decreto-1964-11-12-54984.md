@@ -1,5 +1,3 @@
-###DEC-054984-0-000-12-11-1964@@@
-
 DECRETO Nº 54.984, DE 12 DE NOVEMBRO DE 1964.
 
 Concede à Andrade & Filhos Limitada, autorização para funcionar como emprêsa de mineração.

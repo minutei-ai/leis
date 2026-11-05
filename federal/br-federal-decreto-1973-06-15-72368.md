@@ -1,5 +1,3 @@
-###DEC-072368-0-000-15-06-1973@@@
-
 DECRETO Nº 72.368, DE 15 DE JUNHO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão, Estado de Goiás.

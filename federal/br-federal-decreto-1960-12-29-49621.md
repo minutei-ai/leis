@@ -1,5 +1,3 @@
-###DEC-049621-0-000-29-12-1960@@@
-
 DECRETO Nº 49.621, DE 29 DE DEZEMBRO DE 1960.
 
 Concede autorização para funcionamento de curso.

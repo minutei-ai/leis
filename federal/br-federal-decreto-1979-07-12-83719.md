@@ -1,5 +1,3 @@
-###DEC-083719-0-000-12-07-1979@@@
-
 Decreto nº 83.719, de 12 de julho de 1979.
 
 Cria o Consulado-Geral do Brasil em Ciudad Presidente Stroessner.

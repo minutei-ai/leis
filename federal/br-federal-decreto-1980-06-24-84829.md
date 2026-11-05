@@ -1,5 +1,3 @@
-###DEC-084829-0-000-24-06-1980@@@
-
 Decreto nº 84.829 de 24 de junho de 1980.
 
 Reduz alíquota do IPI incidente sobre o produto que menciona.

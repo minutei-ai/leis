@@ -1,5 +1,3 @@
-###DEC-045555-0-000-05-03-1959@@@
-
 Decreto nº 45.555, de 5 de março de 1959.
 
 Altera a lotação de repartição atendidas pelos Quadros Permanentes e Suplementar do Ministério do Trabalho, Indústria e Comércio.

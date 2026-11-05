@@ -1,5 +1,3 @@
-###DEL-004225-0-000-02-04-1942@@@
-
 DECRETO-LEI N. 4.225 – DE 2 DE ABRIL DE 1942
 
 Modifica o art. 24 do decreto-lei n. 925, de 2 de dezembro de 1938

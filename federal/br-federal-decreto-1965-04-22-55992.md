@@ -1,5 +1,3 @@
-###DEC-055992-0-000-22-04-1965@@@
-
 decreto nº 55.992, de 22 de abril de 1965.
 
 Extingue a campanha de Eletrificação Rural, instituída pelo art. 59 do Decreto nº 52.342, de 8 de agôsto de 1963, e dá outras providências.

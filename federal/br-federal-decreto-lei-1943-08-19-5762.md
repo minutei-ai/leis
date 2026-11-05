@@ -1,5 +1,3 @@
-###DEL-005762-0-000-19-08-1943@@@
-
 DECRETO‑LEI N. 5.762 – DE 19 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 8.000.000,00 para pagamento da 3ª prestação de ações da Companhia Vale do Rio Doce S.A.

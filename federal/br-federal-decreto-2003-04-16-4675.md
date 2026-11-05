@@ -1,5 +1,3 @@
-###DEC-004675-0-000-16-04-2003@@@
-
 DECRETO N° 4.675, DE 16 DE ABRIL DE 2003.
 
 Regulamenta o Programa Nacional de Acesso à Alimentação - "Cartão Alimentação", criado pela Medida Provisória no 108, de 27 de fevereiro de 2003.

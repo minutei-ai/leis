@@ -1,5 +1,3 @@
-###DEC-051551-0-000-19-09-1962@@@
-
 DECRETO Nº 51.551, DE 19 DE SETEMBRO DE 1962.
 
 Renova disposições dos Decretos números 51.372 de 15 de dezembro de 1961 e 51.392, de 1 de janeiro de 1962, e dá outras providências.

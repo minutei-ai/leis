@@ -1,5 +1,3 @@
-###DEL-005686-0-000-21-07-1943@@@
-
 DECRETO‑LEI N. 5.686 – DE 21 DE JULHO  DE  1943
 
 Proíbe a remessa de mudas e sementes de Hevea para qualquer parte fora da Amazônia, sem prévia autorização do Ministério da Agricultura

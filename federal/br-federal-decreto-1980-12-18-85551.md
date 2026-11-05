@@ -1,5 +1,3 @@
-###DEC-085551-0-000-18-12-1980@@@
-
 Decreto nº 85.551, de 18 de dezembro de 1980.
 
 Autoriza o funcionamento dos cursos de Fisioterapia e de Terapia Ocupacional, da Faculdade de Educação Física de Lins, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009845-0-000-12-09-1946@@@
-
 DECRETO-LEI N. 9.845 – DE 12 DE SETEMBRO DE 1946
 
 Autoriza o Ministro da Fazenda a dar a garantia do Tesouro Nacional a operação de crédito que menciona.

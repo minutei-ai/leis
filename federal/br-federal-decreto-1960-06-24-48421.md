@@ -1,5 +1,3 @@
-###DEC-048421-0-000-24-06-1960@@@
-
 decreto nº 48.421, de 24 de junho de 1960.
 
 Declara de utilidade pública diversas áreas de terra, necessárias à construção das linhas alimentadoras de 11kV, que partem da subestação abaixadora 33/11kV, de que trata o Decreto nº 42.980, de 31 de dezembro de 1957, até a rêde de distribuição da cidade de Presidente Prudente, Estado de São Paulo e autoriza a Companhia Elétrica Caiuá a construir servidões, ou promover as necessárias desapropriações.

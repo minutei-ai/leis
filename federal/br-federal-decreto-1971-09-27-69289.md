@@ -1,5 +1,3 @@
-###DEC-069289-0-000-27-09-1971@@@
-
 DECRETO Nº 69.289, DE 27 DE SETEMBRO DE 1971.
 
 Aprova o Regulamento da Diretoria Geral de Economia e Finanças, do Ministério do Exército.

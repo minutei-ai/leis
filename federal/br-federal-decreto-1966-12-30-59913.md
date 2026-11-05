@@ -1,5 +1,3 @@
-###DEC-059913-0-000-30-12-1966@@@
-
 DECRETO Nº 59.913, DE 30 DE DEZEMBRO DE 1966.
 
 Publica os índices de atualização monetária dos salários dos últimos 24 (vinte e quatro) meses, na forma estabelecida no Decreto-lei nº 15, de 29 de julho de 1966 e dá outras providências.
@@ -10,7 +8,55 @@ decreta:
 
 Artigo 1º Para reconstituição dos salários reais médios dos últimos 24 (vinte e quatro) meses, conforme estabelecido no artigo 1º do Decreto-lei número 15, de 29 de julho de 1966, serão utilizados os seguintes coeficientes aplicáveis, aos salários dos meses correspondentes, para os acôrdos coletivos de trabalho ou decisões da Justiça do Trabalho cuja a vigência termine no mês de janeiro de 1967.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Mês – Coeficiente</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Janeiro de 1965..........................................................................................................................1,97</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro de 1965......................................................................................................................1,96</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Março de 1965............................................................................................................................1,73</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abril de 1965..............................................................................................................................1,66</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maio de 1965..............................................................................................................................1,62</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Junho de 1965............................................................................................................................1,59</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Julho de 1965.............................................................................................................................1,55</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agôsto de 1965...........................................................................................................................1,53</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Setembro de 1965......................................................................................................................1,48</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outubro de 1965........................................................................................................................1,45</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Novembro de 1965.....................................................................................................................1,44</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dezembro de 1965.....................................................................................................................1,41</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Janeiro de 1966..........................................................................................................................1,35</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Fevereiro de 1966......................................................................................................................1,29</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Março de 1966............................................................................................................................1,24</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Abril de 1966..............................................................................................................................1,19</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maio de 1966..............................................................................................................................1,16</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Junho de 1966...........................................................................................................................1,14</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Julho de 1966.............................................................................................................................1,10</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Agôsto de 1966..........................................................................................................................1,07</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Setembro de 1966......................................................................................................................1,05</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outubro de 1966.........................................................................................................................1,03</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Novembro de 1966.....................................................................................................................1,02</span></p></td></tr><tr><td style="width:432.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Dezembro de 1966.....................................................................................................................1,00</span></p></td></tr></tbody></table>
+Mês – Coeficiente
+
+Janeiro de 1965..........................................................................................................................1,97
+
+Fevereiro de 1965......................................................................................................................1,96
+
+Março de 1965............................................................................................................................1,73
+
+Abril de 1965..............................................................................................................................1,66
+
+Maio de 1965..............................................................................................................................1,62
+
+Junho de 1965............................................................................................................................1,59
+
+Julho de 1965.............................................................................................................................1,55
+
+Agôsto de 1965...........................................................................................................................1,53
+
+Setembro de 1965......................................................................................................................1,48
+
+Outubro de 1965........................................................................................................................1,45
+
+Novembro de 1965.....................................................................................................................1,44
+
+Dezembro de 1965.....................................................................................................................1,41
+
+Janeiro de 1966..........................................................................................................................1,35
+
+Fevereiro de 1966......................................................................................................................1,29
+
+Março de 1966............................................................................................................................1,24
+
+Abril de 1966..............................................................................................................................1,19
+
+Maio de 1966..............................................................................................................................1,16
+
+Junho de 1966...........................................................................................................................1,14
+
+Julho de 1966.............................................................................................................................1,10
+
+Agôsto de 1966..........................................................................................................................1,07
+
+Setembro de 1966......................................................................................................................1,05
+
+Outubro de 1966.........................................................................................................................1,03
+
+Novembro de 1966.....................................................................................................................1,02
+
+Dezembro de 1966.....................................................................................................................1,00
 
 Parágrafo único. O Salário médio a ser constituído será a média aritmética dos valôres obtidos pela aplicação dos coeficientes acima aos salários dos meses correspondentes.
 

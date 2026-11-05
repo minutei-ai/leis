@@ -1,5 +1,3 @@
-###DEC-060860-0-000-16-06-1967@@@
-
 DECRETO Nº 60.860, DE 16 DE JUNHO DE 1967.
 
 Outorga concessão à Centrais Elétricas de Minas Gerais S.A. para distribuir energia elétrica nos Municípios de Piranga e Presidente Bernardes, no Estado de Minas Gerais.

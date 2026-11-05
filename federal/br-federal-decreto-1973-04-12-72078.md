@@ -1,5 +1,3 @@
-###DEC-072078-0-000-12-04-1973@@@
-
 Decreto Nº 72.078, de 12 de abril de 1973.
 
 Autoriza o Ministro da Fazenda a transferir, para o patrimônio da TELEBRÁS, ações da União da EMBRATEL.

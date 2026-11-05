@@ -1,5 +1,3 @@
-###DEC-005191-0-000-19-08-2004@@@
-
 DECRETO Nº 5.191 DE 19 DE AGOSTO DE 2004
 
 Regulamenta o pagamento da Gratificação de Incremento da Fiscalização e da Arrecadação \- GIFA devida aos ocupantes dos cargos efetivos da Carreira Auditoria-Fiscal do Trabalho na forma prevista no art. 4º da Lei nº 10.910, de 15 de julho de 2004.

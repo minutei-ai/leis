@@ -1,5 +1,3 @@
-###DEL-000657-0-000-27-06-1969@@@
-
 Decreto-lei nº 657, de 27 de Junho de 1969
 
 Altera a Lei nº 4.069-A, de 12 de junho de 1962, que criou a Fundação Universidade do Amazonas e dá outras providências.

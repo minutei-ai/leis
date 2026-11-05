@@ -1,5 +1,3 @@
-###DEC-004400-0-000-01-10-2002@@@
-
 DECRETO Nº 4.400, DE 1º DE OUTUBRO DE 2002
 
 Dá nova redação ao art. 8ºdo Decreto nº2.771, de 8 de setembro de 1998, que regulamenta a Lei nº9.675, de 29 de junho de 1998, que dispõe sobre o registro provisório para o estrangeiro em situação ilegal no território nacional.

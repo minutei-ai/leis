@@ -1,5 +1,3 @@
-###DEL-007313-0-000-08-02-1945@@@
-
 DECRETO-LEI N. 7.313 – DE 8 DE FEVEREIRO DE 1945
 
 Autoriza a permuta, entre a União e o Estado do Pará, do domínio píeno das áreas de terrenos que menciona, situados no município de Belém, no Estado do Pará, e dá outras providências

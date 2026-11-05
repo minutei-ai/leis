@@ -1,10 +1,8 @@
-###DEC-018811-0-000-06-06-1945@@@
+**DECRETO Nº 18.811, DE 6 DE JUNHO DE 1945.**
 
-<strong>DECRETO Nº 18.811, DE 6 DE JUNHO DE 1945.</strong>
+***Declara o estado de guerra entre o Brasil e o Império do Japão.***
 
-<em><strong>Declara o estado de guerra entre o Brasil e o Império do Japão.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra <em>m</em>, da Constituição,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra *m*, da Constituição,
 
 CONSIDERANDO que os compromissos inter-americanos de assistência e defesa mútua se acham em pleno vigor e foram retirados e ampliados na recente Conferência das Nações Americana reunida no México;
 
@@ -16,17 +14,17 @@ CONSIDERADO encerrada a nossa participação bélica na Europa com a rendição 
 
 CONSIDERANDO que, desde 28 de janeiro de 1942, foram rompidos as relações diplomáticas com o Império do Japão, em conseqüência da agressão aos Estado Unidos da América;
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É declarada a existência do estado de guerra entre o Brasil e o Japão.
+**Art**. 1º É declarada a existência do estado de guerra entre o Brasil e o Japão.
 
-<strong>Art</strong>. 2º O presente decreto entrará me vigor na data de sua publicação.
+**Art**. 2º O presente decreto entrará me vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de junho de 1945; 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 José Roberto de Macedo Soares
 

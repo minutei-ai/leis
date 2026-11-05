@@ -1,5 +1,3 @@
-###DEC-048929-0-000-09-09-1960@@@
-
 decreto nº 48.929, de 9 de setembro de 1960.
 
 Altera a redação de dispositivo do Decreto nº 47.933 de 15 de março de 1960.

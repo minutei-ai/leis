@@ -14,7 +14,33 @@ Altera o Decreto no 4.542, de 26 de dezembro de 2002, que aprova a Tabela de Inc
 
         Art. 3º  Ficam acrescidos à lista Anexa ao Decreto nº 4.955, de 15 de janeiro de 2004, os códigos da TIPI a seguir relacionados:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:123.9pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8402.90.00</span></p></td><td style="width:100.85pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8417.90.00</span></p></td><td style="width:96.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8453.90.00</span></p></td><td style="width:115.25pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8515.90.00</span></p></td></tr><tr><td style="width:123.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8406.90.90</span></p></td><td style="width:100.85pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8419.90.39</span></p></td><td style="width:96.5pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8454.90.90</span></p></td><td style="width:115.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8701.90.90 Ex 01</span></p></td></tr><tr><td style="width:123.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8414.80.29</span></p></td><td style="width:100.85pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8425.19.10</span></p></td><td style="width:96.5pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8474.90.00</span></p></td><td style="width:115.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:123.9pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8414.90.39</span></p></td><td style="width:100.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8431.39.00</span></p></td><td style="width:96.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8479.90.90</span></p></td><td style="width:115.25pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="margin-bottom:0pt; line-height:115%; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr></tbody></table>
+8402.90.00
+
+8417.90.00
+
+8453.90.00
+
+8515.90.00
+
+8406.90.90
+
+8419.90.39
+
+8454.90.90
+
+8701.90.90 Ex 01
+
+8414.80.29
+
+8425.19.10
+
+8474.90.00
+
+8414.90.39
+
+8431.39.00
+
+8479.90.90
 
         Art. 4º  Este Decreto entra em vigor na data de sua publicação, produzindo efeitos a partir de 1o de janeiro de 2006.
 

@@ -1,5 +1,3 @@
-###DEC-048551-0-000-21-07-1960@@@
-
 DECRETO Nº 48.551, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Féres Dequech a pesquisar calcário, no município de Itaiópolis, Estado de Santa Catarina.

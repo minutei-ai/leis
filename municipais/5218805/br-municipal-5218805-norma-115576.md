@@ -6,7 +6,23 @@ Altera a Lei nº 7.226, de 20 de dezembro de 2021 – Plano Plurianual – PPA p
 
 Art. 1º Ficam inclusas as metas e as ações na Lei nº 7.226, de 20 de dezembro de 2021, Plano Plurianual – PPA para o quadriênio de 2022-2025: ÓRGÃO: 20 – FUNDAÇÃO MUNICIPAL DE CULTURA DE RIO VERDE - FMC UNIDADE: 38 – FUNDAÇÃO MUNICIPAL DE CULTURA - FMC FUNÇÃO: 13 – CULTURA SUBFUNÇÃO: 392 – DIFUSÃO CULTURAL PROGRAMA: 6005 – PROGRAMA ARTE POR TODA PARTE AÇÃO: NOVA – AUXÍLIO DA LEI ALDIR BLANC
 
-<table><thead></thead><tbody><tr><td style="text-align:center">Metas</td><td style="text-align:center"><strong>Unidade de Medida</strong></td><td style="text-align:center"><strong>2024</strong></td></tr><tr><td style="text-align:center">SERVIÇOS DE CONSULTORIA</td><td style="text-align:center">ETAPA</td><td style="text-align:center">1</td></tr><tr><td style="text-align:center">OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS</td><td style="text-align:center">ETAPA</td><td style="text-align:center">2</td></tr></tbody></table>
+Metas
+
+**Unidade de Medida**
+
+**2024**
+
+SERVIÇOS DE CONSULTORIA
+
+ETAPA
+
+1
+
+OUTROS AUXÍLIOS FINANCEIROS A PESSOAS FÍSICAS
+
+ETAPA
+
+2
 
 Art. 2º Ficam inclusas as metas e as ações nas prioridades da Lei nº 7.365, de 28 de junho de 2023, Lei de Diretrizes Orçamentárias – LDO para o exercício de 2024.
 

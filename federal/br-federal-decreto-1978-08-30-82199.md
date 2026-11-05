@@ -1,5 +1,3 @@
-###DEC-082199-0-000-30-08-1978@@@
-
 Decreto nº 82.199, de 30 de agosto de 1978.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A - ELETROBRÁS.

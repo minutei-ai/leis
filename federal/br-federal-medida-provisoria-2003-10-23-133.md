@@ -1,5 +1,3 @@
-###MPV-000133-0-000-23-10-2003@@@
-
 MEDIDA PROVISÓRIA Nº 133, DE 23 DE OUTUBRO 2003.
 
        Cria o Programa Especial de Habitação Popular \- PEHP e dá outras providências.
@@ -52,8 +50,12 @@ MEDIDA PROVISÓRIA Nº 133, DE 23 DE OUTUBRO 2003.
 
         Brasília, 23 de outubro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
-Guido Mantega<br>
-Olívio de Oliveira Dutra<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
+Guido Mantega
+
+Olívio de Oliveira Dutra
+
 José Dirceu de Oliveira e Silva

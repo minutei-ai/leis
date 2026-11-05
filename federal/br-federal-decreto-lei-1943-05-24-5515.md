@@ -1,5 +1,3 @@
-###DEL-005515-0-000-24-05-1943@@@
-
 DECRETO‑LEI N. 5.515 – DE 24 DE MAIO DE 1943
 
 Estende aos oficiais e praças do Pelotão Independente de Fronteira de Cucuí a vantagem prevista nos arts. 134 e 140 do Código de Vencimentos e Vantagens dos Militares do Exército

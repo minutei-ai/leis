@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208965)<br>
-
 # DECRETO N° 68.216, DE 15 DE DEZEMBRO DE 2023
 
 ### _Altera a denominação e cria a unidade policial que especifica do Departamento de Polícia de Proteção à Cidadania "Dr. Luiz Lasserre Gomes" - DPPC, da Polícia Civil do Estado de São Paulo, da Secretaria da Segurança Pública, e da providências correlatas._

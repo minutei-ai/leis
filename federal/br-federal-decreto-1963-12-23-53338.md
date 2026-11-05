@@ -1,5 +1,3 @@
-###DEC-053338-0-000-23-12-1963@@@
-
 DECRETO Nº 53.338, DE 23 DE DEZEMBRO DE 1963.
 
 Concede graça a sentenciados pela forma que menciona.

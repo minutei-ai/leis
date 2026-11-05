@@ -1,5 +1,3 @@
-###DEC-082657-0-000-16-11-1978@@@
-
 DECRETO Nº 82.657, DE 16 DE NOVEMBRO DE 1978
 
 Autoriza o Serviço de Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de itiruçu, Estado da Bahia.

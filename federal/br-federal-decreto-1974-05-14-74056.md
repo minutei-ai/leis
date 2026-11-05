@@ -1,5 +1,3 @@
-###DEC-074056-0-000-14-05-1974@@@
-
 DECRETO Nº 74.056, DE 14 DE MAIO DE 1974.
 
 Declara de Utilidade Pública para fins de Desapropriação Total ou Parcial ou Instituição de Servidão, em favor da Petróleo Brasileiro S. A. - PETROBRÁS, Imóveis e Benfeitorias Situados nos Municípios de Barueri, Osasco, São Paulo e São Bernardo do Campo, no Estado de São Paulo.

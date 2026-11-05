@@ -1,5 +1,3 @@
-###DEC-046049-0-000-18-05-1959@@@
-
 DECRETO Nº 46.049, DE 18 DE maio DE 1959.
 
 Autoriza o cidadão brasileiro Otto Antônio de Carvalho a pesquisar mica no município de Virgolândia, Estado de Minas Gerais.

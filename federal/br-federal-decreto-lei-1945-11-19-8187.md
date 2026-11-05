@@ -1,5 +1,3 @@
-###DEL-008187-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.187 – DE 19 DE NOVEMBRO DE 1945
 
 Dispõe sòbre o pessoal em exercício no extinto Tribunal de Segurança Nacional.

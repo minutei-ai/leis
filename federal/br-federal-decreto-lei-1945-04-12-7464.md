@@ -1,5 +1,3 @@
-###DEL-007464-0-000-12-04-1945@@@
-
 DECRETO-LEI N. 7.464 – DE 12 DE ABRIL DE 1945
 
 Abre ao Ministério do Trabalho, Indústrias e Comércio o crédito suplementar de Cr$ 655. 000,00, às verbas que especifica

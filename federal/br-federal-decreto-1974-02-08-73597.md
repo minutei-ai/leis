@@ -1,5 +1,3 @@
-###DEC-073597-0-000-08-02-1974@@@
-
 DECRETO nº 73.597, de 8 de Fevereiro de1974.
 
 Altera o Decreto nº 67.174, de 11 de Setembro de 1970, que declara de utilidade pública, para fins de desapropriação, o imóvel denominado "Edifício Poty", situado à rua Vigário José Ignácio nº 303, em Porto Alegre - RS, destinado à instalação da Delegacia Federal de Saúde, do Ministério da Saúde.

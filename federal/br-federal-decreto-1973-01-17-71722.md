@@ -1,5 +1,3 @@
-###DEC-071722-0-000-17-01-1973@@@
-
 DECRETO Nº 71.722, DE 17 DE JANEIRO DE 1973.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão, no Estado de Goiás.

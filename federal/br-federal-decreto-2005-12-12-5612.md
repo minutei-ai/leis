@@ -1,5 +1,3 @@
-###DEC-005612-0-000-12-12-2005@@@
-
 DECRETO Nº 5.612, DE 12 DE DEZEMBRO DE 2005.
 
 Regulamenta o parcelamento dos débitos dos municípios, relativos às contribuições sociais de que tratam as alíneas "a" e "c" do parágrafo único do art. 11, da Lei nº 8.212, de 24 de julho de 1991, instituído pelos arts. 96 a 103 da Lei nº 11.196, de 21 de novembro de 2005.

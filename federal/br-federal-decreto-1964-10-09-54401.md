@@ -1,5 +1,3 @@
-###DEC-054401-0-000-09-10-1964@@@
-
 decreto nº 54.401, de 9 de outubro de 1964.
 
 Cria Comissão Especial de Estudos de Reforma Administrativa e dá outras providências.

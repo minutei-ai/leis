@@ -1,5 +1,3 @@
-###DEC-002733-0-000-11-08-1998@@@
-
 DECRETO Nº 2.733, DE 11 DE AGOSTO DE 1998
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

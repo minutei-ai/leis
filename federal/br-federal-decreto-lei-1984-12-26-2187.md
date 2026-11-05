@@ -1,5 +1,3 @@
-###DEL-002187-0-000-26-12-1984@@@
-
 # decreto-lei nº 2.187, de 26 de dezembro de 1984
 
 Altera dispositivo do Decreto-lei nº 1341, de 22 de agosto de 1974.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095619-0-000-12-01-1988@@@
-
 DECRETO N° 95.619, DE 12 DE JANEIRO DE 1988
 
 Declara de utilidade pública a instituição que menciona.

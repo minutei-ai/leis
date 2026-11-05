@@ -1,5 +1,3 @@
-###MPV-000284-0-000-06-03-2006@@@
-
 MEDIDA PROVISÓRIA Nº 284, DE 6 DE MARÇO DE 2006.
 
 Altera dispositivos das Leis nºs 9.250, de 26 de dezembro de 1995, e 8.212, de 24 de julho de 1991.

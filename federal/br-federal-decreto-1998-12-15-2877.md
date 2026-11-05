@@ -1,5 +1,3 @@
-###DEC-002877-0-000-15-12-1998@@@
-
 DECRETO Nº 2.877, DE 15 DE DEZEMBRO DE 1998.
 
 Altera o Decreto nº 2.369, de 10 de novembro de 1997, que regulamenta a Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.

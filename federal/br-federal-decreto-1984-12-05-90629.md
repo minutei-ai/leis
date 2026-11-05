@@ -1,5 +1,3 @@
-###DEC-090629-0-000-05-12-1984@@@
-
 Decreto nº 90.629, de 05 de dezembro de 1984
 
 Autoriza o funcionamento do curso de Administração do Instituto Mineiro de Ciências Administrativas e Tecnológicas, em Belo Horizonte, Minas Gerais.

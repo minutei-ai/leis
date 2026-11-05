@@ -1,5 +1,3 @@
-###DEC-073940-0-000-16-04-1974@@@
-
 DECRETO Nº 73.940, DE 16 DE ABRIL DE 1974.
 
 Declara sem efeito o Decreto número 45.319, de 27 de janeiro de 1959, retificado pelo 46.750, de 26 de agosto de 1959, alterado pelo 47.759, de 4 de fevereiro de 1960.

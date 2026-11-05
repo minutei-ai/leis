@@ -1,5 +1,3 @@
-###DEL-008039-0-000-04-10-1945@@@
-
 DECRETO-LEI N. 8.039 – DE 4 DE OUTUBRO DE 1945
 
 Altera as tabelas anexas ao Decreto-lei nº 6.841, de ll de março de 1944.

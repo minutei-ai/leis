@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211282)<br>
-
 # DECRETO N° 69.772, DE 11 DE AGOSTO DE 2025
 
 ### _Declara de interesse social, para fins de desapropriação pela Companhia de Desenvolvimento Habitacional e Urbano do Estado de São Paulo - CDHU, os imóveis necessários à implantação do Programa Habitacional e de Desenvolvimento Urbano para famílias de baixa renda, no Município de São Paulo, e dá providências correlatas._

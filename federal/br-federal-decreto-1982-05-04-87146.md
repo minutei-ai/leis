@@ -1,5 +1,3 @@
-###DEC-087146-0-000-04-05-1982@@@
-
 decreto nº 87.146, de 04 de maio de 1982.
 
 Concede à Telecomunicações do Paraná S.A. - TELEPAR, empresa controlada da Telecomunicações Brasileiras S.A.-TELEBRÁS, autorização para emitir debêntures conversíveis em ações e para promover aumento respectivo de seu capital social.

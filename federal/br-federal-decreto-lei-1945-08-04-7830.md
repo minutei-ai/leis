@@ -1,5 +1,3 @@
-###DEL-007830-0-000-04-08-1945@@@
-
 DECRETO-LEI N. 7.830 – DE 4 DE AGÔSTO DE 1945
 
 Abre crédito suplementar ao Ministério da Fazenda

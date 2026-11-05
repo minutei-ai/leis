@@ -1,5 +1,3 @@
-###DEC-045595-0-000-23-03-1959@@@
-
 DECRETO Nº 45.595, DE 23 DE MARÇO DE 1959.
 
 Declara de utilidade pública a “Associação Comercial e Industrial de Blumenau”, com sede em Blumenau, Estado de Santa Catarina.

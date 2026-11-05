@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/3c434fd1-52aa-47ef-ade3-974b23d11e10/texto#nowhere)
 
-###DEL-001842-0-000-29-12-1980@@@
-
 # Decreto-lei nº 1.842, de 29 de dezembro de 1980
 
 Acrescenta parágrafo único ao artigo 18 do Decreto-lei nº 1.801, de 18 de agosto de 1980, que consolida a legislação sobre o Adicional ao Frete para Renovação da Marinha Mercante e o Fundo da Marinha Mercante.

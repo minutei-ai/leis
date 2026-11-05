@@ -1,5 +1,3 @@
-###DEC-079404-0-000-16-03-1977@@@
-
 DECRETO Nº 79.404, DE 16 DE MARÇO DE 1977.
 
 Concede reconhecimento ao curso de Educação Física, da Universidade de Brasília.

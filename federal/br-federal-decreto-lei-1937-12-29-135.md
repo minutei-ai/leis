@@ -1,5 +1,3 @@
-###DEL-000135-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 135 – DE 29 DE DEZEMBRO DE 1937
 
 Abre, pela Prefeitura do Districto Federal, o crédito especial de réis 120:000$000 para despesas com, pessoal, na Diretoria de Trabalho, Matas e Jardins, da Secretaria Geral, de Viação, Trabalho e Obras Públicas, e dá outras providências

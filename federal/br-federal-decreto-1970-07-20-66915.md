@@ -1,5 +1,3 @@
-###DEC-066915-0-000-20-07-1970@@@
-
 decreto nº 66.915, de 20 de julho de 1970.
 
 Declara caduco o Decreto nº 27.677, de 5 de janeiro de 1950.

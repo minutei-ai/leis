@@ -1,5 +1,3 @@
-###MPV-000380-0-000-28-06-2007@@@
-
 MEDIDA PROVISÓRIA Nº 380, DE 28 DE JUNHO DE 2007.
 
 Institui o Regime de Tributação Unificada - RTU na importação, por via terrestre, de mercadorias procedentes do Paraguai.
@@ -165,5 +163,3 @@ DAS DISPOSIÇÕES FINAIS
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 29.6.2007

@@ -1,5 +1,3 @@
-###DEC-088782-0-000-30-09-1983@@@
-
 Decreto nº 88.782, de 30 de setembro de 1983.
 
 Cria o 1º Batalhão de Forças Especiais, no Ministério do Exército e dá outras providências.

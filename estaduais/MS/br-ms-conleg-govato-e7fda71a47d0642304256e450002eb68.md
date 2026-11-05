@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:25:04.000Z"
 sha256_fonte: "9cf94a7e5770660e012c4109992d0aed671879f80e2ed8bbcec9c131bf0bb0d6"
 sha256_markdown: "2fc569b07df9c7234a5b43b0d8ed0cf30b2f418092357823634aeb06f46c88cd"
 ---
-
 # LEI Nº 1.064, DE 3 DE JULHO DE 1990.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,20 +20,28 @@ Autoriza o Poder Executivo a abrir créditos suplementares ao Orçamento do Esta
 
 Publicada no Diário Oficial nº 2.841, de 4 de julho de 1990.
 
-**O Governador do Estado de Mato Grosso do Su**l, faço saber que a<br>
-Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º - Fica o Poder Executivo autorizado a abrir ao Orçamento<br>
-Geral de 1.990, créditos suplementares até o limite de Cr$<br>
-30.400.000.000,00 (trinta bilhões e quatrocentos milhões de<br>
-cruzeiros) utilizando como recursos compensatórios as fontes<br>
-referidas no parágrafo 1º, incisos I a IV, do artigo 43, da Lei<br>
-Federal nº 4.320, de 17 de março de 1.964.<br>
-<br>
-Art. 2º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 3 de julho de 1990.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
+**O Governador do Estado de Mato Grosso do Su**l, faço saber que a
+
+Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º - Fica o Poder Executivo autorizado a abrir ao Orçamento
+
+Geral de 1.990, créditos suplementares até o limite de Cr$
+
+30.400.000.000,00 (trinta bilhões e quatrocentos milhões de
+
+cruzeiros) utilizando como recursos compensatórios as fontes
+
+referidas no parágrafo 1º, incisos I a IV, do artigo 43, da Lei
+
+Federal nº 4.320, de 17 de março de 1.964.
+
+Art. 2º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 3 de julho de 1990.
+
+MARCELO MIRANDA SOARES
+
 Governador

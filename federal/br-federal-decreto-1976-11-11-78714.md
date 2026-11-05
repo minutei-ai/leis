@@ -1,5 +1,3 @@
-###DEC-078714-0-000-11-11-1976@@@
-
 Decreto Nº 78.714, DE 11 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Medicina, da Faculdade de Medicina de Barbacena, com sede na Cidade de Barbacena, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000773-0-000-17-03-1993@@@
-
 DECRETO N° 773, DE 17 DE MARÇO DE 1993
 
 Aprova o estatuto e transforma cargos em comissão e funções de confiança da Fundação Escola Nacional de Administração Pública ENAP, e dá outras providências.

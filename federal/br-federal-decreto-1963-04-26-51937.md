@@ -1,5 +1,3 @@
-###DEC-051937-0-000-26-04-1963@@@
-
 DECRETO Nº 51.937, DE 26 DE ABRIL DE 1963.
 
 Autoriza a cidadã brasileira Maria Paschoal de Melo a pesquisar fosforita no município de Paulista, Estado de Pernambuco.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001145-0-000-20-05-1994@@@
-
 DECRETO N° 1.145, DE 20 DE MAIO DE 1994
 
 Dispõe sobre os Quadros do Corpo de Oficiais da Ativa da Aeronáutica.

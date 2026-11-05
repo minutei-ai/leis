@@ -1,5 +1,3 @@
-###DEC-083690-0-000-04-07-1979@@@
-
 Decreto nº 83.690, de 04 de julho de 1979.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Guanhães, Estado de Minas Gerais.

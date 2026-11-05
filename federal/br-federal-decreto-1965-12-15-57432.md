@@ -1,5 +1,3 @@
-###DEC-057432-0-000-15-12-1965@@@
-
 DECRETO Nº 57.432, de 15 de dezembro de 1965.
 
 Concede à sociedade Tibagi Transportes Marítimos Ltda. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

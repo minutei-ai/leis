@@ -1,5 +1,3 @@
-###DEC-084429-0-000-24-01-1980@@@
-
 DECRETO Nº 84.429, DE 24 DE JANEIRO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

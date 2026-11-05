@@ -1,5 +1,3 @@
-###DEC-066613-0-000-21-05-1970@@@
-
 decreto nº 66.613, de 21 de maio de 1970.
 
 Autoriza o Govêrno do Estado do Rio de Janeiro a encampar o bens e instalações vinculados aos serviços públicos de energia elétrica do Município de Bom Jardim, Estado do Rio de Janeiro, e dá outras providências.

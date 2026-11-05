@@ -1,5 +1,3 @@
-###DEC-070913-0-000-02-08-1972@@@
-
 DECRETO Nº 70.913, DE 2 DE AGOSTO DE 1972.
 
 Dispõe sobre a transformação em sociedade de economia mista da Empresa Brasileira de Telecomunicações - EMBRATEL.

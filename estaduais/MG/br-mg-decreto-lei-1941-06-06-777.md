@@ -23,7 +23,3 @@ BENEDITO VALADARES RIBEIRO
 Odilon Dias Pereira
 
 Ovídio Xavier de Abreu
-
-\===================================================
-
-Data da última atualização: 28/4/2026.

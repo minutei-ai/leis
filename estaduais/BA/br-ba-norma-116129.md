@@ -26,20 +26,22 @@ Jorge Lins Freire
 
 ANEXO
 
-<table border="1" cellspacing="0" cellpadding="0" width="444" style="width:333.15pt;
- margin-left:28.35pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0in 5.4pt 0in 5.4pt"><tbody><tr><td width="246" valign="top" style="width:184.3pt;border:solid black .5pt;
-  padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>DENOMINAÇÃO DO CARGO<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>VENCIMENTO MENSAL<quebra></quebra></span></p></td></tr><tr><td width="246" valign="top" style="width:184.3pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Médico Classe II<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.235,60<quebra></quebra></span></p></td></tr><tr><td width="246" valign="top" style="width:184.3pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Médico Classe I<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.026,80<quebra></quebra></span></p></td></tr><tr><td width="246" valign="top" style="width:184.3pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Médico Legista Classe II<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.235,60<quebra></quebra></span></p></td></tr><tr><td width="246" valign="top" style="width:184.3pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>Médico Legista Classe I<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0in 5.4pt 0in 5.4pt"><p class="Tabela-Texto"><span>2.026,80<quebra></quebra></span></p></td></tr></tbody></table>
+DENOMINAÇÃO DO CARGO<quebra></quebra>
+
+VENCIMENTO MENSAL<quebra></quebra>
+
+Médico Classe II<quebra></quebra>
+
+2.235,60<quebra></quebra>
+
+Médico Classe I<quebra></quebra>
+
+2.026,80<quebra></quebra>
+
+Médico Legista Classe II<quebra></quebra>
+
+2.235,60<quebra></quebra>
+
+Médico Legista Classe I<quebra></quebra>
+
+2.026,80<quebra></quebra>

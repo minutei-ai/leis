@@ -1,5 +1,3 @@
-###DEC-052483-0-000-19-09-1963@@@
-
 DECRETO Nº 52.483, DE 19 DE SETEMBRO DE 1963.
 
 Aprova a alteração introduzidas nos Estatutos da “A Marítima” - Companhia de Seguros Gerais, relativa ao aumento de capital.

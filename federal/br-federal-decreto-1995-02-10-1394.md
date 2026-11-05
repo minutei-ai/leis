@@ -1,7 +1,3 @@
-1
-
-###DEC-001394-0-000-10-02-1995@@@
-
 DECRETO Nº 1.394, DE 10 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial nº 3, entre Brasil e Chile, de 15 de julho de 1994.

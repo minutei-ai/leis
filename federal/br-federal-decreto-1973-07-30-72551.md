@@ -1,5 +1,3 @@
-###DEC-072551-0-000-30-07-1973@@@
-
 DECRETO Nº 72.551, DE 30 DE JULHO DE 1973.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Pesquisa de Recursos Minerais - C.P.R.M.

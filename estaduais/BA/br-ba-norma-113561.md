@@ -38,131 +38,20 @@ Julio Gadelha
 
 TABELA Nº 1
 
-<table border="0" cellspacing="0" cellpadding="0" width="350" style="width:262.25pt;
- margin-left:99.25pt;border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="350" colspan="2" valign="top" style="width:262.25pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>PESSOAL<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Coronel Comandante<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun: yes">&nbsp; </span>3<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Coronéis<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>10<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Tenentes Coronéis, inclusive 2 dos Serviços<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>13<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Majores, inclusive 4 dos Serviços<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>44<span style="mso-spacerun: yes">&nbsp;</span><quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Capitães, sendo 15 dos serviços, inclusive 1 mecânico<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>46<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Primeiros Tenentes, inclusive 16 dos Serviços<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>37<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><span style="mso-spacerun:
-  yes">&nbsp;</span>Segundos Tenentes, inclusive 10 dos Serviços<quebra></quebra></span></p></td></tr><tr><td width="39" valign="top" style="width:29.0pt;border:solid black .75pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>154<quebra></quebra></span></p></td><td width="311" valign="top" style="width:233.25pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> PESSOAL<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> &nbsp;Coronel Comandante<quebra></quebra> </td></tr><tr><td valign="top"> &nbsp; 3<quebra></quebra> </td><td valign="top"> &nbsp;Coronéis<quebra></quebra> </td></tr><tr><td valign="top"> 10<quebra></quebra> </td><td valign="top"> &nbsp;Tenentes Coronéis, inclusive 2 dos Serviços<quebra></quebra> </td></tr><tr><td valign="top"> 13<quebra></quebra> </td><td valign="top"> &nbsp;Majores, inclusive 4 dos Serviços<quebra></quebra> </td></tr><tr><td valign="top"> 44&nbsp;<quebra></quebra> </td><td valign="top"> &nbsp;Capitães, sendo 15 dos serviços, inclusive 1 mecânico<quebra></quebra> </td></tr><tr><td valign="top"> 46<quebra></quebra> </td><td valign="top"> &nbsp;Primeiros Tenentes, inclusive 16 dos Serviços<quebra></quebra> </td></tr><tr><td valign="top"> 37<quebra></quebra> </td><td valign="top"> &nbsp;Segundos Tenentes, inclusive 10 dos Serviços<quebra></quebra> </td></tr><tr><td valign="top"> 154<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA Nº 2
 
-<table border="1" cellspacing="0" cellpadding="0" width="302" style="width:8.0cm;
- margin-left:92.15pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="302" colspan="2" valign="top" style="width:8.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>PESSOAL<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>47<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Sub-tenentes<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>96<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Primeiros Sargentos<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>185<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Segundos Sargentos<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>300<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Terceiros Sargentos<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>427<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Cabos<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>59<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Soldados corneteiros<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>2.837<quebra></quebra></span></u></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Soldados<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>3.951<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>95<quebra></quebra></span></u></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Alunos da Escola de Formação de Oficiais<quebra></quebra></span></p></td></tr><tr><td width="48" valign="top" style="width:36.1pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>95<quebra></quebra></span></p></td><td width="254" valign="top" style="width:190.7pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> PESSOAL<quebra></quebra> </td></tr><tr><td valign="top"> 47<quebra></quebra> </td><td valign="top"> Sub-tenentes<quebra></quebra> </td></tr><tr><td valign="top"> 96<quebra></quebra> </td><td valign="top"> Primeiros Sargentos<quebra></quebra> </td></tr><tr><td valign="top"> 185<quebra></quebra> </td><td valign="top"> Segundos Sargentos<quebra></quebra> </td></tr><tr><td valign="top"> 300<quebra></quebra> </td><td valign="top"> Terceiros Sargentos<quebra></quebra> </td></tr><tr><td valign="top"> 427<quebra></quebra> </td><td valign="top"> Cabos<quebra></quebra> </td></tr><tr><td valign="top"> 59<quebra></quebra> </td><td valign="top"> Soldados corneteiros<quebra></quebra> </td></tr><tr><td valign="top"> 2.837<quebra></quebra> </td><td valign="top"> Soldados<quebra></quebra> </td></tr><tr><td valign="top"> 3.951<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> <quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr><tr><td valign="top"> 95<quebra></quebra> </td><td valign="top"> Alunos da Escola de Formação de Oficiais<quebra></quebra> </td></tr><tr><td valign="top"> 95<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA Nº 3
 
-<table border="1" cellspacing="0" cellpadding="0" width="227" style="width:6.0cm;
- margin-left:106.35pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="227" colspan="2" valign="top" style="width:6.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>JUSTIÇA MILITAR<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auditor<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Substituto de Auditor<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Promotor<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Advogado<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Escrivão<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><u><span>1<quebra></quebra></span></u></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Oficial de Justiça<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>6<quebra></quebra></span></p></td><td width="198" valign="top" style="width:148.2pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> JUSTIÇA MILITAR<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Auditor<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Substituto de Auditor<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Promotor<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Advogado<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Escrivão<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Oficial de Justiça<quebra></quebra> </td></tr><tr><td valign="top"> 6<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 TABELA Nº 4
 
-<table border="1" cellspacing="0" cellpadding="0" width="265" style="width:7.0cm;
- margin-left:106.35pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="265" colspan="2" valign="top" style="width:7.0cm;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>FUNCIONÁRIOS CIVIS MENSALISTAS<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>4<quebra></quebra></span></p></td><td width="235" valign="top" style="width:176.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Internos<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>9<quebra></quebra></span></p></td><td width="235" valign="top" style="width:176.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Artífices<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>5<quebra></quebra></span></p></td><td width="235" valign="top" style="width:176.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliares de Portaria<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>2<quebra></quebra></span></p></td><td width="235" valign="top" style="width:176.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Auxiliares de Escritório<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>20<quebra></quebra></span></p></td><td width="235" valign="top" style="width:176.55pt;border-top:none;border-left:
-  none;border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> FUNCIONÁRIOS CIVIS MENSALISTAS<quebra></quebra> </td></tr><tr><td valign="top"> 4<quebra></quebra> </td><td valign="top"> Internos<quebra></quebra> </td></tr><tr><td valign="top"> 9<quebra></quebra> </td><td valign="top"> Artífices<quebra></quebra> </td></tr><tr><td valign="top"> 5<quebra></quebra> </td><td valign="top"> Auxiliares de Portaria<quebra></quebra> </td></tr><tr><td valign="top"> 2<quebra></quebra> </td><td valign="top"> Auxiliares de Escritório<quebra></quebra> </td></tr><tr><td valign="top"> 20<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
-<table border="0" cellspacing="0" cellpadding="0" width="274" style="width:205.5pt;
- margin-left:106.35pt;border-collapse:collapse;mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="274" colspan="2" valign="top" style="width:205.5pt;border:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>NÍVEL UNIVERSITÁRIO<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border-top:none;border-left:solid black .75pt;
-  border-bottom:none;border-right:solid black .75pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="245" valign="top" style="width:183.6pt;border:none;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Dentista<quebra></quebra></span></p></td></tr><tr><td width="29" valign="top" style="width:21.9pt;border:solid black .75pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>1<quebra></quebra></span></p></td><td width="245" valign="top" style="width:183.6pt;border-top:none;border-left:
-  none;border-bottom:solid black .75pt;border-right:solid black .75pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span><quebra></quebra></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> NÍVEL UNIVERSITÁRIO<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> Dentista<quebra></quebra> </td></tr><tr><td valign="top"> 1<quebra></quebra> </td><td valign="top"> <quebra></quebra> </td></tr></tbody></table>
 
 * * *

@@ -1,5 +1,3 @@
-###DEC-053579-0-000-21-02-1964@@@
-
 DECRETO Nº 53.579, DE 21 DE FEVEREIRO DE 1964.
 
 Determina providencias para a comemoração do centenário de morte de Antonio Gonçalves Dias.

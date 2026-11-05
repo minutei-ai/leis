@@ -1,7 +1,3 @@
-1
-
-###DEC-000260-0-000-29-10-1991@@@
-
 DECRETO N° 260, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da área Indígena Macarrão, no Estado do Amazonas.

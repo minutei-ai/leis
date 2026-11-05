@@ -1,5 +1,3 @@
-###DEC-088175-0-000-10-03-1983@@@
-
 Decreto nº 88.175, de 10 de março de 1983
 
 Outorga concessão à TV VALE DO ITAJAI LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão) na cidade de Itajaí, Estado de Santa Catarina.

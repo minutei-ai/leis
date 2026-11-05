@@ -1,7 +1,3 @@
-1
-
-###DEL-002399-0-000-21-12-1987@@@
-
 # DECRETO-LEI N° 2.399, DE 21 DE DEZEMBRO DE 1987
 
 Dispõe sobre a transferência das ações representativas do capital da Companhia Brasileira de Trens Urbanos (CBTU), de seus bens e dá outras providências.

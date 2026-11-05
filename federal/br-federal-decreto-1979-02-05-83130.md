@@ -1,5 +1,3 @@
-###DEC-083130-0-000-05-02-1979@@@
-
 Decreto nº 83.130, de 05 de fevereiro de 1979
 
 Autoriza a conversão do curso de Engenharia de Operação, modalidade Eletricidade, na habilitação Engenharia Elétrica, do curso de Engenharia, ministrado pela Faculdade de Engenharia de Ituiutaba, com sede na cidade de Ituiutaba, Estado de Minas Gerais.

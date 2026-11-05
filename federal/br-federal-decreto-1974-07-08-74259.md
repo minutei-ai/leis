@@ -1,5 +1,3 @@
-###DEC-074259-0-000-08-07-1974@@@
-
 DECRETO Nº 74.259 - DE 8 DE JULHO DE 1974.
 
 Concede reconhecimento à Faculdade de Ciências Humanas do Instituto Metodista de Ensino Superior, com sede na cidade de São Bernardo do Campo, Estado de São Paulo.

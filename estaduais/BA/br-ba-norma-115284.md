@@ -10,7 +10,8 @@ I -    a aquisição de veículos automóveis de fabricação nacional, com c
 
 II -    o custeio de veículos automóveis de propriedade daqueles servidores, quando utilizados em serviço, à base de quilômetro percorrido, mediante reembolso mensal.
 
-Redação de acordo com a Lei nº 2.957, de 11 de outubro de 1971.<br>
+Redação de acordo com a Lei nº 2.957, de 11 de outubro de 1971.
+
 Redação original: "Art. 1º - O Governo do Estado financiará, para funcionários de nível universitário da Secretaria da Agricultura ou técnicos vinculados a seus programas específicos, veículos da fabricação nacional, com cláusulas de reserva de domínio."
 
 § 1º - Consideram-se veículos financiáveis para os efeitos previstos neste artigo os dos seguintes tipos: jeep, caminhoneta rural, pick-up, kombi e sedan volkswagem.
@@ -53,4 +54,4 @@ Edson Marques
 
 (\*) Republicada por haver saído com incorreções.
 
-* * *
+ *

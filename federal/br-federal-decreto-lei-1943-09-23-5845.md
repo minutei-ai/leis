@@ -1,5 +1,3 @@
-###DEL-005845-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.845 – DE 23 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.000.000,00 para a Coordenação da Mobilização Econômica
@@ -14,7 +12,9 @@ PESSOAL
 
                                                                                                                                              Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para pagamento de serviços tarefados..................................................................................</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>800.00000</span></p></td></tr></tbody></table>
+Para pagamento de serviços tarefados..................................................................................
+
+800.00000
 
 MATERIAL
 
@@ -22,11 +22,17 @@ Material Permanente
 
                                                                   Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Móveis e artigos de ornamentação.............................................</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>15.000,00</span></p></td></tr><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquinas, aparêlhos e utensílios de escritório e biblioteca................</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">18.000,00</span><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>33.000,00</span></p></td></tr><tr><td style="width:482.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>&nbsp;</span></p></td></tr></tbody></table>
+Móveis e artigos de ornamentação.............................................             15.000,00
+
+Máquinas, aparêlhos e utensílios de escritório e biblioteca................     18.000,00                          33.000,00
 
 Material de Consumo
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:478.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Artigos de expediente, desenho, ensino e educação; artigos</span></p></td></tr><tr><td style="width:478.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>escolares; fichas e livros de escrituração; impressos e</span></p></td></tr><tr><td style="width:478.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>material de classificação................................................................................................. 20.000,00</span></p></td></tr></tbody></table>
+Artigos de expediente, desenho, ensino e educação; artigos
+
+escolares; fichas e livros de escrituração; impressos e
+
+material de classificação................................................................................................. 20.000,00
 
 Diversas Despesas
 

@@ -1,5 +1,3 @@
-###DEC-091794-0-000-17-10-1985@@@
-
 Decreto nº 91.794, de 17 de OUtubro de 1985
 
 Dispõe sobre a requisição, em caráter excepcional e temporária, de servidores de Administração Federal Direta e das autarquias federais, para o exercício de funções de confiança do Grupo Direção e Assistência Intermediárias - DAI, nos órgãos que especifica, e dá outras Providências.

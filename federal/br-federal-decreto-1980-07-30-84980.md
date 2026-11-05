@@ -1,5 +1,3 @@
-###DEC-084980-0-000-30-07-1980@@@
-
 Decreto nº 84.980, de 30 de julho de 1980.
 
 Autoriza o aumento da potência da RÁDIO MARCELINO RAMOS LTDA., na cidade de Marcelino Ramos, Estado do Rio Grande do Sul.

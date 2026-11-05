@@ -1,5 +1,3 @@
-###DEL-007394-0-000-19-03-1945@@@
-
 DECRETO-LEI N. 7.394 – DE 19 DE MARÇO DE 1945
 
 Acrescenta um parágrafo ao art. 3º do Decreto-lei n.º 7.333, do 22 de fevereiro de 1945.

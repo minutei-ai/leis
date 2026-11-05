@@ -1,5 +1,3 @@
-###DEL-000577-0-000-08-05-1969@@@
-
 DECRETO-LEI N 577 DE 8 DE MAIO DE 1969
 
 Concede pensões especiais aos beneficiários dos membros da Expedição “Calleri”, falecidos em missão de pacificação dos índios Atroari.

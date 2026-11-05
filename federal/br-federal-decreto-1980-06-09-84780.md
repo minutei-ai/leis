@@ -1,5 +1,3 @@
-###DEC-084780-0-000-09-06-1980@@@
-
 Decreto nº 84.780, de 09 de junho de 1980.
 
 Altera o Decreto nº 79.031, de 23 de dezembro de 1976, que dispõe sobre o Regulamento do Estado-Maior das Forças Armadas, e dá outras providências.

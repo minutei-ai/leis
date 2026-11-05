@@ -1,5 +1,3 @@
-###DEC-061560-0-000-18-10-1967@@@
-
 DECRETO Nº 61.560, DE 18 DE OUTUBRO DE 1967.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado na Estado da Guanabara.

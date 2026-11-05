@@ -1,5 +1,3 @@
-###DEC-047163-0-000-03-11-1959@@@
-
 DECRETO Nº 47.163,DE 3 DE Novembro DE 1959.
 
 Cria o Consulado do Brasil em Gdynia.

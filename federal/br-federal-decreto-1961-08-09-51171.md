@@ -1,5 +1,3 @@
-###DEC-051171-0-000-09-08-1961@@@
-
 decreto nº 51.171, de 9 de AGôSTO de 1961.
 
 Dispõe sôbre a criação do Grupo de Trabalho.

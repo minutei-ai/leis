@@ -1,5 +1,3 @@
-###DEC-071906-0-000-14-03-1973@@@
-
 DECRETO Nº 71.906, DE 14 DE MARÇO DE 1973.
 
 Concede à Companhia de Estanho Minas Brasil o direito de lavrar cassiterita, tântalo, columbita e djalmaita nos Municípios de Cassiterita e Ritápolis, Estado de Minas Gerais.

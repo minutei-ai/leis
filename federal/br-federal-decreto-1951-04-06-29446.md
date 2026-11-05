@@ -1,10 +1,8 @@
-###DEC-029446-0-000-06-04-1951@@@
+**DECRETO N.º 29.446, DE 6 DE ABRIL DE 1951.**
 
-<strong>DECRETO N.º 29.446, DE 6 DE ABRIL DE 1951.</strong>
+***Atribui funções à Comissão Nacional de Alimentação.***
 
-<em><strong>Atribui funções à Comissão Nacional de Alimentação.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição;
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição;
 
 CONSIDERANDO que a Comissão Nacional de Alimentação, criada pelo Decreto-lei, n.º 7.328, de 17 de fevereiro de 1945, e transferência para o Ministério da Educação e Saúde por fôrça da Educação do art. 14 da Lei n.º 970, de 16 dezembro 1949, tem por objetivo fundamental o estudo de todos os assuntos que se prendem à alimentação da população brasileira;
 
@@ -18,7 +16,7 @@ Art. 2.º O presente Decreto entrará em vigor na data de sua publicação, revo
 
 Rio de janeiro, em 6 de abril de 1951; 130º da Independência e 63.º da República.
 
-<strong>GETÚLIO VARGAS.</strong>
+**GETÚLIO VARGAS.**
 
 E. Simões Filho.
 

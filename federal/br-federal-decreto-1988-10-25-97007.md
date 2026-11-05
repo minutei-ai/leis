@@ -1,5 +1,3 @@
-###DEC-097007-0-000-25-10-1988@@@
-
 DECRETO Nº 97.007, DE 25 DE OUTUBRO DE 1988
 
 Delega competência ao Ministro Chefe do Gabinete Civil para prática do ato que menciona.

@@ -1,6 +1,7 @@
 LEI Nº 5.026 DE 13 DE JUNHO DE 1989
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.365](https://www.legislabahia.ba.gov.br/documentos/lei-no-13365-de-29-de-junho-de-2015#LO%2013.365) de 29 de junho de 2015 - Atualiza os limites dos municípios de Andorinha, Antônio Gonçalves, Caldeirão Grande, Campo Formoso, Filadélfia, Jaguarari, Pindobaçu e Senhor do Bonfim, na forma da Lei nº 12.057, de 11 de janeiro de 2011.
 
 Cria o Município de Andorinha, desmembrado do Município de Senhor do Bonfim e dá outras providências.

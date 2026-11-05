@@ -1,5 +1,3 @@
-###DEC-084757-0-000-30-05-1980@@@
-
 DECRETO Nº 84.757, DE 30 DE MAIO DE 1980.
 
 Cria a Embaixada do Brasil em Salisbury, República do Zimbábue.

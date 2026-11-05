@@ -1,5 +1,3 @@
-###DEC-059558-0-000-11-11-1966@@@
-
 DECRETO Nº 59.558, de 11 de novembro de 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar grafita e cianita no município de Minas Novas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-099733-0-000-26-11-1990@@@
-
 DECRETO Nº 99.733, DE 26 DE NOVEMBRO DE 1990
 
 Institui a Comissão de Planejamento dos” Rallies” de Integração Sul-Americana, sob a coordenação do Estado-Maior das Forças Armadas EMFA.

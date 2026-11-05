@@ -1,5 +1,3 @@
-###DEL-004865-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.865 – DE 23 DE OUTUBRO DE 1942
 
 Proibe a suspensão condicional da pena imposta aos estrangeiros que se encontrem no país em carater temporário

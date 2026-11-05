@@ -1,5 +1,3 @@
-###DEC-082781-0-000-01-12-1978@@@
-
 Decreto nº 82.781, de 1º de dezembro de 1978.
 
 Concede à empresa EATON CORPORATION autorização para funcionar na República Federativa do Brasil sob a denominação social de EATON CORPORATION DO BRASIL.

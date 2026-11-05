@@ -1,5 +1,3 @@
-###DEC-052539-0-000-30-09-1963@@@
-
 Decreto nº 52.539, de 30 de setembro de 1963.
 
 Outorga ao Estado do Paraná concessão para distribuir energia elétrica ao município de Mandirituba.

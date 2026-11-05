@@ -1,5 +1,3 @@
-###DEC-057020-0-000-11-10-1965@@@
-
 Decreto nº 57.020, de 11 de outubro de 1965.
 
 Dispõe sôbre a concessão de terra ao trabalhador rural da lavoura canavieira e dá outras providências.

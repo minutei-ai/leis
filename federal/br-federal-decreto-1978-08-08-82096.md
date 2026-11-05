@@ -1,5 +1,3 @@
-###DEC-082096-0-000-08-08-1978@@@
-
 DECRETO Nº 82.096, DE 08 de AGOSTO DE 1978.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Estado do Rio Grande do Sul.

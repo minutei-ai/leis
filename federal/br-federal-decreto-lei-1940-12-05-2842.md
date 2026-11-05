@@ -1,5 +1,3 @@
-###DEL-002842-0-000-05-12-1940@@@
-
 DECRETO-LEI N. 2.842 – DE 5 DE DEZEMBRO DE 1940
 
 Abre, pelo Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de 5:000$0 á verba que especifica

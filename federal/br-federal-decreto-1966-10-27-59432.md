@@ -1,5 +1,3 @@
-###DEC-059432-0-000-27-10-1966@@@
-
 DECRETO Nº 59.432, DE 27 DE OUTUBRO DE 1966.
 
 Concede à sociedade Navegação de Cabotagem Caiuá Ltda, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

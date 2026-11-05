@@ -1,5 +1,3 @@
-###DEC-055663-0-000-01-02-1965@@@
-
 Decreto nº 55.663, de 1º de Fevereiro de 1965.
 
 Concede autorização para o funcionamento da Escola Médica do Rio de Janeiro.

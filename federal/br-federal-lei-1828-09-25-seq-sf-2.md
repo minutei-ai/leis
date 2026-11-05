@@ -1,5 +1,3 @@
-###LEI-000000-0-002-25-09-1828@@@
-
 LEI - DE 25 DE SETEMBRO DE 1828
 
 Revoga o Alvará de 5 de Janeiro de 1757 na parte relativa á suspeição dos Ministros ou Officiaes de Justiça, Fazenda e Guerra, accionistas de companhias mercantes.

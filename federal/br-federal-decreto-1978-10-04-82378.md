@@ -1,5 +1,3 @@
-###DEC-082378-0-000-04-10-1978@@@
-
 Decreto nº82 378, de 04 de outubro de 1978.
 
 Concede reconhecimento ao curso de Engenharia de Operação ministrado em Coronel Fabriciano pela Universidade Católica de Minas Gerais, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

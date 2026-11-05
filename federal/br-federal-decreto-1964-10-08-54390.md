@@ -1,5 +1,3 @@
-###DEC-054390-0-000-08-10-1964@@@
-
 DECRETO Nº 54.390, DE 8 DE OUTUBRO DE 1964.
 
 Declara de utilidade pública, para efeito de desapropriação pela Comissão do Vale do São Francisco, a área que menciona.

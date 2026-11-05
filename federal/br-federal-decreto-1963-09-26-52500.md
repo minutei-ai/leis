@@ -1,5 +1,3 @@
-###DEC-052500-0-000-26-09-1963@@@
-
 DECRETO Nº 52.500, DE 26 DE SETEMBRO DE 1963
 
 Dispõe sobre a obrigatoriedade de pronunciamento do Ministério da Fazenda em proposições que impliquem em realização de despesas.

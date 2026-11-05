@@ -1,5 +1,3 @@
-###DEC-064881-0-000-25-07-1969@@@
-
 DECRETO Nº 64.881 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 21.259 de 11 de junho de 1946.

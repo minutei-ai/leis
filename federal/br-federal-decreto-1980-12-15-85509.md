@@ -1,5 +1,3 @@
-###DEC-085509-0-000-15-12-1980@@@
-
 Decreto nº 85.509, de 15 de dezembro de 1980.
 
 Altera dispositivos do Regulamento Interno dos Serviços da Aeronáutica (RISAER).

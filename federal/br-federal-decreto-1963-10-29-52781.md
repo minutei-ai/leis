@@ -1,5 +1,3 @@
-###DEC-052781-0-000-29-10-1963@@@
-
 DECRETO Nº 52.781, DE 29 DE OUTUBRO DE 1963.
 
 Concede honras de Ministro de Estado a militar falecido.

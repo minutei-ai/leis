@@ -1,5 +1,3 @@
-###DEC-086238-0-000-30-07-1981@@@
-
 Decreto nº 86.238, de 30 de julho de 1981
 
 Declara de utilidade pública as instituições que menciona.

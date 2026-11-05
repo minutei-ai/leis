@@ -1,5 +1,3 @@
-###DEC-094686-0-000-27-07-1987@@@
-
 DECRETO N° 94.686, DE 27 DE JULHO DE 1987
 
 Institui Programa de Emergência para Suprimento de Energia Elétrica ao Nordeste.

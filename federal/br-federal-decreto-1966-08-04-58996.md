@@ -1,5 +1,3 @@
-###DEC-058996-0-000-04-08-1966@@@
-
 DECRETO Nº 58.996, DE 4 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro Francisco Ribeiro de Carvalho Filho a lavrar cassiterita, no município de Coronel Xavier Chaves, no Estado de Minas Gerais.

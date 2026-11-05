@@ -1,5 +1,3 @@
-###DEC-059673-0-000-06-12-1966@@@
-
 Decreto Nº 59.673, DE 6 DE DEZEMBRO DE 1966.
 
 Ministério da Fazenda. Abre do crédito especial de Cr$1.500.000.000 (um bilhão e quinhentos milhões de cruzeiros) para ser utilizado pelo Conselho Nacional do Comércio Exterior.

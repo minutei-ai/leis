@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211714)<br>
-
 # DECRETO N° 70.018, DE 21 DE OUTUBRO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias à execução de obras de recuperação e melhoria da Rodovia Assis Chateaubriand, SP-425, no trecho entre o km 327+80m e 348+03m, nos Municípios de Clementina e Santópolis do Aguapeí, e dá providências correlatas._

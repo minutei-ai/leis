@@ -1,5 +1,3 @@
-###DEL-005822-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.822 – DE 16 DE SETEMBRO  DE 1943
 
 Autoriza o  Ministro do Trabalho, Indústria e Comércio a realizar um novo empréstimo para ocorrer às despesas com a ampliação do edifício do respectivo Ministério

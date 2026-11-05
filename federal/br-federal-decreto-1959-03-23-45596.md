@@ -1,5 +1,3 @@
-###DEC-045596-0-000-23-03-1959@@@
-
 DECRETO Nº 45.596, de 23 de março de 1959.
 
 Declara de utilidade pública a Organização das Entidades não Governamentais do Brasil (OENG), com sede no Distrito Federal.

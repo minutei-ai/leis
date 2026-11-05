@@ -1,5 +1,3 @@
-###DEC-004314-0-000-30-07-2002@@@
-
 DECRETO Nº 4.314, DE 30 DE JULHO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA para o Ministério do Planejamento, Orçamento e Gestão.
@@ -32,4 +30,70 @@ A N E X O
 
 FUNÇÕES COMISSIONADAS TÉCNICAS
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Nível FCT</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Quantitativo</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 1</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>80</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 2</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 3</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>102</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 4</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>123</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 5</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>147</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 6</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>171</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 7</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>196</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 8</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>199</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 9</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>244</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 10</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>257</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 11</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>282</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 12</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>305</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 13</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>340</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 14</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>363</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>FCT 15</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>521</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>3.430</span></p></td></tr></tbody></table>
+Nível FCT
+
+Quantitativo
+
+FCT 1
+
+80
+
+FCT 2
+
+100
+
+FCT 3
+
+102
+
+FCT 4
+
+123
+
+FCT 5
+
+147
+
+FCT 6
+
+171
+
+FCT 7
+
+196
+
+FCT 8
+
+199
+
+FCT 9
+
+244
+
+FCT 10
+
+257
+
+FCT 11
+
+282
+
+FCT 12
+
+305
+
+FCT 13
+
+340
+
+FCT 14
+
+363
+
+FCT 15
+
+521
+
+TOTAL
+
+3.430

@@ -1,5 +1,3 @@
-###DEC-061693-0-000-13-11-1967@@@
-
 DECRETO Nº 61.693, DE 13 DE NOVEMBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade Beneficente Cruzeiras de São Francisco”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

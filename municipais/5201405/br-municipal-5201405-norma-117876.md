@@ -50,7 +50,8 @@ I.    Cássio Pereira Vilarinho;  
 
 II.    Letícia Francieli Ferreira Barbosa Alves;
 
-III.    Márcio Gomes Costa.<br>
+III.    Márcio Gomes Costa.
+
 (Redação alterada pelo Decreto "N" Nº 443, de 6 de julho de 2023).
 
 ~~I.    Letícia Francieli Ferreira Barbosa Alves   CPF: 972.699.051-34~~
@@ -65,7 +66,8 @@ I-    Djalma Silva Arantes de Ávila
 
 II-    Ricardo Augusto Rocha Pinto
 
-III-    Maxwel Coelho Cunha e Silva.<br>
+III-    Maxwel Coelho Cunha e Silva.
+
 (Redação alterada pelo Decreto "N" Nº 443, de 6 de julho de 2023).
 
 ~~I.    Ricardo Augusto Pinto                                 CPF: 532.443.891-04~~
@@ -78,8 +80,10 @@ Art. 2º. Este Decreto entra em vigor na data de sua publicação, revogando as 
 
 PREFEITURA MUNICIPAL DE APARECIDA DE GOIÂNIA, aos 13 de março de 2023.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
-Secretário de Governo<br>
+FÁBIO PASSAGLIA
+
+Secretário de Governo

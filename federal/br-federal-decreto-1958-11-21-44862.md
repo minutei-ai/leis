@@ -1,5 +1,3 @@
-###DEC-044862-0-000-21-11-1958@@@
-
 DECRETO Nº 44.862, DE 21 DE NOVEMBRO DE 1958.
 
 Aprova o Regimento do Arquivo Nacional, do Ministério da Justiça e Negócios Interiores.

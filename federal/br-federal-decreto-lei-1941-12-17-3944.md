@@ -1,5 +1,3 @@
-###DEL-003944-0-000-17-12-1941@@@
-
 DECRETO-LEI N. 3.944 – DE 17 DE DEZEMBRO DE 1941
 
 Prorroga  a vigência do crédito especial  aberto pelo decreto-lei número 2.070, de 7 de março de 1940, e dá outra providência

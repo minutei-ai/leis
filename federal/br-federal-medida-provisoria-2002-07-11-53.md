@@ -1,5 +1,3 @@
-###MPV-000053-0-000-11-07-2002@@@
-
 MEDIDA PROVISÓRIA Nº 53, DE 11 DE JULHO DE 2002
 
 Revoga os arts. 27, 28 e 29 da Medida Provisória nº 51, de 4 de julho de 2002, que dispõe sobre a criação de cargos de Guarda de Polícia Federal e de Analista de Informações Policiais no Quadro de Pessoal do Departamento de Polícia Federal, e de Direção e Assessoramento Superiores no âmbito da Administração Pública Federal.

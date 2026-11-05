@@ -1,5 +1,3 @@
-###DEC-006482-0-000-12-06-2008@@@
-
 DECRETO Nº 6.482, DE 12 DE JUNHO DE 2008.
 
 Altera o Decreto no 5.135, de 7 de julho de 2004, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Casa Civil da Presidência da República, visando acrescer competências à Imprensa Nacional, transfere as atividades relacionadas à biblioteca da Imprensa Nacional da Advocacia-Geral da União para a Imprensa Nacional, e dá outras providências.
@@ -37,5 +35,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no DOU de 13.6.2008

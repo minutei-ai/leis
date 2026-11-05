@@ -1,5 +1,3 @@
-###DEL-005844-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.844 – de 23 DE Setembro de 1943
 
 Dispõe sôbre a cobrança e fiscalização do imposto de renda

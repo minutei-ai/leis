@@ -1,5 +1,3 @@
-###DEC-065404-0-000-13-10-1969@@@
-
 DECRETO Nº 65.404 - DE 13 DE OUTUBRO DE 1969.
 
 Autoriza o funcionamento do Curso de Administração da Faculdade de Economia e Administração do Rio de Janeiro - GB.

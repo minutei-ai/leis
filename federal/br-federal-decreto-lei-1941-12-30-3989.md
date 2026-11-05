@@ -1,5 +1,3 @@
-###DEL-003989-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.989 – DE 30 DE DEZEMBRO DE 1941
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de 74:000$0, à verba que especifica

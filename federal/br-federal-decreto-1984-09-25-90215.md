@@ -1,5 +1,3 @@
-###DEC-090215-0-000-25-09-1984@@@
-
 Decreto nº 90.215, de 25 de setembro de 1984
 
 Autoriza o funcionamento de habilitações do curso de Enfermagem e Obstetrícia da Faculdade de Enfermagem e Obstetrícia de Guarulhos.

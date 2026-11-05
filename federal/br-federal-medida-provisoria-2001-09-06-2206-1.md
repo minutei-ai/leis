@@ -1,5 +1,3 @@
-###MPV-002206-0-001-06-09-2001@@@
-
 MEDIDA PROVISÓRIA No 2.206-1, DE 6 DE SETEMBRO DE 2001.
 
  Cria o Programa Nacional de Renda Mínima vinculado à saúde: "Bolsa-Alimentação" e dá outras providências.

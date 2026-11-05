@@ -16,8 +16,10 @@ Gabinete do Prefeito do Município de Aparecida Goiânia-GO, 10 de Outubro de 20
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

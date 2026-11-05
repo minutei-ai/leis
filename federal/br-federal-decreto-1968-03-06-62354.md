@@ -1,5 +1,3 @@
-###DEC-062354-0-000-06-03-1968@@@
-
 DECRETO Nº 62.354, DE 6 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Inspetoria Madre Mazzarello”, com sede em Belo Horizonte, Estado de Minas Gerais.

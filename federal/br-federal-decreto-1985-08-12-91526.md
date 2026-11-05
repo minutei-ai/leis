@@ -1,5 +1,3 @@
-###DEC-091526-0-000-12-08-1985@@@
-
 Decreto nº 91.526, de 12 de agosto de 1985
 
 Declara de utilidade pública as instituições que menciona.

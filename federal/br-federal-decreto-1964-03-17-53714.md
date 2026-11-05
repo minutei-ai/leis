@@ -1,5 +1,3 @@
-###DEC-053714-0-000-17-03-1964@@@
-
 Decreto nº 53.714, de 17 de março de 1964.
 
 Autoriza Macisa - Mineração da Amazônia, Comércio e Indústria Sociedade Anônima a pesquisar cassiterita no município de Lábrea, Estado do Amazonas.

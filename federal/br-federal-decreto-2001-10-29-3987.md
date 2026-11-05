@@ -1,5 +1,3 @@
-###DEC-003987-0-000-29-10-2001@@@
-
 DECRETO Nº 3.987, DE 29 DE OUTUBRO DE 2001
 
 Autoriza o aumento do capital social e altera o art. 7º do Estatuto Social da Financiadora de Estudos e Projetos - FINEP.

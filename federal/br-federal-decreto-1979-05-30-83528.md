@@ -1,5 +1,3 @@
-###DEC-083528-0-000-30-05-1979@@@
-
 Decreto nº 83.528, de 30 de maio de 1979.
 
 Concede a renovação do reconhecimento do curso de Ciências Contábeis da Fundação Getúlio Vargas, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro .

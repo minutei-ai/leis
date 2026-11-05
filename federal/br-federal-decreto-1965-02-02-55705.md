@@ -1,5 +1,3 @@
-###DEC-055705-0-000-02-02-1965@@@
-
 DECRETO Nº 55.705, DE 2 DE FEVEREIRO DE 1965.
 
 Prorroga o prazo fixado no artigo 2º do decreto nº 54.269, de 8 de novembro de 1964.

@@ -1,5 +1,3 @@
-###DEC-006778-0-000-18-02-2009@@@
-
 DECRETO Nº 6.778, DE 18 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a reabertura da Embaixada do Brasil na República Popular de Bangladesh, com sede em Daca.

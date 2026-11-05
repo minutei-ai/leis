@@ -1,5 +1,3 @@
-###DEC-046980-0-000-07-10-1959@@@
-
 DECRETO Nº 46.980, de 7 de outubro de 1959.
 
 Cria uma Embaixada do Brasil na Tunísia.

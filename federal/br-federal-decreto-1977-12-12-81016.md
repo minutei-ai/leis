@@ -1,5 +1,3 @@
-###DEC-081016-0-000-12-12-1977@@@
-
 Decreto nº 81.016, de 12 de dezembro de 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

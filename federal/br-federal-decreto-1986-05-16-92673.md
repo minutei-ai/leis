@@ -1,5 +1,3 @@
-###DEC-092673-0-000-16-05-1986@@@
-
 DECRETO Nº 92.673, DE 16 DE MAIO DE 1986
 
 Outorga concessão à RÁDIO MAGUARY LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Belém, Estado do Pará.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=52414)
-
 # LEI COMPLEMENTAR Nº 969, DE 06 DE JANEIRO DE 2005
 
 ### _Altera os requisitos para o provimento dos cargos de Agente de promotoria, do Subquadro de Cargos Públicos do Quadro do Ministério Público do Estado_

@@ -1,5 +1,3 @@
-###DEC-052172-0-000-28-06-1963@@@
-
 Decreto Nº 52.172, DE 28 DE JUNHO DE 1963.
 
 Cria funções gratificadas no Quadro do Pessoal do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEC-090808-0-000-11-01-1985@@@
-
 Decreto nº 90.808, de 11 de janeiro de1985
 
 Renova a concessão outorgada à CEARÁ RÁDIO CLUBE S/A, para explorar serviço de radiodifusão sonora em onda média, na cidade de Fortaleza, Estado do Ceará.

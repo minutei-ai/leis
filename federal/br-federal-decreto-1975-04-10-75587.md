@@ -1,5 +1,3 @@
-###DEC-075587-0-000-10-04-1975@@@
-
 DECRETO Nº 75.587, DE 10 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Educação Física da Escola Superior de Educação Física de Muzambinho, mantida pelo Fundação Educacional de Muzambinho, com sede na cidade de Muzambinho, Estado de Minas Gerais.

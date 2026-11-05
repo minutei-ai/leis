@@ -1,5 +1,3 @@
-###DEC-057706-0-000-02-02-1966@@@
-
 DECRETO Nº 57.706, de 2 de fevereiro de 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São José da Bela Vista, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-067421-0-000-20-10-1970@@@
-
 DECRETO Nº 67.421, DE 20 DE OUTUBRO DE 1970.
 
 Retifica o Quadro de Pessoal do Ministério da Educação e Cultura e o Quadro Único de Pessoal da Universidade Federal de Santa Catarina, e dá outras providências.

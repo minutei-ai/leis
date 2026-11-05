@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210035)<br>
-
 # DECRETO N° 68.902, DE 23 DE SETEMBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título precário e gratuito, e por prazo determinado, do Município de Carapicuíba, imóveis que especifica._

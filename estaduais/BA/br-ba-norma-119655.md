@@ -1,13 +1,15 @@
 LEI Nº 6.936 DE 24 DE JANEIRO DE 1996
 
-Ver também:<br>
+Ver também:
+
 Decreto nº 16.108 de 29 de maio de 2015 - Declara a vinculação de fundos estaduais à estrutura da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social - SJDHDS, nos termos da Lei nº 13.204, de 11 de dezembro de 2014, da Lei Federal nº 8.742, de 07 de dezembro de 1993, bem como da Lei Federal nº 8.069, de 13 de julho de 1990, na forma que indica.
 
 Cria o Fundo Estadual de Proteção ao Consumidor-FEPC/BAHIA e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 \-DA INSTITUIÇÃO DO FUNDO DE PROTEÇÃO AO CONSUMIDOR
 
 Art. 1º - Fica instituído o Fundo Estadual de Proteção ao Consumidor-FEPC/BA, conforme disposto no art. 57 da Lei Federal nº 8.078, de 11 de setembro de 1990, regulamentada pelo Decreto nº 861, de 09 de julho de 1993, com o objetivo de dar suporte financeiro às políticas, ações e serviços de proteção e defesa dos direitos dos consumidores, no âmbito estadual.
@@ -50,7 +52,8 @@ IX - repasses provenientes de dotações orçamentárias específicas da Secreta
 
 § 3º - O Conselho Gestor do Fundo Estadual de Proteção ao Consumidor, por deliberação, autorizará a aplicação financeira das disponibilidades do Fundo em operações ativas, de modo a preservá-las contra eventual perda do poder aquisitivo da moeda.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 \-DO CONSELHO GESTOR DO FUNDO ESTADUAL DE PROTEÇÃO AO CONSUMIDOR - CGFEPC/BA
 
 Art. 4º - Fica instituído o Conselho Gestor do Fundo Estadual de Proteção ao Consumidor, com as seguintes atribuições:
@@ -71,19 +74,22 @@ Art. 5º - O Conselho Gestor do Fundo Estadual de Proteção ao Consumidor será
 
 I - o Superintendente da Superintendência de Proteção e Defesa do Consumidor - PROCON/BA, que o presidirá;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "I - O Coordenador da Coordenação de Defesa do Consumidor-PROCON/BA, que o presidirá;"
 
 II - 01 (um) representante da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "II - 01 (um) representante da Secretaria da Justiça e Direitos Humanos;"
 
 III - 01 (um) representante da Secretaria da Saúde;
 
 IV - 01 (um) representante da Casa Civil;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "IV - 01 (um) representante da Secretaria de Governo;"
 
 V - 01 (um) representante da Procuradoria Geral do Estado;

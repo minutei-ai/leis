@@ -1,5 +1,3 @@
-###DEL-005833-0-000-20-09-1943@@@
-
 DECRETO‑LEI N. 5.833 – DE 20 DE SETEMBRO DE 1943
 
 Altera as carreiras de Foguista Marítimo, Maquinista Marítimo, Marinheiro o Patrão do Quadro Suplementar do Ministério da Guerra

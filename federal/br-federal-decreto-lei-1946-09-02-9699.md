@@ -1,5 +1,3 @@
-###DEL-009699-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.699 – DE 2 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Justiça a Negócios Interiores o crédito especial de Cr$ 144.000,00, para despesas referentes à Secretaria do Senado Federal.

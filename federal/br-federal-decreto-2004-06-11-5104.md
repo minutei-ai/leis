@@ -1,5 +1,3 @@
-###DEC-005104-0-000-11-06-2004@@@
-
 DECRETO Nº 5.104,  DE 11 DE JUNHO DE 2004
 
 Promulga o Acordo de Cooperação Educacional entre o Governo da República Federativa do Brasil e o Governo da República Democrática de Timor-Leste, celebrado em Díli, em 20 de maio de 2002.

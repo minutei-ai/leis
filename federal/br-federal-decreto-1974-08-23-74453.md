@@ -1,5 +1,3 @@
-###DEC-074453-0-000-23-08-1974@@@
-
 DECRETO Nº 74.453 - DE 23 DE AGOSTO DE 1974.
 
 Torna sem efeito aproveitamento de disponível do IPASE e dá outras providências.

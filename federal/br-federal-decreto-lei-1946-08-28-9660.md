@@ -1,5 +1,3 @@
-###DEL-009660-0-000-28-08-1946@@@
-
 DECRETO-LEI N. 9.660 – DE 28 DE AGÔSTO DE 1946
 
 Aceita a doação feita à União, de um imóvel situado na cidade de Herculândia, Estado de São Paulo.

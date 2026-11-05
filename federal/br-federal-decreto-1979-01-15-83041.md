@@ -1,5 +1,3 @@
-###DEC-083041-0-000-15-01-1979@@@
-
 DECRETO Nº 83.041, DE 15 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Desenho Industrial, ministrado pelo Centro de Letras e Artes da Universidade Federal do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

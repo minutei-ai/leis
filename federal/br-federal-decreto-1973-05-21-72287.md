@@ -1,5 +1,3 @@
-###DEC-072287-0-000-21-05-1973@@@
-
 DECRETO Nº 72.287, DE 21 DE MAIO DE 1973.
 
 Transfere servidor do Quadro de Pessoal, em extinção da Fundação IBGE, com o respectivo cargo, para o Departamento Nacional de Estradas de Rodagem, e dá outras providências.

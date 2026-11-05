@@ -1,5 +1,3 @@
-###DEC-056871-0-000-15-09-1965@@@
-
 DECRETO Nº 56.871, DE 15 DE SETEMBRO DE 1965.
 
 Dá nova redação aos § 1º do art. 5º e art. 85 do Regulamento das Colônias Militares de Fronteir na Amazônia aprovado pelo Decreto nº 45.479, de 26 de fevereiro de 1959.

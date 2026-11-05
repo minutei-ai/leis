@@ -1,5 +1,3 @@
-###DEL-005989-0-000-11-11-1943@@@
-
 DECRETO‑LEI N. 5.989 – DE 11 DE NOVEMBRO DE 1943
 
 Dá nova redação e revoga artigos do decreto‑lei n. 4.014, de 13 de janeiro de 1942

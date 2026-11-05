@@ -1,5 +1,3 @@
-###DEC-072126-0-000-24-04-1973@@@
-
 DECRETO Nº 72.126, DE 24 DE ABRIL DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação "Farias Brito" da Associação Paulista de Educação e Cultura decorrente do desmembramento do curso de Pedagogia.

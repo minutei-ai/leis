@@ -1,5 +1,3 @@
-###DEL-004159-0-000-06-03-1942@@@
-
 DECRETO-LEI N. 4.159 – DE 6 DE MARÇO DE 1942
 
 Cria a função gratificada de Chefe de Secretaria do Conselho Nacional do Trânsito, e dá outras providências

@@ -1,5 +1,3 @@
-###DEL-007854-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.854 – DE 13 DE AGÔSTO DE 1945
 
 Altera as carreiras de Bibliotecário e Bibliotecário-auxiliar do Quadro Permanente do Ministério da Justiça e Negócios Interiores e dá outras providências.

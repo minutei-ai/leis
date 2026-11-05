@@ -1,5 +1,3 @@
-###DEC-089587-0-000-26-04-1984@@@
-
 Decreto nº 89.587, de 26 de ABRIL DE 1984.
 
 Revoga o Decreto nº 75.194, de 07 de janeiro de 1975, que aprovou o Regulamento para o Serviço de Auditoria da Marinha.

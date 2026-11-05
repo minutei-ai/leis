@@ -1,5 +1,3 @@
-###DEC-051510-0-000-22-06-1962@@@
-
 DECRETO Nº 51.510, DE 22 DE JUNHO DE 1962.
 
 Inclui funções gratificadas no Quadro de Pessoal do Ministério da Educação e Cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076186-0-000-02-09-1975@@@
-
 DECRETO N. 76.186 - DE 2 DE SETEMBRO DE 1975
 
 Aprova o Regulamento para a cobrança e fiscalização do Imposto sobre a Renda e Proventos de Qualquer Natureza.

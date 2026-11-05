@@ -1,5 +1,3 @@
-###DEC-073620-0-000-12-02-1974@@@
-
 DECRETO Nº 73.620, DE 12 DE FEVEREIRO DE 1974.
 
 Altera a estrutura básica do Departamento Nacional de Águas e Energia Elétrica (DNAEE), do Ministério das Minas e Energia, e dá outras providências.

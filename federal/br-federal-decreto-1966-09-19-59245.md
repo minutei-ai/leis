@@ -1,5 +1,3 @@
-###DEC-059245-0-000-19-09-1966@@@
-
 DECRETO Nº 59.245, DE 19 DE SETEMBRO DE 1966.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica.

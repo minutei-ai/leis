@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62055)
-
 # LEI Nº 12.315, DE 12 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 661/2004, do Deputado Roberto Engler - PSDB)

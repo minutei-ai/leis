@@ -1,5 +1,3 @@
-###DEC-005533-0-000-06-09-2005@@@
-
 DECRETO Nº  5.533, DE 6 DE SETEMBRO DE 2005
 
 Regulamenta a redução a zero da alíquota do imposto sobre a renda incidente sobre as remessas, para o exterior, relacionadas à promoção de destinos turísticos brasileiros.

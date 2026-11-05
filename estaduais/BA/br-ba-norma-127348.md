@@ -4,7 +4,8 @@ Institui a Política Estadual para a População em Situação de Rua e dá outr
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica instituída a Política Estadual para a População em Situação de Rua consoante os princípios, diretrizes e objetivos previstos nesta Lei.
@@ -17,10 +18,12 @@ Art. 4º - A Política Estadual para a População em Situação de Rua será im
 
 Parágrafo único - O instrumento de adesão definirá as atribuições e as responsabilidades a serem compartilhadas entre o Estado e os Municípios.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS E DAS DIRETRIZES
 
-SEÇÃO I<br>
+SEÇÃO I
+
 Dos Princípios
 
 Art. 5º - São princípios da Política Estadual para a População em Situação de Rua:
@@ -37,7 +40,8 @@ V - atendimento humanizado e universalizado;
 
 VI - respeito às condições sociais e diferenças de origem, raça, idade, nacionalidade, gênero, orientação sexual e religiosa, com atenção especial às pessoas com deficiência.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 Das Diretrizes
 
 Art. 6º - São diretrizes da Política Estadual para a População em Situação de Rua:
@@ -58,7 +62,8 @@ VII - respeito às singularidades de cada território e ao aproveitamento das po
 
 VIII - democratização do acesso e fruição dos espaços e serviços públicos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS OBJETIVOS
 
 Art. 7º - São objetivos da Política Estadual para a População em Situação de Rua:
@@ -93,7 +98,8 @@ XIV - disponibilizar programas de qualificação profissional para as pessoas em
 
 XV - implantação e ampliação das ações educativas destinadas à superação do preconceito e discriminação direcionado à população em situação de rua.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO COMITÊ INTERSETORIAL DE ACOMPANHAMENTO E MONITORAMENTO
 
 Art. 8º - Fica instituído o Comitê Intersetorial de Acompanhamento e Monitoramento da Política Estadual para a População em Situação de Rua, com a seguinte composição:
@@ -170,7 +176,8 @@ IV - divulgar indicadores sociais, econômicos e culturais sobre a população e
 
 V - pesquisar e acompanhar os processos instaurados, as decisões e as punições aplicadas aos acusados de crimes contra a população em situação de rua.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 12 - Dentre as ações para a implementação da Política Estadual para a População em Situação de Rua, o Estado promoverá a reestruturação e ampliação da rede de acolhimento temporário, inclusive com transferência de recursos aos Municípios.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000110-0-000-03-05-1991@@@
-
 DECRETO Nº 110, DE 3 DE MAIO DE 1991
 
 Promulga o Acordo para Construção de uma Ponte sobre o Rio Uruguai, entre as Cidades de São Borja e Santo Tomé, entre o Governo da República Federativa do Brasil e o Governo da República Argentina.

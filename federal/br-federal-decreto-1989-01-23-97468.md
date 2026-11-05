@@ -1,5 +1,3 @@
-###DEC-097468-0-000-23-01-1989@@@
-
 DECRETO N° 97.468, DE 23 DE JANEIRO DE 1989
 
 Altera o item X e o § 2° do art. 1° do Decreto n° 85.387, de 24 de novembro de 1980, que dispõe sobre a composição, competência e funcionamento do Conselho Interministerial do Programa Grande Carajás.

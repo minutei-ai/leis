@@ -1,20 +1,18 @@
-###DEC-026684-0-000-19-05-1949@@@
+**DECRETO Nº 26.684, DE 19 DE MAIO DE 1949.**
 
-<strong>DECRETO Nº 26.684, DE 19 DE MAIO DE 1949.</strong>
+***Outorga à Ficção e Tecelagem Matosinhos S.A., concessão de energia hidráulica dos cursos d’água Barba de Lobo e seu afluente Água Limpa, ambos no município de São João del Rei Estado de Minas Gerais.***
 
-<em><strong>Outorga à Ficção e Tecelagem Matosinhos S.A., concessão de energia hidráulica dos cursos d’água Barba de Lobo e seu afluente Água Limpa, ambos no município de São João del Rei Estado de Minas Gerais.</strong></em>
+**O VICE-PRESIDENTE DA REPÚBLICA**, em exercício no cargo de Presidente da República, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e, nos têrmos do art. 150 do Código de Águas (Decreto nº 24.843 de 10 de julho de 1934),
 
-<strong>O VICE-PRESIDENTE DA REPÚBLICA</strong>, em exercício no cargo de Presidente da República, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição e, nos têrmos do art. 150 do Código de Águas (Decreto nº 24.843 de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros é outorgada à Fiação e Tecelagem Matosinhos S.A. , concessão para o aproveitamento da energia hidráulica dos cursos d’água Barba de Lôbo e seu afluente Água Limpa, ambos situados no município de são João del Rei, Estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros é outorgada à Fiação e Tecelagem Matosinhos S.A. , concessão para o aproveitamento da energia hidráulica dos cursos d’água Barba de Lôbo e seu afluente Água Limpa, ambos situados no município de são João del Rei, Estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, descarga e a potência concedidas.
 
 § 2º O aproveitamento destina-se à produção de energia elétrica para uso exclusivo da concessionária, que não poderá fornecer a terceiros mesmos a título gratuito, excluídas, todavia dessa proibição, as vilas operárias da concessionária, desde que seja gratuito o fornecimento de energia que lhes fôr feito.
 
-<strong>Art</strong>. 2º Caducará o presente título independente de qualquer ato declaratório, se a concessionária não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título independente de qualquer ato declaratório, se a concessionária não satisfizer as condições seguintes:
 
 I - Registrá-los na Divisão de Águas do Departamento Nacional da Produção Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias após a sua publicação.
 
@@ -66,26 +64,26 @@ V - Obedecer em todos os projetos, às prescrições de ordem técnica determina
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogadas por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações de acôrdo com as instruções da Divisão de Águas.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do local do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações de acôrdo com as instruções da Divisão de Águas.
 
-<strong>Art</strong>. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministério da Agricultura.
+**Art**. 4º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministério da Agricultura.
 
-<strong>Art</strong>. 5º Findo do prazo da concessão, tôda a propriedade da concessionária que no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais mediante indenização do custo histórico, isto é, do capital efetivamente gasto menos a depreciação.
+**Art**. 5º Findo do prazo da concessão, tôda a propriedade da concessionária que no momento, existir em função exclusiva e permanente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais mediante indenização do custo histórico, isto é, do capital efetivamente gasto menos a depreciação.
 
 § 1º Se o estado de Minas Gerais não fizer uso do seu direito a essa reversão, a concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista.
 
 § 2º para os efeitos do § 1º dêste artigo, fica a concessionária a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais e a entrar com o requerimento de prorrogação da concessão ou de desistência desta, até seis (6) meses antes do término do respectivo.
 
-<strong>Art</strong>. 7º A concessionária , dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o art. 153, alínea e  do Código de Águas.
+**Art**. 7º A concessionária , dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o art. 153, alínea e  do Código de Águas.
 
-<strong>Art</strong>. 8º A concessionária gozará, desde a data do registro de que trata o art. 5º e enquanto vigorará esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 8º A concessionária gozará, desde a data do registro de que trata o art. 5º e enquanto vigorará esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 9º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 9º O presente Decreto entra em vigor na data da sua publicação.
 
-<strong>Art</strong>. 10 Revogam-se as disposições em contrário.
+**Art**. 10 Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de maio de 1949, 128º da Independência e 61º da república.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Daniel de Carvalho

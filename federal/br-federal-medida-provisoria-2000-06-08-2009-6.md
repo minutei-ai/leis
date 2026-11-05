@@ -1,5 +1,3 @@
-###MPV-002009-0-006-08-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.009-6, DE 8 de junho de 2000.
 
 Assegura percepção de gratificação por servidores da Carreira Policial Federal, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085185-0-000-22-09-1980@@@
-
 Decreto nº 85.185, de 22 de setembro de 1980.
 
 Autoriza o aumento do Capital da Companhia de Navegação Lloyd Brasileiro - Lloydbrás

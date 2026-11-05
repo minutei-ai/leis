@@ -1,5 +1,3 @@
-###DEC-083723-0-000-13-07-1979@@@
-
 Decreto nº 83.723, de 13 de julho de 1979.
 
 Outorga à Companhia Força e Luz Cataguazes-Leopoldina concessão para o aproveitamento da energia hidráulica de um trecho do rio Glória, no Município de Muriaé, Estado de Minas Gerais.

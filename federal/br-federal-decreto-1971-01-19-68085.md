@@ -1,5 +1,3 @@
-###DEC-068085-0-000-19-01-1971@@@
-
 DECRETO Nº 68.085, DE 19 DE JANEIRO DE 1971.
 
 Dispõe sobre o prazo de intervenção governamental nas áreas prioritárias que menciona.

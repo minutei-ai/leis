@@ -1,5 +1,3 @@
-###DEC-077792-0-000-09-06-1976@@@
-
 decreto nº 77.792, de 9 de junho de 1976.
 
 Renova o prazo de concessão outorgada à Companhia Geral de Melhoramentos, em Pernambuco, para uso exclusivo do aproveitamento hidráulico da queda d\`água denominada Pau Sangue, no Rio Serinhaem, Município de Gameleira Estado de Pernambuco.

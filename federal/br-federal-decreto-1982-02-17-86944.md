@@ -1,5 +1,3 @@
-###DEC-086944-0-000-17-02-1982@@@
-
 Decreto nº 86.944, de 17 de fevereiro de 1982
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO CLUBE DE GOIÂNIA S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Goiânia, Estado de Goiás.

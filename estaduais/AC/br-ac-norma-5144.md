@@ -1,6 +1,6 @@
 > **LEI Nº 3.927, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede revisão geral anual aos servidores públicos da Defensoria Pública do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+Concede revisão geral anual aos servidores públicos da Defensoria Pública do Estado do Acre.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -24,4 +24,82 @@ Governador do Estado do Acre
 
 **ESTIMATIVA DO IMPACTO ORÇAMENTÁRIO E FINANCEIRO DO PROJETO DE LEI**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>Cargo</span></strong></span></p></td><td><p><span><strong><span>Folha anual</span></strong></span></p></td><td><p><span><strong><span>Patronal</span></strong></span></p></td><td><p><span><strong><span>Total folha sem aumento</span></strong></span></p></td><td><p><span><strong><span>Reajuste 5,42%</span></strong></span></p></td><td><p><span><strong><span>Patronal</span></strong></span></p></td><td><p><span><strong><span>Total folha com aumento</span></strong></span></p></td><td><p><span><strong><span>Impacto</span></strong></span></p></td></tr><tr><td><p><span><strong><span>Defensores Públicos</span></strong></span></p></td><td><p><span><span>R$ 1.274.957,14</span></span></p></td><td><p><span><span>R$ 170.913,57</span></span></p></td><td><p><span><span>R$ 1.445.870,71</span></span></p></td><td><p><span><span>R$ 1.340.487,67</span></span></p></td><td><p><span><span>R$ 180.087,84</span></span></p></td><td><p><span><span>R$ 1.520.575,51</span></span></p></td><td><p><span><span>R$ 74.704,80</span></span></p></td></tr><tr><td><p><span><strong><span>Servidores efetivos</span></strong></span></p></td><td><p><span><span>R$ 135.225,44</span></span></p></td><td><p><span><span>R$ 16.245,57</span></span></p></td><td><p><span><span>R$ 151.471,01</span></span></p></td><td><p><span><span>R$ 138.519,59</span></span></p></td><td><p><span><span>R$ 16.706,75</span></span></p></td><td><p><span><span>R$ 155.226,34</span></span></p></td><td><p><span><span>R$ 3.755,33</span></span></p></td></tr><tr><td><p><span><strong><span>Comissionados</span></strong></span></p></td><td><p><span><span>R$ 466.842,00</span></span></p></td><td><p><span><span>R$ 98.036,82</span></span></p></td><td><p><span><span>R$ 564.878,82</span></span></p></td><td><p><span><span>R$ 492.144,84</span></span></p></td><td><p><span><span>R$ 103.350,42</span></span></p></td><td><p><span><span>R$ 595.495,26</span></span></p></td><td><p><span><span>R$ 30.616,44</span></span></p></td></tr><tr><td><p><span><strong><span>TOTAL</span></strong></span></p></td><td><p><span><span>R$ 1.877.024,58</span></span></p></td><td><p><span><span>R$ 285.195,96</span></span></p></td><td><p><span><span>R$ 2.162.220,54</span></span></p></td><td><p><span><span>R$ 1.971.152,10</span></span></p></td><td><p><span><span>R$ 300.145,01</span></span></p></td><td><p><span><span>R$ 2.271.297,11</span></span></p></td><td><p><span><span>R$ 109.076,57</span></span></p></td></tr></tbody></table>
+**Cargo**
+
+**Folha anual**
+
+**Patronal**
+
+**Total folha sem aumento**
+
+**Reajuste 5,42%**
+
+**Patronal**
+
+**Total folha com aumento**
+
+**Impacto**
+
+**Defensores Públicos**
+
+R$ 1.274.957,14
+
+R$ 170.913,57
+
+R$ 1.445.870,71
+
+R$ 1.340.487,67
+
+R$ 180.087,84
+
+R$ 1.520.575,51
+
+R$ 74.704,80
+
+**Servidores efetivos**
+
+R$ 135.225,44
+
+R$ 16.245,57
+
+R$ 151.471,01
+
+R$ 138.519,59
+
+R$ 16.706,75
+
+R$ 155.226,34
+
+R$ 3.755,33
+
+**Comissionados**
+
+R$ 466.842,00
+
+R$ 98.036,82
+
+R$ 564.878,82
+
+R$ 492.144,84
+
+R$ 103.350,42
+
+R$ 595.495,26
+
+R$ 30.616,44
+
+**TOTAL**
+
+R$ 1.877.024,58
+
+R$ 285.195,96
+
+R$ 2.162.220,54
+
+R$ 1.971.152,10
+
+R$ 300.145,01
+
+R$ 2.271.297,11
+
+R$ 109.076,57

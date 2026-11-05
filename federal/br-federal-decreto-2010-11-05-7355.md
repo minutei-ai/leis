@@ -1,5 +1,3 @@
-###DEC-007355-0-000-05-11-2010-PUB-01@@@
-
 DECRETO Nº  7.355, DE 5 DE NOVEMBRO DE 2010
 
 Acresce dispositivo ao Decreto nº  7.246, de 28 de julho de 2010, que regulamenta a Lei nº 12.111, de 9 de dezembro de 2009, que dispõe sobre o serviço de energia elétrica dos Sistemas Isolados e as instalações de transmissão de interligações internacionais no Sistema Interligado Nacional - SIN.

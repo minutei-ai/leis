@@ -1,7 +1,3 @@
-1
-
-###DEC-001597-0-000-17-08-1995@@@
-
 DECRETO Nº 1.597, DE 17 DE AGOSTO DE 1995
 
 Dispõe sobre a transferência do cargo em comissão que menciona.

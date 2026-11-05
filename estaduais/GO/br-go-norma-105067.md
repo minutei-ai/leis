@@ -1,4 +1,5 @@
-DECRETO Nº 10.027, DE 1º DE FEVEREIRO DE 2022<br>
+DECRETO Nº 10.027, DE 1º DE FEVEREIRO DE 2022
+
 \- [Caducidade declarada pelo Decreto nº 10.733, de 14-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111088).
 
 ~~Qualifica como organização social de saúde, no âmbito do Estado de Goiás, a entidade que especifica.~~

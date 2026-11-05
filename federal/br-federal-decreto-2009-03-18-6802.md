@@ -1,5 +1,3 @@
-###DEC-006802-0-000-18-03-2009@@@
-
 DECRETO Nº 6.802, DE 18 DE MARÇO DE 2009.
 
 Acresce inciso ao art. 1o do Decreto no 6.608, de 22 de outubro de 2008, que dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agencia Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões, e dá outras providências.

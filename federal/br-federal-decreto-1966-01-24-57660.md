@@ -1,5 +1,3 @@
-###DEC-057660-0-000-24-01-1966@@@
-
 DECRETO Nº 57.660, DE 24 DE JANEIRO DE 1966.
 
 Altera dispositivos do Regulamento aprovado pelo Decreto nº 51.673 de 18 de janeiro de 1963 e o de número 57.391 de 7 de dezembro de 1965.

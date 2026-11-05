@@ -1,5 +1,3 @@
-###DEC-057564-0-000-31-12-1965@@@
-
 DECRETO Nº 57.564, DE 31 DE DEZEMBRO DE 1965.
 
 Homologa a aprovação do Regulamento da Comissão Mista Brasileiro – Uruguaia para o Desenvolvimento da  Bacia dá Lagoa Mirim.

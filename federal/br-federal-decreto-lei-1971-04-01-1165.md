@@ -1,5 +1,3 @@
-###DEL-001165-0-000-01-04-1971@@@
-
 # DECRETO-LEI Nº 1.165, De 1 DE ABRIL DE 1971
 
 Dispõe sôbre estímulos fiscais a fornecimentos de produtos manufaturados feitos no mercado interno.

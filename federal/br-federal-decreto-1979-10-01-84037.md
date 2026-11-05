@@ -1,5 +1,3 @@
-###DEC-084037-0-000-01-10-1979@@@
-
 decreto nº 84.037, de 1º de outubro de 1979.
 
 Altera dispositivo do Regulamento de Uniformes para os Militares da Aeronáutica (RUMAER).

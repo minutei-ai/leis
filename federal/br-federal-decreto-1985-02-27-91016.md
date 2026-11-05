@@ -1,5 +1,3 @@
-###DEC-091016-0-000-27-02-1985@@@
-
 DECRETO 91.016, dE 27 dE fevereiro de 1985
 
 Cassa a concessão outorgada à RÁDIO TOCANTINS DE TUCURUÍ LTDA., para executar serviço de radiodifusão sonora em onda média, na cidade de Tucuruí, Estado do Pará.

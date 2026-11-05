@@ -1,5 +1,3 @@
-###DEC-048963-0-000-22-09-1960@@@
-
 DECRETO Nº 48.963, DE 22 DE SETEMBRO DE 1960.
 
 Aprova a instalação de agências do The First National Bank of Boston.
@@ -17,8 +15,6 @@ Brasília, em 22 de setembro de 1960; 139º da Independência e 72º da Repúbli
 Juscelino Kubitschek
 
 Antonio Carlos Barcellos
-
-###DEC-048963-0-000-22-09-1960@@@RET01+++
 
 decreto nº 48.963, de 22 de SETEMBRO de 1960.
 

@@ -1,5 +1,3 @@
-###DEC-050542-0-000-04-05-1961@@@
-
 Decreto Nº 50.542, De 4 de Maio de 1961.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 36.370, de 21 de outubro de 1954, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Oiticica, no município de Jucurutu, Estado do Rio Grande do Norte.

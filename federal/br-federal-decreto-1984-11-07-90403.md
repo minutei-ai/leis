@@ -1,5 +1,3 @@
-###DEC-090403-0-000-07-11-1984@@@
-
 Decreto nº 90.403, de 07 de novembro de 1984.
 
 Autoriza o funcionamento do curso de Tecnologia em Processamento de Dados da Faculdade de Tecnologia Hebraico-Brasileira Renascença.

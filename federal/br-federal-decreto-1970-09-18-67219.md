@@ -1,5 +1,3 @@
-###DEC-067219-0-000-18-09-1970@@@
-
 DECRETO Nº 67.219, DE 18 DE SETEMBRO DE 1970.
 
 Decreta intervenção federal no Município do Guarujá, no Estado de São Paulo, e dá outras providências.

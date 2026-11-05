@@ -1,5 +1,3 @@
-###DEL-003514-0-000-15-08-1941@@@
-
 DECRETO-LEI N. 3.514 – DE 15 DE AGOSTO DE 1941
 
 Autoriza aquisição de um imóvel em Juiz de Fora, Estudo de Minas Gerais, para ampliação do quartel, do IV/4º R.C.D.

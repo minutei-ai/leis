@@ -1,5 +1,3 @@
-###DEC-060255-0-000-21-02-1967@@@
-
 DECRETO Nº 60.255, DE 21 DE FEVEREIRO DE 1967.
 
 Autoriza Cincamar Comércio e Indústria de Calcita e Mármore Ltda. a pesquisar calcita e mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

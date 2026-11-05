@@ -1,5 +1,3 @@
-###DEC-046558-0-000-11-08-1959@@@
-
 Decreto nº 46.558, de 11 de agôsto de 1959.
 
 Cria o Consulado Privativo do Brasil, em Letícia, Colômbia.

@@ -1,5 +1,3 @@
-###DEL-005463-0-000-06-05-1943@@@
-
 DECRETO‑LEI N. 5.463 – DE 6 DE MAIO DE 1943
 
 Abre ao Ministério da Educação e Saude o crédito especial de Cr$ 1.148,30 para pagamento de gratificação de magistério

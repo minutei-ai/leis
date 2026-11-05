@@ -1,5 +1,3 @@
-###DEC-098494-0-000-11-12-1989@@@
-
 DECRETO N° 98.494, DE 11 DE DEZEMBRO DE 1989
 
 Altera o Decreto n° 81.591, de 20 de abril de 1978, que dá nova denominação à Capitania dos Portos, cria e suprime Capitanias dos Portos, Delegacias e Agências.

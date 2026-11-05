@@ -1,7 +1,3 @@
-1
-
-###DEC-000365-0-000-16-12-1991@@@
-
 # DECRETO N° 365, DE 16 DE DEZEMBRO DE 1991
 
 Dispõe sobre o registro dos reinvestimentos de lucros decorrentes de investimentos de capitais estrangeiros, efetuados na forma da Lei n° 4.131, de 3 de setembro de 1962.

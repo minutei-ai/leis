@@ -1,5 +1,3 @@
-###DEL-004487-0-000-16-07-1942@@@
-
 DECRETO-LEI 4.487 – DE 16 DE JULHO DE 1942
 
 Transfere, gratuitamente, ao Estado do Maranhão o prédio onde se achava aquarteIado o 24º Batalhão de Caçadores (antigo quartel), sito na cidade de São Luiz, Capital do mesmo Estado, e dá outras providências

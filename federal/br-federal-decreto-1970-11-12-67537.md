@@ -1,5 +1,3 @@
-###DEC-067537-0-000-12-11-1970@@@
-
 DECRETO Nº 67.537, DE 12 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 39.121 de 2 de maio de 1956 retificado pelo de nº 61.499 de 10 de outubro de 1967.

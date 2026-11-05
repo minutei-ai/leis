@@ -1,5 +1,3 @@
-###DEL-002997-0-000-29-01-1941@@@
-
 DECRETO-LEI N. 2.997 – DE 29 DE JANEIRO DE 1941
 
 Autoriza ao Prefeito do Distrito Federal conceder isenção de Pagamento do imposto predial à instituição denominada “Casa Santa Inês”, na forma que menciona.

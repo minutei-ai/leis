@@ -1,7 +1,3 @@
-1
-
-###DEC-000921-0-000-10-09-1993@@@
-
 DECRETO N° 921, DE 10 DE SETEMBRO DE 1993
 
 Dá nova redação ao parágrafo único do art. 8° do Derreto n° 785, de 27 de março de 1993.

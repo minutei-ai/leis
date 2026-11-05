@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209123)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.da.mesa/2024/compilacao-ato.da.mesa-4-23.02.2024.html)
 
 # ATO DA MESA N° 4, DE 23 DE FEVEREIRO DE 2024

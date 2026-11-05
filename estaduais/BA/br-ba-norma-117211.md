@@ -2,7 +2,8 @@ LEI Nº 4.441 DE 09 DE MAIO DE 1985
 
 Cria o Município de João Dourado, fixa os limites e dá outras providências.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.357 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: América Dourada, Barro Alto, Cafarnaum, Canarana, Central, Gentio do Ouro, Ibipeba, Ibititá, Ipupiara, Irecê, Itaguaçu da Bahia, João Dourado, Jussara, Lapão, Mulungu do Morro, Presidente Dutra, São Gabriel, Uibaí e Xique-Xique.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:

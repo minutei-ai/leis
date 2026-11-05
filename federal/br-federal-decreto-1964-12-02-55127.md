@@ -1,5 +1,3 @@
-###DEC-055127-0-000-02-12-1964@@@
-
 decreto nº 55.127, de 02 de dezembro de 1964.
 
 Concede à Comercindústria Corby Limitada autorização para funcionar como emprêsa de mineração.

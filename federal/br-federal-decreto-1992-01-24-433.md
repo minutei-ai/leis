@@ -1,5 +1,3 @@
-###DEC-000433-0-000-24-01-1992@@@
-
 DECRETO DE N° 433, DE 24 DE JANEIRO DE 1992
 
 Dispõe sobre a aquisição de imóveis rurais, para fins de reforma agrária, por meio de compra e venda.

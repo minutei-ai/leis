@@ -1,5 +1,3 @@
-###DEC-053431-0-000-20-01-1964@@@
-
 DECRETO Nº 53.431, DE 20 DE JANEIRO DE 1964.
 
 Declara caduco o Decreto nº 26.462, de 11 de março de 1949.

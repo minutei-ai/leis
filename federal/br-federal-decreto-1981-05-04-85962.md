@@ -1,5 +1,3 @@
-###DEC-085962-0-000-04-05-1981@@@
-
 Decreto nº 85.962, de 04 de maio de 1981
 
 Autoriza o funcionamento das habilitações em Administração Escolar e em Supervisão Escolar, da Faculdade de Ciências e Letras de Ribeirão Pires, com sede na cidade de Ribeirão Pires, Estado de São Paulo.

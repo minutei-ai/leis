@@ -1,5 +1,3 @@
-###DEC-066558-0-000-12-05-1970@@@
-
 DECRETO Nº 66.558, DE 12 DE MAIO DE 1970.
 
 Autoriza funcionamento de Faculdade de Filosofia, Ciências e Letras de Patos, no Estado da Paraíba.

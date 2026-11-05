@@ -1,5 +1,3 @@
-###DEC-096755-0-000-22-09-1988@@@
-
 DECRETO N° 96.755, DE 22 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE OLÍMPIA LTDA,. e autoriza a transferência direta para o Sistema Nova Difusora Ltda., para explorar serviço de radiodifusão sonora em onda média, na cidade de Olímpia, Estados de São Paulo.

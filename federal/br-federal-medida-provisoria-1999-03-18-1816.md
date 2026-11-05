@@ -1,5 +1,3 @@
-###MPV-001816-0-000-18-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.816, DE 18 DE MARÇO DE 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

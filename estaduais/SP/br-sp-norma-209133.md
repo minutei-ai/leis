@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209133)<br>
-
 # DECRETO N° 68.358, DE 29 DE FEVEREIRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de uso, a título gratuito e por prazo determinado, da EMAE - Empresa Metropolitana de Águas e Energia S.A., o imóvel que especifica._

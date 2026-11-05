@@ -1,5 +1,3 @@
-###DEC-074739-0-000-22-10-1974@@@
-
 Decreto nº 74.739, de 22 de outubro de 1974.
 
 Dá nova redação ao artigo 4º, do Decreto nº 72.293, de 24 de maio de 1973, que outorgou à Companhia Paranaense de Energia Elétrica - COPEL concessão para aproveitamento hidráulico no Estado do Paraná.

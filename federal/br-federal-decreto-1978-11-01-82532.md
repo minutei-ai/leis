@@ -1,5 +1,3 @@
-###DEC-082532-0-000-01-11-1978@@@
-
 Decreto nº 82.532, de 01 de novembro de 1978
 
 Inclui na classificação de órgãos de deliberação coletiva, aprovada pelo Decreto número 69.907, de 07 de janeiro de 1972, o Conselho do Serviço Nacional de Formação Profissional Rural.

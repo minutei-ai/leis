@@ -1,5 +1,3 @@
-###DEL-001524-0-000-14-02-1977@@@
-
 # DECRETO-LEI Nº 1.524, DE 14 DE FEVEREIRO DE 1977
 
 Dispõe sobre as tarifas dos transportes aéreos domésticos

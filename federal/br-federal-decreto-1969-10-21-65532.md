@@ -1,5 +1,3 @@
-###DEC-065532-0-000-21-10-1969@@@
-
 DECRETO Nº 65.532 - DE 21 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento de Polícia Federal, cargo originário do extinto Serviço de Navegação da Bacia do Prata e dá outras providências.

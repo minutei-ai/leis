@@ -1,5 +1,3 @@
-###DEC-071123-0-000-19-09-1972@@@
-
 Decreto nº 71.123, de 19 de setembro de 1972.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra e respectiva faixa de acesso, sem benfeitorias, situadas no município de Analândia, Estado de São Paulo, destinadas à instalação de uma estação repetidora de microondas e serviços afins, pela Companhia Telefônica Brasileira.
@@ -23,8 +21,6 @@ Brasília, 19 de setembro de 1972; 151º da Independência e 84º da República.
 Emílio G. Médici
 
 Hygino C. Corsetti
-
-###DEC-071123-0-000-19-09-1972@@@
 
 Decreto nº 71.123, de 19 de setembro de 1972.
 

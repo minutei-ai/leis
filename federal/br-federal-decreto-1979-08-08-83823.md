@@ -1,5 +1,3 @@
-###DEC-083823-0-000-08-08-1979@@@
-
 Decreto nº 83.823, de 08 de agosto de 1979.
 
 Prorroga a autorização para afretamento de navios especiais, no exterior destinados à utilização na cabotagem.

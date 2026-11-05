@@ -1,14 +1,12 @@
-###DEC-020433-0-000-22-01-1946@@@
+**DECRETO Nº 20.433, DE 22 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.433, DE 22 DE JANEIRO DE 1946.</strong>
+***Altera o Regulamento do Serviço de Saúde da Aeronáutica.***
 
-<em><strong>Altera o Regulamento do Serviço de Saúde da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra  da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra  da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento do Serviço de Saúde da Aeronáutica, aprovado pelo Decreto nº 19.688, de 29 de setembro de 1945, é assim retificado:
+**Art**. 1º O Regulamento do Serviço de Saúde da Aeronáutica, aprovado pelo Decreto nº 19.688, de 29 de setembro de 1945, é assim retificado:
 
 a) o § 1º do artigo 6º passa ater a seguinte redação:
 
@@ -76,6 +74,6 @@ Artigo 2º O presente Decreto entra em vigor na data de sua publicação, revoga
 
 Rio de Janeiro, 22 de Janeiro de 1946; 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 Armando F. Trompowsky

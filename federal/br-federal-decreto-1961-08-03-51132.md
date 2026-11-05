@@ -1,5 +1,3 @@
-###DEC-051132-0-000-03-08-1961@@@
-
 DECRETO Nº 51.132, DE 3 DE AGÔSTO DE 1961.
 
 Cria na Superintendência do Plano de Valorização Econômica da Amazônia o Grupo Executivo da Juta, incumbido de promover estímulos creditícios, fiscais, de assistência técnica e outros às atividades ligadas à produção, comercialização e industrialização da juta e fibras amazônicas semelhantes.

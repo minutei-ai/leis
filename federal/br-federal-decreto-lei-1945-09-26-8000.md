@@ -1,5 +1,3 @@
-###DEL-008000-0-000-26-09-1945@@@
-
 DECRETO-LEI N. 8.000 – DE 26 DE SETEMBRO DE 1945
 
 Altera carreiras e cria funções gratificadas no Ministério da Justiça e Negócios Interiores, e dá outras providências.

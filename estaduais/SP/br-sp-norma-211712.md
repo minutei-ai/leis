@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211712)<br>
-
 # DECRETO N° 70.016, DE 21 DE OUTUBRO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação, imóvel situado no Município e Comarca de Franca, necessário à instalação do Fórum local, e dá providências correlatas._

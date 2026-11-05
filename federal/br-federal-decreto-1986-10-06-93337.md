@@ -1,5 +1,3 @@
-###DEC-093337-0-000-06-10-1986@@@
-
 DECRETO Nº 93.337, DE 6 DE OUTUBRO DE 1986
 
 Dispõe sobre a subordinação da Comissão Nacional de Energia Nuclear (CNEN), e dá outras providências.

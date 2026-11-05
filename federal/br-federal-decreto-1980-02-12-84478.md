@@ -1,5 +1,3 @@
-###DEC-084478-0-000-12-02-1980@@@
-
 Decreto nº 84.478, de 12 de fevereiro de 1980
 
 Autoriza o funcionamento do curso de Administração da Faculdade Ibero-Americana de Letras e Ciências Humanas de São Paulo, Estado de São Paulo.

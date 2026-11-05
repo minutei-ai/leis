@@ -1,5 +1,3 @@
-###DEC-067347-0-000-05-10-1970@@@
-
 DECRETO Nº 67.347, DE 5 DE OUTUBRO DE 1970.
 
 Estabelece diretrizes e normas de ação para defesa permanente contra as calamidades públicas, cria Grupo Especial e dá outras providências.

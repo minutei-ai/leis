@@ -1,5 +1,3 @@
-###DEC-064466-0-000-06-05-1969@@@
-
 DECRETO Nº 64.466, DE 6 DE MAIO DE 1969.
 
 Declara de utilidade pública a Irmandade de Misericórdia do Jahú, com sede em Jaú, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-059330-0-000-29-09-1966@@@
-
 DECRETO Nº 59.330, DE 29 DE SETEMBRO DE 1966.
 
 Outorga à Espirito Santo Centrais Elétricas Sociedade Anônima concessão para distribuir energia elétrica.

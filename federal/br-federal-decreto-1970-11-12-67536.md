@@ -1,5 +1,3 @@
-###DEC-067536-0-000-12-11-1970@@@
-
 DECRETO Nº 67.536, DE 12 DE NOVEMBRO DE 1970.
 
 Declara caduco o Decreto nº 19.735 de 5 de outubro de 1945.

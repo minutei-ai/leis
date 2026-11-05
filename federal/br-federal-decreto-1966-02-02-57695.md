@@ -1,5 +1,3 @@
-###DEC-057695-0-000-02-02-1966@@@
-
 decreto nº 57.695, de 2 de fevereiro de 1966.
 
 Abre pelo Ministério da Fazenda o crédito especial de Cr$58.960.943 para o fim que especifica.

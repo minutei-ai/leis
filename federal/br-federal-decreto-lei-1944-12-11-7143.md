@@ -1,5 +1,3 @@
-###DEL-007143-0-000-11-12-1944@@@
-
 DECRETO-LEI N. 7.143 – DE 11 DE DEZEMBRO DE 1944
 
 Autoriza reintegração em cargo vago do Quadro Suplementar do Ministério da Agricultura

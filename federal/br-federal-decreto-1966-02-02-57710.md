@@ -1,5 +1,3 @@
-###DEC-057710-0-000-02-02-1966@@@
-
 DECRETO Nº 57.710, de 2 de fevereiro de 1966.
 
 Transfere da São Paulo Light S.A. - Serviços de Eletricidade para o Departamento de Águas e Energia Elétrica do Estado de São Paulo, a autorização contida no Decreto nº 52.821, de 13 de novembro de 1963.

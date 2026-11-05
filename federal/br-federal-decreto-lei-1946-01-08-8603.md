@@ -1,5 +1,3 @@
-###DEL-008603-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.603 – DE 8 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de (dois milhões oitocentos e trinta e nove mil duzentos e treze cruzeiros e vinte centavos) Cr$ 2.839.213,20 (Material) para instalação de serviços ampliados criados pelo Decreto-lei número 6.378, de 28 de março de 1944

@@ -1,5 +1,3 @@
-###DEL-009250-0-000-10-05-1946@@@
-
 DECRETO-LEI N. 9.250 – 10 DE MAIO DE 1946
 
 Autoriza a fixação do preço de gordo destinado ao consumo e de outras providências

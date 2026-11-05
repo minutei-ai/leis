@@ -1,5 +1,3 @@
-###DEC-003339-0-000-18-01-2000@@@
-
 DECRETO Nº 3.339, DE 18 DE JANEIRO DE 2000.
 
 Localiza Organização Militar do Comando da Aeronáutica e dá outras providências.

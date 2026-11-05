@@ -1,5 +1,3 @@
-###DEL-004561-0-000-10-08-1942@@@
-
 DECRETO-LEI N. 4.561 – DE 10 DE AGOSTO DE 1942
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências

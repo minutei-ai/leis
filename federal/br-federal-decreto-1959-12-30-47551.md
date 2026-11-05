@@ -1,5 +1,3 @@
-###DEC-047551-0-000-30-12-1959@@@
-
 DECRETO Nº 47.551, DE 30 DE dezembRO DE 1959.
 
 Autoriza a brasileira Maria Celina Lobato a pesquisar areias ilmenníticias nos municípios de Pacatuba e Japoatã, Estado de Sergipe.

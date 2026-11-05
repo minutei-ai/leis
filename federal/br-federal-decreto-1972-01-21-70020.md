@@ -1,5 +1,3 @@
-###DEC-070020-0-000-21-01-1972@@@
-
 DECRETO Nº 70.020, DE 21 DE JANEIRO DE 1972.
 
 Concede à Quartzo e Feldspato de Socorro Ltda., o direito de lavrar feldspato e quartzo, no município de Inconfidentes, Estado de Minas Gerais.

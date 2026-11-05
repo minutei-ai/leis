@@ -1,7 +1,3 @@
-1
-
-###MPV-001416-0-000-02-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.416, DE 2 DE MAIO DE 1996.
 
 Acrescenta parágrafo ao art. 75 da Lei nº 4.728, de 14 de julho de 1965.

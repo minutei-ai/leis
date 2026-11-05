@@ -1,5 +1,3 @@
-###DEC-047520-0-000-28-12-1959@@@
-
 DECRETO Nº 47.520, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza a cidadão brasileira Maria Celina Lobato a pesquisar areias ilmeníticas, no município de Barra dos Coqueiros, Estado do Sergipe.

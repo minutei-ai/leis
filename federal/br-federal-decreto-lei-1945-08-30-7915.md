@@ -1,5 +1,3 @@
-###DEL-007915-0-000-30-08-1945@@@
-
 DECRETO-LEI N. 7.915 – DE 30 DE AGÔSTO DE 1945
 
 Dispõe sôbre a aplicação dos créditos atribuídos ao Tribunal Superior Eleitoral.

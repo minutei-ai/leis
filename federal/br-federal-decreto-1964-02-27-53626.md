@@ -1,5 +1,3 @@
-###DEC-053626-0-000-27-02-1964@@@
-
 DECRETO Nº 53.626, de 27 DE FEVEREIRO DE 1964.
 
 Concede à sociedade anônima J. Walter Thompson Company do Brasil autorização para continuar a funcionar na República.

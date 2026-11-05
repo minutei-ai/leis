@@ -1,5 +1,3 @@
-###DEC-094418-0-000-10-06-1987@@@
-
 DECRETO Nº 94.418, DE 10 DE JUNHO DE 1987
 
 Renova a concessão outorgada à RÁDIO TELEVISÃO SERGIPE S.A. para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Aracaju, Estado de Sergipe.

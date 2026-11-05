@@ -1,5 +1,3 @@
-###DEC-049586-0-000-22-12-1960@@@
-
 DECRETO Nº 49.586, DE 22 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$40.000.000,00, para manutenção da Estrada de Ferro Santa Catarina até sua definitiva reversão para o Govêrno Federal.

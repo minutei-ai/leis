@@ -1,5 +1,3 @@
-###DEC-091969-0-000-20-11-1985@@@
-
 Decreto nº 91.969, de 20 de novembro de 1985
 
 Torna sem efeito o Decreto nº 90.642, de 10 de dezembro de 1984, que outorgou concessão à TELEVISÃO ATALAIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Propriá, Estado de Sergipe.

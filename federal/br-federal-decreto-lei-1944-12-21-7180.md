@@ -1,5 +1,3 @@
-###DEL-007180-0-000-21-12-1944@@@
-
 DECRETO-LEI N. 7.180 – DE 21 DE DEZEMBRO DE 1944
 
 Dá nova redação ao art. 7º do Decreto-lei nº 4.655, de 3 de setembro de 1942

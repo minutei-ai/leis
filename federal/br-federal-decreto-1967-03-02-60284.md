@@ -1,5 +1,3 @@
-###DEC-060284-0-000-02-03-1967@@@
-
 DECRETO Nº 60.284, DE 2 DE MARÇO DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Belavista, inclusive aumento do capital social.

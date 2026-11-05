@@ -1,5 +1,3 @@
-###DEC-088437-0-000-28-06-1983@@@
-
 Decreto nº 88.437, de 28 de junho de 1983
 
 Dá nova redação ao § 3º do art. 2º do Decreto nº 84.560, de 14 de março de 1980, que regulamentou a Lei nº 6.708, de 30 de outubro de 1979.

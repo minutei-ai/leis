@@ -1,5 +1,3 @@
-###DEC-002628-0-000-15-06-1998@@@
-
 DECRETO Nº 2.628, DE 15 DE JUNHO DE 1998
 
 Altera dispositivos do Decreto nº 2.414, de 8 de dezembro de 1997, que consolida o Regulamento da Lei nº 8.249, de 24 de outubro de 1991, que estabelece as características da Nota do Tesouro Nacional - NTN, e dá outras providências.

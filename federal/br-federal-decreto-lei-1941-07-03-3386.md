@@ -1,5 +1,3 @@
-###DEL-003386-0-000-03-07-1941@@@
-
 DECRETO-LEI N. 3.386 – DE 3 DE JULHO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 850:000$0 para atender às despesas que especifica, na Fábrica do Galeão

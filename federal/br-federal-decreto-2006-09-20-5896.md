@@ -1,5 +1,3 @@
-###DEC-005896-0-000-20-09-2006@@@
-
 DECRETO Nº 5.896, DE 20 DE SETEMBRO DE 2006.
 
 Dá nova redação ao art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto no 88.777, de 30 de setembro de 1983, e dá outras providências.
@@ -45,5 +43,3 @@ Brasília, 20 de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
        Jorge Armando Felix
-
-Este texto não substitui o publicado no D.O.U. de 21.9.2006.

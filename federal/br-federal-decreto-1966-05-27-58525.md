@@ -1,5 +1,3 @@
-###DEC-058525-0-000-27-05-1966@@@
-
 DECRETO Nº 58.525, DE 27 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro José Maria Aguiar a pesquisar cassiterita, no município de Lábrea, Estado do Amazonas.

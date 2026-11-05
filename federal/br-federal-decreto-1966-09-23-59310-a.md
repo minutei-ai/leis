@@ -1,5 +1,3 @@
-###DEC-059310-A-000-23-09-1966@@@
-
 DECRETO Nº 59.310-A, DE 23 DE SETEMBRO DE 1966.
 
 Aplica à Companhia Nacional Contra a Tuberculose do Serviço Nacional de Tuberculose o aumento de que trata a Lei nº 4.863, de 29 de novembro de 1965.

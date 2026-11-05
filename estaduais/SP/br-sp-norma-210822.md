@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210822)<br>
-
 # DECRETO N° 69.460, DE 28 DE MARÇO DE 2025
 
 ### _Institui o Sistema Paulista de Bilhetagem para Trilhos - SPBT, sob a coordenação da Secretaria de Parcerias em Investimentos, com o objetivo de operacionalizar a política pública de bilhetagem e arrecadação dos serviços de transporte público coletivo de passageiros sobre trilhos prestados no âmbito do Estado._

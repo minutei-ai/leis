@@ -1,5 +1,3 @@
-###DEC-058603-0-000-14-06-1966@@@
-
 DECRETO Nº 58.603, DE 14 DE JUNHO DE 1966.
 
 Dispõe sôbre a organização da Junta Nacional de Educação de Analfabetos e de Juntas Estaduais, com o objetivo de dar meio de execução ao que dispõe a letra g do Art. 2º do Decreto nº 57.895, de 28 de Fevereiro de 1966.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099297-0-000-12-06-1990@@@
-
 DECRETO N° 99.297, DE 12 DE JUNHO DE 1990
 
 Aprova o Regimento Interno da Comissão Exclusiva de Licitação de Serviços de Publicidade.

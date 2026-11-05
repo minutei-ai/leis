@@ -161,7 +161,3 @@ Danilo de Castro
 Paulo de Tarso Almeida Paiva
 
 José Bonifácio Borges de Andrada
-
-\================================================================
-
-Data da última atualização: 30/07/2010.

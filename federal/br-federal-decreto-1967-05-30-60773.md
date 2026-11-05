@@ -1,5 +1,3 @@
-###DEC-060773-0-000-30-05-1967@@@
-
 decreto nº 60.773, de 30 de maio de 1967.
 
 Declara de utilidade pública a “Sociedade Pestolozzi de São Paulo”, com sede em São Paulo, Estado de São Paulo.

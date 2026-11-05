@@ -1,5 +1,3 @@
-###DEC-056062-0-000-26-04-1965@@@
-
 Decreto nº 56.062, de 26 de abril de 1965.
 
 Declara caduco o Decreto nº 40.198, de 30 de outubro de 1956, renovado pelo de nº 47.299, de 30 de novembro de 1959.

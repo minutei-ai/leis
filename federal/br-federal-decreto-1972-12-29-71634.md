@@ -1,5 +1,3 @@
-###DEC-071634-0-000-29-12-1972@@@
-
 decreto nº 71.634 - de 29 de dezembro de 1972
 
 Torna sem efeito cassação de disponibilidade de servidor da extinta Comissão do Vale do São Francisco.

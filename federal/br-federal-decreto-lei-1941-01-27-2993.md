@@ -1,5 +1,3 @@
-###DEL-002993-0-000-27-01-1941@@@
-
 DECRETO-LEI N. 2.993 – DE 27 DE JANEIRO DE 1941
 
 Prorroga, por mais doze meses, os prazos a que se refere o parágrafo único do artigo único do decreto-lei n. 1.460, de 29 de julho de 1939.

@@ -30,8 +30,6 @@ Art. 4º Esta Lei entra em vigor em 1º de janeiro do ano letivo posterior ao de
 
 Goiânia, 10 de agosto de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

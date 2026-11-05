@@ -1,5 +1,3 @@
-###DEC-054691-0-000-29-10-1964@@@
-
 DECRETO Nº 54.691, DE 29 DE OUTUBRO DE 1964.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$250.000.000,00 para fins que especifica.

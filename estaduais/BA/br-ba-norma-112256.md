@@ -4,7 +4,8 @@ Dispõe sobre incentivos à inovação e à pesquisa científica e tecnológica 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Esta Lei estabelece medidas de incentivo à inovação e à pesquisa científica e tecnológica no ambiente produtivo, visando ao alcance de uma maior dinâmica tecnológica, de capacitação, de competitividade e de desenvolvimento econômico e social do Estado da Bahia, em consonância com as normas gerais estabelecidas na Lei Federal nº 10.973, de 2 de dezembro de 2004, e segundo os mandamentos dos artigos 265 e 268 da [Constituição do Estado da Bahia](https://www.legislabahia.ba.gov.br/documentos/lei-no-11174-de-09-de-dezembro-de-2008#) .
@@ -35,7 +36,8 @@ XI - Inventor independente: pessoa física, não ocupante de cargo efetivo, mili
 
 XII - Empresa Inovadora: empresa legalmente constituída, cuja atividade produtividade está baseada na geração de inovações contemplando aplicação sistemática de técnicas pioneiras de conhecimentos científicos e tecnológicos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO ESTÍMULO À CONSTRUÇÃO DE AMBIENTES ESPECIALIZADOS E COOPERATIVOS DE INOVAÇÃO
 
 Art. 3º - O Estado da Bahia, seus Municípios e as agências de fomento poderão estimular e apoiar a constituição de alianças estratégicas e o desenvolvimento de projetos de cooperação em todo o território nacional envolvendo empresas nacionais ou internacionais, Instituições Científicas e Tecnológicas públicas ou privadas e organizações de direito privado sem fins lucrativos voltadas para atividades de pesquisa e desenvolvimento ou apoio à inovação, que objetivem a geração de produtos, processos ou serviços inovadores.
@@ -48,7 +50,8 @@ I - permitir a utilização e/ou compartilhamento de seus laboratórios, equipam
 
 Parágrafo único - A permissão e o compartilhamento de que trata o inciso I do caput deste artigo obedecerão às prioridades, critérios e requisitos aprovados e divulgados pelo órgão máximo da ICTBA, observadas as respectivas disponibilidades e assegurada a igualdade de oportunidades às empresas e organizações interessadas.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA PARTICIPAÇÃO DAS INSTITUIÇÕES CIENTÍFICAS E TECNOLÓGICAS NO PROCESSO DE INOVAÇÃO
 
 Art. 5º - Cada ICTBA deverá estabelecer sua política de estimulo à inovação e à proteção dos resultados das pesquisas.
@@ -169,7 +172,8 @@ VII - as parcerias realizadas e perfil dos parceiros.
 
 Parágrafo único - As ICTBA deverão manter banco de dados das tecnologias a serem comercializadas, respeitado o período de confidencialidade exigido por lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO ESTÍMULO AO PESQUISADOR PÚBLICO
 
 Art. 19 - É assegurada ao criador participação mínima de 5% (cinco por cento) e máxima de um terço nos ganhos econômicos, auferidos pela ICTBA, resultantes de contratos de transferência de tecnologia e de licenciamento para outorga de direito de uso ou de exploração de criação protegida da qual tenha sido o inventor, obtentor ou autor.
@@ -202,7 +206,8 @@ Art. 22 - A Administração Pública poderá conceder ao pesquisador público, q
 
 § 3º - A licença de que trata este artigo poderá ser interrompida, a qualquer tempo, a pedido do pesquisador público.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DO ESTÍMULO AO INVENTOR INDEPENDENTE
 
 Art. 23 - Ao inventor independente é facultado solicitar a adoção de sua criação por ICTBA, que decidirá livremente quanto à conveniência e oportunidade da solicitação, visando à elaboração de projeto voltado à sua avaliação para futuro desenvolvimento, incubação, utilização e industrialização pelo setor produtivo.
@@ -223,7 +228,8 @@ Art. 24 - O inventor independente pode ainda solicitar apoio da agência de fome
 
 Parágrafo único - Aplicam-se ao presente artigo os §§ 1º ao 6º do artigo 23 desta Lei.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DO ESTÍMULO À INOVAÇÃO NAS EMPRESAS
 
 Art. 25 - O Estado, por meio de seus órgãos da administração pública direta ou indireta, incentivará a participação de empresas nacionais no processo de inovação tecnológica, mediante o compartilhamento de recursos humanos, materiais e de infra-estrutura ou a concessão de apoio financeiro ou de incentivo fiscal a serem ajustados em acordos específicos.
@@ -262,14 +268,16 @@ Art. 26 - Os órgãos e entidades da administração pública estadual podem, em
 
 Art. 27 - Na contratação de produtos e serviços ofertados por empresas de base tecnológica, os órgãos da entidade da administração pública estadual, direta ou indireta, levando em consideração condições equivalentes de prazo de entrega, suporte de serviços, qualidade, padronização, compatibilidade e especificação de desempenho e preço, devem dar preferência nas aquisições de bens e serviços produzidas por empresas de sede e administração no Estado.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DOS FUNDOS DE INVESTIMENTO
 
 Art. 28 - Fica autorizada a instituição de fundos mútuos de investimento em empresas cuja atividade principal seja a inovação, caracterizados pela comunhão de recursos captados por meio do sistema de distribuição de valores mobiliários, na forma da Lei Federal no 6.385, de 7 de dezembro de 1976, destinados à aplicação em carteira diversificada de valores mobiliários de emissão dessas empresas.
 
 Parágrafo único - A Comissão de Valores Mobiliários editará normas complementares sobre a constituição, o funcionamento e a administração dos fundos, de que trata o caput deste artigo.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 29 - As ICTBA e os órgãos e entidades da Administração Pública Estadual adotarão em seus orçamentos as medidas cabíveis para a sua administração e gestão da sua política de inovação tecnológica e proteção de criações pela legislação da propriedade intelectual, assim como, instrumentos gerenciais próprios para permitir o recebimento e distribuição dos ganhos econômicos decorrentes da comercialização de tecnologias, de acordo com o estabelecido nesta Lei.

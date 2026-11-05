@@ -1,34 +1,32 @@
-###DEC-040050-0-000-29-09-1956@@@
+**DECRETO Nº 40.050, DE 29 DE SETEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.050, DE 29 DE SETEMBRO DE 1956.</strong>
+***Aprova o Regimento da Diretoria do Ensino Secundário, do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento da Diretoria do Ensino Secundário, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Diretoria do Ensino Secundário (D.E.S.) do Ministério da Educação e Cultura, que, assinado pelo respectivo Ministro de Estado com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Diretoria do Ensino Secundário (D.E.S.) do Ministério da Educação e Cultura, que, assinado pelo respectivo Ministro de Estado com êste baixa.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 29 de setembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clovis Salgado
 
-<strong>REGIMENTO DA DIRETORIA DO ENSINO SECUNDÁRIO</strong>
+**REGIMENTO DA DIRETORIA DO ENSINO SECUNDÁRIO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade e Competência</em>
+*Da Finalidade e Competência*
 
-<strong>Art</strong>. 1º A Diretoria de Ensino Secundário subordinada ao Ministro da Educação e Cultura, tem por finalidade exercer atividades de administração do ensino secundário, de competência federal, a ela atribuídas pela legislação, e em, especial, promover e orientar a aplicação das leis do ensino secundário sob a jurisdição do Ministério da Educação e Cultura.
+**Art**. 1º A Diretoria de Ensino Secundário subordinada ao Ministro da Educação e Cultura, tem por finalidade exercer atividades de administração do ensino secundário, de competência federal, a ela atribuídas pela legislação, e em, especial, promover e orientar a aplicação das leis do ensino secundário sob a jurisdição do Ministério da Educação e Cultura.
 
-<strong>Art</strong>. 2º À Diretoria do Ensino Secundário compete:
+**Art**. 2º À Diretoria do Ensino Secundário compete:
 
 I - verificar as condições materiais e didáticas de estabelecimento de ensino secundário, para fins de concessão das prerrogativas da inspeção federal e proceder a revisões periódicas dessas condições nos estabelecimentos inspecionado;
 
@@ -50,11 +48,11 @@ IX - promover intercâmbio entre escolas e educadores secundários nacionais e e
 
 X - particular, na forma da lei da administração do Fundo Nacional do Ensino Médio.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º A Diretoria compõe-se de:
+**Art**. 3º A Diretoria compõe-se de:
 
 Seção de Prédios e Aparelhamento Escolares (S.P.A.E.);
 
@@ -70,15 +68,15 @@ Serviço Auxiliar (S.A.).
 
 Parágrafo único. Subordinadas ao Diretor funcionarão Inspetorias Seccionais, através das quais se exercerá a ação regional da Diretoria.
 
-<strong>Art</strong>. 4º A Diretoria terá um Diretor subordinado diretamente ao Ministro da Educação e Cultura; as Seções e o Serviço Auxiliar terão Chefes subordinados diretamente ao Diretor; as Inspetorias Seccionais terão Inspetores Seccionais e um ou mais Inspetores Itinerantes e Inspetores Assistentes.
+**Art**. 4º A Diretoria terá um Diretor subordinado diretamente ao Ministro da Educação e Cultura; as Seções e o Serviço Auxiliar terão Chefes subordinados diretamente ao Diretor; as Inspetorias Seccionais terão Inspetores Seccionais e um ou mais Inspetores Itinerantes e Inspetores Assistentes.
 
-<strong>Art</strong>. 5º O Diretor terá um Assistente e um Secretário, escolhido dentre os servidores da Diretoria.
+**Art**. 5º O Diretor terá um Assistente e um Secretário, escolhido dentre os servidores da Diretoria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Das Seções</em>
+*Das Seções*
 
-<strong>Art</strong>. 6º À Seção de Prédios e Aparelhamento Escolares (S.P.A.E.) compete:
+**Art**. 6º À Seção de Prédios e Aparelhamento Escolares (S.P.A.E.) compete:
 
 I - Fazer estudos sôbre especificações e discriminações qualitativas e quantitativas mínimas relativas ao material didático e às instalações, a que devem obedecer os estabelecimentos de ensino secundário;
 
@@ -94,7 +92,7 @@ VI - prestar assistência técnica aos estabelecimentos para o melhoramento de s
 
 VII - Expedir certidões relativas a assuntos da Seção.
 
-<strong>Art</strong>. 7º À Seção de Pessoal Docente e Administrativo (S.P.D.A.) compete:
+**Art**. 7º À Seção de Pessoal Docente e Administrativo (S.P.D.A.) compete:
 
 I - promover o registro dos candidatos a diretor, secretário, orientador educacional e professor de estabelecimento de ensino secundário;
 
@@ -114,7 +112,7 @@ IV - informar processo de cancelamento ou suspensão de registro de membros do p
 
 V - fazer o levantamento do pessoal docente, técnico e administrativo, registrado e em exercício suas características pessoais e de habilitação profissional assim como condições de exercício.
 
-<strong>Art</strong>. 8º À Seção de Fiscalização da Vida Escolar (S.F.V.E.) compete:
+**Art**. 8º À Seção de Fiscalização da Vida Escolar (S.F.V.E.) compete:
 
 I - arquivar os relatórios das escolas relativas a alunos matriculados exames e promoções;
 
@@ -128,7 +126,7 @@ b) nome, idade, filiação e naturalidade de aluno e registrar as retificações
 
 IV - expedir certidões, certificados e fichas escolares.
 
-<strong>Art</strong>. 9º À Seção de Orientação e Assistência (S.O.A) compete:
+**Art**. 9º À Seção de Orientação e Assistência (S.O.A) compete:
 
 I - estudar bem como executar, diretamente ou em colaboração com outras entidades, ou ainda coordenar e orientar, as providências tendentes a:
 
@@ -144,7 +142,7 @@ III - prestar assistência técnico-pedagógica dos estabelecimentos de ensino e
 
 IV - manter contacto com organizações que concedam bôlsas de estudo de nível superior, a fim de obter benefícios para professôres.
 
-<strong>Art</strong>. 10. À Seção de Inspeção (S.I.) compete:
+**Art**. 10. À Seção de Inspeção (S.I.) compete:
 
 I - Estudar e planejar as normas relativas à fiscalização dos estabelecimentos de ensino secundário sob inspeção federal, assim como cuidar de sua revisão contínua e aperfeiçoamento;
 
@@ -174,11 +172,11 @@ VI - Expedir certidões relativas a assuntos da Seção.
 
 VII - Coordenar as atividades das Inspetorias Seccionais.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Serviço Auxiliar</em>
+*Do Serviço Auxiliar*
 
-<strong>Art</strong>. 11. Ao Serviço Auxiliar (S.A.) compete:
+**Art**. 11. Ao Serviço Auxiliar (S.A.) compete:
 
 I - elaborar os trabalhos mecanográficos e os atinentes a orçamento e comunicações;
 
@@ -192,11 +190,11 @@ V - exercer a administração do material e zelar pela conservação e limpeza d
 
 VI - expedir certidões relativas a assuntos de sua alçada.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Inspetorias Seccionais</em>
+*Das Inspetorias Seccionais*
 
-<strong>Art</strong>. 12. As Inspetorias Seccionais (I.S.) serão em número de 37 (trinta e sete) e terão suas áreas de jurisdição fixadas pelo Diretor do Ensino Secundário, havendo em cada uma, além do Inspetor Seccional que chefiará os Inspetores de Ensino Secundário em exercício na respectiva área de jurisdição, o número de Inspetores Assistentes e de Inspetores Itinerantes que vai abaixo discriminado em correspondência com as cidades que servirão de sede às mesmas Inspetorias:
+**Art**. 12. As Inspetorias Seccionais (I.S.) serão em número de 37 (trinta e sete) e terão suas áreas de jurisdição fixadas pelo Diretor do Ensino Secundário, havendo em cada uma, além do Inspetor Seccional que chefiará os Inspetores de Ensino Secundário em exercício na respectiva área de jurisdição, o número de Inspetores Assistentes e de Inspetores Itinerantes que vai abaixo discriminado em correspondência com as cidades que servirão de sede às mesmas Inspetorias:
 
 1\. Manaus (Estado do Amazonas)
 
@@ -420,7 +418,7 @@ VI - expedir certidões relativas a assuntos de sua alçada.
 
 1 Inspetor Itinerante
 
-<strong>Art</strong>. 13. Compete à Inspetoria Seccional, na área sob sua jurisdição:
+**Art**. 13. Compete à Inspetoria Seccional, na área sob sua jurisdição:
 
 I - Orientar e fiscalizar a aplicação da legislação do ensino secundário;
 
@@ -464,13 +462,13 @@ m) estudar a documentação e dar parecer sôbre os pedidos de registro de profe
 
 n) estudar a documentação e dar parecer sôbre a habilitação de diretores e secretários de estabelecimentos de ensino secundário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
 Do Diretor
 
-<strong>Art</strong>. 14. Ao diretor incumbe:
+**Art**. 14. Ao diretor incumbe:
 
 I - Dirigir os trabalhos da Diretoria;
 
@@ -538,7 +536,7 @@ XXVI - delegar competência para solução de assuntos que requeiram providênci
 
 Do Assistente
 
-<strong>Art</strong>. 15. Ao Assistente incumbe:
+**Art**. 15. Ao Assistente incumbe:
 
 I - auxiliar o Diretor, executando ou dirigindo a execução de trabalhos e exercendo as funções de que o mesmo o encarregar, no seu gabinete;
 
@@ -546,7 +544,7 @@ II - reunir os elementos necessários ao preparo de relatórios e boletins do di
 
 Do Secretário
 
-<strong>Art</strong>. 16. Ao Secretário incumbe:
+**Art**. 16. Ao Secretário incumbe:
 
 I - receber as pessoas que desejam falar ao diretor e encaminhá-las ou a ele transmitir o assunto, conforme as suas ordens;
 
@@ -554,7 +552,7 @@ II - representar o diretor quando para isto fôr, por êle designado.
 
 Do Chefe do Serviço Auxiliar e dos Chefes de Seção
 
-<strong>Art</strong>. 17. Ao Chefe do Serviço Auxiliar e a cada Chefe de Seção incumbe:
+**Art**. 17. Ao Chefe do Serviço Auxiliar e a cada Chefe de Seção incumbe:
 
 I - dirigir os trabalhos do serviço ou Seção ao seu cargo;
 
@@ -578,7 +576,7 @@ X - proferir despachos interlocutórios.
 
 Dos inspetores seccionais, dos inspetores assistentes e dos inspetores itinerantes
 
-<strong>Art</strong>. 18. Ao Inspetor Seccional incumbe:
+**Art**. 18. Ao Inspetor Seccional incumbe:
 
 I - supervisionar e orientar os trabalhos de inspeção na área sob a sua jurisdição;
 
@@ -614,7 +612,7 @@ XVI - exercer as atribuições que lhe forem confiadas pelo Diretor do Ensino Se
 
 XVII - determinar, quando julgar conveniente, a revisão de provas realizadas em estabelecimentos sob a jurisdição da respectiva I.S.
 
-<strong>Art</strong>. 19. Ao Inspetor Assistente incumbe:
+**Art**. 19. Ao Inspetor Assistente incumbe:
 
 I - auxiliar e assistir o Inspetor Seccional, executando ou dirigindo a execução das incumbências que lhe forem confiadas;
 
@@ -622,7 +620,7 @@ II - visitar, tôdas as vêzes que fizerem necessárias, os estabelecimentos na 
 
 III - responder pelo serviço de inspeção de estabelecimentos de ensino secundário.
 
-<strong>Art</strong>. 20. Ao Inspetor Itinerante incumbe:
+**Art**. 20. Ao Inspetor Itinerante incumbe:
 
 I - auxiliar o Inspetor Seccional cumprindo ou fazendo cumprir as determinações que lhe forem transmitidas;
 
@@ -634,31 +632,31 @@ IV - visitar pelo menos uma vez por mês, no desempenho de suas funções, os es
 
 Dos inspetores
 
-<strong>Art</strong>. 21. Os inspetores desempenharão os encargos determinados em instruções especiais.
+**Art**. 21. Os inspetores desempenharão os encargos determinados em instruções especiais.
 
 Dos demais servidores
 
-<strong>Art</strong>. 22. Aos servidores que não têm atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das funções que forem determinadas pelos chefes respectivos.
+**Art**. 22. Aos servidores que não têm atribuições especificadas neste regimento cabe a execução dos trabalhos próprios dos seus cargos ou das funções que forem determinadas pelos chefes respectivos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 23. A diretoria terá lotação fixada em decreto.
+**Art**. 23. A diretoria terá lotação fixada em decreto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 24. O horário normal de trabalho da Diretoria será estabelecido pelo Ministro, respeitando o número de horas semanais fixado para o serviço público.
+**Art**. 24. O horário normal de trabalho da Diretoria será estabelecido pelo Ministro, respeitando o número de horas semanais fixado para o serviço público.
 
 Parágrafo único. O diretor (?) de assinatura de ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 25. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 25. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o Diretor, pelo Chefe de Seção prèviamente designado pelo Ministro;
 
@@ -668,4 +666,4 @@ c) o Inspetor Seccional, pelo Inspetor Assistente.
 
 Rio de Janeiro, 29 de setembro de 1956.
 
-<strong>CLOVIS SALGADO</strong>
+**CLOVIS SALGADO**

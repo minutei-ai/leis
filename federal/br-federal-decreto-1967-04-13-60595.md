@@ -1,5 +1,3 @@
-###DEC-060595-0-000-13-04-1967@@@
-
 Decreto nº 60.595, de 13 de abril de 1967.
 
 Dispõe sôbre a televisão Educativa.

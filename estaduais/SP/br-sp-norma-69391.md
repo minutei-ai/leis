@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69391)
-
 # LEI Nº 12.495, DE 26 DE DEZEMBRO DE 2006
 
 ## (Projeto de lei nº 68/2006, do Deputado Roberto Alves - PTB)

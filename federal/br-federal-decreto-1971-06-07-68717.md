@@ -1,5 +1,3 @@
-###DEC-068717-0-000-07-06-1971@@@
-
 DECRETO Nº 68.717 - DE 7 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Irmandade de Misericórdia de Americana com sede em Americana, Estado de São Paulo.

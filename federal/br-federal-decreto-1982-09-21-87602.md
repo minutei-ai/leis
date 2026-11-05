@@ -1,5 +1,3 @@
-###DEC-087602-0-000-21-09-1982@@@
-
 Decreto nº 87.602, de 21 de setembro de 1982
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da ETD Cláudia da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

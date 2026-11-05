@@ -5983,7 +5983,3 @@ Kemil Said Kumaira, Presidente - Cleuber Brandão Carneiro, 1º-Vice-Presidente 
 PARTICIPANTES: Ademir Lucas Gomes - Aloísio Teixeira Garcia - Francisco Carlos Chico Ferramenta Delfino - José Adamo Belato - José Renato Novais - Samir Tannus - Serafim Lopes Godinho Filho - Sérgio Emílio Brant de Vasconcelos Costa - Vítor Penido de Barros
 
 IN MEMORIAM: Rubens Pinto Garcia
-
-\===============================================================
-
-Data da última atualização: 16/4/2026.

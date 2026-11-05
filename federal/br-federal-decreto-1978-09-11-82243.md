@@ -1,5 +1,3 @@
-###DEC-082243-0-000-11-09-1978@@@
-
 Decreto nº 82.243, de 11 de setembro de 1978.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-054253-0-000-03-09-1964@@@
-
 decreto nº 54.253, de 03 de setembro de 1964.
 
 Concede á Sociedade Anônima Southern Territories Limited autorização para continuar a funcionar na República.

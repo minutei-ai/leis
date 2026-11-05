@@ -1,5 +1,3 @@
-###DEC-004394-0-000-26-09-2002@@@
-
 DECRETO Nº 4.394, DE 26 DE SETEMBRO DE 2002
 
 Promulga a Convenção Internacional sobre a Supressão de Atentados Terroristas com Bombas, com reserva ao parágrafo 1 do art. 20.

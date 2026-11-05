@@ -1,5 +1,3 @@
-###DEC-059799-0-000-19-12-1966@@@
-
 DECRETO Nº 59,799, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Lino Abel a pesquisar areia quartzosa no município de Peruíbe, Estado de São Paulo.

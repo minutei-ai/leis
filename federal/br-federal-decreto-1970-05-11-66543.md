@@ -1,5 +1,3 @@
-###DEC-066543-0-000-11-05-1970@@@
-
 DECRETO Nº 66.543, DE 11 DE MAIO DE 1970.
 
 Institui programa de colaboração financeira para a edição de livros-texto em áreas prioritárias do Ensino Superior.

@@ -1,5 +1,3 @@
-###DEC-051972-A-000-26-04-1963@@@
-
 DECRETO Nº 51.972-A, DE 26 DE ABRIL DE 1963.
 
 Renova o Decreto nº 46.832, de 15 de setembro de 1959.

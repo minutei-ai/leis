@@ -1,5 +1,3 @@
-###DEC-003896-0-000-23-08-2001@@@
-
 DECRETO Nº 3.896, DE 23 DE AGOSTO 2001
 
 Dispõe sobre a regência dos serviços de telecomunicações, e dá outras providências

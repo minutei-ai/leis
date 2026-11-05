@@ -1,5 +1,3 @@
-###DEC-092472-0-000-19-03-1986@@@
-
 DECRETO Nº 92.472, DE 19 DE MARÇO DE 1986
 
 Dispõe sobre o aumento do Capital Social da Petróleo Brasileiro S.A. - PETROBRÁS.

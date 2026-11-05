@@ -1,5 +1,3 @@
-###DEC-056626-0-000-29-07-1965@@@
-
 Decreto nº 56.626, de 29 de julho de 1965.
 
 Altera o Regulamento da Escola de Especialistas de Aeronáutica.

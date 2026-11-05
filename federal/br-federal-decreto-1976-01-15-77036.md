@@ -1,5 +1,3 @@
-###DEC-077036-0-000-15-01-1976@@@
-
 DECRETO Nº 77.036, DE 15 DE JANEIRO DE 1976.
 
 Autoriza o funcionamento do curso de Nutricionista da Faculdade de Ciências da Saúde "São Camilo", com sede na cidade de São Paulo, Estado de São Paulo.

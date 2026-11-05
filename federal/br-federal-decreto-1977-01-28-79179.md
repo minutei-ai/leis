@@ -1,5 +1,3 @@
-###DEC-079179-0-000-28-01-1977@@@
-
 Decreto nº 79.179, de 28 de janeiro de 1977.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

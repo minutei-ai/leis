@@ -1,5 +1,3 @@
-###DEC-051133-0-000-03-08-1961@@@
-
 DECRETO Nº 51.133, DE 3 DE AGôSTO DE 1961.
 
 Cria o Grupo de Organização da Comissão Nacional de Estudos Espaciais e dá outras providências.

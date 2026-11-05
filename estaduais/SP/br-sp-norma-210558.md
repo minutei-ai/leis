@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210558)<br>
-
 # DECRETO N° 69.329, DE 23 DE JANEIRO DE 2025
 
 ### _Institui, no Gabinete do Secretário da Saúde, o Centro de Operações de Emergências - COE contra as arboviroses urbanas._

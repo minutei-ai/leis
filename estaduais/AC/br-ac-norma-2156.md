@@ -1,6 +1,10 @@
 > **LEI Nº 3.399, DE 30 DE JULHO DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui no Calendário Oficial do Estado o Dia da Cultura Ayahuasqueira.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui no Calendário Oficial do Estado o Dia da Cultura Ayahuasqueira.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

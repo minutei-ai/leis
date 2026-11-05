@@ -1,5 +1,3 @@
-###DEC-074650-0-000-04-10-1974@@@
-
 DECRETO nº 74.650, DE 4 DE OUTUBRO DE 1974.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras do Norte de Minas, mantida pela Fundação Norte Mineira de Ensino Superior, com sede na Cidade de Montes Claros, Estado de Minas Gerais.

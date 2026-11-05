@@ -1,5 +1,3 @@
-###DEC-004673-0-000-16-04-2003@@@
-
 DECRETO N° 4.673, DE 16 DE ABRIL DE 2003.
 
 Dispõe sobre a execução de atividades de administração de pessoal, material, de patrimônio, serviços gerais, de orçamento e finanças, relativas à manutenção dos órgãos que menciona, e dá outras providências.

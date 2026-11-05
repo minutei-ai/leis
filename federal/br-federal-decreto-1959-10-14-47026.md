@@ -1,5 +1,3 @@
-###DEC-047026-0-000-14-10-1959@@@
-
 DECRETO Nº 47.026, DE 14 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Ari Machado a pesquisar mica e pedras coradas, no município de Galiléia, Estado de Minas Gerais.

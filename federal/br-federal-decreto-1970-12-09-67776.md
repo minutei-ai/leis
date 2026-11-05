@@ -1,5 +1,3 @@
-###DEC-067776-0-000-09-12-1970@@@
-
 Decreto nº 67.776, de 9 de dezembro de 1970.
 
 Declara caduco o Decreto número 20.521, de 24 de janeiro de 1946.

@@ -1,5 +1,3 @@
-###DEL-006756-0-000-31-07-1944@@@
-
 DECRETO-LEI N. 6.756 – DE 31 DE JULHO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 20.000.000,00 para a Fábrica Nacional de Motores

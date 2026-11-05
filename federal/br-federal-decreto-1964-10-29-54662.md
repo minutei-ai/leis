@@ -1,5 +1,3 @@
-###DEC-054662-0-000-29-10-1964@@@
-
 DECRETO Nº 54.662, DE 29 DE OUTUBRO DE 1964.
 
 Concede permissão, em caráter permanente, à S.A. Cotonifício Gávea, sediada no Rio de Janeiro, Estado da Guanabara, para funcionar com sua seção destinada à fabricação de fibra “Polyester” aos domingos e nos feriados civis e religiosos.

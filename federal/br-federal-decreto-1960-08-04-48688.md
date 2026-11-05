@@ -1,5 +1,3 @@
-###DEC-048688-0-000-04-08-1960@@@
-
 DECRETO Nº 48.688, DE 4 DE AGÔSTO DE 1960.
 
 Dispõe sôbre função gratificada do Quadro de Pessoal do Departamento Nacional de Estradas e Rodagem.

@@ -1,5 +1,3 @@
-###DEC-045685-0-000-01-04-1959@@@
-
 DECRETO Nº 45.685, DE 1º DE ABRIL DE 1959.
 
 Concede o abono provisório aos servidores do Conselho Regional de Engenharia e Arquitetura - 3ª Região (Bahia e Sergipe).

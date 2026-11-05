@@ -1,5 +1,3 @@
-###DEC-052649-0-000-10-10-1963@@@
-
 Decreto Nº 52.649, DE 10 DE OUTUBRO DE 1963.
 
 Altera a lotação numérica das Repartições atendidas pelo Quadro de Pessoal - Parte Permanente do Ministério de Justiça e Negócios Interiores.

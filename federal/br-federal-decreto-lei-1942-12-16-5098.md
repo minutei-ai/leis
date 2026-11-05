@@ -1,5 +1,3 @@
-###DEL-005098-0-000-16-12-1942@@@
-
 DECRETO-LEI N. 5.098 – DE 16 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 915.545,00 para atender às despesas com a instalação do Hospital Psiquiátrico, da Colônia Gustavo Riedel, no Engenho de Dentro.

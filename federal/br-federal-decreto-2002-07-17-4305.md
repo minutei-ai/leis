@@ -1,5 +1,3 @@
-###DEC-004305-0-000-17-07-2002@@@
-
 DECRETO Nº 4.305, DE 17 DE JULHO DE 2002
 
 Dá nova redação ao caput do art. 2º do Decreto nº 4.049, de 12 de dezembro de 2001, que dispõe sobre a inscrição de despesas em Restos a Pagar no exercício de 2002, e dá outras providências.

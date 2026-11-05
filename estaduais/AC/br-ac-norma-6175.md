@@ -1,6 +1,10 @@
 > **LEI Nº 4.409, DE 03 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o selo Empresa Amiga dos Autistas e de pessoas com TDAH no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o selo Empresa Amiga dos Autistas e de pessoas com TDAH no Estado.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

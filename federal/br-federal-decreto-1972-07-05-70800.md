@@ -1,5 +1,3 @@
-###DEC-070800-0-000-05-07-1972@@@
-
 Decreto nº 70.800, de 5 de julho de 1972.
 
 Dispõe sobre concessão de prêmios literários.

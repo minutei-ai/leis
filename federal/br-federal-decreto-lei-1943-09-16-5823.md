@@ -1,5 +1,3 @@
-###DEL-005823-0-000-16-09-1943@@@
-
 DECRETO‑LEI N. 5.823 –  DE 16 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 188.790,00 para a conclusão das obras, instalação, aparelhamento e equipamento da Usina de Café do Muriaé, da Divisão de Fomento da Produção Vegetal, e dá outras providências.

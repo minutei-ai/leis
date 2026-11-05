@@ -1,5 +1,3 @@
-###DEC-066478-0-000-23-04-1970@@@
-
 DECRETO Nº 66.478, DE 23 DE ABRIL DE 1970.
 
 Autoriza funcionamento da Faculdade de Direito da Alta Paulista, em Tupã, no Estado de São Paulo.

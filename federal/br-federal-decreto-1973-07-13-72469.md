@@ -1,5 +1,3 @@
-###DEC-072469-0-000-13-07-1973@@@
-
 Decreto Nº 72.469, DE 13 DE JULHO DE 1973.
 
 Concede permissão em caráter permanente à empresa Set-Fil Texturização S. A., com sede no Rio de Janeiro, no Estado da Guanabara, para funcionar no seu estabelecimento fabril, situado em Jacarepaguá, no referido Estado, aos domingos e nos dias feriados civis e religiosos.

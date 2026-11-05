@@ -1,5 +1,3 @@
-###DEC-068457-0-000-01-04-1971@@@
-
 DECRETO Nº 68.457 - DE 1º DE ABRIL DE 1971.
 
 Dá nova redação ao Parágrafo único do artigo 31, do Regulamento ao Gabinete do Ministro da Aeronáutica.

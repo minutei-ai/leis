@@ -1,5 +1,3 @@
-###DEL-007377-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.377 – DE 13 DE MARÇO DE 1945
 
 Dispõe sôbre o ativo das sociedades mútuas de seguros

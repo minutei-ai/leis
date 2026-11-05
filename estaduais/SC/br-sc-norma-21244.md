@@ -30,6 +30,16 @@ Governador do Estado
 
 ~~MESES ALUSIVOS~~
 
-<table><tbody><tr><td><p><s>MARÇO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>MarÇo Borgonha</s></p><p></p><p><s>MÊs dedicado À conscientizaÇÃo e informaÇÃO da sociedade sobre o mieloma mÚltiplo.</s></p></td><td><p></p></td></tr><tr><td><p><s>.........................................................................................................</s></p></td><td><p><s>...............................</s></p></td></tr></tbody></table>
+~~MARÇO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~MarÇo Borgonha~~
+
+~~MÊs dedicado À conscientizaÇÃo e informaÇÃO da sociedade sobre o mieloma mÚltiplo.~~
+
+~~.........................................................................................................~~
+
+~~...............................~~
 
 ~~” (NR)~~

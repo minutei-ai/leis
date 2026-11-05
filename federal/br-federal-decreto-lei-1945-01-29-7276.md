@@ -1,5 +1,3 @@
-###DEL-007276-0-000-29-01-1945@@@
-
 DECRETO-LEI N. 7.276 – DE 29 JANEIRO DE 1945
 
 Altera a carreira de Almoxarife do Quadro IlI – Parte Permanente – do Ministério da Viação e Obras Públicas

@@ -1,5 +1,3 @@
-###DEC-053020-0-000-27-11-1963@@@
-
 DECRETO Nº 53.020, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro David Paulo Dana a lavrar diamante e ouro no município de Itupiranga, Estado do Pará.

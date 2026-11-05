@@ -1,5 +1,3 @@
-###DEL-004103-0-000-09-02-1942@@@
-
 DECRETO-LEI N. 4.103 – DE 9 DE FEVEREIRO DE 1942
 
 Dá nova denominação e localização à Colônia Agrícola de Fernando de Noronha

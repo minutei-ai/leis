@@ -1,5 +1,3 @@
-###DEC-067809-0-000-11-12-1970@@@
-
 Decreto nº 67.809, de 11 de dezembro de 1970.
 
 Declara de utilidade pública a Associação da Imaculada Virgem Maria, com sede em Prudentópolis, Estado do Paraná.

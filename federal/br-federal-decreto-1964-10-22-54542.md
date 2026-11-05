@@ -1,5 +1,3 @@
-###DEC-054542-0-000-22-10-1964@@@
-
 DECRETO Nº 54.542, DE 22 DE OUTUBRO DE 1964.
 
 Autoriza a Federação Nacional dos Jornalistas Profissionais a filiar-se a Federacion Interamericana de Organizaciones de Periodistas Profesionales (FIOPP) com sede no Panamá.

@@ -1,5 +1,3 @@
-###DEC-060289-0-000-03-03-1967@@@
-
 DECRETO Nº 60.289, DE 3 DE MARÇO DE 1967.
 
 Declara de utilidade pública a Sociedade Educadora da Infância e Juventude, com sede em São Paulo, Estado de São Paulo.

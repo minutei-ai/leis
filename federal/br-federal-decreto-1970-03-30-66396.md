@@ -1,5 +1,3 @@
-###DEC-066396-0-000-30-03-1970@@@
-
 DECRETO Nº 66.396 - DE 30 DE MARÇO DE 1970
 
 Altera dispositivos do Decreto número 60.461, de 13 de março de 1967.

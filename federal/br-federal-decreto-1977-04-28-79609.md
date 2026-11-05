@@ -1,5 +1,3 @@
-###DEC-079609-0-000-28-04-1977@@@
-
 DECRETO Nº 79.609, DE 28 DE ABRIL DE 1977.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nas Cidades de Niterói e Rio de Janeiro, Estado do Rio de Janeiro.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000445-0-000-07-02-1992@@@
-
 DECRETO Nº 445, DE 07 DE FEVEREIRO DE 1992
 
 Altera o Decreto n° 363, de 12 de dezembro de 1991, que aprova o Plano Geral de Convocação para o Serviço Militar Inicial nas Forças Armadas, no ano de 1993.

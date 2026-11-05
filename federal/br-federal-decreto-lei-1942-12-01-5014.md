@@ -1,5 +1,3 @@
-###DEL-005014-0-000-01-12-1942@@@
-
 DECRETO-LEI N. 5.014 – DE 1 DE DEZEMBRO DE 1942
 
 Fixa taxas do serviço telegráfico interno

@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO COMUNITÁRIA DO POVOADO DE LAGE E REGIÃO, com sede e foro no município de Monte Santo.
 
-Redação de acordo com o [art. 1º da Lei nº 10.326, de 25 de julho de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10326-de-25-de-julho-de-2006#LO_10_326_Art__1) .<br>
+Redação de acordo com o [art. 1º da Lei nº 10.326, de 25 de julho de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10326-de-25-de-julho-de-2006#LO_10_326_Art__1) .
+
 Redação original: "Art. 1º - Fica declarada de utilidade pública a ASSOCIAÇÃO COMUNITÁRIA DA FAZENDA LAGE DA ONÇA, com sede e foro no município de Monte Santo."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

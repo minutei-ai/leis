@@ -74,8 +74,6 @@ Art. 3º Esta lei entra em vigor na data de sua publicação.
 
 Goiânia, 13 de maio de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -165,7 +163,49 @@ DETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA
 | Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
 | Valor | R$ 200.000,00 |
 
-<table><tbody><tr><td>Exercício</td><td>2022</td></tr><tr><td>Órgão</td><td>3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA</td></tr><tr><td>Unidade</td><td>3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA</td></tr><tr><td>Função</td><td>28 – ENCARGOS ESPECIAIS</td></tr><tr><td>Subfunção</td><td>846 – OUTROS ENCARGOS ESPECIAIS</td></tr><tr><td>Programa</td><td>0100 – ENCARGOS ESPECIAIS</td></tr><tr><td>Ação</td><td>7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV</td></tr><tr><td>Grupo de Despesa</td><td>01 – PESSOAL E ENCARGOS SOCIAIS</td></tr><tr><td>Fonte</td><td>15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS</td></tr><tr><td>Modalidade Aplicação</td><td>90 – APLICAÇÕES DIRETAS</td></tr><tr><td>Valor</td><td>R$ 170.000,00</td></tr></tbody></table>
+Exercício
+
+2022
+
+Órgão
+
+3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA
+
+Unidade
+
+3163 – AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES – GOINFRA
+
+Função
+
+28 – ENCARGOS ESPECIAIS
+
+Subfunção
+
+846 – OUTROS ENCARGOS ESPECIAIS
+
+Programa
+
+0100 – ENCARGOS ESPECIAIS
+
+Ação
+
+7119 – PAGAMENTO DE REQUISIÇÕES DE PEQUENO VALOR – RPV
+
+Grupo de Despesa
+
+01 – PESSOAL E ENCARGOS SOCIAIS
+
+Fonte
+
+15000100 – RECURSOS NÃO VINCULADOS DE IMPOSTOS – RECEITAS ORDINÁRIAS
+
+Modalidade Aplicação
+
+90 – APLICAÇÕES DIRETAS
+
+Valor
+
+R$ 170.000,00
 
 | Exercício | 2022 |
 | --- | --- |
@@ -740,7 +780,8 @@ DETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA
 | Modalidade Aplicação | 90 – APLICAÇÕES DIRETAS |
 | Valor | R$ 50.000,00 |
 
-| Exercício | 2022<br>
+| Exercício | 2022
+
 \- [Redação dada pela Lei nº 21.483, de 30-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105770/lei-21483). |
 | --- | --- |
 | Órgão | 4000 – SECRETARIA-GERAL DA GOVERNADORIA – SGG |

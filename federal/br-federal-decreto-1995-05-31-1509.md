@@ -1,7 +1,3 @@
-1
-
-###DEC-001509-0-000-31-05-1995@@@
-
 DECRETO Nº 1.509, DE 31 DE MAIO DE 1995.
 
 Dispõe sobre a contratação de pessoal, por tempo determinado, para atender necessidade temporária de excepcional interesse público.

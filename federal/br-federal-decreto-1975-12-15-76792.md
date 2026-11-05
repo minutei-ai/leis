@@ -1,5 +1,3 @@
-###DEC-076792-0-000-15-12-1975@@@
-
 DECRETO Nº 76.792, DE 15 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

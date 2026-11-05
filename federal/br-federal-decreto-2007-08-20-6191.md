@@ -1,5 +1,3 @@
-###DEC-006191-0-000-20-08-2007@@@
-
 DECRETO Nº 6.191, DE 20 DE AGOSTO DE 2007.
 
 Dispõe sobre a conclusão dos trabalhos da Inventariança da extinta Comercializadora Brasileira de Energia Emergencial - CBEE, e dá outras providências.
@@ -55,5 +53,3 @@ Guido Mantega
 Nelson Jose Hubner Moreira
 
 Joao Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 21.8.2007

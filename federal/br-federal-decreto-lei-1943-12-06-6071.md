@@ -1,5 +1,3 @@
-###DEL-006071-0-000-06-12-1943@@@
-
 DECRETO‑LEI N. 6.071 – DE 6 DE DEZEMBRO DE 1943
 
 Fixa a contribuição do Banco do Brasil S. A., para o imposto de renda, e dá outras providências

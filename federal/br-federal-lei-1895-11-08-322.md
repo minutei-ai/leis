@@ -1,14 +1,12 @@
-###LEI-000322-0-000-08-11-1895@@@
+**LEI N. 322 – DE 8 DE NOVEMBRO DE 1895**
 
-<strong>LEI N. 322 – DE 8 DE NOVEMBRO DE 1895</strong>
-
-<em><strong>Dá nova organisação ao Corpo Diplomatico e crea diversos Consulados.</strong></em>
+***Dá nova organisação ao Corpo Diplomatico e crea diversos Consulados.***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decretou e eu sancciono a lei seguinte:
 
-<strong>Art.</strong> 1º Formarão uma só classe os enviados extraordinarios e ministros plenipotenciarios com os vencimentos annuaes de 10:000$000, sendo 6:000$000 de ordenado e 4:000$000 de gratificação.
+**Art.** 1º Formarão uma só classe os enviados extraordinarios e ministros plenipotenciarios com os vencimentos annuaes de 10:000$000, sendo 6:000$000 de ordenado e 4:000$000 de gratificação.
 
 § 1º Aos ministros, além dos vencimentos, abonar-se-ha para representação uma quantia fixada na tabella annexa.
 
@@ -30,13 +28,13 @@ Os agentes postos em disponibilidade só poderão servir fóra do paiz com autor
 
 § 9º O Governo alugará em cada capital, onde houver Legação, casa para Chancellaria, despendendo com isso até 2:000$000 annuaes.
 
-<strong>Art.</strong> 2º E' creada uma Legação nas Republicas do Equador e da Colombia, tendo além do ministro um 1º e um 2º secretario.
+**Art.** 2º E' creada uma Legação nas Republicas do Equador e da Colombia, tendo além do ministro um 1º e um 2º secretario.
 
 O Governo fixará a séde da Legação na capital de uma dessas Republicas, devendo permanecer na outra o 1º secretario, que, além dos vencimentos, terá uma gratificação de 2:000$000 para despezas de representação.
 
 Paragrapho unico. Fica supprimida a Legação no Mexico.
 
-<strong>Art.</strong> 3º E' o Governo autorisado a crear Consulados sem remuneração fixa, cabendo apenas aos respectivos serventuarios a metade dos emolumentos que perceberem, não podendo exceder esta remuneração de 4:000$000.
+**Art.** 3º E' o Governo autorisado a crear Consulados sem remuneração fixa, cabendo apenas aos respectivos serventuarios a metade dos emolumentos que perceberem, não podendo exceder esta remuneração de 4:000$000.
 
 Aos vice-consules, que não tiverem vencimentos estipulados, será applicada esta disposição, ficando supprimida a distincção estabelecida pelo art. 1º do decreto n. 792, de 11 de abril de 1892, entre os vice-consules das residencias dos consules e os demais.
 
@@ -44,7 +42,7 @@ Aos vice-consules, que não tiverem vencimentos estipulados, será applicada est
 
 § 2º São creados Consulados em Cardiff, Stockolmo, Georgetown, Vera-Cruz e Posadas, e Vice-Consulados em S. Thomé e Libres, com a remuneração de 2:000$000 a 4:000$000 annuaes para cada um dos vice-consules.
 
-<strong>Art.</strong> 4º E' approvado o decreto n. 1951, de 26 de janeiro de 1895, com as seguintes modificações:
+**Art.** 4º E' approvado o decreto n. 1951, de 26 de janeiro de 1895, com as seguintes modificações:
 
 1º Nos casos de demissão a pedido, o funccionario terá direito á repatriação com sua familia.
 
@@ -58,11 +56,11 @@ c) no caso de remoção por conveniencia do serviço ou de volta á effectividad
 
 Paragrapho unico. A importancia abonada para despezas de estabelecimento será paga em ouro, comprehendendo-se para este effeito no calculo dos vencimentos dos ministros a quantia dada para representação.
 
-<strong>Art.</strong> 5º Revogam-se as disposições em contrario.
+**Art.** 5º Revogam-se as disposições em contrario.
 
 Capital Federal, 8 de novembro de 1895, 7º da Republica.
 
-<strong>PRUDENTE J. DE MORAES BARROS.</strong>
+**PRUDENTE J. DE MORAES BARROS.**
 
 Carlos Augusto de Carvalho.
 
@@ -70,6 +68,16 @@ Tabella das gratificações annuaes aos ministros plenipotenciarios para despeza
 
 LEGAÇÕES
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Estados Unidos da America do Norte, Chile, Republica Argentina, Uruguay, Inglaterra, França, Italia, Portugal e Allemanha....................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-align:right; line-height:12pt"><span style="font-size:10pt"><span>20:000$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Hespanha, Austria-Hungria e Santa Sé...............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>15:000$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Equador e Colombia, Venezuela, Perú, Bolivia, Paraguay, Russia, Belgica e Suissa........</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>10:000$000</span></span></p></td></tr></tbody></table>
+Estados Unidos da America do Norte, Chile, Republica Argentina, Uruguay, Inglaterra, França, Italia, Portugal e Allemanha....................................................................................
+
+20:000$000
+
+Hespanha, Austria-Hungria e Santa Sé...............................................................................
+
+15:000$000
+
+Equador e Colombia, Venezuela, Perú, Bolivia, Paraguay, Russia, Belgica e Suissa........
+
+10:000$000
 
 Capital Federal, 8 de novembro de 1895. – Carlos Augusto de Carvalho.

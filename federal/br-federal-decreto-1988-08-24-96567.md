@@ -1,5 +1,3 @@
-###DEC-096567-0-000-24-08-1988@@@
-
 DECRETO N° 96.567, DE 24 DE AGOSTO DE 1988
 
 Renova a concessão outorgada à RÁDIO CORREIO DO SERTÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Santana do Ipanema, Estado de Alagoas.

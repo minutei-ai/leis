@@ -1,5 +1,3 @@
-###DEC-047146-0-000-27-10-1959@@@
-
 DECRETO Nº 47.146, DE 27 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro Armando Angelini a lavrar dolomita no município de Santana de Parnaíba, Estado de São Paulo.

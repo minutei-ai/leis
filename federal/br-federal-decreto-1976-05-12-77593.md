@@ -1,5 +1,3 @@
-###DEC-077593-0-000-12-05-1976@@@
-
 DECRETO Nº 77.593 - DE 12 DE MAIO DE 1976
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar quartzo no Município de Urussanga, Estado de Santa Catarina.

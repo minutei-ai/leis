@@ -1,5 +1,3 @@
-###DEC-005179-0-000-13-08-2004@@@
-
 DECRETO Nº 5.179 DE 13 DE AGOSTO DE 2004
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Reino da Espanha sobre Cooperação em Matéria de Prevenção do Consumo e Controle do Tráfico Ilícito de Entorpecentes e Substâncias Psicotrópicas, celebrado em Madri, em 11 de novembro de 1999.
@@ -114,7 +112,8 @@ ARTIGO 5º
 
         São Autoridades Competentes para a implementação do presente Acordo:
 
-        Pelo Governo da República Federativa do Brasil:<br>
+        Pelo Governo da República Federativa do Brasil:
+
         Ministério das Relações Exteriores e Secretaria Nacional Antidrogas;
 
         Pelo Reino da Espanha:

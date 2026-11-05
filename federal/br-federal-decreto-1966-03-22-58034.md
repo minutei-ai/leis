@@ -1,5 +1,3 @@
-###DEC-058034-0-000-22-03-1966@@@
-
 DECRETO Nº 58.034, DE 22 DE MARÇO DE 1966.
 
 Outorga à Companhia de Eletricidade do Estado da Bahia concessão para distribuir energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-004610-0-000-26-02-2003@@@
-
 DECRETO Nº 4.610, DE 26 DE FEVEREIRO DE 2003.
 
 Dá nova redação ao parágrafo único do art. 3o do Decreto no 4.081, de 11 de janeiro de 2002, que Institui o Código de Conduta Ética dos Agentes Públicos em exercício na Presidência e Vice-Presidência da República.

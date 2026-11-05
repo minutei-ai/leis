@@ -1,5 +1,3 @@
-###DEC-053469-0-000-22-01-1964@@@
-
 Decreto nº 53.469, de 22 de janeiro de 1964.
 
 Alteração do Regulamento para a Secretaria-Geral da Marinha.

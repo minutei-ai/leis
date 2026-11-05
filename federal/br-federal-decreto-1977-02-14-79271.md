@@ -1,5 +1,3 @@
-###DEC-079271-0-000-14-02-1977@@@
-
 decreto nº 79.271, de 14 de fevereiro de 1977.
 
 Concede reconhecimento aos cursos de Ciências, de Estudos Sociais, de Pedagogia e de Letras, da Faculdade de Filosofia de Rio Verde, com sede na cidade de Rio Verde, Estado de Goiás.

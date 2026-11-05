@@ -1,13 +1,20 @@
-**LEI COMPLEMENTAR Nº 157,** **DE 20 DE JANEIRO DE 2004.**<br>
-. Consolidada até a LC 307/08.<br>
-. Publicada no DOE de 20/01/04, p. 01.<br>
-. Ver Comunicado [01/2004](https://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut23-04.nsf/e9a3c2b663f122ac04256d5e004cc094/e2e6697b038d752404256f1d006c3bb8?OpenDocument#COMUNICADO%20n%C2%BA%2001%2F2004%2FGS%2FSEFAZ)/GS/SEFAZ.<br>
-. Ver LC [158/04](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/6e242849309d0fb404256e2b0061ff6f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20158%2C%20DE%2029%20DE).<br>
-. Ver Port. [79/04](https://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut23-04.nsf/07fa81bed2760c6b84256710004d3940/834e70bedcf3e27104256ec800680eb5?OpenDocument#PORTARIA%20N%C2%BA%20079%2F2004-SEFAZ).<br>
-. Alterada pelas LC [177/04](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/208ec12b7a5fb6d004256ed90067c27e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20177%2C%20DE%2009%20DE), [307/08](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/c0cfdb5222f0815c042573d90062c799?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20307%2C).<br>
+**LEI COMPLEMENTAR Nº 157,DE 20 DE JANEIRO DE 2004.**
+
+. Consolidada até a LC 307/08.
+
+. Publicada no DOE de 20/01/04, p. 01.
+
+. Ver Comunicado [01/2004](https://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut23-04.nsf/e9a3c2b663f122ac04256d5e004cc094/e2e6697b038d752404256f1d006c3bb8?OpenDocument#COMUNICADO%20n%C2%BA%2001%2F2004%2FGS%2FSEFAZ)/GS/SEFAZ.
+
+. Ver LC [158/04](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/6e242849309d0fb404256e2b0061ff6f?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20158%2C%20DE%2029%20DE).
+
+. Ver Port. [79/04](https://app1.sefaz.mt.gov.br/Sistema/legislacao/legislacaotribut23-04.nsf/07fa81bed2760c6b84256710004d3940/834e70bedcf3e27104256ec800680eb5?OpenDocument#PORTARIA%20N%C2%BA%20079%2F2004-SEFAZ).
+
+. Alterada pelas LC [177/04](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/208ec12b7a5fb6d004256ed90067c27e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20177%2C%20DE%2009%20DE), [307/08](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/c0cfdb5222f0815c042573d90062c799?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20307%2C).
+
 . Revogada pela [746/2022](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/65e6a5fea54941b6042588aa004ae19e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20746%2C%20DE%2025%20DE).
 
-**Estabelece normas relativas ao cálculo dos Índices de Participação dos Municípios do Estado de** **Mato Grosso no produto da arrecadação do ICMS, e dá outras providências.**
+**Estabelece normas relativas ao cálculo dos Índices de Participação dos Municípios do Estado deMato Grosso no produto da arrecadação do ICMS, e dá outras providências.**
 
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO**, tendo em _vista_ o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
@@ -65,8 +72,9 @@ E= total das entradas.
 
 § 2º Não serão computados para o cálculo do valor adicionado os valores relativos ao IPI, ICMS retido_,_ operações com o ativo imobilizado, materiais de consumo, remessas e respectivos retornos, exceto aquelas relacionadas à industrialização por encomenda, ressarcimento do ICMS e operações classificadas como outras entradas/saídas e/ou aquisições/prestações de serviços não especificadas na tabela de Códigos Fiscais de Operações e Prestações do Regulamento do ICMS. **_(Nova redação dada pela LC_** [**_177/04_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/208ec12b7a5fb6d004256ed90067c27e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20177%2C%20DE%2009%20DE)**_)_**
 
-**Redação original.**<br>
-§ 2° Não serão computados para o cálculo do valor adicionado os valores relativos ao IPI, ICMS retido_,_ operações com o ativo imobilizado, materiais de consumo, remessas e respectivos retornos, ressarcimento do ICMS e operações classificadas como outras entradas/saídas e/ou aquisições/prestações de serviços não especificadas na tabela de Códigos Fiscais de Operações e Prestações do Regulamento do ICMS.<br>
+**Redação original.**
+
+§ 2° Não serão computados para o cálculo do valor adicionado os valores relativos ao IPI, ICMS retido_,_ operações com o ativo imobilizado, materiais de consumo, remessas e respectivos retornos, ressarcimento do ICMS e operações classificadas como outras entradas/saídas e/ou aquisições/prestações de serviços não especificadas na tabela de Códigos Fiscais de Operações e Prestações do Regulamento do ICMS.
 
 **Art. 6º** Será efetuada de forma proporcional entre os Municípios a distribuição do valor adicionado em função das operações de saídas ou prestações de serviços originadas ou realizadas em seus respectivos territórios, dos contribuintes que exercem as seguintes atividades:
 
@@ -82,7 +90,8 @@ Parágrafo único. Para efeito do cálculo do Índice de Participação dos Muni
 
 I – o valor adicionado das suas unidades geradoras de energia hidroelétrica será computado para o Município onde se localizam tais unidades, podendo porém os municípios envolvidos, através de leis municipais, acordarem outro critério que atendam seus interesses públicos.**_(Nova redação dada pela LC_** [**_307/08_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/c0cfdb5222f0815c042573d90062c799?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20307%2C)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 I - o valor adicionado das suas unidades geradoras será computado para o Município onde se localizam tais unidades;
 
 II - o resultado da diminuição entre o valor do inciso anterior e o valor adicionado total será rateado proporcionalmente em função das prestações de serviços realizadas em seus respectivos territórios;
@@ -141,8 +150,9 @@ Parágrafo único. Até 05 (cinco) dias antes do prazo definido neste artigo, a 
 
 **Art. 18** Relativamente aos produtores rurais e equiparados, os valores das entradas de mercadorias serão computados, a partir do ano base de 2001, no mínimo, o equivalente a 50% (cinqüenta por cento) se a atividade principal for agricultura, 20% (vinte por cento) se pecuária e 35% (trinta e cinco por cento) nos demais casos, do valor das saídas, de acordo com a Classificação Nacional de Atividades Econômicas (CNAE-Fiscal) constante do Cadastro de Contribuintes da SEFAZ-MT. **_(Nova redação dada pela LC_** [**_177/04_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/208ec12b7a5fb6d004256ed90067c27e?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20177%2C%20DE%2009%20DE)**_)_**
 
-**Redação original.**<br>
-Art. 18 Relativamente aos produtores rurais e equiparados, as entradas de mercadorias serão computadas, a partir do ano base de 2001, para composição do índice que deverá vigorar em 2004. Nos casos em que nas atividades de pecuária a entrada for inferior a 20% (vinte por cento) das saídas, essa será equiparada a esse percentual, e nas atividades da agricultura quando a entrada for inferior a 50% (cinqüenta por cento) das saídas, essa será equiparada a esse percentual, quando o valor declarado da entrada for maior o mesmo prevalece.<br>
+**Redação original.**
+
+Art. 18 Relativamente aos produtores rurais e equiparados, as entradas de mercadorias serão computadas, a partir do ano base de 2001, para composição do índice que deverá vigorar em 2004. Nos casos em que nas atividades de pecuária a entrada for inferior a 20% (vinte por cento) das saídas, essa será equiparada a esse percentual, e nas atividades da agricultura quando a entrada for inferior a 50% (cinqüenta por cento) das saídas, essa será equiparada a esse percentual, quando o valor declarado da entrada for maior o mesmo prevalece.
 
 **Art. 19** Objetivando dar cumprimento ao parágrafo único do art. 6°, as empresas envolvidas no citado transporte deverão reapresentar declaração, em documento próprio, com os devidos ajustes, relativamente aos anos base 2001, 2002 e 2003, caso já tenha sido apresentada à Secretaria de Estado de Fazenda.
 
@@ -164,31 +174,50 @@ Art. 18 Relativamente aos produtores rurais e equiparados, as entradas de mercad
 
 Palácio paiaguás em Cuiabá, 20 de janeiro de 2004, 183º da independência e 116º da republica.
 
-<br>
+**BLAIRO BORGES MAGGI**
 
-<br>
-**BLAIRO BORGES MAGGI**<br>
-CELIO WILSON DE OLIVEIRA<br>
-CARLOS BRITO DE LIMA<br>
-WALTER DE FATIMA PEREIRA<br>
-YENES JESUS DE MAGALHÃES<br>
-WALDIR JULIO TEIS<br>
-SIRIO PINHEIRO DE LIMA<br>
-HOMERO ALVES PEREIRA<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-RICARDO LUIZ HENRY<br>
-LUIZ ANTONIO PAGOT<br>
-ANA CARLA MUNIZ<br>
-MARCOS HENRIQUE MACHADO<br>
-GERALDO LUIZ GONÇALVES FILHO<br>
-JOÃO VIRGILIO DO NASCIMENTO SOBRINHO<br>
-FABIO CESAR GUIMARÃES NETO<br>
-LOUREMBRERG RIBEIRO NUNES NETO<br>
-CLOVES FELICIO VETTORATO<br>
-MOACIR PIRES DE MIRANDA FILHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-BENEDITO PAULO DE CAMPOS<br>
-FLÁVIA MARIA DE BARROS NOGUEIRA<br>
-JOÃO BATISTA DE OLIVEIRA<br>
-<br>
+CELIO WILSON DE OLIVEIRA
+
+CARLOS BRITO DE LIMA
+
+WALTER DE FATIMA PEREIRA
+
+YENES JESUS DE MAGALHÃES
+
+WALDIR JULIO TEIS
+
+SIRIO PINHEIRO DE LIMA
+
+HOMERO ALVES PEREIRA
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+RICARDO LUIZ HENRY
+
+LUIZ ANTONIO PAGOT
+
+ANA CARLA MUNIZ
+
+MARCOS HENRIQUE MACHADO
+
+GERALDO LUIZ GONÇALVES FILHO
+
+JOÃO VIRGILIO DO NASCIMENTO SOBRINHO
+
+FABIO CESAR GUIMARÃES NETO
+
+LOUREMBRERG RIBEIRO NUNES NETO
+
+CLOVES FELICIO VETTORATO
+
+MOACIR PIRES DE MIRANDA FILHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+BENEDITO PAULO DE CAMPOS
+
+FLÁVIA MARIA DE BARROS NOGUEIRA
+
+JOÃO BATISTA DE OLIVEIRA

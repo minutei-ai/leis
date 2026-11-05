@@ -1,5 +1,3 @@
-###DEC-060155-0-000-27-01-1967@@@
-
 DECRETO Nº 60.155, DE 27 DE JANEIRO DE 1967.
 
 Cria, no Ministério da Educação e Cultura, o Grupo Nacional de Desenvolvimento das Construções Escolares e dá outras providências.

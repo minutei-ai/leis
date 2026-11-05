@@ -1,5 +1,3 @@
-###MPV-001981-0-044-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.981-44, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre a novação de dívidas e responsabilidades do Fundo de Compensação de Variações Salariais - FCVS; altera o Decreto-Lei nº 2.406, de 5 de janeiro de 1988, e as Leis nºs 8.004, 8.100 e 8.692, de 14 de março de 1990, 5 de dezembro de 1990, e 28 de julho de 1993, respectivamente, e dá outras providências.

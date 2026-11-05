@@ -22,5 +22,6 @@ Art. 7°- Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Presidente da Câmara Municipal de Aparecida Goiânia, aos nove dias do mês de junho do ano de 2020.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 PRESIDENTE DA CAMARA MUNICIPAL

@@ -1,7 +1,3 @@
-1
-
-###DEC-098097-0-000-30-08-1989@@@
-
 DECRETO N° 98.097, DE 30 DE AGOSTO DE 1989
 
 Altera o Regulamento Aduaneiro aprovado pelo Decreto n° 91.030, de 5 de marco de 1985, regulamenta dispositivos do Decreto-Lei n° 2.472, de 1° de setembro de 1988, e dá outras providências.

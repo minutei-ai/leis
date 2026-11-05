@@ -1,5 +1,3 @@
-###DEC-051990-A-000-06-05-1963@@@
-
 Decreto nº 51.990-A, de 6 de maio de 1963.
 
 Concede à sociedade Navegação de Cabotagem “CAIUA” Ltda., autorização para funcionar como emprêsa de navegação de cabotagem.

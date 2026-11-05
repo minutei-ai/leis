@@ -1,5 +1,3 @@
-###DEC-006877-0-000-18-06-2009@@@
-
 DECRETO Nº 6.877, DE 18 DE JUNHO DE 2009.
 
 Regulamenta a Lei no 11.671, de 8 de maio de 2008, que dispõe sobre a inclusão de presos em estabelecimentos penais federais de segurança máxima ou a sua transferência para aqueles estabelecimentos, e dá outras providências.

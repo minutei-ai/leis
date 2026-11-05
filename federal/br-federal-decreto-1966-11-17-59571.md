@@ -1,5 +1,3 @@
-###DEC-059571-0-000-17-11-1966@@@
-
 DECRETO Nº 59.571, DE 17 DE NOVEMBRO DE 1966.
 
 Revoga os decretos que concederam à sociedade St. John D’El Rey Mining Company Limited autorização para funcionar na República dos Estados Unidos do Brasil.

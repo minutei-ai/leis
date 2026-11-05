@@ -1,5 +1,3 @@
-###DEC-069180-0-000-09-09-1971@@@
-
 DECRETO Nº 69.180, DE 9 DE SETEMBRO DE 1971.
 
 Redistribui cargos, com as respectivas ocupantes, para a Universidade Federal do Rio de Janeiro, e dá outras providências.

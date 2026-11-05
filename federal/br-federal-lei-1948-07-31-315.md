@@ -1,14 +1,12 @@
-###LEI-000315-0-000-31-07-1948@@@
+**LEI N. 315 – DE 31 DE JULHO DE 1948**
 
-<strong>LEI N. 315 – DE 31 DE JULHO DE 1948</strong>
-
-<em><strong>Autoriza a abertura, pelo Ministério da justiça e Negócios Interiores, Ce crédito especial para atender e despesas relativas ao exercício de 1947.</strong></em>
+***Autoriza a abertura, pelo Ministério da justiça e Negócios Interiores, Ce crédito especial para atender e despesas relativas ao exercício de 1947.***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei :
 
-<strong>Art.</strong> 1º E' o Poder Executivo autorizado a abrir, pelo Ministério da Justiça e Negócios Interiores, um crédito especial de Cr$ 2.698.732,30 (dois milhões, seiscentos e noventa e oito mil, setecentos e trinta e dois cruzeiros e trinta centavos), para atender a despesas relativas ao exercício de 1947, abaixo discriminadas:
+**Art.** 1º E' o Poder Executivo autorizado a abrir, pelo Ministério da Justiça e Negócios Interiores, um crédito especial de Cr$ 2.698.732,30 (dois milhões, seiscentos e noventa e oito mil, setecentos e trinta e dois cruzeiros e trinta centavos), para atender a despesas relativas ao exercício de 1947, abaixo discriminadas:
 
 Pessoal
 
@@ -46,11 +44,11 @@ g) Informações e difusão cultural (Agência Nacional) .......................
 
 Total .........,.................................................................................................................................... 2.698.732,30
 
-<strong>Art.</strong> 2º Revogam-se as disposições em contrário.
+**Art.** 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 81 de julho de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Adroaldo Mesquita do Costa
 

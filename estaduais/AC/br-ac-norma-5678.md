@@ -1,6 +1,10 @@
 > **LEI Nº 4.136, DE 24 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a discriminação dos subsídios dos Deputados Estaduais, em conformidade com a Resolução nº 290, de 15 de dezembro de 2022 e art. 27 § 2º da Constituição da República Federativa do Brasil - CRFB.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a discriminação dos subsídios dos Deputados Estaduais, em conformidade com a Resolução nº 290, de 15 de dezembro de 2022 e art. 27 § 2º da Constituição da República Federativa do Brasil - CRFB.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

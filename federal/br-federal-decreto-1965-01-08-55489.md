@@ -1,5 +1,3 @@
-###DEC-055489-0-000-08-01-1965@@@
-
 decreto nº 55.489, de 8 de janeiro de 1965.
 
 Autoriza o Instituto de Resseguros do Brasil a promover aumento de seu capital.

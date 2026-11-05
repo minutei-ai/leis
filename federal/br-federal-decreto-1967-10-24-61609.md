@@ -1,5 +1,3 @@
-###DEC-061609-0-000-24-10-1967@@@
-
 Decreto nº 61.609, de 24 de outubro de 1967.
 
 Suspende o funcionamento da “União Paranaense dos Estudantes”.

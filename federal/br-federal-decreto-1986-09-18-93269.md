@@ -1,5 +1,3 @@
-###DEC-093269-0-000-18-09-1986@@@
-
 DECRETO Nº 93.269, DE 18 DE SETEMBRO DE 1986
 
 Altera o artigo 6º do Decreto nº 83.700, de 5 de julho de 1979, para incluir representante do Ministério da Agricultura na Comissão Executiva Nacional do Álcool.

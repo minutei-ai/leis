@@ -1,7 +1,3 @@
-1
-
-###DEC-000779-0-000-19-03-1993@@@
-
 DECRETO N° 779, DE 19 DE MARÇO DE 1993
 
 Dá nova redação ao art. 1° do Decreto n° 96.759, de 22 de setembro de 1988, que dispõe sobre o Conselho Nacional das Zonas de Processamento de Exportação (CZPE).

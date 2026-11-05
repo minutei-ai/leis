@@ -1,4 +1,5 @@
-DECRETO “N” Nº 494 DE 24 DE JUNHO DE 2024.<br>
+DECRETO “N” Nº 494 DE 24 DE JUNHO DE 2024.
+
 (Revogado pelo Decreto "N" Nº 740, de 12 de setembro de 2024).
 
 ~~Dispõe sobre desmembramento de imóvel.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 494 DE 24 DE JUNHO DE 2024.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 24 de junho de 2024.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana~~<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana~~

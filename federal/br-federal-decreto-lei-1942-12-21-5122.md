@@ -1,5 +1,3 @@
-###DEL-005122-0-000-21-12-1942@@@
-
 DECRETO-LEI N. 5.122 – DE 21 DE DEZEMBRO DE 1942
 
 Fixa taxas do serviço Internacional de Imprensa

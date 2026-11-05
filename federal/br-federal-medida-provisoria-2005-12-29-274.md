@@ -1,5 +1,3 @@
-###MPV-000274-0-000-29-12-2005@@@
-
 MEDIDA PROVISÓRIA Nº 274, DE 29 DE DEZEMBRO DE 2005.
 
 Inclui e altera dispositivos na Lei nº 5.917, de 10 de setembro de 1973, que aprova o Plano Nacional de Viação, e dá outras providências.

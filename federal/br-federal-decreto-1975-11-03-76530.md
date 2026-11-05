@@ -1,5 +1,3 @@
-###DEC-076530-0-000-03-11-1975@@@
-
 DECRETO Nº 76.530, DE 3 DE NOVEMBRO DE 1975.
 
 Declara a caducidade da concessão outorgada a Jean Claude Abel Heymann, para lavrar caulim, argila e feldspato no Município de Santana do Parnaíba, Estado de São Paulo.

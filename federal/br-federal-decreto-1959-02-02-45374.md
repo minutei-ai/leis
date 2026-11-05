@@ -1,5 +1,3 @@
-###DEC-045374-0-000-02-02-1959@@@
-
 DECRETO Nº 45.374, DE 2 DE FEVEREIRO DE 1959.
 
 Altera a redação do Art. 2º do Decreto nº 44.826, de 7 de novembro de 1958, que dispõe sôbre o escoamento e distribuição do trigo.

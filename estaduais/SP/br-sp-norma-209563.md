@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209563)<br>
-
 # DECRETO N° 68.619, DE 15 DE JUNHO DE 2024
 
 ### _Cria a Faculdade de Tecnologia - FATEC de Embu das Artes, no Município de Embu das Artes, como Unidade de Ensino Tecnológico do Centro Estadual de Educação Tecnológica "Paula Souza" - CEETEPS, e dá providências correlatas._

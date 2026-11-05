@@ -1,5 +1,3 @@
-###DEC-005914-0-000-28-09-2006@@@
-
 DECRETO Nº 5.914, DE 28 DE SETEMBRO DE 2006.
 
 Regulamenta o pagamento da Gratificação de Incremento da Fiscalização e da Arrecadação - GIFA devida aos ocupantes dos cargos efetivos da Carreira Auditoria da Receita Federal, na forma prevista no art. 4o da Lei no 10.910, de 15 de julho de 2004, e estabelece norma temporária sobre progressão funcional e promoções.
@@ -111,5 +109,3 @@ Brasília, 28 de  setembro de 2006; 185o da Independência e 118o da República
      Bernard Appy
 
         Paulo Bernardo Silva
-
-Este texto não substitui o publicado no D.O.U. de 29.9.2006.

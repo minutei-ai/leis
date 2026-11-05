@@ -1,34 +1,32 @@
-###DEC-048126-0-000-19-04-1960@@@
+**DECRETO Nº 48.126, DE 19 DE ABRIL DE 1960.**
 
-<strong>DECRETO Nº 48.126, DE 19 DE ABRIL DE 1960.</strong>
+***Aprova o Regimento da Comissão Brasileira de Turismo.***
 
-<em><strong>Aprova o Regimento da Comissão Brasileira de Turismo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Comissão Brasileira de Turismo (COMBRATUR), que com êste baixa, assinado pelo Ministro da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Comissão Brasileira de Turismo (COMBRATUR), que com êste baixa, assinado pelo Ministro da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 19 de abril de 1960; 139º da Independência e 72º da República.
 
-<strong>JUSCELINO KUBISTSCHEK</strong>
+**JUSCELINO KUBISTSCHEK**
 
 Armando Ribeiro Falcão
 
-<strong>REGIMENTO DA COMISSÃO BRASILEIRA DE TURISMO</strong>
+**REGIMENTO DA COMISSÃO BRASILEIRA DE TURISMO**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA CONSTITUIÇÃO E DA FINALIDADE</em>
+*DA CONSTITUIÇÃO E DA FINALIDADE*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Constituição</em>
+*Da Constituição*
 
-<strong>Art</strong>. 1º A Comissão Brasileira de Turismo - COMBRATUR - instituída pelo Decreto nº 44.863, de 21 de novembro de 1958, diretamente subordinado à Presidência da República, será constituída por um presidente e vinte e cinco membros, assim discriminados:
+**Art**. 1º A Comissão Brasileira de Turismo - COMBRATUR - instituída pelo Decreto nº 44.863, de 21 de novembro de 1958, diretamente subordinado à Presidência da República, será constituída por um presidente e vinte e cinco membros, assim discriminados:
 
 Um representante do Ministério da Justiça e Negócios Interiores;
 
@@ -54,7 +52,7 @@ Um representante da Confederação Rural Brasileira;
 
 Quatro representantes da Confederação Nacional do Comércio, dos quais obrigatòriamente um, pelos agentes de viagem, um pelos transportadores e um pela hotelaria;
 
-Um representante do <em>Touring Club</em> do Brasil;
+Um representante do *Touring Club* do Brasil;
 
 Um representante do Automóvel Club do Brasil;
 
@@ -74,11 +72,11 @@ Um representante do Instituo Brasileiro de Geografia e Estatística.
 
 Parágrafo Único. O Presidente da COMBRATUR poderá criar Subcomissões, de acôrdo com as necessidades do serviço.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 2º A COMBRATUR terá por finalidade coordenar, planejar e supervisionar a execução da política nacional de turismo, com o objetivo de facilitar o crescente aproveitamento das possibilidades do País, no que respeita ao turismo interno e internacional.
+**Art**. 2º A COMBRATUR terá por finalidade coordenar, planejar e supervisionar a execução da política nacional de turismo, com o objetivo de facilitar o crescente aproveitamento das possibilidades do País, no que respeita ao turismo interno e internacional.
 
 Parágrafo Único. Com êsse propósito, a COMBRATUR dedicará especial atenção:
 
@@ -94,19 +92,19 @@ e) à criação de serviços e instalações que ampliem e completam as zonas tu
 
 f) à realização, com a colaboração dos Estados e Municípios, do inventário das áreas de interêsse turístico existentes no País, a fim de ser levantando o Patrimônio Nacional, com a finalidade de proteger, por meio da legislação adequada, a paisagem o outros motivos considerados como atração turística.
 
-<strong>Art</strong>. 3º Na qualidade de órgão consultivo, opinará a COMBRATUR, quando julgar convenientemente, sôbre tôdas as questões de interêsse do turismo, sua organização e desenvolvimento no País, valendo-se do concurso de entidades oficiais e aceitando colaboração técnica das entidades vinculadas ao turismo.
+**Art**. 3º Na qualidade de órgão consultivo, opinará a COMBRATUR, quando julgar convenientemente, sôbre tôdas as questões de interêsse do turismo, sua organização e desenvolvimento no País, valendo-se do concurso de entidades oficiais e aceitando colaboração técnica das entidades vinculadas ao turismo.
 
-<strong>Art</strong>. 4º Dentro de suas finalidades, adotará a COMBRATUR as medidas mais indicadas à execução da política nacional de turismo, podendo dirigir-se diretamente aos órgãos públicos federais, estaduais e municipais bem como a seus agentes e representantes no exterior.
+**Art**. 4º Dentro de suas finalidades, adotará a COMBRATUR as medidas mais indicadas à execução da política nacional de turismo, podendo dirigir-se diretamente aos órgãos públicos federais, estaduais e municipais bem como a seus agentes e representantes no exterior.
 
-<strong>Art</strong>. 5º A fim de possibilitar ao Gôverno o melhor emprêgo dos recursos técnicos e materiais disponíveis e de facilitar a obtenção do apoio das organizações privadas, elaborará a COMBRATUR um esquema de prioridade de desenvolvimento das áreas turísticas que serão criadas.
+**Art**. 5º A fim de possibilitar ao Gôverno o melhor emprêgo dos recursos técnicos e materiais disponíveis e de facilitar a obtenção do apoio das organizações privadas, elaborará a COMBRATUR um esquema de prioridade de desenvolvimento das áreas turísticas que serão criadas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 6º A COMBRATUR será dirigida por seu presidente e elegerá, dentre seus membros, um vice-presidente, por período de dois anos, o qual substituíra o presidente em seus impedimentos eventuais ou regulamentares.
+**Art**. 6º A COMBRATUR será dirigida por seu presidente e elegerá, dentre seus membros, um vice-presidente, por período de dois anos, o qual substituíra o presidente em seus impedimentos eventuais ou regulamentares.
 
-<strong>Art</strong>. 7º A Comissão Brasileira de Turismo, terá a seguinte estrutura:
+**Art**. 7º A Comissão Brasileira de Turismo, terá a seguinte estrutura:
 
 a) Órgão Deliberativo:
 
@@ -142,15 +140,15 @@ III - Serviço de Promoção Turística:
 
 3 - Setor de Propaganda no Exterior.
 
-<strong>Art</strong>. 8º A COMBRATUR disporá de tabelas de pessoal extranumerário-mensalista e tarifeiro.
+**Art**. 8º A COMBRATUR disporá de tabelas de pessoal extranumerário-mensalista e tarifeiro.
 
 Parágrafo único. A COMBRATUR poderá convencionar a prestação de serviços, sob forma de pagamento mediante recibo, observado o disposto no parágrafo único do art. 2º da Lei nº 3.483, de 8 de dezembro de 1958.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ORGÃOS</em>
+*DA COMPETÊNCIA DOS ORGÃOS*
 
-<strong>Art</strong>. 9º Compete ao plenário da COMBRATUR:
+**Art**. 9º Compete ao plenário da COMBRATUR:
 
 a) decidir sôbre a matéria relacionada com a política nacional de turismo, que lhe será submetida pelo presidente, sendo as suas decisões consubstanciadas em Resoluções;
 
@@ -166,7 +164,7 @@ f) exercer, em geral, as atribuições deliberativas cometidas aos órgãos cole
 
 Parágrafo único. As decisões do Plenário serão tomadas por maioria de votos, presentes dois terços de seus membros. As reuniões ordinárias e extraordinárias do Plenário serão convocados na forma do Regulamento que fôr aprovado.
 
-<strong>Art</strong>. 10. Compete ao Gabinete da Presidência:
+**Art**. 10. Compete ao Gabinete da Presidência:
 
 a) receber e transmitir as ordens do Presidente;
 
@@ -174,7 +172,7 @@ b) prestar colaboração e assistência ao Presidente, no desempenho de suas atr
 
 c) centralizar o serviço de correspondência do Presidente.
 
-<strong>Art</strong>. 11. Compete à Secretaria centralizar os serviços de natureza administrativa, no sentido de:
+**Art**. 11. Compete à Secretaria centralizar os serviços de natureza administrativa, no sentido de:
 
 a) quanto ao Serviço de Administração, promover a execução das atividades relativas a pessoal, material, orçamento, comunicações e transporte;
 
@@ -182,11 +180,11 @@ b) quanto ao Serviço de Documentação, coligir, ordenar e conservar documentos
 
 c) quanto ao Serviço de Promoção Turística, centralizar os serviços de natureza técnica, planejar, coordenar e executar, nos têrmos dêste Regimento, a política de turismo nacional e internacional.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 12. Compete ao Presidente:
+**Art**. 12. Compete ao Presidente:
 
 a) presidir os trabalhos das reuniões, com direito também a voto de desempate;
 
@@ -206,7 +204,7 @@ h) impor penalidades aos servidores, nos limites legais, instaurar processo admi
 
 i) cooperar com os outros órgãos do serviço publico, federal, estadual, municipal e, ainda, com as entidades particulares, nacionais ou estrangeiras.
 
-<strong>Art</strong>. 13. Compete ao Diretor da Secretaria e ao Diretor do Serviço de Promoção Turística:
+**Art**. 13. Compete ao Diretor da Secretaria e ao Diretor do Serviço de Promoção Turística:
 
 a) despachar pessoalmente com o Presidente da COMBRATUR;
 
@@ -226,7 +224,7 @@ h) propor a aprovação da escala de férias dos seus subordinados;
 
 i) expedir boletins de merecimento aos servidores que lhes sejam imediatamente subordinados.
 
-<strong>Art</strong>. 14. Aos Chefes de Serviço e Seções compete:
+**Art**. 14. Aos Chefes de Serviço e Seções compete:
 
 a) dirigir e fiscalizar os trabalhos respectivos;
 
@@ -234,44 +232,44 @@ b) distribuir o pessoal e as tarefas pelos diversos setores;
 
 c) examinar informações e pareceres.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 15. O horário da COMBRATUR será adotado nas repartições publicas federais, ressalvadas as peculiaridades do serviço.
+**Art**. 15. O horário da COMBRATUR será adotado nas repartições publicas federais, ressalvadas as peculiaridades do serviço.
 
-<strong>Art</strong>. 16. O Presidente, o Diretor de Serviço e os ocupantes de função de chefia ou assessoramento não estão sujeitos ao regime de ponto, devendo, porém, ser observado o horário de trabalho.
+**Art**. 16. O Presidente, o Diretor de Serviço e os ocupantes de função de chefia ou assessoramento não estão sujeitos ao regime de ponto, devendo, porém, ser observado o horário de trabalho.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 17. O Presidente será substituído, em suas faltas e impedimentos, até 30 dias, pelo Conselheiro que fôr designado pelo Presidente da República.
+**Art**. 17. O Presidente será substituído, em suas faltas e impedimentos, até 30 dias, pelo Conselheiro que fôr designado pelo Presidente da República.
 
-<strong>Art</strong>. 18. O Diretor de Serviço, os Chefes de Serviço e de Seção terão seus substitutos eventuais prèviamente designados pelo Presidente da COMBRATUR.
+**Art**. 18. O Diretor de Serviço, os Chefes de Serviço e de Seção terão seus substitutos eventuais prèviamente designados pelo Presidente da COMBRATUR.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 19. Ouvidas as autoridades responsáveis, poderá a COMBRATUR celebrar, com emprêsas nacionais ou internacionais de transporte, assim também com organizações hoteleiras, convênios destinados à concessão de descontos nas tarifas normais de frete e diária, como incentivo à vinda de turistas ao Brasil.
+**Art**. 19. Ouvidas as autoridades responsáveis, poderá a COMBRATUR celebrar, com emprêsas nacionais ou internacionais de transporte, assim também com organizações hoteleiras, convênios destinados à concessão de descontos nas tarifas normais de frete e diária, como incentivo à vinda de turistas ao Brasil.
 
-<strong>Art</strong>. 20. Competirá à COMBRATUR examinar, oportunamente, a conveniência de se instituir, visando ao maior a fluxo de turismo estrangeiro, vantagens e estímulos de natureza cambial.
+**Art**. 20. Competirá à COMBRATUR examinar, oportunamente, a conveniência de se instituir, visando ao maior a fluxo de turismo estrangeiro, vantagens e estímulos de natureza cambial.
 
-<strong>Art</strong>. 21. A COMBRATUR terá a seu cargo a elaboração anual dos Calendários Turísticos Nacional e Internacional, com o registro de tôdas as ocorrências de reconhecido valor turístico, cuja realização, no país, esteja programada no período dos doze meses seguintes à divulgação dos Calendários.
+**Art**. 21. A COMBRATUR terá a seu cargo a elaboração anual dos Calendários Turísticos Nacional e Internacional, com o registro de tôdas as ocorrências de reconhecido valor turístico, cuja realização, no país, esteja programada no período dos doze meses seguintes à divulgação dos Calendários.
 
 Parágrafo único. Mediante acôrdo com as entidades interessadas, inclusive órgãos públicos, poderá a COMBRATUR promover a impressão dos Calendários e sua divulgação no País e no exterior.
 
-<strong>Art</strong>. 22. Para elaboração dos Calendários de que trata o artigo anterior, manterá a COMBRATUR em caracter permanente, um Registro da Ocorrências de Interêsse Turístico, no qual serão inscritos, com a devida antecedência, tôdas as festividades certames, congressos de demais acontecimentos que, pela sua expressão, possam constituir motivo de atração às correntes de turismo nacional ou internacional.
+**Art**. 22. Para elaboração dos Calendários de que trata o artigo anterior, manterá a COMBRATUR em caracter permanente, um Registro da Ocorrências de Interêsse Turístico, no qual serão inscritos, com a devida antecedência, tôdas as festividades certames, congressos de demais acontecimentos que, pela sua expressão, possam constituir motivo de atração às correntes de turismo nacional ou internacional.
 
 Parágrafo único. A inscrição no Registro a que se alude êste artigo será solicitada à COMBRATUR, através das suas Comissões Regionais, pelos organizadores da ocorrência turística, para o que serão prestados todos os esclarecimentos julgados necessários.
 
-<strong>Art</strong>. 23. Onde já existirem Departamentos ou Comissões Estaduais ou Municipais de Turismo, será estudada a possibilidade de assinaturas de convênios para o melhor desenvolvimento das atividades do Turismo.
+**Art**. 23. Onde já existirem Departamentos ou Comissões Estaduais ou Municipais de Turismo, será estudada a possibilidade de assinaturas de convênios para o melhor desenvolvimento das atividades do Turismo.
 
-<strong>Art</strong>. 24. A COMBRATUR poderá convocar, sempre que julgar oportuno, elementos ligados à industria do Turismo, a fim de cooperar em seus trabalhos técnicos ou tomar parte nos debates das reuniões plenárias da Comissão, sem direito a voto.
+**Art**. 24. A COMBRATUR poderá convocar, sempre que julgar oportuno, elementos ligados à industria do Turismo, a fim de cooperar em seus trabalhos técnicos ou tomar parte nos debates das reuniões plenárias da Comissão, sem direito a voto.
 
-<strong>Art</strong>. 25. Os casos omissos serão resolvidos pelo Plenário da COMBRATUR.
+**Art**. 25. Os casos omissos serão resolvidos pelo Plenário da COMBRATUR.
 
 Rio de Janeiro, em 19 de abril de 1960.
 
-<strong>ARMANDO RIBEIRO FALCÃO</strong>
+**ARMANDO RIBEIRO FALCÃO**

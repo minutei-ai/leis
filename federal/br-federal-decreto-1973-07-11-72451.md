@@ -1,5 +1,3 @@
-###DEC-072451-0-000-11-07-1973@@@
-
 DECRETO Nº 72.451, DE 11 DE JULHO DE 1973.
 
 Concede reconhecimento ao curso de Engenharia Mecânica da Escola de Engenharia da Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

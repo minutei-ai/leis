@@ -24,7 +24,6 @@ Goiânia, 21 de novembro de 2023; 135º da República.
 
 RONALDO CAIADO
 
-Governador do Estado<br>
-<br>
+Governador do Estado
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18403)

@@ -1,5 +1,3 @@
-###DEL-005053-0-000-08-12-1942@@@
-
 DECRETO-LEI N. 5.053 – DE 8 DE DEZEMBRO DE 1942
 
 Destaca a importância de Cr$ 4.777. 225,10 para liquidação de dívidas relacionadas (Dívida Pública)

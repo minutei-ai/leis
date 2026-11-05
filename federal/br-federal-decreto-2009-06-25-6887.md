@@ -1,5 +1,3 @@
-###DEC-006887-0-000-25-06-2009@@@
-
 DECRETO Nº 6.887, DE 25 DE JUNHO DE 2009.
 
 Altera os Decretos nos 5.171, de 6 de agosto de 2004, 5.649, de 29 de dezembro de 2005, 5.712, de 2 de março de 2006, e 6.233, de 11 de outubro de 2007, para regulamentar dispositivos das Leis nos 10.865, de 30 de abril de 2004, 11.196, de 21 de novembro de 2005, e 11.484, de 31 de maio de 2007.

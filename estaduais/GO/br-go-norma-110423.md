@@ -241,6 +241,6 @@ TABELA DE SUBSÍDIOS DO QUADRO PERMANENTE
 
 CORRESPONDÊNCIA ENTRE OS CARGOS
 
-<table style="width: 500px;"><tbody><tr><td colspan="2" rowspan="1" style="text-align: center;">(<a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80320">Lei nº 15.190</a>), de 18 de maio de 2005)<br><strong>DE</strong></td><td colspan="2" rowspan="1" style="text-align: center;"><strong>PARA</strong></td></tr><tr><td>Grupo Ocupacional</td><td>Cargo</td><td>Grupo Ocupacional</td><td>Novo Cargo</td></tr><tr><td>Assistente de Trânsito</td><td>Assistente de Trânsito</td><td>Extinto</td><td>Assistente Técnico de Trânsito</td></tr><tr><td>Analista de Trânsito</td><td>Analista de Trânsito</td><td>Extinto</td><td>Analista Técnico de Trânsito</td></tr></tbody></table>
+<table><tbody><tr><td colspan="2" rowspan="1">(<a href="https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80320">Lei nº 15.190</a>), de 18 de maio de 2005) **DE**</td><td colspan="2" rowspan="1">**PARA**</td></tr><tr><td>Grupo Ocupacional</td><td>Cargo</td><td>Grupo Ocupacional</td><td>Novo Cargo</td></tr><tr><td>Assistente de Trânsito</td><td>Assistente de Trânsito</td><td>Extinto</td><td>Assistente Técnico de Trânsito</td></tr><tr><td>Analista de Trânsito</td><td>Analista de Trânsito</td><td>Extinto</td><td>Analista Técnico de Trânsito</td></tr></tbody></table>
 
 ”(NR)

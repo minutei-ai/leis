@@ -1,5 +1,3 @@
-###DEL-004302-0-000-16-05-1942@@@
-
 DECRETO-LEI N. 4.302 – DE 16 DE MAIO DE 1942
 
 Organiza um Hospital Militar de 3ª classe na 7ª Região Militar

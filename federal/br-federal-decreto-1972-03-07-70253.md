@@ -1,5 +1,3 @@
-###DEC-070253-0-000-07-03-1972@@@
-
 DECRETO Nº 70.253, DE 7 DE MARÇO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil de uma área de terra destinada à instalação de concentradores de linhas, na localidade de Arraial do Cabo, no Município de Cabo Frio, Estado do Rio de Janeiro.

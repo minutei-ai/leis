@@ -1,5 +1,3 @@
-###DEC-057066-0-000-15-10-1965@@@
-
 DECRETO Nº 57.066, DE 15 DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Antônio Franco Barbosa Júnior a pesquisar argila, no Município de Mogi Mirim, Estado de São Paulo.

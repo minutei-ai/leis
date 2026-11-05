@@ -1,5 +1,3 @@
-###MPV-002125-0-012-26-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.125-12, DE 26 DE JANEIRO DE 2001
 
 Institui a Gratificação de Incentivo à Docência e dá outras providências.
@@ -62,10 +60,6 @@ FERNANDO HENRIQUE CARDOSO
 
 Silvano Gianni
 
-<br>
-
-<br>
-
                              ANEXO I
 
 Instituições Federais de Ensino:
@@ -81,8 +75,6 @@ d) Centros Federais de Educação Tecnológica:
 Centro Federal de Educação Tecnológica Celso Suckow da
 
 Fonseca;
-
-<br>
 
 Centro Federal de Educação Tecnológica da Bahia;
 
@@ -121,8 +113,6 @@ Centro Federal de Educação Tecnológica do Rio Grande do
  Norte;
 
 Centro Federal de Educação Tecnológica de Alagoas;
-
-<br>
 
 e) Escolas Técnicas Federais:
 
@@ -392,10 +382,54 @@ Instituto Tecnológico da Aeronáutica;
 
 Universidade da Força Aérea.
 
-<br>
-
                                                   ANEXO II
 
             Valor dos Pontos para a Gratificação de Incentivo à Docência
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:116.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">Escolaridade</span></p></td><td style="width:87.95pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">20 Horas</span></p></td><td style="width:98.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">40 Horas</span></p></td><td style="width:162.35pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt; font-weight:bold">Dedicação Exclusiva</span></p></td></tr><tr><td style="width:116.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p class="Anexo" style="margin-top:0pt; text-indent:0pt"><span>Graduação</span></p></td><td style="width:87.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,61</span></p></td><td style="width:98.45pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3,22</span></p></td><td style="width:162.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,92</span></p></td></tr><tr><td style="width:116.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Aperfeiçoamento</span></p></td><td style="width:87.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,61</span></p></td><td style="width:98.45pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3,22</span></p></td><td style="width:162.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,92</span></p></td></tr><tr><td style="width:116.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Especialização</span></p></td><td style="width:87.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1,61</span></p></td><td style="width:98.45pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3,22</span></p></td><td style="width:162.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,92</span></p></td></tr><tr><td style="width:116.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Mestrado</span></p></td><td style="width:87.95pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2,46</span></p></td><td style="width:98.45pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4,92</span></p></td><td style="width:162.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">7,58</span></p></td></tr><tr><td style="width:116.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; line-height:12pt"><span style="font-size:10pt">Doutorado</span></p></td><td style="width:87.95pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3,03</span></p></td><td style="width:98.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">6,06</span></p></td><td style="width:162.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">9,28</span></p></td></tr></tbody></table>
+Escolaridade
+
+20 Horas
+
+40 Horas
+
+Dedicação Exclusiva
+
+Graduação
+
+1,61
+
+3,22
+
+4,92
+
+Aperfeiçoamento
+
+1,61
+
+3,22
+
+4,92
+
+Especialização
+
+1,61
+
+3,22
+
+4,92
+
+Mestrado
+
+2,46
+
+4,92
+
+7,58
+
+Doutorado
+
+3,03
+
+6,06
+
+9,28

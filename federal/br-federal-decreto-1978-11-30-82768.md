@@ -1,5 +1,3 @@
-###DEC-082768-0-000-30-11-1978@@@
-
 DECRETO Nº 82768 DE 30 DE NOVEMBRO DE 1978
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

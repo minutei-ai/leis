@@ -1,7 +1,3 @@
-1
-
-###DEC-099241-0-000-07-05-1990@@@
-
 DECRETO N° 99.241, DE 7 DE MAIO DE 1990
 
 Institui a Comissão de Financiamentos Externos – COFIEX, e dá outras providências.

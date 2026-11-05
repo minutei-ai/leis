@@ -1,14 +1,12 @@
-###DEC-029410-0-000-29-03-1951@@@
+**DECRETO N. 29.410 – DE 29 DE MARÇO DE 1951**
 
-<strong>DECRETO N. 29.410 – DE 29 DE MARÇO DE 1951</strong>
-
-<em><strong>Retifica o Decreto nº 27.892, de 17 de março de 1950, publicado no “Diário Oficial” de 21-3-50 (Suplemento), o qual aprovou a Relotação do Ministério de Justiça e Negócios Interiores.</strong></em>
+***Retifica o Decreto nº 27.892, de 17 de março de 1950, publicado no “Diário Oficial” de 21-3-50 (Suplemento), o qual aprovou a Relotação do Ministério de Justiça e Negócios Interiores.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica retificada a lotação numérica dos Quadros Permanente, da Justiça (Partes Permanente e Suplementar) e Suplementar do Ministério da Justiça e Negócios Interiores aprovada peIo Decreto número 27.892, de 17-3-50, com o total de 6.176 para 6.180, sendo 5.047 na lotação Permanente e 1.133 na lotação Suplementar.
+**Art.** 1º Fica retificada a lotação numérica dos Quadros Permanente, da Justiça (Partes Permanente e Suplementar) e Suplementar do Ministério da Justiça e Negócios Interiores aprovada peIo Decreto número 27.892, de 17-3-50, com o total de 6.176 para 6.180, sendo 5.047 na lotação Permanente e 1.133 na lotação Suplementar.
 
 Parágrafo único. – No quadro de distribuição dos cargos e carreiras a que se refere o art. 2º do citado Decreto nº 27.892, são feitas as seguintes alterações:
 
@@ -18,7 +16,7 @@ b) Na coluna “QS” o total dos cargos isolados de provimento em comissão pas
 
 c) Na coluna “Total Geral” o total de cargos isolados de provimento em comissão passa a ser 98, o de cargos de carreiras 5.857 e total geral 6.180.
 
-<strong>Art.</strong> 2º Na relação numérica da distribuição dos cargos e carreiras pelas Repartições, a que se refere o art. 3º do Decreto nº 27.892-50 são feitas as seguintes modificações:
+**Art.** 2º Na relação numérica da distribuição dos cargos e carreiras pelas Repartições, a que se refere o art. 3º do Decreto nº 27.892-50 são feitas as seguintes modificações:
 
 Departamento de Imprensa Nacional
 
@@ -38,7 +36,7 @@ Acrescentem-se na parte suplementar:
 
 4 – Detetive
 
-<strong>Art.</strong> 3º Na relação nominal dos funcionários distribuídos pelas diversas Repartições são feitas as seguintes correções:
+**Art.** 3º Na relação nominal dos funcionários distribuídos pelas diversas Repartições são feitas as seguintes correções:
 
 Arquivo Nacional
 
@@ -542,12 +540,12 @@ Suprima-se:
 
 Laura Martins.
 
-<strong>Art.</strong> 4º Êste Decerto entrara em vigor na data de sua publicação.
+**Art.** 4º Êste Decerto entrara em vigor na data de sua publicação.
 
-<strong>Art.</strong> 5º Revogam-se as disposições em contrário.
+**Art.** 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 29 de março de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Francisco Negrão de Lima.

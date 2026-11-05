@@ -1,5 +1,3 @@
-###DEC-003930-0-000-19-09-2001@@@
-
 DECRETO Nº 3.930, DE 19 DE SETEMBRO DE 2001
 
 Dá nova redação ao art. 17 do Decreto nº 2.954, de 29 de janeiro de 1999, que estabelece regras para a redação de atos normativos de competência dos órgãos do Poder Executivo, e dá outras providências.

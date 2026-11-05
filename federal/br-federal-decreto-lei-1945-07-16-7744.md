@@ -1,5 +1,3 @@
-###DEL-007744-0-000-16-07-1945@@@
-
 DECRETO-LEI N. 7.744 – DE 16 DE JULHO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 28.000,00, à verba que especifica

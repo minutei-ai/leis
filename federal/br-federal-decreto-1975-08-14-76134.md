@@ -1,5 +1,3 @@
-###DEC-076134-0-000-14-08-1975@@@
-
 DECRETO Nº 76.134 - DE 14 DE AGOSTO DE 1975
 
 Concede reconhecimento aos cursos de Letras, de Estudos Sociais, de Ciências e de Pedagogia, da Faculdade de Filosofia, Ciências e Letras de Sete Lagoas, com sede na cidade de Sete Lagoas, Estado de Minas Gerais.

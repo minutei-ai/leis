@@ -1,5 +1,3 @@
-###DEC-087495-0-000-18-08-1982@@@
-
 Decreto nº 87.495, de 18 de agosto de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de subtransmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

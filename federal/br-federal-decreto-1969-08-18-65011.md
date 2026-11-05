@@ -1,5 +1,3 @@
-###DEC-065011-0-000-18-08-1969@@@
-
 DECRETO Nº 65.011 - DE 18 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública, para o fim de serem desapropriados, em favor da Fundação Universidade Federal de São Carlos, os imóveis que menciona.

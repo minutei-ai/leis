@@ -1,5 +1,3 @@
-###DEC-088111-0-000-18-02-1983@@@
-
 DECRETO Nº 88.111, DE 18 DE FEVEREIRO DE 1983
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural constituído de parte da "Fazenda Vitória", situado no Município de Bacabal, Estado do Maranhão, compreendido na área prioritária para fins de reforma agrária, fixada pelo nº 70.220, de 1º de março de 1972, alterado pelos Decretos ns. 71.195, de 4 de outubro de 1972, 79.288, de 16 de fevereiro de 1977, e 87.095, de 16 de abril de 1982.

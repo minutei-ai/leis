@@ -1,5 +1,3 @@
-###DEC-056362-0-000-27-05-1965@@@
-
 DECRETO Nº 56.362, DE 27 DE MAIO DE 1965.
 
 Cria sete suplentes de membros do Conselho Deliberativo, do Departamento Nacional de Obras de Saneamento.

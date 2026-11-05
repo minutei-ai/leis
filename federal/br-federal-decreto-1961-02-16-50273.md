@@ -1,5 +1,3 @@
-###DEC-050273-0-000-16-02-1961@@@
-
 DECRETO Nº 50.273, de 16 de fevereiro de 1961.
 
 Dispõe sôbre o horário de trabalho dos servidores do Serviço Civil do Poder Executivo e das Autarquias e dá outras providências.

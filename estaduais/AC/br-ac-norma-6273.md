@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.657, de 23 de Outubro de 2025.](https://legis.ac.gov.
 
 > **LEI Nº 4.516, DE 03 DE JANEIRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Programa Estadual de Compras Governamentais da Agricultura Familiar e Economia Solidária no Estado do Acre - PECAFES.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Programa Estadual de Compras Governamentais da Agricultura Familiar e Economia Solidária no Estado do Acre - PECAFES.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -21,8 +25,6 @@ Modificada pela Lei nº [4.657, de 23 de Outubro de 2025.](https://legis.ac.gov.
 **§ 1º** A comprovação da aptidão dos beneficiários fornecedores será feita, preferencialmente, mediante a apresentação da Declaração de Aptidão - DAP ao Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF ou por outros documentos que forem definidos pelo órgão responsável políticas estaduais de agricultura, pecuária e demais atividades rurais, em articulação com os demais órgãos da administração pública, em suas respectivas áreas de atuação.
 
 **§ 2º** Dentre as organizações aptas a participar do PECAFES, serão priorizadas aquelas constituídas predominantemente por mulheres, jovens, comunidades tradicionais e indígenas.
-
-<br>
 
 **§ 3º** Na hipótese dos participantes referidos no _caput_ não conseguirem atender, total ou parcialmente, à demanda constante do edital de credenciamento, poderão ser chamados produtores rurais do Estado que não se enquadrem no âmbito da Lei Federal n° 11.326, de 24 de julho de 2006, desde que o produto a ser entregue seja integralmente produzido no Estado. (Incluído pela Lei nº 4.657, de 23/10/2025)
 

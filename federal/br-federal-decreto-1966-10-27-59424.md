@@ -1,5 +1,3 @@
-###DEC-059424-0-000-27-10-1966@@@
-
 Decreto nº 59.424, de 27 de outubro de 1966.
 
 Concede à Mineração Assuruá Ltda, autorização para funcionar como empresa de mineração.

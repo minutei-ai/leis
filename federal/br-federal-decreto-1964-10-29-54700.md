@@ -1,5 +1,3 @@
-###DEC-054700-0-000-29-10-1964@@@
-
 DECRETO Nº 54.700, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Vinícius Valladares Vasconcellos a pesquisar dolomita, minérios de ferro e de manganês no município de Nova Lima, Estado de Minas Gerais.

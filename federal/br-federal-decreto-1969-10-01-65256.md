@@ -1,5 +1,3 @@
-###DEC-065256-0-000-01-10-1969@@@
-
 DECRETO Nº 65.256 - DE 1 DE OUTUBRO DE 1969.
 
 Exclusão do Quadro de Pessoal do Ministério da Fazenda de ex-servidores da extinta SPVEA.

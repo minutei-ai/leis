@@ -1,5 +1,3 @@
-###DEC-091057-0-000-07-03-1985@@@
-
 # DECRETO Nº 91.057, DE 07 DE MARÇO DE 1985
 
 Autoriza a transferência direta da concessão outorgada RÁDIO EDUCADORA LTDA., para a RÁDIO EDUCADORA DO TOCANTINS LTDA.

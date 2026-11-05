@@ -1,5 +1,3 @@
-###DEC-003073-0-000-28-05-1999@@@
-
 DECRETO Nº 3.073, DE 28 DE MAIO DE1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.952, de 28 de janeiro de1999.

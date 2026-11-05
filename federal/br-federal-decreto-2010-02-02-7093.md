@@ -1,5 +1,3 @@
-###DEC-007093-0-000-02-02-2010@@@
-
 DECRETO Nº 7.093, DE 2 DE FEVEREIRO DE 2010.
 
 Dispõe sobre o suprimento de energia elétrica nos Sistemas Isolados.

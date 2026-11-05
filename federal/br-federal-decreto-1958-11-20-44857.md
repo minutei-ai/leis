@@ -1,5 +1,3 @@
-###DEC-044857-0-000-20-11-1958@@@
-
 DECRETO Nº 44.857, DE 20 DE NOVEMBRO DE 1958.
 
 Suspende, provisòriamente, a aquisição de material permanente e de consumo para o serviço público, e dá outras providências.

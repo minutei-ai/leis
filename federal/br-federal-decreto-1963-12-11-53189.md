@@ -1,5 +1,3 @@
-###DEC-053189-0-000-11-12-1963@@@
-
 decreto nº 53.189, de 11 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Crispim Alves Magalhães a pesquisar minérios de ferro e manganês no município de Pitangui, Estado de Minas Gerais.

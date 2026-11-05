@@ -1,5 +1,3 @@
-###DEL-007765-0-000-20-07-1945@@@
-
 DECRETO-LEI N. 7.765 – DE 20 DE JULHO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o credito suplementar de Cr$ 15.600,00 á verba que especifica

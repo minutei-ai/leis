@@ -1,5 +1,3 @@
-###DEC-066932-0-000-21-07-1970@@@
-
 DECRETO Nº 66.932, DE 21 DE JULHO DE 1970.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas à instalação de uma central nuclear de energia elétrica no município de Angra dos Reis, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-078547-0-000-07-10-1976@@@
-
 Decreto nº 78.547, de 7 de outubro de 1976.
 
 Autoriza a cessão sob forma de utilização gratuita, do terreno que menciona, situado no Município de Florianópolis, Estado de Santa Catarina.

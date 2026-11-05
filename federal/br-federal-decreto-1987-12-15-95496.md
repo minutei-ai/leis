@@ -1,5 +1,3 @@
-###DEC-095496-0-000-15-12-1987@@@
-
 DECRETO Nº 95.496, DE 15 DE DEZEMBRO DE 1987
 
 Outorga concessão à SOCIEDADE ACREANA DE COMUNICAÇÃO FRONTEIRA LTDA., para explorar serviço de radiodifusão de sons e imagens (Televisão), na cidade de Rio Branco, Estado do Acre.

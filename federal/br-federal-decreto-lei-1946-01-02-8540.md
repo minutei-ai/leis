@@ -1,5 +1,3 @@
-###DEL-008540-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.540 – DE 2 DE JANEIRO DE 1946
 
 Cria, no Corpo de Fuzileiros Navais, a Companhia de Transporte

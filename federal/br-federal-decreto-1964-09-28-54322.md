@@ -1,5 +1,3 @@
-###DEC-054322-0-000-28-09-1964@@@
-
 DECRETO Nº 54.322, DE 28 DE SETEMBRO DE 1964.
 
 Amplia a zona de concessão da Centrais Elétricas de Goiás S.A.

@@ -1,5 +1,3 @@
-###DEC-048882-0-000-25-08-1960@@@
-
 DECRETO Nº 48.882, DE 25 DE AGÔSTO DE 1960
 
 Concede à sociedade Navegação de Cabotagem Paulista Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

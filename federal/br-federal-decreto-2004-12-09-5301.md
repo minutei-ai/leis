@@ -1,5 +1,3 @@
-###DEC-005301-0-000-09-12-2004@@@
-
 DECRETO Nº 5.301 DE 9 DE DEZEMBRO DE 2004
 
 Regulamenta o disposto na Medida Provisória nº 228, de 9 de dezembro de 2004, que dispõe sobre a ressalva prevista na parte final do disposto no inciso XXXIII do art. 5º da Constituição, e dá outras providências.

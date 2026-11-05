@@ -1,5 +1,3 @@
-###DEC-070140-0-000-17-02-1972@@@
-
 DECRETO nº 70.140, DE 17 DE FEVEREIRO DE 1972.
 
 Aprova a incorporação da Companhia de Eletricidade de Cajazeiras pela Sociedade Anônima de Eletrificação da Paraíba e dá outras providências.

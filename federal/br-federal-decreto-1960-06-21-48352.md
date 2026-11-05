@@ -1,5 +1,3 @@
-###DEC-048352-0-000-21-06-1960@@@
-
 DECRETO Nº 48.352, DE 21 DE JUNHO DE 1960.
 
 Autoriza Esmeraldas de Conquista Ltda. a pesquisar pedras coradas no município de Vitória da Conquista, Estado da Bahia.

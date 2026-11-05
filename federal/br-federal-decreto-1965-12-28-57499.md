@@ -1,5 +1,3 @@
-###DEC-057499-0-000-28-12-1965@@@
-
 DECRETO Nº 57.499, DE 28 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Sydney Siqueira Cardoso a pesquisar feldspato e mica, no município de São Gonçalo, Estado do Rio de Janeiro.

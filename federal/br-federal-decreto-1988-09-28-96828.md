@@ -1,5 +1,3 @@
-###DEC-096828-0-000-28-09-1988@@@
-
 DECRETO N° 96.828, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DE PORTEIRINHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Porteirinha, Estado de Minas Gerais.

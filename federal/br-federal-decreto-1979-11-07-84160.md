@@ -1,5 +1,3 @@
-###DEC-084160-0-000-07-11-1979@@@
-
 Decreto nº 84.160, de 7 de novembro de 1979.
 
 Concede à Associação Brasileira de Embalagem a prerrogativa inscrita no artigo 513, alínea d, da Consolidação das Leis do Trabalho.

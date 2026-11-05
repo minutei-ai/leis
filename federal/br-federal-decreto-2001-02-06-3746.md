@@ -1,5 +1,3 @@
-###DEC-003746-0-000-06-02-2001@@@
-
 DECRETO N° 3.746, DE 6 DE FEVEREIRO DE 2001.
 
 Dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 2001.

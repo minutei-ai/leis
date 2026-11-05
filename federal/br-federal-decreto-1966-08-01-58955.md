@@ -1,5 +1,3 @@
-###DEC-058955-0-000-01-08-1966@@@
-
 DECRETO Nº 58.955, de 1 de agôsto de 1966.
 
 Autoriza a Companhia Brasileira de Usinas Metalúrgicas a pesquisar Minério de ferro, no Município de São Gonçalo do Rio Abaixo, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-091370-0-000-26-06-1985@@@
-
 DECRETO Nº 91.370, DE 26 DE JUNHO de 1985
 
 Institui o Conselho Interministerial de Salários de Empresas Estatais - CISE, por desdobramento do Conselho Nacional de Política Salarial - CNPS, e dá outras providências.

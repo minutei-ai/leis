@@ -1,5 +1,3 @@
-###DEC-051884-0-000-03-04-1963@@@
-
 DECRETO Nº 51.884, de 3 de abril de 1963.
 
 Concede autorização para o funcionamento da Faculdade de Medicina de Pelotas, mantida pela Instituição Pró-Ensino Superior no Sul do Estado, de Pelotas, Estado do Rio Grande do Sul.

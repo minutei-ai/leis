@@ -1,5 +1,3 @@
-###DEC-048633-0-000-27-07-1960@@@
-
 DECRETO Nº 48.633, DE 27 DE JULHO DE 1960.
 
 Retifica e altera o Decreto nº 36.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

@@ -1,5 +1,3 @@
-###DEC-060427-0-000-11-03-1967@@@
-
 DECRETO Nº 60.427, DE 11 DE MARÇO DE 1967.
 
 Declara caduco o Decreto nº 38.437, de 28 de dezembro de 1955.

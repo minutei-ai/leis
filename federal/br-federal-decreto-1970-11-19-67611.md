@@ -1,5 +1,3 @@
-###DEC-067611-0-000-19-11-1970@@@
-
 DECRETO Nº 67.611, DE 19 DE NOVEMBRO DE 1970.
 
 Estabelece o Sistema de Comunicação Social do Poder Executivo e dá outras providências.

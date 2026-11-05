@@ -1,5 +1,3 @@
-###DEL-004182-0-000-16-03-1942@@@
-
 DECRETO-LEI N. 4.182 – DE 16 DE MARÇO DE 1942
 
 Cria no Serviço Florestal do Ministério da Agricultura, a Secção de Biologia, extingue a Estação Biológica de Itatiaia e dá outras providências.

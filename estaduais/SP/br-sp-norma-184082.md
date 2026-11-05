@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=184082)
-
 # DECRETO Nº 62.951, DE 21 DE NOVEMBRO DE 2017
 
 ### _Declara de utilidade pública para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área necessária às obras e serviços de implantação de nova ponte sobre o Rio Tietê, no km 210+500m da SP-147, Rodovia Samuel de Castro Neves, localizada no Município de Anhembi, e dá providência correlatas_
@@ -20,10 +18,16 @@ Palácio dos Bandeirantes, 21 de novembro de 2017
 
 GERALDO ALCKMIN
 
-Laurence Casagrande Lourenço<br>
-Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Laurence Casagrande Lourenço
+
+Diretor Presidente da Dersa, Respondendo pelo Expediente da Secretaria de Logística e Transportes
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de novembro de 2017.

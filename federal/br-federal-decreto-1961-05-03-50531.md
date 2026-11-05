@@ -1,5 +1,3 @@
-###DEC-050531-0-000-03-05-1961@@@
-
 DECRETO Nº 50.531, DE 3 DE MAIO DE 1961.
 
 Altera a redação do art. 3º do Decreto nº 50.486, de 25 de abril de 1961.

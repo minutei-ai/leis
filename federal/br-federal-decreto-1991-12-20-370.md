@@ -1,7 +1,3 @@
-1
-
-###DEC-000370-0-000-20-12-1991@@@
-
 DECRETO Nº 370, DE 20 DE DEZEMBRO DE 1991
 
 Dispõe sobre a extinção da Fundação das Pioneiras Sociais e dá outras providências.

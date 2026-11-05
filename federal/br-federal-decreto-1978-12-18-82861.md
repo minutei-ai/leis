@@ -1,5 +1,3 @@
-###DEC-082861-0-000-18-12-1978@@@
-
 Decreto nº 82 861, de 18 de dezembro de 1978
 
 Concede à Companhia de Mineração Santarém - COMISA o direito de lavrar bauxita no Município de Faro, Estado do Pará.

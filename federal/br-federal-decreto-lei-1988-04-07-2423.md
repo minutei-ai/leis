@@ -1,7 +1,3 @@
-1
-
-###DEL-002423-0-000-07-04-1988@@@
-
 # DECRETO‑LEI N° 2.423, DE 7 DE ABRIL DE 1988
 
 Estabelece critérios para o pagamento de gratificações e vantagens pecuniárias aos titulares de cargos e empregos da Administração Federal direta e autárquica e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060244-0-000-20-02-1967@@@
-
 DECRETO Nº 60.244, DE 20 DE FEVEREIRO DE 1967.
 
 Torna insubsistente na parte a que se refere, o Decreto n° 57.184, de 8 de novembro de 1965.

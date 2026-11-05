@@ -1,5 +1,3 @@
-###DEC-061513-0-000-11-10-1967@@@
-
 DECRETO Nº 61.513, DE 11 de OUTUBRO DE 1967.
 
 Altera o Regimento do Gabinete do Ministro dos Transportes e dá outras providências.

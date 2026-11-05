@@ -1,5 +1,3 @@
-###DEC-006380-0-000-20-02-2008@@@
-
 DECRETO Nº 6.380, DE 20 DE FEVEREIRO DE 2008.
 
 Dispõe sobre a exclusão, do Programa Nacional de Desestatização - PND, do Banco do Estado de Santa Catarina S.A. - BESC e da BESC S.A. Crédito Imobiliário - BESCRI.
@@ -19,5 +17,3 @@ LUIZ INÁCIO LULA DA SILVA
 Nelson Machado
 
 Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 21.2.2008

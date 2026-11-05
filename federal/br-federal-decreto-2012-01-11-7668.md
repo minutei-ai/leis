@@ -1,5 +1,3 @@
-###DEC-007668-0-000-11-01-2012-PUB-01@@@
-
 DECRETO Nº 7.668, DE 11 DE JANEIRO DE 2012
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Equador sobre Cooperação no Domínio da Defesa, firmado em Brasília, em 4 de abril de 2007.

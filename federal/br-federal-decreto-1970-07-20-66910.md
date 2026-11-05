@@ -1,5 +1,3 @@
-###DEC-066910-0-000-20-07-1970@@@
-
 decreto nº 66.910, de 20 de julho de 1970.
 
 Declara de utilidade pública para fins de desapropriação, áreas de terra necessárias à bacia de acumulação do aproveitamento hidroelétrico de Mascarenhas, nos Estados do Espírito Santo e Minas Gerais.

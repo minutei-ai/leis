@@ -1,5 +1,3 @@
-###DEC-061339-0-000-13-09-1967@@@
-
 DECRETO Nº 61.339, DE 13 DE SETEMBRO DE 1967.
 
 Torna sem efeito o Decreto nº 61.252, de 30 de agôsto de 1967.

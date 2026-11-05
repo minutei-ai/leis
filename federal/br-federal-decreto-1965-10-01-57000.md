@@ -1,5 +1,3 @@
-###DEC-057000-0-000-01-10-1965@@@
-
 DECRETO Nº 57.000, DE 1º DE OUTUBRO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “Diniz & Cia. Ltda.”, de Aracaju(Se).
@@ -14,7 +12,43 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “Diniz & Cia. Ltda.”, de Aracaju (Se):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:255.25pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:56.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:60.35pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor total CIF US$</span></p></td></tr><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Instalação completa, marca DILO, de fabricação Oskar Dilo KG Maschinefabrik, Alemanha, destinada a desfibrar casca de côco, trabalhando pelo sistema “SECO”, sendo que as saídas das fibras são separadas, compreendendo: fibras compridas e paralelas, curtas e misturas; composta de:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>a) Pré-abridor de casca com pêso líquido de 2.820 kg.......................................................................................</span></p></td><td style="width:56.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>9.691</span></p></td></tr><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Máquina para desfibramento composto de 2 tambores, com pêso líquido de 3.650 kg......................................................................................</span></p></td><td style="width:56.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>12.333</span></p></td></tr><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>c) Dispositivo de saída composto de ventilador e ciclone, com pêso líquido de 650kg ...............................................</span></p></td><td style="width:56.75pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>1.399</span></p></td></tr><tr><td style="width:39.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:255.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>Total ..................................................................................</span></p></td><td style="width:56.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:60.35pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>23.423</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade a ser importada
+
+Valor total CIF US$
+
+1
+
+Instalação completa, marca DILO, de fabricação Oskar Dilo KG Maschinefabrik, Alemanha, destinada a desfibrar casca de côco, trabalhando pelo sistema “SECO”, sendo que as saídas das fibras são separadas, compreendendo: fibras compridas e paralelas, curtas e misturas; composta de:
+
+a) Pré-abridor de casca com pêso líquido de 2.820 kg.......................................................................................
+
+1
+
+9.691
+
+b) Máquina para desfibramento composto de 2 tambores, com pêso líquido de 3.650 kg......................................................................................
+
+1
+
+12.333
+
+c) Dispositivo de saída composto de ventilador e ciclone, com pêso líquido de 650kg ...............................................
+
+1
+
+1.399
+
+-
+
+Total ..................................................................................
+
+-
+
+23.423
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

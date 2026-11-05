@@ -1,5 +1,3 @@
-###DEC-092052-0-000-29-11-1985@@@
-
 Decreto nº 92.052, de 29 de novembro de 1985
 
 Concede à Companhia Siderúrgica de Mogi das Cruzes - COSIM autorização para proceder a aumento do seu capital Social.

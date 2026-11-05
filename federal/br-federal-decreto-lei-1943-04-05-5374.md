@@ -1,5 +1,3 @@
-###DEL-005374-0-000-05-04-1943@@@
-
 DECRETO‑LEI N. 5.374 – DE 5 DE ABRIL DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 20.000.000,00 para prosseguimento e conclusão das obras da variante São João, na Rede Viação Paraná‑Santa Catarina.

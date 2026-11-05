@@ -1,7 +1,3 @@
-1
-
-###DEC-098065-0-000-17-08-1989@@@
-
 DECRETO N° 98.065, DE 17 DE AGOSTO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “LOTEAMENTO RIO PRETO 1ª' ETAPA”, constituído pelos Lotes 4, 8, 9, 10, 11, 19 e 20, situado no Município de Araguaína, Estado do Tocantins, e dá outras providências.

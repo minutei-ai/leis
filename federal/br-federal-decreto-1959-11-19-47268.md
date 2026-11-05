@@ -1,5 +1,3 @@
-###DEC-047268-0-000-19-11-1959@@@
-
 DECRETO Nº 47.268, DE 19 DE NOVEMBRO DE 1959.
 
 Outorga à Companhia de Cimento Portland Maringá concessão para o aproveitamento de energia hidráulica, para uso exclusivo da cachoeira Poço Prêto no rio Itararé situada na divisa dos Estados de São Paulo e Paraná.

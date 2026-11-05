@@ -1,5 +1,3 @@
-###DEC-046901-0-000-24-09-1959@@@
-
 DECRETO Nº 46.901, DE 24 DE SETEMBRO DE 1959.
 
 Outorga concessão à Rádio Televisão Piratini Sociedade Anônima para estabelecer uma estação de radiotelevisão em Pôrto Alegre, Estado do Rio Grande do Sul.

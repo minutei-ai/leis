@@ -1,5 +1,3 @@
-###DEC-089588-0-000-26-04-1984@@@
-
 Decreto nº 89.588, de 26 de abril de 1984.
 
 Cria o Instituto Nacional de Estudos do Mar (INEM), o inclui no regime de que trata o Decreto nº 86.212, de 15 de julho de 1981, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084359-0-000-31-12-1979@@@
-
 Decreto nº 84.359, de 31 de dezembro de 1979
 
 Cria Organização Militar no Ministério do Exército e dá outras providências.

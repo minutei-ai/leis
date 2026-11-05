@@ -1,5 +1,3 @@
-###DEC-004326-0-000-08-08-2002@@@
-
 DECRETO Nº 4.326, DE 8 DE AGOSTO DE 2002
 
 Institui, no âmbito do Ministério do Meio Ambiente, o Programa Áreas Protegidas da Amazônia - ARPA, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070092-0-000-02-02-1972@@@
-
 DECRETO Nº 70.092, DE 2 DE FEVEREIRO DE 1972.
 
 Inclui nas atribuições dos Ministérios da Marinha e da Aeronáutica, as atividades de meteorologia marítima e aeronáutica, respectivamente, e dá outras providências.

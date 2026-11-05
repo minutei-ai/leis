@@ -1,5 +1,3 @@
-###DEC-089984-0-000-23-07-1984@@@
-
 Decreto nº 89.984, de 23 de julho de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado do Amazonas.

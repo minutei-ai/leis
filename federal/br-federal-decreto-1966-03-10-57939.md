@@ -1,5 +1,3 @@
-###DEC-057939-0-000-10-03-1966@@@
-
 DECRETO Nº 57.939, DE 10 DE MARÇO DE 1966.
 
 Cria a Policlínica Militar da Praia Vermelha e dá outras providências.

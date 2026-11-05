@@ -1,5 +1,3 @@
-###DEC-061021-0-000-17-07-1967@@@
-
 DECRETO N° 61.021, DE 17 DE JULHO DE 1967.
 
 Altera nome da Faculdade da Universidade Federal de Santa Catarina.

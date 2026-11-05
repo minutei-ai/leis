@@ -1,5 +1,3 @@
-###DEC-057611-0-000-07-01-1966@@@
-
 DECRETO Nº 57.611, DE 7 DE JANEIRO DE 1966.
 
 Aprova o Regulamento dos Serviços de Telefonia.

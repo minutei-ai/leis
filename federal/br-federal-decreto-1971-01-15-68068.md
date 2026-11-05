@@ -1,5 +1,3 @@
-###DEC-068068-0-000-15-01-1971@@@
-
 Decreto nº 68.068, de 15 de janeiro de 1971
 
 Restabelece cargo Mestre, A-1801.13.A no Quadro de Pessoal, Parte Especial extinta do MIC e torna sem efeito disponibilidade do servidor que menciona.

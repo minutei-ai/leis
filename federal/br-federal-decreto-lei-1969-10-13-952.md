@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cd159191-33d5-40cc-bf12-1b628c42a350/texto#nowhere)
 
-###DEL-000952-0-000-13-10-1969@@@
-
 Decreto-lei nº 952, de 13 de Outubro de 1969
 
 Concede pensão especial aos três últimos trinetos de Tiradentes.

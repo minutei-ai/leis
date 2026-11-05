@@ -1,5 +1,3 @@
-###DEC-050495-0-000-25-04-1961@@@
-
 DECRETO Nº 50.495, DE 25 DE ABRIL DE 1961.
 
 Determina a Execução de Programas Anuais pela Superintendência do Plano de Valorização Econômica da Amazônia e dá outras providências.

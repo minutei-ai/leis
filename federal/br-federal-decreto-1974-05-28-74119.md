@@ -1,5 +1,3 @@
-###DEC-074119-0-000-28-05-1974@@@
-
 DECRETO Nº 74.119, DE 28 DE MAIO DE 1974.
 
 Concede reconhecimento ao Curso de Administração da Faculdade de Economia e Administração do Rio de Janeiro da Universidade Gama Filho, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

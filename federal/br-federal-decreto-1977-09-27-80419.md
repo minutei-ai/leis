@@ -1,5 +1,3 @@
-###DEC-080419-0-000-27-09-1977@@@
-
 DECRETO Nº 80.419 - DE 27 DE SETEMBRO DE 1977
 
 Promulga a Convenção Regional sobre o Reconhecimento de Estudos, Títulos e Diplomas de Ensino Superior na América Latina e no Caribe.

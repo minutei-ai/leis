@@ -1,7 +1,3 @@
-1
-
-###DEC-001296-0-000-26-10-1994@@@
-
 DECRETO Nº 1.296, DE 26 DE OUTUBRO DE 1994
 
 Altera os arts. 5º, 6º e 7º do Decreto nº 1.153, de 8 de junho de 1994, que dispõe sobre a constituição da Comissão Especial e das Subcomissões Setoriais de Anistia, de que trata o art. 5º da Lei nº 8.878, de 11 de maio de 1994.

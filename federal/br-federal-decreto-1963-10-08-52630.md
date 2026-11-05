@@ -1,5 +1,3 @@
-###DEC-052630-0-000-08-10-1963@@@
-
 DECRETO Nº 52.630, DE 8 DE OUTUBRO DE 1963.
 
 Amplia a zona de concessão da Companhia Distribuidora de Eletricidade do Brejo Paraibano e dá outras providências.

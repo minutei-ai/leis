@@ -1,5 +1,3 @@
-###DEC-096101-0-000-27-05-1988@@@
-
 DECRETO N° 96.101, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDAS CANASTRA LAGOA BONITA” e “LAGOA”, classificados como “latifúndio por exploração”, situados no Município de Senador Modestino Gonçalves, no Estado de Mi­nas Gerais, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

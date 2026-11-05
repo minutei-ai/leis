@@ -1,5 +1,3 @@
-###DEC-062433-0-000-19-03-1968@@@
-
 DECRETO Nº 62.433, DE 19 DE MARÇO DE 1968.
 
 Provê sobre constituição de Grupo de Trabalho Interministerial, para estudar a importação de zebuínos e bubalinos.

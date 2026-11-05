@@ -1,5 +1,3 @@
-###DEC-006388-0-000-05-03-2008@@@
-
 DECRETO Nº 6.388, DE 5 DE MARÇO DE 2008.
 
 Fixa a competência da Superintendência de Seguros Privados - SUSEP para a operacionalização, a emissão de autorizações e a fiscalização das operações de distribuição gratuita de prêmios, mediante sorteio ou operação assemelhada a sorteio, vinculadas à doação de títulos de capitalização ou à cessão de direitos sobre os sorteios inerentes aos títulos de capitalização, quando enquadradas nos termos da Lei nº 5.768, de 20 de dezembro de 1971,  e dá outras providências.
@@ -21,5 +19,3 @@ Brasília, 5 de março de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Machado
-
-Este texto não substitui o publicado no DOU de 6.3.2008

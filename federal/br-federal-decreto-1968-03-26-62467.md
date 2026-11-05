@@ -1,5 +1,3 @@
-###DEC-062467-0-000-26-03-1968@@@
-
 Decreto nº 62.467, de 26 de março de 1968.
 
 Declara de utilidade pública, o “Instituto São José”, com sede em São José dos Campos, Estado de São Paulo.

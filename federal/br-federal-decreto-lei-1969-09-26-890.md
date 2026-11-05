@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d2f0f2f7-60aa-4339-aa35-5c4d44ec254d/texto#nowhere)
 
-###DEL-000890-0-000-26-09-1969@@@
-
 DECrETO-LEI Nº 890, DE 26 DE setembro DE 1969
 
 Dá nova redação aos parágrafos 4º e 5º do artigo 11 da Lei nº 4.494, de 25 de novembro de 1964, ao artigo 350 e seu parágrafo único do Decreto-lei nº 1.608, de 18 de setembro de 1939, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-006176-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.176 – DE 6 DE JANEIRO DE 1944
 
 Extingue a Artilharia Divisionária da 14ª Divisão de Infantaria com sede na 7ª Região Militar

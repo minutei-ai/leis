@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212527)<br>
-
 # LEI COMPLEMENTAR N° 1.442, DE 05 DE MAIO DE 2026
 
 ### _Dispõe sobre a alteração da Lei Complementar n° 1.120, de 29 de junho de 2010, que instituiu o Plano de Cargos e Carreiras dos servidores do Tribunal de Justiça Militar do Estado de São Paulo._

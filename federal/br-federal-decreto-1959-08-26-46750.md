@@ -1,5 +1,3 @@
-###DEC-046750-0-000-26-08-1959@@@
-
 DECRETO Nº 46.750, DE 26 DE Agôsto DE 1959.
 
 Retifica o Decreto nº 45.319, de 27 de janeiro de 1959.

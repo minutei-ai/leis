@@ -1,5 +1,3 @@
-###DEC-045311-0-000-27-01-1959@@@
-
 DECRETO Nº 45.311, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Tito de Oliveira Lima a pesquisar quartzo, pedras coradas no Município de Caraí, Estado de Minas Gerais.

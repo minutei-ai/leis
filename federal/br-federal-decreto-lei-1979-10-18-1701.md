@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b20d5517-2ec8-4eaf-84a2-760448cdbecc/texto#nowhere)
 
-###DEL-001701-0-000-18-10-1979@@@
-
 # decreto-lei nº 1.701, de 18 de outubro de 1979
 
 Prorroga o prazo para destinação de recursos ao PIN e ao PROTERRA.

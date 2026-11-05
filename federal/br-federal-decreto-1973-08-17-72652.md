@@ -1,5 +1,3 @@
-###DEC-072652-0-000-17-08-1973@@@
-
 DECRETO Nº 72.652, DE 17 DE AGOSTO DE 1973.
 
 Concede à Companhia de Desenvolvimento Agro-Pecuário Industrial e Mineral do Estado do Pará - CIDAPAR o direito de lavrar ouro no Município de Viseu, Estado do Pará.

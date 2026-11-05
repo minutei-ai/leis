@@ -1,5 +1,3 @@
-###DEL-001399-0-000-10-04-1975@@@
-
 # decreto-lei nº 1.399, de 10 de abril de 1975
 
 Dispõe sobre a prorrogação do prazo previsto no artigo 2º do Decreto-lei nº 1.370, de 9 de dezembro de 1974.

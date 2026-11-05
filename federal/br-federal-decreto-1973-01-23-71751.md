@@ -1,5 +1,3 @@
-###DEC-071751-0-000-23-01-1973@@@
-
 DECRETO Nº 71.751, DE 23 DE JANEIRO DE 1973.
 
 Cria Organização Militar e dá outras providências.

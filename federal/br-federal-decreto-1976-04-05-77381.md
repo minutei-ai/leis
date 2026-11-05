@@ -1,5 +1,3 @@
-###DEC-077381-0-000-05-04-1976@@@
-
 DECRETO Nº 77.381 - DE 5 DE ABRIL DE 1976
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

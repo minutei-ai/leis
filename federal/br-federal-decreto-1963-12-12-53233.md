@@ -1,5 +1,3 @@
-###DEC-053233-0-000-12-12-1963@@@
-
 DECRETO Nº 53.233, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Diogo Bethônico a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

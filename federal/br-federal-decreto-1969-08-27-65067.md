@@ -1,5 +1,3 @@
-###DEC-065067-0-000-27-08-1969@@@
-
 DECRETO Nº 65.067 - DE 27 DE AGÔSTO DE 1969.
 
 Limita o máximo de participação em multas e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000504-0-000-22-09-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 504, DE 22 DE SETEMBRO DE 2010.
 
 Dá nova redação ao art. 1o da Lei no 5.851, de 7 de dezembro de 1972, que autoriza o Poder Executivo a instituir empresa pública, sob a denominação de Empresa Brasileira de Pesquisa Agropecuária (EMBRAPA).

@@ -1,7 +1,3 @@
-1
-
-###DEC-099019-0-000-05-03-1990@@@
-
 DECRETO Nº 99.019, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do Curso Superior de Secretariado Executivo da Faculdade de Ciências Exatas, Administrativas e Sociais de Brasília.

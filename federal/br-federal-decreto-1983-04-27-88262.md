@@ -1,5 +1,3 @@
-###DEC-088262-0-000-27-04-1983@@@
-
 DECRETO nº 88.262, de 27 de abril de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à S.A. RÁDIO JORNAL DO BRASIL, depois RÁDIO JORNAL DO BRASIL LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

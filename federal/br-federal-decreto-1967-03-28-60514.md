@@ -1,5 +1,3 @@
-###DEC-060514-0-000-28-03-1967@@@
-
 DECRETO Nº 60.514, DE 28 DE MARÇO DE 1967.
 
 Transfere do Govêrno do Estado de Pernambuco e do Departamento de Águas e Energia do mesmo Estado, para a Companhia de Eletricidade de Pernambuco, concessões para transmitir e distribuir energia elétrica em diversos municípios do Estado de Pernambuco.
@@ -21,8 +19,6 @@ Brasília, 28 de março de 1967; 146º da Independência e 79º da República.
 a. costa e silva
 
 José Costa Cavalcanti
-
-###DEC-060514-0-000-28-03-1967@@@RET01+++
 
 decreto Nº 60.514, de 28 de março de 1967.
 

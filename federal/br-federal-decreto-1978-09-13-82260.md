@@ -1,5 +1,3 @@
-###DEC-082260-0-000-13-09-1978@@@
-
 Decreto nº 82.260, de 13 de setembro de 1978
 
 Declara sem efeito o Decreto nº 24.746, de 02 de abril de 1948, que autorizou os cidadãos brasileiros Manuel Ferreira Guimarães e Júlio Mourão Guimarães a lavrar ouro no Município de Mariana, Estado de Minas Gerais.

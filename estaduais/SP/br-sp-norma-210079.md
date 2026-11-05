@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210079)<br>
-
 # DECRETO N° 68.939, DE 03 DE OUTUBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de Rio Grande da Serra, o imóvel que especifica._

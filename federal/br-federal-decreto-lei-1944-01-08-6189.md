@@ -1,5 +1,3 @@
-###DEL-006189-0-000-08-01-1944@@@
-
 DECRETO-LEI N. 6.189 – DE 8 DE JANEIRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 894.199,00, para pagamento de materiais fornecidos à Estrada de Ferro de Goiaz

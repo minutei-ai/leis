@@ -1,5 +1,3 @@
-###DEC-048241-0-000-24-05-1960@@@
-
 decreto nº 48.241, de 24 de maio de 1960.
 
 Altera denominação de repartição do Ministério da Viação e Obras Públicas.

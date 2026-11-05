@@ -1,5 +1,3 @@
-###DEL-008883-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.883 – DE 24 DE JANEIRO DE 1946
 
 Cria cargos no Quadro Permanente do Ministério da Aeronáutica e dá outras providências.

@@ -41,5 +41,3 @@ Cristiano Barreto Guimarães
 Secretário Especial de Governo
 
 Iniciativa do Poder Judiciário
-
-Este texto não substitui o publicado no D.O.E. de 17.09.2026.

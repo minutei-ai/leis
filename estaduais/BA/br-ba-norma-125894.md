@@ -1,13 +1,15 @@
 LEI Nº 12.618 DE 28 DE DEZEMBRO DE 2012
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [17.611](https://www.legislabahia.ba.gov.br/documentos/decreto-no-17611-de-18-de-maio-de-2017) de 18 de maio de 2017 - Dispõe sobre a composição, organização e funcionamento do Comitê Gestor de Acesso à Informação - CGAI, instituído pela Lei nº 12.618, de 28 de dezembro de 2012.
 
 Regula o acesso a informações no âmbito do Estado da Bahia, conforme prevê o art. 45 da Lei Federal nº 12.527, de 18 de novembro de 2011, e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Esta Lei dispõe sobre as normas que concretizam o acesso aos registros administrativos e a informações sobre atos de governo, previsto no inciso II do parágrafo único do art. 31 da Constituição do Estado da Bahia, em consonância com as normas gerais estabelecidas pela Lei Federal nº 12.527, de 18 de novembro de 2011.
@@ -52,7 +54,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **IX -** primariedade: qualidade da informação coletada na fonte, com o máximo de detalhamento possível, sem modificações.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO ACESSO A INFORMAÇÕES E SUA DIVULGAÇÃO
 
 **Art. 4º** - No que tange ao acesso a informações e sua divulgação e sem prejuízo do quanto disposto por esta Lei, aplica-se integralmente o previsto nos arts. 7º e 8º da Lei Federal nº 12.527, de 18 de novembro de 2011.
@@ -103,10 +106,12 @@ Retificado no D.O.E. de 04.01.2013. No _caput_ do art. 5º da Lei nº 12.618, de
 
 **V -** incentivar, em articulação com a Ouvidoria Geral do Estado, quando for o caso, a realização de audiências ou consultas públicas, promovendo a participação popular e outras formas de divulgação desta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROCEDIMENTO DE ACESSO À INFORMAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO PEDIDO DE ACESSO
 
 **Art. 8º** - O pedido de acesso será realizado por qualquer meio legítimo e deverá conter a identificação do requerente e a especificação da informação requerida.
@@ -141,7 +146,8 @@ DO PEDIDO DE ACESSO
 
 **Art. 12** - É direito do requerente a obtenção do inteiro teor da decisão de negativa de acesso, por certidão ou cópia.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DOS RECURSOS
 
 **Art. 13** - No caso de indeferimento de acesso a informações ou às razões da negativa do acesso, poderá o interessado interpor recurso contra a decisão no prazo de 10 (dez) dias a contar da sua ciência.
@@ -164,10 +170,12 @@ DOS RECURSOS
 
 **Art. 15** - Aplica-se subsidiariamente, no que couber, a Lei Estadual nº 12.209, de 20 de abril de 2011, ao procedimento de que trata este Capítulo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS RESTRIÇÕES DE ACESSO À INFORMAÇÃO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DISPOSIÇÕES GERAIS
 
 **Art. 16** - Não poderá ser negado acesso à informação necessária à tutela judicial ou administrativa de direitos fundamentais.
@@ -178,7 +186,8 @@ DISPOSIÇÕES GERAIS
 
 **Art. 17 -** O disposto nesta Lei não exclui as demais hipóteses legais de sigilo e de segredo de justiça, nem as hipóteses de segredo industrial decorrentes da exploração direta de atividade econômica pelo Estado ou por pessoa física ou entidade privada que tenha qualquer vínculo com o Poder Público Estadual.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA CLASSIFICAÇÃO DA INFORMAÇÃO QUANTO AO GRAU E PRAZOS DE SIGILO
 
 **Art. 18 -** São consideradas imprescindíveis à segurança da sociedade ou do Estado e, portanto, passíveis de classificação, as informações cuja divulgação ou acesso irrestrito possam:
@@ -215,7 +224,8 @@ DA CLASSIFICAÇÃO DA INFORMAÇÃO QUANTO AO GRAU E PRAZOS DE SIGILO
 
 **II** \- o prazo máximo de restrição de acesso ou o evento que defina seu termo final.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA PROTEÇÃO E DO CONTROLE DE INFORMAÇÕES SIGILOSAS
 
 **Art. 20 -** É dever do Estado controlar o acesso e a divulgação de informações sigilosas produzidas por seus órgãos e entidades, assegurando a sua proteção.
@@ -230,7 +240,8 @@ DA PROTEÇÃO E DO CONTROLE DE INFORMAÇÕES SIGILOSAS
 
 **Parágrafo único** - A pessoa física ou entidade privada que, em razão de qualquer vínculo com o Poder Público Estadual, executar atividades de tratamento de informações sigilosas adotará as providências necessárias para que seus empregados, prepostos ou representantes observem as medidas e procedimentos de segurança das informações resultantes da aplicação desta Lei.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DOS PROCEDIMENTOS DE CLASSIFICAÇÃO, RECLASSIFICAÇÃO E DESCLASSIFICAÇÃO
 
 **Art. 22** - A classificação do sigilo de informações se dará da seguinte forma:
@@ -275,7 +286,8 @@ DOS PROCEDIMENTOS DE CLASSIFICAÇÃO, RECLASSIFICAÇÃO E DESCLASSIFICAÇÃO
 
 **§ 2º** - Os órgãos e entidades manterão extrato com a lista de informações classificadas, acompanhadas da data, do grau de sigilo e dos fundamentos da classificação.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DAS INFORMAÇÕES PESSOAIS
 
 **Art. 25** \- O tratamento das informações pessoais deve ser feito de forma transparente e com respeito à intimidade, vida privada, honra e imagem das pessoas, bem como às liberdades e garantias individuais.
@@ -304,7 +316,8 @@ DAS INFORMAÇÕES PESSOAIS
 
 **§ 5º** \- Regulamento disporá sobre os procedimentos para tratamento de informação pessoal.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS RESPONSABILIDADES
 
 **Art. 26** \- Constituem condutas ilícitas que ensejam responsabilidade do agente público ou militar estadual:
@@ -341,7 +354,8 @@ DAS RESPONSABILIDADES
 
 IV - descredenciamento do sistema de registro cadastral.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 28 -** Fica instituído o Comitê Gestor de Acesso à Informação - CGAI, com as seguintes competências:

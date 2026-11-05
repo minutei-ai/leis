@@ -1,5 +1,3 @@
-###DEC-055279-0-000-22-12-1964@@@
-
 DECRETO Nº 55.279, DE 22 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre a adaptação das Caixas Econômicas Federais do Sistema Financeiro da Habitação.

@@ -1,5 +1,3 @@
-###DEC-092205-0-000-24-12-1985@@@
-
 Decreto nº 92.205, de 24 de dezembro de 1985.
 
 Outorga à Companhia de Saneamento Básico do Estado de São Paulo - SABESP - concessão para captação de água do rio Jaguari-Mirim, para abastecimento público, no Estado de São Paulo.

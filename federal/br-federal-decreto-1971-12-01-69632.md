@@ -1,5 +1,3 @@
-###DEC-069632-0-000-01-12-1971@@@
-
 DECRETO Nº 69.632 - de 1 de Dezembro de 1971
 
 Concede à Mineração Rocha S.A., o direito de lavrar cassiterita, no município de Pôrto Velho, Território Federal de Rondônia.

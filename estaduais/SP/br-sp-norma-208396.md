@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208396)<br>
-
 # DECRETO LEGISLATIVO N° 2.544, DE 14 DE AGOSTO DE 2023
 
 ### _Reconhece, para efeitos do artigo 65 da Lei Complementar Federal n° 101, de 4 de maio de 2000, o estado de calamidade pública no Município de Araraquara._

@@ -1,5 +1,3 @@
-###DEC-060548-0-000-07-04-1967@@@
-
 DECRETO Nº 60.548, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Sociedade de Estudos Espíritas 3 de Outubro”, com sede em São Paulo, Estado de São Paulo.

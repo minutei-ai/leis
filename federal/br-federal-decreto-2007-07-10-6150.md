@@ -1,5 +1,3 @@
-###DEC-006150-0-000-10-07-2007@@@
-
 DECRETO Nº 6.150, DE 10 DE JULHO DE 2007.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.753, de 27 de abril de 2007, do Conselho de Segurança das Nações Unidas, que altera o regime de sanções à Libéria.
@@ -22,11 +20,7 @@ Brasília, 10 de julho de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Samuel Pinheiro Guimarães  Neto
-
-Este texto não substitui o publicado no DOU de 11.7.2007
-
-Nações Unidas                                                                 S/RES/1753 (2007)
+Samuel Pinheiro Guimarães  NetoNações Unidas                                                                 S/RES/1753 (2007)
 
 Conselho de Segurança                                                     Distr.: Geral
 

@@ -1,5 +1,3 @@
-###DEC-003727-0-000-12-01-2001@@@
-
 DECRETO Nº 3.727, DE 12 DE JANEIRO DE 2001
 
 Autoriza depósito de ações de propriedade da União no Fundo de Amortização da Dívida Pública Mobiliária Federal, na forma estabelecida no art. 30 da Lei nº 9.069, de 29 de junho de 1995, no art. 3º do Decreto nº 1.312, de 18 de novembro de 1994 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070177-0-000-21-02-1972@@@
-
 DECRETO Nº 70.177, DE 21 DE FEVEREIRO DE 1972.
 
 Concede permissão, em caráter permanente, à empresa Eucatex S. A. - Indústria e Comércio, sediada no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-075140-0-000-23-12-1974@@@
-
 DECRETO Nº 75.140, DE 23 DE DEZEMBRO DE 1974.
 
 Dispõe sobre a retribuição de Grupos-tarefa e congêneres, constituídos nos órgãos da Administração Federal direita e Autarquias federais e dá outras providências.

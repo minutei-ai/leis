@@ -1,5 +1,3 @@
-###DEL-000083-0-000-18-12-1937@@@
-
 DECRETO-LEI N. 83 – DE 18 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério do Trabalho, o crédito especial de 150:000$000 para despesas decorrentes da Exposição lnternacional de París de 1937

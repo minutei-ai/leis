@@ -1,5 +1,3 @@
-###DEC-056064-0-000-26-04-1965@@@
-
 Decreto nº 56.064, de 26 de abril de 1965.
 
 Outorga ao Departamento de Águas e energia do Estado de Pernambuco concessão para distribuir energia elétrica nos municípios que especifica.

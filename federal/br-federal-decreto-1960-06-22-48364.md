@@ -1,5 +1,3 @@
-###DEC-048364-0-000-22-06-1960@@@
-
 DECRETO Nº 48.364, DE 22 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Wilson Gabriel Giannette a pesquisar calcário e mármore, no município de Iporanga, Estado de São Paulo.

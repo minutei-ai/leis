@@ -208,8 +208,6 @@ c) ao inciso I do art. 4º deste Decreto.
 
 Goiânia, 7 de julho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

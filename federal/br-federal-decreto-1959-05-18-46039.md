@@ -1,5 +1,3 @@
-###DEC-046039-0-000-18-05-1959@@@
-
 DECRETO Nº 46.039, DE 18 DE MAIO DE 1959.
 
 Autoriza o cidadão brasileiro Cesário Teixeira Carmona a pesquisar diamantes nos municípios de Grão Mogol e Turmalina, Estado de Minas Gerais.

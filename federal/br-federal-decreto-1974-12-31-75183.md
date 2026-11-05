@@ -1,5 +1,3 @@
-###DEC-075183-0-000-31-12-1974@@@
-
 DECRETO Nº 75.183, DE 31 DE DEZEMBRO DE 1974.
 
 Revoga por 10 (dez) anos a outorga deferida à Rádio por Um Mundo Melhor Ltda. para que a Fundação João XXIII, sob a denominação de Rádio por Um Mundo Melhor, passe a executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Governador Valadares, Estado de Minas Gerais.

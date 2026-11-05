@@ -1,5 +1,3 @@
-###DEC-050837-0-000-23-06-1961@@@
-
 DECRETO Nº 50.837, DE 23 DE JUNHO DE 1961.
 
 Cria o Grupo Executivo da Industria de Material Aeronáutico (GEIMA) e dá outras providências.

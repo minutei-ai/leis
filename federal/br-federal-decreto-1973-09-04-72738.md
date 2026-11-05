@@ -1,5 +1,3 @@
-###DEC-072738-0-000-04-09-1973@@@
-
 DECRETO Nº 72.738, de 4 de Setembro de 1973.
 
 Concede à Mineração Cambuí S.A. o direito de lavrar dolomito o Município de Campo Largo, Estado do Paraná.

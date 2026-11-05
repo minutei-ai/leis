@@ -1,5 +1,3 @@
-###DEC-067426-0-000-20-10-1970@@@
-
 Decreto nº 67.426, de 20 de outubro de 1970.
 
 Declara de utilidade pública, para fins de desapropriação uma área de terra destinada à construção, pela Companhia Telefônica Brasileira, da estação telefônica de Piraí, Município de Piraí, Estado do Rio de Janeiro.

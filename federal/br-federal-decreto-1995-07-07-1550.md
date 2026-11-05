@@ -1,7 +1,3 @@
-1
-
-###DEC-001550-0-000-07-07-1995@@@
-
 DECRETO Nº 1.550 DE 7 DE JULHO DE 1995.
 
 Altera o Anexo TARIFA EXTERNA COMUM DO MERCOSUL do Decreto nº 1.343, de 23 de dezembro de 1994, e dá outras providências.

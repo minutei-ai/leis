@@ -1,5 +1,3 @@
-###DEC-074120-0-000-28-05-1974@@@
-
 DECRETO Nº 74.120, DE 28 DE MAIO DE 1974.
 
 Redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal do Ministério da Aeronáutica, aproveita servidor em disponibilidade e dá outras providências.

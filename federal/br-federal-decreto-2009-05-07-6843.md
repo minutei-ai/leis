@@ -1,5 +1,3 @@
-###DEC-006843-0-000-07-05-2009@@@
-
 DECRETO Nº 6.843, DE 7 DE MAIO DE 2009.
 
 Altera o art. 3o do Decreto no 5.652, de 29 de dezembro de 2005, que dispõe sobre o Regime Aduaneiro Especial da Contribuição para o PIS/PASEP-Importação e da COFINS-Importação, incidentes na importação de embalagens de que trata a alínea “b” do inciso II do caput do art. 51 da Lei no 10.833, de 29 de dezembro de 2003, instituído pelos arts. 52 a 54 da Lei no 11.196, de 21 de novembro de 2005.

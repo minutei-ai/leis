@@ -1,5 +1,3 @@
-###DEC-070245-0-000-07-03-1972@@@
-
 DECRETO Nº 70.245, DE 7 DE MARÇO DE 1972.
 
 Declara de utilidade pública a Associação de Pais e Professores da Escola Paroquial São Francisco de Paula, com sede em Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-078467-0-000-27-09-1976@@@
-
 DECRETO Nº 78.467, DE 27 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Matemática e de Física, da União das Faculdades Francanas - UNIFRAN, com sede na cidade de Franca, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-003869-0-000-29-11-1941@@@
-
 DECRETO-LEI N. 3.869 – DE 29 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 8:060$0 para pagamento de ajuda de custo e diárias

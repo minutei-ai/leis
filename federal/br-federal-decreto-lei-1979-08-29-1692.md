@@ -1,5 +1,3 @@
-###DEL-001692-0-000-29-08-1979@@@
-
 # Decreto-lei Nº 1.692, de 29 de agosto de 1979
 
 Concede incentivo fiscal às vendas de produtos industrializados à ITAIPU BINACIONAL.

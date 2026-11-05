@@ -1,5 +1,3 @@
-###DEC-075912-0-000-26-06-1975@@@
-
 DECRETO Nº 75.912, DE 26 DE JUNHO DE 1975.
 
 Revoga o § 3º do artigo 1º, do Decreto nº 73.299, de 12 de dezembro de 1973, que fixa os preços mínimos líquidos básicos para financiamento ou aquisição de algodão em pluma, amendoim em casca, arroz, farinha de mandioca, feijão, gergelim, girassol, milho, soja e sorgo, da safra de 1974/1975, produzidos nos Estados do Amazonas, Pará, Maranhão, Piauí, Ceará, Rio Grande do Norte, Paraíba, Pernambuco, Alagoas, Sergipe, parte do Estado da Bahia e nos Territórios do Amapá e Roraima.

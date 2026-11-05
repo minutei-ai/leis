@@ -1,5 +1,3 @@
-###DEC-047692-0-000-20-01-1960@@@
-
 DECRETO nº 47.692, DE 20 DE JANEIRO DE 1960.
 
 Autoriza o Embaixador do Brasil junto ao Govêrno da República do Equador a aceitar a doação de terreno situado na cidade de Quito.

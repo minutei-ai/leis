@@ -1,5 +1,3 @@
-###DEL-006571-0-000-08-06-1944@@@
-
 DECRETO-LEI N. 6.571 – DE 8 DE JUNHO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei nº 6.125, de 18 de dezembro de 1943, abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 129.600,00 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050884-0-000-29-06-1961@@@
-
 Decreto nº 50.884, de 29 de junho de 1961.
 
 Altera a redação do art. 2º do Decreto nº 48.204, de 12 de maio de 1960.

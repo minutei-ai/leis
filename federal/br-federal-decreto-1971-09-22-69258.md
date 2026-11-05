@@ -1,5 +1,3 @@
-###DEC-069258-0-000-22-09-1971@@@
-
 DECRETO Nº 69.258, DE 22 DE SETEMBRO DE 1971.
 
 Revoga o Decreto n° 64.794, de 9 de julho de 1969.

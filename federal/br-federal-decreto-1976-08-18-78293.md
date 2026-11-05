@@ -1,5 +1,3 @@
-###DEC-078293-0-000-18-08-1976@@@
-
 DECRETO Nº 78.293, DE 18 DE AGOSTO DE 1976.
 
 Altera dispositivo do Regulamento do Centro Técnico Aeroespacial, aprovado pelo Decreto nº 68.874, de 5 de julho de 1971.

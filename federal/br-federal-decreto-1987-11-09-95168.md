@@ -1,5 +1,3 @@
-###DEC-095168-0-000-09-11-1987@@@
-
 DECRETO N° 95.168, DE 9 DE NOVEMBRO DE 1987
 
 Renova a concessão outorgada à RÁDIO CULTURA DE IPORÃ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Iporã, Estado do Paraná.

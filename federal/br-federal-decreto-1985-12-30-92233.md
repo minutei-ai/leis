@@ -1,5 +1,3 @@
-###DEC-092233-0-000-30-12-1985@@@
-
 Decreto nº 92.233, de 30 de dezembro de 1985.
 
 Autoriza o funcionamento do curso de Comunicação Social do Centro de Educação Técnica da Bahia.

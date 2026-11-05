@@ -1,5 +1,3 @@
-###DEC-007174-0-000-12-05-2010@@@
-
 DECRETO Nº 7.174, DE 12 DE MAIO DE 2010.
 
 Regulamenta a contratação de bens e serviços de informática e automação pela administração pública federal, direta ou indireta, pelas fundações instituídas ou mantidas pelo Poder Público e pelas demais organizações sob o controle direto ou indireto da União.

@@ -141,7 +141,3 @@ DEFENSORIA PÚBLICA DO ESTADO DE MINAS GERAIS
 QUADRO ESPECÍFICO - CARGOS DE PROVIMENTO EM COMISSÃO
 
 Denominação da Classe Código do cargo Símbolo Quantidade Defensor Público Geral DDP-1 DP-6A 1 Subdefensor Público Geral DDP-2 DP-7A 1 Corregedor-Geral DDP-3 DP-7A 1 Total de cargos 3
-
-\================================================================
-
-Data da última atualização: 05/07/2006.

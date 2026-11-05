@@ -1,5 +1,3 @@
-###DEC-050575-0-000-10-05-1961@@@
-
 DECRETO Nº 50.575, DE 10 DE MAIO DE 1961.
 
 Cria a Divisão de Intendência da Diretoria de Aeronáutica Civil

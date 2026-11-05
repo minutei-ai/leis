@@ -1,5 +1,3 @@
-###DEC-046385-0-000-07-07-1959@@@
-
 DECRETO Nº 46.385, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre a constituição de um Grupo de Trabalho para planejar e executar uma campanha de educação e saúde nas áreas suburbana e rural de Teresina e municípios vizinhos.

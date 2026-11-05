@@ -1,5 +1,3 @@
-###DEC-006166-0-000-24-07-2007@@@
-
 DECRETO Nº 6.166, DE 24 DE JULHO DE 2007.
 
 Regulamenta o parcelamento dos débitos dos Estados e do Distrito Federal relativos às contribuições sociais de que tratam as alíneas “a” e “c” do parágrafo único do art. 11 da Lei no 8.212, de 24 de julho de 1991, instituído pelos arts. 32 a 39 da Lei no 11.457, de 16 de março de 2007.
@@ -61,5 +59,3 @@ Brasília, 24 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Machado
-
-Este texto não substitui o publicado no DOU de 25.7.2007

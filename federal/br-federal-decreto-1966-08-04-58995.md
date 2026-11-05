@@ -1,5 +1,3 @@
-###DEC-058995-0-000-04-08-1966@@@
-
 DECRETO Nº 58.995, DE 4 DE AGÔSTO DE 1966.
 
 Dispõe sôbre o atendimento de despesas com o regime de tempo integral e dedicação exclusiva.

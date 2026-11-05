@@ -1,5 +1,3 @@
-###DEC-074145-0-000-04-06-1974@@@
-
 DECRETO Nº 74.145, DE 4 DE JUNHO DE 1974.
 
 Concede reconhecimento à Escola de Biblioteconomia da Fundação de Ensino Superior do Oeste de Minas, com o curso de Biblioteconomia, com sede na cidade de Formiga, Estado de Minas Gerais.

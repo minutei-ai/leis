@@ -1,5 +1,3 @@
-###DEC-047279-0-000-24-11-1959@@@
-
 DECRETO Nº 47.279, DE 24 DE NOVEMBRO DE 1959.
 
 Transfere da Prefeitura Municipal de Quaraí para a Comissão Estadual de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica do município de Quaraí, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-008185-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.185 – DE 19 DE NOVEMBRO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

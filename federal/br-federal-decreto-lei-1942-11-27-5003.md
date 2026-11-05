@@ -1,5 +1,3 @@
-###DEL-005003-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.003 – DE 27 DE NOVEMBRO DE 1942
 
 Cria o 2º Batalhão de Carros de Combate e dá outras providências

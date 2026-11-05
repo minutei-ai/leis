@@ -6,20 +6,21 @@ O VICE GOVERNADOR NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, no us
 
 Art. 1º - Os subsídios dos Prefeitos eleitos serão fixados anualmente pela Câmara Municipal, para vigorar no exercício seguinte, não podendo exceder, mensalmente, a qualquer título os seguintes percentuais progressivos sobre a receita anual do município do ano anterior: Município de receita anual.
 
-<table border="1" cellspacing="0" cellpadding="0" width="387" style="width:290.6pt;
- margin-left:70.9pt;border-collapse:collapse;border:none;mso-border-alt:solid black .5pt;
- mso-padding-alt:0cm 5.4pt 0cm 5.4pt"><tbody><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Até<span style="mso-spacerun: yes">&nbsp; </span>NCr$50.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border:solid black .5pt;
-  border-left:none;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>0,5%<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Entre NCr$50.000,00 e<span style="mso-spacerun: yes">&nbsp; </span>NCr$200.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>0,3%<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Entre NCr$200.000,00 e NCr$500.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>0,1%<quebra></quebra></span></p></td></tr><tr><td width="274" valign="top" style="width:205.55pt;border:solid black .5pt;
-  border-top:none;mso-border-top-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>Acima de NCr$500.000,00<quebra></quebra></span></p></td><td width="113" valign="top" style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black .5pt;border-right:solid black .5pt;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="Tabela-Texto"><span>0,05%<quebra></quebra></span></p></td></tr></tbody></table>
+Até  NCr$50.000,00<quebra></quebra>
+
+0,5%<quebra></quebra>
+
+Entre NCr$50.000,00 e  NCr$200.000,00<quebra></quebra>
+
+0,3%<quebra></quebra>
+
+Entre NCr$200.000,00 e NCr$500.000,00<quebra></quebra>
+
+0,1%<quebra></quebra>
+
+Acima de NCr$500.000,00<quebra></quebra>
+
+0,05%<quebra></quebra>
 
 § 1º- O cálculo para se encontrar o limite máximo dos subsídios, far-se-á considerando-se que os percentuais incidem sobre a faixa de receita compreendida entre os limites assinalados em cada item. A importância total dos subsídios poderá ser a soma das parcelas correspondentes a cada item até o valor da receita.
 
@@ -47,4 +48,4 @@ Governador
 
 Heitor Dias
 
-* * *
+ *

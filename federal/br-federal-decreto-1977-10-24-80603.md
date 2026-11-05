@@ -1,5 +1,3 @@
-###DEC-080603-0-000-24-10-1977@@@
-
 DECRETO Nº 80.603, DE 24 DE OUTUBRO DE 1977.
 
 Concede indulto, reduz penas e dá outras providências

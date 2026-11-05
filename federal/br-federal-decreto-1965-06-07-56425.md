@@ -1,5 +1,3 @@
-###DEC-056425-0-000-07-06-1965@@@
-
 DECRETO Nº 56.425, DE 7 DE JUNHO DE 1965.
 
 Concede à sociedade PILKINGTON BROTHERES (BRAZIL) LIMITED autorização para continuar a funcionar na República.

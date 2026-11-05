@@ -1,5 +1,3 @@
-###DEL-005992-0-000-12-11-1943@@@
-
 DECRETO‑LEI N. 5.992 – DE 12 DE NOVEMBRO DE 1943
 
 Incorpora ao patrimônio nacional prédios de propriedade dos Bancos Germânico da América do Sul e Francês e Italiano para a América do Sul, situados nesta Capital, e dá outras providências.

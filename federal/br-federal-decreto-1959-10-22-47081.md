@@ -1,5 +1,3 @@
-###DEC-047081-0-000-22-10-1959@@@
-
 DECRETO Nº 47.081, DE 22 DE OUTBRO DE 1959.
 
 Outorga ao Estado da Bahia concessão para distribuir energia elétrica.

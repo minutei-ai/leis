@@ -1,5 +1,3 @@
-###DEC-071768-0-000-26-01-1973@@@
-
 DECRETO Nº 71.768, DE 26 DE JANEIRO DE 1973.
 
 Concede reconhecimento ao curso de Farmácia e Odontologia da Universidade do Amazonas, Amazonas.

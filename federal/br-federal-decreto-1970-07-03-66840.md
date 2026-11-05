@@ -1,5 +1,3 @@
-###DEC-066840-0-000-03-07-1970@@@
-
 DECRETO Nº 66.840, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Associação Regional Espírita - Assistência da 25ª Região, com sede em Presidente Prudente, Estado de São Paulo.

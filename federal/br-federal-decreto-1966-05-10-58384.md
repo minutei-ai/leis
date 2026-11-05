@@ -1,5 +1,3 @@
-###DEC-058384-0-000-10-05-1966@@@
-
 DECRETO Nº 58.384, DE 10 DE MAIO DE 1966.
 
 Fixa normas de procedimento com referência a convites para a vista de militares ou de organizações militares estrangeiras, ao Brasil em caráter oficial.

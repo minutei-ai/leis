@@ -1,5 +1,3 @@
-###DEC-073611-0-000-11-02-1974@@@
-
 DECRETO Nº 73.611, DE 11 DE FEVEREIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS imóveis e benfeitorias situados no Município de São Mateus do Sul, Estado do Paraná.

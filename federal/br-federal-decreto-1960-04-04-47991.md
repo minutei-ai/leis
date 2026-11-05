@@ -1,5 +1,3 @@
-###DEC-047991-0-000-04-04-1960@@@
-
 DECRETO Nº 47.991, DE 4 DE ABRIL DE 1960.
 
 Autoriza a cessão gratuita de terreno que menciona, situado no Distrito Federal.

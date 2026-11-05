@@ -1,5 +1,3 @@
-###DEL-001540-0-000-14-04-1977@@@
-
 # DECRETO-LEI Nº 1.540, DE 14 DE ABRIL DE 1977
 
 Regula a composição e o funcionamento do colégio eleitoral que elegerá o Governador de Estado e dá outras providências.

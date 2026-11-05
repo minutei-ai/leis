@@ -1,5 +1,3 @@
-###DEC-046263-0-000-25-06-1959@@@
-
 DECRETO Nº 46.263, DE 25 DE JUNHO DE 1959.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terrenos em Araucária (PR).

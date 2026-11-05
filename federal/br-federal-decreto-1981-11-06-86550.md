@@ -1,5 +1,3 @@
-###DEC-086550-0-000-06-11-1981@@@
-
 Decreto nº 86.550, de 6 de novembro de 1981
 
 Inclui a Secretaria de Tecnologia Industrial e o Instituto Nacional de Tecnologia, do Ministério da Industria e do Comercio, no regime de que trata o Decreto nº 86.212 de 15 de julho de 1981, e dá outras providencias.

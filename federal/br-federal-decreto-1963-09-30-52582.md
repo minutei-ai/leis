@@ -1,5 +1,3 @@
-###DEC-052582-0-000-30-09-1963@@@
-
 DECRETO Nº 52.582, DE 30 DE SETEMBRO DE 1963.
 
 Dá nova redação ao artigo 1º e ao inciso II do artigo 2º do Decreto número 32.574, de 13 de abril de 1953.

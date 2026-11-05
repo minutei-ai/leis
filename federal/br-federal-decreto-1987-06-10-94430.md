@@ -1,5 +1,3 @@
-###DEC-094430-0-000-10-06-1987@@@
-
 DECRETO Nº 94.430, DE 10 DE JUNHO DE 1987
 
 Declara de utilidade pública para fins de desapropriação, área necessária à instalação de Parque de Dragagem da Empresa de Portos do Brasil S.A. - PORTOBRÁS, na cidade do Rio de Janeiro - RJ.

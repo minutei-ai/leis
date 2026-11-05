@@ -1,5 +1,3 @@
-###DEC-057983-0-000-11-03-1966@@@
-
 DECRETO Nº 57.983, DE 11 DE MARÇO DE 1966.
 
 Transfere concessão para distribuir energia elétrica.

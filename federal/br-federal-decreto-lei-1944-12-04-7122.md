@@ -1,5 +1,3 @@
-###DEL-007122-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.122 – DE 4 DE DEZEMBRO DE 1944
 
 Cria, no Distrito Federal, dois estabelecimentos oficiais de ensino secundário

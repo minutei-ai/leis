@@ -1,5 +1,3 @@
-###DEC-053912-0-000-11-05-1964@@@
-
 DECRETO Nº 53.912, DE 11 DE MAIO DE 1964.
 
 Dispõe sôbre estoques de petróleo e derivados e quantidades em trânsito e dá outras providências.

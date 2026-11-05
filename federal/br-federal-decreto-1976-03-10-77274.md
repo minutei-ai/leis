@@ -1,5 +1,3 @@
-###DEC-077274-0-000-10-03-1976@@@
-
 DECRETO Nº 77.274, DE 10 DE MARÇO DE 1976.
 
 Fixa o fator de reajustamento salarial relativo a março de 1976.

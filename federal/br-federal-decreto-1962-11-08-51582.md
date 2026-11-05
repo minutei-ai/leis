@@ -1,5 +1,3 @@
-###DEC-051582-0-000-08-11-1962@@@
-
 DECRETO Nº 51.582, DE 8 DE NOVEMBRO DE 1962.
 
 Cria a Faculdade de Filosofia, Ciências e Letras da Universidade Federal de Goiás.

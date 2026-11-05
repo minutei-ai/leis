@@ -1,5 +1,3 @@
-###DEC-096382-0-000-20-07-1988@@@
-
 DECRETO Nº 96.382, DE 20 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados “FAZENDA RIOZINHO” e “FAZENDA GRANADA”, classificados como latifúndio por exploração, situados nos municípios de Sena Madureira e Rio Branco, no Estado do Acre, compreendidos na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.676, de 19 de maio de 1986, e dá outras providências.

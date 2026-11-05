@@ -1,5 +1,3 @@
-###DEC-061228-0-000-22-08-1967@@@
-
 DECRETO Nº 61.228, DE 22 DE AGôSTO DE 1967.
 
 Cria o “Comando Local do Contrôle Operativo (COLCO) na Área Marítima Brasileira do Atlântico Sul” e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069990-0-000-20-01-1972@@@
-
 DECRETO Nº 69.990, DE 20 de JANEIRO DE 1972.
 
 Declara de utilidade pública a Sociedade Beneficente do Hospital Nossa Senhora Auxiliadora, com sede em Três Lagoas, Estado de Mato Grosso.

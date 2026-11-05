@@ -1,5 +1,3 @@
-###DEC-045610-0-000-24-03-1959@@@
-
 decreto nº 45.610, de 24 de março de 1959.
 
 Concede autorização para o funcionamento aos cursos de música e pintura da Escola Municipal de Belas Artes de Caxias do Sul.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/bc109e94-8556-4f53-b8e9-c79a8c25b633/texto#nowhere)
 
-###DEL-000536-0-000-17-04-1969@@@
-
 DECRETO-LEI Nº 536, DE 17 DE ABRIL DE 1969
 
 Aprova a reforma do ex-soldado Milton Ribeiro da Silva, cujo registro foi negado pelo Tribunal de Contas da União.

@@ -33,7 +33,3 @@ O 2º-Secretário - Amílcar Padovani
 O 3º-Secretário - José Maria Pinto
 
 O 4º-Secretário - Carlos Pereira
-
-\================================================================
-
-Data da última atualização: 06/09/2005.

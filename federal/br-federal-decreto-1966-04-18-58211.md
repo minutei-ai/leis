@@ -1,5 +1,3 @@
-###DEC-058211-0-000-18-04-1966@@@
-
 DECRETO Nº 58.211, 18 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro José Emílio Rocha a lavrar diamante e ouro nos municípios de Bocaiúva e Diamantina, Estado de Minas Gerais.

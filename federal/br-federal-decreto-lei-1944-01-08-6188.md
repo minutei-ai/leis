@@ -1,5 +1,3 @@
-###DEL-006188-0-000-08-01-1944@@@
-
 DECRETO-LEI N. 6.188 – DE 8 DE JANEIRO DE 1944
 
 Cria função gratificada no Quadro Permanente do Ministério da Justiça e negócios Interiores, e dá outras providências

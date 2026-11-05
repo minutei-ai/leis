@@ -1,5 +1,3 @@
-###DEC-047898-0-000-11-03-1960@@@
-
 DECRETO Nº 47.898, DE 11 DE MARÇO DE 1960.
 
 Cria a Comissão Naval em São Paulo.

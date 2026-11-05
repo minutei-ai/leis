@@ -1,5 +1,3 @@
-###DEC-087454-0-000-09-08-1982@@@
-
 Decreto nº 87.454, de 09 de agosto de 1982
 
 Altera o Decreto nº 79.031, de 23 de dezembro de 1976, que "dispõe sobre o Regulamento do Estado-Maior das Forças Armadas, e dá outras providências".

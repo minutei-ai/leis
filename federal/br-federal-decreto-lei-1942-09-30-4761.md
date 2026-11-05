@@ -1,5 +1,3 @@
-###DEL-004761-0-000-30-09-1942@@@
-
 DECRETO-LEI N. 4.761 – DE 30 DE SETEMBRO DE 1942
 
 Autoriza o Ministério da Fazenda a efetuar o pagamento de indenizações relativas a benfeitorias e terrenos, que menciona, situados na Capital Federal, atingidos pelas disposições do decreto-lei n.1. 763, de 10 de novembro de 1939, e dá outras providências

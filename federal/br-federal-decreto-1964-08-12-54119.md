@@ -1,5 +1,3 @@
-###DEC-054119-0-000-12-08-1964@@@
-
 DECRETO Nº 54.119, DE 12 DE AGÔSTO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no Município de Camacã, Estado da Bahia.

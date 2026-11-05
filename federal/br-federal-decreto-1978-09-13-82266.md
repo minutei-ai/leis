@@ -1,5 +1,3 @@
-###DEC-082266-0-000-13-09-1978@@@
-
 Decreto nº 82.266, de 13 de setembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município do Recife, Estado de Pernambuco.

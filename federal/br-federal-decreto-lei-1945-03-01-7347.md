@@ -1,5 +1,3 @@
-###DEL-007347-0-000-01-03-1945@@@
-
 DECRETO-LEI N. 7.347 – DE 1 DE MARÇO DE 1945
 
 Abre Ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 1.000.000,00 para aquisição de material flutuante pelo serviço de navegação da Bacia do Prata.

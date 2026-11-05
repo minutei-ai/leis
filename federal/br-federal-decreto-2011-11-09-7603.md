@@ -1,5 +1,3 @@
-###DEC-007603-0-000-09-11-2011-PUB-01@@@
-
 DECRETO Nº 7.603, DE 9 DE NOVEMBRO DE 2011
 
 Regulamenta as condições para aprovação dos projetos de investimento considerados como prioritários na área de infraestrutura ou de produção econômica intensiva em pesquisa, desenvolvimento e inovação, para efeito do art. 2º da Lei nº 12.431, de 24 de junho de 2011, e dá outras providências.

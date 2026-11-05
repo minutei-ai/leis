@@ -1,5 +1,3 @@
-###DEC-006532-0-000-05-08-2008@@@
-
 DECRETO Nº 6.532, DE 5 DE AGOSTO DE 2008.
 
 Dispõe sobre a substituição de Ministros de Estado em suas ausências do território nacional, nos seus afastamentos ou em outros impedimentos legais ou regulamentares.

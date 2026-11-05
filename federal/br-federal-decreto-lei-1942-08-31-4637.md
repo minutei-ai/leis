@@ -1,5 +1,3 @@
-###DEL-004637-0-000-31-08-1942@@@
-
 DECRETO-LEI N. 4.637 – DE 31 DE AGOSTO DE 1942
 
 Estabelece normas especiais a serem observadas pelas entidades sindicais enquanto durar o estado de guerra e dá outras providências

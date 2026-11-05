@@ -1,5 +1,3 @@
-###DEC-059553-0-000-11-11-1966@@@
-
 DECRETO Nº 59.553, DE 11 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão Jacques Francisco Laender a pesquisar quartzo e pedras semipreciosas no município de Ataléa, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-057826-0-000-17-02-1966@@@
-
 Decreto nº 57.826, de 17 de fevereiro de 1966.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de imóvel que menciona, situado no Estado do Rio Grande do Sul.

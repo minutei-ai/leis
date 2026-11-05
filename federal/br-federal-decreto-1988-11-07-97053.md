@@ -1,5 +1,3 @@
-###DEC-097053-0-000-07-11-1988@@@
-
 DECRETO Nº 97.053, DE 7 DE NOVEMBRO DE 1988
 
 Autoriza o estabelecimento de procedimentos especiais no despacho aduaneiro, em situações excepcionais.

@@ -1,5 +1,3 @@
-###DEC-059869-0-000-26-12-1966@@@
-
 DECRETO Nº 59.869, DE 26 DE DEZEMBRO DE 1966.
 
 Retifica o Decreto nº 57.628, de 13 de janeiro de 1966.

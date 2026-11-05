@@ -10,8 +10,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 28 de maio de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-RUBENS MARQUES<br>
+RUBENS MARQUES
+
 Deputado Estadual

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209369)<br>
-
 # DECRETO N° 68.485, DE 26 DE ABRIL DE 2024
 
 ### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas_

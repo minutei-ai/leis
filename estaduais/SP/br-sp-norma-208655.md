@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208655)<br>
-
 # DECRETO N° 68.009, DE 10 DE OUTUBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Taboão da Serra, os imóveis que especifica._

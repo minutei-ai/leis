@@ -1,5 +1,3 @@
-###DEL-004861-0-000-22-10-1942@@@
-
 DECRETO-LEI N. 4.861 – DE 22 DE OUTUBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 49:725$0, para pagamento aos Serviços Aéreos Condor Ltda.

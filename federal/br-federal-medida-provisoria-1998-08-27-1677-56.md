@@ -1,5 +1,3 @@
-###MPV-001677-0-056-27-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.677-56, DE 27 DE AGOSTO DE 1998
 
 Organiza e disciplina os Sistemas de Planejamento e Orçamento Federal e de Controle Interno do Poder Executivo e dá outras providências.

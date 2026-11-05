@@ -1,5 +1,3 @@
-###MPV-000105-0-000-20-01-2003@@@
-
 MEDIDA PROVISÓRIA Nº 105, DE 20 DE JANEIRO 2003.
 
 Abre crédito extraordinário, em favor do Ministério da Integração Nacional, no valor de R$ 128.000.000,00, para os fins que especifica.
@@ -14,7 +12,8 @@ Abre crédito extraordinário, em favor do Ministério da Integração Nacional,
 
         Brasília, 20 de janeiro de 2003; 182~~°~~ da Independência e 115~~°~~ da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega
 
 ANEXOS

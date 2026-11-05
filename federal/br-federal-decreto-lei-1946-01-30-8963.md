@@ -1,5 +1,3 @@
-###DEL-008963-0-000-30-01-1946@@@
-
 DECRETO-LEI N. 8.963 – DE 30 DE JANEIRO DE 1946
 
 Revoga o Decreto-lei nº 8.817, de 24 de janeiro de 1946.

@@ -1,5 +1,3 @@
-###DEC-054853-0-000-03-11-1964@@@
-
 decreto nº 54.853, de 3 de novembro de 1964.
 
 Autoriza a Cia, Cimento Brasileiros a pesquisar calcário no município de Pinheiro Machado, Estado do Rio de Janeiro.

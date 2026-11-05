@@ -1,7 +1,3 @@
-1
-
-###DEC-085815-0-000-17-03-1981@@@
-
 Decreto nº 85.815, de 17 de março de 1981.
 
 Dá nova redação ao caput do artigo 2º do Decreto nº 84.919, de 16 de julho de 1980.

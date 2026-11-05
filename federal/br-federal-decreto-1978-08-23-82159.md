@@ -1,5 +1,3 @@
-###DEC-082159-0-000-23-08-1978@@@
-
 Decreto nº 82.159, de 23 de agosto de 1978.
 
 Autoriza a Universidade Federal de Santa Catarina - UFSC a permutar uma área de terra, com benfeitorias, situada em Ilhota por outra área de terra situada em Camboriú.

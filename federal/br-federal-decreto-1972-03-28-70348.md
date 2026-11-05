@@ -1,5 +1,3 @@
-###DEC-070348-0-000-28-03-1972@@@
-
 DECRETO Nº 70.348, DE 28 DE MARÇO DE 1972.
 
 Revoga o Decreto nº 67.418, de 19 de outubro de 1970, que autoriza a cessão definitiva do imóvel que menciona, situado em São Paulo, Estado de São Paulo, nas condições que especifica, e dá outras providências.

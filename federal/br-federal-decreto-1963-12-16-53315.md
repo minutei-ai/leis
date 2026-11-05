@@ -1,5 +1,3 @@
-###DEC-053315-0-000-16-12-1963@@@
-
 decreto nº 53.315, de 16 de dezembro de 1963.
 
 Dá nova redação ao artigo 3º do Decreto nº 52.156, de 25 de junho de 1963 e acrescenta ao citado artigo parágrafo único e dá outras providências.

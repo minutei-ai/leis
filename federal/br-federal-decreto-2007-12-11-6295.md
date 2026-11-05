@@ -1,5 +1,3 @@
-###DEC-006295-0-000-11-12-2007@@@
-
 DECRETO Nº 6.295, DE 11 DE DEZEMBRO DE 2007.
 
 Acresce o § 4o ao art. 48, bem como altera os arts. 127, 130 e 131 do Decreto no 99.066, 8 de março de 1990, que dispõe sobre a produção, circulação e comercialização do vinho e derivados do vinho e da uva.
@@ -33,5 +31,3 @@ Acresce o § 4o ao art. 48, bem como altera os arts. 127, 130 e 131 do Decreto n
 LUIZ INÁCIO LULA DA SILVA
 
 Reinhold Stephanes
-
-Este texto não substitui o publicado no DOU de 12.12.2007

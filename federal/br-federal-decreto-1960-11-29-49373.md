@@ -1,5 +1,3 @@
-###DEC-049373-0-000-29-11-1960@@@
-
 DECRETO Nº 49.373, DE 29 DE NOVEMBRO DE 1960.
 
 Altera o quadro de pessoal do Instituto de Aposentadoria e Pensões dos Industriários.
@@ -10,7 +8,15 @@ decreta:
 
 Art. 1º Ficam criados na Parte Permanente do Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Industriários, aprovado pelo Decreto 47.654, de 15 de janeiro de 1960, os cargos abaixo discriminados:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Quantidade</span></p></td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Padrão ou Classe</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Quantidade
+
+</td><td style="width:212.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Padrão ou Classe
+
+</td></tr></tbody></table>
 
 Cargo em Comissão
 

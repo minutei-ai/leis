@@ -1,5 +1,3 @@
-###DEC-064729-0-000-23-06-1969@@@
-
 Decreto nº 64.729, de 23 de junho de 1969.
 
 Concede permissão, em caráter permanente, a Tintas Coral do Nordeste S.A., com sede no Estado de Pernambuco, para, nas Secções de Resinas Sintéticas, Vernizes e Óleos, Moagem de Tintas e Manutenção, funcionar aos domingos e nos feriados civis e religiosos, nas condições que menciona.

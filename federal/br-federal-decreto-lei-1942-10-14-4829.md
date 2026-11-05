@@ -1,5 +1,3 @@
-###DEL-004829-0-000-14-10-1942@@@
-
 DECRETO-LEI N. 4.829 – DE 14 de OUTUBRO DE  1942
 
 Abre ao Ministério da Agricultura o crédito especial de 7:500$0 (sete contos e quinhentos mil réis), para o pagamento de ajudas de custo

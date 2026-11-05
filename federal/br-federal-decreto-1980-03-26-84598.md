@@ -1,5 +1,3 @@
-###DEC-084598-0-000-26-03-1980@@@
-
 DECRETO Nº 84.598, DE 26 DE MARÇO DE 1980.
 
 Autoriza o funcionamento do curso de Graduação em Enfermagem e Obstetrícia da Faculdade de Enfermagem, com sede em Itajaí, Estado de Santa Catarina.

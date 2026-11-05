@@ -1,5 +1,3 @@
-###DEL-005987-0-000-11-11-1943@@@
-
 DECRETO‑LEI N. 5.987 – DE 11 DE NOVEMBRO DE 1943
 
 Cria cargos no Quadro Permanente do Ministério  da Guerra e dá curtas providências

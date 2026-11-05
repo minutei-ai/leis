@@ -1,5 +1,3 @@
-###DEC-048794-0-000-12-08-1960@@@
-
 DECRETO Nº 48.794, DE 12 DE AGÔSTO DE 1960.
 
 Concede à Cerâmica Rio Grande Limitada autorização para funcionar como emprêsa de mineração.

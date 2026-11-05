@@ -1,5 +1,3 @@
-###DEC-073441-0-000-11-01-1974@@@
-
 DECRETO Nº 73.441, DE 11 JANEIRO DE 1974.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.
@@ -91,8 +89,6 @@ Mário Lemos
 Antônio Dias Leite Júnior
 
 Hygino C. Corsetti
-
-###DEC-073441-0-000-11-01-1974@@@
 
 DECRETO Nº 73.441, DE 11 JANEIRO DE 1974.
 

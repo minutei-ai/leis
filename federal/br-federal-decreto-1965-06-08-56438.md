@@ -1,5 +1,3 @@
-###DEC-056438-0-000-08-06-1965@@@
-
 DECRETO Nº 56.438, DE 8 DE JUNHO DE 1965.
 
 Altera os artigos 1º e 2º do Decreto nº 53.791, de 20-3-64, que dispõe sôbre a aplicação de recursos do Fundo Especial de Fomento e Defesa da Economia Algodoeira.
@@ -18,7 +16,17 @@ Art. 1º Ficam alterados os artigos 1º e 2º do Decreto 53.791, de 20-3-64, que
 
 “Art. 1º Os recursos do Fundo Especial de Fomento e Defesa da Economia Algodoeira, provenientes da arrecadação da quota instituída pelo item VIII da instrução nº 239, de 22-4-63, da antiga Superintendência da Moeda e do Crédito (SUMOC), ora transformada em Banco Central da República do Brasil, e escriturados em conta especial mantida no Banco do Brasil S.A. à sua ordem, serão aplicados na assistência financeira à cotonicultura, através de cooperativas de produtores rurais pelos seguintes órgãos, nas proporções abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Carteira de Crédito Agrícola e Industrial (CREAL) ................................................................</span></p></td><td style="width:24.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50%</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Banco Nacional de Crédito Cooperativo (BNCC) ..................................................................</span></p></td><td style="width:24.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35%</span></p></td></tr><tr><td style="width:400.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Comissão de Financiamento da Produção (CFP)..................................................................</span></p></td><td style="width:24.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15%</span></p></td></tr></tbody></table>
+Carteira de Crédito Agrícola e Industrial (CREAL) ................................................................
+
+50%
+
+Banco Nacional de Crédito Cooperativo (BNCC) ..................................................................
+
+35%
+
+Comissão de Financiamento da Produção (CFP)..................................................................
+
+15%
 
 Parágrafo único. As entidades acima aplicarão os referidos recursos nos financiamentos previstos no art. 3º dêste Decreto, com observância das condições peculiares de seus regulamentos e normas operacionais.”
 

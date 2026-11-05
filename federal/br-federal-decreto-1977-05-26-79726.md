@@ -1,5 +1,3 @@
-###DEC-079726-0-000-26-05-1977@@@
-
 DECRETO Nº 79.726, DE 26 DE MAIO DE 1977.
 
 Regulamenta a renovação do prazo das concessões outorgadas para exploração de serviço de radiodifusão de sons e imagens (televisão).

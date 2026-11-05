@@ -1,5 +1,3 @@
-###DEC-075956-0-000-09-07-1975@@@
-
 DECRETO Nº 75.956, DE 9 DE JULHO DE 1975
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Capixaba Limitada, para executar serviço de radiodifusão sonora em onde tropical, na cidade Vitória, Estado do Espírito Santo.

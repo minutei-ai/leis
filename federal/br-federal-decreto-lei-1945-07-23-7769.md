@@ -1,5 +1,3 @@
-###DEL-007769-0-000-23-07-1945@@@
-
 DECRETO-LEI N. 7.769 – DE 23 DE JULHO DE 1945
 
 Concede anistia

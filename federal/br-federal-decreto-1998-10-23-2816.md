@@ -1,5 +1,3 @@
-###DEC-002816-0-000-23-10-1998@@@
-
 DECRETO Nº 2.816, DE 23 DE OUTUBRO DE 1998
 
 Promulga o Tratado Constitutivo da Conferência de Ministros da Justiça dos Países lbero-Americanos, assinado em Madri, em 7 de outubro de 1992.

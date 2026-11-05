@@ -1,5 +1,3 @@
-###DEC-089832-0-000-25-06-1984@@@
-
 Decreto nº 89.832 de 25 de junho de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Cabo Frio da Companhia de Eletricidade do Estado do Rio de Janeiro-CERJ, no Estado, do Rio de Janeiro.

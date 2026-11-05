@@ -1,5 +1,3 @@
-###DEC-068853-0-000-02-07-1971@@@
-
 DECRETO Nº 68.853, DE 2 DE JULHO DE 1971.
 
 Declara de utilidade pública a União Operária Piripiriense, com sede em Piripiri, Estado do Piauí.

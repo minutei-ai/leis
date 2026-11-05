@@ -1,5 +1,3 @@
-###DEC-045551-0-000-05-03-1959@@@
-
 DECRETO Nº 45.551, DE 5 DE MARÇO DE 1959.
 
 Autoriza o cidadão brasileiro Nicolau Priolli a pesquisar minério de cobre no município de Capão Bonito, Estado de São Paulo.

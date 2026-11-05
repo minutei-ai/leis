@@ -1,5 +1,3 @@
-###DEC-078652-0-000-27-10-1976@@@
-
 DECRETO Nº 78.652, DE 27 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Engenharia de Operação, Modalidade em Construção Civil, em Eletrônica e em Eletrotécnica, da Escola Técnica Federal do Paraná com sede na cidade de Curitiba, Estado do Paraná.

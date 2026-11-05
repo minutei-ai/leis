@@ -1,5 +1,3 @@
-###DEC-058202-0-000-15-04-1966@@@
-
 Decreto Nº 58.202, de 15 de Abril de 1966.
 
 Revoga na parte referente a Fazenda Mato Grosso, o Decreto número 51.905, de 19 de abril de 1963.

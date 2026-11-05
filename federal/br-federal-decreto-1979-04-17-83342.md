@@ -1,5 +1,3 @@
-###DEC-083342-0-000-17-04-1979@@@
-
 DECRETO Nº 83.342, DE 17 DE ABRIL DE 1979.
 
 Concede reconhecimento ao curso de Ciências Contábeis do Instituto Superior de Ciências Aplicadas, com sede na cidade de Limeira, Estado de São Paulo.

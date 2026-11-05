@@ -1,7 +1,3 @@
-1
-
-###DEC-097739-0-000-12-05-1989@@@
-
 DECRETO Nº 97.739, DE 12 DE MAIO DE 1989
 
 Outorga concessão à FERRONORTE S.A. -  Ferrovias Norte Brasil para a realização de obras e prestação de serviço público das estradas de ferro que menciona e dá outras providências.

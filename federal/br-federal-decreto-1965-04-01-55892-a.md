@@ -1,5 +1,3 @@
-###DEC-055892-A-000-01-04-1965@@@
-
 DECRETO Nº 55.892-A, DE 1º DE ABRIL DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

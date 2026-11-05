@@ -1,5 +1,3 @@
-###DEC-068072-0-000-18-01-1971@@@
-
 DECRETO Nº 68.072, de 18 de JANEIRO DE 1971.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 54.123, de 12 de agosto de 1964, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, da área de terreno necessária à construção do açude público "Arrojado Lisbôa" ex-Banabuiú, no município de Quixadá, Estado do Ceará.

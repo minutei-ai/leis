@@ -1,5 +1,3 @@
-###DEC-080468-0-000-03-10-1977@@@
-
 Decreto nº 80.468, de 3 de outubro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Urussanga da Central Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

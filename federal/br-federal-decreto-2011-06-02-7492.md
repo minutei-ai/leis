@@ -1,5 +1,3 @@
-###DEC-007492-0-000-02-06-2011-PUB-01@@@
-
 DECRETO Nº 7.492, DE 2 DE JUNHO DE 2011
 
 Institui o Plano Brasil Sem Miséria.

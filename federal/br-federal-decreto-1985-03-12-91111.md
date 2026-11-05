@@ -1,5 +1,3 @@
-###DEC-091111-0-000-12-03-1985@@@
-
 Decreto nº 91.111, de 12 de março de 1985
 
 Regulamenta a Lei nº 6.446, de 05 de outubro de 1977, que dispõe sobre a inspeção e fiscalização obrigatórias do sêmen destinado à inseminação artificial em animais domésticos, e dá outras providências.

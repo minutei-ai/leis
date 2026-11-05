@@ -1,5 +1,3 @@
-###DEC-080929-0-000-05-12-1977@@@
-
 Decreto nº 80.929, de 05 de dezembro de 1977.
 
 Retifica a concessão de lavra outorgada à Produtos Silicar S.A. pelo Decreto nº 72.032, de 29 de março de 1973.

@@ -1,5 +1,3 @@
-###DEC-055301-0-000-29-12-1964@@@
-
 DECRETO Nº 55.301, DE 29 DE Dezembro DE 1964.
 
 Dispõe sôbre o enquadramento provisório do pessoal de nível universitário.

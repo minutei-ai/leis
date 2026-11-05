@@ -1,5 +1,3 @@
-###DEL-009150-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.150 – DE 8 DE ABRIL DE 1946
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 5.382.012,60, para pagamento de notas de papel-moeda

@@ -1,5 +1,3 @@
-###DEL-004576-0-000-12-08-1942@@@
-
 DECRETO-LEI N. 4.576 – DE 12 DE AGOSTO DE 1942
 
 Coloca sob intervenção do Governo a empresa de navegação Hoepcke, que faz parte do patrimônio da firma Carlos Hoepcke S.A., Comércio e Indústria e dá outras providências.

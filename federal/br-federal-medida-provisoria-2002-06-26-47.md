@@ -1,5 +1,3 @@
-###MPV-000047-0-000-26-06-2002@@@
-
 MEDIDA PROVISÓRIA Nº 47, DE 26 DE JUNHO DE 2002
 
 Dispõe sobre a estruturação da Carreira de Perito Federal Agrário, a criação da Gratificação de Desempenho de Atividade de perito Federal Agrário – GDAPA e da Gratificação Especial de Perito Federal Agrário – GEPRA, e dá outras providências.

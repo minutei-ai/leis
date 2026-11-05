@@ -1,5 +1,3 @@
-###DEL-006167-0-000-31-12-1943@@@
-
 DECRETO-LEI N. 6.167 – DE 31 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 2.239.472,10, para melhoramentos e aparelhamento da Estrada de Ferro D. Teresa Cristina

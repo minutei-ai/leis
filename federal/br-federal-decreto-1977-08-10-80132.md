@@ -1,5 +1,3 @@
-###DEC-080132-0-000-10-08-1977@@@
-
 DECRETO Nº 80.132, DE 10 DE AGOSTO DE 1977.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio Grande do Sul.

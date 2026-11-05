@@ -1,5 +1,3 @@
-###DEC-085638-0-000-14-01-1981@@@
-
 Decreto nº 85.638, de 14 de janeiro de 1981
 
 Revoga dispositivo do Decreto nº 82.047, de 1º de agosto de 1978, que regulamentou, para a Aeronáutica a Lei nº 5.821, de 10 de novembro de 1972.

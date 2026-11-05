@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/7949)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1999/compilacao-lei-10337-30.06.1999.html)
 
 # LEI N° 10.337, DE 30 DE JUNHO DE 1999

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211194)<br>
-
 # LEI COMPLEMENTAR N° 1.429, DE 16 DE JULHO DE 2025
 
 ### _Dispõe sobre a criação de varas de entrâncias final e intermediária e dá outras providências._

@@ -1,5 +1,3 @@
-###DEC-004311-0-000-23-07-2002@@@
-
 DECRETO Nº 4.311, DE 23 DE JULHO DE 2002
 
 Promulga a Convenção sobre o Reconhecimento e a Execução de Sentenças Arbitrais Estrangeiras.

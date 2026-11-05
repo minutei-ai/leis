@@ -1,5 +1,3 @@
-###DEC-073682-0-000-19-02-1974@@@
-
 DECRETO Nº 73.682, DE 19 DE FEVEREIRO DE 1974.
 
 Declara cessação de exploração de energia hidráulica e autorga concessão.

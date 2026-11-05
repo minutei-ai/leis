@@ -1,5 +1,3 @@
-###DEC-057324-0-000-24-11-1965@@@
-
 DECRETO Nº 57.324, DE 24 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia Paranaense de Energia Elétrica concessão para distribuir energia elétrica.

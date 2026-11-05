@@ -1,5 +1,3 @@
-###DEC-045115-0-000-26-12-1958@@@
-
 DECRETO Nº 45.115, DE 26 DE DEZEMBRO DE 1958.
 
 Aprova o Estatuto da Universidade Católica de Pernambuco e a sua substituição de sua entidade mantenedora.

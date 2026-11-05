@@ -56,6 +56,1166 @@ Florianópolis, 29 de janeiro de 2021.
 
 ~~ANEXO ÚNICO~~
 
-<table><tbody><tr><td><center><strong>Nº</strong></center></td><td><center><s><strong>Atividade Econômica</strong></s></center></td></tr><tr><td><p>1</p></td><td><p><s>Agenciamento de espaços para publicidade, exceto em veículos de comunicação (Código CNAE:7312200)</s></p></td></tr><tr><td><p>2</p></td><td><p><s>Agenciamento de profissionais para atividades esportivas, culturais e artísticas (Código CNAE:7490105)</s></p></td></tr><tr><td><p>3</p></td><td><p><s>Agências de notícias (Código CNAE:6391700)</s></p></td></tr><tr><td><p>4</p></td><td><p><s>Agências de publicidade (Código CNAE:7311400)</s></p></td></tr><tr><td><p>5</p></td><td><p><s>Agências de viagens (Código CNAE:7911200)</s></p></td></tr><tr><td><p>6</p></td><td><p><s>Agências matrimoniais (Código CNAE:9609202)</s></p></td></tr><tr><td><p>7</p></td><td><p><s>Albergues, exceto assistenciais (Código CNAE:5590601)</s></p></td></tr><tr><td><p>8</p></td><td><p><s>Aluguel de aparelhos de jogos eletrônicos (Código CNAE:7729201)</s></p></td></tr><tr><td><p>9</p></td><td><p><s>Aluguel de equipamentos recreativos e esportivos (Código CNAE:7721700)</s></p></td></tr><tr><td><p>10</p></td><td><p><s>Aluguel de fitas de vídeo, DVDs e similares (Código CNAE:7722500)</s></p></td></tr><tr><td><p>11</p></td><td><p><s>Aluguel de imóveis próprios (Código CNAE:6810202)</s></p></td></tr><tr><td><p>12</p></td><td><p><s>Aluguel de máquinas e equipamentos para escritório (Código CNAE:7733100)</s></p></td></tr><tr><td><p>13</p></td><td><p><s>Aluguel de material médico (Código CNAE:7729203)</s></p></td></tr><tr><td><p>14</p></td><td><p><s>Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais (Código CNAE:7729202)</s></p></td></tr><tr><td><p>15</p></td><td><p><s>Aluguel de objetos do vestuário, jóias e acessórios (Código CNAE:7723300)</s></p></td></tr><tr><td><p>16</p></td><td><p><s>Aluguel de outros objetos pessoais e domésticos não especificados anteriormente (Código CNAE:7729299)</s></p></td></tr><tr><td><p>17</p></td><td><p><s>Atividades auxiliares da justiça (Código CNAE:6911702)</s></p></td></tr><tr><td><p>18</p></td><td><p><s>Atividades de agenciamento marítimo (Código CNAE:5232000)</s></p></td></tr><tr><td><p>19</p></td><td><p><s>Atividades de apoio à gestão de saúde (Código CNAE:8660700)</s></p></td></tr><tr><td><p>20</p></td><td><p><s>Atividades de artistas plásticos, jornalistas independentes e escritores (Código CNAE:9002701)</s></p></td></tr><tr><td><p>21</p></td><td><p><s>Atividades de associações de defesa de direitos sociais (Código CNAE:9430800)</s></p></td></tr><tr><td><p>22</p></td><td><p><s>Atividades de cobrança e informações cadastrais (Código CNAE:8291100)</s></p></td></tr><tr><td><p>23</p></td><td><p><s>Atividades de consultoria e auditoria contábil e tributária (Código CNAE:6920602)</s></p></td></tr><tr><td><p>24</p></td><td><p><s>Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica (Código CNAE:7020400)</s></p></td></tr><tr><td><p>25</p></td><td><p><s>Atividades de contabilidade (Código CNAE:6920601)</s></p></td></tr><tr><td><p>26</p></td><td><p><s>Atividades de <i>design</i> não especificadas anteriormente (Código CNAE:7410299)</s></p></td></tr><tr><td><p>27</p></td><td><p><s>Atividades de estudos geológicos (Código CNAE:7119702)</s></p></td></tr><tr><td><p>28</p></td><td><p><s>Atividades de fisioterapia (Código CNAE:8650004)</s></p></td></tr><tr><td><p>29</p></td><td><p><s>Atividades de fonoaudiologia (Código CNAE:8650006)</s></p></td></tr><tr><td><p>30</p></td><td><p><s>Atividades de gravação de som e de edição de música (Código CNAE:5920100)</s></p></td></tr><tr><td><p>31</p></td><td><p><s>Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários (Código CNAE:7490104)</s></p></td></tr><tr><td><p>32</p></td><td><p><s>Atividades de investigação particular (Código CNAE:8030700)</s></p></td></tr><tr><td><p>33</p></td><td><p><s>Atividades de monitoramento de sistemas de segurança eletrônico (Código CNAE:8020001)</s></p></td></tr><tr><td><p>34</p></td><td><p><s>Atividades de organizações associativas ligadas à cultura e à arte (Código CNAE:9493600)</s></p></td></tr><tr><td><p>35</p></td><td><p><s>Atividades de produção de fotografias, exceto aérea e submarina (Código CNAE:7420001)</s></p></td></tr><tr><td><p>36</p></td><td><p><s>Atividades de profissionais da nutrição (Código CNAE:8650002)</s></p></td></tr><tr><td><p>37</p></td><td><p><s>Atividades de psicologia psicanálise (Código CNAE:8650003)</s></p></td></tr><tr><td><p>38</p></td><td><p><s>Atividades de teleatendimento (Código CNAE:8220200)</s></p></td></tr><tr><td><p>39</p></td><td><p><s>Atividades de terapia ocupacional (Código CNAE:8650005)</s></p></td></tr><tr><td><p>40</p></td><td><p><s>Atividades paisagísticas (Código CNAE: 8130300)</s></p></td></tr><tr><td><p>41</p></td><td><p><s>Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente (Código CNAE:7119799)</s></p></td></tr><tr><td><p>42</p></td><td><p><s>Atividades veterinárias (Código CNAE:7500100), desde que o resultado do exercício da atividade não incluirá a comercialização e/ou uso de medicamentos controlados e/ou equipamentos de diagnóstico por imagem.</s></p></td></tr><tr><td><p>43</p></td><td><p><s>Auditoria e consultoria atuarial (Código CNAE:6621502)</s></p></td></tr><tr><td><p>44</p></td><td><p><s>Bares e outros estabelecimentos especializados em servir bebidas (Código CNAE:5611202)</s></p></td></tr><tr><td><p>45</p></td><td><p><s>Cabeleireiros, manicure e pedicure (Código CNAE:9602501)</s></p></td></tr><tr><td><p>46</p></td><td><p><s>Chaveiros (Código CNAE:9529102)</s></p></td></tr><tr><td><p>47</p></td><td><p><s>Comércio a varejo de peças e acessórios novos para veículos automotores (Código CNAE:4530703)</s></p></td></tr><tr><td><p>48</p></td><td><p><s>Comércio a varejo de peças e acessórios para motocicletas e motonetas (Código CNAE:4541205)</s></p></td></tr><tr><td><p>49</p></td><td><p><s>Comércio a varejo de peças e acessórios usados para veículos automotores (Código CNAE:4530704)</s></p></td></tr><tr><td><p>50</p></td><td><p><s>Comércio a varejo de pneumáticos e câmaras de ar (Código CNAE:4530705)</s></p></td></tr><tr><td><p>51</p></td><td><p><s>Comércio atacadista de água mineral (Código CNAE:4635401)</s></p></td></tr><tr><td><p>52</p></td><td><p><s>Comércio atacadista de artigos de armarinho (Código CNAE:4641903)</s></p></td></tr><tr><td><p>53</p></td><td><p><s>Comércio atacadista de artigos de cama, mesa e banho (Código CNAE:4641902)</s></p></td></tr><tr><td><p>54</p></td><td><p><s>Comércio atacadista de artigos de escritório e de papelaria (Código CNAE:4647801)</s></p></td></tr><tr><td><p>55</p></td><td><p><s>Comércio atacadista de artigos de tapeçaria; persianas e cortinas (Código CNAE:4649405)</s></p></td></tr><tr><td><p>56</p></td><td><p><s>Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança (Código CNAE:4642701)</s></p></td></tr><tr><td><p>57</p></td><td><p><s>Comércio atacadista de bolsas, malas e artigos de viagem (Código CNAE:4643502)</s></p></td></tr><tr><td><p>58</p></td><td><p><s>Comércio atacadista de calçados (Código CNAE:4643501)</s></p></td></tr><tr><td><p>59</p></td><td><p><s>Comércio atacadista de cerveja, chope e refrigerante (Código CNAE:4635402)</s></p></td></tr><tr><td><p>60</p></td><td><p><s>Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes (Código CNAE:4637107)</s></p></td></tr><tr><td><p>61</p></td><td><p><s>Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação (Código CNAE:4652400)</s></p></td></tr><tr><td><p>62</p></td><td><p><s>Comércio atacadista de embalagens (Código CNAE:4686902)</s></p></td></tr><tr><td><p>63</p></td><td><p><s>Comércio atacadista de equipamentos de informática (Código CNAE:4651601)</s></p></td></tr><tr><td><p>64</p></td><td><p><s>Comércio atacadista de filmes, CDs, DVDs, fitas e discos (Código CNAE:4649407)</s></p></td></tr><tr><td><p>65</p></td><td><p><s>Comércio atacadista de fios e fibras beneficiados (Código CNAE:4689302)</s></p></td></tr><tr><td><p>66</p></td><td><p><s>Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas (Código CNAE:4649410)</s></p></td></tr><tr><td><p>67</p></td><td><p><s>Comércio atacadista de livros, jornais e outras publicações (Código CNAE:4647802)</s></p></td></tr><tr><td><p>68</p></td><td><p><s>Comércio atacadista de lustres, luminárias e abajures (Código CNAE:4649406)</s></p></td></tr><tr><td><p>69</p></td><td><p><s>Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários (Código CNAE:4692300)</s></p></td></tr><tr><td><p>70</p></td><td><p><s>Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios (Código CNAE:4691500)</s></p></td></tr><tr><td><p>71</p></td><td><p><s>Comércio atacadista de móveis e artigos de colchoaria (Código CNAE:4649404)</s></p></td></tr><tr><td><p>72</p></td><td><p><s>Comércio atacadista de pães, bolos, biscoitos e similares (Código CNAE:4637104)</s></p></td></tr><tr><td><p>73</p></td><td><p><s>Comércio atacadista de papel e papelão em bruto (Código CNAE:4686901)</s></p></td></tr><tr><td><p>74</p></td><td><p><s>Comércio atacadista de resíduos de papel e papelão (Código CNAE:4687701)</s></p></td></tr><tr><td><p>75</p></td><td><p><s>Comércio atacadista de resíduos e sucatas metálicos (Código CNAE:4687703)</s></p></td></tr><tr><td><p>76</p></td><td><p><s>Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho (Código CNAE:4642702)</s></p></td></tr><tr><td><p>77</p></td><td><p><s>Comércio atacadista de suprimentos para informática (Código CNAE:4651602)</s></p></td></tr><tr><td><p>78</p></td><td><p><s>Comércio atacadista de tecidos (Código CNAE:4641901)</s></p></td></tr><tr><td><p>79</p></td><td><p><s>Comércio sob consignação de motocicletas e motonetas (Código CNAE:4542102)</s></p></td></tr><tr><td><p>80</p></td><td><p><s>Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação (Código CNAE:4789004)</s></p></td></tr><tr><td><p>81</p></td><td><p><s>Comércio varejista de antiguidades (Código CNAE:4785701)</s></p></td></tr><tr><td><p>82</p></td><td><p><s>Comércio varejista de artigos de armarinho (Código CNAE:4755502)</s></p></td></tr><tr><td><p>83</p></td><td><p><s>Comércio varejista de artigos de caça, pesca e camping (Código CNAE:4763604)</s></p></td></tr><tr><td><p>84</p></td><td><p><s>Comercio varejista de artigos de cama, mesa e banho (Código CNAE:4755503)</s></p></td></tr><tr><td><p>85</p></td><td><p><s>Comércio varejista de artigos de colchoaria (Código CNAE:4754702)</s></p></td></tr><tr><td><p>86</p></td><td><p><s>Comércio varejista de artigos de iluminação (Código CNAE:4754703)</s></p></td></tr><tr><td><p>87</p></td><td><p><s>Comércio varejista de artigos de joalheria (Código CNAE:4783101)</s></p></td></tr><tr><td><p>88</p></td><td><p><s>Comércio varejista de artigos de óptica (Código CNAE:4774100)</s></p></td></tr><tr><td><p>89</p></td><td><p><s>Comércio varejista de artigos de papelaria (Código CNAE:4761003)</s></p></td></tr><tr><td><p>90</p></td><td><p><s>Comércio varejista de artigos de relojoaria (Código CNAE:4783102)</s></p></td></tr><tr><td><p>91</p></td><td><p><s>Comércio varejista de artigos de tapeçaria, cortinas e persianas (Código CNAE:4759801)</s></p></td></tr><tr><td><p>92</p></td><td><p><s>Comércio varejista de artigos de viagem (Código CNAE:4782202)</s></p></td></tr><tr><td><p>93</p></td><td><p><s>Comércio varejista de artigos do vestuário e acessórios (Código CNAE:4781400)</s></p></td></tr><tr><td><p>94</p></td><td><p><s>Comércio varejista de artigos esportivos (Código CNAE:4763602)</s></p></td></tr><tr><td><p>95</p></td><td><p><s>Comércio varejista de artigos fotográficos e para filmagem (Código CNAE:4789008)</s></p></td></tr><tr><td><p>96</p></td><td><p><s>Comércio varejista de artigos médicos e ortopédicos (Código CNAE:4773300)</s></p></td></tr><tr><td><p>97</p></td><td><p><s>Comércio varejista de bebidas (Código CNAE:4723700)</s></p></td></tr><tr><td><p>98</p></td><td><p><s>Comércio varejista de bicicletas e triciclos; peças e acessórios (Código CNAE:4763603)</s></p></td></tr><tr><td><p>99</p></td><td><p><s>Comércio varejista de brinquedos e artigos recreativos (Código CNAE:4763601)</s></p></td></tr><tr><td><p>100</p></td><td><p><s>Comércio varejista de calçados (Código CNAE:4782201)</s></p></td></tr><tr><td><p>101</p></td><td><p><s>Comércio varejista de carnes - açougues (Código CNAE:4722901)</s></p></td></tr><tr><td><p>102</p></td><td><p><s>Comércio varejista de discos, CDs, DVDs e fitas (Código CNAE:4762800)</s></p></td></tr><tr><td><p>103</p></td><td><p><s>Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios (Código CNAE:4763605)</s></p></td></tr><tr><td><p>104</p></td><td><p><s>Comércio varejista de equipamentos para escritório (Código CNAE:4789007)</s></p></td></tr><tr><td><p>105</p></td><td><p><s>Comércio varejista de ferragens e ferramentas (Código CNAE:4744001)</s></p></td></tr><tr><td><p>106</p></td><td><p><s>Comércio varejista de jornais e revistas (Código CNAE:4761002)</s></p></td></tr><tr><td><p>107</p></td><td><p><s>Comércio varejista de livros (Código CNAE:4761001)</s></p></td></tr><tr><td><p>108</p></td><td><p><s>Comércio varejista de materiais de construção em geral (Código CNAE:4744099)</s></p></td></tr><tr><td><p>109</p></td><td><p><s>Comércio varejista de materiais hidráulicos (Código CNAE:4744003)</s></p></td></tr><tr><td><p>110</p></td><td><p><s>Comércio varejista de material elétrico (Código CNAE:4742300)</s></p></td></tr><tr><td><p>111</p></td><td><p><s>Comércio varejista de medicamentos veterinários (Código CNAE:4771704)</s></p></td></tr><tr><td><p>112</p></td><td><p><s>Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns (Código CNAE:4712100)</s></p></td></tr><tr><td><p>113</p></td><td><p><s>Comércio varejista de mercadorias em lojas de conveniência (Código CNAE:4729602)</s></p></td></tr><tr><td><p>114</p></td><td><p><s>Comércio varejista de móveis (Código CNAE:4754701)</s></p></td></tr><tr><td><p>115</p></td><td><p><s>Comércio varejista de objetos de arte (Código CNAE:4789003)</s></p></td></tr><tr><td><p>116</p></td><td><p><s>Comércio varejista de outros artigos de uso doméstico não especificados anteriormente (Código CNAE:4759899)</s></p></td></tr><tr><td><p>117</p></td><td><p><s>Comércio varejista de outros artigos usados (Código CNAE:4785799)</s></p></td></tr><tr><td><p>118</p></td><td><p><s>Comércio varejista de pedras para revestimento (Código CNAE:4744006)</s></p></td></tr><tr><td><p>119</p></td><td><p><s>Comércio varejista de plantas e flores naturais (Código CNAE:4789002)</s></p></td></tr><tr><td><p>120</p></td><td><p><s>Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente (Código CNAE:4729699)</s></p></td></tr><tr><td><p>121</p></td><td><p><s>Comércio varejista de suvenires, bijuterias e artesanatos (Código CNAE:4789001)</s></p></td></tr><tr><td><p>122</p></td><td><p><s>Comércio varejista de tecidos (Código CNAE:4755501)</s></p></td></tr><tr><td><p>123</p></td><td><p><s>Comércio varejista de tintas e materiais para pintura (Código CNAE:4741500)</s></p></td></tr><tr><td><p>124</p></td><td><p><s>Comércio varejista de vidros (Código CNAE:4743100)</s></p></td></tr><tr><td><p>125</p></td><td><p><s>Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo (Código CNAE:4753900)</s></p></td></tr><tr><td><p>126</p></td><td><p><s>Comércio varejista especializado de equipamentos de telefonia e comunicação (Código CNAE:4752100)</s></p></td></tr><tr><td><p>127</p></td><td><p><s>Comércio varejista especializado de equipamentos e suprimentos de informática (Código CNAE:4751201)</s></p></td></tr><tr><td><p>128</p></td><td><p><s>Comércio varejista especializado de instrumentos musicais e acessórios (Código CNAE:4756300)</s></p></td></tr><tr><td><p>129</p></td><td><p><s>Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação (Código CNAE:4757100)</s></p></td></tr><tr><td><p>130</p></td><td><p><s>Compra e venda de imóveis próprios (Código CNAE:6810201)</s></p></td></tr><tr><td><p>131</p></td><td><p><s>Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida (Código CNAE:1412601)</s></p></td></tr><tr><td><p>132</p></td><td><p><s>Confecção de roupas íntimas (Código CNAE:1411801)</s></p></td></tr><tr><td><p>133</p></td><td><p><s>Confecção de roupas profissionais, exceto sob medida (Código CNAE:1413401)</s></p></td></tr><tr><td><p>134</p></td><td><p><s>Confecção, sob medida, de peças do vestuário, exceto roupas íntimas (Código CNAE:1412602)</s></p></td></tr><tr><td><p>135</p></td><td><p><s>Confecção, sob medida, de roupas profissionais (Código CNAE:1413402)</s></p></td></tr><tr><td><p>136</p></td><td><p><s>Consultoria em publicidade (Código CNAE:7319004)</s></p></td></tr><tr><td><p>137</p></td><td><p><s>Consultoria em tecnologia da informação (Código CNAE:6204000)</s></p></td></tr><tr><td><p>138</p></td><td><p><s>Corretagem na compra e venda e avaliação de imóveis (Código CNAE:6821801)</s></p></td></tr><tr><td><p>139</p></td><td><p><s>Corretagem no aluguel de imóveis (Código CNAE:6821802)</s></p></td></tr></tbody></table>
+**Nº**
 
-<table><tbody><tr><td><p>140</p></td><td><p>Corretores e agentes de seguros, de planos de previdência complementar e de saúde (Código CNAE: 6622300)</p></td></tr><tr><td><p>141</p></td><td><p>Cursos preparatórios para concursos (Código CNAE:8599605)</p></td></tr><tr><td><p>142</p></td><td><p>Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal (Código CNAE:2399101)</p></td></tr><tr><td><p>143</p></td><td><p>Desenvolvimento de programas de computador sob encomenda (Código CNAE:6201501)</p></td></tr><tr><td><p>144</p></td><td><p>Desenvolvimento e licenciamento de programas de computador customizáveis (Código CNAE:6202300)</p></td></tr><tr><td><p>145</p></td><td><p>Desenvolvimento e licenciamento de programas de computador não customizáveis (Código CNAE:6203100), desde que não haverá o desenvolvimento de <i>softwares</i> que realizam ou influenciam diretamente no diagnóstico, monitoramento, terapia (tratamento) para a saúde.</p></td></tr><tr><td><p>146</p></td><td><p><i>Design</i> de interiores (Código CNAE:7410202)</p></td></tr><tr><td><p>147</p></td><td><p><i>Design</i> de produto (Código CNAE:7410203)</p></td></tr><tr><td><p>148</p></td><td><p>Edição de cadastros, listas e outros produtos gráficos (Código CNAE:5819100)</p></td></tr><tr><td><p>149</p></td><td><p>Edição de jornais diários (Código CNAE:5812301)</p></td></tr><tr><td><p>150</p></td><td><p>Edição de jornais não diários (Código CNAE:5812302)</p></td></tr><tr><td><p>151</p></td><td><p>Edição de livros (Código CNAE:5811500)</p></td></tr><tr><td><p>152</p></td><td><p>Edição de revistas (Código CNAE:5813100)</p></td></tr><tr><td><p>153</p></td><td><p>Ensino de arte e cultura não especificado anteriormente (Código CNAE:8592999)</p></td></tr><tr><td><p>154</p></td><td><p>Ensino de artes cênicas, exceto dança (Código CNAE:8592902)</p></td></tr><tr><td><p>155</p></td><td><p>Ensino de dança (Código CNAE:8592901)</p></td></tr><tr><td><p>156</p></td><td><p>Ensino de esportes (Código CNAE:8591100)</p></td></tr><tr><td><p>157</p></td><td><p>Ensino de idiomas (Código CNAE:8593700)</p></td></tr><tr><td><p>158</p></td><td><p>Ensino de música (Código CNAE:8592903)</p></td></tr><tr><td><p>159</p></td><td><p>Envasamento e empacotamento sob contrato (Código CNAE:8292000), desde que não haverá, no exercício da atividade, o envasamento, fracionamento e/ou empacotamento de produtos relacionados a saúde, tais como: engarrafamento de produtos líquidos, incluindo alimentos e bebidas, empacotamento de sólidos, envasamento em aerossóis ou empacotamento de preparados farmacêuticos.</p></td></tr><tr><td><p>160</p></td><td><p>Exploração de jogos de sinuca, bilhar e similares (Código CNAE:9329803)</p></td></tr><tr><td><p>161</p></td><td><p>Exploração de jogos eletrônicos recreativos (Código CNAE:9329804)</p></td></tr><tr><td><p>162</p></td><td><p>Fabricação de acessórios do vestuário, exceto para segurança e proteção (Código CNAE:1414200)</p></td></tr><tr><td><p>163</p></td><td><p>Fabricação de artefatos de couro não especificados anteriormente (Código CNAE:1529700)</p></td></tr><tr><td><p>164</p></td><td><p>Fabricação de artefatos têxteis para uso doméstico (Código CNAE:1351100)</p></td></tr><tr><td><p>165</p></td><td><p>Fabricação de artigos de vidro (Código CNAE:2319200), desde que o resultado do exercício da atividade econômica não é um produto industrial, não haverá operações de espelhação. E não haverá produção de peças de fibra de vidro.</p></td></tr><tr><td><p>166</p></td><td><p>Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias (Código CNAE:1422300)</p></td></tr><tr><td><p>167</p></td><td><p>Fabricação de artigos ópticos (Código CNAE:3250707), desde que não haverá fabricação de produto para saúde.</p></td></tr><tr><td><p>168</p></td><td><p>Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material (Código CNAE:1521100), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados).</p></td></tr><tr><td><p>169</p></td><td><p>Fabricação de biscoitos e bolachas (Código CNAE:1092900), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.</p></td></tr><tr><td><p>170</p></td><td><p>Fabricação de calçados de couro (Código CNAE:1531901), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados).</p></td></tr><tr><td><p>171</p></td><td><p>Fabricação de escovas, pincéis e vassouras (Código CNAE:3291400), desde que não haverá no exercício a fabricação de escova dental.</p></td></tr><tr><td><p>172</p></td><td><p>Fabricação de especiarias, molhos, temperos e condimentos (Código CNAE:1095300), desde que o resultado do exercício da atividade econômica não será diferente de especiaria ou condimento desidratado produzido artesanalmente.</p></td></tr><tr><td><p>173</p></td><td><p>Fabricação de frutas cristalizadas, balas e semelhantes (Código CNAE:1093702), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.</p></td></tr><tr><td><p>174</p></td><td><p>Fabricação de gelo comum (Código CNAE:1099604), desde que o gelo fabricado não será para consumo humano e não entrará em contato com alimentos e bebidas.</p></td></tr><tr><td><p>175</p></td><td><p>Fabricação de massas alimentícias (Código CNAE:1094500), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.</p></td></tr><tr><td><p>176</p></td><td><p>Fabricação de meias (Código CNAE:1421500)</p></td></tr><tr><td><p>177</p></td><td><p>Fabricação de outros produtos têxteis não especificados anteriormente (Código CNAE:1359600)</p></td></tr><tr><td><p>178</p></td><td><p>Fabricação de produtos de padaria e confeitaria com predominância de produção própria (Código CNAE:1091102)</p></td></tr><tr><td><p>179</p></td><td><p>Fabricação de produtos derivados do cacau e de chocolates (Código CNAE:1093701), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.</p></td></tr><tr><td><p>180</p></td><td><p>Fabricação de tecidos especiais, inclusive artefatos (Código CNAE:1354500), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados).</p></td></tr><tr><td><p>181</p></td><td><p>Fabricação de velas, inclusive decorativas (Código CNAE:3299006), desde que não haverá no exercício da atividade a fabricação de velas, sebo e/ou estearina utilizadas como cosmético ou saneante.</p></td></tr><tr><td><p>182</p></td><td><p>Facção de peças do vestuário, exceto roupas íntimas (Código CNAE:1412603)</p></td></tr><tr><td><p>183</p></td><td><p>Facção de roupas íntimas (Código CNAE:1411802)</p></td></tr><tr><td><p>184</p></td><td><p>Facção de roupas profissionais (Código CNAE:1413403)</p></td></tr><tr><td><p>185</p></td><td><p>Filmagem de festas e eventos (Código CNAE:7420004)</p></td></tr><tr><td><p>186</p></td><td><p>Fotocópias (Código CNAE:8219901)</p></td></tr><tr><td><p>187</p></td><td><p>Gestão e administração da propriedade imobiliária (Código CNAE:6822600)</p></td></tr><tr><td><p>188</p></td><td><p>Horticultura, exceto morango (Código CNAE:121101)</p></td></tr><tr><td><p>189</p></td><td><p>Laboratórios fotográficos (Código CNAE:7420003)</p></td></tr><tr><td><p>190</p></td><td><p>Lanchonetes, casas de chá, de sucos e similares (Código CNAE:5611203)</p></td></tr><tr><td><p>191</p></td><td><p>Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle (Código CNAE:3312102)</p></td></tr><tr><td><p>192</p></td><td><p>Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos (Código CNAE:3313902)</p></td></tr><tr><td><p>193</p></td><td><p>Manutenção e reparação de equipamentos e instrumentos ópticos (Código CNAE:3312104)</p></td></tr><tr><td><p>194</p></td><td><p>Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas (Código CNAE:3314702)</p></td></tr><tr><td><p>195</p></td><td><p>Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório (Código CNAE:3314709)</p></td></tr><tr><td><p>196</p></td><td><p>Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial (Código CNAE:3314707)</p></td></tr><tr><td><p>197</p></td><td><p>Manutenção e reparação de máquinas motrizes não elétricas (Código CNAE:3314701)</p></td></tr><tr><td><p>198</p></td><td><p>Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas (Código CNAE:3314706)</p></td></tr><tr><td><p>199</p></td><td><p>Manutenção e reparação de máquinas-ferramenta (Código CNAE:3314713)</p></td></tr><tr><td><p>200</p></td><td><p>Manutenção e reparação de motocicletas e motonetas (Código CNAE:4543900)</p></td></tr><tr><td><p>201</p></td><td><p>Manutenção e reparação de tratores agrícolas (Código CNAE:3314712)</p></td></tr><tr><td><p>202</p></td><td><p>Manutenção e reparação de válvulas industriais (Código CNAE:3314703)</p></td></tr><tr><td><p>203</p></td><td><p><i>Marketing</i> direto (Código CNAE:7319003)</p></td></tr><tr><td><p>204</p></td><td><p>Operadores turísticos (Código CNAE:7912100)</p></td></tr><tr><td><p>205</p></td><td><p>Outras atividades profissionais, científicas e técnicas não especificadas anteriormente (Código CNAE:7490199)</p></td></tr><tr><td><p>206</p></td><td><p>Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente (Código CNAE:4618499)</p></td></tr><tr><td><p>207</p></td><td><p>Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário (Código CNAE:1340599)</p></td></tr><tr><td><p>208</p></td><td><p>Outros transportes rodoviários não especificados anteriormente (Código CNAE:4929999)</p></td></tr><tr><td><p>209</p></td><td><p>Padaria e confeitaria com predominância de revenda (Código CNAE:4721102)</p></td></tr><tr><td><p>210</p></td><td><p>Pensões (alojamento) (Código CNAE:5590603)</p></td></tr><tr><td><p>211</p></td><td><p>Peritos e avaliadores de seguros (Código CNAE:6621501)</p></td></tr><tr><td><p>212</p></td><td><p>Pesquisa e desenvolvimento experimental em ciências físicas e naturais (Código CNAE:7210000)</p></td></tr><tr><td><p>213</p></td><td><p>Pesquisa e desenvolvimento experimental em ciências sociais e humanas (Código CNAE:7220700)</p></td></tr><tr><td><p>214</p></td><td><p>Pesquisas de mercado e de opinião pública (Código CNAE:7320300)</p></td></tr><tr><td><p>215</p></td><td><p>Planos de auxílio-funeral (Código CNAE:6511102)</p></td></tr><tr><td><p>216</p></td><td><p>Portais, provedores de conteúdo e outros serviços de informação na internet (Código CNAE:6319400)</p></td></tr><tr><td><p>217</p></td><td><p>Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente (Código CNAE:8219999)</p></td></tr><tr><td><p>218</p></td><td><p>Preparação e fiação de fibras de algodão (Código CNAE:1311100)</p></td></tr><tr><td><p>219</p></td><td><p>Preparação e fiação de fibras têxteis naturais, exceto algodão (Código CNAE:1312000)</p></td></tr><tr><td><p>220</p></td><td><p>Produção de espetáculos circenses, de marionetes e similares (Código CNAE:9001904)</p></td></tr><tr><td><p>221</p></td><td><p>Produção de espetáculos de dança (Código CNAE:9001903)</p></td></tr><tr><td><p>222</p></td><td><p>Produção de filmes para publicidade (Código CNAE:5911102)</p></td></tr><tr><td><p>223</p></td><td><p>Produção e promoção de eventos esportivos (Código CNAE:9319101)</p></td></tr><tr><td><p>224</p></td><td><p>Produção musical (Código CNAE:9001902)</p></td></tr><tr><td><p>225</p></td><td><p>Produção teatral (Código CNAE:9001901)</p></td></tr><tr><td><p>226</p></td><td><p>Promoção de vendas (Código CNAE:7319002)</p></td></tr><tr><td><p>227</p></td><td><p>Recarga de cartuchos para equipamentos de informática (Código CNAE:4751202)</p></td></tr><tr><td><p>228</p></td><td><p>Recuperação de materiais metálicos, exceto alumínio (Código CNAE:3831999)</p></td></tr><tr><td><p>229</p></td><td><p>Recuperação de materiais plásticos (Código CNAE:3832700)</p></td></tr><tr><td><p>230</p></td><td><p>Reparação de artigos do mobiliário (Código CNAE:9529105)</p></td></tr><tr><td><p>231</p></td><td><p>Reparação de bicicletas, triciclos e outros veículos não motorizados (Código CNAE:9529104)</p></td></tr><tr><td><p>232</p></td><td><p>Reparação de calçados, bolsas e artigos de viagem (Código CNAE:9529101)</p></td></tr><tr><td><p>233</p></td><td><p>Reparação de jóias (Código CNAE:9529106)</p></td></tr><tr><td><p>234</p></td><td><p>Reparação de relógios (Código CNAE:9529103)</p></td></tr><tr><td><p>235</p></td><td><p>Reparação e manutenção de computadores e de equipamentos periféricos (Código CNAE:9511800)</p></td></tr><tr><td><p>236</p></td><td><p>Reparação e manutenção de equipamentos de comunicação (Código CNAE:9512600)</p></td></tr><tr><td><p>237</p></td><td><p>Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico (Código CNAE:9521500)</p></td></tr><tr><td><p>238</p></td><td><p>Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente (Código CNAE:9529199)</p></td></tr><tr><td><p>239</p></td><td><p>Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos (Código CNAE:4612500)</p></td></tr><tr><td><p>240</p></td><td><p>Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico (Código CNAE:4615000)</p></td></tr><tr><td><p>241</p></td><td><p>Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares (Código CNAE:4618402)</p></td></tr><tr><td><p>242</p></td><td><p>Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações (Código CNAE:4618403)</p></td></tr><tr><td><p>243</p></td><td><p>Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens (Código CNAE:4613300)</p></td></tr><tr><td><p>244</p></td><td><p>Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves (Código CNAE:4614100)</p></td></tr><tr><td><p>245</p></td><td><p>Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos (Código CNAE:4611700)</p></td></tr><tr><td><p>246</p></td><td><p>Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria (Código CNAE:4618401)</p></td></tr><tr><td><p>247</p></td><td><p>Representantes comerciais e agentes do comércio de mercadorias em geral não especializado (Código CNAE:4619200)</p></td></tr><tr><td><p>248</p></td><td><p>Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios (Código CNAE:4542101)</p></td></tr><tr><td><p>249</p></td><td><p>Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores (Código CNAE:4530706)</p></td></tr><tr><td><p>250</p></td><td><p>Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo (Código CNAE:4617600)</p></td></tr><tr><td><p>251</p></td><td><p>Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem (Código CNAE:4616800)</p></td></tr><tr><td><p>252</p></td><td><p>Representantes comerciais e agentes do comércio de veículos automotores (Código CNAE:4512901)</p></td></tr><tr><td><p>253</p></td><td><p>Restauração de obras de arte (Código CNAE:9002702)</p></td></tr><tr><td><p>254</p></td><td><p>Restauração e conservação de lugares e prédios históricos (Código CNAE:9102302)</p></td></tr><tr><td><p>255</p></td><td><p>Restaurantes e Similares (Código CNAE:5611201)</p></td></tr><tr><td><p>256</p></td><td><p>Salas de acesso à internet (Código CNAE:8299707)</p></td></tr><tr><td><p>257</p></td><td><p>Serviços advocatícios (Código CNAE:6911701)</p></td></tr><tr><td><p>258</p></td><td><p>Serviços combinados de escritório e apoio administrativo (Código CNAE:8211300)</p></td></tr><tr><td><p>259</p></td><td><p>Serviços de acabamentos gráficos, exceto encadernação e plastificação (Código CNAE:1822999)</p></td></tr><tr><td><p>260</p></td><td><p>Serviços de adestramento de cães de guarda (Código CNAE:8011102)</p></td></tr><tr><td><p>261</p></td><td><p>Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias (Código CNAE:7490103)</p></td></tr><tr><td><p>262</p></td><td><p>Serviços de alinhamento e balanceamento de veículos automotores (Código CNAE:4520004)</p></td></tr><tr><td><p>263</p></td><td><p>Serviços de arquitetura (Código CNAE:7111100)</p></td></tr><tr><td><p>264</p></td><td><p>Serviços de borracharia para veículos automotores (Código CNAE:4520006)</p></td></tr><tr><td><p>265</p></td><td><p>Serviços de capotaria (Código CNAE:4520008)</p></td></tr><tr><td><p>266</p></td><td><p>Serviços de cartografia, topografia e geodésia (Código CNAE:7119701)</p></td></tr><tr><td><p>267</p></td><td><p>Serviços de desenho técnico relacionados à arquitetura e engenharia (Código CNAE:7119703)</p></td></tr><tr><td><p>268</p></td><td><p>Serviços de dublagem (Código CNAE:5912001)</p></td></tr><tr><td><p>269</p></td><td><p>Serviços de encadernação e plastificação (Código CNAE:1822901)</p></td></tr><tr><td><p>270</p></td><td><p>Serviços de engenharia (Código CNAE:7112000)</p></td></tr><tr><td><p>271</p></td><td><p>Serviços de gravação de carimbos, exceto confecção (Código CNAE:8299703)</p></td></tr><tr><td><p>272</p></td><td><p>Serviços de instalação, manutenção e reparação de acessórios para veículos automotores (Código CNAE:4520007)</p></td></tr><tr><td><p>273</p></td><td><p>Serviços de lanternagem ou funilaria e pintura de veículos automotores (Código CNAE:4520002)</p></td></tr><tr><td><p>274</p></td><td><p>Serviços de lavagem, lubrificação e polimento de veículos automotores (Código CNAE:4520005)</p></td></tr><tr><td><p>275</p></td><td><p>Serviços de manutenção e reparação elétrica de veículos automotores (Código CNAE:4520003)</p></td></tr><tr><td><p>276</p></td><td><p>Serviços de manutenção e reparação mecânica de veículos automotores (Código CNAE:4520001)</p></td></tr><tr><td><p>277</p></td><td><p>Serviços de microfilmagem (Código CNAE:7420005)</p></td></tr><tr><td><p>278</p></td><td><p>Serviços de mixagem sonora em produção audiovisual (Código CNAE:5912002)</p></td></tr><tr><td><p>279</p></td><td><p>Serviços de montagem de móveis de qualquer material (Código CNAE:3329501)</p></td></tr><tr><td><p>280</p></td><td><p>Serviços de organização de feiras, congressos, exposições e festas (Código CNAE:8230001)</p></td></tr><tr><td><p>281</p></td><td><p>Serviços de prótese dentária (Código CNAE:3250706)</p></td></tr><tr><td><p>282</p></td><td><p>Serviços de tradução, interpretação e similares (Código CNAE:7490101)</p></td></tr><tr><td><p>283</p></td><td><p>Serviços de tratamento e revestimento em metais (Código CNAE:2539002)</p></td></tr><tr><td><p>284</p></td><td><p>Serviços de usinagem, tornearia e solda (Código CNAE:2539001), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados). E não haverá operações de jateamento (jato de areia).</p></td></tr><tr><td><p>285</p></td><td><p>Suporte técnico, manutenção e outros serviços em tecnologia da informação (Código CNAE:6209100)</p></td></tr><tr><td><p>286</p></td><td><p>Testes e análises técnicas (Código CNAE:7120100), desde que não haverá no exercício da atividade a análise de produto sujeito à vigilância sanitária.</p></td></tr><tr><td><p>287</p></td><td><p>Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet (Código CNAE:6311900)</p></td></tr><tr><td><p>288</p></td><td><p>Treinamento em desenvolvimento profissional e gerencial (Código CNAE:8599604)</p></td></tr><tr><td><p>289</p></td><td><p>Treinamento em informática (Código CNAE:8599603)</p></td></tr><tr><td><p>290</p></td><td><p><i>Web design</i> (Código CNAE:6201502)</p></td></tr></tbody></table>
+~~**Atividade Econômica**~~
+
+1
+
+~~Agenciamento de espaços para publicidade, exceto em veículos de comunicação (Código CNAE:7312200)~~
+
+2
+
+~~Agenciamento de profissionais para atividades esportivas, culturais e artísticas (Código CNAE:7490105)~~
+
+3
+
+~~Agências de notícias (Código CNAE:6391700)~~
+
+4
+
+~~Agências de publicidade (Código CNAE:7311400)~~
+
+5
+
+~~Agências de viagens (Código CNAE:7911200)~~
+
+6
+
+~~Agências matrimoniais (Código CNAE:9609202)~~
+
+7
+
+~~Albergues, exceto assistenciais (Código CNAE:5590601)~~
+
+8
+
+~~Aluguel de aparelhos de jogos eletrônicos (Código CNAE:7729201)~~
+
+9
+
+~~Aluguel de equipamentos recreativos e esportivos (Código CNAE:7721700)~~
+
+10
+
+~~Aluguel de fitas de vídeo, DVDs e similares (Código CNAE:7722500)~~
+
+11
+
+~~Aluguel de imóveis próprios (Código CNAE:6810202)~~
+
+12
+
+~~Aluguel de máquinas e equipamentos para escritório (Código CNAE:7733100)~~
+
+13
+
+~~Aluguel de material médico (Código CNAE:7729203)~~
+
+14
+
+~~Aluguel de móveis, utensílios e aparelhos de uso doméstico e pessoal; instrumentos musicais (Código CNAE:7729202)~~
+
+15
+
+~~Aluguel de objetos do vestuário, jóias e acessórios (Código CNAE:7723300)~~
+
+16
+
+~~Aluguel de outros objetos pessoais e domésticos não especificados anteriormente (Código CNAE:7729299)~~
+
+17
+
+~~Atividades auxiliares da justiça (Código CNAE:6911702)~~
+
+18
+
+~~Atividades de agenciamento marítimo (Código CNAE:5232000)~~
+
+19
+
+~~Atividades de apoio à gestão de saúde (Código CNAE:8660700)~~
+
+20
+
+~~Atividades de artistas plásticos, jornalistas independentes e escritores (Código CNAE:9002701)~~
+
+21
+
+~~Atividades de associações de defesa de direitos sociais (Código CNAE:9430800)~~
+
+22
+
+~~Atividades de cobrança e informações cadastrais (Código CNAE:8291100)~~
+
+23
+
+~~Atividades de consultoria e auditoria contábil e tributária (Código CNAE:6920602)~~
+
+24
+
+~~Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica (Código CNAE:7020400)~~
+
+25
+
+~~Atividades de contabilidade (Código CNAE:6920601)~~
+
+26
+
+~~Atividades de *design* não especificadas anteriormente (Código CNAE:7410299)~~
+
+27
+
+~~Atividades de estudos geológicos (Código CNAE:7119702)~~
+
+28
+
+~~Atividades de fisioterapia (Código CNAE:8650004)~~
+
+29
+
+~~Atividades de fonoaudiologia (Código CNAE:8650006)~~
+
+30
+
+~~Atividades de gravação de som e de edição de música (Código CNAE:5920100)~~
+
+31
+
+~~Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários (Código CNAE:7490104)~~
+
+32
+
+~~Atividades de investigação particular (Código CNAE:8030700)~~
+
+33
+
+~~Atividades de monitoramento de sistemas de segurança eletrônico (Código CNAE:8020001)~~
+
+34
+
+~~Atividades de organizações associativas ligadas à cultura e à arte (Código CNAE:9493600)~~
+
+35
+
+~~Atividades de produção de fotografias, exceto aérea e submarina (Código CNAE:7420001)~~
+
+36
+
+~~Atividades de profissionais da nutrição (Código CNAE:8650002)~~
+
+37
+
+~~Atividades de psicologia psicanálise (Código CNAE:8650003)~~
+
+38
+
+~~Atividades de teleatendimento (Código CNAE:8220200)~~
+
+39
+
+~~Atividades de terapia ocupacional (Código CNAE:8650005)~~
+
+40
+
+~~Atividades paisagísticas (Código CNAE: 8130300)~~
+
+41
+
+~~Atividades técnicas relacionadas à engenharia e arquitetura não especificadas anteriormente (Código CNAE:7119799)~~
+
+42
+
+~~Atividades veterinárias (Código CNAE:7500100), desde que o resultado do exercício da atividade não incluirá a comercialização e/ou uso de medicamentos controlados e/ou equipamentos de diagnóstico por imagem.~~
+
+43
+
+~~Auditoria e consultoria atuarial (Código CNAE:6621502)~~
+
+44
+
+~~Bares e outros estabelecimentos especializados em servir bebidas (Código CNAE:5611202)~~
+
+45
+
+~~Cabeleireiros, manicure e pedicure (Código CNAE:9602501)~~
+
+46
+
+~~Chaveiros (Código CNAE:9529102)~~
+
+47
+
+~~Comércio a varejo de peças e acessórios novos para veículos automotores (Código CNAE:4530703)~~
+
+48
+
+~~Comércio a varejo de peças e acessórios para motocicletas e motonetas (Código CNAE:4541205)~~
+
+49
+
+~~Comércio a varejo de peças e acessórios usados para veículos automotores (Código CNAE:4530704)~~
+
+50
+
+~~Comércio a varejo de pneumáticos e câmaras de ar (Código CNAE:4530705)~~
+
+51
+
+~~Comércio atacadista de água mineral (Código CNAE:4635401)~~
+
+52
+
+~~Comércio atacadista de artigos de armarinho (Código CNAE:4641903)~~
+
+53
+
+~~Comércio atacadista de artigos de cama, mesa e banho (Código CNAE:4641902)~~
+
+54
+
+~~Comércio atacadista de artigos de escritório e de papelaria (Código CNAE:4647801)~~
+
+55
+
+~~Comércio atacadista de artigos de tapeçaria; persianas e cortinas (Código CNAE:4649405)~~
+
+56
+
+~~Comércio atacadista de artigos do vestuário e acessórios, exceto profissionais e de segurança (Código CNAE:4642701)~~
+
+57
+
+~~Comércio atacadista de bolsas, malas e artigos de viagem (Código CNAE:4643502)~~
+
+58
+
+~~Comércio atacadista de calçados (Código CNAE:4643501)~~
+
+59
+
+~~Comércio atacadista de cerveja, chope e refrigerante (Código CNAE:4635402)~~
+
+60
+
+~~Comércio atacadista de chocolates, confeitos, balas, bombons e semelhantes (Código CNAE:4637107)~~
+
+61
+
+~~Comércio atacadista de componentes eletrônicos e equipamentos de telefonia e comunicação (Código CNAE:4652400)~~
+
+62
+
+~~Comércio atacadista de embalagens (Código CNAE:4686902)~~
+
+63
+
+~~Comércio atacadista de equipamentos de informática (Código CNAE:4651601)~~
+
+64
+
+~~Comércio atacadista de filmes, CDs, DVDs, fitas e discos (Código CNAE:4649407)~~
+
+65
+
+~~Comércio atacadista de fios e fibras beneficiados (Código CNAE:4689302)~~
+
+66
+
+~~Comércio atacadista de jóias, relógios e bijuterias, inclusive pedras preciosas e semipreciosas lapidadas (Código CNAE:4649410)~~
+
+67
+
+~~Comércio atacadista de livros, jornais e outras publicações (Código CNAE:4647802)~~
+
+68
+
+~~Comércio atacadista de lustres, luminárias e abajures (Código CNAE:4649406)~~
+
+69
+
+~~Comércio atacadista de mercadorias em geral, com predominância de insumos agropecuários (Código CNAE:4692300)~~
+
+70
+
+~~Comércio atacadista de mercadorias em geral, com predominância de produtos alimentícios (Código CNAE:4691500)~~
+
+71
+
+~~Comércio atacadista de móveis e artigos de colchoaria (Código CNAE:4649404)~~
+
+72
+
+~~Comércio atacadista de pães, bolos, biscoitos e similares (Código CNAE:4637104)~~
+
+73
+
+~~Comércio atacadista de papel e papelão em bruto (Código CNAE:4686901)~~
+
+74
+
+~~Comércio atacadista de resíduos de papel e papelão (Código CNAE:4687701)~~
+
+75
+
+~~Comércio atacadista de resíduos e sucatas metálicos (Código CNAE:4687703)~~
+
+76
+
+~~Comércio atacadista de roupas e acessórios para uso profissional e de segurança do trabalho (Código CNAE:4642702)~~
+
+77
+
+~~Comércio atacadista de suprimentos para informática (Código CNAE:4651602)~~
+
+78
+
+~~Comércio atacadista de tecidos (Código CNAE:4641901)~~
+
+79
+
+~~Comércio sob consignação de motocicletas e motonetas (Código CNAE:4542102)~~
+
+80
+
+~~Comércio varejista de animais vivos e de artigos e alimentos para animais de estimação (Código CNAE:4789004)~~
+
+81
+
+~~Comércio varejista de antiguidades (Código CNAE:4785701)~~
+
+82
+
+~~Comércio varejista de artigos de armarinho (Código CNAE:4755502)~~
+
+83
+
+~~Comércio varejista de artigos de caça, pesca e camping (Código CNAE:4763604)~~
+
+84
+
+~~Comercio varejista de artigos de cama, mesa e banho (Código CNAE:4755503)~~
+
+85
+
+~~Comércio varejista de artigos de colchoaria (Código CNAE:4754702)~~
+
+86
+
+~~Comércio varejista de artigos de iluminação (Código CNAE:4754703)~~
+
+87
+
+~~Comércio varejista de artigos de joalheria (Código CNAE:4783101)~~
+
+88
+
+~~Comércio varejista de artigos de óptica (Código CNAE:4774100)~~
+
+89
+
+~~Comércio varejista de artigos de papelaria (Código CNAE:4761003)~~
+
+90
+
+~~Comércio varejista de artigos de relojoaria (Código CNAE:4783102)~~
+
+91
+
+~~Comércio varejista de artigos de tapeçaria, cortinas e persianas (Código CNAE:4759801)~~
+
+92
+
+~~Comércio varejista de artigos de viagem (Código CNAE:4782202)~~
+
+93
+
+~~Comércio varejista de artigos do vestuário e acessórios (Código CNAE:4781400)~~
+
+94
+
+~~Comércio varejista de artigos esportivos (Código CNAE:4763602)~~
+
+95
+
+~~Comércio varejista de artigos fotográficos e para filmagem (Código CNAE:4789008)~~
+
+96
+
+~~Comércio varejista de artigos médicos e ortopédicos (Código CNAE:4773300)~~
+
+97
+
+~~Comércio varejista de bebidas (Código CNAE:4723700)~~
+
+98
+
+~~Comércio varejista de bicicletas e triciclos; peças e acessórios (Código CNAE:4763603)~~
+
+99
+
+~~Comércio varejista de brinquedos e artigos recreativos (Código CNAE:4763601)~~
+
+100
+
+~~Comércio varejista de calçados (Código CNAE:4782201)~~
+
+101
+
+~~Comércio varejista de carnes - açougues (Código CNAE:4722901)~~
+
+102
+
+~~Comércio varejista de discos, CDs, DVDs e fitas (Código CNAE:4762800)~~
+
+103
+
+~~Comércio varejista de embarcações e outros veículos recreativos; peças e acessórios (Código CNAE:4763605)~~
+
+104
+
+~~Comércio varejista de equipamentos para escritório (Código CNAE:4789007)~~
+
+105
+
+~~Comércio varejista de ferragens e ferramentas (Código CNAE:4744001)~~
+
+106
+
+~~Comércio varejista de jornais e revistas (Código CNAE:4761002)~~
+
+107
+
+~~Comércio varejista de livros (Código CNAE:4761001)~~
+
+108
+
+~~Comércio varejista de materiais de construção em geral (Código CNAE:4744099)~~
+
+109
+
+~~Comércio varejista de materiais hidráulicos (Código CNAE:4744003)~~
+
+110
+
+~~Comércio varejista de material elétrico (Código CNAE:4742300)~~
+
+111
+
+~~Comércio varejista de medicamentos veterinários (Código CNAE:4771704)~~
+
+112
+
+~~Comércio varejista de mercadorias em geral, com predominância de produtos alimentícios - minimercados, mercearias e armazéns (Código CNAE:4712100)~~
+
+113
+
+~~Comércio varejista de mercadorias em lojas de conveniência (Código CNAE:4729602)~~
+
+114
+
+~~Comércio varejista de móveis (Código CNAE:4754701)~~
+
+115
+
+~~Comércio varejista de objetos de arte (Código CNAE:4789003)~~
+
+116
+
+~~Comércio varejista de outros artigos de uso doméstico não especificados anteriormente (Código CNAE:4759899)~~
+
+117
+
+~~Comércio varejista de outros artigos usados (Código CNAE:4785799)~~
+
+118
+
+~~Comércio varejista de pedras para revestimento (Código CNAE:4744006)~~
+
+119
+
+~~Comércio varejista de plantas e flores naturais (Código CNAE:4789002)~~
+
+120
+
+~~Comércio varejista de produtos alimentícios em geral ou especializado em produtos alimentícios não especificados anteriormente (Código CNAE:4729699)~~
+
+121
+
+~~Comércio varejista de suvenires, bijuterias e artesanatos (Código CNAE:4789001)~~
+
+122
+
+~~Comércio varejista de tecidos (Código CNAE:4755501)~~
+
+123
+
+~~Comércio varejista de tintas e materiais para pintura (Código CNAE:4741500)~~
+
+124
+
+~~Comércio varejista de vidros (Código CNAE:4743100)~~
+
+125
+
+~~Comércio varejista especializado de eletrodomésticos e equipamentos de áudio e vídeo (Código CNAE:4753900)~~
+
+126
+
+~~Comércio varejista especializado de equipamentos de telefonia e comunicação (Código CNAE:4752100)~~
+
+127
+
+~~Comércio varejista especializado de equipamentos e suprimentos de informática (Código CNAE:4751201)~~
+
+128
+
+~~Comércio varejista especializado de instrumentos musicais e acessórios (Código CNAE:4756300)~~
+
+129
+
+~~Comércio varejista especializado de peças e acessórios para aparelhos eletroeletrônicos para uso doméstico, exceto informática e comunicação (Código CNAE:4757100)~~
+
+130
+
+~~Compra e venda de imóveis próprios (Código CNAE:6810201)~~
+
+131
+
+~~Confecção de peças do vestuário, exceto roupas íntimas e as confeccionadas sob medida (Código CNAE:1412601)~~
+
+132
+
+~~Confecção de roupas íntimas (Código CNAE:1411801)~~
+
+133
+
+~~Confecção de roupas profissionais, exceto sob medida (Código CNAE:1413401)~~
+
+134
+
+~~Confecção, sob medida, de peças do vestuário, exceto roupas íntimas (Código CNAE:1412602)~~
+
+135
+
+~~Confecção, sob medida, de roupas profissionais (Código CNAE:1413402)~~
+
+136
+
+~~Consultoria em publicidade (Código CNAE:7319004)~~
+
+137
+
+~~Consultoria em tecnologia da informação (Código CNAE:6204000)~~
+
+138
+
+~~Corretagem na compra e venda e avaliação de imóveis (Código CNAE:6821801)~~
+
+139
+
+~~Corretagem no aluguel de imóveis (Código CNAE:6821802)~~
+
+140
+
+Corretores e agentes de seguros, de planos de previdência complementar e de saúde (Código CNAE: 6622300)
+
+141
+
+Cursos preparatórios para concursos (Código CNAE:8599605)
+
+142
+
+Decoração, lapidação, gravação, vitrificação e outros trabalhos em cerâmica, louça, vidro e cristal (Código CNAE:2399101)
+
+143
+
+Desenvolvimento de programas de computador sob encomenda (Código CNAE:6201501)
+
+144
+
+Desenvolvimento e licenciamento de programas de computador customizáveis (Código CNAE:6202300)
+
+145
+
+Desenvolvimento e licenciamento de programas de computador não customizáveis (Código CNAE:6203100), desde que não haverá o desenvolvimento de *softwares* que realizam ou influenciam diretamente no diagnóstico, monitoramento, terapia (tratamento) para a saúde.
+
+146
+
+*Design* de interiores (Código CNAE:7410202)
+
+147
+
+*Design* de produto (Código CNAE:7410203)
+
+148
+
+Edição de cadastros, listas e outros produtos gráficos (Código CNAE:5819100)
+
+149
+
+Edição de jornais diários (Código CNAE:5812301)
+
+150
+
+Edição de jornais não diários (Código CNAE:5812302)
+
+151
+
+Edição de livros (Código CNAE:5811500)
+
+152
+
+Edição de revistas (Código CNAE:5813100)
+
+153
+
+Ensino de arte e cultura não especificado anteriormente (Código CNAE:8592999)
+
+154
+
+Ensino de artes cênicas, exceto dança (Código CNAE:8592902)
+
+155
+
+Ensino de dança (Código CNAE:8592901)
+
+156
+
+Ensino de esportes (Código CNAE:8591100)
+
+157
+
+Ensino de idiomas (Código CNAE:8593700)
+
+158
+
+Ensino de música (Código CNAE:8592903)
+
+159
+
+Envasamento e empacotamento sob contrato (Código CNAE:8292000), desde que não haverá, no exercício da atividade, o envasamento, fracionamento e/ou empacotamento de produtos relacionados a saúde, tais como: engarrafamento de produtos líquidos, incluindo alimentos e bebidas, empacotamento de sólidos, envasamento em aerossóis ou empacotamento de preparados farmacêuticos.
+
+160
+
+Exploração de jogos de sinuca, bilhar e similares (Código CNAE:9329803)
+
+161
+
+Exploração de jogos eletrônicos recreativos (Código CNAE:9329804)
+
+162
+
+Fabricação de acessórios do vestuário, exceto para segurança e proteção (Código CNAE:1414200)
+
+163
+
+Fabricação de artefatos de couro não especificados anteriormente (Código CNAE:1529700)
+
+164
+
+Fabricação de artefatos têxteis para uso doméstico (Código CNAE:1351100)
+
+165
+
+Fabricação de artigos de vidro (Código CNAE:2319200), desde que o resultado do exercício da atividade econômica não é um produto industrial, não haverá operações de espelhação. E não haverá produção de peças de fibra de vidro.
+
+166
+
+Fabricação de artigos do vestuário, produzidos em malharias e tricotagens, exceto meias (Código CNAE:1422300)
+
+167
+
+Fabricação de artigos ópticos (Código CNAE:3250707), desde que não haverá fabricação de produto para saúde.
+
+168
+
+Fabricação de artigos para viagem, bolsas e semelhantes de qualquer material (Código CNAE:1521100), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados).
+
+169
+
+Fabricação de biscoitos e bolachas (Código CNAE:1092900), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.
+
+170
+
+Fabricação de calçados de couro (Código CNAE:1531901), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados).
+
+171
+
+Fabricação de escovas, pincéis e vassouras (Código CNAE:3291400), desde que não haverá no exercício a fabricação de escova dental.
+
+172
+
+Fabricação de especiarias, molhos, temperos e condimentos (Código CNAE:1095300), desde que o resultado do exercício da atividade econômica não será diferente de especiaria ou condimento desidratado produzido artesanalmente.
+
+173
+
+Fabricação de frutas cristalizadas, balas e semelhantes (Código CNAE:1093702), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.
+
+174
+
+Fabricação de gelo comum (Código CNAE:1099604), desde que o gelo fabricado não será para consumo humano e não entrará em contato com alimentos e bebidas.
+
+175
+
+Fabricação de massas alimentícias (Código CNAE:1094500), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.
+
+176
+
+Fabricação de meias (Código CNAE:1421500)
+
+177
+
+Fabricação de outros produtos têxteis não especificados anteriormente (Código CNAE:1359600)
+
+178
+
+Fabricação de produtos de padaria e confeitaria com predominância de produção própria (Código CNAE:1091102)
+
+179
+
+Fabricação de produtos derivados do cacau e de chocolates (Código CNAE:1093701), desde que o resultado do exercício da atividade econômica não será diferente de produto artesanal.
+
+180
+
+Fabricação de tecidos especiais, inclusive artefatos (Código CNAE:1354500), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados).
+
+181
+
+Fabricação de velas, inclusive decorativas (Código CNAE:3299006), desde que não haverá no exercício da atividade a fabricação de velas, sebo e/ou estearina utilizadas como cosmético ou saneante.
+
+182
+
+Facção de peças do vestuário, exceto roupas íntimas (Código CNAE:1412603)
+
+183
+
+Facção de roupas íntimas (Código CNAE:1411802)
+
+184
+
+Facção de roupas profissionais (Código CNAE:1413403)
+
+185
+
+Filmagem de festas e eventos (Código CNAE:7420004)
+
+186
+
+Fotocópias (Código CNAE:8219901)
+
+187
+
+Gestão e administração da propriedade imobiliária (Código CNAE:6822600)
+
+188
+
+Horticultura, exceto morango (Código CNAE:121101)
+
+189
+
+Laboratórios fotográficos (Código CNAE:7420003)
+
+190
+
+Lanchonetes, casas de chá, de sucos e similares (Código CNAE:5611203)
+
+191
+
+Manutenção e reparação de aparelhos e instrumentos de medida, teste e controle (Código CNAE:3312102)
+
+192
+
+Manutenção e reparação de baterias e acumuladores elétricos, exceto para veículos (Código CNAE:3313902)
+
+193
+
+Manutenção e reparação de equipamentos e instrumentos ópticos (Código CNAE:3312104)
+
+194
+
+Manutenção e reparação de equipamentos hidráulicos e pneumáticos, exceto válvulas (Código CNAE:3314702)
+
+195
+
+Manutenção e reparação de máquinas de escrever, calcular e de outros equipamentos não eletrônicos para escritório (Código CNAE:3314709)
+
+196
+
+Manutenção e reparação de máquinas e aparelhos de refrigeração e ventilação para uso industrial e comercial (Código CNAE:3314707)
+
+197
+
+Manutenção e reparação de máquinas motrizes não elétricas (Código CNAE:3314701)
+
+198
+
+Manutenção e reparação de máquinas, aparelhos e equipamentos para instalações térmicas (Código CNAE:3314706)
+
+199
+
+Manutenção e reparação de máquinas-ferramenta (Código CNAE:3314713)
+
+200
+
+Manutenção e reparação de motocicletas e motonetas (Código CNAE:4543900)
+
+201
+
+Manutenção e reparação de tratores agrícolas (Código CNAE:3314712)
+
+202
+
+Manutenção e reparação de válvulas industriais (Código CNAE:3314703)
+
+203
+
+*Marketing* direto (Código CNAE:7319003)
+
+204
+
+Operadores turísticos (Código CNAE:7912100)
+
+205
+
+Outras atividades profissionais, científicas e técnicas não especificadas anteriormente (Código CNAE:7490199)
+
+206
+
+Outros representantes comerciais e agentes do comércio especializado em produtos não especificados anteriormente (Código CNAE:4618499)
+
+207
+
+Outros serviços de acabamento em fios, tecidos, artefatos têxteis e peças do vestuário (Código CNAE:1340599)
+
+208
+
+Outros transportes rodoviários não especificados anteriormente (Código CNAE:4929999)
+
+209
+
+Padaria e confeitaria com predominância de revenda (Código CNAE:4721102)
+
+210
+
+Pensões (alojamento) (Código CNAE:5590603)
+
+211
+
+Peritos e avaliadores de seguros (Código CNAE:6621501)
+
+212
+
+Pesquisa e desenvolvimento experimental em ciências físicas e naturais (Código CNAE:7210000)
+
+213
+
+Pesquisa e desenvolvimento experimental em ciências sociais e humanas (Código CNAE:7220700)
+
+214
+
+Pesquisas de mercado e de opinião pública (Código CNAE:7320300)
+
+215
+
+Planos de auxílio-funeral (Código CNAE:6511102)
+
+216
+
+Portais, provedores de conteúdo e outros serviços de informação na internet (Código CNAE:6319400)
+
+217
+
+Preparação de documentos e serviços especializados de apoio administrativo não especificados anteriormente (Código CNAE:8219999)
+
+218
+
+Preparação e fiação de fibras de algodão (Código CNAE:1311100)
+
+219
+
+Preparação e fiação de fibras têxteis naturais, exceto algodão (Código CNAE:1312000)
+
+220
+
+Produção de espetáculos circenses, de marionetes e similares (Código CNAE:9001904)
+
+221
+
+Produção de espetáculos de dança (Código CNAE:9001903)
+
+222
+
+Produção de filmes para publicidade (Código CNAE:5911102)
+
+223
+
+Produção e promoção de eventos esportivos (Código CNAE:9319101)
+
+224
+
+Produção musical (Código CNAE:9001902)
+
+225
+
+Produção teatral (Código CNAE:9001901)
+
+226
+
+Promoção de vendas (Código CNAE:7319002)
+
+227
+
+Recarga de cartuchos para equipamentos de informática (Código CNAE:4751202)
+
+228
+
+Recuperação de materiais metálicos, exceto alumínio (Código CNAE:3831999)
+
+229
+
+Recuperação de materiais plásticos (Código CNAE:3832700)
+
+230
+
+Reparação de artigos do mobiliário (Código CNAE:9529105)
+
+231
+
+Reparação de bicicletas, triciclos e outros veículos não motorizados (Código CNAE:9529104)
+
+232
+
+Reparação de calçados, bolsas e artigos de viagem (Código CNAE:9529101)
+
+233
+
+Reparação de jóias (Código CNAE:9529106)
+
+234
+
+Reparação de relógios (Código CNAE:9529103)
+
+235
+
+Reparação e manutenção de computadores e de equipamentos periféricos (Código CNAE:9511800)
+
+236
+
+Reparação e manutenção de equipamentos de comunicação (Código CNAE:9512600)
+
+237
+
+Reparação e manutenção de equipamentos eletroeletrônicos de uso pessoal e doméstico (Código CNAE:9521500)
+
+238
+
+Reparação e manutenção de outros objetos e equipamentos pessoais e domésticos não especificados anteriormente (Código CNAE:9529199)
+
+239
+
+Representantes comerciais e agentes do comércio de combustíveis, minerais, produtos siderúrgicos e químicos (Código CNAE:4612500)
+
+240
+
+Representantes comerciais e agentes do comércio de eletrodomésticos, móveis e artigos de uso doméstico (Código CNAE:4615000)
+
+241
+
+Representantes comerciais e agentes do comércio de instrumentos e materiais odonto-médico-hospitalares (Código CNAE:4618402)
+
+242
+
+Representantes comerciais e agentes do comércio de jornais, revistas e outras publicações (Código CNAE:4618403)
+
+243
+
+Representantes comerciais e agentes do comércio de madeira, material de construção e ferragens (Código CNAE:4613300)
+
+244
+
+Representantes comerciais e agentes do comércio de máquinas, equipamentos, embarcações e aeronaves (Código CNAE:4614100)
+
+245
+
+Representantes comerciais e agentes do comércio de matérias-primas agrícolas e animais vivos (Código CNAE:4611700)
+
+246
+
+Representantes comerciais e agentes do comércio de medicamentos, cosméticos e produtos de perfumaria (Código CNAE:4618401)
+
+247
+
+Representantes comerciais e agentes do comércio de mercadorias em geral não especializado (Código CNAE:4619200)
+
+248
+
+Representantes comerciais e agentes do comércio de motocicletas e motonetas, peças e acessórios (Código CNAE:4542101)
+
+249
+
+Representantes comerciais e agentes do comércio de peças e acessórios novos e usados para veículos automotores (Código CNAE:4530706)
+
+250
+
+Representantes comerciais e agentes do comércio de produtos alimentícios, bebidas e fumo (Código CNAE:4617600)
+
+251
+
+Representantes comerciais e agentes do comércio de têxteis, vestuário, calçados e artigos de viagem (Código CNAE:4616800)
+
+252
+
+Representantes comerciais e agentes do comércio de veículos automotores (Código CNAE:4512901)
+
+253
+
+Restauração de obras de arte (Código CNAE:9002702)
+
+254
+
+Restauração e conservação de lugares e prédios históricos (Código CNAE:9102302)
+
+255
+
+Restaurantes e Similares (Código CNAE:5611201)
+
+256
+
+Salas de acesso à internet (Código CNAE:8299707)
+
+257
+
+Serviços advocatícios (Código CNAE:6911701)
+
+258
+
+Serviços combinados de escritório e apoio administrativo (Código CNAE:8211300)
+
+259
+
+Serviços de acabamentos gráficos, exceto encadernação e plastificação (Código CNAE:1822999)
+
+260
+
+Serviços de adestramento de cães de guarda (Código CNAE:8011102)
+
+261
+
+Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias (Código CNAE:7490103)
+
+262
+
+Serviços de alinhamento e balanceamento de veículos automotores (Código CNAE:4520004)
+
+263
+
+Serviços de arquitetura (Código CNAE:7111100)
+
+264
+
+Serviços de borracharia para veículos automotores (Código CNAE:4520006)
+
+265
+
+Serviços de capotaria (Código CNAE:4520008)
+
+266
+
+Serviços de cartografia, topografia e geodésia (Código CNAE:7119701)
+
+267
+
+Serviços de desenho técnico relacionados à arquitetura e engenharia (Código CNAE:7119703)
+
+268
+
+Serviços de dublagem (Código CNAE:5912001)
+
+269
+
+Serviços de encadernação e plastificação (Código CNAE:1822901)
+
+270
+
+Serviços de engenharia (Código CNAE:7112000)
+
+271
+
+Serviços de gravação de carimbos, exceto confecção (Código CNAE:8299703)
+
+272
+
+Serviços de instalação, manutenção e reparação de acessórios para veículos automotores (Código CNAE:4520007)
+
+273
+
+Serviços de lanternagem ou funilaria e pintura de veículos automotores (Código CNAE:4520002)
+
+274
+
+Serviços de lavagem, lubrificação e polimento de veículos automotores (Código CNAE:4520005)
+
+275
+
+Serviços de manutenção e reparação elétrica de veículos automotores (Código CNAE:4520003)
+
+276
+
+Serviços de manutenção e reparação mecânica de veículos automotores (Código CNAE:4520001)
+
+277
+
+Serviços de microfilmagem (Código CNAE:7420005)
+
+278
+
+Serviços de mixagem sonora em produção audiovisual (Código CNAE:5912002)
+
+279
+
+Serviços de montagem de móveis de qualquer material (Código CNAE:3329501)
+
+280
+
+Serviços de organização de feiras, congressos, exposições e festas (Código CNAE:8230001)
+
+281
+
+Serviços de prótese dentária (Código CNAE:3250706)
+
+282
+
+Serviços de tradução, interpretação e similares (Código CNAE:7490101)
+
+283
+
+Serviços de tratamento e revestimento em metais (Código CNAE:2539002)
+
+284
+
+Serviços de usinagem, tornearia e solda (Código CNAE:2539001), desde que a área construída do empreendimento não ultrapassa 2.500 m² (dois mil e quinhentos metros quadrados). E não haverá operações de jateamento (jato de areia).
+
+285
+
+Suporte técnico, manutenção e outros serviços em tecnologia da informação (Código CNAE:6209100)
+
+286
+
+Testes e análises técnicas (Código CNAE:7120100), desde que não haverá no exercício da atividade a análise de produto sujeito à vigilância sanitária.
+
+287
+
+Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet (Código CNAE:6311900)
+
+288
+
+Treinamento em desenvolvimento profissional e gerencial (Código CNAE:8599604)
+
+289
+
+Treinamento em informática (Código CNAE:8599603)
+
+290
+
+*Web design* (Código CNAE:6201502)

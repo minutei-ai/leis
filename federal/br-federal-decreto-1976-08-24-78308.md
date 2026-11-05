@@ -1,5 +1,3 @@
-###DEC-078308-0-000-24-08-1976@@@
-
 DECRETO Nº 78.308, DE 24 DE AGOSTO DE 1976.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Município de Cabo Frio, Estado do Rio de Janeiro.

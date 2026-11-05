@@ -1,5 +1,3 @@
-###DEC-077179-0-000-16-02-1976@@@
-
 DECRETO Nº 77.179, DE 16 DE FEVEREIRO DE 1976.
 
 Autoriza o funcionamento do Curso de Engenharia Mecânica do Instituto de Engenharia Paulista, com sede na Cidade de São Paulo, Estado de São Paulo.

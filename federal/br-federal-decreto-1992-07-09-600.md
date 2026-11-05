@@ -1,5 +1,3 @@
-###DEC-000600-0-000-09-07-1992@@@
-
 DECRETO Nº 600, DE 9 DE JULHO DE 1992
 
 Dispõe sobre a Promoção de Oficiais do Quadro de Oficiais Especialistas da Aeronáutica -QOEA.

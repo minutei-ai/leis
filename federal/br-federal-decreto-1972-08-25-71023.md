@@ -1,5 +1,3 @@
-###DEC-071023-0-000-25-08-1972@@@
-
 DECRETO Nº 71.023, DE 25 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Administração de Empresas Luzwell, de São Paulo -SP.

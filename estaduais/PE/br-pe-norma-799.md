@@ -834,7 +834,8 @@ ANTÔNIO BARBOSA DE SIQUEIRA NETO
 
 FRANCISCO TADEU BARBOSA DE ALENCAR
 
-**<br>
+**
+
 **
 
 **ANEXO I**
@@ -941,7 +942,8 @@ f) registro, análise e consolidação das gestões orçamentária, financeira e
 
 \- executar outras atividades correlatas que forem determinadas pela autoridade fazendária competente. 
 
-**<br>
+**
+
 **
 
 **ANEXO II**
@@ -950,40 +952,70 @@ f) registro, análise e consolidação das gestões orçamentária, financeira e
 
 (Valores alterados art.2º da [Lei Complementar nº 153, de 26 de março de 2010](https://legis.alepe.pe.gov.br/?lc1532010). Novo valor: reajuste de 10%, a partir de 1º/06/2010.) (Valores alterados pelo art. 2º da [Lei Complementar nº 212 de 31 de outubro de 2012.](https://legis.alepe.pe.gov.br/?lc2122012) Novo valor: reajuste de 9%, a partir de 1º/07/2012 e 1º/06/2013 e reajuste de 10%, a partir de 1º/06/2014.)   
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" width="445" style="width:333.45pt;margin-left:54.55pt;border-collapse:collapse;border:
- none"><tbody><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><h1><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif;
-  font-weight:normal">Referência</span></h1></td><td width="46%" style="width:46.96%;border:solid black 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">Vencimento-base (R$)</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">1</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3.650,77</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">2</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3.849,90</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">3</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.049,03</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.248,16</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.447,30</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.646,43</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">7</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">4.845,56</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">8</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.044,69</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">9</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.243,83</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">10</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.442,96</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">11</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.642,09</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">12</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">5.841,23</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">13</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6.040,36</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">14</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6,239,49</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">15</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6.438,63</span></p></td></tr><tr><td width="53%" style="width:53.04%;border:solid black 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">16</span></p></td><td width="46%" style="width:46.96%;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="margin-right:4.55pt;text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">6.637,76</span></p></td></tr></tbody></table>
+# Referência
+
+Vencimento-base (R$)
+
+1
+
+3.650,77
+
+2
+
+3.849,90
+
+3
+
+4.049,03
+
+4
+
+4.248,16
+
+5
+
+4.447,30
+
+6
+
+4.646,43
+
+7
+
+4.845,56
+
+8
+
+5.044,69
+
+9
+
+5.243,83
+
+10
+
+5.442,96
+
+11
+
+5.642,09
+
+12
+
+5.841,23
+
+13
+
+6.040,36
+
+14
+
+6,239,49
+
+15
+
+6.438,63
+
+16
+
+6.637,76

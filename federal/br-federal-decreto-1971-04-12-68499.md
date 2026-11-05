@@ -1,5 +1,3 @@
-###DEC-068499-0-000-12-04-1971@@@
-
 DECRETO Nº 68.499 - DE 12 DE ABRIL DE 1971.
 
 Declara de utilidade pública o Lar aos Meninos, com sede no Estado da Guanabara.

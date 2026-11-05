@@ -1,5 +1,3 @@
-###DEC-006249-0-000-01-11-2007@@@
-
 DECRETO Nº 6.249, DE 1º DE NOVEMBRO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil em Liubliana, na República da Eslovênia.                      
@@ -19,5 +17,3 @@ Dispõe sobre a criação da Embaixada do Brasil em Liubliana, na República da 
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 5.11.2007

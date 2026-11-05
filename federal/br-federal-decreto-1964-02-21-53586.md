@@ -1,5 +1,3 @@
-###DEC-053586-0-000-21-02-1964@@@
-
 DECRETO Nº 53.586, DE 21 DE FEVEREIRO DE 1964.
 
 Institui no Ministério da Indústria e Comércio o Grupo Executivo da Indústria de Calçados (GECAL) e dá outras providências.

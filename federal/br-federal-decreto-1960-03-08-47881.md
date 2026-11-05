@@ -1,5 +1,3 @@
-###DEC-047881-0-000-08-03-1960@@@
-
 DECRETO Nº 47.881, DE 8 DE MARÇO DE 1960.
 
 Outorga a Comissão Estadual de Energia Elétrica, do Estado do Rio Grande do Sul, concessão para distribuir energia elétrica no município de Santo Antônio, Rio Grande do Sul.

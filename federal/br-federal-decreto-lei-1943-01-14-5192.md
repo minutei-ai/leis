@@ -1,5 +1,3 @@
-###DEL-005192-0-000-14-01-1943@@@
-
 DECRETO‑LEI N. 5.192 – DE 14 DE JANEIRO DE 1943
 
 Modifica o art. 3º do decreto‑lei n. 5.089, de 15 de dezembro de 1942

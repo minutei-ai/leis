@@ -1,5 +1,3 @@
-###MPV-002034-0-043-25-08-2000@@@
-
 medida provisória Nº 2.034-43, de 25 de agosto de 2000.
 
 Dispõe sobre a concessão de financiamento vinculado a exportação de bens ou serviços nacionais, e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-051853-0-000-19-03-1963@@@
-
 DECRETO Nº 51.853, DE 19 DE MARÇO DE 1963.
 
 Altera o Decreto nº 746, de 19 de março de 1962.

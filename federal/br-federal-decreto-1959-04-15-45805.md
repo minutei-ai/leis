@@ -1,5 +1,3 @@
-###DEC-045805-0-000-15-04-1959@@@
-
 DECRETO Nº 45.805, DE 15 DE ABRIL DE 1959.
 
 Altera a lotação numerária de repartições do Ministério da Aeronáutica.

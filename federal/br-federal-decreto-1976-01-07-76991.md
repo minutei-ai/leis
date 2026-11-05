@@ -1,5 +1,3 @@
-###DEC-076991-0-000-07-01-1976@@@
-
 DECRETO Nº 76.991, DE 7 DE JANEIRO DE 1976.
 
 Dispõe sobre a estrutura da Superintendência da Zona Franca de Manaus - SUFRAMA.

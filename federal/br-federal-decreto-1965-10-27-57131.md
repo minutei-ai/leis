@@ -1,5 +1,3 @@
-###DEC-057131-0-000-27-10-1965@@@
-
 DECRETO Nº 57.131, DE 27 DE OUTUBRO DE 1965.
 
 Suspende as atividades da Associação dos Cabos e Soldados das Polícias Militares do Brasil.

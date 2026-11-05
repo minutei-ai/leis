@@ -1,5 +1,3 @@
-###DEC-080566-0-000-17-10-1977@@@
-
 Decreto nº 80.566, de 17 de outubro de 1977.
 
 Dispõe sobre a Estrutura Básica do Departamento Nacional de Estradas de Rodagem e dá outras providências.

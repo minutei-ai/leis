@@ -1,5 +1,3 @@
-###DEC-069985-0-000-20-01-1972@@@
-
 DECRETO Nº 69.985, DE 20 DE JANEIRO DE 1972.
 
 Autoriza o funcionamento do Curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Administrativas e Contábeis de São Sebastião do Paraíso, em Minas Gerais.

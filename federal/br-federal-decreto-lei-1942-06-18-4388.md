@@ -1,5 +1,3 @@
-###DEL-004388-0-000-18-06-1942@@@
-
 DECRETO-LEI N. 4.388 – DE 18 JUNHO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria a Comércio o crédito especial de 11.598:751$8, para pagamento ao Instituto de Previdência e Assistência dos Servidores do Estado, e dá outras providências.

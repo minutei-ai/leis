@@ -1,5 +1,3 @@
-###DEC-051098-0-000-01-08-1961@@@
-
 decreto nº 51.098, de 1º de agôsto de 1961.
 
 Declara públicas, de uso comum do domínio do Estado do Goiás, as águas do rio Bocaína.

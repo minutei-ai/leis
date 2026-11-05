@@ -1,5 +1,3 @@
-###DEC-005204-0-000-13-09-2004@@@
-
 DECRETO Nº 5.204, DE 13 DE SETEMBRO DE 2004
 
 Dispõe sobre a substituição de Ministros de Estado em suas ausências do território nacional, nos seus afastamentos ou em outros impedimentos legais ou regulamentares.

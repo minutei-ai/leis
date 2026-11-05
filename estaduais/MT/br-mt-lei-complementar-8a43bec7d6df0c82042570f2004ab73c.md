@@ -1,9 +1,15 @@
-**LEI COMPLEMENTAR N° 232, DE 21 DE DEZEMBRO DE 2005**<br>
-Autor: Poder Executivo<br>
-. Consolidada até LC 412/10.<br>
-. Publicada no DOE de 21.12.05, p. 01.<br>
-. Republicada no DOE de 12.01.06, p. 01.<br>
-. Alterada pelas LC [243/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE), [267/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b21ebd4345343e03042572650068fd78?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20267%2C%20DE%2029), [412/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/f4313bb8e89efc33842577f90040f773?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20412%2C%20DE%2013%20DE)<br>
+**LEI COMPLEMENTAR N° 232, DE 21 DE DEZEMBRO DE 2005**
+
+Autor: Poder Executivo
+
+. Consolidada até LC 412/10.
+
+. Publicada no DOE de 21.12.05, p. 01.
+
+. Republicada no DOE de 12.01.06, p. 01.
+
+. Alterada pelas LC [243/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE), [267/06](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b21ebd4345343e03042572650068fd78?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20267%2C%20DE%2029), [412/10](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/f4313bb8e89efc33842577f90040f773?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20412%2C%20DE%2013%20DE)
+
 . Regulamentado o inciso V do art. 9º desta LC, pelo Decreto nº 7.677/06 (DOE 30/05/2006).
 
 **Altera o Código Estadual do Meio Ambiente, e dá outras providências.**
@@ -12,16 +18,22 @@ Autor: Poder Executivo<br>
 
 **Art. 1º** Os dispositivos da [Lei Complementar nº 38](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/589a53ac84391cc4042567c100689c20?OpenDocument#LC%2038%2F95), de 21 de novembro de 1995, adiante indicados, passam a vigorar com a seguinte redação:
 
-“Art. 2º O Sistema Estadual do Meio Ambiente tem como finalidade integrar os órgãos e instrumentos da Política Estadual do Meio Ambiente, sob a gestão da Secretaria de Estado do Meio Ambiente - SEMA, sendo composto por:<br>
-I - Conselho Estadual do Meio Ambiente - CONSEMA;<br>
-II - Conselho Estadual de Recursos Hídricos - CEHIDRO;<br>
-III - órgãos ou entidades integrantes da Administração Pública Estadual, ou a ela vinculados, cujas atividades estejam associadas às de preservação da qualidade ou de disciplinamento do uso dos recursos ambientais, ou sejam responsáveis pela execução de programas ou projetos de incentivos governamentais, de financiamentos subsidiados ou de controle e fiscalização das atividades potencialmente degradadoras da qualidade ambiental;<br>
+“Art. 2º O Sistema Estadual do Meio Ambiente tem como finalidade integrar os órgãos e instrumentos da Política Estadual do Meio Ambiente, sob a gestão da Secretaria de Estado do Meio Ambiente - SEMA, sendo composto por:
+
+I - Conselho Estadual do Meio Ambiente - CONSEMA;
+
+II - Conselho Estadual de Recursos Hídricos - CEHIDRO;
+
+III - órgãos ou entidades integrantes da Administração Pública Estadual, ou a ela vinculados, cujas atividades estejam associadas às de preservação da qualidade ou de disciplinamento do uso dos recursos ambientais, ou sejam responsáveis pela execução de programas ou projetos de incentivos governamentais, de financiamentos subsidiados ou de controle e fiscalização das atividades potencialmente degradadoras da qualidade ambiental;
+
 IV - órgãos ou entidades municipais responsáveis pelo controle e fiscalização dessas atividades, nas suas respectivas áreas de jurisdição."
 
 Art. 3º (...)
 
-(...)<br>
-IX - decidir, como última instância administrativa em grau de recurso, mediante depósito prévio, sobre as penalidades e multas impostas por infrações administrativas ambientais, conforme dispuser o regulamento;<br>
+(...)
+
+IX - decidir, como última instância administrativa em grau de recurso, mediante depósito prévio, sobre as penalidades e multas impostas por infrações administrativas ambientais, conforme dispuser o regulamento;
+
 X - apreciar mensalmente o balancete do Fundo Estadual do Meio Ambiente, bem como o balanço anual, apresentados pelo seu Diretor-Executivo.
 
 Art. 4º (...)
@@ -40,53 +52,86 @@ Art. 4º (...)
 
 § 8º Os conselheiros terão direito ao pagamento de despesas com locomoção e ao recebimento de diárias, quando necessário, custeadas pelo FEMAM.
 
-Art. 6º Compete à Secretaria de Estado do Meio Ambiente - SEMA:<br>
-I - formular, propor e executar a política estadual do meio ambiente;<br>
-II - exercer o poder de polícia administrativa ambiental, no âmbito do Estado de Mato Grosso, através de:<br>
-a) licenciamento ambiental das atividades utilizadoras dos recursos ambientais, efetiva ou potencialmente poluidoras ou degradadoras do meio ambiente;<br>
-b) fiscalização e aplicação das penalidades por infração à legislação de proteção ambiental;<br>
-c) controle e monitoramento das atividades de exploração dos recursos minerais, hídricos, florestais e faunísticos;<br>
-III - estudar, formular e propor as normas necessárias ao zoneamento ambiental;<br>
-IV - promover o levantamento, organização e manutenção do cadastro estadual de atividades que alteram o meio ambiente;<br>
-V - promover o monitoramento dos recursos ambientais estaduais e das ações antrópicas sobre os mesmos;<br>
-VI - desenvolver pesquisas e estudos técnicos que subsidiem o planejamento das atividades que envolvam a conservação e a preservação dos recursos ambientais e o estabelecimento de critérios de exploração e manejo dos mesmos;<br>
-VII - adotar medidas visando ao controle, conservação e preservação dos recursos ambientais e, quando julgar necessário, para proteção de bens de valor científico e cultural;<br>
-VIII - elaborar e propor a edição de normas que julgar necessárias à sua atuação no controle, conservação e preservação do meio ambiente, ouvindo o CONSEMA e o CEHIDRO nas matérias relevantes para a política estadual de meio ambiente e de recursos hídricos, respectivamente.<br>
-IX - elaborar e propor ao CONSEMA e ao CEHIDRO a edição de resoluções que julgar necessárias à sua atuação no controle, conservação e preservação do meio ambiente;<br>
-X - propor a criação de unidades de conservação estadual, ouvido o CONSEMA;<br>
-XI - implantar, administrar e fiscalizar as Unidades de Conservação Estaduais;<br>
-XII - elaborar e divulgar inventários e censos faunísticos e florísticos periódicos, considerando principalmente as espécies raras e endêmicas, vulneráveis ou em perigo de extinção, objetivando sua perpetuação;<br>
-XIII - cooperar com os órgãos federais na fiscalização ambiental das terras indígenas;<br>
+Art. 6º Compete à Secretaria de Estado do Meio Ambiente - SEMA:
+
+I - formular, propor e executar a política estadual do meio ambiente;
+
+II - exercer o poder de polícia administrativa ambiental, no âmbito do Estado de Mato Grosso, através de:
+
+a) licenciamento ambiental das atividades utilizadoras dos recursos ambientais, efetiva ou potencialmente poluidoras ou degradadoras do meio ambiente;
+
+b) fiscalização e aplicação das penalidades por infração à legislação de proteção ambiental;
+
+c) controle e monitoramento das atividades de exploração dos recursos minerais, hídricos, florestais e faunísticos;
+
+III - estudar, formular e propor as normas necessárias ao zoneamento ambiental;
+
+IV - promover o levantamento, organização e manutenção do cadastro estadual de atividades que alteram o meio ambiente;
+
+V - promover o monitoramento dos recursos ambientais estaduais e das ações antrópicas sobre os mesmos;
+
+VI - desenvolver pesquisas e estudos técnicos que subsidiem o planejamento das atividades que envolvam a conservação e a preservação dos recursos ambientais e o estabelecimento de critérios de exploração e manejo dos mesmos;
+
+VII - adotar medidas visando ao controle, conservação e preservação dos recursos ambientais e, quando julgar necessário, para proteção de bens de valor científico e cultural;
+
+VIII - elaborar e propor a edição de normas que julgar necessárias à sua atuação no controle, conservação e preservação do meio ambiente, ouvindo o CONSEMA e o CEHIDRO nas matérias relevantes para a política estadual de meio ambiente e de recursos hídricos, respectivamente.
+
+IX - elaborar e propor ao CONSEMA e ao CEHIDRO a edição de resoluções que julgar necessárias à sua atuação no controle, conservação e preservação do meio ambiente;
+
+X - propor a criação de unidades de conservação estadual, ouvido o CONSEMA;
+
+XI - implantar, administrar e fiscalizar as Unidades de Conservação Estaduais;
+
+XII - elaborar e divulgar inventários e censos faunísticos e florísticos periódicos, considerando principalmente as espécies raras e endêmicas, vulneráveis ou em perigo de extinção, objetivando sua perpetuação;
+
+XIII - cooperar com os órgãos federais na fiscalização ambiental das terras indígenas;
+
 XIV - celebrar convênios e/ou termos de cooperação técnica com órgãos da Administração Pública direta e indireta, federal, estadual e municipal, bem como pessoas jurídicas, nacionais e internacionais, que tenham por objeto ações de natureza ambiental.
 
 Art. 7º Compete à Polícia Militar especializada, em conjunto com a SEMA, exercer a fiscalização e a autuação por infração à legislação de proteção ambiental.
 
 Art. 8º Fica criado o Fundo Estadual do Meio Ambiente - FEMAM com o objetivo de financiar a implementação de ações visando a restauração ou reconstituição de bens lesados, a defesa do meio ambiente, a regularização de unidades de conservação, as políticas florestal e de recursos hídricos, a educação ambiental, as despesas com custeio e investimentos, incluindo encargos de capacitação, aperfeiçoamento, desenvolvimento e modernização de atividades ambientais.
 
-Art. 9º Constituem recursos financeiros do FEMAM:<br>
-I - receitas decorrentes de compensações ambientais de que trata o art. 36 da Lei Federal nº 9.985, de 18 de julho de 2000;<br>
-II - transferências da União, de Estados ou de países vizinhos, destinados à execução de planos e programas de recursos hídricos de interesse comum;<br>
-III - resultados da cobrança pelo uso da água;<br>
-IV - receitas provenientes de condenação judicial;<br>
+Art. 9º Constituem recursos financeiros do FEMAM:
+
+I - receitas decorrentes de compensações ambientais de que trata o art. 36 da Lei Federal nº 9.985, de 18 de julho de 2000;
+
+II - transferências da União, de Estados ou de países vizinhos, destinados à execução de planos e programas de recursos hídricos de interesse comum;
+
+III - resultados da cobrança pelo uso da água;
+
+IV - receitas provenientes de condenação judicial;
+
 V – 40% (quarenta por cento) do total das receitas provenientes de compensação financeira que o Estado receber em decorrência dos aproveitamentos hidroenergéticos ou pela exploração de petróleo, gás natural e recursos minerais, no exercício de 2006 e 50% (cinqüenta por cento) a partir do exercício de 2007, nos termos da legislação federal; **_(Nova redação dada pela LC_** [**_267/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/b21ebd4345343e03042572650068fd78?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20267%2C%20DE%2029)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 V - 40% (quarenta por cento) do total das receitas provenientes de compensação financeira que o Estado receber em decorrência dos aproveitamentos hidroenergéticos ou pela exploração de petróleo, gás natural e recursos minerais, nos termos da legislação federal; ficando garantido à Secretaria de Estado de Indústria, Comércio, Minas e Energia- SICME o recebimento dos 60% (sessenta por cento) que integralizam a receita total;
 
-VI - valor definido em regulamento de até 7% (sete por cento) do benefício fiscal efetivamente utilizado por pessoas físicas ou jurídicas previsto na Lei nº 7.958, de 25 de setembro de 2003, decorrentes do Programa de Desenvolvimento Ambiental - PRODEA;<br>
-VII - receitas decorrentes da aplicação de sanções administrativas impostas por infrações ambientais;<br>
-VIII - recursos oriundos de convênios, termos de ajustamento de conduta, consórcios e acordos realizados com pessoas físicas ou jurídicas, nacionais ou estrangeiras;<br>
-IX - recursos arrecadados em licitações de produtos apreendidos;<br>
-X - receitas provenientes de taxas arrecadadas e multas inerentes a atividade ambiental;<br>
-XI - os provenientes de dotações consignadas no orçamento do Estado de Mato Grosso e os créditos adicionais;<br>
-XII - bens e direitos, sob qualquer forma e a qualquer título, integralizados ao Fundo;<br>
-XIII - os provenientes de dotações orçamentárias e outras formas de repasses que lhe sejam destinados pela União e por municípios conveniados com o Estado de Mato Grosso, em razão de programas conjuntos de desenvolvimento de atividades estratégicas;<br>
-XIV - doações a qualquer título;<br>
+VI - valor definido em regulamento de até 7% (sete por cento) do benefício fiscal efetivamente utilizado por pessoas físicas ou jurídicas previsto na Lei nº 7.958, de 25 de setembro de 2003, decorrentes do Programa de Desenvolvimento Ambiental - PRODEA;
+
+VII - receitas decorrentes da aplicação de sanções administrativas impostas por infrações ambientais;
+
+VIII - recursos oriundos de convênios, termos de ajustamento de conduta, consórcios e acordos realizados com pessoas físicas ou jurídicas, nacionais ou estrangeiras;
+
+IX - recursos arrecadados em licitações de produtos apreendidos;
+
+X - receitas provenientes de taxas arrecadadas e multas inerentes a atividade ambiental;
+
+XI - os provenientes de dotações consignadas no orçamento do Estado de Mato Grosso e os créditos adicionais;
+
+XII - bens e direitos, sob qualquer forma e a qualquer título, integralizados ao Fundo;
+
+XIII - os provenientes de dotações orçamentárias e outras formas de repasses que lhe sejam destinados pela União e por municípios conveniados com o Estado de Mato Grosso, em razão de programas conjuntos de desenvolvimento de atividades estratégicas;
+
+XIV - doações a qualquer título;
+
 XV - outras receitas destinadas ao FEMAM.
 
 § 1º A declaração a que se refere o _caput_ deste artigo deverá ser subscrita pelo proprietário e seu responsável técnico, devendo ser protocolizada junto à SEMA no prazo máximo de 60 (sessenta) dias a contar da data da publicação desta lei complementar. **_(Nova redação dada pela LC_** [**_243/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 § 1º O produto arrecadado será repassado à conta específica do FEMAM no momento da realização da receita.
 
 § 2º As receitas decorrentes de compensações ambientais serão aplicadas em consonância com a ordem de prioridades definida na legislação federal.
@@ -109,14 +154,22 @@ Art. 10 O FEMAM será presidido pelo Secretário de Estado do Meio Ambiente e te
 
 Art. 11 (...)
 
-(...)<br>
-VIII - as auditorias ambientais;<br>
-IX - a educação ambiental;<br>
-X - o Cadastro Técnico Estadual de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais;<br>
-XI - o Plano Estadual de Recursos Hídricos;<br>
-XII - o enquadramento dos corpos hídricos em classes;<br>
-XIII - a outorga do direito de uso dos recursos hídricos;<br>
-XIV - a cobrança pelo uso da água;<br>
+(...)
+
+VIII - as auditorias ambientais;
+
+IX - a educação ambiental;
+
+X - o Cadastro Técnico Estadual de atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais;
+
+XI - o Plano Estadual de Recursos Hídricos;
+
+XII - o enquadramento dos corpos hídricos em classes;
+
+XIII - a outorga do direito de uso dos recursos hídricos;
+
+XIV - a cobrança pelo uso da água;
+
 XV - o Sistema de Informações sobre Recursos Hídricos.
 
 § 1º Os instrumentos pertinentes ao gerenciamento dos recursos hídricos serão normatizados em lei específica.
@@ -129,18 +182,28 @@ Art. 18 As pessoas físicas ou jurídicas, inclusive os órgãos e entidades da 
 
 Parágrafo único. Os pedidos de licenciamento serão objeto de publicação resumida no Diário Oficial do Estado e na imprensa local ou regional.
 
-Art. 19 A SEMA, no exercício de sua competência, expedirá as seguintes licenças, de caráter obrigatório:<br>
-I - Licença Prévia (LP): é concedida na fase preliminar do planejamento do empreendimento ou atividade aprovando sua localização e concepção, atestando a viabilidade ambiental, devendo ser observados os planos municipais, estaduais e federais de uso dos recursos naturais e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação;<br>
-II - Licença de Instalação (LI): autoriza a instalação do empreendimento ou atividade de acordo com as especificações constantes dos planos, programas e projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes;<br>
-III - Licença de Operação (LO): é concedida após cumpridas todas as exigências feitas por ocasião da expedição da LI, autorizando o início do empreendimento ou atividade licenciada e o funcionamento de seus equipamentos de controle ambiental, de acordo com o previsto nas Licenças Prévia (LP) e de Instalação (LI);<br>
-IV - Licença Ambiental Única (LAU): é concedida nos termos do regulamento, autorizando a exploração florestal, desmatamento, atividades agrícolas e pecuária;<br>
+Art. 19 A SEMA, no exercício de sua competência, expedirá as seguintes licenças, de caráter obrigatório:
+
+I - Licença Prévia (LP): é concedida na fase preliminar do planejamento do empreendimento ou atividade aprovando sua localização e concepção, atestando a viabilidade ambiental, devendo ser observados os planos municipais, estaduais e federais de uso dos recursos naturais e estabelecendo os requisitos básicos e condicionantes a serem atendidos nas próximas fases de sua implementação;
+
+II - Licença de Instalação (LI): autoriza a instalação do empreendimento ou atividade de acordo com as especificações constantes dos planos, programas e projetos aprovados, incluindo as medidas de controle ambiental e demais condicionantes;
+
+III - Licença de Operação (LO): é concedida após cumpridas todas as exigências feitas por ocasião da expedição da LI, autorizando o início do empreendimento ou atividade licenciada e o funcionamento de seus equipamentos de controle ambiental, de acordo com o previsto nas Licenças Prévia (LP) e de Instalação (LI);
+
+IV - Licença Ambiental Única (LAU): é concedida nos termos do regulamento, autorizando a exploração florestal, desmatamento, atividades agrícolas e pecuária;
+
 V - Licença de Operação Provisória (LOP) - é concedida, na forma do regulamento, estabelecendo as condições de realização ou operação de empreendimentos, atividades, pesquisas e serviços de caráter temporário ou para execução de obras que não caracterizem instalações permanentes. Caso o empreendimento, atividade, pesquisa, serviço ou obra de caráter temporário, passe a configurar situação permanente, será exigido o licenciamento ambiental correspondente.
 
-§ 1º A SEMA estabelecerá os prazos de validade de cada tipo de licença ou autorização ambiental, observado o cronograma apresentado pelo empreendedor e os limites máximos de:<br>
-I - Licença Prévia: 4 (quatro) anos;<br>
-II - Licença de Instalação: 5 (cinco) anos;<br>
-III - Licença de Operação: 6 (seis) anos;<br>
-IV - Licença Ambiental Única: 5 (cinco) ou 10 (dez) anos;<br>
+§ 1º A SEMA estabelecerá os prazos de validade de cada tipo de licença ou autorização ambiental, observado o cronograma apresentado pelo empreendedor e os limites máximos de:
+
+I - Licença Prévia: 4 (quatro) anos;
+
+II - Licença de Instalação: 5 (cinco) anos;
+
+III - Licença de Operação: 6 (seis) anos;
+
+IV - Licença Ambiental Única: 5 (cinco) ou 10 (dez) anos;
+
 V - Licença de Operação Provisória: 2 (dois) anos.
 
 § 2º A Licença Ambiental Única será concedida com o prazo máximo de 5 (cinco) anos para as atividades de exploração florestal ou desmatamento, e de 10 (dez) anos para as atividades agrícolas e pecuárias, desde que não haja alteração na área de posse ou propriedade.
@@ -153,9 +216,12 @@ V - Licença de Operação Provisória: 2 (dois) anos.
 
 § 6º A licença ou autorização poderá ser concedida sem prévia vistoria técnica, nas hipóteses previstas no regulamento.
 
-§ 7º A O setor competente da SEMA, mediante decisão motivada poderá modificar as condicionantes e as medidas de controle e adequação, suspender ou cancelar uma licença expedida, quando ocorrer:<br>
-I - violação ou inadequação de quaisquer condicionantes ou normas legais;<br>
-II - omissão ou falsa descrição de informações relevantes que subsidiariam a expedição da licença;<br>
+§ 7º A O setor competente da SEMA, mediante decisão motivada poderá modificar as condicionantes e as medidas de controle e adequação, suspender ou cancelar uma licença expedida, quando ocorrer:
+
+I - violação ou inadequação de quaisquer condicionantes ou normas legais;
+
+II - omissão ou falsa descrição de informações relevantes que subsidiariam a expedição da licença;
+
 III - superveniência de graves riscos ambientais e à saúde.
 
 § 8º no Licenciamento Ambiental em áreas de posse será exigida a certidão administrativa fornecida pelo órgão competente ou escritura possessória lavrada em cartório reconhecida pelos confinantes, juntamente com a comprovação do pedido de regularização fundiária, junto ao órgão estadual.
@@ -242,12 +308,14 @@ Art. 65 Na planície alagável do Pantanal não será permitido nenhum tipo de d
 
 Art. 68 A introdução e reintrodução de exemplares da fauna nativa em ambientes naturais serão definidas em lei. **_(Nova redação dada pela LC_** [**_243/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 Art. 68 (...)
 
 Parágrafo único _(Revogado)_ **_(Revogado pela dada pela LC_** [**_243/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 Parágrafo único É vedada a introdução de espécies autóctones originadas de cativeiro e da fauna exótica no ambiente natural do Estado de Mato Grosso.
 
 (...)
@@ -282,46 +350,76 @@ Art. 100 Sem prejuízo das sanções administrativas previstas nesta lei complem
 
 Art. 101 Nos casos em que a infração administrativa configurar crime incumbe ao agente de fiscalização levar ao conhecimento da autoridade policial.
 
-Art. 102 As infrações administrativas são punidas com as seguintes sanções:<br>
-I - advertência;<br>
-II - multa simples;<br>
-III - multa diária;<br>
-IV - apreensão dos animais, produtos e subprodutos da fauna e flora, instrumentos, petrechos, equipamentos ou veículos de qualquer natureza utilizados na infração;<br>
-V - destruição ou inutilização do produto;<br>
-VI - suspensão de venda e fabricação do produto;<br>
-VII - embargo de obra e atividade;<br>
-VIII - demolição de obra;<br>
-IX - suspensão parcial ou total de atividades;<br>
+Art. 102 As infrações administrativas são punidas com as seguintes sanções:
+
+I - advertência;
+
+II - multa simples;
+
+III - multa diária;
+
+IV - apreensão dos animais, produtos e subprodutos da fauna e flora, instrumentos, petrechos, equipamentos ou veículos de qualquer natureza utilizados na infração;
+
+V - destruição ou inutilização do produto;
+
+VI - suspensão de venda e fabricação do produto;
+
+VII - embargo de obra e atividade;
+
+VIII - demolição de obra;
+
+IX - suspensão parcial ou total de atividades;
+
 X - restritiva de direitos.
 
-Art. 103 Para imposição e gradação da penalidade, além das circunstancias atenuantes e agravantes, a autoridade competente observará:<br>
-I - a gravidade do fato, tendo em vista os motivos da infração e suas conseqüências para a saúde pública e para o meio ambiente;<br>
-II - os antecedentes do infrator quanto ao cumprimento da legislação de interesse ambiental;<br>
+Art. 103 Para imposição e gradação da penalidade, além das circunstancias atenuantes e agravantes, a autoridade competente observará:
+
+I - a gravidade do fato, tendo em vista os motivos da infração e suas conseqüências para a saúde pública e para o meio ambiente;
+
+II - os antecedentes do infrator quanto ao cumprimento da legislação de interesse ambiental;
+
 III - a situação econômica do infrator, no caso de multa.
 
-Art. 104 São circunstâncias que atenuam a sanção:<br>
-I - baixo grau de instrução ou escolaridade do infrator;<br>
-II - arrependimento do infrator, manifestado pela espontânea reparação do dano, ou limitação significativa da degradação ambiental causada;<br>
-III - comunicação prévia pelo infrator do perigo eminente de degradação ambiental;<br>
+Art. 104 São circunstâncias que atenuam a sanção:
+
+I - baixo grau de instrução ou escolaridade do infrator;
+
+II - arrependimento do infrator, manifestado pela espontânea reparação do dano, ou limitação significativa da degradação ambiental causada;
+
+III - comunicação prévia pelo infrator do perigo eminente de degradação ambiental;
+
 IV - colaboração com os agentes encarregados da vigilância e do controle ambiental.
 
-Art. 105 São circunstâncias que agravam a sanção:<br>
-I - reincidência nos crimes de natureza ambiental;<br>
-II - a prática de ato infracional:<br>
-a) atingindo áreas de unidades de conservação ou áreas sujeitas, por ato do Poder Público, a regime especial de uso;<br>
-b) atingindo áreas urbanas ou quaisquer assentamentos humanos;<br>
-c) em período de defeso à fauna;<br>
-d) em domingos ou feriados;<br>
-e) à noite;<br>
-f) em épocas de seca ou inundações;<br>
-g) com o emprego de métodos cruéis para abate ou captura de animais;<br>
-h) mediante abuso do direito de licença, permissão ou autorização ambiental;<br>
+Art. 105 São circunstâncias que agravam a sanção:
+
+I - reincidência nos crimes de natureza ambiental;
+
+II - a prática de ato infracional:
+
+a) atingindo áreas de unidades de conservação ou áreas sujeitas, por ato do Poder Público, a regime especial de uso;
+
+b) atingindo áreas urbanas ou quaisquer assentamentos humanos;
+
+c) em período de defeso à fauna;
+
+d) em domingos ou feriados;
+
+e) à noite;
+
+f) em épocas de seca ou inundações;
+
+g) com o emprego de métodos cruéis para abate ou captura de animais;
+
+h) mediante abuso do direito de licença, permissão ou autorização ambiental;
+
 i) atingindo espécies ameaçadas, listadas em relatórios oficiais das autoridades competentes.
 
 Art. 106 Se o infrator cometer, simultaneamente, duas ou mais infrações, ser-lhe-ão aplicadas, cumulativamente, as sanções a elas cominadas.
 
-Art. 107 Constitui reincidência a prática de nova infração ambiental cometida pelo mesmo agente no período de 3 (três) anos, classificada como:<br>
-I - específica: cometimento de infração da mesma natureza; ou<br>
+Art. 107 Constitui reincidência a prática de nova infração ambiental cometida pelo mesmo agente no período de 3 (três) anos, classificada como:
+
+I - específica: cometimento de infração da mesma natureza; ou
+
 II - genérica: o cometimento de infração ambiental de natureza diversa.
 
 Parágrafo único. No caso de reincidência específica ou genérica, a multa a ser imposta pela prática da nova infração terá seu valor aumentado ao triplo e ao dobro, respectivamente.
@@ -346,9 +444,12 @@ Art. 109 A multa simples será aplicada sempre que o agente, por negligência ou
 
 Art. 110 A apreensão dos animais, produtos e subprodutos da fauna e flora, instrumentos, apetrechos, equipamentos ou veículos de qualquer natureza utilizados na infração, bem como a destruição ou inutilização do produto serão precedidas da lavratura dos respectivos termos.
 
-Art. 111 Os animais apreendidos terão a seguinte destinação:<br>
-I - libertados em seu habitat natural, após verificação da sua adaptação às condições de vida silvestre;<br>
-II - entregues a jardins zoológicos, fundações ambientalistas ou entidades assemelhadas, desde que fiquem sob a responsabilidade de técnicos habilitados;<br>
+Art. 111 Os animais apreendidos terão a seguinte destinação:
+
+I - libertados em seu habitat natural, após verificação da sua adaptação às condições de vida silvestre;
+
+II - entregues a jardins zoológicos, fundações ambientalistas ou entidades assemelhadas, desde que fiquem sob a responsabilidade de técnicos habilitados;
+
 III - na impossibilidade de atendimento imediato das condições previstas nas alíneas anteriores, o órgão ambiental autuante poderá confiar os animais à guarda de terceiros mediante a assinatura de Termo de Compromisso de Guarda, na forma do regulamento.
 
 Art. 112 Os produtos e subprodutos perecíveis apreendidos pela fiscalização serão avaliados e doados pela autoridade competente às instituições científicas, hospitalares, públicas e outras com fins beneficentes, lavrando-se os respectivos termos, sendo que, no caso de produtos da fauna não perecíveis, os mesmos serão destruídos ou doados a instituições científicas, culturais ou educacionais;
@@ -365,7 +466,8 @@ Art. 113 Tratando-se de apreensão de substâncias ou produtos tóxicos, perigos
 
 Art. 114 Os veículos e as embarcações utilizados na prática de infração, apreendidos pela autoridade competente, somente serão liberados mediante o pagamento da multa ou após o deferimento da defesa administrativa, podendo ser os bens confiados a fiel depositário na forma da legislação federal vigente. **_(Nova redação dada pela LC_** [**_243/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 Art. 114 Os veículos e as embarcações utilizados na prática da infração, apreendidos pela autoridade competente, somente serão liberados mediante o pagamento da multa, ou oferecimento de defesa, podendo ser os bens confiados a fiel depositário na forma da legislação federal vigente.
 
 Art. 115 As sanções indicadas nos incisos VI e IX do art. 102 serão aplicadas, quando o produto, a obra, a atividade ou o estabelecimento não estiverem obedecendo às prescrições legais ou regulamentares.
@@ -376,11 +478,16 @@ Art. 116 O embargo deve paralisar a obra ou atividade e o seu desrespeito caract
 
 § 2º Independente da existência de infração, poderá ser determinada a redução ou paralisação temporária de qualquer atividade causadora de poluição, nos casos em que se caracterizar um episódio agudo de poluição ambiental que ponha em risco a saúde ou o bem-estar da população.
 
-Art. 117 As sanções restritivas de direito são:<br>
-I - suspensão de registro, licença ou autorização;<br>
-II - cancelamento de registro, licença ou autorização;<br>
-III - perda ou restrição de incentivos e benefícios fiscais;<br>
-IV - perda ou suspensão da participação em linhas de financiamento em estabelecimentos oficiais de crédito;<br>
+Art. 117 As sanções restritivas de direito são:
+
+I - suspensão de registro, licença ou autorização;
+
+II - cancelamento de registro, licença ou autorização;
+
+III - perda ou restrição de incentivos e benefícios fiscais;
+
+IV - perda ou suspensão da participação em linhas de financiamento em estabelecimentos oficiais de crédito;
+
 V - proibição de contratar com a Administração Pública, pelo período de até três anos.
 
 Art. 118 Em caso de aplicação de penalidades concomitantes, pelo Estado e Município, prevalecerá a que primeiro tiver sido imposta.
@@ -391,10 +498,14 @@ Art. 120 O agente autuante, ao lavrar o auto de infração, indicará a multa pr
 
 Art. 121 A primeira via do Auto de Infração será entregue ao autuado, pessoa física ou jurídica, oportunidade em que será, também, cientificado de que terá o prazo de 20 (vinte) dias para apresentação de defesa ou impugnação perante o órgão ambiental.
 
-§ 1º A intimação a que se refere este artigo dar-se-á, sucessivamente, da seguinte forma:<br>
-I - pessoalmente;<br>
-II - por seu representante legal;<br>
-III - por carta registrada com aviso de recebimento;<br>
+§ 1º A intimação a que se refere este artigo dar-se-á, sucessivamente, da seguinte forma:
+
+I - pessoalmente;
+
+II - por seu representante legal;
+
+III - por carta registrada com aviso de recebimento;
+
 IV - por edital, se estiver o infrator autuado em lugar incerto ou não sabido.
 
 § 2º Se o infrator, cientificado pessoalmente, se recusar a apor o seu “ciente”, essa circunstância será expressamente mencionada pelo agente encarregado da diligência.
@@ -447,11 +558,10 @@ Art. 127 As multas previstas nesta lei complementar podem ter a sua exigibilidad
 
 § 3º Após a restauração e/ou recuperação da qualidade ambiental, o empreendedor deverá apresentar relatório final, acompanhado das respectivas Anotações de Responsabilidade Técnica, atestando o cumprimento das normas estabelecidas no Plano de Desativação.
 
-<br>
-Seção III<br>
+Seção III
+
 Das Áreas de Preservação Permanente
 
-<br>
 Art. 58 (…)
 
 a)...
@@ -502,31 +612,36 @@ III - efetuar o depósito à conta do FEMAM, do valor correspondente a área a s
 
 § 7º Na hipótese prevista no inciso III a área a ser compensada será avaliada por comissão técnica a ser constituída com essa finalidade, podendo o valor devido ser parcelado, na forma do regulamento.
 
-§ 8º (VETADO) **_(_****_LC_** [**_243/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE)**_)_**
+§ 8º (VETADO) **_(__LC_** [**_243/06_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/73c0c9ec9c2233170425715c0053fc98?OpenDocument#LEICOMPLEMENTAR%20N%C2%BA%20243%2C%20DE%2011%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 § 8º Exclui-se da obrigação prevista no _caput_ deste artigo o proprietário rural que tenha realizado a conversão de florestas ou outra forma de vegetação nativa para uso alternativo do solo, de acordo com os índices de reserva legal aplicáveis à época da conversão.”
 
 Art. 92 (...)
 
 Parágrafo único. Fica a SEMA autorizada a regulamentar a extração mineral feita por plataforma flutuante no leito dos rios, vedada à atividade escariante.”
 
-<br>
 **Art. 3º** _(revogado)_ **_(Revogado pela LC_** [**_412/10_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/f4313bb8e89efc33842577f90040f773?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20412%2C%20DE%2013%20DE)**_)_**
 
-**Redação original.**<br>
-Art. 3º Será excluído do Cadastro de Proprietários Rurais da Secretaria de Estado da Fazenda, o proprietário rural que no prazo de 5 (cinco) anos, a contar da vigência desta lei complementar, não tiver requerido a Licença Ambiental Única de sua propriedade rural.<br>
+**Redação original.**
+
+Art. 3º Será excluído do Cadastro de Proprietários Rurais da Secretaria de Estado da Fazenda, o proprietário rural que no prazo de 5 (cinco) anos, a contar da vigência desta lei complementar, não tiver requerido a Licença Ambiental Única de sua propriedade rural.
 
 Parágrafo único _(revogado)_ **_(Revogado pela LC_** [**_412/10_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/250a3b130089c1cc042572ed0051d0a1/f4313bb8e89efc33842577f90040f773?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20412%2C%20DE%2013%20DE)**_)_**
 
-**Redação original.**<br>
+**Redação original.**
+
 Parágrafo único. A exigência prevista no _caput_ deste artigo não se aplica ao proprietário ou possuidor rural cuja área não supere 150ha (cento e cinqüenta hectares).
 
 **Art. 4º** Fica criado o Programa Estadual de Regularização Ambiental - Pró-Regularização com o objetivo de promover a regularização das propriedades rurais e sua inserção no Sistema de Licenciamento Ambiental de Propriedades Rurais - SLAPR.
 
-**Art. 5º** Podem aderir ao Pró-Regularização os proprietários ou possuidores rurais que possuem:<br>
-I - imóvel rural com área de reserva legal e preservação permanente integrais ainda não inserida no SLAPR;<br>
-II - imóvel rural com área de preservação permanente e/ou reserva legal em extensão inferior ao estabelecido na legislação;<br>
+**Art. 5º** Podem aderir ao Pró-Regularização os proprietários ou possuidores rurais que possuem:
+
+I - imóvel rural com área de reserva legal e preservação permanente integrais ainda não inserida no SLAPR;
+
+II - imóvel rural com área de preservação permanente e/ou reserva legal em extensão inferior ao estabelecido na legislação;
+
 III - imóvel rural ou indústria madeireira com madeiras em tora ou material lenhoso estocados, extraídos sem autorização.
 
 **Art. 6º** Para adesão ao Pró-Regularização os proprietários ou possuidores rurais deverão comparecer espontaneamente à SEMA, no prazo máximo de 3 (três) anos, a contar da publicação desta lei complementar, requerendo sua inclusão no Programa, conforme dispuser o regulamento.
@@ -535,8 +650,10 @@ III - imóvel rural ou indústria madeireira com madeiras em tora ou material le
 
 Parágrafo único. Após a expedição da Licença os proprietários a que se referem o _caput_ deste artigo receberão uma Certidão de Regularização da Propriedade como requisito para habilitação a incentivos fiscais.
 
-**Art. 8º** O proprietário ou possuidor de imóvel rural com área de preservação permanente e/ou reserva legal em extensão inferior ao estabelecido na legislação que aderir ao Pró-Regularização, será notificado e poderá ajustar sua conduta nos termos seguintes:<br>
-I - as áreas de preservação permanente deverão ser recuperadas prioritariamente de conformidade com o Plano de Recuperação de Áreas Degradadas a ser aprovado pelo órgão ambiental;<br>
+**Art. 8º** O proprietário ou possuidor de imóvel rural com área de preservação permanente e/ou reserva legal em extensão inferior ao estabelecido na legislação que aderir ao Pró-Regularização, será notificado e poderá ajustar sua conduta nos termos seguintes:
+
+I - as áreas de preservação permanente deverão ser recuperadas prioritariamente de conformidade com o Plano de Recuperação de Áreas Degradadas a ser aprovado pelo órgão ambiental;
+
 II - as áreas de reserva legal terão seu passivo ambiental ajustado na forma prevista no art. 62-A do Código Estadual do Meio Ambiente.
 
 § 1º A assinatura do Termo de Ajustamento de Conduta suspende a tramitação dos autos de infração lavrados, bem como a prescrição do ilícito administrativo praticado, durante o período definido para recuperação e/ou compensação da área degradada
@@ -575,27 +692,46 @@ II - as áreas de reserva legal terão seu passivo ambiental ajustado na forma p
 
 Palácio Paiaguás, em Cuiabá, 21 de dezembro de 2005, 184º da Independência e 117º da República.
 
-<br>
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-LUIZ ANTONIO PAGOT<br>
-ORESTES TEODORO DE OLIVEIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-CLOVES FELÍCIO VETTORATO<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-YÊDA MARLI DE OLIVEIRA ASSIS<br>
-VILCEU FRANCISCO MARCHETTI<br>
-ANA CARLA MUNIZ<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-AUGUSTINHO MORO<br>
-MARCOS HENRIQUE MACHADO<br>
-JOSÉ CARLOS DIAS<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-LOUREMBERG RIBEIRO NUNES ROCHA<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-JOÃO CARLOS VICENTE FERREIRA<br>
-FLÁVIA MARIA DE BARROS NOGUEIRA<br>
-<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+LUIZ ANTONIO PAGOT
+
+ORESTES TEODORO DE OLIVEIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+CLOVES FELÍCIO VETTORATO
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+YÊDA MARLI DE OLIVEIRA ASSIS
+
+VILCEU FRANCISCO MARCHETTI
+
+ANA CARLA MUNIZ
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+AUGUSTINHO MORO
+
+MARCOS HENRIQUE MACHADO
+
+JOSÉ CARLOS DIAS
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+LOUREMBERG RIBEIRO NUNES ROCHA
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+JOÃO CARLOS VICENTE FERREIRA
+
+FLÁVIA MARIA DE BARROS NOGUEIRA

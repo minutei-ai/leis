@@ -1,5 +1,3 @@
-###DEC-046515-0-000-24-07-1959@@@
-
 DECRETO Nº 46.515, DE 24 DE JULHO DE 1959.
 
 Outorga a Irmãos Maia S.A. concessão para aproveitamento progressivo da energia hidráulica de dois desníveis existentes no rio Marrecas, no distrito de Jaciaba, município de Prudentópolis, Estado do Paraná.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210088)<br>
-
 # DECRETO N° 68.945, DE 04 DE OUTUBRO DE 2024
 
 ### _Autoriza a Fazenda do Estado a receber, mediante cessão de uso, a título gratuito e por prazo determinado, do Município de São Bernardo do Campo, parte do imóvel que especifica._

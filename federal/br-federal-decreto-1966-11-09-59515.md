@@ -1,5 +1,3 @@
-###DEC-059515-0-000-09-11-1966@@@
-
 DECRETO Nº 59.515, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Sérgio Augusto de oliveira Pinto a pesquisar calcário, no município de Guapiara, Estado de São Paulo.

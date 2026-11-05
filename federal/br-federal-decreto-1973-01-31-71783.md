@@ -1,5 +1,3 @@
-###DEC-071783-0-000-31-01-1973@@@
-
 DECRETO Nº 71.783, DE 31 DE JANEIRO DE 1973.
 
 Autoriza o Presidente da Comissão Coordenadora do Projeto Aeroporto Internacional  de Manaus - CCPAIM a gerir recursos provenientes de empréstimos externos e dá outras providências.

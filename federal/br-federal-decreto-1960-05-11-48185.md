@@ -1,5 +1,3 @@
-###DEC-048185-0-000-11-05-1960@@@
-
 DECRETO Nº 48.185, DE 11 DE MAIO DE 1960.
 
 Autoriza a Companhia de Mineração Novalimense a lavrar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

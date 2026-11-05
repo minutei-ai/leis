@@ -1,48 +1,46 @@
-###DEC-053920-0-000-13-05-1964@@@
+**DECRETO Nº 53.920, DE 13 DE MAIO DE 1964.**
 
-<strong>DECRETO Nº 53.920, DE 13 DE MAIO DE 1964.</strong>
+***Aprova o Regulamento dos Estabelecimentos de intendência da Aeronáutica.***
 
-<em><strong>Aprova o Regulamento dos Estabelecimentos de intendência da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, Inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento dos Estabelecimentos de Intendência da Aeronáutica (EIAR) que com êste baixa, assinado pelo Ministro da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento dos Estabelecimentos de Intendência da Aeronáutica (EIAR) que com êste baixa, assinado pelo Ministro da Aeronáutica.
-
-<strong>Art</strong>. 2º Êste Decreto entra vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entra vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 13 de maio de 1964; 143º da Independência e 76º da República.
 
-<strong>H. CASTELLO BRANCO</strong>
+**H. CASTELLO BRANCO**
 
 Nelson Lavenére Wanderley
 
-<strong>REGULAMENTO DOS ESTABELECIMENTOS DE INTENDÊNCIA DA AERONÁUTICA</strong>
+**REGULAMENTO DOS ESTABELECIMENTOS DE INTENDÊNCIA DA AERONÁUTICA**
 
-<strong>PRIMEIRA PARTE</strong>
+**PRIMEIRA PARTE**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Missão e Subordinação</em>
+*Missão e Subordinação*
 
-<strong>Art</strong>. 1º O Estabelecimento de Intendência da Aeronáutica (EIAR) é organização da Aeronáutica que tem por missão centralizar os suprimentos de numerário e de material de Intendência, inclusive viveres e itens reembolsáveis, para atender às Organizações localizadas na mesma área ou jurisdição de um Alto Comando.
+**Art**. 1º O Estabelecimento de Intendência da Aeronáutica (EIAR) é organização da Aeronáutica que tem por missão centralizar os suprimentos de numerário e de material de Intendência, inclusive viveres e itens reembolsáveis, para atender às Organizações localizadas na mesma área ou jurisdição de um Alto Comando.
 
-<strong>Art</strong>. 2º O EIAR é subordinado disciplinarmente ao Ato Comando da respectiva área ou jurisdição, e técnico-administrativamente ao Diretor-Geral da Intendência da Aeronáutica.
+**Art**. 2º O EIAR é subordinado disciplinarmente ao Ato Comando da respectiva área ou jurisdição, e técnico-administrativamente ao Diretor-Geral da Intendência da Aeronáutica.
 
-<strong>Art</strong>. 3º O EIAR tem autonomia administrativa.
+**Art**. 3º O EIAR tem autonomia administrativa.
 
-<strong>SEGUNDA PARTE</strong>
+**SEGUNDA PARTE**
 
-<em>Organização</em>
+*Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Constituição Geral</em>
+*Constituição Geral*
 
-<strong>Art</strong>. 4º O EIAR tem as seguintes constituições geral:
+**Art**. 4º O EIAR tem as seguintes constituições geral:
 
 1 - Comando;
 
@@ -52,19 +50,19 @@ Nelson Lavenére Wanderley
 
 4 - Esquadrão de Serviços.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Comando</em>
+*Comando*
 
-<strong>Art</strong>. 5º O Comando compõe-se de:
+**Art**. 5º O Comando compõe-se de:
 
 1 - Comandante;
 
 2 - Esquadrilha de Comando.
 
-<strong>Art</strong>. 6º O Comandante do EIAR é Coronel Intendente da Aeronáutica com o Curso de Direção de Serviços da ECEMAR.
+**Art**. 6º O Comandante do EIAR é Coronel Intendente da Aeronáutica com o Curso de Direção de Serviços da ECEMAR.
 
-<strong>Art</strong>. 7º Ao Comandante além das atribuições previstas especìficamente em Leis e Regulamento, compete:
+**Art**. 7º Ao Comandante além das atribuições previstas especìficamente em Leis e Regulamento, compete:
 
 1 - dirigir, orientar, fiscalizar todas as atividades do EIAR;
 
@@ -106,15 +104,15 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 10 - corresponder-se diretamente com as autoridades militares ou civis, sôbre assuntos que Independa da intervenção de autoridade superior.
 
-<strong>Art</strong>. 8º A Esquadrilha de Comando é a Subunidade que opera os serviços de Comando e tem constituição e atribuições análogas no que fôr aplicável, ao previsto para Esquadrão de Comando de Base Aérea.
+**Art**. 8º A Esquadrilha de Comando é a Subunidade que opera os serviços de Comando e tem constituição e atribuições análogas no que fôr aplicável, ao previsto para Esquadrão de Comando de Base Aérea.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Esquadrão de Finanças</em>
+*Esquadrão de Finanças*
 
-<strong>Art</strong>. 9º O Esquadrão de Finanças, subordinado diretamente ao Comandante do Estabelecimento, é a Unidade que tem por missão executar o provimento do numerário necessário às Unidades Administrativas da área jurisdicional sob sua responsabilidade reunindo para isso todo o pessoal e material exigidos.
+**Art**. 9º O Esquadrão de Finanças, subordinado diretamente ao Comandante do Estabelecimento, é a Unidade que tem por missão executar o provimento do numerário necessário às Unidades Administrativas da área jurisdicional sob sua responsabilidade reunindo para isso todo o pessoal e material exigidos.
 
-<strong>Art</strong>. 10. O Esquadrão de Finanças tem a seguinte constituição:
+**Art**. 10. O Esquadrão de Finanças tem a seguinte constituição:
 
 1 - Comando;
 
@@ -126,13 +124,13 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 5 - Pagadoria;
 
-<strong>Art</strong>. 11. O Comando de Esquadrão de Finanças é constituído de:
+**Art**. 11. O Comando de Esquadrão de Finanças é constituído de:
 
 1 - Comandante;
 
 2 - Seção de Comando.
 
-<strong>Art</strong>. 12. Ao Comandante do Esquadrão de Finanças compete:
+**Art**. 12. Ao Comandante do Esquadrão de Finanças compete:
 
 1 - coordenar, orientar e fiscalizar os serviços das seções que lhe estão subordinadas;
 
@@ -160,23 +158,23 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 13 - encarregar-se do Suprimento de numerário às Unidades Administrativas da área.
 
-<strong>Art</strong>. 13. A Seção de Comando é o órgão encarregado de receber, preparar e expedir a correspondência do Esquadrão.
+**Art**. 13. A Seção de Comando é o órgão encarregado de receber, preparar e expedir a correspondência do Esquadrão.
 
-<strong>Art</strong>. 14. A Seção de Contabilidade é o órgão do Esquadrão de Finanças que tem por finalidade executar a contabilidade financeira e orçamentária referente ao provimento do numerário e cargo do EIAR.
+**Art**. 14. A Seção de Contabilidade é o órgão do Esquadrão de Finanças que tem por finalidade executar a contabilidade financeira e orçamentária referente ao provimento do numerário e cargo do EIAR.
 
-<strong>Art</strong>. 15. A Seção de Descontos é o órgão do Esquadrão de Finanças que tem por competência processar e contabilizar as consignações de descontos autorizados, efetuados pelas Unidades Administrativas da área, para pagamento aos credores respectivos.
+**Art**. 15. A Seção de Descontos é o órgão do Esquadrão de Finanças que tem por competência processar e contabilizar as consignações de descontos autorizados, efetuados pelas Unidades Administrativas da área, para pagamento aos credores respectivos.
 
-<strong>Art</strong>. 16. A Seção de Comprovações é o órgão do Esquadrão de Finanças que realiza as verificações dos processos de comprovações de prestações de contas das Unidades Administrativas, examinando-os em primeira instância, para que sejam submetidos à apreciação da SDF.
+**Art**. 16. A Seção de Comprovações é o órgão do Esquadrão de Finanças que realiza as verificações dos processos de comprovações de prestações de contas das Unidades Administrativas, examinando-os em primeira instância, para que sejam submetidos à apreciação da SDF.
 
-<strong>Art</strong>. 17. A Pagadoria é o órgão do Esquadrão de Finanças encarregando de receber e de pagar todo o numerário destinado ao suprimento da área.
+**Art**. 17. A Pagadoria é o órgão do Esquadrão de Finanças encarregando de receber e de pagar todo o numerário destinado ao suprimento da área.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Esquadrão de Material de Intendência</em>
+*Esquadrão de Material de Intendência*
 
-<strong>Art</strong>. 18. O Esquadrão de Material da Intendência, subordinado diretamente ao Comandante do Estabelecimento, é a Unidade que tem por missão efetuar o suprimento de material de Intendência em geral (inclusive viveres e itens Reembolsáveis), na área jurisdicional, sob a responsabilidade do EIAR, reunindo para isso todo o pessoal e material exigidos.
+**Art**. 18. O Esquadrão de Material da Intendência, subordinado diretamente ao Comandante do Estabelecimento, é a Unidade que tem por missão efetuar o suprimento de material de Intendência em geral (inclusive viveres e itens Reembolsáveis), na área jurisdicional, sob a responsabilidade do EIAR, reunindo para isso todo o pessoal e material exigidos.
 
-<strong>Art</strong>. 19. O Esquadrão de material de Intendência tem a seguinte constituição:
+**Art**. 19. O Esquadrão de material de Intendência tem a seguinte constituição:
 
 1 - Comando;
 
@@ -186,13 +184,13 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 4 - Seção de Armazenamento.
 
-<strong>Art</strong>. 20. O Comando do Esquadrão de Material de Intendência é constituído de:
+**Art**. 20. O Comando do Esquadrão de Material de Intendência é constituído de:
 
 1 - Comandante;
 
 2 - Seção de Comando.
 
-<strong>Art</strong>. 21. Ao Comandante do Esquadrão de Material de Intendência compete:
+**Art**. 21. Ao Comandante do Esquadrão de Material de Intendência compete:
 
 1 - coordenar, orientar e fiscalizar os serviços das seções que lhe estão subordinadas;
 
@@ -214,21 +212,21 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 10 - fazer os estudos e propostas de fixação dos níveis de suprimentos a serem mantidos no EIAR.
 
-<strong>Art</strong>. 22. A Seção de Comando é o órgão encarregado de receber, preparar e expedir a correspondência do Esquadrão.
+**Art**. 22. A Seção de Comando é o órgão encarregado de receber, preparar e expedir a correspondência do Esquadrão.
 
-<strong>Art</strong>. 23. A Seção de Suprimento é o órgão encarregado de realizar os serviços técnicos de Suprimento do material de Intendência necessário às Unidades da área.
+**Art**. 23. A Seção de Suprimento é o órgão encarregado de realizar os serviços técnicos de Suprimento do material de Intendência necessário às Unidades da área.
 
-<strong>Art</strong>. 24. A Seção de Contrôle é o órgão incumbido do contrôle do material permanente de Intendência, gerido pelas Unidades Administrativas da área, examinando os inventários respectivos em primeira instância, e processando as tomadas de contas quando determinadas ao Estabelecimento, encarregando-se, também, de cadastrar as instalações dos órgãos de Intendência das Unidades da área.
+**Art**. 24. A Seção de Contrôle é o órgão incumbido do contrôle do material permanente de Intendência, gerido pelas Unidades Administrativas da área, examinando os inventários respectivos em primeira instância, e processando as tomadas de contas quando determinadas ao Estabelecimento, encarregando-se, também, de cadastrar as instalações dos órgãos de Intendência das Unidades da área.
 
-<strong>Art</strong>. 25. A Seção de Armazenamento é órgão encarregado da armazenagem e do fornecimento dos itens de Intendência, inclusive víveres e artigos reembolsáveis, necessários às Unidades e ao pessoal da Aeronáutica na área de sua jurisdição.
+**Art**. 25. A Seção de Armazenamento é órgão encarregado da armazenagem e do fornecimento dos itens de Intendência, inclusive víveres e artigos reembolsáveis, necessários às Unidades e ao pessoal da Aeronáutica na área de sua jurisdição.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Esquadra de Serviços</em>
+*Esquadra de Serviços*
 
-<strong>Art</strong>. 26. O Esquadrão de Serviços diretamente subordinado ao Comandante do Estabelecimento é a Unidade que tem por missão operar, através de seus órgãos, os serviços do Estabelecimento, reunindo para isso todo pessoal e material necessário.
+**Art**. 26. O Esquadrão de Serviços diretamente subordinado ao Comandante do Estabelecimento é a Unidade que tem por missão operar, através de seus órgãos, os serviços do Estabelecimento, reunindo para isso todo pessoal e material necessário.
 
-<strong>Art</strong>. 27. O Esquadrão de Serviços tem a seguinte constituição:
+**Art**. 27. O Esquadrão de Serviços tem a seguinte constituição:
 
 1 - Comando;
 
@@ -240,7 +238,7 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 5 - Esquadrilha de Saúde.
 
-<strong>Art</strong>. 28. O Comando do Esquadrão de Serviços é constituído de:
+**Art**. 28. O Comando do Esquadrão de Serviços é constituído de:
 
 1 - Comandante;
 
@@ -248,7 +246,7 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 3 - Seção de Procura e Compra.
 
-<strong>Art</strong>. 29. Ao Comandante do Esquadrão de Serviços compete:
+**Art**. 29. Ao Comandante do Esquadrão de Serviços compete:
 
 1 - exercer as funções de Agente-Fiscalizador da Unidade Administrativa;
 
@@ -260,49 +258,49 @@ d) o cadastros das fontes de produção dos suprimentos de Intendência, na regi
 
 5 - encaminhar ao órgão apropriado os dados estatísticos dos órgãos subordinados.
 
-<strong>Art</strong>. 30. A Seção do Comando é o órgão encarregado de receber, preparar e expedir tôda correspondência do Esquadrão e manter o registro do material permanente que pertença ao Estabelecimento.
+**Art**. 30. A Seção do Comando é o órgão encarregado de receber, preparar e expedir tôda correspondência do Esquadrão e manter o registro do material permanente que pertença ao Estabelecimento.
 
-<strong>Art</strong>. 31. A Seção de Procura e Compra é o órgão encarregado de fazer a procura e a aquisição dos artigos necessários aos diversos elementos do EIAR e contratar os serviços indispensáveis a sua conservação.
+**Art**. 31. A Seção de Procura e Compra é o órgão encarregado de fazer a procura e a aquisição dos artigos necessários aos diversos elementos do EIAR e contratar os serviços indispensáveis a sua conservação.
 
-<strong>Art</strong>. 32. A Esquadrilha de Pessoal é a Subunidade que tem a seu cargo o trato dos assuntos relativos ao pessoal militar e civil do efetivo do estabelecimento, bem como a guarda e a segurança do Estabelecimento e suas instalações.
+**Art**. 32. A Esquadrilha de Pessoal é a Subunidade que tem a seu cargo o trato dos assuntos relativos ao pessoal militar e civil do efetivo do estabelecimento, bem como a guarda e a segurança do Estabelecimento e suas instalações.
 
-<strong>Art</strong>. 33. A Esquadrilha de Material é a Subunidade que opera os serviços incumbidos de:
+**Art**. 33. A Esquadrilha de Material é a Subunidade que opera os serviços incumbidos de:
 
 1 - transporte, reabastecimento e contra-incêndio;
 
 2 - administração, conservação e reparação dos bens móveis e imóveis do Estabelecimento.
 
-<strong>Art</strong>. 34. A Esquadrilha de Intendência é a Subunidade que opera os serviços de finanças, de material de intendência e de subsistência, inerentes à Unidade Administrativa.
+**Art**. 34. A Esquadrilha de Intendência é a Subunidade que opera os serviços de finanças, de material de intendência e de subsistência, inerentes à Unidade Administrativa.
 
-<strong>Art</strong>. 35. A Esquadrilha de Saúde é a Subunidade encarregada da assistência médica e de emergência do pessoal.
+**Art**. 35. A Esquadrilha de Saúde é a Subunidade encarregada da assistência médica e de emergência do pessoal.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Substituições</em>
+*Substituições*
 
-<strong>Art</strong>. 36. O Substituto do Comandante do Estabelecimento de Intendência da Aeronáutica é o Oficial Intendente da Aeronáutica da ativa de maior pôsto e antigüidade da organização.
+**Art**. 36. O Substituto do Comandante do Estabelecimento de Intendência da Aeronáutica é o Oficial Intendente da Aeronáutica da ativa de maior pôsto e antigüidade da organização.
 
 Parágrafo único. As demais substituições no Estabelecimento far-se-ão de acôrdo com a regulamentação em vigor.
 
-<strong>TERCEIRA PARTE</strong>
+**TERCEIRA PARTE**
 
-<em>Disposições Finais</em>
+*Disposições Finais*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 37. As lotações de funções nos Estabelecimentos de Intendência da Aeronáutica serão previstas na respectiva Tabela de Organização e Lotação.
+**Art**. 37. As lotações de funções nos Estabelecimentos de Intendência da Aeronáutica serão previstas na respectiva Tabela de Organização e Lotação.
 
-<strong>Art</strong>. 38. As minúcias de Organização serão fixadas no Regimento Interno dos Estabelecimentos de Intendência da Aeronáutica, aprovado pelo Ministro da Aeronáutica.
+**Art**. 38. As minúcias de Organização serão fixadas no Regimento Interno dos Estabelecimentos de Intendência da Aeronáutica, aprovado pelo Ministro da Aeronáutica.
 
-<strong>Art</strong>. 39. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica, ouvido o Estado-Maior da Aeronáutica.
+**Art**. 39. Os casos omissos serão resolvidos pelo Ministro da Aeronáutica, ouvido o Estado-Maior da Aeronáutica.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Disposições Transitórias</em>
+*Disposições Transitórias*
 
-<strong>Art</strong>. 40. O Diretor-Geral de Intendência submeterá às apreciação do Ministro da Aeronáutica, por intermédio do Estado-Maior, a contar da data da aprovação dêste Regulamento:
+**Art**. 40. O Diretor-Geral de Intendência submeterá às apreciação do Ministro da Aeronáutica, por intermédio do Estado-Maior, a contar da data da aprovação dêste Regulamento:
 
 1 - no prazo de 60 (sessenta) dias:
 
@@ -316,24 +314,22 @@ b) organograma.
 
 Brasília, DF 13 de maio de 1964.
 
-<strong>Major Brigadeiro</strong><strong>\-</strong><strong>do</strong><strong>\-</strong><strong>Ar</strong>
+**Major Brigadeiro\-do\-Ar**
 
 Nelson Freire Lavenére Wanderley
 
 Ministro da Aeronáutica
 
-###DEC-053920-0-000-13-05-1964@@@RET01+++
+**DECRETO Nº 53.920, DE 13 DE MAIO DE 1964.**
 
-<strong>DECRETO Nº 53.920, DE 13 DE MAIO DE 1964.</strong>
-
-<em><strong>Aprova o Regulamento dos Estabelecimentos de Intendência da Aeronáutica.</strong></em>
+***Aprova o Regulamento dos Estabelecimentos de Intendência da Aeronáutica.***
 
 Em seguida ao art. 35 do Regulamento,
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ:</strong></u>
+**ONDESELÊ:**
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<u><strong>LEIA</strong></u><strong>\-</strong><u><strong>SE:</strong></u>
+**LEIA\-SE:**
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**

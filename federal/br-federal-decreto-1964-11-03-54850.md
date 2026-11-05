@@ -1,5 +1,3 @@
-###DEC-054850-0-000-03-11-1964@@@
-
 DECRETO Nº 54.850, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Sebastião Curimbaba, a pesquisar bauxita, no município de Poços de Caldas, Estado de Minas Gerais.

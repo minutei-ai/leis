@@ -1,5 +1,3 @@
-###DEC-002989-0-000-17-03-1999@@@
-
 DECRETO Nº 2.989, DE 17 DE MARÇO DE 1999.
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

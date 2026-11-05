@@ -1,6 +1,10 @@
 > **LEI Nº 3.963, DE 08 DE JULHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Classifica o Instituto de Defesa Agropecuária e Florestal – IDAF, como de interesse público e serviço essencial na área de saúde.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Classifica o Instituto de Defesa Agropecuária e Florestal – IDAF, como de interesse público e serviço essencial na área de saúde.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-071504-0-000-06-12-1972@@@
-
 DECRETO Nº 71.504 - DE 6 DE DEZEMBRO DE 1972
 
 Concede autorização as firmas Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil Ltda. para operarem no mar territorial do Brasil, com a embarcação "Gulf Sea Horse", de nacionalidade norte-americana a serviço da Petrobrás.

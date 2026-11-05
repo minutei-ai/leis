@@ -1,5 +1,3 @@
-###DEC-052594-0-000-01-10-1963@@@
-
 DECRETO Nº 52.594, DE 1 DE OUTUBRO DE 1963.
 
 Autoriza a Centrais Elétricas de Goiás Sociedade Annima (CELG), a construir linhas de transmissão e subestações.

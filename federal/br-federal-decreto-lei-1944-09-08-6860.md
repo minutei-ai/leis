@@ -1,5 +1,3 @@
-###DEL-006860-0-000-08-09-1944@@@
-
 DECRETO-LEI N. 6.860 – DE 8 DE SETEMBRO DE 1944
 
 Dispõe sôbre a cobrança da “taxa sôbre kW” criada pelo Decreto-lei nº 2.281, de 5 de junho de 1940, e sôbre a fixação dos valores das quotas respectivas no exercício de 1945

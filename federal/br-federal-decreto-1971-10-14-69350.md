@@ -1,5 +1,3 @@
-###DEC-069350-0-000-14-10-1971@@@
-
 Decreto Nº 69.350, DE 14 DE outubro DE 1971.
 
 Declara de utilidade pública a Associação Maria Imaculada, com sede no Estado da Guanabara.

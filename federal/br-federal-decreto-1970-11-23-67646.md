@@ -1,5 +1,3 @@
-###DEC-067646-0-000-23-11-1970@@@
-
 decreto nº 67.646, de 23 de novembro de 1970.
 
 Concede à Cerâmica Assad S. A. o direito de lavrar argila, no município de Jundiaí, Estado de São Paulo.

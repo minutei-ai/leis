@@ -1,5 +1,3 @@
-###DEC-095195-0-000-12-11-1987@@@
-
 DECRETO N° 95.195, DE 12 DE NOVEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "LOTE 03 DA GLEBA "M" DO LOTEAMENTO FAZENDA SERRA", classificado como latifúndio por exploração, situado no Município de Itaguatins, no Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

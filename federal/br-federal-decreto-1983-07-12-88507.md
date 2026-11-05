@@ -1,5 +1,3 @@
-###DEC-088507-0-000-12-07-1983@@@
-
 Decreto nº 88.507, de 12 de julho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Amazonas da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

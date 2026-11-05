@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209015)<br>
-
 # DECRETO N° 68.244, DE 22 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a possibilidade de contribuintes que exercem a atividade de comércio varejista parcelarem o ICMS devido pelas saídas de mercadorias promovidas em dezembro de 2023._

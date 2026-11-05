@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica o Poder Executivo autorizado a instituir a Fundação de Amparo à Pesquisa do Estado da Bahia - FAPESB, com personalidade jurídica de direito público, autonomia administrativa, financeira e patrimônio próprio, vinculada à Secretaria do Planejamento, Ciência e Tecnologia, a qual se regerá por seu Estatuto, esta Lei e demais normas legais aplicáveis.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 8.897, de 17 de dezembro de 2003, art. 2º, § 3º: remaneja, da Secretaria do Planejamento para a Secretaria de Ciência, Tecnologia e Inovação, a vinculação da Fundação de Amparo à Pesquisa do Estado da Bahia FAPESB
 
 Parágrafo único - A FAPESB terá sede e foro na Cidade do Salvador, jurisdição em todo o Estado da Bahia e prazo indeterminado de duração.
@@ -77,7 +78,8 @@ c) Diretoria de Inovação;
 
 d) Diretoria Administrativa e Financeira.
 
-Redação do inciso II do art. 7º de acordo com o art. [1º](https://www.legislabahia.ba.gov.br/documentos/lei-no-10216-de-26-de-junho-de-2006#art1) da Lei nº 10.216, de 26 de junho de 2006.<br>
+Redação do inciso II do art. 7º de acordo com o art. [1º](https://www.legislabahia.ba.gov.br/documentos/lei-no-10216-de-26-de-junho-de-2006#art1) da Lei nº 10.216, de 26 de junho de 2006.
+
 Redação original: "II - Diretoria Executiva."
 
 Art. 8º - O Conselho Curador, órgão consultivo, deliberativo e de supervisão superior, terá a seguinte composição:
@@ -116,7 +118,8 @@ Art. 9º - A competência do Conselho Curador será estabelecida no Estatuto da 
 
 Art. 10 - A FAPESB será administrada por uma Diretoria Executiva, composta por 01 (um) Diretor Geral e 03 (três) diretores, indicados pelo Conselho Curador e nomeados pelo Governador do Estado.
 
-Redação do art. 10 de acordo com o art. [1º](https://www.legislabahia.ba.gov.br/documentos/lei-no-10216-de-26-de-junho-de-2006#art1) da Lei nº 10.216, de 26 de junho de 2006.<br>
+Redação do art. 10 de acordo com o art. [1º](https://www.legislabahia.ba.gov.br/documentos/lei-no-10216-de-26-de-junho-de-2006#art1) da Lei nº 10.216, de 26 de junho de 2006.
+
 Redação original: "Art. 10 - A FAPESB será administrada por uma Diretoria Executiva, composta por um Diretor Geral e dois Diretores, indicados pelo Conselho Curador e nomeados pelo Governador do Estado."
 
 § 1º - À Assessoria Técnica compete desempenhar as atividades de planejamento, programação, acompanhamento, modernização administrativa e avaliação institucional.
@@ -169,7 +172,8 @@ I - a Superintendência de Acompanhamento e Avaliação de Políticas Públicas,
 
 II - a Coordenação de Ciência e Tecnologia, com a finalidade de realizar estudos, visando subsidiar a formulação da Política Estadual de Ciência e Tecnologia, assim como acompanhar e avaliar a sua execução.
 
-Ver também:<br>
+Ver também:
+
 Lei nº 8.897, de 17 de dezembro de 2003, art. 2, § 1º : extingue, da estrutura organizacional da Secretaria do Planejamento, a Coordenação de Ciência e Tecnologia,
 
 Parágrafo único - Caberá à Coordenação de Ciência e Tecnologia exercer a Secretaria Executiva do Conselho Estadual de Ciência e Tecnologia.
@@ -208,4 +212,68 @@ Anexo Único de acordo com o art. [3º](https://www.legislabahia.ba.gov.br/docum
 
 QUADRO DE CARGOS EM COMISSÃO DA FUNDAÇÃO DE AMPARO À PESQUISA DO ESTADO DA BAHIA - FAPESB
 
-<table style="border-collapse: collapse; mso-padding-alt: 0cm 3.55pt 0cm 3.55pt;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 282.5pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">CARGO</p></td><td style="width: 90.0pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">SÍMBOLO</p></td><td style="width: 88.15pt; border-top: solid black .5pt; border-left: none; border-bottom: solid black .5pt; border-right: none; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">QUANTIDADE</p></td></tr><tr><td style="width: 282.5pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Diretor Geral</p></td><td style="width: 90.0pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2A</p></td><td style="width: 88.15pt; border: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Diretor</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2B</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">03</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Assessor Chefe</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Procurador Chefe</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Coordenador I</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2C</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">07</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Coordenador Técnico</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-2D</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">02</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Coordenador II</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAS-3</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">14</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Coordenador III</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">08</p></td></tr><tr><td style="width: 282.5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Assistente Administrativo</p></td><td style="width: 90.0pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAI-4</p></td><td style="width: 88.15pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">01</p></td></tr><tr><td style="width: 282.5pt; border: none; border-bottom: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="377"><p class="Tabela-Texto">Secretário Administrativo I</p></td><td style="width: 90.0pt; border: none; border-bottom: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="120"><p class="Tabela-Texto">DAI-5</p></td><td style="width: 88.15pt; border: none; border-bottom: solid black .5pt; padding: 0cm 3.55pt 0cm 3.55pt;" valign="top" width="118"><p class="Tabela-Texto">06</p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Diretor Geral
+
+DAS-2A
+
+01
+
+Diretor
+
+DAS-2B
+
+03
+
+Assessor Chefe
+
+DAS-2C
+
+01
+
+Procurador Chefe
+
+DAS-2C
+
+01
+
+Coordenador I
+
+DAS-2C
+
+07
+
+Coordenador Técnico
+
+DAS-2D
+
+02
+
+Coordenador II
+
+DAS-3
+
+14
+
+Coordenador III
+
+DAI-4
+
+08
+
+Assistente Administrativo
+
+DAI-4
+
+01
+
+Secretário Administrativo I
+
+DAI-5
+
+06

@@ -1,5 +1,3 @@
-###DEC-089488-0-000-29-03-1984@@@
-
 Decreto nº 89.488, de 29 de março de 1984.
 
 Declara de ocupação dos silvícolas área de terras nos Municípios de FEIJÓ e ENVIRA, nos Estados do Acre e Amazonas, e dá outras providências.

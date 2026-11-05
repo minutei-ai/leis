@@ -1,5 +1,3 @@
-###DEL-007693-0-000-30-06-1945@@@
-
 DECRETO-LEI N. 7.693 – DE 30 DE JUNHO DE 1945
 
 Eleva o vencimento de cargo isoIado, do Quadro SupIementar do Ministério da Aeronáutica, e dá outras providências.

@@ -148,5 +148,6 @@ Henrique Meirelles
 
 Dyogo Henrique de Oliveira
 
-<<ANEXOS>><br>
-<<TABELAS>><br>
+<<ANEXOS>>
+
+<<TABELAS>>

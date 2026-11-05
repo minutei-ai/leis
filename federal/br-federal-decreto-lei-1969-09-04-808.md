@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6e232777-e95f-4191-aed8-2078f5fdc45f/texto#nowhere)
 
-###DEL-000808-0-000-04-09-1969@@@
-
 DECRETO-LEI Nº 808, DE 4 DE SETEMBRO DE 1969
 
 Dispõe sôbre a política de preços no mercado interno.

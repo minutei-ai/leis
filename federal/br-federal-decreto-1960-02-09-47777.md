@@ -1,5 +1,3 @@
-###DEC-047777-0-000-09-02-1960@@@
-
 DECRETO Nº 47.777, DE 9 DE FEVEREIRO DE 1960.
 
 Declara de utilidade pública a “Instituição das Servas de Maria, Ministras dos Enfermos” com sede no Distrito Federal.

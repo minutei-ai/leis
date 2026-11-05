@@ -1,5 +1,3 @@
-###DEC-080055-0-000-01-08-1977@@@
-
 DECRETo nº 80.055, de 1º de Agosto de 1977
 
 Concede reconhecimento ao curso de Educação Física da Universidade Federal do Amazonas, com sede na cidade de Manaus, Estado do Amazonas.

@@ -1,5 +1,3 @@
-###DEL-003789-0-000-03-11-1941@@@
-
 DECRETO-LEI N. 3.789 – DE 3 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito suplementar de 70:000$0, à verba que especifica

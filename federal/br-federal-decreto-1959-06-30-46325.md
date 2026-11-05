@@ -1,5 +1,3 @@
-###DEC-046325-0-000-30-06-1959@@@
-
 DECRETO Nº 46.325, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Hidroelétrica Melhoramentos Paracatu S.A. a constituir hipoteca sôbre os seus bens em favor do Banco do Brasil S.A.

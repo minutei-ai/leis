@@ -1,5 +1,3 @@
-###DEC-054021-0-000-14-07-1964@@@
-
 DECRETO Nº 54.021, DE 14 DE JULHO DE 1964.
 
 Retifica a Lei nº 1.951, de 16 de setembro de 1963 do Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-096647-0-000-05-09-1988@@@
-
 DECRETO N° 96.647, DE 5 DE SETEMBRO DE 1988
 
 Outorga concessão à EMPRESA DE RADIODIFUSÃO TUPINAMBÁS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Dourados, Estado do Mato Grosso do Sul.

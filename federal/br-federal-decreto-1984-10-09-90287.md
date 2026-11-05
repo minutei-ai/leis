@@ -1,5 +1,3 @@
-###DEC-090287-0-000-09-10-1984@@@
-
 Decreto nº 90.287 de O9 de outubro de 1984
 
 Outorga concessão à TELEVISÃO PARAÍBA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Campina Grande, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###MPV-000009-0-000-31-10-2001@@@
-
 MEDIDA PROVISÓRIA Nº 9, DE 31 DE OUTUBRO DE 2001
 
 Dispõe sobre o alongamento de dívidas originárias de crédito rural, de que trata a Lei nº 9.138 de 29 de novembro de 1995, e dá outras providências.
@@ -61,8 +59,6 @@ MARCO ANTONIO DE OLIVEIRA MACIEL
 PEDRO MALAN
 
 MARCUS VINICIUS PRATINI DE MORAES
-
-###MPV-000009-0-000-31\-10\-2001@@@RET01+++
 
 RETIFICAÇÃO - MEDIDA PROVISÓRIA Nº 9, DE 31 DE OUTUBRO DE 2001
 

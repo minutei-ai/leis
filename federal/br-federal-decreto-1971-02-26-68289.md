@@ -1,5 +1,3 @@
-###DEC-068289-0-000-26-02-1971@@@
-
 decreto nº 68.289, de 26 de fevereiro de 1971.
 
 Revoga o Decreto nº 50.792, de 15 de junho de 1961, outorga concessão e dá outras providências.

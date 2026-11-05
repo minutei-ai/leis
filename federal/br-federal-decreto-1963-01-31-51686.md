@@ -1,5 +1,3 @@
-###DEC-051686-0-000-31-01-1963@@@
-
 decreto nº 51.686, de 31 de janeiro de 1963.
 
 Considera em funções de natureza militar, militares designados, requisitados ou eleitos para cargos de direção da Companhia de Navegação do São Francisco.

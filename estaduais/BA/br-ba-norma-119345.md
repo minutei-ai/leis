@@ -20,7 +20,8 @@ IV - existência legal há mais de 12 (doze) meses;
 
 V - atestado de autoridade constituída (Prefeito Municipal, Promotor de Justiça, Defensor Público, Delegado de Polícia ou Juiz de Direito), declarando que esteve em efetivo e contínuo funcionamento durante 12 (doze) meses, imediatamente anteriores, com observância dos estatutos e que seus dirigentes não percebem qualquer remuneração ou vantagem pecuniária, a qualquer tipo;
 
-Redação de acordo com a Lei nº [14.167](https://www.legislabahia.ba.gov.br/documentos/lei-no-14167-de-26-de-setembro-de-2019) de 26 de setembro de 2019.<br>
+Redação de acordo com a Lei nº [14.167](https://www.legislabahia.ba.gov.br/documentos/lei-no-14167-de-26-de-setembro-de-2019) de 26 de setembro de 2019.
+
 Redação original: "V - atestado de autoridade constituída (Prefeito Municipal, Promotor de Justiça, Delegado de Polícia ou Juiz de Direito, declarando que esteve em efetivo e contínuo funcionamento durante 12 (doze) meses, imediatamente anteriores, com observância dos estatutos e que seus dirigentes não percebem qualquer remuneração ou vantagem pecuniária, a qualquer tipo;"
 
 VI - folha corrida e moralidade comprovada dos diretores.

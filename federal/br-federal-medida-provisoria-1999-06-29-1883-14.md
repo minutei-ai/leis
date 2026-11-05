@@ -1,5 +1,3 @@
-###MPV-001883-0-014-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.883-14, DE 29 DE JUNHO DE 1999.
 
 Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis, de que trata a Lei nº 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras providências.

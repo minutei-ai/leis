@@ -1,5 +1,3 @@
-###DEC-069562-0-000-19-11-1971@@@
-
 DECRETO Nº 69.562 - 19 de novembro de 1971
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "São Judas Tadeu'', em São Paulo.

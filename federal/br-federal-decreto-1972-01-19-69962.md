@@ -1,5 +1,3 @@
-###DEC-069962-0-000-19-01-1972@@@
-
 Decreto nº 69.962, de 19 de janeiro de 1972.
 
 Declara de utilidade pública a Associação Feirense de Assistência Social (AFAS), com sede em Feira de Santana, Estado da Bahia.

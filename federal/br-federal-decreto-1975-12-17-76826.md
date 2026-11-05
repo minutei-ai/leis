@@ -1,5 +1,3 @@
-###DEC-076826-0-000-17-12-1975@@@
-
 decreto nº 76.826, de 17 de dezembro de 1975.
 
 Altera a redação do § 1º. Do artigo 13 do Decreto nº 56.793, de 27 de agosto de 1965.

@@ -1,14 +1,12 @@
-###DEC-027417-0-000-09-11-1949@@@
+**DECRETO Nº 27.417, DE 9 DE NOVEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.417, DE 9 DE NOVEMBRO DE 1949.</strong>
+***Altera o Regulamento para a Caixa de Construções de Casas do Ministério da Guerra, aprovado pelo Decreto nº 20.175, de 11 de dezembro de 1945.***
 
-<em><strong>Altera o Regulamento para a Caixa de Construções de Casas do Ministério da Guerra, aprovado pelo Decreto nº 20.175, de 11 de dezembro de 1945.</strong></em>
+**OPRESIDENTEDAREPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE</strong> <strong>DA</strong> <strong>REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterada o regulamento para a Caixa de Construção de Casas do Ministério da Guerra, aprovado pelo Decreto nº 20.175, de 11 de dezembro de 1945, da seguinte forma:
+**Art**. 1º Fica alterada o regulamento para a Caixa de Construção de Casas do Ministério da Guerra, aprovado pelo Decreto nº 20.175, de 11 de dezembro de 1945, da seguinte forma:
 
 O art. 11 passará a ter a seguinte redação:
 
@@ -22,7 +20,7 @@ No art. 19 o parágrafo único passa a ser § 1º, acrescentando-se a êsse arti
 
 “O mutuário que desistir da sua contemplação poderá concorrer à distribuição imediata, desde que a desistência mencionada seja pedida com antecedência mínima de 30 dias antes da citada distribuição”.
 
-As alíneas <em>a</em> e <em>b</em>, do art. 21 terão respectivamente a redação abaixo:
+As alíneas *a* e *b*, do art. 21 terão respectivamente a redação abaixo:
 
 “a) suplementares, resgatáveis no prazo máximo de 8 anos e aos juros de 7% a/a, até o máximo de 20% do valor da inscrição e somente concedidos por ocasião das contemplações, para melhoria da casa destinada ao mutuário;
 
@@ -46,7 +44,7 @@ O art. 102 terá a redação seguinte:
 
 “Os diretores, o assistente técnico e seu adjunto, bem como o adjunto de tesoureiro, vencerão mensalmente, a título de representação, as quantias fixadas pelo Ministro da Guerra, correndo os dispêndios por conta de “Despesas Gerais” da Caixa. Ficam suprimidos os § 1º, 2º e 3º, êste artigo, cujo § 4º passa a ser parágrafo único”.
 
-<strong>Art</strong>. 106. passa a ter a seguinte redação:
+**Art**. 106. passa a ter a seguinte redação:
 
 “A amortização do saldo devedor do mutuário, no que se refere aos empréstimos de contemplação, poderá ser feita em 240 meses, alterando-se, assim, o prazo fixado no art. 13º
 
@@ -56,10 +54,10 @@ O § 7º do art. 108 passa a ter a seguinte redação:
 
 “A viúva ou filhos de mutuário falecido, já com o período de carência vencido, quando contemplado até Cr$50.000,00, e não estando no gozo da casa, poderão requerer o cancelamento de sua inscrição e pagamento da quantia correspondente, correndo essa despesa por conta da Carteira de Garantia”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 9 de novembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

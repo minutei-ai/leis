@@ -1,5 +1,3 @@
-###DEC-081900-0-000-10-07-1978@@@
-
 Decreto nº 81.900, de 10 de julho de 1978.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas e Comerciais de Santos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-002525-0-000-20-03-1998@@@
-
 DECRETO Nº 2.525, DE 20 DE MARÇO DE 1998
 
 Dispõe sobre a execução do Oitavo Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre Brasil e Venezuela, de 18 de dezembro de 1997.
@@ -40,4 +38,20 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos dezoito dias do mês de dezembro de mil novecentos e noventa e sete, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:246.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:181.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:246.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:justify; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República da Venezuela:</span></p></td><td style="width:181.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Juan Moreno Gomez</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:246.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil:
+
+</td><td style="width:181.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+José Artur Denot Medeiros
+
+</td></tr><tr><td style="width:246.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Pelo Governo da República da Venezuela:
+
+</td><td style="width:181.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+Juan Moreno Gomez
+
+</td></tr></tbody></table>

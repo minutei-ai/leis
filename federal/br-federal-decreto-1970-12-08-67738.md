@@ -1,5 +1,3 @@
-###DEC-067738-0-000-08-12-1970@@@
-
 DECRETO Nº 67.738, DE 8 DE DEZEMBRO DE 1970.
 
 Concede à Mineração Aripuanã Sociedade Anônima o direito de lavrar cassiterita, no Município de Aripuanã, Estado do Mato Grosso.

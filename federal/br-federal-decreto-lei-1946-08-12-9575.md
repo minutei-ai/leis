@@ -1,5 +1,3 @@
-###DEL-009575-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.575 – DE 12 DE AGÔSTO DE 1946
 
 Suspende a exportação de suínos de corte e seus produtos destinados à alimentação e dá outras providências.

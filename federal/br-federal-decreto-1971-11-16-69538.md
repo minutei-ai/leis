@@ -1,5 +1,3 @@
-###DEC-069538-0-000-16-11-1971@@@
-
 DECRETO Nº 69.538 - DE 16 DE NOVEMBRO de 1971
 
 Reconhece o Curso de Ciências - Licenciatura de 1º ciclo, da Faculdade de Filosofia, Ciências e Letras de Santos - da Sociedade Visconde de São Leopoldo.

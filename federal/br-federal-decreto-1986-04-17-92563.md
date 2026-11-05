@@ -1,5 +1,3 @@
-###DEC-092563-0-000-17-04-1986@@@
-
 DECRETO Nº 92.563, DE 17 DE ABRIL DE 1986
 
 Transforma os Consulados - Gerais de Primeira Classe que menciona.

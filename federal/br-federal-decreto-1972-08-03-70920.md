@@ -1,5 +1,3 @@
-###DEC-070920-0-000-03-08-1972@@@
-
 DECRETO Nº 70.920, DE 3 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento da Escola de Serviço Social de Araraquara - São Paulo.

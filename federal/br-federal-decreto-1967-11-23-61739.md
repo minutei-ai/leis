@@ -1,5 +1,3 @@
-###DEC-061739-0-000-23-11-1967@@@
-
 DECRETO Nº 61.739, DE 23 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério da Fazenda - Diretoria da Despesa Pública crédito suplementar de NCr$40.000,00 (quarenta mil cruzeiros novos) para refôrço de dotações consignadas no vigente orçamento.
@@ -10,7 +8,33 @@ DECRETA:
 
 Art. 1º Fica aberto ao Ministério da Fazenda - Diretoria da Despesa Pública - o crédito suplementar de NCr$40.000,00 (quarenta mil cruzeiros novos), para refôrço de dotação orçamentária consignada ao Subanexo 4.07.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.07.26</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diretoria da Despesa Pública (Encargos Gerais)</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.0.0.0</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas de Capital</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.3.0.0</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências de Capital</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.3.4.0</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Auxilios para Material Permanente</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.3.4.3</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Entidades Municipais</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>K.07</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Distrito Federal</span></p></td></tr><tr><td style="width:39.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1)</span></p></td><td style="width:386.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Prefeitura do Distrito Federal</span></p></td></tr></tbody></table>
+4.07.26
+
+- Diretoria da Despesa Pública (Encargos Gerais)
+
+4.0.0.0
+
+- Despesas de Capital
+
+4.3.0.0
+
+- Transferências de Capital
+
+4.3.4.0
+
+- Auxilios para Material Permanente
+
+4.3.4.3
+
+- Entidades Municipais
+
+K.07
+
+- Distrito Federal
+
+1)
+
+- Prefeitura do Distrito Federal
 
 a) Para atender a despesas com Material Permanente da Polícia do Distrito Federal - (Decreto-lei nº 9, de 25-6-1966) -
 

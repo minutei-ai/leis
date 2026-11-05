@@ -1,7 +1,3 @@
-1
-
-###DEC-000861-0-000-09-07-1993@@@
-
 DECRETO Nº 861, DE 9 DE JULHO DE 1993
 
 Dispõe sobre a organização do Sistema Nacional de Defesa do Consumidor - SNDC e estabelece as normas gerais de aplicação das sansões administrativas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-062043-0-000-04-01-1968@@@
-
 DECRETO Nº 62.043, DE 4 DE JANEIRO DE 1968.
 
 Autoriza a cessão gratuita de terreno na forma que menciona.

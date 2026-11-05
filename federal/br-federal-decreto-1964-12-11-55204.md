@@ -1,5 +1,3 @@
-###DEC-055204-0-000-11-12-1964@@@
-
 DECRETO Nº 55.204, DE 11 DE DEZEMBRO DE 1964.
 
 Inclui nas relações de que trata o Decreto nº 54.015, de 13 de julho de 1964, os cargos que especifica.

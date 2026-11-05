@@ -1,5 +1,3 @@
-###DEC-002739-0-000-20-08-1998@@@
-
 DECRETO Nº 2.739, DE 20 DE AGOSTO DE 1998
 
 Promulga a Convenção sobre Proibições ou Restrições ao Emprego de Certas Armas Convencionais, que Podem Ser Consideradas como Excessivamente Lesivas ou Geradoras de Efeitos Indiscriminados, conhecida como Convenção sobre Certas Armas Convencionais, adotada em Genebra, em 10 de outubro de 1980.

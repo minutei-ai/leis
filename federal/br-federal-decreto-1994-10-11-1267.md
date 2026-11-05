@@ -1,7 +1,3 @@
-1
-
-###DEC-001267-0-000-11-10-1994@@@
-
 DECRETO Nº 1.267, DE 11 DE OUTUBRO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão que menciona.

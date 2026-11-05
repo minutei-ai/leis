@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210845)<br>
-
 # RESOLUÇÃO DA ALESP N° 947, DE 09 DE ABRIL DE 2025
 
 ## (Projeto de Resolução n° 5, de 2025)

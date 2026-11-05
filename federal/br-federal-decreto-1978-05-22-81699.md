@@ -1,5 +1,3 @@
-###DEC-081699-0-000-22-05-1978@@@
-
 Decreto nº 81 699 de 22 de maio de 1978
 
 Declara revogado o decreto que outorgou à RÁDIO DIFUSORA DE MACAPÁ concessão para instalar, na cidade de Macapá - Território Federal do Amapá, estação de radiodifusão sonora em onda tropical.

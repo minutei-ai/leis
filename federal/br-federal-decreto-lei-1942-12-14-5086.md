@@ -1,5 +1,3 @@
-###DEL-005086-0-000-14-12-1942@@@
-
 DECRETO - LEI N. 5.086 – DE 14 DE DEZEMBRO DE 1942
 
 Regida a vida escolar dos alunos dos cursos de ensino secundário e superior, encorporados às forças armadas, por motivo da guerra

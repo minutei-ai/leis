@@ -1,6 +1,10 @@
 > **LEI Nº 4.111, DE 13 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a remuneração dos conciliadores e juízes leigos do Poder Judiciário do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a remuneração dos conciliadores e juízes leigos do Poder Judiciário do Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -33,8 +37,6 @@
 **Art. 9º** O disposto nesta lei não se aplica aos termos de adesão à categoria de particular em colaboração com a administração pública já em vigor, remunerados com fundamento no 8º-A, da Lei Complementar nº 90, de 7 de fevereiro de 2001.
 
 **Art. 10** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 Rio Branco - Acre, 13 de junho de 2023, 135º da República, 121º do Tratado de Petrópolis e 62º do Estado do Acre.
 

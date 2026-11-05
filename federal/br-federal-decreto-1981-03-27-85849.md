@@ -1,7 +1,3 @@
-1
-
-###DEC-085849-0-000-27-03-1981@@@
-
 Decreto nº 85.849, de 27 de março de 1981.
 
 Atribui à cidade de Petrópolis, no Estado do Rio de Janeiro, o título de Cidade Imperial, e dá outras providências.

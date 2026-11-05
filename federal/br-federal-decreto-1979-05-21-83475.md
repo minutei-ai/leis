@@ -1,5 +1,3 @@
-###DEC-083475-0-000-21-05-1979@@@
-
 Decreto nº 83.475, de 21 de maio de 1979.
 
 Autoriza o funcionamento do curso de Enfermagem, da Faculdade de Enfermagem e Obstetrícia de Guarujá, em Guarujá, São Paulo.

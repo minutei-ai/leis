@@ -1,5 +1,3 @@
-###DEC-006202-0-000-30-08-2007@@@
-
 DECRETO Nº 6.202, DE 30 DE AGOSTO DE 2007.
 
 Dispõe sobre o Prêmio Objetivos de Desenvolvimento do Milênio Brasil, e dá outras providências.
@@ -83,5 +81,3 @@ Brasília, 30 de agosto de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Luiz Soares Dulci
-
-Este texto não substitui o publicado no DOU de 31.8.2007

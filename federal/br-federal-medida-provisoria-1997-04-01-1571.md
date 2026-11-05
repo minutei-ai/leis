@@ -1,5 +1,3 @@
-###MPV-001571-0-000-01-04-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.571, DE 1º DE ABRIL DE 1997
 
 Dispõe sobre amortização e parcelamento de dívidas oriundas de contribuições sociais e outras importâncias devidas ao Instituto Nacional do Seguro Social - INSS pelos Estados, Distrito Federal e Municípios, e pelas entidades e hospitais integrantes do Sistema Único de Saúde - SUS, ou com este contratados ou conveniados, introduz alterações na Lei nº 8.212, de 24 de julho de 1991, e dá outras providências.

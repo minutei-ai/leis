@@ -1,5 +1,3 @@
-###DEC-067498-0-000-06-11-1970@@@
-
 DECRETO Nº 67.498, DE 6 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial da Universidade Federal Fluminense, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

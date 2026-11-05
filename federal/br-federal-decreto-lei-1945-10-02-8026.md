@@ -1,5 +1,3 @@
-###DEL-008026-0-000-02-10-1945@@@
-
 DECRETO-LEI N. 8.026 – DE 2 DE OUTUBRO DE 1945
 
 Abre, ao Ministério da Educação Saúde, o crédito especial de Cr$ 13.612,50 para pagamento da vantagem (Pessoal) que indica

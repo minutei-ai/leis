@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/224c63eb-2da6-4542-8829-b160976fff47/texto#nowhere)
 
-###DEL-000849-0-000-09-09-1969@@@
-
 DECRETO-LEI Nº 849, DE 9 DE setEMBRO DE 1969
 
 Fixa normas para a remessa de recursos em moeda estrangeira e pagamento de despesas no exterior.

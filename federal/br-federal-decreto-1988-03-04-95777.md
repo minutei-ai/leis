@@ -1,7 +1,3 @@
-1
-
-###DEC-095777-0-000-04-03-1988@@@
-
 DECRETO N° 95.777, DE 4 DE MARÇO DE 1988
 
 Altera os Estatutos da Indústria de Material Bélico do BrasiI - IMBEL, empresa vinculada ao Ministério do Exército.

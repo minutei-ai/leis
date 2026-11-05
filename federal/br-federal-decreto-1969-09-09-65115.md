@@ -1,5 +1,3 @@
-###DEC-065115-0-000-09-09-1969@@@
-
 DECRETO Nº 65.115 - de 9 de setembro de 1969.
 
 Transforma cargo com comissão e altera a redação do § 2º do artigo 1º do Decreto nº 64.926, de 5 de Agôsto de 1969.

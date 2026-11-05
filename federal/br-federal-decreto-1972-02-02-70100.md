@@ -1,5 +1,3 @@
-###DEC-070100-0-000-02-02-1972@@@
-
 Decreto Nº 70.100, de 2 de Fevereiro de 1972.
 
 Declara cessação da exploração de serviços de energia elétrica e outorga concessão para aproveitamento hidrelétrico, no município de Caiapônia, Estado de Goiás.

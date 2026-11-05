@@ -1,5 +1,3 @@
-###DEC-052461-0-000-11-09-1963@@@
-
 DECRETO Nº 52.461, DE 11 DE SETEMBRO DE 1963.
 
 Autoriza o Ministro da Fazenda a dar a garantia da União a um empréstimo de Cr$500.000.000,00 ao Govêrno do Estado do Paraná.

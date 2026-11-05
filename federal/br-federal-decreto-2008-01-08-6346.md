@@ -1,5 +1,3 @@
-###DEC-006346-0-000-08-01-2008@@@
-
 DECRETO Nº 6.346, DE 8 DE JANEIRO DE 2008.
 
 Altera o Decreto no 4.939, de 29 de dezembro de 2003, transferindo competências da Casa Civil relativas ao planejamento e à execução orçamentária e financeira das atividades finalísticas para órgão da estrutura essencial da Presidência da República.
@@ -21,5 +19,3 @@ Brasília, 8 de janeiro de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Erenice Guerra
-
-Este texto não substitui o publicado no DOU de 9.1.2008

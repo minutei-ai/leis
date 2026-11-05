@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/195822)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2020/compilacao-lei-17296-22.10.2020.html)
 
 # LEI N° 17.296, DE 22 DE OUTUBRO DE 2020

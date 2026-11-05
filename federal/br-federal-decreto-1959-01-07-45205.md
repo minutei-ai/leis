@@ -1,5 +1,3 @@
-###DEC-045205-0-000-07-01-1959@@@
-
 DECRETO Nº 45.205, DE 7 DE JANEIRO DE 1959.
 
 Declara de utilidade pública, para desapropriação, terrenos necessários ao Ministério da Aeronáutica, em Fortaleza, no estado do Ceará.

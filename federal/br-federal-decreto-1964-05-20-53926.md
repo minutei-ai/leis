@@ -1,5 +1,3 @@
-###DEC-053926-0-000-20-05-1964@@@
-
 DECRETO Nº 53.926, DE 20 DE MAIO DE 1964.
 
 Aprova a tabela dos índices de reajustamento das aposentadorias e pensões e benefícios de manutenção do salário em vigor nos Institutos de Aposentadoria e Pensões a que se refere o Art. 67 e seus parágrafos da Lei nº 3.807, de 26 de agôsto de 1960, combinados com os Artigos 116 a 118 do respectivo Regulamento aprovado pelo Decreto nº 48.959-A, de 19 de setembro de 1960.

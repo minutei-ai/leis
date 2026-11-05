@@ -1,12 +1,10 @@
-###DEC-026470-0-000-15-03-1949@@@
+**DECRETO Nº 26.470, DE 15 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.470, DE 15 DE MARÇO DE 1949.</strong>
+***Outorga concessão à Rádio Cultura da Bahia Limitada para estabelecer uma estação radiodifusora em Salvador, Estado da Bahia.***
 
-<em><strong>Outorga concessão à Rádio Cultura da Bahia Limitada para estabelecer uma estação radiodifusora em Salvador, Estado da Bahia.</strong></em>
+**O PRESIDENTE DA REPÚBLICA** , usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura da Bahia Limitada, e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong> , usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Cultura da Bahia Limitada, e tendo em vista o disposto no art. 5º, nº XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão á Rádio Cultura da Bahia Limitada, nos termos do art. 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Salvador, Estado da Bahia, sem direito de exclusividade, uma estação radiodifusora, de acôrdo com as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
@@ -14,7 +12,7 @@ Parágrafo único. O contrato decorrente desta concessão deverá ser assinado d
 
 Rio de Janeiro, 15 de março de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana
 
@@ -84,9 +82,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a, b, c, d, e (in fine), j, k,</em> e <em>l</em> da cláusula III;
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas *a, b, c, d, e (in fine), j, k,* e *l* da cláusula III;
 
-b) se não forem pagas, dentro dos prazos estabelecidos a cota e contribuições a que se refere a alínea <em>e</em> da cláusula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
+b) se não forem pagas, dentro dos prazos estabelecidos a cota e contribuições a que se refere a alínea *e* da cláusula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -100,4 +98,4 @@ b) se a concessionária incidir reiteradamente em infrações passíveis de mult
 
 Rio de Janeiro, 15 de março de 1949.
 
-<strong>CLOVIS PESTANA</strong>
+**CLOVIS PESTANA**

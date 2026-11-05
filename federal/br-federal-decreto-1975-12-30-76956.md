@@ -1,5 +1,3 @@
-###DEC-076956-0-000-30-12-1975@@@
-
 Decreto Nº 76.956, DE 30 DE DEZEMBRO DE 1975.
 
 Concede à Companhia Têxtil Ferreira Guimarães, autorização para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento fabril que menciona.

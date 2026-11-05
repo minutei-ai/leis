@@ -1,5 +1,3 @@
-###DEC-075981-0-000-17-07-1975@@@
-
 DECRETO Nº 75.981 - DE 17 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Educação Física da Escola Superior de Educação Física e Desportos de Catanduva, mantida pela Fundação "Padre Albino", com sede na Cidade de Catanduva, Estado de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEL-000439-A-000-27-01-1969@@@
-
 DECRETO-LEI Nº 439-a, DE 27 DE JANEIRO DE 1969
 
 Autoriza a transferência de imóveis da Superintendência do Desenvolvimento da Região Centro-Oeste (SUDECO) para o Ministério da Aeronáutica.

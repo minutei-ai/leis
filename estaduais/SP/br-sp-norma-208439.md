@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208439)<br>
-
 # DECRETO N° 67.904, DE 24 DE AGOSTO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, as áreas necessárias a obras de melhoria do dispositivo de acesso e retorno do km 298+000m da Rodovia SP-300, no Município de Lençóis Paulista, e dá providências correlatas._

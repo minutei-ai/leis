@@ -1,5 +1,3 @@
-###DEC-077063-0-000-20-01-1976@@@
-
 DECRETO Nº 77.063, DE 20 DE JANEIRO DE 1976
 
 Autoriza a Serviço do Patrimônio da União a promover a aceitação da doação dos terrenos que menciona, situados no Município de Nova Lima, Estado de Minas Gerais.

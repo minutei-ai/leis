@@ -1,5 +1,3 @@
-###DEC-053689-0-000-13-03-1964@@@
-
 DECRETO Nº 53.689, DE 13 DE março DE 1964.
 
 Prorroga vigência do Decreto número 51.143, de 4 de agôsto de 1961.

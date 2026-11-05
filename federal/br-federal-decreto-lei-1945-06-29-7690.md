@@ -1,5 +1,3 @@
-###DEL-007690-0-000-29-06-1945@@@
-
 DECRETO-LEI N. 7.690 – DE 29 DE JUNHO DE 1945
 
 Concede à Legião Brasileira de Assistência isenção de todos os impostos federais e municipais

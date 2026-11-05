@@ -47,12 +47,10 @@ Art. 2º Esta Portaria entra em vigor na data de sua assinatura.
 | Código Orçamentário | 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS |
 | Valor | 121.648,76 |
 
-<br>
-SELENE PERES PERES NUNES<br>
+SELENE PERES PERES NUNES
+
 **Secretária de Estado da Economia**
 
 **CUMPRA-SE e PUBLIQUE-SE.**
 
 **GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA,** em GOIÂNIA, aos 14 dias do mês de novembro de 2023.
-
-<br>

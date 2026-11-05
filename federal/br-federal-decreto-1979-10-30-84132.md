@@ -1,5 +1,3 @@
-###DEC-084132-0-000-30-10-1979@@@
-
 Decreto nº 84.132, de 30 DE outubrO de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, respectivamente nos Estados de Santa Catarina e Rio Grande do Sul.

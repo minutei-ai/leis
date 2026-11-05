@@ -1,5 +1,3 @@
-###DEC-084702-0-000-13-05-1980@@@
-
 Decreto nº 84.702, de 13 de maio de 1980.
 
 Simplifica a prova de quitação de tributos, contribuições, anuidades e outros encargos, e restringe a exigência de certidões no âmbito da Administração Federal.

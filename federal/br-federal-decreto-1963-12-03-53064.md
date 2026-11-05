@@ -1,5 +1,3 @@
-###DEC-053064-0-000-03-12-1963@@@
-
 DECRETO Nº 53.064, DE 3 DE DEZEMBRO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno na cidade de Natal, no Estado do Rio Grande do Norte.
@@ -19,8 +17,6 @@ Brasília, 3 de dezembro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Expedito Machado
-
-###DEC-053064-0-000-03-12-1963@@@RET01+++
 
 DECRETO Nº 53.064, DE 3 DE Dezembro DE 1963.
 

@@ -1,20 +1,18 @@
-###DEC-028747-0-000-11-10-1950@@@
+**DECRETO Nº 28.747, DE 11 DE OUTUBRO DE 1950.**
 
-<strong>DECRETO Nº 28.747, DE 11 DE OUTUBRO DE 1950.</strong>
+***Outorga à Companhia Industrial Ouropretana***  ***de Tecidos, Fôrça, Luz e Telefones, concessão para o aproveitamento de energia Hidráulica da cachoeira Tombos de Miguel Rodrigues, situada no rio Gualaxo do Sul ou Moynart, município de Mariana, estado de Minas Gerais.***
 
-<em><strong>Outorga à Companhia Industrial Ouropretana</strong></em>  <em><strong>de Tecidos, Fôrça, Luz e Telefones, concessão para o aproveitamento de energia Hidráulica da cachoeira Tombos de Miguel Rodrigues, situada no rio Gualaxo do Sul ou Moynart, município de Mariana, estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra *b,* do Código de Águas ( Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 164, letra <em>b,</em> do Código de Águas ( Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, é outorgada á Companhia Industrial Ouropretana de Tecidos, Fôrça, Luz e Telefones, concessão para o aproveitamento da energia hidráulica da cachoeira de Tombos de Miguel Rodrigues, situada no rio Gualaxo do Sul ou Maynart município de Mariana, estado de Minas Gerais.
+**Art**. 1º Respeitados os direitos de terceiros, é outorgada á Companhia Industrial Ouropretana de Tecidos, Fôrça, Luz e Telefones, concessão para o aproveitamento da energia hidráulica da cachoeira de Tombos de Miguel Rodrigues, situada no rio Gualaxo do Sul ou Maynart município de Mariana, estado de Minas Gerais.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinados a altura da queda a aproveitar, a descarga da derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica, para serviço público de utilidade pública e para comércio de energia na zona da concessionária.
 
-<strong>Art</strong>. 2º Caducará o presente título independente de ato declatório, se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título independente de ato declatório, se a concessionária não satisfazer as condições seguintes:
 
 I - Registrá-las  na Divisão de Águas do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -100,32 +98,32 @@ V - Iniciar e concluir as obras por prazos que forem determinados pelo Ministér
 
 Parágrafo único. Os prazos a que se refere este artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com a instrução da mesma Divisão.
+**Art**. 3º A concessionária fica obrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com a instrução da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a remunera  será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente para a produção, transmissão e distribuição de energia elétrica.
+**Art**. 4º O capital a remunera  será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo, de forma permanente para a produção, transmissão e distribuição de energia elétrica.
 
-<strong>Art</strong>. 5º As atuais tabelas de preço de energia fornecida pela concessionária serão integralmente mantidas, até que, oportunamente, sejam modificadas na conformidade da legislação em vigor.
+**Art**. 5º As atuais tabelas de preço de energia fornecida pela concessionária serão integralmente mantidas, até que, oportunamente, sejam modificadas na conformidade da legislação em vigor.
 
-<strong>Art</strong>. 6º Para  a manutenção do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá ás renovações, determinadas pela depreciação ou impostos por acidentes.
+**Art**. 6º Para  a manutenção do capital a que se refere o art. 4º, será criado um fundo de reserva que proverá ás renovações, determinadas pela depreciação ou impostos por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial que incidirá sôbre as tarifas, sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, treinamento, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações, que no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico do capital não amortizado deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações, que no momento, existirem em função exclusiva e permanente da produção, transmissão e distribuição da energia elétrica, referentes ao aproveitamento concedido, reverterão ao estado de Minas Gerais, em conformidade com o estipulado nos arts. 165 e 166 do Código de Águas, mediante indenização, na base do custo histórico do capital não amortizado deduzida a reserva de renovação a que se refere o parágrafo único do art. 6º
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que viverem a ser estipuladas, desde que faça a prova de que o Estado de Minas Gerais não se opões á utilização dos bens objeto da reversão.
 
 § 2º As concessionária deverá entrar com o pedido a que se refere o parágrafo anterior, até seis (6) meses antes de findar o prazo de vigência da concessão, entendendo-se fizer, que não pretende a renovação.
 
-<strong>Art</strong>. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo tribunal de Contas.
+**Art**. 8º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato pelo tribunal de Contas.
 
-<strong>Art</strong>. 9º No caso em que terceiros venham a pleitear contra a União quaisquer indenizações deverão ser estas satisfeitas pela concessionária.
+**Art**. 9º No caso em que terceiros venham a pleitear contra a União quaisquer indenizações deverão ser estas satisfeitas pela concessionária.
 
-<strong>Art</strong>. 10 O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 10 O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 11 Revogam-se as disposições em contrário.
+**Art**. 11 Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 11 de outubro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G DUTRA</strong>
+**EURICO G DUTRA**
 
 A de Novaes Filho

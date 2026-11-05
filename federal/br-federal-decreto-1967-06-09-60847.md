@@ -1,5 +1,3 @@
-###DEC-060847-0-000-09-06-1967@@@
-
 Decreto nº 60.847, de 9 de junho de 1967.
 
 Institui Comissão para rever o Código Tributário Nacional a fim de ajustá-lo às novas disposições constitucionais.

@@ -1,5 +1,3 @@
-###DEC-070032-0-000-24-01-1972@@@
-
 DECRETO Nº 70.032, DE 24 DE JANEIRO DE 1972.
 
 Concede à Cerâmica Martini S.A. o direito de lavrar argila, no município de Mogi-Guaçu, Estado de São Paulo.

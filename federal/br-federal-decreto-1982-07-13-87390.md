@@ -1,5 +1,3 @@
-###DEC-087390-0-000-13-07-1982@@@
-
 Decreto nº 87.390, de 13 de julho de 1982
 
 Autoriza o aumento do Capital Social da Companhia Siderúrgica da Amazônia - SIDERAMA.

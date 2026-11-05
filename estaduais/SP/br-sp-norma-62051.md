@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62051)
-
 # LEI Nº 12.311, DE 12 DE ABRIL DE 2006
 
 ## (Projeto de lei nº 425/2004, do Deputado Rodrigo Garcia - PFL)

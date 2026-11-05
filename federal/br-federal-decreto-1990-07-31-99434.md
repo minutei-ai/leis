@@ -1,7 +1,3 @@
-1
-
-###DEC-099434-0-000-31-07-1990@@@
-
 DECRETO N° 99.434, DE 31 DE JULHO DE 1990
 
 Autoriza a Escola Técnica Federal do Pará a organizar cursos de nível superior de ensino.

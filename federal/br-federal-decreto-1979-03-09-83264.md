@@ -1,5 +1,3 @@
-###DEC-083264-0-000-09-03-1979@@@
-
 DECRETO Nº 83.264, DE 09 DE MARÇO DE 1979
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Benjamim Constant, Estado do Amazonas.

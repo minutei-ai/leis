@@ -1,5 +1,3 @@
-###DEC-004623-0-000-21-03-2003@@@
-
 DECRETO Nº 4.623, DE 21 DE MARÇO DE 2003.
 
 Dispõe sobre os Conselhos Nacional de Política Agrícola \- CNPA e Deliberativo da Política do Café \- CDPC, vinculados ao Ministério da Agricultura, Pecuária e Abastecimento, e dá outras providências.

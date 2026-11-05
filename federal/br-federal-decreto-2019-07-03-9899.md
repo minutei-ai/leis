@@ -32,4 +32,4 @@ JAIR MESSIAS BOLSONARO
 
 Sérgio Moro
 
-Paulo Guedes<br>
+Paulo Guedes

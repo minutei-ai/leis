@@ -1,5 +1,3 @@
-###DEC-062546-0-000-16-04-1968@@@
-
 DECRETO Nº 62.546, DE 16 DE ABRIL DE 1968.
 
 Transfere da Prefeitura Municípios do Rio Espera para a Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no distrito de Rio Espera, município de Rio Espera Estado de Minas Gerais e dá outras providências.

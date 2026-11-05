@@ -1,5 +1,3 @@
-###DEC-070102-0-000-03-02-1972@@@
-
 DECRETO Nº 70.102, DE 3 DE FEVEREIRO DE 1972.
 
 Classifica os órgãos de deliberação coletiva existentes na área do Ministro da Saúde.

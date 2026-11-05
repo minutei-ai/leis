@@ -1,5 +1,3 @@
-###DEL-000169-0-000-14-02-1967@@@
-
 DECRETO-LEI Nº 169, DE 14 DE FEVEREIRO DE 1967
 
 Reduz alíquotas do impôsto de importação e dá outras providências.

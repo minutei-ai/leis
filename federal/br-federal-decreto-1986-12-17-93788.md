@@ -1,5 +1,3 @@
-###DEC-093788-0-000-17-12-1986@@@
-
 DECRETO Nº 93.788, DE 17 DE DEZEMBRO DE 1986
 
 Concede, à Caraíba Metais S.A. - Indústria e Comércio, autorização para proceder ao aumento do seu capital autorizado.

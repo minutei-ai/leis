@@ -1,5 +1,3 @@
-###DEC-094217-0-000-14-04-1987@@@
-
 DECRETO Nº 94.217, DE 14 DE ABRIL DE 1987.
 
 Declara de interesse social para fins de desapropriação, parte do imóvel rural denominado "Fazenda São Pedro", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Aragarças, Estado de Goiás, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986, e dá outras providências.

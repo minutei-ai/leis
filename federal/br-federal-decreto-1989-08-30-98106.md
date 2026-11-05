@@ -1,5 +1,3 @@
-###DEC-098106-0-000-30-08-1989@@@
-
 DECRETO Nº 98.106, DE 30 DE AGOSTO DE 1989
 
 Altera dispositivo do Decreto n° 88.133, de 1º de março de 1983.

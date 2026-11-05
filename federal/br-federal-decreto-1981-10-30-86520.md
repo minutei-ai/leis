@@ -1,5 +1,3 @@
-###DEC-086520-0-000-30-10-1981@@@
-
 Decreto nº 86.520, de 30 de outubro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da EBC Copebrás da LIHGT - Serviços de Eletricidade S.A., no Estado de São Paulo.

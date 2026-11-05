@@ -1,5 +1,3 @@
-###DEC-003939-0-000-26-09-2001@@@
-
 DECRETO Nº 3.939, DE 26 DE SETEMBRO DE 2001
 
  Dispõe sobre a Comissão Interministerial para os Recursos do Mar (CIRM) e dá outras providências. 

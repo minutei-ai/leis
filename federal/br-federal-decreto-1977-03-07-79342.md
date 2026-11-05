@@ -1,6 +1,4 @@
-###DEC-079342-0-000-07-03-1977@@@
-
- Decreto nº 79.342, de 7 de março de 1977
+Decreto nº 79.342, de 7 de março de 1977
 
 Fixa em importância equivalente a até US$ 100.000.000,00 (cem milhões de dólares), de principal, ou o seu equivalente em outras moedas, a autorização para a contratação de empréstimos externos, com a garantia da União, pela Caixa Econômica Federal - CEF e dá outras providências.
 

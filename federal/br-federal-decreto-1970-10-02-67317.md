@@ -1,5 +1,3 @@
-###DEC-067317-0-000-02-10-1970@@@
-
 DECRETO Nº 67.317, DE 2 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 40.979 de 5 de fevereiro de 1957.

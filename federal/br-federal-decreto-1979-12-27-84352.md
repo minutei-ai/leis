@@ -1,5 +1,3 @@
-###DEC-084352-0-000-27-12-1979@@@
-
 Decreto nº 84.352 de 27 de dezembro de 1979.
 
 Autoriza o funcionamento da habilitação em Supervisão Escolar do curso de Pedagogia da Faculdade de Pedagogia, Ciências e Letras de Caçador, Estado de Santa Catarina.

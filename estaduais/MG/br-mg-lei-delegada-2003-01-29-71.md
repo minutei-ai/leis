@@ -175,7 +175,3 @@ Cargos de provimento em comissão
 DENOMINAÇÃO DO CARGO Nº DE CARGOS NÍVEL/GRAU Coordenador de Cursos 3 12-G Coordenador-Geral de Eventos 1 13-H Coordenador de Palcos 1 13-E Superintendente I 8 13-H Superintendente II 3 13-I Chefe de Departamento I 14 12-G Chefe de Departamento II 4 13-E Chefe de Secretaria 1 9-J Assessor I 18 9-J Assessor II 21 10-C Assessor III 12 12-G Assessor de Produção 7 9-J Assessor Técnico Musical 2 10-D \*Regente Titular da OSMG 1 4-J \*Spalla 1 4-I Regente Titular do Coral Lírico 1 13-G Regente do Coral Infantil 1 11-F Maitre de Ballet 1 13-J Maitre de Dança I 22 13-D Maitre de Dança II 2 13-E Maitre de Dança III 1 13-J
 
 \* Tabela da OSMG
-
-\=======================================================================
-
-Data da última atualização: 11/8/2026.

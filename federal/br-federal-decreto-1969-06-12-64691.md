@@ -1,5 +1,3 @@
-###DEC-064691-0-000-12-06-1969@@@
-
 DECRETO Nº 64.691, de 12 de junho de 1969.
 
 Retifica o Decreto nº 63.994, de 16 de Janeiro de 1969.

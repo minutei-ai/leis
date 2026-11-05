@@ -1,5 +1,3 @@
-###DEC-050133-0-000-26-01-1961@@@
-
 Decreto Nº 50.133, DE 26 DE JANEIRO DE 1961.
 
 Altera o regimento do Centro Nacional de Ensino e Pesquisas Agronômicas e dá outras providências.

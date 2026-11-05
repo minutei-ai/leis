@@ -1,5 +1,3 @@
-###DEC-060220-0-000-15-02-1967@@@
-
 DECRETO Nº 60.220, DE 15 DE FEVEREIRO DE 1967.
 
 Aprova o Regulamento do Instituto Nacional de Cinema.

@@ -1,5 +1,3 @@
-###DEL-007078-0-000-24-11-1944@@@
-
 DECRETO-LEI N. 7.078 – DE 24 DE NOVEMBRO DE 1944
 
 Cria a carreira de Dentista no Quadro Permanente do Ministério da Aeronáutica, e dá outras providências

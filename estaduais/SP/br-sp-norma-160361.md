@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/160361)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/compilacao-lei-14272-20.10.2010.html)
 
 # LEI N° 14.272, DE 20 DE OUTUBRO DE 2010

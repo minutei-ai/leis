@@ -1,5 +1,3 @@
-###DEC-072598-0-000-13-08-1973@@@
-
 DECRETO Nº 72.598, DE 13 DE AGOSTO DE 1973.
 
 Concede à Siderúrgica Barra Mansa S.A o direito de lavrar minério de ferro no Município de Ouro Preto, Estado de Minas Gerais.

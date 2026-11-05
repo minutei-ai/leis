@@ -1,5 +1,3 @@
-###DEC-080616-0-000-26-10-1977@@@
-
 DECRETO Nº 80.616, DE 26 DE OUTUBRO DE 1977.
 
 Autoriza a transformação do curso de Desenho e Plástica, em curso de Educação Artística, ministrado pela Faculdade de Artes Plásticas e Comunicações “Farias Brito”, com sede na cidade de Guarulhos, Estado de São Paulo.

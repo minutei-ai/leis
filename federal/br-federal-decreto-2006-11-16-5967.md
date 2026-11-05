@@ -1,5 +1,3 @@
-###DEC-005967-0-000-16-11-2006@@@
-
 DECRETO Nº 5.967 DE 16 DE NOVEMBRO DE 2006.
 
 Remaneja cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

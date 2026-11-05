@@ -1,5 +1,3 @@
-###DEC-056709-0-000-11-08-1965@@@
-
 DECRETO Nº 56.709, DE 11 DE AGÔSTO DE 1965.
 
 Aprova alteração introduzida nos Estatutos da Sul América Terrestres, Marítimos e Acidentes, Companhia de Seguros, relativa ao aumento do capital social.

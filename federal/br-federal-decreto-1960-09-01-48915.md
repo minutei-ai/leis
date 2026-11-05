@@ -1,5 +1,3 @@
-###DEC-048915-0-000-01-09-1960@@@
-
 DECRETO Nº 48.915, DE 1º DE SETEMBRO DE 1960.
 
 Altera, sem aumento de despesa, o Quadro de Pessoal da Administração do Pôrto do Rio de Janeiro.

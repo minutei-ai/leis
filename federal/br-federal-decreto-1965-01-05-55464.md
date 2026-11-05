@@ -1,5 +1,3 @@
-###DEC-055464-0-000-05-01-1965@@@
-
 decreto nº 55.464, de 5 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Francisco Schaadt a lavrar calcário, no município de Brusque, Estado de Santa Catarina.

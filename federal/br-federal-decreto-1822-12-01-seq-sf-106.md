@@ -1,5 +1,3 @@
-###DEC-000000-0-106-01-12-1822@@@
-
 DECRETO - DO 1º DE DEZEMBRO DE 1822
 
 Manda substituir pela Corôa Imperial a Corôa Real que se acha sobreposta, no escudo das Armas.

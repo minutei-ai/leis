@@ -1,5 +1,3 @@
-###DEC-085864-0-000-31-03-1981@@@
-
 Decreto nº 85.864, de 31 de março de 1981.
 
 Renova por 10 (dez) anos a concessão outorgada à EMPRESA DE COMUNICAÇÕES E RADIODIFUSÃO CONTINENTAL LTDA., autoriza o aumento de potência e a transferência direta para a RÁDIO E TELEVISÃO UNIVERSITÁRIA METROPOLITANA LTDA., que passará a executar o serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

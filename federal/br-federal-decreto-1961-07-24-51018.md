@@ -1,5 +1,3 @@
-###DEC-051018-0-000-24-07-1961@@@
-
 Decreto nº 51.018, de 24 de julho de 1961.
 
 Inclui funções gratificadas na Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

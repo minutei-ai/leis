@@ -1,5 +1,3 @@
-###DEC-053540-0-000-05-02-1964@@@
-
 DECRETO Nº 53.540, de 5 de fevereiro de 1964.
 
 Altera o parágrafo único do art. 15 do Regulamento aprovado pelo Decreto n° 40.359, de 16 de novembro de 1956, com a redação dada pelo Decreto nº 2.030, de 14 de janeiro de 1963.

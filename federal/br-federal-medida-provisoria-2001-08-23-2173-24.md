@@ -1,5 +1,3 @@
-###MPV-002173-0-024-23-08-2001@@@
-
 MEDIDA PROVISÓRIA No 2.173-24, DE 23 DE AGOSTO DE 2001.
 
  Altera dispositivos da Lei no 9.870, de 23 de novembro de 1999, que dispõe sobre o valor total das anuidades escolares.

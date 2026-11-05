@@ -1,5 +1,3 @@
-###DEC-070019-0-000-21-01-1972@@@
-
 DECRETO Nº 70.019, DE 21 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Volta Redonda (APAE), com sede em Volta Redonda, Estado do Rio de Janeiro.

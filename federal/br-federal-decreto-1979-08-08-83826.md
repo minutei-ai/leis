@@ -1,5 +1,3 @@
-###DEC-083826-0-000-08-08-1979@@@
-
 decreto nº 83.826, de 08 de agosto de 1979.
 
 Dispõe sobre execução de operação de crédito externo e dá outras providências.

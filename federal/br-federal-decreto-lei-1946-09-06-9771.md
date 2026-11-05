@@ -1,5 +1,3 @@
-###DEL-009771-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.771 – DE 6 DE SETEMBRO DE 1946
 
 Cria o Quadro de Funcionários do Território Federal do Guaporé.

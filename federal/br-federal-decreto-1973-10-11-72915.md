@@ -1,5 +1,3 @@
-###DEC-072915-0-000-11-10-1973@@@
-
 DECRETO Nº 72.915, DE 11 DE OUTUBRO DE 1973
 
 Autoriza a encampação dos bens e instalações vinculados aos serviços públicos de energia elétrica no Município de Bom Despacho, Estado de Minas Gerais.

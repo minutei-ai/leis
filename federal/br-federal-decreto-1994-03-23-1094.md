@@ -1,7 +1,3 @@
-1
-
-###DEC-001094-0-000-23-03-1994@@@
-
 DECRETO Nº 1.094, DE 23 DE MARÇO DE 1994
 
 Dispõe sobre o Sistema de Serviços Gerais (SISG) dos órgãos civis da Administração Federal direta, das autarquias federais e fundações públicas, e dá outras providências.

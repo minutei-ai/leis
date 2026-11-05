@@ -1,7 +1,3 @@
-1
-
-###DEC-095798-0-000-09-03-1988@@@
-
 DECRETO N.° 95.798, DE 9 DE MARCO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "FAZENDA SANTA INÁCIA S/A (FISA) (parte)", classificado como latifúndio por exploração, situado no Município de Santa Luzia, Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 2 de maio de 1986, e dá outras providências.

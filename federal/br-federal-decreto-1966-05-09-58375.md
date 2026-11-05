@@ -1,5 +1,3 @@
-###DEC-058375-0-000-09-05-1966@@@
-
 Decreto nº 58.375, de 9 de maio de 1966.
 
 Fica o preço mínimo básico para o financiamento ou aquisição de farinha de Mandioca - safra de 1966.

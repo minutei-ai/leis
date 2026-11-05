@@ -1,5 +1,3 @@
-###DEC-071918-0-000-15-03-1973@@@
-
 DECRETO Nº 71.918, DE 15 DE MARÇO DE 1973.
 
 Autoriza o funcionamento do curso de Psicologia do Instituto de Ciências Humanas, das Faculdades Integradas de Uberaba, mantidas pela Sociedade de Educação do Triângulo Mineiro, MG.

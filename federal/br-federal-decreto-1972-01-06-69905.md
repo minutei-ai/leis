@@ -1,5 +1,3 @@
-###DEC-069905-0-000-06-01-1972@@@
-
 DECRETO Nº 69.905, DE 6 DE JANEIRO DE 1972.
 
 Aprova o Regimento Interno do Instituto de Pesquisas Espaciais (INPE)

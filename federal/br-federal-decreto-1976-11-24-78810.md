@@ -1,5 +1,3 @@
-###DEC-078810-0-000-24-11-1976@@@
-
 DECRETO Nº 78.810, DE 24 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Geografia e História, da Faculdade de Filosofia, Ciências e Letras Barão de Mauá, em Ribeirão Preto, Estado de São Paulo.

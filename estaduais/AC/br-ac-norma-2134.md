@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.892 , de 11 de Janeiro de 2022.](https://legis.ac.gov.b
 
 > **LEI Nº 3.377, DE 13 DE ABRIL DE 2018**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria a assessoria militar do Tribunal de Contas do Estado do Acre – TCE/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria a assessoria militar do Tribunal de Contas do Estado do Acre – TCE/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

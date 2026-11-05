@@ -1,5 +1,3 @@
-###DEL-007645-0-000-14-06-1945@@@
-
 DECRETO-LEI N. 7.645 – DE 14 DE JUNHO DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 100.000,00, à verba que especifica

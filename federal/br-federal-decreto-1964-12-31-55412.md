@@ -1,5 +1,3 @@
-###DEC-055412-0-000-31-12-1964@@@
-
 DECRETO Nº 55.412, de 31 de dezembro de 1964.
 
 Autoriza o Indústria de Mármores Italva Ltda., a pesquisar mármore e calcário, no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-079023-0-000-23-12-1976@@@
-
 DECRETO Nº 79.023, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, da Faculdade de Arquitetura e Urbanismo ''Farias Brito'', com sede na cidade de Guarulhos, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-052295-0-000-24-07-1963@@@
-
 decreto nº 52.295, de 24 de julho de 1963.
 
 Abre, ao Ministério da Justiça e Negócio Interiores, o crédito especial de Cr$6.500.000,00, para o fim que específica.

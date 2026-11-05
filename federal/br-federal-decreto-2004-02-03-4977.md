@@ -1,5 +1,3 @@
-###DEC-004977-0-000-03-02-2004@@@
-
 DECRETO Nº 4.977,  DE 3 DE FEVEREIRO DE 2004.
 
 Altera o Estatuto Social da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.

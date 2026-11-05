@@ -1,5 +1,3 @@
-###DEC-047509-0-000-28-12-1959@@@
-
 DECRETO Nº 47.509, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza Chaves & Cia, a pesquisar gipsita no município de Santanópole, Estado do Ceará.

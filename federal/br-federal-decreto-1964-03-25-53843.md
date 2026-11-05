@@ -1,5 +1,3 @@
-###DEC-053843-0-000-25-03-1964@@@
-
 DECRETO Nº 53.843, DE 25 DE MARÇO DE 1964.
 
 Cria funções gratificadas no Quadro Permanente do Ministério da Justiça e Negócios Interiores, com lotação no Arquivo Nacional.

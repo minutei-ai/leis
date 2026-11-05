@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62218)
-
 # LEI Nº 12.387, DE 15 DE MAIO DE 2006
 
 ## (Projeto de lei nº 375/2004, do Deputado João Caramez - PSDB)

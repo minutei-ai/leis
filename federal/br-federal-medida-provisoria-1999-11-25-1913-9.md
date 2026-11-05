@@ -1,5 +1,3 @@
-###MPV-001913-0-009-25-11-1999@@@
-
 medida provisória nº 1.913-9, de 25 de novembro de 1999.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

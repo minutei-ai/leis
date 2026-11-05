@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208136)<br>
-
 # DECRETO N° 67.721, DE 26 DE MAIO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 411+250m e 422+500m da Rodovia Miguel Jubran, SP-333, nos Municípios de Tarumã e Assis, e dá providências correlatas._

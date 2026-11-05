@@ -1,5 +1,3 @@
-###DEC-058227-0-000-20-04-1966@@@
-
 DECRETO Nº 58.227, DE 20 DE ABRIL DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 41.106, de 8 de março de 1957, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária a construção do açude público “Palmeira dos Índios”, no Município de Palmeira dos Índios, Estado de Alagoas.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098653-0-000-20-12-1989@@@
-
 DECRETO Nº 98.653, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão à RBS - EMPRESA DE TV LTDA., para explorar serviço especial de Televisão por assinatura - TVA, na região metropolitana de Porto Alegre, Estado do Rio Grande do Sul.

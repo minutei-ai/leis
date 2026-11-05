@@ -1,7 +1,3 @@
-1
-
-###MPV-001079-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.079, DE 28 DE JULHO DE 1995
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

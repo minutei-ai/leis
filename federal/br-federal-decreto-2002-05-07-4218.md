@@ -1,5 +1,3 @@
-###DEC-004218-0-000-07-05-2002@@@
-
 DECRETO Nº 4.218, DE 7 DE MAIO DE 2002
 
 Cria a Embaixada do Brasil em Pyongyang, República Popular Democrática da Coréia, cumulativa com a Embaixada do Brasil em Pequim, República Popular da China.

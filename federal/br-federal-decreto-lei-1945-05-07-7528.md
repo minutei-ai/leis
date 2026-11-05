@@ -1,5 +1,3 @@
-###DEL-007528-0-000-07-05-1945@@@
-
 DECRETO-LEI N. 7.528 – DE 7 DE MAIO DE 1945
 
 Cria um cargo de Cônsul Privativo, padrão M, do Quadro Permanente do Ministério das Relações Exteriores

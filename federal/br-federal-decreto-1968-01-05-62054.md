@@ -1,5 +1,3 @@
-###DEC-062054-0-000-05-01-1968@@@
-
 DECRETO nº 62.054, DE 5 DE JANEIRO DE 1968.
 
 Autoriza o cidadão brasileiro Salim Cesar Curi a lavrar columbita, no município de Macapá, Território Federal do Amapá.

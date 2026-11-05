@@ -1,5 +1,3 @@
-###DEC-002349-0-000-15-10-1997@@@
-
 DECRETO Nº 2.349, DE 15 DE OUTUBRO DE 1997
 
 Dá nova redação ao art. 1º do Decreto nº 1.387, de 7 de fevereiro de 1995, que dispõe sobre o afastamento do País de servidores civis da Administração Pública Federal.

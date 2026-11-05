@@ -1,5 +1,3 @@
-###DEC-081905-0-000-10-07-1978@@@
-
 Decreto nº 81.905, de 10 de julho de 1978.
 
 Autoriza a conversão dos cursos de Letras e Ciências, licenciaturas de 1° grau, em curso de Letras e Ciências, licenciaturas plenas do Centro de Desenvolvimento de Recursos Humanos da Educação e Cultura, com sede no Município de São Gonçalo, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-070098-0-000-02-02-1972@@@
-
 Decreto Nº 70.098, de 2 de Fevereiro de 1972.
 
 Autoriza o funcionamento dos Cursos de História e Geografia da Faculdade de Filosofia, Ciências e Letras de Adamantina, SP.

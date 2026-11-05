@@ -1,5 +1,3 @@
-###DEC-053220-0-000-12-12-1963@@@
-
 DECRETO Nº 53.220, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza Berlino Zabeu & Irmãos Limitada, a lavrar caulim, no município de Itapecerica da Serra, Estado de São Paulo.

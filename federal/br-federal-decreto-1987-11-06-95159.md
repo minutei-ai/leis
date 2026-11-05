@@ -1,5 +1,3 @@
-###DEC-095159-0-000-06-11-1987@@@
-
 DECRETO Nº 95.159, DE 6 DE NOVEMBRO DE 1987
 
 Altera alíquotas do Imposto sobre Produtos Industrializados.

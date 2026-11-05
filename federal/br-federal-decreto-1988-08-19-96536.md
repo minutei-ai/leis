@@ -1,5 +1,3 @@
-###DEC-096536-0-000-19-08-1988@@@
-
 DECRETO N° 96.536, DE 19 DE AGOSTO DE 1988
 
 Outorga concessão ao Sistema CLUBE DO PARÁ DE COMUNICAÇÃO LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Belém, Estado do Pará.

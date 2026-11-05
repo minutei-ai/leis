@@ -1,5 +1,3 @@
-###DEC-061581-0-000-20-10-1967@@@
-
 DECRETO Nº 61.581, DE 20 DE OUTUBRO DE 1967.
 
 Regulamenta a transferência de concessão e autorização para o serviço de energia elétrica.

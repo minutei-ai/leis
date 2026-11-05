@@ -1,5 +1,3 @@
-###DEC-056402-0-000-03-06-1965@@@
-
 DECRETO Nº 56.402, DE 3 DE JUNHO DE 1965.
 
 Autoriza Bauxita Santa Rita Limitada - Bauxisa a pesquisar bauxita, no município de Nhamundá, Estado do Amazonas.

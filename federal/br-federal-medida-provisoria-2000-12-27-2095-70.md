@@ -1,5 +1,3 @@
-###MPV-002095-0-070-27-12-2000@@@
-
 MEDIDIA PROVISÓRIA Nº 2.095-70, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgão e entidades federais, e dá outras providências.

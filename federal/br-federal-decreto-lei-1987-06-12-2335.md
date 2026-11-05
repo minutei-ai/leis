@@ -1,7 +1,3 @@
-1
-
-###DEL-002335-0-000-12-06-1987@@@
-
 # DECRETO-LEI Nº 2.335, DE 12 DE JUNHO DE 1987
 
 Dispõe sobre o congelamento de preços e aluguéis, reajustes mensais de salários e vencimentos, institui a Unidade de Referência de Preços (URP), e dá outras providências.

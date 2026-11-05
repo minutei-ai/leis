@@ -1,5 +1,3 @@
-###DEL-004082-0-000-04-02-1942@@@
-
 DECRETO-LEI N. 4.082 – DE 4 DE FEVEREIRO DE 1942
 
 Dispõe sobre a matança de vacas e bezerros nos estabelecimentos sob inspeção federal

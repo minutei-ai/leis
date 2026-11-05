@@ -1,5 +1,3 @@
-###DEC-048534-0-000-18-07-1960@@@
-
 DECRETO Nº 48.534, de 18 de julho de 1960.
 
 Específica as funções de Oficiais da Marinha de Guerra a serem consideradas como Serviços de Estado-Maior.

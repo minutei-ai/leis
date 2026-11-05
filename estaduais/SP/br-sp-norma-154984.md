@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/154984)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/emenda.constitucional/1981/compilacao-emenda.constitucional-26-24.09.1981.html)
 
 # EMENDA CONSTITUCIONAL N° 26, DE 24 DE SETEMBRO DE 1981
@@ -11,11 +10,16 @@
 
 ~~"XIII - convocar Secretário de Estado para prestar, pessoalmente, perante a Assembléia ou qualquer de suas comissões, informações sobre o assunto de sua pasta, previamente determinado;"~~
 
-~~Artigo 2.° - O inciso V do art. 45 da Constituição do Estado ([Emenda n.° 2, de 30 de outubro de 1969](https://www.al.sp.gov.br/norma/154951)), passa a vigorar com a seguinte redação:~~<br>
-~~"V - comparecer, perante a Assembléia ou qualquer de suas comissões, para prestar esclarecimentos, espontaneamente ou quando regularmente convocado;"~~<br>
-~~Assembléia Legislativa do Estado de São Paulo, aos 24 de setembro de 1981.~~<br>
-  ~~a) JANUÁRIO MANTELLI NETO, Presidente~~<br>
-  ~~a) Sylvio Martini, 1.° Secretário~~<br>
+~~Artigo 2.° - O inciso V do art. 45 da Constituição do Estado ([Emenda n.° 2, de 30 de outubro de 1969](https://www.al.sp.gov.br/norma/154951)), passa a vigorar com a seguinte redação:~~
+
+~~"V - comparecer, perante a Assembléia ou qualquer de suas comissões, para prestar esclarecimentos, espontaneamente ou quando regularmente convocado;"~~
+
+~~Assembléia Legislativa do Estado de São Paulo, aos 24 de setembro de 1981.~~
+
+  ~~a) JANUÁRIO MANTELLI NETO, Presidente~~
+
+  ~~a) Sylvio Martini, 1.° Secretário~~
+
   ~~a) Vicente Botta, 2.° Secretário~~
 
 Revogada.

@@ -1,5 +1,3 @@
-###MPV-000350-0-000-22-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 350, DE 22 DE JANEIRO DE 2007.
 
 Altera a Lei no 10.188, de 12 de fevereiro de 2001, que cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra, e dá outras providências.
@@ -83,5 +81,3 @@ Marcio Fortes de Almeida
 Guido Mantega
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra e retificado no DOU de 23.1.2007.

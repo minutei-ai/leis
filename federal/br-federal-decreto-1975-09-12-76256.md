@@ -1,5 +1,3 @@
-###DEC-076256-0-000-12-09-1975@@@
-
 DECRETO Nº 76.256 - DE 12 DE SETEMBRO DE 1975
 
 Concede à Mineração Cambuí S. A. o direito de lavrar filito no Município de São José dos Pinhais, Estado do Paraná.

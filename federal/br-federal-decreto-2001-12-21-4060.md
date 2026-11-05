@@ -1,5 +1,3 @@
-###DEC-004060-0-000-21-12-2001@@@
-
 DECRETO Nº 4.060, DE 21 DE DEZEMBRO DE 2001
 
 Prorroga o prazo para assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras, conforme o disposto na Lei no 10.309, de 22 de novembro de 2001, e dá outras providências.

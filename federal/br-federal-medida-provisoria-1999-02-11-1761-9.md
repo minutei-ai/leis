@@ -1,5 +1,3 @@
-###MPV-001761-0-009-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.761-9, DE 11 DE FEVEREIRO DE 1999.
 
 Dispõe sobre a fiscalização das atividades relativas ao abastecimento nacional de combustíveis, de que trata a Lei nº 9.478, de 6 de agosto de 1997, estabelece sanções administrativas e dá outras providências.

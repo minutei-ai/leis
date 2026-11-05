@@ -14,5 +14,6 @@ Art. 4° - O poder Executivo, junto à Secretaria de educação, dará diretrize
 
 Art. 5° Esta Lei entra em vigor na data da sua publicação.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Camara Municipal

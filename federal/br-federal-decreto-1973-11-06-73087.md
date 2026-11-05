@@ -1,5 +1,3 @@
-###DEC-073087-0-000-06-11-1973@@@
-
 DECRETO Nº 73.087 - DE 6 DE NOVEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, do Quadro de Pessoal do Departamento Administrativo do Pessoal Civil para o do Ministério da Fazenda, e dá outras providências.

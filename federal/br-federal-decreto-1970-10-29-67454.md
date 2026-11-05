@@ -1,5 +1,3 @@
-###DEC-067454-0-000-29-10-1970@@@
-
 Decreto Nº 67.454 - de 29 de outubro de 1970
 
 Altera a denominação de cargo em comissão do Ministério da Aeronáutica.

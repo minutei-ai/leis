@@ -1,5 +1,3 @@
-###DEL-003499-0-000-13-08-1941@@@
-
 DECRETO-LEI N. 3.499 – DE 13 DE AGOSTO DE 1941
 
 Altera sem aumento de despesa, o atual Orçamento do Ministério da Justiça e Negócios Interiores

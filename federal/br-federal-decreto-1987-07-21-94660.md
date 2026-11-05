@@ -1,5 +1,3 @@
-###DEC-094660-0-000-21-07-1987@@@
-
 DECRETO N° 94.660, DE 21 DE JULHO DE 1987.
 
 Inclui, na composição do Conselho de Administração da Superintendência da Zona Franca de Manaus - SUFRAMA, representantes do Ministério da Justiça e da Secretaria de Administração Pública da Presidência da República.

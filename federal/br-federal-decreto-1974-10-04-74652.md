@@ -1,5 +1,3 @@
-###DEC-074652-0-000-04-10-1974@@@
-
 DECRETO Nº 74.652, DE 4 DE OUTUBRO DE 1974.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras "Professor Carlos Pasquale", mantida pela Sociedade Educacional "Liceu Acadêmico de São Paulo", com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-080110-0-000-09-08-1977@@@
-
 DECRETO Nº 80.110, DE 9 DE AGOSTO DE 1977.
 
 Concede reconhecimento ao curso de Psicologia da Universidade do Vale do Rio dos Sinos, com sede na cidade de São Leopoldo, Estado do Rio Grande do Sul.

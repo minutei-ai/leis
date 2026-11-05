@@ -1,5 +1,3 @@
-###DEC-079676-0-000-10-05-1977@@@
-
 decreto nº 79.676, de 10 de maio de 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, do Instituto de Ciências Humanas, da Universidade Federal de Pelotas.

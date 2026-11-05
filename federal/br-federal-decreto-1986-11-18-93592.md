@@ -1,5 +1,3 @@
-###DEC-093592-0-000-18-11-1986@@@
-
 DECRETO Nº 93.592, DE 18 DE NOVEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Administração em Telêmaco Borba, Paraná.

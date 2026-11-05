@@ -1,5 +1,3 @@
-###DEC-069035-0-000-09-08-1971@@@
-
 DECRETO Nº 69.035, DE 9 DE AGÔSTO DE 1971.
 
 Autorização para funcionamento da Faculdade de Engenharia de Operação "Santa Cecília”, com os cursos de Engenharia de Operação, modalidade de: Química, Máquinas e Ferramentas, Eletrotécnica e Eletrônica, SP.

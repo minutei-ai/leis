@@ -1,5 +1,3 @@
-###DEC-092479-0-000-21-03-1986@@@
-
 DECRETO Nº 92.479, DE 21 DE MARÇO DE 1986
 
 Renova a concessão outorgada à RÁDIO SOCIEDADE MURIAÉ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Muriaé, Estado de Minas Gerais.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.112, DE 28 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui no Estado, o uso do colar de girassol como instrumento auxiliar de orientação para identificação de pessoas com deficiências ocultas.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui no Estado, o uso do colar de girassol como instrumento auxiliar de orientação para identificação de pessoas com deficiências ocultas.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE, em exercício**
 

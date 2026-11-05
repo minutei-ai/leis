@@ -1,5 +1,3 @@
-###DEC-074638-0-000-03-10-1974@@@
-
 DECRETO nº 74.638, DE 3 DE OUTUBRO DE 1974
 
 Concede reconhecimento à Escola de Medicina da Santa Casa de misericórdia de Vitória - EMESCAM, e do seu curso de Medicina, mantida pela Irmandade da Santa Casa de Misericórdia de Vitória, com sede na Cidade de Vitória, Estado do Espírito Santo.

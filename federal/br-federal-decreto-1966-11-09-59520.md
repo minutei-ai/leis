@@ -1,5 +1,3 @@
-###DEC-059520-0-000-09-11-1966@@@
-
 DECRETO Nº 59.520, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Aly Procópio Torres a pesquisar feldspato, no município de Santa Maria de Itabira, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###MPV-002118-0-026-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.118-26, DE 27 DE DEZEMBRO DE 2000
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outra que especifica, de responsabilidade dos Municípios.

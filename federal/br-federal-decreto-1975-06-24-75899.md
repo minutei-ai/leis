@@ -1,5 +1,3 @@
-###DEC-075899-0-000-24-06-1975@@@
-
 DECRETO Nº 75.899, DE 24 DE JUNHO DE 1975.
 
 Concede permissão, em caráter permanente, à Companhia Têxtil Cachoeira da Macacos, com sede na cidade de Minas Gerais, para funcionar aos domingos e nos dias feriados civis e religiosos, no estabelecimento que menciona.

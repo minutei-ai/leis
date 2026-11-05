@@ -1,5 +1,3 @@
-###DEC-054514-0-000-21-10-1964@@@
-
 DECRETO Nº 54.514, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Boaventura Leite Júnior a pesquisar diamantes e ouro no município de Diamantina, Estado de Minas Gerais.

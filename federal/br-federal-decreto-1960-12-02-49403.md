@@ -1,5 +1,3 @@
-###DEC-049403-0-000-02-12-1960@@@
-
 decreto nº 49.403, de 2 de dezembro de 1960.
 
 Autoriza o cidadão brasileiro José Ferreira de Souza a pesquisar quartzito no município de Mogi das Cruzes, Estado de São Paulo.

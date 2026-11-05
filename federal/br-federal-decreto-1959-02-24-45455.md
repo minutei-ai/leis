@@ -1,5 +1,3 @@
-###DEC-045455-0-000-24-02-1959@@@
-
 Decreto nº 45.455, de 24 de fevereiro de 1959.
 
 Concedo à sociedade “CINABA” Comércio, Indústria e Navegação Bandeirantes S.A. autorização para funcionar como emprêsa de navegação de cabotagem.

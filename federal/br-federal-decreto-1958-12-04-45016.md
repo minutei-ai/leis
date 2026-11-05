@@ -1,5 +1,3 @@
-###DEC-045016-0-000-04-12-1958@@@b
-
 Decreto nº 45.016, de 4 de dezembro de 1958.
 
 Autoriza a Emprêsas de Eletricidade Vale do Paranapanema S.A. a ampliar suas instalações.

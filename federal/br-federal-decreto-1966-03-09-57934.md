@@ -1,5 +1,3 @@
-###DEC-057934-0-000-09-03-1966@@@
-
 DECRETO Nº 57.934, DE 9 DE MARÇO DE 1966.
 
 Autoriza a Sociedade São Paulo de Mineração Ltda. a lavrar minério de ferro, no município de Joinvile, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-073893-0-000-05-04-1974@@@
-
 DECRETO Nº 73.893, de 5 de ABRIL de 1974.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

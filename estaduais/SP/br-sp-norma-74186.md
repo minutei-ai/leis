@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74186)
-
 # LEI Nº 12.696, DE 04 DE OUTUBRO DE 2007
 
 ### _Autoriza o DER a transferir ao Município de Altinópolis, o domínio, e a ceder os direitos possessórios que detém sobre as áreas que especifica._

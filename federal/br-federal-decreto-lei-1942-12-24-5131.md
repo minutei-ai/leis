@@ -1,5 +1,3 @@
-###DEL-005131-0-000-24-12-1942@@@
-
 DECRETO-LEI N. 5.131 – DE 24 DE DEZEMBRO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a isentar o "Instituto de Aposentadoria e Pensões da Estiva”, do pagamento do imposto que menciona

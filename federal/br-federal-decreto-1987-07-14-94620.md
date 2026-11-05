@@ -1,5 +1,3 @@
-###DEC-094620-0-000-14-07-1987@@@
-
 DECRETO N° 94.620, DE 14 DE JULHO DE 1987
 
 Altera o Capítulo 87, da Tabela de Incidência do Imposto sobre Produtos Industrializados (TIPI), aprovada pelo Decreto n° 89.241, de 23 de dezembro de 1983, e dá outras providências.

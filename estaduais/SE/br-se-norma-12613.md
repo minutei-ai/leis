@@ -48,6 +48,4 @@ Cristiano Barreto Guimarães
 
 Secretário Especial de Governo
 
-_Iniciativa da Deputada Carminha Paiva – PT_
-
-Este texto não substitui o publicado no D.O.E. de 09.09.2026.
+_Iniciativa da Deputada Carminha Paiva – PT

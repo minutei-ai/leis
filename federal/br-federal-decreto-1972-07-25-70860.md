@@ -1,5 +1,3 @@
-###DEC-070860-0-000-25-07-1972@@@
-
 DECRETO Nº 70.860, DE 25 DE JULHO DE 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, a área de terreno necessária à implantação do Projeto de Irrigação do Vale de Itapicuru, abrangendo parte dos municípios de Araci Tucano, Quinjingue, Queimados e Santa Luz, no Estado da Bahia.

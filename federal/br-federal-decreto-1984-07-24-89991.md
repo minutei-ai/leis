@@ -1,5 +1,3 @@
-###DEC-089991-0-000-24-07-1984@@@
-
 Decreto nº 89.991, de 24 de Julho de 1984
 
 Outorga concessão à RÁDIO DIFUSORA DE CAMBÉ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cambé, Estado do Paraná.

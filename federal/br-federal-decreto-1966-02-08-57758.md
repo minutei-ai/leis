@@ -1,5 +1,3 @@
-###DEC-057758-0-000-08-02-1966@@@
-
 DECRETO Nº 57.758, DE 8 DE FEVEREIRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Mercúrio Companhia Nacional de Seguros, relativa ao aumento do capital social.

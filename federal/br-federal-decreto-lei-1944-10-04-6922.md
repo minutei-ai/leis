@@ -1,5 +1,3 @@
-###DEL-006922-0-000-04-10-1944@@@
-
 DECRETO-LEI N. 6.922 – DE 4 DE OUTUBRO DE 1944
 
   Dispõe sôbre a identificação do gado bovino vacinado contra o abôrto infeccioso e dá outras providências

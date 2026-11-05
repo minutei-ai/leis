@@ -1,5 +1,3 @@
-###DEC-006643-0-000-18-11-2008@@@
-
 DECRETO Nº 6.632, DE 18 DE NOVEMBRO DE 2008.
 
 Dá nova redação ao art. 59 do regulamento do Decreto-Lei n~~º~~ 73, de 21 de novembro de 1966, aprovado pelo Decreto n~~º~~ 60.459, de 13 de março de 1967; e ao caput do art. 16 do Decreto n~~º~~ 3.937, de 25 de setembro de 2001, que regulamenta a Lei n~~º~~ 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação.

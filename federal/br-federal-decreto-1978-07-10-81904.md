@@ -1,5 +1,3 @@
-###DEC-081904-0-000-10-07-1978@@@
-
 Decreto nº 81.904, de 10 de julho de 1978.
 
 Concede reconhecimento aos cursos de Letras e de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Macaé, com sede na cidade de Macaé, Estado do Rio de Janeiro.

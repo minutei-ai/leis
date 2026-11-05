@@ -1,5 +1,3 @@
-###DEC-085112-0-000-02-09-1980@@@
-
 Decreto nº 85.112, de 02 de Setembro de 1980.
 
 Aprova o Regulamento da Comissão Mista Brasileiro-Argentina para a construção da Ponte sobre o Rio Iguaçu, criada pelas Notas trocadas entre os Ministros das Relações Exteriores dos dois países, em 17 de maio de 1980.

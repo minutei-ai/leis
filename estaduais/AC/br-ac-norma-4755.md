@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.510, de 20 de Dezembro de 2024.](https://legis.ac.gov
 
 > **LEI Nº 3.772, DE 09 DE AGOSTO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Fundo Especial da Polícia Militar do Estado do Acre - FUNESPOM/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Fundo Especial da Polícia Militar do Estado do Acre - FUNESPOM/AC.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

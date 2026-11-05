@@ -1,5 +1,3 @@
-###DEC-049812-0-000-31-12-1960@@@
-
 DECRETO N. 49.812 – DE 31 DE DEZEMBRO DE 1960
 
 Declara de utilidade pública a Irmandade da Santa casa de Misericórdia de Mogi-Mirim, com sede em Mogi-Mirim, Estado de São Paulo.

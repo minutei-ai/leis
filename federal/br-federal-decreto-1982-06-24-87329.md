@@ -1,5 +1,3 @@
-###DEC-087329-0-000-24-06-1982@@@
-
 DecretO nº 87.329, de 24 de junho de 1982
 
 Autoriza a transferência, para o patrimônio da Telecomunicações Brasileiras S.A. - TELEBRÁS, de ações e créditos da União na Telecomunicações da Bahia S.A. - TELEBAHIA.

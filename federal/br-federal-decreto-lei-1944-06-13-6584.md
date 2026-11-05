@@ -1,5 +1,3 @@
-###DEL-006584-0-000-13-06-1944@@@
-
 DECRETO-LEI N. 6.584 – DE 13 DE JUNHO DE 1944
 
 Cria a companhia de Guarda da Ilha do Bom Jesús

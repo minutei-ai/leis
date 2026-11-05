@@ -1,5 +1,3 @@
-###DEL-003623-0-000-17-09-1941@@@
-
 DECRETO-LEI N. 3.623 – DE 17 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito especial de 6.470:000$0, para ocorrer às despesas de instalação e aparelhamento do novo edifício destinado à sede do mesmo Ministério

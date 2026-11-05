@@ -1,5 +1,3 @@
-###DEC-067312-0-000-01-10-1970@@@
-
 DECRETO Nº 67.312, DE 1 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 25.001, de 26 de maio de 1948.

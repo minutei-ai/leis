@@ -1,5 +1,3 @@
-###DEC-044940-0-000-01-12-1958@@@
-
 DECRETO Nº 44.940, DE 1 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Antônio José de Melo Nogueira a lavrar argila no Município de Suzano, Estado de São Paulo.

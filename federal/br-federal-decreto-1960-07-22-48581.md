@@ -1,5 +1,3 @@
-###DEC-048581-0-000-22-07-1960@@@
-
 DECRETO Nº 48.581, DE 22 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro João Sattin, a pesquisar feldspato, no município de Socorro, Estado de São Paulo.

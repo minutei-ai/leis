@@ -1,5 +1,3 @@
-###DEC-088211-0-000-05-04-1983@@@
-
 Decreto nº 88.211, de 05 de abril de 1983
 
 Outorga concessão à RÁDIO SISAL DE CONCEIÇÃO DO COITÉ LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Conceição do Coité, Estado da Bahia.

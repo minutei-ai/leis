@@ -1,5 +1,3 @@
-###DEC-065321-0-000-10-10-1969@@@
-
 DECRETO Nº 65.321, DE 10 DE OUTUBRO DE 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Conselho Nacional de Telecomunicações, cargo originários da extinta Comissão do Vale do São Francisco.

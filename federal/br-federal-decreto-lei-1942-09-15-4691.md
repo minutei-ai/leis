@@ -1,5 +1,3 @@
-###DEL-004691-0-000-15-09-1942@@@
-
 DECRETO-LEI N. 4.691 – DE 15 DE SETEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito de 13:200$0, suplementar à verba que especifica

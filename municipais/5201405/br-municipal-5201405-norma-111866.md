@@ -1,11 +1,13 @@
-LEI COMPLEMENTAR N° 125, DE 11 DE JANEIRO 2017.<br>
+LEI COMPLEMENTAR N° 125, DE 11 DE JANEIRO 2017.
+
 (REVOGADA PELA LEI COMPLEMENTAR Nº 183, DE 4 DE JANEIRO DE 2021).
 
 ~~Dispõe sobre a Estrutura Organizacional Administrativa da Prefeitura Municipal de Aparecida de Goiânia/GO e dá outras providências.~~
 
 ~~FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:~~
 
-~~CAPÍTULO I<br>
+~~CAPÍTULO I
+
 Da Estruturação das Secretarias~~
 
 ~~Art. 1º A estrutura organizacional administrativa da Prefeitura Municipal de Aparecida de Goiânia/GO é constituída pelos seguintes órgãos, conforme disposto no Anexo I-1:~~
@@ -78,11 +80,14 @@ Da Estruturação das Secretarias~~
 
 ~~IV. Assessor Especial IV, que desenvolve atividades de assessoria junto aos demais setores.~~
 
-~~VII. Colaborador Eventual: pessoa que presta serviço à Administração Direta, em caráter eventual, sem vínculo com nenhum órgão público.~~<br>
-~~(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).<br>
+~~VII. Colaborador Eventual: pessoa que presta serviço à Administração Direta, em caráter eventual, sem vínculo com nenhum órgão público.~~
+
+~~(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).
+
 (Revogado pela Lei Complementar nº 161, de 29 de maio de 2019).~~
 
-~~CAPÍTULO II<br>
+~~CAPÍTULO II
+
 Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~Art. 3º O Gabinete do Prefeito tem a estrutura definida no Anexo I-1.1 desta Lei e possui as seguintes competências:~~
@@ -113,33 +118,44 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~XIII. outras atividades correlatas.~~
 
-~~“§1º. Ficam criadas as Secretarias Executivas da Ouvidoria e do Gabinete de Gestão Integrada do Município (GGIM), vinculadas e subordinadas diretamente ao Gabinete do Prefeito.~~<br>
+~~“§1º. Ficam criadas as Secretarias Executivas da Ouvidoria e do Gabinete de Gestão Integrada do Município (GGIM), vinculadas e subordinadas diretamente ao Gabinete do Prefeito.~~
+
 ~~(Redação alterada pela Lei Complementar nº 137, de 12 de dezembro de 2017).~~
 
 ~~§ 1º Ficam criadas as Secretarias Executivas da Ouvidoria, do Gabinete de Gestão Integrada do Município (GGIM) e do Gabinete Militar da Prefeitura de Aparecida de Goiânia, vinculadas e subordinadas diretamente ao Gabinete do Prefeito~~
 
-~~§ 2º A Secretaria Executiva do Gabinete Militar tem a função de assessoramento direto e imediato ao Chefe do Poder Executivo Municipal nos assuntos de natureza militar, e que será responsável pela coordenação e execução das atividades de segurança policial, nos casos em que se fizer necessário, bem como a integração das ações entre o Poder Executivo aparecidense e a Secretaria da Segurança Pública e Administração Penitenciária do Estado de Goiás.~~<br>
+~~§ 2º A Secretaria Executiva do Gabinete Militar tem a função de assessoramento direto e imediato ao Chefe do Poder Executivo Municipal nos assuntos de natureza militar, e que será responsável pela coordenação e execução das atividades de segurança policial, nos casos em que se fizer necessário, bem como a integração das ações entre o Poder Executivo aparecidense e a Secretaria da Segurança Pública e Administração Penitenciária do Estado de Goiás.~~
+
 ~~(Revogado pela Lei Complementar nº 137, de 12 de dezembro de 2017).~~
 
-~~§ 3º O Gabinete Militar será composto por policiais militares do Estado de Goiás, até o limite de 10 (dez) policiais, sendo todos da ativa colocados à disposição do Município de Aparecida de Goiânia, com ônus para a corporação de origem, sendo considerados no exercício da função de natureza policial-militar.~~<br>
+~~§ 3º O Gabinete Militar será composto por policiais militares do Estado de Goiás, até o limite de 10 (dez) policiais, sendo todos da ativa colocados à disposição do Município de Aparecida de Goiânia, com ônus para a corporação de origem, sendo considerados no exercício da função de natureza policial-militar.~~
+
 ~~(Revogado pela Lei Complementar nº 137, de 12 de dezembro de 2017).~~
 
-~~§ 4º O Secretário Executivo do Gabinete Militar será o policial militar de maior patente dentre aqueles que compõe o Gabinete Militar da Prefeitura de Aparecida de Goiânia.~~<br>
+~~§ 4º O Secretário Executivo do Gabinete Militar será o policial militar de maior patente dentre aqueles que compõe o Gabinete Militar da Prefeitura de Aparecida de Goiânia.~~
+
 ~~(Revogado pela Lei Complementar nº 137, de 12 de dezembro de 2017).~~
 
-~~§ 5º Fica instituída a Gratificação Especial Mensal de Policial Militar, devida aos policiais militares lotados no Gabinete Militar da Prefeitura de Aparecida de Goiânia, correspondente a 50% (cinquenta por cento) do subsídio mensal percebido pelo policial no seu órgão de origem, a ser pago pelo Poder Executivo Municipal.~~<br>
+~~§ 5º Fica instituída a Gratificação Especial Mensal de Policial Militar, devida aos policiais militares lotados no Gabinete Militar da Prefeitura de Aparecida de Goiânia, correspondente a 50% (cinquenta por cento) do subsídio mensal percebido pelo policial no seu órgão de origem, a ser pago pelo Poder Executivo Municipal.~~
+
 ~~(Revogado pela Lei Complementar nº 137, de 12 de dezembro de 2017).~~
 
-~~§6º. Fica instituída a função de Colaborador Eventual, sob a forma de prestação de serviços à Administração Pública Municipal, diretamente vinculada ao Gabinete do Prefeito, com o objetivo de representar o Município junto aos órgãos federais, estaduais e organismos internacionais, com vistas à captação de recursos, convênios ou benefícios de qualquer natureza, bem como auxiliar o Prefeito em missão institucional, reuniões, conferências, simpósios, congressos e eventos similares.<br>
-(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).<br>
+~~§6º. Fica instituída a função de Colaborador Eventual, sob a forma de prestação de serviços à Administração Pública Municipal, diretamente vinculada ao Gabinete do Prefeito, com o objetivo de representar o Município junto aos órgãos federais, estaduais e organismos internacionais, com vistas à captação de recursos, convênios ou benefícios de qualquer natureza, bem como auxiliar o Prefeito em missão institucional, reuniões, conferências, simpósios, congressos e eventos similares.
+
+(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).
+
 (Revogado pela Lei Complementar nº 161, de 29 de maio de 2019).~~
 
-~~§7º. O Colaborar Eventual será designado por meio de decreto, para exercer sua função em caráter episódico, sem vínculo de qualquer espécie com o Município de Aparecida de Goiânia, ressalvando-se apenas a percepção de diárias, nos termos do art. 70 da Lei Complementar Municipal nº 003, de 28 de dezembro de 2001, limitada ao valor fixado para os servidores ocupantes dos cargos de classe de vencimento “DS-1”.<br>
-(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).<br>
+~~§7º. O Colaborar Eventual será designado por meio de decreto, para exercer sua função em caráter episódico, sem vínculo de qualquer espécie com o Município de Aparecida de Goiânia, ressalvando-se apenas a percepção de diárias, nos termos do art. 70 da Lei Complementar Municipal nº 003, de 28 de dezembro de 2001, limitada ao valor fixado para os servidores ocupantes dos cargos de classe de vencimento “DS-1”.
+
+(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).
+
 (Revogado pela Lei Complementar nº 161, de 29 de maio de 2019).~~
 
-~~§8º. A estrutura mínima necessária ao desempenho das atividades do Colaborador Eventual será estabelecida no decreto de sua designação.<br>
-(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).<br>
+~~§8º. A estrutura mínima necessária ao desempenho das atividades do Colaborador Eventual será estabelecida no decreto de sua designação.
+
+(Redação acrescentada pela Lei Complementar nº 136, de 27 de novembro de 2017).
+
 (Revogado pela Lei Complementar nº 161, de 29 de maio de 2019).~~
 
      ~~Art. 4º O Gabinete do Vice-Prefeito tem a estrutura definida no Anexo I-2.1 desta Lei e possui as seguintes competências:~~
@@ -696,7 +712,8 @@ Das Atribuições e Estrutura dos Órgãos Municipais~~
 
 ~~Art. 24 A estrutura e as atribuições do Instituto de Previdência de Aparecida de Goiânia – APARECIDAPREV será definida em lei própria.~~
 
-~~CAPÍTULO III<br>
+~~CAPÍTULO III
+
 DA REMUNERAÇÃO~~
 
 ~~Art. 25 Os ocupantes dos cargos descritos no Anexo II desta Lei, integrantes da estrutura administrativa organizacional de direção e assessoramento, serão remunerados na forma prevista no Anexo III desta Lei.~~
@@ -711,7 +728,8 @@ DA REMUNERAÇÃO~~
 
 ~~DAS DISPOSIÇÕES GERAIS~~
 
-~~Art. 27 - Por Decreto do Prefeito Municipal, poderão ser remanejadas unidades administrativas de um órgão para outro, bem como alteradas as nomenclaturas e atribuições de órgãos já existentes, visando atender as necessidades e a racionalização das atividades administrativas, desde que não implique em aumento da despesa.~~<br>
+~~Art. 27 - Por Decreto do Prefeito Municipal, poderão ser remanejadas unidades administrativas de um órgão para outro, bem como alteradas as nomenclaturas e atribuições de órgãos já existentes, visando atender as necessidades e a racionalização das atividades administrativas, desde que não implique em aumento da despesa.~~
+
 ~~(Redação alterada pela Lei Complementar nº 137, de 12 de dezembro de 2017).~~
 
 ~~Art. 27 Por Decreto do Prefeito Municipal, poderão ser remanejadas unidades administrativas de um para outro órgão para atender a necessidades e a racionalização das atividades administrativas, redefinindo-se suas atribuições, vedado o aumento da despesa.~~
@@ -720,7 +738,8 @@ DA REMUNERAÇÃO~~
 
 ~~Art. 28 As despesas decorrentes da aplicação da presente lei correrão à conta de dotações próprias consignadas no orçamento vigente, suplementadas se necessário.~~
 
-~~CAPÍTULO V<br>
+~~CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS~~
 
 ~~Art. 29 Ficam mantidas as disposições contidas na Lei Complementar nº 015, de 08 de agosto de 2008, Lei Complementar nº 111, de 08 de dezembro de 2015 e Lei Complementar nº 112, de 11 de dezembro de 2015, que não conflitarem com esta Lei.~~
@@ -793,7 +812,8 @@ DAS DISPOSIÇÕES FINAIS~~
 
 ~~Gabinete do Prefeito do Município de Aparecida de Goiânia, aos 11 dias do mês de janeiro do ano 2017.~~
 
-~~GUSTAVO MENDANHA MELO<br>
+~~GUSTAVO MENDANHA MELO
+
 Prefeito Municipal~~
 
 ~~[ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18697)~~

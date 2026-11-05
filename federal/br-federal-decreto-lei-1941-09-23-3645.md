@@ -1,5 +1,3 @@
-###DEL-003645-0-000-23-09-1941@@@
-
 DECRETO-LEI N. 3.645 – DE 23 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde  o crédito suplementar de 2.850:000$0 à verba que especifica

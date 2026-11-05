@@ -1,7 +1,3 @@
-1
-
-###DEC-001475-0-000-28-04-1995@@@
-
 DECRETO Nº 1.475, DE 28 DE ABRIL DE 1995
 
 Fixa, para o exercício de 1995, o limite global das importações incentivadas, por intermédio da Zona Franca de Manaus, da Amazônia Ocidental e das Áreas de Livre Comércio,

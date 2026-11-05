@@ -1,5 +1,3 @@
-###DEC-090750-0-000-24-12-1984@@@
-
 Decreto nº 90.750, de 24 de dezembro de 1984
 
 Altera o Decreto nº 86.550, de 6 de novembro de 1981, que inclui a Secretaria de Tecnologia Industrial e o Instituto Nacional de Tecnologia no regime de que trata o Decreto nº 86.212, de 15 de julho de 1981.

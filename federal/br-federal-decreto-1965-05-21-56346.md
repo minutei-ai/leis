@@ -1,5 +1,3 @@
-###DEC-056346-0-000-21-05-1965@@@
-
 DECRETO Nº 56.346, DE 21 DE MAIO DE 1965.
 
 Declara de utilidade pública a Associação Paulista da Igreja Adventista do Sétimo Dia, com sede em São Paulo, Estado de São Paulo.

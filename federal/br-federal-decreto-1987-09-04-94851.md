@@ -1,5 +1,3 @@
-###DEC-094851-0-000-04-09-1987@@@
-
 DECRETO N° 94.851, DE 4 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "LOTES n°s 62, 72, 96, (PARTE), do setor 1 e 61, 103 e 104, do SETOR 2, da GLEBA CORUMBIARA", classificado no Cadastro de Imóveis Rurais do INCRA como "latifúndio por exploração", situados no Município de Pimenta Bueno, no Estado de Rondônia, compreendidos na zona prioritária, para fins de Reforma Agrária, fixada pelo Decreto n° 92.684, de 19 de maio de 1986, e dá outras providências.

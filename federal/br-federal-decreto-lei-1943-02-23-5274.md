@@ -1,5 +1,3 @@
-###DEL-005274-0-000-23-02-1943@@@
-
 DECRETO‑LEI N. 5.274 – DE 23 DE FEVEREIRO DE 1943
 
 Dispõe sobre tatamento de saude de oficiais e praças do Exército

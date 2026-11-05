@@ -1,5 +1,3 @@
-###DEC-081539-0-000-10-04-1978@@@
-
 Decreto nº 81 539, de 10 de abril de 1978.
 
 Concede à Gutimpex Importadora e Exportadora Ltda. o direito de lavrar calcário no Município de Cantagalo, Estado do Rio de Janeiro.

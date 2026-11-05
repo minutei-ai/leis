@@ -1,5 +1,3 @@
-###DEC-072040-0-000-30-03-1973@@@
-
 DECRETO Nº 72.040, DE 30 DE MARÇO DE 1973.
 
 Retifica o artigo 1º, do Decreto número 43.359, de 12 de março de 1958.

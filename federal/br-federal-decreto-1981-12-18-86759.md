@@ -1,5 +1,3 @@
-###DEC-086759-0-000-18-12-1981@@@
-
 Decreto nº 86.759, de 18 de dezembro de 1981
 
 Autoriza o Governo do Estado de Pernambuco a instalar, através do DETELPE - Departamento de Telecomunicações de Pernambuco, na cidade de Caruaru, uma estação de radiodifusão de sons e imagens, (televisão) mediante convênio a ser celebrado com o Ministério das Comunicações.

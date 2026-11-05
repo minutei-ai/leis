@@ -1,5 +1,3 @@
-###DEC-006995-0-000-30-10-2009@@@
-
 DECRETO Nº 6.995, DE 30 DE OUTUBRO DE 2009.
 
 Acresce dispositivo ao parágrafo único do art. 1o do Anexo I do Decreto no 5.174, de 9 de agosto de 2004, para designar a Secretaria Especial dos Direitos Humanos da Presidência da República como Autoridade Central da Convenção Interamericana sobre Restituição Internacional de Menores.

@@ -1,5 +1,3 @@
-###DEC-053131-0-000-10-12-1963@@@
-
 DECRETO Nº 53.131, DE 10 DE DEZEMBRO DE 1963.
 
 Transfere da prefeitura Municipal de Sarandi para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a concessão para distribuir energia elétrica no município de Sarandi.

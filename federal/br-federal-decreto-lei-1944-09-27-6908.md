@@ -1,5 +1,3 @@
-###DEL-006908-0-000-27-09-1944@@@
-
 DECRETO-LEI N. 6.908 – DE 27 DE SETEMBRO DE 1944
 
 Abre ao Departamento Administrativo do Serviço Público o crédito especial de Cr$ 5.000.000,00 para despesas com a organização da entidade a que se refere o Decreto-lei nº 5.693, de 14 de julho de 1944, e dá outras providências

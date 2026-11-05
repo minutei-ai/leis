@@ -1,5 +1,3 @@
-###DEC-045369-0-000-02-02-1959@@@
-
 Decreto nº 45.369, de 2 de fevereiro de 1959.
 
 Outorga concessão à Rádio Difusora Brasileira Sociedade Anônima para instalar uma estação radiodifusora.

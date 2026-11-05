@@ -1,5 +1,3 @@
-###DEC-097056-0-000-09-11-1988@@@
-
 DECRETO Nº 97.056, DE 9 DE NOVEMBRO DE 1988
 
 Regulamenta o art. 35 da Lei nº 7.664, de 29 de junho de 1988, para efeito de ressarcimento fiscal pela propaganda eleitoral gratuita, relativa às eleições de 15 de novembro de 1988.

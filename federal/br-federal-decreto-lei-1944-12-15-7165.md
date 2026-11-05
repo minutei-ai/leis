@@ -1,5 +1,3 @@
-###DEL-007165-0-000-15-12-1944@@@
-
 DECRETO-LEI N. 7.165 – DE 15 DE DEZEMBRO DE 1944
 
 Suprime cargo no Quadro Permanente do Ministério da Educação e Saúde

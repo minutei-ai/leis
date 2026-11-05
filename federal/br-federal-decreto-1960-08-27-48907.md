@@ -1,5 +1,3 @@
-###DEC-048907-0-000-27-08-1960@@@
-
 decreto nº 48.907, de 27 de Agôsto de 1960.
 
 Altera a lotação do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-049215-0-000-14-11-1960@@@
-
 DECRETO Nº 49.215, de 14 de novembro de 1960.
 
 Declara de utilidade pública, para efeito de desapropriação às áreas abaixo mencionadas.

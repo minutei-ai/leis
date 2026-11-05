@@ -1,5 +1,3 @@
-###DEC-049190-A-000-09-11-1960@@@
-
 DECRETO N. 49.190 – A – DE 9 DE NOVEMBRO DE 1960
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, para o ano de 1961.

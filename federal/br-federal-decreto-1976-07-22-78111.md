@@ -1,5 +1,3 @@
-###DEC-078111-0-000-22-07-1976@@@
-
 DECRETO Nº 78.111, DE 22 DE JULHO DE 1976
 
 Cria, no Ministério da Justiça, Grupo de Trabalho Interministerial para examinar, conclusivamente, estudos relativos ao projeto do Registro Nacional das Pessoas Naturais.

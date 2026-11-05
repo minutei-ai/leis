@@ -1,5 +1,3 @@
-###DEL-005500-0-000-17-05-1943@@@
-
 DECRETO-LEI N. 5.500 – DE 17 DE MAIO DE 1943
 
 Cria o Esquadrão de Trem Motorizado do 3º Corpo de Trem Misto

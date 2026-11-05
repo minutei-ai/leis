@@ -1,5 +1,3 @@
-###DEC-006794-0-000-13-03-2009@@@
-
 DECRETO Nº 6.794, DE 13 DE MARÇO DE 2009.
 
 Dispõe sobre a supervisão da Associação de Comunicação Educativa Roquette Pinto - ACERP pela Empresa Brasil de Comunicação S. A - EBC e dá outras providências.

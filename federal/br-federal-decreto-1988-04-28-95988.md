@@ -1,5 +1,3 @@
-###DEC-095988-0-000-28-04-1988@@@
-
 DECRETO N° 95.988, DE 28 DE ABRIL DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

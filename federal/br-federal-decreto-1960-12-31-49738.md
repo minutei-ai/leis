@@ -1,5 +1,3 @@
-###DEC-049738-0-000-31-12-1960@@@
-
 decreto nº 49.738, de 31 de dezembro de 1960.
 
 Modifica o artigo do Decreto número 42.419, de 7 de outubro de 1957, e dá outras providências.

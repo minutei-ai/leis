@@ -1,5 +1,3 @@
-###DEC-092183-0-000-20-12-1985@@@
-
 Decreto nº 92.183, de 20 de dezembro de 1985
 
 Autoriza o funcionamento do curso de Secretariado Executivo Bilingüe da Faculdade de Ciências Contábeis e Administrativas do Litoral Santista.

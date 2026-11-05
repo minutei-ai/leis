@@ -1,5 +1,3 @@
-###DEC-080054-0-000-01-08-1977@@@
-
 DECRETO Nº 80.054, DE 1º DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Santa Catarina S.A. - CELESC, no Estado de Santa Catarina.

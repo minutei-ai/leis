@@ -1,5 +1,3 @@
-###DEC-049436-0-000-06-12-1960@@@
-
 DECRETO Nº 49.436, DE 6 DE DEZEMBRO DE 1960.
 
 Concede à Minérios Urussanga Ltda. autorização para funcionar como emprêsa de mineração

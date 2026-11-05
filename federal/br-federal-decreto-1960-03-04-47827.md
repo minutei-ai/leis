@@ -1,5 +1,3 @@
-###DEC-047827-0-000-04-03-1960@@@
-
 DECRETO Nº 47.827, DE 04 DE MARÇO DE 1960.
 
 Abre, ao Ministério da Educação e Cultura, o crédito de Cr$3.000.000,00 para atender às despesas com a realização, em Fortaleza, ceará, do VIII Congresso Nacional de Jornalistas.

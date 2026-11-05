@@ -1,5 +1,3 @@
-###DEC-007316-0-000-22-09-2010-PUB-01@@@
-
 DECRETO Nº 7.316, DE 22 DE SETEMBRO DE 2010.
 
 Dispõe sobre o percentual máximo do Fundo de Combate e Erradicação da Pobreza a ser destinado às despesas administrativas para o exercício de 2010.

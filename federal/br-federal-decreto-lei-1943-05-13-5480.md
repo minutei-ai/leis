@@ -1,5 +1,3 @@
-###DEL-005480-0-000-13-05-1943@@@
-
 DECRETO‑LEI N. 5.480 – DE 13 DE MAIO DE, 1943
 
 Institue o curso de jornalismo no sistema de ensino superior do país, e dá outras providências

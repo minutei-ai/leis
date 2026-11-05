@@ -1,5 +1,3 @@
-###DEC-070767-0-000-27-06-1972@@@
-
 DECRETO Nº 70.767, DE 27 DE JUNHO DE 1972.
 
 Torna sem efeito o Decreto nº 70.243, de 7 de março de 1972, que concedeu reconhecimento à Faculdade de Filosofia, Ciências e Letras de Adamantina, São Paulo e dá outras providências.

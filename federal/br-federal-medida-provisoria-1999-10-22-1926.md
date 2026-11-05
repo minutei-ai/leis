@@ -1,5 +1,3 @@
-###MPV-001926-0-000-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.926, DE 22 DE OUTUBRO DE 1999.
 
 Altera dispositivos da Lei nº 9.615, de 24 de março de 1998, institui a Taxa de Autorização do Bingo, e dá outras providências.

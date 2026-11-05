@@ -1,5 +1,3 @@
-###DEC-069943-0-000-17-01-1972@@@
-
 Decreto Nº 69.943, DE 17 DE JANEIRO DE 1972
 
 Declara luto Oficial pelo falecimento do Rei Frederico IX, da Dinamarca.

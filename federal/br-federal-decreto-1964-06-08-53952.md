@@ -1,5 +1,3 @@
-###DEC-053952-0-000-08-06-1964@@@
-
 DECRETO Nº 53.952, DE 8 DE JUNHO DE 1964.
 
 Revoga disposições do Decreto número 51.736, de 21 de fevereiro de 1963 e dá outras providências.

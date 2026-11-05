@@ -1,5 +1,3 @@
-###DEC-050852-0-000-26-06-1961@@@
-
 DECRETO Nº 50.852, DE 26 DE JUNHO DE 1961.
 
 Altera o artigo 2º do Decreto número 50.621, de 18 de maio de 1961.

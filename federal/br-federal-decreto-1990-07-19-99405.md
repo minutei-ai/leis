@@ -1,5 +1,3 @@
-###DEC-099405-0-000-19-07-1990@@@
-
 DECRETO Nº 99.405, DE 19 DE JULHO DE 1990
 
 Cria Grupo de Trabalho interministerial com a finalidade de rever a política indigenista do Governo Brasileiro.

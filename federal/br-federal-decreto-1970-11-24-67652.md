@@ -1,5 +1,3 @@
-###DEC-067652-0-000-24-11-1970@@@
-
 decreto nº 67.652, de 24 de novembro de 1970.
 
 Concede à Alumínio Minas Gerais Sociedade Anônima o direito de lavrar bauxita, no município de Oriximiná, Estado do Pará.

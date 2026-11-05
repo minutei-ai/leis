@@ -1,5 +1,3 @@
-###DEL-006951-0-000-11-10-1944@@@
-
 DECRETO-LEI N. 6.951 – DE 11 DE OUTUBRO DE 1944
 
 Altera a carreira de Químico Agrícola do Quadro Permanente do Ministério da Agricultura e dá outras providências

@@ -1,5 +1,3 @@
-###MPV-001902-0-058-22-10-1999@@@
-
 medida provisória nº 1.902-58, de 22 de outubro de 1999.
 
 Dá nova redação aos arts. 6º e 9º da Lei nº 8.019, de 11 de abril de 1990, e acresce dispositivo à Lei nº 9.365, de 16 de dezembro de 1996.

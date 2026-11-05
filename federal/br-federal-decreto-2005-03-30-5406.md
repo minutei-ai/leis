@@ -1,5 +1,3 @@
-###DEC-005406-0-000-30-03-2005@@@
-
 DECRETO Nº 5.406 DE 30 DE MARÇO DE 2005
 
 Regulamenta o cadastro obrigatório para fins de fiscalização das sociedades empresárias, das sociedades simples e dos empresários individuais que prestam serviços turísticos remunerados, e dá outras providências.

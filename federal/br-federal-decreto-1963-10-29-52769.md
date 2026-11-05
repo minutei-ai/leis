@@ -1,5 +1,3 @@
-###DEC-052769-0-000-29-10-1963@@@
-
 DECRETO Nº 52.769, DE 29 DE OUTUBRO DE 1963.
 
 Aprova alterações introduzidas nos Estatutos da Boavista Companhia de Seguros de Vida, inclusive aumento do capital social.

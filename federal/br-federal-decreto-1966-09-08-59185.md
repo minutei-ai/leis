@@ -1,5 +1,3 @@
-###DEC-059185-0-000-08-09-1966@@@
-
 DECRETO Nº 59.185, DE 8 DE SETEMBRO DE 1966.
 
 Autoriza a Companhia de Cimento Portland Poty a lavrar fosforita, no município de Igaraçu, Estado de Pernambuco.

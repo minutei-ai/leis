@@ -1,5 +1,3 @@
-###DEC-082956-0-000-28-12-1978@@@
-
 Decreto nº 82 956, de 28 de dezembro de 1978
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Capanema, Estado do Pará.

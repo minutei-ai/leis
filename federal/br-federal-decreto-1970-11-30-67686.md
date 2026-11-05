@@ -1,5 +1,3 @@
-###DEC-067686-0-000-30-11-1970@@@
-
 DECRETO nº 67.686, DE 30 DE NOVEMBRO DE 1970.
 
 Considera como Serviço Nacional Relevante o prestado nas Organizações Militares das Guarnições Especiais de 1ª Categoria e de Engenharia de Construção.

@@ -1,5 +1,3 @@
-###DEC-073550-0-000-24-01-1974@@@
-
 DECRETO Nº 73.550, DE 24 DE JANEIRO DE 1974.
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Psicologia, mantida pelo Instituto Superior de Ensino Celso Lisboa, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

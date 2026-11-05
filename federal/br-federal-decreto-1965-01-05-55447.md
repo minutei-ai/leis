@@ -1,5 +1,3 @@
-###DEC-055447-0-000-05-01-1965@@@
-
 Decreto nº 55.447, de 5 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Darcy de Almeida a pesquisar areia quartzosa no município de Jacobina, Estado da Bahia.

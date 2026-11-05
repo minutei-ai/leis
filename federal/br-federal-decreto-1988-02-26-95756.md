@@ -1,7 +1,3 @@
-1
-
-###DEC-095756-0-000-26-02-1988@@@
-
 DECRETO N° 95.756, DE 26 DE FEVEREIRO DE 1988
 
 Dispõe sobre investimentos de caráter cultural ou artístico.

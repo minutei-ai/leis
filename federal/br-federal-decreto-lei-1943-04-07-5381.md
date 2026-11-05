@@ -1,5 +1,3 @@
-###DEL-005381-0-000-07-04-1943@@@
-
 DECRETO‑LEI N. 5.381 – DE 7 DE ABRIL DE 1943
 
 Aprova acordo firmado entre a Superintendência de Abastecimento do Vale Amazônico (SAVA) e a Rubber Development Corporation

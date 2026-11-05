@@ -1,5 +1,3 @@
-###DEC-073184-0-000-21-11-1973@@@
-
 DECRETO Nº 73.184 - DE 21 DE NOVEMBRO DE 1973
 
 Concede reconhecimento aos cursos de Estudos Sociais, Ciências e Letras (licenciatura de 1º grau), da Faculdade de Filosofia, Ciências e Letras de Uruguaiana, mantida pelo Consórcio Educacional Fronteira Oeste, com sede na Cidade de Uruguaiana, Estado do Rio Grande do Sul.

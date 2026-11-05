@@ -1,5 +1,3 @@
-###DEC-048202-0-000-12-05-1960@@@
-
 decreto nº 48.202, de 12 de maio de 1960.
 
 Instituir a Semana da Enfermagem.

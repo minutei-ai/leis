@@ -1,5 +1,3 @@
-###DEC-054852-0-000-03-11-1964@@@
-
 decreto nº 54.852, de 3 de novembro de 1964.
 
 Autoriza o cidadão brasileiro Otaviano Francisco Pires a pesquisar malacacheta e feldspato no município de Raul Soares, Estado de Minas Gerais.

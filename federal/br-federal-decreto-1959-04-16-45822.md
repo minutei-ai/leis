@@ -1,5 +1,3 @@
-###DEC-045822-0-000-16-04-1959@@@
-
 DECRETO Nº 45.822, DE 16 DE ABRIL DE 1959.
 
 Renova a concessão de suprimento e dá outras providências.
@@ -10,11 +8,43 @@ Decreta:
 
 Art. 1º É renovada para o período de abril a junho a concessão de suprimento de recursos de que trata o art. 1º do Decreto nº 45.419, de 12 de fevereiro do corrente ano, até os seguintes limites:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Serviço de Navegação da Bacia do Prata .................................</span><span>.........................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.945.610,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Serviços de Navegação da Amazônia e de Adminis</span><span>tração do Pôrto do Pará .....</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>112.596.250,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Lloyd Brasileiro - P/N ..............................................................</span><span>.............................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>330.641.383,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Companhia Nacional de Navegação Costeira - P/N ..............</span><span>.............................</span><span>.</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>184.282.500,00</span></p></td></tr><tr><td style="width:350.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Outras Emprêsas Federais, subvencionadas pela Comissão </span><span>de Marinha Mercante ..............................................................................................................</span></p></td><td style="width:73.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.476.430,00</span></p></td></tr></tbody></table>
+Cr$
+
+Serviço de Navegação da Bacia do Prata ..........................................................
+
+50.945.610,00
+
+Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará .....
+
+112.596.250,00
+
+Lloyd Brasileiro - P/N ...........................................................................................
+
+330.641.383,00
+
+Companhia Nacional de Navegação Costeira - P/N ............................................
+
+184.282.500,00
+
+Outras Emprêsas Federais, subvencionadas pela Comissão de Marinha Mercante ..............................................................................................................
+
+10.476.430,00
 
 Parágrafo único. A importância de Cr$75.372.642,00, indevidamente fornecida ao Lloyd Brasileiro P/N, no primeiro trimestre, já deduzida do suprimento acima terá a seguinte distribuição:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:66.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Serviço de Navegação da Bacia do Prata ...................</span><span>.............................</span><span>..............</span></p></td><td style="width:66.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>29.161.559,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Serviço de Navegação da Amazônia e de Administração do Pôrto do Pará</span><span> ....</span><span>.....</span></p></td><td style="width:66.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>18.326.583,00</span></p></td></tr><tr><td style="width:358pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Companhia Nacional de Navegação Costeira - P/N ...........................</span><span>................</span><span>...</span></p></td><td style="width:66.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>27.884.500,00</span></p></td></tr></tbody></table>
+Cr$
+
+Serviço de Navegação da Bacia do Prata ..............................................................
+
+29.161.559,00
+
+Serviço de Navegação da Amazônia e de Administração do Pôrto do Pará .........
+
+18.326.583,00
+
+Companhia Nacional de Navegação Costeira - P/N ..............................................
+
+27.884.500,00
 
 Art. 2º O grupo de trabalho de que trata o art. 2º do Decreto nº 45.419, disporá de 45 dias para a conclusão do exame da situação financeira de cada emprêsa de navegação, podendo requisitar o pessoal técnico e de Secretaria necessário para a apuração dos elementos que se tornarem indispensáveis.
 

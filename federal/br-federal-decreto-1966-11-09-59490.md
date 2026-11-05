@@ -1,5 +1,3 @@
-###DEC-059490-0-000-09-11-1966@@@
-
 DECRETO Nº 59.490, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza Hevea da Bahia S.A. Agricultura Indústria e Comércio a pesquisar baritina, no município de Camamu, Estado da Bahia.

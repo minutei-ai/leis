@@ -1,5 +1,3 @@
-###DEC-088982-0-000-09-11-1983@@@
-
 DECRETO Nº 88.982, DE 09 DE NOVEMBRO DE 1983
 
 Autoriza o aumento de potência da RÁDIO GUARAREMA LTDA., na cidade de São José, Estado de Santa Catarina.

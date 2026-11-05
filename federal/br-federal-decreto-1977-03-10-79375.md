@@ -1,5 +1,3 @@
-###DEC-079375-0-000-10-03-1977@@@
-
 DECRETO Nº 79.375, DE 10 DE MARÇO DE 1977.
 
 Concede reconhecimento ao curso de Engenharia Civil, da Pontifícia Universidade Católica de Campinas, com sede na cidade de Campinas, Estado de São Paulo.

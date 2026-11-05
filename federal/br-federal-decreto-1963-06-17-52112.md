@@ -1,5 +1,3 @@
-###DEC-052112-0-000-17-06-1963@@@
-
 decreto nº 52.112, de 17 de junho de 1963.
 
 “Revoga o Decreto nº 45.429, de 16 de fevereiro de 1959, que cria no Ministério da Viação e Obras públicas a Comissão de Treinamento de Pessoal Especializado (COTEPE).”

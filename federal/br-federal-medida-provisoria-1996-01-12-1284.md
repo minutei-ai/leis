@@ -1,7 +1,3 @@
-1
-
-###MPV-001284-0-000-12-01-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.284, DE 12 DE JANEIRO DE 1996.
 
 Dispõe sobre os fundos que especifica e dá outras providências.

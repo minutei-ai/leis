@@ -1,5 +1,3 @@
-###DEC-007357-0-000-17-11-2010-PUB-01@@@
-
 DECRETO Nº 7.357, DE 17 DE NOVEMBRO DE 2010. <http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/DEC%207.357-2010?OpenDocument>
 
 Dispõe sobre o Programa Nacional de Incubadoras de Cooperativas Populares - PRONINC, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-096477-0-000-08-08-1988@@@
-
 DECRETO N.° 96.477, DE 8 DE AGOSTO DE 1988
 
 Autoriza a doação do imóvel que menciona.

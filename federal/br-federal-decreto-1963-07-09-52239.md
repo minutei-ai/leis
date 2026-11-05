@@ -1,5 +1,3 @@
-###DEC-052239-0-000-09-07-1963@@@
-
 DECRETO Nº 52.239, DE 9 DE JULHO DE 1963.
 
 Autoriza a emprêsa de mineração S. Barreto & Filhos a lavrar amianto no município de Batalha, Estado de Alagoas.

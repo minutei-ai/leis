@@ -1,5 +1,3 @@
-###DEC-056780-0-000-23-08-1965@@@
-
 DECRETO Nº 56.780, DE 23 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro José Manzo a lavrar feldspato no município de Socorro, Estado de São Paulo.

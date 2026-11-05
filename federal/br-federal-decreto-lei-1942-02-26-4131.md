@@ -1,5 +1,3 @@
-###DEL-004131-0-000-26-02-1942@@@
-
 DECRETO-LEI N. 4.131 – DE 26 DE FEVEREIRO DE 1942
 
 Encorpora o Colégio Universitário da Universidade do Brasil ao Colégio Pedro II

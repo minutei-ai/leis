@@ -1,5 +1,3 @@
-###DEL-007499-0-000-27-04-1945@@@
-
 DECRETO-LEI N. 7.499 – DE 27 DE ABRIL DE 1945
 
 Dispõe sôbre a alienação dos terrenos da antiga Chácara das Catacumbas, no Distrito Federal

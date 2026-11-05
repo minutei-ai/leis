@@ -1,5 +1,3 @@
-###DEC-051586-0-000-09-11-1962@@@
-
 DECRETO Nº 51.586, DE 9 DE NOVEMBRO DE 1962.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial, de Cr$2.500.000,00 (dois milhões e quinhentos mil cruzeiros) para atender às despesas com o disposto na mesma Lei que inclui o Instituto de Música da Bahia, entre os estabelecimentos de ensino superior subvencionados pela União na forma do art. 17, da Lei nº 1.254, de 4 de dezembro de 1950.

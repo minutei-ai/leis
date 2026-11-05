@@ -1,7 +1,3 @@
-1
-
-###MPV-001433-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.433, DE 9 DE MAIO DE 1996.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

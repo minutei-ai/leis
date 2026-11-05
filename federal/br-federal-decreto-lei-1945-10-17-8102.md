@@ -1,5 +1,3 @@
-###DEL-008102-0-000-17-10-1945@@@
-
 DECRETO-LEI N. 8.102 – DE 17 DE OUTUBRO DE 1945
 
 Concede pensão especial à viúva de Alberto Martins Tôrres.

@@ -1,5 +1,3 @@
-###DEC-006896-0-000-14-07-2009@@@
-
 DECRETO Nº 6.896, DE 14 DE JULHO DE 2009.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Panamá de Cooperação na Área do Turismo, firmado em Brasília, em 25 de maio de 2007.

@@ -1,5 +1,3 @@
-###DEC-080107-0-000-09-08-1977@@@
-
 DECRETO Nº 80.107, DE 9 DE AGOSTO DE 1977.
 
 Cria a Comissão Coordenadora da Implantação e Desenvolvimento do Transporte Intermodal

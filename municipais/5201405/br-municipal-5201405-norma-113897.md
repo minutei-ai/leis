@@ -30,18 +30,22 @@ b)    Joviano Dias da Silva Júnior, CPF:  013.545.031-47 – CREA/GO – Su
 
 c)    Laiz Morais Defende, CPF nº 037.665.731-60 – OAB/GO – Titular. 
 
-d)    Edson Cândido Pinto, CPF nº 231.508.151.34 - CRC/GO – Suplente. <br>
+d)    Edson Cândido Pinto, CPF nº 231.508.151.34 - CRC/GO – Suplente. 
+
  
 
 Art. 2º Este Decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 12 de abril de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Secretário da Fazenda

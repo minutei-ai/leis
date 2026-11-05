@@ -1,5 +1,3 @@
-###DEC-052555-0-000-30-09-1963@@@
-
 DECRETO Nº 52.555, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Iúna, Concessão para o aproveitamento da energia hidráulica do esnível denominado Morro Redondo, existente no rio Pardo situado na localidade de Iúna, no Município de Iúna, Estado do Espírito Santo.

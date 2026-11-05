@@ -1,5 +1,3 @@
-###DEC-084663-0-000-28-04-1980@@@
-
 DECRETO Nº 84.663, DE 28 DE ABRIL DE 1980
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios de Niterói e Rio de Janeiro, Estado do Rio de Janeiro, Município de Guarujá, Estado de São Paulo e Municípios de Itamaracá e Recife, Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-057353-0-000-26-11-1965@@@
-
 decreto nº 57.353, de 26 de novembro de 1965.
 
 Concede reconhecimento à Escola de Reabilitação do Rio de Janeiro da Associação Brasileira Beneficente de reabilitação.

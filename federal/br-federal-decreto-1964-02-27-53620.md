@@ -1,5 +1,3 @@
-###DEC-053620-0-000-27-02-1964@@@
-
 DECRETO Nº 53.620, DE 27 DE FEVEREIRO DE 1964.
 
 Concede à Marinha de Guerra da Itália o Prêmio “Marinha do Brasil”.

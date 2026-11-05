@@ -1,5 +1,3 @@
-###DEC-061893-0-000-13-12-1967@@@
-
 decreto Nº 61.893, de 13 de dezembro de 1967.
 
 Declara de utilidade pública, a “ Sociedade Pestalozzi de Minas Gerais”, com sede em Belo Horizonte, Estado de Minas Gerais.

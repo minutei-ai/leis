@@ -1,5 +1,3 @@
-###DEC-066406-0-000-02-04-1970@@@
-
 DECRETO Nº 66.406, DE 2 DE ABRIL DE 1970.
 
 Concede reconhecimento de Faculdade.

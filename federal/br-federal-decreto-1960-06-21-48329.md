@@ -1,5 +1,3 @@
-###DEC-048329-0-000-21-06-1960@@@
-
 DECRETO Nº 48.239, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Eládio Abelaira a pesquisar areias ilmeníticas em terrenos devolutos no lugar denominado Rio dos Mosquitos, distrito e município de Japoatã, Estado de Sergipe.

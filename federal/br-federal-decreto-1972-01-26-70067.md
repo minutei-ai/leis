@@ -1,5 +1,3 @@
-###DEC-070067-0-000-26-01-1972@@@
-
 DECRETO Nº 70.067, DE 26 DE JANEIRO DE 1972.
 
 Dispõe sobre o programa de Expansão e Melhoria do Ensino e dá outras providências.

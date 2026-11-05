@@ -1,5 +1,3 @@
-###DEC-007654-0-000-23-12-2011-PUB-01@@@
-
 DECRETO Nº 7.654, DE 23 DE DEZEMBRO DE 2011
 
 Altera o Decreto nº 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional, atualiza e consolida a legislação pertinente, e dá outras providências.

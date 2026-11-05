@@ -1,7 +1,3 @@
-1
-
-###MPV-001067-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.067, DE 28 DE JULHO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

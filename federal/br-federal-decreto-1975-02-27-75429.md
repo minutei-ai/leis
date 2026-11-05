@@ -1,5 +1,3 @@
-###DEC-075429-0-000-27-02-1975@@@
-
 Decreto nº 75.429, de 27 de fevereiro de 1975.
 
 Dispõe sobre condições especiais de afastamento do pessoal de entidades da administração federal indireta e fundações, para Governo do Estado do Rio de Janeiro.

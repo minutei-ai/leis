@@ -1,5 +1,3 @@
-###MPV-002098-0-024-27-12-2000@@@
-
 medida provisória nº 2.098-24, de 27 de dezembro 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

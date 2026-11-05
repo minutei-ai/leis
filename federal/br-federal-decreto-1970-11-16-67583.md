@@ -1,5 +1,3 @@
-###DEC-067583-0-000-16-11-1970@@@
-
 DECRETO Nº 67.583, DE 16 DE NOVEMBRO DE 1970
 
 Extingue o Laboratório da Produção Mineral (L.P.M.), do departamento Nacional de Produção Mineral, do Ministério das Minas e Energia.

@@ -1,27 +1,30 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=13663)
-
 # LEI Nº 8.664, DE 08 DE ABRIL DE 1994
 
 ## (Projeto de lei nº 226/91, do deputado Abelardo Camarinha)
 
 ### _Dá denominação a estabelecimento de ensino situado em Marília._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Passa a denominar-se "Prof. Ubirajara Nogueira" a Escola Estadual de 1.º Grau do Distrito de Dirceu, em Marília.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua pu- blicação.<br>
-Palácio dos Bandeirantes, 8 de abril de 1994.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Carlos Estevam Aldo Martins<br>
-Secretário da Educação<br>
-Renato Martins Costa<br>
-Secretário do Governo<br>
-Publicada na Assessoria Técnico-Legislativa, aos 8 de abril de 1994.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
-<br>
-<br>
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Passa a denominar-se "Prof. Ubirajara Nogueira" a Escola Estadual de 1.º Grau do Distrito de Dirceu, em Marília.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua pu- blicação.
+
+Palácio dos Bandeirantes, 8 de abril de 1994.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Carlos Estevam Aldo Martins
+
+Secretário da Educação
+
+Renato Martins Costa
+
+Secretário do Governo
+
+Publicada na Assessoria Técnico-Legislativa, aos 8 de abril de 1994.
 
 #### Retificação - Diário Oficial Executivo I 27/04/1994, p. 1
 
@@ -29,15 +32,10 @@ Publicada na Assessoria Técnico-Legislativa, aos 8 de abril de 1994.
 
 _(Projeto de lei nº 226/91, do deputado Abelardo Camarinha)_
 
-<br>
-
-_Dá denominação a estabelecimento de ensino situado em Marília._<br>
-
-<br>
+_Dá denominação a estabelecimento de ensino situado em Marília._
 
 **Retificação do D.O. de 9-4-94**
 
-<br>
+Artigo 2.º, na 2.ª linha
 
-Artigo 2.º, na 2.ª linha<br>
 Onde se lê: ... pu- blicação. Leia-se: ... publicação.

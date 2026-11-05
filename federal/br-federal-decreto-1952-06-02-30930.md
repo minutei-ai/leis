@@ -1,14 +1,12 @@
-###DEC-030930-0-000-02-06-1952@@@
+**DECRETO N° 30.930, DE 2 DE JUNHO DE 1952.**
 
-<strong>DECRETO N° 30.930, DE 2 DE JUNHO DE 1952.</strong>
+***Cria o “Estandarte-Distintivo” para o Batalhão Mauá.***
 
-<em><strong>Cria o “Estandarte-Distintivo” para o Batalhão Mauá.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1° Fica criado o “Estandarte Distintivo” para o Batalhão Mauá de acôrdo com o modêlo que acompanha o presente Decreto e as seguintes características:
+**Art**. 1° Fica criado o “Estandarte Distintivo” para o Batalhão Mauá de acôrdo com o modêlo que acompanha o presente Decreto e as seguintes características:
 
 a) campo azul-turqueza, enquadrado pela dupla bordadura das côres nacionais;
 
@@ -22,10 +20,10 @@ e) laço militar com dizeres 2° Batalhão Ferroviário, em ouro.
 
 Dimensões 0,80x1,10m.
 
-<strong>Art</strong>. 2° O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2° O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 2 de junho de 1952; 13° da Independência e 64° da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

@@ -1,5 +1,3 @@
-###DEC-051505-0-000-15-06-1962@@@
-
 DECRETO Nº 51.505, DE 15 DE JUNHO DE 1962.
 
 Dispõe sôbre a extinção do Conselho Coordenador do Abastecimento e da outras providências.

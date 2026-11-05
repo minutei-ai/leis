@@ -1,5 +1,3 @@
-###DEC-081556-0-000-11-04-1978@@@
-
 Decreto nº 81.556, de 11 de abril de 1978.
 
 Decreto nº 62.674, de 8 de maio de 1968, que dispõe sobre o Quadro Único de Pessoal da Universidade Federal Fluminense e dá outras providências.

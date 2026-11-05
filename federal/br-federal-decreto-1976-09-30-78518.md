@@ -1,5 +1,3 @@
-###DEC-078518-0-000-30-09-1976@@@
-
 DECRETO Nº 78.518, DE 30 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração de Cruzeiro, com sede na Cidade de Cruzeiro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-051940-A-000-26-04-1963@@@
-
 DECRETO Nº 51940-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza Quinderé Mineração e Indústria Ltda., a pesquisar diatomita no município de Pacajus, Estado do Ceará.

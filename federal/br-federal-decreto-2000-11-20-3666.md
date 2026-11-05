@@ -1,5 +1,3 @@
-###DEC-003666-0-000-20-11-2000@@@
-
 DECRETO Nº 3.666, DE 20 DE NOVEMBRO DE 2000.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Federação da Rússia sobre Cooperação na Área da Proteção da Saúde Animal, celebrado em Brasília, em 23 de abril de 1999.

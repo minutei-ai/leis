@@ -1,5 +1,3 @@
-###MPV-000181-0-000-12-04-2004@@@
-
 MEDIDA PROVISÓRIA Nº 181, DE 12 DE ABRIL 2004
 
 Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS a efetuar capitalização junto à Companhia Energética do Maranhão - CEMAR e altera a alínea "a" do inciso I do art. 3º da Lei nº 10.438, de 26 de abril de 2002.

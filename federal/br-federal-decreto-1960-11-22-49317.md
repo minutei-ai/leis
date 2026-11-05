@@ -1,5 +1,3 @@
-###DEC-049317-0-000-22-11-1960@@@
-
 DECRETO Nº 49.317, DE 22 DE NOVEMBRO DE 1960.
 
 Autoriza a emprêsa de mineração Ferrosul Ltda. a pesquisar minérios de manganês no município de Brusque, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-007823-0-000-09-10-2012-PUB-01@@@
-
 DECRETO Nº\- 7.823, DE 9 DE OUTUBRO DE 2012
 
 Regulamenta a Lei nº 10.048, de 8 de novembro de 2000, e a Lei no 10.098, de 19 de dezembro de 2000, quanto às instalações relacionadas aos Jogos Olímpicos e Paraolímpicos de 2016.

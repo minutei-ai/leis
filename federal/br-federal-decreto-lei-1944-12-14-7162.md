@@ -1,5 +1,3 @@
-###DEL-007162-0-000-14-12-1944@@@
-
 DECRETO-LEI N. 7.162 – DE 14 DE DEZEMBRO DE 1944
 
 Prorroga a vigência do crédito especial aberto pelo Decreto-lei n. 5.374, de 5 de abril de 1943

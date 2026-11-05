@@ -1,5 +1,3 @@
-###DEC-044993-0-000-03-12-1958@@@
-
 Decreto nº 44.993, de 3 de dezembro de 1958.
 
 Autoriza a Prefeitura Municipal de Lambari, Estado de Minas Gerais, a ampliar suas instalações.

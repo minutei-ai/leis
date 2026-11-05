@@ -1,5 +1,3 @@
-###DEC-066411-0-000-03-04-1970@@@
-
 Decreto Nº 66.411, De 3 De Abril De 1970.
 
 Autoriza funcionamento de Faculdade

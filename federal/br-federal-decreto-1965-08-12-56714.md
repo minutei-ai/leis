@@ -1,5 +1,3 @@
-###DEC-056714-0-000-12-08-1965@@@
-
 DECRETO Nº 56.714, DE 12 DE AGÔSTO DE 1965.
 
 Abre, pelo Ministro da Viação e Obras Públicas o crédito especial de Cr$39.200.000.000, para o fim que menciona.

@@ -1,5 +1,3 @@
-###DEC-058664-0-000-16-06-1966@@@
-
 Decreto nº 58.664, de 16 de junho de 1966.
 
 Altera e reprova dispositivos do Decreto nº 58.193, de 14 de abril de 1966, que cria o Fundo de Estímulo Financeiro ao Uso de Fertilizantes e Suplementos Minerais - FUNFERTIL, e dá outras providências.

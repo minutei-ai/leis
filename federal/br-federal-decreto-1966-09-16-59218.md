@@ -1,5 +1,3 @@
-###DEC-059218-0-000-16-09-1966@@@
-
 DECRETO Nº 59.218, DE 16 DE SETEMBRO DE 1966.
 
 Concede à sociedade Pilkington Brothers (Brazil) Limited autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

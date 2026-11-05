@@ -1,5 +1,3 @@
-###DEC-092849-0-000-27-06-1986@@@
-
 DECRETO Nº 92.849, DE 27 DE JUNHO DE 1986
 
 Renova a concessão outorgada à RÁDIO BARÉ LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Manaus, Estado do Amazonas.

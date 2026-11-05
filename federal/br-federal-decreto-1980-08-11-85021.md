@@ -1,5 +1,3 @@
-###DEC-085021-0-000-11-08-1980@@@
-
 Decreto nº 85.021, de 11 de agosto de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Rio das Pedras da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

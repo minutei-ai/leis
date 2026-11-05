@@ -1,7 +1,3 @@
-1
-
-###DEC-000124-0-000-20-05-1991@@@
-
 DECRETO N° 124, DE 20 DE MAIO DE 1991
 
 Altera o Decreto n° 99.209, de 16 de abril de 1990.

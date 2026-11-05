@@ -1,5 +1,3 @@
-###DEL-004996-0-000-26-11-1942@@@
-
 DECRETO-LEI N. 4.996 – DE 26 DE NOVEMBRO DE 1942
 
 Prorroga a vigência de crédito especial aberto ao Ministério da Viação e Obras Públicas

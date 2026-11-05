@@ -1,5 +1,3 @@
-###DEC-004937-0-000-29-12-2003@@@
-
 DECRETO Nº 4.937 DE 29 DE DEZEMBRO DE 2003.
 
 Regulamenta o art. 4o da Lei no 10.742, de 6 de outubro de 2003, para estabelecer os critérios de composição de fatores para o ajuste de preços de medicamentos.

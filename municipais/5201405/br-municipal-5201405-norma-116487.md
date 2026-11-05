@@ -16,11 +16,14 @@ Art. 4° Esta Lei entra em vigor na data de sua publicação.
 
 Gabinete do Prefeito do Município de Aparecida Goiânia-GO, 11 de julho de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-MAYARA MENDANHA<br>
+MAYARA MENDANHA
+
 Secretária Municipal de Assistência Social
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

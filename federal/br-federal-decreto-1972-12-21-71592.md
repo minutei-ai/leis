@@ -1,5 +1,3 @@
-###DEC-071592-0-000-21-12-1972@@@
-
 DECRETO nº 71.592 - de 21 de dezembro de 1972
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada na cidade de Uberaba, Estado de Minas Gerais, destinada à ampliação da estação de microondas e instalação de equipamentos de telex, telegrafia e outros serviços afins, integrantes do Sistema Nacional de Telecomunicações.

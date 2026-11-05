@@ -1,5 +1,3 @@
-###MPV-001995-0-076-10-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.995-76, DE 10 de março de 2000.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.

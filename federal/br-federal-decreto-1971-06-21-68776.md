@@ -1,5 +1,3 @@
-###DEC-068776-0-000-21-06-1971@@@
-
 Decreto nº 68.776 - de 21 de junho de 1971.
 
 Concede reconhecimento ao Curso de Administração de Emprêsas da Faculdade de Ciências Contábeis e Administrativas de Sorocaba (São Paulo).

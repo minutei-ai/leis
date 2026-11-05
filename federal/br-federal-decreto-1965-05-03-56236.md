@@ -1,5 +1,3 @@
-###DEC-056236-0-000-03-05-1965@@@
-
 DECRETO Nº 56.236, DE 3 DE MAIO DE 1965.
 
 Suprime cargo extinto.

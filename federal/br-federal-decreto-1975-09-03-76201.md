@@ -1,5 +1,3 @@
-###DEC-076201-0-000-03-09-1975@@@
-
 DECRETO Nº 76.201 - de 3 de setembro de 1975
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Educação Artística Teresa D'Ávila, com sede na cidade de Lorena, Estado de São Paulo.

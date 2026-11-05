@@ -1,5 +1,3 @@
-###DEC-070023-0-000-21-01-1972@@@
-
 Decreto nº 70.023, de 21 de Janeiro de 1972.
 
 Redistribui, com os respectivos ocupantes, cargos do Quadro de Pessoal - Parte Suplementar - do Ministério dos Transportes, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e da outras providências.

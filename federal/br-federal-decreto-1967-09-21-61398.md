@@ -1,5 +1,3 @@
-###DEC-061398-0-000-21-09-1967@@@
-
 DECRETO Nº 61.398, DE 21 DE SETEMBRO DE 1967.
 
 Aprova o enquadramento dos professôres fundadores da Faculdade de Farmácia e Odontologia da Escola de Engenharia e do Conservatório de Música da Universidade Federal de Goiás, em cargos de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar - do Ministério da Educação e Cultura.

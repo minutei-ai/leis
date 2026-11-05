@@ -1,5 +1,3 @@
-###DEC-054872-0-000-04-11-1964@@@
-
 DECRETO Nº 54.872, DE 4 DE Novembro DE 1964.
 
 Autoriza Esmeraldas de Conquista Limitada a pesquisar pedras coradas no município de Vitória de Conquista, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-053209-0-000-12-12-1963@@@
-
 DECRETO Nº 53.209, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Amaro Lanari Guatimosim a pesquisar minério de ferro no município de Santa Bárbara, Estado de Minas Gerais.

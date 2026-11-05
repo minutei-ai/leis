@@ -1,5 +1,3 @@
-###MPV-000574-0-000-28-06-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 574, DE 28 DE JUNHO DE 2012
 
 Estabelece medidas para estimular o pagamento de débitos relativos ao Programa de Formação do Patrimônio do Servidor Público - PASEP, de responsabilidade dos Estados, do Distrito Federal, dos Municípios, e de suas autarquias e fundações; altera o art. 1º da Lei nº 10.925, de 23 de julho de 2004, para prorrogar a vigência da redução a zero das alíquotas da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS  incidentes na importação e sobre a receita decorrente da venda no mercado interno das massas alimentícias que menciona.

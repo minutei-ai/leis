@@ -1,5 +1,3 @@
-###DEC-052193-0-000-28-06-1963@@@
-
 Decreto nº 52.193, de 28 de junho de 1963.
 
 Concede reconhecimento a curso de Ciências Contábeis da Faculdade de Ciências Contábeis e Atuariais de Taubaté.

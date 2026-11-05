@@ -1,5 +1,3 @@
-###DEC-055751-0-000-11-02-1965@@@
-
 DECRETO Nº 55.751, DE 11 DE FEVEREIRO DE 1965.
 
 Altera a redação do Art. 66 e acrescenta dispositivo ao Art. 73 do Regulamento Disciplinar do Exército.

@@ -1,5 +1,3 @@
-###DEC-059099-0-000-19-08-1966@@@
-
 DECRETO Nº 59.099, DE 19 DE AGôSTO DE 1966.
 
 Declara pública de uso comum, às águas do curso dágua que especifica.
@@ -21,8 +19,6 @@ Brasília, 19 de agôsto de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-059099-0-000-19-08-1966@@@RET01+++
 
 DECRETO Nº 59.099, DE 19 DE AGôSTO DE 1966.
 

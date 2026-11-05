@@ -1,5 +1,3 @@
-###DEC-085902-0-000-13-04-1981@@@
-
 Decreto nº 85.902, de 13 de abril de 1981.
 
 Autoriza o funcionamento da habilitação em Educação de Deficientes Mentais, no curso de Pedagogia, da Faculdade de Filosofia Ciências e Letras de Jaú, com sede na cidade de Jaú, Estado de São Paulo.

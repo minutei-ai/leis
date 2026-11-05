@@ -1,5 +1,3 @@
-###DEC-054635-0-000-27-10-1964@@@
-
 DECRETO Nº 54.635, de 27 de outubro de 1964.
 
 Aprova alterações introduzidas nos Estatutos da Iguassú Companhia de Seguros, inclusive aumento do capital social.

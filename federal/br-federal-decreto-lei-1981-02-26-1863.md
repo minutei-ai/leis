@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/08efdeb4-1b06-4c5e-a538-f796427892d5/texto#nowhere)
 
-###DEL-001863-0-000-26-02-1981@@@
-
 # Decreto-lei nº 1.863, de 26 de fevereiro de 1981.
 
 Concede isenção de tributos às Missões Diplomáticas e Representações Consulares de Carreira, com base na reciprocidade de tratamento.

@@ -1,5 +1,3 @@
-###DEC-076634-0-000-18-11-1975@@@
-
 DECRETO Nº 76.634, DE 18 DE NOVEMBRO DE 1975.
 
 Extingue o Comando Naval de Ladário, criado pelo Decreto nº 61.171, de 13 de agosto de 1967.

@@ -1,5 +1,3 @@
-###DEC-056155-0-000-27-04-1965@@@
-
 decreto nº 56.155, de 27 de abril de 1965.
 
 Concede à Indústria Pontagrossense de Mineração Ltda. autorização para funcionar como emprêsa de mineração.

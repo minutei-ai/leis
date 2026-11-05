@@ -1,4 +1,5 @@
-LEI Nº 22.833, DE 8 DE JULHO DE 2024<br>
+LEI Nº 22.833, DE 8 DE JULHO DE 2024
+
 \- [Vide Ação Direta de Inconstitucionalidade nº 6.888/STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18799).
 
 Altera a [Lei nº 21.268](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105266), de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás, a [Lei nº 17.961](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89922), de 07 de janeiro de 2013, que dispõe sobre condições organizacionais para adoção de métodos consensuais de solução de conflitos, no âmbito da Justiça Estadual, e a [Lei nº 21.630](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106330), de 17 de novembro de 2022, que altera a Organização Judiciária do Estado de Goiás, e dá outras providências.
@@ -343,7 +344,8 @@ ANEXO III
 
 (ALTERA O ANEXO XIII DA [LEI Nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655), DE 2012.)
 
-“ANEXO XIII<br>
+“ANEXO XIII
+
 \- [Vide Ação Direta de Inconstitucionalidade nº 6.888/STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18799).
 
 QUADRO ANALÍTICO DOS CARGOS EM COMISSÃO
@@ -491,7 +493,8 @@ II. ESTRUTURA COMPLEMENTAR
 | 277 | ASSESSOR ADMINISTRATIVO II |
 | 10 | CONCILIADOR DE JUSTIÇA MÓVEL |
 | DAE-2 | 198 | ASSESSOR ADMINISTRATIVO I |
-| DAE-1 | ~~96~~ | ~~ASSISTENTE DE SECRETARIA~~<br>
+| DAE-1 | ~~96~~ | ~~ASSISTENTE DE SECRETARIA~~
+
 \- [Declarado inconstitucional pelo STF - ADI nº 6.888/STF](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18799). |
 | 79 | ANALISTA DE CÁLCULOS E CONTAS I |
 

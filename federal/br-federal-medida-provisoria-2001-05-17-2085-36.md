@@ -1,5 +1,3 @@
-###MPV-002085-0-036-17-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.085‑36, DE 17 DE MAIO DE 2001.
 
 Dispõe sobre o Programa de Revitalização de Cooperativas de Produção Agropecuária ‑RECOOP, autoriza a criação do Serviço Nacional de Aprendizagem do Cooperativismo ‑SESCOOP, e dá outras providências.
@@ -204,19 +202,83 @@ ANEXO
 
 I - CONDIÇÕES PARA REFIANCIAMENTO DE DÍVIDAS COM O SISTEMA FINANCEIRO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Espécie</span></p></td><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Prazo</span></p></td><td style="width:142.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Encargos financeiros (*)</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Cotas-partes</span></p></td><td style="width:142.6pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 15 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">IGP-DI + 4% a. a.</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Securitização</span></p></td><td style="width:142.6pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Ampliação, para 10 anos, dos prazos das operadoras securitizadas</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Variação dos preços mínimos + 3% a. a.</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Outras dívidas (após negociação de descontos e troca de funding)</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 15 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">IGP-DI + 4% a. a.</span></p></td></tr></tbody></table>
+Espécie
+
+Prazo
+
+Encargos financeiros (*)
+
+Cotas-partes
+
+Até 15 anos
+
+IGP-DI + 4% a. a.
+
+Securitização
+
+Ampliação, para 10 anos, dos prazos das operadoras securitizadas
+
+Variação dos preços mínimos + 3% a. a.
+
+Outras dívidas (após negociação de descontos e troca de funding)
+
+Até 15 anos
+
+IGP-DI + 4% a. a.
 
 II - CONDIÇÕES PARA REFINAMENTO DE DÍVIDAS COM COOPERADOS E ORIUNDAS DE AQUISIÇÃO DE INSUMOS AGROPECUÁRIOS E DE TRIBUTOS E ENCARGOS SOCIAIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Espécie</span></p></td><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Prazo</span></p></td><td style="width:142.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Encargos financeiros (*)</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Dívidas com cooperados e outras oriundas de aquisição de insumos agropecuários (após negociação de descontos).</span></p></td><td style="width:142.6pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 15 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">IGP-DI + 4% a. a.</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Tributos e encargos sociais e trabalhistas (após negociação de descontos)</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 15 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">IGP-DI +4% a. a.</span></p></td></tr></tbody></table>
+Espécie
+
+Prazo
+
+Encargos financeiros (*)
+
+Dívidas com cooperados e outras oriundas de aquisição de insumos agropecuários (após negociação de descontos).
+
+Até 15 anos
+
+IGP-DI + 4% a. a.
+
+Tributos e encargos sociais e trabalhistas (após negociação de descontos)
+
+Até 15 anos
+
+IGP-DI +4% a. a.
 
 III - CONDIÇÕES PARA FINANCIAMENTO DE RECEBÍVEIS DE COOPERADOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Espécie</span></p></td><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Prazo</span></p></td><td style="width:142.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Encargos financeiros (*)</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Valores a receber de cooperados</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 15 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">IGP-DI + 4% a. a.</span></p></td></tr></tbody></table>
+Espécie
+
+Prazo
+
+Encargos financeiros (*)
+
+Valores a receber de cooperados
+
+Até 15 anos
+
+IGP-DI + 4% a. a.
 
 IV - CONDIÇÕES  PARA FINANCIAMENTO DE INVESTIMENTOS E CAPITAL DE GIRO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Espécie</span></p></td><td style="width:142.6pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Prazo</span></p></td><td style="width:142.6pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Encargos financeiros (*)</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Investimentos (inclusive capital de giro para início de atividade decorrente destes investimentos)</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span></p></td><td style="width:142.6pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 15 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">IGP-DI + 4% a. a.</span></p></td></tr><tr><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">Capital de giro</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Até 2 anos</span></p></td><td style="width:142.6pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">8,75% a. a.</span></p></td></tr></tbody></table>
+Espécie
+
+Prazo
+
+Encargos financeiros (*)
+
+Investimentos (inclusive capital de giro para início de atividade decorrente destes investimentos)
+
+Até 15 anos
+
+IGP-DI + 4% a. a.
+
+Capital de giro
+
+Até 2 anos
+
+8,75% a. a.
 
 (\*) Inclui-se aí o spread bancário de até três por cento ao ano.
 

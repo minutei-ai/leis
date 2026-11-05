@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209010)<br>
-
 # DECRETO N° 68.239, DE 22 DE DEZEMBRO DE 2023
 
 ### _Autoriza a outorga de uso, em favor da Fundação para o Desenvolvimento da Educação - FDE, de parte do imóvel que especifica, e dá providências correlatas._

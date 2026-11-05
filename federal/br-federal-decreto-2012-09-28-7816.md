@@ -1,5 +1,3 @@
-###DEC-007816-0-000-28-09-2012-PUB-01@@@
-
 DECRETO N° 7.816, DE 28 DE SETEMBRO DE 2012
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de caminhões, furgões e implementos rodoviários, para fins do disposto no art. 3° da Lei n° 8.666, de 21 de junho de 1993.

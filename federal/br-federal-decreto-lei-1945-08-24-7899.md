@@ -1,5 +1,3 @@
-###DEL-007899-0-000-24-08-1945@@@
-
 DECRETO-LEI N. 7.899 – DE 24 DE AGÔSTO DE 1945
 
 Altera a carreira de Médico do Trabalho, da Parte Permanente do Quadro único do Ministério do Trabalho, Indústria e Comércio.

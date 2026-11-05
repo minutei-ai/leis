@@ -1,5 +1,3 @@
-###DEL-006675-0-000-11-07-1944@@@
-
 DECRETO-LEI N. 6.675 – DE 11 DE JULHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.254.480,00, para aquisição do equipamento mecanizado para a Recebedoria do Distrito Federal

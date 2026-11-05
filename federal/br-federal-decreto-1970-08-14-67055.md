@@ -1,5 +1,3 @@
-###DEC-067055-0-000-14-08-1970@@@
-
 Decreto nº 67.055, de 14 de agôsto de 1970.
 
 Reconhecimento da Faculdade Municipal de Ciências Econômicas de Belo Horizonte, MG.

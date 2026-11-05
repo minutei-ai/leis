@@ -1,5 +1,3 @@
-###DEC-077090-0-000-27-01-1976@@@
-
 DECRETO Nº 77.090, DE 27 DE JANEIRO DE 1976.
 
 Concede reconhecimento ao curso de Educação Física da Escola Superior de Educação Física de Avaré, com sede na cidade de Avaré, Estado de São Paulo.

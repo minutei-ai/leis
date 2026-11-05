@@ -1,5 +1,3 @@
-###DEC-048565-0-000-21-07-1960@@@
-
 DECRETO Nº 48.565, DE 21 DE JULHO DE 1960.
 
 Declara de utilidade pública áreas de terra situadas no município de Itaí, Estado de São Paulo, necessárias à bacia de acumulação do aproveitamento hidrelétrico de Jurumirim, das Usinas Elétricas do Paranapanema S.A., e autoriza essa emprêsa a promover a desapropriação das referidas áreas e benfeitorias nelas existentes.
@@ -133,8 +131,6 @@ Brasília, 21 de julho de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Antônio Barros Carvalho
-
-###DEC-048565-0-000-21-07-1960@@@RET01+++
 
 Decreto nº 48.565, de 21 de julho de 1960.
 

@@ -1,5 +1,3 @@
-###DEC-051971-0-000-26-04-1963@@@
-
 Decreto nº 51.971, de 26 de abril de 1963.
 
 Autoriza “Espírito Santo Centrais Elétricas S.A.” a construir linha de transmissão.

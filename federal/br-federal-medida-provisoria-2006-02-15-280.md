@@ -1,5 +1,3 @@
-###MPV-000280-0-000-15-02-2006@@@
-
 MEDIDA PROVISÓRIA Nº 280, DE 15 DE FEVEREIRIO DE 2006.
 
 Altera a Legislação Tributária Federal.
@@ -12,7 +10,29 @@ Altera a Legislação Tributária Federal.
 
 Tabela Progressiva Mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:188.1pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Base de Cálculo em R$</span></p></td><td style="width:109.15pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Alíquota %</span></p></td><td style="width:140.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Parcela a Deduzir do Imposto em R$</span></p></td></tr><tr><td style="width:188.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Até 1.257,12</span></p></td><td style="width:109.15pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span></p></td><td style="width:140.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">-</span></p></td></tr><tr><td style="width:188.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">De 1.257,13 até 2.512,08</span></p></td><td style="width:109.15pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15</span></p></td><td style="width:140.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">188,57</span></p></td></tr><tr><td style="width:188.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Acima de 2.512,08</span></p></td><td style="width:109.15pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27,5</span></p></td><td style="width:140.75pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">502,58</span></p></td></tr></tbody></table>
+Base de Cálculo em R$
+
+Alíquota %
+
+Parcela a Deduzir do Imposto em R$
+
+Até 1.257,12
+
+-
+
+-
+
+De 1.257,13 até 2.512,08
+
+15
+
+188,57
+
+Acima de 2.512,08
+
+27,5
+
+502,58
 
 Parágrafo único.  O imposto de renda anual devido, incidente sobre os rendimentos de que trata o caput, será calculado de acordo com tabela progressiva anual correspondente à soma das tabelas progressivas mensais vigentes nos meses de cada ano-calendário." (NR)
 

@@ -1,5 +1,3 @@
-###DEC-092364-0-000-04-02-1986@@@
-
 DECRETO Nº 92.364, DE 04 DE FEVEREIRO DE 1986
 
 Dá nova redação ao art. 2º do Decreto nº 88.293, de 09 de maio de 1983, que delega competência ao Ministro de Estado do Interior, para praticar os atos que menciona, e dá outras providências.

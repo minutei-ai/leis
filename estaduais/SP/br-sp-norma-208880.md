@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208880)<br>
-
 # RESOLUÇÃO DA ALESP N° 941, DE 04 DE DEZEMBRO DE 2023
 
 ## (Projeto de Resolução n° 49, de 2023)

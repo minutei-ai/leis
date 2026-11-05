@@ -1,7 +1,3 @@
-1
-
-###DEC-097628-0-000-10-04-1989@@@
-
 DECRETO N° 97.628, DE 10 DE ABRIL DE 1989
 
 Regulamenta o artigo 21 da Lei n° 4.771, de 15 de setembro de 1965, Código Florestal, e dá outras providências.

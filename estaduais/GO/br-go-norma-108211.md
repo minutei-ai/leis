@@ -106,18 +106,22 @@ Art. 5º O chamamento público atenderá ao disposto na Seção VIII do Capítul
 
 § 2º No julgamento das propostas apresentadas, a comissão de seleção as ordenará, com observância aos critérios e aos prazos previstos no edital.
 
-§ 3º A OSC melhor classificada será notificada a apresentar, com observância ao estabelecido no edital, os documentos que comprovarem:<br>
+§ 3º A OSC melhor classificada será notificada a apresentar, com observância ao estabelecido no edital, os documentos que comprovarem:
+
 \- [Redação dada pelo Decreto nº 10.966, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116315).
 
 ~~§ 3º A OSC melhor classificada será notificada a apresentar os documentos que comprovarem o atendimento às exigências previstas nos arts. 33 e 34 da Lei nº 13.019, de 2014.~~
 
-I - o atendimento às exigências previstas nos arts. 33 e 34 da Lei nº 13.019, de 2014;<br>
+I - o atendimento às exigências previstas nos arts. 33 e 34 da Lei nº 13.019, de 2014;
+
 \- [Acrescido pelo Decreto nº 10.966, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116315).
 
-II - o atendimento às exigências relacionadas com a boa condição econômico-financeira da entidade, ocasião em que poderá ser exigida a apresentação de relatório emitido por auditoria independente referente a análise contábil do último exercício social da entidade; e<br>
+II - o atendimento às exigências relacionadas com a boa condição econômico-financeira da entidade, ocasião em que poderá ser exigida a apresentação de relatório emitido por auditoria independente referente a análise contábil do último exercício social da entidade; e
+
 \- [Acrescido pelo Decreto nº 10.966, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116315).
 
-III - o atendimento às exigências relacionadas com a qualificação técnica e a capacidade operacional da entidade para a gestão da atividade.<br>
+III - o atendimento às exigências relacionadas com a qualificação técnica e a capacidade operacional da entidade para a gestão da atividade.
+
 \- [Acrescido pelo Decreto nº 10.966, de 28-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116315).
 
 § 4º A comprovação a quere o § 3º deste artigo, quanto às regularidades fiscal e tributária da OSC, se dará por meio da apresentação de:

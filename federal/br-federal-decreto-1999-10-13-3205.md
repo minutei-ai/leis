@@ -1,5 +1,3 @@
-###DEC-003205-0-000-13-10-1999@@@
-
 DECRETO Nº 3.205, DE 13 DE OUTUBRO DE 1999.
 
 Dispõe sobre o remanejamento das gratificações que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053613-0-000-26-02-1964@@@
-
 decreto nº 53.613, de 26 de fevereiro de 1964.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos que menciona em salvador, Estado da Bahia e dá outras providências.

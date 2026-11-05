@@ -1,5 +1,3 @@
-###DEC-069067-0-000-13-08-1971@@@
-
 DECRETO Nº 69.067, DE 13 DE AGÔSTO DE 1971.
 
 Torna sem efeito redistribuição de cargo do Departamento Administrativo do Pessoal Civil para o Conselho Nacional de Pesquisas, e dá outras providências.

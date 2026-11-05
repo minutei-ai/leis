@@ -1,6 +1,10 @@
 > **LEI Nº 4.356, DE 06 DE JUNHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a Defensoria Pública do Estado do Acre - DPE-AC a transferir recursos para o custeio de despesas do Conselho Nacional das Defensoras e Defensores Públicos Gerais - CONDEGE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a Defensoria Pública do Estado do Acre - DPE-AC a transferir recursos para o custeio de despesas do Conselho Nacional das Defensoras e Defensores Públicos Gerais - CONDEGE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

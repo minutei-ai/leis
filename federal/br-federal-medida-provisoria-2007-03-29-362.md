@@ -1,5 +1,3 @@
-###MPV-000362-0-000-29-03-2007@@@
-
 MEDIDA PROVISÓRIA Nº 362, DE 29 DE MARÇO DE 2007.
 
 Dispõe sobre o salário mínimo a partir de 1o de abril de 2007.
@@ -25,5 +23,3 @@ Carlos Roberto Lupi
 Paulo Bernardo Silva
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 30.3.2007 - Edição extra

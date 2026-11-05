@@ -1,5 +1,3 @@
-###DEC-007811-0-000-20-09-2012-PUB-01@@@
-
 DECRETO N° 7.811, DE 20 DE SETEMBRO DE 2012
 
 Promulga o Acordo Internacional do Café de 2007, firmado pela República Federativa do Brasil em 19 de maio de 2008.

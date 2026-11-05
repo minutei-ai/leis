@@ -1,5 +1,3 @@
-###DEC-049430-0-000-05-12-1960@@@
-
 DECRETO Nº 49.430, DE 5 DE dezembro DE 1960.
 
 Concede a Extrabom - Extratifera de Minérios Limitada autorização para funcionar como emprêsa de mineração.

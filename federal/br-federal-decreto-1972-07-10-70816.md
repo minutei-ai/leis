@@ -1,5 +1,3 @@
-###DEC-070816-0-000-10-07-1972@@@
-
 DECRETO Nº 70.816, DE 10 DE JULHO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, para a Universidade Federal de Goiás, e dá outras providências.

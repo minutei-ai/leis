@@ -1,5 +1,3 @@
-###DEC-091297-0-000-03-06-1985@@@
-
 Decreto nº 91.297, de 03 de Junho de 1985
 
 Outorga à Companhia Riograndense de Saneamento-CORSAN concessão para captação de água do rio Uruguai, para abastecimento público, no Estado do Rio Grande do Sul.

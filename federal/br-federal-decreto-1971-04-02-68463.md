@@ -1,5 +1,3 @@
-###DEC-068463-0-000-02-04-1971@@@
-
 DECRETO Nº 68.463 - DE 2 de abril DE 1971.
 
 Concede permissão, em caráter permanente, à empresa Fábrica de Papel Santa Terezinha Sociedade Anônima, sediada na Capital do Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

@@ -1,5 +1,3 @@
-###DEC-057328-0-000-24-11-1965@@@
-
 decreto Nº 57.328, de 24 de novembro de 1965.
 
 Autoriza o cidadão brasileiro Raymundo Soares de Albergaria Filho a pesquisar mica no município de Engenheiro Caldas, Estado de Minas Gerais.

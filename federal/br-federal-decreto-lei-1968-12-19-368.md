@@ -1,5 +1,3 @@
-###DEL-000368-0-000-19-12-1968@@@
-
 DECReTO-LEI Nº 368, DE 19 DE DEZEMbRO dE 1968
 
 Dispõe sôbre efeitos de débitos salariais e dá outras providências.

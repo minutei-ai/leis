@@ -1,5 +1,3 @@
-###DEC-047281-0-000-24-11-1959@@@
-
 Decreto nº 47.281, de 24 de novembro de 1959.
 
 Autoriza a Prefeitura Municipal de Abre Campo a ampliar as instalações hidrelétricas da Usina de Sant’Ana.

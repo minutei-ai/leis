@@ -1,5 +1,3 @@
-###DEL-001607-0-000-27-02-1978@@@
-
 # DECRETO-LEI nº 1.607, de 27 de fevereiro de 1978.
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho de Justiça Federal, e dá outras providências.

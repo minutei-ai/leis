@@ -1,5 +1,3 @@
-###DEC-062371-0-000-08-03-1968@@@
-
 DECRETO Nº 62.371, DE 8 de MARÇO DE 1968.
 
 Autoriza o cidadão brasileiro Afonso Rodrigues de Lima a lavrar minério de ferro no Município de São José do Belmonte, Estado de Pernambuco.

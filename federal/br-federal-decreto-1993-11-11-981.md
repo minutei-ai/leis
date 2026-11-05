@@ -1,5 +1,3 @@
-###DEC-000981-0-000-11-11-1993@@@
-
 DECRETO Nº 981, DE 11 DE NOVEMBRO DE 1993
 
 Regulamenta a Lei nº 8.672, de 6 de julho de 1993, que institui Normas Gerais sobre Desportos.

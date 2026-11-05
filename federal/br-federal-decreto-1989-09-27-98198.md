@@ -1,7 +1,3 @@
-1
-
-###DEC-098198-0-000-27-09-1989@@@
-
 DECRETO Nº 98.198, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “GUAMPARÁ - Lotes 67 e 68 - Gleba 7 - 1ª parte - Colônia Piquiri”, situado no Município de Cantagalo, Estado do Paraná, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075650-0-000-23-04-1975@@@
-
 DECRETO Nº 75.650, DE 23 DE ABRIL DE 1975.
 
 Dispõe sobre a constituição da Diretoria Estadual do Ministério da Agricultura no Estado do Rio de Janeiro e dá outras providências.

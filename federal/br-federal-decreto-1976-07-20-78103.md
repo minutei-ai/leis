@@ -1,5 +1,3 @@
-###DEC-078103-0-000-20-07-1976@@@
-
 DECRETO Nº 78.103, DE 20 DE JULHO DE 1976.
 
 Concede autorização à empresa "Compagnie Génerale Pour les Développements Opérationnels des Richesses Sous-Marines" para operar no mar territorial do Brasil a embarcação M/V "Astragale", de nacionalidade francesa, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

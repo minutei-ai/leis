@@ -1,5 +1,3 @@
-###DEC-069848-0-000-28-12-1971@@@
-
 decreto nº 69.848 - de 28 DE DEZEMBRO de 1971
 
 Declara de utilidade pública a Casa Nossa Senhora das Mercês, com sede em Salvador, Estado da Bahia.

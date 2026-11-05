@@ -1,5 +1,3 @@
-###DEC-094440-0-000-11-06-1987@@@
-
 DECRETO Nº 94.440, DE 11 DE JUNHO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento (DNOS), área de terras e benfeitorias para a implantação do projeto demonstrativo de irrigação de São Bento, no Estado do Maranhão.

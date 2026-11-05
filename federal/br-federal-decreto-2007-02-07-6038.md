@@ -1,5 +1,3 @@
-###DEC-006038-0-000-07-02-2007@@@
-
 DECRETO Nº 6.038, DE 7 DE FEVEREIRO DE 2007.
 
 Institui o Comitê Gestor de Tributação das Microempresas e Empresas de Pequeno Porte, e dá outras providências.
@@ -145,5 +143,3 @@ Brasília, 7 de fevereiro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Bernard Appy
-
-Este texto não substitui o publicado no DOU de 8.2.2007.

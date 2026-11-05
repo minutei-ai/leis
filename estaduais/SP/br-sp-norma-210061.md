@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210061)<br>
-
 # DECRETO N° 68.926, DE 26 DE SETEMBRO DE 2024
 
 ### _Regulamenta a forma de destinação dos bens, direitos e valores cuja perda houver sido declarada pelo Poder Judiciário estadual, em favor do Estado, como efeito da condenação pelos crimes de "lavagem" ou ocultação de bens, direitos e valores, na forma do § 1° do artigo 7° da Lei federal n° 9.613, de 3 de março de 1998, e dá outras providências._

@@ -1,5 +1,3 @@
-###MPV-001925-0-007-27-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.925-7, de 27 de abril de 2000.
 
 Dispõe sobre a Cédula de Crédito Bancário.

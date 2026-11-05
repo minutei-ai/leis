@@ -1,5 +1,3 @@
-###DEL-001343-0-000-11-09-1974@@@
-
 # DECRETO-LEI Nº 1.343, DE 11 DE SETEMBRO DE 1974
 
 Autoriza emissões especiais de títulos ou obrigações pelo Tesouro Nacional vinculados a operações destinadas ao pagamento de créditos fiscais.

@@ -1,5 +1,3 @@
-###DEL-005976-0-000-10-11-1943@@@
-
 DECRETO‑LEI N. 5.976 – DE 10 DE NOVEMBRO DE 1943
 
 Concede aumento geral de remuneração, vencimento e salário e institue o regime de salário‑família
@@ -16,7 +14,43 @@ Art. 3º Os vencimentos dos Ministros do Supremo Tribunal Federal e do Procurado
 
 Art. 4º Aos extranumerários mensalistas que percebem salário não previsto na respectiva escala e aos extranumerários contratados é concedido um aumento de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:14.2pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Salário mensal</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(em Cr$)</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Aumento</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>(em Cr$)</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>até 650</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>150</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>de 651 a 1.400</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>200</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>de 1.401 a 2.900</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>300</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>de 2.901 a 3.400</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>400</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>de 3.401 em deante</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>500</span></p></td></tr></tbody></table>
+Salário mensal
+
+(em Cr$)
+
+Aumento
+
+(em Cr$)
+
+até 650
+
+......................................................................................................
+
+150
+
+de 651 a 1.400
+
+......................................................................................................
+
+200
+
+de 1.401 a 2.900
+
+......................................................................................................
+
+300
+
+de 2.901 a 3.400
+
+......................................................................................................
+
+400
+
+de 3.401 em deante
+
+......................................................................................................
+
+500
 
 Parágrafo único. O aumento aos extranumerários contratados independe de têrmo aditivo ou qualquer outra formalidade, considerando‑se automáti­camente registada pelo Tribunal de Contas a modificação imposta por êste artigo as cláusulas contratuais referentes ao salário.
 
@@ -32,7 +66,31 @@ Parágrafo único. Os chefes de serviço que tenham admitido extranumerários ta
 
 Art. 7º As gratificações de função dos servidores civis ficam elevadas de acôrdo com a seguinte tabela:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:14.2pt; margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Gratificação mensal</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">(em Cr$)</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Aumento</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">(em Cr$)</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span>até 650</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>50</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>de 700 a 1.300</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>100</span></p></td></tr><tr><td style="width:92.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>de 1.500 a 1.900</span><span style="-aw-import:spaces">&nbsp;</span></p></td><td style="width:283.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>......................................................................................................</span></p></td><td style="width:63.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>200</span></p></td></tr></tbody></table>
+Gratificação mensal
+
+           (em Cr$)
+
+Aumento
+
+(em Cr$)
+
+até 650
+
+......................................................................................................
+
+50
+
+de 700 a 1.300
+
+......................................................................................................
+
+100
+
+de 1.500 a 1.900
+
+......................................................................................................
+
+200
 
 Art. 8º Além dos aumentos previstos nos artigos anteriores, fica ainda instituído, para os servidores civis, os aposentados e o pessoal em disponibilidade da União, o regime do salário‑família.
 
@@ -96,18 +154,774 @@ Joaquim Pedro Salgado Filho.
 
 # ESCALA‑PADRÃO DE VENCIMENTOS, QUE SUBSTITUE OS PADRÕES INSTITUÍDOS PELA LEI N. 284, DE 28 DE OUTUBRO DE 1936
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Padrão</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Vencimento mensal</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Vencimento anual</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">A................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 350,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">B................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 450,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 5.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">C................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 550,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 6.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">D................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 650,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 7.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">E................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 750,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 9.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">F................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 900,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.0.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">G................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.100,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 13.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">H................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.300,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 15.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">I................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 18.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">J................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.800,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 21.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">K................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.200,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 26.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">L................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.600,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 31.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">M................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 36.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">N................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 42.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">O................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4. 000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 48.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">P................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 54.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Q................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 5.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 60.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">R................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 5.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 66.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">S................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 6.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 72.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">T................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 6.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 78.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">U................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 7.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 84.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">V................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 7.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 90.000,30</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">X................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 8.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr $ 96.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Y................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 8.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 102.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Z................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 9.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 108.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Z-1................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 9.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 114.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Z-2................................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 10.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 120.000,00</span></p></td></tr></tbody></table>
+Padrão
+
+Vencimento mensal
+
+Vencimento anual
+
+A................................................
+
+Cr$ 350,00
+
+Cr$ 4.200,00
+
+B................................................
+
+Cr$ 450,00
+
+Cr$ 5.400,00
+
+C................................................
+
+Cr$ 550,00
+
+Cr$ 6.600,00
+
+D................................................
+
+Cr$ 650,00
+
+Cr$ 7.800,00
+
+E................................................
+
+Cr$ 750,00
+
+Cr$ 9.000,00
+
+F................................................
+
+Cr$ 900,00
+
+Cr$ 1.0.800,00
+
+G................................................
+
+Cr$ 1.100,00
+
+Cr$ 13.200,00
+
+H................................................
+
+Cr$ 1.300,00
+
+Cr$ 15.600,00
+
+I................................................
+
+Cr$ 1.500,00
+
+Cr$ 18.000,00
+
+J................................................
+
+Cr$ 1.800,00
+
+Cr$ 21.600,00
+
+K................................................
+
+Cr$ 2.200,00
+
+Cr$ 26.400,00
+
+L................................................
+
+Cr$ 2.600,00
+
+Cr$ 31.200,00
+
+M................................................
+
+Cr$ 3.000,00
+
+Cr$ 36.000,00
+
+N................................................
+
+Cr$ 3.500,00
+
+Cr$ 42.000,00
+
+O................................................
+
+Cr$ 4. 000,00
+
+Cr$ 48.000,00
+
+P................................................
+
+Cr$ 4.500,00
+
+Cr$ 54.000,00
+
+Q................................................
+
+Cr$ 5.000,00
+
+Cr$ 60.000,00
+
+R................................................
+
+Cr$ 5.500,00
+
+Cr$ 66.000,00
+
+S................................................
+
+Cr$ 6.000,00
+
+Cr$ 72.000,00
+
+T................................................
+
+Cr$ 6.500,00
+
+Cr$ 78.000,00
+
+U................................................
+
+Cr$ 7.000,00
+
+Cr$ 84.000,00
+
+V................................................
+
+Cr$ 7.500,00
+
+Cr$ 90.000,30
+
+X................................................
+
+Cr$ 8.000,00
+
+Cr $ 96.000,00
+
+Y................................................
+
+Cr$ 8.500,00
+
+Cr$ 102.000,00
+
+Z................................................
+
+Cr$ 9.000,00
+
+Cr$ 108.000,00
+
+Z-1................................................
+
+Cr$ 9.500,00
+
+Cr$ 114.000,00
+
+Z-2................................................
+
+Cr$ 10.000,00
+
+Cr$ 120.000,00
 
 # ESCALA-PADRÃO DE VENCIMENTOS, QUE SUBSTITUE OS PADRÕES INSTITUÍDOS PELO DECRETO‑LEI N. 1.847, DE 7 DE DEZEMBRO DE 1939
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Padrão</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Vencimento</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;</span><span style="font-size:10pt">Mensal</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Vencimento</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">anual</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">1 ...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 450,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 5.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">2...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 550,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 6.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">3...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 650,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 7.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">4...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 750,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 9.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">5...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 900,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 10.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">6...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 12.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">7...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.100,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 13.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">8...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.200,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 14.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">9...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.300,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 15,600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">10...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.400,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 16.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">11...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 18.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">12...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.600,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 19.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">13...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.800,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 21.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">14...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.900,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 22.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">15...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 24.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">16...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.100,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 25.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">17...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.200,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 26.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">18...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.300,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 27.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">19...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.400,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 28.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">20...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.600,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 31.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">21...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.800,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 33.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">22...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.900,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 34.800,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">23...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 36.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">24...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.200,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 38.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">25...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.500,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 42,000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">26...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.800,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 45.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">27...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.000,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 48.000,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">28...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.100,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 49.200,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">29...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.300,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 51.600,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">30...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.700,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 56.400,00</span></p></td></tr><tr><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">31...............................................</span></p></td><td style="width:156pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 5.100,00</span></p></td><td style="width:156.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 61.200,00</span></p></td></tr></tbody></table>
+Padrão
+
+Vencimento
+
+ Mensal
+
+Vencimento
+
+anual
+
+1 ...............................................
+
+Cr$ 450,00
+
+Cr$ 5.400,00
+
+2...............................................
+
+Cr$ 550,00
+
+Cr$ 6.600,00
+
+3...............................................
+
+Cr$ 650,00
+
+Cr$ 7.800,00
+
+4...............................................
+
+Cr$ 750,00
+
+Cr$ 9.000,00
+
+5...............................................
+
+Cr$ 900,00
+
+Cr$ 10.800,00
+
+6...............................................
+
+Cr$ 1.000,00
+
+Cr$ 12.000,00
+
+7...............................................
+
+Cr$ 1.100,00
+
+Cr$ 13.200,00
+
+8...............................................
+
+Cr$ 1.200,00
+
+Cr$ 14.400,00
+
+9...............................................
+
+Cr$ 1.300,00
+
+Cr$ 15,600,00
+
+10...............................................
+
+Cr$ 1.400,00
+
+Cr$ 16.800,00
+
+11...............................................
+
+Cr$ 1.500,00
+
+Cr$ 18.000,00
+
+12...............................................
+
+Cr$ 1.600,00
+
+Cr$ 19.200,00
+
+13...............................................
+
+Cr$ 1.800,00
+
+Cr$ 21.600,00
+
+14...............................................
+
+Cr$ 1.900,00
+
+Cr$ 22.800,00
+
+15...............................................
+
+Cr$ 2.000,00
+
+Cr$ 24.000,00
+
+16...............................................
+
+Cr$ 2.100,00
+
+Cr$ 25.200,00
+
+17...............................................
+
+Cr$ 2.200,00
+
+Cr$ 26.400,00
+
+18...............................................
+
+Cr$ 2.300,00
+
+Cr$ 27.600,00
+
+19...............................................
+
+Cr$ 2.400,00
+
+Cr$ 28.800,00
+
+20...............................................
+
+Cr$ 2.600,00
+
+Cr$ 31.200,00
+
+21...............................................
+
+Cr$ 2.800,00
+
+Cr$ 33.600,00
+
+22...............................................
+
+Cr$ 2.900,00
+
+Cr$ 34.800,00
+
+23...............................................
+
+Cr$ 3.000,00
+
+Cr$ 36.000,00
+
+24...............................................
+
+Cr$ 3.200,00
+
+Cr$ 38.400,00
+
+25...............................................
+
+Cr$ 3.500,00
+
+Cr$ 42,000,00
+
+26...............................................
+
+Cr$ 3.800,00
+
+Cr$ 45.600,00
+
+27...............................................
+
+Cr$ 4.000,00
+
+Cr$ 48.000,00
+
+28...............................................
+
+Cr$ 4.100,00
+
+Cr$ 49.200,00
+
+29...............................................
+
+Cr$ 4.300,00
+
+Cr$ 51.600,00
+
+30...............................................
+
+Cr$ 4.700,00
+
+Cr$ 56.400,00
+
+31...............................................
+
+Cr$ 5.100,00
+
+Cr$ 61.200,00
 
 # ESCALA‑PADRÃO DE SALÁRIOS, QUE SUBSTITUE A DO DECRETO N. 9.808, DE, 30 DE JUNHO DE 1942
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">Referência</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Salário</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Mensal</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Salário</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">anual</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">I ...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 250,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.000,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">II...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 300,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 3.600,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">III...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 350,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.200,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">IV...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 400,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 4.800,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">V...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 450,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 5.400,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">VI...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 500,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 6.000,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">VII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 550,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 6.600,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">VIII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 600,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 7.200,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">IX...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 650,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 7.800,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">X...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 700,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 8.400,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XI...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 750,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 9.000,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 800,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 9.600,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XIII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 900,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 10.800,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XIV...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.000,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 12.000,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XV...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.100,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 13.200,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XVI...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.200,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 14.400,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XVII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.300,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 15.600,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XVIII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.400,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 16.800,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XIX...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.500,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 18.000,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XX...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.600,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 19.200,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XX-A...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.700,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 20.400,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXI...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.800,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 21.600,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 1.900,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 22.800,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXIII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.000,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 24.000,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXIV...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.100,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 25.200,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXV...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.200,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 26.400,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXVI...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.300,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 27.600,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXVII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.400,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 28.800,00</span></p></td></tr><tr><td style="width:156.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt">XXIII...............................................</span></p></td><td style="width:155.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 2.500,00</span></p></td><td style="width:145.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 30.000,00</span></p></td></tr></tbody></table>
+Referência
+
+Salário
+
+Mensal
+
+Salário
+
+anual
+
+I ...............................................
+
+Cr$ 250,00
+
+Cr$ 3.000,00
+
+II...............................................
+
+Cr$ 300,00
+
+Cr$ 3.600,00
+
+III...............................................
+
+Cr$ 350,00
+
+Cr$ 4.200,00
+
+IV...............................................
+
+Cr$ 400,00
+
+Cr$ 4.800,00
+
+V...............................................
+
+Cr$ 450,00
+
+Cr$ 5.400,00
+
+VI...............................................
+
+Cr$ 500,00
+
+Cr$ 6.000,00
+
+VII...............................................
+
+Cr$ 550,00
+
+Cr$ 6.600,00
+
+VIII...............................................
+
+Cr$ 600,00
+
+Cr$ 7.200,00
+
+IX...............................................
+
+Cr$ 650,00
+
+Cr$ 7.800,00
+
+X...............................................
+
+Cr$ 700,00
+
+Cr$ 8.400,00
+
+XI...............................................
+
+Cr$ 750,00
+
+Cr$ 9.000,00
+
+XII...............................................
+
+Cr$ 800,00
+
+Cr$ 9.600,00
+
+XIII...............................................
+
+Cr$ 900,00
+
+Cr$ 10.800,00
+
+XIV...............................................
+
+Cr$ 1.000,00
+
+Cr$ 12.000,00
+
+XV...............................................
+
+Cr$ 1.100,00
+
+Cr$ 13.200,00
+
+XVI...............................................
+
+Cr$ 1.200,00
+
+Cr$ 14.400,00
+
+XVII...............................................
+
+Cr$ 1.300,00
+
+Cr$ 15.600,00
+
+XVIII...............................................
+
+Cr$ 1.400,00
+
+Cr$ 16.800,00
+
+XIX...............................................
+
+Cr$ 1.500,00
+
+Cr$ 18.000,00
+
+XX...............................................
+
+Cr$ 1.600,00
+
+Cr$ 19.200,00
+
+XX-A...............................................
+
+Cr$ 1.700,00
+
+Cr$ 20.400,00
+
+XXI...............................................
+
+Cr$ 1.800,00
+
+Cr$ 21.600,00
+
+XXII...............................................
+
+Cr$ 1.900,00
+
+Cr$ 22.800,00
+
+XXIII...............................................
+
+Cr$ 2.000,00
+
+Cr$ 24.000,00
+
+XXIV...............................................
+
+Cr$ 2.100,00
+
+Cr$ 25.200,00
+
+XXV...............................................
+
+Cr$ 2.200,00
+
+Cr$ 26.400,00
+
+XXVI...............................................
+
+Cr$ 2.300,00
+
+Cr$ 27.600,00
+
+XXVII...............................................
+
+Cr$ 2.400,00
+
+Cr$ 28.800,00
+
+XXIII...............................................
+
+Cr$ 2.500,00
+
+Cr$ 30.000,00
 
 # TABELA DE VENCIMENTOS DO PESSOAL MILITAR
 
 ##  Vencimento mensal
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:258.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">ANTIGO</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cr$</span></p></td><td style="width:205.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">NOVO</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Cr$</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">10,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">15,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">21,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">32,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">50,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">75,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">56,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">84,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">60,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">90,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">69,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">104,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">80,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">120,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">100,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">114,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">171,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">150,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">225,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">162,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">243,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">197,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">296,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">200,70</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">301,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">207,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">310,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">209,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">314,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">218,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">327,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">228,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">342,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">231,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">347,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">233,40</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">350,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">236,40</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">355,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">240,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">360,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">248,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">372,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">249,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">374,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">250,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">375,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">252,80</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">380,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">256,40</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">385,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">272,90</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">410,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">288,90</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">434,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">290,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">435,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">300,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">450,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">302,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">453,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">310,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">464,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">330,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">492,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">350,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">520,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">360,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">534,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">390,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">576,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">400,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">590,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">450,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">660,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">500,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">730,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">520,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">758,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">600,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">870,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">700,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1.000,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1.000,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1.380,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1.300,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1.730,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">1.600,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2.060,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2.100,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2.610,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">2.600,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3.160,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3.000,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3.600,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">3.560,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4.150,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">4.300,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5.030,00</span></p></td></tr><tr><td style="width:258.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5.000,00</span></p></td><td style="width:205.65pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.5pt; padding-left:3.12pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">5.800,00</span></p></td></tr></tbody></table>
+ANTIGO
+
+Cr$
+
+NOVO
+
+Cr$
+
+10,00
+
+15,00
+
+21,00
+
+32,00
+
+50,00
+
+75,00
+
+56,00
+
+84,00
+
+60,00
+
+90,00
+
+69,00
+
+104,00
+
+80,00
+
+120,00
+
+100,00
+
+150,00
+
+114,00
+
+171,00
+
+150,00
+
+225,00
+
+162,00
+
+243,00
+
+197,00
+
+296,00
+
+200,00
+
+300,00
+
+200,70
+
+301,00
+
+207,00
+
+310,00
+
+209,00
+
+314,00
+
+218,00
+
+327,00
+
+228,00
+
+342,00
+
+231,00
+
+347,00
+
+233,40
+
+350,00
+
+236,40
+
+355,00
+
+240,00
+
+360,00
+
+248,00
+
+372,00
+
+249,00
+
+374,00
+
+250,00
+
+375,00
+
+252,80
+
+380,00
+
+256,40
+
+385,00
+
+272,90
+
+410,00
+
+288,90
+
+434,00
+
+290,00
+
+435,00
+
+300,00
+
+450,00
+
+302,00
+
+453,00
+
+310,00
+
+464,00
+
+330,00
+
+492,00
+
+350,00
+
+520,00
+
+360,00
+
+534,00
+
+390,00
+
+576,00
+
+400,00
+
+590,00
+
+450,00
+
+660,00
+
+500,00
+
+730,00
+
+520,00
+
+758,00
+
+600,00
+
+870,00
+
+700,00
+
+1.000,00
+
+1.000,00
+
+1.380,00
+
+1.300,00
+
+1.730,00
+
+1.600,00
+
+2.060,00
+
+2.100,00
+
+2.610,00
+
+2.600,00
+
+3.160,00
+
+3.000,00
+
+3.600,00
+
+3.560,00
+
+4.150,00
+
+4.300,00
+
+5.030,00
+
+5.000,00
+
+5.800,00

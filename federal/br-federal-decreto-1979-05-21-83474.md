@@ -1,5 +1,3 @@
-###DEC-083474-0-000-21-05-1979@@@
-
 Decreto nº 83.474 de 21 de maio de 1979.
 
 Concede reconhecimento ao curso de Comunicação Visual, da Universidade Federal do Rio de Janeiro.

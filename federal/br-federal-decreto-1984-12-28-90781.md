@@ -1,5 +1,3 @@
-###DEC-090781-0-000-28-12-1984@@@
-
 Decreto nº 90.781, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Engenharia da Faculdade de Engenharia Industrial, São Bernardo do Campo, São Paulo.

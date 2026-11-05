@@ -1,5 +1,3 @@
-###DEL-000365-0-000-19-12-1968@@@
-
 DECRETO-LEI Nº 365, De 19 DE DEZemBRO DE 1968
 
 Altera o orçamento global da Conta “Emprêgo e Salário” constante do Orçamento do Ministério do Trabalho e Previdência Social e dá outras providências.

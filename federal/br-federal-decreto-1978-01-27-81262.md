@@ -1,5 +1,3 @@
-###DEC-081262-0-000-27-01-1978@@@
-
 DECRETO Nº 81.262, DE 27 DE JANEIRO DE 1978.
 
 Concede reconhecimento aos cursos de Estudos Sociais de Letras e Pedagogia da Universidade Federal do Acre, com base na cidade de Rio Branco, Estado do Acre.

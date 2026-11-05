@@ -1,5 +1,3 @@
-###DEC-007163-0-000-29-04-2010@@@
-
 DECRETO Nº 7.163, DE 29 DE ABRIL DE 2010.
 
 Regulamenta o inciso I do art. 10-B da Lei no 8.255, de 20 de novembro de 1991, que dispõe sobre a organização básica do Corpo de Bombeiros Militar do Distrito Federal.

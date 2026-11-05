@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183203)
-
 # DECRETO Nº 62.824, DE 15 DE SETEMBRO DE 2017
 
 ### _Transfere da administração da Secretaria de Esporte, Lazer e Juventude, para a da Secretaria da Saúde, o imóvel que específica no Município de Bernardino de Campos e dá providências correlatas_
@@ -24,12 +22,20 @@ Palácio dos Bandeirantes, 15 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Paulo Gustavo Maiurino<br>
-Secretário de Esporte, Lazer e Juventude<br>
-David Everson Uip<br>
-Secretário da Saúde<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Paulo Gustavo Maiurino
+
+Secretário de Esporte, Lazer e Juventude
+
+David Everson Uip
+
+Secretário da Saúde
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 15 de setembro de 2017.

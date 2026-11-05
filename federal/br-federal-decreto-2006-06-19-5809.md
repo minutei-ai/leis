@@ -1,5 +1,3 @@
-###DEC-005809-0-000-19-06-2006@@@
-
 DECRETO Nº 5.809, DE 19 DE JUNHO DE 2006.
 
 Dispõe sobre a criação do Consulado-Geral do Brasil em Mendoza, República Argentina.

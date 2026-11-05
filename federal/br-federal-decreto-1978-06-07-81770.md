@@ -1,5 +1,3 @@
-###DEC-081770-0-000-07-06-1978@@@
-
 Decreto nº 81.770, de 07 de junho de 1978.
 
 Concede reconhecimento ao curso de Direito, ministrado pela Faculdade de Ciências Jurídicas de Campo Grande, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

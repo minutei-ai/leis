@@ -1,5 +1,3 @@
-###DEL-005393-0-000-12-04-1943@@@
-
 DECRETO‑LEI N. 5.393 – DE 12 DE ABRIL DE 1943
 
 Altera carreiras nos Ministérios da Educação e Saude, Fazenda, Guerra, Justiça e Negócios Interiores e Marinha e dá outras providências

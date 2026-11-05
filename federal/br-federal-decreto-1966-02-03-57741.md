@@ -1,5 +1,3 @@
-###DEC-057741-0-000-03-02-1966@@@
-
 DECRETO Nº 57.741, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza estrangeiros a adquirir o domínio útil do terreno de acrescido de marinha que menciona, no Estado da Guanabara.

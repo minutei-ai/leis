@@ -1,5 +1,3 @@
-###DEC-055117-0-000-02-12-1964@@@
-
 Decreto nº 55.117, de 2 de dezembro de 1964.
 
 Concede à ERSA - Indústria e Mineração S.A. autorização para funcionar como emprêsa de Mineração.

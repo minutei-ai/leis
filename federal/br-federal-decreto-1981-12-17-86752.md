@@ -1,5 +1,3 @@
-###DEC-086752-0-000-17-12-1981@@@
-
 Decreto nº 86.752, de 17 de dezembro de 1981
 
 Dispõe sobre a vinculação do Território Federal de Fernando de Noronha ao Ministério da Aeronáutica e dá outras providências.

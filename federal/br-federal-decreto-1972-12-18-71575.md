@@ -1,5 +1,3 @@
-###DEC-071575-0-000-18-12-1972@@@
-
 DECRETO Nº 71.575 - DE 18 DE DEZEMBRO DE 1972
 
 Concede à Mineração Abel S.A. o direito de lavrar areia quartzosa e feldspato no município de Peruíbe, Estado de São Paulo.

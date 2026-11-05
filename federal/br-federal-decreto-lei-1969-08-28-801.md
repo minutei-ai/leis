@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0d998730-f1c2-4b84-8ef3-ccc3362e26cf/texto#nowhere)
 
-###DEL-000801-0-000-28-08-1969@@@
-
 DECRETO-LEI Nº 801, DE 28 DE AGôSTO DE 1969
 
 Altera dispositivos da Lei nº 4.510, de 1º de dezembro de 1964, que reorganiza a Casa da Moeda e dá outras providências.

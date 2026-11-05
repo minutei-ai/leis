@@ -1,7 +1,3 @@
-1
-
-###DEC-001016-0-000-22-12-1993@@@
-
 DECRETO Nº 1.016, DE 22 DE DEZEMBRO DE 1993
 
 Fixa critérios para atribuição da Gratificação Temporária de que trata a Medida Provisória nº 377, de 26 de novembro de 1993.

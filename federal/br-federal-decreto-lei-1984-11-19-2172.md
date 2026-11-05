@@ -1,5 +1,3 @@
-###DEL-002172-0-000-19-11-1984@@@
-
 # Decreto-lei nº 2.172, de 19 de novembro de 1984.
 
 Altera os valores e percentuais constantes do Anexo ao Decreto-lei nº 2.131, de 25 de junho de 1984, e dá outras providências.

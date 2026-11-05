@@ -1,5 +1,3 @@
-###DEC-057590-0-000-06-01-1966@@@
-
 decreto nº 57.590, de 6 de janeiro de 1966.
 
 Autoriza o Banco Central da República do Brasil a negociar e a contratar, em nome do Tesouro Nacional, operação de Empréstimo em moeda estrangeira, até o montante de US$15.000.000 (quinze milhões de dólares), inclusive juros, com o Banco Interamericano de Desenvolvimento.

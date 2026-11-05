@@ -1,5 +1,3 @@
-###DEC-060977-0-000-10-07-1967@@@
-
 DECRETO Nº 60.977, DE 10 DE JULHO DE 1967.
 
 Concede à Sociedade Norton, Megaw & Co. Ltd., autorização para continuar a funcionar na República do Brasil.

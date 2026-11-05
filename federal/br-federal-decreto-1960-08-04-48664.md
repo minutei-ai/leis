@@ -1,5 +1,3 @@
-###DEC-048664-0-000-04-08-1960@@@
-
 DECRETO N. 48.664 – DE 4 DE AGÔSTO DE 1960
 
 Concede autorização para o funcionamento de cursos.

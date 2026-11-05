@@ -1,5 +1,3 @@
-###DEL-003160-0-000-31-03-1941@@@
-
 DECRETO-LEI N. 3.160 – DE 31 DE MARÇO DE 1941
 
 Abre, pelo Ministério da Agricultura, o crédito especial de 81 :000$0, para despesas da Superintendência do Ensino Agrícola e Veterinário

@@ -1,7 +1,3 @@
-1
-
-###MPV-001165-0-000-26-10-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.165, DE 26 DE OUTUBRO DE 1995.
 
 Reduz o imposto de importação para os produtos que especifica e dá outras providências.

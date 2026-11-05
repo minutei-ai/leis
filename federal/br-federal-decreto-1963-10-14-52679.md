@@ -1,5 +1,3 @@
-###DEC-052679-0-000-14-10-1963@@@
-
 DECRETO Nº 52.679, DE 14 DE OUTUBRO DE 1963.
 
 Acrescenta itens ao § 4º do art. 48 do Regulamento do Serviço de Identificação do Exército - R/115.

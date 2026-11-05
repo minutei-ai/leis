@@ -1,5 +1,3 @@
-###DEC-003388-0-000-21-03-2000@@@
-
 DECRETO Nº 3.388, DE 21 DE MARÇO DE 2000.
 
 Altera a redação do art. 32 do Anexo I do Decreto nº 2.455, de 14 de janeiro de 1998, que “Implanta a Agência Nacional do Petróleo - ANP, autarquia sob regime especial, aprova sua estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e Funções de Confiança e dá outras providências”.

@@ -422,27 +422,32 @@ II - 20% (vinte e cinco por cento) para as aplicações do Fundo de Modernizaç�
 
 **IV** -      100% (cem por cento) de uma cota parte, nos 12 (doze) meses subsequentes à aposentadoria;
 
-Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.<br>
+Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.
+
 Redação origina: IV - "100% (cem por cento) de uma cota parte, nos 12 (doze) meses subsequentes à aposentadoria;"
 
 **V** \-       90% (noventa por cento) de uma cota parte, no período compreendido entre o 13º (décimo terceiro) e o 24º (vigésimo quarto) mês subsequente à aposentadoria;
 
-Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.<br>
+Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.
+
 Redação origina: V - "80% (oitenta por cento) de uma cota parte, no período compreendido entre o 13º (décimo terceiro) e o 24º (vigésimo quarto) mês subsequente à aposentadoria;"
 
 **VI** -      80% (oitenta por cento) de uma cota parte, no período compreendido entre o 25º (vigésimo quinto) e o 36º (trigésimo sexto) mês subsequente à aposentadoria;
 
-Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.<br>
+Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.
+
 Redação origina: VI - "60% (sessenta por cento) de uma cota parte, no período compreendido entre o 25º (vigésimo quinto) e o 36º (trigésimo sexto) mês subsequente à aposentadoria;"
 
 **VII** -    70% (setenta por cento) de uma cota parte, no período compreendido entre o 37º (trigésimo sétimo) e o 48º (quadragésimo oitavo) mês subsequente à aposentadoria;
 
-Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.<br>
+Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.
+
 Redação origina: VII - "40% (quarenta por cento) de uma cota parte, no período compreendido entre o 37º (trigésimo sétimo) e o 48º (quadragésimo oitavo) mês subsequente à aposentadoria;"
 
 **VIII** -   60% (sessenta por cento) de uma cota parte, no período compreendido entre o 49º (quadragésimo nono) e o 60º (sexagésimo) mês subsequente à aposentadoria;
 
-Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.<br>
+Redação de acordo com a Lei Complementar 59 de 23 de dezembro de 2025.
+
 Redação origina: VIII - "20% (vinte por cento) de uma cota parte, no período compreendido entre o 49º (quadragésimo nono) e o 60º (sexagésimo) mês subsequente à aposentadoria."
 
 **IX** \- 50% (cinquenta por cento) de uma cota parte, no período compreendido entre o 61º (sexagésimo primeiro) e o 72º (septuagésimo segundo) mês subsequente à aposentadoria;
@@ -475,7 +480,8 @@ Inciso XIII acrescido pela Lei Complementar 59 de 23 de dezembro de 2025.
 
 **§ 2º** - Em casos de programas ordinários ou especiais de recuperação de créditos, os honorários de que trata o _caput_ deste artigo poderão ter seus percentuais reduzidos em até 75% (setenta e cinco por cento).
 
-Redação de acordo com o art. 3º da Lei Complementar 49 de 15 de maio de 2020.<br>
+Redação de acordo com o art. 3º da Lei Complementar 49 de 15 de maio de 2020.
+
 Redação original: "§ 2º-Em casos de programas ordinários ou especiais de recuperação de créditos, os honorários de que trata o caput deste artigo poderão ter seus percentuais reduzidos em até 50% (cinquenta por cento). "
 
 **Art. 12** - A assunção das atividades das Procuradorias Jurídicas pela Procuradoria Geral do Estado ocorrerá de acordo com a necessidade do serviço e a capacidade de absorção da demanda.
@@ -504,7 +510,7 @@ Redação original: "§ 2º-Em casos de programas ordinários ou especiais de re
 
 **Parágrafo único** - Não se aplica o disposto no art. 88 da Lei Complementar nº 34, de 06 de fevereiro de 2009, aos valores previstos no caput deste artigo, bem como àqueles de distribuição devida no ano de 2017 na forma da legislação até então vigente.
 
-**<REVOGADO>****Art. 23 -** Fica vedado o exercício da advocacia privada aos Procuradores do Estado que venham a ingressar na carreira a partir de concursos públicos homologados após a entrada em vigor desta Lei.
+**<REVOGADO>Art. 23 -** Fica vedado o exercício da advocacia privada aos Procuradores do Estado que venham a ingressar na carreira a partir de concursos públicos homologados após a entrada em vigor desta Lei.
 
 Revogado pela Lei Complementar 59 de 23 de dezembro de 2025.
 
@@ -538,8 +544,11 @@ Bruno Dauster
 
 Secretário da Casa Civil
 
-Retificação publicada no DOE de 28.10.2017<br>
-No art. 25 da Lei Complementar nº 43, de 25 de outubro de 2017, publicado no D.O.E. de 26.10.17: ONDE SE LÊ: ...V - os incisos III e VI do art. 74 da Lei Complementar nº 34, de 06 de fevereiro 2009... LEIA-SE: ...V - o inciso VI do art. 74 da Lei Complementar nº 34, de 06 de fevereiro 2009...<br> <br>
+Retificação publicada no DOE de 28.10.2017
+
+No art. 25 da Lei Complementar nº 43, de 25 de outubro de 2017, publicado no D.O.E. de 26.10.17: ONDE SE LÊ: ...V - os incisos III e VI do art. 74 da Lei Complementar nº 34, de 06 de fevereiro 2009... LEIA-SE: ...V - o inciso VI do art. 74 da Lei Complementar nº 34, de 06 de fevereiro 2009...
+ 
+
  
 
 ANEXO ÚNICO
@@ -548,64 +557,116 @@ QUADRO DE CARGOS EM COMISSÃO DA
 
 PROCURADORIA GERAL DO ESTADO - PGE
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:432.0pt;margin-left:-5.4pt;border-collapse:collapse" width="0"><tbody><tr style="height:26.9pt"><td style="width:241.15pt;border-top:solid #000001 1.0pt;
-  border-left:none;border-bottom:solid #000001 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" width="322"><p class="MsoNormal"><span style="color:black">CARGO</span></p></td><td style="width:95.3pt;border-top:solid #000001 1.0pt;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" width="127"><p class="MsoNormal"><span style="color:black">SÍMBOLO</span></p></td><td style="width:95.55pt;border-top:solid #000001 1.0pt;border-left:
-  none;border-bottom:solid #000001 1.0pt;border-right:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" width="127"><p class="MsoNormal"><span style="color:black">QUANTIDADE</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Procurador Geral Adjunto</span></p></td><td style="width:95.3pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2A</span></p></td><td style="width:95.55pt;border:none;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">01</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Corregedor</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2B</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">01</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Diretor Geral</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2B</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">01</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Procurador Assessor Especial</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2B</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">06</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Procurador Chefe</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2B</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">06</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador de Controle Interno I</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2C</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">01</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador I</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2C</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">02</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Diretor</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2C</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">03</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Procurador Assistente</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2C</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">27</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador Técnico de Procuradoria</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2D</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">04</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador Técnico</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-2D</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">07</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Assessor de Comunicação Social I</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-3</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">01</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Assessor Técnico</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-3</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">06</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador II</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-3</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">13</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Secretário de Gabinete</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAS-3</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">01</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Assistente Orçamentário</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAI-4</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">02</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador III</span></p></td><td style="width:95.3pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAI-4</span></p></td><td style="width:95.55pt;padding:0cm 5.4pt 0cm 5.4pt;
-  height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">29</span></p></td></tr><tr style="height:26.9pt"><td style="width:241.15pt;border:none;border-bottom:
-  solid #000001 1.0pt;padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="322"><p class="MsoNormal"><span style="color:black">Coordenador IV</span></p></td><td style="width:95.3pt;border:none;border-bottom:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">DAI-5</span></p></td><td style="width:95.55pt;border:none;border-bottom:solid #000001 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt;height:26.9pt" valign="top" width="127"><p class="MsoNormal"><span style="color:black">34</span></p></td></tr></tbody></table>
+CARGO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Procurador Geral Adjunto
+
+DAS-2A
+
+01
+
+Corregedor
+
+DAS-2B
+
+01
+
+Diretor Geral
+
+DAS-2B
+
+01
+
+Procurador Assessor Especial
+
+DAS-2B
+
+06
+
+Procurador Chefe
+
+DAS-2B
+
+06
+
+Coordenador de Controle Interno I
+
+DAS-2C
+
+01
+
+Coordenador I
+
+DAS-2C
+
+02
+
+Diretor
+
+DAS-2C
+
+03
+
+Procurador Assistente
+
+DAS-2C
+
+27
+
+Coordenador Técnico de Procuradoria
+
+DAS-2D
+
+04
+
+Coordenador Técnico
+
+DAS-2D
+
+07
+
+Assessor de Comunicação Social I
+
+DAS-3
+
+01
+
+Assessor Técnico
+
+DAS-3
+
+06
+
+Coordenador II
+
+DAS-3
+
+13
+
+Secretário de Gabinete
+
+DAS-3
+
+01
+
+Assistente Orçamentário
+
+DAI-4
+
+02
+
+Coordenador III
+
+DAI-4
+
+29
+
+Coordenador IV
+
+DAI-5
+
+34

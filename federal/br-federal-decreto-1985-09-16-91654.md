@@ -1,5 +1,3 @@
-###DEC-091654-0-000-16-09-1985@@@
-
 DECRETO Nº 91.654, DE 16 DE SETEMBRO DE 1985.
 
 Aprova o Estatuto da Fundação Alexandre de Gusmão.

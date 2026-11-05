@@ -1,5 +1,3 @@
-###DEC-096878-0-000-29-09-1988@@@
-
 DECRETO N° 96.878, DE 29 DE SETEMBRO DE 1988
 
 Dispõe sobre a administração de bens da União, situados na área do atual Territó­rio Federal de Fernando de Noronha.

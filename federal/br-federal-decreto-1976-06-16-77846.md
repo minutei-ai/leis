@@ -1,5 +1,3 @@
-###DEC-077846-0-000-16-06-1976@@@
-
 DECRETO Nº 77.846, DE 16 DE JUNHO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz- CPFL, no Estado de São Paulo.

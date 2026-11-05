@@ -1,5 +1,3 @@
-###DEC-055260-0-000-22-12-1964@@@
-
 DECRETO Nº 55.260, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Darcy de Almeida a pesquisar areia quartzosa, no Município de Jacobina, Estado da Bahia.

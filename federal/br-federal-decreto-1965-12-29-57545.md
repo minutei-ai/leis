@@ -1,5 +1,3 @@
-###DEC-057545-0-000-29-12-1965@@@
-
 decreto nº 57.545, de 29 de dezembro de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, faixa de terra destinada a passagem de linha de transmissão.

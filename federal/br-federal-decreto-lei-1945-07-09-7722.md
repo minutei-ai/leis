@@ -1,5 +1,3 @@
-###DEL-007722-0-000-09-07-1945@@@
-
 DECRETO-LEI N. 7.722 – DE 9 DE JULHO DE 1945
 
 Altera carreiras do Quadro II – extinto – do Ministério da Viação e Obras Públicas e dá outras providências.

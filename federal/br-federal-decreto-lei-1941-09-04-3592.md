@@ -1,5 +1,3 @@
-###DEL-003592-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.592 – DE 4 DE SETEMBRO DE 1941
 
 Autoriza o prefeito do Distrito Federal a isentar o “Liceu Literário Português” do pagamento do imposto que menciona

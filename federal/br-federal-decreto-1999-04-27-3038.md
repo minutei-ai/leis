@@ -1,5 +1,3 @@
-###DEC-003038-0-000-27-04-1999@@@
-
 DECRETO Nº 3.038, DE 27 DE ABRIL DE 1999.
 
 Altera e acresce dispositivo ao Decreto nº 408, de 27 de dezembro de 1991, que regulamenta o art. 3º da Lei nº 8.242, de 12 de outubro de 1991, e dá outras providências.

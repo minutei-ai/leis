@@ -1,5 +1,3 @@
-###DEC-068510-0-000-15-04-1971@@@
-
 DECRETO Nº 68.510 - DE 15 DE ABRIL DE 1971.
 
 Reconhecimento do Curso de Engenheiro de Operação (modalidade Mecânica de Máquinas e Motores) da Faculdade de Engenharia de Joinville, SC.

@@ -1,5 +1,3 @@
-###DEC-090197-0-000-13-09-1984@@@
-
 DECRETO nº 90.197, de 13 de setembro de 1984.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

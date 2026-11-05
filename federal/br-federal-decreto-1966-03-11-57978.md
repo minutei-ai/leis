@@ -1,5 +1,3 @@
-###DEC-057978-0-000-11-03-1966@@@
-
 Decreto nº 57.978, de 11 de março de 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, área de terreno necessária à construção do Reservatório Elevado e as casas de Bombas do Sistema de abastecimento d’água da cidade de Riachão do Dantas, no Estado de Sergipe.

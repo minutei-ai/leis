@@ -1,5 +1,3 @@
-###DEC-066084-0-000-16-01-1970@@@
-
 DECRETO Nº 66.084 - DE 16 DE JANEIRO DE 1970
 
 Extingue o Quadro de Sargentos Instrutores de Tiros de Guerra e dá outras providências.

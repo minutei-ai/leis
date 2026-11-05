@@ -6,9 +6,10 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1º Fica instituído o FUNDO MUNICIPAL DE SEGURANÇA PÚBLICA de Aparecida de Goiânia – FMSP e dá outras providências.
 
-CAPITULO I<br>
-<br>
-DO CONSELHO E SUAS ATRIBUIÇÕES JUNTO AO FUNDO MUNICIPAL DE<br>
+CAPITULO I
+
+DO CONSELHO E SUAS ATRIBUIÇÕES JUNTO AO FUNDO MUNICIPAL DE
+
 SEGURANÇA PÚBLICA DE APARECIDA DE GOIÂNIA
 
 Art. 2° O Conselho terá as seguintes atribuições perante o Fundo Municipal de Segurança Pública:
@@ -55,16 +56,20 @@ VI - transferências correntes e de capital do Instituto de Previdência de Apar
 
 VII - outras receitas destinadas ao FMSP.
 
-Art. 4º-A Ficam desvinculados do Fundo Municipal de Segurança Pública - FMSP 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.<br>
+Art. 4º-A Ficam desvinculados do Fundo Municipal de Segurança Pública - FMSP 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B do Ato das Disposições Constitucionais Transitórias.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.<br>
+§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.<br>
+§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-Art. 4º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.<br>
+Art. 4º-B O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
 Seção II
@@ -147,7 +152,8 @@ DAS DISPOSIÇÕES FINAIS
 
 Art. 16. O Fundo Municipal de Segurança Pública da Guarda Civil Municipal de Aparecida de Goiânia terá vigência por tempo indeterminado.
 
-~~Art. 17. O saldo financeiro apurado no balanço do Fundo será incorporado ao seu orçamento e poderá ser utilizado no exercício subsequente.~~<br>
+~~Art. 17. O saldo financeiro apurado no balanço do Fundo será incorporado ao seu orçamento e poderá ser utilizado no exercício subsequente.~~
+
 (Revogado pela Lei nº 3.870, de 28 de novembro de 2025)
 
 Art. 18. O Poder Executivo poderá regulamentar esta Lei por meio de Decreto.
@@ -156,6 +162,6 @@ Art. 19. Esta Lei entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA – GO, aos 23 de outubro de 2023
 
-<br>
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

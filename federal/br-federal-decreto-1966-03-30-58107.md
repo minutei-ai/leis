@@ -1,5 +1,3 @@
-###DEC-058107-0-000-30-03-1966@@@
-
 DECRETO Nº 58.107, DE 30 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Dimitri Athiê a pesquisar água mineral no município de Piracicaba, Estado de São Paulo.

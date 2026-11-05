@@ -1,7 +1,3 @@
-1
-
-###DEC-099700-0-000-20-11-1990@@@
-
 DECRETO N° 99.700, DE 20 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução no Brasil do Décimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica entre o Brasil e o Uruguai (Acordo n° 2).

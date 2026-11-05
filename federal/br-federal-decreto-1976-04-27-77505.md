@@ -1,5 +1,3 @@
-###DEC-077505-0-000-27-04-1976@@@
-
 DECRETO Nº 77.505 - DE 27 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Educação Física, habilitações em licenciatura em Educação Física e Técnico Desportivo, da Faculdade Integrada de Educação Física e Técnicas Desportivas de Guarulhos - Estado de São Paulo.

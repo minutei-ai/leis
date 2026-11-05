@@ -1,5 +1,3 @@
-###DEC-057384-0-000-06-12-1965@@@
-
 DECRETO Nº 57.384, DE 6 DE DEZEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Jonathas Bitencourt a pesquisar quartzo e mica no município de Governador Valadares Estado de Minas Gerais.

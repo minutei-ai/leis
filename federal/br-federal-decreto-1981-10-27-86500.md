@@ -1,5 +1,3 @@
-###DEC-086500-0-000-27-10-1981@@@
-
 DECRETO Nº 86.500, DE 27 DE OUTUBRO DE 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

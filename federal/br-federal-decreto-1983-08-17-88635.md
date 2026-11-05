@@ -1,5 +1,3 @@
-###DEC-088635-0-000-17-08-1983@@@
-
 Decreto nº 88.635, de 17 de agosto de 1983
 
 Autoriza o funcionamento da habitação do curso de Administração, do Instituto de Ciências Sociais do Paraná.

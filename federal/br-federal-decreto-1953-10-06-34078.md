@@ -1,34 +1,32 @@
-###DEC-034078-0-000-06-10-1953@@@
+**DECRETO Nº 34.078, DE 6 DE OUTUBRO DE 1953.**
 
-<strong>DECRETO Nº 34.078, DE 6 DE OUTUBRO DE 1953.</strong>
+***Aprova o Regimento da Divisão de Educação Extra-Escolar do Departamento Nacional de Educação do Departamento Nacional de Educação e Cultura.***
 
-<em><strong>Aprova o Regimento da Divisão de Educação Extra-Escolar do Departamento Nacional de Educação do Departamento Nacional de Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Divisão de Educação Extra-Escolar do Departamento Nacional de Educação e Cultura, que, assinado pelo respectivo Ministro de Estado, baixa com êste decreto.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Divisão de Educação Extra-Escolar do Departamento Nacional de Educação e Cultura, que, assinado pelo respectivo Ministro de Estado, baixa com êste decreto.
+**Art**. 2º Êste Decreto entrará em vigor na data a sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data a sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de outubro de 1953; 132º da independência e 65º da república.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Antônio Balbino
 
-<strong>REGIMENTO DA DIVISÃO DE EDUCAÇÃO EXTRA-ESCOLAR DO DEPARTAMENTO NACIONAL DE EDUCAÇÃO.</strong>
+**REGIMENTO DA DIVISÃO DE EDUCAÇÃO EXTRA-ESCOLAR DO DEPARTAMENTO NACIONAL DE EDUCAÇÃO.**
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>Da finalidade e competência</em>
+*Da finalidade e competência*
 
-<strong>Art</strong>. 1º A Divisão de Educação Extra-Escolar do Ministério da Educação e Cultura, subordinados ao Departamento Nacional de Educação, tem por finalidade promover o orientar as atividades educativas e culturais de natureza extra-escolar, bem como coordenar as de cultura geral, em conexão com outros órgãos especializados.
+**Art**. 1º A Divisão de Educação Extra-Escolar do Ministério da Educação e Cultura, subordinados ao Departamento Nacional de Educação, tem por finalidade promover o orientar as atividades educativas e culturais de natureza extra-escolar, bem como coordenar as de cultura geral, em conexão com outros órgãos especializados.
 
-<strong>Art</strong>. 2º No desempenho da suas atribuições a divisão de educação extra-escolar:
+**Art**. 2º No desempenho da suas atribuições a divisão de educação extra-escolar:
 
 a) manterá contato direto com estudantes, pra o fim de:
 
@@ -66,11 +64,11 @@ a) cuidará das atividades que visem à cultura geral, providenciando no sentido
 
 6º.) manter um cadastro cultural das instituições ou personalidades que possam interessar ao Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 3º A Divisão de Educação Extra-Escola compõe-se de:
+**Art**. 3º A Divisão de Educação Extra-Escola compõe-se de:
 
 I - Gabinete do Diretor (G.D.);
 
@@ -80,7 +78,7 @@ III - Seção Assistência (S.A);
 
 IV - Seção de Cultura (S.C.);
 
-<strong>Art</strong>. 4º A divisão terá um diretor subordinado ao Diretor Geral do Departamento Nacional de Educação; as seções terão chefes imediatamente subordinados ao diretor da Divisão.
+**Art**. 4º A divisão terá um diretor subordinado ao Diretor Geral do Departamento Nacional de Educação; as seções terão chefes imediatamente subordinados ao diretor da Divisão.
 
 § 1.º As seções poderão dividir os seus encargos por turmas de servidores.
 
@@ -88,27 +86,27 @@ IV - Seção de Cultura (S.C.);
 
 § 3.º Serão gratificadas as funções de Chefe de Seção e Secretário.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 5º. Compete a Seção de Estudante (S.E.) planejar, promover e coordenar as atividades especificadas no artigo 2.º alínea “<em>a</em>”.
+**Art**. 5º. Compete a Seção de Estudante (S.E.) planejar, promover e coordenar as atividades especificadas no artigo 2.º alínea “*a*”.
 
 Parágrafo. De acôrdo com as e seminários, no sentido de assistirá em relações com os estudantes e suas entidades, promovendo reuniões e seminários, no sentido de assistir-lhes no encaminhamento e solução dos seus problemas.
 
-<strong>Art</strong>. 6.º A Seção de Assistência (S.A.) compete executar tôdas as atividades enumeradas no artigo 2.º, alínea “<em>b</em>”.
+**Art**. 6.º A Seção de Assistência (S.A.) compete executar tôdas as atividades enumeradas no artigo 2.º, alínea “*b*”.
 
 Parágrafo único. De acôrdo com as instruções do Diretor a Seção manterá entendimento direto com as entidades públicas e particulares que possas ser úteis aos seus objetivos.
 
-<strong>Art</strong>. 7º Encarregar-se-á a Seção de Cultura (S.C.) das atividades indicadas no artigo 2º, alínea “<em>c</em>”.
+**Art**. 7º Encarregar-se-á a Seção de Cultura (S.C.) das atividades indicadas no artigo 2º, alínea “*c*”.
 
 Parágrafo único. Para o desempenho das suas atribuições a Seção recorrerá à cooperação dos órgãos públicos e particulares, notadamente dos serviços especializados do Ministério.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 8.º Compete ao Diretor da Divisão:
+**Art**. 8.º Compete ao Diretor da Divisão:
 
 a) receber instruções das autoridades superiores e inteirá-las dos planos de trabalho e das diversas fases de sua execução;
 
@@ -130,7 +128,7 @@ i) conceder férias aos servidores da Divisão;
 
 i) movimentar o pessoal lotado na divisão, de acôrdo com as necessidades do serviço.
 
-<strong>Art</strong>. 9º Aos Chefes de Seção incumbe:
+**Art**. 9º Aos Chefes de Seção incumbe:
 
 a) dirigir os trabalhos da Seção, expedindo ordens e instruções necessárias ao exercício de suas atribuições;
 
@@ -146,39 +144,39 @@ f) representar ao Diretor contra faltas cometidas por seus subordinados, propond
 
 Parágrafo único. Compete, ainda, ao Chefe da Seção de Assistência, estabelecer as providências necessárias à fiscalização das atividades da instituições educacionais de natureza privada que, subvencionadas pelos cofres da União, estiverem incluídas na esfera da ação da Divisão, propondo ao Diretor medidas que orientem e disciplinem as inspeções periódicas.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 10. A Divisão terá a lotação que lhe fôr fixada em decreto.
+**Art**. 10. A Divisão terá a lotação que lhe fôr fixada em decreto.
 
 Parágrafo único. Além dos funcionários e extranumerários constantes de sua lotação, poderá ter a Divisão colaboradores eventuais que forem autorizados pelo Ministros, mediante proposta do Diretor Geral do Departamento Nacional de Educação.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>.11. O horário normal de trabalho da Divisão é o estabelecido para o serviço público em geral, podendo expediente ser antecipado ou prorrogado, de acôrdo com legislação vigente e segundo as conveniências do serviço.
+**Art**.11. O horário normal de trabalho da Divisão é o estabelecido para o serviço público em geral, podendo expediente ser antecipado ou prorrogado, de acôrdo com legislação vigente e segundo as conveniências do serviço.
 
 Parágrafo único. O Diretor da Divisão está isento da assinatura do ponto.
 
-<strong>Art</strong>.12. A freqüência do pessoal em exercício fora da seção será apurada mediantes boletim diário de produção, verificado pelo chefe de Seção respectivo.
+**Art**.12. A freqüência do pessoal em exercício fora da seção será apurada mediantes boletim diário de produção, verificado pelo chefe de Seção respectivo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das sustituições</em>
+*Das sustituições*
 
-<strong>Art</strong>. 13. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
+**Art**. 13. Serão substituídos nas faltas ocasionais e nos impedimentos transitórios:
 
 a) o Diretor pelo Chefe de Seção que fôr designado pelo Ministro:
 
 b) os chefes de Seção respectivas, designados pelo Diretor.
 
-<strong>CAPITULO VIII</strong>
+**CAPITULO VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 14. Funcionará junto à Divisão uma comissão destinada a cooperar com Diretor no estudo e solução dos problemas que lhe estão afetos.
+**Art**. 14. Funcionará junto à Divisão uma comissão destinada a cooperar com Diretor no estudo e solução dos problemas que lhe estão afetos.
 
 Parágrafo único. A organização e o funcionamento dessa comissão serão objeto de ato ministerial.
 

@@ -1,5 +1,3 @@
-###DEC-006167-0-000-24-07-2007@@@
-
 DECRETO Nº 6.167, DE 24 DE JULHO DE 2007.
 
 Altera e acresce dispositivos ao Decreto no 6.144, de 3 de julho de 2007, que regulamenta a forma de habilitação e co-habilitação ao Regime Especial de Incentivos para o Desenvolvimento da Infra-Estrutura - REIDI, instituído pelos arts. 1o a 5o da Lei no 11.488, de 15 de junho de 2007.
@@ -43,5 +41,3 @@ Brasília, 24 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 25.7.2007

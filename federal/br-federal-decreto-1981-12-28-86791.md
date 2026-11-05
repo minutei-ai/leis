@@ -1,5 +1,3 @@
-###DEC-086791-0-000-28-12-1981@@@
-
 Decreto nº 86.791, de 28 de dezembro de 1981.
 
 Extingue o Conselho Nacional de Pós-Graduação e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-004537-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.537 – DE 30 DE JULHO DE 1942
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de 400$0 (quatrocentos mil réis)

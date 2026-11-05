@@ -1,5 +1,3 @@
-###DEC-085222-0-000-30-09-1980@@@
-
 Decreto nº 85.222, de 30 de setembro de 1980.
 
 Autoriza o funcionamento do curso de Tecnólogo Executivo da Faculdade de Ciências Contábeis do Litoral Santista, em Santos, Estado de São Paulo.

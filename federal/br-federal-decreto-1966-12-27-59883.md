@@ -1,5 +1,3 @@
-###DEC-059883-0-000-27-12-1966@@@
-
 DECRETO Nº 59.883, DE 27 DE DEZEMBRO DE 1966.
 
 Suprime cargo extinto.

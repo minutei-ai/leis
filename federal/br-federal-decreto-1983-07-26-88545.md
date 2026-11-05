@@ -1,5 +1,3 @@
-###DEC-088545-0-000-26-07-1983@@@
-
 Decreto nº 88.545, de 26 de julho de 1983.
 
 Aprova o Regulamento Disciplinar para a Marinha e dá outras providências.

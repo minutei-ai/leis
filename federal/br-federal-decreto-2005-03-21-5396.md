@@ -1,5 +1,3 @@
-###DEC-005396-0-000-21-03-2005@@@
-
 DECRETO Nº 5.396 DE 21 DE MARÇO DE 2005
 
 Regulamenta o art. 19 da Lei nº 9.637, de 15 de maio de 1998, que dispõe sobre o recebimento de recursos e a veiculação de publicidade institucional por organizações sociais que exercem atividades de rádio e televisão educativa, e dá outras providências.

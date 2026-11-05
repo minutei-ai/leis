@@ -1,5 +1,3 @@
-###DEC-066958-0-000-27-07-1970@@@
-
 DECRETO Nº 66.958, DE 27 DE JULHO DE 1970.
 
 Concede reconhecimento ao Curso da Faculdade de Filosofia, Ciências e Letras de Londrina, PR.

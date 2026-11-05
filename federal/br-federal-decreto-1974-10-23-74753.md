@@ -1,5 +1,3 @@
-###DEC-074753-0-000-23-10-1974@@@
-
 Decreto nº 74.753, de 23 de outubro de 1974.
 
 Dispõe sobre a estrutura básica do Ministério das Comunicações e dá outras providências.

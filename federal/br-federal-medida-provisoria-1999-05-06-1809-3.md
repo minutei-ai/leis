@@ -1,5 +1,3 @@
-###MPV-001809-0-003-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.809-3, DE 6 DE MAIO DE 1999.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-001827-0-000-01-03-1996@@@
-
 DECRETO N° 1.827, DE 1º DE MARÇO DE 1996.
 
 Estabelece e organiza as Forças Navais, Aeronavais e de Fuzileiros Navais da Marinha do Brasil, e dá outras providências.

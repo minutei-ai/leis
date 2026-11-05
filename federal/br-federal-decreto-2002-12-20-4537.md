@@ -1,5 +1,3 @@
-###DEC-004537-0-000-20-12-2002@@@
-
 DECRETO N. 4.537 – DE 20 DE DEZEMBRO DE 2002
 
 Dá nova redação aos arts. 2º e 6º do Decreto nº 4.300, de 12 de julho de 2002.

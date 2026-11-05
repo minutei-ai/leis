@@ -1,5 +1,3 @@
-###DEC-006875-0-000-08-06-2009@@@
-
 DECRETO Nº 6.875, DE 8 DE JUNHO DE 2009.
 
 Dá nova redação aos incisos I e II do caput do art. 1o do Decreto no 5.060, de 30 de abril de 2004, para alterar as alíquotas da Contribuição de Intervenção no Domínio Econômico - CIDE incidente sobre a importação e comercialização de gasolina e suas correntes e diesel e suas correntes.

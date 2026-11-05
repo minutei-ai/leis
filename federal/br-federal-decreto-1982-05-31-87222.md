@@ -1,5 +1,3 @@
-###DEC-087222-0-000-31-05-1982@@@
-
 Decreto nº 87.222, de 31 de maio 1982.
 
 Cria as Estações Ecológicas do Seridó, Serra das Araras, Guaraqueçaba, Caracaraí e dá outras providências.

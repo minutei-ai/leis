@@ -1,5 +1,3 @@
-###DEC-086790-0-000-28-12-1981@@@
-
 Decreto nº 86.790, de 28 de dezembro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de Terras e benfeitorias de propriedade particular que menciona.

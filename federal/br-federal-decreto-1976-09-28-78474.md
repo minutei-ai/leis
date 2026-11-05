@@ -1,5 +1,3 @@
-###DEC-078474-0-000-28-09-1976@@@
-
 DECRETO Nº 78.474, DE 28 DE SETEMBRO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada a Sociedade Rádio Club de Marilia Ltda., atualmente denominada Rádio Clube de Marilia S.A., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Marilia, Estado de São Paulo.

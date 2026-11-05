@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185526)
-
 # DECRETO Nº 63.274, DE 15 DE MARÇO DE 2018
 
 ### _Dispõe sobre a concessão do serviço público de transporte de passageiros da Linha 15 - Prata da rede metroviária de São Paulo, com tecnologia de monotrilho e dá providências correlatas_
@@ -76,21 +74,30 @@ Palácio dos Bandeirantes, 15 de março de 2018
 
 GERALDO ALCKMIN
 
-Clodoaldo Pelissioni<br>
-Secretário dos Transportes Metropolitanos<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Clodoaldo Pelissioni
+
+Secretário dos Transportes Metropolitanos
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 15 de março de 2018.
 
-#### <br>
-ANEXO<br>
+####
+
+ANEXO
+
 a que se refere o artigo 4° do [Decreto Nº 63.274, de 15 de março de 2018](https://www.al.sp.gov.br/norma/185526)
 
 #### REGULAMENTO DA CONCESSÃO ONEROSA DA PRESTAÇÃO DO SERVIÇO PÚBLICO DE TRANSPORTE DE PASSAGEIROS DA LINHA 15 - PRATA DA REDE METROVIÁRIA DE SÃO PAULO
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 Artigo 1° - Este Regulamento tem por objetivo disciplinar a concessão onerosa da prestação do serviço público de transporte de passageiros da Linha 15 - Prata da Rede Metroviária de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009340-0-000-10-06-1946@@@
-
 DECRETO-LEI N. 9.340 – DE 10 DE JUNHO DE 1946
 
 Dispõe sôbre cargo isolado de provimento efetivo do Quadro Suplementar do Ministério da Educação e Saúde e dá outras providências.

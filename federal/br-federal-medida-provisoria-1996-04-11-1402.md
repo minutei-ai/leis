@@ -1,7 +1,3 @@
-1
-
-###MPV-001402-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.402, DE 11 DE ABRIL DE 1996
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

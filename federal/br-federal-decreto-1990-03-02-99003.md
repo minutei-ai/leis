@@ -1,7 +1,3 @@
-1
-
-###DEC-099003-0-000-02-03-1990@@@
-
 DECRETO Nº 99.003, DE 2 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Jurídicas e Administrativas de São Luís.

@@ -1,5 +1,3 @@
-###DEC-096392-0-000-21-07-1988@@@
-
 DECRETO N° 96.392, DE 21 DE JULHO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Econômicas da Faculdade Anhangüera de Ciências Humanas.

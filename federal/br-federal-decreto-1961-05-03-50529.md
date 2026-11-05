@@ -1,5 +1,3 @@
-###DEC-050529-0-000-03-05-1961@@@
-
 Decreto nº 50.529, de 3 de maio de 1961.
 
 Declara emancipado o Núcleo colonial São Bento e dá outras providências.

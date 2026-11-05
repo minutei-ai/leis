@@ -1,7 +1,3 @@
-1
-
-###MPV-000947-0-000-22-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 947, DE 22 DE MARÇO DE 1995.
 
 Dá nova redação a dispositivos da Lei nº 8.981, de 20 de janeiro de 1995, que altera a legislação tributária federal, e dá outras providências.

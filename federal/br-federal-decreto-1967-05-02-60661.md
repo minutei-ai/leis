@@ -1,5 +1,3 @@
-###DEC-060661-0-000-02-05-1967@@@
-
 DECRETO Nº 60.661, DE 2 DE MAIO DE 1967.
 
 Altera o Decreto nº 60.287, de 3 de março de 1967 relativo a outorga de concessão à Televisão Goiás Ltda.

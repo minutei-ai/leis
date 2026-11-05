@@ -1,7 +1,3 @@
-1
-
-###DEC-099685-0-000-09-11-1990@@@
-
 DECRETO Nº 99.685, DE 9 DE NOVEMBRO DE 1990
 
 Dispõe sobre as exportações e importações de açúcar, álcool, mel rico e mel residual.

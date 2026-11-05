@@ -1,5 +1,3 @@
-###DEC-071292-0-000-01-11-1972@@@
-
 DECRETO Nº 71.292, DE 1 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências e Letras "Padre Anchieta", mantida pela Associação "Padre Anchieta" de Ensino, Jundiaí - SP.

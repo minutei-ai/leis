@@ -1,5 +1,3 @@
-###DEC-076118-0-000-13-08-1975@@@
-
 DECRETO Nº 76.118 - DE 13 DE AGOSTO DE 1975
 
 Concede autorização à Companhia Sedco Maritime, Inc., para operar na plataforma continental brasileira, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

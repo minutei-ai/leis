@@ -1,5 +1,3 @@
-###DEC-003975-0-000-18-10-2001@@@
-
 DECRETO Nº 3.975, DE 18 DE OUTUBRO DE 2001
 
 Altera alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.

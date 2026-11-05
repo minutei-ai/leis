@@ -1,5 +1,3 @@
-###DEC-083503-0-000-28-05-1979@@@
-
 decreto nº 83.503, de 28 de maio de 1979.
 
 Autoriza o funcionamento da habilitação Engenharia Sanitária do curso de Engenharia, ministrado pela Escola de Engenharia de Mauá, com sede na cidade de São Paulo, Estado de São Paulo.

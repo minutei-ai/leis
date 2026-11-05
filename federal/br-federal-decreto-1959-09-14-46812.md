@@ -1,5 +1,3 @@
-###DEC-046812-0-000-14-09-1959@@@
-
 DECRETO Nº 46.812, DE 14 DE SETEMBRO DE 1959.
 
 Outorga à Fôrça e Luz de Arapiraca Limitada, Estado de Alagoas, concessão para distribuir energia elétrica.

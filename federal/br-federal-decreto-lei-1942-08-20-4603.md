@@ -1,5 +1,3 @@
-###DEL-004603-0-000-20-08-1942@@@
-
 DECRETO-LEI N. 4.603 – DE 20 DE AGOSTO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de 300:000$0, para classificação de despesa.

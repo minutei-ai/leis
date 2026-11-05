@@ -1,5 +1,3 @@
-###DEC-073662-0-000-15-02-1974@@@
-
 DECRETO nº 73.662, de 15 de Fevereiro de 1974.
 
 Inclui função gratificada no Quadro de Pessoal do Ministério dos Transportes e dá outras providências.

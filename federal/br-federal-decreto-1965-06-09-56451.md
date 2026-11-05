@@ -1,5 +1,3 @@
-###DEC-056451-0-000-09-06-1965@@@
-
 DECReTO Nº 56.451, DE 9 DE JUNHO DE 1965.
 
 Autoriza o cidadão brasileiro Fernando Ribeiro do Vale a pesquisar argila e areia quartzosa, no Município de São Simão, no Estado de São Paulo.

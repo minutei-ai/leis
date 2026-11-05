@@ -1,5 +1,3 @@
-###DEC-073814-0-000-12-03-1974@@@
-
 DECRETO N.º 73.814, DE 12 DE MARÇO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Jurídicas e Sociais de Barbacena, mantida pela Fundação Presidente Antônio Carlos.

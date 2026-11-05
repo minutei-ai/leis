@@ -1,14 +1,12 @@
-###DEC-035623-0-000-07-06-1954@@@
+**DECRETO Nº 35.623, DE 7 DE JUNHO DE 1954.**
 
-<strong>DECRETO Nº 35.623, DE 7 DE JUNHO DE 1954.</strong>
+***Declara de utilidade pública as áreas de terra compreendidas no plano de aproveitamento de energia hidráulica existente no Rio Grande entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de desemboque, e uma ponte de madeira existente sôbre o rio Grande,entre o município de Delfinopolis, distrito do, mesmo nome, no Estado de Minas Gerais e autorizada a Campanhia Paulista de força e Luz, Sociedade Anônima, com sede nesta Capital, a promover as respectivas desapropriações.***
 
-<em><strong>Declara de utilidade pública as áreas de terra compreendidas no plano de aproveitamento de energia hidráulica existente no Rio Grande entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de desemboque, e uma ponte de madeira existente sôbre o rio Grande,entre o município de Delfinopolis, distrito do, mesmo nome, no Estado de Minas Gerais e autorizada a Campanhia Paulista de força e Luz, Sociedade Anônima, com sede nesta Capital, a promover as respectivas desapropriações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras, e a ponte de madeira sôbre o Rio Grande, necessárias à realização das obras do aproveitamento de energia hidráulica existente no Rio Grande, de conformidade com o Decreto nº 31.132, de 11 de julho de 1952:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras, e a ponte de madeira sôbre o Rio Grande, necessárias à realização das obras do aproveitamento de energia hidráulica existente no Rio Grande, de conformidade com o Decreto nº 31.132, de 11 de julho de 1952:
 
 1 - Área de sete milhões quinhentos e setenta e dois mil (7.572.000,00) metros quadrados, de propriedade atribuída a José Timóteo de Andrade, situada no município de Ibiraci, distrito do mesmo nome, Estado de Minas Gerais.
 
@@ -202,7 +200,7 @@
 
 96 - Área de cinco mil e cem (5.100,00) metros quadrados de propriedade, atribuída a Coleta Francisca de Paulo, situada no município de Delfinópolis, distrito de mesmo nome, Estado de Minas Gerais.
 
-97 - Área de dezessete mil e cem (17.100,00) metros quadrados, de propriedade atribuída ao condomínio de <em>Wolney</em> de Oliveira e Armando de Oliveira, situada no município de Delfinópolis, distrito de mesmo nome, Estado de Minas Gerais.
+97 - Área de dezessete mil e cem (17.100,00) metros quadrados, de propriedade atribuída ao condomínio de *Wolney* de Oliveira e Armando de Oliveira, situada no município de Delfinópolis, distrito de mesmo nome, Estado de Minas Gerais.
 
 98 - Área de dezoito mil e quinhentos (18.500,00) metros quadrados, de propriedade atribuída aos herdeiros de Francisco Ignácio de Almeida, situada no município de Delfinópolis, distrito de mesmo nome, Estado de Minas Gerais.
 
@@ -244,46 +242,44 @@
 
 Parágrafo único. As áreas de terras, como também a ponte de madeira sôbre o Rio Grande estão indicadas nas plantas aprovadas pelo Ministro da Agricultura e constantes do Processo D. Ag. 1.096-53, da Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura.
 
-<strong>Art</strong>. 2º A Companhia Paulista de Força e Luz S. A. com sede nesta Capital, fica autorizada a promover, na forma da legislação vigente, a desapropriação das áreas indicadas, com as benfeitorias por acaso nelas contidas.
+**Art**. 2º A Companhia Paulista de Força e Luz S. A. com sede nesta Capital, fica autorizada a promover, na forma da legislação vigente, a desapropriação das áreas indicadas, com as benfeitorias por acaso nelas contidas.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152 e 9.811, respectivamente de 6 de março de 1942, e de 9 de setembro de 1946.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152 e 9.811, respectivamente de 6 de março de 1942, e de 9 de setembro de 1946.
 
-<strong>Art</strong>. 4º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 4º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 7 de junho de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas
 
-###DEC-035623-0-000-07-06-1954@@@
+**DECRETO N° 35.623, DE 7 DEJUNHO DE 1954.**
 
-<strong>DECRETO N° 35.623, DE 7 DEJUNHO DE 1954.</strong>
+***Declara de utilidade pública as áreas de terras compreendidas no plano do aproveitamento de energia hidráulica existente no Rio Grande entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de Desemboque, e uma ponte de madeira existente sôbre o Rio Grande, entre o município de Delfinópolis, distrito do mesmo nome, e o município de Passos, distrito de mesmo nome, do Estado de Minas Gerais, e autoriza a Companhia Paulista de Fôrça e Luz. Sociedade Anônima, com sede nesta Capital, a promover as respectivas desapropriações.***
 
-<em><strong>Declara de utilidade pública as áreas de terras compreendidas no plano do aproveitamento de energia hidráulica existente no Rio Grande entre o município de Ibiraci, distrito do mesmo nome e o município de Sacramento, distrito de Desemboque, e uma ponte de madeira existente sôbre o Rio Grande, entre o município de Delfinópolis, distrito do mesmo nome, e o município de Passos, distrito de mesmo nome, do Estado de Minas Gerais, e autoriza a Companhia Paulista de Fôrça e Luz. Sociedade Anônima, com sede nesta Capital, a promover as respectivas desapropriações.</strong></em>
+(Publicado no *DiárioOficial* - Seção I - de 11 der junho de 1954).
 
-(Publicado no <em>Diário</em> <em>Oficial</em> - Seção I - de 11 der junho de 1954).
-
-<strong>RETIFICAÇÃO</strong>
+**RETIFICAÇÃO**
 
 No art. 1° item 71:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ... Situada do mesmo nome, Estado de Minas Gerais e de mesmo nome, Estado de Minas Gerais.
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ... Situada no município de Delfinópolis, distrito do mesmo nome, Estado de Minas Gerais.
 
 Ainda no art. 1°, item 31:
 
-<u><strong>ONDE SE LÊ:</strong></u>
+**ONDE SE LÊ:**
 
 ... Situada no município de mesmo nome, Estado de Minas Gerais.
 
-<u><strong>LEIA-SE:</strong></u>
+**LEIA-SE:**
 
 ... Situada no município de Cássia distrito do mesmo nome, Estado de Minas Gerais.

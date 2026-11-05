@@ -1,5 +1,3 @@
-###MPV-002087-0-027-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.087-27, DE DEZEMBRO DE 2000.
 
 Dispõe sobre a administração dos recursos de caixa do Tesouro Nacional, consolida e atualiza a legislação pertinente ao assunto e dá outras providências.

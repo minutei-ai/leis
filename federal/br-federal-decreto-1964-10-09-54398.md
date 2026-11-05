@@ -1,5 +1,3 @@
-###DEC-054398-0-000-09-10-1964@@@
-
 decreto nº 54.398, de 9 de outubro de 1964.
 
 Reconhece a Confederação Nacional dos Trabalhadores em Comunicações e Publicidade.

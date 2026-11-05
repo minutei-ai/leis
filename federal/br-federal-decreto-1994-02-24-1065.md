@@ -1,7 +1,3 @@
-1
-
-###DEC-001065-0-000-24-02-1994@@@
-
 DECRET0 N° 1.065, DE 24 DE FEVEREIR0 DE 1994
 
 Promulga o Acordo entre a República Federativa do Brasil a República Argentina a Agência Brasileiro-Argentina de Contabilidade e Controle de Materiais Nucleares (ABACC) e a Agência Internacional de Energia Atômica (AIEA) para a Aplicação de Salvaguardas.

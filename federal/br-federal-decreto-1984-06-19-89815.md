@@ -1,5 +1,3 @@
-###DEC-089815-0-000-19-06-1984@@@
-
 decreto nº 89.815, de 19 de junho de 1984
 
 Cria, na Superintendência do Desenvolvimento do Nordeste, a Superintendência-Adjunta de Desenvolvimento Rural e dá outras providências.

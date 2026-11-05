@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49255)
-
 # LEI Nº 11.631, DE 07 DE JANEIRO DE 2004
 
 ## (PL 356/2003 - Luiz Gonzaga Vieira)
@@ -30,18 +28,11 @@ Secretário - Chefe da Casa Civil
 
 Publicada na Assessoria Técnico-Legislativa, aos 7 de janeiro de 2004.
 
-<br>
-<br>
-
 #### [LEI Nº 11.631, DE 07 DE JANEIRO DE 2004](https://www.al.sp.gov.br/norma/49255)
 
 _Institui a "Semana de Incentivo à Inclusão Digital"._
 
-<br>
-
 Retificação do D.O. de 8-1-2004
-
-<br>
 
 Leia-se como segue e não como constou:
 

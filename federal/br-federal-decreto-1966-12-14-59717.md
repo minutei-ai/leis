@@ -1,5 +1,3 @@
-###DEC-059717-0-000-14-12-1966@@@
-
 DECRETO Nº 59.717, DE 14 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública a “Sociedade Educacional Tupy”, com sede em Joinville, Estado de Santa Catarina.

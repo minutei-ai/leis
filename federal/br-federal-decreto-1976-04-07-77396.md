@@ -1,5 +1,3 @@
-###DEC-077396-0-000-07-04-1976@@@
-
 decreto nº 77.396 - de 7 de abril de 1976
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinado à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Espírito Santo.

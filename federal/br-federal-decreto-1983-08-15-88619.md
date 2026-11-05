@@ -1,5 +1,3 @@
-###DEC-088619-0-000-15-08-1983@@@
-
 DECRETO Nº 88.619, DE 15 DE agosto DE 1983
 
 Concede à EMBRAER - Empresa Brasileira de Aeronáutica S.A. - autorizarão para proceder a aumento de seu capital social pela incorporação de bem imóvel da União e dá outras providências.

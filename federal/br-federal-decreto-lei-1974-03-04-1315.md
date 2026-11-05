@@ -1,5 +1,3 @@
-###DEL-001315-0-000-04-03-1974@@@
-
 # DECRETO-LEI Nº 1.315, DE 4 DE MARÇO DE 1974
 
 Prorroga o prazo de que trata o artigo 6º da Lei nº 4.813, de 25 de outubro de 1965, com a redação da Lei nº 5.856, de 7 de dezembro de 1972.

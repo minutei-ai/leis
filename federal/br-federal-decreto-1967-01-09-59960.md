@@ -1,5 +1,3 @@
-###DEC-059960-0-000-09-01-1967@@@
-
 DECRETO Nº 59.960, DE 9 DE JANEIRO DE 1967.
 
 Declara de utilidade pública o Hospital da Fundação “Casa de Caridade de São Lourenço”, com sede em São Lourenço, Estado de Minas Gerais.

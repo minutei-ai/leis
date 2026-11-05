@@ -1,5 +1,3 @@
-###MPV-001871-0-026-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.871-26, DE 24 DE SETEMBRO DE 1999.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

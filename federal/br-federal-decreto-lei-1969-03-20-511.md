@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a39cf414-9d71-4ecf-b7fa-aa4cb17eadef/texto#nowhere)
 
-###DEL-000511-0-000-20-03-1969@@@
-
 DECRETO-LEI Nº 511, DE 20 DE MARÇO DE 1969
 
 Autoriza o Presidente da República a ausentar-se do País.

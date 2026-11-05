@@ -1,5 +1,3 @@
-###DEC-079460-0-000-04-04-1977@@@
-
 DECRETO Nº 79.460,DE 4 DE ABRIL DE 1977.
 
 Concede autorização às Companhias Arthur Levy Boat Service, Inc. e Arthur Levy do Brasil, Serviços Marítimos Ltda. para operarem no mar territorial do Brasil, a embarcação "M/V Bay Sea Horse", de nacionalidade americana, a serviço da Petróleo Brasileiro S.A. - PEATROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-006713-0-000-29-12-2008@@@
-
 DECRETO Nº 6.713, DE 29 DE DEZEMBRO DE 2008.
 
 Autoriza a integralização de cotas do Fundo Fiscal de Investimentos e Estabilização - FFIE e dá outras providências.

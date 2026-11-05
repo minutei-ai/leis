@@ -1,5 +1,3 @@
-###DEL-005017-0-000-02-12-1942@@@
-
 DECRETO-LEI N. 5.017 – DE 2 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 37. 200,00, para admissão de extranumerários, na Recebedoria do Distrito Federal

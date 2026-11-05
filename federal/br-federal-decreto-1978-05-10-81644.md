@@ -1,5 +1,3 @@
-###DEC-081644-0-000-10-05-1978@@@
-
 Decreto nº 81.644, de 10 de maio de 1978.
 
 Autoriza o Serviço de Patrimônio da União a transferir para a empresa Brasileira de Radiodifusão - RADIOBRÁS imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEL-003457-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.457 – DE 24 DE JULHO DE 1941
 
 Altera, sem aumento de despesa, o atual orçamento da Comissão de Defesa da Economia Nacional

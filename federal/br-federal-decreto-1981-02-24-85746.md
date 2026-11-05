@@ -1,5 +1,3 @@
-###DEC-085746-0-000-24-02-1981@@@
-
 Decreto nº 85.746, de 24 de fevereiro de 1981
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado de Mato Grosso e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074382-0-000-08-08-1974@@@
-
 DECRETO Nº 74.382 - DE 8 DE AGOSTO DE 1974.
 
 Dá nova redação ao artigo 2º do Decreto n° 70.406, de 14 de abril de 1972, que retificou o Decreto número 67.794, de 10 de dezembro de 1970, e dá outras providências.

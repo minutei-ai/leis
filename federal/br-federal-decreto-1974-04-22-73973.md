@@ -1,5 +1,3 @@
-###DEC-073973-0-000-22-04-1974@@@
-
 DECRETO Nº 73.973, DE 22 DE ABRIL DE 1974.
 
 Altera a redação do Artigo 5º, do Decreto nº 66.653, de 2 de junho de 1970.

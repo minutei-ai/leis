@@ -1,5 +1,3 @@
-###DEC-086545-0-000-05-11-1981@@@
-
 Decreto nº 86.545, de 05 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO CLUBE DE REALEZA LTDA., na cidade de Realeza, Estado do Paraná.

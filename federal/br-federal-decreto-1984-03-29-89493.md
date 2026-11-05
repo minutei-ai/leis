@@ -1,5 +1,3 @@
-###DEC-089493-0-000-29-03-1984@@@
-
 Decreto nº 89.493, de 29 de março de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de trecho de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL, no Estado de Mato Grosso do Sul.

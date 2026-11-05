@@ -1,5 +1,3 @@
-###DEC-077658-0-000-24-05-1976@@@
-
 DECRETO Nº 77.658, DE 24 DE MAIO DE 1976
 
 Concede à Siderúrgica Santa Amaro S.A. o direito de lavrar minério de ferro no Município de Jequié, Estado da Bahia.

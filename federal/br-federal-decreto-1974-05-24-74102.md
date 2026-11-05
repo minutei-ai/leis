@@ -1,5 +1,3 @@
-###DEC-074102-0-000-24-05-1974@@@
-
 DECRETO Nº 74.102, DE 24 DE MAIO DE 1974.
 
 Transforma Núcleos em Parques de Material Aeronáutico, classifica Parques de Material Aeronáutico e dá outras providências.

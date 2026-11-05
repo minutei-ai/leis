@@ -1,5 +1,3 @@
-###DEC-005652-0-000-29-12-2005@@@
-
 DECRETO Nº 5.652, DE 29 DE DEZEMBRO DE 2005.
 
 Dispõe sobre o Regime Aduaneiro Especial da Contribuição para o PIS/PASEP e da COFINS, instituído pelo art. 52 a 54 da Lei no 11.196, de 21 de novembro de 2005, incidentes na importação de embalagens de que trata a alínea "b" do inciso II do caput do art. 51, combinado com o art. 53, da Lei 10.833, de 29 de dezembro de 2003.

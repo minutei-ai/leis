@@ -1,5 +1,3 @@
-###DEL-002109-0-000-20-03-1984@@@
-
 # DECRETO-LEI Nº 2.109, de 20 de março de 1984
 
 Revoga o Decreto-lei nº 2.099, de 28 de dezembro de 1983.

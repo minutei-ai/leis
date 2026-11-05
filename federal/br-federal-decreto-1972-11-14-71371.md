@@ -1,5 +1,3 @@
-###DEC-071371-0-000-14-11-1972@@@
-
 DECRETO Nº 71.371 - DE 14 DE NOVEMBRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação da área de terras que menciona, no Estado de Goiás.

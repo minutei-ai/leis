@@ -1,5 +1,3 @@
-###DEC-058120-0-000-30-03-1966@@@
-
 DECRETO Nº 58.120, DE 30 DE MARÇO DE 1966.
 
 Outorga à Petróleo Brasileiro S.A. (PETROBRÁS) concessão para derivar águas do rio Catú.

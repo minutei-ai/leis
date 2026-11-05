@@ -1,5 +1,3 @@
-###DEL-003667-0-000-30-09-1941@@@
-
 DECRETO-LEI N. 3.667 – DE 30 DE SETEMBRO DE 1941
 
 Autoriza a Estrada de Ferro Noroeste do Brasil a contratar com a Companhia S.K.F. do Brasil o fornecimento de caixas de graxa S.K.F., e dá outras providências

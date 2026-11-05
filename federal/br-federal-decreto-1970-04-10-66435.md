@@ -1,5 +1,3 @@
-###DEC-066435-0-000-10-04-1970@@@
-
 DECRETO Nº 66.435, DE 10 DE ABRIL DE 1970.
 
 Autoriza funcionamento da Faculdade de Medicina de Teresópolis, Estado do Rio de Janeiro.

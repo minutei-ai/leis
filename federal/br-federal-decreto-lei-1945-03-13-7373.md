@@ -1,5 +1,3 @@
-###DEL-007373-0-000-13-03-1945@@@
-
 DECRETO-LEI N. 7.373 – DE 13 DE MARÇO DE 1945
 
 Altera disposições do Decreto-lei nº 3.070, de 20 de fevereiro de 1941

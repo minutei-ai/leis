@@ -1,5 +1,3 @@
-###DEC-006093-0-000-24-04-2007@@@
-
 DECRETO Nº 6.093, DE 24 DE ABRIL DE 2007.
 
 Dispõe sobre a reorganização do Programa Brasil Alfabetizado, visando a universalização da alfabetização de jovens e adultos de quinze anos ou mais, e dá outras providências.
@@ -181,5 +179,3 @@ Brasília, 24 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 25.4.2007

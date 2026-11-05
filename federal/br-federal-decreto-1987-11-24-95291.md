@@ -1,5 +1,3 @@
-###DEC-095291-0-000-24-11-1987@@@
-
 DECRETO N° 95.291, DE 24 DE NOVEMBRO DE 1987
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre o Brasil e a Argentina (Acordo n.° 1).

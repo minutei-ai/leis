@@ -6,15 +6,16 @@ Denomina “Deputado Estadual Onevan de Matos” o trecho da Rodovia MS 290, que
 
 Publicada no Diário Oficial nº 10.467, de 7 de abril de 2021, página 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominada “Deputado Estadual Onevan de Matos” o trecho da Rodovia MS 290, que liga a sede do Município de Naviraí até o entroncamento da MS 180.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominada “Deputado Estadual Onevan de Matos” o trecho da Rodovia MS 290, que liga a sede do Município de Naviraí até o entroncamento da MS 180.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 6 de abril de 2021.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

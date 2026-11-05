@@ -1,5 +1,3 @@
-###MPV-001979-0-024\-26-10-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.979-24, DE 26 DE outubro DE 2000.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, e dá outras providências.

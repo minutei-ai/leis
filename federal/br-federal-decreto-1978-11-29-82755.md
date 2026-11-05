@@ -1,5 +1,3 @@
-###DEC-082755-0-000-29-11-1978@@@
-
 Decreto nº 82.755 de 29 de novembro de 1978
 
 Autoriza alienação de bem imóvel pertencente ao patrimônio da Universidade Federal da Paraíba.

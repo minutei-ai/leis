@@ -1,5 +1,3 @@
-###DEL-005301-0-000-04-03-1943@@@
-
 decreto n. 5.301 - de 4 de março de 1943
 
 Altera carreiras nos Ministérios da Educação e Saude, Fazenda, Guerra, Justiça e Negócios Interiores, Marinha, Trabalho, Indústria e Comércio, e dá outras providêéncias

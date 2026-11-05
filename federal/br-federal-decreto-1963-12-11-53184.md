@@ -1,5 +1,3 @@
-###DEC-053184-0-000-11-12-1963@@@
-
 Decreto nº 53.184, de 11 de dezembro de 1963.
 
 Autoriza a Companhia Minas da Jangada S.A a pesquisar minério de ferro no município de Brumadinho, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-061847-0-000-06-12-1967@@@
-
 Decreto nº 61.847, de 6 de dezembro de 1967.
 
 Concede autorização à emprêsa alemã PRAKLA - Gesellschaft für Praktische Lagerstättenforschung - para operar no território nacional, com avião de sua propriedade, em serviços contratados com a PETROBRÁS.

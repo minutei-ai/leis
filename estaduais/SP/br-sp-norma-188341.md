@@ -1,16 +1,11 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188341)
-
 # DECRETO Nº 63.819, DE 21 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias às obras e serviços de implantação de duas pontes de concreto no km 474+700m; implantação de dispositivo de acesso à estrada municipal, entre o km 520+100m e o km 520+600m; complementação do dispositivo de acesso a General Salgado no km 544+100m e prolongamento da Rua Elias Moisés, no km 544+800m da SP-310, Rodovia Feliciano Salles Cunha, localizadas nos Municípios de Monte Aprazível, Floreal e General Salgado, e dá providências correlatas_
 
 MÁRCIO FRANÇA, Governador do Estado de São Paulo, no uso de suas atribuições legais e nos termos dos artigos 2º e 6º do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pelas Leis federais nº 2.786, de 21 de maio de 1956, nº 6.306, de 15 de dezembro de 1975, e nº 6.602, de 7 de dezembro de 1978,
 
-<br>
-
 Decreta:
 
-<br>
 **Artigo 1º -** Ficam declaradas de utilidade pública, a fim de serem desapropriadas pelo Departamento de Estradas de Rodagem - DER, por via amigável ou judicial, as áreas e respectivas benfeitorias, devidamente caracterizadas nos cadastros de nº CD-SP0000310-518.565-000-D02/801; nº CD-SP0000310-518.565-000-d02/802; do nº CD-SP0000310-518-565-000-D02/804 ao nº CD-SP0000310-518.565-000-D02/808 e nº CD-SP0000310-454.518-010-D02/001 e suas respectivas plantas, constantes do protocolo nº 018281/07/DER/2018-SLT, volumes I ao III, necessárias às obras e serviços de implantação de duas pontes de concreto no km 474+700m; implantação de dispositivo de acesso à estrada municipal, entre o km 520+100m e o km 520+600m; complementação do dispositivo de acesso a General Salgado no km 544+100m e prolongamento da Rua Elias Moisés, no km 544+800m da SP-310, Rodovia Feliciano Salles Cunha, localizadas nos Municípios Monte Aprazível, Floreal e General Salgado, com área total de 10.386,55m² (dez mil, trezentos e oitenta e seis metros quadrados e cinquenta e cinco decímetros quadrados), inseridos nos perímetros a seguir descritos:
 
 I - área “A”, a área a ser declarada de utilidade pública, conforme cadastro nº CD-SP0000310-518.565-000-D02/801 localiza-se entre as estacas 1271+6,170m e 1273+7,165m do lado esquerdo do eixo do projeto da SP-310, Rodovia Feliciano Salles Cunha, Município e Comarca de General Salgado, tendo suas linhas de divisa definidas pelo ponto M02 de coordenadas N=251.160,473 e E=162.863,781 e pelos segmentos M02-M03 com azimute de 270°11'16” e distância de 7,81m; M03-M04 com azimute de 316°45'54” e distância de 15,77m; M04-M05 com azimute de 317°42'11” e distância de 8,40m; M05-M06 com azimute de 317°11'51” e distância de 12,29m; M06-M06A com azimute de 316º03’47” e distância de 18,02m; M06A-M07B com azimute de 88º21’14” e distância de 43,90m e M07B-M02 com azimute de 178º18’20” e distância de 41,00m, perfazendo uma área de 1.049,65m² (um mil e quarenta e nove metros quadrados e sessenta e cinco decímetros quadrados);
@@ -31,24 +26,26 @@ VIII - área “H”, a área a ser declarada de utilidade pública conforme cad
 
 **Parágrafo único -** Ficam excluídos da presente declaração de utilidade pública, os imóveis que pertençam a pessoas jurídicas de direito público que estejam abrangidos pelos perímetros descritos no “caput” deste artigo.
 
-<br>
-
 **Artigo 2º -** Fica o expropriante autorizado a invocar o caráter de urgência no processo judicial de desapropriação, para fins do disposto no artigo 15, do Decreto-Lei federal nº 3.365, de 21 de junho de 1941, alterado pela Lei federal nº 2.786, de 21 de maio de 1956.
-
-<br>
 
 **Artigo 3º -** As despesas decorrentes da execução do presente decreto, correrão por conta de verba própria do Departamento de Estradas de Rodagem - DER.
 
-<br>
 **Artigo 4º -** Este decreto entra em vigor na data de sua publicação.
 
-<br>
-Palácio dos Bandeirantes, 21 de novembro de 2018<br>
-MÁRCIO FRANÇA<br>
-Mário Mondolfo<br>
-Secretário de Logística e Transportes<br>
-Aldo Rebelo<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Palácio dos Bandeirantes, 21 de novembro de 2018
+
+MÁRCIO FRANÇA
+
+Mário Mondolfo
+
+Secretário de Logística e Transportes
+
+Aldo Rebelo
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 21 de novembro de 2018.

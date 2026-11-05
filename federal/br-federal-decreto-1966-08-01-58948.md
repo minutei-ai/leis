@@ -1,5 +1,3 @@
-###DEC-058948-0-000-01-08-1966@@@
-
 DECRETO Nº 58.948, DE 1 DE AGÔSTO DE 1966.
 
 Cria no Ministério da Aeronáutica o Centro de Computação da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-048980-0-000-01-10-1960@@@
-
 DECRETO Nº 48.980, de 1º de outubro de 1960.
 
 Declara de utilidade pública, para efeitos de desapropriação, o edifício denominado Aero-Praia, situado à esquina formada pela Avenida Coronel Philomeno Gomes e Rua Tenente Lisboa, na Cidade de Fortaleza, Estado do Ceará.

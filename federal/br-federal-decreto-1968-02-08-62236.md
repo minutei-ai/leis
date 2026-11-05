@@ -1,5 +1,3 @@
-###DEC-062236-0-000-08-02-1968@@@
-
 DECRETO Nº 62.236, DE 8 DE FEVEREIRO DE 1968.
 
 Estabelece a estrutura básica do Ministério das Comunicações, define áreas de competência dos órgãos que a integram e dá outras providências.

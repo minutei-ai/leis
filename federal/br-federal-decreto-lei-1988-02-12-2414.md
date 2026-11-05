@@ -1,7 +1,3 @@
-1
-
-###DEL-002414-0-000-12-02-1988@@@
-
 # DECRETO-LEI Nº 2.414, DE 12 DE FEVEREIRO DE 1988
 
 Altera o Decreto-lei nº 2.404, de 23 de dezembro de 1987, que dispõe sobre o Adicional ao Frete para a Renovação da Marinha Mercante e o Fundo da Marinha Mercante.

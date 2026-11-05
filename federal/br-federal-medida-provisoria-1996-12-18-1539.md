@@ -1,7 +1,3 @@
-1
-
-###MPV-001539-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.539, DE 18 DE DEZEMBRO DE 1996.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

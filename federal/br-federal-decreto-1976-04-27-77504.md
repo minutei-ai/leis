@@ -1,5 +1,3 @@
-###DEC-077504-0-000-27-04-1976@@@
-
 DECRETO Nº 77.504 - DE 27 DE ABRIL DE 1976
 
 Autoriza o funcionamento do Curso de Professores para as disciplinas no Ensino de 2º grau de formação especial da Faculdade de Tecnologia de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

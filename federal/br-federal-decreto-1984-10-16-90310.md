@@ -1,5 +1,3 @@
-###DEC-090310-0-000-16-10-1984@@@
-
 Decreto nº 90.310, de 16 de outubro de 1984
 
 Renova a Concessão outorgada à RADIO BANDEIRANTES DE CACHOEIRA PAULISTA LTDA., e autoriza a transferência direta para a FUNDAÇÃO JOÃO PAULO II - RÁDIO CANÇÃO NOVA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Cachoeira Paulista, Estado de São Paulo.

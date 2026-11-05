@@ -1,5 +1,3 @@
-###DEL-004466-0-000-10-07-1942@@@
-
 DECRETO-LEI N. 4.466 – DE 10 DE JULHO DE 1942
 
 Dispõe sobre o modo de pagamento das taxas estabelecidas no art. 67 do decreto n. 93, de 20 de março de 1935

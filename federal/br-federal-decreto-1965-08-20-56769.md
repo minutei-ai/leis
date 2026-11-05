@@ -1,5 +1,3 @@
-###DEC-056769-0-000-20-08-1965@@@
-
 decreto nº 56.769, de 20 de agôsto de 1965.
 
 Autoriza a Centrais Elétricas de Urubupungá S.A. a construir linha de transmissão.

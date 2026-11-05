@@ -1,5 +1,3 @@
-###DEC-073565-0-000-25-01-1974@@@
-
 DECRETO Nº 73.565, DE 25 DE JANEIRO DE 1974.
 
 Redistribui cargos, com o respectivos ocupantes, para o Quadro de Pessoal do Departamento Nacional, e dá outras providências.

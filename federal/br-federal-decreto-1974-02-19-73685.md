@@ -1,5 +1,3 @@
-###DEC-073685-0-000-19-02-1974@@@
-
 DECRETO Nº 73.685, DE 19 DE FEVEREIRO DE 1974.
 
 Altera a redação do artigo 1º, do Decreto nº 64.345, de 10 de abril de 1969, e dá outras propriedades.

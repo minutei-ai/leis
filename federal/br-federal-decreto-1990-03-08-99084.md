@@ -1,7 +1,3 @@
-1
-
-###DEC-099084-0-000-08-03-1990@@@
-
 DECRETO Nº 99.084, DE 8 DE MARÇO DE 1990.
 
 Declara de utilidade pública, para fins de desapropriação, o prédio e respectivo terreno situados na Rua São Francisco, nº 52, e o terreno contíguo ao mesmo, situado entre as Ruas Caramuru e Francisco Araújo s/nº, ambos na Cidade de Vitória, Estado do Espirito Santo.

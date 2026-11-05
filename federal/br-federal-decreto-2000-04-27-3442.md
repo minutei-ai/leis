@@ -1,5 +1,3 @@
-###DEC-003442-0-000-27-04-2000@@@
-
 Decreto nº 3.442, de 27 de abril de 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS que menciona, e dá outras providências.

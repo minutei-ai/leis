@@ -1,5 +1,3 @@
-###DEC-007785-0-000-15-08-2012-PUB-01@@@
-
 DECRETO N° 7.785, DE 15 DE AGOSTO DE 2012
 
 Dispõe sobre a execução, no território nacional, da Resolução 2048 (2012), de 18 de maio de 2012, do Conselho de Segurança das Nações Unidas, que, entre outras disposições, estabelece regime de sanções para a Guiné-Bissau.

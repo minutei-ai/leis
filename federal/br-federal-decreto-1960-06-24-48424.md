@@ -1,5 +1,3 @@
-###DEC-048424-0-000-24-06-1960@@@
-
 DECRETO Nº 48.424, DE 24 DE JUNHO DE 1960.
 
 Outorga à Prefeitura Municipal de Hidrolina, Estado de Goiás, concessão para o aproveitamento de energia hidráulica de um desnível existente no curso dágua Jacuba distrito da sede do município de Hidrolina, estado de Goiás.

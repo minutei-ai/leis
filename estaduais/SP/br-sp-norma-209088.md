@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209088)<br>
-
 # DECRETO N° 68.317, DE 26 DE JANEIRO DE 2024
 
 ### _Altera dispositivo do Decreto n° 42.440, de 6 de novembro de 1997, que autorizou a Fazenda do Estado a receber, mediante doação, do Município de Presidente Venceslau, o imóvel que especifica._

@@ -1,5 +1,3 @@
-###DEC-089501-0-000-30-03-1984@@@
-
 Decreto nº 89.501, de 30 de março de 1984
 
 Extingue o Programa Nacional de Centros Sociais Urbanos e dá outras providências.

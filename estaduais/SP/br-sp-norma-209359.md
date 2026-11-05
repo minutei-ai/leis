@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209359)<br>
-
 # LEI N° 17.915, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1464/2023, do Deputado Itamar Borges - MDB, Solange Freitas - UNIÃO, Rafael Saraiva - UNIÃO, Mauro Bragato - PSDB, Milton Leite Filho - UNIÃO, Sebastião Santos - REPUBLICANOS, Gerson Pessoa - PODE, Clarice Ganem - PODE, Dr. Eduardo Nóbrega - PODE, Ricardo França - PODE, Helinho Zanatta - PSD, Atila Jacomussi - SD, Rodrigo Moraes - PL, Léo Oliveira - MDB e Carla Morando - PSDB)

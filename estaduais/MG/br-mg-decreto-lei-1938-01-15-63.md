@@ -35,7 +35,3 @@ BENEDITO VALADARES RIBEIRO
 Cristiano Monteiro Machado
 
 Ovídio Xavier de Abreu
-
-\==================================================
-
-Data da última atualização: 8/3/2012.

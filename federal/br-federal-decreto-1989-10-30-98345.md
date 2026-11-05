@@ -1,5 +1,3 @@
-###DEC-098345-0-000-30-10-1989@@@
-
 DECRETO Nº 98.345, DE 30 DE OUTUBRO DE 1989
 
 Promulga o Acordo de Cooperação Econômica, Industrial e Tecnológica, entre a República Federativa do Brasil e o Governo da Suécia.

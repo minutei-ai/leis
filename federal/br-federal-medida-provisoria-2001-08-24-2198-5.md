@@ -1,5 +1,3 @@
-###MPV-002198-0-005-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.198-5, DE 24 DE AGOSTO DE 2001
 
  Cria e instala a Câmara de Gestão da Crise de Energia Elétrica, do Conselho de Governo, estabelece diretrizes para programas de enfrentamento da crise de energia elétrica e dá outras providências.

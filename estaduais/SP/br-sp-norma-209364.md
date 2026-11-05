@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209364)<br>
-
 # LEI N° 17.914, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1353/2023, da Deputada Marina Helou - REDE)

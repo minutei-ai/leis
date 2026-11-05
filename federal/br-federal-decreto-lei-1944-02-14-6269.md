@@ -1,5 +1,3 @@
-###DEL-006269-0-000-14-02-1944@@@
-
 DECRETO-LEI N. 6.269 – DE 14 DE FEVEREIRO DE 1944
 
 Dispõe sôbre a administração fiscal nos Territórios Federais do Amapá, do Rio Branco, do Guaporé, de Ponta Porã, do Iguaçu e de Fernando de Noronha

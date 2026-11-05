@@ -1,5 +1,3 @@
-###DEC-045728-0-000-06-04-1959@@@
-
 Decreto nº 45.728, de 6 de abril de 1959.
 
 Autoriza o cidadão brasileiro Francisco de Paula Carneiro de Moraes a pesquisar amianto no município de São Domingos do Prata, Estado de Minas Gerais.

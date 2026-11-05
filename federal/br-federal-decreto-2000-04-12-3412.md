@@ -1,5 +1,3 @@
-###DEC-003412-0-000-12-04-2000@@@
-
 DECRETO Nº 3.412, DE 12 DE ABRIL DE 2000.
 
 Altera as alíquotas do Imposto de Importação dos produtos que menciona.
@@ -10,7 +8,31 @@ DECRETA:
 
 Art. 1º Na Lista Básica de Exceções à Tarifa Externa Comum (TEC), anexa ao Decreto nº 2.376, de 12 de novembro de 1997, com as alterações posteriores, as alíquotas “ad valorem” do Imposto de Importação correspondentes aos produtos compreendidos nos códigos 2905.44.00 e 3824.60.00 ficam alteradas na forma seguinte:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:53.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CÓDIGO</span></p></td><td style="width:262.35pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>DESCRIÇÃO</span></p></td><td style="width:49.7pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2000</span></p></td><td style="width:46.15pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>01/01</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2001</span></p></td></tr><tr><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2905.44.00</span></p></td><td style="width:262.35pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>D-Glucitol (sorbitol)</span></p></td><td style="width:49.7pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>37</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14</span></p></td></tr><tr><td style="width:53.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3824.60.00</span></p></td><td style="width:262.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Sorbitol, exceto o da subposição 2905.44</span></p></td><td style="width:49.7pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>26</span></p></td><td style="width:46.15pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14</span></p></td></tr></tbody></table>
+CÓDIGO
+
+DESCRIÇÃO
+
+2000
+
+01/01
+
+2001
+
+2905.44.00
+
+D-Glucitol (sorbitol)
+
+37
+
+14
+
+3824.60.00
+
+Sorbitol, exceto o da subposição 2905.44
+
+26
+
+14
 
 Art. 2º Este Decreto entra em vigor na data de sua publicação.
 

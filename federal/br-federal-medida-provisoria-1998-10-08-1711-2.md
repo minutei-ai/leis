@@ -1,5 +1,3 @@
-###MPV-001711-0-002-08-10-1998@@@
-
 Medida Provisória nº 1.711-2, de 8 de outubro de 1998
 
 Acresce dispositivo à Lei nº 9.526, de 8 de dezembro de 1997.

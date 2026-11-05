@@ -1,5 +1,3 @@
-###DEL-001362-0-000-28-11-1974@@@
-
 # DECRETO-LEI Nº 1.362, DE 28 DE NOVEMBRO DE 1974
 
 Concede estímulos fiscais à exportação de navios.

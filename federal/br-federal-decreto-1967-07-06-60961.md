@@ -1,5 +1,3 @@
-###DEC-060961-0-000-06-07-1967@@@
-
 DECRETO Nº 60.961, DE 6 DE JULHO DE 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Centenário do Sul, Estado do Paraná.

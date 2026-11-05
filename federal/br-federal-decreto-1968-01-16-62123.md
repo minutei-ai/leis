@@ -1,5 +1,3 @@
-###DEC-062123-0-000-16-01-1968@@@
-
 DECRETO Nº 62.123, DE 16 DE JANEIRO DE 1968.
 
 Cria a Embaixada do Brasil em Bagdá.

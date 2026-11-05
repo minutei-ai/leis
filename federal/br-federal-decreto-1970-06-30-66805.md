@@ -1,5 +1,3 @@
-###DEC-066805-0-000-30-06-1970@@@
-
 DECRETO Nº 66.805 - DE 30 DE JUNHO DE 1970
 
 Aprova a incorporação de emprêsa de energia elétrica no Estado de Minas Gerais e dá outras providências.

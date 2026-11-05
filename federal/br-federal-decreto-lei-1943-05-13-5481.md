@@ -1,5 +1,3 @@
-###DEL-005481-0-000-13-05-1943@@@
-
 DECRETO‑LEI N. 5.481 – DE 13 DE MAIO DE 1943
 
 Regula o pagamento do consumo dágua de exercício em atraso, dos prédios situados na vila proletária Marechal Hermes, de propriedade do Instituto de Pensões e Aposentadoria dos Servidores do Estado

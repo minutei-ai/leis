@@ -1,5 +1,3 @@
-###DEC-056431-0-000-08-06-1965@@@
-
 DECRETO Nº 56.431, DE 8 DE JUNHO DE 1965.
 
 Renova o Decreto nº 2.146, de 22 de janeiro de 1963.

@@ -1,5 +1,3 @@
-###DEC-047173-0-000-06-11-1959@@@
-
 DECRETO Nº 47.173, DE 6 DE NOVEMBRO DE 1959.
 
 Altera a denominação da Escola que indica.

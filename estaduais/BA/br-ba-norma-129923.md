@@ -8,7 +8,8 @@ Art. 1º - Fica instituído o Programa de Transação Judicial e Extrajudicial d
 
 Art. 2º - O Programa CONCILIA BAHIA será implementado no período de 03 de novembro de 2015 a 29 de dezembro de 2015, cabendo ao Tribunal de Justiça do Estado da Bahia a fixação do período para realização de mutirão de negociação e o agendamento das audiências de conciliação.
 
-Redação de acordo com a Lei nº [13.464](javascript: openDoc\() , de 17 de dezembro de 2015.<br>
+Redação de acordo com a Lei nº [13.464](javascript: openDoc\() , de 17 de dezembro de 2015.
+
 Redação original: "Art. 2º - O Programa CONCILIA BAHIA será implementado no período de 03 de novembro de 2015 a 18 de dezembro de 2015, cabendo ao Tribunal de Justiça do Estado da Bahia a fixação do período para realização de mutirão de negociação e o agendamento das audiências de conciliação."
 
 Art. 3º - Fica o Poder Executivo Estadual, por intermédio da Procuradoria Geral do Estado, autorizado a celebrar transação de créditos tributários terminativa de processos de execuções fiscais, na forma prevista no art. 171 da Lei Federal nº 5.172, de 25 de outubro de 1966, e no inciso XIII do art. 32 da Lei Complementar nº 34, de 06 de fevereiro de 2009.
@@ -51,7 +52,8 @@ Art. 7º - A fruição dos benefícios previstos nesta Lei fica condicionada a:
 
 I -pagamento em espécie e recolhimento integral do débito ou da primeira parcela até o dia 29 de dezembro de 2015;
 
-Redação de acordo com a Lei nº 13.464, de 17 de dezembro de 2015.<br>
+Redação de acordo com a Lei nº 13.464, de 17 de dezembro de 2015.
+
 Redação original: "I - pagamento em espécie e recolhimento integral do débito ou da primeira parcela até o dia 18 de dezembro de 2015;"
 
 II -recolhimento das custas processuais e honorários, se devidos.

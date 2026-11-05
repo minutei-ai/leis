@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0910ea55-62c7-4d9c-8692-1bc91968627d/texto#nowhere)
 
-###DEL-001033-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.033, E 21 DE OUTUBRO DE 1969
 
 Dá nova destinação aos recursos previstos no artigo 21 da Lei nº 4.380, de 21 de agôsto de 1964.

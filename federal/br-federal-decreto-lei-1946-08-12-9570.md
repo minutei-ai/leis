@@ -1,5 +1,3 @@
-###DEL-009570-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.570 – DE 12 DE AGÔSTO DE 1946
 
 Altera, com redução de despesa, os Quadros Permanentes e Suplementar do Ministério do Trabalho, Indústria e Comércio e dá outras providências

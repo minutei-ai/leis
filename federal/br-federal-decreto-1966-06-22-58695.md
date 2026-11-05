@@ -1,5 +1,3 @@
-###DEC-058695-0-000-22-06-1966@@@
-
 DECRETO Nº 58.695, de 22 de junho de 1966.
 
 Abre ao Poder Judiciário - Tribunal Federal de Recursos o crédito especial de Cr$390.560.436, para o fim que especifica.

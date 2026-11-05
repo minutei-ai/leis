@@ -1,5 +1,3 @@
-###DEC-055185-0-000-10-12-1964@@@@
-
 DECRETO Nº 55.185, DE 10 DE DEZEMBRO DE 1964.
 
 Altera o Decreto nº 41.195, de 26 de março de 1957, que regulamentou a aplicação do art. 7º da Lei nº 2.188, de 3 de março de 1954.

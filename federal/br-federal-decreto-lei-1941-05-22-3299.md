@@ -1,5 +1,3 @@
-###DEL-003299-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.299 – DE 22 DE MAI0 DE 1941
 
 Incorpora as pedreiras do Capão do Leão e Monte Bonito, respectivas ferrovias e material, rodante, aos acervos das Obras do Porto e Barra do Rio Grande e do 1º Batalhão Ferroviário.

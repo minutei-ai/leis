@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209068)<br>
-
 # DECRETO N° 68.297, DE 02 DE JANEIRO DE 2024
 
 ### _Institui a Medalha Cinquentenário do 1° Batalhão de Polícia Militar do Interior e dá providências correlatas._

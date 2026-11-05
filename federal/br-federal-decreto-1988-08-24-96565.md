@@ -1,5 +1,3 @@
-###DEC-096565-0-000-24-08-1988@@@
-
 DECRETO N° 96.565, DE 24 DE AGOSTO DE 1988
 
 Renova a concessão outorgada à RÁDIO ALVORADA DE PARINTINS LTDA. para explorar serviço de radiodifusão sonora em onda tropical, na Cidade de Parintins, Estado do Amazonas.

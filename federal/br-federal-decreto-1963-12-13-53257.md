@@ -1,5 +1,3 @@
-###DEC-053257-0-000-13-12-1963@@@
-
 Decreto Nº 53.257, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José Bernardo de Almeida Júnior a pesquisar pedras coradas no município de Nanuque, no Estado de Minas Gerais.

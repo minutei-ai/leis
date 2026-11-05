@@ -1,5 +1,3 @@
-###DEC-083796-0-000-30-07-1979@@@
-
 DECRETO Nº 83.796, DE 30 DE JULHO DE 1979.
 
 Autoriza o funcionamento do curso de Formação de Tecnólogos em Construções Civis do Centro de Ensino Superior Professor Plínio Mendes dos Santos, com sede na cidade de Campo Grande, Estado do Mato Grosso do Sul.

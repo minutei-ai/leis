@@ -1,5 +1,3 @@
-###DEC-077182-0-000-19-02-1976@@@
-
 DECRETO Nº 77.182, DE 19 DE fevereiro DE 1976.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União à operação de crédito externo a ser contratada pela EMBRAER - Empresa Brasileira de Aeronáutica S.A.

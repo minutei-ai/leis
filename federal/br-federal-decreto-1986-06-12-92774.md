@@ -1,5 +1,3 @@
-###DEC-092774-0-000-12-06-1986@@@
-
 DECRETO Nº 92.774, DE 12 DE JUNHO DE 1986
 
 Autoriza o Governo do Estado do Pará, a explorar, através da FUNDAÇÃO DE TELECOMUNICAÇÕES DO PARÁ - FUNTELPA, na cidade de Belém, Estado do Pará, serviço de radiodifusão sonora em onda tropical, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

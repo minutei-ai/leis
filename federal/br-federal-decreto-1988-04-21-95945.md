@@ -1,5 +1,3 @@
-###DEC-095945-0-000-21-04-1988@@@
-
 DECRETO Nº 95.945, DE 21 DE ABRIL DE 1988
 
 Dispõe sobre a execução do Décimo Oitavo Protocolo Adicional ao Acordo Comercial n.° 16, no Setor da Indústria Petroquímica

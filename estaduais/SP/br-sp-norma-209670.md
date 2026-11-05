@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209670)<br>
-
 # LEI N° 17.963, DE 02 DE JULHO DE 2024
 
 ## (Projeto de lei n° 132/2021, do Deputado Edson Giriboni - PV)

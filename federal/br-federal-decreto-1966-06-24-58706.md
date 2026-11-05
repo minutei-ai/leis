@@ -1,5 +1,3 @@
-###DEC-058706-0-000-24-06-1966@@@
-
 Decreto nº 58.706, de 24 de junho de 1966.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento dos Correios e Telégrafos, o conjunto de lojas do prédio situado na Rua Voluntários da Pátria nº 254, em Botafogo, na cidade do Rio de Janeiro.

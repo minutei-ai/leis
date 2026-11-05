@@ -1,7 +1,3 @@
-1
-
-###DEC-001081-0-000-08-03-1994@@@
-
 DECRETO N° 1.081, DE 8 DE MARÇO DE 1994
 
 Aprova o Regulamento do Fundo de Desenvolvimento Social-FDS.

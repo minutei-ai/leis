@@ -1,5 +1,3 @@
-###DEC-092444-0-000-06-03-1986@@@
-
 DECRETo nº 92.444, de 06 de março de 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declarada de interesse social, para fins de desapropriação, parte do imóvel rural denominado ''Fazenda São João do Guirai'', compreendido na referida área, no Município de Jatei, no Estado de Mato Grosso do Sul, e dá outras providências.

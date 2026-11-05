@@ -1,5 +1,3 @@
-###DEC-002780-0-000-11-09-1998@@@
-
 DECRETO Nº 2.780, DE 11 DE SETEMBRO DE 1998
 
 Institui a hora de verão, em parte do Território Nacional, no período que indica.

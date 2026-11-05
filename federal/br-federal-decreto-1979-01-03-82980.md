@@ -1,5 +1,3 @@
-###DEC-082980-0-000-03-01-1979@@@
-
 DECRETO Nº 82.980, DE 03 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Ciências Contábeis, ministrado pela Faculdade de Ciências Contábeis de Araçatuba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-005944-0-000-26-10-2006@@@
-
 DECRETO Nº 5.944, DE 26 DE OUTUBRO DE 2006.
 
 Dispõe sobre a execução do Qüinquagésimo Protocolo Adicional ao Acordo de Complementação Econômica no 18, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 28 de março de 2006.
@@ -22,11 +20,7 @@ Brasília, 26 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.10.2006
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 18 CELEBRADO ENTRE ARGENTINA, BRASIL, PARAGUAI E URUGUAI
+       Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 18 CELEBRADO ENTRE ARGENTINA, BRASIL, PARAGUAI E URUGUAI
 
 Qüinquagésimo Protocolo Adicional
 

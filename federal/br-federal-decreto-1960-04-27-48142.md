@@ -1,5 +1,3 @@
-###DEC-048142-0-000-27-04-1960@@@
-
 DECRETO Nº 48.142, DE 27 DE ABRIL DE 1960.
 
 Dispõe sôbre a expedição de atos administrativos

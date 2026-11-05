@@ -1,5 +1,3 @@
-###DEC-046331-0-000-30-06-1959@@@
-
 DECRETO Nº 46.331, DE 30 DE JUNHO DE 1959.
 
 Autoriza a Centrais Elétricas de Santa Catarina S.A. a construir uma linha de transmissão de energia elétrica de Rio d’Una, município de Imaruí, a Henrique Lage, município de Laguna, Estado de Santa Catarina.

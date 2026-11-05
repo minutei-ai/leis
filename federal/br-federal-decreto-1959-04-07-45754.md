@@ -1,5 +1,3 @@
-###DEC-045754-0-000-07-04-1959@@@
-
 DECRETO Nº 45.754, de 7 de abril de 1959.
 
 Autoriza o cidadão Brasileiro Agostinho Rodrigues da Cunha a pesquisar quartzo e mica no município de Malacacheta, Estado de Minas Gerais.

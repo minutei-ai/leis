@@ -1,5 +1,3 @@
-###DEC-060382-0-000-11-03-1967@@@
-
 DECRETO Nº 60.382, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Hercílio Medeiros a pesquisar calcário no município de Siderópolis, Estado de Santa Catarina.

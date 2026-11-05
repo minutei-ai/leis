@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212608)<br>
-
 # DECRETO N° 70.614, DE 13 DE MAIO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante concessão de uso, a título gratuito e por prazo determinado, do Município de Cabreúva, o imóvel que especifica._

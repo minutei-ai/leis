@@ -1,5 +1,3 @@
-###DEC-051926-A-000-26-04-1963@@@
-
 DECRETO Nº 51.926-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro João Alves Pereira a pesquisar minério de chumbo, zinco, prata e fluorita, no município de Januária, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-001816-0-000-09-02-1996@@@
-
 DECRETO Nº 1.816, DE 9 DE FEVEREIRO DE 1996
 
 Aprova o Estatuto da Companhia Nacional de Abastecimento - CONAB.

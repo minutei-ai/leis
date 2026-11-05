@@ -1,5 +1,3 @@
-###DEL-009061-0-000-13-03-1946@@@
-
 DECRETO-LEI N. 9.061 – DE 13 DE MARÇO DE 1946
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 2.113.000,00 à verba que especifica.

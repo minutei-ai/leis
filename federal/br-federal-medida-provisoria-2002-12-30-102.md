@@ -1,5 +1,3 @@
-###MPV-000102-0-000-30-12-2002@@@
-
 MEDIDA PROVISÓRIA N. 102 – DE 30 DE DEZEMBRO DE 2002
 
 Abre crédito extraordinário no valor de R$ 36.874.206,00, em favor do Ministério da Previdência e Assistência Social, para os fins que especifica.

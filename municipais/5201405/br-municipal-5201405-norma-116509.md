@@ -20,8 +20,10 @@ Art. 5º Esta Lei entra em vigor na data da sua publicação, revogando disposi�
 
 Gabinete do Prefeito Municipal de Aparecida Goiânia, Estado de Goiás, 10 de Outubro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

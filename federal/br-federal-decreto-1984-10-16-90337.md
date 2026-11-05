@@ -1,5 +1,3 @@
-###DEC-090337-0-000-16-10-1984@@@
-
 Decreto nº 90.337, de 16 de outubro de 1984.
 
 Dispõe sobre o Presídio da Marinha, criado pelo Decreto nº 59.317, de 28 de setembro de 1966, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-009245-0-000-09-05-1946@@@
-
 DECRETO-LEI N. 9.245 – DE 9 DE MAIO DE 1946
 
 Transfere ao Estudo de Minas Gerais o direito de posse sôbre um terreno em Ouro Preto

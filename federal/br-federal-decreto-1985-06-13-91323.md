@@ -1,5 +1,3 @@
-###DEC-091323-0-000-13-06-1985@@@
-
 DECRETO nº 91.323, de 13 de JUNHO de 1985
 
 Outorga concessão à RADIO EXTREMO SUL DA BAHIA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itamaraju, Estado da Bahia.

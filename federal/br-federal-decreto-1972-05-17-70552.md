@@ -1,5 +1,3 @@
-###DEC-070552-0-000-17-05-1972@@@
-
 DECRETO Nº 70.552, DE 17 DE MAIO DE 1972.
 
 Dispõe sobre o cargo de Subdiretor da Diretoria de Obras de Cooperação, integrante do Departamento de Engenharia e Comunicações.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212748)<br>
-
 # DECRETO N° 70.683, DE 16 DE JUNHO DE 2026
 
 ### _Institui a Política Estadual de Distritos de Inovação e dá outras providências_
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Política Estadual de Distritos de Inovação
 
 **Artigo 1° -** Fica instituída a Política Estadual de Distritos de Inovação, com os objetivos de:
@@ -127,7 +126,8 @@ III - difundir, diretamente ou com apoio de outras entidades, boas práticas de 
 
 IV - instituir o Selo Paulista para Distritos de Inovação, destinado a reconhecer iniciativas que apresentem comprovado desempenho e impacto em gestão de inovação e em sustentabilidade social, conforme critérios a serem definidos em resolução do Secretário de Ciência, Tecnologia e Inovação.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Conselho de Orientação dos Distritos de Inovação
 
 **Artigo 7° -** Fica instituído, no âmbito da Secretaria de Ciência, Tecnologia e Inovação, o Conselho de Orientação dos Distritos de Inovação, de natureza consultiva, com a finalidade de propor diretrizes, acompanhar o desempenho dos distritos de inovação e apoiar a articulação interinstitucional.
@@ -152,7 +152,8 @@ VI - até três representantes dos distritos de inovação acompanhados no âmbi
 
 **§ 3° -** O Conselho instituirá câmaras técnicas temáticas para apoio à análise de propostas e de relatórios de acompanhamento.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Disposições Finais
 
 **Artigo 9° -** Os conceitos e procedimentos previstos neste decreto serão aplicados em consonância com o disposto na Lei federal n° 10.973, de 2 de dezembro de 2004, e no [Decreto n° 60.286, de 25 de março de 2014](https://www.al.sp.gov.br/norma/172612), observadas as competências de cada ente federado.

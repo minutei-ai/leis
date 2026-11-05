@@ -1,5 +1,3 @@
-###DEC-061102-0-000-28-07-1967@@@
-
 DECRETO Nº 61.102, DE 28 DE JULHO DE 1967.
 
 Declara de utilidade pública a “Fundação Orquestra Sinfônica Brasileira”, com sede no Estado da Guanabara.

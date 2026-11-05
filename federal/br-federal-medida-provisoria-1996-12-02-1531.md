@@ -1,5 +1,3 @@
-###MPV-001531-0-000-02-12-1996@@@
-
 MEDIDA PROVISÓRIA Nº 1.531, DE 2 DE DEZEMBRO DE 1996.
 
 Dá nova redação aos arts. 24, 26 e 57 da Lei nº 8.666, de 21 de junho de 1993, que regulamenta o art. 37, inciso XXI, da Constituição, institui normas para licitação e contratos da Administração Pública, e ao art. 15 da Lei nº 8.987, de 13 de fevereiro de 1995, que dispõe sobre o regime de concessão e permissão da prestação de serviços públicos.

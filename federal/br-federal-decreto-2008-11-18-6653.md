@@ -1,5 +1,3 @@
-###DEC-006653-0-000-18-11-2008@@@
-
 DECRETO Nº 6.642, DE 18 DE NOVEMBRO DE 2008.
 
 Promulga a Convenção Internacional contra o Doping nos Esportes, celebrada em Paris, em 19 de outubro de 2005.
@@ -3484,19 +3482,81 @@ Nenhum funcionário ou consultor de Laboratório deverá fornecer consultoria, a
 
 ANEXO C - LISTA DE DOCUMENTOS TÉCNICOS
 
-<table>
-<tr><td>Título</td><td>Número do Documento</td><td>Número da Versão</td><td>Entrada em Vigor</td></tr>
-<tr><td>Cadeia Interna de Custódia do Laboratório</td><td>TD2003LCOC</td><td>1.2</td><td>1<sup>o</sup> de Jan de 2004</td></tr>
-<tr><td>Pacotes de Documentação do Laboratório</td><td>TD2003LDOC</td><td>1.3</td><td>1<sup>o</sup> de Jan de 2004</td></tr>
-<tr><td><u>Limites Mínimos de Desempenho Exigidos</u> para Detecção de Substâncias Proibidas</td><td>TD2004MRPL</td><td>1.0</td><td>15<sup>de</sup> Fev de 2004</td></tr>
-<tr><td>Critérios para Identificação de Ensaios Qualitativos Que Incorporem Cromatografia e Espectrometria de Massa</td><td>TD2003IDCR</td><td>1.2</td><td>1<sup>o</sup> de Jan de 2004</td></tr>
-<tr><td>Reporte de Descobertas de Norandrosterona</td><td>TD2004NA</td><td>1.0</td><td>13 de Ago de 2004</td></tr>
-<tr><td>Diretrizes para Reporte e Avaliação para Testosterona, Epitestosterona, Taxa de T/E e outros Esteróides Endógenos</td><td>TD2004EAAS</td><td>1.0</td><td>13 de Ago de 2004</td></tr>
-<tr><td>Harmonização do Método para Identificação de Epoetin Alfa e Beta (EPO) e Darbepoetin Alfa (NESP) através de Imuno-transferência Dupla por IEF e Detecção Quiminuminescente</td><td>TD2004EPO</td><td>1.0</td><td>Em progresso</td></tr>
-<tr><td>Mensuração de Incerteza para Análise Antidoping</td><td></td><td></td><td>Futuro</td></tr>
-<tr><td>Diretrizes para Reporte de Cromatografia Gasosa/Combustão/ Espectrometria de Massa de Rádio Isotópico</td><td></td><td></td><td>Futuro</td></tr>
-<tr><td>Diretrizes para Reporte de Salbutamol e outros Agonistas Beta-2</td><td></td><td></td><td>Futuro</td></tr>
-</table>
+Título
+
+Número do Documento
+
+Número da Versão
+
+Entrada em Vigor
+
+Cadeia Interna de Custódia do Laboratório
+
+TD2003LCOC
+
+1.2
+
+1º de Jan de 2004
+
+Pacotes de Documentação do Laboratório
+
+TD2003LDOC
+
+1.3
+
+1º de Jan de 2004
+
+Limites Mínimos de Desempenho Exigidos para Detecção de Substâncias Proibidas
+
+TD2004MRPL
+
+1.0
+
+15<sup>de</sup> Fev de 2004
+
+Critérios para Identificação de Ensaios Qualitativos Que Incorporem Cromatografia e Espectrometria de Massa
+
+TD2003IDCR
+
+1.2
+
+1º de Jan de 2004
+
+Reporte de Descobertas de Norandrosterona
+
+TD2004NA
+
+1.0
+
+13 de Ago de 2004
+
+Diretrizes para Reporte e Avaliação para Testosterona, Epitestosterona, Taxa de T/E e outros Esteróides Endógenos
+
+TD2004EAAS
+
+1.0
+
+13 de Ago de 2004
+
+Harmonização do Método para Identificação de Epoetin Alfa e Beta (EPO) e Darbepoetin Alfa (NESP) através de Imuno-transferência Dupla por IEF e Detecção Quiminuminescente
+
+TD2004EPO
+
+1.0
+
+Em progresso
+
+Mensuração de Incerteza para Análise Antidoping
+
+Futuro
+
+Diretrizes para Reporte de Cromatografia Gasosa/Combustão/ Espectrometria de Massa de Rádio Isotópico
+
+Futuro
+
+Diretrizes para Reporte de Salbutamol e outros Agonistas Beta-2
+
+Futuro
 
 ADENDO AO PADRÃO INTERNACIONAL PARA LABORATÓRIOS
 

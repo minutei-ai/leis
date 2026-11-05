@@ -1,5 +1,3 @@
-###DEC-095893-0-000-04-04-1988@@@
-
 DECRETO N° 95.893, DE 04 DE ABRIL DE 1988
 
 Altera os arts. 1° e 2° do Decreto n° 95.096, de 29 de outubro de 1987, e dá outras providências.

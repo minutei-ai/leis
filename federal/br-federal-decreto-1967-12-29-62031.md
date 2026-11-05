@@ -1,5 +1,3 @@
-###DEC-062031-0-000-29-12-1967@@@
-
 DECRETO Nº 62.031, DE 29 DE DEZEMBRO DE 1967.
 
 Transfere concessão.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.642, DE 07 DE AGOSTO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.885, de 17 de dezembro de 2021, que dispõe sobre a política de gestão patrimonial dos bens imóveis do Estado, para tratar do instituto da autorização de uso.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.885, de 17 de dezembro de 2021, que dispõe sobre a política de gestão patrimonial dos bens imóveis do Estado, para tratar do instituto da autorização de uso.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

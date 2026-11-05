@@ -1,5 +1,3 @@
-###DEC-054368-0-000-01-10-1964@@@
-
 DECRETO Nº 54.368, DE 1º DE OUTUBRO DE 1964.
 
 Altera o Decreto nº 51.053, de 26 de julho de 1961, que estende ao Pessoal do Instituto Brasileiro de Geografia e Estatística a concessão do auxílio previsto no artigo 137 da Lei nº 1.711, de 28 de outubro de 1952.

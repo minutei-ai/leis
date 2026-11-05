@@ -1,5 +1,3 @@
-###DEL-006101-0-000-14-12-1943@@@
-
 DECRETO‑LEI N. 6.101 – De 14 DE DEZEMBRO DE 1943
 
 Dá nova designação aos alunos da Escola da Aeronáutica

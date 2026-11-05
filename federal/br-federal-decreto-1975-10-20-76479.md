@@ -1,5 +1,3 @@
-###DEC-076479-0-000-20-10-1975@@@
-
 Decreto nº 76.479, de 20 de outubro de 1975.
 
 Declara a caducidade da concessão outorgada a Cypriano Lopes de Almeida, para lavrar água mineral no Município do Rio de Janeiro, Estado do Rio de Janeiro.

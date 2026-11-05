@@ -502,6 +502,29 @@ def convert_html(data, charset, base_url):
     return conv
 
 
+_CAMARA_PORTAL_BLOCK_RE = re.compile(
+    r'^(?:#{1,6}\s*)?(?:\*\*|__)?CÂMARA DOS DEPUTADOS(?:\*\*|__)?$', re.I)
+_CEDI_PORTAL_BLOCK_RE = re.compile(
+    r'^(?:#{1,6}\s*)?(?:\*\*|__)?Centro de Documentação e Informação(?:\*\*|__)?$', re.I)
+# HTML da Câmara quebra "CÂMARA" / "DOS DEPUTADOS" / "Centro de" em nós distintos.
+_CAMARA_PORTAL_PLAIN_RE = re.compile(
+    r'CÂMARA\s+DOS\s+DEPUTADOS\s+Centro\s+de\s+Documenta[cç][aã]o\s+e\s+Informa[cç][aã]o\s*',
+    re.I)
+
+
+def drop_camara_portal_prefix(blocks):
+    """Remove chrome CEDI no topo dos blocos convertidos; não toca sintagmas legais no corpo."""
+    out = list(blocks)
+    while out:
+        plain = re.sub(r'\s+', ' ', md_plain(out[0], True)).strip()
+        if _CAMARA_PORTAL_BLOCK_RE.match(plain) or _CEDI_PORTAL_BLOCK_RE.match(plain):
+            out.pop(0)
+            continue
+        break
+    return out
+
+
+
 def blocks_to_markdown(blocks, title_pattern):
     """Primeiro bloco que casa com o título vira H1 (texto simples); os demais são parágrafos."""
     out = []

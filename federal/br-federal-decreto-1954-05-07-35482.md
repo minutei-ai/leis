@@ -1,14 +1,12 @@
-###DEC-035482-0-000-07-05-1954@@@
+**DECRETO Nº 35.482, DE 7 DE MAIO DE 1954.**
 
-<strong>DECRETO Nº 35.482, DE 7 DE MAIO DE 1954.</strong>
+***Cria, no Ministério da Fazenda, a Comissão Consultiva dos Assuntos do Acôrdo Geral de Tarifas e Comércio (“CATT”).***
 
-<em><strong>Cria, no Ministério da Fazenda, a Comissão Consultiva dos Assuntos do Acôrdo Geral de Tarifas e Comércio (“CATT”).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica, criada, no Ministério da Fazenda, a Comissão Consultiva dos Assuntos do Acôrdo Geral de Tarifas e Comércio (“CATT”), integrada por representante dos seguintes órgãos:
+**Art**. 1º Fica, criada, no Ministério da Fazenda, a Comissão Consultiva dos Assuntos do Acôrdo Geral de Tarifas e Comércio (“CATT”), integrada por representante dos seguintes órgãos:
 
 1 - Conselho Técnico de Economia e Finanças;
 
@@ -34,7 +32,7 @@
 
 § 2º Para o desempenho de suas atribuições contará a Comissão com uma Secretária Executiva integrada por servidores do Conselho Técnico de Economia e Finanças, nos têrmos do parágrafo único, artigo 11, do Decreto nº 34.791, de 16 de dezembro de 1953.
 
-<strong>Art</strong>. 2º Compete à Comissão:
+**Art**. 2º Compete à Comissão:
 
 a) estudar e sugerir as diretrizes gerais da política tarifária, tendo em vista o equilíbrio do balanço de pagamentos e as necessidades de desenvolvimento econômico do país;
 
@@ -46,13 +44,13 @@ d) articular-se, por intermédio do Ministério das Relações Exteriores, com a
 
 Parágrafo único. Continuará sob a responsabilidade do Ministério das Relações Exteriores a coordenação e interpretação da política exterior, tarifária e comercial, junto às entidades internacionais.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 7 de maio de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha
 

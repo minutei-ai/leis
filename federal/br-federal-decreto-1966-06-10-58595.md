@@ -1,5 +1,3 @@
-###DEC-058595-0-000-10-06-1966@@@
-
 DECRETO Nº 58.595, DE 10 DE junho DE 1966.
 
 Cria o Estandarte-Distintivo para o 1º BPE (Batalhão Marechal Zenóbio da Costa).

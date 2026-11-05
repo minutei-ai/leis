@@ -1,5 +1,3 @@
-###DEC-056084-0-000-26-04-1965@@@
-
 Decreto nº 56.084, de 26 de abril de 1965.
 
 Autoriza o cidadão brasileiro José Simplício de Azevedo Pio a pesquisar pedras semipreciosas, no município de Aracruz, Estado do Espírito Santo.

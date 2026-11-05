@@ -1,5 +1,3 @@
-###DEC-048383-0-000-22-06-1960@@@
-
 DECRETO Nº 48.383, DE 22 JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Antenor Santos Marques a pesquisar quartzo no município de Paratinga, Estado da Bahia.

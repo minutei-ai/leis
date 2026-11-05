@@ -1,5 +1,3 @@
-###DEC-003870-0-000-17-07-2001@@@
-
 DECRETO Nº 3.870, DE 17 DE JULHO DE 2001
 
 Dispõe sobre a execução do Quadragésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 30 de abril de 2001.

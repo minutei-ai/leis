@@ -1,5 +1,3 @@
-###DEC-002377-0-000-12-11-1997@@@
-
 DECRETO Nº 2.377, DE 12 DE NOVEMBRO DE 1997
 
 Dispõe sobre a execução do Décimo Segundo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 11, entre Brasil e Equador, de 26 de setembro de 1997.

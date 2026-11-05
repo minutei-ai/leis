@@ -1,5 +1,3 @@
-###DEC-049118-0-000-14-10-1960@@@
-
 DECRETO Nº 49.118, DE 14 DE OUTUBRO DE 1960.
 
 Retifica o art. 1º do Decreto número 48.512-A, de 11 de julho de 1960.

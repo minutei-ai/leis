@@ -1,5 +1,3 @@
-###DEL-006431-0-000-17-04-1944@@@
-
 DECRETO-LEI N. 6.431 – DE 17 DE ABRIL DE 1944
 
 Cria o Serviço de Documentação do Ministério da Viação e Obras Públicas e dá outras providências

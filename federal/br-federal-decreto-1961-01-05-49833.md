@@ -1,5 +1,3 @@
-###DEC-049833-0-000-05-01-1961@@@
-
 DECRETO Nº 49.833, DE 5 DE JANEIRO DE 1961.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$403.200,00, para o fim que especifica.

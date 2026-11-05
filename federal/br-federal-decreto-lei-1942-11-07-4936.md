@@ -1,5 +1,3 @@
-###DEL-004936-0-000-07-11-1942@@@
-
 DECRETO-LEI N. 4.936 – DE 7 DE NOVEMBRO DE 1942
 
 Amplia o âmbito de ação do Serviço Nacional de Aprendizagem dos Industriários, e dá outras providências

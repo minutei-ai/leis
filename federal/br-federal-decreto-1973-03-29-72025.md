@@ -1,5 +1,3 @@
-###DEC-072025-0-000-29-03-1973@@@
-
 Decreto Nº 72.025, DE 29 DE MARÇO DE 1973.
 
 Retifica o artigo 1º, do Decreto número 55.418, de 31 de dezembro de 1964.

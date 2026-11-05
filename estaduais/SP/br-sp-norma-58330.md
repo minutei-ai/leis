@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58330)
-
 # LEI Nº 12.090, DE 11 DE OUTUBRO DE 2005
 
 ## (PL 459/2005 - Governador)

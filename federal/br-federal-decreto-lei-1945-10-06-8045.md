@@ -1,5 +1,3 @@
-###DEL-008045-0-000-06-10-1945@@@
-
 DECRETO-LEI N. 8.045 – DE 6 DE OUTUBRO DE 1945
 
 Modifica o Decreto-lei n. 5.447, de 30 de abril de 1943

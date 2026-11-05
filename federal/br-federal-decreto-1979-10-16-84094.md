@@ -1,5 +1,3 @@
-###DEC-084094-0-000-16-10-1979@@@
-
 decreto nº 84.094, de 16 de outubro de 1979.
 
 Revoga o Decreto nº 83.972, de 13 de setembro de 1979.

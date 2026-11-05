@@ -1,7 +1,3 @@
-1
-
-###DEC-098194-0-000-27-09-1989@@@
-
 DECRETO Nº 98.194, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PICADA e RUZY”, situado no Município de Sobral, no Estado do Ceará, e dá outras providências.

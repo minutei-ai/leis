@@ -1,7 +1,3 @@
-1
-
-###DEC-097640-0-000-11-04-1989@@@
-
 DECRETO N° 97.640, DE 11 DE ABRIL DE 1989
 
 Declara de utilidade pública a FUNDAÇÃO ASSIS CHATEAUBRIAND.

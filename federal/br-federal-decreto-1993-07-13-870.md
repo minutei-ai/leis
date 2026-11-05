@@ -1,7 +1,3 @@
-1
-
-###DEC-000870-0-000-13-07-1993@@@
-
 DECRETO N° 870, DE 13 DE JULHO DE 1993
 
 Estabelece as características da Nota do Tesouro Nacional - Série P - NTN‑P a ser trocada pelo produto em moeda corrente das alienações realizadas no âmbito do Programa Nacional de Desestatização - PND.

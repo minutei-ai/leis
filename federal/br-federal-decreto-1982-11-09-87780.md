@@ -1,5 +1,3 @@
-###DEC-087780-0-000-09-11-1982@@@
-
 DECRETO Nº 87.780, DE 09 DE novembro de 1982
 
 Estabelece novos limites para os municípios do Território Federal de Roraima, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006520-0-000-30-07-2008@@@
-
 DECRETO Nº 6.520, DE 30 DE JULHO DE 2008.
 
 Altera o Decreto no 6.501, de 2 de julho de 2008, que dá nova redação às Notas Complementares NC (18-1), NC (21-2) e NC (22-3) da Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006, e ao art. 150 do Decreto no 4.544, de 26 de dezembro de 2002 - Regulamento do Imposto sobre Produtos Industrializados - RIPI.

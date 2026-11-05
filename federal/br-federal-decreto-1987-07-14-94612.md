@@ -1,5 +1,3 @@
-###DEC-094612-0-000-14-07-1987@@@
-
 DECRETO N° 94.612, DE 14 DE JULHO DE 1987
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados "Fazendas Serra Branca, Serrote, Entre Santos e Santo Antonio", classificados no Cadastro de imóveis Rurais do INCRA como latifúndios por exploração, situados nos Municípios de São Rafael e Santana do Matos, no Estado do Rio Grande do Norte, compreendido na zona prioritária, para fins de Reforma Agrária, fixada pelo Decreto nº 92.681, de 19 de maio de 1986, e dá outras providências.

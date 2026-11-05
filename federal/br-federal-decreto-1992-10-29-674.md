@@ -1,7 +1,3 @@
-1
-
-###DEC-000674-0-000-29-10-1992@@@
-
 DECRETO N° 674, DE 29 DE OUTUBRO DE 1992
 
 Promulga o Convênio Zoossanitário para o Intercâmbio de Animais e de Produtos de Origem Animal entre o Governo da República Federativa do Brasil e o Governo da República Oriental do Uruguai, de 14.08.1985.

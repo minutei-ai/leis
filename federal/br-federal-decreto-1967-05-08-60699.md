@@ -1,5 +1,3 @@
-###DEC-060699-0-000-08-05-1967@@@
-
 DECRETO Nº 60.699, DE 8 DE MAIO DE 1967.
 
 Dispõe sôbre recolhimento de diferenças de preços sôbre estoques de trigo e dá outras providências.

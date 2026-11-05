@@ -1,5 +1,3 @@
-###DEC-069819-0-000-22-12-1971@@@
-
 decreto nº 69.819 - de 22 DE DEZEMBRO de 1971
 
 Concede reconhecimento aos Cursos de Letras (curta duração), Estudos Sociais (curta duração), Pedagogia (duração plena), e Matemática (duração plena), da Faculdade de Filosofia, Ciências e Letras "Barão de Mauá", mantido pela Associação Ribeirãopretana de Educação, em Ribeirão Preto, São Paulo.

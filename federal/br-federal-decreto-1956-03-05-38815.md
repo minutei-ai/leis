@@ -1,14 +1,12 @@
-###DEC-038815-0-000-05-03-1956@@@
+**DECRETO Nº 38.815, DE 5 DE MARÇO DE 1956.**
 
-<strong>DECRETO Nº 38.815, DE 5 DE MARÇO DE 1956.</strong>
+***Altera o Regulamento da Escola de Aeronáutica, aprovado pelo Decreto nº 30.698 de 1 de abril de 1952.***
 
-<em><strong>Altera o Regulamento da Escola de Aeronáutica, aprovado pelo Decreto nº 30.698 de 1 de abril de 1952.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O Regulamento da Escola de Aeronáutica, aprovado pelo Decreto nº 30.698, de 1º de abril de 1952 e alterado pelos Decretos ns. 33.053, de 15 de junho de 1953 e 37.688, de 3 de agôsto de 1955, fica alterado na forma do que com êste baixa:
+**Art**. 1º O Regulamento da Escola de Aeronáutica, aprovado pelo Decreto nº 30.698, de 1º de abril de 1952 e alterado pelos Decretos ns. 33.053, de 15 de junho de 1953 e 37.688, de 3 de agôsto de 1955, fica alterado na forma do que com êste baixa:
 
 I - Acrescente-se ao art. 44 o seguinte Parágrafo único:
 
@@ -96,10 +94,10 @@ XIV - O art. 248 passa a ter a seguinte redação:
 
 “Art. 248. O Comandante do Corpo de cadetes da Aeronáutica, subordinado direto do Chefe do Departamento de Ensino, é um Tenente-Coronel Aviador, com o Curso de Estado Maior”.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor  na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor  na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, 5 de março de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Vasco Alves Secco

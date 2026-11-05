@@ -1,5 +1,3 @@
-###DEC-068097-0-000-20-01-1971@@@
-
 DECRETO Nº 68.097, DE 20 DE JANEIRO DE 1971.
 
 Declara de utilidade pública a Congregação de Nossa Senhora, com sede em Passo Fundo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-090195-0-000-12-09-1984@@@
-
 DECretO nº 90.195, DE 12 DE SETEMBRO DE 1984
 
 Inclui na composição do Conselho Consultivo da Administração de Saúde Previdenciária - CONASP representante dos servidores da Previdência Social.

@@ -1,5 +1,3 @@
-###DEC-066632-0-000-26-05-1970@@@
-
 DECRETO Nº 66.632, DE 26 DE MAIO DE 1970.
 
 Concede a Empresa Lindoyana de Águas Minerais Limitada o direito de lavrar água mineral, no município de Lindoia, Estado de São Paulo.

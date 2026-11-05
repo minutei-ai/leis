@@ -1,5 +1,3 @@
-###DEC-047877-0-000-08-03-1960@@@
-
 DECRETO Nº 47.877, DE 8 DE MARÇO DE 1960.
 
 Desvincula da concessão de que é titular a Companhia Energia Elétrica da Bahia as unidades geradora 1, 2 e 3 da Usina de Preguiça, em Salvador, e dá outras providências.

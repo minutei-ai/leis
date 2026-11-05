@@ -1,5 +1,3 @@
-###LEI-000000-0-000-08-06-1831@@@
-
 LEI - DE 8 DE JUNHO DE 1831
 
 Declara sem effeito as disposições legislativas sobre a venda das apolices a metal e troco das notas do Banco du Brazil por apolices, e manda passar para a Caixa de Amortização o cofre de depositos publicos.

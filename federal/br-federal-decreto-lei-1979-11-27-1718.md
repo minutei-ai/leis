@@ -1,5 +1,3 @@
-###DEL-001718-0-000-27-11-1979@@@
-
 # Decreto-lei nº 1.718, de 27 de novembro de 1979
 
 Revoga exigência de prestação de informações permanentes referidas na legislação do imposto sobre a renda e dá outras providências.

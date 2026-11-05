@@ -1,7 +1,3 @@
-1
-
-###DEC-098128-0-000-11-09-1989@@@
-
 DECRETO N° 98.128, DE 11 DE SETEMBRO DE 1989
 
 Extingue o Consulado-Geral do Brasil em Ciudad Presidente Stroessner e cria o Consulado-Geral do Brasil em Ciudad Del Este.

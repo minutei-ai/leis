@@ -36,5 +36,6 @@ Art. 2º - Esta Lei entrara em vigor na data de sua publicação, revogando as d
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e um dias do mês de outubro de um mil novecentos e noventa e sete.
 
-ADEMIR MENEZES<br>
+ADEMIR MENEZES
+
 PREFEIRTO MUNICIPAL

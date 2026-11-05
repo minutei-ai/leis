@@ -1,5 +1,3 @@
-###DEC-068185-0-000-09-02-1971@@@
-
 decreto nº 68.185, de 9 de Fevereiro de 1971.
 
 Reconhece o Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras de Assis, no Estado de São Paulo.

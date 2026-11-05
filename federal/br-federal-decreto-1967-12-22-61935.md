@@ -1,5 +1,3 @@
-###DEC-061935-0-000-22-12-1967@@@
-
 DECRETO Nº 61.935, DE 22 DE DEZEMBRO DE 1967.
 
 Retifica o Decreto nº 59.634, de 1-12-66, que reconheceu prioritária ao desenvolvimento do Nordeste, para efeito de isenção de taxas e impostos federais a importação de equipamentos novos consignados a emprêsa “Indústrias Alimentícias Carlos de Brito S.A.”, de Recife (Pe.).
@@ -14,7 +12,25 @@ DECRETA:
 
 Art. 1º Fica retificado o Decreto nº 59.634, de 1-12-66, para efeito exclusivo de substituição dos equipamentos descritos no item 11 da relação que instrui o mencionado Decreto pelos equipamentos neste especificados, cuja importação está a cargo da emprêsa “Indústrias Alimentícias Carlos de Brito S.A.“, de Recife/Pe.).
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item</span></p></td><td style="width:269.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Especificação</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:52.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:269.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Grupos de pré-aquecimento mod. N.13.40 marca “Manzini” ref. N/cat. - pág. 19, com capacidade de 10.000Kgh de polpas trituradas de tomates completos, com acessórios normais para o uso, contrôle automático de temperatura, compressor de ar. Pêso líquido total dos dois grupos: Kg 1.560 ......................................................................................</span></p></td><td style="width:63.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:52.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.470</span></p></td></tr></tbody></table>
+Item
+
+Especificação
+
+Quantidade
+
+a ser
+
+importada
+
+Valor Total CIF US$
+
+1
+
+Grupos de pré-aquecimento mod. N.13.40 marca “Manzini” ref. N/cat. - pág. 19, com capacidade de 10.000Kgh de polpas trituradas de tomates completos, com acessórios normais para o uso, contrôle automático de temperatura, compressor de ar. Pêso líquido total dos dois grupos: Kg 1.560 ......................................................................................
+
+2
+
+7.470
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente Decerto, para ser examinada pela Alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 
@@ -27,8 +43,6 @@ A. COSTA E SILVA
 Antônio Delfim Netto
 
 Afonso A. Lima
-
-###DEC-061935-0-000-22-12-1967@@@RET01+++
 
 DECRETO Nº 61.935, DE 22 DE DEZEMBRO DE 1967.
 

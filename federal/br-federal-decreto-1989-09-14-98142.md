@@ -1,7 +1,3 @@
-1
-
-###DEC-098142-0-000-14-09-1989@@@
-
 DECRETO N° 98.142 DE 14 DE SETEMBRO DE 1989
 
 Outorga concessão à TELEVISÃO CAPITAL DE FORTALEZA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Fortaleza, Estado do Ceará .

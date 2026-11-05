@@ -1,5 +1,3 @@
-###DEC-045522-0-000-03-03-1959@@@
-
 DECRETO Nº 45.522, DE 3 DE MARÇO DE 1959.
 
 Concede o abono provisório aos Servidores da Caixa Econômica Federal do Piauí.

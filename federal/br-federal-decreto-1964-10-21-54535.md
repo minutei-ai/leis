@@ -1,5 +1,3 @@
-###DEC-054535-0-000-21-10-1964@@@
-
 DECRETO Nº 54.535, DE 21 DE OUTUBRO DE 1964.
 
 Concede à Mineração Belvedere Limitada autorização para funcionar como emprêsa de mineração.

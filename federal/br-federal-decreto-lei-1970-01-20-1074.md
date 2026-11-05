@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/a2a0b4b9-7339-44ba-aa2d-4f0b9f148ad4/texto#nowhere)
 
-###DEL-001074-0-000-20-01-1970@@@
-
 # DECRETO-LEI Nº 1.074, DE 20 DE JANEIRO dE 1970
 
 Acrescenta parágrafos ao artigo 4º, do Decreto-lei nº 902, de 30 de setembro de 1969, e dá outras providências.

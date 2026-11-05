@@ -1,5 +1,3 @@
-###DEC-099661-0-000-31-10-1990@@@
-
 DECRETO N° 99.661, DE 31 DE OUTUBRO DE 1990
 
 Revoga o Decreto n° 84.268, de 7 de dezembro de 1979, alterado pelo Decreto n° 85.632, de 7 de janeiro de 1981.

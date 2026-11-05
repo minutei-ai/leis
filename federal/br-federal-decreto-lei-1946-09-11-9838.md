@@ -1,5 +1,3 @@
-###DEL-009838-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.838 – DE 11 DE SETEMbRO DE 1946
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 16.200,00, para pagamento de diferença de vencimentos.

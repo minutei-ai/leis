@@ -1,5 +1,3 @@
-###DEC-057246-0-000-12-11-1965@@@
-
 DECRETO Nº 57.246, DE 12 DE NOVEMBRO DE 1965.
 
 Constitui Comissão Interministerial a fim de elaborar projeto de lei propondo nova tabela de fixação dos valôres relativos aos emolumentos dos corretores de navios.

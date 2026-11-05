@@ -1,5 +1,3 @@
-###DEL-008051-0-000-08-10-1945@@@
-
 DECRETO-LEI N. 8.051 – DE 8 DE OUTUBRO DE 1945
 
 Extingue a Contodoria Seccional junto à Estrada de Ferro Tocantins e dá outras providências.

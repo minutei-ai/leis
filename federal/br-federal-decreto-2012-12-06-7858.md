@@ -1,5 +1,3 @@
-###DEC-007858-0-000-06-12-2012-PUB-01@@@
-
 DECRETO Nº 7.858, DE 6 DE DEZEMBRO DE 2012
 
 Promulga o Regulamento do Fundo de Agricultura Familiar do MERCOSUL – FAF MERCOSUL, adotado pela Decisão CMC nº 06/09, aprovada durante a XXXVII Reunião Ordinária do Conselho do Mercado Comum - CMC, em Assunção, em 23 de julho de 2009.

@@ -1,5 +1,3 @@
-###DEC-086000-0-000-13-05-1981@@@
-
 Decreto nº 86.000, de 13 de maio de 1981.
 
 Dispõe sobre a suspensão temporária de criação de novos cursos de graduação e dá outras providências.

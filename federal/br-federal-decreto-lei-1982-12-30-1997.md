@@ -1,5 +1,3 @@
-###DEL-001997-0-000-30-12-1982@@@
-
 # Decreto-lei nº 1.997, de 30 de dezembro de 1982
 
 Reajusta os valores de vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, bem como os das pensões, e dá outras providências.

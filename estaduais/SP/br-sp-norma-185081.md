@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185081)
-
 # DECRETO Nº 63.174, DE 30 DE JANEIRO DE 2018
 
 ### _Autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito e por prazo indeterminado, em favor do Município de Cabrália Paulista, de partes do imóvel que especifica_
@@ -22,10 +20,16 @@ Palácio dos Bandeirantes, 30 de janeiro de 2018
 
 GERALDO ALCKMIN
 
-Arnaldo Calil Pereira Jardim<br>
-Secretário de Agricultura e Abastecimento<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Arnaldo Calil Pereira Jardim
+
+Secretário de Agricultura e Abastecimento
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de janeiro de 2018.

@@ -1,5 +1,3 @@
-###DEC-003824-0-000-29-05-2001@@@
-
 DECRETO Nº 3.824, DE 29 DE MAIO DE 2001
 
 Dispõe sobre a adição de álcool étílico anidro combustível à gasolina.

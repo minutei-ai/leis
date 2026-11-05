@@ -1,5 +1,3 @@
-###DEC-089753-0-000-05-06-1984@@@
-
 Decreto nº 89.753, de 05 de junho de 1984.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Tupã", situado no Município de Cáceres, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.752, de 05 de junho de 1984.

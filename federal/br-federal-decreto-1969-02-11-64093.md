@@ -1,5 +1,3 @@
-###DEC-064093-0-000-11-02-1969@@@
-
 DECRETO nº 64.093, DE 11 DE FEVEREIRO DE 1969.
 
 Retifica o artigo 1º do Decreto número 62.071, de 5 de janeiro de 1968.

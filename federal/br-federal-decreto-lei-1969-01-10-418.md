@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/34da1365-0bf8-4684-9392-75278cbfa9b3/texto#nowhere)
 
-###DEL-000418-0-000-10-01-1969@@@
-
 DECRETO-LEI Nº 418, DE 10 DE JANEIRO DE 1969
 
 Altera o Decreto-lei nº 7.930, de 3 de setembro de 1945, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047848-0-000-05-03-1960@@@
-
 DECRETO Nº 47.848, DE 5 DE MARÇO DE 1960.
 
 Abre, ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral do Ceará, o crédito especial de Cr$356.595,00, para o fim que especifica.

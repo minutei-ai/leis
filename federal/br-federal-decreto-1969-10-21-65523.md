@@ -1,5 +1,3 @@
-###DEC-065523-0-000-21-10-1969@@@
-
 Decreto nº 65.523 - de 21 de outubro de 1969.
 
 Acrescenta item ao artigo 5º do Regulamento do "Fundo Aeronáutico."

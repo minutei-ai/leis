@@ -1,5 +1,3 @@
-###MPV-001937-0-011-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.937-11, DE 6 DE JANEIRO DE 2000.
 
 Altera dispositivos da Lei nº 9.692, de 27 de julho de 1998, que dispõe sobre as diretrizes para a elaboração da Lei Orçamentária de 1999.

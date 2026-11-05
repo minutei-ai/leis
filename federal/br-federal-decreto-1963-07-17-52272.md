@@ -1,5 +1,3 @@
-###DEC-052272-0-000-17-07-1963@@@
-
 Decreto nº 52.272, de 17 de julho de 1963.
 
 Altera a redação do § 1º do artigo 1º do Decreto nº 42.410 de 5 de outubro de 1957 que alterou a composição do Conselho do Almirantado.

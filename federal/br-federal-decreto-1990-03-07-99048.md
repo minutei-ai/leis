@@ -1,7 +1,3 @@
-1
-
-###DEC-099048-0-000-07-03-1990@@@
-
 DECRETO Nº 99.048, DE 7 DE MARÇO DE 1990
 
 Renova a concessão outorgada à RADIO DOZE DE MAIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de São Lourenço D'Oeste, Estado de Santa Catarina.

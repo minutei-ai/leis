@@ -1,5 +1,3 @@
-###DEC-052323-0-000-07-08-1963@@@
-
 DECRETO Nº 52.323, DE 7 DE AGÔSTO DE 1963.
 
 Altera dispositivos do Decreto nº 847 de 5-4-62 que aprovou o Regimento do Conselho Nacional de Saúde.

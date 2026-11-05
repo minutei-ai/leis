@@ -1,7 +1,3 @@
-1
-
-###DEC-000540-0-000-26-05-1992@@@
-
 DECRETO Nº 540, DE 26 DE MAIO DE 1992
 
 Dá nova redação ao inciso II. do artigo 352 do Regulamento Aduaneiro, aprovado pelo Decreto nº 91.030, de 5 de março de 1985.

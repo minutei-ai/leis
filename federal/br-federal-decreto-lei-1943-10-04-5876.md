@@ -1,5 +1,3 @@
-###DEL-005876-0-000-04-10-1943@@@
-
 DECrETO‑LEI N. 5.876 – DE 4 DE oUTUBRO DE 1943
 
 Dispõe sôbre a concessão de fatores à IV Feira Nacional de Indústrias a realizar-se em São Paulo, e dá outras providências­

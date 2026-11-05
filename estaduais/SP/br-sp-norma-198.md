@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/198)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2002/compilacao-lei-11221-24.07.2002.html)
 
 # LEI N° 11.221, DE 24 DE JULHO DE 2002
@@ -9,8 +8,10 @@
 
 ### _Dispõe sobre a pesca em águas superficiais de domínio do Estado e dá outras providências_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:**
+
 Artigo 1° -** Para os efeitos desta lei, define-se como:
 
 ~~**I -** vetado;~~
@@ -21,13 +22,20 @@ _\- Inciso I vetado pelo Governador._
 
 _\- Inciso I_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20020823&Caderno=Legislativo&NumeroPagina=6)_, que rejeitou o veto oposto pelo Governador._
 
-**II -** captura de pescado, a sua retirada do seu meio natural que importe em seu perecimento.**<br>
-Artigo 2° -** A pesca amadora compreende duas modalidades:<br>
-**I -** pesca embarcada, quando executada com auxílio de embarcação de qualquer espécie e realizada com emprego de linha de mão (linhada), caniços simples ou dotados de molinete ou carretilha;<br>
-**II -** pesca desembarcada, quando executada a partir das margens de rios e lagos, com emprego de linha de mão (linhada), caniços simples ou dotados de molinete ou carretilha.**<br>
-Artigo 3° -** O exercício da pesca amadora em águas superficiais de domínio do Estado, sujeita-se ao pagamento da Taxa de Fiscalização e Serviços Diversos - TFSD, no valor de 10 e 5 Unidades Fiscais do Estado de São Paulo - UFESPs, para as modalidades referidas nos incisos I e II do artigo anterior, respectivamente.<br>
-**§ 1° -** A taxa de que trata este artigo terá validade pelo prazo de 12 (doze) meses, contados da data de seu pagamento que será efetuado com utilização de Guia de Arrecadação de Tributos Estaduais - Demais Receitas - GARE-DR.<br>
-**§ 2° -** A guia de recolhimento referida no parágrafo anterior, acompanhada de documento de identidade do pescador amador, prova a licença de pesca.<br>
+**II -** captura de pescado, a sua retirada do seu meio natural que importe em seu perecimento.**
+
+Artigo 2° -** A pesca amadora compreende duas modalidades:
+
+**I -** pesca embarcada, quando executada com auxílio de embarcação de qualquer espécie e realizada com emprego de linha de mão (linhada), caniços simples ou dotados de molinete ou carretilha;
+
+**II -** pesca desembarcada, quando executada a partir das margens de rios e lagos, com emprego de linha de mão (linhada), caniços simples ou dotados de molinete ou carretilha.**
+
+Artigo 3° -** O exercício da pesca amadora em águas superficiais de domínio do Estado, sujeita-se ao pagamento da Taxa de Fiscalização e Serviços Diversos - TFSD, no valor de 10 e 5 Unidades Fiscais do Estado de São Paulo - UFESPs, para as modalidades referidas nos incisos I e II do artigo anterior, respectivamente.
+
+**§ 1° -** A taxa de que trata este artigo terá validade pelo prazo de 12 (doze) meses, contados da data de seu pagamento que será efetuado com utilização de Guia de Arrecadação de Tributos Estaduais - Demais Receitas - GARE-DR.
+
+**§ 2° -** A guia de recolhimento referida no parágrafo anterior, acompanhada de documento de identidade do pescador amador, prova a licença de pesca.
+
 **§ 3° -** O produto da arrecadação da taxa mencionada neste artigo, bem como o das multas tipificadas no Artigo 5.°, reverterá exclusivamente para as atividades de fiscalização do cumprimento do disposto nesta lei, para incentivo da atividade pesqueira, na qualidade amadora e recuperação das matas ciliares.
 
 ~~**Artigo 4° -** Vetado:~~
@@ -90,10 +98,14 @@ _\- Item 2 vetado pelo Governador._
 
 _\- Item 2_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20020823&Caderno=Legislativo&NumeroPagina=6)_, que rejeitou o veto oposto pelo governador._
 
-**§ 5° -** É vedada a captura, só comportando a pesca na modalidade "pesque e solte", das seguintes espécies: Salminus Maxilosus (dourado), Salminus Hilarii (tabarana), Pseudoplatystoma sp (pintado e cacharas), Brycon Lundii (piracanjuba) e Pauliceia Lütkeni (jaú).<br>
-**§ 6° -** É livre a captura de peixes exóticos, assim entendidos aqueles que não sejam originários do País, tais como: tilápia, black bass, truta, bagre africano e carpa.**<br>
-Artigo 5° -** As infrações às disposições desta lei sujeitam os infratores às seguintes penalidades:<br>
-**I -** exercício de pesca amadora sem o pagamento da taxa devida - multa de 10 (dez) vezes o valor do tributo não pago;<br>
+**§ 5° -** É vedada a captura, só comportando a pesca na modalidade "pesque e solte", das seguintes espécies: Salminus Maxilosus (dourado), Salminus Hilarii (tabarana), Pseudoplatystoma sp (pintado e cacharas), Brycon Lundii (piracanjuba) e Pauliceia Lütkeni (jaú).
+
+**§ 6° -** É livre a captura de peixes exóticos, assim entendidos aqueles que não sejam originários do País, tais como: tilápia, black bass, truta, bagre africano e carpa.**
+
+Artigo 5° -** As infrações às disposições desta lei sujeitam os infratores às seguintes penalidades:
+
+**I -** exercício de pesca amadora sem o pagamento da taxa devida - multa de 10 (dez) vezes o valor do tributo não pago;
+
 **II -** exercício de pesca, em qualquer modalidade, com intuito comercial, das espécies e nas condições vedadas por esta lei - multa de 500 (quinhentas) Unidades Fiscais do Estado de São Paulo - UFESPs;
 
 ~~**III -** vetado;~~
@@ -104,7 +116,8 @@ _\- Inciso III vetado pelo Governador._
 
 _\- Inciso III_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20020823&Caderno=Legislativo&NumeroPagina=6)_, que rejeitou o veto oposto pelo Governador._
 
-**IV -** captura das espécies tratadas no § 5.° do Artigo 4.° - 2.500 (duas mil e quinhentas) Unidades Fiscais do Estado de São Paulo - UFESPs, aplicada por espécie;<br>
+**IV -** captura das espécies tratadas no § 5.° do Artigo 4.° - 2.500 (duas mil e quinhentas) Unidades Fiscais do Estado de São Paulo - UFESPs, aplicada por espécie;
+
 **V -** pesca, ainda que na modalidade "pesque e solte", em período de reprodução (piracema) - 2.500 (duas mil e quinhentas) Unidades Fiscais do Estado de São Paulo - UFESPs;
 
 ~~**VI -** vetado.~~
@@ -115,8 +128,10 @@ _\- Inciso VI vetado pelo Governador._
 
 _\- Inciso VI_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20020823&Caderno=Legislativo&NumeroPagina=6)_, que rejeitou o veto oposto pelo Governador._
 
-**§ 1° -** As multas previstas neste artigo:<br>
-**1\.** são de aplicação cumulativa;<br>
+**§ 1° -** As multas previstas neste artigo:
+
+**1\.** são de aplicação cumulativa;
+
 **2.** aplicam-se em dobro no caso de reincidência.
 
 ~~**§ 2° -** Vetado.~~
@@ -127,8 +142,10 @@ _\- § 2° vetado pelo Governador._
 
 _\- § 2°_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20020823&Caderno=Legislativo&NumeroPagina=6)_, que rejeitou o veto oposto pelo Governador._
 
-**§ 3° -** Sem prejuízo da aplicação das multas tipificadas neste artigo, serão apreendidos o produto da pesca bem como todos os equipamentos, inclusive barcos, utilizados pelos infratores desta lei, operando-se a devolução dos últimos quando findo o processo administrativo instaurado ou quando pagas as multas devidas.<br>
-**§ 4° -** O pescado apreendido de conformidade com o parágrafo anterior será doado a entidade de assistência social.**<br>
+**§ 3° -** Sem prejuízo da aplicação das multas tipificadas neste artigo, serão apreendidos o produto da pesca bem como todos os equipamentos, inclusive barcos, utilizados pelos infratores desta lei, operando-se a devolução dos últimos quando findo o processo administrativo instaurado ou quando pagas as multas devidas.
+
+**§ 4° -** O pescado apreendido de conformidade com o parágrafo anterior será doado a entidade de assistência social.**
+
 Artigo 6° -** Constatada qualquer infração aos dispositivos desta lei será lavrado Auto de Infração e Auto de Apreensão de Petrechos de Pesca, quando for o caso, sendo o infrator desde logo notificado a apresentar defesa, no prazo de 30 (trinta) dias.
 
 ~~**Artigo 7° -** Vetado.~~
@@ -139,24 +156,44 @@ _\- Artigo 7° vetado pelo Governador._
 
 _\- Artigo 7°_ [_mantido pela Alesp_](https://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20020823&Caderno=Legislativo&NumeroPagina=6)_, que rejeitou o veto oposto pelo Governador._
 
-**Artigo 8° -** A Secretaria de Estado dos Negócios da Segurança Pública, no prazo de 90 (noventa) dias da publicação desta lei, baixará as instruções necessárias ao seu cumprimento, inclusive estabelecendo o rito para a tramitação dos processos administrativos destinados a apurar os ilícitos eventualmente praticados bem como os modelos de Auto de Infração e Auto de Apreensão de Petrechos de Pesca.**<br>
-Artigo 9° -** Fica acrescentado o item 17, à Tabela "B", anexa à [Lei n. 7.645, de 23 de dezembro de 1991](https://www.al.sp.gov.br/norma/18882), com a seguinte redação:<br>
-"17 - Licença para Pesca Amadora:<br>
-17.1 - pesca embarcada .......................... 10,000;<br>
-17.2 - pesca desembarcada ...................... 5,000."**<br>
-Artigo 10 -** Esta lei entra em vigor no prazo de 90 (noventa) dias contados da data de sua publicação.<br>
-Palácio dos Bandeirantes, 24 de julho de 2002.<br>
-GERALDO ALCKMIN<br>
-Fernando Dall’Acqua<br>
-Secretário da Fazenda<br>
-Lourival Carmo Monaco<br>
-Respondendo pelo expediente da Secretaria de Agricultura e Abastecimento<br>
-Saulo de Castro Abreu Filho<br>
-Secretário da Segurança Pública<br>
-José Goldemberg<br>
-Secretário do Meio Ambiente<br>
-Rubens Lara<br>
-Secretário-Chefe da Casa Civil<br>
-Dalmo Nogueira Filho<br>
-Secretário do Governo e Gestão Estratégica<br>
+**Artigo 8° -** A Secretaria de Estado dos Negócios da Segurança Pública, no prazo de 90 (noventa) dias da publicação desta lei, baixará as instruções necessárias ao seu cumprimento, inclusive estabelecendo o rito para a tramitação dos processos administrativos destinados a apurar os ilícitos eventualmente praticados bem como os modelos de Auto de Infração e Auto de Apreensão de Petrechos de Pesca.**
+
+Artigo 9° -** Fica acrescentado o item 17, à Tabela "B", anexa à [Lei n. 7.645, de 23 de dezembro de 1991](https://www.al.sp.gov.br/norma/18882), com a seguinte redação:
+
+"17 - Licença para Pesca Amadora:
+
+17.1 - pesca embarcada .......................... 10,000;
+
+17.2 - pesca desembarcada ...................... 5,000."**
+
+Artigo 10 -** Esta lei entra em vigor no prazo de 90 (noventa) dias contados da data de sua publicação.
+
+Palácio dos Bandeirantes, 24 de julho de 2002.
+
+GERALDO ALCKMIN
+
+Fernando Dall’Acqua
+
+Secretário da Fazenda
+
+Lourival Carmo Monaco
+
+Respondendo pelo expediente da Secretaria de Agricultura e Abastecimento
+
+Saulo de Castro Abreu Filho
+
+Secretário da Segurança Pública
+
+José Goldemberg
+
+Secretário do Meio Ambiente
+
+Rubens Lara
+
+Secretário-Chefe da Casa Civil
+
+Dalmo Nogueira Filho
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, aos 24 de julho de 2002.

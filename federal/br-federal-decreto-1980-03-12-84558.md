@@ -1,5 +1,3 @@
-###DEC-084558-0-000-12-03-1980@@@
-
 decreto nº 84.558, de 12 de março de 1980.
 
 Cria a Embaixada do Brasil na República do Burundi.

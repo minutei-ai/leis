@@ -1,5 +1,3 @@
-###MPV-001570-0-000-26-03-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.570, DE 26 DE MARÇO DE 1997
 
 Disciplina a aplicação da tutela antecipada contra a Fazenda Pública, altera as Leis nºs 8.437, de 30 de junho de 1992, e 7.347, de 24 de julho de 1985, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078615-0-000-25-10-1976@@@
-
 DECRETO Nº 78.615, DE 25 DE OUTUBRO DE 1976.
 
 Concede à SOMINE - Sociedade Mineradora do Nordeste Limitada o direito de lavrar mármore no Município de Itapebi, Estado da Bahia.

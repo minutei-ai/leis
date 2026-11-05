@@ -1,5 +1,3 @@
-###DEC-086056-0-000-01-06-1981@@@
-
 Decreto nº 86.056, DE 01 de junho de 1981.
 
 Altera dispositivos do Cerimonial da Marinha do Brasil, aprovado pelo Decreto nº 43.807, de 27 de maio de 1958, alterado pelos Decretos nºs 61.048, de 21 de julho de 1967, 62.522, de 15 de abril de 1968, 65.840, de 11 de dezembro de 1969 e 76.768, de 11 de dezembro de 1975.

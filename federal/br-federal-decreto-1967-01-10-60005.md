@@ -1,5 +1,3 @@
-###DEC-060005-0-000-10-01-1967@@@
-
 DECRETO Nº 60.005, DE 10 DE JANEIRO DE 1967.
 
 Renova o Decreto nº 53.217, de 12 de dezembro de 1963.

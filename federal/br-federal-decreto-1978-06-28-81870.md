@@ -1,5 +1,3 @@
-###DEC-081870-0-000-28-06-1978@@@
-
 Decreto nº 81.870, de 28 de junho de 1978.
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Economia Doméstica da Universidade Federal Rural de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

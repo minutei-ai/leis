@@ -1,5 +1,3 @@
-###DEC-065670-0-000-29-10-1969@@@
-
 DECRETO Nº 65.670, DE 29 DE OUTUBRO DE 1969.
 
 Concede permissão, em caráter permanente, à Indústria Papeleira Santa Mônica Ltda., com sede em São José dos Pinhais, Estado do Paraná, para funcionar aos domingos e feriados civis e religiosos.

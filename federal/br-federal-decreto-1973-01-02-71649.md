@@ -1,5 +1,3 @@
-###DEC-071649-0-000-02-01-1973@@@
-
 DECRETO Nº 71.649, DE 2 DE JANEIRO DE 1973.
 
 Concede reconhecimento ao Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras Santa Úrsula da Associação Universitária Santa Úrsula, Guanabara.

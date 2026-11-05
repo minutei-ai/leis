@@ -1,7 +1,3 @@
-1
-
-###DEC-097749-0-000-15-05-1989@@@
-
 DECRETO Nº 97.749, DE 15 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Administração de Sistemas de Informações do Instituto de Ciências Exatas, em Brasília, Distrito Federal.

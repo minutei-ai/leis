@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209602)<br>
-
 # LEI N° 17.948, DE 19 DE JUNHO DE 2024
 
 ## (Projeto de lei n° 1611/2023, da Deputada Ediane Maria - PSOL)

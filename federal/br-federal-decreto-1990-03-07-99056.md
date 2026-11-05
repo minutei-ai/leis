@@ -1,7 +1,3 @@
-1
-
-###DEC-099056-0-000-07-03-1990@@@
-
 DECRETO N° 99.056, DE 7 DE MARÇO DE 1990
 
 Outorga concessão à TV SANTA MARIA LTDA., para explorar serviço de radiodifu­são de sons e imagens (televisão), na cida­de de Santa Maria, Estado do Rio Grande do Sul.

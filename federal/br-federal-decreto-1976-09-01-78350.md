@@ -1,5 +1,3 @@
-###DEC-078350-0-000-01-09-1976@@@
-
 decreto nº 78.350, de 1º de setembro de 1976.
 
 Altera dispositivo do Regulamento da Ordem do Mérito Aeronáutico.

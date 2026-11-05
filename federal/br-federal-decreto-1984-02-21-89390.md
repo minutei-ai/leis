@@ -1,5 +1,3 @@
-###DEC-089390-0-000-21-02-1984@@@
-
 Decreto nº 89.390, de 21 de fevereiro de 1984.
 
 Concede autorização ao navio de pesquisa "GYRE", de bandeira norte-americana, para realizar em águas brasileiras os serviços que especifica.

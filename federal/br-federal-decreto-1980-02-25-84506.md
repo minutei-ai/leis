@@ -1,5 +1,3 @@
-###DEC-084506-0-000-25-02-1980@@@
-
 DECRETO Nº 84.506, DE 25 DE FEVEREIRO DE 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO EDUCADORA DO MARANHÃO RURAL LTDA., para executar serviço de radiodifusão sonora em onda média, de âmbito regional, na cidade de São Luís, Estado do Maranhão.

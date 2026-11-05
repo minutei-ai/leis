@@ -1,5 +1,3 @@
-###DEC-003937-0-000-25-09-2001@@@
-
 DECRETO Nº 3.937, DE 25 DE SETEMBRO DE 2001
 
  Regulamenta a Lei nº 6.704, de 26 de outubro de 1979, que dispõe sobre o Seguro de Crédito à Exportação, e dá outras providências.

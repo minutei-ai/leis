@@ -1,5 +1,3 @@
-###DEC-085615-0-000-05-01-1981@@@
-
 decreto nº 85.615, de 05 de janeiro de 1981
 
 Autoriza o aumento de potência DA RÁDIO DIFUSORA DE ITÁPOLIS LTDA., na cidade de Itápolis, Estado de São Paulo.

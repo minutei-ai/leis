@@ -1,14 +1,12 @@
-###DEC-042335-0-000-26-09-1957@@@
+**DECRETO Nº 42.335, DE 26 DE SETEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.335, DE 26 DE SETEMBRO DE 1957.</strong>
+***Altera a redação do parágrafo único do artigo 11 e do artigo 12 do Decreto nº 38.968, de 4 de abril de 1956.***
 
-<em><strong>Altera a redação do parágrafo único do artigo 11 e do artigo 12 do Decreto nº 38.968, de 4 de abril de 1956.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º. O parágrafo único do artigo 11 e do artigo 12 do Decreto nº 38.968, de 4 de abril de 1956, passam a ter a seguinte redação:
+**Art**. 1º. O parágrafo único do artigo 11 e do artigo 12 do Decreto nº 38.968, de 4 de abril de 1956, passam a ter a seguinte redação:
 
 “Artigo 11. ...............................................................................................................................
 
@@ -34,10 +32,10 @@ b) certidão, fornecida pela Coletoria Federal, do valor da arrecadação federa
 
 c) demonstração dos recursos de que dispõe a Prefeitura para custear, se fôr o caso, a parte dos serviços que exceder ao montante do financiamento, de acôrdo com o art. 10”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 26 de setembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos

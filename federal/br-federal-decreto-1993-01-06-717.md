@@ -1,7 +1,3 @@
-1
-
-###DEC-000717-0-000-06-01-1993@@@
-
 DECRETO N° 717, DE 6 DE JANEIRO DE 1993
 
 Dá nova redação a dispositivo do regulamento de promoções da carreira de diplomata do serviço exterior, aprovado pelo Decreto n° 93.326, de 1º de outubro de 1986.

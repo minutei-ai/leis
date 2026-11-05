@@ -1,7 +1,6 @@
-Senado Federal<br>
-Legislação Brasileira - Normas Jurídicas em Texto Integral
+Senado Federal
 
-###DEC-003406-0-000-06-04-2000@@@
+Legislação Brasileira - Normas Jurídicas em Texto Integral
 
 DECRETO Nº 3.406, DE 6 DE ABRIL DE 2000.
 

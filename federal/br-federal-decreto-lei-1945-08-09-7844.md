@@ -1,5 +1,3 @@
-###DEL-007844-0-000-09-08-1945@@@
-
 DECRETO-LEI N. 7.844 – DE 9 DE AGÔSTO DE 1945
 
 Altera a carreira de Arquivista do Quadro Permanente do Departamento Administrativo do Serviço Público.

@@ -1,5 +1,3 @@
-###DEL-007696-0-000-30-06-1945@@@
-
 DECRETO-LEI N. 7.696 – DE 30 DE JUNHO DE 1945
 
 Cria função gratificada no Quadro Permanente do Ministério da Educação e Saúde e dá outras providências.

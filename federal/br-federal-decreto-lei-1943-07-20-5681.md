@@ -1,5 +1,3 @@
-###DEL-005681-0-000-20-07-1943@@@
-
 DECRETO‑LEI N. 5.681 – DE 20 DE JULHO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 8.000,00, para pagamento de gratificação de representação

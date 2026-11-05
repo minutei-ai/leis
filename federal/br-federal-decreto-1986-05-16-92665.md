@@ -1,5 +1,3 @@
-###DEC-092665-0-000-16-05-1986@@@
-
 DECRETO Nº 92.665, DE 16 DE MAIO DE 1986
 
 Renova a concessão outorgada à RÁDIO DIFUSORA MARAVILHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Maravilha, Estado de Santa Catarina.

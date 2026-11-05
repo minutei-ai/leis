@@ -1,7 +1,3 @@
-1
-
-###DEC-097878-0-000-26-06-1989@@@
-
 DECRETO N° 97.878, DE 26 DE JUNHO DE 1989
 
 Autoriza o funcionamento do curso de Direito, da Faculdade de Direito de Cuiabá.

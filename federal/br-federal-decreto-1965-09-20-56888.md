@@ -1,5 +1,3 @@
-###DEC-056888-0-000-20-09-1965@@@
-
 DECRETO Nº 56.888, DE 20 DE SETEMBRO DE 1965.
 
 Cria função gratificada na Comissão da Classificação de Cargos.

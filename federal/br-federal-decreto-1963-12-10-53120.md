@@ -1,5 +1,3 @@
-###DEC-053120-0-000-10-12-1963@@@
-
 DECRETO Nº 53.120, DE 10 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Alumínio a pesquisar Bauxita no município de Poços de Caldas,. Estado de Minas Gerais.

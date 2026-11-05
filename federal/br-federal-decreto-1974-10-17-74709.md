@@ -1,5 +1,3 @@
-###DEC-074709-0-000-17-10-1974@@@
-
 DECRETO Nº 74.709, DE 17 DE OUTUBRO DE 1974
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras "Prof. Carlos Pasquale", mantida pela Sociedade Educacional "Liceu Acadêmico São Paulo", com sede na cidade de São Paulo, Estado de São Paulo.

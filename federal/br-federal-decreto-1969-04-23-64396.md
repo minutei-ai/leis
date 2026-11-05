@@ -1,5 +1,3 @@
-###DEC-064396-0-000-23-04-1969@@@
-
 Decreto Nº 64.396, DE 23 DE ABRIL DE 1969.
 
 Dispõe sôbre o uso das insígnias da Ordem do Mérito do Trabalho.

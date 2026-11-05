@@ -1,5 +1,3 @@
-###DEC-006878-0-000-18-06-2009@@@
-
 DECRETO Nº 6.878, DE 18 DE JUNHO DE 2009.
 
 Altera e acresce artigo ao Anexo I do Decreto no 4.727, de 9 de junho de 2003, que aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Fundação Nacional de Saúde - FUNASA, e dá outras providências.

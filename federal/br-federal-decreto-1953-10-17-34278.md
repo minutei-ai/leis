@@ -1,14 +1,12 @@
-###DEC-034278-0-000-17-10-1953@@@
+**DECRETO Nº 34.278, DE 17 DE OUTUBRO DE 1953.**
 
-<strong>DECRETO Nº 34.278, DE 17 DE OUTUBRO DE 1953.</strong>
+***Modifica a redação do artigo 13, alínea “a”, do Decreto número 23.905, de 22- II- 934 (Regulamento da Confederação Colombófila Brasileira).***
 
-<em><strong>Modifica a redação do artigo 13, alínea “a”, do Decreto número 23.905, de 22- II- 934 (Regulamento da Confederação Colombófila Brasileira).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Ar</strong>t. 1º - O artigo 13, alínea “<em>o</em>” e o artigo 42, alínea “<em>b</em>”, do Decreto número 23.905, de 22 de fevereiro de 1934, (Regulamento da Confederação Colombóla Brasileira) passam a ter, respectivamente, a seguinte redação:
+**Ar**t. 1º - O artigo 13, alínea “*o*” e o artigo 42, alínea “*b*”, do Decreto número 23.905, de 22 de fevereiro de 1934, (Regulamento da Confederação Colombóla Brasileira) passam a ter, respectivamente, a seguinte redação:
 
 a) Artigo 13 .............................................................................................................................
 
@@ -24,12 +22,12 @@ b) Artigo 42 ...................................................................
 
 b) - medalhas de “Vermeil”, prata e bronze:
 
-<strong>Art</strong>. 2º - Ficam assegurados os direitos adquiridos até a data da publicação dêste Decreto.
+**Art**. 2º - Ficam assegurados os direitos adquiridos até a data da publicação dêste Decreto.
 
-<strong>Art</strong>. 3º - Revogam-se as disposições em contrário.
+**Art**. 3º - Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 17 de outubro de 1953, 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Cyro Espírito Santo Cardoso

@@ -1,5 +1,3 @@
-###DEC-054703-0-000-29-10-1964@@@
-
 DECRETO Nº 54.703, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a Centrais Elétricas de Goiás S.A. a construir linha de transmissão.

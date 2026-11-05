@@ -1,5 +1,3 @@
-###DEC-053456-0-000-20-01-1964@@@
-
 DECRETO Nº 53.456, DE 20 DE JANEIRO DE 1964.
 
 Transfere de Rafael de Fuccio para a Prefeitura Municipal de Simonésia, Estado de Minas Gerais, a concessão para produzir e distribuir energia elétrica no município de Simonésia.

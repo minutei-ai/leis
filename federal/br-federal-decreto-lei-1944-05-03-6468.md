@@ -1,5 +1,3 @@
-###DEL-006468-0-000-03-05-1944@@@
-
 DECRETO-LEI N. 6.468 – DE 3 DE MAIO DE 1944
 
 Altera carreiras do Quadro Suplementar do Ministério da Guerra e dá outras providências

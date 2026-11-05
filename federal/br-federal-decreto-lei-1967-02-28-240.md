@@ -1,5 +1,3 @@
-###DEL-000240-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 240, DE 28 DE FEVEREIRO DE 1967
 
 Define a política e o sistema nacional de metrologia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-050674-0-000-31-05-1961@@@
-
 DECRETO Nº 50.674, DE 31 DE MAIO DE 1961.
 
 Transfere da utilização e ocupação pelo Ministério da Marinha, para o Ministério da Saúde, o imóvel que menciona.

@@ -1,5 +1,3 @@
-###DEC-056753-0-000-19-08-1965@@@
-
 DECRETO Nº 56.753, DE 19 DE AGÔSTO DE 1965.
 
 Declara de utilidade pública a “Irmandade do Hospital de Nossa Senhora das Dôres”, com sede em Ponte Nova, Estado de Minas Gerais.

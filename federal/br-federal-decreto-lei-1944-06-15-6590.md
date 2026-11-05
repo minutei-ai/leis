@@ -1,5 +1,3 @@
-###DEL-006590-0-000-15-06-1944@@@
-
 DECRETO LEI N. 6.590 – DE 15 DE JUNHO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 1.827.232,70, para pagamento da contas de transportes efetuados pelos Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará

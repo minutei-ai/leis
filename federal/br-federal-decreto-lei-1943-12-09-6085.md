@@ -1,5 +1,3 @@
-###DEL-006085-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.085 – DE 9 DE DEZEMBRO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a isentar a "Venerável e Arquiepiscopal Ordem 3ª de Nossa Senhora do Monte do Carmo" do pagamento do im­posto que menciona

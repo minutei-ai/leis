@@ -1,5 +1,3 @@
-###DEC-083736-0-000-18-07-1979@@@
-
 decreto nº 83.736, de 18 de julho de 1979.
 
 Concede à Mineração Taboca S.A. o direito de lavrar cassiterita no Município de Ariquemes, Território Federal de Rondônia.

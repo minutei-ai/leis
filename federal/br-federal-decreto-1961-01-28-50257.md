@@ -1,5 +1,3 @@
-###DEC-050257-0-000-28-01-1961@@@
-
 Decreto nº 50.257, de 28 de janeiro de 1961.
 
 Autoriza estrangeiros a adquirir, em regime de ocupação, a fração ideal do terreno de marinha e acrescido que menciona, em São Vicente, São Paulo.

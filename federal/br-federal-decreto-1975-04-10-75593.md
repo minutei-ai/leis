@@ -1,5 +1,3 @@
-###DEC-075593-0-000-10-04-1975@@@
-
 DECRETO Nº 75.593, DE 10 DE ABRIL DE 1975.
 
 Outorga à Serrarias Reunidas Irmãos Fernandes S.A. concessão para o uso exclusivo do aproveitamento hidráulico de um trecho do Rio Jangada, no Município de General Carneiro, Estado do Paraná.

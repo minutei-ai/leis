@@ -1,15 +1,19 @@
 LEI Nº 8.261 DE 29 DE MAIO DE 2002 \[Download\]
 
-Esta Lei encontra-se disponível na íntegra (com todos os anexos), através da opção de Download.<br>
-Ver também:<br>
-Decreto nº [13.202](https://www.legislabahia.ba.gov.br/documentos/decreto-no-13202-de-19-de-agosto-de-2011), de 19 de agosto de 2011 - Regulamenta o artigo 18 da Lei nº 8.261, de 29 de maio de 2002, dispondo sobre os critérios e procedimentos do processo seletivo interno a ser realizado pela unidade escolar, requisito para o preenchimento dos cargos de Diretor e Vice-diretor das Unidades Escolares do Estado da Bahia, e dá outras providências.<br>
+Esta Lei encontra-se disponível na íntegra (com todos os anexos), através da opção de Download.
+
+Ver também:
+
+Decreto nº [13.202](https://www.legislabahia.ba.gov.br/documentos/decreto-no-13202-de-19-de-agosto-de-2011), de 19 de agosto de 2011 - Regulamenta o artigo 18 da Lei nº 8.261, de 29 de maio de 2002, dispondo sobre os critérios e procedimentos do processo seletivo interno a ser realizado pela unidade escolar, requisito para o preenchimento dos cargos de Diretor e Vice-diretor das Unidades Escolares do Estado da Bahia, e dá outras providências.
+
 Decreto nº [11.218](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11218-de-18-de-setembro-de-2008), de 18 de setembro de 2008 - Regulamenta o artigo 18 da Lei nº 8.261, de 29 de maio de 2002, dispondo sobre os critérios e procedimentos do processo seletivo interno a ser realizado pela unidade escolar, requisitos para o preenchimento dos cargos de Diretor e Vice-diretor das Escolas Públicas do Estado da Bahia, e dá outras providências.  (Revogado pelo Decreto nº 13.202, de 19 de agosto de 2011).
 
 Dispõe sobre o Estatuto do Magistério Público do Ensino Fundamental e Médio do Estado da Bahia e dá outras providências.
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES E PRINCÍPIOS
 
 **Art. 1º -** Esta Lei disciplina o regime jurídico do Magistério Público do Ensino Fundamental e Médio do Estado da Bahia e consubstancia o seu estatuto especial previsto na Constituição Estadual.
@@ -34,7 +38,8 @@ DISPOSIÇÕES PRELIMINARES E PRINCÍPIOS
 
 **VIII -** qualidade do ensino e preservação dos valores regionais e locais.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ORGANIZAÇÃO DO MAGISTÉRIO
 
 **Art. 3º** - Para os efeitos desta lei, entende-se por:
@@ -161,9 +166,12 @@ DA ORGANIZAÇÃO DO MAGISTÉRIO
 
 **Art. 18 -** Somente poderão exercer os cargos em comissão do Magistério Público Estadual do Ensino Fundamental e Médio, exceto o de Secretário Escolar, os ocupantes de cargo permanente da carreira de magistério, com formação em licenciatura plena, após aprovação prévia em processo seletivo interno e certificação, conforme critérios e procedimentos estabelecidos em regulamento.
 
-Ver também:<br>
-Decreto nº [16.385](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16385-de-26-de-outubro-de-2015) de 26 de outubro de 2015 - Dispõe sobre os critérios e procedimentos do processo seletivo interno a ser realizado pela unidade escolar, requisitos para o preenchimento dos cargos de Diretor e Vice-Diretor das unidades escolares estaduais, conforme disposto no art. 18 da Lei nº 8.261, de 29 de maio de 2002 - Estatuto do Magistério, e dá outras providências.<br>
-Regulamentado pelo Decreto nº 13.202, de 19 de agosto de 2011.<br>
+Ver também:
+
+Decreto nº [16.385](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16385-de-26-de-outubro-de-2015) de 26 de outubro de 2015 - Dispõe sobre os critérios e procedimentos do processo seletivo interno a ser realizado pela unidade escolar, requisitos para o preenchimento dos cargos de Diretor e Vice-Diretor das unidades escolares estaduais, conforme disposto no art. 18 da Lei nº 8.261, de 29 de maio de 2002 - Estatuto do Magistério, e dá outras providências.
+
+Regulamentado pelo Decreto nº 13.202, de 19 de agosto de 2011.
+
 Regulamentado pelo Decreto nº 11.218, de 18 de setembro de 2008. (Revogado pelo Decreto nº 13.202, de 19 de agosto de 2011)
 
 **§ 1º** - Na hipótese de não haver na Unidade Escolar profissionais com formação em licenciatura plena o candidato ao cargo em comissão deverá contar com o mínimo de 05 (cinco) anos de exercício de magistério na Unidade Escolar.
@@ -176,7 +184,8 @@ Regulamentado pelo Decreto nº 11.218, de 18 de setembro de 2008. (Revogado pelo
 
 **Art. 21** - O ingresso nos cargos da carreira do magistério público estadual depende de aprovação prévia em concurso público de provas e títulos, de acordo com a natureza e a complexidade do cargo, na forma prevista nesta Lei e observada as demais legislações específicas para cada caso.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA ORGANIZAÇÃO ADMINISTRATIVA
 
 **Art. 22 -** Na organização administrativa e pedagógica das unidades escolares, haverá, de acordo com a categoria da respectiva unidade escolar e o nível de escolaridade do titular do cargo, os cargos em comissão de Diretor, Vice-Diretor e Secretário Escolar, na forma estabelecida no Anexo V desta Lei.
@@ -191,7 +200,8 @@ DA ORGANIZAÇÃO ADMINISTRATIVA
 
 Parágrafo único - A distribuição da carga horária do Diretor e do Vice-Diretor será objeto de regulamentação por Decreto.
 
-Redação de acordo o art. 14 da Lei nº [14.032](https://www.legislabahia.ba.gov.br/documentos/lei-no-14032-de-18-de-dezembro-de-2018) de 18 de dezembro de 2018.<br>
+Redação de acordo o art. 14 da Lei nº [14.032](https://www.legislabahia.ba.gov.br/documentos/lei-no-14032-de-18-de-dezembro-de-2018) de 18 de dezembro de 2018.
+
 Redação original: "Art. 23 - O Diretor e o Secretário Escolar exercerão o cargo em regime de tempo integral e o Vice-Diretor em regime de tempo parcial, de conformidade com o disposto no Anexo VI desta Lei, podendo o Vice-Diretor vir a ser submetido ao regime de tempo integral nas hipóteses a serem definidas em decreto regulamentar."
 
 **Art. 24 -** São atribuições do Diretor:
@@ -306,10 +316,12 @@ Redação original: "Art. 23 - O Diretor e o Secretário Escolar exercerão o ca
 
 **XV -**    executar outras atribuições correlatas e afins determinadas pela direção.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 NORMAS FUNCIONAIS ESPECIAIS
 
-SEÇÃO I -<br>
+SEÇÃO I -
+
 REMOÇÃO
 
 **Art. 27 -** Para os fins deste estatuto, remoção é a movimentação do ocupante de cargo do magistério de uma para outra unidade escolar, ainda que da mesma localidade.
@@ -360,7 +372,8 @@ REMOÇÃO
 
 **V -**      de idade maior.
 
-SEÇÃO II -<br>
+SEÇÃO II -
+
 AVANÇO
 
 **Art. 32** - Ao servidor do magistério é assegurado o direito à percepção de vantagem de avanço em virtude de tempo de efetivo exercício no Magistério Público do Ensino Fundamental e Médio do Estado da Bahia ou de obtenção de titulação específica.
@@ -393,7 +406,8 @@ AVANÇO
 
 **Art. 39 -** O preenchimento mediante progressão funcional por avanço vertical, dos cargos criados por esta Lei, obedecerá ao limite máximo de 60% (sessenta por cento) das vagas existentes anualmente.
 
-Redação do art. 39 de acordo com o art. 1º da Lei nº [9.838](https://www.legislabahia.ba.gov.br/documentos/lei-no-9838-de-19-de-dezembro-de-2005), de 19 de dezembro de 2005.<br>
+Redação do art. 39 de acordo com o art. 1º da Lei nº [9.838](https://www.legislabahia.ba.gov.br/documentos/lei-no-9838-de-19-de-dezembro-de-2005), de 19 de dezembro de 2005.
+
 Redação original: "Art. 39 - O preenchimento mediante progressão funcional por avanço vertical, dos cargos criados por esta Lei, obedecerá ao limite máximo de 40% (quarenta por cento) das vagas existentes anualmente."
 
 **Art. 40 -** O interstício será apurado em dias de efetivo exercício no nível, sendo considerado para este efeito os afastamentos por motivos de:
@@ -472,12 +486,14 @@ Redação original: "Art. 39 - O preenchimento mediante progressão funcional po
 
 **§ 2º -** As vantagens decorrentes da progressão, a que se refere este artigo, somente serão devidas a partir da data estabelecida no respectivo ato de concessão expedido pelo Secretário da Educação.
 
-SEÇÃO III -<br>
+SEÇÃO III -
+
 FÉRIAS
 
 **Art. 43** - O período de férias anuais do servidor do quadro do Magistério Público do Ensino Fundamental e Médio é de 30 (trinta) dias consecutivos, considerando-se como de recesso escolar os dias excedentes a esse prazo em que, de acordo com o calendário da respectiva instituição, não haja exercício de atividade docente.
 
-SEÇÃO IV -<br>
+SEÇÃO IV -
+
 REGIME DE TRABALHO
 
 **Art. 44 -** Os servidores que exerçam atividades de docência e de suporte pedagógico direto à docência, integrantes do quadro do Magistério Público Estadual de Ensino Fundamental e Médio submeter-se-ão a um dos seguintes Regimes de Trabalho:
@@ -562,7 +578,8 @@ REGIME DE TRABALHO
 
 **Art. 55** - Para o desenvolvimento das atividades complementares deverá ser reservada 1/3 (um terço) da carga horária correspondente ao regime de trabalho a que estão submetidos os professores da 5ª a 8ª série do Ensino Fundamental e os do Ensino Médio, na forma estabelecida no Anexo VII desta Lei.
 
-Redação de acordo com a Lei nº [12.904](https://www.legislabahia.ba.gov.br/documentos/lei-no-12904-de-17-de-setembro-de-2013), de 17 de setembro de 2013.<br>
+Redação de acordo com a Lei nº [12.904](https://www.legislabahia.ba.gov.br/documentos/lei-no-12904-de-17-de-setembro-de-2013), de 17 de setembro de 2013.
+
 Redação original: "Art. 55 - Para desenvolvimento das atividades complementares dos professores da 5ª a 8ª séries do Ensino Fundamental e os do Ensino Médio deverão ser reservadas 25% (vinte e cinco por cento) da carga horária correspondente ao regime de trabalho a que os mesmos se subordinem, e a partir de 1º de janeiro de 2003 deverão ser reservadas as cargas horárias estabelecidas no anexo VII desta Lei."
 
 **Art. 56 -** Considera-se Atividade Complementar, a carga horária destinada, pelos professores em efetiva regência de classe, com a participação coletiva dos docentes, por área de conhecimento, à preparação e avaliação do trabalho didático, às reuniões pedagógicas e ao aperfeiçoamento profissional, de acordo com a proposta pedagógica de cada Unidade Escolar.
@@ -587,7 +604,8 @@ Redação original: "Art. 55 - Para desenvolvimento das atividades complementare
 
 **III -**     as atividades de livre escolha - destinadas à preparação de aulas e a avaliação de trabalhos de alunos.
 
-SEÇÃO V -<br>
+SEÇÃO V -
+
 DO ENQUADRAMENTO
 
 **Art. 59** - Fica assegurado aos atuais professores não licenciados o direito ao enquadramento na Carreira do Magistério Público Estadual do Ensino Fundamental e Médio, quando obtiverem a habilitação específica para o exercício do magistério.
@@ -600,7 +618,8 @@ DO ENQUADRAMENTO
 
 **§ 4º** - Aos atuais professores não licenciados que se encontrem no exercício do magistério a título precário e não preenchem os requisitos previstos no Anexo VIII desta Lei serão atribuídos vencimentos correspondentes ao Nível 02.
 
-SEÇÃO VI -<br>
+SEÇÃO VI -
+
 AFASTAMENTOS E VANTAGENS
 
 **Art. 60 -** Ao professor ou Coordenador Pedagógico que contrair doença pela natureza ou por conta da sua atividade, serão assegurados os direitos previstos na Lei nº 6.677, de 26 de setembro de 1994.
@@ -645,7 +664,8 @@ AFASTAMENTOS E VANTAGENS
 
 **III -**     exercício de função de Secretário Municipal de Educação;
 
-Redação de acordo com a Lei nº [13.728](https://www.legislabahia.ba.gov.br/documentos/lei-no-13728-de-05-de-julho-de-2017) , de 05 de julho de 2017.<br>
+Redação de acordo com a Lei nº [13.728](https://www.legislabahia.ba.gov.br/documentos/lei-no-13728-de-05-de-julho-de-2017) , de 05 de julho de 2017.
+
 Redação original: " III- opção, de acordo com o disposto no parágrafo único do artigo 30."
 
 **IV** -     opção, de acordo com o disposto no parágrafo único do art. 30 desta Lei.
@@ -736,12 +756,14 @@ Inciso XII acrescido ao art. 71 pela Lei nº [12.904](https://www.legislabahia.b
 
 **<REVOGADO>Art. 73-A -** Investido em cargo de Diretor ou Vice-Diretor de unidade escolar, o Professor poderá optar pela continuidade da percepção da Gratificação de Estímulo às Atividades de Classe, caso em que a Gratificação por Condições Especiais de Trabalho - CET corresponderá à diferença entre o valor atribuído ao cargo em comissão e o da primeira vantagem.
 
-Revogado pelo art. 2º da Lei nº [14.187](https://www.legislabahia.ba.gov.br/documentos/lei-no-14187-de-16-de-janeiro-de-2020) de 16 de janeiro de 2020.<br>
+Revogado pelo art. 2º da Lei nº [14.187](https://www.legislabahia.ba.gov.br/documentos/lei-no-14187-de-16-de-janeiro-de-2020) de 16 de janeiro de 2020.
+
 Art. 73-A acrescido pelo art. 1º da Lei nº 13.188, de 01 de julho de 2014.
 
 **Art. 74 -** O Professor e o Coordenador Pedagógico, mesmo no exercício de cargo comissionado do quadro do Magistério Público Estadual do Ensino Fundamental e Médio, que exerçam as atribuições do seu cargo em Unidades Escolares situadas em localidades de difícil acesso, terão assegurado o direito à percepção de até 30% (trinta por cento) do vencimento básico do cargo ocupado, na forma determinada em regulamento.
 
-Redação de acordo o art. 14 da Lei nº [14.032](https://www.legislabahia.ba.gov.br/documentos/lei-no-14032-de-18-de-dezembro-de-2018) de 18 de dezembro de 2018.<br>
+Redação de acordo o art. 14 da Lei nº [14.032](https://www.legislabahia.ba.gov.br/documentos/lei-no-14032-de-18-de-dezembro-de-2018) de 18 de dezembro de 2018.
+
 Redação original: "Art. 74 - O Professor e o Coordenador Pedagógico, mesmo no exercício de cargo comissionado do quadro do Magistério Público Estadual do Ensino Fundamental e Médio, que exerça as atribuições do seu cargo em Unidades Escolares situadas em localidades inóspitas, de difícil acesso, insalubre, insegura ou de precárias condições de vida, terá assegurado o direito à percepção de até 30% (trinta por cento) do vencimento básico do cargo ocupado, na forma determinada em regulamento."
 
 **Art. 75 -** Para fins do disposto no artigo anterior, considera-se como de difícil acesso as Unidades Escolares, quando localizadas:
@@ -812,26 +834,30 @@ Redação original: "Art. 74 - O Professor e o Coordenador Pedagógico, mesmo no
 
 **Art. 82 -** O Professor e o Coordenador Pedagógico farão jus à Gratificação de Estímulo ao Aperfeiçoamento Profissional e à Melhoria do Ensino, devida em razão da qualificação profissional e da melhoria do desempenho escolar, desde que observados os seguintes requisitos:
 
-Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:"Art. 82-O Professor e o Coordenador Pedagógico farão jus à Gratificação de Estímulo ao Aperfeiçoamento Profissional por comprovação, com aproveitamento, de conclusão de cursos de atualização, aperfeiçoamento ou pós-graduação, desde que observados os seguintes requisitos: "
 
 Decreto nº [8.579](https://www.legislabahia.ba.gov.br/documentos/decreto-no-8579-de-04-de-julho-de-2003), de 04 de julho de 2003: Regulamenta a Gratificação de Estímulo ao Aperfeiçoamento Profissional dos Professores e Coordenadores Pedagógicos, integrantes do quadro do Magistério Público do Ensino Fundamental e Médio do Estado da Bahia.
 
 **I -**        existência de correlação entre o curso e a respectiva área de atuação, a ser aferida pela Secretaria de Educação previamente à realização do curso, na forma a ser definida em regulamento;
 
-Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:"I- existência de correlação entre o curso e a respectiva habilitação ou área de atuação;"
 
 **II -**      comprovação de aproveitamento dos cursos previstos no art. 83 desta Lei mediante apresentação de certificado ou diploma;
 
-Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:"II-comprovação de aproveitamento de curso, mediante apresentação do correspondente diploma ou certificado; "
 
 **III -**     cumprimento da carga horária mínima estabelecida, integralizada em único curso;
 
 **IV -**     que o curso tenha sido promovido pela Secretaria da Educação ou instituições públicas e privadas, nacionais ou estrangeiras, devidamente reconhecidas pelo Ministério da Educação - MEC;
 
-Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:"IV-curso promovido pela Secretaria da Educação ou instituições públicas e privadas, nacionais ou estrangeiras, devidamente reconhecidas pelo Ministério da Educação e do Desporto - MEC ou validadas pela Secretaria da Educação do Estado da Bahia. "
 
 **V** - alcance de meta anual de desempenho pela unidade escolar de lotação do Professor ou do Coordenador Pedagógico.
@@ -840,7 +866,8 @@ V acrescido pela Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-
 
 **§ 1º** -Para fins da Gratificação prevista neste artigo somente serão valorados cursos apresentados até o prazo máximo de 05(cinco) anos da data de expedição do respectivo diploma ou certificado.
 
-Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:"§ 1º Para fins da Gratificação prevista neste artigo somente serão valorados cursos concluídos a partir de 01 de janeiro de 1998. "
 
 **revogado§ 2º** - Os cursos ministrados por outras instituições somente serão considerados quando atendidos os critérios de equivalência estabelecidos pela Secretaria da Educação do Estado da Bahia.
@@ -855,7 +882,8 @@ Revogado pela lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no
 
 **Art. 83 -** A Gratificação de Estímulo ao Aperfeiçoamento Profissional e à Melhoria do Ensino será calculada sobre o vencimento básico atribuído ao cargo ocupado pelo servidor, nos seguintes percentuais:
 
-Redação de acordo com a Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:" Artº 83- A Gratificação de Estímulo ao Aperfeiçoamento Profissional será incidente sobre o vencimento ou salário básico atribuído ao cargo ocupado pelo beneficiário, no equivalente a:"
 
 **revogado I** \-       5% (cinco por cento) aos portadores de certificado de curso com duração mínima de 80 (oitenta) e máxima de 119 (cento e dezenove) horas;
@@ -864,7 +892,8 @@ Revogado pela Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-
 
 **II** \-       10% (dez por cento) aos portadores de certificado de curso com duração mínima de 270 (duzentas e setenta) horas e máxima de 359 (trezentos e cinquenta e nove) horas;
 
-Redação de acordo com a Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original:" II- 10% (dez por cento) aos portadores de certificado de curso com duração mínima de 120 (cento e vinte) e máxima de 359 (trezentos e cinqüenta e nove) horas;"
 
 **III** -     15% (quinze por cento) aos portadores de certificado de curso com duração mínima a partir de 360 (trezentos e sessenta) horas.
@@ -881,7 +910,8 @@ Incisos IV e V acrescidos ao art. 83 pelo art. 11 da Lei nº [8.480](https://www
 
 **Art. 84 -** Art. 84 - A concessão da Gratificação de Estímulo ao Aperfeiçoamento Profissional e à Melhoria do Ensino dar-se-á por ato da autoridade competente, nos termos estabelecidos em regulamento específico.  
 
-Redação de acordo com a Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.<br>
+Redação de acordo com a Lei [14.039](https://www.legislabahia.ba.gov.br/documentos/lei-no-14039-de-20-de-dezembro-de-2018) de 20 de dezembro de 2018.
+
 Redação original" Art 84- A concessão da Gratificação de Estímulo ao Aperfeiçoamento Profissional dar-se-á por ato da autoridade competente, nos termos estabelecidos em regulamento específico, que será elaborado pelo Poder Executivo no prazo de 180 (cento e oitenta) dias."
 
 **§ 1º** - A concessão da gratificação obedecerá ao interstício mínimo de 03 (três) anos cada.
@@ -902,7 +932,8 @@ Redação original" Art 84- A concessão da Gratificação de Estímulo ao Aperf
 
 **Art. 86 -** A Gratificação de Estímulo ao Aperfeiçoamento Profissional não servirá de base de cálculo para qualquer outra parcela remuneratória.
 
-SEÇÃO VII -<br>
+SEÇÃO VII -
+
 DEVERES E OUTRAS NORMAS ESPECIAIS
 
 **Art. 87 -** Aos integrantes do Magistério Público do Ensino Fundamental e Médio incumbe observar e cumprir, além dos que lhe são próprios em virtude da condição de servidor público, os seguintes deveres especiais:
@@ -965,7 +996,8 @@ DEVERES E OUTRAS NORMAS ESPECIAIS
 
 **§ 2º** - O disposto no presente artigo em nada modifica o direito de o servidor continuar no exercício do outro cargo que legalmente acumulava.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 **Art. 92 -** O Plano de Cargos e Salários do Magistério do Ensino Fundamental e Médio estruturará os cargos de carreira em classe, além dos níveis já constantes do Anexo III desta Lei.
@@ -1002,471 +1034,16 @@ Secretária da Educação
 
  
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:467.3pt;border-collapse:collapse;border:none" width="623"><tbody><tr><td colspan="3" style="width:467.3pt;border:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="623"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO I</span></b><br><b><span style="color:black">PROVIMENTO EFETIVO</span></b></p></td></tr><tr><td style="width:182.25pt;border:solid black 1.0pt;
-  border-top:none;background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="243"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NOMECLATURA</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NÍVEIS</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NÚMERO DE CARGOS</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">&nbsp;</span></b></p></td></tr><tr style="height:20.0pt"><td rowspan="4" style="width:182.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="243"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="color:black">PROFESSOR</span></p></td><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">24.000</span></p></td></tr><tr style="height:20.0pt"><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2.500</span></p></td></tr><tr style="height:20.0pt"><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">28.000</span></p></td></tr><tr style="height:20.0pt"><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">6.500</span></p></td></tr><tr style="height:20.0pt"><td rowspan="2" style="width:182.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="243"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3.100</span></p></td></tr><tr style="height:20.0pt"><td style="width:127.55pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">4</span></p></td><td style="width:157.5pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="210"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">500</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3" valign="top"> **ANEXO IPROVIMENTO EFETIVO** </td></tr><tr><td valign="top"> &nbsp; NOMECLATURA &nbsp; </td><td valign="top"> &nbsp; NÍVEIS &nbsp; </td><td valign="top"> &nbsp; NÚMERO DE CARGOS **&nbsp;** </td></tr><tr><td rowspan="4" valign="top"> &nbsp; &nbsp; PROFESSOR </td><td valign="top"> 1 </td><td valign="top"> 24.000 </td></tr><tr><td valign="top"> 2 </td><td valign="top"> 2.500 </td></tr><tr><td valign="top"> 3 </td><td valign="top"> 28.000 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 6.500 </td></tr><tr><td rowspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> 3 </td><td valign="top"> 3.100 </td></tr><tr><td valign="top"> 4 </td><td valign="top"> 500 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:466.7pt;border-collapse:collapse;border:none" width="622"><tbody><tr><td colspan="6" style="width:466.7pt;border:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="622"><p class="MsoNormal"><b><span style="color:black">ANEXO II</span></b><br><b><span style="color:black">TIPOLOGIA PARA COORDENAÇÃO PEDAGÓGICA</span></b></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td colspan="2" style="width:127.5pt;border:solid black 1.0pt;
-  border-top:none;background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">CATEGORIA</span></p></td><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">TURNO DE FUNCIONAMENTO</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">DENOMINAÇÃO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#BFBFBF;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">QUANTITATIVO</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:48.5pt"><td colspan="2" rowspan="2" style="width:127.5pt;border:
-  solid black 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Porte Especial – PE</span></b><span style="color:black"> Unidades Escolares com mais de 2.500 alunos matriculados e as assim consideradas por Decreto do Poder Executivo.</span></p></td><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:48.5pt"><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:48.5pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">6</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:63.5pt"><td colspan="2" rowspan="2" style="width:127.5pt;border:
-  solid black 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:63.5pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Grande Porte – GP</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">Unidades Escolares que possuem entre 1.401 e 2.500 alunos matriculados, as Agrotécnicas com mais de 250 alunos matriculados e&nbsp; as assim consideradas por Decreto do Poder Executivo.</span></p></td><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:63.5pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:63.5pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:63.5pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:74.0pt"><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:74.0pt"><td colspan="2" rowspan="2" style="width:127.5pt;border:
-  solid black 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Médio Porte – MP</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">Unidades Escolares que possuem entre 501 e 1.400 alunos matriculados, as Agrotécnicas com até 250 alunos matriculados e&nbsp; as assim consideradas por Decreto do Poder Executivo.</span></p></td><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:74.0pt"><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:74.0pt"><td colspan="2" rowspan="2" style="width:127.5pt;border:
-  solid black 1.0pt;border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Pequeno Porte – PP</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">Unidades Escolares que possuem entre 120 e 500 alunos matriculados e as assim consideradas por Decreto do Poder Executivo.</span></p></td><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="border:none;padding:0cm 0cm 0cm 0cm" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr style="height:74.0pt"><td style="width:102.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="137"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td colspan="2" style="width:127.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="170"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">COORDENADOR PEDAGÓGICO</span></p></td><td style="width:108.8pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:74.0pt" valign="top" width="145"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="border:none;border-bottom:solid black 1.0pt" width="2"><p class="MsoNormal">&nbsp;</p></td></tr><tr><td colspan="7" style="width:468.0pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="624"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO III</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">FORMAÇÃO PROFISSIONAL</span></b></p></td></tr><tr><td style="width:83.25pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NÍVEL</span></p></td><td colspan="6" style="width:384.75pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="513"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">FORMAÇÃO</span></p></td></tr><tr style="height:20.0pt"><td style="width:83.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">1</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td><td colspan="6" style="width:384.75pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="513"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="margin-left:18.0pt;text-indent:-18.0pt"><span style="font-size:12.0pt">-&nbsp;&nbsp;&nbsp;&nbsp; ENSINO MÉDIO ESPECÍFICO COMPLETO</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:20.0pt"><td style="width:83.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="6" style="width:384.75pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="513"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="margin-left:18.0pt;text-indent:-18.0pt"><span style="font-size:12.0pt">-&nbsp;&nbsp;&nbsp;&nbsp; LICENCIATURA CURTA</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:20.0pt"><td style="width:83.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="6" style="width:384.75pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="513"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="margin-left:18.0pt;text-indent:-18.0pt"><span style="font-size:12.0pt">-&nbsp;&nbsp;&nbsp;&nbsp; LICENCIATURA PLENA</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:20.0pt"><td style="width:83.25pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="111"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">4</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="6" style="width:384.75pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="513"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="margin-left:18.0pt;text-indent:-18.0pt"><span style="font-size:12.0pt">-&nbsp;&nbsp;&nbsp;&nbsp; LICENCIATURA PLENA COM ESPECIALIZAÇÃO EM NÍVEL DE PÓS -GRADUAÇÃO</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;&nbsp;&nbsp;&nbsp; COM CARGA HORÁRIA MÍNIMA DE 360 HORAS</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr><td colspan="7" style="width:468.0pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="624"><p class="MsoNormal"><b><span style="color:black">ANEXO IV</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="color:black">PROVIMENTO EM COMISSÃO</span></p></td></tr><tr><td colspan="4" style="width:234.0pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="color:black">DENOMINAÇÃO</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">&nbsp;</span></b></p></td><td colspan="3" style="width:234.0pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="color:black">NÚMERO DE CARGOS</span></p></td></tr><tr><td colspan="4" style="width:234.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">DIRETOR</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="color:black">&nbsp;</span></p></td><td colspan="3" style="width:234.0pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2.500</span></p></td></tr><tr><td colspan="4" style="width:234.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">VICE – DIRETOR</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="3" style="width:234.0pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">4.000</span></p></td></tr><tr><td colspan="4" style="width:234.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">SECRETÁRIO ESCOLAR</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td colspan="3" style="width:234.0pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="312"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3.000</span></p></td></tr><tr height="0"></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="6" valign="top"> **ANEXO IITIPOLOGIA PARA COORDENAÇÃO PEDAGÓGICA** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> &nbsp; CATEGORIA </td><td valign="top"> TURNO DE FUNCIONAMENTO </td><td colspan="2" valign="top"> &nbsp; DENOMINAÇÃO </td><td valign="top"> &nbsp; QUANTITATIVO </td><td> &nbsp; </td></tr><tr><td colspan="2" rowspan="2" valign="top"> &nbsp; **Porte Especial – PE** Unidades Escolares com mais de 2.500 alunos matriculados e as assim consideradas por Decreto do Poder Executivo. </td><td valign="top"> &nbsp; 2 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 3 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; 3 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 6 </td><td> &nbsp; </td></tr><tr><td colspan="2" rowspan="2" valign="top"> &nbsp; **Grande Porte – GP** Unidades Escolares que possuem entre 1.401 e 2.500 alunos matriculados, as Agrotécnicas com mais de 250 alunos matriculados e&nbsp; as assim consideradas por Decreto do Poder Executivo. </td><td valign="top"> &nbsp; 2 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 2 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; 3 </td><td colspan="2" valign="top"> &nbsp; &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; &nbsp; 3 </td><td> &nbsp; </td></tr><tr><td colspan="2" rowspan="2" valign="top"> **Médio Porte – MP** Unidades Escolares que possuem entre 501 e 1.400 alunos matriculados, as Agrotécnicas com até 250 alunos matriculados e&nbsp; as assim consideradas por Decreto do Poder Executivo. </td><td valign="top"> &nbsp; 2 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 1 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; 3 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 2 </td><td> &nbsp; </td></tr><tr><td colspan="2" rowspan="2" valign="top"> **Pequeno Porte – PP** Unidades Escolares que possuem entre 120 e 500 alunos matriculados e as assim consideradas por Decreto do Poder Executivo. </td><td valign="top"> &nbsp; 2 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 1 </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; 3 </td><td colspan="2" valign="top"> &nbsp; COORDENADOR PEDAGÓGICO </td><td valign="top"> &nbsp; 2 </td><td> &nbsp; </td></tr><tr><td colspan="7" valign="top"> **ANEXO III** &nbsp; **FORMAÇÃO PROFISSIONAL** </td></tr><tr><td valign="top"> &nbsp; NÍVEL </td><td colspan="6" valign="top"> &nbsp; FORMAÇÃO </td></tr><tr><td valign="top"> &nbsp; &nbsp; 1 &nbsp; </td><td colspan="6" valign="top"> &nbsp; &nbsp; -&nbsp;&nbsp;&nbsp;&nbsp; ENSINO MÉDIO ESPECÍFICO COMPLETO &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; 2 &nbsp; </td><td colspan="6" valign="top"> &nbsp; &nbsp; -&nbsp;&nbsp;&nbsp;&nbsp; LICENCIATURA CURTA &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; 3 &nbsp; </td><td colspan="6" valign="top"> &nbsp; &nbsp; -&nbsp;&nbsp;&nbsp;&nbsp; LICENCIATURA PLENA &nbsp; </td></tr><tr><td valign="top"> &nbsp; 4 &nbsp; </td><td colspan="6" valign="top"> &nbsp; -&nbsp;&nbsp;&nbsp;&nbsp; LICENCIATURA PLENA COM ESPECIALIZAÇÃO EM NÍVEL DE PÓS -GRADUAÇÃO &nbsp;&nbsp;&nbsp;&nbsp; COM CARGA HORÁRIA MÍNIMA DE 360 HORAS &nbsp; </td></tr><tr><td colspan="7" valign="top"> **ANEXO IV** &nbsp; PROVIMENTO EM COMISSÃO </td></tr><tr><td colspan="4" valign="top"> &nbsp; DENOMINAÇÃO **&nbsp;** </td><td colspan="3" valign="top"> &nbsp; NÚMERO DE CARGOS </td></tr><tr><td colspan="4" valign="top"> &nbsp; DIRETOR &nbsp; </td><td colspan="3" valign="top"> &nbsp; 2.500 </td></tr><tr><td colspan="4" valign="top"> &nbsp; VICE – DIRETOR &nbsp; </td><td colspan="3" valign="top"> &nbsp; 4.000 </td></tr><tr><td colspan="4" valign="top"> &nbsp; SECRETÁRIO ESCOLAR &nbsp; </td><td colspan="3" valign="top"> &nbsp; 3.000 </td></tr><tr height="0"></tr></tbody></table>
 
  
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:467.6pt;border-collapse:collapse" width="623"><tbody><tr><td colspan="4" style="width:467.6pt;border:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm .5pt 0cm .5pt" width="623"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO V<br>PROVIMENTO EM COMISSÃO<br>(De acordo com a Lei nº 14.032 de 18 de dezembro de 2018.)</span></b></p></td></tr><tr><td style="width:192.75pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:#D9D9D9;
-  padding:0cm .5pt 0cm .5pt" width="257"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt;color:black">Categoria</span></p></td><td style="width:88.25pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:#D9D9D9;
-  padding:0cm .5pt 0cm .5pt" width="118"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><b><span style="color:black">Nº de turnos de funcionamento</span></b></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:#D9D9D9;
-  padding:0cm .5pt 0cm .5pt" width="140"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Cargos</span></b></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  background:#D9D9D9;padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Quantitativos</span></b></p></td></tr><tr><td rowspan="6" style="width:192.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="257"><p class="MsoNormal"><b><span style="color:black">Porte Especial - PE</span></b><br><span style="color:black">Unidades Escolares com mais de 1501 alunos matriculados*</span></p></td><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">2</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td rowspan="6" style="width:192.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="257"><p class="MsoNormal"><b><span style="color:black">Grande Porte - GP</span></b><br><span style="color:black">Unidades Escolares que tenham entre 701 e 1500 alunos matriculados *</span></p></td><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">2</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td rowspan="6" style="width:192.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="257"><p class="MsoNormal"><b><span style="color:black">Médio Porte - MP</span></b><br><span style="color:black">Unidades Escolares que tenham entre 401 e 700 alunos matriculados*</span></p></td><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  background:white;padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">3</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt;color:black">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt;color:black">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt;color:black">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt;color:black">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;background:white;
-  padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt;color:black">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  background:white;padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt;color:black">1</span></p></td></tr><tr><td rowspan="6" style="width:192.75pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="257"><p class="MsoNormal"><b><span style="color:black">Pequeno Porte - PP</span></b><br><span style="color:black">Unidades Escolares que tenham entre 120 e 400 alunos matriculados*</span></p></td><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td rowspan="3" style="width:88.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" width="118"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Vice-Diretor</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr><tr><td style="width:104.85pt;border-top:none;border-left:solid black 1.0pt;
-  border-bottom:solid black 1.0pt;border-right:none;padding:0cm .5pt 0cm .5pt" width="140"><p class="MsoNormal"><span style="font-size:12.0pt">Secretário Escolar</span></p></td><td style="width:81.75pt;border:solid black 1.0pt;border-top:none;
-  padding:0cm .5pt 0cm .5pt" width="109"><p align="center" class="MsoNormal" style="margin-top:3.0pt;margin-right:0cm;
-  margin-bottom:3.0pt;margin-left:0cm;text-align:center"><span style="font-size:12.0pt">1</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4"> **ANEXO V PROVIMENTO EM COMISSÃO (De acordo com a Lei nº 14.032 de 18 de dezembro de 2018.)** </td></tr><tr><td> Categoria </td><td> **Nº de turnos de funcionamento** </td><td> **Cargos** </td><td> **Quantitativos** </td></tr><tr><td rowspan="6"> **Porte Especial - PE** Unidades Escolares com mais de 1501 alunos matriculados* </td><td rowspan="3"> 2 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 1 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="3"> 3 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 2 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="6"> **Grande Porte - GP** Unidades Escolares que tenham entre 701 e 1500 alunos matriculados * </td><td rowspan="3"> 2 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 1 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="3"> 3 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 2 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="6"> **Médio Porte - MP** Unidades Escolares que tenham entre 401 e 700 alunos matriculados* </td><td rowspan="3"> 2 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 1 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="3"> 3 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 1 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="6"> **Pequeno Porte - PP** Unidades Escolares que tenham entre 120 e 400 alunos matriculados* </td><td rowspan="3"> 2 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 1 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr><tr><td rowspan="3"> 3 </td><td> Diretor </td><td> 1 </td></tr><tr><td> Vice-Diretor </td><td> 1 </td></tr><tr><td> Secretário Escolar </td><td> 1 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:464.5pt;border-collapse:collapse;border:none" width="619"><tbody><tr style="height:10.5pt"><td colspan="8" style="width:464.5pt;border:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="619"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO VI</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">JORNADA DE TRABALHO<br>&nbsp;(Revogado pelo art. 16 da Lei nº 14.032 de 18 de dezembro de 2018.)</span></b></p></td></tr><tr style="height:10.5pt"><td rowspan="2" style="width:108.0pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><b><span style="color:black">SERVIDOR</span></b></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><b><span style="color:black">&nbsp;</span></b></p></td><td rowspan="2" style="width:49.6pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Nº de Turnos da UEE</span></p></td><td colspan="2" style="width:106.3pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="142"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">TURNO 1</span></p></td><td colspan="2" style="width:99.25pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="132"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">TURNO 2</span></p></td><td colspan="2" style="width:101.35pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="135"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">TURNO 3</span></p></td></tr><tr style="height:10.5pt"><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Dias da Semana</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Jornada</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Horas / Dias</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Dias da Semana</span></p></td><td style="width:49.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Jornada</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Horas / Dias</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Dias da Semana</span></p></td><td style="width:51.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="69"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Jornada</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt;color:black">Horas / Dias</span></p></td></tr><tr style="height:10.5pt"><td rowspan="2" style="width:108.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="color:black">Diretor</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">02</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">05</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">05</span></p></td><td style="width:49.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">---</span></p></td><td style="width:51.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="69"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">---</span></p></td></tr><tr style="height:10.5pt"><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">03</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">02</span></p></td><td style="width:51.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="69"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:10.5pt"><td style="width:108.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">Vice - Diretor</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">02 e 03</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">05</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">05*</span></p></td><td style="width:49.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04*</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">---</span></p></td><td style="width:51.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="69"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">---</span></p></td></tr><tr style="height:10.5pt"><td rowspan="2" style="width:108.0pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="144"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">Secretário Escolar</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">02</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">05</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">05</span></p></td><td style="width:49.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">---</span></p></td><td style="width:51.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="69"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">---</span></p></td></tr><tr style="height:10.5pt"><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">03</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:2.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="76"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.65pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p></td><td style="width:49.6pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:10.5pt" valign="top" width="66"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">02</span></p></td><td style="width:51.75pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="69"><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">04</span></p><p align="center" class="MsoNormal" style="text-align:center;text-indent:.1pt"><span style="font-size:12.0pt">&nbsp;</span></p></td></tr><tr style="height:10.5pt"><td colspan="8" style="width:464.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:10.5pt" valign="top" width="619"><p class="MsoNormal"><span style="color:black">* A depender do regime de trabalho, conforme critérios definidos em Decreto Regulamentar.</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="8" valign="top"> **ANEXO VIJORNADA DE TRABALHO &nbsp;(Revogado pelo art. 16 da Lei nº 14.032 de 18 de dezembro de 2018.)** </td></tr><tr><td rowspan="2" valign="top"> &nbsp; &nbsp; **SERVIDOR&nbsp;** </td><td rowspan="2" valign="top"> &nbsp; Nº de Turnos da UEE </td><td colspan="2" valign="top"> &nbsp; TURNO 1 </td><td colspan="2" valign="top"> &nbsp; TURNO 2 </td><td colspan="2" valign="top"> &nbsp; TURNO 3 </td></tr><tr><td valign="top"> &nbsp; Dias da Semana </td><td valign="top"> &nbsp; Jornada Horas / Dias </td><td valign="top"> &nbsp; Dias da Semana </td><td valign="top"> &nbsp; Jornada Horas / Dias </td><td valign="top"> &nbsp; Dias da Semana </td><td valign="top"> &nbsp; Jornada Horas / Dias </td></tr><tr><td rowspan="2" valign="top"> &nbsp; &nbsp; Diretor </td><td valign="top"> &nbsp; 02 </td><td valign="top"> &nbsp; 05 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 05 </td><td valign="top"> &nbsp; 04 &nbsp; </td><td valign="top"> &nbsp; --- </td><td valign="top"> &nbsp; --- </td></tr><tr><td valign="top"> &nbsp; 03 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 02 </td><td valign="top"> &nbsp; 04 &nbsp; </td></tr><tr><td valign="top"> &nbsp; Vice - Diretor &nbsp; </td><td valign="top"> &nbsp; 02 e 03 </td><td valign="top"> &nbsp; 05 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 05* </td><td valign="top"> &nbsp; 04* </td><td valign="top"> &nbsp; --- </td><td valign="top"> &nbsp; --- </td></tr><tr><td rowspan="2" valign="top"> &nbsp; &nbsp; Secretário Escolar &nbsp; &nbsp; </td><td valign="top"> &nbsp; 02 &nbsp; </td><td valign="top"> &nbsp; 05 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 05 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; --- </td><td valign="top"> &nbsp; --- </td></tr><tr><td valign="top"> &nbsp; 03 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 04 </td><td valign="top"> &nbsp; 02 </td><td valign="top"> &nbsp; 04 &nbsp; </td></tr><tr><td colspan="8" valign="top"> * A depender do regime de trabalho, conforme critérios definidos em Decreto Regulamentar. </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:531.6pt;border-collapse:collapse;border:none" width="709"><tbody><tr><td colspan="7" style="width:531.6pt;border:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="709"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO VII</span></b></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="color:black">DISTRIBUIÇÃO DE CARGA HORÁRIA DO PROFESSOR<br>(De acordo com Lei nº 12.904, de 17 de setembro de 2013</span></b><span style="color:black">)</span></p></td></tr><tr><td style="width:120.5pt;border:solid black 1.0pt;
-  border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">JORNADA OBRIGATÓRIA</span></p></td><td colspan="3" style="width:215.4pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="287"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">PROFESSOR 20 HORAS</span></p></td><td colspan="3" style="width:195.7pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="261"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">PROFESSOR 40 HORAS</span></p></td></tr><tr style="height:11.4pt"><td style="width:120.5pt;border:solid black 1.0pt;
-  border-top:none;background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:11.4pt" valign="top" width="161"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Clientela</span></b></p></td><td style="width:59.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  #D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:11.4pt" valign="top" width="79"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">Regência</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">de classe</span></b></p></td><td colspan="2" style="width:156.1pt;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:11.4pt" valign="top" width="208"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">Atividade Pedagógica</span></p></td><td style="width:53.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:11.4pt" valign="top" width="72"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">Regência</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">de classe</span></b></p></td><td colspan="2" style="width:5.0cm;border-top:none;
-  border-left:none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#D9D9D9;padding:0cm 3.5pt 0cm 3.5pt;height:11.4pt" valign="top" width="189"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">Atividade Pedagógica</span></p></td></tr><tr><td style="width:120.5pt;border:solid black 1.0pt;
-  border-top:none;background:#CCCCCC;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="161"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">&nbsp;</span></b></p></td><td style="width:59.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  #CCCCCC;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="79"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:64.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#E0E0E0;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="87"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt;color:black">Na UEE</span></p></td><td style="width:91.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#E0E0E0;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="122"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Livre</span></b></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Escolha</span></b></p></td><td style="width:53.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#E0E0E0;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="72"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:61.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  #E0E0E0;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="82"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Na UEE</span></b></p></td><td style="width:80.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:#E0E0E0;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="107"><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><b><span style="font-size:11.0pt;font-family:&quot;Arial&quot;,sans-serif;
-  color:black">Livre Escolha</span></b></p></td></tr><tr style="height:68.4pt"><td style="width:120.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="161"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Educação Especial e Séries iniciais do Ensino Fundamental</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">&nbsp;</span></p></td><td style="width:59.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:68.4pt" valign="top" width="79"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">20 horas</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">semanais</span></p></td><td style="width:64.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="87"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">______</span></p></td><td style="width:91.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="122"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">_____</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:53.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="72"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">40 horas semanais</span></p></td><td style="width:61.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:68.4pt" valign="top" width="82"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">&nbsp;&nbsp; ______</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:80.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="107"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="font-size:12.0pt">______</span></p></td></tr><tr style="height:68.4pt"><td style="width:120.5pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="161"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">Séries finais do Ensino Fundamental e Ensino Médio</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">&nbsp;</span></p></td><td style="width:59.3pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:68.4pt" valign="top" width="79"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">13 horas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; semanais</span></p></td><td style="width:64.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="87"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">05 horas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; semanais</span></p></td><td style="width:91.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="122"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="font-size:12.0pt">02 horas&nbsp;&nbsp;&nbsp;&nbsp; semanais</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">&nbsp;</span></p></td><td style="width:53.95pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="72"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">26 horas&nbsp;&nbsp;&nbsp; semanais</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">&nbsp;</span></p></td><td style="width:61.7pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:68.4pt" valign="top" width="82"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center;page-break-after:
-  avoid"><span style="color:black">10 horas&nbsp;&nbsp;&nbsp; semanais</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">&nbsp;</span></p></td><td style="width:80.05pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:68.4pt" valign="top" width="107"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph;
-  page-break-after:avoid"><span style="color:black">04 horas&nbsp;&nbsp;&nbsp; semanais</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="7" valign="top"> **ANEXO VIIDISTRIBUIÇÃO DE CARGA HORÁRIA DO PROFESSOR (De acordo com Lei nº 12.904, de 17 de setembro de 2013**) </td></tr><tr><td valign="top"> JORNADA OBRIGATÓRIA </td><td colspan="3" valign="top"> PROFESSOR 20 HORAS </td><td colspan="3" valign="top"> PROFESSOR 40 HORAS </td></tr><tr><td valign="top"> **Clientela** </td><td valign="top"> Regência **de classe** </td><td colspan="2" valign="top"> Atividade Pedagógica </td><td valign="top"> Regência **de classe** </td><td colspan="2" valign="top"> Atividade Pedagógica </td></tr><tr><td valign="top"> **&nbsp;** </td><td valign="top"> &nbsp; </td><td valign="top"> Na UEE </td><td valign="top"> **LivreEscolha** </td><td valign="top"> &nbsp; </td><td valign="top"> **Na UEE** </td><td valign="top"> **Livre Escolha** </td></tr><tr><td valign="top"> &nbsp; Educação Especial e Séries iniciais do Ensino Fundamental &nbsp; </td><td valign="top"> &nbsp; 20 horas semanais </td><td valign="top"> &nbsp; ______ </td><td valign="top"> &nbsp; _____ &nbsp; </td><td valign="top"> &nbsp; 40 horas semanais </td><td valign="top"> &nbsp; &nbsp;&nbsp; ______ &nbsp; </td><td valign="top"> &nbsp; ______ </td></tr><tr><td valign="top"> &nbsp; Séries finais do Ensino Fundamental e Ensino Médio &nbsp; </td><td valign="top"> &nbsp; 13 horas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; semanais </td><td valign="top"> &nbsp; 05 horas&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; semanais </td><td valign="top"> &nbsp; 02 horas&nbsp;&nbsp;&nbsp;&nbsp; semanais &nbsp; </td><td valign="top"> &nbsp; 26 horas&nbsp;&nbsp;&nbsp; semanais &nbsp; </td><td valign="top"> &nbsp; 10 horas&nbsp;&nbsp;&nbsp; semanais &nbsp; </td><td valign="top"> &nbsp; 04 horas&nbsp;&nbsp;&nbsp; semanais </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:489.1pt;border-collapse:collapse;border:none" width="652"><tbody><tr><td colspan="4" style="width:489.1pt;border:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="652"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">ANEXO VIII</span></b></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">PROVIMENTO EFETIVO</span></b></p></td></tr><tr><td style="width:170.15pt;border:solid black 1.0pt;
-  border-top:none;background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="227"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NOMECLATURA</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  background:white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="123"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NÍVEIS</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">NÚMERO DE CARGOS</span></p></td><td style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;background:
-  white;padding:0cm 3.5pt 0cm 3.5pt" valign="top" width="189"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt;color:black">FORMAÇÃO</span></p><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">&nbsp;</span></b></p></td></tr><tr style="height:20.0pt"><td rowspan="3" style="width:170.15pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="227"><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="font-size:12.0pt">&nbsp;</span></p><p class="MsoNormal"><span style="color:black">PROFESSOR NÃO LICENCIADO</span></p></td><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="123"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:20.0pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1.100</span></p></td><td style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:20.0pt" valign="top" width="189"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">ENSINO MÉDIO COMPLETO</span></p></td></tr><tr style="height:20.0pt"><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="123"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">2</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:20.0pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">100</span></p></td><td style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:20.0pt" valign="top" width="189"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">LICENCIATURA A PARTIR DO 6º SEMESTRE</span></p></td></tr><tr style="height:20.0pt"><td style="width:92.15pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:20.0pt" valign="top" width="123"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">3</span></p></td><td style="width:3.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:20.0pt" valign="top" width="113"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">&nbsp;</span></p><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">1.600</span></p></td><td style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 3.5pt 0cm 3.5pt;
-  height:20.0pt" valign="top" width="189"><p class="MsoNormal" style="text-align:justify;text-justify:inter-ideograph"><span style="font-size:12.0pt">FORMAÇÃO DE NÍVEL SUPERIOR</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="4" valign="top"> **ANEXO VIII** &nbsp; **PROVIMENTO EFETIVO** </td></tr><tr><td valign="top"> &nbsp; NOMECLATURA &nbsp; </td><td valign="top"> &nbsp; NÍVEIS &nbsp; </td><td valign="top"> NÚMERO DE CARGOS </td><td valign="top"> &nbsp; FORMAÇÃO **&nbsp;** </td></tr><tr><td rowspan="3" valign="top"> &nbsp; &nbsp; PROFESSOR NÃO LICENCIADO </td><td valign="top"> &nbsp; 1 </td><td valign="top"> &nbsp; 1.100 </td><td valign="top"> ENSINO MÉDIO COMPLETO </td></tr><tr><td valign="top"> &nbsp; 2 </td><td valign="top"> &nbsp; 100 </td><td valign="top"> LICENCIATURA A PARTIR DO 6º SEMESTRE </td></tr><tr><td valign="top"> &nbsp; 3 </td><td valign="top"> &nbsp; 1.600 </td><td valign="top"> FORMAÇÃO DE NÍVEL SUPERIOR </td></tr></tbody></table>

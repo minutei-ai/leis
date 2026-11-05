@@ -1,5 +1,3 @@
-###DEC-082970-0-000-03-01-1979@@@
-
 Decreto nº 82.970, de 03 de janeiro de 1979
 
 Retifica a concessão de lavra outorgada à Mineração Miranda S.A. pelo Decreto nº 81.921, de 11 de julho de 1978.

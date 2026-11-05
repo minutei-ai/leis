@@ -1,5 +1,3 @@
-###DEC-069409-0-000-22-10-1971@@@
-
 DECRETO Nº 69.409 - DE 22 DE OUTUBRO DE 1971
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de terreno feita pela Prefeitura Municipal de Santa Marta, Estado do Rio Grande do Sul, para o fim que especifica.

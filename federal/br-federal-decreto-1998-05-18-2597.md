@@ -1,5 +1,3 @@
-###DEC-002597-0-000-18-05-1998@@@
-
 DECRETO Nº 2.597, DE 18 DE MAIO DE 1998
 
 Regulamenta, no âmbito do Estado-Maior das Forças Armadas, o Capítulo V da Lei nº 7.501, de 27 de junho de 1986, que dispõe sobre o regime de contratação dos Auxiliares Locais.

@@ -1,5 +1,3 @@
-###DEC-096111-0-000-01-06-1988@@@
-
 DECRETO N° 96.111, DE 1° DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA SAMA” ou “CAJU”, também conhecido como “GLEBA ITAÚBA”, classificado como “latifúndio por exploração”, situado no Município de Itaúba, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 02 de maio de 1986, e dá outras providências.

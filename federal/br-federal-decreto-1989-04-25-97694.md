@@ -1,7 +1,3 @@
-1
-
-###DEC-097694-0-000-25-04-1989@@@
-
 DECRETO N° 97.694, DE 25 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Ciências Contábeis, da Faculdade Integrada do Rio de Janeiro.

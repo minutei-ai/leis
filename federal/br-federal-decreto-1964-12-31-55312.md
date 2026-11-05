@@ -1,5 +1,3 @@
-###DEC-055312-0-000-31-12-1964@@@
-
 DECRETO Nº 55.312, DE 31 DE DEzEMBRO DE 1964.
 
 Aprova o Regulamento de Promoções da Carreira de Diplomata.

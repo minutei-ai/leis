@@ -1,5 +1,3 @@
-###DEC-079927-0-000-11-07-1977@@@
-
 DECRETO Nº 79.927, DE 11 DE JULHO DE 1977
 
 Concede à Mineração Condado Ltda. o direito de lavrar turmalina no Município de Quixeramobim, Estado do Ceará

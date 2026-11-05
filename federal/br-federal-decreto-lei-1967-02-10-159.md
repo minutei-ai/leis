@@ -1,5 +1,3 @@
-###DEL-000159-0-000-10-02-1967@@@
-
 DECRETO-LEI Nº 159, DE 10 DE FEVEREIRO DE 1967
 
 Dispõe sôbre as substâncias capazes de determinar dependência física ou psíquica, e dá outras providências.

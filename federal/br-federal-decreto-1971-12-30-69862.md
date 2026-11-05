@@ -1,5 +1,3 @@
-###DEC-069862-0-000-30-12-1971@@@
-
 DECRETO Nº 69.862 - DE 30 DE DEZEMBRO de 1971
 
 Exclui cargos do Ministério das Minas e Energia do relacionamento de desnecessidade e aproveita os servidores que indica.

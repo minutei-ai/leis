@@ -1,7 +1,3 @@
-1
-
-###DEC-095774-0-000-03-03-1988@@@
-
 DECRETO N° 95.774, DE 3 DE MARÇO DE 1988
 
 Outorga concessão à IPB -  Integração Mato-grossense de Rádio e Televisão Ltda., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Campo Grande, Estado do Mato Grosso do Sul.

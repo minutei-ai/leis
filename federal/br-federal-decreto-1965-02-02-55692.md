@@ -1,5 +1,3 @@
-###DEC-055692-0-000-02-02-1965@@@
-
 DECRETO Nº 55.692, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o Govêrno do Estado de Santa Catarina a pesquisar apatita no município de Anitápolis, Estado de Santa Catarina.

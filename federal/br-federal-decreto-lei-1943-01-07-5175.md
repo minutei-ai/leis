@@ -1,5 +1,3 @@
-###DEL-005175-0-000-07-01-1943@@@
-
 DECRETO‑LEI N. 5.175 – DE 7 DE JANEIRO DE 1943
 
 Dispõe sobre a admissão de pessoal extranumerário e dá outras providências

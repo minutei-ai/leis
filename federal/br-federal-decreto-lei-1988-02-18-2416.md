@@ -1,7 +1,3 @@
-1
-
-###DEL-002416-0-000-18-02-1988@@@
-
 # DECRETO-LEI Nº 2.416, DE 18 DE FEVEREIRO DE 1988
 
 Fixa prazo máximo para duração de contratos no âmbito do Ministério da Marinha.

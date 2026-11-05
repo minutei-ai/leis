@@ -1,5 +1,3 @@
-###DEC-003853-0-000-29-06-2001@@@
-
 DECRETO Nº 3.853, DE 29 DE JUNHO DE 2001
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Alcance Parcial para a Facilitação do Comércio nº 5 (Acordo de Recife), entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, de 29 de setembro de 2000.

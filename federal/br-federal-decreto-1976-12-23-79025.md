@@ -1,5 +1,3 @@
-###DEC-079025-0-000-23-12-1976@@@
-
 DECRETO Nº 79.025, DE 23 DE DEZEMBRO DE 1976
 
 Concede reconhecimento aos cursos de Estudos Sociais, de Letras e de Formação de Professores de Disciplinas Especializadas de 2º grau, da Universidade Estadual de Londrina, Paraná.

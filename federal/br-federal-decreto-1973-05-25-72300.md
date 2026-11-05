@@ -1,5 +1,3 @@
-###DEC-072300-0-000-25-05-1973@@@
-
 DECRETO N° 72.300, DE 25 DE MAIO DE 1973.
 
 Regulamenta a Lei número 5.575, de 17 de dezembro de 1969, que declara de utilidade pública o "Rotary Club do Brasil", o "Lions do Brasil", e suas filiadas.

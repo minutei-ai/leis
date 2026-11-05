@@ -1,5 +1,3 @@
-###DEC-045380-0-000-03-02-1959@@@
-
 DECRETO Nº 45.380, DE 3 DE FEVEREIRO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de terreno que menciona, situado no Município de Jaguari, no Estado do Rio Grande do Sul.

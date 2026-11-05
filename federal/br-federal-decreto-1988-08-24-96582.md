@@ -1,5 +1,3 @@
-###DEC-096582-0-000-24-08-1988@@@
-
 DECRETO N° 96.582, DE 24 DE AGOSTO DE 1988
 
 Altera a composição da Comissão Interministerial criada pelo Decreto n° 95.792, de 7 de março de 1988, e dá outras providências.

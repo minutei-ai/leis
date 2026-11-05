@@ -1,5 +1,3 @@
-###DEC-046487-0-000-20-07-1959@@@
-
 decreto nº 46.487, de 20 de julho de 1959.
 
 Autoriza o cidadão brasileiro José Feliciano Baptista Neto a pesquisar mármore no município de Corumbá, Estado de Mato Grosso.

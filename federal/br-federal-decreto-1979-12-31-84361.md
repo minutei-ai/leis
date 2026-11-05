@@ -1,5 +1,3 @@
-###DEC-084361-0-000-31-12-1979@@@
-
 Decreto nº 84.361 de 31 de dezembro de 1979.
 
 Altera a redação do inciso II do Artigo 19 e dos Artigos 20 e 32 do Decreto nº 81.994, de 18 de julho de 1978, que regulamenta da Lei nº 6.498, de 07 de dezembro de 1977.

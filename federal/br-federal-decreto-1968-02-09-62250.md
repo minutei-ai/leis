@@ -1,5 +1,3 @@
-###DEC-062250-0-000-09-02-1968@@@
-
 Decreto nº 62.250, de 9 de fevereiro de 1968.
 
 Declara de utilidade pública a “Casa dos Pobres São João Batista”, com sede em Curitiba, Estado do Paraná.

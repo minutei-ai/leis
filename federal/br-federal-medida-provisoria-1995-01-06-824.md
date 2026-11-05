@@ -1,7 +1,3 @@
-1
-
-###MPV-000824-0-000-06-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 824, DE 6 DE JANEIRO DE 1995
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério da Integração Regional, crédito extraordinário no valor de R$ 4.370.914,00, para os fins que especifica.

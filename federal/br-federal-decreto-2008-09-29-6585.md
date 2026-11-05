@@ -1,5 +1,3 @@
-###DEC-006585-0-000-29-09-2008@@@
-
 DECRETO Nº 6.585, DE 29 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução do Segundo Protocolo Modificativo ao Acordo Ortográfico da Língua Portuguesa, assinado em São Tomé, em 25 de julho de 2004.        

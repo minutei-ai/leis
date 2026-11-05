@@ -1,5 +1,3 @@
-###DEC-045118-0-000-26-12-1958@@@
-
 DECRETO Nº 45.118, DE 26 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública e autoriza a sua desapropriação imóvel que menciona, situado em Itaguai, no Estado do Rio de Janeiro, necessário ao Serviço do Exército.

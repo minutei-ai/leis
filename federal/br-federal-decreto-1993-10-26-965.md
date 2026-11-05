@@ -1,7 +1,3 @@
-1
-
-###DEC-000965-0-000-26-10-1993@@@
-
 DECRETO Nº 965, DE 26 DE OUTUBRO DE 1993
 
 Estabelece a programação financeira de liberação de cotas pela Secretaria do Tesouro Nacional, para o Poder Executivo, referente ao Orçamento Geral da União para 1993.

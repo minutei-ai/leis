@@ -116,7 +116,8 @@ Seção I
 
 Do processo de apuração
 
-Art. 6º As possíveis condutas de violação deste Código serão apuradas pela Comissão de Ética Pública, nos termos do seu regimento interno, de ofício ou em razão de denúncias, e poderão resultar em censura ética ou recomendação sobre a conduta adequada, sem prejuízo à apuração do fato em outras instâncias.<br>
+Art. 6º As possíveis condutas de violação deste Código serão apuradas pela Comissão de Ética Pública, nos termos do seu regimento interno, de ofício ou em razão de denúncias, e poderão resultar em censura ética ou recomendação sobre a conduta adequada, sem prejuízo à apuração do fato em outras instâncias.
+
 [\- Redação data pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
 ~~Art. 6º As possíveis condutas de violação deste Código serão apuradas pela Câmara de _Compliance_ do Conselho de Governo, nos termos do seu regimento interno, de ofício ou em razão de denúncias, e poderão resultar em censura ética ou recomendação sobre a conduta adequada, sem prejuízo da apuração do fato em outras instâncias.~~
@@ -133,44 +134,56 @@ b) pelos agentes especificados nos incisos II e III do art. 3º deste Código.
 
 § 2º Toda apuração de conduta levará em consideração a situação fática na qual ocorrer a violação deste Código.
 
-§ 3º A Comissão de Ética Pública será composta por sete membros titulares, três suplentes e uma secretaria-executiva.<br>
+§ 3º A Comissão de Ética Pública será composta por sete membros titulares, três suplentes e uma secretaria-executiva.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 4º Os membros da Comissão de Ética Pública e os seus respectivos suplentes serão escolhidos e designados pelo Conselho de Governo entre os servidores de reconhecida idoneidade moral, reputação ilibada e notória experiência em administração pública.<br>
+§ 4º Os membros da Comissão de Ética Pública e os seus respectivos suplentes serão escolhidos e designados pelo Conselho de Governo entre os servidores de reconhecida idoneidade moral, reputação ilibada e notória experiência em administração pública.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 5º O mandato dos membros da Comissão de Ética Pública será de três anos, permitida uma única recondução.<br>
+§ 5º O mandato dos membros da Comissão de Ética Pública será de três anos, permitida uma única recondução.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 6º Compete aos membros da Comissão de Ética Pública a escolha de seu presidente para o mandato de um ano, permitida uma única recondução.<br>
+§ 6º Compete aos membros da Comissão de Ética Pública a escolha de seu presidente para o mandato de um ano, permitida uma única recondução.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 7º Para a finalidade indicada no caput deste artigo, a Comissão de Ética Pública terá como secretaria-executiva a Gerência de Promoção de Valores, da Controladoria-Geral do Estado.<br>
+§ 7º Para a finalidade indicada no caput deste artigo, a Comissão de Ética Pública terá como secretaria-executiva a Gerência de Promoção de Valores, da Controladoria-Geral do Estado.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 8º A Comissão de Ética Pública se reunirá ordinariamente a cada dois meses e, extraordinariamente, mediante a convocação de seu presidente ou da maioria simples de seus membros.<br>
+§ 8º A Comissão de Ética Pública se reunirá ordinariamente a cada dois meses e, extraordinariamente, mediante a convocação de seu presidente ou da maioria simples de seus membros.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 9º O quórum para a deliberação dos assuntos da Comissão de Ética Pública será de maioria absoluta de seus integrantes.<br>
+§ 9º O quórum para a deliberação dos assuntos da Comissão de Ética Pública será de maioria absoluta de seus integrantes.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-Art. 7º A Comissão de Ética Pública poderá se valer dos Comitês Setoriais de Compliance Público dos diversos órgãos da administração direta, das autarquias e das fundações para a apuração de processos relativos a possíveis condutas de violação deste Código, ressalvados os casos que envolverem integrantes da Alta Administração, para os quais a competência será exclusivamente da própria Comissão.<br>
+Art. 7º A Comissão de Ética Pública poderá se valer dos Comitês Setoriais de Compliance Público dos diversos órgãos da administração direta, das autarquias e das fundações para a apuração de processos relativos a possíveis condutas de violação deste Código, ressalvados os casos que envolverem integrantes da Alta Administração, para os quais a competência será exclusivamente da própria Comissão.
+
 \- [Redação dada pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
 ~~Art. 7º A Câmara de _Compliance_ do Conselho de Governo poderá se valer dos Comitês Setoriais de _Compliance_ Público dos diversos órgãos da administração direta, das autarquias e das fundações para a apuração de processos relativos a possíveis condutas de violação deste Código, ressalvados os casos que envolverem integrantes da Alta Administração, cuja competência é exclusiva da Câmara.~~
 
-§ 1º Se o Comitê Setorial de Compliance Público ainda não estiver instalado em órgão estadual, a Comissão de Ética Pública poderá requisitar a apuração à comissão de ética específica instituída no respectivo órgão.<br>
+§ 1º Se o Comitê Setorial de Compliance Público ainda não estiver instalado em órgão estadual, a Comissão de Ética Pública poderá requisitar a apuração à comissão de ética específica instituída no respectivo órgão.
+
 \- [Constituído § 1º com nova redação pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
 ~~Parágrafo único. Caso ainda não haja Comitê Setorial de _Compliance_ Público instalado em órgão estadual, a Câmara de _Compliance_ do Conselho de Governo poderá requisitar a apuração para a comissão de ética específica instituída no respectivo órgão.~~
 
-§ 2º Caberá à Comissão de Ética Pública responder às consultas sobre ética pública e conduta ética que lhe forem dirigidas por quaisquer dos agentes públicos mencionados no art. 3º deste Código e pelos órgãos e pelas entidades da administração pública direta, autárquica e fundacional do Poder Executivo estadual.<br>
+§ 2º Caberá à Comissão de Ética Pública responder às consultas sobre ética pública e conduta ética que lhe forem dirigidas por quaisquer dos agentes públicos mencionados no art. 3º deste Código e pelos órgãos e pelas entidades da administração pública direta, autárquica e fundacional do Poder Executivo estadual.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 3º A atuação na Comissão de Ética Pública não será remunerada, e os trabalhos nela desenvolvidos serão considerados como prestação de relevante serviço público.<br>
+§ 3º A atuação na Comissão de Ética Pública não será remunerada, e os trabalhos nela desenvolvidos serão considerados como prestação de relevante serviço público.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
-§ 4º A participação dos membros do colegiado não ocasionará o pagamento de despesas com deslocamento nem de remuneração adicional pela atuação dos agentes públicos.<br>
+§ 4º A participação dos membros do colegiado não ocasionará o pagamento de despesas com deslocamento nem de remuneração adicional pela atuação dos agentes públicos.
+
 \- [Acrescido pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
 Art. 8º Os processos decorrentes da violação do presente Código classificam-se como reservados e pautam-se pelas determinações gerais da Lei estadual nº 13.800, de 18 de janeiro de 2001.
@@ -195,23 +208,24 @@ DAS DISPOSIÇÕES GERAIS
 
 Art. 10. Os servidores deverão contribuir para o contínuo aperfeiçoamento de uma cultura ética que atenda às expectativas dos cidadãos e, nesse sentido, precisarão ser promovidas constantes atividades de difusão deste Código.
 
-Art. 11. A Comissão de Ética Pública elaborará em sessenta dias, após a sua instituição, o seu regimento interno, com o estabelecimento dos procedimentos de apuração dos atos violadores deste Código.<br>
+Art. 11. A Comissão de Ética Pública elaborará em sessenta dias, após a sua instituição, o seu regimento interno, com o estabelecimento dos procedimentos de apuração dos atos violadores deste Código.
+
 \- [Redação dada pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
 ~~Art. 11. A Câmara de _Compliance_ do Conselho de Governo elaborará, no prazo de 120 (cento e vinte) dias, o regimento interno, com o estabelecimento dos procedimentos de apuração dos atos violadores deste Código.~~
 
-Art. 12. As dúvidas na aplicação deste Código e os eventuais casos omissos serão dirimidos pela Comissão de Ética Pública.<br>
+Art. 12. As dúvidas na aplicação deste Código e os eventuais casos omissos serão dirimidos pela Comissão de Ética Pública.
+
 \- [Redação dada pelo Decreto nº 10.834, de 11-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111794)
 
 ~~Art. 12. As dúvidas na aplicação deste Código e eventuais casos omissos serão dirimidos pela Câmara de _Compliance_ do Conselho de Governo.~~
 
 Art. 13. Este Código não impede a criação e a existência de códigos de ética específicos, desde que eles não contrariem o disposto neste Código.
 
-<br>
-ANEXO AO CÓDIGO DE ÉTICA E CONDUTA PROFISSIONAL<br>
+ANEXO AO CÓDIGO DE ÉTICA E CONDUTA PROFISSIONAL
+
 DO SERVIDOR DO PODER EXECUTIVO DO ESTADO DE GOIÁS
 
-<br>
 Quadro I: Qualidades desejadas e indesejadas
 
 | Ord. | Qualidades desejadas e indesejadas | Quant. menções |
@@ -233,7 +247,6 @@ Quadro I: Qualidades desejadas e indesejadas
 | 15 | Disciplina | 29 |
 |   | **Total** | **2.553** |
 
-<br>
 Quadro II: Comportamentos esperados
 
 | Ord. | Comportamentos esperados | Quant. menções |
@@ -249,18 +262,17 @@ Quadro II: Comportamentos esperados
 | 9 | Apresentar-se ao trabalho com vestimentas adequadas ao exercício da função pública/ter conduta ilibada e reputação invejável (preservar imagem perante a sociedade)/conduzir-se condizentemente com o cargo | 35 |
 |   | **Total** | **503** |
 
-<br>
 Quadro III: Comportamentos e posturas que devem ser evitados
 
 | Ord. | Comportamentos e posturas que devem ser evitados | Quant. menções |
 | --- | --- | --- |
 | 1 | Buscar e receber vantagens pessoais (usurpar-se do bem público, uso de recurso público em benefício próprio)/corromper (subornar)/colocar os propósitos pessoais à frente das necessidades coletivas decorrentes das suas atribuições/usar mal os bens públicos (máquina pública)/desviar dinheiro público (roubar)/praticar atos desonestos com o órgão e com as pessoas/demonstrar conflito de interesses (usar as informações privilegiadas em benefício próprio)/prevaricar/receber presentes de pessoas interessadas em algum tipo de serviço prestado pelo servidor/barganhar para a ocupação de cargos e empregar o “apadrinhamento” (favorecimento de parentes/nepotismo) | 227 |
-| 2 | Tratar mal o cidadão (desrespeito, indiferença) (em particular o mais humilde)/dispensar tratamentos diferenciados no atendimento aos cidadãos (posses, aparência, amizade, ideologia)/julgar aparências e tratar o cidadão com desigualdade (raça, gênero, classe social)<br>
+| 2 | Tratar mal o cidadão (desrespeito, indiferença) (em particular o mais humilde)/dispensar tratamentos diferenciados no atendimento aos cidadãos (posses, aparência, amizade, ideologia)/julgar aparências e tratar o cidadão com desigualdade (raça, gênero, classe social)
+
 /valer-se de práticas discriminatórias, racistas e preconceituosas/agir de forma arrogante, com superioridade (por ter cargo público)/abusar do poder/impor dificuldades no atendimento ao cidadão/encerrar o atendimento ao cidadão sem resolver o problema ou sem esclarecer | 118 |
 | 3 | Deixar de cumprir as obrigações próprias (acumular serviço, sobrecarregar os demais servidores, deliberadamente não atender/responder ao cidadão)/apresentar-se ao serviço sempre atrasado (não cumprir carga horária)/acomodar-se (com a estabilidade do cargo/usar aplicativos no horário de trabalho, em atividades estranhas às suas atribuições/demonstrar falta de compromisso com a função (não entregar resultados)/fazer serviços alheios à função (no horário de trabalho)/fornecer informações erradas ao cidadão | 89 |
 |   | **Total** | **434** |
 
-<br>
 Quadro IV: Comportamentos esperados dos chefes e os que devem ser evitados
 
 | Ord. | Comportamentos esperados x os que devem ser evitados | Quant. menções |

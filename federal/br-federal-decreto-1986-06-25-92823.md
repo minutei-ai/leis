@@ -1,5 +1,3 @@
-###DEC-092823-0-000-25-06-1986@@@
-
 # DECRETO Nº 92.823, DE 25 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Rio dos Patos", situado no Município de Lebon Régis, no Estado de Santa Catarina, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.693, de 19 de maio de 1986 e dá outras providências.

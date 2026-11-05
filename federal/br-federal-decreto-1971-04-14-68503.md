@@ -1,5 +1,3 @@
-###DEC-068503-0-000-14-04-1971@@@
-
 DECRETO Nº 68.503, DE 14 DE ABRIL DE 1971.
 
 Promulga o Acôrdo de Previdência Social entre o Brasil e a Espanha.

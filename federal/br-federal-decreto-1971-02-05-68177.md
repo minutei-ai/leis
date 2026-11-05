@@ -1,5 +1,3 @@
-###DEC-068177-0-000-05-02-1971@@@
-
 DECRETO nº 68.177, de 5 de Fevereiro de 1971.
 
 Redistribui, com o respectivo ocupante, o cargo do Ministério da justiça para o Ministério do Trabalho e Previdência Social, e dá outras propriedades.

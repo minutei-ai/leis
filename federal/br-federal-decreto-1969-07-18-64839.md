@@ -1,5 +1,3 @@
-###DEC-064839-0-000-18-07-1969@@@
-
 DECRETO Nº 64.839 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 36.284, de 1 de Outubro de 1954.

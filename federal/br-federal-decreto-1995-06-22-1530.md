@@ -1,7 +1,3 @@
-1
-
-###DEC-001530-0-000-22-06-1995@@@
-
 DECRETO Nº 1.530, DE 22 DE JUNHO DE 1995.
 
 Declara a entrada em vigor da Convenção das Nações Unidas sobre o Direito do Mar, concluída em Montego Bay, Jamaica, em 10 de dezembro de 1982.

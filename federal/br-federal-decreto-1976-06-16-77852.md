@@ -1,5 +1,3 @@
-###DEC-077852-0-000-16-06-1976@@@
-
 dECRETO Nº 77.852, DE 16 DE JUNHO DE 1976.
 
 Concede reconhecimento às habilitações em Administração Escolar, em Supervisão Escolar, em Inspeção Escolar, em Orientação Educacional e em Magistério das Matérias Pedagógicas de 2º grau, da Faculdade de Filosofia Nossa Senhora da Imaculada Conceição com sede na cidade de Viamão, Estado do Rio Grande do Sul.

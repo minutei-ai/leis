@@ -1,5 +1,3 @@
-###DEL-008507-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.507 – DE 31 DE DEZEMBRO DE 1945
 
 Cria uma segunda coletoria federal no município de Teresina, no Estado do Piauí, e dá outras providências.

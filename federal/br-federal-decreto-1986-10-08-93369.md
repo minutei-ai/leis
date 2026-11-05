@@ -1,5 +1,3 @@
-###DEC-093369-0-000-08-10-1986@@@
-
 DECRETO Nº 93.369, DE 8 OUTUBRO DE 1986.
 
 Cria a FLORESTA NACIONAL MÁRIO XAVIER, no Estado do Rio de Janeiro, e dá outras providências.

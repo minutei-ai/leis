@@ -1,5 +1,3 @@
-###DEC-063961-0-000-07-01-1969@@@
-
 DECRETO Nº 63.961, DE 7 DE JANEIRO DE 1969.
 
 Autoriza o funcionamento do Instituto Politécnico "Moura Lacerda" de Ribeirão Prêto - SP.

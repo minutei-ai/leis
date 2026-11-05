@@ -1,5 +1,3 @@
-###DEC-092928-0-000-16-07-1986@@@
-
 DECRETO Nº 92.928, DE 16 DE JULHO DE 1986
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Juazeiro.

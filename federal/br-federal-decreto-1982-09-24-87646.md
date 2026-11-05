@@ -1,5 +1,3 @@
-###DEC-087646-0-000-24-09-1982@@@
-
 DECRETO Nº 87.646, DE 24 DE SETEMBRO DE 1982
 
 Suspende, por inconstitucionalidade, a execução da Emenda Constitucional nº 15, de 25 de abril de 1980, do Estado de São Paulo.

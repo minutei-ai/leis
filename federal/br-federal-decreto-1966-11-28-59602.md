@@ -1,5 +1,3 @@
-###DEC-059602-0-000-28-11-1966@@@
-
 Decreto nº 59.602, de 28 de novembro de 1966.
 
 Declara de utilidade pública a “Missão são Ramacrisna”, com sede em Belo Horizonte, Estado de Minas Gerais.

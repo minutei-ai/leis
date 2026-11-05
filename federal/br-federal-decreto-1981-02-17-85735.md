@@ -1,5 +1,3 @@
-###DEC-085735-0-000-17-02-1981@@@
-
 Decreto nº 85.735, de 17 de fevereiro de 1981.
 
 Autoriza o funcionamento da Faculdade de Ciências Humanas de Itabira com sede em Itabira, Estado de Mina Gerais.

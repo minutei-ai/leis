@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA, em Goiânia, aos 22 dias do mês de Agosto de 2024.
 
-<br>
-
 FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1

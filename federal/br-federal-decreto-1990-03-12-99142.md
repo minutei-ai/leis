@@ -1,7 +1,3 @@
-1
-
-###DEC-099142-0-000-12-03-1990@@@
-
 DECRETO Nº 99.142, DE 12 DE MARÇO DE 1990
 
 Cria, no Estado de Santa Catarina, a Reserva Biológica Marinha do Arvoredo, e dá outras providências.

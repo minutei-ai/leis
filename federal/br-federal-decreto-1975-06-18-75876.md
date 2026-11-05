@@ -1,5 +1,3 @@
-###DEC-075876-0-000-18-06-1975@@@
-
 decreto nº 75.876, de 18 de junho de 1975.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de ramal de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, nos município de Monte Aprazível e de Tanabi, Estado de São Paulo.

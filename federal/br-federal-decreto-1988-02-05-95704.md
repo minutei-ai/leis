@@ -1,7 +1,3 @@
-1
-
-###DEC-095704-0-000-05-02-1988@@@
-
 DECRETO Nº 95.704, DE 5 DE FEVEREIRO DE 1988
 
 Autoriza o Governo do Estado do Maranhão a explorar, através da Rádio Timbira do Maranhão, serviço de radiodifusão sonora em onde média, na cidade de São Luís, Estado do Maranhão.

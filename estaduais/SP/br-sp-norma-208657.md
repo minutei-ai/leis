@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208657)<br>
-
 # DECRETO N° 68.007, DE 10 DE OUTUBRO DE 2023
 
 ### _Autoriza a Fazenda do Estado a receber, mediante comodato, por prazo determinado, parte do imóvel que especifica, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEL-008481-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.481 – DE 27 DE DEZEMBRO DE 1945
 
 Dá nova redação a dispositivos do Código da Propriedade Industrial, a que se refere o Decreto-lei número 7.903, de 27 de agôsto de 1945.

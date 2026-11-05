@@ -1,7 +1,3 @@
-1
-
-###DEC-098650-0-000-20-12-1989@@@
-
 DECRETO Nº 98.650, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão ao Sistema de Comunicação Quarto Poder Ltda., para explorar Serviço Especial de Televisão por Assinatura - TVA, no Distrito Federal.

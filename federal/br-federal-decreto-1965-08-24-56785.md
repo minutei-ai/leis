@@ -1,5 +1,3 @@
-###DEC-056785-0-000-24-08-1965@@@
-
 Decreto nº 56.785, de 24 de agôsto de 1965.
 
 Declara de utilidade pública, imóvel que menciona na cidade de São Paulo, Estado de São Paulo.

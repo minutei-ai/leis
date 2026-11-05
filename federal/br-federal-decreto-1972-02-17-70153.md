@@ -1,5 +1,3 @@
-###DEC-070153-0-000-17-02-1972@@@
-
 decreto nº 70.153, de 17 de fevereiro de 1972.
 
 Redistribui cargo, com o respectivo ocupante, do Ministério da Fazenda para o Tribunal Regional do Trabalho da 1ª Região, e dá outras providências.

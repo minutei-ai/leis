@@ -1,5 +1,3 @@
-###DEC-082027-0-000-24-07-1978@@@
-
 Decreto nº 82.027, de 24 de julho de 1978.
 
 Concede reconhecimento ao curso de Processamento de Dados da Universidade Federal da Bahia, com sede na cidade de Salvador, Estado da Bahia.

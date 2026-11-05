@@ -1,5 +1,3 @@
-###DEC-095985-0-000-28-04-1988@@@
-
 DECRETO N° 95.985, DE 28 DE ABRIL DE 1988
 
 Declara de Utilidade Pública as instituições que menciona.

@@ -16,10 +16,49 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1704 - ENCARGOS ESPECIAIS</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PAGAMENTO DE PENSÕES ESPECIAIS</td><td style=" width:85px;    ">09 274 0200 7250</td><td style=" width:85px;    ">18040001</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">1 - PESSOAL E ENCARGOS SOCIAIS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 830.653,79</td><td style=" width:85px;    ">R$ 830.653,79</td></tr></tbody></table>
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1704 - ENCARGOS ESPECIAIS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS</td><td style=" width:340px;  height:19px;   ">R$ 830.653,79</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 830.653,79</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PAGAMENTO DE PENSÕES ESPECIAIS
+
+09 274 0200 7250
+
+18040001
+
+90
+
+1 - PESSOAL E ENCARGOS SOCIAIS
+
+R$ 0,00
+
+R$ 830.653,79
+
+R$ 830.653,79
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+18040001 - DEMAIS RECURSOS PREVIDENCIÁRIOS
+
+R$ 830.653,79
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 830.653,79

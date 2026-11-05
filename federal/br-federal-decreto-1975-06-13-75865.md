@@ -1,5 +1,3 @@
-###DEC-075865-0-000-13-06-1975@@@
-
 DECRETO Nº 75.865, DE 13 DE JUNHO DE 1975.
 
 Autoriza o funcionamento ao curso de Educação Artística da Faculdade de Música, mantida pela Associação Instituto Musical, com sede na Cidade de São Paulo, Estado de São Paulo.

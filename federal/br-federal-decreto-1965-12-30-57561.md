@@ -1,5 +1,3 @@
-###DEC-057561-0-000-30-12-1965@@@
-
 DECRETO Nº 57.561, DE 30 DE DEZEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado em Pôrto Alegre Estado do Rio Grande do Sul, necessário à Superintendência do Plano de Valorização Econômica da Região Fronteira Sudoeste do País.

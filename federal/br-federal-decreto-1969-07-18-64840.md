@@ -1,5 +1,3 @@
-###DEC-064840-0-000-18-07-1969@@@
-
 DECRETO Nº 64.840 - DE 18 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 30.721, de 3 de abril de 1952.

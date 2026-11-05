@@ -1,5 +1,3 @@
-###DEC-052083-0-000-30-05-1963@@@
-
 DECRETO Nº 52.083, de 30 de maio de 1963.
 
 Concede reconhecimento ao curso que indica.

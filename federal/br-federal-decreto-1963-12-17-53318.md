@@ -1,5 +1,3 @@
-###DEC-053318-0-000-17-12-1963@@@
-
 DECRETO Nº 53.318, DE 17 DE DEZEMBRO DE 1963.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde, aprovada pelo Decreto número 49.346, de 26 de novembro de 1960, e dá outras providências.

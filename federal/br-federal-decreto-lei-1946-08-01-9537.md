@@ -1,5 +1,3 @@
-###DEL-009537-0-000-01-08-1946@@@
-
 DECRETO-LEI N. 9.537 – DE 1 DE AGÔSTO DE 1946
 
 Transforma cargo isolado, de provimento efetivo, no quadro permanente do Ministério da Educação e Saúde.

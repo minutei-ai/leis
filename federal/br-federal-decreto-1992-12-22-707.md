@@ -1,7 +1,3 @@
-1
-
-###DEC-000707-0-000-22-12-1992@@@
-
 DECRETO N° 707, DE 22 DE DEZEMBRO DE 1992
 
 Altera o art. 2° do Decreto n° 99 540, de 21 de setembro de 1990, que instituiu a Comissão Coordenadora do Zoneamento Ecológico-Econômico do Território Nacional.

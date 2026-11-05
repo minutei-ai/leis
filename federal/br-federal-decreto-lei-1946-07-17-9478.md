@@ -1,5 +1,3 @@
-###DEL-009478-0-000-17-07-1946@@@
-
 DECRETO-LEI N. 9.478 – DE 17 DE JULHO DE 1946
 
 Prorroga até 30 de Setembro de 1946 a aplicação do Decreto-Lei  n° 9.106 de 29 de Março de 1946.

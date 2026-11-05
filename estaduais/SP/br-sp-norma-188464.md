@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188464)
-
 # DECRETO Nº 63.847, DE 26 DE NOVEMBRO DE 2018
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária ROTA DAS BANDEIRAS S.A., o imóvel necessário às obras de implantação da passarela localizada no km 143+100m (antigo km 143+500m) pista norte da Rodovia Professor Zeferino Vaz, SP-332, Município de Cosmópolis, Comarca de Campinas, no trecho que especifica e dá providências correlatas_

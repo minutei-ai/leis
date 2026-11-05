@@ -1,5 +1,3 @@
-###MPV-002072-0-066-22-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.072-66, DE 22 DE MARÇO DE 2001
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

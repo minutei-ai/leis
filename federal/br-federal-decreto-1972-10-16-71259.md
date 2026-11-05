@@ -1,5 +1,3 @@
-###DEC-071259-0-000-16-10-1972@@@
-
 DECRETO Nº 71.259, DE 16 DE OUTUBRO DE 1972.
 
 Concede permissão, em caráter permanente, à empresa Ripasa S.A. - Celulose e Papel, para funcionar aos domingos e nos dias feriados civis e religiosos.

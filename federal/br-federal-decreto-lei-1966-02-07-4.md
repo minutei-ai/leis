@@ -1,7 +1,3 @@
-1
-
-###DEL-000004-0-000-07-02-1966@@@
-
 DECRETO-LEI Nº 4, DE 7 DE FEVEREIRO DE 1966
 
 Regula a ação de despejo de prédios não residenciais e dá outras providências.

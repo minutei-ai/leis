@@ -1,5 +1,3 @@
-###DEC-054105-0-000-06-08-1964@@@
-
 Decreto nº 54.105, De 6 De Agôsto De 1964.
 
 Cria o “Fundo de Democratização do Capital das Emprêsas” e provê sôbre financiamento para produção e exportação de produtos manufaturados.

@@ -1,5 +1,3 @@
-###DEC-093478-0-000-28-10-1986@@@
-
 DECRETO Nº 93.478, DE 28 DE OUTUBRO DE 1986
 
 Dispõe sobre aumento do capital social da EMPRESA BRASILEIRA DE NOTÍCIAS - EBN.

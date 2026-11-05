@@ -1,5 +1,3 @@
-###DEC-005658-0-000-02-01-2006@@@
-
 DECRETO Nº 5.658, DE 2 DE JANEIRO DE 2006.
 
 Promulga a Convenção-Quadro sobre Controle do Uso do Tabaco, adotada pelos países membros da Organização Mundial de Saúde em 21 de maio de 2003 e assinada pelo Brasil em 16 de junho de 2003.

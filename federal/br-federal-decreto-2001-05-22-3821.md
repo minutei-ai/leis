@@ -1,5 +1,3 @@
-###DEC-003821-0-000-22-05-2001@@@
-
 DECRETO N 3.821, DE 22 DE MAIO DE 2001.
 
 Revoga o Decreto nº 3.684, de 7 de dezembro de 2000, que dispõe sobre o Imposto de Exportação incidente sobre os couros  e peles compreendidos nos códigos 4104.10, 4104.22 e 4104.29.00 da Nomenclatura Comum do MERCOSUL – NCM.

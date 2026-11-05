@@ -1,5 +1,3 @@
-###DEL-009839-0-000-11-09-1946@@@
-
 DECRETO-LEI N. 9.839 – DE 11 DE SETEMBRO DE 1946
 
 Abre, ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 83.322,20, para pagamento de proventos de disponibilidade.

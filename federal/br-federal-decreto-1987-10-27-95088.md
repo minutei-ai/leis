@@ -1,5 +1,3 @@
-###DEC-095088-0-000-27-10-1987@@@
-
 DECRETO Nº 95.088, DE 27 DE OUTUBRO DE 1987
 
 Dispõe sobre o Subsistema de Capacitação do Pessoal Civil da Administração Federal, e dá outras providências.

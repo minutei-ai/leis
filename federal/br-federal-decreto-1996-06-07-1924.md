@@ -1,5 +1,3 @@
-###DEC-001924-0-000-07-06-1996@@@
-
 DECRETO N° 1.924, DE 7 DE JUNHO DE 1996.
 
 Dá nova redação ao parágrafo único do art. 8°, ao caput e §§ 1°, 3°, 4° e 5° do art. 9° e ao caput do art. 10, do Decreto n° 825, de 28 de maio de 1993, que estabelece normas para a programação e execução orçamentária e financeira dos Orçamentos Fiscal e da Seguridade Social e aprova quadro de cotas trimestrais de despesa para o Poder Executivo.

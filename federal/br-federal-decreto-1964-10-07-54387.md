@@ -1,5 +1,3 @@
-###DEC-054387-0-000-07-10-1964@@@
-
 decreto nº 54.387, de 7 de outubro de 1964.
 
 Revoga o Decreto nº 53.869, de 14 de abril de 1964, e dispõe sôbre o automobilismo nacional.

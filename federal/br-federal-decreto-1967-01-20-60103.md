@@ -1,5 +1,3 @@
-###DEC-060103-0-000-20-01-1967@@@
-
 DECRETO Nº 60.103, DE 20 DE JANEIRO DE 1967.
 
 Concede reconhecimento ao Conservatório de Música “Alberto Nepomuceno”.

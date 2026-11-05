@@ -1,7 +1,3 @@
-1
-
-###DEC-098003-0-000-31-07-1989@@@
-
 DECRETO N° 98.003, DE 31 DE JULHO DE 1989
 
 Declara o valor do salário-minimo do mês de agosto de 1989, na forma da Lei nº 7.789, de 3 de julho de 1989.

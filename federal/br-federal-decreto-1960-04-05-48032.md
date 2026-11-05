@@ -1,5 +1,3 @@
-###DEC-048032-0-000-05-04-1960@@@
-
 decreto nº 48.032, de 5 de abril de 1960.
 
 Retifica o Decreto nº 47.621, de 15 de janeiro de 1960.

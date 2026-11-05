@@ -1,5 +1,3 @@
-###DEC-048009-0-000-05-04-1960@@@
-
 DECRETO Nº 48.009, DE 5 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro Ernesto Tausz a pesquisar mica e quartzo no município de Capelinha, Estado de Minas Gerais.

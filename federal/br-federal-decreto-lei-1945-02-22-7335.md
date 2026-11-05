@@ -1,5 +1,3 @@
-###DEL-007335-0-000-22-02-1945@@@
-
 DECRETO-LEI N. 7.335 – DE 22 DE FEVEREIRO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$  24.167,30, para pagamento de fornecimentos feitos ao Ministério da Agricultura em 1943

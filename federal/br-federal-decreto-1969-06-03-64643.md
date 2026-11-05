@@ -1,5 +1,3 @@
-###DEC-064643-0-000-03-06-1969@@@
-
 DECRETO Nº 64.643, DE 3 DE JUNHO DE 1969.
 
 Declara de utilidade pública a Sociedade de Cultura Artística de Sergipe - SCAS, com sede em Aracaju, Estado de Sergipe.

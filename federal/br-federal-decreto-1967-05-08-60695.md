@@ -1,5 +1,3 @@
-###DEC-060695-0-000-08-05-1967@@@
-
 DECRETO Nº 60.695, DE 8 DE MAIO DE 1967.
 
 Inclui servidor no Quadro de Pessoal da Fundação Brasil Central, e dá outras providências.

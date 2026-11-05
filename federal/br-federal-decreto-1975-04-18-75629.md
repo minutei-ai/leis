@@ -1,5 +1,3 @@
-###DEC-075629-0-000-18-04-1975@@@
-
 DECRETO Nº 75.629, DE 18 DE ABRIL DE 1975.
 
 Concede reconhecimento às habilitações em Português-Inglês e Português-Literatura do curso de Letras da Faculdade de Filosofia Ciências e Letras de Nova Iguaçu, mantida pela Sociedade de Ensino Superior de Nova Iguaçu, com sede na cidade de Nova Iguaçu, Estado do Rio de Janeiro.

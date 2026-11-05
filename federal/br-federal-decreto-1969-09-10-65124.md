@@ -1,5 +1,3 @@
-###DEC-065124-0-000-10-09-1969@@@
-
 DECRETO Nº 65.124 - de 10 de Setembro de 1969.
 
 Declara caduco o Decreto nº 19.908, de 14 de novembro de 1945.

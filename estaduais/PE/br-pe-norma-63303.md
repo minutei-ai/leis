@@ -32,304 +32,62 @@ ERNANI VARJAL MEDICIS PINTO
 
 **(CRÉDITO SUPLEMENTAR)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:10.4pt"><td colspan="2" style="border:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">PROGRAMAÇÃO ANUAL DE TRABALHO</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ORÇAMENTO FISCAL 2022</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">EM R$</span></p></td><td style="border:solid windowtext 1.0pt;border-left:none;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr style="height:9.6pt"><td colspan="2" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ESPECIFICAÇÃO</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="3" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">RECURSOS DE TODAS AS FONTES</span></p></td></tr><tr style="height:10.4pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FONTE</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR</span></p></td></tr><tr style="height:9.6pt"><td colspan="3" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">31000 - SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr style="height:10.0pt"><td colspan="2" style="border:solid windowtext 1.0pt;border-top:none;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">00506 Empresa Pernambuco de Comunicação S.A. - EPC</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr style="height:9.2pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Atividade:</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">24.122.0452.3363 - Conservação do Patrimônio Público na Empresa Pernambuco de</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">28.700,00</span></p></td></tr><tr style="height:8.8pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Comunicação S/A</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr style="height:10.0pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.3.90.00 - Outras Despesas Correntes</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0101</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">28.700,00</span></p></td></tr><tr style="height:9.2pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Atividade:</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">24.122.0452.4657 - Gestão das atividades da Empresa Pernambuco de Comunicação</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:9.2pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.938.300,00</span></p></td></tr><tr style="height:8.8pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">S/A</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:8.8pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td></tr><tr style="height:10.0pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.3.90.00 - Outras Despesas Correntes</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0101</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.938.300,00</span></p></td></tr><tr style="height:10.0pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Projeto:</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">24.722.1082.4656 - Reestruturação da TV Pernambuco</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.300.000,00</span></p></td></tr><tr style="height:10.4pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.4.90.00 - Investimentos</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0101</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.300.000,00</span></p></td></tr><tr style="height:11.0pt"><td style="border:solid windowtext 1.0pt;border-top:none;padding:0cm 0cm 0cm 0cm;
-  height:11.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">TOTAL</span></p></td><td style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td colspan="2" style="border-top:none;border-left:none;border-bottom:solid windowtext 1.0pt;
-  border-right:solid windowtext 1.0pt;padding:0cm 0cm 0cm 0cm;height:11.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> PROGRAMAÇÃO ANUAL DE TRABALHO </td><td> ORÇAMENTO FISCAL 2022 </td><td> &nbsp; </td><td> EM R$ </td><td> &nbsp; </td></tr><tr><td colspan="2"> ESPECIFICAÇÃO </td><td> &nbsp; </td><td colspan="3"> RECURSOS DE TODAS AS FONTES </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> &nbsp; </td><td> FONTE </td><td colspan="2"> VALOR </td></tr><tr><td colspan="3"> 31000 - SECRETARIA DE CIÊNCIA, TECNOLOGIA E INOVAÇÃO </td><td> &nbsp; </td><td colspan="2"> &nbsp; </td></tr><tr><td colspan="2"> 00506 Empresa Pernambuco de Comunicação S.A. - EPC </td><td> &nbsp; </td><td> &nbsp; </td><td colspan="2"> &nbsp; </td></tr><tr><td> Atividade: </td><td colspan="2"> 24.122.0452.3363 - Conservação do Patrimônio Público na Empresa Pernambuco de </td><td> &nbsp; </td><td colspan="2"> 28.700,00 </td></tr><tr><td> &nbsp; </td><td> Comunicação S/A </td><td> &nbsp; </td><td> &nbsp; </td><td colspan="2"> &nbsp; </td></tr><tr><td> &nbsp; </td><td> 3.3.90.00 - Outras Despesas Correntes </td><td> &nbsp; </td><td> 0101 </td><td colspan="2"> 28.700,00 </td></tr><tr><td> Atividade: </td><td colspan="2"> 24.122.0452.4657 - Gestão das atividades da Empresa Pernambuco de Comunicação </td><td> &nbsp; </td><td colspan="2"> 1.938.300,00 </td></tr><tr><td> &nbsp; </td><td> S/A </td><td> &nbsp; </td><td> &nbsp; </td><td colspan="2"> &nbsp; </td></tr><tr><td> &nbsp; </td><td> 3.3.90.00 - Outras Despesas Correntes </td><td> &nbsp; </td><td> 0101 </td><td colspan="2"> 1.938.300,00 </td></tr><tr><td> Projeto: </td><td colspan="2"> 24.722.1082.4656 - Reestruturação da TV Pernambuco </td><td> &nbsp; </td><td colspan="2"> 1.300.000,00 </td></tr><tr><td> &nbsp; </td><td> 4.4.90.00 - Investimentos </td><td> &nbsp; </td><td> 0101 </td><td colspan="2"> 1.300.000,00 </td></tr><tr><td> &nbsp; </td><td> &nbsp; </td><td> TOTAL </td><td> &nbsp; </td><td colspan="2"> 3.267.000,00 </td></tr></tbody></table>
 
 **ANEXO II**
 
 **(art. 43, § 1°, inciso II, da Lei Federal n° 4.320, de 1964)**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="background:white;border-collapse:collapse;border:none"><tbody><tr style="height:10.4pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;padding:
-  0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="369" style="width:276.4pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="132" style="width:98.9pt;border:solid windowtext 1.0pt;border-left:
-  none;padding:0cm 0cm 0cm 0cm;height:10.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">RECEITA DE TODAS AS FONTES EM R$</span></p></td></tr><tr style="height:12.0pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:12.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">CÓDIGO</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:12.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ESPECIFICAÇÃO</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:12.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALOR</span></p></td></tr><tr style="height:9.6pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.0.0.0.00.0.0</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Receitas Correntes</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:9.6pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:10.0pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.0.0.00.0.0</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Impostos, Taxas e Contribuições de Melhoria</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:10.0pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.1.0.00.0.0</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Impostos</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:10.0pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.1.2.00.0.0</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Impostos sobre o Patrimônio</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:10.0pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.1.2.51.0.0</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Imposto sobre a Propriedade de Veículos Automotores</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:10.0pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.1.2.51.1.1</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Imposto sobre a Propriedade de Veículos Automotores - Principal</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.0pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:1.65pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:1.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1.1.1.2.51.1.1</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Imposto sobre a Propriedade de Veículos Automotores - Principal</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:1.65pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr><tr style="height:10.5pt"><td width="104" style="width:77.75pt;border:solid windowtext 1.0pt;border-top:
-  none;padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;</span></p></td><td width="369" style="width:276.4pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;TOTAL&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p></td><td width="132" style="width:98.9pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 0cm 0cm 0cm;height:10.5pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.267.000,00</span></p></td></tr></tbody></table>
+RECEITA DE TODAS AS FONTES EM R$
+
+CÓDIGO
+
+ESPECIFICAÇÃO
+
+VALOR
+
+1.0.0.0.00.0.0
+
+Receitas Correntes
+
+3.267.000,00
+
+1.1.0.0.00.0.0
+
+Impostos, Taxas e Contribuições de Melhoria
+
+3.267.000,00
+
+1.1.1.0.00.0.0
+
+Impostos
+
+3.267.000,00
+
+1.1.1.2.00.0.0
+
+Impostos sobre o Patrimônio
+
+3.267.000,00
+
+1.1.1.2.51.0.0
+
+Imposto sobre a Propriedade de Veículos Automotores
+
+3.267.000,00
+
+1.1.1.2.51.1.1
+
+Imposto sobre a Propriedade de Veículos Automotores - Principal
+
+3.267.000,00
+
+1.1.1.2.51.1.1
+
+Imposto sobre a Propriedade de Veículos Automotores - Principal
+
+3.267.000,00
+
+TOTAL
+
+3.267.000,00

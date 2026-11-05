@@ -1,5 +1,3 @@
-###DEC-058734-0-000-27-06-1966@@@
-
 DECRETO Nº 58.734, DE 27 DE JUNHO DE 1966.
 
 Autoriza a cidadã brasileira Victoria Malloy de Rezende a pesquisar calcário e calcita no município de Pedro Leopoldo, Estado de Minas Gerais.

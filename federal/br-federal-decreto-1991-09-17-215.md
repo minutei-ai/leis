@@ -1,5 +1,3 @@
-###DEC-000215-0-000-17-09-1991@@@
-
 DECRETO Nº 215, DE 17 DE SETEMBRO DE 1991
 
 Altera o § 4º do art. 39 do Decreto nº 99.463, de 16 de agosto de 1990.

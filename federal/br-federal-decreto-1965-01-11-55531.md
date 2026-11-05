@@ -1,5 +1,3 @@
-###DEC-055531-0-000-11-01-1965@@@
-
 Decreto nº 55.531, de 11 de janeiro de 1965.
 
 Autoriza a Companhia de Cimento Portland Maringá a lavrar calcáreo no município de Itapeva, Estado de São Paulo.

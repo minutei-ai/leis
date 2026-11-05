@@ -1,5 +1,3 @@
-###DEC-049084-0-000-07-10-1960@@@
-
 DECRETO Nº 49.084, DE 7 DE OUTUBRO DE 1960.
 
 Autoriza a Rio Light S.A - Serviços de eletricidade e Carris a construir uma linha de transmissão entre as localidades de Volta Redonda e Saudade, no município de Barros Mansa, Estado do Rio de Janeiro.

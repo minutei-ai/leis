@@ -1,5 +1,3 @@
-###DEC-080549-0-000-11-10-1977@@@
-
 DECRETO Nº 80.549, DE 11 DE OUTUBRO DE 1977.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Contábeis de Caratinga, com sede na cidade de Caratinga, Estado de Minas Gerais.

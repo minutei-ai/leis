@@ -1,5 +1,3 @@
-###DEC-066675-0-000-09-06-1970@@@
-
 DECRETO nº 66.675, DE 9 DE JUNHO DE 1970.
 
 Transforma o 9° Regimento de Infantaria em 9° Batalhão de Infantaria e dá outras providências.

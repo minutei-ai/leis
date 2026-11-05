@@ -1,5 +1,3 @@
-###DEC-074294-0-000-16-07-1974@@@
-
 DECRETO Nº 74.294 - DE 16 DE JULHO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Sociais da Faculdade de Filosofia, Ciências e Letras "Camilo Castelo Branco", mantida pela Associação Itaquerense de Ensino, com sede na Cidade de São Paulo, Estado de São Paulo.

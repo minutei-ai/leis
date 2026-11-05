@@ -1,5 +1,3 @@
-###DEC-049811-0-000-31-12-1960@@@
-
 DECRETO Nº 49.811, DE 31 DE DEZEMBRO DE1960.
 
 Declara de utilidade pública a Irmandade de Misericórdia de Campinas, com sede em Campinas, Estado de São Paulo.

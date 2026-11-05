@@ -1,5 +1,3 @@
-###DEC-064448-0-000-02-05-1969@@@
-
 DECRETO Nº 64.448, DE 2 DE MAIO DE 1969.
 
 Ativa os Núcleos dos Comandos do Comando Geral de Apoio, do Comando dos Serviços de Apoio Militar e do Comando dos Serviços de Infra-estrutura e dá outra providências.

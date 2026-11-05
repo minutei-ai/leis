@@ -1,5 +1,3 @@
-###DEC-054538-0-000-22-10-1964@@@
-
 Decreto nº 54.538, de 22 de outubro de 1964.
 
 Autoriza o cidadão brasileiro José da Silva Marques a Lavrar minério de Cromo, no município de Campo Formoso, no Estado da Bahia.

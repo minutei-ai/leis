@@ -1,5 +1,3 @@
-###DEC-082201-0-000-30-08-1978@@@
-
 Decreto nº 82.201, de 30 de agosto de 1978.
 
 Dispõe sobre a transferência do Laboratório Central de Controle de Drogas, Medicamentos e Alimentos da estrutura da Administração Direta do Ministério da Saúde para a Fundação Oswaldo e dá outras providências

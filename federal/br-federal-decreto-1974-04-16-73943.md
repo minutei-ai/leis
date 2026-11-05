@@ -1,5 +1,3 @@
-###DEC-073943-0-000-16-04-1974@@@
-
 DECRETO Nº 73.943, de 16 de abril de 1974.
 
 Concede à Mineração e Química do Nordeste Ltda., o direito de lavrar salgema nos Municípios de Vera Cruz e Jaguaribe, Estado da Bahia.

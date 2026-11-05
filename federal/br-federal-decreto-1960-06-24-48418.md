@@ -1,5 +1,3 @@
-###DEC-048418-0-000-24-06-1960@@@
-
 DECRETO Nº 48.418, DE 24 DE JUNHO DE 1960.
 
 Outorga à Emprêsa Luz e Fôrça Itabapoana Ltda., concessão para o aproveitamento de energia hidráulica da queda Quincas Reis, localizada no curso d’água Itabapoana entre os distritos de Bom Jesus do Norte, município de São José do Calçado, Estado do Espírito Santo e Bom Jesus do Itabapoana, município de igual nome, Estado do Rio de Janeiro.

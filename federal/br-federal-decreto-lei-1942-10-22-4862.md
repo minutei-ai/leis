@@ -1,5 +1,3 @@
-###DEL-004862-0-000-22-10-1942@@@
-
 DECRETO-LEI N. 4.862 – DE 22 DE OUTUBRO DE 1942
 
 Cria funções gratificadas na Inspetoria Federal de Obras Contra as Secas e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-004054-0-000-13-12-2001@@@
-
 DECRETO Nº 4.054, DE 13 DE dezembro de 2001
 
 Prorroga o prazo de contratação de operações de crédito ao amparo do Programa de Revitalização de Cooperativas de Produção Agropecuária – RECOOP e o de atividades do Comitê Executivo, de que tratam, respectivamente, os arts. 1o, parágrafo único, e 5o do Decreto no 3.701, de 27 de dezembro de 2000.

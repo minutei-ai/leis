@@ -1,5 +1,3 @@
-###DEC-070947-0-000-07-08-1972@@@
-
 DECRETO Nº 70.947, de 7 de Agosto de 1972.
 
 Concede permissão, em caráter permanente, à empresa Brasivil Resinas Vinílicas Ltda., para funcionar aos domingos e dias feriados civis e religiosos.

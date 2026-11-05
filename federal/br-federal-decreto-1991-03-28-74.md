@@ -1,5 +1,3 @@
-###DEC-000074-0-000-28-03-1991@@@
-
 DECRETO Nº 74, DE 28 DE MARÇO DE 1991
 
 Dispõe sobre a concessão de auxílios a municípios atingidos pela seca.

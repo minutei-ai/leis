@@ -20,7 +20,8 @@ II – as propostas validadas serão remetidas à Secretaria Executiva do Consel
 
 § 2º Na avaliação de que trata o § 1º deste artigo, deverão ser observados os seguintes critérios:
 
-I – as propostas apresentadas devem conter elementos mínimos suficientes que permitam uma estimativa de custo e impacto econômico de cada empreendimento e, se a futura contratação for feita com base na Lei nº 14.133, de 1º de abril de 2021, deverá ser apresentado o estudo técnico de viabilidade; e<br>
+I – as propostas apresentadas devem conter elementos mínimos suficientes que permitam uma estimativa de custo e impacto econômico de cada empreendimento e, se a futura contratação for feita com base na Lei nº 14.133, de 1º de abril de 2021, deverá ser apresentado o estudo técnico de viabilidade; e
+
 \- [Redação dada pelo Decreto nº 10.316, de 12-09-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107713/decreto-10316).
 
 ~~I – as propostas apresentadas devem estar acompanhadas do estudo técnico de viabilidade, que deve conter elementos mínimos suficientes que permitam uma estimativa de custo e de impacto econômico de cada empreendimento; e~~
@@ -37,7 +38,8 @@ d) à definição de metas quantificáveis e prazos para seu alcance; e
 
 e) à operacionalização das atividades previstas nas propostas, os objetivos a serem alcançados e as premissas ou os cenários que motivaram a apresentação do que se propõe.
 
-§ 3º Se houver a aprovação da proposta e, se for o caso,do estudo técnico de viabilidade, com a obtenção dos estudos e dos projetos de engenharia em que se detalhe o escopo, a proposta deverá ser novamente submetida à homologação pelo Conselho Gestor, para viabilizar o início da fase de licitação e contratação.<br>
+§ 3º Se houver a aprovação da proposta e, se for o caso,do estudo técnico de viabilidade, com a obtenção dos estudos e dos projetos de engenharia em que se detalhe o escopo, a proposta deverá ser novamente submetida à homologação pelo Conselho Gestor, para viabilizar o início da fase de licitação e contratação.
+
 \- [Redação dada pelo Decreto nº 10.316, de 12-09-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107713/decreto-10316).
 
 ~~§ 3º Em caso de aprovação da proposta e do estudo técnico de viabilidade, se forem obtidos os estudos e os projetos de engenharia de que conste o detalhamento do escopo, a proposta deverá ser novamente submetida ao Conselho Gestor para a homologação, para viabilizar o início da fase de licitação e contratação.~~
@@ -124,7 +126,8 @@ VI – 4 (quatro) representantes da iniciativa privada.
 
 § 3º Os membros do Conselho Gestor não serão remunerados pelos trabalhos desenvolvidos em favor do FUNDEINFRA.
 
-§ 4º Os conselheiros representantes da iniciativa privada e os respectivos suplentes, nomeados pelo Governador do Estado, terão o mandato de 12 (doze) meses, contados da data da posse, com a possibilidade de renovação a critério do Chefe do Poder Executivo.<br>
+§ 4º Os conselheiros representantes da iniciativa privada e os respectivos suplentes, nomeados pelo Governador do Estado, terão o mandato de 12 (doze) meses, contados da data da posse, com a possibilidade de renovação a critério do Chefe do Poder Executivo.
+
 \- [Redação dada pelo Decreto nº 10.648, de 20-2-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110435).
 
 ~~§ 4º Os conselheiros representantes da iniciativa privada e os respectivos suplentes, nomeados pelo Governador do Estado, terão o mandato de 12 (doze) meses, contados da data da posse, com a possibilidade de uma renovação também a critério do Chefe do Poder Executivo.~~

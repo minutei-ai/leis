@@ -1,5 +1,3 @@
-###DEC-004325-0-000-07-08-2002@@@
-
 DECRETO Nº 4.325, DE 7 DE AGOSTO DE 2002
 
 Fixa preços mínimos básicos para cafés arábica e robusta, safra 2001/2002, para servirem de base na definição dos respectivos preços de exercício em contratos de opção de venda a serem lançados pelo Governo Federal.
@@ -26,4 +24,40 @@ A N E X O
 
 Preços Mínimos - Cafés arábica e robusta - Safra 2001/2002
 
-<table cellspacing="2" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-spacing:1.5pt"><tbody><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Produto</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Unidades da Federação/Regiões Amparadas</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo /Classe Básico</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Unidade</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Início de Vigência</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Preço Mínimo Básico</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span style="font-family:'Arial           '; font-size:1.2em; -aw-import:ignore">&nbsp;</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>R$ / 60kg</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Café arábica</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Todo o território nacional</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo 6, bebida dura para melhor</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>60 kg</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/02</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>113,00</span></p></td></tr><tr><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Café robusta</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Todo o território nacional</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Tipo 6, peneira 13 acima até 86 defeitos</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>60 kg</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>Ago/02</span></p></td><td style="border-style:solid; border-width:0.75pt; padding:0.38pt; vertical-align:middle"><p class="Anexo" style="margin-bottom:0pt; text-indent:0pt"><span>64,00</span></p></td></tr></tbody></table>
+Produto
+
+Unidades da Federação/Regiões Amparadas
+
+Tipo /Classe Básico
+
+Unidade
+
+Início de Vigência
+
+Preço Mínimo Básico
+
+R$ / 60kg
+
+Café arábica
+
+Todo o território nacional
+
+Tipo 6, bebida dura para melhor
+
+60 kg
+
+Ago/02
+
+113,00
+
+Café robusta
+
+Todo o território nacional
+
+Tipo 6, peneira 13 acima até 86 defeitos
+
+60 kg
+
+Ago/02
+
+64,00

@@ -1,5 +1,3 @@
-###DEC-080709-0-000-10-11-1977@@@
-
 DECRETO Nº 80.709, DE 10 DE NOVEMBRO DE 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

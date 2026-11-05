@@ -1,5 +1,3 @@
-###DEC-066436-0-000-10-04-1970@@@
-
 DECRETO Nº 66.436, DE 10 DE ABRIL DE 1970.
 
 Altera símbolo de função gratificada do Quadro de Pessoal do Ministério da Justiça.

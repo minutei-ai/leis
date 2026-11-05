@@ -1,5 +1,3 @@
-###DEC-001841-0-000-21-03-1996@@@
-
 DECRETO Nº 1.841, DE 21 DE MARÇO DE 1996.
 
 Altera o período de realização da X Conferência Nacional de Saúde.

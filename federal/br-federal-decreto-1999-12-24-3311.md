@@ -1,5 +1,3 @@
-###DEC-003311-0-000-24-12-1999@@@
-
 DECRETO Nº 3.311, DE 24 DE DEZEMBRO DE 1999.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.271, de 3 de dezembro de 1999.

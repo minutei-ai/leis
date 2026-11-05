@@ -1,24 +1,22 @@
-###DEC-026421-0-000-05-03-1949@@@
+**DECRETO Nº 26.421, DE 5 DE MARÇO DE 1949.**
 
-<strong>DECRETO Nº 26.421, DE 5 DE MARÇO DE 1949.</strong>
+***Outorga concessão á Rádio Sociedade de Friburgo Limitada, para estabelecer uma estação radiodifusora em Nova Friburgo, Estado do Rio de Janeiro.***
 
-<em><strong>Outorga concessão á Rádio Sociedade de Friburgo Limitada, para estabelecer uma estação radiodifusora em Nova Friburgo, Estado do Rio de Janeiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere, o artigo 87, n.º I, da Constituição atendendo ao que requreu a Rádio Sociedade de Friburgo Limitada, e tendo em vista o disposto no art. 5º  n.º XII da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere, o artigo 87, n.º I, da Constituição atendendo ao que requreu a Rádio Sociedade de Friburgo Limitada, e tendo em vista o disposto no art. 5º  n.º XII da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica outorgada concessão à Rádio Sociedade, de Friburgo Limitada, nos têrmos do artigo 11, do Decreto n.º 24.655, de 11 de junho de 1934 para estabelecer, na cidade de Nova Friburgo, Estado do Rio de Janeiro, sem direito de exclusividade, uma estação radiodifusora de acôrdocom as cláusulas que com êste baixam, assinadas pelo Ministro da Viação e obras Públicas.
 
-Parágrafo único. O contrato decretante desta concessão deverá ser assinado dentro de sessenta (60) dias a contar no <em>Diário Oficial,</em> sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único. O contrato decretante desta concessão deverá ser assinado dentro de sessenta (60) dias a contar no *Diário Oficial,* sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 5 de março de 1949;
 
-<strong>EURICO G. DUTRA.</strong>
+**EURICO G. DUTRA.**
 
 Clovis Pestana.
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO N.º 26.421, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO N.º 26.421, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas em que não esteja prevista a imediata caducidade da concessão o Govêrno poderá pelo órgão fiscalizador, impor à concessionária multa de Cr$ 100,00 (cem cruzeiros) a Cr4 5.000,00 (cinco mil cruzeiros) conforme a gravidade de infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente á concessionária oui da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente á concessionária oui da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -86,7 +84,7 @@ VIII
 
 A concessão será considerada caduca, todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo fôr verificada inobservância das disposições contidas nas alíneas <em>a, b, c, d, e (infine) j, k, e l</em> da cláusula III;
+a) se, em todo o tempo fôr verificada inobservância das disposições contidas nas alíneas *a, b, c, d, e (infine) j, k, e l* da cláusula III;
 
 b) se não foram pagas dentro dos prazos estabelecidos a quota e contribuições a que se refere a alínea e as cláusula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
@@ -102,4 +100,4 @@ b) se a concessionária incidir reiteradamente em infrações possíveis de mult
 
 Rio de Janeiro, 5 de março de 1949.
 
-<strong>CLÓVIS PESTANA</strong>
+**CLÓVIS PESTANA**

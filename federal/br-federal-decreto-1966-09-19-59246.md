@@ -1,5 +1,3 @@
-###DEC-059246-0-000-19-09-1966@@@
-
 DECRETO Nº 59.246, DE 19 DE SETEMBrO DE 1966.
 
 Transfere, da Companhia de Eletrificação Centro-Norte do Ceará, para a Companhia de Eletificação Rural do Nordeste, concessão para distribuir energia elétrica.

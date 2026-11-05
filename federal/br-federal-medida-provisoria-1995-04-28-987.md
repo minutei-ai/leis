@@ -1,7 +1,3 @@
-1
-
-###MPV-000987-0-000-28-04-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 987, DE 28 DE ABRIL 1995
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

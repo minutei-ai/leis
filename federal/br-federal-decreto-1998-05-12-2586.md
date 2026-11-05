@@ -1,5 +1,3 @@
-###DEC-002586-0-000-12-05-1998@@@
-
 DECRETO Nº 2.586, DE 12 DE MAIO DE 1998
 
 promulga o Acordo sobre Cooperação em Matéria Ambiental, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Argentina em Buenos Aires, em 9 de abril de 1996.

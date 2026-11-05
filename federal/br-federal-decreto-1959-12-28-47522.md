@@ -1,5 +1,3 @@
-###DEC-047522-0-000-28-12-1959@@@
-
 DECRETO Nº 47.522, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Silvério Mendonça de Magalhães a pesquisar caulim, feldspato e mica no município de Tombos, Estado de Minas Gerais.

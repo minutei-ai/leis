@@ -1,5 +1,3 @@
-###DEC-049040-0-000-05-10-1960@@@
-
 DECRETO Nº 49.040, de 5 de outubro de 1960.
 
 Autoriza o cidadão brasileiro Bento Augusto de Moura a lavrar calcário nos municípios de Piracicaba e Rio das Pedras, Estado de S. Paulo.

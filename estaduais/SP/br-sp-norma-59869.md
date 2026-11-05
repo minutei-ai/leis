@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59869)
-
 # LEI Nº 12.190, DE 06 DE JANEIRO DE 2006
 
 ### _Dispõe sobre a revisão anual de vencimentos e proventos dos servidores públicos do Ministério Público do Estado de São Paulo_

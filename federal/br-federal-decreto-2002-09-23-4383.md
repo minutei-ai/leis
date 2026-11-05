@@ -1,5 +1,3 @@
-###DEC-004383-0-000-23-09-2002@@@
-
 DECRETO Nº 4.383, DE 23 DE SETEMBRO DE 2002 - 1ª PARTE
 
 Dispõe sobre a execução do Acordo de Complementação Econômica nº 53, entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos, de 3 de julho de 2002.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51041)
-
 # LEI Nº 11.723, DE 25 DE MAIO DE 2004
 
 ## (PL 592/2002 - Sidney Beraldo)

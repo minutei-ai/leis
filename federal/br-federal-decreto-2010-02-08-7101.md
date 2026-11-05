@@ -1,5 +1,3 @@
-###DEC-007101-0-000-08-02-2010@@@
-
 DECRETO Nº 7.101, DE 8 DE FEVEREIRO DE 2010.
 
 Delega competência ao Ministro de Estado das Relações Exteriores para dispor sobre transporte aéreo e hospedagem dos integrantes dos eventos que menciona.

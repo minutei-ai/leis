@@ -1,5 +1,3 @@
-###DEC-083193-0-000-23-02-1979@@@
-
 Decreto nº 83.193, de 23 de fevereiro de 1979
 
 Concede à Indústria Luchsinger Madorin S.A. o direito de lavrar minério fosfatado no Município de Anitápolis, Estado de Santa Catarina.

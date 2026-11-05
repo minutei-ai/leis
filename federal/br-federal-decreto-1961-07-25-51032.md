@@ -1,5 +1,3 @@
-###DEC-051032-0-000-25-07-1961@@@
-
 DECRETO Nº 51.032, DE 25 DE JULHO DE 1961.
 
 Disciplina a concessão de novas Cartas-Patentes e os sorteios por elas autorizadas, dando outras providências.

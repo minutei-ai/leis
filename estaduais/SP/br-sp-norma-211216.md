@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211216)<br>
-
 # DECRETO N° 69.719, DE 18 DE JULHO DE 2025
 
 ### _Institui, junto ao Fundo Social de São Paulo - FUSSP, o Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo e dá providências correlatas._
@@ -34,14 +32,16 @@ TARCÍSIO DE FREITAS
 
 Arthur Luis Pinho de Lima
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o artigo 3° deste decreto
 
 Termo de convênio que entre si celebram o Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo, e o Município de \_\_\_, objetivando a aquisição de equipamentos, mediante a transferência de recursos financeiros, no bojo do Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo.
 
 O Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo, CNPJ n° 44.111.698/0001-98, doravante denominado FUSSP, neste ato representado por seu(sua) Chefe de Gabinete, Senhor(a) \_\_\_\_\_, portador(a) da Cédula de Identidade RG n° \_\_\_\_\_ e do CPF n° \_\_\_\_\_\_, e o Município de \_\_\_\_\_\_\_, neste ato representado por seu(sua) Prefeito(a), Senhor(a) \_\_\_\_\_\_\_, portador(a) da Cédula de Identidade RG n° \_\_\_\_\_ e do CPF n° \_\_\_\_\_\_, doravante denominado MUNICÍPIO, celebram o presente CONVÊNIO, que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021, e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), em conformidade com a seguintes cláusulas e condições:
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio a conjugação de esforços entre os partícipes, com a finalidade de adquirir equipamentos a serem utilizados pelo MUNICÍPIO em ações do Fundo Social Municipal, no âmbito do Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo, instituído pelo Decreto n° \_\_\_\_\_, mediante transferência de recursos financeiros, de acordo com o Plano de Trabalho constante do Processo SEI n° \_\_\_\_\_, que faz parte integrante e indissociável deste ajuste como Anexo I.
@@ -50,7 +50,8 @@ Constitui objeto deste convênio a conjugação de esforços entre os partícipe
 
 **§ 2° -** As modificações do Plano de Trabalho deverão ser formalizadas mediante termo de aditamento.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações dos Partícipes
 
 Para a execução do presente convênio, o FUSSP e o MUNICÍPIO terão as seguintes obrigações:
@@ -95,14 +96,16 @@ l) quando for o caso:
 
 2\. conservar e manter a identidade visual do veículo, que deverá estar em conformidade com normas específicas editadas pela FUSSP.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Dos Representantes dos Partícipes
 
 O FUSSP e o MUNICÍPIO indicarão, no prazo de 5 (cinco) dias após a assinatura deste termo, os respectivos representantes, que serão responsáveis pelo acompanhamento e pela fiscalização da execução deste convênio.
 
 **Parágrafo único -** Os representantes a que se refere o "caput" desta cláusula poderão ser substituídos mediante prévia comunicação por escrito entre os partícipes.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio, destinado à execução de seu objeto, é de R$ \_\_\_\_, de responsabilidade do ESTADO, que onerará o elemento econômico do orçamento do Fundo Social de São Paulo.
@@ -117,7 +120,8 @@ O valor do presente convênio, destinado à execução de seu objeto, é de R$ \
 
 **§ 5° -** Os recursos transferidos pelo FUSSP ao MUNICÍPIO serão depositados em conta vinculada junto ao Banco do Brasil S. A., devendo ser aplicados, exclusivamente, na execução do objeto deste convênio.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Utilização dos Recursos
 
 Os recursos financeiros de responsabilidade do ESTADO serão transferidos pelo FUSSP ao MUNICÍPIO conforme cronograma de desembolso que integra o Plano de Trabalho, elaborado nos termos do artigo 10, §2°, do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625).
@@ -142,7 +146,8 @@ Os recursos financeiros de responsabilidade do ESTADO serão transferidos pelo F
 
 **§ 7° -** O cumprimento do disposto no § 6° poderá se dar pela comprovação, pelo MUNICÍPIO, de que os cadastros estão suspensos, nos termos do artigo 8° da [Lei n° 12.799, de 11 de janeiro de 2008](https://www.al.sp.gov.br/norma/75189).
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Glosa das Despesas
 
 É vedada a utilização dos recursos transferidos em finalidade diversa da estabelecida no plano de trabalho, bem como para:
@@ -153,7 +158,8 @@ II - pagamento de gratificação, consultoria ou qualquer espécie de remuneraç
 
 III - quitação de despesas realizadas antes da celebração deste convênio ou quando expirado seu prazo de vigência.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Prestação de Contas
 
 O MUNICÍPIO encaminhará ao FUSSP a prestação de contas parcial dos recursos transferidos e dos rendimentos apurados em aplicações no mercado financeiro, no prazo máximo de 30 (trinta) dias contados do recebimento dos equipamentos, em conformidade com o cronograma físico-financeiro, constituída das peças abaixo indicadas, as quais serão encartadas aos autos do processo correspondente para exame por parte do órgão competente:
@@ -180,7 +186,8 @@ VI- fotografias dos equipamentos comprovando a sua existência, com número de p
 
 **§ 5° -** O MUNICÍPIO manterá sob sua guarda, pelo prazo mínimo de 5 (cinco) anos contados do encerramento das etapas de execução do presente convênio, todos os documentos originais que comprovem as despesas efetuadas, tais como notas fiscais e recibos de prestação de serviços, com a identificação do convênio a que se referem.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Rescisão e da Denúncia
 
 O presente convênio poderá ser denunciado a qualquer tempo, mediante notificação prévia com antecedência de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de suas cláusulas, procedendo-se o competente acerto de compras.
@@ -191,12 +198,14 @@ O presente convênio poderá ser denunciado a qualquer tempo, mediante notifica�
 
 **§ 3° -** No caso de rescisão deste convênio o MUNICÍPIO ficará impedido de receber novo aporte de recursos financeiros estaduais, enquanto não sanada a irregularidade que deu ensejo à extinção, sem prejuízo dos ressarcimentos eventualmente devidos ao ESTADO.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Restituição dos Recursos
 
 Quando da conclusão da aquisição dos equipamentos ou da extinção deste instrumento, o MUNICÍPIO, no prazo de 30 (trinta) dias contados da ocorrência do evento, é obrigado a recolher, à conta do Tesouro Estadual, o eventual saldo remanescente dos recursos financeiros repassados e os rendimentos auferidos.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da proteção de dados e da confidencialidade
 
 Os PARTÍCIPES obrigam-se a cumprir as normas que asseguram a proteção de dados pessoais eventualmente tratados no âmbito deste CONVÊNIO, adotando as boas práticas exigidas para tal fim.
@@ -205,17 +214,20 @@ Os PARTÍCIPES obrigam-se a cumprir as normas que asseguram a proteção de dado
 
 **§ 2°-** Os PARTÍCIPES se obrigam a cumprir a Lei Geral de Proteção de Dados (Lei federal n° 13.709/2018), ou outra que a substituir, adotando as práticas exigidas, sob pena de arcar com as perdas e danos que eventualmente causarem, sem prejuízo das demais sanções aplicáveis.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Publicação
 
 A eficácia deste termo de convênio fica condicionada à publicação do respectivo extrato no Diário Oficial do Estado, nos termos do artigo 1° do [Decreto n° 61.476, de 3 de setembro de 2015](https://www.al.sp.gov.br/norma/175409), observando-se, ainda, o disposto no "caput" do artigo 91 c.c. artigo 184, ambos da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio deverá ser obrigatoriamente consignada a participação do Estado de São Paulo, obedecidos os padrões por ele estipulados, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Da Vigência
 
 O prazo de vigência deste convênio é de 1 (um) ano, contado da data da sua assinatura.
@@ -224,7 +236,8 @@ O prazo de vigência deste convênio é de 1 (um) ano, contado da data da sua as
 
 **§ 2° -** O FUSSP prorrogará de ofício a vigência do CONVÊNIO quando der causa ao atraso na liberação de recursos, limitada a prorrogação ao exato período do atraso verificado.
 
-#### CLÁUSULA DÉCIMA QUARTA<br>
+#### CLÁUSULA DÉCIMA QUARTA
+
 Das omissões e do Foro
 
 Os casos omissos e quaisquer dúvidas concernentes ao presente instrumento serão resolvidos de comum acordo entre os PARTÍCIPES.
@@ -257,14 +270,16 @@ Nome:
 
 CPF:
 
-#### ANEXO II<br>
+#### ANEXO II
+
 a que se refere o artigo 3° deste decreto
 
 Termo de convênio que entre si celebram o Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo, e o Município de \_\_\_, objetivando a transferência de equipamentos, no bojo do Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo.
 
 O Estado de São Paulo, por intermédio da Casa Civil, e esta pelo Fundo Social de São Paulo, CNPJ n° 44.111.698/0001-98, doravante denominado FUSSP, neste ato representado por seu(sua) Chefe de Gabinete, Senhor(a) \_\_\_\_\_, portador(a) da Cédula de Identidade RG n° \_\_\_\_\_ e do CPF n° \_\_\_\_\_\_, e o Município de \_\_\_\_\_\_\_, neste ato representado por seu(sua) Prefeito(a), Senhor(a) \_\_\_\_\_\_\_, portador(a) da Cédula de Identidade RG n° \_\_\_\_\_ e do CPF n° \_\_\_\_\_\_, doravante denominado MUNICÍPIO, celebram o presente CONVÊNIO, que se regerá pelas disposições da Lei federal n° 14.133, de 1° de abril de 2021, e do [Decreto n° 66.173, de 26 de outubro de 2021](https://www.al.sp.gov.br/norma/200625), em conformidade com a seguintes cláusulas e condições:
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio a conjugação de esforços entre os partícipes, com a finalidade de aparelhar o Fundo Social Municipal, mediante a transferência de equipamentos a serem utilizados, pelo MUNICÍPIO, no âmbito do Programa de Equipagem dos Fundos Sociais Municipais do Estado de São Paulo, de acordo com o Plano de Trabalho constante do Processo SEI n° , que faz parte integrante e indissociável deste ajuste como Anexo I.
@@ -273,7 +288,8 @@ Constitui objeto deste convênio a conjugação de esforços entre os partícipe
 
 **§ 2° -** As modificações do Plano de Trabalho deverão ser formalizadas mediante termo de aditamento.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações dos Partícipes
 
 Os partícipes terão as seguintes obrigações:
@@ -306,14 +322,16 @@ h) sempre que cabível:
 
 2\. conservar e manter a identidade visual do veículo, que deverá estar em conformidade com normas específicas editadas pelo FUSSP.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Dos Representantes dos Partícipes
 
 O FUSSP e o MUNICÍPIO indicarão, no prazo de 5 (cinco) dias após a assinatura deste termo, os respectivos representantes, que serão responsáveis pelo acompanhamento e pela fiscalização da execução deste convênio.
 
 **Parágrafo único -** Os representantes a que se refere o "caput" desta cláusula poderão ser substituídos mediante prévia comunicação por escrito entre os convenentes.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio, correspondente ao valor dos equipamentos a que se refere a cláusula primeira, é de R$ \_\_\_\_, de responsabilidade do ESTADO, que onerará o elemento econômico do orçamento do Fundo Social de São Paulo.
@@ -322,14 +340,16 @@ O valor do presente convênio, correspondente ao valor dos equipamentos a que se
 
 **§ 2° -** Ao MUNICÍPIO caberá fornecer os meios materiais e humanos necessários à utilização dos equipamentos transferidos, bem como providenciar, com recursos próprios, a documentação necessária à operação dos equipamentos.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO, quando solicitado pelo FUSSP, deverá apresentar documentação hábil a demonstrar a utilização dos equipamentos transferidos e cumprimento das obrigações deste convênio.
 
 **Parágrafo único -** O FUSSP poderá assinalar prazo de 15 (quinze) dias corridos, a contar da data da comunicação oficial, para regularização da prestação de contas pelo MUNICÍPIO.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Rescisão e da Denúncia
 
 O presente convênio poderá ser denunciado a qualquer tempo, mediante notificação prévia com antecedência de 30 (trinta) dias, e será rescindido por infração legal ou descumprimento de qualquer de suas cláusulas.
@@ -338,7 +358,8 @@ O presente convênio poderá ser denunciado a qualquer tempo, mediante notifica�
 
 **§ 2° -** Em caso de rescisão do convênio, reserva-se ao ESTADO a opção de reclamar a restituição imediata dos bens transferidos ou o recolhimento, à conta do Tesouro Estadual, do equivalente em recursos financeiros, limitado ao montante previsto na cláusula quarta deste convênio.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da proteção de dados e da confidencialidade
 
 Os PARTÍCIPES obrigam-se a cumprir as normas que asseguram a proteção de dados pessoais eventualmente tratados no âmbito deste CONVÊNIO, adotando as boas práticas exigidas para tal fim.
@@ -347,24 +368,28 @@ Os PARTÍCIPES obrigam-se a cumprir as normas que asseguram a proteção de dado
 
 **§ 2°-** Os PARTÍCIPES se obrigam a cumprir a Lei Geral de Proteção de Dados (Lei federal n° 13.709/2018), ou outra que a substituir, adotando as práticas exigidas, sob pena de arcar com as perdas e danos que eventualmente causarem, sem prejuízo das demais sanções aplicáveis.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Publicação
 
 A eficácia deste termo de convênio fica condicionada à publicação do respectivo extrato no Diário Oficial do Estado, nos termos do artigo 1° do [Decreto n° 61.476, de 3 de setembro de 2015](https://www.al.sp.gov.br/norma/175409), observando-se, ainda, o disposto no "caput" do artigo 91 c.c. artigo 184, ambos da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Ação Promocional
 
 Em qualquer ação promocional relacionada com o objeto do presente convênio deverá ser obrigatoriamente consignada a participação do Estado de São Paulo, obedecidos os padrões por ele estipulados, ficando vedada a utilização de nomes, símbolos ou imagens que caracterizem promoção pessoal de autoridades ou servidores públicos, nos termos do § 1° do artigo 37 da Constituição Federal.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Vigência
 
 O prazo de vigência deste convênio é de 1 (um) ano, contado da data da sua assinatura.
 
 **Parágrafo único -** Havendo motivo relevante e interesse dos partícipes, o presente convênio poderá ser prorrogado pelo prazo necessário à conclusão de seu objeto, depois de ouvido o órgão técnico competente, mediante termo de aditamento e prévia autorização do FUSSP.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Das omissões e do Foro
 
 Os casos omissos e quaisquer dúvidas concernentes ao presente instrumento serão resolvidos de comum acordo entre os PARTÍCIPES.

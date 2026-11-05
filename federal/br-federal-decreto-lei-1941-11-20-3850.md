@@ -1,5 +1,3 @@
-###DEL-003850-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.850 – DE 20 DE NOVEMBRO DE 1941
 
 Anula o decreto-lei n°  3.603, de 10 de setembro de 1941.

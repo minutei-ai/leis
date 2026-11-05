@@ -1,5 +1,3 @@
-###MPV-000225-0-000-22-11-2004@@@
-
 MEDIDA PROVISÓRIA Nº 225, DE 22 DE NOVEMBRO DE 2004
 
  Autoriza a Caixa Econômica Federal, em caráter excepcional e por tempo determinado, a arrecadar e alienar os diamantes brutos em poder dos indígenas Cintas-Largas habitantes das Terras Indígenas Roosevelt, Parque Indígena Aripuanã, Serra Morena e Aripuanã.

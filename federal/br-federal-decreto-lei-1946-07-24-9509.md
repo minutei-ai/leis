@@ -1,5 +1,3 @@
-###DEL-009509-0-000-24-07-1946@@@
-
 DECRETO-LEI N. 9.509 – DE 24 DE JULHO DE 1946
 
 Aprova o Acôrdo celebrado em 20 de Julho de 1946, entre os Governos da União e do  Estado  de São Paulo.

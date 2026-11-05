@@ -1,5 +1,3 @@
-###DEC-096235-0-000-29-06-1988@@@
-
 DECRETO Nº 96.235, DE 29 DE JUNHO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

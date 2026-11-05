@@ -1,5 +1,3 @@
-###DEC-071486-0-000-04-12-1972@@@
-
 DECRETO Nº 71.486 - de 4 de dezembro de 1972
 
 Abre ao Ministério das Comunicações, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar de Cr$ 65.128.100,00 para reforço de dotações consignadas no vigente orçamento.
@@ -10,15 +8,237 @@ Decreta:
 
 Art. 1º Fica aberto ao Ministério das Comunicações, em favor da Secretaria-Geral - Entidades Supervisionadas, o crédito suplementar de Cr$ 65.128.100,00 (sessenta milhões cento e vinte e oito mil e cem cruzeiros), para reforço de dotações orçamentárias consignadas ao subanexo 14.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DAS COMUNICAÇÕ</span><span style="font-family:Arial">ES</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.03</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria-Geral - Entidades Supervisionadas</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1403.0701.2003</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Empresa Brasileira de Correios e Telegrá</span><span style="font-family:Arial">fos</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.2.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Subvençõ</span><span style="font-family:Arial">es Econô</span><span style="font-family:Arial">micas.............................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22.754.600</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1403.0705.2005</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Empresa Brasileira de Correios e Telegrafos</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.2.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Subvençõ</span><span style="font-family:Arial">es Econô</span><span style="font-family:Arial">micas..............................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41.332.400</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1403.0705.2005</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Atividade a Cargo da Empresa Brasileira de Correios e Telegrafos</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.2.0</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Subvençõ</span><span style="font-family:Arial">es Econô</span><span style="font-family:Arial">micas..............................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">1.041.100</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">65.128.100</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+14.00
+
+- MINISTÉRIO DAS COMUNICAÇÕES
+
+14.03
+
+- Secretaria-Geral - Entidades Supervisionadas
+
+1403.0701.2003
+
+- Atividade a Cargo da Empresa Brasileira de Correios e Telegráfos
+
+3.2.2.0
+
+- Subvenções Econômicas.............................................................
+
+22.754.600
+
+1403.0705.2005
+
+- Atividade a Cargo da Empresa Brasileira de Correios e Telegrafos
+
+3.2.2.0
+
+- Subvenções Econômicas..............................................................
+
+41.332.400
+
+1403.0705.2005
+
+- Atividade a Cargo da Empresa Brasileira de Correios e Telegrafos
+
+3.2.2.0
+
+- Subvenções Econômicas..............................................................
+
+1.041.100
+
+65.128.100
 
 Art. 2º Os recursos necessários a execução deste Decreto decorrerão de anulação parcial de dotações orçamentárias consignadas no vigente Orçamento aos subanexos 14.00 e 28.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$ 1,00</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.00</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DAS COMUNICAÇÕ</span><span style="font-family:Arial">ES</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.01</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Gabinete do Ministro</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1401.0104.2001</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social...............................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.02</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Secretaria-Geral</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1402.0108.2002</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variá</span><span style="font-family:Arial">veis.........................................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">890.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social...............................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">35.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.04</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Inspetoria-Geral de Finanç</span><span style="font-family:Arial">as</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1404.0107.2006</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social...............................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.05</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Divisã</span><span style="font-family:Arial">o de Seguranç</span><span style="font-family:Arial">a e Informaçõ</span><span style="font-family:Arial">es</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1405.0809.2007</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">133.100</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variá</span><span style="font-family:Arial">veis........................................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">320.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social...............................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.06</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento de Administraçã</span><span style="font-family:Arial">o</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1406.0101.2008</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es de Previdê</span><span style="font-family:Arial">ncia Social...............................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14.07</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Departamento Nacional de Telecomunicaçõ</span><span style="font-family:Arial">es</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 1407.0705.2009</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.1.1.1</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Pessoal Civil</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Vencimentos e Vantagens Fixas.....................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">350.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Despesas Variá</span><span style="font-family:Arial">veis.........................................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.600.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.5.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Contribuiçõ</span><span style="font-family:Arial">es dde Previdê</span><span style="font-family:Arial">ncia Social.............................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.00</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- ENCARGOS GERAIS DA UNIÃ</span><span style="font-family:Arial">O</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.02</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Recursos sob Supervisã</span><span style="font-family:Arial">o do Ministé</span><span style="font-family:Arial">rio do Planejamento e Coordenaçã</span><span style="font-family:Arial">o Geral</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Atividade</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- 2802.1800.2003</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.2.6.0</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Reserva de Contingê</span><span style="font-family:Arial">ncia................................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">60.000.000</span></p></td></tr><tr><td style="width:67.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:297.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">65.128.100</span></p></td></tr></tbody></table>
+Cr$ 1,00
+
+14.00
+
+- MINISTÉRIO DAS COMUNICAÇÕES
+
+14.01
+
+- Gabinete do Ministro
+
+Atividade
+
+- 1401.0104.2001
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............................................
+
+60.000
+
+14.02
+
+- Secretaria-Geral
+
+Atividade
+
+- 1402.0108.2002
+
+3.1.1.1
+
+- Pessoal Civil
+
+02
+
+- Despesas Variáveis.........................................................................
+
+890.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............................................
+
+35.000
+
+14.04
+
+- Inspetoria-Geral de Finanças
+
+Atividade
+
+- 1404.0107.2006
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............................................
+
+40.000
+
+14.05
+
+- Divisão de Segurança e Informações
+
+Atividade
+
+- 1405.0809.2007
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................................................
+
+133.100
+
+02
+
+- Despesas Variáveis........................................................................
+
+320.000
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............................................
+
+60.000
+
+14.06
+
+- Departamento de Administração
+
+Atividade
+
+- 1406.0101.2008
+
+3.2.5.0
+
+- Contribuições de Previdência Social...............................................
+
+40.000
+
+14.07
+
+- Departamento Nacional de Telecomunicações
+
+Atividade
+
+- 1407.0705.2009
+
+3.1.1.1
+
+- Pessoal Civil
+
+01
+
+- Vencimentos e Vantagens Fixas.....................................................
+
+350.000
+
+02
+
+- Despesas Variáveis.........................................................................
+
+2.600.000
+
+3.2.5.0
+
+- Contribuições dde Previdência Social.............................................
+
+60.000
+
+28.00
+
+- ENCARGOS GERAIS DA UNIÃO
+
+28.02
+
+- Recursos sob Supervisão do Ministério do Planejamento e Coordenação Geral
+
+Atividade
+
+- 2802.1800.2003
+
+3.2.6.0
+
+- Reserva de Contingência................................................................
+
+60.000.000
+
+65.128.100
 
 Art. 3º O presente crédito, no orçamento próprio da Empresa Brasileira de Correios e Telégrafos obedecerá a seguinte programação:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Cr$1,00</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-style:italic; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; font-style:italic">Suplementando</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54.00</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- MINISTÉ</span><span style="font-family:Arial">RIO DAS COMUNICAÇÕ</span><span style="font-family:Arial">ES</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">54.01</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Empresa Brasileira de Correios e Telé</span><span style="font-family:Arial">grafos</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5401.0701.2001</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutençã</span><span style="font-family:Arial">o dos Serviç</span><span style="font-family:Arial">os Administrativos...................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22.754.600</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5401.0704.2002</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutençã</span><span style="font-family:Arial">o do Sistema Postal Telegrá</span><span style="font-family:Arial">fico.................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">41.332.400</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5401.0705.2003</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">- Manutençã</span><span style="font-family:Arial">o do Sistema de Telecomunicaçõ</span><span style="font-family:Arial">es...........................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">1.041.100</span></p></td></tr><tr><td style="width:74.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td><td style="width:290.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TOTAL.............................................................................................</span></p></td><td style="width:52.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="margin-bottom:0pt; widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">65.128.100</span></p></td></tr></tbody></table>
+Cr$1,00
+
+Suplementando
+
+54.00
+
+- MINISTÉRIO DAS COMUNICAÇÕES
+
+54.01
+
+- Empresa Brasileira de Correios e Telégrafos
+
+5401.0701.2001
+
+- Manutenção dos Serviços Administrativos...................................
+
+22.754.600
+
+5401.0704.2002
+
+- Manutenção do Sistema Postal Telegráfico.................................
+
+41.332.400
+
+5401.0705.2003
+
+- Manutenção do Sistema de Telecomunicações...........................
+
+1.041.100
+
+TOTAL.............................................................................................
+
+65.128.100
 
 Art. 4º Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

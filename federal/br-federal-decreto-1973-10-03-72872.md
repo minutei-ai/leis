@@ -1,5 +1,3 @@
-###DEC-072872-0-000-03-10-1973@@@
-
 DECRETO Nº 72.872, DE 3 DE OUTUBRO DE 1973.
 
 Dispõe sobre a estrutura básica do Departamento Nacional de Obras de Saneamento (DNOS).

@@ -1,5 +1,3 @@
-###DEC-006103-0-000-30-04-2007@@@
-
 DECRETO Nº 6.103, DE 30 DE ABRIL DE 2007.
 
 Antecipa para 2 de maio de 2007 a aplicação do Decreto no 70.235, de 6 de março de 1972, relativamente aos prazos processuais e à competência para julgamento em primeira instância, de processos administrativo-fiscais relativos às contribuições de que tratam os arts. 2o e 3o da Lei no 11.457, de 16 de março de 2007, e dá outras providências.
@@ -35,5 +33,3 @@ Brasília, 30 de abril de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 2.5.2007

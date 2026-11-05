@@ -1,5 +1,3 @@
-###DEC-050926-0-000-07-07-1961@@@
-
 DECRETO Nº 50.926, DE 7 DE JULHO DE 1961.
 
 Altera a letra “c” do item 5 do artigo 8º do Regulamento da ECEMAR, aprovado pelo Decreto nº 47.138, de 27 de outubro de 1959.

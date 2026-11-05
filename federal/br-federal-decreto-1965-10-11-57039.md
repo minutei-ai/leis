@@ -1,5 +1,3 @@
-###DEC-057039-0-000-11-10-1965@@@
-
 DECRETO Nº 57.039, DE 11 DE OUTUBRO DE 1965.
 
 Abre, pelo Estado-Maior das Fôrças Armadas, o crédito especial de Cr$650.189, para o fim que especifica.

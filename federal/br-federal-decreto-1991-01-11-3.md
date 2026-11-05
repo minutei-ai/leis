@@ -1,5 +1,3 @@
-###DEC-000003-0-000-11-01-1991@@@
-
 DECRETO N° 3, DE 11 DE JANEIRO DE 1991.
 
 Dispõe sobre as obrigações de caráter financeiro, contraídas pelas entidades liquidandas ou em extinção de que trata a Lei n° 8.029, de 12 de abril de 1990, e dá outras providencias.

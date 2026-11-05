@@ -1,5 +1,3 @@
-###DEC-004280-0-000-25-06-2002@@@
-
 DECRETO Nº 4.280, DE 25 DE JUNHO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da Romênia sobre Cooperação nas Áreas da Proteção de Plantas e da Quarentena Vegetal, celebrado em Brasília, em 25 de julho de 2000.

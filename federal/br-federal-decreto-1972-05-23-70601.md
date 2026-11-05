@@ -1,5 +1,3 @@
-###DEC-070601-0-000-23-05-1972@@@
-
 DECRETO Nº 70.601, DE 23 DE MAIO DE 1972.
 
 Cria função na Tabela Única de Extranumerários Mensalistas do Antigo Ministério da Educação e Saúde e dá outras providências.

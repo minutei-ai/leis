@@ -1,5 +1,3 @@
-###DEL-004304-0-000-16-05-1942@@@
-
 DECRETO-LEI N. 4.304 – DE 16 DE MAIO DE 1942
 
 Regula a transferência de oficiais da Reserva de 1ª para a 2ª classe, a pedido.

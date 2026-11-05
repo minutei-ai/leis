@@ -1,5 +1,3 @@
-###DEL-006082-0-000-09-12-1943@@@
-
 DECRETO‑LEI N. 6.082 – DE 9 DE DEZEMBRO DE 1943
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 415 628,60 para pagamento de indenização decorrente de desapropriação de terras

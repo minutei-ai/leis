@@ -1,5 +1,3 @@
-###DEC-054239-0-000-02-09-1964@@@
-
 DECRETO Nº 54.239, DE 2 DE SETEMBRO DE 1964.
 
 Acrescenta um parágrafo ao Decreto nº 54.004, de 3 de julho de 1964.

@@ -1,5 +1,3 @@
-###DEC-061834-0-000-05-12-1967@@@
-
 DECRETO Nº 61.834, DE 5 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia Paulista de Fôrca e Luz a construir linha de transmissão e dá outras providências.

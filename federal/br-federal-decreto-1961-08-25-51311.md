@@ -1,5 +1,3 @@
-###DEC-051311-0-000-25-08-1961@@@
-
 DECRETO Nº 51.311, DE 25 DE AGÔSTO DE 1961.
 
 Outorga concessão à “Rádio Emissora Rural de Santarém Limitada”, para estabelecer uma estação rádio-difusora de ondas tropicais.

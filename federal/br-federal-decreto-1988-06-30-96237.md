@@ -1,5 +1,3 @@
-###DEC-096237-0-000-30-06-1988@@@
-
 DECRETO N° 96.237, DE 30 DE JUNHO DE 1988
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo Regional de Abertura de Mercados em favor do Equador (Acordo nº 2), subscrito entre o Brasil e o Equador.

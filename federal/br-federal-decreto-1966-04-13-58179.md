@@ -1,5 +1,3 @@
-###DEC-058179-0-000-13-04-1966@@@
-
 DECRETO Nº 58.179, de 13 de abril de 1966.
 
 Regula o disposto na Lei nº 4.457, de 6 de novembro de 1964, com relação às operações de repasse a serem realizadas pela Centrais Elétricas Brasileiras S.A. - ELETROBRÁS - de empréstimos obtidos no exterior, dá nova redação aos §§ 3º e 4º do art. 166 e acrescenta o inciso V ao art. 176 do Decreto nº 41.019, de 26 de fevereiro de 1957 alterado pelo Decreto 54.938 de 4 de novembro de 1964.

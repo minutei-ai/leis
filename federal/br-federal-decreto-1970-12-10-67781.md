@@ -1,5 +1,3 @@
-###DEC-067781-0-000-10-12-1970@@@
-
 DECRETO Nº 67.781, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 22.240, de 6 de dezembro de 1946.

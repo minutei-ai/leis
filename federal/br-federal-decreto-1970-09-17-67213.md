@@ -1,5 +1,3 @@
-###DEC-067213-0-000-17-09-1970@@@
-
 decreto nº 67.213, de 17 de setembro de 1970.
 
 Regulamenta o artigo 6º e seu parágrafo único, do Decreto-lei nº 836, de 8 de setembro de 1969.

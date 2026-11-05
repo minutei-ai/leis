@@ -1,5 +1,3 @@
-###DEC-093783-0-000-17-12-1986@@@
-
 DECRETO Nº 93.783, DE 17 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Quinhão nº 2 da Fazenda Santa Madalena", situado no Município de Wenceslau Braz, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 02 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.

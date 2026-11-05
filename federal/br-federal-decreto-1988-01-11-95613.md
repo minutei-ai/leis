@@ -1,7 +1,3 @@
-1
-
-###DEC-095613-0-000-11-01-1988@@@
-
 DECRETO N° 95.613, DE 11 DE JANEIRO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade Alvorada de Informática e Processamento de Dados, em Brasília, Distrito Federal.

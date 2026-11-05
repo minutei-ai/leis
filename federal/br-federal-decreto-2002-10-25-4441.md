@@ -1,5 +1,3 @@
-###DEC-004441-0-000-25-10-2002@@@
-
 DECRETO Nº 4.441, DE 25 DE OUTUBRO DE 2002
 
 Altera alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.

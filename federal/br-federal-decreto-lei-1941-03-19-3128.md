@@ -1,5 +1,3 @@
-###DEL-003128-0-000-19-03-1941@@@
-
 DECRETO-LEI N. 3.128 – DE 19 DE MARÇO DE 1941
 
 Dispõe sobre o tombamento dos bens das empresas de eletricidade.

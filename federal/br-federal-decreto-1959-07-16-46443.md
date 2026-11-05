@@ -1,5 +1,3 @@
-###DEC-046443-0-000-16-07-1959@@@
-
 DECRETO Nº 46.443, DE 16 DE JULHO DE 1959.
 
 Altera a lotação de repartição atendida pelo Quadro Permanente do Ministério da Justiça e Negócios Interiores.

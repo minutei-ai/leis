@@ -1,5 +1,3 @@
-###DEC-055172-0-000-10-12-1964@@@
-
 DECRETO Nº 55.172, DE 10 DE DEZEMBRO DE 1964.
 
 Altera o art. 40 do Regulamento da Lei nº 3.654, de 4 de novembro de 1959 que dispõe sôbre a criação e organização do Quadro de Material Bélico, das Armas de Comunicações e de Engenharia.

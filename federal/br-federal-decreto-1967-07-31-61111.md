@@ -1,5 +1,3 @@
-###DEC-061111-0-000-31-07-1967@@@
-
 DECRETO Nº 61.111, DE 31 DE JULHO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar no País, neste descritos e consignados à Emprêsa “Companhia Fiat Lux de Fósforos de Segurança”, de São Lourenço (Pernambuco).
@@ -14,7 +12,29 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos, sem similar no País, a seguir descritos e consignados à Emprêsa “Companhia Fiat Lux de Fósforos de Segurança”, de São Lourenço (PE.):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>Valor Total </span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>CIF US$</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 1 (uma) máquina para fabricar fósforos e encher caixinha do tipo VPO, com alimentador de palitos tipo KL, dispositivo de enchimento de caixinha tipo ROG-4, esteira de vipos (3.850 réguas), mesa de inspeção e dispositivos equilibrador de produção, KU-1, capacidade de 43.000 caixinhas por hora, velocidade de 180 rpm na cravação e 45 rpm na alimentação de caixinhas, fabricação ARENCO AKTIEBOLAG – Suécia, SWKR 673.200, no valor de Sw. Kr...............................................................................................................2 22 (vinte e dois) Sets Intermittent Driving Mechamisms – para uso na máquina JPR-5 de preparação do interior da caixa – Fabricação de BRYANT &amp; MAY LTD. - Londres Valor de 8.636 - 12-00...........................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>127.741</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>24.180</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .......................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>151.921</span></p></td></tr></tbody></table>
+Item – Especificação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1 1 (uma) máquina para fabricar fósforos e encher caixinha do tipo VPO, com alimentador de palitos tipo KL, dispositivo de enchimento de caixinha tipo ROG-4, esteira de vipos (3.850 réguas), mesa de inspeção e dispositivos equilibrador de produção, KU-1, capacidade de 43.000 caixinhas por hora, velocidade de 180 rpm na cravação e 45 rpm na alimentação de caixinhas, fabricação ARENCO AKTIEBOLAG – Suécia, SWKR 673.200, no valor de Sw. Kr...............................................................................................................2 22 (vinte e dois) Sets Intermittent Driving Mechamisms – para uso na máquina JPR-5 de preparação do interior da caixa – Fabricação de BRYANT &amp; MAY LTD. - Londres Valor de 8.636 - 12-00...........................
+
+1
+
+22
+
+127.741
+
+24.180
+
+TOTAL .......................................................................................................
+
+-
+
+151.921
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

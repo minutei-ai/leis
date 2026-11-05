@@ -1,5 +1,3 @@
-###DEC-047361-0-000-04-12-1959@@@
-
 DECRETO Nº 47.361, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza Lavras Santo Amaro Limitada a pesquisar argila no município de Suzano no Estado de São Paulo.

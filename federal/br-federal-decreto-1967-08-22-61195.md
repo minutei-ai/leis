@@ -1,5 +1,3 @@
-###DEC-061195-0-000-22-08-1967@@@
-
 DECRETO Nº 61.195, DE 22 DE AGÔSTO DE 1967.
 
 Autoriza o funcionamento da Escola de Engenharia da Fundação Técnico-Educacional Souza Marques.

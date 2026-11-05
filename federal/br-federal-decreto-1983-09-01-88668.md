@@ -1,5 +1,3 @@
-###DEC-088668-0-000-01-09-1983@@@
-
 DECRETO Nº 88.668, DE 01 DE SETEMBRO DE 1983
 
 Revoga dispositivo do decreto nº 70.872, de 25 de julho de 1972 que aprovou o regulamento para a Comissão Naval Brasileira em Washington, e dá outras providências.

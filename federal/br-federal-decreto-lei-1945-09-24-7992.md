@@ -1,5 +1,3 @@
-###DEL-007992-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.992 – DE 24 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Guerra, no corrente exercício, o crédito suplementar de Cr$ 421.956,40, à Verba que especifica.

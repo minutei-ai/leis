@@ -1,5 +1,3 @@
-###DEC-050096-0-000-25-01-1961@@@
-
 DECRETO Nº 50.096, DE 25 DE JANEIRO DE 1961.
 
 Outorga concessão à Sociedade Rádio Palmeira Limitada para estabelecer uma estação de radiodifusão.

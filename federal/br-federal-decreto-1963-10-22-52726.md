@@ -1,5 +1,3 @@
-###DEC-052726-0-000-22-10-1963@@@
-
 DECRETO Nº 52.726, DE 22 DE OUTUBRO DE 1963.
 
 Outorga ao Govêrno do Estado do Pará, concessão para distribuir energia elétrica no Município de Santarém, no Estado do Pará.
@@ -39,8 +37,6 @@ Brasília, 22 de outubro de 1963; 142º da Independência e 75º da República.
 João Goulart
 
 Antônio de Oliveira Brito
-
-###DEC-052726-0-000-22-10-1963@@@RET01+++
 
 DECRETO Nº 52.726, DE 22 DE OUTUBRO DE 1963.
 

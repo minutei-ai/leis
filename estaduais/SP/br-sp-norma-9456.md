@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/9456)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/1997/compilacao-lei-9495-04.03.1997.html)
 
 # LEI N° 9.495, DE 04 DE MARÇO DE 1997

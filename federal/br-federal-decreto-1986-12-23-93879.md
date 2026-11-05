@@ -1,5 +1,3 @@
-###DEC-093879-0-000-23-12-1986@@@
-
 # DECRETO Nº 93.879, DE 23 DE DEZEMBRO DE 1986
 
 Outorga à Companhia Energética de Minas Gerais - CEMIG concessão para o aproveitamento da energia hidráulica de um trecho do rio Araguari, nos Municípios de Uberlândia e Indianópolis, Estado de Minas Gerais.

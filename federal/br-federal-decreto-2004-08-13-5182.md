@@ -1,5 +1,3 @@
-###DEC-005182-0-000-13-08-2004@@@
-
 DECRETO Nº 5.182 DE 13 DE AGOSTO DE 2004
 
 Acresce item ao art. 21 do Regulamento para as Polícias Militares e Corpos de Bombeiros Militares (R-200), aprovado pelo Decreto nº 88.777, de 30 setembro de 1983.

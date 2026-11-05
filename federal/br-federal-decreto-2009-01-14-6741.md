@@ -1,5 +1,3 @@
-###DEC-006741-0-000-14-01-2009@@@
-
 DECRETO Nº 6.741, DE 14 DE JANEIRO DE 2009.
 
 Fixa para a Marinha do Brasil o número de vagas para promoção obrigatória de oficiais nos Corpos e Quadros que menciona, no ano-base de 2008.

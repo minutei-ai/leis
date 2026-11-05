@@ -1,5 +1,3 @@
-###DEC-083228-0-000-06-03-1979@@@
-
 DECRETO Nº 83.228, DE 06 DE MARÇO DE 1979
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operações de crédito externo a serem contratadas pela 1a Siderurgia Brasileira S/A-SIDERBRÁS.

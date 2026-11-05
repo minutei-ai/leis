@@ -1,5 +1,3 @@
-###DEC-099568-0-000-09-10-1990@@@
-
 DECRETO N° 99.568, DE 9 DE OUTUBRO DE 1990
 
 Eleva a categoria do Vice-Consulado do Brasil no Chuy para Consulado.

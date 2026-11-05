@@ -1,5 +1,3 @@
-###DEC-045320-0-000-27-01-1959@@@
-
 DECRETO Nº 45.320, DE 27 DE JANEIRO DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Durães Dias a pesquisar mica no município de Itambacuri, Estado de Minas Gerais.

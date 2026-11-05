@@ -1,5 +1,3 @@
-###DEL-004762-0-000-30-09-1942@@@
-
 DECRETO-LEI N. 4.762 – DE 30 DE SETEMBRO DE 1942
 
 Altera o prazo a que alude o item III do § 2.º do art. 3.º do decreto-lei número 2. 136, de 12 de abril de 1940 e abre crédito suplementar ao Departamento Administrativo do Serviço Público.

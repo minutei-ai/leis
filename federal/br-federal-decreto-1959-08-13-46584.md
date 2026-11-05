@@ -1,5 +1,3 @@
-###DEC-046584-0-000-13-08-1959@@@
-
 DECRETO Nº 46.584, DE 13 DE AGÔSTO DE 1959.
 
 Dispõe sobre a Escola de Enfermagem “Wenceslau Braz”.

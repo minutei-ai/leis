@@ -1,5 +1,3 @@
-###DEC-047559-0-000-30-12-1959@@@
-
 Decreto nº 47.559, de 30 de dezembro de 1959.
 
 Renova o Decreto nº 41.970, de 3 de agôsto de 1957.

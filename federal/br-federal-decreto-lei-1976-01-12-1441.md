@@ -1,5 +1,3 @@
-###DEL-001441-0-000-12-01-1976@@@
-
 # DECRETO-LEI Nº 1.441, DE 12 DE JANEIRO DE 1976
 
 Altera, para o exercício de 1976, a distribuição do produto da arrecadação dos impostos únicos.

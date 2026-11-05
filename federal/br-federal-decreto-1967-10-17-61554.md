@@ -1,5 +1,3 @@
-###DEC-061554-0-000-17-10-1967@@@
-
 DECRETO Nº 61.554, DE 17 DE OUTUBRO DE 1967.
 
 Aprova o Regulamento do Fundo de Assistência e Previdência do Trabalhador Rural e dá outras providências.

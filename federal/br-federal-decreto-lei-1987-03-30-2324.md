@@ -1,7 +1,3 @@
-1
-
-###DEL-002324-0-000-30-03-1987@@@
-
 # DECRETO-LEI N° 2.324, DE 30 DE MARÇO DE 1987
 
 Dispõe sobre incentivos à exportação de produtos manufaturados.

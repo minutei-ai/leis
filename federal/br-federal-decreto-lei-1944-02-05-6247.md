@@ -1,5 +1,3 @@
-###DEL-006247-0-000-05-02-1944@@@
-
 DECRETO-LEI N. 6.247 – DE 5 DE FEVEREIRO DE 1944
 
 Contém disposições transitórias para a execução da lei orgânica do ensino secundário

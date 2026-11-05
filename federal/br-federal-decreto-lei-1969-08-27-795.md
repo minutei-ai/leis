@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/74e509ac-be3c-45b3-8de5-fe602a07bcf0/texto#nowhere)
 
-###DEL-000795-0-000-27-08-1969@@@
-
 DECreto-LEI Nº 795, De 27 De AGôSTO DE 1969
 
 Complementa o Decreto-lei número 710, de 28 de julho de 1969, que altera a legislação de previdência social, e dá outras providências.

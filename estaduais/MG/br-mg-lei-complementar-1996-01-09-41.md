@@ -45,7 +45,3 @@ Amilcar Vianna Martins Filho
 João Heraldo Lima
 
 Arésio A. de Almeida Dâmaso e Silva
-
-\================================================================
-
-Data da última atualização: 22/01/2007.

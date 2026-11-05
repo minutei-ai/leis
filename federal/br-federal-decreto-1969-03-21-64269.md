@@ -1,5 +1,3 @@
-###DEC-064269-0-000-21-03-1969@@@
-
 DECRETO Nº 64.269, DE 21 DE MARÇO DE 1969.
 
 Retifica o Decreto nº 62.621, de 29 de abril de 1968.

@@ -1,5 +1,3 @@
-###DEC-066243-0-000-20-02-1970@@@
-
 DECRETO Nº 66.243 - de 20 de fevereiro de 1970
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Presidente Prudente, com sede em Presidente Prudente, Estado de São Paulo.

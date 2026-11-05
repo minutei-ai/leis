@@ -1,5 +1,3 @@
-###DEL-001113-0-000-16-07-1970@@@
-
 # Decreto-lei nº 1.113, DE 16 De JULhO DE 1970
 
 Autoriza a reinversão na Companhia Nacional de Álcalis, sob a forma de aumento de capital, dos dividendos que couberem ao Tesouro Nacional, em cada exercício social.

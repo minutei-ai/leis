@@ -1,5 +1,3 @@
-###DEL-005035-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.035 – DE 4 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 5.000.000,00 à verba que especifica

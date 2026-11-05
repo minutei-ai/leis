@@ -1,5 +1,3 @@
-###DEC-076694-0-000-28-11-1975@@@
-
 DECRETO Nº 76.694, DE 28 DE NOVEMBRO DE 1975.
 
 Dispõe sobre a execução do Decreto-lei nº 1.414, de 18 de agosto de 1975, e dá outras providências.

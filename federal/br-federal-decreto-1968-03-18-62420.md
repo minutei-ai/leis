@@ -1,5 +1,3 @@
-###DEC-062420-0-000-18-03-1968@@@
-
 DECRETO Nº 62.420, DE 18 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Externato Santa Teresinha”, com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-056625-0-000-29-07-1965@@@
-
 Decreto nº 56.625, de 29 de julho de 1965.
 
 Concede à Phoenix Brasileira Companhia de Seguros Gerais autorização para funcionar e aprova os seus Estatutos.

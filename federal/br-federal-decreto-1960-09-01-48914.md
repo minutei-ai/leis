@@ -1,5 +1,3 @@
-###DEC-048914-0-000-01-09-1960@@@
-
 DECRETO N.º 48.914, DE 1º DE SETEMBRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Única de Extranumerária-mensalista do Ministério da Viação e Obras Públicas, para idêntica tabela do Ministério da Fazenda.

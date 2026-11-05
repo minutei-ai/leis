@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=69394)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2006/compilacao-lei-12498-26.12.2006.html)
 
 # LEI Nº 12.498, DE 26 DE DEZEMBRO DE 2006

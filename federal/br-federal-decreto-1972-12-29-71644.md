@@ -1,5 +1,3 @@
-###DEC-071644-0-000-29-12-1972@@@
-
 DECRETO Nº 71.644 - DE 29 DE DEZEMBRO DE 1972
 
 Concede reconhecimento da Faculdade de Medicina de Marília, mantida pela Fundação Municipal de Ensino Superior de Marília, São Paulo.

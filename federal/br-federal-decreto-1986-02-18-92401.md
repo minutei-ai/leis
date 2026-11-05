@@ -1,5 +1,3 @@
-###DEC-092401-0-000-18-02-1986@@@
-
 DECRETO Nº 92.401, DE 18 DE FEVEREIRO DE 1986
 
 Dispõe sobre o limite do Capital Autorizado da Petrobrás Comércio Internacional S.A. - INTERBRÁS.

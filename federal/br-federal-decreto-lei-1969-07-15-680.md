@@ -1,5 +1,3 @@
-###DEL-000680-0-000-15-07-1969@@@
-
 DECRETO-LEI Nº 680, DE 15 DE JULHO DE 1969
 
 Transforma cargo do Quadro de Pessoal do Estado-Maio das Fôrças Armadas.

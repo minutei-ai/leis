@@ -1,5 +1,3 @@
-###DEC-052369-0-000-19-08-1963@@@
-
 DECRETO Nº 52.369, DE 19 DE AGÔSTO DE 1963.
 
 Altera o Decreto nº 2, de 21 de setembro de 1961, que aprovou o Regulamento do Pessoal do Ministério das Relações Exteriores.

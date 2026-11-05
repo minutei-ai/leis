@@ -1,5 +1,3 @@
-###DEC-059488-0-000-09-11-1966@@@
-
 Decreto nº 59.488, de 9 de novembro de 1966.
 
 Autoriza o cidadão brasileiro Eshi Niwa a pesquisar caulim no município de Ribeirão Pires, Estado de São Paulo.

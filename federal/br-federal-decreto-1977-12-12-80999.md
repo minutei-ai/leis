@@ -1,5 +1,3 @@
-###DEC-080999-0-000-12-12-1977@@@
-
 DECRETO Nº 80.999, DE 12 DE DEZEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada à Siderúrgica Oeste de Minas S.A. - SOMISA pelo Decreto nº 53.147, de 10 de dezembro de 1963.

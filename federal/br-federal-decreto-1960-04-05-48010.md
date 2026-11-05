@@ -1,5 +1,3 @@
-###DEC-048010-0-000-05-04-1960@@@
-
 decreto nº 48.010, de 5 de abril de 1960.
 
 Autoriza o cidadão brasileiro Olavo da Costa Galvão a pesquisar quartzo e pedras coradas no município de Teófilo Otôni, Estado de Minas Gerais.

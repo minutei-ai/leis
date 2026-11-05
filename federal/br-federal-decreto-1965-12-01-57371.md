@@ -1,5 +1,3 @@
-###DEC-057371-0-000-01-12-1965@@@
-
 DECRETO Nº 57.371, DE 1º DE DEZEMBRO DE 1965.
 
 Retifica o Decreto nº 52.119, de 17 de junho de 1963, e da outras providências.

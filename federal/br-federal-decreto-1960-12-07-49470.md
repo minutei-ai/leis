@@ -1,5 +1,3 @@
-###DEC-049470-0-000-07-12-1960@@@
-
 DECRETO Nº 49.470, DE 7 DE DEZEMBRO DE 1960.
 
 Retifica e altera o Decreto número 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.
@@ -17,8 +15,6 @@ Brasília, 7 de dezembro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 S. Paes de Almeida
-
-###DEC-049470-0-000-09-12-1960@@@RET01+++
 
 DECRETO Nº 49.470, DE 9 DE DEZEMBRO DE 1960.
 

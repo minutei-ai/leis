@@ -1,5 +1,3 @@
-###DEC-048787-0-000-12-08-1960@@@
-
 DECRETO Nº 48.787, DE 12 DE AGÔSTO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Calaça Figueiredo a pesquisar apatita, no município de Jacupiranga, Estado de São Paulo.

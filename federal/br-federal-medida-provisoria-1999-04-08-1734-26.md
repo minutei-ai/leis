@@ -1,5 +1,3 @@
-###MPV-001734-0-026-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.734-26, DE 8 DE ABRIL DE 1999.
 
 Estabelece multa em operações de importação e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-066776-0-000-24-06-1970@@@
-
 Decreto nº 66.776 - de 24 de junho de 1970
 
 Reabre o Consulado honorário do Brasil em Madras, Índia.

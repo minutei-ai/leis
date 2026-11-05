@@ -1,5 +1,3 @@
-###DEC-056105-0-000-26-04-1965@@@
-
 DECRETO Nº 56.105, DE 28 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Ivo Felisberto de Souza a pesquisar mármore e calcita no município de Cachoeiro de Itapemirim, Estado do Espirito Santo.

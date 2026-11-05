@@ -1,5 +1,3 @@
-###DEC-053248-0-000-12-12-1963@@@
-
 DECRETO Nº 53.248, DE 12 DE DEZEMBRO DE 1963.
 
 Transforma em Consulado Privativo o Consulado do Brasil em Paramaribo.

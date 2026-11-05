@@ -1,5 +1,3 @@
-###DEC-048310-0-000-20-06-1960@@@
-
 DECRETO Nº 48.310, DE 20 DE JUNHO DE 1960.
 
 Autoriza a emprêsa de Mineração do Matapi Limitada a pesquisar minério de alumínio no município de Amapá, Território Federal do Amapá.

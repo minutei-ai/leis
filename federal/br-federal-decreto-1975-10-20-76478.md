@@ -1,5 +1,3 @@
-###DEC-076478-0-000-20-10-1975@@@
-
 Decreto nº 76.478, de 20 de outubro de 1975.
 
 Concede à Companhia de Cimento Salvador - COCISA o direito de lavrar calcário no Município de São Francisco do Conde, Estado da Bahia.

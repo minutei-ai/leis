@@ -1,5 +1,3 @@
-###DEC-053796-0-000-23-03-1964@@@
-
 DECRETO Nº 53.796, DE 23 DE MARÇO DE 1964.
 
 Autoriza Metais de Goiás S.A. - METACO, a pesquisar gipsita, no Município de Filadélfia, Estado de Goiás.

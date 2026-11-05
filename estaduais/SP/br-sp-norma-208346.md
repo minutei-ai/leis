@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208346)<br>
-
 # DECRETO N° 67.837, DE 27 DE JULHO DE 2023
 
 ### _Criação da Escola Técnica Estadual - ETEC de Bragança Paulista, no Município de Bragança Paulista._

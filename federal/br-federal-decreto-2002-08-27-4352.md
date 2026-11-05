@@ -1,5 +1,3 @@
-###DEC-004352-0-000-27-08-2002@@@
-
 DECRETO Nº 4.352, DE 27 DE AGOSTO DE 2002
 
 Dispõe sobre o remanejamento de Funções Comissionadas Técnicas - FCT para o Fundo Nacional de Desenvolvimento da Educação - FNDE.

@@ -1,5 +1,3 @@
-###DEC-062221-0-000-05-02-1968@@@
-
 DECRETO Nº 62.221, DE 5 DE FEVEREIRO DE 1968.
 
 Concede reconhecimento ao Curso de História da Faculdade de Ciências e Letras de Uberlândia.

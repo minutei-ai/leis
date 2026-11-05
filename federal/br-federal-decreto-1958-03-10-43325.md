@@ -1,14 +1,12 @@
-###DEC-043325-0-000-10-03-1958@@@
+**DECRETO Nº 43.325, DE 10 DE MARÇO DE 1958.**
 
-<strong>DECRETO Nº 43.325, DE 10 DE MARÇO DE 1958.</strong>
+***Especifica as funções que, nos Ministérios Militares, são consideradas de caráter permanente no exterior, para os efeitos do disposto no artigo 19, do Decreto número 43.028, de 9 de janeiro de 1958.***
 
-<em><strong>Especifica as funções que, nos Ministérios Militares, são consideradas de caráter permanente no exterior, para os efeitos do disposto no artigo 19, do Decreto número 43.028, de 9 de janeiro de 1958.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Para os efeitos do disposto no artigo 19, do decreto número 43.028, de 9 de janeiro de 1958 são, nos Ministérios Militares, consideradas de caráter permanente no exterior as funções:
+**Art**. 1º Para os efeitos do disposto no artigo 19, do decreto número 43.028, de 9 de janeiro de 1958 são, nos Ministérios Militares, consideradas de caráter permanente no exterior as funções:
 
 1 - Na Marinha
 
@@ -22,7 +20,7 @@ d) nas Comissões Fiscais de Construção de Navios e de Recebimento de Material
 
 e) de Professôr, Instutor e Auxiliar de Instrutor em Escolas, Academias e Centros de Instrução;
 
-f) na Edição Brasileira de “<em>Military Review</em>”, nos Estados unidos da América;
+f) na Edição Brasileira de “*Military Review*”, nos Estados unidos da América;
 
 g) nos Cursos ou Estágios em órgãos ou instituições navais ou civis.
 
@@ -42,7 +40,7 @@ f) na Missão Militar Brasileira de Instrução do Paraguai;
 
 g) de Professor, Instrutor e Auxiliar de Instrutor nas Fôrças Armadas, Escolas e Academias estrangeiras;
 
-h) na Escola de Comando e Estado-Maior dos Estados Unidos (<em>Military Review</em>);
+h) na Escola de Comando e Estado-Maior dos Estados Unidos (*Military Review*);
 
 i) de Zelador do Cemitério Militar Brasileiro em Pistoia.
 
@@ -64,11 +62,11 @@ h) de Professôr, Instrutor e Auxiliar de Instutor nas Fôrças Armadas, Escolas
 
 i) nos Postos do Correio Aéreo Nacional, no estragueiro.
 
-<strong>Art</strong>. 2º O presente Decreto é considerado em vigor a parir de 10 de janeiro de 1958, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto é considerado em vigor a parir de 10 de janeiro de 1958, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 10 de março de 1958; 137 da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 

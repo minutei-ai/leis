@@ -1,5 +1,3 @@
-###MPV-001741-0-041-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.741-41, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

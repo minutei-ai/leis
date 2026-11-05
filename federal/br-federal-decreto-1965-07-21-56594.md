@@ -1,5 +1,3 @@
-###DEC-056594-0-000-21-07-1965@@@
-
 DECRETO Nº 56.594, DE 21 DE JULHO DE 1965.
 
 Acresce parágrafo único ao art. 26 do Regulamento para os Grandes Comandos - R/163.

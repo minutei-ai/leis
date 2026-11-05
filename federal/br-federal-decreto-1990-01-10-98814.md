@@ -1,7 +1,3 @@
-1
-
-###DEC-098814-0-000-10-01-1990@@@
-
 # DECRETO Nº 9.814, DE 10 DE JANEIRO DE 1990
 
 Homologa a demarcação da Área Indígena Nambikwara, Estado de Mato Grosso.

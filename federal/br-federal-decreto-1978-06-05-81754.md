@@ -1,5 +1,3 @@
-###DEC-081754-0-000-05-06-1978@@@
-
 Decreto nº 81.754, de 05 de junho de 1978.
 
 Suspende a execução da Lei nº 8.024, de 27 de novembro de 1975, do Estado de Goiás.

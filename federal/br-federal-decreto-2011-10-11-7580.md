@@ -1,5 +1,3 @@
-###DEC-007580-0-000-11-10-2011-PUB-01@@@
-
 DECRETO Nº 7.580, DE 11 DE OUTUBRO DE 2011
 
 Altera o Decreto nº 5.353, de 24 de janeiro de 2005, que dispõe sobre a competência, composição, funcionamento e estruturação do Conselho Nacional de Desenvolvimento Industrial - CNDI.

@@ -1,5 +1,3 @@
-###DEC-064555-0-000-20-05-1969@@@
-
 DECRETO Nº 64.555, DE 20 DE MAIO DE 1969.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

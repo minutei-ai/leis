@@ -1,5 +1,3 @@
-###DEC-074426-0-000-16-08-1974@@@
-
 DECRETO Nº 74.426 - DE 16 DE AGOSTO DE 1974.
 
 Concede à Metais de Minas Gerais S.A. - METAMIG o direito de lavrar fosforita no Município de Cedro do Abaeté, Estado de Minas Gerais.

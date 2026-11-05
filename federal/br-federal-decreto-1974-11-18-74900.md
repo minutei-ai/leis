@@ -1,5 +1,3 @@
-###DEC-074900-0-000-18-11-1974@@@
-
 DECRETO Nº 74.900, DE 18 DE NOVEMBRO DE 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade de Pernambuco - CELPE, no Estado de Pernambuco.

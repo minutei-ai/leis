@@ -1,5 +1,3 @@
-###DEC-064306-0-000-07-04-1969@@@
-
 DECRETO Nº 64.306, DE 7 DE ABRIL DE 1969.
 
 Concede reconhecimento ao Curso de Ciências Contábeis da Universidade Federal do Espírito Santo.

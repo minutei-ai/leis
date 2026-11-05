@@ -1,5 +1,3 @@
-###DEC-000586-0-000-26-06-1992@@@
-
 DECRETO N° 586, DE 26 DE JUNHO DE 1992
 
 Promulga o Acordo sobre Cooperação Financeira no Montante de DM 304.858.202,00 (trezentos e quatro milhões, oitocentos e cinqüenta e oito mil, duzentos e dois marcos alemães), entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha.

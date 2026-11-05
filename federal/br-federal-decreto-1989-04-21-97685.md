@@ -1,7 +1,3 @@
-1
-
-###DEC-097685-0-000-21-04-1989@@@
-
 DECRETO N° 97.685, DE 21 DE ABRIL DE 1989
 
 Dispõe sobre viagens ao exterior.

@@ -1,5 +1,3 @@
-###DEL-009113-0-000-01-04-1946@@@
-
 DECRETO-LEI N. 9.113 – DE 1 DE ABRIL DE 1946
 
 Autoriza o Prefeito do Distrito Federal a isentar a Irmandade de São Roque do impôsto que menciona.

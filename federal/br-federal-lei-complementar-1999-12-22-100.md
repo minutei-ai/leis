@@ -1,5 +1,3 @@
-###LCP-000100-0-000-22-12-1999@@@
-
 LEI COMPLEMENTAR Nº 100, DE 22 de DEZEMBRO DE 1999.
 
 Altera o Decreto-Lei nº 406, de 31 de dezembro de 1968, e a Lei Complementar nº 56, de 15 de dezembro de 1987 para acrescentar serviço sujeito ao Imposto sobre Serviços de Qualquer Natureza.

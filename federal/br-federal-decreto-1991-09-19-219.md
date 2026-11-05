@@ -1,5 +1,3 @@
-###DEC-000219-0-000-19-09-1991@@@
-
 DECRETO N° 219, DE 19 DE SETEMBRO DE 1991
 
 Institui, no âmbito do Ministério do Trabalho e da Previdência Social, o Programa Nacional de Educação e Trabalho - PLANTE.

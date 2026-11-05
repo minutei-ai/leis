@@ -1,5 +1,3 @@
-###DEC-058150-0-000-04-04-1966@@@
-
 DECRETO Nº 58.150, DE 4 DE ABRIL DE 1966.
 
 Autoriza o cidadão brasileiro Sebastião Rodrigues de Oliveira a pesquisar calcário, no município de Matozinhos, Estado de Minas Gerais.

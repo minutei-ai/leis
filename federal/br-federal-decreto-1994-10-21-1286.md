@@ -1,7 +1,3 @@
-1
-
-###DEC-001286-0-000-21-10-1994@@@
-
 DECRETO N° 1.286, DE 21 DE OUTUBRO DE 1994
 
 Dispõe sobre a transferência de cargos em comissão e funções de confiança no âmbito do Ministério da Saúde e dá outras providências.

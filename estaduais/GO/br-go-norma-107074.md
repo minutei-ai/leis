@@ -1,4 +1,5 @@
-DECRETO Nº 10.257, DE 24 DE ABRIL DE 2023<br>
+DECRETO Nº 10.257, DE 24 DE ABRIL DE 2023
+
 \- [Revogado pelo Decreto nº 10.309, de 28-8-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107686/decreto-10309).
 
 ~~O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, também tendo em vista o que consta do Processo nº 202200022080378, com o objetivo de regulamentar a [Lei nº 21.880](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107066), de 20 de abril de 2023;~~
@@ -18,8 +19,6 @@ DECRETO Nº 10.257, DE 24 DE ABRIL DE 2023<br>
 ~~Art. 3º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 24 de abril de 2023, 135º da República.~~
-
-<br>
 
 RONALDO CAIADO
 

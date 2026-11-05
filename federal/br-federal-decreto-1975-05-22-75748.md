@@ -1,5 +1,3 @@
-###DEC-075748-0-000-22-05-1975@@@
-
 DECRETO Nº 75.748, DE 22 DE MAIO DE 1975.
 
 Concede à Companhia de Cimento Salvador, o direito de lavrar argila no Município de Salvador, Estado da Bahia.

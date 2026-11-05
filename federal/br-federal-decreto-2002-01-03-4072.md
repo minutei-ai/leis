@@ -1,5 +1,3 @@
-###DEC-004072-0-000-03-01-2002@@@
-
 DECRETO Nº 4.072, DE 3 DE JANEIRO DE 2002.
 
 Dá nova redação aos arts. 81, 91 e 93 do Regulamento aprovado pelo Decreto no 2.314, de 4 de setembro de 1997, que dispõe sobre a padronização, a classificação, o registro, a inspeção, a produção e a fiscalização de bebidas.

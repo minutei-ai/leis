@@ -1,5 +1,3 @@
-###DEC-079320-0-000-01-03-1977@@@
-
 DECRETO Nº 79.320, DE 1º DE MARÇO DE 1977.
 
 Transfere para a empresa Águas Minerais de Patrocínio S.A. a concessão outorgada à Prefeitura Municipal de Guimarânia, para o aproveitamento hidráulico de um trecho do ribeirão Bebedouro, no Estado de Minas Gerais, para uso exclusivo.

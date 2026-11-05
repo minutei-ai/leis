@@ -1,5 +1,3 @@
-###DEC-003125-0-000-29-07-1999@@@
-
 DECRETO Nº 3.125, DE 29 DE JULHO DE 1999.
 
 Delega competência ao Ministro de Estado do Planejamento, Orçamento e Gestão para a prática dos atos que menciona, e dá outras providências.

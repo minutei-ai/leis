@@ -1,5 +1,3 @@
-###DEC-006985-0-000-20-10-2009@@@
-
 DECRETO Nº 6.985, DE 20 DE OUTUBRO DE 2009.
 
 Dá nova redação ao art. 4o do Decreto no 3.524, de 26 de junho de 2000, que regulamenta a Lei no 7.797, de 10 de julho de 1989, que cria o Fundo Nacional do Meio Ambiente.

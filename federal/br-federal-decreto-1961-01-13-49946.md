@@ -1,5 +1,3 @@
-###DEC-049946-0-000-13-01-1961@@@
-
 DECRETO Nº 49. 946, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Francisco Duarte a pesquisar bauxita e minérios de ferro e manganês no município de Rio Acima, Estado de Minas Gerais.

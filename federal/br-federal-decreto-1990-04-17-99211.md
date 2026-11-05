@@ -1,7 +1,3 @@
-1
-
-###DEC-099211-0-000-17-04-1990@@@
-
 DECRETO Nº 99.211, DE 17 DE ABRIL DE 1990
 
 Dá nova redação aos arts. 1º e 2º do De­creto nº 92.466, de 17 de marco de 1986, e dá outras providências.

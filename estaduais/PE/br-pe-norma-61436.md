@@ -42,46 +42,30 @@ Presidente
 
 **CARGO DE PROVIMENTO EM COMISSÃO**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="115" valign="top" style="width:65.75pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">CARGO / SIMBOLOGIA</span></p></td><td width="51" valign="top" style="width:65.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">QTD.</span></p></td><td width="119" valign="top" style="width:65.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">REQUISITOS DE PROVIMENTO</span></p></td><td width="120" valign="top" style="width:65.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">ATRIBUIÇÕES</span></p></td><td width="120" valign="top" style="width:65.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">VENCIMENTO BASE</span></p></td><td width="150" valign="top" style="width:65.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">REPRESENTAÇÃO (120%)</span></p></td><td width="138" valign="top" style="width:65.8pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,serif">REMUNERAÇÃO TOTAL</span></p></td></tr><tr><td width="115" valign="top" style="width:65.75pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Assistente Chefe - MPJC</span></p></td><td width="51" valign="top" style="width:65.8pt;border-top:none;border-left:none;
-  border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">01</span></p></td><td width="119" valign="top" style="width:65.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Nível superior, exercida por um Oficial Superior da Ativa ou da Reserva Remunerada, dos quadros da Polícia Militar ou do Corpo de Bombeiros Militar do Estado de Pernambuco.</span></p></td><td width="120" valign="top" style="width:65.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">Coordenar as atividades de segurança policial e prevenção junto à Presidência do Tribunal de Justiça do Estado de Pernambuco; Elaborar e fazer cumprir um plano de segurança e prevenção do Poder Judiciário Estadual; Assessorar a Presidência nos contatos juntos às Forças Armadas, Forças Auxiliares e outros órgãos quando solicitado; Auxiliar e integrar a Comissão de Segurança Institucional do Poder Judiciário do Estado de Pernambuco no desempenho de suas atividades; e Desenvolver outras atividades determinadas pelo Presidente do Tribunal de Justiça do Estado de Pernambuco, inerentes à área de segurança e prevenção.</span></p></td><td width="120" valign="top" style="width:65.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 5.174,03</span></p></td><td width="150" valign="top" style="width:65.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 6.208,85</span></p></td><td width="138" valign="top" style="width:65.8pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">R$ 11.382,88</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">&nbsp;</span></p></td></tr></tbody></table>
+CARGO / SIMBOLOGIA
+
+QTD.
+
+REQUISITOS DE PROVIMENTO
+
+ATRIBUIÇÕES
+
+VENCIMENTO BASE
+
+REPRESENTAÇÃO (120%)
+
+REMUNERAÇÃO TOTAL
+
+Assistente Chefe - MPJC
+
+01
+
+Nível superior, exercida por um Oficial Superior da Ativa ou da Reserva Remunerada, dos quadros da Polícia Militar ou do Corpo de Bombeiros Militar do Estado de Pernambuco.
+
+Coordenar as atividades de segurança policial e prevenção junto à Presidência do Tribunal de Justiça do Estado de Pernambuco; Elaborar e fazer cumprir um plano de segurança e prevenção do Poder Judiciário Estadual; Assessorar a Presidência nos contatos juntos às Forças Armadas, Forças Auxiliares e outros órgãos quando solicitado; Auxiliar e integrar a Comissão de Segurança Institucional do Poder Judiciário do Estado de Pernambuco no desempenho de suas atividades; e Desenvolver outras atividades determinadas pelo Presidente do Tribunal de Justiça do Estado de Pernambuco, inerentes à área de segurança e prevenção.
+
+R$ 5.174,03
+
+R$ 6.208,85
+
+R$ 11.382,88

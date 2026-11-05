@@ -1,5 +1,3 @@
-###DEC-004085-0-000-15-01-2002@@@
-
 DECRETO Nº 4.085, DE 15 DE JANEIRO DE 2002.
 
 Promulga a Convenção no 174 da OIT e a Recomendação no 181 sobre a Prevenção de Acidentes Industriais Maiores.

@@ -1,5 +1,3 @@
-###DEC-058906-0-000-21-07-1966@@@
-
 DECRETO Nº 58.906, DE 21 DE JULHO DE 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$6.472.592.500, para regularizar a despesa com o programa de emergência no setor agropecuário.

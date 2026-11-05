@@ -1,5 +1,3 @@
-###DEC-088636-0-000-17-08-1983@@@
-
 Decreto nº 88.636, de 17 de agosto de 1983
 
 Autoriza o funcionamento do curso de Educação Artísticas das Faculdades Integradas Estácio de Sá, no Rio de Janeiro.

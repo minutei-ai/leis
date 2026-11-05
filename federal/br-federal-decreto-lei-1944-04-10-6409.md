@@ -1,5 +1,3 @@
-###DEL-006409-0-000-10-04-1944@@@
-
 DECRETO-LEI N. 6.409 – DE 10 DE ABRIL DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.108.919,40, para conclusão das obras de aparelhamento do pôrto de Laguna

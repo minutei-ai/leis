@@ -1,5 +1,3 @@
-###DEC-082515-0-000-30-10-1978@@@
-
 Decreto nº 82.515, de 30 de outubro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, as áreas de terras encravadas no campus da Universidade Federal de Viçosa, no Município de Viçosa, Estado de Minas Gerais.

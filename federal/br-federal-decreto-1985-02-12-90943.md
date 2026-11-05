@@ -1,5 +1,3 @@
-###DEC-090943-0-000-12-02-1985@@@
-
 DECRETO Nº 90.943, de 12 de fevereiro de 1985
 
 Autoriza o funcionamento do curso de Enfermagem e Obstetrícia da Fundação Educacional de Jahu, Estado de são Paulo.

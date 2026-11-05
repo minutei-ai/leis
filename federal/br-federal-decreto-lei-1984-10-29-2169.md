@@ -1,5 +1,3 @@
-###DEL-002169-0-000-29-10-1984@@@
-
 # DecretO-lei nº 2.169, de 29 de outubro de 1984
 
 Altera o Decreto-lei nº 1928, de 18 de fevereiro de 1982, que dispõe sobre o pagamento prioritário de débitos decorrentes de compromissos em moeda estrangeira, assumidos pela Administração Pública.

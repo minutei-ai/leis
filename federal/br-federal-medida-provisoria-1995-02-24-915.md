@@ -1,7 +1,3 @@
-1
-
-###MPV-000915-0-000-24-02-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 915, DE 24 DE FEVEREIRO DE 1995
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados das empresas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-007738-0-000-13-07-1945@@@
-
 DECRETO-LEI N. 7.738 – DE 13 DE JULHO DE 1945
 
 Dispõe sôbre vencimentos de cargos isolados do Ministério da Fazenda e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-087643-0-000-24-09-1982@@@
-
 Decreto nº 87.643, de 24 de setembro 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

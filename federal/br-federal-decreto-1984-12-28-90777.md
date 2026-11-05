@@ -1,5 +1,3 @@
-###DEC-090777-0-000-28-12-1984@@@
-
 Decreto nº 90.777, de 28 de dezembro de 1984.
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Educação e Letras do Alto Taquari.

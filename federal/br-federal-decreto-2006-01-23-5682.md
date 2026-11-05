@@ -1,5 +1,3 @@
-###DEC-005682-0-000-23-01-2006@@@
-
 DECRETO Nº 5.682, DE 23 DE JANEIRO DE 2006.
 
 Dispõe sobre a execução do Regulamento 12 (Regime Uniforme sobre a Praticagem na Hidrovia Paraguai-Paraná - Porto de Cáceres - Porto de Nueva Palmira) do Acordo de Alcance Parcial no 5, assinado ao amparo do Artigo 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, em 28 de julho de 2003.

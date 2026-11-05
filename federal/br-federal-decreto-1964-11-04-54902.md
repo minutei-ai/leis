@@ -1,5 +1,3 @@
-###DEC-054902-0-000-04-11-1964@@@
-
 DECRETO Nº 54.902, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileira Clarisdon Souza Ribeiro a pesquisar quartzo e mica, no município de Coroaci, Estado de Minas Gerais.

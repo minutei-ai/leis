@@ -1,14 +1,12 @@
-###DEC-040625-0-000-27-12-1956@@@
+**DECRETO Nº 40.625, DE 27 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.625, DE 27 DE DEZEMBRO DE 1956.</strong>
+***Altera o Regulamento do Serviço de Identificação da Aeronáutica.***
 
-<em><strong>Altera o Regulamento do Serviço de Identificação da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O artigo 9 do Regulamento do Serviço de Identificação da Aeronáutica, aprovado pelo Decreto número 20.499, de 24 de janeiro de 1946, passa a vigorar com a seguinte redação:
+**Art**. 1º O artigo 9 do Regulamento do Serviço de Identificação da Aeronáutica, aprovado pelo Decreto número 20.499, de 24 de janeiro de 1946, passa a vigorar com a seguinte redação:
 
 “Art. 9º O Gabinete de Identificação compõe-se de:
 
@@ -46,10 +44,10 @@ c) sugerir as medidas necessárias ao cumprimento das normas legais e regulament
 
 § 8º As funções de Chefe das demais seções serão exercidas por funcionários ou extranumerários-mensalistas, dos quadros ou tabelas de pessoal do Ministério da Aeronáutica, designados pelo Chefe do Serviço.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 27 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleiuss

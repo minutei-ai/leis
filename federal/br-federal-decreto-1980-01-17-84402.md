@@ -1,5 +1,3 @@
-###DEC-084402-0-000-17-01-1980@@@
-
 Decreto nº 84.402, de 17 de janeiro de 1980.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Jornal do Brasil S.A., transferida ao Governo do Estado de Goiás para, através do Consórcio de Empresas de Radiodifusão e Notícias do Estado - CERNE, executar serviço de radiodifusão sonora em onda tropical, na cidade de Goiânia, Estado de Goiás.

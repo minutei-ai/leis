@@ -1,5 +1,3 @@
-###DEC-048699-0-000-04-08-1960@@@
-
 decreto nº 48.699, de 4 de agÔsto de 1960.
 
 Aprova o aumento do capital e dá nova redação ao art. 7º dos Estatutos Sociais da Rêde Ferroviária Federal S.A.

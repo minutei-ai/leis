@@ -1,5 +1,3 @@
-###DEL-007760-0-000-19-07-1945@@@
-
 DECRETO-LEI N. 7.760 – DE 19 DE JULHO DE 1945
 
 Abre crédito suplementar ao Ministério da Educação e Saúde

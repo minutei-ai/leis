@@ -1,5 +1,3 @@
-###DEC-091441-0-000-18-07-1985@@@
-
 Decreto nº 91.441, de 18 de julho de 1985.
 
 Altera dispositivo do Regulamento para o Serviço de Documentação-Geral da Marinha, aprovado pelo Decreto nº 69.497 de 5 de novembro de 1971.

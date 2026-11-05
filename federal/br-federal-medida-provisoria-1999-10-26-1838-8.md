@@ -1,5 +1,3 @@
-###MPV-001838-0-008-26-10-1999@@@
-
 MEDIDA PROVISSÓRIA Nº 1.838-8, DE 26 DE OUTUBRO DE 1999.
 
 Altera dispositivos da lei nº 9.692, de 27 e julho de 1998, que dispõe sobre as diretrizes para a elaboração da lei orçamentária de 1999.

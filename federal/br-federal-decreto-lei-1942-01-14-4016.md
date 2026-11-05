@@ -1,5 +1,3 @@
-###DEL-004016-0-000-14-01-1942@@@
-
 DECRETO-LEI N. 4.016 – DE 14 DE JANEIRO DE 1942
 
 Dispõe sobre o encerramento do exercício de 1941

@@ -1,5 +1,3 @@
-###DEC-082016-0-000-20-07-1978@@@
-
 DECRETO Nº 82.016, DE 20 DE JULHO DE 1978.
 
 Retifica a concessão de lavra outorgada à Vicente de Faria Melo - Firma Individual pelo Decreto nº 71.774, de 31 de janeiro de 1973.

@@ -1,5 +1,3 @@
-###DEC-057203-0-000-09-11-1965@@@
-
 DECRETO Nº 57.203, DE 9 DE NOVEMBRO DE 1965.
 
 Concede a Alberto Pereira da Silva & Cia Ltda., autorização para funcionar como emprêsa de mineração.

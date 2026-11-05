@@ -1,5 +1,3 @@
-###DEC-068871-0-000-05-07-1971@@@
-
 Decreto nº 68.871, de 5 de julho de 1971.
 
 Transfere da Prefeitura Municipal de Coronel Vivida, no Estado do Paraná, para a Fôrça e Luz Coronel Vivida Ltda., a concessão para produzir, transmitir e distribuir energia elétrica no município de Coronel Vivida, naquele Estado, e dá outras providências.

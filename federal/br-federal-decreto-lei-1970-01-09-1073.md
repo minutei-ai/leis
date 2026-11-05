@@ -1,7 +1,3 @@
-1
-
-###DEL-001073-0-000-09-01-1970@@@
-
 # DECRETO-LEI Nº 1.073, DE 9 DE JANEIRO DE 1970
 
 Reajusta os vencimentos dos servidores civis e militares do Poder Executivo e dá outras providências.

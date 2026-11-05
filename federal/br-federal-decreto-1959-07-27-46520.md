@@ -1,5 +1,3 @@
-###DEC-046520-0-000-27-07-1959@@@
-
 DECRETO Nº 46.520, DE 27 DE JULHO DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 30.779, de 24 de abril de 1952, para fins de desapropriação, pelo Departamento Nacional de Obras Contra a Sêcas, da área de terreno situada no Município de Angicos, Estado do Rio Grande do Norte.

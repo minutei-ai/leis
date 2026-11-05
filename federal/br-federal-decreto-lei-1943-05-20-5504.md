@@ -1,5 +1,3 @@
-###DEL-005504-0-000-20-05-1943@@@
-
 DECRETO-LEI N. 5.504  – DE 20 DE MAIO DE 1943
 
 Cria a Corregedoria da Polícia Civil do Distrito Federal

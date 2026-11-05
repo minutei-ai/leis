@@ -1,5 +1,3 @@
-###DEC-096405-0-000-22-07-1988@@@
-
 DECRETO N° 96.405, DE 22 DE JULHO DE 1988
 
 Outorga concessão a EMPREENDIMENTOS RADIODIFUSÃO CABO FRIO LTDA. para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Cabo Frio, Estado do Rio de Janeiro.

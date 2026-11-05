@@ -1,7 +1,5 @@
 OPIDFUIUIFD
 
-###DEC-056518-0-000-29-06-1965@@@
-
 DECRETO Nº 56.518, DE 29 DE JUNHO DE 1965.
 
 Dá nova redação ao Decreto nº 1.884, de 17 de dezembro de 1962, que regula a concessão da Medalha do Pacificador e torna insubsistente o Decreto nº 55.765, de 17 de fevereiro de 1965.

@@ -1,5 +1,3 @@
-###DEL-000595-0-000-27-05-1969@@@
-
 DECRETO-LEI Nº 595, DE 27 DE MAIO DE 1969
 
 Altera denominação do Anexo II do Orçamento Geral da República para 1969, constante da Lei 5.546, de 29 de novembro de 1968.

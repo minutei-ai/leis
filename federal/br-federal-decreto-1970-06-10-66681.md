@@ -1,5 +1,3 @@
-###DEC-066681-0-000-10-06-1970@@@
-
 DECRETO Nº 66.681, DE 10 DE JUNHO DE 1970.
 
 Retifica relação de que trata o Decreto nº 55.818, de 8 de março de 1965, que transfere com os respectivos cargos, para o Conselho Nacional de Telecomunicações, servidores em exercício na Comissão Técnica de Rádio.

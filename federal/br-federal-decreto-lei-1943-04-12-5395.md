@@ -1,5 +1,3 @@
-###DEL-005395-0-000-12-04-1943@@@
-
 DECRETO‑LEI N. 5.395 – DE 12 DE ABRIL DE 1943
 
 Altera as tabelas do extinto Quadro IV – Estrada de Ferro Noroeste do Brasil – do Ministério da Viação e Obras Públicas, e dá outras providências

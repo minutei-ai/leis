@@ -1,5 +1,3 @@
-###DEC-005437-0-000-29-04-2005@@@
-
 DECRETO Nº 5.437, DE 29 DE ABRIL DE 2005
 
 Promulga o Acordo de Cooperação no Domínio do Turismo entre o Governo da República Federativa do Brasil e o Governo da República da Coréia, de 11 de setembro de 1996.

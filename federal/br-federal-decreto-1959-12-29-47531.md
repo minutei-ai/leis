@@ -1,5 +1,3 @@
-###DEC-047531-0-000-29-12-1959@@@
-
 Decreto nº 47.531, de 29 de dezembro de 1959.
 
 Autoriza o funcionamento da Faculdade de Medicina de Santa Catarina.

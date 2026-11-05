@@ -1,5 +1,3 @@
-###DEC-086546-0-000-05-11-1981@@@
-
 Decreto nº 86.546, de 05 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO MARAJOARA LTDA., na cidade de Ibiporã, Estado do Paraná.

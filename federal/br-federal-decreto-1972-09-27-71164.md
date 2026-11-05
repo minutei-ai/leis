@@ -1,5 +1,3 @@
-###DEC-071164-0-000-27-09-1972@@@
-
 DECRETO Nº 71.164, de 27 de Setembro de 1972.
 
 Autoriza o funcionamento do Centro Regional de Habilitação e Treinamento de Professores do Ensino Técnico (CERETC), Niterói - RJ.

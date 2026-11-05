@@ -1,7 +1,3 @@
-1
-
-###DEC-098832-0-000-16-01-1990@@@
-
 DECRETO N.° 98.832, DE 16 DE JANEIRO DE 1990
 
 Declara de utilidade pública para fins de desapropriação, área de terra necessária à implantação da subestação Patriarca, da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

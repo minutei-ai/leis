@@ -1,5 +1,3 @@
-###DEC-061845-0-000-06-12-1967@@@
-
 DECRETO Nº 61.845, DE 6 DE DEZEMBRO DE 1967.
 
 Declara luto oficial.

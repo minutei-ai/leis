@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a abrir na Secretaria da Fazenda, �
 
 Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta do recurso mencionado no inciso II § 1º do artigo 43 da Lei Federal nº 4.320, de 17 de março de 1964.
 
-Redação de acordo com a Lei nº 2.348, de 14 de junho de 1966.<br>
+Redação de acordo com a Lei nº 2.348, de 14 de junho de 1966.
+
 Redação original: "Art. 2º - As despesas decorrentes da abertura do presente crédito correrão à conta da codificação - 3.05.08 - Verba 3.1.4.19-1 do orçamento vigente."
 
 Art. 3º - Revogam-se as disposições em contrário.
@@ -21,4 +22,4 @@ Governador
 
 Ivo Braga
 
-* * *
+ *

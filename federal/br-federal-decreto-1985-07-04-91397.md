@@ -1,5 +1,3 @@
-###DEC-091397-0-000-04-07-1985@@@
-
 # DECRETO Nº 91.397, DE 04 DE JULHO DE 1985
 
 Aprova o Regulamento para o Conselho Superior de Economia e Finanças do Exército (R-8).

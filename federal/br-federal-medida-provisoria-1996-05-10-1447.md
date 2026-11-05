@@ -1,7 +1,3 @@
-1
-
-###MPV-001447-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.447, DE 10 DE MAIO DE 1996.
 
 Dispõe sobre as contribuições para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP, e dá outras providências.

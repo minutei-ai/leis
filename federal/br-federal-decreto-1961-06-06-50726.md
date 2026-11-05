@@ -1,5 +1,3 @@
-###DEC-050726-0-000-06-06-1961@@@
-
 DECRETO Nº 50.726, DE 6 DEJ UNHO DE 1961.
 
 Outorga ao Govêrno do Estado de Pernambuco concessão para distribuir energia elétrica.

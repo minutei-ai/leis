@@ -1,5 +1,3 @@
-###MPV-001991-0-014-11-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.991-14, DE 11 de Fevereiro de 2000.
 
 Altera a legislação das Contribuições para a Seguridade Social - COFINS, para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público - PIS/PASEP e do Imposto sobre a Renda, e dá outras providências.

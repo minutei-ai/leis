@@ -1,5 +1,3 @@
-###DEC-097631-0-000-10-04-1989@@@
-
 DECRETO N° 97.631, DE 10 DE ABRIL DE 1989
 
 Altera a redação do artigo 12 do Decreto n° 58.016, de 18 de março de 1966, que regulamenta a Lei n° 4.797, de 20 de outubro de 1965, e dá outras providências.

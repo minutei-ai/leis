@@ -18,5 +18,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Deputado
 
-BRUNO PEIXOTO<br>
+BRUNO PEIXOTO
+
 – PRESIDENTE –

@@ -1,5 +1,3 @@
-###DEC-073670-0-000-18-02-1974@@@
-
 DECRETO Nº 73.670, DE 18 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento do Centro de Formação de Professores de Disciplinas Especializadas para Habilitação de 2º Grau, com o curso de Formação de Professores para as Disciplinas Profissionais do Ensino Técnico, mantido pela Associação de Ensino de Marília, com sede na Cidade de Marília, Estado de São Paulo.

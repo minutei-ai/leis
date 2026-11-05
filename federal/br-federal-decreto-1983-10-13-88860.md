@@ -1,5 +1,3 @@
-###DEC-088860-0-000-13-10-1983@@@
-
 DECRETO Nº 88.860, DE 13 DE OUTUBRO DE 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de São Francisco, no Estado de Minas Gerais.

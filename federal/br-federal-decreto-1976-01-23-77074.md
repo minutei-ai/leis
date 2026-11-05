@@ -1,5 +1,3 @@
-###DEC-077074-0-000-23-01-1976@@@
-
 DECRETO Nº 77.074, DE 23 DE JANEIRO DE 1976.
 
 Declara de utilidade pública para fins de desapropriação o domínio pleno de um imóvel, com benfeitorias, situado na cidade de Goiânia, Estado de Goiás, destinado à ampliação do Edifício-sede da Telecomunicações de Goiás S. A. - TELEGOIÁS.

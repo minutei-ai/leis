@@ -1,5 +1,3 @@
-###DEC-049775-0-000-31-12-1960@@@
-
 decreto nº 49.775, de 31 de dezembro de 1960.
 
 Concede à sociedade anônima Refinações de Milho, Brazil autorização para continuar a funcionar na República.

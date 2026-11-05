@@ -1,5 +1,3 @@
-###DEC-079731-0-000-26-05-1977@@@
-
 decreto nº 79.731, de 26 de maio de 1977.
 
 Concede reconhecimento ao curso de Comunicação Social, das Faculdades Integradas Alcântara Machado, com sede na Cidade de São Paulo, Estado de São Paulo.

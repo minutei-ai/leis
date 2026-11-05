@@ -1,7 +1,3 @@
-1
-
-###MPV-001384-0-000-11-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.384, DE 11 DE ABRIL DE 1996.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios, e dá outras providências.

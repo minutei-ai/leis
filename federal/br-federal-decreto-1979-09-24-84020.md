@@ -1,5 +1,3 @@
-###DEC-084020-0-000-24-09-1979@@@
-
 Decreto nº 84.020 de 24 de setembro de 1979.
 
 Autoriza o funcionamento da habilitação Formação de Psicólogo do curso de Psicologia das Faculdades Unidas Católicas de Mato Grosso, com sede na cidade de Campo Grande, Estado de Mato Grosso do Sul.

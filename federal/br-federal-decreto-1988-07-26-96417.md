@@ -1,5 +1,3 @@
-###DEC-096417-0-000-26-07-1988@@@
-
 DECRETO N° 96.417, DE 26 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado “FAZENDA BARREIRINHO” classificado como latifúndio por exploração, situado no Município de Unaí, no Estado de Minas Gerais, compreendido na zona prioritária para fins de reforma agrária, fixada pelo Decreto n° 92.694, de 19 de maio de 1986, e dá outras providências.

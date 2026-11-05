@@ -1,5 +1,3 @@
-###DEL-005551-0-000-07-06-1943@@@
-
 DECRETO‑LEI N. 5. 551 – DE 7 DE JUNHO DE 1943
 
 Concede isenção de impostos e taxas aos postos de gasolina autorizados a comprar qualquer espécie ou quantidade de borracha, no período com­preendido entre 1 e 15 do mês de julho de 1943, denominado "Mês Na­cional da Borracha”

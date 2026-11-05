@@ -1,5 +1,3 @@
-###DEC-045222-0-000-15-01-1959@@@
-
 Decreto nº 45.222, de 15 de janeiro de 1959.
 
 Transfere, sem aumento de despesa, funções de Tabela Numérica Especial de Extranumerário-mensalista do Ministério da Agricultura, que menciona.

@@ -1,5 +1,3 @@
-###DEC-047120-0-000-27-10-1959@@@
-
 decreto nº 47.120, de 27 de outubro de 1959.
 
 Declara caduco o Decreto nº 30.844, de 14 de maio de 1952, retificado pelo de nº 31.683, de 30 de outubro de 1952.

@@ -1,5 +1,3 @@
-###DEC-003612-0-000-27-09-2000@@@
-
 DECRETO Nº 3612, DE 27 DE SETEMBRO DE 2000
 
 Promulga o Acordo, por troca de Notas, de Isenção de Vistos em Passaportes Diplomático, Oficial/Serviço, Especial e Oficial de Ambos os Países, entre o Governo da República Federativa do Brasil e o Governo da República Cooperativista da Guiana, celebrado em Brasília, em 20 de maio de 1999.

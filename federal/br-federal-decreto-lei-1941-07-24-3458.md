@@ -1,5 +1,3 @@
-###DEL-003458-0-000-24-07-1941@@@
-
 DECRETO-LEI N. 3.458 – DE 24 DE JULHO DE 1941
 
 Abre, pelo Departamento de Imprensa e Propaganda, o crédito especial de 200:000$0 para distribuição de prêmios

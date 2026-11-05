@@ -38,8 +38,10 @@ Goiânia, 4 de fevereiro de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado em exercício
 
-VIRMONDES CRUVINEL<br>
+VIRMONDES CRUVINEL
+
 Deputado Estadual

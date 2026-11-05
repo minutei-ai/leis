@@ -1,5 +1,3 @@
-###DEL-006388-0-000-30-03-1944@@@
-
 DECRETO-LEI N. 6.388 – DE 30 DE MARÇO DE 1944
 
 Dispõe sôbre a extinção dos resseguros no ramo vida após o início de operações do Instituto de Resseguros do Brasil no referido ramo

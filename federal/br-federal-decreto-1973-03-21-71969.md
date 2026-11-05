@@ -1,5 +1,3 @@
-###DEC-071969-0-000-21-03-1973@@@
-
 Decreto nº 71.969, de 21 de março de 1973.
 
 Aproveita, no Quadro de Pessoal do Ministério da Aeronáutica, servidor em disponibilidade e dá outras providências.

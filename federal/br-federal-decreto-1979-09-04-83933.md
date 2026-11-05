@@ -1,5 +1,3 @@
-###DEC-083933-0-000-04-09-1979@@@
-
 decreto nº 83.933, de 04 de setembro de 1979.
 
 Altera a subordinação de Organizações Militares no Ministério do Exército.

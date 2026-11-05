@@ -1,5 +1,3 @@
-###DEC-058763-0-000-28-06-1966@@@
-
 DECRETO Nº 58.763, DE 28 DE JUnHO DE 1966.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$110.000.000 (cento e dez milhões de cruzeiros) destinado à construção de uma nova sede para o Instituto Histórico e Geográfico Brasileiro.

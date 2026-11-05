@@ -1,7 +1,3 @@
-1
-
-###DEC-000882-0-000-28-07-1993@@@
-
 DECRETO N° 882, DE 28 DE JULHO DE 1993
 
 Regulamenta a Lei n° 8.529, de 14 de dezembro de 1992.

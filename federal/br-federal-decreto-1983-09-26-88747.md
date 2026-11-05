@@ -1,5 +1,3 @@
-###DEC-088747-0-000-26-09-1983@@@
-
 Decreto nº 88.747, de 26 de setembro de 1983
 
 Declara de utilidade pública as instituições que menciona.

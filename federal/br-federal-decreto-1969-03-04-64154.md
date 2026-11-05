@@ -1,5 +1,3 @@
-###DEC-064154-0-000-04-03-1969@@@
-
 DECRETO Nº 64.154, DE 4 DE MARÇO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra, situada no município de Mossoró, Estado do Rio Grande do Norte, necessária à instalação de uma Estação Repetidora de Microondas, integrante do Sistema Nacional de Telecomunicações.

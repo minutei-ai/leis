@@ -1,5 +1,3 @@
-###DEC-045492-0-000-26-02-1959@@@
-
 DECRETO Nº 45.492, DE 26 DE fevereiro DE 1959.
 
 Autoriza “Orinco” - Organização Imobiliária e Comércio Ltda. a pesquisar água mineral, no município de Guarapari, Estado do Espírito Santo.

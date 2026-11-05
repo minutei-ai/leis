@@ -1,5 +1,3 @@
-###DEC-049214-0-000-12-11-1960@@@
-
 DECRETO Nº 49.214, DE 12 DE NOVEMBRO DE 1960.
 
 Transfere, sem aumento de despesas, funções da Tabela Única de Extranumerário-mensalista do Ministério e a Tabela do Ministério da Fazenda.

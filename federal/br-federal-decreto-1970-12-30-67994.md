@@ -1,5 +1,3 @@
-###DEC-067994-0-000-30-12-1970@@@
-
 DECRETO Nº 67.994, DE 30 DE DEZEMBRO DE 1970.
 
 Ativa a Base Aérea de Florianópolis e dá outras providências.

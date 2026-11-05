@@ -1,5 +1,3 @@
-###DEL-005559-0-000-08-06-1943@@@
-
 DECRETO-LEI N. 5.559 – DE 8 DE JUNHO DE 1943
 
 Estende ao Serviço Especial de Saúde Pública o regime estabelecido pelo decreto‑lei n. 3.672, de 1 de outubro de 1941

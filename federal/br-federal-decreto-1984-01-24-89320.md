@@ -1,5 +1,3 @@
-###DEC-089320-0-000-24-01-1984@@@
-
 Decreto nº 89.320, de 24 de janeiro de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Iguaba, da Companhia de Eletricidade do Estado do Rio de Janeiro-CERJ, no Estado do Rio de Janeiro.

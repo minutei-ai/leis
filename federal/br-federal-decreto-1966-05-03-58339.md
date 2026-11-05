@@ -1,5 +1,3 @@
-###DEC-058339-0-000-03-05-1966@@@
-
 DECRETO Nº 58.339, de 3 de maio de 1966.
 
 Autoriza o cidadão brasileiro Aziz Khoury Filho a pesquisar quartzo no município de Itaipé, Estado de Minas Gerais.

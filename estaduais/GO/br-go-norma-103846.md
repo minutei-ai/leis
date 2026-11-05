@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA, em Goiânia, 07 de dezembro de 2020.
 
-<br>
-
 CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
 QUADRO 1
@@ -21,7 +19,7 @@ QUADRO 1
 | SUPLEMENTAÇÃO |
 | --- |
 |
-**4201 –** **SECRETARIA DE ESTADO DA RETOMADA**
+**4201 –SECRETARIA DE ESTADO DA RETOMADA**
 
 **4250 – FUNDO ESTADUAL DO TRABALHO - FET**
 
@@ -32,5 +30,5 @@ QUADRO 1
 |
 
  |   |
-|   | **VALOR TOTAL A** **SUPLEMENTAR** |
+|   | **VALOR TOTAL ASUPLEMENTAR** |
 |   | **4.293.419,47** |

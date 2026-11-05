@@ -1,5 +1,3 @@
-###DEC-045177-0-000-31-12-1958@@@
-
 decreto nº 45.177, de 31 de dezembro de 1958.
 
 Outorga à Prefeitura Municipal de Itaguaçu, Estado do Espírito Santo, concessão para o aproveitamento de energia hidráulica de um desnível existente no rio Santa Joana, Distrito de Itarana, Município de Itaguaçu, Estado do Espírito Santo.

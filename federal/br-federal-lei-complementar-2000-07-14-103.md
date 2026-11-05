@@ -1,5 +1,3 @@
-###LCP-000103-0-000-14-07-2000@@@
-
 LEI COMPLEMENTAR Nº 103, DE 14 DE JULHO DE 2000.
 
 Autoriza os Estados e o Distrito Federal a instituir o piso salarial a que se refere o inciso V do art. 7º da Constituição Federal, por aplicação do disposto no parágrafo único do seu art. 22.

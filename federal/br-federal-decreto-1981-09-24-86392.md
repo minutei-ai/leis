@@ -1,5 +1,3 @@
-###DEC-086392-0-000-24-09-1981@@@
-
 DECRETO Nº 86.392, de 24 de setembro de 1981
 
 Cria, no Estado de Mato Grosso, o PARQUE NACIONAL DO PANTANAL MATO-GROSSENSE.

@@ -1,5 +1,3 @@
-###DEC-096999-0-000-20-10-1988@@@
-
 DECRETO Nº 96.999, DE 20 DE OUTUBRO DE 1988
 
 Cria, no litoral do Estado de Sergipe, a Reserva Biológica de Santa Isabel e dá outras providências.

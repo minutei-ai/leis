@@ -1,5 +1,3 @@
-###DEC-002283-0-000-24-07-1997@@@
-
 DECRETO Nº 2.283, DE 24 DE JULHO DE 1997
 
 Dispõe sobre a extinção do Instituto Nacional de Alimentação e Nutrição - INAN e a desativação da Central de Medicamentos - CEME, e dá outras providências.

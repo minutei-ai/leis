@@ -1,5 +1,3 @@
-###DEC-003605-0-000-20-09-2000@@@
-
 DECRETO Nº 3.605, DE 20 DE SETEMBRO DE 2000.
 
 Qualifica como Organização Social a Associação Instituto Nacional de Matemática Pura e Aplicada - IMPA.

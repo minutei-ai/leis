@@ -1,5 +1,3 @@
-###DEC-093047-0-000-29-07-1986@@@
-
 DECRETO Nº 93.047, DE 29 DE JULHO DE 1986
 
 Autoriza a alienação de imóvel residencial de propriedade da União Federal em Brasília - DF, e dá outras providências.

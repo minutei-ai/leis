@@ -1,5 +1,3 @@
-###MPV-000255-0-000-01-07-2005@@@
-
 MEDIDA PROVISÓRIA Nº 255, DE 1º DE JULHO DE 2005.
 
        Prorroga o prazo para opção pelo regime de Imposto de Renda Retido na Fonte de Pessoa Física dos participantes de planos de benefícios e dá outras providências.

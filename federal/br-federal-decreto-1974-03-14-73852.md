@@ -1,5 +1,3 @@
-###DEC-073852-0-000-14-03-1974@@@
-
 DECRETO Nº 73.852, DE 14 DE MARÇO DE 1974.
 
 Declara de utilidade pública a Mitra Arquidiocesana de Niterói, com sede em Niterói, Estado do Rio de Janeiro.

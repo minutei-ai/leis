@@ -1,5 +1,3 @@
-###DEC-064513-0-000-14-05-1969@@@
-
 DECRETO Nº 64.513, DE 14 DE MAIO DE 1969.
 
 Estende aos funcionários da Comissão Brasileira Demarcadora de Limites o disposto no Decreto número 60.393 de 11 de março de 1967.

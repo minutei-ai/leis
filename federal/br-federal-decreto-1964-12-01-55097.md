@@ -1,5 +1,3 @@
-###DEC-055097-0-000-01-12-1964@@@
-
 DECRETO Nº 55.097, DE 1º DE DEZEMBRO DE 1964.
 
 Concede à Companhia Siderúrgica Ita-Minas autorização para funcionar como emprêsa de mineração.

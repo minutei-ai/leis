@@ -1,5 +1,3 @@
-###DEC-052296-0-000-24-07-1963@@@
-
 decreto nº 52.296, de 24 de julho de 1963.
 
 Declara de utilidade pública a Casa da Cultura Francesa - Aliança Francesa, com sede em São Paulo.

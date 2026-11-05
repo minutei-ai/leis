@@ -1,14 +1,12 @@
-###DEC-037312-0-000-09-05-1955@@@
+**DECRETO Nº 37.312, DE 9 MAIO DE 1955.**
 
-<strong>DECRETO Nº 37.312, DE 9 MAIO DE 1955.</strong>
+***Introduz alteração no texto do regulamento aprovado pelo decreto número 29.124, de 12 de janeiro de 1951.***
 
-<em><strong>Introduz alteração no texto do regulamento aprovado pelo decreto número 29.124, de 12 de janeiro de 1951.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passam a vigorar com a redação a seguir indicada os dispositivos abaixo mencionados do regulamento aprovado pelo Decreto número 29.124, de 12 de janeiro de 1951.
+**Art**. 1º Passam a vigorar com a redação a seguir indicada os dispositivos abaixo mencionados do regulamento aprovado pelo Decreto número 29.124, de 12 de janeiro de 1951.
 
 “Art. 6º A falta de recolhimentos das contribuições devidas aos Institutos e à Caixa de aposentadorias e pensões, a partir do segundo mês seguinte àquele a que correspondem, sujeitará o responsável de acôrdo com o disposto no artigo 1º da Lei número 1.239-A, de 20 de novembro de 1950, à multa de 10% (dez por cento) a 30% (trinta por cento) sôbre o respectivo valor, sempre que a constituição tiver que promover sua cobrança amigável ou jurídica.
 
@@ -40,10 +38,10 @@ Art. 9º Dos atos do presidente dos institutos e da caixa ou das autoridades del
 
 § 5º É facultado, em casos especiais, à autoridade ou órgão que impuser a multa ou que conhecer do recurso, tendo em vista o abalo financeiro que dela poderá resultar ao infrator, reduzi-la proporcionalmente, a um limite eqüitativo, fundamentando sempre sua decisão a êsse respeito.”
 
-<strong>Art</strong>. 2º O presente Decreto, revogadas as disposições em contrário, entrará em vigor na data de sua publicação.
+**Art**. 2º O presente Decreto, revogadas as disposições em contrário, entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 9 de maio de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Napoleão de Alencastro Guimarães

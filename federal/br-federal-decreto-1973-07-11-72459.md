@@ -1,5 +1,3 @@
-###DEC-072459-0-000-11-07-1973@@@
-
 DECRETO Nº 72.459, DE 11 DE JULHO DE 1973.
 
 Autoriza funcionamento do curso de Estudos Sociais (duração plena), habilitação de Educação Moral e Cívica, na Faculdade de Filosofia, Ciências e Letras "Nossa Senhora do Patrocínio", mantida pela Sociedade de Educação "Nossa Senhora do Patrocínio", com sede na cidade de Itu, Estado de São Paulo.

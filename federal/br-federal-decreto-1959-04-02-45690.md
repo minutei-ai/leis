@@ -1,5 +1,3 @@
-###DEC-045690-0-000-02-04-1959@@@
-
 DECRETO Nº 45.690, DE 2 DE ABRIL DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à R.F.F.S.A.

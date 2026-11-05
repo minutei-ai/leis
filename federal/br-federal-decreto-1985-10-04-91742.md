@@ -1,5 +1,3 @@
-###DEC-091742-0-000-04-10-1985@@@
-
 Decreto nº 91.742, de 04 de outubro de 1985
 
 Autoriza o funcionamento da habilitação em Orientação Educacional, da Faculdade de Filosofia, Ciências e Letras de Boa Esperança.

@@ -1,5 +1,3 @@
-###DEC-054672-0-000-29-10-1964@@@
-
 DECRETO Nº 54.672, DE 29 DE OUTUBRO DE 1964.
 
 Autoriza a cessão gratuita, à Cruzada pela Infância do Leme, do Terreno que menciona, situado no Estado da Guanabara.

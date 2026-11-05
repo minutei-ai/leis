@@ -1,6 +1,10 @@
 > **LEI Nº 3.955, DE 01 DE JULHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui Vantagem Pessoal Nominalmente Identificada – VPNI e revoga o § 10 da Lei nº 3.378, de 17 de abril de 2018.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui Vantagem Pessoal Nominalmente Identificada – VPNI e revoga o § 10 da Lei nº 3.378, de 17 de abril de 2018.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

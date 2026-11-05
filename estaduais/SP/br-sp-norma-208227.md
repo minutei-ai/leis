@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208227)<br>
-
 # DECRETO N° 67.777, DE 27 DE JUNHO DE 2023
 
 ### _Altera o Estatuto da Fundação Sistema Estadual de Análise de Dados - SEADE, aprovado pelo Decreto n° 13.161, de 19 de janeiro de 1979._

@@ -1,5 +1,3 @@
-###DEC-096338-0-000-14-07-1988@@@
-
 DECRETO N° 96.338, DE 14 DE JULHO DE 1988
 
 Renova a concessão outorgada à Radio Colorado Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Colorado, Estado do Paraná.

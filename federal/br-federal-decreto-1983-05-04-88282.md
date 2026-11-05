@@ -1,5 +1,3 @@
-###DEC-088282-0-000-04-05-1983@@@
-
 Decreto nº 88.282, de 04 de maio de 1983
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Jatobá", situado no Município de Nova Xavantina, no Estado de Mato Grosso, compreendido na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 88.281, de 04 de maio de 1983.

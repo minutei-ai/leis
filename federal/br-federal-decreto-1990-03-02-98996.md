@@ -1,7 +1,3 @@
-1
-
-###DEC-098996-0-000-02-03-1990@@@
-
 DECRETO Nº 98.996, DE 2 DE MARÇO DE 1990
 
 Dá nova redação ao art. 6º do Decreto nº 76.590, de 11 de novembro de 1975.

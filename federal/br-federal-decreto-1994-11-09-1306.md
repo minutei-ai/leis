@@ -1,5 +1,3 @@
-###DEC-001306-0-000-09-11-1994@@@
-
 DECRETO Nº 1.306, DE 9 DE NOVEMBRO DE 1994
 
 Regulamenta o Fundo de Defesa de Direitos Difusos, de que tratam os arts. 13 e 20 da Lei nº 7.347, de 24 de julho de 1985, seu conselho gestor e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-054970-0-000-11-11-1964@@@
-
 decreto nº 54.970, de 11 de novembro de 1964.
 
 Altera o Decreto nº 54.269, de 8 de setembro de 1964.

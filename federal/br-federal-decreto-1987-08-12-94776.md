@@ -1,5 +1,3 @@
-###DEC-094776-0-000-12-08-1987@@@
-
 DECRETO N° 94.776, DE 12 DE AGOSTO DE 1987
 
 Altera o Decreto n° 94.338, de 18 de maio de 1987.

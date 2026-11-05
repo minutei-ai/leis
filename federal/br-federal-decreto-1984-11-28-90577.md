@@ -1,5 +1,3 @@
-###DEC-090577-0-000-28-11-1984@@@
-
 DECRETO nº 90.577, de 28 dE novembro de 1984
 
 Renova a concessão outorgada à RADIO RIO MAR LTDA., para explorar serviço de radiodifusão sonora em onda curta, na cidade de Manaus, Estado do Amazonas.

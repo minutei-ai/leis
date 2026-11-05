@@ -1,5 +1,3 @@
-###DEC-072392-0-000-25-06-1973@@@
-
 DECRETO Nº 72.392, DE 25 DE JUNHO DE 1973.
 
 Concede reconhecimento à Faculdade de Educação de Sant'Ana do Livramento, mantida pela Associação Santanense Pró-Ensino Superior, com sede na cidade de Sant'Ana do Livramento, Estado do Rio Grande do Sul.

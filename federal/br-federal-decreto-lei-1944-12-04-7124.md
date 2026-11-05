@@ -1,5 +1,3 @@
-###DEL-007124-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.124 – DE 4 DE DEZEMBRO DE 1944
 
 Dispõe sôbre o pessoal da Comissão Executiva da Pesca

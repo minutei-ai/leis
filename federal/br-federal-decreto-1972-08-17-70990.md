@@ -1,5 +1,3 @@
-###DEC-070990-0-000-17-08-1972@@@
-
 DECRETO Nº 70.990, DE 17 DE AGOSTO DE 1972.
 
 Concede à José Biondi Sobrinho, firma individual, o direito de lavrar bauxita no município de Lavrinhas Estado de São Paulo.

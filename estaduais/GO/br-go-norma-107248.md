@@ -10,7 +10,8 @@ I – o Colégio Estadual de Águas Lindas de Goiás, criado pela [Lei nº 14.56
 
 II – a Escola Estadual José Monteiro Lima, criada pela [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978, situada no Município de Padre Bernardo/GO, que passa a denominar– se Colégio Estadual da Polícia Militar de Goiás Professor José Monteiro Lima;
 
-III – o CAIC José Elias de Azevedo,criado pela [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003, situado no Município de Santo Antônio do Descoberto/GO, que passa a denominar–se Colégio Estadual da Polícia Militar de Goiás José Elias de Azevedo;<br>
+III – o CAIC José Elias de Azevedo,criado pela [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003, situado no Município de Santo Antônio do Descoberto/GO, que passa a denominar–se Colégio Estadual da Polícia Militar de Goiás José Elias de Azevedo;
+
 \- [Vide lei nº 24.436, de 8-7-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116143/lei-24436), que denomina CEPMG Capitão Edson Maurílio Lima da Silva.
 
 IV – a Escola Estadual Setor Palmito,criada pela [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978, em funcionamento desde o ano de 1974, situada no Município de Goiânia/GO, que passa a denominar–se Colégio Estadual da Polícia Militar de Goiás do Setor Palmito;

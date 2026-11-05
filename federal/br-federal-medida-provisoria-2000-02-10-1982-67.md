@@ -1,5 +1,3 @@
-###MPV-001982-0-067-10-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.982-67, DE 10 DE Fevereiro DE 2000.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008407-0-000-20-12-1945@@@
-
 DECRETO-LEI N. 8.407 – DE 20 DE DEZEMBRO DE 1945
 
 Altera e inclui, no Quadro Permanente do Ministério da Justiça e Negócios Interiores, a carreira de Radiotelegrafista do Quadro Suplementar do mesmo Ministério, e da outras providências.

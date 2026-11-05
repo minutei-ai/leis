@@ -1,5 +1,3 @@
-###DEC-054305-0-000-25-09-1964@@@
-
 Decreto nº 54.305, de 25 de setembro de 1964.
 
 Concede à Navegação Minuano S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

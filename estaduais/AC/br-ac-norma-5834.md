@@ -1,6 +1,10 @@
 > **LEI Nº 4.272, DE 12 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui o Fundo de Amparo às Atividades Pedagógicas do Tribunal de Contas do Estado do Acre - FAAP/TCE.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui o Fundo de Amparo às Atividades Pedagógicas do Tribunal de Contas do Estado do Acre - FAAP/TCE.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -65,7 +69,5 @@ Declara a expressa e integral aderência às finalidades do Fundo de Amparo às 
 **Art. 1º** Fica declarada, no âmbito do município (de)     , a expressa e integral aderência às finalidades do Fundo de Amparo às Atividades Pedagógicas do Tribunal de Contas do Estado do Acre - FAAP/TCE e aos termos da Lei Estadual nº     , de     de     (citar esta Lei).
 
 **Art. 2º** Esta Lei entra em vigor na data de sua publicação.
-
-<br>
 
 (...)

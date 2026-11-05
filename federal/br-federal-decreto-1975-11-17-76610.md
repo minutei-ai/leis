@@ -1,5 +1,3 @@
-###DEC-076610-0-000-17-11-1975@@@
-
 DECRETO Nº 76.610, DE 17 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Filosofia Ciências e Letras do Sagrado Coração de jesus, mantida pelo Instituto das Apóstolas do Sagrado Coração de Jesus, com sede na Cidade de Bauru, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-050160-0-000-27-01-1961@@@
-
 DECRETO Nº 50.160, DE 27 DE JANEIRO DE 1961.
 
 Altera o Regimento e o Quadro do Pessoal do Instituto do Açúcar e do Álcool.

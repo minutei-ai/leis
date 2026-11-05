@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212251)<br>
-
 # DECRETO N° 70.389, DE 24 DE FEVEREIRO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de Iaras, o imóvel que especifica._

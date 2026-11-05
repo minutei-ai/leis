@@ -1,5 +1,3 @@
-###DEC-002962-0-000-23-02-1999@@@
-
 DECRETO Nº 2.962, DE 23 DE FEVEREIRO DE 1999
 
 Promulga a Constituição e a Convenção da União Internacional de Telecomunicações, concluídas em Genebra, em 22 de dezembro de 1992, e seu instrumento de Emenda aprovado em Quioto, em 14 de outubro de 1994.
@@ -1472,214 +1470,799 @@ Em testemunho do qual, os Plenipotenciários respectivos assinam o original da p
 
 Genebra, em 22 de dezembro de 1992.
 
-<table>
-<tr><td>Pelo Estado lslâmico do Afeganistão:</td><td>Olebile M. Gaborone</td></tr>
-<tr><td>Mohammad Akram</td><td>Pela República Federativa do Brasil:</td></tr>
-<tr><td>Mir Azmuddin</td><td>Almir Franco de Sá Barbuda</td></tr>
-<tr><td>Abdul Baqi Azizi</td><td>Roberto Blois</td></tr>
-<tr><td>Khowaja Aqa Sharar</td><td>Sávio Pinheiro</td></tr>
-<tr><td>Mir Azizullah Burhani</td><td>Por Brunei Darussalam:</td></tr>
-<tr><td>Maulawi Shireen Mohammad</td><td>Saifulbahri Bin Dato Paduka Hajijaya</td></tr>
-<tr><td>Pela República da Albânia:</td><td>Derek Tet Leong Wong</td></tr>
-<tr><td>Bekteshi Hasan</td><td>Hj Ali Bin Abd Hamid</td></tr>
-<tr><td>Qesteri Emil</td><td>Pela República da Bulgária:</td></tr>
-<tr><td>Pela República Argelina Democrática e Popular:</td><td>Mirski k.</td></tr>
-<tr><td>Ouhadj Mahiddine</td><td>Por Burkina Faso:</td></tr>
-<tr><td>Faraoum Boualem</td><td>Sanou Brahima</td></tr>
-<tr><td>Pela República Federal da Alemanha:</td><td>Bonkoungou Zouli</td></tr>
-<tr><td>Ulrich Mohr</td><td>Pela República de Borundi:</td></tr>
-<tr><td>Elberhad Geoge</td><td>Ndayizeye Apollinaire</td></tr>
-<tr><td>Pelo Reino da Árabia Saudita:</td><td>Pela República de Cameroun:</td></tr>
-<tr><td>Sami S. Al-Basheer</td><td>Dakole Daissala</td></tr>
-<tr><td>Pela República da Argentina:</td><td>Bisseck Herve Guillaume</td></tr>
-<tr><td>Alberto Jesus Gabrielli</td><td>Maga Richard</td></tr>
-<tr><td>Maximiliano Martin Von Kesselstatt</td><td>Tallah William</td></tr>
-<tr><td>Armando Francisco Garcia</td><td>Nde Ningo</td></tr>
-<tr><td>Antonio Ermete Cristiani</td><td>Kamdem Kamga Emmanuel</td></tr>
-<tr><td>Mauricio Carlo Bossa</td><td>Djouaka Henri</td></tr>
-<tr><td>Pela Austrália:</td><td>Wanmi François</td></tr>
-<tr><td>R. N. Smith</td><td>Pelo Canadá:</td></tr>
-<tr><td>C. L. Oliver</td><td>R. W. Jones</td></tr>
-<tr><td>Pela Áustria:</td><td>Pela República de Cabo Verde:</td></tr>
-<tr><td>Josef Bayer</td><td>Antonio Pedro de Sousa Lobo</td></tr>
-<tr><td>Gerd Lettner</td><td>Pela República Centro-Africana:</td></tr>
-<tr><td>Pela Comunidade das Bahamas:</td><td>Vicente Sakanga</td></tr>
-<tr><td>Leander A. Bethel</td><td>Jean-Marie Sakila</td></tr>
-<tr><td>Pelo Estado de Bahrein:</td><td>Eugene Nzengou</td></tr>
-<tr><td>Rasheed J. Ashoor</td><td>Pelo Chile:</td></tr>
-<tr><td>Por Barbados:</td><td>Roberto Pliscoff Vasquez</td></tr>
-<tr><td>Philip M. Greaves</td><td>Pela República Popular da China:</td></tr>
-<tr><td>Edward A. Layne</td><td>Zhu Gaofeng</td></tr>
-<tr><td>Pela República de Belarus:</td><td>Zhao Xintong</td></tr>
-<tr><td>Ivan M. Gritsuk</td><td>Pela República do Chipre:</td></tr>
-<tr><td>Anatoly I. Boudai</td><td>Kritiotis Adam</td></tr>
-<tr><td>Pela Bélgica:</td><td>Christodoulides Kyriakos Z.</td></tr>
-<tr><td>Alex Reyn</td><td>Pelo Estado da Cidade do Vaticano:</td></tr>
-<tr><td>Michel Gony</td><td>Eugênio Matis S. J.</td></tr>
-<tr><td>Jean-Pau Lambotte</td><td>Pela República da Colômbia:</td></tr>
-<tr><td>Marc Van Craen</td><td>Eduardo Mestre Sarmiento</td></tr>
-<tr><td>Pela República do Benin:</td><td>Pela República Federal Islâmica das Comoras:</td></tr>
-<tr><td>Gounde Desire Adadja</td><td>Dahalani Said Abasse</td></tr>
-<tr><td>Honore Vignon</td><td>Chaibati Matoiri</td></tr>
-<tr><td>Nicolas Urbain Zodehougan</td><td>Pela República da Coréia:</td></tr>
-<tr><td>Pelo Reino de Butão:</td><td>Park Young Ihl</td></tr>
-<tr><td>Palior J. Dorji</td><td>Lee Kyo-Young</td></tr>
-<tr><td>Pela República do Botsuana:</td><td>Lee Dong-Hyung</td></tr>
-<tr><td>Yoo Hae-Soo</td><td>Legnongo Jules</td></tr>
-<tr><td>Lee Won-Ja</td><td>Pela República da Gâmbia:</td></tr>
-<tr><td>Pela República de Côte d'Ivoire:</td><td>Eliman M. Cham</td></tr>
-<tr><td>Aka Bonny Leon</td><td>Momodou M. Chan</td></tr>
-<tr><td>Tiemele Kouande Charles</td><td>Por Gana:</td></tr>
-<tr><td>Konan Kouadio Etienne</td><td>Kojo Amoo-Gouttfried</td></tr>
-<tr><td>Koffi Kouman Alexis</td><td>Pela Grécia:</td></tr>
-<tr><td>Jean-Baptiste Ahou Joseph</td><td>Georges Antoniou</td></tr>
-<tr><td>Yao Kouakou Jean-Baptiste</td><td>Anastase Nodaros</td></tr>
-<tr><td>N'Takpe N'Cho Atte</td><td>Z. Protopsalti</td></tr>
-<tr><td>Pela República da Croácia:</td><td>V. G. Cassapoglou</td></tr>
-<tr><td>DOMINIK FILIPOVIC</td><td>Por Granada:</td></tr>
-<tr><td>Por Cuba</td><td>Deoraj Ramnarine</td></tr>
-<tr><td>Carlos Martinez Albuerne</td><td>Pela República da Guiné:</td></tr>
-<tr><td>Pelo Reino da Dinamarca</td><td>Diallo Alpha Ibrahima</td></tr>
-<tr><td>Erik Mollmann</td><td>Sow Mamadou Dioulde</td></tr>
-<tr><td>Jorn Jensby</td><td>Conde Lancey</td></tr>
-<tr><td>Mette J. Konner</td><td>Diallo Mamadou Malal</td></tr>
-<tr><td>Hans Eriksen</td><td>Pela República de Honduras:</td></tr>
-<tr><td>Ole Toft</td><td>Mário Alberto Fortin Midence</td></tr>
-<tr><td>Pela República de Djibuti:</td><td>Pela República da Hungria:</td></tr>
-<tr><td>Farah Moumin Yabet</td><td>Sandor Gyurkovics</td></tr>
-<tr><td>Pela República Árabe do Egito:</td><td>Pela República da Índia:</td></tr>
-<tr><td>Mohamed Selim</td><td>H. P. Wagle</td></tr>
-<tr><td>Pela República de El Salvador:</td><td>A. M. Joshi</td></tr>
-<tr><td>Bradley P. Holmes</td><td>R. N. Agarwal</td></tr>
-<tr><td>Pelos Emirados Árabes Unidos:</td><td>S. K. Tripathi</td></tr>
-<tr><td>Abdulla K. Almehrezi</td><td>Pela República da Indonésia:</td></tr>
-<tr><td>Mohammed Rafi Almulla</td><td>Djakaria Purawidjaja</td></tr>
-<tr><td>Pela Espanha:</td><td>Soemadi Brotodiningrat</td></tr>
-<tr><td>Juan N. Sanchez Valle</td><td>U. S. M. Tampubolon</td></tr>
-<tr><td>Vicente Rúbio Carreton</td><td>Dewie Pelitawati</td></tr>
-<tr><td>Carlos L. Crespo Martinez</td><td>P. Santono</td></tr>
-<tr><td>Jose Ramon Camblor-Fernandez</td><td>Ingrid R. Pandjaitan</td></tr>
-<tr><td>Pela República da Estônia:</td><td>Tyasno Nurhadi</td></tr>
-<tr><td>Juri Joema</td><td>N. Hassan Wirajuda</td></tr>
-<tr><td>Pelo Estados Unidos da América:</td><td>Ferry Adamhar</td></tr>
-<tr><td>Bradley P. Holmes</td><td>Pela República Islâmica do Irã:</td></tr>
-<tr><td>Pela Etiópia:</td><td>Hossein Mahyar</td></tr>
-<tr><td>Bekele Yadetta</td><td>Pela Irlanda:</td></tr>
-<tr><td>Melaku Belay</td><td>M. Grant</td></tr>
-<tr><td>Galaneh Taye</td><td>T. A. Dempsey</td></tr>
-<tr><td>Pela República de Fiji:</td><td>N. O'donnchu</td></tr>
-<tr><td>Kaliopate Tavola</td><td>Pela Islândia:</td></tr>
-<tr><td>Pela Finlândia:</td><td>Th. Jonsson</td></tr>
-<tr><td>Reijo Svensson</td><td>Pelo Estado de Israel:</td></tr>
-<tr><td>Pela França:</td><td>Moss Fairmont</td></tr>
-<tr><td>Miyet Bernard</td><td>Jonathan Uri Sheink</td></tr>
-<tr><td>Main De Boissiere Jean-Baptiste</td><td>Pela Itália:</td></tr>
-<tr><td>Pela República Gabonesa:</td><td>Giuseppe Jacoangeli</td></tr>
-<tr><td>Banguebe Jean-Pierre</td><td>Pela Jamaica:</td></tr>
-<tr><td>Mbeng-Erogha Fabien</td><td>Leander A. Bethel</td></tr>
-<tr><td>Pelo Japão:</td><td>Pela República da Moldávia:</td></tr>
-<tr><td>Hidetoshi Ukawa</td><td>Ionescu Cantemir</td></tr>
-<tr><td>Pelo Reino Hachemita da Jordânia:</td><td>Pelo Mônaco:</td></tr>
-<tr><td>Ahmad S. Nawawi</td><td>Etienne Franzi</td></tr>
-<tr><td>Pela República do Quênia:</td><td>Pela Mongólia:</td></tr>
-<tr><td>D. D. C. Don Nanjira</td><td>Shirchinjavyn Yumjav</td></tr>
-<tr><td>Samson K. Chemai</td><td>Pela União de Myanmar:</td></tr>
-<tr><td>Nyamodi Ochieng-Nyamogo</td><td>Utin Kyaw Hlaing</td></tr>
-<tr><td>Reuben M. J. Shingirah</td><td>Pelo Nepal:</td></tr>
-<tr><td>Muriuki Mureithi</td><td>B. K. Gachhedar</td></tr>
-<tr><td>Daniel K. Githua</td><td>B. K. Chaudhay</td></tr>
-<tr><td>Pelo Estado do Kuaite:</td><td>V. B. Bajracharya</td></tr>
-<tr><td>Adel Al-Ibrahim</td><td>B. P. Lacoul</td></tr>
-<tr><td>Pelo Reino do Lesoto:</td><td>Pela República do Níger:</td></tr>
-<tr><td>Mpatliseng Ramaema</td><td>A. Tinni</td></tr>
-<tr><td>Taelo Khabele</td><td>Pela República Federal da Nigéria:</td></tr>
-<tr><td>Mamosebi Pholo</td><td>Abdultalib S. Umar</td></tr>
-<tr><td>Pela República da Letônia:</td><td>Salomon Danasabe Matankari</td></tr>
-<tr><td>Jerkens Ansis</td><td>Tonye Osakwe</td></tr>
-<tr><td>Pelo Líbano:</td><td>Anthony Olumuyiwa Onabanjo</td></tr>
-<tr><td>Ghazal Maurice-Habib</td><td>Segun Solomon</td></tr>
-<tr><td>Pela República da Libéria:</td><td>Pela Noruega:</td></tr>
-<tr><td>Rooselvet Gasolin Jayjay</td><td>Kjell Johnsen</td></tr>
-<tr><td>G. Thomas M. Dude</td><td>Thormod Boe</td></tr>
-<tr><td>G. Alfred Tow, Sr</td><td>Elisabeth Christensen</td></tr>
-<tr><td>Henry D. Williamsom</td><td>Eugen Landeide</td></tr>
-<tr><td>Pelo Principado de Liechtenstein:</td><td>Anne Lise Lillebo</td></tr>
-<tr><td>Riehl Frederic</td><td>Einar Utvik</td></tr>
-<tr><td>Pela República da Lituânia:</td><td>Pela Nova Zelândia:</td></tr>
-<tr><td>Zintelis Gintautas</td><td>Ian R. Hutchings</td></tr>
-<tr><td>Por Luxemburgo:</td><td>Roger P. Perkins</td></tr>
-<tr><td>Paul Schuh</td><td>Alan C. J. Hamilton</td></tr>
-<tr><td>Pela República Democrática de Madagascar:</td><td>Pelo Sultanato de Omã:</td></tr>
-<tr><td>Rapiera Claude</td><td>Abdulla Bin Said Bin Abdulla Al-Balushi</td></tr>
-<tr><td>Pela Malásia:</td><td>Pela República Islândia do Paquistão:</td></tr>
-<tr><td>Mohamed Ali Yusoff</td><td>Nazir Ahmad</td></tr>
-<tr><td>Pelo Maláui:</td><td>Pela República do Paraná:</td></tr>
-<tr><td>S. J. F. S. Mijiga</td><td>Alfredo de Souza Franceschi</td></tr>
-<tr><td>M. M. Makawa</td><td>Pela Papua Nova Guiné:</td></tr>
-<tr><td>Pela República do Mali:</td><td>Martin P. Thompson</td></tr>
-<tr><td>Mamadou Bou</td><td>Lindsay Lailai</td></tr>
-<tr><td>Pela República de Malta:</td><td>Jonh K. Kamblijambi</td></tr>
-<tr><td>Bartolo Joseph F.</td><td>Annesley De Soyza</td></tr>
-<tr><td>Spiteri George J.</td><td>Pelo Reino dos Países Baixos:</td></tr>
-<tr><td>Pelo Reino do Marrocos:</td><td>Irene Albers</td></tr>
-<tr><td>El Ghali Benhima</td><td>Pela República das Filipinas:</td></tr>
-<tr><td>Pela República Islâmica da Mauritânia:</td><td>Josefina T. Lichauco</td></tr>
-<tr><td>Cheikhna Ahmede Aidara</td><td>Kathleen G. Heceta</td></tr>
-<tr><td>Pelo México:</td><td>Pela República da Polônia:</td></tr>
-<tr><td>José Antônio Padilla Longoria</td><td>Tomasz Depczynski</td></tr>
-<tr><td>Rosa Maria Ramirez De Arellano Haro</td><td>Por Portugal:</td></tr>
-<tr><td>Luis Manuel Brown Hernandez</td><td>Antônio Manuel Robalo de Almeida</td></tr>
-<tr><td>Luiz M. P. Garcia Pereira</td><td>Pela República Unida da Tanzânia:</td></tr>
-<tr><td>Fernando J. P. Galhardo</td><td>Alphonce S. Ndakidemi</td></tr>
-<tr><td>Luis Barros</td><td>Adolar B. Mapunda</td></tr>
-<tr><td>Pelo Estado do Catar:</td><td>Pela República do Chade:</td></tr>
-<tr><td>Hashem A. Al-Hashemi</td><td>Myaro Beramgoto</td></tr>
-<tr><td>Abdulwahed Fakhroo</td><td>Pela República Federal Checa e Eslovaca:</td></tr>
-<tr><td>Pela República Popular Democrática da Coréia:</td><td>Attila Matas</td></tr>
-<tr><td>Kim Rye Hyon</td><td>Pela Tailândia:</td></tr>
-<tr><td>Pela Romênia:</td><td>Yupho Kitti</td></tr>
-<tr><td>Ionescu Cantemir</td><td>Pela Tunísia:</td></tr>
-<tr><td>Pelo Reino Unido da Grã Bretanha e Irlanda do Norte:</td><td>Chkir Raouf Milli Monhamed</td></tr>
-<tr><td>Neil Mcmillan</td><td>Belhassen Faouzi</td></tr>
-<tr><td>Michael Goddard</td><td>Pela Turquia:</td></tr>
-<tr><td>David Anthony Hendon</td><td>Bettemir Veli</td></tr>
-<tr><td>Pela Federação da Rússia:</td><td>Guler Huseyin</td></tr>
-<tr><td>Vladimir Boulgak</td><td>Pela Ucrânia:</td></tr>
-<tr><td>Pela República de São Marinho:</td><td>O. Progivalskii</td></tr>
-<tr><td>Ivo Grandoni</td><td>Pela República Oriental do Uruguai:</td></tr>
-<tr><td>Michele Giri</td><td>Juan De La Cruz Silveira Zavala</td></tr>
-<tr><td>Pela República do Senegal:</td><td>Luiz M. Peluffo Canepa</td></tr>
-<tr><td>Cheikh Tidiane Mbaye</td><td>Pela República da Venezuela:</td></tr>
-<tr><td>Cheikh Tidiane Ndiongue</td><td>Adela Vivas Arizaleta</td></tr>
-<tr><td>Souleymane Mbaye</td><td>Pela República Socialista do Vietnã:</td></tr>
-<tr><td>Pela República de Cingapura:</td><td>Mai Liem Truc</td></tr>
-<tr><td>Lim Choon Sai</td><td>Pela República do Yemen:</td></tr>
-<tr><td>Valerie D'costa</td><td>Abdulmalak Saad Yeser Ahmed</td></tr>
-<tr><td>Pela República da Eslovênia:</td><td>Pela República da Zâmbia:</td></tr>
-<tr><td>Joze Vugrinec</td><td>Angel Alfred Mwenda</td></tr>
-<tr><td>Pela República do Sudão:</td><td>Charles Sakavumbi Ndandula</td></tr>
-<tr><td>Mustafa Ibrahim Mohamed</td><td>Robert Chilando Chishimba</td></tr>
-<tr><td>Abdelwahab Gamal</td><td>Julius Mtombo Katapa</td></tr>
-<tr><td>Abdalla Mohamed Elawad</td><td>Pela República do Zimbábue:</td></tr>
-<tr><td>Pela República Socialista Democrática do Sri</td><td>Mazwi Fani Dandato</td></tr>
-<tr><td>Lanka:</td><td>Dzimbanhete Fredson Matavire</td></tr>
-<tr><td>Arunachalam Maniccavasagar</td><td>Frank Kaneunyenye</td></tr>
-<tr><td>Pela Suécia:</td><td></td></tr>
-<tr><td>Krister Björnsjö</td><td></td></tr>
-<tr><td>Johan Martin-Löf</td><td></td></tr>
-<tr><td>Pela Confederação Suíça:</td><td></td></tr>
-<tr><td>Riehl Frederic</td><td></td></tr>
-<tr><td>Oberson Rafhael</td><td></td></tr>
-<tr><td>Dupuis Gilbert</td><td></td></tr>
-<tr><td>Pela República do Suriname:</td><td></td></tr>
-<tr><td>Roy G. Adama</td><td></td></tr>
-<tr><td>Iris Marie Struiken-Wydenbosch</td><td></td></tr>
-<tr><td>Pelo Reino da Suazilândia:</td><td></td></tr>
-<tr><td>Albert Heshane Nhlanhla Shabangu</td><td></td></tr>
-<tr><td>Richard Mgijimane Shabalada</td><td></td></tr>
-<tr><td>Iebogo Fruhwirth</td><td></td></tr>
-<tr><td>Basilo Fanukwente Manana</td><td></td></tr>
-</table>
+Pelo Estado lslâmico do Afeganistão:
+
+Olebile M. Gaborone
+
+Mohammad Akram
+
+Pela República Federativa do Brasil:
+
+Mir Azmuddin
+
+Almir Franco de Sá Barbuda
+
+Abdul Baqi Azizi
+
+Roberto Blois
+
+Khowaja Aqa Sharar
+
+Sávio Pinheiro
+
+Mir Azizullah Burhani
+
+Por Brunei Darussalam:
+
+Maulawi Shireen Mohammad
+
+Saifulbahri Bin Dato Paduka Hajijaya
+
+Pela República da Albânia:
+
+Derek Tet Leong Wong
+
+Bekteshi Hasan
+
+Hj Ali Bin Abd Hamid
+
+Qesteri Emil
+
+Pela República da Bulgária:
+
+Pela República Argelina Democrática e Popular:
+
+Mirski k.
+
+Ouhadj Mahiddine
+
+Por Burkina Faso:
+
+Faraoum Boualem
+
+Sanou Brahima
+
+Pela República Federal da Alemanha:
+
+Bonkoungou Zouli
+
+Ulrich Mohr
+
+Pela República de Borundi:
+
+Elberhad Geoge
+
+Ndayizeye Apollinaire
+
+Pelo Reino da Árabia Saudita:
+
+Pela República de Cameroun:
+
+Sami S. Al-Basheer
+
+Dakole Daissala
+
+Pela República da Argentina:
+
+Bisseck Herve Guillaume
+
+Alberto Jesus Gabrielli
+
+Maga Richard
+
+Maximiliano Martin Von Kesselstatt
+
+Tallah William
+
+Armando Francisco Garcia
+
+Nde Ningo
+
+Antonio Ermete Cristiani
+
+Kamdem Kamga Emmanuel
+
+Mauricio Carlo Bossa
+
+Djouaka Henri
+
+Pela Austrália:
+
+Wanmi François
+
+R. N. Smith
+
+Pelo Canadá:
+
+C. L. Oliver
+
+R. W. Jones
+
+Pela Áustria:
+
+Pela República de Cabo Verde:
+
+Josef Bayer
+
+Antonio Pedro de Sousa Lobo
+
+Gerd Lettner
+
+Pela República Centro-Africana:
+
+Pela Comunidade das Bahamas:
+
+Vicente Sakanga
+
+Leander A. Bethel
+
+Jean-Marie Sakila
+
+Pelo Estado de Bahrein:
+
+Eugene Nzengou
+
+Rasheed J. Ashoor
+
+Pelo Chile:
+
+Por Barbados:
+
+Roberto Pliscoff Vasquez
+
+Philip M. Greaves
+
+Pela República Popular da China:
+
+Edward A. Layne
+
+Zhu Gaofeng
+
+Pela República de Belarus:
+
+Zhao Xintong
+
+Ivan M. Gritsuk
+
+Pela República do Chipre:
+
+Anatoly I. Boudai
+
+Kritiotis Adam
+
+Pela Bélgica:
+
+Christodoulides Kyriakos Z.
+
+Alex Reyn
+
+Pelo Estado da Cidade do Vaticano:
+
+Michel Gony
+
+Eugênio Matis S. J.
+
+Jean-Pau Lambotte
+
+Pela República da Colômbia:
+
+Marc Van Craen
+
+Eduardo Mestre Sarmiento
+
+Pela República do Benin:
+
+Pela República Federal Islâmica das Comoras:
+
+Gounde Desire Adadja
+
+Dahalani Said Abasse
+
+Honore Vignon
+
+Chaibati Matoiri
+
+Nicolas Urbain Zodehougan
+
+Pela República da Coréia:
+
+Pelo Reino de Butão:
+
+Park Young Ihl
+
+Palior J. Dorji
+
+Lee Kyo-Young
+
+Pela República do Botsuana:
+
+Lee Dong-Hyung
+
+Yoo Hae-Soo
+
+Legnongo Jules
+
+Lee Won-Ja
+
+Pela República da Gâmbia:
+
+Pela República de Côte d'Ivoire:
+
+Eliman M. Cham
+
+Aka Bonny Leon
+
+Momodou M. Chan
+
+Tiemele Kouande Charles
+
+Por Gana:
+
+Konan Kouadio Etienne
+
+Kojo Amoo-Gouttfried
+
+Koffi Kouman Alexis
+
+Pela Grécia:
+
+Jean-Baptiste Ahou Joseph
+
+Georges Antoniou
+
+Yao Kouakou Jean-Baptiste
+
+Anastase Nodaros
+
+N'Takpe N'Cho Atte
+
+Z. Protopsalti
+
+Pela República da Croácia:
+
+V. G. Cassapoglou
+
+DOMINIK FILIPOVIC
+
+Por Granada:
+
+Por Cuba
+
+Deoraj Ramnarine
+
+Carlos Martinez Albuerne
+
+Pela República da Guiné:
+
+Pelo Reino da Dinamarca
+
+Diallo Alpha Ibrahima
+
+Erik Mollmann
+
+Sow Mamadou Dioulde
+
+Jorn Jensby
+
+Conde Lancey
+
+Mette J. Konner
+
+Diallo Mamadou Malal
+
+Hans Eriksen
+
+Pela República de Honduras:
+
+Ole Toft
+
+Mário Alberto Fortin Midence
+
+Pela República de Djibuti:
+
+Pela República da Hungria:
+
+Farah Moumin Yabet
+
+Sandor Gyurkovics
+
+Pela República Árabe do Egito:
+
+Pela República da Índia:
+
+Mohamed Selim
+
+H. P. Wagle
+
+Pela República de El Salvador:
+
+A. M. Joshi
+
+Bradley P. Holmes
+
+R. N. Agarwal
+
+Pelos Emirados Árabes Unidos:
+
+S. K. Tripathi
+
+Abdulla K. Almehrezi
+
+Pela República da Indonésia:
+
+Mohammed Rafi Almulla
+
+Djakaria Purawidjaja
+
+Pela Espanha:
+
+Soemadi Brotodiningrat
+
+Juan N. Sanchez Valle
+
+U. S. M. Tampubolon
+
+Vicente Rúbio Carreton
+
+Dewie Pelitawati
+
+Carlos L. Crespo Martinez
+
+P. Santono
+
+Jose Ramon Camblor-Fernandez
+
+Ingrid R. Pandjaitan
+
+Pela República da Estônia:
+
+Tyasno Nurhadi
+
+Juri Joema
+
+N. Hassan Wirajuda
+
+Pelo Estados Unidos da América:
+
+Ferry Adamhar
+
+Bradley P. Holmes
+
+Pela República Islâmica do Irã:
+
+Pela Etiópia:
+
+Hossein Mahyar
+
+Bekele Yadetta
+
+Pela Irlanda:
+
+Melaku Belay
+
+M. Grant
+
+Galaneh Taye
+
+T. A. Dempsey
+
+Pela República de Fiji:
+
+N. O'donnchu
+
+Kaliopate Tavola
+
+Pela Islândia:
+
+Pela Finlândia:
+
+Th. Jonsson
+
+Reijo Svensson
+
+Pelo Estado de Israel:
+
+Pela França:
+
+Moss Fairmont
+
+Miyet Bernard
+
+Jonathan Uri Sheink
+
+Main De Boissiere Jean-Baptiste
+
+Pela Itália:
+
+Pela República Gabonesa:
+
+Giuseppe Jacoangeli
+
+Banguebe Jean-Pierre
+
+Pela Jamaica:
+
+Mbeng-Erogha Fabien
+
+Leander A. Bethel
+
+Pelo Japão:
+
+Pela República da Moldávia:
+
+Hidetoshi Ukawa
+
+Ionescu Cantemir
+
+Pelo Reino Hachemita da Jordânia:
+
+Pelo Mônaco:
+
+Ahmad S. Nawawi
+
+Etienne Franzi
+
+Pela República do Quênia:
+
+Pela Mongólia:
+
+D. D. C. Don Nanjira
+
+Shirchinjavyn Yumjav
+
+Samson K. Chemai
+
+Pela União de Myanmar:
+
+Nyamodi Ochieng-Nyamogo
+
+Utin Kyaw Hlaing
+
+Reuben M. J. Shingirah
+
+Pelo Nepal:
+
+Muriuki Mureithi
+
+B. K. Gachhedar
+
+Daniel K. Githua
+
+B. K. Chaudhay
+
+Pelo Estado do Kuaite:
+
+V. B. Bajracharya
+
+Adel Al-Ibrahim
+
+B. P. Lacoul
+
+Pelo Reino do Lesoto:
+
+Pela República do Níger:
+
+Mpatliseng Ramaema
+
+A. Tinni
+
+Taelo Khabele
+
+Pela República Federal da Nigéria:
+
+Mamosebi Pholo
+
+Abdultalib S. Umar
+
+Pela República da Letônia:
+
+Salomon Danasabe Matankari
+
+Jerkens Ansis
+
+Tonye Osakwe
+
+Pelo Líbano:
+
+Anthony Olumuyiwa Onabanjo
+
+Ghazal Maurice-Habib
+
+Segun Solomon
+
+Pela República da Libéria:
+
+Pela Noruega:
+
+Rooselvet Gasolin Jayjay
+
+Kjell Johnsen
+
+G. Thomas M. Dude
+
+Thormod Boe
+
+G. Alfred Tow, Sr
+
+Elisabeth Christensen
+
+Henry D. Williamsom
+
+Eugen Landeide
+
+Pelo Principado de Liechtenstein:
+
+Anne Lise Lillebo
+
+Riehl Frederic
+
+Einar Utvik
+
+Pela República da Lituânia:
+
+Pela Nova Zelândia:
+
+Zintelis Gintautas
+
+Ian R. Hutchings
+
+Por Luxemburgo:
+
+Roger P. Perkins
+
+Paul Schuh
+
+Alan C. J. Hamilton
+
+Pela República Democrática de Madagascar:
+
+Pelo Sultanato de Omã:
+
+Rapiera Claude
+
+Abdulla Bin Said Bin Abdulla Al-Balushi
+
+Pela Malásia:
+
+Pela República Islândia do Paquistão:
+
+Mohamed Ali Yusoff
+
+Nazir Ahmad
+
+Pelo Maláui:
+
+Pela República do Paraná:
+
+S. J. F. S. Mijiga
+
+Alfredo de Souza Franceschi
+
+M. M. Makawa
+
+Pela Papua Nova Guiné:
+
+Pela República do Mali:
+
+Martin P. Thompson
+
+Mamadou Bou
+
+Lindsay Lailai
+
+Pela República de Malta:
+
+Jonh K. Kamblijambi
+
+Bartolo Joseph F.
+
+Annesley De Soyza
+
+Spiteri George J.
+
+Pelo Reino dos Países Baixos:
+
+Pelo Reino do Marrocos:
+
+Irene Albers
+
+El Ghali Benhima
+
+Pela República das Filipinas:
+
+Pela República Islâmica da Mauritânia:
+
+Josefina T. Lichauco
+
+Cheikhna Ahmede Aidara
+
+Kathleen G. Heceta
+
+Pelo México:
+
+Pela República da Polônia:
+
+José Antônio Padilla Longoria
+
+Tomasz Depczynski
+
+Rosa Maria Ramirez De Arellano Haro
+
+Por Portugal:
+
+Luis Manuel Brown Hernandez
+
+Antônio Manuel Robalo de Almeida
+
+Luiz M. P. Garcia Pereira
+
+Pela República Unida da Tanzânia:
+
+Fernando J. P. Galhardo
+
+Alphonce S. Ndakidemi
+
+Luis Barros
+
+Adolar B. Mapunda
+
+Pelo Estado do Catar:
+
+Pela República do Chade:
+
+Hashem A. Al-Hashemi
+
+Myaro Beramgoto
+
+Abdulwahed Fakhroo
+
+Pela República Federal Checa e Eslovaca:
+
+Pela República Popular Democrática da Coréia:
+
+Attila Matas
+
+Kim Rye Hyon
+
+Pela Tailândia:
+
+Pela Romênia:
+
+Yupho Kitti
+
+Ionescu Cantemir
+
+Pela Tunísia:
+
+Pelo Reino Unido da Grã Bretanha e Irlanda do Norte:
+
+Chkir Raouf Milli Monhamed
+
+Neil Mcmillan
+
+Belhassen Faouzi
+
+Michael Goddard
+
+Pela Turquia:
+
+David Anthony Hendon
+
+Bettemir Veli
+
+Pela Federação da Rússia:
+
+Guler Huseyin
+
+Vladimir Boulgak
+
+Pela Ucrânia:
+
+Pela República de São Marinho:
+
+O. Progivalskii
+
+Ivo Grandoni
+
+Pela República Oriental do Uruguai:
+
+Michele Giri
+
+Juan De La Cruz Silveira Zavala
+
+Pela República do Senegal:
+
+Luiz M. Peluffo Canepa
+
+Cheikh Tidiane Mbaye
+
+Pela República da Venezuela:
+
+Cheikh Tidiane Ndiongue
+
+Adela Vivas Arizaleta
+
+Souleymane Mbaye
+
+Pela República Socialista do Vietnã:
+
+Pela República de Cingapura:
+
+Mai Liem Truc
+
+Lim Choon Sai
+
+Pela República do Yemen:
+
+Valerie D'costa
+
+Abdulmalak Saad Yeser Ahmed
+
+Pela República da Eslovênia:
+
+Pela República da Zâmbia:
+
+Joze Vugrinec
+
+Angel Alfred Mwenda
+
+Pela República do Sudão:
+
+Charles Sakavumbi Ndandula
+
+Mustafa Ibrahim Mohamed
+
+Robert Chilando Chishimba
+
+Abdelwahab Gamal
+
+Julius Mtombo Katapa
+
+Abdalla Mohamed Elawad
+
+Pela República do Zimbábue:
+
+Pela República Socialista Democrática do Sri
+
+Mazwi Fani Dandato
+
+Lanka:
+
+Dzimbanhete Fredson Matavire
+
+Arunachalam Maniccavasagar
+
+Frank Kaneunyenye
+
+Pela Suécia:
+
+Krister Björnsjö
+
+Johan Martin-Löf
+
+Pela Confederação Suíça:
+
+Riehl Frederic
+
+Oberson Rafhael
+
+Dupuis Gilbert
+
+Pela República do Suriname:
+
+Roy G. Adama
+
+Iris Marie Struiken-Wydenbosch
+
+Pelo Reino da Suazilândia:
+
+Albert Heshane Nhlanhla Shabangu
+
+Richard Mgijimane Shabalada
+
+Iebogo Fruhwirth
+
+Basilo Fanukwente Manana
 
 Anexo
 
@@ -3261,17 +3844,17 @@ No ato de proceder à assinatura deste documento, que é parte integrante dos At
 
 1
 
-<table>
-<tr><td>Da República da Eslovênia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Eslovênia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional (GENEBRA, 1992), sujeitas à ratificação oficial, a Delegação da República da Eslovênia reserva a seu governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses no caso de outros Membros não cumprirem suas obrigações financeiras com a União ou deixarem de cumprir, de outra forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (GENEBRA, 1992), de seus anexos ou Protocolos ou se as reservas formuladas por outros Membros comprometerem o funcionamento de seus serviços de telecomunicações.
 
 2
 
-<table>
-<tr><td>Da República Gabonesa:</td><td>Original: francês</td></tr>
-</table>
+Da República Gabonesa:
+
+Original: francês
 
 A Delegação da República Gabonesa reserva a seu governo o direito de:
 
@@ -3281,25 +3864,25 @@ A Delegação da República Gabonesa reserva a seu governo o direito de:
 
 3
 
-<table>
-<tr><td>Da República Popular Democrática da Coréia:</td><td>Original: inglês</td></tr>
-</table>
+Da República Popular Democrática da Coréia:
+
+Original: inglês
 
 A Delegação da República Popular Democrática da Coréia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), de seus anexos ou Protocolos adjuntos a esses instrumentos ou se as reservas formuladas por outros países comprometerem seus serviços de telecomunicações.
 
 4
 
-<table>
-<tr><td>Da República da Coréia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Coréia:
+
+Original: inglês
 
 A Delegação da República da Coréia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros não participem do pagamento dos gastos da União ou deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), de seus anexos, Protocolos ou Regulamentos adjuntos e se as reservas formuladas por outros países comprometerem seus serviços de telecomunicações.
 
 5
 
-<table>
-<tr><td>Da República da Zâmbia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Zâmbia:
+
+Original: inglês
 
 A Delegação da República da Zâmbia à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as disposições da Constituição ou da Convenção da União Internacional de Telecomunicações (Genebra,1992) ou se as reservas desses Membros comprometerem, direta ou indiretamente, o bom funcionamento de seus serviços de telecomunicações ou infringirem, direta ou indiretamente, sua soberania.
 
@@ -3307,9 +3890,9 @@ A Delegação da República da Zâmbia reserva, do mesmo modo, a seu Governo, o 
 
 6
 
-<table>
-<tr><td>Do Estado Islâmico do Afeganistão:</td><td>Original: inglês</td></tr>
-</table>
+Do Estado Islâmico do Afeganistão:
+
+Original: inglês
 
 A Delegação do Estado Islâmico do Afeganistão à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) reserva a seu Governo o direito de:
 
@@ -3323,17 +3906,17 @@ A Delegação do Estado Islâmico do Afeganistão à Conferência de Plenipotenc
 
 7
 
-<table>
-<tr><td>Do Maláui:</td><td>Original: inglês</td></tr>
-</table>
+Do Maláui:
+
+Original: inglês
 
 Ao assinar os Atos Finais, a Delegação do Maláui à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, no caso de outros países Membros deixarem de cumprir, de qualquer forma, as disposições da presente Constituição e da Convenção ou se as reservas formuladas por outros Membros da União comprometerem o funcionamento de seus serviços de telecomunicações.
 
 8
 
-<table>
-<tr><td>Da República do Senegal:</td><td>Original: francês</td></tr>
-</table>
+Da República do Senegal:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional, realizada em Genebra em dezembro de 1992, a Delegação da República do Senegal declara, em nome de seu Governo, que não aceita nenhum ato, decorrente das reservas formuladas por outros Governos, que tenha como conseqüência o aumento de sua parte contributiva nos gastos da União.
 
@@ -3341,17 +3924,17 @@ Além disso, a República do Senegal se reserva o direito de tomar quantas medid
 
 9
 
-<table>
-<tr><td>Do Reino da Suazilândia:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino da Suazilândia:
+
+Original: inglês
 
 A Delegação do Reino da Suazilândia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou Regulamentos adjuntos à mesma ou se as reservas formuladas por outros países comprometerem os serviços de telecomunicações da Suazilândia.
 
 10
 
-<table>
-<tr><td>De Burkina Faso:</td><td>Original: francês</td></tr>
-</table>
+De Burkina Faso:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional (Genebra, 1992), a Delegação de Burkina Faso reserva a seu Governo o direito de tomar todas as medidas que julgue necessárias para proteger os interesses de Burkina Faso:
 
@@ -3365,25 +3948,25 @@ A Delegação da Burkina Faso reserva, do mesmo modo, a seu Governo, o direito d
 
 11
 
-<table>
-<tr><td>Da República de Fiji:</td><td>Original: inglês</td></tr>
-</table>
+Da República de Fiji:
+
+Original: inglês
 
 A Delegação da República de Fiji reserva a seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as obrigações resultantes da Constituição, da Convenção da União Internacional de Telecomunicações (Genebra, 1992), de seus anexos e Protocolos ou se as reservas formuladas por outros países comprometerem os serviços de telecomunicações de Fiji ou acarretarem um aumento contributivo para pagamento dos gastos da União.
 
 12
 
-<table>
-<tr><td>Da República da Guiné:</td><td>Original: francês</td></tr>
-</table>
+Da República da Guiné:
+
+Original: francês
 
 A Delegação da República da Guiné à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) reserva a seu governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992) se as reservas formuladas por outros países comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 13
 
-<table>
-<tr><td>Do Reino do Lesoto:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino do Lesoto:
+
+Original: inglês
 
 A Delegação do Reino do Lesoto declara, em nome do Governo do Lesoto:
 
@@ -3393,17 +3976,17 @@ A Delegação do Reino do Lesoto declara, em nome do Governo do Lesoto:
 
 14
 
-<table>
-<tr><td>Da República do Suriname:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Suriname:
+
+Original: inglês
 
 A Delegação da República do Suriname declara, em nome de seu Governo, que se reserva o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as disposições da Constituição e da Convenção Internacional de Telecomunicações (Genebra, 1992), de seus anexos ou Protocolos à mesma, se as reservas formuladas por outros países ou o não cumprimento da Constituição e da Convenção comprometerem o bom funcionamento de seus serviços de telecomunicações.
 
 15
 
-<table>
-<tr><td>Da República lslâmica do Irã:</td><td>Original: inglês</td></tr>
-</table>
+Da República lslâmica do Irã:
+
+Original: inglês
 
 Em nome de Deus clemente e misericordioso.
 
@@ -3419,25 +4002,25 @@ Ao assinar a presente Constituição e a Convenção da União Internacional de 
 
 16
 
-<table>
-<tr><td>Da Áustria, Bélgica e Luxemburgo:</td><td>Original: francês</td></tr>
-</table>
+Da Áustria, Bélgica e Luxemburgo:
+
+Original: francês
 
 As Delegações destes países declaram oficialmente, em relação ao artigo 4 da Constituição da União Internacional de Telecomunicações (Genebra, 1992), que mantêm a reserva formulada em nome de suas respectivas Administrações quando assinaram os Regulamentos mencionados no artigo 4.
 
 17
 
-<table>
-<tr><td>Da Áustria, Bélgica e Luxemburgo:</td><td>Original: francês</td></tr>
-</table>
+Da Áustria, Bélgica e Luxemburgo:
+
+Original: francês
 
 As delegações destes países reservam a seus Governos o direito de tomar quantas medidas julguem necessárias para protegerem seus interesses, caso certos países não contribuam para o pagamento dos gastos da União ou não cumpram, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), de seus anexos ou Protocolos, se as reservas formuladas por outros países puderem ter como conseqüência um aumento de sua contribuição para o pagamento dos gastos da União ou, por último, quando as reservas de outros países comprometerem o bom funcionamento de seus serviços de telecomunicações.
 
 18
 
-<table>
-<tr><td>Da República de Côte d'Ivoire:</td><td>Original: francês</td></tr>
-</table>
+Da República de Côte d'Ivoire:
+
+Original: francês
 
 A Delegação da República de Côte d'lvoire reserva a seu Governo o direito de:
 
@@ -3449,9 +4032,9 @@ c) recusar toda disposição da Constituição e da Convenção ou formular as r
 
 19
 
-<table>
-<tr><td>Da República do Burundi:</td><td>Original: francês</td></tr>
-</table>
+Da República do Burundi:
+
+Original: francês
 
 A Delegação da República do Burundi reserva a seu Governo o direito de:
 
@@ -3461,17 +4044,17 @@ A Delegação da República do Burundi reserva a seu Governo o direito de:
 
 20
 
-<table>
-<tr><td>Da República Oriental do Uruguai:</td><td>Original: espanhol</td></tr>
-</table>
+Da República Oriental do Uruguai:
+
+Original: espanhol
 
 A Delegação da República Oriental do Uruguai declara, em nome de seu Governo, que reserva o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não compram as disposições da Constituição e da Convenção da União Internacional das Telecomunicações (Genebra, 1992), do Protocolo Facultativo ou quando as reservas formuladas por outros Membros comprometerem o bom funcionamento de seus serviços de telecomunicações.
 
 21
 
-<table>
-<tr><td>Da Confederação Suíça e Principado de Liechtenstein:</td><td>Original: francês</td></tr>
-</table>
+Da Confederação Suíça e Principado de Liechtenstein:
+
+Original: francês
 
 1\. As Delegações dos países acima mencionados reservam a seus respectivos Governos o direito de adotarem as medidas necessárias para protegerem seus interesses, caso as reservas depositadas ou outras medidas adotadas causarem prejuízo ao bom funcionamento de seus serviços de telecomunicações ou provocarem um aumento de suas contribuições para o pagamento dos gastos da União.
 
@@ -3479,9 +4062,9 @@ A Delegação da República Oriental do Uruguai declara, em nome de seu Governo,
 
 22
 
-<table>
-<tr><td>Do Chile:</td><td>Original: espanhol</td></tr>
-</table>
+Do Chile:
+
+Original: espanhol
 
 A Delegação do Chile à Conferência Adicional de Plenipotenciários da União Intemacional de Telecomunicações (Genebra, 1992), ao proceder à assinatura da Constituição e da Convenção da União, declara, em nome de seu Governo, que deixa a salvo seu direito soberano de formular as reservas que estime ou considere necessárias ou úteis, com a finalidade de proteger ou salvaguardar seus interesses nacionais, caso os Estados Membros da União não respeitem, de alguma maneira, ou deixem de cumprir as disposições da presente Constituição e Convenção, anexos, Protocolos e regulamentos adjuntos às mesmas, que afetem, direta ou indiretamente, o funcionamento de seus serviços de telecomunicações ou sua soberania.
 
@@ -3489,9 +4072,9 @@ Do mesmo modo, se reserva o direito de proteger seus interesses, caso as reserva
 
 23
 
-<table>
-<tr><td>De Brunei Darussalam:</td><td>Original: inglês</td></tr>
-</table>
+De Brunei Darussalam:
+
+Original: inglês
 
 A Delegação de Brunei Darussalam reserva a seu Governo o direito de tomar todas medidas que considere necessárias para proteger seus interesses, caso algum país não cumpra as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra 1992), seus anexos ou Protocolos, se as reservas formuladas por outros países prejudicarem os interesses de Brunei DarussaIam ou acarretarem um aumento de sua contribuição para custear os gastos da União.
 
@@ -3499,17 +4082,17 @@ A Delegação de Brunei Darussalam reserva, do mesmo modo, a seu Governo, o dire
 
 24
 
-<table>
-<tr><td>Da Tailândia:</td><td>Origem: inglês</td></tr>
-</table>
+Da Tailândia:
+
+Origem: inglês
 
 A Delegação da Tailândia reserva a seu Governo o direito de adotar todas as medidas que considere necessárias para salvaguardar seus interesses, caso outros Membros não cumpram, de qualquer maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos e Protocolos, se as reservas formuladas por outros países Membros prejudicarem seus serviços de telecomunicações ou acarretarem um aumento de sua contribuição para custear os gastos da União.
 
 25
 
-<table>
-<tr><td>Da República Federal da Nigéria:</td><td>Original: inglês</td></tr>
-</table>
+Da República Federal da Nigéria:
+
+Original: inglês
 
 A Delegação da República Federal da Nigéria à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) declara que reserva a seu Governo o direito de:
 
@@ -3519,25 +4102,25 @@ A Delegação da República Federal da Nigéria à Conferência de Plenipotenci�
 
 26
 
-<table>
-<tr><td>Do Reino Unido da Grã Bretanha e Irlanda do Norte:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino Unido da Grã Bretanha e Irlanda do Norte:
+
+Original: inglês
 
 A Delegação do Reino Unido de Grã Bretanha e Irlanda da Norte reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de alguma forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou no caso das reservas formuladas por outros países comprometerem seus interesses.
 
 27
 
-<table>
-<tr><td>Da República Socialista de Vietnã:</td><td>Original: inglês</td></tr>
-</table>
+Da República Socialista de Vietnã:
+
+Original: inglês
 
 Ao analisar os Atos Finais da Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992), a Delegação da República Socialista de Vietnã declara, em nome de seu Governo, que mantém as reservas formuladas na Conferência de Plenipotenciários de Nairobi (1982) e na Conferência de Plenipotenciários de Nice (1989) da União Internacional de Telecomunicações.
 
 28
 
-<table>
-<tr><td>Da República de Cingapura:</td><td>Original: inglês</td></tr>
-</table>
+Da República de Cingapura:
+
+Original: inglês
 
 A Delegação da República de Cingapura reserva a seu Governo o direito de tomar quantas medidas considere necessárias para proteger seus interesses, caso outros Membros da União não cumpram, de qualquer maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou Protocolos adjuntos à mesma, se as reservas formuladas por outros Membros da União comprometerem seus serviços de telecomunicações, afetarem sua soberania ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
@@ -3545,9 +4128,9 @@ A Delegação da República de Cingapura reserva, ademais, a seu Governo o direi
 
 29
 
-<table>
-<tr><td>Da Nova Zelândia:</td><td>Original: inglês</td></tr>
-</table>
+Da Nova Zelândia:
+
+Original: inglês
 
 A Delegação da Nova Zelândia reserva a seu Governo o direito de tomar quantas medidas considere necessárias para proteger seus interesses, caso outros países membros não participem dos gastos da União ou deixem de cumprir, de alguma forma, as disposições da Convenção Internacional de Telecomunicações (Nairob, 1982), seus anexos ou Protocolos à mesma, deixem de cumprir, de alguma forma, os instrumentos da União enumerados na Constituição (Genebra, 1992) ou quando as reservas formuladas por outros países comprometerem os serviços de telecomunicações da Nova Zelândia.
 
@@ -3555,9 +4138,9 @@ Ademais, a Nova Zelândia se reserva o direito de formular as reservas e declara
 
 30
 
-<table>
-<tr><td>Da Malásia:</td><td>Original: inglês</td></tr>
-</table>
+Da Malásia:
+
+Original: inglês
 
 Ao assinar a presente Constituição e a Convenção, a Delegação da Malásia:
 
@@ -3567,9 +4150,9 @@ Ao assinar a presente Constituição e a Convenção, a Delegação da Malásia:
 
 31
 
-<table>
-<tr><td>Da República do Chipre:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Chipre:
+
+Original: inglês
 
 A Delegação do Chipre reserva a seu Governo o direito de adotar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros da União não contribuam para o pagamento dos gastos da União ou não cumpram, de outra maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou os Protocolos à mesma ou se as reservas formuladas por outros países puderem acarretar um aumento de sua parte contributiva nos gastos da União, comprometerem seus serviços de telecomunicações ou quando qualquer outra medida tomada, ou que possa ser tomada, por qualquer pessoa física ou jurídica, afetar, direta ou indiretamente, sua soberania.
 
@@ -3577,57 +4160,57 @@ A Delegação do Chipre reserva, ademais, a seu Governo, o direito de formular q
 
 32
 
-<table>
-<tr><td>Da Espanha:</td><td>Original: espanhol</td></tr>
-</table>
+Da Espanha:
+
+Original: espanhol
 
 A Delegação da Espanha declara, em nome de seu Governo, que toda referência a \<\<país>> na Constituição e na Convenção (Genebra, 1992), enquanto sujeito a direitos e obrigações, somente será entendida quando este constituir-se em um Estado Soberano.
 
 33
 
-<table>
-<tr><td>Da Espanha:</td><td>Original: espanhol</td></tr>
-</table>
+Da Espanha:
+
+Original: espanhol
 
 A Delegação de Espanha declara, em nome de seu Governo, que não aceita nenhuma das reservas formuladas por outros Governos que impliquem num aumento de suas obrigações financeiras com a União.
 
 34'
 
-<table>
-<tr><td>Da República da Hungria:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Hungria:
+
+Original: inglês
 
 A Delegação da República da Hungria reserva a seu Governo o direito de não aceitar nenhuma medida financeira que possa supor aumentos injustificados de sua contribuição para pagamento dos gastos da União e o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações, (Genebra, 1992) e de seus Regulamentos ou que comprometam o devido funcionamento de seus serviços de telecomunicações, assim como o direito de formular reservas e declarações concretas antes da ratificação da Constituição e da Convenção da UIT.
 
 35
 
-<table>
-<tr><td>Da República Socialista Democrática do Sri Lanka:</td><td>Original: inglês</td></tr>
-</table>
+Da República Socialista Democrática do Sri Lanka:
+
+Original: inglês
 
 A Delegação República Socialista Democrática do Sri Lanka reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para salvaguardar e proteger seus interesses, caso outros Membros não cumpram as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), se as reservas formuladas por outros países comprometerem os serviços de telecomunicações do Sri Lanka ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 36
 
-<table>
-<tr><td>Da República do Yemen:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Yemen:
+
+Original: inglês
 
 A Delegação da República do Yemen declara que reserva a seu Governo o direito de tomar as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra 1992), se as reservas formuladas por outros Membros comprometerem seus serviços de telecomunicações ou acarretarem um aumento da parte contributiva do Yemen nos gastos da União.
 
 37
 
-<table>
-<tr><td>Da República de Belarus, da Federação da Rússia e da Ucrânia:</td><td>Original: russo</td></tr>
-</table>
+Da República de Belarus, da Federação da Rússia e da Ucrânia:
+
+Original: russo
 
 As Delegações dos mencionados países reservam a seus respectivos Governos o direito de fazerem qualquer declaração ou reserva ao ratificar a Constituição e a Convenção da União Internacional de Telecomunicações (Genebra, 1992), bem como o direito de tomar todas as medidas que considerem necessárias para proteger seus interesses, caso outros Membros da União deixem de cumprir, de qualquer forma, as disposições de Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), se as reservas formuladas por outros Membros comprometerem o funcionamento dos serviços de telecomunicações dos mencionados países ou acarretarem um aumento de sua contribuição anual para custear os gastos da União.
 
 38
 
-<table>
-<tr><td>De República da Venezuela:</td><td>Original: espanhol</td></tr>
-</table>
+De República da Venezuela:
+
+Original: espanhol
 
 A Delegação da República da Venezuela reserva a seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros, atuais ou futuros, não cumpram as disposições da Constituição e da Convenção Internacional de Telecomunicações (Genebra, 1992), de seus anexos ou Protocolos adjuntos ou quando as reservas formuladas por outros Membros causarem prejuízo ao funcionamento eficaz de seus serviços de telecomunicações.
 
@@ -3635,17 +4218,17 @@ Do mesmo modo, formula suas reservas com respeito aos artigos da Constituição 
 
 39
 
-<table>
-<tr><td>Da Papua Nova Guiné:</td><td>Original: inglês</td></tr>
-</table>
+Da Papua Nova Guiné:
+
+Original: inglês
 
 A Delegação da Papua Nova Guiné reserva a seu Governo o direito de tomas quantas medidas considere necessárias para proteger seus interesses, caso outros Membros não contribuam para o pagamento dos gastos da União ou deixem de cumprir, de qualquer outra forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra 1992), de seus anexos ou protocolos à mesma ou se as observações formuladas por outros países comprometerem os serviços de telecomunicações de Papua Nova Guiné.
 
 40
 
-<table>
-<tr><td>Da República do Níger:</td><td>Original: francês</td></tr>
-</table>
+Da República do Níger:
+
+Original: francês
 
 A Delegação do Níger à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicação (Genebra, dezembro de 1992) reserva a seu Governo o direito:
 
@@ -3655,9 +4238,9 @@ A Delegação do Níger à Conferência de Plenipotenciários Adicional da Uniã
 
 41
 
-<table>
-<tr><td>Da República do Cameroun:</td><td>Original: francês</td></tr>
-</table>
+Da República do Cameroun:
+
+Original: francês
 
 A Delegação da República do Cameroun à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992), ao assinar os Atos Finais da presente Conferência, reserva a seu Governo o direito:
 
@@ -3667,9 +4250,9 @@ A Delegação da República do Cameroun à Conferência de Plenipotenciários Ad
 
 42
 
-<table>
-<tr><td>Da República Federal da Alemanha:</td><td>Original: inglês</td></tr>
-</table>
+Da República Federal da Alemanha:
+
+Original: inglês
 
 1\. A Delegação da República Federal da Alemanha reserva a seu Governo direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não participem do pagamento dos gastos da União ou deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra 1992), de seus anexos ou Protocolos adjuntos à mesma, se as reservas formuladas por outros países originarem um aumento de sua contribuição para os gastos da União ou comprometerem seus serviços de telecomunicações.
 
@@ -3679,9 +4262,9 @@ A Delegação da República do Cameroun à Conferência de Plenipotenciários Ad
 
 43
 
-<table>
-<tr><td>Da República da Bulgária:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Bulgária:
+
+Original: inglês
 
 A Delegação da República da Bulgária à Conferência de Plenipotenciários Adicional e da União Internacional de Telecomunicações (Genebra, 1992), reserva a seu Governo o direito de:
 
@@ -3693,9 +4276,9 @@ A Delegação da República da Bulgária à Conferência de Plenipotenciários A
 
 44
 
-<table>
-<tr><td>Da República das Filipinas:</td><td>Original: inglês</td></tr>
-</table>
+Da República das Filipinas:
+
+Original: inglês
 
 A Delegação da República das Filipinas reserva a seu Governo o direito de tomar todas as medidas que considere necessárias e suficientes, de conformidade com as leis constitucionais de seu país, para proteger seus interesses se as reservas formuladas por representantes de outros Estados comprometerem o funcionamento de seus serviços de telecomunicações ou forem prejudiciais a seus direitos, como país soberano.
 
@@ -3703,17 +4286,17 @@ A Delegação das Filipinas reserva a seu Governo o direito de submeter declara�
 
 45
 
-<table>
-<tr><td>Da República do Sudão:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Sudão:
+
+Original: inglês
 
 A Delegação da República do Sudão reserva a seu Governo o direito de tomar todas as medidas que julgue necessárias para proteger seus interesses, no caso de outros Membros não cumprirem as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), se as observações formuladas por outros Membros comprometerem seus serviços de telcecomunicações ou acarretarem um aumento da parte contributiva do Sudão nos gastos da União.
 
 46
 
-<table>
-<tr><td>De Dinamarca, Estônia, Finlândia, lslândia, Letônia, Lituânia, Noruega e Suécia:</td><td>Original: inglês</td></tr>
-</table>
+De Dinamarca, Estônia, Finlândia, lslândia, Letônia, Lituânia, Noruega e Suécia:
+
+Original: inglês
 
 No momento de assinar os Atos Finais da Conferência de Plenipotenciários de Genebra:
 
@@ -3725,9 +4308,9 @@ No momento de assinar os Atos Finais da Conferência de Plenipotenciários de Ge
 
 47
 
-<table>
-<tr><td>Da República da Indonésia:</td><td>Original: Inglês</td></tr>
-</table>
+Da República da Indonésia:
+
+Original: Inglês
 
 Em nome da República da Indonésia, a Delegação da República da Indonésia à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992):
 
@@ -3737,9 +4320,9 @@ Em nome da República da Indonésia, a Delegação da República da Indonésia �
 
 48
 
-<table>
-<tr><td>Da República da Colômbia</td><td>Original: espanhol</td></tr>
-</table>
+Da República da Colômbia
+
+Original: espanhol
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992), a delegação da República da Colômbia:
 
@@ -3759,9 +4342,9 @@ c) formular reservas à Convenção de Viena sobre o Direito dos Tratados de 196
 
 49
 
-<table>
-<tr><td>Da República da Argentina:</td><td>Original: espanhol</td></tr>
-</table>
+Da República da Argentina:
+
+Original: espanhol
 
 Ao assinar a presente Constituição e Convenção, a Delegação da República da Argentina declara, em nome de seu Governo, o seguinte:
 
@@ -3771,9 +4354,9 @@ Ao assinar a presente Constituição e Convenção, a Delegação da República 
 
 50
 
-<table>
-<tr><td>Da Grécia:</td><td>Original: francês</td></tr>
-</table>
+Da Grécia:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional da União lnternacional de Telecomunicações (Genebra, 1992), a Delegação da Grécia declara:
 
@@ -3789,17 +4372,17 @@ c) não aceitar nenhuma conseqüência de quaisquer reservas formuladas por outr
 
 51
 
-<table>
-<tr><td>Da Mongólia:</td><td>Original: inglês</td></tr>
-</table>
+Da Mongólia:
+
+Original: inglês
 
 A Delegação da Mongólia declara que reserva a seu Governo o direito de formular quaisquer declarações ou reservas, ao ratificar a Constituição e a Convenção da União Internacional de telecomunicações (Genebra, 1992).
 
 52
 
-<table>
-<tr><td>Da União de Myanmar:</td><td>Original: inglês</td></tr>
-</table>
+Da União de Myanmar:
+
+Original: inglês
 
 A Delegação da União de Myanmar reserva a seu Governo o direito de:
 
@@ -3811,9 +4394,9 @@ A Delegação da União de Myanmar reserva a seu Governo o direito de:
 
 53
 
-<table>
-<tr><td>Da República do Quênia:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Quênia:
+
+Original: inglês
 
 A Delegação da República do Quênia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias ou apropriadas para salvaguardar e proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992) e de quaisquer outros instrumentos a elas associados. A Delegação afirma que o Governo da República do Quênia não aceita responsabilidade alguma pelas conseqüências que possam advir de qualquer reserva formulada por outros Membros da União.
 
@@ -3823,17 +4406,17 @@ A Delegação da República do Quênia recorda reserva número 90 da Convenção
 
 54
 
-<table>
-<tr><td>Da Turquia:</td><td>Original: inglês</td></tr>
-</table>
+Da Turquia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional (Genebra, 1992) da União Internacional de Telecomunicações, a Delegação da República da Turquia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações, (Genebra, 1992), seus anexos ou Protocolos à mesma ou quando as reservas formuladas por outros Membros comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 55
 
-<table>
-<tr><td>Do México:</td><td>Original: espanhol</td></tr>
-</table>
+Do México:
+
+Original: espanhol
 
 O Governo de México, preocupado com alguns resultados da Conferência de Plenipotenciários Adicional (Genebra, 1992), formula as seguintes reservas:
 
@@ -3845,41 +4428,41 @@ O Governo de México, preocupado com alguns resultados da Conferência de Plenip
 
 56
 
-<table>
-<tr><td>Da França:</td><td>Original: francês</td></tr>
-</table>
+Da França:
+
+Original: francês
 
 A Delegação francesa declara, formalmente, no que diz respeito ao artigo 4 da Constituição da União Internacional de Telecomunicações (Genebra, 1992), que mantém as reservas formuladas, em nome de sua Administração, ao assinar os Regulamentos citados no artigo 4.
 
 57
 
-<table>
-<tr><td>Da França:</td><td>Original: francês</td></tr>
-</table>
+Da França:
+
+Original: francês
 
 A Delegação francesa resserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não contribuam para o pagamento dos gastos da União ou deixem de cumprir, de qualquer outro modo, as disposições da Constituição e da Convenção da União lnternacional de Telecomunicações (Genebra, 1992), assim como os Regulamentos Administrativos que as completam ou quando as reservas formuladas por outros países comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 58
 
-<table>
-<tr><td>Da Etiópia:</td><td>Original: inglês</td></tr>
-</table>
+Da Etiópia:
+
+Original: inglês
 
 Ao assinar a Constituição e a Convenção da União Internacional de Telecomunicações (Genebra, 1992) a Delegação do Governo Provisório da Etiópia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram esses instrumentos ou cujas reservas comprometam seus serviços de telecomunicações.
 
 59
 
-<table>
-<tr><td>Da República do Benin:</td><td>Original: francês</td></tr>
-</table>
+Da República do Benin:
+
+Original: francês
 
 A Delegação da República do Benin à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), se as reservas formuladas por outros Membros comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua contribuição nos gastos da União.
 
 60
 
-<table>
-<tr><td>De Cuba:</td><td>Original: espanhol</td></tr>
-</table>
+De Cuba:
+
+Original: espanhol
 
 Ao assinar os Atos Finais da presente Conferência de Plenipotenciários Adicional (Genebra, 1992), a Delegação da República de Cuba expressa:
 
@@ -3893,9 +4476,9 @@ Ao assinar os Atos Finais da presente Conferência de Plenipotenciários Adicion
 
 61
 
-<table>
-<tr><td>Da República do Panamá:</td><td>Original: espanhol</td></tr>
-</table>
+Da República do Panamá:
+
+Original: espanhol
 
 A Delegação do Panamá à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações, Genebra, dezembro de 1992, declara que reserva, em nome de seu Governo, o direito de formular as reservas que julgue necessárias para proteger e salvaguardar seus direitos e interesses nacionais, caso os Estados Membros da União não respeitem, de alguma maneira, deixem de cumprir as disposições da presente Constiuição e Convenção, seus anexos, Protocolos e Regulamentos adjuntos às mesmas ou afetarem, direta ou indiretamente, o funcionamento de seus serviços de telecomunicações ou sua soberania.
 
@@ -3903,9 +4486,9 @@ Do mesmo modo, se reserva o direito de proteger seus interesses, se as resevas f
 
 62
 
-<table>
-<tr><td>Da República da Índia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Índia:
+
+Original: inglês
 
 1\. Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992), a Delegação da República da Índia não aceita nenhuma das repercussões financeiras, para seu Governo, que possam derivar das reservas que formulem os Membros no tocante às finanças da União;
 
@@ -3913,9 +4496,7 @@ Do mesmo modo, se reserva o direito de proteger seus interesses, se as resevas f
 
 63
 
-<table>
-<tr><td></td><td>Original: inglês</td></tr>
-</table>
+Original: inglês
 
 Da República do Afeganistão, da República Argelina Democrática e Popular, do Reino da Arábia Saudita, do Estado de Bahrein, dos Emirados Árabes Unidos, da República Islâmica do Irã, do Reino Hachemita da Jordânia, do Estado do Kuaite, do Líbano, da República Islâmica da Mauritânia, do Reino do Marrocos, do Sultanato de Omã, da República lslâmica do Paquistão, do Estado do Catar, da República do Sudão, da Tunísia, da República do Yemen:
 
@@ -3923,9 +4504,7 @@ As Delegações dos países mencionados à Conferência de Plenipotenciários Ad
 
 64
 
-<table>
-<tr><td></td><td>Original: inglês</td></tr>
-</table>
+Original: inglês
 
 Do Reino da Arábia Saudita, do Estado de Bahrein, dos Emirados Árabes Unidos, do Estado do Kuaite, do Sultanato de Omã e de Estado do Catar:
 
@@ -3933,25 +4512,25 @@ Estas Delegações à Conferência de Plenipotenciários Adicional (Genebra, 199
 
 65
 
-<table>
-<tr><td>De Gana:</td><td>Original: inglês</td></tr>
-</table>
+De Gana:
+
+Original: inglês
 
 A Delegação de Gana à Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) reserva a seu Governo o direito de tomar todas as medidas necessárias para proteger seus interesses, caso a não observância da Constituição, da Convenção da União Internacional de Telecomunicações, dos anexos ou Protocolos adjuntos a esses instrumentos, ou as reservas a eles formuladas por outros Membros da União, comprometam seus serviços de telecomunicações.
 
 65
 
-<table>
-<tr><td>Da Austrália:</td><td>Original: inglês</td></tr>
-</table>
+Da Austrália:
+
+Original: inglês
 
 A Delegação da Austrália reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram os requisitos da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra 1992), seus anexos.adjuntos à mesma ou se as reservas de outros países comprometerem seus interesses.
 
 67
 
-<table>
-<tr><td>Do Reino dos Países Baixos:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino dos Países Baixos:
+
+Original: inglês
 
 I
 
@@ -3963,9 +4542,9 @@ A Delegação dos Países Baixos declara, oficialmente, que, com relação ao ar
 
 68
 
-<table>
-<tr><td>Dos Estados Unidos da América:</td><td>Original: inglês</td></tr>
-</table>
+Dos Estados Unidos da América:
+
+Original: inglês
 
 Os Estados Unidos da América reiteram e incorporam, mediante referência, todas as reservas e declarações formuladas nas conferências administrativas mundiais.
 
@@ -3975,17 +4554,17 @@ Por último, os Estados Unidos da América se refere ao artigo 32, ponto 16, da 
 
 69
 
-<table>
-<tr><td>De Malta:</td><td>Original: inglês</td></tr>
-</table>
+De Malta:
+
+Original: inglês
 
 Ao assinar o presente documento, a Delegação de Malta reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros não participem do pagamento dos gastos da União ou deixem de cumprir, de alguma forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações, (Genebra, 1992), seus anexos ou Protocolos à mesma ou se as reservas formuladas por outros países comprometerem seus serviços de telecomunicações.
 
 70
 
-<table>
-<tr><td>De Portugal:</td><td>Original: francês</td></tr>
-</table>
+De Portugal:
+
+Original: francês
 
 A Delegação portuguesa declara, em nome de seu Governo, que não aceita nenhuma conseqüência resultante das reservas formuladas por outros Governos que possam acarretar um aumento de sua contribuição nos gastos da União.
 
@@ -3993,9 +4572,9 @@ Declara também que reserva a seu Governo o direito de adotar todas as medidas q
 
 71
 
-<table>
-<tr><td>Da Irlanda:</td><td>Original: inglês</td></tr>
-</table>
+Da Irlanda:
+
+Original: inglês
 
 Tendo em conta as reservas formulados por certos Membros e registradas no Documento 195 da Conferência de Plenipotenciários Adicional (Genebra, 1992), a Delegação da Irlanda reserva a seu Governo o direito de adotar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não contribuam para o pagamento dos gastos da União ou deixem de cumprir, de qualquer outro modo, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), dos Regulamentos administrativos que as completam, quando as reservas formuladas por outros países causarem prejuízo ao bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua contribuição para pagamento dos gastos da União.
 
@@ -4003,9 +4582,9 @@ Ademais, a Delegação da Irlanda reserva a seu Governo o direito de formular re
 
 72
 
-<table>
-<tr><td>Da República Islâmica da Mauritânia:</td><td>Original: francês</td></tr>
-</table>
+Da República Islâmica da Mauritânia:
+
+Original: francês
 
 Ao tomar nota do Documento 195, relativo às declarações e reservas e ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional (Genebra, 1992), a Delegação da República lslâmica da Mauritânia declara que seu Governo se reserva o direito:
 
@@ -4017,9 +4596,7 @@ A Delegação declara, igualmente, que a Constituição e a Convenção da Uniã
 
 73
 
-<table>
-<tr><td></td><td>Original: inglês</td></tr>
-</table>
+Original: inglês
 
 Da Austrália, da Áustria, da Bélgica, da República da Bulgária, do Canadá, da Dinamarca, da República Federal da Alemanha, da Finlândia, da França, da Grécia, da Irlanda, da Itália, do Japão, do Principado de Liechtenstein, de Luxemburgo, de Malta, de Mônaco, do Reino dos Países Baixos, da Noruega, da Nova Zelândia, de Portugal da Romênia, da Suécia, da Suíça, da Turquia, do Reino Unido de Grã Bretanha e Irlanda do Norte e dos Estados Unidos de América:
 
@@ -4029,17 +4606,17 @@ As Delegações mencionadas desejam, também, declarar que a referência ao arti
 
 74
 
-<table>
-<tr><td>Do México:</td><td>Original: espanhol</td></tr>
-</table>
+Do México:
+
+Original: espanhol
 
 O Governo do México, considerando algumas reservas apresentadas por outros países, ratifica as reservas formuladas nos Atos Finais da Conferência Administrativas Mundiais de Radiocomunicações e da Conferência Administrativa Mundial Telefônica e Telegráfica.
 
 75
 
-<table>
-<tr><td>Do Estado de Israel:</td><td>Original: inglês</td></tr>
-</table>
+Do Estado de Israel:
+
+Original: inglês
 
 1\. Dado que a Declaração número 63 feita por certas delegações nos Atos Finais se encontra em flagrante contradição com os princípios e fins da União Internacional de Telecomunicações e carece, portanto, de toda validade jurídica, o Governo de Israel deseja fazer constar que rechaça, totalmente, tais declarações e dá por reconhecido que não poderão ter validade alguma no que diz respeito aos direitos e obrigações de nenhum Estado Membro da União Internacional de Telecomunicações.
 
@@ -4053,17 +4630,17 @@ Do mesmo modo, a Delegação do Estado de Israel observa que a Declaração núm
 
 76
 
-<table>
-<tr><td>De Malta:</td><td>Original: inglês</td></tr>
-</table>
+De Malta:
+
+Original: inglês
 
 A Delegação de Malta, tendo em conta as declarações formuladas por certas delegações reservando o direito a seus Governos de formularem reservas entre a data da assinatura e da ratificação das Atas Finais, Genebra, 1992, assim como à qualquer dos instrumentos das conferências pertinentes da União que não tenham sido ainda ratificados, reserva a seu Governo o direito de formular reservas adicionais até o momento em que esta Constituição e esta Convenção da União Internacional de Telecomunicações (Genebra, 1992), tenham sido ratificadas pelo Governo de Malta.
 
 77
 
-<table>
-<tr><td>Da República Popular da China:</td><td>Original: inglês</td></tr>
-</table>
+Da República Popular da China:
+
+Original: inglês
 
 Após examinar as declarações que constam do Documento 195, a Delegação da República Popular da China:
 
@@ -4073,33 +4650,33 @@ Após examinar as declarações que constam do Documento 195, a Delegação da R
 
 78
 
-<table>
-<tr><td>Da Romênia:</td><td>Original: inglês</td></tr>
-</table>
+Da Romênia:
+
+Original: inglês
 
 Após examinar as declarações e reservas do Documento 195 da Conferência, a Delegação da Romênia, ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional (Genebra, 1992), reserva a seu Governo o direito de adotar todas as medidas que considere necessárias para salvaguardar seus interesses, caso as reservas formuladas por outros países ponham em perigo seus serviços de telecomunicações ou acarretem um aumento de sua parte contributiva nos gastos da União.
 
 79
 
-<table>
-<tr><td>Do Japão:</td><td>Original: inglês</td></tr>
-</table>
+Do Japão:
+
+Original: inglês
 
 Após analisar as declarações contidas no Documento 195, a Delegação do Japão reserva a seu Governo o direito de tomar quantas medidas considere necessárias para proteger seus interesses, caso qualquer Membro deixe de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos, ou se as reservas formuladas por outros países prejudicarem, de qualquer maneira, seus interesses.
 
 80
 
-<table>
-<tr><td>Do Reino Unido da Grã Bretanha e Irlanda do Norte:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino Unido da Grã Bretanha e Irlanda do Norte:
+
+Original: inglês
 
 Com referência à declaração Nr. 49 da Delegação da República da Argentina sobre as Ilhas Malvinas e as ilhas South Georgia e South Sandwich, a Delegação do Reino Unido deseja declarar que o Governo de Sua Majestade do Reino Unido da Grã Bretanha e Irlanda do Norte não tem dúvidas quanto à soberania do Reino Unido sobre as Ilhas Malvinas e as Ilhas South Georgia e South Sandwich.
 
 81
 
-<table>
-<tr><td>Da Itália:</td><td>Original: francês</td></tr>
-</table>
+Da Itália:
+
+Original: francês
 
 Após tomar conhecimento das declarações contidas no Documento 195, a Delegação da Itália reserva a seu Governo o direito de tomar quantas medidas julgue necessárias para proteger seus direitos, caso certos Membros não contribuam para o pagamento dos gastos da União ou não observem, de alguma maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou Protocolos facultativos, se as reservas formuladas por outros países fizerem aumentar sua parte contributiva nos gastos da União ou quando as reservas formuladas por outros países comprometerem o correto funcionamento de seus serviços de telecomunicações.
 
@@ -4107,9 +4684,9 @@ No que respeita ao artigo 54 da Constituição da União Internacional de Teleco
 
 82
 
-<table>
-<tr><td>Dos Estados Unidos da América:</td><td>Original: inglês</td></tr>
-</table>
+Dos Estados Unidos da América:
+
+Original: inglês
 
 Com relação às declarações formuladas por diversos Membros de que estes se reservam o direito de tomar as medidas que considerem necessárias para proteger seus interesses, em resposta às reservas de outros países que atuem em detrimento de seus interesses, à aplicação das disposições da Constituição e da Convenção (Genebra, 1992), que afetem seus interesses e à falta de pagamento de outros Membros para custear os gastos da União, Os Estados Unidos da América se reservam o direito de tomar quantas medidas julgarem necessárias para salvaguardar os interesses dos Estados Unidos, em resposta a essas ações.
 
@@ -5717,12 +6294,21 @@ Nota Explicativa das Anotações
 
 As anotações, à margem, explicam as alterações introduzidas com relação aos textos da Constituição e da Convenção de Genebra (1992), de acordo com os seguintes símbolos:
 
-<table>
-<tr><td>ADD</td><td>disposição adicionada</td></tr>
-<tr><td>MOD</td><td>disposição modificada</td></tr>
-<tr><td>(MOD)</td><td>disposição que foi objeto de modificação apenas na <u>forma</u></td></tr>
-<tr><td>NOC</td><td>disposição não modificada</td></tr>
-</table>
+ADD
+
+disposição adicionada
+
+MOD
+
+disposição modificada
+
+(MOD)
+
+disposição que foi objeto de modificação apenas na forma
+
+NOC
+
+disposição não modificada
 
 Estes símbolos vão seguidos do número da disposição atual. Quando se trate de adicionar uma nova disposição (símbolo ADD), ela será inserida no seu local correspondente, recebendo o número e a letra seguintes.
 
@@ -6588,9 +7174,11 @@ NOC 475 4 Aplicar-se-ão as disposições seguintes às contribuições das orga
 
 Anexo (CV)
 
-<table>
-<tr><td>MOD 1002</td><td>Observador:</td><td>Pessoa enviada:</td></tr>
-</table>
+MOD 1002
+
+Observador:
+
+Pessoa enviada:
 
 \- pelas Nações Unidas, por um organismo especializado das Nações Unidas, pelo Organismo Internacional de Energia Atômica, por uma organização regional de telecomunicações ou uma organização intergovernamental que explore sistemas de satélites para participar, em caráter consultivo, da Conferência de Plenipotenciários, de uma conferência ou de uma reunião de um Setor;
 
@@ -6628,9 +7216,9 @@ No ato de proceder à assinatura deste Documento que forma parte dos Atos Finais
 
 1
 
-<table>
-<tr><td>Da Costa Rica:</td><td>Original: espanhol</td></tr>
-</table>
+Da Costa Rica:
+
+Original: espanhol
 
 A Delegação da Costa Rica à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994):
 
@@ -6648,9 +7236,9 @@ No índice estão classificados, por ordem alfabética, os nomes dos Membros que
 
 2
 
-<table>
-<tr><td>Da República de Cameroun:</td><td>Original: francês</td></tr>
-</table>
+Da República de Cameroun:
+
+Original: francês
 
 1\. A Delegação da República de Cameroun à Conferência de Plenipotenciários da UIT (Quioto, 1994) reserva a seu Governo o direito de tomar todas as medidas que julgue necessárias para proteger seus legítimos interesses, caso um Membro da União não observe as disposições destes Atos Finais, dos anexos e Protocolos adjuntos ou se outros países fizerem reservas que comprometam o bom funcionamento de seus serviços de telecomunicações.
 
@@ -6658,9 +7246,9 @@ No índice estão classificados, por ordem alfabética, os nomes dos Membros que
 
 3
 
-<table>
-<tr><td>Da República do Burundi:</td><td>Original: francês</td></tr>
-</table>
+Da República do Burundi:
+
+Original: francês
 
 A Delegação da República do Burundi reserva a seu Governo o direito de:
 
@@ -6670,17 +7258,17 @@ A Delegação da República do Burundi reserva a seu Governo o direito de:
 
 4
 
-<table>
-<tr><td>Do Equador:</td><td>Original: espanhol</td></tr>
-</table>
+Do Equador:
+
+Original: espanhol
 
 A Delegação do Equador, ao assinar os Atos Finais da Conferência de Plenipotenciários, Quioto, 1994, reserva a seu Governo o direito de adotar as medidas que considere necessárias, conforme seu Direito Soberano, seu ordenamento jurídico interno e o Direito Internacional, no caso de seus interesses serem prejudicados, de qualquer forma, por qualquer ato de outros países.
 
 5
 
-<table>
-<tr><td>Da República Islâmica do Irã:</td><td>Original:inglês</td></tr>
-</table>
+Da República Islâmica do Irã:
+
+Original:inglês
 
 Em nome de Deus clemente e misericordioso.
 
@@ -6696,9 +7284,9 @@ Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), 
 
 6
 
-<table>
-<tr><td>Da Venezuela:</td><td>Original: espanhol</td></tr>
-</table>
+Da Venezuela:
+
+Original: espanhol
 
 A Delegação da República da Venezuela reserva a seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros, atuais ou futuros, não cumpram as disposições da Constituição, da Convenção Internacional de Telecomunicações (Quioto, 1994), de seus anexos ou Protocolos adjuntos ou quando as reservas formuladas por outros Membros causarem prejuízo ao funcionamento eficaz de seus serviços de telecomunicações.
 
@@ -6708,25 +7296,25 @@ Do mesmo modo, formula suas reservas a respeito dos artigos da Constituição e 
 
 7
 
-<table>
-<tr><td>Da República do Zimbábue:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Zimbábue:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da República do Zimbábue declara que reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso algum Membro não cumpra as disposições da Constituição, da Convenção da União Internacional de Telecomunicações (Quioto, 1994) os Protocolos, anexos ou Regulamentos adjuntos a mesma ou se as reservas formuladas por outros países afetarem seu setor de telecomunicações.
 
 8
 
-<table>
-<tr><td>Do Reino do Butão:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino do Butão:
+
+Original: inglês
 
 A Delegação do Reino do Butão à Conferência de Plenipotenciários (Quioto, 1994) reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para salvaguardar seus interesses, caso outros Membros não cumpram, de qualquer maneira, as disposições da Constituição, da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou Protocolos adjuntos ou se as reservas formuladas por outros Membros prejudicarem o funcionamento adequado de seus serviços de telecomunicações.
 
 9
 
-<table>
-<tr><td>Da República Gabonesa:</td><td>Original: francês</td></tr>
-</table>
+Da República Gabonesa:
+
+Original: francês
 
 A Delegaçâo da República Gabonesa reserva a seu Governo o direito de:
 
@@ -6736,9 +7324,9 @@ A Delegaçâo da República Gabonesa reserva a seu Governo o direito de:
 
 10
 
-<table>
-<tr><td>Da República da Zâmbia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Zâmbia:
+
+Original: inglês
 
 A Delegação da República da Zâmbia à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as disposições dos instrumentos de emenda da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), adotados pela Conferência de Plenipotenciários (Quioto, 1994), se as reservas desses Membros comprometerem, direta ou indiretamente, o bom funcionamento de seus serviços de telecomunicações ou infringirem, direta ou indiretamente, sua soberania.
 
@@ -6746,9 +7334,9 @@ A Delegação da República da Zâmbia reserva, do mesmo modo, a seu Governo, o 
 
 11
 
-<table>
-<tr><td>Da República da lndonésia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da lndonésia:
+
+Original: inglês
 
 Em nome da República da Indonésia, a Delegação da Indonésia à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994):
 
@@ -6758,25 +7346,25 @@ Em nome da República da Indonésia, a Delegação da Indonésia à Conferência
 
 12
 
-<table>
-<tr><td>Da Malásia:</td><td>Original: inglês</td></tr>
-</table>
+Da Malásia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da Malásia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros não participem do pagamento dos gastos da União ou deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção da União Intemacional de Telecomunicações (Quioto, 1994), seus anexos adjuntos à mesma ou se as observações formuladas por outros Membros comprometerem seus serviços de telecomunicações.
 
 13
 
-<table>
-<tr><td>Da Espanha:</td><td>Original: espanhol</td></tr>
-</table>
+Da Espanha:
+
+Original: espanhol
 
 A Delegação espanhola, em virtude do disposto na Convenção de Viena sobre o Direito dos Tratados, de 23 de maio de 1969, reserva ao Reino da Espanha o direito de formular reservas aos Atos Finais adotadas pela presente Conferência, até ao momento do depósito do oportuno instrumento de ratificação.
 
 14
 
-<table>
-<tr><td>De Brunei Darussalam:</td><td>Original: inglês</td></tr>
-</table>
+De Brunei Darussalam:
+
+Original: inglês
 
 A Delegação de Brunei Darussalam reserva a seu Governo o direito de adotar todas as medidas que considere necessárias para proteger seus interesses, caso algum país não cumpra, de qualquer maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), com as modificações que constam dos Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), dos seus anexos ou Protocolos ou se as reservas formuladas por outros países prejudicarem os interesses de Brunei Darussalam ou acarretarem um aumento de sua contribuição para custear os gastos da União.
 
@@ -6784,17 +7372,17 @@ A Delegação de Brunei Darussalam reserva, do mesmo modo, a seu Governo o direi
 
 15
 
-<table>
-<tr><td>Da República Argelina Democrática e Popular:</td><td>Original: francês</td></tr>
-</table>
+Da República Argelina Democrática e Popular:
+
+Original: francês
 
 A Delegação da República Argelina Democrática e Popular à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994) reserva a seu Governo o direito de tomar todas as medidas que considere, necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Quioto, 1994), se as reservas formuladas por outros Membros comprometerem seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 16
 
-<table>
-<tr><td>Da República do Chade:</td><td>Original: francês</td></tr>
-</table>
+Da República do Chade:
+
+Original: francês
 
 Ao assinar os instrumentos de emendas à Constituição e à Convenção (Genebra, 1992), a Delegação da República do Chade à Conferência de Plenipotenciários (Quioto, 1994) reserva a seu Governo o direito de tomar todas as medidas que julgue necessárias:
 
@@ -6806,25 +7394,25 @@ Do mesmo modo, a Delegacão da República do Chade reserva, a seu Governo, o dir
 
 17
 
-<table>
-<tr><td>Do Reino da Suazilândia:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino da Suazilândia:
+
+Original: inglês
 
 Ao assinar os Atos Finais, a Delegação do Reino de Suazilândia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, no caso de outros países Membros deixarem de cumprir, de qualquer forma, as disposições da Constituição ou da Convenção da União Internacional de Telecomunicações (Genebra, 1992), seus anexos ou Regulamentos adjuntos à mesma ou se as reservas formuladas por outros países comprometerem os serviços de telecomunicações da Suazilândia.
 
 18
 
-<table>
-<tr><td>Da República do Sudão:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Sudão:
+
+Original: inglês
 
 A Delegação da República do Sudão reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992) com as emendas efetuadas pela Conferência de Plenipotenciários (Quioto, 1994), se as reservas formuladas por outros Membros comprometerem seus serviços de telecomunicações ou acarretarem um aumento da parte contributiva do Sudão nos gastos da União.
 
 19
 
-<table>
-<tr><td>De Burkina Faso:</td><td>Original: francês</td></tr>
-</table>
+De Burkina Faso:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), a Delegação de Burkina Faso reserva a seu Governo o direito de tomar as medidas que julgue necessárias para proteger os interesses de Burkina Faso.
 
@@ -6838,9 +7426,9 @@ A Delegação de Burkina Faso reserva, do mesmo modo, a seu Governo o direito de
 
 20
 
-<table>
-<tr><td>Da Etiópia:</td><td>Original: inglês</td></tr>
-</table>
+Da Etiópia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Constituição e a Convenção da União Internacional de Telecomunicações (Quioto, 1994), a Delegação de Etiópia reserva a seu Governo o direito de:
 
@@ -6852,41 +7440,41 @@ Ao assinar os Atos Finais da Constituição e a Convenção da União Internacio
 
 21
 
-<table>
-<tr><td>Do Maláui:</td><td>Original: inglês</td></tr>
-</table>
+Do Maláui:
+
+Original: inglês
 
 A Delegação de Maláui à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de qualquer forma, as disposições da presente Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), os anexos ou Protocolos adjuntos ou se as reservas formuladas por outros países Membros da União comprometerem o funcionamento de seus serviços de telecomunicações.
 
 22
 
-<table>
-<tr><td>Da República Oriental do Uruguai:</td><td>Original: espanhol</td></tr>
-</table>
+Da República Oriental do Uruguai:
+
+Original: espanhol
 
 A Delegação da República Oriental do Uruguai declara, em nome de seu Governo, que reserva o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), do Protocolo Facultativo ou quando as reservas formuladas por outros Membros comprometerem o bom funcionamento de seus serviços de telecomunicações.
 
 23
 
-<table>
-<tr><td>Da República Popular da China:</td><td>Original: inglês</td></tr>
-</table>
+Da República Popular da China:
+
+Original: inglês
 
 Ao assinar os Atos Finais, a Delegação da República Popular da China declara que reserva a seu Governo o direito de tomar quantas medidas julgue necessárias para proteger seus interesses, caso algum Membro não cumpra, de alguma maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Quioto, 1994), os Anexos à mesma ou se as reservas de outros países afetarem seus interesses.
 
 24
 
-<table>
-<tr><td>Da República de Uganda:</td><td>Original: inglês</td></tr>
-</table>
+Da República de Uganda:
+
+Original: inglês
 
 Ao assinar os Atos Finais, a Delegação da República de Uganda reserva a seu Governo o direito de tomar quantas medidas considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de alguma forma, as disposições dos Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), os anexos à mesma, ou se as reservas formuladas por outros países comprometerem os interesses da República de Uganda.
 
 25
 
-<table>
-<tr><td>Da República Unida da Tanzânia:</td><td>Original: inglês</td></tr>
-</table>
+Da República Unida da Tanzânia:
+
+Original: inglês
 
 A Delegação da República Unida da Tanzânia à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994) reserva a seu Governo do direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de alguma forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Quioto, 1994), se as reservas formuladas por outros países Membros comprometerem seus serviços de telecomunicações ou acarretarem um aumento de sua participação no pagamento dos gastos da União.
 
@@ -6900,17 +7488,17 @@ As Delegações dos mencionados países à Conferência de Plenipotenciários (Q
 
 27
 
-<table>
-<tr><td>Da República de Guiné:</td><td>Original: francês</td></tr>
-</table>
+Da República de Guiné:
+
+Original: francês
 
 A Delegação da República de Guiné à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994) reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Quioto, 1994), se as reservas formuladas por outros países comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 28
 
-<table>
-<tr><td>Da República de São Marinho:</td><td>Original: inglês</td></tr>
-</table>
+Da República de São Marinho:
+
+Original: inglês
 
 Ao assinar o Protocolo Final da Constituição e a Convenção da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da República de São Marinho reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros da União não cumpram as disposições da Constituição e da Convenção ou seus Anexos, Protocolos Adicionais e Regulamentos Administrativos.
 
@@ -6918,73 +7506,73 @@ O Governo da República de São Marinho reserva, do mesmo modo, seus direitos di
 
 29
 
-<table>
-<tr><td>Da Comunidade das Bahamas:</td><td>Original: inglês</td></tr>
-</table>
+Da Comunidade das Bahamas:
+
+Original: inglês
 
 A Delegação da Comunidade das Bahamas reserva, em nome de seu Governo, o direito de tomar as medidas que considere necessárias para salvaguardar seus interesses, no caso de outros Membros não cumprirem as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra, 1992), adotados pela Conferência de Plenipotenciários de Quioto (1994), dos instrumentos anexos ou se as reservas formuladas por outros países comprometerem seus serviços de telecomunicações.
 
 30
 
-<table>
-<tr><td>Da República do Malí:</td><td>Original: francês</td></tr>
-</table>
+Da República do Malí:
+
+Original: francês
 
 Ao assinar os Atos Finais da presente Conferência, a Delegação da República do Mali reserva seu Governo o direito de tomar todas as medidas e disposições necessárias para proteger seus direitos e interesses nacionais, caso outros Membros da União não cumpram, de alguma forma, as disposições dos mencionados Atos Finais e comprometam, direta ou indiretamente, os interesses dos serviços de telecomunicações da República do Malí ou ponham em perigo a segurança ou a soberania nacional.
 
 31
 
-<table>
-<tr><td>Da República Islâmica do Paquistão:</td><td>Original: inglês</td></tr>
-</table>
+Da República Islâmica do Paquistão:
+
+Original: inglês
 
 A Delegação da República lslâmica do Paquistão reserva a seu Governo o direito de tomar as medidas que considere necessárias para salvaguardar seus interesses, caso outros Membros não cumpram as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra-1992), adotados pela Conferência de Plenipotenciários de Quioto (1994), ou de seus anexos, se as reservas formuladas por outros Membros comprometerem os serviços de telecomunicações da República do Paquistão ou se traduzirem em um aumento de sua parte contributiva para o pagamento dos gastos da União.
 
 32
 
-<table>
-<tr><td>Da República Árabe da Síria:</td><td>Original: inglês</td></tr>
-</table>
+Da República Árabe da Síria:
+
+Original: inglês
 
 A Delegação da República Árabe da Síria declara que reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Países Membros deixem de cumprir, de alguma forma, as disposições da Constituição e da Convenção Internacional de Telecomunicações (Genebra-1992) e dos Atos Finais da Conferência de Quioto (1994), se as reservas por eles formuladas comprometerem seus serviços de telecomunicações ou acarretarem um eventual aumento de sua contribuição nos gastos da União.
 
 33
 
-<table>
-<tr><td>De São Vicente e Granadinas:</td><td>Original: Inglês</td></tr>
-</table>
+De São Vicente e Granadinas:
+
+Original: Inglês
 
 A Delegação de São Vicente e Granadinas reserva a seu Governo o direito de tomar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra-1992), adotados pela Conferência de Plenipotenciários de Quioto (1994), de seus instrumentos anexos ou se as reservas formuladas por outros peses comprometerem seus serviços de telecomunicações.
 
 34
 
-<table>
-<tr><td>De Barbados:</td><td>Original: inglês</td></tr>
-</table>
+De Barbados:
+
+Original: inglês
 
 A Delegação de Barbados reserva a seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra-1992), adotados pela Conferência de Plenipotenciários de Quioto (1994), dos instrumentos anexos ou se as reservas formuladas por outros países comprometerem seus serviços de telecomunicações.
 
 35
 
-<table>
-<tr><td>Da República do Benin:</td><td>Original: francês</td></tr>
-</table>
+Da República do Benin:
+
+Original: francês
 
 A Delegação da República do Benin à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção vigentes da União Internacional de Telecomunicações, se as reservas formuladas por outros Membros comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua contribuição nos gastos da União.
 
 36
 
-<table>
-<tr><td>Da Guiana:</td><td>Original: inglês</td></tr>
-</table>
+Da Guiana:
+
+Original: inglês
 
 A Delegação da Guiana reserva, em nome de seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra, 1992) adotados pela Conferência de Plenipotenciários de Quioto (1994), dos instrumentos anexos ou se as reservas formuladas por outros países comprometerem seus serviços de telecomunicações.
 
 37
 
-<table>
-<tr><td>Da República da Colômbia:</td><td>Original: espanhol</td></tr>
-</table>
+Da República da Colômbia:
+
+Original: espanhol
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 19 de setembro - 14 de outubro de 1994), a Delegação da República da Colômbia:
 
@@ -6994,9 +7582,9 @@ Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Intern
 
 38
 
-<table>
-<tr><td>Da República lslâmica da Mauritânia:</td><td>Original: francês</td></tr>
-</table>
+Da República lslâmica da Mauritânia:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), a Delegação da República Islâmica da Mauritânia declara que seu Governo se reserva o direto:
 
@@ -7008,9 +7596,9 @@ A Delegação da Mauritânia declara, igualmente, que a Constituição e a Conve
 
 39
 
-<table>
-<tr><td>Do Reino do Camboja:</td><td>Original: francês</td></tr>
-</table>
+Do Reino do Camboja:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), a Delegação do Reino do Camboja reserva a seu Governo:
 
@@ -7024,9 +7612,9 @@ b) se as reservas formuladas por outros Membros puderem comprometer o bom funcio
 
 40
 
-<table>
-<tr><td>De Cuba:</td><td>Original: espanhol</td></tr>
-</table>
+De Cuba:
+
+Original: espanhol
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), a Delegação da República de Cuba declara que:
 
@@ -7042,41 +7630,41 @@ As conseqüências das ações que a Administração Cubana se veja obrigada a a
 
 41
 
-<table>
-<tr><td>Da República Socialista do Vietnã:</td><td>Original: inglês</td></tr>
-</table>
+Da República Socialista do Vietnã:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações, (Quioto, 1994), a Delegação da República Socialista do Vietnâ declara, em nome de seu Governo, que mantém as reservas formuladas na Conferência de Plenipotenciários de Nairobi (1982) e reafirmadas nas Conferências de Plenipotenciários de Nice, 1989 e de Genebra, 1992, da União Internacional de Telecomunicações.
 
 42
 
-<table>
-<tr><td>Do México:</td><td>Original: espanhol</td></tr>
-</table>
+Do México:
+
+Original: espanhol
 
 A Delegação do México reitera e incorpora, mediante referência, as reservas formuladas nas Conferências Administrativas Mundiais e na Conferência de Plenipotenciários Adicional (Genebra, 1992) e declara, do mesmo modo, que se reserva o direito de tomar todas as medidas que estime pertinentes para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as modificações à Constituição e à Convenção, já acordadas ou qualquer outra decisão adotada pela Conferência, se as reservas, por eles formuladas, prejudicarem seus serviços de telecomunicações ou acarretarem um aumento da contribuição do México para o pagamento dos gastos da União.
 
 43
 
-<table>
-<tr><td>Da República da Coréia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Coréia:
+
+Original: inglês
 
 A Delegação da República da Coréia reserva, a seu Governo, o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de qualquer maneira, as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra, 1992) adotadas pela Conferência de Plenipotenciários de Quioto (1994), de seus anexos ou se as reservas formuladas por outros países comprometerem seus interesses.
 
 44
 
-<table>
-<tr><td>Da Tailândia:</td><td>Original: inglês</td></tr>
-</table>
+Da Tailândia:
+
+Original: inglês
 
 A Delegação da Tailândia reserva, a seu Governo, o direito de adotar todas as medidas que considere necessárias para salvaguardar seus interesses, caso outros Membros não cumpram, de qualquer maneira, os requisitos dos instrumentos que emendam a Constituição e a Convenção da União Internacional de Telecomunicações adotados em Quioto, 1994, se as reservas formuladas por outros países membros prejudicarem seus serviços de telecomunicações ou acarretarem um aumento da sua contribuição para custear os gastos da União.
 
 45
 
-<table>
-<tr><td>Da República do Níger:</td><td>Original: francês</td></tr>
-</table>
+Da República do Níger:
+
+Original: francês
 
 A Delegação do Níger à Conferência de Plenipotenciários da União Internacional de Telecomunicações, (Quioto, 1994) reserva a seu Governo o direito:
 
@@ -7086,9 +7674,9 @@ A Delegação do Níger à Conferência de Plenipotenciários da União Internac
 
 46
 
-<table>
-<tr><td>Do Peru:</td><td>Original: espanhol</td></tr>
-</table>
+Do Peru:
+
+Original: espanhol
 
 A Delegação do Peru reserva a seu Governo o direito de:
 
@@ -7100,9 +7688,9 @@ A Delegação do Peru reserva a seu Governo o direito de:
 
 47
 
-<table>
-<tr><td>Da República do Senegal:</td><td>Original: francês</td></tr>
-</table>
+Da República do Senegal:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários, realizada em Quioto de 19 de setembro a 14 de outubro de 1994, a delegação da República do Senegal declara, em nome de seu Governo, que não aceita nenhuma conseqüência das reservas formuladas por outros governos que tenham como resultado o aumento de sua parte contributiva nos gastos da União.
 
@@ -7110,9 +7698,9 @@ Ademais, a República do Senegal se reserva o direito de tomar quantas medidas c
 
 48
 
-<table>
-<tr><td>Da Áustria, Bélgica e Luxemburgo:</td><td>Original: francês</td></tr>
-</table>
+Da Áustria, Bélgica e Luxemburgo:
+
+Original: francês
 
 1\. As Delegações dos países acima mencionados, declaram que mantêm as declarações e reservas formuladas no final da Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) e que estas declarações e reservas se aplicam, do mesmo modo, aos instrumentos de emenda da Constituição e da Convenção, adotados pela Conferência de Plenipotenciários (Quioto, 1994).
 
@@ -7120,9 +7708,9 @@ Ademais, a República do Senegal se reserva o direito de tomar quantas medidas c
 
 49
 
-<table>
-<tr><td>Da Confederação Suíça e do Principado de Liechtenstein:</td><td>Original: francês</td></tr>
-</table>
+Da Confederação Suíça e do Principado de Liechtenstein:
+
+Original: francês
 
 1\. As Delegações dos países acima mencionados declaram que mantêm as declarações e reservas formuladas ao final da Conferência de Plenipotenciários Adicional - da União Internacional de Telecomunicações (Genebra 1992) e que estas declarações e reservas se aplicam, do mesmo modo, aos instrumentos de emenda da Constituição e da Convenção adotados pela Conferência de Plenipotenciários (Quioto, 1994).
 
@@ -7130,9 +7718,9 @@ Ademais, a República do Senegal se reserva o direito de tomar quantas medidas c
 
 50
 
-<table>
-<tr><td>Da República de Cabo Verde:</td><td>Original: francês</td></tr>
-</table>
+Da República de Cabo Verde:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações, (Quioto, 1994), a Delegação de Cabo Verde declara, em nome de seu Governo:
 
@@ -7144,9 +7732,9 @@ c) que reserva, ademais, a seu Governo, o direito de formular reservas específi
 
 51
 
-<table>
-<tr><td>Da República de Angola:</td><td>Original: francês</td></tr>
-</table>
+Da República de Angola:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação de Angola declara, em nome de seu Governo;
 
@@ -7158,9 +7746,9 @@ c) que reserva, ademais, a seu Governo, o direito de formular reservas específi
 
 52
 
-<table>
-<tr><td>Da República de Cingapura:</td><td>Original: inglês</td></tr>
-</table>
+Da República de Cingapura:
+
+Original: inglês
 
 A Delegação da República de Cingapura reserva, a seu Governo, o direito de tomar as medidas que considere necessárias para proteger seus interesses, caso outros Membros da União não cumpram, de qualquer maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), emendadas pelos Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), os anexos e Protocolos adjuntos à mesma, se as reservas formuladas por outros Membros da União comprometerem os serviços de telecomunicações da República de Cingapura, afetarem sua soberania ou acarretarem um aumento de sua contribuição nos gastos da União.
 
@@ -7168,17 +7756,17 @@ A Delegação da República de Cingapura reserva, ademais, a seu Governo, o dire
 
 53
 
-<table>
-<tr><td>Da República Sul-Africana:</td><td>Original: inglês</td></tr>
-</table>
+Da República Sul-Africana:
+
+Original: inglês
 
 A Delegação da República Sul-Africana declara que reserva, a seu Governo, o direito, de tomar as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicacões (Genebra, 1992), seus anexos ou Protocolos adjuntos à mesma, modificados pelos Atos Finais da Conferência de Plenipotenciários de Quioto 1994 ou se os atos ou as reservas de outros países comprometerem seus serviços de telecomunicações.
 
 54
 
-<table>
-<tr><td>Da República da Polónia:</td><td>Original: francês</td></tr>
-</table>
+Da República da Polónia:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Intemacional de Telecomunicações (Quioto, 1994), a Delegação da República da Polônia declara, em nome de seu Governo, que:
 
@@ -7190,41 +7778,41 @@ Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Intema
 
 55
 
-<table>
-<tr><td>Da República Checa:</td><td>Original: inglês</td></tr>
-</table>
+Da República Checa:
+
+Original: inglês
 
 A Delegação da República Checa reserva, a seu Governo, o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros não participem do pagamento dos gastos da União ou deixem de cumprir as disposições da Constituição e da Convenção da UIT, seus anexos ou Protocolos ou os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), adjuntas a esses instrumentos.
 
 56
 
-<table>
-<tr><td>Da República Eslovaca:</td><td>Original: inglês</td></tr>
-</table>
+Da República Eslovaca:
+
+Original: inglês
 
 A Delegação da República Eslovaca reserva, a seu Governo, o direito de tomar todas as medidas que considere necessárias para salvaguardar seus interesses, caso outros Membros não contribuam para custear os gastos da União, não cumpram, de qualquer maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações, seus anexos ou Protocolos, os Atos Finais de Conferência de Plenipotenciários (Quioto, 1994) ou se as reservas, formuladas por outros Membros comprometerem seus serviços de telecomunicações.
 
 57
 
-<table>
-<tr><td>Da Papua Nova Guiné:</td><td>Original: ingIês</td></tr>
-</table>
+Da Papua Nova Guiné:
+
+Original: ingIês
 
 A Delegação da Papua Nova Guiné reserva, a seu Governo, o direito de tomar quantas medidas sejam necessárias para proteger seus interesses, caso outros Membros não contribuíam para o pagamento dos gastos da União ou não cumpram, de qualquer outra forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992) emendadas pela Conferência de Plenipotenciários de Quioto, 1994, seus anexos ou Protocolos adjuntos à mesma ou se as reservas formuladas por outros países comprometerem os serviços de telecomunicações da Papua Nova Guiné.
 
 58
 
-<table>
-<tr><td>Do Principado de Mônaco:</td><td>Original: francês</td></tr>
-</table>
+Do Principado de Mônaco:
+
+Original: francês
 
 A Delegação do Principado de Mônaco reserva, a seu Governo, o direito de tomar todas as medidas e disposições que julgue necessárias para proteger seus interesses nacionais, caso certos Membros não contribuam para o pagamento dos gastos da União, ou de qualquer outra forma que seja não respeitem as disposições de emendas da Constituição e da Convenção da União Internacional de Telecomunicações (Quioto, 1994) ou se as reservas formuladas por outros países puderem comprometer o bom funcionamento de seus serviços de telecomunicações ou aumentar sua contribuição nos gastos da União.
 
 59
 
-<table>
-<tr><td>Da República de Côte d'Ivoire:</td><td>Original: francês</td></tr>
-</table>
+Da República de Côte d'Ivoire:
+
+Original: francês
 
 A República de Côte d'lvoire reserva a seu Governo o direito de:
 
@@ -7236,9 +7824,9 @@ c) formular reservas ou recusar toda modificação feita à presente Conferênci
 
 60
 
-<table>
-<tr><td>Da República da Bulgária:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Bulgária:
+
+Original: inglês
 
 A Delegação da República da Bulgária à Conferência de Plenipotenciários da União Intemacional de Telecomunicações (Quioto, 1994) reserva, a seu Governo, o direito:
 
@@ -7250,33 +7838,33 @@ A Delegação da República da Bulgária à Conferência de Plenipotenciários d
 
 61
 
-<table>
-<tr><td>Do Canadá:</td><td>Original: inglês</td></tr>
-</table>
+Do Canadá:
+
+Original: inglês
 
 A Delegação do Canadá declara que reserva, a seu Governo, o direito de fazer declarações ou reservas ao depositar seus instrumentos de ratificação dos Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994).
 
 62
 
-<table>
-<tr><td>Da República de Fiji:</td><td>Original: inglês</td></tr>
-</table>
+Da República de Fiji:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994) e tomando nota das disposições do número 16 do artigo 32 da Convenção, o delegado da República de Fiji reserva a seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer maneira, as obrigações resultantes da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra 1992), de seus anexos e Protocolos, se as reservas formuladas por outros países comprometerem os serviços de telecomunicações de Fiji ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 63
 
-<table>
-<tr><td>Da Itália:</td><td>Original: inglês</td></tr>
-</table>
+Da Itália:
+
+Original: inglês
 
 A Delegação da Itália reserva a seu Governo o direito de tomar quantas medidas julgue necessárias para proteger seus interesses, caso certos países não contribuam para o pagamento dos gastos da União ou não cumpram, de qualquer forma, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992) emendadas pelos Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), seus anexos ou Protocolos, se as reservas formuladas por outros países puderem ter como conseqüência um aumento de sua contribuição para o pagamento dos gastos da União ou por último, quando as reservas de outros países comprometerem o bom funcionamento de seus serviços de telecomunicações.
 
 64
 
-<table>
-<tr><td>Da República das Filipinas:</td><td>Original: inglês</td></tr>
-</table>
+Da República das Filipinas:
+
+Original: inglês
 
 A Delegação da República das Filipinas reserva a seu Governo o direito de tomar todas as medidas que considere necessárias e suficientes, de conformidade com as leis constitucionais de seu país, para proteger seus interesses, caso as reservas formuladas por representantes de outros Estados comprometam o funcionamento de seus serviços de telecomunicações ou prejudiquem seus direitos como país soberano.
 
@@ -7284,67 +7872,65 @@ A Delegação de Filipinas reserva, também, a seu Governo, o direito de submete
 
 65
 
-<table>
-<tr><td>Do Reino da Arábia Saudita, do Estado de Bahrein, dos Emirados Árabes Unidos, do Estado do Kuaite, do Sultanato de Omã e do Estado do Catar</td><td>Original: inglês</td></tr>
-</table>
+Do Reino da Arábia Saudita, do Estado de Bahrein, dos Emirados Árabes Unidos, do Estado do Kuaite, do Sultanato de Omã e do Estado do Catar
+
+Original: inglês
 
 Estas Delegações à Conferência de Plenipotenciários (Quioto, 1994), declaram que reservam a seus Governos o direito de tomar todas as medidas que considerem necessárias para proteger seus interesses, caso outros Membros não participem do pagamento dos gastos da União e deixem de cumprir, de qualquer forma, os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), as Resoluções adjuntas às mesmas ou se as reservas formuladas por outros Membros comprometerem seus serviços de telecomunicações.
 
 66
 
-<table>
-<tr><td>Da República da Hungria:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Hungria:
+
+Original: inglês
 
 A Delegação da República da Hungria reserva, a seu Governo, o direito de não aceitar nenhuma medida financeira, que possa supor aumentos injustificados de sua contribuição para o pagamento dos gastos da União e o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações, que comprometem o devido funcionamento de seus serviços de telecomunicações, assim como o direito de formular reservas e declarações concretas antes da ratificação dos Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994).
 
 67
 
-<table>
-<tr><td>Da República Democrática Popular do Laos:</td><td>Original: francês</td></tr>
-</table>
+Da República Democrática Popular do Laos:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da República Democrática Popular do Laos reserva, a seu Governo, o direito de tomar todas as medidas que julgue necessárias para proteger seus interesses, caso certos Membros da União não cumpram as disposições dos Atos Finais, da Constituição ou da Convenção da União Internacional de Telecomunicações, de seus anexos, Protocolos ou se as reservas formuladas por outros países comprometerem o bom funcionamento de seus serviços de telecomunicações.
 
 68
 
-<table>
-<tr><td></td><td></td></tr>
-<tr><td>Da Dinamarca, República da Estônia, Finlãndia, Islândia, República da Letônia, Noruega e Suécia:</td><td>Original: inglês</td></tr>
-</table>
+Da Dinamarca, República da Estônia, Finlãndia, Islândia, República da Letônia, Noruega e Suécia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários de Quioto, as delegações dos mencionados países declaram, oficialmente, que mantêm as declarações e reservas (nº 46) formuladas por seus países ao assinarem os Atos Finais da Conferência de Plenipotenciários, Adicional da União Internacional de Telecomunicações (Genebra, 1992).
 
 69
 
-<table>
-<tr><td></td><td></td></tr>
-<tr><td>Do Reino Unido da Grã Bretanha e Irlanda do Norte:</td><td>Original: Inglês</td></tr>
-</table>
+Do Reino Unido da Grã Bretanha e Irlanda do Norte:
+
+Original: Inglês
 
 A Delegação do Reino Unido da Grã Bretanha e Irlanda do Norte reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros países Membros deixem de cumprir, de alguma forma, a Constituição e a Convenção da União Internacional de Telecomunicações (Genebra, 1992), emendadas pela Conferência de Plenipotenciários, (Quioto, 1994), seus anexos ou se as reservas formuladas por outros países comprometerem seus interesses.
 
 70
 
-<table>
-<tr><td>Da República de Belarus, Mongólia, Federação da Rússia e Ucrânia:</td><td>Original russo</td></tr>
-</table>
+Da República de Belarus, Mongólia, Federação da Rússia e Ucrânia:
+
+Original russo
 
 As Delegações dos mencionados países reservam a seus respectivos Governos o direito de efetuarem qualquer declaração ou reserva, ao ratificar as emendas da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), assim como o direito de tomarem todas as medidas que considerem necessárias para proteger seus interesses, caso outros Membros da União deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Quioto, 1994), se as reservas formuladas por outros Membros comprometerem o funcionamento dos serviços de telecomunicações dos mencionados países ou acarretarem um aumento de sua contribuição anual para custear os gastos da União.
 
 71
 
-<table>
-<tr><td>Da Turquia:</td><td>Original: inglês</td></tr>
-</table>
+Da Turquia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), a Delegação da República da Turquia reserva, a seu Governo, o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as disposições dos instrumentos de emenda à Constituição e à Convenção (Genebra, 1992), adotados pela Conferência de Plenipotenciários de Quioto, seus anexos e Protocolos adjuntos à mesma, se as reservas formuladas por outros Membros comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 72
 
-<table>
-<tr><td>Da República do Quênia:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Quênia:
+
+Original: inglês
 
 A Delegação da República do Quênia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias ou apropriadas para salvaguardar e proteger seus interesses, caso outros Membros deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), das emendas introduzidas nestes instrumentos pela Conferência de Plenipotenciários (Quioto, 1994) e de quaisquer outros instrumentos a eles associados.
 
@@ -7356,9 +7942,9 @@ A Delegação da República do Quênia recorda a reserva número 90 da Convenç�
 
 73
 
-<table>
-<tr><td>Da Grécia:</td><td>Original: francês</td></tr>
-</table>
+Da Grécia:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da Grécia declara:
 
@@ -7374,9 +7960,9 @@ c) não aceitar nenhuma conseqüência de toda reserva formulada por outras Part
 
 74
 
-<table>
-<tr><td>Da República Federal da Alemanha:</td><td>Original: inglês</td></tr>
-</table>
+Da República Federal da Alemanha:
+
+Original: inglês
 
 1\. A Delegação da República Federal da Alemanha reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não participem do pagamento dos gastos da União ou deixem de cumprir, de qualquer forma, os instrumentos de Quioto, 1994, pelos quais são emendadas as disposições legais da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), se as reservas formuladas por outros países acarretarem um de aumento de sua contribuição nos gastos da União ou comprometerem seus serviços de telecomunicações.
 
@@ -7384,9 +7970,9 @@ c) não aceitar nenhuma conseqüência de toda reserva formulada por outras Part
 
 75
 
-<table>
-<tr><td>Da Tunísia:</td><td>Original: francês</td></tr>
-</table>
+Da Tunísia:
+
+Original: francês
 
 A Delegação da Tunísia à Conferência de Plenipotenciários (Quioto, 1994) reserva a seu Governo o direito:
 
@@ -7396,9 +7982,9 @@ A Delegação da Tunísia à Conferência de Plenipotenciários (Quioto, 1994) r
 
 76
 
-<table>
-<tr><td>Da República da Namíbia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Namíbia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), sujeitas à retificação oficial, a Delegação da Namíbia reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros deixem de cumprir, de qualquer forma, as disposições da Constituição e da Convenção, de seus anexos ou Protocolos, se as reservas formuladas por outros países comprometerem o funcionamento dos serviços de telecomunicações da Namíbia ou acarretarem um aumento de sua contribuição nos gastos da União.
 
@@ -7408,9 +7994,9 @@ Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), 
 
 78
 
-<table>
-<tr><td>Da República da Índia:</td><td>Original: inglês</td></tr>
-</table>
+Da República da Índia:
+
+Original: inglês
 
 1\. Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da República da Índia não aceita, para seu Governo, nenhuma das repercussões financeiras que possam derivar das reservas formuladas pelos Membros, no que concerne às finanças da União.
 
@@ -7418,9 +8004,9 @@ Ao assinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), 
 
 79
 
-<table>
-<tr><td>Da Nova Zelândia:</td><td>Original: inglês</td></tr>
-</table>
+Da Nova Zelândia:
+
+Original: inglês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação da Nova Zelândia reitera a Declaração e Reserva nº 29 feita ao assinar os Atos Finais da Conferência de Plenipotenciários (Genebra 1992) em relação a qualquer emenda efetuada à Constituição e à Convenção de Genebra pelos instrumentos de Quioto.
 
@@ -7428,9 +8014,9 @@ Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Intern
 
 Da República Argelina Democrática e Popular, do Reino da Arábia Saudita, da Comunidade das Bahamas, do Estado de Bahrein, de Barbados, da República de Cameroun, da República de Côte d'lvoire, dos Emirados Árabes Unidos, da Guiana, da República da Índia, da República lslâmica do Irã, do Reino Hachemita da Jordânia, da República do Quênia, do Estado do Kuaite, do Líbano, do Reino do Marrocos, do Sultanato de Omã, da República lslâmica do Paquistão, da Papua Nova Guiné, do Estado do Catar, da República Árabe Síria, de São Vicente e Granadinas, da República do Senegal, da Tailândia e da República do
 
-<table>
-<tr><td>Zimbábue:</td><td>Original: francês</td></tr>
-</table>
+Zimbábue:
+
+Original: francês
 
 As Delegações acima citadas consideram que os Regulamentos Administrativos, a que se faz referência no número 31 da Constituição, são o Regulamento de Radiocomunicações e o Regulamento das Telecomunicações Internacionais, com as modificações introduzidas pelas conferências competentes, reunidas após a Conferência de Plenipotenciários Adicional (Genebra, 1992). Foram submetidas à presente Conferência propostas orientadas para afirmar o caráter obrigatório dos textos revisados dos Regulamentos Administrativos, propostas que não prosperaram, na Comissão competente, devido apenas ao desejo manifesto de reduzirem-se, ao mínimo, as emendas introduzidas na Constituição pela presente Conferência. No decorrer dos debates acerca destas propostas, ninguém colocou em dúvida o caráter de "tratado internacional" que liga todos os Membros signatários aos sucessivos textos revisados.
 
@@ -7442,9 +8028,9 @@ A Conferência reconheceu que existe um vazio jurídico em relação aos Membros
 
 81
 
-<table>
-<tr><td>De Portugal:</td><td>Original: francês</td></tr>
-</table>
+De Portugal:
+
+Original: francês
 
 Ao assinar os Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), a Delegação de Portugal declara, em nome de seu Governo que:
 
@@ -7456,17 +8042,17 @@ c) reserva, ademais, a seu Governo, o direito de formular reservas específicas 
 
 82
 
-<table>
-<tr><td>Do Japão:</td><td>Original: inglês</td></tr>
-</table>
+Do Japão:
+
+Original: inglês
 
 A Delegação do Japão reserva a seu Governo o direito de tomar quantas medidas considere necessárias para proteger seus interesses, caso outros Membros não participem dos gastos da União, deixem de cumprir, de alguma forma, as emendas à Constituição e à Convenção da União Internacional de Telecomunicações adotadas pela Conferência de Plenipotenciários (Quioto, 1994) ou se as reservas formuladas por outros países prejudicarem, de qualquer maneira, seus interesses.
 
 83
 
-<table>
-<tr><td>Da República Federal de Nigéria:</td><td>Original: inglês</td></tr>
-</table>
+Da República Federal de Nigéria:
+
+Original: inglês
 
 A Delegação da República Federal de Nigéria à Conferência de Plenipotenciários (Quioto, 1994) declara que reserva a seu Governo o direito de:
 
@@ -7476,9 +8062,9 @@ A Delegação da República Federal de Nigéria à Conferência de Plenipotenci�
 
 84
 
-<table>
-<tr><td>Dos Estados Unidos da América:</td><td>Original: inglês</td></tr>
-</table>
+Dos Estados Unidos da América:
+
+Original: inglês
 
 Os Estados Unidos da América referem-se aos números 445 e 446 da Convenção (Genebra, 1992) e observa que, ao examinar os Atos Finais da Conferência de Plenipotenciários (Quioto, 1994), os Estados Unidos podem julgar necessário formular declarações adicionais ou reservas. Em conseqüência, os Estados Unidos da América se reservam o direito de formular declarações ou reservas concretas adicionais, no momento de depositar seu instrumento de ratificação das emendas à Constituição e à Convenção (Genebra, 1992).
 
@@ -7486,25 +8072,25 @@ Os Estados Unidos da América reiteram e incorporam, por referência, todas as r
 
 O ato da assinatura ou a eventual ratificação posterior das emendas da Constituição e da Convenção, adotadas pela Conferência de Plenipotenciários de Quioto, 1994, não significa que os Estados Unidos da América consintam em obrigar-se pelos regulamentos administrativos adotados antes da data da assinatura dos presentes Atos Finais. Os Estados Unidos da América não considerarão, tampouco, que consintam em obrigar-se pelas revisões dos regulamentos administrativos, parciais ou totais, adotadas após à data de assinatura dos presentes Atos Finais, sem notificação concreta à União Internacional de Telecomunicações de seu consentimento em obrigar-se.
 
-<table>
-<tr><td>Da França:</td><td>Original: francês</td></tr>
-</table>
+Da França:
+
+Original: francês
 
 A Delegação Francesa reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros não contribuam para o pagamento dos gastos da União ou deixem de cumprir, de qualquer modo, as disposições das emendas à Constituição e à Convenção da União Internacional de Telecomunicações (Genebra, 1992), adotadas pela presente Conferência (Quioto, 1994), quando as reservas formuladas por outros países comprometerem o bom funcionamento de seus serviços de telecomunicações ou acarretarem um aumento de sua parte contributiva nos gastos da União.
 
 86
 
-<table>
-<tr><td>Da República do Chipre:</td><td>Original: inglês</td></tr>
-</table>
+Da República do Chipre:
+
+Original: inglês
 
 A Delegação da República do Chipre reserva a seu Governo o direito de adotar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros da União não contribuam para o pagamento dos gastos da União ou não cumpram, de outra maneira, as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), os anexos ou os Protocolos adjuntos, modificados pelos instrumentos de Quioto de 1994, se as reservas formuladas por outros países puderem acarretar um aumento de sua parte contributiva nos gastos da União, comprometerem seus serviços de telecomunicações ou quando qualquer outra medida tomada, ou que se possa tomar, por qualquer pessoa, física ou jurídica, afetar direta ou indiretamente sua soberania.
 
 A Delegação da República do Chipre reserva, ademais, a seu Governo, o direito de formular qualquer outra declaração ou reserva, até o momento em que o instrumento de Quioto, 1994, pelo qual se emenda a Constituição e a Convenção da União Internacional de Telecomunicações (Genebra, 1992), seja ratificado pela República do Chipre.
 
-<table>
-<tr><td>Do Reino dos Países Baixos:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino dos Países Baixos:
+
+Original: inglês
 
 87
 
@@ -7516,25 +8102,25 @@ A Delegação dos Países Baixos declara oficialmente que, com respeito ao artig
 
 88
 
-<table>
-<tr><td>Da República Árabe do Egito:</td><td>Original: inglês</td></tr>
-</table>
+Da República Árabe do Egito:
+
+Original: inglês
 
 A Delegação da República Árabe do Egito reserva a seu Governo o direito de tomar todas as medidas que considere necessárias para proteger seus interesses, caso outros Membros, atuais ou futuros, deixem de cumprir as disposições da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), de seus anexos ou Protocolos adjuntos, emendados pelo instrumento de Quioto (1994) ou se as reservas formuladas por outros Membros comprometerem o funcionamento eficaz dos seus serviços de telecomunicações.
 
 89
 
-<table>
-<tr><td>Da Irlanda:</td><td>Original: inglês</td></tr>
-</table>
+Da Irlanda:
+
+Original: inglês
 
 Tendo tomado nota das declarações e reservas formuladas por certos Membros, o Governo de Irlanda reitera as reservas que formulou ao assinar os Atos Finais da Conferência de Plenipotenciários Adicional da União Internacional de Telecomunicações (Genebra, 1992) e se reserva, ademais, o direito de tomar as medidas que considere necessárias para proteger seus interesses, caso outros Membros não cumpram, de algum modo, as obrigações resultantes da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992), com as emendas introduzidas pela Conferência de Plenipotenciários de Quioto, 1994 ou seus anexos.
 
 90
 
-<table>
-<tr><td>Do Estado de Israel:</td><td>Original: Inglês</td></tr>
-</table>
+Do Estado de Israel:
+
+Original: Inglês
 
 1\. A Declaração 26 formulada por certas Delegações nos Atos Finais encontra-se em flagrante contradição com os princípios e fins da União Internacional de Telecomunicações e carece, portanto, de toda validade jurídica.
 
@@ -7550,9 +8136,9 @@ Do mesmo modo, a Delegação de Israel observa que a Declaração 26 não se ref
 
 91
 
-<table>
-<tr><td>De Bangladesh:</td><td>Original: inglês</td></tr>
-</table>
+De Bangladesh:
+
+Original: inglês
 
 Após examinar as Declarações contidas no Documento 299, a Delegação de Bangladesh reserva, a seu Governo, o direito de tomar as medidas que considere necessárias para proteger seus interesses, caso algum Membro ou membro não cumpra, de algum modo, as disposições do instrumento de emenda à Constituição e à Convenção da União Internacional de Telecomunicações, adotado na Conferência de Plenipotenciários de Quioto, (1994), se as reservas formuladas pelos Membros ou membros comprometerem o funcionamento técnico ou comercial dos serviços de telecomunicações de Bangladesh ou tiverem, como resultado, um aumento da sua contribuição para o pagamento dos gastos da União.
 
@@ -7560,9 +8146,9 @@ Após examinar as Declarações contidas no Documento 299, a Delegação de Bang
 
 Da República Federal da Alemanha, da Austrália, da Áustria, da Bélgica, do Canadá, da República do Chipre, da Dinamarca, da República da Estônia, dos Estados Unidos de América, da Finlândia, da França, da Grécia, da República da Hungria, da Irlanda, do Estado de Israel, da Itália, do Japão, da República da Letônia, do Principado de Liechtenstein, de Luxemburgo, de Malta, do Principado de Mônaco, da Noruega, da Nova Zelândia, do Reino dos Países Baixos, da República de Polônia, de Portugal, do Reino Unido da Grã Bretanha e
 
-<table>
-<tr><td>Irlanda do Norte, da Suécia, da Confederação Suíça e da Turquia.</td><td>Original: francês</td></tr>
-</table>
+Irlanda do Norte, da Suécia, da Confederação Suíça e da Turquia.
+
+Original: francês
 
 As Delegações mencionadas, com referência às Declarações feitas pela República da Colômbia (Nº 37) e República do Quênia (Nº 72) consideram que, na medida em que estas Declarações e quaisquer outras, de teor análogo, se referem à Declaração feita em Bogotá em 3 de dezembro de 1976 pelos países equatoriais e ao direito soberano reivindicado por esses países sobre segmentos da órbita dos satélites geoestacionários, as referidas reivindicações não podem ser reconhecidas pela presente Conferência.
 
@@ -7572,9 +8158,9 @@ As Delegações acima mencionadas desejam também declarar que a referência no 
 
 93
 
-<table>
-<tr><td>Da República Federal da Alemanha, da Finlândia, da França, da Islândia, da Itália, da República da Letônia, do Principado de Mônaco, do Reino dos Países Baixos, da Romênia, do Reino Unido da Grã Bretanha e Irlânda do Norte e da Turquia:</td><td>Original: inglês</td></tr>
-</table>
+Da República Federal da Alemanha, da Finlândia, da França, da Islândia, da Itália, da República da Letônia, do Principado de Mônaco, do Reino dos Países Baixos, da Romênia, do Reino Unido da Grã Bretanha e Irlânda do Norte e da Turquia:
+
+Original: inglês
 
 No que se refere às Declarações de diversas delegações acerca da formulação de reservas aos Atos Finais da presente Conferência, no momento de proceder ao depósito de seus instrumentos de ratificação ou antes dessa providência, as Delegações acima citadas reservam, a seus Governos respectivos, o direito de não reconhecer as reservas ou declarações formuladas por outros Membros da União, após a assinatura dos Atos Finais da presente Conferência.
 
@@ -7582,65 +8168,65 @@ No que se refere às Declarações de diversas delegações acerca da formulaç�
 
 Da República Federal da Alemanha, da Bélgica, da República do Chipre, da Dinamarca, da República da Estônia, da Finlândia, da França, da Grécia, da Irlanda, da Islândia, da Itália, da República da Letônia, do Principado de Liechtenstein, de Luxemburgo, do Principado de Mônaco, da Noruega, do Reino dos Países Baixos, da República da Polônia, da Romênia, do Reino Unido da Grã Bretanha e Irlanda do Norte, da Suécia, da Confederação Suíça e da
 
-<table>
-<tr><td>Turquia:</td><td>Original: inglês</td></tr>
-</table>
+Turquia:
+
+Original: inglês
 
 As Delegações acima mencionadas, com referência à Declaração número 80 formulada pela República Popular da Argélia, Comunidade das Bahamas, Estado de Bahrein, Barbados, República de Cameroun, República de Côte d'lvoire, Guiana, República da Índia, República lslâmica do Irã, Reino Hachemita da Jordânia, República do Quênia, Cuba, Líbano, Reino do Marrocos, Sultanato de Omã, República lslâmica do Paquistão, Papua Nova Guiné, Estado do Catar, São Vicente e Granadinas, Reino da Arábia Saudita, República do Senegal, República Árabe Síria, Tailândia, Emirados Árabes Unidos e República de Zimbábue, observam que a referida Declaração não foi formulada no momento da assinatura da Constituição e da Convenção da União Internacional de Telecomunicações (Genebra, 1992) e não tem nenhum efeito no tocante à aplicação do artigo 54 da Constituição às Delegações que formulam a presente Declaração.
 
 95
 
-<table>
-<tr><td>Da Austrália:</td><td>Original: inglês</td></tr>
-</table>
+Da Austrália:
+
+Original: inglês
 
 Examinadas as declarações e reservas constantes do Documento 299 da Conferência, a Delegação de Austrália, reserva a seu Governo o direito de formular declarações ou reservas no momento de proceder ao depósito dos instrumentos de ratificação dos Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994).
 
 96
 
-<table>
-<tr><td>Da República Árabe Popular e Socialista da Líbia:</td><td>Original: inglês</td></tr>
-</table>
+Da República Árabe Popular e Socialista da Líbia:
+
+Original: inglês
 
 Examinadas as declarações e reservas mencionadas no Documento 299, a Delegação da República Árabe Popular e Socialista da Líbia à Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), reserva a seu Governo o direito de adotar as medidas que considere necessárias para proteger seus interesses nacionais e seus serviços de telecomunicações, caso algum Membro não cumpra as disposições dos Atos Finais da Conferência de Quioto (1994). Do mesmo modo, reserva a seu Governo o direito de formular as reservas que estime necessárias antes da ratificação dos mencionados Atos Finais ou se alguma disposição for contrária à Constituição da República Árabe Popular e Socialista da Líbia.
 
 97
 
-<table>
-<tr><td>Dos Estados Unidos da América:</td><td>Original: inglês</td></tr>
-</table>
+Dos Estados Unidos da América:
+
+Original: inglês
 
 Com referência à Declaração nº 80, assinada por numerosas delegações, os Estados Unidos da América não estão de acordo com diversos pontos expressos na mesma, a qual, por estar orientada para o futuro e por não ter sido formulada no momento da assinatura da Constituição e do Convenção da União Internacional de Telecomunicações (Genebra, 1992), não afeta a aplicação do artigo 54 da Constituição (Genebra, 1992) aos Estados Unidos da América.
 
 98
 
-<table>
-<tr><td>Dos Estados Unidos da América:</td><td>Original: inglês</td></tr>
-</table>
+Dos Estados Unidos da América:
+
+Original: inglês
 
 Com referência à Declaração número 40 formulada pela Delegação de Cuba, os Estados Unidos da América reiteram seu direito de transmitir, em direção a Cuba, em freqüências apropriadas, não sujeitas à interferências deliberadas ou à outro tipo de interferência prejudicial e reservam seus direitos no que diz respeito à atual interferência, assim como a qualquer interferência futura, por parte de Cuba, na radiodifusão a partir dos Estados Unidos. Do mesmo modo, os Estados Unidos da América assinalam que sua presença em Guantánamo está baseada em um acordo internacional em vigor. Os Estados Unidos da América se reservam o direito de atender, como tem feito até a presente data, às suas necessidades de radiocomunicações naquela localidade.
 
 99
 
-<table>
-<tr><td>Do Reino de Tonga:</td><td>Original: inglês</td></tr>
-</table>
+Do Reino de Tonga:
+
+Original: inglês
 
 Com referência às declarações e reservas mencionadas no Documento 299, de 13 de outubro de 1994, a Delegação do Reino de Tonga reserva, a seu Governo, o direito de adotar as medidas que considere necessárias para proteger seus interesses, caso algum Membro não cumpra as disposições do instrumento de emenda à Constituição e à Convenção (Genebra, 1992) adotado pela Conferência de Plenipotenciários (Quioto, 1994) ou quando as reservas formuladas por outras administrações comprometerem o bom funcionamento dos serviços de telecomunicações de Tonga.
 
 100
 
-<table>
-<tr><td>Da Ex-República Yugoslava da Macedônia:</td><td>Original: inglês</td></tr>
-</table>
+Da Ex-República Yugoslava da Macedônia:
+
+Original: inglês
 
 Examinadas as declarações e reservas citadas no Documento 299 da Conferência, a Delegação da República da Macedônia reserva a seu Governo o direito de tomar as medidas que considere necessárias para proteger seus interesses, caso algum Membro, presente ou futuro, não contribua para o pagamento dos gastos da União ou deixe de cumprir, de qualquer forma, as disposições dos instrumentos de emenda à Constituição e à Convenção da UIT (Genebra, 1992) adotados em Quioto em 1994, se as reservas formuladas por outros países puderem aumentar a parte contributiva da República da Macedônia para pagamento dos gastos da União ou puserem em perigo seus serviços de telecomunicações.
 
 101
 
-<table>
-<tr><td>Da República de Gana:</td><td>Original: inglês</td></tr>
-</table>
+Da República de Gana:
+
+Original: inglês
 
 À luz das declarações mencionadas no Documento 299 da Conferência, a Delegação da República de Gana, ao proceder à assinatura dos Atos Finais da Conferência de Plenipotenciários da União Internacional de Telecomunicações (Quioto, 1994), reserva a seu Governo o direito de tomar as medidas que considere apropriadas para proteger seus interesses.
 
@@ -10242,17 +10828,17 @@ que os salários dos funcionários nomeados devem ser fixados, a um nível adequ
 
 1\. que, com exceção das medidas que possa propor o Conselho aos Membros da União de acordo com as instruções que seguem, o Secretário-Geral, o Vice-Secretário-Geral, os Diretores dos Escritórios de Radiocomunicações, de Normalização das Telecomunicações e de Desenvolvimento das Telecomunicações recebam, a partir de 01 de janeiro de 1995, salários fixados em relação ao maior salário pago ao pessoal nomeado, com base nos percentuais seguintes:
 
-<table>
-<tr><td>Secretário Geral</td><td>134%</td></tr>
-</table>
+Secretário Geral
+
+134%
 
 Vice-Secretário-Geral, Diretores dos Escritórios de Radiocomunicações,
 
 de Normalização das Telecomunicações e de Desenvolvimento das
 
-<table>
-<tr><td>Telecomunicações</td><td>123%</td></tr>
-</table>
+Telecomunicações
+
+123%
 
 2\. que os percentuais anteriores sejam aplicados ao salário-base líquido, que inclua dependentes, e que todos os demais elementos da remuneração sejam calculadas nesta base, empregando-se a metodologia em vigor no Sistema Comum das Nações Unidas, sempre que se aplique um percentual adequado a cada elemento da remuneração,
 
@@ -10266,11 +10852,15 @@ resolve do mesmo modo
 
 que os gastos de representação sejam reembolsados, contra apresentação das faturas correspondentes, até os seguintes limites;
 
-<table>
-<tr><td></td><td>Francos suiços por ano</td></tr>
-<tr><td>Secretário-Geral</td><td>29.000</td></tr>
-<tr><td>Vice-Secretário-Geral, Diretores dos Escritórios de Radiocomunicações de Normalização das Telecomunicações e de Desenvolvimento dasTelecomunicações</td><td>14.500</td></tr>
-</table>
+Francos suiços por ano
+
+Secretário-Geral
+
+29.000
+
+Vice-Secretário-Geral, Diretores dos Escritórios de Radiocomunicações de Normalização das Telecomunicações e de Desenvolvimento dasTelecomunicações
+
+14.500
 
 Resolução 47
 

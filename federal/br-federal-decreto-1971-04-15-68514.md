@@ -1,5 +1,3 @@
-###DEC-068514-0-000-15-04-1971@@@
-
 DECRETO Nº 68.514 - DE 15 DE ABRIL DE 1971.
 
 Declara de utilidade pública a Sociedade Bem Estar Familiar no Brasil - BEMFAM, com sede no Estado da Guanabara.

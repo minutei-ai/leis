@@ -1,5 +1,3 @@
-###DEC-058990-0-000-04-08-1966@@@
-
 DECRETO Nº 58.990, DE 4 DE AGôSTO DE 1966.
 
 Modifica a redação do art. 4º do Decreto nº 58.682, de 21 de junho de 1966.

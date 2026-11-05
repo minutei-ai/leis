@@ -1,5 +1,3 @@
-###DEC-053815-0-000-23-03-1964@@@
-
 decreto nº 53.815, de 23 de março de 1964.
 
 Constitui Grupo Coordenador da Proposta Orçamentária da União para 1965, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-086321-0-000-27-08-1981@@@
-
 Decreto nº 86.321 de 27 de agosto de 1981
 
 Autoriza o aumento do Capital Social da Companhia de Navegação do São Francisco - FRANAVE.

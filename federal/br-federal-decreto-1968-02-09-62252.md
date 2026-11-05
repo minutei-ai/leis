@@ -1,5 +1,3 @@
-###DEC-062252-0-000-09-02-1968@@@
-
 DECRETO Nº 62.252, DE 9 DE FEVEREIRO DE 1968.
 
 Delega ao Ministro de Estado do Planejamento e Coordenação Geral as atribuições previstas nos artigos 38, 39 da Lei nº 4.131, de 3 de setembro de 1962.

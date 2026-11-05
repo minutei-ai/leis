@@ -182,4 +182,30 @@ PAULO CARNEIRO DE ANDRADE
 
 **(Arts. 13, § 10 e 15, VI)**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="272" style="width:204.0pt;margin-left:112.85pt;border:outset gray 1.0pt"><tbody><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAIXA ETÁRIA</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ALÍQUOTA</span></p></td></tr><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 17 ANOS</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1%</span></p></td></tr><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">18 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 29 ANOS</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1,3%</span></p></td></tr><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">30 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 39 ANOS</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1,6%</span></p></td></tr><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">40 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 49 ANOS</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1,7%</span></p></td></tr><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">50 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 59 ANOS</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2%</span></p></td></tr><tr><td width="52%" style="width:52.42%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&gt; 60 ANOS</span></p></td><td width="46%" style="width:46.54%;border:inset gray 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2,5%</span></p></td></tr></tbody></table>
+FAIXA ETÁRIA
+
+ALÍQUOTA
+
+0 A 17 ANOS
+
+1%
+
+18 A 29 ANOS
+
+1,3%
+
+30 A 39 ANOS
+
+1,6%
+
+40 A 49 ANOS
+
+1,7%
+
+50 A 59 ANOS
+
+2%
+
+&gt; 60 ANOS
+
+2,5%

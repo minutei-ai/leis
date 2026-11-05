@@ -1,5 +1,3 @@
-###DEC-045620-0-000-24-03-1959@@@
-
 decreto nº 45.620, de 24 de março de 1959.
 
 Autoriza estrangeiros a adquirir o domínio pleno de terreno que menciona, situado no Distrito Federal.

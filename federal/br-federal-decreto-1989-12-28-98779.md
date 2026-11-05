@@ -1,7 +1,3 @@
-1
-
-###DEC-098779-0-000-28-12-1989@@@
-
 DECRETO Nº 98.779, DE 28 DE DEZEMBRO DE 1989
 
 Abre ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, créditos adicionais de NCz$ 28.720.088,00, para reforço de dotações consignadas no vigente Orçamento.

@@ -16,52 +16,648 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1055 2536</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 100.000,00</td><td style=" width:85px;    ">R$ 124.138,56</td><td style=" width:85px;    ">R$ 224.138,56</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2538</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 19.816.653,78</td><td style=" width:85px;    ">R$ 19.816.653,78</td></tr></tbody></table>
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 19.816.653,78</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 124.138,56</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 19.940.792,34</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO
+
+15 451 1055 2536
+
+25010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 100.000,00
+
+R$ 124.138,56
+
+R$ 224.138,56
+
+MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2538
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 19.816.653,78
+
+R$ 19.816.653,78
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 19.816.653,78
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 124.138,56
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 19.940.792,34
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR</td><td style=" width:85px;    ">06 181 1051 2484</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 45.565,91</td><td style=" width:85px;    ">R$ 45.565,91</td><td style=" width:85px;    ">R$ 45.565,91</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTOS DE TI, TELECOMUNICAÇÃO E MATERIAL</td><td style=" width:85px;    ">06 181 1051 2356</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 11.401,80</td><td style=" width:85px;    ">R$ 11.401,80</td><td style=" width:85px;    ">R$ 11.401,80</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE EQUIPAMENTO / MATERIAL DE PROTEÇÃO E SEGURANÇA INDIVIDUAL &nbsp;PARA PMGO</td><td style=" width:85px;    ">06 181 1051 2355</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 61.605,40</td><td style=" width:85px;    ">R$ 61.605,40</td><td style=" width:85px;    ">R$ 61.605,40</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">25010100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 36.551,35</td><td style=" width:85px;    ">R$ 5.565,45</td><td style=" width:85px;    ">R$ 5.565,45</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 349.244,57</td><td style=" width:85px;    ">R$ 624,57</td><td style=" width:85px;    ">R$ 624,57</td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR</td><td style=" width:85px;    ">06 181 1051 2484</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 71.196,38</td><td style=" width:85px;    ">R$ 71.196,37</td><td style=" width:85px;    ">R$ 71.196,37</td></tr></tbody></table>
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</b><br>2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ELABORAÇÃO DE ESTUDOS PARA A CARACTERIZAÇÃO DE AQUÍFEROS SUBTERRÂNEOS</td><td style=" width:85px;    ">18 544 1011 2527</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">ATUALIZAÇÃO DO PLANO ESTADUAL DE RECURSOS HÍDRICOS</td><td style=" width:85px;    ">18 544 1011 3159</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE AÇÕES DE SEGURANÇA HÍDRICA</td><td style=" width:85px;    ">18 544 1011 2336</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 302.296,28</td><td style=" width:85px;    ">R$ 60.000,00</td><td style=" width:85px;    ">R$ 60.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 428.548,50</td><td style=" width:85px;    ">R$ 418.000,00</td><td style=" width:85px;    ">R$ 418.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">ELABORAÇÃO DO PLANO ESTADUAL DE MÉDIO E LONGO PRAZO</td><td style=" width:85px;    ">04 122 1048 3248</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;  height:19px;   ">04 122 4200 4243</td><td style=" width:85px;  height:19px;   ">15000100</td><td style=" width:85px;  height:19px;   ">90</td><td style=" width:85px;  height:19px;   ">5 - INVERSÕES FINANCEIRAS</td><td style=" width:85px;  height:19px;   ">R$ 20.000,00</td><td style=" width:85px;  height:19px;   ">R$ 20.000,00</td><td style=" width:85px;  height:19px;   ">R$ 20.000,00</td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO E INSTITUCIONALIZAÇÃO DA SECRETARIA DA ECONOMIA</td><td style=" width:85px;    ">04 122 1048 2435</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 5.503.167,55</td><td style=" width:85px;    ">R$ 4.000.000,00</td><td style=" width:85px;    ">R$ 4.000.000,00</td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO E INSTITUCIONALIZAÇÃO DA SECRETARIA DA ECONOMIA</td><td style=" width:85px;    ">04 122 1048 2435</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.031.059,86</td><td style=" width:85px;    ">R$ 2.000.000,00</td><td style=" width:85px;    ">R$ 2.000.000,00</td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO DA FISCALIZAÇÃO DE MERCADORIAS EM TRÂNSITO</td><td style=" width:85px;    ">04 125 1048 3250</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.036.597,32</td><td style=" width:85px;    ">R$ 2.036.597,32</td><td style=" width:85px;    ">R$ 2.036.597,32</td></tr><tr><td style=" width:85px;    ">MODERNIZAÇÃO DA FISCALIZAÇÃO DE MERCADORIAS EM TRÂNSITO</td><td style=" width:85px;    ">04 125 1048 3250</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.730.133,08</td><td style=" width:85px;    ">R$ 2.730.133,08</td><td style=" width:85px;    ">R$ 2.730.133,08</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DO SISTEMA ESTRUTURADOR DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS</td><td style=" width:85px;    ">04 121 1048 3249</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">20</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">ELABORAÇÃO DO PLANO ESTADUAL DE MÉDIO E LONGO PRAZO</td><td style=" width:85px;    ">04 122 1048 3248</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DO SISTEMA ESTRUTURADOR DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS</td><td style=" width:85px;    ">04 121 1048 3249</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td><td style=" width:85px;    ">R$ 10.000,00</td></tr><tr><td style=" width:85px;    ">IMPLANTAÇÃO DO SISTEMA ESTRUTURADOR DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS</td><td style=" width:85px;    ">04 121 1048 3249</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.078.000,00</td><td style=" width:85px;    ">R$ 1.078.000,00</td><td style=" width:85px;    ">R$ 1.078.000,00</td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">DISPONIBILIZAÇÃO DE SEMOVENTE</td><td style=" width:85px;    ">06 181 1051 2359</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2,56</td><td style=" width:85px;    ">R$ 2,56</td><td style=" width:85px;    ">R$ 2,56</td></tr><tr><td style=" width:85px;    ">AQUISIÇÃO DE ARMAMENTO PELA PM</td><td style=" width:85px;    ">06 181 1051 2354</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 100,00</td><td style=" width:85px;    ">R$ 100,00</td><td style=" width:85px;    ">R$ 100,00</td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>1700 - SECRETARIA DE ESTADO DA ECONOMIA</b><br>1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">04 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 6.327.061,32</td><td style=" width:85px;    ">R$ 6.000.000,00</td><td style=" width:85px;    ">R$ 6.000.000,00</td></tr></tbody></table>
+DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+06 181 1051 2484
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA</td><td style=" width:85px;    ">10 302 1043 3348</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 5.043.691,18</td><td style=" width:85px;    ">R$ 1.264.712,24</td><td style=" width:85px;    ">R$ 1.264.712,24</td></tr></tbody></table>
+25010100
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA</b><br>2902 - POLÍCIA MILITAR</td></tr></tbody></table>
+90
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES</td><td style=" width:85px;    ">06 122 4200 4243</td><td style=" width:85px;    ">15000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 215.539,19</td><td style=" width:85px;    ">R$ 67.287,64</td><td style=" width:85px;    ">R$ 67.287,64</td></tr></tbody></table>
+3 - OUTRAS DESPESAS CORRENTES
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+R$ 45.565,91
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 19.816.653,78</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 124.138,56</td></tr></tbody></table>
+R$ 45.565,91
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   "><b>TOTAL</b></td><td style=" width:340px;  height:19px;   ">R$ 19.940.792,34</td></tr></tbody></table>
+R$ 45.565,91
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+AQUISIÇÃO DE EQUIPAMENTOS DE TI, TELECOMUNICAÇÃO E MATERIAL
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS</td><td style=" width:340px;  height:19px;   ">R$ 19.816.653,78</td></tr><tr><td style=" width:340px;    ">25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 124.138,56</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 19.940.792,34</td></tr></tbody></table>
+06 181 1051 2356
+
+25010100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 11.401,80
+
+R$ 11.401,80
+
+R$ 11.401,80
+
+AQUISIÇÃO DE EQUIPAMENTO / MATERIAL DE PROTEÇÃO E SEGURANÇA INDIVIDUAL  PARA PMGO
+
+06 181 1051 2355
+
+25010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 61.605,40
+
+R$ 61.605,40
+
+R$ 61.605,40
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+25010100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 36.551,35
+
+R$ 5.565,45
+
+R$ 5.565,45
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 349.244,57
+
+R$ 624,57
+
+R$ 624,57
+
+DISPONIBILIZAÇÃO DE VIATURA PELA POLÍCIA MILITAR
+
+06 181 1051 2484
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 71.196,38
+
+R$ 71.196,37
+
+R$ 71.196,37
+
+**2100 - SECRETARIA DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL**
+2101 - GABINETE DO SECRETÁRIO DE ESTADO DE MEIO AMBIENTE E DESENVOLVIMENTO SUSTENTÁVEL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ELABORAÇÃO DE ESTUDOS PARA A CARACTERIZAÇÃO DE AQUÍFEROS SUBTERRÂNEOS
+
+18 544 1011 2527
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+ATUALIZAÇÃO DO PLANO ESTADUAL DE RECURSOS HÍDRICOS
+
+18 544 1011 3159
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+REALIZAÇÃO DE AÇÕES DE SEGURANÇA HÍDRICA
+
+18 544 1011 2336
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 302.296,28
+
+R$ 60.000,00
+
+R$ 60.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 428.548,50
+
+R$ 418.000,00
+
+R$ 418.000,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+ELABORAÇÃO DO PLANO ESTADUAL DE MÉDIO E LONGO PRAZO
+
+04 122 1048 3248
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+5 - INVERSÕES FINANCEIRAS
+
+R$ 20.000,00
+
+R$ 20.000,00
+
+R$ 20.000,00
+
+MODERNIZAÇÃO E INSTITUCIONALIZAÇÃO DA SECRETARIA DA ECONOMIA
+
+04 122 1048 2435
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 5.503.167,55
+
+R$ 4.000.000,00
+
+R$ 4.000.000,00
+
+MODERNIZAÇÃO E INSTITUCIONALIZAÇÃO DA SECRETARIA DA ECONOMIA
+
+04 122 1048 2435
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.031.059,86
+
+R$ 2.000.000,00
+
+R$ 2.000.000,00
+
+MODERNIZAÇÃO DA FISCALIZAÇÃO DE MERCADORIAS EM TRÂNSITO
+
+04 125 1048 3250
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 2.036.597,32
+
+R$ 2.036.597,32
+
+R$ 2.036.597,32
+
+MODERNIZAÇÃO DA FISCALIZAÇÃO DE MERCADORIAS EM TRÂNSITO
+
+04 125 1048 3250
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.730.133,08
+
+R$ 2.730.133,08
+
+R$ 2.730.133,08
+
+IMPLANTAÇÃO DO SISTEMA ESTRUTURADOR DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS
+
+04 121 1048 3249
+
+15000100
+
+20
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+ELABORAÇÃO DO PLANO ESTADUAL DE MÉDIO E LONGO PRAZO
+
+04 122 1048 3248
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+IMPLANTAÇÃO DO SISTEMA ESTRUTURADOR DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS
+
+04 121 1048 3249
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+R$ 10.000,00
+
+IMPLANTAÇÃO DO SISTEMA ESTRUTURADOR DE PLANEJAMENTO, ORÇAMENTO E FINANÇAS
+
+04 121 1048 3249
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.078.000,00
+
+R$ 1.078.000,00
+
+R$ 1.078.000,00
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+DISPONIBILIZAÇÃO DE SEMOVENTE
+
+06 181 1051 2359
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2,56
+
+R$ 2,56
+
+R$ 2,56
+
+AQUISIÇÃO DE ARMAMENTO PELA PM
+
+06 181 1051 2354
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 100,00
+
+R$ 100,00
+
+R$ 100,00
+
+**1700 - SECRETARIA DE ESTADO DA ECONOMIA**
+1701 - GABINETE DO SECRETÁRIO DE ESTADO DA ECONOMIA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+04 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 6.327.061,32
+
+R$ 6.000.000,00
+
+R$ 6.000.000,00
+
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CONSTRUÇÃO E ESTRUTURAÇÃO DA POLICLÍNICA DE MOZARLÂNDIA
+
+10 302 1043 3348
+
+15000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 5.043.691,18
+
+R$ 1.264.712,24
+
+R$ 1.264.712,24
+
+**2900 - SECRETARIA DE ESTADO DA SEGURANÇA PÚBLICA**
+2902 - POLÍCIA MILITAR
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES
+
+06 122 4200 4243
+
+15000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 215.539,19
+
+R$ 67.287,64
+
+R$ 67.287,64
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 19.816.653,78
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 124.138,56
+
+**TOTAL**
+
+R$ 19.940.792,34
+
+**TOTAL POR FONTE**
+
+15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS
+
+R$ 19.816.653,78
+
+25010100 - OUTROS RECURSOS NÃO VINCULADOS - RECEITAS ORDINÁRIAS E DRE - EXERCÍCIOS ANTERIORES
+
+R$ 124.138,56
+
+**TOTAL**
+
+R$ 19.940.792,34

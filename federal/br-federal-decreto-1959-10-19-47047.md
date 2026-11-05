@@ -1,5 +1,3 @@
-###DEC-047047-0-000-19-10-1959@@@
-
 DECRETO Nº 47.047, DE 19 DE OUTUBRO DE 1959.
 
 Altera a lotação numérica de repartição do Ministério da Aeronáutica.

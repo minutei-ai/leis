@@ -1,5 +1,3 @@
-###DEC-048267-0-000-03-06-1960@@@
-
 Decreto nº 48.267, de 3 de junho de 1960.
 
 Aprova alterações nos Estatutos, inclusive aumento do capital social da Guardian Assurance Company Limited.

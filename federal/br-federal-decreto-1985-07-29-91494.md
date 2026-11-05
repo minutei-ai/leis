@@ -1,5 +1,3 @@
-###DEC-091494-0-000-29-07-1985@@@
-
 Decreto nº 91.494, de 29 de julho de 1985
 
 Autoriza a transferência direta da concessão outorgada à REDE RIOGRANDENSE DE EMISSORAS LTDA., para a RGS-RADIODIFUSÃO LTDA.

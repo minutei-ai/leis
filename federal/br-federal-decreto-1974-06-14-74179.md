@@ -1,5 +1,3 @@
-###DEC-074179-0-000-14-06-1974@@@
-
 DECRETO Nº 74.179, DE 14 DE JUNHO DE 1974
 
 Concede reconhecimento à Faculdade Regional de Medicina de São José do Rio Preto, mantida pela Fundação Regional de Ensino Superior da Araraguarense, com sede na cidade de São José do Rio Preto, Estado de São Paulo.

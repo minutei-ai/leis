@@ -6,7 +6,8 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 Art. 1º Fica instituído o REGIME ESPECIAL DE TRABALHO DA GUARDA MUNICIPAL DE APARECIDA DE GOIÂNIA - R.E.T.G.M, para os ocupantes de carreira dos cargos efetivos de Guarda Municipal caracterizando-se pelo efetivo cumprimento das atribuições.
 
-Art. 2º O servidor em REGIME ESPECIAL DE TRABALHO DA GUARDA MUNICIPAL - R.E.T.G.M, perceberá gratificação na proporção de 100% (cem por cento) sobre o seu padrão de vencimento, desde que cumpra a jornada de 40 horas (quarenta horas) semanais.<br>
+Art. 2º O servidor em REGIME ESPECIAL DE TRABALHO DA GUARDA MUNICIPAL - R.E.T.G.M, perceberá gratificação na proporção de 100% (cem por cento) sobre o seu padrão de vencimento, desde que cumpra a jornada de 40 horas (quarenta horas) semanais.
+
 (Redação alterada pela Lei Complementar nº 66, de 31 de dezembro de 2012).
 
 ~~Art. 2º O servidor TRABALHO DA GUARDA MUNICIPAL - R.E.T.G.M, perceberá gratificação na proporção de 100% (cem por cento) sobre o seu padrão de vencimento, desde que cumpra a jornada de 44 horas (quarenta e quatro horas) semanais, conforme anexo I, da Lei Municipal nº. 2.496, de março de 2005.~~
@@ -25,8 +26,10 @@ Art. 6º Esta lei entrará em vigor na data de sua publicação, revogando as di
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 11 dias do mês de Novembro de 2011.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

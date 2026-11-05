@@ -1,7 +1,3 @@
-1
-
-###DEC-001350-0-000-28-12-1994@@@
-
 DECRETO Nº 1.350, DE 28 DE DEZEMBRO DE 1994
 
 Dispõe sobre a participação, no Conselho Deliberativo do SEBRAE, de entidades representativas de micro e empresas de pequeno porte.

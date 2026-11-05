@@ -4,7 +4,8 @@ Portaria Orçamentária nº 36/2026 - Economia
 
 **RESOLVE:**
 
-Art. 1º Ficam abertos à SECRETÁRIA DE ESTADO DA EDUCAÇÃO, SECRETARIA DE ESTADO DE COMUNICAÇÃO, créditos suplementares no valor global de R$ 61.835.743,90 (sessenta e um milhões oitocentos e trinta e cinco mil setecentos e quarenta e três reais e noventa centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.<br>
+Art. 1º Ficam abertos à SECRETÁRIA DE ESTADO DA EDUCAÇÃO, SECRETARIA DE ESTADO DE COMUNICAÇÃO, créditos suplementares no valor global de R$ 61.835.743,90 (sessenta e um milhões oitocentos e trinta e cinco mil setecentos e quarenta e três reais e noventa centavos), para reforço de dotações consignadas no vigente Orçamento-Geral do Estado, conforme quadro 1, que acompanha esta Portaria.
+
 \- [Vide errata publicada no D.O. de 16-9-2026](https://admin.legisla.casacivil.go.gov.br/api/v1/arquivos/19134).
 
 Parágrafo único. O recurso necessário à execução do disposto neste artigo é o caracterizado no inciso I do §1º do art. 43 da Lei Federal nº 4.320, de 17 de março de 1964, proveniente de superávit financeiro apurado em balanço patrimonial do exercício anterior.
@@ -17,14 +18,356 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO</b><br>1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">PUBLICIDADE DE UTILIDADE PÚBLICA</td><td style=" width:85px;    ">04 131 1047 3119</td><td style=" width:85px;    ">27030282</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 204.580,00</td><td style=" width:85px;    ">R$ 204.580,00</td></tr></tbody></table>
+**1200 - SECRETARIA DE ESTADO DE COMUNICAÇÃO**
+1201 - GABINETE DA SECRETARIA DE ESTADO DE COMUNICAÇÃO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO</b><br>2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 361 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 32.668.133,55</td><td style=" width:85px;    ">R$ 7.792.971,30</td><td style=" width:85px;    ">R$ 40.461.104,85</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 361 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 23.041.838,77</td><td style=" width:85px;    ">R$ 1.948.242,93</td><td style=" width:85px;    ">R$ 24.990.081,70</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 363 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 2.793.600,00</td><td style=" width:85px;    ">R$ 39.162,00</td><td style=" width:85px;    ">R$ 2.832.762,00</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 367 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.101.500,00</td><td style=" width:85px;    ">R$ 117.898,90</td><td style=" width:85px;    ">R$ 1.219.398,90</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 366 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.890.942,21</td><td style=" width:85px;    ">R$ 148.747,87</td><td style=" width:85px;    ">R$ 2.039.690,08</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 362 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 21.890.069,75</td><td style=" width:85px;    ">R$ 1.835.056,65</td><td style=" width:85px;    ">R$ 23.725.126,40</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 367 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 4.711.000,00</td><td style=" width:85px;    ">R$ 198.071,26</td><td style=" width:85px;    ">R$ 4.909.071,26</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 362 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 27.836.135,83</td><td style=" width:85px;    ">R$ 7.340.227,02</td><td style=" width:85px;    ">R$ 35.176.362,85</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 366 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 5.412.000,00</td><td style=" width:85px;    ">R$ 594.991,69</td><td style=" width:85px;    ">R$ 6.006.991,69</td></tr><tr><td style=" width:85px;    ">REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS</td><td style=" width:85px;    ">12 363 1008 2547</td><td style=" width:85px;    ">25500116</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 11.587.000,00</td><td style=" width:85px;    ">R$ 156.648,00</td><td style=" width:85px;    ">R$ 11.743.648,00</td></tr><tr><td style=" width:85px;    ">FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR</td><td style=" width:85px;    ">12 306 1008 2019</td><td style=" width:85px;    ">25520109</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 80.848.000,00</td><td style=" width:85px;    ">R$ 16.897.837,22</td><td style=" width:85px;    ">R$ 97.745.837,22</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO PROFISSIONAL</td><td style=" width:85px;    ">12 363 1008 2301</td><td style=" width:85px;    ">25690115</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 1.960.000,00</td><td style=" width:85px;    ">R$ 593.670,58</td><td style=" width:85px;    ">R$ 2.553.670,58</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA ALFAMAIS GOIÁS</td><td style=" width:85px;    ">12 361 1008 2480</td><td style=" width:85px;    ">25700260</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 2.790.614,00</td><td style=" width:85px;    ">R$ 18.357.701,94</td><td style=" width:85px;    ">R$ 21.148.315,94</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À&nbsp; EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style=" width:85px;    ">12 361 1008 2474</td><td style=" width:85px;    ">25700260</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 160.141,56</td><td style=" width:85px;    ">R$ 785.462,60</td><td style=" width:85px;    ">R$ 945.604,16</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À&nbsp; EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style=" width:85px;    ">12 362 1008 2474</td><td style=" width:85px;    ">25700260</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 124.524,00</td><td style=" width:85px;    ">R$ 847.820,00</td><td style=" width:85px;    ">R$ 972.344,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À&nbsp; EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style=" width:85px;    ">12 362 1008 2474</td><td style=" width:85px;    ">25700260</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.535.377,30</td><td style=" width:85px;    ">R$ 1.809.855,59</td><td style=" width:85px;    ">R$ 5.345.232,89</td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À&nbsp; EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style=" width:85px;    ">12 361 1008 2474</td><td style=" width:85px;    ">25700260</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 9.941.273,95</td><td style=" width:85px;    ">R$ 2.166.798,35</td><td style=" width:85px;    ">R$ 12.108.072,30</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 20.172.017,62</td></tr><tr><td style=" width:340px;    ">25520109 - TRANSFERÊNCIAS DE RECURSOS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR (PNAE) - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 16.897.837,22</td></tr><tr><td style=" width:340px;    ">25690115 - OUTRAS TRANSFERÊNCIAS DE RECURSOS DO FNDE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 593.670,58</td></tr><tr><td style=" width:340px;    ">25700260 - TRANSFERÊNCIAS DO GOVERNO FEDERAL REFERENTES A CONVÊNIOS E INSTRUMENTOS CONGÊNERES VINCULADOS À&nbsp; EDUCAÇÃO - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 23.967.638,48</td></tr><tr><td style=" width:340px;    ">27030282 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INST. CONG. DE OUTRAS ENTIDADES - ADM. DIRETA COM ENTIDADES INTERNACIONAIS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 204.580,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 61.835.743,90</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+PUBLICIDADE DE UTILIDADE PÚBLICA
+
+04 131 1047 3119
+
+27030282
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 204.580,00
+
+R$ 204.580,00
+
+**2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO**
+2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 361 1008 2547
+
+25500116
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 32.668.133,55
+
+R$ 7.792.971,30
+
+R$ 40.461.104,85
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 361 1008 2547
+
+25500116
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 23.041.838,77
+
+R$ 1.948.242,93
+
+R$ 24.990.081,70
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 363 1008 2547
+
+25500116
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 2.793.600,00
+
+R$ 39.162,00
+
+R$ 2.832.762,00
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 367 1008 2547
+
+25500116
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 1.101.500,00
+
+R$ 117.898,90
+
+R$ 1.219.398,90
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 366 1008 2547
+
+25500116
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 1.890.942,21
+
+R$ 148.747,87
+
+R$ 2.039.690,08
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 362 1008 2547
+
+25500116
+
+50
+
+4 - INVESTIMENTOS
+
+R$ 21.890.069,75
+
+R$ 1.835.056,65
+
+R$ 23.725.126,40
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 367 1008 2547
+
+25500116
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 4.711.000,00
+
+R$ 198.071,26
+
+R$ 4.909.071,26
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 362 1008 2547
+
+25500116
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 27.836.135,83
+
+R$ 7.340.227,02
+
+R$ 35.176.362,85
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 366 1008 2547
+
+25500116
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 5.412.000,00
+
+R$ 594.991,69
+
+R$ 6.006.991,69
+
+REPASSE DE RECURSOS À S UNIDADES JURISDICIONADAS
+
+12 363 1008 2547
+
+25500116
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 11.587.000,00
+
+R$ 156.648,00
+
+R$ 11.743.648,00
+
+FORNECIMENTO DE ALIMENTAÇÃO ESCOLAR
+
+12 306 1008 2019
+
+25520109
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 80.848.000,00
+
+R$ 16.897.837,22
+
+R$ 97.745.837,22
+
+MANUTENÇÃO E DESENVOLVIMENTO DO ENSINO PROFISSIONAL
+
+12 363 1008 2301
+
+25690115
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 1.960.000,00
+
+R$ 593.670,58
+
+R$ 2.553.670,58
+
+GESTÃO DA INICIATIVA ALFAMAIS GOIÁS
+
+12 361 1008 2480
+
+25700260
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 2.790.614,00
+
+R$ 18.357.701,94
+
+R$ 21.148.315,94
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À  EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 361 1008 2474
+
+25700260
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 160.141,56
+
+R$ 785.462,60
+
+R$ 945.604,16
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À  EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 362 1008 2474
+
+25700260
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 124.524,00
+
+R$ 847.820,00
+
+R$ 972.344,00
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À  EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 362 1008 2474
+
+25700260
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.535.377,30
+
+R$ 1.809.855,59
+
+R$ 5.345.232,89
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À  EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 361 1008 2474
+
+25700260
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 9.941.273,95
+
+R$ 2.166.798,35
+
+R$ 12.108.072,30
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25500116 - TRANSFERÊNCIA DO SALÁRIO-EDUCAÇÃO - COTA ESTADUAL - EXERCÍCIOS ANTERIORES
+
+R$ 20.172.017,62
+
+25520109 - TRANSFERÊNCIAS DE RECURSOS DO FNDE REFERENTES AO PROGRAMA NACIONAL DE ALIMENTAÇÃO ESCOLAR (PNAE) - EXERCÍCIOS ANTERIORES
+
+R$ 16.897.837,22
+
+25690115 - OUTRAS TRANSFERÊNCIAS DE RECURSOS DO FNDE - EXERCÍCIOS ANTERIORES
+
+R$ 593.670,58
+
+25700260 - TRANSFERÊNCIAS DO GOVERNO FEDERAL REFERENTES A CONVÊNIOS E INSTRUMENTOS CONGÊNERES VINCULADOS À  EDUCAÇÃO - EXERCÍCIOS ANTERIORES
+
+R$ 23.967.638,48
+
+27030282 - OUTRAS TRANSFERÊNCIAS DE CONVÊNIOS OU INST. CONG. DE OUTRAS ENTIDADES - ADM. DIRETA COM ENTIDADES INTERNACIONAIS - EXERCÍCIOS ANTERIORES
+
+R$ 204.580,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 61.835.743,90

@@ -1,7 +1,3 @@
-1
-
-###DEC-097800-0-000-05-06-1989@@@
-
 DECRETO N° 97.800, DE 5 DE JUNHO DE 1989
 
 Dispõe sobre viagens ao exterior.

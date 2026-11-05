@@ -16,7 +16,47 @@ Art. 3º- A Gratificação de Produção dos funcionários da Secretaria da Faze
 
 Art. 4º- Fica alterado o Anexo VI da Lei nº 3.640, de 05 de janeiro de 1978, instituindo-se a série de classes do cargo de Auditor Fiscal e o número total de cargos:
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 116.9pt; border: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="156"><p style="text-align: center;" align="center">CARGO</p></td><td style="width: 92.15pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">REFERÊNCIA</p></td><td style="width: 99.25pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p style="text-align: center;" align="center">VENCIMENTOS</p><p style="text-align: center;" align="center">CR$</p></td><td style="width: 92.1pt; border: solid windowtext 1.0pt; border-left: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">Nº DE CARGOS</p></td></tr><tr><td style="width: 116.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="156"><p style="text-align: center;" align="center">&nbsp;</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">&nbsp;</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p style="text-align: right;" align="right">&nbsp;</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">&nbsp;</p></td></tr><tr><td style="width: 116.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="156"><p style="text-align: center;" align="center">AUDITOR FISCAL</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">X</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p style="text-align: right;" align="right">25.480,00</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">190</p></td></tr><tr><td style="width: 116.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="156"><p style="text-align: center;" align="center">"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">XI</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p style="text-align: right;" align="right">28.576,00</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">50</p></td></tr><tr><td style="width: 116.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="156"><p style="text-align: center;" align="center">"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">XII</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p style="text-align: right;" align="right">31.902,00</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">25</p></td></tr><tr><td style="width: 116.9pt; border: solid windowtext 1.0pt; border-top: none; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="156"><p style="text-align: center;" align="center">"&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; "</p></td><td style="width: 92.15pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">XIII</p></td><td style="width: 99.25pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="132"><p style="text-align: right;" align="right">35.220,00</p></td><td style="width: 92.1pt; border-top: none; border-left: none; border-bottom: solid windowtext 1.0pt; border-right: solid windowtext 1.0pt; padding: 0cm 3.5pt 0cm 3.5pt;" valign="top" width="123"><p style="text-align: center;" align="center">15</p></td></tr></tbody></table>
+CARGO
+
+REFERÊNCIA
+
+VENCIMENTOS
+
+CR$
+
+Nº DE CARGOS
+
+AUDITOR FISCAL
+
+X
+
+25.480,00
+
+190
+
+"                       "
+
+XI
+
+28.576,00
+
+50
+
+"                       "
+
+XII
+
+31.902,00
+
+25
+
+"                       "
+
+XIII
+
+35.220,00
+
+15
 
 Art. 5º- Esta Lei entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 

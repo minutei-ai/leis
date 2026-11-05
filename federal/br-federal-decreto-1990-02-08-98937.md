@@ -1,7 +1,3 @@
-1
-
-###DEC-098937-0-000-08-02-1990@@@
-
 DECRETO Nº 98.937, DE 8 DE FEVEREIRO DE 1990
 
 Fixa, para o exercício de 1990, o limite global das Importações via Zona Franca de Manaus e Área de Livre Comércio de Tabatinga, e dá outras providências.

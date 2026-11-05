@@ -1,7 +1,3 @@
-1
-
-###DEC-001140-0-000-12-05-1994@@@
-
 DECRETO N° 1.140, DE 12 DE MAIO DE 1994
 
 Dá nova redação ao § 5° do art. 1° do Decreto n° 702, de 22 de dezembro de 1992, alterado pelos Decretos n° 1.113, de 19 de abril de 1994 e 1.126, de 2 de maio de 1 994.

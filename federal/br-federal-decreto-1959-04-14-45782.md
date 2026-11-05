@@ -1,5 +1,3 @@
-###DEC-045782-0-000-14-04-1959@@@
-
 DECRETO Nº 45.782, DE 14 DE ABRIL DE 1959.
 
 Concede a Emprêsa Acaiaca Emac S.A. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-070062-0-000-26-01-1972@@@
-
 DECRETO Nº 70.062, DE 26 DE JANEIRO DE 1972.
 
 Redistribui cargos, com os respectivos ocupantes, do Ministério das Minas e Energia para o Ministério do Trabalho e Previdência Social, e dá outras providências.

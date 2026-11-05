@@ -1,6 +1,10 @@
 > **LEI Nº 4.275, DE 18 DE DEZEMBRO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 4.178, de 11 de outubro de 2023, que alterou os dispositivos da Lei nº 1.805, de 26 de dezembro de 2006, que dispõe sobre a fixação de emolumentos devidos pelos atos praticados pelos serviços notariais e de registros e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 4.178, de 11 de outubro de 2023, que alterou os dispositivos da Lei nº 1.805, de 26 de dezembro de 2006, que dispõe sobre a fixação de emolumentos devidos pelos atos praticados pelos serviços notariais e de registros e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -11,8 +15,6 @@
 “**Art. 39.** Compete à Corregedoria-Geral da Justiça regulamentar e fiscalizar a aplicação desta Lei, incluindo a expedição de normas referentes à Complementação de Renda Mínima e Ressarcimento de Atos Gratuitos”. **(NR)**
 
 **Art. 2º** O art. 2º da Lei nº 4.178, de 11 de outubro de 2023, passa a vigorar com a seguinte redação:
-
-<br>
 
 “**Art. 2º** Esta Lei entra em vigor cento e vinte dias após a publicação da regulamentação que trata o seu art. 39, **caput**.” **(NR)**
 

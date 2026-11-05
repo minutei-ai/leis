@@ -1,7 +1,3 @@
-1
-
-###DEC-099703-0-000-20-11-1990@@@
-
 DECRETO Nº 99.703, DE 20 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução no Brasil do Décimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica, entre o Brasil e o Uruguai (Acordo nº 2).

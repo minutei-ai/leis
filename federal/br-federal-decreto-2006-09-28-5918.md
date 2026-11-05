@@ -1,5 +1,3 @@
-###DEC-005918-0-000-28-09-2006@@@
-
 DECRETO Nº 5.918, DE 28 DE SETEMBRO DE 2006.
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e altera o Anexo II ao Decreto nº 5.755, de 13 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Previdência Social.
@@ -24,8 +22,4 @@ LUIZ INÁCIO LULA DA SILVA
 
          Nelson Machado
 
-          João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no D.O.U. de 29.9.2006.
-
-<<ANEXO>>\]
+          João Bernardo de Azevedo Bringel<<ANEXO>>\]

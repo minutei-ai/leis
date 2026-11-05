@@ -1,5 +1,3 @@
-###DEC-080828-0-000-28-11-1977@@@
-
 DECRETO Nº 80.828, DE 28 DE NOVEMBRO DE 1977.
 
 Inclui dispositivos no Decreto nº 79.966, de 14 de julho de 1977, que regulamentou a concessão da Indenização de Transporte.

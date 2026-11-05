@@ -1,5 +1,3 @@
-###DEC-049203-0-000-10-11-1960@@@
-
 DECRETO Nº 49.203, DE 10 DE NOVEMBRO DE 1960.
 
 Declara de utilidade pública, para desapropriação, imóvel que menciona, em Barbacena (MG), necessário ao Ministério da Aeronáutica.

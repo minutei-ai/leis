@@ -1,5 +1,3 @@
-###DEC-080411-0-000-27-09-1977@@@
-
 DECRETO Nº 80.411, DE 27 DE SETEMBRO DE 1977.
 
 Concede à Mineração Prima S.A - MIPRISA, o direito de lavrar minério de ferro no Município de Nova Lima, Estado de Minas Gerais.

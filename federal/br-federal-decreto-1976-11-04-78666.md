@@ -1,5 +1,3 @@
-###DEC-078666-0-000-04-11-1976@@@
-
 DECRETO Nº 78.666, DE 4 DE NOVEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, ministrado no Centro de Ciências Econômicas da Fundação Educacional Encosta Inferior do Nordeste, com sede na cidade de Taguara, Estado do Rio Grande do Sul.

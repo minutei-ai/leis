@@ -1,5 +1,3 @@
-###DEL-004032-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.032 – DE 19 DE JANEIRO DE 1942
 
 Dispõe sobre o Hospital Militar de Recife

@@ -1,5 +1,3 @@
-###DEC-005234-0-000-07-10-2004@@@
-
 DECRETO Nº 5.234 DE 7 DE OUTUBRO DE 2004
 
 Dá nova redação aos arts. 2o e 3o Decreto no 4.714, de 30 de maio de 2003, que cria a Câmara de Política Social, do Conselho de Governo.

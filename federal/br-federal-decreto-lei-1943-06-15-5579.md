@@ -1,5 +1,3 @@
-###DEL-005579-0-000-15-06-1943@@@
-
 DECRETO‑LEI N. 5.579 – DE 15 DF JUNHO DE 1943
 
 Concede pensão especial a Hormina Alves Silva

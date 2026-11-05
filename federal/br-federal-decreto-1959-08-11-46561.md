@@ -1,5 +1,3 @@
-###DEC-046561-0-000-11-08-1959@@@
-
 DECRETO Nº 46.561, DE 11 DE AGÔSTO DE 1959.
 
 Revoga o Decreto nº 29.358 , de 13 de março de 1951.

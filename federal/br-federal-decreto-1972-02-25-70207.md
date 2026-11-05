@@ -1,5 +1,3 @@
-###DEC-070207-0-000-25-02-1972@@@
-
 DECRETO Nº 70.207, DE 25 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para desapropriação, terreno situado no Morro do Cristo, em Salvador, no Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-003639-0-000-23-10-2000@@@
-
 decreto nº 3.639, de 23 de outubro de 2000.
 
 Dá nova redação ao art. 47 do Decreto nº 93.872, de 23 de dezembro de 1986, que dispõe sobre a unificação dos recursos de caixa do Tesouro Nacional.

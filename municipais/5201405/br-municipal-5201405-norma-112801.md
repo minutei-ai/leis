@@ -4,12 +4,14 @@ Altera-se a Lei Municipal nº 3.657, de 02 de março de 2022 que dispõe sobre o
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PLANEJAMENTO GOVERNAMENTAL E DO PLANO PLURIANUAL
 
 Art. 1º Fica alterada a Lei Municipal nº 3.657 de 02 de março de 2022 que dispõe sobre o Plano Plurianual – PPA 2022 à 2025 do Município de Aparecida de Goiânia, em cumprimento ao estabelecido no art. 51, inciso II, alínea “e” da Lei Orgânica municipal, elaborado a partir da consolidação das propostas setoriais apresentadas pelos os órgãos da administração pública entidades da sociedade civil organizada, bem como daquelas formuladas pela a população por intermédio de audiências públicas e de outros meios disponibilizados.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS EXCLUSÕES E ADEQUAÇÕES
 
 Art. 2° Ficam excluídas a Ação cód. 2367 Gestão da Publicidade e Comunicação e ação 2368 Gestão e Manutenção da Casa Civil da Unidade Orçamentaria cód.0301 Gabinete do Prefeito constantes no Plano Plurianual (PPA 2022 a 2025) promovendo as adequações para a alteração da Lei Orçamentária Anual (LOA) para o exercício de 2022.
@@ -24,7 +26,8 @@ Art. 6º Fica excluída a Unidade Orçamentária cód. 0368 Secretaria Municipal
 
 Art. 7º Fica excluída a Unidade Orçamentária cód. 0369 Fundo Municipal de Cultura com a Função cod.04 Administração e Subfunção 122 Administração Geral com seu programa 3050 Promoção da Cultura e sua ação 2362 Gestão da Educação e Cultura bem como a função cód.13 Cultura subfunção cod.392 Difusão da Cultura e seu programa cód. 3050 Promoção da Cultura e sua ação cód. 2365 Promoção e Difusão da Cultura constantes no Plano Plurianual (PPA 2022 a 2025) promovendo as adequações para a alteração da Lei Orçamentária Anual (LOA) para o exercício de 2022.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS ALTERAÇÕES E INCLUSÕES
 
 Art. 8° Ficam incluídas na estrutura organizacional administrativa e orçamentária da Prefeitura de Aparecida de Goiânia as Unidades Orçamentárias abaixo relacionadas de acordo com o disposto no artigo 1º da Lei Complementar n° 183 de 04 de janeiro de 2021, bem como seus respectivos Programas, Ações, Produtos, Metas e Indicadores, conforme anexo I desta lei;
@@ -71,7 +74,8 @@ Art. 18. Ficam instituída a Unidade Orçamentaria cód.0314 Secretaria Municipa
 
 Art. 19. Fica instituído dentro da Unidade Orçamentária cód. 0333 Secretaria da Fazenda o programa cód. 0331 Parcerias Público Privadas e sua ação cód. 1334 Parceria Público Privada – Iluminação Pública.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 20. O saldo orçamentário necessário para a criação das unidades, programas e ações constantes no capítulo III desta Lei terão como cobertura, os saldos das dotações orçamentárias existentes após a aprovação desta lei, das secretarias relacionadas no capítulo II, as quais deixarão de compor a estrutura organizacional administrativa e orçamentária da Prefeitura de Aparecida de Goiânia, podendo ser utilizado, em caso de necessidade, o saldo da reserva de contingência.
@@ -86,5 +90,6 @@ Art. 23. Esta Lei entrará em vigor a partir de sua publicação, revogando disp
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, 09 de novembro de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal

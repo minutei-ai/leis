@@ -1,5 +1,3 @@
-###DEC-082946-0-000-27-12-1978@@@
-
 Decreto nº 82.946, de 27 de dezembro de 1978
 
 Autoriza o funcionamento das habilitações Desenho e Artes Plásticas do curso de Educação Artística da Faculdade de Artes Alcântara Machado, com sede na cidade de São Paulo, Estado de São Paulo.

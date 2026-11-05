@@ -1,5 +1,3 @@
-###DEC-076068-0-000-31-07-1975@@@
-
 DECRETO N° 76.068, DE 31 DE JULHO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação ou de instituição de servidão de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis situados na Bacia Sedimentar, no Estado de Sergipe, necessários à pesquisa e lavra de petróleo.

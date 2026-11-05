@@ -1,22 +1,20 @@
-###DEC-021667-0-000-20-08-1946@@@
+**DECRETO Nº 21.667, DE 20 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.667, DE 20 DE AGÔSTO DE 1946.</strong>
+***Regulamento dos Currículos do Ensino Agrícola.***
 
-<em><strong>Regulamento dos Currículos do Ensino Agrícola.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição, decreta o seguinte:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, decreta o seguinte:
+**REGULAMENTO DOS CURRÍCULOS DO ENSINO AGRÍCOLA**
 
-<strong>REGULAMENTO DOS CURRÍCULOS DO ENSINO AGRÍCOLA</strong>
+**TÍTULO I**
 
-<strong>TÍTULO I</strong>
+*Dos Cursos de Iniciação Agrícola e de Mestre Agrícola*
 
-<em>Dos Cursos de Iniciação Agrícola e de Mestre Agrícola</em>
+**CAPÍTULO I**
 
-<strong>CAPÍTULO I</strong>
+*DO CURSO DE INICIAÇÃO AGRÍCOLA*
 
-<em>DO CURSO DE INICIAÇÃO AGRÍCOLA</em>
-
-<strong>Art</strong>. 1º As disciplinas de cultura geral do Curso de Iniciação Agrícola são as seguintes:
+**Art**. 1º As disciplinas de cultura geral do Curso de Iniciação Agrícola são as seguintes:
 
 1\. Português.
 
@@ -26,7 +24,7 @@
 
 4\. Geografia e História do Brasil.
 
-<strong>Art</strong>. 2º As disciplinas de cultura técnica do Curso de Iniciação Agrícola são as seguintes:
+**Art**. 2º As disciplinas de cultura técnica do Curso de Iniciação Agrícola são as seguintes:
 
 1\. Agricultura.
 
@@ -34,7 +32,7 @@
 
 3\. Desenho.
 
-<strong>Art</strong>. 3º As disciplinas constitutivas do Curso de Iniciação Agrícola terão a seguinte seriação:
+**Art**. 3º As disciplinas constitutivas do Curso de Iniciação Agrícola terão a seguinte seriação:
 
 Primeira Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Geografia e História do Brasil. 5) Agricultura. 6) Desenho.
 
@@ -42,11 +40,11 @@ Segunda Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Agricul
 
 Parágrafo único. Dar-se-á aos alunos do sexo feminino, tanto na Primeira como na segunda Série, o ensino de cada uma disciplina de cultura geral e a de Economia Doméstica Rural.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO CURSO DE MESTRIA AGRÍCOLA</em>
+*DO CURSO DE MESTRIA AGRÍCOLA*
 
-<strong>Art</strong>. 4º As disciplinas de cultura geral do curso de Mestria Agrícola são as seguintes:
+**Art**. 4º As disciplinas de cultura geral do curso de Mestria Agrícola são as seguintes:
 
 1\. Português.
 
@@ -58,7 +56,7 @@ Parágrafo único. Dar-se-á aos alunos do sexo feminino, tanto na Primeira como
 
 5\. História do Brasil.
 
-<strong>Art</strong>. 5º As disciplinas de cultura técnica do Curso de Mestria Agrícola são as seguintes:
+**Art**. 5º As disciplinas de cultura técnica do Curso de Mestria Agrícola são as seguintes:
 
 1\. Agricultura.
 
@@ -72,21 +70,21 @@ Parágrafo único. Dar-se-á aos alunos do sexo feminino, tanto na Primeira como
 
 6\. Desenho Técnico.
 
-<strong>Art</strong>. 6º As disciplinas constitutivas do Curso de Mestria Agrícola terão a seguinte seriação:
+**Art**. 6º As disciplinas constitutivas do Curso de Mestria Agrícola terão a seguinte seriação:
 
 Primeira Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Geografia do Brasil. 5) História do Brasil. 6) Agricultura. 7) Criação dos Animais Domésticos. 8) Noções de Veterinária e Higiene Rural. 9) Indústrias Agrícolas. 10) Desenho Técnico.
 
 Segunda Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Geografia do Brasil 5) História do Brasil. 6) Agricultura. 7) Criação dos Animais Domésticos. 8) Noções de Veterinária e Higiene Rural. 9) Indústrias Agrícolas. 10) Economia e Administração Rural. 11) Desenho Técnico.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Dos Cursos Agrícolas</em>
+*Dos Cursos Agrícolas*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DISPOSIÇÃO PRELIMINAR</em>
+*DISPOSIÇÃO PRELIMINAR*
 
-<strong>Art</strong>. 7º Os cursos agrícolas, do segundo ciclo do ensino agrícola, são os seguintes:
+**Art**. 7º Os cursos agrícolas, do segundo ciclo do ensino agrícola, são os seguintes:
 
 1\. Curso de Agricultura.
 
@@ -102,9 +100,9 @@ Segunda Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Geograf
 
 7\. Curso de Mecânica Agrícola.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<strong>Art</strong>. 8º Será ministrado, em cada um dos cursos agrícolas técnicos, o ensino das seguintes disciplinas de cultura geral.
+**Art**. 8º Será ministrado, em cada um dos cursos agrícolas técnicos, o ensino das seguintes disciplinas de cultura geral.
 
 1\. Português.
 
@@ -120,11 +118,11 @@ Segunda Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Geograf
 
 7\. História Geral e do Brasil.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO CURSO DE AGRICULTURA</em>
+*DO CURSO DE AGRICULTURA*
 
-<strong>Art</strong>. 9º As disciplinas de cultura técnica do Curso de Agricultura são as seguintes:
+**Art**. 9º As disciplinas de cultura técnica do Curso de Agricultura são as seguintes:
 
 1\. Tecnologia
 
@@ -140,7 +138,7 @@ Segunda Série: 1) Português. 2) Matemática. 3) Ciências Naturais. 4) Geograf
 
 7\. Higiene Rural.
 
-<strong>Art</strong>.10. As disciplinas de cultura geral e de cultura técnica constitutivas do Curso de Agricultura têm a seguinte seriação:
+**Art**.10. As disciplinas de cultura geral e de cultura técnica constitutivas do Curso de Agricultura têm a seguinte seriação:
 
 Primeira Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) História Natural. 5) Física e Química. 6) História Geral. 7) Geografia Geral. 8) Agricultura Geral. 9) Climatologia Agrícola. 10) Desenho Técnico.
 
@@ -148,11 +146,11 @@ Segunda Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) Hist�
 
 Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) História do Brasil. 5) História Geral. 6) Tecnologia. 7) Agricultura Especial. 8) Economia e Administração Rural. 9) Higiene Rural. 10) Desenho Técnico.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO CURSO DE HORTICULTURA</em>
+*DO CURSO DE HORTICULTURA*
 
-<strong>Art</strong>. 11. As disciplinas de cultura técnica do curso de Horticultura são as seguintes:
+**Art**. 11. As disciplinas de cultura técnica do curso de Horticultura são as seguintes:
 
 1\. Tecnologia
 
@@ -172,7 +170,7 @@ Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) Hist�
 
 9\. Higiene Rural.
 
-<strong>Art</strong>. 12. As disciplinas de cultura geral e cultura técnica constitutivas do Curso de Horticultura terão a seguinte seriação:
+**Art**. 12. As disciplinas de cultura geral e cultura técnica constitutivas do Curso de Horticultura terão a seguinte seriação:
 
 Primeira Série: 1) Português; 2) Francês ou Inglês; 3) Matemática; 4) História Natural; 5) Física e Química; 6) História Geral; 7) Geografia Geral; 8) Agricultura Geral; 9) Climatologia Agrícola; 10) Desenho Técnico.
 
@@ -180,9 +178,9 @@ Segunda Série: 1) Português; 2) Francês ou Inglês; 3) Matemática; 4) Histó
 
 Terceira Série: 1) Português; 2) Matemática; 3) Física e Química; 4) História do Brasil; 5) História Geral; 6) Tecnologia; 7) Agricultura Especial; 8) Economia e Administração Rural; 9) Higiene Rural; 11) Desenho Técnico.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO CURSO DE HORTICULTURA</em>
+*DO CURSO DE HORTICULTURA*
 
 Art. 11. As disciplinas de cultura técnica do Curso de Horticultura são as seguintes:
 
@@ -204,7 +202,7 @@ Art. 11. As disciplinas de cultura técnica do Curso de Horticultura são as seg
 
 9\. Higiene Rural.
 
-<strong>Art</strong>. 12. As disciplinas de cultura geral e cultura técnica constitutivas do Curso de Horticultura terão as seguinte seriação:
+**Art**. 12. As disciplinas de cultura geral e cultura técnica constitutivas do Curso de Horticultura terão as seguinte seriação:
 
 Primeira Série: 1) Português; 2) Francês ou Inglês; 3) Matemática; 4) História Natural; 5) Física e Química; 6) História Geral; 7) Geografia Geral; 8) Agricultura Geral; 9) Climatologia Agrícola; 10) Olericultura; 11) Desenho Técnico.
 
@@ -212,11 +210,11 @@ Segunda Série: 1) Português; 2) Francês ou Inglês; 3) Matemática; 4) Histó
 
 Terceira Série: 1) Português; 2) Matemática; 3) Física e Química; 4) História do Brasil; 5) Geografia do Brasil; 6) Tecnologia; 7) Fruticultura; 8) Floricultura e Silvicultura; 9) Economia e Administração Rural; 11) Desenho Técnico.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO CURSO DE ZOOTECNICA</em>
+*DO CURSO DE ZOOTECNICA*
 
-<strong>Art</strong>. 13. As disciplinas de cultura técnica do Curso de Zootecnia, são as seguintes:
+**Art**. 13. As disciplinas de cultura técnica do Curso de Zootecnia, são as seguintes:
 
 1\. Tecnologia.
 
@@ -236,7 +234,7 @@ Terceira Série: 1) Português; 2) Matemática; 3) Física e Química; 4) Histó
 
 9\. Higiene Rural.
 
-<strong>Art</strong>. 14. As disciplinas de cultura geral e cultura técnica constitutivas do curso de Zootecnia terão a seguinte seriação:
+**Art**. 14. As disciplinas de cultura geral e cultura técnica constitutivas do curso de Zootecnia terão a seguinte seriação:
 
 Primeira Série: 1) Português; 2) Francês ou Inglês; 3) Matemática; 4) História Natural; 5) Física e Química; 6) História Geral; 7) Geografia Geral; 8) Zootecnia; 9) Anatomia e Fisiologia dos Animais Domésticos; 10) Criação dos Animais Domésticos; 11) Desenho Técnico.
 
@@ -244,11 +242,11 @@ Segunda Série: 1) Português; 2) Francês ou Inglês; 3) Matemática; 4) Histó
 
 Terceira Série: 1) Português; 2) Matemática; 3) Física e Química; 4) História do Brasil; 5) Geografia do Brasil; 6) Tecnologia; 7) Criação dos Animais Domésticos; 8) Plantas Forrageiras e Alimentação; 9) Prática Veterinária, aplicada; 10) Economia e Administração Rural; 11) Higiene Rural.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO CURSO DE PRÁTICA VETERINÁRIA</em>
+*DO CURSO DE PRÁTICA VETERINÁRIA*
 
-<strong>Art</strong>. 15. As disciplinas de cultura técnica do Curso de Prática Veterinária são as seguintes:
+**Art**. 15. As disciplinas de cultura técnica do Curso de Prática Veterinária são as seguintes:
 
 1\. Tecnologia Alimentar.
 
@@ -268,7 +266,7 @@ Terceira Série: 1) Português; 2) Matemática; 3) Física e Química; 4) Histó
 
 9\. Higiene rural.
 
-<strong>Art</strong>. 16. As disciplinas de cultura geral e cultura técnica constitutivas do curso de Práticas Veterinárias terão a seguinte seriação:
+**Art**. 16. As disciplinas de cultura geral e cultura técnica constitutivas do curso de Práticas Veterinárias terão a seguinte seriação:
 
 Primeira Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) História Natural. 5) Física e Química. 6) História Geral. 7) Geografia Geral. 8) Zootecnia e Alimentação dos Animais. 9) Anatomia e Fisiologia dos Animais Domésticos. 10) Terapêutica Veterinária. 11) Desenho Técnico.
 
@@ -276,11 +274,11 @@ Segunda Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) Hist�
 
 Terceira Série - 1) Português; 2) Matemática; 3) Física e Química; 4) História do Brasil; 5) Geografia do Brasil; 6) Tecnologia; 7) Clínica Veterinária; 8) Pequena Cirurgia Veterinária; 9) Economia e Administração Rural; 10) Higiene Rural.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Do Curso de Indústrias Agrícolas</em>
+*Do Curso de Indústrias Agrícolas*
 
-<strong>Art</strong>. 17. As disciplinas de cultura técnica do curso de Indústrias Agrícolas são as seguintes:
+**Art**. 17. As disciplinas de cultura técnica do curso de Indústrias Agrícolas são as seguintes:
 
 1\. Tecnologia.
 
@@ -296,7 +294,7 @@ Terceira Série - 1) Português; 2) Matemática; 3) Física e Química; 4) Hist�
 
 7\. Tecnologia Especializada.
 
-<strong>Art</strong>. 18. As disciplinas de cultura geral e de cultura técnica do Curso de Indústrias Agrícolas terão a seguinte seriação:
+**Art**. 18. As disciplinas de cultura geral e de cultura técnica do Curso de Indústrias Agrícolas terão a seguinte seriação:
 
 Primeira Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) História Natural. 5) Física e Química. 6) História Geral. 7) Geografia Geral. 8) Tecnologia. 9) Preparo e Conservação de Produtos de Origem Animal. 10) Preparo e Conservação de Produtos de Origem Vegetal. 11) Desenho Técnico.
 
@@ -304,11 +302,11 @@ Segunda Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) Hist�
 
 Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) História do Brasil. 5) Geografia do Brasil. 6) Tecnologia Especializada. 7) Administração Agrícola. 8) Higiene Rural. 9) Desenho Técnico.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do Curso de Lacticínios</em>
+*Do Curso de Lacticínios*
 
-<strong>Art</strong>. 19. As disciplinas de cultura técnica do Curso de Lacticínios são as seguintes:
+**Art**. 19. As disciplinas de cultura técnica do Curso de Lacticínios são as seguintes:
 
 1\. Tecnologia.
 
@@ -332,7 +330,7 @@ Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) Hist�
 
 11\. Tecnologia Especializada.
 
-<strong>Art</strong>. 20. As disciplinas de cultura geral e de cultura técnica do curso de Lacticínios terão a seguinte seriação:
+**Art**. 20. As disciplinas de cultura geral e de cultura técnica do curso de Lacticínios terão a seguinte seriação:
 
 Primeira Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) História Natural. 5) Física e Química. 6) História Geral. 7) Geografia Geral. 8) Anatomia e Fisiologia dos Animais Domésticos. 9) Zootecnia e Alimentação; 10) Microbiologia; 11) Desenho Técnico.
 
@@ -340,11 +338,11 @@ Segunda Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) Hist�
 
 Terceira Série – 1) Português. 2) Matemática. 3) Física e Química. 4) História do Brasil. 5) Geografia do Brasil. 6) Tecnologia Especializada. 7) Mecânica e Instalações. 8) Práticas de Veterinária. 9) Higiene Rural. 10) Economia e Administração Rural. 11) Desenho Técnico.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DOS CURSOS DE MACÂNICA AGRÍCOLA</em>
+*DOS CURSOS DE MACÂNICA AGRÍCOLA*
 
-<strong>Art</strong>. 21. As disciplinas de cultura técnica do Curso de Mecânica Agrícola são as seguintes:
+**Art**. 21. As disciplinas de cultura técnica do Curso de Mecânica Agrícola são as seguintes:
 
 1\. Tecnologia.
 
@@ -374,15 +372,15 @@ Segunda Série - 1) Português. 2) Francês ou Inglês. 3) Matemática. 4) Hist�
 
 Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) História do Brasil. 5) Geografia do Brasil. 6) Tecnologia. 7) Ensaios em Laboratório de Máquinas. 8) Máquinas Agrícolas Motores. 9) Construção de Aparelhos Mecânicos, Máquinas Agrícolas e Motores. 10) Montagem, Ajustagem, Lubrificação e Reparação de Máquinas Agrícolas e Motores. 11) Desenho Técnico.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Dos Cursos Pedagógicos</em>
+*Dos Cursos Pedagógicos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DISPOSIÇÕES PRELIMINARES</em>
+*DISPOSIÇÕES PRELIMINARES*
 
-<strong>Art</strong>. 22. Os cursos agrícolas pedagógicos, do segundo ciclo de ensino agrícola, são os seguintes:
+**Art**. 22. Os cursos agrícolas pedagógicos, do segundo ciclo de ensino agrícola, são os seguintes:
 
 1\. Curso de Magistério de Economia Rural Doméstica.
 
@@ -390,11 +388,11 @@ Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) Hist�
 
 3\. Curso de Administração do Ensino Agrícola.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO CURSO DE MAGISTÉRIO DE ECONOMIA RURAL DOMÉSTICA</em>
+*DO CURSO DE MAGISTÉRIO DE ECONOMIA RURAL DOMÉSTICA*
 
-<strong>Art</strong>. 23. As disciplinas de cultura geral do Curso de Magistério de Economia Rural Doméstica são os seguintes:
+**Art**. 23. As disciplinas de cultura geral do Curso de Magistério de Economia Rural Doméstica são os seguintes:
 
 1\. Português.
 
@@ -402,7 +400,7 @@ Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) Hist�
 
 3\. Ciências Naturais.
 
-<strong>Art</strong>. 33. As disciplinas de cultura técnica do Curso de Magistério de Economia Rural Doméstica são as seguintes:
+**Art**. 33. As disciplinas de cultura técnica do Curso de Magistério de Economia Rural Doméstica são as seguintes:
 
 1\. Desenho e Trabalhos Manuais.
 
@@ -414,17 +412,17 @@ Terceira Série - 1) Português. 2) Matemática. 3) Física e Química. 4) Hist�
 
 5\. Metodologia.
 
-<strong>Art</strong>. 24. As disciplinas constitutivas do Curso de Magistério de Economia Rural Doméstica terão a seguinte seriação:
+**Art**. 24. As disciplinas constitutivas do Curso de Magistério de Economia Rural Doméstica terão a seguinte seriação:
 
 Primeira Série: 1) Português. 2) Matemática. 3) Ciência Naturais. 4) Desenho e Trabalhos Manuais. 5) Indústrias Rurais Caseiras.
 
 Segunda Série: 1) Português. 2) Matemática. 3) Higiene e Dietética. 4) Enfermagem e Puericultura. 5) Metodologia.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DOS CURSOS DE DIDÁTICA DE ENSINO AGRÍCOLA E DE ADMINISTRAÇÃO DO ENSINO AGRÍCOLA</em>
+*DOS CURSOS DE DIDÁTICA DE ENSINO AGRÍCOLA E DE ADMINISTRAÇÃO DO ENSINO AGRÍCOLA*
 
-<strong>Art</strong>. 25. O curso de didática do ensino agrícola abrangerá o ensino das seguintes disciplinas de cultura técnica:
+**Art**. 25. O curso de didática do ensino agrícola abrangerá o ensino das seguintes disciplinas de cultura técnica:
 
 1\. Psicologia Educacional.
 
@@ -436,7 +434,7 @@ Segunda Série: 1) Português. 2) Matemática. 3) Higiene e Dietética. 4) Enfer
 
 5\. História da Agricultura e do Ensino Agrícola.
 
-<strong>Art</strong>. 26. O Curso de Administração do Ensino Agrícola abrangerá o ensino das seguintes disciplinas de cultura técnica.
+**Art**. 26. O Curso de Administração do Ensino Agrícola abrangerá o ensino das seguintes disciplinas de cultura técnica.
 
 1\. Psicologia.
 
@@ -448,22 +446,22 @@ Segunda Série: 1) Português. 2) Matemática. 3) Higiene e Dietética. 4) Enfer
 
 5\. História da Agricultura e do Ensino Agrícola.
 
-<strong>Art</strong>. 27. Poderá um aluno fazer simultaneamente o Curso de Didática do Ensino Agrícola e o Curso de Administração do Ensino Agrícola.
+**Art**. 27. Poderá um aluno fazer simultaneamente o Curso de Didática do Ensino Agrícola e o Curso de Administração do Ensino Agrícola.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Disposições finais</em>
+*Disposições finais*
 
-<strong>Art</strong>. 28. Serão expedidos pelo Ministério da Agricultura os programas de ensino das disciplinas de cultura geral e de cultura técnica constitutivas dos cursos de formação e bem assim os das práticas educativas obrigatórias para os alunos dos mesmos cursos.
+**Art**. 28. Serão expedidos pelo Ministério da Agricultura os programas de ensino das disciplinas de cultura geral e de cultura técnica constitutivas dos cursos de formação e bem assim os das práticas educativas obrigatórias para os alunos dos mesmos cursos.
 
 Parágrafo único. O Programa de instrução preliminar será expedido nos têrmos da legislação especial sôbre a matéria.
 
-<strong>Art</strong>. 29. Êste regulamento entrará em vigor na data de sua publicação.
+**Art**. 29. Êste regulamento entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 30. Revogam-se as disposições em contrário.
+**Art**. 30. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 20 de agôsto de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

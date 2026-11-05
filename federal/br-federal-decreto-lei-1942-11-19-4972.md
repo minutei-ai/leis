@@ -1,5 +1,3 @@
-###DEL-004972-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.972 – DE 19 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 640. 018,50 para pagamento de gratificação de magistério, e dá outras providências

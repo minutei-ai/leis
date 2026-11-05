@@ -1,5 +1,3 @@
-###DEL-008870-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.870 – DE 24 DE JANEIRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr. 100.000,00 (cem mil cruzeiros) para o aparelhamento da Seção de Assistência Social.

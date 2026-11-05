@@ -1,7 +1,3 @@
-1
-
-###DEC-000987-0-000-17-11-1993@@@
-
 DECRETO N° 987, DE 17 DE NOVEMBRO DE 1993
 
 Altera o Decreto n° 907, de 31 de agosto de 1993, que regulamenta a Lei n° 8.689, de 27 de julho de 1993, que dispõe sobre a extinção do Instituto Nacional de Assistência Médica da Previdência Social - INAMPS e dá outras providências.

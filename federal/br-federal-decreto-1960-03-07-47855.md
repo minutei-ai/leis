@@ -1,5 +1,3 @@
-###DEC-047855-0-000-07-03-1960@@@
-
 DECRETO Nº 47.855, de 7 de março de 1960.
 
 Autoriza o cidadão brasileiro Victor Carone a pesquisar água mineral no município de Água de Lindóia, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-004386-0-000-18-06-1942@@@
-
 DECRETO-LEI N. 4.386 – DE 18 DE JUNHO DE 1942
 
 Abre, pelo Ministério da Justiça e Negócios Interiores o crédito especial de 181:808$9 (cento e oitenta e um contos oitocentos e oito mil e novecentos réis), para pagamento, a título de gratificação, aos membros da extinta Comissão de Censura Cinematográfica, nos exercícios de 1935 a 1939

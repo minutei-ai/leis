@@ -1,5 +1,3 @@
-###DEC-073420-0-000-04-01-1974@@@
-
 DECRETO Nº 73.420, DE 4 DE JANEIRO DE 1974.
 
 Torna sem efeito a cassação da disponibilidade de servidor do Ministério do Trabalho e Previdência Social.

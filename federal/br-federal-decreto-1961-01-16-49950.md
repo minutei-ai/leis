@@ -1,5 +1,3 @@
-###DEC-049950-0-000-16-01-1961@@@
-
 DECRETO Nº 49.950, DE 16 DE JANEIRO DE 1961.
 
 Dá nova redação ao art. 2º do Decreto nº 38.965, de 3 de abril de 1956.

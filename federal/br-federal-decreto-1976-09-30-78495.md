@@ -1,5 +1,3 @@
-###DEC-078495-0-000-30-09-1976@@@
-
 Decreto nº 78.495, de 30 de setembro de 1976.
 
 Autoriza o funcionamento dos Cursos de Engenharia Civil e de Engenharia Elétrica, da Faculdade de Engenharia de Sorocaba, com sede na cidade de Sorocaba, Estado de São Paulo.

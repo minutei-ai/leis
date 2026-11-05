@@ -1,5 +1,3 @@
-###DEC-068913-0-000-13-07-1971@@@
-
 DECRETO Nº 68.913, DE 13 DE JULHO DE 1971.
 
 Cria a Reserva Indígena Parakanã situada no Município de Tucuruí, Estado do Pará.

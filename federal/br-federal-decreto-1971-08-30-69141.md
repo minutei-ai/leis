@@ -1,5 +1,3 @@
-###DEC-069141-0-000-30-08-1971@@@
-
 DECRETO Nº 69.141, DE 30 DE AGÔSTO DE 1971.
 
 Concede à firma individual Sinésio Borges o direito de lavrar bauxita, no município de Poços de Caldas,  Estado de Minas Gerais.

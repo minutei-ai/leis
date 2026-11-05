@@ -1,5 +1,3 @@
-###DEC-002361-0-000-31-10-1997@@@
-
 # DECRETO Nº 2.361, DE 31 DE OUTUBRO DE 1997
 
 Dispõe sobre a dissolução e extinção da Companhia Siderúrgica da Amazônia - SIDERAMA, e dá outras providências.

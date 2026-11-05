@@ -4,7 +4,8 @@ Dispõe sobre a criação da Polícia Legislativa da Assembleia Legislativa do E
 
 **O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA DO ESTADO DA BAHIA**, no uso de atribuição prevista no art. 80, § 7º da Constituição do Estado da Bahia, combinando com o art. 41, XXII, da Resolução n.º 1193/85 (Regimento Interno), faço saber que o Plenário da Assembleia aprovou e eu promulgo a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º –** Fica criada a Polícia Legislativa da Assembleia Legislativa do Estado da Bahia, organizada com base nos princípios de hierarquia e disciplina, treinada e devidamente aparelhada para o bom desempenho de suas atividades.
@@ -33,10 +34,11 @@ IX – o apoio à Mesa Diretora e à Corregedoria Parlamentar da Assembleia Legi
 
 **Art. 4º –** A Polícia Legislativa é diretamente subordinada ao Gabinete da Presidência da Assembleia Legislativa da Bahia.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA ORGANIZACIONAL E ADMINISTRATIVA
 
-**Art. 5º** **–** A estrutura organizacional e administrativa da Polícia Legislativa da Assembleia Legislativa da Bahia compreende os órgãos de gerência, coordenação e os cargos de provimento efetivo, com as respectivas funções gratificadas de Gerência e Coordenação, regidos pela Lei nº13.801, de 14 de novembro de 2017 e pela Lei nº 6.677, de 26 de setembro de 1994.
+**Art. 5º–** A estrutura organizacional e administrativa da Polícia Legislativa da Assembleia Legislativa da Bahia compreende os órgãos de gerência, coordenação e os cargos de provimento efetivo, com as respectivas funções gratificadas de Gerência e Coordenação, regidos pela Lei nº13.801, de 14 de novembro de 2017 e pela Lei nº 6.677, de 26 de setembro de 1994.
 
 **Art. 6º –** São órgãos integrantes da estrutura organizacional e administrativa da Polícia Legislativa:
 
@@ -50,7 +52,7 @@ IV – Coordenação de Polícia Judiciária;
 
 V – Coordenação de Inteligência.
 
-**§ 1º** **–** Em conformidade com o disposto na Lei nº 13.801/2017, o Gerente do Departamento de Polícia Legislativa e os Coordenadores responsáveis pelas Coordenações que integram esse Departamento serão designados para ocupar os cargos de provimento em comissão, de livre nomeação e exoneração pela Presidência da Assembleia Legislativa.
+**§ 1º–** Em conformidade com o disposto na Lei nº 13.801/2017, o Gerente do Departamento de Polícia Legislativa e os Coordenadores responsáveis pelas Coordenações que integram esse Departamento serão designados para ocupar os cargos de provimento em comissão, de livre nomeação e exoneração pela Presidência da Assembleia Legislativa.
 
 **§ 2º –** A investidura nos cargos da estrutura funcional da Polícia Legislativa está sujeita a aprovação em concurso público de provas ou de provas e títulos, atendendo à exigência de curso de formação, em conformidade com sua natureza e complexidade, e dar–se–á sempre no primeiro nível da classe inicial da tabela de Técnico Legislativo constante do Plano de Carreira, Cargos e Vencimentos Básicos dos servidores deste Poder Legislativo.
 
@@ -58,7 +60,8 @@ V – Coordenação de Inteligência.
 
 **§ 4º –** O efetivo do Corpo da Polícia Legislativa será formado pelo quadro de Agentes de Polícia Legislativa.
 
-Seção I<br>
+Seção I
+
 Do Departamento de Polícia Legislativa
 
 **Art. 7º –** O Departamento de Polícia Legislativa é o órgão da estrutura organizacional da Polícia Legislativa da Assembleia Legislativa da Bahia responsável pela preservação da ordem e proteção do patrimônio, bens e serviços, competindo–lhe:
@@ -83,7 +86,8 @@ IX – instituir plano de segurança com a finalidade de coibir as ocorrências 
 
 X **–** manutenção da ordem nas dependências da Assembleia Legislativa, acionando a Coordenação de Operações Especiais, a fim de que sejam adotadas as providências necessárias.
 
-Seção II<br>
+Seção II
+
 Da Coordenação de Segurança e Operações Especiais
 
 **Art. 8º –** A Coordenação de Segurança e Operações Especiais é o órgão da estrutura organizacional e funcional da Polícia Legislativa responsável por proporcionar e desenvolver:
@@ -108,7 +112,7 @@ IX **–** policiamento, mediante vigilância eletrônica, do Plenário, salas d
 
 X **–** treinar os servidores da área da segurança legislativa para a execução imediata das diversas tarefas que lhes são incumbidas dentro da Assembleia Legislativa, de forma eficiente e eficaz.
 
-**Art. 9****º –** O processo de capacitação e treinamento dos servidores integrantes da Polícia Legislativa deve buscar alcançar os seguintes objetivos:
+**Art. 9º –** O processo de capacitação e treinamento dos servidores integrantes da Polícia Legislativa deve buscar alcançar os seguintes objetivos:
 
 I- transmissão de conhecimentos inerentes ao exercício da atividade policial, que sejam compatíveis com a área de trabalho;
 
@@ -124,7 +128,8 @@ II – habilidades cognitivas para aquisição de padrões de atitudes e crença
 
 III – habilidades interpessoais aplicadas com a finalidade de autoconsciência e de funcionamento eficaz, dentro de processos sociais e interações humanas.
 
-Seção III<br>
+Seção III
+
 Da Coordenação de Controle, Apoio Logístico e Recepção
 
 **Art. 10 –** A Coordenação de Controle, Apoio Logístico e Recepção é o órgão da estrutura organizacional e funcional da Polícia Legislativa responsável por coordenar e controlar:
@@ -149,7 +154,8 @@ IX – retirada, das dependências da Assembleia Legislativa, daqueles que estej
 
 X – inspeção de entrada e saída de volumes e objetos, quando couber.
 
-Seção IV<br>
+Seção IV
+
 Da Coordenação de Polícia Judiciária
 
 **Art. 11 –** Compete à Coordenação de Polícia Judiciária o exercício das seguintes atividades:
@@ -176,7 +182,8 @@ VII – realizar vigilância e captura.
 
 **§ 3º –** Em caso de flagrante de crime inafiançável, realizar–se–á a prisão do autor, que será entregue à autoridade policial competente.
 
-Seção V<br>
+Seção V
+
 Da Coordenação de Inteligência
 
 **Art. 13 –** A Coordenação de Inteligência é o órgão da estrutura organizacional e funcional da Polícia Legislativa responsável por desenvolver as seguintes atividades:
@@ -207,7 +214,8 @@ XII – empreender ações e programas de fortalecimento da cultura de proteçã
 
 XIII – elaborar, em articulação com as demais unidades, avaliações de risco em áreas e instalações críticas e estratégicas do Centro Administrativo da Bahia.
 
-Seção VI<br>
+Seção VI
+
 Do quadro de servidores da Polícia Legislativa
 
 **Art. 14 –** O quadro de servidores de provimento efetivo que compõem a Polícia Legislativa contará com (60) sessenta vagas, criadas por esta Lei. Esses servidores ocuparão os cargos de Agente de Polícia Legislativa, como determina o Anexo II desta Lei.
@@ -222,7 +230,8 @@ I – um (1) cargo de Função Gratificada de Gerência de Departamento de Polí
 
 II – quatro (4) cargos de Função Gratificada de Coordenação, símbolo FGC.
 
-Seção VII<br>
+Seção VII
+
 Das Atribuições do Agente de Polícia Legislativa
 
 **Art. 16 –** São atribuições do Agente de Polícia Legislativa:
@@ -263,7 +272,8 @@ XVII – planejamento, supervisão, controle e execução dos trabalhos relacion
 
 XVIII – investigações em inquéritos policiais.
 
-Seção VIII<br>
+Seção VIII
+
 Das Prerrogativas do Departamento de Polícia Legislativa
 
 **Art. 17 –** Constituem prerrogativas do Departamento de Polícia Legislativa:
@@ -280,7 +290,8 @@ III – atuar sem revelar sua condição de policial, no interesse do serviço.
 
 **§ 2º –** Compete ao Departamento de Polícia Legislativa proceder ao hasteamento e arriamento das Bandeiras nos termos de Lei Federal.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES TRANSITÓRIAS E FINAIS
 
 **Art. 19 –** O Anexo Único da Lei nº. 8.902, de 18 de dezembro de 2003, passa a vigorar com a inclusão, no Organograma da Assembleia Legislativa do Estado da Bahia, do Departamento de Polícia Legislativa, vinculado à Presidência.
@@ -359,33 +370,17 @@ ESTRUTURA ORGANIZACIONAL E ADMINISTRATIVA DA POLÍCIA LEGISLATIVA
 
 A N E X O   I
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm .5pt 0cm .5pt" width="643"><tbody><tr><td style="width:481.9pt;border-top:solid black 2.25pt;
-  border-left:none;border-bottom:solid black 2.25pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">QUADRO DOS ÓRGÃOS E CARGOS DA ESTRUTURA ORGANIZACIONAL E ADMINISTRATIVA DA POLICIA LEGISLATIVA</p></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="0"></td></tr><tr><td colspan="2" style="width:482.25pt;background:red;
-  padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">ÓRGÃOS</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Departamento de Polícia Legislativa</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenação de Segurança e Treinamento</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenação de Controle e Apoio Logístico e de Recepção</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenação de Operações Especiais</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenação de Polícia Judiciária</p></td></tr><tr><td colspan="2" style="width:482.25pt;background:red;
-  padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">CARGOS</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Gerente do Departamento de Polícia Legislativa</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenador de Segurança e Treinamento</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenador de Controle e Apoio Logístico e de Recepção</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenador de Operações Especiais</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">Coordenador de Polícia Judiciária</p></td></tr><tr><td colspan="2" style="width:482.25pt;padding:0cm .5pt 0cm .5pt" valign="top" width="643"></td></tr><tr><td colspan="2" style="width:482.25pt;border:solid black 1.0pt;
-  mso-border-alt:solid black .5pt;background:#002060;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">A N E X O<span style="mso-spacerun:yes">&nbsp;&nbsp; </span>II</p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> QUADRO DOS ÓRGÃOS E CARGOS DA ESTRUTURA ORGANIZACIONAL E ADMINISTRATIVA DA POLICIA LEGISLATIVA </td><td></td></tr><tr><td colspan="2" valign="top"> ÓRGÃOS </td></tr><tr><td colspan="2" valign="top"> Departamento de Polícia Legislativa </td></tr><tr><td colspan="2" valign="top"> Coordenação de Segurança e Treinamento </td></tr><tr><td colspan="2" valign="top"> Coordenação de Controle e Apoio Logístico e de Recepção </td></tr><tr><td colspan="2" valign="top"> Coordenação de Operações Especiais </td></tr><tr><td colspan="2" valign="top"> Coordenação de Polícia Judiciária </td></tr><tr><td colspan="2" valign="top"> CARGOS </td></tr><tr><td colspan="2" valign="top"> Gerente do Departamento de Polícia Legislativa </td></tr><tr><td colspan="2" valign="top"> Coordenador de Segurança e Treinamento </td></tr><tr><td colspan="2" valign="top"> Coordenador de Controle e Apoio Logístico e de Recepção </td></tr><tr><td colspan="2" valign="top"> Coordenador de Operações Especiais </td></tr><tr><td colspan="2" valign="top"> Coordenador de Polícia Judiciária </td></tr><tr><td colspan="2" valign="top"></td></tr><tr><td colspan="2" valign="top"> A N E X O&nbsp;&nbsp; II </td></tr></tbody></table>
 
 <table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm .5pt 0cm .5pt"><tbody><tr><td style="width:481.9pt;background:red;padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">ÓRGÃOS DE FUNÇÕES DE DIREÇÃO E COORDENAÇÃO</p></td></tr></tbody></table>
+ 1184;mso-padding-alt:0cm .5pt 0cm .5pt"><tbody><tr><td style="width:481.9pt;background:red;padding:0cm .5pt 0cm .5pt" valign="top" width="643">
+
+ÓRGÃOS DE FUNÇÕES DE DIREÇÃO E COORDENAÇÃO
+
+</td></tr></tbody></table>
 
 DEPARTAMENTO DE POLÍCIA LEGISLATIVA
 
 SUBDIVISÃO DA ESTRUTURA INTERNA DO ÓRGÃO
 
-<table border="0" cellpadding="0" cellspacing="0" style="border-collapse:collapse;mso-table-layout-alt:fixed;mso-yfti-tbllook:
- 1184;mso-padding-alt:0cm .5pt 0cm .5pt" width="661"><tbody><tr><td style="width:43.05pt;background:red;padding:0cm .5pt 0cm .5pt" valign="top" width="57"><p class="Tabela-Texto">N</p></td><td colspan="5" style="width:452.7pt;background:red;
-  padding:0cm .5pt 0cm .5pt" valign="top" width="604"><p class="Tabela-Texto" style="margin-left:0cm">NOME DO ÓRGÃO</p></td></tr><tr><td style="width:43.05pt;padding:0cm .5pt 0cm .5pt" valign="top" width="57"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>1</p></td><td colspan="5" style="width:452.7pt;padding:0cm .5pt 0cm .5pt" valign="top" width="604"><p class="Tabela-Texto" style="margin-left:0cm">Coordenação de Segurança e Treinamento</p></td></tr><tr><td style="width:43.05pt;padding:0cm .5pt 0cm .5pt" valign="top" width="57"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>2</p></td><td colspan="5" style="width:452.7pt;padding:0cm .5pt 0cm .5pt" valign="top" width="604"><p class="Tabela-Texto">Coordenação de Controle e Apoio Logístico e de Recepção</p></td></tr><tr><td style="width:43.05pt;padding:0cm .5pt 0cm .5pt" valign="top" width="57"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>3</p></td><td colspan="5" style="width:452.7pt;padding:0cm .5pt 0cm .5pt" valign="top" width="604"><p class="Tabela-Texto">Coordenação de Operações Especiais</p></td></tr><tr><td style="width:43.05pt;padding:0cm .5pt 0cm .5pt" valign="top" width="57"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp; </span>4</p></td><td colspan="5" style="width:452.7pt;padding:0cm .5pt 0cm .5pt" valign="top" width="604"><p class="Tabela-Texto"><span style="mso-spacerun:yes">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>Coordenação de Polícia Judiciária</p></td></tr><tr><td colspan="5" style="width:482.25pt;border-top:solid black 2.25pt;
-  border-left:none;border-bottom:solid black 2.25pt;border-right:none;
-  padding:0cm .5pt 0cm .5pt" valign="top" width="643"><p class="Tabela-Texto">QUADRO DOS CARGOS DE PROVIMENTO EM COMISSÃO</p><p class="Tabela-Texto">(QUANTITATIVOS – SÍMBOLOS)</p></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr><td colspan="2" style="width:304.15pt;background:red;
-  padding:0cm .5pt 0cm .5pt" valign="top" width="406"><p class="Tabela-Texto">CARGO/FUNÇÃO</p></td><td style="width:51.95pt;background:red;padding:0cm .5pt 0cm .5pt" valign="top" width="69"><p class="Tabela-Texto">QQUANT</p></td><td style="width:59.35pt;background:red;padding:0cm .5pt 0cm .5pt" valign="top" width="79"><p class="Tabela-Texto">SSÍMBOLO</p></td><td style="width:66.8pt;background:red;padding:0cm .5pt 0cm .5pt" valign="top" width="89"><p class="Tabela-Texto">V</p></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr><td colspan="2" style="width:304.15pt;padding:0cm .5pt 0cm .5pt" valign="top" width="406"><p class="Tabela-Texto">Gerente de Departamento de Polícia Legislativa</p></td><td style="width:51.95pt;padding:0cm .5pt 0cm .5pt" valign="top" width="69"><p class="Tabela-Texto">01</p></td><td style="width:59.35pt;padding:0cm .5pt 0cm .5pt" valign="top" width="79"><p class="Tabela-Texto">FFGG</p></td><td style="width:66.8pt;padding:0cm .5pt 0cm .5pt" valign="top" width="89"></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr><td colspan="2" style="width:304.15pt;padding:0cm .5pt 0cm .5pt" valign="top" width="406"><p class="Tabela-Texto">Coordenador de Segurança e Treinamento</p></td><td style="width:51.95pt;padding:0cm .5pt 0cm .5pt" valign="top" width="69"><p class="Tabela-Texto">01</p></td><td style="width:59.35pt;padding:0cm .5pt 0cm .5pt" valign="top" width="79"><p class="Tabela-Texto">FFGC</p></td><td style="width:66.8pt;padding:0cm .5pt 0cm .5pt" valign="top" width="89"></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr><td colspan="2" style="width:304.15pt;padding:0cm .5pt 0cm .5pt;
-  height:27.95pt" valign="top" width="406"><p class="Tabela-Texto">Coordenador de Controle e Apoio Logístico e de Recepção</p></td><td style="width:51.95pt;padding:0cm .5pt 0cm .5pt;
-  height:27.95pt" valign="top" width="69"><p class="Tabela-Texto">01</p></td><td style="width:59.35pt;padding:0cm .5pt 0cm .5pt;
-  height:27.95pt" valign="top" width="79"><p class="Tabela-Texto">FFGC</p></td><td style="width:66.8pt;padding:0cm .5pt 0cm .5pt;
-  height:27.95pt" valign="top" width="89"></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr><td colspan="2" style="width:304.15pt;padding:0cm .5pt 0cm .5pt" valign="top" width="406"><p class="Tabela-Texto">Coordenador de Operações Especiais</p></td><td style="width:51.95pt;padding:0cm .5pt 0cm .5pt" valign="top" width="69"><p class="Tabela-Texto">01</p></td><td style="width:59.35pt;padding:0cm .5pt 0cm .5pt" valign="top" width="79"><p class="Tabela-Texto">FFGC</p></td><td style="width:66.8pt;padding:0cm .5pt 0cm .5pt" valign="top" width="89"></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr style="mso-yfti-irow:11;mso-yfti-lastrow:yes;height:19.8pt;mso-row-margin-right:
-  13.5pt"><td colspan="2" style="width:304.15pt;padding:0cm .5pt 0cm .5pt;
-  height:19.8pt" valign="top" width="406"><p class="Tabela-Texto">Coordenador de Polícia Judiciária</p></td><td style="width:51.95pt;padding:0cm .5pt 0cm .5pt;
-  height:19.8pt" valign="top" width="69"><p class="Tabela-Texto">01</p></td><td style="width:59.35pt;padding:0cm .5pt 0cm .5pt;
-  height:19.8pt" valign="top" width="79"><p class="Tabela-Texto">FFGC</p></td><td style="width:66.8pt;padding:0cm .5pt 0cm .5pt;
-  height:19.8pt" valign="top" width="89"></td><td style="mso-cell-special:placeholder;border:none;padding:0cm 0cm 0cm 0cm" width="18"></td></tr><tr></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> N </td><td colspan="5" valign="top"> NOME DO ÓRGÃO </td></tr><tr><td valign="top"> &nbsp;&nbsp; 1 </td><td colspan="5" valign="top"> Coordenação de Segurança e Treinamento </td></tr><tr><td valign="top"> &nbsp;&nbsp; 2 </td><td colspan="5" valign="top"> Coordenação de Controle e Apoio Logístico e de Recepção </td></tr><tr><td valign="top"> &nbsp;&nbsp; 3 </td><td colspan="5" valign="top"> Coordenação de Operações Especiais </td></tr><tr><td valign="top"> &nbsp;&nbsp; 4 </td><td colspan="5" valign="top"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Coordenação de Polícia Judiciária </td></tr><tr><td colspan="5" valign="top"> QUADRO DOS CARGOS DE PROVIMENTO EM COMISSÃO (QUANTITATIVOS – SÍMBOLOS) </td><td></td></tr><tr><td colspan="2" valign="top"> CARGO/FUNÇÃO </td><td valign="top"> QQUANT </td><td valign="top"> SSÍMBOLO </td><td valign="top"> V </td><td></td></tr><tr><td colspan="2" valign="top"> Gerente de Departamento de Polícia Legislativa </td><td valign="top"> 01 </td><td valign="top"> FFGG </td><td valign="top"></td><td></td></tr><tr><td colspan="2" valign="top"> Coordenador de Segurança e Treinamento </td><td valign="top"> 01 </td><td valign="top"> FFGC </td><td valign="top"></td><td></td></tr><tr><td colspan="2" valign="top"> Coordenador de Controle e Apoio Logístico e de Recepção </td><td valign="top"> 01 </td><td valign="top"> FFGC </td><td valign="top"></td><td></td></tr><tr><td colspan="2" valign="top"> Coordenador de Operações Especiais </td><td valign="top"> 01 </td><td valign="top"> FFGC </td><td valign="top"></td><td></td></tr><tr><td colspan="2" valign="top"> Coordenador de Polícia Judiciária </td><td valign="top"> 01 </td><td valign="top"> FFGC </td><td valign="top"></td><td></td></tr><tr></tr></tbody></table>

@@ -1,5 +1,3 @@
-###DEC-050322-0-000-07-03-1961@@@
-
 DECRETO Nº 50.322, DE 7 DE MARÇO DE 1961.
 
 Dispõe sôbre apresentação de relatórios de serviços portuários.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209084)<br>
-
 # DECRETO N° 68.313, DE 26 DE JANEIRO DE 2024
 
 ### _Institui o Distrito Turístico Urbano Centro de São Paulo, e dá providências correlatas._

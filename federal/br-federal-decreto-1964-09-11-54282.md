@@ -1,5 +1,3 @@
-###DEC-054282-0-000-11-09-1964@@@
-
 DECRETO Nº 54.282, DE 11 DE SETEMBRO DE 1964.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Companhia Paranaense de Energia Elétrica a área de terra necessária à construção da Usina Pilôto de Salto Grande de Iguaçu.

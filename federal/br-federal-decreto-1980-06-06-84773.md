@@ -1,5 +1,3 @@
-###DEC-084773-0-000-06-06-1980@@@
-
 DECRETO Nº 84.773, DE 06 DE JUNHO DE 1980.
 
 Promulga o Acordo Relativo às Cartas com Valor Declarado e o Acordo Relativo às Encomendas Postais.

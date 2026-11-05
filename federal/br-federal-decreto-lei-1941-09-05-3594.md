@@ -1,5 +1,3 @@
-###DEL-003594-0-000-05-09-1941@@@
-
 DECRETO-LEI N. 3.594 – DE 5 DE SETEMBRO DE 1941
 
 Modifica a alínea 6 do art. 1º do decreto-lei n. 538, de 7 de julho de 1938

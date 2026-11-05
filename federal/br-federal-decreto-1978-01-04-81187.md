@@ -1,5 +1,3 @@
-###DEC-081187-0-000-04-01-1978@@@
-
 Decreto nº 81 187, de 4 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Educação Física, ministrado pelas Faculdades Integradas de Uberaba, Estado de Minas Gerais.

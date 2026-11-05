@@ -1,5 +1,3 @@
-###DEC-090210-0-000-20-09-1984@@@
-
 Decreto nº 90 210, de 20 setembro de 1984
 
 Autoriza o funcionamento do curso de Ciências Contábeis a ser ministrado pela Faculdade de Ciências Humanas ESUDA, em Recife, Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-099546-0-000-25-09-1990@@@ 
-
 DECRETO N° 99.546, DE 25 DE SETEMBRO DE 1990
 
 Outorga competência ao Ministro da Economia, Fazenda e Planejamento, para alterar alíquotas do Imposto de Importação.

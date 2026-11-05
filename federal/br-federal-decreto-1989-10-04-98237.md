@@ -1,7 +1,3 @@
-1
-
-###DEC-098237-0-000-04-10-1989@@@
-
 DECRETO Nº 98.237, DE 4 DE OUTUBRO DE 1989
 
 Acrescenta dispositivo ao Regulamento de Promoções de Oficiais da Marinha (RPOM), aprovado pelo Decreto nº 93.303, de 26 de setembro de 1986.

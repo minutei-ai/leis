@@ -1,5 +1,3 @@
-###DEC-076849-0-000-17-12-1975@@@
-
 DECRETO Nº 76.849, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Desenho e Plástica, da Escola de Belas Artes "D. Carmem Trápaga Simões", com sede na cidade de Pelotas, Rio Grande do Sul.

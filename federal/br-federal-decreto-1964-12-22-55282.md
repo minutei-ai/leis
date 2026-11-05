@@ -1,5 +1,3 @@
-###DEC-055282-0-000-22-12-1964@@@
-
 DECRETO Nº 55.282, DE 22 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre as medidas destinadas a incrementar a exploração e exportação do minério de ferro.
@@ -294,8 +292,6 @@ A fim de assegurar coerência e simultaneidade às ações das autoridades compe
 
 H. CASTELLO BRANCO
 
-###DEC-055282-0-000-22-12-1964@@@RET01+++
-
 DECRETO Nº 55.282, DE 22 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre as medidas destinadas a incrementar a exploração e exportação do minério de ferro.
@@ -313,8 +309,6 @@ ONDE SE LÊ:
 LEIA-SE:
 
 ... Decreto n.º 55.282, de 2 de dezembro ...
-
-###DEC-055282-0-000-22-12-1964@@@RET02+++
 
 DECRETO Nº 55.282, DE 22 DE DEZEMBRO DE 1964.
 

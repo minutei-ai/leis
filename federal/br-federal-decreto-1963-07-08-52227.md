@@ -1,5 +1,3 @@
-###DEC-052227-0-000-08-07-1963@@@
-
 DECRETO Nº 52.227, DE 08 DE JULHO DE 1963.
 
 Dispõe sôbre o crédito para financiamento de monoculturas e explorações pecuárias, e dá outras providências.

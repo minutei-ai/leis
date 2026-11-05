@@ -1,4 +1,5 @@
-DECRETO “N” Nº 425, DE 27 DE JUNHO DE 2023<br>
+DECRETO “N” Nº 425, DE 27 DE JUNHO DE 2023
+
 (Revogado pelo Decreto "N" Nº 665, de 19 de outubro de 2023).
 
 ~~Dispõe sobre remanejamento de Gleba que abrange o loteamento JARDIM CRISTAL – 1º COMPLEMENTO, neste município.~~
@@ -23,7 +24,51 @@ DECRETO “N” Nº 425, DE 27 DE JUNHO DE 2023<br>
 
 ~~Art. 2º A área denominada loteamento POLO EMPRESARIAL GOIÁS - ETAPA XV, mencionada no inciso II do art. 1º deste Decreto, será composta conforme quadro resumo abaixo:~~
 
-<table><thead></thead><tbody><tr><td style="text-align:center"><s>DESCRIÇÃO</s></td><td style="text-align:center"><s>ÁREA (m²)</s></td><td style="text-align:center"><s>QUANTITATIVO</s></td><td style="text-align:center"><s>PERCENTUAL</s></td></tr><tr><td><s>Área Total de Registro</s></td><td style="text-align:center"><s>58.108,68</s></td><td style="text-align:center">&nbsp;</td><td style="text-align:center"><s>100,00 %</s></td></tr><tr><td><s>Área Total a parcelar Polo Empresarial Goiás Etapa XV</s></td><td style="text-align:center"><s>12.523,23</s></td><td style="text-align:center">&nbsp;</td><td style="text-align:center"><s>21,55 %</s></td></tr><tr><td><s>Área Remanescente Jardim Cristal 1º Complemento</s></td><td style="text-align:center"><s>45.585,45</s></td><td style="text-align:center">&nbsp;</td><td style="text-align:center"><s>78,45 %</s></td></tr><tr><td><s>Área Total a parcelar Polo Empresarial Goiás Etapa XV</s></td><td style="text-align:center"><s>12.523,23</s></td><td style="text-align:center">&nbsp;</td><td style="text-align:center"><s>21,55 %</s></td></tr><tr><td><s>Área de Lotes</s></td><td style="text-align:center"><s>11.506,18</s></td><td style="text-align:center"><s>4</s></td><td style="text-align:center"><s>91,88 %</s></td></tr><tr><td><s>Sistema Viário</s></td><td style="text-align:center"><s>1.017,05</s></td><td style="text-align:center">&nbsp;</td><td style="text-align:center"><s>8,12 %</s></td></tr></tbody></table>
+~~DESCRIÇÃO~~
+
+~~ÁREA (m²)~~
+
+~~QUANTITATIVO~~
+
+~~PERCENTUAL~~
+
+~~Área Total de Registro~~
+
+~~58.108,68~~
+
+~~100,00 %~~
+
+~~Área Total a parcelar Polo Empresarial Goiás Etapa XV~~
+
+~~12.523,23~~
+
+~~21,55 %~~
+
+~~Área Remanescente Jardim Cristal 1º Complemento~~
+
+~~45.585,45~~
+
+~~78,45 %~~
+
+~~Área Total a parcelar Polo Empresarial Goiás Etapa XV~~
+
+~~12.523,23~~
+
+~~21,55 %~~
+
+~~Área de Lotes~~
+
+~~11.506,18~~
+
+~~4~~
+
+~~91,88 %~~
+
+~~Sistema Viário~~
+
+~~1.017,05~~
+
+~~8,12 %~~
 
 ~~Art. 3º O remanejamento referido no art. 1º desta Lei está em conformidade com os documentos acostados ao processo administrativo n° 2021.111.073, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.~~
 
@@ -31,8 +76,10 @@ DECRETO “N” Nº 425, DE 27 DE JUNHO DE 2023<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 27 de junho de 2023.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana~~   <br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana~~

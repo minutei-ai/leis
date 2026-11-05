@@ -1,12 +1,10 @@
-###DEC-023184-0-000-10-06-1947@@@
+**decreto nº 23.184, de 10 de junho de 1947.**
 
-<strong>decreto nº 23.184, de 10 de junho de 1947.</strong>
+***Outorga concessão à Rádio Presidente Venceslau, Limitada, para estabelecer, na cidade de Presidente Venceslau, Estado de São Paulo, uma estação radiodifusôra.***
 
-<em><strong>Outorga concessão à Rádio Presidente Venceslau, Limitada, para estabelecer, na cidade de Presidente Venceslau, Estado de São Paulo, uma estação radiodifusôra.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Presidente Venceslau, Limitada, e tendo em vista o disposto no art. 5º XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Rádio Presidente Venceslau, Limitada, e tendo em vista o disposto no art. 5º XII, da mesma Constituição,
-
-<strong>decreta:</strong>
+**decreta:**
 
 Artigo único. Fica outorgada concessão à Rádio Presidente Venceslau, Limitada para estabelecer, na cidade de Presidente Venceslau Estado de São Paulo, sem direito de exclusividade, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e Obras Públicas.
 
@@ -14,11 +12,11 @@ Parágrafo único. O contrato decorrente desta concessão deverá ser assinado d
 
 Rio de Janeiro, 10 de junho de 1947, 126º da Independência e 59º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Clovis Pestana
 
-<strong>Cláusulas a que se refere o decreto nº 23.184, desta data</strong>
+**Cláusulas a que se refere o decreto nº 23.184, desta data**
 
 I
 
@@ -86,7 +84,7 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a, b, c, d, e,</em> (in fine), <em>j, k</em> e <em>l</em> da cláusula III;
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas *a, b, c, d, e,* (in fine), *j, k* e *l* da cláusula III;
 
 b) se não forem pagas, dentro dos prazos estabelecidos, a quota e contribuições a que se refere a alínea e da cláusula III bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
@@ -102,4 +100,4 @@ Parágrafo 2º - A concessão será considerada perempta se o Govêrno não julg
 
 Rio de Janeiro, 10 de junho de 1947.
 
-<strong>Clóvis Pestana</strong>
+**Clóvis Pestana**

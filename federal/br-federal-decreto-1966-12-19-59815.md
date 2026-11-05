@@ -1,5 +1,3 @@
-###DEC-059815-0-000-19-12-1966@@@
-
 DECRETO Nº 59.815, de 19 de dezembro de 1966.
 
 Fixa os preços mínimos básicos para o algodão, arroz, feijão, farinha de mandioca, milho e sisal, da região Norte/Nordeste da safra 1967/68.

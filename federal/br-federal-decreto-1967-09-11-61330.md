@@ -1,5 +1,3 @@
-###DEC-061330-0-000-11-09-1967@@@
-
 DECRETO Nº 61.330, DE 11 DE SETEMBRO DE 1967.
 
 Institui Grupo de Trabalho para a Integração da Amazônia.

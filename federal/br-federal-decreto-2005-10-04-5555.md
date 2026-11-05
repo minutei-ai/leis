@@ -1,5 +1,3 @@
-###DEC-005555-0-000-04-10-2005@@@
-
 DECRETO Nº 5.555, DE 4 DE OUTUBRO DE 2005
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Coréia para Cooperação nos Usos Pacíficos da Energia Nuclear, celebrado em Seul, em 18 de janeiro de 2001.

@@ -1,5 +1,3 @@
-###DEC-084460-0-000-04-02-1980@@@
-
 Decreto nº 84.460 de 04 de fevereiro de 1980
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Itaporã, Fátima do Sul, Jatey, Caarapo, Deodápolis e Glória de Dourados, no Estado de Mato Grosso do Sul, compreendidos nas áreas prioritárias de reforma agrária, fixadas pelo Decreto nº 84.459, de 04 de fevereiro de 1980.

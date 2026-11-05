@@ -1,5 +1,3 @@
-###DEC-048456-0-000-30-06-1960@@@
-
 Decreto nº 48.456, de 30 de junho de 1960.
 
 Regulamenta o art. 4º, letra b, da Lei nº 1.521, de 26 de dezembro de 1951.

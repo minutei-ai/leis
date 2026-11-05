@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/74333)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2007/compilacao-lei-12730-11.10.2007.html)
 
 # LEI N° 12.730, DE 11 DE OUTUBRO DE 2007
@@ -9,7 +8,8 @@
 
 ### _Proíbe o uso telefone celular nos estabelecimentos de ensino do Estado, durante o horário de aula._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
 
 ~~Artigo 1° - Ficam os alunos proibidos de utilizar telefone celular nos estabelecimentos de ensino do Estado, durante o horário das aulas.~~
@@ -74,10 +74,16 @@ _\- Artigo 5° acrescentado pela [Lei n° 18.058, de 05/12/2024](https://www.al.
 
 _\- Artigo 6° acrescentado pela [Lei n° 18.058, de 05/12/2024](https://www.al.sp.gov.br/norma/210299), com efeitos a partir de 30 dias após a publicação._
 
-Palácio dos Bandeirantes, 11 de outubro de 2007.<br>
-JOSÉ SERRA<br>
-Maria Helena Guimarães de Castro<br>
-Secretária da Educação<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+Palácio dos Bandeirantes, 11 de outubro de 2007.
+
+JOSÉ SERRA
+
+Maria Helena Guimarães de Castro
+
+Secretária da Educação
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 11 de outubro de 2007.

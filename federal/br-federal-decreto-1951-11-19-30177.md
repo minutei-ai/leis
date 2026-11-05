@@ -1,16 +1,14 @@
-###DEC-030177-0-000-19-11-1951@@@
+**DECRETO Nº 30.177, DE 19 DE NOVEMBRO DE 1951.**
 
-<strong>DECRETO Nº 30.177, DE 19 DE NOVEMBRO DE 1951.</strong>
+***Autoriza a Companhia Laticinios***  ***“Santa Amélia” S.A a ampliar as instalações da usina geradora do Sumidouro, no rio Pomba, município de Mercês, Estado de Minas Gerais.***
 
-<em><strong>Autoriza a Companhia Laticinios</strong></em>  <em><strong>“Santa Amélia” S.A a ampliar as instalações da usina geradora do Sumidouro, no rio Pomba, município de Mercês, Estado de Minas Gerais.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos dos arts. 1º e 2º do Decreto-lei n. 2.059, de 5 de março de 1940;
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos dos arts. 1º e 2º do Decreto-lei n. 2.059, de 5 de março de 1940;
 
 CONSIDERANDO que, pela sua Resolução n.704, a medida foi julgada conveniente pelo Concelho Nacional de Águas  e Energia Elétrica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica autorizada a Companhia Laticinios “Santa Amélia” S. A ampliar suas instalações no município de Merces, Estado de Minas Gerais, mediante a execução das obras e instalações seguintes, na usina de sumidouro, no rio Pomba:
+**Art**. 1º Fica autorizada a Companhia Laticinios “Santa Amélia” S. A ampliar suas instalações no município de Merces, Estado de Minas Gerais, mediante a execução das obras e instalações seguintes, na usina de sumidouro, no rio Pomba:
 
 1- construção de uma barragem;
 
@@ -24,7 +22,7 @@ CONSIDERANDO que, pela sua Resolução n.704, a medida foi julgada conveniente p
 
 6 - obras complementares dos serviços acima.
 
-<strong>Art</strong>. 2º Caducará o presente título, independente de ato declaratório, se a interessada não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título, independente de ato declaratório, se a interessada não satisfizer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, a partir de sua publicação.
 
@@ -34,12 +32,12 @@ III - Iniciar e concluir as obras nos prazos que forem fixados pelo Ministro da 
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 3º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de novembro de 1951; 130º da Independência e 63º da República
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

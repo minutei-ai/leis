@@ -1,5 +1,3 @@
-###DEL-000380-0-000-23-12-1968@@@
-
 DECRETO-LEI Nº 380, DE 23 DE DEZEMBRO DE 1968
 
 Dispõe sôbre a entrega das parcelas pertencentes aos Municípios, do produto da arrecadação do impôsto sôbre circulação de mercadorias.

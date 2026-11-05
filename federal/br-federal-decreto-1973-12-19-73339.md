@@ -1,5 +1,3 @@
-###DEC-073339-0-000-19-12-1973@@@
-
 decreto nº 73.339 - de 19 de dezembro de 1973
 
 Aproveita, no Quadro de Pessoal do Ministério da Agricultura, servidor em disponibilidade, e dá outras providências.

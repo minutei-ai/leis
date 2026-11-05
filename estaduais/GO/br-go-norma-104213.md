@@ -1,4 +1,5 @@
-DECRETO Nº 9.909, DE 20 DE JULHO DE 2021<br>
+DECRETO Nº 9.909, DE 20 DE JULHO DE 2021
+
 \- [Vide Decreto nº 10.864, de 18-2-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112997)
 
 Institui o Comitê Estadual de Gestão de Incêndios Florestais e dá outras providências.

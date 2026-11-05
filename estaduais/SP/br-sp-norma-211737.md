@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211737)<br>
-
 # DECRETO N° 70.037, DE 30 DE OUTUBRO DE 2025
 
 ### _Dispõe sobre a outorga da Medalha de Honra e Mérito da Gestão Pública em Saúde "Walter Leser"._

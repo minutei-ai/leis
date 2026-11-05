@@ -1,5 +1,3 @@
-###DEC-094444-0-000-12-06-1987@@@
-
 DECRETO Nº 94.444, DE 12 DE JUNHO DE 1987
 
 Transfere os fundos e programas de crédito do Banco Central do Brasil para o Ministério da Fazenda e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084051-0-000-03-10-1979@@@
-
 Decreto nº 84.051, de 03 de outubro de 1979.
 
 Inclui na composição do CONCEX o Secretário-Executivo do menor órgão.

@@ -12,8 +12,6 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 **GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA,** em Goiânia, aos 24 dias do mês de Janeiro de 2024.
 
-<br>
-
 **SELENE PERES PERES NUNES**
 
 QUADRO 1
@@ -37,6 +35,7 @@ QUADRO 2
 | 99 999 9999 9.000 | RESERVA DE CONTINGÊNCIA | 9 - RESERVA DE CONTINGÊNCIA | 17530161 | 90 |
 | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
 | R$ 296.749.000,00 | R$ 4.990.575,00 | R$ 4.990.575,00 |
-|   | **VALOR TOTAL<br>
+|   | **VALOR TOTAL
+
 A REDUZIR** |
 | R$ 4.990.575,00 |

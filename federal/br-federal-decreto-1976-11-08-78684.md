@@ -1,5 +1,3 @@
-###DEC-078684-0-000-08-11-1976@@@
-
 DECRETO Nº 78.684, DE 8 DE NOVEMBRO DE 1976.
 
 Concede à Itapicuru Agro-Industrial S.A. o direito de lavrar calcário no Município de Codó, Estado do Maranhão.

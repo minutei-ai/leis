@@ -1,5 +1,3 @@
-###DEC-002483-0-000-02-02-1998@@@
-
 DECRETO Nº 2.483, DE 2 DE FEVEREIRO DE 1998
 
 Cria a Floresta Nacional de Altamira, no Estado do Pará, e dá outras providências.

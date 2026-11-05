@@ -1,7 +1,3 @@
-1
-
-###DEL-000862-0-000-12-09-1969@@@
-
 DECRETO-LEI Nº 862, DE 12 DE SETEMBRO DE 1969
 
 Autoriza a criação da Emprêsa Brasileira de Filmes Sociedade Anônima (EMBRAFILME), e dá outras providências.
@@ -83,8 +79,6 @@ Aurélio de Lyra Tavares
 Márcio de Souza e Mello
 
 Tarso Dutra
-
-###DEL-000862-0-000-12-09-1969@@@RET01+++
 
 DECRETO-LEI Nº 862, DE 12 DE SETEMBRO DE 1969
 

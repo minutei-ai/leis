@@ -1,5 +1,3 @@
-###DEL-005598-0-000-21-06-1943@@@
-
 DECRETO‑LEI N. 5.598 – DE 21 DE JUNHO DE 1943
 
 Modifica o decreto‑lei n. 5.317, de 11 de março da 1943, na parte referente ao imposto, sôbre calçados

@@ -1,5 +1,3 @@
-###DEC-097446-0-000-12-01-1989@@@
-
 DECRETO Nº 97.446, DE 12 DE JANEIRO DE 1989
 
 Fixa, no Ministério da Aeronáutica, os mínimos de vaga para promoção obrigatória, referentes ao ano-base de 1988, nos diversos Quadros do Corpo de Oficiais da Ativa.

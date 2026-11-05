@@ -1,5 +1,3 @@
-###DEC-045652-0-000-25-03-1959@@@
-
 decreto nº 45.652, DE 25 DE MARÇO DE 1959.
 
 Altera o Regulamento para o Corpo do Pessoal Subalterno da Armada.

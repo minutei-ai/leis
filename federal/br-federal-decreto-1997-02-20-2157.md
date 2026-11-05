@@ -1,5 +1,3 @@
-###DEC-002157-0-000-20-02-1997@@@
-
 DECRETO Nº 2.157 DE 20 DE FEVEREIRO DE 1997
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 27, entre Brasil e Venezuela, de 10 de dezembro de 1996.

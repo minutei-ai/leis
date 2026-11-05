@@ -207,7 +207,3 @@ Denominação do cargo do Tesouro Estadual Código Símbolo Nº de Cargos Cargos
 (Anexo com redação dada pelo Anexo X da Lei Delegada nº 182, de 21/1/2011.)
 
 (Vide art. 55 da Lei Delegada nº 182, de 21/1/2011.)
-
-\===========================================================
-
-Data da última atualização: 28/6/2013.

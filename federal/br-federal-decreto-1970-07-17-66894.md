@@ -1,5 +1,3 @@
-###DEC-066894-0-000-17-07-1970@@@
-
 DECRETO Nº 66.894, DE 17 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 38.053, de 10 de outubro de 1955.

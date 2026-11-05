@@ -1,5 +1,3 @@
-###DEC-080175-0-000-16-08-1977@@@
-
 DECRETO Nº 80.175, DE 16 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor de a Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, necessários à instalação do Sistema de Microondas, via de acesso e rede de alta-tensão para o Terminal Marítimo da Baía da Ilha Grande (TEBIG), no Estado do Rio de Janeiro.

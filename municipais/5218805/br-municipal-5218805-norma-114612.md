@@ -6,8 +6,10 @@ Altera a Lei n. 3.635/1998.
 
 Art. 1° Esta Lei altera a Lei n. 3.635, de 03 de março de 1998, Código de Posturas, passando o seu art. 190, § 1°, a apresentar a seguinte redação:
 
-"Art. 190. ..........................................................................................<br>
-§ 1° As multas pagas dentro do prazo previsto no art. 203 terão desconto de 15% (quinze por cento).<br>
+"Art. 190. ..........................................................................................
+
+§ 1° As multas pagas dentro do prazo previsto no art. 203 terão desconto de 15% (quinze por cento).
+
 § 2° ...................................................................................................".
 
 Art.  2° Esta Lei entrará em vigor na data de sua publicação.

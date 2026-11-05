@@ -1,5 +1,3 @@
-###DEC-007013-0-000-19-11-2009@@@
-
 DECRETO Nº 7.013, DE 19 DE NOVEMBRO DE 2009.
 
 Altera o Decreto no 5.209, de 17 de setembro de 2004, que regulamenta a Lei no 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

@@ -1,5 +1,3 @@
-###DEC-058614-0-000-14-06-1966@@@
-
 DECRETO Nº 58.614, DE 14 DE JUNHO DE 1966.
 
 Outorga à Companhia Estadual de Energia Elétrica concessão para distribuir energia elétrica no Município de Machadinho, Estado do Rio Grande do Sul.

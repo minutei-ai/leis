@@ -1,5 +1,3 @@
-###DEL-001485-0-000-25-10-1976@@@
-
 # DECRETO-LEI Nº 1.485, DE 25 DE OUTUBRO DE 1976
 
 Institui estímulos fiscais ao turismo estrangeiro no País.

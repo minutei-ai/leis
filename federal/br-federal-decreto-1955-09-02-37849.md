@@ -1,38 +1,36 @@
-###DEC-037849-0-000-02-09-1955@@@
+**DECRETO Nº 37.849, DE 02 DE SETEMBRO DE 1955.**
 
-<strong>DECRETO Nº 37.849, DE 02 DE SETEMBRO DE 1955.</strong>
+***Aprova o Regulamento da Diretoria de Engenharia da Aeronáutica.***
 
-<em><strong>Aprova o Regulamento da Diretoria de Engenharia da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Diretoria de Engenharia da Aeronáutica, que com êste baixa, assinado pelo o Ministro dos Estados de Negócios da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Diretoria de Engenharia da Aeronáutica, que com êste baixa, assinado pelo o Ministro dos Estados de Negócios da Aeronáutica.
-
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposicões em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposicões em contrário.
 
 R io de Janeiro, em 2 de setembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes
 
-<strong>REGULAMENTO DA DIRETORIA DE ENGENHARIA DA AERONÁUTICA</strong>
+**REGULAMENTO DA DIRETORIA DE ENGENHARIA DA AERONÁUTICA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>MISSÃO E SUBORDINAÇÃO</em>
+*MISSÃO E SUBORDINAÇÃO*
 
-<strong>Art</strong>. 1º A Diretoria de Engenharia da Aeronáutica (D Eng Aer) é o órgão do Ministério da Aeronáutica que tem o encargo de estudar, planejar, executar e conservar as obras e instalações dêste Ministério, bem como organizar e manter em dia o cadastro de seus bens imóveis.
+**Art**. 1º A Diretoria de Engenharia da Aeronáutica (D Eng Aer) é o órgão do Ministério da Aeronáutica que tem o encargo de estudar, planejar, executar e conservar as obras e instalações dêste Ministério, bem como organizar e manter em dia o cadastro de seus bens imóveis.
 
-<strong>Art</strong>. 2º A Diretoria de Engenharia é diretamente subordinada ao Ministro da Aeronáutica e deve manter estreita ligação com o Estado-Maior da Aeronáutica, a fim de dar cumprimento às recomendações dêste nos assuntos de sua atribuição.
+**Art**. 2º A Diretoria de Engenharia é diretamente subordinada ao Ministro da Aeronáutica e deve manter estreita ligação com o Estado-Maior da Aeronáutica, a fim de dar cumprimento às recomendações dêste nos assuntos de sua atribuição.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Organização</em>
+*Organização*
 
-<strong>Art</strong>. 3º A Diretoria de Engenharia compreende: Diretor Geral de Engenharia da Aeronáutica;
+**Art**. 3º A Diretoria de Engenharia compreende: Diretor Geral de Engenharia da Aeronáutica;
 
 Gabinete;
 
@@ -50,15 +48,15 @@ Serviço de Intendência (S I);
 
 Seção Auxiliar (Sec Aux);.
 
-<strong>Art</strong>. 4º A execução dos trabalhos da Diretoria de Engenharia nas Zonas Aéreas é afeta aos Serviços de Engenharia das Zonas Aéreas que são subordinadas administrativa e disciplinarmente, aos Comandos de Zona tècninamente à Diretoria de Engenharia, da qual recebem instruções diretas nesse sentido.
+**Art**. 4º A execução dos trabalhos da Diretoria de Engenharia nas Zonas Aéreas é afeta aos Serviços de Engenharia das Zonas Aéreas que são subordinadas administrativa e disciplinarmente, aos Comandos de Zona tècninamente à Diretoria de Engenharia, da qual recebem instruções diretas nesse sentido.
 
-<strong>Art</strong>. 5º O Gabinete da Diretoria de Engenharia compreende: Chefe de Gabinete, Assistente Jurídico, Assistente Técnico e Secretário.
+**Art**. 5º O Gabinete da Diretoria de Engenharia compreende: Chefe de Gabinete, Assistente Jurídico, Assistente Técnico e Secretário.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>ATRIBUIÇÕES</em>
+*ATRIBUIÇÕES*
 
-<strong>Art</strong>. 6º Compete ao Diretor Geral de Engenharia:
+**Art**. 6º Compete ao Diretor Geral de Engenharia:
 
 a) dirigir e fiscalizar tôdas as atividades da Diretoria de Engenharia;
 
@@ -74,7 +72,7 @@ f) coordenar as atividades dos Serviços de Engenharia das Zonas Áereas que lhe
 
 g) apresentar, anualmente, ao Ministro da Aeronáutica um relatório circunstanciado dos serviços executados pela a Diretoria de Engenharia;
 
-<strong>Art</strong>. 7º Ao chefe do Gabinete, auxiliar imediato do Diretor, compete:
+**Art**. 7º Ao chefe do Gabinete, auxiliar imediato do Diretor, compete:
 
 a) a ligação com os órgãos militares do Ministério da Aeronáutica ;
 
@@ -82,13 +80,13 @@ b) os assuntos relativos à vida própria da Diretoria de Engenharia;
 
 c) as funções de Agente Diretor, se lhe for delegada essa atribuição.
 
-<strong>Art</strong>. 8º Ao Assistente Jurídico compete prestar a assistência necessária no trato de assuntos legais atinente à Diretoria, especialmente nas questões de lavratura de contrato, desapropriação, aquisição e locação de imóveis.
+**Art**. 8º Ao Assistente Jurídico compete prestar a assistência necessária no trato de assuntos legais atinente à Diretoria, especialmente nas questões de lavratura de contrato, desapropriação, aquisição e locação de imóveis.
 
-<strong>Art</strong>. 9º Ao Assistente Técnico compete prestar a assistência necessária e coordenar as Divisões no trato dos assuntos técnicos especializados.
+**Art**. 9º Ao Assistente Técnico compete prestar a assistência necessária e coordenar as Divisões no trato dos assuntos técnicos especializados.
 
-<strong>Art</strong>. 10º Ao Secretário compete encarregar-se das audiências e da correspondência do Diretor.
+**Art**. 10º Ao Secretário compete encarregar-se das audiências e da correspondência do Diretor.
 
-<strong>Art</strong>. 11º À Divisão de Estudos e Projetos compreende:
+**Art**. 11º À Divisão de Estudos e Projetos compreende:
 
 a) Seção de Arquitetura;
 
@@ -96,7 +94,7 @@ b) Seção de Estrutura;
 
 c) Seção de Orçamento e Plano de Obras.
 
-<strong>Art</strong>. 12 À Divisão de Estudos e Projeto compete:
+**Art**. 12 À Divisão de Estudos e Projeto compete:
 
 a) estudar os planos das edificações, projetá-los e detalhá-los;
 
@@ -122,7 +120,7 @@ k) examinar os orçamentos elaborados por órgãos estranhos à Diretoria;
 
 l) realizar todos os estudos e projetos que se relacionem com a edificações e instalações.
 
-<strong>Art</strong>. 13 A Divisão de Edificações e Instalações compreende:
+**Art**. 13 A Divisão de Edificações e Instalações compreende:
 
 a) Seção de Edificações;
 
@@ -130,7 +128,7 @@ b) Seção de Instalação;
 
 c) Seção de Concorrência.
 
-<strong>Art</strong>.14 À Divisão de Edificações e Instalações compete:
+**Art**.14 À Divisão de Edificações e Instalações compete:
 
 a) superintender a execução das edificações hangares, rampas flutuantes, depósitos, abrigos, ect., construídos pela a própria Diretoria ou pelos Serviços de Engenharia das Zonas Aéreas;
 
@@ -142,7 +140,7 @@ d) examinar as propostas apresentadas nas concorrências para execução de obra
 
 e) fazer apuração do custo das obras realizadas.
 
-<strong>Art</strong>. 15 A Divisão de Infra-Estrutura compete:
+**Art**. 15 A Divisão de Infra-Estrutura compete:
 
 a) Seção de Estudos;
 
@@ -150,7 +148,7 @@ b) Seção de Construção;
 
 c) Seção de Conservação.
 
-<strong>Art</strong>.16. À Divisão de Infra-Estrutura compreende:
+**Art**.16. À Divisão de Infra-Estrutura compreende:
 
 a) estudar os planos e os projetos das infra-estruturas;
 
@@ -162,7 +160,7 @@ d) promover a execução dos projetos das obras relativas a construção, amplia
 
 e) superintender os trabalhos de conservação das áreas de pouso.
 
-<strong>Art</strong>. 17. A Divisão de Contrôle, compreende:
+**Art**. 17. A Divisão de Contrôle, compreende:
 
 a) Seção de Estatística;
 
@@ -170,7 +168,7 @@ b) Seção de Cadastro;
 
 c) Seção de Contabilidade Industrial.
 
-<strong>Art</strong>. 18. À Divisão de Contrôle, compete:
+**Art**. 18. À Divisão de Contrôle, compete:
 
 a) organizar o cadastro de todos os próprios do Ministério, coletando e verificando os dados fornecidos pelos diversos serviços e fornecendo ás demais divisões, quando solicitados, os dados desse cadastro;
 
@@ -184,7 +182,7 @@ e) fazer a apuração estatística dos serviços executados pelos os demais órg
 
 f) reunir e preparar dados para elaboração do relatório do Diretor.
 
-<strong>Art</strong>. 19. A Divisão Administrativa compreende:
+**Art**. 19. A Divisão Administrativa compreende:
 
 a) Seção do Pessoal Militar;
 
@@ -192,7 +190,7 @@ b) Seção do Pessoal Civil;
 
 c) Seção de Transportes e Serviços Gerais.
 
-<strong>Art</strong>. 20. À Divisão Administrativa compete:
+**Art**. 20. À Divisão Administrativa compete:
 
 a) atender a todos os serviços referentes ao pessoal militar e civil da Diretoria;
 
@@ -206,23 +204,23 @@ e) conservação das dependências da Diretoria:
 
 f) transportes.
 
-<strong>Art</strong>. 21. Ao Serviço de Intendência da Diretoria de Engenharia, regido pelo regulamento de Administração da Aeronáutica (RADA), compete o trato das questões e assuntos pertinentes a finanças, previsões e outros que lhe forem atribuídos.
+**Art**. 21. Ao Serviço de Intendência da Diretoria de Engenharia, regido pelo regulamento de Administração da Aeronáutica (RADA), compete o trato das questões e assuntos pertinentes a finanças, previsões e outros que lhe forem atribuídos.
 
-<strong>Art</strong>. 22. A Seção Auxiliar compete:
+**Art**. 22. A Seção Auxiliar compete:
 
 a) o recebimento, expedição e o arquivo da correspondência;
 
 b) promover a publicação dos editais de concorrência e confecção dos contratos de acôrdo com as prescrições legais.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 23. O Diretor de Engenharia é um Major-Brigadeiro ou Brigadeiro da categoria de Engenheiro.
+**Art**. 23. O Diretor de Engenharia é um Major-Brigadeiro ou Brigadeiro da categoria de Engenheiro.
 
-<strong>Art</strong>. 24. O Chefe do Gabinete é um Coronel-Aviador, de preferência da Categoria de Engenheiro.
+**Art**. 24. O Chefe do Gabinete é um Coronel-Aviador, de preferência da Categoria de Engenheiro.
 
-<strong>Art</strong>. 25. As Divisões de Estudos e Projetos, de Edificações e Instalações e Infra-Estrutura e de Contrôle são chefiados por oficiais ou, em comissão por funcionários do Quadro Permanente do Ministério a Aeronáutica, mediante proposta do Diretor de Engenharia, através da Diretoria do Pessoal da Aeronáutica e de acôrdo com a legislação vigente.
+**Art**. 25. As Divisões de Estudos e Projetos, de Edificações e Instalações e Infra-Estrutura e de Contrôle são chefiados por oficiais ou, em comissão por funcionários do Quadro Permanente do Ministério a Aeronáutica, mediante proposta do Diretor de Engenharia, através da Diretoria do Pessoal da Aeronáutica e de acôrdo com a legislação vigente.
 
 § 1º As chefias das Divisões, quando exercidas por oficiais, são privativas de Coronel ou Tenente Coronel-Aviador, da categoria de Engenheiro.
 
@@ -230,32 +228,32 @@ b) promover a publicação dos editais de concorrência e confecção dos contra
 
 § 3º A Chefia da Divisão de Contrôle poderá ser atribuída, ainda, a funcionário diplomado em Direito.
 
-<strong>Art</strong>. 26. O Chefe da Divisão Administrativa é um Major.
+**Art**. 26. O Chefe da Divisão Administrativa é um Major.
 
-<strong>Art</strong>. 27 O Chefe da Seção do Pessoal Militar é um Capitão ou Tenente e os Chefes da Seção Auxiliar e da Seção do Pessoal Civil são funcionários ou extranumerários mensalistas da Diretoria.
+**Art**. 27 O Chefe da Seção do Pessoal Militar é um Capitão ou Tenente e os Chefes da Seção Auxiliar e da Seção do Pessoal Civil são funcionários ou extranumerários mensalistas da Diretoria.
 
-<strong>Art</strong>. 28. O Chefe da Seção de Transportes e Serviços Gerais é um Capitão.
+**Art**. 28. O Chefe da Seção de Transportes e Serviços Gerais é um Capitão.
 
-<strong>Art</strong>. 29. O Secretário é um funcionário da escolha do Diretor Geral de Engenharia.
+**Art**. 29. O Secretário é um funcionário da escolha do Diretor Geral de Engenharia.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>SUBSTITUIÇÕES</em>
+*SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 30. O Diretor de Engenharia será substituído, em seus impedimentos, pelo oficial mais graduado da Diretoria.
+**Art**. 30. O Diretor de Engenharia será substituído, em seus impedimentos, pelo oficial mais graduado da Diretoria.
 
-<strong>Art</strong>. 31. As demais substituições se processarão no âmbito das Divisões, Seções e Serviços de Intendência, sendo obedecida a procedência hierárquica.
+**Art**. 31. As demais substituições se processarão no âmbito das Divisões, Seções e Serviços de Intendência, sendo obedecida a procedência hierárquica.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 32. Os Serviços de Engenharia de Zona Aérea serão tantos quantos forem as Zonas Aéreas.
+**Art**. 32. Os Serviços de Engenharia de Zona Aérea serão tantos quantos forem as Zonas Aéreas.
 
-<strong>Art</strong>. 33. O Diretor de Engenharia poderá propor ao Ministro da Aeronáutica o desdobramento dos Serviços de Engenharia das Zonas Aéreas e os da própria Diretoria, a fim de melhor atender às necessidades do serviço.
+**Art**. 33. O Diretor de Engenharia poderá propor ao Ministro da Aeronáutica o desdobramento dos Serviços de Engenharia das Zonas Aéreas e os da própria Diretoria, a fim de melhor atender às necessidades do serviço.
 
-<strong>Art</strong>. 34. Os casos omissos serão resolvidos pelo o Ministro da Aeronáutica
+**Art**. 34. Os casos omissos serão resolvidos pelo o Ministro da Aeronáutica
 
-<strong>TENENTE-BRIGADEIRO EDUARDOGOMES</strong>
+**TENENTE-BRIGADEIRO EDUARDOGOMES**
 
 Ministro da Aeronáutica

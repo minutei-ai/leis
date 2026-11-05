@@ -1,5 +1,3 @@
-###DEC-064897-0-000-28-07-1969@@@
-
 DECRETO Nº 64.897 - DE 28 DE JUlHO DE 1969.
 
 Aprova alteração do Regimento da Consultoria Geral da República.

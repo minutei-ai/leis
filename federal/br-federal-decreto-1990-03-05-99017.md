@@ -1,7 +1,3 @@
-1
-
-###DEC-099017-0-000-05-03-1990@@@
-
 DECRETO Nº 99.017, DE 5 DE MARÇO DE 1990
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Faculdade Vitoriana de Ciências Contábeis.

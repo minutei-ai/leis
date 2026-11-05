@@ -1,5 +1,3 @@
-###DEC-070333-0-000-28-03-1972@@@
-
 DECRETO Nº 70.333, DE 28 DE MARÇO DE 1972.
 
 Redistribui, com a respectiva ocupante, para o Estado-Maior das Forças Armadas, cargo do Ministério da Aeronáutica, e dá outras providências.

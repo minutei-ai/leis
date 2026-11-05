@@ -1,5 +1,3 @@
-###DEC-053569-0-000-20-02-1964@@@
-
 DECRETO Nº 53.569, DE 20 DE FEVEREIRO DE 1964.
 
 Altera o Decreto número 52.903, de 21 de novembro de 1963, que aprovou o novo Regimento do Gabinete do Ministro da Justiça e Negócios Interiores.

@@ -1,5 +1,3 @@
-###DEC-081826-0-000-23-06-1978@@@
-
 DecreTo nº 81.826, de 23 de junho de 1978.
 
 Concede à Mineração Rio do Norte S.A. o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

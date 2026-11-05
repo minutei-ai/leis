@@ -1,6 +1,10 @@
 > **LEI Nº 4.106, DE 25 DE MAIO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o direito da mulher à permanência de acompanhantes e atendentes pessoais nas salas de exames e consultas das unidades hospitalares, clínicas médicas e estabelecimentos afins quando houver procedimentos sedativos, de anestesia geral e outros procedimentos.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o direito da mulher à permanência de acompanhantes e atendentes pessoais nas salas de exames e consultas das unidades hospitalares, clínicas médicas e estabelecimentos afins quando houver procedimentos sedativos, de anestesia geral e outros procedimentos.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

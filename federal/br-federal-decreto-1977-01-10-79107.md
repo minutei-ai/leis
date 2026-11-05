@@ -1,5 +1,3 @@
-###DEC-079107-0-000-10-01-1977@@@
-
 decreto nº 79.107, de 10 de janeiro de 1977.
 
 Estabelece as proporções a serem observadas na fixação do número mínimo de vagas para a promoção no Exército, nas Armas e nos Quadros de Oficiais de Material Bélico, Serviços, de Administração e de Especialistas, no ano-base de 1976.

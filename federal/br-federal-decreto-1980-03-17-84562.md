@@ -1,5 +1,3 @@
-###DEC-084562-0-000-17-03-1980@@@
-
 Decreto nº 84.562, de 17 de março de 1980.
 
 Suspende, por inconstitucionalidade, a execução da Resolução nº 337/78 da Assembléia Legislativa do Estado do Rio de Janeiro.

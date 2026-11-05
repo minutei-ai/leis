@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209974)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2024/compilacao-lei-18029-14.09.2024.html)
 
 # LEI N° 18.029, DE 14 DE SETEMBRO DE 2024

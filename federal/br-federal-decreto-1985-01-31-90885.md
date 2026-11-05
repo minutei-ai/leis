@@ -1,5 +1,3 @@
-###DEC-090885-0-000-31-01-1985@@@
-
 DeCRETO Nº 90.885, de 31 dE janeiro dE 1985.
 
 Autoriza o funcionamento da habilitação em Supervisão Escolar do Instituto de Ensino Superior e Pesquisa de Divinópolis, Minas Gerais.

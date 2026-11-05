@@ -1,5 +1,3 @@
-###DEC-056574-0-000-13-07-1965@@@
-
 DECRETO Nº 56.574, DE 13 DE JULHO DE 1965.
 
 Altera a redação do art. 1º e seu § 2º do Decreto nº 55.554, de 14 de janeiro de 1955, que instituiu a Comissão Especial de Estudo das Condições Sociais do Nordeste (CEECSN).

@@ -1,5 +1,3 @@
-###DEC-053021-0-000-27-11-1963@@@
-
 DECRETO Nº 53.021, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Seraphin Claude de Azevedo e Castro a pesquisar feldspato, no município de Maricá, Estado do Rio de Janeiro.

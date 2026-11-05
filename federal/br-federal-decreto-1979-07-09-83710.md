@@ -1,5 +1,3 @@
-###DEC-083710-0-000-09-07-1979@@@
-
 Decreto nº 83.710, de 09 de julho de 1979.
 
 Concede autorização ao R/V ROBERT D. CONRAD para realizar, no mar territorial do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-062107-0-000-11-01-1968@@@
-
 DECRETO Nº 62.107, DE 11 DE JANEIRO DE 1968.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Educação e Cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006305-0-000-14-12-2007@@@
-
 DECRETO Nº 6.305, DE 14 DE DEZEMBRO DE 2007.
 
 Dispõe sobre a criação da Embaixada do Brasil em Santa Lúcia, com sede em Castries.
@@ -19,5 +17,3 @@ Brasília, 14 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 17.12.2007

@@ -1,5 +1,3 @@
-###DEC-058580-0-000-03-06-1966@@@
-
 DECRETO Nº 58.580, DE 3 DE Junho de 1966.
 
 Poder Judiciário - Supremo Tribunal Federal - Abre o crédito especial de Cr$15.000.000 para o fim que especifica.

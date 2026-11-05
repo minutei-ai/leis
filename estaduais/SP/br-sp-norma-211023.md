@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211023)<br>
-
 # DECRETO N° 69.587, DE 09 DE JUNHO DE 2025
 
 ### _Dispõe sobre a admissão na Ordem do Ipiranga._

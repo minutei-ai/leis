@@ -1,5 +1,3 @@
-###DEC-046308-0-000-30-06-1959@@@
-
 Decreto nº 46.308, de 30 de junho de 1959.
 
 Autoriza Indústrias Brasileiras de Artigos Refratários S. A. - “IBAR”, a pesquisar bauxita e argila no município de Poços de Caldas, Estado de Minas Gerais.

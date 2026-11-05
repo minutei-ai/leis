@@ -1,5 +1,3 @@
-###DEL-008354-0-000-12-12-1945@@@
-
 DECRETO-LEI N. 8.354 – DE 12 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a promoção e reforma de oficiais subalternos da Polícia Militar do Distrito Federal.

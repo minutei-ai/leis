@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212588)<br>
-
 # DECRETO N° 70.594, DE 13 DE MAIO DE 2026
 
 ### _Altera o Decreto n° 70.091, de 12 de novembro de 2025, que dispõe sobre a apresentação das declarações de imposto sobre a renda e proventos de qualquer natureza pelos agentes públicos, sobre a publicidade das declarações de bens e direitos das autoridades da Administração Direta e Indireta e sobre o procedimento de apuração preliminar de evolução patrimonial de agentes públicos e dá providências correlatas._

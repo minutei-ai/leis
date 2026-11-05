@@ -1,5 +1,3 @@
-###DEC-050536-0-000-04-05-1961@@@
-
 DECRETO Nº 50.536, DE 4 DE MAIO DE 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Pátria - Companhia Brasileira de Seguros Gerais.

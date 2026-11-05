@@ -1,5 +1,3 @@
-###DEC-081797-0-000-15-06-1978@@@
-
 Decreto nº 81.797, de 15 de junho de 1978.
 
 Aprova o Regulamento da Diretoria de Engenharia Naval.

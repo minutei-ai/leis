@@ -1,5 +1,3 @@
-###DEC-091342-0-000-18-06-1985@@@
-
 decreto nº 91.342, de 18 de junho de 1985
 
 Renova a concessão outorgada à RÁDIO CLUBE DE GOIÂNIA S/A., para explorar serviço de radiodifusão sonora em ondas curtas, na cidade de Goiânia, Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-082044-0-000-27-07-1978@@@
-
 DECRETO Nº 82.044, DE 27 DE Julho de 1978.
 
 Altera denominação de Organizações Militares no Ministério do Exército e dá outras providências.

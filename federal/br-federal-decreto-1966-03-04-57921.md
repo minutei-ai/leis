@@ -1,5 +1,3 @@
-###DEC-057921-0-000-04-03-1966@@@
-
 decreto nº 57.921, de 4 de março de 1966.
 
 Concede à “COSTALCO” - Mineração, Indústria e Comércio Ltda. autorização para funcionar como emprêsa de Mineração.

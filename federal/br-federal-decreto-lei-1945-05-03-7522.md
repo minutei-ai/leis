@@ -1,5 +1,3 @@
-###DEL-007522-0-000-03-05-1945@@@
-
 DECRETO-LEI N. 7.522 – DE 3 DE MAIO DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 12.843.805,20, para pagamento de notas de papel-moeda

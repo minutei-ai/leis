@@ -6,7 +6,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA, no uso de atribuiç�
 
 Art. 1º - Fica declarada de utilidade pública o CENTRO ESPÍRITA OBREIROS DO PORVIR, com sede e foro no município de Bom Jesus da Lapa.
 
-Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.730, de 01 de novembro de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9730-de-01-de-novembro-de-2005#LO_9_730_Art__1) .<br>
+Redação do art. 1º de acordo com o [art. 1º da Lei nº 9.730, de 01 de novembro de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9730-de-01-de-novembro-de-2005#LO_9_730_Art__1) .
+
 Redação original: "Art. 1º - Fica declarado de utilidade pública o GRUPO KARDECISTA OBREIROS DO PORVIR, com sede e foro no município de Bom Jesus da Lapa."
 
 Art. 2º - Esta Lei entra em vigor na data de sua publicação.

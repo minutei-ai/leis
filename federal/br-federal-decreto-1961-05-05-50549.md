@@ -1,5 +1,3 @@
-###DEC-050549-0-000-05-05-1961@@@
-
 DECRETO Nº 50.549, DE 5 DE MAIO DE 1961.
 
 Autoriza Cerbino Francisco a comprar pedras preciosas.

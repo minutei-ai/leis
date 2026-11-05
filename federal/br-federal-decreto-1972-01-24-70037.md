@@ -1,5 +1,3 @@
-###DEC-070037-0-000-24-01-1972@@@
-
 DECRETO Nº 70.037, DE 24 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Sociedade Beneficente São Judas Tadeu, com sede em Sumaré, Estado de São Paulo.

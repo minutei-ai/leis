@@ -1,5 +1,3 @@
-###DEC-061072-0-000-26-07-1967@@@
-
 DECRETO Nº 61.072, DE 26 DE JULHO DE 1967.
 
 Transfere e outorga concessão no município de Brumadinho, Estado de Minas Gerais e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077428-0-000-12-04-1976@@@
-
 DECRETO Nº 77.428 - DE 12 DE ABRIL DE 1976
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Barra Mansa, com sede na cidade de Barra Mansa, Estado do Rio de Janeiro.

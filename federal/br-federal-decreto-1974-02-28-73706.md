@@ -1,5 +1,3 @@
-###DEC-073706-0-000-28-02-1974@@@
-
 DECRETO Nº 73.706, DE 28 DE FEVEREIRO DE 1974.
 
 Declara perempta a concessão outorgada à Emissoras Unidas de Goiás Sociedade Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Goiânia, Estado de Goiás.

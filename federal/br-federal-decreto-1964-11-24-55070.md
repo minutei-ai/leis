@@ -1,5 +1,3 @@
-###DEC-055070-0-000-24-11-1964@@@
-
 DECRETO Nº 55.070, DE 24 DE NOVEMBRO DE 1964.
 
 Manda incluir Oficiais como homólogos, no Quadro de Administração do Corpo de Oficiais da Aeronáutica.

@@ -1,5 +1,3 @@
-###DEC-059198-0-000-09-09-1966@@@
-
 Decreto nº 59.198, de 9 de setembro de 1966.
 
 Transfere para o Instituto de Pesquisas e Experimentação Agropecuária do Centro-Sul do Ministério da Agricultura o Serviço Médico do extinto Centro Nacional de Ensino e Pesquisas Agronômicas.

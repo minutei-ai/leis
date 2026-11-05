@@ -1,5 +1,3 @@
-###DEC-079237-0-000-10-02-1977@@@
-
 DECRETO Nº 79.237, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de Fisioterapia, do Instituto de Ciências Biológicas da Pontifícia Universidade Católica de Campinas, com sede na cidade de Campinas Estado de São Paulo.

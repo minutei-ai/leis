@@ -1,5 +1,3 @@
-###DEC-049408-0-000-02-12-1960@@@
-
 DECRETO Nº 49.408, DE 2 DE DEZEMBRO DE 1960.
 
 Autoriza a Companhia Cearense de Cimento Portland a pesquisar calcário nos municípios de Coreaú e Sobral, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-071595-0-000-21-12-1972@@@
-
 Decreto nº 71.595 - de 21 de dezembro de 1972
 
 Concede à Empresa de Mineração Cremasco Ltda. o direito de lavrar água mineral no Município de Lindóia, Estado de São Paulo.

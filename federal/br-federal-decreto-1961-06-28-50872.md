@@ -1,5 +1,3 @@
-###DEC-050872-0-000-28-06-1961@@@
-
 DECRETO Nº 50.872, DE 28 DE JUNHO DE 1961.
 
 Cria o Conselho de Desenvolvimento da Pesca e dá outras providências.
@@ -303,8 +301,6 @@ Cattete Pinheiro
 Arthur Bernardes Filho
 
 João Agripino
-
-###DEC-050872-0-000-28-06-1961@@@RET01+++
 
 DECRETO Nº 50.872, DE 28 DE Junho de 1961.
 

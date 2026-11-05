@@ -1,5 +1,3 @@
-###DEC-077495-0-000-27-04-1976@@@
-
 DECRETO Nº 77.495 - DE 27 DE ABRIL DE 1976
 
 Declara de utilidade pública e interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - D.N.O.S., área de terra abrangida pelo Projeto de Irrigação "Vale do Rio Brumado", no Município de livramento de Nossa Senhora, Estado da Bahia.

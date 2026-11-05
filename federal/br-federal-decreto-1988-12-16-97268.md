@@ -1,5 +1,3 @@
-###DEC-097268-0-000-16-12-1988@@@
-
 DECRETO Nº 97.268, DE 16 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-059173-0-000-05-09-1966@@@
-
 DECRETO Nº 59.173, DE 5 DE SETEMBRO DE 1966.
 
 Estabelece prazo para concessão de medalha.

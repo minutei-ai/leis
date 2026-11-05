@@ -1,5 +1,3 @@
-###DEC-050412-0-000-05-04-1961@@@
-
 DECRETO Nº 50.412 DE 5 DE ABRIL DE 1961.
 
 Considera de caráter ou interêsse militar funções exercidas no DNOCS. Revoga o Decreto nº 47.273, de 20 de novembro de 1959.

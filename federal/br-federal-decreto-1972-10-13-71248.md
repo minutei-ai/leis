@@ -1,5 +1,3 @@
-###DEC-071248-0-000-13-10-1972@@@
-
 DECRETO Nº 71.248, DE 13 DE OUTUBRO DE 1972.
 
 Institui incentivos à indústria de mineração e à transformação primária de minerais carentes.

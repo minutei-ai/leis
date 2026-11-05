@@ -1,5 +1,3 @@
-###DEC-007862-0-000-08-12-2012-PUB-01@@@
-
 DECRETO N° 7.862, DE 8 DE DEZEMBRO DE 2012
 
 Delega competência aos Ministros de Estado do Planejamento, Orçamento e Gestão e da Defesa para disciplinar o recadastramento dos aposentados e dos pensionistas da União que recebem recursos à conta do Tesouro Nacional constantes do Sistema Integrado de Administração de Recursos Humanos \- SIAPE, dos militares inativos e pensionistas das Forças Armadas, e dos anistiados políticos, civis e militares, e seus dependentes, de que trata a Lei n° 10.559, de 13 de novembro de 2002.

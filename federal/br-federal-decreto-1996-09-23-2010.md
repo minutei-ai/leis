@@ -1,7 +1,3 @@
-1
-
-###DEC-002010-0-000-23-09-1996@@@
-
 DECRETO Nº 2.010, DE 23 DE SETEMBRO DE 1996.
 
 Promulga o Tratado sobre Extradição, celebrado entre o Governo da República Federativa do Brasil e o Governo da Austrália, em Camberra, em 22 de agosto de 1994.

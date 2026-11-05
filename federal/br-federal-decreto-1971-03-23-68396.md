@@ -1,5 +1,3 @@
-###DEC-068396-0-000-23-03-1971@@@
-
 DECRETO Nº 68.396, DE 23 DE MARÇO DE 1971.
 
 Extingue cargos no Quadro de Pessoal do Hospital dos Servidores do Estado (HSE).

@@ -1,5 +1,3 @@
-###DEC-069834-0-000-23-12-1971@@@
-
 DECRETO Nº 69.834 - DE 23 DE DEZEMBRO DE 1971
 
 Dispõe sôbre a Comissão Coordenadora do Projeto Aeroporto Internacional e dá outras providências.

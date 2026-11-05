@@ -1,7 +1,3 @@
-1
-
-###MPV-001532-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.532, DE 18 DE DEZEMBRO DE 1996.
 
 Estabelece incentivos fiscais para o desenvolvimento regional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045014-0-000-04-12-1958@@@
-
 DECRETO Nº 45.014, DE 4 DE DEZEMBRO DE 1958.
 
 Autoriza a Emprêsa Elétrica de Londrina S.A. a ampliar suas instalações de distribuição na cidade de Londrina, Estado do Paraná.

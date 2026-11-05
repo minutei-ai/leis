@@ -1,5 +1,3 @@
-###DEC-069924-0-000-13-01-1972@@@
-
 DECRETO Nº 69.924, DE 13 DE JANEIRO DE 1972.
 
 Concede reconhecimento à Faculdade de Engenharia da Fundação Universidade do Amazonas.

@@ -1,5 +1,3 @@
-###DEC-057563-0-000-31-12-1965@@@
-
 DECRETO Nº 57.563, DE 31 DE DEZEMBRO DE 1965.
 
 Suprime cargo isolado de Ministro de Assuntos Comerciais.

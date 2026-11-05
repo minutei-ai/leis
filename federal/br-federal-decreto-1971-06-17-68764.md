@@ -1,5 +1,3 @@
-###DEC-068764-0-000-17-06-1971@@@
-
 DECRETO Nº 68.764 - de 17 de junho de 1971.
 
 Declara a caducidade dos Decretos que menciona.

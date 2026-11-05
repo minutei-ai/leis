@@ -1,6 +1,7 @@
 LEI Nº 1.682 DE 18 DE ABRIL DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.364](https://www.legislabahia.ba.gov.br/documentos/lei-no-13364-de-29-de-junho-de-2015#LO%2013.364) de 29 de junho de 2015 - Atualiza, na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos municípios de Água Fria, Anguera, Antônio Cardoso, Conceição da Feira, Coração de Maria, Ipecaetá, Irará, Santa Bárbara, Santanópolis, Santo Estêvão, Tanquinho, Teodoro Sampaio e Terra Nova.
 
 Cria o Município de Antônio Cardoso, desmembrado do de São Gonçalo dos Campos.
@@ -57,4 +58,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

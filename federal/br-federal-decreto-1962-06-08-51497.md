@@ -1,5 +1,3 @@
-###DEC-051497-0-000-08-06-1962@@@
-
 DECRETO Nº 51.497, DE 8 DE JUNHO DE 1962.
 
 Altera o Quadro de Procuradores do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargas.

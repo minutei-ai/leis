@@ -1,5 +1,3 @@
-###DEC-046616-0-000-14-08-1959@@@
-
 DECRETO Nº 46.616, DE 14 DE AGÔSTO DE 1959.
 
 Concede à Exploração de Minérios Brasília Limitada autorização para funcionar como emprêsa de mineração.

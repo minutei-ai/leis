@@ -1,5 +1,3 @@
-###DEC-069795-0-000-15-12-1971@@@
-
 DECRETO Nº 69.795 - DE 15 de DEZEMBRO DE 1971
 
 Reconhece o Curso de Filosofia da Faculdade de Filosofia, Ciências e Letras "Santa Marcelina", na cidade de Muriaé, Estado de Minas Gerais.

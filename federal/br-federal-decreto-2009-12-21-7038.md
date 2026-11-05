@@ -1,5 +1,3 @@
-###DEC-007038-0-000-21-12-2009@@@
-
 DECRETO Nº 7.038, DE 21 DE DEZEMBRO DE 2009.
 
 Altera o parágrafo único do art. 1º do Decreto nº 6.991, de 27 de outubro de 2009, que institui o Programa Nacional de Apoio à Inclusão Digital nas Comunidades - Telecentros.BR, no âmbito da política de inclusão digital do Governo Federal.

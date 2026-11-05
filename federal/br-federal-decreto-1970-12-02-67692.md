@@ -1,5 +1,3 @@
-###DEC-067692-0-000-02-12-1970@@@
-
 DECRETO Nº 67.692, DE 2 DE DEZEMBRO DE 1970.
 
 Revoga o Decreto nº 49.340, de 25 de novembro de 1960.

@@ -82,7 +82,8 @@ ANEXO I
 
 “ANEXO ÚNICO
 
-TABELA DE CONTRATOS TEMPORÁRIOS DISCRIMINADA POR FUNÇÕES,<br>
+TABELA DE CONTRATOS TEMPORÁRIOS DISCRIMINADA POR FUNÇÕES,
+
 QUANTITATIVO, CARGA HORÁRIA, VENCIMENTO, ATRIBUIÇÕES E REQUISITOS
 
 | ITEM | FUNÇÃO TEMPORÁRIA | QTD | CARGA HORÁRIA SEMANAL | VENCIMENTO | ATRIBUIÇÕES | REQUISITOS |
@@ -109,48 +110,82 @@ DAS ATRIBUIÇÕES E DOS REQUISITOS
 | ...... | .............................. | ............................................................ | ..................................... |
 | 30 | Engenheiro Agrimensor ou Engenheiro Cartográfico – Pleno | .............................................................. 11 – gerir contratos e fiscalizar projetos e obras; e 12 – realizar outras atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Engenharia de Agrimensura ou Engenharia Cartográfica, expedido por instituição devidamente reconhecida pelo MEC e fornecido por instituição autorizada por ele; ................................. |
 | .... | .............................. | ................................................................... | .................................. |
-| 34 | ............................... | .........................................................<br>
-7 – gerir contratos e fiscalizar projetos e obras; e<br>
+| 34 | ............................... | .........................................................
+
+7 – gerir contratos e fiscalizar projetos e obras; e
+
 8 – realizar outras atividades correlatas. | .................................... |
-| 35 | ................................ | ..............................................................<br>
-7 – gerir contratos e fiscalizar projetos e obras; e<br>
+| 35 | ................................ | ..............................................................
+
+7 – gerir contratos e fiscalizar projetos e obras; e
+
 8 – realizar outras atividades correlatas. | .................................... |
-| 36 | ............................... | ..........................................................................<br>
-7 – gerir contratos e fiscalizar projetos e obras; e<br>
+| 36 | ............................... | ..........................................................................
+
+7 – gerir contratos e fiscalizar projetos e obras; e
+
 8 – realizar outras atividades correlatas. | ................................... |
 | .... | .............................. | ............................................................ | ................................... |
-| 38 | .............................. | ................................................................<br>
-2 – planejar, acompanhar cronogramas de projetos, elaborar planilhas de adequações contratuais, realizar conferência, aprovação e auditoria técnica;<br>
-3 – elaborar, analisar, validar e gerenciar recursos e orçamentos;<br>
-4 – elaborar, analisar, revisar, fiscalizar e/ou gerir projetos civis, como estruturas e/ou fundações e/ou rodovias e/ou obras de arte especiais (pontes e grandes estruturas); ...............................................................<br>
-6 – analisar a viabilidade técnica e econômica de projetos e elaborar orçamento e tabela de custos referenciais de serviços;<br>
-7 – acompanhar a execução de obras civis e/ou projetos de rodovias e/ou obras de arte especiais (pontes e grandes estruturas);<br>
-8 – implementar procedimentos de controle de qualidade e realizar conferência, aprovação e auditoria técnica;<br>
+| 38 | .............................. | ................................................................
+
+2 – planejar, acompanhar cronogramas de projetos, elaborar planilhas de adequações contratuais, realizar conferência, aprovação e auditoria técnica;
+
+3 – elaborar, analisar, validar e gerenciar recursos e orçamentos;
+
+4 – elaborar, analisar, revisar, fiscalizar e/ou gerir projetos civis, como estruturas e/ou fundações e/ou rodovias e/ou obras de arte especiais (pontes e grandes estruturas); ...............................................................
+
+6 – analisar a viabilidade técnica e econômica de projetos e elaborar orçamento e tabela de custos referenciais de serviços;
+
+7 – acompanhar a execução de obras civis e/ou projetos de rodovias e/ou obras de arte especiais (pontes e grandes estruturas);
+
+8 – implementar procedimentos de controle de qualidade e realizar conferência, aprovação e auditoria técnica;
+
 ................................................................ | .................................. |
 | ....... | ............................. | ................................................................ | ..................................... |
-| 107 | Biólogo – Pleno | 1 – desenvolver todas as atividades pertinentes à gestão ambiental;<br>
-2 – realizar estudos ambientais, pesquisas e programas para obtenção de licenciamento ambiental;<br>
-3 – emitir pareceres e realizar vistorias para licenciamento e monitoramento ambiental;<br>
-4 – efetivar licenciamento ambiental;<br>
-5 – verificar adoção de efetivas ações preventivas ou corretivas; e<br>
-6 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Biologia ou Ciências Biológicas, reconhecido pelo MEC e fornecido por instituição autorizada por ele;<br>
-2 – registro regular no conselho profissional; e<br>
+| 107 | Biólogo – Pleno | 1 – desenvolver todas as atividades pertinentes à gestão ambiental;
+
+2 – realizar estudos ambientais, pesquisas e programas para obtenção de licenciamento ambiental;
+
+3 – emitir pareceres e realizar vistorias para licenciamento e monitoramento ambiental;
+
+4 – efetivar licenciamento ambiental;
+
+5 – verificar adoção de efetivas ações preventivas ou corretivas; e
+
+6 – realizar atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Biologia ou Ciências Biológicas, reconhecido pelo MEC e fornecido por instituição autorizada por ele;
+
+2 – registro regular no conselho profissional; e
+
 3 – tempo de experiência, conforme definido em edital. |
-| 108 | Geólogo – Pleno | 1 – elaborar estudos ambientais voltados para o licenciamento ambiental;<br>
-2 – elaborar estudos necessários para a obtenção de outorga de uso da água;<br>
-3 – elaborar estudos e projetos para a mitigação de danos e impactos ambientais e de compensação ambiental;<br>
-4 – realizar o monitoramento ambiental;<br>
-5 – realizar o licenciamento ambiental; e<br>
-6 – realizar outras atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Geologia, reconhecido pelo MEC e fornecido por instituição autorizada por ele; 2 – registro regular no conselho profissional; e<br>
+| 108 | Geólogo – Pleno | 1 – elaborar estudos ambientais voltados para o licenciamento ambiental;
+
+2 – elaborar estudos necessários para a obtenção de outorga de uso da água;
+
+3 – elaborar estudos e projetos para a mitigação de danos e impactos ambientais e de compensação ambiental;
+
+4 – realizar o monitoramento ambiental;
+
+5 – realizar o licenciamento ambiental; e
+
+6 – realizar outras atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Geologia, reconhecido pelo MEC e fornecido por instituição autorizada por ele; 2 – registro regular no conselho profissional; e
+
 3 – tempo de experiência, conforme definido em edital. |
-| 109 | Engenheiro Florestal – Área I | 1 – desenvolver projetos de exploração dos recursos florestais com objetivo de minimizar os impactos ambientais;<br>
-2 – elaborar estudos ambientais para obtenção de licenças ambientais;<br>
-3 – realizar vistorias, perícias e avaliações, com emissão de laudos e pareceres;<br>
-4 – promover a emissão de Cadastro Ambiental Rural - CAR;<br>
-5 – elaborar Plano de Recuperação de Área Degradada - PRAD;<br>
-6 – elaborar Declaração de Viabilidade Ambiental - DVA e licenciamento ambiental; e<br>
-7 – realizar outras atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Engenharia Florestal, expedido por instituição devidamente reconhecida pelo MEC;<br>
-2 – registro regular no conselho profissional;<br>
+| 109 | Engenheiro Florestal – Área I | 1 – desenvolver projetos de exploração dos recursos florestais com objetivo de minimizar os impactos ambientais;
+
+2 – elaborar estudos ambientais para obtenção de licenças ambientais;
+
+3 – realizar vistorias, perícias e avaliações, com emissão de laudos e pareceres;
+
+4 – promover a emissão de Cadastro Ambiental Rural - CAR;
+
+5 – elaborar Plano de Recuperação de Área Degradada - PRAD;
+
+6 – elaborar Declaração de Viabilidade Ambiental - DVA e licenciamento ambiental; e
+
+7 – realizar outras atividades correlatas. | 1 – diploma de conclusão de curso de ensino superior em Engenharia Florestal, expedido por instituição devidamente reconhecida pelo MEC;
+
+2 – registro regular no conselho profissional;
+
 3 – tempo de experiência, conforme definido em edital. |
 
 ” (NR)

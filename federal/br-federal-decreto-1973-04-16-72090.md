@@ -1,5 +1,3 @@
-###DEC-072090-0-000-16-04-1973@@@
-
 DECRETO Nº 72.090, DE 16 DE ABRIL DE 1973.
 
 Outorga à Companhia Riograndense de Telecomunicações - CRT - concessão para executar serviços de telefonia público urbano e interurbano em todo e Estado do Rio Grande do Sul.

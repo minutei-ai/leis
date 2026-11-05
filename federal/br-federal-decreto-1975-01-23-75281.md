@@ -1,5 +1,3 @@
-###DEC-075281-0-000-23-01-1975@@@
-
 DECRETO Nº 75.281, DE 23 DE JANEIRO DE 1975.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados no Município de Porto Velho, no Território Federal de Rondônia, em polígono compreendido na área prioritária de Reforma Agrária, de que trata o Decreto número 67.557, de 12 de novembro de 1970.

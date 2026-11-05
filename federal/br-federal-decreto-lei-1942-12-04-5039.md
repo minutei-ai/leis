@@ -1,5 +1,3 @@
-###DEL-005039-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.039 – DE 4 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 774.000,00 para pagamento de juros de apólices da Dívida interna

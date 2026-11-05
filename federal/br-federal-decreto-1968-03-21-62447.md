@@ -1,5 +1,3 @@
-###DEC-062447-0-000-21-03-1968@@@
-
 Decreto nº 62.447, de 21 de março de 1968.
 
 Atribui competência ao Conselho Nacional de Seguros Privados (CNSP) para fixar novos prazos de início da obrigatoriedade de contratar seguros regulamentados pelo Decreto nº 61.867, de 7 de dezembro de 1967.

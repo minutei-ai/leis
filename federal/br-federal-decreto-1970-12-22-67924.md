@@ -1,5 +1,3 @@
-###DEC-067924-0-000-22-12-1970@@@
-
 Decreto nº 67.924, de 22 de dezembro de 1970.
 
 Redistribui cargo, com o respectivo ocupante, para o Ministério da Agricultura, e dá outras providências.

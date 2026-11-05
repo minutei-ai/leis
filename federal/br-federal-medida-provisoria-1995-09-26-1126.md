@@ -1,7 +1,3 @@
-1
-
-###MPV-001126-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.126, DE 26 DE SETEMBRO DE 1995.
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e dá outras providências.

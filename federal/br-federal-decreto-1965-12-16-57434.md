@@ -1,5 +1,3 @@
-###DEC-057434-0-000-16-12-1965@@@
-
 DECRETO Nº 57.434, DE 16 DE DEZEMBRO DE 1965.
 
 Autoriza EBEMIL - Exploração, Beneficiamento e Exportação de Minérios Ltda. a pesquisar minério de manganês, no município de Viçosa do Ceará, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-083630-0-000-26-06-1979@@@
-
 Decreto nº 83.630, de 26 de junho de 1979.
 
 Autoriza o funcionamento da habilitação de Psicólogo do curso de Psicologia da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Belo Horizonte, Estado de Minas Gerais.

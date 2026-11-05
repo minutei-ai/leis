@@ -1,5 +1,3 @@
-###DEC-049636-0-000-30-12-1960@@@
-
 DECRETO Nº 49.636, DE 30 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Educação e cultura o crédito especial de Cr$15.000.000,00 para atender as despesas com o auxilio concedido ao Instituto superior de Educação Rural.

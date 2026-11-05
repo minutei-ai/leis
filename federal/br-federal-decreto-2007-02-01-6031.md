@@ -1,5 +1,3 @@
-###DEC-006031-0-000-01-02-2007@@@
-
 DECRETO Nº 6.031, DE 1º DE FEVEREIRO DE 2007.
 
 Dá nova redação aos arts. 3o, 17 e 19 do Regulamento do Serviço Social do Comércio - SESC, aprovado pelo Decreto no 61.836, de 5 de dezembro de 1967.
@@ -49,5 +47,3 @@ Brasília, 1º de  fevereiro  de 2007; 186o da Independência e 119o da Repúb
 LUIZ INÁCIO LULA DA SILVA
 
       Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 2.2.2007.

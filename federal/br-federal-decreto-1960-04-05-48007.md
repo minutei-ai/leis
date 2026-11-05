@@ -1,5 +1,3 @@
-###DEC-048007-0-000-05-04-1960@@@
-
 DECRETO Nº 48.007, DE 5 DE ABRIL DE 1960.
 
 Autoriza o cidadão brasileiro, Manoel Jorge Curi a pesquisar esmeralda no município de Vitória de Conquista, Estado da Bahia.

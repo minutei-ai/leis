@@ -1,24 +1,22 @@
-###DEC-043909-0-000-16-06-1958@@@
+**DECRETO Nº 43.909, DE 16 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.909, DE 16 DE JUNHO DE 1958.</strong>
+***Aprova as “Normas Especiais para a construção a rodovia Belém-Brasília, e de regulamentação das atividades administrativas da “Rodobrás”.***
 
-<em><strong>Aprova as “Normas Especiais para a construção a rodovia Belém-Brasília, e de regulamentação das atividades administrativas da “Rodobrás”.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o Artigo 87, item I, da Constituição, e tendo em vista o disposto no Artigo 4º, do Decreto nº 43.710 de 19 de maio de 1958,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o Artigo 87, item I, da Constituição, e tendo em vista o disposto no Artigo 4º, do Decreto nº 43.710 de 19 de maio de 1958,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º. Ficam aprovadas as - “Normas Especiais para a Construção da Rodovia Belém-Brasília, e de Regulamentação da Atividades Administrativas da - “Rodobrás” que a êste acompanham.
 
-<strong>Art</strong>. 1º. Ficam aprovadas as - “Normas Especiais para a Construção da Rodovia Belém-Brasília, e de Regulamentação da Atividades Administrativas da - “Rodobrás” que a êste acompanham.
-
-<strong>Art</strong>. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 16 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Eurico Aguiar Salles
 
-<strong>NORMAS ESPECIAIS PARA A CONSTRUÇÃO DA RODOVIA BELÉM-BRASÍLIA E DE REGULAMENTAÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA “RODOBRÁS”</strong>
+**NORMAS ESPECIAIS PARA A CONSTRUÇÃO DA RODOVIA BELÉM-BRASÍLIA E DE REGULAMENTAÇÃO DAS ATIVIDADES ADMINISTRATIVAS DA “RODOBRÁS”**
 
 DA RODOBRÁS
 
@@ -242,7 +240,7 @@ DA ADJUDICAÇÃO DE SERVIÇOS
 
 DA AQUISIÇÃO DE MATERIAL
 
-42 - As concorrências para aquisição de material obedecerão ao rítmo prescrito no Regulamento Geral de Contabilidade Pública, no que fôr aplicável podendo, no caso de concorrência pública ser dispensada a publicação no <em>Diário Oficial</em> quer seja dos editais como das propostas. Os editais poderão ser divulgadas em jornais de grande circulação e nos locais de mais interêsse.
+42 - As concorrências para aquisição de material obedecerão ao rítmo prescrito no Regulamento Geral de Contabilidade Pública, no que fôr aplicável podendo, no caso de concorrência pública ser dispensada a publicação no *Diário Oficial* quer seja dos editais como das propostas. Os editais poderão ser divulgadas em jornais de grande circulação e nos locais de mais interêsse.
 
 43 - As coletas de preços obeservarão o prescrito do art. 33, do Decreto nº 5.873, de 26 de junho de 1940.
 
@@ -328,4 +326,4 @@ DAS DISPOSIÇÕES GERAIS
 
 74 - Os pagamentos que tenham de ser efeituadas ao longo da construção da rodovia distante da agência da RODOBRÁS, tendo em vista as dificuldades de comunicação, poderão ser feitos pelo processo de suprimento, prescrito no art. 20 das Normas Contábeis e de Pestação de Contas da República, para a S.P.V.E.A., já referidas. O prazo de prestação de contas dêsses suprimentos será fixado pelo Presidente.
 
-<strong>EURICO DE AGUIAR SALLES</strong>
+**EURICO DE AGUIAR SALLES**

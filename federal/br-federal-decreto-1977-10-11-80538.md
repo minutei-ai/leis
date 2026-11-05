@@ -1,5 +1,3 @@
-###DEC-080538-0-000-11-10-1977@@@
-
 DECRETO Nº 80.538, DE 11 DE OUTUBRO DE 1977.
 
 Concede á Mineração Santa Lúcia Limitada o direito de lavrar diatomita no Município de Mucugê, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-071507-0-000-07-12-1972@@@
-
 DECRETO Nº 71.507 - DE 7 DE DEZEMBRO DE 1972
 
 Transforma o Consulado Honorário do Brasil em Guayaramirin em Consulado Privativo e extingue o Consulado Privativo do Brasil em Paysandu.

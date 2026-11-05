@@ -1,5 +1,3 @@
-###DEC-077421-0-000-12-04-1976@@@
-
 DECRETO Nº 77.421 - DE 12 DE ABRIL DE 1976
 
 Autoriza o funcionamento dos cursos de Administração, Direito e Ciências Contábeis, da Sociedade Educacional do Espírito Santo, com sede na cidade de Vila Velha Estado do Espírito Santo.

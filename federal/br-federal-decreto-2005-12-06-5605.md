@@ -1,5 +1,3 @@
-###DEC-005605-0-000-06-12-2005@@@
-
 DECRETO Nº 5.605, DE 6 DE DEZEMBRO DE 2005.
 
 Dá nova redação ao parágrafo único do art. 1o do Decreto no 99.217, de 23 de abril de 1990, que dispõe sobre a coordenação das solenidades de substituição da Bandeira Nacional, hasteada no mastro especial implantado na Praça dos Três Poderes, em Brasília, e dá outras providências.

@@ -10,7 +10,93 @@ DECRETA:
 
 Art. 1º - Os níveis de vencimentos base de que trata o Anexo VI, da Lei nº 1.613 de 12 de janeiro de 1962, e o [art. 1º da Lei nº 1.801, de 14 de setembro de 1962](https://www.legislabahia.ba.gov.br/documentos/lei-no-1801-de-14-de-setembro-de-1962#LO_1_801_Art__1) , ficam reajustados nos seguintes valores:
 
-<table style="width: 155.95pt; margin-left: 5.0cm; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="208" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 70.9pt; border: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>Nível</span></p></td><td style="width: 3.0cm; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Referência-Base</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>18-C</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$70.950,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>18-B</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$66.000,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>18-A</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$62.700,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>18</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$57.750,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>17</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$42.900,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>16</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$37.950,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>15</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$35.475,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>14</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$33.000,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>13</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$31.350,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>12</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$29.700,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>11</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$28.050,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>10</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$26.400,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>9</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$24.750,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>8</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$23.100,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>7</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$21.450,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>6</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$20.625,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>5</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$19.800,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>4</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$18.975,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>3</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$18.150,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>2</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$17.325,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>1</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$16.500,00</span></p></td></tr></tbody></table>
+Nível
+
+Referência-Base
+
+18-C
+
+Cr$70.950,00
+
+18-B
+
+Cr$66.000,00
+
+18-A
+
+Cr$62.700,00
+
+18
+
+Cr$57.750,00
+
+17
+
+Cr$42.900,00
+
+16
+
+Cr$37.950,00
+
+15
+
+Cr$35.475,00
+
+14
+
+Cr$33.000,00
+
+13
+
+Cr$31.350,00
+
+12
+
+Cr$29.700,00
+
+11
+
+Cr$28.050,00
+
+10
+
+Cr$26.400,00
+
+9
+
+Cr$24.750,00
+
+8
+
+Cr$23.100,00
+
+7
+
+Cr$21.450,00
+
+6
+
+Cr$20.625,00
+
+5
+
+Cr$19.800,00
+
+4
+
+Cr$18.975,00
+
+3
+
+Cr$18.150,00
+
+2
+
+Cr$17.325,00
+
+1
+
+Cr$16.500,00
 
 Parágrafo único - O reajustamento de que trata o presente artigo é fixado a partir do valor do salário-mínimo e segundo a regra do [§ 2º , do art. 58, da Lei nº 1.613, de 12 de janeiro de 1962](https://www.legislabahia.ba.gov.br/documentos/lei-no-1613-de-12-de-janeiro-de-1962#LO_1_613_Art__58_P_2) .
 
@@ -44,6 +130,36 @@ TABELA ESPECIAL
 
 (Art. 2º da Lei nº1.615 de 21 de janeiro de 1962).
 
-<table style="width: 155.95pt; margin-left: 5.0cm; border-collapse: collapse; border: none; mso-border-alt: solid black .75pt; mso-padding-alt: 0cm 5.4pt 0cm 5.4pt;" width="208" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 70.9pt; border: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>Símbolo</span></p></td><td style="width: 3.0cm; border: solid black .75pt; border-left: none; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Valores Mensais</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-1</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$51.800,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-2</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$57.500,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-3</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$63.900,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-4</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$71.000,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-5</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$78.900,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-6</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$87.700,00</span></p></td></tr><tr><td style="width: 70.9pt; border: solid black .75pt; border-top: none; mso-border-top-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="95"><p class="Tabela-Texto"><span>CC-7</span></p></td><td style="width: 3.0cm; border-top: none; border-left: none; border-bottom: solid black .75pt; border-right: solid black .75pt; mso-border-top-alt: solid black .75pt; mso-border-left-alt: solid black .75pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="113"><p class="Tabela-Texto"><span>Cr$97.500,00</span></p></td></tr></tbody></table>
+Símbolo
 
-* * *
+Valores Mensais
+
+CC-1
+
+Cr$51.800,00
+
+CC-2
+
+Cr$57.500,00
+
+CC-3
+
+Cr$63.900,00
+
+CC-4
+
+Cr$71.000,00
+
+CC-5
+
+Cr$78.900,00
+
+CC-6
+
+Cr$87.700,00
+
+CC-7
+
+Cr$97.500,00
+
+ *

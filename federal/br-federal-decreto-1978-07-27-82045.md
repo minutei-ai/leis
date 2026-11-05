@@ -1,5 +1,3 @@
-###DEC-082045-0-000-27-07-1978@@@
-
 DECRETO Nº 82.045, DE 27 DE JULHO DE 1978.
 
 Cria e dá subordinação de Grande Unidade no Ministério do Exército e dá outras providências.

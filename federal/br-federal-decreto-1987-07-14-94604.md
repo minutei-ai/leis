@@ -1,5 +1,3 @@
-###DEC-094604-0-000-14-07-1987@@@
-
 DECRETO Nº 94.604, DE 14 DE JULHO DE 1987
 
 Declara de ocupação dos índios Munduruku área de terras no Município de Itaituba, no Estado do Pará, e dá outras providências.

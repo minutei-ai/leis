@@ -1,5 +1,3 @@
-###DEC-048294-0-000-17-06-1960@@@
-
 DECRETO Nº 48.294, DE 17 JUNHO DE 1960.
 
 Renova o Decreto nº 43.245, de 22 de fevereiro de 1958.

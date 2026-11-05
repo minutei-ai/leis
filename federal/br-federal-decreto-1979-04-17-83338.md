@@ -1,5 +1,3 @@
-###DEC-083338-0-000-17-04-1979@@@
-
 Decreto nº 83.338, de 17 De abril de 1979.
 
 Concede reconhecimento do Curso de Educação Artística da Universidade Metodista de Piracicaba, Estado de São Paulo.

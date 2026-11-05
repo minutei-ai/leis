@@ -1,5 +1,3 @@
-###DEC-060820-0-000-07-06-1967@@@
-
 DECRETO Nº 60.820, DE 7 DE JUNHO DE 1967.
 
 Retificada o Quadro de Pessoal da Universidade Federal de Juiz de Fora, aprovado pelo Decreto n.º 51.412, de 20 de fevereiro de 1962.

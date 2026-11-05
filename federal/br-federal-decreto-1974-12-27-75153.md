@@ -1,5 +1,3 @@
-###DEC-075153-0-000-27-12-1974@@@
-
 DECRETO Nº 75.153, DE 27 DE DEZEMBRO DE 1974.
 
 Cria Organização Militar e dá outras providências.

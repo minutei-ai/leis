@@ -1,5 +1,3 @@
-###DEC-096680-0-000-13-09-1988@@@
-
 DECRETO N° 96.680, DE 13 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO ICATU FM LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Pená­polis, Estado de São Paulo.

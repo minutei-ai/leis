@@ -1,5 +1,3 @@
-###DEL-001185-0-000-13-08-1971@@@
-
 # DECRETO-LEI Nº 1.185, DE 13 DE AGÔSTO DE 1971
 
 Acrescenta alínea do artigo 24 da Lei nº 4.239, de 27 de junho de 1963, que criou o Fundo de Emergência e Abastecimento do Nordeste (FEANE).

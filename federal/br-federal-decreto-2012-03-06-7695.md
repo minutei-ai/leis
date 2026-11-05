@@ -1,5 +1,3 @@
-###DEC-007695-0-000-06-03-2012-PUB-01@@@
-
 DECRETO Nº 7.695, DE 6 DE MARÇO DE 2012
 
 Revoga o Decreto nº 5.564, de 19 de outubro de 2005, que institui o Comitê Nacional de Controle Higiênico-Sanitário de Moluscos Bivalves - CNCMB.

@@ -1,5 +1,3 @@
-###DEC-059188-0-000-08-09-1966@@@
-
 DECRETO Nº 59.188, DE 8 DE SETEMBRO DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Pôrto Alegrense, relativa ao aumento do capital social.

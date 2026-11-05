@@ -1,5 +1,3 @@
-###DEC-046011-0-000-18-05-1959@@@
-
 DECRETO Nº 46.011, DE 18 DE MAIO DE 1959.
 
 Autoriza a cidadã brasileira Aleth de Araújo a pesquisar areias ilmeníticas nos municípios de Barreirinhas e Primeira Cruz, Estado do Maranhão.

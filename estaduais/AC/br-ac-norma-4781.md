@@ -2,7 +2,11 @@ Modificada pela Lei nº [3.954, de 01 de Julho de 2022.](https://legis.ac.gov.br
 
 > **LEI Nº 3.778, DE 01 DE SETEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria ação governamental destinada a garantir, no âmbito da Secretaria de Estado de Educação, Cultura e Esportes - SEE, a efetiva continuidade do Programa de Inovação Educação Conectada, previsto no Decreto Federal nº 9.204, de 23 de novembro de 2017.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria ação governamental destinada a garantir, no âmbito da Secretaria de Estado de Educação, Cultura e Esportes - SEE, a efetiva continuidade do Programa de Inovação Educação Conectada, previsto no Decreto Federal nº 9.204, de 23 de novembro de 2017.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -14,15 +18,15 @@ Modificada pela Lei nº [3.954, de 01 de Julho de 2022.](https://legis.ac.gov.br
 
 **~~Art. 2º~~** ~~A ação de que trata esta lei é destinada exclusivamente aos professores da rede estadual de ensino, efetivos e temporários, que estejam:~~
 
-**Art. 2º** A ação de que trata esta lei é destinada: (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**Art. 2º** A ação de que trata esta lei é destinada: (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **~~I -~~** ~~em efetivo exercício de sala de aula das escolas públicas estaduais;~~
 
-**I -** aos professores da rede estadual de ensino, efetivos e temporários, que estejam em efetivo exercício de sala de aula das escolas públicas estaduais; (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**I -** aos professores da rede estadual de ensino, efetivos e temporários, que estejam em efetivo exercício de sala de aula das escolas públicas estaduais; (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **~~II –~~** ~~em efetivo exercício nos centros, núcleos, classes hospitalares e demais unidades de escolarização e de atendimento da educação especial, bem como no exercício das seguintes funções:~~
 
-**II -** aos professores da rede estadual de ensino, efetivos e temporários, em efetivo exercício nos centros, núcleos, classes hospitalares e demais unidades de escolarização e de atendimento da educação especial, bem como no exercício das seguintes funções: (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**II -** aos professores da rede estadual de ensino, efetivos e temporários, em efetivo exercício nos centros, núcleos, classes hospitalares e demais unidades de escolarização e de atendimento da educação especial, bem como no exercício das seguintes funções: (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **a)** professor AEE;
 
@@ -36,43 +40,43 @@ Modificada pela Lei nº [3.954, de 01 de Julho de 2022.](https://legis.ac.gov.br
 
 **~~III -~~** ~~os profissionais do ensino público estadual investidos em funções de:~~
 
-**III -** aos profissionais do ensino público estadual, docentes e não-docentes, investidos em funções de: (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**III -** aos profissionais do ensino público estadual, docentes e não-docentes, investidos em funções de: (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **~~a)~~** ~~gestão escolar;~~
 
-**a)** direção escolar; (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**a)** direção escolar; (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **~~b)~~** ~~coordenação de ensino;~~
 
-**b)** coordenação de ensino; (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**b)** coordenação de ensino; (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **~~c)~~** ~~coordenação pedagógica;~~
 
-**c)** coordenação administrativa; (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**c)** coordenação administrativa; (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **~~d)~~** ~~coordenação de centros e núcleos de atendimento da educação especial.~~
 
-**d)** coordenação pedagógica; (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**d)** coordenação pedagógica; (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
 **e)** secretaria escolar; (Incluído pela Lei nº 3.954, de 01/07/2022)
 
-**f)** coordenação de centros e núcleos de atendimento da educação especial. (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**f)** coordenação de centros e núcleos de atendimento da educação especial. (Incluído pela Lei nº 3.954, de 01/07/2022)
 
 **~~IV –~~** ~~em efetivo exercício no Centro de Estudo de Línguas - CEL.~~
 
-**IV -** em efetivo exercício no Centro de Estudo de Línguas – CEL, Núcleos de Tecnologia Educacional – NTEs, Centro de Referência em Inovações para Educação - CRIE e suas dependências; (Redação dada pela Lei nº 3.954, de 01/07/2022)<br>
+**IV -** em efetivo exercício no Centro de Estudo de Línguas – CEL, Núcleos de Tecnologia Educacional – NTEs, Centro de Referência em Inovações para Educação - CRIE e suas dependências; (Redação dada pela Lei nº 3.954, de 01/07/2022)
 
-**V -** aos profissionais do ensino público estadual, docentes e não docentes, em efetivo exercício nos núcleos de representação da Secretaria de Estado de Educação, Cultura e Esportes - SEE, investidos nas funções de: (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**V -** aos profissionais do ensino público estadual, docentes e não docentes, em efetivo exercício nos núcleos de representação da Secretaria de Estado de Educação, Cultura e Esportes - SEE, investidos nas funções de: (Incluído pela Lei nº 3.954, de 01/07/2022)
 
-**a)** coordenador-geral; (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**a)** coordenador-geral; (Incluído pela Lei nº 3.954, de 01/07/2022)
 
-**b)** coordenador de ensino; (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**b)** coordenador de ensino; (Incluído pela Lei nº 3.954, de 01/07/2022)
 
-**c)** coordenador administrativo; (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**c)** coordenador administrativo; (Incluído pela Lei nº 3.954, de 01/07/2022)
 
-**d)** coordenadores pedagógicos; (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**d)** coordenadores pedagógicos; (Incluído pela Lei nº 3.954, de 01/07/2022)
 
-**e)** assessores pedagógicos. (Incluído pela Lei nº 3.954, de 01/07/2022)<br>
+**e)** assessores pedagógicos. (Incluído pela Lei nº 3.954, de 01/07/2022)
 
 **Parágrafo único.** Serão inelegíveis à ação de que trata esta lei, os profissionais que não estejam em exercício nas unidades da rede estadual de ensino, independentemente da reponsabilidade pelo ônus remuneratório.
 

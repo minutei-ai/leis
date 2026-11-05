@@ -1,5 +1,3 @@
-###DEC-047622-0-000-15-01-1960@@@
-
 Decreto nº 47.622, de 15 de janeiro de 1960.
 
 Concede à Mineração, Indústria e Comércio Marapendi S.A. autorização para continuar a funcionar como emprêsa de mineração.

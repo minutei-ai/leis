@@ -1,5 +1,3 @@
-###DEC-062409-0-000-15-03-1968@@@
-
 decreto nº 62.409, de 15 de março de 1968.
 
 Declara de utilidade pública a “Fundação de Assistência Social de Anápolis” (F.A.S.A.), com sede em Anápolis, Estado de Goiás.

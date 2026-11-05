@@ -1,5 +1,3 @@
-###DEC-074671-0-000-10-10-1974@@@
-
 DECRETO Nº 74.671, DE 10 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Sociedade Difusora "A Voz de Bagé" Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Bagé, Estado do Rio Grande do Sul.

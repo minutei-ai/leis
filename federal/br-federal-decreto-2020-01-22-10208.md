@@ -14,4 +14,4 @@ Brasília, 22 de janeiro de 2020; 199º da Independência e 132º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Sérgio Moro<br>
+Sérgio Moro

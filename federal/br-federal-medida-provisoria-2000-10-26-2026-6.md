@@ -1,5 +1,3 @@
-###MPV-002026-0-006-26-10-2000@@@
-
 medida provisória nº 2.026-6, de 26 de outubro de 2000.
 
 Institui, no âmbito da União, nos termos do art. 37, inciso XXI, da Constituição Federal, modalidade de licitação denominada pregão, para aquisição de bens e serviços comuns, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092330-0-000-24-01-1986@@@
-
 DECRETO Nº 92.330, DE 24 DE JANEIRO DE 1986
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Ciências Biológicas de Araras, São Paulo.

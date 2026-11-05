@@ -6,16 +6,18 @@ Declara de Utilidade Pública o Lar Escola Joanna de Angelis, com sede em Parana
 
 Publicada no Diário Oficial nº 3.179, de 19 de novembro de 1991.
 
-**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Aseembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarado de Utilidade Pública Estadual o Lar Escola Joanna de Angelis, com sede na cidade de Paranaíba.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 18 de novembro de 1991.<br>
-<br>
-PEDRO PEDROSSIAN<br>
-Governador<br>
-<br>
-AUGUSTO JOSÉ CORRÊA DA COSTA<br>
+**O Governador do Estado de Mato Grosso do Sul**, faço saber que a Aseembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarado de Utilidade Pública Estadual o Lar Escola Joanna de Angelis, com sede na cidade de Paranaíba.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+
+Campo Grande, 18 de novembro de 1991.
+
+PEDRO PEDROSSIAN
+
+Governador
+
+AUGUSTO JOSÉ CORRÊA DA COSTA
+
 Secretário de Estado de Justiça e Trabalho

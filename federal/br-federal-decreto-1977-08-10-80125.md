@@ -1,5 +1,3 @@
-###DEC-080125-0-000-10-08-1977@@@
-
 DECRETO Nº 80.125, DE 10 DE AGOSTO DE 1977.
 
 Concede à Pedras do Piauí S.A. - PEPISA o direito de lavrar ardósia no Município de Piracuruca, Estado do Piauí.

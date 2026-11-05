@@ -1,5 +1,3 @@
-###DEL-001984-0-000-28-12-1982@@@
-
 # DECRETO-LEI Nº 1.984, DE 28 DE DEZEMBRO DE 1982.
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores civis do Poder Executivo, bem como os das pensões e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-097777-0-000-23-05-1989@@@
-
 DECRETO Nº 97.777, DE 23 DE MAIO DE 1989
 
 Declara de interesse social para fins de reforma agrária, o imóvel rural denominado “CHÁCARA DOS MIÚDOS”, classificado como “latifúndio por exploração”, situado no Município de Tupanciretã, Estado do Rio Grande do Sul, compreendido na zona prioritária fixada pelo Decreto nº 92.692, de 19 de maio de 1986, e dá outras providências.

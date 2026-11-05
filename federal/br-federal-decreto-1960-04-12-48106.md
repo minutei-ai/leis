@@ -1,5 +1,3 @@
-###DEC-048106-0-000-12-04-1960@@@
-
 DECRETO Nº 48.106, DE 12 DE ABRIL DE 1960.
 
 Restaura, para efeitos especiais, prazo estabelecido para concessão de condecoração militar.

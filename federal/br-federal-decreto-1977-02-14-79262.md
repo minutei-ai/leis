@@ -1,5 +1,3 @@
-###DEC-079262-0-000-14-02-1977@@@
-
 DECRETO Nº 79.262, de 14 de Fevereiro de 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Educação, Filosofia, Ciências e Letras "Senador Fláquer", com sede na cidade de Santo André, Estado de São Paulo.

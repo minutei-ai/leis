@@ -1,5 +1,3 @@
-###DEL-006786-0-000-14-08-1944@@@
-
 DECRETO-LEI N. 6.786 – DE 14 DE AGÔSTO DE 1944
 
 Abre ao Ministério da Fazenda, o crédito suplementar de Cr$ 95.000,00, à verba que especifica

@@ -1,5 +1,3 @@
-###DEL-004533-0-000-30-07-1942@@@
-
 DECRETO-LEI N. 4.533 – DE 30 DE JULHO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de 3.000:000$0, à verba que especifica

@@ -1,5 +1,3 @@
-###DEC-005998-0-000-26-12-2006@@@
-
 DECRETO No- 5.998, DE 26 DE DEZEMBRO DE 2006
 
 Fixa o percentual da subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais, para o exercício fiscal do ano de 2007.

@@ -1,5 +1,3 @@
-###DEC-082638-0-000-14-11-1978@@@
-
 DECRETO Nº 82.638, DE 14 DE NOVEMBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município do recife, Estado de Pernambuco.

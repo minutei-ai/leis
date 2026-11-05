@@ -1,5 +1,3 @@
-###DEC-070918-0-000-03-08-1972@@@
-
 DECRETO Nº 70.918, DE 3 DE AGOSTO DE 1972.
 
 Concede à Mineração Sam-Minas Limitada o direito de lavrar minério de ferro no município de Itatiaiuçu, Estado de Minas Gerais.

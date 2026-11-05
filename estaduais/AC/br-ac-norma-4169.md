@@ -1,6 +1,10 @@
 > **LEI Nº 3.663, DE 18 DE DEZEMBRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui e inclui no Calendário Oficial do Estado do Acre o Dia Estadual do Atirador Desportivo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui e inclui no Calendário Oficial do Estado do Acre o Dia Estadual do Atirador Desportivo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

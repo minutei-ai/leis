@@ -1,5 +1,3 @@
-###DEC-082886-0-000-19-12-1978@@@
-
 DECRETO Nº 82.886, DE 19 DE DEZEMBRO DE 1978
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Cachoeira do Sul, Estado do Rio Grande do Sul.

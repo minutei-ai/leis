@@ -1,5 +1,3 @@
-###DEC-051187-0-000-11-08-1961@@@
-
 Decreto Nº 51.187, DE 11 DE AGÔSTO DE 1961.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, a fração ideal do domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

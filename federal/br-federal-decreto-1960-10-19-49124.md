@@ -1,5 +1,3 @@
-###DEC-049124-0-000-19-10-1960@@@
-
 DECRETO Nº 49.124, DE 19 DE OUTUBRO DE 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica, a “Produtora e Distribuidora de Energia Elétrica de Guarapari S.A.

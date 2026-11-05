@@ -1,5 +1,3 @@
-###DEC-007921-0-000-15-02-2013-PUB-01@@@
-
 DECRETO N°\- 7.921, DE 15 DE FEVEREIRO DE 2013
 
 Regulamenta a aplicação do Regime Especial de Tributação do Programa Nacional de Banda Larga para Implantação de Redes de Telecomunicações - REPNBL-Redes, de que trata a Lei nº 12.715, de 17 de setembro de 2012.

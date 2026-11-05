@@ -1,5 +1,3 @@
-###DEC-060733-0-000-22-05-1967@@@
-
 DECRETO Nº 60.733, DE 22 DE MAIO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica no distrito de Amparo, município de Nova Friburgo, Estado do Rio de Janeiro, e outorga concessão no mencionado distrito do município de Nova Friburgo, Estado do Rio de Janeiro à Companhia de Eletricidade de Nova Friburgo e dá outras providências.

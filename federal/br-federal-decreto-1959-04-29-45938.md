@@ -1,5 +1,3 @@
-###DEC-045938-0-000-29-04-1959@@@
-
 DECRETO Nº 45.938, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Manoel de Sena Azevedo a pesquisar mica no município de São Sebastião do Maranhão, Estado de Minas Gerais.

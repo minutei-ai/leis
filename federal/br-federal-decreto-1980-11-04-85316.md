@@ -1,5 +1,3 @@
-###DEC-085316-0-000-04-11-1980@@@
-
 Decreto nº 85.316, de 04 de novembro de 1980
 
 Extingue o Vice-Consulado do Brasil em Bridgetown.

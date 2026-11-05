@@ -1,5 +1,3 @@
-###DEL-003751-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.751 – DE 23 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério da Aeronáutica, o crédito especial de 1.582:000$0, para viagem de oficiais e sargentos aos Estados Unidos da América

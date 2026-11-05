@@ -1,5 +1,3 @@
-###DEC-055616-0-000-21-01-1965@@@
-
 DECRETO Nº 55.616, de 21 de janeiro de 1965.
 
 Complementa o Decreto nº 55.332, de 31 de dezembro de 1964.

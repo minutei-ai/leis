@@ -1,5 +1,3 @@
-###DEC-096831-0-000-28-09-1988@@@
-
 DECRETO Nº 96.831, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada à L & C RÁDIO EMISSORAS LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de São Roque, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-091778-0-000-15-10-1985@@@
-
 DECRETO Nº 91.778, de 15 de outubro de 1985.
 
 Dispõe sobre a extinção dos Exércitos e a criação de Comandos Militares de Área no Ministério do Exército e dá outras providências

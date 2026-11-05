@@ -1,5 +1,3 @@
-###DEC-050732-0-000-06-06-1961@@@
-
 DECRETO Nº 50.732, DE 6 DE JUNHO DE 1961.
 
 Cria Comissão de Planejamento da Universidade de Brasília.

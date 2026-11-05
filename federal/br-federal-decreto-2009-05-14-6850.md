@@ -1,5 +1,3 @@
-###DEC-006850-0-000-14-05-2009@@@
-
 DECRETO Nº 6.850, DE 14 DE MAIO DE 2009.
 
 Institui o Comitê de Gestão da Escola de Administração Fazendária - CESAF.

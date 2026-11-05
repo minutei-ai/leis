@@ -1,7 +1,3 @@
-1
-
-###DEC-000423-0-000-14-01-1992@@@
-
 DECRETO N° 423, DE 14 DE JANEIRO DE 1992
 
 Dispõe sobre inclusão, no Programa Nacional de Desestatização - PND, da EMBRAER  Empresa Brasileira de Aeronáutica S.A.

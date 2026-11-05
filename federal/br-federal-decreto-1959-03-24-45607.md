@@ -1,5 +1,3 @@
-###DEC-045607-0-000-24-03-1959@@@
-
 Decreto nº 45.607, de 24 de março de 1959.
 
 Concede reconhecimento ao curso de bacharelado da Faculdade de Direito de Passo Fundo.

@@ -1,5 +1,3 @@
-###DEC-070192-0-000-24-02-1972@@@
-
 Decreto nº 70.192, de 24 de fevereiro de 1972.
 
 Autoriza o funcionamento da Faculdade de Educação Física da Alta Araraquarense - SP.

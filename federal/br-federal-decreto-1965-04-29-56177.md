@@ -1,5 +1,3 @@
-###DEC-056177-0-000-29-04-1965@@@
-
 Decreto nº 56.177, de 29 de abril de 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica.

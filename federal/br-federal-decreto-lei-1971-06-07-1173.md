@@ -1,5 +1,3 @@
-###DEL-001173-0-000-07-06-1971@@@
-
 # DECRETO-LEI Nº 1.173, DE 7 DE JUNHO DE 1971
 
 Altera os § 3º do artigo 19 do Decreto-lei nº 401, de 30 de dezembro de 1968.

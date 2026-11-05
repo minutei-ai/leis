@@ -1,5 +1,3 @@
-###DEC-005574-0-000-08-11-2005@@@
-
 DECRETO Nº 5.574 DE 8 DE NOVEMBRO DE 2005.
 
        Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Guiana sobre Isenção Parcial de Vistos, celebrado em Brasília, em 30 de julho de 2003.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 9.11.2005
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
+Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL
 
 E O GOVERNO DA REPÚBLICA DA GUIANA SOBRE
 

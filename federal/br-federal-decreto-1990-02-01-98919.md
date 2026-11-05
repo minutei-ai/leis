@@ -1,7 +1,3 @@
-1
-
-###DEC-098919-0-000-01-02-1990@@@
-
 DECRETO Nº 98.919, DE 1º DE FEVEREIRO DE 1990
 
 Renova a concessão outorgada à TELEVISÃO GUAÍBA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade do Porto Alegre, Estado do Rio Grande do Sul.

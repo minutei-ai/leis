@@ -1,5 +1,3 @@
-###DEC-048662-0-000-04-08-1960@@@
-
 DECRETO Nº 48.662, de 4 de agôsto de 1960.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$500.000,00, destinado a auxiliar as despesas com o comparecimento da Delegação da Cruz Vermelha Brasileira à 19ª Conferência da Cruz Vermelha Internacional.

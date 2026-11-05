@@ -1,5 +1,3 @@
-###DEL-008251-0-000-29-11-1945@@@
-
 DECRETO-LEI N. 8.251 – DE 29 DE NOVEMBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria  e Comércio o crédito suplementar de Cr$ 11.750,00.

@@ -1,5 +1,3 @@
-###DEC-094999-0-000-05-10-1987@@@
-
 DECRETO Nº 94.999, DE 5 DE OUTUBRO DE 1987
 
 Dispõe sobre o aumento do capital social da LIGHT  Serviços de Eletricidade S.A.

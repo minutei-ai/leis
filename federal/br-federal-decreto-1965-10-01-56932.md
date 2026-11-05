@@ -1,5 +1,3 @@
-###DEC-056932-0-000-01-10-1965@@@
-
 DECRETO Nº 56.932, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a Emprêsa de Minérios Independência Ltda. - EMIL - a pesquisar calcário, no município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

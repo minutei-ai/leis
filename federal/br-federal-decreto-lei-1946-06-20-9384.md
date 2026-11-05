@@ -1,5 +1,3 @@
-###DEL-009384-0-000-20-06-1946@@@
-
 DECRETO-LEI N. 9.384 – DE 20 DE JUNHO DE 1946
 
 Autoriza a incorporação de reservistas  à  Fôrça Policial da Bahia.

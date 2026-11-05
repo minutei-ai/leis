@@ -1,5 +1,3 @@
-###DEC-049605-0-000-28-12-1960@@@
-
 DECRETO Nº 49.605, DE 28 DE DEZEMBRO DE 1960.
 
 Aprova o aumento de capital e a mudança de nome do Banco do Rio Grande do Sul S.A.

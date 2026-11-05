@@ -1,5 +1,3 @@
-###DEL-009682-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.682 – DE 30 DE AGÔSTO DE 1946
 
 Extingue a Comissão Central de Requisições e dá outras providências

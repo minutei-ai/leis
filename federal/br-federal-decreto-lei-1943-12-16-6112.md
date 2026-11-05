@@ -1,5 +1,3 @@
-###DEL-006112-0-000-16-12-1943@@@
-
 DECRETO‑LEI N. 6.112 – DE 16 DE DEZEMBRO DE 1943
 
 Prorroga por seis meses a vigência do decreto‑lei n. 5.626, de 28 de junho de 1943

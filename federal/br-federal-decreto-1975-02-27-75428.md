@@ -1,5 +1,3 @@
-###DEC-075428-0-000-27-02-1975@@@
-
 decreto nº 75.428, de 27 de fevereiro de 1975.
 
 Autoriza o funcionamento do curso de Comunicação Social da Faculdade de Comunicação Social de Barra Mansa, mantida pela Sociedade Barramansense de Ensino Superior com sede na Cidade de Barra Mansa, Estado do Rio de Janeiro.

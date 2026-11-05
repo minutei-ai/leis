@@ -1,5 +1,3 @@
-###DEC-088294-0-000-10-05-1983@@@
-
 DECRETO Nº 88.294, DE 10 DE MAIO DE 1983.
 
 Autoriza o BANCO FINANCIAL PORTUGUÊS-Filial da Caixa Geral de Depósitos a instalar mais uma filial no País.

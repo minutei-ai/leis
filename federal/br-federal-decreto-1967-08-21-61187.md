@@ -1,5 +1,3 @@
-###DEC-061187-0-000-21-08-1967@@@
-
 DECRETO Nº 61.187, DE 21 DE aGÔSTO DE 1967.
 
 Declara caduco o Decreto nº 34.472, de 4 de novembro de 1953.

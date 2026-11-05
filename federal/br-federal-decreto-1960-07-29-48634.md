@@ -1,5 +1,3 @@
-###DEC-048634-0-000-29-07-1960@@@
-
 DECRETO Nº 48.634, DE 29 DE JULHO DE 1960.
 
 Cria cargos e funções no Quadro de Pessoal Permanente da Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providências.

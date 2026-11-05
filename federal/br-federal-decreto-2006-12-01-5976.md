@@ -1,5 +1,3 @@
-###DEC-005976-0-000-01-12-2006@@@
-
 DECRETO Nº 5.976 DE 1º DE DEZEMBRO DE 2006.
 
 Dá nova redação ao § 1o do art. 11 do Decreto no 5.826, de 29 de junho de 2006, que dispõe sobre o processo de Inventariança da Comercializadora Brasileira de Energia Emergencial - CBEE.
@@ -21,5 +19,3 @@ LUIZ INÁCIO LULA DA SILVA
           Silas Rondeau Cavalcante Silva
 
          Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 4.12.2006

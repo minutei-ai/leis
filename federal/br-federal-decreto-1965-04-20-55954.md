@@ -1,5 +1,3 @@
-###DEC-055954-0-000-20-04-1965@@@
-
 DECRETO Nº 55.954, DE 20 DE ABRIL DE 1965.
 
 Abre, pelo Ministério da Fazenda, o crédito especial autorizado pela Lei nº 4.356, de 9 de dezembro de 1964, para os fins que especifica.

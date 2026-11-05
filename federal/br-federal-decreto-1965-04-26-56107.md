@@ -1,5 +1,3 @@
-###DEC-056107-0-000-26-04-1965@@@
-
 Decreto nº 56.107, de 26 de abril de 1965.
 
 Autoriza a cidadã brasileira Maria Alves das Dores a pesquisar quartzo e pedras semipreciosas, no Município de Novo Cruzeiro, Estado de Minas Gerais.

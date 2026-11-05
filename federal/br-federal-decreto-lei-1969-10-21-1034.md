@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e8ce1f27-cf41-43df-85e3-a7e8a4088020/texto#nowhere)
 
-###DEL-001034-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.034, DE 21 DE OUTUBRO DE 1969
 
 Dispõe sôbre medidas de segurança para Instituições Bancárias, Caixas Econômicas e Cooperativas de Créditos, e dá outras providências.

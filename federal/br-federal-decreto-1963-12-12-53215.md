@@ -1,5 +1,3 @@
-###DEC-053215-0-000-12-12-1963@@@
-
 DECRETO Nº 53.215, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza a Emprêsa Fôrça e Luz Santa Catarina S.A. a construir linha de transmissão.

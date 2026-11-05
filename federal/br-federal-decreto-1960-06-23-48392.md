@@ -1,5 +1,3 @@
-###DEC-048392-0-000-23-06-1960@@@
-
 DECRETO Nº 48.392, DE 23 DE JUNHO DE 1960.
 
 Altera o art. 1º do Decreto nº 45.777 de 14 de abril de 1953.

@@ -1,5 +1,3 @@
-###DEC-047465-0-000-22-12-1959@@@
-
 DECRETO Nº 47.465, DE 22 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre a lotação de servidores cedidos à RFFSA,

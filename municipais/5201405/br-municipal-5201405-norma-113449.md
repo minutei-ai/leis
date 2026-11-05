@@ -4,7 +4,8 @@ Institui a carreira dos Procuradores do Município de Aparecida de Goiânia e d�
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1° Esta Lei institui a carreira dos Procuradores do Município de Aparecida de Goiânia, estabelece as condições de desenvolvimento de seus integrantes nessa carreira, fixa o valor dos vencimentos dos cargos que a compõem e disciplina assuntos correlatos.
@@ -39,10 +40,12 @@ III - Classe: a divisão básica da carreira integrada por cargos de idêntica d
 
 IV - Padrão: a posição do servidor na escala da carreira.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA CARREIRA DE PROCURADOR DO MUNICÍPIO
 
-Seção I<br>
+Seção I
+
 Da organização da carreira
 
 Art. 3º A carreira de Procurador do Município fica configurada na conformidade do disposto na Tabela "A" do Anexo I desta Lei.
@@ -57,7 +60,8 @@ III - Classe III: composta pelos padrões 1 e 2;
 
 IV - Classe IV: composta por padrão único.
 
-Seção II<br>
+Seção II
+
 Do enquadramento
 
 Art. 5º O Procurador do Município aprovado em concurso público para provimento do cargo será enquadrado na classe I padrão 1 da Tabela “A” constante do Anexo I desta Lei.
@@ -70,10 +74,12 @@ Art. 6º Os Procuradores do Município em efetivo exercício serão enquadrados 
 
 § 3º O procedimento decorrente da situação prevista no caput será feito no prazo de até 30 (trinta) dias, contados da publicação desta Lei.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS DIREITOS E VANTAGENS
 
-Seção I<br>
+Seção I
+
 Da remuneração
 
 Art. 7º Sem prejuízo de outros previstos em lei, ficam assegurados, ao Procurador do Município, os seguintes direitos e vantagens:
@@ -92,7 +98,8 @@ V – Outros previstos na Lei Complementar nº 03, de 28 de dezembro de 2001 e n
 
 § 2º Os honorários referidos no parágrafo anterior serão geridos pela Associação dos Procuradores de Aparecida de Goiânia, nos termos da legislação municipal.
 
-Seção II<br>
+Seção II
+
 Do vencimento
 
 Art. 8º O vencimento dos Procuradores do Município é fixado por um valor inicial, constante da Tabela “A” do Anexo I desta Lei, o qual é atribuído em escala crescente na carreira, conforme o seu enquadramento nas classes e padrões definidos na referida Tabela, ficando assim composto:
@@ -111,14 +118,16 @@ Art. 10. A Gratificação de Incentivo à Produtividade e os adicionais de ordem
 
 Art. 11. O vencimento de que trata esta Seção entrará em vigor a partir da publicação desta Lei e serão atualizados anualmente, de acordo com o previsto na Lei Complementar Municipal nº 003/01.
 
-Seção III<br>
+Seção III
+
 Da Gratificação de Incentivo à Produtividade
 
 Art. 12. A Gratificação de Incentivo à Produtividade - GIAP que trata o art. 33 da Lei Complementar nº 015, de 08 de agosto de 2008, compreende as atividades individuais dos Procuradores do Município, tais como elaboração de peças judiciais, pareceres, despachos, contratos, ofícios, projetos de leis, entre outras, nos termos de regulamento editado pelo Chefe do Poder Executivo.
 
 Parágrafo único. A Gratificação de Incentivo à Produtividade será concedida mediante Relatório de Atividades Mensal, calculada proporcionalmente ao número de pontos obtidos, considerando-se, para tanto, o limite máximo de 4000 (quatro mil) pontos mensais.
 
-Art. 13. Para efeito de pagamento da Gratificação de Incentivo à Produtividade, cada ponto obtido corresponderá a 0,75 (setenta e cinco décimos) de Unidade de Valor Fiscal de Aparecida de Goiânia (UVFA) em vigor ou outra que, em sua substituição, vier a ser adotada pelo Município.<br>
+Art. 13. Para efeito de pagamento da Gratificação de Incentivo à Produtividade, cada ponto obtido corresponderá a 0,75 (setenta e cinco décimos) de Unidade de Valor Fiscal de Aparecida de Goiânia (UVFA) em vigor ou outra que, em sua substituição, vier a ser adotada pelo Município.
+
 (Redação alterada pela Lei Complementar nº 224, de 13 de dezembro de 2023).
 
 ~~Art. 13. Para efeito de pagamento da Gratificação de Incentivo à Produtividade, cada ponto obtido corresponderá a 0,16 (dezesseis décimos) de Unidade de Valor Fiscal de Aparecida de Goiânia (UVFA) em vigor ou outra que, em sua substituição, vier a ser adotada pelo Município.~~
@@ -131,7 +140,8 @@ Art. 16. Igualmente será calculada com base na média dos últimos 03 (três) m
 
 Art. 17. É facultado ao Poder Executivo a criação de gratificação de produtividade institucional, por Meta de Resultados, com critérios a serem definidos em regulamento.
 
-Seção IV<br>
+Seção IV
+
 Do Adicional de Incentivo à Profissionalização
 
 Art. 18. O Adicional de Incentivo à Profissionalização será devido ao Procurador do Município em razão do aprimoramento de sua qualificação profissional e conforme o grau de titularidade.
@@ -158,10 +168,12 @@ III - 20% (vinte por cento) para um total igual ou superior a 1080 (mil e oitent
 
 §5º o adicional de incentivo a profissionalização já concedido até a data da publicação desta lei deverá ser mantido.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA PROGRESSÃO NA CARREIRA
 
-Seção I<br>
+Seção I
+
 Da progressão funcional
 
 Art. 20. Progressão funcional é a passagem do Procurador do Município do padrão em que se encontra para o padrão imediatamente superior, dentro da mesma classe da carreira, em razão do cumprimento do interstício de tempo de efetivo exercício na carreira, assim disposto:
@@ -180,7 +192,8 @@ IV - Na Classe IV: padrão único.
 
 Parágrafo único. Após o cumprimento do estágio probatório com a confirmação do Procurador do Município no cargo, o servidor será enquadrado no padrão 2 da Classe I da carreira.
 
-Seção II<br>
+Seção II
+
 Da promoção
 
 Art. 21. Promoção é a elevação do Procurador do Município na carreira, de uma classe para a imediatamente superior, quando implementados, cumulativamente, os seguintes requisitos:
@@ -233,7 +246,8 @@ III – Na Classe III: 5 vagas, distribuídas livremente nos padrões.
 
 IV – Na Classe IV: 3 vagas, padrão único.
 
-Seção III<br>
+Seção III
+
 Das disposições comuns à progressão funcional e à promoção
 
 Art. 23. A progressão funcional e a promoção dos Procuradores do Município serão geridas pelo Conselho de Procuradores do Município e posteriormente referendadas pelo Procurador Geral do Município.
@@ -248,7 +262,8 @@ III - Nos últimos 2 (dois) anos, o servidor, embora haja implementado os prazos
 
 Art. 25. Para efeito da promoção somente serão aceitas as atividades de treinamento ou desenvolvimento e cursos com duração mínima de 15 (quinze) horas, a fim de totalizar o mínimo de 360 (trezentas e sessenta) horas para a obtenção da promoção.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 26. O Procurador do Município pode ser lotado em outro órgão da Administração, sem se modificar a sua situação funcional.
@@ -269,14 +284,15 @@ Art. 33. Esta Lei entra em vigor na data de sua publicação, revogando-se as di
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 08 de Abril de 2022.
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
 ANEXO I
 
 TABELA “A” - VENCIMENTOS
 
-<table align="center" class="Table" style="border-collapse:collapse" width="1004"><tbody><tr><td style=" width:65px;  height:69px;    ">&nbsp; <b>CLASSE</b></td><td style=" width:94px;  height:69px;    ">&nbsp; &nbsp;</td><td colspan="10" style=" width:844px;  height:69px;    ">&nbsp; <b>PADRÃO</b></td></tr><tr><td rowspan="2" style=" width:65px;  height:20px;   ">&nbsp; <b>I</b></td><td style=" width:94px;  height:20px;    "><b>1 I</b></td><td style=" width:88px;  height:20px;    "><b>2</b></td><td style=" width:85px;  height:20px;    "><b>3</b></td><td style=" width:85px;  height:20px;    "><b>4</b></td><td style=" width:85px;  height:20px;    "><b>5</b></td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:76px;  height:20px;   ">&nbsp;</td></tr><tr><td style=" width:94px;  height:31px;   ">R$ 11.964,76 + X%</td><td style=" width:88px;  height:31px;   ">1I + 2% + X%</td><td style=" width:85px;  height:31px;   ">2I + 2%+ X%</td><td style=" width:85px;  height:31px;   ">3I + 2%+ X%</td><td style=" width:85px;  height:31px;   ">4I + 2%+ X%</td><td style=" width:85px;  height:31px;   ">&nbsp;</td><td style=" width:85px;  height:31px;   ">&nbsp;</td><td style=" width:85px;  height:31px;   ">&nbsp;</td><td style=" width:85px;  height:31px;   ">&nbsp;</td><td style=" width:85px;  height:31px;   ">&nbsp;</td><td style=" width:76px;  height:31px;   ">&nbsp;</td></tr><tr><td rowspan="2" style=" width:65px;  height:20px;   ">&nbsp; <b>II</b></td><td style=" width:94px;  height:20px;   ">&nbsp;</td><td style=" width:88px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;    "><b>1</b></td><td style=" width:85px;  height:20px;    "><b>2</b></td><td style=" width:85px;  height:20px;    "><b>3</b></td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:76px;  height:20px;   ">&nbsp;</td></tr><tr><td style=" width:94px;  height:20px;   ">&nbsp;</td><td style=" width:88px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">5I + 3%+ X%</td><td style=" width:85px;  height:20px;   ">1II + 2%+X%</td><td style=" width:85px;  height:20px;   ">2II +2%+ X%</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:76px;  height:20px;   ">&nbsp;</td></tr><tr><td rowspan="2" style=" width:65px;  height:20px;   ">&nbsp; <b>III</b></td><td style=" width:94px;  height:20px;   ">&nbsp;</td><td style=" width:88px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;    "><b>1</b></td><td style=" width:85px;  height:20px;    "><b>2</b></td><td style=" width:76px;  height:20px;   ">&nbsp;</td></tr><tr><td style=" width:94px;  height:20px;   ">&nbsp;</td><td style=" width:88px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">3II + 5%+X%</td><td style=" width:85px;  height:20px;   ">1III + 2%+ X%</td><td style=" width:76px;  height:20px;   ">&nbsp;</td></tr><tr><td rowspan="2" style=" width:65px;  height:20px;   ">&nbsp; <b>IV</b></td><td style=" width:94px;  height:20px;   ">&nbsp;</td><td style=" width:88px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:85px;  height:20px;   ">&nbsp;</td><td style=" width:76px;  height:20px;    "><b>ÚNICO</b></td></tr><tr><td style=" width:94px;  height:3px;   ">&nbsp;</td><td style=" width:88px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:85px;  height:3px;   ">&nbsp;</td><td style=" width:76px;  height:3px;   ">2III + 10%+ X%</td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp; **CLASSE**</td><td>&nbsp; &nbsp;</td><td colspan="10">&nbsp; **PADRÃO**</td></tr><tr><td rowspan="2">&nbsp; **I**</td><td>**1 I**</td><td>**2**</td><td>**3**</td><td>**4**</td><td>**5**</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>R$ 11.964,76 + X%</td><td>1I + 2% + X%</td><td>2I + 2%+ X%</td><td>3I + 2%+ X%</td><td>4I + 2%+ X%</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td rowspan="2">&nbsp; **II**</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>**1**</td><td>**2**</td><td>**3**</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>5I + 3%+ X%</td><td>1II + 2%+X%</td><td>2II +2%+ X%</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr><td rowspan="2">&nbsp; **III**</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>**1**</td><td>**2**</td><td>&nbsp;</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>3II + 5%+X%</td><td>1III + 2%+ X%</td><td>&nbsp;</td></tr><tr><td rowspan="2">&nbsp; **IV**</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>**ÚNICO**</td></tr><tr><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td>2III + 10%+ X%</td></tr></tbody></table>
 
 LEGENDA:
 
@@ -296,4 +312,4 @@ ANEXO II
 
 QUADRO DE VAGAS
 
-<table align="center" class="Table" style="border-collapse:collapse" width="462"><tbody><tr><td style=" width:216px;  height:69px;    ">&nbsp; <b>CLASSE</b></td><td style=" width:246px;  height:69px;    ">&nbsp; <b>VAGAS</b></td></tr><tr><td rowspan="2" style=" width:216px;  height:20px;   "><b>I</b></td><td style=" width:246px;  height:20px;   "><b>9</b></td></tr><tr><td style=" width:246px;  height:5px;   ">&nbsp;</td></tr><tr><td rowspan="2" style=" width:216px;  height:20px;   "><b>II</b></td><td style=" width:246px;  height:20px;   "><b>7</b></td></tr><tr><td style=" width:246px;  height:20px;   ">&nbsp;</td></tr><tr><td rowspan="2" style=" width:216px;  height:20px;   "><b>III</b></td><td style=" width:246px;  height:20px;   "><b>5</b></td></tr><tr><td style=" width:246px;  height:20px;   ">&nbsp;</td></tr><tr><td rowspan="2" style=" width:216px;  height:20px;   "><b>IV</b></td><td style=" width:246px;  height:20px;   "><b>3</b></td></tr><tr><td style=" width:246px;  height:3px;   ">&nbsp;</td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp; **CLASSE**</td><td>&nbsp; **VAGAS**</td></tr><tr><td rowspan="2">**I**</td><td>**9**</td></tr><tr><td>&nbsp;</td></tr><tr><td rowspan="2">**II**</td><td>**7**</td></tr><tr><td>&nbsp;</td></tr><tr><td rowspan="2">**III**</td><td>**5**</td></tr><tr><td>&nbsp;</td></tr><tr><td rowspan="2">**IV**</td><td>**3**</td></tr><tr><td>&nbsp;</td></tr></tbody></table>

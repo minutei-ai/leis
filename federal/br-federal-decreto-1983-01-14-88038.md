@@ -1,5 +1,3 @@
-###DEC-088038-0-000-14-01-1983@@@
-
 Decreto nº 88.038 de 18 de JANEIRO de 1983
 
 Autoriza o aumento do Capital Social da Companhia de Navegação Lloyd Brasileiro - LLOYDBRÁS.

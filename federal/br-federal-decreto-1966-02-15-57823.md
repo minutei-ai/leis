@@ -1,5 +1,3 @@
-###DEC-057823-0-000-15-02-1966@@@
-
 Decreto nº 57.823, de 15 de fevereiro de 1966.
 
 Cria o Grupo de Trabalho Especial para elaborar o esquema de aplicação de recursos externos destinados à pecuária nacional.

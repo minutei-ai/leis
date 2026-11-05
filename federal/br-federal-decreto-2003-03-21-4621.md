@@ -1,5 +1,3 @@
-###DEC-004621-0-000-21-03-2003@@@
-
 DECRETO Nº 4.621, DE 21 DE MARÇO DE 2003.
 
 Acresce alínea ao inciso V do art. 1º do Decreto nº 3.648, de 30 de outubro de 2000, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz.

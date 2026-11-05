@@ -1,5 +1,3 @@
-###DEC-054616-0-000-27-10-1964@@@
-
 decreto nº 54.616, de 27 de outubro de 1964.
 
 Revoga, em parte, o Decreto número 47.950, de 18 de março de 1960, exclusivamente quanto à declaração de utilidade pública, para efeito de desapropriação das áreas de terras situadas no Município de Petrópolis, Estado do Rio de Janeiro, descritas nos arts. 2º e 3º do mesmo decreto e que haviam sido destinadas a obras de proteção dos mananciais para o abastecimento de água da Refinaria Duque de Caxias, de propriedade da Petróleo Brasileiro Sociedade Anônima - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-047447-0-000-17-12-1959@@@
-
 DECRETO Nº 47.447, DE 17 DE DEZEMBRO DE 1959.
 
 Vincula recursos do Fundo Federal de Eletrificação e autoriza a aquisição de ações da “Termoelétrica de Charqueadas S.A.”

@@ -1,5 +1,3 @@
-###DEC-073228-0-000-30-11-1973@@@
-
 Decreto Nº 73.228 - DE 30 DE NOVEMBRO DE 1973
 
 Declara perempta a concessão outorgada à Sociedade Educativa Itajubá Ltda., para executar em onda média de âmbito regional na Cidade de Itajubá, Estado de Minas Gerais.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001117-0-000-22-04-1994@@@
-
 DECRETO N° 1.117, DE 22 DE ABRIL DE 1994
 
 Reduz a alíquota do Imposto sobre Produtos Industrializados (IPI) incidente sobre os produtos que menciona.

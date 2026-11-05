@@ -1,5 +1,3 @@
-###MPV-001719-0-001-12-11-1998@@@
-
 medida provisória nº 1.791-1, de 12 de novembro de 1998.
 
 Altera dispositivos do Decreto-Lei nº 73, de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.

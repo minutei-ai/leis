@@ -1,5 +1,3 @@
-###DEC-066114-0-000-23-01-1970@@@
-
 DECRETO Nº 66.114 - DE 23 DE JANEIRO DE 1970
 
 Homologa ato governamental que, através do Decreto nº 65.311, de 9 de outubro de 1969, concedeu nacionalização à emprêsa Société de Sucreries Brésiliennes, sob a denominação social de usinas Brasileiras de Açúcar S. A.

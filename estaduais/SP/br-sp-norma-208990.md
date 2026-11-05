@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208990)<br>
-
 # LEI COMPLEMENTAR N° 1.394, DE 22 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a criação de cargos de Analista Jurídico do Ministério Público no Quadro de Pessoal do Ministério Público do Estado de São Paulo_

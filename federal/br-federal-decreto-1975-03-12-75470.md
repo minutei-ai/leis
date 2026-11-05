@@ -1,5 +1,3 @@
-###DEC-075470-0-000-12-03-1975@@@
-
 DECRETO Nº 75.470, DE 12 DE MARÇO DE 1975.
 
 Dispõe sobre a composição do Colégio de vogais da Junta Comercial do Estado do Rio de Janeiro.

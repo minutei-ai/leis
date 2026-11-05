@@ -1,5 +1,3 @@
-###DEL-004330-0-000-23-05-1942@@@
-
 DECRETO-LEI N. 4.330 – DE 23 DE MAIO DE 1942
 
 Regula a convocação dos pilotos civis da Aeronáutica

@@ -1,5 +1,3 @@
-###DEC-058052-0-000-23-03-1966@@@
-
 DECRETO Nº 58.052, DE 23 DE MARÇO DE 1966.
 
 Outorga a Carlos Hartmann concessão para o aproveitamento de energia hidráulica.

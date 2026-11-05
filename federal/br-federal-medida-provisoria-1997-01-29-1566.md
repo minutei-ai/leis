@@ -1,7 +1,3 @@
-1
-
-###MPV-001566-0-000-29-01-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.566, DE 29 DE JANEIRO DE 1997
 
 Excepciona o contrato celebrado entre o Banco Nacional de Desenvolvimento Econômico e Social e a Companhia Docas do Rio de Janeiro de exigências fixadas em lei, ou ato dela decorrente.

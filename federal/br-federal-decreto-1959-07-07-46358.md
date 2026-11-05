@@ -1,5 +1,3 @@
-###DEC-046358-0-000-07-07-1959@@@
-
 DECRETO Nº 46.358, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre as medidas necessárias à racionalização e fomento da cultura do algodoeiro de fibra longa e da criação pecuária na região do Seridó, Estado do Rio Grande do Norte.

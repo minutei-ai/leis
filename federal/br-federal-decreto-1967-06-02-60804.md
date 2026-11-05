@@ -1,5 +1,3 @@
-###DEC-060804-0-000-02-06-1967@@@
-
 DECRETO Nº 60.804, DE 2 DE JUNHO DE 1967.
 
 Cria Grupo de Trabalho para estudar e propor medidas destinadas a solucionar problemas do financiamento das atividades mineiras no País.

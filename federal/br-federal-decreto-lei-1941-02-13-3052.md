@@ -1,5 +1,3 @@
-###DEL-003052-0-000-13-02-1941@@@
-
 DECRETO-LEI N. 3.052 – DE 13 DE FEVEREIRO DE 1941
 
 Dispõe sobre as condições de matrícula aos cursos superiores

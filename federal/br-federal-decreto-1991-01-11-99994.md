@@ -1,7 +1,3 @@
-1
-
-###DEC-099994-0-000-11-01-1991@@@
-
 DECRETO Nº 99.994, DE 11 DE JANEIRO DE 1991.
 
 Declara de utilidade pública para fins de desapropriação em favor da Eletropaulo  Eletricidade de São Paulo S.A., a área de terra que menciona.

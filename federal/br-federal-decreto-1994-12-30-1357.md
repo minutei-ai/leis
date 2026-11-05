@@ -1,7 +1,3 @@
-1
-
-###DEC-001357-0-000-30-12-1994@@@
-
 DECRETO Nº 1.357, DE 30 DE DEZEMBRO DE 1994
 
 Regulamenta a Lei nº 8.857, de 8 de março de 1994, que criou as Áreas de Livre Comércio de Brasiléia e de Cruzeiro do Sul, no Estado do Acre e dá outras providências.

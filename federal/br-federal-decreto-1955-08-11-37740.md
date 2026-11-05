@@ -1,14 +1,12 @@
-###DEC-037740-0-000-11-08-1955@@@
+**DECRETO Nº 37.740, DE 11 DE AGÔSTO DE 1955.**
 
-<strong>DECRETO Nº 37.740, DE 11 DE AGÔSTO DE 1955.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Aeronáutica que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Aeronáutica que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista abaixo indicadas:
 
 I - uma função de Servente, referência 19, ocupada por Nair Volpi, da Tabela da Escola de Especialistas de Aeronáutica para a do Parque de Aeronáutica de São Paulo;
 
@@ -18,6 +16,6 @@ III - uma função de Mecânico, ref. 16, ocupada por José Cardoso de Castro, d
 
 Rio de Janeiro, em 11 de agôsto de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Eduardo Gomes

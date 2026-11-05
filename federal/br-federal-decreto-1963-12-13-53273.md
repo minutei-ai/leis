@@ -1,5 +1,3 @@
-###DEC-053273-0-000-13-12-1963@@@
-
 DECRETO Nº 53.273, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro João Leão de Carvalho a pesquisar amianto e minério de cromo e níquel, no município de Hidrolãndia, Estado de Minas Gerais.

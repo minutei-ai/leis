@@ -1,5 +1,3 @@
-###DEL-005949-0-000-29-10-1943@@@
-
 DECRETO‑LEI N. 5.949 – DE 29 DE OUTUBRO DE 1943
 
 Cria função gratificada no Quadro Permanente do Ministério da Fazenda e dá outras providências

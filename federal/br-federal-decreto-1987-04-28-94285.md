@@ -1,5 +1,3 @@
-###DEC-094285-0-000-28-04-1987@@@
-
 DECRETO N° 94.285, DE 28 DE ABRIL DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Jaracateá ou Nascença, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Jacaraú, no Estado da Paraíba, e compreendido na zona prioritária, para fins de reforma agrária, fixado pelo Decreto n° 92.682, de 19 de maio de 1986, e dá outras providências.

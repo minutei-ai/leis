@@ -1,5 +1,3 @@
-###DEC-059411-0-000-24-10-1966@@@
-
 Decreto nº 59.411, de 24 de outubro de 1966.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Aeronáutica.

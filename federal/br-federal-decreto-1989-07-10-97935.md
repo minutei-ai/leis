@@ -1,7 +1,3 @@
-1
-
-###DEC-097935-0-000-10-07-1989@@@
-
 DECRETO N° 97.935, DE 10 DE JULHO DE 1989
 
 Renova a concessão outorgada à RÁDIO PRINCESA DO VALE LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Açu, Estado do Rio Grande do Norte.

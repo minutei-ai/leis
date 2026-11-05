@@ -1,5 +1,3 @@
-###DEC-046103-0-000-21-05-1959@@@
-
 DECRETO Nº 46.103, DE 21 DE MAIO DE 1959.
 
 Concede ao Estado do Maranhão autorização para constituir, mediante subscrição pública, a “Centrais Elétricas do Maranhão Sociedade Anônima”, (CEMAR).
@@ -21,8 +19,6 @@ Rio de Janeiro, 21 de maio de 1959; 138º da Independência e 71º da República
 Juscelino Kubitschek
 
 Mario Meneghetti
-
-###DEC-046103-0-000-21-05-1959@@@RET01+++
 
 decreto nº 46.103, de 21 de maio de 1959.
 

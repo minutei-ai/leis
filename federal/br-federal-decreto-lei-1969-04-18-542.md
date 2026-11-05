@@ -1,7 +1,3 @@
-1
-
-###DEL-000542-0-000-18-04-1969@@@
-
 DECRETO-LEI Nº 542, DE 18 DE ABRIL DE 1969
 
 Aprova o acôrdo de Cooperação sôbre a Utilização da Energia Atômica para Fins Pacíficos, assinado em Madrid, a 27 de maio de 1968, com a Espanha.

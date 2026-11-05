@@ -1,5 +1,3 @@
-###DEC-003164-0-000-02-09-1999@@@
-
 DECRETO Nº 3.164, DE 2 DE SETEMBRO DE 1999.
 
 Altera o prazo de que trata o art. 1º do Decreto nº 2.770, de 3 de setembro de 1998.

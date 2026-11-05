@@ -1,5 +1,3 @@
-###MPV-000293-0-000-08-05-2006@@@
-
 MEDIDA PROVISÓRIA Nº 293, DE 8 DE MAIO DE 2006.
 
 Dispõe sobre o reconhecimento das centrais sindicais para os fins que especifica.

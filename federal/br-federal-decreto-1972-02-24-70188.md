@@ -1,5 +1,3 @@
-###DEC-070188-0-000-24-02-1972@@@
-
 DECRETO Nº 70.188, DE 24 DE FEVEREIRO DE 1972.
 
 Concede reconhecimento do Curso de Engenharia Civil da Escola de Engenharia Mauá do Instituto Mauá de Tecnologia, com sede em São Paulo - SP.

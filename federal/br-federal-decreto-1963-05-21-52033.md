@@ -1,5 +1,3 @@
-###DEC-052033-0-000-21-05-1963@@@
-
 DECRETO Nº 52.033, DE 21 DE MAIO DE 1963.
 
 Abre ao Poder Judiciário - Tribunal Regional do Trabalho da 2ª Região, o crédito especial de Cr$7.700.000,00 para o fim que especifica.

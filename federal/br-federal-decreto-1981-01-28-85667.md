@@ -1,5 +1,3 @@
-###DEC-085667-0-000-28-01-1981@@@
-
 DECRETO Nº 85.667, DE 28 DE JANEIRO DE 1981.
 
 Altera dispositivo do Regulamento do Centro Técnico Aeroespacial e dá outras providências.

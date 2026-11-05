@@ -1,5 +1,3 @@
-###DEC-052042-0-000-22-05-1963@@@
-
 DECRETO Nº 52.042, DE 22 DE MAIO DE 1963.
 
 Cria a Missão do Brasil junto às Comunidades Européias.

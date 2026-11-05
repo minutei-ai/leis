@@ -1,5 +1,3 @@
-###DEC-055232-0-000-16-12-1964@@@
-
 decreto nº 55.232, de 16 de dezembro de 1964.
 
 Estabelece normas transitórias para preenchimento dos Boletins de Merecimento de que trata o Decreto nº 53.480, de 23 de janeiro de 1964 (Regulamento de Promoção dos funcionário Públicos Civis da União).

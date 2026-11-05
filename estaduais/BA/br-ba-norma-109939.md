@@ -1,6 +1,7 @@
 LEI Nº 8.827 DE 02 DE OUTUBRO DE 2003
 
-Altera os limites do município de Jussiape, criado em 1962, através da Lei Estadual nº [Ver também:<br>
+Altera os limites do município de Jussiape, criado em 1962, através da Lei Estadual nº [Ver também:
+
 Lei nº](https://www.legislabahia.ba.gov.br/documentos/lei-no-8827-de-02-de-outubro-de-2003#%3E1.704%3C/a%3E%20,%20desmembrado%20dos%20territ%C3%B3rios%20de%20Barra%20da%20Estiva%20e%20Rio%20de%20Contas.%3C/div%3E%3Cdiv%20class=) [12.907](javascript: openDoc\() de 26 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Chapada Diamantina, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Abaíra, Andaraí, Barra da Estiva, Boninal, Bonito, Ibicoara, Ibitiara, Iramaia, Iraquara, Itaetê, Jussiape, Lençóis, Marcionílio Souza, Morro do Chapéu, Mucugê, Nova Redenção, Novo Horizonte, Palmeiras, Piatã, Rio de Contas, Seabra, Souto Soares, Utinga e Wagner.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -33,4 +34,4 @@ Armando Avena
 
 Secretário do Planejamento
 
-* * *
+ *

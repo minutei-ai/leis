@@ -1,5 +1,3 @@
-###DEC-007360-0-000-18-11-2010-PUB-01@@@
-
 DECRETO Nº 7.360, DE 18 DE NOVEMBRO DE 2010.
 
 Institui modelo de carteira funcional dos membros da carreira de Defensor Público e dá outras providências.

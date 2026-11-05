@@ -1,7 +1,3 @@
-1
-
-###DEC-098812-0-000-09-01-1990@@@
-
 DECRETO Nº 98.812, DE 9 DE JANEIRO DE 1990
 
 Regulamenta a Lei nº 7.805, de 18 de julho de 1989, e dá outras providências.

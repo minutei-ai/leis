@@ -1,5 +1,3 @@
-###DEC-002701-0-000-30-07-1998@@@
-
 DECRETO Nº 2.701, DE 30 DE JULHO DE 1998
 
 Estabelece as características dos Títulos da Dívida Pública Mobiliária Federal interna e dá outras providências.

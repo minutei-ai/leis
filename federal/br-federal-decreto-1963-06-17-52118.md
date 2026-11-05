@@ -1,5 +1,3 @@
-###DEC-052118-0-000-17-06-1963@@@
-
 decreto nº 52.118, de 17 de junho de 1963.
 
 Dispões sôbre o funcionamento da Consultoria Geral da República e dá outras providências.

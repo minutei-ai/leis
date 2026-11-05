@@ -1,5 +1,3 @@
-###DEC-045852-0-000-22-04-1959@@@
-
 DECRETO Nº 45.852, DE 22 DE ABRIL DE 1959.
 
 Declara públicas de uso comum, do domínio da União, as águas do rio “Sete Ranchos ou Tabocal-Buranhem”, “Buranhem” e “Buranhem” respectivamente nos seus trechos superior, médio e inferior.

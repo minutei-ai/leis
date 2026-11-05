@@ -1,5 +1,3 @@
-###DEC-053140-0-000-10-12-1963@@@
-
 DECRETO Nº 53.140, DE 10 DE DEZEMBRO DE 1963.
 
 Concede à Simil - Sociedade Industrial de Minérios Ltda, autorização para funcionar como emprêsa de mineração.

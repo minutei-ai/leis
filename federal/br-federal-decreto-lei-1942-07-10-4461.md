@@ -1,5 +1,3 @@
-###DEL-004461-0-000-10-07-1942@@@
-
 DECRETO-LEI N. 4.461 – DE 10 DE JULHO DE 1942
 
  Dispõe sobre a venda e distribuição de álcool

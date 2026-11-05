@@ -1,5 +1,3 @@
-###DEC-004138-0-000-20-02-2002@@@
-
 DECRETO Nº 4.138, DE 20 DE FEVEREIRO DE 2002
 
 Dispõe sobre a regulamentação do Fundo Seguro-Safra e dá outras providências.

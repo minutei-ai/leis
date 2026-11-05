@@ -1,5 +1,3 @@
-###DEC-088008-0-000-29-12-1982@@@
-
 Decreto nº 88.008, de 29 de dezembro de 1982
 
 Altera a composição da Diretoria do Banco Central do Brasil

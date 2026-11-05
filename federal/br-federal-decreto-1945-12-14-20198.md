@@ -1,22 +1,20 @@
-###DEC-020198-0-000-14-12-1945@@@
+**DECRETO Nº 20.198, DE 14 DE DEZEMBRO DE 1945.**
 
-<strong>DECRETO Nº 20.198, DE 14 DE DEZEMBRO DE 1945.</strong>
+***Concede à sociedade anônima Max Factor & Co. do Brasil autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima Max Factor & Co. do Brasil autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, a atendendo ao que requereu a sociedade anônima Max Factor & Co. do Brasil,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, a atendendo ao que requereu a sociedade anônima Max Factor & Co. do Brasil,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. É concedida à sociedade anônima Max Factor & Co. do Brasil com sede na cidade de Los Angeles, Estado da Califórnia, Estados Unidos da América, autorização para funcionar na República, com o capital de Cr$500.000,00 (quinhentos mil cruzeiros), destinado às suas operações no Brasil, e com os estatutos que apresentou mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 14 de dezembro de 1945; 124º da Independência e 57º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 R. Carneiro de Mendonça
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 20.198 DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 20.198 DESTA DATA**
 
 I
 
@@ -46,4 +44,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 14 de dezembro de 1945.
 
-<strong>R. CARNEIRO DE MENDONÇA</strong>
+**R. CARNEIRO DE MENDONÇA**

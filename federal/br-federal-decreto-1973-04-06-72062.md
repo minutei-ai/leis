@@ -1,5 +1,3 @@
-###DEC-072062-0-000-06-04-1973@@@
-
 decreto nº 72.062, de 6 de abril de 1973.
 
 Cria o Fundo de Desenvolvimento de Programas Integrados (FDPI), e dá outras providências.

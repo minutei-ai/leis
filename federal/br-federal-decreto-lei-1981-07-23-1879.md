@@ -1,7 +1,3 @@
-1
-
-###DEL-001879-0-000-23-07-1981@@@
-
 # Decreto-lei nº 1.879, de 23 de julho de 1981.
 
 Autoriza a conversão dos créditos que especifica em ações de sociedades de economia mista ou empresas públicas.

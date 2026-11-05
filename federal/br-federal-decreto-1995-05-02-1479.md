@@ -1,7 +1,3 @@
-1
-
-###DEC-001479-0-000-02-05-1995@@@
-
 DECRETO Nº 1.479, DE 2 DE MAIO DE 1995
 
 Altera os arts. 2º e 6º do Decreto nº 1.141, de 19 de maio de 1994, que dispõe sobre as ações de proteção ambiental, saúde e apoio às atividades produtivas para as comunidades indígenas, e dá outras providências.

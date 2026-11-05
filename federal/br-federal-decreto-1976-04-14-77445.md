@@ -1,5 +1,3 @@
-###DEC-077445-0-000-14-04-1976@@@
-
 DECRETO Nº 77.445 - DE 14 DE ABRIL DE 1976.
 
 Autoriza a transformação do curso de Matemática para curso de Ciências, da Faculdade de Filosofia, Ciências e Letras de Ituverava, em Ituverava, Estado de São Paulo.

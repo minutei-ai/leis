@@ -1,5 +1,3 @@
-###DEC-068398-0-000-23-03-1971@@@
-
 DECRETO Nº 68.398, DE 23 DE MARÇO DE 1971.
 
 Retifica o artigo 1º do Decreto número 55.432 de 31-12-1964.

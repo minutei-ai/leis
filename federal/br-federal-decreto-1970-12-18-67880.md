@@ -1,5 +1,3 @@
-###DEC-067880-0-000-18-12-1970@@@
-
 DECRETO Nº 67.880, DE 18 DE DEZEMBRO DE 1970.
 
 Redistribui cargo, Com a respectiva ocupante, para o Ministério do Trabalho e Previdência Social, e dá outras providências.

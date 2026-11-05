@@ -1,5 +1,3 @@
-###DEC-083868-0-000-17-08-1979@@@
-
 Decreto nº 83.868, de 17 de agosto de 1979.
 
 Fixa o fator de reajustamento salarial relativo a agosto de 1979.

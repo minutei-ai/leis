@@ -1,5 +1,3 @@
-###DEC-076869-0-000-19-12-1975@@@
-
 DECRETO Nº 76.869, DE 19 DE DEZEMBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Emissora Jalense Ltda., que passará a denominar-se Rádio Brasil Novo Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São José do Rio Preto, Estado de São Paulo.

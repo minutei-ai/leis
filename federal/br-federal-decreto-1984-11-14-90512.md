@@ -1,5 +1,3 @@
-###DEC-090512-0-000-14-11-1984@@@
-
 Decreto nº 90.512, de 14 de novembro de 1984
 
 Renova a concessão outorgada à RÁDIO EMISSORA SANT'ANA LTDA, e autoriza a transferência direta para a FUNDAÇÃO SANT'ANA - RÁDIO SANT'ANA para explorar serviço de radiodifusão sonora em onda média, na cidade de Ponta Grossa, Estado do Paraná.

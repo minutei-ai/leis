@@ -1,5 +1,3 @@
-###DEC-081967-0-000-13-07-1978@@@
-
 Decreto nº 81.967, de 13 de julho de 1978
 
 Dá nova redação a dispositivos do Decreto nº 77.565, de 10 de maio de 1976, que dispõe sobre a liberação e aplicação dos recursos do Fundo de Participação dos Estados, do Distrito Federal e dos Territórios, do Fundo de Participação dos Municípios e dá outras providências.

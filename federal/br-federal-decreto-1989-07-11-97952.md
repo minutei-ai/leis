@@ -1,7 +1,3 @@
-1
-
-###DEC-097952-0-000-11-07-1989@@@
-
 DECRETO N° 97.952, DE 11 DE JULHO DE 1989.
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “PIQUIRI” classificado como latifúndio por exploração, situado no Município de Cantagalo, Estado do Paraná, compreendido na zona prioritária fixada pelo Decreto n° 92.622, de 2 de maio de 1986, e dá outras providências.

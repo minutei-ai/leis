@@ -1,5 +1,3 @@
-###DEL-001572-0-000-01-09-1977@@@
-
 # DECRETO-lei Nº 1.572, DE 1 DE Setembro DE 1977
 
 Revoga a Lei nº 3.577, de 4 de julho de 1959, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006090-0-000-24-04-2007@@@
-
 DECRETO Nº 6.090, DE 24 DE ABRIL DE 2007.
 
 Altera a composição e aprova o Regimento Interno do Conselho Nacional de Ciência e Tecnologia - CCT, e dá outras providências.
@@ -64,11 +62,7 @@ Brasília, 24 de abril de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Sérgio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 25.4.2007
-
-ANEXO
+Sérgio Machado RezendeANEXO
 
  REGIMENTO INTERNO DO CONSELHO NACIONAL DE CIÊNCIA E TECNOLOGIA - CCT
 

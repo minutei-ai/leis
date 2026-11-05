@@ -1,5 +1,3 @@
-###DEC-075323-0-000-29-01-1975@@@
-
 DECRETO Nº 75.323, DE 29 DE JANEIRO DE 1975.
 
 Revoga o Decreto nº 57.855-A, de 24 de fevereiro de 1966, que aprovou o Regulamento de Correspondência do Exército (R-8), e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-058115-0-000-30-03-1966@@@
-
 DECRETO Nº 58.115, DE 30 DE MARÇO DE 1966.
 
 Autoriza o Departamento Nacional de Estradas de Rodagem e o Departamento Nacional de Portos e Rios Navegáveis a contratarem empréstimos com o Banco Interamericano de Desenvolvimento e o Ministro da Fazenda a prestar a garantia do Tesouro Nacional aos referidos empréstimos.

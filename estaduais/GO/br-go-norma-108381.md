@@ -1,4 +1,5 @@
-DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
+DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024
+
 \- [Revogado pelo Decreto nº 10.770, de 26-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111173/decreto-10770), art. 23, I. Efeitos funcionais e financeiros a partir de 1º-9-2025.
 
 ~~Dispõe sobre a regulamentação e a normatização das Funções Comissionadas Educacionais, da Secretaria de Estado da Educação, previstas na [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023.~~
@@ -123,7 +124,7 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 
 ~~FUNÇÕES COMISSIONADAS EDUCACIONAIS – FCEs, SEDUC~~
 
-| ~~TABELA 1~~ ~~FUNÇÕES COMISSIONADAS EDUCACIONAIS CENTRALIZADAS~~ |
+| ~~TABELA 1FUNÇÕES COMISSIONADAS EDUCACIONAIS CENTRALIZADAS~~ |
 | --- |
 | ~~**Denominação/Tipologia**~~ | ~~**Símbolo**~~ | ~~**Valor mensal**~~ | ~~**Quantitativo**~~ |
 | ~~Função Comissionada Centralizada 1~~ | ~~FCE-CENT1~~ | ~~4.100,00~~ | ~~1~~ |
@@ -136,13 +137,13 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 | ~~Função Comissionada Centralizada 8~~ | ~~FCE-CENT8~~ | ~~790,00~~ | ~~64~~ |
 | ~~Função Comissionada Centralizada 9~~ | ~~FCE-CENT9~~ | ~~630,00~~ | ~~23~~ |
 
-| ~~TABELA 2~~ ~~FUNÇÕES COMISSIONADAS ADMINISTRATIVAS EDUCACIONAIS~~ |
+| ~~TABELA 2FUNÇÕES COMISSIONADAS ADMINISTRATIVAS EDUCACIONAIS~~ |
 | --- |
 | ~~**Denominação/Tipologia**~~ | ~~**Símbolo**~~ | ~~**Valor mensal**~~ | ~~**Quantitativo**~~ |
 | ~~Função Comissionada Administrativa Educacional~~ | ~~FCAE-I~~ | ~~R$ 2.500,00~~ | ~~20~~ |
 | ~~Função Comissionada Administrativa Educacional~~ | ~~FCAE-II~~ | ~~R$ 1.600,00~~ | ~~30~~ |
 
-| ~~TABELA 3~~ ~~FUNÇÕES COMISSIONADAS PARA AS COORDENAÇÕES REGIONAIS DE EDUCAÇÃO~~ |
+| ~~TABELA 3FUNÇÕES COMISSIONADAS PARA AS COORDENAÇÕES REGIONAIS DE EDUCAÇÃO~~ |
 | --- |
 | ~~**Denominação/Tipo de Função**~~ | ~~**Símbolo**~~ | ~~**Valor mensal**~~ | ~~**Quantitativo**~~ |
 | ~~DE PORTE 1~~ |
@@ -164,7 +165,7 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 | ~~Supervisor Administrativo Educacional~~ | ~~FC-SAE3~~ | ~~1.612,50~~ | ~~24~~ |
 | ~~Supervisor de Apoio Administrativo~~ | ~~FC-SAD3~~ | ~~1.075,00~~ | ~~24~~ |
 
-| ~~TABELA 4~~ ~~FUNÇÃO COMISSIONADA DE GESTOR ESCOLAR – UNIDADES PARCIAIS~~ |
+| ~~TABELA 4FUNÇÃO COMISSIONADA DE GESTOR ESCOLAR – UNIDADES PARCIAIS~~ |
 | --- |
 | ~~**Tipologia**~~ | ~~**Símbolo**~~ | ~~**Alunos**~~ | ~~**FC Fixo**~~ | ~~**FC Variável 1**~~ | ~~**FC Variável 2**~~ | ~~**FC Variável 3**~~ | ~~**Quantitativo**~~ |
 | ~~1~~ | ~~FCEGE~~ | ~~1 a 50~~ | ~~1.100,00~~ | ~~900,00~~ | ~~1.000,00~~ | ~~1.100,00~~ | ~~21~~ |
@@ -198,7 +199,7 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 | ~~29~~ | ~~FCEGE~~ | ~~1.401 a 1.450~~ | ~~2.500,00~~ | ~~2.300,00~~ | ~~2.400,00~~ | ~~2.500,00~~ | ~~1~~ |
 | ~~30~~ | ~~FCEGE~~ | ~~1.451 em diante~~ | ~~2.550,00~~ | ~~2.350,00~~ | ~~2.450,00~~ | ~~2.550,00~~ | ~~10~~ |
 
-| ~~TABELA 5~~ ~~FUNÇÃO COMISSIONADA EDUCACIONAL DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO – UNIDADES PARCIAIS~~ |
+| ~~TABELA 5FUNÇÃO COMISSIONADA EDUCACIONAL DE SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO – UNIDADES PARCIAIS~~ |
 | --- |
 | ~~**Tipologia**~~ | ~~**Símbolo**~~ | ~~**Alunos**~~ | ~~**FC Fixo**~~ | ~~**FC Variável 1**~~ | ~~**FC Variável 2**~~ | ~~**FC Variável 3**~~ | ~~**Quantitativo**~~ |
 | ~~1~~ | ~~FCESECAF~~ | ~~1 a 50~~ | ~~\-~~ | ~~\-~~ | ~~\-~~ | ~~\-~~ | ~~\-~~ |
@@ -232,27 +233,27 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 | ~~29~~ | ~~FCESECAF~~ | ~~1.401 a 1.450~~ | ~~1.375,00~~ | ~~1.265,00~~ | ~~1.320,00~~ | ~~1.375,00~~ | ~~5~~ |
 | ~~30~~ | ~~FCESECAF~~ | ~~1.451 em diante~~ | ~~1.402,50~~ | ~~1.292,50~~ | ~~1.347,50~~ | ~~1.402,50~~ | ~~22~~ |
 
-| ~~TABELA 6~~ ~~FUNÇÃO COMISSIONADA EDUCACIONAL DE GESTOR ESCOLAR DOS CENTROS DE ENSINO EM PERÍODO INTEGRAL~~ |
+| ~~TABELA 6FUNÇÃO COMISSIONADA EDUCACIONAL DE GESTOR ESCOLAR DOS CENTROS DE ENSINO EM PERÍODO INTEGRAL~~ |
 | --- |
 | ~~**Tipologia**~~ | ~~**Símbolo**~~ | ~~**Alunos**~~ | ~~**FC Fixo**~~ | ~~**FC Variável 1**~~ | ~~**FC Variável 2**~~ | ~~**FC Variável 3**~~ | ~~**Quantitativo**~~ |
 | ~~1~~ | ~~FCEGE-CEPI~~ | ~~1 a 200~~ | ~~1.500,00~~ | ~~1.300,00~~ | ~~1.400,00~~ | ~~1.500,00~~ | ~~89~~ |
 | ~~2~~ | ~~FCEGE-CEPI~~ | ~~201 a 400~~ | ~~1.750,00~~ | ~~1.550,00~~ | ~~1.650,00~~ | ~~1.750,00~~ | ~~135~~ |
 | ~~3~~ | ~~FCEGE-CEPI~~ | ~~401 em diante~~ | ~~2.000,00~~ | ~~1.800,00~~ | ~~1.900,00~~ | ~~2.000,00~~ | ~~46~~ |
 
-| ~~TABELA 7~~ ~~FUNÇÃO COMISSIONADA SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS CENTROS DE ENSINO EM PERÍODO INTEGRAL~~ |
+| ~~TABELA 7FUNÇÃO COMISSIONADA SECRETÁRIO ESCOLAR E COORDENADOR ADMINISTRATIVO FINANCEIRO DOS CENTROS DE ENSINO EM PERÍODO INTEGRAL~~ |
 | --- |
 | ~~**Tipologia**~~ | ~~**Símbolo**~~ | ~~**Alunos**~~ | ~~**FC Fixo**~~ | ~~**FC Variável 1**~~ | ~~**FC Variável 2**~~ | ~~**FC Variável 3**~~ | ~~**Quantitativo**~~ |
 | ~~1~~ | ~~FCESECAF-CEPI~~ | ~~1 a 200~~ | ~~900,00~~ | ~~780,00~~ | ~~840,00~~ | ~~900,00~~ | ~~150~~ |
 | ~~2~~ | ~~FCESECAF-CEPI~~ | ~~201 a 400~~ | ~~1.050,00~~ | ~~930,00~~ | ~~990,00~~ | ~~1.050,00~~ | ~~210~~ |
 | ~~3~~ | ~~FCESECAF-CEPI~~ | ~~401 em diante~~ | ~~1.200,00~~ | ~~1.080,00~~ | ~~1.140,00~~ | ~~1.200,00~~ | ~~80~~ |
 
-| ~~TABELA 8~~ ~~FUNÇÕES COMISSIONADAS DO PROGRAMA GOIÁS TEC – ENSINO MÉDIO AO ALCANCE DE TODOS~~ |
+| ~~TABELA 8FUNÇÕES COMISSIONADAS DO PROGRAMA GOIÁS TEC – ENSINO MÉDIO AO ALCANCE DE TODOS~~ |
 | --- |
 | ~~**Denominação / Tipo de Função**~~ | ~~**Símbolo**~~ | ~~**Valor Mensal**~~ | ~~**Quantitativo**~~ |
 | ~~Função Comissionada de Coordenador Pedagógico de Mediação Tecnológica~~ | ~~FCCPMT-I~~ | ~~R$ 3.000,00~~ | ~~1~~ |
 | ~~Função Comissionada de Assessor Pedagógico de Mediação Tecnológica~~ | ~~FCAPMT-I~~ | ~~R$ 2.250,00~~ | ~~4~~ |
 
-| ~~TABELA 9~~ ~~FUNÇÕES COMISSIONADAS DE ASSESSORAMENTO PEDAGÓGICO~~ |
+| ~~TABELA 9FUNÇÕES COMISSIONADAS DE ASSESSORAMENTO PEDAGÓGICO~~ |
 | --- |
 | ~~**Denominação/Tipo de Função**~~ | ~~**Símbolo**~~ | ~~**Valor mensal**~~ | ~~**Quantitativo**~~ |
 | ~~Função Comissionada de Gestor Pedagógico~~ | ~~FCGP~~ | ~~R$ 1.800,00~~ | ~~92~~ |
@@ -260,7 +261,7 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 | ~~Função Comissionada de Assessoria Pedagógica Central~~ | ~~FCAPCENT~~ | ~~R$ 1.800,00~~ | ~~70~~ |
 | ~~Função Comissionada de Tutor Educacional~~ | ~~FCTE~~ | ~~R$ 2.000,00~~ | ~~200~~ |
 
-| ~~TABELA 10~~ ~~FUNÇÃO COMISSIONADA DO CENTRO DE ATENDIMENTO EDUCACIONAL FLORESCER~~ |
+| ~~TABELA 10FUNÇÃO COMISSIONADA DO CENTRO DE ATENDIMENTO EDUCACIONAL FLORESCER~~ |
 | --- |
 | ~~**Denominação/Tipo de Função**~~ | ~~**Símbolo**~~ | ~~**Valor mensal**~~ | ~~**Quantitativo**~~ |
 | ~~Função Comissionada de Diretor do Centro de Atendimento Educacional Florescer~~ | ~~FCEFLOR-DIR~~ | ~~3.500,00~~ | ~~1~~ |
@@ -268,7 +269,7 @@ DECRETO Nº 10.382, DE 5 DE JANEIRO DE 2024<br>
 | ~~Função Comissionada de Supervisor do Centro de Atendimento Educacional Florescer~~ | ~~FCEFLOR-SUP~~ | ~~1.750,00~~ | ~~4~~ |
 | ~~Função Comissionada de Coordenador Administrativo Financeiro do Centro de Atendimento Educacional Florescer~~ | ~~FCEFLOR-CAF~~ | ~~1.000,00~~ | ~~1~~ |
 
-| ~~TABELA 11~~ ~~FUNÇÃO COMISSIONADA DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~ |
+| ~~TABELA 11FUNÇÃO COMISSIONADA DO CENTRO DE ESTUDO E PESQUISA CIRANDA DA ARTE~~ |
 | --- |
 | ~~**Denominação / Tipo de Função**~~ | ~~**Símbolo**~~ | ~~**Valor mensal**~~ | ~~**Quantitativo**~~ |
 | ~~Função Comissionada de Diretor do Centro de Estudo e Pesquisa Ciranda da Arte~~ | ~~FCECECA-DIR~~ | ~~3.500,00~~ | ~~1~~ |

@@ -1,5 +1,3 @@
-###DEC-093708-0-000-15-12-1986@@@
-
 DECRETO Nº 93.708, DE 15 DE DEZEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Santana", situado no Município de Santarém, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.623, de 02 de maio de 1986, e dá outras providências.

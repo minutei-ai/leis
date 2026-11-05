@@ -1,5 +1,3 @@
-###DEC-083511-0-000-28-05-1979@@@
-
 DECRETO Nº 83.511, DE 28 DE MAIO DE 1979.
 
 Concede reconhecimento aos cursos de Tecnólogo em Administração Rural e de Tecnólogo em Cooperativismo da Universidade Estadual de Ponta Grossa, Estado do Paraná.

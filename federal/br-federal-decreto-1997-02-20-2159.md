@@ -1,5 +1,3 @@
-###DEC-002159-0-000-20-02-1997@@@
-
 DECRETO Nº 2.159, DE 20 DE FEVEREIRO DE 1997
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo de Alcance Parcial de “Renegociação das concessões outorgadas no período 1962/1980” nº 11, entre Brasil e Equador, 11 de dezembro de 1996.

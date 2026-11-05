@@ -1,5 +1,3 @@
-###DEC-079483-0-000-13-04-1977@@@
-
 DECRETO Nº 79.483, DE 13 DE ABRIL DE 1977.
 
 Fixa o fator de reajustamento salarial relativo a abril de 1977.

@@ -1,5 +1,3 @@
-###DEC-073900-0-000-05-04-1974@@@
-
 DECRETO Nº 73.900, DE 5 DE ABRIL DE 1974.
 
 Declara sem efeito o Decreto número 42.777, de 9 de dezembro de 1957.

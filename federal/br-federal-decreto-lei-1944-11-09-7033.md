@@ -1,5 +1,3 @@
-###DEL-007033-0-000-09-11-1944@@@
-
 DECRETO-LEI N. 7. 033 – DE 9 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$ 2.000.000,00, à verba que especifica

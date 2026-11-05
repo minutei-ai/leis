@@ -8,7 +8,8 @@ Art. 1º - Fica o Poder Executivo autorizado a contratar, em nome do Estado da B
 
 § 1º - Os recursos de que trata o _caput_ deste artigo destinam-se a viabilização de investimentos previstos no Orçamento do Estado nas áreas de Segurança Pública Prisional, Ciência, Tecnologia e Inovação, Saúde, Mobilidade Urbana e Infraestrutura e serão aplicados exclusivamente em despesas de capital.
 
-Redação de acordo com o [Art. 1º](javascript: openDoc\() da Lei nº 12.931, de 03 de janeiro de 2014.<br>
+Redação de acordo com o [Art. 1º](javascript: openDoc\() da Lei nº 12.931, de 03 de janeiro de 2014.
+
 Redação original: "§ 1º - Os recursos de que trata o caput deste artigo destinam-se à viabilização de investimentos previstos no orçamento do Estado nas áreas de Segurança Pública e Prisional; Ciência, Tecnologia e Inovação; Saúde e Mobilidade Urbana."
 
 § 2º - A operação descrita no caput deste artigo poderá ser realizada em moeda nacional (real), com variação cambial, em conformidade com a Resolução CMN 3.844/2010.

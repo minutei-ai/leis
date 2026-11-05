@@ -38,50 +38,61 @@ VI − despertar nas mulheres o interesse pelo negócio cooperativo e destacar s
 
 VII − potencializar a ação produtiva, combinando ações de formação e de assistência técnica.
 
-VIII – estimular a adoção de medidas para garantir a igualdade de gênero e o empoderamento econômico das mulheres empreendedoras;<br>
+VIII – estimular a adoção de medidas para garantir a igualdade de gênero e o empoderamento econômico das mulheres empreendedoras;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-IX – estimular a inovação, a pesquisa e o desenvolvimento de novos negócios liderados por mulheres;<br>
+IX – estimular a inovação, a pesquisa e o desenvolvimento de novos negócios liderados por mulheres;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-X – incentivar a disponibilização de instrumentos de formação de networking, como palestras, encontros presenciais e pela internet, compartilhamento de vivências e mentorias especializadas para fortalecer o empreendedorismo feminino;<br>
+X – incentivar a disponibilização de instrumentos de formação de networking, como palestras, encontros presenciais e pela internet, compartilhamento de vivências e mentorias especializadas para fortalecer o empreendedorismo feminino;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XI – incentivar a simplificação de burocracias na formalização do empreendedorismo;<br>
+XI – incentivar a simplificação de burocracias na formalização do empreendedorismo;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XII – incentivar a divulgação do trabalho realizado pelas empreendedoras;<br>
+XII – incentivar a divulgação do trabalho realizado pelas empreendedoras;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XIII – estimular o desenvolvimento das carreiras femininas, os processos de contratação mais inclusivos, bem como a reflexão social sobre o tema;<br>
+XIII – estimular o desenvolvimento das carreiras femininas, os processos de contratação mais inclusivos, bem como a reflexão social sobre o tema;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XIV – combater o preconceito de gênero;<br>
+XIV – combater o preconceito de gênero;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XV – estimular a adoção de medidas que permitam à mulher empreendedora competir em igualdade de oportunidades;<br>
+XV – estimular a adoção de medidas que permitam à mulher empreendedora competir em igualdade de oportunidades;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XVI – incentivar a realização de campanhas de conscientização sobre a importância do empreendedorismo para libertar mulheres da condição de violência e de extrema vulnerabilidade;<br>
+XVI – incentivar a realização de campanhas de conscientização sobre a importância do empreendedorismo para libertar mulheres da condição de violência e de extrema vulnerabilidade;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XVII – estimular o empreendedorismo nas classes mais vulneráveis;<br>
+XVII – estimular o empreendedorismo nas classes mais vulneráveis;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XVIII – estimular a criação e o fortalecimento de redes de negócios de legitimação da mulher e do empreendedorismo feminino;<br>
+XVIII – estimular a criação e o fortalecimento de redes de negócios de legitimação da mulher e do empreendedorismo feminino;
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-XIX – estimular o acesso das mulheres empreendedoras aos mercados e canais de distribuição.<br>
+XIX – estimular o acesso das mulheres empreendedoras aos mercados e canais de distribuição.
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
-Art. 3º-A Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.<br>
+Art. 3º-A Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.
+
 \- [Acrescido pela Lei nº 22.853, de 12-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109202/lei-22853).
 
 Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 14 de julho de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

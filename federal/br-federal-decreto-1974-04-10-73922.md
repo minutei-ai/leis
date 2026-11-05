@@ -1,5 +1,3 @@
-###DEC-073922-0-000-10-04-1974@@@
-
 DECRETO Nº 73.922, DE 10 De ABRIL DE 1974.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Ministério dos Transportes.

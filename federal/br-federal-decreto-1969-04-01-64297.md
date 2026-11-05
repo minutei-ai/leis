@@ -1,5 +1,3 @@
-###DEC-064297-0-000-01-04-1969@@@
-
 DECRETO Nº 64.297, DE 1º DE ABRIL DE 1969
 
 Dispões sôbre a retificação do Quadro Único de Pessoal da Escola Federal de Minas de Ouro Prêto.

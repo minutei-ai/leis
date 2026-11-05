@@ -1,5 +1,3 @@
-###DEC-045913-0-000-29-04-1959@@@
-
 DECRETO Nº 45.913, DE 29 DE ABRIL DE 1959.
 
 Modifica o Regimento do Conselho Nacional de Saúde, aprovado pelo Decreto nº 35.347, de 8 de abril de 1954.

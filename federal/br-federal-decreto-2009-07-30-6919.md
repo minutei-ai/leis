@@ -1,5 +1,3 @@
-###DEC-006919-0-000-30-07-2009@@@
-
 DECRETO Nº 6.919 DE 30 DE JULHO DE 2009.
 
 Prorroga o prazo estabelecido no inciso III do art. 2o do Decreto no 6.248, de 25 de outubro de 2007.

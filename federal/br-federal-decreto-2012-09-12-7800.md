@@ -1,5 +1,3 @@
-###DEC-007800-0-000-12-09-2012-PUB-01@@@
-
 DECRETO N° \- 7.800, DE 12 DE SETEMBRO DE 2012
 
 Dispõe sobre o remanejamento de cargos em comissão do Grupo-Direção e Assessoramento Superiores - DAS e altera o Anexo II ao Decreto no 7.482, de 16 de maio de 2011, referente à estrutura da Secretaria do Tesouro Nacional.

@@ -336,12 +336,14 @@ Art. 4º - Este Decreto entrará em vigor na data de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, aos 04 de novembro de 2024. 
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-ALANNA RITIELLE P. DE ARAÚJO FRANÇA <br>
+ALANNA RITIELLE P. DE ARAÚJO FRANÇA 
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana <br>
- <br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

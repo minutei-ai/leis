@@ -1,5 +1,3 @@
-###DEL-005973-0-000-08-11-1943@@@
-
 DECRETO‑LEI N. 5.973 – DE 8 DE NOVEMBRO DE 1943
 
 Altera, sem aumento de despesa, o vigente orçamento do Ministério da Viação e Obras Públicas

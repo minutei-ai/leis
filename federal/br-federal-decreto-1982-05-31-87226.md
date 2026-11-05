@@ -1,5 +1,3 @@
-###DEC-087226-0-000-31-05-1982@@@
-
 Decreto nº 87.226, de 31 de maio de 1982.
 
 Retifica o Decreto nº 85.842, de 25 de março de 1981.

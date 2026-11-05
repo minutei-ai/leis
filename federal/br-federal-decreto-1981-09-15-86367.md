@@ -1,5 +1,3 @@
-###DEC-086367-0-000-15-09-1981@@@
-
 DECRETO Nº 86.367, DE 15 DE SETEMBRO DE 1981
 
 Outorga à Centrais Elétricas do Amazonas S.A. - CELETRAMAZON concessão para aproveitamento de energia hidráulica de trechos do rio Ipixuna e do rio Eiru, que especifica.

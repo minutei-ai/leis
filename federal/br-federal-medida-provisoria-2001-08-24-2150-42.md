@@ -1,5 +1,3 @@
-###MPV-002150-0-042-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.150-42, DE 24 DE AGOSTO DE 2001
 
  Dispõe sobre a criação, reestruturação e organização de carreiras, cargos e funções comissionadas técnicas no âmbito da Administração Pública Federal direta, autárquica e fundacional, e dá outras providências.

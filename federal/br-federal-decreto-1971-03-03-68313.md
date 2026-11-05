@@ -1,5 +1,3 @@
-###DEC-068313-0-000-03-03-1971@@@
-
 decreto nº 68.313, de 3 de março de 1971.
 
 Concede autorização à Emprêsa Brasileira de Operações Submarinas - EBOS - Ltda. para operação, em águas brasileiras, da embarcação de bandeira americana "P. E. Foote" e sua tripulação estrangeira, nos serviços que especifica.

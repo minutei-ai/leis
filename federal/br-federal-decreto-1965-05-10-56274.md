@@ -1,5 +1,3 @@
-###DEC-056274-0-000-10-05-1965@@@
-
 decreto nº 56.274, de 10 de maio de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, área situada no Município de Piraquara, Estado do Paraná.

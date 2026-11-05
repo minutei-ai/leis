@@ -1,5 +1,3 @@
-###DEL-000164-0-000-13-02-1967@@@
-
 DECRETO-LEI Nº 164, DE 13 DE FEVEREIRO DE 1967
 
 Modifica a Legislação da Política Econômica da Borracha e dá outras providências.

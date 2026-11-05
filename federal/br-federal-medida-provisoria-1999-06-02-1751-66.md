@@ -1,5 +1,3 @@
-###MPV-001751-0-066-02-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.751-66, DE 2 DEJUNHO DE 1999.
 
 Organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal e de Controle Interno do Poder Executivo e dá outras providências.

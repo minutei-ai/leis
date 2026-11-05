@@ -1,5 +1,3 @@
-###DEC-075497-0-000-18-03-1975@@@
-
 decreto nº 75.497, de 18 de março de 1975.
 
 Concede reconhecimento ao curso de Filosofia da Faculdade de Filosofia, Ciências e Letras de Santos mantida pela Sociedade Visconde de São Leopoldo, com sede na Cidade de Santos, Estado de São Paulo.

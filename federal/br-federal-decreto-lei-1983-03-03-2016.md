@@ -1,5 +1,3 @@
-###DEL-002016-0-000-03-03-1983@@@
-
 # Decreto-lei nº 2.016, de 03 de março de 1983
 
 Altera a redação dos artigos 20, 21 e 22 do Decreto-lei nº 1.038, de 21 de outubro de 1969, que estabelece normas relativas ao Imposto Único sobre Minerais, e dá outras providências.

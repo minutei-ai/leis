@@ -1,5 +1,3 @@
-###DEC-083984-0-000-18-09-1979@@@
-
 Decreto nº 83.984, de 18 de setembro de 1979.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Nova Odessa da Companhia Paulista de Força e Luz- CPFL, no Estado de São Paulo.

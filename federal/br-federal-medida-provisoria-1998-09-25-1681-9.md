@@ -1,5 +1,3 @@
-###MPV-001681-0-009-25-09-1998@@@
-
 medida provisória nº 1.681-9, de 25 de setembro de 1998
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

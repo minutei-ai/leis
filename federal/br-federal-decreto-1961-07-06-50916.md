@@ -1,5 +1,3 @@
-###DEC-050916-0-000-06-07-1961@@@
-
 DECRETO Nº 50.916, de 06 DE JULHO DE 1961.
 
 Reestrutura a Comissão de Defesa dos Capitais Nacionais (C. D. C. N.), consolida as suas atribuições e dá outras previdências.

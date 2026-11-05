@@ -1,5 +1,3 @@
-###DEC-062475-0-000-27-03-1968@@@
-
 DECRETO Nº 62.475, DE 27 DE MARÇO DE 1968.
 
 Reduz as alíquotas do Impôsto Único sôbre lubrificantes e combustíveis líquidos e gasoso.

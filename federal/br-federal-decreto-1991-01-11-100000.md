@@ -1,5 +1,3 @@
-###DEC-100000-0-000-11-01-1991@@@
-
 DECRETO Nº 100.000, DE 11 DE JANEIRO DE 1991.
 
 Dispõe sobre os decretos a serem expedidos a partir desta data.

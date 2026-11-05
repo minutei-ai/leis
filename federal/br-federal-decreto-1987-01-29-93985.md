@@ -1,5 +1,3 @@
-###DEC-093985-0-000-29-01-1987@@@
-
 DECRETO N° 93.985, DE 29 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Agropecuária São Luiz", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Bataiporã, no Estado de Mato Grosso do Sul, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.621, de 02 de maio de 1986, e dá outras providências.

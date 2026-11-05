@@ -1,5 +1,3 @@
-###DEC-085878-0-000-07-04-1981@@@
-
 Decreto nº 85.878, de 07 de abril DE 1981.
 
 Estabelece normas para execução da Lei nº 3.820, de 11 de novembro de 1960, sobre o exercício da profissão de farmacêutico, e dá outras providências.

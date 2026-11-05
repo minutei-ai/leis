@@ -1,5 +1,3 @@
-###DEC-086415-0-000-30-09-1981@@@
-
 DECRETO Nº 86.415, DE 30 DE SETEMBRO DE 1981.
 
 Altera dispositivo do Decreto nº 85.909, de 15 de abril de 1981, que declara imóveis de utilidade pública para fins de desapropriação em favor da PETROBRÁS.

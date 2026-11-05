@@ -1,5 +1,3 @@
-###DEC-084553-0-000-11-03-1980@@@
-
 Decreto nº 84.553, de 11 de março de 1980.
 
 Concede autorização à Citco Amazonas Petroleum Corporation, Chevron São Luis Petroleum Company, Unionoil São Luis, Ltd. e Canam Offshore Limited para operarem no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S.A. - PETROBRÁS.

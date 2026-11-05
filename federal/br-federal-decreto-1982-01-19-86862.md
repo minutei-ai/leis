@@ -1,5 +1,3 @@
-###DEC-086862-0-000-19-01-1982@@@
-
 Decreto nº 86.862, de 19 de janeiro de 1982
 
 Outorga à Espirito Santo Centrais Elétricas S/A. concessão - ESCELSA concessão para o aproveitamento da energia hidráulica de um trecho do rio Calçado, no Município de Bom Jesus do Norte, Estado do Espírito Santo.

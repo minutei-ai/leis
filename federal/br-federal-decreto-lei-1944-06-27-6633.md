@@ -1,5 +1,3 @@
-###DEL-006633-0-000-27-06-1944@@@
-
 DECRETO-LEI N. 6.633 – DE 27 DE JUNHO DE 1944
 
 Dispõe sôbre a integralização do capital da Companhia Siderúrgica Nacional e Companhia Vale do Rio Doce S.A.

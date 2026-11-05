@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/99ca5504-3d70-4880-bb93-9a80adaaf924/texto#nowhere)
 
-###DEL-000464-0-000-11-02-1969@@@
-
 DECRETO-LEI Nº 464, DE 11 DE FEVEREIRO DE 1969
 
 Estabelece normas complementares à Lei nº 5.540, de 28 de novembro de 1968, e dá outras providências.

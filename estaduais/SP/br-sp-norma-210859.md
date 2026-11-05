@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210859)<br>
-
 # DECRETO N° 69.473, DE 10 DE ABRIL DE 2025
 
 ### _Institui Grupo de Trabalho com o objetivo de elaborar estudos e propor diretrizes, estratégias, medidas e ações para a implementação das disposições da Lei n° 18.105, de 12 de março de 2025, relativas aos serviços de entrega de bens._

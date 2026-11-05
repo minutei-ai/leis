@@ -1,5 +1,3 @@
-###MPV-001711-0-007-25-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.711-7, DE 25 DE FEVEREIRO DE 1999.
 
 Acresce dispositivo às Leis nºs 9.526, de 8 de dezembro de 1997, e 9.496, de 11 de setembro de 1997.

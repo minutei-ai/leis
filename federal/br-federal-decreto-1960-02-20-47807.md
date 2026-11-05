@@ -1,5 +1,3 @@
-###DEC-047807-0-000-20-02-1960@@@
-
 DECRETO Nº 47.807, DE 20 DE FEVEREIRO DE 1960.
 
 Outorga concessão à Rádio Rural de Concórdia Limitada para instalar uma estação radiodifusora.

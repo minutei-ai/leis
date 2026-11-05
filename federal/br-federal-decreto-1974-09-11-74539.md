@@ -1,5 +1,3 @@
-###DEC-074539-0-000-11-09-1974@@@
-
 DECRETO Nº 74.539, DE 9 DE SETEMBRO DE 1974.
 
 Cria o Centro de Mísseis da Marinha

@@ -1,5 +1,3 @@
-###DEC-052709-0-000-21-10-1963@@@
-
 DECRETO Nº 52.709, DE 21 DE OUTUBRO DE 1963.
 
 Autoriza Centrais Elétricas de Minas Gerais S.A. a construir linha de transmissão.

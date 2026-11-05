@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/529ce74f-6807-403a-a590-cde7a064938d/texto#nowhere)
 
-###DEL-000537-0-000-17-04-1969@@@
-
 # DECRETO-LEI Nº 537, DE 17 DE ABRIL DE 1969
 
 Aprova o Acôrdo de Cooperação sôbre a Utilização Pacífica da Energia Nuclear, assinado no Rio de Janeiro, em 18 de dezembro de 1968, com a Índia.

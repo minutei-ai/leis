@@ -1,40 +1,38 @@
-###DEC-027001-0-000-03-08-1949@@@
+**DECRETO N° 27.001, DE 3 DE AGÔSTO DE 1949.**
 
-<strong>DECRETO N° 27.001, DE 3 DE AGÔSTO DE 1949.</strong>
+***Aprova o Regulamento da Diretoria do Pessoal da Aeronáutica.***
 
-<em><strong>Aprova o Regulamento da Diretoria do Pessoal da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Diretoria do Pessoal da Aeronáutica, que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica, para execução dos Decretos-leis ns. 9.888 e 9.889, de 16 de setembro de 1946.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Diretoria do Pessoal da Aeronáutica, que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica, para execução dos Decretos-leis ns. 9.888 e 9.889, de 16 de setembro de 1946.
+**Art**. 2º O aludido Regulamento entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º O aludido Regulamento entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 3 de agôsto de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Armando Trompowsky
 
-<strong>REGULAMENTO DA DIRETORIA DO PESSOAL DA AERONÁUTICA</strong>
+**REGULAMENTO DA DIRETORIA DO PESSOAL DA AERONÁUTICA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>MISSÃO E SUBORDINAÇÃO</em>
+*MISSÃO E SUBORDINAÇÃO*
 
-<strong>Art</strong>. 1º A Diretoria do Pessoal da Aeronáutica (D. P. Aer.) é o órgão do Ministério da Aeronáutica que tem por fim o trato dos assuntos técnicos e administrativos referentes ao pessoal militar da ativa, da reserva e reformado e pessoal civil dêsse Ministério.
+**Art**. 1º A Diretoria do Pessoal da Aeronáutica (D. P. Aer.) é o órgão do Ministério da Aeronáutica que tem por fim o trato dos assuntos técnicos e administrativos referentes ao pessoal militar da ativa, da reserva e reformado e pessoal civil dêsse Ministério.
 
-<strong>Art</strong>. 2º A Diretoria do Pessoal é diretamente subordinada ao Ministro da Aeronáutica, mantendo, no entretanto, estreita ligação com o Estado Maior da Aeronáutica, a fim de dar cumprimento às recomendações dêste, nos assuntos de sua Atribuição.
+**Art**. 2º A Diretoria do Pessoal é diretamente subordinada ao Ministro da Aeronáutica, mantendo, no entretanto, estreita ligação com o Estado Maior da Aeronáutica, a fim de dar cumprimento às recomendações dêste, nos assuntos de sua Atribuição.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ORGANIZAÇÃO</em>
+*ORGANIZAÇÃO*
 
-<strong>Art</strong>. 3º A D. P. Aer. Compreende:
+**Art**. 3º A D. P. Aer. Compreende:
 
 a) Diretor Geral do Pessoal com seu Ajudante de Ordens;
 
@@ -44,7 +42,7 @@ c) Divisões;
 
 d) Contigente militar.
 
-<strong>Art</strong>. 4º O Gabinete compõe-se de:
+**Art**. 4º O Gabinete compõe-se de:
 
 a) Chefia;
 
@@ -52,7 +50,7 @@ b) Secretaria;
 
 c) Seção Administrativa.
 
-<strong>Art</strong>. 5º A D. P. Aer. Compreende cinco  divisões, a saber:
+**Art**. 5º A D. P. Aer. Compreende cinco  divisões, a saber:
 
 1ª Divisão (DP. 1) - Movimentação e Contrôle do pessoal da ativa com as seguintes subdivisões:
 
@@ -92,13 +90,13 @@ c) Seção Administrativa.
 
 3ª Subdivisão - Salário-família e passagem para a inatividade - (3-DP. - 5).
 
-<strong>Art</strong>. 6º O Contigente militar, subordinado ao Chefe do Gabinete, se compõe do pessoal militar destinado aos serviços administrativos, de guarda e de ordens da Diretoria.
+**Art**. 6º O Contigente militar, subordinado ao Chefe do Gabinete, se compõe do pessoal militar destinado aos serviços administrativos, de guarda e de ordens da Diretoria.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>ATRIBUIÇÕES</em>
+*ATRIBUIÇÕES*
 
-<strong>Art</strong>. 7º O Diretor Geral do Pessoal (D. G. P) é o responsável, perante o Ministro da Aeronáuticas, pela eficiência do serviço; exerce ação de comando sôbre o pessoal da Diretoria e órgãos que lhe são diretamente subordinados, competindo-lhe, além de atribuições outras previstas na legislação vigente, as seguintes:
+**Art**. 7º O Diretor Geral do Pessoal (D. G. P) é o responsável, perante o Ministro da Aeronáuticas, pela eficiência do serviço; exerce ação de comando sôbre o pessoal da Diretoria e órgãos que lhe são diretamente subordinados, competindo-lhe, além de atribuições outras previstas na legislação vigente, as seguintes:
 
 a) dirigir e fiscalizar os serviços da Diretoria do Pessoal da Aeronáutica e os dos órgãos subordinados;
 
@@ -142,9 +140,9 @@ u) desempenhar ou delegar a função de Agente Diretor da Diretoria do Pessoal d
 
 Parágrafo único. No exercício de suas atribuições o Diretor Geral do Pessoal entender-se-á diretamente com os órgãos da Alta Administração da Aeronáutica e com as Unidades e Estabelecimentos, nos assuntos técnicos informativos que dispensem a audiência dos Comandos intermediários.
 
-<strong>Art</strong>. 8º Ao Ajudante de Ordens do Diretor Geral do Pessoal competem as atribuições inerentes a essa função.
+**Art**. 8º Ao Ajudante de Ordens do Diretor Geral do Pessoal competem as atribuições inerentes a essa função.
 
-<strong>Art</strong>. 9º O Gabinete de destina a auxiliar o Diretor Geral do pessoal na direção e coordenação dos trabalhos da Diretoria, a tratar dos assuntos não específicos das divisões e daqueles que dizem respeito à ao Chefe do Gabinete compete:
+**Art**. 9º O Gabinete de destina a auxiliar o Diretor Geral do pessoal na direção e coordenação dos trabalhos da Diretoria, a tratar dos assuntos não específicos das divisões e daqueles que dizem respeito à ao Chefe do Gabinete compete:
 
 a) dirigir os trabalhos do Gabinete e fiscalizar a atividade dos órgãos a êle subordinados;
 
@@ -168,7 +166,7 @@ j) preparar os relatórios regulamentares;
 
 l) exercer a função de Agente Diretor, quando delegada pelo Diretor Geral do Pessoal.
 
-<strong>Art</strong>. 11. Ao adjunto competem, além de outros encargos que lhe atribua o Chefe do Gabinete, os seguintes:
+**Art**. 11. Ao adjunto competem, além de outros encargos que lhe atribua o Chefe do Gabinete, os seguintes:
 
 a) dirigir os trabalhos da secretaria;
 
@@ -184,7 +182,7 @@ f) arquivar os documentos sigilosos;
 
 g) arquivar os documentos e processos de caráter obstensivo, até que lhes dêem outro destino.
 
-<strong>Art</strong>. 12. - A Seção Administrativa tem por fim a execução dos serviços administrativos da Diretoria do Pessoal da Aeronáutica.
+**Art**. 12. - A Seção Administrativa tem por fim a execução dos serviços administrativos da Diretoria do Pessoal da Aeronáutica.
 
 Ao Chefe da Seção Administrativa compete:
 
@@ -210,7 +208,7 @@ j) manter o registro da carga geral da Diretoria.
 
 Parágrafo único. A Seção Administrativa dispõe de tesouraria e almoxarifado, a cargo de oficiais intendentes.
 
-<strong>Art</strong>. 13. Ao Comandante do Contingente, além das demais atribuições de Comandante de subunidade, incumbe:
+**Art**. 13. Ao Comandante do Contingente, além das demais atribuições de Comandante de subunidade, incumbe:
 
 a) dirigir a instrução do Contigente;
 
@@ -218,9 +216,9 @@ b) mandar escriturar e manter em dia as alterações do pessoal do Contigente;
 
 c) organizar, preparar e manter em dia os mapas, quadros de efetivo e demais documentos regulamentares relativos ao pessoal do Contigente.
 
-<strong>Art</strong>. 14. As Divisões são órgãos encarregados do estudo e preparo dos processos e assuntos a submeter ao exame e decisão do Diretor Geral.
+**Art**. 14. As Divisões são órgãos encarregados do estudo e preparo dos processos e assuntos a submeter ao exame e decisão do Diretor Geral.
 
-<strong>Art</strong>. 15. Os Chefes de Divisão orientam e coordenam o trabalho de sua divisão; são responsáveis, perante o Diretor Geral, pelo serviço de sua Divisão. Compete-lhe de modo geral:
+**Art**. 15. Os Chefes de Divisão orientam e coordenam o trabalho de sua divisão; são responsáveis, perante o Diretor Geral, pelo serviço de sua Divisão. Compete-lhe de modo geral:
 
 a) preparar o expediente a ser levado ao Diretor Geral e com êle despachar;
 
@@ -234,7 +232,7 @@ e) apresentar na época oportuna, os dados para o relatório anual relativo ao t
 
 f) responsabiliza-se pela carga do material permanente de sua divisão.
 
-<strong>Art</strong>. 16. Compete à 1ª Divisão – (DP. 1), quanto ao pessoal militar da ativa:
+**Art**. 16. Compete à 1ª Divisão – (DP. 1), quanto ao pessoal militar da ativa:
 
 a) controlar os desligamentos, trânsitos e deslocamentos, de acôrdo com as normas em vigor;
 
@@ -246,7 +244,7 @@ d) providenciar as inclusões e exclusões do serviço ativo, quando excluídas 
 
 e) manter o controle do pessoal, qualitativamente por especialidade e pelos lugares onde se achar.
 
-<strong>Art</strong>. 17. Compete à 2ª Divisão - (DP. 2), o estudo e preparo dos processos e assuntos pertinentes e assuntos pertinente a:
+**Art**. 17. Compete à 2ª Divisão - (DP. 2), o estudo e preparo dos processos e assuntos pertinentes e assuntos pertinente a:
 
 a) administração e contrôle do pessoal da reservas e reformado;
 
@@ -268,7 +266,7 @@ i) organização da 2ª parte do Almanaque do Ministério da Aeronáutica(oficia
 
 j) salário-família do pessoal da reserva e reformado.
 
-<strong>Art</strong>. 18. Compete à 3ª Divisão - (DP. 3), quanto ao pessoal civil:
+**Art**. 18. Compete à 3ª Divisão - (DP. 3), quanto ao pessoal civil:
 
 a) tratar da organização de quadros e lotações, provimento de cargos e preenchimento de funções;
 
@@ -286,7 +284,7 @@ g) organizar e manter em dia os assentamentos do pessoal;
 
 h) organizar o Almanaque do Pessoal civil ou Ministério.
 
-<strong>Art</strong>. 19. Compete à 4ª Divisão - (DP. 4):
+**Art**. 19. Compete à 4ª Divisão - (DP. 4):
 
 a) controlar e catalogar os assentamentos do pessoal militar da ativa, fornecendo dêles resumos ou certidões quando determinado;
 
@@ -310,7 +308,7 @@ j) providenciar, no interêsse da justiça, as requisições de pessoal, bem com
 
 l) manter o registro de inquéritos e processos de interêsse de justiça.
 
-<strong>Art</strong>. 20. Compete à 5ª Divisão - (DP. 5), quando ao pessoal militar da ativa:
+**Art**. 20. Compete à 5ª Divisão - (DP. 5), quando ao pessoal militar da ativa:
 
 a) estudar os assuntos pertinentes a promoções e contagem de antiguidade do pessoal subalterno;
 
@@ -324,15 +322,15 @@ e) tratar das questões do salário-família do pessoal da ativa;
 
 f) tratar das questões relativas a licenças em geral.
 
-<strong>Art</strong>. 21. À subdivisões cabe o estudo e preparo do expediente dos assuntos que lhe são atribuídos, como estabelecido no art. 5º.
+**Art**. 21. À subdivisões cabe o estudo e preparo do expediente dos assuntos que lhe são atribuídos, como estabelecido no art. 5º.
 
-<strong>Art</strong>. 22. Os Chefes de subdivisões são responsáveis, perante o Chefe da Divisão, pelo andamento e eficiência do serviço de suas subdivisões, cabendo-lhes verificar os informes e dados fornecidos, por cuja veracidade são êles responsáveis pessoais.
+**Art**. 22. Os Chefes de subdivisões são responsáveis, perante o Chefe da Divisão, pelo andamento e eficiência do serviço de suas subdivisões, cabendo-lhes verificar os informes e dados fornecidos, por cuja veracidade são êles responsáveis pessoais.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>PESSOAL</em>
+*PESSOAL*
 
-<strong>Art</strong>. 23. A Diretoria do Pessoal da Aeronáutica terá o seguinte pessoal:
+**Art**. 23. A Diretoria do Pessoal da Aeronáutica terá o seguinte pessoal:
 
 a) um Major-Brigadeiro ou Brigadeiro do Ar - Diretor Geral;
 
@@ -358,13 +356,13 @@ l) o pessoal militar subalterno constante do respectivo quadro e efetivos;
 
 m) o pessoal civil titulado e extranumerário, de acôrdo com a lotação, quadros e recursos orçamentários fixados.
 
-<strong>Art</strong>. 24. O Diretor Geral do pessoal nomeado por decreto; os demais oficiais serão designados por ato do Ministro ou do Diretor do pessoal, conforme o caso, na forma estabelecida neste Regulamento.
+**Art**. 24. O Diretor Geral do pessoal nomeado por decreto; os demais oficiais serão designados por ato do Ministro ou do Diretor do pessoal, conforme o caso, na forma estabelecida neste Regulamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>SUBSTITUIÇÕES</em>
+*SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 25. Por necessidade e interêsse do serviço, as substituições temporárias na Diretoria do Pessoal obedecerão ao seguinte critério:
+**Art**. 25. Por necessidade e interêsse do serviço, as substituições temporárias na Diretoria do Pessoal obedecerão ao seguinte critério:
 
 a) o Diretor Geral, pelo mais graduado ou mais antigo oficial aviador do quadro da Diretoria;
 
@@ -378,16 +376,16 @@ Parágrafo único. Nos casos não especificados, cabe ao Diretor Geral a designa
 
 Cabe-lhe, igualmente, nos impedimentos fortuitos de qualquer de seus subordinados, designar substituto para exercer as funções dêste cumulativamente com as suas normais, tendo em vista limitar ao mínimo as substituições.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 26. O Diretor Geral organizará uma Instrução em que se fixarão normas de trabalho, minúcias de funcionamento da repartição, definição pormenoriza de atribuições do pessoal, calendário de deveres, distribuição do pessoal subalterno necessárias à boa marcha do serviço.
+**Art**. 26. O Diretor Geral organizará uma Instrução em que se fixarão normas de trabalho, minúcias de funcionamento da repartição, definição pormenoriza de atribuições do pessoal, calendário de deveres, distribuição do pessoal subalterno necessárias à boa marcha do serviço.
 
-<strong>Art</strong>. 27. É órgão dependente da Diretoria do Pessoal da Aeronáutica, com organização e atribuições definidas em regulamento próprio, o serviço de Indicação de Aeronáutica.
+**Art**. 27. É órgão dependente da Diretoria do Pessoal da Aeronáutica, com organização e atribuições definidas em regulamento próprio, o serviço de Indicação de Aeronáutica.
 
-<strong>Art</strong>. 28. O Chefe de Gabinete tem as atribuições disciplinares de comandante de Unidade incorporada sôbre o pessoal que lhe é diretamente subordinado; iguais atribuições têm os Chefes de Divisão sôbre seu pessoal, que se relacionar com o serviço de Divisão.
+**Art**. 28. O Chefe de Gabinete tem as atribuições disciplinares de comandante de Unidade incorporada sôbre o pessoal que lhe é diretamente subordinado; iguais atribuições têm os Chefes de Divisão sôbre seu pessoal, que se relacionar com o serviço de Divisão.
 
 Rio de Janeiro, em 3 de agôsto de 1949.
 
-<strong>ARMANDO TROMPOWSKY</strong>
+**ARMANDO TROMPOWSKY**

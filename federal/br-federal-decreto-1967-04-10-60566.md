@@ -1,5 +1,3 @@
-###DEC-060566-0-000-10-04-1967@@@
-
 DECRETO Nº 60.566, DE 10 DE ABRIL DE 1967.
 
 Aprova o Regulamento sôbre Exposições e Feiras de Indústria e de Comércio.

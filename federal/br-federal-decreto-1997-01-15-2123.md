@@ -1,5 +1,3 @@
-###DEC-002123-0-000-15-01-1997@@@
-
 DECRETO Nº 2.123, DE 15 DE JANEIRO DE 1997
 
 Revoga o Decreto nº 97.593, de 28 de março de 1989, que trata da concessão para reorganização das instituições financeiras estrangeiras em funcionamento no País.

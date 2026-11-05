@@ -1,5 +1,3 @@
-###MPV-001716-0-000-08-09-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.716, DE 8 DE SETEMBRO DE 1998
 
 Altera e acresce dispositivos à Lei nº 9.692, de 27 de julho de 1998, e dá outras providências.

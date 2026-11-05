@@ -1,7 +1,3 @@
-1
-
-###DEC-000470-0-000-09-03-1992@@@
-
 DECRETO N° 470, DE 9 DE MARÇO DE 1992
 
 Altera disposições do Decreto n° 99.266, de 28 de maio de 1990, e dá outras providências.

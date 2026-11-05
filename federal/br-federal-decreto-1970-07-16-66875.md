@@ -1,5 +1,3 @@
-###DEC-066875-0-000-16-07-1970@@@
-
 decreto nº 66.875, de 16 de julho de 1970.
 
 Promulga a Convenção nº 91 da OIT sôbre férias remuneradas dos marítimos.

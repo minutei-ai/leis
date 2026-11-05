@@ -1,5 +1,3 @@
-###DEC-067693-0-000-02-12-1970@@@
-
 DECRETO Nº 67.693, DE 2 de DEZEMBRO DE 1970.
 
 Cria o Consulado honorário do Brasil em Karachi, Paquistão.

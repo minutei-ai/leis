@@ -1,5 +1,3 @@
-###DEC-084772-0-000-06-06-1980@@@
-
 Decreto nº 84.772, de 06 de junho de 1980.
 
 Revoga o Decreto nº 66251, de 23 de fevereiro de 1970, que aprova o Regulamento da Diretoria do Pessoal Civil da Marinha (DPCvM).

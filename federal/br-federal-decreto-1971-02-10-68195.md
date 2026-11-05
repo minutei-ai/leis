@@ -1,5 +1,3 @@
-###DEC-068195-0-000-10-02-1971@@@
-
 DECRETO Nº 68.195, DE 10 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a sede do município de Inhumas até a sede do município Firminópolis no Estado de Goiás.

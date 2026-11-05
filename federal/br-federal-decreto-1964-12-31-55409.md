@@ -1,5 +1,3 @@
-###DEC-055409-0-000-31-12-1964@@@
-
 DECRETO Nº 55.409, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Francisco de Paula de Negreiros Sayão Lobato a pesquisar cassiterita no município de Porto Velho, Território Federal de Rondônia.

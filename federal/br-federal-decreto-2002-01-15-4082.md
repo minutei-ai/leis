@@ -1,5 +1,3 @@
-###DEC-004082-0-000-15-01-2002@@@
-
 DECRETO Nº 4.082, DE 15 DE JANEIRO DE 2002.
 
 Distribui os efetivos de Oficiais da Aeronáutica, em tempo de paz, a vigorar em 2002.

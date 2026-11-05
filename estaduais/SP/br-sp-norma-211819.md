@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211819)<br>
-
 # DECRETO N° 70.086, DE 12 DE NOVEMBRO DE 2025
 
 ### _Dispõe sobre a adesão da Secretaria da Cultura, Economia e Indústria Criativas, na qualidade de membro efetivo, ao Fórum Nacional de Secretários e Dirigentes Estaduais de Cultura._

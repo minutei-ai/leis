@@ -1,5 +1,3 @@
-###DEC-058857-0-000-15-07-1966@@@
-
 DECRETO Nº 58.857, DE 15 DE JULHO DE 1966.
 
 Prorroga o prazo para a entrega do relatório do Plano Nacional de Estatística.

@@ -1,5 +1,3 @@
-###DEC-066657-0-000-03-06-1970@@@
-
 Decreto nº 66.657, de 3 de junho de 1970.
 
 Altera dispositivos do Regulamento do Instituto Nacional do Cinema, aprovado pelo Decreto nº 60.220, de 15 de fevereiro de 1967.

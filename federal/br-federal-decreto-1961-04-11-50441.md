@@ -1,5 +1,3 @@
-###DEC-050441-0-000-11-04-1961@@@
-
 DECRETO Nº 50.441, DE 11 DE abril DE 1961.
 
 Subordina diretamente à Estação Aduaneira de Importação Aérea em São Paulo os órgãos que menciona.

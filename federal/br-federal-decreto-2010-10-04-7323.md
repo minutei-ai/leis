@@ -1,5 +1,3 @@
-###DEC-007323-0-000-04-10-2010-PUB-01@@@
-
 DECRETO Nº 7.323, DE 4 DE OUTUBRO DE 2010.
 
 Altera o Decreto n~~º~~ 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

@@ -1,5 +1,3 @@
-###DEC-067032-0-000-10-08-1970@@@
-
 decreto nº 67.032, de 10 de agôsto de 1970.
 
 Concede reconhecimento ao Curso de Engenheiros Eletricistas da Escola de Engenharia da Universidade Federal de Goiás.

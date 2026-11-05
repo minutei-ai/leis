@@ -24,4 +24,62 @@ Ato Normativo Subação 2021AS000001
 
 Metas financeiras
 
-<table><tbody><tr><td width="8%">U.O.</td><td width="7%">Prog.</td><td width="50%">Subação</td><td width="11%"><p>2020-2023</p></td><td width="12%"><p>Alteração</p></td><td width="12%"><p>Atualizada</p></td></tr><tr><td>53001</td><td>0140</td><td>015171 – Apoio a Obra Federal em Santa Catarina – Duplicação da BR-470, trecho Navegantes – Indaial – Vale do Itajaí</td><td><p>00</p></td><td><p>200.000.000</p></td><td><p>200.000.000</p></td></tr><tr><td>53001</td><td>0140</td><td>015172 – Apoio a Obra Federal em Santa Catarina – Reabilitação/aumento de capacidade de trânsito da BR-163, trecho São Miguel do Oeste – Dionísio Cerqueira – Extremo Oeste</td><td><p>00</p></td><td><p>100.000.000</p></td><td><p>100.000.000</p></td></tr><tr><td>53001</td><td>0140</td><td>015173 – Apoio a Obra Federal em Santa Catarina – Duplicação da BR-280, trecho trevo do bairro Itinga, em Joinville – São Francisco do Sul</td><td><p>00</p></td><td><p>100.000.000</p></td><td><p>100.000.000</p></td></tr><tr><td>53001</td><td>0140</td><td>015174 – Apoio a Obras Rodoviárias Federais em Santa Catarina</td><td><p></p><p>00</p></td><td><p></p><p>400.000.000</p></td><td><p></p><p>400.000.000</p></td></tr></tbody></table>
+U.O.
+
+Prog.
+
+Subação
+
+2020-2023
+
+Alteração
+
+Atualizada
+
+53001
+
+0140
+
+015171 – Apoio a Obra Federal em Santa Catarina – Duplicação da BR-470, trecho Navegantes – Indaial – Vale do Itajaí
+
+00
+
+200.000.000
+
+200.000.000
+
+53001
+
+0140
+
+015172 – Apoio a Obra Federal em Santa Catarina – Reabilitação/aumento de capacidade de trânsito da BR-163, trecho São Miguel do Oeste – Dionísio Cerqueira – Extremo Oeste
+
+00
+
+100.000.000
+
+100.000.000
+
+53001
+
+0140
+
+015173 – Apoio a Obra Federal em Santa Catarina – Duplicação da BR-280, trecho trevo do bairro Itinga, em Joinville – São Francisco do Sul
+
+00
+
+100.000.000
+
+100.000.000
+
+53001
+
+0140
+
+015174 – Apoio a Obras Rodoviárias Federais em Santa Catarina
+
+00
+
+400.000.000
+
+400.000.000

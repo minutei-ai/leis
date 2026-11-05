@@ -1,5 +1,3 @@
-###DEL-005701-0-000-27-07-1943@@@
-
 DECRETO‑LEI N. 5.701 – DE 27 DE JULHO DE 1943
 
 Modifica o decreto‑lei n. 2.855, de 11 de dezembro de 1940

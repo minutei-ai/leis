@@ -1,5 +1,3 @@
-###DEL-008841-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.841 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o pagamento da diferença de vencimento ou remuneração.

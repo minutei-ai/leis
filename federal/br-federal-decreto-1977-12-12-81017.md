@@ -1,5 +1,3 @@
-###DEC-081017-0-000-12-12-1977@@@
-
 Decreto nº 81017 de 12 de dezembro de 1977
 
 Concede à Minérios Maraú Ltda. o direito de lavrar minério de manganês município de Maraú, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-080763-0-000-21-11-1977@@@
-
 DECRETO Nº 80.763, DE 21 DE NOVEMBRO DE 1977.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

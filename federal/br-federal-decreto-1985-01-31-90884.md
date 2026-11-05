@@ -1,5 +1,3 @@
-###DEC-090884-0-000-31-01-1985@@@
-
 DECRETO Nº 90.884, DE 31 DE janeiro DE 1985.
 
 Autoriza o funcionamento do curso de Ciências das Faculdades Reunidas de Administração, Ciências Contábeis e Ciências Econômicas de Palmas - Paraná.

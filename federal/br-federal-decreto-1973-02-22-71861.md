@@ -1,5 +1,3 @@
-###DEC-071861-0-000-22-02-1973@@@
-
 DECRETO Nº 71.861, DE 22 DE FEVEREIRO DE 1973.
 
 Extingue Organização Militar e dá outras providências.

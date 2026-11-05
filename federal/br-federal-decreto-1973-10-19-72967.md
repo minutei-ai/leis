@@ -1,5 +1,3 @@
-###DEC-072967-0-000-19-10-1973@@@
-
 DECRETO Nº 72.967, de 19 de Outubro de 1973.
 
 Aprova o Regulamento da Diretoria de Obras Militares, do Departamento de Engenharia e Comunicações do Ministério do Exército, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005205-0-000-19-01-1943@@@
-
 DECRETO-LEI N. 5.205 – DE 19 DE JANEIRO DE 1943
 
 Dispõe sobre o  pagamento do iluminação de "Cidade das Meninas"

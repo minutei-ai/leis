@@ -1,5 +1,3 @@
-###DEC-064140-0-000-27-02-1969@@@
-
 DECRETO Nº 64.140, DE 27 DE FEVEREIRO DE 1969.
 
 Dispõe sôbre o número máximo das reuniões ordinárias do Conselho Deliberativo do Conselho Nacional de Pesquisas, fixa o valor do jeton de presença dos Membros do mencionado Conselho Deliberativo e dá outras providências.

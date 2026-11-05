@@ -1,5 +1,3 @@
-###DEC-091189-0-000-09-04-1985@@@
-
 Decreto nº 91.189, de 09 de abril de 1985.
 
 Altera o Decreto nº 75.627, de 18 de abril de 1975, que dispõe sobre o desempenho de atividades de assessoramento superior.

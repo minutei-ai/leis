@@ -1,7 +1,3 @@
-1
-
-###DEC-000681-0-000-11-11-1992@@@
-
 DECRETO Nº 681, DE 11 DE NOVEMBRO DE 1992
 
 Dispõe sobre a execução do Acordo de Alcance Parcial sobre Promoção de Comércio entre Brasil e Bolívia (Fornecimento de Gás Natural).

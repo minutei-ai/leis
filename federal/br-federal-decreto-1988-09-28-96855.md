@@ -1,5 +1,3 @@
-###DEC-096855-0-000-28-09-1988@@@
-
 DECRETO Nº 96.855, DE 28 DE SETEMBRO DE 1988
 
 Inclui o Conselho Administrativo de Defesa Econômica - CADE, do Ministério da Justiça, no regime de que trata o Decreto nº 86.212, de 15 de Julho de 1981 e dá outras providências.

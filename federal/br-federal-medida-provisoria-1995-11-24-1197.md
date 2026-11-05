@@ -1,7 +1,3 @@
-1
-
-###MPV-001197-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.197, DE 24 DE NOVEMBRO DE 1995.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

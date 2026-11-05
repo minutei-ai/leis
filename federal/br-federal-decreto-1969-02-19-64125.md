@@ -1,5 +1,3 @@
-###DEC-064125-0-000-19-02-1969@@@
-
 (\*) DECRETO Nº 64.125, DE 19 DE FEVEREIRO DE 1969.
 
 Altera o nome da Comissão de Marinha Mercante criada pelo Decreto-lei nº 3.100, de 7 de março de 1941.

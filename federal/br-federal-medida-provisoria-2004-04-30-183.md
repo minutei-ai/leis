@@ -1,5 +1,3 @@
-###MPV-000183-0-000-30-04-2004@@@
-
 MEDIDA PROVISÓRIA Nº 183, DE 30 DE ABRIL 2004
 
 Reduz as alíquotas do PIS/PASEP e da COFINS, incidentes na importação e na comercialização do mercado interno de fertilizantes e defensivos agropecuários classificados no Capítulo 31 da NCM, e dá outras providências.

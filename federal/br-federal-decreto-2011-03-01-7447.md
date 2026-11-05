@@ -1,5 +1,3 @@
-###DEC-007447-0-000-01-03-2011-PUB-01@@@
-
 DECRETO Nº 7.447, DE 1º DE MARÇO DE 2011.
 
 Dá nova redação ao art. 19 do Decreto no 5.209, de 17 de setembro de 2004, que regulamenta a Lei no 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

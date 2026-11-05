@@ -1,5 +1,3 @@
-###DEC-069899-0-000-06-01-1972@@@
-
 DECRETO Nº 69.899, DE 6 DE JANEIRO DE 1972.
 
 Decreta a intervenção federal do Município de Lagôa dos Gatos, Estado de Pernambuco, e dá outras providências.

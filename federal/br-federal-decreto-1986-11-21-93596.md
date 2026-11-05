@@ -1,5 +1,3 @@
-###DEC-093596-0-000-21-11-1986@@@
-
 DECRETO Nº 93.596, DE 21 DE NOVEMBRO DE 1986.
 
 Estabelece normas relativas ao cálculo do Imposto sobre Produtos Industrializados (IPI), incidente sobre cigarros.

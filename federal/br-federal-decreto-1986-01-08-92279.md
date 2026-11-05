@@ -1,5 +1,3 @@
-###DEC-092279-0-000-08-01-1986@@@
-
 DECRETO Nº 92.279, DE 08 DE JANEIRO DE 1986
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado Sertaneja, constituído pelas Fazendas Itacolomi de Baixo, Santa Luzia, Atoleiro (parte) e Gameleira (parte), compreendido na referida área, nos Municípios de Angical e Cotegipe, no Estado da Bahia, e dá outras providências.

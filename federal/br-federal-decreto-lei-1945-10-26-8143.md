@@ -1,5 +1,3 @@
-###DEL-008143-0-000-26-10-1945@@@
-
 DECRETO-LEI N. 8.143 – DE 26 DE OUTUBRO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 1.000.000,00, à verba que especifica

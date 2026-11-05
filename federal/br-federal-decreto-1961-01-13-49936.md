@@ -1,5 +1,3 @@
-###DEC-049936-0-000-13-01-1961@@@
-
 DECRETO Nº 49.936, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Arthur Antônio Fernandes a pesquisar cianita e alumen, no município de Minas Novas, Estado de Minas Gerais.

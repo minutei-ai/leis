@@ -1,5 +1,3 @@
-###DEC-064477-0-000-08-05-1969@@@
-
 DECRETO Nº 64.477, DE 8 DE MAIO DE 1969.
 
 Autoriza estrangeiros a adquirirem domínio útil de fração ideal de terreno de marinha, em transferência de aforamento, no Estado da Guanabara.

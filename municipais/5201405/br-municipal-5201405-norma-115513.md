@@ -1,4 +1,5 @@
-DECRETO “N” Nº 372 DE 20 DE MAIO DE 2024.<br>
+DECRETO “N” Nº 372 DE 20 DE MAIO DE 2024.
+
 (Revogado pelo Decreto “N” Nº 587 de 18 de julho de 2024).
 
 ~~Dispõe sobre desmembramento de imóvel.~~
@@ -34,8 +35,10 @@ DECRETO “N” Nº 372 DE 20 DE MAIO DE 2024.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 20 de maio de 2024.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana~~<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana~~

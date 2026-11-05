@@ -1,5 +1,3 @@
-###DEC-076362-0-000-02-10-1975@@@
-
 DECRETO Nº 76.362, DE 2 DE OUTUBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educação Rural de Tefé Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Tefé, Estado do Amazonas.

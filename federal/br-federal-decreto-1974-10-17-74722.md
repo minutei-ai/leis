@@ -1,5 +1,3 @@
-###DEC-074722-0-000-17-10-1974@@@
-
 DECRETO Nº 74.722, DE 17 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Difusora Guarapuava Ltda., para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de Guarapuava, Estado do Paraná.

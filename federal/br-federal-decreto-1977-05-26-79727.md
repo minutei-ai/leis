@@ -1,5 +1,3 @@
-###DEC-079727-0-000-26-05-1977@@@
-
 DECRETO Nº 79.727, DE 26 DE MAIO DE 1977.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado no Município de Pesqueira, Estado de Pernambuco, compreendido na área prioritária de reforma agrária, de que trata o Decreto nº 56.583, de 19-7-65, com prazo de intervenção governamental prorrogado, sucessivamente, pelos Decretos nºs 68.085, de 19-01-71, e 75.147, de 27-12-74.

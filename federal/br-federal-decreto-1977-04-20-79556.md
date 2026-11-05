@@ -1,5 +1,3 @@
-###DEC-079556-0-000-20-04-1977@@@
-
 DECRETO Nº 79.556, DE 20 DE ABRIL DE 1977.
 
 Institui, na Carreira de Diplomata do Ministério das Relações Exteriores, sistema de treinamento e qualificação e dá outras providências.

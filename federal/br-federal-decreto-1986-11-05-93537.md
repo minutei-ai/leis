@@ -1,5 +1,3 @@
-###DEC-093537-0-000-05-11-1986@@@
-
 DECRETO Nº 93.537, DE 5 DE NOVEMBRO DE 1986
 
 Dispõe sobre o Conselho Nacional da Borracha - CNB, altera a estrutura básica da Superintendência da Borracha - SUDHEVEA, e dá outras providências.

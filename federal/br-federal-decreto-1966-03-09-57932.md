@@ -1,5 +1,3 @@
-###DEC-057932-0-000-09-03-1966@@@
-
 Decreto nº 57.932, de 9 de março de 1966.
 
 Concede autorização para o funcionamento da Faculdade de Direito de Varginha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-060705-0-000-09-05-1967@@@
-
 DECRETO Nº 60.705, DE 9 DE MAIO DE 1967.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar nacional, neste descritos e consignados a emprêsa “MADINSA – Comércio e Industria de Madeiras e Agricultura Ltda.”, de Buerarema (BA).
@@ -14,7 +12,39 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para afeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar nacional, a seguir descritos e consignados à empresa “MADINSA – Comércio e Indústria de Madeiras e Agricultura Ltda.” de Buerarema (BA)
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ESPECICIFICAÇÃO</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>a ser importada</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>1</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Conjunto automatico motorizado VOLLMERWERKE, composto de uma afiadeira CEN e uma travadeira modêlo HSK, tudo para serras circulares ..........................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.020</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>2</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Conjunto completo para fabricação automática de parquets, tipo mosaico composto de uma máquina para desdobramento de réguas modêlo KAD um transportador modelo KFB e uma máquina para desdobrar, tacos e apliainar modelo KHS, fabricante: GERUDES SCHAMATZ .......................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>17.850</span></p></td></tr><tr><td style="width:24.85pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:255.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ...............................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>–</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>18.870</span></p></td></tr></tbody></table>
+ITEM
+
+ESPECICIFICAÇÃO
+
+Quantidade
+
+a ser importada
+
+Valor Total
+
+CIF US$
+
+1
+
+Conjunto automatico motorizado VOLLMERWERKE, composto de uma afiadeira CEN e uma travadeira modêlo HSK, tudo para serras circulares ..........................
+
+1
+
+1.020
+
+2
+
+Conjunto completo para fabricação automática de parquets, tipo mosaico composto de uma máquina para desdobramento de réguas modêlo KAD um transportador modelo KFB e uma máquina para desdobrar, tacos e apliainar modelo KHS, fabricante: GERUDES SCHAMATZ .......................................................................
+
+1
+
+17.850
+
+TOTAL ...............................................................................
+
+–
+
+18.870
 
 Art.2º Êste Decreto entrará em vigor na data de sua publicação revogadas as disposições em contrário.
 

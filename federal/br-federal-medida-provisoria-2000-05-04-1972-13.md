@@ -1,5 +1,3 @@
-###MPV-001972-0-013-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.972-13, DE 4 DE maio DE 2000.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências.

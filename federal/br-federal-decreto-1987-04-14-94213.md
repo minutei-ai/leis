@@ -1,5 +1,3 @@
-###DEC-094213-0-000-14-04-1987@@@
-
 DECRETO Nº 94.213, DE 14 DE ABRIL DE 1987.
 
 Autoriza o aumento do Capital Social da PETROBRÁS DISTRIBUIDORA S.A. - BR.

@@ -1,5 +1,3 @@
-###DEC-054429-0-000-12-10-1964@@@
-
 decreto nº 54.429, de 12 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Ponciano Ferreira Souto a pesquisar águas-marinhas, cassiterita, columbita e quartzo no município de Caraí, Estado de Minas Gerais.

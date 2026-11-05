@@ -1,5 +1,3 @@
-###DEC-057229-0-000-11-11-1965@@@
-
 DECRETO Nº 57.229, DE 11 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

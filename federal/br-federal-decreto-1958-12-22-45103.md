@@ -1,5 +1,3 @@
-###DEC-045103-0-000-22-12-1958@@@
-
 DECRETO Nº 45.103, DE 22 DE DEZEMBRO DE 1958.
 
 Autoriza o serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Veranópolis, no Estado do Rio Grande do Sul.

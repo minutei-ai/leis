@@ -1,5 +1,3 @@
-###DEC-079806-0-000-13-06-1977@@@
-
 DECRETO n.º 79.806, DE 13 DE JUNHO DE 1977
 
 Desativa, no Ministério da Aeronáutica, o Comando de Formação e Aperfeiçoamento e dá outras providências.

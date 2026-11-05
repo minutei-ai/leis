@@ -1,5 +1,3 @@
-###DEC-071415-0-000-21-11-1972@@@
-
 Decreto nº 71.415 - de 21 de novembro de 1972.
 
 Concede a Roberto Kautsky & Cia. Ltda. o direito de lavrar água potável de mesa no município de Domingos Martins, Estado do Espírito Santo.

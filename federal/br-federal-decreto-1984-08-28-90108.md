@@ -1,5 +1,3 @@
-###DEC-090108-0-000-28-08-1984@@@
-
 Decreto nº 90.108, de 28 de agosto de 1984
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Sertãozinho da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-071540-0-000-13-12-1972@@@
-
 DECRETO Nº 71.540 - DE 13 DE DEZEMBRO DE 1972
 
 Altera dispositivo do decreto número 57.814, de 15 de fevereiro de 1966, modificado pelo Decreto número 70.239, de 6 de março de 1972, que fixa a composição da Delegação Brasileira na Comissão Mista Executora do Acordo Brasil - Estados Unidos sobre Serviços Cartográficos, define sua vinculação com Órgãos do Governo Brasileiro e dá outras Providências.

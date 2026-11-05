@@ -1,5 +1,3 @@
-###DEC-003115-0-000-09-07-1999@@@
-
 DECRETO N.º 3.115, DE 9 DE JULHO DE 1999.
 
 Altera a redação do art. 18 do Decreto n.º 3.027, de 13 de abril de 1999, que regulamenta a Lei Complementar n.º 93, de 4 de fevereiro de 1998, que criou o Fundo de Terras e da Reforma Agrária – Banco da Terra.

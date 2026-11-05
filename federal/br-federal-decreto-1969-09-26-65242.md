@@ -1,5 +1,3 @@
-###DEC-065242-0-000-26-09-1969@@@
-
 DECRETO Nº 65.242, DE 26 DE SETEMBRO DE 1969.
 
 Dispõe sôbre redistribuição de servidor do extinto Serviço de Alimentação da Previdência Social SAPS.

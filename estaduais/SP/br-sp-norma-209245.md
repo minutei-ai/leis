@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209245)<br>
-
 # DECRETO N° 68.410, DE 27 DE MARÇO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à instalação de unidades administrativas, no âmbito do Projeto PPP Campos Elíseos, no Município de São Paulo, e dá providências correlatas._

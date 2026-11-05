@@ -1,5 +1,3 @@
-###MPV-001888-0-024-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.888-24, DE 22 DE OUTUBRO DE 1999.
 
 Dá nova redação ao art.1º da Lei nº 9.530, de 10 de dezembro de 1997.

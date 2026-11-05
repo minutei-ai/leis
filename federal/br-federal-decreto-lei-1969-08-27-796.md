@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f18bfd2a-2fd5-41a3-adf9-43e84665d408/texto#nowhere)
 
-###DEL-000796-0-000-27-08-1969@@@
-
 DECRetO-LeI Nº 796, DE 27 DE AGÔSTO DE 1969
 
 Revoga o art. 17 e altera a redação dos arts. 19 (alínea f) e 30 da Lei nº 3.552, de 16 de fevereiro de 1959.

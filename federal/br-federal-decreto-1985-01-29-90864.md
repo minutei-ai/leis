@@ -1,5 +1,3 @@
-###DEC-090864-0-000-29-01-1985@@@
-
 Decreto nº 90.864, de 29 janeiro de 1985
 
 Inclui o Instituto Nacional de Meteorologia - INEMET do Ministério da Agricultura , no regime de que trata o Decreto nº 86.212 de 15 de julho de 1981, e dá outras providências.

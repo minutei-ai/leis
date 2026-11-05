@@ -1,5 +1,3 @@
-###DEC-078906-0-000-07-12-1976@@@
-
 DECRETO Nº 78.906 - DE 7 DE DEZEMBRO DE 1976
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Bairro de Jaguaribe, Município de João Pessoa, Estado da Paraíba.

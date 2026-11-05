@@ -1,5 +1,3 @@
-###DEC-051734-0-000-21-02-1963@@@
-
 DECRETO Nº 51.734, DE 21 DE FEVEREIRO DE 1963
 
 Autoriza a Companhia Telefônica de Minas Gerais a celebrar convênio de tráfego mútuo  telefônico e radiotelefônico com a Companhia Telelônica Brasileira.

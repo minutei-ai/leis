@@ -1,5 +1,3 @@
-###DEC-057895-0-000-28-02-1966@@@
-
 DECRETO Nº 57.895, de 28 de fevereiro de 1966.
 
 Dispõe sôbre os saldos não aplicados dos Fundos Nacionais de Ensino Primário e Médio, a intensificação do ensino fundamental a pessoas analfabetas, de mais de 10 anos de idade, e dá outras providências.

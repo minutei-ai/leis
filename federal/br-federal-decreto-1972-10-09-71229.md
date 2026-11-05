@@ -1,5 +1,3 @@
-###DEC-071229-0-000-09-10-1972@@@
-
 DECRETO Nº 71.229, DE 9 DE OUTUBRO DE 1972.
 
 Concede autorização à Companhia Penrod Drilling Company para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a embarcação de perfuração "Penrod 62", de nacionalidade norte-americana.

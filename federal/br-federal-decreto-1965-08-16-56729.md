@@ -1,5 +1,3 @@
-###DEC-056729-0-000-16-08-1965@@@
-
 DECRETO Nº 56.729, DE 16 DE AGôSTO DE 1965.
 
 Concede à sociedade anônima Gillette Safety Razor Company of Brazil autorização para continuar a funcionar na República.

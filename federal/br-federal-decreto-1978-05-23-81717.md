@@ -1,5 +1,3 @@
-###DEC-081717-0-000-23-05-1978@@@
-
 Decreto nº 81.717, de 23 de maio de 1978.
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

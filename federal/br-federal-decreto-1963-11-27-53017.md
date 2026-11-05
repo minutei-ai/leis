@@ -1,5 +1,3 @@
-###DEC-053017-0-000-27-11-1963@@@
-
 DECRETO Nº 53.017, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Thales de Mendonça e Silva a pesquisar areia quartzosa no município de Rezende, Estado do Rio de Janeiro.

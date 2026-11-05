@@ -1,5 +1,3 @@
-###DEC-075327-0-000-29-01-1975@@@
-
 Decreto nº 75.327, de 29 de janeiro de 1975
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz, Estado de São Paulo.

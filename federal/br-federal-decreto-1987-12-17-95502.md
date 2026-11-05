@@ -1,5 +1,3 @@
-###DEC-095502-0-000-17-12-1987@@@
-
 DECRETO Nº 95.502, DE 17 DE DEZEMBRO DE 1987
 
 Revoga os Decretos nº  46.427/59 e nº 75.636/75, que aprovaram e alteraram, respectivamente, o Regulamento para o Instituto de Pesquisas da Marinha.

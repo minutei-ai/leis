@@ -1,5 +1,3 @@
-###DEC-081721-0-000-23-05-1978@@@
-
 Decreto nº 81.721, de 23 de maio de 1978.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Excelsior S.A. para que a Rádio Globo de São Paulo Ltda. passe a executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de São Paulo, Estado de São Paulo.

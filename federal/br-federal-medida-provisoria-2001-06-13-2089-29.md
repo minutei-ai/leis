@@ -1,5 +1,3 @@
-###MPV-002089-0-029-13-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.089-29, DE 13 DE JUNHO DE 2001
 
 Estabelece a nulidade das disposições contratuais que menciona e inverte, nas hipóteses que prevê, o ônus dá prova nas ações intentadas para sua declaração.

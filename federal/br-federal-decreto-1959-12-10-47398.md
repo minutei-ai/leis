@@ -1,5 +1,3 @@
-###DEC-047398-0-000-10-12-1959@@@
-
 DECRETO Nº 47.398, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro David Dequech a pesquisar quartzo no Município de Tubarão, Estado de Santa Catarina.

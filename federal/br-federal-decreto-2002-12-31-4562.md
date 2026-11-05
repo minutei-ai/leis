@@ -1,5 +1,3 @@
-###DEC-004562-0-000-31-12-2002@@@
-
 DECRETO Nº 4.562, DE 31 DE DEZEMBRO DE 2002.
 
        Estabelece normas gerais para celebração, substituição e aditamento dos contratos de fornecimento de energia elétrica; para tarifação e preço de energia elétrica; dispõe sobre compra de energia elétrica das concessionárias de serviço público de distribuição; valores normativos; estabelece a redução do número de submercados; diretrizes para revisão da metodologia de cálculo das Tarifas de Uso do Sistema de Transmissão - TUST e dá outras providências.
@@ -138,5 +136,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 31 de dezembro de 2002; 181~~º~~ da Independência e 114~~º~~ da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
+FERNANDO HENRIQUE CARDOSO
+
 Francisco Gomide

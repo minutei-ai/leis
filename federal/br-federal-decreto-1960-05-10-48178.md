@@ -1,5 +1,3 @@
-###DEC-048178-0-000-10-05-1960@@@
-
 DECRETO Nº 48.178, DE 10 DE MAIO DE 1960.
 
 Cria no Ministério da Viação e Obras Públicas, o Conselho Coordenador da Industria de Construção Naval.

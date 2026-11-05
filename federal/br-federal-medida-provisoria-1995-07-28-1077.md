@@ -1,7 +1,3 @@
-1
-
-###MPV-001077-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.077, DE 28 DE JULHO DE 1995.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

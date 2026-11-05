@@ -1,5 +1,3 @@
-###DEC-066537-0-000-06-05-1970@@@
-
 DECRETO Nº 66.537, DE 6 DE MAIO DE 1970.
 
 Decreta intervenção federal no município de Araras, no Estado de São Paulo e dá outras providências.

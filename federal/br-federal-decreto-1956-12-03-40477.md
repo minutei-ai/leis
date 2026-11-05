@@ -1,16 +1,14 @@
-###DEC-040477-0-000-03-12-1956@@@
+**DECRETO Nº 40.477, DE 3 DE DEZEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.477, DE 3 DE DEZEMBRO DE 1956.</strong>
+***Dá nova redação ao artigo 2º do Regulamento dos Órgãos da Presidência da República, aprovado pelo Decreto nº 23.822, de 10 de outubro de 1947, modificado pelo Decreto nº 36.225, de 24 de setembro de 1954, e dá outras providências.***
 
-<em><strong>Dá nova redação ao artigo 2º do Regulamento dos Órgãos da Presidência da República, aprovado pelo Decreto nº 23.822, de 10 de outubro de 1947, modificado pelo Decreto nº 36.225, de 24 de setembro de 1954, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Passa a vigorar com a seguinte redação o artigo 2º do Regulamento dos Órgãos da Presidência da República, aprovadas pelo Decreto número 23.822, de 10 de outubro de 1947, modificado pelo Decreto nº 36.225, de 24 de setembro de 1954:
 
-<strong>Art</strong>. 1º Passa a vigorar com a seguinte redação o artigo 2º do Regulamento dos Órgãos da Presidência da República, aprovadas pelo Decreto número 23.822, de 10 de outubro de 1947, modificado pelo Decreto nº 36.225, de 24 de setembro de 1954:
-
-<strong>Art</strong>. 2º O Gabinete Militar é constituído do seguinte pessoal:
+**Art**. 2º O Gabinete Militar é constituído do seguinte pessoal:
 
 a) 1 Chefe - Oficial General;
 
@@ -44,15 +42,15 @@ e) Serviço do Pessoal:
 
 1 Adjunto - Major ou Capitão.
 
-<strong>Art</strong>. 2º Continuam em vigor os parágrafos 1º 2º e 3º do referido Artigo 2º do Decreto nº 36.225, de 24 de setembro de 1954.
+**Art**. 2º Continuam em vigor os parágrafos 1º 2º e 3º do referido Artigo 2º do Decreto nº 36.225, de 24 de setembro de 1954.
 
-<strong>Art</strong>. 3º Fica revogado o Decreto nº 38.988, de 10 de abril de 1956.
+**Art**. 3º Fica revogado o Decreto nº 38.988, de 10 de abril de 1956.
 
-<strong>Art</strong>. 4º O presente Decreto entrará em vigor na data da sua publicação.
+**Art**. 4º O presente Decreto entrará em vigor na data da sua publicação.
 
 Rio de Janeiro, 3 de dezembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Fleiuss
 

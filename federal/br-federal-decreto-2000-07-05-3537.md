@@ -1,5 +1,3 @@
-###DEC-003537-0-000-05-07-2000@@@
-
 DECRETO Nº 3.537, DE 5 DE JULHO DE 2000.
 
 Altera o art. 19 do Regulamento de Movimentação para Oficiais e Praças do Exército (R-50), aprovado pelo Decreto nº 2.040, de 21 de outubro de 1996.

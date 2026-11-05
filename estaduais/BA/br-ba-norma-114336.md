@@ -1,6 +1,7 @@
 LEI Nº 1.676 DE 13 DE ABRIL DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.637](https://www.legislabahia.ba.gov.br/documentos/lei-no-12637-de-10-de-janeiro-de-2013#LO%2012.637)  de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Bacia do Rio Corrente, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Brejolândia, Canápolis, Cocos, Coribe, Correntina, Jaborandi, Santa Maria da Vitória, Santana, São Félix do Coribe, Serra Dourada e Tabocas do Brejo Velho.  
 
 Cria o Município de TABOCAS DO BREJO VELHO, desmembrado do de Angical.
@@ -69,4 +70,4 @@ Leia-se: o limite do Município de TABOCAS DO BREJO VELHO, com o Município de B
 
 "Começa no alto da serra Geral ou dos Bois, no marco fronteiro a nascente do riacho da Areia de onde se dirige em reta ao centro da lagoa das Gauíras; daí em reta ao marco ao lugar Olho d'Água do Bonito ou do Álvaro; daí em reta a passagem do Jacaré no marimbu de São João."
 
-* * *
+ *

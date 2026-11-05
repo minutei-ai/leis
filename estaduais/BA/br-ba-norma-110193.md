@@ -1,6 +1,7 @@
 LEI Nº 9.002 DE 29 DE JANEIRO DE 2004
 
-Ver também:<br>
+Ver também:
+
 Lei nº 11.356, de 06 de janeiro de 2009 - Cria o Prêmio por Desempenho Policial, altera a estrutura organizacional e de cargos em comissão da Polícia Militar da Bahia e dispositivos das Leis nº 7.990, de 27.12.2001, nº 8.626, de 09.05.2003, nº 9.002, de 29.01.2004, e nº 9.848, de 29.12.2005, e dá outras providências.
 
 Altera a estrutura da Polícia Militar da Bahia, da estrutura da Secretaria da Segurança Pública, na forma que indica, e dá outras providências.
@@ -53,4 +54,4 @@ Marcelo Barros
 
 Secretário da Administração
 
-* * *
+ *

@@ -1,5 +1,3 @@
-###DEC-005619-0-000-14-12-2005@@@
-
 DECRETO Nº 5.619, DE 14 DE DEZEMBRO DE 2005.
 
 Autoriza a Secretaria Especial de Direitos Humanos da Presidência da República a concluir Acordo de Composição Amistosa com vistas ao encerramento dos casos nos 12.426 e 12.427 em trâmite perante a Comissão Interamericana de Direitos Humanos.

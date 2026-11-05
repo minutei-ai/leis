@@ -1,5 +1,3 @@
-###DEC-066223-0-000-18-02-1970@@@
-
 DECRETO Nº 66.223 - DE 18 DE FEVEREIRO DE 1970
 
 Transforma a Comissão Especial de Obras nº 2 (CEO-2) em Comissão Regional de Obras nº 1 da 2ª Região Militar (CRO ½).

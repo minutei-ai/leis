@@ -1,5 +1,3 @@
-###DEC-005584-0-000-18-11-2005@@@
-
 DECRETO Nº 5.584, DE 18 DE NOVEMBRO DE 2005.
 
 Dispõe sobre o recolhimento ao Arquivo Nacional dos documentos arquivísticos públicos produzidos e recebidos pelos extintos Conselho de Segurança Nacional - CSN, Comissão Geral de Investigações - CGI e Serviço Nacional de Informações - SNI, que estejam sob a custódia da Agência Brasileira de Inteligência - ABIN.

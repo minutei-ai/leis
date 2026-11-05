@@ -1,5 +1,3 @@
-###DEC-093234-0-000-08-09-1986@@@
-
 DECRETO Nº 93.234, DE 08 DE SETEMBRO DE 1986
 
 Dispõe sobre a composição do Conselho de Desenvolvimento Social - CDS.

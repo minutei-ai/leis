@@ -1,5 +1,3 @@
-###MPV-002066-0-023-25-01-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.066-23, DE 25 DE JANEIRO DE 2001
 
 Altera a Lei nº 4.229, de 1º de junho de 1963, autoriza a doação de bens e dá outras providências.

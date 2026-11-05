@@ -1,5 +1,3 @@
-###DEC-064053-0-000-03-02-1969@@@
-
 DECRETO Nº 64.053, DE 3 DE FEVEREIRO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Departamento dos Correios e Telégrafos, cargos originários dos Quadro de Extinto - Parte VI (Rede de Viação Cearense) e extinta - Companhia Nacional de Navegação Costeira - Autarquia Federal.

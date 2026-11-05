@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/00dcc4ee-27f6-4265-a4a8-5cc9810e5716/texto#nowhere)
 
-###DEL-000427-0-000-22-01-1969@@@
-
 DECRETO-LEI Nº 427, DE 22 DE JANEIRO DE 1969
 
 Dispõe sôbre a tributação do impôsto de renda na fonte, registro de letras de câmbio e notas promissórias e dá outras providências.

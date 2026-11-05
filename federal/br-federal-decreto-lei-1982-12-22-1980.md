@@ -1,5 +1,3 @@
-###DEL-001980-0-000-22-12-1982@@@
-
 # DECRETO-lei nº 1.980, DE 22 DE dezembro DE 1982
 
 Altera a legislação do imposto de renda relativa aos fundos em condomínio e dá outras providências.

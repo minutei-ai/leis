@@ -1,12 +1,10 @@
-###DEC-038473-0-000-29-12-1955@@@
+**DECRETO Nº 38.473, DE 29 DE DEZEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.473, DE 29 DE DEZEMBRO DE 1955.</strong>
+***Abre, ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Segunda Região, o crédito suplementar de Cr$376.320,00, para o fim que especifica.***
 
-<em><strong>Abre, ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Segunda Região, o crédito suplementar de Cr$376.320,00, para o fim que especifica.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da autorização concedida na Lei nº 2.621, de 4 de outubro de 1955, e, tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da autorização concedida na Lei nº 2.621, de 4 de outubro de 1955, e, tendo ouvido o Tribunal de Contas, nos têrmos do art. 93 do Regulamento Geral de Contabilidade Pública,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica aberto, ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da Segunda Região o crédito suplementar de Cr$376.320,00 (trezentos e setenta e seis mil, trezentos e vinte cruzeiros), em refôrço das seguintes dotações previstas no Orçamento Geral da União para o exercício de 1955 (Lei nº 2.368, de 9 de dezembro de 1954):
 
@@ -40,7 +38,7 @@ Subconsignação 09 - Gratificação de representação;
 
 Rio de Janeiro, em 29 de dezembro de 1955; 134º da Independência e 67º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 F. de Menezes Pimentel
 

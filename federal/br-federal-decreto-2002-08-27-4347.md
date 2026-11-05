@@ -1,5 +1,3 @@
-###DEC-004347-0-000-27-08-2002@@@
-
 DECRETO Nº 4.347, DE 27 DE AGOSTO DE 2002
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Peru sobre Cooperação e Coordenação em Matéria de Sanidade Agropecuária, celebrado em Lima, em 6 de dezembro de 1999.

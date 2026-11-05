@@ -1,5 +1,3 @@
-###DEC-093108-0-000-12-08-1986@@@
-
 DECRETO Nº 93.108, DE 12 DE AGOSTO DE 1986
 
 Dispõe sobre aumento do capital social da Indústria Aeronáutica Neiva S.A.

@@ -1,5 +1,3 @@
-###DEL-003843-0-000-20-11-1941@@@
-
 DECRETO-LEI N. 3.843 – DE 20 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 5.000:000$0, à verba que especifica

@@ -1,5 +1,3 @@
-###MPV-001692-0-030-27-11-1998@@@
-
 Medida Provisória nº 1.692-30, de 27 de novembro de 1998.
 
 Altera dispositivos das Leis nºs 9.138, de 29 de novembro de 1995, 8.427, de 27 de maio de 1992, e 9.126, de 10 de novembro de 1995, que dispõem, respectivamente, sobre o crédito rural; sobre a concessão de subvenção econômica nas operações crédito rural; autoriza o Poder Executivo a renegociar as obrigações financeiras relativas à liquidação de operações de Empréstimos do Governo Federal - EGF, vencidas e prorrogadas a partir de 1991; e a aplicação da Taxa de Juros a Logo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais e com recursos das Operações Oficiais de Crédito.

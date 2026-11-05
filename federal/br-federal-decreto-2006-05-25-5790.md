@@ -1,5 +1,3 @@
-###DEC-005790-0-000-25-05-2006@@@
-
 DECRETO Nº 5.790, DE 25 DE MAIO DE 2006.
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho das Cidades - ConCidades, e dá outras providências.

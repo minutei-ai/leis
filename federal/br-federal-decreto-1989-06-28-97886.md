@@ -1,7 +1,3 @@
-1
-
-###DEC-097886-0-000-28-06-1989@@@
-
 DECRETO N° 97.886, DE 28 DE JUNHO DE 1989
 
 Dispõe sobre o Instituto Nacional de Colonização e Reforma Agrária -  INCRA.

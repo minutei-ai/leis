@@ -1,7 +1,3 @@
-1
-
-###DEC-000970-0-000-04-11-1993@@@
-
 DECRETO N° 970, DE 4 DE NOVEMBRO DE 1993
 
 Dispõe sobre a execução, no território nacional, das Resoluções 841 (1993), 873 (1993) e 875 (1993) do Conselho de Segurança das Nações Unidas.

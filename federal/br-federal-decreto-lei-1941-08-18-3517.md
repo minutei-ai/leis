@@ -1,5 +1,3 @@
-###DEL-003517-0-000-18-08-1941@@@
-
 DECRETO-LEI N. 3.517 – DE 18 DE AGOSTO DE 1941
 
 Prorroga o prazo referido no parágrafo único do art. 2º do decreto-lei n. 2.618, de 23 de setembro de 1940.

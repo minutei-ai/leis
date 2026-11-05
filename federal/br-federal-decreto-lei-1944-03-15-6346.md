@@ -1,5 +1,3 @@
-###DEL-006346-0-000-15-03-1944@@@
-
 DECRETO-LEI N. 6.346 – DE 15 DE MARÇO DE 1944
 
 Institui o quadro Suplementar, cria carreiras no Quadro Permanente do Departamento Administrativo do Serviço Público e dá outras providências

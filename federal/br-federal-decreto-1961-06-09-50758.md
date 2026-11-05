@@ -1,5 +1,3 @@
-###DEC-050758-0-000-09-06-1961@@@
-
 Decreto nº 50.758, de 9 de junho de 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Goiatuba, Estado de Goiás.

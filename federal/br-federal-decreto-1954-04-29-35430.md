@@ -1,34 +1,32 @@
-###DEC-035430-0-000-29-04-1954@@@
+**DECRETO Nº 35.430, DE 29 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.430, DE 29 DE ABRIL DE 1954.</strong>
+***Aprova o Regimento do Instituto Brasileiro de Bibliografia e Documentação (I. B. B. D.).***
 
-<em><strong>Aprova o Regimento do Instituto Brasileiro de Bibliografia e Documentação (I. B. B. D.).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Instituto Brasileiro de Bibliografia e Documentação (I.B.B.D.), que com êste baixa, assinado pelo Ministro da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Instituto Brasileiro de Bibliografia e Documentação (I.B.B.D.), que com êste baixa, assinado pelo Ministro da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 29 de abril de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Tancredo de Almeida Neves
 
-<strong>REGIMENTO DO INSTITUTO BRASILEIRO DE BIBLIOGRAFIA E DOCUMENTAÇÃO</strong>
+**REGIMENTO DO INSTITUTO BRASILEIRO DE BIBLIOGRAFIA E DOCUMENTAÇÃO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DAS FINALIDADES E DA COMPETÊNCIA</em>
+*DAS FINALIDADES E DA COMPETÊNCIA*
 
-<strong>Art</strong>. 1º O Instituto Brasileiro de Bibliografia e Documentação (I. B. B. D.), criado, nos têrmos da Lei nº 1.310, de 15 de janeiro de 1951, pelo Decreto nº 35.124, de 27 de fevereiro de 1954, por proposta conjunta do Conselho Nacional de Pesquisa (C. N. Pq.) e da Fundação Getúlio Vargas (F. G. V.), tem por finalidade elaborar e divulgar informações bibliográficas; promover intercâmbio de documentação e de informações entre instituições nacionais e entre estas e instituições estrangeiras ou internacionais; estimular o desenvolvimento e aperfeiçoamento das bibliotecas científicas e técnicas do País.
+**Art**. 1º O Instituto Brasileiro de Bibliografia e Documentação (I. B. B. D.), criado, nos têrmos da Lei nº 1.310, de 15 de janeiro de 1951, pelo Decreto nº 35.124, de 27 de fevereiro de 1954, por proposta conjunta do Conselho Nacional de Pesquisa (C. N. Pq.) e da Fundação Getúlio Vargas (F. G. V.), tem por finalidade elaborar e divulgar informações bibliográficas; promover intercâmbio de documentação e de informações entre instituições nacionais e entre estas e instituições estrangeiras ou internacionais; estimular o desenvolvimento e aperfeiçoamento das bibliotecas científicas e técnicas do País.
 
 Parágrafo único. Constituirá principal escopo do I. B. B. D. prover informação científica e tecnológica aos pesquisadores que a solicitarem.
 
-<strong>Art</strong>. 2º Para atingir seus objetivos, o I. B. B. D., deverá exercer as seguintes atividades, sem prejuízo de outras que vierem a ser postas em prática, nos têrmos dêste Regimento:
+**Art**. 2º Para atingir seus objetivos, o I. B. B. D., deverá exercer as seguintes atividades, sem prejuízo de outras que vierem a ser postas em prática, nos têrmos dêste Regimento:
 
 I - elaborar e publicar boletins bibliográficos referentes a livros, revistas e outras publicações científicas e técnicas, e colaborar com instituições nacionais e estrangeiras, no sentido de tornar mais rápido e eficiente o registro da produção cultural, científica e tecnológica brasileira;
 
@@ -46,13 +44,13 @@ VII - gerir o Fundo Especial para bibliografia e Documentação.
 
 Parágrafo único. O I.B.B.D. entrará em entendimentos com instituições públicas ou particulares e com especialistas de diversos ramos do conhecimento, com o fim de estabelecer, mediante convênios, um sistema de órgãos cooperativos, que servirá de base para a execução dos serviços de bibliografia e documentação.
 
-<strong>Art</strong>. 3º O I.B.B.D. terá sede na Capital Federal e poderá instalar, ouvido o C. N. Pq., institutos bibliográficos em outros pontos do País, que lhe serão subordinados técnica e adminstrativamente.
+**Art**. 3º O I.B.B.D. terá sede na Capital Federal e poderá instalar, ouvido o C. N. Pq., institutos bibliográficos em outros pontos do País, que lhe serão subordinados técnica e adminstrativamente.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 4º O I.B.B.D. terá a seguinte organização:
+**Art**. 4º O I.B.B.D. terá a seguinte organização:
 
 I - Conselho Diretor (C.D.);
 
@@ -76,11 +74,11 @@ X - Serviço de Administração (S.A.).
 
 Parágrafo único. Os serviços a que se refere êste artigo, quando o volume de trabalho exigir, poderão ser subdivididos em secções, cujo número, denominação, organização e atribuições específicas serão fixados pelo Conselho Diretor, por proposta do Presidente do I.B.B.D.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO CONSELHO DIRETOR</em>
+*DO CONSELHO DIRETOR*
 
-<strong>Art</strong>. 5º O I.B.B.D. será administrado por um Conselho Diretor (C.D.), no qual se farão representar o C.N.Pq., a F.G.V. e o D.A.S.P. e, sem direito de voto, as entidades colaboradoras, quando existirem.
+**Art**. 5º O I.B.B.D. será administrado por um Conselho Diretor (C.D.), no qual se farão representar o C.N.Pq., a F.G.V. e o D.A.S.P. e, sem direito de voto, as entidades colaboradoras, quando existirem.
 
 § 1º O Conselho Diretor terá um Presidente e um Vice-Presidente, que substituirá o primeiro em suas faltas e impedimentos, ambos designados pelo Presidente do C.N.Pq. e que serão, respectivamente, o Presidente e o Vice-Presidente do I.B.B.D.
 
@@ -110,7 +108,7 @@ Parágrafo único. Os serviços a que se refere êste artigo, quando o volume de
 
 § 14. O Presidente terá um gabinete constituído por um Secretário e os Assistentes necessários ao serviço.
 
-<strong>Art</strong>. 6º Caberá ao Conselho Diretor:
+**Art**. 6º Caberá ao Conselho Diretor:
 
 I - examinar e aprovar:
 
@@ -128,11 +126,11 @@ II - sugerir normas e providências tendentes ao aperfeiçoamento dos trabalhos 
 
 III - aprovar a minuta dos convênios ou acôrdos de cooperação do Instituto com organizações nacionais, estrangeiras e internacionais, ou dar parecer sôbre os mesmos, quando sua aprovação dependa de autoridade superior, de acôrdo com o § 12 do artigo 5º.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA DIREÇÃO EXECUTIVA</em>
+*DA DIREÇÃO EXECUTIVA*
 
-<strong>Art</strong>. 7º O Presidente do Conselho Diretor terá a seu cargo a direção executiva dos trabalhos do I.B.B.D. cabendo-lhe:
+**Art**. 7º O Presidente do Conselho Diretor terá a seu cargo a direção executiva dos trabalhos do I.B.B.D. cabendo-lhe:
 
 I - superintender, coordenar e controlar as atividades do Instituto;
 
@@ -176,37 +174,37 @@ XIII - assinar contratos, convênios ou acôrdos.
 
 Parágrafo único. O Vice-Presidente auxiliará o Presidente nos trabalhos técnicos e executivos do I.B.B.D., substituindo-o em suas faltas e impedimentos e desincumbindo-se das tarefas que lhe forem atribuídas pelo Conselho Diretor ou pelo Presidente.
 
-<strong>Art</strong>. 8º Ao Presidente e Vice-Presidente caberá, mensalmente, além das gratificações correspondentes às sessões do Conselho Diretor, uma verba de representação fixada anualmente, de comum acôrdo, pelos Presidentes do C.N.P.q. e F.G.V.
+**Art**. 8º Ao Presidente e Vice-Presidente caberá, mensalmente, além das gratificações correspondentes às sessões do Conselho Diretor, uma verba de representação fixada anualmente, de comum acôrdo, pelos Presidentes do C.N.P.q. e F.G.V.
 
-<strong>Art</strong>. 9º As condições gerais de trabalho, forma de remuneração, atribuições, deveres e direitos do pessoal técnico ou administrativo do I.B.B.D., obedecendo as normas fixadas pela Lei nº 1.310, de 15 de janeiro de 1951, para o C.N.Pq., serão determinados pelo Presidente do I.B.B.D. <em>ad referendum</em> do Conselho Diretor.
+**Art**. 9º As condições gerais de trabalho, forma de remuneração, atribuições, deveres e direitos do pessoal técnico ou administrativo do I.B.B.D., obedecendo as normas fixadas pela Lei nº 1.310, de 15 de janeiro de 1951, para o C.N.Pq., serão determinados pelo Presidente do I.B.B.D. *ad referendum* do Conselho Diretor.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS ATRIBUIÇÕES DOS DIFERENTES SERVIÇOS</em>
+*DAS ATRIBUIÇÕES DOS DIFERENTES SERVIÇOS*
 
-<strong>Art</strong>. 10. O Serviço de Informações Técnico-Científicas terá por atribuições fundamentais: prover aos pesquisadores documentação, científica ou tecnológica, enviando-lhes cópias dos textos de que necessitarem; promover o intercâmbio de informações entre as instituições de pesquisas nacionais e estrangeiras fornecer dados bibliográficos a pedido; divulgar no País e no estrangeiro, os trabalhos técnico-científicos brasileiros; promover a divulgação dos serviços do I. B. B. D.; realizar, a pedido, traduções de trabalhos científicos e tecnológicos; e prestar assistência técnica a bibliotecas especializadas ou a centros de documentação, promovendo, quando necessário, cursos especiais de treinamento para bibliotecários e documentalistas.
+**Art**. 10. O Serviço de Informações Técnico-Científicas terá por atribuições fundamentais: prover aos pesquisadores documentação, científica ou tecnológica, enviando-lhes cópias dos textos de que necessitarem; promover o intercâmbio de informações entre as instituições de pesquisas nacionais e estrangeiras fornecer dados bibliográficos a pedido; divulgar no País e no estrangeiro, os trabalhos técnico-científicos brasileiros; promover a divulgação dos serviços do I. B. B. D.; realizar, a pedido, traduções de trabalhos científicos e tecnológicos; e prestar assistência técnica a bibliotecas especializadas ou a centros de documentação, promovendo, quando necessário, cursos especiais de treinamento para bibliotecários e documentalistas.
 
-<strong>Art</strong>. 11. O Serviço de Bibliografia terá por atribuições fundamentais compilar a bibliografia corrente técnico-científica brasileira; compôr bibliografias de interêsse para o C.N.Pq., a F.G.V., o D.A.S.P. e instituições que lhes são subordinadas, incluídas no Programa Anual de Trabalho do I.B.B.D.; compilar, a pedido de pessoas ou instituições, bibliografias diversas.
+**Art**. 11. O Serviço de Bibliografia terá por atribuições fundamentais compilar a bibliografia corrente técnico-científica brasileira; compôr bibliografias de interêsse para o C.N.Pq., a F.G.V., o D.A.S.P. e instituições que lhes são subordinadas, incluídas no Programa Anual de Trabalho do I.B.B.D.; compilar, a pedido de pessoas ou instituições, bibliografias diversas.
 
-<strong>Art</strong>. 12. O Catálago Coletivo terá por atribuições a composição de um repertório bibliográfico que inclua os acêrvos das principais bibliotecas brasileiras e a localização de periódicos ou livros procurados por estudiosos e por instituições.
+**Art**. 12. O Catálago Coletivo terá por atribuições a composição de um repertório bibliográfico que inclua os acêrvos das principais bibliotecas brasileiras e a localização de periódicos ou livros procurados por estudiosos e por instituições.
 
-<strong>Art</strong>. 13. O serviço de Intercâmbio e Catalogação e terá por finalidade facilitar e baratear a reorganização dos catálogos existentes nas bibliotecas brasileiras por meio de um sistema cooperativo de catalogação, em que se imprimam as fichas fornecidas pelas bibliotecas cooperantes e se facilite o intercâmbio de informações bibliográficas entre elas.
+**Art**. 13. O serviço de Intercâmbio e Catalogação e terá por finalidade facilitar e baratear a reorganização dos catálogos existentes nas bibliotecas brasileiras por meio de um sistema cooperativo de catalogação, em que se imprimam as fichas fornecidas pelas bibliotecas cooperantes e se facilite o intercâmbio de informações bibliográficas entre elas.
 
-<strong>Art</strong>. 14. A biblioteca terá por finalidade reunir um acêrvo de livros, periódicos e, sobretudo, de revistas científicas e técnicas especializadas que não possam ser encontrados em outras bibliotecas do País; colecionar os documentos técnico-científicos inéditos; e servir como centro para empréstimos entre bibliotecas, no âmbito nacional e internacional.
+**Art**. 14. A biblioteca terá por finalidade reunir um acêrvo de livros, periódicos e, sobretudo, de revistas científicas e técnicas especializadas que não possam ser encontrados em outras bibliotecas do País; colecionar os documentos técnico-científicos inéditos; e servir como centro para empréstimos entre bibliotecas, no âmbito nacional e internacional.
 
-<strong>Art</strong>. 15. O Serviço de Publicações e Divulgação terá como atribuições fundamentais promover a impressão de fichas de serviço de Intercâmbio de Catalogação, dos boletins e bibliografias do Serviço de Bibliografia e demais publicações do I.B.B.D.
+**Art**. 15. O Serviço de Publicações e Divulgação terá como atribuições fundamentais promover a impressão de fichas de serviço de Intercâmbio de Catalogação, dos boletins e bibliografias do Serviço de Bibliografia e demais publicações do I.B.B.D.
 
-<strong>Art</strong>. 16. O Laboratório de Reproduções Fotográficas tem por atribuição reproduzir, pelos diversos processos foto-mecânicos que forem mais convenientes , os documentos necessários à pesquisa e ao estudo, cabendo-lhe, ainda, estudar o aperfeiçoamento dêsses processos.
+**Art**. 16. O Laboratório de Reproduções Fotográficas tem por atribuição reproduzir, pelos diversos processos foto-mecânicos que forem mais convenientes , os documentos necessários à pesquisa e ao estudo, cabendo-lhe, ainda, estudar o aperfeiçoamento dêsses processos.
 
-<strong>Art</strong>. 17. Ao Serviço de Administração compete prestar os serviços de administração geral que se fizerem necessários à consecução das finalidades do I.B.B.D.
+**Art**. 17. Ao Serviço de Administração compete prestar os serviços de administração geral que se fizerem necessários à consecução das finalidades do I.B.B.D.
 
-<strong>Art</strong>. 18. Os serviços mencionados nos arts. de número 10 a 17 terão diretor e suas secções, chefes.
+**Art**. 18. Os serviços mencionados nos arts. de número 10 a 17 terão diretor e suas secções, chefes.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Regime Financeiro</em>
+*Do Regime Financeiro*
 
-<strong>Art</strong>. 19. Os recursos para manutenção e desenvolvimento dos serviços do I.B.B.D. serão provenientes de:
+**Art**. 19. Os recursos para manutenção e desenvolvimento dos serviços do I.B.B.D. serão provenientes de:
 
 I - subvenções semestrais antecipadas do C. N. Pp., F. G. V. e, eventualmente, das entidades colaboradoras;
 
@@ -226,32 +224,32 @@ V - rendas eventuais de outra natureza.
 
 § 4º Até o dia 31 de janeiro de cada ano, o Presidente deverá encaminhar ao C.N.Pq. e à F.G. V. o Relatório das atividades do I.B.B.D. referente ao ano anterior, junto aos balancetes do movimento econômico e financeiro da instituição.
 
-<strong>Art</strong>. 20. A movimentação de recursos do I.B.B.D. será feita por meio de cheques e ordens de pagamento assinados conjuntamente pelo Presidente e pelo Diretor do Serviço de Administração.
+**Art**. 20. A movimentação de recursos do I.B.B.D. será feita por meio de cheques e ordens de pagamento assinados conjuntamente pelo Presidente e pelo Diretor do Serviço de Administração.
 
-<strong>Art</strong>. 21. Tôdas as pessoas e instituições que, a qualquer título, movimentarem recursos do I.B.B.D. ficam obrigados à prestação de contas.
+**Art**. 21. Tôdas as pessoas e instituições que, a qualquer título, movimentarem recursos do I.B.B.D. ficam obrigados à prestação de contas.
 
 Parágrafo único. Ao I.B.B.D. aplicam-se, no que couber, as disposições sôbre o regime financeiro vigente para o C. N. Pq.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 22. Ao I.B.B.D. aplicam-se, no que couber, as disposições sôbre pessoal, vigentes para o C. N. Pq. inclusive no que dizem respeito ao regime de trabalho.
+**Art**. 22. Ao I.B.B.D. aplicam-se, no que couber, as disposições sôbre pessoal, vigentes para o C. N. Pq. inclusive no que dizem respeito ao regime de trabalho.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. Sempre que solicitados, o C. N. Pq. e a F. G. V. prestarão assistência administrativa ao I.B.B.D, na realização dos trabalhos de sua competência.
+**Art**. 23. Sempre que solicitados, o C. N. Pq. e a F. G. V. prestarão assistência administrativa ao I.B.B.D, na realização dos trabalhos de sua competência.
 
-<strong>Art</strong>. 24. Para a promoção de seus fins, mediante autorização do C. N. Pq. e por delegação dêste, poderá o I.B.B.D. estabelecer acôrdos ou convênios de cooperação com entidades públicas ou privadas, nacionais, estrangeiras ou internacionais.
+**Art**. 24. Para a promoção de seus fins, mediante autorização do C. N. Pq. e por delegação dêste, poderá o I.B.B.D. estabelecer acôrdos ou convênios de cooperação com entidades públicas ou privadas, nacionais, estrangeiras ou internacionais.
 
-<strong>Art</strong>. 25. O I.B.B.D., no exercício de suas atividades, adotará, a juízo do C. N. Pq., as medidas que se fizerem necessárias à observância das disposições dos arts. 25 e 26 e seus parágrafos, da Lei nº 1.310, de 15 de janeiro de 1951.
+**Art**. 25. O I.B.B.D., no exercício de suas atividades, adotará, a juízo do C. N. Pq., as medidas que se fizerem necessárias à observância das disposições dos arts. 25 e 26 e seus parágrafos, da Lei nº 1.310, de 15 de janeiro de 1951.
 
-<strong>Art</strong>. 26. As normas complementares para a organização e funcionamento do I.B.B.D. constarão de Instruções de Serviço a serem aprovados pelo Conselho Diretor.
+**Art**. 26. As normas complementares para a organização e funcionamento do I.B.B.D. constarão de Instruções de Serviço a serem aprovados pelo Conselho Diretor.
 
-<strong>Art</strong>. 27. Os casos omissos serão resolvidos pelo Presidente do I. B. B. D., <em>ad referendum</em> do Conselho Diretor.
+**Art**. 27. Os casos omissos serão resolvidos pelo Presidente do I. B. B. D., *ad referendum* do Conselho Diretor.
 
 Rio de Janeiro, 29 de abril de 1954.
 
-<strong>TANCREDO DE ALMEIDA NEVES</strong>
+**TANCREDO DE ALMEIDA NEVES**

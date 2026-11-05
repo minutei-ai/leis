@@ -1,5 +1,3 @@
-###DEC-079966-0-000-14-07-1977@@@
-
 DECRETO Nº 79.966, DE 14 DE JULHO DE 1977
 
 Regulamenta a concessão da Indenização de Transporte, nos casos que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049835-0-000-05-01-1961@@@
-
 DECRETO Nº 49.835, DE 5 DE JANEIRO DE 1961.
 
 Altera a denominação do Centro de Ensino e Treinamento da Fazenda Ipanema do Ministério da Agricultura e aprova seu Regimento.

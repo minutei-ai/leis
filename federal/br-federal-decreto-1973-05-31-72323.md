@@ -1,5 +1,3 @@
-###DEC-072323-0-000-31-05-1973@@@
-
 DECRETO Nº 72.323, DE 31 DE MAIO DE 1973.
 
 Transfere concessão para uso exclusivo do aproveitamento hidráulico de um trecho do rio Piracicaba, no Distrito sede do município de Piracicaba, Estado de São Paulo.

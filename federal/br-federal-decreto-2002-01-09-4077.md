@@ -1,5 +1,3 @@
-###DEC-004077-0-000-09-01-2002@@@
-
 DECRETO Nº 4.077, DE 9 DE JANEIRO DE 2002.
 
 Qualifica como Organização Social a Associação Rede Nacional de Ensino e Pesquisa - RNP.

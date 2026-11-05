@@ -1,5 +1,3 @@
-###DEC-074791-0-000-30-10-1974@@@
-
 DECRETO Nº 74.791, DE 30 DE OUTUBRO DE 1974.
 
 Renova por 10 (dez) anos a outorga deferida à Rádio Educadora de Bragança Ltda., para executar serviço de radiodifusão sonora em onda tropical na cidade de Bragança, Estado do Pará.

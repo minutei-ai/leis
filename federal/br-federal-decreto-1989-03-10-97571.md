@@ -1,5 +1,3 @@
-###DEC-097571-0-000-10-03-1989@@@
-
 DECRETO N° 97.571, DE 10 DE MARÇO DE 1989
 
 Declara de interesse social para fins de reforma agrária, parte do imóvel rural denominado “Seringal Benfica”, também conhecido como “Casco do Benfica”, classificado como latifúndio por exploração, situado no Município de Rio Branco, Estado do Acre, compreendido na zona prioritária, fixada pelo Decreto n° 92.676, de 19 de maio de 1986, e dá outras providências.

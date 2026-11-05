@@ -1,5 +1,3 @@
-###DEC-088745-0-000-21-09-1983@@@
-
 Decreto nº 88.745, de 21 de setembro de 1983
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona nos Municípios do Rio de Janeiro, Niterói e Angra dos Reis, Estado do Rio de Janeiro; Recife, Estado de Pernambuco e de Florianópolis, Estado de Santa Catarina.

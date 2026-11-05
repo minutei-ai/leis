@@ -1,5 +1,3 @@
-###DEC-047553-0-000-30-12-1959@@@
-
 DECRETO Nº 47.553, DE 30 DE dezembRO DE 1959.
 
 Autoriza o cidadão brasileiro João José Rodrigues a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

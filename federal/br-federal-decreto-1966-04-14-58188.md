@@ -1,5 +1,3 @@
-###DEC-058188-0-000-14-04-1966@@@
-
 DECRETO Nº 58.188, DE 14 ABRIL DE 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros União Nacional, relativa a aumento do capital social.

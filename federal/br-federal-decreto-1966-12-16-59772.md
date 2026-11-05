@@ -1,5 +1,3 @@
-###DEC-059772-0-000-16-12-1966@@@
-
 DECRETO Nº 59.772, DE 16 DE DEZEMBRO DE 1966.
 
 Concede à Produtora de Cal Colombo Limitada autorização para funcionar como emprêsa de mineração.

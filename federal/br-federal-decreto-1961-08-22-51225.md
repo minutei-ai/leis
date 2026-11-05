@@ -1,5 +1,3 @@
-###DEC-051225-0-000-22-08-1961@@@
-
 Decreto nº 51.225, de 22 de agôsto de 1961.
 
 Dispões sôbre os setores de produção das escolas de ensino industrial do Ministério da Educação e Cultura.

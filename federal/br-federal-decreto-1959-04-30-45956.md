@@ -1,5 +1,3 @@
-###DEC-045956-0-000-30-04-1959@@@
-
 DECRETO Nº 45.956, DE 30 DE ABRIL DE 1959.
 
 Aprova o Regulamento da Diretoria Geral de Material Bélico (DGMB)

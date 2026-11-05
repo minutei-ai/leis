@@ -1,5 +1,3 @@
-###DEC-045702-0-000-03-04-1959@@@
-
 DECRETO Nº 45.702, DE 3 DE ABRIL DE 1959.
 
 Autoriza Th. Badin de Minérios Limitada a pesquisar cassiterita, nos municípios de Ituaçu e Sussuarana, Estado da Bahia.

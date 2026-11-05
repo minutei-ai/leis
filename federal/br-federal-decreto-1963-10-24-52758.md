@@ -1,5 +1,3 @@
-###DEC-052758-0-000-24-10-1963@@@
-
 decreto nº 52.758, de 24 de outubro de 1963.
 
 Altera, por necessidade do serviço a lotação de repartição do Ministério do Trabalho e Providência Social.

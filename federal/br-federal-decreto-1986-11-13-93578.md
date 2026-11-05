@@ -1,5 +1,3 @@
-###DEC-093578-0-000-13-11-1986@@@
-
 DECRETO Nº 93.578, DE 13 DE NOVEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO TELEVISÃO DE SERGIPE LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Aracaju, Estado de Sergipe.

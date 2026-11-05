@@ -1,5 +1,3 @@
-###DEC-085856-0-000-30-03-1981@@@
-
 Decreto nº 85.856, de 30 de março de 1981.
 
 Autoriza o funcionamento do curso de Tecnólogo em Processamento de Dados, do Centro de Estudos Superiores de Londrina, com sede na cidade de Londrina, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-052789-0-000-30-10-1963@@@
-
 DECRETO Nº 52.789, DE 30 DE OUTUBRO DE 1963.
 
 Declara de utilidade pública por interêsse social, para fins de desapropriação metade da propriedade rural “Sobrado”, situada em Mamanguape estado da Paraíba, e dá outras providências.

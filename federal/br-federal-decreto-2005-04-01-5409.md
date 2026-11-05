@@ -1,5 +1,3 @@
-###DEC-005409-0-000-01-04-2005@@@
-
 DECRETO Nº 5.409 DE 1º DE ABRIL DE 2005
 
  Dispõe sobre a criação da Embaixada do Brasil no Estado do Catar, com sede em Doha.

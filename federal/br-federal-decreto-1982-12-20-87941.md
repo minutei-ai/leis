@@ -1,5 +1,3 @@
-###DEC-087941-0-000-20-12-1982@@@
-
 Decreto nº 87.941, de 20 de dezembro de 1982
 
 Autoriza a Empresa Brasileira de Radiodifusão - RADIOBRÁS, a promover aumento de capital social.

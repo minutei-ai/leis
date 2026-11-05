@@ -1,5 +1,3 @@
-###DEC-069135-0-000-30-08-1971@@@
-
 DECRETO Nº 69.135, DE 30 DE AGÔSTO DE 1971.
 
 Outorga à Companhia Telefônica de Alagoas concessão para explorar o serviço de Telefonia Público Urbano em todos os Municípios do Estado de Alagoas e dá outras providências.

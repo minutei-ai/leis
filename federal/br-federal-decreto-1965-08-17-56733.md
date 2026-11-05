@@ -1,5 +1,3 @@
-###DEC-056733-0-000-17-08-1965@@@
-
 DECRETO Nº 56.733, DE 17 DE AGÔSTO DE 1965.
 
 Concede à Santos, Nogueira Minérios S.A. autorização para funcionar como emprêsa de mineração.

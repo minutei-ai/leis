@@ -1,5 +1,3 @@
-###DEC-007802-0-000-13-09-2012-PUB-01@@@
-
 DECRETO N° 7.802, DE 13 DE SETEMBRO DE 2012
 
 Altera o Decreto n° 5.342, de 14 de janeiro de 2005, que regulamenta a Lei n° 10.891, de 9 de julho de 2004, que institui a Bolsa-Atleta.

@@ -1,5 +1,3 @@
-###DEL-003488-0-000-12-08-1941@@@
-
 DECRETO-LEI N. 3.488 – DE 12 DE AGOSTO DE 1941
 
 Cria o função gratificada de chefe de Portaria da Faculdade Nacional de Filosofia e dá outras providências

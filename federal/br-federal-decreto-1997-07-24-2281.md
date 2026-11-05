@@ -1,5 +1,3 @@
-###DEC-002281-0-000-24-07-1997@@@
-
 DECRETO Nº 2.281, DE 24 DE JULHO DE 1997
 
 Dispõe sobre o remanejamento, em caráter temporário, dos cargos em comissão que menciona, e dá outras providências.

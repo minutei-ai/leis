@@ -1,5 +1,3 @@
-###DEC-003936-0-000-24-09-2001@@@
-
 DECRETO Nº 3.936, DE 24 DE SETEMBRO DE 2001
 
  Dispõe sobre a contrapartida do Distrito Federal e dos Estados na celebração de convênios destinados à execução do Curso de Complementação do Ensino Fundamental, na modalidade de educação de jovens e adultos trabalhadores do Projeto de Profissionalização dos Trabalhadores da Área de Enfermagem - PROFAE.

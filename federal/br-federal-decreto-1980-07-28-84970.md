@@ -1,5 +1,3 @@
-###DEC-084970-0-000-28-07-1980@@@
-
 Decreto nº 84.970, de 28 de julho de 1980.
 
 Declara de interesse social, para fins de desapropriação, imóveis situados nos Municípios de Xaxim, Xanxerê e Abelardo Luz, no Estado de Santa Catarina, compreendidos na área prioritária de reforma agrária, de que trata o Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

@@ -1,5 +1,3 @@
-###DEC-069886-0-000-31-12-1971@@@
-
 DECRETO Nº 69.886 - DE 31 DE DEZEMBRO DE 1971
 
 Redistribui, com as respectivas ocupantes, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, cargos originários dos extintos Lloyd Brasileiro - Património Nacional e Serviços de navegação da Amazônia e de Administração do Pôrto do Pará.

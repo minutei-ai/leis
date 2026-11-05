@@ -1,5 +1,3 @@
-###DEC-005786-0-000-24-05-2006@@@
-
 DECRETO Nº 5.786, DE 24 DE MAIO DE 2006.
 
 Dispõe sobre os centros universitários e dá outras providências.

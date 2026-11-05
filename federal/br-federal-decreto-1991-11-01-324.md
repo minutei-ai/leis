@@ -1,7 +1,3 @@
-1
-
-###DEC-000324-0-000-01-11-1991@@@
-
 DECRETO Nº 324, DE 1º DE NOVEMBRO DE 1991
 
 Define bens de pequeno valor, para efeito da não incidência do imposto sobre a renda e proventos de qualquer natureza sobre ganhos de capital e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095809-0-000-10-03-1988@@@
-
 DECRETO N° 95.809, DE 10 DE MARÇO DE 1988
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração de Assis, São Paulo.

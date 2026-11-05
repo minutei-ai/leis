@@ -1,5 +1,3 @@
-###DEC-049274-0-000-17-11-1960@@@
-
 DECRETO Nº 49.274, DE 17 DE NOVEMBRO DE 1960.
 
 Transfere sem aumento de despesa, função de Tabela Numérica Especial de Extranumerário-Mensalista de repartições do Ministério da Agricultura, que menciona.

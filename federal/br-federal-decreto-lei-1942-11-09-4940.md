@@ -1,5 +1,3 @@
-###DEL-004940-0-000-09-11-1942@@@
-
 DECRETO-LEI N. 4.940 – DE 9 DE NOVEMBRO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito suplementar de Cr$ 2.000,00 à verba que especifica

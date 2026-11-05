@@ -1,5 +1,3 @@
-###DEC-075018-0-000-02-12-1974@@@
-
 Decreto nº 75.018, de 2 de dezembro de 1974.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras de Saneamento - DNOS, terras e benfeitorias situadas no Município de São João de Meriti no Estado do Rio de Janeiro.

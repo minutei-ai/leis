@@ -1,5 +1,3 @@
-###DEC-056376-0-000-31-05-1965@@@
-
 DECRETO Nº 56.376, DE 31 DE MAIO DE 1965.
 
 Outorga concessão à Rádio Urubupungá Ltda. para instalar uma emissora de radiodifusão sonora.

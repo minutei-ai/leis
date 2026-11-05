@@ -2,7 +2,11 @@ Revogada pela Lei nº [4.063 , de 15 de Dezembro de 2022.](https://legis.ac.gov.
 
 > **LEI Nº 3.886, DE 21 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fixa o subsídio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2022.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fixa o subsídio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2022.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

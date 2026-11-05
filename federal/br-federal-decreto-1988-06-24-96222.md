@@ -1,5 +1,3 @@
-###DEC-096222-0-000-24-06-1988@@@
-
 DECRETO N° 96.222, DE 24 DE JUNHO DE 1988
 
 Renova a concessão outorgada a FUNDAÇÃO EDUCACIONAL DOM PEDRO FELIPAK, para explorar serviço de radiodifusão sonora em onda média, na cidade de Jacarezinho, Estado do Paraná.

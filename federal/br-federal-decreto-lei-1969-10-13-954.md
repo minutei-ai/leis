@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d0643271-94eb-4a4b-9105-59175417cf08/texto#nowhere)
 
-###DEL-000954-0-000-13-10-1969@@@
-
 Decreto-lei nº 954, de 13 dE Outubro de 1969
 
 Concede pensão especial ao pintor Homero Massena.

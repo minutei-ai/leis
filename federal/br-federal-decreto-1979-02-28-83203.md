@@ -1,5 +1,3 @@
-###DEC-083203-0-000-28-02-1979@@@
-
 Decreto nº 83.203, de 28 de fevereiro de 1979
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Antônio de Vasconcelos pelo Decreto nº 25.899, de 02 de dezembro de 1948.

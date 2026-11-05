@@ -28,8 +28,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogando
 
 Aparecida de Goiânia, Estado de Goiás, aos 17 de julho de 2024.
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana

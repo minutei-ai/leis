@@ -1,5 +1,3 @@
-###DEC-084939-0-000-21-07-1980@@@
-
 Decreto nº 84.939, de 21 de julho de 1980.
 
 Autoriza o funcionamento do curso de Arquitetura e Urbanismo da União das Faculdades Francanas de Franca, Estado de São Paulo.

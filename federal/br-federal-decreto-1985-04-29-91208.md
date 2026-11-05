@@ -1,5 +1,3 @@
-###DEC-091208-0-000-29-04-1985@@@
-
 Decreto nº 91.208, de 29 de abril de 1985
 
 Autoriza o aumento do capital social da Empresa Brasileira de Trens Urbanos de Porto Alegre S/A - TRENSURB.

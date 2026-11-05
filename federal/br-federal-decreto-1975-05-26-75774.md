@@ -1,5 +1,3 @@
-###DEC-075774-0-000-26-05-1975@@@
-
 DECRETO Nº 75.774, DE 26 DE MAIO DE 1975.
 
 Concede reconhecimento aos cursos de Engenharia Mecânica e de Engenharia Elétrica da Universidade Federal de Santa Catarina, com sede na Cidade de Florianópolis, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###MPV-001950-0-071-14-12-2000@@@
-
 MEDIDA provisória nº 1.950-71, de 14 de dezembro de 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

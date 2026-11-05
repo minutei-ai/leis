@@ -1,5 +1,3 @@
-###DEL-004218-0-000-30-03-1942@@@
-
 DECRETO-LEI N. 4.218 – DE 30 DE MARÇO DE 1942
 
 Autoriza operações de crédito entre o Tesouro Nacional e o Banco do Brasil, para liquidação das contas do exercício de 1941.

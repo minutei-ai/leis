@@ -1,5 +1,3 @@
-###DEC-091868-0-000-01-11-1985@@@
-
 Decreto nº 91.868, de 01 de novembro de 1985
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO ALVORADA DE PIRACICABA LTDA., para o SISTEMA JORNAL DE RÁDIO LTDA.

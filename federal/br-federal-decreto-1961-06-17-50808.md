@@ -1,5 +1,3 @@
-###DEC-050808-0-000-17-06-1961@@@
-
 DECRETO Nº 50.808, DE 17 DE JUNHO DE 1961.
 
 Dá nova redação ao dispositivo que indica.

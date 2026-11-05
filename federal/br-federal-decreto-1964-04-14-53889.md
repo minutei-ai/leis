@@ -1,5 +1,3 @@
-###DEC-053889-0-000-14-04-1964@@@
-
 DECRETO Nº 53.889, DE 14 DE ABRIL DE 1964.
 
 Revoga o Decreto nº 51.857, de 29 de março de 1963, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055695-0-000-02-02-1965@@@
-
 DECRETO Nº 55.695, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Tasso Pinheiro a pesquisar calcário, ao Município de Eldorado, Estado de São Paulo.

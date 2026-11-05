@@ -1,5 +1,3 @@
-###DEC-047829-0-000-04-03-1960@@@
-
 DECRETO Nº 47.829, DE 4 DE MARÇO DE 1960.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$10.000.000,00 para atender às despesas com a construção, em São Paulo, da nova sede social da “Colmeia”, instituição para a juventude.

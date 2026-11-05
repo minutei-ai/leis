@@ -1,5 +1,3 @@
-###DEC-060028-0-000-11-01-1967@@@
-
 DECRETO Nº 60.028, DE 11 DE JANEIRO DE 1967.
 
 Autorizou o cidadão brasileiro Luiz Mitio Sugawara a lavrar água potável, no município de Osvaldo Cruz, no Estado de São Paulo.

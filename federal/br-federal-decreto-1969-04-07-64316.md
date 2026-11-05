@@ -1,5 +1,3 @@
-###DEC-064316-0-000-07-04-1969@@@
-
 DECRETO Nº 64.316, DE 7 DE ABRIL DE 1969.
 
 Declara caduco o Decreto nº 12.267, de 14 de abril de 1943.

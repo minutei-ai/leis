@@ -1,5 +1,3 @@
-###DEC-046645-0-000-17-08-1959@@@
-
 DECRETO Nº 46.645, DE 17 DE agôsto DE 1959.
 
 Autoriza o cidadão brasileiro Joaquim Frederico de Souza Araújo a pesquisar ilmenita e associados, no município de Araioses, Estado de Maranhão.

@@ -1,5 +1,3 @@
-###DEL-001608-0-000-28-02-1978@@@
-
 # DECRETO-LEI nº 1.608, de 28 de fevereiro de 1978.
 
 Altera incentivo fiscal previsto na legislação do Imposto de Renda.

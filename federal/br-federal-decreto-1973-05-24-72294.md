@@ -1,5 +1,3 @@
-###DEC-072294-0-000-24-05-1973@@@
-
 DECRETO Nº 72.294, DE 24 DE MAIO DE 1973.
 
 Altera a redação do artigo 95, do Regulamento do código do Nacional de Trânsito.

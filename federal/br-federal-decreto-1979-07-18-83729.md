@@ -1,5 +1,3 @@
-###DEC-083729-0-000-18-07-1979@@@
-
 decreto nº 83.729, de 18 de julho de 1979.
 
 Concede à Pedreira Guaiuba Ltda. o direito de lavrar granito no Município de São Vicente, Estado de São Paulo.

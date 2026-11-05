@@ -1,5 +1,3 @@
-###DEC-071929-0-000-19-03-1973@@@
-
 DECRETO Nº 71.929, DE 19 DE MARÇO DE 1973.
 
 Autoriza ò funcionamento do curso de Matemática, da Faculdade de Filosofia, Ciências e Letras, mantida pelo Instituto Educacional Seminário PauloPolitano de São Paulo - SP.

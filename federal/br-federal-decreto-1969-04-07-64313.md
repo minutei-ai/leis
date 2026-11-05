@@ -1,5 +1,3 @@
-###DEC-064313-0-000-07-04-1969@@@
-
 DECRETO Nº 64.313, DE 7 DE ABRIL DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão, uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde Pombal, no município de Barra Mansa, Estado do Rio de Janeiro, até o município de Cachoeira Paulista, no Estado de São Paulo.

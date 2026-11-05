@@ -1,5 +1,3 @@
-###DEC-046962-0-000-02-10-1959@@@
-
 DECRETO Nº 46.962, DE 02 DE OUTUBRO DE 1959.
 
 Concede autorização à Emprêsa de Luz e Fôrça de Florianópolis S.A. para vender dois grupos geradores diesel-elétricos.

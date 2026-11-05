@@ -1,5 +1,3 @@
-###DEC-059259-0-000-22-09-1966@@@
-
 DECRETO Nº 59.259, DE 22 DE SETEMBRO DE 1966.
 
 Retifica o enquadramento dos cargos, funções e empregos do Ministério da Educação e Cultura.

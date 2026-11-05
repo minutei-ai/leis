@@ -1,5 +1,3 @@
-###DEC-047242-0-000-16-11-1959@@@
-
 DECRETO Nº 47.242, DE 16 DE NOVEMBRO DE 1959.
 
 Aprova alteração introduzida nos estatutos, inclusive aumento do capital social da Companhia Hemisférica de Seguros.

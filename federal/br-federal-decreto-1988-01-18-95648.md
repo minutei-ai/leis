@@ -1,7 +1,3 @@
-1
-
-###DEC-095648-0-000-18-01-1988@@@
-
 DECRETO N° 95.648, DE 18 DE JANEIRO DE 1988
 
 Altera o Decreto n° 71.848, de 16 de fevereiro de 1973, que regulamenta para o Exército, a Lei n° 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos Oficiais da Ativa das Forças Armadas.

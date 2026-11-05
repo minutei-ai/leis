@@ -1,5 +1,3 @@
-###DEL-001963-0-000-14-10-1982@@@
-
 # Decreto-lei nº 1.963, de 14 de outubro de 1982
 
 Dispõe sobre recursos do Programa Nacional de Política Fundiária, sobre financiamento de projetos de construção de casa para o trabalhador rural e dá outras providências.

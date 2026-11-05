@@ -46,13 +46,16 @@ V – estimular a disponibilização de canal de denúncias para atendimento de 
 
 VI – estimular a qualificação dos migrantes para sua inserção no mercado de trabalho.
 
-VII – assegurar às crianças e aos adolescentes descendentes de migrantes educação acessível e de qualidade da língua portuguesa, bem como o acesso ao Sistema Único de Saúde (SUS); e<br>
+VII – assegurar às crianças e aos adolescentes descendentes de migrantes educação acessível e de qualidade da língua portuguesa, bem como o acesso ao Sistema Único de Saúde (SUS); e
+
 \- [Acrescido pela Lei nº 22.962, de 30-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109430/lei-22962)..
 
-VIII – estimular a instituição, pelo Poder Público estadual, de certificações e premiações com vistas a reconhecer iniciativas de entidades da sociedade civil organizada e de instituições públicas ou privadas que venham a colaborar com os objetivos previstos nesta Lei.<br>
+VIII – estimular a instituição, pelo Poder Público estadual, de certificações e premiações com vistas a reconhecer iniciativas de entidades da sociedade civil organizada e de instituições públicas ou privadas que venham a colaborar com os objetivos previstos nesta Lei.
+
 \- [Acrescido pela Lei nº 22.962, de 30-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109430/lei-22962)..
 
-Parágrafo único. (VETADO).<br>
+Parágrafo único. (VETADO).
+
 \- [Acrescido pela Lei nº 22.962, de 30-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109430/lei-22962)..
 
 Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente, conforme estabelecido no art. 3º da [Lei Complementar nº 112](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101099), de 18 de setembro de 2014.

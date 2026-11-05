@@ -1,5 +1,3 @@
-###DEC-046093-0-000-19-05-1959@@@
-
 Decreto nº 46.093, de 19 de maio de 1950.
 
 Declara públicas de uso comum, do domínio do Estado de Goiás, as águas do rio “Lages”.

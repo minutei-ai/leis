@@ -1,5 +1,3 @@
-###DEC-082343-0-000-28-09-1978@@@
-
 Decreto nº 82 343, de 28 de setembro de 1978.
 
 Dispõe sobre a transferência, para o fundo PIS-PASEP, dos dividendos das ações de propriedade da União de que trata a Lei nº 6 419, de 2 de junho de 1977, e dá outras providências.

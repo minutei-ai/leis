@@ -1,5 +1,3 @@
-###DEC-075721-0-000-12-05-1975@@@
-
 DECRETO Nº 75.721, DE 12 DE MAIO DE 1975.
 
 Cassa concessão outorgada à Rádio Difusora São Paulo S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Campinas, Estado de São Paulo.

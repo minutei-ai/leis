@@ -1,5 +1,3 @@
-###DEC-047330-0-000-02-12-1959@@@
-
 DECRETO Nº 47.330, DE 2 DE DEZEMBRO DE 1959.
 
 Autoriza a “Siemibra” Sociedade Extrativa de Minérios Brasileiros Limitada, a pesquisar água mineral, amianto e dolomita no município de Miracatu, Estado de São Paulo.

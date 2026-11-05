@@ -1,5 +1,3 @@
-###DEL-009077-0-000-19-03-1946@@@
-
 DECRETO-LEI N. 9.077 – DE 19 DE MARÇO DE 1946
 
 Revoga o Decreto-lei nº 8.686, de 16 de Janeiro de 1946, que incorporou  o Instituto Osvaldo Cruz à Universidade do Brasil e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###MPV-000779-0-000-23-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 779, DE 23 DE DEZEMBRO DE 1994
 
 Dispõe sobre a instituição de crédito fiscal, mediante ressarcimento do valor de contribuições sociais (PIS/Pasep e Confins) nos casos que especifica, e dá outras providências.

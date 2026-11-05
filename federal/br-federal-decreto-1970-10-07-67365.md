@@ -1,5 +1,3 @@
-###DEC-067365-0-000-07-10-1970@@@
-
 DECRETO Nº 67.365, DE 7 DE OUTUBRO DE 1970.
 
 Torna sem efeito redistribuição de funcionário da extinta Companhia Nacional de Navegação Costeira.

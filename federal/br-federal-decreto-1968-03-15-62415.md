@@ -1,5 +1,3 @@
-###DEC-062415-0-000-15-03-1968@@@
-
 DECRETO Nº 62.415, DE 15 DE MARÇO DE 1968.
 
 Retifica o Quadro Único de Pessoal da Universidade Federal Rural de Pernambuco.

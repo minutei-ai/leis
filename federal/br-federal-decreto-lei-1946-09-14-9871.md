@@ -1,5 +1,3 @@
-###DEL-009871-0-000-14-09-1946@@@
-
 DECRETO-LEI N. 9.871 – DE 14 DE SETEMBRO DE 1946
 
 Aprova o Acôrdo sôbre Transportes Aéreos entre o Brasil e os Estados Unidos da América, firmado no Rio de Janeiro, a 6 de Setembro de 1946, do qual faz parte o anexo Protocolo de Assinatura.

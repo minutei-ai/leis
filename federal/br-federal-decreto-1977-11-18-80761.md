@@ -1,5 +1,3 @@
-###DEC-080761-0-000-18-11-1977@@@
-
 Decreto nº 80.761, de 18 de novembro de 1977.
 
 Dá nova redação ao artigo 9º do Decreto nº 75.781, de 28 de maio de 1975, que dispõe sobre o Programa Especial de Bolsas de Estudo - PEBE.

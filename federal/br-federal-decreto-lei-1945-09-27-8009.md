@@ -1,5 +1,3 @@
-###DEL-008009-0-000-27-09-1945@@@
-
 DECRETO-LEI N. 8.009 – DE 27 DE SETEMBRO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 3.000.000,00, para despesas com a Conferência Interamericana para manutenção da paz e segurança do Continente.

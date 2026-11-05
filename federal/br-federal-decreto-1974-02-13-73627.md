@@ -1,5 +1,3 @@
-###DEC-073627-0-000-13-02-1974@@@
-
 DECRETO Nº 73.627, DE 13 DE FEVEREIRO DE 1974.
 
 Dispõe sobre a estrutura básica do Ministério do Planejamento e Coordenação Geral, e dá outras providências.

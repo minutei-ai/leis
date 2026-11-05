@@ -1,5 +1,3 @@
-###DEC-062404-0-000-15-03-1968@@@
-
 DECRETO Nº 62.404, DE 15 DE MARÇO DE 1968.
 
 Declara estado de calamidade pública nas áreas dos Estados de Minas Gerais e Bahia, que especifica, abre o crédito extraordinário de NCr$800.000,00 (oitocentos mil cruzeiros novos) e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-006548-0-000-25-08-2008@@@
-
 DECRETO Nº 6.548, DE 25 DE AGOSTO DE 2008.
 
 Dá nova redação ao art. 9o do Decreto no 2.488, de 2 de fevereiro de 1998, que define medidas de organização administrativa específicas para as autarquias e fundações qualificadas como Agências Executivas.

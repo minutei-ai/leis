@@ -59,7 +59,3 @@ Art. 19 - Este Decreto-lei entrará em vigor na data de sua publicação, revoga
 Palácio da Liberdade, em Belo Horizonte, 20 de junho de 1947.
 
 MILTON SOARES CAMPOS - Governador do Estado.
-
-\================================================================
-
-Data da última atualização: 12/11/2007

@@ -1,5 +1,3 @@
-###DEC-057279-0-000-17-11-1965@@@
-
 DECRETO Nº 57.279, DE 17 DE NOVEMBRO DE 1965.
 
 Declara de utilidade pública, para fins de desapropriação, área limítrofe à área do Centro Politécnico da Universidade Federal do Paraná, constantes dos loteamentos Gazetta e Zibarth, de propriedade de Rosa Gazetta, Fernando Zibarth e outros, no Município de Curitiba, Estado do Paraná.

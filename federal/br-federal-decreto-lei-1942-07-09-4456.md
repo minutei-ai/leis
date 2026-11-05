@@ -1,5 +1,3 @@
-###DEL-004456-0-000-09-07-1942@@@
-
 DECRETO-LEI N. 4.456 – DE 9 DE JULHO DE 1942
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Associação Promotora da Instrução” do pagamento do imposto que menciona

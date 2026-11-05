@@ -1,5 +1,3 @@
-###DEC-055012-0-000-17-11-1964@@@
-
 DECRETO Nº 55.012, DE 17 DE NOVEMBRO DE 1964.
 
 Declara de utilidade pública a “Irmandade da Santa Casa de Misericórdia de Tambaú”, com sede em Tambaú, Estado de São Paulo.

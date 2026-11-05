@@ -1,5 +1,3 @@
-###DEC-006181-0-000-03-08-2007@@@
-
 DECRETO Nº 6.181, DE 3 DE AGOSTO DE 2007.
 
 Institui o Comitê de Articulação Federativa - CAF.
@@ -105,5 +103,3 @@ Brasília, 3 de agosto de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Walfrido dos Mares Guia
-
-Este texto não substitui o publicado no DOU de 6.8.2007

@@ -1,5 +1,3 @@
-###DEC-071203-0-000-04-10-1972@@@
-
 DECRETO Nº 71.203 - DE 4 DE OUTUBRO DE 1972.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado da Guanabara.

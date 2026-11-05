@@ -1,5 +1,3 @@
-###DEC-069630-0-000-01-12-1971@@@
-
 DECRETO Nº 69.630 - de 1 de Dezembro de 1971
 
 Concede à Mineração Quatinga Ltda., o direito de lavrar quartzito, no município de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-078247-0-000-16-08-1976@@@
-
 DECRETO Nº 78.247, DE 16 DE AGOSTO DE 1976.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080065-0-000-02-08-1977@@@
-
 decreto nº 80.065, de 2 de agosto de 1977.
 
 Revoga o Decreto nº 79.353, de 8 de março 1977, que renovou prazo de concessão outorgada à Fábrica de Tecidos da Gabiroba S.A. para uso exclusivo do aproveitamento hidráulico de um trecho do rio Candidópolis, no Município de Presidente Vargas, atual Município de Itabira, Estado de Minas Gerais.

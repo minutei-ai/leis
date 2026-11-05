@@ -1,5 +1,3 @@
-###DEL-007232-0-000-08-01-1945@@@
-
 DECRETO-LEI N. 7.232 – DE 8 DE JANEIRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 80.400,00, para pagamento de gratificação de representação

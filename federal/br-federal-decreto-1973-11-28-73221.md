@@ -1,5 +1,3 @@
-###DEC-073221-0-000-28-11-1973@@@
-
 DECRETO Nº 73.221 - DE 28 DE NOVEMBRO DE 1973
 
 Altera os limites da Reserva Nambikwara e dá outras providências.

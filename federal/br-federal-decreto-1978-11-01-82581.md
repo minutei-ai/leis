@@ -1,5 +1,3 @@
-###DEC-082581-0-000-01-11-1978@@@
-
 Decreto nº 82.581, de 1º de novembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio Grande do Sul.

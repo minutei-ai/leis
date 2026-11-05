@@ -1,5 +1,3 @@
-###DEC-081035-0-000-15-12-1977@@@
-
 DECRETO Nº 81.035, DE 15 DE DEZEMBRO DE 1977.
 
 Concede reconhecimento ao curso de Bacharelado em Química do Instituto de Física e Química de São Carlos, da Universidade de são Paulo.

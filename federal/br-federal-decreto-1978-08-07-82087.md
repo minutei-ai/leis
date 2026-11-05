@@ -1,5 +1,3 @@
-###DEC-082087-0-000-07-08-1978@@@
-
 DECRETO Nº 82.087, DE 07 DE AGOSTO DE 1978.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação dos terrenos que menciona, situados no Municípios de Salvador, Estado da Bahia.

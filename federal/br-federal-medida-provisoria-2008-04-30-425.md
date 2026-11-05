@@ -1,5 +1,3 @@
-###MPV-000425-0-000-30-04-2008@@@
-
 MEDIDA PROVISÓRIA Nº 425, DE 30 DE ABRIL DE 2008.
 
 Altera os arts. 18 e 19 da Medida Provisória nº 413, de 3 de janeiro de 2008, para postergar a aplicação das disposições relativas à incidência da Contribuição para o PIS/PASEP e da COFINS sobre as receitas auferidas na venda de álcool.
@@ -41,5 +39,3 @@ Brasília, 30 de abril de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 30.4.2008 - Edição extra

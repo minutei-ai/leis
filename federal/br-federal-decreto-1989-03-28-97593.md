@@ -1,5 +1,3 @@
-###DEC-097593-0-000-28-03-1989@@@
-
 DECRETO Nº 97.593, DE 28 DE MARÇO DE 1989
 
 Concede autorização para a reorganização das instituições financeiras estrangeiras em funcionamento no País.

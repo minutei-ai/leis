@@ -1,5 +1,3 @@
-###DEC-050565-0-000-09-05-1961@@@
-
 DECRETO Nº 50.565, DE 9 DE MAIO DE 1961.
 
 Revoga os decretos que concederam a Produtos Farmacêuticos e Biológicos Ayrst do Brasil S.A. autorização para funcionar na República.

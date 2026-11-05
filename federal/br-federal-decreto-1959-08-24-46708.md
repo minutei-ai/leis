@@ -1,5 +1,3 @@
-###DEC-046708-0-000-24-08-1959@@@
-
 DECRETO Nº 46.708, DE 24 DE AGÔSTO DE 1959.
 
 Autoriza o Patrimônio da União, a aceitar a doação de terreno, na Cidade de Santiago, no Estado do Rio Grande do Sul que faz particular ao Ministério da Guerra.

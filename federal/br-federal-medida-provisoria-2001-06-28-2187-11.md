@@ -1,5 +1,3 @@
-###MPV-002187-0-011-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.187‑11, DE 28 DE JUNHO DE 2001
 
 Dispõe sobre o reajuste dos benefícios mantidos pela Previdência Social, e altera dispositivos das Leis nos 6.015, de 31 de dezembro de 1973, 8.212 e 8.213, de 24 de julho de 1991, 8.742, de 7 de dezembro de 1993, 9.604, de 5 de fevereiro de 1998, 9.639, de 25 de maio de 1998, 9.717, de 27 de novembro de 1998, e 9.796, de 5 de maio de 1999, e dá outras providências.
@@ -280,4 +278,54 @@ ANEXO
 
 FATOR DE REAJUSTE DOS BENEFÍCIOS CONCEDIDOS DE ACORDO COM AS RESPECTIVAS DATAS DE INÍCIO
 
-<table cellspacing="0" cellpadding="0" style="margin-left:42.3pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:217.45pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">DATA DO INÍCIO DO BENEFÍCIO</span></p></td><td style="width:217.45pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">REAJUSTE (%)</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">até junho/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">5,81</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em julho/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">5,31</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em agosto/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">4,82</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em setembro/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">4,33</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em outubro/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">3,84</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em novembro/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">3,35</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em dezembro/1999</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">2,86</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em janeiro/2000</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">2,38</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em fevereiro/2000</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">1,90</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em março/2000</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">1,42</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em abril/2000</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">0,95</span></p></td></tr><tr><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt">em maio/2000</span></p></td><td style="width:217.45pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">0,47</span></p></td></tr></tbody></table>
+DATA DO INÍCIO DO BENEFÍCIO
+
+REAJUSTE (%)
+
+até junho/1999
+
+5,81
+
+em julho/1999
+
+5,31
+
+em agosto/1999
+
+4,82
+
+em setembro/1999
+
+4,33
+
+em outubro/1999
+
+3,84
+
+em novembro/1999
+
+3,35
+
+em dezembro/1999
+
+2,86
+
+em janeiro/2000
+
+2,38
+
+em fevereiro/2000
+
+1,90
+
+em março/2000
+
+1,42
+
+em abril/2000
+
+0,95
+
+em maio/2000
+
+0,47

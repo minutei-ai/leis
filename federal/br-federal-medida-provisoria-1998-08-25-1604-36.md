@@ -1,5 +1,3 @@
-###MPV-001604-0-036-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.604-36, DE 25 DE AGOSTO 1998
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

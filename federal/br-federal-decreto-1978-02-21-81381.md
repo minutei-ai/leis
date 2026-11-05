@@ -1,5 +1,3 @@
-###DEC-081381-0-000-21-02-1978@@@
-
 Decreto nº 81.381 de 21 de fevereiro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Laguna, Estado de Santa Catarina.

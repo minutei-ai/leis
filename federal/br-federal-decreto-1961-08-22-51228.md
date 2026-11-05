@@ -1,5 +1,3 @@
-###DEC-051228-0-000-22-08-1961@@@
-
 DECRETO Nº 51.228, DE 22 DE AGÔSTO DE 1961.
 
 Concede à sociedade estrangeira Bank of London & South America Limited autorização para aumentar o seu capital no País.

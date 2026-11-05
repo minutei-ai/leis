@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211359)<br>
-
 # DECRETO N° 69.825, DE 26 DE AGOSTO DE 2025
 
 ### _Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à execução de programa habitacional e de desenvolvimento e requalificação urbana, no Município de São Paulo, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-073655-0-000-15-02-1974@@@
-
 DECRETO Nº 73.655, DE 15 DE FEVEREIRO DE 1974.
 
 Autoriza a reversão do terreno que menciona, situado no Município de Lajeado, Estado do Rio Grande do Sul.

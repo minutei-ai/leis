@@ -1,5 +1,3 @@
-###DEL-000335-0-000-18-10-1967@@@
-
 DECRETO-LEI Nº 335, DE 18 DE OUTUBRO DE 1967
 
 Altera o Decreto-lei nº 208, de 27 de fevereiro de 1967, e dá outras providências.

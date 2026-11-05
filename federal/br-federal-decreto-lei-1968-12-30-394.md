@@ -1,5 +1,3 @@
-###DEL-000394-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 394, DE 30 DE DEZEMBRO DE 1968
 
 Autoriza o Poder Executivo a abrir á Presidência da República, em favor da Agência Nacional o crédito especial de NCr$350.000,00 para o fim que especifica.

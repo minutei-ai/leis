@@ -1,5 +1,3 @@
-###DEC-000000-0-000-11-04-1823@@@
-
 DECRETO - DE 11 DE ABRIL DE 1823
 
 Crêa uma companhia de infantaria de 2ª linha na villa de S. Matheus, Provincia do Espirito Santo.
@@ -12,6 +10,44 @@ João Vieira de Carvalho.
 
 # Plano de organização de uma companhia de infantaria de 2ª linha, mandada crear por Decreto desta mesma data na villa de J. Matheus, da Provincia do Espirito Santo
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Capitão.......................................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">1</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Tenente.......................................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">1</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Alferes.........................................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">2</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">1º Sargento.................................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">1</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">2</span><span style="font-family:Arial; font-size:6.67pt; vertical-align:super">os</span><span style="font-family:Arial; font-size:10pt"> Sargentos..............................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">2</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Forriel..........................................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">1</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Cabos de esquadra....................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">8</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Soldados.....................................................................................................................................................</span></p></td><td style="width:18.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">80</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Tambores....................................................................................................................................................</span></p></td><td style="width:18.7pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">2</span></p></td></tr><tr><td style="width:456.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">Total.................................................................................................</span></p></td><td style="width:18.7pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt"><span style="font-family:Arial; font-size:10pt">98</span></p></td></tr></tbody></table>
+Capitão.......................................................................................................................................................
+
+1
+
+Tenente.......................................................................................................................................................
+
+1
+
+Alferes.........................................................................................................................................................
+
+2
+
+1º Sargento.................................................................................................................................................
+
+1
+
+2os Sargentos..............................................................................................................................................
+
+2
+
+Forriel..........................................................................................................................................................
+
+1
+
+Cabos de esquadra....................................................................................................................................
+
+8
+
+Soldados.....................................................................................................................................................
+
+80
+
+Tambores....................................................................................................................................................
+
+2
+
+Total.................................................................................................
+
+98
 
 Paço em 11 de Abril de 1823. - João Vieira de Carvalho.

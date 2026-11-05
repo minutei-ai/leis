@@ -1,5 +1,3 @@
-###DEC-057996-0-000-14-03-1966@@@
-
 DECRETO Nº 57.996, DE 14 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Paulo Anawate a pesquisar areia quartzosa no município de Mongaguá, Estado de São Paulo.

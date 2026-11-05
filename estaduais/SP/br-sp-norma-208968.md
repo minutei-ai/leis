@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208968)<br>
-
 # DECRETO N° 68.219, DE 15 DE DEZEMBRO DE 2023
 
 ### _Dá nova redação a dispositivo do Decreto n° 65.664, de 30 de abril de 2021, que dispõe sobre o Conselho Estadual do Trabalho, Emprego e Renda do Estado de São Paulo - CETER-SP_

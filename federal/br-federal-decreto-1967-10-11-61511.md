@@ -1,5 +1,3 @@
-###DEC-061511-0-000-11-10-1967@@@
-
 DECRETO Nº 61.511, DE 11 DE OUTUBRO DE 1967.
 
 Retifica o Decreto nº 61.110, de 28 de julho de 1967, publicado no Diário Oficial de 1º de agôsto seguinte, que trata da inclusão, em outros órgãos da administração pública federal, do pessoal do extinto Conselho Nacional de Economia, e dá outras providências.

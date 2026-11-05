@@ -56,8 +56,6 @@ Art. 4º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 20 de dezembro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -81,10 +79,14 @@ Os empreendimentos e as atividades modificadoras do meio ambiente são enquadrad
 
 Legenda:
 
-P = pequeno;<br>
-M = médio;<br>
-G = grande;<br>
-A = alto; e<br>
+P = pequeno;
+
+M = médio;
+
+G = grande;
+
+A = alto; e
+
 números = indicam a respectiva classe.
 
 TIPOLOGIA E PORTE DOS EMPREENDIMENTOS E ATIVIDADES SUJEITOS AO LICENCIAMENTO AMBIENTAL

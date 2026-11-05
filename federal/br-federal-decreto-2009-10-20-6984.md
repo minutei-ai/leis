@@ -1,5 +1,3 @@
-###DEC-006984-0-000-20-10-2009@@@
-
 DECRETO Nº 6.984, DE 20 DE OUTUBRO DE 2009.
 
 Dá nova redação ao art. 2o do Decreto no 6.983, de 19 de outubro de 2009, que altera o Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF, para dispor sobre a produção de efeitos.

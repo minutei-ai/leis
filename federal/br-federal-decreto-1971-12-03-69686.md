@@ -1,5 +1,3 @@
-###DEC-069686-0-000-03-12-1971@@@
-
 Decreto nº 69.686 - de 03 de dezembro de 1971
 
 Autoriza o funcionamento da Faculdade de Educação do Pontifício Instituto das Missões, em Assis, São Paulo.

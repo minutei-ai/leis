@@ -1,5 +1,3 @@
-###DEC-002399-0-000-21-11-1997@@@
-
 DECRETO Nº 2.399, DE 21 DE NOVEMBRO DE 1997
 
 Estabelece medidas no âmbito do Poder Executivo, para a reavaliação e renegociação de compras e contratos.

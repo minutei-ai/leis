@@ -1,5 +1,3 @@
-###DEC-051671-0-000-18-01-1963@@@
-
 DECRETO Nº 51.671, DE 18 DE JANEIRO DE 1963.
 
 Retifica o Decreto nº 48.947, de 15 de setembro de 1960.

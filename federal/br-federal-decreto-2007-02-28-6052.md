@@ -1,5 +1,3 @@
-###DEC-006052-0-000-28-02-2007@@@
-
 DECRETO Nº 6.052, DE 28 DE FEVEREIRO DE 2007.
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Complementação Econômica no 59, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do Mercosul, e os Governos da República Bolivariana da Venezuela, da República da Colômbia e da República do Equador, de 18 de agosto de 2006.
@@ -22,11 +20,7 @@ Brasília, 28 de fevereiro de 2007; 186o da Independência e 119o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 28.2.2007 Ed. extra.
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 59 ASSINADO ENTRE OS GOVERNOS DA
+Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 59 ASSINADO ENTRE OS GOVERNOS DA
 
 REPÚBLICA ARGENTINA, DA REPÚBLICA FEDERATIVA DO BRASIL, DA REPÚBLICA DO PARAGUAI
 
@@ -52,7 +46,21 @@ Artigo 1. - Nas notas de todos os itens dos Capítulos 61, 62 e 63 do Apêndice 
 
 Artigo 2. - No Apêndice 3.8 “Requisitos bilaterais acordados entre a República do Paraguai e a República do Equador” do Anexo IV “Regime de Origem”, eliminar a observação mencionada nos Capítulos 61 a 63 e incorporar os seguintes requisitos específicos de origem para esses Capítulos:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:99.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NALADI/SH 96</span></p></td><td style="width:340.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">REQUISITO ESPECÍFICO</span></p></td></tr><tr><td style="width:99.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capítulo 61</span></p></td><td style="width:340.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tecidos a partir de fios das partes signatárias. Os filamentos e monofilamentos de poliuretano das subposições 540249 e 540410 podem ser provenientes de terceiros países. Para as posições NALADI/SH 6110 e 6115 aceita-se, em peso, um “de minimis” de 7%. Nota: O requisito é aplicado para os tecidos internos e externos.</span></p></td></tr><tr><td style="width:99.05pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capítulo 62</span></p></td><td style="width:340.45pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tecidos a partir de fios das partes signatárias. Os filamentos e monofilamentos de poliuretano das subposições 540249 e 540410 podem ser provenientes de terceiros países. Para as posições NALADI/SH 6213 e 6214 aceita-se, em peso, um “de minimis” de 7%. Nota: O requisito é aplicado para todos os tecidos internos e externos</span></p></td></tr><tr><td style="width:99.05pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capítulo 63</span></p></td><td style="width:340.45pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tecidos a partir de fios das partes signatárias. Os filamentos e monofilamentos de poliuretano das subposições 540249 e 540410 podem ser provenientes de terceiros países. Para os itens NALADI/SH 63021000; 63024000; 63031100; 63031200; 63031900 e 63041100 aceita-se, em peso, um “de minimis” de 7%. Nota: O requisito é aplicado para os tecidos internos e externos.</span></p></td></tr></tbody></table>
+NALADI/SH 96
+
+REQUISITO ESPECÍFICO
+
+Capítulo 61
+
+Tecidos a partir de fios das partes signatárias. Os filamentos e monofilamentos de poliuretano das subposições 540249 e 540410 podem ser provenientes de terceiros países. Para as posições NALADI/SH 6110 e 6115 aceita-se, em peso, um “de minimis” de 7%. Nota: O requisito é aplicado para os tecidos internos e externos.
+
+Capítulo 62
+
+Tecidos a partir de fios das partes signatárias. Os filamentos e monofilamentos de poliuretano das subposições 540249 e 540410 podem ser provenientes de terceiros países. Para as posições NALADI/SH 6213 e 6214 aceita-se, em peso, um “de minimis” de 7%. Nota: O requisito é aplicado para todos os tecidos internos e externos
+
+Capítulo 63
+
+Tecidos a partir de fios das partes signatárias. Os filamentos e monofilamentos de poliuretano das subposições 540249 e 540410 podem ser provenientes de terceiros países. Para os itens NALADI/SH 63021000; 63024000; 63031100; 63031200; 63031900 e 63041100 aceita-se, em peso, um “de minimis” de 7%. Nota: O requisito é aplicado para os tecidos internos e externos.
 
 Artigo 3. - O presente Protocolo entrará em vigor bilateralmente quando o Equador e o Paraguai tiverem comunicado à Secretaria-Geral da ALADI que o incorporaram a seu direito interno, nos termos de suas respectivas legislações. A Secretaria-Geral da ALADI informará às Partes Signatárias respectivas a data da vigência.
 

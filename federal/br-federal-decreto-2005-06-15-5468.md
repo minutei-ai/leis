@@ -1,5 +1,3 @@
-###DEC-005468-0-000-15-06-2005@@@
-
 DECRETO Nº 5.468, DE 15 DE JUNHO DE 2005
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados - IPI incidentes sobre os produtos relacionados no Decreto nº 4.955, de 15 de janeiro de 2004.
@@ -14,7 +12,53 @@ Altera as alíquotas do Imposto sobre Produtos Industrializados - IPI incidentes
 
         Art.  3º  Ficam suprimidos os "Ex" constantes da Tabela de Incidência do IPI, a seguir relacionados:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:148.3pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">Código</span></p></td><td style="width:74.2pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">"Ex"</span></p></td><td style="width:138.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'Arial                   '">Código</span></p></td><td style="width:75.7pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">"Ex"</span></p></td></tr><tr><td style="width:148.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.40.00</span></p></td><td style="width:74.2pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">01</span></p></td><td style="width:138.3pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.39</span></p></td><td style="width:75.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">01</span></p></td></tr><tr><td style="width:148.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.31</span></p></td><td style="width:74.2pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">01</span></p></td><td style="width:138.3pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.39</span></p></td><td style="width:75.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">02</span></p></td></tr><tr><td style="width:148.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.31</span></p></td><td style="width:74.2pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">02</span></p></td><td style="width:138.3pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.39</span></p></td><td style="width:75.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">03</span></p></td></tr><tr><td style="width:148.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.31</span></p></td><td style="width:74.2pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">03</span></p></td><td style="width:138.3pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.39</span></p></td><td style="width:75.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">04</span></p></td></tr><tr><td style="width:148.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.31</span></p></td><td style="width:74.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">04</span></p></td><td style="width:138.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">8481.80.97</span></p></td><td style="width:75.7pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:12pt"><span style="font-family:'  Arial           '">01</span></p></td></tr></tbody></table>
+Código
+
+"Ex"
+
+Código
+
+"Ex"
+
+8481.40.00
+
+01
+
+8481.80.39
+
+01
+
+8481.80.31
+
+01
+
+8481.80.39
+
+02
+
+8481.80.31
+
+02
+
+8481.80.39
+
+03
+
+8481.80.31
+
+03
+
+8481.80.39
+
+04
+
+8481.80.31
+
+04
+
+8481.80.97
+
+01
 
   Art.  4º  Este Decreto entra em vigor na data de sua publicação.
 

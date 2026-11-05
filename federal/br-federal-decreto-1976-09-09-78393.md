@@ -1,5 +1,3 @@
-###DEC-078393-0-000-09-09-1976@@@
-
 Decreto nº 78.393, de 9 de setembro de 1976.
 
 Dá nova redação ao item I do artigo 4º do Decreto nº 70.913, de 2 de agosto de 1972, que dispõe sobre a transformação em sociedade de economia mista da Empresa Brasileira de Telecomunicações - EMBRATEL, alterado pelo Decreto nº 70.981, de 14 de agosto de 1972.

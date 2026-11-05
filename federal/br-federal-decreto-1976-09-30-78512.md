@@ -1,5 +1,3 @@
-###DEC-078512-0-000-30-09-1976@@@
-
 DECRETO Nº 78.512, DE 30 de SETEMBRO DE 1976.
 
 Autoriza a cessão, sob o regime de aforamento do terreno que menciona, situado no Município de São Luís, Estado do Maranhão.

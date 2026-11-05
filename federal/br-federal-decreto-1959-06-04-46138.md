@@ -1,5 +1,3 @@
-###DEC-046138-0-000-04-06-1959@@@
-
 DECRETO Nº 46.138, de 4 de junho de 1959.
 
 Concede ao Bureau Internacional de L’Edition Mecanique (B.I.E.M.) autorização para funcionar no Brasil.

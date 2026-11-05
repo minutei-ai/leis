@@ -1,5 +1,3 @@
-###DEL-005349-0-000-26-03-1943@@@
-
 DECRETO-LEI N. 5.349 – DE 26 DE MARÇO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 15.258,00, para liquidação de despesas

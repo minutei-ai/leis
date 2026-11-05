@@ -1,7 +1,3 @@
-1
-
-###DEC-085846-0-000-26-03-1981@@@
-
 Decreto nº 85.846, de 26 março de 1981.
 
 Altera a redação dos artigos 1º e 2º do Decreto nº 69.781, de 14 de dezembro de 1971, retificado pelo Decreto nº 70.887, de 28 de julho de 1972, em cumprimento de decisão judicial proferida nos autos da Ação Ordinária nº 9.028/76-RJ.

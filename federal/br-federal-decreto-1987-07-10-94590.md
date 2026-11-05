@@ -1,5 +1,3 @@
-###DEC-094590-0-000-10-07-1987@@@
-
 DECRETO N° 94.590, DE 10 DE JULHO DE 1987
 
 Dá nova redação ao art. 3° do Decreto n° 76.892, de 23 de dezembro da 1975.

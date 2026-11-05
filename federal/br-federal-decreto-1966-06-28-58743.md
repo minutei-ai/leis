@@ -1,5 +1,3 @@
-###DEC-058743-0-000-28-06-1966@@@
-
 decreto nº 58.743, de 28 de junho de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério de Saúde.

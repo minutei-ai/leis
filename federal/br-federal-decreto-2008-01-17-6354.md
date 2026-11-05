@@ -1,5 +1,3 @@
-###DEC-006354-0-000-17-01-2008@@@
-
 DECRETO Nº 6.354, DE 17 DE JANEIRO DE 2008.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do projeto de irrigação Pontal, localizado no Município de Petrolina, no Estado de Pernambuco.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Miguel Jorge
 
 Geddel Vieira Lima
-
-Este texto não substitui o publicado no DOU de 18.1.2008

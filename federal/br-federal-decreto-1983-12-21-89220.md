@@ -1,5 +1,3 @@
-###DEC-089220-0-000-21-12-1983@@@
-
 Decreto nº 89.220, de 21 de dezembro de 1983
 
 Dispõe sobre o limite do Capital Autorizado da PETROFLEX INDÚSTRIA E COMÉRCIO S.A.

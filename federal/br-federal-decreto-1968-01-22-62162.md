@@ -1,5 +1,3 @@
-###DEC-062162-0-000-22-01-1968@@@
-
 DECRETO Nº 62.162, DE 22 DE JANEIRO DE 1968.
 
 Aprova o “Regulamento para a Escola de Guerra Naval”.

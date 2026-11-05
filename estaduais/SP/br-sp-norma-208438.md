@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208438)<br>
-
 # DECRETO N° 67.903, DE 24 DE AGOSTO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias Integradas do Oeste S/A - SPVIAS, as áreas complementares necessárias à duplicação dos trechos entre os km 280 e 282 e entre os km 284 e 288 da Rodovia SP-258, no Município de Itapeva, e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEL-001476-0-000-20-08-1976@@@
-
 # DECRETO-LEI Nº 1.476, DE 20 DE AGOSTO DE 1976
 
 Suspende, até o final do corrente exercício, a vigência das normas legais e regulamentares autorizadas de destinações especiais dos resultados atribuíveis à União nas empresas públicas e sociedades de economia mista federais.

@@ -1,5 +1,3 @@
-###DEC-062489-0-000-01-04-1968@@@
-
 DECRETO Nº 62.489, DE 1 DE ABRIL DE 1968.
 
 Declara de utilidade pública o “Serviço Social Nossa Senhora Medianeira de Tôdas as Graças”, com sede em Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-085935-0-000-27-04-1981@@@
-
 Decreto nº 85.935, de 27 de abril de 1981.
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos municípios do Rio de Janeiro e Niterói, no Estado do Rio de Janeiro e do Recife, no Estado de Pernambuco.

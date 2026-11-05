@@ -1,5 +1,3 @@
-###DEC-007697-0-000-09-03-2012-PUB-01@@@
-
 DECRETO Nº 7.697, DE 9 DE MARÇO DE 2012
 
 Altera o Decreto nº 5.490, de 14 de julho de 2005, que dispõe sobre a composição e funcionamento do Conselho Nacional de Juventude.

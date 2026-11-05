@@ -1,5 +1,3 @@
-###DEC-000126-0-000-22-05-1991@@@
-
 DECRETO N° 126, DE 22 DE MAIO DE 1991
 
 Promulga a Convenção nº 162, da Organização Internacional do Trabalho - OIT, sobre a Utilização do Asbesto com Segurança.

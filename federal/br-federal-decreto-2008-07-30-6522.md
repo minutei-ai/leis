@@ -1,5 +1,3 @@
-###DEC-006522-0-000-30-07-2008@@@
-
 DECRETO Nº 6.522, DE 30 DE JULHO DE 2008.
 
 Prorroga o prazo estabelecido no inciso III do art. 2o do Decreto no 6.248, de 25 de outubro de 2007.

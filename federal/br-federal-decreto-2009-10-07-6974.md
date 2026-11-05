@@ -1,5 +1,3 @@
-###DEC-006974-0-000-07-10-2009@@@
-
 DECRETO Nº 6.974, DE 7 DE OUTUBRO DE 2009.
 
 Promulga o Tratado de Cooperação Jurídica em Matéria Penal entre a República Federativa do Brasil e a Confederação Suíça, celebrado em Berna, em 12 de maio de 2004.

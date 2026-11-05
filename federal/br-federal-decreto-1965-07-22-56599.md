@@ -1,5 +1,3 @@
-###DEC-056599-0-000-22-07-1965@@@
-
 DECRETO Nº 56.599, DE 22 DE JULHO DE 1965.
 
 Altera dispositivo do Regulamento do Fundo Nacional de Investimentos Ferroviários.

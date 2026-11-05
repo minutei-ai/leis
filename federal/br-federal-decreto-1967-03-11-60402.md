@@ -1,5 +1,3 @@
-###DEC-060402-0-000-11-03-1967@@@
-
 DECRETO Nº 60.402, DE 11 DE MARÇO DE 1967.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 48.951, de 16 de setembro de 1960, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Delfino”, no município de Campo Formoso, no Estada da Bahia.

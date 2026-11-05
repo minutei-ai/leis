@@ -1,5 +1,3 @@
-###DEC-055712-0-000-02-02-1965@@@
-
 Decreto nº 55.712, de 2 de fevereiro de 1965.
 
 Autoriza o cidadão brasileiro Geraldo Gobbo a lavrar água mineral, no município de Americana, Estado de São Paulo.

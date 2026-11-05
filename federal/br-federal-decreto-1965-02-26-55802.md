@@ -1,5 +1,3 @@
-###DEC-055802-0-000-26-02-1965@@@
-
 DECRETO Nº 55.802, DE 26 DE FEVEREIRO DE 1965.
 
 Autoriza ao Ministério da Fazenda a efetivar a compra da “Fazenda Santo Antônio”, situada entre a margem direita do Rio Negro e o Paraná de Xiborena, que liga o Rio Negro ao Solimões, no Município e Segundo Distrito de Manaus no Estado do Amazonas.

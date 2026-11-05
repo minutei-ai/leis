@@ -1,5 +1,3 @@
-###DEC-091022-0-000-27-02-1985@@@
-
 Decreto nº 91.022, de 27 de fevereiro de 1985
 
 Outorga concessão à TV STÚDIOS DE RIBEIRÃO PRETO S/C LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Ribeirão Preto, Estado de São Paulo.

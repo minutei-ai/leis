@@ -1,5 +1,3 @@
-###DEC-097435-0-000-05-01-1989@@@
-
 DECRETO N° 97.435, DE 5 DE JANEIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “IPORÁ, GLEBA I, constituídos dos lotes 60, 64 (1) e 64 (2)”, classificado como latifúndio por exploração”, situado nos Municípios de Rio Preto da Eva e Itacoatiara, Estado do Amazonas, compreendido na zona prioritária, fixada pelo Decreto n° 92.679, de 19 de maio de 1986, e dá outras providencias.

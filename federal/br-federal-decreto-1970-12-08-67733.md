@@ -1,5 +1,3 @@
-###DEC-067733-0-000-08-12-1970@@@
-
 DECRETO Nº 67.733, DE 8 DE DEZEMBRO DE 1970.
 
 Declara de Utilidade Pública, para fins de Constituição de Servidão, uma faixa de terra destinada à passagem da Linha de transmissão que se estenderá desde Barretos até Laranjeiras e do ramal dessa Linha para a Subestação de Bebedouro, no Estado de São Paulo.

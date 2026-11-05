@@ -1,5 +1,3 @@
-###DEL-000660-0-000-30-06-1969@@@
-
 DECRETO-LEI Nº 660, DE 30 DE JUNHO DE 1969
 
 Aprova a Convenção sôbre o Ensino de História, assinada a 26 de dezembro de 1933, na Sétima Conferência Interamericana.

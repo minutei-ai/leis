@@ -1,5 +1,3 @@
-###DEL-005873-0-000-01-10-1943@@@
-
 DECRETO‑LEI N. 5.873 – DE 1 DE OUTUBRO DE 1943
 
 Restabelece um cargo de Auxiliar Acadêmico do Quadro Suplementar do Ministério da Educação e Saúde

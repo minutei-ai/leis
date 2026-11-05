@@ -1,5 +1,3 @@
-###DEC-044890-0-000-27-11-1958@@@
-
 DECRETO Nº 44.890, DE 27 DE NOVEMBRO DE 1958.
 
 Declara protetoras de acôrdo com o art. 11, parágrafo único, do Decreto nº 23.793, de 23 de janeiro de 1934, as florestas nativas existentes no Município de Ilhabela, no Estado de São Paulo (Ilha de São Sebastião).

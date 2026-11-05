@@ -1,5 +1,3 @@
-###DEC-064063-0-000-05-02-1969@@@
-
 Decreto nº 64.063, de 5 de fevereiro de 1969.
 
 Regulamenta a Lei nº 2.419, de 10 de fevereiro de 1955, que Instituiu a Patrulha Costeira.

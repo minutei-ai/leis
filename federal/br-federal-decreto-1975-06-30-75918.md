@@ -1,5 +1,3 @@
-###DEC-075918-0-000-30-06-1975@@@
-
 DECRETO Nº 75.918, DE 30 DE JUNHO DE 1975.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais e de Ciências da Faculdade de Filosofia, Ciências e Letras de Paranavaí, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de Paranavaí, com sede na Cidade de Paranavaí, Estado do Paraná.

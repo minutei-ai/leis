@@ -1,5 +1,3 @@
-###DEC-045262-0-000-16-01-1959@@@
-
 DECRETO N. 45.262 – DE 16 DE JANEIRO DE 1959
 
 Concede autorização para o funcionamento dos cursos de História, Pedagogia e Letras Anglo-Germanicas da Faculdade de Filosofia, Ciências e Letras de Marília.

@@ -1,5 +1,3 @@
-###MPV-001948-0-056-26-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.948-56, DE 26 de junho DE 2000.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional - NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

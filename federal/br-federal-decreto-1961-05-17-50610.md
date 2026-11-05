@@ -1,5 +1,3 @@
-###DEC-050610-0-000-17-05-1961@@@
-
 Decreto nº 50.610, de 17 de maio de 1961.
 
 Assemelha, para efeito de promoção, a função de Comandante de Estabelecimentos de Ensino do Exército a de Comandante de Corpos de Tropa.

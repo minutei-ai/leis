@@ -1,5 +1,3 @@
-###DEC-075401-0-000-20-02-1975@@@
-
 DECRETO Nº 75.401, DE 20 DE FEVEREIRO DE 1975.
 
 Exclui o Núcleo Colonial do Paracatu, empreendimento da Superintendência do Vale do São Francisco, da aplicação do disposto na alínea "c", do artigo 27, e do artigo 28, do Decreto nº 59.428, de 27 de outubro de 1966,no que se refere aos prazos para emancipação de sua glebas.

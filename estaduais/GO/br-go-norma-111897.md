@@ -12,9 +12,12 @@ Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 20 de dezembro de 2025; 137º da República.
 
-RONALDO CAIADO<br>
-Governador do Estado<br>
+RONALDO CAIADO
+
+Governador do Estado
+
  
 
-Antônio Gomide<br>
+Antônio Gomide
+
 Deputado Estadual

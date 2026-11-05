@@ -1,5 +1,3 @@
-###DEC-094102-0-000-17-03-1987@@@
-
 DECRETO N° 94.102, DE 17 DE MARÇO DE 1987
 
 Dispõe sobre a execução do Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 e seus 9° e 10° Protocolos Adicionais entre Brasil e Argentina.

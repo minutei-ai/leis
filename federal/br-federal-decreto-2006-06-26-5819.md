@@ -1,5 +1,3 @@
-###DEC-005819-0-000-26-06-2006@@@
-
 DECRETO Nº 5.819, DE 26 DE JUNHO DE 2006.
 
 Promulga o Acordo de Sede entre o Governo da República Federativa do Brasil e a Organização do Tratado de Cooperação Amazônica, celebrado em Brasília, em 13 de dezembro de 2002.
@@ -24,11 +22,7 @@ Brasília, 26 de  junho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Ruy Nunes Pinto Nogueira
-
-Este texto não substitui o publicado no D.O.U. de 27.6.2006 e retificado no D.O.U. de 28.6.2006.
-
-ACORDO DE SEDE ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A ORGANIZAÇÃO DO TRATADO DE COOPERAÇÃO AMAZÔNICA
+       Ruy Nunes Pinto NogueiraACORDO DE SEDE ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A ORGANIZAÇÃO DO TRATADO DE COOPERAÇÃO AMAZÔNICA
 
         O Governo da República Federativa do Brasil
 

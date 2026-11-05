@@ -4,10 +4,12 @@ Institui o Código do Ministério Público.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA ORGANIZAÇÃO GERAL
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 FINALIDADE E COMPOSIÇÃO
 
 Art. 1º - O Ministério Público é órgão de defesa da Lei e de sua fiel execução.
@@ -42,15 +44,18 @@ Parágrafo único - Esses auxiliares são de livre nomeação do Governo e não 
 
 Art. 4º - Os membros do Ministério Público, exceto o Procurador Geral da Justiça e os Procuradores da Justiça do Estado, serão classificados por entrância correspondente às das comarcas judiciárias em que servirem.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA SECRETARIA DO MINISTÉRIO PÚBLICO
 
 Art. 5º - A Secretaria do Ministério Público, órgão central de seus serviços administrativos nas duas Instâncias, reger-se-á de acordo com a Lei nº 2.045, de 5 de setembro de 1964, e com o regulamento expedido pelo Procurador Geral da Justiça.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA CARREIRA DO MINISTÉRIO PÚBLICO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO INGRESSO POR CONCURSO
 
 Art. 6º - O ingresso na carreira do Ministério Público se fará no cargo de Promotor Público de comarca de primeira entrância, mediante concurso de provas em que serão apuradas a cultura jurídica e capacidade intelectual dos candidatos.
@@ -109,7 +114,8 @@ Art. 15 - O Presidente da Comissão Examinadora enviará ao Governador a lista d
 
 § 2º - Os candidatos habilitados, enquanto não nomeados em caráter efetivo, terão preferência, na ordem de classificação, a nomeação interina para as promotorias de 1ª entrância, no impedimento dos respectivos titulares.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA NOMEAÇÃO, DO TÍTULO, DO COMPROMISSO E DA POSSE
 
 Art. 16 - O Procurador Geral da Justiça, demissível "ad nutum", é nomeado pelo Governo do Estado depois de aprovado pelo Poder Legislativo, dentre os bacharéis em direito, com mais de trinta anos de idade, de notório saber jurídico e reputação ilibada.
@@ -162,7 +168,8 @@ Art. 24 - Os membros do Ministério Público deverão tomar posse e entrar em ex
 
 § 4º - Se o Promotor de Justiça, em caso de nomeação, permuta, promoção, remoção ou designação não assumir, dentro do prazo, o exercício do cargo, o respectivo decreto ou portaria ficará sem efeito.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA PROMOÇÃO, DA REMOÇÃO E DA PERMUTA
 
 Art. 25 - Os Procuradores da Justiça do Estado serão nomeados pelo Governador mediante acesso alternado por antigüidade e por merecimento, dos membros de último entrância da carreira do Ministério Público indicados, na segunda hipótese, em lista tríplice organizada em reunião dos Procuradores com o Procurador Geral da Justiça.
@@ -233,7 +240,8 @@ Art. 33 - É lícito ao membro do Ministério Público recusar promoção por me
 
 Art. 34 - A juízo do Conselho Superior poderão os representantes do Ministério Público permutar os seus cargos, contanto que sejam estes de igual categoria e da mesma entrância.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA DEMISSÃO E DA APOSENTADORIA
 
 Art. 35 - Os órgãos do Ministério Público nomeados em caráter efetivo só perderão o cargo nos seguintes casos:
@@ -274,7 +282,8 @@ III - Vetado
 
 § 4º - Até a fixação dos proventos a que terá direito, o membro do Ministério Público receberá os vencimentos do seu cargo.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA REINTEGRAÇÃO, DA READMISSÃO, DA REVERSÃO E DISPONIBILIDADE
 
 Art. 40 - A reintegração, readmissão e reversão dos órgãos do Ministério Público obedecerão ao disposto no Estatuto dos Funcionários Públicos Civis do Estado.
@@ -287,10 +296,12 @@ b) quando, por motivo de incompatibilidade, que lhe não seja imputável, for pr
 
 Art. 42 - A disponibilidade também poderá ser determinada nos termos do art. 83, § 3º, da Constituição Estadual.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DO EXERCÍCIO DOS CARGOS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 43 - Os promotores de Justiça devem permanecer no local do expediente forense durante o tempo a este destinado.
@@ -365,7 +376,8 @@ j) trânsito, quando removido, promovido ou designação, não excedendo do praz
 
 l) afastamento, nos termos do artigo 83, § 1º, da Constituição do Estado.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PRERROGATIVAS E DAS VANTAGENS DO CARGO
 
 Art. 58 - São assegurados aos membros do Ministério Público as garantias de estabilidade, irredutibilidade de vencimentos e inamovibilidade, nos termos desta lei e arts. 70, § 2º e 72 § 3º, da Constituição do Estado.
@@ -410,7 +422,8 @@ Art. 72 - O Promotor de Justiça das Comarcas do Interior, nas substituições t
 
 Parágrafo único - A substituição em casos de impedimentos ocasionais ou férias não será remunerada.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS SUBSTITUIÇÕES, DESIGNAÇÕES E COMISSIONAMENTOS
 
 Art. 73 - Independentemente de qualquer ato ou despacho, os Promotores da Justiça do Estado, na ordem de antigüidade na segunda instância, substituem o Procurador Geral da Justiça e se substituem uns aos outros.
@@ -455,7 +468,8 @@ II - nas demais entrâncias o Procurador Geral designará Promotor efetivo de ig
 
 Art. 78 - Nos impedimentos ocasionais as substituições se farão por designação "ad-hoc" de um Promotor, pela autoridade judicial que presidiu o ato, preferindo-se, na escolha, o bacharel em direito.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS FÉRIAS
 
 Art. 79 - Os representantes do Ministério Público terão direito a férias coletivas estabelecidas pela Lei de Organização Judiciária.
@@ -470,7 +484,8 @@ Art. 80 - O Procurador Geral da Justiça gozará férias individuais de sessenta
 
 Art. 81 - O representante do Ministério Público, em gozo de férias, não será obrigado, quando promovido ou removido, a assumir o exercício do novo cargo antes de terminá-las, salvo em casos extraordinários, a juízo do Procurador Geral.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 \-DAS LICENÇAS
 
 Art. 82 - As licenças aos membros do Ministério Público reger-se-ão pelo disposto no Estatuto dos Funcionários Públicos Civis do Estado, ressalvadas disposições em contrário desta lei.
@@ -479,7 +494,8 @@ Art. 83 - O Procurador Geral fixará o tempo durante o qual os Promotores intern
 
 Parágrafo único - Igual autorização poderá ser concedida, tanto aos interinos como aos efetivos, no caso de concurso para o ingresso na Magistratura.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS CORREIÇÕES
 
 Art. 84 - Os serviços do Ministério Público estão sujeitos a correições:
@@ -526,7 +542,8 @@ Art. 88 - Nos meses de março e setembro, o Procurador da Justiça designado Cor
 
 Art. 89 - O Procurador Geral, se assim o exigir a boa marcha do serviço de correição, poderá designar mais de um Procurador da Justiça do Estado para o serviço respectivo, especificando, no ato, os setores confiados a cada um.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS PENAS DISCIPLINARES
 
 Art. 90 - Os membros do Ministério Público estão sujeitos às seguintes penas disciplinares:
@@ -589,7 +606,8 @@ Art. 95 - O Procurador Geral, sempre que tiver conhecimento de irregularidades o
 
 TÍTULO IV -DO PROCESSO ADMINISTRATIVO
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA INSTAURAÇÃO DO PROCESSO
 
 Art. 96 - Instaura-se processo administrativo ou sindicância quando ocorrem irregularidades ou faltas funcionais de membro do Ministério Público.
@@ -606,7 +624,8 @@ Art. 100 - Serão conclusos diretamente ao Governo do Estado os processos em que
 
 Art. 101 - Os autos de processo administrativo de sindicância ou de revisão, depois do julgamento, serão arquivados na Procuradoria Geral da Justiça.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA SINDICÂNCIA
 
 Art. 102 - A sindicância, como meio sumário de verificação de faltas, poderá ser promovida de acordo com o disposto no art. 86 § 6º, e por determinação do Procurador Geral da Justiça, mediante portaria, na qual designará um dos membros do Conselho Superior para esse fim.
@@ -627,7 +646,8 @@ Art. 105 - Os demais prazos da sindicância, salvo motivo de força maior, não 
 
 Art. 106 - Havendo necessidade, o Procurador Geral da Justiça designará o Promotor da Justiça, como auxiliar do sindicante e, para secretariar a sindicância, funcionário da Secretaria do Ministério Público.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROCESSO ADMINISTRATIVO PROPRIAMENTE DITO
 
 Art. 107 - Ressalvadas as disposições especiais desta lei, o processo administrativo obedecerá ao disposto, no particular, pelo Estatuto dos Funcionários Públicos Civis do Estado e será promovido por uma Comissão designada em portaria pelo Procurador Geral da Justiça constituída de três Promotores de Justiça de categoria igual ou superior à do membro do Ministério Público submetido ao processo um dos quais será designado presidente.
@@ -642,7 +662,8 @@ Art. 111 - A instrução do processo administrativo será realizado em segredo d
 
 Art. 112 - É permitido à Comissão tomar conhecimento de argüições novas que surgirem contra o indiciado, caso em que este poderá produzir outras provas em sua defesa.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO RECURSO
 
 Art. 113 - Da aplicação de pena disciplinar pelo Procurador Geral da Justiça caberá recurso, com efeito suspensivo, para a mesma autoridade ou para o Governador do Estado.
@@ -655,7 +676,8 @@ Art. 113 - Da aplicação de pena disciplinar pelo Procurador Geral da Justiça 
 
 Art. 114 - Quando a pena for aplicada pelo Governador do Estado o interessado, dentro do mesmo prazo previsto no § 1º do artigo anterior, poderá pedir reconsideração.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA REVISÃO
 
 Art. 115 - A revisão dos processos findos será admitida:
@@ -692,10 +714,12 @@ Parágrafo único - Quando não for de sua alçada a penalidade a ser aplicada, 
 
 Art. 123 - Julgando procedente o pedido dentro do prazo de trinta (30) dias, a autoridade revisora poderá cancelar ou modificar a penalidade imposta, ou anular o processo, quando será o requerente ressarcido dos prejuízos pecuniários que haja sofrido ou, em caso de demissão, reintegrado no cargo a que tenha direito.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DAS ATRIBUIÇÕES E COMPETÊNCIA NA SEGUNDA INSTÂNCIA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DO PROCURADOR GERAL DA JUSTIÇA
 
 Art. 124 - Cabe ao Procurador Geral da Justiça, como Chefe do Ministério Público, administrar e representar essa instituição, diretamente ou por intermédio dos órgãos competentes, em todas as júrisdições do Estado, exercendo as suas funções perante o Governo, a Magistratura e os funcionários sob sua direção.
@@ -802,7 +826,8 @@ XXII - elaborar provimentos para regular as obrigações e disciplina dos Estagi
 
 XXIII - exercer, ainda, por iniciativa própria ou por solicitação dos poderes competentes, quaisquer outras funções ou atribuições que não estando previstas nesta Lei sejam, contudo, inerentes à finalidade do Ministério Público.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PROCURADORES DA JUSTIÇA DO ESTADO
 
 Art. 126 - Compete aos Procuradores da Justiça do Estado:
@@ -831,7 +856,8 @@ XI - desempenhar quaisquer outras funções ou atribuições que, embora não pr
 
 XII - apresentar ao Procurador Geral da Justiça, até 31 de janeiro de cada ano, minucioso relatório dos trabalhos da Procuradoria, no ano anterior, mencionando as dúvidas e dificuldades que tenham surgido na execução das leis e regulamentos e sugerindo as providências adequadas à melhor orientação da Justiça.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO CONSELHO SUPERIOR DO MINISTÉRIO PÚBLICO
 
 Art. 127 - O Conselho Superior do Ministério Público será constituído do Procurador Geral da Justiça, como presidente, dos Procuradores da Justiça do Estado, e mais três membros, sendo um nomeado pelo Governo do Estado e os dois restantes eleitos pelos pares, dentre os Promotores da Justiça que tiverem exercício na Comarca da Capital, pelo prazo de 03 anos, podendo ser reconduzidos, findo o prazo, por nova nomeação ou reeleição.
@@ -860,10 +886,12 @@ V - manifestar-se sobre os pedidos de permuta entre membros do Ministério Públ
 
 VI - conhecer da ocorrência de irregularidades funcionais ou de quaisquer outras faltas, por parte de membros do Ministério Público, submetidas à sua apreciação pelo Procurador Geral da Justiça, tomando as medidas necessárias à apuração, por meio de sindicância ou mediante processo administrativo, ouvido sempre o indiciado.
 
-TÍTULO VI -<br>
+TÍTULO VI -
+
 DAS ATRIBUIÇÕES E COMPETÊNCIA NA PRIMEIRA INSTÂNCIA
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 132 - Compete a cada membro do Ministério Público, além das atribuições que lhe são conferidas especialmente nesta Lei, segundo a natureza de seus cargos:
@@ -894,7 +922,8 @@ Art. 134 - Os Promotores Públicos do Interior devem orientar a organização da
 
 Art. 135 - O funcionamento de um órgão do Ministério Público, no processo, dispensa, na mesma instância, o dos demais, sendo que os Curadores preferirão aos Promotores, salvo em matéria especializada e, se colidirem, no mesmo feito, as atribuições de duas ou mais Curadorias, o Promotor de Justiça exercerá aquela em que predominar o interesse público, designando-se curador "ad hoc" para as demais.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PROMOTORES PÚBLICOS
 
 Art. 136 - Ao Promotor Público compete:
@@ -987,7 +1016,8 @@ XV - representar em juizo a Fazenda Municipal, por designação do Município in
 
 XVI - vetado.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS CURADORIASDO CURADOR DE ÓRFÃOS
 
 Art. 138 - Compete ao Curador de Órfãos:
@@ -1020,7 +1050,8 @@ XIII - propor, em nome dos órfãos, ação de alimentos contra as pessoas obrig
 
 Parágrafo único - As atribuições mencionadas nesse artigo quando à parte de órfãos, são referentes aos processos e atos de competência do Juiz de Órfãos; ficando excluídos os relativos a menores abandonados e delinqüentes.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO CURADOR DE INCAPAZES E AUSENTES
 
 Art. 139 - Compete ao Curador de Incapazes e Ausentes no Juizo Civil:
@@ -1041,7 +1072,8 @@ VII - exercer as funções do Ministério Público de natureza civil resultantes
 
 VIII - pleitear indenização de qualquer dano ao patrimônio ou pessoa de incapazes.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO CURADOR DE RESÍDUOS E REGISTROS PÚBLICOS
 
 Art. 140 - Compete ao Curador de Resíduos e Registro Públicos:
@@ -1090,7 +1122,8 @@ XXI - independente de despacho judicial, dizer sobre a averbação a ser feita p
 
 XXII - exercer, no que se refere a registros públicos, a inspeção e fiscalização dos cartórios competentes.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DO CURADOR DE CASAMENTOS
 
 Art. 141 - Compete ao Curador de Casamentos:
@@ -1111,7 +1144,8 @@ VII - funcionar nas ações de desquite, de nulidade ou anulação de casamentos
 
 VIII - promover as causas de iniciativa do Ministério Público para as quais seja competente o Juízo da Família, inclusive as de nulidade de casamento.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DO CURADOR DE MASSAS FALIDAS
 
 Art. 142 - Compete ao Curador de Massas Falidas:
@@ -1174,7 +1208,8 @@ XXVIII - opinar sobre o pedido de reabilitação;
 
 XXIX - promover o encerramento dos processos de falência.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DO CURADOR DAS VÍTIMAS DE ACIDENTES DO TRABALHO
 
 Art. 143 - Compete ao Curador de Acidentes do Trabalho, sem prejuízo da legislação federal atinente à matéria:
@@ -1189,7 +1224,8 @@ IV - providenciar, mediante provocação da vítima do acidente ou seu represent
 
 V - oficiar em todos os atos e termos do processo de acidentes do trabalho.
 
-SEÇÃO VII<br>
+SEÇÃO VII
+
 DO CURADOR DE MENORES
 
 Art. 144 - Compete ao Curador de Menores:
@@ -1226,7 +1262,8 @@ XV - representar à autoridade competente sobre a atuação dos comissários de 
 
 XVI - representar o Ministério Público em qualquer feito da competência do Juiz de Menores e no qual seja obrigatória a sua intervenção.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO PROMOTOR SUBSTITUTO
 
 Art. 145 - Compete ao Promotor Substituto:
@@ -1239,10 +1276,12 @@ III - desempenhar, cumulativamente, com as do titular da Promotoria ou Curadoria
 
 IV - funcionar como auxiliares do Procurador Geral, quando por este designado.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS AUXILIARES DO MINISTÉRIO PÚBLICO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DO DEFENSOR PÚBLICO
 
 Art. 146 - Compete ao Defensor Público:
@@ -1261,7 +1300,8 @@ IV - exercer encargos outros nos termos de provimentos baixados pelo Procurador 
 
 § 3º - Os Defensores Públicos perceberão vencimentos correspondentes aos do Promotor da Comarca ou entrância em que serem.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO ESTAGIÁRIO
 
 Art. 147 - Compete ao Estagiário do Ministério Público:
@@ -1272,7 +1312,8 @@ II - assistir aos atos, diligências e inquirições e reperguntar testemunhas n
 
 III - dar ciência ao representante do Ministério Público de irregularidades ou falhas observadas no decorrer dos processos e de retardamento dos feitos em cartório.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DO ADJUNTO DE PROMOTOR
 
 Art. 148 - O Adjunto de Promotor como auxiliar do Ministério Público, nas comarcas do Interior do Estado, substituirá o Promotor junto ao qual servir em todas as suas faltas e impedimentos, nos termos desta Lei.
@@ -1299,10 +1340,12 @@ II - requerer em nome do Promotor da respectiva comarca e o substituir em todos 
 
 Art. 151 - Presente o Promotor da Comarca no Distrito que não for sede, poderá avocar todo o serviço do Ministério Público.
 
-TÍTULO VII -<br>
+TÍTULO VII -
+
 DISPOSIÇÕES ESPECIAIS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA REPRESENTAÇÃO DA FAZENDA PÚBLICA
 
 Art. 152 - O Promotor Público, nas comarcas do Interior do Estado, observará, no exercício das atribuições do representante da Fazenda Pública, os dispositivos das leis estaduais e federais atinentes ao assunto e às instruções que lhe forem transmitidas pelo Procurador Regional da República ou autoridade Federal competente e pelo Procurador Fiscal do Estado.
@@ -1317,7 +1360,8 @@ Art. 155 - Nas Comarcas em que houver mais de um Promotor, a representação da 
 
 Art. 156 - O Promotor Público não poderá delegar ou transferir as atribuições de representante da Fazenda Pública, nem transigir, confessar, desistir ou fazer composições, sem autorização do poder competente.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DISPOSIÇÕES RELATIVAS ÀS COMARCAS DA CAPITAL E ÀS DO INTERIOR
 
 Art. 157 - Dos Promotores Públicos da Capital um servirá junto a cada Vara Crime, um junto a cada Vara do Júri e das Execuções Criminais, um junto à Justiça Militar, com as atribuições definidas na legislação própria e um junto às Varas dos Feitos da Fazenda Pública e encarregado da defesa do Estado nas causas de natureza não fiscal, bem como de oficiar nos mandatos de segurança nos termos do art. 136, item XXIX.
@@ -1346,7 +1390,8 @@ a) na Capital, cada um junto a duas Varas Criminais;
 
 b) no Interior, na base de um para cada Comarca em que funcionarem dois ou mais juízes.
 
-TÍTULO VIII -<br>
+TÍTULO VIII -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 162 - Os representantes do Ministério Público são responsáveis solidariamente com a Fazenda Pública por qualquer prejuízo decorrente de negligência, omissão ou abuso no exercício dos cargos.
@@ -1405,7 +1450,7 @@ Jorge Calmon
 
 Joaquim Teófilo de Oliveira
 
-<table style="border-collapse: collapse; border: none;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 9.0cm; border: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="2" valign="top" width="340"><p class="Tabela-Texto">QUADRO DO PESSOAL DA SECRETARIA DO MINISTÉRIO PÚBLICO</p><p class="Tabela-Texto">CARGOS ISOLADOS DE PROVIMENTO EFETIVO (MP)</p><p class="Tabela-Texto">(Lei n. 2.045, de 05/09/964)</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">1 - Secretário</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">1 - Assistente Jurídico</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">&nbsp;</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">1 - Assistente de Administração</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp; 13</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">2 - Oficiais Administrativos</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp; 11</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">5 - Escriturários</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 8</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">2 - Arquivistas</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 8</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">2 - Porteiros</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 6</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">2 - Guardas</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 5</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">1 - Motorista</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 5</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">1 - Contínuo</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 2</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">2 - Serviçais</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">MP&nbsp;&nbsp;&nbsp; 1</p></td></tr><tr><td style="width: 9.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" colspan="2" valign="top" width="340"><p class="Tabela-Texto"><span style="color: black;">II - Funções Gratificadas (FG)</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto"><span style="color: black;">2 - Chefe de Seção</span></p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto"><span style="color: black;">FG&nbsp; 5</span></p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">1 - Chefe de Portaria</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">FG&nbsp; 3</p></td></tr><tr><td style="width: 7.0cm; border: solid black 1.0pt; border-top: none; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="265"><p class="Tabela-Texto">2 - Encarregado de Empenhos e Verbas</p></td><td style="width: 2.0cm; border-top: none; border-left: none; border-bottom: solid black 1.0pt; border-right: solid black 1.0pt; padding: 0cm 5.4pt 0cm 5.4pt;" valign="top" width="76"><p class="Tabela-Texto">FG&nbsp; 3</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> QUADRO DO PESSOAL DA SECRETARIA DO MINISTÉRIO PÚBLICO CARGOS ISOLADOS DE PROVIMENTO EFETIVO (MP) (Lei n. 2.045, de 05/09/964) </td></tr><tr><td valign="top"> 1 - Secretário </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 1 - Assistente Jurídico </td><td valign="top"> &nbsp; </td></tr><tr><td valign="top"> 1 - Assistente de Administração </td><td valign="top"> MP&nbsp; 13 </td></tr><tr><td valign="top"> 2 - Oficiais Administrativos </td><td valign="top"> MP&nbsp; 11 </td></tr><tr><td valign="top"> 5 - Escriturários </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 8 </td></tr><tr><td valign="top"> 2 - Arquivistas </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 8 </td></tr><tr><td valign="top"> 2 - Porteiros </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 6 </td></tr><tr><td valign="top"> 2 - Guardas </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 5 </td></tr><tr><td valign="top"> 1 - Motorista </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 5 </td></tr><tr><td valign="top"> 1 - Contínuo </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 2 </td></tr><tr><td valign="top"> 2 - Serviçais </td><td valign="top"> MP&nbsp;&nbsp;&nbsp; 1 </td></tr><tr><td colspan="2" valign="top"> II - Funções Gratificadas (FG) </td></tr><tr><td valign="top"> 2 - Chefe de Seção </td><td valign="top"> FG&nbsp; 5 </td></tr><tr><td valign="top"> 1 - Chefe de Portaria </td><td valign="top"> FG&nbsp; 3 </td></tr><tr><td valign="top"> 2 - Encarregado de Empenhos e Verbas </td><td valign="top"> FG&nbsp; 3 </td></tr></tbody></table>
 
 OBSERVAÇÃO: Os símbolos MP (Ministério Público); da presente Tabela, eqüivalem ao Poder Judiciário (PJ) de níveis correspondentes.
 
@@ -1437,7 +1482,8 @@ i) Um (1) Curador de Resíduos e Registros Públicos;
 
 j) Um (1) Curador Geral junto às Varas de Assistência Judiciária;
 
-Redação de acordo com a Lei nº 2.938, de 23 de junho de 1971.Redação original: "<br>
+Redação de acordo com a Lei nº 2.938, de 23 de junho de 1971.Redação original: "
+
 III - a) Dez (10) Promotores Públicos;b) Seis (06) Promotores Substitutos;c) Um (01) Curador de Órfãos;d) Um (01) Curador de Interditos Ausentes;e) Um (01) Curador de Massas Falidas;f) Um (01) Curador de Vítimas de Acidentes do Trabalho;g) Dois (02) Curadores de Menores;h) Um (01) Curador de Casamentos;i) Um (01) Curador de Resíduo e Registros Públicos;j) Um (01) Curador Geral junto às Varas de Assistência Judiciária;"
 
 IV - Sessenta e quatro (64) Promotores Públicos de 2a entrância, assim distribuídos:

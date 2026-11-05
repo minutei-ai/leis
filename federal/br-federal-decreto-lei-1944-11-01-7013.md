@@ -1,5 +1,3 @@
-###DEL-007013-0-000-01-11-1944@@@
-
 DECRETO-LEI N. 7.013 – DE 1 DE NOVEMBRO DE 1944
 
 Dispõe sôbre o policiamento interno de emprêsas e estabelecimentos particulares

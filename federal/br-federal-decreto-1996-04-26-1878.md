@@ -1,5 +1,3 @@
-###DEC-001878-0-000-26-04-1996@@@
-
 DECRETO Nº 1.878, DE 26 DE ABRIL DE 1996
 
 Dispõe sobre a execução do Primeiro Protocolo Adicional ao Acordo de Complementação Econômica Nº 34, entre Brasil, Argentina, Paraguai, Uruguai, "Estados Partes do MERCOSUL", e Bolívia, de 26 de dezembro de 1995.

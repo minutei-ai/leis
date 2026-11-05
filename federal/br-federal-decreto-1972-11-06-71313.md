@@ -1,5 +1,3 @@
-###DEC-071313-0-000-06-11-1972@@@
-
 DECRETO Nº 71.313 - de 8 de novembro de 1972.
 
 Altera o Regulamento do Serviço de Identificação do Exército.

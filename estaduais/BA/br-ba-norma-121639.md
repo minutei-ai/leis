@@ -8,7 +8,8 @@ Art. 1º - Fica criado 01 (um) cargo de Promotor de Justiça para atuação em P
 
 Art. 2º - Fica criado 01 (um) cargo de Promotor de Justiça para atuação em Promotoria de Justiça Especializada em Combate à Sonegação Fiscal, de âmbito regional, de entrância intermediária, com sede nas Comarcas de Alagoinhas, Barreiras, Camaçari, Feira de Santana, Guanambi, Irecê, Itabuna, Juazeiro, Santo Antônio de Jesus, Teixeira de Freitas e Vitória da Conquista.
 
-Ver também: <br>
+Ver também: 
+
 Art. 1º da Lei nº [14.111](https://www.legislabahia.ba.gov.br/documentos/lei-no-14111-de-23-de-agosto-de-2019) de 23 de agosto de 2019: Art. 1º -  Ficam transformados os cargos de Promotor de Justiça para atuação em Promotoria de Justiça Especializada em Combate à Sonegação Fiscal, de âmbito regional, criadas pelo art. 2º da Lei nº 11.639, de 18 de janeiro de 2010, com sede nas Comarcas de Alagoinhas, Guanambi, Irecê, Juazeiro, Santo Antônio de Jesus e Teixeira de Freitas, em cargos de Promotor de Justiça de entrância final, nas Comarcas de Camaçari, Eunápolis, Guanambi, Feira de Santana, Juazeiro e Vitória da Conquista com atribuições a serem definidas na forma do art. 21, inciso VIII, da Lei Complementar nº 11, de 18 de janeiro de 1996.
 
 Art. 3º - Ficam criados 05 (cinco) cargos de Promotor de Justiça na Comarca de Salvador, de entrância final, e nas Comarcas de Alagoinhas 01 (um), Barreiras 01 (um), Brumado 01 (um), Camaçari 03 (três), Cícero Dantas 01 (um), Eunápolis 01 (um), Feira de Santana 03 (três), Irecê 01 (um), Ipiaú 02 (dois), Jequié 02 (dois), Juazeiro 03 (três), Lauro de Freitas 02 (dois), Porto Seguro 01 (um), Simões Filho 02 (dois), Teixeira de Freitas 01 (um), Vitória da Conquista 02 (dois), todas de entrância intermediária.

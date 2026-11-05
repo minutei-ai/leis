@@ -1,5 +1,3 @@
-###DEC-097071-0-000-21-11-1988@@@
-
 DECRETO N° 97.071, DE 21 DE NOVEMBRO DE 1988
 
 Localiza Unidade Aérea do Ministério da Aeronáutica.

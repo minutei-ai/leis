@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208084)<br>
-
 # ATO DO PRESIDENTE N° 147, DE 05 DE MAIO DE 2023
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 661, de 2023, que dispõe sobre as Diretrizes Orçamentárias para o exercício de 2024._

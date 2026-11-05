@@ -1,4 +1,5 @@
-DECRETO Nº 9.875 , DE 02 DE JUNHO DE 2021<br>
+DECRETO Nº 9.875 , DE 02 DE JUNHO DE 2021
+
 \- [Revogado pelo Decreto nº 10.106, de 29-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105753/decreto-10106).
 
 ~~Dispõe sobre a limitação de atividades na região do Rio Araguaia que impliquem em aglomeração de pessoas para o lazer e o turismo, como forma de combate à disseminação da COVID-19 no Estado de Goiás.~~
@@ -62,8 +63,6 @@ DECRETO Nº 9.875 , DE 02 DE JUNHO DE 2021<br>
 ~~Art. 9º Este Decreto entra em vigor na data de sua publicação.~~
 
 ~~Goiânia, 02 de junho de 2021; 133º da República.~~
-
-<br>
 
 ~~RONALDO CAIADO~~
 

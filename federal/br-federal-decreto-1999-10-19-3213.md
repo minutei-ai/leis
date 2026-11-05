@@ -1,5 +1,3 @@
-###DEC-003213-0-000-19-10-1999@@@
-
 DECRETO Nº 3.213, DE 19 DE OUTUBRO DE 1999.
 
 Dispõe sobre as áreas de jurisdição dos Comandos Militares de Área e da Regiões Militares no Exército Brasileiro, e dá outras providências.

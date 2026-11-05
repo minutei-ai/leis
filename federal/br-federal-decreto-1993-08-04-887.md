@@ -1,7 +1,3 @@
-1
-
-###DEC-000887-0-000-04-08-1993@@@
-
 DECRETO N° 887, DE 4 DE AGOSTO DE 1993
 
 Cria, no Ministério das Relações Exteriores, o Conselho Diplomático.

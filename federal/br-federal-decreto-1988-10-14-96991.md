@@ -1,5 +1,3 @@
-###DEC-096991-0-000-14-10-1988@@@
-
 DECRETO Nº 96.991, DE 14 DE OUTUBRO DE 1988
 
 Atribui competência para autorização de pagamentos e recebimentos por meio de outras instituições financeiras.

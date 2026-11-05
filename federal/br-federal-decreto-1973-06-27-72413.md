@@ -1,5 +1,3 @@
-###DEC-072413-0-000-27-06-1973@@@
-
 DECRETO Nº 72.413, DE 27 DE JUNHO DE 1973.
 
 Concede à Companhia de Mineração São Lourenço o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

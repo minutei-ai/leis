@@ -1,5 +1,3 @@
-###DEL-000602-0-000-30-05-1969@@@
-
 DECRETO-LEI Nº 602, de 30 de maio de 1969
 
 Concede isenção de tributos federais à importação de veículo motorizado pelo Capitão Armindo da Luz Matheus.

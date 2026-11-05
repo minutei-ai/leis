@@ -1,5 +1,3 @@
-###DEL-004600-0-000-20-08-1942@@@
-
 DECRETO-LEI N. 4.600 – DE 20 DE AGOSTO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de 36:000$0, para despesas das Delegacias do Trabalho Marítimo

@@ -1,5 +1,3 @@
-###DEC-080972-0-000-09-12-1977@@@
-
 Decreto nº 80.972, de 09 de dezembro de 1977.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Rio Ltda., posteriormente transferida à Rádio Globo Capital Ltda. para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Belo Horizonte, Estado de Minas Gerais.

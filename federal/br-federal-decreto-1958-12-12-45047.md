@@ -1,5 +1,3 @@
-###DEC-045047-0-000-12-12-1958@@@
-
 DECRETO Nº 45.047, DE 12 DE DEZEMBRO DE 1958.
 
 Outorga concessão à Rádio Bandeirantes Sociedade Anônima para instalar uma estação de radiotelevisão.

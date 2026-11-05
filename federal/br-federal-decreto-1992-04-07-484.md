@@ -1,7 +1,3 @@
-1
-
-###DEC-000484-0-000-07-04-1992@@@
-
 DECRETO Nº 484, DE 7 DE ABRIL DE 1992
 
 Dispõe sobre a execução do Décimo Quinto Protocolo Adicional ao Acordo Comercial nº 5, no Setor da Indústria Química, entre Brasil, Argentina, Chile, México, Uruguai e Venezuela.

@@ -1,5 +1,3 @@
-###DEC-059186-0-000-08-09-1966@@@
-
 decreto nº 59.186, de 8 de setembro de 1966.
 
 Autoriza o cidadão brasileiro Antônio Saraiva Diniz a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

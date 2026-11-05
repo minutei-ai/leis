@@ -1,5 +1,3 @@
-###DEC-067279-0-000-28-09-1970@@@
-
 decreto nº 67.279, de 28 de setembro de 1970.
 
 Declara de utilidade pública a Academia Veranense de Assistência, Educação e Cultura, com sede em Veranópolis, Estado do Rio Grande do Sul.

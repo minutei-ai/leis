@@ -1,5 +1,3 @@
-###DEC-074721-0-000-17-10-1974@@@
-
 DECRETO Nº 74.721, DE 17 DE OUTUBRO DE 1974.
 
 Exclui servidores do enquadramento do pessoal do extinto Departamento dos Correios e Telégrafos.

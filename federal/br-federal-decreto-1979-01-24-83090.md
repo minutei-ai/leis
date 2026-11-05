@@ -1,5 +1,3 @@
-###DEC-083090-0-000-24-01-1979@@@
-
 Decreto nº 83.090, de 24 de janeiro de 1979
 
 Dispõe sobre normas de racionalização de consumo de combustíveis, estabelecidas para a Administração Federal pelo Decreto nº 79.133, de 17 de janeiro de 1977, e dá outras providências.

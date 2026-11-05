@@ -1,5 +1,3 @@
-###DEC-050153-0-000-27-01-1961@@@
-
 Decreto nº 50.153, de 27 de janeiro de 1961.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$150.000.000,00, para o fim que especifica.

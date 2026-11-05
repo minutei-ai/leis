@@ -1,5 +1,3 @@
-###DEC-071011-0-000-23-08-1972@@@
-
 DECRETO Nº 71.011, DE 23 DE AGOSTO DE 1972.
 
 Concede a Caulim Mar de Espanha Ltda. o direito de lavrar caulim no município de Mar de Espanha, Estado de Minas Gerais.

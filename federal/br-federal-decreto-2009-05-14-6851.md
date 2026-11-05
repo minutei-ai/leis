@@ -1,5 +1,3 @@
-###DEC-006851-0-000-14-05-2009@@@
-
 DECRETO Nº 6.851, DE 14 DE MAIO DE 2009.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.857, de 22 de dezembro de 2008, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.

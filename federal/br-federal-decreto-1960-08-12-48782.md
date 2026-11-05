@@ -1,5 +1,3 @@
-###DEC-048782-0-000-12-08-1960@@@
-
 DECRETO Nº 48.782, DE 12 DE AGÔSTO DE 1960.
 
 Concede à Mineração triângulo Limitada autorização para funcionar com emprêsa de mineração.

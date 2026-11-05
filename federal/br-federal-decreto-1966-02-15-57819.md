@@ -1,5 +1,3 @@
-###DEC-057819-0-000-15-02-1966@@@
-
 DECRETO Nº 57.819, DE 15 DE FEVEREIRO DE 1966.
 
 Altera a redação de dispositivos do Decreto nº 55.841, de 15 de março de 1965, que aprova Regulamento para Inspeção do Trabalho.

@@ -1,5 +1,3 @@
-###DEL-007802-0-000-30-07-1945@@@
-
 DECRETO-LEI N. 7.802 – DE 30 DE JULHO DE 1945
 
 Torna extensivo ao Exército o Decreto-lei nº 6.433, de 17 de abril de 1944

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211664)<br>
-
 # LEI N° 18.293, DE 14 DE OUTUBRO DE 2025
 
 ## (Projeto de lei n° 98/2025, do Deputado Rogério Nogueira - PSDB)

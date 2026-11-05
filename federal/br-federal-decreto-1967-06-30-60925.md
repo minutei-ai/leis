@@ -1,5 +1,3 @@
-###DEC-060925-0-000-30-06-1967@@@
-
 DECRETO Nº 60.925, DE 30 DE junho DE 1967.
 
 Dispõe sôbre o registro profissional dos graduados em cursos de Engenheiro-de-Operação, e dá outras providências.

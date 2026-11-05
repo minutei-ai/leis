@@ -8,7 +8,8 @@ Art. 1º Os §§ 1º e 2º do art. 30 da [Lei nº 20.694](https://legisla.casaci
 
 “Art 30 … ............................................................................................
 
-§ 1º O órgão ambiental licenciador poderá, por meio de programas especiais aplicados a conjunto de empreendimentos ou atividades, adotar política de incentivo à regularização de empreendimentos instalados ou em operação sem a prévia licença, inclusive oferecendo descontos, em até 100% (cem por cento), sobre o valor de penalidades passíveis de serem aplicadas ou que já tenham sido aplicadas, com ou sem julgamento final, inclusive as inscritas em dívida ativa ou em execução fiscal, desde que atendidos os requisitos previstos.<br>
+§ 1º O órgão ambiental licenciador poderá, por meio de programas especiais aplicados a conjunto de empreendimentos ou atividades, adotar política de incentivo à regularização de empreendimentos instalados ou em operação sem a prévia licença, inclusive oferecendo descontos, em até 100% (cem por cento), sobre o valor de penalidades passíveis de serem aplicadas ou que já tenham sido aplicadas, com ou sem julgamento final, inclusive as inscritas em dívida ativa ou em execução fiscal, desde que atendidos os requisitos previstos.
+
 \- [Promulgado pela Assembleia Legislativa (D.O. de 3-4-2024)](https://diariooficial.abc.go.gov.br/portal/edicoes/download/6081).
 
 § 2º O desconto estabelecido no § 1º deste artigo será oferecido, no percentual máximo de 100% (cem por cento), aos municípios que aderiram ao Programa LIXÃO ZERO, instituído pelo [Decreto Estadual nº 10.367](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108248), de 19 de dezembro de 2023, observadas as disposições contidas em seu art. 19, garantida a conformidade com os requisitos e condições estabelecidos para a obtenção do benefício.
@@ -20,8 +21,6 @@ Art. 2º Fica estabelecido o prazo comum de 2 de agosto de 2024 como limite para
 Art. 3º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 15 de março de 2024; 136º da República.
-
-<br>
 
 RONALDO CAIADO
 

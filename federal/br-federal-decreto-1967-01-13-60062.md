@@ -1,5 +1,3 @@
-###DEC-060062-0-000-13-01-1967@@@
-
 DECRETO Nº 60.062, DE 13 DE JANEIRO DE 1967.
 
 Declara de utilidade pública o “Sanatório Espírita de Pelotas”, com sede em Pelotas, Estado do Rio Grande do Sul.

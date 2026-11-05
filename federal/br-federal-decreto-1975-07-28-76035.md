@@ -1,5 +1,3 @@
-###DEC-076035-0-000-28-07-1975@@@
-
 DECRETO Nº 76.035 - DE 28 DE JULHO DE 1975.
 
 Concede reconhecimento aos cursos de Ciências, de Estudos Sociais e de Letras, mantidos pela Universidade Católica de Minas Gerais, em convênio com a Associação Monlevade de Serviços Sociais, com sede na cidade de João Monlevade, Estado de Minas Gerais.

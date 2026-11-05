@@ -1,5 +1,3 @@
-###DEC-052867-0-000-19-11-1963@@@
-
 DECRETO Nº 52.867, DE 19 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Octaviano Gomes a pesquisar bauxita no município de Lages, Estado de Santa Catarina.

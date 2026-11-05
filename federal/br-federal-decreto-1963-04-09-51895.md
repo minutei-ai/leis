@@ -1,5 +1,3 @@
-###DEC-051895-0-000-09-04-1963@@@
-
 DECRETO Nº 51.895, DE 9 DE ABRIL DE 1963.
 
 Cria Grupo de Trabalho com a finalidade específica de estudar e propor medidas que possibilitem o desenvolvimento da fruticultura típica do Nordeste.

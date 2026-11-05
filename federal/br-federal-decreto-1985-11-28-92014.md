@@ -1,5 +1,3 @@
-###DEC-092014-0-000-28-11-1985@@@
-
 Decreto nº 92.014, de 28 de novembro de 1985
 
 Declara de ocupação dos silvícolas, área de terras nos Municípios de Tarauacá, no Estado do Acre e Ipixuna, no Estado do Amazonas, e dá outras providências.

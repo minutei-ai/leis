@@ -1,5 +1,3 @@
-###DEC-048947-0-000-15-09-1960@@@
-
 DECRETO Nº 48.947, DE 15 DE SETEMBRO DE 1960.
 
 Transfere sem aumento de despesa função da Tabela Única de Extranumerário Mensalista do Ministério da Viação e Obras Públicas, para idêntica Tabela do Ministério da Fazenda.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/525f2d7a-fd5c-4b70-b47f-0b247706c93c/texto#nowhere)
 
-###DEL-001651-0-000-21-12-1978@@@
-
 # Decreto-lei nº 1.651, de 21 de dezembro de 1978.
 
 Aumenta os limites do Decreto-lei nº  1.312, de 15 de fevereiro de 1974, alterados pelos Decretos-leis nºs 1.460, de 22 de abril de 1976 e 1.562, 19 de julho de 1977 e da outras providências.

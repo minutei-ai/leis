@@ -1,5 +1,3 @@
-###DEL-006186-0-000-06-01-1944@@@
-
 DECRETO-LEI N. 6.186 – DE 6 DE JANEIRO DE 1944
 
 Cria o 38º Batalhão de Caçadores, com sede na 2ª Região Militar

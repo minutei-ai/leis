@@ -1,5 +1,3 @@
-###DEC-007194-0-000-01-06-2010@@@
-
 DECRETO Nº 7.194, DE 1º DE JUNHO DE 2010.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República da Zâmbia, firmado em Brasília, em 14 de março de 2006

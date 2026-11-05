@@ -1,5 +1,3 @@
-###DEC-096245-0-000-30-06-1988@@@
-
 DECRETO Nº 96.245, DE 30 DE JUNHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA TRÊS BARRAS”, classificado como “latifúndio por exploração”, situado no Município de Cristalina, no Estado de Goiás compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.690, de 19 de maio de 1986 e dá outras providências.

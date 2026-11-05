@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210024)<br>
-
 # LEI N° 18.049, DE 23 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 354/2024, da Deputada Maria Lúcia Amary – PSDB)

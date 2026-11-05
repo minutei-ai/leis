@@ -1,5 +1,3 @@
-###DEL-008896-0-000-24-01-1946@@@
-
 DECRETO–LEI N.8.896 – DE 24 DE JANEIRO DE 1946
 
 Consolida disposições do Decreto–lei nº 3.232, de 5 de maio de 1941 e subsequentes sobre o Departamento de Administração do Ministério da Viação e Obras Públicas e dá outras providências.

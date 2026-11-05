@@ -1,4 +1,5 @@
-LEI COMPLEMENTAR Nº 020, DE 27 DE OUTUBRO DE 2009.<br>
+LEI COMPLEMENTAR Nº 020, DE 27 DE OUTUBRO DE 2009.
+
 (Revogada pela Lei Complementar nº 023, de 24 de junho de 2010)
 
 ~~Cria a Superintendência da Guarda Municipal de Aparecida de Goiânia, reestrutura a corporação da Guarda Municipal e dá outras providências.~~
@@ -127,10 +128,12 @@ LEI COMPLEMENTAR Nº 020, DE 27 DE OUTUBRO DE 2009.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e sete dias do mês de outubro de dois mil e nove.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL~~
 
-~~ELI DE FARIA<br>
+~~ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO~~
 
 ~~ANEXO ÚNICO~~

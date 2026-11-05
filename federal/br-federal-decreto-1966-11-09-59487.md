@@ -1,5 +1,3 @@
-###DEC-059487-0-000-09-11-1966@@@
-
 DECRETO Nº 59.487, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro José Emilio Baptista a pesquisar argila no Município de Taubaté, Estado de São Paulo.

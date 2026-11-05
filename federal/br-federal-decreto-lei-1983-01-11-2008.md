@@ -1,5 +1,3 @@
-###DEL-002008-0-000-11-01-1983@@@
-
 # Decreto-lei nº 2.008, de 11 de janeiro de 1983
 
 Reajusta o valor do soldo base do cálculo da remuneração PM da Polícia Militar e dos BM do Corpo de Bombeiros do Distrito Federal.

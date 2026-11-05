@@ -1,5 +1,3 @@
-###MPV-001875-0-052-29-06-1999@@@
-
 MEDIDA PROVISóRIA Nº 1.875-52, DE 29 DE Junho DE 1999.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

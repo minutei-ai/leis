@@ -1,5 +1,3 @@
-###DEC-054412-0-000-12-10-1964@@@
-
 DECRETO N.º 54.412,DE 12 DE OUTUBRO DE 1964.
 
 Outorga-à Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia nos municípios de Prados, Rezende Costa, Tiradentes e Dores do Campo, no Estado de Minas Gerais.

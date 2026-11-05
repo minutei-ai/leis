@@ -1,5 +1,3 @@
-###DEL-003714-0-000-15-10-1941@@@
-
 DECRETO-LEI N. 3.714 – DE 15 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério de Educação e Saude, o crédito especial de réis 924:416$3 para pagamento a The Rio de Janeiro City Improvements Company Limited.

@@ -1,5 +1,3 @@
-###DEC-062261-0-000-14-02-1968@@@
-
 DECRETO Nº 62.261, DE 14 DE FEVEREIRO DE 1968.
 
 Autoriza o funcionamento de Escola.

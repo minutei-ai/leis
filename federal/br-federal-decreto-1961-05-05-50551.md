@@ -1,5 +1,3 @@
-###DEC-050551-0-000-05-05-1961@@@
-
 DECRETO Nº 50.551, DE 5 DE MAIO DE 1961.
 
 Autoriza a firma Irmãos Ribeiro Pedras Preciosas Ltda., a comprar pedras preciosas.

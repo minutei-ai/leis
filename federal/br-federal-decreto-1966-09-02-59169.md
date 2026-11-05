@@ -1,5 +1,3 @@
-###DEC-059169-0-000-02-09-1966@@@
-
 Decreto Nº 59.169, DE 2 DE SETEMBRO DE 1966.
 
 Declara de utilidade pública, para efeito de desapropriação, o prédio sito na rua Senador Furtado número 121, o terreno e imóvel situados na mesma rua nº 125, o terreno situado na mesma rua nº 129, e a área entre êsse prédio e a esquina da Avenida Radial-Oeste, na cidade do Rio de Janeiro, Estado da Guanabara.

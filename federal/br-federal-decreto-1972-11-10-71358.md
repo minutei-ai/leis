@@ -1,5 +1,3 @@
-###DEC-071358-0-000-10-11-1972@@@
-
 DECRETO Nº 71.358 - DE 10 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à construção do Açude Público Pedras Brancas, no município de Quixadá Estado do Ceará.

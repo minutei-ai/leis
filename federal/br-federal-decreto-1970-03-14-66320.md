@@ -1,5 +1,3 @@
-###DEC-066320-0-000-14-03-1970@@@
-
 DECRETO Nº 66.320 - dE 14 DE MARÇO DE 1970
 
 Autoriza funcionamento da Escola de Ciências Médicas.

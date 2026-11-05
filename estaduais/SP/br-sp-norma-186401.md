@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/186401)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16722-18.05.2018.html)
 
 # LEI N° 16.722, DE 18 DE MAIO DE 2018
@@ -21,12 +20,18 @@ _\- Artigo 1° com redação dada pela [Lei n° 17.872, de 18/03/2024](https://w
 
 **Artigo 2° -** Esta lei entra em vigor na data de sua publicação.
 
-Palácio dos Bandeirantes, 18 de maio de 2018<br>
-MÁRCIO FRANÇA<br>
-Márcio Fernando Elias Rosa<br>
-Secretário da Justiça e da Defesa da Cidadania<br>
-Claudio Valverde Santos<br>
-Secretário-Chefe da Casa Civil<br>
+Palácio dos Bandeirantes, 18 de maio de 2018
+
+MÁRCIO FRANÇA
+
+Márcio Fernando Elias Rosa
+
+Secretário da Justiça e da Defesa da Cidadania
+
+Claudio Valverde Santos
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnica da Casa Civil, em 18 de maio de 2018.
 
 _\- Texto retificado no_ [_Diário Oficial Executivo I de 23/05/2018_](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20180523&Caderno=DOE-I&NumeroPagina=1)_._

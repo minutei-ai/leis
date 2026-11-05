@@ -1,5 +1,3 @@
-###DEC-082639-0-000-14-11-1978@@@
-
 Decreto nº 82.639, de 14 de novembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade de Estado de São Paulo.

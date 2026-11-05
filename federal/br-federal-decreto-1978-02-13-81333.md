@@ -1,5 +1,3 @@
-###DEC-081333-0-000-13-02-1978@@@
-
 decreto nº 81.333, de 13 de fevereiro de 1978.
 
 Dispõe sobre Avaliação de Desempenho dos servidores em exercício nos órgãos que especifica e dá outras providências.

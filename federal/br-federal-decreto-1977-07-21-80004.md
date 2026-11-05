@@ -1,5 +1,3 @@
-###DEC-080004-0-000-21-07-1977@@@
-
 decreto nº 80.004, de 21 de julho de 1977
 
 Concede à Companhia de Mineração Serra da Moeda o direito de lavrar minério de ferro no Município de Congonhas, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047052-0-000-19-10-1959@@@
-
 DECRETO Nº 47.052, DE 19 DE OUTUBRO DE 1959
 
 Declara de utilidade pública, par desapropriação, os imóveis que menciona, situados no Distrito Federal.

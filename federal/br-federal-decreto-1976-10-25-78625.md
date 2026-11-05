@@ -1,5 +1,3 @@
-###DEC-078625-0-000-25-10-1976@@@
-
 DECRETO Nº 78.625, de 25 de outubro de 1976.
 
 Autoriza o funcionamento da Faculdade de Formação de Professores de 1º grau, com sede na Cidade da Vitória de Santo Antão, Estado de Pernambuco.

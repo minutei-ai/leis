@@ -1,5 +1,3 @@
-###DEC-072839-0-000-25-09-1973@@@
-
 DECRETO Nº 72.839, DE 25 DE SETEMBRO DE 1973.
 
 Autoriza o funcionamento da Faculdade de Desenho e Plástica, mantida pela Associação Cultural e Educacional de Franca, com sede na cidade Franca, Estado de São Paulo.

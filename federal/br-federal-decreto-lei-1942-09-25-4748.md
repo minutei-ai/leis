@@ -1,5 +1,3 @@
-###DEL-004748-0-000-25-09-1942@@@
-
 DECRETO-LEI N. 4.748 – DE 25 DE SETEMBRO DE 1942
 
 Cria a 7ª Companhia Independente de Guardas, com sede em Caruarú

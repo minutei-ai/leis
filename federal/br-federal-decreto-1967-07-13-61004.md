@@ -1,5 +1,3 @@
-###DEC-061004-0-000-13-07-1967@@@
-
 DECRETO Nº 61.004, DE 13 DE JULHO DE 1967.
 
 Retifica o enquadramento dos cargos da Comissão de Marinha Mercante, aprovado pelo Decreto nº 51.358, de 24 de novembro de 1961.

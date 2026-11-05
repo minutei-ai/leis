@@ -1,5 +1,3 @@
-###DEC-085369-0-000-18-11-1980@@@
-
 Decreto nº 85.369, de 18 de novembro de 1980.
 
 Concede à Telecomunicações Brasileiras S.A. - TELEBRÁS, empresa vinculada ao Ministério das Comunicações, autorização para promover o aumento do seu capital social.

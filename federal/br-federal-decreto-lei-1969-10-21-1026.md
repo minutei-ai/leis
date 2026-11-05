@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/107c0f08-f76e-4178-a391-e0718e3f0d78/texto#nowhere)
 
-###DEL-001026-0-000-21-10-1969@@@
-
 Decreto-lei nº 1.026, de 21 de Outubro de 1969
 
 Altera disposições da Lei nº 4.822, de 29 de outubro de 1965, alterada pela Lei nº 5.141, de 14 de outubro de 1966, que estabelece princípios, condições e critérios básicos para as promoções dos Oficiais da Marinha do Brasil, e dá outras providências.

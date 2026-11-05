@@ -1,5 +1,3 @@
-###DEC-093316-0-000-01-10-1986@@@
-
 DECRETO Nº 93.316, DE 1 DE OUTUBRO DE 1986
 
 Institui a hora de verão no território nacional.

@@ -1,5 +1,3 @@
-###DEC-085737-0-000-18-02-1981@@@
-
 Decreto nº 85.737, de 18 de fevereiro de 1981.
 
 Delega competência para nomeação das autoridades que menciona e dá outras providências.

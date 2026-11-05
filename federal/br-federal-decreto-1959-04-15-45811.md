@@ -1,5 +1,3 @@
-###DEC-045811-0-000-15-04-1959@@@
-
 DECRETO Nº 45.811, DE 15 DE ABRIL DE 1959.
 
 Dá nova organização ao Instituto Superior de Estudos Brasileiros, instituído no Ministério da Educação e Cultura pelo Decreto nº 37.608, de 14 de julho de 1955, modificado pelo de nº 41.500, de 15 de maio de 1957, dispõe sôbre o seu funcionamento e dá outras providencias.

@@ -1,7 +1,3 @@
-1
-
-###DEC-001161-0-000-22-06-1994@@@
-
 DECRETO N° 1.161, DE 22 DE JUNHO DE 1994
 
 Promulga o Acordo sobre Serviços Aéreos entre o Governo da República Federativa do Brasil e o Governo do Reino da Tailândia, celebrado em 21 de março de 1991, em Brasília.
@@ -300,8 +296,6 @@ Em testemunho do que, os abaixo assinados, devidamente autorizados por seus resp
 
 Feito em Brasília, aos 21 dias do mês de março de 1991,em três idiomas português, tailandês, cada qual de igual autenticidade. Em caso de divergência de interpretação de interpretação ,prevalecerá o texto em inglês.
 
-<br>
-
 1
 
 PELO GOVERNO DA REPÚBLICA
@@ -315,8 +309,6 @@ PELO GOVERNO DO REINO
 DA TAILÂNDIA
 
 Anurak Thananan
-
-<br>
 
 1
 

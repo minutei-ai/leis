@@ -1,5 +1,3 @@
-###DEC-092815-0-000-24-06-1986@@@
-
 decreto nº 92.815, de 24 de junho de 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Santa Rita do Pontal", situado no Município de Teodoro Sampaio, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.

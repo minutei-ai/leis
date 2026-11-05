@@ -1,5 +1,3 @@
-###DEC-050815-0-000-21-06-1961@@@
-
 DECRETO Nº 50.815, DE 21 DE JUNHO DE 1961.
 
 Revoga o Decreto nº 39.352, de 12 de junho de 1956

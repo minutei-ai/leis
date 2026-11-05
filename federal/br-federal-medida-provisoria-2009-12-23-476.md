@@ -1,5 +1,3 @@
-###MPV-000476-0-000-23-12-2009@@@
-
 MEDIDA PROVISÓRIA Nº 476, DE 23 DE DEZEMBRO DE 2009.
 
 Dispõe sobre a concessão de crédito presumido do Imposto sobre Produtos Industrializados - IPI na aquisição de resíduos sólidos por estabelecimento industrial para utilização como matérias-primas ou produtos intermediários na fabricação de seus produtos, e dá outras providências.

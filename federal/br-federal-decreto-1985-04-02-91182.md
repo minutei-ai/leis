@@ -1,5 +1,3 @@
-###DEC-091182-0-000-02-04-1985@@@
-
 Decreto nº 91.182, de 02 de abril de 1985.
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Instituto de Ensino Superior do Alto Uruguai.

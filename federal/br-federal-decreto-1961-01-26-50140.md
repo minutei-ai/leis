@@ -1,5 +1,3 @@
-###DEC-050140-0-000-26-01-1961@@@
-
 DECRETO Nº 50.140, DE 26 DE janeiro DE 1961.
 
 Consigna ao Congresso Nacional para utilização em sua estação radiodifusora as freqüências que menciona.

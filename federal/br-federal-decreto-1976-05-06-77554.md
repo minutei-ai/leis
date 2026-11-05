@@ -1,5 +1,3 @@
-###DEC-077554-0-000-06-05-1976@@@
-
 DECRETO Nº 77.554, DE 6 DE MAIO DE 1976
 
 Autoriza a alienação do terreno que menciona, situado no Município de Januária, Estado de Minas Gerais.

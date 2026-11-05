@@ -1,5 +1,3 @@
-###DEC-083444-0-000-10-05-1979@@@
-
 Decreto nº 83.444, de 10 de maio de 1979.
 
 Institui o Grupo de Trabalho Especial destinado a estudar e propor medidas para a formulação de uma política global de Informática no País, e dá outras providências.

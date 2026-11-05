@@ -1,5 +1,3 @@
-###DEC-094358-0-000-21-05-1987@@@
-
 DECRETO Nº 94.358, DE 21 DE MAIO DE 1987.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Gleba Riachuelo" (parte), situado no Município de Lima Campos, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

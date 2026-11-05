@@ -1,5 +1,3 @@
-###DEC-054280-0-000-10-09-1964@@@
-
 DECRETO Nº 54.280, DE 10 DE SETEMBRO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal do Conselho Regional de Economistas Profissionais da 4º Região (Rio Grande do Sul e Santa Catarina), e dá outras providências.

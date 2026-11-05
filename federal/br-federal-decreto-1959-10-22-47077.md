@@ -1,5 +1,3 @@
-###DEC-047077-0-000-22-10-1959@@@
-
 DECRETO Nº 47.077, DE 22 DE OUTUBRO DE 1959.
 
 Declara sem efeito o Decreto número 46.817, de 15 de setembro de 1959.

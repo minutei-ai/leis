@@ -1,5 +1,3 @@
-###DEC-071932-0-000-19-03-1973@@@
-
 DECRETO Nº 71.932, DE 19 DE MARÇO DE 1973.
 
 Concede à Companhia de Pesquisa e Lavras Minerais - COPELMI o direito de lavrar carvão mineral no município de Triunfo, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###MPV-001819-0-000-31-03-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.819, 31 DE MARÇO DE 1999.
 
 Altera dispositivos das Leis nº 3.890-A, de 25 de abril de 1961, nº 5.655, de 20 de maio de 1971, nº 5.899, de 5 de julho de 1973, nº 9.074, de 7 de julho de 1995, nº 9.427, de 26 de dezembro de 1996, e nº 9.648, de 27 de maio de 1998, e dá outras providências.

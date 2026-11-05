@@ -1,5 +1,3 @@
-###DEC-085616-0-000-06-01-1981@@@
-
 Decreto nº 85.616, de 06 dejaneiro de 1981
 
 Autoriza o aumento de potência da RÁDIO CENTRO OESTE DE PINHALZINHO LTDA., na cidade de Pinhalzinho, Estado de Santa Catarina.

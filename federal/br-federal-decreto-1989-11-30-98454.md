@@ -1,5 +1,3 @@
-###DEC-098454-0-000-30-11-1989@@@
-
 DECRETO Nº 98.454, DE 30 DE NOVEMBRO DE 1989
 
 Abre ao Orçamento Fiscal da União, em favor de diversos Órgãos, créditos adicionais no valor de NCz$ 25.232.448.371,00 para os fins que especifica.

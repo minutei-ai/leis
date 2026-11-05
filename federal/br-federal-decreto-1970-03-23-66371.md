@@ -1,5 +1,3 @@
-###DEC-066371-0-000-23-03-1970@@@
-
 DECRETO Nº 66.371 - DE 23 DE MARÇO DE 1970
 
 Extingue o Destacamento de Base Aérea de Manaus e o Grupamento de Aeronáutica de Manaus, dá outras providências.

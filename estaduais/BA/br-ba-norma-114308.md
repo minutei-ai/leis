@@ -2,7 +2,8 @@ LEI Nº 1.497 DE 25 DE SETEMBRO DE 1961
 
 Cria o Município de Itaeté, desmembrado do de Andaraí.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.907](https://www.legislabahia.ba.gov.br/documentos/lei-no-1497-de-25-de-setembro-de-1961#_GoBack) de 26 de setembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Chapada Diamantina, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Abaíra, Andaraí, Barra da Estiva, Boninal, Bonito, Ibicoara, Ibitiara, Iramaia, Iraquara, Itaetê, Jussiape, Lençóis, Marcionílio Souza, Morro do Chapéu, Mucugê, Nova Redenção, Novo Horizonte, Palmeiras, Piatã, Rio de Contas, Seabra, Souto Soares, Utinga e Wagner.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -65,4 +66,4 @@ ONDE SE LÊ: na lagoa do Corobó;
 
 LEIA-SE: na lagoa do Orobó.
 
-* * *
+ *

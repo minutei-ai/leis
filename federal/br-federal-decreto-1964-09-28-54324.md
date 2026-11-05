@@ -1,5 +1,3 @@
-###DEC-054324-0-000-28-09-1964@@@
-
 DECRETO Nº 54.324, DE 28 DE Setembro DE 1964.
 
 Autoriza o cidadão brasileiro Eurico Ferreira Santos a pesquisar Galena, na município de Altamira, Estado do Pará.

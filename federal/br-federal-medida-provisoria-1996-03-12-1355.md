@@ -1,7 +1,3 @@
-1
-
-###MPV-001355-0-000-12-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.355, DE 12 DE MARÇO DE 1996.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

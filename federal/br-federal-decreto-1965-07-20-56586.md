@@ -1,5 +1,3 @@
-###DEC-056586-0-000-20-07-1965@@@
-
 DECRETO Nº 56.586, DE 20 DE JULHO DE 1965.
 
 Autoriza o cidadão brasileiro Manoel Jorge Curi a pesquisar esmeralda no município de Conquista, Estado da Bahia.

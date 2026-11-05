@@ -1,5 +1,3 @@
-###DEC-048888-0-000-26-08-1960@@@
-
 DECRETO Nº 48.888, DE 26 DE AGÔSTO DE 1960.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Tupã com sede em Tupã, Estado de São Paulo.

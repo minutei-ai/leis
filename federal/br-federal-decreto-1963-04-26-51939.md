@@ -1,5 +1,3 @@
-###DEC-051939-0-000-26-04-1963@@@
-
 DECRETO Nº 51.939, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Alípio Gonçalves a pesquisar caulim no município de Buenópolis, Estado de Minas Gerais.

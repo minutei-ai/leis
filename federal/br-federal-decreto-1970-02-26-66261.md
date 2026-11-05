@@ -1,5 +1,3 @@
-###DEC-066261-0-000-26-02-1970@@@
-
 DECRETO Nº 66.261 - DE 26 DE FEVEREIRO DE 1970
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado na cidade de Três Passos, no Estado do Rio Grande do Sul.

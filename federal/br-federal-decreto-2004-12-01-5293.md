@@ -1,5 +1,3 @@
-###DEC-005293-0-000-01-12-2004@@@
-
 DECRETO Nº 5.293 DE 1º DE DEZEMBRO DE 2004
 
 Dispõe sobre a execução do Décimo Sexto Protocolo Adicional ao Acordo de Complementação Econômica nº 39, entre os Governos da República Federativa do Brasil e da República Bolivariana da Venezuela, de 27 de agosto de 2004.
@@ -24,9 +22,12 @@ LUIZ INÁCIO LULA DA SILVA
 
 Celso Luiz Nunes Amorim
 
-# ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 39 ASSINADO<br>
-ENTRE AS REPÚBLICAS DA COLÔMBIA, DO EQUADOR, DO PERU<br>
-E DA VENEZUELA, PAÍSES-MEMBROS DA COMUNIDADE ANDINA,<br>
+# ACORDO DE COMPLEMENTAÇÃO ECONÔMICA Nº 39 ASSINADO
+
+ENTRE AS REPÚBLICAS DA COLÔMBIA, DO EQUADOR, DO PERU
+
+E DA VENEZUELA, PAÍSES-MEMBROS DA COMUNIDADE ANDINA,
+
 E A REPÚBLICA FEDERATIVA DO BRASIL
 
 ## Décimo Sexto Protocolo Adicional

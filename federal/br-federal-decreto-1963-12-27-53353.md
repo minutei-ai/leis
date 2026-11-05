@@ -1,5 +1,3 @@
-###DEC-053353-0-000-27-12-1963@@@
-
 DECRETO Nº 53.353, DE 27 DE DEZEMBRO DE 1963.
 
 Aprova a Tabela de Pessoal Temporário do Serviço Nacional dos Municípios (SENAM) para o exercício de 1964.
@@ -23,8 +21,6 @@ Art. 5º Revogam-se as disposições em contrário.
 Brasília, Distrito Federal, 27 de dezembro de 1963; 142º da Independência e 75º da República.
 
 João Goulart
-
-###DEC-053353-0-000-27-12-1963@@@RET01+++
 
 Decreto nº 53.353, de 27 de dezembro de 1963.
 

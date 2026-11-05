@@ -1,5 +1,3 @@
-###DEC-056506-0-000-28-06-1965@@@
-
 DECRETO Nº 56.506, DE 28 DE JUNHO DE 1965.
 
 Retifica a classificação constante do Decreto nº 54.015, de 13 de julho de 1964, na parte referente à série de classes de Farmacêutico.

@@ -1,5 +1,3 @@
-###DEC-081355-0-000-20-02-1978@@@
-
 DECRETO Nº 81 355, DE 20 DE FEVEREIRO DE 1978
 
 Declara sem efeito o Decreto nº 8.753, de 13 de fevereiro de 1942, que autorizou a Mineração Geral do Brasil Limitada a lavrar minério de ferro e associados no Município de Brumadinho, Estado de Minas Gerais.

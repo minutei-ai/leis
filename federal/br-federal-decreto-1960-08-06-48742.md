@@ -1,5 +1,3 @@
-###DEC-048742-0-000-06-08-1960@@@
-
 decreto nº 48.742, de 6 de agôsto de 1960.
 
 Transfere dotação do Quadro Suplementar do Ministério da Fazenda o Quadro Permanente do mesmo Ministério.

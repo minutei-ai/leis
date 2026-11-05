@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209545)<br>
-
 # DECRETO N° 68.596, DE 10 DE JUNHO DE 2024
 
 ### _Autoriza a abertura de licitação para a concessão da prestação dos serviços públicos lotéricos no Estado de São Paulo e dá providências correlatas._
@@ -76,7 +74,8 @@ Rafael Antonio Cren Benini          
 
 #### REGULAMENTO DA CONCESSÃO ADMINISTRATIVA DOS SERVIÇOS PÚBLICOS LOTÉRICOS DO ESTADO DE SÃO PAULO    
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Do Objetivo
 
 **Artigo 1° -** Este regulamento tem por objetivo disciplinar os serviços públicos lotéricos do Estado de São Paulo e a realização dos investimentos necessários para a respectiva exploração, nas modalidades:  
@@ -95,7 +94,8 @@ V - loteria passiva, em que o apostador adquire bilhete já numerado, em meio f�
 
 **§ 2° -** Os serviços públicos a que alude o "caput" deste artigo, nos meios físico e virtual, somente poderão ser prestados no território estadual.    
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Dos Serviços Públicos Lotéricos
 
 **Artigo 2° -** Os serviços públicos lotéricos serão prestados pela concessionária, ou por terceiros por ela contratados, observadas as regras previstas no contrato de concessão, e corresponderão às funções operacionais e aos investimentos necessários à respectiva prestação, incluindo infraestruturas físicas e virtuais, nos termos do caderno de encargos que acompanha o edital de licitação.    
@@ -112,7 +112,8 @@ IV - pagamento de prêmios aos apostadores ganhadores.    
 
 **Artigo 4° -** A concessionária poderá explorar atividades geradoras de receitas acessórias, nos termos do contrato de concessão e seus anexos.    
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Responsabilidades da Concessionária
 
 **Artigo 5° -** São deveres da concessionária, durante todo o prazo de concessão:  
@@ -155,7 +156,8 @@ XVIII - não oferecer, prometer, dar, autorizar, solicitar ou aceitar, direta ou
 
 XIX - apresentar e implementar o Plano de Jogo Responsável, aplicando todas as ferramentas de gestão, de comunicação e marketing para o perfeito e completo entendimento do público paulista da política do jogo responsável, estabelecendo as regras mínimas sobre práticas responsáveis para comercialização dos produtos lotéricos em ambiente físico e virtual, incluindo, dentre outros, combate à ludopatia, proibição da aquisição de produtos lotéricos por crianças e adolescentes, treinamento de funcionários com a finalidade de auxiliar os usuários com relação ao jogo responsável e disponibilizar aos usuários mecanismos de autoexclusão, todos em observância às melhores práticas do setor de loterias.    
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 Do Acompanhamento da Concessão, da Fiscalização dos Serviços Concedidos e das Penalidades
 
 **Artigo 6° -** A Agência Reguladora de Serviços Públicos do Estado de São Paulo - ARSESP atuará, na forma prevista no contrato, no acompanhamento da concessão e na fiscalização dos serviços concedidos.  
@@ -186,7 +188,8 @@ e) a mensuração dos indicadores de desempenho realizada pelo verificador indep
 
 **§ 2° -** Os fatores a que se refere o §1° serão aferidos a partir dos parâmetros definidos nos anexos do contrato.    
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 Das Receitas
 
 **Artigo 8° -** Constituem fontes de receita da concessionária, a serem auferidas nos termos do contrato de concessão:  
@@ -205,7 +208,8 @@ VI - receitas acessórias obtidas em conformidade com a disciplina contratual; �
 
 VII - outras receitas previstas no edital e no contrato respectivo, ou que venham a ser regulamentadas pelo Poder Concedente ou, ainda, propostas pela concessionária e previamente autorizadas pelo Poder Concedente, observado o compartilhamento previsto no contrato.    
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 Dos Direitos e Obrigações dos Usuários dos Serviços Públicos Lotéricos
 
 **Artigo 9° -** São direitos e obrigações dos usuários:  
@@ -230,7 +234,8 @@ IX - estar garantidos pelos seguros e garantias previstos no contrato de concess
 
 X - valer-se de infraestrutura virtual e física adaptada às pessoas portadoras de deficiência ou com mobilidade reduzida, inclusive idosos, nos termos previstos nas normas vigentes.    
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 Das Disposições Gerais
 
 **Artigo 10 -** A Secretaria de Parcerias em Investimentos, mediante ato próprio, poderá editar normas complementares necessárias à execução deste regulamento.

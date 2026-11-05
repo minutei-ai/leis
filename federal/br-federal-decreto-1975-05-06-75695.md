@@ -1,5 +1,3 @@
-###DEC-075695-0-000-06-05-1975@@@
-
 DECRETO Nº 75.695, DE 6 DE MAIO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Guarujá Ltda., para executar serviços de radiodifusão sonora, em onda médio de âmbito regional, na Cidade de Florianópolis, Estado de Santa Catarina.

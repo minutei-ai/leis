@@ -1,5 +1,3 @@
-###DEC-072265-0-000-16-05-1973@@@
-
 decreto nº 72.265, de 16 de maio de 1973.
 
 Inclui na relação aprovada pelo Decreto nº 70.154, de 17 de fevereiro de 1972, a Comissão para Concessão de Benefícios Fiscais a Programas Especiais de Exportação (BEFIEX), criado pelo Decreto-lei nº 1.219, de 15 de maio de 1972.

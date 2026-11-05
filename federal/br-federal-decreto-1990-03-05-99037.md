@@ -1,7 +1,3 @@
-1
-
-###DEC-099037-0-000-05-03-1990@@@
-
 DECRETO N° 99.037, DE 5 DE MARÇO DE 1990
 
 Revoga o Decreto n.° 97 977, de 18 de julho de 1989, que declarou de interesse social, para fins de reforma agrária, o imóvel rural denominado “PAIOL”, também conhecido como “PORTO DO PAIOL”, situado nos Municípios de Caxias e Parnarama, no Estado do Maranhão.

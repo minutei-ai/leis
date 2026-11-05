@@ -1,5 +1,3 @@
-###DEC-050875-0-000-29-06-1961@@@
-
 Decreto nº 50.875, de 29 de junho de 1961.
 
 Suprime cargo extinto.

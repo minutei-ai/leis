@@ -1,5 +1,3 @@
-###DEC-058077-0-000-24-03-1966@@@
-
 DECRETO Nº 58.077, DE 24 DE MARÇO DE 1966.
 
 Converte em Monumento Nacional o Município fluminense de Parati e dá outras providências.

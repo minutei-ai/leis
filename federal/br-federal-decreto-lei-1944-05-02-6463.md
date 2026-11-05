@@ -1,5 +1,3 @@
-###DEL-006463-0-000-02-05-1944@@@
-
 DECRETO-LEI N. 6.463 – DE 2 DE MAIO DE 1944
 
 Cria o Serviço de Fundos da Fôrça Expedicionária Brasileira, e dá outras providências

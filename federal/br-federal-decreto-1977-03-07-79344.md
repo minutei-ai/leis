@@ -1,5 +1,3 @@
-###DEC-079344-0-000-07-03-1977@@@
-
 DECRETO Nº 79.344, DE 7 DE MARÇO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de Belém, Estado do Pará.

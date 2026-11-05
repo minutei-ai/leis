@@ -1,5 +1,3 @@
-###DEC-076882-0-000-22-12-1975@@@
-
 DECRETO Nº 76.882, DE 22 DE DEZEMBRO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

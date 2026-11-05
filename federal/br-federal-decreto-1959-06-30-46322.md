@@ -1,5 +1,3 @@
-###DEC-046322-0-000-30-06-1959@@@
-
 decreto nº 46.322, de 30 de junho de 1959.
 
 Transfere da Cia. Luz e Fôrça Hulha Branca para “Centrais Elétricas de Minas Gerais S.A.”, a concessão para produção e fornecimento de energia elétrica ao município de Sete Lagoas, Estado de Minas Gerais.

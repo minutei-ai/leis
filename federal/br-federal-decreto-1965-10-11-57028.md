@@ -1,5 +1,3 @@
-###DEC-057028-0-000-11-10-1965@@@
-
 DECRETO Nº 57.028, DE 11 DE OUTUBRO DE 1965.
 
 Concede estímulo às indústrias de fiação, tecelagem, couros, calçados e seus artefatos.

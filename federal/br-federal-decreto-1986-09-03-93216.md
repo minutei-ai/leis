@@ -1,5 +1,3 @@
-###DEC-093216-0-000-03-09-1986@@@
-
 DECRETO Nº 93.216, DE 03 DE SETEMBRO DE 1986
 
 Dispõe sobre o controle e a fiscalização das empresas estatais, e dá outras providências.

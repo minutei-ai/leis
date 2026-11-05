@@ -1,5 +1,3 @@
-###MPV-001808-0-000-09-02-1999@@@
-
 medida provisória nº 1.808, de 9 de fevereiro de 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$183.000.000,00, para os fins que especifica.

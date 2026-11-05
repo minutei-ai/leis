@@ -1,4 +1,5 @@
-DECRETO “N” Nº 272, DE 24 DE ABRIL DE 2023.<br>
+DECRETO “N” Nº 272, DE 24 DE ABRIL DE 2023.
+
 (Revogado pelo Decreto "N" Nº 463, de 17 de julho de 2023).
 
 ~~Dispõe sobre a alteração de destinação das áreas públicas municipais situados no Setor Planície, neste Município.~~
@@ -23,8 +24,10 @@ DECRETO “N” Nº 272, DE 24 DE ABRIL DE 2023.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, 24 de Abril de 2023.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito Municipal~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Secretário de Governo~~

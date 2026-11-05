@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183823)
-
 # DECRETO Nº 62.900, DE 30 DE OUTUBRO DE 2017
 
 ### _Altera o Decreto nº 62.790, de 16-08-2017, que isenta do ICMS operações com bens ou mercadorias comercializados na Feira Escandinava_
@@ -18,13 +16,18 @@ Palácio dos Bandeirantes, 30 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Helcio Tokeshi<br>
-Secretário da Fazenda<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
+Helcio Tokeshi
+
+Secretário da Fazenda
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
 Saulo de Castro Abreu Filho
 
-Secretário de Governo<br>
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 30 de outubro de 2017.
 
 OFÍCIO GS-CAT Nº 1.015/2017
@@ -41,7 +44,10 @@ Helcio Tokeshi
 
 Secretário da Fazenda
 
-A Sua Excelência o Senhor<br>
-GERALDO ALCKMIN<br>
-Governador do Estado de São Paulo<br>
+A Sua Excelência o Senhor
+
+GERALDO ALCKMIN
+
+Governador do Estado de São Paulo
+
 Palácio dos Bandeirantes

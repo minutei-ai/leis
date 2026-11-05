@@ -1,5 +1,3 @@
-###DEC-089384-0-000-15-02-1984@@@
-
 Decreto nº 89.384, de 15 de fevereiro de 1984
 
 Autoriza o funcionamento de habilitação do curso de Pedagogia da Faculdade de Educação e Ciências Humanas Professor Laerte de Carvalho.

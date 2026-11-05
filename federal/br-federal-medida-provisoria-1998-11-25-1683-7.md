@@ -1,5 +1,3 @@
-###MPV-001683-0-007-25-11-1998@@@
-
 medida provisória nº 1.683-7, de 25 de novembro de 1998.
 
 Institui o Programa Especial de Financiamento para combate aos efeitos da estiagem na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE, e dá outras providências.

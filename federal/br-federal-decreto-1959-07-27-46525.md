@@ -1,5 +1,3 @@
-###DEC-046525-0-000-27-07-1959@@@
-
 DECRETO Nº 46.525, DE 27 DE JULHO DE 1959.
 
 Amplia a zona de fornecimento da Companhia Paulista de Fôrça de Luz.

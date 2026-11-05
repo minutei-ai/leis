@@ -1,5 +1,3 @@
-###DEC-051454-0-000-11-04-1962@@@
-
 decreto nº 51.454, de 11 de abril de 1962.
 
 Abre, ao Ministério da saúde, o crédito especial de Cr$15.000.000,00 (quinze milhões de cruzeiros), destinado à construção e equipamento de um hospital na cidade de Maués, no Estado do Amazonas.
@@ -21,8 +19,6 @@ ranieri mazzilli
 Tancredo Neves
 
 Souto Maior
-
-###DEC-051454-0-000-11-04-1962@@@RET01+++
 
 DECRETO Nº 51.454, DE 11 DE ABRIL DE 1962.
 

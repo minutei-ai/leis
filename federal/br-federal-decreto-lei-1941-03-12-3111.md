@@ -1,5 +1,3 @@
-###DEL-003111-0-000-12-03-1941@@@
-
 DECRETO-LEI N. 3.111 – DE 12 DE MARÇO DE 1941
 
 Cria no Conselho Nacional de Águas e Energia Elétrica a Secção de Documentação, e dá outras providências

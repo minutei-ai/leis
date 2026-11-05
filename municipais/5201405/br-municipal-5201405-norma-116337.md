@@ -20,8 +20,10 @@ Art. 2º Esta Lei entra em vigor na data de sua publicação, revogando disposi�
 
 Gabinete do Município de Aparecida Goiânia-GO, 09 de janeiro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
-Chefe da Casa Civil<br>
+OLAVO NOLETO ALVES
+
+Chefe da Casa Civil

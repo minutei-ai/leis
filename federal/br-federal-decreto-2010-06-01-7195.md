@@ -1,5 +1,3 @@
-###DEC-007195-0-000-01-06-2010@@@
-
 DECRETO Nº 7.195, DE 1º DE JUNHO DE 2010.
 
 Promulga o Acordo, por Troca de Notas, entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos da América sobre a Alteração do Prazo de Validade dos Vistos e os Emolumentos Consulares Incidentes sobre os Mesmos Vistos, firmado em Brasília, em 14 de novembro de 2008.

@@ -1,5 +1,3 @@
-###DEC-050630-0-000-19-05-1961@@@
-
 DECRETO Nº 50.630, DE 19 DE MAIO DE 1961.
 
 Concede à Companhia de Navegação Marítima Netumar autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

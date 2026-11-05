@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209334)<br>
-
 # DECRETO N° 68.469, DE 22 DE ABRIL DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Mérito Jurídico", instituída pelo Instituto Histórico Militar - IHM e dá providências correlatas._

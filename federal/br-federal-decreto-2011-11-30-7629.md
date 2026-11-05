@@ -1,5 +1,3 @@
-###DEC-007629-0-000-30-11-2011-PUB-01@@@
-
 DECRETO N°\- 7.629, DE 30 DE NOVEMBRO DE 2011
 
 Regulamenta critérios e procedimentos para progressão funcional e promoção nas carreiras  do Departamento Nacional de Produção Mineral - DNPM, de que trata a Lei n° 11.046, de 27 de dezembro de 2004, e nas carreiras do Departamento Nacional de Infraestrutura de Transportes - DNIT, de que trata a Lei nº 11.171, de 2 de setembro de 2005.

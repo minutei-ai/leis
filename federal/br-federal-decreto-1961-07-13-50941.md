@@ -1,5 +1,3 @@
-###DEC-050941-0-000-13-07-1961@@@
-
 Decreto nº 50.941, de 13 de julho de 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar as dotações do terreno que menciona.

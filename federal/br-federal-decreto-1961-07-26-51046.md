@@ -1,5 +1,3 @@
-###DEC-051046-0-000-26-07-1961@@@
-
 decreto nº 51.046, de 26 de julho de 1961.
 
 Dispõe sôbre o provimento dos cargos de magistério técnico ou científicos das Universidades Federais e dá outras providências.

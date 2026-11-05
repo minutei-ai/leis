@@ -1,7 +1,3 @@
-1
-
-###DEC-000889-0-000-09-08-1993@@@
-
 DECRETO N° 889, DE 9 DE AGOSTO DE 1993
 
 Dispõe sobre a execução da Ata de Retificação do Acordo Comercial n° 5, no Setor da Indústria Química, entre Brasil, Argentina, México, Uruguai, Chile e Venezuela.

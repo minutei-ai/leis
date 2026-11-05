@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210642)<br>
-
 # DECRETO N° 69.367, DE 19 DE FEVEREIRO DE 2025
 
 ### _Transfere, da Secretaria de Agricultura e Abastecimento para a Secretaria da Segurança Pública, a administração do imóvel que especifica, localizado no Município de Ribeirão Preto._

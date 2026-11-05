@@ -1,5 +1,3 @@
-###DEC-054328-0-000-28-09-1964@@@
-
 DECRETO Nº 54.328, DE 28 de SETEMBRO DE 1964.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a ampliar as suas instalações.

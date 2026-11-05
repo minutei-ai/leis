@@ -1,5 +1,3 @@
-###DEC-047882-0-000-08-03-1960@@@
-
 DECRETO Nº 47.882, DE 8 DE MARÇO DE 1960.
 
 Outorga à Prefeitura Municipal de Anori, Estado do Amazonas, concessão para distribuir energia elétrica.

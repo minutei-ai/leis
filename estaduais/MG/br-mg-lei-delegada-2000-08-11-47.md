@@ -27,7 +27,3 @@ Henrique Eduardo Ferreira Hargreaves
 Mauro Ribeiro Lopes
 
 José Augusto Trópia Reis
-
-\================================
-
-Data da última atualização: 29/7/2016.

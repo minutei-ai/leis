@@ -1,5 +1,3 @@
-###DEC-061826-0-000-04-12-1967@@@
-
 Decreto nº 61.826, de 4 de Dezembro de 1967.
 
 Declara de utilidade pública o “Colégio São José”, com sede em Pouso Alegre, Estado de Minas Gerais.

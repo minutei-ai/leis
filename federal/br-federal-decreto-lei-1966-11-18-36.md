@@ -1,5 +1,3 @@
-###DEL-000036-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 36, DE 18 DE NOVEMBRO DE 1966
 
 Abre, ao Ministério da Fazenda, crédito especial de Cr$1.000.000.000, destinados ao pagamento do pessoal temporário para guarnecer lanchas de combate ao contrabando e a outras despesas.

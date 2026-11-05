@@ -1,5 +1,3 @@
-###DEC-007328-0-000-05-10-2010-PUB-01@@@
-
 DECRETO Nº 7.328, DE 5 DE OUTUBRO DE 2010
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República da Lituânia sobre Cooperação na Área da Cultura, firmado em Brasília, em 16 de julho de 2008.

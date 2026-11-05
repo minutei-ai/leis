@@ -22,7 +22,8 @@ Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação
 
 Palácio Joaquim Nabuco, Recife, 24 de outubro do ano de 2018, 202º da Revolução Republicana Constitucionalista e 196º da Independência do Brasil.
 
-ERIBERTO MEDEIROS<br>
+ERIBERTO MEDEIROS
+
 Presidente
 
 O PROJETO QUE ORIGINOU ESTA LEI COMPLEMENTAR É DE AUTORIA DO DEPUTADO HENRIQUE QUEIROZ - PR.

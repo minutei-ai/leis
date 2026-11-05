@@ -1,5 +1,3 @@
-###DEC-066659-0-000-04-06-1970@@@
-
 decreto nº 66.659, de 4 de junho de 1970.
 
 Declara de utilidade pública o Hospital de Caridade Nossa Senhora da Conceição de Piratini, com sede em Piratini, Estado do Rio Grande do Sul.

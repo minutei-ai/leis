@@ -1,5 +1,3 @@
-###DEC-089598-0-000-30-04-1984@@@
-
 # DECRETO nº 89.598, DE 30 DE abRIL DE 1984.
 
 Dá nova redação a dispositivo do Regulamento de Promoções de Graduados do Exército (R-196), aprovado pelo Decreto nº 77.920, de 28 de junho de 1976.

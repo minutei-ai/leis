@@ -1,5 +1,3 @@
-###DEC-082792-0-000-05-12-1978@@@
-
 Decreto nº 82.792, de 05 de Dezembro de 1978.
 
 Dispõe sobre a Embaixada do Brasil na República Togolesa e dá outras providências.

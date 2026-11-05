@@ -1,5 +1,3 @@
-###DEC-045163-0-000-31-12-1958@@@
-
 decreto nº 45.163, de 31 de dezembro de 1958
 
 Autoriza o cidadão brasileiro Bernadino Altoé a pesquisar mármore no Município de Cachoeiro do Itapemirim, Estado do Espírito Santo.

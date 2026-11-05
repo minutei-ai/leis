@@ -1,5 +1,3 @@
-###DEC-088022-0-000-05-01-1983@@@
-
 DECRETO nº 88.022, DE 05 DE janeiro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento-DNOS, áreas de terras, com as respectivas benfeitorias, necessárias à execução das obras de proteção da cidade de Porto Murtinho, Estado de Mato Grosso do Sul, contra as enchentes do rio Paraguai, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-089184-0-000-16-12-1983@@@
-
 DeCREto nº 89.184, dE 16 dE dezembro de 1983
 
 Autoriza o funcionamento da Faculdade de Enfermagem e Obstetrícia em Fernandópolis, Estado de São Paulo.

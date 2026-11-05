@@ -1,5 +1,3 @@
-###DEC-080824-0-000-25-11-1977@@@
-
 DECRETO Nº 80.824, DE 25 DE NOVEMBRO DE 1977.
 
 Outorga concessão à Rádio Independência de Eldorado Ltda. para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Eldorado, Estado de Mato Grosso.

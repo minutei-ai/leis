@@ -1,5 +1,3 @@
-###DEC-058984-0-000-03-08-1966@@@
-
 DECRETO Nº 58.984, DE 3 DE AGôSTO DE 1966.
 
 Aprova o Regulamento da Lei número 4.716, de 29.6.65, que dispõe sôbre o registro genealógico de animais domésticos no Pais.

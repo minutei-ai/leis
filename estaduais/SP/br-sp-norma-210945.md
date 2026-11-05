@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210945)<br>
-
 # DECRETO N° 69.540, DE 16 DE MAIO DE 2025
 
 ### _Institui a gestão centralizada de credenciais de acesso a sistemas informatizados no âmbito da Administração Pública direta e autárquica e dá providências correlatas._

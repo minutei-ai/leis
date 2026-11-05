@@ -1,5 +1,3 @@
-###DEL-005596-0-000-21-06-1943@@@
-
 DECRETO-LEI N. 5.596 – DE 21 DE JUNHO DE 1943
 
 Abre, ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$ 11.000,00 para despesas a cargo da Estrada de Ferro Maricá

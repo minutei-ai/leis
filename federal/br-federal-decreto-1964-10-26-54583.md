@@ -1,5 +1,3 @@
-###DEC-054583-0-000-26-10-1964@@@
-
 DECRETO Nº 54.583, DE 26 DE OUTUBRO DE 1964.
 
 Outorga ao Município de São Cristóvão, Estado de Sergipe, concessão para distribuir energia elétrica.

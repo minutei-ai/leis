@@ -1,5 +1,3 @@
-###DEC-068852-0-000-02-07-1971@@@
-
 DECRETO Nº 68.852, DE 2 DE JULHO DE 1971.
 
 Declara de utilidade pública a Sociedade Protetora da Casa Maternal Amélia Leite, com sede em Aracajú, Estado de Sergipe.

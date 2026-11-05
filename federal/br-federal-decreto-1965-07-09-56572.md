@@ -1,5 +1,3 @@
-###DEC-056572-0-000-09-07-1965@@@
-
 DECRETO Nº 56.572, DE 9 DE JULHO DE 1965.
 
 Altera o art. 8º do Decreto nº 53.820, de 24 de março de 1964.

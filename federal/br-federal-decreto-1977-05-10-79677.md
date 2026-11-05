@@ -1,5 +1,3 @@
-###DEC-079677-0-000-10-05-1977@@@
-
 Decreto nº 79.677, de 10 de maio de 1977.
 
 Concede reconhecimento ao curso de Educação Física, da Universidade Federal de Juiz de Fora, com sede na cidade de Juiz de Fora, Estado de Minas Gerais.

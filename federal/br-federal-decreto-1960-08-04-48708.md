@@ -1,5 +1,3 @@
-###DEC-048708-0-000-04-08-1960@@@
-
 DECRETO Nº 48.708, DE 04 DE agosto DE 1960.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno necessária à construção do açude público Quicé, no Município de Senhor do Bonfim, Estado da Bahia.

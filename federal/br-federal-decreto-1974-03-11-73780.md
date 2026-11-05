@@ -1,5 +1,3 @@
-###DEC-073780-0-000-11-03-1974@@@
-
 DECRETO Nº 73.780, DE 11 DE MARÇO DE 1974.
 
 Torna sem efeito aproveitamento de disponíveis do Departamento Nacional de Obras Contra as Secas no Quadro Único de Pessoal da Universidade Federal da Bahia e dá outras providências.

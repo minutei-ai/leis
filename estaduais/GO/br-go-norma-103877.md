@@ -1,9 +1,11 @@
 LEI Nº 20.968, DE 18 DE FEVEREIRO DE 2021
 
-<br>
-\- [Vide Lei nº 21.064, de 21-07-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104223/lei-21064) - Dispõe sobre as diretrizes orçamentárias para o exercício de 2022<br>
-\- [Vide Lei nº 20.755, de 28-01-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100977/lei-20755) - Dispõe sobre o Plano Plurianual para o quadriênio 2020-2023<br>
-\- [Vide Lei nº 20.821, de 04-08-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103301/lei-20821) - Dispõe sobre as diretrizes orçamentárias para o exercício de 2021.<br>
+\- [Vide Lei nº 21.064, de 21-07-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104223/lei-21064) - Dispõe sobre as diretrizes orçamentárias para o exercício de 2022
+
+\- [Vide Lei nº 20.755, de 28-01-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100977/lei-20755) - Dispõe sobre o Plano Plurianual para o quadriênio 2020-2023
+
+\- [Vide Lei nº 20.821, de 04-08-2020](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103301/lei-20821) - Dispõe sobre as diretrizes orçamentárias para o exercício de 2021.
+
 \- [Vide Decreto nº 9.836, DE 22-03-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103903/decreto-9836) - Estabelece, para o exercício de 2021, os limites anuais de empenho  e pagamento pelos órgãos da administração direta, indireta e empresas estatais dependentes
 
 Estima a receita e fixa a despesa do Estado para o exercício de 2021.
@@ -156,7 +158,8 @@ III – ajustes na codificação orçamentária, decorrentes da necessidade de a
 
 Art. 11. Os valores constantes desta Lei e os créditos adicionais autorizados constituem-se alterações dos valores programados no Plano Plurianual 2020-2023.
 
-Art. 12. A abertura de créditos suplementares autorizada por esta Lei e as adequações previstas no art. 19, serão efetuadas por portaria do titular da Secretaria de Estado da Economia e por instrumento congênere no âmbito do Poder Legislativo, do Poder Judiciário, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Ministério Público e da Defensoria Pública, observado o disposto nos arts. 8º a 11 desta Lei, ou em lei específica.<br>
+Art. 12. A abertura de créditos suplementares autorizada por esta Lei e as adequações previstas no art. 19, serão efetuadas por portaria do titular da Secretaria de Estado da Economia e por instrumento congênere no âmbito do Poder Legislativo, do Poder Judiciário, do Tribunal de Contas do Estado, do Tribunal de Contas dos Municípios, do Ministério Público e da Defensoria Pública, observado o disposto nos arts. 8º a 11 desta Lei, ou em lei específica.
+
 [\- Vide Lei nº 21.065, de 22-07-2021 - Autoriza a abertura de crédito adicional.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104242/lei-21065)
 
 § 1º Na abertura dos créditos de que trata este artigo, poderá ser incluído grupo de natureza de despesa, desde que compatível com a finalidade da ação orçamentária correspondente.
@@ -359,20 +362,26 @@ b) Outros Poderes:
 
 VII– Anexo VII: Atualização das Metas Fiscais da LDO– 2021.
 
-Art. 25-A. Fica o Poder Executivo autorizado a ajustar emendas parlamentares da Lei Orçamentária Anual, mediante ofício devidamente motivado do deputado autor de emenda, apresentado ao órgão ou à entidade executor(a), com cópia à Secretaria de Estado da Economia, e podem ser alterados o objeto, o beneficiado ou o grupo de despesa da emenda parlamentar individual impositiva, desde que não seja ultrapassado seu valor original nem alterada a área de destinação dos recursos, vedado o fracionamento de emenda.<br>
+Art. 25-A. Fica o Poder Executivo autorizado a ajustar emendas parlamentares da Lei Orçamentária Anual, mediante ofício devidamente motivado do deputado autor de emenda, apresentado ao órgão ou à entidade executor(a), com cópia à Secretaria de Estado da Economia, e podem ser alterados o objeto, o beneficiado ou o grupo de despesa da emenda parlamentar individual impositiva, desde que não seja ultrapassado seu valor original nem alterada a área de destinação dos recursos, vedado o fracionamento de emenda.
+
 [\- Acrescido pela Lei nº 21.016, de 25-05-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103983/lei-21016)
 
-§ 1º Os ajustes à execução das programações previstas no Anexo V, referentes às ações resultantes das emendas de iniciativa parlamentar, deverão ser publicados mensalmente, por meio de portaria da Secretaria de Estado da Economia, no seu _site_ oficial ([www.economia.go.gov.br](http://www.economia.go.gov.br/)).<br>
+§ 1º Os ajustes à execução das programações previstas no Anexo V, referentes às ações resultantes das emendas de iniciativa parlamentar, deverão ser publicados mensalmente, por meio de portaria da Secretaria de Estado da Economia, no seu _site_ oficial ([www.economia.go.gov.br](http://www.economia.go.gov.br/)).
+
 [\- Acrescido pela Lei nº 21.016, de 25-05-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103983/lei-21016)
 
-~~§ 2º O ofício mencionado no _caput_ deste artigo deverá ser apresentado até o dia 31 de julho de 2021.~~<br>
-[\- Revogado pela Lei nº 21.146, de 28-10-2021, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104424/lei-21146)<br>
+~~§ 2º O ofício mencionado no _caput_ deste artigo deverá ser apresentado até o dia 31 de julho de 2021.~~
+
+[\- Revogado pela Lei nº 21.146, de 28-10-2021, art. 1º](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104424/lei-21146)
+
 [\- Acrescido pela Lei nº 21.016, de 25-05-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103983/lei-21016)
 
-§ 3º A alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.<br>
+§ 3º A alteração autorizada no _caput_ deste artigo poderá ser realizada uma única vez, desde que a solicitação tenha ocorrido antes da execução do ato que formaliza o repasse dos recursos da emenda original.
+
 [\- Acrescido pela Lei nº 21.016, de 25-05-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103983/lei-21016)
 
-§ 4º As restrições previstas nos §§ 2º e 3º não se aplicam aos casos de impedimento técnico informado pelo órgão ou pela entidade executor(a).<br>
+§ 4º As restrições previstas nos §§ 2º e 3º não se aplicam aos casos de impedimento técnico informado pelo órgão ou pela entidade executor(a).
+
 [\- Acrescido pela Lei nº 21.016, de 25-05-2021.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103983/lei-21016)
 
 Art. 26. O _superavit_ financeiro apurado no Balanço Patrimonial do exercício anterior, nos termos do § 2º do art. 43 da Lei nº 4.320, de 1964, e a execução dos Restos a Pagar que tiveram as fontes e a destinação de recursos alterados para o exercício de 2021 serão executados automaticamente no SIOFI-Net e no SCG nas fontes sucessoras, conforme normas técnicas emitidas pela Secretaria de Estado da Economia.
@@ -411,11 +420,8 @@ Art. 33. Esta Lei entra em vigor na data de sua publicação, mas produz efeitos
 
 Goiânia, 18 de fevereiro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
-<br>
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/17179)

@@ -1,5 +1,3 @@
-###DEC-072795-0-000-13-09-1973@@@
-
 decreto Nº 72.795, de 13 de setembro de 1973.
 
 Declara a caducidade dos Decretos que menciona.

@@ -1,5 +1,3 @@
-###DEC-061911-0-000-14-12-1967@@@
-
 DECRETO N. 61.911 – DE 14 DE DEZEMBRO DE 1967
 
 Abre ao Tribunal Regional Eleitoral de São Paulo o crédito suplementar de NCr$ 164.612,00 (cento e sessenta e quatro mil, seiscentos e doze cruzeiro novos), para refõrço de dotação consignada no vigente orçamento.

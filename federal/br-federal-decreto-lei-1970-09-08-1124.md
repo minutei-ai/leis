@@ -1,5 +1,3 @@
-###DEL-001124-0-000-08-09-1970@@@
-
 # DECRETO-LEI Nº 1.124, DE 8 DE SETEMBRO DE 1970
 
 Permite deduções do impôsto de renda das pessoas jurídicas para fins de alfabetização, nos exercícios de 1971 a 1973, inclusive.

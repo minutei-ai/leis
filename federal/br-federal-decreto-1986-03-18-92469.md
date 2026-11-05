@@ -1,5 +1,3 @@
-###DEC-092469-0-000-18-03-1986@@@
-
 DECRETO Nº 92.469, DE 18 DE MARÇO DE 1986
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

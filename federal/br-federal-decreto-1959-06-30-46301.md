@@ -1,5 +1,3 @@
-###DEC-046301-0-000-30-06-1959@@@
-
 DECRETO Nº 46.301, DE 30 DE junho DE 1959.
 
 Autoriza a Organização Brasileira e Minérios Ltda - Obramil - a pesquisar calcário no município de Campos, Estado de Rio de Janeiro.

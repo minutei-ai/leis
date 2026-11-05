@@ -1,5 +1,3 @@
-###DEC-083661-0-000-02-07-1979@@@
-
 Decreto nº 83.661, de 02 de julho de 1979.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

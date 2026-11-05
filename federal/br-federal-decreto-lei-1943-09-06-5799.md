@@ -1,5 +1,3 @@
-###DEL-005799-0-000-06-09-1943@@@
-
 DECRETO‑LEI N. 5.799 – DE 6 DE setembro DE 1943
 
 Cria função gratificada no Quadro Permanente do Ministério da Marinha

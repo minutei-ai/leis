@@ -1,5 +1,3 @@
-###DEC-007147-0-000-01-04-2010@@@
-
 DECRETO Nº 7.147, DE 1º DE ABRIL DE 2010.
 
 Promulga o Primeiro Protocolo Adicional ao Acordo de Complementação Econômica nº 59, assinado entre os Governos da República da Argentina, da República Federativa do Brasil, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e os Governos da República da Colômbia, da República do Equador e da República Bolivariana da Venezuela, Países-Membros da Comunidade Andina, celebrado em Montevidéu, em 18 de outubro de 2004.                       

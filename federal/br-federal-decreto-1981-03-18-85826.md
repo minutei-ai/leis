@@ -1,7 +1,3 @@
-1
-
-###DEC-085826-0-000-18-03-1981@@@
-
 Decreto nº 85.826, de 18 de março de 1981.
 
 Autoriza o funcionamento do curso de Enfermagem das Faculdades da Zona Leste de São Paulo, Estado de São Paulo.

@@ -1,6 +1,7 @@
 LEI Nº 9.431 DE 11 DE FEVEREIRO DE 2005
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [10.992](https://www.legislabahia.ba.gov.br/documentos/decreto-no-10992-de-01-de-abril-de-2008) , de 01 de abril de 2008 - Aprova o Regulamento do Fundo de Cultura da Bahia e dá outras providências.
 
 Cria o Fundo de Cultura da Bahia - FCBA e dá outras providências.
@@ -39,7 +40,8 @@ III - artesanato;
 
 IV - folclore e tradições populares;
 
-Redação do inciso IV do art. 3º de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.<br>
+Redação do inciso IV do art. 3º de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.
+
 Redação original: "IV - folclore;"
 
 V - biblioteca, arquivo e museu;
@@ -62,7 +64,8 @@ III - produtor cultural: responsável técnico pela execução do projeto cultur
 
 IV - patrocinador: pessoa jurídica estabelecida no Estado da Bahia, contribuinte do ICMS, inscrita no regime normal, que vencendo o leilão de que trata o parágrafo único do art. 18 desta Lei, contribua com recursos próprios para a formação e/ou manutenção do FCBA.
 
-Redação do inciso IV do art. 4º de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.<br>
+Redação do inciso IV do art. 4º de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.
+
 Redação original: "IV - patrocinador: pessoa jurídica estabelecida no Estado da Bahia, contribuinte do ICMS, inscrita no regime normal, que contribua com depósitos bancários para a formação e/ou manutenção do FCBA."
 
 V - mantenedor: pessoa jurídica estabelecida no Estado da Bahia, contribuinte do ICMS, inscrita no regime normal, que contribua com depósitos bancários para a formação e/ou manutenção do FCBA.
@@ -101,8 +104,10 @@ I - o montante dos recursos orçamentários destinados ao FCBA em cada exercíci
 
 revogadoII - os limites mensais e anuais de contribuições que poderão ser deduzidos pelos mantenedores, contribuintes do ICMS, do imposto apurado em cada período mensal.
 
-Redação do inciso II do art. 6º de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.<br>
-Redação original: "II - os limites mensais e anuais de contribuições que poderão ser deduzidos pelos patrocinadores contribuintes do ICMS do imposto apurado em cada período mensal."<br>
+Redação do inciso II do art. 6º de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.
+
+Redação original: "II - os limites mensais e anuais de contribuições que poderão ser deduzidos pelos patrocinadores contribuintes do ICMS do imposto apurado em cada período mensal."
+
 Revogado pelo art. 10º, Lei 14.037 de 20 de dezembro de 2018.
 
 Art. 7º - O Secretário da Cultura e Turismo decidirá sobre os projetos a serem financiados com os recursos do Fundo.
@@ -173,14 +178,16 @@ III - não tenha domicílio no Estado da Bahia;
 
 IV - seja servidor público estadual, membro da Comissão Gerenciadora do FAZCULTURA ou membro de comissão criada por esta Lei;
 
-Redação do inciso IV do art. 14 de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.<br>
+Redação do inciso IV do art. 14 de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.
+
 Redação original: "IV - seja servidor público estadual ou membro da Comissão Gerenciadora do FAZCULTURA;"
 
 V - seja pessoa jurídica não-governamental que tenha, na composição de sua diretoria, membro da Comissão Gerenciadora do FAZCULTURA ou pessoa inadimplente com prestação de contas de projeto cultural realizado anteriormente;
 
 VI - esteja, em relação ao projeto, sendo patrocinado pelo FAZCULTURA;
 
-Redação do inciso VI do art. 14 de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.<br>
+Redação do inciso VI do art. 14 de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.
+
 Redação original: "VI - esteja sendo patrocinado pelo FAZCULTURA;"
 
 VII - já tenha projeto aprovado para execução no mesmo ano civil;
@@ -195,7 +202,8 @@ IX - esteja inadimplente com o Fundo, nos termos do artigo anterior.
 
 § 3º - Não constitui vedação à participação no FCBA o fato de o mantenedor do FCBA ser, também, patrocinador pelo FAZCULTURA, nos termos da Lei Estadual nº 7.015, de 09 de dezembro de 1996.
 
-Redação do § 3º do art. 14 de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.<br>
+Redação do § 3º do art. 14 de acordo com o art. [6](https://www.legislabahia.ba.gov.br/documentos/lei-no-9846-de-28-de-dezembro-de-2005#art6)º da Lei nº 9.846, de 28 de dezembro de 2005.
+
 Redação original: "§ 3º - Não constitui vedação à participação no FCBA o fato de o patrocinador do FCBA ser, também, patrocinador pelo FAZCULTURA, nos termos da Lei Estadual nº 7.015, de 09 de dezembro de 1996."
 
 Art. 15 - Os recursos do FCBA não poderão ser aplicados em construção e/ou conservação de bens imóveis, exceto quando se tratar de projetos para a área de patrimônio cultural.
@@ -240,4 +248,4 @@ Albérico Mascarenhas
 
 Secretário da Fazenda
 
-* * *
+ *

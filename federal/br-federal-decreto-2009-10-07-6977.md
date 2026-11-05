@@ -1,5 +1,3 @@
-###DEC-006977-0-000-07-10-2009@@@
-
 DECRETO Nº 6.977, DE 7 DE OUTUBRO DE 2009.
 
 Dispõe sobre a concessão de rebate sobre o saldo devedor dos financiamentos de custeio agropecuário, com vencimento em 2009, contratados no âmbito do Programa Nacional de Fortalecimento da Agricultura Familiar - PRONAF.

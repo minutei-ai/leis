@@ -1,5 +1,3 @@
-###DEC-068168-0-000-04-02-1971@@@
-
 DECRETO Nº 68.168, DE 4 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno situado na confluência das Ruas Monsenhor Lopes e Arlindo Nogueira, integrante de imóvel da Avenida Frei Serafim, em Teresina, Estado do Piauí, e benfeitorias existentes no mesmo, necessário à construção da estação terminal de microondas daquela cidade, integrante do Sistema Nacional de Telecomunicações, a cargo da Empresa Brasileira de Telecomunicações - EMBRATEL.

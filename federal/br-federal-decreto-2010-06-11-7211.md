@@ -1,5 +1,3 @@
-###DEC-007211-0-000-11-06-2010@@@
-
 DECRETO Nº 7.211, DE 11 DE JUNHO DE 2010.
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória
@@ -28,4 +26,20 @@ Paulo Bernardo Silva
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:176.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FUNCIONAL PROGRAMÁTICA</span></p></td><td style="width:73.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:270.4pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NOME</span></p></td></tr><tr><td style="width:176.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1461.7M91.0056 (RAP)</span></p></td><td style="width:73.5pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00763</span></p></td><td style="width:270.4pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BR-376/PR - Construção - Contorno Norte de Maringá</span></p></td></tr><tr><td style="width:176.6pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.20AT.0013</span></p></td><td style="width:73.5pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00795</span></p></td><td style="width:270.4pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - AM</span></p></td></tr></tbody></table>
+FUNCIONAL PROGRAMÁTICA
+
+CÓDIGO
+
+NOME
+
+26.782.1461.7M91.0056 (RAP)
+
+MT.00763
+
+BR-376/PR - Construção - Contorno Norte de Maringá
+
+26.782.1456.20AT.0013
+
+MT.00795
+
+Manutenção de Rodovias - AM

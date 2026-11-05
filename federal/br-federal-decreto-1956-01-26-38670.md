@@ -1,14 +1,12 @@
-###DEC-038670-0-000-26-01-1956@@@
+**DECRETO Nº 38.670, DE 26 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.670, DE 26 DE JANEIRO DE 1956.</strong>
+***Transfere funções das Tabelas Numéricas Especiais de Extranumerário Mensalista, do Ministério da Aeronáutica, que menciona.***
 
-<em><strong>Transfere funções das Tabelas Numéricas Especiais de Extranumerário Mensalista, do Ministério da Aeronáutica, que menciona.</strong></em>
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício do cargo de Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício do cargo de Presidente da República, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário Mensalista abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário Mensalista abaixo indicadas:
 
 I - uma função de Artífice, referência 21, ocupada por João Messa Ramos, da Tabela da Escola de Especialistas de Aeronáutica para o Parque de Aeronútica de São Paulo;
 
@@ -26,6 +24,6 @@ VII - uma função de Artífice, referência 21, ocupada por João Batista Maced
 
 Rio de Janeiro, 26 de janeiro de 1956; 135º da independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Vasco Alves Seco

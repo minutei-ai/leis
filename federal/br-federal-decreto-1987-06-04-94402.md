@@ -1,5 +1,3 @@
-###DEC-094402-0-000-04-06-1987@@@
-
 DECRETO Nº 94.402, DE 4 DE JUNHO DE 1987
 
 Revoga o Decreto nº 94.388, de 29 de maio de 1987

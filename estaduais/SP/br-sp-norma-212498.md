@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212498)<br>
-
 # DECRETO N° 70.551, DE 17 DE ABRIL DE 2026
 
 ### _Institui o Plano de Segurança Viária do Estado de São Paulo - PSV-SP 2025-2035, estabelece diretrizes para sua implementação e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do Plano de Segurança Viária do Estado de São Paulo
 
 **Artigo 1° -** Fica instituído o Plano de Segurança Viária do Estado de São Paulo - PSV‑SP 2025-2035, no âmbito do Sistema Estadual de Trânsito - SISTRAN-SP, sob a coordenação do Conselho Estadual de Trânsito do Estado de São Paulo - CETRAN.
@@ -69,7 +68,8 @@ c) aplicação, conformidade e melhoria normativa.
 
 **Parágrafo único -** Os eixos estruturais e temáticos desdobram-se em Matrizes de Ações, compostas por produtos, metas, indicadores, prazos e órgãos e entidades da Administração Pública estadual responsáveis por sua implementação.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Da Governança, do Monitoramento e da Transparência
 
 **Artigo 5° -** A governança, o monitoramento e a avaliação do Plano de Segurança Viária do Estado de São Paulo - PSV‑SP 2025-2035 serão exercidos no âmbito do Sistema Estadual de Trânsito - SISTRAN‑SP, sob a coordenação do Conselho Estadual de Trânsito do Estado de São Paulo - CETRAN-SP.
@@ -116,7 +116,8 @@ IX - 1 (um) representante da Agência Reguladora de Serviços Públicos Delegado
 
 **Artigo 8° -** A Secretaria de Gestão e Governo Digital disponibilizará e manterá atualizado o portal público de monitoramento do Plano de Segurança Viária do Estado de São Paulo - PSV‑SP 2025-2035, contendo dados, indicadores, relatórios, boas práticas, legislação correlata e informações de transparência.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Da Integração Orçamentária e dos Instrumentos de Planejamento e Orçamento
 
 **Artigo 9° -** As ações previstas no Plano de Segurança Viária do Estado de São Paulo - PSV‑SP 2025-2035 deverão ser incorporadas aos instrumentos de planejamento e orçamento do Estado, de forma progressiva, especialmente, ao plano plurianual, à lei de diretrizes orçamentárias e à lei orçamentária anual.
@@ -125,7 +126,8 @@ Da Integração Orçamentária e dos Instrumentos de Planejamento e Orçamento
 
 **§ 2° -** A elaboração e a publicação de relatórios de execução orçamentária e financeira vinculados ao PSV‑SP 2025-2035 ocorrerão anualmente.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Da Cooperação Federativa e da Articulação Regional
 
 **Artigo 10 -** O Estado prestará suporte técnico aos Municípios paulistas para a elaboração de planos estratégicos e a operação de observatórios municipais de segurança viária, visando o fortalecimento da governança territorial da segurança viária.
@@ -136,7 +138,8 @@ Da Cooperação Federativa e da Articulação Regional
 
 **Artigo 11 -** Fica instituída, no âmbito do Sistema Estadual de Trânsito - SISTRAN-SP, a Rede de Cidades Paulistas pela Visão Zero como mecanismo de colaboração entre Estado e Municípios para a redução de mortes no trânsito, com adesão voluntária mediante assinatura de Termo de Compromisso.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 Das Disposições Finais e Transitórias
 
 **Artigo 12 -** O Comitê Gestor instituído pelo artigo 6° deste decreto será designado no prazo de até 60 (sessenta) dias, contados da publicação deste decreto.

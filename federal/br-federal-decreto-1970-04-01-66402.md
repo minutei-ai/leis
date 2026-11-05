@@ -1,5 +1,3 @@
-###DEC-066402-0-000-01-04-1970@@@
-
 DECRETO Nº 66.402, DE 1º DE ABRIL DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Instituto Nacional do Desenvolvimento Agrário (INDA), cargo originário do Ministério da Agricultura e dá outras providências.

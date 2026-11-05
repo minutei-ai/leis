@@ -1,5 +1,3 @@
-###DEC-045271-0-000-23-01-1959@@@
-
 DECRETO Nº 45.271, DE 23 DE JANEIRO DE 1959.
 
 Declara de utilidade pública a Sociedade União dos Viajantes, com sede em Ribeirão Prêto, Estado de São Paulo.

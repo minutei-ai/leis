@@ -1,5 +1,3 @@
-###DEC-066326-0-000-16-03-1970@@@
-
 DECRETO Nº 66.326 - DE 16 DE MARÇO DE 1970
 
 Concede a Toledo e Duarte Mineração LTDA., o direito de lavrar minério de manganês, no município de Queluzito, Estado de Minas Gerais.

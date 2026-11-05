@@ -1,5 +1,3 @@
-###DEC-005583-0-000-16-11-2005@@@
-
 DECRETO Nº 5.583, DE 16 DE NOVEMBRO DE 2005.
 
 Regulamenta o § 6o do art. 27 da Lei no 10.683, de 28 de maio de 2003, e dá outras providências.

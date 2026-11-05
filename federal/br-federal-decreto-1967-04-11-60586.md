@@ -1,5 +1,3 @@
-###DEC-060586-0-000-11-04-1967@@@
-
 Decreto nº 60.586, de 11 de abril de 1967.
 
 Concede à The Yassuda Fire and Marine Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

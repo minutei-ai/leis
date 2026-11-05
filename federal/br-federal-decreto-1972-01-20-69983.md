@@ -1,5 +1,3 @@
-###DEC-069983-0-000-20-01-1972@@@
-
 DECRETO Nº 69.983, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação da "Ordem das Cônegas Regulares do Santo Sepulcro", com sede em Campinas, Estado de São Paulo.

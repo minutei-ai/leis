@@ -1,5 +1,3 @@
-###DEC-074570-0-000-17-09-1974@@@
-
 DECRETO Nº 74.570, 17 DE SETEMBRO DE 1974.
 
 Outorgada à Indústria e Comércio Luiz Olsen S.A., concessão para o aproveitamento hidráulico, de um trecho do Rio Bitura, Município de Mafra, Estado de Santa Catarina, para uso exclusivo.

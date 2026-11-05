@@ -1,5 +1,3 @@
-###DEC-002416-0-000-10-12-1997@@@
-
 DECRETO Nº 2.416, DE 10 DE, DEZEMBRO DE 1997
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND, das participações acionárias detidas pela União, e por empresas controladas, direta e indiretamente, pela União, no capital da Companhia Energética Alagoas \- CEAL

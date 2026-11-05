@@ -1,5 +1,3 @@
-###DEC-083007-0-000-10-01-1979@@@
-
 DECRETO Nº 83.007, DE 10 DE JANEIRO DE 1979
 
 Autoriza a conversão dos cursos de Química e Matemática, da ex-Faculdade de Filosofia, Ciências e Letras de Araraquara, em curso de Ciências, do Instituto de Química, do campus de Araraquara, São Paulo, mantidos pela Universidade Estadual Paulista Júlio de Mesquita Filho, com sede na cidade de São Paulo, no mesmo Estado.

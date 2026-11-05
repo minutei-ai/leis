@@ -1,5 +1,3 @@
-###DEC-052903-0-000-21-11-1963@@@
-
 DECRETO Nº 52.903, DE 21 DE NOVEMBRO DE 1963.
 
 Aprova nôvo regimento do Gabinete do Ministro da Justiça e Negócios Interiores, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098992-0-000-02-03-1990@@@
-
 DECRETO Nº 98.992, DE 2 DE MARÇO DE 1990.
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA PALMARES”, situado no Município de Santa Luzia, no Estado do Maranhão, e dá outras providências.

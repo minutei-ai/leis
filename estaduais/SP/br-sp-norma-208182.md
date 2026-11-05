@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208182)<br>
-
 # DECRETO N° 67.738, DE 12 DE JUNHO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de retorno no km 451+200m da Rodovia SP-284, no Município de Assis, e dá providências correlatas._

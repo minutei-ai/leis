@@ -1,5 +1,3 @@
-###DEC-051198-0-000-16-08-1961@@@
-
 Decreto nº 51.198, de 16 de agôsto de 1961.
 
 Cria uma Embaixada do Brasil na República da Nigéria.

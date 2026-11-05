@@ -1,5 +1,3 @@
-###DEC-060725-0-000-19-05-1967@@@
-
 Decreto nº 60.725, de 19 de maio de 1967.
 
 Declara de utilidade pública a “Sociedade Feminina de Assistência á infância”, com sede em Campinas, Estado de São Paulo,

@@ -1,5 +1,3 @@
-###MPV-002090-0-017-27-12-2000@@@
-
 Medida Provisória nº 2.090-17,de 27 de dezembro de 2000.
 
 Altera dispositivo da Lei nº 9.365, de 16 de dezembro de 1996, que institui a Taxa de Juros de Longo prazo - TJLP, dispõe sobre a remuneração dos recursos do Fundo de Participação PIS-PASEP, do Fundo de Amparo ao trabalhador e do Fundo de Marinha Mercante.

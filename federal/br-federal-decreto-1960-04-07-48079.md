@@ -1,5 +1,3 @@
-###DEC-048079-0-000-07-04-1960@@@
-
 DECRETO Nº 48.079, DE 7 DE ABRIL DE 1960.
 
 Concede à Mineração Brasília Ltda autorização para funcionar como emprêsa de mineração.

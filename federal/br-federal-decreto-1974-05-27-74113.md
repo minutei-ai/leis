@@ -1,5 +1,3 @@
-###DEC-074113-0-000-27-05-1974@@@
-
 decreto nº 74.113, de 27 de maio de 1974.
 
 Concede reconhecimento ao curso de Desenho e Plástica (licenciatura) da Universidade de Brasília, Distrito Federal.

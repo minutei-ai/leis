@@ -1,5 +1,3 @@
-###DEC-049502-0-000-12-12-1960@@@
-
 DECRETO Nº 49.502, DE 12 DE DEZEMBRO DE 1960.
 
 Altera a redação do decreto nº 19.873, de 24 de outubro de 1945.

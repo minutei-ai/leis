@@ -1,5 +1,3 @@
-###DEC-074092-0-000-22-05-1974@@@
-
 DECRETO N.° 74.092, DE 22 DE MAIO DE 1974.
 
 Altera dispositivo do Decreto número 65.683, de 31 de outubro de 1969, modificado pelo de número 66.946, de 23 de julho de 1970, que regulamenta o Decreto-lei n.° 1.066, de 29 de outubro de 1969.

@@ -1,5 +1,3 @@
-###DEC-004747-0-000-16-06-2003@@@
-
 DECRETO Nº 4.747, DE 16 DE JUNHO DE 2003.
 
        Fixa o valor absoluto do limite global das deduções do imposto sobre a renda devido, relativas a doações e a patrocínios em favor de projetos culturais e a incentivos à atividade audiovisual.
@@ -26,6 +24,8 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 16 de junho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
 Gilberto Gil

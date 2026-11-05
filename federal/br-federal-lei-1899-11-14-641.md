@@ -1,16 +1,14 @@
-###LEI-000641-0-000-14-11-1899@@@
+**LEI N. 641 – DE 14 DE NOVEMBRO DE 1899**
 
-<strong>LEI N. 641 – DE 14 DE NOVEMBRO DE 1899</strong>
-
-<em><strong>Estabelece o processo de arrecadação dos impostos de consumo</strong></em>
+***Estabelece o processo de arrecadação dos impostos de consumo***
 
 O Presidente da Republica dos Estados Unidos do Brazil:
 
 Faço saber que o Congresso Nacional decreta e eu sancciono a lei seguinte:
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DO IMPOSTO DE CONSUMO E SUA INCIDENCIA</em>
+*DO IMPOSTO DE CONSUMO E SUA INCIDENCIA*
 
 Artigo 1º
 
@@ -64,9 +62,9 @@ f) cobertores e mantas para cama, chales, ponches e palas de algodão, de lã ou
 
 g) tecidos de aniagem proprios para saccos e para enfardar, lisos e entrançados, em peça ou já reduzidos a saccos.
 
-<strong>CAPITULO II</strong>
+**CAPITULO II**
 
-<em>TAXAS</em>
+*TAXAS*
 
 Artigo 3º
 
@@ -76,71 +74,321 @@ As taxas dos impostos de consumo são:
 
 Charutos cujo preço não exceda de 40$ o milheiro (cada charuto) – 8 réis. – Idem, de preço de 40$ a 300$ o milheiro (cada charuto) – 20 réis. – Idem cujo preço exceda de 300$ o milheiro (cada charuto) – 100 réis.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cigarros, por maço de vinte ou sua fracção..............................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$025</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Fumo desfiado, picado ou migado, por 25 grammas ou sua fracção........................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Rapé, por 125 grammas ou sua fracção...................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$060</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Papel para cigarros, em livrinhos ou maços, até 130 mortalhas...............................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Papel para cigarros, em blocos de 1.000 mortalhas para fabricantes ou cigarreiros, cada bloco.........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Palha, por maço de 50 mortalhas ou sua fracção.....................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr></tbody></table>
+Cigarros, por maço de vinte ou sua fracção..............................................................
+
+$025
+
+Fumo desfiado, picado ou migado, por 25 grammas ou sua fracção........................
+
+$040
+
+Rapé, por 125 grammas ou sua fracção...................................................................
+
+$060
+
+Papel para cigarros, em livrinhos ou maços, até 130 mortalhas...............................
+
+$040
+
+Papel para cigarros, em blocos de 1.000 mortalhas para fabricantes ou cigarreiros, cada bloco.........................................................................................................
+
+$040
+
+Palha, por maço de 50 mortalhas ou sua fracção.....................................................
+
+$020
 
 § 2º Bebidas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td colspan="2" style="width:481.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Aguas denominadas syphão ou soda:</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$060</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td colspan="2" style="width:481.9pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Aguas mineraes artificiaes, gazozas ou não:</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$150</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$150</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa ou sua fracção...............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$050</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Amer-picon, bitter, fernet-branco, vermouth e bebidas semelhantes:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$240</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$160</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa.......................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$080</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Bebidas constantes do n. 130 da classe 9ª da tarifa, a saber: licores communs ou doces de qualquer qualidade, para uso de mesa ou não, como os de banana, baunilha, cacáo, laranja e semelhantes; a americana, o aniz, herva-doce, hesperidina, kumel e outros que se lhes assemelhem, exceptuados apenas os licores medicinaes classificados no n. 229 da tarifa das Alfandegas:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$600</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$400</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa ou sua fracção...............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Bebidas constantes do n. 131 da classe 9ª da tarifa, a saber: absintho, aguardente de França, da Jamaica, do Reino ou do Rheno, brandy, cognac, laranjinha, eucalypsinthio, genebra, kirsch, rhum, wisky e outras semelhantes ou que lhes possam ser assemelhadas, excepto a aguardente e o alcool fabricados no paiz:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$240</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$160</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$080</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cerveja:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cerveja de fermentação baixa:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$075</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$050</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$025</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cerveja de alta fermentação:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$060</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Vinhos artificiaes e demais bebidas fermentadas que possam ser assemelhadas e vendidas como vinho de uva, como vinhos espumosos e como champagne:</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrafa........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> Aguas denominadas syphão ou soda: </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $060 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> $040 </td></tr><tr><td> Por meia garrafa........................................................................................................ </td><td> $020 </td></tr><tr><td colspan="2"> Aguas mineraes artificiaes, gazozas ou não: </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $150 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> $150 </td></tr><tr><td> Por meia garrafa ou sua fracção............................................................................... </td><td> $050 </td></tr><tr><td> Amer-picon, bitter, fernet-branco, vermouth e bebidas semelhantes: </td><td> &nbsp; </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $240 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> $160 </td></tr><tr><td> Por meia garrafa....................................................................................................... </td><td> $080 </td></tr><tr><td> Bebidas constantes do n. 130 da classe 9ª da tarifa, a saber: licores communs ou doces de qualquer qualidade, para uso de mesa ou não, como os de banana, baunilha, cacáo, laranja e semelhantes; a americana, o aniz, herva-doce, hesperidina, kumel e outros que se lhes assemelhem, exceptuados apenas os licores medicinaes classificados no n. 229 da tarifa das Alfandegas: </td><td> &nbsp; </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $600 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> $400 </td></tr><tr><td> Por meia garrafa ou sua fracção............................................................................... </td><td> $200 </td></tr><tr><td> Bebidas constantes do n. 131 da classe 9ª da tarifa, a saber: absintho, aguardente de França, da Jamaica, do Reino ou do Rheno, brandy, cognac, laranjinha, eucalypsinthio, genebra, kirsch, rhum, wisky e outras semelhantes ou que lhes possam ser assemelhadas, excepto a aguardente e o alcool fabricados no paiz: </td><td> &nbsp; </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $240 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> $160 </td></tr><tr><td> Por meia garrafa........................................................................................................ </td><td> $080 </td></tr><tr><td> Cerveja: </td><td> &nbsp; </td></tr><tr><td> Cerveja de fermentação baixa: </td><td> &nbsp; </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $075 </td></tr><tr><td> Por garrafa................................................................................................................ </td><td> $050 </td></tr><tr><td> Por meia garrafa........................................................................................................ </td><td> $025 </td></tr><tr><td> Cerveja de alta fermentação: </td><td> &nbsp; </td></tr><tr><td> Por litro...................................................................................................................... </td><td> $060 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> $040 </td></tr><tr><td> Por meia garrafa........................................................................................................ </td><td> $020 </td></tr><tr><td> Vinhos artificiaes e demais bebidas fermentadas que possam ser assemelhadas e vendidas como vinho de uva, como vinhos espumosos e como champagne: </td><td> &nbsp; </td></tr><tr><td> Por litro...................................................................................................................... </td><td> 1$500 </td></tr><tr><td> Por garrafa................................................................................................................. </td><td> 1$000 </td></tr><tr><td> Por meia garrafa........................................................................................................ </td><td> $500 </td></tr></tbody></table>
 
 § 3º Phosporos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por caixa de phosphoros de qualquer qualidade, contendo cada caixa até 60 palitos...................................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><br><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Cada 60 palitos a mais ou fracção desta quantidade, contidos na mesma caixa.....</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr></tbody></table>
+Por caixa de phosphoros de qualquer qualidade, contendo cada caixa até 60 palitos...................................................................................................................................
+
+$020
+
+Cada 60 palitos a mais ou fracção desta quantidade, contidos na mesma caixa.....
+
+$020
 
 § 4º Sal:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Sal commum ou grosso por kilogramma...................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$030</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem refinado por 250 grammas ou sua fracção.......................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$025</span></span></p></td></tr></tbody></table>
+Sal commum ou grosso por kilogramma...................................................................
+
+$030
+
+Idem refinado por 250 grammas ou sua fracção.......................................................
+
+$025
 
 § 5º Calçado:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Botas compridas, de montar, par...............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Botinas e cothurnos de couro, pelle ou tecido de algodão, lã ou linho, até 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22 de comprimento, par.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem de mais de 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22 ou de qualquer tecido de seda ou de qualquer outro tecido de mescla de seda, até 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22, par............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$400</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem de mais de 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22, par.............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$700</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Sapatos e borzeguins de couro, pelle ou tecidos de algodão, lã ou linho, até 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22 de comprimento, par............................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem de mais de 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22, par.............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem de qualquer tecido de seda ou de qualquer outro tecido com mescla de seda</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$300</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Chinellos e sandalias communs................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$050</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem bordadas de seda ou veludo...................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$300</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Sapatos, galochas, botas e cothurnos de borracha, até 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22.................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$050</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem de mais de 0</span></span><span style="font-size:6.67pt; vertical-align:super"><span><sup>m</sup></span></span><span style="font-size:10pt"><span>,22.....................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Entende-se por borzeguins o calçado grosseiro de meia gaspea, talão inteiriço e direito, cano curto e ilhó commum.</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr></tbody></table>
+Botas compridas, de montar, par...............................................................................
+
+1$000
+
+Botinas e cothurnos de couro, pelle ou tecido de algodão, lã ou linho, até 0<sup>m</sup>,22 de comprimento, par.................................................................................................................
+
+$200
+
+Idem, idem de mais de 0<sup>m</sup>,22 ou de qualquer tecido de seda ou de qualquer outro tecido de mescla de seda, até 0<sup>m</sup>,22, par............................................................................
+
+$400
+
+Idem, idem de mais de 0<sup>m</sup>,22, par.............................................................................
+
+$700
+
+Sapatos e borzeguins de couro, pelle ou tecidos de algodão, lã ou linho, até 0<sup>m</sup>,22 de comprimento, par............................................................................................................
+
+$100
+
+Idem, idem de mais de 0<sup>m</sup>,22, par.............................................................................
+
+$200
+
+Idem de qualquer tecido de seda ou de qualquer outro tecido com mescla de seda
+
+$300
+
+Chinellos e sandalias communs................................................................................
+
+$050
+
+Idem, idem bordadas de seda ou veludo...................................................................
+
+$300
+
+Sapatos, galochas, botas e cothurnos de borracha, até 0<sup>m</sup>,22.................................
+
+$050
+
+Idem, idem de mais de 0<sup>m</sup>,22.....................................................................................
+
+$100
+
+Entende-se por borzeguins o calçado grosseiro de meia gaspea, talão inteiriço e direito, cano curto e ilhó commum.
 
 § 6º Velas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por pacote, cartucho ou caixinha de velas, pesando liquido 250 grammas ou sua fracção.................................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$025</span></span></p></td></tr></tbody></table>
+Por pacote, cartucho ou caixinha de velas, pesando liquido 250 grammas ou sua fracção.................................................................................................................................
+
+$025
 
 § 7º Perfumarias:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Perfumaria cujo valor não exceda de 5$ a duzia, cada objecto................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 5$ a 10$ a duzia, cada objecto......................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 10$ a 15$ a duzia, cada objecto....................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$060</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 15$ a 20$ a duzia, cada objecto....................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$080</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 20$ a 25$ a duzia, cada objecto....................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 25$ a 60$ a duzia, cada objecto....................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 60$ a 120$ a duzia, cada objecto..................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem cujo valor exceda de 120$ a duzia, cada objecto.............................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr></tbody></table>
+Perfumaria cujo valor não exceda de 5$ a duzia, cada objecto................................
+
+$020
+
+Idem do valor de 5$ a 10$ a duzia, cada objecto......................................................
+
+$040
+
+Idem do valor de 10$ a 15$ a duzia, cada objecto....................................................
+
+$060
+
+Idem do valor de 15$ a 20$ a duzia, cada objecto....................................................
+
+$080
+
+Idem do valor de 20$ a 25$ a duzia, cada objecto....................................................
+
+$100
+
+Idem do valor de 25$ a 60$ a duzia, cada objecto....................................................
+
+$200
+
+Idem do valor de 60$ a 120$ a duzia, cada objecto..................................................
+
+$500
+
+Idem cujo valor exceda de 120$ a duzia, cada objecto.............................................
+
+1$000
 
 § 8º Especialidades pharmaceuticas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Especialidades pharmaceuticas cujo valor não exceda de 5$ a duzia, cada objecto.................................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem do valor de 5$ a 10$ a duzia, cada objecto......................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$040</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem de 10$ a 15$ a duzia, cada objecto........................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$060</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem de 15$ a 20$ a duzia, cada objecto........................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$080</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem, de 20$ a 25$ a duzia, cada objecto......................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem, de 25$ a 60$ a duzia, cada objecto.......................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem, idem, de 60$ a 120$ a duzia, cada objecto.....................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Idem cujo valor exceda de 120$ a duzia, cada objecto.............................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr></tbody></table>
+Especialidades pharmaceuticas cujo valor não exceda de 5$ a duzia, cada objecto.................................................................................................................................
+
+$020
+
+Idem do valor de 5$ a 10$ a duzia, cada objecto......................................................
+
+$040
+
+Idem, idem de 10$ a 15$ a duzia, cada objecto........................................................
+
+$060
+
+Idem, idem de 15$ a 20$ a duzia, cada objecto........................................................
+
+$080
+
+Idem, idem, de 20$ a 25$ a duzia, cada objecto......................................................
+
+$100
+
+Idem, idem, de 25$ a 60$ a duzia, cada objecto.......................................................
+
+$200
+
+Idem, idem, de 60$ a 120$ a duzia, cada objecto.....................................................
+
+$500
+
+Idem cujo valor exceda de 120$ a duzia, cada objecto.............................................
+
+1$000
 
 § 9º Vinagre:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por litro......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$030</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por garrafa.................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por meia garrrafa.......................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$010</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por kilogramma de acido acetico...............................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr></tbody></table>
+Por litro......................................................................................................................
+
+$030
+
+Por garrafa.................................................................................................................
+
+$020
+
+Por meia garrrafa.......................................................................................................
+
+$010
+
+Por kilogramma de acido acetico...............................................................................
+
+$500
 
 § 10. Conservas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por volume, pesando 250 grammas ou sua fracção.................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Pargrafo" style="text-indent:0pt; text-align:right"><span><span>$025</span></span></p></td></tr></tbody></table>
+Por volume, pesando 250 grammas ou sua fracção.................................................
+
+$025
 
 § 11. Cartas de jogar:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Por baralho................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Pargrafo" style="text-indent:0pt; text-align:right"><span><span>$500</span></span></p></td></tr></tbody></table>
+Por baralho................................................................................................................
+
+$500
 
 § 12. Chapéos.
 
 CHAPÉOS PARA SOL OU CHUVA
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>a) com cobertura de lã, linho ou algodão..................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>b) com cobertura de seda pura ou com mescla de qualquer materia.......................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>c) com cobertura de qualquer qualidade, enfeitados com renda, franja ou bordados..............................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>d) idem, idem enfeitados ou não, com cabo de ouro ou prata ou com lavores destes metaes......................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr></tbody></table>
+a) com cobertura de lã, linho ou algodão..................................................................
+
+$500
+
+b) com cobertura de seda pura ou com mescla de qualquer materia.......................
+
+1$000
+
+c) com cobertura de qualquer qualidade, enfeitados com renda, franja ou bordados..............................................................................................................................
+
+1$500
+
+d) idem, idem enfeitados ou não, com cabo de ouro ou prata ou com lavores destes metaes......................................................................................................................
+
+2$000
 
 CHAPÉOS PARA CABEÇA
 
 Homens e meninos
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>a) chapéos de crina ou de palha de arroz, aveia, trigo e semelhantes.....................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$300</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>b) chapéos de feltro de castor, lebre e outros semelhantes......................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>c) chapéos de palha do Chile, Perú, Manilha e semelhantes até 10$000.................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>d) chapéos de palha do Chile, Perú, Manilha e semelhantes acima de 10$000.......</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>e) chapéos de pello de seda de qualquer qualidade e claques.................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>f) chapéos de lã.........................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr></tbody></table>
+a) chapéos de crina ou de palha de arroz, aveia, trigo e semelhantes.....................
+
+$300
+
+b) chapéos de feltro de castor, lebre e outros semelhantes......................................
+
+$500
+
+c) chapéos de palha do Chile, Perú, Manilha e semelhantes até 10$000.................
+
+$200
+
+d) chapéos de palha do Chile, Perú, Manilha e semelhantes acima de 10$000.......
+
+2$000
+
+e) chapéos de pello de seda de qualquer qualidade e claques.................................
+
+2$000
+
+f) chapéos de lã.........................................................................................................
+
+$200
 
 Senhoras e meninas
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>a) chapéos cujo preço não exceda de 5$000............................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>b) chapéos de preço de 5$ a 20$000........................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>c) chapéos de preço de 20$ a 50$000......................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>d) chapéos cujo preço exceda de 50$000.................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Devem ser isentos do imposto os chapéos nacionaes de palha ordinaria cujo preço não exceda de 2$000.</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore"><span>&nbsp;</span></span></p></td></tr></tbody></table>
+a) chapéos cujo preço não exceda de 5$000............................................................
+
+$200
+
+b) chapéos de preço de 5$ a 20$000........................................................................
+
+$500
+
+c) chapéos de preço de 20$ a 50$000......................................................................
+
+1$000
+
+d) chapéos cujo preço exceda de 50$000.................................................................
+
+2$000
+
+Devem ser isentos do imposto os chapéos nacionaes de palha ordinaria cujo preço não exceda de 2$000.
 
 § 13. Tecidos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Tecidos de algodão, crús, cada metro.......................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$010</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>brancos e tintos, idem...................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>estampados, idem........................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$030</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Tecidos constantes da lettra D do art. 2º, § 13, cada metro......................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$100</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Tecidos constantes da lettra E do art. 2º, § 13, cada metro.....................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Tecidos constantes da lettra F do art. 2º, § 13, cada um..........................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$300</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>Tecidos constantes da lettra G do art. 2º, § 13, cada metro......................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$020</span></span></p></td></tr></tbody></table>
+Tecidos de algodão, crús, cada metro.......................................................................
+
+$010
+
+»      brancos e tintos, idem...................................................................................
+
+$020
+
+»      estampados, idem........................................................................................
+
+$030
+
+Tecidos constantes da lettra D do art. 2º, § 13, cada metro......................................
+
+$100
+
+Tecidos constantes da lettra E do art. 2º, § 13, cada metro.....................................
+
+$200
+
+Tecidos constantes da lettra F do art. 2º, § 13, cada um..........................................
+
+$300
+
+Tecidos constantes da lettra G do art. 2º, § 13, cada metro......................................
+
+$020
 
 § 14. Bengalas:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>a) Bengalas de custo até 5$000................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$200</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>b)</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>» 10$000................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>$500</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>c)</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>» 50$000................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>1$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>d)</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>»</span></span><span style="font-size:10pt; -aw-import:spaces"><span>&nbsp;&nbsp;&nbsp;&nbsp; </span></span><span style="font-size:10pt"><span>» acima de 50$000........................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>2$000</span></span></p></td></tr></tbody></table>
+a) Bengalas de custo até 5$000................................................................................
+
+$200
+
+b)       »         »     »      » 10$000................................................................................
+
+$500
+
+c)       »         »     »      » 50$000................................................................................
+
+1$000
+
+d)       »         »     » acima de 50$000........................................................................
+
+2$000
 
 Artigo 4º
 
@@ -176,13 +424,39 @@ Artigo 10
 
 Pela expedição do certificado de registro cobrar-se-hão os seguintes emolumentos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>a) fabricas..................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>200$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>b) depositos de fabricas e casas commerciaes por grosso.......................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>100$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>c) casas commerciaes retalhistas, exclusivamente de producto tributado................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>50$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>d) casas commerciaes retalhistas com outros ramos de negocio além do de producto tributado................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>30$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>e) casas commerciaes retalhistas de mais de um producto tributado.......................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>20$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>f) mercador ambulante por conta propria ou alheia...................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>20$000</span></span></p></td></tr><tr><td style="width:393.4pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p style="text-align:justify; line-height:12pt"><span style="font-size:10pt"><span>g) pequenos fabricantes, trabalhando só ou com pequeno numero de operarios e por conta propria..................................................................................................................</span></span></p></td><td style="width:81.5pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:bottom"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt"><span>20$000</span></span></p></td></tr></tbody></table>
+a) fabricas..................................................................................................................
+
+200$000
+
+b) depositos de fabricas e casas commerciaes por grosso.......................................
+
+100$000
+
+c) casas commerciaes retalhistas, exclusivamente de producto tributado................
+
+50$000
+
+d) casas commerciaes retalhistas com outros ramos de negocio além do de producto tributado................................................................................................................
+
+30$000
+
+e) casas commerciaes retalhistas de mais de um producto tributado.......................
+
+20$000
+
+f) mercador ambulante por conta propria ou alheia...................................................
+
+20$000
+
+g) pequenos fabricantes, trabalhando só ou com pequeno numero de operarios e por conta propria..................................................................................................................
+
+20$000
 
 Paragrapho unico. Fica isento do imposto de registro o pequeno fabricante que não pagar o imposto de industrias e profissões.
 
-<strong>CAPITULO IV</strong>
+**CAPITULO IV**
 
-<em>DO ESTAMPILHAMENTO</em>
+*DO ESTAMPILHAMENTO*
 
 Artigo 11
 
@@ -224,9 +498,9 @@ Artigo 16
 
 Considera-se não sellado o producto nacional a que forem applicadas estampilhas destinadas a mercadorias estrangeiras, e o producto estrangeiro ao qual forem applicadas estampilhas destinadas a mercadorias nacionaes.
 
-<strong>CAPITULO V</strong>
+**CAPITULO V**
 
-<em>ESTAMPILHAS</em>
+*ESTAMPILHAS*
 
 Artigo 17
 
@@ -252,9 +526,9 @@ Artigo 22
 
 Consideram-se inutilisadas e sem effeito legal as estampilhas fragmentadas ou colladas de tal modo que possam ser tiradas sem esforço e utilisadas de novo.
 
-<strong>CAPITULO VI</strong>
+**CAPITULO VI**
 
-<em>FISCALIZAÇÃO</em>
+*FISCALIZAÇÃO*
 
 Artigo 23
 
@@ -336,9 +610,9 @@ Artigo 32
 
 Os agentes encarregados da fiscalização serão nomeados pelo Ministro da Fazenda, independente de proposta.
 
-<strong>CAPITULO VII</strong>
+**CAPITULO VII**
 
-<em>DAS PENAS E SUA APPLICAÇÃO</em>
+*DAS PENAS E SUA APPLICAÇÃO*
 
 Artigo 33
 
@@ -394,9 +668,9 @@ Artigo 39
 
 Si o recurso versar sobre multa, não será acceito sem deposito prévio de sua importancia.
 
-<strong>CAPITULO VIII</strong>
+**CAPITULO VIII**
 
-<em>DISPOSIÇÕES GERAES</em>
+*DISPOSIÇÕES GERAES*
 
 Artigo 40
 
@@ -484,6 +758,6 @@ O Ministro de Estado dos Negocios da Fazenda faça executar.
 
 Capital Federal, 14 de novembro de 1899, 11º da Republica.
 
-<strong>M. FERRAZ DE CAMPOS SALLES.</strong>
+**M. FERRAZ DE CAMPOS SALLES.**
 
 Joaquim D. Murtinho.

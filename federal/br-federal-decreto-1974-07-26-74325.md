@@ -1,5 +1,3 @@
-###DEC-074325-0-000-26-07-1974@@@
-
 DECRETO Nº 74.325 - DE 26 DE JULHO DE 1974.
 
 Aprova o Regulamento dos Parques do Material de Eletrônica da Aeronáutica, denomina Parque de Material de Eletrônica do Rio de Janeiro o atual Parque de Eletrônica do Rio de Janeiro e dá outras providências.

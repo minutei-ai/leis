@@ -1,5 +1,3 @@
-###DEL-002230-0-000-17-01-1985@@@
-
 # DecretO-Lei nº 2.230, de 17 de Janeiro de 1985
 
 Altera o percentual da representação mensal dos cargos que menciona.

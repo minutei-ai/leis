@@ -1,5 +1,3 @@
-###DEL-009714-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.714 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Marinha o crédito especial de Cr$ 2.720.588,40, para despesas com a representação do Govêrno brasileiro na posse do Presidente eleito da República Argentina.

@@ -1,5 +1,3 @@
-###DEC-003608-0-000-21-09-2000@@@
-
 DECRETO Nº 3.608, DE 21 DE SETEMBRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.096, de 25 de junho de 1999.

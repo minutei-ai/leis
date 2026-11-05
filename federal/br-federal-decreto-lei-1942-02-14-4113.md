@@ -1,5 +1,3 @@
-###DEL-004113-0-000-14-02-1942@@@
-
 DECRETO-LEI N. 4.113 – DE 14 DE FEVEREIRO DE 1942
 
 Regula a propaganda de médicos, cirurgiões dentistas, parteiras, massagistas, enfermeiros, de casas de saúde e de estabelecimentos congêneres, e a de preparados farmacêuticos

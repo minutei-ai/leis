@@ -1,5 +1,3 @@
-###MPV-002192-0-069-26-07-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.192‑ 69, DE 26 DE JULHO DE 2001.
 
 Estabelece mecanismos objetivando incentivar a redução da presença do setor público estadual na atividade financeira bancária, dispõe sobre a privatização de instituições financeiras, e dá outras providências.

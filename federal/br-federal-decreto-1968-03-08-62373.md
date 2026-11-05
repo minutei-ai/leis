@@ -1,5 +1,3 @@
-###DEC-062373-0-000-08-03-1968@@@
-
 DECRETO Nº 62.373, DE 8 DE MARÇO DE 1968.
 
 Declara de utilidade pública para fins de desapropriação ou constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a seccionadora de Darcilena, no Município de Cedro de São João até a subestação de Carrapicho, no Município de Neópolis, no Estado de Sergipe.

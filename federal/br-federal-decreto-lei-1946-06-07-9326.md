@@ -1,5 +1,3 @@
-###DEL-009326-0-000-07-06-1946@@@
-
 DECRETO-LEI N. 9.326 – DE 7 DE JUNHO DE 1946
 
 Autoriza o Ministério da Guerra a utilizar os serviços profissionais dos oficiais médicos norte-americanos.

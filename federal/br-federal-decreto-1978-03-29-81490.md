@@ -1,5 +1,3 @@
-###DEC-081490-0-000-29-03-1978@@@
-
 Decreto nº 81.490, de 29 de março de 1978
 
 Concede a José Jorge de Oliveira Cordeiro - Firma Individual, o direito de lavrar calcário dolomítico no Município de Redenção, Estado do Ceará.

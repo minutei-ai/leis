@@ -1,5 +1,3 @@
-###DEC-074434-0-000-20-08-1974@@@
-
 DECRETO Nº 74.434, DE 20 DE AGOSTO DE 1974.
 
 Concede reconhecimento aos cursos de Estudos Sociais e de Matemática da Universidade Regional do Nordeste, mantida pela Fundação Universidade Regional do Nordeste, com sede na cidade de Campina Grande, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-061114-0-000-31-07-1967@@@
-
 DECRETO Nº 61.114, de 31 DE JULHO DE 1967.
 
 Aprova o enquadramento dos profêssores fundadores da Faculdade de Ciência Econômicas da universidade Federal do Espirito Santo em cargos de Professor de Ensino superior, do Quadro de Pessoal - parte Suplementar - do Ministério da Educação e cultura, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056875-0-000-15-09-1965@@@
-
 DECRETO Nº 56.875, de 15 de setembro de 1965.
 
 Altera a redação do artigo 3º do Decreto nº 54.003, de 3 de julho de 1964.

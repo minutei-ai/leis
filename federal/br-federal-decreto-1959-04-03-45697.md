@@ -1,5 +1,3 @@
-###DEC-045697-0-000-03-04-1959@@@
-
 DECRETO Nº 45.697, DE 3 DE ABRIL DE 1959.
 
 Altera a redação do artigo e alíneas do Regulamento da Diretoria do Material da Aeronáutica aprovado pelo Decreto nº 45.462, de 25 de fevereiro de 1959.

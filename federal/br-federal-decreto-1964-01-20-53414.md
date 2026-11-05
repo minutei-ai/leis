@@ -1,5 +1,3 @@
-###DEC-053414-0-000-20-01-1964@@@
-
 DECRETO Nº 53.414, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Alberto Bartholomei a pesquisar água mineral, no município de Pinhal, Estado de São Paulo.

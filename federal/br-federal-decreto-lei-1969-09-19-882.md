@@ -1,7 +1,3 @@
-1
-
-###DEL-000882-0-000-19-09-1969@@@
-
 DECRETO-LEI Nº 882, DE 19 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a incluir dotações nos projetos de Orçamentos Anuais, para os exercícios de 1971 a 1979, e fixa os respectivos montantes.
@@ -12,11 +8,59 @@ decretam:
 
 Art. 1º Fica o Poder Executivo autorizado a incluir nos Projetos de Orçamentos Anuais para os exercícios de 1971 a 1979, dotações em favor do Ministério dos Transportes, à conta do lmpôsto Único sôbre Lubrificantes e Combustíveis Líqüidos e Gasosos, destinadas a atender ao pagamento dos encargos assumidos pela Rede Ferroviária Federal S.A. com a aquisição de 180 locomotivas diesel-elétricas nos seguintes valores, a preços de 1969:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1971 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>14.473.052,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1972 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>31.091.740,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1973 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>33.153.245,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1974 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>32.145.266,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1975 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>31.137.288,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1976 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.129.310,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1977 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.462.297,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1978 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.098.179,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1979 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.261.008,00</span></p></td></tr></tbody></table>
+NCr$
+
+1971 ..........................................................................................................
+
+14.473.052,00
+
+1972 ..........................................................................................................
+
+31.091.740,00
+
+1973 ..........................................................................................................
+
+33.153.245,00
+
+1974 ..........................................................................................................
+
+32.145.266,00
+
+1975 ..........................................................................................................
+
+31.137.288,00
+
+1976 ..........................................................................................................
+
+30.129.310,00
+
+1977 ..........................................................................................................
+
+20.462.297,00
+
+1978 ..........................................................................................................
+
+20.098.179,00
+
+1979 ..........................................................................................................
+
+5.261.008,00
 
 Art. 2º Os encargos decorrentes da operação referida no artigo 1º dêste Decreto-lei, nos exercícios de 1969 e 1970 e parte dos mesmos no exercício de 1971, correrão à conta de outros recursos internos, nos valores a seguir, a preços de 1969:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>NCr$</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1969 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.368.672,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1970 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.368.672,00</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1971 ..........................................................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.737.344,00</span></p></td></tr></tbody></table>
+NCr$
+
+1969 ..........................................................................................................
+
+5.368.672,00
+
+1970 ..........................................................................................................
+
+5.368.672,00
+
+1971 ..........................................................................................................
+
+10.737.344,00
 
 Art. 3º Êste Decreto-lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

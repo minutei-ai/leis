@@ -1,5 +1,3 @@
-###DEC-055864-0-000-25-03-1965@@@
-
 DECRETO Nº 55.864, de 25 de março de 1965.
 
 Dispõe sôbre a unificação dos formulários de “Licença de Exportação” e de “Guia de Embarque”.

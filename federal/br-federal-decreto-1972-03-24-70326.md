@@ -1,5 +1,3 @@
-###DEC-070326-0-000-24-03-1972@@@
-
 DECRETO Nº 70.326, DE 24 DE MARÇO DE 1972.
 
 Declara de utilidade pública o Educandário Madre Carmela de Jesus, com sede em Curitiba, Estado do Paraná.

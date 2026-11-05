@@ -1,5 +1,3 @@
-###DEC-006918-0-000-30-07-2009@@@
-
 DECRETO Nº 6.918, DE 30 DE JULHO DE 2009.
 
 Prorroga, em caráter excepcional, o prazo de remanejamento dos cargos em comissão que menciona.

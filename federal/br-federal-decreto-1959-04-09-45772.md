@@ -1,5 +1,3 @@
-###DEC-045772-0-000-09-04-1959@@@
-
 DECRETO Nº 45.772, DE 9 DE ABRIL DE 1959.
 
 Aprova novas especificações para classificação e fiscalização da exportação das frutas cítricas.

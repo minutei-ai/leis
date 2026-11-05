@@ -1,5 +1,3 @@
-###DEC-005457-0-000-06-06-2005@@@
-
 DECRETO Nº 5.457, DE 6 DE JUNHO DE 2005
 
        Dá nova redação ao art. 3º do Decreto nº 5.297, de 6 de dezembro de 2004, que reduz as alíquotas da Contribuição para o PIS/PASEP e da COFINS incidentes sobre a importação e a comercialização de biodiesel.

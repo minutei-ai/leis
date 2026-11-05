@@ -1,5 +1,3 @@
-###DEC-056841-0-000-06-09-1965@@@
-
 DECRETO nº 56.841, DE 6 DE SETEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Ermi Ferrari Magalhães a pesquisar gipsita, no município de Ararepina, Estado de Pernambuco.

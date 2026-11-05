@@ -1,5 +1,3 @@
-###DEC-054056-0-000-27-07-1964@@@
-
 DECRETO Nº 54.056, DE 27 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal do Instituto de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos, e dá outras providências.

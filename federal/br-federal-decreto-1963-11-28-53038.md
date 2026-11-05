@@ -1,5 +1,3 @@
-###DEC-053038-0-000-28-11-1963@@@
-
 decreto nº 53.038, de 28 de novembro de 1963.
 
 Autoriza o cidadão brasileiro Jorge Miguel Habib a pesquisar quartzo, pedras coradas e mica, no município de Governador Valadares, Estado de Minas Gerais.

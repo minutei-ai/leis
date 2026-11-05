@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=77415)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2008/compilacao-lei.complementar-1045-15.05.2008.html)
 
 # LEI COMPLEMENTAR Nº 1.045, DE 15 DE MAIO DE 2008

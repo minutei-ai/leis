@@ -1,7 +1,3 @@
-1
-
-###DEC-000988-0-000-17-11-1993@@@
-
 DECRETO N° 988, DE 17 DE NOVEMBRO DE 1993
 
 Transfere para o Ministério da Cultura a guarda de obras de arte de propriedade da União, das autarquias e das fundações federais, das empresas públicas e sociedades de economia mista, e das empresas controladas, direta ou indiretamente, pela União.

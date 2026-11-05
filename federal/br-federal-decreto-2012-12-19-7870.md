@@ -1,5 +1,3 @@
-###DEC-007870-0-000-19-12-2012-PUB-01@@@
-
 DECRETO Nº\- 7.870, DE 19 DE DEZEMBRO DE 2012
 
 Altera o Anexo IV ao Decreto nº 6.707, de 23 de dezembro de 2008, para modificar percentuais aplicados sobre o preço de referência de bebidas para efeito de cálculo da Contribuição para o PIS/PASEP, da COFINS e do IPI no regime especial de tributação de bebidas frias.

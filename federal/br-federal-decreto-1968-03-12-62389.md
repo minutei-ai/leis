@@ -1,5 +1,3 @@
-###DEC-062389-0-000-12-03-1968@@@
-
 DECRETO Nº 62.389, DE 12 DE MARÇO DE 1968.
 
 Declara de utilidade pública o “Patrimônio Santo Antonio”, com sede em São José dos Pinhais, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-062019-0-000-29-12-1967@@@
-
 DECRETO Nº 62.019, DE 29 DE DEZEMBRO DE 1967.
 
 Cria Função Gratificada no Quadro de Pessoal do Ministério da Fazenda e dá outras providências.

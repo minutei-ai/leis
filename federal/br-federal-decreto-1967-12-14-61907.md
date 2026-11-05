@@ -1,5 +1,3 @@
-###DEC-061907-0-000-14-12-1967@@@
-
 decreto Nº 61.907, de 14 de dezembro de 1967.
 
 Abre ao Ministério da Fazenda o crédito suplementar de NCr$340.000.00 para reforço de dotações consignadas no vigente orçamento.
@@ -10,7 +8,29 @@ decreta:
 
 Art. 1º Fica aberto ao Ministério da Fazenda o crédito suplementar de NCr$340.000.00 (trezentos e quarenta mil cruzeiros novos), para refôrço de dotação orçamentária consignada ao Subanexo 4.07.00, a saber:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:18.35pt"><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>4.07.26</span></p></td><td style="width:372.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diretoria da Despesa Pública (Encargos Gerais)</span></p></td></tr><tr style="height:18.35pt"><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.0.0.0</span></p></td><td style="width:372.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Despesas Correntes</span></p></td></tr><tr style="height:18.35pt"><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.0.0</span></p></td><td style="width:372.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Transferências Correntes</span></p></td></tr><tr style="height:18.35pt"><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.0</span></p></td><td style="width:372.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Diversas Transferências Correntes</span></p></td></tr><tr style="height:18.35pt"><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>3.2.9.4</span></p></td><td style="width:372.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Entidades Municipais</span></p></td></tr><tr style="height:18.35pt"><td style="width:53.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>K.07</span></p></td><td style="width:372.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Distrito Federal</span></p></td></tr></tbody></table>
+4.07.26
+
+- Diretoria da Despesa Pública (Encargos Gerais)
+
+3.0.0.0
+
+- Despesas Correntes
+
+3.2.0.0
+
+- Transferências Correntes
+
+3.2.9.0
+
+- Diversas Transferências Correntes
+
+3.2.9.4
+
+- Entidades Municipais
+
+K.07
+
+- Distrito Federal
 
 1\) Prefeitura do Distrito Federal
 
@@ -18,7 +38,17 @@ a) Para atender a encargos, inclusive de pessoal da Polícia do Distrito Federal
 
 b) Polícia Militar
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:18.25pt"><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>NCr$</span></p></td></tr><tr style="height:18.25pt"><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesa fixa .............................................................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>220.000,00</span></p></td></tr><tr style="height:18.25pt"><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Despesa variável ......................................................................................................</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">120.000,00</span></p></td></tr><tr style="height:18.25pt"><td style="width:365.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:60.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span style="text-decoration:underline">340.000,00</span></p></td></tr></tbody></table>
+NCr$
+
+Despesa fixa .............................................................................................................
+
+220.000,00
+
+Despesa variável ......................................................................................................
+
+120.000,00
+
+340.000,00
 
 Art. 2º A despesa decorrente do presente Decreto atendida com os recursos de que trata a Lei número 5.344, de 31 de outubro de 1967.
 

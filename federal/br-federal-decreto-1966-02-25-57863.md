@@ -1,5 +1,3 @@
-###DEC-057863-0-000-25-02-1966@@@
-
 Decreto nº 57.863, de 25 de fevereiro de 1966.
 
 Autoriza o cidadão brasileiro Luiz Gonzaga Chaves a pesquisar cassiterita, no Município de Coronel Xavier Chaves, Estado de Minas Gerais.

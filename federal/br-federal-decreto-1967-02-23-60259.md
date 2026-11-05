@@ -1,5 +1,3 @@
-###DEC-060259-0-000-23-02-1967@@@
-
 DECRETO Nº 60.259, DE 23 DE FEVEREIRO DE 1967.
 
 Autoriza a Companhia Xistoquímica Brasileira a funcionar como emprêsa de mineração de rochas betuminosas e pirobetuminosas.

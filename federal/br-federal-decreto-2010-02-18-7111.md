@@ -1,5 +1,3 @@
-###DEC-007111-0-000-18-02-2010@@@
-
 DECRETO Nº 7.111, DE 18 DE FEVEREIRO DE 2010.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo de Barbados sobre Cooperação Cultural, firmado em Bridgetown, em 17 de maio de 2005

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208423)<br>
-
 # ATO DO PRESIDENTE N° 194, DE 21 DE AGOSTO DE 2023
 
 ### _Disciplina a apresentação, na fase de Pauta, de emendas ao Projeto de lei n° 1244, de 2023, que institui o Plano Plurianual - PPA para o quadriênio 2024-2027 e revoga o Ato do Presidente n° 192, de 17 de agosto de 2023._

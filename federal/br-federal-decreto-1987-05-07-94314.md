@@ -1,5 +1,3 @@
-###DEC-094314-0-000-07-05-1987@@@
-
 DECRETO Nº 94.314, DE 7 DE MAIO DE 1987
 
 Altera o Decreto nº 92.395, de 12 de fevereiro de 1986.

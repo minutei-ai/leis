@@ -1,5 +1,3 @@
-###DEC-071348-0-000-09-11-1972@@@
-
 DECRETO Nº 71.348 - DE 9 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Curso de Ciências contábeis da Sociedade Colégio Caratinga -  MG.

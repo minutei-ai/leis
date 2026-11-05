@@ -1,5 +1,3 @@
-###DEC-002436-0-000-19-12-1997@@@
-
 DECRETO Nº 2.436, DE 19 DE DEZEMBRO DE 1997
 
 Prorroga os prazos estabelecidos nos decretos que menciona, e dá outras providências.

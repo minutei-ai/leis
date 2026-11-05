@@ -4,7 +4,8 @@ Institui diretrizes para as metas e as prioridades da Administração Pública M
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
 
-**CAPÍTULO I<br>
+**CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES**
 
 Art. 1º As Diretrizes Orçamentárias para o exercício de 2022, de acordo com o disposto no § 2º do Artigo 165, da Constituição da República Federativa do Brasil, dispositivos da Constituição Estadual, da Lei Orgânica do Município e na Lei Complementar nº 101/00 – Lei de Responsabilidade Fiscal – LRF de 04 de maio de 2000: 
@@ -81,7 +82,8 @@ XXIII - As Metas e as Prioridades da Administração Pública Municipal; 
 
 XXIV - As Disposições Finais. 
 
-**CAPÍTULO II<br>
+**CAPÍTULO II
+
 DA RESPONSABILIDADE NA GESTÃO FISCAL**
 
 Art. 3º O Projeto de Lei Orçamentária deve obedecer aos Princípios da Legalidade, Legitimidade, Impessoalidade, Moralidade, Publicidade, Eficiência, Economicidade e probidade administrativa. 
@@ -106,7 +108,8 @@ V - Concessão de Garantia; 
 
 VI - Inscrição em Restos a Pagar. 
 
-**CAPÍTULO III <br>
+**CAPÍTULO III 
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO DOS ORÇAMENTOS DO MUNICÍPIO, BEM COMO AS SUAS ALTERAÇÕES.** 
 
 Art. 6º A elaboração do projeto, a aprovação e a execução da lei orçamentária de 2022 deverão ser realizadas de modo a evidenciar a transparência da gestão fiscal, observando-se o princípio da publicidade e permitindo-se o amplo acesso da sociedade a todas as informações relativas a cada uma dessas etapas, bem como levar em conta a obtenção dos resultados previstos no Anexo de Metas Fiscais que integra a presente Lei. 
@@ -155,7 +158,8 @@ I - Dos Passivos Contingentes; 
 
 II – Demais riscos fiscais passivos. 
 
-**CAPÍTULO IV<br>
+**CAPÍTULO IV
+
 DA ORGANIZAÇÃO E DA ESTRUTURA DOS ORÇAMENTOS**
 
 Art. 14. Para efeito desta Lei, entende-se por: 
@@ -202,7 +206,8 @@ Parágrafo único. Não se inclui na proibição a autorização para abertura d
 
 Art. 18. O projeto de Lei Orçamentária Anual deverá ser elaborado de forma compatível com o Plano Plurianual – PPA, com a Lei de Diretrizes Orçamentárias – LDO e com as normas estabelecidas pela Lei de Responsabilidade Fiscal – LRF, e portarias expedidas pelo STN. 
 
-Art. 19. O projeto de Lei Orçamentária Anual:<br>
+Art. 19. O projeto de Lei Orçamentária Anual:
+
 Parágrafo único. Conterá, em anexo, demonstrativo da compatibilidade da Programação dos Orçamentos com os objetivos e metas constantes do anexo de metas fiscais da Lei de Diretrizes Orçamentárias – LDO.
 
 Art. 20. O refinanciamento da dívida constará, separadamente:
@@ -337,8 +342,8 @@ I – memória de cálculo do montante de recursos para aplicação na manutenç
 
 II – o Município destinará para dispêndio de custeio e investimento com a saúde, no mínimo 15% (quinze por cento) das receitas com impostos e transferências constitucionais obrigatórias. 
 
-<br>
-**CAPÍTULO V<br>
+**CAPÍTULO V
+
 DO MONTANTE DA FORMA DE UTILIZAÇÃO DA RESERVA DE CONTINGÊNCIA**
 
 Art. 32. A Reserva de Contingência será destinada ao atendimento: 
@@ -353,7 +358,8 @@ d) despesas previstas na LDO não contempladas no orçamento. 
 
 Art. 33. O Montante da Reserva de Contingência será de no mínimo 1% (um por cento) da receita corrente líquida.
 
-**CAPÍTULO VI<br>
+**CAPÍTULO VI
+
 DA EXECUÇÃO ORÇAMENTÁRIA E O DO CUMPRIMENTO DE METAS**
 
 Art. 34. O Poder Executivo estabelecerá, até 30 (trinta) dias após a Publicação do Orçamento, a Programação Financeira e o Cronograma de Execução Mensal de Desembolso, bem como a programação quadrimestral de execução das metas físicas dos projetos e atividades. 
@@ -392,7 +398,8 @@ Art. 41. O Poder Executivo publicará, até 30 (trinta) dias após o encerrament
 
 Art. 42. O Poder Executivo deverá desenvolver sistema gerencial de apropriação de despesas, com o objetivo de demonstrar o custo de cada ação orçamentária. 
 
-**CAPÍTULO VII<br>
+**CAPÍTULO VII
+
 DA INSTITUIÇÃO DA PREVISÃO E DA EFETIVAÇÃO DE RECEITA**
 
 Art. 43. A instituição, a previsão, a atualização e a efetiva arrecadação de tributos da competência constitucional do Município (Imposto Sobre Serviços de Qualquer Natureza – ISSQN, Imposto Predial Territorial e Urbano - IPTU, Imposto sobre Transmissão de Bens Imóveis - ITBI - Taxas de Poder de Polícia, Taxas de Serviços Públicos e Contribuição de Melhoria) são requisitos essenciais da Responsabilidade na Gestão Fiscal. 
@@ -449,7 +456,8 @@ III - da evolução do montante dos Créditos Tributários Passíveis de Cobran�
 
 Art. 50. Na estimativa das receitas do projeto de lei orçamentária poderão ser considerados os efeitos de propostas de alteração na legislação tributária e das contribuições que sejam objeto de lei que esteja em tramitação no Poder Legislativo.
 
-**CAPÍTULO VIII<br>
+**CAPÍTULO VIII
+
 DA RENÚNCIA DE RECEITA**
 
 Art. 51. A renúncia de receita compreende: 
@@ -494,7 +502,8 @@ Art. 55. Os contribuintes que se enquadrem em legislação específica de isenç
 
 Parágrafo único. A isenção se estende aos usufrutuários do imóvel, desde que, comprovado a sua condição. 
 
-**CAPÍTULO IX<br>
+**CAPÍTULO IX
+
 DA GERAÇÃO DE DESPESA**
 
 Art. 56. A Criação, a Expansão ou o Aperfeiçoamento de Ação Governamental – Projetos – que Acarrete Aumento da Despesa Relevante será acompanhado de: 
@@ -557,7 +566,8 @@ Art. 65. O auxílio funeral somente poderá ser prestado às famílias carentes 
 
 Art. 66. As despesas com obras públicas deverão ser contabilizadas nas referidas rubricas conforme anexo específico constante da lei do orçamento anual e registrada no patrimônio público quando de sua conclusão.
 
-**CAPÍTULO X<br>
+**CAPÍTULO X
+
 DAS DESPESAS OBRIGATÓRIAS DE CARÁTER CONTINUADO**
 
 Art. 67. Despesa obrigatória de caráter continuado é a despesa corrente – despesa de custeio ou transferência corrente – derivada de lei, medida provisória ou ato administrativo normativo que fixem para o ente a obrigação legal de sua execução por um período superior a 02 (dois) exercícios.
@@ -660,7 +670,8 @@ a) comprovação de que a despesa prorrogada não afetará às metas de resultad
 
 b) medidas de compensação, nos períodos seguintes, pelo aumento permanente de receita ou pela redução permanente de despesa. 
 
-CAPÍTULO XI<br>
+CAPÍTULO XI
+
 DAS DESPESAS COM PESSOAL
 
 Art. 75. Somente poderão ser admitidos servidores observando o disposto no art. 169 da Constituição se: 
@@ -743,7 +754,8 @@ Art. 81. A repartição do limite de 60% (sessenta por cento) da RCL – Receita
 
 Art. 82. O total da despesa da Câmara Municipal, incluídos os subsídios dos Vereadores e excluídos os gastos com inativos, não poderá ultrapassar o percentual de 6% (seis por cento) relativo ao somatório da Receita Tributária e das seguintes transferências, efetivamente fixado no exercício financeiro de 2022.
 
-**CAPÍTULO XII<br>
+**CAPÍTULO XII
+
 DO CONTROLE DA DESPESA TOTAL COM PESSOAL**
 
 Art. 83. O ato que provoque aumento da despesa com pessoal, será considerado nulo de pleno direito quando: 
@@ -794,12 +806,14 @@ a) receber transferências voluntárias; 
 
 b) obter garantia direta ou indireta de outro ente; 
 
-c) contratar operações de crédito, ressalvadas as destinadas ao refinanciamento da dívida mobiliária e as que visem à redução das despesas com pessoal. <br>
+c) contratar operações de crédito, ressalvadas as destinadas ao refinanciamento da dívida mobiliária e as que visem à redução das despesas com pessoal. 
+
 Parágrafo único. O cargo objeto da redução será considerado extinto, vedada à criação de cargo, emprego ou função com atribuições iguais ou assemelhadas pelo prazo de 04 (quatro) anos. 
 
 Art. 88. O pessoal vinculado ao FUNDEB terá política salarial vinculada às limitações do mesmo, podendo ser dissociada dos demais órgãos municipais. 
 
-**CAPÍTULO XIII<br>
+**CAPÍTULO XIII
+
 DAS DESPESAS COM A SEGURIDADE SOCIAL**
 
 Art. 89. A criação, a majoração ou a extensão de qualquer benefício ou serviço relativo à seguridade social, inclusive os destinados aos servidores públicos, ativos e inativos, e aos pensionistas – despesa obrigatória de caráter continuado – serão acompanhados de:
@@ -848,7 +862,8 @@ a) comprovação de que a despesa criada, majorada ou estendida não afetará as
 
 b) medidas de compensação, nos 02 (dois) períodos seguintes, pelo aumento permanente de receita ou pela redução permanente de despesa. 
 
-**CAPÍTULO XIV<br>
+**CAPÍTULO XIV
+
 DA DESTINAÇÃO DOS RECURSOS PÚBLICOS A ENTIDADES PÚBLICAS E PRIVADAS.**
 
 Art. 92. É vedada a inclusão, na lei orçamentária e em seus créditos adicionais, de dotação a título de subvenções sociais, ressalvadas aquelas destinadas a entidades privadas sem fins lucrativos, de atividade de natureza continuada, que preencham uma das seguintes condições: 
@@ -903,7 +918,8 @@ Art. 97. Na destinação de recursos compreende-se incluída a concessão de sub
 
 Art. 98. A doação ou cessão de imóveis do Patrimônio Municipal deverão obedecer a Lei Orgânica e a Constituição Estadual. 
 
-**CAPITULO XV<br>
+**CAPITULO XV
+
 DA DÍVIDA E DO ENDIVIDAMENTO**
 
 Art. 99. A dívida pública consolidada ou fundada é o montante total apurado sem duplicidade:
@@ -944,7 +960,8 @@ Parágrafo único. Equiparam-se operações de crédito a assunção, o reconhec
 
 Art. 101. A concessão de garantia é o compromisso de adimplência de obrigação financeira ou contratual assumida pelo Município ou entidade a ele vinculada, ou a entidade privada, através de lei específica. 
 
-**CAPÍTULO XVI<br>
+**CAPÍTULO XVI
+
 DOS LIMITES DA DÍVIDA PÚBLICA**
 
 Art. 102. O limite para o montante da dívida consolidada ou fundada, as operações de crédito externo e interno e a concessão de garantia pelo município em operações de crédito externo e interno, são os fixados, pelo Senado Federal, em percentual da Receita Corrente Líquida – RCL, para esfera os Municípios. 
@@ -953,7 +970,8 @@ Art. 103. A verificação do limite da dívida consolidada será efetuada ao fin
 
 Art. 104. Os precatórios judiciais não pagos durante a execução do orçamento em que houverem sido incluídos integram a dívida consolidada, para fins de aplicação dos limites.
 
-**CAPÍTULO XVII<br>
+**CAPÍTULO XVII
+
 DA RECONDUÇÃO DA DÍVIDA AOS LIMITES**
 
 Art. 105. Caso a dívida consolidada ou fundada e a mobiliária, bem como as operações de crédito internas e externas, do Município ultrapasse os limites estabelecidos ao final de um quadrimestre, deverão ser a eles reconduzidas até o término dos três subsequentes, reduzindo o excedente em pelo menos 25% (vinte e cinco por cento) no primeiro quadrimestre.
@@ -966,7 +984,8 @@ II – deverá obter resultado primário necessário à recondução da dívida 
 
 Art. 107. Vencidos os prazos concedidos para os retornos da dívida consolidada ou fundada e a mobiliária, bem como das operações de crédito internas e externas, aos limites estabelecidos, enquanto, ainda, perdurarem os excessos, o Município ficará, também, impedido de receber transferências da União ou do Estado. 
 
-**CAPÍTULO XVIII<br>
+**CAPÍTULO XVIII
+
 DAS OPERAÇÕES DE CRÉDITO – CONTRATAÇÃO**
 
 Art. 108. O Ministério da Fazenda verificará o cumprimento dos limites e condições relativos à realização de operações de crédito do Município. 
@@ -1021,7 +1040,8 @@ III – contratar operações de crédito, ressalvadas as destinadas ao refinanc
 
 Art. 114. Quando o total dos recursos de operações de crédito exceder, no exercício financeiro, o montante das despesas de capital – excluídas as despesas de capital realizadas sob a forma de empréstimo ou financiamento a contribuinte, com o intuito de promover incentivo fiscal, tendo por base tributo de competência do Município, quando resultar na diminuição, direta ou indireta, do Ônus Tributário – será consignada reserva específica, no montante equivalente ao excesso, na LOA – Lei Orçamentária Anual do exercício seguinte.
 
-**CAPÍTULO XIX<br>
+**CAPÍTULO XIX
+
 DAS OPERAÇÕES DE CRÉDITO – VEDAÇÕES**
 
 Art. 115. A União e o Estado não poderão realizar operação de crédito com o município – inclusive suas Entidades da Administração Indireta – Diretamente ou por intermédio de Fundo, Autarquia, Fundação, ainda que sob a forma de novação, refinanciamento ou postergação de dívida contraída anteriormente. 
@@ -1042,8 +1062,8 @@ II – assunção direta de compromisso, confissão de dívida ou operação ass
 
 III – assunção de obrigação, sem autorização orçamentária, com fornecedores para pagamento a posteriori e serviços.
 
-<br>
-**CAPÍTULO XX <br>
+**CAPÍTULO XX 
+
 DAS OPERAÇÕES DE CRÉDITO POR ARO – ANTECIPAÇÃO DE RECEITA ORÇAMENTÁRIA** 
 
 Art. 119. O Ministério da Fazenda verificará o cumprimento dos limites e condições relativos à realização de operações de crédito por ARO – Antecipação de Receita Orçamentária do Município. 
@@ -1110,13 +1130,14 @@ Art. 128. As operações de crédito por Antecipação de Receita Orçamentária
 
 Art. 129. O Banco Central do Brasil manterá sistema de acompanhamento e controle do saldo de crédito aberto e, no caso de inobservância dos limites, aplicará as sanções cabíveis à instituição credora. 
 
-**CAPÍTULO XXI<br>
+**CAPÍTULO XXI
+
 DAS DISPONIBILIDADES DE CAIXA** 
 
 Art. 130. As disponibilidades de caixa serão depositadas em instituições financeiras oficiais, de acordo com o artigo 164, § 3º da Constituição Federal. 
 
-<br>
-**CAPÍTULO XXII <br>
+**CAPÍTULO XXII 
+
 DA PRESERVAÇÃO DO PATRIMÔNIO PÚBLICO** 
 
 Art. 131. A receita de capital derivada da alienação de bens e direitos que integram o patrimônio público não poderá ser aplicada para o financiamento de despesa corrente. 
@@ -1131,7 +1152,8 @@ Art. 133. As desapropriações de imóveis urbanos, somente, poderão ser feitas
 
 Art. 134. O ato de desapropriação de imóvel urbano expedido sem prévia e justa indenização em dinheiro ou prévio depósito judicial do valor da indenização será considerado nulo de pleno direito.
 
-**CAPÍTULO XXIII<br>
+**CAPÍTULO XXIII
+
 DA TRANSPARÊNCIA NA GESTÃO FISCAL** 
 
 Art. 135. Os instrumentos de transparência da gestão fiscal: 
@@ -1164,8 +1186,8 @@ Art. 139. Enviar a Câmara Municipal cópia do balancete e dos documentos que os
 
 Parágrafo único. Nos casos em que o Município cumprir o envio eletronicamente dos dados contidos no Art. 43, fica este desobrigado de enviar ao Legislativo as cópias em papel. 
 
-<br>
-**CAPÍTULO XXIV<br>
+**CAPÍTULO XXIV
+
 DAS METAS E DAS PRIORIDADES DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL** 
 
 Art. 140. A Lei Orçamentária Anual – LOA de 2022 deverá estar compatibilizada com o Anexo de Prioridades e de Metas desta Lei, devendo priorizar, especialmente, as ações voltadas para:
@@ -1192,7 +1214,8 @@ Art. 142. Os projetos de lei relativos a créditos adicionais serão apresentado
 
 § 4° A Lei ou decreto de crédito adicional que não obedecer ao presente artigo e seus parágrafos é nulo, exceto os que o Poder Legislativo convalidarem posteriormente a emissão.
 
-**CAPÍTULO XXV<br>
+**CAPÍTULO XXV
+
 DISPOSIÇÕES FINAIS**
 
 Art. 143. O Município fica autorizado a contribuir para o custeio de despesas de competência de outros entes da federação se houver:

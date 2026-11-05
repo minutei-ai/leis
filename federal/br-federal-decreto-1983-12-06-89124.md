@@ -1,5 +1,3 @@
-###DEC-089124-0-000-06-12-1983@@@
-
 Decreto nº 89.124, de 06 de dezembro de 1983
 
 Dispõe sobre o limite do Capital Autorizado da Empresas Nucleares Brasileiras S.A. - NUCLEBRÁS.

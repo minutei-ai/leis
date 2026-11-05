@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212009)<br>
-
 # LEI N° 18.364, DE 15 DE DEZEMBRO DE 2025
 
 ## (Projeto de lei n° 335/2025, da Deputada Fabiana Bolsonaro - PL)

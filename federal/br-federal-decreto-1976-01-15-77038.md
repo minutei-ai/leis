@@ -1,5 +1,3 @@
-###DEC-077038-0-000-15-01-1976@@@
-
 DECRETO Nº 77.038, DE 15 DE JANEIRO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras, com sede na cidade de Patos de Minas, Estado de Minas Gerais.

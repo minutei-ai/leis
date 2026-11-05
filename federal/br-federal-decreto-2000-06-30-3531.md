@@ -1,5 +1,3 @@
-###DEC-003531-0-000-30-06-2000@@@
-
 DECRETO Nº 3.531, DE 30 DE JUNHO DE 2000.
 
 Dispõe sobre a execução do Regulamento 5 (Regulamento para a Determinação da Arqueação das Embarcações da Hidrovia Paraguai-Paraná (Porto de Cáceres - Porto de Nueva Palmira), de 19/6/96), do Acordo de Alcance Parcial nº 5, assinado ao amparo do art. 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, registrado em 03 de dezembro de 1998.

@@ -1,5 +1,3 @@
-###DEC-082736-0-000-27-11-1978@@@
-
 DECRETO Nº 82.736, DE 27 DE NOVEMBRO DE 1978.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas do Ensino de 2º Grau, ministrado pela Faculdade de Filosofia, Ciências e Letras de Alegrete, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

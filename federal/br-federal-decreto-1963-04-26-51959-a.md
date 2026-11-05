@@ -1,5 +1,3 @@
-###DEC-051959-A-000-26-04-1963@@@
-
 DECRETO Nº 51.959-A, DE 26 DE ABRIL DE 1963.
 
 Transfere do Departamento de Águas e Energia Elétrica do Estado de S. Paulo para a Companhia Hidroelétrica do Rio Pardo a autorização para a construção de linhas de transmissão.

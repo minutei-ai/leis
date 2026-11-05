@@ -1,5 +1,3 @@
-###DEL-000125-0-000-31-01-1967@@@
-
 DECRETO-LEI Nº 125, DE 31 JANeiro DE 1967
 
 Altera a redação do art. 11 da Lei nº 4.425, de 8 de outubro de 1964.

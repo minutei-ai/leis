@@ -1,5 +1,3 @@
-###DEC-058784-A-000-28-06-1966@@@
-
 decreto nº 58.784-a, de 28 de junho de 1966.
 
 Determina ao Ministério da Fazenda seja lavrada escritura de doação de área que especifica.

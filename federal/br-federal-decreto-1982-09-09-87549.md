@@ -1,5 +1,3 @@
-###DEC-087549-0-000-09-09-1982@@@
-
 Decreto nº 87.549, de 09 de setembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ, no Estado do Rio de Janeiro.

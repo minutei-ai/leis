@@ -1,4 +1,5 @@
-DECRETO Nº 10.122, DE 28 DE JULHO DE 2022<br>
+DECRETO Nº 10.122, DE 28 DE JULHO DE 2022
+
 \- [Revogado pelo DECRETO Nº 10.623, DE 10 DE JANEIRO DE 2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110376).
 
 ~~Reajusta o valor pago por meio do Programa Bolsa Estudo, vinculado à Secretaria de Estado da Educação.~~

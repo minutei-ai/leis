@@ -1,5 +1,3 @@
-###DEC-047636-0-000-15-01-1960@@@
-
 DECRETO Nº 47.636, DE 15 DE JANEIRO DE 1960.
 
 Autoriza Mineração Bico D’Arara S.A., a pesquisar cassiterita no Município de Carnaúba dos Dantas, Estado do Rio Grande do Norte.

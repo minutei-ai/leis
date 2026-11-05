@@ -1,5 +1,3 @@
-###DEC-050994-0-000-19-07-1961@@@
-
 decreto nº 50.994, de 19 de juLho de 1961.
 
 Declara públicas, de uso comum, do domínio do Estado do Rio Grande do Sul, as águas do rio Arcado.

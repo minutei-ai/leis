@@ -22,8 +22,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, 28 de
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-OLAVO NOLETO<br>
+OLAVO NOLETO
+
 Chefe da Casa Civil

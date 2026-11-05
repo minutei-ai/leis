@@ -1,5 +1,3 @@
-###DEL-004689-0-000-15-09-1942@@@
-
 DECRETO-LEI N. 4.689 – DE 15 DE SETEMBRO DE 1942
 
 Regula condições para organização e funcionamento de associações civís de empregadores com intuito de coordenar atividades econômicas e dá outras providencias

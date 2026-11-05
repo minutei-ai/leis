@@ -1,5 +1,3 @@
-###DEC-071743-0-000-23-01-1973@@@
-
 DECRETO Nº 71.743, de 23 de janeiro de 1973.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade de Castro, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-050755-0-000-09-06-1961@@@
-
 DECRETO Nº 50.755, DE 9 DE JUNHO DE 1961.
 
 Torna sem efeito o Decreto nº 23.733, de 29 de setembro de 1947, que declarou de utilidade pública, para efeito de desapropriação pelo Ministério da Agricultura, as terras que menciona, destinadas ao Núcleo Colonial de Tinguá, no Estado do Rio de Janeiro.

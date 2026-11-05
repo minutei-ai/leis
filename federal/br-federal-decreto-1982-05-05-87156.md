@@ -1,5 +1,3 @@
-###DEC-087156-0-000-05-05-1982@@@
-
 Decreto nº 87.156, de 05 dE maio de 1982
 
 Renova por 15 (quinze) anos a concessão ou torgada à TELEVISÃO CIDADE BRANCA LTDA., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Corumbá, Estado de Mato Grosso do Sul.

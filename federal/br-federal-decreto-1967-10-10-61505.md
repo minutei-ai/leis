@@ -1,5 +1,3 @@
-###DEC-061505-0-000-10-10-1967@@@
-
 DECRETO Nº 61.505, DE 10 DE OUTUBRo DE 1967.
 
 Outorga à Companhia de Eletricidade de Pernambuco concessão para distribuir energia elétrica em diversos município do Estado de Pernambuco.

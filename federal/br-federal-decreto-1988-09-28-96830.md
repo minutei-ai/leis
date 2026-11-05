@@ -1,5 +1,3 @@
-###DEC-096830-0-000-28-09-1988@@@
-
 DECRETO Nº 96.830, DE 28 DE SETEMBRO DE 1988
 
 Autoriza a Prefeitura Municipal de Bom Jesus a explorar, através do SERVIÇO MUNICIPAL DE RADIODIFUSÃO-RÁDIO APARADOS DA SERRA, na Cidade de Bom Jesus, Estado do Rio Grande do Sul, serviço de radiodifusão sonora em onda média, mediante convênio a ser celebrado com o Ministério das Comunicações, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048328-0-000-21-06-1960@@@
-
 DECRETO Nº 48.328, DE 21 DE JUNHO DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis que mencionada, no Município de Rio Pomba, Estado de Minas Gerais, necessários ao Ministério da Agricultura.

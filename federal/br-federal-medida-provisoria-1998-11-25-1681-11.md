@@ -1,5 +1,3 @@
-###MPV-001681-0-011-25-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.681-11, DE 25 DE NOVEMBRO DE 1998.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

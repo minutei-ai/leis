@@ -1,5 +1,3 @@
-###DEC-052059-0-000-27-05-1963@@@
-
 DECRETO Nº 52.059, DE 27 DE MAIO DE 1963.
 
 Retifica a Tabela Numérica Especial de Mensalistas do Ministério da Saúde, aprovada pelo Decreto nº 49.346 de 26 de novembro de 1960, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-008936-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.936 – DE 26 DE JANEIRO DE 1946
 
 Altera a tabela de taxas, anuidades e contribuições referentes aos atos de Propriedade Industrial.

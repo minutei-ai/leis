@@ -1,5 +1,3 @@
-###DEC-086544-0-000-05-11-1981@@@
-
 Decreto nº 86.544, de 05 de novembro de 1981
 
 Autoriza o aumento de potência da RÁDIO ALVORADA DO SUL LTDA., na cidade de Rebouças, Estado do Paraná.

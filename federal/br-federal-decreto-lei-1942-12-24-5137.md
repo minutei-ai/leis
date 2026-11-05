@@ -1,5 +1,3 @@
-###DEL-005137-0-000-24-12-1942@@@
-
 DECRETO-LEI N. 5.137 – DE 24 DE DEZEMBRO DE 1942
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de cruzeiros 211,625,00 à verba que especifica

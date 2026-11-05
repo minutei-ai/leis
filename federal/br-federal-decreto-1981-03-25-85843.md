@@ -1,7 +1,3 @@
-1
-
-###DEC-085843-0-000-25-03-1981@@@
-
 Decreto nº 85.843, de 25 de março de 1981.
 
 Dispõe sobre a reorganização do Ministério da Educação e Cultura.

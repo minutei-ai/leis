@@ -1,5 +1,3 @@
-###DEC-057833-0-000-17-02-1966@@@
-
 Decreto nº 57.833, de 17 de Fevereiro de 1966.
 
 Altera a atual denominação do Curso de Proteção ao Vôo.

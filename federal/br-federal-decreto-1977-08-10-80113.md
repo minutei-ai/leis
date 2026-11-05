@@ -1,5 +1,3 @@
-###DEC-080113-0-000-10-08-1977@@@
-
 DECRETO Nº 80.113, DE 10 DE AGOSTO DE 1977.
 
 Prorroga o prazo de intervenção governamental nas áreas prioritárias, para fins de reforma agrária, de que tratam os Decretos números 70.986, de 16 de agosto de 1972, e 72.134, de 26 de abril de 1973.

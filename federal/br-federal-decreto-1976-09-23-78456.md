@@ -1,5 +1,3 @@
-###DEC-078456-0-000-23-09-1976@@@
-
 DECRETO Nº 78.456, DE 23 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Ciências da Computação, do Instituto de Matemática, Estatística e Ciência da Computação, com sede na cidade de Campinas, Estado de São Paulo.

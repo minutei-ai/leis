@@ -1,14 +1,12 @@
-###DEC-029189-0-000-24-01-1951@@@
+**DECRETO Nº 29.189, DE 24 DE JANEIRO DE 1951.**
 
-<strong>DECRETO Nº 29.189, DE 24 DE JANEIRO DE 1951.</strong>
+***Altera o Regulamento do Arquivo do Exército, aprovado pelo Decreto número 614, de 30 de janeiro de 1936.***
 
-<em><strong>Altera o Regulamento do Arquivo do Exército, aprovado pelo Decreto número 614, de 30 de janeiro de 1936.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O parágrafo único do artigo 2º e artigo 22 e seus parágrafos do Regulamento do Arquivo do Exército aprovado pelo Decreto nº 614, de 30 de janeiro de 1936 passam a ter a seguinte redação:
+**Art**. 1º O parágrafo único do artigo 2º e artigo 22 e seus parágrafos do Regulamento do Arquivo do Exército aprovado pelo Decreto nº 614, de 30 de janeiro de 1936 passam a ter a seguinte redação:
 
 “Art. 2º...
 
@@ -36,10 +34,10 @@ a) do Chefe de Seção pelo encarregado de Subseção mais graduado ou mais anti
 
 b) do Chefe do Gabinete e demais funcionários por quem o Diretor designar.“
 
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de janeiro de 1951; 130º da Independência e 63º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa

@@ -1,5 +1,3 @@
-###DEC-006991-0-000-27-10-2009@@@
-
 DECRETO Nº 6.991, DE 27 DE OUTUBRO DE 2009.
 
 Institui o Programa Nacional de Apoio à Inclusão Digital nas Comunidades - Telecentros.BR, no âmbito da política de inclusão digital do Governo Federal, e dá outras providências.

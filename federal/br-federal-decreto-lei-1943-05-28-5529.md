@@ -1,5 +1,3 @@
-###DEL-005529-0-000-28-05-1943@@@
-
 DECRETO‑LEI N. 5.529 – DE 28 DE MAIO DE 1943
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$ 45.200,00 para atender a despesa com pessoal extranumerário na Comissão Central de Requisições

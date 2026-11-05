@@ -1,5 +1,3 @@
-###DEC-077211-0-000-20-02-1976@@@
-
 DECRETO Nº 77.211, DE 20 DE FEVEREIRO DE 1976.
 
 Encampa bens e instalações que constituem linhas de transmissão e subestações, em tensão igual ou inferior a 69 kV, na Região Nordeste.

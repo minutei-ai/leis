@@ -1,5 +1,3 @@
-###DEC-081024-0-000-12-12-1977@@@
-
 Decreto nº 81.024, de 12 de dezembro de 1977.
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Estudos Sociais, do Centro de Ensino Superior de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo.

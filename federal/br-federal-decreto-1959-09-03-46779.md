@@ -1,5 +1,3 @@
-###DEC-046779-0-000-03-09-1959@@@
-
 decreto nº 46.779, de 3 de setembro de 1959.
 
 Autoriza Minérios, Ferros e Metais Ltda. a pesquisar minério de chumbo no município de Macaúbas, Estado da Bahia.

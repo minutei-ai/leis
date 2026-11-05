@@ -1,5 +1,3 @@
-###DEL-006576-0-000-09-06-1944@@@
-
 DECRETO-LEI N. 6.576 – DE 9 DE JUNHO DE 1944
 
 Abre ao Instituto Brasileiro de Geografia e Estatística o crédito especial de Cr$ 400.000,00 para auxílio ao Conselho Nacional de Geografia

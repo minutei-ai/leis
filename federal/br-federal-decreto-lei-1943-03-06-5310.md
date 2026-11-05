@@ -1,5 +1,3 @@
-###DEL-005310-0-000-06-03-1943@@@
-
 DECRETO‑LEI N. 5.310 – DE 6 DE MARÇO DE 1943
 
 Torna sem aplicação Cr$ 748.800,00, em dotação orçamentária do Ministério da Viação e Obras Públicas e abre um crédito suplementar de igual impor­tância

@@ -1,5 +1,3 @@
-###DEC-067233-0-000-22-09-1970@@@
-
 Decreto nº 67.233, de 22 de setembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Suplementar - do Ministério da Agricultura, cargos do Quadro Suplementar do Ministério do Trabalho e Previdência Social, originários do extinto Serviço de Alimentação da Previdência Social - SAPS.

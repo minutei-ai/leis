@@ -1,5 +1,3 @@
-###DEC-006624-0-000-29-10-2008@@@
-
 DECRETO Nº 6.624, DE 29 DE OUTUBRO DE 2008.
 
 Promulga os Termos de Referência e Normas de Procedimento do Grupo Internacional de Estudos do Chumbo e do Zinco (GIECZ).

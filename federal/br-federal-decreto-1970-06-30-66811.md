@@ -1,5 +1,3 @@
-###DEC-066811-0-000-30-06-1970@@@
-
 DECRETO Nº 66.811 - DE 30 DE JUNHO DE 1970
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis que menciona, necessários ao Ministério do Exército.

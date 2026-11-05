@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211841)<br>
-
 # DECRETO N° 70.093, DE 14 DE NOVEMBRO DE 2025
 
 ### _Homologa sumariamente, por 180 (cento e oitenta) dias, o decreto da Prefeita do Município de Américo Brasiliense, que declarou Situação de Emergência em áreas do Município._

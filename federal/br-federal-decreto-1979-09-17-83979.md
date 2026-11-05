@@ -1,5 +1,3 @@
-###DEC-083979-0-000-17-09-1979@@@
-
 decreto nº 83.979, de 17 de setembro de 1979.
 
 Reajusta os valores da Gratificação por Serviços Especiais, regulamentada pelo Decreto nº 77.240, de 26 de fevereiro de 1976.

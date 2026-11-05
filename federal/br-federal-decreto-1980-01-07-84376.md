@@ -1,5 +1,3 @@
-###DEC-084376-0-000-07-01-1980@@@
-
 DECRETO Nº 84.376, DE 7 DE JANEIRO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado de Mato Grosso do Sul.

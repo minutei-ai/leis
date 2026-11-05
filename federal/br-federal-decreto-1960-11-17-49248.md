@@ -1,5 +1,3 @@
-###DEC-049248-0-000-17-11-1960@@@
-
 DECRETO Nº 49.248, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Arthur Nunes da Silveira a pesquisar galena, no município de Brusque, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEL-005939-0-000-28-10-1943@@@
-
 DECRETO‑LEI N. 5.939 – DE 28 DE OUTUBRO DE 1943
 
 Altera condições para a promoção de oficiais no Corpo de Oficias de Aeronáutica

@@ -1,5 +1,3 @@
-###DEC-064390-0-000-23-04-1969@@@
-
 DECRETO Nº 64.390, DE 23 DE ABRIL DE 1969.
 
 Inclui pessoal da extinta Coordenação da Mobilização Econômica no Decreto nº 55.443, de 5 de janeiro de 1965.

@@ -1,5 +1,3 @@
-###DEC-061266-0-000-01-09-1967@@@
-
 DECRETO Nº 61.266, DE 1 DE SETEMBRO DE 1967.
 
 Altera a denominação do Instituto de Belas Artes de Goiás e dá Outras providências.

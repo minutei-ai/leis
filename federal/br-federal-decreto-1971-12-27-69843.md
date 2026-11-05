@@ -1,5 +1,3 @@
-###DEC-069843-0-000-27-12-1971@@@
-
 DECRETO Nº 69.843 - DE 27 DE DEZEMBRO DE 1971
 
 Redistribui cargo, com o respectivo ocupante, para a Universidade Federal do Rio de Janeiro, e dá outras providências.

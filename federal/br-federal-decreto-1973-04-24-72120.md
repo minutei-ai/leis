@@ -1,5 +1,3 @@
-###DEC-072120-0-000-24-04-1973@@@
-
 DECRETO Nº 72.120, DE 24 DE ABRIL DE 1973.
 
 Concede reconhecimento aos cursos de Ciências Sociais, Estudos Sociais, Letras (1º grau) e Letras (duração plena), Matemática e Pedagogia da Faculdade de Filosofia, Ciências e Letras de Três Corações, mantida pela Fundação Tricordiana de Educação - Três Corações - MG.

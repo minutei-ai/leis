@@ -1,5 +1,3 @@
-###DEC-004425-0-000-16-10-2002@@@
-
 DECRETO Nº 4.425, DE 16 DE OUTUBRO DE 2002
 
 Dispõe sobre o Livro de Transição e dá outras providências.

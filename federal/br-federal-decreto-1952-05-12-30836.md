@@ -1,10 +1,8 @@
-###DEC-030836-0-000-12-05-1952@@@
+**DECRETO Nº 30.836, DE 12 DE MAIO DE 1952.**
 
-<strong>DECRETO Nº 30.836, DE 12 DE MAIO DE 1952.</strong>
+***Desincorpora do Patrimônio Nacional os bens e direitos da Companhia Brasileira de Águas e Esgotos de Niterói S. A., e dá outras providências.***
 
-<em><strong>Desincorpora do Patrimônio Nacional os bens e direitos da Companhia Brasileira de Águas e Esgotos de Niterói S. A., e dá outras providências.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, número I, da Constituição, e tendo em vista o disposto nos artigos 3º, “<em>in</em>\-<em>fine</em>”, e 4º do Decreto-lei número 9.680, de 30 de agôsto de 1946 e
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, número I, da Constituição, e tendo em vista o disposto nos artigos 3º, “*in*\-*fine*”, e 4º do Decreto-lei número 9.680, de 30 de agôsto de 1946 e
 
 CONSIDERANDO que os bens e direitos da Companhia Brasileira de Águas e Esgotos de Niterói S. A. foram incorporados ao Patrimônio Nacional em caráter transitório e até que ficassem plenamente ressarcidos e resguardados todos os direitos das Caixas Econômicas Federais do Rio de Janeiro e dos Estados do Rio de Janeiro e do Rio Grande do Sul, credores daquela Companhia (dispositivos indicados do Decreto-lei número 9.680);
 
@@ -16,22 +14,22 @@ CONSIDERANDO que ditas Prefeituras de Niterói e São Gonçalo, bem como o estad
 
 CONSIDERANDO, em face do exposto e dos elementos constantes do processo protocolado no Ministério da Fazenda sob o nº 29.117, de 1952, que foi atingido o fim da lei, e que se verificou o implemento da condição resolutiva nela prevista extintiva das medidas estabelecidas pelo Decreto-lei nº 9.660, de 30 de agôsto de 1946, inclusive a incorporação provisória ao Patrimônio Nacional dos bens e direitos da Companhia Brasileira de Águas e Esgotos de Niterói S. A., e a administração especial instituída para essa emprêsa,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Ficam desincorporados do Patrimônio Nacional os bens e direitos da Companhia Brasileira de Águas e Esgotos de Niterói S. A., para o fim de serem entregues à Prefeitura Municipal de Niterói.
+**Art**. 1º Ficam desincorporados do Patrimônio Nacional os bens e direitos da Companhia Brasileira de Águas e Esgotos de Niterói S. A., para o fim de serem entregues à Prefeitura Municipal de Niterói.
 
-<strong>Art</strong>. 2º A Prefeitura Municipal de Niterói, recebendo os bens e direitos a que se refere o artigo anterior, investir-se-á na posse e direção dos serviço, assumirá o ativo e passivo da Companhia Brasileira de Águas e esgotos de Niterói S. A., e ficará sub-rogada nos direitos e obrigações dessa emprêsa, sem qualquer responsabilidade ou obrigação da União Federal, das Caixas Econômicas Federais do Rio de Janeiro e dos Estados do Rio de Janeiro e do Rio Grande do Sul, e da administração instituída nos têrmos do Decreto-lei número 9.680, de 30 de agôsto de 1945.
+**Art**. 2º A Prefeitura Municipal de Niterói, recebendo os bens e direitos a que se refere o artigo anterior, investir-se-á na posse e direção dos serviço, assumirá o ativo e passivo da Companhia Brasileira de Águas e esgotos de Niterói S. A., e ficará sub-rogada nos direitos e obrigações dessa emprêsa, sem qualquer responsabilidade ou obrigação da União Federal, das Caixas Econômicas Federais do Rio de Janeiro e dos Estados do Rio de Janeiro e do Rio Grande do Sul, e da administração instituída nos têrmos do Decreto-lei número 9.680, de 30 de agôsto de 1945.
 
-<strong>Art</strong>. 3º Dentro de sessenta (60) dias contados da vigência do presente Decreto, a administração mencionada no artigo precedente fará, mediante têrmo, a entrega e transferência a Prefeitura Municipal de Niterói dos bens e direitos de que trata o art. 1º bem como do ativo e passivo da referida Companhia, transferindo-lhe, também, a administração dos serviços.
+**Art**. 3º Dentro de sessenta (60) dias contados da vigência do presente Decreto, a administração mencionada no artigo precedente fará, mediante têrmo, a entrega e transferência a Prefeitura Municipal de Niterói dos bens e direitos de que trata o art. 1º bem como do ativo e passivo da referida Companhia, transferindo-lhe, também, a administração dos serviços.
 
 Parágrafo único. Ultimadas as providências previstas neste artigo, ficará extinta, automàticamente, a administração estabelecida no Decreto-lei nº 9.680, de 30 de agôsto de 1946.
 
-<strong>Art</strong>. 4º Este Decreto entrará em vigor na data de sua publicação.
+**Art**. 4º Este Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 12 de maio de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Horácio Lafer

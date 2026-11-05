@@ -1,5 +1,3 @@
-###DEL-005106-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.106 – DE 17 DE Dezembro de 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 45.400,00 á verba que especifica 

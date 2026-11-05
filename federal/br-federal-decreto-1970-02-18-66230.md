@@ -1,5 +1,3 @@
-###DEC-066230-0-000-18-02-1970@@@
-
 DECRETO Nº 66.230 - DE 18 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública o Ginásio Coração de Jesus, com sede em Cuiabá, Estado de Mato Grosso.

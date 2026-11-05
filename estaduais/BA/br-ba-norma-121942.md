@@ -6,7 +6,8 @@ Dispõe sobre o Sistema de Transporte Hidroviário Intermunicipal de Passageiros
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Esta Lei dispõe sobre organização, planejamento, fiscalização e poder de polícia do Sistema de Transporte Hidroviário Intermunicipal de Passageiros e Veículos do Estado da Bahia - SHI.
@@ -15,7 +16,8 @@ Art. 2º - Cabe ao Estado da Bahia, na forma desta Lei, explorar diretamente, ou
 
 Parágrafo único - Transporte hidroviário intermunicipal de passageiros e veículos, para os efeitos desta Lei, é o serviço de navegação entre dois ou mais municípios, dentro dos limites territoriais do Estado da Bahia, numa faixa litorânea de até 12 (doze) milhas náuticas de largura da costa, em águas de leitos de rios, baías, angras, enseadas, lagos, lagoas, canais, e águas marítimas abrigadas, com origem, destino, tarifa e horários definidos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DO PLANEJAMENTO E DA IMPLANTAÇÃO
 
 Art. 3º - Os serviços do SHI serão operacionalmente planejados, coordenados, controlados, concedidos, permitidos, regulados e fiscalizados pela Agência Estadual de Regulação de Serviços Públicos de Energia, Transportes e Comunicações da Bahia - AGERBA, autarquia sob regime especial, vinculada à Secretaria de Infra-Estrutura - SEINFRA, ressalvada a competência da autoridade marítima.
@@ -62,7 +64,8 @@ Art. 8º - A estruturação básica do SHI, que estabelece a classificação e/o
 
 Art. 9º - A AGERBA editará normas que promovam a acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, mediante, entre outras medidas, a supressão de barreiras e obstáculos nos equipamentos do SHI, em conformidade com a legislação pertinente.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PLANO DIRETOR
 
 Art. 10 - A Secretaria de Infra-Estrutura - SEINFRA deverá elaborar e manter atualizado o Plano Diretor de Transporte Hidroviário Intermunicipal de Passageiros e Veículos, contemplando as diretrizes de ação em todos os aspectos relacionados com o transporte de passageiros, visando a mais eficiente prestação do serviço público.
@@ -95,7 +98,8 @@ IX - a aplicação e expansão do Programa de Qualidade de Transportes, visando 
 
 X - os princípios gerais previstos nesta Lei.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DOS PRINCÍPIOS GERAIS
 
 Art. 13 - A prestação dos serviços de transporte hidroviário intermunicipal de passageiros e veículos, inclusive o gerenciamento da operação e sua infraestrutura de apoio, será regida pelos seguintes princípios gerais:
@@ -116,7 +120,8 @@ VII - desenvolvimento da infraestrutura social, em especial, de transporte de pa
 
 VIII - adequação do planejamento estabelecido para o SHI aos planejamentos setoriais de desenvolvimento, segurança e transportes do Estado da Bahia, além de outros que lhe forem correlatos.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DOS PROCEDIMENTOS PARA OUTORGA
 
 Art. 14 - A AGERBA outorgará a prestação dos serviços no âmbito do SHI, mediante concessão ou permissão, precedida de licitação, observado o disposto na legislação federal e na presente Lei.
@@ -221,7 +226,8 @@ II - responsabilizar-se civilmente pelos atos de seus prepostos e indenizar todo
 
 III - adotar as melhores técnicas de execução de projetos e obras e de prestação de serviços, segundo normas e procedimentos técnicos e científicos pertinentes, utilizando-se dos mais eficientes processos e equipamentos.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DA PRESTAÇÃO DO SERVIÇO
 
 Art. 22 - Incumbe ao concessionário ou permissionário a prestação de serviços de transporte e/ou de exploração da infraestrutura de transporte hidroviário que lhe tenham sido delegadas, cabendo-lhes responder por todos os prejuízos causados ao Poder Público Estadual, aos usuários ou a terceiros, sem que a fiscalização exercida pela AGERBA exclua ou atenue essa responsabilidade.
@@ -250,7 +256,8 @@ Art. 24 - A AGERBA procederá ao controle permanente da qualidade dos serviços,
 
 § 2º - Na hipótese de ausência de condições de segurança das embarcações, incumbe à Autoridade Marítima a realização da vistoria para, se possível, proceder o retorno do equipamento à navegação.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DA REMUNERAÇÃO DOS SERVIÇOS
 
 Art. 25 - Os serviços do SHI serão remunerados mediante receitas provenientes das tarifas pagas pelos usuários desses serviços, as quais serão calculadas e revistas periodicamente pela AGERBA.
@@ -287,7 +294,8 @@ Art. 30 - A AGERBA estabelecerAs tarifas do SHI ser O valor fixado para a tarifa
 
 Art. 31 - Os direitos e as obrigações dos usuários, dos concessionários e dos permissionários, sem prejuízo do disposto nesta Lei e na Lei Federal nº 8.078, de 11 de setembro de 1990, serão detalhados em atos regulatórios a serem expedidos pela AGERBA.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DO CONTROLE, DA FISCALIZAÇÃO E DAS PENALIDADES
 
 Art. 32 - O controle e a fiscalização dos serviços do SHI, inclusive nos aspectos econômico-financeiros, qualidade na prestação e conforto dos usuários, será exercida pela AGERBA.
@@ -392,7 +400,8 @@ c) declaração de inidoneidade, pelo prazo de 02 (dois) anos, para participar d
 
 § 2º - O infrator deverá arcar com as despesas referentes à remoção e permanência da embarcação em depósito, bem como as de transbordo, independentemente das demais penalidades aplicáveis.
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 DO PROCESSO ADMINISTRATIVO E DOS RECURSOS
 
 Art. 49 - O comentimento de infração às normas do SHI ensejará a lavratura do respectivo auto de infração pelo agente da AGERBA.
@@ -439,7 +448,8 @@ Art. 57 - A lavratura do auto de infração dar-se-á por qualquer meio idôneo,
 
 Parágrafo único - Serão, também, progressivamente implantadas, as condições para que os autuados possam exercitar seu direito de defesa via rede mundial de computadores, mediante um sistema de informações próprio que atenda a esta finalidade.
 
-CAPÍTULO XI -<br>
+CAPÍTULO XI -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 58 - O Regulamento do SHI será expedido mediante Decreto do Chefe do Poder Executivo Estadual, em até 180 (cento e oitenta) dias, após a publicação desta Lei.

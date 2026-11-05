@@ -1,5 +1,3 @@
-###DEC-093839-0-000-19-12-1986@@@
-
 DECRETO Nº 93.839, DE 19 DE DEZEMBRO DE 1986
 
 Declara luto oficial.

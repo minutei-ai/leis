@@ -1,5 +1,3 @@
-###DEC-073890-0-000-03-04-1974@@@
-
 DECRETO Nº 73.890, DE 3 DE ABRIL DE 1974.
 
 Altera o artigo 3º do Regimento para o Centro de Educação Física Almirante Adalberto Nunes (CEFAN).

@@ -1,5 +1,3 @@
-###DEC-002515-0-000-12-03-1998@@@
-
 DECRETO Nº 2.515, DE 12 DE MARÇO DE 1998
 
 Promulga o Acordo de Cooperação Comercial, Econômico e Industrial, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Turquia, em Brasília, em 10 de abril de 1995.
@@ -106,4 +104,28 @@ Os abaixo assinados, devidamente credenciados por seus respectivos Governos, ass
 
 Feito em Brasília, em 10 de abril de 1995, em 3 (três) exemplares originais, nas línguas portuguesa, turca e inglesa, sendo todos os textos igualmente autênticos. Em caso de divergência prevalecerá o texto em sua versão inglesa.
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Relações Exteriores</span></p></td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">da Turquia</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Onur Kumbaracibasi</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado</span></p><p style="margin-top:6pt; margin-bottom:6pt; text-align:center; line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:212.7pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da República
+
+Federativa do Brasil
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das
+
+Relações Exteriores
+
+</td><td style="width:212.7pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Pelo Governo da República
+
+da Turquia
+
+Onur Kumbaracibasi
+
+Ministro de Estado
+
+&nbsp;
+
+</td></tr></tbody></table>

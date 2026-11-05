@@ -1,5 +1,3 @@
-###DEC-098108-0-000-31-08-1989@@@
-
 DECRETO Nº 98.108, DE 31 DE AGOSTO DE 1989
 
 Declara o valor do salário-mínimo do mês de setembro de 1989, na forma da Lei nº 7.789, de 3 de julho de 1989.

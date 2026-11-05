@@ -1,5 +1,3 @@
-###DEC-049079-0-000-07-10-1960@@@
-
 DECRETO Nº 49.079, DE 7 DE OUTUBRO DE 1960.
 
 Retifica o Decreto nº 44.646, de 17 de outubro de 1958.

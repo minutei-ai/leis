@@ -1,5 +1,3 @@
-###DEC-067805-0-000-11-12-1970@@@
-
 DECRETO Nº 67.805, DE 11 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública o Centro Espírita Luz das Almas, com sede em São Luís, Estado do Maranhão.

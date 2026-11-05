@@ -1,5 +1,7 @@
-DECRETO Nº 10.516, DE 31 DE JULHO DE 2024<br>
-\- [Vide Decreto nº 10.685, de 23-4-2025](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685) - Altera a estrutura administrativa da ECONOMIA.<br>
+DECRETO Nº 10.516, DE 31 DE JULHO DE 2024
+
+\- [Vide Decreto nº 10.685, de 23-4-2025](http://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685) - Altera a estrutura administrativa da ECONOMIA.
+
 \- [Vide Decreto nº 10.509, de 26-7-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109231/decreto-10509) - Altera a estrutura administrativa da ECONOMIA.
 
 Aprova o Regulamento da Secretaria de Estado da Economia – ECONOMIA.
@@ -104,13 +106,16 @@ e) Corregedoria Fiscal;
 
 f) Procuradoria Setorial, com a Gerência de Processos Administrativos;
 
-~~g) Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:~~<br>
+~~g) Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~1\. Assessoria de Monitoramento Fiscal; e~~<br>
+~~1\. Assessoria de Monitoramento Fiscal; e~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~2\. Assessoria de Planejamento Financeiro;~~<br>
+~~2\. Assessoria de Planejamento Financeiro;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
 h) Gerência da Ouvidoria Setorial;
@@ -237,13 +242,16 @@ o) Subsecretaria do Tesouro Estadual:
 
 3.7. Gerência de Projeções e Análises Fiscais;
 
-4\. Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:<br>
+4\. Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-4.1. Assessoria de Monitoramento Fiscal; e<br>
+4.1. Assessoria de Monitoramento Fiscal; e
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-4.2. Assessoria de Planejamento Financeiro;<br>
+4.2. Assessoria de Planejamento Financeiro;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 p) Subsecretaria Central de Planejamento, Monitoramento e Avaliação:
@@ -278,25 +286,32 @@ q) Subsecretaria Central de Orçamento:
 
 3.2. Gerência de Monitoramento da Área Social.
 
-r) Diretoria-Executiva do PROFISCO:<br>
+r) Diretoria-Executiva do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-1\. Coordenadoria Técnica do PROFISCO;<br>
+1\. Coordenadoria Técnica do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-1.1. Liderança de Produtos do PROFISCO;<br>
+1.1. Liderança de Produtos do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-2\. Coordenadoria de Planejamento e Monitoramento do PROFISCO;<br>
+2\. Coordenadoria de Planejamento e Monitoramento do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-2.1. Assessoria de Planejamento e Monitoramento do PROFISCO;<br>
+2.1. Assessoria de Planejamento e Monitoramento do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-3\. Coordenadoria de Aquisições do PROFISCO; e<br>
+3\. Coordenadoria de Aquisições do PROFISCO; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-3.1. Assessoria de Aquisições do PROFISCO.<br>
+3.1. Assessoria de Aquisições do PROFISCO.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 TÍTULO IV
@@ -649,85 +664,110 @@ VIII – atuar em procedimento administrativo e/ou judicial em defesa dos intere
 
 IX – encarregar-se de competências correlatas e as que eventualmente lhe forem delegadas pelo Chefe da Procuradoria Setorial.
 
-~~CAPÍTULO VII~~<br>
+~~CAPÍTULO VII~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
 ~~DA ASSESSORIA ESPECIAL DE MONITORAMENTO FISCAL E PLANEJAMENTO FINANCEIRO~~
 
-~~Art. 16. Compete à Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:~~<br>
+~~Art. 16. Compete à Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~I – coordenar o acompanhamento e o monitoramento dos programas de equilíbrio e recuperação fiscal;~~<br>
+~~I – coordenar o acompanhamento e o monitoramento dos programas de equilíbrio e recuperação fiscal;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~II – coordenar a elaboração do planejamento fiscal de médio e longo prazos, com vistas ao monitoramento da sustentabilidade fiscal;~~<br>
+~~II – coordenar a elaboração do planejamento fiscal de médio e longo prazos, com vistas ao monitoramento da sustentabilidade fiscal;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~III – promover estudos sobre o desempenho das finanças públicas estaduais;~~<br>
+~~III – promover estudos sobre o desempenho das finanças públicas estaduais;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~IV – promover e dar transparência à avaliação periódica das estatísticas e dos indicadores fiscais; e~~<br>
+~~IV – promover e dar transparência à avaliação periódica das estatísticas e dos indicadores fiscais; e~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~V – encarregar-se de competências correlatas.~~<br>
+~~V – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Assessoria de Monitoramento Fiscal e Planejamento Financeiro exercer as funções de organização, coordenação e supervisão técnica das seguintes assessorias:~~<br>
+~~Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Assessoria de Monitoramento Fiscal e Planejamento Financeiro exercer as funções de organização, coordenação e supervisão técnica das seguintes assessorias:~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~I – Assessoria de Monitoramento Fiscal; e~~<br>
+~~I – Assessoria de Monitoramento Fiscal; e~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~II – Assessoria de Planejamento Financeiro.~~<br>
+~~II – Assessoria de Planejamento Financeiro.~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~Seção I~~<br>
+~~Seção I~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
 ~~Da Assessoria de Monitoramento Fiscal~~
 
-~~Art. 17. Compete à Assessoria de Monitoramento Fiscal:~~<br>
+~~Art. 17. Compete à Assessoria de Monitoramento Fiscal:~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~I – coordenar e garantir a correta e tempestiva prestação das informações exigidas no âmbito dos programas de equilíbrio e recuperação fiscal;~~<br>
+~~I – coordenar e garantir a correta e tempestiva prestação das informações exigidas no âmbito dos programas de equilíbrio e recuperação fiscal;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~II – editar e publicar os relatórios exigidos pela legislação que rege os programas de equilíbrio e recuperação fiscal;~~<br>
+~~II – editar e publicar os relatórios exigidos pela legislação que rege os programas de equilíbrio e recuperação fiscal;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~III – monitorar a execução dos planos de recuperação ou de equilíbrio fiscal dos quais o Estado seja signatário;~~<br>
+~~III – monitorar a execução dos planos de recuperação ou de equilíbrio fiscal dos quais o Estado seja signatário;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~IV – monitorar as metas e os compromissos fiscais pactuados no âmbito dos programas de equilíbrio e recuperação fiscal; e~~<br>
+~~IV – monitorar as metas e os compromissos fiscais pactuados no âmbito dos programas de equilíbrio e recuperação fiscal; e~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~V – encarregar-se de competências correlatas.~~<br>
+~~V – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~Seção II~~<br>
+~~Seção II~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
 ~~Da Assessoria de Planejamento Financeiro~~
 
-~~Art. 18. Compete à Assessoria de Planejamento Financeiro:~~<br>
+~~Art. 18. Compete à Assessoria de Planejamento Financeiro:~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~I – desenvolver e aperfeiçoar projeções e cenários fiscais de médio e longo prazos;~~<br>
+~~I – desenvolver e aperfeiçoar projeções e cenários fiscais de médio e longo prazos;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~II – avaliar, com base nas projeções fiscais, a evolução e a trajetória futura de indicadores fiscais;~~<br>
+~~II – avaliar, com base nas projeções fiscais, a evolução e a trajetória futura de indicadores fiscais;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~III – monitorar, avaliar e propor medidas relativas ao atendimento dos limites previstos no art. 167– A da Constituição federal e aos limites de gastos previstos na Constituição estadual e nos programas de equilíbrio e recuperação fiscal;~~<br>
+~~III – monitorar, avaliar e propor medidas relativas ao atendimento dos limites previstos no art. 167– A da Constituição federal e aos limites de gastos previstos na Constituição estadual e nos programas de equilíbrio e recuperação fiscal;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~IV – analisar pedidos de aumento de despesas sob a ótica da sustentabilidade fiscal e do equilíbrio intertemporal;~~<br>
+~~IV – analisar pedidos de aumento de despesas sob a ótica da sustentabilidade fiscal e do equilíbrio intertemporal;~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~V – editar e publicar relatórios periódicos com vistas à transparência fiscal; e~~<br>
+~~V – editar e publicar relatórios periódicos com vistas à transparência fiscal; e~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
-~~VI – encarregar-se de competências correlatas.~~<br>
+~~VI – encarregar-se de competências correlatas.~~
+
 \- [Revogado pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638), art. 4º, I
 
 CAPÍTULO VIII
@@ -1014,33 +1054,42 @@ XX – gerir o processo de pagamento de diárias;
 
 XXI – supervisionar a utilização dos recursos provenientes de fundos rotativos e adiantamentos, pela verificação de saldos, solicitar a recomposição de cada fundo e prestar contas; e
 
-XXII – preparar a proposta orçamentária do Programa de Apoio à Gestão dos Fiscos do Brasil – PROFISCO e apoiar o Diretor-Executivo do PROFISCO no processo de tramitação da LDO e da LOA;<br>
+XXII – preparar a proposta orçamentária do Programa de Apoio à Gestão dos Fiscos do Brasil – PROFISCO e apoiar o Diretor-Executivo do PROFISCO no processo de tramitação da LDO e da LOA;
+
 \- [Redação dada pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 ~~XXII – encarregar-se de competências correlatas.~~
 
-XXIII – prestar apoio e assessoramento financeiro à Diretoria-Executiva do PROFISCO;<br>
+XXIII – prestar apoio e assessoramento financeiro à Diretoria-Executiva do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXIV – realizar o controle financeiro da execução do PROFISCO;<br>
+XXIV – realizar o controle financeiro da execução do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXV – realizar o registro das informações físico-financeiras nos sistemas informatizados da Diretoria– Executiva do PROFISCO;<br>
+XXV – realizar o registro das informações físico-financeiras nos sistemas informatizados da Diretoria– Executiva do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXVI – elaborar e assinar as demonstrações financeiras exigidas legal ou contratualmente no âmbito do PROFISCO;<br>
+XXVI – elaborar e assinar as demonstrações financeiras exigidas legal ou contratualmente no âmbito do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXVII – elaborar as prestações de contas e as solicitações de desembolso, reembolso e reposição de fundos relacionadas ao PROFISCO;<br>
+XXVII – elaborar as prestações de contas e as solicitações de desembolso, reembolso e reposição de fundos relacionadas ao PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXVIII – tomar as providências do controle do patrimônio da Diretoria-Executiva do PROFISCO;<br>
+XXVIII – tomar as providências do controle do patrimônio da Diretoria-Executiva do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXIX – atender às solicitações de auditorias internas e externas no âmbito do PROFISCO; e<br>
+XXIX – atender às solicitações de auditorias internas e externas no âmbito do PROFISCO; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XXX – encarregar-se de competências correlatas.<br>
+XXX – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Parágrafo único. A Gerência de Execução Orçamentária e Financeira fica subordinada técnica e normativamente às seguintes unidades da ECONOMIA, sem prejuízo à subordinação administrativa à Superintendência de Gestão Integrada, à:
@@ -1049,7 +1098,8 @@ I – Subsecretaria Central de Orçamento, quanto às competências constantes n
 
 II – Subsecretaria do Tesouro Estadual, quanto às competências constantes nos incisos XI a XXI.
 
-III – Diretoria-Executiva do PROFISCO, quanto às competências constantes dos incisos XXII a XXIX do _caput_ deste artigo.<br>
+III – Diretoria-Executiva do PROFISCO, quanto às competências constantes dos incisos XXII a XXIX do _caput_ deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Seção II
@@ -2628,17 +2678,20 @@ Art. 66. Compete à Subsecretaria do Tesouro Estadual exercer as funções de un
 
 I – Assessoria de Normas, Governança e Gestão do Tesouro Estadual;
 
-II – Superintendência Central de Contabilidade;<br>
+II – Superintendência Central de Contabilidade;
+
 \- [Redação dada pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 ~~II – Superintendência Central de Contabilidade; e~~
 
-III – Superintendência Financeira; e<br>
+III – Superintendência Financeira; e
+
 \- [Redação dada pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 ~~III – Superintendência Financeira.~~
 
-IV – Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro.<br>
+IV – Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro.
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 Seção I
@@ -3121,85 +3174,110 @@ X – consolidar e publicar estudos do desempenho das finanças públicas estadu
 
 XI – encarregar-se de competências correlatas.
 
-Seção IV<br>
+Seção IV
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 Da Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro
 
-Art. 80-A. Compete à Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:<br>
+Art. 80-A. Compete à Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro:
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-I – coordenar o acompanhamento e o monitoramento dos programas de equilíbrio e recuperação fiscal;<br>
+I – coordenar o acompanhamento e o monitoramento dos programas de equilíbrio e recuperação fiscal;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-II – coordenar a elaboração do planejamento fiscal de médio e longo prazos, com vistas ao monitoramento da sustentabilidade fiscal;<br>
+II – coordenar a elaboração do planejamento fiscal de médio e longo prazos, com vistas ao monitoramento da sustentabilidade fiscal;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-III – promover estudos sobre o desempenho das finanças públicas estaduais;<br>
+III – promover estudos sobre o desempenho das finanças públicas estaduais;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-IV – promover e dar transparência à avaliação periódica das estatísticas e dos indicadores fiscais; e<br>
+IV – promover e dar transparência à avaliação periódica das estatísticas e dos indicadores fiscais; e
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-V – encarregar-se de competências correlatas.<br>
+V – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-Parágrafo único. Além das competências constantes do caput deste artigo, compete à Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro exercer as funções de organização, coordenação e supervisão técnica das seguintes assessorias:<br>
+Parágrafo único. Além das competências constantes do caput deste artigo, compete à Assessoria Especial de Monitoramento Fiscal e Planejamento Financeiro exercer as funções de organização, coordenação e supervisão técnica das seguintes assessorias:
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-I – Assessoria de Monitoramento Fiscal; e<br>
+I – Assessoria de Monitoramento Fiscal; e
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-II – Assessoria de Planejamento Financeiro.<br>
+II – Assessoria de Planejamento Financeiro.
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-Subseção I<br>
+Subseção I
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 Da Assessoria de Monitoramento Fiscal
 
-Art. 80-B. Compete à Assessoria de Monitoramento Fiscal:<br>
+Art. 80-B. Compete à Assessoria de Monitoramento Fiscal:
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-I – coordenar e garantir a correta e tempestiva prestação das informações exigidas no âmbito dos programas de equilíbrio e recuperação fiscal;<br>
+I – coordenar e garantir a correta e tempestiva prestação das informações exigidas no âmbito dos programas de equilíbrio e recuperação fiscal;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-II – editar e publicar os relatórios exigidos pela legislação que rege os programas de equilíbrio e recuperação fiscal;<br>
+II – editar e publicar os relatórios exigidos pela legislação que rege os programas de equilíbrio e recuperação fiscal;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-III – monitorar a execução dos planos de recuperação ou de equilíbrio fiscal dos quais o Estado seja signatário;<br>
+III – monitorar a execução dos planos de recuperação ou de equilíbrio fiscal dos quais o Estado seja signatário;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-IV – monitorar as metas e os compromissos fiscais pactuados no âmbito dos programas de equilíbrio e recuperação fiscal; e<br>
+IV – monitorar as metas e os compromissos fiscais pactuados no âmbito dos programas de equilíbrio e recuperação fiscal; e
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-V – encarregar-se de competências correlatas.<br>
+V – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-Subseção II<br>
+Subseção II
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 Da Assessoria de Planejamento Financeiro
 
-Art. 80-C. Compete à Assessoria de Planejamento Financeiro:<br>
+Art. 80-C. Compete à Assessoria de Planejamento Financeiro:
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-I – desenvolver e aperfeiçoar projeções e cenários fiscais de médio e longo prazos;<br>
+I – desenvolver e aperfeiçoar projeções e cenários fiscais de médio e longo prazos;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-II – avaliar, com base nas projeções fiscais, a evolução e a trajetória futura de indicadores fiscais;<br>
+II – avaliar, com base nas projeções fiscais, a evolução e a trajetória futura de indicadores fiscais;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-III – monitorar, avaliar e propor medidas relativas ao atendimento dos limites previstos no art. 167-A da Constituição federal e aos limites de gastos previstos na Constituição estadual e nos programas de equilíbrio e recuperação fiscal;<br>
+III – monitorar, avaliar e propor medidas relativas ao atendimento dos limites previstos no art. 167-A da Constituição federal e aos limites de gastos previstos na Constituição estadual e nos programas de equilíbrio e recuperação fiscal;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-IV – analisar pedidos de aumento de despesas sob a ótica da sustentabilidade fiscal e do equilíbrio intertemporal;<br>
+IV – analisar pedidos de aumento de despesas sob a ótica da sustentabilidade fiscal e do equilíbrio intertemporal;
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-V – editar e publicar relatórios periódicos com vistas à transparência fiscal; e<br>
+V – editar e publicar relatórios periódicos com vistas à transparência fiscal; e
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
-VI – encarregar-se de competências correlatas.<br>
+VI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.817, de 28-11-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111638).
 
 CAPÍTULO V
@@ -3576,298 +3654,392 @@ V – antecipar as dificuldades orçamentárias e identificar as possíveis solu
 
 VI – encarregar-se de competências correlatas.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 DA DIRETORIA-EXECUTIVA DO PROFISCO
 
-Art. 96-A. Compete à Diretoria-Executiva do PROFISCO:<br>
+Art. 96-A. Compete à Diretoria-Executiva do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – coordenar, administrar e supervisionar a execução do PROFISCO;<br>
+I – coordenar, administrar e supervisionar a execução do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – representar o Estado de Goiás nos assuntos relacionados ao PROFISCO;<br>
+II – representar o Estado de Goiás nos assuntos relacionados ao PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – propor os instrumentos necessários à execução das ações do PROFISCO;<br>
+III – propor os instrumentos necessários à execução das ações do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – promover atividades de intercâmbio de experiência e de boas práticas com outras administrações tributárias;<br>
+IV – promover atividades de intercâmbio de experiência e de boas práticas com outras administrações tributárias;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – elaborar e encaminhar ao Banco Interamericano de Desenvolvimento – BID os documentos previstos no Contrato de Empréstimo do PROFISCO;<br>
+V – elaborar e encaminhar ao Banco Interamericano de Desenvolvimento – BID os documentos previstos no Contrato de Empréstimo do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VI – elaborar a programação orçamentária e financeira do PROFISCO;<br>
+VI – elaborar a programação orçamentária e financeira do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VII – solicitar a liberação de recursos do PROFISCO;<br>
+VII – solicitar a liberação de recursos do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VIII – elaborar e encaminhar as prestações de contas do PROFISCO;<br>
+VIII – elaborar e encaminhar as prestações de contas do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IX – apoiar na elaboração dos documentos de aquisições e contratações no âmbito do PROFISCO e acompanhar o andamento dos processos;<br>
+IX – apoiar na elaboração dos documentos de aquisições e contratações no âmbito do PROFISCO e acompanhar o andamento dos processos;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-X – monitorar o cumprimento dos contratos relacionados ao PROFISCO e apresentar ao BID o produto final;<br>
+X – monitorar o cumprimento dos contratos relacionados ao PROFISCO e apresentar ao BID o produto final;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XI – monitorar as ocorrências capazes de provocar atrasos ou distorções no avanço físico-financeiro do PROFISCO;<br>
+XI – monitorar as ocorrências capazes de provocar atrasos ou distorções no avanço físico-financeiro do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XII – manter os Termos de Recebimento Definitivo dos produtos;<br>
+XII – manter os Termos de Recebimento Definitivo dos produtos;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XIII – monitorar os avanços dos indicadores constantes do Marco de Resultados do PROFISCO;<br>
+XIII – monitorar os avanços dos indicadores constantes do Marco de Resultados do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XIV – fornecer as informações de medição da _performance_ do PROFISCO e sua contribuição para o alcance de seus objetivos;<br>
+XIV – fornecer as informações de medição da _performance_ do PROFISCO e sua contribuição para o alcance de seus objetivos;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XV – manter os registros financeiros e contábeis adequados;<br>
+XV – manter os registros financeiros e contábeis adequados;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XVI – promover e divulgar as ações do PROFISCO; e<br>
+XVI – promover e divulgar as ações do PROFISCO; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XVII – encarregar-se de competências correlatas.<br>
+XVII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Diretoria-Executiva do PROFISCO exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:<br>
+Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Diretoria-Executiva do PROFISCO exercer as funções de organização, coordenação e supervisão técnica das seguintes unidades:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – Coordenadoria Técnica do PROFISCO;<br>
+I – Coordenadoria Técnica do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – Coordenadoria de Planejamento e Monitoramento do PROFISCO; e<br>
+II – Coordenadoria de Planejamento e Monitoramento do PROFISCO; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – Coordenadoria de Aquisições do PROFISCO.<br>
+III – Coordenadoria de Aquisições do PROFISCO.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Seção I<br>
+Seção I
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Da Coordenadoria Técnica do PROFISCO
 
-Art. 96-B. Compete à Coordenadoria Técnica do PROFISCO:<br>
+Art. 96-B. Compete à Coordenadoria Técnica do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – coordenar e supervisionar as ações técnicas do PROFISCO;<br>
+I – coordenar e supervisionar as ações técnicas do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – informar periodicamente ao Diretor-Executivo do PROFISCO o cumprimento dos acordos estabelecidos com os Líderes de Produto do PROFISCO;<br>
+II – informar periodicamente ao Diretor-Executivo do PROFISCO o cumprimento dos acordos estabelecidos com os Líderes de Produto do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – interagir com os Líderes de Produto do PROFISCO para garantir a qualidade técnica dos termos de referência dos contratos a serem firmados;<br>
+III – interagir com os Líderes de Produto do PROFISCO para garantir a qualidade técnica dos termos de referência dos contratos a serem firmados;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – assegurar a revisão técnica do BID aos termos de referência propostos e sua anuência ao disposto no PROFISCO;<br>
+IV – assegurar a revisão técnica do BID aos termos de referência propostos e sua anuência ao disposto no PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – apoiar na análise da proposta técnica de processos licitatórios;<br>
+V – apoiar na análise da proposta técnica de processos licitatórios;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VI – opinar e elaborar pareceres e notas técnicas sobre questões afetas ao PROFISCO;<br>
+VI – opinar e elaborar pareceres e notas técnicas sobre questões afetas ao PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VII – interagir com os responsáveis técnicos dos produtos para garantir o prazo de execução previsto e a qualidade técnica dos produtos contratados;<br>
+VII – interagir com os responsáveis técnicos dos produtos para garantir o prazo de execução previsto e a qualidade técnica dos produtos contratados;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VIII – emitir concordância em relação aos Termos de Recebimento Definitivo dos produtos;<br>
+VIII – emitir concordância em relação aos Termos de Recebimento Definitivo dos produtos;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IX – estabelecer as diretrizes para o planejamento da operação e da manutenção dos produtos adquiridos no âmbito do PROFISCO;<br>
+IX – estabelecer as diretrizes para o planejamento da operação e da manutenção dos produtos adquiridos no âmbito do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-X – elaborar a programação de atividades técnico-científicas, de transferência de conhecimento e de intercâmbio técnico;<br>
+X – elaborar a programação de atividades técnico-científicas, de transferência de conhecimento e de intercâmbio técnico;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XI – facilitar a informação sobre os produtos do PROFISCO e o tratamento para as difusões interna e externa; e<br>
+XI – facilitar a informação sobre os produtos do PROFISCO e o tratamento para as difusões interna e externa; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XII – encarregar-se de competências correlatas.<br>
+XII – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Coordenadoria Técnica do PROFISCO exercer as funções de organização, coordenação e supervisão da Liderança de Produtos do PROFISCO.<br>
+Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Coordenadoria Técnica do PROFISCO exercer as funções de organização, coordenação e supervisão da Liderança de Produtos do PROFISCO.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Subseção Única<br>
+Subseção Única
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Da Liderança de Produtos do PROFISCO
 
-Art. 96-C. Compete à Liderança de Produtos do PROFISCO:<br>
+Art. 96-C. Compete à Liderança de Produtos do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – assessorar a Coordenadoria Técnica do PROFISCO para conectar as áreas técnicas entre si e com a Diretoria-Executiva do PROFISCO na execução das atividades previstas no PROFISCO;<br>
+I – assessorar a Coordenadoria Técnica do PROFISCO para conectar as áreas técnicas entre si e com a Diretoria-Executiva do PROFISCO na execução das atividades previstas no PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – estabelecer o planejamento da internalização dos produtos adquiridos no âmbito do PROFISCO;<br>
+II – estabelecer o planejamento da internalização dos produtos adquiridos no âmbito do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – elaborar os termos de referência para a contratação dos produtos previstos no PROFISCO;<br>
+III – elaborar os termos de referência para a contratação dos produtos previstos no PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – apoiar a Diretoria– Executiva do PROFISCO nos processos de contratação e aquisição dos produtos do PROFISCO;<br>
+IV – apoiar a Diretoria– Executiva do PROFISCO nos processos de contratação e aquisição dos produtos do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – compor a comissão técnica para a análise das propostas das empresas ofertantes;<br>
+V – compor a comissão técnica para a análise das propostas das empresas ofertantes;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VI – emitir o Termos de Recebimento Definitivo dos produtos para a análise da Coordenadoria Técnica do PROFISCO;<br>
+VI – emitir o Termos de Recebimento Definitivo dos produtos para a análise da Coordenadoria Técnica do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VII – fornecer as informações necessárias ao monitoramento dos produtos adquiridos no âmbito do PROFISCO e ao alcance dos resultados relacionados;<br>
+VII – fornecer as informações necessárias ao monitoramento dos produtos adquiridos no âmbito do PROFISCO e ao alcance dos resultados relacionados;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VIII – avaliar a eficiência e os problemas técnicos dos sistemas atuais, sugerir melhorias e implementar soluções;<br>
+VIII – avaliar a eficiência e os problemas técnicos dos sistemas atuais, sugerir melhorias e implementar soluções;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IX – liderar projetos de implementação de novos sistemas ou atualizações de sistemas existentes;<br>
+IX – liderar projetos de implementação de novos sistemas ou atualizações de sistemas existentes;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-X – assegurar que os sistemas de informação estejam em conformidade com a legislação aplicável e com as políticas internas; e<br>
+X – assegurar que os sistemas de informação estejam em conformidade com a legislação aplicável e com as políticas internas; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Seção II<br>
+Seção II
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Da Coordenadoria de Planejamento e Monitoramento do PROFISCO
 
-Art. 96-D. Compete à Coordenadoria de Planejamento e Monitoramento do PROFISCO:<br>
+Art. 96-D. Compete à Coordenadoria de Planejamento e Monitoramento do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – estabelecer o planejamento do PROFISCO;<br>
+I – estabelecer o planejamento do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – monitorar e acompanhar os indicadores de resultado e de produtos do PROFISCO;<br>
+II – monitorar e acompanhar os indicadores de resultado e de produtos do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – providenciar mecanismos de alerta para o cumprimento dos compromissos pactuados com os Líderes de Produto do PROFISCO;<br>
+III – providenciar mecanismos de alerta para o cumprimento dos compromissos pactuados com os Líderes de Produto do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – propor medidas corretivas nos casos de atrasos ou distorções no avanço físico-financeiro do PROFISCO;<br>
+IV – propor medidas corretivas nos casos de atrasos ou distorções no avanço físico-financeiro do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – efetuar os lançamentos das informações e dos dados nos sistemas de planejamento, acompanhamento e monitoramento do BID;<br>
+V – efetuar os lançamentos das informações e dos dados nos sistemas de planejamento, acompanhamento e monitoramento do BID;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VI – elaborar os relatórios de progresso e os demais documentos de planejamento, monitoramento e avaliação do PROFISCO;<br>
+VI – elaborar os relatórios de progresso e os demais documentos de planejamento, monitoramento e avaliação do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VII – registrar as lições aprendidas e os ajustes promovidos no PROFISCO durante seu período de execução;<br>
+VII – registrar as lições aprendidas e os ajustes promovidos no PROFISCO durante seu período de execução;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VIII – garantir a coerência e a homogeneidade de informações constantes dos instrumentos de planejamento, monitoramento e avaliação do PROFISCO;<br>
+VIII – garantir a coerência e a homogeneidade de informações constantes dos instrumentos de planejamento, monitoramento e avaliação do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IX – manter o controle do diagnóstico da Metodologia de Avaliação da Maturidade e Desempenho da Gestão Fiscal – MD-GEFIS e apoiar na sua aplicação;<br>
+IX – manter o controle do diagnóstico da Metodologia de Avaliação da Maturidade e Desempenho da Gestão Fiscal – MD-GEFIS e apoiar na sua aplicação;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-X – apoiar na elaboração dos termos de referência para contratação da avaliação econômica _ex-post_ e a avaliação final do PROFISCO; e<br>
+X – apoiar na elaboração dos termos de referência para contratação da avaliação econômica _ex-post_ e a avaliação final do PROFISCO; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Coordenadoria de Planejamento e Monitoramento do PROFISCO exercer as funções de organização, coordenação e supervisão da Assessoria de Planejamento e Monitoramento do PROFISCO.<br>
+Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Coordenadoria de Planejamento e Monitoramento do PROFISCO exercer as funções de organização, coordenação e supervisão da Assessoria de Planejamento e Monitoramento do PROFISCO.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Subseção Única<br>
+Subseção Única
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Da Assessoria de Planejamento e Monitoramento do PROFISCO
 
-Art. 96-E. Compete à Assessoria de Planejamento e Monitoramento do PROFISCO:<br>
+Art. 96-E. Compete à Assessoria de Planejamento e Monitoramento do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – auxiliar no exercício da administração geral da Coordenadoria de Planejamento e Monitoramento do PROFISCO e zelar pelo cumprimento de suas disposições regulamentares;<br>
+I – auxiliar no exercício da administração geral da Coordenadoria de Planejamento e Monitoramento do PROFISCO e zelar pelo cumprimento de suas disposições regulamentares;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – auxiliar no estabelecimento de diretrizes gerais acerca dos trabalhos inerentes à Coordenadoria de Planejamento e Monitoramento do PROFISCO;<br>
+II – auxiliar no estabelecimento de diretrizes gerais acerca dos trabalhos inerentes à Coordenadoria de Planejamento e Monitoramento do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – apoiar na coordenação do planejamento, da implementação, do controle e da avaliação das ações estratégicas e operacionais da Coordenadoria de Planejamento e Monitoramento do PROFISCO;<br>
+III – apoiar na coordenação do planejamento, da implementação, do controle e da avaliação das ações estratégicas e operacionais da Coordenadoria de Planejamento e Monitoramento do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – assistir a Coordenadoria de Planejamento e Monitoramento do PROFISCO em todas as questões que envolvam o exercício dos processos de planejamento e de tomada de decisões sobre assuntos pertinentes à sua área de atuação; e<br>
+IV – assistir a Coordenadoria de Planejamento e Monitoramento do PROFISCO em todas as questões que envolvam o exercício dos processos de planejamento e de tomada de decisões sobre assuntos pertinentes à sua área de atuação; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – encarregar-se de competências correlatas.<br>
+V – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Seção III<br>
+Seção III
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Da Coordenadoria de Aquisições do PROFISCO
 
-Art. 96-F. Compete à Coordenadoria de Aquisições do PROFISCO:<br>
+Art. 96-F. Compete à Coordenadoria de Aquisições do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – elaborar e publicar os Planos de Aquisições do PROFISCO;<br>
+I – elaborar e publicar os Planos de Aquisições do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – subsidiar a atuação das instâncias revisoras e da comissão de licitação na realização de todos os procedimentos licitatórios do PROFISCO;<br>
+II – subsidiar a atuação das instâncias revisoras e da comissão de licitação na realização de todos os procedimentos licitatórios do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – elaborar as manifestações de interesse, as solicitações de propostas, editais e as informações para a publicidade dos certames nos âmbitos nacional e internacional;<br>
+III – elaborar as manifestações de interesse, as solicitações de propostas, editais e as informações para a publicidade dos certames nos âmbitos nacional e internacional;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – encaminhar os documentos de contratação às instâncias revisoras e à comissão de licitação;<br>
+IV – encaminhar os documentos de contratação às instâncias revisoras e à comissão de licitação;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – assegurar a adequação dos documentos de contratação ao estabelecido nas políticas do BID;<br>
+V – assegurar a adequação dos documentos de contratação ao estabelecido nas políticas do BID;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VI – garantir o recebimento dos documentos pela comissão de licitação e acompanhar o processo de contratação;<br>
+VI – garantir o recebimento dos documentos pela comissão de licitação e acompanhar o processo de contratação;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VII – mapear contratações similares no âmbito da administração pública;<br>
+VII – mapear contratações similares no âmbito da administração pública;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-VIII – assessorar os Líderes de Produto do PROFISCO sobre os critérios de julgamento propostos nos termos de referência;<br>
+VIII – assessorar os Líderes de Produto do PROFISCO sobre os critérios de julgamento propostos nos termos de referência;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IX – assessorar as comissões de avaliação de propostas técnicas e financeiras dos certames do PROFISCO;<br>
+IX – assessorar as comissões de avaliação de propostas técnicas e financeiras dos certames do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-X – manter organizada digitalmente a documentação dos processos de seleção e aquisição; e<br>
+X – manter organizada digitalmente a documentação dos processos de seleção e aquisição; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-XI – encarregar-se de competências correlatas.<br>
+XI – encarregar-se de competências correlatas.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Coordenadoria de Aquisições do PROFISCO exercer as funções de organização, coordenação e supervisão da Assessoria de Aquisições do PROFISCO.<br>
+Parágrafo único. Além das competências constantes do _caput_ deste artigo, compete à Coordenadoria de Aquisições do PROFISCO exercer as funções de organização, coordenação e supervisão da Assessoria de Aquisições do PROFISCO.
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-Subseção Única<br>
+Subseção Única
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
 Da Assessoria de Aquisições do PROFISCO
 
-Art. 96-G. Compete à Assessoria de Aquisições do PROFISCO:<br>
+Art. 96-G. Compete à Assessoria de Aquisições do PROFISCO:
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-I – auxiliar no exercício da administração geral da Coordenadoria de Aquisições do PROFISCO e zelar pelo cumprimento de suas disposições regulamentares;<br>
+I – auxiliar no exercício da administração geral da Coordenadoria de Aquisições do PROFISCO e zelar pelo cumprimento de suas disposições regulamentares;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-II – auxiliar no estabelecimento de diretrizes gerais acerca dos trabalhos inerentes à Coordenadoria de Aquisições do PROFISCO;<br>
+II – auxiliar no estabelecimento de diretrizes gerais acerca dos trabalhos inerentes à Coordenadoria de Aquisições do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-III – apoiar na coordenação do planejamento, da implementação, do controle e da avaliação das ações estratégicas e operacionais da Coordenadoria de Aquisições do PROFISCO;<br>
+III – apoiar na coordenação do planejamento, da implementação, do controle e da avaliação das ações estratégicas e operacionais da Coordenadoria de Aquisições do PROFISCO;
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-IV – assistir a Coordenadoria de Aquisições do PROFISCO em todas as questões que envolvam o exercício dos processos de planejamento e de tomada de decisões sobre assuntos pertinentes à sua área de atuação; e<br>
+IV – assistir a Coordenadoria de Aquisições do PROFISCO em todas as questões que envolvam o exercício dos processos de planejamento e de tomada de decisões sobre assuntos pertinentes à sua área de atuação; e
+
 \- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
 
-V – encarregar-se de competências correlatas.<br>
-\- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).<br>
+V – encarregar-se de competências correlatas.
+
+\- [Acrescido pelo Decreto nº 10.685, de 23-4-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110619/decreto-10685).
+
  
 
 TÍTULO VIII

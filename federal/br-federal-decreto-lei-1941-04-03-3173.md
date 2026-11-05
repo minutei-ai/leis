@@ -1,5 +1,3 @@
-###DEL-003173-0-000-03-04-1941@@@
-
 DECRETO-LEI N. 3.173 – DE 3 DE ABRIL DE 1941
 
 Autoriza a cessão a empresas nacionais e a cidadãos brasileiros de parte das ações ordinárias de Companhia Siderúrgica Nacional, que o Tesouro Nacional subscrever e dá outras providências.

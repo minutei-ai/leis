@@ -1,5 +1,3 @@
-###DEC-097165-0-000-07-12-1988@@@
-
 DECRETO Nº 97.165, DE 07 DE DEZEMBRO DE 1988
 
 Altera o Regulamento da Lei nº 7.505, de 02 de julho de 1986, que dispõe sobre benefícios fiscais na área do imposto de renda, concedidos a operações de caráter cultural ou artístico, aprovado pelo Decreto nº 93.335, de 03 de outubro de 1986.

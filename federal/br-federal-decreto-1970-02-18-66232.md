@@ -1,5 +1,3 @@
-###DEC-066232-0-000-18-02-1970@@@
-
 DECRETO Nº 66.232 - DE 18 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública o Hospital Imaculada Conceição com sede em Conceição do Mato Dentro, Estado de Minas Gerais.

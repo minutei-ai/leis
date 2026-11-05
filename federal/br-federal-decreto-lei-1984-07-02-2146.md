@@ -1,5 +1,3 @@
-###DEL-002146-0-000-02-07-1984@@@
-
 # DECRETO-LEI Nº 2.146, DE 02 DE JULHO DE 1984
 
 Reajusta os valores de vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios.

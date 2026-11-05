@@ -1,5 +1,3 @@
-###DEC-059820-0-000-20-12-1966@@@
-
 DECRETO Nº 59.820, DE 20 DE DEZEMBRO DE 1966.
 
 Aprova o Regulamento do Fundo de Garantia do Tempo de Serviço (FGTS).

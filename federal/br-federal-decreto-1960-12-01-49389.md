@@ -1,5 +1,3 @@
-###DEC-049389-0-000-01-12-1960@@@
-
 DECRETO Nº 49.389, DE 1º DE DEZEMBRO DE 1960.
 
 Dispõe sôbre regras especiais a serem consideradas na primeira composição de alguns dos novos órgãos colegiados da Previdência Social e dá outras providências.

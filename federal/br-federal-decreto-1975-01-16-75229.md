@@ -1,5 +1,3 @@
-###DEC-075229-0-000-16-01-1975@@@
-
 DECRETO N.º 75.229, DE 16 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências da Universidade de Caxias do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-048812-0-000-12-08-1960@@@
-
 DECRETO Nº 48.812, DE 12 DE agôsto DE 1960.
 
 Autoriza à Emprêsa Luz e Fôrça Arnaldo S.A. alienar um imóvel, sito na cidade de Joaçaba, Estado de Santa Catarina, e dá outras providências.

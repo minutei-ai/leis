@@ -1,5 +1,3 @@
-###DEC-056561-0-000-09-07-1965@@@
-
 Decreto nº 56.561, de 9 de julho de 1965.
 
 Concede à Siderúrgica São Sebastião de Itatiaiussu S.A. autorização para funcionar como emprêsa de mineração.

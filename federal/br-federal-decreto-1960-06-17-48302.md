@@ -1,5 +1,3 @@
-###DEC-048302-0-000-17-06-1960@@@
-
 DECRETO Nº 48.302, DE 17 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Arthur Hermann Lundgren a lavrar calcário, no município de Paulista, Estado de Pernambuco.

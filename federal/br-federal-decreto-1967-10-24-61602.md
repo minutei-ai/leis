@@ -1,5 +1,3 @@
-###DEC-061602-0-000-24-10-1967@@@
-
 DECRETO Nº 61.602, DE 24 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade Caritativa-Beneficente Anna Neri” com sede em Santa Cruz do Sul, Estado do Rio Grande do Sul.

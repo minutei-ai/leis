@@ -1,5 +1,3 @@
-###DEC-071851-0-000-19-02-1973@@@
-
 DECRETO Nº 71.851, DE 19 DE FEVEREIRO DE 1973
 
 Concede a Gustavo Solis Rosa (firma individual) o direito de lavrar mineiro de zinco no Município de Vazante, Estado de Minas Gerais.

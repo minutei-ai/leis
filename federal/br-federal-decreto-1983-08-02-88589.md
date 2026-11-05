@@ -1,5 +1,3 @@
-###DEC-088589-0-000-02-08-1983@@@
-
 Decreto nº 88.589, de 02 de agosto de 1983.
 
 Promulga o Acordo, por troca de notas, referente ao Estabelecimento de Área "Non Aedificandi" na faixa Fronteiriça.

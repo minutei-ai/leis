@@ -1,5 +1,3 @@
-###MPV-002107-0-010-27-12-2000@@@
-
 Medida Provisória Nº 2.107-10, DE 27 DE DEZEMBRO DE 2000.
 
 Institui o Vale Pedágio obrigatório sobre o transporte rodoviário de carga e dá outras providências.

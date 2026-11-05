@@ -1,5 +1,3 @@
-###DEC-065018-0-000-19-08-1969@@@
-
 DECRETO Nº 65.018 - DE 19 DE AGôSTO DE 1969.
 
 Declara de utilidade pública a Pequena Casa da Criança, com sede em Porto Alegre, Estado do Rio Grande do Sul.

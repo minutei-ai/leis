@@ -1,5 +1,3 @@
-###DEC-071738-0-000-22-01-1973@@@
-
 DECRETO Nº 71.738, DE 22 DE JANEIRO DE 1973.
 
 Dispõe sobre a vinculação do Programa Intensivo de Preparação de Mão-de-Obra. (PIPMO).

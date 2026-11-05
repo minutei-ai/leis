@@ -1,5 +1,3 @@
-###DEC-055240-0-000-18-12-1964@@@
-
 DECRETO Nº 55.240, DE 18 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre a realização da “Segunda Jornada Luso-Brasileira de Engenharia Civil” e dá outras providências.
@@ -23,8 +21,6 @@ Brasília, 18 de dezembro de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Flávio Lacerda
-
-###DEC-055240-0-000-18-12-1964@@@RET01+++
 
 DECRETO Nº 55.240, DE 18 DE DEzEMBRO DE 1964.
 

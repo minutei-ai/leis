@@ -1,5 +1,3 @@
-###DEC-066240-0-000-20-02-1970@@@
-
 DECRETO Nº 66.240 - DE 20 DE FEVEREIRO DE 1970
 
 Declara luto oficial em todo o País pelo falecimento do ex-Presidente da República, Doutor João Café Filho.

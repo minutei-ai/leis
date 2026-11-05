@@ -1,5 +1,3 @@
-###DEL-005884-0-000-06-10-1943@@@
-
 DECRETO‑LEI N. 5.884 – DE 6 DE OUTUBRO DE 1943
 
 Autoriza o Prefeito do Distrito Federal a isentar a Câmara Sindical dos Corretores de Fundos Públicos, do pagamento do imposto predial de parte do imóvel sito à Praça 15 de Novembro n. 20, na forma que menciona

@@ -1,5 +1,3 @@
-###MPV-001129-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.129, DE 26 DE SETEMBRO DE 1995.
 
 Altera a Lei nº 8.031, de 12 de abril de 1990, e dá outras providências.

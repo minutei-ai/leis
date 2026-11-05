@@ -1,7 +1,3 @@
-1
-
-###DEC-001317-0-000-29-11-1994@@@
-
 DECRETO N° 1.317, DE 29 DE NOVEMBRO DE 1994
 
 Dispõe sobre a fiscalização das entidades fechadas de previdência privada e dá outras providências.

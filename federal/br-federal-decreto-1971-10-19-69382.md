@@ -1,5 +1,3 @@
-###DEC-069382-0-000-19-10-1971@@@
-
 DECRETO Nº 69.382, DE 19 DE OUTUBRO DE 1971.
 
 Regulamenta a Lei nº 5.708, de 4 de outubro de 1971, que dispõe sôbre a concessão de gratificação pela participação em órgãos de deliberação coletiva.

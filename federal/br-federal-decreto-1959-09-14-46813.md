@@ -1,5 +1,3 @@
-###DEC-046813-0-000-14-09-1959@@@
-
 DECRETO Nº 46.813, de 14 de setembro de 1959.
 
 Aprova as alterações introduzidas nos Estatutos, inclusive aumento do capital social da “Companhia Ceará de Seguros Gerais”.

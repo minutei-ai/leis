@@ -1,5 +1,3 @@
-###DEC-058342-0-000-03-05-1966@@@
-
 DECRETO Nº 58.342, DE 3 DE MAIO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Companhia Renascença de Seguros inclusive aumento do capital social.

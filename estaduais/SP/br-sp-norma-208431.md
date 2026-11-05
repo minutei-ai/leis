@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208431)<br>
-
 # DECRETO N° 67.901, DE 21 DE AGOSTO DE 2023
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Gás de São Paulo - COMGÁS, as faixas de terra necessárias à passagem de dutos de gás natural, nos Municípios de Paulínia e Campinas, e dá providências correlatas._

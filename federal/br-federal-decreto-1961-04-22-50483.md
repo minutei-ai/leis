@@ -1,5 +1,3 @@
-###DEC-050483-0-000-22-04-1961@@@
-
 Decreto nº 50.483, de 22 de abril de 1961.
 
 Aprova alterações introduzidas nos Estatutos, inclusive aumento do capital social da Companhia de Seguros “Argos Fluminense”.

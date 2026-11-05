@@ -1,7 +1,3 @@
-1
-
-###DEC-098098-0-000-30-08-1989@@@
-
 DECRETO N° 98.098, DE 30 DE AGOSTO DE 1989
 
 Dispõe sobre viagens ao exterior.

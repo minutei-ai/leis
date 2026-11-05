@@ -14,7 +14,11 @@ II – Material de Consumo
 
 S/c. n. 18 – Alimentação, dietas, etc.
 
-<table><tbody><tr><td>08) –</td><td>Polícia Civil do Distrito Federal (para despesas da Penitenciária Agrícola do Distrito Federal, em reforço do destaque f e i t o pelo decreto-lei n. 821, de 27 de outubro de1938).....................................</td><td>100:000$0</td></tr></tbody></table>
+08) –
+
+Polícia Civil do Distrito Federal (para despesas da Penitenciária Agrícola do Distrito Federal, em reforço do destaque f e i t o pelo decreto-lei n. 821, de 27 de outubro de1938).....................................
+
+100:000$0
 
 Verba 3 – Serviços e Encargos
 
@@ -22,7 +26,13 @@ I – Diversos
 
 S/c. n. 4 – Policia Civil do Distrito Federal:
 
-<table><tbody><tr><td>01) –</td><td>Despesas reservadas, sindicâncias e diligências, etc...</td><td><u>&nbsp;</u><u>1.000:000$0</u></td></tr><tr><td></td><td></td><td><u>1.100:000$0</u></td></tr></tbody></table>
+01) –
+
+Despesas reservadas, sindicâncias e diligências, etc...
+
+1.000:000$0
+
+1.100:000$0
 
 Rio de Janeiro, 29 de dezembro de 1938, 117º da Independência e 50º da República.
 

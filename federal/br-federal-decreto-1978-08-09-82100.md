@@ -1,5 +1,3 @@
-###DEC-082100-0-000-09-08-1978@@@
-
 DECRETO Nº 82.100, DE 09 DE AGOSTO DE 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

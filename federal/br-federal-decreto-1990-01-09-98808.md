@@ -1,7 +1,3 @@
-1
-
-###DEC-098808-0-000-09-01-1990@@@
-
 DECRETO Nº 98.808, DE 9 DE JANEIRO DE 1990
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo de Complementação Econômica, entre o Brasil e a Argentina (Acordo nº 7).

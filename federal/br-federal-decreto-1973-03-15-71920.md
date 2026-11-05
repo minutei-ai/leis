@@ -1,5 +1,3 @@
-###DEC-071920-0-000-15-03-1973@@@
-
 DECRETO Nº 71.920, DE 15 DE MARÇO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Divinópolis, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de Divinópolis, MG.

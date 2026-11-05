@@ -1,5 +1,3 @@
-###DEC-082858-0-000-18-12-1978@@@
-
 Decreto nº 82.858, de 18 de dezembro de 1978
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situado nas Cidades de Niterói e do Rio de Janeiro, Estado do Rio de Janeiro.

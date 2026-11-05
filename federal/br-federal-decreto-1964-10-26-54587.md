@@ -1,5 +1,3 @@
-###DEC-054587-0-000-26-10-1964@@@
-
 DECRETO Nº 54.587, DE 26 DE OUTUBRO DE 1964.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a montar usina termelétrica em Alegrete.
@@ -31,8 +29,6 @@ Brasília, 26 de outubro de 1964; 143º da Independência e 76º da República.
 H. CASTELLO BRANCO
 
 Mauro Thibau
-
-###DEC-054587-0-000-26-10-1964@@@RET01+++
 
 Decreto nº 54.587, de 26 de outubro de 1964.
 

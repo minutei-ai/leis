@@ -1,5 +1,3 @@
-###DEL-000627-0-000-13-06-1969@@@
-
 Decreto-lei nº 627, de 13 de Junho de 1969
 
 Transfere para a Universidade Federal de Santa Maria o pessoal que indica.

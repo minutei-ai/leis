@@ -1,5 +1,3 @@
-###DEC-003352-0-000-27-01-2000@@@
-
 DECRETO Nº 3.352, DE 27 DE JANEIRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 2º do Decreto nº 2.641, de 29 de junho de 1998.

@@ -1,5 +1,3 @@
-###DEC-051870-0-000-28-03-1963@@@
-
 decreto nº 51.870, de 28 de março de 1963.
 
 Aprova o Regimento do Conselho Nacional Consultivo da Agricultura (CNCA), criado pela Lei Delegada nº 9, de 11 de outubro de 1962.
@@ -131,8 +129,6 @@ Art. 15. Os recursos destinados a atender às despesas como funcionamento do CNC
 Art. 16. As resoluções do CNCA terão o caráter de sugestões formuladas ao Ministro da Agricultura e, uma vez aprovadas por êste, constituirão norma de ação para tôdas as dependências do Ministério da Agricultura.
 
 Art. 17. Os casos omissos do presente Regimento serão resolvidos pelo Ministro da Agricultura.
-
-###DEC-051870-0-000-28-03-1963@@@RET01+++
 
 decreto nº 51.870, de 28 de março de 1963.
 

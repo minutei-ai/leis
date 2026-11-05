@@ -1,5 +1,3 @@
-###DEC-002357-0-000-27-10-1997@@@
-
 DECRETO Nº 2.357, DE 27 DE OUTUBRO DE 1997
 
 Dispõe sobre a subconta especial destinada a atender às despesas com o Programa de Administração Patrimonial Imobiliário da União - PROAP.

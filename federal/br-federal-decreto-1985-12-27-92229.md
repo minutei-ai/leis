@@ -1,5 +1,3 @@
-###DEC-092229-0-000-27-12-1985@@@
-
 Decreto nº 92.229, de 27 de dezembro de 1985
 
 Dispõe sobre o aumento do Capital Social da Companhia Hidro Elétrica do São Francisco-CHESF.

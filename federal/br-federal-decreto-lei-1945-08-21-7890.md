@@ -1,5 +1,3 @@
-###DEL-007890-0-000-21-08-1945@@@
-
 DECRETO-LEI N. 7.890 – DE 21 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 21.000.000,00, para despesas com a construção de trechos ferroviários a cargo do Departamento Nacional de Estradas de Ferro.

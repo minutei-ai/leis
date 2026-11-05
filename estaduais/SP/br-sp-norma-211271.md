@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211271)<br>
-
 # ATO DA MESA N° 23/2025, DE 6 DE AGOSTO DE 2025
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições que lhe conferem as alíneas "a" e "f" do inciso II do artigo 14 da XIV Consolidação do seu Regimento Interno - [Resolução n° 576, de 26 de junho de 1970](https://www.al.sp.gov.br/norma/40681), RESOLVE:

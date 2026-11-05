@@ -1,5 +1,3 @@
-###DEC-003631-0-000-13-10-2000@@@
-
 DECRETO Nº 3.631, DE 13 DE OUTUBRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.075, de 1º de junho de 1999.

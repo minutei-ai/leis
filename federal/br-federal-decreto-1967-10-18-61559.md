@@ -1,5 +1,3 @@
-###DEC-061559-0-000-18-10-1967@@@
-
 DECRETO Nº 61.559, DE 18 DE OUTUBRO DE 1967.
 
 Altera a redação do artigo 1º do Decreto nº 57.814, de 15 de fevereiro de 1966.

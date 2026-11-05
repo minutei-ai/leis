@@ -1,5 +1,3 @@
-###DEC-082621-0-000-13-11-1978@@@
-
 Decreto nº 82.621, de 13 de novembro de 1978
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Manuel Antônio dos Santos Amaral pelo Decreto nº 22.089, de 18 de novembro de 1946.

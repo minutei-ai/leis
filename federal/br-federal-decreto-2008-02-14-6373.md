@@ -1,5 +1,3 @@
-###DEC-006373-0-000-14-02-2008@@@
-
 DECRETO Nº 6.373, DE 14 DE FEVEREIRO DE 2008.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do Aeroporto de São Gonçalo do Amarante, localizado no Município de Natal, no Estado do Rio Grande do Norte, e dá outras providências.
@@ -22,11 +20,7 @@ LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
 
-Miguel Jorge
-
-Este texto não substitui o publicado no DOU de 15.2.2008
-
-REPUBLICAÇÃO
+Miguel JorgeREPUBLICAÇÃO
 
 DECRETO No- 6.373, DE 14 DE FEVEREIRO DE 2008(\*)
 

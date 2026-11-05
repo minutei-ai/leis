@@ -1,44 +1,42 @@
-###DEC-043984-0-000-05-07-1958@@@
+**DECRETO Nº 43.984, DE 5 DE JULHO DE 1958.**
 
-<strong>DECRETO Nº 43.984, DE 5 DE JULHO DE 1958.</strong>
+***Aprova o Regimento da Divisão do Pessoal Civil (Dv P. C) do Ministério da Marinha.***
 
-<em><strong>Aprova o Regimento da Divisão do Pessoal Civil (Dv P. C) do Ministério da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**.1º. fica aprovado o Regimento da Divisão do Pessoal Civil (Dv. P. C) do Ministério da Marinha, o qual com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>.1º. fica aprovado o Regimento da Divisão do Pessoal Civil (Dv. P. C) do Ministério da Marinha, o qual com êste baixa, assinado pelo respectivo Ministro de Estado.
+**Art**. 2º. Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º. Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º. Revogam-se as disposições em contrário.
+**Art**. 3º. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 5 de julho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBISTSCHEK</strong>
+**JUSCELINO KUBISTSCHEK**
 
 Antônio Alves Câmara
 
-<strong>REGIMENTO DA DIVISÃO PESSOAL CIVIL DO MINISTÉRIO DA MARINHA</strong>
+**REGIMENTO DA DIVISÃO PESSOAL CIVIL DO MINISTÉRIO DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º. A Divisão (Dv. P. C) do Ministério da Marinha criada pelo Decreto-lei número 204, de 25 de janeiro de 1938 e subordinada à Secretaria Geral da Marinha “<em>ex-vi</em>” Lei nº 1.658, de 4 de agôsto de 1952, tem por finalidade a coordenação sistemática dos assuntos relativos aos funcionários civis e extranumerários do Ministério da Marinha, a execução e fiscalização das medidas de caráter administrativo que o seu respeito forem adotadas, bem como a coordenação estatística das atividades referentes ao pessoal civil da Marinha.
+**Art**. 1º. A Divisão (Dv. P. C) do Ministério da Marinha criada pelo Decreto-lei número 204, de 25 de janeiro de 1938 e subordinada à Secretaria Geral da Marinha “*ex-vi*” Lei nº 1.658, de 4 de agôsto de 1952, tem por finalidade a coordenação sistemática dos assuntos relativos aos funcionários civis e extranumerários do Ministério da Marinha, a execução e fiscalização das medidas de caráter administrativo que o seu respeito forem adotadas, bem como a coordenação estatística das atividades referentes ao pessoal civil da Marinha.
 
-<strong>Art</strong>. 2º. A Divisão do Pessoal Civil (Dv. P. C) em virtude de sua organização e finalidade, constitui órgão isolado da Secretaria Geral e funciona sob regime de subordinação direta ao Subsecretário da Marinha.
+**Art**. 2º. A Divisão do Pessoal Civil (Dv. P. C) em virtude de sua organização e finalidade, constitui órgão isolado da Secretaria Geral e funciona sob regime de subordinação direta ao Subsecretário da Marinha.
 
-<strong>Art</strong>. 3º. A fim de que haja unidade de orientação e homogeneidade de ação na administração do pessoal civil, a Divisão do Pessoal Civil (Dv. P. C) deverá manter-se perfeitamente coordenada e articulada com o Departamento Administrativo do Serviço Público, a êste prestado, inclusive, as informações e esclarecimentos que solicitar.
+**Art**. 3º. A fim de que haja unidade de orientação e homogeneidade de ação na administração do pessoal civil, a Divisão do Pessoal Civil (Dv. P. C) deverá manter-se perfeitamente coordenada e articulada com o Departamento Administrativo do Serviço Público, a êste prestado, inclusive, as informações e esclarecimentos que solicitar.
 
-<strong>Art</strong>. 4º. O estudo e planejamento das medidas gerais de caráter administrativo, referentes ao pessoal civil, a cargo do Departamento de Administração da Secretaria Geral da Marinha, serão elaborados em articulação com a Divisão do Pessoal Civil.
+**Art**. 4º. O estudo e planejamento das medidas gerais de caráter administrativo, referentes ao pessoal civil, a cargo do Departamento de Administração da Secretaria Geral da Marinha, serão elaborados em articulação com a Divisão do Pessoal Civil.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 5º. A Divisão do Pessoal Civil (Dv. P. C), compreende:
+**Art**. 5º. A Divisão do Pessoal Civil (Dv. P. C), compreende:
 
 I - Seção Administrativa (S. A.)
 
@@ -74,23 +72,23 @@ a) Turma de Lotação Contrôle e Classificação (S. L. P. - 1);
 
 b) Turma de Promoção Melhoria de Salário e Acesso (S. L. P. - 2);
 
-<strong>Art</strong>. 6º. O cargo em comissão de “Chefe da Divisão do Pessoal Civil”, criado pelo Decreto-lei nº 9.548, de 5 de agôsto de 1946 e reclassificado pela Lei nº 488, de 15 de novembro de 1948, será exercido por um funcionário civil integrante de carreira burocrática dos Quadros do Ministério da Marinha, nomeado pelo Presidente da República.
+**Art**. 6º. O cargo em comissão de “Chefe da Divisão do Pessoal Civil”, criado pelo Decreto-lei nº 9.548, de 5 de agôsto de 1946 e reclassificado pela Lei nº 488, de 15 de novembro de 1948, será exercido por um funcionário civil integrante de carreira burocrática dos Quadros do Ministério da Marinha, nomeado pelo Presidente da República.
 
-<strong>Art</strong>. 7º. As funções gratificadas de Chefe de Seção Administrativa, Chefe da Seção de Cadastro, de Chefe da Seção de Direitos e Vantagens e Chefe da Seção de Lotação e Promoção, serão exercidas, respectivamente, por servidores civis, escolhidos e designados pelo Chefe da Divisão do Pessoal Civil, dentre os servidores em exercício na mesma Divisão, ou mediante prévia autorização do Ministro da Marinha se noutros órgãos ou repartições estiverem lotados.
+**Art**. 7º. As funções gratificadas de Chefe de Seção Administrativa, Chefe da Seção de Cadastro, de Chefe da Seção de Direitos e Vantagens e Chefe da Seção de Lotação e Promoção, serão exercidas, respectivamente, por servidores civis, escolhidos e designados pelo Chefe da Divisão do Pessoal Civil, dentre os servidores em exercício na mesma Divisão, ou mediante prévia autorização do Ministro da Marinha se noutros órgãos ou repartições estiverem lotados.
 
-<strong>Art</strong>. 8º. As funções gratificadas de Encarregado da Turma, de Estudos, Legislação, Ação Disciplinar, Protocolo e Arquivo; Encarregado da Turma de Admissão Reingresso e Movimentação; Encarregado da Turma de Vantagens e Gratificações; Encarregado da Turma de Licenças, Aposentadoria, Disponibilidade e Revisões; Encarregado da Turma de Lotação Contrôle e Classificação e Encarregado da Turma de Promoção, Melhoria de Salário e Acesso, serão desempenhadas por servidores civis, designados pelo Chefe da Divisão do Pessoal Civil por indicação dos respectivos Chefes das Seções que farão a escolha dentre os servidores com exercício na própria Seção.
+**Art**. 8º. As funções gratificadas de Encarregado da Turma, de Estudos, Legislação, Ação Disciplinar, Protocolo e Arquivo; Encarregado da Turma de Admissão Reingresso e Movimentação; Encarregado da Turma de Vantagens e Gratificações; Encarregado da Turma de Licenças, Aposentadoria, Disponibilidade e Revisões; Encarregado da Turma de Lotação Contrôle e Classificação e Encarregado da Turma de Promoção, Melhoria de Salário e Acesso, serão desempenhadas por servidores civis, designados pelo Chefe da Divisão do Pessoal Civil por indicação dos respectivos Chefes das Seções que farão a escolha dentre os servidores com exercício na própria Seção.
 
-<strong>Art</strong>. 9º. A função gratificada de Secretário do Chefe da Divisão do Pessoal Civil criada pelo Decreto-lei nº 4.157 de 6 de março de 1942, será exercida por um servidor civil escolhido e designado pelo Chefe da Divisão dentre os servidores em exercício na própria Divisão ou mediante prévia autorização do Ministro da Marinha, se a escolha recair em servidor lotado em outro órgão ou repartição do Ministério.
+**Art**. 9º. A função gratificada de Secretário do Chefe da Divisão do Pessoal Civil criada pelo Decreto-lei nº 4.157 de 6 de março de 1942, será exercida por um servidor civil escolhido e designado pelo Chefe da Divisão dentre os servidores em exercício na própria Divisão ou mediante prévia autorização do Ministro da Marinha, se a escolha recair em servidor lotado em outro órgão ou repartição do Ministério.
 
-<strong>Art</strong>. 10. A função gratificada de Chefe de Portaria da Divisão do Pessoal Civil, será exercida por servidor escolhido e designado pelo Chefe da Divisão, dentre os ocupantes e com exercício na Divisão.
+**Art**. 10. A função gratificada de Chefe de Portaria da Divisão do Pessoal Civil, será exercida por servidor escolhido e designado pelo Chefe da Divisão, dentre os ocupantes e com exercício na Divisão.
 
-<strong>Art</strong>. 11. Os órgãos que integram a Divisão do Pessoal Civil (Dv P C) funcionarão perfeitamente coordenados, em regime de mútua colaboração sob a orientação do Chefe da Divisão.
+**Art**. 11. Os órgãos que integram a Divisão do Pessoal Civil (Dv P C) funcionarão perfeitamente coordenados, em regime de mútua colaboração sob a orientação do Chefe da Divisão.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DAS SEÇÕES E RESPECTIVAS TURMAS</em>
+*DA COMPETÊNCIA DAS SEÇÕES E RESPECTIVAS TURMAS*
 
-<strong>Art</strong>. 12. À Seção Administrativa (S.A.) compete:
+**Art**. 12. À Seção Administrativa (S.A.) compete:
 
 a) o estudo, processamento e expediente, sôbre os assuntos concernentes a deveres, ação disciplinar e legislação, no que diz respeito a funcionários ou extranumerários do Ministério da Marinha e opinar, do ponto de vista legal, sôbre as questões oriundas dêsses assuntos;
 
@@ -128,7 +126,7 @@ r) prestar as informações de caráter administrativo solicitadas no interêsse
 
 Parágrafo único. A execução dos serviços decorrentes das atribuições constantes dêste Artigo será conferida, respectivamente à “Turma de Estudos, Legislação, Ação Disciplinar, Protocolo e Arquivo” (S. A. - 1) e “Turma de Admissão, Reingresso e Movimentação do Pessoal em Geral” (S. A. - 2), mediante ordens de serviço e instruções baixadas pelo Chefe da Divisão do Pessoal Civil.
 
-<strong>Art</strong>. 13. À Seção de Cadastro (S. C) compete:
+**Art**. 13. À Seção de Cadastro (S. C) compete:
 
 a) manter rigorosamente atualizado, em modelos oficialmente adotados, o assentamento individual dos funcionários e extranumerários do Ministério, com indicação dos elementos de identificação, encargos de família, natureza profissional, da carreira ou da função excercida, índice de aptidão, tempo de serviço e todos os fatos e atos que se relacionem direta ou indiretamente com função pública;
 
@@ -180,7 +178,7 @@ n) manter a mais perfeita articulação e cooperação com as demais Seções da
 
 Parágrafo único. A execução dos serviços decorrentes das atribuições constantes dêste artigo, será cometida, respectivamente, à Turma de Assentamentos (S. C. -1) à Turma de Fichários, Contrôle e Estatísticas, mediante ordens de serviço e instruções baixadas pelo Chefe da Divisão do Pessoal Civil.
 
-<strong>Art</strong>. 14. À Sessão de Direitos e Vantagens (S.D.V.) compete:
+**Art**. 14. À Sessão de Direitos e Vantagens (S.D.V.) compete:
 
 a) estudar os processos relativos a direitos e vantagens com referência aos funcionários e extranumerários e respectivas famílias, opinando de ponto de vista legal e encarregando-se das providências complementares referente ao assunto;
 
@@ -214,7 +212,7 @@ p) manter a mais estrita articulação e cooperação com as demais Seções.
 
 Parágrafo único. A execução dos serviços decorrentes das atribuições constantes dêste artigo será cometida, respectivamente à Turma de Vantagens e Gratificações (S.D. - 1) e Turma de Licenças Aposentadoria, Disponibilidade e Revisões mediante ordens de serviço e instruções baixadas pelo Chefe da Divisão do Pessoal Civil.
 
-<strong>Art</strong>. 15. À Seção de Lotação e Promoção (S.L.P.), compete:
+**Art**. 15. À Seção de Lotação e Promoção (S.L.P.), compete:
 
 a) encarregar-se do processamento de todos os assuntos referentes a promoções de funcionários e melhorias de salário de extranumerários, de acôrdo com legislação que rege a matéria e bem assim, quanto ao acesso às carreiras ou séries funcionais, principais, de ocupantes das carreiras ou série funcionais auxiliares;
 
@@ -258,11 +256,11 @@ m) manter a mais escrita articulação e cooperação com as demais Seções da 
 
 Parágrafo único. A execução dos serviços decorrentes das atribuições constantes do presente artigo, será cometida, respectivamente à Turma de Lotação, Contrôle e Classificação (S.L.P-1) e Turma de Promoção Melhoria de Salário e Acesso (S.L.P-2).
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS NORMAS DE TRABALHO</em>
+*DAS NORMAS DE TRABALHO*
 
-<strong>Art</strong>. 16. Os assentamentos individuais deverão ser efetuados em modelo padrão oficialmente adotado, do qual constarão obrigatòriamente:
+**Art**. 16. Os assentamentos individuais deverão ser efetuados em modelo padrão oficialmente adotado, do qual constarão obrigatòriamente:
 
 a) elementos de identificação civil do servidor inclusive fotografia local e data do nascimento filiação estado civil, etc. especificando os documentos de que tenham sido transcritos;
 
@@ -288,15 +286,15 @@ i) todos os dados que se relacionem direta ou indiretamente com a atividade púb
 
 § 3º Para os extranumerários tarefeiros pessoal de obras e o admitido à conta de dotações globais ou eventuais, haverá assentamento sucinto, mediante formulários e normas especiais sendo permitido nos casos em que convier o sistemas de registro coletivo.
 
-<strong>Art</strong>. 17. A apuração da frequência merecimento e outros dados, obedecerá a normas instruções e modêlos padronizados bem como o que fôr estipulado pela legislação em vigor.
+**Art**. 17. A apuração da frequência merecimento e outros dados, obedecerá a normas instruções e modêlos padronizados bem como o que fôr estipulado pela legislação em vigor.
 
 Parágrafo único. Os métodos de execução dos trabalhos serão estabelecidos em instruções especiais baixadas pelo Chefe da Divisão.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 18. Ao Chefe da Divisão do Pessoal Civil (Dv. P. C.) compete:
+**Art**. 18. Ao Chefe da Divisão do Pessoal Civil (Dv. P. C.) compete:
 
 a) dirigir, orientar, coordenar e fiscalizar a execução dos trabalhos afetos à Divisão;
 
@@ -334,15 +332,15 @@ r) expedir boletins de merecimento dos servidores que lhe forem diretamente subo
 
 s) propor ou autorizar conforme o caso, a realização de serviço extraordinário, observadas as disposições que regem o assunto;
 
-t) apor o “visto” nos atestados e certidões expedidos pela Divisão a requerimento dos interessados ou “<em>ex-offício</em>”;
+t) apor o “visto” nos atestados e certidões expedidos pela Divisão a requerimento dos interessados ou “*ex-offício*”;
 
 u) apresentar anualmente ao Subsecretário da Marinha o relatório dos trabalhos realizados pela Divisão incluindo comentários e sugestões no sentido do aperfeiçoamento dos serviços e das condições materiais para sua eficiente execução;
 
-v) resolver “<em>ad-referendum</em>” os casos urgentes omissos neste Regimento, mas de reconhecida competência da Divisão do Pessoal Civil (Dv. P. C.);
+v) resolver “*ad-referendum*” os casos urgentes omissos neste Regimento, mas de reconhecida competência da Divisão do Pessoal Civil (Dv. P. C.);
 
 x) representar o Ministério da Marinha junto ao Departamento Administrativo do Serviço Público e perante quaisquer outras entidades oficiais, deliberando nessa qualidade sôbre todos os assuntos concernentes ao pessoal civil, de acôrdo com as diretrizes traçadas pelas superiores autoridades da Marinha.
 
-<strong>Art</strong>. 19. Aos Chefes de Seção incumbe:
+**Art**. 19. Aos Chefes de Seção incumbe:
 
 a) orientar e fiscalizar os trabalhas afetos à Seção;
 
@@ -368,7 +366,7 @@ l) despachar o arquivamento dos papéis solucionados, relativos a assuntos afeto
 
 m) apresentar anualmente ao Chefe da Divisão, ou sempre que por êle fôr determinado, relatório sucinto das atividades da Seção, como subsídio para organização do relatório da Divisão.
 
-<strong>Art</strong>. 20. Aos Encarregados da Turma incumbe:
+**Art**. 20. Aos Encarregados da Turma incumbe:
 
 a) auxiliar o Chefe da respectiva Seção na orientação e fiscalização dos trabalhos afetos a Turma, de acôrdo com as ordens e instruções dele recebidas e distribuição de serviços, ordens e instruções que forem baixadas pelo Chefe da Divisão na forma prevista neste Regimento;
 
@@ -382,7 +380,7 @@ e) redigir pareceres e o expediente de caráter opinativo sôbre assuntos de mai
 
 f) conferir e subscrever, mapas, relações, atestados, certidões, cópias e quaisquer outros papéis que devam ser assinados concomitantemente, pelo Chefe de Seção.
 
-<strong>Art</strong>. 21. Ao Secretário do Chefe da Divisão incumbe:
+**Art**. 21. Ao Secretário do Chefe da Divisão incumbe:
 
 a) atender as pessoas que procurarem o Chefe da Divisão e controlar o ingresso em seu Gabinete de trabalho;
 
@@ -396,47 +394,47 @@ e) superintender a aquisição e distribuição do material de expediente, e sup
 
 f) manter atualizado o livro de endereços do pessoal com exercício na Divisão.
 
-<strong>Art</strong>. 22. Ao Chefe de Portaria incumbe, abrir e fechar a Divisão diàriamente, no horário regulamentar; zelar e manter sob sua guarda os bens pertencentes à Fazenda Nacional; fiscalizar a limpeza e os serviços afetos aos auxiliares da Portaria; cumprir e fazer cumprir tôdas as ordens emanadas do Chefe da Divisão, dos Chefes de Seção, e do Secretário do Chefe da Divisão, a quem é diretamente subordinado.
+**Art**. 22. Ao Chefe de Portaria incumbe, abrir e fechar a Divisão diàriamente, no horário regulamentar; zelar e manter sob sua guarda os bens pertencentes à Fazenda Nacional; fiscalizar a limpeza e os serviços afetos aos auxiliares da Portaria; cumprir e fazer cumprir tôdas as ordens emanadas do Chefe da Divisão, dos Chefes de Seção, e do Secretário do Chefe da Divisão, a quem é diretamente subordinado.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 23. A Divisão do Pessoal Civil (Dv. P. C.) terá a lotação de funcionários e extranumerários que lhe fôr fixada em decreto do Presidente da República ou ato do Ministro do Estado, conforme o caso, por proposta do Chefe da Divisão.
+**Art**. 23. A Divisão do Pessoal Civil (Dv. P. C.) terá a lotação de funcionários e extranumerários que lhe fôr fixada em decreto do Presidente da República ou ato do Ministro do Estado, conforme o caso, por proposta do Chefe da Divisão.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 24. O horário normal de trabalho na Divisão do Pessoal Civil será o estabelecido na legislação específica para o Serviço Público Civil, com as possíveis adaptações ao que vigorar para as repartições e estabelecimentos do Ministério da Marinha.
+**Art**. 24. O horário normal de trabalho na Divisão do Pessoal Civil será o estabelecido na legislação específica para o Serviço Público Civil, com as possíveis adaptações ao que vigorar para as repartições e estabelecimentos do Ministério da Marinha.
 
-<strong>Art</strong>. 25. O Chefe da Divisão do Pessoal Civil não está sujeito ao regime de ponto.
+**Art**. 25. O Chefe da Divisão do Pessoal Civil não está sujeito ao regime de ponto.
 
 Parágrafo único. Os Chefes de Seção, o Secretário do Chefe da Divisão do Pessoal Civil e os Encarregados de Turmas das Seções, estão sujeitos a regime de ponto em separado, e sob fiscalização direta do Chefe da Divisão.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 26. O Chefe da Divisão do Pessoal Civil será substituído automàticamente, em seus impedimentos eventuais, até 30 (trinta) dias, por um dos Chefes de Seção, por êle prèviamente designado.
+**Art**. 26. O Chefe da Divisão do Pessoal Civil será substituído automàticamente, em seus impedimentos eventuais, até 30 (trinta) dias, por um dos Chefes de Seção, por êle prèviamente designado.
 
-<strong>Art</strong>. 27. Os Chefe de Seção serão substituídos automàticamente, em seus impedimentos temporários ou eventuais, por um dos encarregados de Turma ou na sua falta, por outro servidor da própria Seção, de sua indicação e prèviamente designado pelo Chefe da Divisão.
+**Art**. 27. Os Chefe de Seção serão substituídos automàticamente, em seus impedimentos temporários ou eventuais, por um dos encarregados de Turma ou na sua falta, por outro servidor da própria Seção, de sua indicação e prèviamente designado pelo Chefe da Divisão.
 
-<strong>Art</strong>. 28. Os Encarregados de Turma serão substituídos automàticamente, em seus impedimentos temporários ou eventuais, por um servidor da Seção, de sua indicação e designado, prèviamente, pelo Chefe da Divisão.
+**Art**. 28. Os Encarregados de Turma serão substituídos automàticamente, em seus impedimentos temporários ou eventuais, por um servidor da Seção, de sua indicação e designado, prèviamente, pelo Chefe da Divisão.
 
-<strong>Art</strong>. 29. Haverá sempre servidores prèviamente designados para as substituições a que se refere o presente Capítulo.
+**Art**. 29. Haverá sempre servidores prèviamente designados para as substituições a que se refere o presente Capítulo.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 30. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, pareceres, portarias, ordens e instruções de serviço que digam respeito as suas atividades específicas.
+**Art**. 30. Cada Seção deverá organizar e manter atualizada uma coleção de leis, regulamentos, circulares, pareceres, portarias, ordens e instruções de serviço que digam respeito as suas atividades específicas.
 
-<strong>Art</strong>. 31. As gratificações das funções de Chefe de Seção, Secretário do Chefe da Divisão, Encarregados de Turma e Chefe de Portaria são as estipuladas na legislação em vigor, tendo em vista sua criação ou transformação.
+**Art**. 31. As gratificações das funções de Chefe de Seção, Secretário do Chefe da Divisão, Encarregados de Turma e Chefe de Portaria são as estipuladas na legislação em vigor, tendo em vista sua criação ou transformação.
 
 Rio de Janeiro, em 5 de julho de 1958.
 
-<strong>ANTÔNIO ALVES CÂMARA JÚNIOR</strong>
+**ANTÔNIO ALVES CÂMARA JÚNIOR**
 
 Almirante da R.Rm
 

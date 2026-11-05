@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212216)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2026/compilacao-lei-18397-07.02.2026.html)
 
 # LEI N° 18.397, DE 07 DE FEVEREIRO DE 2026

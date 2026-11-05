@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53075)
-
 # LEI Nº 11.906, DE 22 DE MARÇO DE 2005
 
 ## ( PL 144/2004 - Jorge Caruso)

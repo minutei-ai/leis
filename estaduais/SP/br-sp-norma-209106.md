@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209106)<br>
-
 # DECRETO N° 68.331, DE 07 DE FEVEREIRO DE 2024
 
 ### _Prorroga o prazo previsto no artigo 5° do Decreto n° 67.495, de 17 de fevereiro de 2023._

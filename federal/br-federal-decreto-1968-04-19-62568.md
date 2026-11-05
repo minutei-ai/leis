@@ -1,5 +1,3 @@
-###DEC-062568-0-000-19-04-1968@@@
-
 DECRETO nº 62.568, DE 19 DE ABRIL DE 1968.
 
 Concede permissão, em caráter permanente, à S.A. White Martins, estabelecida no Estado de São Paulo, Capital, para funcionar aos domingos e nos feriados civis e religiosos.

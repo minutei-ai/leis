@@ -1,5 +1,3 @@
-###DEC-047354-0-000-04-12-1959@@@
-
 DECRETO Nº 47.354, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Indalécio Vilar a pesquisar argila no município de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-074794-0-000-30-10-1974@@@
-
 DECRETO Nº 74.794, DE 30 DE OUTUBRO DE 1974.
 
 Dispõe sobre a criação ao Programa de Desenvolvimento de Áreas Integradas do Nordeste (POLONORDESTE).

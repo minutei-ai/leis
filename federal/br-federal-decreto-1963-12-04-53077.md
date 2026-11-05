@@ -1,5 +1,3 @@
-###DEC-053077-0-000-04-12-1963@@@
-
 DECRETO Nº 53.077, DE 4 DE DEZEMBRO DE 1963.
 
 Estabelece a divisão do território nacional em Zonas Aéreas.

@@ -1,5 +1,3 @@
-###DEC-047375-0-000-07-12-1959@@@
-
 DECRETO Nº 47.375, DE 07 DE dezEMBRO DE 1959.
 
 Declara de utilidade pública para fins de desapropriação, imóvel que menciona, no Município de Escada, Estado de Pernambuco, necessário ao Ministério da Agricultura.

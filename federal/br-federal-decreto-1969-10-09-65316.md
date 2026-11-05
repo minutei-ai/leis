@@ -1,5 +1,3 @@
-###DEC-065316-0-000-09-10-1969@@@
-
 decreto nº 65.316 - de 09 de outubro de 1969.
 
 Declara de utilidade pública a "Escola Gratuita São José", com sede em Petrópolis, Estado do Rio de Janeiro.

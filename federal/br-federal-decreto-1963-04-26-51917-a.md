@@ -1,5 +1,3 @@
-###DEC-051917-A-000-26-04-1963@@@
-
 DECRETA Nº 51.917-A, DE 26 DE ABRIL DE 1963.
 
 Altera a redação dos arts. 2º e 19 do Regimento do Departamento do Interior e da Justiça do Ministério da Justiça e Negócios Interiores, aprovado pelo Decreto número17.546, de 5 de janeiro de 1945.

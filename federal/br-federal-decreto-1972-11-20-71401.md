@@ -1,5 +1,3 @@
-###DEC-071401-0-000-20-11-1972@@@
-
 DECRETO Nº 71.401, DE 20 NOVEMBRO DE 1972.
 
 Retifica o Decreto nº 71.072, de 11 de setembro de 1972, que torna sem efeito o aproveitamento de disponíveis na Universidade Federal Rural de Pernambuco e dá outras providências.

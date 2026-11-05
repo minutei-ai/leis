@@ -2,7 +2,8 @@ LEI Nº 1.741 DE 20 DE JULHO DE 1962
 
 Cria o município de ELÍSIO MEDRADO, desmembrado do de SANTA TEREZINHA.
 
-Ver também:<br>
+Ver também:
+
 Lei nº [12.919](javascript: openDoc\() de 19 de novembro de 2013 - Atualiza os limites dos municípios que integram o Território de Identidade Vale do Jiquiriçá, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Amargosa, Brejões, Cravolândia, Elísio Medrado, Irajuba, Itiruçu, Jaguaquara, Jiquiriçá, Lafayette Coutinho, Lajedo do Tabocal, Laje, Maracás, Milagres, Mutuípe, Nova Itarana, Planaltino, Santa Inês, São Miguel das Matas e Ubaíra. 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -65,4 +66,4 @@ ONDE SE LÊ: Lei nº 1741, de 20 de julho de 1960.
 
 LEIA-SE: Lei nº 1741, de 20 de julho de 1962.
 
-* * *
+ *

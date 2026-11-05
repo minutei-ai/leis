@@ -1,5 +1,3 @@
-###DEC-066786-0-000-26-06-1970@@@
-
 DECRETO Nº 66.786 - DE 26 DE JUNHO DE 1970
 
 Altera o Quadro de Pessoal - Parte Especial - da Superintendência do Desenvolvimento do Nordeste (SUDENE), aprovado pelo Decreto nº 51.632, de 19 de dezembro de 1962, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094172-0-000-02-04-1987@@@
-
 DECRETO N° 94.172, DE 02 DE março DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Campos de Pilar", composto pelo imóvel denominado "Castanhalzinho" e parte dos imóveis "Boa Vista" e "Pilar", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Alenquer, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053585-0-000-21-02-1964@@@
-
 DECRETO Nº 53.585, DE 21 DE FEVErEIRO DE 1964.
 
 Institui no Ministério da Indústria e Comércio o Grupo Executivo da Indústria Têxtil (GETEC) e dá outras providências.

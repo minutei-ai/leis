@@ -1,5 +1,3 @@
-###DEC-089683-0-000-17-05-1984@@@
-
 Decreto nº 89.683 de 17 dE maio dE 1984
 
 Outorga concessão à RÁDIO ITAPETI PAULISTA LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de São José dos Campos, Estado de São Paulo.

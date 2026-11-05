@@ -1,5 +1,3 @@
-###DEL-008934-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.934 – DE 26 DE JANEIRO DE 1946
 
 Dispõe sôbre as sociedades mútuas de seguros sôbre a vida

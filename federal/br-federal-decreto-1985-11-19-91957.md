@@ -1,5 +1,3 @@
-###DEC-091957-0-000-19-11-1985@@@
-
 Decreto nº 91.957, de 19 de novembro de 1985
 
 Cria o Programa de Abastecimento Simplificado de Água para Pequenas Comunidades do Nordeste, e dá outras providências.

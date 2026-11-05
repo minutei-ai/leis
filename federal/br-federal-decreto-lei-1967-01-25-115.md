@@ -1,7 +1,3 @@
-1
-
-###DEL-000115-0-000-25-01-1967@@@
-
 DECRETO-LEI Nº 115, DE 25 DE JANEIRO DE 1967
 
 Aprova o Regimento de Custas da Justiça do Distrito Federal e dá outras providências.
@@ -132,7 +128,51 @@ TABELA A
 
 DA SECRETARIA DO TRIBUNAL DE JUSTIÇA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Quaisquer recursos vindos da primeira instância ou interpostos para Tribunais Superiores ...........................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7.500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Reclamações e conflitos de jurisdição ...............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7.500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>III - Mandados de segurança originários:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) um só requerente .............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por requerente que exceder ...............................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>7.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - </span><span style="font-style:italic">Habeas</span><span> </span><span style="font-style:italic">corpus </span><span>..............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>V - Ação rescisória ..............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>sôbre o valor da causa, com o mínimo de Cr$7.500 e o máximo de Cr$30.000...........</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>4%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI - Deserção ......................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>VII - Certidões, alvarás, ofícios, editais, traslados, carta precatória ou rogatória:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma única fôlha ................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) por fôlha excedente, cada uma ..........................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 1ª - Nos demais processos originários cobrar-se-ão as mesmas custas fixadas para a primeira instância.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 2ª - As custas previstas nos itens I a IV e VI serão pagas antecipadamente, na Secretaria do Tribunal e em selos federais; as dos números V e VII, na terminação do feito ou com a entrega do documento</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr></tbody></table>
+I - Quaisquer recursos vindos da primeira instância ou interpostos para Tribunais Superiores ...........................................................................................................
+
+7.500
+
+II - Reclamações e conflitos de jurisdição ...............................................................
+
+7.500
+
+III - Mandados de segurança originários:
+
+a) um só requerente .............................................................................................
+
+b) por requerente que exceder ...............................................................................
+
+7.500
+
+1.000
+
+IV - Habeas corpus ..............................................................................................
+
+5.000
+
+V - Ação rescisória ..............................................................................................
+
+sôbre o valor da causa, com o mínimo de Cr$7.500 e o máximo de Cr$30.000...........
+
+4%
+
+VI - Deserção ......................................................................................................
+
+3.000
+
+VII - Certidões, alvarás, ofícios, editais, traslados, carta precatória ou rogatória:
+
+a) uma única fôlha ................................................................................................
+
+b) por fôlha excedente, cada uma ..........................................................................
+
+Nota 1ª - Nos demais processos originários cobrar-se-ão as mesmas custas fixadas para a primeira instância.
+
+Nota 2ª - As custas previstas nos itens I a IV e VI serão pagas antecipadamente, na Secretaria do Tribunal e em selos federais; as dos números V e VII, na terminação do feito ou com a entrega do documento
+
+1.500
+
+500
 
 TABELA B
 
@@ -150,25 +190,297 @@ TABELA C
 
 DOS PORTEIROS DOS AUDITÓRIOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Pregão em audiência, qualquer que seja o número de apregoados ........................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Afixação de editais de qualquer natureza e respectiva certidão, cada um ..............</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>300</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>III - Intimações ou notificações que realizar:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) na sede do fôro ................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) fora da sede .....................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>IV - Arrematação de bens em hasta pública, sobre o valor pelo qual forem arrematados, arrendados ou adjudicados:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até 20.000 .......................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) sôbre o que acrescer, até 200.000 .....................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) sôbre o que exceder de 200.000 ........................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>até o máximo de Cr$25.000</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>20%</span></p><p class="Tabela" style="text-indent:0pt"><span>4%</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1%</span></p></td></tr></tbody></table>
+Cr$
+
+I - Pregão em audiência, qualquer que seja o número de apregoados ........................
+
+500
+
+II - Afixação de editais de qualquer natureza e respectiva certidão, cada um ..............
+
+300
+
+III - Intimações ou notificações que realizar:
+
+a) na sede do fôro ................................................................................................
+
+b) fora da sede .....................................................................................................
+
+1.000
+
+2.500
+
+IV - Arrematação de bens em hasta pública, sobre o valor pelo qual forem arrematados, arrendados ou adjudicados:
+
+a) até 20.000 .......................................................................................................
+
+b) sôbre o que acrescer, até 200.000 .....................................................................
+
+c) sôbre o que exceder de 200.000 ........................................................................
+
+até o máximo de Cr$25.000
+
+20%
+
+4%
+
+1%
 
 TABELA D
 
 DO OFICIAL DO REGISTRO DE DISTRIBUIÇÃO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>I - Distribuição de qualquer espécie, inclusive lançamento do nome dos interessados nos livros índices e fichas:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) sòmente duas pessoas .......................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por pessoa que acrescer .....................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>II - Averbação, anotação de cancelamento, visto pela revalidação, retificação ordenada pela autoridade judiciária não motivada por êrro do Serventuário:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) sòmente duas pessoas .......................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por pessoa que exceder ......................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>600</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>III - Certidão de qualquer natureza:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) por uma única fôlha ............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder ..........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>IV - Busca:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até 12 meses .....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até 5 anos .........................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até 10 anos ........................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) ate 20 anos ........................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de 20 anos ............................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="text-indent:0pt"><span>2.000</span></p><p class="Tabela" style="text-indent:0pt"><span>3.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Distribuição de qualquer espécie, inclusive lançamento do nome dos interessados nos livros índices e fichas:
+
+a) sòmente duas pessoas .......................................................................................
+
+b) por pessoa que acrescer .....................................................................................
+
+500
+
+100
+
+II - Averbação, anotação de cancelamento, visto pela revalidação, retificação ordenada pela autoridade judiciária não motivada por êrro do Serventuário:
+
+a) sòmente duas pessoas .......................................................................................
+
+b) por pessoa que exceder ......................................................................................
+
+600
+
+100
+
+III - Certidão de qualquer natureza:
+
+a) por uma única fôlha ............................................................................................
+
+b) por fôlha que exceder ..........................................................................................
+
+1.500
+
+500
+
+IV - Busca:
+
+a) até 12 meses .....................................................................................................
+
+b) até 5 anos .........................................................................................................
+
+c) até 10 anos ........................................................................................................
+
+d) ate 20 anos ........................................................................................................
+
+e) de mais de 20 anos ............................................................................................
+
+500
+
+1.000
+
+2.000
+
+3.000
+
+5.000
 
 TABELA E
 
 DO OFICIAL DE CONTAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Conta de custas em qualquer processo, cível ou criminal .......................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>II - Conta de liquidação, inclusive rateio e juros, por Cr$1.000 ou fração .......................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>com o mínimo de Cr$1.000 e o máximo de Cr$20.000.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>III - Cálculo final em arrolamentos ou inventários, sejam quantos forem os herdeiros e as sucessões, para pagamento de impostos; para formação de ativo e passivo; para instituição e extinção de usufruto, inclusive cobrança de impostos; liquidação de bens de defuntos de ausentes ou de evento; cálculo de vintena, honorários, comissões, percentagens, inclusive de serventuários em geral e outros quaisquer, por Cr$1.000 ou fração:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até o valor de Cr$500.000 ....................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) pelo que exceder de Cr$500.000 até Cr$1.000.000 ................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) pela que exceder de Cr$1.000.000 até Cr$5.000.000 .............................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) pelo que exceder de Cr$5.000.000 até Cr$10.000.000 ............................................</span></p><p class="Tabela" style="text-indent:0pt"><span>f) pelo que exceder de Cr$10.000.000 ......................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>com o limite máximo de Cr$40.000.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>10</span></p><p class="Tabela" style="text-indent:0pt"><span>6</span></p><p class="Tabela" style="text-indent:0pt"><span>4</span></p><p class="Tabela" style="text-indent:0pt"><span>2</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Na emenda ou reforma de cálculo ou havendo absorção pelo passivo de mais de 80% do valor ativo, as custas devidas serão as do item anterior, calculadas por metade, salvo se a emenda ou reforma resultar de êrro, omissão ou culpa em geral do Contador, que, nessa hipótese nada terá a receber.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V - Verificação ou conferência de créditos e contas em falências e concordatas, concurso de credores, prestação de contas em geral, Cr$6 por Cr$1.000 ou fração, garantido o mínimo de Cr$2.000 e fixado o máximo em Cr$25.000.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI - Redução de cada papel de crédito, título da dívida pública, ações de companhias ou de estabelecimentos bancários ou de créditos em moeda estrangeira, cada um .............................................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII - Glosa de custas indevidas ou excessivas cobradas por serventuários e pagas por êste, cada uma ......................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>VIII - Certidões de qualquer natureza:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma única fôlha ..................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder ..........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr></tbody></table>
+Cr$
+
+I - Conta de custas em qualquer processo, cível ou criminal .......................................
+
+2.500
+
+II - Conta de liquidação, inclusive rateio e juros, por Cr$1.000 ou fração .......................
+
+com o mínimo de Cr$1.000 e o máximo de Cr$20.000.
+
+6
+
+III - Cálculo final em arrolamentos ou inventários, sejam quantos forem os herdeiros e as sucessões, para pagamento de impostos; para formação de ativo e passivo; para instituição e extinção de usufruto, inclusive cobrança de impostos; liquidação de bens de defuntos de ausentes ou de evento; cálculo de vintena, honorários, comissões, percentagens, inclusive de serventuários em geral e outros quaisquer, por Cr$1.000 ou fração:
+
+a) até o valor de Cr$500.000 ....................................................................................
+
+b) pelo que exceder de Cr$500.000 até Cr$1.000.000 ................................................
+
+c) pela que exceder de Cr$1.000.000 até Cr$5.000.000 .............................................
+
+d) pelo que exceder de Cr$5.000.000 até Cr$10.000.000 ............................................
+
+f) pelo que exceder de Cr$10.000.000 ......................................................................
+
+com o limite máximo de Cr$40.000.
+
+10
+
+6
+
+4
+
+2
+
+1
+
+IV - Na emenda ou reforma de cálculo ou havendo absorção pelo passivo de mais de 80% do valor ativo, as custas devidas serão as do item anterior, calculadas por metade, salvo se a emenda ou reforma resultar de êrro, omissão ou culpa em geral do Contador, que, nessa hipótese nada terá a receber.
+
+V - Verificação ou conferência de créditos e contas em falências e concordatas, concurso de credores, prestação de contas em geral, Cr$6 por Cr$1.000 ou fração, garantido o mínimo de Cr$2.000 e fixado o máximo em Cr$25.000.
+
+VI - Redução de cada papel de crédito, título da dívida pública, ações de companhias ou de estabelecimentos bancários ou de créditos em moeda estrangeira, cada um .............................................................................................................................
+
+500
+
+VII - Glosa de custas indevidas ou excessivas cobradas por serventuários e pagas por êste, cada uma ......................................................................................................
+
+5.000
+
+VIII - Certidões de qualquer natureza:
+
+a) uma única fôlha ..................................................................................................
+
+b) por fôlha que exceder ..........................................................................................
+
+1.500
+
+500
 
 TABELA F
 
 DOS TABELIÃES
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>I - Reconhecimento de firma:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma .......................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) as que excederem, cada uma ..................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) nos papéis destinados à matrícula em curso de ensino do primário ao universitário, cada firma ...............................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>200</span></p><p class="Tabela" style="text-indent:0pt"><span>50</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Autenticação .........................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Ill - Pública forma:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma só fôlha ..........................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder ..............................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>IV - Procuração simples ou em causa própria:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) um outorgante, como tal se entendendo marido e mulher ou sócios representativos de sociedade civil ou comercial que obrigatòriamente tenham que assiná-la .............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por outorgante que acrescer ....................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>5.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>V - Escrituras sôbre o valor da transação:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até 100.000 ............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) de mais de Cr$100.000 até Cr$200.000 ....................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) de mais de Cr$200.000 até Cr$500.000 ....................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) de mais de Cr$500.000 até Cr$1.000.000 ..................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>e) de mais de Cr$1.000.000 até Cr$5.000.000 ...............................................</span></p><p class="Tabela" style="text-indent:0pt"><span>f) de mais de Cr$5.000.000 até Cr$10.000.000 ..............................................</span></p><p class="Tabela" style="text-indent:0pt"><span>g) de mais de Cr$10.000.000 .......................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>até o máximo de Cr$300.000.</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>7%</span></p><p class="Tabela" style="text-indent:0pt"><span>4,5%</span></p><p class="Tabela" style="text-indent:0pt"><span>3%</span></p><p class="Tabela" style="text-indent:0pt"><span>2,4%</span></p><p class="Tabela" style="text-indent:0pt"><span>1,2%</span></p><p class="Tabela" style="text-indent:0pt"><span>1%</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,5%</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>VI - Cancelamento de procuração por escritura pública de renúncia do mandato ou de sua cassação.</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma só pessoa como tal se entendendo marido e mulher ou sócios representativos de sociedade civil ou comercial que tenham obrigatòriamente de assinar ..................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) por outorgante que acrescer ....................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota - As custas fixadas nos itens III a VI desta tabela incluem traslado, certidão e distribuição:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>6.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII - Testamento, incluindo traslado, certidão e distribuição ............................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VIII - Revogação de testamento, incluindo traslado, certidão e distribuição ..................................................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IX - Aprovação de testamento cerrado ...........................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>X - Escrituras de convenção de condomínio ..................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>48.000</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XI - Certidões em geral:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma fôlha ...............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder ..............................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:341.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XII - Busca:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até 12 meses .........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até cinco anos .......................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até 10 anos ............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) até 20 anos ............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de 20 anos ................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="text-indent:0pt"><span>2.000</span></p><p class="Tabela" style="text-indent:0pt"><span>3.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Reconhecimento de firma:
+
+a) uma .......................................................................................................
+
+b) as que excederem, cada uma ..................................................................
+
+c) nos papéis destinados à matrícula em curso de ensino do primário ao universitário, cada firma ...............................................................................
+
+200
+
+50
+
+30
+
+II - Autenticação .........................................................................................
+
+500
+
+Ill - Pública forma:
+
+a) uma só fôlha ..........................................................................................
+
+b) por fôlha que exceder ..............................................................................
+
+1.500
+
+500
+
+IV - Procuração simples ou em causa própria:
+
+a) um outorgante, como tal se entendendo marido e mulher ou sócios representativos de sociedade civil ou comercial que obrigatòriamente tenham que assiná-la .............................................................................................
+
+b) por outorgante que acrescer ....................................................................
+
+5.000
+
+500
+
+V - Escrituras sôbre o valor da transação:
+
+a) até 100.000 ............................................................................................
+
+b) de mais de Cr$100.000 até Cr$200.000 ....................................................
+
+c) de mais de Cr$200.000 até Cr$500.000 ....................................................
+
+d) de mais de Cr$500.000 até Cr$1.000.000 ..................................................
+
+e) de mais de Cr$1.000.000 até Cr$5.000.000 ...............................................
+
+f) de mais de Cr$5.000.000 até Cr$10.000.000 ..............................................
+
+g) de mais de Cr$10.000.000 .......................................................................
+
+até o máximo de Cr$300.000.
+
+7%
+
+4,5%
+
+3%
+
+2,4%
+
+1,2%
+
+1%
+
+0,5%
+
+VI - Cancelamento de procuração por escritura pública de renúncia do mandato ou de sua cassação.
+
+a) uma só pessoa como tal se entendendo marido e mulher ou sócios representativos de sociedade civil ou comercial que tenham obrigatòriamente de assinar ..................................................................................................
+
+b) por outorgante que acrescer ....................................................................
+
+Nota - As custas fixadas nos itens III a VI desta tabela incluem traslado, certidão e distribuição:
+
+6.000
+
+500
+
+VII - Testamento, incluindo traslado, certidão e distribuição ............................
+
+20.000
+
+VIII - Revogação de testamento, incluindo traslado, certidão e distribuição ..................................................................................................................
+
+10.000
+
+IX - Aprovação de testamento cerrado ...........................................................
+
+5.000
+
+X - Escrituras de convenção de condomínio ..................................................
+
+48.000
+
+XI - Certidões em geral:
+
+a) uma fôlha ...............................................................................................
+
+b) por fôlha que exceder ..............................................................................
+
+1.500
+
+500
+
+XII - Busca:
+
+a) até 12 meses .........................................................................................
+
+b) até cinco anos .......................................................................................
+
+c) até 10 anos ............................................................................................
+
+d) até 20 anos ............................................................................................
+
+e) de mais de 20 anos ................................................................................
+
+500
+
+1.000
+
+2.000
+
+3.000
+
+5.000
 
 TABELA G
 
@@ -178,19 +490,247 @@ SEÇÃO 1ª
 
 No Cível
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>I - Ações ordinárias é aquelas em que, contestadas, tomam o rito ordinário, salvo disposição em contrário ........................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>sôbre o valor da causa, garantido o mínimo de Cr$5.000 e fixado o máximo em Cr$100.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>II - Executivos fiscais, sôbre o valor do pedido ........................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>garantido o mínimo de Cr$5.000 e o máximo de Cr$100.000.</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota - As custas previstas neste item serão reduzidas:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) de cinqüenta por cento, se o devedor pagar a dívida até o fim do prazo para contestação;</span></p><p class="Tabela" style="text-indent:0pt"><span>b) de um têrço, se o pagamento fôr efetuado antes da audiência de instrução e julgamento e não houver produção intermediária de prova. Numa ou noutra hipótese fica assegurado o mínimo de Cr$5.000.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota - Se o Escrivão tiver justo motivo para recusar o valor dado à causa, poderá levantar dúvida que será resolvida pejo Juiz, sem recurso. Se a dúvida fôr julgada improcedente, perderá o Escrivão vinte por certo das custas a que tiver direito.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,5</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Nos mandados de segurança as custas serão as do item I, com cinqüenta por cento de redução, respeitado o mínimo de Cr$5.000, cobrando-se Cr$2.000 por impetrante, se mais de um.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>IV - Nas ações e processos especiais em que a instrução seja sumária, tais como venda de imóveis a prestação, venda de quinhão de coisa comum, remoção de tutor e curador ou de administrador de fundação, dissolução e liquidação de sociedade, arbitramento de alugueres, as custas serão as previstas no item I, com cinqüenta por cento de desconto, garantido o mínimo de Cr$5.000.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota - Nas ações e processos especiais não incluídos nos itens anteriores, as custas serão contadas conforme o disposto no item I, com a redução de dois terços, garantido o mínimo de Cr$5.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V - Justificação, inclusive tomadas de depoimentos ................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI - Interpelações, notificações protestos ...............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII - Processos acessórios, preventivos e incidentes, as custas indicadas no item I, calculadas pela quarta parte, garantido o mínimo de Cr$5.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VIII - Nas ações de despejo em que seja deferida e efetuada a purgação da mora, as custas contar-se-ão segundo o item I, reduzidas de dois terços, com o mínimo de Cr$3.000 e o máximo de Cr$20.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>IX - Nos processos de acidente do trabalho, quando houver acôrdo homologado pela autoridade judiciária .............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>sôbre o valor total da indenização. Proposta a ação, as custas obedecerão ao disposto no item I. Se vencidos, a vítima ou seus beneficiários ficam isentos de custas.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,5%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>X - Nos processos de desquite:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) Desquite amigável ............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Desquite litigioso ..............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>15.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XI - Inventários, arrolamentos, arrecadação de herança jacente de bens de ausentes ou vagos as custas serão calculadas sôbre o valor dos bens inventariados, arrolados ou arrecadados e pelo seguinte modo:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até Cr$200.000 ................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>garantido o mínimo de Cr$5.000</span></p><p class="Tabela" style="text-indent:0pt"><span>b) pelo que exceder de Cr$200.000 até Cr$500.000</span></p><p class="Tabela" style="text-indent:0pt"><span>c) pelo que exceder de Cr$500.000 até Cr$1.000.000</span></p><p class="Tabela" style="text-indent:0pt"><span>d) pelo que exceder de Cr$1.000.000 até Cr$2.000.00 .............................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) pelo que exceder de Cr$2.000.000 até o máximo de Cr$ 100.000.000 ...................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>6%</span></p><p class="Tabela" style="text-indent:0pt"><span>4%</span></p><p class="Tabela" style="text-indent:0pt"><span>3%</span></p><p class="Tabela" style="text-indent:0pt"><span>2%</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XII - Falências e concordatas. As custas serão calculadas em 5% sôbre o valor do ativo afinal apurado, garantido o mínimo de Cr$5.000 e o máximo de Cr$100.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>1 - Habilitação retardatária de créditos ou pedido de restituição de mercadoria em falências e concordatas ........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>sôbre o valor do crédito ou o mínimo de Cr$5.000 e o máximo de Cr$25.000.</span></p><p class="Tabela" style="text-indent:0pt"><span>2 - impugnações de crédito ..................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3 - Processo de extinção de obrigações falimentares, sôbre o valor dos créditos reconhecidos, com o mínimo de Cr$5.000 e o máximo de Cr$35.000 ........................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>2%</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>5.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XIII - Processos de naturalização ...........................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XIV - Precatórias, rogatórias e cartas de ordem a serem cumpridas no Distrito Federal ...............................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XV - Exceções processuais em autos apartados ....................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XVI - Agravo de instrumento, sem as custas do translado</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XVII - Carta de arrematação, adjudicação ou arrendamento em hasta pública ou leilão público, sôbre o valor da venda, da adjudicação ou locação até o máximo de Cr$30.000 ...........................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 1 - Nas arrematações feitas por mais de uma pessoa, de lotes distintos as custas serão calculadas para cada lote.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 2 - Quando uma só pessoa arrematar ou adjudicar ou arrendar lotes distintos ou vários arrematarem um só lote, as custas serão como de uma só arrematação ou adjudicação ou locação.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XVIII - Procuração “</span><span style="font-style:italic">apud</span><span> ata” .................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>XIX - Nas execuções de sentença líquida, as custas serão as do item I desta tabela reduzidas de dois terços; nas ilíquidas, a redução será de metade, garantido, em ambos os casos, e o mínimo de Cr$5.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XX - Certidões, ofícios, cartas, alvarás, traslados, mandados, carta de sentença:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) com uma só fôlha ............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XXI - Desentranhamento de documentos:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) por documento .................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por documento que exceder a um ......................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>XXII - Busca:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até 12 meses ..................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até cinco anos .................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até 10 anos .....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) até 20 anos .....................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de vinte anos .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="text-indent:0pt"><span>2.000</span></p><p class="Tabela" style="text-indent:0pt"><span>3.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Ações ordinárias é aquelas em que, contestadas, tomam o rito ordinário, salvo disposição em contrário ........................................................................................
+
+sôbre o valor da causa, garantido o mínimo de Cr$5.000 e fixado o máximo em Cr$100.000.
+
+2%
+
+II - Executivos fiscais, sôbre o valor do pedido ........................................................
+
+garantido o mínimo de Cr$5.000 e o máximo de Cr$100.000.
+
+Nota - As custas previstas neste item serão reduzidas:
+
+a) de cinqüenta por cento, se o devedor pagar a dívida até o fim do prazo para contestação;
+
+b) de um têrço, se o pagamento fôr efetuado antes da audiência de instrução e julgamento e não houver produção intermediária de prova. Numa ou noutra hipótese fica assegurado o mínimo de Cr$5.000.
+
+Nota - Se o Escrivão tiver justo motivo para recusar o valor dado à causa, poderá levantar dúvida que será resolvida pejo Juiz, sem recurso. Se a dúvida fôr julgada improcedente, perderá o Escrivão vinte por certo das custas a que tiver direito.
+
+0,5
+
+III - Nos mandados de segurança as custas serão as do item I, com cinqüenta por cento de redução, respeitado o mínimo de Cr$5.000, cobrando-se Cr$2.000 por impetrante, se mais de um.
+
+IV - Nas ações e processos especiais em que a instrução seja sumária, tais como venda de imóveis a prestação, venda de quinhão de coisa comum, remoção de tutor e curador ou de administrador de fundação, dissolução e liquidação de sociedade, arbitramento de alugueres, as custas serão as previstas no item I, com cinqüenta por cento de desconto, garantido o mínimo de Cr$5.000.
+
+Nota - Nas ações e processos especiais não incluídos nos itens anteriores, as custas serão contadas conforme o disposto no item I, com a redução de dois terços, garantido o mínimo de Cr$5.000.
+
+V - Justificação, inclusive tomadas de depoimentos ................................................
+
+6.000
+
+VI - Interpelações, notificações protestos ...............................................................
+
+5.000
+
+VII - Processos acessórios, preventivos e incidentes, as custas indicadas no item I, calculadas pela quarta parte, garantido o mínimo de Cr$5.000.
+
+VIII - Nas ações de despejo em que seja deferida e efetuada a purgação da mora, as custas contar-se-ão segundo o item I, reduzidas de dois terços, com o mínimo de Cr$3.000 e o máximo de Cr$20.000.
+
+IX - Nos processos de acidente do trabalho, quando houver acôrdo homologado pela autoridade judiciária .............................................................................................
+
+sôbre o valor total da indenização. Proposta a ação, as custas obedecerão ao disposto no item I. Se vencidos, a vítima ou seus beneficiários ficam isentos de custas.
+
+1,5%
+
+X - Nos processos de desquite:
+
+a) Desquite amigável ............................................................................................
+
+b) Desquite litigioso ..............................................................................................
+
+15.000
+
+50.000
+
+XI - Inventários, arrolamentos, arrecadação de herança jacente de bens de ausentes ou vagos as custas serão calculadas sôbre o valor dos bens inventariados, arrolados ou arrecadados e pelo seguinte modo:
+
+a) até Cr$200.000 ................................................................................................
+
+garantido o mínimo de Cr$5.000
+
+b) pelo que exceder de Cr$200.000 até Cr$500.000
+
+c) pelo que exceder de Cr$500.000 até Cr$1.000.000
+
+d) pelo que exceder de Cr$1.000.000 até Cr$2.000.00 .............................................
+
+e) pelo que exceder de Cr$2.000.000 até o máximo de Cr$ 100.000.000 ...................
+
+6%
+
+4%
+
+3%
+
+2%
+
+1%
+
+XII - Falências e concordatas. As custas serão calculadas em 5% sôbre o valor do ativo afinal apurado, garantido o mínimo de Cr$5.000 e o máximo de Cr$100.000.
+
+1 - Habilitação retardatária de créditos ou pedido de restituição de mercadoria em falências e concordatas ........................................................................................
+
+sôbre o valor do crédito ou o mínimo de Cr$5.000 e o máximo de Cr$25.000.
+
+2 - impugnações de crédito ..................................................................................
+
+3 - Processo de extinção de obrigações falimentares, sôbre o valor dos créditos reconhecidos, com o mínimo de Cr$5.000 e o máximo de Cr$35.000 ........................
+
+2%
+
+5.000
+
+1%
+
+XIII - Processos de naturalização ...........................................................................
+
+20.000
+
+XIV - Precatórias, rogatórias e cartas de ordem a serem cumpridas no Distrito Federal ...............................................................................................................
+
+6.000
+
+XV - Exceções processuais em autos apartados ....................................................
+
+10.000
+
+XVI - Agravo de instrumento, sem as custas do translado
+
+5.000
+
+XVII - Carta de arrematação, adjudicação ou arrendamento em hasta pública ou leilão público, sôbre o valor da venda, da adjudicação ou locação até o máximo de Cr$30.000 ...........................................................................................................
+
+Nota 1 - Nas arrematações feitas por mais de uma pessoa, de lotes distintos as custas serão calculadas para cada lote.
+
+Nota 2 - Quando uma só pessoa arrematar ou adjudicar ou arrendar lotes distintos ou vários arrematarem um só lote, as custas serão como de uma só arrematação ou adjudicação ou locação.
+
+1%
+
+XVIII - Procuração “apud ata” .................................................................................
+
+2.500
+
+XIX - Nas execuções de sentença líquida, as custas serão as do item I desta tabela reduzidas de dois terços; nas ilíquidas, a redução será de metade, garantido, em ambos os casos, e o mínimo de Cr$5.000.
+
+XX - Certidões, ofícios, cartas, alvarás, traslados, mandados, carta de sentença:
+
+a) com uma só fôlha ............................................................................................
+
+b) por fôlha que exceder .......................................................................................
+
+1.500
+
+500
+
+XXI - Desentranhamento de documentos:
+
+a) por documento .................................................................................................
+
+b) por documento que exceder a um ......................................................................
+
+500
+
+100
+
+XXII - Busca:
+
+a) até 12 meses ..................................................................................................
+
+b) até cinco anos .................................................................................................
+
+c) até 10 anos .....................................................................................................
+
+d) até 20 anos .....................................................................................................
+
+e) de mais de vinte anos .......................................................................................
+
+500
+
+1.000
+
+2.000
+
+3.000
+
+5.000
 
 sEçÃO 2ª
 
 No Crime
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>I - Nos precessos criminais em geral, “</span><span style="font-style:italic">habeas</span><span> </span><span style="font-style:italic">corpus</span><span>” e incidentes processados em apartado, por fôlha ..................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>garantido o mínimo de Cr$5.000 e fixado o máximo de Cr$50.000.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 1ª - Serão computadas as fôlhas de simples juntada, as do inquérito policial até a remessa dos autos à segunda instância e as que sobrevierem depois da baixa.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 2ª - Nos processos criminais em que fôr vencida a Justiça Pública não se cobrarão custas.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Certidão sôbre antecedentes criminais ou certidões de qualquer outra natureza:</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) para uma pessoa e com uma fôlha ......................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por pessoa que exceder ......................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>200</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) por fôlha que exceder ..........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Busca:</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até 12 meses .....................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) até cinco anos....................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) até 10 anos ........................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) até 20 anos ........................................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de vinte anos .........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+I - Nos precessos criminais em geral, “habeas corpus” e incidentes processados em apartado, por fôlha ..................................................................................................
+
+garantido o mínimo de Cr$5.000 e fixado o máximo de Cr$50.000.
+
+100
+
+Nota 1ª - Serão computadas as fôlhas de simples juntada, as do inquérito policial até a remessa dos autos à segunda instância e as que sobrevierem depois da baixa.
+
+Nota 2ª - Nos processos criminais em que fôr vencida a Justiça Pública não se cobrarão custas.
+
+II - Certidão sôbre antecedentes criminais ou certidões de qualquer outra natureza:
+
+a) para uma pessoa e com uma fôlha ......................................................................
+
+500
+
+b) por pessoa que exceder ......................................................................................
+
+200
+
+c) por fôlha que exceder ..........................................................................................
+
+500
+
+III - Busca:
+
+a) até 12 meses .....................................................................................................
+
+500
+
+b) até cinco anos....................................................................................................
+
+1.000
+
+c) até 10 anos ........................................................................................................
+
+2.000
+
+d) até 20 anos ........................................................................................................
+
+3.000
+
+e) de mais de vinte anos .........................................................................................
+
+5.000
 
 TABELA H
 
 DOS OFICIAIS DE JUSTIÇA
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Citação, notificação ou intimação, por pessoa:</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) no plano piloto de Brasília ...................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) fora dêsse perímetro ...........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Autos de penhora, seqüestro, arresto, apreensão, despejo, reintegração e imissão de posse, prisão e outros atos não especificados, inclusive todos os atos complementares sôbre o valor da causa ...................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1%</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>garantido o mínimo de Cr$5.000 e fixado o máximo em Cr$20.000.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 1ª - Quando o ato, por determinação legal, deve ser praticado por dois oficiais de justiça, as custas previstas nos itens anteriores ficam acrescidas de cinqüenta por cento, para partilha entre êles.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 2ª - Quando o Juiz autorizar a realização da diligência em domingo ou feriado, as custas serão pagas em dôbro.</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+I - Citação, notificação ou intimação, por pessoa:
+
+a) no plano piloto de Brasília ...................................................................................
+
+2.000
+
+b) fora dêsse perímetro ...........................................................................................
+
+3.000
+
+II - Autos de penhora, seqüestro, arresto, apreensão, despejo, reintegração e imissão de posse, prisão e outros atos não especificados, inclusive todos os atos complementares sôbre o valor da causa ...................................................................
+
+1%
+
+garantido o mínimo de Cr$5.000 e fixado o máximo em Cr$20.000.
+
+Nota 1ª - Quando o ato, por determinação legal, deve ser praticado por dois oficiais de justiça, as custas previstas nos itens anteriores ficam acrescidas de cinqüenta por cento, para partilha entre êles.
+
+Nota 2ª - Quando o Juiz autorizar a realização da diligência em domingo ou feriado, as custas serão pagas em dôbro.
 
 TABELA I
 
@@ -198,52 +738,498 @@ OFICIAIS DO REGISTRO CIVIL DAS PESSOAS NATURAIS,
 
 TUTELAS E INTERDIÇÕES
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Casamento:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) habilitação, compreendendo todos os atos de processo, certidão de habilitação e a extraída do livro-talão ...............................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) afixação, publicação e arquivamento de edital remetido por Oficial de outra jurisdição, inclusive a respectiva certidão .........................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>8.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) dispensa total ou parcial de editais de proclama, juntada de quaisquer documentos ..................................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.500</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Inscrição do casamento religioso no Registro Civil, inclusive a certidão extraída do livro-talão .....................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Diligência para a celebração de casamento fora da Sala do Oficial de Registro ou da sede do fôro ............................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Registro de nascimento e de óbito:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) No prazo legal ...........................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Fora do prazo legal:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1 - até 12 anos ..............................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2·- depois de 12 anos ....................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>12.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>3 - mediante justificação no Juízo do Registro ..................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 1ª - As custas referidas neste item incluem a certidão extraída do livro-padrão.</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V - Retificação de nascimento, casamento ou óbito:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) mediante prova apenas documental .............................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>6.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) mediante justificação no Juízo do Registro, com ou sem prova documental complementar ...............................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VI - Inscrição de sentença declaratória de casamento em processo judicial .....................................................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VII - Registros:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) de sentença ou têrmo de tutela ou curatela, bem como o de caução prestada em sua garantia; da sentença declaratória de ausência ou de abertura de sucessão provisória ou definitiva; de sentença em falências e concordatas; de sentença de prestação de contas de tutores e curadores ..................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) de ato ou sentença de emancipação, adoção ou perfilhação ..........................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>VIII - Certidões:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) com uma fôlha apenas ...............................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.500</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha excedente ....................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IX - Busca que só poderá ser cobrada quando a parte não indicar data certa do Registro:</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até 12 meses.............................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) até cinco anos ...........................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) até 10 anos ...............................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) até 20 anos ...............................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de 20 anos .....................................................................................................................</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 1ª - O ato da celebração de casamento será gratuíto, salvo ocorrendo a hipótese prevista no item III desta tabela.</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 2ª - São inteiramente gratuítos e isentos de selo e quaisquer emolumentos e custas a habilitação para casamento, o registro, a primeira certidão, desde que os cônjuges sejam reconhecidamente pobres, o que se comprovará por atestação da autoridade competente.</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:350.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 3ª - Do mesmo modo da nota anterior se procederá quanto ao registro de nascimento, quando as mesmas circunstâncias ocorrerem em relação aos pais.</span></p></td><td style="width:62.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+I - Casamento:
+
+a) habilitação, compreendendo todos os atos de processo, certidão de habilitação e a extraída do livro-talão ...............................................................
+
+15.000
+
+b) afixação, publicação e arquivamento de edital remetido por Oficial de outra jurisdição, inclusive a respectiva certidão .........................................................
+
+8.000
+
+c) dispensa total ou parcial de editais de proclama, juntada de quaisquer documentos ..................................................................................................
+
+2.500
+
+II - Inscrição do casamento religioso no Registro Civil, inclusive a certidão extraída do livro-talão .....................................................................................
+
+5.000
+
+III - Diligência para a celebração de casamento fora da Sala do Oficial de Registro ou da sede do fôro ............................................................................
+
+30.000
+
+IV - Registro de nascimento e de óbito:
+
+a) No prazo legal ...........................................................................................
+
+6.000
+
+b) Fora do prazo legal:
+
+1 - até 12 anos ..............................................................................................
+
+10.000
+
+2·- depois de 12 anos ....................................................................................
+
+12.000
+
+3 - mediante justificação no Juízo do Registro ..................................................
+
+Nota 1ª - As custas referidas neste item incluem a certidão extraída do livro-padrão.
+
+15.000
+
+V - Retificação de nascimento, casamento ou óbito:
+
+a) mediante prova apenas documental .............................................................
+
+6.000
+
+b) mediante justificação no Juízo do Registro, com ou sem prova documental complementar ...............................................................................................
+
+10.000
+
+VI - Inscrição de sentença declaratória de casamento em processo judicial .....................................................................................................................
+
+5.000
+
+VII - Registros:
+
+a) de sentença ou têrmo de tutela ou curatela, bem como o de caução prestada em sua garantia; da sentença declaratória de ausência ou de abertura de sucessão provisória ou definitiva; de sentença em falências e concordatas; de sentença de prestação de contas de tutores e curadores ..................................
+
+10.000
+
+b) de ato ou sentença de emancipação, adoção ou perfilhação ..........................
+
+20.000
+
+VIII - Certidões:
+
+a) com uma fôlha apenas ...............................................................................
+
+1.500
+
+b) por fôlha excedente ....................................................................................
+
+500
+
+IX - Busca que só poderá ser cobrada quando a parte não indicar data certa do Registro:
+
+a) até 12 meses.............................................................................................
+
+500
+
+b) até cinco anos ...........................................................................................
+
+1.000
+
+c) até 10 anos ...............................................................................................
+
+2.000
+
+d) até 20 anos ...............................................................................................
+
+3.000
+
+e) de mais de 20 anos .....................................................................................................................
+
+5.000
+
+Nota 1ª - O ato da celebração de casamento será gratuíto, salvo ocorrendo a hipótese prevista no item III desta tabela.
+
+Nota 2ª - São inteiramente gratuítos e isentos de selo e quaisquer emolumentos e custas a habilitação para casamento, o registro, a primeira certidão, desde que os cônjuges sejam reconhecidamente pobres, o que se comprovará por atestação da autoridade competente.
+
+Nota 3ª - Do mesmo modo da nota anterior se procederá quanto ao registro de nascimento, quando as mesmas circunstâncias ocorrerem em relação aos pais.
 
 TABELA J
 
 DO OFICIAL DO REGISTRO CIVIL DAS PESSOAS JURÍDICAS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Inscrição de pessoa jurídica de fins científicos, culturais, beneficentes ou religiosos, das associações de utilidade pública e das fundações, inclusive todos os atos do processo registro e arquivamento ..............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Inscrições de pessoas jurídicas de fins econômicos, incluindo todos os atos do processo, registro e arquivamento sôbre o capital declarado:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até Cr$100.000 ................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) até Cr$500.000 ................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) até Cr$1.000.000 ..............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) de mais de Cr$1.000.000, por 1.000 ou fração ....................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>com o limite máximo de Cr$100.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Matrículas de oficinas impressoras de jornais e periódicos .................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Certidões:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) fôlha única .......................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>V - Busca:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até doze meses ...............................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) até cinco anos .................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) até dez anos ....................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) até vinte anos ..................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de vinte anos .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota - As pessoas jurídicas de fins econômicos, para inscrição, deverão obrigatòriamente indicar o seu capital.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+I - Inscrição de pessoa jurídica de fins científicos, culturais, beneficentes ou religiosos, das associações de utilidade pública e das fundações, inclusive todos os atos do processo registro e arquivamento ..............................................................
+
+30.000
+
+II - Inscrições de pessoas jurídicas de fins econômicos, incluindo todos os atos do processo, registro e arquivamento sôbre o capital declarado:
+
+a) até Cr$100.000 ................................................................................................
+
+15.000
+
+b) até Cr$500.000 ................................................................................................
+
+25.000
+
+c) até Cr$1.000.000 ..............................................................................................
+
+50.000
+
+d) de mais de Cr$1.000.000, por 1.000 ou fração ....................................................
+
+100
+
+com o limite máximo de Cr$100.000.
+
+III - Matrículas de oficinas impressoras de jornais e periódicos .................................
+
+50.000
+
+IV - Certidões:
+
+a) fôlha única .......................................................................................................
+
+1.500
+
+b) por fôlha que exceder .......................................................................................
+
+500
+
+V - Busca:
+
+a) até doze meses ...............................................................................................
+
+500
+
+b) até cinco anos .................................................................................................
+
+1.000
+
+c) até dez anos ....................................................................................................
+
+2.000
+
+d) até vinte anos ..................................................................................................
+
+3.000
+
+e) de mais de vinte anos .......................................................................................
+
+5.000
+
+Nota - As pessoas jurídicas de fins econômicos, para inscrição, deverão obrigatòriamente indicar o seu capital.
 
 TABELA L
 
 OFICIAIS DO REGISTRO DE IMÓVEIS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Transcrição e inscrição com valor declarado no instrumento, com uma certidão:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a) até Cr$100.000 ................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3,5%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) de mais de Cr$100.000 até Cr$200.000 ..............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2,25%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) de mais de Cr$200.000 até Cr$500.000 ..............................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,5%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d) de mais de Cr$500.000 até Cr$1.000.000 ...........................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1,2%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de Cr$1.000.000 até Cr$5.000.000 ........................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,6%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f) de mais de Cr$5.000.000 até Cr$10.000.000 ........................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,5%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>g) de mais de Cr$10.000.000 com o limite máximo de Cr$150.000 ...........................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>0,25%</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Transcrição e inscrição sem valor declarado no instrumento - Aplicar-se-á a tabela constante do item I, ficando o apresentante obrigado a estimar o valor por escrito. Não o aceitando, o Oficial levantará dúvida a ser decidida de plano pelo Juiz, sem recurso. Não atendido o Oficial, os emolumentos ficam reduzidos de vinte por cento.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Averbações, com valor declarado no instrumento: Os emolumentos serão os do item I, com a redução de cinqüenta por cento.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Averbação, sem valor declarado no documento. Observar-se-á o que dispõe o item II.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>V - Loteamento:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) inscrição de memorial de loteamento urbano ......................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>e mais Cr$2.000 por lote;</span></p><p class="Tabela" style="text-indent:0pt"><span>b) inscrição de memorial de loteamento rural ..........................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>e mais Cr$1.500 por lote;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c) averbação - Os emolumentos previstos no item III.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>50.000</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>30.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>VI - Certidões:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) uma só fôlha ....................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha que exceder .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>VII - Busca:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até doze meses ...............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até cinco anos .................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até dez anos ....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) até vinte anos ..................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>e) de mais de vinte anos .......................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 1 - Havendo aditamento do registro, pela prenotação, será pago o emolumento mínimo, cuja importância será deduzida afinal do valor do registro.</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 2 - As publicações na imprensa correrão por conta do interessado ou instituidor do loteamento.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 3 - Nos emolumentos previstos nos itens I a V estão incluídos o arquivamento, indicações reais e pessoais, talão, comunicações, guias, extrato de matriz do Registro </span><span style="font-style:italic">Torrens</span><span> e tudo o que fôr necessário a que se complete o ato.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="text-indent:0pt"><span>2.000</span></p><p class="Tabela" style="text-indent:0pt"><span>3.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Transcrição e inscrição com valor declarado no instrumento, com uma certidão:
+
+a) até Cr$100.000 ................................................................................................
+
+3,5%
+
+b) de mais de Cr$100.000 até Cr$200.000 ..............................................................
+
+2,25%
+
+c) de mais de Cr$200.000 até Cr$500.000 ..............................................................
+
+1,5%
+
+d) de mais de Cr$500.000 até Cr$1.000.000 ...........................................................
+
+1,2%
+
+e) de mais de Cr$1.000.000 até Cr$5.000.000 ........................................................
+
+0,6%
+
+f) de mais de Cr$5.000.000 até Cr$10.000.000 ........................................................
+
+0,5%
+
+g) de mais de Cr$10.000.000 com o limite máximo de Cr$150.000 ...........................
+
+0,25%
+
+II - Transcrição e inscrição sem valor declarado no instrumento - Aplicar-se-á a tabela constante do item I, ficando o apresentante obrigado a estimar o valor por escrito. Não o aceitando, o Oficial levantará dúvida a ser decidida de plano pelo Juiz, sem recurso. Não atendido o Oficial, os emolumentos ficam reduzidos de vinte por cento.
+
+III - Averbações, com valor declarado no instrumento: Os emolumentos serão os do item I, com a redução de cinqüenta por cento.
+
+IV - Averbação, sem valor declarado no documento. Observar-se-á o que dispõe o item II.
+
+V - Loteamento:
+
+a) inscrição de memorial de loteamento urbano ......................................................
+
+e mais Cr$2.000 por lote;
+
+b) inscrição de memorial de loteamento rural ..........................................................
+
+e mais Cr$1.500 por lote;
+
+c) averbação - Os emolumentos previstos no item III.
+
+50.000
+
+30.000
+
+VI - Certidões:
+
+a) uma só fôlha ....................................................................................................
+
+b) por fôlha que exceder .......................................................................................
+
+1.500
+
+500
+
+VII - Busca:
+
+a) até doze meses ...............................................................................................
+
+b) até cinco anos .................................................................................................
+
+c) até dez anos ....................................................................................................
+
+d) até vinte anos ..................................................................................................
+
+e) de mais de vinte anos .......................................................................................
+
+Nota 1 - Havendo aditamento do registro, pela prenotação, será pago o emolumento mínimo, cuja importância será deduzida afinal do valor do registro.
+
+Nota 2 - As publicações na imprensa correrão por conta do interessado ou instituidor do loteamento.
+
+Nota 3 - Nos emolumentos previstos nos itens I a V estão incluídos o arquivamento, indicações reais e pessoais, talão, comunicações, guias, extrato de matriz do Registro Torrens e tudo o que fôr necessário a que se complete o ato.
+
+500
+
+1.000
+
+2.000
+
+3.000
+
+5.000
 
 TABELA M
 
 DOS OFICIAIS DO PROTESTO DE TÍTULOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Protestos:</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>a) até Cr$5.000 ......................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até Cr$10.000 ....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até Cr$20.000 ....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) até Cr$50.000 ....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>e) até Cr$100.000 ..................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>f) até Cr$200.000 ...................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>g) acima de Cr$200.000 ..........................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>e mais por Cr$1.000 ou fração .................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>com o limite máximo de Cr$30.000 ..........................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>800</span></p><p class="Tabela" style="text-indent:0pt"><span>1.300</span></p><p class="Tabela" style="text-indent:0pt"><span>1.600</span></p><p class="Tabela" style="text-indent:0pt"><span>2.500</span></p><p class="Tabela" style="text-indent:0pt"><span>3.500</span></p><p class="Tabela" style="text-indent:0pt"><span>5.000</span></p><p class="Tabela" style="text-indent:0pt"><span>5.000</span></p><p class="Tabela" style="text-indent:0pt"><span>100</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Cancelamento de protesto .................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Certidões:</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>a) uma fôlha ...........................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) por fôlha excedente ............................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>IV - Intimação e edital .............................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>2.500</span></p></td></tr><tr><td style="width:377.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>V - Busca:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até doze meses .................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até cinco anos ...................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até dez anos ......................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) até vinte anos ....................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de vinte anos .........................................................................................</span></p></td><td style="width:27.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="text-indent:0pt"><span>2.000</span></p><p class="Tabela" style="text-indent:0pt"><span>3.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+I - Protestos:
+
+a) até Cr$5.000 ......................................................................................................
+
+b) até Cr$10.000 ....................................................................................................
+
+c) até Cr$20.000 ....................................................................................................
+
+d) até Cr$50.000 ....................................................................................................
+
+e) até Cr$100.000 ..................................................................................................
+
+f) até Cr$200.000 ...................................................................................................
+
+g) acima de Cr$200.000 ..........................................................................................
+
+e mais por Cr$1.000 ou fração .................................................................................
+
+com o limite máximo de Cr$30.000 ..........................................................................
+
+800
+
+1.300
+
+1.600
+
+2.500
+
+3.500
+
+5.000
+
+5.000
+
+100
+
+II - Cancelamento de protesto .................................................................................
+
+5.000
+
+III - Certidões:
+
+a) uma fôlha ...........................................................................................................
+
+b) por fôlha excedente ............................................................................................
+
+1.500
+
+500
+
+IV - Intimação e edital .............................................................................................
+
+2.500
+
+V - Busca:
+
+a) até doze meses .................................................................................................
+
+b) até cinco anos ...................................................................................................
+
+c) até dez anos ......................................................................................................
+
+d) até vinte anos ....................................................................................................
+
+e) de mais de vinte anos .........................................................................................
+
+500
+
+1.000
+
+2.000
+
+3.000
+
+5.000
 
 TABELA N
 
 DO OFICIAL DE REGISTRO DE TÍTULOS E DOCUMENTOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Transcrição de títulos, documentos, papéis, compromissos, instrumentos de contrato ou estatutos, sem declaração de valor:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>a) pela primeira fôlha ............................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) pelas subseqüentes por fôlha ............................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>20.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>II - Transcrição de títulos, documentos, papéis compromissos, instrumentos de contrato, com declaração de valor.</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até Cr$100.000 ................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) ate Cr$500.000 ................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até Cr$1.000.000 ..............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) de mais de Cr$1.000.000 por Cr$1.000 ou fração ................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>com o limite de Cr$100.000.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>15.000</span></p><p class="Tabela" style="text-indent:0pt"><span>25.000</span></p><p class="Tabela" style="text-indent:0pt"><span>50.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>III - Averbação ......................................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15.000</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>IV - Certidões:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) pela primeira ou única fôlha ...............................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) pelas demais cada uma ....................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota - Nas custas do item I e II está compreendida a primeira certidão.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>1.500</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>V - Busca:</span></p><p class="Tabela" style="text-indent:0pt"><span>a) até doze meses ...............................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>b) até cinco anos .................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>c) até dez anos ....................................................................................................</span></p><p class="Tabela" style="text-indent:0pt"><span>d) até vinte anos ..................................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e) de mais de vinte anos .......................................................................................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>500</span></p><p class="Tabela" style="text-indent:0pt"><span>1.000</span></p><p class="Tabela" style="text-indent:0pt"><span>2.000</span></p><p class="Tabela" style="text-indent:0pt"><span>3.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5.000</span></p></td></tr></tbody></table>
+I - Transcrição de títulos, documentos, papéis, compromissos, instrumentos de contrato ou estatutos, sem declaração de valor:
+
+a) pela primeira fôlha ............................................................................................
+
+b) pelas subseqüentes por fôlha ............................................................................
+
+20.000
+
+5.000
+
+II - Transcrição de títulos, documentos, papéis compromissos, instrumentos de contrato, com declaração de valor.
+
+a) até Cr$100.000 ................................................................................................
+
+b) ate Cr$500.000 ................................................................................................
+
+c) até Cr$1.000.000 ..............................................................................................
+
+d) de mais de Cr$1.000.000 por Cr$1.000 ou fração ................................................
+
+com o limite de Cr$100.000.
+
+15.000
+
+25.000
+
+50.000
+
+100
+
+III - Averbação ......................................................................................................
+
+15.000
+
+IV - Certidões:
+
+a) pela primeira ou única fôlha ...............................................................................
+
+b) pelas demais cada uma ....................................................................................
+
+Nota - Nas custas do item I e II está compreendida a primeira certidão.
+
+1.500
+
+500
+
+V - Busca:
+
+a) até doze meses ...............................................................................................
+
+b) até cinco anos .................................................................................................
+
+c) até dez anos ....................................................................................................
+
+d) até vinte anos ..................................................................................................
+
+e) de mais de vinte anos .......................................................................................
+
+500
+
+1.000
+
+2.000
+
+3.000
+
+5.000
 
 TABELA O
 
 DO PARTIDOR
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:415.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Nas partilhas e sôbrepartilhas as custas serão as previstas no item XII da Tabela </span><span style="font-style:italic">F</span><span>, reduzidas de 2/3 e calculadas sôbre o monte-mor.</span></p></td></tr></tbody></table>
+I - Nas partilhas e sôbrepartilhas as custas serão as previstas no item XII da Tabela F, reduzidas de 2/3 e calculadas sôbre o monte-mor.
 
 TABELA P
 
 DOS AVALIADORES, ARBITRADORES E PERITOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Nas perícias judiciais, quer nos feitos contenciosos, quer nos administrativos os honorários dos avaliadores arbitradores e peritos, respeitado o disposto no nº II, serão arbitrados pelo Juiz que as presidir, levando em conta a relevância e dificuldade do trabalho, o tempo consumido, as condições financeiras das partes e o valor da causa dentro dos limites mínimo de Cr$5.000 e o máximo de Cr$100.000.</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>II - Perícias médicas em acidente do trabalho:</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Emolumentos: Mínimo .......................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:63.8pt"><span>Máximo .......................................................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>Cr$5.000</span></p><p class="Tabela" style="margin-left:5.4pt; margin-bottom:0pt; text-indent:-5.4pt"><span>Cr$20.000</span></p></td></tr></tbody></table>
+Cr$
+
+I - Nas perícias judiciais, quer nos feitos contenciosos, quer nos administrativos os honorários dos avaliadores arbitradores e peritos, respeitado o disposto no nº II, serão arbitrados pelo Juiz que as presidir, levando em conta a relevância e dificuldade do trabalho, o tempo consumido, as condições financeiras das partes e o valor da causa dentro dos limites mínimo de Cr$5.000 e o máximo de Cr$100.000.
+
+II - Perícias médicas em acidente do trabalho:
+
+Emolumentos: Mínimo .......................................................................................
+
+Máximo .......................................................................................
+
+Cr$5.000
+
+Cr$20.000
 
 TABELA Q
 
 DOS DEPOSITÁRIOS
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>I - Sôbre bens móveis ou qualquer espécie em cada período de 6 meses até o máximo de 18 meses ........................................................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>quando o depositário poderá pedir a venda em leilão público, recolhendo-se o produto ao Banco do Brasil ou outra entidade bancária autorizada por lei.</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>II - Sôbre bens imóveis urbanos e rurais, por período de 12 meses .........................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>do valor da promessa de venda ou da escritura de aquisição, até o limite máximo de ....................................................................................................................</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>5%</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>100.000</span></p></td></tr><tr><td style="width:363.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>III - Semoventes:</span></p><p class="Tabela" style="text-indent:0pt"><span>a mesma taxa do item Il</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 1 - Ficam sujeitas às mesmas regras dos itens I e II cada penhora subseqüente que recair sôbre o bem objeto do depósito.</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 2 - Ocorrendo penhora subseqüente sôbre o mesmo bem continuará êste em poder do depositário que primeiro recolher.</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 3 - No pagamento das custas que cabem ao depositário judicial não está incluída a indenização das despesas justificadas e comprovadas com a guarda, fiscalização, conservação e administração dos bens depositados, a que terá sempre direito e que lhe serão pagas em espécie, depois de aprovadas pelo Juiz.</span></p><p class="Tabela" style="text-indent:0pt"><span>Nota 4 - As custas e as despesas a que se refere a nota anterior, serão exigíveis para o ato de levantamento da penhora.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota 5 - Não serão devidas custas pelo depósito de dinheiro, peças de ouro e prata, jóias, pedras preciosas, apólices de qualquer espécie e natureza, compreendendo títulos da dívida pública, ações de emprêsas, letras hipotecárias, debêntures e quaisquer obrigações.</span></p></td><td style="width:41.35pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+I - Sôbre bens móveis ou qualquer espécie em cada período de 6 meses até o máximo de 18 meses ........................................................................................
+
+quando o depositário poderá pedir a venda em leilão público, recolhendo-se o produto ao Banco do Brasil ou outra entidade bancária autorizada por lei.
+
+3%
+
+II - Sôbre bens imóveis urbanos e rurais, por período de 12 meses .........................
+
+do valor da promessa de venda ou da escritura de aquisição, até o limite máximo de ....................................................................................................................
+
+5%
+
+100.000
+
+III - Semoventes:
+
+a mesma taxa do item Il
+
+Nota 1 - Ficam sujeitas às mesmas regras dos itens I e II cada penhora subseqüente que recair sôbre o bem objeto do depósito.
+
+Nota 2 - Ocorrendo penhora subseqüente sôbre o mesmo bem continuará êste em poder do depositário que primeiro recolher.
+
+Nota 3 - No pagamento das custas que cabem ao depositário judicial não está incluída a indenização das despesas justificadas e comprovadas com a guarda, fiscalização, conservação e administração dos bens depositados, a que terá sempre direito e que lhe serão pagas em espécie, depois de aprovadas pelo Juiz.
+
+Nota 4 - As custas e as despesas a que se refere a nota anterior, serão exigíveis para o ato de levantamento da penhora.
+
+Nota 5 - Não serão devidas custas pelo depósito de dinheiro, peças de ouro e prata, jóias, pedras preciosas, apólices de qualquer espécie e natureza, compreendendo títulos da dívida pública, ações de emprêsas, letras hipotecárias, debêntures e quaisquer obrigações.
 
 TABELA R
 
 DOS INTÉRPRETES E TRADUTORES
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>I - Tradução de documentos ou verificação da exatidão da tradução:</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>a) Por página com 35 linhas datilografadas de 45 topes ...........................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b) Por página de 35 linhas, com 25 letras em cada linha manuscrita ........................</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>10.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>7.500</span></p></td></tr><tr><td style="width:370.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span>II - Intervenção em depoimentos, interrogatórios ou outros atos judiciais inclusive reinquirição para cada ato e arbitrada pelo Juiz até o máximo de ............................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Nota - Se o trabalho se realizar por tradutor ou intérprete pago pelos cofres públicos, as custas serão recolhidas em selos federais.</span></p></td><td style="width:34.25pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span>50.000</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+I - Tradução de documentos ou verificação da exatidão da tradução:
+
+a) Por página com 35 linhas datilografadas de 45 topes ...........................................
+
+b) Por página de 35 linhas, com 25 letras em cada linha manuscrita ........................
+
+10.000
+
+7.500
+
+II - Intervenção em depoimentos, interrogatórios ou outros atos judiciais inclusive reinquirição para cada ato e arbitrada pelo Juiz até o máximo de ............................
+
+Nota - Se o trabalho se realizar por tradutor ou intérprete pago pelos cofres públicos, as custas serão recolhidas em selos federais.
+
+50.000

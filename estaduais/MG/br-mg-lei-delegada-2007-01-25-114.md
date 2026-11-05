@@ -121,7 +121,3 @@ Art. 8º Fica revogada a Lei Delegada nº 53, de 29 de janeiro de 2003.
 Palácio da Liberdade, em Belo Horizonte, aos 25 de janeiro de 2007; 219º da Inconfidência Mineira e 186º da Independência do Brasil.
 
 Aécio Neves - Governador do Estado
-
-\================================================================
-
-Data da última atualização: 25/1/2011.

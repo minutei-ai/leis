@@ -1,5 +1,3 @@
-###DEC-047980-0-000-02-04-1960@@@
-
 DECRETO Nº 47.980, de 02 DE abril DE 1960.
 
 Altera o Regimento para o Corpo de Pessoal Subalterno da Aeronáutica.

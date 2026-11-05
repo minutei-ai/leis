@@ -1,7 +1,3 @@
-1
-
-###DEC-097889-0-000-29-06-1989@@@
-
 DECRETO N° 97.889, DE 29 DE JUNHO DE 1989
 
 Declara de utilidade pública as instituições que menciona.

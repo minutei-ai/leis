@@ -1,5 +1,3 @@
-###DEC-068496-0-000-12-04-1971@@@
-
 DECRETO Nº 68.496 - de 12 de abril de 1971.
 
 Aproveita no Quadro de Pessoal do Ministério da Agricultura servidor em disponibilidade do Departamento Nacional de Obras Contra as Secas.

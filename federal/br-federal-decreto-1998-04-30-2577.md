@@ -1,5 +1,3 @@
-###DEC-002577-0-000-30-04-1998@@@
-
 DECRETO Nº 2.577, DE 30 DE ABRIL DE 1998
 
 Dá nova redação ao art. 3º do Decreto nº 1.752, de 20 de dezembro de 1995, que regulamenta a Lei nº 8.974, de 5 de janeiro de 1995, que dispõe sobre a vinculação, da competência e composição da Comissão Técnica Nacional de Biossegurança (CTNBio).

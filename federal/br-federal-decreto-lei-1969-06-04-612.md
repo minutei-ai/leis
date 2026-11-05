@@ -1,5 +1,3 @@
-###DEL-000612-0-000-04-06-1969@@@
-
 DECRETO-LEI Nº 612, DE 4 DE JUNHO DE 1969
 
 Acrescenta parágrafo ao artigo 8º do Decreto-lei nº 516, de 7 de abril de 1969, e dá outras providências.

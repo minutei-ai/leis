@@ -1,7 +1,3 @@
-1
-
-###DEC-000513-0-000-28-04-1992@@@
-
 DECRETO Nº 513, DE 28 DE ABRIL DE 1992
 
 Expede normas relativas à extinção dos órgãos da Administração Pública Federal direta.

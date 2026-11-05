@@ -1,5 +1,3 @@
-###DEC-050767-0-000-09-06-1961@@@
-
 DECRETO Nº 50.767, de 9 de junho de 1961.
 
 Autoriza a Centrais Elétricas de Goiás S.A. a ampliar suas instalações.

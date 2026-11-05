@@ -1,5 +1,3 @@
-###DEC-050621-0-000-18-05-1961@@@
-
 DECRETO Nº 50.621, DE 18 DE MAIO DE 1961.
 
 Institui Comissão Especial com a finalidade que especifica.

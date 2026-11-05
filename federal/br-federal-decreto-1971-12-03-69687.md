@@ -1,5 +1,3 @@
-###DEC-069687-0-000-03-12-1971@@@
-
 DECRETO Nº 69.687 - de 3 de dezembro de 1971
 
 Concede reconhecimento aos Cursos de Fisioterapia e Terapia Ocupacional, ministrados pela Faculdade de Ciências Médicas de Minas Gerais.

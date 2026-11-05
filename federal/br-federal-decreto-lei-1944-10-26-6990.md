@@ -1,5 +1,3 @@
-###DEL-006990-0-000-26-10-1944@@@
-
 DECRETO-LEI N. 6.990 – DE 26 DE OUTUBRO DE 1944
 
 Abre ao Ministério do Trahalho, Indústria e Comércio o crédito especial de Cr$ 728.410,00, para instalação da Biblioteca

@@ -1,5 +1,3 @@
-###DEC-081146-0-000-02-01-1978@@@
-
 Decreto nº 81 146, de 02 de janeiro de 1978.
 
 Declara de utilidade pública, para fins de  constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão do Departamento de Águas e Energia Elétrica do Estado de Minas Gerais, no Estado de Minas Gerais

@@ -1,5 +1,3 @@
-###DEC-049587-0-000-23-12-1960@@@
-
 DECRETO Nº 49.587, de 23 de dezembro de 1960.
 
 Declara de utilidade pública, para efeitos de desapropriação, dois lotes de terreno situados na Freguesia, Ilha do Governador, Estado da Guanabara.

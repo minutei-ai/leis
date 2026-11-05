@@ -1,5 +1,3 @@
-###DEC-053557-0-000-07-02-1964@@@
-
 DECRETO Nº 53.557, DE 7 DE FEVEREIRO DE 1964.
 
 Dispõe sôbre a gratificação natalina aos servidores das autarquias sob a jurisdição do Ministério da Viação e Obras Públicas.

@@ -1,5 +1,3 @@
-###DEC-091748-0-000-04-10-1985@@@
-
 Decreto nº 91.748, de 04 de outubro de 1985
 
 Renova a concessão outorgada à RÁDIO DIÁRIO DE MOGI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Mogi das Cruzes, Estado de São Paulo.

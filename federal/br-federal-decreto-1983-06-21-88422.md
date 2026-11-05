@@ -1,5 +1,3 @@
-###DEC-088422-0-000-21-06-1983@@@
-
 Decreto nº 88.422, de 21 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Guaianazes, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

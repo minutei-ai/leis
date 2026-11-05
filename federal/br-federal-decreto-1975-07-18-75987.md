@@ -1,5 +1,3 @@
-###DEC-075987-0-000-18-07-1975@@@
-
 DECRETO Nº 75.987 - DE 18 DE JULHO DE 1975.
 
 Transfere a sede da 5º Companhia Depósito de Armamento e Munição (5º Cia Dep Armt Mun) e dá outras providências.

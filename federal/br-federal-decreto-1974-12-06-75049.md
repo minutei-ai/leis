@@ -1,5 +1,3 @@
-###DEC-075049-0-000-06-12-1974@@@
-
 DECRETO Nº 75.049, DE 6 DE DEZEMBRO DE 1974.
 
 Exclusão do Quadro de Pessoal do Ministério da Fazenda de ex-servidor da extinta COFAP.

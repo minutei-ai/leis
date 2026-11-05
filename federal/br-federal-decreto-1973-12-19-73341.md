@@ -1,5 +1,3 @@
-###DEC-073341-0-000-19-12-1973@@@
-
 DECRETO Nº 73.341 - DE 19 DE DEZEMBRO DE 1973
 
 Dispõe sobre aproveitamento de servidor da Escola de Farmácia e Odontologia de Alfenas, no Quadro de Pessoal - Parte Permanente do Ministério da Educação e Cultura, e dá outras providências.

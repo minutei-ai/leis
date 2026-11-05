@@ -1,5 +1,3 @@
-###DEC-074154-0-000-06-06-1974@@@
-
 DECRETO Nº 74.154, DE 6 DE JUNHO DE 1974.
 
 Dispõe sobre a Comissão Nacional de Pesquisa Agropecuária e de Assistência Técnica e Extensão Rural (COMPATER).

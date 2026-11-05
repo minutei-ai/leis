@@ -1,5 +1,3 @@
-###DEC-079286-0-000-16-02-1977@@@
-
 DECRETO Nº 79.286, DE 16 DE FEVEREIRO DE 1977.
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-049341-0-000-25-11-1960@@@
-
 DECRETO Nº 49.341, DE 25 DE novembro DE 1960.
 
 Inclui função na Tabela Numérica de Extranumerário-mensalista da Universidade Rural de Pernambuco, aprovada pelo Decreto nº 42.278, de 17 de setembro de  1957, e dá outras providências.

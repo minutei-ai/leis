@@ -45,7 +45,8 @@ I – GRAU: “GRÃ-CRUZ”
 | --- | --- |
 | 1 | BRUNO REGIANY PEIXOTO PIMENTA Deputado Estadual / Presidente da Assembleia Legislativa do Estado de Goiás |
 | 2 | CARLOS ORLEANS BRANDÃO JÚNIOR Governador do Estado do Maranhão |
-| ~~3~~ | ~~MAURO MENDES FERREIRA Governador do Estado do Mato Grosso~~<br>
+| ~~3~~ | ~~MAURO MENDES FERREIRA Governador do Estado do Mato Grosso~~
+
 \- [Excluído pelo Decreto nº 10.743, de 29-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111103/decreto-10743), art. 2º. |
 | 4 | CARLOS MASSA RATINHO JUNIOR Governador do Estado do Paraná |
 | 5 | WANDERLEI BARBOSA CASTRO Governador do Estado do Tocantins |
@@ -55,7 +56,8 @@ I – GRAU: “GRÃ-CRUZ”
 | 9 | OLENO INÁCIO DE MATOS Presidente do Conselho Nacional das Defensoras e Defensores Públicos Gerais / Defensor Público-Geral do Estado de Roraima |
 | 10 | JOSÉ ROBERTO TADROS Presidente da CNC |
 | 11 | KATIA REGINA DE ABREU GOMES Ex-Ministra |
-| 12 | GILMAR FERREIRA MENDES Ministro do Supremo Tribunal Federal - STF<br>
+| 12 | GILMAR FERREIRA MENDES Ministro do Supremo Tribunal Federal - STF
+
 \- [Acrescido pelo Decreto nº 10.529, de 17-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109388/decreto-10529). |
 
 II – GRAU: “GRANDE-OFICIAL”

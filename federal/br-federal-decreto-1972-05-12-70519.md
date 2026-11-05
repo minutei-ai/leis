@@ -1,5 +1,3 @@
-###DEC-070519-0-000-12-05-1972@@@
-
 DECRETO nº 70.519, DE 12 DE MAIO DE 1972.
 
 Redistribuí cargos, com respectivos ocupantes, do Quadro de Pessoal do Ministério da Justiça para o do Ministério da Educação e Cultura.

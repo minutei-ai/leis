@@ -1,5 +1,3 @@
-###DEL-004303-0-000-16-05-1942@@@
-
 DECRETO-LEI N. 4.303 – DE 16 DE MAIO DE 1942
 
 Organiza, a título provisório, um Hospital Militar de 4ª classe, na 7ª Região Militar

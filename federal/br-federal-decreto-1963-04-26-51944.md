@@ -1,5 +1,3 @@
-###DEC-051944-0-000-26-04-1963@@@
-
 DECRETO Nº 51.944, DE 26 DE ABRIL DE 1963.
 
 Autoriza Alumínio Minas Gerais S.A. a lavrar bauxita no município de Ouro Preto, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-053410-0-000-17-01-1964@@@
-
 DECRETO Nº 53.410, DE 17 DE JANEIRO DE 1964.
 
 Torna sem efeito o Decreto número 53.379, de 19 de agôsto de 1963, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069881-0-000-31-12-1971@@@
-
 DECRETO Nº 69.881 - DE 31 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, imóvel situado na cidade de Pelotas, Estado do Rio Grande do Sul, necessário à instalação de Central de Telex e de outros equipamentos indispensáveis ao Sistema Nacional de Telecomunicações.

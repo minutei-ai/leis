@@ -1,10 +1,8 @@
-###DEC-040401-0-000-21-11-1956@@@
+**DECRETO Nº 40.401, DE 21 DE NOVEMBRO DE 1956.**
 
-<strong>DECRETO Nº 40.401, DE 21 DE NOVEMBRO DE 1956.</strong>
+***Expede Regulamento para a Comissão do Impôsto Sindical (CIS) e Comissão Técnica de Orientação Sindical (CTOS).***
 
-<em><strong>Expede Regulamento para a Comissão do Impôsto Sindical (CIS) e Comissão Técnica de Orientação Sindical (CTOS).</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
 CONSIDERANDO que, de conformidade com o disposto no art. 595, da Consolidação das Leis do Trabalho (Decreto-lei nº 5.452, de 1 de maio de 1943), funciona no Ministério do Trabalho Indústria e Comércio, sob a presidência do respectivo titular, a Comissão do Impôsto Sindical (CIS), competindo-lhe, na forma do artigo 596, gerir o Fundo Social Sindical, organizar o plano sistemático dêsse Fundo, fiscalizar a aplicação do impôsto sindical e dirimir as dúvidas pertinentes a tal matéria;
 
@@ -14,21 +12,21 @@ CONSIDERANDO que a Lei Orçamentária da União, para o exercício de 1956, mand
 
 CONSIDERANDO que, por isso, incumbe ao Govêrno da República traçar novas normas que disciplinem o emprêgo das verbas destinadas à manutenção dos órgãos e serviços custeados pelo Fundo Social Sindical, proporcionando exata fiscalização de sua regular aplicação,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Comissão do Impôsto Sindical (CIS) e da Comissão Técnica de Orientação Sindical (CTOS), que a êste acompanha, assinado pelo Ministro do Trabalho, Indústria e Comércio.
+**Art**. 1º Fica aprovado o Regulamento da Comissão do Impôsto Sindical (CIS) e da Comissão Técnica de Orientação Sindical (CTOS), que a êste acompanha, assinado pelo Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 21 de novembro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Parsifal Barroso
 
-<strong>REGULAMENTO</strong>
+**REGULAMENTO**
 
-<strong>Art</strong>. 1º O Fundo Social Sindical, previsto nos artigos 500 e 591, da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1 de maio de 1943, é constituído mediante transferência, em conta especial no Banco do Brasil, de 20% (vinte por cento) do impôsto sindical relativo a cada sindicato, ou, em sua ausência, à federação correspondente.
+**Art**. 1º O Fundo Social Sindical, previsto nos artigos 500 e 591, da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei nº 5.452, de 1 de maio de 1943, é constituído mediante transferência, em conta especial no Banco do Brasil, de 20% (vinte por cento) do impôsto sindical relativo a cada sindicato, ou, em sua ausência, à federação correspondente.
 
 § 1º Não havendo sindicato nem entidade sindical de gráu superior, o impôsto sindical do respectivo grupo será recolhido, totalmente, em favor do Fundo Social Sindical.
 
@@ -36,7 +34,7 @@ Parsifal Barroso
 
 § 3º Da importância arrecadada para o Fundo Social Sindical será destacada a cota anual de 25% (vinte e cinco por cento), que será posta à disposição da Comissão Técnica de Orientação Sindical, para ser movimentada mediante autorização do Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 2º A Comissão do Impôsto Sindical, com sede no Ministério do Trabalho, Indústria e Comércio, funcionará sob a presidência do Ministro do Trabalho, Indústria e Comércio e será constituída:
+**Art**. 2º A Comissão do Impôsto Sindical, com sede no Ministério do Trabalho, Indústria e Comércio, funcionará sob a presidência do Ministro do Trabalho, Indústria e Comércio e será constituída:
 
 a) de um representante do Departamento Nacional do Trabalho e de um dos serviços de contabilidade do Ministério do Trabalho, Indústria e Comércio, designados pelo respectivo Ministro;
 
@@ -50,11 +48,11 @@ c) de três pessoas de conhecimentos especializados em assuntos de Direito e Med
 
 § 3º O presidente da Comissão do Impôsto Sindical será substituído, em suas faltas e impedimentos, pelo membro por êle designado prèviamente.
 
-<strong>Art</strong>. 3º A Comissão Técnica de Orientação Sindical criada pelo Decreto Lei nº 5.199, a 16 de janeiro de 1943, diretamente subordinada ao Ministro do Trabalho, Indústria e Comércio, será constituída de quatro membros designados em Portaria do Ministro do Trabalho, Indústria e Comércio, que indicará, entre êles, o respectivo presidente.
+**Art**. 3º A Comissão Técnica de Orientação Sindical criada pelo Decreto Lei nº 5.199, a 16 de janeiro de 1943, diretamente subordinada ao Ministro do Trabalho, Indústria e Comércio, será constituída de quatro membros designados em Portaria do Ministro do Trabalho, Indústria e Comércio, que indicará, entre êles, o respectivo presidente.
 
 § 1º Os membros da Comissão Técnica de Orientação Sindical perceberão, por sessão a que comparecerem, até o máximo de 8 por mês, a gratificação de Cr$500,00.
 
-<strong>Art</strong>. 4º Compete à Comissão do Impôsto Sindical:
+**Art**. 4º Compete à Comissão do Impôsto Sindical:
 
 a) gerir o Fundo Social Sindical;
 
@@ -64,7 +62,7 @@ c) fiscalizar a aplicação do Impôsto Sindical, expedindo as normas que se fiz
 
 d) resolver as dúvidas suscitadas na execução do Capítulo XII, do Título V, da Consolidação das Leis do Trabalho.
 
-<strong>Art</strong>. 5º Compete à Comissão Técnica de Orientação Sindical:
+**Art**. 5º Compete à Comissão Técnica de Orientação Sindical:
 
 a) promover o desenvolvimento do espírito sindical;
 
@@ -74,9 +72,9 @@ c) organizar cursos de preparação de trabalhadores para a administração sind
 
 d) prestar aos sindicatos a colaboração que fôr julgada necessária.
 
-<strong>Art</strong>. 6º A execução dos serviços a cargo da CIS ou da CTOS será objeto de instruções que, em cada caso, o Ministro do Trabalho, Indústria e Comércio aprovará, estabelecendo, não só a estrutura dos respectivos órgãos, como suas atribuições e o pessoal que os deverá integrar.
+**Art**. 6º A execução dos serviços a cargo da CIS ou da CTOS será objeto de instruções que, em cada caso, o Ministro do Trabalho, Indústria e Comércio aprovará, estabelecendo, não só a estrutura dos respectivos órgãos, como suas atribuições e o pessoal que os deverá integrar.
 
-<strong>Art</strong>. 7º O pessoal da CIS e da CTOS será admitido por concurso, ficando sujeito, dadas as finalidades e a natureza de suas atividades, às normas do Serviço Público Federal.
+**Art**. 7º O pessoal da CIS e da CTOS será admitido por concurso, ficando sujeito, dadas as finalidades e a natureza de suas atividades, às normas do Serviço Público Federal.
 
 § 1º Nenhuma remuneração do pessoal de qualquer dos órgãos que integram a CIS ou a CTOS poderá ser superior à série mais elevada de função de extranumerário do Serviço Público Federal, sendo expressamente vedadas as acumulações na forma da legislação vigente.
 
@@ -88,13 +86,13 @@ d) prestar aos sindicatos a colaboração que fôr julgada necessária.
 
 § 5º Os quadros de pessoal dos serviços da CIS e da CTOS serão publicados dentro de 30 dias da expedição do presente Regulamento.
 
-<strong>Art</strong>. 8º Até 31 de outubro de cada ano, a CIS e a CTOS aprovarão os seus orçamentos para o exercício seguinte, devendo no da CIS figurar, destacadamente as dotações destinadas aos seus Serviços, fixadas dentro das percentagens estabelecidas no ano anterior para a sua manutenção.
+**Art**. 8º Até 31 de outubro de cada ano, a CIS e a CTOS aprovarão os seus orçamentos para o exercício seguinte, devendo no da CIS figurar, destacadamente as dotações destinadas aos seus Serviços, fixadas dentro das percentagens estabelecidas no ano anterior para a sua manutenção.
 
-Parágrafo único. Os orçamentos, após sua aprovação, serão publicados no “<em>Diário</em> <em>Oficial</em>”.
+Parágrafo único. Os orçamentos, após sua aprovação, serão publicados no “*DiárioOficial*”.
 
-<strong>Art</strong>. 9º A CTOS deverá manter, preferencialmente, cursos de preparação de dirigentes para a administração sindical, bem como serviços de cooperação técnica com entidades sindicais sendo-lhe permitido, também, dentro dos recursos próprios, a edição de obras especializadas.
+**Art**. 9º A CTOS deverá manter, preferencialmente, cursos de preparação de dirigentes para a administração sindical, bem como serviços de cooperação técnica com entidades sindicais sendo-lhe permitido, também, dentro dos recursos próprios, a edição de obras especializadas.
 
-<strong>Art</strong>. 10. Sòmente o Ministro do Trabalho, Indústria e Comércio poderá movimentar, por meio de ordens de pagamento, as contas bancárias existentes em nome da CIS e da CTOS, devendo cada levantamento ser solicitado por escrito pelos Serviços competentes obedecidas as formalidades estabelecidas neste Regulamento.
+**Art**. 10. Sòmente o Ministro do Trabalho, Indústria e Comércio poderá movimentar, por meio de ordens de pagamento, as contas bancárias existentes em nome da CIS e da CTOS, devendo cada levantamento ser solicitado por escrito pelos Serviços competentes obedecidas as formalidades estabelecidas neste Regulamento.
 
 § 1º Classificam-se como despesa fixa os vencimentos, salários e gratificações de função dos servidores e variável qualquer outra despesa notadamente a de material, consistente em fornecimento de serviços.
 
@@ -116,13 +114,13 @@ e) a declaração expressa de ter sido a importância do empenho deduzida da dot
 
 § 5º Uma das vias do comprovante se destinará ao arquivo da Contabilidade, outra para o Gabinete do Ministro do Trabalho, Indústria e Comércio e a terceira para o Tribunal de Contas.
 
-<strong>Art</strong>. 11. À Comissão do Impôsto Sindical compete fiscalizar a aplicação do Impôsto Sindical em coordenação com o Departamento Nacional do Trabalho, sendo expedidas pelo Ministro do Trabalho, Industria e Comércio as instruções necessárias para tal fim.
+**Art**. 11. À Comissão do Impôsto Sindical compete fiscalizar a aplicação do Impôsto Sindical em coordenação com o Departamento Nacional do Trabalho, sendo expedidas pelo Ministro do Trabalho, Industria e Comércio as instruções necessárias para tal fim.
 
-<strong>Art</strong>. 12. Mensalmente, a CIS e a CTOS levantarão os balanços de receita e despesa, que serão submetidos à apreciação do Ministro do Trabalho, Indústria e Comércio.
+**Art**. 12. Mensalmente, a CIS e a CTOS levantarão os balanços de receita e despesa, que serão submetidos à apreciação do Ministro do Trabalho, Indústria e Comércio.
 
 Parágrafo único. Até 31 de janeiro de cada ano serão levantados os balanços gerais, os quais com a prestação de contas, serão submetidos ao Ministro do Trabalho, Indústria e Comércio, que os encaminhará ao Tribunal de Contas, para os devidos fins.
 
-<strong>Art</strong>. 13. Compete ao Ministro do Trabalho, Indústria e Comércio:
+**Art**. 13. Compete ao Ministro do Trabalho, Indústria e Comércio:
 
 a) nomear ou designar os membros da Comissão do Impôsto Sindical e da Comissão Técnica de Orientação Sindical;
 
@@ -142,10 +140,10 @@ h) resolver as dúvidas suscitadas na aplicação do presente Regulamento e os c
 
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
-<strong>Art</strong>. 14. Os servidores da CIS e da CTOS, sem prejuízo da manutenção dos atuais Serviços, terão seus vencimentos reajustados mediante proposta dos respectivos Serviços encaminhada ao Ministro do Trabalho, Indústria e Comércio.
+**Art**. 14. Os servidores da CIS e da CTOS, sem prejuízo da manutenção dos atuais Serviços, terão seus vencimentos reajustados mediante proposta dos respectivos Serviços encaminhada ao Ministro do Trabalho, Indústria e Comércio.
 
-<strong>Art</strong>. 15. Revogam-se as disposições em contrário.
+**Art**. 15. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 21 de novembro de 1956.
 
-<strong>PARSIFAL BARROSO</strong>
+**PARSIFAL BARROSO**

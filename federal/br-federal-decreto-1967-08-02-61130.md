@@ -1,5 +1,3 @@
-###DEC-061130-0-000-02-08-1967@@@
-
 DECRETO Nº 61.130, DE 2 DE AGÔSTO DE 1967.
 
 Concede à The Prudential Assurance Company Limited autorização para aumentar o capital destinado às suas operações de Seguros no Brasil.

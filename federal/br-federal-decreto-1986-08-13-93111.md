@@ -1,5 +1,3 @@
-###DEC-093111-0-000-13-08-1986@@@
-
 DECRETO Nº 93.111, DE 13 DE AGOSTO DE 1986
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade Estadual de Educação do Pará.

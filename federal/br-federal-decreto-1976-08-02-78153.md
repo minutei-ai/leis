@@ -1,5 +1,3 @@
-###DEC-078153-0-000-02-08-1976@@@
-
 DECRETO Nº 78.153, DE 2 DE AGOSTO DE 1976.
 
 Autoriza a transferência, para o patrimônio do Instituto Nacional de Colonização e Reforma Agrária - INCRA, do imóvel que menciona, situado no Município de Quaraí, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-000118-0-000-31-01-1967@@@
-
 DeCRETO-LEI Nº 118, de 31 DE JANEIRO DE 1967
 
 Dá nova redação ao Art. 7º da Lei nº 5.165, de 21 de outubro de 1966.

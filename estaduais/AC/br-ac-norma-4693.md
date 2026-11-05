@@ -1,6 +1,10 @@
 > **LEI Nº 3.748, DE 02 DE JULHO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a contratação temporária de excepcional interesse público de médicos formados no exterior, que tenham exercido medicina no Brasil conforme a Lei Federal 12.871, de 22 de outubro de 2013, enquanto durar o estado de emergência em saúde pública decorrente da pandemia da Covid-19.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a contratação temporária de excepcional interesse público de médicos formados no exterior, que tenham exercido medicina no Brasil conforme a Lei Federal 12.871, de 22 de outubro de 2013, enquanto durar o estado de emergência em saúde pública decorrente da pandemia da Covid-19.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

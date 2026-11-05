@@ -1,5 +1,3 @@
-###DEC-055448-0-000-05-01-1965@@@
-
 Decreto nº 55.448, de 5 de janeiro de 1965.
 
 Autoriza o cidadão brasileiro Rodolfo Campolina Marques a pesquisar calcário no município de Sete Lagoas, Estado de Minas Gerais.

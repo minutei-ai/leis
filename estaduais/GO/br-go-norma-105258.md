@@ -1,13 +1,15 @@
 DECRETO Nº 10.065, DE 30 DE MARÇO DE 2022
 
-Autoriza a Diretoria-Geral de Polícia Penal~~Diretoria-Geral de Administração Penitenciária~~ a celebrar os contratos temporários que especifica, altera o [Decreto nº 7.647](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65617/decreto-7647), de 18 de junho de 2012, revoga o [Decreto nº 7.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65696/decreto-7710), de 3 de setembro de 2012 e dá outras providências.<br>
+Autoriza a Diretoria-Geral de Polícia Penal~~Diretoria-Geral de Administração Penitenciária~~ a celebrar os contratos temporários que especifica, altera o [Decreto nº 7.647](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65617/decreto-7647), de 18 de junho de 2012, revoga o [Decreto nº 7.710](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/65696/decreto-7710), de 3 de setembro de 2012 e dá outras providências.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](unsaved://admin.legisla.casacivil.go.gov.br/new_page_1.htm), art. 6º, XVIII.
 
 O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constitucionais e legais, também tendo em vista o que consta do Processo nº 202116448009788,
 
 **DECRETA:**
 
-Art. 1º Fica a Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~ autorizada a celebrar e manter, conforme a [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 318 (trezentos e dezoito) contratos temporários pelo prazo máximo estabelecido na alínea “a” do inciso VI do art. 2º da referida Lei, conforme as especificações dispostas no Anexo Único deste Decreto.<br>
+Art. 1º Fica a Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~ autorizada a celebrar e manter, conforme a [Lei nº 20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 318 (trezentos e dezoito) contratos temporários pelo prazo máximo estabelecido na alínea “a” do inciso VI do art. 2º da referida Lei, conforme as especificações dispostas no Anexo Único deste Decreto.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](unsaved://admin.legisla.casacivil.go.gov.br/new_page_1.htm), art. 6º, XVIII.
 
 Art. 2º O edital de convocação do processo seletivo poderá exigir formação educacional específica compatível com o nível de escolaridade estabelecido no Anexo Único deste Decreto, bem como registro no órgão fiscalizador de exercício profissional, comprovação de especialização, experiência profissional na respectiva área de atuação e outros requisitos necessários à função temporária.
@@ -32,8 +34,6 @@ Art. 7º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 30 de março de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -51,7 +51,8 @@ ANEXO ÚNICO
 
 2 – programar ações para promoção da saúde;
 
-3 – efetuar perícias, auditorias e sindicâncias médicas;4 – elaborar documentos e difundir conhecimentos da área médica;5 – participar das atividades de ensino, pesquisa e extensão, bem como supervisionar estágios de acordo com as necessidades institucionais;6 – desempenhar as atividades de assistência, promoção e recuperação da saúde e habilitação social de modo interdisciplinar;7 – desempenhar atividades relativas à supervisão, ao planejamento, à coordenação, à programação ou à execução especializada, em grau de maior complexidade, de trabalhos de defesa e proteção da saúde individual e coletiva;8 – prestar assistência em saúde mental ambulatorial nos diversos níveis primário, secundário e terciário;9 – prestar assessoria e emitir parecer sobre assuntos, temas e/ou documentos técnico-científicos relacionados a aspectos médicos;10 – participar do planejamento, da execução e da avaliação de planos, projetos e ações conjuntamente com os demais componentes da Gerência de Assistência Biopsicossocial da Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~;11 – compor Comissão Técnica de Classificação, que classifica o preso segundo seus antecedentes e sua personalidade, para orientar a individualização da execução penal; e12 – realizar outras atividades correlatas.<br>
+3 – efetuar perícias, auditorias e sindicâncias médicas;4 – elaborar documentos e difundir conhecimentos da área médica;5 – participar das atividades de ensino, pesquisa e extensão, bem como supervisionar estágios de acordo com as necessidades institucionais;6 – desempenhar as atividades de assistência, promoção e recuperação da saúde e habilitação social de modo interdisciplinar;7 – desempenhar atividades relativas à supervisão, ao planejamento, à coordenação, à programação ou à execução especializada, em grau de maior complexidade, de trabalhos de defesa e proteção da saúde individual e coletiva;8 – prestar assistência em saúde mental ambulatorial nos diversos níveis primário, secundário e terciário;9 – prestar assessoria e emitir parecer sobre assuntos, temas e/ou documentos técnico-científicos relacionados a aspectos médicos;10 – participar do planejamento, da execução e da avaliação de planos, projetos e ações conjuntamente com os demais componentes da Gerência de Assistência Biopsicossocial da Diretoria-Geral de Polícia Penal ~~Diretoria-Geral de Administração Penitenciária~~;11 – compor Comissão Técnica de Classificação, que classifica o preso segundo seus antecedentes e sua personalidade, para orientar a individualização da execução penal; e12 – realizar outras atividades correlatas.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](unsaved://admin.legisla.casacivil.go.gov.br/new_page_1.htm), art. 6º, XVIII.
 
  | Diploma de conclusão de ensino superior em Medicina, com residência em Psiquiatria, expedido por instituição devidamente reconhecida pelo MEC. |

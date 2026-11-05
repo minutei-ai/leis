@@ -1,5 +1,3 @@
-###DEC-048089-0-000-08-04-1960@@@
-
 DECRETO Nº 48.089, DE 8 DE ABRIL DE 1960.
 
 Outorga concessão à Rádio Industrial de Juiz de Fora Limitada para instalar uma estação radiodifusora.

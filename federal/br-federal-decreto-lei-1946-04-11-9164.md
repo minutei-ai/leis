@@ -1,5 +1,3 @@
-###DEL-009164-0-000-11-04-1946@@@
-
 DECRETO-LEI N. 9.164 – DE 11 DE ABRIL DE 1946
 
 Cria o Quadro do Pessoal do Território Federal do Rio Branco

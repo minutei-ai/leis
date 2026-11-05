@@ -1,5 +1,3 @@
-###DEC-081617-0-000-02-05-1978@@@
-
 Decreto nº 81 617, de 02 de maio de 1978.
 
 Concede reconhecimento aos cursos de Educação Artística e de Música da Faculdade de Música "Mozarteum", com sede na cidade de São Paulo, Estado de São Paulo.

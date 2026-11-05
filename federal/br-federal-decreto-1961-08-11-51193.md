@@ -1,5 +1,3 @@
-###DEC-051193-0-000-11-08-1961@@@
-
 DECRETO Nº 51.193, DE 11 DE AGÔSTO DE 1961.
 
 Declara públicas, de uso comum do domínio da União, na parte marítima e do domínio do Estado da Paraíba no restante do seu curso, as águas do rio Meio-Paraíba, Paraíba e Paraíba, respectivamente nos seus trechos superior, médio e inferior.

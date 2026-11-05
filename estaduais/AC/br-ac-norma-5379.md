@@ -1,6 +1,10 @@
 > **LEI Nº 4.061, DE 15 DE DEZEMBRO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 2.265, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores públicos estaduais da Secretaria de Estado da Fazenda – SEFAZ.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 2.265, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores públicos estaduais da Secretaria de Estado da Fazenda – SEFAZ.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

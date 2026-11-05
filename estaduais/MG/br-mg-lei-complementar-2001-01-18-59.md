@@ -5819,7 +5819,3 @@ Justiça Militar de Primeira Instância Número de Juízes 1 - Juiz de Direito T
 (Anexos consolidados pelo Tribunal de Justiça de Minas Gerais - TJMG, publicados no Minas Gerais, Diário do Judiciário em 31/1/2006, pág. 1, col. 1.)
 
 (Vide art. 69 da Lei Complementar nº 105, de 14/8/2008.)
-
-\============================================================
-
-Data da última atualização: 18/7/2024.

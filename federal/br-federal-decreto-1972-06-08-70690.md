@@ -1,5 +1,3 @@
-###DEC-070690-0-000-08-06-1972@@@
-
 Decreto nº 70.690, de 8 de junho de 1972.
 
 Autoriza a cessão do acervo dos Cursos de Preparação de Economia Doméstica Rural aos Municípios que menciona.

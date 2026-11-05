@@ -378,4 +378,4 @@ Brasília, 2 de dezembro de 2019; 198º da Independência e 131º da República
 
 JAIR MESSIAS BOLSONARO
 
-Sérgio Moro<br>
+Sérgio Moro

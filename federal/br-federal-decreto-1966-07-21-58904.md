@@ -1,5 +1,3 @@
-###DEC-058904-0-000-21-07-1966@@@
-
 DECRETO Nº 58.904, DE 21 DE JULHO DE 1966.
 
 Concede à sociedade anônima W. M. Jackson, Inc. autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

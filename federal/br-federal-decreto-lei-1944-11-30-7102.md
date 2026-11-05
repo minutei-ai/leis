@@ -1,5 +1,3 @@
-###DEL-007102-0-000-30-11-1944@@@
-
 DECRETO-LEI N. 7.102 – DE 30 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 15.000,00, à verba que especifica

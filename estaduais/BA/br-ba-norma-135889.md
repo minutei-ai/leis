@@ -2,21 +2,30 @@ LEI Nº 19.528 DE 22 DE JUNHO DE 2005
 
 Reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais e dá outras providências.
 
-Ver também:<br>
-Lei nº 14.026 de 06 de dezembro de 2018 - Altera a Lei nº 9.528, de 22 de junho de 2005, e dá outras providências.<br>
-Lei nº 13.450 de 26 de outubro de 2015 - Altera dispositivos da Lei nº 9.528, de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais.<br>
-Lei nº 12.351 de 08 de setembro de 2011 - Institui mudanças no Sistema de Assistência à Saúde dos Servidores Públicos Estaduais - PLANSERV e altera a Lei nº 9.528, de 22 de junho de 2005.<br>
-Lei nº 11.615, de 06 de novembro de 2009 - Altera dispositivos da Lei nº 9.528, de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais, e dá outras providências. D.O.E. 10.11.2009.<br>
-Lei nº 9.839, de 19 de dezembro de 2005 -  Altera dispositivos da Lei nº 9.528, de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais, e dá outras providências. D.O.E. 20.12.2005.<br>
-Resolução nº 001/2005, do Conselho de Assistência à Saúde dos Servidores Públicos Estaduais - CONSERV,  homologada pelo Decreto nº 9.557, de 27 de setembro de 2005: Aprova o Regimento do Conselho de Assistência à Saúde dos Servidores Públicos Estaduais - CONSERV.<br>
+Ver também:
+
+Lei nº 14.026 de 06 de dezembro de 2018 - Altera a Lei nº 9.528, de 22 de junho de 2005, e dá outras providências.
+
+Lei nº 13.450 de 26 de outubro de 2015 - Altera dispositivos da Lei nº 9.528, de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais.
+
+Lei nº 12.351 de 08 de setembro de 2011 - Institui mudanças no Sistema de Assistência à Saúde dos Servidores Públicos Estaduais - PLANSERV e altera a Lei nº 9.528, de 22 de junho de 2005.
+
+Lei nº 11.615, de 06 de novembro de 2009 - Altera dispositivos da Lei nº 9.528, de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais, e dá outras providências. D.O.E. 10.11.2009.
+
+Lei nº 9.839, de 19 de dezembro de 2005 -  Altera dispositivos da Lei nº 9.528, de 22 de junho de 2005, que reorganiza o Sistema de Assistência à Saúde dos Servidores Públicos Estaduais, e dá outras providências. D.O.E. 20.12.2005.
+
+Resolução nº 001/2005, do Conselho de Assistência à Saúde dos Servidores Públicos Estaduais - CONSERV,  homologada pelo Decreto nº 9.557, de 27 de setembro de 2005: Aprova o Regimento do Conselho de Assistência à Saúde dos Servidores Públicos Estaduais - CONSERV.
+
 Decreto nº 9.552, de 21 de setembro de 2005 - Aprova o Regulamento do Sistema de Assistência à Saúde dos Servidores Públicos Estaduais – PLANSERV.
 
 O GOVERNADOR DO ESTADO DA BAHIA,  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DO SISTEMA DE ASSISTÊNCIA À SAÚDE DOS SERVIDORES PÚBLICOS ESTADUAIS
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º - O Sistema de Assistência à Saúde dos Servidores Públicos Estaduais, organizado por esta Lei, compreende o conjunto de serviços de saúde no âmbito da promoção, prevenção, assistência curativa e reabilitação, prestados diretamente pelo Estado ou através de instituições credenciadas, na forma que dispuser o Regulamento a ser aprovado por Decreto do Governador do Estado.
@@ -61,9 +70,9 @@ II -       a prática, pelo beneficiário, de conduta lesiva ao Sistema de 
 
 § 3º acrescido pela Lei nº 13.450, de 26 de outubro de 2015.
 
-SEÇÃO I -<br>
-DOS TITULARES<br>
-<br>
+SEÇÃO I -
+
+DOS TITULARES
 
 Art. 4º - Poderão ser beneficiários do Sistema de Assistência à Saúde, conforme o disposto no art. 1º, § 2º, desta Lei, na condição de titulares:
 

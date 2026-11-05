@@ -1,5 +1,3 @@
-###DEC-083459-0-000-17-05-1979@@@
-
 decreto nº 83.459, de 17 de maio de 1979.
 
 Autoriza o funcionamento da Escola Superior de Artes de São Caetano do Sul, com o curso de Educação Artística, com sede na cidade de São Caetano do Sul, Estado de São Paulo.

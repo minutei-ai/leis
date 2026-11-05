@@ -1,5 +1,3 @@
-###DEC-057307-0-000-23-11-1965@@@
-
 DECRETO Nº 57.307, DE 23 DE NOVEMBRO DE 1965.
 
 Aprova o Regulamento do Cadastro Geral de Contribuintes, em relação às pessoas jurídicas.

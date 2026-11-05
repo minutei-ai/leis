@@ -1,5 +1,3 @@
-###DEC-087091-0-000-12-04-1982@@@
-
 Decreto nº 87.091, de 12 de abril de 1982
 
 Altera o inciso VI do artigo 31 do Decreto nº 81.240, de 20.01.78, que dispõe sobre as entidades fechadas de previdência privada, e dá outras providências.

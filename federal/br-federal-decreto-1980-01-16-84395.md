@@ -1,5 +1,3 @@
-###DEC-084395-0-000-16-01-1980@@@
-
 Decreto nº 84.395, de 16 de janeiro de 1980
 
 Regulamenta a Lei nº 5.971, de 11 de dezembro de 1973, que dispõe sobre a atividade turfística no País e dá outras providências.
@@ -393,8 +391,6 @@ Brasília, 16 de janeiro de 1980; 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 João Amaury Stábile
-
-###DEC-084395-0-000-16-01-1980@@@RET01+++
 
 DECRETO Nº 84.395, DE 16 DE JANEIRO DE 1980
 

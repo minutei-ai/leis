@@ -1,5 +1,3 @@
-###DEC-059699-0-000-08-12-1966@@@
-
 DECRETO Nº 59.699, DE 8 DE DEZEMBRO DE 1966.
 
 Altera o Regimento do Gabinete Civil, aprovado pelo Decreto número 56.596, de 21 de julho de 1965.

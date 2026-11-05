@@ -1,5 +1,3 @@
-###DEC-054890-0-000-04-11-1964@@@
-
 decreto nº 54.890, de 4 de novembro de 1964.
 
 Declara caduco o Decreto nº 29.413, de 29 de março de 1951.

@@ -1,5 +1,3 @@
-###DEC-004421-0-000-14-10-2002@@@
-
 DECRETO Nº 4.421, DE 14 DE OUTUBRO DE 2002
 
 Dispõe sobre a execução do Sexagésimo Protocolo Adicional ao Acordo de Complementação Econômica no 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 11 de julho de 2002.
@@ -114,7 +112,29 @@ b)As empresas automotivas instaladas no território da República Oriental do Ur
 
 (US$ milhões)
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:58.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ano</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2002</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2003</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2004</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2005</span></p></td><td style="width:54.35pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2006</span></p></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:58.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Quota</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">20</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">55</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">60</span></p></td><td style="width:54.35pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">65</span></p></td></tr><tr style="height:0pt"><td style="width:6.25pt"></td><td style="width:60.1pt"></td><td style="width:55.1pt"></td><td style="width:55.1pt"></td><td style="width:55.1pt"></td><td style="width:55.1pt"></td><td style="width:55.85pt"></td></tr></tbody></table>
+Ano
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+Quota
+
+20
+
+50
+
+55
+
+60
+
+65
 
 Durante o ano 2006, as Partes Signatárias estabelecerão o aumento de quota para os anos seguintes.
 
@@ -122,11 +142,55 @@ Artigo 6.- Acesso de automóveis e veículos comerciais leves, produzidos na Rep
 
 As empresas automotivas produtoras dos bens listados na alínea “a” do Artigo 3, instaladas no território da República Federativa do Brasil, terão o acesso ao mercado da República Oriental do Uruguai com a margem de preferência estabelecida no Artigo 1, limitada às seguintes quantidades anuais:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:73.65pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ano</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2002</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2003</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2004</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2005</span></p></td><td style="width:57.15pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2006</span></p></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:73.65pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Unidades</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2.000</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5.000</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">5.500</span></p></td><td style="width:56.4pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6.000</span></p></td><td style="width:57.15pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">6.500</span></p></td></tr><tr style="height:0pt"><td style="width:6.25pt"></td><td style="width:75.15pt"></td><td style="width:57.9pt"></td><td style="width:57.9pt"></td><td style="width:57.9pt"></td><td style="width:57.9pt"></td><td style="width:58.65pt"></td></tr></tbody></table>
+Ano
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+Unidades
+
+2.000
+
+5.000
+
+5.500
+
+6.000
+
+6.500
 
 À importação de unidades que ultrapassar, no ano, os limites das quotas definidas acima, a República Oriental do Uruguai aplicará margens de preferência sobre a tarifa nacional de importação vigente, conforme o seguinte cronograma:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td><td style="border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:154.2pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ano</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2002</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2003</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2004</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2005</span></p></td><td style="width:54.35pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">2006</span></p></td></tr><tr><td style="width:4.75pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:12pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:154.2pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Margem de Preferência (%)</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">50</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">60</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">65</span></p></td><td style="width:53.6pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">70</span></p></td><td style="width:54.35pt; border-style:solid; border-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">70</span></p></td></tr><tr style="height:0pt"><td style="width:6.25pt"></td><td style="width:155.7pt"></td><td style="width:55.1pt"></td><td style="width:55.1pt"></td><td style="width:55.1pt"></td><td style="width:55.1pt"></td><td style="width:55.85pt"></td></tr></tbody></table>
+Ano
+
+2002
+
+2003
+
+2004
+
+2005
+
+2006
+
+Margem de Preferência (%)
+
+50
+
+60
+
+65
+
+70
+
+70
 
 A partir de 1º de janeiro de 2007 os produtos referidos neste artigo, produzidos por fabricantes instalados na República Federativa do Brasil, terão livre acesso ao mercado da República Oriental do Uruguai nas condições estabelecidas no Artigo 1.
 

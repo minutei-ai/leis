@@ -1,5 +1,3 @@
-###DEC-091913-0-000-12-11-1985@@@
-
 Decreto nº 91.913, de 12 de novembro de 1985
 
 Altera a composição da Comissão de Cartografia - COCAR, e dá outras providências.
@@ -45,8 +43,6 @@ Brasília, 12 de novembro de 1985; 164º da Independência e 97º da República.
 José Sarney
 
 Renato Archer
-
-###DEC-091913-0-000-12-11-1985@@@RET01+++
 
 # decreto nº 91.913, de 12 novembro de 1985
 

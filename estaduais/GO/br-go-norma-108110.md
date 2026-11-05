@@ -88,7 +88,8 @@ IX – o respeito à diversidade cultural da população negra, bem como dos pov
 
 X – a cooperação e o intercâmbio de experiências antirracistas entre as instituições partícipes para que haja atuação dialogal na promoção da igualdade racial;
 
-XI – a criação do Plano Estadual de Promoção da Igualdade Racial.<br>
+XI – a criação do Plano Estadual de Promoção da Igualdade Racial.
+
 \- [Acrescido pelo Decreto nº 10.726, de 9-7-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111051).
 
 Art. 5º O Pacto Goiás Sem Racismo será formalizado por meio de Protocolo de Intenções, conforme o modelo constante do Anexo Único deste Decreto.

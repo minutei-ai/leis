@@ -1,5 +1,3 @@
-###DEC-004388-0-000-25-09-2002@@@
-
 DECRETO Nº 4.388, DE 25 DE SETEMBRO DE 2002
 
 Promulga o Estatuto de Roma do Tribunal Penal Internacional.

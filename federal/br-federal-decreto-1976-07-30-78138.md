@@ -1,5 +1,3 @@
-###DEC-078138-0-000-30-07-1976@@@
-
 DECRETO Nº 78.138, DE 30 DE JULHO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação pela Siderurgia Brasileira S.A. - SIDERBRAS, em favor de sua subsidiária Companhia Siderúrgica Paulista - COSIPA, os imóveis que menciona, situados em Piaçaguera, Município de Cubatão, Estado de São Paulo.

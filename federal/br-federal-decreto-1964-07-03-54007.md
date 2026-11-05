@@ -1,5 +1,3 @@
-###DEC-054007-0-000-03-07-1964@@@
-
 DECRETO Nº 54.007, de 3 de julho de 1964.
 
 Altera a letra b) do art. 5º do Decreto nº 319, de 7 de dezembro de 1961.

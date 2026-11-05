@@ -1,14 +1,12 @@
-###DEC-021771-0-000-30-08-1946@@@
+**DECRETO Nº 21.771, DE 30 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.771, DE 30 DE AGÔSTO DE 1946.</strong>
+***Estabelece os limites máximos para concessão de gratificação de representação a militares no estrangeiro.***
 
-<em><strong>Estabelece os limites máximos para concessão de gratificação de representação a militares no estrangeiro.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1° Na elaboração das tabelas a que se refere o § 1° do art. 1° do Decreto-lei n° 9.689, de 30 de agôsto de 1946, ficam estabelecidos os seguintes limites máximos:
+**Art**. 1° Na elaboração das tabelas a que se refere o § 1° do art. 1° do Decreto-lei n° 9.689, de 30 de agôsto de 1946, ficam estabelecidos os seguintes limites máximos:
 
 I - ao militar designado para missão especial (diplomática ou correlata, a juízo do Govêrno), até três vezes o vencimento mensal simples;
 
@@ -24,13 +22,13 @@ IV - ao militar em missão de estudo por prazo igual ou superior a um ano e acom
 
 V - ao militar embarcado e só que tiver, quando em comissão de terra, alojamento e alimentação por conta do Estado, uma vez o vencimento mensal simples.
 
-<strong>Art</strong>. 2° Êste decreto entrará em vigor em 1 de setembro do corrente ano.
+**Art**. 2° Êste decreto entrará em vigor em 1 de setembro do corrente ano.
 
-<strong>Art</strong>. 3° Revogam-se as disposições em contrário.
+**Art**. 3° Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 30 de agôsto de 1946; 125° da Independência e 58° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Jorge Dodsworth Martins
 

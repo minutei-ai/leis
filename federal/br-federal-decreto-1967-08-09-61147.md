@@ -1,5 +1,3 @@
-###DEC-061147-0-000-09-08-1967@@@
-
 DECRETO Nº 61.147, DE 9 DE AGÔSTO DE 1967.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 45.817, de 16 de abril de 1959, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do Açude Público “Barra”, no Município de Sertânia, Estado de Pernambuco.

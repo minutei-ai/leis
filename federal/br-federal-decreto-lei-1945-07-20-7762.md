@@ -1,5 +1,3 @@
-###DEL-007762-0-000-20-07-1945@@@
-
 DECRETO-LEI N. 7.762 – DE 20 DE JULHO DE 1945
 
 Altera a letra “b” do art. 1º do Decreto-lei nº 7.466, de 16 de abril de 1945

@@ -1,5 +1,3 @@
-###DEL-003509-0-000-15-08-1941@@@
-
 DECRETO-LEI N. 3.509 – DE 15 DE AGOSTO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial; de 775:722$8, para restituição ao Estado de Alagoas.

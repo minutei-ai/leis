@@ -1,5 +1,3 @@
-###DEC-006424-0-000-04-04-2008@@@
-
 DECRETO Nº 6.424, DE 4 DE ABRIL DE 2008.
 
 Altera e acresce dispositivos ao Anexo do Decreto no 4.769, de 27 de junho de 2003, que aprova o Plano Geral de Metas para a Universalização do Serviço Telefônico Fixo Comutado prestado no Regime Público - PGMU.
@@ -95,5 +93,3 @@ Brasília, 4 de abril de 2008; 187º da Independência e 120º da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Helio Costa
-
-Este texto não substitui o publicado no DOU de 7.4.2008

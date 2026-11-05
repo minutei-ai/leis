@@ -1,5 +1,3 @@
-###DEL-002015-0-000-23-02-1983@@@
-
 # Decreto-lei nº 2.015, de 23 de fevereiro de 1983.
 
 Dá nova redação ao artigo 1º, do Decreto-lei nº 1.477, de 26 de agosto de 1976.

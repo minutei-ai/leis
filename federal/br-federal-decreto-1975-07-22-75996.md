@@ -1,5 +1,3 @@
-###DEC-075996-0-000-22-07-1975@@@
-
 DECRETO Nº 75.996 - DE 22 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas, mantida pela Fundação Educacional Dom André Arcoverde, com sede na cidade de Valença, Estado do Rio de Janeiro.

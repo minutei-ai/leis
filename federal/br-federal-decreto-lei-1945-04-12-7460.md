@@ -1,5 +1,3 @@
-###DEL-007460-0-000-12-04-1945@@@
-
 DECRETO-LEI N. 7.460 – DE 12 DE ABRIL DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 1.500.000,00, à verba que especifica

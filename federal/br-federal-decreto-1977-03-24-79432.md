@@ -1,5 +1,3 @@
-###DEC-079432-0-000-24-03-1977@@@
-
 DECRETO Nº 79.432, DE 24 DE MARÇO DE 1977.
 
 Concede à Mineração Geral do Nordeste S.A. o direito de lavrar areia quartzosa, no Município de Pacajús, Estado do Ceará.

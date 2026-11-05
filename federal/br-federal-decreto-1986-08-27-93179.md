@@ -1,5 +1,3 @@
-###DEC-093179-0-000-27-08-1986@@@
-
 DECRETO Nº 93.179, DE 27 DE AGOSTO DE 1986
 
 Declara de utilidade pública a instituição que menciona.

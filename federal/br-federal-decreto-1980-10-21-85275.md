@@ -1,5 +1,3 @@
-###DEC-085275-0-000-21-10-1980@@@
-
 decreto nº 85.275, de 21 de outubro de 1980
 
 Autoriza o aumento de potência da RÁDIO SOCIEDADE NOVA ESPERANÇA LTDA., na cidade de Nova Esperança, Estado do Paraná.

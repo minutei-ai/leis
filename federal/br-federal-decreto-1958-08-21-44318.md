@@ -1,34 +1,32 @@
-###DEC-044318-0-000-21-08-1958@@@
+**DECRETO Nº 44.318, DE 21 DE AGÔSTO DE 1958.**
 
-<strong>DECRETO Nº 44.318, DE 21 DE AGÔSTO DE 1958.</strong>
+***Aprova o Regimento do Serviço Nacional de Teatro, do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Serviço Nacional de Teatro, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Nacional de Teatro, do Ministério da Educação e Cultura, que com êste baixa assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Nacional de Teatro, do Ministério da Educação e Cultura, que com êste baixa assinado pelo respectivo Ministro de Estado.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 21 de agôsto de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clóvis Salgado
 
-<strong>REGIMENTO DO SERVIÇO NACIONAL DE TEATRO</strong>
+**REGIMENTO DO SERVIÇO NACIONAL DE TEATRO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço Nacional de Teatro (S.N.Te), criado pelo Decreto-lei nº 92, de 21-12-37 é órgão integrante do Ministério da Educação e Cultura, diretamente subordinado ao Ministro de Estado e se destina a promover o desenvolvimento e o aperfeiçoamento da arte teatral como instrumento de cultura e educação do povo no Brasil.
+**Art**. 1º O Serviço Nacional de Teatro (S.N.Te), criado pelo Decreto-lei nº 92, de 21-12-37 é órgão integrante do Ministério da Educação e Cultura, diretamente subordinado ao Ministro de Estado e se destina a promover o desenvolvimento e o aperfeiçoamento da arte teatral como instrumento de cultura e educação do povo no Brasil.
 
-<strong>Art</strong>. 2º Ao S.N.Te, compete:
+**Art**. 2º Ao S.N.Te, compete:
 
 I - incentivas as atividades teatrais e correlatas, cooperando com as companhias de qualquer gênero cômico através de assistência técnica e cultural, para a realização de espetáculos, especialmente de teatros brasileiros de comédia.
 
@@ -54,11 +52,11 @@ XI - incentivar o desenvolvimento do teatro ambulante em todo o território naci
 
 XII - manter cursos de formação de diretores, atores, cenógrafos, coreógrafos e profissionais de especializações correlatas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º O S.N.Te compreende:
+**Art**. 3º O S.N.Te compreende:
 
 I - Conservatório de Teatro - (C.Te).
 
@@ -82,21 +80,21 @@ IV - Biblioteca (B.)
 
 V - Museu (M.)
 
-<strong>Art</strong>. 4º O S.N.Te, terá um Diretor, nomeado, em comissão, pelo Presidente da República.
+**Art**. 4º O S.N.Te, terá um Diretor, nomeado, em comissão, pelo Presidente da República.
 
 Parágrafo único. O Diretor do S.N.Te terá um Secretário por êle designado dentre servidores públicos federais.
 
-<strong>Art</strong>. 5º O C.Te terá um Coordenador, de reconhecida capacidade técnica, designado pelo Diretor do S.N.Te, dentre servidores públicos federais.
+**Art**. 5º O C.Te terá um Coordenador, de reconhecida capacidade técnica, designado pelo Diretor do S.N.Te, dentre servidores públicos federais.
 
-<strong>Art</strong>. 6º As Seções terão Chefes, os Setores e Biblioteca e a Portaria, Encarregados, designados pelo Diretor do Serviço, dentre servidores públicos federais.
+**Art**. 6º As Seções terão Chefes, os Setores e Biblioteca e a Portaria, Encarregados, designados pelo Diretor do Serviço, dentre servidores públicos federais.
 
-<strong>Art</strong>. 7º Os órgãos que integram o S.N.Te, funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Diretor do Serviço.
+**Art**. 7º Os órgãos que integram o S.N.Te, funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Diretor do Serviço.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 8º Compete ao Conservatório de Teatro (C.T.).
+**Art**. 8º Compete ao Conservatório de Teatro (C.T.).
 
 I - formar ou aperfeiçoar, mediante ensino sistematizado, intérpretes teatrais, bem como o pessoal especializado em cenografia, em cenotécnica, direção e especializações correlatas;
 
@@ -110,9 +108,9 @@ V - promover o intercâmbio com instituições congêneres do país e do estrang
 
 VI - selecionar entre os alunos dos seus cursos os que devem integrar os conjuntos experimentais que o S.N.Te, organizar.
 
-<strong>Art</strong>. 9º Compete à Seção Técnica prestar assistência ao teatro, contribuindo para a promoção de espetáculos através de grupos experimentais ou de outros que venham o S.N.Te a criar.
+**Art**. 9º Compete à Seção Técnica prestar assistência ao teatro, contribuindo para a promoção de espetáculos através de grupos experimentais ou de outros que venham o S.N.Te a criar.
 
-<strong>Art</strong>. 10. Ao Setor de Planejamento, Orientação e Contrôle compete:
+**Art**. 10. Ao Setor de Planejamento, Orientação e Contrôle compete:
 
 I - Dar assistência técnica às organizações teatrais, qualquer que seja sua modalidade ou gênero cênico;
 
@@ -130,7 +128,7 @@ VII - Realizar o levantamento da produção teatral brasileira e estrangeira, ma
 
 Parágrafo único. Na elaboração do plano a que se refere o item anterior dêste artigo, levar-se-ão em conta, especialmente, as atividades consubstanciadas no item II do art. 2º dêste Regimento.
 
-<strong>Art</strong>. 11. Ao Setor de Difusão Cultural, compete:
+**Art**. 11. Ao Setor de Difusão Cultural, compete:
 
 I - Preparar as bases dos concursos de peças de teatro;
 
@@ -154,7 +152,7 @@ X - Providenciar a expedição das obras editadas;
 
 XI - Editar peças e estudos de significação artística e técnica, relativos a teatro.
 
-<strong>Art</strong>. 12. À Biblioteca compete:
+**Art**. 12. À Biblioteca compete:
 
 I - adquirir, registrar, classificar, catalogar, conservar e permutar peças e obras em geral sôbre assuntos de teatro;
 
@@ -162,13 +160,13 @@ II - fazer o inventario da produção brasileira e portuguesa em matéria de tea
 
 III - manter intercâmbio com bibliotecas e organizações afins.
 
-<strong>Art</strong>. 13. Ao Museu compete:
+**Art**. 13. Ao Museu compete:
 
 I - Coligir, confeccionar e classificar todo o material que interesse ao teatro;
 
 II - Promover exposições sôbre teatro.
 
-<strong>Art</strong>. 14. À Seção Administrativa compete:
+**Art**. 14. À Seção Administrativa compete:
 
 I - prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do S.N.Te, em harmonia com os órgãos do Departamento de Administração, cujas normas e métodos de trabalho deverá observar;
 
@@ -204,11 +202,11 @@ V - proceder e manter atualizado o inventário do material permanente;
 
 VI - fornecer os dados necessários à elaboração da proposta orçamentária relativa a material.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 15. Ao Diretor do S.N.Te incumbe:
+**Art**. 15. Ao Diretor do S.N.Te incumbe:
 
 I - dirigir as atividades do S.N.Te, incentivar e coordenar o trabalho dos seus vários órgãos;
 
@@ -262,7 +260,7 @@ XXV - promover a admissão e dispensa do pessoal extranumerário, nos têrmos da
 
 XXVI - propor ao Ministro a designação de comissões especializadas para examinar todo e qualquer problema de ordem administrativa, técnica e cultural relacionado com as atividades do S.N.Te.
 
-<strong>Art</strong>. 16. Aos Chefes de Seção e ao Coordenar do C.Te, incumbe:
+**Art**. 16. Aos Chefes de Seção e ao Coordenar do C.Te, incumbe:
 
 I - dirigir, fiscalizar e coordenar os serviços dos setores que lhe são subordinados;
 
@@ -280,7 +278,7 @@ VII - propor ao Diretor as medidas que julgarem adequadas à boa marcha do órg�
 
 VIII - emitir parecer sôbre assuntos submetidos a estudo do órgão sua chefia.
 
-<strong>Art</strong>. 17. Aos Encarregados de Setor incumbe:
+**Art**. 17. Aos Encarregados de Setor incumbe:
 
 I - chefiar o órgão sob sua responsabilidade;
 
@@ -298,7 +296,7 @@ VII - expedir o boletim de merecimento dos servidores que lhes estão diretament
 
 VIII - autenticar documentos e respectivas cópias que tiverem de ser expedidos ou tiverem de ser submetidos à autoridade superior.
 
-<strong>Art</strong>. 18. Ao Secretário do Diretor incumbe:
+**Art**. 18. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor do S.N.Te, encaminhado-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -308,13 +306,13 @@ III - redigira correspondência pessoal do Diretor;
 
 IV - encarregar-se de outras tarefas que lhe forem cometidas pelo Diretor.
 
-<strong>Art</strong>. 19. Aos servidores em exercício no S.N.Te, que não tenham atribuições especificadas neste Regimento incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art**. 19. Aos servidores em exercício no S.N.Te, que não tenham atribuições especificadas neste Regimento incumbe executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Das Substituições</em>
+*Das Substituições*
 
-<strong>Art</strong>. 20. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 (trinta) dias:
+**Art**. 20. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 (trinta) dias:
 
 I - o Diretor do S.N.Te, por um dos chefes de Seção por êle previamente indicado e designado pelo Ministro de Estado;
 
@@ -324,28 +322,28 @@ III - o Coordenador do C.Te por um dos professores, designado pelo Diretor do S.
 
 Parágrafo único. Haverá sempre servidores previamente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 21. O horário normal de trabalho será fixado pelo Diretor do S.N.Te, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 21. O horário normal de trabalho será fixado pelo Diretor do S.N.Te, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 22. O horário do pessoal designado para o serviço externo será estabelecido de acôrdo com as exigências do trabalho, observado o mínimo de horas semanais, estabelecidas para o Serviço Público Civil.
+**Art**. 22. O horário do pessoal designado para o serviço externo será estabelecido de acôrdo com as exigências do trabalho, observado o mínimo de horas semanais, estabelecidas para o Serviço Público Civil.
 
-<strong>Art</strong>. 23. O Diretor do S.N.Te não está sujeito a ponto devendo, porém, observar o disposto fixado no art. 5º da Lei nº 2.188, de 3 de março de 1954.
+**Art**. 23. O Diretor do S.N.Te não está sujeito a ponto devendo, porém, observar o disposto fixado no art. 5º da Lei nº 2.188, de 3 de março de 1954.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Disposições Gerais</em>
+*Das Disposições Gerais*
 
-<strong>Art</strong>. 24. Cada Seção do S.N.Te deve organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, instruções e ordens de serviço que digam respeito às suas atividades específicas.
+**Art**. 24. Cada Seção do S.N.Te deve organizar e manter atualizada uma coleção de leis, regulamentos, circulares, portarias, instruções e ordens de serviço que digam respeito às suas atividades específicas.
 
-<strong>Art</strong>. 25. A Secretaria e os Cursos do C.N.Te funcionarão de acôrdo com o Regulamento a ser baixado pelo Diretor do S.N.Te.
+**Art**. 25. A Secretaria e os Cursos do C.N.Te funcionarão de acôrdo com o Regulamento a ser baixado pelo Diretor do S.N.Te.
 
-<strong>Art</strong>. 26. O S.N.Te poderá assinar convênios com os governos dos Estados, Territórios e Municípios e Distrito Federal, visando promover o desenvolvimento do teatro nacional.
+**Art**. 26. O S.N.Te poderá assinar convênios com os governos dos Estados, Territórios e Municípios e Distrito Federal, visando promover o desenvolvimento do teatro nacional.
 
-<strong>Art</strong>. 27. Os cargos omissos serão resolvidos pelo Diretor do S.N.Te.
+**Art**. 27. Os cargos omissos serão resolvidos pelo Diretor do S.N.Te.
 
 Rio de Janeiro, em 21 de agôsto de 1958.
 
-<strong>CLÓVIS SALGADO</strong>
+**CLÓVIS SALGADO**

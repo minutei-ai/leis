@@ -1,5 +1,3 @@
-###DEL-006670-0-000-10-07-1944@@@
-
 DECRETO-LEI N. 6.670 – DE 10 DE JULHO DE 1944
 
 Altera as carreiras de Patrão e Marinheiro, do Quadro Suplementar do Ministério da Fazenda, e dá outras providências

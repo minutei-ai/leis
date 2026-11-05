@@ -1,5 +1,3 @@
-###DEL-003472-0-000-28-07-1941@@@
-
 DECRETO-LEI N. 3.472 – DE 28 DE JULHO E 1941
 
 Autoriza a Prefeitura do Distrito Federal a receber bens em doação e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-075272-0-000-23-01-1975@@@
-
 DECRETO Nº 75.272, DE 23 DE JANEIRO DE 1975.
 
 Concede reconhecimento ao curso de Química da Faculdade de Filosofia, Ciências e Letras "Farias Bruto", mantida pela Associação Paulista de Educação e Cultura, com sede na cidade de Guarulhos, Estado de São Paulo.

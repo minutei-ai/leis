@@ -1,5 +1,3 @@
-###DEC-005963-0-000-14-11-2006@@@
-
 DECRETO Nº 5.963 DE 14 DE NOVEMBRO DE 2006.
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Alcance Parcial nº 38, de 30 de maio de 2006, assinado ao amparo do artigo 25 do Tratado de Montevidéu, entre os Governos da República Federativa do Brasil e da República Cooperativista da Guiana.
@@ -20,11 +18,7 @@ Brasília, de de 2006; 185º da Independência e 118º da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-        Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.11.2006
-
-ACORDO DE ALCANCE PARCIAL ENTRE A REPÚBLICA FEDERATIVA DO
+        Celso Luiz Nunes AmorimACORDO DE ALCANCE PARCIAL ENTRE A REPÚBLICA FEDERATIVA DO
 
 BRASIL E A REPÚBLICA COOPERATIVISTA DA GUIANA
 

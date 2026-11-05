@@ -1,5 +1,3 @@
-###DEC-048696-0-000-04-08-1960@@@
-
 DECRETO Nº 48.696, de 04 DE agôsto DE 1960.
 
 Declara de utilidade pública, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à construção do açude público “Garanhuns” no município de Garanhuns, no Estado de Pernambuco.

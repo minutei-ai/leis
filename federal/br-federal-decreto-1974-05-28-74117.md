@@ -1,5 +1,3 @@
-###DEC-074117-0-000-28-05-1974@@@
-
 DECRETO Nº 74.117, DE 28 DE MAIO DE 1974.
 
 Reconhece direito à readaptação em favor de Lauro Mário Campos.

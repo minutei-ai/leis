@@ -1,5 +1,3 @@
-###DEC-060344-0-000-09-03-1967@@@
-
 DECRETO Nº 60.344, DE 9 DE MARÇO DE 1967.
 
 Aprova o Regulamento do Serviço Social do Comércio (SESC.).

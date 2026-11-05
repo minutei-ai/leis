@@ -1,46 +1,44 @@
-###DEC-027646-0-000-28-12-1949@@@
+**DECRETO Nº 27.646, DE 28 DE DEZEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.646, DE 28 DE DEZEMBRO DE 1949.</strong>
+***Aprova as instruções sôbre Regime Disciplinar da Comissão de Readaptação dos Incapazes das Fôrças Armadas.***
 
-<em><strong>Aprova as instruções sôbre Regime Disciplinar da Comissão de Readaptação dos Incapazes das Fôrças Armadas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as Instruções sôbre o Regime Disciplinar a que estão sujeitos os Incapazes das Forças Armadas, que forem mandados adir ao Centro de Readaptação da Comissão de Readaptação dos Incapazes das Fôrças Armadas, que a êste acompanham.
 
-<strong>Art</strong>. 1º Ficam aprovadas as Instruções sôbre o Regime Disciplinar a que estão sujeitos os Incapazes das Forças Armadas, que forem mandados adir ao Centro de Readaptação da Comissão de Readaptação dos Incapazes das Fôrças Armadas, que a êste acompanham.
-
-<strong>Art</strong>. 2º O presente decreto entrará dm vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará dm vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de dezembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Adroaldo Mesquita da Consta
 
-<strong>PRESIDÊNCIA DA REPÚBLICA</strong>
+**PRESIDÊNCIA DA REPÚBLICA**
 
-<strong>C. R. I. F. A.</strong>
+**C. R. I. F. A.**
 
-<strong>INSTRUÇÕES SÔBRE REGIME DISCIPLINAR</strong>
+**INSTRUÇÕES SÔBRE REGIME DISCIPLINAR**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 1º As presente instruções estabelecem o regime disciplinar a que estão sujeitos os Incapazes das Fôrças Armadas que, após reformados forem mandados, adir ao Centro de Readaptação (C. R.) para fins de readaptação, sendo extensivo àqueles que, a critério da Comissão, forem igualmente mandados internar no Centro com a finalidade readaptação.
+**Art**. 1º As presente instruções estabelecem o regime disciplinar a que estão sujeitos os Incapazes das Fôrças Armadas que, após reformados forem mandados, adir ao Centro de Readaptação (C. R.) para fins de readaptação, sendo extensivo àqueles que, a critério da Comissão, forem igualmente mandados internar no Centro com a finalidade readaptação.
 
 § 1º Os casos omissos ou duvidosos que se verificarem na aplicação das presentes Instruções serão submetidos à decisão da Presidência da C. R. I. F. A., a qual decidirá da conveniência de estudo pela Comissão em plenário, se for o caso.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DOS DEVERES ATRIBUIÇÕES E RESPONSABILIDADE DOS READAPTANDOS</em>
+*DOS DEVERES ATRIBUIÇÕES E RESPONSABILIDADE DOS READAPTANDOS*
 
-<strong>Art</strong>. 2º Conquanto não estejam submetidos a um rigoroso regime disciplinar militar, mas, pelo contrário, a uma liberdade tão ampla quanto possível que lhe permita desenvolver o espírito de iniciativa, de auto-contrôle-crítica, e revela os próprios defeitos e qualidades, acham-se os internos (adidos) sob uma constante e acurada observação do C. R. e da Seção Técnica (S. T.) e das Chefias dos Órgãos Auxiliares autorizados e sujeitos ao Regulamento Disciplinar do Exército de conformidade com os itens <em>c</em> e <em>d</em> do art. 10 do referido Regulamento.
+**Art**. 2º Conquanto não estejam submetidos a um rigoroso regime disciplinar militar, mas, pelo contrário, a uma liberdade tão ampla quanto possível que lhe permita desenvolver o espírito de iniciativa, de auto-contrôle-crítica, e revela os próprios defeitos e qualidades, acham-se os internos (adidos) sob uma constante e acurada observação do C. R. e da Seção Técnica (S. T.) e das Chefias dos Órgãos Auxiliares autorizados e sujeitos ao Regulamento Disciplinar do Exército de conformidade com os itens *c* e *d* do art. 10 do referido Regulamento.
 
-<strong>Art</strong>. 3º Os resultados dessa observação serão dados a conhecer, sob a forma de Boletim informativo, pela Chefia do C. R. ao Presidente da Comissão, periódicamente e quando solicitado.
+**Art**. 3º Os resultados dessa observação serão dados a conhecer, sob a forma de Boletim informativo, pela Chefia do C. R. ao Presidente da Comissão, periódicamente e quando solicitado.
 
-<strong>Art</strong>. 4º Competem aos Internados os seguintes deveres e atribuições:
+**Art**. 4º Competem aos Internados os seguintes deveres e atribuições:
 
 I - Respeitar rigorosamente todas as normas de serviços traçadas para funcionamento do Centro.
 
@@ -92,41 +90,41 @@ XXIV - Não é permitida a entrada de crianças ou menores no C. R., salvo quand
 
 XXV - É vedada aos visitantes e pessoas estranhas ao serviço a entrada e permanência nas dependência de serviço, bem como no alojamento (dormitório).
 
-<strong>Art</strong>. 5º Aos internados (adidos) estão afetas as responsabilidades decorrentes do não cumprimento dos deveres e atribuições previstos no artigo anterior, bem assim as resultantes da não observância das regras de disciplina e de bom comportamento com que devem pautar sua conduta, dentro e fora do Centro, em particular e pùblicamente, sabido que do seu conceito irá depender o procedimento readaptativo e que êsse procedimento reflete sôbre o bom nome da Instituição e dos que nelas se acham internados.
+**Art**. 5º Aos internados (adidos) estão afetas as responsabilidades decorrentes do não cumprimento dos deveres e atribuições previstos no artigo anterior, bem assim as resultantes da não observância das regras de disciplina e de bom comportamento com que devem pautar sua conduta, dentro e fora do Centro, em particular e pùblicamente, sabido que do seu conceito irá depender o procedimento readaptativo e que êsse procedimento reflete sôbre o bom nome da Instituição e dos que nelas se acham internados.
 
-<strong>Art</strong>. 6º Aprovada pela C. R .I. F. A. a atividade profissional, seguirá o readaptamento tôdas as etapas necessárias à readaptação.
+**Art**. 6º Aprovada pela C. R .I. F. A. a atividade profissional, seguirá o readaptamento tôdas as etapas necessárias à readaptação.
 
 Parágrafo único. A. modificação ou outra indicação de atividade profissional só S. T. à Comissão que decidirá da conveniência da medida.
 
-<strong>Art</strong>. 7º Desde que o readaptado ou adido declara que não deseja receber os benefícios da readaptação terá um prazo de 10 dias, improrrogáveis para abandonar o C. R.
+**Art**. 7º Desde que o readaptado ou adido declara que não deseja receber os benefícios da readaptação terá um prazo de 10 dias, improrrogáveis para abandonar o C. R.
 
-<strong>Art</strong>. 8º Fora das horas de repouso, de alimentação, recreio ou normas readaptativas para evitar ociosidade, poderão os adidos (internados), quando solicitados pelos Chefes das diversas secções e de acôrdo com suas condições físicas, mentais e intelectuais exercer atividades outras nos órgãos Auxiliares da C. R. I. F. A.
+**Art**. 8º Fora das horas de repouso, de alimentação, recreio ou normas readaptativas para evitar ociosidade, poderão os adidos (internados), quando solicitados pelos Chefes das diversas secções e de acôrdo com suas condições físicas, mentais e intelectuais exercer atividades outras nos órgãos Auxiliares da C. R. I. F. A.
 
 Parágrafo único. O Chefe da S. T. indicará, especificadamente, aos outros chefes a natureza dessas atividades.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DAS LICENÇAS</em>
+*DAS LICENÇAS*
 
-<strong>Art</strong>. 9º Só por concessão do Presidente da C. R. I. F. A., serão facultadas aos internados no Centro licenças por prazo variável para tratar de interêsses particulares, gozá-las no seio da família ou outras finalidades.
+**Art**. 9º Só por concessão do Presidente da C. R. I. F. A., serão facultadas aos internados no Centro licenças por prazo variável para tratar de interêsses particulares, gozá-las no seio da família ou outras finalidades.
 
 Parágrafos único. Dessa ocorrência dará o Presidente da C. R. I. F. A. conhecimento aos demais Membros da Comissão, esclarecendo ainda os motivos que determinaram a licença.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>DAS PERMISSÕES DE SAÍDA</em>
+*DAS PERMISSÕES DE SAÍDA*
 
-<strong>Art</strong>. 10. Os internados (adidos) no C. R. terão em princípio permissão para sair às quintas-feiras, domingos e feriados e nos outros dias a critério do Centro, ouvida a S. T., quando necessário e deverão regressar aos C. R. no máximo às 23 horas.
+**Art**. 10. Os internados (adidos) no C. R. terão em princípio permissão para sair às quintas-feiras, domingos e feriados e nos outros dias a critério do Centro, ouvida a S. T., quando necessário e deverão regressar aos C. R. no máximo às 23 horas.
 
 § 1º As saídas ficam, entretanto, condicionadas às necessidades das atividades escolares, tratamento, exames, regime alimentar, de repouso outras normas, do procedimento redaptativo.
 
 § 2º O mau comportamento, dentro ou fora do Centro, será um motivo ponderável para que seja denegada a concessão da medida ou feita a mesma sob restrições.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DAS MEDIDAS DISCIPLINARES</em>
+*DAS MEDIDAS DISCIPLINARES*
 
-<strong>Art</strong>. 11. Além de outras sanções, previstas em leis ou regulamentos especiais, são medidas disciplinares:
+**Art**. 11. Além de outras sanções, previstas em leis ou regulamentos especiais, são medidas disciplinares:
 
 I - Advertência;
 
@@ -152,21 +150,21 @@ V - Suspensão temporária da Concessão de licenças;
 
 VI - Dispensa de readaptação, aplicável aos casos de incapacidade moral, incompatível com a readaptação.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DA COMPETÊNCIA PARA APLICAÇÃO</em>
+*DA COMPETÊNCIA PARA APLICAÇÃO*
 
-<strong>Art</strong>. 12. São competentes para a aplicação das medidas disciplinares, previstas no artigo 11, as seguintes autoridades:
+**Art**. 12. São competentes para a aplicação das medidas disciplinares, previstas no artigo 11, as seguintes autoridades:
 
 a) O Presidente da Comissão, para tôdas e quaisquer medidas disciplinares;
 
 b) O Chefe do Centro, para as médias de ns. I, II, III E IV do artigo
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>DAS RECOMPENSAS</em>
+*DAS RECOMPENSAS*
 
-<strong>Art</strong>. 13. Além de outras, previstas em leis e regulamentos especiais, são recompensas:
+**Art**. 13. Além de outras, previstas em leis e regulamentos especiais, são recompensas:
 
 a) O elogio, que deverá sempre constar dos assentamentos;
 
@@ -176,11 +174,11 @@ c) Concessão de licenças;
 
 d) Outras, no entender e a critério do Presidente da Comissão.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>DA COMPETÊNCIA PARA A. CONCESSÃO</em>
+*DA COMPETÊNCIA PARA A. CONCESSÃO*
 
-<strong>Art</strong>. 14. São competentes para a concessão das recompensas previstas no artigo 13 as seguintes autoridades:
+**Art**. 14. São competentes para a concessão das recompensas previstas no artigo 13 as seguintes autoridades:
 
 a) O Presidente da Comissão para tôdas as recompensas;
 
@@ -188,4 +186,4 @@ b) O Chefe do Centro para a recompensa da alínea a.
 
 Rio de Janeiro, em 28 de dezembro de 1949.
 
-<strong>ADROALDO MESQUITA DA COSTA</strong>
+**ADROALDO MESQUITA DA COSTA**

@@ -1,5 +1,3 @@
-###DEL-006052-0-000-30-11-1943@@@
-
 DECRETO – LEI N. 6.052 – DE 30 DE NOVEMBRO DE 1943
 
 Torna sem aplicação a importância de Cr$ 4.500.000,00 de crédito orçamen­tário do Ministério da Educação e Saúde e abre crédito especial de idên­tica importância .

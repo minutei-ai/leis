@@ -1,5 +1,3 @@
-###DEC-064047-0-000-31-01-1969@@@
-
 DECRETO Nº 64.047, DE 31 DE JANEIRO DE 1969.
 
 Estabelece normas para o abate do gado bovino no ano de 1969 e determina outras providências.

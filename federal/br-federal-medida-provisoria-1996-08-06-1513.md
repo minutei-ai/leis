@@ -1,7 +1,3 @@
-1
-
-###MPV-001513-0-000-06-08-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.513, DE 6 DE AGOSTO DE 1996.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor do Ministério dos Transportes, crédito extraordinário até o limite de R$106.000.000,00, para os fins que especifica.

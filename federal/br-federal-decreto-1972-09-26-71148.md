@@ -1,5 +1,3 @@
-###DEC-071148-0-000-26-09-1972@@@
-
 DECRETO Nº 71.148, DE 26 DE SETEMBRO DE 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de um terreno, feita pela municipalidade de Cabedelo, Paraíba, para a construção de residência funcional do Serviço de Balizamento do Ministério da Marinha, naquela cidade.

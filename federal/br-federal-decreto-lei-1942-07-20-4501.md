@@ -1,5 +1,3 @@
-###DEL-004501-0-000-20-07-1942@@@
-
 DECRETO-LEI N. 4.501 – DE 20 DE JULHO DE 1942
 
 Prorroga o prazo referido no parágrafo único do art. 2.º do decreto-lei número 2. 618, de 23 de setembro de 1940.

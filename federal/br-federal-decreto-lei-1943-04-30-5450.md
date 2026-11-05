@@ -1,5 +1,3 @@
-###DEL-005450-0-000-30-04-1943@@@
-
 DECRETO‑LEI N. 5.450 – DE 30 DE ABRIL DE 1943
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Fazenda
@@ -20,7 +18,13 @@ S/c. n. 14 – Gratificação de representação
 
 06 – Serviço do Pessoal
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Passa de.............................................................</span></p></td><td style="width:148.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 1.822.800,00</span></p></td></tr><tr><td style="width:319.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Para....................................................................</span></p></td><td style="width:148.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>Cr$ 1.942.800,00</span></p></td></tr></tbody></table>
+Passa de.............................................................
+
+Cr$ 1.822.800,00
+
+Para....................................................................
+
+Cr$ 1.942.800,00
 
 (Aumento de Cr$ 120.000,00)
 
@@ -32,7 +36,13 @@ S/c. n. 44 – Material destinado à Delegacia e à Agência Financeira
 
        21 – Delegacia do Tesouro em Londres
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Passa de......................................................................</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 740. 006,00</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Para.............................................................................</span></p></td><td style="width:152.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:right; line-height:12pt"><span style="font-size:10pt">Cr$ 620.000,00</span></p></td></tr></tbody></table>
+Passa de......................................................................
+
+Cr$ 740. 006,00
+
+Para.............................................................................
+
+Cr$ 620.000,00
 
 (Redução: Cr$ 120.000,00)
 

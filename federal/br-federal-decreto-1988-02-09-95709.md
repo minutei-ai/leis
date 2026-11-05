@@ -1,7 +1,3 @@
-1
-
-###DEC-095709-0-000-09-02-1988@@@
-
 DECRETO Nº 95.709, DE 9 DE FEVEREIRO DE 1988
 
 Autoriza o funcionamento do curso de Odontologia da Faculdade de Ciências Médicas de Nova Iguaçu, Rio de Janeiro.

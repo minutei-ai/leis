@@ -1,5 +1,3 @@
-###DEC-074305-0-000-22-07-1974@@@
-
 DECRETO Nº 74.305 - DE 22 DE JULHO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Contábeis e Atuariais da Alta Noroeste, em Araçatuba, Estado de São Paulo, mantida pela Missão Salesiana de Mato Grosso, com sede na cidade de Campo Grande - Estado de Mato Grosso.

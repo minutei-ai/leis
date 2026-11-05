@@ -1,5 +1,3 @@
-###DEL-005096-0-000-16-12-1942@@@
-
 DECRETO-LEI N. 5.096 – DE 16 DE DEZEMBRO DE 1942
 
 Abre, ao Departamento de Imprensa e Propaganda, o crédito especial de Cr$ 54.000,00, para o fim que especifica

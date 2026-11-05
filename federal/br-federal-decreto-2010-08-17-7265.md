@@ -1,5 +1,3 @@
-###DEC-007265-0-000-17-08-2010-PUB-01@@@
-
 DECRETO Nº 7.265, DE 17 DE AGOSTO DE 2010.
 
 Transfere a cumulatividade da Embaixada do Brasil em Niamey, na República do Níger, para a Embaixada do Brasil em Cotonou.

@@ -1,5 +1,3 @@
-###DEC-089201-0-000-19-12-1983@@@
-
 Decreto nº 89.201, dE 19 de dezembro de 1983
 
 Autoriza o funcionamento do curso de Administração da Fundação Educacional Marechal Cândido Rondon, Paraná.

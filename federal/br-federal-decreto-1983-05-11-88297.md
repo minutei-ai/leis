@@ -1,5 +1,3 @@
-###DEC-088297-0-000-11-05-1983@@@
-
 DECRETO Nº 88.297, de 11 de MAio de 1983.
 
 Altera as denominações de Organizações Militares do Ministério do Exército.

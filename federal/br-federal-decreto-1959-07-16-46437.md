@@ -1,5 +1,3 @@
-###DEC-046437-0-000-16-07-1959@@@
-
 DECRETO Nº 46.437, DE 16 DE JULHO DE 1959.
 
 Desvincula da concessão de que é titular a Companhia de Eletricidade de Manaus os bens e instalações que especifica, e dá outras providências.

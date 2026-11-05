@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f3df825e-0995-43ff-a9db-4ddaefa5e0c8/texto#nowhere)
 
-###DEL-001636-0-000-04-09-1978@@@
-
 # Decreto-lei nº 1.636, 04 de setembro de 1978
 
 Isenta do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos o gasóleo destinado à fabricação de vaselinas sólidas.

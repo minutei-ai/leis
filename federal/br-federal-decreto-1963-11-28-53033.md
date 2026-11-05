@@ -1,5 +1,3 @@
-###DEC-053033-0-000-28-11-1963@@@
-
 DECRETO Nº 53.033, DE 28 DE NOVEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Carlos Dias Brosch a pesquisar quartzo no município de Franco da Rocha, Estado de São Paulo.

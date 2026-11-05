@@ -1,5 +1,3 @@
-###DEC-066726-0-000-16-06-1970@@@
-
 DECRETO Nº 66.726, DE 16 DE JUNHO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - da Caixa Econômica Federal da Paraíba, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional, e dá outras providências.

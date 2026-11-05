@@ -1,5 +1,3 @@
-###DEC-095938-0-000-20-04-1988@@@
-
 DECRETO N° 95.938, DE 20 DE ABRIL DE 1988
 
 Altera o Decreto n° 94.180, de 3 de abril de 1987, que regulamenta as Leis nºs 7.577 e 7.578, de 23 de dezembro de 1986.

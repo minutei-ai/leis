@@ -1,5 +1,3 @@
-###DEC-092816-0-000-24-06-1986@@@
-
 DECRETO Nº 92.816, DE 24 DE JUNHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Santa Tereza", situado no Município de TUNTUM, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.619, de 2 de maio de 1986, e dá outras providências.

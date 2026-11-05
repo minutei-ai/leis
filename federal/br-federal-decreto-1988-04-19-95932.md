@@ -1,5 +1,3 @@
-###DEC-095932-0-000-19-04-1988@@@
-
 DECRETO N° 95.932, DE 19 DE ABRIL DE 1988
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO SANTOS DUMONT LTDA. para a RÁDIO CIDADE JUDIAÍ LTDA.

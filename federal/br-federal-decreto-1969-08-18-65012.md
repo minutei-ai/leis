@@ -1,5 +1,3 @@
-###DEC-065012-0-000-18-08-1969@@@
-
 DECRETO Nº 65.012 - DE 18 DE AGÔSTO DE 1969.
 
 Retifica o artigo 1º do Decreto número 58.607, de 14 de junho de 1966.

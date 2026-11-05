@@ -1,5 +1,3 @@
-###DEC-094158-0-000-30-03-1987@@@
-
 DECRETO Nº 94.158, DE 30 DE MARÇO DE 1987.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel situado na Avenida Dantas Barreto, nº 1.080, na cidade de Recife, Estado de Pernambuco.

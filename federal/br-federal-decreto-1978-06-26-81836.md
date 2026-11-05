@@ -1,5 +1,3 @@
-###DEC-081836-0-000-26-06-1978@@@
-
 Decreto nº 81.836, de 26 de junho de 1978.
 
 Conde reconhecimento ao curso de Ciências, ministrado pela Universidade Metodista de Piracicaba, Estado de São Paulo.

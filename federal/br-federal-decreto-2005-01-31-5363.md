@@ -1,5 +1,3 @@
-###DEC-005363-0-000-31-01-2005@@@
-
 DECRETO Nº 5.363 DE 31 DE JANEIRO DE 2005
 
 Altera o Decreto nº 1.935, de 20 de junho de 1996, que dispõe sobre a organização e o funcionamento do Conselho de Recursos do Sistema Financeiro Nacional e dá outras providências.

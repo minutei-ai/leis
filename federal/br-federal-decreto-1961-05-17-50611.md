@@ -1,5 +1,3 @@
-###DEC-050611-0-000-17-05-1961@@@
-
 Decreto nº 50.611, de 17 de maio de 1961.
 
 Prorroga o prazo a que se refere o artigo 4º do Decreto nº 43.101 de 24 de janeiro de 1958.

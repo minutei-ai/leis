@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.866 , de 14 de Dezembro de 2021.](https://legis.ac.gov.
 
 > **LEI Nº 3.530, DE 30 DE OUTUBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza o Poder Executivo a contratar operação de crédito com o Banco do Brasil S.A., com a garantia da União, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza o Poder Executivo a contratar operação de crédito com o Banco do Brasil S.A., com a garantia da União, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

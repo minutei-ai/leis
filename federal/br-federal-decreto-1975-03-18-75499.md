@@ -1,5 +1,3 @@
-###DEC-075499-0-000-18-03-1975@@@
-
 DECRETO Nº 75.499, DE 18 DE MARÇO DE 1975.
 
 Concede reconhecimento ao curso de Psicologia da Universidade Federal da Bahia, com sede em Salvador, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-006450-0-000-28-04-1944@@@
-
 DECRETO-LEI N. 6.450 – DE 28 DE ABRIL DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 6.300,00 para atender ao pagamento do salário devido a Danilo de Aguiar Correia, relativo ao período de 1-9-43 a 31-12-43.

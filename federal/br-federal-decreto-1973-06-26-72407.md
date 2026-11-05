@@ -1,5 +1,3 @@
-###DEC-072407-0-000-26-06-1973@@@
-
 DECRETO Nº 72.407, DE 26 DE JUNHO DE 1973.
 
 Aprova o Regulamento do Departamento de Engenharia e Comunicação do Ministério do Exército, e dá outras providências.
@@ -153,8 +151,6 @@ Art. 15. A Diretoria de Serviço Geográfico incumbe-se dos estudos, projetos, p
 Art. 16. A Diretoria de Comunicações incumbe-se dos estudos, projetos, programas e demais atividades relacionadas com a obtenção, produção manutenção e distribuição dos equipamentos e suprimentos de comunicações, bem como da instalação, exploração e segurança das redes administrativas e estratégicas de comunicações.
 
 Orlando Geisel
-
-###DEC-072407-0-000-26-06-1973@@@RET01+++
 
 DECRETO Nº 72.407, DE 26 DE JUNHO DE 1973.
 

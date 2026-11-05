@@ -1,5 +1,3 @@
-###DEC-050328-0-000-09-03-1961@@@
-
 DECRETO Nº 50.328, DE 9 DE MARÇO DE 1961.
 
 Torna sem efeito o Decreto nº 48.082, de 7 de abril de 1960

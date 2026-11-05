@@ -1,5 +1,3 @@
-###DEC-083757-0-000-23-07-1979@@@
-
 DECRETO Nº 83.757, DE 23 DE JULHO DE 1979.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no município de Foz do Iguaçu, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-078249-0-000-16-08-1976@@@
-
 DECRETO Nº 78.249, DE 16 DE AGOSTO DE 1976.
 
 Concede à MG - Ministério Gaggiato Exportação e Comércio Ltda. o direito de lavrar vermiculita no Município de Paulistana, Estado do Piauí.

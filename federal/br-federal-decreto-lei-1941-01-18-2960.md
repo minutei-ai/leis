@@ -1,5 +1,3 @@
-###DEL-002960-0-000-18-01-1941@@@
-
 DECRETO-LEI N. 2.960 – DE 18 DE JANEIRO DE 1941
 
 Dispõe sobre a distribuição do trigo de produção nacional e dá outras providências.

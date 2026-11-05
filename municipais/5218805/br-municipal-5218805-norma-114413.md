@@ -1,7 +1,9 @@
 LEI Nº 4.192, DE 14 DE DEZEMBRO DE 2001.
 
-Altera o art. 58 da Lei n. 3.635/98, que reformula<br>
-o Código de Posturas do Município de Rio Verde<br>
+Altera o art. 58 da Lei n. 3.635/98, que reformula
+
+o Código de Posturas do Município de Rio Verde
+
 e dá outras providências.
 
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**

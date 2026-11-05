@@ -1,5 +1,3 @@
-###DEC-064379-0-000-22-04-1969@@@
-
 Decreto Nº 64.379, de 22 de abril de 1969.
 
 Declara de utilidade pública o Instituto Lar da Juventude de Assistência e Educação, com sede em Itajaí, Estado de Santa Catarina.

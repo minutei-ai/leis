@@ -1,5 +1,3 @@
-###DEC-094415-0-000-10-06-1987@@@
-
 DECRETO Nº 94.415, DE 10 DE JUNHO DE 1987
 
 Renova a concessão outorgada À FUNDAÇÃO PAZ NA TERRA, para explorar serviço de radiodifusão sonora em onda média, na cidade de Natal, Estado do Rio Grande do Norte.

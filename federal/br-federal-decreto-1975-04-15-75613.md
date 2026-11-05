@@ -1,5 +1,3 @@
-###DEC-075613-0-000-15-04-1975@@@
-
 decreto nº 75.613, de 15 de abril de 1975.
 
 Dispõe sobre a estrutura básica do Instituto do Açúcar e do Álcool e dá outras providências.

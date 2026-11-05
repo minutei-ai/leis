@@ -1,5 +1,3 @@
-###DEC-097001-0-000-21-10-1988@@@
-
 DECRETO Nº 97.001, DE 21 DE OUTUBRO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade de Ciências Exatas e Humanas Santos Dumont.

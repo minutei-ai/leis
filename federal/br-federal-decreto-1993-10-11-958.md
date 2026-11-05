@@ -1,7 +1,3 @@
-1
-
-###DEC-000958-0-000-11-10-1993@@@
-
 DECRETO N° 958, DE 11 DE OUTUBRO DE 1993
 
 Altera o Decreto n° 722, de 18 de janeiro de 1993 que regulamenta a Lei n° 8.237, de 30 de setembro de 1991.

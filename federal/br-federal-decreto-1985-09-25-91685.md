@@ -1,5 +1,3 @@
-###DEC-091685-0-000-25-09-1985@@@
-
 DECRETO Nº 91.685, DE 25 DE SETEMBRO DE 1985.
 
 Declara de utilidade pública a FUNDAÇÃO TEOTÔNIO VILELA.

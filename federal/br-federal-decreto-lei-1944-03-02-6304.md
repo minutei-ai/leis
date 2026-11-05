@@ -1,5 +1,3 @@
-###DEL-006304-0-000-02-03-1944@@@
-
 DECRETO-LEI N. 6.304 – DE 2 DE MARÇO DE 1944
 
 Extingue a 2ª Coletoria Federal de Itapeva, no Estado de São Paulo, e dá outras providências

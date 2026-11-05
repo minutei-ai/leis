@@ -1,5 +1,3 @@
-###DEC-055739-0-000-08-02-1965@@@
-
 Decreto nº 55.739, de 8 de fevereiro de 1965.
 
 Determina a Intervenção Federal na Administração do Pôrto do Rio de Janeiro.

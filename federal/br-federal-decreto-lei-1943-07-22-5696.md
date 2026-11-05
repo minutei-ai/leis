@@ -1,5 +1,3 @@
-###DEL-005696-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.696 – DE 22 dE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 700. 000,00, para o serviço de assinatura das "Obrigações de Guerra”.

@@ -1,5 +1,3 @@
-###DEC-086461-0-000-09-10-1981@@@
-
 decreto nº 86.461, de 09 de outubro de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

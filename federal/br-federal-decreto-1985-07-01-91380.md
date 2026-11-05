@@ -1,5 +1,3 @@
-###DEC-091380-0-000-01-07-1985@@@
-
 Decreto nº 91.380, de 01 de julho de 1985
 
 Declara perempta a concessão outorgada à EMPRESA JORNAL DO COMÉRCIO S.A., para executar serviço de radiodifusão sonora em ondas curtas, na cidade de Recife, Estado de Pernambuco.

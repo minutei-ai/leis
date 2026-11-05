@@ -1,5 +1,3 @@
-###DEC-096167-0-000-15-06-1988@@@
-
 DECRETO N° 96.167, DE 15 DE JUNHO DE 1988
 
 Outorga concessão à RÁDIO REDENTOR LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Santo Antonio do Descoberto, Estado de Goiás.

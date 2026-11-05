@@ -1,5 +1,3 @@
-###DEC-051275-0-000-25-08-1961@@@
-
 DECRETO Nº 51.275, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Mineração Cassitan Limitada autorização para funcionar como emprêsa de mineração.

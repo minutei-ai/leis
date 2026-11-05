@@ -1,5 +1,3 @@
-###DEC-004776-0-000-10-07-2003@@@
-
 DECRETO Nº 4.776, DE 10 DE JULHO DE 2003.
 
        Dispõe sobre a criação da Rede Brasil de Tecnologia - RBT, e dá outras providências.
@@ -68,7 +66,8 @@ O VICE-PRESIDENTE DA REPÚBLICA, no exercício do cargo de Presidente da Repúbl
 
         Brasília, 10 de julho de 2003; 182º da Independência e 115º da República.
 
-JOSÉ ALENCAR GOMES DA SILVA<br>
+JOSÉ ALENCAR GOMES DA SILVA
+
  
 
 Roberto Átila Amaral Vieira

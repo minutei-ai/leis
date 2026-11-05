@@ -1,5 +1,3 @@
-###DEC-094537-0-000-30-06-1987@@@
-
 DECRETO N° 94.537, DE 30 DE JUNHO DE 1987
 
 Dá nova redação ao art. 13 do Decreto n° 75.508, de 18 de março de 1975.

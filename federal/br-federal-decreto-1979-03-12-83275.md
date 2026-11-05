@@ -1,5 +1,3 @@
-###DEC-083275-0-000-12-03-1979@@@
-
 Decreto nº 83.275, de 12 de março de 1979
 
 Concede reconhecimento ao curso de Nutrição da Universidade Federal do Pará, com sede na cidade de Belém, Estado do Pará.

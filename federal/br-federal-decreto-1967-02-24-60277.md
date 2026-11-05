@@ -1,5 +1,3 @@
-###DEC-060277-0-000-24-02-1967@@@
-
 DECRETO Nº 60.277, DE 24 DE FEVEREIRO DE 1967.
 
 Altera o Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelos Decretos ns. 38.966, de 3 de abril de 1956 e 51.958, de 26 de abril de 1963.

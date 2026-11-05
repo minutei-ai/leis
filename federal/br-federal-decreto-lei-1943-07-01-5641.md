@@ -1,5 +1,3 @@
-###DEL-005641-0-000-01-07-1943@@@
-
 DECRETO‑LEI N. 5.641 – DE 1 DE  JULHO DE 1943
 
 Prorroga o prazo de que trata o decreto‑lei nº 5.257, de 18 de fevereiro de 1943.

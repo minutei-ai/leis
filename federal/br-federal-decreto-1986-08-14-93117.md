@@ -1,5 +1,3 @@
-###DEC-093117-0-000-14-08-1986@@@
-
 DECRETO Nº 93.117, DE 14 DE AGOSTO DE 1986
 
 Cria Grupo de Trabalho objetivando a elaboração de anteprojeto de lei para disciplinamento do PROAGRO e do SEGURO RURAL.

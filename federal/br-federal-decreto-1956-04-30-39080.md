@@ -1,14 +1,12 @@
-###DEC-039080-0-000-30-04-1956@@@
+**DECRETO Nº 39.080, DE 30 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 39.080, DE 30 DE ABRIL DE 1956.</strong>
+***Altera disposições do Decreto número 37.494, de 14 de junho de 1955, que regulamenta a aplicação dos recursos do Fundo Nacional do Ensino Médio.***
 
-<em><strong>Altera disposições do Decreto número 37.494, de 14 de junho de 1955, que regulamenta a aplicação dos recursos do Fundo Nacional do Ensino Médio.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, no uso da atribuição que lhe confere o artigo 37, item I, da Constituição, e à vista do disposto no art. 6º da Lei nº 2.342, de 25 de novembro de 1954,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, no uso da atribuição que lhe confere o artigo 37, item I, da Constituição, e à vista do disposto no art. 6º da Lei nº 2.342, de 25 de novembro de 1954,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os arts. 1º, 5º, 7º, 8º, 10, 11, 12, 13, 15, 16, 20, 21, 24, 30, 32, 37, 55, 59, 70 e, 71, do Decreto número 37.494, de 14 de junho de 1955, passam a ter a seguinte redação:
+**Art**. 1º Os arts. 1º, 5º, 7º, 8º, 10, 11, 12, 13, 15, 16, 20, 21, 24, 30, 32, 37, 55, 59, 70 e, 71, do Decreto número 37.494, de 14 de junho de 1955, passam a ter a seguinte redação:
 
 Art. 1º O Fundo Nacional do Ensino Médio, instituído pela Lei número 2.342, de 25 de novembro de 1954, tem como objetivo concorrer para a manutenção e aperfeiçoamento, a difusão e a acessibilidade do sistema do ensino do grau médio em todo o país.
 
@@ -178,10 +176,10 @@ Art. 70. No caso de o estabelecimento não apresenta três quartos das disciplin
 
 Art. 78. Até o ano de 1958, o juízo do Conselho de Administração, poderão ser concedidos auxílios de manutenção a estabelecimentos de ensino situados no Território e no interior dos Estados é que satisfeitas as demais condições do art. 30, mantenham metade das disciplinas regidas por professôres registrados no órgão competente na forma regulamentada.”
 
-<strong>Art</strong>. 2º Êste decreto estará em vigor da data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto estará em vigor da data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 30 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Clovis Salgado

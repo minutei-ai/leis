@@ -1,5 +1,3 @@
-###DEC-067197-0-000-15-09-1970@@@
-
 decreto nº 67.197, de 15 de setembro de 1970.
 
 Declara de utilidade pública o Centro Social Paroquial São Manuel, com sede em São Manuel, Estado de São Paulo.

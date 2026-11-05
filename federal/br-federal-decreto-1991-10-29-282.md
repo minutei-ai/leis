@@ -1,7 +1,3 @@
-1
-
-###DEC-000282-0-000-29-10-1991@@@
-
 # DECRETO Nº 282, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da área indigena Caititu, no Estado do Amazonas.

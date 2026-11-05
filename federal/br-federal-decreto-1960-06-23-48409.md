@@ -1,5 +1,3 @@
-###DEC-048409-0-000-23-06-1960@@@
-
 DECRETO Nº 48.409, DE 23 DE JUNHO DE 1960.
 
 Outorga à Prefeitura Municipal de Jacinto, Estado de Minas Gerais, concessão para o aproveitamento de energia hidráulica de um desnível existente no curso de água Rubim do Norte, distrito da sede do município de Jacinto, Estado de Minas Gerais.

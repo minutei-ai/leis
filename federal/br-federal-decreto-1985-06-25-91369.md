@@ -1,5 +1,3 @@
-###DEC-091369-0-000-25-06-1985@@@
-
 Decreto nº 91.369, de 25 de junho de 1985.
 
 Revoga os decretos que menciona.

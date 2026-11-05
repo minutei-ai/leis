@@ -1,5 +1,3 @@
-###DEC-068132-0-000-28-01-1971@@@
-
 DECRETO Nº 68.132, DE 28 DE JANEIRO DE 1971.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à ampliação do Centro Telefônico "Consolação", na cidade de São Paulo, Estado de São Paulo, a cargo da Companhia Telefônica Brasileira.

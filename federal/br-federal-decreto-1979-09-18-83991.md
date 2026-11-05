@@ -1,5 +1,3 @@
-###DEC-083991-0-000-18-09-1979@@@
-
 Decreto nº 83.991, de 18 de setembro de 1979.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Serrinha S.A. para executar serviço de raiodifusão sonora em onda média de âmbito regional, na cidade de Serrinha, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-075311-0-000-27-01-1975@@@
-
 DECRETO Nº 75.311, DE 27 DE JANEIRO DE 1975.
 
 Prorroga o prazo da autorização concedida pelo Decreto nº 74.071, de 15 de maio de 1974, alterado pelo Decreto nº 74.618, de 25 de setembro de 1974, às firmas Western Geophysical Company Of America e Sermar - Serviços Marítimos Limitada.

@@ -1,5 +1,3 @@
-###DEC-070365-0-000-04-04-1972@@@
-
 DECRETO Nº 70.365, DE 4 DE ABRIL DE 1972.
 
 Declara de utilidade pública o "Centro Social Nossa Senhora do Bom Parto", com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007875-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.875 – DE 20 DE AGÔSTO DE 1945
 
 Dispõe sôbre a execução dos julgados da extinta organização do contencioso administrativo do trabalho.

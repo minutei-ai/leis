@@ -1,5 +1,3 @@
-###MPV-001874-0-017-23-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.874-17, DE 23 DE NOVEMBRO DE 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de conduta e atividades lesivas ao meio ambiente.

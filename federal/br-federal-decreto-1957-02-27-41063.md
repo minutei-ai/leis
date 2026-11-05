@@ -1,40 +1,38 @@
-###DEC-041063-0-000-27-02-1957@@@
+**DECRETO Nº 41.063, DE 27 DE FEVEREIRO DE 1957.**
 
-<strong>DECRETO Nº 41.063, DE 27 DE FEVEREIRO DE 1957.</strong>
+***Aprova o Regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura.***
 
-<em><strong>Aprova o Regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional da Produção Vegetal, do Ministério da Agricultura, o qual, assinado pelo respectivo Ministro de Estado, com êste baixa.
+**Art**. 2º Os Chefes dos Postos de Defesa Sanitária Vegetal que, em virtude do Regimento a que se refere êste Decreto, se transformarão em Inspetorias Regionais de Defesa Sanitária Vegetal, continuarão a perceber a gratificação de função que já lhes é assegurada, enquanto não forem criadas as novas funções gratificadas de Chefe de Inspetoria Regional.
 
-<strong>Art</strong>. 2º Os Chefes dos Postos de Defesa Sanitária Vegetal que, em virtude do Regimento a que se refere êste Decreto, se transformarão em Inspetorias Regionais de Defesa Sanitária Vegetal, continuarão a perceber a gratificação de função que já lhes é assegurada, enquanto não forem criadas as novas funções gratificadas de Chefe de Inspetoria Regional.
+**Art**. 3º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 27 de fevereiro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti
 
-<strong>REGIMENTO DO DEPARTAMENTO NACIONAL DA PRODUÇÃO VEGETAL</strong>
+**REGIMENTO DO DEPARTAMENTO NACIONAL DA PRODUÇÃO VEGETAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Departamento Nacional da Produção Vegetal (D.N.P.V.), do Ministério da Agricultura, instituído pelo Decreto nº 23.979, de 8 de março de 1934, e reorganizado pelo Decreto-lei nº 982, de 23 de dezembro de 1938, diretamente subordinado ao Ministro de Estado, tem a seu cargo o fomento da agricultura em geral e a defesa sanitária vegetal, cabendo-lhe a direção geral e fiscalização dos serviços e atribuições especificadas nêste Regimento.
+**Art**. 1º O Departamento Nacional da Produção Vegetal (D.N.P.V.), do Ministério da Agricultura, instituído pelo Decreto nº 23.979, de 8 de março de 1934, e reorganizado pelo Decreto-lei nº 982, de 23 de dezembro de 1938, diretamente subordinado ao Ministro de Estado, tem a seu cargo o fomento da agricultura em geral e a defesa sanitária vegetal, cabendo-lhe a direção geral e fiscalização dos serviços e atribuições especificadas nêste Regimento.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º O D.N.P.V. compreende:
+**Art**. 2º O D.N.P.V. compreende:
 
 I - Divisão de Fomento da Produção Vegetal (D.F.P.V).
 
@@ -108,11 +106,11 @@ Portaria (P)
 
 § 4º As Estações Fitossanitárias, em número correspondente às regiões geo-econômicas e previstas entre os órgãos regionais da D.D.S.V., serão subordinadas administrativamente à Inspetoria Regional do Estado onde estiverem sediadas e, tecnicamente, à Seção de Investigação Fitossanitária.
 
-<strong>Art</strong>. 3º O D.N.P.V será dirigido por um Diretor-Geral, cargo em comissão, privativo de engenheiro agrônomo e de nomeação do Presidente da República.
+**Art**. 3º O D.N.P.V será dirigido por um Diretor-Geral, cargo em comissão, privativo de engenheiro agrônomo e de nomeação do Presidente da República.
 
 Parágrafo único. O Diretor-Geral terá um Secretário e um Auxiliar, por êle designados dentre os servidores do Ministério.
 
-<strong>Art</strong>. 4º A D.F.P e a D.D.S.V terão Diretores nomeados em comissão pelo Presidente da República, por indicação do Ministro de Estado.
+**Art**. 4º A D.F.P e a D.D.S.V terão Diretores nomeados em comissão pelo Presidente da República, por indicação do Ministro de Estado.
 
 § 1º Os cargos de Diretor serão privativos dos engenheiros agrônomos do Ministério.
 
@@ -120,19 +118,19 @@ Parágrafo único. O Diretor-Geral terá um Secretário e um Auxiliar, por êle 
 
 § 3º O Diretor da D.F.P.V terá três (3) Assistentes e o da D.D.S.V terá um Assistente, escolhidos dentre os Técnicos do Ministério da Agricultura.
 
-<strong>Art</strong>. 5º As Seções, Inspetorias, Circunscrições, Estações e Postos, o Centro de Ensino e Treinamento da Fazenda Ipanema, a Biblioteca e a Portaria terão Chefes cujas funções, com exceção das referentes às Seções de Administração, Biblioteca e Portaria, serão privativas de Engenheiro Agrônomo.
+**Art**. 5º As Seções, Inspetorias, Circunscrições, Estações e Postos, o Centro de Ensino e Treinamento da Fazenda Ipanema, a Biblioteca e a Portaria terão Chefes cujas funções, com exceção das referentes às Seções de Administração, Biblioteca e Portaria, serão privativas de Engenheiro Agrônomo.
 
-<strong>Art</strong>. 6º Os órgãos centrais e regionais de D.F.P.V e D.D.S.V funcionarão em regime de mútua colaboração, elaborando e executando planos de trabalho, em íntima articulação, sob a supervisão do Diretor-Geral.
+**Art**. 6º Os órgãos centrais e regionais de D.F.P.V e D.D.S.V funcionarão em regime de mútua colaboração, elaborando e executando planos de trabalho, em íntima articulação, sob a supervisão do Diretor-Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da D.F.P.V</em>
+*Da D.F.P.V*
 
-<strong>Art</strong>. 7º A D.F.P.V tem por finalidade promover a expansão econômica dos diferentes ramos da produção vegetal, por meio de estudos, planejamentos e orientação de atividades relacionadas com o fomento agrícola e da assistência técnica e econômica aos agricultores, competindo-lhe:
+**Art**. 7º A D.F.P.V tem por finalidade promover a expansão econômica dos diferentes ramos da produção vegetal, por meio de estudos, planejamentos e orientação de atividades relacionadas com o fomento agrícola e da assistência técnica e econômica aos agricultores, competindo-lhe:
 
 I - divulgar métodos e processos econômicos de aperfeiçoamento, armazenagem, ensilagem e transformação de produtos agrícolas;
 
@@ -158,7 +156,7 @@ XI - instalar e manter serviços relacionados com as atividades de extensão agr
 
 XII - planejar, promover, executar e fiscalizar tôda e qualquer medida que, direta ou indiretamente, se relacione com a expansão da agricultura nacional.
 
-<strong>Art</strong>. 8º À S. Eng.R. compete o estudo de assuntos relativos à conservação do solo e água, irrigação, drenagem e ocupação agrícola das terras, mecanização agrícola e execução de projetos técnicos aos mesmos referentes, cabendo-lhe:
+**Art**. 8º À S. Eng.R. compete o estudo de assuntos relativos à conservação do solo e água, irrigação, drenagem e ocupação agrícola das terras, mecanização agrícola e execução de projetos técnicos aos mesmos referentes, cabendo-lhe:
 
 A - com referência a conservação do solo e água:
 
@@ -218,7 +216,7 @@ VI - estudar e realizar ensaios pertinentes ao problema sócio-econômico da ocu
 
 VII - estudar o zoneamento das regiões, do ponto de vista ecológico e econômico, a fim de melhor orientar a execução de práticas agrícolas preferenciais, consoante as condições técnicas exigidas para casa caso.
 
-<strong>Art</strong>. 9º À Seção de Estudos e Planejamentos compete realizar estudos relativos a estoques e mercados, regiões geo-econômicas, extensão agrícola, safras, silos e armazéns, cabendo-lhe:
+**Art**. 9º À Seção de Estudos e Planejamentos compete realizar estudos relativos a estoques e mercados, regiões geo-econômicas, extensão agrícola, safras, silos e armazéns, cabendo-lhe:
 
 A - com referência a estoques e mercados:
 
@@ -256,7 +254,7 @@ III - promover estudos pormenorizados do armazenamento, ensilagem e conservaçã
 
 IV - cooperar com a D.D.S.V para o bom estado sanitário da produção vegetal.
 
-<strong>Art</strong>. 10. À Seção de Máquinas e Material para Revenda (S.M.M.R) compete:
+**Art**. 10. À Seção de Máquinas e Material para Revenda (S.M.M.R) compete:
 
 I - emitir parecer fundamentado, quanto à conveniência ou oportunidade da aquisição, nas propostas, relativas à compra de máquinas, ferramentas e utensílios agrícolas destinados à revenda aos agricultores ou uso nas dependências do D.F.P.V tendo em vista as disponibilidades de recursos específicos;
 
@@ -274,7 +272,7 @@ VII - providenciar, quando possível, a montagem pela Oficina da Seção, das m�
 
 VIII - promover pela Oficina, a recuperação de máquinas, ferramentas e utensílios agrículas da D.F.P.V.
 
-<strong>Art</strong>. 11. À Seção de Orientação da Produção (S.O.P.) compete realizar estudos relativos a Campos de Multiplicação de Sementes e Mudas, Culturas Econômicas, Postos Agropecuários, Fruticultura e Olericultura, cabendo-lhe:
+**Art**. 11. À Seção de Orientação da Produção (S.O.P.) compete realizar estudos relativos a Campos de Multiplicação de Sementes e Mudas, Culturas Econômicas, Postos Agropecuários, Fruticultura e Olericultura, cabendo-lhe:
 
 A - com relação aos Campos de Multiplicação de Sementes e Mudas:
 
@@ -324,7 +322,7 @@ IV - estudar as possibilidades de incremento da fruticultura e da olericultura, 
 
 V \- estudar, e executar, em colaboração com a D.D.S.V., medidas atinentes ao estado sanitário dos pomares e hortas.
 
-<strong>Art</strong>. 12. À Seção de Sementes e Adubos (S.S.A) compete:
+**Art**. 12. À Seção de Sementes e Adubos (S.S.A) compete:
 
 A - quanto a adubos:
 
@@ -356,7 +354,7 @@ IX - proceder à determinação da identidade e da pureza da variedade;
 
 X - proceder à determinação do pêso específico e de teor do higroscopicidade;
 
-<strong>Art</strong>. 13. Ao Centro de Ensino e Treinamento da Fazenda Ipanema compete:
+**Art**. 13. Ao Centro de Ensino e Treinamento da Fazenda Ipanema compete:
 
 I - manter cursos de treinamento, de caráter geral ou especializado, sempre com base em projetos aprovados pela Diretoria da D.F.P.V, que poderá, também, programá-los em colaboração com outros órgãos técnicos;
 
@@ -364,7 +362,7 @@ II - promover testes em maquinária agrícola fabricada no país ou importada, v
 
 III - executar, em coordenação com outros órgãos técnicos, projetos relacionados com a produção de sementes híbridas de milho e outras culturas de interêsse econômico da região.
 
-<strong>Art</strong>. 14. Às Inspetorias Regionais de Fomento Agrícola (I.R.F.A) compete:
+**Art**. 14. Às Inspetorias Regionais de Fomento Agrícola (I.R.F.A) compete:
 
 I - executar, na sua área de ação e de conformidade com as instruções do Diretor da D.F.P.V., todos os trabalhos pertinentes à Divisão;
 
@@ -378,7 +376,7 @@ V - fornecer à Diretoria da D.F.P.V., além das informações relativas aos ser
 
 Parágrafo único. Às Inspetorias Regionais executarão, nas localidades em que tiverem sediadas, as atribuições pertinentes às Circunscrições Agrícolas;
 
-<strong>Art</strong>. 15. Às Circunscrições Agrícolas compete:
+**Art**. 15. Às Circunscrições Agrícolas compete:
 
 I - executar os trabalhos de competência da D.F.P.V. na zona de jurisdição que lhe fôr atribuída;
 
@@ -386,7 +384,7 @@ II - superintender e fiscalizar, permanentemente, os trabalhos executados pelos 
 
 III - aos campos de Fruticultura, de Multiplicação de Sementes e Mudas, Centros de Serviços de Extensão Agrícola, Postos Agropecuários, Postos de Revenda de Material Agrícola e Patrulhas Mecanizadas, na área de sua jurisdição incumbe, além das atribuições pertinentes às Circunscrições, no que fôr aplicável, a execução dos trabalhos relativos às suas especializações.
 
-<strong>Art</strong>. 16. À Seção de Administração (S.A.) compete promover as medidas, necessárias à administração de material, orçamento, pessoal, comunicações e portaria da D.F.P.V., devendo para tanto;
+**Art**. 16. À Seção de Administração (S.A.) compete promover as medidas, necessárias à administração de material, orçamento, pessoal, comunicações e portaria da D.F.P.V., devendo para tanto;
 
 I - receber, distribuir, numerar, expedir e guardar a correspondência oficial e papéis pertinentes à D.F.P.V.;
 
@@ -452,7 +450,7 @@ IV - organizar e manter, em coordenação com a Seção de Máquinas e Material 
 
 V - providenciar, em coordenação com a Seção de Máquinas e Material, o recebimento o embarque do material, de revenda destinado aos órgãos regionais da D.F.P.V.;
 
-<strong>Art</strong>. 17. À Biblioteca compete:
+**Art**. 17. À Biblioteca compete:
 
 I - registrar, classificar, catalogar, guardar e conservar obras de interêsse da D.F.P.V.;
 
@@ -466,11 +464,11 @@ V - manter intercâmbio bibliográfico com instituições científicas do Brasil
 
 VI - promover a indenização das obras emprestadas e não devolvidas pelos leitores.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da D.D.S.V</em>
+*Da D.D.S.V*
 
-<strong>Art</strong>. 18. A D.D.S.V. tem por finalidade:
+**Art**. 18. A D.D.S.V. tem por finalidade:
 
 I - executar a vigilância e a fiscalização fitossanitárias;
 
@@ -486,7 +484,7 @@ VI - zelar pela execução da Lei nº 483, de 12-11-48, relativa ao combate ao g
 
 VII - cumprir e fazer cumprir os acôrdos e convenções internacionais de defesa sanitária vegetal.
 
-<strong>Art</strong>. 19. À Seção de Fiscalização Fitossanitária (S.F.F.) compete:
+**Art**. 19. À Seção de Fiscalização Fitossanitária (S.F.F.) compete:
 
 I - exercer a vigilância e a fiscalização fitossanitária nos portos e estações de fronteiras do país, junto às alfândegas, pôstos aduaneiros, correios, armazéns, frigoríficos, meios de transportes marítimos, fluviais, terrestres e aéreos, estabelecimentos de expurgo, e onde mqais se fizer necessário, a fim de impedir a introdução e dispersão, no território nacional, de doenças e pragas dos vegetais, partes de vegetal e produtos vegetais;
 
@@ -514,7 +512,7 @@ XII - encaminhar à S.I.F. os parasitos encontrados por ocasião das inspeções
 
 XIII - examinar as remessas de vegetais, partes de vegetal e produtos vegetais a serem exportados, prescrevendo as medidas fitossanitárias cabíveis para o fornecimento do certificado fitossanitário de exportação.
 
-<strong>Art</strong>. 20. À Seção de Investigação Fitossanitária (S.I.F.) compete realizar, orientar, promover, e coordenar os trabalhos relativos a:
+**Art**. 20. À Seção de Investigação Fitossanitária (S.I.F.) compete realizar, orientar, promover, e coordenar os trabalhos relativos a:
 
 I - estudos e investigações concernentes à fitopatologia, à entomologia e a botânica e zoologia aplicadas à defesa sanitária vegetal;
 
@@ -550,7 +548,7 @@ VII - manter culturas de espécies vegetais necessárias aos estudos e experimen
 
 VIII - prestar assistência fitossanitária aos Distritos vizinhos.
 
-<strong>Art</strong>. 21. À Seção de Assistência Fitossanitária (S.A.P.) compete;
+**Art**. 21. À Seção de Assistência Fitossanitária (S.A.P.) compete;
 
 I - organizar, orientar, executar e fiscalizar os trabalhos de erradicação e combate às doenças e pragas das plantas e produtos vegetais;
 
@@ -578,7 +576,7 @@ IV - realizar estudos relativos ao aperfeiçoamento de processos físicos e quí
 
 V - opinar sôbre processos de tratamento e preservação de produtos agrícolas armazenados.
 
-<strong>Art</strong>. 22. À Seção de Acridiologia (S. Acr.) compete:
+**Art**. 22. À Seção de Acridiologia (S. Acr.) compete:
 
 I - organizar, executar e fiscalizar os trabalhos de combate ao gafanhoto, migratório e espécies afins, em cumprimento aos acordos e convenções internacionais;
 
@@ -596,7 +594,7 @@ VII - manter relações internacionais concernentes à luta contra o gafanhoto, 
 
 VIII - manter postos antiacridianos, nos Estados de ocorrência da praga.
 
-<strong>Art</strong>. 23. À Seção de Defensivos (S.D.) compete:
+**Art**. 23. À Seção de Defensivos (S.D.) compete:
 
 I - manter o licenciamento de inseticidas, fungicidas, herbicidas e outros defensivos dos vegetais, nos termos da legislação em vigor;
 
@@ -610,11 +608,11 @@ V - regular e fiscalizar o uso de preparações e produtos químicos aplicados �
 
 VI - propugnar pelo desenvolvimento da indústria nacional de defensivos, máquinas e aparelhos de defesa agrícola.
 
-<strong>Art</strong>. 24. À Seção de Administração (S.D.) compete promover as medidas necessárias a administração de material, orçamento, pessoal, comunicações e portaria da D.D.S.V., devendo, para tanto, executar no âmbito da D.D.S.V. as atribuições previstas no art. 16 deste Regimento.
+**Art**. 24. À Seção de Administração (S.D.) compete promover as medidas necessárias a administração de material, orçamento, pessoal, comunicações e portaria da D.D.S.V., devendo, para tanto, executar no âmbito da D.D.S.V. as atribuições previstas no art. 16 deste Regimento.
 
-<strong>Art</strong>. 25. A Biblioteca compete: executar, no âmbito do D.D.S.V., as atribuições previstas no art. 17 deste Regimento.
+**Art**. 25. A Biblioteca compete: executar, no âmbito do D.D.S.V., as atribuições previstas no art. 17 deste Regimento.
 
-<strong>Art</strong>. 26. As I.R.D.S.V., dentro das respectivas zonas de jurisdição, exercerão, diretamente ou através dos Postos, no que lhes couber, as funções da D.D.V.S., competindo-lhes:
+**Art**. 26. As I.R.D.S.V., dentro das respectivas zonas de jurisdição, exercerão, diretamente ou através dos Postos, no que lhes couber, as funções da D.D.V.S., competindo-lhes:
 
 I - desempenhar as atribuições constantes dos arts. 19, 20, 21, 22 e 23 deste Regimento;
 
@@ -662,13 +660,13 @@ VIII - lavrar autos de infração e impor multas previstas no Regulamento de Def
 
 IX - emitir guias de recolhimento de taxa fitossanitária.
 
-<strong>Art</strong>. 27. Onde não houver dependência da D.D.S.V., a execução das atribuições de defesa sanitária vegetal poderá ser delegada à dependência da D.F.P.V. mais próxima.
+**Art**. 27. Onde não houver dependência da D.D.S.V., a execução das atribuições de defesa sanitária vegetal poderá ser delegada à dependência da D.F.P.V. mais próxima.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da S.C.V.</em>
+*Da S.C.V.*
 
-<strong>Art</strong>. 28. À Seção de Comunicações compete:
+**Art**. 28. À Seção de Comunicações compete:
 
 I - receber, registrar, distribuir e arquivar a correspondência oficial e processos pertinentes ao D.N.P.V.;
 
@@ -690,11 +688,11 @@ II - cuidar da segurança e asseio do edifício ocupado pelo D.N.P.V.;
 
 III - orientar e informar o público.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 29. Ao Diretor-Geral do D.N.P.V., compete:
+**Art**. 29. Ao Diretor-Geral do D.N.P.V., compete:
 
 I - dirigir, orientar, coordenar e supervisionar as atividades a cargo do D.N.P.V.;
 
@@ -730,7 +728,7 @@ XVI - apreciar os planos de trabelho organizados em articulação pelas D.D.S.V.
 
 XVII - exercer quaisquer outras atribuições que lhe competem por este Regimento ou que lhe forem cometidas.
 
-<strong>Art</strong>. 30. Aos Diretores da D.F.P.V. e D.D.S.V. compete:
+**Art**. 30. Aos Diretores da D.F.P.V. e D.D.S.V. compete:
 
 I - orientar, dirigir, coordenar e controlar a execução dos trabalhos a cargo da respectiva Divisão;
 
@@ -766,7 +764,7 @@ XVI - Antecipar ou prorrogar o período normal de trabalho na sede;
 
 XVII - Inspecionar, pessoalmente ou por intermédio de servidores para tal fim designados, trabalhos a cargo da Divisão, a fim de melhor inteirar-se da sua execução e de suas necessidades e deficiências.
 
-<strong>Art</strong>. 31. Aos Assistentes do Diretor compete:
+**Art**. 31. Aos Assistentes do Diretor compete:
 
 I - Auxiliar o Diretor nos processos e assuntos de natureza técnica;
 
@@ -774,7 +772,7 @@ II - Inspecionar os serviços da Divisão, de acordo com as determinações do D
 
 Parágrafo único. Compete, ainda, aos Assistentes do Diretor da D.F.P.V. orientar e controlar a execução dos Acordos.
 
-<strong>Art</strong>. 32. Ao Secretário do Diretor incumbe;
+**Art**. 32. Ao Secretário do Diretor incumbe;
 
 I - Atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a este conhecimento do assunto a tratar;
 
@@ -792,7 +790,7 @@ VII - Fazer o controle dos processos em trânsito no Gabinete do Diretor;
 
 VIII - Representar o Diretor quando para isso for designado.
 
-<strong>Art</strong>. 33. Aos Chefes e Encarregados incumbe;
+**Art**. 33. Aos Chefes e Encarregados incumbe;
 
 I - Orientar, coordenar e dirigir os trabalhos pertinentes à dependência que chefiar;
 
@@ -808,7 +806,7 @@ VI - Responder pelo cumprimento da Lei nº 1.823-54, na parte relativa à frequ�
 
 Parágrafo único. Ao Chefe da Seção Administrativa incumbe ainda assinar as certidões expedidas pela Divisão, quando autorizadas pelo Diretor.
 
-<strong>Art</strong>. 34. Ao Chefe da Biblioteca incumbe ainda:
+**Art**. 34. Ao Chefe da Biblioteca incumbe ainda:
 
 I - Promover as aquisições das publicações necessárias aos trabalhos da Divisão, ouvidos os órgãos interessados;
 
@@ -818,7 +816,7 @@ III - Manter em dia o inventário da Bibliotaca;
 
 IV - Organizar e fornecer bibliografias quando solicitadas pelos ocupantes de cargos ou funções técnicas, lotados no D.N.P.V.
 
-<strong>Art</strong>. 35. Aos Inspetores Regionais, de Fomento Agrícola e Defesa Sanitária Vegetal compete:
+**Art**. 35. Aos Inspetores Regionais, de Fomento Agrícola e Defesa Sanitária Vegetal compete:
 
 I - Orientar, coordenar e dirigir os serviços das respectivas repartições;
 
@@ -846,11 +844,11 @@ XII - atender às solicitações de esclarecimentos quanto aos trabalhos em anda
 
 XIII - movimentar o pessoal tendo em vista as necessidades dos serviços, respeitada a lotação da repartição.
 
-<strong>Art</strong>. 36. Aos chefes de Circunscrição, Estação Fitossanitária, Estação de Expurgo e Posto de Defesa Sanitária Vegetal incumbe, no que lhes couber, a execução do artigo 36 deste Regimento, competindo-lhes, porém a aplicação de suspensão até o limite de 8 (oito) dias.
+**Art**. 36. Aos chefes de Circunscrição, Estação Fitossanitária, Estação de Expurgo e Posto de Defesa Sanitária Vegetal incumbe, no que lhes couber, a execução do artigo 36 deste Regimento, competindo-lhes, porém a aplicação de suspensão até o limite de 8 (oito) dias.
 
-<strong>Art</strong>. 37. Aos Encarregados de Campos de Fruticultura e de Multiplicação de Sementes e Mudas Centros de Serviço de Extensão Agrícola, Postos Agropecuários e Usinas de Beneficiamento incumbe orientar e fiscalizar a execução das tarefas que forem atribuídas aos órgãos por eles dirigidos, assim como manter em ordem e em perfeito funcionamento as dependências sob sua imediata responsabilidade.
+**Art**. 37. Aos Encarregados de Campos de Fruticultura e de Multiplicação de Sementes e Mudas Centros de Serviço de Extensão Agrícola, Postos Agropecuários e Usinas de Beneficiamento incumbe orientar e fiscalizar a execução das tarefas que forem atribuídas aos órgãos por eles dirigidos, assim como manter em ordem e em perfeito funcionamento as dependências sob sua imediata responsabilidade.
 
-<strong>Art</strong>. 38. Ao Chefe de Portaria incumbe:
+**Art**. 38. Ao Chefe de Portaria incumbe:
 
 I - orientar e informar o público;
 
@@ -858,17 +856,17 @@ II - fiscalizar a saída de bens pertencentes ao D.M.P.V.;
 
 III - zelar pelo asseio e limpeza do prédio do D.N.P.V..
 
-<strong>Art</strong>. 39. Aos demais servidores sem função especificada neste Regimento incumbe executar os trabalhos que lhes forem determinados por seus superiores hierárquicos.
+**Art**. 39. Aos demais servidores sem função especificada neste Regimento incumbe executar os trabalhos que lhes forem determinados por seus superiores hierárquicos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Horário</em>
+*Do Horário*
 
-<strong>Art</strong>. 40. O horário normal de trabalho do D.N.P.V. será fixado pelo Diretor-Geral e Diretores de Divisão, respeitado o número de horas semanais estabelecido para o serviço público civil.
+**Art**. 40. O horário normal de trabalho do D.N.P.V. será fixado pelo Diretor-Geral e Diretores de Divisão, respeitado o número de horas semanais estabelecido para o serviço público civil.
 
 Parágrafo único. Nos trabalhos em que houver necessidade de revesamento, observar-se-á a escala de distribuição dos servidores que for aprovada pelo Chefe respectivo.
 
-<strong>Art</strong>. 41. Não ficam sujeitos a ponto:
+**Art**. 41. Não ficam sujeitos a ponto:
 
 a) o Diretor-Geral do D.N.P.V. e;
 
@@ -876,11 +874,11 @@ b) os Diretores de Divisão.
 
 Parágrafo único. A freqüência o pessoal designado para serviço externo será apurada mediante boletim diário de produção ou outro meio que se revele adequado.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 42. Serão substitutos, automaticamente, em suas faltas impedimentos:
+**Art**. 42. Serão substitutos, automaticamente, em suas faltas impedimentos:
 
 I - o Diretor-Geral pelo Diretor de Divisão por ele indicado ao Ministro de Estado;
 
@@ -890,26 +888,26 @@ III - os Chefes e Encarregados, por servidores designados pelo respectivo Direto
 
 Parágrafo único. Haverá sempre servidor previamente designado para as substituições a que se refere este artigo.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições Gerais</em>
+*Disposições Gerais*
 
-<strong>Art</strong>. 43. A D.F.P.V. e a D.D.S.V. poderão, mediante acordos, convênios, ajustes ou contratos, articular serviços com órgãos federais, estaduais, territoriais e municipais, bem como com entidades ou pessoais de direito privado.
+**Art**. 43. A D.F.P.V. e a D.D.S.V. poderão, mediante acordos, convênios, ajustes ou contratos, articular serviços com órgãos federais, estaduais, territoriais e municipais, bem como com entidades ou pessoais de direito privado.
 
 § 1º Os acordos e atos a que se refere este artigo serão executas segundo planos de trabalho elaborados em consonância com as Instruções expedidas pelo respectivo Diretor e aprovadas pelo Diretor-Geral do D.N.P.V.
 
 § 2º A execução ou a fiscalização dos acordos e atos de que trata este artigos, respeitadas a legislação vigente, competirá aos Chefes das Inspetorias Regionais ou a servidores da Divisão participante do acordo, especialmente designados pelo Ministro de Estado.
 
-<strong>Art</strong>. 44. Os Diretores das D.F.P.V e D.D.S.V. poderão constituir grupos de trabalho para a execução de atividades afetas às seções sob sua chefia.
+**Art**. 44. Os Diretores das D.F.P.V e D.D.S.V. poderão constituir grupos de trabalho para a execução de atividades afetas às seções sob sua chefia.
 
-<strong>Art</strong>. 45. Nenhum servidor lotado na D.F.P.V. ou D.D.S.V. poderá publicar artigos, livros, etc., e realizar conferências que digam respeito a orientação técnica ou administrativa da Divisão, sem prévio consentimento, por escrito, do respectivo Diretor.
+**Art**. 45. Nenhum servidor lotado na D.F.P.V. ou D.D.S.V. poderá publicar artigos, livros, etc., e realizar conferências que digam respeito a orientação técnica ou administrativa da Divisão, sem prévio consentimento, por escrito, do respectivo Diretor.
 
-<strong>Art</strong>. 46. As D.F.P.V. e D.D.S.V. manterão contacto permanente com as entidades públicas ou particulares que exerçam atividades afins ou relacionadas com o fomento e defesa da produção vegetal, desde que necessário à melhor consecução de suas finalidades.
+**Art**. 46. As D.F.P.V. e D.D.S.V. manterão contacto permanente com as entidades públicas ou particulares que exerçam atividades afins ou relacionadas com o fomento e defesa da produção vegetal, desde que necessário à melhor consecução de suas finalidades.
 
-<strong>Art</strong>. 47. Passarão a Inspetorias Regionais de Fomento Vegetal as atuais Seções de Fomento nos Estados, Territórios e Distrito Federal.
+**Art**. 47. Passarão a Inspetorias Regionais de Fomento Vegetal as atuais Seções de Fomento nos Estados, Territórios e Distrito Federal.
 
-<strong>Art</strong>. 48. Passarão a Inspetorias Regionais de Defesa Vegetal os atuais Postos da Divisão de Defesas Sanitária Vegetal sediados nas Capitais dos Estados e no Distrito Federal e na Cidade de Santos, Estado de São Paulo.
+**Art**. 48. Passarão a Inspetorias Regionais de Defesa Vegetal os atuais Postos da Divisão de Defesas Sanitária Vegetal sediados nas Capitais dos Estados e no Distrito Federal e na Cidade de Santos, Estado de São Paulo.
 
 Rio de Janeiro, em 27 de fevereiro de 1957
 
-<strong>MÁRIO MENEGHETTI</strong>
+**MÁRIO MENEGHETTI**

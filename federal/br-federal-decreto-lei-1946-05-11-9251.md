@@ -1,5 +1,3 @@
-###DEL-009251-0-000-11-05-1946@@@
-
 DECRETO-LEI N. 9.251– 11 DE MAIO DE 1946
 
 Dispõe sôbre a situação dos empregados dispensados em conseqüência do Decreto-lei nº 9.512, de 30 de Abril de 1946.

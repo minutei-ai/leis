@@ -1,5 +1,3 @@
-###DEC-061520-0-000-12-10-1967@@@
-
 DECRETO Nº 61.520, DE 12 DE OUTUBRO DE 1967.
 
 Aprova a alteração introduzida nos Estatutos da Seguradora das Américas S.A. relativa ao aumento do capital social.

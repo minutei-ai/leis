@@ -1,5 +1,3 @@
-###DEC-054177-0-000-24-08-1964@@@
-
 Decreto nº 54.177, de 24 de agosto de 1964.
 
 Autoriza o cidadão brasileiro Anselmo Santelena a pesquisar minério de ferro no município de Mateus Leme, Estado de Minas Gerais.

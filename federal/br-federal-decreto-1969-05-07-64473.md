@@ -1,5 +1,3 @@
-###DEC-064473-0-000-07-05-1969@@@
-
 DECRETO Nº 64.473, DE 7 DE MAIO DE 1969.
 
 Extingue funções gratificadas do Quadro de Pessoal do Ministério da Fazenda.

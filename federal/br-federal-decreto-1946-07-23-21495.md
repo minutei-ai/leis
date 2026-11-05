@@ -1,12 +1,10 @@
-###DEC-021495-0-000-23-07-1946@@@
+**DECRETO Nº 21.495, DE 23 DE JULHO DE 1946.**
 
-<strong>DECRETO Nº 21.495, DE 23 DE JULHO DE 1946.</strong>
+***Aprova o Regulamento do Serviço de Assistência Religiosa.***
 
-<em><strong>Aprova o Regulamento do Serviço de Assistência Religiosa.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição:
-
-<strong>RESOLVE:</strong>
+**RESOLVE:**
 
 aprovar e mandar executar o Regulamento do Serviço de Assistência Religiosa, que a êste acompanha assinado pelo General de Divisão Pedro Aurélio de Góes Monteiro, Ministro da Guerra; Major-Brigadeiro Armando F. Trompowsky, Ministro da Aeronáutica e Vice-Almirante Jorge Dodsworth Martins, Ministro da Marinha.
 
@@ -14,7 +12,7 @@ O presente Decreto entrará em vigor na data de sua publicação, revogadas as d
 
 Rio de Janeiro, em 23 de julho de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 P. Góes Monteiro
 
@@ -22,11 +20,11 @@ Jorge Dodsworth Martins
 
 Armando Trompowsky
 
-<strong>REGULAMENTO PARA O SERVIÇO DE ASSISTÊNCIA RELIGIOSA</strong>
+**REGULAMENTO PARA O SERVIÇO DE ASSISTÊNCIA RELIGIOSA**
 
 I - FINALIDADES
 
-<strong>Art</strong>. 1º O Serviço de Assistência Religiosa (S. A. R.) instituído pelo Decreto-lei nº 8.921, de 26 de janeiro de 1946 e alterado pelo nº 9.505, de 23 de julho de 1946, destina-se:
+**Art**. 1º O Serviço de Assistência Religiosa (S. A. R.) instituído pelo Decreto-lei nº 8.921, de 26 de janeiro de 1946 e alterado pelo nº 9.505, de 23 de julho de 1946, destina-se:
 
 a) prestar assistência religiosa nas guarnições, unidades de tropa, navios, bases, hospitais e outros estabelecimentos, dentro do espiríto de liberdade religiosa das leis e das tradições do País;
 
@@ -36,17 +34,17 @@ c) auxiliar a ministrar a instrução de Edudação Moral e Cívica;
 
 d) desempenhar, em cooperação com todos so escalões de comando, os encargos relacionados com a assistência espiritual, moral e social dos militares e suas famílias.
 
-<strong>Art</strong>. 2º A assistência religiosa compreende o exercício do ministério sacerdotal relativo a cada religião ou culto em favor dos seus adeptos, realizados num ambiente de absoluto respeito e mútua tolerância pela crenças alheias, de modo a que, sem coação ou constrangimento possa cada um desobrigar-se de seus deveres religiosos e satisfazer aos ditames de sua consciência e aos imperativos de sua fé.
+**Art**. 2º A assistência religiosa compreende o exercício do ministério sacerdotal relativo a cada religião ou culto em favor dos seus adeptos, realizados num ambiente de absoluto respeito e mútua tolerância pela crenças alheias, de modo a que, sem coação ou constrangimento possa cada um desobrigar-se de seus deveres religiosos e satisfazer aos ditames de sua consciência e aos imperativos de sua fé.
 
-<strong>Art</strong>. 3º A assistência espiritual compreende o Ministério de feição paternal a ser exercido em benefício de todos e de cada um em particular sem distinção de credos, no sentido de criar um ambiente de cordialidade, de otimismo, de confiança, de serenidade e valor, indispensável nas organizações militares.
+**Art**. 3º A assistência espiritual compreende o Ministério de feição paternal a ser exercido em benefício de todos e de cada um em particular sem distinção de credos, no sentido de criar um ambiente de cordialidade, de otimismo, de confiança, de serenidade e valor, indispensável nas organizações militares.
 
-<strong>Art</strong>. 4º A colaboração na Educação Moral e Cívica será prestada de acôrdo com os preceitos regulamentares e programas de instrução.
+**Art**. 4º A colaboração na Educação Moral e Cívica será prestada de acôrdo com os preceitos regulamentares e programas de instrução.
 
 II - DIREÇÃO E FUNCIONAMENTO
 
-<strong>Art</strong>. 5º O Serviço de Assistência Religiosa terá uma direção única para os três ministérios - a Chefia do Serviço de Assistência Religiosa, com exercício junto ao Conselho de Segurança Nacional, a que fica subordinada.
+**Art**. 5º O Serviço de Assistência Religiosa terá uma direção única para os três ministérios - a Chefia do Serviço de Assistência Religiosa, com exercício junto ao Conselho de Segurança Nacional, a que fica subordinada.
 
-<strong>Art</strong>. 6º Competem á Chefia do Serviço de Assistência Religiosa, além da direção geral do Serviço, as seguintes atribuições:
+**Art**. 6º Competem á Chefia do Serviço de Assistência Religiosa, além da direção geral do Serviço, as seguintes atribuições:
 
 a) manter íntima ligaçao com os ministérios interessados e com êles estabelecer os entendimentos necessários para, atendendo às suas particularidades de organização, obter-se uma execução harmônica e coordenada do serviço entre os mesmos;
 
@@ -72,21 +70,21 @@ k) estabelecer relações com associações civis, de caráter religioso ou não
 
 1 - providenciar sôbre os recursos orçamentários para o provimento do material necessário ao funcionamento do S. A. R. e sua distribuição.
 
-<strong>Art</strong>. 7º As ligações entre a Chefia do S. A. R. e os Ministério serão feitas por intermédio dos Gabinetes dos respectivos Ministros.
+**Art**. 7º As ligações entre a Chefia do S. A. R. e os Ministério serão feitas por intermédio dos Gabinetes dos respectivos Ministros.
 
-<strong>Art</strong>. 8º A Chefia do S. A. R. será exercida por um Capelão Militar, escolhido dentre os da religião ou culto de maior número e para isso, especialmente nomeado por Decreto do Presidente da República.
+**Art**. 8º A Chefia do S. A. R. será exercida por um Capelão Militar, escolhido dentre os da religião ou culto de maior número e para isso, especialmente nomeado por Decreto do Presidente da República.
 
 Parágrafo único. Para o exercício das atribuições especificadas neste regulamento e de todos os encargos ligados quer às obras sociais e espirituais, quer às obras sociais e espirituais, quer às puramente religiosas, serão concedidas ao capelão Chefe tôdas as facilidades e reconhecidos as prerrogativas ou privilégios de jurisdição que nesse sentido lhe forem outorgados pela autoridade eclesiástica competente.
 
 III - DA NOMEAÇÃO E EXONERAÇÃO DOS CAPELÃES
 
-<strong>Art</strong>. 9º Os capelães militares serão nomeados por Decreto do Presidente da República.
+**Art**. 9º Os capelães militares serão nomeados por Decreto do Presidente da República.
 
-<strong>Art</strong>. 10. A nomeação dos capelães será feita por um período de três anos, podendo, no interêsse do serviço, por indicação dos Ministérios interessados e da Chefia do S. A. R., ser o Capelão reconduzidos por períodos de igual duração.
+**Art**. 10. A nomeação dos capelães será feita por um período de três anos, podendo, no interêsse do serviço, por indicação dos Ministérios interessados e da Chefia do S. A. R., ser o Capelão reconduzidos por períodos de igual duração.
 
-<strong>Art</strong>. 11. A classificação inicial dos capelães será feita pelos Ministérios a que se pertencerem e poderá ser alterada, de acôrdo com as necessidade do Serviço.
+**Art**. 11. A classificação inicial dos capelães será feita pelos Ministérios a que se pertencerem e poderá ser alterada, de acôrdo com as necessidade do Serviço.
 
-<strong>Art</strong>. 12. O candidato a capelão deverá satisfazer aos seguintes requisitos:
+**Art**. 12. O candidato a capelão deverá satisfazer aos seguintes requisitos:
 
 a) ser brasileiro nato, no gôzo dos direitos políticos;
 
@@ -100,15 +98,15 @@ e) ter entre 25 e 45 anos de idade, exceção feita para os que pertenceram à F
 
 f) fazer com aproveitamento um estágio de adaptação, junto a um dos capelães militares.
 
-<strong>Art</strong>. 13. O estágio a que se refere a letra <em>f</em> do número precedente destina-se a ministrar aos capelães as noções indispensáveis sôbre os regulamentos militares mais usuais; métodos e processos de instrução adotados pelas Fôrças Armadas e as atividades de um Capelão Militar. Terá a duração de dois meses, findos os quais, o Comandante da Unidade, encaminhará à Chefia do S. A. R. em caráter, reservado e com seu parecer, o conceito escrito do capelão sôbre o estagiário.
+**Art**. 13. O estágio a que se refere a letra *f* do número precedente destina-se a ministrar aos capelães as noções indispensáveis sôbre os regulamentos militares mais usuais; métodos e processos de instrução adotados pelas Fôrças Armadas e as atividades de um Capelão Militar. Terá a duração de dois meses, findos os quais, o Comandante da Unidade, encaminhará à Chefia do S. A. R. em caráter, reservado e com seu parecer, o conceito escrito do capelão sôbre o estagiário.
 
 Parágrafo único. O candidato que fôr designado para fazer o estágio, não percebe remuneração alguma durante o mesmo.
 
-<strong>Art</strong>. 14. A indicação de que trata a letra <em>c</em> do art. 12, documento essencial e imprescindível para a aceitação de um Capelão de qualquer religião ou culto, deverá ser encaminhada à Chefia do S. A. R. e vir acompanhada de documentos que comprovem os requisitos exigidos nas letras <em>i, b</em> e <em>e</em> do mesmo artigo; que forma sôbre um conceito ou juízo que forma sôbre o indicado; de títulos e quaisquer informações referentes às suas atividades nos meios civil e militar e que facilitem estabelecer uma seleção entre os candidatos de uma mesma religião e da declaração da preferência do candidato por uma das Fôrças Armadas.
+**Art**. 14. A indicação de que trata a letra *c* do art. 12, documento essencial e imprescindível para a aceitação de um Capelão de qualquer religião ou culto, deverá ser encaminhada à Chefia do S. A. R. e vir acompanhada de documentos que comprovem os requisitos exigidos nas letras *i, b* e *e* do mesmo artigo; que forma sôbre um conceito ou juízo que forma sôbre o indicado; de títulos e quaisquer informações referentes às suas atividades nos meios civil e militar e que facilitem estabelecer uma seleção entre os candidatos de uma mesma religião e da declaração da preferência do candidato por uma das Fôrças Armadas.
 
-<strong>Art</strong>. 15. Para o preenchimento das capelanias vagas, a Chefia do S. A. R. providenciará sôbre a indicação de candidatos, procurando obtê-los, de preferência, junto às autoridades eclesiásticas em cuja jurisdição ocorrerem tais claros.
+**Art**. 15. Para o preenchimento das capelanias vagas, a Chefia do S. A. R. providenciará sôbre a indicação de candidatos, procurando obtê-los, de preferência, junto às autoridades eclesiásticas em cuja jurisdição ocorrerem tais claros.
 
-<strong>Art</strong>. 16. Os capelães poderão ser exonerados nos seguintes casos:
+**Art**. 16. Os capelães poderão ser exonerados nos seguintes casos:
 
 a) a pedido;
 
@@ -120,7 +118,7 @@ d) por solicitação da autoridade eclisiática de que origináriamente depende 
 
 IV - DEVERES E ATRIBUIÇÕES DOS CAPELÃES
 
-<strong>Art</strong>. 17. São deveres e atribuições do capelão, em geral:
+**Art**. 17. São deveres e atribuições do capelão, em geral:
 
 a) auxiliar com dedicação, em suas funções de Capelão, os Chefes Militares;
 
@@ -146,19 +144,19 @@ k) zelar pela pronta e fiel execução das diretivas, ordens e instruções do S
 
 l) organizar um relatório semestral do funcionamento e das atividades do serviço a seu cargo, o qual será encaminhado pelo comandante do corpo, navio, base ou estabelecimento à autoridade superior, com seu parecer.
 
-<strong>Art</strong>. 18. Aos capelães em serviço nos quartéis generais, regionais compete ainda inteirar-se do andamento do Serviço de Assistência Religiosa dentro de sua Região para trazer o comandante da mesma a par de seu funcionamento, cooperando para que o desenvolvimento do Serviço seja sempre crescente.
+**Art**. 18. Aos capelães em serviço nos quartéis generais, regionais compete ainda inteirar-se do andamento do Serviço de Assistência Religiosa dentro de sua Região para trazer o comandante da mesma a par de seu funcionamento, cooperando para que o desenvolvimento do Serviço seja sempre crescente.
 
-<strong>Art</strong>. 19. Os capelães, em sua qualidade de não combatentes (Convenção de Genebra), não poderão usar armas e não serão designados para serviços incompatíveis ou alheios ao seu ministério.
+**Art**. 19. Os capelães, em sua qualidade de não combatentes (Convenção de Genebra), não poderão usar armas e não serão designados para serviços incompatíveis ou alheios ao seu ministério.
 
-<strong>Art</strong>. 20. Os capelães providenciarão sôbre a organização, em cada unidade sob sua jurisdição, de um núcleo das associações referidas na letra <em>k</em> do art. 6º e na forma estabelecida pelos respectivos estatutos.
+**Art**. 20. Os capelães providenciarão sôbre a organização, em cada unidade sob sua jurisdição, de um núcleo das associações referidas na letra *k* do art. 6º e na forma estabelecida pelos respectivos estatutos.
 
 Dêsse núcleo, para cujo funcionamento serão concedidas as permissões e facilidades pelos respectivos comandantes ou chefes, obterão os capelães os auxiliares para os seus serviços.
 
 V - DOS CHEFES MILITARES - DEVERES E ATRIBUIÇÕES
 
-<strong>Art</strong>. 21. Os Ministérios proporcionarão ao Capelão Chefe tôdas as facilidades indispensáveis ao exercício de seu cargo, quer na organização e direção geral do serviço, quer nos trabalhos de execução e inspeção, facilitando-lhes todos os meios materiais necessários à vida do S.A.R. e à efetiva fiscalização de seu funcionamento.
+**Art**. 21. Os Ministérios proporcionarão ao Capelão Chefe tôdas as facilidades indispensáveis ao exercício de seu cargo, quer na organização e direção geral do serviço, quer nos trabalhos de execução e inspeção, facilitando-lhes todos os meios materiais necessários à vida do S.A.R. e à efetiva fiscalização de seu funcionamento.
 
-<strong>Art</strong>. 22. São deveres e atribuições de todos os Chefes Militares:
+**Art**. 22. São deveres e atribuições de todos os Chefes Militares:
 
 a) prestar aos capelães o apoio moral indispensável ao desempenho de seus encargos e atribuições;
 
@@ -172,25 +170,25 @@ e) fazer organizar a fôlha de alterações dos capelães, nos mesmos moldes e p
 
 VI - MEIOS MATERIAIS E DISTINTIVOS
 
-<strong>Art</strong>. 23. O S.A.R. utilizará as insígnias aprovadas pelos respectivos Ministros para cada Ministério, tomando por base as utilizadas pelo Serviço de Assistência Religiosa da Fôrça Expedicionária Brasileira.
+**Art**. 23. O S.A.R. utilizará as insígnias aprovadas pelos respectivos Ministros para cada Ministério, tomando por base as utilizadas pelo Serviço de Assistência Religiosa da Fôrça Expedicionária Brasileira.
 
 Serão usadas no tempo e lugar designados para os ofícios religiosos e nos quartéis, navios, bases ou estacionamento, para indicar a sede da capelania.
 
-<strong>Art</strong>. 24. Os Ministérios farão imprimir e distribuir os manuais ou livros de culto julgados úteis às praças e que lhes tenham sido solicitados pela Chefia do S.A.R.
+**Art**. 24. Os Ministérios farão imprimir e distribuir os manuais ou livros de culto julgados úteis às praças e que lhes tenham sido solicitados pela Chefia do S.A.R.
 
-<strong>Art</strong>. 25 Nos quartéis, estabelecimentos navios e bases os atos religiosos serão indicados pelo toque ”capelão” constante da ordenança respectiva.
+**Art**. 25 Nos quartéis, estabelecimentos navios e bases os atos religiosos serão indicados pelo toque ”capelão” constante da ordenança respectiva.
 
 VII- DISPOSIÇÕES DIVERSAS
 
-<strong>Art</strong>. 26 O capelão pertencerá ao Estado Maior do Corpo ou Unidade em que servir.
+**Art**. 26 O capelão pertencerá ao Estado Maior do Corpo ou Unidade em que servir.
 
-<strong>Art</strong>. 27 Os capelães terão vencimentos e vantagens que lhe foram fixadas pelo Decreto-lei nº 9.505, de 23 de julho de 1946.
+**Art**. 27 Os capelães terão vencimentos e vantagens que lhe foram fixadas pelo Decreto-lei nº 9.505, de 23 de julho de 1946.
 
-<strong>Art</strong>. 28 A permanência do capelão no quartel, navio, base ou estabelecimento, não se deve subordinar às horas do expediente normal, pois que o capelão poderá ter que se ausentar para tratar de assuntos externos atinentes ao S.A.R, o que fará com prévio conhecimento do Comando a que estiver subordinado.
+**Art**. 28 A permanência do capelão no quartel, navio, base ou estabelecimento, não se deve subordinar às horas do expediente normal, pois que o capelão poderá ter que se ausentar para tratar de assuntos externos atinentes ao S.A.R, o que fará com prévio conhecimento do Comando a que estiver subordinado.
 
 Rio de janeiro, 23 de julho de 1946,
 
-<strong>P. GÓES MONTEIRO</strong>
+**P. GÓES MONTEIRO**
 
 Jorge Dodsworth Martins
 

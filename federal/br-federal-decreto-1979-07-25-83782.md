@@ -1,5 +1,3 @@
-###DEC-083782-0-000-25-07-1979@@@
-
 decreto nº 83.782, de 25 de julho de 1979.
 
 Concede autorização ao Departamento de Zoologia, da Universidade de Cambridge, Grã-Bretanha, para realizar, no Brasil, os serviços que especifica.

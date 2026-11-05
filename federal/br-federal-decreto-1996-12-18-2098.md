@@ -1,7 +1,3 @@
-1
-
-###DEC-002098-0-000-18-12-1996@@@
-
 DECRETO Nº 2.098, DE 18 DE DEZEMBRO DE 1996.
 
 Dá nova redação ao art. 1º do Decreto nº 1.299, de 31 de outubro de 1994, que fixa a lotação dos Adidos, Adjuntos e Auxiliares de Adidos Militares junto às representações diplomáticas no exterior.

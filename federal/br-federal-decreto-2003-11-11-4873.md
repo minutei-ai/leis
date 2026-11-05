@@ -1,5 +1,3 @@
-###DEC-004873-0-000-11-11-2003@@@
-
 DECRETO Nº 4.873,  DE 11 DE NOVEMBRO DE 2003.
 
        Institui o Programa Nacional de Universalização do Acesso e Uso da Energia Elétrica - "LUZ PARA TODOS" e dá outras providências.
@@ -78,5 +76,6 @@ O PRESIDENTE DA REPÚBLICA, no uso das atribuições que lhe confere o art. 84, 
 
         Brasília, 11 de novembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Dilma Vana Roussef

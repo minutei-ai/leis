@@ -1,5 +1,3 @@
-###DEC-069539-0-000-16-11-1971@@@
-
 DECRETO Nº 69.539 - de 16 de Novembro de 1971
 
 Autoriza o funcionamento do Escola Superior Integrada de Educação Física e Prática Desportiva de Guarulhos - S.P.

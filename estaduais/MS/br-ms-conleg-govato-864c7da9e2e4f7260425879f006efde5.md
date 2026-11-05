@@ -6,15 +6,16 @@ Denomina de Delegado Olindo Inácio da Silva, o prédio da 1ª Delegacia de Pol�
 
 Publicada no Diário Oficial nº 10.694, de 1º de dezembro de 2021, página 28.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º O prédio da 1ª Delegacia de Polícia Civil e da Delegacia Regional do Município de Fátima do Sul passa a denominar-se Delegado Olindo Inácio da Silva.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º O prédio da 1ª Delegacia de Polícia Civil e da Delegacia Regional do Município de Fátima do Sul passa a denominar-se Delegado Olindo Inácio da Silva.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 30 de novembro de 2021.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

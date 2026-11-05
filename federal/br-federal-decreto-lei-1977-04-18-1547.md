@@ -1,5 +1,3 @@
-###DEL-001547-0-000-18-04-1977@@@
-
 # DECRETO-LEI Nº 1.547, DE 18 DE ABRIL DE 1977
 
 Institui incentivo fiscal para o setor siderúrgico e dá outras providências.

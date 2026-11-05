@@ -1,5 +1,3 @@
-###DEC-058424-0-000-17-05-1966@@@
-
 Decreto nº 58.424, de 17 de maio de 1966.
 
 Concede autorização para o funcionamento do Curso de Matemática da Faculdade de Filosofia de Campos, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-046705-0-000-24-08-1959@@@
-
 DECRETO Nº 46.705, DE 24 DE AGÔSTO DE 1959.
 
 Autoriza o Serviço do patrimônio da União a aceitar doação de imóvel que faz particular ao Ministério da Guerra.

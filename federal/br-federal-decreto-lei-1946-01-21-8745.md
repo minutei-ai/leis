@@ -1,5 +1,3 @@
-###DEL-008745-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.745 – DE 21 DE JANEIRO DE 1946
 
 Manda aproveitar no Departamento dos Correios e Telégrafos o pessoal em exercício nas Censuras Postal e Telegráfica até a data da extinção das mesmas, e dá outras providências.

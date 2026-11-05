@@ -1,5 +1,3 @@
-###DEC-091731-0-000-03-10-1985@@@
-
 Decreto nº 91.731, de 03 de Outubro de 1985
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Filosofia, Ciências e Letras de Uruguaiana, Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-067435-0-000-22-10-1970@@@
-
 DECRETO Nº 67.435, DE 22 DE OUTUBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça cargos originários do extinto Lloyd Brasileiro - Patrimônio Nacional.

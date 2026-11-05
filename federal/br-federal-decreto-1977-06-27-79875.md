@@ -1,5 +1,3 @@
-###DEC-079875-0-000-27-06-1977@@@
-
 DECRETO Nº 79.875, DE 27 DE JUNHO DE 1977
 
 Renova prazo de concessão outorgada à concessão à Companhia da Passagem, para o uso exclusivo, do aproveitamento de energia hidráulica da cachoeira denominadas "Bicas", situada no Rio Gualaxo do Norte, Distrito de Camargos, Município de Mariana, Estado de Minas Gerais.

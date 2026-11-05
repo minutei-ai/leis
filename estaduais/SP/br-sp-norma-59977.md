@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59977)
-
 # LEI Nº 12.235, DE 18 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 506/2005, do Deputado Ricardo Trípoli - PSDB)

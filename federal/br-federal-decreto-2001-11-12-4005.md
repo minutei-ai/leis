@@ -1,5 +1,3 @@
-###DEC-004005-0-000-12-11-2001@@@
-
 DECRETO Nº 4.005, DE 12 DE NOVEMBRO DE 2001
 
 Dispõe sobre a execução do Quadragésimo Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 2 (veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 31 de julho de 2001.

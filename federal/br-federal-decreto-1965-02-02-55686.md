@@ -1,5 +1,3 @@
-###DEC-055686-0-000-02-02-1965@@@
-
 DECRETO Nº 55.686, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza a Química Industrial Barra do Piraí S.A. a pesquisar caulim no município de Itabirito, Estado de Minas Gerais.

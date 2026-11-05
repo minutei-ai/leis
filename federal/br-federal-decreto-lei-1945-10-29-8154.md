@@ -1,5 +1,3 @@
-###DEL-008154-0-000-29-10-1945@@@
-
 DECRETO-LEI N. 8.154 – DE 29 DE OUTUBRO DE 1945
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 108.475,20 á verba que especifica.

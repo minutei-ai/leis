@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57020)
-
 # LEI Nº 11.976, DE 25 DE AGOSTO DE 2005
 
 ## ( PL 679/2002 - Arnaldo Jardim)

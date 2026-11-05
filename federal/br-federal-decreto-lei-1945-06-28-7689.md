@@ -1,5 +1,3 @@
-###DEL-007689-0-000-28-06-1945@@@
-
 DECRETO-LEI N. 7.689 – DE 28 DE JUNHO DE 1945
 
 Autoriza o Ministério da Aeronáutica a celebrar contrato com o Govêrno do Estado de São Paulo, para a exploração do Aeroporto de Congonhas.

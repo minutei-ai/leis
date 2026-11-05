@@ -1,5 +1,3 @@
-###DEC-058565-0-000-01-06-1966@@@
-
 DECRETO Nº 58.565, de 1º de junho de 1966.
 
 Concede nacionalização à Société Anonyme du Gaz de Rio de Janeiro sob a denominação de Sociedade Anônima do Gás do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-048992-0-000-04-10-1960@@@
-
 DECRETO Nº 48.992, DE 4 DE OUTUBRO DE 1960.
 
 Declara de utilidade pública a Casa São Luiz para a Velhice, com sede no Rio de Janeiro, Estado da Guanabara.

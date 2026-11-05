@@ -1,5 +1,3 @@
-###DEC-078461-0-000-27-09-1976@@@
-
 DECRETO Nº 78.461, DE 27 DE SETEMBRO DE 1976.
 
 Inclui no Plano Preferencial de Obras Rodoviárias Federais, aprovado pelo Decreto número 61.594, de 24 de outubro de 1967, o trecho que menciona.

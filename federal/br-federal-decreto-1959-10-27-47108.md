@@ -1,5 +1,3 @@
-###DEC-047108-0-000-27-10-1959@@@
-
 Decreto nº 47.108, de 27 de outubro de 1959.
 
 Autoriza o cidadão brasileiro José Emiliano de Moura a pesquisar quartzo e mica no município de Malacacheta, Estado de Minas Gerais.

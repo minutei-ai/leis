@@ -1,5 +1,3 @@
-###DEL-004784-0-000-05-10-1942@@@
-
 DECRETO-LEI N. 4.784 – DE 5 DE OUTUBRO DE 1942
 
 Autoriza a emissão de papel-moeda até 600.000:000$0

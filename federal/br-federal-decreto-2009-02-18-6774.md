@@ -1,5 +1,3 @@
-###DEC-006774-0-000-18-02-2009@@@
-
 DECRETO Nº 6.774, DE 18 DE FEVEREIRO DE 2009.
 
 Dispõe sobre a criação da Embaixada do Brasil em São Cristóvão e Névis, com sede em Basse-Terre.

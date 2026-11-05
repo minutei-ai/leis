@@ -1,5 +1,3 @@
-###DEC-006601-0-000-10-10-2008@@@
-
 DECRETO Nº 6.601, DE 10 DE OUTUBRO DE 2008.
 
 Dispõe sobre a gestão do Plano Plurianual 2008-2011 e de seus programas.

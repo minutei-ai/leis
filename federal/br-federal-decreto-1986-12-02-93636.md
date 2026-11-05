@@ -1,5 +1,3 @@
-###DEC-093636-0-000-02-12-1986@@@
-
 DECRETO Nº 93.636, DE 2 DE DEZEMBRO De 1986
 
 Declara de utilidade pública e interesse social, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas (DNOCS), área de terra necessária à construção do Açude Público ''Saco II'', no Município de Santa Maria da Boa Vista, Estado de Pernambuco, para a execução do Programa de Irrigação do Nordeste (PROINE), e dá outras providências.

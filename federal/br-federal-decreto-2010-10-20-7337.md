@@ -1,5 +1,3 @@
-###DEC-007337-0-000-20-10-2010-PUB-01@@@
-
 DECRETO Nº 7.337, DE 20 DE OUTUBRO DE 2010.
 
 Dispõe sobre as condições de amortização dos contratos de financiamento celebrados no âmbito do Fundo de Financiamento ao Estudante do Ensino Superior - FIES.

@@ -1,5 +1,3 @@
-###DEC-066341-0-000-18-03-1970@@@
-
 decreto nº 66.341 - de 18 de março de 1970
 
 Transforma o 7º Regimento de Infantaria em 7º Batalhão de Infantaria e dá outras providências.

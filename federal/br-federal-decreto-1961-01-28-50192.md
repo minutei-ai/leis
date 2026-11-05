@@ -1,5 +1,3 @@
-###DEC-050192-0-000-28-01-1961@@@
-
 DECRETO Nº 50.192, DE 28 DE JANEIRO DE 1961.
 
 Dispõe sôbre reserva de terras para atividades da Fundação Brasil Central.

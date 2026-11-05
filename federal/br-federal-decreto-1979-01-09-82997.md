@@ -1,5 +1,3 @@
-###DEC-082997-0-000-09-01-1979@@@
-
 Decreto nº 82.997, de 09 de janeiro de 1979
 
 Concede novo prazo para cumprimento do disposto no artigo 2º do Decreto nº 70.512, de 12 de maio de 1972.

@@ -1,5 +1,3 @@
-###MPV-001779-0-009-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.779-9, DE 8 DE ABRIL DE 1999.
 
 Altera a Consolidação das Leis do Trabalho - CLT, para dispor sobre o trabalho a tempo parcial, a suspensão do contrato de trabalho e o programa de qualificação profissional, modifica as Leis nºs 6.321, de 14 de abril de 1976, 6.494, de 7 de dezembro de 1977, e 7.998, de 11 de janeiro de 1990, e dá outras providências.

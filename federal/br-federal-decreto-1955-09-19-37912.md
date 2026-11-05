@@ -1,14 +1,12 @@
-###DEC-037912-0-000-19-09-1955@@@
+**DECRETO N. 37.912 – DE 19 DE SETEMBRO DE 1955**
 
-<strong>DECRETO N. 37.912 – DE 19 DE SETEMBRO DE 1955</strong>
-
-<em><strong>Declara de utilidade pública diversas áreas de terra, necessárias à construção da linha de transmissão de que trata o Decreto número 37.063, de 21 de março de 1955, e autoriza a Companhia de Carris, Luz e Fôrça do Rio de Janeiro. Limitada, a promover à desapropriação das mesmas.</strong></em>
+***Declara de utilidade pública diversas áreas de terra, necessárias à construção da linha de transmissão de que trata o Decreto número 37.063, de 21 de março de 1955, e autoriza a Companhia de Carris, Luz e Fôrça do Rio de Janeiro. Limitada, a promover à desapropriação das mesmas.***
 
 O Presidente da República, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, tendo em vista o disposto no Decreto-lei nº 3.365, de 21 de junho de 1941, e o requerido pela interessada,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º São declaradas de utilidade pública as seguintes áreas de terra destinadas à passagem da linha de transmissão de que trata o Decreto nº 37.063, de 21 de março de 1955 entre o km. 32 da linha Fontes - Cascadura e as instalações da Prefeitura do Distrito Federal localizadas as margens do rio Guandú, no município de Nova Iguaçu, cuja planta nº 52.112, folhas 1 e 2, foi aprovada pelo Ministro da Agricultura:
+**Art.** 1º São declaradas de utilidade pública as seguintes áreas de terra destinadas à passagem da linha de transmissão de que trata o Decreto nº 37.063, de 21 de março de 1955 entre o km. 32 da linha Fontes - Cascadura e as instalações da Prefeitura do Distrito Federal localizadas as margens do rio Guandú, no município de Nova Iguaçu, cuja planta nº 52.112, folhas 1 e 2, foi aprovada pelo Ministro da Agricultura:
 
 1 – Área de 6.510,00 m<sup>2</sup> (seis mil quinhentos e dez metros quadrados), de propriedade atribuída ao Espólio de José Lopes Martins - (gleba 1);
 
@@ -82,18 +80,18 @@ O Presidente da República, usando da atribuição que lhe confere o artigo 87, 
 
 31 – Área de 11.670,00 m<sup>2</sup> (onze mil seiscentos e setenta metros quadrados), de propriedade atribuída a Álvaro Flores (gIeba 44);
 
-<strong>Art.</strong> 2º Fica constituída em favor da Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito atribuído a emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
+**Art.** 2º Fica constituída em favor da Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada, na qualidade de concessionária de serviços de energia elétrica e para os fins indicados no artigo anterior, a servidão necessária, a qual compreende o direito atribuído a emprêsa concessionária de praticar todos os atos de construção, manutenção e conservação da mencionada linha de transmissão de energia elétrica e de linhas telegráficas ou telefônicas auxiliares.
 
 § 1º Os proprietários das áreas de terra atingido pelo ônus limitarão o uso e gôzo das mesmas ao que fôr compatível com a existência da servidão abstendo-se em conseqüência de praticar, dentro dessas áreas, quaisquer atos que a embaracem ou lhe causem dano, incluídos entre êles os de erguerem construções ou fazerem plantações de elevado porte.
 
 § 2º A Companhia de Carris, Luz e Fôrça do Rio de Janeiro, Limitada fica autorizada a promover no caso de embaraço oposto pelos proprietários ao exercício da servidão, as medidas judiciais necessárias ao seu reconhecimento, inclusive a utilizar-se do processo de desapropriação nos têrmos do art. 40 do Decreto-lei número 3.365, de 21 de junho de 1941.
 
-<strong>Art.</strong> 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art.** 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art.</strong> 4.º Revogam-se as disposições em contrário.
+**Art.** 4.º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de setembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO.</strong>
+**JOÃO CAFÉ FILHO.**
 
 Munhoz da Rocha.

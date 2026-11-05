@@ -1,5 +1,3 @@
-###LCP-000118-0-000-09-02-2005@@@
-
 LEI COMPLEMENTAR Nº 118, DE 9 DE FEVEREIRO DE 2005
 
 Altera e acrescenta dispositivos à Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário Nacional, e dispõe sobre a interpretação do inciso I do art. 168 da mesma Lei.

@@ -1,5 +1,3 @@
-###DEC-064637-0-000-03-06-1969@@@
-
 DECRETO Nº 64.637, DE 3 DE JUNHO DE 1969.
 
 Declara caduco o Decreto nº 8.237 de 19 de novembro de 1941.

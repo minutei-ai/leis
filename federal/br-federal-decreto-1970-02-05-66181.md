@@ -1,5 +1,3 @@
-###DEC-066181-0-000-05-02-1970@@@
-
 DECRETO Nº 66.181 - DE 5 DE FEVEREIRO DE 1970
 
 Atualiza os valôres das anuidades e taxas a que se refere a Lei nº 2.800, de 18 de junho de 1956.

@@ -1,5 +1,3 @@
-###DEC-094181-0-000-06-04-1987@@@
-
 DECRETO N° 94.181, DE 6 DE ABRIL DE 1987
 
 Renova a concessão outorgada à RÁDIO TAMADARÉ S/A., para explorar serviço de radiodifusão sonora em onda média, na cidade de Recife, Estado de Pernambuco.

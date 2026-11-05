@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211398)<br>
-
 # LEI N° 18.196, DE 01 DE SETEMBRO DE 2025
 
 ## (Projeto de lei n.° 1569/2023, do Deputado Ricardo França - PODE)

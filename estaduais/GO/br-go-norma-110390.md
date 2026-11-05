@@ -1,4 +1,5 @@
-LEI Nº 23.230, DE 16 DE JANEIRO DE 2025<br>
+LEI Nº 23.230, DE 16 DE JANEIRO DE 2025
+
  
 
 Altera a [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749/lei-21792), de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.

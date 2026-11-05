@@ -1,5 +1,3 @@
-###DEC-067575-0-000-16-11-1970@@@
-
 Decreto Nº 67.575, de 16 de novembro de 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de um ramal que se estenderá desde a linha de transmissão Botucatu-Piracicaba, até a subestação de Botucatu, no município de Botucatu, no Estado de São Paulo.

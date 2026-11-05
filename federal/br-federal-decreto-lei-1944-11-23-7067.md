@@ -1,5 +1,3 @@
-###DEL-007067-0-000-23-11-1944@@@
-
 DECRETO-LEI N. 7.067 – DE 23 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.000,00, para pagamento de contribuição devida à Contadoria Geral de Transportes

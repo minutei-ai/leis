@@ -1,5 +1,3 @@
-###DEC-089231-0-000-22-12-1983@@@
-
 Decreto nº 89.231, de 22 de dezembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à SOCIEDADE MINEIRA DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Juiz de Fora, Estado de Minas Gerais.

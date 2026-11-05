@@ -1,5 +1,3 @@
-###DEL-004074-0-000-31-01-1942@@@
-
 DECRETO-LEI N. 4.074 – DE 31 DE JANEIRO DE 1942
 
 Organiza o 1º Grupo Movel de Artilharia de Costa na 7ª Região Militar

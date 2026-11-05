@@ -1,5 +1,3 @@
-###DEC-060217-0-000-14-02-1967@@@
-
 DECRETO Nº 60.217, DE 14 DE FEVEREIRO DE 1967.
 
 Abre, ao Ministério do Trabalho e Previdência Social, o crédito especial de Cr$5.425.440.000, para atender às despesas com o pagamento do abono familiar referente ao exercício de 1964.

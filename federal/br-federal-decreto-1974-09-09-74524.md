@@ -1,5 +1,3 @@
-###DEC-074524-0-000-09-09-1974@@@
-
 Decreto nº 74.524, de 9 de setembro de 1974.
 
 Cancela autorização para funcionamento no Brasil da The Liverpool & London & Globe Insurance Company Limited.

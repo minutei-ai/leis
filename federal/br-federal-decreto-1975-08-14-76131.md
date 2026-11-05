@@ -1,5 +1,3 @@
-###DEC-076131-0-000-14-08-1975@@@
-
 Decreto nº 76.131 - de 14 de agosto de 1975
 
 Autoriza o funcionamento da habilitação em Administração de Empresas curso de Ciências Administrativas da Escola Superior de Ciências Contábeis e Administrativas, com sede na cidade de Criciúma, Estado de Santa Catarina.

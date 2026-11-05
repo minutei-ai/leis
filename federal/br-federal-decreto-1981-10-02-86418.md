@@ -1,5 +1,3 @@
-###DEC-086418-0-000-02-10-1981@@@
-
 Decreto nº 86.418, de 02 de outubro de 1981.
 
 Concede autorização à empresa CONOCO ITINGA PETROLEUM SERVICES INC. para operar no mar territorial do Brasil, fixado pelo Decreto-Lei nº 1098, de 25 de março de 1970, a serviço da PETRÓLEO BRASILEIRO S.A. - PETROBRÁS.

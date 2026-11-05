@@ -1,7 +1,3 @@
-1
-
-###DEC-000997-0-000-30-11-1993@@@
-
 DECRETO N° 997, DE 30 DE NOVEMBRO DE 1993
 
 Cria a Zona de Processamento de Exportação - ZPE de Corumbá, no Estado do Mato Grosso do Sul.

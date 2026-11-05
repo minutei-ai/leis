@@ -1,5 +1,3 @@
-###DEC-087942-0-000-20-12-1982@@@
-
 Decreto Nº 87.942, de 20 de dezembro de 1982
 
 Dispõe sobre o aumento de capital do Banco de Roraima S.A.

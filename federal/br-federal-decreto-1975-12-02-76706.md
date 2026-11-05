@@ -1,5 +1,3 @@
-###DEC-076706-0-000-02-12-1975@@@
-
 DECRETO Nº 76.706, DE 2 DE DEZEMBRO DE 1975.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Itaituba-Pa, destinado ao Ministério do Exército.

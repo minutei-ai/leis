@@ -1,5 +1,3 @@
-###DEC-067953-0-000-23-12-1970@@@
-
 DECRETO Nº 67.953, DE 23 DE DEZEMBRO DE 1970.
 
 Concede reconhecimento ao Curso de Matemática da Faculdade de Filosofia, Ciências e Letras "Santa Marcelina" - Muriaé, MG.

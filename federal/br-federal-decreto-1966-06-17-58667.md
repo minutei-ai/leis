@@ -1,5 +1,3 @@
-###DEC-058667-0-000-17-06-1966@@@
-
 Decreto nº 58.667, de 17 de junho de 1966.
 
 Considera extinta concessão outorgada pelo Decreto nº 13.832, de 23 de outubro de 1919 e dá outras providências.

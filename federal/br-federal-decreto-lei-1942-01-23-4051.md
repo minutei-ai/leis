@@ -1,5 +1,3 @@
-###DEL-004051-0-000-23-01-1942@@@
-
 DECRETO-LEI N. 4.051 – DE 23 DE JANEIRO DE 1942
 
 Dispõe sobre o registo de estrangeiros e a multa devida por excesso de prazo

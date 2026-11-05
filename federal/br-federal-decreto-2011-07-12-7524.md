@@ -1,5 +1,3 @@
-###DEC-007524-0-000-12-07-2011-PUB-01@@@
-
 DECRETO Nº 7.524 DE 12 DE JULHO DE 2011.
 
 Altera o Decreto nº 5.741, de 30 de março de 2006, que regulamenta os arts. 27-A, 28-A e 29-A da Lei nº 8.171, de 17 de janeiro de 1991, e organiza o Sistema Unificado de Atenção à Sanidade Agropecuária.

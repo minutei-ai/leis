@@ -1,5 +1,3 @@
-###DEC-069868-0-000-30-12-1971@@@
-
 decreto nº 69.868 - de 30 de dezembro de 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, faixa de terra destinada à passagem de linha de transmissão entre as sedes dos municípios de Fazenda Nova e Nôvo Brasil, no Estado de Goiás.

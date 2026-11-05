@@ -1,5 +1,3 @@
-###DEC-051912-A-000-25-04-1963@@@
-
 DECRETO Nº 51.912-a, DE 25 DE ABRIL DE 1963.
 
 Outorga à Prefeitura Municipal de Livramento do Brumado concessão para o aproveitamento de energia hidráulica de um desnível existente no Rio Brumado, no distrito e município de Livramento do Brumado, Estado da Bahia.

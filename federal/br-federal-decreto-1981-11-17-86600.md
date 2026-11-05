@@ -1,5 +1,3 @@
-###DEC-086600-0-000-17-11-1981@@@
-
 Decreto nº 86.600, de 17 de novembro de 1981
 
 Regulamenta a Lei nº 6.445, de 4 de outubro de 1977, que dispõe sobre consignações em folha de pagamento de servidores civis, ativos e inativos, da Administração Federal Direta e das Autarquias Federais.

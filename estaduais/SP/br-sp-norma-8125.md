@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=8125)
-
 # LEI Nº 10.353, DE 23 DE AGOSTO DE 1999
 
 ### _Dá denominação de "Profª Cleise Marisa Siqueira" à EEPSG Jardim Heloísa II, na Capital._
@@ -20,9 +18,12 @@ Teresa Roserley Neubauer da Silva
 
 Secretária da Educação
 
-Celino Cardoso<br>
-Secretário-Chefe da Casa Civil<br>
-Antonio Angarita<br>
+Celino Cardoso
+
+Secretário-Chefe da Casa Civil
+
+Antonio Angarita
+
 Secretário do Governo e Gestão Estratégica
 
 Publicada na Assessoria Técnico-Legislativa, aos 23 de agosto de 1999.

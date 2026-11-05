@@ -1,14 +1,12 @@
-###DEC-043854-0-000-09-06-1958@@@
+**DECRETO Nº 43.854, DE 9 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.854, DE 9 DE JUNHO DE 1958.</strong>
+***Inclui funções gratificadas no Ministério da Agricultura, e dá outras providências.***
 
-<em><strong>Inclui funções gratificadas no Ministério da Agricultura, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam incluídas, no Ministério da Agricultura, as funções gratificadas abaixo discriminadas, com os respectivos símbolos, que integrarão a lotação do Departamento Nacional da Produção Vegetal - (D.N.P.V.):
+**Art**. 1º Ficam incluídas, no Ministério da Agricultura, as funções gratificadas abaixo discriminadas, com os respectivos símbolos, que integrarão a lotação do Departamento Nacional da Produção Vegetal - (D.N.P.V.):
 
 NA DIVISÃO DE FOMENTO DA PRODUÇÃO VEGETAL
 
@@ -50,16 +48,16 @@ Símbolo FG-4
 
 1 - Chefe da Seção de Administração.
 
-<strong>Art</strong>. 2º A atual função gratificada, símbolo FG-5, de Chefe da Estação Fitossenitária em São Bento de D.D.S.V., é atribuído o símbolo FG.-3.
+**Art**. 2º A atual função gratificada, símbolo FG-5, de Chefe da Estação Fitossenitária em São Bento de D.D.S.V., é atribuído o símbolo FG.-3.
 
-<strong>Art</strong>. 4º A despesa resultante da execução dêste decreto correrá à conta da dotação orçamentária própria prevista no corrente exercício.
+**Art**. 4º A despesa resultante da execução dêste decreto correrá à conta da dotação orçamentária própria prevista no corrente exercício.
 
-<strong>Art</strong>. 5º Êste decreto entrará em vigor na data de sua publicação.
+**Art**. 5º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 6º Revogam-se as disposições em contrário.
+**Art**. 6º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 9 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

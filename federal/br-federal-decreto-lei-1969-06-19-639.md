@@ -1,5 +1,3 @@
-###DEL-000639-0-000-19-06-1969@@@
-
 Decreto-lei nº 639, de 19 de Junho de 1969
 
 Entende a jurisdição da Junta de Conciliação e julgamento de Criciúma, Estado de Santa Catarina, pertencente à 4ª  Região, do Município de Lauro Müller, no mesmo Estado.

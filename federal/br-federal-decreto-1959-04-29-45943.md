@@ -1,5 +1,3 @@
-###DEC-045943-0-000-29-04-1959@@@
-
 Decreto nº 45.943, de 29 de abril de 1959.
 
 Acresce o número 6 à letra “e” do artigo 4º do Regulamento aprovado pelo Decreto nº 30.163, de 13 de novembro de 1951, modificado pelo art. 1º do Decreto nº 36.448, de 10 de novembro de 1954.

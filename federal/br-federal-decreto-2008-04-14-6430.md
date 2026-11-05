@@ -1,5 +1,3 @@
-###DEC-006430-0-000-14-04-2008@@@
-
 DECRETO Nº 6.430, DE 14 DE ABRIL DE 2008.
 
 Distribui os efetivos de oficiais da Marinha em tempo de paz, a vigorar em 2008, e fixa os percentuais mínimos dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha, que deverão ser ocupados exclusivamente por oficiais do sexo masculino.
@@ -225,5 +223,3 @@ Brasília, 14 de abril de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 15.4.2008

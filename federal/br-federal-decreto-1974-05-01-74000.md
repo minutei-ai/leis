@@ -1,5 +1,3 @@
-###DEC-074000-0-000-01-05-1974@@@
-
 DECRETO Nº 74.000, DE 1 DE MAIO DE 1974.
 
 Dispõe sobre a vinculação de entidades e dá outras providências.

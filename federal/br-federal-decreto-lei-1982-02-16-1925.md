@@ -1,5 +1,3 @@
-###DEL-001925-0-000-16-02-1982@@@
-
 # DECRETO-LEI Nº 1.925, DE 16 DE FEVEREIRO DE 1982.
 
 Fixa a remuneração do Governador do Estado de Rondônia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046569-0-000-13-08-1959@@@
-
 DECRETO Nº 46.569, DE 13 DE AGÔSTO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação que fazem o Estado do Ceará e a Municipalidade da Cidade de Crateús, de terreno necessário ao Ministério da Guera.

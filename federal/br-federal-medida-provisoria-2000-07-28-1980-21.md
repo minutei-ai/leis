@@ -1,5 +1,3 @@
-###MPV-001980-0-021\-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-21, DE 28 de julho DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

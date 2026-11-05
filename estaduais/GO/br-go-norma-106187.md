@@ -36,8 +36,6 @@ Art. 7º Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publi
 
 Goiânia, 11 de outubro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

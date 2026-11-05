@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ca9b66df-0508-4bb6-b3d4-b707ae5fae05/texto#nowhere)
 
-###DEL-001768-0-000-14-02-1980@@@
-
 # Decreto-lei nº 1.768, de 14 de fevereiro de 1980
 
 Autoriza a EMBRAER - Empresa Brasileira de Aeronáutica S.A., a criar uma sociedade subsidiária no exterior.

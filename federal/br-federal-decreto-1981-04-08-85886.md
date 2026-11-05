@@ -1,5 +1,3 @@
-###DEC-085886-0-000-08-04-1981@@@
-
 Decreto nº 85.886, de 08 de abril de 1981
 
 Autoriza o aumento de potência da RÁDIO DIFUSORA SANTARRITENSE LTDA., na cidade de Santa Rita do Sapucaí, Estado de Minas Gerais, de 0,25 kw para 1 kw.

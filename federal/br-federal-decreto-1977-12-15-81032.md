@@ -1,5 +1,3 @@
-###DEC-081032-0-000-15-12-1977@@@
-
 decreto nº 81 032, de 15 de dezembro de 1977.
 
 Concede reconhecimento ao Curso de Pedagogia da Faculdade Bandeirante de Filosofia, Ciências e Letras, com sede na cidade de Bragança Paulista, Estado de São Paulo.

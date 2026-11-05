@@ -1,5 +1,3 @@
-###DEC-082819-0-000-11-12-1978@@@
-
 Decreto n.º 82 819,de 11 de dezembro de 1978.
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

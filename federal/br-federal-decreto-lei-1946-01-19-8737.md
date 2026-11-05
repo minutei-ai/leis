@@ -1,5 +1,3 @@
-###DEL-008737-0-000-19-01-1946@@@
-
 DECRETO-LEI N. 8.737 – DE 19 DE JANEIRO DE 1946
 
 Altera disposições da Consolidação das Leis do Trabalho referentes à Justiça do Trabalho, e dá outras providências.

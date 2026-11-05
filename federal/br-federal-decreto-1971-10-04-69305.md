@@ -1,5 +1,3 @@
-###DEC-069305-0-000-04-10-1971@@@
-
 DECRETO Nº 69.305, DE 4 DE OUTUBRO DE 1971.
 
 Declara de utilidade pública a Ação Social Arquidiocesana de Florianópolis (ASA), com sede em Florianópolis, Estado de Santa Catarina.

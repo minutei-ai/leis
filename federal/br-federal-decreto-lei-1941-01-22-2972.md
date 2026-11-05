@@ -1,5 +1,3 @@
-###DEL-002972-0-000-22-01-1941@@@
-
 DECRETO-LEI N. 2.972 – DE 22 DE JANEIRO DE 1941
 
 Determina o alfandegamento da Agência Fiscal de 1ª ordem em Asseguá, no Estado do Rio Grande do Sul, e dá outras providências

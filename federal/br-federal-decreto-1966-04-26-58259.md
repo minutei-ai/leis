@@ -1,5 +1,3 @@
-###DEC-058259-0-000-26-04-1966@@@
-
 decreto nº 58.259, de 26 de abril de 1966.
 
 Transforma o Consulado de Carreira em Cardiff, Grã-Bretanha , em Consulado Honorário.

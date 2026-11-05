@@ -1,5 +1,3 @@
-###DEL-000032-0-000-01-12-1937@@@
-
 DECRETO-LEI N. 32 – DE 1 DE DEZEMBRO DE 1937
 
 Abre,  pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 800:000$00, para conclusão dos trabalhos de terraplenagem necessários à instalação de fábrica de aviões

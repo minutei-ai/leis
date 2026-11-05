@@ -1,5 +1,3 @@
-###DEC-086023-0-000-22-05-1981@@@
-
 Decreto nº 86.023, de 22 de maio de 1981.
 
 Outorga à Centrais Elétricas de Goiás S.A. - CELG concessão para o aproveitamento da energia hidráulica de um trecho do rio São Domingos, no Município de São Domingos, Estado de Goiás.

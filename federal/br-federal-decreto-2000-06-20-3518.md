@@ -1,5 +1,3 @@
-###DEC-003518-0-000-20-06-2000@@@
-
 DECRETO Nº 3.518, DE 20 DE JUNHO DE 2000.
 
 Regulamenta o Programa Federal de Assistência a Vítimas e a Testemunha Ameaçadas, instituído pelo art. 12 da Lei nº 9.807, de 13 de julho de 1999, e dispõe sobre a atuação da Polícia Federal nas hipóteses previstas nos arts. 2º, § 2º, 4º, § 2º, 5º, § 3º, e 15 da referida Lei.

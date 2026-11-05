@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/184928)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16660-12.01.2018.html)
 
 # LEI N° 16.660, DE 12 DE JANEIRO DE 2018
@@ -9,15 +8,24 @@
 
 ### _Dispõe sobre a regulamentação das atividades das farmácias no âmbito de sua atuação_
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1° -** As farmácias do Estado ficam autorizadas, nos termos desta lei, respeitando-se a competência do profissional farmacêutico no âmbito de sua atividade, a prestar serviços farmacêuticos, bem como manipular ou dispensar produtos que contribuam para a saúde pública, de acordo com a legislação em vigor.<br>
-**Artigo 2° -** As farmácias ficam autorizadas à prestação dos seguintes serviços relacionados à assistência farmacêutica, dentre outros:<br>
-**I -** aferição de pressão arterial e temperatura corporal;<br>
-**II -** inalação, observados os cuidados específicos de modo a garantir a segurança do procedimento;<br>
-**III -** teste de glicemia capilar;<br>
-**IV -** perfuração de lóbulo auricular, executado pelo farmacêutico ou técnico habilitado, sob sua supervisão.<br>
-**§ 1° -** Os serviços relacionados à assistência farmacêutica prestados nas farmácias deverão constar no manual de boas práticas e no procedimento operacional padrão do estabelecimento.<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1° -** As farmácias do Estado ficam autorizadas, nos termos desta lei, respeitando-se a competência do profissional farmacêutico no âmbito de sua atividade, a prestar serviços farmacêuticos, bem como manipular ou dispensar produtos que contribuam para a saúde pública, de acordo com a legislação em vigor.
+
+**Artigo 2° -** As farmácias ficam autorizadas à prestação dos seguintes serviços relacionados à assistência farmacêutica, dentre outros:
+
+**I -** aferição de pressão arterial e temperatura corporal;
+
+**II -** inalação, observados os cuidados específicos de modo a garantir a segurança do procedimento;
+
+**III -** teste de glicemia capilar;
+
+**IV -** perfuração de lóbulo auricular, executado pelo farmacêutico ou técnico habilitado, sob sua supervisão.
+
+**§ 1° -** Os serviços relacionados à assistência farmacêutica prestados nas farmácias deverão constar no manual de boas práticas e no procedimento operacional padrão do estabelecimento.
+
 **§ 2° -** Fica vedada a reutilização de brincos nos serviços de perfuração de lóbulo auricular, devendo este procedimento ser realizado mediante o emprego de equipamento específico e material esterilizado.
 
 ~~**Artigo 3° -** Vetado.~~
@@ -62,11 +70,18 @@ _\- Parágrafo único vetado pelo Governador._
 
 _\- Parágrafo único_ [_mantido pela Alesp_](http://dobuscadireta.imprensaoficial.com.br/default.aspx?DataPublicacao=20180619&Caderno=DOE-I&NumeroPagina=1)_, que rejeitou o veto oposto pelo Governador._
 
-**Artigo 6° -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, aos 12 de janeiro de 2018.<br>
-Geraldo Alckmin<br>
-David Everson Uip<br>
-Secretário da Saúde<br>
-Tiago Antonio Morais<br>
-Chefe de Gabinete, respondendo pelo Expediente da Casa Civil<br>
+**Artigo 6° -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, aos 12 de janeiro de 2018.
+
+Geraldo Alckmin
+
+David Everson Uip
+
+Secretário da Saúde
+
+Tiago Antonio Morais
+
+Chefe de Gabinete, respondendo pelo Expediente da Casa Civil
+
 Publicada na Assessoria Técnica da Casa Civil, em 12 de janeiro de 2018.

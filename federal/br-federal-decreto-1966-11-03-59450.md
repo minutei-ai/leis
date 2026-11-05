@@ -1,5 +1,3 @@
-###DEC-059450-0-000-03-11-1966@@@rtf
-
 DECRETO Nº 59.450, de 3 de novembro de 1966.
 
 Autoriza estrangeiros a adquirir, em transferencia de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-066174-0-000-04-02-1970@@@
-
 decreto nº 66.174 - de 4 de fevereiro de 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a subestação de Cepaigo até a cidade de Aparecida de Goiás, no Estado de Goiás.

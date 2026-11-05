@@ -1,7 +1,3 @@
-1
-
-###LCP-000058-0-000-21-01-1988@@@
-
 # LEI COMPLEMENTAR Nº 58, DE 21 DE JANEIRO DE 1988
 
 Dispõe sobre aposentadoria voluntária, nas condições que especifica, aos servidores civis que trabalham em estabelecimentos industriais da União, produtores de munições e explosivos.

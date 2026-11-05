@@ -1,5 +1,3 @@
-###DEC-004816-0-000-21-08-2003@@@
-
 DECRETO Nº 4.816,  DE 21 DE AGOSTO DE 2003.
 
        Dispõe sobre procedimentos administrativos, em caráter excepcional, relativos à paralisação de serviços públicos, verificada a partir de 8 de julho de 2003, no âmbito da administração pública federal direta, das autarquias e das fundações públicas do Poder Executivo Federal.
@@ -22,5 +20,6 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Brasília, 21 de agosto de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Guido Mantega

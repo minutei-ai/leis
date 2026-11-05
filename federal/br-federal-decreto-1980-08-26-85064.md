@@ -1,5 +1,3 @@
-###DEC-085064-0-000-26-08-1980@@@
-
 Decreto nº 85.064, de 26 de agosto de 1980.
 
 Regulamenta a Lei nº 6.634, de 2 de maio de 1979, que dispõe sobre a Faixa de Fronteira.

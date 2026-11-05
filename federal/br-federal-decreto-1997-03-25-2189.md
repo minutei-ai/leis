@@ -1,5 +1,3 @@
-###DEC-002189-0-000-25-03-1997@@@
-
 DECRETO Nº 2.189, DE 25 DE MARÇO DE 1997
 
 Dispõe sobre a execução do Quinto Protocolo Adicional ao Acordo de Alcance Parcial nº 21, entre Brasil e Cuba, de 31 de dezembro de 1996.

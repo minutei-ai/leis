@@ -1,7 +1,3 @@
-1
-
-###DEC-098154-0-000-19-09-1989@@@
-
 DECRETO Nº 98.154, DE 19 DE SETEMBRO DE 1989
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da subestação Colonial da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000039-0-000-03-12-1937@@@
-
 DECRETO-LEI N. 39 – DE 3 DE DEZEMBRO DE 1937
 
 Dispõe sôbre a execução dos julgados nos processos de conflitos oriundos das relações entre empregadores e empregados e dá outras providências

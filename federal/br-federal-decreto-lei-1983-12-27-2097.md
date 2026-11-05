@@ -1,5 +1,3 @@
-###DEL-002097-0-000-27-12-1983@@@
-
 # Decreto nº 2.097, de 27 de dezembro de 1983
 
 Reajusta os atuais valores de vencimentos, salários e proventos dos servidores dos Serviços Auxiliares do Tribunal de Contas do Distrito Federal, bem como os das pensões, e dá outras providências.

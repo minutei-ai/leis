@@ -1,5 +1,3 @@
-###DEC-059853-0-000-23-12-1966@@@
-
 DECRETO Nº 59.853, DE 23 DE DEZEMBRO DE 1966.
 
 Renova o Decreto nº 1.669 de 26 de novembro de 1966.

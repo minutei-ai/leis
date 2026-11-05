@@ -1,5 +1,3 @@
-###DEC-081919-0-000-11-07-1978@@@
-
 DECRETO Nº 81.919, DE 11 DE JULHO DE 1978.
 
 Concede à Mineração Boquira S.A. o direito de lavrar calcário conchilífero no Município de São Francisco do Conde, Estado da Bahia.

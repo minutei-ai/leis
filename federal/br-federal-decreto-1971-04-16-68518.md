@@ -1,5 +1,3 @@
-###DEC-068518-0-000-16-04-1971@@@
-
 DECRETO Nº 68.518 - DE 16 DE ABRIL DE 1971.
 
 Dispõe sobre alteração de distribuição de servidores do extinto Serviço de Alimentação da Previdência Social.

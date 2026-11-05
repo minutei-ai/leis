@@ -1,5 +1,3 @@
-###DEC-075070-0-000-09-12-1974@@@
-
 DECRETO Nº 75.070, DE 9 DE DEZEMBRO DE 1974.
 
 Dispõe sobre a construção, manutenção, operação e exploração de aeroportos e aeródromos públicos.

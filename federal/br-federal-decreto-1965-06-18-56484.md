@@ -1,5 +1,3 @@
-###DEC-056484-0-000-18-06-1965@@@
-
 DECRETO Nº 56.484, DE 18 DE JUNHO DE 1965.
 
 Declara de utilidade pública a “Casa do Pequeno Operário”, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

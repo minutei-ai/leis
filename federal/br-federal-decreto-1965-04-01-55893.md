@@ -1,5 +1,3 @@
-###DEC-055893-0-000-01-04-1965@@@
-
 DECRETO Nº 55.893, DE 1 DE ABRIL DE 1965.
 
 Transfere do Município de Guapé para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica.

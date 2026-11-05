@@ -1,7 +1,3 @@
-1
-
-###DEC-098882-0-000-25-01-1990@@@
-
 DECRETO Nº 98.882, DE 26 DE JANEIRO DE 1990
 
 Outorga concessão a Rádio Jornal Cidade de Juiz de Fora Ltda. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Juiz de Fora, Estado de Minas Gerais.

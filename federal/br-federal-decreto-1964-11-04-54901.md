@@ -1,5 +1,3 @@
-###DEC-054901-0-000-04-11-1964@@@
-
 DECRETO Nº 54.901, DE 4 DE Novembro DE 1964.
 
 Autoriza o cidadão brasileira Francisco Duarte a lavrar minérios de ferro e manganês, no município de Itabirito, Estado de Minas Gerais.

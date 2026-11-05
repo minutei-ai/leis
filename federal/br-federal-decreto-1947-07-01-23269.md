@@ -1,12 +1,10 @@
-###DEC-023269-0-000-01-07-1947@@@
+**decreto nº 23.269, de 01 de julho de 1947.**
 
-<strong>decreto nº 23.269, de 01 de julho de 1947.</strong>
+***Outorga concessão à Rádio Industrial de Juiz de Fora Limitada, para estabelecer, na cidade de Juiz de Fora, Estado de Minas Gerais, uma estação radiodifusora.***
 
-<em><strong>Outorga concessão à Rádio Industrial de Juiz de Fora Limitada, para estabelecer, na cidade de Juiz de Fora, Estado de Minas Gerais, uma estação radiodifusora.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I , da Constituição, e atendendo ao que requereu a Rádio Industrial de Juiz de Fora Limitada, e tendo em vista o disposto no artigo 5º nº III, da mesma Constituição 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I , da Constituição, e atendendo ao que requereu a Rádio Industrial de Juiz de Fora Limitada, e tendo em vista o disposto no artigo 5º nº III, da mesma Constituição 1942,
-
-<strong>decreta:</strong>
+**decreta:**
 
 Artigo único. Fica outorgada concessão à Rádio Industrial de Juiz de Fora Limitada, para estabelecer, na cidade de Juiz de Fora, Estado de Minas Gerais, sem direito de exclusividade, uma estação destinada a executar os serviços de radiodifusão, nos têrmos das cláusulas que com este baixam, assinados pelo Ministro da Viação e Obras Públicas.
 
@@ -14,11 +12,11 @@ Parágrafo único. O contrato de corrente desta concessão deverá ser assinado 
 
 Rio de Janeiro, 1 de julho de 1947, 126ºda Independência e 59ºda República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Clovis Pestana
 
-<strong>cláusulas a que se refere o decreto nº23.269 desta data</strong>
+**cláusulas a que se refere o decreto nº23.269 desta data**
 
 I
 
@@ -100,4 +98,4 @@ b) se a concessionária incidir reiteramente em infrações passíveis de multa.
 
 § 2º A concessão será considerada perempta se o Govêrno não julgar conveniente renovar-lhe o prazo
 
-<strong>Clóvis pestana</strong>
+**Clóvis pestana**

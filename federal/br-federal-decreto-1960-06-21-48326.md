@@ -1,5 +1,3 @@
-###DEC-048326-0-000-21-06-1960@@@
-
 Decreto nº 48.326, de 21 de junho de 1960.
 
 Concede à Mineração Morro Velho Sociedade Anônima autorização para funcionar como emprêsa de mineração.

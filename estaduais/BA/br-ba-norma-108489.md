@@ -1,6 +1,7 @@
 LEI DELEGADA Nº 31 DE 03 DE MARÇO DE 1983
 
-Ver também:<br>
+Ver também:
+
 Lei nº [11.050](https://www.legislabahia.ba.gov.br/documentos/lei-no-11050-de-06-de-junho-de-2008) , de 06 de junho de 2008 - Altera a denominação, a finalidade, a estrutura organizacional e de cargos em comissão da Secretaria de Meio Ambiente e Recursos Hídricos - SEMARH e das entidades da Administração Indireta a ela vinculadas, e dá outras providências.
 
 Cria o Centro de Recursos Ambientais - CRA e dá outras providências.

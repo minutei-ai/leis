@@ -1,5 +1,3 @@
-###DEC-072975-0-000-19-10-1973@@@
-
 DECRETO Nº 72.975, DE 19 DE OUTUBRO DE 1973.
 
 Concede a Paraná Comércio Administração S.A. o direito de lavrar calcário no Município de Bocaiúva do Sul, Estado do Paraná.

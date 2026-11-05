@@ -1,5 +1,3 @@
-###DEC-053449-0-000-20-01-1964@@@
-
 DECRETO Nº 53.449, DE 20 DE JANEIRO DE 1964.
 
 Autoriza o cidadão brasileiro Marcelo Ruy Vicente de Azevedo a pesquisar agalmatolito, quartzo, minérios de ferro e manganês, no município de Mateus Leme, Estado de Minas Gerais.

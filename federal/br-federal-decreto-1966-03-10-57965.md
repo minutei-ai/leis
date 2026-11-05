@@ -1,5 +1,3 @@
-###DEC-057965-0-000-10-03-1966@@@
-
 DECRETO Nº 57.965, DE 10 DE MARÇO DE 1966.
 
 Autoriza o cidadão brasileiro Alcides José Mariano a pesquisar dolomita, mármore e caulim no município de Paraíba do Sul, Estado do Rio de Janeiro.

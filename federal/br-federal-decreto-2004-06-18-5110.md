@@ -1,5 +1,3 @@
-###DEC-005110-0-000-18-06-2004@@@
-
 DECRETO Nº 5.110, DE 18 DE JUNHO DE 2004
 
 Acresce inciso ao art. 7º do Decreto nº 3.505, de 13 de junho de 2000, que institui a Política de Segurança da Informação nos órgãos e entidades da Administração Pública.

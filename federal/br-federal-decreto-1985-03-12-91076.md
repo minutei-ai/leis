@@ -1,5 +1,3 @@
-###DEC-091076-0-000-12-03-1985@@@
-
 Decreto nº 91.076, de 12 de marçO de 1985.
 
 Altera o nome do Instituto Nacional de Estudos do Mar para Instituto de Estudos do Mar Almirante Paulo Moreira.

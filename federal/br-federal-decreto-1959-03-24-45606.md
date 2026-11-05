@@ -1,5 +1,3 @@
-###DEC-045606-0-000-24-03-1959@@@
-
 DECRETO Nº 45.606, DE 24 DE MARÇO DE 1959.
 
 Abre ao Poder Judiciário - Justiça Eleitoral - Tribunal Regional Eleitoral de Santa Catarina, o crédito especial de Cr$300.000,00, para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-079512-0-000-13-04-1977@@@
-
 DECRETO Nº 79.512, DE 13 DE ABRIL DE 1977.
 
 Concede à Empresa Rada de Mineração Ltda. o direito de lavrar quartzo no Município de Conceição do Pará, Estado de Minas Gerais.

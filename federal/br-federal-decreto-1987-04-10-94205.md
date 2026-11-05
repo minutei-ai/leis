@@ -1,5 +1,3 @@
-###DEC-094205-0-000-10-04-1987@@@
-
 DECRETO Nº 94.205, DE 10 DE ABRIL DE 1987
 
 Autoriza o funcionamento do curso de Pedagogia da Faculdade de Formação de Professores de Petrolina.

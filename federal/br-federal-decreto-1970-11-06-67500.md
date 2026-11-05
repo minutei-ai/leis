@@ -1,5 +1,3 @@
-###DEC-067500-0-000-06-11-1970@@@
-
 DECRETO Nº 67.500, DE 6 DE NOVEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério do Trabalho e Previdência Social, cargos originários  do extinto Serviço de Navegação da Amazônia e da Administração do Porto do Pará.

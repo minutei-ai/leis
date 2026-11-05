@@ -1,5 +1,3 @@
-###DEC-052279-0-000-19-07-1963@@@
-
 Decreto nº 52.279, de 19 de julho de 1963.
 
 Baixa normas técnicas especiais para o combate à esquistossomose e dá outras providências.

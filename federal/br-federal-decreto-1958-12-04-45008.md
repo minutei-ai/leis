@@ -1,5 +1,3 @@
-###DEC-045008-0-000-04-12-1958@@@
-
 Decreto nº 45.008, de 4 de dezembro de 1958.
 
 Autoriza a Companhia Luz e Fôrça Santa Cruz a ampliar suas instalações.

@@ -495,7 +495,3 @@ Danilo de Castro
 Paulo de Tarso Almeida Paiva
 
 Maurício de Oliveira Campos Júnior
-
-\================================================================
-
-Data da última atualização: 23/12/2009.

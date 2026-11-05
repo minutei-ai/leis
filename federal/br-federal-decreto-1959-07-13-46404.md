@@ -1,5 +1,3 @@
-###DEC-046404-0-000-13-07-1959@@@
-
 DECRETO Nº 46.404, DE 13 DE JULHO DE 1959.
 
 Autoriza a liberação de crédito contido no Plano de Economia para aplicar em obras de instalações da Marinha, em Brasília.

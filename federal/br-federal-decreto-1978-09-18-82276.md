@@ -1,5 +1,3 @@
-###DEC-082276-0-000-18-09-1978@@@
-
 Decreto nº 82.276, de 18 de Setembro de 1978.
 
 Autoriza a concessão de garantia da União à operação de crédito externo, para implantação de usina siderúrgica pela Aço Minas Gerais S.A. - AÇOMINAS.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000908-0-000-31-08-1993@@@
-
 DECRETO N° 908, DE 31 DE AGOSTO DE 1993
 
 Fixa diretrizes para as negociações coletivas de trabalho de que participam as entidades estatais que menciona e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071232-0-000-10-10-1972@@@
-
 DECRETO Nº 71.232, DE 10 DE OUTUBRO DE 1972.
 
 Concede autorização às firmas Arthur Levy Boat Service Inc, e Arthur Levy do Brasil Ltda., para operação, no mar territorial do Brasil, fixado pelo Decreto-lei número 1.098, de 25 de março de 1970 de embarcação de nacionalidade norte-americana.

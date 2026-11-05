@@ -1,5 +1,3 @@
-###DEC-079773-0-000-06-06-1977@@@
-
 DECRETO Nº 79.773, DE 6 DE JUNHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, nos Estados de Minas Gerais e São Paulo.

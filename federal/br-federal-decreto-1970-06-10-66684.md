@@ -1,5 +1,3 @@
-###DEC-066684-0-000-10-06-1970@@@
-
 DECRETO Nº 66.684, DE 10 DE JUNHO DE 1970.
 
 Declara de utilidade pública para fins de desapropriação, os imóveis designados por Lotes nºs 7 e 8, ambos situados na quadra 11 do Bairro Bandeirantes, cidade de Cuiabá, Estado de Mato Grosso, necessários a construção da Estação Terminal de Microondas daquela cidade, integrante do Sistema Nacional de Telecomunicações, a cargo da Emprêsa Brasileira de Telecomunicações - EMBRATEL.
@@ -23,8 +21,6 @@ Brasília, 10 de junho de 1970; 149º da Independência e 82º da República.
 EMÍLIO G. MÉDICI
 
 Hygino C. Corsetti
-
-###DEC-066684-0-000-10-06-1970@@@REP01+++
 
 (\*) DECRETO Nº 66.684, DE 10 DE JUNHO DE 1970.
 

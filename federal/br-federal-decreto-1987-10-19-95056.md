@@ -1,5 +1,3 @@
-###DEC-095056-0-000-19-10-1987@@@
-
 DECRETO Nº 95.056, DE 19 DE OUTUBRO DE 1987
 
 Revoga o Decreto nº 70.451, de 25 de abril de 1972, que aprovou o Regulamento para o Quartel de Marinheiros.

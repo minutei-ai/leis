@@ -1,5 +1,3 @@
-###DEC-057040-0-000-11-10-1965@@@
-
 DECRETO Nº 57.040, DE 11 DE OUTUBRO DE 1965.
 
 Transforma em Centro de Contrôle de Estoque de Material os Centros de Contrôle de Estoque de Material Comum e de Contrôle de Estoque de Sobressalentes e dá outras providências.

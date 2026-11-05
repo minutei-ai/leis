@@ -1,5 +1,3 @@
-###DEL-008817-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.817 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o destino de bens apurados na liquidação de emprêsas incluídas no Decreto-Lei nº 4.168, de 11 de Março de 1942 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046344-0-000-01-07-1959@@@
-
 DECRETO Nº 46.344, DE 1º DE JULHO DE 1959.
 
 Dá a denominação de “Marechal Souza Aguiar” ao espadim criado pelo Decreto nº 44.602, de 29 de setembro de 1958.

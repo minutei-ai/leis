@@ -1,5 +1,3 @@
-###DEL-000170-0-000-15-02-1967@@@
-
 DECRETO-LEI Nº 170, DE 15 DE FEVEREIRO DE 1967
 
 Altera a Lei Orçamentária sem aumento de despesa.

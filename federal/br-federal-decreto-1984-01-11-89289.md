@@ -1,5 +1,3 @@
-###DEC-089289-0-000-11-01-1984@@@
-
 Decreto nº 89.289 de 11 de janeiro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da NUCLEBRÁS EQUIPAMENTOS PESADOS S.A. - NUCLEP.

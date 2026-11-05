@@ -1,5 +1,3 @@
-###DEC-056186-0-000-29-04-1965@@@
-
 DECRETO Nº 56.186, de 29 de abril de 1965.
 
 Autoriza Pedro Saturnino de Souza a comprar pedras preciosas.

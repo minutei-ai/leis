@@ -1,5 +1,3 @@
-###DEC-048642-0-000-01-08-1960@@@
-
 DECRETO Nº 48.642, DE 1 DE AGÔSTO DE 1960.
 
 Extingue Coletoria Federal.

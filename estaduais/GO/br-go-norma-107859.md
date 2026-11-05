@@ -22,24 +22,32 @@ Conselho de Governo, em Goiânia - GO, aos 9 dias do mês de agosto de 2023.
 
 RONALDO CAIADO
 
-Governador do Estado<br>
+Governador do Estado
+
 Presidente do Conselho de Governo
 
-ADRIANO DA ROCHA LIMA<br>
-Secretário-Chefe da Secretaria-Geral da Governadoria<br>
+ADRIANO DA ROCHA LIMA
+
+Secretário-Chefe da Secretaria-Geral da Governadoria
+
 Coordenador do Conselho de Governo
 
-RAFAEL ARRUDA OLIVEIRA<br>
+RAFAEL ARRUDA OLIVEIRA
+
 Procurador-Geral do Estado
 
-FRANCISCO SÉRVULO FREIRE NOGUEIRA<br>
+FRANCISCO SÉRVULO FREIRE NOGUEIRA
+
 Secretário de Estado da Administração
 
-JORGE LUIS PINCHEMEL<br>
+JORGE LUIS PINCHEMEL
+
 Secretário de Estado da Casa Civil
 
-SELENE PERES PERES NUNES<br>
+SELENE PERES PERES NUNES
+
 Secretária de Estado da Economia
 
-HENRIQUE MORAES ZILLER<br>
+HENRIQUE MORAES ZILLER
+
 Secretário-Chefe da Controladoria-Geral do Estado

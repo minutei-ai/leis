@@ -1,5 +1,3 @@
-###DEC-005593-0-000-23-11-2005@@@
-
 DECRETO Nº 5.593, DE 23 DE NOVEMBRO DE 2005.
 
 Dá nova redação a dispositivos do Regulamento do Fundo de Desenvolvimento da Amazônia, aprovado pelo Decreto no 4.254, de 31 de maio de 2002, e dá outras providências.

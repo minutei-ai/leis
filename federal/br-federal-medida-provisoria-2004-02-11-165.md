@@ -1,5 +1,3 @@
-###MPV-000165-0-000-11-02-2004@@@
-
 MEDIDA PROVISÓRIA Nº 165, DE 11 DE FEVEREIRO 2004.
 
  Dispõe sobre o contrato de gestão entre a Agência Nacional de Águas e as entidades delegatárias das funções de Agência de Água, nos termos do art. 51 da Lei nº 9.433, de 8 de janeiro de 1997, e dá outras providências.

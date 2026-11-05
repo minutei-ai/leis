@@ -1,5 +1,3 @@
-###DEC-076690-0-000-28-11-1975@@@
-
 DECRETO Nº 76.690, DE 28 DE NOVEMBRO DE 1975.
 
 Retifica a concessão de lavra outorgada à Companhia Paulista de Mineração pelo Decreto número 22.771, de 19 de março de 1947.

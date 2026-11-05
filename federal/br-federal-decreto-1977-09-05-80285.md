@@ -1,5 +1,3 @@
-###DEC-080285-0-000-05-09-1977@@@
-
 DECRETO Nº 80.285, DE 5 DE SETEMBRO DE 1977.
 
 Concede à ITACOMIL - Itambé Comércio e Mineração Ltda. o direito de lavrar argila no Município de Uberaba, Estado de Minas Gerais.

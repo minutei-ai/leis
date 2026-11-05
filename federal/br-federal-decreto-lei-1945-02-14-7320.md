@@ -1,5 +1,3 @@
-###DEL-007320-0-000-14-02-1945@@@
-
 DECRETO-LEI N. 7.320 – DE 14 DE FEVEREIRO DE 1945
 
 Cria e altera carreiras nos Quadros Permanente e Suplementar, do Ministério da Justiça e Negócios Interiores

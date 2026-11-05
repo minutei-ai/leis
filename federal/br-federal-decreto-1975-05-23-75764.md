@@ -1,5 +1,3 @@
-###DEC-075764-0-000-23-05-1975@@@
-
 decreto nº 75.764, de 23 maio de 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado da Bahia.

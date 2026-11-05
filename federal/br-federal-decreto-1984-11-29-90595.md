@@ -1,5 +1,3 @@
-###DEC-090595-0-000-29-11-1984@@@
-
 Decreto nº 90.595, de 29 de novembro de 1984
 
 Cria e define o Sistema de Codificação Nacional de Produtos para todo o Território Nacional

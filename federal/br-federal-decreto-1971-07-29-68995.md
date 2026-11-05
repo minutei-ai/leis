@@ -1,5 +1,3 @@
-###DEC-068995-0-000-29-07-1971@@@
-
 decreto nº 68.995, de 29 de julho de 1971.
 
 Autoriza o funcionamento da Escola Superior de Educação Física de São Caetano do Sul, SP.

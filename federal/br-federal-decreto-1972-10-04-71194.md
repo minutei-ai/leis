@@ -1,5 +1,3 @@
-###DEC-071194-0-000-04-10-1972@@@
-
 DECRETO Nº 71.194, DE 4 DE OUTUBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Portos e Vias Navegáveis, uma área de, aproximadamente, 50.000m2, no município de Ladário, Comarca de Corumbá, Estado de Mato Grosso, destinada à implantação de terminal rodo-ferro-fluvial.

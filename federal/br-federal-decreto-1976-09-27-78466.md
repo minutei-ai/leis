@@ -1,5 +1,3 @@
-###DEC-078466-0-000-27-09-1976@@@
-
 DECRETO Nº 78.466, DE 27 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Artes Práticas, da Fundação Universidade de Passo Fundo, com sede na cidade de Passo Fundo, Estado do Rio Grande do Sul.

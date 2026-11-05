@@ -1,5 +1,3 @@
-###DEC-058735-0-000-27-06-1966@@@
-
 DECRETO Nº 58.735, DE 27 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro Eloy Araújo de Mendonça e Silva a pesquisar enxôfre no município de Tutóia, Estado do Maranhão.

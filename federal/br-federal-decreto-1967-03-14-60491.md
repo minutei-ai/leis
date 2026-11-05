@@ -1,5 +1,3 @@
-###DEC-060491-0-000-14-03-1967@@@
-
 DECRETO Nº 60.491, DE 14 DE MARÇO DE 1967.
 
 Abre, pelo Ministério da Indústria e do Comércio, o credito especial de NCr$12.000.000,00 (doze milhões de cruzeiros novos) destinado a constituir o capital da EMBRATUR (Emprêsa Brasileira de Turismo) e a cobrir despesas de instalação, de manutenção e de operações da referida Emprêsa, bem como do Conselho Nacional de Turismo.

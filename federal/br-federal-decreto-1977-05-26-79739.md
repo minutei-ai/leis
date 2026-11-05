@@ -1,5 +1,3 @@
-###DEC-079739-0-000-26-05-1977@@@
-
 decreto nº 79.739, de 26 de maio de 1977.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia, Ciências e Letras do Vale do Itajaí, com sede na cidade de Itajaí, Estado de Santa Catarina.

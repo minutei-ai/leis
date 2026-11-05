@@ -1,5 +1,3 @@
-###DEC-054482-0-000-14-10-1964@@@
-
 decreto nº 54.482, de 14 de outubro de 1964.
 
 Autoriza o Serviço do Patrimônio da união a aceitar a doação de terreno que menciona, no Estado de Goiás.

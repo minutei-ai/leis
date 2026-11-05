@@ -1,5 +1,3 @@
-###DEC-088935-0-000-31-10-1983@@@
-
 DECRETO Nº 88.935, de 31 de outubro de 1983
 
 Altera a cumulatividade da Missão diplomática do Brasil no Estado de Catar.

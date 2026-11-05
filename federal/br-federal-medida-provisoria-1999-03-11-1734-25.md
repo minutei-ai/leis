@@ -1,5 +1,3 @@
-###MPV-001734-0-025-11-03-1999@@@
-
 MEDIDA PROVSÓRIA Nº 1.734-25, DE 11 DE MARÇO DE 1999
 
 Estabelece multa em operações e dá outras providências.

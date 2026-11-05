@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208966)<br>
-
 # DECRETO N° 68.217, DE 15 DE DEZEMBRO DE 2023
 
 ### _Atribui competência ao Secretário da Segurança Pública para definir a padronização da pintura externa, dos símbolos e das inscrições de identificação dos meios de transporte da Polícia Civil do Estado de São Paulo e dá providências correlatas._

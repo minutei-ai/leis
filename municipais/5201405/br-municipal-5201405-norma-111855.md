@@ -22,15 +22,18 @@ Aparecida de Goiânia, 11 de dezembro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
-<br>
-ÁREA PÚBLICA MUNICIPAL – Área Mansão 01-08 da Quadra “B”<br>
-Limites, Confrontações e Dimensões<br>
-Matrícula: nº 313.076<br>
+ÁREA PÚBLICA MUNICIPAL – Área Mansão 01-08 da Quadra “B”
+
+Limites, Confrontações e Dimensões
+
+Matrícula: nº 313.076
+
 Localização: Loteamento Mansões Paraíso – Aparecida de Goiânia/GO
 
 | Confrontações | Dimensão |

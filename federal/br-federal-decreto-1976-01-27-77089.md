@@ -1,5 +1,3 @@
-###DEC-077089-0-000-27-01-1976@@@
-
 DECRETO Nº 77.089, DE 27 DE JANEIRO DE 1976.
 
 Declara de utilidade pública, para efeito de desapropriação, os imóveis que menciona, no município de Itaguaí, Estado do Rio de Janeiro e dá outras providências.

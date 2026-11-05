@@ -1,5 +1,3 @@
-###DEC-052588-0-000-30-09-1963@@@
-
 DECRETO Nº 52.588, DE 30 DE SETEMBRO DE 1963.
 
 Retifica o Decreto nº 52.162, de 27 de junho de 1963.
@@ -19,8 +17,6 @@ João goulart
 Paulo de Tarso
 
 Hélio Pereira Bicudo
-
-###DEC-052588-0-000-30-09-1963@@@RET01+++
 
 DECRETO Nº 52.588, de 30 de setembro de 1963.
 

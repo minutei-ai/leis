@@ -1,7 +1,3 @@
-1
-
-###DEC-097617-0-000-06-04-1989@@@
-
 DECRETO N° 97.617, DE 6 DE ABRIL DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “FAZENDA CAPÃO BONITO”, classificado como “latifúndio por exploração”, situado no Município de Sidrolândia, Estado de Mato Grosso do Sul, compreendido na zona prioritária, fixada pelo Decreto n° 92.621, de 2 de maio de 1986, e dá outras providências.

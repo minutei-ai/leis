@@ -1,5 +1,3 @@
-###DEC-065033-0-000-21-08-1969@@@
-
 DECRETO Nº 65.033 - DE 21 DE AGôSTO DE 1969.
 
 Transforma a 6ª Companhia de Policia do Exército em 3º Batalhão de Policia do Exército e da outras providências.

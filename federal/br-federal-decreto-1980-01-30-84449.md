@@ -1,5 +1,3 @@
-###DEC-084449-0-000-30-01-1980@@@
-
 Decreto nº 84.449, de 30 de janeiro de 1980.
 
 Dispõe sobre o Programa Nacional de Armazenagem e dá outras providências.

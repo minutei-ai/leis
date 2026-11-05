@@ -1,5 +1,3 @@
-###DEC-069872-0-000-30-12-1971@@@
-
 DECRETO Nº 69.872 - DE 30 DE DEZEMBRO de 1971
 
 Amplia a largura de faixa de terra já declarada de utilidade pública, para fins de constituição de servidão administrativa.

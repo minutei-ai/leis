@@ -1,5 +1,3 @@
-###DEC-053044-0-000-29-11-1963@@@
-
 DECRETO Nº 53.044, DE 29 DE NOVEMBRO DE 1963.
 
 Altera a redação do art. 1º do Decreto n° 52.819, de 12 de novembro de 1963.

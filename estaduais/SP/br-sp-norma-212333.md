@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212333)<br>
-
 # DECRETO N° 70.437, DE 10 DE MARÇO DE 2026
 
 ### _Reorganiza o Conselho Estadual de Honrarias e Mérito - CEHM, instituído pelo Decreto n° 50.386, de 19 de setembro de 1968, e dá providências correlatas._

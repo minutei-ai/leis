@@ -1,5 +1,3 @@
-###DEL-005798-0-000-03-09-1943@@@
-
 DECRETO‑LEI N. 5.798 –  DE 3 DE SETEMBRO DE 1943
 
 Abre, no Ministério da Educação e Saúde, o crédito especial de Cr$ 5.726,20, para pagamento de gratificação por serviços extraordinários

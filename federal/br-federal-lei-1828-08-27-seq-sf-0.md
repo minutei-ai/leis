@@ -1,5 +1,3 @@
-###LEI-000000-0-000-27-08-1828@@@
-
 LEI - DE 27 DE AGOSTO DE 1828
 
 Dá Regimento para os Conselhos Geraes de Provincia.

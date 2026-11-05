@@ -1,5 +1,3 @@
-###DEL-003096-0-000-07-03-1941@@@
-
 DECRETO-LEI N. 3.096 – DE 7 DE MARÇO DE 1941
 
 Autoriza ao Prefeito do Distrito Federal, isentar a Instituição Legionárias de Maria de pagamento do imposto predial do imóvel que menciona.

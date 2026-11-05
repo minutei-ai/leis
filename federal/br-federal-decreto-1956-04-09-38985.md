@@ -1,14 +1,12 @@
-###DEC-038985-0-000-09-04-1956@@@
+**DECRETO Nº 38.985, DE 9 DE ABRIL DE 1956.**
 
-<strong>DECRETO Nº 38.985, DE 9 DE ABRIL DE 1956.</strong>
+***Extingue cargos excedentes e suprime cargos extintos, dos Quadros Permanente e Suplementar do Ministério da Justiça e Negócios Interiores.***
 
-<em><strong>Extingue cargos excedentes e suprime cargos extintos, dos Quadros Permanente e Suplementar do Ministério da Justiça e Negócios Interiores.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea *n*, do Decreto-lei nº 3.195, de 14 de abril de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição, e nos têrmos do art. 1º, alínea <em>n</em>, do Decreto-lei nº 3.195, de 14 de abril de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam extintos os excedentes e suprimidos os seguintes cargos extintos no Ministério da Justiça e Negócios Interiores:
+**Art**. 1º Ficam extintos os excedentes e suprimidos os seguintes cargos extintos no Ministério da Justiça e Negócios Interiores:
 
 I) - No Quadro Permanente:
 
@@ -30,7 +28,7 @@ b) na carreira de Patrão:
 
 1 - 3 (três) cargos extintos da classe I, vagos em virtude da aposentadoria de Heitor Francisco Rosa, Waldemar Rodrigues da Silveira e do falecimento de Laurindo Pereira de Mendonça.
 
-<strong>Art</strong>. 2º Ficam suprimidos no Quadro Suplementar do mesmo Ministério, os seguintes cargos isolados:
+**Art**. 2º Ficam suprimidos no Quadro Suplementar do mesmo Ministério, os seguintes cargos isolados:
 
 1 - 2 (dois) cargos extintos de Censor, padrão M, vagos em virtude da aposentadoria de Luiz Fernando de Lacerda Coutinho e do falecimento de João Paulo de Mello Barreto Filho;
 
@@ -44,12 +42,12 @@ b) na carreira de Patrão:
 
 6 - 5 (cinco) cargos extintos de Perito-Criminal, padrão M, vagos em virtude do falecimento de Casemiro de Menezes, Mário Antônio Ferreira, Léo de Sá Ozório, Eugênio Appell e da demissão de Amando da Fonseca.
 
-<strong>Art</strong>. 3º As dotações correspondente às extinções e supressões dos cargos a que se refere o presente decreto, serão levadas a crédito da conta corrente do mesmo Ministério.
+**Art**. 3º As dotações correspondente às extinções e supressões dos cargos a que se refere o presente decreto, serão levadas a crédito da conta corrente do mesmo Ministério.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 9 de abril de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos

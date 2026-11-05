@@ -1,5 +1,3 @@
-###DEC-086521-0-000-30-10-1981@@@
-
 Decreto nº 86.521, de 30 de outubro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

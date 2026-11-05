@@ -1,5 +1,3 @@
-###DEC-094951-0-000-24-09-1987@@@
-
 DECRETO Nº 94.951, DE 24 DE SETEMBRO DE 1987
 
 Outorga concessão à RÁDIO PIONEIRA DE FORQUILHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Forquilha, Estado do Ceará.

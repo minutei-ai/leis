@@ -1,5 +1,3 @@
-###DEC-079902-0-000-04-07-1977@@@
-
 DECRETO Nº 79.902, DE 4 DE JULHO DE 1977
 
 Concede à Laminação de Ferro S.A. - LAFERSA o direito de lavrar calcário no Município de Paracatu, Estado de Minas Gerais.

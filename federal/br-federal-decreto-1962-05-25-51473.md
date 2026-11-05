@@ -1,5 +1,3 @@
-###DEC-051473-0-000-25-05-1962@@@
-
 DECRETO Nº 51.473, DE 25 DE MAIO DE 1962.
 
 Cria funções gratificadas no quadro de pessoal do Ministério da Industria e do Comércio.

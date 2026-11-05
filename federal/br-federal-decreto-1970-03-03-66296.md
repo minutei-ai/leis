@@ -1,5 +1,3 @@
-###DEC-066296-0-000-03-03-1970@@@
-
 Decreto Nº 66.296 - De 3 De Março De 1970
 
 Provê a estrutura do Ministério da Educação e Cultura e autoriza outras providências.

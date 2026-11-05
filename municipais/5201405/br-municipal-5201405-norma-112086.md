@@ -4,7 +4,8 @@ Dispõe sobre o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Mun
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPITULO I<br>
+CAPITULO I
+
 DAS DISPOSIÇÕES PLELIMINARES
 
 Art. 1º - Esta Lei institui o Plano de Carreira e Vencimentos dos Servidores da Prefeitura Municipal de Aparecida de Goiânia, á exceção dos servidores integrados do quadro do Magistério.
@@ -45,19 +46,22 @@ VIII – Quantitativo pôr cargos- Anexo VIII;
 
 Parágrafo único – Os quantitativo dos cargos efetivos serão fixados anualmente, mediante lei de iniciativa do chefe do Poder Executivo. Prefeitura Municipal de Aparecida de Goiânia
 
-CAPITULO II<br>
+CAPITULO II
+
 DO PROVIMENTO DOS CARGOS
 
 Art. 4º - O ingresso na carreira dar-se-á pôr concurso publico de provas ou de provas e títulos, na classe e padrão iniciais do cargo, atendidos os pré-requisitos constantes do anexo V desta lei, conforme dispuser o Edital.
 
-CAPITULO III<br>
+CAPITULO III
+
 DA MOVIMENTAÇÃO NA CARREIRA
 
 Art. 5º - A movimentação na carreira será condicionada ao exercício das atribuições do cargo efetivo.
 
 Parágrafo único – O exercício de cargo em comissão ou função de confiança não prejudicara a movimentação na carreira.
 
-Seção I<br>
+Seção I
+
 Da Progressão Horizontal
 
 Art. 6º - Entende-se pôr progressão Horizontal a passagem do servidor de um padrão para outro superior, dentro da classe que ocupe, conforme dispuser o regulamento.
@@ -80,14 +84,16 @@ parágrafo único, do artigo 6º desta lei.
 
 § 4º - A Administração concedera a progressão horizontal a cada dois anos, de forma coletiva, após formalização do resultado da avaliação de desempenho, conforme dispuser o regulamento, observada a disponibilidade de recursos orçamentários e financeiros, bem assim os dispositivos legais e constitucionais em vigor.
 
-Subseção Única<br>
+Subseção Única
+
 Da Avaliação de Desempenho
 
 Art. 8º - A Avaliação de Desempenho é o aferimento do servidor no cumprimento de suas atribuições, permitindo o seu desenvolvimento profissional na carreira. Prefeitura Municipal de Aparecida de Goiânia
 
 Art. 9º - A Avaliação de Desempenho será feita de forma continua e formalizada periodicamente, sob a coordenação e orientação da Secretaria da administração.
 
-Seção II<br>
+Seção II
+
 Da Progressão Vertical
 
 Art. 10º - Entende-se por Progressão Vertical a passagem do Servidor de uma classe para a imediatamente superior do mesmo cargo efetivo que ocupe, integrante do quadro de Pessoal do Anexo I desta lei.
@@ -102,10 +108,12 @@ Parágrafo único – A Administração concedera a progressão vertical a cada 
 
 Art. 12º - Na progressão vertical , o servidor será posicionado no padrão inicial da classe seguinte do seu cargo, ou em padrão que lhe assegure um acréscimo de vencimento equivalente a três padrões. Prefeitura Municipal de Aparecida de Goiânia
 
-CAPITULO IV<br>
+CAPITULO IV
+
 DA REMUNERAÇÃO
 
-Seção I<br>
+Seção I
+
 Do Vencimento e da Remuneração dos cargos Efetivos
 
 Art. 13 – Vencimento é a retribuição pecuniária mensal devida ao servidor pelo efetivo exercício do cargo publico correspondente ao grau e padrão da respectiva classe.
@@ -130,13 +138,14 @@ V – Fiscal de Saúde Pública;
 
 VI – Auditor Fiscal Tributário;
 
-VII – Auditor Municipal.<br>
+VII – Auditor Municipal.
+
 (Redação alterada pela Lei Complementar nº 227, de 9 de janeiro de 2024).
 
 ~~Art. 17. O servidor ocupante do cargo do Grupo Ocupacional de Fiscalização, quando em atividade de fiscalização, em veículo próprio, fará jus à percepção do Auxílio Transporte, calculado conforme a fórmula abaixo:~~
 
-<br>
-~~AT = Pc x Ke x Dt  x Cm<br>
+~~AT = Pc x Ke x Dt  x Cm
+
                       12~~
 
 ~~Onde:~~
@@ -149,7 +158,8 @@ VII – Auditor Municipal.<br>
 
 ~~Dt = Dias trabalhados (considerando 22 dias/mês)~~
 
-~~Cm = Coeficiente de manutenção de veículos (considerando valor fixo de R$ 1,99)~~<br>
+~~Cm = Coeficiente de manutenção de veículos (considerando valor fixo de R$ 1,99)~~
+
 ~~(Redação alterada pela Lei Ordinária nº 2.682, de 23 de agosto de 2007).~~
 
 ~~Cm = Coeficiente de manutenção de veículos (considerando valor fixo de R$ 1,45)~~
@@ -158,21 +168,26 @@ VII – Auditor Municipal.<br>
 
 ~~Ke = coeficiente atribuído para a Fiscalização Tributária e Fiscalização de Edificações~~   
 
-     ~~= 100 km/dia~~<br>
+     ~~= 100 km/dia~~
+
                 § 1º - Para efeito de cálculo do Auxílio Transporte e seu reajuste, a que se refere o caput  deste artigo, serão utilizados os seguintes parâmetros, considerando o combustível gasolina comum:
 
 I   –  De R$ 2,00 até 2,49  =  Pc = 2,25
 
 II  –  De R$ 2,50 até 2,99  =  Pc = 2,75
 
-III –  De R$ 3,00 até 3,49  = Pc = 3,25<br>
+III –  De R$ 3,00 até 3,49  = Pc = 3,25
+
 (Redação alterada pela Lei Ordinária nº 2.543, de 8 de dezembro de 2005).
 
 ~~Art. 17   O servidor ocupante do cargo do Grupo Ocupacional de Fiscalização, quando em atividade de fiscalização exclusivamente externa, fará jus à percepção do Auxílio Transporte, calculado conforme a formula  abaixo:~~
 
-        ~~Pc x Ke x Dt<br>
-                        AT =\_\_\_\_\_\_\_\_\_\_\_<br>
-                                        12<br>~~                              
+        ~~Pc x Ke x Dt
+
+                        AT =\_\_\_\_\_\_\_\_\_\_\_
+
+                                        12
+~~                              
 
 ~~Onde:~~
 
@@ -198,15 +213,18 @@ III –  De R$ 3,00 até 3,49  = Pc = 3,25<br>
 
 ~~III – De R$ 3,00 até R$ 3,49= Pc=3,00~~
 
-§ 2º -  Quando os preços do combustível ultrapassar os valores estabelecidos como parâmetro no parágrafo anterior, estes serão reajustados na mesma proporção daqueles.<br>
+§ 2º -  Quando os preços do combustível ultrapassar os valores estabelecidos como parâmetro no parágrafo anterior, estes serão reajustados na mesma proporção daqueles.
+
 (Redação alterada pela Lei Ordinária nº 2.379, de 16 de junho de 2003).
 
 ~~Art. 17 – O servidor ocupante de cargo do Grupo Ocupacional Fiscalização. Quando em atividade de fiscalização exclusivamente externa, fará jus á percepção do Auxilio Transporte, no valor de R$ 166,00 (cento e sessenta e seis reais) mensais Prefeitura Municipal de Aparecida de Goiânia~~
 
-§ 4º O Auxílio Transporte de que trata o caput deste artigo somente poderá ser concedido após processo administrativo no qual se comprovará documentalmente a disponibilização de veículo próprio, bem como a necessidade junto ao titular da pasta em que o servidor ocupante dos cargos descritos nos incisos de I a VII, exerce sua função.<br>
+§ 4º O Auxílio Transporte de que trata o caput deste artigo somente poderá ser concedido após processo administrativo no qual se comprovará documentalmente a disponibilização de veículo próprio, bem como a necessidade junto ao titular da pasta em que o servidor ocupante dos cargos descritos nos incisos de I a VII, exerce sua função.
+
 (Redação acrescentada pela Lei Complementar nº 227, de 9 de janeiro de 2024).
 
-§ 5º Na periodicidade estabelecida no art. 9°, da Lei Complementar Federal n°. 101, de 04 de maio de 2000 (LRF), a Secretaria Municipal da Fazenda expedirá ato próprio com o limite mensal orçamentário de despesas com Auxílio Transporte.<br>
+§ 5º Na periodicidade estabelecida no art. 9°, da Lei Complementar Federal n°. 101, de 04 de maio de 2000 (LRF), a Secretaria Municipal da Fazenda expedirá ato próprio com o limite mensal orçamentário de despesas com Auxílio Transporte.
+
 (Redação acrescentada pela Lei Complementar nº 227, de 9 de janeiro de 2024).
 
 Art. 18 – O enquadramento dos atuais servidores efetivos nos cargos transformados e/ou criados pôr esta lei, de denominação idêntica ou correlata, dar-se-á em conformidade com o constante do Anexo VI desta lei.
@@ -237,7 +255,8 @@ Art. 24º - Ao servidor é assegurado o direito de peticionar a revisão de seu 
 
 Parágrafo único – Da decisão proferida pela autoridade mencionada neste artigo, caberá recurso ao Chefe do Poder Executivo, no prazo de trita dias, contados da data de ciências.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES GERAIS E FINAIS
 
 Art. 25º - O cargo de Agente Administrativo criado pela Lei nº 2.062, de 13 de março de 2000, passa a ser denominado Auxiliar de Secretaria.
@@ -286,13 +305,16 @@ Art. 35 – Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos dezoito dias do mês de dezembro de dois mil e um.
 
-ADEMIR MENEZ<br>
+ADEMIR MENEZ
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-RONALDO AGUIAR DA SILVA<br>
+RONALDO AGUIAR DA SILVA
+
 SEC. DE ADMINISTRAÇÃO
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18790)

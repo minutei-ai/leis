@@ -58,7 +58,8 @@ Aparecida de Goiânia, 19 de outubro de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 [ANEXO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/19146)

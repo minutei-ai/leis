@@ -1,5 +1,3 @@
-###DEC-057581-0-000-05-01-1966@@@
-
 DECRETO Nº 57.581, DE 5 DE JANEIRO DE 1966.
 
 Concede à sociedade Serviços Marítimos Camuyrano S.A. autorização para continuar a funcionar como empresa de navegação de cabotagem.

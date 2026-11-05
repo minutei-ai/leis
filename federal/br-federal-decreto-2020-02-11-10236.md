@@ -18,4 +18,4 @@ Brasília, 11 de fevereiro de 2020; 199º da Independência e 132º da Repúblic
 
 JAIR MESSIAS BOLSONARO
 
-Luiz Henrique Mandetta<br>
+Luiz Henrique Mandetta

@@ -1,5 +1,3 @@
-###DEC-064300-0-000-01-04-1969@@@
-
 DECRETO nº 64.300, DE 1º DE ABRIL DE 1969
 
 Altera dispositivos do Decreto número 58.780, de 28 de junho de 1966.

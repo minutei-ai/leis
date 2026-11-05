@@ -1,5 +1,3 @@
-###DEC-051732-0-000-21-02-1963@@@
-
 DECRETO Nº 51.732, DE 21 DE FEVEREIRO DE 1963.
 
 Autoriza Mannesmann Mineração S.A. a lavrar dolomita e minério de ferro no município de Belo Horizonte, Estado de Minas Gerais.

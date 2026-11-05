@@ -1,5 +1,3 @@
-###DEC-059622-0-000-30-11-1966@@@
-
 Decreto nº 59.622, de 30 de novembro de 1966.
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$654.845.000 em refôrço a dotação orçamentária que especifica.

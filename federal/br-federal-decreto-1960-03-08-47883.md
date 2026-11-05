@@ -1,5 +1,3 @@
-###DEC-047883-0-000-08-03-1960@@@
-
 DECRETO Nº 47.883, DE 8 DE março DE 1960.
 
 Inclui na estrutura do Museu Histórico Nacional órgãos que constituirão o Museu da República e a Divisão de História Artística e Literária.

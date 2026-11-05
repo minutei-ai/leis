@@ -1,5 +1,3 @@
-###DEC-070999-0-000-17-08-1972@@@
-
 DECRETO Nº 70.999, DE 17 DE AGOSTO DE 1972.
 
 Institui o Programa do Trópico Úmido e dá outras providências.

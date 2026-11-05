@@ -1,5 +1,3 @@
-###DEL-003799-0-000-05-11-1941@@@
-
 DECRETO-LEI N. 3.799 – DE 5 DE NOVEMBRO DE 1941
 
 Transforma o Instituto Sete de Setembro em Serviço de Assistência a Menores e dá outras providências.

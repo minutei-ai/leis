@@ -1,5 +1,3 @@
-###DEC-045920-0-000-29-04-1959@@@
-
 DECRETO Nº 45.920, DE 29 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro José dos Santos Querido a pesquisar diamante e minério de ouro, no município de Itupiranga, Estado do Pará.

@@ -1,5 +1,3 @@
-###DEC-069841-0-000-27-12-1971@@@
-
 decreto nº 69.841 - de 27 DE DEZEMBRO de 1971
 
 Dispõe sôbre reservas de acidentes não liquidados das Sociedades de Seguros que operam no Ramo de Acidentes do Trabalho.

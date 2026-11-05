@@ -1,5 +1,3 @@
-###DEC-096263-0-000-01-07-1988@@@
-
 DECRETO N° 96.263, DE 1° DE JULHO DE 1988
 
 Suspende, por noventa dias, a execução do Decreto que menciona.

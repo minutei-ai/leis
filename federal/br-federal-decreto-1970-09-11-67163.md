@@ -1,5 +1,3 @@
-###DEC-067163-0-000-11-09-1970@@@
-
 decreto nº 67.163, de 11 de setembro de 1970.
 
 Retifica o artigo 1º do Decreto número 64.373, de 18 de abril de 1969.

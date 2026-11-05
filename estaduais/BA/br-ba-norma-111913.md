@@ -4,14 +4,16 @@ Regulamentada pelo Decreto nº [Cria o Conselho Estadual das Cidades da Bahia - 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º - Fica criado, na estrutura da Secretaria de Desenvolvimento Urbano - SEDUR, o Conselho Estadual das Cidades da Bahia - ConCidades/BA, órgão colegiado de natureza permanente, de caráter deliberativo, consultivo e fiscalizador, formado por representantes do poder público e da sociedade civil, e articulado com o Ministério das Cidades, por meio do Conselho Nacional das Cidades.
 
 Parágrafo único - O ConCidades/BA terá caráter deliberativo e fiscalizador no que se refere às questões da Política Estadual de Desenvolvimento Urbano e caráter consultivo relativo às demais políticas públicas do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 FINALIDADES E COMPETÊNCIAS
 
 Art. 2º - O ConCidades/BA tem por finalidades debater, formular e deliberar diretrizes para a política estadual de desenvolvimento urbano, bem como monitorar e avaliar a sua execução e a de programas, exercendo a integração e o controle social das políticas específicas de habitação, gestão fundiária, saneamento básico, planejamento e gestão territorial e de mobilidade urbana que a compõem.
@@ -40,7 +42,8 @@ X - tornar público e divulgar seus trabalhos e estudos e emitir resoluções de
 
 XI - orientar a utilização dos instrumentos da política urbana que combatam a exclusão sócio-espacial, racial e de povos e comunidades tradicionais.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPOSIÇÃO
 
 Art. 4º - O ConCidades/BA terá representação proporcional dos diversos segmentos, correspondendo a 42,3% (quarenta e dois vírgula três por cento) do Poder Público, 26,7% (vinte e seis vírgula sete por cento) do movimento social e popular, 9,9% (nove vírgula nove por cento) dos trabalhadores, 9,9% (nove vírgula nove por cento) dos empresários, 7% (sete por cento) das entidades profissionais de ensino e pesquisa e 4,2% (quatro vírgula dois por cento) de organizações não-governamentais, com a seguinte composição:
@@ -49,7 +52,8 @@ I - o Secretário de Desenvolvimento Urbano, que o presidirá;
 
 II - o Secretário de Infraestrutura Hídrica e Saneamento e mais 08 (oito) representantes do Poder Público Estadual, indicados pelo Governador;
 
-Redação de acordo como o [art. 38](javascript: openDoc\() da Lei nº 13.204, de 11 de dezembro de 2014.<br>
+Redação de acordo como o [art. 38](javascript: openDoc\() da Lei nº 13.204, de 11 de dezembro de 2014.
+
 Redação original: "II - 09 (nove) representantes do Poder Público Estadual, indicados pelo Governador;"
 
 &nbs
@@ -92,7 +96,8 @@ Art. 6º - A participação no Conselho Estadual das Cidades da Bahia e nas Câm
 
 Parágrafo único - Serão garantidas as despesas de viagem, hospedagem e alimentação aos representantes dos movimentos sociais e populares, na forma estabelecida no Regimento Interno.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 ESTRUTURA
 
 Art. 7º - O ConCidades/BA terá a seguinte estrutura básica:
@@ -109,7 +114,8 @@ a) Câmara de Habitação;
 
 b) Câmara de Saneamento Básico;
 
-Redação de acordo com o art. [17](https://www.legislabahia.ba.gov.br/documentos/lei-no-11172-de-01-de-dezembro-de-2008#art17) da Lei nº 11.172, de 01 de dezembro de 2008.<br>
+Redação de acordo com o art. [17](https://www.legislabahia.ba.gov.br/documentos/lei-no-11172-de-01-de-dezembro-de-2008#art17) da Lei nº 11.172, de 01 de dezembro de 2008.
+
 Redação original: "b) Câmara de Saneamento Básico e Ambiental;"
 
 c) Câmara de Mobilidade Urbana; e
@@ -122,7 +128,8 @@ d) Câmara de Planejamento e Gestão Territorial Urbana.
 
 § 3º - A Câmara Técnica de Saneamento Básico, além de órgão assessor do CONCIDADES/BA, terá por competências próprias as de formular a Política e o Plano Estadual de Saneamento Básico, conforme o disposto no art. 229 da [Constituição do Estado da Bahia](https://www.legislabahia.ba.gov.br/documentos/lei-no-10704-de-12-de-novembro-de-2007#) , bem como exercer o controle social dos serviços e ações de saneamento básico prestados e executados pelos órgãos e entidades da administração direta e indireta do Estado.
 
-Redação de acordo com o art. [17](https://www.legislabahia.ba.gov.br/documentos/lei-no-11172-de-01-de-dezembro-de-2008#art17) da Lei nº 11.172, de 01 de dezembro de 2008.<br>
+Redação de acordo com o art. [17](https://www.legislabahia.ba.gov.br/documentos/lei-no-11172-de-01-de-dezembro-de-2008#art17) da Lei nº 11.172, de 01 de dezembro de 2008.
+
 Redação original: "§ 3º - O funcionamento e as atribuições de cada Câmara Técnica serão definidos no Regimento Interno do ConCidades/BA."
 
 § 4º - A Câmara Técnica de Saneamento Básico terá sua composição definida em Decreto do Chefe do Poder Executivo Estadual, assegurada a participação de representantes do Poder Público, de associações comunitárias e de entidades profissionais ligadas ao saneamento básico, bem como, nos termos do art. 47 da Lei Federal nº 11.445, de 05 de janeiro de 2007 - Lei Nacional de Saneamento Básico, a representação:
@@ -137,7 +144,8 @@ IV - dos usuários dos serviços de saneamento básico;
 
 V - de entidades técnicas e organizações da sociedade civil relacionadas ao saneamento básico e de entidades de defesa do consumidor;
 
-Redação de acordo com o art. [17](https://www.legislabahia.ba.gov.br/documentos/lei-no-11172-de-01-de-dezembro-de-2008#art17) da Lei nº 11.172, de 01 de dezembro de 2008.<br>
+Redação de acordo com o art. [17](https://www.legislabahia.ba.gov.br/documentos/lei-no-11172-de-01-de-dezembro-de-2008#art17) da Lei nº 11.172, de 01 de dezembro de 2008.
+
 Redação original: "§ 4º - Poderão ser criadas novas Câmaras Técnicas, em caráter permanente ou provisório."
 
 § 5º - O funcionamento e as atribuições de cada Câmara Técnica, bem como da Câmara de Saneamento Básico, no que se refere às suas funções de órgão assessor, serão definidos no Regimento Interno do CONCIDADES/BA.
@@ -158,7 +166,8 @@ Art. 9º - As reuniões do ConCidades poderão ser convocadas pelo seu President
 
 Art. 10 - O Governador do Estado convocará e dará posse aos membros do ConCidades, no prazo de 60 (sessenta) dias após a publicação desta Lei.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DISPOSIÇÕES FINAIS
 
 Art. 11 - O ConCidades/BA deverá aprovar seu Regimento Interno, no prazo máximo de 60 (sessenta) dias após sua instalação.

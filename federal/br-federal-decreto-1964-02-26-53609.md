@@ -1,5 +1,3 @@
-###DEC-053609-0-000-26-02-1964@@@
-
 DECRETO nº 53.609, de 26 de fevereiro de 1964.
 
 Modifica o Art. 4º do Decreto número 52.052, de 24 de maio de 1963, que cria no Ministério das Relações Exteriores, Comissão encarregada de estudar a política do Brasil em matéria de Direito do Mar.

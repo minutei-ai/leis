@@ -1,5 +1,3 @@
-###DEC-074268-0-000-09-07-1974@@@
-
 DECRETO Nº 74.268 - DE 9 DE JULHO DE 1974.
 
 Complementa o Decreto nº 73.172 de 20 de novembro de 1973, que dispõe sobre a organização da Secretaria Geral do Ministério da Justiça.

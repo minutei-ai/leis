@@ -1,5 +1,3 @@
-###DEL-008985-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.985 – DE 14 DE FEVEREIRO DE 1946
 
 Autoriza a ocupação, pelo Govêrno Federal, das minas de São Jerônimo e Butiá, no Estado do Rio Grande do Sul.

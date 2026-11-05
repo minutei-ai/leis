@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211040)<br>
-
 # DECRETO N° 69.596, DE 09 DE JUNHO DE 2025
 
 ### _Altera o Decreto n° 63.280, de 19 de março de 2018, que reorganiza e consolida os programas e projetos de financiamento ou de subvenção econômica para o desenvolvimento da agropecuária de São Paulo realizados com recursos provenientes do Fundo de Expansão do Agronegócio Paulista - O Banco do Agronegócio Familiar (FEAP-BANAGRO)._

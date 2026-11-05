@@ -1,5 +1,3 @@
-###DEC-079019-0-000-23-12-1976@@@
-
 DECRETO Nº 79.019, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Letras de História e de Pedagogia, da Faculdade de Filosofia Ciências e Letras de Carangola, com sede na cidade de Carangola, Estado de Minas Gerais.

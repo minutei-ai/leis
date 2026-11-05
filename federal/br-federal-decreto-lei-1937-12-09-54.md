@@ -1,5 +1,3 @@
-###DEL-000054-0-000-09-12-1937@@@
-
 DECRETO-LEI N. 54 – DE 9 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 3.000:000$, para continuação das estradas de rodagem  Itaipava-Teresópolis e Rio-Baía

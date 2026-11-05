@@ -1,5 +1,3 @@
-###DEC-092381-0-000-06-02-1986@@@
-
 DECRETO Nº 92.381, DE 06 DE FEVEREIRO DE 1986
 
 Outorga ao Serviço Autônomo de Água e Esgoto de Amparo concessão para captação de água do rio Camanducaia, para abastecimento público, no Estado de São Paulo.

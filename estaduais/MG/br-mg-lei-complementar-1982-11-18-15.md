@@ -23,7 +23,3 @@ Dada no Palácio da Liberdade, em Belo Horizonte, aos 18 de novembro de 1982.
 FRANCELINO PEREIRA DOS SANTOS
 
 Afonso Celso Moraes de Sousa Carmo
-
-\================================================================
-
-Data da última atualização: 03/05/2005.

@@ -1,5 +1,3 @@
-###DEC-057231-0-000-11-11-1965@@@
-
 Decreto nº 57.231, de 11 de novembro de 1965.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$107.484.000, para atender às despesas realizadas com o comparecimento do Episódio brasileiro à Terceira Sessão do Concílio Ecumênico Vaticano II.

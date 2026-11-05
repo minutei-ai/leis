@@ -1,5 +1,3 @@
-###DEC-074810-0-000-04-11-1974@@@
-
 DECRETO Nº 74.810, DE 4 DE NOVEMBRO DE 1974.
 
 Aprova novo Regulamento do Serviço de Radioamador.

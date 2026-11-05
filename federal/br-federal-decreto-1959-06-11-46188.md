@@ -1,5 +1,3 @@
-###DEC-046188-0-000-11-06-1959@@@
-
 Decreto nº 46.188, de 11 de junho de 1959.
 
 Declara nulo o Decreto nº 33.086, de 18 de junho de 1953.

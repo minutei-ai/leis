@@ -1,5 +1,3 @@
-###DEC-059681-0-000-07-12-1966@@@
-
 DECRETO Nº 59 681, DE 7 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro João Tozatto Filho a lavrar argila no município de Araucária, Estado do Paraná.

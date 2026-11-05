@@ -1,5 +1,3 @@
-###DEC-073542-0-000-23-01-1974@@@
-
 DECRETO Nº 73.542, DE 23 DE JANEIRO DE 1974.
 
 Concede à Abílio Pedro S.A. - Indústria e Comércio o direito de lavrar calcário dolomítico, no Município de Pereiras, Estado de São Paulo.

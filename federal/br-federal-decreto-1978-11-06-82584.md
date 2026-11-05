@@ -1,5 +1,3 @@
-###DEC-082584-0-000-06-11-1978@@@
-
 Decreto nº 82.584, de 06 de novembro de 1978
 
 Declara sem efeito o Decreto nº 38.388, de 23 de dezembro de 1955, que autorizou o cidadão brasileiro João Fernandes Gimenes Molina a lavrar agalmatolito no Município de Mateus Leme, Estado de Minas Gerais.

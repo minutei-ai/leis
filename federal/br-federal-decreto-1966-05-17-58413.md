@@ -1,5 +1,3 @@
-###DEC-058413-0-000-17-05-1966@@@
-
 DECRETO Nº 58.413, DE 17 DE MAIO DE 1966.
 
 Autoriza a Companhia Estanífera do Brasil a pesquisar cassiterita no município de Ipameri - Estado de Goiás.

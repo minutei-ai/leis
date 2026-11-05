@@ -1,5 +1,3 @@
-###DEC-006945-0-000-21-08-2009@@@
-
 DECRETO Nº 6.945, DE 21 DE AGOSTO DE 2009.
 
 Altera o Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, em conformidade com o disposto no art. 14 da Lei no 11.774, de 17 de setembro de 2008, que trata da redução das alíquotas da Contribuição Previdenciária referidas nos incisos I e III do caput do art. 22 da Lei no 8.212, de 24 de julho de 1991, em relação às empresas que prestam serviços de tecnologia da informação - TI e de tecnologia da informação e comunicação - TIC.

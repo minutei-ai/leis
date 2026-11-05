@@ -1,5 +1,3 @@
-###DEC-073699-0-000-28-02-1974@@@
-
 DECRETO Nº 73.699, DE 28 DE FEVEREIRO DE 1974.
 
 Declara de interesse social para fins de desapropriação, áreas de terras nos Estados de São Paulo e Rio de Janeiro.

@@ -1,14 +1,12 @@
-###DEC-026605-0-000-25-04-1949@@@
+**DECRETO Nº 26.605, DE 25 DE ABRIL DE 1949.**
 
-<strong>DECRETO Nº 26.605, DE 25 DE ABRIL DE 1949.</strong>
+***Retifica o art. 1º, do Decreto número 26.516, de 28 de março de 1949, que faculta o transporte de sementes do oiticica a granel.***
 
-<em><strong>Retifica o art. 1º, do Decreto número 26.516, de 28 de março de 1949, que faculta o transporte de sementes do oiticica a granel.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o que dispõe o art. 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94, do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o que dispõe o art. 6º do Decreto-lei nº 334, de 15 de março de 1938, e o art. 94, do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica retificado o art. 1º do Decreto nº 26.516, de 28 de março de 1949 que passa a ter a seguinte redação:
+**Art**. 1º Fica retificado o art. 1º do Decreto nº 26.516, de 28 de março de 1949 que passa a ter a seguinte redação:
 
 “Art. 1º Será permitido o transporte de frutos de oiticica a grande desde que sejam cumpridas as seguintes exigências:
 
@@ -20,12 +18,12 @@ c) - cada vagão no ponto de carregamento será lacrado com sêlo de chumbo pelo
 
 d) - execução de classificação na ocasião do carregamento.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 25 de abril de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

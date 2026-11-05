@@ -1,5 +1,3 @@
-###DEC-074023-0-000-08-05-1974@@@
-
 DECRETO Nº 74.023, DE 8 DE MAIO DE 1974.
 
 Altera dispositivo do Regulamento do Comando, do Comando Geral do Ar.

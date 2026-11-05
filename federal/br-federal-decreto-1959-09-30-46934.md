@@ -1,5 +1,3 @@
-###DEC-046934-0-000-30-09-1959@@@
-
 DECRETO Nº 56.934, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza estrangeiro a adquirir o domínio pleno do lote de terreno nacional interior que menciona, situado no Distrito Federal.

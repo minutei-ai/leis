@@ -1,5 +1,3 @@
-###DEC-090954-0-000-14-02-1985@@@
-
 DECRETO Nº 90.954, DE 14 DE FEVEREIRO DE 1985
 
 Outorga concessão à RADIO ARARIPE DE CEDRO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Cedro, Estado do Ceará.

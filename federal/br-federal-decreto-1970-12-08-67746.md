@@ -1,5 +1,3 @@
-###DEC-067746-0-000-08-12-1970@@@
-
 DECRETO Nº 67.746, DE 8 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública, para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a sede do município de Dois Córregos até a sede do município de Minérios do Tietê, no Estado de São Paulo.

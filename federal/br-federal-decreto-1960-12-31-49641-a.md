@@ -1,5 +1,3 @@
-###DEC-049641-A-000-31-12-1960@@@
-
 DECRETO Nº 49.641-A, DE 31 DE DEZembro DE 1960.
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de Cr$36.000,00 para o fim que especifica.

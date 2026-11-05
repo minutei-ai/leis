@@ -1,5 +1,3 @@
-###DEC-066646-0-000-29-05-1970@@@
-
 DECRETO Nº 66.646, DE 29 DE MAIO DE 1970.
 
 Altera o artigo 68 do Decreto nº 52.795, de 31 de outubro de 1963.

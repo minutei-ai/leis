@@ -1,5 +1,3 @@
-###DEC-007923-0-000-18-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.923, DE 18 DE FEVEREIRO DE 2013
 
 Altera o Decreto nº 7.451, de 11 de março de 2011, que regulamenta o Regime Especial para a Indústria Aeronáutica Brasileira \- RETAERO.

@@ -1,5 +1,3 @@
-###DEC-062484-0-000-29-03-1968@@@
-
 decreto nº 62.484, de 29 de março de 1968.
 
 Aprova o Estatuto da Fundação Movimento Brasileiro de Alfabetização (MOBRAL).

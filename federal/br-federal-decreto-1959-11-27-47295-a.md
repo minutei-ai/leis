@@ -1,5 +1,3 @@
-###DEC-047295-A-000-27-11-1959@@@
-
 DECRETO Nº 47.295-A, DE 27 DE NOVEMBRO DE 1959.
 
 Autoriza o Embaixador do Brasil junto ao Govêrno de Espanha a aceitar a doação de terrenos, em Madrid.

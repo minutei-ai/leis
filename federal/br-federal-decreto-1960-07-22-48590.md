@@ -1,5 +1,3 @@
-###DEC-048590-0-000-22-07-1960@@@
-
 DECRETO Nº 48.590, de 22 de julho de 1960.
 
 Autoriza o cidadão brasileiro Mareo Kudamatsu a pesquisar caulim no município de Guarulhos, Estado de São Paulo.

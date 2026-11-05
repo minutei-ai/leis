@@ -1,5 +1,3 @@
-###DEC-089605-0-000-02-05-1984@@@
-
 Decreto nº 89.605, de 02 de maio de 1984
 
 Outorga concessão à RÁDIO TOCANTINS LTDA., para explorar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Tocantinópolis, Estado de Goiás.

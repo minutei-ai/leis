@@ -1,5 +1,3 @@
-###DEL-009103-0-000-27-03-1946@@@
-
 DECRETO N. 9.103 – DE 27 DE MARÇO DE 1946
 
 Prorroga o prazo previsto no artigo 2º, § 2º do Decreto-lei nº 8.827 de 24 de Janeiro de 1946.

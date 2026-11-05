@@ -1,5 +1,3 @@
-###DEC-046507-0-000-20-07-1959@@@
-
 DECRETO Nº 46.507, DE 20 DE julho DE 1959.
 
 Autoriza o cidadão brasileiro Eufrásio Abrantes Pêgo a pesquisar mica no município de Malacacheta, Estado de Minas Gerais.

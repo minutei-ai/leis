@@ -1,5 +1,3 @@
-###DEC-069025-0-000-06-08-1971@@@
-
 decreto nº 69.025, de 6 de AGÔSTO de 1971.
 
 Cria o Consulado Honorário do Brasil em Gotemburgo, Reino da Suécia.

@@ -1,5 +1,3 @@
-###DEC-004195-0-000-11-04-2002@@@
-
 DECRETO Nº 4.195, DE 11 DE ABRIL DE 2002
 
 Regulamenta a Lei nº 10.168, de 29 de dezembro de 2000, que institui contribuição de intervenção no domínio econômico destinada a financiar o Programa de Estímulo à Interação Universidade-Empresa para Apoio à Inovação, e a Lei nº 10.332, de 19 de dezembro de 2001, que institui mecanismos de financiamento para programas de ciência e tecnologia, e dá outras providências.

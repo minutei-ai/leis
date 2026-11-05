@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - O Conselho Estadual de Economia e Finanças instituído pelo [art. 115 da Constituição do Estado](https://www.legislabahia.ba.gov.br/documentos/promulgada-em-2-de-agosto-de-1947#CE1947_Art__115) , terá a organização e as atribuições prescritas na presente lei.
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS ATRIBUIÇÕES DO CONSELHO
 
 Art. 2º - Incumbe ao Conselho:
@@ -43,7 +44,8 @@ c) promover a coleta sistemática dos elementos estatísticos e informativos ind
 
 d) reunir diretamente os elementos de estudo de que necessitar.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA ORGANIZAÇÃO DO CONSELHO
 
 Art. 4º - Compor-se-á o Conselho de 6 Conselheiros escolhidos dentre os cidadãos de notória competência em assuntos técnicos, nomeados pelo Governador do Estado, depois de aprovada a escolha pelo Poder Legislativo.
@@ -68,7 +70,8 @@ III - Serviço de Administração e Intercâmbios.
 
 Art. 8º - O Regimento da Secretaria, a ser elaborado e aprovado por decreto executivo, dentro de 60 dias após a instalação do Conselho, especificará as atribuições das Divisões e Serviços, assim como de suas Seções.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO FUNCIONAMENTO DO CONSELHO
 
 Art. 9º - O Conselho Pleno reunir-se-á regularmente, ao menos três vezes por semana, em sessões ordinárias, realizando tantas reuniões extraordinárias quantas o exigir o trabalho a seu cargo.

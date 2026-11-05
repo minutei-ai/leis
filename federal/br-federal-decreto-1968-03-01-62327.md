@@ -1,5 +1,3 @@
-###DEC-062327-0-000-01-03-1968@@@
-
 DECRETO Nº 62.327, DE 1º DE MARÇO DE 1968.
 
 Aprova o enquadramento dos professôres fundadores da Escola de Belas Ates da Universidade do Espírito Santo em cargos de Professor de Ensino Superior, do Quadro de Pessoal - Parte Suplementar - do Ministério da Educação e Cultura, e dá outras providencias.

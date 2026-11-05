@@ -1,5 +1,3 @@
-###DEL-001302-0-000-31-12-1973@@@
-
 # DECRETO-LEI Nº 1.302, DE 31 DE DEZEMBRO DE 1973
 
 Altera a sistemática de Correção Monetária do Ativo Imobilizado e de cálculo da Manutenção de Capital de Giro Próprio e dá outras providências.
@@ -69,8 +67,6 @@ Brasília, 31 de dezembro de 1973; 152º da Independência e 85º da República.
 EMíLIO G. MÉDIcI
 
 Antônio Delfim Netto
-
-###DEL-001302-0-000-31-12-1973@@@RET01+++
 
 # DECRETO-LEI 1.302, DE 31 DE DEZEMBRO DE 1973
 

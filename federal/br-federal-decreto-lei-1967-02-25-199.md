@@ -1,5 +1,3 @@
-###DEL-000199-0-000-25-02-1967@@@
-
 DECRETO-LEI Nº 199, DE 25 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a Lei Orgânica do Tribunal de Contas da União e dá outras providências.

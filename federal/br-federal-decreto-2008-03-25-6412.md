@@ -1,5 +1,3 @@
-###DEC-006412-0-000-25-03-2008@@@
-
 DECRETO Nº 6.412, DE 25 DE MARÇO DE 2008.
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho Nacional dos Direitos da Mulher - CNDM, e dá outras providências.

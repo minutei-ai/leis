@@ -1,5 +1,3 @@
-###DEC-054854-0-000-03-11-1964@@@
-
 DECRETO Nº 54.854, DE 3 DE NOVEMBRO DE 1964.
 
 Renova o Decreto nº 47.397, de 10 de dezembro de 1959.

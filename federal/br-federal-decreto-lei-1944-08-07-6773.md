@@ -1,5 +1,3 @@
-###DEL-006773-0-000-07-08-1944@@@
-
 DECRETO-LEI N. 6.773 – DE 7 AGÔSTO DE 1944
 
 Dispõe sôbre o Comando de Zonas, Diretoria e altera o efetivo do Quadro de Oficiais Aviadores

@@ -1,5 +1,3 @@
-###DEC-007757-0-000-15-06-2012-PUB-01@@@
-
 DECRETO N° 7.757, DE 15 DE JUNHO DE 2012
 
 Altera o Decreto nº 7.727, de 24 de maio de 2012, que remaneja temporariamente cargos em comissão para atividades da Comissão Nacional da Verdade, de que trata a Lei n° 12.528, de 18 de novembro de 2011.

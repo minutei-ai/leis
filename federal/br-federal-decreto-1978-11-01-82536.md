@@ -1,5 +1,3 @@
-###DEC-082536-0-000-01-11-1978@@@
-
 Decreto nº 82.536, de 01 de novembro de 1978.
 
 Concede reconhecimento à habilitação em Educação de Excepcionais do curso de Pedagogia da Faculdade de Educação, mantida pela Universidade de Mogi das Cruzes, com sede na cidade de Mogi das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-058459-0-000-17-05-1966@@@
-
 DECRETO Nº 58.459, de 17 de maio de 1966.
 
 Autoriza o cidadão brasileiro João Chagas da Silveira a pesquisar minério de cobre e de molibidênio no município de São Gabriel, Estado do Rio Grande do Sul.

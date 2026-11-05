@@ -1,5 +1,3 @@
-###DEC-070639-0-000-29-05-1972@@@
-
 Decreto nº 70.639, de 29 de maio de 1972.
 
 Dispõe sobre a reintegração de funcionário do Ministério da Agricultura e dá outras providências.

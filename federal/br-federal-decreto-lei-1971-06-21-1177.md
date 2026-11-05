@@ -1,5 +1,3 @@
-###DEL-001177-0-000-21-06-1971@@@
-
 # DECRETO-Lei Nº 1.177, DE 21 DE JUNHO DE 1971
 
 Dispõe sôbre aerolevantamentos no território nacional, e dá outras providências.

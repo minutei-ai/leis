@@ -1,6 +1,10 @@
 > **LEI Nº 4.394, DE 13 DE AGOSTO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Estabelece critérios da prática esportiva de soltura de pipas e proibição de cerol ou produtos assemelhados.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Estabelece critérios da prática esportiva de soltura de pipas e proibição de cerol ou produtos assemelhados.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

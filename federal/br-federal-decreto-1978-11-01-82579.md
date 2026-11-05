@@ -1,5 +1,3 @@
-###DEC-082579-0-000-01-11-1978@@@
-
 Decreto nº 82.579, de 1º de novembro de 1978
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube Paranaense Ltda., para que a Fundação Nossa Senhora do Rocio, sob a denominação de Rádio Clube Paranaense Ltda., passe a executar na cidade de Curitiba, Estado do Paraná, serviço de radiodifusão sonora em onda curta.

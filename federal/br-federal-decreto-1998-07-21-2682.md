@@ -1,5 +1,3 @@
-###DEC-002682-0-000-21-07-1998@@@
-
 DECRETO Nº 2.682, DE 21 DE JULHO DE 1998
 
 Promulga a Convenção nº 168 da OIT, relativa à Promoção do Emprego e à Proteção contra o Desemprego.

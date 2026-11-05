@@ -1,5 +1,3 @@
-###DEC-005435-0-000-26-04-2005@@@
-
 DECRETO Nº 5.435, DE 26 DE ABRIL DE 2005
 
 Define os limites de que tratam o inciso II e o § 5o do art. 3º da Lei nº 10.188, de 12 de fevereiro de 2001, e dá outras providências.

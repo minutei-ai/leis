@@ -1,5 +1,3 @@
-###DEC-049898-0-000-12-01-1961@@@
-
 DECRETO Nº 49.898, DE 12 DE JANEIRO DE 1961.
 
 Autoriza a Companhia Nacional de Cimento Portland a pesquisar calcário no município de Cantagalo, Estado do Rio de Janeiro.

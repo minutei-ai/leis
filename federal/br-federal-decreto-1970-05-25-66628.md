@@ -1,5 +1,3 @@
-###DEC-066628-0-000-25-05-1970@@@
-
 DECRETO Nº 66.628, DE 25 DE MAIO DE 1970.
 
 Revoga o Decreto nº 43.025, de 9 de janeiro de 1958.

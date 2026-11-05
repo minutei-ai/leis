@@ -1,5 +1,3 @@
-###DEC-082547-0-000-01-11-1978@@@
-
 Decreto nº 82.547, de 01 de novembro de 1978.
 
 Concede à Cláudio Bailone & Cia. o direito de lavrar quartzo e feldspato no Município de Inconfidentes, Estado de Minas Gerais.

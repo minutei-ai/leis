@@ -1,5 +1,3 @@
-###DEC-058246-0-000-22-04-1966@@@
-
 decreto nº 58.246, de 22 de abril de 1966.
 
 Outorga concessão a Rádio Independência de Brasília Ltda., para instalar uma estação de radiodifusão sonora na cidade de Brasília - DF.

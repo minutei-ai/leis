@@ -1,5 +1,3 @@
-###DEL-002044-0-000-07-07-1983@@@
-
 # DECRETO-LEI nº 2.044, de 07 de Julho de 1983
 
 Concede isenção do Imposto de Importação e do Imposto sobre Produtos Industrializados nos casos que especifica.

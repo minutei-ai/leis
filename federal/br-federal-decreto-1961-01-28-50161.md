@@ -1,5 +1,3 @@
-###DEC-050161-0-000-28-01-1961@@@
-
 DECRETO Nº 50.161, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Emissoras Unidas de Goiás Sociedade Limitada para instalar uma estação radiodifusora.

@@ -1,5 +1,3 @@
-###DEL-005832-0-000-20-09-1943@@@
-
 DECRETO‑LEI N. 5.832 – DE 20 DE SETEMBRO DE 1943
 
 Autoriza a renovação do contrato de que trata o decreto‑lei n. 2.398, de 11 de julho de 1940, e dá outras providências

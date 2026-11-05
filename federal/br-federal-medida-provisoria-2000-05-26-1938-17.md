@@ -1,5 +1,3 @@
-###MPV-001938-0-017-26-05-2000@@@
-
 MEDIDA PROVISÓRIa Nº 1.938-17, de 26 de maio de 2000.
 
 Autoriza a União a adquirir ou pagar obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

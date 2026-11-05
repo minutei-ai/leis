@@ -1,5 +1,3 @@
-###DEC-071250-0-000-13-10-1972@@@
-
 DECRETO nº 71.250 - de 13 de outubro de 1972.
 
 Dispõe sobre a prestação de serviços por civis e militares, possuidores de quaisquer dos cursos da Escola Nacional de Informações, em que órgãos do Sistema Nacional de Informações (SISNI), mediante  requisição, designação ou admissão contratual.

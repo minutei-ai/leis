@@ -1,5 +1,3 @@
-###DEC-001931-0-000-17-06-1996@@@
-
 DECRETO N° 1.931, DE 17 DE JUNHO DE 1996.
 
 Dispõe sobre a realização do concurso público para provimento de cargos na Categoria Funcional de Procurador Autárquico do Instituto Nacional do Seguro Social.

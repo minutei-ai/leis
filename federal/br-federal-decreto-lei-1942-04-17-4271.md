@@ -1,5 +1,3 @@
-###DEL-004271-0-000-17-04-1942@@@
-
 DECRETO-LEI N. 4.271 – DE 17 DE ABRIL DE 1942
 
 Regula o recrutamento dos oficiais da Reserva de 2ª classe do Exército.

@@ -1,5 +1,3 @@
-###DEC-051989-0-000-06-05-1963@@@
-
 DECRETO Nº 51.989, DE 6 DE MAIO DE 1963.
 
 Altera a redação do artigo 2º do Decreto nº 318, de 7 de dezembro de 1961, do Presidente do Conselho de Ministros, que cria uma Delegação Permanente do Brasil junto à Associação Latino-Americana de Livre Comércio.

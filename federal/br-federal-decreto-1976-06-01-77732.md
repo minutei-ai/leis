@@ -1,5 +1,3 @@
-###DEC-077732-0-000-01-06-1976@@@
-
 DECRETO Nº 77.732, DE 1º DE JUNHO DE 1976.
 
 Concede reconhecimento aos cursos de Administração e de Ciências Econômicas da Faculdade de Ciências Políticas e Econômicas do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

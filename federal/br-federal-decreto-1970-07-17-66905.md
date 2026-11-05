@@ -1,5 +1,3 @@
-###DEC-066905-0-000-17-07-1970@@@
-
 Decreto nº 66.905, de 17 de julho de 1970.
 
 Declara de utilidade pública o Patronato Auxiliadora, com sede em Campos Novos, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-083869-0-000-21-08-1979@@@
-
 Decreto nº 83.869, de 21 de agosto de 1979
 
 Delega competência ao Ministro da Fazenda para autorizar registro da propriedade dos bens imóveis da União, na forma da Lei nº 5.972, de 11 de dezembro de 1973.

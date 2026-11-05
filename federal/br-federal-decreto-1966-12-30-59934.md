@@ -1,5 +1,3 @@
-###DEC-059934-0-000-30-12-1966@@@
-
 DECRETO Nº 59.934, DE 30 DE DEZEMBRO DE 1966.
 
 Autoriza a Cia. Estrada de Ferro e Minas São Jerônimo a pesquisar carvão no município de Guaiba, Estado do Rio Grande do Sul.

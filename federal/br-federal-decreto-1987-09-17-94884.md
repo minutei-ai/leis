@@ -1,5 +1,3 @@
-###DEC-094884-0-000-17-09-1987@@@
-
 DECRETO Nº 94.884, DE 17 DE SETEMBRO DE 1987
 
 Declaram de utilidade pública, para fins de desapropriação, áreas adjacentes de terra necessárias à ampliação da subestação Caiçara da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

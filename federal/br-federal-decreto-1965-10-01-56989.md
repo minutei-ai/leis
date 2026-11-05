@@ -1,5 +1,3 @@
-###DEC-056989-0-000-01-10-1965@@@
-
 decreto nº 56.989, de 1º de outubro de 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer taxas e impostos federais, a importação de equipamentos novos, sem similar nacional registrado e consignados à emprêsa “FORTALEZA AÇOS S.A. de Fortaleza (Ce).
@@ -14,7 +12,29 @@ decreta:
 
 Art. 1º Fica declarada prioritária para o desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à emprêsa “FORTALEZA AÇOS S.A.”, de Fortaleza (Ce):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:272.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM - ESPECIFICAÇÃO</span></p></td><td style="width:85.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Quantidade</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>a ser</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>importada</span></p></td><td style="width:60.3pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:272.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Uma instalação completa para produção de lã de aço modêlo Lux, composta de 4 bancadas de ferro fundido, com 72 suportes de navalhas, com registros apropriados e 140 placas de guia no nastro, 6 roldanas de garganta em ferro fundido, 3 eixos e respectivos mancais, 3 suportes de ferro, 2 engrenagens de ferro fundido modêlo Z 45 para corrente calibrada 40, 2 engrenagens de ferro fundido duplex Z 57 para corrente dupla, 1 engrenagem em ferro fundido triplex Z 27 para corrente tripla, 1 desenrolador de ferro, 1 máquina para alinhar os dois nastros, 2 sacadores de nastro de lã de aço ajustáveis, 1 dispositivo de enrolamento, 1 prisioneiro com calibrador micrométrico, 1 variador para máquina de enrolar lã de aço, 2 máquinas de enrolar lã de aço, 1 aspirador com capacidade de 95 e pressão de 125 com motor elétrico acoplado de 4,75 HP., 20 placas guia, 1 carrinho para máquina de afiar, engrenagem de 3 velocidades, 1 redução com corrente tripla, 1 guindaste de ponte móvel com armação de talha, 1 quadro elétrico de comando com todos os contrôles para as diversas partes da máquina, 70 navalhas, 10 rebolos especiais para máquina de afiar, 1 máquina de afiar de duas seções com motor elétrico especial acoplado de 5 H. P. e dois rebolos, 1 máquina de solda elétrica automática para as pontas dos arames. A instalação é fornecida equipada com chaves e outros equipamentos necessários a mantê-la em condições de trabalho. Todo o equipamento é de fabricação italiana ..........</span></p></td><td style="width:85.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:60.3pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.000</span></p></td></tr><tr><td style="width:272.95pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>TOTAL .....................................................................................</span></p></td><td style="width:85.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:60.3pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>22.000</span></p></td></tr></tbody></table>
+ITEM - ESPECIFICAÇÃO
+
+Quantidade
+
+a ser
+
+importada
+
+Valor Total
+
+CIF US$
+
+1. Uma instalação completa para produção de lã de aço modêlo Lux, composta de 4 bancadas de ferro fundido, com 72 suportes de navalhas, com registros apropriados e 140 placas de guia no nastro, 6 roldanas de garganta em ferro fundido, 3 eixos e respectivos mancais, 3 suportes de ferro, 2 engrenagens de ferro fundido modêlo Z 45 para corrente calibrada 40, 2 engrenagens de ferro fundido duplex Z 57 para corrente dupla, 1 engrenagem em ferro fundido triplex Z 27 para corrente tripla, 1 desenrolador de ferro, 1 máquina para alinhar os dois nastros, 2 sacadores de nastro de lã de aço ajustáveis, 1 dispositivo de enrolamento, 1 prisioneiro com calibrador micrométrico, 1 variador para máquina de enrolar lã de aço, 2 máquinas de enrolar lã de aço, 1 aspirador com capacidade de 95 e pressão de 125 com motor elétrico acoplado de 4,75 HP., 20 placas guia, 1 carrinho para máquina de afiar, engrenagem de 3 velocidades, 1 redução com corrente tripla, 1 guindaste de ponte móvel com armação de talha, 1 quadro elétrico de comando com todos os contrôles para as diversas partes da máquina, 70 navalhas, 10 rebolos especiais para máquina de afiar, 1 máquina de afiar de duas seções com motor elétrico especial acoplado de 5 H. P. e dois rebolos, 1 máquina de solda elétrica automática para as pontas dos arames. A instalação é fornecida equipada com chaves e outros equipamentos necessários a mantê-la em condições de trabalho. Todo o equipamento é de fabricação italiana ..........
+
+1
+
+22.000
+
+TOTAL .....................................................................................
+
+-
+
+22.000
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria, fica sua similaridade, para efeito da isenção de que trata o presente decreto, para ser examinada pela alfândega de destino, quando do desembaraço aduaneiro, na hipótese de os mesmos seguirem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

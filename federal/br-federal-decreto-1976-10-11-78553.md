@@ -1,5 +1,3 @@
-###DEC-078553-0-000-11-10-1976@@@
-
 DECRETO Nº 78.553, de 11 de outubro de 1976
 
 Concede reconhecimento ao curso de Ciências Contábeis, da faculdade de Ciências Contábeis, de Lucélia. com sede na cidade  de Lucélia, Estado de São Paulo.

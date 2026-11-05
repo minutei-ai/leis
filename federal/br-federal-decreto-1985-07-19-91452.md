@@ -1,5 +1,3 @@
-###DEC-091452-0-000-19-07-1985@@@
-
 DECRETO Nº 91.452, DE 19 DE JULHO DE 1985
 
 Institui Comissão para realizar estudos sobre o desporto nacional.

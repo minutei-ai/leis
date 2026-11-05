@@ -1,5 +1,3 @@
-###DEC-047366-0-000-04-12-1959@@@
-
 DECRETO Nº 47.366, DE 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Adonias Martins de Carvalho a pesquisar minério de ferro no Município de Independência, Estado do Ceará.

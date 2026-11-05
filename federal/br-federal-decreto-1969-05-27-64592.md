@@ -1,5 +1,3 @@
-###DEC-064592-0-000-27-05-1969@@@
-
 DECRETO Nº 64.592, DE 27 DE MAIO DE 1969.
 
 Abre ao Ministério da Fazenda o crédito especial de NCr$ 10.000.000,00 para o fim que especifica.

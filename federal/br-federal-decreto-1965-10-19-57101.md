@@ -1,5 +1,3 @@
-###DEC-057101-0-000-19-10-1965@@@
-
 Decreto nº 57.101, de 19 de outubro de 1965.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 40.894, de 12 de fevereiro de 1957, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “Santo Antônio do Aracatiaçu”, no município de Sobral, Estado do Ceará.

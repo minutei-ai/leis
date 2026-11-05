@@ -1,5 +1,3 @@
-###DEC-056622-0-000-29-07-1965@@@
-
 DECRETO Nº 56.622, DE 29 DE JULHO DE 1965.
 
 Acrescenta parágrafo ao art. 2º, e altera a redação do § 1º, do art. 3º do Decreto nº 55.488, de 8 de janeiro de 1965.

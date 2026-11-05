@@ -1,5 +1,3 @@
-###DEC-050051-0-000-24-01-1961@@@
-
 DECRETO Nº 50.051, DE 24 DE JANEIRO DE 1961.
 
 Transfere cargos da Parte Suplementar para o Quadro Permanente do pessoal do IPASE.

@@ -1,5 +1,3 @@
-###DEC-093894-0-000-07-01-1987@@@
-
 # DECRETO Nº 93.894, DE 07 DE JANEIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da subestação de São José, de Furnas - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-070456-0-000-26-04-1972@@@
-
 DECRETO Nº 70.456, DE 26 DE ABRIL DE 1972.
 
 Concede reconhecimento ao Curso de Engenharia Civil da Faculdade de Engenharia de Limeira - SP.

@@ -1,5 +1,3 @@
-###DEC-092784-0-000-16-06-1986@@@
-
 DECRETO Nº 92.784, DE 16 DE JUNHO DE 1986
 
 Promulga o Convênio Zoossanitário entre a República Federativa do Brasil e o Governo da Espanha.

@@ -1,5 +1,3 @@
-###DEL-008208-0-000-22-11-1945@@@
-
 DECRETO-LEI N. 8.208 – DE 22 DE NOVEMBRO DE 1945
 
 Dispõe sobre a Comissão Executiva da Pesca criada pelo Decreto-lei  numero 5030, de 4 de dezembro de 1942 modificado pelo Decreto-lei nº 6530, de 28 de maio de 1943.     

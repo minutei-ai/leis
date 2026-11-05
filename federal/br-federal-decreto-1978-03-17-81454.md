@@ -1,5 +1,3 @@
-###DEC-081454-0-000-17-03-1978@@@
-
 Decreto nº 81.454, de 17 de março de 1978.
 
 Dispõe sobre o organização administrativa do Ministério da Educação e Cultura e dá outras providências.

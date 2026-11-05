@@ -1,5 +1,3 @@
-###DEC-048369-0-000-22-06-1960@@@
-
 decreto nº 48.369, de 22 de junho de 1960.
 
 Altera as alíneas y e a’ do item VII, do art. 46 e itens VI e IX do § 4º do art. 47 do Regimento do Departamento e Administração do Ministério da Justiça e Negócios Interiores, aprovado pelo Decreto nº 21.826, de 5 de setembro de 1946.

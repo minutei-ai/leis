@@ -1,5 +1,3 @@
-###DEC-074298-0-000-17-07-1974@@@
-
 DECRETO Nº 74.298 - DE 17 DE JULHO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóveis, em Amambai - MT, destinados ao Ministério do Exército.

@@ -1,5 +1,3 @@
-###DEL-005468-0-000-07-05-1943@@@
-
 DECRETO‑LEI N. 5.468 – DE 7 DE MAIO 16 DE 1943
 
 Abre ao Ministério das Relaçães Exteriores o crédito especial de Cr$ 57.125,00 para classificação de despesa

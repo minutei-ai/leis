@@ -1,5 +1,3 @@
-###DEC-083607-0-000-19-06-1979@@@
-
 decreto nº 83.607, de 19 de junho de 1979.
 
 Altera dispositivos do Regulamento do Ministério Público da União junto à Justiça do Trabalho e dá outras providências.

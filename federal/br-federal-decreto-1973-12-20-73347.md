@@ -1,5 +1,3 @@
-###DEC-073347-0-000-20-12-1973@@@
-
 DECRETO Nº 73.347 - DE 20 DE DEZEMBRO DE 1973
 
 Concede reconhecimento a Escola de Engenharia de Piracicaba, com o curso de Engenharia Civil, mantida pela Fundação Municipal de Ensino de Piracicaba, com sede na cidade de Piracicaba, Estado de São Paulo.

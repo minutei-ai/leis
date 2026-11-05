@@ -1,5 +1,3 @@
-###DEC-091394-0-000-02-07-1985@@@
-
 Decreto nº 91.394, de 02 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO E TV DIFUSORA PORTOALEGRENSE S/A, e autoriza a transferência direta para a RÁDIO E TV PORTOVISÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Porto Alegre, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-055125-0-000-02-12-1964@@@
-
 decreto nº 55.125, de 02 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Paulo Costa a pesquisar feldspato, no município de Nora Resende, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-089919-0-000-04-07-1984@@@
-
 DECRETO nº 89.919, de 04 de julho de 1984.
 
 Autoriza o aumento do capital da USIMINAS MECÂNICA S.A., por subscrição e integralização em dinheiro e/ou crédito.

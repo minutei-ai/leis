@@ -1,5 +1,3 @@
-###MPV-000607-0-000-19-02-2013-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 607, DE 19 DE FEVEREIRO DE 2013
 
 Altera a Lei nº 10.836, de 9 de janeiro de 2004, para modificar o Benefício para Superação da Extrema Pobreza.

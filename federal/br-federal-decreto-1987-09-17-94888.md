@@ -1,5 +1,3 @@
-###DEC-094888-0-000-17-09-1987@@@
-
 DECRETO Nº 94.888, DE 17 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Santo Anastácio da CAIUÁ - Serviço de Eletricidade S.A., no Estado de São Paulo.

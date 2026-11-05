@@ -1,5 +1,3 @@
-###DEC-073290-0-000-11-12-1973@@@
-
 DECRETO Nº 73.290 - DE 11 DE DEZEMBRO DE 1973
 
 Autoriza o Ministro da fazenda a contratar operações externas que especifica.

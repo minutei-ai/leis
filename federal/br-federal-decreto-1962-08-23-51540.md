@@ -1,5 +1,3 @@
-###DEC-051540-0-000-23-08-1962@@@
-
 DECRETO Nº 51.540, DE 23 DE AGÔSTO DE 1962.
 
 Acrescenta um parágrafo ao artigo 3º do Decreto nº 51.487, de 8 de junho de 1962, que dispõe sôbre o Quadro de Pessoal da Universidade Federal de Goiás e dá outras providências.

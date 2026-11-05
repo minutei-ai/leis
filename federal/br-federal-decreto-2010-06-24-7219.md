@@ -1,5 +1,3 @@
-###DEC-007219-0-000-24-06-2010@@@
-
 DECRETO Nº 7.219, DE 24 DE JUNHO DE 2010.
 
 Dispõe sobre o Programa Institucional de Bolsa de Iniciação à Docência - PIBID e dá outras providências.

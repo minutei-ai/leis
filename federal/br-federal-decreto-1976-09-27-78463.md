@@ -1,5 +1,3 @@
-###DEC-078463-0-000-27-09-1976@@@
-
 DECRETO Nº 78.463, DE 27 DE SETEMBRO DE 1976.
 
 Autoriza o funcionamento do curso de Formação de Professores de Disciplinas Especificas de 2º grau, Esquemas I e II, da Faculdade de Filosofia, Ciências e Letras de Alegrete, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

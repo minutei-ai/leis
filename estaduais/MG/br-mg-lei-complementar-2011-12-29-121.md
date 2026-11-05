@@ -151,7 +151,3 @@ ANEXO
 (a que se refere o art. 37 da Lei Complementar n° 64, de 25 de março de 2002)
 
 Ano Servidor Ativo Servidor Inativo e Pensionista Repasse da contribuição do servidor para o FUNPEMG (sobre a folha do titular de cargo efetivo, do membro da magistratura e do Ministério Público e do Conselheiro do Tribunal de Contas providos no cargo após 31 de dezembro de 2001) Repasse da contribuição patronal para o FUNPEMG (sobre a folha do servidor titular de cargo efetivo, do membro da magistratura e do Ministério Público e do Conselheiro do Tribunal de Contas providos no cargo após 31 de dezembro de 2001) Repasse da contribuição para o FUNPEMG (sobre a folha do servidor aposentado em cargo efetivo no qual foi provido após 31 de dezembro de 2001 e do beneficiário de pensão devida pelo falecimento do servidor titular de cargo efetivo provido após 31 de dezembro de 2001, cujo benefício seja arcado com recursos do FUNPEMG) 2002 1% 2% 0% 2003 2% 4% 0% 2004 3% 6% 0% 2005 4% 8% 0% 2006 5% 10% 0% 2007 6% 12% 0% 2008 7% 14% 0% 2009 8% 16% 0% 2009-A 2% 4% 0% 2010 2% 4% 0% 2011 5% 10% 0% 2012 1% 2% 0% 2012-A 6% 12% 0% 2013 11% 19% 11%
-
-\============================================================
-
-Data da última atualização: 12/5/2025.

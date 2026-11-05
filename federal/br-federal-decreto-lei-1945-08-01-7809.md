@@ -1,5 +1,3 @@
-###DEL-007809-0-000-01-08-1945@@@
-
 DECRETO-LEI N. 7.809 – DE 1 DE AGÔSTO DE 1945
 
 Abre crédito suplementar, sem aumento de despesa

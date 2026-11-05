@@ -1,5 +1,3 @@
-###DEC-084041-0-000-01-10-1979@@@
-
 decreto nº 84.041, de 1º outubro de 1979.
 
 Autoriza o aumento da potência diurna da L & C Rádio Emissoras Ltda., na cidade de Agudos, Estado de São Paulo.

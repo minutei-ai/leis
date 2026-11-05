@@ -1,5 +1,3 @@
-###DEC-081106-0-000-21-12-1977@@@
-
 Decreto nº 81.106, de 21 de dezembro de 1977.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Correio da Paraíba S.A. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de João Pessoa, Estado da Paraíba.

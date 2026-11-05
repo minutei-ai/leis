@@ -1,5 +1,3 @@
-###DEC-050396-0-000-29-03-1961@@@
-
 DECRETO Nº 50.396, DE 29 DE MARÇO DE 1961.
 
 “Torna sem efeito os atos de movimentação do pessoal que especifica.

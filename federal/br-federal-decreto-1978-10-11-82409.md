@@ -1,5 +1,3 @@
-###DEC-082409-0-000-11-10-1978@@@
-
 DECRETO Nº 82.409, DE 11 DE OUTUBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado do Rio de Janeiro.

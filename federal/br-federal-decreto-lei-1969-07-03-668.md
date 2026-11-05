@@ -1,5 +1,3 @@
-###DEL-000668-0-000-03-07-1969@@@
-
 DECRETO-LEI Nº 668, De 3 DE JULHO DE 1969
 
 Altera disposições do Decreto-lei nº 60, de 21 de novembro de 1966,e dá outras providências

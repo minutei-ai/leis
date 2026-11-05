@@ -1,5 +1,3 @@
-###DEC-097506-0-000-13-02-1989@@@
-
 DECRETO N° 97.506, DE 13 DE FEVEREIR0 DE 1989
 
 Altera os Estatutos de entidades estatais vinculadas a Secretaria de Planejamento e Coordenação.

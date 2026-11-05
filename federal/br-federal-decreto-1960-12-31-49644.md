@@ -1,5 +1,3 @@
-###DEC-049644-0-000-31-12-1960@@@
-
 DECRETO Nº 49.644, DE 31 DE dezembro DE 1960.
 
 Autoriza Carlos Humberto Faleiros Stein, a comprar pedras preciosas.

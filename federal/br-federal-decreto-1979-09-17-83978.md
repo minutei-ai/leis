@@ -1,5 +1,3 @@
-###DEC-083978-0-000-17-09-1979@@@
-
 decreto nº 83.978, de 17 de Setembro de 1979.
 
 Cassa a concessão outorgada à Rádio Cultura de  Rio Verde Ltda. para estabelecer, na cidade de Rio Verde de Mato Grosso, Estado de Mato Grosso do Sul, uma estação de radiodifusão sonora em onda tropical.

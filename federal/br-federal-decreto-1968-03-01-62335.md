@@ -1,5 +1,3 @@
-###DEC-062335-0-000-01-03-1968@@@
-
 DECRETO Nº 62.335, DE 1º DE MARÇO DE 1968.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba, concessão para distribuir energia elétrica nos municípios de João Pessoa, Cabedelo e Santa Rita, Estado da Paraíba.

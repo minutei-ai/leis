@@ -1,5 +1,3 @@
-###DEC-064351-0-000-11-04-1969@@@
-
 Decreto nº 64.351, de 11 de abril de 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal da Superintendência Nacional da Marinha Mercante - SUNAMAM, cargos integrantes do Quadro de Pessoal do Ministério da Indústria e do Comércio.

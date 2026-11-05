@@ -1,5 +1,3 @@
-###DEL-000694-0-000-22-07-1969@@@
-
 DECRETO-LEI Nº 694, de 22 de julho de 1969
 
 Aprova o Convênio Cultural entre a República Federativa do Brasil e a Guiana, assinado no Rio de Janeiro, a 28 de agôsto de 1968.

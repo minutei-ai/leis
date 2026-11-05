@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210543)<br>
-
 # DECRETO N° 69.315, DE 16 DE JANEIRO DE 2025
 
 ### _Transfere, da Secretaria da Educação para a Defensoria Pública do Estado de São Paulo, a administração de parte do imóvel que especifica, localizado no Município de Araçatuba, e dá providências correlatas._

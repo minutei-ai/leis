@@ -1,5 +1,3 @@
-###DEC-080891-0-000-30-11-1977@@@
-
 DECRETO Nº 80.891, DE 30 DE NOVEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Município de Cabedelo, Estado da Paraíba.

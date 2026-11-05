@@ -1,5 +1,3 @@
-###DEL-005333-0-000-19-03-1943@@@
-
 DECRETO‑LEI N. 5.333 – DE 19 DE MARÇO DE 1943
 
 Denomina Guardas‑Marinha Fuzileiros Navais os aspirantes a oficiais do Corpo de Fuzileiros Navais

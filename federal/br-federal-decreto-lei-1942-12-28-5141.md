@@ -1,5 +1,3 @@
-###DEL-005141-0-000-28-12-1942@@@
-
 DECRETO-LEI N. 5.141 – DE 28 DE DEZEMBRO DE 1942
 
 Concede pensão especial à viuva e aos filhos menores de Luiz de Andrade, vítima de acidente em serviço

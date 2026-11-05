@@ -1,5 +1,3 @@
-###DEC-060054-0-000-12-01-1967@@@
-
 DECRETA Nº 60.054, DE 12 DE JANEIRO DE 1967.
 
 Autoriza o Govêrno do Estado de São Paulo a encampar os bens e instalações vinculadas aos serviços de energia elétrica no Município de Pederneiras, Estado de São Paulo.

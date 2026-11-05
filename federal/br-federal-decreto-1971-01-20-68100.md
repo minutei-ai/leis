@@ -1,5 +1,3 @@
-###DEC-068100-0-000-20-01-1971@@@
-
 DECRETO Nº 68.100, DE 20 DE JANEIRO DE 1971.
 
 Altera a redação dos artigos 1° e 2° do Decreto nº 66.142, de 30 de janeiro 1970.

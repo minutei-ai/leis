@@ -1,5 +1,3 @@
-###DEC-094886-0-000-17-09-1987@@@
-
 DECRETO Nº 94.886, DE 17 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação de dois jogos de chaves na linha de transmissão RAC Osasco 1-2 (PE 2985), da ELETROPAULO - Eletricidade de S Paulo S.A., no Estado de São Paulo.

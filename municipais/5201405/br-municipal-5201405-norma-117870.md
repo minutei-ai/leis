@@ -26,11 +26,14 @@ Gabinete do Prefeito de Aparecida de Goiânia, Estado de Goiás, aos 09 dias do 
 
  
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo
 
-ANDRÉ LUIS FEREIRA DA ROSA<br>
+ANDRÉ LUIS FEREIRA DA ROSA
+
 Secretário da Fazenda

@@ -1,5 +1,3 @@
-###DEC-002469-0-000-21-01-1998@@@
-
 DECRETO Nº 2.469, DE 21 DE JANEIRO DE 1998
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND, do Banco do Estado de São Paulo S.A. - BANESPA.

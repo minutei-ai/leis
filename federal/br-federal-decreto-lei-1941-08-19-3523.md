@@ -1,5 +1,3 @@
-###DEL-003523-0-000-19-08-1941@@@
-
 DECRETO-LEI N. 3.523 – DE 19 DE AGOSTO DE 1941
 
 Fica substituido o nome da sociedade mercantil brasileira “Sindicato Condor Ltda.” pela nova denominação “Serviços Aéreos Condor Limitada”.

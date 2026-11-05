@@ -1,5 +1,3 @@
-###DEL-003888-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.888 – DE 5 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de 1:200$0, à verba que especifica

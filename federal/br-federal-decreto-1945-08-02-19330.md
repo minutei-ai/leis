@@ -1,24 +1,22 @@
-###DEC-019330-0-000-02-08-1945@@@
+**DECRETO Nº 19.330, DE 2 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19.330, DE 2 DE AGÔSTO DE 1945.</strong>
+***Concede permissão à Rádio Sociedade Norte de Minas S. A para estabelecer uma estação radiodifusora em Montes Claros, Estado de Minas Gerais***
 
-<em><strong>Concede permissão à Rádio Sociedade Norte de Minas S. A para estabelecer uma estação radiodifusora em Montes Claros, Estado de Minas Gerais</strong></em>
+**O PRESIDENTE DA REPÚBLICA** usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong> usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. - Fica concedida à Rádio Sociedade Norte de Minas S. A permissão para estabelecer em Montes Claros, Estado de Minas, sem direito de exclusividade, uma estação destinada a executar o serviço de radiodifusão, nos têrmos das cláusulas que com êste baixam, assinadas pelo Ministro da Viação e da República.
 
-Parágrafo único - O contrato decorrente desta concessão deverá ser assinado dentro do prazo de trinta dias, a contar da data da publicação dêste decreto no <em>Diário Oficial</em>, sob pena de ser desde logo considerada nula a concessão.
+Parágrafo único - O contrato decorrente desta concessão deverá ser assinado dentro do prazo de trinta dias, a contar da data da publicação dêste decreto no *Diário Oficial*, sob pena de ser desde logo considerada nula a concessão.
 
 Rio de Janeiro, 2 de agôsto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João de Mendonça Lima
 
-<strong>CLÁUSULA A QUE SE REFERE O DECRETO Nº 19 330, DESTA DATA</strong>
+**CLÁUSULA A QUE SE REFERE O DECRETO Nº 19 330, DESTA DATA**
 
 I
 
@@ -80,7 +78,7 @@ VII
 
 Pela inobservância de qualquer das presenças cláusulas, e que não esteja prevista a imediata caducidade da concessão, o Gôverno poderá, pelo orgão fiscalizador, impor à concessionária multas de Cr$ 100,00 (cem cruzeiros) à Cr$ 5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>
+Parágrafo único. A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*
 
 VIII
 
@@ -92,7 +90,7 @@ A concessão será considerada caduca, para todos os efeitos, sem direito a qual
 
 a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas a, b, c, d, (in fine), j, k e l da cláusula III;
 
-b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea <em>e</em> da claúsula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VII;
+b) se não forem pagas, dentro dos prazos estabelecidos, a cota e contribuições a que se refere a alínea *e* da claúsula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VII;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -106,4 +104,4 @@ b) se a concessionária incidir reinteradamente em infrações passíveis de mul
 
 Rio de Janeiro, 2 de agôsto de 1945.
 
-<strong>JOÃO DE MENDONÇA LIMA</strong>
+**JOÃO DE MENDONÇA LIMA**

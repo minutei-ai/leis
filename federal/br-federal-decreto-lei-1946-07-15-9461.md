@@ -1,5 +1,3 @@
-###DEL-009461-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.461 – DE 15 DE JULHO DE 1946
 
 Dá nova redação ao art. 1.612 do Código Civil

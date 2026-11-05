@@ -1,5 +1,3 @@
-###DEC-046450-0-000-17-07-1959@@@
-
 DECRETO Nº 46.450, DE 17 DE JULHO DE 1959.
 
 Autoriza o cidadão brasileiro Rubens Raphael Flávio de Luca a pesquisar quartzito no município de Jundiaí, Estado de São Paulo.

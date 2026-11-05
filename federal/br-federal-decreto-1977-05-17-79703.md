@@ -1,5 +1,3 @@
-###DEC-079703-0-000-17-05-1977@@@
-
 DECRETO Nº 79.703, DE 17 DE MAIO DE 1977.
 
 Autoriza a Universidade Federal do Rio de Janeiro a alienar bem imóvel de sua propriedade e dá outras providências.

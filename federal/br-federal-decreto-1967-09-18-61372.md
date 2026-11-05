@@ -1,5 +1,3 @@
-###DEC-061372-0-000-18-09-1967@@@
-
 DECRETO Nº 61.372, DE 18 DE SETEMBRO DE 1967.
 
 Outorga a Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no município de Pirajura, Estado de Minas Gerias.

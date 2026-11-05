@@ -1,5 +1,3 @@
-###DEL-001135-0-000-03-12-1970@@@
-
 # DECRETO-LEI Nº 1.135, DE 3 DE DEZEMBRO DE 1970
 
 Dispõe sôbre a organização, a competência e o funcionamento do Conselho de Segurança Nacional e dá outras providências.

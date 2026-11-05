@@ -1,5 +1,3 @@
-###DEC-049535-0-000-15-12-1960@@@
-
 DECRETO Nº 49.535, DE 15 DE DEZEMBRO DE 1960.
 
 Outorga concessão à sociedade “Emissoras Regente Limitada” para instalar uma estação radiodifusora de ondas médias.

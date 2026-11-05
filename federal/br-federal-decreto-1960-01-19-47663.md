@@ -1,5 +1,3 @@
-###DEC-047663-0-000-19-01-1960@@@
-
 DECRETO Nº 47.663, DE 19 DE JANEIRO DE 1960.
 
 Modifica disposto do estatuto da Universidade Católica de Pernambuco.

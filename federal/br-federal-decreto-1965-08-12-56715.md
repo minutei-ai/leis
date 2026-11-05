@@ -1,5 +1,3 @@
-###DEC-056715-0-000-12-08-1965@@@
-
 Decreto nº 56.715, de 12 de agôsto de 1965.
 
 Autoriza Caraíba-Mineração e Metalurgia S.A. a pesquisar minério de cobre, no município de Curaçá, Estado da Bahia.

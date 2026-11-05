@@ -1,5 +1,3 @@
-###DEC-001906-0-000-16-05-1996@@@
-
 DECRETO N° 1.906, DE 16 DE MAIO DE 1996.
 
 Institui Grupo de Trabalho Interministerial (GTI) para os Fins que especifica, e dá outras providências.

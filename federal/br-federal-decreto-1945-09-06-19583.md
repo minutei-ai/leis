@@ -1,36 +1,34 @@
-###DEC-019583-0-000-06-09-1945@@@
+**DECRETO Nº 19**.**583, DE 6 DE SETEMBRO DE 1945**.
 
-<strong>DECRETO Nº 19</strong>.<strong>583, DE 6 DE SETEMBRO DE 1945</strong>.
+***Aprova o Regimento do Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio.*
 
-<em><strong>Aprova o Regimento do Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio</strong></em><em>.</em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 74, letra *a,* da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 74, letra <em>a,</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio que, assinado pelo respectivo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio que, assinado pelo respectivo Ministro de Estado, com êste baixa.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 6 de setembro de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Alexandre Marcondes Filho
 
-<strong>REGIMENTO DO SERVIÇO DE DOCUMENTAÇÃO DO MINISTÉRIO DO TRABALHO INDÚSTRIA E COMÉRCIO</strong>.
+**REGIMENTO DO SERVIÇO DE DOCUMENTAÇÃO DO MINISTÉRIO DO TRABALHO INDÚSTRIA E COMÉRCIO**.
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio (S.D.T.), criado pelo Decreto-lei n.º 6.995, de 27 de outubro de 1944, diretamente subordinado ao Ministro de Estado, tem por finalidade a coleta, guarda, coordenação e divulgação de textos, relatórios, dados estatísticos e outros elementos relativos à atividade do Ministério.
+**Art**. 1º O Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio (S.D.T.), criado pelo Decreto-lei n.º 6.995, de 27 de outubro de 1944, diretamente subordinado ao Ministro de Estado, tem por finalidade a coleta, guarda, coordenação e divulgação de textos, relatórios, dados estatísticos e outros elementos relativos à atividade do Ministério.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O S.D.T. compõe-se de:
+**Art**. 2º O S.D.T. compõe-se de:
 
 Seção de Documentação (S.D.)
 
@@ -40,15 +38,15 @@ Seção de Publicações (S.P., e
 
 Biblioteca (B).
 
-<strong>Art</strong>. 3º As Seções e a Biblioteca funcionarão perfeitamente articuladas, em regime de mútua colaboração, sob a orientação do Diretor do Serviço.
+**Art**. 3º As Seções e a Biblioteca funcionarão perfeitamente articuladas, em regime de mútua colaboração, sob a orientação do Diretor do Serviço.
 
-<strong>Art</strong>. 4º O Diretor terá um secretário, escolhido dentre funcionários públicos.
+**Art**. 4º O Diretor terá um secretário, escolhido dentre funcionários públicos.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA</em>
+*DA COMPETÊNCIA*
 
-<strong>Art</strong>. 5.º À S.D. compete:
+**Art**. 5.º À S.D. compete:
 
 I - coligir, ordenar, classificar, guardar e conservar documentos, planos, relatórios, textos e dados estatísticos e descritivos, filmes, fotografias e discos referentes às atividades do Ministério.
 
@@ -58,7 +56,7 @@ III - organizar o fichário de referência de assuntos relacionados com as ativi
 
 IV - coordenar os dados necessários à elaboração do relatório do Ministro de Estado, de acôrdo com as instruções que dêste receber.
 
-<strong>Art</strong>. 6.º À S.I. compete:
+**Art**. 6.º À S.I. compete:
 
 I - prestar ao público informações, esclarecimentos e instruções sôbre as atividades do Ministério;
 
@@ -70,7 +68,7 @@ IV - realizar exposições sôbre assuntos da competência do Ministério; e
 
 V - executar o serviço de referência da legislação social.
 
-<strong>Art</strong>. 7.º À S.P. compete:
+**Art**. 7.º À S.P. compete:
 
 I - elaborar e divulgar obras sôbre assuntos da competência do Ministério, consideradas de interêsse público;
 
@@ -84,7 +82,7 @@ V - cooperar com os órgãos do Ministério encarregados de realizar concursos s
 
 VI - promover a distribuição das publicações editadas pelo Ministério.
 
-<strong>Art</strong>. 8º À B. compete:
+**Art**. 8º À B. compete:
 
 I - adquirir, registrar, classificar, catalogar, guardar, conservar e permutar obras de interêsse para o Ministério;
 
@@ -104,11 +102,11 @@ VIII - organizar e distribuir listas bibliográficas sôbre assuntos de interês
 
 Parágrafo único. A. B. orientará a organização das bibliotecas necessárias aos demais órgãos do Ministério, situadas no Distrito Federal, para elas efetuando a aquisição, classificação e catalogação das publicações.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 9º Ao Diretor do S. D. T. compete:
+**Art**. 9º Ao Diretor do S. D. T. compete:
 
 I - administrar e representar o S. D. T.;
 
@@ -152,7 +150,7 @@ XX - autorizar ou determinar a execução de trabahlos fora da sede;
 
 XXI - organizar ou alterar a escala de férias do pessoal que lhe fôr diretamente subordinado e decidir sôbre as que he forem propostas.
 
-<strong>Art</strong>. 10. Aos chefes de Seção e Biblioteca compete:
+**Art**. 10. Aos chefes de Seção e Biblioteca compete:
 
 I - dirigir o setor respectivo;
 
@@ -172,42 +170,42 @@ VIII - antecipar ou prorrogar por uma hora o período normal de trabalho; e
 
 IX - organizar e submeter à aprovação do Diretor a escala de férias do pessoal que lhes fôr subordinado, bem como as alterações subsequentes.
 
-<strong>Art</strong>. 11. Aos demais servidores, sem funções especificadas neste regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
+**Art**. 11. Aos demais servidores, sem funções especificadas neste regimento, incumbe executar os trabalhos que lhes forem determinados pelos seus superiores imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 12. O S.D.T. terá a lotação aprovada em decreto.
+**Art**. 12. O S.D.T. terá a lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação, o S.D.T. poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 13. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
+**Art**. 13. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais ou mensais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 14. O Diretor não fica sujeito a ponto, devendo, porém, observar o horário fixado.
+**Art**. 14. O Diretor não fica sujeito a ponto, devendo, porém, observar o horário fixado.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 15. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 15. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - O Diretor, por um dos Chefes de Seção ou da Biblioteca, por funcionários designados pelo Diretor, mediante indicação de Chefe respectivo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 16. Mediante “Instruções de Serviço” do Diretor, as Seções e a Biblioteca poderão desdobrar-se em turmas.
+**Art**. 16. Mediante “Instruções de Serviço” do Diretor, as Seções e a Biblioteca poderão desdobrar-se em turmas.
 
-<strong>Art</strong>. 17. Nenhum servidor poderá fazer publicações e conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do S.D.T., sem autorização escrita do Diretor.
+**Art**. 17. Nenhum servidor poderá fazer publicações e conferências, ou dar entrevistas sôbre assuntos que se relacionem com a organização e as atividades do S.D.T., sem autorização escrita do Diretor.
 
-<strong>Art</strong>. 18. Poderá haver um servidor ou turma ao qual competirá promover medidas preliminares necessárias à administração do pessoal, material, orçamento e comunicações, funcionando articulado com o D.A. do Ministério e observando as normas e métodos de trabalho por êste prescritos.
+**Art**. 18. Poderá haver um servidor ou turma ao qual competirá promover medidas preliminares necessárias à administração do pessoal, material, orçamento e comunicações, funcionando articulado com o D.A. do Ministério e observando as normas e métodos de trabalho por êste prescritos.
 
 Rio de Janeiro, 6 de setembro de 1945.
 
-<strong>ALEXANDRE MARCONDES FILHO</strong>
+**ALEXANDRE MARCONDES FILHO**

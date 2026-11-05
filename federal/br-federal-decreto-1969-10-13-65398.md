@@ -1,5 +1,3 @@
-###DEC-065398-0-000-13-10-1969@@@
-
 DECRETO Nº 65.398, DE 13 DE OUTUBRO DE 1969.
 
 Altera disposições do decreto número 60.443, de 13 de março de 1967.

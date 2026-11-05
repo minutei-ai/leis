@@ -1,5 +1,3 @@
-###DEC-045580-0-000-18-03-1959@@@
-
 DECRETO Nº 45.580, DE 3 DE março DE 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de Goiás

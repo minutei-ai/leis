@@ -1,5 +1,3 @@
-###DEC-090372-0-000-24-10-1984@@@
-
 DECRETO Nº 90.372, de 24 DE outubRO DE 1984
 
 Dispõe sobre o Depósito de Subsistência da Marinha no Rio de Janeiro, criado pelo Decreto nº 38.412, de 26 de dezembro de 1955.

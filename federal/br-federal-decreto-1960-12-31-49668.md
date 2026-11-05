@@ -1,5 +1,3 @@
-###DEC-049668-0-000-31-12-1960@@@
-
 DECRETO Nº 49.668, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro José Casemiro Ramos Neiva a pesquisar areias ilmeniticas, no município de Tutoia, Estado do Maranhão.

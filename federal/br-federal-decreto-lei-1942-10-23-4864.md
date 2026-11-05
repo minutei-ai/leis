@@ -1,5 +1,3 @@
-###DEL-004864-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.864 – DE 23 DE OUTUBRO DE 1942
 
 Abre, ao Ministério da Fazenda, o crédito suplementar de 3:300$0, para o fim que especifica

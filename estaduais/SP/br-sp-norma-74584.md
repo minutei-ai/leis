@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74584)
-
 # LEI Nº 12.747, DE 14 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 680/2006, do Deputado Vaz de Lima - PSDB)

@@ -1,5 +1,3 @@
-###DEC-068960-0-000-20-07-1971@@@
-
 Decreto nº 68.960, de 20 de julho de 1971.
 
 Concede à Mineração Paulo Costa Ltda., o direito de lavrar feldspato e quartzo, no município de São Sebastião da Grama, Estado de São Paulo.

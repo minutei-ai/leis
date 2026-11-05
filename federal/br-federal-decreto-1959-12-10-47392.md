@@ -1,5 +1,3 @@
-###DEC-047392-0-000-10-12-1959@@@
-
 DECRETO Nº 47.392, DE 10 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Severino Pereira da Silva a pesquisar calcário, no município de Areia Branca.

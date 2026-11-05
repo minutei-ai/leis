@@ -1,5 +1,3 @@
-###DEC-082297-0-000-20-09-1978@@@
-
 Decreto nº 82.297, de 20 de Setembro de 1978.
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operação externa,

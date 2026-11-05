@@ -1,5 +1,3 @@
-###DEC-084433-0-000-24-01-1980@@@
-
 Decreto nº 84.433, de 24 de janeiro de 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Centrais Elétricas do Norte do Brasil S.A. - ELETRONORTE, no Estado de Mato Grosso.

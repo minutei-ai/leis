@@ -1,5 +1,3 @@
-###DEC-093998-0-000-02-02-1987@@@
-
 DECRETO Nº 93.998, DE 02 DE FEVEREIRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, com benfeitorias, situada no Município e Cidade de Ponta Grossa, Estado do Paraná, destinada à expansão dos serviços telefônicos da Telecomunicações do Paraná S.A. - TELEPAR, e dá outras providências.

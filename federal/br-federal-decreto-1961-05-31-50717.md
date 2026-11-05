@@ -1,5 +1,3 @@
-###DEC-050717-0-000-31-05-1961@@@
-
 DECRETO Nº 50.717, DE 31 DE MAIO DE 1961.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a construir uma linha de transmissão entre as subestações das Usinas de Cajuru e Gafanhoto, no Estado de Minas Gerais.

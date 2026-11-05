@@ -1,5 +1,3 @@
-###DEC-057320-0-000-24-11-1965@@@
-
 DECRETO Nº 57.320, DE 24 DE NOVEMBRO DE 1965.
 
 Outorgada à Companhia de Eletricidade do Cariri concessão para distribuir energia elétrica.

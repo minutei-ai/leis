@@ -1,17 +1,15 @@
-###DEC-025803-0-000-10-11-1948@@@
+**DECRETO Nº 25.803, DE 10 DE NOVEMBRO DE 1948.**
 
-<strong>DECRETO Nº 25.803, DE 10 DE NOVEMBRO DE 1948.</strong>
+***Revoga o Decreto n.° 13.456, de 23 de setembro de 1943.***
 
-<em><strong>Revoga o Decreto n.° 13.456, de 23 de setembro de 1943.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.° I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.° I, da Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único – Fica revogado o Decreto n.° 13.456, de 23 de setembro de 1943, que concedeu ao cidadão brasileiro Laudelino Antônio dos Santos autorização para a compra de pedras preciosas, nos têrmos do Decreto-lei n.° 466, de 4 de junho de 1938.
 
 Rio de Janeiro, 10 de novembro de 1948, 127.° da Independência e 60.° da República
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Corrêa e Castro

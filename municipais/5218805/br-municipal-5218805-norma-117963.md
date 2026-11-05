@@ -38,7 +38,35 @@ III - As áreas verdes, que deverão corresponder a 10% (dez por cento) da área
 
 IV - Os projetos das vias de circulação do condomínio de lotes deverão obedecer às dimensões mínimas estabelecidas na tabela abaixo:
 
-<table height="123" width="701"><tbody><tr><td>Extensão</td><td>Largura total (metros)</td><td>Passeio esq. (metros)</td><td>Pista (metros)</td><td>Passeio dir. (metros)</td></tr><tr><td>50m a 800m</td><td>14.00</td><td>3.00</td><td>8.00</td><td>3.00</td></tr><tr><td>&gt; 800m</td><td>16.00</td><td>3.00</td><td>10.00</td><td>3.00</td></tr></tbody></table>
+Extensão
+
+Largura total (metros)
+
+Passeio esq. (metros)
+
+Pista (metros)
+
+Passeio dir. (metros)
+
+50m a 800m
+
+14.00
+
+3.00
+
+8.00
+
+3.00
+
+&gt; 800m
+
+16.00
+
+3.00
+
+10.00
+
+3.00
 
 V - ...............................................................
 

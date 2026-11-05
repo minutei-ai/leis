@@ -1,5 +1,3 @@
-###DEC-071812-0-000-06-02-1973@@@
-
 DECRETO Nº 71.812, De 06 DE FEVEREIRO DE 1973
 
 Autoriza o funcionamento dos cursos de Pedagogia e Letras da Faculdade de Educação de Marília, mantida pela Associação de Ensino de Marília, Estado de São Paulo.

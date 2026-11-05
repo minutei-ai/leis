@@ -1,5 +1,3 @@
-###DEC-088980-0-000-09-11-1983@@@
-
 Decreto nº 88.980, de 09 de novembro de 1983
 
 Autoriza o aumento de potência da RÁDIO CLUBE NEPOMUCENO LTDA., na cidade de Nepomuceno, Estado de Minas Gerais.

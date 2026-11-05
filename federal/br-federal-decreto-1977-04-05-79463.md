@@ -1,5 +1,3 @@
-###DEC-079463-0-000-05-04-1977@@@
-
 DECRETO Nº 79.463, DE 5 DE ABRIL DE 1977.
 
 Cassa a concessão outorgada à Rádio Rio Ltda., cuja razão social foi, posteriormente, alterada para Rádio e TV Rio S.A., para estabelecer, na cidade do Rio de Janeiro Estado do Rio de Janeiro a título precário, uma estação de radiotelevisão, ocupando o canal 13 (treze).

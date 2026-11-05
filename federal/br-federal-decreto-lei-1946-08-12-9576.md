@@ -1,5 +1,3 @@
-###DEL-009576-0-000-12-08-1946@@@
-
 DECRETO-LEI N. 9.576 – DE 12 DE AGÔSTO DE 1946
 
 Modifica disposições do Decreto-lei nº 4.481, de 16 de Julho de 1942.

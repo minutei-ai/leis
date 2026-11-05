@@ -1,5 +1,3 @@
-###DEC-046864-0-000-16-09-1959@@@
-
 decreto nº 46.864, de 16 de setembro de 1959.
 
 Renova o Decreto nº 41.393, de 24 de abril de 1957.

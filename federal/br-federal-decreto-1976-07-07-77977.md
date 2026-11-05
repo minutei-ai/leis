@@ -1,5 +1,3 @@
-###DEC-077977-0-000-07-07-1976@@@
-
 decreto nº 77.977, de 7 de julho de 1976.
 
 Dispõe sobre a criação do Programa de Recursos Humanos para o Setor Nuclear e dá outras providências.

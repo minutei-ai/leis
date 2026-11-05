@@ -1,5 +1,3 @@
-###DEC-049959-0-000-19-01-1961@@@
-
 DECRETO Nº 49.959, DE 19 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Difusora Riopretense Limitada para instalar uma estação radiodifusora.

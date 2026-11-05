@@ -1,5 +1,3 @@
-###DEC-056099-0-000-26-04-1965@@@
-
 DECRETO Nº 56.099, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Hanry Jafet a pesquisar areia quartzosa, no município de São Vicente, Estado de São Paulo.

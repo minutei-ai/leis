@@ -1,5 +1,3 @@
-###DEC-045890-0-000-28-04-1959@@@
-
 DECRETO Nº 45.890, DE 23 DE ABRIL DE 1959.
 
 Concede à Mineração Jundú Ltda, autorização para funcionar como emprêsa de mineração.

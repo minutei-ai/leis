@@ -1,5 +1,3 @@
-###DEC-056480-0-000-18-06-1965@@@
-
 DECRETO Nº 56.480, DE 18 DE JUNHO DE 1965.
 
 Concede à Suissa Sociedade Anonyma de Seguros Gerais autorização para aumentar o capital destinado as suas operações de Seguros no Brasil.

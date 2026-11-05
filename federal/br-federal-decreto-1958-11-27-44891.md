@@ -1,5 +1,3 @@
-###DEC-044891-0-000-27-11-1958@@@
-
 DECRETO Nº 44.891, DE 27 DE NOVEMBRO DE 1958.
 
 Autoriza o funcionamento, a título precário, dos cursos de iniciação e mestria agrícolas de técnico em agricultura da Escola Agrotécnica de Campos.

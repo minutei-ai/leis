@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/63f919bc-d33d-4b20-b74f-f21940ebe4dd/texto#nowhere)
 
-###DEL-001321-0-000-13-03-1974@@@
-
 # dECRETO-LEI Nº 1.321, DE 13 de MARÇO DE 1974
 
 Concede aumento de vencimentos aos funcionários do Tribunal Superior Eleitoral e dos Tribunais Regionais Eleitorais e dá outras providências.

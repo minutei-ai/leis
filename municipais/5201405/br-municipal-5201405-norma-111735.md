@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.125, DE 07 DE NOVEMBRO DE 2013.<br>
+LEI MUNICIPAL Nº 3.125, DE 07 DE NOVEMBRO DE 2013.
+
 REVOGADA PELA LEI ORDINÁRIA Nº 3.843, DE 34 DE JULHO DE 2025
 
 ~~Altera a Lei Municipal n° 3.095, de 17 de junho de 2013, que cria a Medalha do Mérito Legislativo “NORBERTO JOSÉ TEIXEIRA” no município de Aparecida de Goiânia e dá outras providências.~~
@@ -13,8 +14,10 @@ REVOGADA PELA LEI ORDINÁRIA Nº 3.843, DE 34 DE JULHO DE 2025
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 07 dias do mês de novembro de dois mil e treze.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário de Governo e Integração Institucional~~

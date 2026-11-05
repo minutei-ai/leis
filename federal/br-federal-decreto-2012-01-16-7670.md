@@ -1,5 +1,3 @@
-###DEC-007670-0-000-16-01-2012-PUB-01@@@
-
 DECRETO Nº 7.670, DE 16 DE JANEIRO DE 2012
 
 Altera dispositivos do Regulamento dos Serviços de Radiodifusão aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963, e dos Decretos nº 88.066, de 26 de janeiro de 1983, e nº 5.820, de 29 de junho de 2006.

@@ -1,5 +1,3 @@
-###DEC-093912-0-000-13-01-1987@@@
-
 DECRETO Nº 93.912, DE 13 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "SERINGAL REMANSO", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado nos Municípios de Xapuri e Rio Branco, no Estado do Acre, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.676, de 19 de maio de 1986, e dá outras providências.

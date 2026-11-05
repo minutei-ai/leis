@@ -1,5 +1,3 @@
-###DEC-002527-0-000-23-03-1998@@@
-
 DECRETO Nº 2.527, DE 23 DE MARÇO DE 1998
 
 Fixa novo prazo para a conclusão do processo de alienação de bens móveis e imóveis não operacionais de empresas estatais federais, e dá outras providências.

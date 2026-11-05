@@ -1,5 +1,3 @@
-###DEC-054763-0-000-30-10-1964@@@
-
 DECRETO Nº 54.763, DE 30 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Lercino de Souza, a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-098539-0-000-14-12-1989@@@
-
 DECRETO Nº 98.539, DE 14 DE DEZEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, parte do imóvel rural denominado “GLEBA SERRA DA IGREJA”, situado no Município de Morretes, Estado do Paraná, e dá outras providências.

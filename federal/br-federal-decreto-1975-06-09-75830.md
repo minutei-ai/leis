@@ -1,5 +1,3 @@
-###DEC-075830-0-000-09-06-1975@@@
-
 DECRETO Nº 75.830, DE 9 DE JUNHO DE 1975.
 
 Declara de utilidade pública, para fins de constituição de servidões administrativas, faixas de terra destinadas à passagem de linhas de transmissão de Furnas - Centrais Elétricas S.A., no Estado do Rio de Janeiro e no Estado de São Paulo.

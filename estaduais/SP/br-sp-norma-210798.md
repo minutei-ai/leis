@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210798)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2025/compilacao-lei-18145-26.03.2025.html)
 
 # LEI N° 18.145, DE 26 DE MARÇO DE 2025

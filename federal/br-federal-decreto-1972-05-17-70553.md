@@ -1,5 +1,3 @@
-###DEC-070553-0-000-17-05-1972@@@
-
 DECRETO Nº 70.553, DE 17 DE MAIO DE 1972.
 
 Define áreas de competência no Setor de Ciência e Tecnologia e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-066507-0-000-28-04-1970@@@
-
 DECRETO Nº 66.507, DE 28 DE ABRIL DE 1970.
 
 Autoriza funcionamento de Curso na Faculdade de Ciências Econômicas e Comerciais de Santos, no Estado de São Paulo.

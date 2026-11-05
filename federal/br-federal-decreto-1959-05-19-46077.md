@@ -1,5 +1,3 @@
-###DEC-046077-0-000-19-05-1959@@@
-
 Decreto nº 46.077, de 19 de maio de 1959.
 
 Autoriza a Emprêsa de Luz e Fôrça de Florianópolis S.A. (ELFA) a ampliar suas instalações.

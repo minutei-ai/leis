@@ -1,5 +1,3 @@
-###DEC-007696-0-000-06-03-2012-PUB-01@@@
-
 DECRETO N ° \- 7.696, DE 6 DE MARÇO DE 2012
 
 Altera o Decreto n° 7.482, de 16 de maio de 2011, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério da Fazenda, e remaneja cargos em comissão.

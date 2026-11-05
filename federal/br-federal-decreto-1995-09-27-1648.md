@@ -1,7 +1,3 @@
-1
-
-###DEC-001648-0-000-27-09-1995@@@
-
 DECRETO Nº 1.648, DE 27 DE SETEMBRO DE 1995.
 
 Dispõe sobre a participação de servidores públicos federais em conferências, congressos ou outros eventos similares, que se realizarem no País, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048111-0-000-13-04-1960@@@
-
 DECRETO Nº 48.111, de 13 de abril de 1960.
 
 Dispõe sôbre o Parque do Material em Brasília.

@@ -1,5 +1,3 @@
-###DEC-071395-0-000-17-11-1972@@@
-
 DECRETO Nº 71.395 - DE 17 DE NOVEMBRO DE 1972.
 
 Transfere o Instituto de Pesquisas Rodoviárias, do Conselho Nacional de Pesquisas para o Departamento Nacional de Estradas de Rodagem e da outras providências.

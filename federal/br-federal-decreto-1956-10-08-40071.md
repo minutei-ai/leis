@@ -1,14 +1,12 @@
-###DEC-040071-0-000-08-10-1956@@@
+**DECRETO Nº 40.071, DE 8 DE OUTUBRO DE 1956.**
 
-<strong>DECRETO Nº 40.071, DE 8 DE OUTUBRO DE 1956.</strong>
+***Altera a redação dos números 2 (dois) e 13 (treze) da especificações referentes à classificações e fiscalização da exportação do Tabaco em Fôlha da Bahia, aprovadas pelo Decreto nº 10.218, de 12 de agôsto de 1942.***
 
-<em><strong>Altera a redação dos números 2 (dois) e 13 (treze) da especificações referentes à classificações e fiscalização da exportação do Tabaco em Fôlha da Bahia, aprovadas pelo Decreto nº 10.218, de 12 de agôsto de 1942.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o art. 87, nº l, da Constituição, e tendo em vista o que dispõe o art. 6º do Decreto-lei nº 334, de 15-3-38, e, bem assim o artigo 94 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o art. 87, nº l, da Constituição, e tendo em vista o que dispõe o art. 6º do Decreto-lei nº 334, de 15-3-38, e, bem assim o artigo 94 do Regulamento aprovado pelo Decreto nº 5.739, de 29 de maio de 1940,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado, o disposto nos números 2 (dois) e 13 (treze) das especificações referentes à classificação da exportação do tabaco em Fôlha da Bahia, aprovadas pelo Decreto nº 10.218, de 12 de agosto de 1942, os quais passam a vigorar com a seguinte redação:
+**Art**. 1º Fica alterado, o disposto nos números 2 (dois) e 13 (treze) das especificações referentes à classificação da exportação do tabaco em Fôlha da Bahia, aprovadas pelo Decreto nº 10.218, de 12 de agosto de 1942, os quais passam a vigorar com a seguinte redação:
 
 2 - As zonas de produção de tabaco em fôlha, em número de 5 (cinco), serão denominadas e delimitadas do seguinte modo:
 
@@ -34,12 +32,12 @@ F.L.M. - Fôlhas medianamente limpas, sem distinção de comprimentos e as parte
 
 F. e R. - Fôlhas e Refungos, ou sejam folhas inferiores a 22cm, (vinte e dois centímetros) e fragmentos de Fôlhas resultantes de escolhas.
 
-<strong>Art</strong>. 2º Ficam revogados os Decretos nº 34.896 de 5 de janeiro de 1954, nº 39.420, de 19 de junho de 1956 e demais disposições em contrário.
+**Art**. 2º Ficam revogados os Decretos nº 34.896 de 5 de janeiro de 1954, nº 39.420, de 19 de junho de 1956 e demais disposições em contrário.
 
-<strong>Art</strong>. 3º O presente decreto entrará em vigor na data de sua publicação.
+**Art**. 3º O presente decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 8 de outubro de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Mário Meneghetti

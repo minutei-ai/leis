@@ -1,5 +1,3 @@
-###DEC-074247-0-000-01-07-1974@@@
-
 DECRETO Nº 74.247 - DE 1º DE JULHO DE 1974.
 
 Autoriza o funcionamento do Centro Unificado Profissional - CUP, mantido pela Sociedade Educacional UNA, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

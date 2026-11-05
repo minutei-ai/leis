@@ -1,5 +1,3 @@
-###DEC-059071-0-000-12-08-1966@@@
-
 decreto Nº 59.071, DE 12 DE AGÔSTO DE 1966.
 
 Autoriza o cidadão brasileiro João Manoel Pereira Filho a lavrar areia quartzosa no município de Itanhaem no Estado de São Paulo.

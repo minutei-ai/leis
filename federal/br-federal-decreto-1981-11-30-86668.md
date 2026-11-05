@@ -1,5 +1,3 @@
-###DEC-086668-0-000-30-11-1981@@@
-
 DECRETO nº 86.668, de 30 de novembro de 1981
 
 Declara de utilidade pública as instituições que menciona.

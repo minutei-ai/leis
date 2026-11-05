@@ -1,5 +1,3 @@
-###DEL-005459-0-000-05-05-1943@@@
-
 DECRETO‑LEI N. 5.459 – DE 5 DE MAIO DE 1943
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 670.000,00 para as despesas relacionadas com a instalação, no exterior, de novos escritórios de propaganda e expansão comercial do Brasil.

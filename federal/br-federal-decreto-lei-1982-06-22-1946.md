@@ -1,5 +1,3 @@
-###DEL-001946-0-000-22-06-1982@@@
-
 # Decreto-lei nº 1.946, de 22 de junho de 1982.
 
 Dispõe sobre a isenção de impostos e taxas nas importações realizadas pelas indústrias de material de emprego militar.

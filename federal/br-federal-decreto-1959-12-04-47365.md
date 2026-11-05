@@ -1,5 +1,3 @@
-###DEC-047365-0-000-04-12-1959@@@
-
 DECRETO Nº 47.365, DE 4 DE DEZEMBRO DE 1959.
 
 Declara caduco o Decreto nº 27.334, de 19 de outubro de 1949.

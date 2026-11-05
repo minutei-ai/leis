@@ -1,5 +1,3 @@
-###DEC-059451-0-000-03-11-1966@@@
-
 DECRETO Nº 59.451, DE 3 DE NOVEMBRO DE 1966.
 
 Dispõe sobre a orientação e contrôle da aplicação dos recursos do Plano Nacional de Educação e da outras providências.

@@ -1,5 +1,3 @@
-###DEL-005688-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.688 – DE 22 DE JULHO DE 1943
 
 Altera a redação dos artigos 21 e 22 do decreto‑lei n. 5.175, de 7 de janeiro de 1943

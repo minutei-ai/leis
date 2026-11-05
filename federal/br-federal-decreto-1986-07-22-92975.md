@@ -1,5 +1,3 @@
-###DEC-092975-0-000-22-07-1986@@@
-
 DECRETO Nº 92.975, DE 22 DE JULHO DE 1986
 
 Transforma os Consulados-Gerais de Primeira Classe que menciona.

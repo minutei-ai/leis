@@ -1,5 +1,3 @@
-###DEC-056112-0-000-26-04-1965@@@
-
 DECRETO Nº 56.112, DE 26 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Vicente de Paula Pinto a pesquisar água mineral, no Distrito Federal.

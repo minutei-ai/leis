@@ -1,5 +1,3 @@
-###DEC-068666-0-000-24-05-1971@@@
-
 Decreto nº 68.666 - de 24 de maio de 1971.
 
 Declara sem efeito o Decreto número 55.401, de 31-12-1964.

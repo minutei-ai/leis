@@ -1,5 +1,3 @@
-###DEL-008799-0-000-23-01-1946@@@
-
 DECRETO-LEI N. 8.799 – DE 23 de JANEIRO DE 1946
 
 Altera, sem aumento de despesa, Orçamento Geral da República.

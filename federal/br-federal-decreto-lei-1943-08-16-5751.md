@@ -1,5 +1,3 @@
-###DEL-005751-0-000-16-08-1943@@@
-
 DECRETO–LEI N. 5.751 – DE 16 DE AGÔSTO DE 1943
 
 Autoriza a venda de bens e direitos que na emprêsa Pireli S.A., Companhia Industrial Brasileira, com sede em São Paulo, possue a emprêsa Pireli Holding S.A., e dá outra providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-098181-0-000-26-09-1989@@@
-
 DECRETO N° 98.181, DE 26 DE SETEMBRO DE 1989
 
 Declara de preservação permanente a floresta e demais formas de vegetação da área que descreve.

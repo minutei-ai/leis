@@ -1,5 +1,3 @@
-###DEC-003547-0-000-21-07-2000@@@
-
 DECRETO Nº 3.547, DE 21 DE JULHO DE 2000.
 
 Promulga o Convênio de Cooperação Educativa entre a República Federativa do Brasil e a República Argentina, celebrado em Brasília, em 10 de novembro de 1997.
@@ -144,4 +142,14 @@ O presente Convênio terá duração indeterminada e poderá ser denunciado em q
 
 Feito em Brasília, em 10 de novembro de 1997, em dois exemplares originais, nos idiomas português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República Federativa do Brasil</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pela República Argentina</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Guido Di Tella</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+Pela República Federativa do Brasil
+
+Pela República Argentina
+
+Luiz Felipe Lampreia
+
+Guido Di Tella
+
+Ministro de Estado das Relações Exteriores
+
+Ministro de Relações Exteriores

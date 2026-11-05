@@ -1,5 +1,3 @@
-###MPV-000407-0-000-26-12-2007@@@
-
 MEDIDA PROVISÓRIA Nº 407, DE 26 DE DEZEMBRO DE 2007.
 
 Autoriza, em caráter excepcional, a prorrogação de contratos temporários no âmbito de projetos de cooperação com prazo determinado, implementados mediante acordos com organismos internacionais, altera as Leis nos 10.480, de 2 de julho de 2002, prorrogando o prazo de recebimento de gratificações pelos servidores ou empregados requisitados pela Advocacia-Geral da União, 11.171, de 2 de setembro de 2005, e 11.233, de 22 de dezembro de 2005, prorrogando o prazo de manutenção de Funções Comissionadas Técnicas no DNIT e no Ministério da Cultura, respectivamente, e 11.539, de 8 de novembro de 2007, no tocante à Carreira de Analista de Infra-Estrutura.
@@ -39,5 +37,3 @@ Brasília, 26 de dezembro de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 João Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 27.12.2007.

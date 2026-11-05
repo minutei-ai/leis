@@ -1,5 +1,3 @@
-###DEC-059983-0-000-10-01-1967@@@
-
 Decreto nº 59.983, de 10 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Antonio José de Carvalho a pesquisar minério de ferro e de manganês, no município de Igarapé, Estado de Minas Gerais.

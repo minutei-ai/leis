@@ -1,5 +1,3 @@
-###DEC-058863-0-000-20-07-1966@@@
-
 DECRETO Nº 58.863, DE 20 DE julho DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Pôrto Seguro Companhia de Seguros Gerais, inclusive aumento do capital social.

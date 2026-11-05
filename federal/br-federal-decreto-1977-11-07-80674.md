@@ -1,5 +1,3 @@
-###DEC-080674-0-000-07-11-1977@@@
-
 DECRETO Nº 80.674, DE 07 DE NOVEMBRO DE 1977.
 
 Retifica a concessão de lavra outorgada a Alcides Alves da Cunha, Firma Individual, pelo Decreto nº 66.327, de 16 de março de 1970.

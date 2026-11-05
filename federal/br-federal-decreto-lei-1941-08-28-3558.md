@@ -1,5 +1,3 @@
-###DEL-003558-0-000-28-08-1941@@@
-
 DECRETO-LEI N. 3.558 – DE 28 DE AGOSTO DE 1941
 
 Suprime cargo

@@ -1,20 +1,18 @@
-###DEC-023512-0-000-18-09-1947@@@
+**decreto nº 23.512, de 18 de SETEMBRo de 1947.**
 
-<strong>decreto nº 23.512, de 18 de SETEMBRo de 1947.</strong>
+***Outorga a Antônio Sainatti concessão para o aproveitamento da energia hidráulica da cachoeira Fita Branca, situada no rio Cruzeiro, distrito de Tapiraí, município de Piedade, Estado de São Paulo.***
 
-<em><strong>Outorga a Antônio Sainatti concessão para o aproveitamento da energia hidráulica da cachoeira Fita Branca, situada no rio Cruzeiro, distrito de Tapiraí, município de Piedade, Estado de São Paulo.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto número 24.643, de 10 de julho de 1934),
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto número 24.643, de 10 de julho de 1934),
+**decreta:**
 
-<strong>decreta:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros anteriormente adquiridos é outorgada a Antônio Sainatti concessão para o aproveitamento da energia hidráulica da cachoeira Fita Branca, situada no rio Cruzeiro, distrito de Tapiraí, município de Piedade, Estado de São Paulo.
+**Art**. 1º Respeitados os direitos de terceiros anteriormente adquiridos é outorgada a Antônio Sainatti concessão para o aproveitamento da energia hidráulica da cachoeira Fita Branca, situada no rio Cruzeiro, distrito de Tapiraí, município de Piedade, Estado de São Paulo.
 
 § 1º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda a aproveitar, a descarga e a potência concedidas.
 
 § 2º O aproveitamento hidráulico destina-se à utilização da energia para consumo exclusivo do concessionário.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título o concessionário obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título o concessionário obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, dentro de trinta (30) dias após a  sua publicacação.
 
@@ -40,24 +38,24 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica que fore
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
+**Art**. 3º A minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida à aprovação do Ministro da Agricultura.
 
-<strong>Art</strong>. 4º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medição de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**. 4º O concessionário fica obrigado a construir e manter nas proximidades do local do aproveitamento, onde e desde quando for determinado pela Divisão de Águas, as instalações necessárias a observações linimétricas e medição de descarga do curso dágua que vai utilizar e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de águas.
+**Art**. 5º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de águas.
 
-<strong>Art</strong>. 6º Findo o prazo da concessão, tôda a propriedade do concessionário que no momento existir em função exclusiva e permanente da utilização da energia hidráulica referente ao aproveitamento concedido, reverterá ao Estado de São Paulo, mediante indenização na base do custo histórico, isto é, do capital efetivamente invertido menos a depreciação.
+**Art**. 6º Findo o prazo da concessão, tôda a propriedade do concessionário que no momento existir em função exclusiva e permanente da utilização da energia hidráulica referente ao aproveitamento concedido, reverterá ao Estado de São Paulo, mediante indenização na base do custo histórico, isto é, do capital efetivamente invertido menos a depreciação.
 
-<strong>Art</strong>. 7º Se o Govêrno do Estado de São Paulo não fizer uso do seu direito a essa reversão, caberá ao concessionário a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer no curso dágua, as suas expensas, a situação anterior ao aproveitamento concedido.
+**Art**. 7º Se o Govêrno do Estado de São Paulo não fizer uso do seu direito a essa reversão, caberá ao concessionário a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer no curso dágua, as suas expensas, a situação anterior ao aproveitamento concedido.
 
 Parágrafo único. Para os efeitos dêste artigo fica o concessionário obrigado a dar conhecimento ao Govêrno Federal da decisão do Estado de São Paulo, e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta até (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8º O concessionário gozará, desde a data do registro de que se trata o art. 5.º e enquanto vigorar esta concessão dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 8º O concessionário gozará, desde a data do registro de que se trata o art. 5.º e enquanto vigorar esta concessão dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 9º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 9º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 18 de setembro de 1947, 126º da Independência e 59º da República.
 
-<strong>eurico g. dutra</strong>
+**eurico g. dutra**
 
 Daniel de Carvalho

@@ -1,5 +1,3 @@
-###DEC-075651-0-000-24-04-1975@@@
-
 decreto nº 75.651, de 24 de abril de 1975.
 
 Concede à Société Anonyme Belge d'Exploitation de la Navigation Aérienne - SABENA, autorização para instalar uma Agência Geral de venda de transporte aéreo no Brasil.

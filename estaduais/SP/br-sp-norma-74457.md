@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74457)
-
 # LEI Nº 12.739, DE 01 DE NOVEMBRO DE 2007
 
 ## (Projeto de lei nº 174, de 2005 do Deputado Rodolfo Costa e Silva - PSDB)

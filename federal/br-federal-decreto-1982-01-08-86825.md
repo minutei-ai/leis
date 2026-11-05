@@ -1,5 +1,3 @@
-###DEC-086825-0-000-08-01-1982@@@
-
 DECRETO Nº 86.825, DE 08 DE JANEIRO DE 1982
 
 Dispõe sobre o Sistema de Comunicação Social do Poder Executivo.

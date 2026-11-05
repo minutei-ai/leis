@@ -1,5 +1,3 @@
-###DEC-065500-0-000-21-10-1969@@@
-
 DECRETO Nº 65.500 - DE 21 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública o Ginásio São Luís Gonzaga, com sede em Elói Mendes, Estado de Minas Gerais.

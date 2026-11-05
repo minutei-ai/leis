@@ -1,5 +1,3 @@
-###DEC-081953-0-000-11-07-1978@@@
-
 Decreto nº 81 953, de 11 de julho de 1978
 
 Concede à Mineração Serramaré Ltda. o direito de lavrar feldspato e quartzo no Município de Inconfidentes, Estado de Minas Gerais.

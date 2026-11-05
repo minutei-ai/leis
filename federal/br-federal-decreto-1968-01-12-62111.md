@@ -1,5 +1,3 @@
-###DEC-062111-0-000-12-01-1968@@@
-
 DECRETO Nº 62.111, de 12 de janeiro de 1968.
 
 Declara de utilidade pública, para fins de desaprovação pela Rêde Ferroviária Federal S.A., as áreas de terreno e respectivas benfeitorias situadas fora da faixa de domínio da Viação Férrea do Rio Grande do Sul, necessárias à construção de variante, pátios de triagem, recintos de estações e obras de arte, no Estado do Rio Grande do Sul.

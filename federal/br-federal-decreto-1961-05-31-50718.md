@@ -1,5 +1,3 @@
-###DEC-050718-0-000-31-05-1961@@@
-
 Decreto nº 50.718, de 31 de maio de 1961.
 
 Autoriza Centrais Elétricas de Minas Gerais S.A. a construir uma linha de transmissão entre a cidade de Curvelo e a Usina de três Marias.

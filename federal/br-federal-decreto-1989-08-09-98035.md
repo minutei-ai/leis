@@ -1,7 +1,3 @@
-1
-
-###DEC-098035-0-000-09-08-1989@@@
-
 DECRETO N° 98.035, DE 9 DE AGOSTO DE 1989
 
 Outorga concessão À TELEVISÃO PLANALTO CENTRAL LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Porangatu, Estado de Goiás.

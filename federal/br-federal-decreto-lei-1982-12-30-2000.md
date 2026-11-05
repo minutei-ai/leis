@@ -1,5 +1,3 @@
-###DEL-002000-0-000-30-12-1982@@@
-
 # Decreto-LEI nº 2.000, de 30 de dezembro de 1982
 
 Reajusta os valores de vencimentos e proventos dos servidores da Secretaria do Supremo Tribunal Federal e dá outras providências.

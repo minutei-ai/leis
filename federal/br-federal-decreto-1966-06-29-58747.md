@@ -1,5 +1,3 @@
-###DEC-058747-0-000-29-06-1966@@@
-
 decreto nº 58.747, de 29 de junho de 1966.
 
 Prorroga o prazo de intervenção federal, nos Estado de Alagoas.

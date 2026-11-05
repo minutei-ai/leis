@@ -1,5 +1,3 @@
-###DEC-074842-0-000-06-11-1974@@@
-
 DECRETO Nº 74.842, DE 6 DE NOVEMBRO DE 1974.
 
 Outorga a Puiatti & Filhos Comércio e Indústria Limitada, concessão para aproveitamento hidrelétrico, para uso exclusivo e dá outras providências.

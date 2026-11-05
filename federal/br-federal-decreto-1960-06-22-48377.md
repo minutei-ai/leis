@@ -1,5 +1,3 @@
-###DEC-048377-0-000-22-06-1960@@@
-
 decreto nº 48.377, de 22 de junho de 1960
 
 Concede para o funcionamento  de cursos.

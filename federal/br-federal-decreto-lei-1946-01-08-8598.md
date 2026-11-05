@@ -1,5 +1,3 @@
-###DEL-008598-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.598 – DE 8 DE JANEIRO DE 1946 
 
 Dispõe sôbre a concessão de bolsas de estudos ou auxilio financeiro nas Escolas de Ensino Industrial da União.

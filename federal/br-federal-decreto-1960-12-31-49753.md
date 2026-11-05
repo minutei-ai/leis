@@ -1,5 +1,3 @@
-###DEC-049753-0-000-31-12-1960@@@
-
 DECRETO Nº 49.753, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Pedro Luiz Magalhães a pesquisar berilo e pedras coradas no município de Virgem da Lapa, Estado de Minas Gerais.

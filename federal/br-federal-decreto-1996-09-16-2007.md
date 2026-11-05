@@ -1,7 +1,3 @@
-1
-
-###DEC-002007-0-000-16-09-1996@@@
-
 DECRETO Nº 2.007, DE 16 DE SETEMBRO DE 1996.
 
 Promulga o Acordo sobre Serviços Aéreos, celebrado entre o Governo da República Federativa do Brasil e o Governo dos Estados Unidos Mexicanos em Brasília, em 26 de maio de 1995.

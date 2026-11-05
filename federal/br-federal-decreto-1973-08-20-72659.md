@@ -1,5 +1,3 @@
-###DEC-072659-0-000-20-08-1973@@@
-
 DECRETO N° 72.659, DE 20 DE AGOSTO DE 1973.
 
 Transforma a Subsecretaria do Conselho Internacional do Esporte Militar (Conseil International du Sport Militaire) para o América Latina em Escritório de Ligação do Conselho Internacional do Esporte Militar para a América do Sul.

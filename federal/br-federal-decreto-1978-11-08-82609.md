@@ -1,5 +1,3 @@
-###DEC-082609-0-000-08-11-1978@@@
-
 Decreto nº 82.609, de 08 de novembro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Benedito Moreira Curimbaba pelo Decreto nº 42.585, de 07 de novembro de 1957.

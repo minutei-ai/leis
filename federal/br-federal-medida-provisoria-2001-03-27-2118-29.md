@@ -1,5 +1,3 @@
-###MPV-002118-0-029-27-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.118-29, DE 27 DE MARÇO DE 2001
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que especifica, de responsabilidade dos Municípios.

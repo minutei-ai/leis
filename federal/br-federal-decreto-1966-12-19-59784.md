@@ -1,5 +1,3 @@
-###DEC-059784-0-000-19-12-1966@@@
-
 DECRETO Nº 59.784, DE 19 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro Narciso Franco a pesquisar feldspato, no município de Botelhos, Estado de Minas Gerais.

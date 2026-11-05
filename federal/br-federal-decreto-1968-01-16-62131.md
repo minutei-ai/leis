@@ -1,5 +1,3 @@
-###DEC-062131-0-000-16-01-1968@@@
-
 DECRETO Nº 62.131, DE 16 DE JANEIRO DE 1968.
 
 Considera “Serviço Nacional Relevante” as funções exercidas pelos militares da Fôrça Aérea Brasileira na Fôrça Internacional de Emergência da Organização da Nações Unidas na República do Congo.

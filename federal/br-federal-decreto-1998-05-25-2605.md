@@ -1,5 +1,3 @@
-###DEC-002605-0-000-25-05-1998@@@
-
 DECRETO Nº 2.605, DE 25 DE MAIO DE 1998
 
 Dispõe sobre a Medalha do Mérito Jornalístico.

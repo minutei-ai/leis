@@ -1,5 +1,3 @@
-###DEC-080342-0-000-15-09-1977@@@
-
 DECRETO Nº 80.342, DE 15 DE SETEMBRO DE 1977.
 
 Autoriza o registro, em nome da União Federal do imóvel que menciona situado na Cidade e Estado do Rio de Janeiro.

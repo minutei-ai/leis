@@ -1,5 +1,3 @@
-###DEC-067964-0-000-28-12-1970@@@
-
 DECRETO Nº 67.964, DE 28 DE DEZEMBRO DE 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial do Conselho Nacional de Telecomunicações cargos originários do extinto, Lloyd Brasileiro - Patrimônio Nacional.

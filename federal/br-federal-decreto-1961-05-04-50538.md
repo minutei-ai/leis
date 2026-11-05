@@ -1,5 +1,3 @@
-###DEC-050538-0-000-04-05-1961@@@
-
 DECRETO Nº 50.538, DE 4 DE ABRIL DE 1961.
 
 Aprova alterações introduzidas nos Estatutos da Companhia D’assurances Génerales Contre L’incendie èt les Explosions.

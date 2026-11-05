@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209954)<br>
-
 # LEI N° 18.023, DE 09 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 380/2023, do Deputado Teonilio Barba - PT)

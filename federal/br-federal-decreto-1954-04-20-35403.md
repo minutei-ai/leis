@@ -1,32 +1,30 @@
-###DEC-035403-0-000-20-04-1954@@@
+**DECRETO Nº 35.403, DE 20 DE ABRIL DE 1954.**
 
-<strong>DECRETO Nº 35.403, DE 20 DE ABRIL DE 1954.</strong>
+***Aprova o Regimento da Contadoria Geral da República.***
 
-<em><strong>Aprova o Regimento da Contadoria Geral da República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, ítem I, da Constituição, e tendo em vista o que dispõe a Lei número 1.520, de 24 de dezembro de 1951,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, ítem I, da Constituição, e tendo em vista o que dispõe a Lei número 1.520, de 24 de dezembro de 1951,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Contadoria Geral da República, do Ministério da Fazenda, que com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Contadoria Geral da República, do Ministério da Fazenda, que com êste baixa, assinado pelo respectivo Ministro de Estado.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 20 de abril de 1954; 133º da independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha
 
-<strong>REGIMENTO DA CONTADORIA GERAL DA REPÚBLICA</strong>
+**REGIMENTO DA CONTADORIA GERAL DA REPÚBLICA**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Contadoria Geral da República (C. G. R.), diretamente subordinada ao Ministro da Fazenda, tem por finalidade:
+**Art**. 1º A Contadoria Geral da República (C. G. R.), diretamente subordinada ao Ministro da Fazenda, tem por finalidade:
 
 I - a superintendência e a centralização de todos os serviços de contabilidade da União;
 
@@ -36,11 +34,11 @@ III - o levantamento dos balanços gerais da União de cada exercício, com os d
 
 IV - zelar pelo fiel cumprimento da legislação sôbre contabilidade pública.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º A C. G.R. compõe-se de:
+**Art**. 2º A C. G.R. compõe-se de:
 
 I - Divisão Orçamentária (D. O.).
 
@@ -100,11 +98,11 @@ VII - Contadorias Seccionais.
 
 VIII - Subcontadorias Seccionais.
 
-<strong>Art</strong>. 3º A C. G. R. será dirigida por um Contador Geral, nomeado, em comissão, pelo Presidente da República.
+**Art**. 3º A C. G. R. será dirigida por um Contador Geral, nomeado, em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 4º O conjunto das unidades de trabalho enumerados nos itens I e VI do art. 2º constituirá o órgão central da C. G. R..
+**Art**. 4º O conjunto das unidades de trabalho enumerados nos itens I e VI do art. 2º constituirá o órgão central da C. G. R..
 
-<strong>Art</strong>. 5º As Contadorias e Subcontadorias Seccionais, subordinadas técnica e administrativamente ao Contador Geral, são as Delegações da C. G. R. junto aos Ministérios e Repartições.
+**Art**. 5º As Contadorias e Subcontadorias Seccionais, subordinadas técnica e administrativamente ao Contador Geral, são as Delegações da C. G. R. junto aos Ministérios e Repartições.
 
 § 1º Constitui Subcontadoria Seccional (S. C. S.) a Delegação cujos balanços se incorporam numa Contadoria Seccional, e Contadoria Seccional (C. S.) a que remete balanços diretamente ao órgão central da C. G. R.
 
@@ -152,23 +150,23 @@ III - Turma de Créditos e Empenhos (T.C.E.);
 
 IV - Turma de Serviços Auxiliares (T. A.).
 
-<strong>Art</strong>. 6º As Contadorias e Subcontadorias Seccionais serão instaladas nos mesmos edifícios em que estiverem os correspondentes Ministérios ou Repartições.
+**Art**. 6º As Contadorias e Subcontadorias Seccionais serão instaladas nos mesmos edifícios em que estiverem os correspondentes Ministérios ou Repartições.
 
-<strong>Art</strong>. 7º As Divisões serão dirigidas pelos Contadores Adjuntos e as Delegações por Contadores ou Subcontadores Seccionais, conforme o caso, designados no forma dêste Regimento.
+**Art**. 7º As Divisões serão dirigidas pelos Contadores Adjuntos e as Delegações por Contadores ou Subcontadores Seccionais, conforme o caso, designados no forma dêste Regimento.
 
-<strong>Art</strong>. 8º Os órgãos que compõe a C. G. R. funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Contador Geral.
+**Art**. 8º Os órgãos que compõe a C. G. R. funcionarão harmônicamente articulados, em regime de mútua colaboração, sob a orientação do Contador Geral.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Divisão Orçamentária</em>
+*Da Divisão Orçamentária*
 
-<strong>Art</strong>. 9º Compete a D. O. acompanhar a execução do orçamento geral da União, registrando todos os fatos a êle relativos, bem como os créditos adicionais.
+**Art**. 9º Compete a D. O. acompanhar a execução do orçamento geral da União, registrando todos os fatos a êle relativos, bem como os créditos adicionais.
 
-<strong>Art</strong>. 10. À S. R. O. cabe:
+**Art**. 10. À S. R. O. cabe:
 
 I - escriturar, discriminadamente, por títulos, capítulos, órgãos, parágrafos, rubricas e alíneas, a receita prevista, de conformidade com o orçamento votado;
 
@@ -180,7 +178,7 @@ IV - organizar, mensalmente, as minutas da execução orçamentária da receita 
 
 V - organizar, no fim de cada exercício, as demonstrações relativas à previsão da receita, destinadas à publicação com os Balanços Gerais da União.
 
-<strong>Art</strong>. 11. À S. D. O. cabe:
+**Art**. 11. À S. D. O. cabe:
 
 I - escriturar por verbas, consignações, subconsignações, itens, alíneas e incisos, todos os créditos consignados no orçamento, “em ser” no Tribunal de Conta, distribuídos ao Tesouro Nacional e a outras repartições ou estações pagadoras, segundo as tabelas aprovadas e registradas por aquêle Tribunal;
 
@@ -200,13 +198,13 @@ VIII - organizar, mensalmente, as minutas da execução orçamentária da despê
 
 IX - fiscalizar, na análise da despêsa de cada Contadoria Seccional, a exata correspondência do lançamento e a anulação da redistribuição dos créditos de uma para outra Repartição, de acôrdo com os elementos fornecidos pelas Repartições que distribuem créditos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Divisão Financeira</em>
+*Da Divisão Financeira*
 
-<strong>Art</strong>. 12. Compete à D. F. a centralização da receita e despêsa da União, tendo por base os balanços financeiros enviados pelas Contadorias Seccionais e D. B. e, bem assim, o contrôle das operações de “Movimento de Fundos” direto e indireto.
+**Art**. 12. Compete à D. F. a centralização da receita e despêsa da União, tendo por base os balanços financeiros enviados pelas Contadorias Seccionais e D. B. e, bem assim, o contrôle das operações de “Movimento de Fundos” direto e indireto.
 
-<strong>Art</strong>. 13. À S. R. F. cabe:
+**Art**. 13. À S. R. F. cabe:
 
 I - centralizar, mensalmente, todos os lançamentos referentes à receita da União constantes dos balanços das Contadorias Seccionais e da D. B.;
 
@@ -218,7 +216,7 @@ IV - conferir e analisar a receita dos balanços remetidos pelas Contadorias Sec
 
 V - fornecer à D. O. os elementos necessários às respectivas baixas nas contas de previsão da receita.
 
-<strong>Art</strong>. 14. À S. D. F. cabe:
+**Art**. 14. À S. D. F. cabe:
 
 I - centralizar, mensalmente, todos os lançamentos referentes à despêsa da União constantes dos balanços das Contadorias Seccionais e da D.B.;
 
@@ -230,7 +228,7 @@ IV - conferir e analisar a despêsa dos balanços remetidos pelas Contadorias Se
 
 V - fornecer à D. O. os elementos necessários às respectivas baixas nas contas de autorização e despêsa.
 
-<strong>Art</strong>. 15. À S. M. F. cabe:
+**Art**. 15. À S. M. F. cabe:
 
 I - escriturar as operações de Movimento de Fundos, direto e indireto, efetuadas entre as repartições federais e entre estas e o Banco do Brasil, fiscalizando a exata correspondência daquelas operações;
 
@@ -238,15 +236,15 @@ II - tomar tôdas as providências necessárias para que as operações de Movim
 
 III - organizar, no fim do exercício, a demonstração da conta Movimento de Fundos, destinada à publicação com os Balanços Gerais da União.
 
-<strong>Art</strong>. 16. À T. A. F., além das atribuições gerais conferidas às Turmas de Serviços Auxiliares, cabe representar ao Contador Adjunto quando se verificar atraso na remessa dos balanços financeiros, propondo as medidas julgadas necessárias.
+**Art**. 16. À T. A. F., além das atribuições gerais conferidas às Turmas de Serviços Auxiliares, cabe representar ao Contador Adjunto quando se verificar atraso na remessa dos balanços financeiros, propondo as medidas julgadas necessárias.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Divisão Patrimonial</em>
+*Da Divisão Patrimonial*
 
-<strong>Art</strong>. 17. Compete à D. P. a centralização do “Ativo e Passivo da União, tendo por base os balanços patrimoniais enviados pelas Contadorias Seccionais e pela Divisão de Bancos e Correspondentes, de modo a evidenciar o estado inicial dos bens, cousas e direitos da União, em cada exercício, o reflexo das operações orçamentárias sôbre os mesmos e as alterações extraordinárias do patrimônio.
+**Art**. 17. Compete à D. P. a centralização do “Ativo e Passivo da União, tendo por base os balanços patrimoniais enviados pelas Contadorias Seccionais e pela Divisão de Bancos e Correspondentes, de modo a evidenciar o estado inicial dos bens, cousas e direitos da União, em cada exercício, o reflexo das operações orçamentárias sôbre os mesmos e as alterações extraordinárias do patrimônio.
 
-<strong>Art</strong>. 18. À S. A. P. cabe:
+**Art**. 18. À S. A. P. cabe:
 
 I - centralizar, mensalmente, todos os lançamentos referentes ao ativo da União, constantes dos balanços das Contadorias Seccionais e da D. B.;
 
@@ -256,7 +254,7 @@ III - organizar, no fim de cada exercício, as demonstrações do ativo, destina
 
 IV - conferir e analisar o ativo real dos balanços remetidos pelas Contadoras Seccionais e pela D. B. fiscalizando a observância das leis, instruções e regras de contabilidade pública e representando ao Contador Adjunto sôbre as falhas ou irregularidades verificadas.
 
-<strong>Art</strong>. 19. A. S. P. P. cabe:
+**Art**. 19. A. S. P. P. cabe:
 
 I - centralizar todos os lançamentos referentes ao passivo da União constantes dos balanços das Contadorias Seccionadas e da D. B.;
 
@@ -266,7 +264,7 @@ III - organizar, no fim de cada exercício, as denominações do passivo a publi
 
 IV - conferir e analisar o passivo real dos balanços remetidos pelas Contadorias Seccionadas pela D. B., fiscalizando a observância das leis, instruções e regras de contabilidade pública e representação ao Contador Adjunto sôbre as falhas ou irregularidades verificadas.
 
-<strong>Art</strong>. 20. À S. C. P. cabe:
+**Art**. 20. À S. C. P. cabe:
 
 I - centralizar, mensalmente, todos os lançamentos referentes ao ativo e passivo de conpensação constantes dos balanços das Contadorias Seccionadas e da D. B.;
 
@@ -276,13 +274,13 @@ III - organizar, no fim de cada exercício as demostrações do ativo e passivo 
 
 IV - conferir e analisar o ativo e passivo de compensação dos balanços remetidos pelas Contadorias e pela D. B. fiscalizando a observância das leis, instruções e regras de contabilidade pública e representando ao Contador-Adjunto sôbre as falhas ou irregularidades verificadas.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Divisão de Bancos e Correspondência</em>
+*Da Divisão de Bancos e Correspondência*
 
-<strong>Art</strong>. 21. Compete a D. B. registrar todas as operações efetuadas pelo Govêrno diretamente com os Bancos e Correspondentes, ou por intermédio deles, além daquelas que, por sua natureza, devam ser computadas, por ordem superior, na escrituração da Divisão.
+**Art**. 21. Compete a D. B. registrar todas as operações efetuadas pelo Govêrno diretamente com os Bancos e Correspondentes, ou por intermédio deles, além daquelas que, por sua natureza, devam ser computadas, por ordem superior, na escrituração da Divisão.
 
-<strong>Art</strong>. 22. À S. F. B. cabe:
+**Art**. 22. À S. F. B. cabe:
 
 I - fiscalizar a exatidão dos orçamentos feitos nas contas do Tesouro Nacional por seus banqueiros e correspondentes;
 
@@ -300,7 +298,7 @@ VII - levantar no fim de cada exercício, o balanço definitivo da receita e des
 
 VIII - organizar as relações de Restos a Pagar, para remessa ao Tributo de Contas nos prazos fixados.
 
-<strong>Art</strong>. 23. À S. P. B. cabe:
+**Art**. 23. À S. P. B. cabe:
 
 I - organizar as minutas, dos lançamentos de natureza patrimonial, a vista dos respectivos elementos originários;
 
@@ -314,7 +312,7 @@ V - levantar, mensalmente o balanço do Ativo e Passivo a cargo da Divisão, des
 
 VI - levantar, no fim de cada exercício, o balanço definitivo do Altivo e Passivo e organizar as demonstrações destinadas a publicação com os Balanços Gerais da União.
 
-<strong>Art</strong>. 24. À S.D.B cabe:
+**Art**. 24. À S.D.B cabe:
 
 I - escriturar as operações relativas a Divida Externa;
 
@@ -332,13 +330,13 @@ VII - organizar as minutas de lançamento para o Diário e Razão e para a S.F.B
 
 VIII - organizar, mensalmente, as demonstrações necessárias a conferência com o Razão e, no fim de cada exercício, as destinadas a publicação com os Balanços Gerais da União.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da Divisão de Orientação e Contrôle</em>
+*Da Divisão de Orientação e Contrôle*
 
-<strong>Art</strong>. 25. A Divisão de Orientação e Contrôle compete, sob os aspectos contábil e administrativo, a orientação e o contrôle técnico de todos os atos e fatos oriundos de leis, bem como de regulamentos e instruções expedidos por quaisquer repartições públicas ou estabelecimentos industriais da União, civis e militares, que afetem a administração econômico-financeira do País, através de elementos que lhe forem submetidos a exame; a escrituração geral centralizadora e o preparo dos elementos necessários aos balanços gerais da União, devendo para esse fim, manter estatística permanente de todos os dados relativos a situação econômico-financeira.
+**Art**. 25. A Divisão de Orientação e Contrôle compete, sob os aspectos contábil e administrativo, a orientação e o contrôle técnico de todos os atos e fatos oriundos de leis, bem como de regulamentos e instruções expedidos por quaisquer repartições públicas ou estabelecimentos industriais da União, civis e militares, que afetem a administração econômico-financeira do País, através de elementos que lhe forem submetidos a exame; a escrituração geral centralizadora e o preparo dos elementos necessários aos balanços gerais da União, devendo para esse fim, manter estatística permanente de todos os dados relativos a situação econômico-financeira.
 
-<strong>Art</strong>. 26. À.S.O.C cabe:
+**Art**. 26. À.S.O.C cabe:
 
 I - estudar os regulamentos, ordens e instruções expedidos por quaisquer repartições públicas ou estabelecimentos industriais da União, civis ou militares, sugerindo as providências necessárias, quando contrariarem os princípios básicos da legislação em vigor, com referência a contabilidade da União;
 
@@ -348,7 +346,7 @@ III - relatar os processos que dependam de estudos especiais e outros que lhe fo
 
 IV - uniformizar os serviços de contabilidade e escrituração, compreendendo todos os atos relativos as contas da gestão do patrimônio nacional.
 
-<strong>Art</strong>. 27. À S. C. C, cabe:
+**Art**. 27. À S. C. C, cabe:
 
 I - acompanhar a vista da síntese aos respectivos relatórios, as tomadas de contas dos responsáveis por bens e dinheiro públicos, cujo levantamento seja de atribuição das Delegações do C.G.R., organizando arquivo completo e de fácil manuseio;
 
@@ -358,7 +356,7 @@ III - examinar, sugerindo as providências cabíveis, todos os relatórios de in
 
 IV - apreciar, antes de serem encaminhadas ao Contador Adjunto e ao Contador Geral os relatórios anuais das Contadorias e Subcontadorias Seccionais, cabendo-lhe sintetizar os resultados, a fim de figurarem no relatório anual relativo as atividades da C.G.R.
 
-<strong>Art</strong>. 28. Á.S. E. C. cabe:
+**Art**. 28. Á.S. E. C. cabe:
 
 I - escriturar o “Diário” e “Razão” gerais centralizadores, levantando balancetes mensais, trimestrais e do exercício, para verificação e contrôle da escrituração geral centralizadora e levantamento das contas de cada exercício;
 
@@ -368,13 +366,13 @@ III - organizar a estatística permanente dos dados relativos a situação econ�
 
 IV - executar através do equipamento mecânico de que for provida, articulada com as demais Divisões os serviços de apuração e contrôle afetos a cada um dêsses órgãos.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do serviço de Administração e das Turmas de Serviços Auxiliares</em>
+*Do serviço de Administração e das Turmas de Serviços Auxiliares*
 
-<strong>Art</strong>. 29. Ao Serviço de Administração compete prestar serviços de administração geral que se fizerem necessários a execução dos trabalhos da C.G.R
+**Art**. 29. Ao Serviço de Administração compete prestar serviços de administração geral que se fizerem necessários a execução dos trabalhos da C.G.R
 
-<strong>Art</strong>. 30. À S. P. A. cabe:
+**Art**. 30. À S. P. A. cabe:
 
 I - opinar, do ponto de vista legal sôbre a aplicação da legislação relativa ao pessoal;
 
@@ -394,7 +392,7 @@ VIII - escriturar os créditos relativos ao pessoal;
 
 IX - acompanhar a legislação sôbre pessoal e providenciar a sua observância.
 
-<strong>Art</strong>. 31. À S. M. A. cabe:
+**Art**. 31. À S. M. A. cabe:
 
 I - providenciar a requisição do material necessário aos serviços da repartição aceitando ou rejeitando o material requisitado, de acôrdo com a legislação em vigor;
 
@@ -424,7 +422,7 @@ XIII - arquivar os pedidos, notas e faturas do material
 
 XIV - coligir e fornecer elementos para a elaboração da proposta do orçamento, na parte referente a material.
 
-<strong>Art</strong>. 32. Às turmas de Serviços Auxiliares, incumbe, de modo geral, no âmbito de cada Divisão ou Serviço:
+**Art**. 32. Às turmas de Serviços Auxiliares, incumbe, de modo geral, no âmbito de cada Divisão ou Serviço:
 
 I - receber, registrar, distribuir, expedir e arquivar os papéis afetos à Divisão ou Serviço;
 
@@ -446,11 +444,11 @@ III - controlar a entrada e saída dos papéis e de documentos em geral do órg�
 
 § 2º Às Turmas de Serviços Auxiliares das Delegações competem as atribuições gerais previstas neste artigo e, no que couber, as previstas para a T.A.A. no parágrafo anterior, cumprindo-lhes, ainda, remeter às repartições os documentos de escrituração, derivamente protocolados.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das Contadorias e Subcontadorias Seccionais</em>
+*Das Contadorias e Subcontadorias Seccionais*
 
-<strong>Art</strong>. 33. A cada C.S ou S.C.S. compete:
+**Art**. 33. A cada C.S ou S.C.S. compete:
 
 I - centralizar, coordenar e fiscalizar o serviço de contabilidade e escrituração da repartição junto à qual funcionar e dos órgãos sob sua jurisdição;
 
@@ -482,7 +480,7 @@ XIII - levantar as tomadas de contas dos Tesoureiros;
 
 XIV - instruir, do ponto de vista técnico, a repartição junto a qual funcionar, bem como as que estiverem a elas subordinadas.
 
-<strong>Art</strong>. 34. À T.T. compete:
+**Art**. 34. À T.T. compete:
 
 I - examinar os documentos de receita e despesa dos Caixas “Geral” e “Especiais”, para o fim de verificar se os mesmos guardam conformidade com as leis e regulamentos em vigor;
 
@@ -498,9 +496,9 @@ VI - levantar a tomada de contas Tesoureiro Geral;
 
 VII - emitir, corresponder e registrar os avisos de lançamentos relativos às operações por “Movimento de Fundos”.
 
-<strong>Art</strong>. 35. À T.P. - 1 compete:
+**Art**. 35. À T.P. - 1 compete:
 
-I - examinar, <em>a priori</em>, as despesas de pessoal;
+I - examinar, *a priori*, as despesas de pessoal;
 
 II - escriturar o Diário, o Razão e os livros auxiliares;
 
@@ -512,7 +510,7 @@ V - levantar a tomada de contas do Tesoureiro Chefe;
 
 VI - emitir, corresponder e registrar os avisos de lançamentos relativos às operações por “Movimento de Fundos”.
 
-<strong>Art</strong>. 36. À T.P. - 2 compete:
+**Art**. 36. À T.P. - 2 compete:
 
 I - examinar os processos de pagamento das despesas de material, serviços e encargos, obras e créditos adicionais;
 
@@ -526,7 +524,7 @@ V - levantar a tomada de contas do Tesoureiro-Chefe;
 
 VI - emitir, corresponder e registrar os avisos de lançamentos relativos às operações por “Movimento de Fundos”.
 
-<strong>Art</strong>. 37. À T.C.E. compete:
+**Art**. 37. À T.C.E. compete:
 
 I - escriturar a distribuição e redistribuirão dos créditos ao Tesouro Nacional e às diversas Repartições;
 
@@ -538,7 +536,7 @@ IV - anotar a baixa em virtude dos pagamentos efetuados;
 
 V - levantar a análise da despesa.
 
-<strong>Art</strong>. 38. À T.C. compete:
+**Art**. 38. À T.C. compete:
 
 I - centralizar os balanços financeiros e patrimoniais da Tesouraria-Geral e das 1ª e 2ª Pagadorias;
 
@@ -546,7 +544,7 @@ II - escriturar o Diário, o “Razão” e os livros auxiliares;
 
 III - levantar os balanços financeiros e patrimoniais, mensais e definitivos, e bem assim, as respectivas demonstração.
 
-<strong>Art</strong>. 39. À T.R.P. compete:
+**Art**. 39. À T.R.P. compete:
 
 I - apurar e relacionar os resíduos passivos, na conformidade da legislação vigente;
 
@@ -554,9 +552,9 @@ II - escriturar os “Restos a Pagar” no livro próprio;
 
 III - informar, para efeito de pagamento, os processos relativos a “Restos a Pagar”, anotando-os no registro competente.
 
-<strong>Art</strong>. 40. À T.E., no âmbito das Contadorias Seccionais junto aos Ministérios em geral e junto às Delegacias Fiscais, e à T.M.P., no âmbito da C.S. junto ao Departamento dos Correios e Telégrafos, competem as atribuições cometidas, no âmbito da C.S. junto ao Ministério da Fazenda, à T.T., à T.P.-1, à T.P.-2 e à T.R.
+**Art**. 40. À T.E., no âmbito das Contadorias Seccionais junto aos Ministérios em geral e junto às Delegacias Fiscais, e à T.M.P., no âmbito da C.S. junto ao Departamento dos Correios e Telégrafos, competem as atribuições cometidas, no âmbito da C.S. junto ao Ministério da Fazenda, à T.T., à T.P.-1, à T.P.-2 e à T.R.
 
-<strong>Art</strong>. 41. À T. Ex. compete:
+**Art**. 41. À T. Ex. compete:
 
 I - incorporar os balancetes das exatorias, uma vez conferidos pelos Serviços ou Seções Regionais de Coletorias;
 
@@ -564,7 +562,7 @@ II - escriturar os livros auxiliares;
 
 III - organizar os balanços mensais da Receita e Despesa, com as respectivas demonstrações.
 
-<strong>Art</strong>. 42. A T.M.C. compete:
+**Art**. 42. A T.M.C. compete:
 
 I - examinar e centralizar os balanços mensais, financeiros e patrimoniais, das repartições sob a sua jurisdição contábil, inclusive da Tesouraria-Geral;
 
@@ -574,11 +572,11 @@ III - levantar os balanços mensais e definitivos, financeiros e patrimoniais, c
 
 IV - representar ao Contador Seccional sôbre quaisquer irregularidades ou omissões na incorporação dos balanços das repartições centralizadas.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 43. Ao Contador Geral da República incumbe:
+**Art**. 43. Ao Contador Geral da República incumbe:
 
 I - responder perante o Ministro da Fazenda pela regularidade dos trabalhos relativos à contabilidade da União;
 
@@ -626,7 +624,7 @@ XXII - rubricar os livros “Diário” e “Razão” do órgão central da C.G
 
 XXIII - expedir os boletins de merecimento dos Contadores-Adjuntos, Chefe do Serviço de Administração, Secretário, Contadores e Subcontadores Seccionais.
 
-<strong>Art</strong>. 44. Aos Contadores-Adjuntos incumbe:
+**Art**. 44. Aos Contadores-Adjuntos incumbe:
 
 I - responder perante o Contador Geral pela regularidade dos trabalhos da Divisão;
 
@@ -656,7 +654,7 @@ XIII - expedir boletins de merecimento dos chefes de Seção;
 
 XIV - prorrogar até uma hora diária o período normal de trabalho.
 
-<strong>Art</strong>. 45. Ao Chefe do S.A. incumbe:
+**Art**. 45. Ao Chefe do S.A. incumbe:
 
 I - orientar, dirigir e fiscalizar os respectivos trabalhos;
 
@@ -682,7 +680,7 @@ XI - expedir boletins de merecimento dos chefes de Seção do S.A.;
 
 XII - elaborar a proposta orçamentária da C.G.R., de acôrdo com as instruções do Contador Geral;
 
-<strong>Art</strong>. 46. Aos Chefes de Seção incumbe:
+**Art**. 46. Aos Chefes de Seção incumbe:
 
 I - responder, perante o chefe imediato, pela regularidade dos trabalhos da Seção;
 
@@ -708,7 +706,7 @@ XI - informar e opinar nos processos e demais papéis que lhes forem distribuíd
 
 XII - expedir boletins de merecimento dos servidores da Seção.
 
-<strong>Art</strong>. 47. Aos Contadores e Subcontadores Seccionais incumbe:
+**Art**. 47. Aos Contadores e Subcontadores Seccionais incumbe:
 
 I - responder perante o Contador Geral pela regularidade do trabalho da C.S. ou S.C.S.;
 
@@ -744,9 +742,9 @@ XVI - atender às consultas das Subcontadorias sempre que versarem sôbre matér
 
 XVII - expedir boletins de merecimento dos servidores em exercício na Contadoria ou Subcontadoria Seccional.
 
-<strong>Art</strong>. 48. Ao Chefes de Turmas das Diversões, do S.A., e das Contadorias e Subcontadorias Seccionais, incumbe a fiscalização e orientação dos trabalhos afetos à respectiva turma, segundo as normas que forem traçadas pelos superiores imediatos.
+**Art**. 48. Ao Chefes de Turmas das Diversões, do S.A., e das Contadorias e Subcontadorias Seccionais, incumbe a fiscalização e orientação dos trabalhos afetos à respectiva turma, segundo as normas que forem traçadas pelos superiores imediatos.
 
-<strong>Art</strong>. 49. Ao Secretário do Contador Geral incumbe:
+**Art**. 49. Ao Secretário do Contador Geral incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Contador Geral;
 
@@ -756,7 +754,7 @@ III - redigir a correspondência do Contador-Geral;
 
 IV - manter atualizado o contrôle do movimento dos processos e documentos que forem a estudo ou decisão do Contador-Geral.
 
-<strong>Art</strong>. 50. Ao Auxiliar da Portaria, subordinado ao Chefe do S.A., incumbe:
+**Art**. 50. Ao Auxiliar da Portaria, subordinado ao Chefe do S.A., incumbe:
 
 I - prestar quaisquer informações solicitadas pelo público sôbre a localização e funcionamento dos órgãos da C.G.R.;
 
@@ -766,13 +764,13 @@ III - exercer vigilância permanente nos lugares de entrada e saída, especialme
 
 IV - encerrar o ponto do pessoal subordinado, comunicando ao chefe do S.A. tôdas as irregularidades encontradas.
 
-<strong>Art</strong>. 51. Aos servidores com funções não especificadas neste Regimento caberão as atribuições que lhes forem cometidas por seus superiores.
+**Art**. 51. Aos servidores com funções não especificadas neste Regimento caberão as atribuições que lhes forem cometidas por seus superiores.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 52. Serão substituídos, nas sua faltas ou impedimentos eventuais, até 30 dias:
+**Art**. 52. Serão substituídos, nas sua faltas ou impedimentos eventuais, até 30 dias:
 
 I - o Contador-Geral, por um Contador Adjunto, de sua indicação, designado pelo Ministro;
 
@@ -784,86 +782,84 @@ IV - os Contadores e Subcontadores Seccionais, por um servidor da respectiva S.C
 
 Parágrafo único. Haverá sempre servidores previamente designados para as substituições a que se refere êste artigo.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 53. A C.G.R. terá a lotação estabelecida em decreto.
+**Art**. 53. A C.G.R. terá a lotação estabelecida em decreto.
 
-<strong>Art</strong>. 54. A lotação dos servidores da C.G.R., constituída em um todo pelo órgão central e pelas Contadorias e Subcontadorias Seccionais, obedecerá ao critério regional, distribuindo-se os servidores, em conjunto, para cada Estado e para o Distrito Federal.
+**Art**. 54. A lotação dos servidores da C.G.R., constituída em um todo pelo órgão central e pelas Contadorias e Subcontadorias Seccionais, obedecerá ao critério regional, distribuindo-se os servidores, em conjunto, para cada Estado e para o Distrito Federal.
 
 Parágrafo único. A C.S. junto à Delegacia do Tesouro Brasileiro no Exterior terá lotação própria e a movimentação dos respectivos servidores será feita em decreto.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 55. O horário normal de trabalho será fixado pelo Contador Geral, respeitado o número de horas semanais ou mensais, estabelecido para o Serviço Público Federal.
+**Art**. 55. O horário normal de trabalho será fixado pelo Contador Geral, respeitado o número de horas semanais ou mensais, estabelecido para o Serviço Público Federal.
 
-<strong>Art</strong>. 56. As Delegações da C.G.R observarão as horas de expediente normal ou extraordinário das repartições junto às quais funcionarem, podendo antecipar ou prorrogar o período normal de trabalho, se os serviços o exigirem, mediante entendimento como os Chefes das repartições respectivas e comunicação ao órgão central da C.G.R.
+**Art**. 56. As Delegações da C.G.R observarão as horas de expediente normal ou extraordinário das repartições junto às quais funcionarem, podendo antecipar ou prorrogar o período normal de trabalho, se os serviços o exigirem, mediante entendimento como os Chefes das repartições respectivas e comunicação ao órgão central da C.G.R.
 
 Parágrafo único. Na antecipação ou prorrogação do expediente dos Ministério ou Repartições de que participarem, por determinação dos respectivos chefes, os servidores das Contadorias e Subcontadorias Seccionais serão incluídos na respectiva fôlha de pagamento de gratificação dos demais servidores.
 
-<strong>Art</strong>. 57. O Contador Geral, o seu Secretário, os Contadores Adjuntos, os Contadores e Subcontadores Seccionais e o Chefe do S.A. não ficam sujeitos a ponto, devendo, porém, observar o disposto no art. 5º da Lei nº 2.188, de 3 de março de 1954.
+**Art**. 57. O Contador Geral, o seu Secretário, os Contadores Adjuntos, os Contadores e Subcontadores Seccionais e o Chefe do S.A. não ficam sujeitos a ponto, devendo, porém, observar o disposto no art. 5º da Lei nº 2.188, de 3 de março de 1954.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>DO BOLETIM DA CONTADORIA GERAL DA REPÚBLICA</em>
+*DO BOLETIM DA CONTADORIA GERAL DA REPÚBLICA*
 
-<strong>Art</strong>. 58. O Boletim da Contadoria Geral da República divulgará matéria doutrinária, informativa, noticiosa, de crítica e de qualquer outro gênero, que contribua para a maior difusão de conhecimentos relativos à contabilidade pública e assuntos correlatos.
+**Art**. 58. O Boletim da Contadoria Geral da República divulgará matéria doutrinária, informativa, noticiosa, de crítica e de qualquer outro gênero, que contribua para a maior difusão de conhecimentos relativos à contabilidade pública e assuntos correlatos.
 
 § 1º O Boletim será dirigido por um Redator Chefe.
 
 § 2º As atribuições do Redator Chefe do “Boletim” e dos servidores designados como auxiliares, serão fixadas em ordem de serviço pelo Contador-Geral.
 
-<strong>TÍTULO X</strong>
+**TÍTULO X**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 59. As Contadores e Subcontadorias Seccionais fornecerão, aos chefes das repartições junto às quais funcionarem, os elementos constantes da escrituração, quando solicitados, sendo porém, vedado fazê-lo a estranhos sem prévia autorização do Contador Geral.
+**Art**. 59. As Contadores e Subcontadorias Seccionais fornecerão, aos chefes das repartições junto às quais funcionarem, os elementos constantes da escrituração, quando solicitados, sendo porém, vedado fazê-lo a estranhos sem prévia autorização do Contador Geral.
 
-<strong>Art</strong>. 60. A fim de assegurar a normalidade e uniformidade dos trabalhos das Contadorias e Subcontadorias Seccionais, o Contador Geral providenciará para que o serviço de inspeção a essas Delegações tenha caráter permanente.
+**Art**. 60. A fim de assegurar a normalidade e uniformidade dos trabalhos das Contadorias e Subcontadorias Seccionais, o Contador Geral providenciará para que o serviço de inspeção a essas Delegações tenha caráter permanente.
 
-<strong>Art</strong>. 61. Os Casos omissos neste Regimento serão resolvidos pelo Ministro da Fazenda, por proposta do Contador Geral.
+**Art**. 61. Os Casos omissos neste Regimento serão resolvidos pelo Ministro da Fazenda, por proposta do Contador Geral.
 
 Rio de Janeiro, em 20 de abril de 1954.
 
-<strong>OSWALDO ARANHA</strong>
+**OSWALDO ARANHA**
 
-###DEC-035403-0-000-20-04-1954@@@
+**DECRETO N**º **35.403, DE 20 DE ABRIL DE 1954.**
 
-<strong>DECRETO N</strong>º <strong>35.403, DE 20 DE ABRIL DE 1954.</strong>
+***Aprova o Regimento da Contadoria Geral da República.***
 
-<em><strong>Aprova o Regimento da Contadoria Geral da República.</strong></em>
+**REGIMENTO DA CONTADORIA GERAL DA REPÚBLICA**
 
-<strong>REGIMENTO DA CONTADORIA GERAL DA REPÚBLICA</strong>
+Publicado no *Diário Oficial*, Seção I, de 24-4-1954.
 
-Publicado no <em>Diário Oficial</em>, Seção I, de 24-4-1954.
+**RETIFICAÇÕES**
 
-<strong>RETIFICAÇÕES</strong>
-
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 na 3ª coluna da página 7.204, 86ª linha - Título V,
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u>:
+**LEIA**\-**SE**:
 
 Título IV;
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 na 3ª coluna da página 7.205, 24ª, 49ª e 65ª linhas,
 
 Título VI, Título VII, Título VIII;
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u>:
+**LEIA**\-**SE**:
 
 Título V, Título VI, Título VII;
 
-<u><strong>ONDE</strong></u> <u><strong>SE</strong></u> <u><strong>LÊ</strong></u>:
+**ONDESELÊ**:
 
 na 4ª coluna da página 7.205, 6ª e 24ª linhas - Título IX, Título X,
 
-<u><strong>LEIA</strong></u>\-<u><strong>SE</strong></u>:
+**LEIA**\-**SE**:
 
 Título VIII, Título IX.

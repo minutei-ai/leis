@@ -1,5 +1,3 @@
-###DEC-073316-0-000-17-12-1973@@@
-
 Decreto nº 73.316 - de 17 de dezembro de 1973
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

@@ -1,5 +1,3 @@
-###MPV-001906-0-006-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.906-6, DE 29 DE JUNHO DE 1999.
 
 Acresce e altera dispositivos das Leis nºs 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, e 9.494, de 10 de setembro de 1997, e dá outras providências.

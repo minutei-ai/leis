@@ -1,7 +1,9 @@
 LEI Nº 7.597 DE 07 DE FEVEREIRO DE 2000
 
-Ver também: <br>
-Decreto nº [19.004](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19004-de-05-de-abril-de-2019) de 05 de abril de 2019 - Modifica a estrutura básica da Agência Estadual de Defesa Agropecuária da Bahia - ADAB, e altera a composição do Conselho de Defesa Agropecuária - CONAGRO.<br>
+Ver também: 
+
+Decreto nº [19.004](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19004-de-05-de-abril-de-2019) de 05 de abril de 2019 - Modifica a estrutura básica da Agência Estadual de Defesa Agropecuária da Bahia - ADAB, e altera a composição do Conselho de Defesa Agropecuária - CONAGRO.
+
 Regulamentada pelo Decreto nº [7.854](https://www.legislabahia.ba.gov.br/documentos/decreto-no-7854-de-11-de-outubro-de-2000) , de 11 de outubro de 2000.
 
 Dispõe sobre a Defesa Sanitária Animal no Estado da Bahia e dá outras providências.
@@ -18,10 +20,14 @@ Art. 2º - A defesa sanitária animal far-se-á pela execução de programas ger
 
 Art. 3º - Fica criado o Conselho Estadual de Saúde Animal, com a específica finalidade de formular políticas e estratégias a serem adotadas na defesa sanitária animal, no âmbito do Estado, podendo atuar junto ao Fundo de Apoio à Pecuária do Estado da Bahia - FUNDAP, com vistas à execução de programas de controle e de erradicação de doenças de animais.
 
-Ver também:<br>
-Art. 1º, inciso IV do Decreto nº [19.004](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19004-de-05-de-abril-de-2019) de 05 de abril de 2019: "Art. 1º - Ficam extintos, na estrutura básica da Agência Estadual de Defesa Agropecuária da Bahia - ADAB:<br>
-..............................................<br>
-IV - o Conselho Estadual de Saúde Animal, previsto no art. 3º da Lei nº 7.597, de 07 de fevereiro de 2000;<br>
+Ver também:
+
+Art. 1º, inciso IV do Decreto nº [19.004](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19004-de-05-de-abril-de-2019) de 05 de abril de 2019: "Art. 1º - Ficam extintos, na estrutura básica da Agência Estadual de Defesa Agropecuária da Bahia - ADAB:
+
+..............................................
+
+IV - o Conselho Estadual de Saúde Animal, previsto no art. 3º da Lei nº 7.597, de 07 de fevereiro de 2000;
+
 ..............................................."
 
 Art. 4º - O Poder Executivo poderá instituir Conselhos Comunitários de Saúde Animal, para atuar no âmbito de cada Município, com a finalidade de promover e executar as atividades e políticas necessárias ao cumprimento dos objetivos definidos nesta Lei.

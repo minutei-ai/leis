@@ -1,5 +1,3 @@
-###DEC-080454-0-000-03-10-1977@@@
-
 DECRETO Nº 80.454, DE 3 DE OUTUBRO DE 1977
 
 Autoriza a cessão, sob a forma de utilização gratuita, do imóvel que menciona, situado no Município de Recife, Estado de Pernambuco.

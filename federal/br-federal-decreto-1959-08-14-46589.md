@@ -1,5 +1,3 @@
-###DEC-046589-0-000-14-08-1959@@@
-
 DECRETO Nº 46.589, DE 14 DE Agôsto DE 1959.
 
 Concede à Sociedade anônima The Sidney Ross Co. autorização para continuar a funcionar na Republica.

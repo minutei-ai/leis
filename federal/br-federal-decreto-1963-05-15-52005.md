@@ -1,5 +1,3 @@
-###DEC-052005-0-000-15-05-1963@@@
-
 DECRETO Nº 52.005, DE 15 DE MAIO DE 1963.
 
 Concede autorização para o funcionamento do Curso de Medicina da Faculdade de Ciências Médicas dos Hospitais da Santa Casa de Misericórdia de São Paulo.

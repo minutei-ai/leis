@@ -1,5 +1,3 @@
-###DEC-054205-0-000-24-08-1964@@@
-
 Decreto nº 54.205, de 24 de agôsto de 1964.
 
 Dá nova redação ao artigo 2º do Decreto nº 54.057, de 27 de julho de 1964, que aprovou a revisão do Quadro do Pessoal do Instituto de Aposentadoria e Pensões dos Marítimos, prevista no artigo 19 da Lei nº 4.345, de 26 de junho de 1964.

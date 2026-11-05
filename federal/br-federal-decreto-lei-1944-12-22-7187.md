@@ -1,5 +1,3 @@
-###DEL-007187-0-000-22-12-1944@@@
-
 DECRETO-LEI N. 7.187 – DE 22 DE DEZEMBRO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 2.091,00, para pagamento de diferença de vencimentos

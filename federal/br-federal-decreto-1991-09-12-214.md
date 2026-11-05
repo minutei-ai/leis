@@ -1,5 +1,3 @@
-###DEC-000214-0-000-12-09-1991@@@
-
 DECRETO Nº 214, DE 12 DE SETEMBRO DE 1991
 
 Dispõe sobre a competência, composição e o funcionamento do Conselho Consultivo da Coordenadoria Nacional para Integração da Pessoa Portadora de Deficiência - CORDE.

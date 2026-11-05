@@ -1,5 +1,3 @@
-###DEC-065029-0-000-20-08-1969@@@
-
 DECRETO Nº 65.029 - DE 20 DE AGôSTO DE 1969.
 
 Extingue a 3º Companhia de Fronteira e dá outras providências.

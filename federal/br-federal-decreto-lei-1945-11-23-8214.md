@@ -1,5 +1,3 @@
-###DEL-008214-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.214 – DE 23 DE NOVEMBRO DE 1945
 
 Dispõe sôbre o crédito especial aberto pelo art. 2º do Decreto-lei número  8.160, de 12 de novembro de 1945

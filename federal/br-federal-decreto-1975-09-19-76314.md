@@ -1,5 +1,3 @@
-###DEC-076314-0-000-19-09-1975@@@
-
 Decreto Nº 76.314 - DE 19 DE SETEMBRO DE 1975
 
 Concede reconhecimento à habilitação em Administração Escolar do curso de Pedagogia da Faculdade de Filosofia, Ciência e Letras de Lavras, com sede na cidade de Lavras, Estado de Minas Gerais.

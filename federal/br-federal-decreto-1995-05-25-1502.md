@@ -1,7 +1,3 @@
-1
-
-###DEC-001502-0-000-25-05-1995@@@
-
 DECRETO Nº 1.502, DE 25 DE MAIO DE 1995
 
 Dispõe sobre consignações em folha de pagamento de servidores públicos federais civis da Administração Pública Federal direta, autárquica e fundacional a favor de terceiros, e dá outras providências.

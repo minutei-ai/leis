@@ -1,5 +1,3 @@
-###DEC-067378-0-000-13-10-1970@@@
-
 DECRETO Nº 67.378, DE 13 DE OUTUBRO DE 1970.
 
 Confisca bens de Osvaldo Monteiro James e de sua mulher Diva Ferreira James, domiciliados na cidade do Rio de Janeiro, Estado da Guanabara, para a reparação de danos causados ao patrimônio público.

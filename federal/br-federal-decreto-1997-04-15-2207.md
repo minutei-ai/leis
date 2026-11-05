@@ -1,5 +1,3 @@
-###DEC-002207-0-000-15-04-1997@@@
-
 DECRETO Nº 2.207, DE 15 DE ABRIL DE 1997
 
 Regulamenta, para o Sistema Federal de Ensino, as disposições contidas nos arts. 19, 20, 45, 46 e § 1º, 52, parágrafo único, 54 e 88 da Lei nº 9.394, de 20 de dezembro de 1996, e dá outras providências.

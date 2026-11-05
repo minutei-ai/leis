@@ -1,5 +1,3 @@
-###DEC-049693-0-000-31-12-1960@@@
-
 DECRETO Nº 49.693, DE 31 DE DEZEMBRO DE 1960.
 
 Transfere da Prefeitura Municipal de Itaqui para a Comissão Estadual de Energia Elétrica a concessão para a produção e fornecimento de energia elétrica ao município de Itaqui, Estado do Rio Grande do Sul.

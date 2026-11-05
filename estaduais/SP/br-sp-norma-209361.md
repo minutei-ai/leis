@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209361)<br>
-
 # LEI N° 17.917, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 1684/2023, do Deputado Gerson Pessoa - PODE)

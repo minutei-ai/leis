@@ -1,5 +1,3 @@
-###DEL-002140-0-000-28-06-1984@@@
-
 # DECRETO-LEI Nº 2.140, DE 28 DE JUNHO DE 1984
 
 Institui a Gratificação de Incentivo à Atividade Odontológica, na Previdência Social, e dá outras providências.

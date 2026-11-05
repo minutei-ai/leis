@@ -1,5 +1,3 @@
-###DEC-056873-0-000-15-09-1965@@@
-
 DECRETO Nº 56.873, DE 15 DE SETEMBRO DE 1965.
 
 Aprova o Estatuto da Companhia Nacional de Seguro Agrícola e dá outras providências.

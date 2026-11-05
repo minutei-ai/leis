@@ -1,5 +1,3 @@
-###DEC-059385-0-000-13-10-1966@@@
-
 Decreto nº 59.385, de 13 de outubro de 1966.
 
 Exclui do Plano Preferencial de Serviços e Obras do Departamento Nacional de Obras de Saneamento, obras que menciona.

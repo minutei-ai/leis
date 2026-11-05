@@ -1,5 +1,3 @@
-###DEC-054519-0-000-21-10-1964@@@
-
 DECRETO Nº 54.519, DE 21 DE OUTUBRO DE 1964.
 
 Autoriza a Mineração Matheus Leme Ltda., a lavrar argila, no Município de Caldas, Estado de Minas Gerais.

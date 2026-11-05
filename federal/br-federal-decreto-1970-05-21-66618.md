@@ -1,5 +1,3 @@
-###DEC-066618-0-000-21-05-1970@@@
-
 DECRETO Nº 66.618, DE 21 DE MAIO DE 1970.
 
 Declara de utilidade pública a Casa da Criança de Caçapava, com sede em Caçapava, Estado de São Paulo.

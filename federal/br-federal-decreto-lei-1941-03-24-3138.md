@@ -1,5 +1,3 @@
-###DEL-003138-0-000-24-03-1941@@@
-
 DECRETO-LEI N. 3.138 – DE 24 DE MARÇO DE 1941
 
 Dispõe sobre a prestação de assistência médica, pelos Institutos e Caixas de Aposentadoria e Pensões, dos doentes mentais que forem seus segurados ou associados.

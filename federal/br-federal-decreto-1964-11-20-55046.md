@@ -1,5 +1,3 @@
-###DEC-055046-0-000-20-11-1964@@@
-
 DECRETO Nº 55.046, DE 20 DE NOVEMBRO DE 1964.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

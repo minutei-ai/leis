@@ -1,5 +1,3 @@
-###DEC-070528-0-000-16-05-1972@@@
-
 DECRETO Nº 70.528, DE 16 DE MAIO DE 1972.
 
 Concede à METANORDESTE - Minérios e Minerais S.A., o direito de lavrar minérios de cobre, no município de Jaguarari, Estado da Bahia.

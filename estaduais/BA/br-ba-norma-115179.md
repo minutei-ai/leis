@@ -14,8 +14,10 @@ Art. 2º - O Fundo Especial de que cuida esta Lei é constituído de:
 
 a)     de 7% (sete por cento) da indenização devida ao Estado da Bahia pela Petróleo Brasileiro S. A.   - (PETROBRÁS), na forma prescrita no artigo 27 da Lei Federal nº 2.004, de 30 de outubro de 1953.
 
-Redação de acordo com a Lei nº 2.889, de 01 de fevereiro de 1971.<br>
-Redação anterior de acordo com a Lei nº 2.780, de 10 de janeiro de 1970: "a) de 8% (oito por cento) da indenização devida ao Estado da Bahia pela Petróleo Brasileiro S/A. (PETROBRÁS), na forma prescrita no artigo 27 da Lei Federal nº 2.004, de 30 de outubro de 1953."<br>
+Redação de acordo com a Lei nº 2.889, de 01 de fevereiro de 1971.
+
+Redação anterior de acordo com a Lei nº 2.780, de 10 de janeiro de 1970: "a) de 8% (oito por cento) da indenização devida ao Estado da Bahia pela Petróleo Brasileiro S/A. (PETROBRÁS), na forma prescrita no artigo 27 da Lei Federal nº 2.004, de 30 de outubro de 1953."
+
 Redação original: "a) de 10% da indenização devida ao Estado da Bahia pela Petróleo Brasileiro S/A. (PETROBRÁS), na forma prescrita no artigo 27 da Lei Federal nº 2.004, de 30 de outubro de 1953; "
 
 &nbs
@@ -60,4 +62,4 @@ Jorge Calmon
 
 Flaviano Guimarães
 
-* * *
+ *

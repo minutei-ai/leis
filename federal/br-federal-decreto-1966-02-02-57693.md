@@ -1,5 +1,3 @@
-###DEC-057693-0-000-02-02-1966@@@
-
 decreto nº 57.693, de 2 de feverero de 1966.
 
 Abre, pelo Ministério da Fazenda, o crédito especial de Cr$80.000.000, para o fim que especifica.

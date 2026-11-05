@@ -1,5 +1,3 @@
-###DEC-059199-0-000-09-09-1966@@@
-
 Decreto nº 59.199, de 9 de setembro de 1966.
 
 Concede à sociedade Comércio e Navegação de Cabotagem Rio Piqueri Ltda. autorização para funcionar como emprêsa de navegação de cabotagem.

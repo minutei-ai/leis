@@ -1,5 +1,3 @@
-###DEC-076621-0-000-17-11-1975@@@
-
 DECRETO Nº 76.621, DE 17 DE NOVEMBRO DE 1975.
 
 Revoga Decretos que aprova e alteram o Regulamento da Escola de Oficiais Especialistas e de Infantaria de Guarda.

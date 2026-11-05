@@ -1,5 +1,3 @@
-###DEC-066540-0-000-08-05-1970@@@
-
 Decreto Nº 66.540, DE 8 DE MAIO DE 1970.
 
 Autoriza a reversão ao patrimônio do Município de Ouro Preto, no Estado de Minas Gerais, do terreno que menciona.

@@ -1,5 +1,3 @@
-###DEC-075746-0-000-22-05-1975@@@
-
 DECRETO Nº 75.746, DE 22 DE MAIO DE 1975.
 
 Dá nova redação ao artigo 7º do Decreto nº 67.505, de 6 de novembro de 1970, que dispõe sobre o Projeto Rondon.

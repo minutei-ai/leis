@@ -1,5 +1,3 @@
-###DEC-059237-0-000-19-09-1966@@@
-
 Decreto Nº 59.237, DE 19 DE SETEMBRO DE 1966.
 
 Cria funções gratificadas no Quadro de Pessoal do Conselho Nacional de Economia, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-046887-0-000-24-09-1959@@@
-
 DECRETO Nº 46.887, DE 24 DE SETEMBRO DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério do Trabalho, Indústria e Comércio.

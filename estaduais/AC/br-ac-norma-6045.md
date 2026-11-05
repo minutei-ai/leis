@@ -1,6 +1,10 @@
 > **LEI Nº 4.349, DE 09 DE MAIO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei Complementar nº 263, de 21 de junho de 2013, que institui o Conselho Estadual de Saúde - CES/AC, para dispor sobre sua composição e funcionamento.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei Complementar nº 263, de 21 de junho de 2013, que institui o Conselho Estadual de Saúde - CES/AC, para dispor sobre sua composição e funcionamento.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -21,8 +25,6 @@
 “**Art. 8º** As entidades escolhidas na forma do art. 7º comporão o CES/AC pelo período de três anos.
 
 **§ 1º** A entidade com representação no CES/AC poderá substituir os membros por ela indicados.
-
-<br>
 
 ...” **(NR)**
 

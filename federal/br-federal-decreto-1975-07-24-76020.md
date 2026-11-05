@@ -1,5 +1,3 @@
-###DEC-076020-0-000-24-07-1975@@@
-
 decreto nº 76.020 - de 24 de julho de 1975
 
 Autorizo o registro, em nome da União Federal, do imóvel que menciona, situado no estado do Pará.

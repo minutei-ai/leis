@@ -1,5 +1,3 @@
-###DEC-069707-0-000-07-12-1971@@@
-
 decreto nº 69.707 - de 7 DE DEZEMBRO de 1971
 
 Declara sem efeito o Decreto nº 35.814, de 12 de julho de 1959.

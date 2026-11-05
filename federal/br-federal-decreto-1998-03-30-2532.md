@@ -1,5 +1,3 @@
-###DEC-002532-0-000-30-03-1998@@@
-
 DECRETO 2.532, DE 30 DE MARÇO DE 1998
 
 Dá nova redação ao § 1º do art. 28 do Decreto nº 2.222, de 8 de maio de 1997, que regulamenta a Lei nº 9.437, de 20 de fevereiro de 1997, que institui o Sistema Nacional de Armas (SINARM), estabelece condições para o registro e para o porte de arma de fogo, e define crimes.

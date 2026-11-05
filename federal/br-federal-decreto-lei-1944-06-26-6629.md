@@ -1,5 +1,3 @@
-###DEL-006629-0-000-26-06-1944@@@
-
 DECRETO-LEI N. 6.629 – DE 26 DE JUNHO DE 1944
 
 Prorroga o prazo para concessão dos favores de que trata o Decreto-lei número 5.719, de 3 de agôsto de 1943, e dá outras providências

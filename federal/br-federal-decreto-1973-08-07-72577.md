@@ -1,5 +1,3 @@
-###DEC-072577-0-000-07-08-1973@@@
-
 DECRETO Nº 72.577, DE 7 DE AGOSTO DE 1973.
 
 Confisca bem imóvel de propriedade do Lanifício Paulista S.A. e dá outras providências.

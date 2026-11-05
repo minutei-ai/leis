@@ -1,5 +1,3 @@
-###DEL-000682-0-000-15-07-1969@@@
-
 DECRETO-LEI Nº 682, DE 15 DE JULHO DE 1969
 
 Aprovou o Tratado da Bacia do Prata assinado em Brasília, em 23 de abril de 1969.

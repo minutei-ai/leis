@@ -1,5 +1,3 @@
-###DEC-052396-0-000-23-08-1963@@@
-
 DECRETO Nº 52.396, DE 23 DE AGÔSTO DE 1963.
 
 Autoriza o cidadão brasileiro João Gentilini Fasciani a pesquisar pedras coradas no município de Ataléia, Estado de Minas Gerais.

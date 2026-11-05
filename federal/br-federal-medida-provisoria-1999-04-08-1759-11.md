@@ -1,5 +1,3 @@
-###MPV-001759-0-011-08-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.759-11, DE 8 DE ABRIL DE 1999.
 
 Estabelece critérios para a concessão de empréstimo, pela União, aos Estados e ao Distrito Federal, destinado ao ressarcimento parcial das perdas decorrentes da aplicação da Lei nº 9.424, de 24 de dezembro de 1996.

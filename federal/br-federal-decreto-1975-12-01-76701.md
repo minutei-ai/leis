@@ -1,5 +1,3 @@
-###DEC-076701-0-000-01-12-1975@@@
-
 DECRETO Nº 76.701, DE 1 DE DEZEMBRO DE 1975.
 
 Autoriza a universidade Federal da Bahia a realizar pesquisas geofísica e geológicas marinhas, na "Baia de Todos os Santos e na Plataforma Continental do Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEL-008293-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.293 – DE 5 DE DEZEMBRO DE 1945
 
 Dispõe sôbre o cargo isolado de Contabilista, do Quadro Suplementar do Ministério das Relações Exteriores.

@@ -1,5 +1,3 @@
-###DEC-050807-0-000-16-06-1961@@@
-
 DECRETO Nº 50.807, 16 DE JUNHO DE 1961.
 
 Transfere de D. Helvécio Gomes do Oliveira para a Preferira Municipal de Ervália a concessão para produção e o fornecimento de energia elétrica ao município de Ervália, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-047967-0-000-31-03-1960@@@
-
 DECRETO Nº 47.967, DE 31 DE MARÇO DE 1960.
 
 Transfere, sem aumento de despesa, função de Auxiliar Administrativo, referência “27”, da Tabela Numérica de Extranumerário-mensalista da Comissão da Vale do São Franscisco para a Tabela Única de Extranumerário-mensalista do Ministério da Fazenda.

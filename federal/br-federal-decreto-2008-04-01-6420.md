@@ -1,5 +1,3 @@
-###DEC-006420-0-000-01-04-2008@@@
-
 DECRETO Nº 6.420, DE 1º DE ABRIL DE 2008.
 
 Dá nova redação aos arts. 1o e 4o do Decreto no 6.106, de 30 de abril de 2007, que dispõe sobre a prova de regularidade fiscal perante a Fazenda Nacional.
@@ -27,5 +25,3 @@ Brasília, 1º de abril de 2008; 187o da Independência e 120o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 2.4.2008

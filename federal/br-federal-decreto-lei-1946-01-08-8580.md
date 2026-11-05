@@ -1,5 +1,3 @@
-###DEL-008580-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.580 – DE 8 DE JANEIRO DE 1946
 
 Dispõe sôbre o alistamento de brasileiros residentes em zonas sertanejas.

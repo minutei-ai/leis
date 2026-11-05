@@ -2,21 +2,15 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 > **LEI Nº 3.724, DE 13 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Defesa Sanitária Animal do Estado, e dispõe sobre matérias correlatas.</span></span></span></p></td></tr></tbody></table>
+Institui a Defesa Sanitária Animal do Estado, e dispõe sobre matérias correlatas.
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
-<br>
-
 **DISPOSIÇÕES PRELIMINARES**
 
-<br>
-
 **Art.1º** Esta lei institui, no Estado, a defesa sanitária animal e dispõe sobre matérias correlatas.
-
-<br>
 
 **Art. 2º** Integram, também, o conteúdo normativo desta lei as disposições dos Anexos I a V, nos seguintes termos:
 
@@ -30,13 +24,9 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **V -** Anexo V: do grupo especial de atenção à suspeita de enfermidades emergenciais ou exóticas, ainda por fazer.
 
-<br>
-
 **CAPÍTULO I**
 
 **Disposições Gerais sobre a Defesa Sanitária Animal**
-
-<br>
 
 **Art. 3º** A defesa sanitária animal compreende o conjunto de ações gerais e de medidas necessárias para propiciar:
 
@@ -54,49 +44,29 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **VII -** o alcance de outros objetivos ou o cumprimento de outras finalidades de interesse.
 
-<br>
-
 **Parágrafo único.** Para os efeitos desta lei, o exercício da defesa sanitária animal deve ser priorizado:
 
 **I -** o conjunto de ações de proteção dos rebanhos animais contra a introdução de doenças já erradicadas ou exóticas, e as respectivas ações impeditivas à propagação caso venham ser introduzidas; e
 
 **II -** o combate sistemático de doenças de ocorrência endêmica no Estado, mediante medidas de controle ou erradicação, inclusive, se necessário, com a eliminação de animais e a destruição de produtos e subprodutos de origem animal, de materiais biológicos e de resíduos de criação.
 
-<br>
-
 **CAPÍTULO II**
 
 **Das Atribuições e Finalidades**
 
-<br>
-
 **Art. 4º** Compete ao Instituto de Defesa Agropecuária e Florestal – IDAF/AC, objetivando a proteção da saúde pública e a valorização da produção: planejar, executar, coordenar, avaliar e supervisionar as políticas de defesa sanitária animal, por meio de programas gerais e especiais, competindo-lhe, ainda, fiscalizar a comercialização de produtos veterinários de uso na pecuária, insumos pecuários, além de outras competências que lhe forem legalmente delegadas.
-
-<br>
 
 **Parágrafo único.** O IDAF/AC estabelecerá os procedimentos práticos e proibições, bem como fiscalizações e vigilâncias necessárias à preservação e proteção da saúde animal utilizando medidas de controle, erradicação e prevenção de doenças.
 
-<br>
-
 **Art. 5º** A normatização, coordenação, execução, inspeção, fiscalização das medidas da defesa sanitária animal no Acre, bem como as ações de vigilância e prevenção são da competência do IDAF/AC, ressalvados os casos em que a legislação federal atribuir referida competência a outro órgão ou entidade.
-
-<br>
 
 **§ 1º** O IDAF/AC poderá requisitar a atuação e apoio dos órgãos e entidades do Poder Executivo para consecução de suas competências legais, sem prejuízo da solicitação de colaboração voluntária de órgãos e entidades da União, de outras unidades federativas e dos municípios, bem como de entidades privadas.
 
-<br>
-
 **§ 2º** As ações pertinentes à defesa sanitária animal, nos termos deste artigo, serão desenvolvidas em consonância com as diretrizes e normas estabelecidas pela União.
-
-<br>
 
 **§ 3º** Ressalvado o disposto na legislação federal, o IDAF/AC relacionará as doenças submetidas às medidas da defesa sanitária animal de acordo com os interesses do Estado.
 
-<br>
-
 **§ 4º** Na execução, inspeção, vigilância e fiscalização das medidas da defesa sanitária animal, é conferido ao IDAF/AC o poder de polícia administrativa, ficando consequentemente assegurado ao servidor designado para as atividades, no âmbito de suas atribuições, previstas nesta lei, o livre acesso a qualquer local que contenha animais, produtos e subprodutos de origem animal, insumos pecuários, materiais biológicos e resíduos de criação, passíveis das medidas zoossanitárias, observadas exclusivamente as disposições constitucionais inerentes à inviolabilidade de domicílio.
-
-<br>
 
 **Art. 6°** Ressalvada a competência da União, estão sujeitos aos atos de inspeção, vigilância, auditoria e fiscalização previstos nesta lei as pessoas naturais ou jurídicas, de direito público ou de direito privado que:
 
@@ -110,26 +80,19 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **V -** produzam, acondicionem, armazenem, embalem, transportem, comercializem ou manipulem resíduos de criação.
 
-<br>
-
 **Parágrafo único.** Os atos referidos no **caput** serão exercidos por servidores do grupo ocupacional de defesa agropecuária do IDAF/AC, com ressalva, as supervisões e auditorias internas, que serão executadas por auditores fiscais estaduais agropecuário com formação em medicina veterinária.
 
-**<br>
+**
+
 **
 
 **Art. 7º** O presidente do IDAF/AC estabelecerá, através de ato próprio, os prazos e condições para as campanhas de declaração de rebanhos com finalidade de atualização cadastral, observada a legislação federal pertinente.
 
-<br>
-
 **Art. 8°** O IDAF/AC, na execução das competências estabelecidas nesta lei, poderá celebrar convênios com a União, municípios e outras unidades federativas e com entidades privadas, tais como fundos privados, cooperativas agrícolas, sindicatos rurais e entidades de classes ligadas ao setor agropecuário.
-
-<br>
 
 **CAPÍTULO III**
 
 **Dos Deveres**
-
-<br>
 
 **Art. 9º** É compulsório ao administrado, sem prejuízo de outros:
 
@@ -169,23 +132,13 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **b)** os animais do rebanho, deverão ser marcados no máximo até o quinto mês de idade do animal.
 
-<br>
-
 **Art. 10.** Constatada a existência de doença infectocontagiosa, infecciosa, parasitária, exótica ou reintroduzida, denunciada ou não pelos produtores ou detentores de animais, o órgão oficial executor das atividades de defesa sanitária animal do Estado tomará as medidas necessárias conforme previstas em regulamento.
-
-<br>
 
 **Parágrafo único.** A norma deste artigo será aplicada em todo estabelecimento que mantenha em seu poder, a qualquer título, animais, produtos e subprodutos de origem animal, materiais biológicos, de multiplicação animal e quimioterápicos.
 
-<br>
-
 **Art. 11.** Quando por qualquer razão, as medidas previstas nesta lei ou em seu regulamento não forem executadas por aquele que lhe compete, estas serão realizadas pelo órgão oficial executor das atividades de defesa sanitária animal no Estado.
 
-<br>
-
 **Parágrafo único.** Sem prejuízo das penalidades cabíveis, toda e qualquer despesa decorrente das medidas a serem tomadas, que se refere o **caput** deste artigo, será de exclusiva responsabilidade do infrator, não lhe sendo cabível direito a indenização ou ressarcimento.
-
-<br>
 
 **Art. 12.** Para fins de prevenção, combate, controle e erradicação de doenças de interesse da defesa sanitária animal, o administrado compulsoriamente, propiciará condições adequadas de manejo, nutrição, profilaxia de doença, proteção, saúde ou tratamento de animais, determinada quantidade de cabeças ou unidades compatível com a dimensão:
 
@@ -194,8 +147,6 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 **II -** do bem destinado ou utilizado para a aglomeração, manutenção ou movimentação, especialmente quanto a boxe, curral, estábulo, gaiola, galpão ou veículo de transporte; e
 
 **III –** os lixões e aterros sanitários, deverão conter entrada controlada, e cercados por telas ou estruturas semelhantes, que impeça a entrada de animais.
-
-<br>
 
 **Art. 13.** É vedado ao administrado:
 
@@ -211,11 +162,7 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **e)** é objeto de restrição sanitária, tal como cama de aviário, excremento de suíno ou de outro animal, assim como outro insumo ou resíduo nocivo;
 
-<br>
-
 **Parágrafo único.** Em caso de omissão do administrado o IDAF/AC, adotará as medidas previstas em regulamento e normativas.
-
-<br>
 
 **Art. 14.** É vedado ainda ao administrado:
 
@@ -223,21 +170,13 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **II –** a criação e a permanência de animais em aterros sanitários ou lixões, bem como a retirada de restos de alimentos destes locais para a alimentação de animais.
 
-<br>
-
 **Parágrafo único.** Os animais e alimentos encontrados nestas condições serão apreendidos, sacrificados e ou destruídos sanitariamente, não cabendo indenização aos proprietários, sendo permitido o uso do rifle sanitário.
 
-<br>
-
 **Art. 15.** O administrado suportará todas as despesas resultantes das providências sanitárias realizadas, sem prejuízo de outras sanções cabíveis no caso.
-
-<br>
 
 **CAPÍTULO IV**
 
 **Das Fiscalizações, Proibições e Demais Procedimentos**
-
-<br>
 
 **Art. 16.** Na execução, inspeção e fiscalização das medidas de defesa sanitária animal, é conferido ao órgão oficial executor das atividades de defesa sanitária animal no Estado poder de polícia administrativa, tendo seus servidores, devidamente identificados, livre acesso aos locais que contenham animais, produtos e subprodutos de origem animal, materiais biológicos, de multiplicação animal e quimioterápicos, passíveis das medidas zoossanitárias adotadas em regulamento.
 
@@ -263,11 +202,7 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **X -** adotar medidas restritivas ao ingresso e ao trânsito e transporte no Estado, de animais, produtos e subprodutos de origem animal, material biológico, quimioterápico e de multiplicação animal, que possam colocar em risco a saúde dos animais do seu rebanho.
 
-<br>
-
 **Parágrafo único.** Por interesse da defesa sanitária animal ou para salvaguardar a saúde pública, o órgão oficial executor das atividades de defesa sanitária animal poderá determinar o sacrifício de animais, destruição de cadáveres, produtos e subprodutos construções, instalações e equipamentos.
-
-<br>
 
 **Art. 18.** É proibido, sem cadastro, registro, licenciamento ou credenciamento no órgão oficial executor das atividades de defesa sanitária animal no Estado, o funcionamento de estabelecimentos que:
 
@@ -285,208 +220,113 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **VII -** laboratórios que realizem exames de materiais coletados em animais, para diagnóstico de enfermidades.
 
-<br>
-
 **Art. 19.** O IDAF/AC poderá, em qualquer época e a interesse da defesa sanitária animal, determinar a vacinação, agrupamento, contenção ou realização de provas ou exames em animais, bem como determinar quais as espécies suscetíveis que serão passíveis de vacinação, testes ou conferências de rebanho.
-
-<br>
 
 **§ 1º** As exigências estabelecidas neste artigo estendem-se para todas as hipóteses em que ocorra aquisição, distribuição e manipulação de produtos e subprodutos de origem animal, material biológico e resíduos de criação, independentemente da qualidade ou característica da entidade, instituição ou estabelecimento.
 
-<br>
-
 **§ 2º** Para efeito de cumprimento das medidas a serem adotadas no **caput** deste artigo a autoridade veterinária poderá fazer o uso de quaisquer metodologias e ou tecnologias disponíveis.
-
-<br>
 
 **§ 3º** Os animais localizados em áreas circunscritas aos locais de eventos agropecuários ou aglomerações de animais, poderão ser submetidos a medidas sanitárias de acordo com cada caso e sob a análise técnica do serviço de defesa sanitária animal.
 
-<br>
-
 **§ 4º** Todas as medidas sanitárias de que trata o presente artigo serão custeados pelo proprietário, responsável ou detentor dos animais, dos produtos e subprodutos de origem animal, material biológico e resíduos de criação.
-
-<br>
 
 **Art. 20.** Em caso de notificação ou constatação de suspeita de doenças o atendimento deverá ocorrer num período não superior a doze horas.
 
-<br>
-
 **§ 1º** Apurada a suspeita de doença infecto-contagiosa, infecciosa ou parasitária, e o isolamento de animais for indicado para impedir sua propagação e a disseminação do agente causador, o serviço de defesa sanitária animal, sem prejuízo de outras medidas, poderá interditar os estabelecimentos suspeitos, bem como a área circunvizinha, de acordo com critérios técnicos científicos recomendados, a fim de evitar a possível disseminação da doença.
-
-<br>
 
 **§ 2°** Aplica-se integralmente a propriedades rurais, haras, hípicas, clube de laço, exposição e feiras agropecuárias, estabelecimentos confinadores de animais, recintos de leilões de animais, ranários, centrais de coleta de sêmen e embriões, e demais estabelecimentos criatórios de animais domésticos e silvestres ou detentores destes, a qualquer título, todas as medidas e providências definidas neste artigo.
 
-<br>
-
 **Art. 21.** Constatada a existência de doença infecto-contagiosa, infecciosa ou parasitária, e o isolamento de animais for indicado para impedir sua propagação e a disseminação do agente causador, o auditor fiscal estadual agropecuário com formação em medicina veterinária, sem prejuízo de outras medidas, interditará as propriedades rurais contaminadas ou sujeitas a contaminação, bem como a área circunvizinha, de acordo com critérios técnicos científicos recomendados, a fim de evitar a disseminação da doença, pelo período de tempo necessário à adoção das medidas sanitárias preconizadas para se evitar a disseminação da doença até sua total eliminação.
-
-<br>
 
 **Parágrafo único.** Aplica-se integralmente a propriedades rurais, haras, hípicas, clube de laço, exposição e feiras agropecuárias, estabelecimentos confinadores de animais, recintos de leilões de animais, ranários, centrais de coleta de sêmen e embriões, e demais estabelecimentos criatórios de animais domésticos e silvestres ou detentores destes, a qualquer título, todas as medidas e providências definidas neste artigo.
 
-<br>
-
 **Art. 22.** Para efeito de campanhas específicas de vacinação ou de campanhas declaratórias para atualizações cadastrais, onde se faça necessária a comprovação por parte do produtor, o IDAF/AC adotará documento padrão, com a finalidade de obtenção dos dados de identificação do produtor, do rebanho por sexo, categoria, aptidão, faixa etária e do produto utilizado, quando for o caso.
-
-<br>
 
 **CAPÍTULO V**
 
 **Do Trânsito e da Movimentação**
 
-<br>
-
 **Art. 23.** É de competência do órgão oficial executor das atividades de defesa sanitária animal no Estado, a emissão de documentos zoosanitários para trânsito de animais.
-
-<br>
 
 **§ 1º** A classificação da competência citada no **caput** do artigo será estabelecida como exclusiva ou privativa, em regulamento, de acordo com o risco sanitário que essas espécies possam oferecer ao rebanho do Estado.
 
 **§ 2º** Poderá o órgão oficial executor das atividades de defesa sanitária animal no Estado, se julgar necessário, promover o credenciamento de clínicas, hospitais veterinários ou médicos veterinários autônomos, para emissão dos documentos zoosanitários para o trânsito de animais, de acordo com a classificação prevista no § 1º deste artigo;
 
-<br>
-
 **Art. 24.** É vedado o trânsito, a movimentação e a transferência de titularidade de animais, no Estado, desacompanhados dos documentos zoossanitários e outros previstos pela defesa sanitária animal.
-
-<br>
 
 **§ 1º** Para o trânsito de resíduos de criação fica instituída, no Acre, a Guia de Trânsito de Resíduos - GTR, cujo modelo e disciplina serão estabelecidos pelo IDAF/AC.
 
 **I -** compete ao IDAF/AC definir e disciplinar o modelo da GTR.
 
-<br>
-
 **§ 2º** Aplicam-se as normas aos produtos e subprodutos de origem animal, material biológico e resíduos de criação.
 
-**<br>
+**
+
 **
 
 **§ 3º** Os transportadores de animais e os transportadores de produtos e subprodutos de origem animal, de materiais biológicos e resíduos de criação, que não estejam de posse dos documentos exigidos neste artigo, sem prejuízos de outras penalidades, ficam sujeitos às determinações que serão adotadas pela autoridade veterinária, definidas no decreto regulamentador.
 
-<br>
-
 **§ 4º** O infrator não terá direito a quaisquer ressarcimentos de despesas ou indenizações pelo descumprimento dos dispositivos desta lei.
-
-<br>
 
 **§ 5º** É obrigação do transportador de animais, de produtos de origem animal, de materiais biológicos ou resíduos de criação, exigir do proprietário, detentor ou possuidor, o documento zoossanitário ou outro previsto para o trânsito destes no território do Estado.
 
-<br>
-
 **§ 6°** O transportador de animais, de produtos de origem animal, de materiais biológicos ou resíduos de criação que não exigir e não estiver acompanhado dos documentos zoosanitários de que tratam o § 5º terá seu veículo de transporte retido ou retornará a origem, bem como, responderá solidariamente pelos atos infracionais e despesas decorrentes.
-
-<br>
 
 **§ 7º** Constatada a suspeita ou existência de doença infecto-contagiosa ou infecciosa em animais em trânsito, ainda que o seu transporte esteja acompanhado por documento zoossanitário, a autoridade veterinária adotará as medidas técnicas previstas no decreto regulamentador, sem prejuízo do disposto na legislação federal pertinente.
 
-<br>
-
 **§ 8º** Os veículos ou objetos com os quais houver contato de animais sabidamente contaminados ou, ainda, procedentes de áreas infectadas ou contaminadas, serão desinfetados ou esterilizados, conforme disciplinado por decreto regulamentador, podendo correr, neste caso, as despesas por conta do proprietário.
-
-<br>
 
 **§ 9º** No ato da emissão da GTA, o IDAF/AC poderá disciplinar a exigência de outros documentos de interesse à defesa sanitária animal.
 
-<br>
-
 **Art. 25.** Ao ser constatado desconformidade na documentação zoosanitária apresentada, e esta, com a carga, o trânsito será considerado desacobertado de documentação zoosanitária sem prejuízos de outras penalidades cabíveis, salvaguardado avaliações técnicas da autoridade veterinária.
-
-<br>
 
 **Art. 26.** O trânsito de animais em todas as modalidades no Estado deverá obedecer as rotas pré definidas e disciplinadas pelo IDAF/AC.
 
-<br>
-
 **Parágrafo único.** Para descrição da rota, também poderá ser utilizado o campo de observação da GTA.
-
-<br>
 
 **Art. 27.** Ficam os transportadores de animais, produtos e subprodutos de origem animal, de materiais biológicos e resíduos de criação obrigados a parar nas barreiras sanitárias realizadas pelo IDAF/AC ou mesmo de outros órgãos governamentais.
 
-<br>
-
 **Parágrafo único.** O IDAF/AC poderá celebrar convênios com entidades e instituições na forma preconizada, para a promoção da fiscalização em barreiras volantes e fixas.
-
-<br>
 
 **Art. 28.** Os veículos transportadores de animais somente poderão ingressar e transitar pelo território do Estado, após submetidos à limpeza e desinfecção quando vazios e apenas a desinfecção quando carregados.
 
-<br>
-
 **§ 1º** O condutor de veículo transportador de animais que resistir ao cumprimento do disposto no **caput** deste artigo, sem prejuízo de outras penalidades, ficará impedido de ingressar no Estado.
-
-<br>
 
 **§ 2º** O IDAF/AC poderá, a qualquer momento, suspender, totalmente ou em locais específicos, as medidas elencadas no **caput** deste artigo mediante apresentação de análise de risco.
 
-<br>
-
 **Art. 29.** Após cada transporte intraestadual de animais, o transportador fica obrigado a submeter o seu veículo a limpeza e desinfecção com produtos indicados pelo IDAF/AC.
-
-<br>
 
 **Parágrafo único.** O IDAF/AC poderá, a qualquer momento, suspender, totalmente ou em locais específicos, as medidas elencadas no **caput** deste artigo mediante apresentação de análise de risco.
 
-<br>
-
 **Art. 30.** O disposto nos arts. 28 e 29, aplicam-se integralmente às embarcações fluviais.
-
-<br>
 
 **Art. 31.** O ingresso de animais cujo destino for o Acre somente será permitido após a comprovação da existência de cadastro da exploração pecuária no serviço veterinário oficial.
 
-<br>
-
 **Art. 32.** A emissão de GTA’s interestaduais é necessário a comprovação de cadastro da exploração pecuária no órgão oficial de defesa sanitária animal no estado de destino.
-
-<br>
 
 **Art. 33.** Todos os veículos transportadores de animais, terrestre e fluvial, do Estado, deverão estar cadastrados junto ao IDAF/AC.
 
-<br>
-
 **Parágrafo único.** O cadastro referido no **caput** deste artigo deverá ser renovado anualmente.
-
-<br>
 
 **Art. 34.** Os responsáveis pelas explorações pecuárias de origem dos animais sujeitos ao controle sanitário oficial são obrigados a fornecer aos responsáveis pelas explorações pecuárias de destino os documentos zoossanitários exigidos nas normativas vigentes, com prazo de validade não expirado, correspondentes aos animais movimentados.
 
-<br>
-
 **§ 1°** Os responsáveis pelas explorações pecuárias de destino, dos animais sujeitos a controle sanitário oficial são obrigados a confirmar o recebimento dos animais no IDAF/AC no prazo não superior a quinze dias.
-
-<br>
 
 **§ 2°** Os transportadores de animais, e os transportadores de produtos e subprodutos de origem animal, de materiais biológicos e resíduos de criação são obrigados a portar os documentos sanitários e zoossanitários dispostos nas normativas vigentes, com prazo de validade não expirado.
 
-<br>
-
 **Art. 35.** O IDAF/AC, poderá a qualquer momento fiscalizar o embarque e ou o desembarque de animais, bem como dos produtos e subprodutos de origem animal e dos resíduos de criação.
-
-<br>
 
 **Parágrafo único.** Em casos de necessidade de prévia notificação, o IDAF/AC determinará os procedimentos para a execução das atividades fiscalizatórias prevista nesta norma.
 
-<br>
-
 **Art. 36.** O IDAF/AC poderá realizar controles e fiscalizações nas estações rodoviárias, empresas transportadoras, distribuidoras, empresas de correio em todo o Estado, visando impedir o ingresso de produtos e subprodutos de origem animal, material biológico e resíduos de criação que possam veicular agentes patogênicos.
-
-<br>
 
 **Parágrafo único.** Para garantir o controle previsto neste artigo o IDAF/AC fará inspeções aleatórias de bagagens, com abertura das mesmas se necessário.
 
-<br>
-
 **Art. 37.** Na fiscalização do trânsito de animais, produtos e subprodutos de origem animal, material biológico e resíduos de criação, o IDAF/AC, contará com a efetiva participação da Secretaria de Estado da Fazenda – SEFAZ, por seus órgãos de arrecadação e fiscalização, das Polícias Civil e Militar do Estado, bem como de outras instituições municipais ou federais.
-
-<br>
 
 **CAPÍTULO VI**
 
 **Dos Requisitos para o Funcionamento de Estabelecimentos que Processam Produtos e Subprodutos de Origem Animal e Congêneres**
-
-<br>
 
 **Art. 38.** O funcionamento de estabelecimento que receba, beneficie, manipule ou processe produtos e subprodutos de origem animal e resíduos de criação dependerá de:
 
@@ -494,141 +334,75 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **II -** cadastramento, caso o estabelecimento seja fiscalizado por outro órgão.
 
-<br>
-
 **§ 1º** Os estabelecimentos elencados no **caput** deste artigo são obrigados a exigir dos seus fornecedores, sem prejuízo do disposto na legislação federal pertinente, os documentos sanitários e zoossanitários.
-
-<br>
 
 **§ 2º** Os estabelecimentos elencados no **caput** deste artigo ficam obrigados a apresentar ao IDAF/AC, quando solicitados, os documentos zoossanitários dispostos nas normativas vigentes, independente da esfera fiscalizatória a eles vinculado.
 
-<br>
-
 **§ 3º** É vedado aos estabelecimentos abatedores receber animais desacompanhados de documentos zoossanitários, dispostos nas normativas vigentes com prazo expirado. Em casos excepcionais, ficará a critério do médico veterinário responsável pela inspeção a revalidação do documento zoosanitário.
-
-<br>
 
 **§ 4º** É vedado aos estabelecimentos laticinistas e congêneres receber leite proveniente de rebanhos que não comprovem a realização das medidas previstas pela defesa sanitária animal, nos prazos estabelecidos pelo IDAF/AC.
 
-<br>
-
 **Art. 39.** Quando o abate de animais for realizado para terceiros, aplicam-se integralmente as normas desta lei.
-
-<br>
 
 **CAPÍTULO VII**
 
 **Dos Requisitos para o Funcionamento das Aglomerações de Animais e Congêneres**
 
-<br>
-
 **Art. 40.** A realização de aglomerações de animais em recintos fixos ou móveis dependerá de autorização prévia do IDAF/AC, mediante cadastros e credenciamento dos agentes e/ou entidades promotoras de eventos pecuários.
-
-<br>
 
 **§ 1**° Fica vedado ao agente e/ou a entidade promotora de quaisquer eventos de aglomerações de animais permitirem o ingresso destes desacompanhados dos documentos zoosanitários compatíveis com as normativas sanitárias vigentes.
 
-<br>
-
 **§ 2°** O agente e/ou entidade promotora de quaisquer eventos de aglomerações de animais assumem o caráter de detentores temporários dos animais.
-
-<br>
 
 **§ 3°** O controle e a inspeção zoossanitária para o ingresso de animais nos recintos onde se realizarem as aglomerações de animais, poderão ser executados por médicos veterinários privados, desde que sejam credenciados pelo IDAF/AC para tal finalidade.
 
-<br>
-
 **§ 4°** As normas do **caput** deste artigo e de seus § 1°, 2° e 3º aplicam-se também às centrais de coleta de sêmen e embriões, laboratórios de análises e pesquisas veterinárias e quaisquer outras concentrações de animais
-
-<br>
 
 **§ 5°** Os responsáveis pelas aglomerações dos animais ficam obrigados a encaminhar ao IDAF/AC, nos prazos estipulados por esta, os controles estabelecidos em normas complementares.
 
-<br>
-
 **§ 6°** Para todo evento de aglomeração de animais é obrigatório o rastreamento das GTAs de egresso com as respectivas GTAs de ingresso.
 
-<br>
-
 **Art. 41.** Para a realização de eventos pecuários ditos como virtuais, o agente ou entidade promotora deverá comunicar o IDAF/AC com antecedência mínima de sete dias.
-
-<br>
 
 **CAPÍTULO VIII**
 
 **Dos Requisitos para o Funcionamento dos Estabelecimentos Industriais e de Revendas Agropecuárias**
 
-<br>
-
 **Art. 42.** O funcionamento dos estabelecimentos comerciais e industriais que se dedicam à produção e comercialização de produtos veterinários de uso na pecuária somente será permitido após credenciamento no IDAF/AC, mediante apresentação de registro no Ministério da Agricultura, Pecuária e Abastecimento - MAPA , quando for o caso.
-
-<br>
 
 **§ 1º** Compete ao IDAF/AC, a fiscalização das condições de estocagem, da validade, do controle da temperatura e da comercialização de vacinas.
 
-<br>
-
 **§ 2º** A fiscalização de que trata o § 1º poderá ser realizada inclusive quando já em poder de consumidores.
-
-<br>
 
 **§ 3º** É obrigatória à apreensão de produtos imunobiológicos com prazo de validade expirado, proibidos, não registrados nos órgãos competentes, fraudados, encontrados em mau estado de conservação e quando se apresentarem impróprios ao uso indicado, sem prejuízo das demais providências cabíveis.
 
-<br>
-
 **§ 4º** A conservação de produtos biológicos obedecerá às normas do MAPA.
-
-<br>
 
 **§ 5º** O recebimento de vacinas pelos estabelecimentos elencados no **caput** deste artigo somente poderá ser efetuado sob o acompanhamento de servidores do IDAF/AC.
 
-<br>
-
 **§ 6º** As exigências estabelecidas neste artigo estendem-se para todas as hipóteses em que ocorra aquisição, distribuição e manipulação de vacinas, independentemente da qualidade ou característica da entidade, instituição ou estabelecimento.
-
-<br>
 
 **§ 7º** As exigências estabelecidas no **caput** deste artigo estendem-se a centrais de coleta de sêmem e embriões, além de laboratórios de diagnóstico e análise de pesquisas veterinárias.
 
-<br>
-
 **Art. 43.** É vedado aos estabelecimentos comerciais e industriais que se dedicam à produção e comercialização de produtos para uso na pecuária emitir documentos que não correspondam a uma efetiva operação de venda.
-
-<br>
 
 **§ 1º** As exigências estabelecidas neste artigo estendem-se para todas as hipóteses em que ocorra aquisição, distribuição e manipulação de produtos para uso na pecuária, independentemente da qualidade ou característica da entidade, instituição ou estabelecimento.
 
-<br>
-
 **§ 2º** Os estabelecimentos referidos neste artigo ficam obrigados a remeter ao IDAF/AC, até o quinto dia útil de cada mês, relatório relativo à comercialização de vacinas constando inclusive o nome do produtor adquirente e o saldo em estoque, por partida e laboratório, na forma estabelecida em regulamento.
-
-<br>
 
 **§ 3º** A autoridade veterinária poderá a qualquer momento solicitar informações adicionais sobre o uso, manipulação, armazenagem, comercialização, bem como realizar fiscalizações sem avisos prévios.
 
-<br>
-
 **§ 4º** A comercialização e aplicação da vacina contra febre aftosa, no Estado obedecerá à legislação federal, cabendo ao presidente do IDAF/AC designar ato normativo que regulamente o ingresso, o trânsito, estocagem, a manipulação, a comercialização e a aplicação desta vacina no Estado, quando autorizado pelo MAPA;
 
-<br>
-
 **Art. 44.** É vedada a comercialização ambulante de produtos veterinários de uso na pecuária.
-
-<br>
 
 **CAPÍTULO IX**
 
 **Das Penalidades**
 
-<br>
-
 **Art. 45.** Os valores das multas serão fixados pela Unidade de Referência Fiscal - URF do Estado, ou outro índice que venha a substituí-la.
 
-<br>
-
 **Art. 46.** Compete ao servidor do IDAF/AC lavrar auto de infração, aplicar medidas técnicas, administrativas e sanções pecuniárias, conforme disposto no Anexo II desta lei.
-
-<br>
 
 **Parágrafo único.** Nos casos fortuitos, de força maior ou de miserabilidade, faculta-se à instância competente a aplicação da penalidade administrativa ou pecuniária.
 
@@ -636,11 +410,7 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **Dos Autos de Infração e do seu Procedimento Administrativo**
 
-<br>
-
 **Art. 47.** Todo o processo administrativo, julgamentos de defesas e demais procedimentos administrativos relacionados aos autos de infração lavrados por ocasião de inobservância da legislação de defesa sanitária animal serão disciplinados através de regulamento.
-
-<br>
 
 **Art. 48.** Sem prejuízo das responsabilidades civis e penais cabíveis e independentemente da imposição ou não de multas previstas no artigo antecedente, a autoridade veterinária, através do auditor fiscal estadual agropecuário, poderá aplicar as penalidades abaixo relacionadas:
 
@@ -664,29 +434,17 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **X -** destruição de produtos e subprodutos de origem animal, material biológico e resíduos de criação.
 
-<br>
-
 **Parágrafo único.** As penalidades previstas neste artigo serão aplicadas na forma da sua regulamentação.
-
-<br>
 
 **Art. 49.** O funcionário designado para as atividades de defesa sanitária animal, que encontrar embaraços à execução das medidas constantes desta lei e do seu regulamento, poderá requisitar das autoridades competentes o necessário apoio para o cumprimento de sua missão.
 
-<br>
-
 **Art. 50.** Sem prejuízo de outras penalidades, os estabelecimentos, empresas, instituições e entidades elencadas nos artigos desta lei que, após reincidência em um período de dois anos, infringirem os seus dispositivos, deverá ter o credenciamento cassado.
-
-<br>
 
 **CAPÍTULO XI**
 
 **Da Decretação de Estado de Alerta e de Emergência**
 
-<br>
-
 **Art. 51.** Nos casos de incidência de doenças ou mesmo suspeita de doenças que possam colocar em risco o rebanho do Estado, seja internamente ou verificados em outras unidades da federação ou ainda em País limítrofe, o IDAF/AC poderá adotar medidas restritivas do ingresso e trânsito de animais, seus produtos e subprodutos, bem como de materiais biológicos procedentes daquelas áreas.
-
-<br>
 
 **§ 1º** O presidente do IDAF/AC poderá, através de ato administrativo, indicar ao governador do Estado a:
 
@@ -694,45 +452,25 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **II -** decretar estado de emergência zoosanitária no caso de constatação de doenças.
 
-<br>
-
 **§ 2º** Declarado o estado de alerta ou emergência zoossanitária, o governador do Estado poderá, em caráter emergencial, efetuar contratação de pessoal por tempo determinado para prestação de serviços eventuais nas ações de defesa agropecuária, além da aquisição de materiais e disponibilização de demais recursos para o reestabelecimento da normalidade nas áreas envolvidas.
 
-<br>
-
 **Art. 52.** Nos casos em que o isolamento de animais for indicado para impedir a propagação de doenças e a disseminação dos agentes causadores, o IDAF/AC poderá interditar áreas geográficas do Estado pelo período de tempo necessário à sua total debelação.
-
-<br>
 
 **CAPÍTULO XII**
 
 **Do Sacrifício de Animais e Destruição dos Produtos e Subprodutos e Materiais Biológicos**
 
-<br>
-
 **Art. 53.** Fica instituído, no Estado, o uso do rifle sanitário para os casos em que o sacrifício de animais for imprescindível para a debelação e erradicação de doenças ou evitar sua propagação e a disseminação do agente causador, e os proprietários dos animais abatidos serão indenizados, nos termos do estabelecimento em regulamento.
-
-<br>
 
 **§ 1°** Sempre que, por interesse da defesa sanitária animal ou para salvaguardar a saúde pública e ou saúde animal, venha a ser determinado o sacrifício de animais, destruição de construções, instalações, equipamentos rurais, materiais biológicos ou resíduos de criação, caberá indenização ao respectivo proprietário, mediante prévia avaliação.
 
-<br>
-
 **§ 2°** As indenizações para os casos mencionados nesta norma serão tratados no decreto regulamentador.
-
-<br>
 
 **§ 3º** Não caberá indenização quando se tratar de raiva, peste bovina, anemia infecciosa equina, mormo, pseudo-raiva e outras doenças consideradas incuráveis ou letais, e para animais encontrados em lixões ou aterros sanitários.
 
-<br>
-
 **Art. 54.** Ficam proibidos, no Estado, o ingresso e o trânsito de animais, de produtos e subprodutos de origem animal, de materiais biológicos ou de qualquer outro produto provenientes de regiões da Federação ou de País limítrofe, que detenham estágio sanitário inferior ao alcançado pelo rebanho do Acre, sem a prévia autorização do IDAF/AC.
 
-<br>
-
 **Art. 55.** Aos animais, bem como aos produtos e subprodutos de origem animal, aos materiais biológicos, resíduos de criação e demais produtos encontrados dentro do território do Estado, sem documentos zoossanitários oficiais comprobatórios de sua origem ou em inconformidade no respectivo documento, e que por sua natureza constituam risco sanitário ao rebanho e à economia do Acre, contaminados ou não, serão aplicadas, sem ônus para o Estado, as medidas sanitárias cabíveis, sem direito à indenização.
-
-<br>
 
 **§ 1°** Sem prejuízo de outras penalidades, a infração ao disposto no **caput** deste artigo, implicará na adoção das seguintes medidas sanitárias:
 
@@ -742,41 +480,25 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **III –** destruição.
 
-<br>
-
 **§ 2°** As despesas decorrentes das medidas sanitárias citadas neste artigo serão cobradas do proprietário, responsável, detentor ou possuidor.
-
-<br>
 
 **Art. 56.** O controle e o combate aos endo e ectoparasitos ou outras doenças que acometam os animais domésticos e selvagens com a utilização de substâncias proibidas ou nocivas à saúde humana implicarão, obrigatoriamente, o sacrifício desses animais.
 
-<br>
-
 **Parágrafo único.** O proprietário dos animais sacrificados, sem prejuízo das sanções cíveis ou penais cabíveis, não terá direito a indenizações de quaisquer espécies.
-
-<br>
 
 **CAPÍTULO XIII**
 
 **Dos Serviços Prestados Pelo IDAF/AC**
 
-<br>
-
 **Art. 57.** Os recursos financeiros oriundos da arrecadação de emolumentos cobrados pela emissão de documentos zoossanitários, multa e outros pela prestação de serviços direcionados à sanidade animal destinam-se ao atendimento das despesas e investimentos do IDAF/AC.
 
 **Art. 58.** As definições para efeito desta lei e a tabela das taxas e emolumentos estão discriminadas nos termos do Anexo IV desta lei.
-
-<br>
 
 **CAPÍTULO XIV**
 
 **Do Conselho Estadual de Saúde e Defesa Animal**
 
-<br>
-
 **Art. 59.** Fica criado o Conselho Estadual de Saúde e Defesa Animal, com a finalidade de sugerir e acompanhar políticas e estratégias para ações da defesa sanitária animal, no âmbito do Estado, com vistas a execução de programas de prevenção, combate, controle e erradicação de doenças em animais.
-
-<br>
 
 **§ 1°** O Conselho Estadual de Saúde e Defesa Animal será integrado por sete membros e seus suplentes, representantes dos órgãos e entidades a seguir:
 
@@ -794,57 +516,31 @@ Modificada pela Lei nº [4.353, de 09 de Maio de 2024.](https://legis.ac.gov.br/
 
 **VII –** Secretaria de Estado de Saúde – SESACRE.
 
-<br>
-
 **§ 2°** Os membros representantes do conselho e seus respectivos suplentes serão indicados pelos titulares das secretarias de estado e das instituições a que estiverem vinculados, e nomeados pelo Governador do Estado para mandatos de dois anos, permitida uma recondução por igual período.
-
-<br>
 
 **§ 3°** Será presidente do conselho o presidente do órgão oficial executor das atividades de defesa sanitária animal no Estado.
 
-<br>
-
 **§ 4°** O presidente será substituído nas suas ausências ou impedimentos pelo representante da Superintendência Federal de Agricultura no Estado do Acre – SFA.
-
-<br>
 
 **§ 5°** A participação no Conselho Estadual de Saúde e Defesa Animal é considerada de relevante interesse público e não será remunerada.
 
-<br>
-
 **§ 6°** As demais competências e o funcionamento do conselho serão especificados em seu Regimento Interno.
-
-<br>
 
 **CAPÍTULO XV**
 
 **Das Disposições Gerais**
 
-<br>
-
 **Art. 60.** O servidor que deixar de cumprir ou infringir disposições desta lei sofrerá, conforme o regime jurídico a que estiver sujeito, as penalidades previstas na consolidação das leis do trabalho ou no estatuto dos servidores públicos civis do Estado e de suas autarquias, sendo ainda passível de outras penalidades legais.
-
-<br>
 
 **Art. 61.** O regulamento desta lei será aprovado por decreto do Poder Executivo, após a publicação desta lei.
 
-<br>
-
 **Parágrafo único.** No prazo previsto neste artigo, o IDAF/AC promoverá ampla campanha de divulgação e esclarecimento dos dispositivos desta lei, visando aos seguimentos por ela alcançados.
-
-<br>
 
 **Art. 62.** Todos que se enquadrarem nesta lei e que estejam em funcionamento na data da publicação do decreto regulamentador, terão um prazo de quinze dias para regularizarem suas situações junto ao IDAF/AC.
 
-<br>
-
 **Art. 63.** Esta Lei entra em vigor na data de sua publicação.
 
-<br>
-
 **Art. 64.** Fica revogada a Lei nº 1.486, de 17 de janeiro de 2003.
-
-<br>
 
 Rio Branco-Acre, 13 de abril de 2021, 133º da República, 119º do Tratado de Petrópolis e 60º do Estado do Acre.
 
@@ -855,8 +551,6 @@ Governador do Estado do Acre
 **ANEXO I**
 
 **Das Definições Em Geral**
-
-<br>
 
 **Art. 1º** Para os efeitos desta lei e do regulamento são estabelecidas as seguintes definições:
 
@@ -932,21 +626,113 @@ Governador do Estado do Acre
 
 **XXV -** vigilância veterinária: significa as atividades de vigilância no campo da saúde animal, incluindo aqui os aspectos estruturais ou de atenção veterinária.
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 **ANEXO II**
 
 **Das Sanções Pecuniárias**
 
 **Art. 1º** Sem prejuízo a outras penalidades cabíveis, os infratores serão punidos com multas, de acordo com a espécie e a categoria animal envolvida, conforme tabela abaixo:
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><span>Espécie/categoria</span></p></td><td valign="top"><p><span>Forma cálculo</span></p></td><td valign="top"><p><span>Valor URF-AC</span></p></td></tr><tr><td valign="top"><p><span>Bovina</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>2,5</span></p></td></tr><tr><td valign="top"><p><span>Bubalina</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>2,5</span></p></td></tr><tr><td valign="top"><p><span>Equina</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>2,5</span></p></td></tr><tr><td valign="top"><p><span>Muar</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>2,5</span></p></td></tr><tr><td valign="top"><p><span>Asinina</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>2,5</span></p></td></tr><tr><td valign="top"><p><span>Ovino</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>0,5</span></p></td></tr><tr><td valign="top"><p><span>Caprino</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>0,5</span></p></td></tr><tr><td valign="top"><p><span>Suídeos</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>0,5</span></p></td></tr><tr><td valign="top"><p><span>Aves1 dia</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>0,008+0,047URF (fixo)&nbsp;</span></p></td></tr><tr><td valign="top"><p><span>Ovos férteis</span></p></td><td valign="top"><p><span>por unidade</span></p></td><td valign="top"><p><span>0,008+0,047 URF (fixo)</span></p></td></tr><tr><td valign="top"><p><span>Demais aves</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>0,1</span></p></td></tr><tr><td valign="top"><p><span>Peixes Vivos</span></p></td><td valign="top"><p><span>por cabeça</span></p></td><td valign="top"><p><span>0,047</span></p></td></tr><tr><td valign="top"><p><span>Alevinos/ovos/cistos</span></p></td><td valign="top"><p><span>por milheiro</span></p></td><td valign="top"><p><span>1,0</span></p></td></tr><tr><td valign="top"><p><span>Pescado</span></p></td><td valign="top"><p><span>por tonelada</span></p></td><td valign="top"><p><span>25,0</span></p></td></tr><tr><td valign="top"><p><span>Demais espécies</span></p></td><td valign="top"><p><span>ato normativo presidente</span></p></td><td valign="top"><p><span>0,047 a 50 URF</span></p></td></tr><tr><td valign="top"><p><span>Amostra Laboratorial</span></p></td><td valign="top"><p><span>por amostra</span></p></td><td valign="top"><p><span>2,5</span></p></td></tr></tbody></table>
+Espécie/categoria
+
+Forma cálculo
+
+Valor URF-AC
+
+Bovina
+
+por cabeça
+
+2,5
+
+Bubalina
+
+por cabeça
+
+2,5
+
+Equina
+
+por cabeça
+
+2,5
+
+Muar
+
+por cabeça
+
+2,5
+
+Asinina
+
+por cabeça
+
+2,5
+
+Ovino
+
+por cabeça
+
+0,5
+
+Caprino
+
+por cabeça
+
+0,5
+
+Suídeos
+
+por cabeça
+
+0,5
+
+Aves1 dia
+
+por cabeça
+
+0,008+0,047URF (fixo)
+
+Ovos férteis
+
+por unidade
+
+0,008+0,047 URF (fixo)
+
+Demais aves
+
+por cabeça
+
+0,1
+
+Peixes Vivos
+
+por cabeça
+
+0,047
+
+Alevinos/ovos/cistos
+
+por milheiro
+
+1,0
+
+Pescado
+
+por tonelada
+
+25,0
+
+Demais espécies
+
+ato normativo presidente
+
+0,047 a 50 URF
+
+Amostra Laboratorial
+
+por amostra
+
+2,5
 
 **§ 1º** A tabela acima servirá de base de cálculo para as seguintes infrações:
 
@@ -964,11 +750,7 @@ Governador do Estado do Acre
 
 **VII -** animais vivos encontrados em lixões ou aterros sanitários.
 
-<br>
-
 **§ 2º** Nenhuma multa lavrada pelo IDAF poderá ser inferior a 0,047 URF (Unidade Referência Fiscal do Estado do Acre).
-
-<br>
 
 **§ 3º** Para as infrações abaixo os infratores serão punidos com multas, observando os incisos do § 1º e levando em conta a espécie e a categoria envolvida, conforme tabela do art. 1º deste anexo:
 
@@ -994,8 +776,6 @@ Governador do Estado do Acre
 
 **k)** por cabeça, os responsáveis pelas explorações pecuárias que aplicarem vacinas e outros medicamentos em desacordo com a legislação sanitária vigente, cumulativamente às espécies envolvidas. Será considerada agravante quando o responsável pela exploração já tiver sido autuado por este mesmo motivo. Neste caso, para efeito de cálculo, a multa deve ser aplicada em dobro.
 
-<br>
-
 **§ 4º** Para as infrações abaixo os infratores serão punidos com multas, observando os incisos do § 1º e levando em conta a espécie e a categoria envolvida, conforme tabela do art. 1º deste anexo, multiplicado por dois:
 
 **a)** por cabeça, os transportadores de animais que promoverem o ingresso e o trânsito de animais, no Estado, procedentes de regiões da federação de classificação de risco inferior, acompanhados ou não de documentos zoossanitários sem autorização oficial emitida pelo IDAF/AC, colocando ou não em risco a situação sanitária do rebanho e a economia do Estado, cumulativamente às espécies envolvidas;
@@ -1003,8 +783,6 @@ Governador do Estado do Acre
 **b)** por cabeça, os responsáveis pelas explorações pecuárias de destino de animais que promoverem o ingresso de animais, no Estado, procedentes de regiões da federação de classificação de risco inferior, acompanhados ou não de documentos zoossanitários, sem autorização oficial emitida pelo IDAF/AC, colocando ou não em risco a situação do rebanho e a economia do Estado, cumulativamente às espécies envolvidas; e
 
 **c)** por cabeça, aos médicos veterinários requisitantes de exame que se recusarem a identificar e marcar os animais positivos, acumuladamente às espécies envolvidas.
-
-<br>
 
 **§ 5º** Para as infrações abaixo os infratores serão punidos com multas, observando os incisos do § 1º e levando em conta a espécie e a categoria envolvida, conforme tabela do art. 1º deste anexo, multiplicado por quatro:
 
@@ -1020,8 +798,6 @@ Governador do Estado do Acre
 
 **f)** por cabeça, os proprietários, possuidores e detentores de animais que utilizarem em seu rebanho, substâncias proibidas ou não registradas nos órgãos competentes ou nocivas à saúde humana, cumulativamente às espécies envolvidas.
 
-<br>
-
 **§ 6º** Para a infração abaixo os infratores serão punidos com multas com a seguinte graduação, além de outras medidas sanitárias cabíveis:
 
 **I -** aos responsáveis pelas explorações pecuárias de animais sujeitos ao controle oficial que deixarem de declarar o rebanho em seu poder, com finalidade de campanhas de atualização cadastral, dentro dos prazos e condições fixados pelo IDAF/AC:
@@ -1033,8 +809,6 @@ Governador do Estado do Acre
 **c)** 0,02 URF por cabeça de aves.
 
 **II –** os responsáveis pelas explorações pecuárias de animais que deixarem de declarar seus rebanhos, além da multa disciplinada no inciso I, terá interditada temporariamente à exploração pecuária respectiva, com proibição de ingresso e egresso de animais, até a atualização cadastral.
-
-<br>
 
 **§ 7º** Para as demais infrações abaixo os infratores serão punidos com multas, com a seguinte graduação:
 
@@ -1122,27 +896,13 @@ Governador do Estado do Acre
 
 **a)** por auto de infração, os estabelecimentos criatórios, comerciais e agentes e entidades promotoras de aglomerações de animais que não cumprirem o disposto em auto de interdição necessária ao controle, vigilância ou eliminação de doenças constatadas, sem prejuízo de outras penalidades.
 
-<br>
-
-<br>
-
-<br>
-
-<br>
-
 **ANEXO III**
 
 **Do Parcelamento do Valor da Multa**
 
-<br>
-
 **Art. 1º** As multas aplicadas pelo IDAF/AC, em decorrência de inobservância da legislação de defesa agropecuária, inscritas ou não em dívida ativa, integram sua receita própria, incumbindo-lhe zelar pela efetiva recuperação de tais créditos.
 
-<br>
-
 **Art. 2º** Em relação aos créditos inscritos em dívida ativa, decorrentes de multas ou não, é facultado ao IDAF/AC o fornecimento das respectivas informações a entidades de proteção ao crédito. Bem como utilização do instituto previsto na Lei Federal n. 9.492, de 10 de setembro de 1997, e correspondente legislação estadual.
-
-<br>
 
 **Art. 3º** As multas de que trata o art. 1º deste anexo, a requerimento do interessado, e sem incidência de juros ou correção monetária, serem parceladas em até doze prestações mensais,
 
@@ -1150,31 +910,19 @@ Governador do Estado do Acre
 
 **II -** valor de cada parcela, na data do requerimento, não poderá ser inferior a três URF/AC.
 
-<br>
-
 **Art. 4º** O inadimplemento de qualquer parcela por período superior a sessenta dias corridos ensejará o vencimento antecipado da dívida, tornando-a integralmente exigível, inclusive quando à atualização monetária e juros, que incidirão consoante previsto na legislação de regência do Imposto sobre Circulação de Mercadorias e Serviços do Estado do Acre - ICMS.
-
-<br>
-
-<br>
-
-<br>
 
 **ANEXO IV**
 
 **Das Taxas e Emolumentos**
 
-<br>
-
 **Art. 1º** Os recursos que trata este artigo serão recolhidos diretamente ao IDAF/AC e os emolumentos cobrados de acordo com o que segue:
 
 **I –** a emissão de GTA para o transporte de animais será cobrada de acordo com a tabela disposta abaixo:
 
-<table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"><p><s><span><strong>Espécie (s) Animal (is) Grupo Animal/</strong></span></s></p><p><s><span><strong>Categoria Animal</strong></span></s></p></td><td valign="top"><p><s><span><strong>Unidade de cobrança</strong></span></s></p></td><td valign="top"><p><s><span><strong>Valor URF/AC</strong></span></s></p></td></tr><tr><td valign="top"><p><s><span>Bovídeos (bovinos e bubalinos), equídeos</span></s></p><p><s><span>(equino, muare asinino)</span></s></p></td><td valign="top"><p><s><span>Por animal</span></s></p></td><td valign="top"><p><s><span>0,039</span></s></p></td></tr><tr><td valign="top"><p><s><span>Ovinos, caprinos, suídeos (suínos e javalis)</span></s></p><p><s><span>e Taiassuídeos (cateto e quexada)</span></s></p></td><td valign="top"><p><s><span>Por animal</span></s></p></td><td valign="top"><p><s><span>0,016</span></s></p></td></tr><tr><td valign="top"><p><s><span>Aves de 1 dia</span></s></p></td><td valign="top"><p><s><span>A cada grupo de até 250 animais</span></s></p><p><s><span>Ou fração</span></s></p></td><td valign="top"><p><s><span>0,06</span></s></p></td></tr><tr><td valign="top"><p><s><span>Aves demais categoria</span></s></p></td><td valign="top"><p><s><span>A cada grupo de até 250 animais</span></s></p><p><s><span>Ou fração</span></s></p></td><td valign="top"><p><s><span>0,06</span></s></p></td></tr><tr><td valign="top"><p><s><span>Ovos férteis</span></s></p></td><td valign="top"><p><s><span>A cada grupo de até 250 ovos ou</span></s></p><p><s><span>Fração</span></s></p></td><td valign="top"><p><s><span>0,06</span></s></p></td></tr><tr><td rowspan="2" valign="top"><p><s><span>&nbsp;</span></s></p><p><s><span>Peixes-alevinos</span></s></p></td><td valign="top"><p><s><span>Até 3 milheiros</span></s></p></td><td valign="top"><p><s><span>0,05</span></s></p></td></tr><tr><td valign="top"><p><s><span>A partir de 3 milheiros, para cada</span></s></p><p><s><span>Milheiro ou fração adicional</span></s></p></td><td valign="top"><p><s><span>0,02</span></s></p></td></tr><tr><td valign="top"><p><s><span>Peixes-pescado</span></s></p></td><td valign="top"><p><s><span>Por tonelada ou fração</span></s></p></td><td valign="top"><p><s><span>0,1</span></s></p></td></tr><tr><td valign="top"><p><s><span>Peixes-adultos</span></s></p></td><td valign="top"><p><s><span>A cada grupo de até 250 animais</span></s></p><p><s><span>Ou fração</span></s></p></td><td valign="top"><p><s><span>0,05</span></s></p></td></tr><tr><td valign="top"><p><s><span>Peixes-ovos/gametas/larvas/pós-larvas</span></s></p></td><td valign="top"><p><s><span>A cada milhão ou fração</span></s></p></td><td valign="top"><p><s><span>0,08</span></s></p></td></tr><tr><td valign="top"><p><s><span>Peixes-ornamentais</span></s></p></td><td valign="top"><p><s><span>Por documento GTA</span></s></p></td><td valign="top"><p><s><span>0,08</span></s></p></td></tr><tr><td valign="top"><p><s><span>Qualquer outra espécie animal, grupo e/ou</span></s></p><p><s><span>Categoria animal não previsto anteriormente</span></s></p></td><td valign="top"><p><s><span>Por documento GTA</span></s></p></td><td valign="top"><p><span><s>0,08</s></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td valign="top"> <s>**Espécie (s) Animal (is) Grupo Animal/**</s> <s>**Categoria Animal**</s> </td><td valign="top"> <s>**Unidade de cobrança**</s> </td><td valign="top"> <s>**Valor URF/AC**</s> </td></tr><tr><td valign="top"> <s>Bovídeos (bovinos e bubalinos), equídeos</s> <s>(equino, muare asinino)</s> </td><td valign="top"> <s>Por animal</s> </td><td valign="top"> <s>0,039</s> </td></tr><tr><td valign="top"> <s>Ovinos, caprinos, suídeos (suínos e javalis)</s> <s>e Taiassuídeos (cateto e quexada)</s> </td><td valign="top"> <s>Por animal</s> </td><td valign="top"> <s>0,016</s> </td></tr><tr><td valign="top"> <s>Aves de 1 dia</s> </td><td valign="top"> <s>A cada grupo de até 250 animais</s> <s>Ou fração</s> </td><td valign="top"> <s>0,06</s> </td></tr><tr><td valign="top"> <s>Aves demais categoria</s> </td><td valign="top"> <s>A cada grupo de até 250 animais</s> <s>Ou fração</s> </td><td valign="top"> <s>0,06</s> </td></tr><tr><td valign="top"> <s>Ovos férteis</s> </td><td valign="top"> <s>A cada grupo de até 250 ovos ou</s> <s>Fração</s> </td><td valign="top"> <s>0,06</s> </td></tr><tr><td rowspan="2" valign="top"> <s>&nbsp;</s> <s>Peixes-alevinos</s> </td><td valign="top"> <s>Até 3 milheiros</s> </td><td valign="top"> <s>0,05</s> </td></tr><tr><td valign="top"> <s>A partir de 3 milheiros, para cada</s> <s>Milheiro ou fração adicional</s> </td><td valign="top"> <s>0,02</s> </td></tr><tr><td valign="top"> <s>Peixes-pescado</s> </td><td valign="top"> <s>Por tonelada ou fração</s> </td><td valign="top"> <s>0,1</s> </td></tr><tr><td valign="top"> <s>Peixes-adultos</s> </td><td valign="top"> <s>A cada grupo de até 250 animais</s> <s>Ou fração</s> </td><td valign="top"> <s>0,05</s> </td></tr><tr><td valign="top"> <s>Peixes-ovos/gametas/larvas/pós-larvas</s> </td><td valign="top"> <s>A cada milhão ou fração</s> </td><td valign="top"> <s>0,08</s> </td></tr><tr><td valign="top"> <s>Peixes-ornamentais</s> </td><td valign="top"> <s>Por documento GTA</s> </td><td valign="top"> <s>0,08</s> </td></tr><tr><td valign="top"> <s>Qualquer outra espécie animal, grupo e/ou</s> <s>Categoria animal não previsto anteriormente</s> </td><td valign="top"> <s>Por documento GTA</s> </td><td valign="top"> <s>0,08</s> </td></tr></tbody></table>
 
-<br>
-
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong><span>Espécie (s) Animal (is) / Grupo Animal/ Categoria Animal</span></strong></span></p></td><td><p><span><strong><span>Unidade de cobrança</span></strong></span></p></td><td><p><span><strong><span>Valor URF/AC</span></strong></span></p></td></tr><tr><td><p><span><span>Bovídeos (bovinos e bubalinos), equídeos (equino, muar e asinino)</span></span></p></td><td><p><span><span>Por animal</span></span></p></td><td><p><span><span>0,039</span></span></p></td></tr><tr><td><p><span><span>Ovinos, caprinos, suídeos (suínos e javalis) e taiassuídeos (cateto e quexada)</span></span></p></td><td><p><span><span>Por animal</span></span></p></td><td><p><span><span>0,008</span></span></p></td></tr><tr><td><p><span><span>Leitões de até 70 dias e suídeos (suínos e javalis)&nbsp;</span></span></p></td><td><p><span><span>Isento</span></span></p></td><td><p><span><span>Isento</span></span></p></td></tr><tr><td><p><span><span>Aves de até 1 dia (pintinhos)</span></span></p></td><td><p><span><span>Isento</span></span></p></td><td><p><span><span>Isento</span></span></p></td></tr><tr><td><p><span><span>Aves das demais categorias</span></span></p></td><td><p><span><span>A cada grupo de até 1.200 animais ou fração</span></span></p></td><td><p><span><span>0,06</span></span></p></td></tr><tr><td><p><span><span>Ovos férteis</span></span></p></td><td><p><span><span>A cada grupo de até 250 ovos ou fração</span></span></p></td><td><p><span><span>0,06</span></span></p></td></tr><tr><td rowspan="2"><p><span><span>Peixes alevinos</span></span></p></td><td><p><span><span>Até 3 milheiros</span></span></p></td><td><p><span><span>0,05</span></span></p></td></tr><tr><td><p><span><span>A partir de 3 milheiros, para cada milheiro ou fração adicional</span></span></p></td><td><p><span><span>0,02</span></span></p></td></tr><tr><td><p><span><span>Peixes pescados</span></span></p></td><td><p><span><span>Por tonelada ou fração</span></span></p></td><td><p><span><span>0,1</span></span></p></td></tr><tr><td><p><span><span>Peixes adultos</span></span></p></td><td><p><span><span>A cada grupo de até 250 animais ou fração</span></span></p></td><td><p><span><span>0,05</span></span></p></td></tr><tr><td><p><span><span>Peixes - ovos/gametas/larvas/pós-larvas</span></span></p></td><td><p><span><span>A cada milhão ou fração</span></span></p></td><td><p><span><span>0,08</span></span></p></td></tr><tr><td><p><span><span>Peixes ornamentais</span></span></p></td><td><p><span><span>Por documento (GTA)</span></span></p></td><td><p><span><span>0,08</span></span></p></td></tr><tr><td><p><span><span>Qualquer outra espécie animal, grupo e/ou categoria animal não prevista</span></span></p></td><td><p><span><span>Por documento (GTA)</span></span></p></td><td><p><span><span>0,08</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **Espécie (s) Animal (is) / Grupo Animal/ Categoria Animal** </td><td> **Unidade de cobrança** </td><td> **Valor URF/AC** </td></tr><tr><td> Bovídeos (bovinos e bubalinos), equídeos (equino, muar e asinino) </td><td> Por animal </td><td> 0,039 </td></tr><tr><td> Ovinos, caprinos, suídeos (suínos e javalis) e taiassuídeos (cateto e quexada) </td><td> Por animal </td><td> 0,008 </td></tr><tr><td> Leitões de até 70 dias e suídeos (suínos e javalis)&nbsp; </td><td> Isento </td><td> Isento </td></tr><tr><td> Aves de até 1 dia (pintinhos) </td><td> Isento </td><td> Isento </td></tr><tr><td> Aves das demais categorias </td><td> A cada grupo de até 1.200 animais ou fração </td><td> 0,06 </td></tr><tr><td> Ovos férteis </td><td> A cada grupo de até 250 ovos ou fração </td><td> 0,06 </td></tr><tr><td rowspan="2"> Peixes alevinos </td><td> Até 3 milheiros </td><td> 0,05 </td></tr><tr><td> A partir de 3 milheiros, para cada milheiro ou fração adicional </td><td> 0,02 </td></tr><tr><td> Peixes pescados </td><td> Por tonelada ou fração </td><td> 0,1 </td></tr><tr><td> Peixes adultos </td><td> A cada grupo de até 250 animais ou fração </td><td> 0,05 </td></tr><tr><td> Peixes - ovos/gametas/larvas/pós-larvas </td><td> A cada milhão ou fração </td><td> 0,08 </td></tr><tr><td> Peixes ornamentais </td><td> Por documento (GTA) </td><td> 0,08 </td></tr><tr><td> Qualquer outra espécie animal, grupo e/ou categoria animal não prevista </td><td> Por documento (GTA) </td><td> 0,08 </td></tr></tbody></table>
 
 (Tabela com redação dada pela Lei nº 4.353, de 09/05/2024)
 
@@ -1232,15 +980,7 @@ mais adicional de 0,0077 URF por folha adicional a partir da segunda folha.
 
 **XIII –** outros tipos de cadastros, certificados, documentos e registros que forem incorporados às práticas 3,00 URF, conforme portaria do presidente do IDAF/AC.
 
-<br>
-
 **§ 3º** As cobranças que tratam **caput** deste artigo referem-se a qualquer tipo de trânsito animal, qualquer finalidade ou forma de transporte, devendo ser aplicado para o trânsito intraestadual ou interestadual.
-
-<br>
-
-<br>
-
-<br>
 
 **ANEXO V**
 
@@ -1268,15 +1008,9 @@ mais adicional de 0,0077 URF por folha adicional a partir da segunda folha.
 
 **VII -** elaborar e alterar o seu regimento interno.
 
-<br>
-
 **Art. 3º** O GEASE/AC tem atuação em todo o território do Estado.
 
-<br>
-
 **Parágrafo único.** O GEASE/AC atuará em consonância com as diretrizes e estratégias do MAPA.
-
-<br>
 
 **Art. 4º** Os trabalhos do GEASE/AC são realizados, conforme a necessidade:
 
@@ -1284,19 +1018,14 @@ mais adicional de 0,0077 URF por folha adicional a partir da segunda folha.
 
 **II -** externamente, em qualquer local disponibilizado para os fins propostos.
 
-**<br>
+**
+
 **
 
 **Art. 5º** Incumbe aos agentes públicos e aos representantes das entidades vinculadas ao GEASE/AC, assim como aos participantes voluntários de suas ações, a alocação, provimento e viabilização dos meios e recursos institucionais, humanos, financeiros, materiais e técnicos necessários para a execução dos trabalhos do grupo.
 
-<br>
-
 **Art. 6º** As pessoas habilitadas para o exercício de atividades no GEASE/AC são requisitadas dentre os servidores ou empregados dos quadros de pessoal dos órgãos ou entidades vinculados ou participantes e designadas por ato do coordenador-geral.
 
-<br>
-
 **Parágrafo único.** A designação do coordenador-geral será estabelecida por ato administrativo do diretor técnico do IDAF/AC.
-
-<br>
 
 **Art. 7º** A composição, bem como as demais disposições finais sobre a atuação do GEASE/AC serão tratadas pelo decreto regulamentador.

@@ -1,5 +1,3 @@
-###DEC-071845-0-000-16-02-1973@@@
-
 DECRETO Nº 71.845, DE 16 DE FEVEREIRO DE 1973.
 
 Concede à Sociedade Anônima de Mineração de Amianto o direito de lavrar amianto no Município de Uruaçu, Estado de Goiás.

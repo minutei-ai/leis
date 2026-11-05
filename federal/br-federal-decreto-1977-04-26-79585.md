@@ -1,5 +1,3 @@
-###DEC-079585-0-000-26-04-1977@@@
-
 DECRETO Nº 79.585, DE 26 DE ABRIL DE 1977.
 
 Concede à Empresa de Desenvolvimento de Recursos Minerais  \- CODEMIN S.A. o direito de lavrar minério de níquel no Município de Niquelândia, Estado de Goiás.

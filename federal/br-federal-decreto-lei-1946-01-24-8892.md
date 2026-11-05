@@ -1,5 +1,3 @@
-###DEL-008892-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.892 – DE 24 DE JANEIRO DE 1946
 
 Eleva padrão de vencimento e dá outras providências.

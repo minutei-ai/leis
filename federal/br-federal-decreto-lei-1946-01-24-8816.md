@@ -1,5 +1,3 @@
-###DEL-008816-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.816 – DE 24 DE JANEIRO DE 1946
 
 Concede  isenção do impôsto do sêlo

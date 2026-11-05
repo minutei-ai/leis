@@ -6,24 +6,484 @@ Dá nova redação ao Anexo da Lei nº 4.282, de 14 de dezembro de 2012, que est
 
 Publicada no Diário Oficial nº 10.710, de 17 de dezembro de 2021, páginas 33 e 34.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º O Anexo da [Lei n<del>º</del> 4.282, de 14 de dezembro de 2012](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/8ca10702c914c2f684257ad7004504d0?OpenDocument), passa a vigorar com a redação constante do Anexo desta Lei.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º O Anexo da [Lei n~~º~~ 4.282, de 14 de dezembro de 2012](https://aacpdappls.net.ms.gov.br/appls/legislacao/secoge/govato.nsf/448b683bce4ca84704256c0b00651e9d/8ca10702c914c2f684257ad7004504d0?OpenDocument), passa a vigorar com a redação constante do Anexo desta Lei.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 16 de dezembro de 2021.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
-Governador do Estado<br>
+REINALDO AZAMBUJA SILVA
 
-<br>
-ANEXO DA LEI N<del>º</del> 5.797, DE 16 DE DEZEMBRO DE 2021.<br>
+Governador do Estado
 
-Anexo da Lei n<del>º</del> 4.282, de 14 de dezembro de 2012.<br>
-<br>
+ANEXO DA LEI N~~º~~ 5.797, DE 16 DE DEZEMBRO DE 2021.
+
+Anexo da Lei n~~º~~ 4.282, de 14 de dezembro de 2012.
+
 DETRAN-MS TABELA DE SERVIÇOS
 
-<table><tbody><tr><td><div>CÓDIGOS</div></td><td><div>DESCRIÇÃO</div></td><td><div>UFERMS</div></td></tr><tr><td><div>1001</div></td><td>GEREN. PROCESSO - EXAME/REEXAME PSICOLÓGICO (CAPITAL)</td><td><div>0,72</div></td></tr><tr><td><div>1002</div></td><td>GEREN. PROCESSO - EXAME ESPECIAL POR JUNTA PSICOLÓGICA</td><td><div>0,72</div></td></tr><tr><td><div>1004</div></td><td>GEREN. PROCESSO - EXAME ESPECIAL POR JUNTA MÉDICA</td><td><div>0,72</div></td></tr><tr><td><div>1005</div></td><td>EXAME PARA FINS PEDAGÓGICOS</td><td><div>3,66</div></td></tr><tr><td><div>1006</div></td><td>GEREN. PROCESSO - EXAME/REEXAME DE APTIDÃO FÍSICA E MENTAL (CAPITAL)</td><td><div>0,88</div></td></tr><tr><td><div>1007</div></td><td>CRED. MÉDICO/PSICOL/ANUAL</td><td><div>8,50</div></td></tr><tr><td><div>1009</div></td><td>VALIDAÇÃO DE CADASTRO DE PROCESSO</td><td><div>1,96</div></td></tr><tr><td><div>1010</div></td><td>AUTORIZAÇÃO PARA ESTRANGEIRO</td><td><div>1,70</div></td></tr><tr><td><div>1011</div></td><td>EMISSÃO DE PPD OU CNH</td><td><div>1,87</div></td></tr><tr><td><div>1012</div></td><td>GEREN. PROCESSO - EXAME/REEXAME PSICOLÓGICO (INTERIOR)</td><td><div>0,37</div></td></tr><tr><td><div>1013</div></td><td>GEREN. PROCESSO - EXAME/REEXAME DE APTIDÃO FÍSICA E MENTAL (INTERIOR)</td><td><div>0,59</div></td></tr><tr><td><div>2001</div></td><td>EMISSÃO CRV- 1º EMPLACAMENTO</td><td><div>7,00</div></td></tr><tr><td><div>2002</div></td><td>EMISSÃO CRV- ALTERAÇÃO CARACT.</td><td><div>7,00</div></td></tr><tr><td><div>2003</div></td><td>EMISSÃO CRV - AQUISIÇÃO</td><td><div>7,00</div></td></tr><tr><td><div>2005</div></td><td>REEMISSÃO DE CRV</td><td><div>1,70</div></td></tr><tr><td><div>2006</div></td><td>LIC. VEÍCULO - NO PRAZO</td><td><div>4,53</div></td></tr><tr><td><div>2007</div></td><td>LIC. VEÍCULO - EM ATRASO</td><td><div>5,88</div></td></tr><tr><td><div>2008</div></td><td>INCLUSÃO DE GRAVAME</td><td><div>5,00</div></td></tr><tr><td><div>2010</div></td><td>VISTORIA VEÍC. FINS DIVERSOS</td><td><div>2,13</div></td></tr><tr><td><div>2012</div></td><td>LICENÇA PÁRA-BRISA (MS)</td><td><div>1,00</div></td></tr><tr><td><div>2015</div></td><td>REM. VEÍC. (LEVE) ATÉ 30 KM</td><td><div>2,55</div></td></tr><tr><td><div>2016</div></td><td>REM. VEÍC. (LEVE) FRAÇÃO DE KM</td><td><div>0,06</div></td></tr><tr><td><div>2017</div></td><td>ESTADIA DE VEÍCULO</td><td><div>0,60</div></td></tr><tr><td><div>2018</div></td><td>REGISTRO ANUAL OFICINAS</td><td><div>3,40</div></td></tr><tr><td><div>2019</div></td><td>REGISTRO DE LIVROS</td><td><div>0,85</div></td></tr><tr><td><div>2020</div></td><td>PLACA DE EXPERIÊNCIA</td><td><div>3,40</div></td></tr><tr><td><div>2022</div></td><td>CRED. AGENTE FINANC. SNG</td><td><div>42,50</div></td></tr><tr><td><div>2023</div></td><td>CANCELAMENTO REG. INICIAL</td><td><div>5,10</div></td></tr><tr><td><div>2024</div></td><td>ESTADIA VEÍCULOS TIPOS 2 A 5</td><td><div>0,13</div></td></tr><tr><td><div>2026</div></td><td>VISTORIA</td><td><div>4,25</div></td></tr><tr><td><div>2027</div></td><td>ESTADIA VEÍC. - REM. ACIDENTE</td><td><div>0,13</div></td></tr><tr><td><div>2028</div></td><td>ESTADIA VEÍC. 2-5 - REM. ACID.</td><td><div>0,04</div></td></tr><tr><td><div>2029</div></td><td>EMISSÃO CRV/INCL. GNV/REG. CONTRATO</td><td><div>6,12</div></td></tr><tr><td><div>2030</div></td><td>EMI. CRV - INC/EXC GRAVA. PROPR.</td><td><div>6,12</div></td></tr><tr><td><div>2031</div></td><td>EMISSÃO CRV MESMO PROPRIETÁRIO</td><td><div>0,85</div></td></tr><tr><td><div>2032</div></td><td>ESTADIA DE SIDE-CAR</td><td><div>0,09</div></td></tr><tr><td><div>2033</div></td><td>ESTADIA SIDE-CAR REMOCÃO ACIDENTE</td><td><div>0,03</div></td></tr><tr><td><div>2034</div></td><td>EMI. CRV 1º EMP. ALT. CARACTERÍSTICA</td><td><div>7,00</div></td></tr><tr><td><div>3002</div></td><td>PERMISSÃO COND. VEÍC. EXTERIOR</td><td><div>5,00</div></td></tr><tr><td><div>3003</div></td><td>REL./CERT. PROP/BUSCA PROC.</td><td><div>1,70</div></td></tr><tr><td><div>3005</div></td><td>AUTORIZAÇÃO ALT. CARAC. VEÍC.</td><td><div>1,98</div></td></tr><tr><td><div>3007</div></td><td>BAIXA VEÍC. (SUCATA/FURTO/ROUBO)</td><td><div>1,00</div></td></tr><tr><td><div>3011</div></td><td>CREDENCIAMENTO GUINCHO</td><td><div>5,67</div></td></tr><tr><td><div>3012</div></td><td>CREDEN. REVENDA VEÍC/OFICINA</td><td><div>4,25</div></td></tr><tr><td><div>3013</div></td><td>AUTORIZAÇÃO TRANSP. ESCOLAR</td><td><div>2,13</div></td></tr><tr><td><div>3014</div></td><td>CREDENCIAMENTO ANUAL EMPRESAS</td><td><div>4,25</div></td></tr><tr><td><div>3015</div></td><td>CREDENCIAMENTO C.F.C.</td><td><div>18,42</div></td></tr><tr><td><div>3016</div></td><td>CADASTRAMENTO DESPACHANTE</td><td><div>6,26</div></td></tr><tr><td><div>3018</div></td><td>CREDENCIAMENTO DIRETOR/INSTRUTOR</td><td><div>2,55</div></td></tr><tr><td><div>3019</div></td><td>CREDENCIAL DIR./INSTR./EXAMINADOR</td><td><div>1,02</div></td></tr><tr><td><div>3020</div></td><td>LIC. INSTRUTOR AUTÔNOMO</td><td><div>0,51</div></td></tr><tr><td><div>3021</div></td><td>CURSO C. HORÁRIA ATÉ 19 H/A</td><td><div>1,70</div></td></tr><tr><td><div>3022</div></td><td>COMPLEMENTAÇÃO GUIAS</td><td><div>0,00</div></td></tr><tr><td><div>3030</div></td><td>CURSO ATUAL. RENOVA C.N.H</td><td><div>1,70</div></td></tr><tr><td><div>3031</div></td><td>CURSO C. HORÁRIA +20 -45 H/A</td><td><div>5,00</div></td></tr><tr><td><div>3032</div></td><td>CURSO C. HORÁRIA +45 -60 H/A</td><td><div>10,00</div></td></tr><tr><td><div>3033</div></td><td>CURSO C. HORÁRIA +60 -100 H/A</td><td><div>15,00</div></td></tr><tr><td><div>3034</div></td><td>CURSO C. HORÁRIA +100 H/A</td><td><div>20,00</div></td></tr><tr><td><div>3035</div></td><td>CERTIFICADO CURSO - 2ª VIA</td><td><div>0,85</div></td></tr><tr><td><div>3036</div></td><td>REG. CURSO ESPECIALIZAÇÃO</td><td><div>1,13</div></td></tr><tr><td><div>3037</div></td><td>CRED. ENTIDADE ÁREA PSIC/MED.</td><td><div>4,25</div></td></tr><tr><td><div>3038</div></td><td>VISTORIA CFC/ENT 200 KM</td><td><div>13,35</div></td></tr><tr><td><div>3039</div></td><td>VISTORIA CFC/ENT +200 KM</td><td><div>22,14</div></td></tr><tr><td><div>3040</div></td><td>CRED. ESP. CONCESS/REVENDA</td><td><div>18,42</div></td></tr><tr><td><div>3041</div></td><td>ENVIO DOCUMENTO RESIDÊNCIA</td><td><div>0,43</div></td></tr><tr><td><div>3042</div></td><td>RELACRAÇÃO DE PLACA</td><td><div>1,28</div></td></tr><tr><td><div>3044</div></td><td>ESCOLHA NÚMERO PLACA</td><td><div>8,50</div></td></tr><tr><td><div>3045</div></td><td>REM. VEÍC. (MÉDIO) ATÉ 30 KM</td><td><div>5,10</div></td></tr><tr><td><div>3046</div></td><td>REM. VEÍC. (MÉDIO) FRAÇÃO DE KM</td><td><div>0,12</div></td></tr><tr><td><div>3047</div></td><td>EXAME/REEXAME TEÓRICO-TÉCNICO</td><td><div>1,70</div></td></tr><tr><td><div>3050</div></td><td>EXAME/REEXAME PRÁTICO</td><td><div>2,55</div></td></tr><tr><td><div>3053</div></td><td>RELATÓRIO BAIXA COMPLEX.</td><td><div>21,25</div></td></tr><tr><td><div>3054</div></td><td>RELATÓRIO MÉDIA COMPLEX.</td><td><div>25,50</div></td></tr><tr><td><div>3055</div></td><td>RELATÓRIO ALTA COMPLEX.</td><td><div>42,50</div></td></tr><tr><td><div>3058</div></td><td>REM. VEÍC. (PESADO) ATÉ 30 KM</td><td><div>15,30</div></td></tr><tr><td><div>3059</div></td><td>REM. VEÍC. (PESADO) FRAÇÃO DE KM</td><td><div>0,34</div></td></tr></tbody></table>
+CÓDIGOS
+
+DESCRIÇÃO
+
+UFERMS
+
+1001
+
+GEREN. PROCESSO - EXAME/REEXAME PSICOLÓGICO (CAPITAL)
+
+0,72
+
+1002
+
+GEREN. PROCESSO - EXAME ESPECIAL POR JUNTA PSICOLÓGICA
+
+0,72
+
+1004
+
+GEREN. PROCESSO - EXAME ESPECIAL POR JUNTA MÉDICA
+
+0,72
+
+1005
+
+EXAME PARA FINS PEDAGÓGICOS
+
+3,66
+
+1006
+
+GEREN. PROCESSO - EXAME/REEXAME DE APTIDÃO FÍSICA E MENTAL (CAPITAL)
+
+0,88
+
+1007
+
+CRED. MÉDICO/PSICOL/ANUAL
+
+8,50
+
+1009
+
+VALIDAÇÃO DE CADASTRO DE PROCESSO
+
+1,96
+
+1010
+
+AUTORIZAÇÃO PARA ESTRANGEIRO
+
+1,70
+
+1011
+
+EMISSÃO DE PPD OU CNH
+
+1,87
+
+1012
+
+GEREN. PROCESSO - EXAME/REEXAME PSICOLÓGICO (INTERIOR)
+
+0,37
+
+1013
+
+GEREN. PROCESSO - EXAME/REEXAME DE APTIDÃO FÍSICA E MENTAL (INTERIOR)
+
+0,59
+
+2001
+
+EMISSÃO CRV- 1º EMPLACAMENTO
+
+7,00
+
+2002
+
+EMISSÃO CRV- ALTERAÇÃO CARACT.
+
+7,00
+
+2003
+
+EMISSÃO CRV - AQUISIÇÃO
+
+7,00
+
+2005
+
+REEMISSÃO DE CRV
+
+1,70
+
+2006
+
+LIC. VEÍCULO - NO PRAZO
+
+4,53
+
+2007
+
+LIC. VEÍCULO - EM ATRASO
+
+5,88
+
+2008
+
+INCLUSÃO DE GRAVAME
+
+5,00
+
+2010
+
+VISTORIA VEÍC. FINS DIVERSOS
+
+2,13
+
+2012
+
+LICENÇA PÁRA-BRISA (MS)
+
+1,00
+
+2015
+
+REM. VEÍC. (LEVE) ATÉ 30 KM
+
+2,55
+
+2016
+
+REM. VEÍC. (LEVE) FRAÇÃO DE KM
+
+0,06
+
+2017
+
+ESTADIA DE VEÍCULO
+
+0,60
+
+2018
+
+REGISTRO ANUAL OFICINAS
+
+3,40
+
+2019
+
+REGISTRO DE LIVROS
+
+0,85
+
+2020
+
+PLACA DE EXPERIÊNCIA
+
+3,40
+
+2022
+
+CRED. AGENTE FINANC. SNG
+
+42,50
+
+2023
+
+CANCELAMENTO REG. INICIAL
+
+5,10
+
+2024
+
+ESTADIA VEÍCULOS TIPOS 2 A 5
+
+0,13
+
+2026
+
+VISTORIA
+
+4,25
+
+2027
+
+ESTADIA VEÍC. - REM. ACIDENTE
+
+0,13
+
+2028
+
+ESTADIA VEÍC. 2-5 - REM. ACID.
+
+0,04
+
+2029
+
+EMISSÃO CRV/INCL. GNV/REG. CONTRATO
+
+6,12
+
+2030
+
+EMI. CRV - INC/EXC GRAVA. PROPR.
+
+6,12
+
+2031
+
+EMISSÃO CRV MESMO PROPRIETÁRIO
+
+0,85
+
+2032
+
+ESTADIA DE SIDE-CAR
+
+0,09
+
+2033
+
+ESTADIA SIDE-CAR REMOCÃO ACIDENTE
+
+0,03
+
+2034
+
+EMI. CRV 1º EMP. ALT. CARACTERÍSTICA
+
+7,00
+
+3002
+
+PERMISSÃO COND. VEÍC. EXTERIOR
+
+5,00
+
+3003
+
+REL./CERT. PROP/BUSCA PROC.
+
+1,70
+
+3005
+
+AUTORIZAÇÃO ALT. CARAC. VEÍC.
+
+1,98
+
+3007
+
+BAIXA VEÍC. (SUCATA/FURTO/ROUBO)
+
+1,00
+
+3011
+
+CREDENCIAMENTO GUINCHO
+
+5,67
+
+3012
+
+CREDEN. REVENDA VEÍC/OFICINA
+
+4,25
+
+3013
+
+AUTORIZAÇÃO TRANSP. ESCOLAR
+
+2,13
+
+3014
+
+CREDENCIAMENTO ANUAL EMPRESAS
+
+4,25
+
+3015
+
+CREDENCIAMENTO C.F.C.
+
+18,42
+
+3016
+
+CADASTRAMENTO DESPACHANTE
+
+6,26
+
+3018
+
+CREDENCIAMENTO DIRETOR/INSTRUTOR
+
+2,55
+
+3019
+
+CREDENCIAL DIR./INSTR./EXAMINADOR
+
+1,02
+
+3020
+
+LIC. INSTRUTOR AUTÔNOMO
+
+0,51
+
+3021
+
+CURSO C. HORÁRIA ATÉ 19 H/A
+
+1,70
+
+3022
+
+COMPLEMENTAÇÃO GUIAS
+
+0,00
+
+3030
+
+CURSO ATUAL. RENOVA C.N.H
+
+1,70
+
+3031
+
+CURSO C. HORÁRIA +20 -45 H/A
+
+5,00
+
+3032
+
+CURSO C. HORÁRIA +45 -60 H/A
+
+10,00
+
+3033
+
+CURSO C. HORÁRIA +60 -100 H/A
+
+15,00
+
+3034
+
+CURSO C. HORÁRIA +100 H/A
+
+20,00
+
+3035
+
+CERTIFICADO CURSO - 2ª VIA
+
+0,85
+
+3036
+
+REG. CURSO ESPECIALIZAÇÃO
+
+1,13
+
+3037
+
+CRED. ENTIDADE ÁREA PSIC/MED.
+
+4,25
+
+3038
+
+VISTORIA CFC/ENT 200 KM
+
+13,35
+
+3039
+
+VISTORIA CFC/ENT +200 KM
+
+22,14
+
+3040
+
+CRED. ESP. CONCESS/REVENDA
+
+18,42
+
+3041
+
+ENVIO DOCUMENTO RESIDÊNCIA
+
+0,43
+
+3042
+
+RELACRAÇÃO DE PLACA
+
+1,28
+
+3044
+
+ESCOLHA NÚMERO PLACA
+
+8,50
+
+3045
+
+REM. VEÍC. (MÉDIO) ATÉ 30 KM
+
+5,10
+
+3046
+
+REM. VEÍC. (MÉDIO) FRAÇÃO DE KM
+
+0,12
+
+3047
+
+EXAME/REEXAME TEÓRICO-TÉCNICO
+
+1,70
+
+3050
+
+EXAME/REEXAME PRÁTICO
+
+2,55
+
+3053
+
+RELATÓRIO BAIXA COMPLEX.
+
+21,25
+
+3054
+
+RELATÓRIO MÉDIA COMPLEX.
+
+25,50
+
+3055
+
+RELATÓRIO ALTA COMPLEX.
+
+42,50
+
+3058
+
+REM. VEÍC. (PESADO) ATÉ 30 KM
+
+15,30
+
+3059
+
+REM. VEÍC. (PESADO) FRAÇÃO DE KM
+
+0,34

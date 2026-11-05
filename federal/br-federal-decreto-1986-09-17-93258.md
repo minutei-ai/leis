@@ -1,5 +1,3 @@
-###DEC-093258-0-000-17-09-1986@@@
-
 DECRETO Nº 93.258, DE 17 DE SETEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO SOCIEDADE EDUCADORA CARIRI LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Crato, Estado do Ceará.

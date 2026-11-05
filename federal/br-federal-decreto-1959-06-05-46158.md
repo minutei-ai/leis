@@ -1,5 +1,3 @@
-###DEC-046158-0-000-05-06-1959@@@
-
 DECRETO Nº 46.158, DE 17 DE JUNHO DE 1959.
 
 Autoriza o cidadão brasileiro João Hilário da Cunha a pesquisar esteatita no município de Congonhas Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-052036-0-000-21-05-1963@@@
-
 DECRETO Nº 52.036, DE 21 DE MAIO DE 1963.
 
 Dispõe sôbre a realização das Assembléias Gerais do Instituto Brasileiro de Geografia e estatística, em 1963.

@@ -1,5 +1,3 @@
-###DEC-068623-0-000-17-05-1971@@@
-
 DECRETO Nº 68.623 - DE 17 DE MAIO DE 1971.
 
 Autorização para funcionamento da Faculdade de Engenharia Operacional, mantida pela Fundação Universidade Vale do Acaraú - Estado do Ceará.

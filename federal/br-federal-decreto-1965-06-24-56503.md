@@ -1,5 +1,3 @@
-###DEC-056503-0-000-24-06-1965@@@
-
 DECRETO Nº 56.503, DE 24 DE JUNHO DE 1965.
 
 Inclui no Quadro do Serviço de Navegação da Bacia do Prata o cargo de Procurador-Geral.

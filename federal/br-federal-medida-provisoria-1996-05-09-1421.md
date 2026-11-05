@@ -1,7 +1,3 @@
-1
-
-###MPV-001421-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.421, DE 9 DE MAIO DE 1996.
 
 Autoriza a utilização de recursos do Fundo da Marinha Mercante - FMM, em favor da Companhia de Navegação Lloyd Brasileiro - LLOYDBRAS, e dá outras providências.

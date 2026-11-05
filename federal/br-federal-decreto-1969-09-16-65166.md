@@ -1,5 +1,3 @@
-###DEC-065166-0-000-16-09-1969@@@
-
 DECRETO Nº 65.166 - DE 16 DE SETEMBRO DE 1969.
 
 Concede permissão, em caráter permanente, a CELFIBRAS - Fibras Químicas do Brasil Ltda., com sede no Estado de São Paulo, para nas Seções de Utilidades, Fiação, Estiagem e Laboratório, funcionar aos domingos e nos feriados civis e religiosos, nas condições que menciona.

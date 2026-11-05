@@ -1,5 +1,3 @@
-###DEC-056275-0-000-10-05-1965@@@
-
 DECRETO Nº 56.275, DE 10 DE MAIO DE 1965.
 
 Promulga os Estatutos do Centro de Estudos para a Conservação e a Restauração dos Bens Culturais.

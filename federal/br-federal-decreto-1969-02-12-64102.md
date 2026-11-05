@@ -1,5 +1,3 @@
-###DEC-064102-0-000-12-02-1969@@@
-
 DECRETO Nº 64.102, DE 12 DE FEVEREIRO DE 1969.
 
 Autoriza o funcionamento do Curso de Engenharia Civil da Faculdade de Engenharia da Fundação "Armando Álvares Penteado"-SP.

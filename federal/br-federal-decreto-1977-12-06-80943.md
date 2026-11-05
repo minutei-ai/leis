@@ -1,5 +1,3 @@
-###DEC-080943-0-000-06-12-1977@@@
-
 Decreto nº 80.943, de 06 de dezembro de 1977.
 
 Declara sem efeito o Decreto número 29.990, de 13 de setembro de 1951, que autorizou a S/A Fazenda da Floresta a lavrar caulim no Município de Juiz de Fora, Estado de Minas Gerais.

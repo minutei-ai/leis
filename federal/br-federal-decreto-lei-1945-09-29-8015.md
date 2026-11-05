@@ -1,5 +1,3 @@
-###DEL-008015-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.015 – DE 29 DE SETEMBRO DE 1945
 
 Altera o artigo 1º do Decreto-lei número 7.147, de 12 de dezembro de 1944:

@@ -1,5 +1,3 @@
-###DEC-092435-0-000-03-03-1986@@@
-
 DECRETO Nº 92.435, DE 03 DE MARÇO DE 1986
 
 Dispõe sobre a Estrutura Básica da Secretaria Executiva da Superintendência do Desenvolvimento do Nordeste (SUDENE), e dá outras providências.

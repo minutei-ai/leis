@@ -1,5 +1,3 @@
-###DEC-094709-0-000-30-07-1987@@@
-
 DECRETO Nº 94.709, DE 30 DE JULHO DE 1987.
 
 Inclui a indústria petroquímica dentre as atividades com funcionamento permanente aos domingos, feriados civis e religiosos.

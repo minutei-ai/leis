@@ -1,5 +1,3 @@
-###DEC-096592-0-000-25-08-1988@@@
-
 DECRETO N° 96.592, DE 25 DE AGOSTO DE 1988
 
 Outorga concessão à TV ALIANÇA PAULISTA LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Sorocaba, Estado de São Paulo.

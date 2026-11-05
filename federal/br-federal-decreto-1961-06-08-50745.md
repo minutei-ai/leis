@@ -1,5 +1,3 @@
-###DEC-050745-0-000-08-06-1961@@@
-
 DECRETO Nº 50.745, DE 8 DE JUNHO DE 1961.
 
 Suprime cargo extinto.

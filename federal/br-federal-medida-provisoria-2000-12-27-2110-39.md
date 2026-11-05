@@ -1,5 +1,3 @@
-###MPV-002110-0-039-27-12-2000@@@
-
 medida provisória nº 2.110-39, de 27 de dezembro de 2000.
 
 Dispõe sobre regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outra providências.

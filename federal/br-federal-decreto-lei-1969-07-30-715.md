@@ -1,5 +1,3 @@
-###DEL-000715-0-000-30-07-1969@@@
-
 DECRETO-LEI Nº 715, DE 30 De JULHO DE 1969
 
 Altera dispositivo da Lei nº 4.375, de 17 de agôsto de 1964 (Lei do Serviço Militar).

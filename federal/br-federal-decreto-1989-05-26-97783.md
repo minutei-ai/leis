@@ -1,7 +1,3 @@
-1
-
-###DEC-097783-0-000-26-05-1989@@@
-
 DECRETO N° 97.783, DE 26 DE MAIO DE 1989
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Ciências da Saúde e Sociais, do Rio de Janeiro.

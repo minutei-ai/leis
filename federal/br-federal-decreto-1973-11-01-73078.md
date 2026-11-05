@@ -1,5 +1,3 @@
-###DEC-073078-0-000-01-11-1973@@@
-
 DECRETO Nº 73.078 - DE 1 DE NOVEMBRO DE 1973
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras "Tuiuti", com os cursos de Pedagogia, Letras e Psicologia, mantida pela Sociedade Educacional "Tuiuti", com sede na cidade de Curitiba, Estado do Paraná.

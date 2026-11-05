@@ -1,5 +1,3 @@
-###DEC-053483-0-000-24-01-1964@@@
-
 DECRETO Nº 53.483, DE 24 DE JANEIRO DE 1964.
 
 Dispõe sôbre a gratificação a que se refere o parágrafo único do art. 121 do Decreto nº 52.025, de 20 de maio de 1963 e dá outras providências.

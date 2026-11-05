@@ -1,5 +1,3 @@
-###DEL-000182-0-000-20-02-1967@@@
-
 DECRETO-LEI Nº 182, DE 20 DE FEVErEIro DE 1967
 
 Acrescenta parágrafo único ao art. 16 da Lei nº 3.222, de 21 de julho de 1957, alterado pela Lei nº 5.176, de 1º de dezembro de 1966.

@@ -24,8 +24,6 @@ Art. 3º Esta Lei entra em vigor em 1º de janeiro de 2022.
 
 Goiânia, 09 de junho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

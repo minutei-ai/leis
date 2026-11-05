@@ -1,5 +1,3 @@
-###DEC-048024-0-000-05-04-1960@@@
-
 DECRETO Nº 48.024, DE 5 DE ABRIL DE 1960.
 
 Renova o Decreto nº 42.856, de 19 de dezembro de 1957.

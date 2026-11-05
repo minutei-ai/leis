@@ -1,5 +1,3 @@
-###DEC-080957-0-000-07-12-1977@@@
-
 DECRETO Nº 80.957, DE 07 DE DEZEMBRO DE 1977.
 
 Concede à Empresa de Caolim Ltda., o direito de lavrar calcita no Município de Campos, Estado do Rio de Janeiro .

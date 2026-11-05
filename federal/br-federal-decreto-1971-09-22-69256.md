@@ -1,5 +1,3 @@
-###DEC-069256-0-000-22-09-1971@@@
-
 DECRETO Nº 69.256, DE 22 DE SETEMBRO DE 1971.
 
 Revoga Decretos, outorga concessão à Espírito Santo Centrais Elétricas S.A., no município de Guarapari, Estado do Espírito Santo, e dá outras providências.

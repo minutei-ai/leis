@@ -1,5 +1,3 @@
-###DEL-003012-0-000-31-01-1941@@@
-
 DECRETO-LEI N. 3.012 – DE 31 DE JANEIRO DE 1941
 
 Autoriza operações de crédito entre o Tesouro Nacional e o Banco do Brasil, para liquidação das contas do exercício de 1940

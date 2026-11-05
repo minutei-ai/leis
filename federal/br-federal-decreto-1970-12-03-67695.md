@@ -1,5 +1,3 @@
-###DEC-067695-0-000-03-12-1970@@@
-
 DECRETO Nº 67.695, DE 3 DE DEZEMBRO DE 1970.
 
 Promulga o Acôrdo de Previdência Social com Portugal.

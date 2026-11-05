@@ -1,7 +1,3 @@
-1
-
-###DEC-000660-0-000-25-09-1992@@@
-
 DECRETO N° 660, DE 25 DE SETEMBRO DE 1992
 
 Institui o Sistema Integrado de Comércio Exterior - SISCOMEX.

@@ -1,5 +1,3 @@
-###DEL-003731-0-000-18-10-1941@@@
-
 DECRETO-LEI N. 3.731 – DE 18 DE OUTUBRO DE 1941
 
 Altera a carreira de Médico Sanitarista do Quadro Suplementar do Ministério da Educação e Saude.

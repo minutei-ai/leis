@@ -1,5 +1,3 @@
-###DEC-058501-0-000-25-05-1966@@@
-
 DECRETO Nº 58.501, DE 25 DE MAIO DE 1966.
 
 Dispõe sôbre a Transferência da responsabilidade do Tráfego da E. F. Madeira-Mamoré, da Rede Ferroviária Federal S.A. para a Diretoria de Vias de Transportes, do Ministério da Guerra.

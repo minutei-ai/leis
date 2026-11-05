@@ -1,5 +1,3 @@
-###DEC-089649-0-000-11-05-1984@@@
-
 Decreto nº 89.649, de 11 de maio de 1984
 
 Renova a concessão outorgada à RÁDIO CULTURA DE CURITIBA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Curitiba, Estado do Paraná.

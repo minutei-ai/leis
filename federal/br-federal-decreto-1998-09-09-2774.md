@@ -1,5 +1,3 @@
-###DEC-002774-0-000-09-09-1998@@@
-
 DECRETO Nº 2.774, DE 9 DE SETEMBRO DE 1998
 
 Dispõe sobre a composição do Conselho de Gestão da Previdência Complementar - CGPC e dá outras providências.

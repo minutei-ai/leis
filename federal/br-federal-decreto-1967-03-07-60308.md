@@ -1,5 +1,3 @@
-###DEC-060308-0-000-07-03-1967@@@
-
 DECRETO Nº 60.308, DE 7 DE MARÇO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de NCr$1.200.000,00 (hum milhão e duzentos mil cruzeiros novos), autorizado pela Lei nº 5.215, de 16 de janeiro do corrente ano, para o fim que menciona.

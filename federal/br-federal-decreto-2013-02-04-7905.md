@@ -1,5 +1,3 @@
-###DEC-007905-0-000-04-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.905, DE 4 DE FEVEREIRO DE 2013
 
 Restaura a vigência do Decreto nº 42.290, de 19 de setembro de 1957, que autoriza o restabelecimento da filiação do Brasil à União Geodésica e Geofísica Internacional.

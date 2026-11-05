@@ -1,5 +1,3 @@
-###DEC-092912-0-000-10-07-1986@@@
-
 DECRETO Nº 92.912, DE 10 DE JULHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra, e benfeitorias, necessária à implantação da estação transformadora de distribuição Eugênio de Mello, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

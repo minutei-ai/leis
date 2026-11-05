@@ -1,5 +1,3 @@
-###DEC-006939-0-000-18-08-2009@@@
-
 DECRETO Nº 6.939, DE 18 DE AGOSTO DE 2009.
 
 Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

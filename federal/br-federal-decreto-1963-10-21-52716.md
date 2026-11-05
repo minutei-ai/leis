@@ -1,5 +1,3 @@
-###DEC-052716-0-000-21-10-1963@@@
-
 DECRETO Nº 52.716, DE 21 DE OUTUBRO DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a ampliar suas instalações.

@@ -1,14 +1,12 @@
-###DEC-030033-0-000-01-10-1951@@@
+**DECRETO Nº 30.033, DE 1 DE OUTUBRO DE 1951.**
 
-<strong>DECRETO Nº 30.033, DE 1 DE OUTUBRO DE 1951.</strong>
+***Disciplina a concessão da “Gratificação de Técnico Militar” prevista no art. 56 e especifica os serviços industriais das Organizações Militares aos quais são aplicáveis as disposições do art. 66, do Código de Vencimentos e Vantagens dos Militares.***
 
-<em><strong>Disciplina a concessão da “Gratificação de Técnico Militar” prevista no art. 56 e especifica os serviços industriais das Organizações Militares aos quais são aplicáveis as disposições do art. 66, do Código de Vencimentos e Vantagens dos Militares.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º A gratificação de Técnico Militar, prevista no art. 56, da Lei nº 1.316, de 20 de janeiro de 1951, será concedida ao engenheiro militar que fôr designado, em Boletim da Organização, para exercer funções nas dependências abaixo especificadas;
+**Art**. 1º A gratificação de Técnico Militar, prevista no art. 56, da Lei nº 1.316, de 20 de janeiro de 1951, será concedida ao engenheiro militar que fôr designado, em Boletim da Organização, para exercer funções nas dependências abaixo especificadas;
 
 A - Na base de 25%
 
@@ -52,7 +50,7 @@ B. Na base de 10%
 
 2 - Aos oficiais dos demais quadros ou especialidades, quando designados pelo respectivo Ministro Militar para o desempenho de funções técnicas de construção em estabelecimento fabril ou industrial (art. 58).
 
-<strong>Art</strong>. 2º Na conformidade do art. 65 da Lei citada no art. 1º dêste Decreto, é adotada a seguinte especificação para os “serviços industriais” das organizações militares, aos quais são aplicáveis as disposições do artigo 66 daquela Lei:
+**Art**. 2º Na conformidade do art. 65 da Lei citada no art. 1º dêste Decreto, é adotada a seguinte especificação para os “serviços industriais” das organizações militares, aos quais são aplicáveis as disposições do artigo 66 daquela Lei:
 
 1\. Categoria “A” (30%).
 
@@ -140,7 +138,7 @@ Seção de Agrupamento de Baterias;
 
 k. Laboratório. Rádio da Diretoria de Rotas Aéreas.
 
-<strong>Art</strong>. 3º Fazem jus à Diária Industrial os militares que exercerem funções nas Organizações abaixo especificadas e que não tenham sido contemplados com a gratificação industrial.
+**Art**. 3º Fazem jus à Diária Industrial os militares que exercerem funções nas Organizações abaixo especificadas e que não tenham sido contemplados com a gratificação industrial.
 
 1\. Fábricas: - Presidente Vargas, Bonsucesso, Estrela, Realengo, Juiz de Fora, Andaraí, Itajubá, Curitiba, Material de Transmissões, Artilharia da Marinha, Torpedos da Marinha, Galeão e Lagoa Santa.
 
@@ -150,15 +148,15 @@ k. Laboratório. Rádio da Diretoria de Rotas Aéreas.
 
 4\. Outras Organizações: - Divisão de Grupos de Oficinas do Departamento de Produção da Diretoria de Comunicações de Marinha Centro de Armamento da Marinha, Departamento de Reparos aos Navios-tender ou Navios-oficina, Serviço Químico da Marinha, Laboratório Farmaceutico Naval, Laboratório Químico Farmaceutico do Exército, Divisão de Produção dos Estabelecimentos de Material de Intendência, Divisão de Suprimentos e Laboratórios de Análise dos Estabelecimentos de Subsistência, Divisão de Transporte do Estabelecimento Central de Transporte, Campo de Provas de Marambaia.
 
-<strong>Art</strong>. 4º O engenheiro militar no desempenho de Comissão de representação em Gabinete não é considerado, para efeito dêste Código, em função de sua especialidade, salvo se exigida a condição de ser oficial técnico.
+**Art**. 4º O engenheiro militar no desempenho de Comissão de representação em Gabinete não é considerado, para efeito dêste Código, em função de sua especialidade, salvo se exigida a condição de ser oficial técnico.
 
-<strong>Art</strong>. 5º No caso de incidência de gratificação industrial e diária industrial, o militar só perceberá a maior delas.
+**Art**. 5º No caso de incidência de gratificação industrial e diária industrial, o militar só perceberá a maior delas.
 
-<strong>Art</strong>. 6º Êste Decreto entrará em vigor, a partir do dia 23 de janeiro de 1951, revogadas tôdas as disposições em contrário.
+**Art**. 6º Êste Decreto entrará em vigor, a partir do dia 23 de janeiro de 1951, revogadas tôdas as disposições em contrário.
 
 Rio de Janeiro, 1 de outubro de 1951; 130º da Independência e 63º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 

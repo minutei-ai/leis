@@ -1,16 +1,14 @@
-###DEC-035508-0-000-17-05-1954@@@
+**DECRETO Nº 35.508, DE 17 DE MAIO DE 1954.**
 
-<strong>DECRETO Nº 35.508, DE 17 DE MAIO DE 1954.</strong>
+***Cria Comissão para superintender os transportes e o financiamento da produção agrícola no norte do Paraná, e dá outras providências.***
 
-<em><strong>Cria Comissão para superintender os transportes e o financiamento da produção agrícola no norte do Paraná, e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica constituída uma Comissão de 3 membros representantes do Ministério da Viação e Obras Públicas, Ministério da Fazenda e Govêrno do Estado do Paraná para, sob a presidência do primeiro, superintender os transportes e o financiamento da produção agrícola no norte do Paraná.
 
-<strong>Art</strong>. 1º Fica constituída uma Comissão de 3 membros representantes do Ministério da Viação e Obras Públicas, Ministério da Fazenda e Govêrno do Estado do Paraná para, sob a presidência do primeiro, superintender os transportes e o financiamento da produção agrícola no norte do Paraná.
-
-<strong>Art</strong>. 2º A Comissão, sediada em Londrina, Estado do Paraná, terá as seguintes atribuições:
+**Art**. 2º A Comissão, sediada em Londrina, Estado do Paraná, terá as seguintes atribuições:
 
 a) promover tôdas as medidas necessárias ao regular escoamento da produção agrícola, por via férrea, agindo, para tanto, junto à Rêde de Viação Paraná-Santa Catarina, Estrada de Ferro Sorocabana, Estrada de Ferro Central do Brasil e Estrada de Ferro Santos a Jundiaí;
 
@@ -26,25 +24,25 @@ f) representar o Govêrno Federal junto aos Governos Estaduais e associações d
 
 g) ordenar despesas e o seu pagamento, prestando contas ao Banco do Brasil.
 
-<strong>Art</strong>. 3º Os transportes requisitados pela Comissão deverão ter tratamento preferencial.
+**Art**. 3º Os transportes requisitados pela Comissão deverão ter tratamento preferencial.
 
-<strong>Art</strong>. 4º A Comissão poderá autorizar a prestação de serviços pelo pessoal de que necessitar, em caráter extraordinário e de emergência fixando a respectiva retribuição.
+**Art**. 4º A Comissão poderá autorizar a prestação de serviços pelo pessoal de que necessitar, em caráter extraordinário e de emergência fixando a respectiva retribuição.
 
-<strong>Art</strong>. 5º Sempre que possível, sem prejuízo para o rápido escoamento da produção agrícola do norte do Paraná, a Comissão dever atender às determinações do Regulamento Geral de Transportes para as Estradas de Ferro.
+**Art**. 5º Sempre que possível, sem prejuízo para o rápido escoamento da produção agrícola do norte do Paraná, a Comissão dever atender às determinações do Regulamento Geral de Transportes para as Estradas de Ferro.
 
-<strong>Art</strong>. 6º As despesas da Comissão, ou por ela ordenadas, serão custeadas pelos recursos destinados ao Financiamento da Produção.
+**Art**. 6º As despesas da Comissão, ou por ela ordenadas, serão custeadas pelos recursos destinados ao Financiamento da Produção.
 
-<strong>Art</strong>. 7º Os membros da Comissão perceberão a gratificação mensal de doze mil cruzeiros (Cr$12.000,00).
+**Art**. 7º Os membros da Comissão perceberão a gratificação mensal de doze mil cruzeiros (Cr$12.000,00).
 
-<strong>Art</strong>. 8º Os casos omissos serão diretamente submetidos, pela Comissão, à autoridade competente para resolvê-los.
+**Art**. 8º Os casos omissos serão diretamente submetidos, pela Comissão, à autoridade competente para resolvê-los.
 
-<strong>Art</strong>. 9º Êste decreto entra em vigor na data de sua publicação.
+**Art**. 9º Êste decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10. Revogam-se as disposições em contrário.
+**Art**. 10. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 17 de maio de 1954; 133º da Independência e 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 José Américo
 

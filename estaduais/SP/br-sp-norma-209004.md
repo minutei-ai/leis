@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209004)<br>
-
 # DECRETO N° 68.233, DE 22 DE DEZEMBRO DE 2023
 
 ### _Regulamenta a Lei n° 17.618, de 31 de janeiro de 2023, que institui a Política Estadual de fornecimento gratuito de medicamentos formulados de derivado vegetal à base de canabidiol, em associação com outras substâncias canabinóides, incluindo o tetrahidrocanabinol, em caráter de excepcionalidade pelo Poder Executivo nas unidades de saúde pública estadual e privada conveniada ao Sistema Único de Saúde — SUS, no âmbito do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Das disposições gerais
 
 **Artigo 1° -** Este decreto regulamenta a [Lei n° 17.618, de 31 de janeiro de 2023](https://www.al.sp.gov.br/norma/206820), que dispõe sobre a política estadual de fornecimento gratuito de medicamentos e produtos formulados de derivado vegetal à base de canabidiol, em associação com outras substâncias canabinóides, incluindo o tetrahidrocanabinol, em caráter de excepcionalidade, nas unidades de saúde pública estadual e privada conveniadas ao Sistema Único de Saúde - SUS.
@@ -23,7 +22,8 @@ II - o fornecimento de produtos derivados de Cannabis para fins medicinais, desd
 
 **Parágrafo único -** Os medicamentos e produtos a que se referem os incisos I e II deste artigo devem atender às normas sanitárias vigentes referentes à Autorização Sanitária ou Registro de Medicamentos, nos termos das Resoluções da Diretoria Colegiada da ANVISA RDC n° 327, de 9 de dezembro de 2019, e RDC n° 753, de 28 de setembro de 2022, respectivamente, ou de normativos que vierem a substituí-las.
 
-#### Seção II<br>
+#### Seção II
+
 Da implantação e do acompanhamento da política estadual de fornecimento de medicamentos e produtos à base de canabidiol
 
 **Artigo 4° -** Cabe à Secretaria da Saúde gerir e manter em funcionamento, enquanto vigente a política estadual de fornecimento de medicamentos e produtos à base de canabidiol, a Comissão de Trabalho a que se refere o parágrafo único do artigo 5° da [Lei n° 17.618, de 31 de janeiro de 2023](https://www.al.sp.gov.br/norma/206820), com a finalidade de implantar e disciplinar a política estadual.
@@ -48,7 +48,8 @@ Da implantação e do acompanhamento da política estadual de fornecimento de me
 
 3\. o encaminhamento de propostas de uso de medicamentos e produtos à base de canabidiol para fins medicinais para submissão à Comissão Nacional de Incorporação de Tecnologias do Sistema Único de Saúde - CONITEC.
 
-#### Seção III<br>
+#### Seção III
+
 Do fornecimento de medicamentos e produtos à base de canabidiol para fins medicinais
 
 **Artigo 7° -** O fornecimento de medicamentos e produtos à base de canabidiol para fins medicinais dar-se-á por meio de solicitação do paciente ou de seu representante legal, sujeita à avaliação da Secretaria da Saúde, conforme Protocolos Clínicos e Normas Técnicas estaduais a que se refere artigo 5° deste decreto.

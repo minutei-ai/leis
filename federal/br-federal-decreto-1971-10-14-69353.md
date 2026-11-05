@@ -1,5 +1,3 @@
-###DEC-069353-0-000-14-10-1971@@@
-
 Decreto Nº 69.353, DE 14 DE outubro DE 1971.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial do Departamento Nacional de Estradas de Rodagem, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

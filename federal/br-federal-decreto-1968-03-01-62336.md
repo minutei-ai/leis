@@ -1,5 +1,3 @@
-###DEC-062336-0-000-01-03-1968@@@
-
 Decreto nº 62.336, de 1º de março de 1968.
 
 Autorização a Companhia Central Brasileira de Fôrça Elétrica a construir subestação.

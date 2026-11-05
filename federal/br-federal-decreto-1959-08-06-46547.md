@@ -1,5 +1,3 @@
-###DEC-046547-0-000-06-08-1959@@@
-
 DECRETO Nº 46.457, DE 6 DE AGÔSTO DE 1959.
 
 Concede à sociedade anônima Bates Valve Bag Corporation of Brazil autorização para continuar a funcionar na República.

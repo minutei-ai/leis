@@ -1,5 +1,3 @@
-###DEC-068022-0-000-05-01-1971@@@
-
 DECRETO Nº 68.022, DE 5 DE JANEIRO DE 1971.
 
 Declara de utilidade pública o Centro Social Santa Clara, com sede em São Cristóvão, Estado de Sergipe.

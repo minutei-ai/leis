@@ -1,5 +1,3 @@
-###DEC-067394-0-000-16-10-1970@@@
-
 decreto nº 67.394, de 16 de outubro de 1970.
 
 Revoga os Decretos que concederam à emprêsa Southern Brazil Lumber and Colonization Company, também denominada Southern Brazil Lumber Company, autorização para funcionar e continuar a funcionar na República Federativa do Brasil.

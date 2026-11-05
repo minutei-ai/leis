@@ -1,6 +1,10 @@
 > **LEI Nº 4.416, DE 08 DE OUTUBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui no Calendário Oficial do Estado, o mês da “Missão Calebe” da Igreja Adventista do Sétimo Dia.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui no Calendário Oficial do Estado, o mês da “Missão Calebe” da Igreja Adventista do Sétimo Dia.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

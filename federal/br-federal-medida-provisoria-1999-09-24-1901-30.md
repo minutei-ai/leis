@@ -1,5 +1,3 @@
-###MPV-001901-0-030-24-09-1999@@@
-
 Medida Provisória nº 1.901-30, de 24 de setembro de 1999.
 
 Acresce e altera dispositivos do Decreto-Lei nº 3.365, de 21 de junho de 1941, da Lei nº 4.504, de 30 de novembro de 1964 (Estatuto da Terra), da Lei nº 8.629, de 25 de fevereiro de 1993, e dá outras providências.

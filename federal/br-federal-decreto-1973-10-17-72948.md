@@ -1,5 +1,3 @@
-###DEC-072948-0-000-17-10-1973@@@
-
 Decreto nº 72.948, de 17 de outubro de 1973.
 
 Torna sem efeito aproveitamento de disponível do Quadro Único de Pessoal da Universidade Federal do Rio de Janeiro e dá outras providências.

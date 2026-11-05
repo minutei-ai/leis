@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211305)<br>
-
 # DECRETO N° 69.781, DE 11 DE AGOSTO DE 2025
 
 ### _Transfere o cargo que especifica e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-057894-0-000-28-02-1966@@@
-
 DECRETO Nº 57.894, DE 28 DE FEVEREIRO DE 1966.
 
 Dispõe sôbre as atividades de cooperação e assistências educacionais do Departamento Nacional de Educação, tendo em vista a execução do Plano Nacional de educação, e dá outras Providências.

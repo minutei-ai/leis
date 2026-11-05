@@ -1,5 +1,3 @@
-###DEC-071147-0-000-26-09-1972@@@
-
 DECRETO Nº 71.147, de 26 de Setembro de 1972.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que mencionada, no estado do Maranhão.

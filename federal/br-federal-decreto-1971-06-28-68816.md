@@ -1,5 +1,3 @@
-###DEC-068816-0-000-28-06-1971@@@
-
 DECRETO Nº 68.816 - DE 28 DE JUNHO DE 1971.
 
 Declara de utilidade pública o Instituto Educacional Madre Elisa Savoldi, com sede em Sombrio, Estado de Santa Catarina.

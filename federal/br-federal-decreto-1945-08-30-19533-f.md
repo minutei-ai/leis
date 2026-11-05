@@ -1,19 +1,17 @@
-###DEC-019533-F-000-30-08-1945@@@
+**DECRETO Nº 19533 ‘”F”, DE 30 DE AGÔSTO DE 1945.**
 
-<strong>DECRETO Nº 19533 ‘”F”, DE 30 DE AGÔSTO DE 1945.</strong>
+***Suprime função na Tabela Numérica Ordinária de Extranumerário-mensalista da Diretoria de Obras do Ministério da Aeronáutica.***
 
-<em><strong>Suprime função na Tabela Numérica Ordinária de Extranumerário-mensalista da Diretoria de Obras do Ministério da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a*, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica suprimida, na Tabela Numérica Ordinária de Extranumerário-mensalista da Diretoria de Obras do Ministério da Aeronáutica, uma função de prático engenharia, referência XII.
 
-<strong>Art</strong>. 1º Fica suprimida, na Tabela Numérica Ordinária de Extranumerário-mensalista da Diretoria de Obras do Ministério da Aeronáutica, uma função de prático engenharia, referência XII.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
 Rio de Janeiro, 30 de agôsto de 1945, 124º da Independência e 57º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 Joaquim Pedro Salgado Filho

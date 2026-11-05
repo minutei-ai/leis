@@ -1,5 +1,3 @@
-###DEC-091513-0-000-07-08-1985@@@
-
 DECRETO Nº 91.513, de 7 de agosto de 1985.
 
 Regulamenta a Lei nº 7.315, de 24 de maio de 1985, e dá outras providências.

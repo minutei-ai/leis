@@ -1,5 +1,3 @@
-###DEC-045641-0-000-25-03-1959@@@
-
 DECRETO Nº 45.641, DE 25 DE março DE 1959.
 
 Altera o art. 1º do Decreto nº 28.495, de 14 de agôsto de 1959.

@@ -1,5 +1,3 @@
-###MPV-001940-0-016-09-12-1999@@@
-
 medida provisória nº 1.940-16, de 9 de dezembro de 1999.
 
 Altera dispositivos do Decreto-Lei nº 73,de 21 de novembro de 1966, da Lei nº 6.435, de 15 de julho de 1977, da Lei nº 5.627, de 1º de dezembro de 1970, e dá outras providências.

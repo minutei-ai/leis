@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=61074)
-
 # LEI Nº 12.261, DE 15 DE FEVEREIRO DE 2006
 
 ## (Projeto de lei nº 234/2005, do Deputado Jorge Caruso - PMDB)

@@ -1,5 +1,3 @@
-###DEL-001937-0-000-27-04-1982@@@
-
 # Decreto nº 1.937, de 27 de abril de 1982
 
 Acrescenta parágrafos ao artigo 1º do Decreto-lei nº 1.866, de 09 de março de 1981, que dispõe sobre a nomeação de prefeito em Município declarado de interesse da Segurança Nacional.

@@ -1,5 +1,3 @@
-###MPV-002149-0-000-29-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.149, DE 29 DE MAIO DE 2001
 
 Autoriza a criação de mecanismo de compensação destinado a viabilizar a manutenção de preços constantes para o gás natural, e dá outras providências.

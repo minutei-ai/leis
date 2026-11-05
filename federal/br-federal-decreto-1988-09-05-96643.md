@@ -1,5 +1,3 @@
-###DEC-096643-0-000-05-09-1988@@@
-
 DECRETO N° 96.643, DE 5 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA JANAINA DE RADIODIFUSÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Vargem Grande, Estado do Maranhão.

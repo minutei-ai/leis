@@ -1,5 +1,3 @@
-###DEC-006587-0-000-29-09-2008@@@
-
 DECRETO Nº 6.587, DE 29 DE SETEMBRO DE 2008.
 
 Dispõe sobre a criação da Embaixada do Brasil em Pyongyang, na República Democrática Popular da Coréia.        

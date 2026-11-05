@@ -1,5 +1,3 @@
-###DEC-081064-0-000-19-12-1977@@@
-
 Decreto nº 81.064,de 19 de dezembro de 1977.
 
 Declara a caducidade do Manifesto de Mina que menciona.

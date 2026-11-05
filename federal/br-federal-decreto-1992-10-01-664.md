@@ -1,7 +1,3 @@
-1
-
-###DEC-000664-0-000-01-10-1992@@@
-
 DECRETO N° 664, DE 1° DE OUTUBRO DE 1992
 
 Revoga o Decreto n° 323, de 1° de novembro de 1991.

@@ -1,5 +1,3 @@
-###DEC-099660-0-000-31-10-1990@@@
-
 DECRETO Nº 99.660, DE 31 DE OUTUBRO DE 1990
 
 Dispõe sobre a Transferência de Sede de Grande Unidade de Arma do Exército.

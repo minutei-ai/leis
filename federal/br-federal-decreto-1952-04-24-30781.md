@@ -1,14 +1,12 @@
-###DEC-030781-0-000-24-04-1952@@@
+**DECRETO Nº 30.781, DE 24 DE ABRIL DE 1952.**
 
-<strong>DECRETO Nº 30.781, DE 24 DE ABRIL DE 1952.</strong>
+***Declara de utilidade pública diversas áreas de terras situadas nos municípios de Leopoldina, Cataguazes e São João Nepomuceno, no Estado de Minas Gerias e autoriza a Companhia Fôrça e Luz Cataguezes-Leopoldina a promover as desapropriações necessárias.***
 
-<em><strong>Declara de utilidade pública diversas áreas de terras situadas nos municípios de Leopoldina, Cataguazes e São João Nepomuceno, no Estado de Minas Gerias e autoriza a Companhia Fôrça e Luz Cataguezes-Leopoldina a promover as desapropriações necessárias.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o que requereu a interessada e o disposto no Decreto-lei número 3.365, de 21 de junho de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o que requereu a interessada e o disposto no Decreto-lei número 3.365, de 21 de junho de 1941,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras a serem inundadas em virtude da construção de uma carragem no rio Novo, na Usina Maurício, de propriedade da Companhia Fôrça e Luz Cataguazes-Leopoldina, cuja concessão lhe foi outorgada pelo Decreto número 24.591, de 26 de fevereiro de 1948, constantes das plantas números A-1.105 e A-1.106, aprovadas pelo Ministro da Agricultura e que são as seguintes:
+**Art**. 1º Ficam declaradas de utilidade pública as seguintes áreas de terras a serem inundadas em virtude da construção de uma carragem no rio Novo, na Usina Maurício, de propriedade da Companhia Fôrça e Luz Cataguazes-Leopoldina, cuja concessão lhe foi outorgada pelo Decreto número 24.591, de 26 de fevereiro de 1948, constantes das plantas números A-1.105 e A-1.106, aprovadas pelo Ministro da Agricultura e que são as seguintes:
 
 1\) Área de 29,7500 HA, de propriedade atribuída a Gustavo Dutra e Irmãos;
 
@@ -52,14 +50,14 @@
 
 21\) Área de 41,0000 Ha, de propriedade atribuída a Eduardo Anselmo de Oliveira.
 
-<strong>Art</strong>. 2º A Companhia Fôrça e Luz Cataguazes-Leopoldina fica autorizada a promover a desapropriação das referidas áreas de terra, de conformidade com a legislação vigente.
+**Art**. 2º A Companhia Fôrça e Luz Cataguazes-Leopoldina fica autorizada a promover a desapropriação das referidas áreas de terra, de conformidade com a legislação vigente.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de abril de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 João Cleofas

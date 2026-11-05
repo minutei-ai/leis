@@ -1,5 +1,3 @@
-###DEC-098961-0-000-15-02-1990@@@
-
 DECRETO N° 98.961, DE 15 DE FEVEREIRO DE 1990
 
 Dispõe sobre expulsão de estrangeiro condenado por tráfico de entorpecentes e drogas afins.

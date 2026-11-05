@@ -1,5 +1,3 @@
-###DEC-000515-0-000-29-04-1992@@@
-
 DECRETO Nº 515, DE 29 DE ABRIL DE 1992
 
 Promulga o Protocolo Adicional sobre Privilégios e Imunidades ao Acordo para o Uso Exclusivamente Pacífico da Energia Nuclear, entre o Governo da República Federativa do Brasil e o Governo da República Argentina.

@@ -1,7 +1,3 @@
-1
-
-###DEL-000907-0-000-01-10-1969@@@
-
 Decreto-lei nº 907, de 1 de outubro de 1969
 
 Cria cargos na carreira do Ministério Público dos Territórios Federais e dá outras providências.

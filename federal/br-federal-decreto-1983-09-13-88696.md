@@ -1,5 +1,3 @@
-###DEC-088696-0-000-13-09-1983@@@
-
 Decreto nº 88.696, de 13 de setembro de 1983
 
 Declara de utilidade pública, para fins de desapropriação, terreno situado na cidade de Salvador, Estado da Bahia, destinado ao Tribunal Regional do Trabalho da 5a. Região.

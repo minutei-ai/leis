@@ -1,5 +1,3 @@
-###DEC-060974-0-000-10-07-1967@@@
-
 DECRETO Nº 60.974, DE 10 DE JULHO DE 1967.
 
 Transfere da Companhia Distribuidora de Eletricidade do Brejo Paraibano para a Sociedade Anônima de Eletrificação da Paraíba a concessão para distribuir energia elétrica no município de Alagoa Grande Estado da Paraíba.

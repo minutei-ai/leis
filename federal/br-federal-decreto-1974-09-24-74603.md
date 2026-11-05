@@ -1,5 +1,3 @@
-###DEC-074603-0-000-24-09-1974@@@
-
 DECRETO Nº 74.603, DE 24 DE SETEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Faculdade de Ciências Econômicas, Administrativas e Contábeis mantida pelo Instituto Superior de Ensino Celso Lisboa, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

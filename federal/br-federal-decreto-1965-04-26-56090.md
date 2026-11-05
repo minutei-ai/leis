@@ -1,5 +1,3 @@
-###DEC-056090-0-000-26-04-1965@@@
-
 DECRETO Nº 56.090, DE 26 DE ABRIL DE 1965.
 
 Concede à Sapatú S.A. Indústria e Engenharia e autorização para funcionar como emprêsa de mineração.

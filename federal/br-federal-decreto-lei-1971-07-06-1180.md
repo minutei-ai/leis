@@ -1,5 +1,3 @@
-###DEL-001180-0-000-06-07-1971@@@
-
 # DECRETO-LEI Nº 1.180, DE 06 DE JULHO DE 1971
 
 Altera o artigo 8º da Lei nº 5.508, de 11 de outubro de 1968.

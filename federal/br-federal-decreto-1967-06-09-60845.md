@@ -1,5 +1,3 @@
-###DEC-060845-0-000-09-06-1967@@@
-
 Decreto nº 60.845, de 9 de junho de 1967.
 
 Concede reconhecimento à Faculdade de Serviço Social, da Universidade Católica de Pelotas - Rio G. do Sul

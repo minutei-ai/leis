@@ -1,5 +1,3 @@
-###DEL-003279-0-000-16-05-1941@@@
-
 DECRETO-LEI N. 3.279 – DE 16 DE MAIO DE 1941
 
 Transforma em cargo isolado, em comissão, o de diretor do Expediente, Padrão N, da Diretoria do Expediente do Gabinete Civil do Presidente da, República.

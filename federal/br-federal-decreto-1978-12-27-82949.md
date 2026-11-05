@@ -1,5 +1,3 @@
-###DEC-082949-0-000-27-12-1978@@@
-
 Decreto nº 82.949, de 27 de dezembro de 1978
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

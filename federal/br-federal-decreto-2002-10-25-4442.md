@@ -1,5 +1,3 @@
-###DEC-004442-0-000-25-10-2002@@@
-
 DECRETO Nº 4.442, DE 25 DE OUTUBRO DE 2002
 
 Dispõe sobre a extinção e vedação do provimento de Cargos em Comissão, de Funções Gratificadas e de Funções Comissionadas Técnicas, no âmbito do Poder Executivo federal, e dá outras providências.

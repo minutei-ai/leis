@@ -106,7 +106,26 @@ IRAN PEREIRA DOS SANTOS
 
 **(Arts. 13, § 10 e 15, VI)**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="292" style="width:218.8pt;margin-left:127.45pt;border:outset #7F7F7F 1.0pt"><tbody><tr><td width="65%" style="width:65.42%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">FAIXA ETÁRIA</span></p></td><td width="33%" style="width:33.62%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">ALÍQUOTA</span></p></td></tr><tr><td width="65%" style="width:65.42%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 17 ANOS</span></p></td><td width="33%" style="width:33.62%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0,30%</span></p></td></tr><tr><td width="65%" style="width:65.42%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">18 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 29 ANOS</span></p></td><td width="33%" style="width:33.62%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0,60%</span></p></td></tr><tr><td width="65%" style="width:65.42%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">30 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 39 ANOS</span></p></td><td width="33%" style="width:33.62%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0,70%</span></p></td></tr><tr><td width="65%" style="width:65.42%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">40 A</span><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;"> 49 ANOS</span></p></td><td width="33%" style="width:33.62%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">0,80%</span></p></td></tr><tr><td width="65%" style="width:65.42%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" style="text-align:justify"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">&gt; 50 ANOS</span></p></td><td width="33%" style="width:33.62%;border:inset #7F7F7F 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">1,00%</span></p></td></tr></tbody></table>
+FAIXA ETÁRIA
+
+ALÍQUOTA
+
+0 A 17 ANOS
+
+0,30%
+
+18 A 29 ANOS
+
+0,60%
+
+30 A 39 ANOS
+
+0,70%
+
+40 A 49 ANOS
+
+0,80%
+
+&gt; 50 ANOS
+
+1,00%

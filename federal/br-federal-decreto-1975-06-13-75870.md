@@ -1,5 +1,3 @@
-###DEC-075870-0-000-13-06-1975@@@
-
 DECRETO Nº 75.870, DE 13 DE JUNHO DE 1975.
 
 Autoriza FURNAS - Centrais Elétricas S.A. a ampliar a Usina Nuclear Almirante Álvaro Alberto e dá outras providências.

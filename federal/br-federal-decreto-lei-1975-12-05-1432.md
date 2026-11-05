@@ -1,5 +1,3 @@
-###DEL-001432-0-000-05-12-1975@@@
-
 # DECRETO-LEI Nº 1.432, DE 5 DE DEZEMBRO DE 1975
 
 Altera dispositivos da Lei nº 5.107, de 13 de setembro de 1966, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047020-0-000-14-10-1959@@@
-
 DECRETO Nº 47.020, DE 14 DE OUTUBRO DE 1959.
 
 Autoriza a S. A. de Cimento, Mineração e Cabotagem “Cimimar” a pesquisar caulim e argila no município de São Bernardo do Campo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007548-0-000-14-05-1945@@@
-
 DECRETO-LEI N. 7.548 – DE 14 DE MAIO DE 1945
 
 Restabelece, em caráter facultativo, o uso dos uniformes dos membros do Corpo Dip1omático

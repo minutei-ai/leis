@@ -1,5 +1,3 @@
-###DEL-003637-0-000-19-09-1941@@@
-
 DECRETO-LEI N. 3.637 – DE 19 DE SETEMBRO DE 1941
 
 Abre, pelo ministério da Educação e Saúde, o crédito suplementar de 7:181$0, á verba que especifica

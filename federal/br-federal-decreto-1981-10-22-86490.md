@@ -1,5 +1,3 @@
-###DEC-086490-0-000-22-10-1981@@@
-
 DECRETO Nº 86.490, DE 22 DE OUTUBRO DE 1981
 
 Revoga o Decreto nº 15.001, de 13 de setembro de 1921, que concedeu à empresa CORY BROTHERS AND COMPANY LIMITED, autorização para funcionar na República Federativa do Brasil.

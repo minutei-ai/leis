@@ -1,5 +1,3 @@
-###DEL-009848-0-000-12-09-1946@@@
-
 DECRETO-LEI N. 9.848 – DE 12 DE SETEMBRO DE 1946
 
 Dispõe sôbre a aplicação do saldo do crédito especial aberto ao Conselho de Segurança Nacional pelo Decreto-lei nº 7.392, de 16 de Março de 1945.

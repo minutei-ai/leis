@@ -1,5 +1,3 @@
-###DEL-003393-0-000-07-07-1941@@@
-
 DECRETO-LEI N. 3.393 – DE 7 DE JULHO DE 1941
 
 Cria um cargo, em comissão, de ajudante de tesoureiro, padrão F, no Quadro III – Parte Permanente – do Ministério da Viação e Obras Públicas.

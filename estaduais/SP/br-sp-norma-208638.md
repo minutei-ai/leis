@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208638)<br>
-
 # LEI N° 17.792, DE 06 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 745/2021, da Deputada Maria Lúcia Amary - PSDB)

@@ -1,5 +1,3 @@
-###DEC-091080-0-000-12-03-1985@@@
-
 Decreto 91.080, de 12 de março de 1985
 
 Institui Conselho-Nacional de bibliotecas (CONABI)e dá outras providências.

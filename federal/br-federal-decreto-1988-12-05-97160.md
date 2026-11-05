@@ -1,5 +1,3 @@
-###DEC-097160-0-000-05-12-1988@@@
-
 DECRETO Nº 97.160, DE 5 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Administrativas de Ponta Porã.

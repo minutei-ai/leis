@@ -1,5 +1,3 @@
-###DEC-056347-0-000-21-05-1965@@@
-
 DECRETO Nº 56.347, DE 21 DE MAIO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem área de terreno situada no Município de São José, Estado de Santa Catarina.

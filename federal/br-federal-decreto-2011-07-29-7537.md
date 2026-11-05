@@ -1,5 +1,3 @@
-###DEC-007537-0-000-29-07-2011-PUB-01@@@
-
 DECRETO Nº 7.537, DE 29 DE JULHO DE 2011
 
 Altera o Anexo I ao Decreto nº 5.765, de 27 de abril de 2006, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Departamento Nacional de Infraestrutura de Transportes - DNIT.

@@ -1,5 +1,3 @@
-###DEC-045594-0-000-23-03-1959@@@
-
 decreto nº 45.594, de 23 de março de 1959.
 
 Concede à Petrolansa - Petróleo Andino Sociedade Anônima, autorização para funcionar.

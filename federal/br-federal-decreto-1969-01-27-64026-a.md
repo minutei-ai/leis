@@ -1,5 +1,3 @@
-###DEC-064026-A-000-27-01-1969@@@
-
 DECRETO Nº 64.026-A, DE 27 DE JANEIRO DE 1969.
 
 Aprova o Regimento Interno do Grupo de Trabalho para a Integração da Amazônia - GTINAM.

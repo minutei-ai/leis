@@ -1,5 +1,3 @@
-###DEC-053287-0-000-16-12-1963@@@
-
 DECRETO Nº 53.287, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Marcio Rezende Lima a pesquisar minérios de ferro e manganês, no município de Itabirito, Estado de Minas Gerais.

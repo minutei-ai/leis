@@ -1,5 +1,3 @@
-###DEC-073684-0-000-19-02-1974@@@
-
 DECRETO Nº 73.684, DE 19 DE FEVEREIRO DE 1974.
 
 Cria a Floresta Nacional do Tapajós, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-077833-0-000-16-06-1976@@@
-
 DECRETO Nº 77.833, DE 16 DE JUNHO DE 1976.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Rio de Janeiro.

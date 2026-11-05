@@ -1,5 +1,3 @@
-###DEC-005831-0-000-05-07-2006@@@
-
 DECRETO Nº 5.831, DE 5 DE JULHO DE 2006.
 
 Delega competência para a prática dos atos que especifica.
@@ -17,5 +15,3 @@ Brasília, 5 de julho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Dilma Rousseff
-
-Este texto não substitui o publicado no D.O.U. de 6.7.2006

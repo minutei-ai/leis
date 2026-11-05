@@ -1,5 +1,3 @@
-###DEC-091428-0-000-11-07-1985@@@
-
 Decreto nº 91.428, de 11 julho de 1985
 
 Declara de utilidade pública a Fundação Universitária de Cardiologia.

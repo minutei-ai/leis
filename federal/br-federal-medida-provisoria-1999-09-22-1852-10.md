@@ -1,5 +1,3 @@
-###MPV-001852-0-010-22-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.852-10, DE 22 DE SETEMBRO DE 1999.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outra providências.

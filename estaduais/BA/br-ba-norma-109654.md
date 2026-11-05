@@ -4,7 +4,8 @@ Dispõe sobre o Estatuto do Magistério Público das Universidades do Estado da 
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DISPOSIÇÕES PRELIMINARES
 
 **Art. 1º** - Esta Lei disciplina o regime jurídico do Magistério Público das Universidades do Estado da Bahia e consubstancia o seu estatuto especial, previsto na Constituição Estadual.
@@ -27,7 +28,8 @@ DISPOSIÇÕES PRELIMINARES
 
 **VII -**   promover a extensão, aberta à participação da população, visando à difusão das conquistas e benefícios resultantes da criação cultural e da pesquisa científica e tecnológica geradas na instituição.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS ATIVIDADES DO MAGISTÉRIO SUPERIOR
 
 **Art. 3º** - Nas Universidades, mantidas pelo Estado da Bahia, entende-se por atividades de magistério superior:
@@ -56,7 +58,8 @@ DAS ATIVIDADES DO MAGISTÉRIO SUPERIOR
 
 **VI -**     Outros inerentes à área acadêmica.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DA CARREIRA DOCENTE
 
 **Art. 5º** - A carreira do magistério superior será constituída pelos integrantes do quadro de pessoal docente.
@@ -83,7 +86,8 @@ DA CARREIRA DOCENTE
 
 **§ 2º** - Cabe aos Conselhos Superiores das Universidades estaduais distribuir as vagas do quadro docente de acordo com as necessidades identificadas pelos Departamentos.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO INGRESSO NA CARREIRA
 
 **Art. 9º** - O ingresso na carreira do Magistério Superior dar-se-á no cargo de Professor, nas classes de Auxiliar, Assistente, Adjunto e Titular, no nível "A", observada a titulação exigida, mediante concurso público de provas e títulos.
@@ -106,7 +110,8 @@ DO INGRESSO NA CARREIRA
 
 **Parágrafo único -**   Os membros da banca examinadora deverão ter titulação superior ou igual à exigida para inscrição no concurso.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DA PROMOÇÃO E DA PROGRESSÃO NA CARREIRA
 
 **Art. 11 -** A promoção na carreira do magistério superior far-se-á de uma para outra classe, a requerimento do interessado, condicionada à existência de vaga e de recurso orçamentário, além de outras exigências previstas nesta Lei.
@@ -161,7 +166,8 @@ DA PROMOÇÃO E DA PROGRESSÃO NA CARREIRA
 
 **Art. 19 -** O acompanhamento e a homologação dos processos de promoção e de progressão na carreira docente será da competência do Conselho Superior de cada Universidade.
 
-CAPÍTULO VI -<br>
+CAPÍTULO VI -
+
 DO REGIME DE TRABALHO
 
 **Art. 20 -** O Professor integrante da carreira do magistério superior ficará submetido a um dos seguintes regimes de trabalho, de acordo com o plano departamental:
@@ -176,7 +182,8 @@ DO REGIME DE TRABALHO
 
 **§ 2º** - O docente em regime de tempo integral com dedicação exclusiva poderá exercer cargo em comissão ou função gratificada na Universidade ou função de Secretário Estadual e de Ministro de Estado, hipóteses em que poderá afastar-se, total ou parcialmente, das atividades de ensino, pesquisa ou extensão, devendo fazer opção de remuneração nos termos da legislação em vigor.
 
-Redação de acordo com a Lei nº 14.093 de 30 de abril de 2019.<br>
+Redação de acordo com a Lei nº 14.093 de 30 de abril de 2019.
+
 Redação original: "§ 2º - O docente em regime de tempo integral com dedicação exclusiva passando a ocupar cargo em comissão ou função gratificada na Universidade, poderá afastar-se, total ou parcialmente, das atividades de ensino, pesquisa ou extensão e, em qualquer das hipóteses, fará opção de remuneração nos termos da legislação em vigor."
 
 **§ 3º** - Sem prejuízo dos encargos de magistério, será permitido ao docente em regime de tempo integral com dedicação exclusiva:
@@ -223,7 +230,8 @@ Em face da Ação Direta de Inconstitucionalidade n. 8004360-60.2019.8.05.0000 q
 
 **Art. 26** - O docente submetido ao regime de 40 (quarenta) horas semanais ou ao regime de dedicação exclusiva terá direito à fixação dos seus proventos de inatividade no regime a que se subordine, se nele houver permanecido por, no mínimo, 05 (cinco) anos consecutivos e imediatamente anteriores à data do requerimento da aposentadoria.
 
-CAPÍTULO VII -<br>
+CAPÍTULO VII -
+
 DA REMUNERAÇÃO
 
 **Art. 27 -** Os valores dos vencimentos dos integrantes da carreira do magistério superior serão fixados segundo as classes e os níveis a que pertencem e de acordo com o regime de trabalho a que estiverem submetidos.
@@ -236,7 +244,8 @@ DA REMUNERAÇÃO
 
 **Parágrafo único -**   O interstício entre classes será de 16% (dezesseis por cento) da classe de Auxiliar para a de Assistente e da de Assistente para a de Adjunto, e de 18% (dezoito por cento) da classe de Adjunto para a de Titular e da de Titular para Pleno.
 
-CAPÍTULO VIII -<br>
+CAPÍTULO VIII -
+
 DOS BENEFÍCIOS, DIREITOS E VANTAGENS
 
 **Art. 29** - Serão concedidos os seguintes incentivos de pós-graduação, calculados sobre o vencimento básico:
@@ -281,7 +290,8 @@ DOS BENEFÍCIOS, DIREITOS E VANTAGENS
 
 **§ 2º** - O abono de permanência em atividade não servirá de base para o cálculo de qualquer outra vantagem pecuniária, não gerando, em nenhuma hipótese, o direito à incorporação aos proventos da aposentadoria.
 
-CAPÍTULO IX -<br>
+CAPÍTULO IX -
+
 DOS AFASTAMENTOS
 
 **Art. 33** - Além dos casos já previstos em Lei, o integrante da carreira do magistério superior poderá afastar-se de suas funções, computando o seu afastamento como de efetivo exercício de magistério, nos seguintes casos:
@@ -326,7 +336,8 @@ Revogado pelo art. 15 da Lei nº 13.471, de 30 de dezembro de 2015.
 
 **Parágrafo único -**   Qualquer afastamento dependerá do pronunciamento favorável do Departamento competente, observadas as normas internas de cada Universidade.
 
-CAPÍTULO X -<br>
+CAPÍTULO X -
+
 DA MOVIMENTAÇÃO E DA REMOÇÃO DO PESSOAL DOCENTE
 
 **Art. 37 -** O docente poderá ser movimentado de um para outro Departamento, ou removido de uma para outra Universidade, a seu requerimento ou, considerada a sua anuência, por solicitação do Departamento ou da Universidade, atendida a sua formação ou especialidade, a necessidade do serviço e pronunciamento dos Departamentos ou das Universidades envolvidas.
@@ -337,7 +348,8 @@ DA MOVIMENTAÇÃO E DA REMOÇÃO DO PESSOAL DOCENTE
 
 **Art. 39** - A movimentação de docentes será formalizada por ato do Secretário da Educação, quando se tratar de remoção, ou por ato do Reitor, nos demais casos.
 
-CAPÍTULO XI -<br>
+CAPÍTULO XI -
+
 DOS CARGOS E FUNÇÕES DA ADMINISTRAÇÃO UNIVERSITÁRIA
 
 **Art. 40 -** Para o exercício de cargo de direção universitária e de outras atividades acadêmicas serão observadas as seguintes normas:
@@ -368,7 +380,8 @@ DOS CARGOS E FUNÇÕES DA ADMINISTRAÇÃO UNIVERSITÁRIA
 
 **Art. 46** - A investidura nos cargos de Reitor, Vice-reitor e Diretor de Departamento será de provimento temporário, sendo restritos e vinculados à Carreira do Magistério Superior das Universidades Estaduais da Bahia.
 
-CAPÍTULO XII -<br>
+CAPÍTULO XII -
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 47 -** Poderá haver contratação de Professor Substituto, nos termos da legislação em vigor, exclusivamente para suprir a falta de docente decorrente de exoneração ou demissão, falecimento, aposentadoria, afastamentos ou licenças de concessão obrigatória e licença para capacitação prevista no incisos I e II do art. 33 desta Lei.
@@ -391,7 +404,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **Art. 50** - Os Professores contratados sob o Regime de Direito Administrativo, em nenhuma hipótese, farão jus ao enquadramento no Nível B, à progressão ou à promoção, sendo estes processos restritos aos professores do quadro permanente.
 
-CAPÍTULO XIII -<br>
+CAPÍTULO XIII -
+
 DAS DISPOSIÇÕES TRANSITÓRIAS
 
 **Art. 51 -** O enquadramento dos professores dar-se-á no nível A, observada a correspondência de classe e da carga horária de cada servidor.

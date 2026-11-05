@@ -1,5 +1,3 @@
-###DEC-045174-0-000-31-12-1958@@@
-
 decreto nº 45.174, de 31 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro José Tiradentes de Lima a pesquisar minérios de manganês, de ferro e associados no município de Corumbá, Estado de Mato Grosso.

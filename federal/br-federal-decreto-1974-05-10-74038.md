@@ -1,5 +1,3 @@
-###DEC-074038-0-000-10-05-1974@@@
-
 DECRETO Nº 74.038, DE 10 DE MAIO DE 1974.
 
 Autoriza o funcionamento dos cursos de Geografia e Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Formiga, mantida pela Fundação de Ensino Superior ao Oeste de Minas.

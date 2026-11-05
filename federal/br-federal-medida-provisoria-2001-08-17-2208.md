@@ -1,5 +1,3 @@
-###MPV-002208-0-000-17-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.208, DE 17 DE AGOSTO DE 2001
 
 Dispõe sobre a comprovação da qualidade de estudante e de menor de dezoito anos nas situações que especifica.

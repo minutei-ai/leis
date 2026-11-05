@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/ea71b578-f132-48bc-ad5c-cedc19621199/texto#nowhere)
 
-###DEL-000941-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 941, DE 13 DE OUTUBRo DE 1969
 
 Define a situação jurídica do estrangeiro no Brasil, e dá outras providências.

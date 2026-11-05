@@ -1,16 +1,14 @@
-###DEC-028899-0-000-24-11-1950@@@
+**DECRETO Nº 28.899, DE 24 DE NOVEMBRO DE 1950.**
 
-<strong>DECRETO Nº 28.899, DE 24 DE NOVEMBRO DE 1950.</strong>
+***Abre ao Poder Judiciário o credito suplementar de Cr$2.549.520,00 à verba especifica.***
 
-<em><strong>Abre ao Poder Judiciário o credito suplementar de Cr$2.549.520,00 à verba especifica.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>:
+**O PRESIDENTE DA REPÚBLICA**:
 
 Usando da autorização contida na Lei nº 1.198, de 11 de setembro de 1950, e tendo ouvido o Tribunal de Contas nos têrmos do art. 92 do Regulamento Geral de Contabilidade Pública,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art</strong>. 1º É aberto ao Poder Judiciário o credito suplementar de dois milhões, quinhentos e quarenta e nove mil quinhentos e vinte cruzeiros (Cr$2.549.520,00) em refôrço das seguintes adotações:
+**Art**. 1º É aberto ao Poder Judiciário o credito suplementar de dois milhões, quinhentos e quarenta e nove mil quinhentos e vinte cruzeiros (Cr$2.549.520,00) em refôrço das seguintes adotações:
 
 VERBA 1 - PESSOAL
 
@@ -38,14 +36,14 @@ S/C:
 
 02 - Tribunal Regionais Eleitorais
 
-01 - Distrito Federal .......................................................................................................... <u>54.000,00</u>
+01 - Distrito Federal .......................................................................................................... 54.000,00
 
-<u>2.549.520,00</u>
+2.549.520,00
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de novembro de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Guilherme da Silveira

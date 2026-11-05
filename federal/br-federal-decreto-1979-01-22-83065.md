@@ -1,5 +1,3 @@
-###DEC-083065-0-000-22-01-1979@@@
-
 DECRETO Nº 83.065 DE 22 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Letras, ministrado pela Faculdade Padre Manoel da Nóbrega, com sede na cidade de São Paulo, Estado de São Paulo.

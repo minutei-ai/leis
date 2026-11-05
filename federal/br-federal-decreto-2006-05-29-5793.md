@@ -1,5 +1,3 @@
-###DEC-005793-0-000-29-05-2006@@@
-
 DECRETO Nº 5.793, DE 29 DE MAIO DE 2006.
 
 Altera dispositivos do Decreto nº 3.520, de 21 de junho de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Política Energética - CNPE.

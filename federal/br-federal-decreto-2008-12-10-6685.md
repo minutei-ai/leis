@@ -1,5 +1,3 @@
-###DEC-006685-0-000-10-12-2008@@@
-
 DECRETO Nº 6.685, DE 10 DE DEZEMBRO DE 2008.
 
 Dá nova redação aos arts. 2o e 4o do Decreto no 3.520, de 21 de junho de 2000, que dispõe sobre a estrutura e o funcionamento do Conselho Nacional de Política Energética - CNPE, e dá outras providências.

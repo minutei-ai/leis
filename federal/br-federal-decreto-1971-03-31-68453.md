@@ -1,5 +1,3 @@
-###DEC-068453-0-000-31-03-1971@@@
-
 DECRETO Nº 68.453, DE 31 de MARÇO DE 1971.
 
 Declara de utilidade pública a Fundação Regional de Ensino Superior da Araraquarense (F.R.E.S.A.) com sede em São José do Rio Prêto, Estado de São Paulo.

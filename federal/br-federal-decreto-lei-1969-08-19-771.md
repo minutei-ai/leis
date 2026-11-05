@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2af9f2a4-6230-42af-abe5-54e8ebe1e79c/texto#nowhere)
 
-###DEL-000771-0-000-19-08-1969@@@
-
 DECRETO-LEI Nº 771, DE 19 DE AGÔSTO DE 1969
 
 Altera a redação do artigo 515, letra “b” e do artigo 538, § 1º e 4º, da Consolidação das Leis do Trabalho e dá outras providências.

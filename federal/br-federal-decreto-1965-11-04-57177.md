@@ -1,5 +1,3 @@
-###DEC-057177-0-000-04-11-1965@@@
-
 DECRETO Nº 57.177, DE 4 DE NOVEMBRO DE 1965.
 
 Abre, pelo Ministério da Guerra, o crédito especial de Cr$2.502.419 (dois milhões, quinhentos e dois mil, quatrocentos e dezenove cruzeiros), para os fins que especifica.

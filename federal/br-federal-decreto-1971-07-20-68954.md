@@ -1,5 +1,3 @@
-###DEC-068954-0-000-20-07-1971@@@
-
 DECRETO Nº 68.954, DE 20 DE JULHO DE 1971.
 
 Concede reconhecimento aos Cursos de Engenharia de Operação da Escola Técnica Federal "Celso Suckow da Fonseca", GB.

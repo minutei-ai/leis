@@ -1,5 +1,3 @@
-###DEC-056630-0-000-30-07-1965@@@
-
 decreto nº 56.630, de 30 de julho de 1965.
 
 Extingue a Comissão de Estradas de Rodagem nº 5 (Cuiabá-MT) e transfere seu acervo para 5º Batalhão de Engenharia de Construção em Porto Velho - RD.

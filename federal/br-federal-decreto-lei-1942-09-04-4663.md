@@ -1,5 +1,3 @@
-###DEL-004663-0-000-04-09-1942@@@
-
 DECRETO-LEI N. 4.663 – DE 4 DE SETEMBRO DE 1942
 
 Abre ao Ministério de Viação e Obras Públicas o crédito especial de 6.000:000$0, para prosseguimento de obras a cargo da Inspetoria Federal de Obras contra as Secas.

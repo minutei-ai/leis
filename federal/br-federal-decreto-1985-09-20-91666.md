@@ -1,5 +1,3 @@
-###DEC-091666-0-000-20-09-1985@@@
-
 Decreto nº 91.666, de 20 de setembro de 1985
 
 Renova a concessão outorgada à RÁDIO IBITURUNA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade Governador Valadares, Estado de Minas Gerais.

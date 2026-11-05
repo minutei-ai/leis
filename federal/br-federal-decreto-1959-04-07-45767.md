@@ -1,5 +1,3 @@
-###DEC-045767-0-000-07-04-1959@@@
-
 DECRETO Nº 45.767, DE 7 DE ABRIL DE 1959.
 
 Restringe a zona de concessão da Companhia Fôrça e Luza de Ibiraci, Estado de Minas Gerais, amplia a da Companhia Paulista de Fôrça e Luz, e dá outras providências.

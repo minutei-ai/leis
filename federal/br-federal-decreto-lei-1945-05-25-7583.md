@@ -1,5 +1,3 @@
-###DEL-007583-0-000-25-05-1945@@@
-
 DECRETO-LEI N. 7.583 – DE 25 DE MAIO DE 1945
 
 Dispõe sôbre sociedades de crédito, financiamento ou investimentos

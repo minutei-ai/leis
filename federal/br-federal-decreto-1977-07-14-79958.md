@@ -1,5 +1,3 @@
-###DEC-079958-0-000-14-07-1977@@@
-
 DECRETO Nº 79.958, DE 14 DE JULHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

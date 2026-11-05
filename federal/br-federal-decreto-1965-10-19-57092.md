@@ -1,5 +1,3 @@
-###DEC-057092-0-000-19-10-1965@@@
-
 DECRETO Nº 57.092, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza S/A Cimento Mineração Cabotagem Cimimar a pesquisar calcário e dolomita, o município de Salto de Pirapora, Estado de São Paulo.

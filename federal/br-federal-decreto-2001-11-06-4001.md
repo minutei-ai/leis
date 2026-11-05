@@ -1,5 +1,3 @@
-###DEC-004001-0-000-06-11-2001@@@
-
 DECRETO Nº 4.001, DE 6 DE NOVEMBRO DE 2001
 
 Altera o art. 3o do Decreto no 3.136, de 13 de agosto de 1999, que cria a Comissão Nacional para a preparação da participação do Brasil nas negociações internacionais com vistas à elaboração de convenção-quadro sobre controle do uso de tabaco.

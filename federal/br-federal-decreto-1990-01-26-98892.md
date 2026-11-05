@@ -1,7 +1,3 @@
-1
-
-###DEC-098892-0-000-26-01-1990@@@
-
 DECRETO Nº 98.892, DE 26 DE JANEIRO DE 1990
 
 Dispõe sobre a organização e o funcionamento do Conselho Superior do Meio Ambiente CSMA.

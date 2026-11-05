@@ -1,5 +1,3 @@
-###DEL-006917-0-000-02-10-1944@@@
-
 DECRETO-LEI N. 6.917 – DE 2 DE OUTUBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar as Faculdades Católicas do pagamento do impôsto que menciona

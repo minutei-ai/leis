@@ -1,5 +1,3 @@
-###DEC-006899-0-000-15-07-2009@@@
-
 DECRETO Nº 6.899, DE 15 DE JULHO DE 2009.
 
 Dispõe sobre a composição do Conselho Nacional de Controle de Experimentação Animal - CONCEA, estabelece as normas para o seu funcionamento e de sua Secretaria-Executiva, cria o Cadastro das Instituições de Uso Científico de Animais - CIUCA, mediante a regulamentação da Lei no 11.794, de 8 de outubro de 2008, que dispõe sobre procedimentos para o uso científico de animais, e dá outras providências.

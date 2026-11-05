@@ -1,5 +1,3 @@
-###DEC-082813-0-000-06-12-1978@@@
-
 Decreto nº 82.813, de 06 de dezembro de 1978
 
 Cria os Parques Regionais de Manutenção do Ministério do Exército e dá outra providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099266-0-000-28-05-1990@@@
-
 DECRETO N° 99.266, DE 28 DE MAIO DE 1990
 
 Regulamenta a Lei n° 8.025, de 12 de abril de 1990, que dispõe sobre a alienação de bens imóveis residenciais de propriedade da União, e dos vinculados ou incorporados ao Fundo Rotativo Habitacional de Brasília - FRHB, situados no Distrito Federal e dá outras providências.

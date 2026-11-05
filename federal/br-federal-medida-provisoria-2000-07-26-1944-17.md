@@ -1,5 +1,3 @@
-###MPV-001944-0-017-26-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.944-17, DE 26 de julho DE 2000.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

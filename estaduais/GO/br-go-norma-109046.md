@@ -16,8 +16,6 @@ Art. 4º Este Decreto entra em vigor na data da sua publicação.
 
 Goiânia, 26 de junho de 2024; 136º da República.
 
-<br>
-
 DANIEL VILELAGovernador do Estado em exercício
 
 ANEXO ÚNICO

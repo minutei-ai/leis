@@ -1,5 +1,3 @@
-###DEC-055036-0-000-18-11-1964@@@
-
 DECRETO Nº 55.036, DE 18 DE NOVEMBRO DE 1964.
 
 Retifica relação que acompanhou o Decreto nº 51.988, de 3 de maio de 1963, que aprovou o enquadramento dos cargos e funções da Estrada de Ferro Mossoró-Souza.

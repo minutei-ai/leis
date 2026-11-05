@@ -1,5 +1,3 @@
-###DEC-077949-0-000-30-06-1976@@@
-
 DECRETO Nº 77.949, DE 30 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Cajazeiras, com sede na cidade de Cajazeiras, Estado da Paraíba.

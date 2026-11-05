@@ -1,5 +1,3 @@
-###DEC-005383-0-000-03-03-2005@@@
-
 DECRETO Nº 5.383 DE 3 DE MARÇO DE 2005
 
 Cria a Câmara de Políticas de Gestão Pública, do Conselho de Governo, e dá outras providências.

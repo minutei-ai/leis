@@ -1,5 +1,3 @@
-###DEC-057859-0-000-25-02-1966@@@
-
 DECRETO Nº 57.859, DE 25 DE FEVEREIRO DE 1966.
 
 Autoriza a Companhia Paulista de Fôrça e Luz a construir linha de transmissão e dá outras providências.

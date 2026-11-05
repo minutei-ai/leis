@@ -1,5 +1,3 @@
-###DEC-053444-0-000-20-01-1964@@@
-
 DECRETO Nº 53.444, DE 20 DE JANEIRO DE 1964.
 
 Outorga concessão ao Departamento de Águas e Energia Elétrica do Estado de São Paulo para distribuir energia elétrica em diversos municípios do Estado de São Paulo.

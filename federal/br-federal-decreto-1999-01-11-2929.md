@@ -1,5 +1,3 @@
-###DEC-002929-0-000-11-01-1999@@@
-
 DECRETO Nº 2.929, DE 11 DE JANEIRO DE 1999.
 
 Promulga o Estatuto e o Protocolo do Centro Internacional de Engenharia Genética e Biotecnologia, adotados em Madri, em 13 de setembro de 1983, e em Viena, em 4 de abril de 1984, respectivamente, e assinados pelo Brasil em 05 de maio de 1986.

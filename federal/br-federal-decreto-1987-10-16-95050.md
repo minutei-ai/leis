@@ -1,5 +1,3 @@
-###DEC-095050-0-000-16-10-1987@@@
-
 DECRETO Nº 95.050, DE 16 DE OUTUBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Bonsucesso, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

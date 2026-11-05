@@ -1,5 +1,3 @@
-###DEC-005891-0-000-11-09-2006@@@
-
 DECRETO Nº 5.891, DE 11 DE SETEMBRO DE 2006.
 
 Dispõe sobre a adoção de medidas destinadas à substituição, por sementes produzidas em conformidade com os ditames da Lei no 10.711, de 5 de agosto de 2003, de grãos de soja geneticamente modificada tolerante a glifosato reservados para uso próprio pelos produtores rurais do Estado do Rio Grande do Sul e dá outras providências.
@@ -29,5 +27,3 @@ Brasília, 11 de setembro de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
        Luiz Carlos Guedes Pinto
-
-Este texto não substitui o publicado no D.O.U. de 12.9.2006.

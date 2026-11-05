@@ -1,5 +1,3 @@
-###MPV-001685-0-003-27-08-1998@@@
-
 Medida provisória nº 1.685-3, DE 27 DE AGOSTO DE 1998
 
 Altera dispositivos da Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos e seguros privados de assistência à saúde, e dá outras providências.

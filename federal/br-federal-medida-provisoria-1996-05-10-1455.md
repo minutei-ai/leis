@@ -1,7 +1,3 @@
-1
-
-###MPV-001455-0-000-10-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.455, DE 10 DE MAIO DE 1996.
 
 Autoriza o Poder Executivo a abrir ao Orçamento da Seguridade Social da União, em favor do Ministério do Planejamento e Orçamento, crédito extraordinário no valor de R$21.000.000,00, para os fins que especifica.

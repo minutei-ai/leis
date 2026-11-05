@@ -1,5 +1,3 @@
-###DEC-066147-0-000-02-02-1970@@@
-
 DECRETO Nº 66.147 - DE 2 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública para fins de constituição de servidão administrativa uma faixa de terra destinada à passagem de linha de transmissão, no município de Salvador, Estado da Bahia.

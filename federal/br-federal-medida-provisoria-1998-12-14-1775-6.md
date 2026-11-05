@@ -1,5 +1,3 @@
-###MPV-001775-0-006-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.775-6, DE 14 DE DEZEMBRO DE 1998.
 
 Estende aos servidores públicos civis do Poder Executivo Federal a vantagem de vinte e oito vírgula oitenta e seis por cento, objeto da decisão do Supremo Tribunal Federal, e dá outras providências.

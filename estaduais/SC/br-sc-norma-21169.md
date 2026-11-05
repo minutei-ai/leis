@@ -28,6 +28,24 @@ Governador do Estado
 
 ~~MESES ALUSIVOS~~
 
-<table><tbody><tr><td><p><s>MAIO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>....................................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr><tr><td><p></p><p><s>Maio Laranja</s></p><p></p><p><s>Mês dedicado à conscientização e orientação sobre a incidência, em Santa Catarina, do abuso e da exploração sexual de crianças e adolescentes, bem como à prevenção e combate desse crime.</s></p><p></p></td><td><p></p></td></tr><tr><td><p><s>JUNHO</s></p></td><td><p><s>LEI ORIGINAL Nº</s></p></td></tr><tr><td><p><s>....................................................................................................</s></p></td><td><p><s>.............................</s></p></td></tr></tbody></table>
+~~MAIO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~....................................................................................................~~
+
+~~.............................~~
+
+~~Maio Laranja~~
+
+~~Mês dedicado à conscientização e orientação sobre a incidência, em Santa Catarina, do abuso e da exploração sexual de crianças e adolescentes, bem como à prevenção e combate desse crime.~~
+
+~~JUNHO~~
+
+~~LEI ORIGINAL Nº~~
+
+~~....................................................................................................~~
+
+~~.............................~~
 
 ~~” (NR)~~

@@ -1,5 +1,3 @@
-###DEC-056001-0-000-23-04-1965@@@
-
 DECRETO nº 56.001, DE 23 DE ABRIL DE 1965.
 
 Declara de urgência para efeito de desapropriação parte da área declarada de interêsse social para o mesmo fim pelo Decreto n° 55.761, de 16 de fevereiro de 1965.

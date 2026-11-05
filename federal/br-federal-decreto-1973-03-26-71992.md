@@ -1,5 +1,3 @@
-###DEC-071992-0-000-26-03-1973@@@
-
 DECRETO N.º 71.992 , DE 26 DE MARÇO DE 1973.
 
 Disciplina a aplicação das despesas de administração do Fundo de Liquidez da Previdência Social e dá outras providências.

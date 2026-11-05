@@ -1,7 +1,3 @@
-1
-
-###DEC-000284-0-000-29-10-1991@@@
-
 DECRETO Nº 284, DE 29 DE OUTUBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Uati-Paraná, no Estado do Amazonas.

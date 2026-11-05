@@ -1,5 +1,3 @@
-###DEC-068742-0-000-15-06-1971@@@
-
 DECRETO Nº 68.742 - DE 15 DE JUNHO DE 1971.
 
 Redistribui cargo, com o respectivo ocupante para o Quadro de Pessoal do Ministério do Trabalho e Previdência Social, e dá outras providências.

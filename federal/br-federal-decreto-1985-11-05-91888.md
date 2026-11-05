@@ -1,5 +1,3 @@
-###DEC-091888-0-000-05-11-1985@@@
-
 Decreto nº 91.888, de 05 de novembro de 1985.
 
 Declara como Área de Relevante Interesse Ecológico - ARIE as Ilhas de Pinheiro e Pinheirinho, localizadas no Estado do Paraná e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047936-0-000-15-03-1960@@@
-
 DECRETO Nº 47.936, DE 15 DE MARÇO DE 1960.
 
 Autoriza a execução de obras de emergência no Norte do Estado de Minas Gerais, na área do Polígono das Sêcas.

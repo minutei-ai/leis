@@ -1,5 +1,3 @@
-###DEC-084085-0-000-15-10-1979@@@
-
 decreto nº 84.085, de 15 de outubro de 1979.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da Companhia Paulista de força e luz - CPFL, no Estado de São Paulo.

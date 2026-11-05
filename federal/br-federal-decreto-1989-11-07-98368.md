@@ -1,7 +1,3 @@
-1
-
-###DEC-098368-0-000-07-11-1989@@@
-
 DECRETO Nº 98.368, DE 07 DE NOVEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Marketing da Faculdade da Cidade, com sede no Rio de Janeiro, Estado do Rio de Janeiro.

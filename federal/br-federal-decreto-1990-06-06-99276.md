@@ -1,7 +1,3 @@
-1
-
-###DEC-099276-0-000-06-06-1990@@@
-
 DECRETO N° 99.276, DE 6 DE JUNHO DE 1990
 
 Dispõe sobre a criação da Arie-Área de Relevante Interesse Ecológico BURITI DE VASSUNUNGA, na Área Florestal de Vassununga, no Município de Santa Rita do Passa-Quatro, Estado de São Paulo.

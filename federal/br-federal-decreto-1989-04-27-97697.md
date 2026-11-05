@@ -1,7 +1,3 @@
-1
-
-###DEC-097697-0-000-27-04-1989@@@
-
 DECRETO N° 97.697, DE 27 DE ABRIL DE 1989
 
 Reajusta o valor do Salário Mínimo de Referência.

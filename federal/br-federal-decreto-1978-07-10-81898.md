@@ -1,5 +1,3 @@
-###DEC-081898-0-000-10-07-1978@@@
-
 Decreto nº 81.898, de 10 de julho de 1978.
 
 Concede reconhecimento ao curso de Tecnólogo Industrial de Açúcar da Cana, ministrado pela Universidade Federal de Alagoas, com sede na cidade de Maceió, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-081362-0-000-20-02-1978@@@
-
 Decreto nº 81.362, de 20 de fevereiro de 1978
 
 Concede à Itapebira Mármores e Granitos Ltda. o direito de lavrar talco no Município de Jacupiranga, Estado de São Paulo.

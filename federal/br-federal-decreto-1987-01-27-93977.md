@@ -1,5 +1,3 @@
-###DEC-093977-0-000-27-01-1987@@@
-
 DECRETO Nº 93.977, DE 27 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Recreio", situado no Município de Salgadinho, no Estado de Pernambuco, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.683, de 19 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração e dá outras providências.

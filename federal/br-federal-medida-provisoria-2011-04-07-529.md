@@ -1,5 +1,3 @@
-###MPV-000529-0-000-07-04-2011-PUB-01@@@
-
 MEDIDA PROVISÓRIA Nº 529, DE 7 DE ABRIL DE 2011
 
 Altera a Lei nº 8.212, de 24 de julho de 1991, no tocante à contribuição previdenciária do microempreendedor individual.

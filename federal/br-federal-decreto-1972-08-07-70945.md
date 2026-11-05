@@ -1,5 +1,3 @@
-###DEC-070945-0-000-07-08-1972@@@
-
 DECRETO Nº 70.945, de 7 de agosto de 1972.
 
 Concede reconhecimento à Faculdade de Ciências Econômicas, Contábeis e Administrativas de Barbacena, Minas Gerais.

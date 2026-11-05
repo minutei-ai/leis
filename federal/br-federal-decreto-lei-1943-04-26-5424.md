@@ -1,5 +1,3 @@
-###DEL-005424-0-000-26-04-1943@@@
-
 DECRETO‑LEI N. 5.424 – DE 26 DE ABRIL DE 1943
 
 Dispõe sobre a distribuição e aplicação de dotação orçamentária destinada a despesas de representação, excursões, hospedagens e homenagens

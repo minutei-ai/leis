@@ -1,7 +1,3 @@
-1
-
-###DEC-000639-0-000-24-08-1992@@@
-
 DECRETO Nº 639, DE 24 DE AGOSTO DE 1992
 
 Promulga o Acordo de Cooperação Cultura entre o Governo da República Federativa do Brasil e o Governo da República da Polônia.

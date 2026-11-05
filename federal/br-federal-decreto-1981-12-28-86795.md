@@ -1,5 +1,3 @@
-###DEC-086795-0-000-28-12-1981@@@
-
 Decreto nº 86.795, de 28 de dezembro de 1981
 
 Dispõe sobre a realização de despesas de pessoal e dá outras providências.

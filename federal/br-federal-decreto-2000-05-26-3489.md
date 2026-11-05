@@ -1,5 +1,3 @@
-###DEC-003489-0-000-26-05-2000@@@
-
 DECRETO Nº 3.489, DE 26 DE MAIO DE 2000.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de aproveitamentos hidrelétricos, e dá outras providências.

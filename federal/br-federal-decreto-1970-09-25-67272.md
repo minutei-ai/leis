@@ -1,5 +1,3 @@
-###DEC-067272-0-000-25-09-1970@@@
-
 decreto nº 67.272, de 25 de setembro de 1970.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia Nossa Senhora do Rosário, com sede em Colombo, Estado do Paraná.

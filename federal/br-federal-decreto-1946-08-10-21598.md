@@ -1,14 +1,12 @@
-###DEC-021598-0-000-10-08-1946@@@
+**DECRETO Nº 21.598, DE 10 DE AGÔSTO DE 1946.**
 
-<strong>DECRETO Nº 21.598, DE 10 DE AGÔSTO DE 1946.</strong>
+***Declara de utilidade pública e autoriza a desapropriação de diversas áreas de terras, necessárias ao estabelecimento das instalações referentes ao aproveitamento hidroelétrico do rio Jaguari.***
 
-<em><strong>Declara de utilidade pública e autoriza a desapropriação de diversas áreas de terras, necessárias ao estabelecimento das instalações referentes ao aproveitamento hidroelétrico do rio Jaguari.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 74,letra a, da Constituição e tendo em vista o requerido pela interessada e o disposto no art. 151, letras a e b, do Código de Águas e nos artigos 3.º e 5.º letra h, do Decreto-lei n.º 3.385, de 21 e junho de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 74,letra a, da Constituição e tendo em vista o requerido pela interessada e o disposto no art. 151, letras a e b, do Código de Águas e nos artigos 3.º e 5.º letra h, do Decreto-lei n.º 3.385, de 21 e junho de 1941,
+**DECRETA;**
 
-<strong>DECRETA;</strong>
-
-<strong>Art</strong>. 1º Ficam consideradas de utilidade pública, nos têrmos dos artigos 3.º e 5.\_7 da letra h, do Decreto-lei número 3.365, de 21 de junho de 1941, as seguintes áreas de terras, situadas tôdas no município de Bragança Paulista, Estado de São Paulo, e necessárias ao estabelecimento das instalações referentes ao aproveitamento hidroelétrico do rio Jaguari, conforme decreto n.º 12.243, de 14 de abril de 1943, de acôrdo com as plantas apresentadas e aprovadas como segue:
+**Art**. 1º Ficam consideradas de utilidade pública, nos têrmos dos artigos 3.º e 5.\_7 da letra h, do Decreto-lei número 3.365, de 21 de junho de 1941, as seguintes áreas de terras, situadas tôdas no município de Bragança Paulista, Estado de São Paulo, e necessárias ao estabelecimento das instalações referentes ao aproveitamento hidroelétrico do rio Jaguari, conforme decreto n.º 12.243, de 14 de abril de 1943, de acôrdo com as plantas apresentadas e aprovadas como segue:
 
 1\) área de vinte mil duzentos e quarenta e três metros quadrados (20.243m2), propriedade atribuída aos Irmãos Morales;
 
@@ -114,12 +112,12 @@
 
 53\) área de setecentos metros quadrados (700 m2), propriedade atribuída a Arlindo Pereira Bueno.
 
-<strong>Art</strong>. 2º A Companhia Têxtil Santa Basilissa fica autorizada a promover a desapropriação das áreas de terras acima relacionadas, com fundamento no art. 3º, e de conformidade com o disposto no art. 15 do decreto-lei número 3.365, de 21 de junho de 1941.
+**Art**. 2º A Companhia Têxtil Santa Basilissa fica autorizada a promover a desapropriação das áreas de terras acima relacionadas, com fundamento no art. 3º, e de conformidade com o disposto no art. 15 do decreto-lei número 3.365, de 21 de junho de 1941.
 
-<strong>Art</strong>. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 10 de Agôsto de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

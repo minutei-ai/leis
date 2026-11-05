@@ -1,5 +1,3 @@
-###DEC-066363-0-000-20-03-1970@@@
-
 DECRETO Nº 66.363 - DE 20 DE MARÇO DE 1970
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em São Gabriel - RS, destinado ao Ministério do Exército.

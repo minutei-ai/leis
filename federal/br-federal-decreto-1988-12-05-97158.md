@@ -1,5 +1,3 @@
-###DEC-097158-0-000-05-12-1988@@@
-
 DECRETO Nº 97.158, DE 5 DE DEZEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Itápolis, da Companhia Paulista de Força e Luz CPFL, no Estado de São Paulo.

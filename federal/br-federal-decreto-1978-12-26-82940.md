@@ -1,5 +1,3 @@
-###DEC-082940-0-000-26-12-1978@@@
-
 Decreto nº 82 940, de 26 de dezembro de 1978
 
 Concede reconhecimento ao curso de Física, ministrado pela Universidade Regional do Nordeste, com sede na cidade de Campina Grande, Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEC-094106-0-000-18-03-1987@@@
-
 DECRETO N° 94.106, DE 18 DE MARÇO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "GLEBA SERRINHA - LOTE ÚLTIMA HORA", situado no Município de Água Boa, no Estado de Mato Grosso, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.620, de 2 de maio de 1986, classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, e dá outras providências.

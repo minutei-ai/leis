@@ -1,5 +1,3 @@
-###DEL-008716-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.716 – DE 18 DE JANEIRO DE 1946
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 2.000.000,00 para a realização de um acôrdo de fomento vegetal com o Estado de Minas Gerais.

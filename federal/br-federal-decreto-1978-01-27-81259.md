@@ -1,5 +1,3 @@
-###DEC-081259-0-000-27-01-1978@@@
-
 Decreto nº 81 259, de 27 de janeiro de 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais, da Faculdade de Filosofia Ciências e Letras, com sede na cidade de Alegrete, Estado do Rio Grande do Sul.

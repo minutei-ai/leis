@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210507)<br>
-
 # DECRETO N° 69.282, DE 31 DE DEZEMBRO DE 2024
 
 ### _Altera o Decreto n° 63.363, de 20 de abril de 2018, que institui, no âmbito do Estado de São Paulo, prazo adicional de adequação para Entidades de Direito Privado sem Fins Lucrativos participantes e beneficiárias do Programa de Estímulo à Cidadania Fiscal do Estado de São Paulo, instituído pela Lei n° 12.685, de 28 de agosto de 2007, e dá outras providências._

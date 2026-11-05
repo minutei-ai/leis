@@ -1,7 +1,3 @@
-1
-
-###DEC-097646-0-000-12-04-1989@@@
-
 DECRETO N° 97.646, DE 12 DE ABRIL DE 1989
 
 Autoriza o funcionamento do curso de Letras da Faculdade de Administração e Letras de Naviraí, Estado do Mato Grosso do Sul.

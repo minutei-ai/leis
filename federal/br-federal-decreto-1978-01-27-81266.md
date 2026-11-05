@@ -1,5 +1,3 @@
-###DEC-081266-0-000-27-01-1978@@@
-
 Decreto nº 81 266, de 22 de janeiro de 1978.
 
 Aprova a tranformação do curso de Matemática em curso de Ciências, da Faculdade Paulistana de Ciências e Letras, com sede na cidade de São Paulo, Estado de São Paulo.

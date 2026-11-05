@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7594af02-b0b5-41f6-ba0b-97e872b2dc7f/texto#nowhere)
 
-###DEL-000840-0-000-08-09-1969@@@
-
 DECRETO-LEI Nº 840, DE 8 DE SETEMBRO DE 1969
 
 Dá nova redação ao artigo 13, do Decreto-lei nº 301, de 28 de fevereiro de 1967.

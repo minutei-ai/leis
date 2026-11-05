@@ -1,5 +1,3 @@
-###DEC-091909-0-000-12-11-1985@@@
-
 Decreto nº 91.909, de 12 de novembro de 1985.
 
 Altera a Composição da Comissão Especial para promover análise da situação do cooperativismo no Brasil.

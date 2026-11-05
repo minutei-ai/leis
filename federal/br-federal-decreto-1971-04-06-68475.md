@@ -1,5 +1,3 @@
-###DEC-068475-0-000-06-04-1971@@@
-
 DECRETO Nº 68.475 - de 6 de abril de 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linhas de transmissão no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-050381-0-000-27-03-1961@@@
-
 DECRETO Nº 50.381, DE 27 DE marçO 1961.
 
 Dispõe sôbre empréstimos pelo Banco do Brasil aos Estados e Municípios.

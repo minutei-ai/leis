@@ -1,5 +1,3 @@
-###DEC-046065-0-000-19-05-1959@@@
-
 DECRETO Nº 46.065, DE 19 DE MAIO DE 1959.
 
 Autoriza estrangeiro a adquirir o domínio útil do terreno acrescido de marinha que menciona, em Salvador, no Estado da Bahia.

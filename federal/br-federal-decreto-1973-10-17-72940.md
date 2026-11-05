@@ -1,5 +1,3 @@
-###DEC-072940-0-000-17-10-1973@@@
-
 DECRETO Nº 72.940, DE 17 DE OUTUBRO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Mandaguari, mantida pela Fundação Faculdade de Filosofia, Ciências e Letras de Mandaguari, com sede na Cidade de Mandaguari, Estado do Paraná.

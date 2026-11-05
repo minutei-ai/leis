@@ -1,16 +1,14 @@
-###DEC-028091-0-000-08-05-1950@@@
+**DECRETO Nº 28.091, DE 8 DE MAIO DE 1950.**
 
-<strong>DECRETO Nº 28.091, DE 8 DE MAIO DE 1950.</strong>
+***Revalida o Decreto nº 19.742, de 6 de outubro de 1945, que autorizou a Companhia Fôrça e Luz Marianense S.A. a ampliar suas instalações.***
 
-<em><strong>Revalida o Decreto nº 19.742, de 6 de outubro de 1945, que autorizou a Companhia Fôrça e Luz Marianense S.A. a ampliar suas instalações.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o que requereu a Companhia Fôrça e Luz Marianense S.A.,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e tendo em vista o que requereu a Companhia Fôrça e Luz Marianense S.A.,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica revalidado o Decreto nº 19.742, de 6 de outubro de 1945, que autorizou a Companhia Fôrça e Luz Marianense S.A. a ampliar suas instalações.
 
-<strong>Art</strong>. 1º Fica revalidado o Decreto nº 19.742, de 6 de outubro de 1945, que autorizou a Companhia Fôrça e Luz Marianense S.A. a ampliar suas instalações.
-
-<strong>Art</strong>. 2º Caducará o presente título independente de ato declaratório, se a interessada não satisfizer as condições seguintes:
+**Art**. 2º Caducará o presente título independente de ato declaratório, se a interessada não satisfizer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, do Departamento Nacional da Produção Mineral, do Ministério da Agricultura, dentro de trinta (30) dias, a partir da sua publicação.
 
@@ -20,12 +18,12 @@ III - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministr
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art</strong>. 3º O presente Decreto entra em vigor na data de sua publicação.
+**Art**. 3º O presente Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 8 de maio de 1950; 129º da Independência e 62º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 A. de Novaes Filho

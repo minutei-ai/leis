@@ -1,5 +1,3 @@
-###DEC-077807-0-000-10-06-1976@@@
-
 DECRETO N.º 77.807, DE 10 DE JUNHO DE 1976.
 
 Altera dispositivos do Decreto número 76.593, de 14 de novembro de 1975, que institui o Programa Nacional do Álcool e dá outras providências.

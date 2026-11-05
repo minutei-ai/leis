@@ -1,5 +1,3 @@
-###MPV-001880-0-011-22-10-1999@@@
-
 medida provisória nº 1.880-11, de 22 de outubro de 1999.
 
 Institui o Auxílio-Transporte aos militares, servidores e empregados públicos da Administração Federal direta, autárquica e fundacional da União, e revoga o § 1º do art. 1º da Lei nº 7.418, de 16 de dezembro de 1985.

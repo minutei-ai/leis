@@ -1,5 +1,3 @@
-###DEC-047759-0-000-04-02-1960@@@
-
 DECRETO Nº 47.759, DE 4 DE FEVEREIRO DE 1960.
 
 Altera a redação do art. 1º do Decreto nº 46.750, de 26 de agôsto de 1959.

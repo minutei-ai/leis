@@ -1,5 +1,3 @@
-###DEC-047774-0-000-09-02-1960@@@
-
 DECRETO Nº 47.774, DE 9 DE FEVEREIRO DE 1960.
 
 Regulamenta o art. 36 da Lei número 1.522, de 26 de dezembro de 1951, e dá outras providências.

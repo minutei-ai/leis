@@ -1,5 +1,3 @@
-###DEC-051435-0-000-22-03-1962@@@
-
 decreto nº 51.435, de 22 de março de 1962.
 
 Designa o substituto eventual do Presidente da Diretoria do Instituto Brasileiro do Café.

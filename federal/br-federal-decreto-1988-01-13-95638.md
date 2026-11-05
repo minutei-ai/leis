@@ -1,7 +1,3 @@
-1
-
-###DEC-095638-0-000-13-01-1988@@@
-
 DECRETO Nº 95.638, DE 13 DE JANEIRO DE 1988
 
 Extingue o Centro de Informações da Aeronáutica.

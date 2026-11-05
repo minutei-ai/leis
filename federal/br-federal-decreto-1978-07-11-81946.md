@@ -1,5 +1,3 @@
-###DEC-081946-0-000-11-07-1978@@@
-
 Decreto nº 81.946, de 11 de julho de 1978
 
 Concede à CECRISA - Cerâmica Criciúma S.A. o direito de lavrar caulim no Município de Urussanga, Estado de Santa Catarina,

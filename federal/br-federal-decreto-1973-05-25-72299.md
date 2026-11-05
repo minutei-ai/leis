@@ -1,5 +1,3 @@
-###DEC-072299-0-000-25-05-1973@@@
-
 DECRETO Nº 72.299, DE 25 DE MAIO DE 1973.
 
 Concede reconhecimento ao curso de Administração de Empresas da Faculdade de Ciências Econômicas e Comerciais de Santos, mantidas pela Sociedade Visconde de São Leopoldo, com Sede na cidade de Santos, Estado de São Paulo.

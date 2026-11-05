@@ -1,7 +1,3 @@
-1
-
-###MPV-000765-0-000-16-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 765,  DE 16 DE DEZEMBRO DE 1994
 
 Altera dispositivos da Lei nº 4.024, de 20 de dezembro de 1961, e da Lei nº 5.540, de 28 de novembro de 1968, e dá outras providências.

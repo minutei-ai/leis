@@ -1,5 +1,3 @@
-###DEC-080811-0-000-23-11-1977@@@
-
 DECRETO Nº 80.811, DE 23 DE NOVEMBRO DE 1977.
 
 Declara sem efeito o Decreto nº 53.272, de 13 de dezembro de 1963, que autorizou o cidadão brasileiro José Magalhães Lima a lavrar minério de ferro no Município de Nova Lima, Estado de Minas Gerais.

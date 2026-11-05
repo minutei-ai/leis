@@ -1,5 +1,3 @@
-###DEC-050979-0-000-18-07-1961@@@
-
 DECRETO Nº 50.979, DE 18 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio do Estado de Minas Gerais as águas do rio Ramalhete.

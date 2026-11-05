@@ -1,5 +1,3 @@
-###MPV-001982-0-077-23-11-2000@@@
-
 MEDIdA PROVISÓRIA Nº 1.982-77, DE 23 DE novembro DE 2000.
 
 Dispõe sobre a participação dos trabalhadores nos lucros ou resultados da empresa e dá outras providências.

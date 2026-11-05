@@ -1,5 +1,3 @@
-###DEC-001467-0-000-27-04-1995@@@
-
 DECRETO Nº 1.467, DE 27 DE ABRIL DE 1995
 
 Cria o Grupo Executivo para Modernização dos Portos.

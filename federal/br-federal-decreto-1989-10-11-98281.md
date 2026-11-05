@@ -1,7 +1,3 @@
-1
-
-###DEC-098281-0-000-11-10-1989@@@
-
 DECRETO N° 98.281, DE 11 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Psicologia do Instituto de Ensino Superior e Pesquisa, em Divinópolis, Estado de Mi­nas Gerais.

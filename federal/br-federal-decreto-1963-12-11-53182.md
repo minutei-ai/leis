@@ -1,5 +1,3 @@
-###DEC-053182-0-000-11-12-1963@@@
-
 DECRETO Nº 53.182, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia de Mineração Rio Acima a lavrar calcário, dolomita e mármore, no município de Santa Bárbara, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-054428-0-000-12-10-1964@@@
-
 decreto nº 54.428, de 12 de outubro de 1964.
 
 Autoriza a Mineração Pedra Branca Ltda, a pesquisar mármore, no município de Cachoeiro do Itapemirim - Estado do Espírito Santo.

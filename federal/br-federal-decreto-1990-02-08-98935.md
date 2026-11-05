@@ -1,7 +1,3 @@
-1
-
-###DEC-098935-0-000-08-02-1990@@@
-
 DECRETO Nº 98.935, DE 8 DE FEVEREIRO DE 1990
 
 Altera a sigla do Conselho Consultivo da Administração de Saúde Previdenciária.

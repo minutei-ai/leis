@@ -1,5 +1,3 @@
-###DEC-002885-0-000-17-12-1998@@@
-
 DECRETO Nº 2.885, DE 17 DE DEZEMBRO DE 1998.
 
 Regulamenta a Lei nº 9.690, de 15 de julho de 1998, que autoriza a inclusão de municípios na área de atuação da Superintendência do Desenvolvimento do Nordeste - SUDENE.

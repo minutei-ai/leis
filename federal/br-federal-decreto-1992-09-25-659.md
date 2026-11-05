@@ -1,7 +1,3 @@
-1
-
-###DEC-000659-0-000-25-09-1992@@@
-
 DECRETO N° 659, DE 25 DE SETEMBRO DE 1992
 
 Altera a estrutura regimental do Ministério das Relações Exteriores e dá outras providências.

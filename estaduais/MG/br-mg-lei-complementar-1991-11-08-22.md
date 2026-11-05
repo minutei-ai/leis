@@ -87,7 +87,3 @@ Evandro de Pádua Abreu
 Paulo de Tarso Almeida Paiva
 
 Roberto Lúcio Rocha Brant
-
-\================================================================
-
-Data da última atualização: 20/07/2004.

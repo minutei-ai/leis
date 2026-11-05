@@ -1,7 +1,3 @@
-1
-
-###DEC-098607-0-000-19-12-1989@@@
-
 DECRETO Nº 98.607, DE 19 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Faculdade Capixaba de Informática.

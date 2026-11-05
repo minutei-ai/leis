@@ -1,5 +1,3 @@
-###DEC-064361-0-000-17-04-1969@@@
-
 DECRETO Nº 64.361, DE 17 DE ABRIL DE 1969.
 
 Cria o Consulado honorário do Brasil em Bahia Blanca, Argentina.

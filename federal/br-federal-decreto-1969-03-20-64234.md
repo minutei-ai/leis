@@ -1,5 +1,3 @@
-###DEC-064234-0-000-20-03-1969@@@
-
 DECRETO Nº 64.234, DE 20 DE MARÇO DE 1969.
 
 Concede reconhecimento a Faculdade.

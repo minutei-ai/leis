@@ -1,5 +1,3 @@
-###MPV-001699-0-041-27-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.699-41, DE 27 DE OUTUBRO DE 1998
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

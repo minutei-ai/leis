@@ -1,5 +1,7 @@
-DECRETO Nº 10.297, DE 2 DE AGOSTO DE 2023<br>
-\- [Vide Decreto nº 10.504](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109226/decreto-10504), de 24-7-2024 (Prorroga a vigência deste Decreto por mais 180 dias)<br>
+DECRETO Nº 10.297, DE 2 DE AGOSTO DE 2023
+
+\- [Vide Decreto nº 10.504](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109226/decreto-10504), de 24-7-2024 (Prorroga a vigência deste Decreto por mais 180 dias)
+
 \- [Vide Decreto nº 10.393](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108405/decreto-10393), de 15-1-2024 (Prorroga a vigência deste Decreto por mais 180 dias)
 
 Dispõe sobre a decretação de situação de emergência zoossanitária no Estado de Goiás, de forma preventiva, para a mitigação do risco da influenza aviária de alta patogenicidade.
@@ -22,8 +24,10 @@ Art. 6º A AGRODEFESA editará as normas complementares ao cumprimento do dispos
 
 Art. 7º A tramitação dos processos sobre assuntos relacionados à matéria tratada neste Decreto se dará em regime de urgência, excepcionalidade e prioridade em todos os órgãos e entidades da administração pública do Estado de Goiás, que deverão comunicar cada ato administrativo aos órgãos de controle.
 
-Art. 8º Este Decreto entra em vigor na data da sua publicação, com duração de 180 (cento e oitenta) dias.<br>
-\- [Vide Decreto nº 10.504](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109226/decreto-10504), de 24-7-2024 (Prorroga a vigência deste Decreto por mais 180 dias)<br>
+Art. 8º Este Decreto entra em vigor na data da sua publicação, com duração de 180 (cento e oitenta) dias.
+
+\- [Vide Decreto nº 10.504](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109226/decreto-10504), de 24-7-2024 (Prorroga a vigência deste Decreto por mais 180 dias)
+
 \- [Vide Decreto nº 10.393](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108405/decreto-10393), de 15-1-2024 (Prorroga a vigência deste Decreto por mais 180 dias)
 
 Goiânia, 2 de agosto de 2023; 135º da República.

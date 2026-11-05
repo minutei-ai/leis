@@ -1,5 +1,3 @@
-###DEC-088784-0-000-03-10-1983@@@
-
 DECRETO Nº 88.784, DE 03 DE OUTUBRO DE 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO DIFUSORA DE GUARAPUAVA LTDA., para explorar serviço de radiodifusão sonora em onde média, na cidade de Guarapuava, Estado do Paraná.

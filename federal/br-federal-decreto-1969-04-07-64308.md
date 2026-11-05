@@ -1,5 +1,3 @@
-###DEC-064308-0-000-07-04-1969@@@
-
 DECRETO Nº 64.308, DE 7 DE ABRIL DE 1969.
 
 Declara de utilidade pública o Ginásio e Escola Normal Auxilium, com sede em Anápolis, Estado de Goiás.

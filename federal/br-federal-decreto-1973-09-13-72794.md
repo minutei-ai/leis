@@ -1,5 +1,3 @@
-###DEC-072794-0-000-13-09-1973@@@
-
 DECRETO Nº 72.794, DE 13 DE SETEMBRO DE 1973.
 
 Declara a caducidade dos Decretos que menciona.

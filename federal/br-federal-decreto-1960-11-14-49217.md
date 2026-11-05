@@ -1,5 +1,3 @@
-###DEC-049217-0-000-14-11-1960@@@
-
 DECRETO Nº 49.217, DE 14 DE NOVEMBRO DE 1960.
 
 Declara de utilidade pública o Hospital Nossa Senhora das Graças, com sede em Curitiba, Estado do Paraná.

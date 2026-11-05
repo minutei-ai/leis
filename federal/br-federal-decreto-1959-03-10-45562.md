@@ -1,5 +1,3 @@
-###DEC-045562-0-000-10-03-1959@@@
-
 DECRETO Nº 45.562 - DE 10 DE MARÇO DE 1959.
 
 Revoga o Decreto nº 26.623, de 3 de maio de 1949.

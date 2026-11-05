@@ -1,5 +1,3 @@
-###DEC-072503-0-000-20-07-1973@@@
-
 DECRETO Nº 72.503, DE 20 DE JULHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, dois lotes de terrenos urbanos e suas benfeitorias, situados na Cidade de Taubaté, Estado de São Paulo, destinados à instalação de uma estação de telex e telegrafia, pela Empresa Brasileira de Telecomunicações S.A. EMBRATEL.

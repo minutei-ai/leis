@@ -1,5 +1,3 @@
-###DEC-049670-0-000-31-12-1960@@@
-
 DECRETO Nº 49.670, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Raimundo Figueiredo Cavalcante a pesquisar cassiterita, no município de Pôrto Velho, Território Federal de Rondônia.

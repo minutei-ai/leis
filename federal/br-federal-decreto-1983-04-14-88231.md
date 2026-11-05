@@ -1,5 +1,3 @@
-###DEC-088231-0-000-14-04-1983@@@
-
 Decreto nº 88.231, de 14 de abril de 1983
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas (DNOCS) área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "SANTA INÊS", no Município de Conceição, Estado da Paraíba e dá outras providências.

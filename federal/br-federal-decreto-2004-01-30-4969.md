@@ -1,5 +1,3 @@
-###DEC-004969-0-000-30-01-2004@@@
-
 DECRETO Nº 4.969,  DE 30 DE JANEIRO DE 2004.
 
 Regulamenta a Lei nº 9.445, de 14 de março de 1997, que concede subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais, e dá outras providências.

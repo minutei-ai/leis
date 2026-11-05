@@ -1,5 +1,3 @@
-###DEL-005187-0-000-13-01-1943@@@
-
 DECRETO‑LEI N. 5.187 – DE 13 DE JANEIRO DE 1943
 
 Modifica o art. 17 da lei sobre a organizarão e proteção da família

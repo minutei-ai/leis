@@ -1,5 +1,3 @@
-###DEC-060563-0-000-07-04-1967@@@
-
 DECRETO Nº 60.563, DE 7 DE ABRIL DE 1967.
 
 Dá nova redação ao caput do artigo 1º do Decreto nº 54.018, de 14 de julho de 1964.

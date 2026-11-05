@@ -1,5 +1,3 @@
-###DEL-003014-0-000-01-02-1941@@@
-
 DECRETO-LEI N. 3.014 – DE 1 DE FEVEREIRO DE 1941
 
 Corrige, altera e modifica dispositivos do vigente regulamento do imposto de consumo

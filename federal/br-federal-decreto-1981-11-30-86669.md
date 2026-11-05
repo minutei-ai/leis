@@ -1,5 +1,3 @@
-###DEC-086669-0-000-30-11-1981@@@
-
 DECRETO Nº 86.669, DE 30 DE NOVEMBRO DE 1981.
 
 Altera o Regulamento da Ordem de Rio Branco.

@@ -1,5 +1,3 @@
-###DEC-086172-0-000-02-07-1981@@@
-
 Decreto nº 86.172 de 02 de julho de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à ampliação da área das instalações e vias de circulação do Porto de Manaus, localizado na Cidade de Manaus, Estado do Amazonas, e dá outras providências.

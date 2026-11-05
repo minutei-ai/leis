@@ -1,5 +1,3 @@
-###MPV-002142-0-003-21-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº  2.142‑3, DE 21 DE JUNHO DE 2001
 
 Dispõe sobre o salário mínimo a partir de 1º de abril de 2001, e dá outras providências.

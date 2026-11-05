@@ -1,5 +1,3 @@
-###DEC-085359-0-000-12-11-1980@@@
-
 Decreto nº 85.359, de 12 de novembro de 1980.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, que menciona.

@@ -1,5 +1,3 @@
-###DEC-091671-0-000-20-09-1985@@@
-
 Decreto nº 91.671, de 20 de Setembro de 1985
 
 Renova a concessão outorga à RÁDIO UBÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Ivaiporã, Estado do Paraná.

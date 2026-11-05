@@ -1,5 +1,3 @@
-###DEC-045198-0-000-31-12-1958@@@
-
 DECRETO Nº 45.198, DE 31 DE DEZEMBRO DE 1958.
 
 Prorroga o prazo a que se refere o art. 4º do Decreto nº 43.101, de 24 de janeiro de 1958.

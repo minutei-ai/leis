@@ -1,5 +1,3 @@
-###DEC-050480-0-000-20-04-1961@@@
-
 Decreto nº 50.480, de 20 de abril de 1961.
 
 Cria a 9ª Companhia de Fronteira com sede em Boa Vista - Território Federal do Rio Branco subordinada ao Grupamento de Elementos de Fronteira.

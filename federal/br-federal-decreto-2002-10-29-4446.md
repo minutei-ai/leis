@@ -1,5 +1,3 @@
-###DEC-004446-0-000-29-10-2002@@@
-
 DECRETO Nº 4.446, DE 29 DE OUTUBRO DE 2002
 
 Dispõe sobre a inclusão da BESC S.A. Crédito Imobiliário - BESCRI no Anexo ao Decreto nº 3.280, de 8 de dezembro de 1999, sobre sua inclusão no Programa Nacional de Desestatização - PND e sobre os meios de pagamento do preço correspondente à alienação de suas ações.

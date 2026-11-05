@@ -1,7 +1,3 @@
-1
-
-###DEC-002049-0-000-31-10-1996@@@
-
 DECRETO Nº 2049, DE 31 DE OUTUBRO DE 1996.
 
 Regulamenta a Lei nº 6.704, de 26 de outubro de 1979, relativa ao Seguro de Crédito à Exportação.

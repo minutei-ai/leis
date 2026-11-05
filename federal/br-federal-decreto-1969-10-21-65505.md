@@ -1,5 +1,3 @@
-###DEC-065505-0-000-21-10-1969@@@
-
 decreto nº 65.505 - de 21 de outubro de 1969.
 
 Aprova tabelas de salários e gratificações do pessoal da Superintendência do Desenvolvimento da Região Centro-Oeste (SUDECO).

@@ -1,5 +1,3 @@
-###DEC-072833-0-000-25-09-1973@@@
-
 DECRETO Nº 72.833, DE 25 DE SETEMBRO DE 1973.
 
 Autoriza o funcionamento dos cursos de Ciências Sócias, Desenho e Plástica, e Matemática, na Faculdade de Filosofia, Ciência e Letras "Nossa Senhora do Patrocínio", mantida pela sociedade de Educação "Nossa senhora do Patrocínio", com sede na cidade de Itú, Estado de São Paulo.

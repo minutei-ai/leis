@@ -1,5 +1,3 @@
-###DEL-006995-0-000-27-10-1944@@@
-
 DECRETO-LEI  N. 6.995 – DE 27 DE OUTUBRO DE 1944
 
 Cria o Serviço de Documentação do Ministério do Trabalho, Indústria e Comércio, e dá outras providências

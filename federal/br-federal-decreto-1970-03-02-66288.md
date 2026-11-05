@@ -1,5 +1,3 @@
-###DEC-066288-0-000-02-03-1970@@@
-
 DECRETO Nº 66.288 - DE 2 DE MARÇO DE 1970
 
 Extingue o Núcleo do Centro de Formação de Pilotos Militares e dá outras providências.

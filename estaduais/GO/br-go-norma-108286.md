@@ -26,10 +26,12 @@ V – consignação compulsória: desconto incidente sobre a remuneração do se
 
 VI – consignação facultativa: desconto incidente sobre a remuneração do servidor e do militar ativo, inativo e pensionista do Poder Executivo, com a sua autorização prévia e formal, também com a anuência da administração;
 
-~~VII – a Unidade de Cadastro de Fornecedores do Estado de Goiás: unidade administrativa responsável pelo cadastro e pelo credenciamento das consignatárias;~~<br>
+~~VII – a Unidade de Cadastro de Fornecedores do Estado de Goiás: unidade administrativa responsável pelo cadastro e pelo credenciamento das consignatárias;~~
+
 \- [Revogado pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456) , art. 2º, I.
 
-VIII – Unidade Central de Consignação: unidade administrativa responsável, no Poder Executivo, pelo atendimento ao servidor e ao militar ativo, inativo e pensionista, pela operacionalização das consignações em folha de pagamento e do sistema digital de consignações, bem como pelo cadastro e pelo credenciamento das consignatárias;<br>
+VIII – Unidade Central de Consignação: unidade administrativa responsável, no Poder Executivo, pelo atendimento ao servidor e ao militar ativo, inativo e pensionista, pela operacionalização das consignações em folha de pagamento e do sistema digital de consignações, bem como pelo cadastro e pelo credenciamento das consignatárias;
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~VIII – a Unidade Central de Consignação: unidade administrativa responsável, no Poder Executivo, pelo atendimento ao servidor e ao militar ativo, inativo e pensionista, também pela operacionalização das consignações em folha de pagamento e do sistema digital de consignações;~~
@@ -46,7 +48,8 @@ CAPÍTULO II
 
 DO CREDENCIAMENTO
 
-Art. 3º Cada uma das entidades indicadas nos incisos III, IV, VI, VII, VIII e IX do § 1º do art. 2º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 26 de janeiro de 2010, ao se cadastrar na Unidade Central de Consignação, deverá comprovar no pedido de credenciamento, no que couber quanto a suas atividades, o preenchimento dos seguintes requisitos:<br>
+Art. 3º Cada uma das entidades indicadas nos incisos III, IV, VI, VII, VIII e IX do § 1º do art. 2º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 26 de janeiro de 2010, ao se cadastrar na Unidade Central de Consignação, deverá comprovar no pedido de credenciamento, no que couber quanto a suas atividades, o preenchimento dos seguintes requisitos:
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~Art. 3º Cada uma das entidades indicadas nos incisos III, IV, VI, VII, VIII e IX do § 1º do art. 2º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 26 de janeiro de 2010, ao se cadastrar na Unidade de Cadastro de Fornecedores do Estado de Goiás, deverá comprovar no pedido de credenciamento, no que couber quanto a suas atividades, o preenchimento dos seguintes requisitos:~~
@@ -79,7 +82,8 @@ j) procuração do representante da entidade consignatária, quando for o caso; 
 
 k) declaração de situação regular perante as leis de proteção ao trabalho, firmada pelo representante legal, inclusive o não emprego de menor de 18 (dezoito) anos em trabalho noturno, perigoso ou insalubre e não emprego de menor de 16 (dezesseis) anos, exceto na condição de aprendiz, a partir de 14 (quatorze) anos, conforme o inciso XXXIII do art. 7º da Constituição federal;
 
-II – instituições que operem com o cartão de benefícios:<br>
+II – instituições que operem com o cartão de benefícios:
+
 \- [Redação dada pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
 ~~ll – empresas administradoras de cartão de benefícios:~~
@@ -138,12 +142,14 @@ DO INGRESSO E DA RENOVAÇÃO
 
 Art. 4º O ingresso de nova instituição de crédito no sistema digital de consignações será assim:
 
-l – nos termos do art. 3º deste Decreto, a instituição apresentará a documentação à Unidade Central de Consignação;<br>
+l – nos termos do art. 3º deste Decreto, a instituição apresentará a documentação à Unidade Central de Consignação;
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~l – nos termos do art. 3º, a instituição apresentará a documentação à Unidade de Cadastro de Fornecedores do Estado de Goiás;~~
 
-ll – a Unidade Central de Consignação, após a expedição do Certificado de Registro Cadastral – CRC, conforme os arts. 30 e 31 da [Lei estadual nº 17.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89895), de 27 de dezembro de 2012, ou outra que a substituir, efetuará o credenciamento da instituição, válido por no máximo 3 (três) anos; e<br>
+ll – a Unidade Central de Consignação, após a expedição do Certificado de Registro Cadastral – CRC, conforme os arts. 30 e 31 da [Lei estadual nº 17.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89895), de 27 de dezembro de 2012, ou outra que a substituir, efetuará o credenciamento da instituição, válido por no máximo 3 (três) anos; e
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~ll – a Unidade de Cadastro de Fornecedores do Estado de Goiás, após expedição do Certificado de Registro Cadastral – CRC, conforme previsto nos arts. 30 e 31 da [Lei estadual nº 17.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89895/lei-17928), de 27 de dezembro de 2012, ou outra que a substituir, efetuará o credenciamento da instituição, válido por no máximo 3 (três) anos; e~~ 
@@ -154,7 +160,8 @@ lll – a renovação do CRC para as instituições de crédito, ocorrerá com a
 
 § 2º A inobservância pela consignatária do prazo previsto no § 1º deste artigo implicará o atraso da análise de renovação, que repercutirá no início do período de vigência, e a suspensão dos novos pedidos de consignações até a nova vigência do CRC.
 
-Art. 5º A Unidade Central de Consignação poderá aceitar a cópia da documentação indicada no art. 3º deste Decreto, desde que sejam apresentados os documentos originais ao servidor responsável pela renovação do CRC, que, após a conferência, atestará a sua legitimidade, nos termos do parágrafo único do art. 3º do [Decreto estadual nº 5.678](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61558), de 12 de novembro de 2002.<br>
+Art. 5º A Unidade Central de Consignação poderá aceitar a cópia da documentação indicada no art. 3º deste Decreto, desde que sejam apresentados os documentos originais ao servidor responsável pela renovação do CRC, que, após a conferência, atestará a sua legitimidade, nos termos do parágrafo único do art. 3º do [Decreto estadual nº 5.678](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61558), de 12 de novembro de 2002.
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~Art. 5º A Unidade de Cadastro de Fornecedores do Estado de Goiás poderá aceitar a cópia da documentação indicada no art. 3º deste Decreto, desde que sejam apresentados os documentos originais ao servidor responsável pela renovação do CRC, que após a conferência atestará a sua legitimidade, nos termos do parágrafo único do art. 3º do [Decreto estadual nº 5.678](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/61558/decreto-5678), de 12 de novembro de 2002.~~
@@ -211,7 +218,8 @@ Art. 13. Se houver renegociação ou portabilidade da dívida pelo tomador, ser�
 
 CAPÍTULO V
 
-DO CARTÃO DE BENEFÍCIOS, DOS FINANCIAMENTOS E DAS MENSALIDADES<br>
+DO CARTÃO DE BENEFÍCIOS, DOS FINANCIAMENTOS E DAS MENSALIDADES
+
 \- [Redação dada pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
 ~~DOS EMPRÉSTIMOS E DOS FINANCIAMENTOS~~
@@ -222,7 +230,8 @@ Do Cartão de Benefícios
 
 Art. 14. A margem consignável disponível exclusivamente para descontos a favor das instituições que operem com o cartão de benefícios é a prevista nos §§ 15 e 16 do art. 5º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010.
 
-Art. 15. Os tomadores que possuírem a margem de que trata o art. 14 deste Decreto disponível poderão autorizar o desconto em folha de pagamento de despesas com a aquisição de produtos e serviços e/ou de saques feitos com o cartão de benefícios concedido por instituições financeiras e não financeiras devidamente credenciadas para esse fim, de modo que o cartão de benefícios terá inclusive os códigos de rubrica de desconto específicos para cada operação, desde que:<br>
+Art. 15. Os tomadores que possuírem a margem de que trata o art. 14 deste Decreto disponível poderão autorizar o desconto em folha de pagamento de despesas com a aquisição de produtos e serviços e/ou de saques feitos com o cartão de benefícios concedido por instituições financeiras e não financeiras devidamente credenciadas para esse fim, de modo que o cartão de benefícios terá inclusive os códigos de rubrica de desconto específicos para cada operação, desde que:
+
 \- [Redação dada pelo Decreto nº 10.440, de 12-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108679/decreto-10440).
 
 ~~Art. 15. Os tomadores que possuírem a margem de que trata o art. 14 deste Decreto disponível poderão autorizar o desconto em folha de pagamento de despesas com a aquisição de produtos e serviços ou de saques feitos com o cartão de benefícios concedido por instituições financeiras e não financeiras devidamente credenciadas para esse fim, e o cartão terá inclusive o código de rubrica de desconto específico, desde que:~~
@@ -237,19 +246,22 @@ Art. 16. A Reserva de Margem Consignável – RMC, destinada à operação de ca
 
 Art. 17. Nas operações com o cartão de benefícios, deverão ser observados os seguintes critérios:
 
-I – as despesas contraídas poderão ser parceladas em no máximo 36 (trinta e seis) vezes; e<br>
+I – as despesas contraídas poderão ser parceladas em no máximo 36 (trinta e seis) vezes; e
+
 \- [Redação dada pelo Decreto nº 10.440, de 12-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108679/decreto-10440).
 
 ~~I – as despesas contraídas poderão ser parceladas em no máximo até 6 (seis) vezes; e~~
 
 II – é vedada a cobrança de taxa de abertura de crédito – TAC, anuidade ou quaisquer outras taxas administrativas.
 
-§ 1º As entidades consignatárias que operarem com cartão de benefícios deverão garantir que os valores mensais das parcelas de saque serão fixos, de modo que não haja incidência de juros rotativos, bem como deverão dar ciência do Custo Efetivo Total – CET, e o valor contratado pelo saque deverá ser integralmente depositado, sem descontos, na conta corrente de titularidade do consignante, conforme os §§ 4º e 5º do art. 2º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010.<br>
+§ 1º As entidades consignatárias que operarem com cartão de benefícios deverão garantir que os valores mensais das parcelas de saque serão fixos, de modo que não haja incidência de juros rotativos, bem como deverão dar ciência do Custo Efetivo Total – CET, e o valor contratado pelo saque deverá ser integralmente depositado, sem descontos, na conta corrente de titularidade do consignante, conforme os §§ 4º e 5º do art. 2º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010.
+
 \- [Redação dada pelo Decreto nº 10.440, de 12-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108679/decreto-10440).
 
 ~~§ 1º Para a aquisição de bens e serviços ou saques com o cartão de benefícios, a entidade consignatária deverá garantir que os valores mensais das parcelas deverão ser fixos, vedada a incidência de juros rotativos.~~
 
-§ 2º As consignatárias que operarem com cartão de benefícios deverão observar a limitação de saques na proporção de 70% (setenta por cento) do limite da margem destinada ao cartão de benefícios para que o servidor possa utilizá-lo também para a aquisição de bens e serviços, com pagamento à vista ou parcelado.<br>
+§ 2º As consignatárias que operarem com cartão de benefícios deverão observar a limitação de saques na proporção de 70% (setenta por cento) do limite da margem destinada ao cartão de benefícios para que o servidor possa utilizá-lo também para a aquisição de bens e serviços, com pagamento à vista ou parcelado.
+
 \- [Redação dada pelo Decreto nº 10.440, de 12-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108679/decreto-10440).
 
 ~~§ 2º O valor contratado por saque deverá ser depositado exclusivamente em conta bancária de titularidade do consignante, nos termos dos §§ 4º e 5º do art. 2º da [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010.~~
@@ -292,52 +304,68 @@ II – quitação das parcelas vencidas do empréstimo, do financiamento, do con
 
 Seção III
 
-Do desconto de mensalidades de associações e sindicatos<br>
+Do desconto de mensalidades de associações e sindicatos
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-Art. 24-A. Além das consignações facultativas previstas no inciso II do art. 2º da [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010, será permitido o desconto de mensalidades e contribuições associativas em favor de associações e sindicatos de servidores civis ou militares, nos termos do inciso IV do art. 8º da Constituição federal.<br>
+Art. 24-A. Além das consignações facultativas previstas no inciso II do art. 2º da [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010, será permitido o desconto de mensalidades e contribuições associativas em favor de associações e sindicatos de servidores civis ou militares, nos termos do inciso IV do art. 8º da Constituição federal.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-§ 1º Os descontos de que trata o _caput_ deste artigo somente poderão ocorrer com a autorização formal e expressa dos servidores civis ou militares, ativos e inativos, ou dos pensionistas.<br>
+§ 1º Os descontos de que trata o _caput_ deste artigo somente poderão ocorrer com a autorização formal e expressa dos servidores civis ou militares, ativos e inativos, ou dos pensionistas.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-§ 2º A autorização de que trata o § 1º deste artigo poderá ocorrer por senha eletrônica ou equivalente.<br>
+§ 2º A autorização de que trata o § 1º deste artigo poderá ocorrer por senha eletrônica ou equivalente.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-Art. 24-B. Somente poderão ser admitidas como entidades consignatárias para efeito do disposto no art. 24-A deste Decreto:<br>
+Art. 24-B. Somente poderão ser admitidas como entidades consignatárias para efeito do disposto no art. 24-A deste Decreto:
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-I – entidades de classe, associações e clubes formados por servidores civis ou militares que representam, em caráter de exclusividade, os servidores do Poder Executivo do Estado de Goiás; e<br>
+I – entidades de classe, associações e clubes formados por servidores civis ou militares que representam, em caráter de exclusividade, os servidores do Poder Executivo do Estado de Goiás; e
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-II – entidades sindicais representativas de servidores públicos do Estado de Goiás.<br>
+II – entidades sindicais representativas de servidores públicos do Estado de Goiás.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-§ 1º As entidades previstas no inciso I do _caput_ deste artigo também deverão preencher os seguintes requisitos:<br>
+§ 1º As entidades previstas no inciso I do _caput_ deste artigo também deverão preencher os seguintes requisitos:
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-I – no mínimo, 2 (dois) anos de funcionamento, comprovados por estatuto ou ata registrados em cartório;<br>
+I – no mínimo, 2 (dois) anos de funcionamento, comprovados por estatuto ou ata registrados em cartório;
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-II – quadro diretivo composto por servidores públicos do Poder Executivo do Estado de Goiás, ativos ou inativos, civis ou militares, ou ainda empregados públicos; e<br>
+II – quadro diretivo composto por servidores públicos do Poder Executivo do Estado de Goiás, ativos ou inativos, civis ou militares, ou ainda empregados públicos; e
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-III – sede administrativa no Estado de Goiás.<br>
+III – sede administrativa no Estado de Goiás.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-§ 2º Para o desconto em folha de pagamento, o valor das mensalidades e das contribuições definidas em assembleia geral da categoria obedecerá aos seguintes percentuais máximos da remuneração, do provento ou da pensão mensal, calculados como dispõe o § 11 do art. 5º da [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010:<br>
+§ 2º Para o desconto em folha de pagamento, o valor das mensalidades e das contribuições definidas em assembleia geral da categoria obedecerá aos seguintes percentuais máximos da remuneração, do provento ou da pensão mensal, calculados como dispõe o § 11 do art. 5º da [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010:
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-I – 3% (três por cento) por entidade consignatária; e<br>
+I – 3% (três por cento) por entidade consignatária; e
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-II – 4,5% (quatro vírgula cinco por cento) no caso de adesão a mais de uma entidade consignatária, observado o disposto no § 4º do art. 24– B deste Decreto.<br>
+II – 4,5% (quatro vírgula cinco por cento) no caso de adesão a mais de uma entidade consignatária, observado o disposto no § 4º do art. 24– B deste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-§ 3º Os limites estabelecidos no § 2º deste artigo serão exclusivos para o desconto de mensalidades e contribuições associativas, vedados quaisquer outros descontos relativos a produtos ou serviços, e não serão computados no cálculo da margem de que trata o _caput_ do art. 5º da [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010.<br>
+§ 3º Os limites estabelecidos no § 2º deste artigo serão exclusivos para o desconto de mensalidades e contribuições associativas, vedados quaisquer outros descontos relativos a produtos ou serviços, e não serão computados no cálculo da margem de que trata o _caput_ do art. 5º da [Lei nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-§ 4º Cada servidor civil ou militar, ativo e inativo, ou pensionista poderá ter o máximo de 4 (quatro) consignações em folha de pagamento, por vínculo, a título de mensalidade ou contribuição associativa, desde que seja observado o percentual estabelecido no inciso II do § 2º do art. 24-B deste Decreto.<br>
+§ 4º Cada servidor civil ou militar, ativo e inativo, ou pensionista poderá ter o máximo de 4 (quatro) consignações em folha de pagamento, por vínculo, a título de mensalidade ou contribuição associativa, desde que seja observado o percentual estabelecido no inciso II do § 2º do art. 24-B deste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
 CAPÍTULO VI
@@ -416,10 +444,12 @@ h) a realização de descontos sem a devida autorização do consignante; e
 
 i) a contratação de consignação em desacordo com o disposto na [Lei estadual nº 16.898](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88612), de 2010, e neste Decreto, mediante fraude, simulação, dolo, conluio ou culpa que caracterizem a utilização ilegal da folha de pagamento.
 
-j) incluir no sistema de consignação quaisquer descontos relativos a produtos ou serviços na margem consignável definida nos incisos I e II do § 2º do art. 24-B deste Decreto; e<br>
+j) incluir no sistema de consignação quaisquer descontos relativos a produtos ou serviços na margem consignável definida nos incisos I e II do § 2º do art. 24-B deste Decreto; e
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
-k) incluir no sistema de consignação, a título de mensalidade ou contribuição associativa, quantidade de consignações superior às definidas no § 4º do art. 24-B deste Decreto.<br>
+k) incluir no sistema de consignação, a título de mensalidade ou contribuição associativa, quantidade de consignações superior às definidas no § 4º do art. 24-B deste Decreto.
+
 \- [Acrescido pelo Decreto nº 10.576, de 29-10-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109777/decreto-10576).
 
 § 1º Nos casos de operação de portabilidade de crédito e liquidação antecipada, se a consignatária adquirente tiver recebido o valor correspondente ao saldo, dentro do prazo de validade, a consignatária cessionária da dívida consignada deverá conceder a quitação total ao tomador.
@@ -462,15 +492,18 @@ IV – declaração de inidoneidade para operar consignações em folha de pagam
 
 Art. 31. A aplicação das sanções previstas neste Decreto será precedida de processo administrativo em que será assegurado à consignatária o direito ao contraditório e à ampla defesa, observados o procedimento e os prazos previstos na [Lei estadual nº 17.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89895/lei-17928), de 2012.
 
-§ 1º O processo administrativo de que trata o _caput_ deste artigo se iniciará na Unidade Central de Consignação, quando o requerente for tomador e se tratar de representação contra consignatária ou quando se tratar de utilização do sistema digital de consignações por consignatária ou consignante, também quando se tratar de procedimento de cadastro, credenciamento ou convênio.<br>
+§ 1º O processo administrativo de que trata o _caput_ deste artigo se iniciará na Unidade Central de Consignação, quando o requerente for tomador e se tratar de representação contra consignatária ou quando se tratar de utilização do sistema digital de consignações por consignatária ou consignante, também quando se tratar de procedimento de cadastro, credenciamento ou convênio.
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~§ 1º O processo administrativo de que trata o _caput_ se iniciará na:~~
 
-~~I – Unidade Central de Consignação responsável pela gestão das consignações, quando o requerente for tomador e se tratar de representação contra consignatária ou quando se tratar de utilização do sistema digital de consignações por consignatária ou consignante; ou~~<br>
+~~I – Unidade Central de Consignação responsável pela gestão das consignações, quando o requerente for tomador e se tratar de representação contra consignatária ou quando se tratar de utilização do sistema digital de consignações por consignatária ou consignante; ou~~
+
 \- [Revogado pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456) , art. 2º, II.
 
-~~II – Unidade de Cadastro de Fornecedores do Estado de Goiás, quando se tratar de procedimento de cadastro, credenciamento ou convênio.~~<br>
+~~II – Unidade de Cadastro de Fornecedores do Estado de Goiás, quando se tratar de procedimento de cadastro, credenciamento ou convênio.~~
+
 \- [Revogado pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456) , art. 2º, II.
 
 § 2º Os autos do processo administrativo de apuração de responsabilidade das consignatárias serão instruídos nas unidades próprias da Unidade Central de Consignação, no Poder Executivo, conforme dispuser o seu Regimento Interno, antes de serem submetidos à análise e à deliberação do titular da pasta responsável pela Gestão das Consignações.
@@ -541,7 +574,8 @@ Art. 43. O falecimento do consignante implicará a cessação imediata dos desco
 
 Art. 44. Para os efeitos deste Decreto, serão computados os prazos com a exclusão do dia do começo e a inclusão do dia do vencimento.
 
-Art. 45. Os autos dos processos de credenciamento de entidades e/ou instituições financeiras serão devidamente arquivados e ficarão sob a guarda da Unidade Central de Consignação.<br>
+Art. 45. Os autos dos processos de credenciamento de entidades e/ou instituições financeiras serão devidamente arquivados e ficarão sob a guarda da Unidade Central de Consignação.
+
 \- [Redação dada pelo Decreto nº 10.456, de 25-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108710/decreto-10456).
 
 ~~Art. 45. Os autos dos processos de credenciamento de entidades e/ou instituições financeiras serão devidamente arquivados e ficarão sob a guarda da Unidade de Cadastro de Fornecedores do Estado de Goiás.~~

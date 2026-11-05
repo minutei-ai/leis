@@ -1,5 +1,3 @@
-###DEC-075580-0-000-08-04-1975@@@
-
 DECRETO Nº 75.580, DE 8 DE ABRIL DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Faculdade de Filosofia, Ciências e Letras de Santos, mantida pela Sociedade Visconde de São Leopoldo, com sede na cidade de Santos, Estado de São Paulo.

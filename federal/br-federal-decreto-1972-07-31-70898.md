@@ -1,5 +1,3 @@
-###DEC-070898-0-000-31-07-1972@@@
-
 DECRETO Nº 70.898, DE 31 DE JULHO DE 1972.
 
 Retifica o artigo 1º do Decreto número 66.014, de 30 de dezembro de 1969.

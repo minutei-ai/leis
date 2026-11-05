@@ -1,5 +1,3 @@
-###DEC-055728-0-000-03-02-1965@@@
-
 decreto nº 55.728, de 3 de fevereiro de 1965.
 
 Declara de utilidade pública para o efeito de desapropriação o imóvel que menciona, situado na cidade do Rio de Janeiro (Estado da Guanabara) e destinado a instalação e funcionamento do Banco Nacional da Habitação.

@@ -1,5 +1,3 @@
-###DEL-005330-0-000-18-03-1943@@@
-
 DECRETO‑LEI N. 5.330 – DE 18 DE MARÇO DE 1943
 
 Dispõe sobre a concessão da pensão especial de que trata o decreto-lei número 3.269, de 14 de maio de 1941

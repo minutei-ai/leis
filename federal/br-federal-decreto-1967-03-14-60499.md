@@ -1,5 +1,3 @@
-###DEC-060499-0-000-14-03-1967@@@
-
 DECRETO Nº 60.499, DE 14 DE MARÇO DE 1967.
 
 Autoriza o Banco Central do Brasil a negociar e contratar, em nome do Tesouro Nacional, operação de empréstimo, em moeda estrangeira, com o Banco Internacional de Reconstrução e Desenvolvimento, para o fim que menciona.

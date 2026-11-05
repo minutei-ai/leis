@@ -1,5 +1,3 @@
-###DEL-008428-0-000-21-12-1945@@@
-
 DECRETO-LEI N. 8.428 – DE 21 DE DEZEMBRO DE 1945
 
 Aprova o projeto e orçamento para execução das obras de defesa da Praia de Iracema no pôrto de Fortaleza, por conta do Govêrno Federal.

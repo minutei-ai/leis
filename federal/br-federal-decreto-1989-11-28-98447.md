@@ -1,7 +1,3 @@
-1
-
-###DEC-098447-0-000-28-11-1989@@@
-
 DECRETO Nº 98.447, DE 28 DE NOVEMBRO DE 1989
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/80, entre o Brasil e o Peru (Acordo nº 12).

@@ -1,5 +1,3 @@
-###DEC-086934-0-000-17-02-1982@@@
-
 Decreto nº 86.934, de 17 de fevereiro de 1982
 
 Homologa a demarcação da área indígena que menciona, no Território Federal de Roraima.

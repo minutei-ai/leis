@@ -1,5 +1,3 @@
-###DEC-071995-0-000-26-03-1973@@@
-
 DECRETO N° 71.995, DE 26 DE MARÇO DE 1973.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.
@@ -81,8 +79,6 @@ Antônio Dias Leite Júnior
 José Costa Cavalcanti
 
 Hygino C. Corsetti
-
-###DEC-071995-0-000-26-03-1973@@@
 
 DECRETO N° 71.995, DE 26 DE MARÇO DE 1973.
 

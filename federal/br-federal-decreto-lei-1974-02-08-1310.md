@@ -1,5 +1,3 @@
-###DEL-001310-0-000-08-02-1974@@@
-
 # DECReto-LEI Nº 1.310, DE 8 DE FEVEREIRO DE 1974
 
 Altera a legislação referente ao Fundo do Exército, e dá outras providências.

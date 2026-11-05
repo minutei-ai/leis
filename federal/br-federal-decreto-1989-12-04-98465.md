@@ -1,7 +1,3 @@
-1
-
-###DEC-098465-0-000-04-12-1989@@@
-
 DECRETO N° 98.465, DE 04 DE DEZEMBRO DE 1989
 
 Autoriza o funcionamento do curso de Desenho Industrial, da Faculdade de Educação Artística Teresa D'Ávila, em Lorena, São Paulo.

@@ -1,5 +1,3 @@
-###DEC-048885-0-000-25-08-1960@@@
-
 DECRETO Nº 48.885, DE 25 DE AGÔSTO DE 1960.
 
 Concede à Sociedade Dova Navegação Ltda. Autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

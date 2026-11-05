@@ -1,5 +1,3 @@
-###DEC-069719-0-000-09-12-1971@@@
-
 DECRETO Nº 69.719 - de 9 DE DEZEMBRO DE 1971
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil dos imóveis que menciona, necessários ao Ministério do Exército.

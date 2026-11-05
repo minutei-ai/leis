@@ -1,5 +1,3 @@
-###DEC-085751-0-000-24-02-1981@@@
-
 DECRETO Nº 85.751, DE 24 DE FEVEReIRo DE 1981.
 
 Altera frações de limites quantitativos de antiguidade para a constituição de Quadros de Acesso por Antiguidade e Merecimento, para aplicação nas promoções de 30 de abril de 1981.

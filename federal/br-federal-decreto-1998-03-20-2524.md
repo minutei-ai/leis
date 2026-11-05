@@ -1,5 +1,3 @@
-###DEC-002524-0-000-20-03-1998@@@
-
 DECRETO Nº 2.524, DE 20 DE MARÇO DE 1998
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial nº 21, Subscrito ao Amparo do Artigo 25 do Tratado de Montevidéu de 1980, entre Brasil e Cuba, de 24 de dezembro de 1997.

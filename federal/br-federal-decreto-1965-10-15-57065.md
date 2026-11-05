@@ -1,5 +1,3 @@
-###DEC-057065-0-000-15-10-1965@@@
-
 Decreto nº 57.065, de 15 de outubro de 1965.
 
 Declara caduco o Decreto nº 30.540, de 14 de fevereiro de 1952.

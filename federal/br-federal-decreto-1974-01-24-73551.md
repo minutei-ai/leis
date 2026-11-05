@@ -1,5 +1,3 @@
-###DEC-073551-0-000-24-01-1974@@@
-
 DECRETO Nº 73.551, DE 24 DE JANEIRO DE 1974.
 
 Modifica, em decorrência da Lei número 6.010, de 26 de dezembro de 1973, o Regulamento do Quadro de Oficiais de Administração e do Quadro de Oficiais Especialistas do Exército, aprovado pelo Decreto número 42.251, de 6 de setembro de 1957 e baixa novas disposições.

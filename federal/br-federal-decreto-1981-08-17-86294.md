@@ -1,5 +1,3 @@
-###DEC-086294-0-000-17-08-1981@@@
-
 DECRETO Nº 86.294, DE 17 DE AGOSTO DE 1981
 
 Transfere de FURNAS - Centrais Elétricas S.A. para a Companhia Hidro Elétrica do São Francisco - CHESF a concessão para o aproveitamento progressivo da energia hidráulica, de trechos do rio Jequitinhonha nos locais denominados Salto da Divisa - situado na divisa entre os Estados de Minas Gerais e Bahia - e Itapebi - situado no Estado da Bahia - e dá outras providências.

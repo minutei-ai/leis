@@ -1,5 +1,3 @@
-###DEC-003685-0-000-12-12-2000@@@
-
 DECRETO Nº 3.685, DE 12 DE DEZEMBRO DE 2000.
 
 Promulga O Acordo entre o Governo da Republica Federativa do Brasil e o Governo da República do Peru sobre Cooperação entre as Academias Diplomáticas de Ambos aos Países, celebrados em Lima, em 21 de julho de 1999.
@@ -80,4 +78,14 @@ O presente Acordo poderá ser denunciado por qualquer das Partes Contratantes me
 
 Feito em Lima, em 21 de julho de 1999, em dois exemplares originais, no idioma português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:215.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República do Peru</span></p><p class="Artigo" style="text-indent:0pt; text-align:left"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Luiz Felipe Lampreia</span></p></td><td style="width:215.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:left"><span>Fernando Trazegnies Granda</span></p></td></tr><tr><td style="width:209.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado das Relações Exteriores</span></p><p class="Artigo" style="text-indent:0pt; text-align:left"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:215.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ministro de Estado das Relações Exteriores</span></p><p class="Artigo" style="text-indent:0pt; text-align:left"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República do Peru
+
+Luiz Felipe Lampreia
+
+Fernando Trazegnies Granda
+
+Ministro de Estado das Relações Exteriores
+
+Ministro de Estado das Relações Exteriores

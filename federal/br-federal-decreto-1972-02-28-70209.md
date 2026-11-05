@@ -1,5 +1,3 @@
-###DEC-070209-0-000-28-02-1972@@@
-
 DECRETO Nº 70.209, DE 28 DE FEVEREIRO DE 1972.
 
 Retifica Decreto nº 69.634, de 1º de dezembro de 1971, que redistribui cargos, com os respectivos ocupantes, para o Quadro de Pessoal das Secretarias do Ministério Público Federal.

@@ -1,5 +1,3 @@
-###DEC-046275-0-000-27-06-1959@@@
-
 DECRETO Nº 46.275, DE 27 DE JUNHO DE 1959.
 
 Declara perempta a concessão outorgada à Sociedade Rádio Emissora Continental Ltda., para estabelecer uma estação rediodifusora.

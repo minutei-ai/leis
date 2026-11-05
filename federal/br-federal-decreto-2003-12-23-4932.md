@@ -1,5 +1,3 @@
-###DEC-004932-0-000-23-12-2003@@@
-
 DECRETO Nº 4.932 DE 23 DE DEZEMBRO DE 2003.
 
 Dispõe sobre a delegação de competências à Agência Nacional de Energia Elétrica - ANEEL previstas na Medida Provisória nº 144, de 10 de dezembro de 2003, e dá outras providências.

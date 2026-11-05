@@ -1,5 +1,3 @@
-###DEC-003167-0-000-14-09-1999@@@
-
 DECRETO Nº 3.167, DE 14 DE SETEMBRO DE 1999.
 
 Promulga a Convenção sobre a Prevenção e Punição de Crimes Contra Pessoas que Gozam de Proteção Internacional, inclusive Agentes Diplomáticos, concluída em Nova York, em 14 de dezembro de 1973, com a reserva prevista no parágrafo 2º do art. 13 da Convenção.
@@ -198,7 +196,6 @@ Artigo 15
 
 A presente Convenção deverá ser ratificada. Os instrumentos para ratificação serão depositados junto ao Secretário-Geral das Nações Unidas.
 
-<br>
 Artigo 16
 
 A presente Convenção estará aberta à adesão de qualquer Estado. Os instrumentos de adesão serão depositados junto ao Secretário-Geral das Nações unidas.

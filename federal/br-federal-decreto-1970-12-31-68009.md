@@ -1,5 +1,3 @@
-###DEC-068009-0-000-31-12-1970@@@
-
 DECRETO Nº 68.009, DE 31 DE DEZEMBRO DE 1970.
 
 Declara de utilidade pública a Fundação Balbina Camila de Araújo, com sede em Belo Horizonte, Estado de Minas Gerais.

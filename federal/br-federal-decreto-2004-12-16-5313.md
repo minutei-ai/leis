@@ -1,5 +1,3 @@
-###DEC-005313-0-000-16-12-2004@@@
-
 DECRETO Nº 5.313 DE 16 DE DEZEMBRO DE 2004
 
 Regulamenta o art. 3º-A da Lei nº 9.608, de 18 de fevereiro de 1998, que dispõe sobre o serviço voluntário.

@@ -1,5 +1,3 @@
-###DEC-069386-0-000-20-10-1971@@@
-
 DECRETO Nº 69.386, DE 20 DE OUTUBRO DE 1971.
 
 Concede à Mineração Jompe Ltda. O direito de lavrar caulim, no município de Juquitiba, Estado de São Paulo.

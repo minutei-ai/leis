@@ -1,5 +1,3 @@
-###DEC-068287-0-000-26-02-1971@@@
-
 decreto nº 68.287, de 26 de fevereiro de 1971.
 
 Retifica o artigo 1º do Decreto número 43.251, de 24 de fevereiro de 1958.

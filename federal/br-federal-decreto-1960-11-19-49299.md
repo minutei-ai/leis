@@ -1,5 +1,3 @@
-###DEC-049299-0-000-19-11-1960@@@
-
 DECRETO Nº 49.299, DE 19 DE novembro DE 1960.
 
 Altera o Regulamento do Serviço de Assistência e Seguro Social dos Economiários (S.A.S.S.E.), aprovado pelo Decreto nº 43.913, de 19 de junho de 1958.

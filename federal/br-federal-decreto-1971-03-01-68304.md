@@ -1,5 +1,3 @@
-###DEC-068304-0-000-01-03-1971@@@
-
 DECRETO Nº 68.304, DE 1º DE MARÇO DE 1971.
 
 Confisca bem de Airton Teixeira de Melo e dá outras providências.

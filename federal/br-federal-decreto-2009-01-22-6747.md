@@ -1,5 +1,3 @@
-###DEC-006747-0-000-22-01-2009@@@
-
 DECRETO Nº 6.747, DE 22 DE JANEIRO DE 2009.
 
 Promulga o Tratado de Assistência Mútua em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo do Canadá, celebrado em Brasília, em 27 de janeiro de 1995.

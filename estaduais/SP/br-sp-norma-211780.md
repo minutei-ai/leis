@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211780)<br>
-
 # DECRETO N° 70.059, DE 05 DE NOVEMBRO DE 2025
 
 ### _Transfere, da Secretaria de Gestão e Governo Digital para a Secretaria de Desenvolvimento Social, a administração do imóvel que especifica e autoriza a outorga de uso ao Município de Tupi Paulista._

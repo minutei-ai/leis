@@ -1,5 +1,3 @@
-###DEL-009528-0-000-27-07-1946@@@
-
 DECRETO-LEI N. 9.528 – DE 27 DE JULHO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 14.400,00, para pagamento de gratificação de magistério.

@@ -1,13 +1,11 @@
-<br>
 ~~**LEI Nº 2.941, DE 22 DE JUNHO DE 1993**~~
 
-<br>
 ~~Institui o Conselho Municipal de Saúde e dá outras providências.~~
 
-<br>
 ~~**A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**~~
 
-~~**CAPÍTULO I<br>
+~~**CAPÍTULO I
+
 DOS OBJETIVOS**~~
 
 ~~Art. 1º Fica instituido o Conselho Municipal de Saúde CMS em ca ráter permanente, como órgão deliberativo do Sistema Unico de Saúde SUS, no ambito municipal.~~
@@ -36,11 +34,12 @@ DOS OBJETIVOS**~~
 
 ~~XI - outras atribuições estabelecidas em normas complementares.~~
 
-<br>
-~~**CAPÍTULO II<br>
+~~**CAPÍTULO II
+
 DA ESTRUTURA E FUNCIONAMENTO**~~
 
-~~**Seção I<br>
+~~**Seção I
+
 Da Composição**~~
 
 ~~Art. 3º O CMS terá a seguinte composição:~~
@@ -105,8 +104,8 @@ Da Composição**~~
 
 ~~III - os membros do CMS poderão ser substituídos mediante solicitação da entidade que indicou, apresentada ao Presidente do CMS.~~
 
-<br>
-~~**SEÇÃO II<br>
+~~**SEÇÃO II
+
 DO FUNCIONAMENTO**~~
 
 ~~Art. 6º O CMS terá seu funcionamento regido pelas seguintes normas:~~

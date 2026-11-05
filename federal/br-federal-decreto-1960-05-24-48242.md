@@ -1,5 +1,3 @@
-###DEC-048242-0-000-24-05-1960@@@
-
 DECRETO Nº 48.242, DE 24 DE MAIO DE 1960.
 
 Dispõe sôbre a cobrança da Taxa de Melhoramento dos Portos, criada pela Lei nº 3.421, de 10 de julho de 1958, relativamente às mercadorias em trânsito pelos portos organizados.

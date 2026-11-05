@@ -1,5 +1,3 @@
-###DEC-086024-0-000-22-05-1981@@@
-
 Decreto nº 86.024, de 22 de maio de 1981.
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

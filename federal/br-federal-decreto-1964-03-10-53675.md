@@ -1,5 +1,3 @@
-###DEC-053675-0-000-10-03-1964@@@
-
 DECRETO Nº 53.675, DE 10 DE MARÇO DE 1964.
 
 Constitui no Ministério da Agricultura Grupo de Trabalho para elaborar Plano Regional para coordenação e fomento agropecuário na região do Vale do Rio Doce e dá outras providências.

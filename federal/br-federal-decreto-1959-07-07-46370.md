@@ -1,5 +1,3 @@
-###DEC-046370-0-000-07-07-1959@@@
-
 DECRETO Nº 46.370, DE 7 DE JULHO DE 1959.
 
 Dispõe sôbre experiência-pilôto de colonização no Estado do Maranhão.

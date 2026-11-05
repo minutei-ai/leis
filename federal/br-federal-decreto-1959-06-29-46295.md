@@ -1,5 +1,3 @@
-###DEC-046295-0-000-29-06-1959@@@
-
 Decreto nº 46.295, de 29 de junho de 1959.
 
 Autoriza a Cia. Níquel Tocantins a pesquisar calcário no município de Corumbá de Goiás, Estado de Goiás.

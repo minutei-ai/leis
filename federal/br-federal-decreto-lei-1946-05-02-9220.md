@@ -1,5 +1,3 @@
-###DEL-009220-0-000-02-05-1946@@@
-
 DECRETO-LEI N. 9.220 – DE 2 DE MAIO DE 1946
 
 Altera o Decreto-lei nº 5.175, de 7 de Janeiro de 1943

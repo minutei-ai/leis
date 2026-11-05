@@ -1,5 +1,3 @@
-###DEC-097510-0-000-14-02-1989@@@
-
 DECRETO N° 97.510 DE 14 DE FEVEREIRO DE 1989
 
 Dispõe sobre o recolhimento dos resul­tados atribuíveis à União nas Empresas Públicas e Sociedades de Economia Mista.

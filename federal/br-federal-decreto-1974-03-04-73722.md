@@ -1,5 +1,3 @@
-###DEC-073722-0-000-04-03-1974@@@
-
 DECRETO Nº 73.722, DE 4 DE MARÇO DE 1974.
 
 Dispõe sobre o recolhimento de diferenças de preço sobre estoques de trigo e dá outras providências.

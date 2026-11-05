@@ -1,5 +1,3 @@
-###DEC-070277-0-000-14-03-1972@@@
-
 DECRETO Nº 70.277, DE 14 DE MARÇO DE 1972.
 
 Redistribui cargo, com a respectiva ocupante, para o Departamento Nacional de Estradas de Rodagem, e dá outras providências.

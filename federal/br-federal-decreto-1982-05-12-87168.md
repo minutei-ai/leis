@@ -1,5 +1,3 @@
-###DEC-087168-0-000-12-05-1982@@@
-
 Decreto nº 87.168 de 12 de maio de 1982
 
 Declara de interesse social, para fins de desapropriação, os imóveis rurais denominados lotes nºs 203, 204 e 209/2, da "Gleba Fernando", situados no Município de Santa Helena, Estado do Paraná, compreendidos na área prioritária para fins de reforma agrária, fixada pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos nºs 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

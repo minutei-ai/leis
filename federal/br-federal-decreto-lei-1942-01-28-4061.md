@@ -1,5 +1,3 @@
-###DEL-004061-0-000-28-01-1942@@@
-
 DECRETO-LEI N. 4.061 – DE 28 DE JANEIRO DE 1942
 
 Modifica e retifica a Tarifa das Alfândegas mandada executar pelo decreto-lei n. 2.878, de 18 de dezembro de 1940

@@ -1,5 +1,3 @@
-###DEC-051274-0-000-25-08-1961@@@
-
 DECRETO Nº 51.274, DE 25 DE AGÔSTO DE 1961.
 
 Concede a Teixeira & Cia, autorização para funcionar como emprêsa de mineração.

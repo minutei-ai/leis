@@ -1,5 +1,3 @@
-###DEC-084414-0-000-23-01-1980@@@
-
 DECRETO Nº 84.414, DE 23 DE JANEIRO DE 1980
 
 Veda a exigência de requerimentos para a concessão de direitos e vantagens a servidores na Administração Federal direta e autarquias.
@@ -51,8 +49,6 @@ Brasília, 23 de janeiro de 1980, 159º da Independência e 92º da República.
 JOÃO FIGUEIREDO
 
 Hélio Beltrão
-
-###DEC-084414-0-000-23-01-1980@@@RET01+++
 
 DECRETO Nº 84.414, DE 23 DE JANEIRO DE 1980
 

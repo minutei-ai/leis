@@ -1,5 +1,3 @@
-###DEC-076237-0-000-10-09-1975@@@
-
 DECRETO Nº 76.237 - DE 10 DE SETEMBRO DE 1975
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube Paranaense Ltda., para que a Fundação Nossa Senhora do Rocio, sob a denominação de Rádio Clube Paranaense, passe a executar na cidade de Curitiba, Estado do Paraná, serviço de radiodifusão sonora em onda média de âmbito nacional.

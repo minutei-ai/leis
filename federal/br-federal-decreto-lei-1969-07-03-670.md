@@ -1,5 +1,3 @@
-###DEL-000670-0-000-03-07-1969@@@
-
 DECRetO-LEI Nº 670, DE 3 DE JULHO DE 1969
 
 Modifica e revoga dispositivos do Decreto-lei nº 499, de 17 de março de 1969.

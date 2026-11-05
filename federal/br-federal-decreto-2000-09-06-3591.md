@@ -1,5 +1,3 @@
-###DEC-003591-0-000-06-09-2000@@@
-
 DECRETO Nº 3.591, DE 6 DE SETEMBRO DE 2000.
 
 Dispõe sobre o Sistema de Controle Interno do Poder Executivo Federal e dá outras providências.

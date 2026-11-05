@@ -1,5 +1,3 @@
-###DEC-004351-0-000-27-08-2002@@@
-
 DECRETO Nº 4.351, DE 27 DE AGOSTO DE 2002
 
 Promulga o Ajuste Complementar ao Convênio Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Bolivariana da Venezuela para a Cooperação Turística, celebrado em Caracas, em 8 de fevereiro de 2000.

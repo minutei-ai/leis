@@ -1,5 +1,3 @@
-###DEC-089802-0-000-14-06-1984@@@
-
 Decreto nº 89.802, de 14 de junho De 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem do trecho de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A.-ELETROSUL, no Estado do Paraná.

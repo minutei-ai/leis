@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/185470)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16674-13.03.2018.html)
 
 # LEI N° 16.674, DE 13 DE MARÇO DE 2018
@@ -11,7 +10,8 @@
 
 ~~O GOVERNADOR DO ESTADO DE SÃO PAULO:~~
 
-~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~<br>
+~~Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:~~
+
 ~~Artigo 1° - Os hipermercados, supermercados e estabelecimentos congêneres devem disponibilizar carrinhos de compras adaptados com assentos para receber crianças portadoras de deficiência ou mobilidade reduzida, na proporção de 5% (cinco por cento) do total de carrinhos oferecido aos clientes.~~
 
 ~~Artigo 2° - Vetado.~~

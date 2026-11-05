@@ -1,5 +1,3 @@
-###DEC-084355-0-000-31-12-1979@@@
-
 Decreto nº 84.355, de 31 de dezembro de 1979.
 
 Regulamenta o ingresso e a promoção no Quadro Auxiliar de Oficiais (QAO) e dá outras providências (RIPQAO).

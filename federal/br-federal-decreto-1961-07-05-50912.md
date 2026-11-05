@@ -1,5 +1,3 @@
-###DEC-050912-0-000-05-07-1961@@@
-
 DECRETO Nº 50.912, DE 5 DE JULHO DE 1961.
 
 Institui o dia do Órfão.

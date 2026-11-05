@@ -1,5 +1,3 @@
-###DEC-048857-0-000-12-08-1960@@@
-
 DECRETO Nº 48.857, DE 12 DE AGôSTO DE 1960.
 
 Acrescenta um parágrafo único ao Artigo 38 do Regulamento da Escola de Aperfeiçoamento de Oficiais Aeronáutica.

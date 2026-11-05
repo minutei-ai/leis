@@ -1,7 +1,3 @@
-1
-
-###DEC-099781-0-000-06-12-1990@@@
-
 # DECRETO N° 99.781, DE 6 DE DEZEMBRO DE 1990
 
 Altera os Estatutos da Indústria de Material Bélico do Brasil (Imbel}, vinculada ao Ministério do Exército.

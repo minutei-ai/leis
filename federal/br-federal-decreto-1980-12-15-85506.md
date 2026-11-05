@@ -1,5 +1,3 @@
-###DEC-085506-0-000-15-12-1980@@@
-
 Decreto nº 85.506, de 15 de dezembro de 1980.
 
 Autoriza o aumento do capital social do Serviço de Navegação da Bacia do Prata S/A - SNBP.

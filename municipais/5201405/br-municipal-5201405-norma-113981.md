@@ -10,7 +10,8 @@ CONSIDERANDO a documentação acostada aos autos do processo administrativo nº 
 
 Art. 1º Fica declarada de utilidade pública, para fins de instituição de servidão de passagem em favor do município de Aparecida de Goiânia – Goiás, pessoa jurídica de direito público, inscrita no CNPJ/MF sob o n° 01.005.727/0001-24, a área abaixo descrita, destinada à construção da galeria de água pluvial, água e esgoto do loteamento “Vale do Sol – Gleba -5”, neste Município:
 
-DESCRIÇÕES DO IMÓVEL:<br>
+DESCRIÇÕES DO IMÓVEL:
+
 CIDADE: APARECIDA DE GOIÂNIA
 
 Município: Aparecida de Goiânia – GO
@@ -27,8 +28,8 @@ Matrícula: 169.030 CRI de Aparecida de Goiânia
 
 Superfície: 2.762,76 m²   
 
-<br>
-                                LIMITES E CONFRONTAÇÕES DO PERÍMETRO<br>
+                                LIMITES E CONFRONTAÇÕES DO PERÍMETRO
+
 REDES DE ÁGUA E ESGOTO
 
 Servidão de Passagem SANEAGO – Trecho 6A
@@ -47,11 +48,14 @@ Art. 4º - Este decreto entrará em vigor na data de sua publicação, revogadas
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA - GO, aos 16 de julho de 2024.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito
 
-POLLYANA OLIVEIRA BORGES<br>
+POLLYANA OLIVEIRA BORGES
+
 Secretária de Governo
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

@@ -1,5 +1,3 @@
-###DEC-003349-0-000-27-01-2000@@@
-
 DECRETO Nº 3.349, DE 27 DE JANEIRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.075, de 1º de junho de 1999.

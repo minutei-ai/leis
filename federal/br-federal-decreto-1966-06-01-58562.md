@@ -1,5 +1,3 @@
-###DEC-058562-0-000-01-06-1966@@@
-
 DECRETO Nº 58.562, DE 1º DE JUNHO DE 1966.
 
 Concede à sociedade Transportes Marítimos Araújo S.A. autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

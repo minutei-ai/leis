@@ -1,5 +1,3 @@
-###DEC-061278-0-000-04-09-1967@@@
-
 DECRETO Nº 61.278, DE 4 DE SETEMBRO DE 1967.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a construir estação receptora e dá outras providências.
@@ -33,8 +31,6 @@ Brasília, 4 de setembro de 1967; 146 da Independência e 79º da República.
 A. COSTA E SILVA
 
 José Costa Cavalcanti
-
-###DEC-061278-0-000-04\-09\-1967@@@RET01+++
 
 decreto nº 61.278, de 4 de setembro de 1967.
 

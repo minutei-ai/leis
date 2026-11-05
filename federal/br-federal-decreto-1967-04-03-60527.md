@@ -1,5 +1,3 @@
-###DEC-060527-0-000-03-04-1967@@@
-
 DECRETO Nº 60.527, DE 3 DE ABRIL DE 1967.
 
 Atribui a responsabilidade pela política Nacional do Abastecimento e sua execução ao Ministro de Estado da Agricultura.

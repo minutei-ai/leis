@@ -1,5 +1,3 @@
-###DEC-093483-0-000-29-10-1986@@@
-
 DECRETO Nº 93.483, DE 29 DE OUTUBRO DE 1986.
 
 Dispõe sobre atribuições do Ministério da Ciência e Tecnologia, vincula a esse Ministério a Comissão Nacional de Meteorologia - CONAME, altera dispositivos da legislação do Instituto Nacional de Meteorologia - INEMET, e dá outras providências.

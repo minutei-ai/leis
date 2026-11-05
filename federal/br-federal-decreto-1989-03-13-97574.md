@@ -1,7 +1,3 @@
-1
-
-###DEC-097574-0-000-13-03-1989@@@
-
 # DECRETO Nº 97.574, DE 13 DE MARÇO DE 1989
 
 Concede honra de Ministro de Estado ao Contra-Almirante Ernâni do Amaral Peixoto.

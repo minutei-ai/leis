@@ -1,5 +1,3 @@
-###DEL-001262-0-000-27-02-1973@@@
-
 DECRETO-LEI N. 1.262 – DE 27 DE FEVEREiRO DE 1973
 
 Concede aumento de vencimentos aos funcionários das Secretarias e dos Serviços Auxiliares do Poder judiciário da União e do Distrito Federal, e dá outras providência.

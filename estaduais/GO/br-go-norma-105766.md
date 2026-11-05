@@ -22,7 +22,8 @@ II – contato telefônico através do Disque Denúncia – 190;
 
 III – via _e– mail_.
 
-IV – denúncia nos órgãos municipais de proteção ambiental.<br>
+IV – denúncia nos órgãos municipais de proteção ambiental.
+
 \- [Acrescido pela Lei nº 22.091, de 6-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107458/lei-22091).
 
 § 1º (VETADO).
@@ -33,7 +34,8 @@ IV – denúncia nos órgãos municipais de proteção ambiental.<br>
 
 Art. 3º As clínicas e hospitais veterinários e as lojas de venda de produtos e serviços para animais, no âmbito do Estado de Goiás, ficam obrigadas a afixar placa ou cartaz em local visível aos consumidores, com os dizeres: “MAUS-TRATOS CONTRA OS ANIMAIS É CRIME – LIGUE 190”.
 
-§ 1º Na placa ou cartaz poderão ser informados também outros números para denúncia, tais como os números da Polícia Militar Ambiental, da Delegacia do Meio Ambiente do Estado de Goiás e do órgão municipal de proteção ambiental.<br>
+§ 1º Na placa ou cartaz poderão ser informados também outros números para denúncia, tais como os números da Polícia Militar Ambiental, da Delegacia do Meio Ambiente do Estado de Goiás e do órgão municipal de proteção ambiental.
+
 \- [Redação dada pela Lei nº 22.091, de 6-7-2023](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107458/lei-22091).
 
 ~~§ 1º Na placa ou cartaz poderão ser informados também outros números para denúncia, tais como, os números da Polícia Militar Ambiental e da Delegacia do Meio Ambiente do Estado de Goiás.~~
@@ -77,8 +79,6 @@ Art. 10. Os estabelecimentos especificados nos arts. 3º e 4º terão o prazo de
 Art. 11. Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 30 de junho de 2022; 134º da República.
-
-<br>
 
 RONALDO CAIADO
 

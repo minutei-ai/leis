@@ -1,5 +1,3 @@
-###DEC-046000-0-000-15-05-1959@@@
-
 DECRETO Nº 46.000, DE 15 DE MAIO DE 1959.
 
 Concede permissão, em caráter permanente, à Tecelagem Textilia S.A. (seção de retorção e beneficiamento e fibras têxteis), com sede em S. Paulo, Capital, para funcionar aos domingos e nos feriados civis ou religiosos.

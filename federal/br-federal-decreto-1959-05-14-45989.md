@@ -1,5 +1,3 @@
-###DEC-045989-0-000-14-05-1959@@@
-
 decreto nº 45.989, de 14 de maio de 1959.
 
 Concede reconhecimento ao curso de auxiliar de enfermagem da Escola de Auxiliares de Enfermagem do Espírito Santo.

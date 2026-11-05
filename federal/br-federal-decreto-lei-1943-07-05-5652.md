@@ -1,5 +1,3 @@
-###DEL-005652-0-000-05-07-1943@@@
-
 DECRETO‑LEI N. 5.652 – DE 5 DE JULHO DE 1943
 
 Dispõe sôbre  a amortização do empréstimo a que se refere o decreto‑lei nº 4.001, de 7 de janeiro de 1942.

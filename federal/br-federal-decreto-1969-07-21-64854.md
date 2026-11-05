@@ -1,5 +1,3 @@
-###DEC-064854-0-000-21-07-1969@@@
-
 DECRETO Nº 64.854 - DE 21 DE JULHO DE 1969.
 
 Cancela autorização concedida a Sociedade Seguradora Estrangeira para funcionar no País.

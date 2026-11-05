@@ -1,5 +1,3 @@
-###DEC-089128-0-000-06-12-1983@@@
-
 Decreto nº 89.128 de 06 de dezembro de 1983
 
 Autoriza o aumento de Capital Social da Rede Ferroviária Federal S/A - RFFSA

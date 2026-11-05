@@ -50,4 +50,4 @@ Brasília, 24 de julho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Osmar Terra<br>
+Osmar Terra

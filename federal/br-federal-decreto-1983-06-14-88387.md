@@ -1,5 +1,3 @@
-###DEC-088387-0-000-14-06-1983@@@
-
 Decreto nº 88.387, de 14 junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação transformadora de distribuição Carrão, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

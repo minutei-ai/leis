@@ -1,5 +1,3 @@
-###DEC-003231-0-000-04-11-1999@@@
-
 DECRETO Nº 3.231, DE 4 DE NOVEMBRO DE 1999.
 
 Estende o prazo estabelecido no art. 1º do Decreto nº  3.075, de 1º de junho de 1999.

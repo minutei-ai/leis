@@ -1,5 +1,3 @@
-###DEC-081823-0-000-23-06-1978@@@
-
 Decreto nº 81.823, de 23 de junho de 1978.
 
 Concede à MINEBRA - Minérios Brasileiros S.A. o direito de lavrar grafita no município de Itanhém, Estado da Bahia.

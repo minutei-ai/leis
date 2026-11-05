@@ -1,7 +1,3 @@
-1
-
-###MPV-001430-0-000-09-05-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.430, DE 9 DE MAIO DE 1996.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

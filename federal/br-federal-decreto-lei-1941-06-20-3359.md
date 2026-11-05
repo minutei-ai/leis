@@ -1,5 +1,3 @@
-###DEL-003359-0-000-20-06-1941@@@
-
 DECRETO-LEI N. 3.359 – DE 20 DE JUNHO DE 1941
 
 Estabelece normas para amparar a indústria nacional da borracha, assegurando-lhe a matéria prima indispensavel às suas atividades e dá outras providências.

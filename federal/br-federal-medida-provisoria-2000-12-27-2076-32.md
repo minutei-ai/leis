@@ -1,5 +1,3 @@
-###MPV-002076-0-032-27-12-2000@@@
-
 medida provisória nº 2.076-32, de 27 de dezembro de 2000.
 
 Altera a Consolidação das Leis do Trabalho -CLT, para dispor sobre o trabalho a tempo parcial, a suspensão do contrato de trabalho e o programa de qualificação profissional, modifica as Leis nºs 4.923, de 23 de dezembro de 1965, 6.321, de 14 de abril de 1976, 6.494, de 7 de dezembro de 1977, 7.998, de 11 de janeiro de 1990, e 9.601, de 21 de janeiro de 1998, e dá outras providências.

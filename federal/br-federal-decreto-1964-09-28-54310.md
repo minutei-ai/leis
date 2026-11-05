@@ -1,5 +1,3 @@
-###DEC-054310-0-000-28-09-1964@@@
-
 DECRETO nº54.310, DE 28 DE SETEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Ary Ferreira a pesquisar ouro no município de Brejinho de Nazaré, Estado de Goiás.

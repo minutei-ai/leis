@@ -1,5 +1,3 @@
-###DEC-081543-0-000-10-04-1978@@@
-
 Decreto nº 81.543, de 10 de abril de 1978
 
 Concede à Mineração de Feldspato Andradense Ltda. o direito de lavrar feldspato e quartzo no Município de Inconfidentes, Estado de Minas Gerais.

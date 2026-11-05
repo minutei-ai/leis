@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57660)
-
 # LEI Nº 12.043, DE 19 DE SETEMBRO DE 2005
 
 ## (PL 445/2005 - Analice Fernandes)

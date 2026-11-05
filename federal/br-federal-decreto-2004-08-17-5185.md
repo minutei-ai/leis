@@ -1,5 +1,3 @@
-###DEC-005185-0-000-17-08-2004@@@
-
 DECRETO Nº 5.185 DE 17 DE AGOSTO DE 2004
 
 Institui Comitê Técnico Interministerial para acompanhamento e reformulação do Programa de Garantia da Atividade Agropecuária \- PROAGRO, instituído pela Lei nº 5.969, de 11 de dezembro de 1973.

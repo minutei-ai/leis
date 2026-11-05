@@ -1,5 +1,3 @@
-###DEC-046089-0-000-19-05-1959@@@
-
 Decreto nº 46.089, De 19 de Maio de 1959.
 
 Estabelece a frequência dos sistemas da Companhia Prada de Eletricidade, para os municípios que especifica.

@@ -1,5 +1,3 @@
-###DEC-006110-0-000-10-05-2007@@@
-
 DECRETO Nº 6.110, DE 10 DE MAIO DE 2007.
 
 Altera o art. 15 do Decreto no 5.914, de 28 de setembro de 2006, para prorrogar o prazo de vigência de norma temporária sobre progressão funcional e promoção dos servidores ocupantes de cargos efetivos da Carreira Auditoria da Receita Federal até regulamentação definitiva.
@@ -19,5 +17,3 @@ Brasília, 10 de maio de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 11.5.2007.

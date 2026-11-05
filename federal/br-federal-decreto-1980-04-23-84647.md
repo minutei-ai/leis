@@ -1,5 +1,3 @@
-###DEC-084647-0-000-23-04-1980@@@
-
 Decreto nº 84.647, de 23 de abril de 1980
 
 Autoriza o funcionamento da habilitação Magistério para Pré-Escola, na Universidade Metodista de Piracicaba, Estado de São Paulo.

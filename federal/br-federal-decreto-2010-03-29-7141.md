@@ -1,5 +1,3 @@
-###DEC-007141-0-000-29-03-2010@@@
-
 DECRETO Nº 7.141, DE 29 DE MARÇO DE 2010.
 
 Regulamenta a atualização de dados cadastrais dos aposentados e pensionistas da União que recebem proventos ou pensões à conta do Tesouro Nacional, constantes do Sistema Integrado de Administração de Recursos Humanos - SIAPE, de que trata o art. 9o da Lei no 9.527, de 10 de dezembro de 1997.

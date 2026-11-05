@@ -1,5 +1,3 @@
-###DEC-074546-0-000-12-09-1974@@@
-
 decreto nº 74.546, de 12 de setembro de 1974.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem da linha de transmissão da LIGHT - Serviços de Eletricidade S.A., Estado de São Paulo.

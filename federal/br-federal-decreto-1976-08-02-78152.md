@@ -1,5 +1,3 @@
-###DEC-078152-0-000-02-08-1976@@@
-
 DECRETO Nº 78.152, De 2 DE AGOSTO DE 1976
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, destinado ao Ministério do Exército.

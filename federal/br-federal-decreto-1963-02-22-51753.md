@@ -1,5 +1,3 @@
-###DEC-051753-0-000-22-02-1963@@@
-
 DECRETO Nº 51.753, DE 22 DE FEVEREIRO DE 1963.
 
 Dispõe sôbre atribuições do Serviço Federal de Prevenção e Repressão das Infrações Contra a Fazenda Nacional (SFPR).

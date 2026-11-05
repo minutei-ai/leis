@@ -1,5 +1,3 @@
-###DEL-008914-B-000-25-01-1946@@@
-
 DECRETO-LEI N. 8.914 – B – DE 25 DE JANEIRO DE 1946
 
 Declara a nulidade dos arts. 8 e 9 do Decreto-lei nº 14.065, de 7 de julho de 1944, baixado pelo Interventor Federal no Estado de São Paulo.

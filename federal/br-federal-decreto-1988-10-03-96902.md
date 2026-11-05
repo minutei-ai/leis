@@ -1,5 +1,3 @@
-###DEC-096902-0-000-03-10-1988@@@
-
 DECRETO N° 96.902, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre a estrutura básica da Secretaria de Planejamento e Coordenação da Presidência da República e dás outras providencias.

@@ -1,5 +1,3 @@
-###MPV-000456-0-000-30-01-2009@@@
-
 MEDIDA PROVISÓRIA Nº 456, DE 30 DE JANEIRO DE 2009.
 
 Dispõe sobre o salário mínimo a partir de 1o de fevereiro de 2009.

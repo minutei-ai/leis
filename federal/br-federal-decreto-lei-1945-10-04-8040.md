@@ -1,5 +1,3 @@
-###DEL-008040-0-000-04-10-1945@@@
-
 DECRETO-LEI n. 8.040 – DE 4 DE OUTUBRO DE 1945
 
 Suprime função gratificada no Quadro Permanente do Ministério da Educação e Saúde

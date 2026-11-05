@@ -1,5 +1,3 @@
-###DEC-053489-0-000-24-01-1964@@@
-
 DECRETO Nº 53.489, DE 24 DE JANEIRO DE 1964.
 
 Declara de utilidade pública a Associação Brasileira de Educação e Cultura, com sede em São Paulo, Estado de São Paulo.

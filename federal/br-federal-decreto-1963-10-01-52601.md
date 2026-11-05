@@ -1,5 +1,3 @@
-###DEC-052601-0-000-01-10-1963@@@
-
 Decreto Nº 52.601, DE 1 DE OUTUBRO DE 1963.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia Mantenense de Eletricidade - COMELE.

@@ -1,5 +1,3 @@
-###DEC-050337-0-000-14-03-1961@@@
-
 DECRETO Nº 50.337, de 14 DE março DE 1961.
 
 Revoga os decretos ns. 43.186, de 6 de fevereiro de 1958, 46.131, de 3 de junho de 1959, e 47.022 de 14 de outubro de 1959, relativos à concessão a médicos, engenheiros e dentistas, das gratificações previstas nos itens V e VI da Lei nº 1.711, de 28 de outubro de 1952.

@@ -1,5 +1,3 @@
-###DEC-076097-0-000-07-08-1975@@@
-
 DECRETO Nº 76.097 - DE 7 DE Agosto DE 1975
 
 Prorroga os prazos das autorizações concedidas pelos Decretos números 71.229, de 9 de outubro de 1972, á Companhia norte-americana Penrod Drilling Company e 71.233, de 10 de outubro de 1972, ás Companhias norte-americanas Pendor Drilling  Service Company.

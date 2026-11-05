@@ -1,5 +1,3 @@
-###DEC-058053-0-000-23-03-1966@@@
-
 Decreto nº 58.053, de 23 de março de 1966.
 
 Autoriza estrangeiros a adquirirem, em transferência de aforamento, o domínio útil de fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

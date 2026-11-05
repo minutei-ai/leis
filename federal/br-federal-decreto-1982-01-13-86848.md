@@ -1,5 +1,3 @@
-###DEC-086848-0-000-13-01-1982@@@
-
 decreto nº 86.848, De 13 de janeiro de 1982
 
 Concede à AÇOS FINOS PIRATINI S.A. autorização para proceder a aumento do seu capital social.

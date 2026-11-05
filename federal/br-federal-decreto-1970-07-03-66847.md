@@ -1,5 +1,3 @@
-###DEC-066847-0-000-03-07-1970@@@
-
 DECRETO Nº 66.847, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de São Carlos, com sede em São Carlos, Estado de São Paulo.

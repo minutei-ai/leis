@@ -1,5 +1,3 @@
-###DEC-069796-0-000-15-12-1971@@@
-
 DECRETO nº 69.796 - DE 15 DE DEZEMBRO DE 1971
 
 Autoriza o funcionamento da Faculdade de Administração de Joaçaba - Estado de Santa Catarina.

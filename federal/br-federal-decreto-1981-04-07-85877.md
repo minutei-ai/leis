@@ -1,5 +1,3 @@
-###DEC-085877-0-000-07-04-1981@@@
-
 Decreto nº 85.877, de 07 de abril de 1981.
 
 Estabelece normas para execução da Lei nº 2.800, de 18 de junho de 1956, sobre o exercício da profissão de químico, e dá outras providências

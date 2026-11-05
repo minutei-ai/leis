@@ -1,5 +1,3 @@
-###DEC-090820-0-000-18-01-1985@@@
-
 DECRETO Nº 90.820, DE 18 DE JANEIRO DE 1985
 
 Autoriza o funcionamento do curso de Agrimensura do Centro de Ensino Superior Professor Plínio Mendes dos Santos - MS.

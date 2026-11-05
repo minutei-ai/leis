@@ -1,5 +1,3 @@
-###DEC-050235-0-000-28-01-1961@@@
-
 DECRETO Nº 50.235, DE 28 DE JANEIRO DE 1961.
 
 Outorga concessão à Companhia Brasileira de Rádio e Televisão para estabelecer uma estação de radiotelevisão.

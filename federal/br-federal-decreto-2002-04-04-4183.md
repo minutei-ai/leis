@@ -1,5 +1,3 @@
-###DEC-004183-0-000-04-04-2002@@@
-
 DECRETO Nº 4.183, DE 4 DE ABRIL DE 2002
 
 Dá nova redação ao caput do art. 30 do Decreto nº 4.118, de 7 de fevereiro de 2002, que dispõe sobre a organização da Presidência da República e dos Ministérios.

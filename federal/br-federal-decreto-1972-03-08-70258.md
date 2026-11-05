@@ -1,5 +1,3 @@
-###DEC-070258-0-000-08-03-1972@@@
-
 decreto nº 70.258, de 8 de março de 1972.
 
 Concede a Vidros Industriais do Pará S.A. o direito de lavrar área quartozosa, no município de Santa Izabel do Pará, Estado do Pará.

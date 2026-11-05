@@ -1,5 +1,3 @@
-###DEC-083220-0-000-01-03-1979@@@
-
 Decreto nº 83.220, de 1º de março de 1979
 
 Concede reconhecimento ao curso de Comunicação Social da Universidade Federal do Espírito Santo, com sede na cidade de Vitória, Estado do Espírito Santo.

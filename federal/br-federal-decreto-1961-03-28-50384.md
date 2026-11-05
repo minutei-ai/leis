@@ -1,5 +1,3 @@
-###DEC-050384-0-000-28-03-1961@@@
-
 DECRETO Nº 50.384, DE 28 DE MARÇO DE 1961.
 
 Extingue cargos de Adidos e Adjuntos de Adidos Aeronáuticos junto às Representações Diplomáticas e dá outras providências.

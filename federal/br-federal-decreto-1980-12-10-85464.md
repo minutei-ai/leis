@@ -1,5 +1,3 @@
-###DEC-085464-0-000-10-12-1980@@@
-
 DECRETO Nº 85.464, DE 10 DE DEZEMBRO DE 1980.
 
 Dispensa a licitação para a alienação das terras devolutas da União que menciona, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-048741-0-000-04-08-1960@@@
-
 DECRETO Nº 48.741, DE 04 DE agôsto DE 1960.
 
 Altera a redação do art. 10 do Decreto nº 47.168, de 4 de novembro de 1959.

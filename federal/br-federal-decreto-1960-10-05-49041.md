@@ -1,5 +1,3 @@
-###DEC-049041-0-000-05-10-1960@@@
-
 decreto nº 49.041, de 5 de outubro de 1960.
 
 Autoriza S.A .Mineração Jerônimo Rosado a pesquisar gipsita no município de Santana do Cariri, Estado do Ceará.

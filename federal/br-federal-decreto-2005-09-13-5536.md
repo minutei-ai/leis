@@ -1,5 +1,3 @@
-###DEC-005536-0-000-13-09-2005@@@
-
 DECRETO Nº 5.536, DE 13 DE SETEMBRO DE 2005
 
 Altera o Anexo XI do Decreto n o 5.379, de 25 de fevereiro de 2005, que dispõe sobre a programação orçamentária e financeira e estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2005, e dá outras providências.

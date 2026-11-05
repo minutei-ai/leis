@@ -1,5 +1,3 @@
-###DEC-057634-0-000-14-01-1966@@@
-
 decreto nº 57.634, de 14 de janeiro de 1966.
 
 Suspende as atividades da União Nacional dos Estudantes (UNE).

@@ -1,5 +1,3 @@
-###DEC-071266-0-000-20-10-1972@@@
-
 DECRETO Nº 71.266 - DE 20 DE OUTUBRO DE 1972.
 
 Redistribui cargos com os respectivos ocupantes, e dá outras providências.

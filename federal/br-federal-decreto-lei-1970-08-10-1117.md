@@ -1,5 +1,3 @@
-###DEL-001117-0-000-10-08-1970@@@
-
 # DECRETO-LEI Nº 1.117, DE 10 DE AGÔSTO DE 1970
 
 Concede isenção de impôsto às máquinas e implementos agrícolas e dá outras providências.

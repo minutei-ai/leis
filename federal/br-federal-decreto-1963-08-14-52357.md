@@ -1,5 +1,3 @@
-###DEC-052357-0-000-14-08-1963@@@
-
 DECRETO Nº 52.357, de 14 DE AgÔsto DE 1963.
 
 Introduz segundo parágrafo no artigo 2º do Decreto nº 51.861, de 22 de março de 1963.

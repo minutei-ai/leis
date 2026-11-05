@@ -1,5 +1,3 @@
-###LEI-000000-0-000-23-09-1828@@@
-
 LEI - DE 23 DE SETEMBRO DE 1828
 
 Prescreve as formalidades que se devem observar nos processos criminaes, e a maneira por que devem ser instruidos e preparados os que forem julgados nas Juntas de Justiça.

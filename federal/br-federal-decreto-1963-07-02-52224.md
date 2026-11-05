@@ -1,5 +1,3 @@
-###DEC-052224-0-000-02-07-1963@@@
-
 decreto nº 52.224, de 2 de julho de 1963.
 
 Revoga o Decreto nº 51.085, de 31 de julho de 1961.

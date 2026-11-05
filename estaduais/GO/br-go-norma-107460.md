@@ -22,10 +22,12 @@ Art. 3º Para fins de orientação, as ações da Política de Prevenção e Com
 
 Art. 4º Toda paciente diagnosticada com câncer de ovário deve receber acolhimento humanizado e respeitoso e ser cuidada em ambiente adequado ao seu tratamento.
 
-Art. 4º-A Fica instituída a Semana Estadual de Conscientização sobre o Câncer de Ovário, a ser realizada, anualmente, na segunda semana do mês de maio.<br>
+Art. 4º-A Fica instituída a Semana Estadual de Conscientização sobre o Câncer de Ovário, a ser realizada, anualmente, na segunda semana do mês de maio.
+
 \- [Acrescido pela Lei nº 22.012, de 27-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109597/lei-23012).
 
-Parágrafo único. A Semana Estadual instituída por esta Lei fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.<br>
+Parágrafo único. A Semana Estadual instituída por esta Lei fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.
+
 \- [Acrescido pela Lei nº 22.012, de 27-9-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109597/lei-23012).
 
 Art. 5º O Poder Público, em parceria com a iniciativa privada e entidades civis, deve realizar ações educativas de conscientização e prevenção sobre o câncer de ovário.

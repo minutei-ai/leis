@@ -1,5 +1,3 @@
-###DEC-076052-0-000-30-07-1975@@@
-
 DECRETO Nº 76.052 - DE 30 DE JULHO DE 1975.
 
 Torna sem efeito a disponibilidade e o aproveitamento de Germano Francisco dos Reis, servidor do Ministério da Saúde.

@@ -1,20 +1,18 @@
-###DEC-021892-0-000-04-10-1946@@@
+**DECRETO Nº 21.892, DE 4 DE OUTUBRO DE 1946.**
 
-<strong>DECRETO Nº 21.892, DE 4 DE OUTUBRO DE 1946.</strong>
+***Outorga à Usina Catende S.A. com sede na cidade de Catente, Estado de Pernambuco, concessão para o aproveitamento da energia de um desnível existente no rio Pirangi, 1º distrito do município de Palmares, Estado de Pernambuco.***
 
-<em><strong>Outorga à Usina Catende S.A. com sede na cidade de Catente, Estado de Pernambuco, concessão para o aproveitamento da energia de um desnível existente no rio Pirangi, 1º distrito do município de Palmares, Estado de Pernambuco.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, de Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, de Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de Julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Respeitados os direitos de terceiros, anteriormente adquiridos, é outorgada à Usina Catende S.A., com sede na cidade de Catende, Estado de Pernambuco, concessão para o aproveitamento da energia de um desnível existente no rio Pirangí, primeiro distrito do município de Palmares, no mesmo Estado.
+**Art**. 1º Respeitados os direitos de terceiros, anteriormente adquiridos, é outorgada à Usina Catende S.A., com sede na cidade de Catende, Estado de Pernambuco, concessão para o aproveitamento da energia de um desnível existente no rio Pirangí, primeiro distrito do município de Palmares, no mesmo Estado.
 
 § 1º Por portaria do Ministro da Agricultura, na ocasião da aprovação dos projetos, serão determinados a altura de queda a aproveitar, a descarga e a potência concedida.
 
 § 2º O aproveitamento destina-se à produção de energia elétrica para uso exclusivo da concessionária, que não poderá fornecê-la a terceiros, mesmo a título gracioso, excluídas, todavia, desta proibição, as vilas operárias e residências do pessoal da fábrica, desde que seja gratuito o fornecimento.
 
-<strong>Art</strong>. 2º Sob pena de caducidade do presente título, a interessada obriga-se a:
+**Art**. 2º Sob pena de caducidade do presente título, a interessada obriga-se a:
 
 I - Registrá-lo na Divisão de Águas, do Ministério da Agricultura, sessenta (60) dias após a sua publicação;
 
@@ -58,26 +56,26 @@ V - Obedecer, em todos os projetos, às prescrições de ordem técnica que fore
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura, ouvida a Divisão de Águas do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A. minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida a aprovação do Sr. Ministro da Agricultura.
+**Art**. 3º A. minuta do contrato disciplinar desta concessão será preparada pela Divisão de Águas e submetida a aprovação do Sr. Ministro da Agricultura.
 
-<strong>Art</strong>. 4º A. concessionária fica obrigada a construir e manter no local do aproveitamento, onde e desde quanto fôr determinado pela Divisão de Águas, as instalações necessárias a observações milimétricas e medições de descarga, e a realizar as leituras de acôrdo com as instruções determinadas pela Divisão de Águas.
+**Art**. 4º A. concessionária fica obrigada a construir e manter no local do aproveitamento, onde e desde quanto fôr determinado pela Divisão de Águas, as instalações necessárias a observações milimétricas e medições de descarga, e a realizar as leituras de acôrdo com as instruções determinadas pela Divisão de Águas.
 
-<strong>Art</strong>. 5º A. presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
+**Art**. 5º A. presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato na Divisão de Águas.
 
-<strong>Art</strong>. 6º Finco o prazo da concessão, toda a propriedade da concessionária, que, no momento existir em função exclusiva e permanente da produção de energia hidráulica, reverterá ao Estado de Pernambuco, mediante indenização do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
+**Art**. 6º Finco o prazo da concessão, toda a propriedade da concessionária, que, no momento existir em função exclusiva e permanente da produção de energia hidráulica, reverterá ao Estado de Pernambuco, mediante indenização do custo histórico, isto é, do capital efetivamente gasto, menos a depreciação.
 
-<strong>Art</strong>. 7º Se o Govêrno do Estado de Pernambuco não fizer uso do direito que lhe concede o artigo precedente, caberá a concessionária a alternativa de requerer ao Govêno Federal, que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer, as suas expensas, a situação do curso d’água, anterior ao aproveitamento concedido.
+**Art**. 7º Se o Govêrno do Estado de Pernambuco não fizer uso do direito que lhe concede o artigo precedente, caberá a concessionária a alternativa de requerer ao Govêno Federal, que a concessão seja renovada pela forma que, no respectivo contrato, deverá estar prevista, ou de restabelecer, as suas expensas, a situação do curso d’água, anterior ao aproveitamento concedido.
 
 Parágrafo único. Para os efeitos dêste artigo, fica a concessionária obrigada a dar conhecimento ao Govêrno Federal da decisão do Estado de Pernambuco, e a entrar com o requerimento de prorrogação da concessão, ou o de desistência desta, até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8º A concessionária, dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o art. 153, alínea <em>a</em>, do Código de Águas.
+**Art**. 8º A concessionária, dadas as condições peculiares do aproveitamento, fica dispensada da reserva de energia de que trata o art. 153, alínea *a*, do Código de Águas.
 
-<strong>Art</strong>. 9º A concessionária gozará, desde a data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
+**Art**. 9º A concessionária gozará, desde a data do registro de que trata o art. 5º e enquanto vigorar esta concessão, dos favores constantes do Código de Águas e das leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 10. O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 10. O presente Decreto entra em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 4 de Outubro de 1946; 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

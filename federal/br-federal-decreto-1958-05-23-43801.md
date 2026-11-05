@@ -1,14 +1,12 @@
-###DEC-043801-0-000-23-05-1958@@@
+**DECRETO Nº 43.801, DE 23 DE MAIO DE 1958.**
 
-<strong>DECRETO Nº 43.801, DE 23 DE MAIO DE 1958.</strong>
+***Dá nova redação aos arts. 33, 35 (letra a), 48, 51 (parágrafo único), 76, (§ 1º), 77 (parágrafo único), 109 (parágrafo único) e 130, (letra f) do Regulamento para os Centros de Preparação de Oficiais da Reserva (R-166).***
 
-<em><strong>Dá nova redação aos arts. 33, 35 (letra a), 48, 51 (parágrafo único), 76, (§ 1º), 77 (parágrafo único), 109 (parágrafo único) e 130, (letra f) do Regulamento para os Centros de Preparação de Oficiais da Reserva (R-166).</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o inciso I do art. 87 da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o inciso I do art. 87 da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Passam a ter a redação abaixo os arts. 33, 35 (letra a), 48, 51 (parágrafo único), 76 (§ 1º), 77 (parágrafo único), 109 (parágrafo único) e 130 (letra f) do Regulamento para os Centros de Preparação de Oficiais da Reserva (R-166), aprovado pelo Decreto nº 22.392, de 31 de dezembro de 1946 (<em>Diário</em> <em>Oficial</em> de 20 de janeiro de 1947):
+**Art**. 1º Passam a ter a redação abaixo os arts. 33, 35 (letra a), 48, 51 (parágrafo único), 76 (§ 1º), 77 (parágrafo único), 109 (parágrafo único) e 130 (letra f) do Regulamento para os Centros de Preparação de Oficiais da Reserva (R-166), aprovado pelo Decreto nº 22.392, de 31 de dezembro de 1946 (*DiárioOficial* de 20 de janeiro de 1947):
 
 “Art. 33. Os efetivos (alunos dos CPOR e dos NPOR serão fixados anualmente pelo Ministro da Guerra, por proposta dos Comandantes de Região Militar, ouvido o Estado-Maior do Exército”.
 
@@ -44,10 +42,10 @@ a)..............................................................................
 
 f) de 2 de janeiro a 28 de fevereiro e de 1 a 31 de julho, quando voluntários, a perceber etapa equivalente à fixada para a Guarnição; e, quando amparados pela Lei do Ensino Militar, a perceber etapa e vencimentos de soldado engajado, salvo se forem funcionários públicos ou empregados de entidades autárquicas, quando perceberão apenas etapa, continuando a receber seus vencimentos normais pelas repartições a que pertencerem”.
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 23 de maio de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

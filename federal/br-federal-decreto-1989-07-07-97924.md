@@ -1,7 +1,3 @@
-1
-
-###DEC-097924-0-000-07-07-1989@@@
-
 DECRETO N° 97.924, DE 7 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Filosofia da Sociedade Civil “Colégio São José de Batatais”.

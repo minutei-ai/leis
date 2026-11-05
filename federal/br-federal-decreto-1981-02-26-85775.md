@@ -1,5 +1,3 @@
-###DEC-085775-0-000-26-02-1981@@@
-
 Decreto nº 85.775, de 26 de fevereiro de 1981
 
 Autoriza o funcionamento do curso de Fisioterapia, da Faculdade de Fisioterapia de Presidente Prudente, Estado de São Paulo.

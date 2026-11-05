@@ -1,5 +1,3 @@
-###MPV-000435-0-000-26-06-2008@@@
-
 MEDIDA PROVISÓRIA Nº 435, DE 26 DE JUNHO DE 2008.
 
        Altera a Lei no 10.179, de 6 de fevereiro de 2001, dispõe sobre a utilização do superávit financeiro em 31 de dezembro de 2007, e dá outras providências.

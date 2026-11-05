@@ -1,7 +1,3 @@
-1
-
-###DEC-099705-0-000-20-11-1990@@@
-
 DECRETO N° 99.705, DE 20 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução da Ata de Retificação do Quarto Protocolo Adicional ao Acordo de Complementação Econômica, entre o Brasil e a Argentina (Acordo n° 7).

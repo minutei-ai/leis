@@ -1,5 +1,3 @@
-###DEC-072038-0-000-30-03-1973@@@
-
 DECRETO Nº 72.038, DE 30 DE MARÇO DE 1973.
 
 Concede à Companhia de Estanho São João Del Rei o direito de lavrar cassiterita, columbita, djalmaita e minério de tântalo no Município de São Tiago, Estado de Minas Gerais.
@@ -27,8 +25,6 @@ Brasília, 30 de março de 1973; 152.º da Independência e 85.º da República.
 EMÍLIO G. MÉDICI
 
 Antônio Dias Leite Júnior
-
-###DEC-072038-0-000-30-03-1973@@@
 
 DECRETO Nº 72.038, DE 30 DE MARÇO DE 1973.
 

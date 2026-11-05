@@ -1,5 +1,3 @@
-###DEC-077756-0-000-07-06-1976@@@
-
 DECRETO Nº 77.756, DE 7 DE JUNHO DE 1976.
 
 Autoriza a contratação de empréstimo em moeda estrangeira, para o fim que menciona, e dá outras providências.

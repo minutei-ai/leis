@@ -1,5 +1,3 @@
-###DEC-058952-0-000-01-08-1966@@@
-
 DECRETO Nº 58.952, de 1 de agôsto de 1966.
 
 Aprova a Alteração introduzida nos Estatutos da Companhia de Seguros Minas Brasil, relativa ao aumento do capital social.

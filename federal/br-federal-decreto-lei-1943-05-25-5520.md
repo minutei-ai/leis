@@ -1,5 +1,3 @@
-###DEL-005520-0-000-25-05-1943@@@
-
 DECRETO-LEI N. 5.520 – DE 25 DE MAIO DE 1943
 
 Dispõe sobre a concessão de diárias e pagamento de transporte aos membros dos Conselhos das Delegacias do Trabalho Marítimo

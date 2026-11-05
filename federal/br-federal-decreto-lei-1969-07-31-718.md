@@ -1,5 +1,3 @@
-###DEL-000718-0-000-31-07-1969@@@
-
 DECRETO-LEI Nº 718, DE 31 DE JULHO DE 1969
 
 Cria o Fundo de Desenvolvimento de Áreas Estratégicas (FDAE) e dá outras providências.

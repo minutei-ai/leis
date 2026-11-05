@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208175)<br>
-
 # DECRETO N° 67.741, DE 12 DE JUNHO DE 2023
 
 ### _Altera os dispositivos que especifica do Decreto n° 50.941, de 5 de abril de 2006._

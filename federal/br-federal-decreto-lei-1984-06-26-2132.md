@@ -1,5 +1,3 @@
-###DEL-002132-0-000-26-06-1984@@@
-
 # decreto-lei nº 2.132, de 26 de junho de 1984
 
 Autoriza a União a adquirir ações de empresas estatais e dá outras providências.

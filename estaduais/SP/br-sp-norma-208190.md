@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208190)<br>
-
 # LEI N° 17.697, DE 13 DE JUNHO DE 2023
 
 ## (Projeto de lei n° 812, de 2021, do Deputado Frederico d'Avila - PSL)

@@ -1,5 +1,3 @@
-###DEC-081509-0-000-03-04-1978@@@
-
 Decreto nº 81.509, de 3 de abril de 1978.
 
 Declara a caducidade do manifesto de Mina que menciona.

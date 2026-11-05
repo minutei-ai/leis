@@ -1,5 +1,3 @@
-###DEC-003001-0-000-26-03-1999@@@
-
 DECRETO Nº 3.001, DE 26 DE MARÇO DE 1999.
 
 Acresce dispositivo ao Decreto nº 2.346, de 10 de outubro de 1997, que consolida normas de procedimentos a serem observadas pela Administração Pública Federal em razão de decisões judiciais e regulamenta os dispositivos legais que menciona.

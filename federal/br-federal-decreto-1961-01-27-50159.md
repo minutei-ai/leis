@@ -1,5 +1,3 @@
-###DEC-050159-0-000-27-01-1961@@@
-
 DECRETO Nº 50.159, DE 27 DE JANEIRO DE 1961.
 
 Outorga concessão à Rádio Cultura da Bahia S.A., para estabelecer uma estação de radiotelevisão.

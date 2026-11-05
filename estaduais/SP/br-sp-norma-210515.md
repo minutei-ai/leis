@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210515)<br>
-
 # DECRETO N° 69.290, DE 31 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Gestão e Governo Digital nos Sistemas de Administração Financeira e Orçamentária do Estado_

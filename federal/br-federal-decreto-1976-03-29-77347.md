@@ -1,5 +1,3 @@
-###DEC-077347-0-000-29-03-1976@@@
-
 DECRETO Nº 77.347, DE 29 DE MARÇO DE 1976.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados na Cidade de São Luiz, Estado do Maranhão.

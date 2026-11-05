@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1a1d8f42-3a2d-4a2b-8a39-ff0f9be59c85/texto#nowhere)
 
-###DEL-000867-0-000-12-09-1969@@@
-
 DECRETO-LEI Nº 867, DE 12 DE SETEMBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério do Exército, o crédito especial de NCr$300.000,00 para o fim que especifica.

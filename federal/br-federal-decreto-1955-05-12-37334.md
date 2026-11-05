@@ -1,32 +1,30 @@
-###DEC-037334-0-000-12-05-1955@@@
+**DECRETO Nº 37.334, DE 12 DE MAIO DE 1955.**
 
-<strong>DECRETO Nº 37.334, DE 12 DE MAIO DE 1955.</strong>
+***Aprova o Regimento do Instituto Joaquim Nabuco, do Ministério da Educação e Cultura.***
 
-<em><strong>Aprova o Regimento do Instituto Joaquim Nabuco, do Ministério da Educação e Cultura.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Instituto Joaquim Nabuco (I.J.N.), do Ministério da Educação e Cultura que, assinado pelo receptivo Ministro de Estado, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Instituto Joaquim Nabuco (I.J.N.), do Ministério da Educação e Cultura que, assinado pelo receptivo Ministro de Estado, com êste baixa.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 12 de maio de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Cândido Mota Filho
 
-<strong>REGIMETO DO INSTITUDO JOAQUIM NABUCO</strong>
+**REGIMETO DO INSTITUDO JOAQUIM NABUCO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Instituto Joaquim Na-Nabuco (I.J.N.), criado pelo Lei nº 770, de 21 de julho de 1949, posteriormente alterada pela Lei número 1.817, de 23 de fevereiro de 1953, como órgão integrante do Ministério da Educação e Cultura, é diretamente subordinado ao Ministro de Estado e tem por finalidade:
+**Art**. 1º O Instituto Joaquim Na-Nabuco (I.J.N.), criado pelo Lei nº 770, de 21 de julho de 1949, posteriormente alterada pela Lei número 1.817, de 23 de fevereiro de 1953, como órgão integrante do Ministério da Educação e Cultura, é diretamente subordinado ao Ministro de Estado e tem por finalidade:
 
 I - estudar os problemas sociais relacionados, direta ou indiretamente, com a melhoria das condições de vida do trabalhador brasileiro, inclusive do pequeno lavrador, das regiões agrárias do Norte assim definidas as áreas de agricultura que se estendem da Bahia à Amazônia;
 
@@ -40,11 +38,11 @@ V - servir de centro de treinamento em técnicas de pesquisas sociais para estud
 
 VI - divulgar o resultado dos seus trabalhos, publicando monografias, separatas, ensaios e estudos elaborados pelos componentes dos diversos setôres técnicos do Instituto ou por especialista nacionais ou estrangeiros.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O I.J.N. compõe-se dos seguintes órgãos:
+**Art**. 2º O I.J.N. compõe-se dos seguintes órgãos:
 
 \- Seção de História Social (S.H.S.)
 
@@ -60,19 +58,19 @@ VI - divulgar o resultado dos seus trabalhos, publicando monografias, separatas,
 
 \- Seção de Administração (S.A.).
 
-<strong>Art</strong>. 3º O I.J.N. será dirigido por um Diretor nomeado, em comissão, pelo Presidente da República, escolhido, preferentemente, entre especialistas em ciências sociais.
+**Art**. 3º O I.J.N. será dirigido por um Diretor nomeado, em comissão, pelo Presidente da República, escolhido, preferentemente, entre especialistas em ciências sociais.
 
 Parágrafo único. O Diretor do I.J.N. terá um Assistente e um Secretário, por êle designados.
 
-<strong>Art</strong>. 4º As Seções terão Chefes designados na forma dêste Regimento.
+**Art**. 4º As Seções terão Chefes designados na forma dêste Regimento.
 
-<strong>Art</strong>. 5º Os órgãos que integram o I.J.N. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os órgãos que integram o I.J.N. funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º A S.H.S. compete:
+**Art**. 6º A S.H.S. compete:
 
 I - levantar e interpretar a documentação histórica das áreas agrárias do Norte;
 
@@ -80,7 +78,7 @@ II - estudar a vida social da região do norte do país em seus múltiplos aspec
 
 III - recolher a documentação histórica necessárias aos estudos das demais Seções.
 
-<strong>Art</strong>. 7º À S.S. compete:
+**Art**. 7º À S.S. compete:
 
 I - estudar grupos, organização social e instituições;
 
@@ -90,7 +88,7 @@ III - analisar a população;
 
 IV - estudar a ecologia social e os processos sociais.
 
-<strong>Art</strong>. 8º À S.Ant. compete:
+**Art**. 8º À S.Ant. compete:
 
 I - estudar os aspectos da cultura e a integração cultural;
 
@@ -102,7 +100,7 @@ IV - estudar e incentivar as manifestações folclóricas;
 
 V - realizar levantamentos e organizar a documentação da cultura, mediante o emprêgo de processos adequados.
 
-<strong>Art</strong>. 9º À S.E. compete:
+**Art**. 9º À S.E. compete:
 
 I - estudar as condições, formas e técnicas de trabalho;
 
@@ -122,7 +120,7 @@ VIII - estudar o crédito agrícola;
 
 IX - estudar as repercussões regionais da conjuntura econômica nacional, da política econômica externa e da conjuntura internacional.
 
-<strong>Art</strong>. 10. À S.G.H. compete:
+**Art**. 10. À S.G.H. compete:
 
 I - estudar as regiões naturais;
 
@@ -136,7 +134,7 @@ V - estudar a geografia agrária;
 
 VI - estuar o habitat rural.
 
-<strong>Art</strong>. 11. À S.E.C. compete;
+**Art**. 11. À S.E.C. compete;
 
 I - estudar e analisar o estado e movimento da população rural e respectiva situação social;
 
@@ -148,19 +146,19 @@ IV - colaborar no planejamento das tarefas atribuídas às demais Seções e exe
 
 V - executar serviços de cartografia.
 
-<strong>Art</strong>. 12. À S.A. compete:
+**Art**. 12. À S.A. compete:
 
 I - realizar os trabalhos relativos à administração de pessoal, material, orçaçamento e comunicações, mantendo a indispensável harmonia com os órgãos do D.A. do Ministério da Educação e Cultura, cujas normas e métodos de trabalho deverá observar;
 
 II - executar os serviços de portaria, providenciando a conservação e limpeza do edifício e do mobiliário.
 
-<strong>Art</strong>. 13. As atividades das várias Seções incluirão o exame de problemas urbanos, cujo estudo se torne necessário ao esclarecimento de questões rurais.
+**Art**. 13. As atividades das várias Seções incluirão o exame de problemas urbanos, cujo estudo se torne necessário ao esclarecimento de questões rurais.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 14. Ao Diretor do I.J.N. incumbe:
+**Art**. 14. Ao Diretor do I.J.N. incumbe:
 
 I - dirigir as atividade do Instituto, incentivando e coordenando os trabalhos dos sues vários órgãos, com o objetivo de conduzi-lo à plena realização de suas finalidades específicas;
 
@@ -206,7 +204,7 @@ XXI - dirigir as publicações do Instituto;
 
 XXII - apresentar ao Ministro de Estado relatório anual sôbre as atividades do Instituto, sugerindo as medidas necessárias ao aperfeiçoamento do serviço.
 
-<strong>Art</strong>. 15. Aos Chefes de Seção incumbe:
+**Art**. 15. Aos Chefes de Seção incumbe:
 
 I - orientar e fiscalizar os trabalhos da Seção, expedindo ordens e instruções necessárias ao desempenho da suas atribuições;
 
@@ -224,7 +222,7 @@ VII - indicar o seu substituto eventual ao Diretor do I.J.N.;
 
 VIII - apresentar ao Diretor relatórios trimestrais dos trabalhos afetos à Seção.
 
-<strong>Art</strong>. 16. Ao Assistente do Diretor incumbe:
+**Art**. 16. Ao Assistente do Diretor incumbe:
 
 I - Representar o Diretor, quando designado;
 
@@ -232,7 +230,7 @@ II - auxiliar o Diretor nos trabalhos que lhe forem afetos;
 
 III - reunir os elementos necessários ao preparo de relatórios e informações do Diretor.
 
-<strong>Art</strong>. 17. Ao Secretário do Diretor incumbe:
+**Art**. 17. Ao Secretário do Diretor incumbe:
 
 I - representar o Diretor, quando designado;
 
@@ -240,27 +238,27 @@ II - redigir a correspondência pessoal do Diretor;
 
 III - atender às pessoas que procurarem o Diretor.
 
-<strong>Art</strong>. 18. Aos servidores que não tenham atribuições especificadas neste Regimento incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
+**Art**. 18. Aos servidores que não tenham atribuições especificadas neste Regimento incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 19. O Instituto Joaquim Nabuco terá a lotação aprovada por decreto
+**Art**. 19. O Instituto Joaquim Nabuco terá a lotação aprovada por decreto
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 20. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido o Serviço Público.
+**Art**. 20. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido o Serviço Público.
 
-<strong>Art</strong>. 21. O Diretor, seu Assistente e Secretário e os Chefes de Seção do I.J.N. não ficam sujeitos à assinatura do ponto, devendo, porém, observar o número de horas semanais de trabalho, prescrito pela Lei número 2.188, de 3 de março de 1954.
+**Art**. 21. O Diretor, seu Assistente e Secretário e os Chefes de Seção do I.J.N. não ficam sujeitos à assinatura do ponto, devendo, porém, observar o número de horas semanais de trabalho, prescrito pela Lei número 2.188, de 3 de março de 1954.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 22. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 22. Serão substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor, pelo assistente ou por um Chefe de Seção de sua indicação e designado pelo Ministro de Estado;
 
@@ -268,18 +266,18 @@ II - Os Chefes de Seção, por um servidor da respectiva Seção, de sua indica�
 
 Parágrafo único. Haverá, sempre servidores prèviamente designados para as substituições prevista neste Regimento.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. O I.J.N. publicará anualmente, um Boletim, contendo trabalhos realizados pelas suas Seções, por pesquisadores nacionais ou estrangeiros que tiverem colaborado com o Instituto, ou, ainda, colaboradores especialmente convidados.
+**Art**. 23. O I.J.N. publicará anualmente, um Boletim, contendo trabalhos realizados pelas suas Seções, por pesquisadores nacionais ou estrangeiros que tiverem colaborado com o Instituto, ou, ainda, colaboradores especialmente convidados.
 
-<strong>Art</strong>. 24. O I.J.N. remeterá aos órgãos administrativos federais, estaduais, municipais ou autárquicos, aos órgãos de classe, às instituições e especialistas, cópias ou exemplares dos trabalhos realizados, que contiverem contribuição para o conhecimento ou solução de problema de seu interêsse.
+**Art**. 24. O I.J.N. remeterá aos órgãos administrativos federais, estaduais, municipais ou autárquicos, aos órgãos de classe, às instituições e especialistas, cópias ou exemplares dos trabalhos realizados, que contiverem contribuição para o conhecimento ou solução de problema de seu interêsse.
 
-<strong>Art</strong>. 25. O Instituto poderá lançar edições de monografias, teses e separatas de trabalhos realizados por seus técnicos, ou por pessoas estranhas, desde que, neste último caso, tenham os trabalhos o parecer favorável do responsável pela Seção correspondente.
+**Art**. 25. O Instituto poderá lançar edições de monografias, teses e separatas de trabalhos realizados por seus técnicos, ou por pessoas estranhas, desde que, neste último caso, tenham os trabalhos o parecer favorável do responsável pela Seção correspondente.
 
-<strong>Art</strong>. 26. Para atender às suas finalidades, o I.J.N. poderá utilizar os serviços de professores ou especialistas, nacionais ou estrangeiros, mediante contrato, podendo, ainda, solicitar a colaboração, em forma de parecer de sugestão ou de orientação geral, de consultores especializados.
+**Art**. 26. Para atender às suas finalidades, o I.J.N. poderá utilizar os serviços de professores ou especialistas, nacionais ou estrangeiros, mediante contrato, podendo, ainda, solicitar a colaboração, em forma de parecer de sugestão ou de orientação geral, de consultores especializados.
 
 Rio de Janeiro, 12 de maio de 1955.
 
-<strong>CANDIDO MOTTA FILHO</strong>
+**CANDIDO MOTTA FILHO**

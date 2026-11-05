@@ -1,5 +1,3 @@
-###LEI-000000-0-000-14-06-1831@@@
-
 LEI - DE 14 DE JUNHO DE 1831
 
 Sobre a fórma da eleição da Regencia permanente, e suas attribuições.

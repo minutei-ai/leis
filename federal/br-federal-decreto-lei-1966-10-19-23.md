@@ -1,5 +1,3 @@
-###DEL-000023-0-000-19-10-1966@@@
-
 DECRETO-LEI Nº 23, DE 19 DE OUTUBRO DE 1966
 
 Isenta do pagamento dos impostos de importação e de consumo, bem como da taxa de despacho aduaneiro, material destinado à Companhia Eletromecânica CELMA.

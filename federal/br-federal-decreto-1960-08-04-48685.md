@@ -1,5 +1,3 @@
-###DEC-048685-0-000-04-08-1960@@@
-
 DECRETO Nº 46.685, de 4 de Agôsto de 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 33.106, de 22 de junho de 1953, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro, das áreas de terrenos e respectivas benfeitorias necessárias à construção do trecho Campina Grande-Patos, no Estado da Paraíba.

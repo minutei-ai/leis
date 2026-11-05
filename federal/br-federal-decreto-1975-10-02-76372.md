@@ -1,5 +1,3 @@
-###DEC-076372-0-000-02-10-1975@@@
-
 DECRETO Nº 76.372, DE 2 DE OUTUBRO DE 1975.
 
 Concede à Mineração Cambuí S.A., o direito de lavrar caulim no Município de Corupá, Estado de Santa Catarina.

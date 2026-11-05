@@ -1,5 +1,3 @@
-###DEC-052949-0-000-26-11-1963@@@
-
 DECRETO Nº 52.949, DE 26 DE NOVEMBRO DE 1963.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona necessária ao Ministério da Guerra.

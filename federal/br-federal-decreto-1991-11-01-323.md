@@ -1,7 +1,3 @@
-1
-
-###DEC-000323-0-000-01-11-1991@@@
-
 DECRETO Nº 323, DE 1º DE NOVEMBRO DE 1991
 
 Dispõe sobre as transferências de recursos financeiros para as áreas de educação e saúde do Governo do Distrito Federal.

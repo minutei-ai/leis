@@ -1,5 +1,3 @@
-###DEC-067919-0-000-22-12-1970@@@
-
 DECRETO Nº 67.919, DE 22 DE DEZEMBRO DE 1970.
 
 Autoriza a funcionar como emprêsa de energia elétrica a Companhia Campolarguense de Eletricidade, declara cessação de privilégio para exploração de serviços de energia elétrica, outorga concessão e dá outras providências.

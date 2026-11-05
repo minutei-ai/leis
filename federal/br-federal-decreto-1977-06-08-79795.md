@@ -1,5 +1,3 @@
-###DEC-079795-0-000-08-06-1977@@@
-
 DECRETO Nº 79.795, DE 8 DE JUNHO DE 1977
 
 Estabelece norma provisória referente à lotação do Grupo Magistério, de que trata o Decreto nº 75.841, de 10 de junho de 1975.

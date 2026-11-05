@@ -1,5 +1,3 @@
-###DEC-048470-0-000-07-07-1960@@@
-
 DECRETO Nº 48.470, DE 7 DE JULHO DE 1960.
 
 Declara de utilidade pública, para desapropriação, imóveis que menciona, na cidade do Rio de Janeiro, Estado da Guanabara, necessários ao Ministério da Aeronáutica.

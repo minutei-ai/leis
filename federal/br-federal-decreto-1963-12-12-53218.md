@@ -1,5 +1,3 @@
-###DEC-053218-0-000-12-12-1963@@@
-
 DECRETO Nº 53.218, de 12 de dezembro de 1963.
 
 Autoriza o cidadão brasileiro Og Dias de Oliveira a pesquisar feldspato e quartzo no município de Bom Jardim Estado do Rio de Janeiro.

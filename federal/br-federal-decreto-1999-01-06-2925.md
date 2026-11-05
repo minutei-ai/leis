@@ -1,5 +1,3 @@
-###DEC-002925-0-000-06-01-1999@@@
-
 DECRETO Nº 2.925, DE 6 DE JANEIRO DE 1999.
 
 Define as diretrizes para o processo de reorganização do Conselho Nacional de Desenvolvimento Científico e Tecnológico - CNPq, a ser desenvolvido pelo Ministério da Ciência e Tecnologia.

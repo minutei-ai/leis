@@ -1,5 +1,3 @@
-###DEC-048740-A-000-04-08-1960@@@
-
 DECRETO Nº 48.740-A, DE 4 DE AGÔSTO DE 1960.
 
 Transfere função da Tabela Numérica de Mensalistas do Núcleo do Parque de Aeronáutica de Lagoa Santa para a Tabela Numérica Especial de Extranumerário-mensalista do Parque de Aeronáutica do Recife.

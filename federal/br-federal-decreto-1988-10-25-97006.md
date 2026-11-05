@@ -1,5 +1,3 @@
-###DEC-097006-0-000-25-10-1988@@@
-
 DECRETO Nº 97.006, DE 25 DE OUTUBRO DE 1988
 
 Dispõe sobre a elevação do capital social da LIGHT - Serviços de Eletricidade S.A.

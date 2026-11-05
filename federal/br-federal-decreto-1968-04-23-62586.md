@@ -1,5 +1,3 @@
-###DEC-062586-0-000-23-04-1968@@@
-
 DECRETO Nº 62.586, DE 23 DE ABRIL DE 1968.
 
 Concede reconhecimento a Cursos da Faculdade que indica.

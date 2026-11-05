@@ -4,7 +4,8 @@ Institui a Política Estadual de Proteção e Defesa Civil, o Sistema Estadual d
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 **Art. 1º** - Fica instituída a Política Estadual de Proteção e Defesa Civil - PEPDEC, com objetivo de promover ações de prevenção, de mitigação, de preparação, de resposta e de recuperação voltadas à proteção e defesa civil.
@@ -13,7 +14,8 @@ DAS DISPOSIÇÕES GERAIS
 
 **Art. 2º** - Fica instituído o Sistema Estadual de Proteção e Defesa Civil - SIEPDEC, constituído pelos órgãos e entidades da Administração Pública do Poder Executivo Estadual e dos Municípios, bem como pelas entidades públicas e privadas de atuação significativa na área de proteção e defesa civil, e com a finalidade de contribuir no processo de planejamento, articulação, coordenação e execução dos programas, projetos e ações de proteção e defesa civil.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA POLÍTICA ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - PEPDEC
 
 **Art. 3º** - A PEPDEC será implementada pelo Estado em cooperação com os seus Municípios, adotando as medidas necessárias à redução dos riscos de desastres ocasionados por eventos adversos.
@@ -82,7 +84,8 @@ DA POLÍTICA ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - PEPDEC
 
 **XIX -** estimular os Municípios a designar ou instituir órgãos locais para funcionar como Coordenadorias Municipais de Proteção e Defesa Civil - COMPDEC - e Núcleos de Proteção e Defesa Civil - NUPDEC, nas comunidades locais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS COMPETÊNCIAS
 
 **Art. 7º** - Compete ao Estado:
@@ -121,7 +124,8 @@ DAS COMPETÊNCIAS
 
 **VII -** prestar assistência prioritária e continuada à saúde física e mental das pessoas atingidas por desastres, por meio do Sistema Único de Saúde - SUS, com realização de exames clínicos e laboratoriais periódicos, conforme a necessidade detectada pelos profissionais de saúde assistentes, nos termos do inciso II do _caput_ do art. 7º da Lei Federal nº 8.080, de 19 de setembro de 1990 - Lei Orgânica da Saúde.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO PLANO ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - PLEPDEC
 
 **Art. 10** - O PLEPDEC conterá, no mínimo:
@@ -140,14 +144,16 @@ DO PLANO ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - PLEPDEC
 
 **III -** atualizado a cada 02 (dois) anos, mediante processo de mobilização e participação social, incluída a realização de audiências e consultas públicas.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO CADASTRO ESTADUAL DE MUNICÍPIOS
 
 **Art. 12** - O Estado, por meio da Superintendência de Proteção e Defesa Civil - SUDEC, manterá cadastro estadual de municípios com áreas suscetíveis a seca e estiagem, conforme regulamento.
 
 **Parágrafo único -** A inscrição no cadastro de que trata o _caput_ deste artigo se dará por solicitação do Município ou mediante indicação dos órgãos e entidades da Administração Pública do Poder Executivo Estadual integrantes do SIEPDEC, observados os critérios e procedimentos previstos em Regulamento.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DO SISTEMA ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - SIEPDEC
 
 **Art. 13** - O SIEPDEC será gerido pelos seguintes órgãos:
@@ -166,7 +172,8 @@ DO SISTEMA ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - SIEPDEC
 
 **Parágrafo único -** Poderão participar do SIEPDEC as organizações comunitárias de caráter voluntário ou outras entidades com atuação significativa nas ações locais de proteção e defesa civil.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DO CONSELHO ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - CEPDEC
 
 **Art. 14** - Fica criado, no âmbito da Casa Civil, o Conselho Estadual de Proteção e Defesa Civil - CEPDEC, órgão colegiado, de natureza consultiva, tendo por finalidade auxiliar na formulação, implementação e execução da PEPDEC.
@@ -231,7 +238,8 @@ DO CONSELHO ESTADUAL DE PROTEÇÃO E DEFESA CIVIL - CEPDEC
 
 **§ 5**º - A participação no CEPDEC será considerada de relevante interesse público e não será remunerada.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 17** - Os programas habitacionais do Estado e dos Municípios devem priorizar a relocação de comunidades de áreas afetadas pelo desastre e de moradores de áreas de risco, alinhados com os programas públicos de habitação de interesse social.
@@ -294,5 +302,6 @@ Wallison Oliveira Torres
 
 Secretário da Agricultura, Pecuária, Irrigação, Pesca e Aquicultura
 
-Marcelo Werner Derschum Filho<br>
+Marcelo Werner Derschum Filho
+
 Secretário da Segurança Pública

@@ -1,5 +1,3 @@
-###DEC-085598-0-000-30-12-1980@@@
-
 Decreto nº 85.598, de 30 de dezembro de 1980
 
 Dispõe sobre os ocupantes de cargos e empregos de Cozinheiros enquadrados na Classe A da Categoria Funcional de Auxiliar Operacional de Serviços Diversos, Código NM-1006, do Grupo-Outras Atividades de Nível médio.

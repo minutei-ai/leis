@@ -1,5 +1,3 @@
-###DEC-072125-0-000-24-04-1973@@@
-
 DECRETO Nº 72.125, DE 24 DE ABRIL DE 1973.
 
 Autoriza o funcionamento da Faculdade de Educação Jacobina, com o curso de Pedagogia, mantida pela Associação de Educação e Pesquisa, com sede na cidade do Rio de Janeiro, Estado da Guanabara.

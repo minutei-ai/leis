@@ -1,5 +1,3 @@
-###DEC-005031-0-000-02-04-2004@@@
-
 DECRETO Nº 5.031,  DE 2 DE ABRIL DE 2004
 
 Dispõe sobre a composição, estruturação, competências e funcionamento do Conselho das Cidades, e dá outras providências.

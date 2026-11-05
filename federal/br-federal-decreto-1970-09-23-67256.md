@@ -1,5 +1,3 @@
-###DEC-067256-0-000-23-09-1970@@@
-
 decreto nº 67.256, de 23 de setembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal do Instituto Nacional de Previdência Social, cargos do Ministério da Indústria e do Comércio.

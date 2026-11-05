@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/14497c95-3bd7-4e9a-a1fa-ba73e338b8f3/texto#nowhere)
 
-###DEL-002075-0-000-20-12-1983@@@
-
 # Decreto-lei nº 2.075, de 20 de dezembro de 1983
 
 Dispõe sobre o tratamento tributário aplicável às instituições autorizadas a funcionar pelo Banco Central do Brasil nos casos de fusões e incorporações, e dá outras providências.
@@ -45,8 +43,6 @@ JOÃO FIGUEIREDO
 Ernane Galvêas
 
 Delfim Netto
-
-###DEL-002075-0-000-20-12-1983@@@REP01+++
 
 # \* Decreto-lei nº 2.075, de 20 de dezembro de 1983
 

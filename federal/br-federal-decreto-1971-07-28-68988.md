@@ -1,5 +1,3 @@
-###DEC-068988-0-000-28-07-1971@@@
-
 DECRETO Nº 68.988, DE 28 DE JULHO DE 1971.
 
 Declara de utilidade pública a Academia Paulista de Música, com sede em São Paulo, Estado de São Paulo.

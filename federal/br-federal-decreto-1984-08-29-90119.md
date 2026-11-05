@@ -1,5 +1,3 @@
-###DEC-090119-0-000-29-08-1984@@@
-
 decreto nº 90.119, de 29 de agosto de 1984
 
 Transfere da Indústria Comércio e Cultura de Madeiras Sguário S.A. para a Companhia Sengés de Papel e Celulose a concessão para o aproveitamento da energia hidráulica, para uso exclusivo, no Município de Jaguariaíva, Estado do Paraná.

@@ -1,5 +1,3 @@
-###MPV-002194-0-006-23-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.194-6, DE 23 DE AGOSTO DE 2001
 
  Dispõe sobre o salário mínimo a partir de 1º de abril de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-061590-0-000-23-10-1967@@@
-
 DECRETO Nº 61.590, DE 23 DE OUTUBRO DE 1967.
 
 Dispõe sôbre a elaboração do Programa Estratégico de Desenvolvimento.

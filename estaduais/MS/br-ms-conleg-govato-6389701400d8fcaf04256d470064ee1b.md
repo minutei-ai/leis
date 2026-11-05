@@ -6,21 +6,24 @@ Declara de Utilidade Pública Estadual a Associação Desportiva ASE, com sede e
 
 Publicada no Diário Oficial nº 4.666, de 2 de dezembro de 1997.
 
-**O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL**.<br>
-Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Desportiva ASE, com sede e foro em Campo Grande-MS.<br>
-<br>
-Art. 2º Esta Lei entrará em vigor na data de sua publicação.<br>
-<br>
-Art. 3º Revogam-se as disposições em contrário.<br>
-<br>
-<br>
-Campo Grande, 1º de dezembro de 1997.<br>
-<br>
-**WILSON BARBOSA MARTINS**<br>
-Governador<br>
-<br>
-**JOÃO PEREIRA DA SILVA**<br>
-Secretário de Estado de Cidadania,<br>
+**O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL**.
+
+Faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica declarada de Utilidade Pública Estadual a Associação Desportiva ASE, com sede e foro em Campo Grande-MS.
+
+Art. 2º Esta Lei entrará em vigor na data de sua publicação.
+
+Art. 3º Revogam-se as disposições em contrário.
+
+Campo Grande, 1º de dezembro de 1997.
+
+**WILSON BARBOSA MARTINS**
+
+Governador
+
+**JOÃO PEREIRA DA SILVA**
+
+Secretário de Estado de Cidadania,
+
 Justiça e Trabalho

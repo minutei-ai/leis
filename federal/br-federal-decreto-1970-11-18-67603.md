@@ -1,5 +1,3 @@
-###DEC-067603-0-000-18-11-1970@@@
-
 DECRETO Nº 67.603, DE 18 DE NOVEMBRO DE 1970.
 
 Concede à Companhia Siderúrgica Pains o direito de lavrar minério de ferro, no município de Mateus Leme, Estado de Minas Gerais.

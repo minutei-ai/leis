@@ -1,5 +1,3 @@
-###DEC-065048-0-000-22-08-1969@@@
-
 DECRETO Nº 65.048 - DE 22 DE AGôSTO DE 1969.
 
 Altera o Decreto nº 64.905, de 29 de julho de 1969.

@@ -1,5 +1,3 @@
-###DEC-059776-0-000-16-12-1966@@@
-
 DECRETO Nº 59.776, DE 16 DE DEZEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro José Jorge Boueri a pesquisar amianto no município de Conceição da Pedra, Estado de Minas Gerais.

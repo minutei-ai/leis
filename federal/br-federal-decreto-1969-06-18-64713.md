@@ -1,5 +1,3 @@
-###DEC-064713-0-000-18-06-1969@@@
-
 DECRETO Nº 64.713, DE 18 DE JUNHO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargos originários das extintas autarquias Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e Lloyd Brasileiro - Patrimônio Nacional e Estrada de Ferro de Bragança (Quadro Extinto - Parte XIV - do Ministério dos Transportes) e dá outras providências.

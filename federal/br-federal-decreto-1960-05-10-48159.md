@@ -1,5 +1,3 @@
-###DEC-048159-0-000-10-05-1960@@@
-
 DECRETO Nº 48.159, DE 10 DE MAIO DE 1960.
 
 Autoriza a Companhia de Cimento Portland Barroso a lavrar calcário e argila no município de Barroso, Estado de Minas Gerais.

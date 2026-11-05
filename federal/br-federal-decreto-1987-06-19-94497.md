@@ -1,5 +1,3 @@
-###DEC-094497-0-000-19-06-1987@@@
-
 DECRETO N° 94.497, DE 19 DE JUNHO DE 1987
 
 Concede autorização ao navio de pesquisa "RESEARCHER", de bandeira norte-americana, para realizar em águas jurisdicionais os serviços que especifica.

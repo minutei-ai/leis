@@ -1,5 +1,3 @@
-###DEL-005775-0-000-26-08-1943@@@
-
 DECRETO–LEI N. 5.775 – DE 26 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Fazenda o crédito espacial de Cr$ 3.500.000,00, para despesas decorrentes da subscrição compulsória das “obrigações de Guerra"

@@ -1,5 +1,3 @@
-###DEC-059628-0-000-01-12-1966@@@
-
 DECRETO Nº 59.628, DE 1 DE DEZEMBRO DE 1966.
 
 Altera a redação do § 2º do art. 4º do Decreto nº 59.033-A, de 8 de agosto de 1966, que cria o GERAN.

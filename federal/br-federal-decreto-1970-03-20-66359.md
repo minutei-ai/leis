@@ -1,5 +1,3 @@
-###DEC-066359-0-000-20-03-1970@@@
-
 DECReTO Nº 66.359 - DE 20 DE MARÇO DE 1970
 
 Retifica o artigo 1º do Decreto número 7.437 de 25 de junho de 1941.

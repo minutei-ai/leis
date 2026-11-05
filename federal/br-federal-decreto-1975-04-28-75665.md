@@ -1,5 +1,3 @@
-###DEC-075665-0-000-28-04-1975@@@
-
 decreto nº 75.665, de 28 de abril de 1975.
 
 Autoriza o funcionamento do curso de Ciências, Licenciatura de 1º grau, da Escola Superior de Estudos Sociais, mantida pela Fundação Educacional de Brusque, com sede na Cidade de Brusque, Estado de Santa Catarina.

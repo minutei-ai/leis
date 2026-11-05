@@ -1,5 +1,3 @@
-###DEC-076358-0-000-02-10-1975@@@
-
 DECRETO Nº 76.358, DE 2 de OUTUBRO DE 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Clube de Sorocaba S.A., cuja denominação foi alterada para Rádio Clube de Sorocaba Ltda, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Sorocaba, Estado de São Paulo.

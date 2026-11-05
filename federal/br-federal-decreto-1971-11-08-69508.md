@@ -1,5 +1,3 @@
-###DEC-069508-0-000-08-11-1971@@@
-
 DECRETO Nº 69.508 - DE 8 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública a Sociedade Israelita Rio-Grandense - Lar dos Velhos, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

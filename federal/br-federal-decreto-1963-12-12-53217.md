@@ -1,5 +1,3 @@
-###DEC-053217-0-000-12-12-1963@@@
-
 DECRETO Nº 53.217, DE 12 DE DEZEMBRO DE 1963
 
 Autoriza o cidadão brasileiro José Luiz de Oliveira Sobrinho a pesquisar minério de manganês, no Município de Pequi, Estado de Minas Gerais.

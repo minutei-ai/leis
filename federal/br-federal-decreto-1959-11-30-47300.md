@@ -1,5 +1,3 @@
-###DEC-047300-0-000-30-11-1959@@@
-
 decreto nº 47.300, de 30 de novembro de 1959.
 
 Institui Comissão para estudar a situação dos serviços de praticagem.

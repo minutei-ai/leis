@@ -1,5 +1,3 @@
-###DEC-077597-0-000-12-05-1976@@@
-
 DECRETO Nº 77.597 - DE 12 DE MAIO DE 1976.
 
 Concede à INCALESA - Indústria Calcárea Leme dos Santos Ltda. o direito de lavrar calcário no Município de Guapiara, Estado de São Paulo.

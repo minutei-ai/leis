@@ -1,5 +1,3 @@
-###DEC-071471-0-000-04-12-1972@@@
-
 DECRETO Nº 71.471 - DE 4 DE DEZEMBRO DE 1972
 
 Concede reconhecimento dos Cursos de Ciências Econômicas e Administração de Empresas da Faculdade de Ciências Econômicas, Contábeis e de Administração de Empresas - Piracicaba - SP.

@@ -1,5 +1,3 @@
-###DEC-005994-0-000-19-12-2006@@@
-
 DECRETO Nº 5.994 DE 19 DE DEZEMBRO DE 2006.
 
 Dispõe sobre a transferência, dos contratos de dívida externa contratual da União, dos respectivos órgãos de origem, para o Ministério da Fazenda.
@@ -49,5 +47,3 @@ Brasília, 19 de dezembro de 2006; 185º da Independência e 118º da República
 LUIZ INÁCIO LULA DA SILVA
 
         Guido Mantega
-
-Este texto não substitui o publicado no DOU de 20.12.2006.

@@ -1,5 +1,3 @@
-###DEC-060239-0-000-17-02-1967@@@
-
 DECRETO Nº 60.239, DE 17 DE FEVEREIRO DE 1967.
 
 Altera os Estatutos da Companhia Brasileira de Armazenamento.

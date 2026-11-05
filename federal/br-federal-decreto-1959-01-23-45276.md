@@ -1,5 +1,3 @@
-###DEC-045276-0-000-23-01-1959@@@
-
 decreto nº 45.276, de 23 de janeiro de 1959.
 
 Dá nova redação ao § 3º do art. 51 do Regulamento do Colégio Militar do Rio de Janeiro, aprovado pelo Decreto nº 12.277, de 19 de abril de 1943.

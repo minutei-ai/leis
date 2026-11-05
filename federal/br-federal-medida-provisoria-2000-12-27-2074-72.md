@@ -1,5 +1,3 @@
-###MPV-002074-0-072-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.074-72, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre medidas complementares ao Plano Real e dá outras providências.

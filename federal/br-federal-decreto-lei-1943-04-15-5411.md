@@ -1,5 +1,3 @@
-###DEL-005411-0-000-15-04-1943@@@
-
 DECRETO‑LEI N. 5.411 – DE 15 DE ABRIL DE 1943
 
 Autoriza a permuta do imovel pertencente ao Club de Regatas Santista, com terreno doado ao Ministério da Marinha, em Santos

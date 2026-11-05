@@ -1,5 +1,3 @@
-###DEC-058078-0-000-25-03-1966@@@
-
 DECRETO Nº 58.078, DE 25 DE MARçO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

@@ -1,5 +1,3 @@
-###DEC-083402-0-000-03-05-1979@@@
-
 Decreto nº 83.402, de 03 de maio de 1979.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas-Esquemas I e II, da Faculdade de Formação de Professores de Disciplinas Especializadas, de Presidente Prudente, São Paulo.

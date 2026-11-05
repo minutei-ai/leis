@@ -1,5 +1,3 @@
-###DEC-007582-0-000-13-10-2011-PUB-01@@@
-
 DECRETO Nº 7.582, DE 13 DE OUTUBRO DE 2011
 
 Promulga o Tratado de Assistência Jurídica Mútua em Matéria Penal entre o Governo da República Federativa do Brasil e o Governo da República Federal da Nigéria, firmado em Brasília, em 6 de setembro de 2005.

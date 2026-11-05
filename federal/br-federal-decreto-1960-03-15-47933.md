@@ -1,5 +1,3 @@
-###DEC-047933-0-000-15-03-1960@@@
-
 DECRETO Nº 47.933, DE 1 DE MARÇO DE 1960.
 
 Aprova normas especiais para a construção do trecho rodoviário Cuiabá (MT) - Rio Branco (AC), integrante da ligação rodoviária Brasília, - Acre.

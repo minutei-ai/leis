@@ -1,5 +1,3 @@
-###DEL-005292-0-000-01-03-1943@@@
-
 DECRETO‑LEI N. 5.292 – DE 1 DE MARÇO DE 1943
 
 Autoriza a nomeação de um neto sobrevivente de Irineu Evangelista de Souza, Visconde de Mauá, para o cargo inicial da carreira de oficial administrativo do Ministério do Trabalho, Indústria e Comércio

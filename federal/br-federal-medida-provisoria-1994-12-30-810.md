@@ -1,7 +1,3 @@
-1
-
-###MPV-000810-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 810, DE 30 DE DEZEMBRO DE 1994
 
 Institui a Retribuição Variável da Comissão de Valores Mobiliários (RVCVM) e a Retribuição Variável da Superintendência de Seguros Privados (RVSUSEP), atribuídas aos servidores titulares de cargos efetivos da CVM e da Susep, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064581-0-000-27-05-1969@@@
-
 Decreto nº 64.581, de 27 de maio de 1969.
 
 Declara de utilidade pública a Ação Social da Prelazia de Pinheiro, com sede em Pinheiro, Estado do Maranhão.

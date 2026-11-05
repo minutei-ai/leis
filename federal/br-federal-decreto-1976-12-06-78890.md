@@ -1,5 +1,3 @@
-###DEC-078890-0-000-06-12-1976@@@
-
 DECRETO Nº 78.890, DE 6 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Química, da Faculdade de Ciências, Letras e Pedagogia Mackenzie, com sede na cidade de São Paulo, Estado de São Paulo.

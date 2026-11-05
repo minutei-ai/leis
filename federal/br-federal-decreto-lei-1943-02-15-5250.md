@@ -1,5 +1,3 @@
-###DEL-005250-0-000-15-02-1943@@@
-
 DECRETO‑LEI N. 5.250 – DE 15 DE FEVEREIRO DE 1943
 
 Eleva a importância da pensão de meio soldo a Dª Anna Portocarrero Martin

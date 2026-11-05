@@ -1,5 +1,3 @@
-###DEC-049530-0-000-14-12-1960@@@
-
 DECRETO Nº 49.530, DE 14 DE DEZEMBRO DE 1960.
 
 Torna públicas as retificações, por parte dos diferentes países, da Convenção para o Fomento das Relações Culturais Interamericanas, concluída em Caracas, a 28 de março de 1954.
@@ -13,8 +11,6 @@ Brasília, 14 de dezembro de 1960; 139º da Independência e 72º da República.
 Juscelino Kubitschek
 
 Edmundo Penna Barbosa da Silva
-
-###DEC-049530-0-000-15-12-1960@@@RET01+++
 
 DECRETO Nº 49.530, DE 15 DE DEZEMBRRO DE 1960.
 

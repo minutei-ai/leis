@@ -1,5 +1,3 @@
-###DEL-005001-0-000-27-11-1942@@@
-
 DECRETO-LEI N. 5.001 – DE 27 DE NOVEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 27.500,00, para pagamento de gratificações

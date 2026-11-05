@@ -1,5 +1,3 @@
-###DEC-077883-0-000-22-06-1976@@@
-
 DECRETO Nº 77.883, DE 22 DE JUNHO DE 1976.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Paulista Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Recife, Estado de Pernambuco.

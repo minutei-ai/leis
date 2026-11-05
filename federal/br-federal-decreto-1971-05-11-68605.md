@@ -1,5 +1,3 @@
-###DEC-068605-0-000-11-05-1971@@@
-
 decreto nº 68.605 - de 11 de maio de 1971.
 
 Autoriza o funcionamento da Faculdade de Direito da Fundação Universidade Nordeste Mineiro, com sede em Teófilo Otoni, Estado de Minas Gerais.

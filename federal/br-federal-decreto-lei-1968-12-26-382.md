@@ -1,5 +1,3 @@
-###DEL-000382-0-000-26-12-1968@@@
-
 DECRETO-LEI Nº 382, DE 26 DE DEZEMBRO DE 1968
 
 Revoga o Decreto Legislativo nº 8, de 13 de abril de 1967 e dá outras providências.

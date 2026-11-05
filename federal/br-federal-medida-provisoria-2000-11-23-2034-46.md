@@ -1,5 +1,3 @@
-###MPV-002034-0-046-23-11-2000@@@
-
 medida provisória Nº 2.034-46, de 23 de novembro de 2000
 
 Dispõe sobre a concessão de financiamento vinculado à exportação de bens ou serviços nacionais, e dá outras providencias.

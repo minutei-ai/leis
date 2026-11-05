@@ -1,5 +1,3 @@
-###DEC-072397-0-000-25-06-1973@@@
-
 DECRETO nº 72.397, DE 25 DE JUNHO DE 1973.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

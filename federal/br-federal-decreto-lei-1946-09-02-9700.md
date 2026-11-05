@@ -1,5 +1,3 @@
-###DEL-009700-0-000-02-09-1946@@@
-
 DECRETO-LEI N. 9.700 – DE 2 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 97.000,00, à verba que especifica.

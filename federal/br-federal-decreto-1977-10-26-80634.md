@@ -1,5 +1,3 @@
-###DEC-080634-0-000-26-10-1977@@@
-
 decreto nº 80.634, de 26 de outubro de 1977.
 
 Declara de utilidade pública, para fins de desapropriação, o terreno com Benfeitorias, situado na cidade de Salvador, Estado da Bahia, necessário ao Ministério da Aeronáutica.

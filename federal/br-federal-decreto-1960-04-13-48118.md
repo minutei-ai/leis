@@ -1,5 +1,3 @@
-###DEC-048118-0-000-13-04-1960@@@
-
 DECRETO Nº 48.118, DE 13 DE ABRIL DE 1960.
 
 Dá nova redação ao art. 30 do Regulamento do Departamento de Produção e Obras.

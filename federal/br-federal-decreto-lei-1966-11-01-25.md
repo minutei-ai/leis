@@ -1,5 +1,3 @@
-###DEL-000025-0-000-01-11-1966@@@
-
 DECRETO-LEI Nº 25, DE 1º DE NOVEMBRO DE 1966
 
 Altera dispositivos da Lei nº 2.180, de 5 de janeiro de 1954, alterada pelas Leis ns. 3.543, de 11 de fevereiro de 1959 e 5.056, de 29 de junho de 1966, que dispõe sôbre o Tribunal Marítimo.

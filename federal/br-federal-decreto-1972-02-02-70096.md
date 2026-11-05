@@ -1,5 +1,3 @@
-###DEC-070096-0-000-02-02-1972@@@
-
 Decreto nº 70.096, de 2 de fevereiro de 1972.
 
 Revoga o Decreto que concedeu a Empresa Elizabeth Arden (South América) Inc., autorização para funcionar no Brasil.

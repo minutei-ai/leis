@@ -1,5 +1,3 @@
-###DEC-081319-0-000-09-02-1978@@@
-
 Decreto nº 81.319, de 9 de fevereiro de 1978
 
 Concede reconhecimento ao curso de Formação de Professores das Disciplinas Especializadas de 2º grau, da Faculdade de Formação de Professores "São José", de Curitiba, Estado do Paraná.

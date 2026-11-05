@@ -1,5 +1,3 @@
-###DEC-046505-0-000-20-07-1959@@@
-
 decreto nº 46.505, de 20 de julho de 1959.
 
 Autoriza a Sociedade Brasileira Carbonífera Progresso Ltda. a lavrar carvão mineral no município de Criciúma, Estado de Santa Catarina.

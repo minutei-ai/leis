@@ -1,5 +1,3 @@
-###DEC-003256-0-000-19-11-1999@@@
-
 DECRETO Nº 3.256, DE 19 DE NOVEMBRO DE 1999.
 
 Promulga o Protocolo que modifica a Convenção sobre os Danos Causados a Terceiros, na Superfície, por Aeronaves Estrangeiras, assinado durante a Conferência Internacional de Direito Aéreo, realizada em Montreal, Canadá, de 6 a 23 de setembro de 1978.

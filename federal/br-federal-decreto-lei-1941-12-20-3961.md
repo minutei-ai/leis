@@ -1,5 +1,3 @@
-###DEL-003961-0-000-20-12-1941@@@
-
 DECRETO-LEI N. 3.961 – DE 20 DE DEZEMBRO DE 1941
 
 Torna extensivo ao exercício de 1942 o prazo de vigência do crédito especial aberto pelo decreto-lei n. 2.396, de 11 de julho de 1940

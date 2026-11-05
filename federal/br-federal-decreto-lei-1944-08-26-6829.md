@@ -1,5 +1,3 @@
-###DEL-006829-0-000-26-08-1944@@@
-
 DECRETO-LEI N. 6.829 – DE 26 DE AGÔSTO DE 1944
 
 Declara incorporado à campanha nacional contra o câncer o Instituto de Radium do Estado de Minas Gerais

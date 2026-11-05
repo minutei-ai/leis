@@ -1,5 +1,3 @@
-###DEC-058213-0-000-19-04-1966@@@
-
 DECRETO Nº 58.213, DE 19 DE ABRIL DE 1966.
 
 Altera o Decreto nº 57.612, de 7.1.66, que fixa normas para a execução financeira do Tesouro Nacional, no exercício de 1966.

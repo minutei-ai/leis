@@ -1,5 +1,3 @@
-###DEC-052494-0-000-23-09-1963@@@
-
 DECRETO Nº 52.494, DE 23 DE SETEMBRO DE 1963.
 
 Oficializa a "Universidade 63", Jogos Mundiais Universitários que se realizaram na Cidade de Pôrto Alegre, de 30 de agôsto a 8 de setembro de 1963.

@@ -1,5 +1,3 @@
-###DEC-095318-0-000-02-12-1987@@@
-
 DECRETO Nº 95.318, DE 02 DE DEZEMBRO DE 1987
 
 Autoriza o funcionamento do curso de Administração Rural da Faculdade de Ciências Administrativas e Comércio Exterior do Paraná.

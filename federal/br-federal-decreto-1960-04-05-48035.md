@@ -1,5 +1,3 @@
-###DEC-048035-0-000-05-04-1960@@@
-
 DECRETO Nº 48.035, DE 5 DE ABRIL DE 1960
 
 Transfere da firma Galveas & Oliveira para Delmiro Moreira Dias a concessão para a produção e fornecimento de energia elétrica no Distrito de Divisa , município de Guaçui, Estado do Espírito Santo.

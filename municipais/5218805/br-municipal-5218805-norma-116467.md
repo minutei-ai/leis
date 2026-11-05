@@ -10,15 +10,45 @@ Art. 2º Ficam declarados em extinção os cargos previstos no quadro de pessoal
 
 I – do quadro de pessoal permanente da estrutura geral do Município de Rio Verde-GO constantes da Lei Complementar n. 3853/1999:
 
-<table><thead></thead><tbody><tr><td style="text-align:center">CARGO EM EXTINÇÃO</td><td style="text-align:center">QUANTITATIVO OCUPADO</td></tr><tr><td style="text-align:center">Auxiliar de Serviços Gerais</td><td style="text-align:center">372</td></tr><tr><td style="text-align:center">Marceneiro</td><td style="text-align:center">2</td></tr><tr><td style="text-align:center">Operador de Máquinas Leves</td><td style="text-align:center">3</td></tr><tr><td style="text-align:center">Operador de Máquinas Pesadas</td><td style="text-align:center">19</td></tr></tbody></table>
+CARGO EM EXTINÇÃO
+
+QUANTITATIVO OCUPADO
+
+Auxiliar de Serviços Gerais
+
+372
+
+Marceneiro
+
+2
+
+Operador de Máquinas Leves
+
+3
+
+Operador de Máquinas Pesadas
+
+19
 
 II – do quadro de pessoal permanente da estrutura da Agência Municipal de Mobilidade e Trânsito – AMT constantes da Lei 4.223/2001:
 
-<table><thead></thead><tbody><tr><td style="text-align:center">CARGO EM EXTINÇÃO</td><td style="text-align:center">QUANTITATIVO OCUPADO</td></tr><tr><td style="text-align:center">Auxiliar de Serviços Gerais</td><td style="text-align:center">6</td></tr></tbody></table>
+CARGO EM EXTINÇÃO
+
+QUANTITATIVO OCUPADO
+
+Auxiliar de Serviços Gerais
+
+6
 
 III – do quadro de pessoal permanente da estrutura da Fundação Municipal de Assistência Social Altair Coelho de Lima, constantes da Lei 4.221/2001:
 
-<table><thead></thead><tbody><tr><td style="text-align:justify">CARGO EM EXTINÇÃO</td><td style="text-align:justify">QUANTITATIVO OCUPADO</td></tr><tr><td style="text-align:center">Auxiliar de Serviços Gerais</td><td style="text-align:center">5</td></tr></tbody></table>
+CARGO EM EXTINÇÃO
+
+QUANTITATIVO OCUPADO
+
+Auxiliar de Serviços Gerais
+
+5
 
 §1º Os quantitativos de cada cargo em extinção são os previstos nos anexos referidos nos incisos do caput deste artigo, ficando extinto os demais.
 

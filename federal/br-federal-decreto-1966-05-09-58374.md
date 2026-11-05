@@ -1,5 +1,3 @@
-###DEC-058374-0-000-09-05-1966@@@
-
 DECRETO Nº 58.374, de 9 de maio de 1966.
 
 Reajusta o preço mínimo básico para a soja, da região meridional, da safra 1963/1966.

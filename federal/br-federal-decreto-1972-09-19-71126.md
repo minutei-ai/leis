@@ -1,5 +1,3 @@
-###DEC-071126-0-000-19-09-1972@@@
-
 Decreto nº 71.126, de 19 de setembro de 1972.
 
 Cria o Hospital de Aeronáutica de São Paulo e dá outra providências.

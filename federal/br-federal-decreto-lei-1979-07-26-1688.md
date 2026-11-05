@@ -1,5 +1,3 @@
-###DEL-001688-0-000-26-07-1979@@@
-
 # decreto-lei nº 1.688, de 26 de Julho de 1979
 
 Limita o benefício previsto no artigo 9º do Decreto-lei nº 1.351, de 24 de outubro de 1974.

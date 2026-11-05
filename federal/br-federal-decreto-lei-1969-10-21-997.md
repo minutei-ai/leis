@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4abe8ec5-063c-45e6-9701-9ee33b6e68e4/texto#nowhere)
 
-###DEL-000997-0-000-21-10-1969@@@
-
 decreto-LEI Nº 997, 21 DE Outubro DE 1969
 
 Integra estabelecimentos isolados de ensino superior em Universidades das áreas geo-educacionais em que estão situados.

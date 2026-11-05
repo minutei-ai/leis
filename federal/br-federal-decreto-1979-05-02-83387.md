@@ -1,5 +1,3 @@
-###DEC-083387-0-000-02-05-1979@@@
-
 DECRETO Nº 83.387, DE 02 DE MAIO DE 1979.
 
 Prorroga prazo fixado no artigo 2º do Decreto nº 73.168, de 20 de novembro de 1973.

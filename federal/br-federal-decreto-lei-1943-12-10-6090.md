@@ -1,5 +1,3 @@
-###DEL-006090-0-000-10-12-1943@@@
-
 DECRETO‑LEI N. 6.090 – DE 10 DE DEZEMBRO DE 1943
 
 Cria um Hospital Militar de 4º classe em Santiago do Boqueirão

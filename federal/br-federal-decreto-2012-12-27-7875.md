@@ -1,5 +1,3 @@
-###DEC-007875-0-000-27-12-2012-PUB-01@@@
-
 DECRETO N° 7.875, DE 27 DE DEZEMBRO DE 2012
 
 Altera o Decreto n° 6.583, de 29 de setembro de 2008, que promulga o Acordo Ortográfico da Língua Portuguesa.

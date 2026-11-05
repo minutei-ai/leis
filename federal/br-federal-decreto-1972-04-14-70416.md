@@ -1,5 +1,3 @@
-###DEC-070416-0-000-14-04-1972@@@
-
 Decreto nº 70.416, de 14 de abril de 1972.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Marinha e dá outras providências.

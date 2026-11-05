@@ -1,5 +1,3 @@
-###DEC-075152-0-000-27-12-1974@@@
-
 DECRETO Nº 75.152, DE 27 DE DEZEMBRO DE 1974.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado no Estado da Guanabara.

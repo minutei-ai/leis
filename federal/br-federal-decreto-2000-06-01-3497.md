@@ -1,5 +1,3 @@
-###DEC-003497-0-000-01-06-2000@@@
-
 DECRETO Nº 3.497, DE 1º DE JUNHO DE 2000.
 
 Dispõe sobre o remanejamento, em caráter temporário, dos Cargos em Comissão e Funções Gratificadas que menciona, e dá outras providências.

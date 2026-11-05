@@ -1,5 +1,3 @@
-###DEC-092130-0-000-13-12-1985@@@
-
 Decreto nº 92.130, de 13 de dezeMbro de 1985
 
 Renova a concessão outorgada à RADIODIFUSÃO INDIO CONDÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Chapecó, Estado de Santa Catarina.

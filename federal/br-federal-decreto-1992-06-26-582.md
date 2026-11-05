@@ -1,5 +1,3 @@
-###DEC-000582-0-000-26-06-1992@@@
-
 DECRETO N° 582, DE 26 DE JUNHO DE 1992
 
 Dispõe sobre a execução do Protocolo Modificativo do Acordo para a Promoção Turística da América do Sul e seu Estatuto, entre Brasil, Argentina, Bolívia, Colômbia, Chile, Equador, Paraguai, Peru, Uruguai e Venezuela.

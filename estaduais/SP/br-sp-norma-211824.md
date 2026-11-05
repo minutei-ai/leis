@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211824)<br>
-
 # DECRETO N° 70.091, DE 12 DE NOVEMBRO DE 2025
 
 ### _Dispõe sobre a apresentação das declarações de imposto sobre a renda e proventos de qualquer natureza pelos agentes públicos, sobre a publicidade das declarações de bens e direitos das autoridades da Administração Direta e Indireta e sobre o procedimento de apuração preliminar de evolução patrimonial de agentes públicos e dá providências correlatas._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### Seção I<br>
+#### Seção I
+
 Disposições preliminares
 
 **Artigo 1° -** Este decreto dispõe sobre:
@@ -21,7 +20,8 @@ III - o procedimento de apuração preliminar da evolução patrimonial de agent
 
 **Artigo 2° -** Para os fins deste decreto, considera-se agente público o agente político, o servidor público e todo aquele que exerce, ainda que transitoriamente ou sem remuneração, por eleição, nomeação, designação, contratação ou qualquer outra forma de investidura ou vínculo, mandato, cargo, função ou emprego nos órgãos e entidades integrantes da Administração Pública estadual.
 
-#### Seção II<br>
+#### Seção II
+
 Da apresentação da declaração de imposto sobre a renda e proventos de qualquer natureza
 
 **Artigo 3° -** O agente público apresentará as declarações de que trata este decreto, exclusivamente, mediante a inserção, em sistema eletrônico administrado pela Controladoria Geral do Estado, do arquivo da Declaração de Ajuste Anual do Imposto sobre a Renda da Pessoa Física enviada à Receita Federal do Brasil.
@@ -74,7 +74,8 @@ IV - dirigentes de empresas públicas, sociedades de economia mista, autarquias 
 
 **Parágrafo único -** A publicação de que trata o "caput" deste artigo será realizada em até 30 (trinta) dias contados a partir do término dos prazos estabelecidos no artigo 4°.
 
-#### Seção III<br>
+#### Seção III
+
 Do procedimento de apuração preliminar de evolução patrimonial
 
 **Artigo 10 -** A apuração preliminar de evolução patrimonial consiste em procedimento preparatório, de natureza sigilosa e não punitiva, destinado a investigar indícios de enriquecimento ilícito.
@@ -117,7 +118,8 @@ c) suspeita fundada de incompatibilidade entre a evolução patrimonial e os ren
 
 **Artigo 16 -** Os processos disciplinares ou sancionatórios decorrentes de apuração da evolução patrimonial incompatível serão de responsabilidade da Controladoria Geral do Estado, ressalvadas as carreiras sujeitas a procedimentos administrativos disciplinares regulados por lei especial, nos termos da [Lei Complementar n° 207, de 5 de janeiro de 1979](https://www.al.sp.gov.br/norma/31460), da [Lei Complementar n° 893, de 9 de março de 2001](https://www.al.sp.gov.br/norma/3910), da [Lei Complementar n° 1.270, de 25 de agosto de 2015](https://www.al.sp.gov.br/norma/175286), da [Lei Complementar n° 1.281, de 14 de janeiro de 2016](https://www.al.sp.gov.br/norma/177001), e da [Lei Complementar n° 1.416, de 26 de setembro de 2024](https://www.al.sp.gov.br/norma/210060).
 
-#### Seção IV<br>
+#### Seção IV
+
 Disposições Finais
 
 **Artigo 17 -** O Controlador Geral do Estado poderá editar normas complementares para a execução deste decreto.
@@ -166,7 +168,8 @@ I - na data de sua publicação, no que tange às Seções I, III, IV e V;
 
 II - em 180 (cento e oitenta) dias, a contar da data de sua publicação, no que tange à Seção II.
 
-#### Seção V<br>
+#### Seção V
+
 Disposição Transitória
 
 **Artigo único** - Serão reputados válidos os atos regularmente praticados em apurações de evolução patrimonial em curso anteriormente à entrada em vigor deste decreto.

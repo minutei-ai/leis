@@ -1,5 +1,3 @@
-###DEC-064108-0-000-13-02-1969@@@
-
 DECRETO Nº 64.108, DE 13 DE FEVEREIRO DE 1969.
 
 Declara sem efeito o Decreto nº 17.432 de 27 de dezembro de 1944.

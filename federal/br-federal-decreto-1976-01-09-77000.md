@@ -1,5 +1,3 @@
-###DEC-077000-0-000-09-01-1976@@@
-
 DECRETO Nº 77.000, DE 9 DE JANEIRO DE 1976.
 
 Altera o Regimento Interno dos Gabinetes da Presidência da República, aprovado pelo Decreto nº 75.200, de 9 de janeiro de 1975.

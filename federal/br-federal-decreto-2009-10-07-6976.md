@@ -1,5 +1,3 @@
-###DEC-006976-0-000-07-10-2009@@@
-
 DECRETO Nº 6.976, DE 7 DE OUTUBRO DE 2009.
 
 Dispõe sobre o Sistema de Contabilidade Federal e dá outras providências.

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1468b180-de42-4010-b6c4-9679d1ea3ff3/texto#nowhere)
 
-###DEL-000903-0-000-30-09-1969@@@
-
 DECRETO-LEI Nº 903, DE 30 DE SETEMBRO DE 1969
 
 Altera a redação do artigo 2º do Decreto-lei nº 771, de 19 de agôsto de 1969, e dá outras providências.

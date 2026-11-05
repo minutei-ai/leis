@@ -1,5 +1,3 @@
-###DEC-045743-0-000-06-04-1959@@@
-
 Decreto nº 45.743, de 6 de abril de 1959.
 
 Cria Consulado Honorário do Brasil em Menton.

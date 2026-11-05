@@ -1,5 +1,3 @@
-###DEC-052853-0-000-18-11-1963@@@
-
 DECRETO Nº 52.853, DE 18 DE NOVEMBRO DE 1963.
 
 Transfere para Centrais Elétricas do Maranhão S.A. a concessão para produção e distribuição de energia elétrica no município de Carolina Estado do Maranhão, e dá outras providências.

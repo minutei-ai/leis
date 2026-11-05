@@ -1,5 +1,3 @@
-###DEC-071708-0-000-16-01-1973@@@
-
 DECRETO Nº 71.708, DE 16 DE JANEIRO DE 1973.
 
 Autoriza o funcionamento de um Centro de Educação Técnica, no Instituto Americano de Lins (CETIAL), de São Paulo, Lins, Estado de São Paulo.

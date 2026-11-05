@@ -1,5 +1,3 @@
-###DEC-092271-0-000-07-01-1986@@@
-
 DECRETO Nº 92.271, DE 07 DE JANEIRO DE 1986
 
 Altera dispositivos do Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha, e dá outras providências.

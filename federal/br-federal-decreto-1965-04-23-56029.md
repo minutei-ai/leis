@@ -1,5 +1,3 @@
-###DEC-056029-0-000-23-04-1965@@@
-
 DECRETO Nº 56.029, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Custódio Netto Júnior a pesquisar carvão o município de São Felix do Xingu, Estado do Pará.

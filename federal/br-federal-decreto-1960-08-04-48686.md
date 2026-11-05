@@ -1,5 +1,3 @@
-###DEC-048686-0-000-04-08-1960@@@
-
 DECRETO Nº 48.686, de 4 de agôsto de 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 32.904, de 1 de junho de 1953, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Sêcas, da área de terrenos necessária às instalações do Depósito de Material do açude público Parelhas, no Município de Parelhas, Estado do Rio Grande do Norte.

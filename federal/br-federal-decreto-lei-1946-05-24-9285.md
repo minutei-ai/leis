@@ -1,5 +1,3 @@
-###DEL-009285-0-000-24-05-1946@@@
-
 DECRETO-LEI N. 9.285 – DE 24 DE MAIO DE 1946
 
 Abre ao Conselho de Imigração e Colonização o crédito especial de Cr$ 500.000,00, para despesas com o fomento da imigração e com o encaminhamento de imigrantes

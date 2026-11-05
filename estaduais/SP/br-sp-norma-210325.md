@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210325)<br>
-
 # RESOLUÇÃO DA ALESP N° 945, DE 10 DE DEZEMBRO DE 2024
 
 ## (Projeto de Resolução n° 44, de 2023)

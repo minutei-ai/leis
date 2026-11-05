@@ -1,5 +1,3 @@
-###MPV-001969-0-012-06-01-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.969-12, DE 6 DE JANEIRO DE 2000.
 
 Estabelece critérios para a consolidação, a assunção e o refinanciamento, pela União, da dívida pública mobiliária e outras que específica, de responsabilidade dos Municípios.

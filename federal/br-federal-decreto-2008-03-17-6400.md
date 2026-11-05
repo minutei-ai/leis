@@ -1,5 +1,3 @@
-###DEC-006400-0-000-17-03-2008@@@
-
 DECRETO Nº 6.400, DE 17 DE MARÇO DE 2008.
 
 Altera o Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso das condecorações nos uniformes militares.
@@ -19,5 +17,3 @@ Altera o Decreto no 40.556, de 17 de dezembro de 1956, que regula o uso das cond
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson Jobim
-
-Este texto não substitui o publicado no DOU de 18.3.2008

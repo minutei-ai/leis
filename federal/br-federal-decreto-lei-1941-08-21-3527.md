@@ -1,5 +1,3 @@
-###DEL-003527-0-000-21-08-1941@@@
-
 DECRETO-LEI N. 3.527 – DE 21 DE AGOSTO DE 1941
 
 Suprime a 19ª cadeira da Escola Nacional, de Agronomia e dá outras providências

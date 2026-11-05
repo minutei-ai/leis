@@ -1,7 +1,3 @@
-1
-
-###DEC-001031-0-000-29-12-1993@@@
-
 DECRETO N° 1.031, DE 29 DE DEZEMBRO DE 1993
 
 Regulamenta a incidência do imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos e Valores Mobiliários, nas operações que especifica.

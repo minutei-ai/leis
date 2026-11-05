@@ -41,7 +41,3 @@ BENEDITO VALADARES RIBEIRO
 Israel Pinheiro da Silva
 
 Ovídio Xavier de Abreu
-
-\=======================================================
-
-Data da última atualização: 1/2/2005.

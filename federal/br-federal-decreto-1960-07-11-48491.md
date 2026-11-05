@@ -1,5 +1,3 @@
-###DEC-048491-0-000-11-07-1960@@@
-
 DECRETO Nº 48.491, DE 11 DE JULHO DE 1960.
 
 Transfere função da Tabela Única de Mensalistas do Ministério das Relações Exteriores, para idêntica Tabela do Ministério da Fazenda.

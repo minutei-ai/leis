@@ -1,5 +1,3 @@
-###DEC-048161-0-000-10-05-1960@@@
-
 DECRETO Nº 48.161, DE 10 DE MAIO DE 1960.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Companhia de Eletricidade do Estado da Bahia (COELBA).

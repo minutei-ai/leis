@@ -1,5 +1,3 @@
-###DEC-006129-0-000-20-06-2007@@@
-
 DECRETO Nº 6.129, DE 20 DE JUNHO DE 2007.
 
 Dispõe sobre a vinculação das entidades integrantes da administração pública federal indireta.
@@ -22,11 +20,7 @@ Dispõe sobre a vinculação das entidades integrantes da administração públi
 
 LUIZ INÁCIO LULA DA SILVA
 
-Joao Bernardo de Azevedo Bringel
-
-Este texto não substitui o publicado no DOU de 21.6.2007
-
-ANEXO
+Joao Bernardo de Azevedo BringelANEXO
 
                         I - Casa Civil da Presidência da República: Instituto Nacional de Tecnologia da Informação - ITI;
 

@@ -1,5 +1,3 @@
-###DEC-064745-0-000-26-06-1969@@@
-
 DECRETO Nº 64.745, DE 26 DE JUNHO DE 1969.
 
 Concede reconhecimento dos Cursos de Direito, Ciências Econômicas e Administrativas da Universidade de Brasília.

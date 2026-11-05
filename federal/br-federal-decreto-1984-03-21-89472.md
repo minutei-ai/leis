@@ -1,5 +1,3 @@
-###DEC-089472-0-000-21-03-1984@@@
-
 Decreto nº 89.472, de 21 de março de 1984
 
 Renova por 10 (dez) anos as concessões outorgadas às entidades que menciona para explorarem serviços de radiodifusão sonora em onda média, nas cidades e unidades da Federação indicadas.

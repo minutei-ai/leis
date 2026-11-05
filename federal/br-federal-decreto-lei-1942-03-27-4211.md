@@ -1,5 +1,3 @@
-###DEL-004211-0-000-27-03-1942@@@
-
 DECRETO-LEI N. 4.211 – DE 27 DE MARÇO DE 1942
 
 Cria uma coletoria federal no Município de Santo Antônio do Amparo, Estado de Minas Gerais, e dá outras providências

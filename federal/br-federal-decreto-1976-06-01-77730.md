@@ -1,5 +1,3 @@
-###DEC-077730-0-000-01-06-1976@@@
-
 DECRETO Nº 77.730, DE 1º DE JUnHO DE 1976.
 
 Altera dispositivo do Decreto nº 68.644, de 21 de maio de 1971, que reconheceu o curso de Formação de Engenheiros Tecnólogos de Alimentos da Faculdade de Tecnologia de Alimentos da Universidade Estadual de Campinas, Estado de São Paulo.

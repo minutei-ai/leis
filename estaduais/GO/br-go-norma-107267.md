@@ -1,6 +1,7 @@
 DECRETO Nº 10.275, DE 22 DE JUNHO DE 2023
 
-Integra a Rede de Gestão de Pessoas ao Sistema Estruturador das Redes de Gestão – SIGES, regulamenta a designação para o exercício das atribuições e das responsabilidades diferenciadas e a concessão da Gratificação das Redes de Gestão de Pessoas, instituídas pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, revigora o Programa MOVE Goiás na administração direta, autárquica e fundacional do Poder Executivo e revoga o [Decreto estadual nº 9.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72160), de 11 de julho de 2019.<br>
+Integra a Rede de Gestão de Pessoas ao Sistema Estruturador das Redes de Gestão – SIGES, regulamenta a designação para o exercício das atribuições e das responsabilidades diferenciadas e a concessão da Gratificação das Redes de Gestão de Pessoas, instituídas pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, revigora o Programa MOVE Goiás na administração direta, autárquica e fundacional do Poder Executivo e revoga o [Decreto estadual nº 9.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72160), de 11 de julho de 2019.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Integra a Rede de Gestão de Pessoas ao Sistema de Gestão Estadual – SIGES, regulamenta a designação para o exercício das atribuições diferenciadas de assessoramento técnico especializado e a concessão da Gratificação das Redes de Gestão de Pessoas, instituída pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, revigora o Programa MOVE Goiás na administração direta, autárquica e fundacional do Poder Executivo e revoga o [Decreto nº 9.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72160), de 11 de julho de 2019.~~
@@ -9,7 +10,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 **DECRETA:**
 
-Art. 1º A Rede Estadual de Gestão e Desenvolvimento de Pessoas, criada pelo Decreto estadual nº 9.462, de 11 de julho de 2019, passa a denominar-se Rede de Gestão de Pessoas e integra o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e regulamentado pelo [Decreto estadual nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023.<br>
+Art. 1º A Rede Estadual de Gestão e Desenvolvimento de Pessoas, criada pelo Decreto estadual nº 9.462, de 11 de julho de 2019, passa a denominar-se Rede de Gestão de Pessoas e integra o Sistema Estruturador das Redes de Gestão – SIGES, instituído pela [Lei estadual nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e regulamentado pelo [Decreto estadual nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 1º A Rede Estadual de Gestão e Desenvolvimento de Pessoas, criada pelo [Decreto nº 9.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72160), de 11 de julho de 2019, passa a denominar-se Rede de Gestão de Pessoas, instituída pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 16 de fevereiro de 2023, e integra o Sistema de Gestão Estadual – SIGES, instituído pelo [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 19 de maio de 2023.~~
@@ -20,7 +22,8 @@ I – desenvolvimento e melhoria da comunicação;
 
 II – padronização, simplificação e automação de rotinas;
 
-III – capacitação das unidades setoriais e correlatas;<br>
+III – capacitação das unidades setoriais e correlatas;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~III – capacitação das unidades setoriais;~~
@@ -39,7 +42,8 @@ IX – reconhecimento pelos resultados alcançados; e
 
 X – alinhamento de objetivos a serem alcançados e aos desafios a serem vencidos.
 
-Art. 3º A Rede de Gestão de Pessoas é formada pelas unidades centrais – UCs, pelas unidades setoriais – USs e pelas unidades correlatas – UCOs.<br>
+Art. 3º A Rede de Gestão de Pessoas é formada pelas unidades centrais – UCs, pelas unidades setoriais – USs e pelas unidades correlatas – UCOs.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 3º A Rede de Gestão de Pessoas é formada pelas unidades centrais – UCs e unidades setoriais – USs.~~
@@ -52,28 +56,34 @@ II – a Diretoria Executiva da Escola de Governo.
 
 § 2º As USs são subordinadas tecnicamente às UCs, possuem as competências tática e operacional na execução das entregas e das atividades de gestão e desenvolvimento de pessoas, além de se formarem pelas unidades administrativas que desempenham as competências relacionadas a gestão e desenvolvimento de pessoas nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo.
 
-§ 3º As UCOs são subordinadas tecnicamente às UCs e desenvolvem entregas e atividades complementares ou similares às da Rede de Gestão de Pessoas nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo.<br>
+§ 3º As UCOs são subordinadas tecnicamente às UCs e desenvolvem entregas e atividades complementares ou similares às da Rede de Gestão de Pessoas nos órgãos e nas entidades da administração direta, autárquica e fundacional do Poder Executivo.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 4º São consideradas atribuições e responsabilidades diferenciadas da Rede de Gestão de Pessoas as que visam coordenar ou supervisionar pessoas, projetos ou serviços das unidades centrais, setoriais e correlatas da rede, as quais contribuem com os objetivos do SIGES.<br>
+Art. 4º São consideradas atribuições e responsabilidades diferenciadas da Rede de Gestão de Pessoas as que visam coordenar ou supervisionar pessoas, projetos ou serviços das unidades centrais, setoriais e correlatas da rede, as quais contribuem com os objetivos do SIGES.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 4º São consideradas atribuições diferenciadas de assessoramento técnico especializado da Rede de Gestão de Pessoas aquelas que visam coordenar ou supervisionar pessoas, projetos ou serviços das unidades centrais e setoriais da rede, as quais contribuem com os objetivos do SIGES.~~
 
-Art. 5º Os servidores que atuam nas unidades centrais, setoriais e correlatas integrantes da Rede de Gestão de Pessoas poderão ser designados para o exercício de atribuições e responsabilidades diferenciadas às quais serão concedidas a Gratificação das Redes de Gestão de Pessoas – GRG-PES, instituída pela Lei nº 21.792, de 2023.<br>
+Art. 5º Os servidores que atuam nas unidades centrais, setoriais e correlatas integrantes da Rede de Gestão de Pessoas poderão ser designados para o exercício de atribuições e responsabilidades diferenciadas às quais serão concedidas a Gratificação das Redes de Gestão de Pessoas – GRG-PES, instituída pela Lei nº 21.792, de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 5º Os servidores que atuam nas unidades centrais e setoriais integrantes da Rede de Gestão de Pessoas poderão ser designados para o exercício de atribuições diferenciadas de assessoramento técnico especializado às quais serão concedidas a Gratificação das Redes de Gestão de Pessoas – GRG-PES, instituída pela [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~
 
-Parágrafo único. A GRG-PES é uma denominação específica da Gratificação do Sistema Estruturador das Redes de Gestão – GRG para a Rede de Gestão de Pessoas, que possui relação direta com seus símbolos, valores e limites.<br>
+Parágrafo único. A GRG-PES é uma denominação específica da Gratificação do Sistema Estruturador das Redes de Gestão – GRG para a Rede de Gestão de Pessoas, que possui relação direta com seus símbolos, valores e limites.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 6º A GRG-PES é destinada a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores que atuam nas unidades centrais, setoriais e correlatas dos órgãos e das entidades da administração direta, autárquica e fundacional, definidas nos arts. 108, 109 e 109-A da Lei nº 21.792, de 2023.<br>
+Art. 6º A GRG-PES é destinada a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores que atuam nas unidades centrais, setoriais e correlatas dos órgãos e das entidades da administração direta, autárquica e fundacional, definidas nos arts. 108, 109 e 109-A da Lei nº 21.792, de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 6º A GRG-PES é destinada a incentivar o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores que atuam nas unidades centrais e setoriais dos órgãos e das entidades da administração direta, autárquica e fundacional, definidas nos arts. 108 e 109 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~
 
-Art. 7º Poderá perceber a GRG-PES o servidor designado para o exercício das atribuições e das responsabilidades diferenciadas, de acordo com as especificidades da área de atuação e a faixa de complexidade correspondente, desde que sejam cumpridos os seguintes critérios:<br>
+Art. 7º Poderá perceber a GRG-PES o servidor designado para o exercício das atribuições e das responsabilidades diferenciadas, de acordo com as especificidades da área de atuação e a faixa de complexidade correspondente, desde que sejam cumpridos os seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 7º Poderá perceber a GRG-PES o servidor designado para o exercício das atribuições diferenciadas de assessoramento técnico especializado, de acordo com as especificidades da área de atuação e a faixa de complexidade correspondente, desde que sejam cumpridos os seguintes critérios:~~
@@ -90,22 +100,26 @@ I – de pelo menos 40 (quarenta) horas; e
 
 II – aferida pela certificação de cursos de aperfeiçoamento, de pós–graduação e participação em treinamentos, seminários e congressos relacionados às atividades desempenhadas.
 
-§ 3º A comprovação do cumprimento dos requisitos constantes dos incisos I e II do caput deste artigo será encaminhada para a validação pelo titular da UC que coordenar a Rede de Gestão de Pessoas, antes da emissão do ato de designação.<br>
+§ 3º A comprovação do cumprimento dos requisitos constantes dos incisos I e II do caput deste artigo será encaminhada para a validação pelo titular da UC que coordenar a Rede de Gestão de Pessoas, antes da emissão do ato de designação.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 3º A comprovação do cumprimento dos requisitos constantes dos incisos I e II do _caput_ será encaminhada para a validação pela Subsecretaria de Gestão e Desenvolvimento de Pessoas, da Secretaria de Estado da Administração – SEAD, antes da emissão do ato de designação.~~
 
-§ 4º Será exigida do servidor designado para o exercício das atribuições e das responsabilidades diferenciadas a participação no Programa de Certificação Profissional da respectiva área de atuação, oferecido pela Escola de Governo.<br>
+§ 4º Será exigida do servidor designado para o exercício das atribuições e das responsabilidades diferenciadas a participação no Programa de Certificação Profissional da respectiva área de atuação, oferecido pela Escola de Governo.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 4º Será exigida do servidor designado para o exercício das atribuições diferenciadas de assessoramento técnico especializado a participação no Programa de Certificação Profissional da respectiva área de atuação, quando for oferecido pela Escola de Governo.~~
 
-Art. 8º São atribuições e responsabilidades diferenciadas da Rede de Gestão de Pessoas aquelas que visam coordenar ou supervisionar processos, atividades e tarefas relativas às suas competências, com diversos níveis de complexidade e volumes de trabalho dentro das competências das unidades centrais, setoriais e correlatas ligadas à gestão e ao desenvolvimento de pessoas quanto a:<br>
+Art. 8º São atribuições e responsabilidades diferenciadas da Rede de Gestão de Pessoas aquelas que visam coordenar ou supervisionar processos, atividades e tarefas relativas às suas competências, com diversos níveis de complexidade e volumes de trabalho dentro das competências das unidades centrais, setoriais e correlatas ligadas à gestão e ao desenvolvimento de pessoas quanto a:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 8º São atribuições diferenciadas de assessoramento técnico especializado da Rede de Gestão de Pessoas aquelas que visam coordenar ou supervisionar as áreas de:~~
 
-I – capacitação: que promovem ações e projetos para a formação, a qualificação, o aperfeiçoamento, também a elaboração e a execução dos planos anuais de capacitação específicos;<br>
+I – capacitação: que promovem ações e projetos para a formação, a qualificação, o aperfeiçoamento, também a elaboração e a execução dos planos anuais de capacitação específicos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – capacitação, carreiras e desenvolvimento profissional: que executam entregas e atividades de acompanhamento do plano de cargos e remuneração do quadro próprio, da evolução funcional, da avaliação de desempenho e da promoção de ações e projetos para a formação, a qualificação, o aperfeiçoamento, também a elaboração e a execução dos planos anuais de capacitação específicos;~~
@@ -122,67 +136,82 @@ VI – frequência: que executam entregas e atividades de acompanhamento e apura
 
 VII – perfil, recrutamento e alocação de pessoas: que executam entregas e atividades de levantamento de perfil do pessoal, dimensionamento da força de trabalho, atração, seleção e admissão de colaboradores, bem como alocação de pessoal; e
 
-VIII – carreiras e desenvolvimento profissional: que executam entregas e atividades de acompanhamento do plano de cargos e remuneração do quadro próprio, da evolução funcional e da avaliação de desempenho;<br>
+VIII – carreiras e desenvolvimento profissional: que executam entregas e atividades de acompanhamento do plano de cargos e remuneração do quadro próprio, da evolução funcional e da avaliação de desempenho;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~VIII – unidade central: que executam entregas e atividades relacionadas às suas competências específicas para o atendimento às atribuições finalísticas das respectivas unidades.~~
 
-IX – recrutamento e seleção: que executam entregas e atividades de atração, seleção e admissão de colaboradores;<br>
+IX – recrutamento e seleção: que executam entregas e atividades de atração, seleção e admissão de colaboradores;
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-X – unidade central: que executam entregas e atividades relacionadas às suas competências específicas para o atendimento às atribuições finalísticas das respectivas unidades; e<br>
+X – unidade central: que executam entregas e atividades relacionadas às suas competências específicas para o atendimento às atribuições finalísticas das respectivas unidades; e
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-XI – unidade correlata: que executam entregas e atividades relacionadas à área de gestão e desenvolvimento de pessoas para o atendimento às suas atribuições.<br>
+XI – unidade correlata: que executam entregas e atividades relacionadas à área de gestão e desenvolvimento de pessoas para o atendimento às suas atribuições.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-~~Parágrafo único. As atribuições de que tratam os incisos I a VII deste artigo poderão ser exercidas conjunta ou isoladamente, de acordo com o porte da unidade de atuação.~~<br>
+~~Parágrafo único. As atribuições de que tratam os incisos I a VII deste artigo poderão ser exercidas conjunta ou isoladamente, de acordo com o porte da unidade de atuação.~~
+
 \- [Revogado pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438) , art. 14, III, a.
 
-Art. 9º As unidades centrais, setoriais e correlatas da Rede de Gestão de Pessoas serão classificadas nos seguintes portes:<br>
+Art. 9º As unidades centrais, setoriais e correlatas da Rede de Gestão de Pessoas serão classificadas nos seguintes portes:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 9º As unidades centrais e setoriais da Rede de Gestão de Pessoas serão classificadas nos seguintes portes:~~
 
-I – Porte 1: unidades centrais, setoriais e correlatas de complexidade e volume muito altos;<br>
+I – Porte 1: unidades centrais, setoriais e correlatas de complexidade e volume muito altos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – porte 1: unidades centrais e unidades setoriais de complexidade e volume muito altos;~~
 
-II – Porte 2: unidades setoriais e correlatas de complexidade e volume altos;<br>
+II – Porte 2: unidades setoriais e correlatas de complexidade e volume altos;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – porte 2: unidades setoriais de complexidade e volume altos;~~
 
-III – Porte 3: unidades setoriais e correlatas de complexidade e volume médios; e<br>
+III – Porte 3: unidades setoriais e correlatas de complexidade e volume médios; e
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~III – porte 3: unidades setoriais de complexidade e volume médios; e~~
 
-IV – Porte 4: unidades setoriais e correlatas de complexidade e volume baixos ou muito baixos.<br>
+IV – Porte 4: unidades setoriais e correlatas de complexidade e volume baixos ou muito baixos.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – porte 4: unidades setoriais de complexidade e volume baixos ou muito baixos.~~
 
-§ 1º A classificação do porte das unidades setoriais e correlatas da Rede de Gestão de Pessoas, por órgão ou entidade, será estabelecida por ato do titular do órgão central de gestão de pessoal a partir de critérios objetivos que diferenciem, entre outros itens, o volume de trabalho, a complexidade, o impacto, a dificuldade e a responsabilidade quanto às entregas e às atividades desempenhadas nas atribuições definidas no art. 8º deste Decreto, e essa classificação poderá ser revista de acordo com a necessidade.<br>
+§ 1º A classificação do porte das unidades setoriais e correlatas da Rede de Gestão de Pessoas, por órgão ou entidade, será estabelecida por ato do titular do órgão central de gestão de pessoal a partir de critérios objetivos que diferenciem, entre outros itens, o volume de trabalho, a complexidade, o impacto, a dificuldade e a responsabilidade quanto às entregas e às atividades desempenhadas nas atribuições definidas no art. 8º deste Decreto, e essa classificação poderá ser revista de acordo com a necessidade.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 1º A classificação do porte das unidades setoriais da Rede de Gestão de Pessoas, por órgão ou entidade, será estabelecida por ato do titular da SEAD a partir de critérios objetivos que diferenciem, entre outros itens, o volume de trabalho, a complexidade, o impacto, a dificuldade, a responsabilidade, das entregas e das atividades desempenhadas nas atribuições definidas nos incisos de I a VII do art. 8º deste Decreto, e essa classificação poderá ser revista de acordo com a necessidade.~~
 
-§ 2º O valor total das distribuições das GRG-PESs às unidades centrais, setoriais e correlatas dos órgãos e das entidades da administração direta, autárquica e fundacional não poderá ultrapassar o limite mensal constante da Tabela 7 do Anexo I do Decreto nº 10.263, de 2023.<br>
+§ 2º O valor total das distribuições das GRG-PESs às unidades centrais, setoriais e correlatas dos órgãos e das entidades da administração direta, autárquica e fundacional não poderá ultrapassar o limite mensal constante da Tabela 7 do Anexo I do Decreto nº 10.263, de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º O valor total das distribuições das GRG-PES às unidades centrais e setoriais dos órgãos e das entidades da administração direta, autárquica e fundacional não poderá ultrapassar o limite mensal constante da Tabela 1 do Anexo II do [Decreto nº 10.263](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107154), de 2023.~~
 
-§ 3º O órgão central de gestão de pessoal poderá criar novas coordenações e supervisões, a critério da administração, desde que não ultrapasse o valor total estabelecido no § 2º deste artigo.<br>
+§ 3º O órgão central de gestão de pessoal poderá criar novas coordenações e supervisões, a critério da administração, desde que não ultrapasse o valor total estabelecido no § 2º deste artigo.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 10. A distribuição das coordenações e das supervisões da Rede de Gestão de Pessoas será realizada de acordo com o porte das unidades e dos tipos de atribuições, conforme a seguinte especificação:<br>
+Art. 10. A distribuição das coordenações e das supervisões da Rede de Gestão de Pessoas será realizada de acordo com o porte das unidades e dos tipos de atribuições, conforme a seguinte especificação:
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 10. A distribuição das coordenações e das supervisões da Rede de Gestão de Pessoas será realizada de acordo com o porte das unidades, o qual terá os seguintes quantitativos e tipos de atribuições a serem desempenhadas:~~
 
-I – Porte 1: o equivalente a 6 (seis) coordenações para as unidades setoriais, com os seguintes tipos de atribuições:<br>
+I – Porte 1: o equivalente a 6 (seis) coordenações para as unidades setoriais, com os seguintes tipos de atribuições:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – porte 1: 6 (seis) coordenações para as unidades setoriais, com os seguintes tipos de atribuições:~~
@@ -199,7 +228,8 @@ e) frequência; e
 
 f) perfil, recrutamento e alocação de pessoas;
 
-II – Porte 2: o equivalente a 4 (quatro) coordenações, com os seguintes tipos de atribuições:<br>
+II – Porte 2: o equivalente a 4 (quatro) coordenações, com os seguintes tipos de atribuições:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – porte 2: 4 (quatro) coordenações para as unidades setoriais, com os seguintes tipos de atribuições:~~
@@ -212,7 +242,8 @@ c) folha de pagamento; e
 
 d) frequência;
 
-III – Porte 3: o equivalente a 2 (duas) coordenações e 1 (uma) supervisão, com os seguintes tipos de atribuições:<br>
+III – Porte 3: o equivalente a 2 (duas) coordenações e 1 (uma) supervisão, com os seguintes tipos de atribuições:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~III – porte 3: 2 (duas) coordenações e 1 (uma) supervisão para as unidades setoriais, com os seguintes tipos de atribuições:~~
@@ -221,54 +252,66 @@ a) capacitação, carreiras e desenvolvimento profissional, gestão do conhecime
 
 b) folha de pagamento, frequência, gestão documental e direitos e benefícios;
 
-IV – Porte 4: o equivalente a 1 (uma) coordenação e 1 (uma) supervisão, com os tipos de atribuições de capacitação, de carreiras e desenvolvimento profissional, de direitos e benefícios, de folha de pagamento, de frequência e gestão documental, de gestão do conhecimento e competências e de perfil, recrutamento e alocação de pessoas.<br>
+IV – Porte 4: o equivalente a 1 (uma) coordenação e 1 (uma) supervisão, com os tipos de atribuições de capacitação, de carreiras e desenvolvimento profissional, de direitos e benefícios, de folha de pagamento, de frequência e gestão documental, de gestão do conhecimento e competências e de perfil, recrutamento e alocação de pessoas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – porte 4: 1 (uma) coordenação e 1 (uma) supervisão para as unidades setoriais com os seguintes tipos de atribuições: capacitação, carreiras e desenvolvimento profissional, direitos e benefícios, folha de pagamento, frequência e gestão documental, gestão do conhecimento e competências e perfil, recrutamento e alocação de pessoas.~~
 
-§ 1º As unidades básicas e as gerências das UCs serão classificadas como Porte 1 e contarão com o equivalente a 2 (duas) coordenações e 2 (duas) supervisões para cada 1 (uma) das referidas unidades administrativas.<br>
+§ 1º As unidades básicas e as gerências das UCs serão classificadas como Porte 1 e contarão com o equivalente a 2 (duas) coordenações e 2 (duas) supervisões para cada 1 (uma) das referidas unidades administrativas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 1º As unidades vinculadas às UCs serão equivalentes ao porte 1 e contarão com 2 (duas) coordenações e 2 (duas) supervisões por cada unidade administrativa.~~
 
-§ 2º Os titulares das unidades básicas das UCs e dos órgãos em que haja mais de 1 (um) nível hierárquico formal poderão remanejar a distribuição das coordenações e das supervisões entre as unidades vinculadas à unidade hierárquica mais alta, respeitada a quantidade total estabelecida neste artigo.<br>
+§ 2º Os titulares das unidades básicas das UCs e dos órgãos em que haja mais de 1 (um) nível hierárquico formal poderão remanejar a distribuição das coordenações e das supervisões entre as unidades vinculadas à unidade hierárquica mais alta, respeitada a quantidade total estabelecida neste artigo.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º Os titulares das unidades básicas das UCs poderão remanejar a distribuição das coordenações e das supervisões entre as unidades vinculadas, respeitada a quantidade total estabelecida no § 1º deste artigo para as UCs.~~
 
-§ 3º As UCOs serão definidas e classificadas por ato do titular do órgão central de gestão de pessoal, após a manifestação dos titulares das UCs.<br>
+§ 3º As UCOs serão definidas e classificadas por ato do titular do órgão central de gestão de pessoal, após a manifestação dos titulares das UCs.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 10-A. As coordenações poderão ser divididas em supervisões, e as supervisões poderão ser juntadas para formar coordenações, conforme a complexidade e o volume de cada processo ou atividade desenvolvidos no órgão ou na entidade.<br>
+Art. 10-A. As coordenações poderão ser divididas em supervisões, e as supervisões poderão ser juntadas para formar coordenações, conforme a complexidade e o volume de cada processo ou atividade desenvolvidos no órgão ou na entidade.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-§ 1º As divisões e as junções referidas no caput deste artigo deverão ser justificadas, e, caso as atribuições e as responsabilidades diferenciadas não correspondam às enumeradas no art. 8º deste Decreto, deverão ser indicadas necessariamente quais competências da área de gestão e desenvolvimento de pessoas estão abrangidas em cada caso, de acordo com o art. 8º deste Decreto ou o regulamento de cada órgão ou entidade.<br>
+§ 1º As divisões e as junções referidas no caput deste artigo deverão ser justificadas, e, caso as atribuições e as responsabilidades diferenciadas não correspondam às enumeradas no art. 8º deste Decreto, deverão ser indicadas necessariamente quais competências da área de gestão e desenvolvimento de pessoas estão abrangidas em cada caso, de acordo com o art. 8º deste Decreto ou o regulamento de cada órgão ou entidade.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-§ 2º Somente os processos que chegarem à unidade central responsável pelo Sistema de Recursos Humanos – RHNet até o dia 25 do mês serão processados e disponibilizados para designação a partir do dia 1º do mês seguinte.<br>
+§ 2º Somente os processos que chegarem à unidade central responsável pelo Sistema de Recursos Humanos – RHNet até o dia 25 do mês serão processados e disponibilizados para designação a partir do dia 1º do mês seguinte.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-§ 3º A periodicidade das alterações de que trata este artigo poderá ser definida pelo titular do órgão central de gestão de pessoal.<br>
+§ 3º A periodicidade das alterações de que trata este artigo poderá ser definida pelo titular do órgão central de gestão de pessoal.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 11. A designação para o exercício das atribuições e das responsabilidades diferenciadas observará o disposto nos arts. 112 e 113 da Lei nº 21.792, de 2023, e será efetivada por ato do titular:<br>
+Art. 11. A designação para o exercício das atribuições e das responsabilidades diferenciadas observará o disposto nos arts. 112 e 113 da Lei nº 21.792, de 2023, e será efetivada por ato do titular:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 11. A designação para o exercício das atribuições diferenciadas de assessoramento técnico especializado observará o disposto nos arts. 112 e 113 da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023, e será efetivada por ato do titular:~~
 
-I – do órgão central de gestão de pessoal, referentemente às unidades centrais da Rede de Gestão de Pessoas; e<br>
+I – do órgão central de gestão de pessoal, referentemente às unidades centrais da Rede de Gestão de Pessoas; e
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~I – da SEAD, referente às unidades centrais da Rede de Gestão de Pessoas; e~~
 
-II – do respectivo órgão ou da entidade de lotação, referentemente às unidades setoriais e correlatas da Rede de Gestão de Pessoas.<br>
+II – do respectivo órgão ou da entidade de lotação, referentemente às unidades setoriais e correlatas da Rede de Gestão de Pessoas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – do respectivo órgão ou da entidade de lotação, referente às unidades setoriais da Rede de Gestão de Pessoas.~~
 
 § 1º A designação de que trata este artigo só poderá ser efetivada após a validação dos requisitos, conforme § 3º do art. 7º deste Decreto.
 
-§ 2º É vedada a designação com data retroativa para o exercício das atribuições e das responsabilidades diferenciadas.<br>
+§ 2º É vedada a designação com data retroativa para o exercício das atribuições e das responsabilidades diferenciadas.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 2º É vedada a designação com data retroativa para o exercício das atribuições diferenciadas de assessoramento técnico especializado.~~
@@ -289,26 +332,30 @@ II – o órgão e a unidade administrativa de lotação que receberá a GRG– 
 
 III – o nível da GRG– PES;
 
-IV – a informação de a GRG– PES ser de unidade central, setorial ou correlata; e<br>
+IV – a informação de a GRG– PES ser de unidade central, setorial ou correlata; e
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – a informação de a GRG– PES ser de unidade central ou setorial; e~~
 
 V – o tipo de atribuições a serem desempenhadas, conforme o disposto no art. 9º deste Decreto.
 
-§ 8º O servidor designado para o exercício das atribuições e das responsabilidades diferenciadas receberá o valor integral da gratificação até a implementação dos efeitos financeiros da avaliação periódica, como estabelece o inciso II do art. 7º deste Decreto, a ser realizada no ciclo seguinte à sua designação.<br>
+§ 8º O servidor designado para o exercício das atribuições e das responsabilidades diferenciadas receberá o valor integral da gratificação até a implementação dos efeitos financeiros da avaliação periódica, como estabelece o inciso II do art. 7º deste Decreto, a ser realizada no ciclo seguinte à sua designação.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 8º O servidor designado para o exercício das atribuições diferenciadas de assessoramento técnico especializado receberá o valor integral da gratificação até a implementação dos efeitos financeiros da avaliação periódica de desempenho, como estabelece o inciso II do art. 7º deste Decreto, a ser realizada no ciclo seguinte à sua designação.~~
 
-§ 9º O servidor designado para o exercício das atribuições e das responsabilidades diferenciadas perceberá a gratificação dos tipos GRG-1, para coordenação, ou GRG-4, para supervisão, conforme dispõe o Anexo IV da Lei nº 21.792, de 2023.<br>
+§ 9º O servidor designado para o exercício das atribuições e das responsabilidades diferenciadas perceberá a gratificação dos tipos GRG-1, para coordenação, ou GRG-4, para supervisão, conforme dispõe o Anexo IV da Lei nº 21.792, de 2023.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 9º O servidordesignado para o exercício das atribuições diferenciadas de assessoramento técnico especializado perceberá a gratificação tipo GRG-1 para coordenação ou GRG-4 para supervisão, conforme dispõe o Anexo IV da [Lei nº 21.792](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106749), de 2023.~~
 
 § 10. O tipo da Gratificação das Redes de Gestão de que trata o § 9ºdeste artigo poderá ser revisto ou alterado a qualquer momento, a critério da administração, para o aprimoramento da qualidade das entregas e das atividades executadas pelos servidores.
 
-§ 11. Só poderá ser designado para o exercício das atribuições e das responsabilidades diferenciadas o servidor que:<br>
+§ 11. Só poderá ser designado para o exercício das atribuições e das responsabilidades diferenciadas o servidor que:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~§ 11. Só poderá ser designado para o exercício das atribuições diferenciadas de assessoramento técnico especializado o servidor que:~~
@@ -317,42 +364,50 @@ I – tiver idoneidade moral e reputação ilibada; e
 
 II – não se enquadrar nas hipóteses de inelegibilidade previstas no inciso I do _caput_ do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990.
 
-§ 12. Caso a atribuição e a responsabilidade diferenciada sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele Função Comissionada do Sistema Estruturador das Redes de Gestão – FCRG-PES, com o valor e o símbolo equivalentes aos da GRG-PES, e esse servidor será submetido às mesmas regras e exigências para sua designação e sua manutenção.<br>
+§ 12. Caso a atribuição e a responsabilidade diferenciada sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a ele Função Comissionada do Sistema Estruturador das Redes de Gestão – FCRG-PES, com o valor e o símbolo equivalentes aos da GRG-PES, e esse servidor será submetido às mesmas regras e exigências para sua designação e sua manutenção.
+
 \- [Acrescido dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-§ 13. Para a designação de FCRG-PES nos termos do § 12 deste artigo, os processos devem chegar à unidade central responsável pelo RHNet até o dia 25 do mês para a parametrização e a disponibilização para designação a partir do dia 1º do mês seguinte.<br>
+§ 13. Para a designação de FCRG-PES nos termos do § 12 deste artigo, os processos devem chegar à unidade central responsável pelo RHNet até o dia 25 do mês para a parametrização e a disponibilização para designação a partir do dia 1º do mês seguinte.
+
 \- [Acrescido pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
-Art. 12. A avaliação periódica de desempenho dos servidores designados para o exercício das atribuições e das responsabilidades diferenciadas da Rede de Gestão de Pessoas, estabelecida no inciso II do art. 7º deste Decreto, seguirá os seguintes critérios:<br>
+Art. 12. A avaliação periódica de desempenho dos servidores designados para o exercício das atribuições e das responsabilidades diferenciadas da Rede de Gestão de Pessoas, estabelecida no inciso II do art. 7º deste Decreto, seguirá os seguintes critérios:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 12. A avaliação periódica de desempenho dos servidores designados para o exercício das atribuições diferenciadas de assessoramento técnico especializado da Rede de Gestão de Pessoas, estabelecida no inciso II do art. 7º deste Decreto, seguirá os seguintes critérios:~~
 
 I – serão realizadas a autoavaliação pelo servidor designado e a avaliação pela chefia imediata, ou pela chefia mediata, caso haja a impossibilidade de avaliação pela chefia imediata;
 
-II – ocorrerá no mês seguinte àquele em que o servidor completar 6 (seis) meses de designação;<br>
+II – ocorrerá no mês seguinte àquele em que o servidor completar 6 (seis) meses de designação;
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~II – ocorrerá semestralmente;~~
 
 III – avaliará requisitos como iniciativa, relacionamento interpessoal, comprometimento com o trabalho, eficiência, entre outros; e
 
-IV – será dispensada nos casos dos substitutos durante o afastamento do titular, caso a substituição seja por período menor do que 6 (seis) meses.<br>
+IV – será dispensada nos casos dos substitutos durante o afastamento do titular, caso a substituição seja por período menor do que 6 (seis) meses.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~IV – será dispensada nos casos dos substitutos durante o afastamento do titular.~~
 
-~~Parágrafo único. Regulamento específico poderá definir os demais critérios e as condições para a avaliação periódica de desempenho.~~<br>
+~~Parágrafo único. Regulamento específico poderá definir os demais critérios e as condições para a avaliação periódica de desempenho.~~
+
 \- [Revogado pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438) , art. 14, III, a.
 
-Art. 13. A avaliação periódica de desempenho nas atribuições e nas responsabilidades diferenciadas será realizada por metodologia desenvolvida pelas unidades centrais e estabelecida por ato do titular do órgão central de gestão de pessoal.<br>
+Art. 13. A avaliação periódica de desempenho nas atribuições e nas responsabilidades diferenciadas será realizada por metodologia desenvolvida pelas unidades centrais e estabelecida por ato do titular do órgão central de gestão de pessoal.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 13. A avaliação periódica de desempenho nas atividades de assessoramento técnico especializado será realizada por metodologia desenvolvida pelas unidades centrais e estabelecida por ato do Secretário de Estado da Administração em até 180 (cento e oitenta) dias.~~
 
 Art. 14. Nos casos de descumprimento do disposto neste Decreto ou em normativas decorrentes dele, o titular do órgão central de gestão de pessoal poderá recomendar a revogação da designação da GRG-PES a qualquer momento, independentemente da avaliação de desempenho.
 
-Art. 15. A Rede de Gestão de Pessoas implementará as ações do Programa MOVE Goiás, instituído pelo Decreto estadual nº 9.462, de 11 de julho de 2019, de responsabilidade do órgão central de gestão de pessoal, que serão coordenadas pelas UCs e executadas pelas USs e pelas UCOs, e esse programa objetivará:<br>
+Art. 15. A Rede de Gestão de Pessoas implementará as ações do Programa MOVE Goiás, instituído pelo Decreto estadual nº 9.462, de 11 de julho de 2019, de responsabilidade do órgão central de gestão de pessoal, que serão coordenadas pelas UCs e executadas pelas USs e pelas UCOs, e esse programa objetivará:
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 15. A Rede de Gestão de Pessoas implementará as ações do Programa MOVE Goiás, instituído pelo [Decreto nº 9.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72160), de 11 de julho de 2019, de responsabilidade da SEAD, que serão coordenadas pelas UCs e executadas pelas USs, e esse programa objetivará:~~
@@ -373,17 +428,20 @@ III – valorizar: compreende desenvolver instrumentos de valorização do servi
 
 IV – envolver: visa implementar ações de gestão humanizada que incentivem maior engajamento dos colaboradores, com o alinhamento dos objetivos individuais aos institucionais, e que demonstrem a importância do próprio trabalho, para inspirar esses colaboradores a assumir novos desafios, além de promover ações de integração entre as equipes e de melhoria do clima organizacional.
 
-Art. 17. Com o objetivo de implementar a Política de Gestão de Pessoas do Estado de Goiás, o órgão central de gestão de pessoal poderá compor grupo de trabalho, estabelecer forças-tarefas com a participação de servidores de outros órgãos e entidades estaduais, também firmar parcerias e acordos de cooperação técnica, observada a legislação vigente.<br>
+Art. 17. Com o objetivo de implementar a Política de Gestão de Pessoas do Estado de Goiás, o órgão central de gestão de pessoal poderá compor grupo de trabalho, estabelecer forças-tarefas com a participação de servidores de outros órgãos e entidades estaduais, também firmar parcerias e acordos de cooperação técnica, observada a legislação vigente.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 17. Com o objetivo de implementar a Política de Gestão de Pessoas do Estado de Goiás, a SEAD poderá compor grupo de trabalho, estabelecer forças-tarefas com a participação de servidores de outros órgãos e entidades estaduais, também firmar parcerias e acordos de cooperação técnica, observada a legislação vigente.~~
 
-Art. 18. Para a consecução do Programa MOVE Goiás e das ações da Rede de Gestão de Pessoas, o órgão central de gestão de pessoal poderá editar normas complementares, bem como requisitar informações aos órgãos e às entidades do Poder Executivo.<br>
+Art. 18. Para a consecução do Programa MOVE Goiás e das ações da Rede de Gestão de Pessoas, o órgão central de gestão de pessoal poderá editar normas complementares, bem como requisitar informações aos órgãos e às entidades do Poder Executivo.
+
 \- [Redação dada pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438).
 
 ~~Art. 18. Para a consecução do Programa MOVE Goiás e das ações da Rede de Gestão de Pessoas, a SEAD poderá editar normas complementares, bem como requisitar informações aos órgãos e às entidades do Poder Executivo.~~
 
-~~Parágrafo único. As informações requisitadas deverão ser fornecidas em caráter prioritário e com a necessária precisão pelos órgãos e pelas entidades que compõem a administração pública estadual.~~<br>
+~~Parágrafo único. As informações requisitadas deverão ser fornecidas em caráter prioritário e com a necessária precisão pelos órgãos e pelas entidades que compõem a administração pública estadual.~~
+
 \- [Revogado pelo Decreto nº 10.438, de 11-4-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108677/decreto-10438) , art. 14, III, a.
 
 Art. 19. Fica revogado o [Decreto nº 9.462](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/72160), de 11 de julho de 2019.
@@ -391,8 +449,6 @@ Art. 19. Fica revogado o [Decreto nº 9.462](https://legisla.casacivil.go.gov.br
 Art. 20. Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 22 de junho de 2023; 135º da República.
-
-<br>
 
 RONALDO CAIADO
 

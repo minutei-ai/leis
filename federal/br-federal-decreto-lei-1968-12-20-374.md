@@ -1,7 +1,5 @@
 [1](https://normas.leg.br/api/public/binario/629dade8-1736-4bbb-9642-5de3488f63d7/texto#nowhere)
 
-###DEL-000374-0-000-20-12-1968@@@
-
 DECRETO-LEI Nº 374, DE 20 DE DEZEMBRO DE 1968
 
 Altera a Resolução nº 34, de 5 de abril de 1967, do Senado Federal, que autoriza a Prefeitura do Distrito Federal a adquirir equipamento hospitalar na Alemanha Ocidental.

@@ -1,5 +1,3 @@
-###DEC-060111-0-000-23-01-1967@@@
-
 DECRETO Nº 60.111, DE 23 DE JANEIRO DE 1967.
 
 Declara a cessação de serviços de energia elétrica e outorga concessão para distribuição.

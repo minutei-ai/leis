@@ -1,5 +1,3 @@
-###DEL-004728-0-000-22-09-1942@@@
-
 DECRETO-LEI N. 4.728 – DE 22 DE SETEMBRO DE 1942
 
 Abre o crédito suplementar de 20:000$0 à dotação que especifica do Ministério da Viação e Obras Públicas

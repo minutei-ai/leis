@@ -1,5 +1,3 @@
-###DEC-089080-0-000-30-11-1983@@@
-
 Decreto nº 89.080, de 30 de novembro de 1983
 
 Outorga à Centrais Elétricas Matogrossenses S.A.-CEMAT concessão para o aproveitamento da energia hidráulica de um trecho do rio Jauru, no local denominado Salto da Fumaça, no Município de Jauru, Estado de Mato Grosso.

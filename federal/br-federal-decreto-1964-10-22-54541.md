@@ -1,5 +1,3 @@
-###DEC-054541-0-000-22-10-1964@@@
-
 DECRETO Nº 54.541, DE 22 DE OUTUBRO DE 1964.
 
 Concede à Associação Brasileira das Indústrias da Alimentação, com sede em São Paulo a prerrogativa da alínea d do artigo 513, da Consolidação das Leis do Trabalho.

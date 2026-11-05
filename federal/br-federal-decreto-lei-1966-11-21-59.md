@@ -1,5 +1,3 @@
-###DEL-000059-0-000-21-11-1966@@@
-
 DECRETO-LEI Nº 59, DE 21 DE NOVEMBRO DE 1966
 
 Define a política nacional de cooperativismo, cria o Conselho Nacional do Cooperativismo e dá outras Providências.
@@ -181,8 +179,6 @@ Eduardo Lopes Rodrigues
 Severo Fagundes Gomes
 
 Roberto Campos
-
-###DEL-000059-0-000-21-11-1966@@@RET01+++
 
 DECRETO-LEI Nº 59, DE 21 DE NOVEMBRO DE 1966
 

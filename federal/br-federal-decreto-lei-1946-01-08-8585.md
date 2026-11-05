@@ -1,5 +1,3 @@
-###DEL-008585-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.585 – DE 8 DE JANEIRO DE 1946
 
 Dispõe sôbre a adaptação dos serviços do ensino primário nos Estados, Territórios e Distrito Federal, à Lei Orgânica do Ensino Primário.

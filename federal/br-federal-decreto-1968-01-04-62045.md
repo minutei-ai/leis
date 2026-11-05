@@ -1,5 +1,3 @@
-###DEC-062045-0-000-04-01-1968@@@
-
 DECRETO Nº 62.045, de 4 de JANEIRO DE 1968.
 
 Autoriza o Ministério da Aeronáutica a aceitar doação de terreno em Figueira - Município de Viamão (RS).

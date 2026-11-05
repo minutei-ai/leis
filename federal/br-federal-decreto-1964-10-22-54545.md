@@ -1,5 +1,3 @@
-###DEC-054545-0-000-22-10-1964@@@
-
 DECRETO Nº 54.545, DE 22 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia de Mineração Rio Acima a pesquisar minério de ferro e de manganês, ocre, bauxita e argila, no município de Santa Bárbara, Estado de Minas Gerais.

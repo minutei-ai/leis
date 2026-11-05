@@ -1,5 +1,3 @@
-###DEC-002740-0-000-20-08-1998@@@
-
 DECRETO Nº 2.740, DE 20 DE AGOSTO DE 1998
 
 Promulga a Convenção Interamericana sobre Tráfico Internacional de Menores, assinada na Cidade do México em 18 de março de 1994.

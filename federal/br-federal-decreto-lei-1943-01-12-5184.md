@@ -1,5 +1,3 @@
-###DEL-005184-0-000-12-01-1943@@@
-
 DECRETO‑LEI N.  5.184 – DE 12 DE JANEIRO DE 1943
 
 Autorize assinatura de contrato com o Banco do Brasil para execução dos decretos‑leis na. 1.888, de 15 de dezembro de 1939, 2.071 e 2.238, de 7 de março e 28 de maio de 1940, e dá outras providencias

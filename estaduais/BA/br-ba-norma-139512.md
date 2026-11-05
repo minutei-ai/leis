@@ -1,6 +1,7 @@
 LEI Nº 14.284 DE 23 DE DEZEMBRO DE 2020
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [20.162](https://www.legislabahia.ba.gov.br/documentos/decreto-no-20162-de-28-de-dezembro-de-2020) de 28 de dezembro de 2020 - Prorroga o prazo de adesão aos benefícios da Lei nº 14.284, de 23 de dezembro de 2020.
 
 Dispõe sobre a remissão parcial e redução de multas e acréscimos moratórios de débitos tributários do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, relativos à glosa de créditos fiscais, na forma que especifica.

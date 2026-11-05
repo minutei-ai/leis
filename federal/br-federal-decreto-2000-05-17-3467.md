@@ -1,5 +1,3 @@
-###DEC-003467-0-000-17-05-2000@@@
-
 DECRETO Nº 3.467, DE 17 DE MAIO DE 2000.
 
 Promulga o Acordo entre a República Federativa do Brasil e a República Argentina para o Funcionamento do Centro Único de Fronteira São Borja-Santo Tomé, celebrado em Brasília, em 10 de novembro de 1997.
@@ -140,4 +138,20 @@ Cada uma das Partes notificará a outra o cumprimento das formalidades internas 
 
 Feito em Brasília, em 10 de novembro de 1997, em dois exemplares originais, nos idiomas, português e espanhol, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Header" style="text-indent:0pt; line-height:12pt"><span>Pelo Governo da República Federativa do Brasil</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Luiz Felipe Lampreia</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:195pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Argentina</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Guido di Tella</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Ministro das Relações Exteriores</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+Luiz Felipe Lampreia
+
+Ministro de Estado das Relações Exteriores
+
+</td><td style="width:195pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Argentina
+
+Guido di Tella
+
+Ministro das Relações Exteriores
+
+</td></tr></tbody></table>

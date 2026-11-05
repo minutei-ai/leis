@@ -1,5 +1,3 @@
-###DEC-061424-0-000-02-10-1967@@@
-
 DECRETO nº 61.424, DE 2 DE OUTUBRO DE 1967.
 
 Denomina “Presidente Castello Branco” a Casa de Fôrça da Usina Hidrelétrica da Boa Esperança.

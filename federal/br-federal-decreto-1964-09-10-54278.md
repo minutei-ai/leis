@@ -1,5 +1,3 @@
-###DEC-054278-0-000-10-09-1964@@@
-
 Decreto nº 54.278, de 10 de setembro de 1964.
 
 Concede autorização para o funcionamento do Curso de Psicologia da Faculdade de Filosofia, Ciências e Letras “Sedes Sapientiae”, agregada à Pontifícia Universidade Católica de São Paulo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095590-0-000-05-01-1988@@@
-
 DECRETO N° 95.590, DE 5 DE JANEIRO DE 1988
 
 Declara o ano de 1988 ANO DA CONSERVAÇÃO DE ENERGIA ELÉTRICA, e dá outras providências.

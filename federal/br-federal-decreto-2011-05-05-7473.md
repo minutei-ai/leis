@@ -1,5 +1,3 @@
-###DEC-007473-0-000-05-05-2011-PUB-01@@@
-
 DECRETO Nº 7.473, DE 5 DE MAIO DE 2011
 
 Altera o Decreto nº 5.123, de 1º de julho de 2004, que regulamenta a Lei nº 10.826, de 22 de dezembro de 2003, que dispõe sobre registro, posse e comercialização de armas de fogo e munição, sobre o Sistema Nacional de Armas - SINARM e define crimes.

@@ -37,5 +37,3 @@ Secretário de Planejamento e Administração
 RUBENS LEÃO DE LEMOS BARROSO
 
 Secretário de Governo e Relações Exteriores
-
-<br>

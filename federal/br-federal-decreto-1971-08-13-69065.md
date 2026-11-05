@@ -1,5 +1,3 @@
-###DEC-069065-0-000-13-08-1971@@@
-
 DECRETO Nº 69.065, de 13 de agôsto de 1971.
 
 Redistribui, com os respectivos ocupantes, cargos do Ministério da Agricultura para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

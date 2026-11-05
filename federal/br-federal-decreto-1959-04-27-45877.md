@@ -1,5 +1,3 @@
-###DEC-045877-0-000-27-04-1959@@@
-
 decreto nº 45.877, de 27 de abril de 1959.
 
 Autoriza estrangeira a adquirir, em transferência de aforamento, fração ideal do domínio útil do terreno de marinha, que menciona, no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEL-006971-0-000-19-10-1944@@@
-
 DECRETO-LEI N. 6.971 – DE 19 DE OUTUBRO DE 1944
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 250.000,00, para despesas com a representação do Brasil na posse do Presidente da República de Cuba

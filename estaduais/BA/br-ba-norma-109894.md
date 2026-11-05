@@ -1,15 +1,25 @@
 LEI Nº 8.631 DE 12 DE JUNHO DE 2003
 
-Ver também:<br>
-Lei nº [13.149](https://www.legislabahia.ba.gov.br/documentos/lei-no-13149-de-04-de-abril-de-2014#LO%2013.149) , de 04 de abril de 2014 - Altera a estrutura remuneratória dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, da Administração direta, autárquica e fundacional do Poder Executivo Estadual, na forma que indica, e dá outras providências.<br>
-Lei nº [12.818](javascript: openDoc\() , de 24 de maio de 2013 - Altera a estrutura remuneratória dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, da Administração direta, autárquica e fundacional do Poder Executivo Estadual, na forma que indica, e dá outras providências.<br>
-Lei nº [12.567](javascript: openDoc\() , de 08 de março de 2012 - Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos e gratificações dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências.<br>
-Lei nº [12.204](javascript: openDoc\() , Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos, soldos e gratificações dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências.<br>
-Lei nº [11.623](javascript: openDoc\() , de 30 de dezembro de 2009 - Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos, soldos e gratificações dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências.<br>
-Lei nº [11.380](javascript: openDoc\() , de 19 de fevereiro de 2009- Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos, soldos e gratificações dos cargos efetivos, dos cargos em comissão, das funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências. <br>
-Art. [17](javascript: openDoc\() da Lei nº 10.962, de 16 de abril de 2008: "Os cargos do Quadro Especial criado pelo art. 3º da Lei nº 8.631, de 12 de junho de 2003, cujos vencimentos básicos estejam fixados entre R$ 384,52 (trezentos e oitenta e quatro reais e cinqüenta e dois centavos) e R$ 394,36 (trezentos e noventa e quatro reais e trinta e seis centavos), passam a ter os vencimentos básicos estabelecidos no valor de R$ 397, 29 (trezentos e noventa e sete reais e vinte e nove centavos)."<br>
-Lei nº [10.558](javascript: openDoc\() , de 29 de maio de 2007 - Reajusta os vencimentos, soldos, gratificações, proventos e pensões, no âmbito da Administração direta, autárquica e fundacional do Poder Executivo, reestrutura os vencimentos das  carreiras que especifica, na forma que indica, e dá outras providências.<br>
-Art. [2º](javascript: openDoc\() da Lei nº 10.024, de 30 de março de 2006: "Ficam reajustados em 8% (oito por cento) os vencimentos dos servidores ocupantes de cargos de provimento efetivo integrantes dos Quadros Especiais da Universidade do Estado da Bahia - UNEB e da Secretaria da Administração - SAEB, criados nos termos do art. 3º da Lei Estadual nº 8.631, de 12 de junho de 2003."<br>
+Ver também:
+
+Lei nº [13.149](https://www.legislabahia.ba.gov.br/documentos/lei-no-13149-de-04-de-abril-de-2014#LO%2013.149) , de 04 de abril de 2014 - Altera a estrutura remuneratória dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, da Administração direta, autárquica e fundacional do Poder Executivo Estadual, na forma que indica, e dá outras providências.
+
+Lei nº [12.818](javascript: openDoc\() , de 24 de maio de 2013 - Altera a estrutura remuneratória dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, da Administração direta, autárquica e fundacional do Poder Executivo Estadual, na forma que indica, e dá outras providências.
+
+Lei nº [12.567](javascript: openDoc\() , de 08 de março de 2012 - Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos e gratificações dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências.
+
+Lei nº [12.204](javascript: openDoc\() , Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos, soldos e gratificações dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências.
+
+Lei nº [11.623](javascript: openDoc\() , de 30 de dezembro de 2009 - Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos, soldos e gratificações dos cargos efetivos, cargos em comissão, funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências.
+
+Lei nº [11.380](javascript: openDoc\() , de 19 de fevereiro de 2009- Altera a estrutura remuneratória dos cargos, funções comissionadas e gratificadas, reajusta os vencimentos, soldos e gratificações dos cargos efetivos, dos cargos em comissão, das funções comissionadas e gratificadas, proventos e pensões da Administração direta, autárquica e fundacional do Poder Executivo, na forma que indica, e dá outras providências. 
+
+Art. [17](javascript: openDoc\() da Lei nº 10.962, de 16 de abril de 2008: "Os cargos do Quadro Especial criado pelo art. 3º da Lei nº 8.631, de 12 de junho de 2003, cujos vencimentos básicos estejam fixados entre R$ 384,52 (trezentos e oitenta e quatro reais e cinqüenta e dois centavos) e R$ 394,36 (trezentos e noventa e quatro reais e trinta e seis centavos), passam a ter os vencimentos básicos estabelecidos no valor de R$ 397, 29 (trezentos e noventa e sete reais e vinte e nove centavos)."
+
+Lei nº [10.558](javascript: openDoc\() , de 29 de maio de 2007 - Reajusta os vencimentos, soldos, gratificações, proventos e pensões, no âmbito da Administração direta, autárquica e fundacional do Poder Executivo, reestrutura os vencimentos das  carreiras que especifica, na forma que indica, e dá outras providências.
+
+Art. [2º](javascript: openDoc\() da Lei nº 10.024, de 30 de março de 2006: "Ficam reajustados em 8% (oito por cento) os vencimentos dos servidores ocupantes de cargos de provimento efetivo integrantes dos Quadros Especiais da Universidade do Estado da Bahia - UNEB e da Secretaria da Administração - SAEB, criados nos termos do art. 3º da Lei Estadual nº 8.631, de 12 de junho de 2003."
+
 [Lei nº 9.834, de 05 de dezembro de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9834-de-05-de-dezembro-de-2005#LO_9_834) - Dispõe sobre a majoração de vencimentos dos servidores ocupantes dos cargos integrantes dos Quadros Especiais criados pela Lei nº 8.631 , de 12 de junho de 2003, oriundos da extinta Fundação Centro de Pesquisa e Desenvolvimento - CEPED, na forma que indica, e dá outras providências.
 
 Altera a estrutura organizacional e de cargos em comissão da Universidade do Estado da Bahia, determina o remanejamento dos cargos de provimento efetivo da extinta Fundação Centro de Pesquisa e Desenvolvimento - CEPED, e dá outras providências.
@@ -66,10 +76,482 @@ ANEXO I
 
 QUADRO ESPECIAL DA UNEB
 
-<table style="width: 321.7pt; margin-left: 75.5pt; border-collapse: collapse; border: none; mso-border-alt: solid black 1.5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="429" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 243.75pt; border: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 77.95pt; border: solid black 1.5pt; border-left: none; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>QUANTITATIVO</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span style="color: black;">ADMINISTRADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE LABORATÓRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>5</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE MANUTENÇÃO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE PEDREIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>12</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AMOSTRADOR PESQUEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ANALISTA DE SISTEMAS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ARQUITETO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE ADMINISTRATIVO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE DE SERVICOS GERAIS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE DE VENDAS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR ADMINISTRATIVO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE BIBLIOTECA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE CONTABILIDADE</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE CONTROLE PROJETO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE CUSTOS E ORÇAMENTO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE LABORATÓRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE MATERIAIS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE RECURSOS HUMANOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE SEGURANÇA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE SUPRIMENTOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE TESOURARIA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR FINANCEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>BIBLIOTECÁRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>BIÓLOGO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>DESENHISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>DESENHISTA PROJETISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>DIGITADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENCANADOR INDUSTRIAL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO CIVIL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO CIVIL SANITÁRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO DE MINAS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO DE PESCA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO MECÂNICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO QUÍMICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>GEÓLOGO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>JORNALISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>LABORATORISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>31</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>MECÂNICO AUXILIAR DE AUTOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>MÉDICO DO TRABALHO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>MEIO OFICIAL DE MECÂNICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>MOTORISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>6</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL DE CARPINTEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL DE ELETRICISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL ELETROMECÂNICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL MECÂNICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OPERADOR DE MICRO COMPUTADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PEDREIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PINTOR DE AUTOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PINTOR INDUSTRIAL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PROGRAMADOR DE COMPUTADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 14.25pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span style=" color: black;">PSICÓLOGO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>QUÍMICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SECRETÁRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>8</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SERVENTE DE ÁREAS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SERVENTE DE LIMPEZA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SOCIOLOGO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SOLDADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>TÉCNICO EM LABORATÓRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>TÉCNICO MECÂNICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>TÉCNICO SUPERVISOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>VIDREIRO GRAVADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 15.35pt;" valign="top" width="325"><p class="Tabela-Texto"><span style=" color: black;">TOTAL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt; height: 15.35pt;" valign="top" width="104"><p class="Tabela-Texto"><span>184</span></p></td></tr></tbody></table>
+CARGO
+
+QUANTITATIVO
+
+ADMINISTRADOR
+
+2
+
+AJUDANTE DE LABORATÓRIO
+
+5
+
+AJUDANTE DE MANUTENÇÃO
+
+1
+
+AJUDANTE DE PEDREIRO
+
+12
+
+AMOSTRADOR PESQUEIRO
+
+3
+
+ANALISTA DE SISTEMAS
+
+2
+
+ARQUITETO
+
+1
+
+ASSISTENTE ADMINISTRATIVO
+
+1
+
+ASSISTENTE DE SERVICOS GERAIS
+
+2
+
+ASSISTENTE DE VENDAS
+
+1
+
+AUXILIAR ADMINISTRATIVO
+
+8
+
+AUXILIAR DE BIBLIOTECA
+
+2
+
+AUXILIAR DE CONTABILIDADE
+
+2
+
+AUXILIAR DE CONTROLE PROJETO
+
+3
+
+AUXILIAR DE CUSTOS E ORÇAMENTO
+
+1
+
+AUXILIAR DE LABORATÓRIO
+
+1
+
+AUXILIAR DE MATERIAIS
+
+9
+
+AUXILIAR DE RECURSOS HUMANOS
+
+4
+
+AUXILIAR DE SEGURANÇA
+
+3
+
+AUXILIAR DE SUPRIMENTOS
+
+1
+
+AUXILIAR DE TESOURARIA
+
+1
+
+AUXILIAR FINANCEIRO
+
+3
+
+BIBLIOTECÁRIO
+
+1
+
+BIÓLOGO
+
+2
+
+DESENHISTA
+
+2
+
+DESENHISTA PROJETISTA
+
+1
+
+DIGITADOR
+
+2
+
+ENCANADOR INDUSTRIAL
+
+1
+
+ENGENHEIRO CIVIL
+
+8
+
+ENGENHEIRO CIVIL SANITÁRIO
+
+1
+
+ENGENHEIRO DE MINAS
+
+4
+
+ENGENHEIRO DE PESCA
+
+1
+
+ENGENHEIRO MECÂNICO
+
+4
+
+ENGENHEIRO QUÍMICO
+
+2
+
+GEÓLOGO
+
+2
+
+JORNALISTA
+
+1
+
+LABORATORISTA
+
+31
+
+MECÂNICO AUXILIAR DE AUTOS
+
+1
+
+MÉDICO DO TRABALHO
+
+1
+
+MEIO OFICIAL DE MECÂNICO
+
+1
+
+MOTORISTA
+
+6
+
+OFICIAL DE CARPINTEIRO
+
+1
+
+OFICIAL DE ELETRICISTA
+
+1
+
+OFICIAL ELETROMECÂNICO
+
+1
+
+OFICIAL MECÂNICO
+
+4
+
+OPERADOR DE MICRO COMPUTADOR
+
+1
+
+PEDREIRO
+
+2
+
+PINTOR DE AUTOS
+
+1
+
+PINTOR INDUSTRIAL
+
+1
+
+PROGRAMADOR DE COMPUTADOR
+
+1
+
+PSICÓLOGO
+
+1
+
+QUÍMICO
+
+3
+
+SECRETÁRIO
+
+8
+
+SERVENTE DE ÁREAS
+
+2
+
+SERVENTE DE LIMPEZA
+
+1
+
+SOCIOLOGO
+
+2
+
+SOLDADOR
+
+1
+
+TÉCNICO EM LABORATÓRIO
+
+7
+
+TÉCNICO MECÂNICO
+
+2
+
+TÉCNICO SUPERVISOR
+
+3
+
+VIDREIRO GRAVADOR
+
+1
+
+TOTAL
+
+184
 
 ANEXO II
 
 QUADRO ESPECIAL DA SAEB
 
-<table style="width: 321.7pt; margin-left: 75.5pt; border-collapse: collapse; border: none; mso-border-alt: solid black 1.5pt; mso-padding-alt: 0in 3.5pt 0in 3.5pt;" width="429" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 243.75pt; border: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>CARGO</span></p></td><td style="width: 77.95pt; border: solid black 1.5pt; border-left: none; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>QUANTITATIVO</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span style="color: black;">ADMINISTRADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE JARDINEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE LABORATÓRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE MANUTENÇÃO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AJUDANTE DE PEDREIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AMOSTRADOR PESQUEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ARQUITETO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ARQUIVISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE ADMINISTRATIVO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE DE SERVICOS GERAIS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE DE SUPRIMENTOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE SOCIAL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ASSISTENTE TÉCNICO GRÁFICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR ADMINISTRATIVO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE CONTROLE PROJETO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE CUSTOS E ORÇAMENTO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE LABORATÓRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>4</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE MATERIAIS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE RECURSOS HUMANOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR DE SUPRIMENTOS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>AUXILIAR FINANCEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>CHAPISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>DATILÓGRAFO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>DESENHISTA PROJETISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENCANADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO CIVIL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO DE MINAS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO MECÂNICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>ENGENHEIRO QUÍMICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>FARMACÊUTICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>JARDINEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>LABORATORISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>MESTRE DE MANUTENÇÃO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>MOTORISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>5</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL DE CARPINTEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL DE ELETRICISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OFICIAL DE MARCENEIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OPERADOR DE MICRO COMPUTADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OPERADOR DE TELEX</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>OPERADOR DE TRATOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PEDAGOGO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PEDREIRO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PINTOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PROGRAMADOR DE COMPUTADOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>PROJETISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>QUÍMICO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>2</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>QUÍMICO ANALISTA INDUSTRIAL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SECRETÁRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>7</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SERVENTE DE ÁREAS</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SERVENTE DE LIMPEZA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>3</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>SOCIOLOGO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>TÉCNICO EM LABORATÓRIO</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>9</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>TÉCNICO PROJETISTA</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span>TÉCNICO SUPERVISOR</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>1</span></p></td></tr><tr><td style="width: 243.75pt; border: solid black 1.5pt; border-top: none; mso-border-top-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="325"><p class="Tabela-Texto"><span style="color: black;">TOTAL</span></p></td><td style="width: 77.95pt; border-top: none; border-left: none; border-bottom: solid black 1.5pt; border-right: solid black 1.5pt; mso-border-top-alt: solid black 1.5pt; mso-border-left-alt: solid black 1.5pt; padding: 0in 3.5pt 0in 3.5pt;" valign="top" width="104"><p class="Tabela-Texto"><span>105</span></p></td></tr></tbody></table>
+CARGO
+
+QUANTITATIVO
+
+ADMINISTRADOR
+
+1
+
+AJUDANTE DE JARDINEIRO
+
+1
+
+AJUDANTE DE LABORATÓRIO
+
+2
+
+AJUDANTE DE MANUTENÇÃO
+
+1
+
+AJUDANTE DE PEDREIRO
+
+1
+
+AMOSTRADOR PESQUEIRO
+
+2
+
+ARQUITETO
+
+2
+
+ARQUIVISTA
+
+1
+
+ASSISTENTE ADMINISTRATIVO
+
+1
+
+ASSISTENTE DE SERVICOS GERAIS
+
+2
+
+ASSISTENTE DE SUPRIMENTOS
+
+1
+
+ASSISTENTE SOCIAL
+
+2
+
+ASSISTENTE TÉCNICO GRÁFICO
+
+1
+
+AUXILIAR ADMINISTRATIVO
+
+4
+
+AUXILIAR DE CONTROLE PROJETO
+
+1
+
+AUXILIAR DE CUSTOS E ORÇAMENTO
+
+1
+
+AUXILIAR DE LABORATÓRIO
+
+4
+
+AUXILIAR DE MATERIAIS
+
+3
+
+AUXILIAR DE RECURSOS HUMANOS
+
+1
+
+AUXILIAR DE SUPRIMENTOS
+
+1
+
+AUXILIAR FINANCEIRO
+
+1
+
+CHAPISTA
+
+2
+
+DATILÓGRAFO
+
+1
+
+DESENHISTA PROJETISTA
+
+1
+
+ENCANADOR
+
+1
+
+ENGENHEIRO CIVIL
+
+2
+
+ENGENHEIRO DE MINAS
+
+1
+
+ENGENHEIRO MECÂNICO
+
+1
+
+ENGENHEIRO QUÍMICO
+
+1
+
+FARMACÊUTICO
+
+1
+
+JARDINEIRO
+
+1
+
+LABORATORISTA
+
+9
+
+MESTRE DE MANUTENÇÃO
+
+1
+
+MOTORISTA
+
+5
+
+OFICIAL DE CARPINTEIRO
+
+2
+
+OFICIAL DE ELETRICISTA
+
+1
+
+OFICIAL DE MARCENEIRO
+
+1
+
+OPERADOR DE MICRO COMPUTADOR
+
+2
+
+OPERADOR DE TELEX
+
+1
+
+OPERADOR DE TRATOR
+
+1
+
+PEDAGOGO
+
+1
+
+PEDREIRO
+
+2
+
+PINTOR
+
+1
+
+PROGRAMADOR DE COMPUTADOR
+
+1
+
+PROJETISTA
+
+3
+
+QUÍMICO
+
+2
+
+QUÍMICO ANALISTA INDUSTRIAL
+
+1
+
+SECRETÁRIO
+
+7
+
+SERVENTE DE ÁREAS
+
+3
+
+SERVENTE DE LIMPEZA
+
+3
+
+SOCIOLOGO
+
+1
+
+TÉCNICO EM LABORATÓRIO
+
+9
+
+TÉCNICO PROJETISTA
+
+1
+
+TÉCNICO SUPERVISOR
+
+1
+
+TOTAL
+
+105

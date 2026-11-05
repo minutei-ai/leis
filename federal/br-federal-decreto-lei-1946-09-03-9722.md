@@ -1,5 +1,3 @@
-###DEL-009722-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.722 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 1.639.000,00, à verba que especifica.

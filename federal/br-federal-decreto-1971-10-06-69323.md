@@ -1,5 +1,3 @@
-###DEC-069323-0-000-06-10-1971@@@
-
 DECRETO Nº 69.323, DE 6 OUTUBRO DE 1971.
 
 Autoriza o funcionamento da Faculdade de Ciências Econômicas, Contábeis e Administrativas da Região Bragantina, em Bragança Paulista S.P.

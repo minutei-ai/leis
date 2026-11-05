@@ -1,5 +1,3 @@
-###DEC-094748-0-000-10-08-1987@@@
-
 DECRETO Nº 94.748, DE 10 DE AGOSTO DE 1987.
 
 Revoga o Decreto nº 76.767, de 11 de dezembro de 1975, que aprovou o Regulamento da Diretoria de Aeronáutica da Marinha.

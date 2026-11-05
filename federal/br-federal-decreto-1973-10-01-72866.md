@@ -1,5 +1,3 @@
-###DEC-072866-0-000-01-10-1973@@@
-
 DECRETO Nº 72.866, DE 1 DE OUTUBRO DE 1973.
 
 Torna sem efeito aproveitamento de disponível a cassa a disponibilidade do mesmo.

@@ -1,5 +1,3 @@
-###DEC-000193-0-000-21-08-1991@@@
-
 DECRETO Nº 193, DE 21 DE AGOSTO DE 1991
 
 Regulamenta o Fundo Nacional de Desenvolvimento (FND), criado pelo Decreto-Lei nº 2.288, de 23 de julho de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-074447-0-000-21-08-1974@@@
-
 DECRETO Nº 74.447 - DE 21 DE AGOSTO DE 1974.
 
 Declara de interesse social, para fins de desapropriação, imóveis rurais situados nos Municípios de Vargem Bonita, Sacramento e São Roque de Minas, compreendidos na área prioritária de emergência, para fins de Reforma Agrária, de que trata o Decreto nº 74.446, de 21 de agosto de 1974.

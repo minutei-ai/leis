@@ -1,5 +1,3 @@
-###DEL-003990-0-000-30-12-1941@@@
-
 DECRETO-LEI N. 3.990 – DE 30 DE DEZEMBRO DE 1941
 
 Abre ao Ministério da Educação e Saude o crédito especial de 19:034$9, para liquidação de despesas efetuadas com a Embaixada de Doutorandos da Faculdade de Medicina de Porto Alegre.

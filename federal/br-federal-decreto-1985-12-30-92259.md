@@ -1,5 +1,3 @@
-###DEC-092259-0-000-30-12-1985@@@
-
 DECRETO Nº 92.259, DE 30 DE DEZEMBRO DE 1985
 
 Autoriza o funcionamento do curso de Psicologia da Faculdade de Ciências Médicas e Paramédicas Fluminense.

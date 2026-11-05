@@ -1,5 +1,3 @@
-###MPV-000474-0-000-23-12-2009@@@
-
 MEDIDA PROVISÓRIA Nº 474, DE 23 DE DEZEMBRO DE 2009.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:

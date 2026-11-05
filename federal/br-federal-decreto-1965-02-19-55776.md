@@ -1,5 +1,3 @@
-###DEC-055776-0-000-19-02-1965@@@
-
 DECRETO Nº 55.776, DE 19 DE FEVEREIRO DE 1965.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer taxas e impostos federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à “USINA SÃO JOSÉ S/A”, de Igarassu, Estado de Pernambuco.
@@ -16,7 +14,375 @@ Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito
 
 EQUIPAMENTOS PARA UM SISTEMA DE IRRIGAÇÃO POR ASPERSÃO TIPO ABC-AMES
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Item – Especificação</span></p></td><td style="width:99.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:88.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF-US$</span></p></td></tr><tr><td style="width:230.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1. Cano de alumínio, laminado, referência 150, apropriado para engate rápido e flexível, por meio de coplas e gaxeta, de vedação; 20’ de comprimento, 7” de diâmetro e 0,64” de espessura .</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2. Cano de alumínio, laminado, referência 150, apropriado para engate rápido e flexível, por meio de coplas e gaxetas de vedação; 20’ de comprimento, 6” de diâmetro e 0,58” de espessura</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3. Cano de alumínio, laminado, referência 150, apropriado para engate rápido e flexível, por meio de coplas e gaxetas de vedação; 20’ de comprimento, 4” de diâmetro e 0,50” de espessura</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>4. Copla de alumínio, “fêmea”, tipo LH-X, adaptável em cano de 7”, para engate rápido e flexível; dimensão de 7” de diâmetro ....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5. Copla de alumínio, “macho”, tipo LH-E, adaptável em cano de 7”, para engate rápido e flexível; dimensão de 7” de diâmetro ....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>6. Copla de alumínio, “fêmea”, tipo LH-X, adaptável em cano de 6”, para engate rápido e flexível; dimensão de 6” de diâmetro ....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>7. Copla de alumínio, “macho” tipo LH-E, adaptável, em cano de 6”, para engate rápido, e flexível; dimensão de 6” de diâmetro ....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>8. Copla de alumínio, “fêmea”, tipo ABC-X, adaptável em cano de 4”, para engate rápido e flexível; dimensão de 4” de diâmetro .......................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>9. Copla de alumínio, “macho”, tipo ABC-E, adaptável em cano de 4”, para engate rápido e flexível; dimensão de 4” de diâmetro .......................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>10. Copla de alumínio, “fêmea”, com suporte de saída, tipo ABC-XRO, 1 1/4”, adaptável em cano de 4”, para engate rápido e flexível; dimensão de 4” de diâmetro ...................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>11. Válvula Hidrante, de alumínio para cano de 7”, reforçada, provida de vedação rápida, tipo LH-VTS; dimensão: 7” X 6” .....................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>12. Válvula Hidrante, de alumínio, para cano de 6”, acoplamento rápido, provida de gaxeta de vedação, tipo LH-VTH; dimensão de 6” x 4” ...........................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>13. Válvula de alumínio, em linha, tipo LH-VILP, reforçada, com comando externo, e obturador de Borboleta, acoplamento rápido; dimensão tipo 6” de diâmetros ..................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>14. Curva de alumínio, em 90º’ tipo LH-NL, acoplamento rápido e gaxeta de vedação; dimensão de 6” de diâmetro .....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>15. Curva de alumínio, em 90º” tipo LH-NL, acoplamento rápido e gaxeta de vedação; dimensão de 7” de diâmetro .....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>16. Bujão de alumínio, tipo LH-W, de 7” de diâmetro ...................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>17. Bujão de alumínio, tipo LH-W, de 6” de diâmetro....................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>18. Anel de alumínio, tipo LH-RL, destinado a manter os canos acoplados sob alta pressão; dimensão de 7” de diâmetro ....................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>19. Anel de alumínio, tipo LH-RL, destinado a manter os canos acoplados sob alta pressão; dimensão de 6” de diâmetro ...................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>20. curva de alumínio, em 90º, tipo ABC-NL; dimensão de 4” de diâmetro ...................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>21. Bujão de alumínio, tipo ABC-W, de 4” de diâmetro ...................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>22. Sangrador para contrôle de alumínio, tipo ABC-ONL, em 90º, dimensão de 4” de diâmetro .............</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>23. Cano para sustentação de aspersores, tipo IPS-R; dimensões: 6” de comprimento e 1-1/4” x 72” de diâmetro ...................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>24. Cano para sustentação de aspersores, tipo IPS-R; dimensões: 9” de comprimento e 1-1/4” x 108” de diâmetro ..............................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>25. Cano para sustentação de aspersores, tipo IPS-R; dimensões: 12” de comprimento e 1-1/4” x 144” de diâmetro...............................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>26. Válvula de bronze, destinada a interromper o fluxo da água com 1-1/4”de diâmetro ......................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>27. Bujão rosqueado de alumínio, tipo IPS-E e com 1-1/4” de diâmetro ...................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>28. Ponta de cano (acoplador) de alumínio, tipo IPS-X, com 1-1/4” de diâmetro ................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>29. Conjunto “macho” e “fêmea” de alumínio, tipo </span><span style="font-style:italic">DIXON</span><span> </span><span style="font-style:italic">AIRKING</span><span>, destinado a instalação e retirada de aspersores, e com 1-1/4” de diâmetro ................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>30. Tripé para sustentação de aspersoers, com hastes de 6’ de comprimento e 1-1/4” x 72” de diâmetro ...................................................................</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>31. Aspersores, tipo 80 B-TNT, pressão de 50 PSI, distância a atingir de 24 metros e dimensões de 13/32” x 7/32” ...........................................................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL .....................................................................</span></p></td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>463</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>403</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>224</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>463</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>463</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>403</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>403</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>160</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>224</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>12</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>65</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>12</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>480</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>495</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>6</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>16</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>128</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>128</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>64</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>9.312</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5.851</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.759</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.152</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.573</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.729</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.153</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>787</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>481</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>372</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>916</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2.065</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>582</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>44</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>61</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>18</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>15</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.814</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.770</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>30</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>34</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>482</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>327</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>432</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>562</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>235</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>39</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>30</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>536</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.079</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>1.157</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="text-decoration:underline">37.397</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Item – Especificação
+
+</td><td style="width:99.3pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Quantidade a ser importada
+
+</td><td style="width:88.65pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+Valor Total
+
+CIF-US$
+
+</td></tr><tr><td style="width:230.4pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+1. Cano de alumínio, laminado, referência 150, apropriado para engate rápido e flexível, por meio de coplas e gaxeta, de vedação; 20’ de comprimento, 7” de diâmetro e 0,64” de espessura .
+
+2. Cano de alumínio, laminado, referência 150, apropriado para engate rápido e flexível, por meio de coplas e gaxetas de vedação; 20’ de comprimento, 6” de diâmetro e 0,58” de espessura
+
+3. Cano de alumínio, laminado, referência 150, apropriado para engate rápido e flexível, por meio de coplas e gaxetas de vedação; 20’ de comprimento, 4” de diâmetro e 0,50” de espessura
+
+4. Copla de alumínio, “fêmea”, tipo LH-X, adaptável em cano de 7”, para engate rápido e flexível; dimensão de 7” de diâmetro ....................................
+
+5. Copla de alumínio, “macho”, tipo LH-E, adaptável em cano de 7”, para engate rápido e flexível; dimensão de 7” de diâmetro ....................................
+
+6. Copla de alumínio, “fêmea”, tipo LH-X, adaptável em cano de 6”, para engate rápido e flexível; dimensão de 6” de diâmetro ....................................
+
+7. Copla de alumínio, “macho” tipo LH-E, adaptável, em cano de 6”, para engate rápido, e flexível; dimensão de 6” de diâmetro ....................................
+
+8. Copla de alumínio, “fêmea”, tipo ABC-X, adaptável em cano de 4”, para engate rápido e flexível; dimensão de 4” de diâmetro .......................
+
+9. Copla de alumínio, “macho”, tipo ABC-E, adaptável em cano de 4”, para engate rápido e flexível; dimensão de 4” de diâmetro .......................
+
+10. Copla de alumínio, “fêmea”, com suporte de saída, tipo ABC-XRO, 1 1/4”, adaptável em cano de 4”, para engate rápido e flexível; dimensão de 4” de diâmetro ...................................................................
+
+11. Válvula Hidrante, de alumínio para cano de 7”, reforçada, provida de vedação rápida, tipo LH-VTS; dimensão: 7” X 6” .....................................................
+
+12. Válvula Hidrante, de alumínio, para cano de 6”, acoplamento rápido, provida de gaxeta de vedação, tipo LH-VTH; dimensão de 6” x 4” ...........................
+
+13. Válvula de alumínio, em linha, tipo LH-VILP, reforçada, com comando externo, e obturador de Borboleta, acoplamento rápido; dimensão tipo 6” de diâmetros ..................................................................
+
+14. Curva de alumínio, em 90º’ tipo LH-NL, acoplamento rápido e gaxeta de vedação; dimensão de 6” de diâmetro .....................................
+
+15. Curva de alumínio, em 90º” tipo LH-NL, acoplamento rápido e gaxeta de vedação; dimensão de 7” de diâmetro .....................................
+
+16. Bujão de alumínio, tipo LH-W, de 7” de diâmetro ...................................................................
+
+17. Bujão de alumínio, tipo LH-W, de 6” de diâmetro....................................................................
+
+18. Anel de alumínio, tipo LH-RL, destinado a manter os canos acoplados sob alta pressão; dimensão de 7” de diâmetro ....................................
+
+19. Anel de alumínio, tipo LH-RL, destinado a manter os canos acoplados sob alta pressão; dimensão de 6” de diâmetro ...................................
+
+20. curva de alumínio, em 90º, tipo ABC-NL; dimensão de 4” de diâmetro ...................................
+
+21. Bujão de alumínio, tipo ABC-W, de 4” de diâmetro ...................................................................
+
+22. Sangrador para contrôle de alumínio, tipo ABC-ONL, em 90º, dimensão de 4” de diâmetro .............
+
+23. Cano para sustentação de aspersores, tipo IPS-R; dimensões: 6” de comprimento e 1-1/4” x 72” de diâmetro ...................................................................
+
+24. Cano para sustentação de aspersores, tipo IPS-R; dimensões: 9” de comprimento e 1-1/4” x 108” de diâmetro ..............................................................
+
+25. Cano para sustentação de aspersores, tipo IPS-R; dimensões: 12” de comprimento e 1-1/4” x 144” de diâmetro...............................................................
+
+26. Válvula de bronze, destinada a interromper o fluxo da água com 1-1/4”de diâmetro ......................
+
+27. Bujão rosqueado de alumínio, tipo IPS-E e com 1-1/4” de diâmetro ...................................................
+
+28. Ponta de cano (acoplador) de alumínio, tipo IPS-X, com 1-1/4” de diâmetro ................................
+
+29. Conjunto “macho” e “fêmea” de alumínio, tipo DIXON AIRKING, destinado a instalação e retirada de aspersores, e com 1-1/4” de diâmetro ................
+
+30. Tripé para sustentação de aspersoers, com hastes de 6’ de comprimento e 1-1/4” x 72” de diâmetro ...................................................................
+
+31. Aspersores, tipo 80 B-TNT, pressão de 50 PSI, distância a atingir de 24 metros e dimensões de 13/32” x 7/32” ...........................................................
+
+TOTAL .....................................................................
+
+</td><td style="width:99.3pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+&nbsp;
+
+&nbsp;
+
+463
+
+&nbsp;
+
+&nbsp;
+
+403
+
+&nbsp;
+
+&nbsp;
+
+224
+
+&nbsp;
+
+463
+
+&nbsp;
+
+&nbsp;
+
+463
+
+&nbsp;
+
+403
+
+&nbsp;
+
+403
+
+&nbsp;
+
+&nbsp;
+
+160
+
+&nbsp;
+
+224
+
+&nbsp;
+
+&nbsp;
+
+64
+
+&nbsp;
+
+12
+
+&nbsp;
+
+&nbsp;
+
+65
+
+&nbsp;
+
+&nbsp;
+
+12
+
+&nbsp;
+
+2
+
+&nbsp;
+
+2
+
+&nbsp;
+
+2
+
+&nbsp;
+
+2
+
+&nbsp;
+
+480
+
+&nbsp;
+
+&nbsp;
+
+495
+
+2
+
+&nbsp;
+
+6
+
+16
+
+&nbsp;
+
+&nbsp;
+
+64
+
+&nbsp;
+
+64
+
+&nbsp;
+
+64
+
+&nbsp;
+
+64
+
+&nbsp;
+
+128
+
+&nbsp;
+
+64
+
+&nbsp;
+
+128
+
+&nbsp;
+
+64
+
+&nbsp;
+
+64
+
+-
+
+</td><td style="width:88.65pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top">
+
+&nbsp;
+
+&nbsp;
+
+9.312
+
+&nbsp;
+
+&nbsp;
+
+5.851
+
+&nbsp;
+
+&nbsp;
+
+1.759
+
+&nbsp;
+
+2.152
+
+&nbsp;
+
+&nbsp;
+
+1.573
+
+&nbsp;
+
+1.729
+
+&nbsp;
+
+1.153
+
+&nbsp;
+
+&nbsp;
+
+787
+
+&nbsp;
+
+481
+
+&nbsp;
+
+&nbsp;
+
+372
+
+&nbsp;
+
+916
+
+&nbsp;
+
+&nbsp;
+
+2.065
+
+&nbsp;
+
+&nbsp;
+
+582
+
+&nbsp;
+
+44
+
+&nbsp;
+
+61
+
+&nbsp;
+
+18
+
+&nbsp;
+
+15
+
+&nbsp;
+
+1.814
+
+&nbsp;
+
+&nbsp;
+
+1.770
+
+30
+
+&nbsp;
+
+34
+
+482
+
+&nbsp;
+
+&nbsp;
+
+327
+
+&nbsp;
+
+432
+
+&nbsp;
+
+562
+
+&nbsp;
+
+235
+
+&nbsp;
+
+39
+
+&nbsp;
+
+30
+
+&nbsp;
+
+536
+
+&nbsp;
+
+1.079
+
+&nbsp;
+
+1.157
+
+37.397
+
+</td></tr></tbody></table>
 
 Art. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

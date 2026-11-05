@@ -1,5 +1,3 @@
-###DEC-078473-0-000-28-09-1976@@@
-
 DECRETO Nº 78.473, DE 28 DE SETEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-083100-0-000-29-01-1979@@@
-
 DECRETO Nº 83.100, DE 29 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Psicologia da Universidade Federal do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

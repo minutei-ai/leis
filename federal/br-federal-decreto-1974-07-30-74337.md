@@ -1,5 +1,3 @@
-###DEC-074337-0-000-30-07-1974@@@
-
 DECRETO Nº 74.337 - DE 30 DE JULHO DE 1974.
 
 Cancela autorização para funcionamento no Brasil da The Yorkshire Insurance Company Limited.

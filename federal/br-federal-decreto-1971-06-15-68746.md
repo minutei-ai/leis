@@ -1,5 +1,3 @@
-###DEC-068746-0-000-15-06-1971@@@
-
 DECRETO Nº 68.746 - DE 15 DE JUNHO DE 1971.
 
 Aproveita servidor em disponibilidade e dá outras providências.

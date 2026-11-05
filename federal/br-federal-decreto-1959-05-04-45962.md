@@ -1,5 +1,3 @@
-###DEC-045962-0-000-04-05-1959@@@
-
 DECRETO Nº 45.962, DE 4 DE MAIO DE 1958.
 
 Cria uma Embaixada do Brasil no Vietnam do Sul.

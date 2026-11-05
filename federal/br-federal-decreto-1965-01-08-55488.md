@@ -1,5 +1,3 @@
-###DEC-055488-0-000-08-01-1965@@@
-
 DECRETO Nº 55.488, DE 8 DE JANEIRO DE 1965.
 
 Fixa normas para a execução do disposto no parágrafo 6º, do art. 15 e letra d do inciso II, do art. 13, da Lei nº 4.452, de 5 de novembro de 1964.

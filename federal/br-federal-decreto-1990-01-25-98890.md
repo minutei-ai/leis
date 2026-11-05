@@ -1,7 +1,3 @@
-1
-
-###DEC-098890-0-000-25-01-1990@@@
-
 DECRETO Nº 98.890, DE 25 DE JANEIRO DE 1990
 
 Dispõe sobre área de exercício de atividade de garimpagem, na Gleba Uraricaá Santa Rosa, no Estado de Roraima

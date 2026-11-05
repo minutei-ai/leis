@@ -1,5 +1,3 @@
-###DEL-007254-0-000-18-01-1945@@@
-
 DECRETO-LEI N. 7.254 – DE 18 DE JANEIRO DE 1945
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$ 17.400.000,00, para despesas com a construção da ponte internacional sôbre o rio Uruguai

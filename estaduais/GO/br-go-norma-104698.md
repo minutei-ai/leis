@@ -48,8 +48,6 @@ Art. 8º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 20 de dezembro de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -58,7 +56,8 @@ ANEXO I
 
 "Indicação das alterações introduzidas na tabela de cargos de que trata o Anexo VIII da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações."
 
-"ANEXO VIII<br>
+"ANEXO VIII
+
 Tabela de cargos área judiciária
 
 | Área Judiciária |
@@ -99,7 +98,8 @@ ANEXO II
 
 "Indicação das alterações introduzidas na tabela de cargos da área especializada de que trata o Anexo IX da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações."
 
- "ANEXO IX<br>
+ "ANEXO IX
+
 Tabela de cargos da área especializada
 
 |
@@ -167,7 +167,8 @@ ANEXO III
 
 "Indicação das alterações introduzidas na tabela de cargos de que trata o Anexo IX da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações."
 
- "ANEXO IX<br>
+ "ANEXO IX
+
 Tabela de cargos da área apoio judiciário e administrativo
 
 | Cargo | Especialidade/Formação | Quantidade prevista |
@@ -185,7 +186,8 @@ ANEXO IV
 
 "Indicação das alterações introduzidas no quadro de cargos em comissão de que trata o Anexo XII da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações."
 
- "Anexo XII<br>
+ "Anexo XII
+
 Quantitativo de cargos em comissão
 
 | Descrição | DAE | Quantidade prevista | Vencimento |
@@ -207,7 +209,8 @@ ANEXO V
 
 "Indicação das alterações introduzidas no quadro analítico dos cargos em comissão de que trata o Anexo XIII da [Lei nº 17.663](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89655/lei-17663), de 14 de junho de 2012, e posteriores alterações."
 
-"Anexo XIII<br>
+"Anexo XIII
+
 Quadro Analítico dos Cargos em Comissão
 
 | SÍMBOLO | QUANT. |

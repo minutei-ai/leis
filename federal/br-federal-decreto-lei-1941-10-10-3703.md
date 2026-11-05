@@ -1,5 +1,3 @@
-###DEL-003703-0-000-10-10-1941@@@
-
 DECRETO-LEI N. 3.703 – DE 10 DE OUTUBRO DE 1941
 
 Prorroga o prazo de que trata o decreto-lei nº 3.374, de 26 de junho de 1941

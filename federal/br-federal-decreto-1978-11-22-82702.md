@@ -1,5 +1,3 @@
-###DEC-082702-0-000-22-11-1978@@@
-
 DECRETO Nº 82.702, de 22 DE NOVEMBRO DE 1978.
 
 Concede reconhecimento ao curso de Turismo, da Faculdade Niteroiense de Educação, Letras e Turismo, com sede na cidade de Niterói, Estado do Rio de Janeiro.

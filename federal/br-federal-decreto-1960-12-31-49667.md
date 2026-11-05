@@ -1,5 +1,3 @@
-###DEC-049667-0-000-31-12-1960@@@
-
 Decreto nº 49.667, de 31 de dezembro de 1960.
 
 Concede à Mineração Santa helena Limitada, autorização para funcionar como emprêsa de mineração.

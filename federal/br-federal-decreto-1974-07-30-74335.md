@@ -1,5 +1,3 @@
-###DEC-074335-0-000-30-07-1974@@@
-
 DECRETO Nº 74.335 - DE 30 DE JUlhO DE 1974.
 
 Concede reconhecimento ao curso de Ciências Econômicas da Faculdade de Ciências Econômicas da Região dos Vinhedos, mantida pela Fundação Educacional da Região dos Vinhedos, com sede na cidade de Bento Gonçalves, Estado do Rio Grande do Sul.

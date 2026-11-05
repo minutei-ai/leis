@@ -1,7 +1,3 @@
-1
-
-###DEC-085810-0-000-13-03-1981@@@
-
 Decreto Nº 85.810, de 13 de março de 1981.
 
 Autoriza o funcionamento do Curso de Tecnólogo em Mecânica, das Faculdades Integradas de Cruzeiro, com sede na cidade de Cruzeiro, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000628-0-000-13-06-1969@@@
-
 DECREto-LEI Nº 628, dE 13 dE JUNHO dE 1969
 
 Dispõe sôbre a situação de servidores públicos federais aposentados com fundamento na prestação de serviço em zona de guerra.

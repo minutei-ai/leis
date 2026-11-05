@@ -1,5 +1,3 @@
-###LEI-000000-0-001-25-09-1828@@@
-
 LEI - DE 25 DE SETEMBRO DE 1828
 
 Da destino aos Officiaes da extincta imperial brigada de marinha excedente do estado completo do actual corpo de artilharia de marinha, e marca as gratificações que competem aos Officiaes deste corpo.

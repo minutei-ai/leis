@@ -1,5 +1,3 @@
-###DEL-009398-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.398 – DE 21 DE JUNHO DE 1946
 
 Suprime o parágrafo único e inclui dois parágrafos ao art. 670 da Consolidação das Leis do Trabalho.

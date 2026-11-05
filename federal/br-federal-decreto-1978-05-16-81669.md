@@ -1,5 +1,3 @@
-###DEC-081669-0-000-16-05-1978@@@
-
 Decreto nº 81.669, de 16 de maio de 1978
 
 Concede reconhecimento aos cursos de Ciências Contábeis e de Administração, ministrados pela Faculdade de Ciências Econômicas do Sul de Santa Catarina, Estado de Santa Catarina.

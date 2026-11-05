@@ -1,5 +1,3 @@
-###DEC-065333-0-000-13-10-1969@@@
-
 DECRETO Nº 65.333 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá entre os municípios de Itaberaí e Goiás, no Estado de Goiás.

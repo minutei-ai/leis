@@ -1,5 +1,3 @@
-###DEC-093853-0-000-22-12-1986@@@
-
 DECRETO Nº 93.853, DE 22 DE DEZEMBRO DE 1986
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Educação, Ciências e Letras Grande Rio.

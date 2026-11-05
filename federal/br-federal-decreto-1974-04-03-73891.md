@@ -1,5 +1,3 @@
-###DEC-073891-0-000-03-04-1974@@@
-
 decreto nº 73.891, de 3 de abril de 1974.
 
 Concede autorização à firma Oceanic Contractors, Inc. de nacionalidade Libanesa, para realizar, em águas interiores do Brasil, os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-056986-0-000-01-10-1965@@@
-
 DECRETO Nº 56.986, DE 1º DE OUTUBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Comercial do Pará, inclusive aumento do capital social.

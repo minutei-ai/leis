@@ -1,5 +1,3 @@
-###DEC-047964-0-000-30-03-1960@@@
-
 DECRETO Nº 47.964, DE 30 DE MARÇO DE 1960.
 
 Cria a comissão de tombamento dos danos causados à propriedade privada pelas inundações no vale do Jaguaribe.

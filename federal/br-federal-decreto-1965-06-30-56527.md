@@ -1,5 +1,3 @@
-###DEC-056527-0-000-30-06-1965@@@
-
 DECRETO Nº 56.527, DE 30 DE JUNHO DE1965.
 
 Dispõe sôbre a venda dos imóveis a que se referem os Decretos números 55.738, de 4 de fevereiro de 1965 e 55.955, de 20 de abril de 1965 e dá outras providências.

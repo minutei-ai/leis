@@ -1,5 +1,3 @@
-###DEC-058764-0-000-28-06-1966@@@
-
 Decreto nº 58.764, de 28 de junho de 1966.
 
 Outorga concessão à Rádio Educadora Coronel Fabriciano Ltda., sediada na cidade de Coronel Fabriciano, Estado de Minas Gerais, para instalar uma emissora de radiodifusão sonora.

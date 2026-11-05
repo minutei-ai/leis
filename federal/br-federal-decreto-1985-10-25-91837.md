@@ -1,5 +1,3 @@
-###DEC-091837-0-000-25-10-1985@@@
-
 Decreto nº 91.837, de 25 de outubro de 1985
 
 Altera dispositivos do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto nº 52.795, de 31 de outubro de 1963.

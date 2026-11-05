@@ -1,7 +1,3 @@
-1
-
-###DEC-000322-0-000-01-11-1991@@@
-
 DECRETO Nº 322, DE 1º DE NOVEMBRO DE 1991
 
 Dispõe sobre a realização de despesa de pessoal em órgãos e entidades da Administração Federal, bem assim em fundações públicas.

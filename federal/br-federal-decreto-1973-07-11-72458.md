@@ -1,5 +1,3 @@
-###DEC-072458-0-000-11-07-1973@@@
-
 DECRETO Nº 72.458, DE 11 DE JULHO DE 1973.
 
 Autoriza o funcionamento da Faculdade Regional do Nordeste, mantida pela Fundação Universidade Regional do Nordeste, com sede na cidade de Campina Grande, Estado da Paraíba.

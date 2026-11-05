@@ -1,5 +1,3 @@
-###MPV-001672-0-032-27-08-1998@@@
-
 medida provisória nº 1.672-32, de 27 de agosto de 1998
 
 Altera os arts. 2º, 3º, 4º, 5º, 6º, 7º e 9º da Lei nº 8.745, de 9 de dezembro de 1993, que dispõe sobre a contratação por tempo determinado para atender à necessidade temporária de excepcional interesse público, e dá outras providências.

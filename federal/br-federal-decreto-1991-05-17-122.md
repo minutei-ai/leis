@@ -1,7 +1,3 @@
-1
-
-###DEC-000122-0-000-17-05-1991@@@
-
 DECRETO Nº 122, DE 17 DE MAIO DE 1991
 
 Dá nova redação ao art. 41 do Decreto nº 99.274, de 6 junho de 1990.

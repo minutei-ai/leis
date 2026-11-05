@@ -1,5 +1,3 @@
-###DEC-076009-0-000-24-07-1975@@@
-
 DECRETO Nº 76.009 - de 24 de julho de 1975.
 
 Autoriza Teijin Desenvolvimento Agropecuário Ltda., a adquirir imóvel rural.

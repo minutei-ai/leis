@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210781)<br>
-
 # DECRETO N° 69.428, DE 20 DE MARÇO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, imóvel de propriedade do Município de Presidente Venceslau, bem como a doar o mesmo imóvel ao Centro Estadual de Educação Tecnológica Paula Souza - CEETEPS, nas condições e para os fins que especifica._

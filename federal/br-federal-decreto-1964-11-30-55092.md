@@ -1,5 +1,3 @@
-###DEC-055092-0-000-30-11-1964@@@
-
 DECRETO Nº 55.092, DE 30 DE NOVEMBRO DE 1964.
 
 Altera o Regulamento da Escola de Aeronáutica.

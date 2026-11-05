@@ -1,5 +1,3 @@
-###DEC-048937-0-000-14-09-1960@@@
-
 decreto nº 48.937, de 14 de setembro de 1960.
 
 Encampa a concessão, os bens e as instalações vinculados aos serviços de energia elétrica, no município de Capitólio e no distrito de São José da Barra, município de Alpinópolis, Estado de Minas Gerais, e dá outras providências.

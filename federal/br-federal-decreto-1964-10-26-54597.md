@@ -1,5 +1,3 @@
-###DEC-054597-0-000-26-10-1964@@@
-
 DECRETO Nº 54.597, DE 26 DE OUTUBRO DE 1964.
 
 Autoriza a Companhia de Eletricidade, de Manaus a vender bens e instalações.

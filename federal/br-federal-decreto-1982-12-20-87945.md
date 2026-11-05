@@ -1,5 +1,3 @@
-###DEC-087945-0-000-20-12-1982@@@
-
 decreto nº 87.945, de 20 de dezembro de 1982
 
 Fixa o montante do Capital Social da Centrais Elétricas do Sul do Brasil S.A. - ELETROSUL.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209600)<br>
-
 # LEI N° 17.946, DE 19 DE JUNHO DE 2024
 
 ## (Projeto de lei n° 45/2022, do Deputado Caio França - PSB)

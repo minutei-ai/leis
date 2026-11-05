@@ -1,5 +1,3 @@
-###DEC-069781-0-000-14-12-1971@@@
-
 DECRETO Nº 69.781 - DE 14 DE DEZEMBRO DE 1971
 
 Exclui servidores do Ministério da Fazenda do Regime de disponibilidade e dá outras providências.

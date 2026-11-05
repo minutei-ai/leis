@@ -1,5 +1,3 @@
-###DEC-045867-0-000-22-04-1959@@@
-
 DECRETO Nº 45.867, DE 22 DE ABRIL DE 1959.
 
 Outorga concessão À “D.C.” TV Rádio Sociedade Anônima para estabelecer uma estação de radiotelevisão nesta Capital.

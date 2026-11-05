@@ -1,5 +1,3 @@
-###DEC-047441-0-000-16-12-1959@@@
-
 Decreto nº 47.441, de 16 de dezembro de 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 30.017, de 28 de setembro de 1951, para fins de desapropriação, pela “Manaos Harbour Limited”, do prédio do antigo “Trapiche Fernandes”, na cidade de Manaus, Estado do Amazonas.

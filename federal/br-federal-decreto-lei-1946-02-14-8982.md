@@ -1,5 +1,3 @@
-###DEL-008982-0-000-14-02-1946@@@
-
 DECRETO-LEI N. 8.982 – DE 14 DE  FEVEREIRO DE 1946
 
 Prorroga o prazo de que trata o artigo 148, item I, alínea “b”, do Código Nacional de Trânsito.

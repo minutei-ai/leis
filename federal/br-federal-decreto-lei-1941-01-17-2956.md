@@ -1,5 +1,3 @@
-###DEL-002956-0-000-17-01-1941@@@
-
 DECRETO-LEI N. 2.956 – DE 17 DE JANEIRO DE 1941
 
 Aprova o Convênio Interamericano do Café e dá outras providências.

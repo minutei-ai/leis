@@ -1,5 +1,3 @@
-###DEC-074643-0-000-03-10-1974@@@
-
 DECRETO nº 74.643, DE 3 DE OUTUBRO DE 1974.
 
 Concede à Mineração Corumbaense Reunidas S.A. o direito de lavrar minério de ferro, nos Municípios de Ladário e Corumbá, Estado de Mato Grosso.

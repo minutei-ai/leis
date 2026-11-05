@@ -1,5 +1,3 @@
-###DEC-070600-0-000-23-05-1972@@@
-
 Decreto nº 70.600, de 23 de maio de 1972.
 
 Torna sem efeito aproveitamento, na Universidade Federal Rural de Pernambuco, de servidor disponível do Departamento Nacional de Obras Contra as Secas.

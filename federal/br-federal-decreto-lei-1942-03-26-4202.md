@@ -1,5 +1,3 @@
-###DEL-004202-0-000-26-03-1942@@@
-
 DECRETO-LEI N. 4.202 – DE 26 DE MARÇO DE 1942
 
 Autoriza a Estrada de Ferro Central do Brasil a contratar com a United States Steel Export Company o fornecimento de 20.000 toneladas de trilhos e 4.486 de acessórios.

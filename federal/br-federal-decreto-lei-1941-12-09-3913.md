@@ -1,5 +1,3 @@
-###DEL-003913-0-000-09-12-1941@@@
-
 DECRETO-LEI N. 3.913 – DE 9 DE DEZENBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 360$0 para pagamento de gratificação adicional

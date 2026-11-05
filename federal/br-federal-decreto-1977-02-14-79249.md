@@ -1,5 +1,3 @@
-###DEC-079249-0-000-14-02-1977@@@
-
 decreto nº 79.249, de 14 de fevereiro de 1977.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União para operação externa que menciona.

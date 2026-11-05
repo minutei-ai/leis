@@ -1,5 +1,3 @@
-###DEC-073560-0-000-24-01-1974@@@
-
 DECRETO Nº 73.560, DE 24 DE JANEIRO DE 1974.
 
 Declara de Utilidade pública, para fins de desapropriação, em favor do Ministério da Educação e Cultura, as áreas que menciona.

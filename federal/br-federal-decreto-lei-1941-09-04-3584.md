@@ -1,5 +1,3 @@
-###DEL-003584-0-000-04-09-1941@@@
-
 DECRETO-LEI N. 3.584 – DE 4 DE SETEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 800:000$0 para as comemorações da Semana da Independência

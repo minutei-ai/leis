@@ -1,5 +1,3 @@
-###DEC-067571-0-000-16-11-1970@@@
-
 DECRETO Nº 67.571, DE 16 DE NOVEMBRO DE 1970.
 
 Autoriza a concessão da garantia da União a operações externas da Companhia Siderúrgica Nacional e dá outras providências.

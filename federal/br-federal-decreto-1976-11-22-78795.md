@@ -1,5 +1,3 @@
-###DEC-078795-0-000-22-11-1976@@@
-
 DECRETO Nº 78.795, DE 22 DE NOVEMBRO DE 1976.
 
 Concede à Companhia Siderúrgica Paulista - COSIPA o direito de lavrar calcário e dolomito no Município de Itararé, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-080317-0-000-12-09-1977@@@
-
 DECRETO Nº 80.317, DE 12 DE SETEMBRO DE 1977
 
 Concede reconhecimento aos cursos de Psicologia, de Ciências, e de Ciências Biológicas, da Faculdade de Filosofia, Ciências e Letras de São Caetano do Sul, Estado de São Paulo.

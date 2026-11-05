@@ -1,5 +1,3 @@
-###DEC-054042-0-000-23-07-1964@@@
-
 DECRETO Nº 54.042, DE 23 DE JULHO DE 1964.
 
 Revoga o Decreto nº 53.151, de 10 de dezembro de 1963.

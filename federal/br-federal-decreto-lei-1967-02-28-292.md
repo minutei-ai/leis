@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/52662b57-eaff-4254-9bee-c32f39f6ec29/texto#nowhere)
 
-###DEL-000292-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 292, DE 28 DE FEVEREIRO DE 1967
 
 Cria a Superintendência do Vale do São Francisco, extingue a Comissão do Vale do São Francisco e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-082467-0-000-23-10-1978@@@
-
 decreto nº 82.467, de 23 de outubro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro Benedito Moreira Curimbaba pelo Decreto nº 49.789, de 31 de dezembro de 1960.

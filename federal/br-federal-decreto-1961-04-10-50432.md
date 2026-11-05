@@ -1,5 +1,3 @@
-###DEC-050432-0-000-10-04-1961@@@
-
 DECRETO Nº 50.432, DE 10 DE ABRIL DE 1961.
 
 Torna privativo do pôsto de General-de-Brigada o cargo de Chefe de Gabinete do Estado-Maior do Exército.

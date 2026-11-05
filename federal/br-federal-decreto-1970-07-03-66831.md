@@ -1,5 +1,3 @@
-###DEC-066831-0-000-03-07-1970@@@
-
 Decreto nº 66.831, de 3 de julho de 1970.
 
 Autoriza a Companhia Hidroelétrica de São Francisco - CHESF a aproveitar os materiais destinados à linha de transmissão Araras-Banabuiu, na construção da duplicação da linha de transmissão Paulo Afonso - Fortaleza.

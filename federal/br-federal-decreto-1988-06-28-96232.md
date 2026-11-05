@@ -1,5 +1,3 @@
-###DEC-096232-0-000-28-06-1988@@@
-
 DECRETO N° 96.232, DE 28 DE JUNHO DE 1988
 
 Acrescenta parágrafo ao art. lº do Decreto n ° 95.810, de 10 de março de 1988.

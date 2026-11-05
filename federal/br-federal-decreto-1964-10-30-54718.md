@@ -1,5 +1,3 @@
-###DEC-054718-0-000-30-10-1964@@@
-
 DECRETO Nº 54.718, DE 30 DE OUTUBRO DE 1964.
 
 Outorga a Centrais Elétricas de Santa Catarina S.A. - CELESC - concessão para aproveitamento progressivo da energia hidráulica de um trecho do rio Santa Cruz.

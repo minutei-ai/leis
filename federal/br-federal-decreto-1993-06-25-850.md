@@ -1,7 +1,3 @@
-1
-
-###DEC-000850-0-000-25-06-1993@@@
-
 DECRETO Nº 850, DE 25 DE JUNHO DE 1993
 
 Dispõe sobre a execução do Vigésimo Nono Protocolo Adicional ao Acordo Comercial nº 16, no Setor da Indústria Petroquímica, entre Brasil, Argentina, México e Venezuela, de 30.11.1992.

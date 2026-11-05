@@ -1,5 +1,3 @@
-###DEC-007116-0-000-19-02-2010@@@
-
 DECRETO Nº 7.116, DE 19 DE FEVEREIRO DE 2010
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre o Exercício de Atividade Remunerada por Parte de Dependentes de Membros de Missão Diplomática ou Repartição Consular, firmado em Berlim, em 14 de fevereiro de 2008.

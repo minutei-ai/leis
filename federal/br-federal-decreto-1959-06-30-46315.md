@@ -1,5 +1,3 @@
-###DEC-046315-0-000-30-06-1959@@@
-
 DECRETO Nº 46.315,DE 30 DE JUNHO DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 31.421, de 10 de setembro de 1952, para fins de desapropriação pelo Departamento Nacional de Estrada de Ferro, das áreas de terrenos necessárias à construção da variante de pedras Altas, na Viação Férrea do Rio Grande do Sul.

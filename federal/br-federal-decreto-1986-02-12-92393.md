@@ -1,5 +1,3 @@
-###DEC-092393-0-000-12-02-1986@@@
-
 DECRETO Nº 92.393, DE 12 DE FEVEREIRO DE 1986
 
 Cria, por transformação, a Central de Veículos Oficiais, e dá outras providências.

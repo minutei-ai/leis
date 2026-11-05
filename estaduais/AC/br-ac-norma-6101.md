@@ -1,6 +1,10 @@
 > **LEI Nº 4.371, DE 11 DE JULHO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Autoriza a doação de imóveis ao Fundo de Previdência Social do Estado do Acre - FPS.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Autoriza a doação de imóveis ao Fundo de Previdência Social do Estado do Acre - FPS.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

@@ -1,5 +1,3 @@
-###DEC-082461-0-000-18-10-1978@@@
-
 Decreto nº 82.461, de 18 de outubro de 1978
 
 Concede à Mineração Boquira S.A. o direito de lavrar minério de chumbo no Município de Boquira, Estado da Bahia.

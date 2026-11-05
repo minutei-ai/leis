@@ -1,5 +1,3 @@
-###DEC-067246-0-000-23-09-1970@@@
-
 DECRETO Nº 67.246, DE 23 DE SEtEMBRO DE 1970.
 
 Renova a declaração de utilidade pública, a que se refere o Decreto número 48.708, de 4 de agôsto de 1960, para efeito de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público "QUICE", no município de Senhor do Bonfim, Estado da Bahia.

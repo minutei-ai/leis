@@ -1,5 +1,3 @@
-###DEC-072565-0-000-01-08-1973@@@
-
 DECRETO Nº 72.565, de 1 de Agosto de 1973.
 
 Redistribui cargo excedente e aproveita disponível no Quadro de Pessoal do Ministério da Aeronáutica.

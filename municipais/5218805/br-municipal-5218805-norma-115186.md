@@ -4,58 +4,104 @@ Dispõe sobre a Estrutura Orgânica Básica da Administração Pública Municipa
 
 **CONSOLIDADA COM AS LEIS:**
 
-Lei Complementar nº. 201/2021 ................................. 19/02/2021<br>
-Lei Complementar nº. 211/2021 ................................. 31/05/2021<br>
-Lei Complementar nº. 221/2021 ................................. 02/09/2021<br>
-Lei Complementar nº. 239/2022 ................................. 01/04/2022<br>
-Lei Complementar nº. 246/2022 ................................. 27/04/2022<br>
-Lei Complementar nº. 248/2022 ................................. 27/04/2022<br>
-Lei Complementar nº. 253/2022 ................................. 27/06/2022<br>
-Lei Complementar nº. 259/2022 ................................. 30/08/2022<br>
-Lei Complementar nº. 271/2022 ................................. 16/12/2022<br>
-Lei Complementar nº. 283/2023 ................................. 17/02/2023<br>
-Lei Complementar nº. 291/2023 ................................. 30/03/2023<br>
-Lei Complementar nº. 296/2023...................................28/04/2023<br>
-Lei Complementar nº. 304/2023...................................28/06/2023<br>
-Lei Complementar nº. 310/2023...................................28/08/2023<br>
-Lei Complementar nº. 315/2023...................................02/10/2023<br>
-Lei Complementar nº. 332/2023...................................22/12/2023<br>
-Lei Complementar nº. 336/2024...................................26/02/2024<br>
-Lei Complementar nº. 358/2024...................................24/06/2024<br>
-Lei Complementar nº. 367/2024...................................02/12/2024<br>
-Lei Complementar nº. 374/2025...................................07/01/2025<br>
-Lei Complementar nº. 375/2025...................................24/02/2025<br>
-Lei Complementar nº. 393/2025...................................25/05/2025<br>
-Lei Complementar nº. 400/2025...................................30/06/2025<br>
-Lei Complementar nº. 408/2025...................................22/09/2025<br>
-[Lei Complementar nº. 428/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114113)...................................17/11/2025<br>
-[Lei Complementar nº. 433/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114098)...................................17/11/2025<br>
-[Lei Complementar nº. 439/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114059)...................................15/12/2025<br>
-[Lei Complementar nº. 449/2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114152)..................................19/02/2026<br>
-[Lei Complementar nº. 451/2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114165)..................................19/02/2026<br>
-Lei Complementar nº. 452/2026..................................23/03/2026<br>
+Lei Complementar nº. 201/2021 ................................. 19/02/2021
+
+Lei Complementar nº. 211/2021 ................................. 31/05/2021
+
+Lei Complementar nº. 221/2021 ................................. 02/09/2021
+
+Lei Complementar nº. 239/2022 ................................. 01/04/2022
+
+Lei Complementar nº. 246/2022 ................................. 27/04/2022
+
+Lei Complementar nº. 248/2022 ................................. 27/04/2022
+
+Lei Complementar nº. 253/2022 ................................. 27/06/2022
+
+Lei Complementar nº. 259/2022 ................................. 30/08/2022
+
+Lei Complementar nº. 271/2022 ................................. 16/12/2022
+
+Lei Complementar nº. 283/2023 ................................. 17/02/2023
+
+Lei Complementar nº. 291/2023 ................................. 30/03/2023
+
+Lei Complementar nº. 296/2023...................................28/04/2023
+
+Lei Complementar nº. 304/2023...................................28/06/2023
+
+Lei Complementar nº. 310/2023...................................28/08/2023
+
+Lei Complementar nº. 315/2023...................................02/10/2023
+
+Lei Complementar nº. 332/2023...................................22/12/2023
+
+Lei Complementar nº. 336/2024...................................26/02/2024
+
+Lei Complementar nº. 358/2024...................................24/06/2024
+
+Lei Complementar nº. 367/2024...................................02/12/2024
+
+Lei Complementar nº. 374/2025...................................07/01/2025
+
+Lei Complementar nº. 375/2025...................................24/02/2025
+
+Lei Complementar nº. 393/2025...................................25/05/2025
+
+Lei Complementar nº. 400/2025...................................30/06/2025
+
+Lei Complementar nº. 408/2025...................................22/09/2025
+
+[Lei Complementar nº. 428/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114113)...................................17/11/2025
+
+[Lei Complementar nº. 433/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114098)...................................17/11/2025
+
+[Lei Complementar nº. 439/2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114059)...................................15/12/2025
+
+[Lei Complementar nº. 449/2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114152)..................................19/02/2026
+
+[Lei Complementar nº. 451/2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114165)..................................19/02/2026
+
+Lei Complementar nº. 452/2026..................................23/03/2026
+
 Lei Complementar nº. 457/2026..................................23/04/2026
 
-<br>
 **LISTA DE ANEXOS**
 
-ANEXO I - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE CONFIANÇA (CC)<br>
-ANEXO II - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)<br>
-ANEXO III - DESCRIÇÃO DOS CARGOS DE CONFIANÇA (CC)<br>
-ANEXO IV - DESCRIÇÃO DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)<br>
-ANEXO V - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DAS FUNÇÕES GRATIFICADAS (FG)<br>
-ANEXO VI - DESCRIÇÃO DAS FUNÇÕES GRATIFICADAS (FG)<br>
-ANEXO VII - TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA<br>
-ANEXO VIII - CARGOS EM COMISSÃO DE ASSESSORAMENTO ESPECIAL E DE GABINETE<br>
-ANEXO IX - PROCURADORIA-GERAL DO MUNICÍPIO – PGM<br>
-ANEXO X - GUARDA MUNICIPAL DE RIO VERDE<br>
-ANEXO XI - TABELA DE SÍMBOLOS E VALORES DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO INTEGRANTES DA ESTRUTURA ADMINISTRATIVA DO PODER EXECUTIVO<br>
-ANEXO XII - CARGOS DE ASSESSORAMENTO GERAL<br>
-ANEXO XIII - TABELA DE SÍMBOLOS, QUANTITATIVOS E VALORES DOS SUBSÍDIOS DOS CARGOS EM COMISSÃO DE ASSESSORAMENTO ESPECIAL E DE GABINETE<br>
-ANEXO XIV - TABELA DE ATRIBUIÇÕES DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO DE QUE TRATA O ANEXO XI<br>
-ANEXO XV - TABELA DE ATRIBUIÇÕES DOS CARGOS EM COMISSÃO DE ASSESSORAMENTO DE QUE TRATA O ANEXO XII<br>
-ANEXO XVI - TABELA DE ESPECIFICAÇÃO DAS FUNÇÕES COMISSIONADAS DE QUE TRATAM O ANEXO XIII<br>
-ANEXO XVII - QUADRO DE SÍMBOLOS, QUANTITATIVO E VALORES DAS FUNÇÕES DE CONFIANÇA (FC)<br>
+ANEXO I - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE CONFIANÇA (CC)
+
+ANEXO II - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)
+
+ANEXO III - DESCRIÇÃO DOS CARGOS DE CONFIANÇA (CC)
+
+ANEXO IV - DESCRIÇÃO DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)
+
+ANEXO V - QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DAS FUNÇÕES GRATIFICADAS (FG)
+
+ANEXO VI - DESCRIÇÃO DAS FUNÇÕES GRATIFICADAS (FG)
+
+ANEXO VII - TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
+
+ANEXO VIII - CARGOS EM COMISSÃO DE ASSESSORAMENTO ESPECIAL E DE GABINETE
+
+ANEXO IX - PROCURADORIA-GERAL DO MUNICÍPIO – PGM
+
+ANEXO X - GUARDA MUNICIPAL DE RIO VERDE
+
+ANEXO XI - TABELA DE SÍMBOLOS E VALORES DOS SUBSÍDIOS DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO INTEGRANTES DA ESTRUTURA ADMINISTRATIVA DO PODER EXECUTIVO
+
+ANEXO XII - CARGOS DE ASSESSORAMENTO GERAL
+
+ANEXO XIII - TABELA DE SÍMBOLOS, QUANTITATIVOS E VALORES DOS SUBSÍDIOS DOS CARGOS EM COMISSÃO DE ASSESSORAMENTO ESPECIAL E DE GABINETE
+
+ANEXO XIV - TABELA DE ATRIBUIÇÕES DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO DE QUE TRATA O ANEXO XI
+
+ANEXO XV - TABELA DE ATRIBUIÇÕES DOS CARGOS EM COMISSÃO DE ASSESSORAMENTO DE QUE TRATA O ANEXO XII
+
+ANEXO XVI - TABELA DE ESPECIFICAÇÃO DAS FUNÇÕES COMISSIONADAS DE QUE TRATAM O ANEXO XIII
+
+ANEXO XVII - QUADRO DE SÍMBOLOS, QUANTITATIVO E VALORES DAS FUNÇÕES DE CONFIANÇA (FC)
+
 ANEXO XVIII - DESCRIÇÃO DAS FUNÇÕES DE CONFIANÇA (FC)
 
 LEI COMPLEMENTAR Nº. 182, DE 06 DE MAIO DE 2020
@@ -84,7 +130,8 @@ Art. 4º O Prefeito Municipal e os Secretários Municipais exercem as suas atrib
 
 § 1º Os cargos de Chefe de Gabinete do Prefeito, Procurador-Geral do Município, Controlador Geral do Município, Presidente da Agência Municipal de Regulação dos Serviços de Água e Esgoto - AMAE, Presidente do Instituto de Previdência e Assistência dos Servidores de Rio Verde - IPARV, Presidente da Agência Municipal de Mobilidade e Trânsito - AMT e Secretários Municipais possuem o mesmo nível hierárquico e funcional, isonomia no vencimento e iguais direitos, deveres e responsabilidades administrativas, respeitadas as atribuições inerentes às competências legais de cada Órgão e Entidade.
 
-[(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026)](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114165)<br>
+[(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026)](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114165)
+
  
 
 ~~§1º Os cargos de Chefe de Gabinete do Prefeito, Procurador-Geral do Município, Controlador Geral do Município, Presidente da Agência Municipal de Regulação dos Serviços de Água e Esgoto AMAE e Secretários Municipais possuem o mesmo nível hierárquico e funcional, isonomia no vencimento e iguais direitos, deveres e responsabilidades administrativas, respeitadas as atribuições inerentes às competências legais de cada Órgão e Entidade.~~
@@ -1049,7 +1096,8 @@ Seção IV-A
 
 ~~Seção VI~~
 
-**Da Secretaria Municipal de Governo**<br>
+**Da Secretaria Municipal de Governo**
+
 (Inserido pela Lei Complementar nº 367, de 2 de dezembro de 2024)
 
 Art. 57-A. A Secretaria Municipal de Governo - SMG tem por finalidade coordenar e articular as políticas públicas de forma integrada, além de promover o aprimoramento, a eficiência e a transparência na gestão das políticas públicas da Administração Municipal, competindo-lhe:
@@ -1124,7 +1172,8 @@ XVII - a coordenação geral do governo, com vistas a garantir a unidade de plan
 
 Seção VI
 
-**Da Secretaria Municipal de Tecnologia, Inovação e Inteligência Artificial - SETIA**<br>
+**Da Secretaria Municipal de Tecnologia, Inovação e Inteligência Artificial - SETIA**
+
 (Redação dada pela Lei Complementar nº 457, de 23 de abril de 2026)
 
 ~~Seção VI~~
@@ -1197,7 +1246,8 @@ X - o controle da prestação de serviços da inovação e transformação digit
 
 **DAS SECRETARIAS MUNICIPAIS DE DESENVOLVIMENTO URBANO E RURAL E SUAS COMPETÊNCIAS**
 
-Seção I<br>
+Seção I
+
 Da Secretaria Municipal de Infraestrutura Urbana – SMIU
 
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
@@ -1570,8 +1620,10 @@ Seção IV
 
 Seção I
 
-**Da Secretaria de Desenvolvimento Econômico Sustentável e Turismo – SMDEST<br>
-Da Secretaria de Desenvolvimento Econômico Sustentável – SMDES**<br>
+**Da Secretaria de Desenvolvimento Econômico Sustentável e Turismo – SMDEST
+
+Da Secretaria de Desenvolvimento Econômico Sustentável – SMDES**
+
 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
 
 Art. 62. A Secretaria Municipal de Desenvolvimento Econômico Sustentável - SMDES tem por finalidade a formulação e execução da política municipal de desenvolvimento econômico e trabalho, com ênfase na inclusão econômica do cidadão, competindo-lhe:
@@ -1754,7 +1806,8 @@ XXXVIII – coordenar e executar direta e/ou indiretamente a política e a gest�
 
 Seção IV
 
-Da Secretaria Municipal de Turismo – SMTUR<br>
+Da Secretaria Municipal de Turismo – SMTUR
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
 
 Art. 64-A. A Secretaria Municipal de Turismo – SMTUR tem por finalidade a formulação e execução da política municipal de turismo, competindo-lhe:
@@ -2039,7 +2092,8 @@ XLVII - planejar, executar e desenvolver ações para a política de educação 
 
 Seção V
 
-**Da Secretaria Municipal de Habitação e Regularização Fundiária**<br>
+**Da Secretaria Municipal de Habitação e Regularização Fundiária**
+
 (Inserido pela Lei Complementar nº 201, de 19 de fevereiro de 2021)
 
 Art. 68-A. A Secretaria Municipal de Habitação e Regularização Fundiária tem por finalidade o planejamento, a execução, monitoramento e avaliação da política municipal de habitação e regularização fundiária, competindo-lhe:
@@ -2082,7 +2136,8 @@ IX - desempenhar outras atividades necessárias ou correlatas à eficiência de 
 
 Seção VI
 
-**Da Secretaria Municipal de Cultura**<br>
+**Da Secretaria Municipal de Cultura**
+
 (Inserido pela Lei Complementar n. 310, de 28 de agosto de 2023)
 
 Art. 68-B. A Secretaria Municipal de Cultura é o órgão responsável pelo planejamento, controle e avaliação das atividades relacionadas à cultura local, cabendo-lhe, além de outras atribuições regulamentares:
@@ -2767,21 +2822,20 @@ Procurador-Geral
 
 **QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE CONFIANÇA (CC)**
 
-<table><thead></thead><tbody><tr><td rowspan="7" style="text-align:center">CARGO DE CONFIANÇA (CC)</td><th style="text-align: center;">ESPÉCIE/ NÍVEL</th><th style="text-align: left;">CARGO DE REFERÊNCIA</th><th style="text-align: center;">QUANTITATIVO</th><th style="text-align: center;">VALOR</th></tr><tr><td style="text-align: center;">CC-1</td><td style="text-align: center;">Secretário Municipal</td><td style="text-align: justify;">18<br>(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>13<br>14<br>(Redação dada pela Lei Complementar nº 201, de 19 de fevereiro de 2021)<br>15<br>(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023)<br>16<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>17<br>(Redação dada pela Lei Complementar nº 367, de 2 de dezembro de 2024)<br>19<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td style="text-align: center;">17.729,41</td></tr><tr><td style="text-align: center;">CC-1</td><td style="text-align: center;">Controlador-Geral do Município</td><td style="text-align: center;">1</td><td style="text-align: center;">17.729,41</td></tr><tr><td style="text-align: center;">CC-1</td><td style="text-align: center;">Procurador-Geral do Município</td><td style="text-align: center;">1</td><td style="text-align: center;">17.729,41</td></tr><tr><td style="text-align: center;">CC-1</td><td style="text-align: center;">Chefe de Gabinete do Prefeito</td><td style="text-align: center;">1</td><td style="text-align: center;">17.729,41</td></tr><tr><td style="text-align: center;">CC-2</td><td style="text-align: center;">Presidente de Autarquias e Fundações – Nível 1</td><td style="text-align: center;">2<br>(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>1<br>2<br>(Redação dada pela Lei Complementar nº 332, de 22 de dezembro de 2023)<br>1<br>(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024)</s></td><td style="text-align: center;">17.729,41</td></tr><tr><td style="text-align: center;">CC-3</td><td style="text-align: center;">Presidente de Autarquias e Fundações – Nível 2</td><td style="text-align: center;">3<br>(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>5<br>4<br>(Redação dada pela Lei Complementar nº 332, de 22 de dezembro de 2023)</s></td><td style="text-align: center;">12.755,55</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td rowspan="7">CARGO DE CONFIANÇA (CC)</td><th>ESPÉCIE/ NÍVEL</th><th>CARGO DE REFERÊNCIA</th><th>QUANTITATIVO</th><th>VALOR</th></tr><tr><td>CC-1</td><td>Secretário Municipal</td><td>18 (Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>13 14 (Redação dada pela Lei Complementar nº 201, de 19 de fevereiro de 2021) 15 (Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023) 16 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) 17 (Redação dada pela Lei Complementar nº 367, de 2 de dezembro de 2024) 19 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td>17.729,41</td></tr><tr><td>CC-1</td><td>Controlador-Geral do Município</td><td>1</td><td>17.729,41</td></tr><tr><td>CC-1</td><td>Procurador-Geral do Município</td><td>1</td><td>17.729,41</td></tr><tr><td>CC-1</td><td>Chefe de Gabinete do Prefeito</td><td>1</td><td>17.729,41</td></tr><tr><td>CC-2</td><td>Presidente de Autarquias e Fundações – Nível 1</td><td>2 (Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>1 2 (Redação dada pela Lei Complementar nº 332, de 22 de dezembro de 2023) 1 (Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024)</s></td><td>17.729,41</td></tr><tr><td>CC-3</td><td>Presidente de Autarquias e Fundações – Nível 2</td><td>3 (Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>5 4 (Redação dada pela Lei Complementar nº 332, de 22 de dezembro de 2023)</s></td><td>12.755,55</td></tr></tbody></table>
 
 **~~ANEXO II~~**
 
 **~~QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)~~**
 
-<table><thead></thead><tbody><tr><td colspan="1" rowspan="15" style="text-align: center; width: 463px;"><s>CARGOS DE PROVIMENTO EM COMISSÃO (DAS)<br>Grupo de Cargos de Chefia, Direção e Assessoramento Superior</s></td><th style="text-align: center; width: 235px;"><s>ESPÉCIE/NÍVEL</s></th><th style="text-align: left;"><s>CARGO DE REFERÊNCIA</s></th><th style="text-align: center;"><s>QUANTITATIVO</s></th><th style="text-align: center;"><s>VALOR</s></th></tr><tr><td style="text-align: center; width: 235px;"><s>DAS-1</s></td><td style="text-align:left"><s>Superintendente</s></td><td style="text-align:center"><s>19</s></td><td style="text-align:center"><s>12.755,55</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-2</s></td><td style="text-align:left"><s>Assessor Especial – Nível 1</s></td><td style="text-align:center"><s>8</s></td><td style="text-align:center"><s>8.546,01</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-2</s></td><td style="text-align:left"><s>Corregedor</s></td><td style="text-align:center"><s>1</s></td><td style="text-align:center"><s>8.546,01</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-3</s></td><td style="text-align:left"><s>Diretor</s></td><td style="text-align:center"><s>48</s></td><td style="text-align:center"><s>7.086,42</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-4</s></td><td style="text-align:left"><s>Subprefeito</s></td><td style="text-align:center"><s>3</s></td><td style="text-align:center"><s>7.086,42</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-5</s></td><td style="text-align:left"><s>Coordenador</s></td><td style="text-align:center"><s>150</s></td><td style="text-align:center"><s>5.697,34</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-5</s></td><td style="text-align:left"><s>Assessor Especial – Nível 2</s></td><td style="text-align:center"><s>18</s></td><td style="text-align:center"><s>5.697,34</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-6</s></td><td style="text-align:left"><s>Assessor Especial – Nível 3</s></td><td style="text-align:center"><s>29</s></td><td style="text-align:center"><s>4.273,02</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-6</s></td><td style="text-align:left"><s>Assessor Técnico</s></td><td style="text-align:center"><s>16</s></td><td style="text-align:center"><s>4.273,02</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-6</s></td><td style="text-align:left"><s>Chefe de Gabinete</s></td><td style="text-align:center"><s>16</s></td><td style="text-align:center"><s>4.273,02</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-7</s></td><td style="text-align:left"><s>Assessor Especial – Nível 4</s></td><td style="text-align:center"><s>53</s></td><td style="text-align:center"><s>3.675,00</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-8</s></td><td style="text-align:left"><s>Assessor Institucional</s></td><td style="text-align:center"><s>22</s></td><td style="text-align:center"><s>2.848,67</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-8</s></td><td style="text-align:left"><s>Ouvidor</s></td><td style="text-align:center"><s>3</s></td><td style="text-align:center"><s>2.848,67</s></td></tr><tr><td style="text-align: center; width: 211px;"><s>DAS-9</s></td><td style="text-align:left"><s>Assessor Especial – Nível 5</s></td><td style="text-align:center"><s>59</s></td><td style="text-align:center"><s>2.625,00</s></td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td colspan="1" rowspan="15"><s>CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento Superior</s></td><th><s>ESPÉCIE/NÍVEL</s></th><th><s>CARGO DE REFERÊNCIA</s></th><th><s>QUANTITATIVO</s></th><th><s>VALOR</s></th></tr><tr><td><s>DAS-1</s></td><td><s>Superintendente</s></td><td><s>19</s></td><td><s>12.755,55</s></td></tr><tr><td><s>DAS-2</s></td><td><s>Assessor Especial – Nível 1</s></td><td><s>8</s></td><td><s>8.546,01</s></td></tr><tr><td><s>DAS-2</s></td><td><s>Corregedor</s></td><td><s>1</s></td><td><s>8.546,01</s></td></tr><tr><td><s>DAS-3</s></td><td><s>Diretor</s></td><td><s>48</s></td><td><s>7.086,42</s></td></tr><tr><td><s>DAS-4</s></td><td><s>Subprefeito</s></td><td><s>3</s></td><td><s>7.086,42</s></td></tr><tr><td><s>DAS-5</s></td><td><s>Coordenador</s></td><td><s>150</s></td><td><s>5.697,34</s></td></tr><tr><td><s>DAS-5</s></td><td><s>Assessor Especial – Nível 2</s></td><td><s>18</s></td><td><s>5.697,34</s></td></tr><tr><td><s>DAS-6</s></td><td><s>Assessor Especial – Nível 3</s></td><td><s>29</s></td><td><s>4.273,02</s></td></tr><tr><td><s>DAS-6</s></td><td><s>Assessor Técnico</s></td><td><s>16</s></td><td><s>4.273,02</s></td></tr><tr><td><s>DAS-6</s></td><td><s>Chefe de Gabinete</s></td><td><s>16</s></td><td><s>4.273,02</s></td></tr><tr><td><s>DAS-7</s></td><td><s>Assessor Especial – Nível 4</s></td><td><s>53</s></td><td><s>3.675,00</s></td></tr><tr><td><s>DAS-8</s></td><td><s>Assessor Institucional</s></td><td><s>22</s></td><td><s>2.848,67</s></td></tr><tr><td><s>DAS-8</s></td><td><s>Ouvidor</s></td><td><s>3</s></td><td><s>2.848,67</s></td></tr><tr><td><s>DAS-9</s></td><td><s>Assessor Especial – Nível 5</s></td><td><s>59</s></td><td><s>2.625,00</s></td></tr></tbody></table>
 
 **ANEXO II**
 
 **QUADRO DE CLASSIFICAÇÃO, QUANTITATIVO E VALORES DOS CARGOS DE PROVIMENTO EM COMISSÃO (DAS)**
 
-<table><thead></thead><tbody><tr><td colspan="1" rowspan="34" style="text-align: center;">CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento Superior</td><td style="text-align: center;">ESPÉCIE/NÍVEL</td><td style="text-align: center;">CARGO DE REFERÊNCIA</td><td style="text-align: center;">QUANTITATIVO</td><td style="text-align: center;">VALOR</td></tr><tr><td style="text-align: center;">DAS-1</td><td style="text-align: center;">Superintendente</td><td style="text-align: center;">44<br>(Redação dada pela Lei nº 457, de 23 de abril de 2026) <s>19<br>21<br>(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) 27<br>(Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023)<br>29<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>40<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 41<br>(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026)<br>43<br>(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026)</s></td><td style="text-align: center;">12.755,55</td></tr><tr><td style="text-align: center;">DAS-2</td><td style="text-align: center;">Assessor Especial - Nível 1</td><td style="text-align: center;">29<br>(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) <s>8<br>11<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>23<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td style="text-align: center;">8.546,01</td></tr><tr><td style="text-align: center;">DAS-2</td><td style="text-align: center;">Corregedor</td><td style="text-align: center;"><s>1</s><br>2<br>(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)</td><td style="text-align: center;">8.546,01</td></tr><tr><td style="text-align: center;">DAS-2A<br>(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)</td><td style="text-align: center;">Assessor Técnico em Infraestrutura<br>(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)</td><td style="text-align: center;">24<br>(Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>10<br>(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)<br>22<br>(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)</s></td><td style="text-align: center;">R$ 10.482,35<br>(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)</td></tr><tr><td style="text-align: center;">DAS-3</td><td style="text-align: center;">Diretor</td><td style="text-align: center;">42<br>(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) <s>48<br>60<br>(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)</s> <s>66<br>(Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023)<br>75<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>73<br>(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) </s><s>35<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s> <s>38<br>(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) </s><s>39<br>(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)</s></td><td style="text-align: center;">7.086,42</td></tr><tr><td style="text-align: center;">DAS-3</td><td style="text-align: center;">Subprefeito</td><td style="text-align: center;">3</td><td style="text-align: center;">7.086,42</td></tr><tr><td style="text-align: center;">DAS-4</td><td style="text-align: center;">Coordenador</td><td style="text-align: center;">111<br>(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) <s>150<br>160<br>(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022) 170<br>(Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023)<br>173<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>171<br>(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) 108<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td style="text-align: center;">5.697,34</td></tr><tr><td style="text-align: center;">DAS-4</td><td style="text-align: center;">Assessor Especial – Nível 2</td><td style="text-align: center;">26<br>(Redação dada pela Lei Complementar nº 428, de 17 de novembro de 2025) <s>18<br>24<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">5.697,34</td></tr><tr><td style="text-align: center;">DAS-5</td><td style="text-align: center;">Assessor Especial – Nível 3</td><td style="text-align: center;">36<br>(Redação dada pela Lei Complementar nº 428, de 17 de novembro de 2025) <s>29<br>34<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">4.273,02</td></tr><tr><td style="text-align: center;">DAS-5</td><td style="text-align: center;">Assessor Técnico</td><td style="text-align: center;">23<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>16<br>25<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">4.273,02</td></tr><tr><td style="text-align: center;">DAS-5</td><td style="text-align: center;">Chefe de Gabinete</td><td style="text-align: center;">10<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>16<br>20<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">4.273,02</td></tr><tr><td style="text-align: center;">DAS-5</td><td style="text-align: center;">Gestor<br>(Inserido pela Lei Complementar nº 291, de 30 de março de 2023)</td><td style="text-align: center;">54<br>(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) <s>30<br>25<br>(Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023)<br>30<br>(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) 40<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>48<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td style="text-align: center;">4.273,02</td></tr><tr><td style="text-align: center;">DAS-6</td><td style="text-align: center;"><s>Assessor Especial – Nível 4 (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;"><s>53<br>70<br>(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022</s></td><td style="text-align: center;">3.675,00</td></tr><tr><td style="text-align: center;">DAS-6</td><td style="text-align: center;"><s>Assessor Técnico de Gabinete - Nível 1<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</s></td><td style="text-align: center;"><s>70</s></td><td style="text-align: center;">3.675,00</td></tr><tr><td style="text-align: center;">DAS-6</td><td style="text-align: center;">Assessor de Gabinete – Nível 1<br>(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;">70</td><td style="text-align: center;">3.675,00</td></tr><tr><td style="text-align: center;">DAS-6</td><td style="text-align: center;">Supervisor<br>(Inserido pela Lei Complementar nº 291, de 30 de março de 2023)</td><td style="text-align: center;">57<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>35<br>30<br>(Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023) 35<br>(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) 45<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">3.675,00</td></tr><tr><td style="text-align: center;">DAS-7</td><td style="text-align: center;">Assessor Institucional</td><td style="text-align: center;">31<br>(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) <s>22<br>32<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">3.293,35<br>(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022 <s>2.848,67</s></td></tr><tr><td style="text-align: center;">DAS-7</td><td style="text-align: center;">Ouvidor</td><td style="text-align: center;">2<br>(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) <s>3</s></td><td style="text-align: center;">3.293,35<br>(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022 <s>2.848,67</s></td></tr><tr><td style="text-align: center;">DAS-7</td><td style="text-align: center;">Chefe de Equipe ou Setor – Nível 1<br>(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) <s>Chefe de Equipe ou Setor<br>(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022</s></td><td style="text-align: center;">129<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>35<br>(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) 45<br>(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) 52<br>(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;">3.293,35<br>(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022 <s>2.848,67</s></td></tr><tr><td style="text-align: center;">DAS-8</td><td style="text-align: center;"><s>Assessor Especial – Nível 5 (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td style="text-align: center;"><s>59<br>70<br>(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022</s></td><td style="text-align: center;">2.625,00</td></tr><tr><td style="text-align: center;">DAS-8</td><td style="text-align: center;"><s>Assessor Técnico de Gabinete - Nível 2</s><br><s>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) </s>(Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>70<br>115<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td style="text-align: center;">2.625,00</td></tr><tr><td style="text-align: center;">DAS-8</td><td style="text-align: center;"><s>Assessor de Comunicação<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) </s>(Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>06</s></td><td style="text-align: center;">2.625,00</td></tr><tr><td style="text-align: center;">DAS-8</td><td style="text-align: center;">Assessor de Gabinete – Nível 2<br>(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;">121</td><td style="text-align: center;">2.625,00</td></tr><tr><td style="text-align: center;">DAS-9<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;"><s>Assessor de Eventos<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>15</s></td><td style="text-align: center;">2.701,95<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td></tr><tr><td style="text-align: center;">DAS-9<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;"><s>Encarregado de Equipe ou Setor<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>30<br>40<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td style="text-align: center;">2.701,95<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td></tr><tr><td style="text-align: center;">DAS-9<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;">Chefe de Equipe ou Setor – Nível 2<br>(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;">55</td><td style="text-align: center;">2.701,95<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td></tr><tr><td style="text-align: center;">DAS-10<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;"><s>Assessor Técnico de Gabinete - Nível 3<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s> (Extinto pela Lei Complementar nº. 367, de 2 de dezembro de 2024)</td><td style="text-align: center;">20</td><td style="text-align: center;">2.016,22<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) R$ 2.536,04<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td></tr><tr><td style="text-align: center;">DAS-10<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;"><s>Assessor de Gabinete - Nível 1<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>38</s></td><td style="text-align: center;">R$ 2.536,04<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>2.016,22<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td></tr><tr><td style="text-align: center;">DAS-10<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;"><s>Assessor de Gabinete - Nível 1<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025) </s>(Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>38</s></td><td style="text-align: center;">R$ 2.536,04<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>2.016,22<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td></tr><tr><td style="text-align: center;">DAS-10<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td style="text-align: center;">Assessor de Gabinete – Nível 3<br>(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;">45<br>(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) <s>40</s></td><td style="text-align: center;">R$ 2.536,04<br>(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>2.016,22<br>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td></tr><tr><td style="text-align: center;">DAS-11<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td><td style="text-align: center;"><s>Assessor de Gabinete - Nível 2<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;"><s>92</s></td><td style="text-align: center;">R$ 1.536,04<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td></tr><tr><td style="text-align: center;">DAS-11<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td><td style="text-align: center;">Assessor de Gabinete – Nível 4<br>(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td style="text-align: center;">92</td><td style="text-align: center;">R$ 1.536,04<br>(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td></tr></tbody></table>
+<table><thead></thead><tbody><tr><td colspan="1" rowspan="34">CARGOS DE PROVIMENTO EM COMISSÃO (DAS) Grupo de Cargos de Chefia, Direção e Assessoramento Superior</td><td>ESPÉCIE/NÍVEL</td><td>CARGO DE REFERÊNCIA</td><td>QUANTITATIVO</td><td>VALOR</td></tr><tr><td>DAS-1</td><td>Superintendente</td><td>44 (Redação dada pela Lei nº 457, de 23 de abril de 2026) <s>19 21 (Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) 27 (Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023) 29 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) 40 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 41 (Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) 43 (Redação dada pela Lei Complementar nº 452, de 23 de março de 2026)</s></td><td>12.755,55</td></tr><tr><td>DAS-2</td><td>Assessor Especial - Nível 1</td><td>29 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) <s>8 11 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) 23 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td>8.546,01</td></tr><tr><td>DAS-2</td><td>Corregedor</td><td><s>1</s> 2 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)</td><td>8.546,01</td></tr><tr><td>DAS-2A (Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)</td><td>Assessor Técnico em Infraestrutura (Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)</td><td>24 (Redação dada pela Lei Complementar nº 451, de 19 de fevereiro de 2026) <s>10 (Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025) 22 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)</s></td><td>R$ 10.482,35 (Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025)</td></tr><tr><td>DAS-3</td><td>Diretor</td><td>42 (Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) <s>48 60 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)</s> <s>66 (Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023) 75 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) 73 (Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) </s><s>35 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s> <s>38 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) </s><s>39 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)</s></td><td>7.086,42</td></tr><tr><td>DAS-3</td><td>Subprefeito</td><td>3</td><td>7.086,42</td></tr><tr><td>DAS-4</td><td>Coordenador</td><td>111 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) <s>150 160 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022) 170 (Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023) 173 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) 171 (Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) 108 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td>5.697,34</td></tr><tr><td>DAS-4</td><td>Assessor Especial – Nível 2</td><td>26 (Redação dada pela Lei Complementar nº 428, de 17 de novembro de 2025) <s>18 24 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>5.697,34</td></tr><tr><td>DAS-5</td><td>Assessor Especial – Nível 3</td><td>36 (Redação dada pela Lei Complementar nº 428, de 17 de novembro de 2025) <s>29 34 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>4.273,02</td></tr><tr><td>DAS-5</td><td>Assessor Técnico</td><td>23 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>16 25 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>4.273,02</td></tr><tr><td>DAS-5</td><td>Chefe de Gabinete</td><td>10 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>16 20 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>4.273,02</td></tr><tr><td>DAS-5</td><td>Gestor (Inserido pela Lei Complementar nº 291, de 30 de março de 2023)</td><td>54 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) <s>30 25 (Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023) 30 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) 40 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) 48 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td>4.273,02</td></tr><tr><td>DAS-6</td><td><s>Assessor Especial – Nível 4 (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td><s>53 70 (Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022</s></td><td>3.675,00</td></tr><tr><td>DAS-6</td><td><s>Assessor Técnico de Gabinete - Nível 1 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</s></td><td><s>70</s></td><td>3.675,00</td></tr><tr><td>DAS-6</td><td>Assessor de Gabinete – Nível 1 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td>70</td><td>3.675,00</td></tr><tr><td>DAS-6</td><td>Supervisor (Inserido pela Lei Complementar nº 291, de 30 de março de 2023)</td><td>57 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>35 30 (Redação dada pela Lei Complementar nº 283, de 17 de fevereiro de 2023) 35 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) 45 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>3.675,00</td></tr><tr><td>DAS-7</td><td>Assessor Institucional</td><td>31 (Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) <s>22 32 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>3.293,35 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022 <s>2.848,67</s></td></tr><tr><td>DAS-7</td><td>Ouvidor</td><td>2 (Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024) <s>3</s></td><td>3.293,35 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022 <s>2.848,67</s></td></tr><tr><td>DAS-7</td><td>Chefe de Equipe ou Setor – Nível 1 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) <s>Chefe de Equipe ou Setor (Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022</s></td><td>129 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>35 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) 45 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) 52 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td>3.293,35 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022 <s>2.848,67</s></td></tr><tr><td>DAS-8</td><td><s>Assessor Especial – Nível 5 (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td><td><s>59 70 (Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022</s></td><td>2.625,00</td></tr><tr><td>DAS-8</td><td><s>Assessor Técnico de Gabinete - Nível 2</s> <s>(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) </s>(Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>70 115 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td>2.625,00</td></tr><tr><td>DAS-8</td><td><s>Assessor de Comunicação (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) </s>(Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>06</s></td><td>2.625,00</td></tr><tr><td>DAS-8</td><td>Assessor de Gabinete – Nível 2 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td>121</td><td>2.625,00</td></tr><tr><td>DAS-9 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td><s>Assessor de Eventos (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>15</s></td><td>2.701,95 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td></tr><tr><td>DAS-9 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td><s>Encarregado de Equipe ou Setor (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>30 40 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s></td><td>2.701,95 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td></tr><tr><td>DAS-9 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td>Chefe de Equipe ou Setor – Nível 2 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td>55</td><td>2.701,95 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td></tr><tr><td>DAS-10 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td><s>Assessor Técnico de Gabinete - Nível 3 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s> (Extinto pela Lei Complementar nº. 367, de 2 de dezembro de 2024)</td><td>20</td><td>2.016,22 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) R$ 2.536,04 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td></tr><tr><td>DAS-10 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td><s>Assessor de Gabinete - Nível 1 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>38</s></td><td>R$ 2.536,04 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>2.016,22 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td></tr><tr><td>DAS-10 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td><s>Assessor de Gabinete - Nível 1 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025) </s>(Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>38</s></td><td>R$ 2.536,04 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>2.016,22 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td></tr><tr><td>DAS-10 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</td><td>Assessor de Gabinete – Nível 3 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td>45 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) <s>40</s></td><td>R$ 2.536,04 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) <s>2.016,22 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)</s></td></tr><tr><td>DAS-11 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td><td><s>Assessor de Gabinete - Nível 2 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</s> (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td><s>92</s></td><td>R$ 1.536,04 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td></tr><tr><td>DAS-11 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td><td>Assessor de Gabinete – Nível 4 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025)</td><td>92</td><td>R$ 1.536,04 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)</td></tr></tbody></table>
 
-<br>
 (Redação dada pela Lei Complementar nº. 211, de 31 de maio de 2021)
 
 **ANEXO III**
@@ -2795,7 +2849,8 @@ Procurador-Geral
 | CC-1 | Procurador-Geral do Município | Dirigir a Procuradoria-Geral do Município, superintender, coordenar suas atividades e dar o delineamento da orientação jurídica a ser seguida pelo Poder Executivo Municipal. Representar o Município em juízo ou fora dele. Desenvolver atividades de consultoria e assessorar juridicamente o Município e outras atividades correlatas a que lhe forem atribuídas e as previstas em lei específica. |
 | CC-1 | Chefe de Gabinete do Prefeito | Exercer as atividades de assessoramento direto ao Prefeito, competindo-lhe a promoção e articulação dos contatos administrativos, políticos e sociais. Chefiar e acompanhar os indicadores definidos para acompanhamento de resultados. Coordenar a agenda de compromissos e atividades relativas às relações públicas do gabinete do Chefe do Poder Executivo, representando-o quando designado e outras atividades correlatas a que lhe forem atribuídas. |
 | CC-2 | Presidente de Autarquias e Fundações – Nível 1 | Gerir órgãos da Administração Pública Indireta de alta complexidade e que possuem desdobramento na Administração Pública Direta, garantindo sua gestão e operacionalização administrativa, financeira, técnica e outras atividades correlatas a que lhe forem atribuídas. |
-| CC-3 | Presidente de Autarquias e Fundações – Nível 2 | Gerir órgãos da Administração Pública Indireta de média complexidade e que possuem desdobramento na Administração Pública Direta, garantindo sua gestão e operacionalização administrativa, financeira, técnica e outras atividades correlatas a que lhe forem atribuídas.<br>
+| CC-3 | Presidente de Autarquias e Fundações – Nível 2 | Gerir órgãos da Administração Pública Indireta de média complexidade e que possuem desdobramento na Administração Pública Direta, garantindo sua gestão e operacionalização administrativa, financeira, técnica e outras atividades correlatas a que lhe forem atribuídas.
+
 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) ~~Gerir órgãos da Administração Pública Indireta de baixa complexidade e que possuem desdobramento na Administração Pública Direta, garantindo sua gestão e operacionalização administrativa, financeira, técnica e outras atividades correlatas a que lhe forem atribuídas.~~ |
 
 **ANEXO IV**
@@ -2805,85 +2860,135 @@ Procurador-Geral
 | ESPÉCIE/ NÍVEL | CARGO DE REFERÊNCIA | DESCRIÇÃO |
 | --- | --- | --- |
 | DAS-1 | Superintendente | Exercer atividades de chefia e coordenação superior das unidades administrativas de maior complexidade e responsabilidade elevadas, integrando o planejamento estratégico ao executivo. Acompanhar a execução orçamentária referente atividades e programas sob sua responsabilidade e promover reuniões periódicas com as chefias de setores da Secretaria subordinados a sua supervisão. Exercer função aglutinadora de elevada especialização, com alto grau de complexidade. Atributos complementares que deverão ser especificados no Decreto de nomeação. |
-| DAS-2 | Assessor Especial – Nível 1 | Exercer atividades de assessoramento direto especializado de alta complexidade e de nível estratégico nas diversas Secretarias, órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas e estratégicas, bem como o auxílio na concepção e aprimoramento de políticas públicas complexas e executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.<br>
+| DAS-2 | Assessor Especial – Nível 1 | Exercer atividades de assessoramento direto especializado de alta complexidade e de nível estratégico nas diversas Secretarias, órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas e estratégicas, bem como o auxílio na concepção e aprimoramento de políticas públicas complexas e executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.
+
 (Redação dada pela Lei Complementar nº 211, de 31 de maio de 2021) ~~Exercer atividades de assessoramento direto especializado de alta complexidade e de nível estratégico ao gabinete do Prefeito, à Secretaria Municipal da Fazenda, à Secretaria Municipal de Desenvolvimento Econômico Sustentável e Turismo e Secretaria Municipal de Assistência Social, por meio de articulações políticas e estratégicas, bem como o auxílio na concepção e aprimoramento de políticas públicas complexas e executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.~~ |
 | DAS-2 | Corregedor | Exercer a autoridade competente pela apuração da responsabilidade criminal responsabilidade administrativa e das infrações disciplinares atribuídas ao servidores integrantes do Quadro da Guarda Civil Municipal, previstas no Regime Jurídico e no Regulamento Disciplinar da Guarda Municipal, coordenando e executando todas as competências atribuídas ao órgão denominado Corregedoria da Guarda Civil Municipal. |
-| DAS-2A<br>
-(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025) | Assessor Técnico em Infraestrutura<br>
-(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025) | Exercer atividades de assessoramento direto especializado de alta complexidade e de nível estratégico nas áreas de infraestrutura civil, no âmbito das diversas Secretarias, Órgãos e Entidades da Administração Municipal, por meio de articulações técnicas, bem como o auxílio na concepção e aprimoramento de políticas públicas complexas na área de infraestrutura pública, bem como executar outras atividades de assessoramento superior. Requisito: Diploma, devidamente registrado, de curso de graduação em Engenharia Civil, Engenharia Mecânica, Engenharia Ambiental, Engenharia Elétrica ou Arquitetura e Urbanismo, fornecido por instituição credenciada pelo MEC, bem como Registro Profissional no respectivo órgão de classe e Certidão negativa do Órgão de Classe.<br>
+| DAS-2A
+
+(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025) | Assessor Técnico em Infraestrutura
+
+(Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025) | Exercer atividades de assessoramento direto especializado de alta complexidade e de nível estratégico nas áreas de infraestrutura civil, no âmbito das diversas Secretarias, Órgãos e Entidades da Administração Municipal, por meio de articulações técnicas, bem como o auxílio na concepção e aprimoramento de políticas públicas complexas na área de infraestrutura pública, bem como executar outras atividades de assessoramento superior. Requisito: Diploma, devidamente registrado, de curso de graduação em Engenharia Civil, Engenharia Mecânica, Engenharia Ambiental, Engenharia Elétrica ou Arquitetura e Urbanismo, fornecido por instituição credenciada pelo MEC, bem como Registro Profissional no respectivo órgão de classe e Certidão negativa do Órgão de Classe.
+
 (Inserido pela Lei Complementar nº 428, de 17 de novembro de 2025) |
 | DAS-3 | Diretor | Exercer função de chefia intermediária, abrangendo atividades técnico administrativas específicas nas áreas de gestão, planejamento, controle, orientação e acompanhamento das unidades administrativas sob sua responsabilidade. Necessárias competências técnicas e gerenciais vinculadas às competências da unidade organizacional para a qual será nomeado, bem como, experiência adquirida ao longo da trajetória profissional. Seus atributos complementares deverão ser especificados no Decreto de nomeação. |
 | DAS-3 | Subprefeito | Cumprir e fazer cumprir, de acordo com as instruções recebidas do Prefeito as leis, resoluções, regulamentos e demais atos do Prefeito e da Câmara Municipal, fiscalizando os serviços distritais. Atender as reclamações da população e encaminhá-las ao Prefeito, quando se tratar de matérias estranhas às suas atribuições, indicando as providências necessárias ao Distrito e prestando contas mensalmente. |
 | DAS-4 | Coordenador | Exercer a chefia e coordenação operacional das unidades de sua competência e de menor complexidade. Coordenar a elaboração e acompanhar a implantação de ações e projetos na esfera administrativa, primando pela modernização dos procedimentos. Assistir ao Diretor ou superior imediato nas suas atividades de organização do planejamento. Seus atributos complementares deverão ser especificados no Decreto de nomeação. |
-| DAS-4 | Assessor Especial - Nível 2 | Exercer atividades de assessoramento direto de média complexidade e de nível estratégico nas diversas Secretarias, Órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas e estratégicas, bem com o a execução de ações de acompanhamento, planejamento, otimização, proposição de soluções e resolução de questões de nível técnico, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.<br>
+| DAS-4 | Assessor Especial - Nível 2 | Exercer atividades de assessoramento direto de média complexidade e de nível estratégico nas diversas Secretarias, Órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas e estratégicas, bem com o a execução de ações de acompanhamento, planejamento, otimização, proposição de soluções e resolução de questões de nível técnico, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.
+
 (Redação dada pela Lei Complementar nº 211, de 31 de maio de 2021) ~~Exercer atividades de assessoramento direto de média complexidade e de nível estratégico ao Gabinete do Prefeito, à Secretaria Municipal de Planejamento e Gestão, Secretaria Municipal de Assistência Social e Secretaria Municipal de Desenvolvimento Econômico Sustentável e Turismo por meio de articulações políticas e estratégicas, bem como a execução de ações de acompanhamento, planejamento, otimização, proposição de soluções e resolução de questões de nível técnico, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.~~ |
-| DAS-5 | Assessor Especial – Nível 3 | Exercer atividades de assessoramento direto de média complexidade e de nível tático nas diversas Secretarias e órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.<br>
+| DAS-5 | Assessor Especial – Nível 3 | Exercer atividades de assessoramento direto de média complexidade e de nível tático nas diversas Secretarias e órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.
+
 (Redação dada pela Lei Complementar nº 211, de 31 de maio de 2021) ~~Exercer atividades de assessoramento direto de média complexidade e de nível tático ao gabinete do Prefeito, à Secretaria Municipal de Saúde e à Secretaria Municipal de Planejamento e Gestão, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação.~~ |
 | DAS-5 | Assessor Técnico | Exercer atividades de consultoria e assessoramento técnico de nível superior compreendendo elaboração de projeto, pareceres técnicos, estruturação de relatórios de inteligência no âmbito da sua área de atuação para subsidiar tomada de decisão superior, participação em comissões, pesquisa ativa de benchmarking em outros Municípios, Estados, União e outros Países para aprimoramento das políticas públicas do Município e aprimoramento dos serviços públicos prestados ao Cidadão, bem como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação. |
 | DAS-5 | Chefe de Gabinete | Exercer as atividades de assessoramento direto ao Secretario ao qual está vinculado, competindo-lhe a promoção e articulação dos contatos administrativos, políticos e sociais. Coordenar a agenda de compromissos e atividades relativas às relações públicas do gabinete, promovendo a interlocução de reuniões convocadas pelo Secretário com seus servidores e controlar a tramitação de processos e documentos que tenham sido encaminhados ao Secretário. Executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação. |
-| DAS-5 | Gestor<br>
-(Inserido pela Lei Complementar nº 283, de 17 de fevereiro de 2023) | Exercer a gestão administrativa e operacional das unidades de sua competência. Gerir a elaboração e implantação de ações e projetos na esfera administrativa, primando pela modernização dos procedimentos, bem como chefiar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor. Auxiliar os superiores no cumprimento das suas atividades.<br>
+| DAS-5 | Gestor
+
+(Inserido pela Lei Complementar nº 283, de 17 de fevereiro de 2023) | Exercer a gestão administrativa e operacional das unidades de sua competência. Gerir a elaboração e implantação de ações e projetos na esfera administrativa, primando pela modernização dos procedimentos, bem como chefiar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor. Auxiliar os superiores no cumprimento das suas atividades.
+
 (Inserido pela Lei Complementar nº 283, de 17 de fevereiro de 2023) |
-| DAS-6 | ~~Assessor Especial – Nível 4~~ (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Exercer atividades de assessoramento direto de baixa complexidade nível administrativo e operacional ao gabinete do Prefeito e à Secretaria Municipal de Saúde, por meio de articulações políticas operacionais controle e assessoramento na tramitação de documentos, projetos, processos e demandas de interesse do Prefeito e do Secretário Municipal de Sa Seus atributos complementares deverão ser especificados no Decreto de nomeação. Exercer atividades de assessoramento direto de baixa complexidade e de nível administrativo e operacional nas diversas Secretarias, Órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas operacionais, controle e assessoramento na tramitação de documentos. Seus atributos complementares deverão ser especificados no Decreto de nomeação.<br>
+| DAS-6 | ~~Assessor Especial – Nível 4~~ (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Exercer atividades de assessoramento direto de baixa complexidade nível administrativo e operacional ao gabinete do Prefeito e à Secretaria Municipal de Saúde, por meio de articulações políticas operacionais controle e assessoramento na tramitação de documentos, projetos, processos e demandas de interesse do Prefeito e do Secretário Municipal de Sa Seus atributos complementares deverão ser especificados no Decreto de nomeação. Exercer atividades de assessoramento direto de baixa complexidade e de nível administrativo e operacional nas diversas Secretarias, Órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, por meio de articulações políticas operacionais, controle e assessoramento na tramitação de documentos. Seus atributos complementares deverão ser especificados no Decreto de nomeação.
+
 (Redação dada pela Lei Complementar nº 211, de 31 de maio de 2021)~~ (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024) |
-| DAS-6 | ~~Assessor Técnico de Gabinete - Nível 1<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento direto e de aconselhamento ao Prefeito, Vice-Prefeito ou Secretários Municipais, bem como às Superintendências, Diretorias ou Coordenações, no âmbito da respectiva unidade ou fora dela, planejando, coordenando, controlando e executando trabalhos em matéria de sua competência, que demandem conhecimentos especializados ou específicos.<br>
+| DAS-6 | ~~Assessor Técnico de Gabinete - Nível 1
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento direto e de aconselhamento ao Prefeito, Vice-Prefeito ou Secretários Municipais, bem como às Superintendências, Diretorias ou Coordenações, no âmbito da respectiva unidade ou fora dela, planejando, coordenando, controlando e executando trabalhos em matéria de sua competência, que demandem conhecimentos especializados ou específicos.
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-6 | Assessor de Gabinete – Nível 1<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto e de aconselhamento ao Prefeito, Vice-Prefeito, Secretários Municipais, bem como a Superintendências, Diretorias ou Coordenações, no âmbito da unidade organizacional em que estiver lotado ou fora dela, compreendendo o planejamento, a coordenação, o controle e a execução de tarefas que demandem conhecimentos especializados ou específicos. Requisito: Ensino Fundamental completo.<br>
+| DAS-6 | Assessor de Gabinete – Nível 1
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto e de aconselhamento ao Prefeito, Vice-Prefeito, Secretários Municipais, bem como a Superintendências, Diretorias ou Coordenações, no âmbito da unidade organizacional em que estiver lotado ou fora dela, compreendendo o planejamento, a coordenação, o controle e a execução de tarefas que demandem conhecimentos especializados ou específicos. Requisito: Ensino Fundamental completo.
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-6 | Supervisor<br>
-(Inserido pela Lei Complementar nº 283, de 17 de fevereiro de 2023) | Exercer a supervisão operacional das unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as atividades, ações e projetos desenvolvidos pelos servidores em seu setor, bem como auxiliar os superiores no cumprimento das suas atividades.<br>
+| DAS-6 | Supervisor
+
+(Inserido pela Lei Complementar nº 283, de 17 de fevereiro de 2023) | Exercer a supervisão operacional das unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as atividades, ações e projetos desenvolvidos pelos servidores em seu setor, bem como auxiliar os superiores no cumprimento das suas atividades.
+
 (Inserido pela Lei Complementar nº 283, de 17 de fevereiro de 2023) |
 | DAS-7 | Assessor Institucional | Exercer funções de articulação e apoio institucional, abrangendo atividade de recepção, secretaria, encaminhamento das demandas do público interno e externo ao seu superior imediato, auxiliar no preparo e recebimento de correspondências internas e externas, auxiliar na execução de contatos Órgãos, Entidades e Autoridades, mantendo atualizada a agenda diária como executar outras atividades afins. Seus atributos complementares deverão ser especificados no Decreto de nomeação. |
-| DAS-7 | Chefe de Equipe ou Setor – Nível 1<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~Chefe de Equipe ou Setor<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | Exercer a chefia operacional, administrativa ou de equipes, das unidades de sua competência, de média complexidade, competindo-lhe supervisionar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor, bem como auxiliar a Coordenação e a Direção no cumprimento das suas atividades. Requisito: Ensino Fundamental completo.<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~Exercer a chefia operacional, administrativa ou de equipes, das unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor, bem como auxiliar a Coordenação e a Direção no cumprimento das suas atividades.<br>
+| DAS-7 | Chefe de Equipe ou Setor – Nível 1
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~Chefe de Equipe ou Setor
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | Exercer a chefia operacional, administrativa ou de equipes, das unidades de sua competência, de média complexidade, competindo-lhe supervisionar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor, bem como auxiliar a Coordenação e a Direção no cumprimento das suas atividades. Requisito: Ensino Fundamental completo.
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~Exercer a chefia operacional, administrativa ou de equipes, das unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor, bem como auxiliar a Coordenação e a Direção no cumprimento das suas atividades.
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
 | DAS-7 | Ouvidor | Receber dos cidadãos a comunicação de denúncias, irregularidades, críticas, sugestões, informações sobre atos dos agentes públicos ou sobre serviços por ele prestados, em caráter anônimo ou não, mediando e facilitando comunicação entre o cidadão e a Administração Pública, promovendo relação equilibrada e transparente e encaminhando as demandas par Órgãos ou Entidades responsáveis, com o fim de buscar a solução para que lhe foi apresentado. Monitorar as providências adotadas encaminhadas pelas Secretarias e Órgãos Municipais, a partir das dema encaminhadas pelos cidadãos, efetuando o registro e o controle dos resultados. |
-| DAS-8 | ~~Assessor Especial – Nível 5~~ (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Exercer atividades de assessoramento direto de baixa complexidade nível operacional ao gabinete do Prefeito, à Secretaria Municipal de S e à Secretaria Municipal de Planejamento e Gestão. Executar atividades operacionais técnico administrativas, bem como atribuições e atributos especificados no Decreto de nomeação. Exercer atividades de assessoramento direto de baixa complexidade e de nível operacional nas diversas Secretarias, Órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, Executar atividades operacionais técnico administrativas, bem como atribuições especificados no Decreto de nomeação.~~<br>
+| DAS-8 | ~~Assessor Especial – Nível 5~~ (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Exercer atividades de assessoramento direto de baixa complexidade nível operacional ao gabinete do Prefeito, à Secretaria Municipal de S e à Secretaria Municipal de Planejamento e Gestão. Executar atividades operacionais técnico administrativas, bem como atribuições e atributos especificados no Decreto de nomeação. Exercer atividades de assessoramento direto de baixa complexidade e de nível operacional nas diversas Secretarias, Órgãos e Entidades da Administração Municipal, além daquelas constantes em lei, Executar atividades operacionais técnico administrativas, bem como atribuições especificados no Decreto de nomeação.~~
+
 ~~(Redação dada pela Lei Complementar nº. 211, de 31 de maio de 2021)~~ (Extinto pela Lei Complementar nº 336, de 26 de fevereiro de 2024) |
-| DAS-8 | ~~Assessor Técnico de Gabinete - Nível 2<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento direto e de aconselhamento ao Prefeito, Vice-Prefeito ou Secretários Municipais, bem como às Superintendências, Diretorias ou Coordenações, no âmbito da respectiva unidade ou fora dela, planejando, coordenando, controlando e executando trabalhos em matéria de sua competência e na formulação das diretrizes institucionais a nível estratégico e operacional.<br>
+| DAS-8 | ~~Assessor Técnico de Gabinete - Nível 2
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento direto e de aconselhamento ao Prefeito, Vice-Prefeito ou Secretários Municipais, bem como às Superintendências, Diretorias ou Coordenações, no âmbito da respectiva unidade ou fora dela, planejando, coordenando, controlando e executando trabalhos em matéria de sua competência e na formulação das diretrizes institucionais a nível estratégico e operacional.
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-8 | ~~Assessor de Comunicação<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento e apoio em assuntos decorrentes da política de comunicação institucional do Município, bem como, planejar, organizar e coordenar as ações de comunicação do Município e de suas ações, atividades, projetos, fazendo a interface entre esse e o público externo e interno.<br>
+| DAS-8 | ~~Assessor de Comunicação
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento e apoio em assuntos decorrentes da política de comunicação institucional do Município, bem como, planejar, organizar e coordenar as ações de comunicação do Município e de suas ações, atividades, projetos, fazendo a interface entre esse e o público externo e interno.
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-8 | Assessor de Gabinete – Nível 2<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto à unidade organizacional de lotação, bem como prestar apoio técnico e institucional às diversas Secretarias, Órgãos e Entidades da Administração Pública Municipal, por meio de articulações político-administrativas com a população e com os demais entes da administração. Requisito: Ensino Fundamental completo.<br>
+| DAS-8 | Assessor de Gabinete – Nível 2
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto à unidade organizacional de lotação, bem como prestar apoio técnico e institucional às diversas Secretarias, Órgãos e Entidades da Administração Pública Municipal, por meio de articulações político-administrativas com a população e com os demais entes da administração. Requisito: Ensino Fundamental completo.
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-9<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Assessor de Eventos<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento e apoio em eventos institucionais do Município, atuando no planejamento e organização de solenidades, reuniões, recepção de autoridades entre outros eventos. Preparar cerimoniais, convites, atuar na propagação e divulgação de ações e atividades de comunicação do Município.<br>
+| DAS-9
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Assessor de Eventos
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento e apoio em eventos institucionais do Município, atuando no planejamento e organização de solenidades, reuniões, recepção de autoridades entre outros eventos. Preparar cerimoniais, convites, atuar na propagação e divulgação de ações e atividades de comunicação do Município.
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-9<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Encarregado de Equipe ou Setor<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de gerência de equipes ou em unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as rotinas técnicas, administrativas e operacional, bem como auxiliar a chefia imediata no cumprimento das suas atividades.<br>
+| DAS-9
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Encarregado de Equipe ou Setor
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de gerência de equipes ou em unidades de sua competência, competindo-lhe supervisionar, orientar e acompanhar as rotinas técnicas, administrativas e operacional, bem como auxiliar a chefia imediata no cumprimento das suas atividades.
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-9<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Chefe de Equipe ou Setor – Nível 2<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento e apoio em assuntos administrativos de sua competência, de baixa complexidade, competindo-lhe supervisionar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor, bem como auxiliar a Coordenação e a Direção no cumprimento das suas atividades. Requisito: Ensino Fundamental completo.<br>
+| DAS-9
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Chefe de Equipe ou Setor – Nível 2
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento e apoio em assuntos administrativos de sua competência, de baixa complexidade, competindo-lhe supervisionar, orientar e acompanhar as atividades desenvolvidas pelos servidores em seu setor, bem como auxiliar a Coordenação e a Direção no cumprimento das suas atividades. Requisito: Ensino Fundamental completo.
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-10<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Assessor Técnico de Gabinete - Nível 3<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº. 367, de 2 de dezembro de 2024) | ~~Exercer atividades de assessoramento, assistência e auxílio à respectiva autoridade ou Chefe, em atividades de apoio administrativo e operacional; atender e recepcionar pessoas no âmbito da respectiva unidade ou fora dela, confeccionar correspondências sobre assuntos de rotina e prestar serviços gerais que subsidiem os trabalhos de seus superiores.<br>
+| DAS-10
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Assessor Técnico de Gabinete - Nível 3
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº. 367, de 2 de dezembro de 2024) | ~~Exercer atividades de assessoramento, assistência e auxílio à respectiva autoridade ou Chefe, em atividades de apoio administrativo e operacional; atender e recepcionar pessoas no âmbito da respectiva unidade ou fora dela, confeccionar correspondências sobre assuntos de rotina e prestar serviços gerais que subsidiem os trabalhos de seus superiores.
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº. 367, de 2 de dezembro de 2024) |
-| DAS-10<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Assessor de Gabinete - Nível 1<br>
-(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento nas diversas Secretarias e Órgãos e Entidades da Administração Municipal, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, além de desempenhar atividades de assistência administrativa à unidade organizacional em que estiver lotado, bem como outras atribuições definidas em regulamento interno específico.<br>
+| DAS-10
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | ~~Assessor de Gabinete - Nível 1
+
+(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento nas diversas Secretarias e Órgãos e Entidades da Administração Municipal, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, além de desempenhar atividades de assistência administrativa à unidade organizacional em que estiver lotado, bem como outras atribuições definidas em regulamento interno específico.
+
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-10<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Assessor de Gabinete – Nível 3<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto e de aconselhamento as Autoridades Municipais, colaborando com as Secretarias, Órgãos e Entidades, bem como auxiliando na mediação e comunicação entre a população e os setores públicos. Requisito: Ensino Fundamental completo.<br>
+| DAS-10
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Assessor de Gabinete – Nível 3
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto e de aconselhamento as Autoridades Municipais, colaborando com as Secretarias, Órgãos e Entidades, bem como auxiliando na mediação e comunicação entre a população e os setores públicos. Requisito: Ensino Fundamental completo.
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-11<br>
-(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025) | ~~Assessor de Gabinete - Nível 2<br>
-(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento nas diversas Secretarias e Órgãos e Entidades da Administração Municipal, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, além de desempenhar atividades de assistência administrativa à unidade organizacional em que estiver lotado, bem como outras atribuições definidas em regulamento interno específico.<br>
+| DAS-11
+
+(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025) | ~~Assessor de Gabinete - Nível 2
+
+(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) | ~~Exercer atividades de assessoramento nas diversas Secretarias e Órgãos e Entidades da Administração Municipal, por meio de articulações político administrativas com a população, Órgãos e Entidades da Administração Pública Municipal, além de desempenhar atividades de assistência administrativa à unidade organizacional em que estiver lotado, bem como outras atribuições definidas em regulamento interno específico.
+
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinto pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| DAS-11<br>
-(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025) | Assessor de Gabinete – Nível 4<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto aos gestores, no desempenho de suas atividades, colaborando com as Secretarias, Órgãos e Entidades da Administração Municipal no relacionamento com a população e na articulação com os demais setores da Prefeitura. Requisito: Ensino Fundamental completo.<br>
+| DAS-11
+
+(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025) | Assessor de Gabinete – Nível 4
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades de assessoramento direto aos gestores, no desempenho de suas atividades, colaborando com as Secretarias, Órgãos e Entidades da Administração Municipal no relacionamento com a população e na articulação com os demais setores da Prefeitura. Requisito: Ensino Fundamental completo.
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
 
 **ANEXO V**
@@ -2908,159 +3013,260 @@ Procurador-Geral
 | ~~ESPÉCIE/ NÍVEL~~ | ~~QUANTITATIVO~~ | ~~VALOR (R$)~~ |
 | --- | --- | --- |
 | ~~FG-1~~ | ~~30~~ | ~~3.150,00~~ |
-| ~~FG-1<br>
+| ~~FG-1
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~32~~ | ~~3.150,00~~ |
-| ~~FG-1<br>
+| ~~FG-1
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~34~~ | ~~3.150,00~~ |
 | ~~FG-2~~ | ~~46~~ | ~~2.625,00~~ |
-| ~~FG-2<br>
+| ~~FG-2
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~49~~ | ~~2.625,00~~ |
-| ~~FG-2<br>
+| ~~FG-2
+
 (Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022)~~ | ~~51~~ | ~~2.625,00~~ |
-| ~~FG-2<br>
+| ~~FG-2
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~65~~ | ~~2.625,00~~ |
-| ~~FG-2<br>
+| ~~FG-2
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~69~~ | ~~2.625,00~~ |
 | ~~FG-3~~ | ~~26~~ | ~~2.100,00~~ |
-| ~~FG-3<br>
+| ~~FG-3
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~30~~ | ~~2.100,00~~ |
-| ~~FG-3<br>
+| ~~FG-3
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~30~~ | ~~2.100,00~~ |
 | ~~FG-4~~ | ~~137~~ | ~~1.575,00~~ |
-| ~~FG-4<br>
+| ~~FG-4
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~140~~ | ~~1.575,00~~ |
-| ~~FG-4<br>
+| ~~FG-4
+
 (Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022~~ | ~~142~~ | ~~1.575,00~~ |
-| ~~FG-4<br>
+| ~~FG-4
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~159~~ | ~~1.575,00~~ |
-| ~~FG-4<br>
+| ~~FG-4
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~186~~ | ~~1.575,00~~ |
 | ~~FG-5~~ | ~~109~~ | ~~1.050,00~~ |
-| ~~FG-5<br>
+| ~~FG-5
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~123~~ | ~~1.050,00~~ |
-| ~~FG-5<br>
+| ~~FG-5
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~116~~ | ~~1.050,00~~ |
 | ~~FG-6~~ | ~~163~~ | ~~787,50~~ |
-| ~~FG-6<br>
+| ~~FG-6
+
 (Redação dada pela Lei complementar nº 248, de 27 de maio de 2022)~~ | ~~173~~ | ~~787,50~~ |
-| ~~FG-6<br>
+| ~~FG-6
+
 (Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022~~ | ~~175~~ | ~~787,50~~ |
-| ~~FG-6<br>
+| ~~FG-6
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~175~~ | ~~787,50~~ |
-| ~~FG-6<br>
+| ~~FG-6
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~166~~ | ~~787,50~~ |
 | ~~FG-7~~ | ~~103~~ | ~~525,00~~ |
-| ~~FG-7<br>
+| ~~FG-7
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~103~~ | ~~525,00~~ |
-| ~~FG-7<br>
+| ~~FG-7
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~117~~ | ~~525,00~~ |
 | ~~Total:~~ | ~~614~~ |   |
-| ~~Total:<br>
+| ~~Total:
+
 (Redação dada pela Lei complementar nº 248, de 27 de maio de 2022)~~ | ~~624~~ |   |
-| ~~Total:<br>
+| ~~Total:
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~630~~ |   |
-| ~~Total:<br>
+| ~~Total:
+
 (Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022~~ | ~~636~~ |   |
-| ~~Total:<br>
+| ~~Total:
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~687~~ |   |
-| ~~Total:<br>
+| ~~Total:
+
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)~~ | ~~718~~ |   |
 
-<br>
 ~~(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022)~~
 
 1\. Tabela 1 - Consolidada
 
 | ESPÉCIE/NÍVEL | QUANTITATIVO | REMUNERAÇÃO |
 | --- | --- | --- |
-| FG-1 | 56<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~35<br>
-38<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-41<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-47<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-51<br>
+| FG-1 | 56
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~35
+
+38
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+41
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+47
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+51
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 3.150,00 |
-| FG-2 | 99<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~77<br>
-80<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-84<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-88<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-92<br>
+| FG-2 | 99
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~77
+
+80
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+84
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+88
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+92
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 2.625,00 |
-| FG-3 | 51<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~35~~ ~~38<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-41<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-44<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-45<br>
-(Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025)<br>
-43<br>
+| FG-3 | 51
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~3538
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+41
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+44
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+45
+
+(Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025)
+
+43
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 2.100,00 |
-| FG-4 | 269<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~196<br>
-208<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-216<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-236<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-245<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-249<br>
+| FG-4 | 269
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~196
+
+208
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+216
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+236
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+245
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+249
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 1.575,00 |
-| FG-5 | 164<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~128<br>
-139<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-149<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-153<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-154<br>
+| FG-5 | 164
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~128
+
+139
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+149
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+153
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+154
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 1.050,00 |
-| FG-6 | 201<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~167<br>
-171<br>
-(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)<br>
-183<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-197<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-192<br>
+| FG-6 | 201
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~167
+
+171
+
+(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)
+
+183
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+197
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+192
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 787,50 |
-| FG-7 | ~~131~~ ~~135<br>
-(Redação dada pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ ~~131<br>
-(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024)~~ ~~148<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ 158<br>
+| FG-7 | ~~131135
+
+(Redação dada pela Lei Complementar nº 332, de 22 de dezembro de 2023)131
+
+(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024)148
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ 158
+
 (Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) | 525,00 |
-| TOTAL | 998<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~769<br>
-773<br>
-(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)<br>
-795<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-791<br>
-(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024)<br>
-849<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-892<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-922<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-923<br>
-(Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025)<br>
-929<br>
+| TOTAL | 998
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~769
+
+773
+
+(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)
+
+795
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+791
+
+(Redação dada pela Lei Complementar nº 358, de 24 de junho de 2024)
+
+849
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+892
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+922
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+923
+
+(Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025)
+
+929
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |   |
 
-<br>
 (Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023)
 
 ~~1\. Tabela 2 - Prefeitura Municipal de Rio Verde~~
@@ -3081,18 +3287,24 @@ Procurador-Geral
 | ~~ESPÉCIE/ NÍVEL~~ | ~~QUANTITATIVO~~ | ~~VALOR (R$)~~ |
 | --- | --- | --- |
 | ~~FG-1~~ | ~~7~~ | ~~3.150,00~~ |
-| ~~FG-2~~ | ~~35<br>
-38<br>
+| ~~FG-2~~ | ~~35
+
+38
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~2.625,00~~ |
-| ~~FG-3~~ | ~~21<br>
-19<br>
+| ~~FG-3~~ | ~~21
+
+19
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~2.100,00~~ |
 | ~~FG-4~~ | ~~42~~ | ~~1.575,00~~ |
 | ~~FG-5~~ | ~~35~~ | ~~1.050,00~~ |
 | ~~FG-6~~ | ~~20~~ | ~~787,50~~ |
 | ~~FG-7~~ | ~~29~~ | ~~525,00~~ |
-| ~~Total:~~ | ~~189<br>
-190<br>
+| ~~Total:~~ | ~~189
+
+190
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ |   |
 
 ~~(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~
@@ -3101,63 +3313,109 @@ Procurador-Geral
 
 | ESPÉCIE / NÍVEL | QUANTITATIVO | VALOR (R$) |
 | --- | --- | --- |
-| FG-1 | 20<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~7<br>
-10<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-12<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-16<br>
+| FG-1 | 20
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~7
+
+10
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+12
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+16
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 3.150,00 |
-| FG-2 | 57<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~41<br>
-48<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-52<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-53<br>
+| FG-2 | 57
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~41
+
+48
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+52
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+53
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 2.625,00 |
-| FG-3 | 20<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~19~~ ~~22<br>
+| FG-3 | 20
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~1922
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ | 2.100,00 |
-| FG-4 | 89<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~50<br>
-62<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-70<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-80<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)<br>
-84<br>
+| FG-4 | 89
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~50
+
+62
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+70
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+80
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)
+
+84
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 1.575,00 |
-| FG-5 | 64<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~49<br>
-47<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-58<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)<br>
-59<br>
+| FG-5 | 64
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~49
+
+47
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+58
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)
+
+59
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | 1.050,00 |
-| FG-6 | 28<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~20<br>
-24<br>
-(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)<br>
-33<br>
+| FG-6 | 28
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~20
+
+24
+
+(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)
+
+33
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ | 787,50 |
-| FG-7 | 45<br>
+| FG-7 | 45
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) ~~29~~ | 525,00 |
-| Total | 323<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~215<br>
-219<br>
-(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)<br>
-239<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)<br>
-292<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ ~~307<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ ~~313<br>
+| Total | 323
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~215
+
+219
+
+(Redação dada pela Lei Complementar nº 315, de 02 de outubro de 2023)
+
+239
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)
+
+292
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)307
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)313
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |   |
 
-<br>
 (Redação dada pela Lei Complementar nº. 271, de 16 de dezembro de 2022)
 
 ~~2\. Tabela 3 - Secretaria Municipal de Educação - SME~~
@@ -3185,7 +3443,6 @@ Procurador-Geral
 | FG-7 | 50 | 525,00 |
 | Total: | 274 |   |
 
-<br>
 (Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022 e pela Lei Complementar nº. 310, de 28 de agosto de 2023)
 
 ~~3\. Tabela 4 - Secretaria Municipal de Saúde – SMS~~
@@ -3203,57 +3460,82 @@ Procurador-Geral
 | --- | --- | --- |
 | ~~FG-1~~ | ~~10~~ | ~~3.641,72~~ |
 | ~~FG-2~~ | ~~2~~ | ~~2.625,00~~ |
-| ~~FG-3<br>
+| ~~FG-3
+
 (Inserido pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~2~~ | ~~2.427,81~~ |
-| ~~FG-4~~ | ~~27~~ ~~30<br>
+| ~~FG-4~~ | ~~2730
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~1.820,86~~ |
 | ~~FG-5~~ | ~~13~~ | ~~1.213,91~~ |
 | ~~FG-6~~ | ~~3~~ | ~~787,50~~ |
 | ~~FG-7~~ | ~~17~~ | ~~525,00~~ |
-| ~~Total:~~ | ~~72~~ ~~77<br>
+| ~~Total:~~ | ~~7277
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ |   |
 
-<br>
 ~~(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022)~~
 
 3\. Tabela 4 – Secretaria Municipal de Saúde – SMS
 
 | ESPÉCIE/NÍVEL | QUANTITATIVO | REMUNERAÇÃO |
 | --- | --- | --- |
-| FG-1 | 23<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~14~~ ~~15<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ ~~16<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ ~~18<br>
+| FG-1 | 23
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1415
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)16
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)18
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 3.641,72 |
-| FG-2 | 19<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~10~~ ~~09<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ ~~12<br>
+| FG-2 | 19
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1009
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)12
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 2.625,00 |
-| FG-3 | 20<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~06~~ ~~09<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ ~~12<br>
+| FG-3 | 20
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~0609
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)12
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 2.427,81 |
-| FG-4 | 99<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~74~~ ~~84<br>
+| FG-4 | 99
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~7484
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 1.820,86 |
-| FG-5 | 35<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~20~~ ~~30<br>
+| FG-5 | 35
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2030
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ | 1.213,91 |
-| FG-6 | 16<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~04~~ ~~05<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ ~~08<br>
+| FG-6 | 16
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~0405
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)08
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ | 787,50 |
-| FG-7 | 56<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~31~~ ~~45<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ ~~46<br>
+| FG-7 | 56
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~3145
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)46
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ | 525,00 |
-| TOTAL | 268<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~159~~ ~~177<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ ~~182<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ ~~210<br>
+| TOTAL | 268
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~159177
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)182
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)210
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |   |
 
-<br>
 (Redação dada pela Lei Complementar nº291, de 30 de março de 2023)
 
 ~~4\. Tabela 5 - Secretaria Municipal de Assistência Social – SMAS~~
@@ -3274,21 +3556,27 @@ Procurador-Geral
 | --- | --- | --- |
 | FG-1 | 1 | 3.150,00 |
 | FG-2 | 1 | 2.625,00 |
-| FG-3 | 04<br>
+| FG-3 | 04
+
 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~1~~ | 2.100,00 |
-| FG-4 | 11<br>
+| FG-4 | 11
+
 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~2~~ | 1.575,00 |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | 04<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | R$ 1.429,41<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | 04
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | R$ 1.429,41
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| FG-6 | 17<br>
+| FG-6 | 17
+
 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~3~~ | 787,50 |
 | FG-7 | 7 | 525,00 |
-| Total: | 45<br>
+| Total: | 45
+
 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~15~~  |   |
 
-<br>
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)
 
 5\. Tabela 6 - Procuradoria-Geral do Município – PGM
@@ -3296,10 +3584,12 @@ Procurador-Geral
 | ESPÉCIE/ NÍVEL | QUANTITATIVO | VALOR (R$) |
 | --- | --- | --- |
 | FG-1 | 2 | 3.150,00 |
-| FG-3 | 2<br>
+| FG-3 | 2
+
 (Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025) ~~1~~ | 2.100,00 |
 | FG-4 | 30 | 1.575,00 |
-| Total: | 34<br>
+| Total: | 34
+
 (Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025) ~~33~~ |   |
 
 ~~6\. Tabela 7 - Controladoria-Geral do Município – CGM~~
@@ -3319,7 +3609,6 @@ Procurador-Geral
 | ~~FG-4~~ | ~~1~~ | ~~1.820,86~~ |
 | ~~Total:~~ | ~~16~~ |   |
 
-<br>
 ~~(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~
 
 6\. Tabela 7 - Controladoria-Geral do Município – CGM
@@ -3332,10 +3621,10 @@ Procurador-Geral
 | FG-4 | 03 | 1.820,86 |
 | TOTAL | 20 |   |
 
-<br>
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)
 
-7\. Tabela 8 – Agência Municipal de Defesa do Consumidor – PROCON<br>
+7\. Tabela 8 – Agência Municipal de Defesa do Consumidor – PROCON
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)
 
 | ESPÉCIE/ NÍVEL | QUANTITATIVO | VALOR (R$) |
@@ -3343,30 +3632,37 @@ Procurador-Geral
 | FG-4 | 9 | 1.820,86 |
 | Total: | 9 |   |
 
-<br>
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)
 
-8\. Tabela 9 - Agência Municipal de Mobilidade Urbana – AMT<br>
+8\. Tabela 9 - Agência Municipal de Mobilidade Urbana – AMT
+
 (Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022)
 
 | ESPÉCIE/ NÍVEL | QUANTITATIVO | VALOR (R$) |
 | --- | --- | --- |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | 1 | 2.100,00<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | 1 | 2.100,00
+
 (Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) |
 | FG-5 | 1 | 1.213,91 |
-| FG-6<br>
-(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | 1<br>
-(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | R$ 1.117,73<br>
+| FG-6
+
+(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | 1
+
+(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | R$ 1.117,73
+
 (Inserido pela Lei Complementar nº 452, de 23 de março de 2026) |
-| Total: | 3<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1~~ ~~2<br>
+| Total: | 3
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~12
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ |   |
 
-<br>
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)
 
-~~9\. Tabela 10 - Instituto de Previdência de Assistência dos Servidores Municipais de Rio Verde – IPARV<br>
+~~9\. Tabela 10 - Instituto de Previdência de Assistência dos Servidores Municipais de Rio Verde – IPARV
+
 (Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022)~~
 
 | ~~ESPÉCIE/ NÍVEL~~ | ~~QUANTITATIVO~~ | ~~VALOR (R$)~~ |
@@ -3376,7 +3672,6 @@ Procurador-Geral
 | ~~FG-6~~ | ~~2~~ | ~~910,43~~ |
 | ~~Total:~~ | ~~5~~ |   |
 
-<br>
 ~~(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~
 
 9\. Tabela 10 - Instituto de Previdência de Assistência dos Servidores Municipais de Rio Verde - IPARV
@@ -3388,10 +3683,10 @@ Procurador-Geral
 | FG-6 | 4 | 910,43 |
 | Total: | 11 |   |
 
-<br>
 (Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022)
 
-~~10\. Tabela 11 - Guarda Civil Municipal – GCM<br>
+~~10\. Tabela 11 - Guarda Civil Municipal – GCM
+
 (Inserido pela Lei Complementar nº 248, de 27 de maio de 2022)~~
 
 | ~~ESPÉCIE/NÍVEL~~ | ~~QUANTITATIVO~~ | ~~VALOR (R$)~~ |
@@ -3399,22 +3694,25 @@ Procurador-Geral
 | ~~FG-6~~ | ~~10~~ | ~~910,43~~ |
 | ~~Total:~~ | ~~10~~ |   |
 
-<br>
 ~~(Inserido pela Lei Complementar nº 248, de 27 de maio de 2022)~~
 
 10\. Tabela 11 - Guarda Civil Municipal - GCM
 
 | ESPÉCIE/ NÍVEL | QUANTITATIVO | VALOR (R$) |
 | --- | --- | --- |
-| FG-2 | 11<br>
-(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023 ~~10~~ | 2.625,00<br>
+| FG-2 | 11
+
+(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023 ~~10~~ | 2.625,00
+
 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) ~~910,43~~ |
-| Total: | 11<br>
+| Total: | 11
+
 (Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023 ~~10~~ |   |
 
 (Redação dada pela Lei Complementar nº 291, de 30 de março de 2023)
 
-~~11\. Tabela 12 - Agência de Regulação dos Serviços Públicos de Saneamento Básico –AMAE<br>
+~~11\. Tabela 12 - Agência de Regulação dos Serviços Públicos de Saneamento Básico –AMAE
+
 (Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023) (Revogado pela Lei Complementar nº 358, de 24 de junho de 2024)~~
 
 | ~~ESPÉCIE/ NÍVEL~~ | ~~QUANTITATIVO~~ | ~~VALOR (R$)~~ |
@@ -3422,7 +3720,6 @@ Procurador-Geral
 | ~~FG-7~~ | ~~4~~ | ~~643,37~~ |
 | ~~Total:~~ | ~~4~~ |   |
 
-<br>
 ~~(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~
 
 (Revogado pela Lei Complementar nº 358, de 24 de junho de 2024)
@@ -3436,387 +3733,670 @@ Tabela 1 – Prefeitura Municipal de Rio Verde
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
 | FG-1 | Gestor Fiscal e Previdenciário | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão fiscal e previdenciária. Tem a função de realizar o levantamento e apuração de créditos tributários relacionados a área previdenciária. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 1 |
-| FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de alta complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de alta complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 14<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~6~~ ~~12<br>
+| FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de alta complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de alta complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 14
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~612
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ |
-| ~~FG-1<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ | ~~Gestor de Pessoas, Pagamento e Carreiras<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ | ~~Planejar, coordenar e executar atividades relacionadas à gestão de pessoas, pagamento e carreiras no órgão de pessoal centralizado, buscando alinhar as competências individuais dos servidores com as estratégias organizacionais do município. Administrar os processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação trabalhista, prestação de contas e outros. Definir e implementar políticas e programas de gestão de carreiras, progressão, reconhecimento e descoberta de talentos. Liderar e orientar as equipes de trabalho, acompanhando e analisando os indicadores de desempenho, clima organizacional, turnover, absenteísmo e outros, contribuindo para a construção e manutenção de cultura organizacional positiva, ética e voltada para os bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~3<br>
+| ~~FG-1
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ | ~~Gestor de Pessoas, Pagamento e Carreiras
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ | ~~Planejar, coordenar e executar atividades relacionadas à gestão de pessoas, pagamento e carreiras no órgão de pessoal centralizado, buscando alinhar as competências individuais dos servidores com as estratégias organizacionais do município. Administrar os processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação trabalhista, prestação de contas e outros. Definir e implementar políticas e programas de gestão de carreiras, progressão, reconhecimento e descoberta de talentos. Liderar e orientar as equipes de trabalho, acompanhando e analisando os indicadores de desempenho, clima organizacional, turnover, absenteísmo e outros, contribuindo para a construção e manutenção de cultura organizacional positiva, ética e voltada para os bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~3
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ |
-| FG-1<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível I<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 2 (dois) anos em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 5<br>
+| FG-1
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível I
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 2 (dois) anos em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 5
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
 | ~~FG-2~~ | ~~Gestor de Departamento Pessoal~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do departamento de pessoal. Tem a função de coordenar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 239, de 1º de abril de 2022) | ~~3~~ |
-| FG-2 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar n. 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ |  27<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) ~~41~~ ~~21<br>
-(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022)~~ ~~23<br>
-(Redação dada pela Lei Complementar nº. 271, de 16 de dezembro de 2022)~~ ~~52<br>
+| FG-2 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar n. 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ |  27
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) ~~4121
+
+(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022)23
+
+(Redação dada pela Lei Complementar nº. 271, de 16 de dezembro de 2022)52
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ |
-| ~~FG-2~~ | ~~Gestor de Folha de Pagamento Gestor de Pessoas e Folha de Pagamento Nível I<br>
-(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da folha de pagamento de pessoal. Tem a função de administrar diariamente a folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária experiência mínima de 01 (um) ano na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~5~~ ~~8<br>
-(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022)~~ ~~10<br>
+| ~~FG-2~~ | ~~Gestor de Folha de Pagamento Gestor de Pessoas e Folha de Pagamento Nível I
+
+(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da folha de pagamento de pessoal. Tem a função de administrar diariamente a folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária experiência mínima de 01 (um) ano na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~58
+
+(Redação dada pela Lei Complementar nº. 239, de 1º de abril de 2022)10
+
 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ |
-| ~~FG-2~~ | ~~Gestor de Compras Governamentais~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do processo de compras governamentais. É responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~3~~ ~~8<br>
+| ~~FG-2~~ | ~~Gestor de Compras Governamentais~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do processo de compras governamentais. É responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~38
+
 (Redação dada pela Lei Complementar nº. 271, de 16 de dezembro de 2022)~~ |
-| FG-2<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Gestor de Manutenção e Reparos Prediais<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da parte de manutenção e reparos nos prédios públicos do Município. Tem a função de supervisionar a manutenção, reparos e reformas de instalações e equipamentos prediais, gerenciar pedidos de compras de materiais, controlar a estocagem e distribuição de materiais e delegar funções a equipe responsável. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | 1<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Gestor de Manutenção e Reparos Prediais
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da parte de manutenção e reparos nos prédios públicos do Município. Tem a função de supervisionar a manutenção, reparos e reformas de instalações e equipamentos prediais, gerenciar pedidos de compras de materiais, controlar a estocagem e distribuição de materiais e delegar funções a equipe responsável. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | 1
+
 (Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Gestor de Prestação de Contas, Parcerias e Convênios<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Exercer atividades estratégicas para a administração Pública Municipal, que envolvem a gestão de termos de parcerias e convênios de média/alta complexidade. Tem a função de ser responsável pelos processos administrativos colaborando ativamente com a Superintendência de Planejamento e Gestão Integrada, Diretoria de Parcerias e Convênios e as demais Secretarias para instruir, otimizar e fortalecer os procedimentos de parcerias e convênios municipais. Gerenciar e supervisionar as atividades sob as diretrizes da Diretora de Parcerias e Convênios, agindo como ponte entre a Direção e os funcionários. Acompanhar e controlar os processos de prestação de contas, supervisionando a elaboração de acordos e convênios, enquanto assegura o apoio e o cumprimento de prazos. Monitorar atentamente as publicações no Portal da Transparência e no site oficial do Município. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado e resolução de problemas. Seus atributos complementares deverão ser especificados.<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | 1<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Gestor de Prestação de Contas, Parcerias e Convênios
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Exercer atividades estratégicas para a administração Pública Municipal, que envolvem a gestão de termos de parcerias e convênios de média/alta complexidade. Tem a função de ser responsável pelos processos administrativos colaborando ativamente com a Superintendência de Planejamento e Gestão Integrada, Diretoria de Parcerias e Convênios e as demais Secretarias para instruir, otimizar e fortalecer os procedimentos de parcerias e convênios municipais. Gerenciar e supervisionar as atividades sob as diretrizes da Diretora de Parcerias e Convênios, agindo como ponte entre a Direção e os funcionários. Acompanhar e controlar os processos de prestação de contas, supervisionando a elaboração de acordos e convênios, enquanto assegura o apoio e o cumprimento de prazos. Monitorar atentamente as publicações no Portal da Transparência e no site oficial do Município. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado e resolução de problemas. Seus atributos complementares deverão ser especificados.
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | 1
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) |
 | FG-2 | Pregoeiro | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a atividade de pregoeiro. Exerce as atividades de coordenação dos trabalhos da equipe de apoio e a condução do procedimento licitatório, o credenciamento dos interessados, o recebimento da declaração dos licitantes do pleno atendimento aos requisitos de habilitação, bem como dos envelopes contendo as propostas e os documentos de habilitação, a abertura dos envelopes-proposta, a análise e desclassificação das propostas que não atenderem às especificações do objeto ou as condições e prazos de execução ou fornecimento fixadas no edital, a ordenação das propostas não desclassificadas e a seleção dos licitantes que participarão da fase de lances, a classificação das ofertas, conjugadas as propostas e os lances, a negociação do preço, visando à sua redução, a verificação e a decisão motivada a respeito da aceitabilidade do menor preço, a análise dos documentos de habilitação do autor da oferta de melhor preço, a adjudicação do objeto ao licitante vencedor, se não tiver havido manifestação de recorrer por parte de algum licitante, a elaboração da ata da sessão pública, a análise dos recursos eventualmente apresentados, reconsiderando o ato impugnado ou promovendo o encaminhamento do processo instruído com a sua manifestação à decisão da autoridade competente e propor à autoridade competente a homologação, anulação ou revogação do procedimento licitatório. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 2 |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível II<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 1 (um) ano e 6 (meses) em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 16<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível II
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 1 (um) ano e 6 (meses) em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 16
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível I<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de alta complexidade. É responsável por supervisionar a condução de cotações, aquisições e licitações, zelando pelo desempenho e pela melhoria contínua dos processos. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e gerencia o desempenho por meio de indicadores. É atribuída aos Servidores Públicos Municipais com nível superior de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 2 (dois anos) na área de compras, contratos ou licitações.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 8<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível I
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de alta complexidade. É responsável por supervisionar a condução de cotações, aquisições e licitações, zelando pelo desempenho e pela melhoria contínua dos processos. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e gerencia o desempenho por meio de indicadores. É atribuída aos Servidores Públicos Municipais com nível superior de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 2 (dois anos) na área de compras, contratos ou licitações.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 8
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Almoxarifado e Patrimônio<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de Almoxarifado e Patrimônio. E responsável pela operação e gestão do processo de recebimento e estocagem de bens e materiais permanentes ou de consumo, e ainda pelo controle de dados, indicadores e elaboração de relatórios necessários para a gestão do setor. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Almoxarifado e Patrimônio
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de Almoxarifado e Patrimônio. E responsável pela operação e gestão do processo de recebimento e estocagem de bens e materiais permanentes ou de consumo, e ainda pelo controle de dados, indicadores e elaboração de relatórios necessários para a gestão do setor. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-3<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Gestor Administrativo e de Pessoal<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão administrativa e de pessoal. Tem a função de gerenciar, planejar e controlar as atividades e recursos da área administrativa, garantindo conformidade com as normas e leis. Atua ainda coordenando o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e presta auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | 5<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Gestor Administrativo e de Pessoal
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão administrativa e de pessoal. Tem a função de gerenciar, planejar e controlar as atividades e recursos da área administrativa, garantindo conformidade com as normas e leis. Atua ainda coordenando o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e presta auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | 5
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| ~~FG-3 FG-2<br>
-(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~Presidente da Comissão Especial de Licitação~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão, que envolvem a presidência da Comissão na promoção das medidas necessárias ao processamento e julgamento das licitações, zelando pela observância dos princípios constitucionais atinentes à Administração Pública, das normas gerais da legislação federal específica, da ordem dos trabalhos e daqueles que forem estipulados no ato convocatório, convocação das reuniões da comissão, com antecedência mínima de 24 (vinte e quatro) horas, indicando a matéria a ser apreciada, presidência das reuniões da comissão, com direito ao voto de qualidade, proposição da comissão a padronização de atos convocatórios, atas, termos e declarações concernentes ao procedimento licitatório, encaminhamento do resultado final do julgamento para homologação e/ou adjudicação pela autoridade competente, após o decurso de todos os prazos recursais, assinatura dos editais de Concorrência, Tomada de Preços, Pregão, Convite, Concurso e Leilão, bem como os Pareceres relativos às Dispensas e Inexigibilidades de Licitação, e ainda os avisos a serem publicados e assinatura das atas referentes aos trabalhos da comissão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~1~~ ~~2<br>
+| ~~FG-3 FG-2
+
+(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ | ~~Presidente da Comissão Especial de Licitação~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão, que envolvem a presidência da Comissão na promoção das medidas necessárias ao processamento e julgamento das licitações, zelando pela observância dos princípios constitucionais atinentes à Administração Pública, das normas gerais da legislação federal específica, da ordem dos trabalhos e daqueles que forem estipulados no ato convocatório, convocação das reuniões da comissão, com antecedência mínima de 24 (vinte e quatro) horas, indicando a matéria a ser apreciada, presidência das reuniões da comissão, com direito ao voto de qualidade, proposição da comissão a padronização de atos convocatórios, atas, termos e declarações concernentes ao procedimento licitatório, encaminhamento do resultado final do julgamento para homologação e/ou adjudicação pela autoridade competente, após o decurso de todos os prazos recursais, assinatura dos editais de Concorrência, Tomada de Preços, Pregão, Convite, Concurso e Leilão, bem como os Pareceres relativos às Dispensas e Inexigibilidades de Licitação, e ainda os avisos a serem publicados e assinatura das atas referentes aos trabalhos da comissão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~12
+
 (Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022)~~ |
-| FG-2<br>
-(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022) ~~FG-3~~ | Presidente da Comissão Disciplinar e Atos de Pessoal<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Presidente da Comissão Disciplinar e Atos de Pessoal Presidente da Comissão de Processos<br>
-(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022~~) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão, que envolvem a presidência da Comissão na condução de processos disciplinares e de atos que pessoal que envolvem os Servidores Públicos Municipais. É atribuída a Servidores Públicos Municipais com título de Bacharel em Direito. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de Designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão, que envolvem a presidência da Comissão na condução de processos disciplinares e de atos que pessoal que envolvem os Servidores Públicos Municipais. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 02<br>
+| FG-2
+
+(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022) ~~FG-3~~ | Presidente da Comissão Disciplinar e Atos de Pessoal
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Presidente da Comissão Disciplinar e Atos de Pessoal Presidente da Comissão de Processos
+
+(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022~~) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão, que envolvem a presidência da Comissão na condução de processos disciplinares e de atos que pessoal que envolvem os Servidores Públicos Municipais. É atribuída a Servidores Públicos Municipais com título de Bacharel em Direito. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de Designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão, que envolvem a presidência da Comissão na condução de processos disciplinares e de atos que pessoal que envolvem os Servidores Públicos Municipais. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 02
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) ~~1~~ |
-| FG-3<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~FG-4~~ | Gestor de Contratos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de alta complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 6<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~13~~ ~~22<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 16<br>
+| FG-3
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~FG-4~~ | Gestor de Contratos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de alta complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 6
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~1322
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 16
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível III<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível técnico de escolaridade, no mínimo. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 1 (um) ano em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 2<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível III
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível técnico de escolaridade, no mínimo. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 1 (um) ano em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 2
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível II<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de alta complexidade. É responsável por supervisionar a condução de cotações, aquisições e licitações, zelando pelo desempenho e pela melhoria contínua dos processos. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e gerencia o desempenho por meio de indicadores. É atribuída aos Servidores Públicos Municipais com nível superior de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 1 (um) ano e 6 (seis) meses na área de compras, contratos ou licitações.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 6<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível II
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de alta complexidade. É responsável por supervisionar a condução de cotações, aquisições e licitações, zelando pelo desempenho e pela melhoria contínua dos processos. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e gerencia o desempenho por meio de indicadores. É atribuída aos Servidores Públicos Municipais com nível superior de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 1 (um) ano e 6 (seis) meses na área de compras, contratos ou licitações.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 6
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
-| FG-4 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 49<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~42~~ ~~22<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~70<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 40<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ ~~44<br>
+| FG-4 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 49
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~4222
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)70
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 40
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)44
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |
-| ~~FG-4~~ | ~~Agente de Compras Governamentais Agente de Compras Governamentais Nível I<br>
-(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos, para a qual será designado. Necessária experiência mínima de 06 (seis) meses. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
+| ~~FG-4~~ | ~~Agente de Compras Governamentais Agente de Compras Governamentais Nível I
+
+(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos, para a qual será designado. Necessária experiência mínima de 06 (seis) meses. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~14~~ |
-| ~~FG-4<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Gestor de Pessoas e Folha de Pagamento Nível II<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, no mínimo. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária a comprovação de experiência mínima de 06 (seis) meses na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~8<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) 18<br>
+| ~~FG-4
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Gestor de Pessoas e Folha de Pagamento Nível II
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal junto à Diretoria de Gestão de Pessoas, que envolvem a gestão de pessoas e de folha de pagamento de pessoal. Tem a função de administrar diariamente as atividades relativas a gestão de pessoas, folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, no mínimo. Desejáveis conhecimentos técnicos na função para a qual será designado. Necessária a comprovação de experiência mínima de 06 (seis) meses na área de Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~8
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) 18
+
 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024)~~ |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Governança Eletrônica e Serviços<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de governança eletrônica e serviços. Tem a função de controlar e executar trabalhos relacionados à gestão de processos, recursos e governança de Tecnologia da Informação e Comunicação, atuando na supervisão das demandas técnicas de suporte, serviços de manutenção, levantamento de necessidade dos usuários sobre a utilização de equipamentos e programas computadorizados e coordenação das ações que visam a implantação de softwares e gerenciamento de projetos. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Governança Eletrônica e Serviços
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de governança eletrônica e serviços. Tem a função de controlar e executar trabalhos relacionados à gestão de processos, recursos e governança de Tecnologia da Informação e Comunicação, atuando na supervisão das demandas técnicas de suporte, serviços de manutenção, levantamento de necessidade dos usuários sobre a utilização de equipamentos e programas computadorizados e coordenação das ações que visam a implantação de softwares e gerenciamento de projetos. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível III<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de média complexidade. É responsável pela execução da cotação e aquisição de produtos e serviços específicos, bem como pela instrução e organização dos processos correspondentes. É atribuída aos Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 1 (um) ano na área de compras, contratos ou licitações.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 14<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível III
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de média complexidade. É responsável pela execução da cotação e aquisição de produtos e serviços específicos, bem como pela instrução e organização dos processos correspondentes. É atribuída aos Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 1 (um) ano na área de compras, contratos ou licitações.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 14
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível IV<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível médio de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 6 (seis) meses em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 18<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Pessoas, Pagamento e Carreiras – Nível IV
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Planejar, coordenar e executar atividades de alta complexidade na gestão de pessoas, admissão, pagamento e carreiras no órgão central de pessoal, alinhando as competências dos servidores às estratégias organizacionais do município. Administrar processos de remuneração, benefícios, folha de pagamento, encargos sociais, legislação estatutária e prestação de contas. Implementar políticas e programas de carreira, progressão, reconhecimento e desenvolvimento de talentos. Liderar equipes e frentes de trabalho, acompanhando indicadores de desempenho, clima organizacional, rotatividade e absenteísmo, contribuindo para uma cultura ética, positiva e orientada ao bom funcionamento dos serviços públicos. É atribuída a Servidores Públicos Municipais com nível médio de escolaridade. Desejáveis experiência na área, conhecimentos em informática e legislação estatutária local, e habilidades de liderança, comunicação, negociação e resolução de problemas. Requer comprovação de experiência mínima de 6 (seis) meses em Gestão de Pessoas. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 18
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
 | FG-5 | Gestor de Contratos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de média complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 13 |
-| ~~FG-5<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Agente de Compras Governamentais Nível II<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio de escolaridade ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~12<br>
+| ~~FG-5
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Agente de Compras Governamentais Nível II
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio de escolaridade ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ (Extinto pela Lei Complementar nº 439, de 15 de dezembro de 2025) | ~~12
+
 (Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ |
-| FG-5 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal que envolvem a gestão dos processos administrativos de média complexidades. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. Seus atributos complementares deverão ser especificados no Decreto de designação. (Redação a pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de média complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 35<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~38<br>
-18<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) 58<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 29<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ ~~30<br>
+| FG-5 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal que envolvem a gestão dos processos administrativos de média complexidades. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. Seus atributos complementares deverão ser especificados no Decreto de designação. (Redação a pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de média complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 35
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~38
+
+18
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) 58
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 29
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)30
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Benefícios e Carreira<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal em Departamento Pessoal, que envolvem a gestão de benefícios estatutários, previdenciários e legais, bem como a gestão de carreiras de servidores, suas progressões, titulações, avanços, gratificações, adicionais, incentivos funcionais e financeiros. Tem como função trabalhar de forma organizada de modo a contribuir com o processo de admissão, demissão, aposentadoria, pagamento, rescisão e recursos. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | 4<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Benefícios e Carreira
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal em Departamento Pessoal, que envolvem a gestão de benefícios estatutários, previdenciários e legais, bem como a gestão de carreiras de servidores, suas progressões, titulações, avanços, gratificações, adicionais, incentivos funcionais e financeiros. Tem como função trabalhar de forma organizada de modo a contribuir com o processo de admissão, demissão, aposentadoria, pagamento, rescisão e recursos. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | 4
+
 (Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Agente de Transparência, Registro e Publicação<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Exercer atividades que garantam a transparência, o registro, a publicação e a conformidade dos atos públicos municipais. Garantir que as informações sejam publicadas de acordo com as diretrizes regulatórias e organizacionais. Gerenciar a documentação publicada, mantendo registros precisos e atualizados. Prezar pela promoção da integridade dos documentos, organizando sua guarda, e facilitando o acesso à informação à população em geral. Fortalecer a confiança do público na organização. Garantir que as políticas de transparência sejam seguidas. Profissional também pode atuar como um ponto de contato para questões externas relacionadas à transparência e ao acesso à informação.<br>
-(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | 4<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Agente de Transparência, Registro e Publicação
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | Exercer atividades que garantam a transparência, o registro, a publicação e a conformidade dos atos públicos municipais. Garantir que as informações sejam publicadas de acordo com as diretrizes regulatórias e organizacionais. Gerenciar a documentação publicada, mantendo registros precisos e atualizados. Prezar pela promoção da integridade dos documentos, organizando sua guarda, e facilitando o acesso à informação à população em geral. Fortalecer a confiança do público na organização. Garantir que as políticas de transparência sejam seguidas. Profissional também pode atuar como um ponto de contato para questões externas relacionadas à transparência e ao acesso à informação.
+
+(Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) | 4
+
 (Inserido pela Lei Complementar nº 336, de 26 de fevereiro de 2024) |
-| FG-4<br>
-(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) ~~FG-5~~ ~~FG-4<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) FG-5<br>
-(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | Gestor de Parcerias e Convênios | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de termos de parcerias e convênios, de baixa complexidade. Tem a função de administrar todo o termo de parceria e/ou convênio, desde a sua assinatura até o encerramento com entrega do bem ou serviço público, o devido pagamento e prestação de contas. É atribuída a Servidores Públicos Municipais com nível médio e técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 6<br>
+| FG-4
+
+(Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) ~~FG-5FG-4
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) FG-5
+
+(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022)~~ | Gestor de Parcerias e Convênios | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de termos de parcerias e convênios, de baixa complexidade. Tem a função de administrar todo o termo de parceria e/ou convênio, desde a sua assinatura até o encerramento com entrega do bem ou serviço público, o devido pagamento e prestação de contas. É atribuída a Servidores Públicos Municipais com nível médio e técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 6
+
 (Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022) ~~4~~ |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível IV<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de baixa complexidade. É responsável pelo apoio à cotação e aquisição de produtos e serviços, além da organização e instrução de processos. É atribuída aos Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 6 (seis) meses na área de compras, contratos ou licitações.<br>
-(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 12<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Gestor de Compras, Contratos e Licitações – Nível IV
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | Exercer atividades estratégicas relevantes para a Administração Pública, que envolvem a gestão de processos de compras, licitações e contratos de baixa complexidade. É responsável pelo apoio à cotação e aquisição de produtos e serviços, além da organização e instrução de processos. É atribuída aos Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade, com conhecimentos técnicos e experiência na função. Requer comprovação de experiência mínima de 6 (seis) meses na área de compras, contratos ou licitações.
+
+(Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) | 12
+
 (Inserido pela Lei Complementar nº 439, de 15 de dezembro de 2025) |
-| FG-6 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. (Redação a pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 24<br>
-(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~47<br>
-20<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) 33<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 29<br>
+| FG-6 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. (Redação a pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 24
+
+(Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~47
+
+20
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) 33
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 29
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-6<br>
-(Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) | Monitor de vigilância Patrimonial<br>
-(Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) | Monitorar/acompanhar os serviços prestados pelos vigias, visando aumento da eficiência da prestação do serviço público; garantir o cumprimento da escala de trabalho da equipe de segurança; realizar relatórios operacionais sobre as atividades sob sua responsabilidade; monitorar, inspecionar e orientar “in loco” a execução das atividades da Segurança Patrimonial; visitar periodicamente os postos de vigilância e constatar o cumprimento da escala de trabalho e solucionar os problemas operacionais dos postos de serviço, tomando as providências necessárias repassadas por seus superiores.<br>
-(Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) | 4<br>
+| FG-6
+
+(Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) | Monitor de vigilância Patrimonial
+
+(Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) | Monitorar/acompanhar os serviços prestados pelos vigias, visando aumento da eficiência da prestação do serviço público; garantir o cumprimento da escala de trabalho da equipe de segurança; realizar relatórios operacionais sobre as atividades sob sua responsabilidade; monitorar, inspecionar e orientar “in loco” a execução das atividades da Segurança Patrimonial; visitar periodicamente os postos de vigilância e constatar o cumprimento da escala de trabalho e solucionar os problemas operacionais dos postos de serviço, tomando as providências necessárias repassadas por seus superiores.
+
+(Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) | 4
+
 (Inserido pela Lei Complementar nº 315, de 02 de outubro de 2023) |
 | ~~FG-6~~ | ~~Agente de Contabilidade e Orçamento~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão contábil. Tem a função de controlar e executar trabalhos relacionados à contabilidade pública, tais como classificação de despesas, análise e conciliação de contas, registro de documentos e escrituração fiscal. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Revogado pela Lei Complementar nº 239, de 1º de abril de 2022) | ~~2~~ |
 | ~~FG-7~~ | ~~Agente de Almoxarifado e Patrimônio~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de Almoxarifado e Patrimônio. Tem a função de receber e estocar os bens e materiais permanentes e de consumo. Organiza a estocagem dos materiais, de forma a preservar sua integridade física e condições de uso e organização, controle de estoque, lançamento de notas fiscais e impostos. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Revogado pela Lei Complementar nº 239, de 1º de abril de 2022) | ~~3~~ |
-| FG-7<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Contratos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de baixa complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 5<br>
+| FG-7
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Contratos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de baixa complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 5
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-7 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal que envolvem a gestão dos processos administrativos de baixa complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria de Planejamento e gestão. Seus atributos complementares deverão ser especificados no Decreto de designação. (Redação a pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de baixa complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 38<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) ~~6~~~~2~~ ~~22<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~45<br>
+| FG-7 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal que envolvem a gestão dos processos administrativos de baixa complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria de Planejamento e gestão. Seus atributos complementares deverão ser especificados no Decreto de designação. (Redação a pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão dos processos administrativos de baixa complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 38
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) ~~6222
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)45
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ |
-| FG-7 | Agente de Departamento Pessoal | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de departamento de pessoal. Tem a função de realizar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de departamento de pessoal. Tem a função de realizar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 2<br>
+| FG-7 | Agente de Departamento Pessoal | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de departamento de pessoal. Tem a função de realizar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 271, de 16 de dezembro de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de departamento de pessoal. Tem a função de realizar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 2
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~12~~ |
 
 Tabela 2 – Secretaria Municipal de Educação – SME
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-1<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor Administrativo Operacional do Gabinete<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam o assessoramento direto ao Secretário, competindo-lhe a promoção e articulação dos contatos administrativos, políticos, sociais e educacionais. Coordenar a agenda de compromissos e atividades relativas às relações públicas do gabinete do Chefe do Poder Executivo, representando-o quando designado e outras atividades correlatas a que lhe forem atribuídas. Planejar e participar de reuniões e formações pedagógicas. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1<br>
+| FG-1
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor Administrativo Operacional do Gabinete
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam o assessoramento direto ao Secretário, competindo-lhe a promoção e articulação dos contatos administrativos, políticos, sociais e educacionais. Coordenar a agenda de compromissos e atividades relativas às relações públicas do gabinete do Chefe do Poder Executivo, representando-o quando designado e outras atividades correlatas a que lhe forem atribuídas. Planejar e participar de reuniões e formações pedagógicas. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-1<br>
-(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023) ~~FG-2~~ | Gestor de Departamento Pessoal | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do departamento de pessoal. Tem a função de coordenar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
+| FG-1
+
+(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023) ~~FG-2~~ | Gestor de Departamento Pessoal | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do departamento de pessoal. Tem a função de coordenar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
 (Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do departamento de pessoal. Tem a função de coordenar o processo de admissão, demissão e aposentadoria de Servidores Públicos Municipais e prestar auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 1 |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) | Gestor de Pessoas e Folha de Pagamento Nível I<br>
-(Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da folha de pagamento de pessoal. Tem a função de administrar diariamente a folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) | 1<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) | Gestor de Pessoas e Folha de Pagamento Nível I
+
+(Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão da folha de pagamento de pessoal. Tem a função de administrar diariamente a folha de pagamento e suas variações. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) | 1
+
 (Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) |
 | FG-3 | Agente de Compras Governamentais | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a gestão de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 1 |
-| FG-4 | Secretário Escolar | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de EMEF, EMREF e EMEI, Porte nível “VII” e CME1 e EMEFTI, Porte nível “VI”, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível médio e/ou superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de Porte Escola 40%, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 24<br>
+| FG-4 | Secretário Escolar | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de EMEF, EMREF e EMEI, Porte nível “VII” e CME1 e EMEFTI, Porte nível “VI”, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível médio e/ou superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de Porte Escola 40%, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 24
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~20~~ |
-| FG-4 | Gestor de Processos Estratégicos | Exercer atividades relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes básicas da Secretaria Municipal de Planejamento e Gestão. Seus atributos complementares deverão der especificados no Decreto de designação.<br>
+| FG-4 | Gestor de Processos Estratégicos | Exercer atividades relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes básicas da Secretaria Municipal de Planejamento e Gestão. Seus atributos complementares deverão der especificados no Decreto de designação.
+
 (Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 1 |
 | ~~FG-5~~ | ~~Agente de Apoio Pedagógico~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a articulação, formação e transformação por meio do aprendizado em sala de aula. Atua como mediador entre o currículo e os professores, bem como entre pais de alunos e corpo docente. Traduz os significados das propostas curriculares e promove a articulação junto aos professores. É atribuída a Servidores Públicos Municipais lotados em escolas de Porte Escola 40%. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Revogado pela Lei Complementar nº 239, de 1º de abril de 2022) | ~~19~~ |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Educação Nutricional<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam atividades de educação nutricional de acordo com o diagnóstico nutricional. Elaborar manuais de boas práticas e fichas técnicas de preparação da merenda escolar. Realizar visitas de inspeção nas Unidades Escolares e aos fornecedores. Realizar testes de aceitabilidade com os alunos nas Unidades Escolares. Realizar palestras voltadas aos alunos, pais e/ou responsáveis, merendeiras e professores das Unidades Escolares relacionadas a educação nutricional. Participar dos processos de licitações e chamadas públicas realizando o devido planejamento de quantidades de alimentos, analisando as fichas técnicas, amostras e descrições dos alimentos. Assumir as atividades de planejamento e avaliação de todas as ações de alimentação e nutrição no âmbito da alimentação escolar. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Educação Nutricional
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam atividades de educação nutricional de acordo com o diagnóstico nutricional. Elaborar manuais de boas práticas e fichas técnicas de preparação da merenda escolar. Realizar visitas de inspeção nas Unidades Escolares e aos fornecedores. Realizar testes de aceitabilidade com os alunos nas Unidades Escolares. Realizar palestras voltadas aos alunos, pais e/ou responsáveis, merendeiras e professores das Unidades Escolares relacionadas a educação nutricional. Participar dos processos de licitações e chamadas públicas realizando o devido planejamento de quantidades de alimentos, analisando as fichas técnicas, amostras e descrições dos alimentos. Assumir as atividades de planejamento e avaliação de todas as ações de alimentação e nutrição no âmbito da alimentação escolar. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-5 | Secretário Escolar | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de EMEF, EMREF e EMEI, Portes níveis “V” e “VI” e CME1 e EMEFTI, Portes níveis “IV” e “V”, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. E atribuída a Servidores Públicos Municipais com nível médio e/ou superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de Porte Escola 30%, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 43<br>
+| FG-5 | Secretário Escolar | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de EMEF, EMREF e EMEI, Portes níveis “V” e “VI” e CME1 e EMEFTI, Portes níveis “IV” e “V”, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. E atribuída a Servidores Públicos Municipais com nível médio e/ou superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de Porte Escola 30%, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 43
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~16~~ |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento Administrativo<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam planejamento, organização, controle e execução de atividades técnicas e especializadas, de nível superior, nas áreas Orçamentária, Econômica, Financeira, Gestão de Pessoas, Suprimentos, da Qualidade, de Controle Interno, Logística de Patrimônio e de Transportes, de Trâmite e Controle de Documentação, entre outras. Implementar programas e projetos, e participar do planejamento da organização e controle de fluxos de trabalhos, sendo objetivo em racionalizar e aperfeiçoar as atividades funcionais. Elaborar e monitorar consolidados de dados Pedagógicos. Organizar materiais didáticos e pedagógicos. Apoiar nas realizações de eventos - SME. Elaborar documentos dos Conselhos (Atas, Ofícios, entre outros). Agendar e organizar reuniões mensais ordinárias e/ou extraordinárias. Movimentações relacionadas a convênios e parcerias com OSC (Organizações da Sociedade Civil). Atender os pais e/ou responsáveis para atendimento de matrículas na rede pública municipal de ensino. Dar suporte municipal de gestão (CENTI) educacional. Gerenciar o Programa Bolsa Família. Fazer o estudo de demanda de vagas e déficit de vagas da rede pública municipal de ensino. E atribuída a Servidores Públicos Municipais com nível médio ou superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 15<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento Administrativo
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam planejamento, organização, controle e execução de atividades técnicas e especializadas, de nível superior, nas áreas Orçamentária, Econômica, Financeira, Gestão de Pessoas, Suprimentos, da Qualidade, de Controle Interno, Logística de Patrimônio e de Transportes, de Trâmite e Controle de Documentação, entre outras. Implementar programas e projetos, e participar do planejamento da organização e controle de fluxos de trabalhos, sendo objetivo em racionalizar e aperfeiçoar as atividades funcionais. Elaborar e monitorar consolidados de dados Pedagógicos. Organizar materiais didáticos e pedagógicos. Apoiar nas realizações de eventos - SME. Elaborar documentos dos Conselhos (Atas, Ofícios, entre outros). Agendar e organizar reuniões mensais ordinárias e/ou extraordinárias. Movimentações relacionadas a convênios e parcerias com OSC (Organizações da Sociedade Civil). Atender os pais e/ou responsáveis para atendimento de matrículas na rede pública municipal de ensino. Dar suporte municipal de gestão (CENTI) educacional. Gerenciar o Programa Bolsa Família. Fazer o estudo de demanda de vagas e déficit de vagas da rede pública municipal de ensino. E atribuída a Servidores Públicos Municipais com nível médio ou superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 15
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-6 | Agente de Ensino da Educação Infantil | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem o apoio e participação no planejamento, execução e avaliação das atividades sócio pedagógicas e contribuição para o oferecimento de espaço físico e de convivência adequados à segurança, ao desenvolvimento, ao bem-estar social, físico e emocional das crianças nas dependências das unidades de atendimento da Rede Municipal de Educação Infantil e/ou nas adjacências. E atribuída a Servidores Públicos Municipais com nível técnico em Magistério e/ou Normal Superior e/ou superior em pedagogia. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem o apoio e participação no planejamento, execução e avaliação das atividades sociopedagógicas e contribuição para o oferecimento de espaço físico e de convivência adequados à segurança, ao desenvolvimento, ao bem-estar social, físico e emocional das crianças nas dependências das unidades de atendimento da Rede Municipal de Educação Infantil e/ou nas adjacências. É atribuída a Servidores Públicos Municipais com pós-graduação em Magistério. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 70<br>
+| FG-6 | Agente de Ensino da Educação Infantil | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem o apoio e participação no planejamento, execução e avaliação das atividades sócio pedagógicas e contribuição para o oferecimento de espaço físico e de convivência adequados à segurança, ao desenvolvimento, ao bem-estar social, físico e emocional das crianças nas dependências das unidades de atendimento da Rede Municipal de Educação Infantil e/ou nas adjacências. E atribuída a Servidores Públicos Municipais com nível técnico em Magistério e/ou Normal Superior e/ou superior em pedagogia. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem o apoio e participação no planejamento, execução e avaliação das atividades sociopedagógicas e contribuição para o oferecimento de espaço físico e de convivência adequados à segurança, ao desenvolvimento, ao bem-estar social, físico e emocional das crianças nas dependências das unidades de atendimento da Rede Municipal de Educação Infantil e/ou nas adjacências. É atribuída a Servidores Públicos Municipais com pós-graduação em Magistério. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 70
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~60~~ |
 | ~~FG-6~~ | ~~Agente de Apoio Pedagógico~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a articulação, formação e transformação por meio do aprendizado em sala de aula. Atua como mediador entre o currículo e os professores, bem como entre pais de alunos e corpo docente. Traduz os significados das propostas curriculares e promove a articulação junto aos professores. É atribuída a Servidores Públicos Municipais lotados em escolas de Porte Escola 30%. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 239, de 1º de abril de 2022) | ~~22~~ |
-| FG-6<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Assistente de AEE (Atendimento Educacional Especializado)<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam o atendimento aos alunos público alvo da Educação Especial, identificando e organizando recursos pedagógicos de acessibilidade e estratégias considerando as necessidades específicas de cada aluno. Elaborar e executar o plano de Atendimento Educacional Especializado, avaliando a funcionalidade e a aplicabilidade dos recursos pedagógicos e de acessibilidade. Organizar o tipo e o número de atendimentos aos alunos na sala de recursos multifuncionais. Acompanhar a funcionalidade e aplicabilidade dos recursos pedagógicos e de acessibilidade na sala de aula comum do ensino regular, bem como em outros ambientes da escola. Estabelecer parcerias com as áreas intersetoriais na elaboração de estratégias e na disponibilização de recursos de acessibilidade. Orientar professores e famílias sobre os recursos pedagógicos e de acessibilidade utilizados pelo aluno. Ensinar e usar a tecnologia assistiva de forma a ampliar habilidades funcionais do aluno, promovendo autonomia e participação. Estabelecer articulação com os professores da sala de aula comum visando a disponibilidade dos serviços, dos recursos pedagógicos e de acessibilidade. Realizar ações educativas: palestras, rodas de conversas e dinâmicas de acordo com a necessidade ou solicitação da Unidade Escolar. É atribuída a Servidores Públicos Municipais lotados em Unidades Escolares, com curso e/ ou especialização do AEE (Atendimento Educacional e com nível superior em Pedagogia. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 20<br>
+| FG-6
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Assistente de AEE (Atendimento Educacional Especializado)
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer as atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvam o atendimento aos alunos público alvo da Educação Especial, identificando e organizando recursos pedagógicos de acessibilidade e estratégias considerando as necessidades específicas de cada aluno. Elaborar e executar o plano de Atendimento Educacional Especializado, avaliando a funcionalidade e a aplicabilidade dos recursos pedagógicos e de acessibilidade. Organizar o tipo e o número de atendimentos aos alunos na sala de recursos multifuncionais. Acompanhar a funcionalidade e aplicabilidade dos recursos pedagógicos e de acessibilidade na sala de aula comum do ensino regular, bem como em outros ambientes da escola. Estabelecer parcerias com as áreas intersetoriais na elaboração de estratégias e na disponibilização de recursos de acessibilidade. Orientar professores e famílias sobre os recursos pedagógicos e de acessibilidade utilizados pelo aluno. Ensinar e usar a tecnologia assistiva de forma a ampliar habilidades funcionais do aluno, promovendo autonomia e participação. Estabelecer articulação com os professores da sala de aula comum visando a disponibilidade dos serviços, dos recursos pedagógicos e de acessibilidade. Realizar ações educativas: palestras, rodas de conversas e dinâmicas de acordo com a necessidade ou solicitação da Unidade Escolar. É atribuída a Servidores Públicos Municipais lotados em Unidades Escolares, com curso e/ ou especialização do AEE (Atendimento Educacional e com nível superior em Pedagogia. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 20
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-6 | Secretário Escolar | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de EMEF, EMREF e EMEI, Portes níveis “I” a “IV” e CMEI e EMEFTI, Portes níveis “I” a “III”, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível médio e/ou superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de Porte Escola 20%, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 44<br>
+| FG-6 | Secretário Escolar | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de EMEF, EMREF e EMEI, Portes níveis “I” a “IV” e CMEI e EMEFTI, Portes níveis “I” a “III”, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível médio e/ou superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a coordenação e execução da Secretaria Escolar de Porte Escola 20%, por meio das tarefas decorrentes dos encargos da Secretaria, organização e manutenção do protocolo e do arquivo escolar, organização e manutenção da coletânea de leis, regulamentos, diretrizes, portarias, circulares, resoluções e demais documento, redação de correspondência, lavratura de atas e termos, nos livros próprios, revisão de todo o expediente a ser submetido ao despacho do Diretor da Escola, coordenação e supervisão das atividades referentes à matrícula, transferência, adaptação e conclusão de curso. Zelar pelo uso adequado e conservação dos bens materiais distribuídos à Secretaria, manutenção do sigilo sobre assuntos pertinentes ao serviço e responder ao Censo Escolar Anual, seja de forma tradicional, digitalizada ou geração de arquivo digital em sistema de gestão escolar e envio para o Censo Escolar. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 44
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~31~~ |
-| FG-6 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
+| FG-6 | Gestor de Projetos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
 (Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 1 |
-| FG-7 | Agente de Apoio Pedagógico | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a articulação, formação e transformação por meio do aprendizado em sala de aula. Atua como mediador entre o currículo e os professores, bem como entre pais de alunos e corpo docente. Traduz os significados das propostas curriculares e promove a articulação junto aos professores. E atribuída a Servidores Públicos Municipais lotados em Unidades Escolares, com nível médio, técnico profissionalizante ou superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a articulação, formação e transformação por meio do aprendizado em sala de aula. Atua como mediador entre o currículo e os professores, bem como entre pais de alunos e corpo docente. Traduz os significados das propostas curriculares e promove a articulação junto aos professores. É atribuída a Servidores Públicos Municipais lotados em escolas de Porte Escola 20%. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ |   50<br>
+| FG-7 | Agente de Apoio Pedagógico | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a articulação, formação e transformação por meio do aprendizado em sala de aula. Atua como mediador entre o currículo e os professores, bem como entre pais de alunos e corpo docente. Traduz os significados das propostas curriculares e promove a articulação junto aos professores. E atribuída a Servidores Públicos Municipais lotados em Unidades Escolares, com nível médio, técnico profissionalizante ou superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Educação, que envolvem a articulação, formação e transformação por meio do aprendizado em sala de aula. Atua como mediador entre o currículo e os professores, bem como entre pais de alunos e corpo docente. Traduz os significados das propostas curriculares e promove a articulação junto aos professores. É atribuída a Servidores Públicos Municipais lotados em escolas de Porte Escola 20%. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ |   50
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~38~~ |
 
 Tabela 3 – Secretaria Municipal de Saúde – SMS
 
 | ESPÉCIE/NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-1<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão dos processos administrativos de alta complexidade da Secretaria Municipal de Saúde. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e Secretaria Municipal de Saúde. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o planejamento das ações municipais de saúde. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão dos processos administrativos de alta complexidade da Secretaria Municipal de Saúde. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e Secretaria Municipal de Saúde. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022)~~ | 22<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~10<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~12<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) 14<br>
-(Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ ~~15<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 17<br>
+| FG-1
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão dos processos administrativos de alta complexidade da Secretaria Municipal de Saúde. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e Secretaria Municipal de Saúde. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o planejamento das ações municipais de saúde. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão dos processos administrativos de alta complexidade da Secretaria Municipal de Saúde. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão e Secretaria Municipal de Saúde. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022)~~ | 22
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~10
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)12
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) 14
+
+(Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)15
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) 17
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-1<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~FG-2<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | Gestor Administrativo de Saúde<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o serviço administrativo das unidades de saúde. E atribuída a Servidores Públicos Municipais com nível médio de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1<br>
+| FG-1
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~FG-2
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | Gestor Administrativo de Saúde
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o serviço administrativo das unidades de saúde. E atribuída a Servidores Públicos Municipais com nível médio de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
 | FG-2 | Gestor de Credenciamento de Médicos e Prestação de Serviços | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o planejamento das ações municipais de credenciamento de médicos e prestação de serviços de saúde. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 1 |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Projetos Estratégicos<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade na Secretaria Municipal de Saúde. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade na Secretaria Municipal de Saúde. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022)~~ | 10<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) 05<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Projetos Estratégicos
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade na Secretaria Municipal de Saúde. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade na Secretaria Municipal de Saúde. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022)~~ | 10
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) 05
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Compras Governamentais<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão do processo de compras governamentais na Secretaria Municipal de Saúde. É responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | 4<br>
-(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) ~~2<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Compras Governamentais
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão do processo de compras governamentais na Secretaria Municipal de Saúde. É responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | 4
+
+(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) ~~2
+
 (Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022)~~ |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Pregoeiro<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a atividade de pregoeiro na Secretaria Municipal de Saúde. Exerce as atividades de coordenação dos trabalhos da equipe de apoio e a condução do procedimento licitatório, o credenciamento dos interessados, o recebimento da declaração dos licitantes do pleno atendimento aos requisitos de habilitação, bem como dos envelopes contendo as propostas e os documentos de habilitação, a abertura dos envelopes-proposta, a análise e desclassificação das propostas que não atenderem às especificações do objeto ou as condições e prazos de execução ou fornecimento fixadas no edital, a ordenação das propostas não desclassificadas e a seleção dos licitantes que participarão da fase de lances, a classificação das ofertas, conjugadas as propostas e os lances, a negociação do preço, visando à sua redução, a verificação e a decisão motivada a respeito da aceitabilidade do menor preço, a análise dos documentos de habilitação do autor da oferta de melhor preço, a adjudicação do objeto ao licitante vencedor, se não tiver havido manifestação de recorrer por parte de algum licitante, a elaboração da ata da sessão pública, a análise dos recursos eventualmente apresentados, reconsiderando o ato impugnado ou promovendo o encaminhamento do processo instruído com a sua manifestação à decisão da autoridade competente e propor à autoridade competente a homologação, anulação ou revogação do procedimento licitatório. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | 3<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Pregoeiro
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a atividade de pregoeiro na Secretaria Municipal de Saúde. Exerce as atividades de coordenação dos trabalhos da equipe de apoio e a condução do procedimento licitatório, o credenciamento dos interessados, o recebimento da declaração dos licitantes do pleno atendimento aos requisitos de habilitação, bem como dos envelopes contendo as propostas e os documentos de habilitação, a abertura dos envelopes-proposta, a análise e desclassificação das propostas que não atenderem às especificações do objeto ou as condições e prazos de execução ou fornecimento fixadas no edital, a ordenação das propostas não desclassificadas e a seleção dos licitantes que participarão da fase de lances, a classificação das ofertas, conjugadas as propostas e os lances, a negociação do preço, visando à sua redução, a verificação e a decisão motivada a respeito da aceitabilidade do menor preço, a análise dos documentos de habilitação do autor da oferta de melhor preço, a adjudicação do objeto ao licitante vencedor, se não tiver havido manifestação de recorrer por parte de algum licitante, a elaboração da ata da sessão pública, a análise dos recursos eventualmente apresentados, reconsiderando o ato impugnado ou promovendo o encaminhamento do processo instruído com a sua manifestação à decisão da autoridade competente e propor à autoridade competente a homologação, anulação ou revogação do procedimento licitatório. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | 3
+
 (Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) |
-| FG-2<br>
-(Inserido pela Lei Complementar n. 259, de 30 de agosto de 2022) | Presidente da Comissão Especial de Licitação<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão Saúde, que envolvem a presidência da Comissão na promoção das medidas necessárias ao processamento e julgamento das licitações, zelando pela observância dos princípios constitucionais atinentes à Administração Pública, das normas gerais da legislação federal específica, da ordem dos trabalhos e daqueles que forem estipulados no ato convocatório, convocação das reuniões da comissão, com antecedência mínima de 24 (vinte e quatro) horas, indicando a matéria a ser apreciada, presidência das reuniões da comissão, com direito ao voto de qualidade, proposição da comissão a padronização de atos convocatórios, atas, termos e declarações concernentes ao procedimento licitatório, encaminhamento do resultado final do julgamento para homologação e/ou adjudicação pela autoridade competente, após o decurso de todos os prazos recursais, assinatura dos editais de Concorrência, Tomada de Preços, Pregão, Convite, Concurso e Leilão, bem como os Pareceres relativos às Dispensas e Inexigibilidades de Licitação, e ainda os avisos a serem publicados e assinatura das atas referentes aos trabalhos da comissão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | 1<br>
+| FG-2
+
+(Inserido pela Lei Complementar n. 259, de 30 de agosto de 2022) | Presidente da Comissão Especial de Licitação
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Planejamento e Gestão Saúde, que envolvem a presidência da Comissão na promoção das medidas necessárias ao processamento e julgamento das licitações, zelando pela observância dos princípios constitucionais atinentes à Administração Pública, das normas gerais da legislação federal específica, da ordem dos trabalhos e daqueles que forem estipulados no ato convocatório, convocação das reuniões da comissão, com antecedência mínima de 24 (vinte e quatro) horas, indicando a matéria a ser apreciada, presidência das reuniões da comissão, com direito ao voto de qualidade, proposição da comissão a padronização de atos convocatórios, atas, termos e declarações concernentes ao procedimento licitatório, encaminhamento do resultado final do julgamento para homologação e/ou adjudicação pela autoridade competente, após o decurso de todos os prazos recursais, assinatura dos editais de Concorrência, Tomada de Preços, Pregão, Convite, Concurso e Leilão, bem como os Pareceres relativos às Dispensas e Inexigibilidades de Licitação, e ainda os avisos a serem publicados e assinatura das atas referentes aos trabalhos da comissão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | 1
+
 (Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022) | Gestor Administrativo e de Pessoal<br>
-(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão administrativa e de pessoal. Tem a função de gerenciar, planejar e controlar as atividades e recursos da área administrativa, garantindo conformidade com as normas e leis. Atua ainda coordenando o processo de admissão, demissão e aposentadoria de servidores públicos municipais e presta auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a servidores públicos municipais com, no mínimo, nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação, se necessário.<br>
-(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022) | 9<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2<br>
-(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022)~~ ~~6<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022) | Gestor Administrativo e de Pessoal
+
+(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão administrativa e de pessoal. Tem a função de gerenciar, planejar e controlar as atividades e recursos da área administrativa, garantindo conformidade com as normas e leis. Atua ainda coordenando o processo de admissão, demissão e aposentadoria de servidores públicos municipais e presta auxílio na administração de pessoal como folha de pagamento, rescisão, folha de ponto e benefícios. É atribuída a servidores públicos municipais com, no mínimo, nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação, se necessário.
+
+(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022) | 9
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2
+
+(Inserido pela Lei Complementar nº 253, de 27 de junho de 2022)6
+
 (Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Almoxarifado e Patrimônio<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de Almoxarifado e Patrimônio da Secretaria Municipal de Saúde. É responsável pela operação e gestão do processo de recebimento e estocagem de bens e materiais permanentes ou de consumo, e ainda pelo controle de dados, indicadores e elaboração de relatórios necessários para a gestão do setor. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº. 259, de 30 de agosto de 2022) | 1<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Almoxarifado e Patrimônio
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de Almoxarifado e Patrimônio da Secretaria Municipal de Saúde. É responsável pela operação e gestão do processo de recebimento e estocagem de bens e materiais permanentes ou de consumo, e ainda pelo controle de dados, indicadores e elaboração de relatórios necessários para a gestão do setor. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº. 259, de 30 de agosto de 2022) | 1
+
 (Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Contratos<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de contratos públicos de alta complexidade na Secretaria Municipal de Saúde. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº. 259, de 30 de agosto de 2022) | 10<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2<br>
-(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) 05<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Gestor de Contratos
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal na área da Saúde, que envolvem a gestão de contratos públicos de alta complexidade na Secretaria Municipal de Saúde. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº. 259, de 30 de agosto de 2022) | 10
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2
+
+(Inserido pela Lei Complementar nº 259, de 30 de agosto de 2022) 05
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Compras Governamentais<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão de compras governamentais. E responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. E atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 15<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~9<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) 10<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Compras Governamentais
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão de compras governamentais. E responsável pela cotação e compras de produtos e serviços específicos, bem como pela instrução e organização do processo de aquisições. E atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 15
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)9
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) 10
+
 (Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de média e baixa complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Saúde. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de média e baixa complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Saúde. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. Atua conforme as diretrizes técnicas da Secretária Municipal de Saúde. Nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 84<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~26<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~30<br>
-(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022) 64<br>
-(Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ ~~74<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de média e baixa complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Saúde. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de média e baixa complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Saúde. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. Atua conforme as diretrizes técnicas da Secretária Municipal de Saúde. Nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 84
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~26
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)30
+
+(Redação dada pela Lei Complementar nº 253, de 27 de junho de 2022) 64
+
+(Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)74
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de baixa complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de baixa complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 35<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~13<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~20<br>
-(Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ ~~30<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de baixa complexidade. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Secretaria Municipal da Saúde, que envolvem a gestão dos processos administrativos de baixa complexidade. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde de Rio Verde que exercem atividades no processo.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 35
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~13
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)20
+
+(Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)30
+
 (Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025)~~ |
-| FG-6 | Gestor Geral de Área de Endemias | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o planejamento das ações municipais de vigilância epidemiológica e combate aos vetores e endemias, a programação das atividades dos agentes de combate às endemias, realização de avaliação permanente de resultados, planejamento de estratégias, programas e ações comunitárias, mobilizações e campanhas preventivas, em conformidade com as diretrizes do SUS. É atribuída a Servidores Públicos Municipais com o nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 7<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~2~~ ~~4<br>
+| FG-6 | Gestor Geral de Área de Endemias | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o planejamento das ações municipais de vigilância epidemiológica e combate aos vetores e endemias, a programação das atividades dos agentes de combate às endemias, realização de avaliação permanente de resultados, planejamento de estratégias, programas e ações comunitárias, mobilizações e campanhas preventivas, em conformidade com as diretrizes do SUS. É atribuída a Servidores Públicos Municipais com o nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 7
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~24
+
 (Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ |
-| FG-6 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 9<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1~~ ~~04<br>
+| FG-6 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 9
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~104
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ |
-| FG-7<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Serviços de Saúde<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão do processo administrativo da Saúde. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. E atribuída a Servidores Públicos Municipais com nível médio de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 32<br>
-(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) ~~3<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ ~~31<br>
+| FG-7
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Serviços de Saúde
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem a gestão do processo administrativo da Saúde. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Secretaria Municipal da Saúde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. E atribuída a Servidores Públicos Municipais com nível médio de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 32
+
+(Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) ~~3
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)31
+
 (Redação dada pela Lei Complementar nº 296, de 28 de abril de 2023)~~ |
-| FG-7 | Gestor de Equipe de Endemias | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o acompanhamento do desenvolvimento das ações programadas, atuação direta com a equipe nas operações de remoção de criadouros, coletas de recipientes e eventos de mobilização social. É atribuída a Servidores Públicos Municipais com o nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 24<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~13~~ ~~14<br>
+| FG-7 | Gestor de Equipe de Endemias | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Saúde, que envolvem o acompanhamento do desenvolvimento das ações programadas, atuação direta com a equipe nas operações de remoção de criadouros, coletas de recipientes e eventos de mobilização social. É atribuída a Servidores Públicos Municipais com o nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 24
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~1314
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
 
 Tabela 4 – Secretaria Municipal de Assistência Social – SMAS
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas das Secretarias envolvidas no processo. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo financeiro da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Fazenda. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas das Secretarias envolvidas no processo. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
+| FG-1 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas das Secretarias envolvidas no processo. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo financeiro da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Fazenda. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas das Secretarias envolvidas no processo. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022~~ | 1 |
-| FG-2 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, não centralizáveis, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
+| FG-2 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, não centralizáveis, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
 (Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de compras governamentais. É responsável pela cotação e compras de produtos e serviços específicos, não centralizáveis, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ | 1 |
-| FG-3 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo orçamentário e financeiro da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Fazenda e da Secretaria Municipal de Planejamento e Gestão. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo orçamentário e financeiro da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Fazenda e da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022~~ |   04<br>
+| FG-3 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo orçamentário e financeiro da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Fazenda e da Secretaria Municipal de Planejamento e Gestão. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo orçamentário e financeiro da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretária Municipal de Fazenda e da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo da Secretaria. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022~~ |   04
+
 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~1~~ |
 | FG-4 | Gestor do Centro de Referência Especializado de Assistência Social | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a articulação, acompanhamento e avaliação do processo de implantação do CREAS e seus serviços, quando for o caso, a coordenação das rotinas administrativas, dos processos de trabalho e dos recursos humanos da Unidade, o fornecimento de subsídios e participação na elaboração dos mapeamentos da área de vigilância socioassistencial da Secretaria e a coordenação da relação cotidiana entre CREAS e as unidades referenciadas ao CREAS no seu território de abrangência. É atribuída a Servidores Públicos Municipais com o nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 1 |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor do Cadastro Único<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo do Cadastro Único de Assistência Social. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor do Cadastro Único
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo do Cadastro Único de Assistência Social. E responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades estratégicas relevantes para a Secretaria de Assistência Social, que envolvem a gestão de projetos únicos de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | 09<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades estratégicas relevantes para a Secretaria de Assistência Social, que envolvem a gestão de projetos únicos de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | 09
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades estratégicas relevantes para a Secretaria de Assistência Social que envolvem a gestão dos processos administrativos de média complexidades. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria de Assistência Social. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | 04<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | Exercer atividades estratégicas relevantes para a Secretaria de Assistência Social que envolvem a gestão dos processos administrativos de média complexidades. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria de Assistência Social. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) | 04
+
 (Inserido pela Lei Complementar nº 400, de 30 de junho de 2025) |
-| FG-6 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo do Cadastro Único de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 17<br>
+| FG-6 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo do Cadastro Único de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão do processo de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 17
+
 (Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025) ~~3~~ |
 | FG-7 | Gestor de Assistência Social | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a realização de estudos e pesquisas para avaliar a realidade social, além de produzir parecer social e propor medidas e políticas sociais, o planejamento, a elaboração e execução de planos, programas e projetos sociais, orientação de indivíduos e grupos, auxiliando na identificação de recursos e proporcionando o acesso aos direitos sociais e realização de estudos socioeconômicos com indivíduos e grupos para fins de acesso a benefícios e serviços sociais. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 2 |
 | FG-7 | Gestor do Centro de Referência da Assistência Social | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a articulação, acompanhamento e avaliação do processo de implantação do CRAS, a implementação dos programas, serviços, projetos de proteção social básica operacionalizadas na unidade, a coordenação, a execução e o monitoramento dos serviços, o registro de informações e a avaliação das ações, programas, projetos, serviços e benefícios, a participação na elaboração, acompanhamento e avaliação dos fluxos e procedimentos para garantir a efetivação da referência e contra referência, coordenação da execução das ações, de forma a manter o diálogo e garantir a participação dos profissionais, bem como das famílias inseridas nos serviços ofertados pelo CRAS e pela rede prestadora de serviços no Município de Rio Verde e a definição da participação da equipe de profissionais, os critérios de inclusão, acompanhamento e desligamento das famílias, dos serviços ofertados no CRAS. É atribuída a Servidores Públicos Municipais com o nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 2 |
-| FG-7 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão dos processos administrativos de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023). ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão dos processos administrativos de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ |  1<br>
+| FG-7 | Gestor de Processos Estratégicos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão dos processos administrativos de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023). ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão dos processos administrativos de Assistência Social. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ |  1
+
 (Redação dada pela Lei Complementar nº 239, de 1º de abril de 2022) ~~3~~ |
-| FG-7<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Almoxarifado e Patrimônio<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão de Almoxarifado e Patrimônio. Tem a função de receber e estocar os bens e materiais permanentes e de consumo. Organiza a estocagem dos materiais, de forma a preservar sua integridade física e condições de uso e organização, controle de estoque, lançamento de notas fiscais e impostos. E atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de Designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2<br>
+| FG-7
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Almoxarifado e Patrimônio
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Secretaria Municipal de Assistência Social, que envolvem a gestão de Almoxarifado e Patrimônio. Tem a função de receber e estocar os bens e materiais permanentes e de consumo. Organiza a estocagem dos materiais, de forma a preservar sua integridade física e condições de uso e organização, controle de estoque, lançamento de notas fiscais e impostos. E atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de Designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
 
 Tabela 5 – Procuradoria-Geral do Município – PGM
@@ -3824,7 +4404,8 @@ Tabela 5 – Procuradoria-Geral do Município – PGM
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
 | FG-1 | Procurador do Município | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, sob a coordenação da Procuradoria-Geral do Município e por meio de designação para gerir o assessoramento jurídico diretamente nas Secretarias Municipais, em período integral. Seus atributos complementares deverão ser especificados no Decreto de designação. | 2 |
-| FG-3 | Gestor de Cobrança Administrativa e Protestos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Procuradoria-Geral do Município, que envolvem a coordenação da cobrança administrativa relativamente às Certidões da Dívida Ativa encaminhada à Procuradoria, a coordenação do setor de protesto das Certidões da Dívida Ativa, execução de cobrança administrativa e protesto de débitos tributários e não tributários, conforme diretrizes traçadas pelo Coordenador da Procuradoria Tributária, pelo Diretor-Geral da Procuradoria e pelo Procurador-Geral do Município. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. |  02<br>
+| FG-3 | Gestor de Cobrança Administrativa e Protestos | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Procuradoria-Geral do Município, que envolvem a coordenação da cobrança administrativa relativamente às Certidões da Dívida Ativa encaminhada à Procuradoria, a coordenação do setor de protesto das Certidões da Dívida Ativa, execução de cobrança administrativa e protesto de débitos tributários e não tributários, conforme diretrizes traçadas pelo Coordenador da Procuradoria Tributária, pelo Diretor-Geral da Procuradoria e pelo Procurador-Geral do Município. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. |  02
+
 (Redação dada pela Lei Complementar nº 408, de 22 de setembro de 2025) ~~1~~ |
 | FG-4 | Agente de Assessoramento Jurídico | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a realização de atividades relacionadas ao apoio no assessoramento jurídico. Além do elemento de confiança da autoridade que o designar para a função, compete acompanhar todos os processos administrativos que dependam de parecer jurídico, auxiliar na elaboração de projetos de leis, decretos e portarias e apoiar o Procurador-Geral do Município e aos demais Procuradores de forma geral. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade (Bacharel em Direito). Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação. | 30 |
 
@@ -3832,119 +4413,195 @@ Tabela 6 – Controladoria-Geral do Município – CGM
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-1<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Controle Interno Nível I<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno nas análises de processos de média e alta complexidade e à auditoria interna. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. E atribuída a servidores públicos municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 8<br>
+| FG-1
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Controle Interno Nível I
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno nas análises de processos de média e alta complexidade e à auditoria interna. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. E atribuída a servidores públicos municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 8
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Controle Interno Nível II<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno nas análises de processos de média complexidade. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. E atribuída a servidores públicos municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 6<br>
-(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023 ~~5<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Controle Interno Nível II
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno nas análises de processos de média complexidade. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. E atribuída a servidores públicos municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 6
+
+(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023 ~~5
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Controle Interno Nível III<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno nas análises de processos de baixa complexidade. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. E atribuída a servidores públicos municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado, bem como conhecimento em informática. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 3<br>
-(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) ~~2<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Controle Interno Nível III
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno nas análises de processos de baixa complexidade. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. E atribuída a servidores públicos municipais com nível médio ou técnico profissionalizante de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado, bem como conhecimento em informática. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 3
+
+(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) ~~2
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
-| ~~FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | ~~Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022)~~ (Extinto pela Lei Complementar nº 291, de 30 de março de 2023) | ~~1<br>
+| ~~FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | ~~Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Secretaria Municipal de Planejamento e Gestão. É atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº. 239, de 1º de abril de 2022)~~ (Extinto pela Lei Complementar nº 291, de 30 de março de 2023) | ~~1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 291, de 30 de março de 2023) | Gestor de Dados e Informações<br>
-(Inserido pela Lei Complementar nº 291, de 30 de março de 2023) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Controladoria-Geral do Município. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 291, de 30 de março de 2023) | 03<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 291, de 30 de março de 2023) | Gestor de Dados e Informações
+
+(Inserido pela Lei Complementar nº 291, de 30 de março de 2023) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a gestão do processo de informatização da Secretaria. É responsável pela organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. É responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. Atua conforme as diretrizes técnicas da Controladoria-Geral do Município. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 291, de 30 de março de 2023) | 03
+
 (Inserido pela Lei Complementar nº 291, de 30 de março de 2023) |
 | ~~FG-3~~ | ~~Agente de Controle Interno~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Controladoria-Geral do Município, que envolvem a realização de atividades relacionadas ao controle interno e à auditoria interna. Essas funções estão relacionadas à promoção da ética, da transparência e da responsabilização na gestão pública, melhorando a prestação de contas à sociedade. Atuam, no combate à corrupção, às fraudes e ao desperdício na Administração Pública Municipal de Rio Verde. É atribuída a Servidores Públicos Municipais com nível superior de Escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.~~ (Extinto pela Lei Complementar nº 239, de 1º de abril de 2022) | ~~15~~ |
 
-7\. Tabela 7 - Agência Municipal de Defesa do Consumidor – PROCON<br>
+7\. Tabela 7 - Agência Municipal de Defesa do Consumidor – PROCON
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento em Processos de Defesa do Consumidor<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Agência Municipal de Defesa do Consumidor, que envolvem a gestão de processos de defesa do consumidor, realização de audiências de conciliação, cálculos solicitados pelos consumidores, registro e controle de reclamações, orientações, atendimento, controle de processos cartorários e demais atividades de confiança designadas pela autoridade do órgão. É atribuída a servidores públicos municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 3<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento em Processos de Defesa do Consumidor
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da Agência Municipal de Defesa do Consumidor, que envolvem a gestão de processos de defesa do consumidor, realização de audiências de conciliação, cálculos solicitados pelos consumidores, registro e controle de reclamações, orientações, atendimento, controle de processos cartorários e demais atividades de confiança designadas pela autoridade do órgão. É atribuída a servidores públicos municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 3
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento Jurídico<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a realização de atividades relacionadas ao apoio no assessoramento jurídico no âmbito da Agência Municipal de Defesa do Consumidor. Além do elemento de confiança da autoridade que o designar para a função, compete acompanhar todos os processos administrativos que dependam de parecer jurídico, realizar decisões administrativas de processos a serem homologados pela autoridade, realizar contrarrazões de recursos de processos administrativos, realizar execuções de multas administrativas, e ainda, manifestar nos processos judiciais sob a supervisão da Procuradoria Setorial. Compete ainda auxiliar na elaboração de decretos e portarias e apoiar o Procurador-Geral do Município e aos demais Procuradores de forma geral. E atribuída a Servidores Públicos Municipais com nível superior de Escolaridade (Bacharel em Direito). Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 6<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento Jurídico
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a realização de atividades relacionadas ao apoio no assessoramento jurídico no âmbito da Agência Municipal de Defesa do Consumidor. Além do elemento de confiança da autoridade que o designar para a função, compete acompanhar todos os processos administrativos que dependam de parecer jurídico, realizar decisões administrativas de processos a serem homologados pela autoridade, realizar contrarrazões de recursos de processos administrativos, realizar execuções de multas administrativas, e ainda, manifestar nos processos judiciais sob a supervisão da Procuradoria Setorial. Compete ainda auxiliar na elaboração de decretos e portarias e apoiar o Procurador-Geral do Município e aos demais Procuradores de forma geral. E atribuída a Servidores Públicos Municipais com nível superior de Escolaridade (Bacharel em Direito). Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 6
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
 
-8\. Tabela 8 - Agência Municipal de Mobilidade e Trânsito – AMT<br>
+8\. Tabela 8 - Agência Municipal de Mobilidade e Trânsito – AMT
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-3<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | Gestor de Contratos<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de alta complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | 1<br>
+| FG-3
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | Gestor de Contratos
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de contratos públicos de alta complexidade. Tem a função de apoiar a gestão dos contratos, acompanhamento de cronogramas financeiro, serviços executados, medições de pagamento junto aos fornecedores e elaboração de relatórios de diários e semanais de gestão. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) | 1
+
 (Inserido pela Lei Complementar nº 271, de 16 de dezembro de 2022) |
-| FG-5<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento Administrativo Financeiro<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão administrativa e financeira no âmbito do órgão municipal para qual lhe for confiado. E responsável pela execução de rotinas que envolvem o assessoramento de confiança direto ao Gestor, elaboração de relatórios gerenciais, contratos, emissão de notas, orientação e supervisão a outros profissionais em assuntos de área de atuação. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1<br>
+| FG-5
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Agente de Assessoramento Administrativo Financeiro
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão administrativa e financeira no âmbito do órgão municipal para qual lhe for confiado. E responsável pela execução de rotinas que envolvem o assessoramento de confiança direto ao Gestor, elaboração de relatórios gerenciais, contratos, emissão de notas, orientação e supervisão a outros profissionais em assuntos de área de atuação. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) |
-| FG-6<br>
-(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal no âmbito da Agência Municipal de Mobilidade e Trânsito, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | 1<br>
+| FG-6
+
+(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal no âmbito da Agência Municipal de Mobilidade e Trânsito, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 452, de 23 de março de 2026) | 1
+
 (Inserido pela Lei Complementar nº 452, de 23 de março de 2026) |
 
-9\. Tabela 9 - Instituto de Previdência de Assistência dos Servidores Municipais de Rio Verde – IPARV<br>
+9\. Tabela 9 - Instituto de Previdência de Assistência dos Servidores Municipais de Rio Verde – IPARV
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Compras Governamentais<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do processo de compras governamentais no âmbito do IPARV E responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~1<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Compras Governamentais
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão do processo de compras governamentais no âmbito do IPARV E responsável condução do processo de cotação e compras de produtos e serviços específicos, a nível central, bem como pela instrução e organização do processo, zela pelo seu desempenho e por sua melhoria contínua, interagindo com todas as áreas da Prefeitura Municipal de Rio Verde que exercem atividades no processo. E responsável também pela operação e gerenciamento do processo, por meio de indicadores de desempenho. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | 2
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
-| FG-2<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Projetos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma e efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 2<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~1<br>
+| FG-2
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Projetos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma e efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de alta complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 2
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
-| FG-4<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Projetos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 3<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~1<br>
+| FG-4
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Projetos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, que envolvem a gestão de projetos únicos, de média complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. E atribuída a Servidores Públicos Municipais com nível superior de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 3
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~1
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
-| FG-6<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Projetos Estratégicos<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 4<br>
-(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~2<br>
+| FG-6
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Gestor de Projetos Estratégicos
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022) | Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Redação dada pela Lei Complementar nº 304, de 28 de junho de 2023) ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito do IPARV, que envolvem a gestão de projetos únicos, de baixa complexidade, com início e fim, gerando entregas exclusivas como um produto, um serviço público ou resultados específicos para a administração pública e para a sociedade. É responsável por planejar, controlar a execução e acompanhar um projeto de forma efetiva, garantindo os resultados desejados. É atribuída a Servidores Públicos Municipais com nível médio ou técnico profissionalizante de escolaridade. Desejável habilidade gerencial, conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ | 4
+
+(Redação dada pela Lei Complementar nº 259, de 30 de agosto de 2022) ~~2
+
 (Inserido pela Lei Complementar nº 239, de 1º de abril de 2022)~~ |
 
-10\. Tabela 10 - Guarda Civil Municipal - GCM<br>
+10\. Tabela 10 - Guarda Civil Municipal - GCM
+
 (Inserido pela Lei Complementar nº 248, de 27 de maio de 2022)
 
 | ESPÉCIE/ NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FG-2<br>
-(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) ~~FG-6<br>
-(Inserido pela Lei Complementar n. 248, de 27 de maio de 2022)~~ | Inspetor da Guarda Civil Municipal<br>
-(Inserido pela Lei Complementar nº 248, de 27 de maio de 2022) | Executar policiamento ostensivo, preventivo, uniformizado e armado, na proteção à população, bens, serviços e instalações do Município; Desempenhar atividades de supervisão e ronda nos postos de policiamento da Guarda Municipal Civil de Rio Verde-GO; Desempenhar atividades de planejamento, gerenciamento e coordenação, das ações de Segurança Pública Municipal; Planejar e gerenciar o emprego do efetivo de sua responsabilidade para fazer frente às necessidades de segurança do Município; Atuar como consultor de Segurança Pública Municipal, propondo e desenvolvendo ações de corresponsabilidade entre os órgãos públicos, sociedade civil e comunidade em geral; Orientar diretamente os seus subordinados nas situações decorrentes de suas atividades; Planejar e coordenar os serviços e operações de sua área de jurisdição; supervisionar a elaboração das escalas de serviço; Estudar, propor e desenvolver medidas para o aperfeiçoamento de seus subordinados; Inspecionar o emprego de armamentos e equipamentos utilizados; Distribuir as tarefas aos seus subordinados e/ou transmitir as ordens e orientações de seus superiores hierárquicos; Orientar e fiscalizar a atuação dos seus subordinados, no trato com o público e nas situações decorrentes de suas atividades; Inspecionar a apresentação individual dos seus subordinados e tomar as providências necessárias; Zelar pela disciplina de seus subordinados; Planejar e coordenar ações educativas e preventivas de Segurança Pública Municipal junto à comunidade em geral; Apoiar e coordenar as ações de socorro e proteção às vítimas de calamidades públicas, participando das ações de defesa civil; Gerir e supervisionar ações de controle do trânsito municipal de pedestres e veículos na área de suas atribuições, quando necessário; Coordenar a segurança de dignitários, quando necessário; Outras funções que lhe forem atribuídas pelo Presidente da Guarda.<br>
-(Inserido pela Lei Complementar nº 248, de 27 de maio de 2022) | 11<br>
-(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023) ~~10<br>
+| FG-2
+
+(Redação dada pela Lei Complementar nº 291, de 30 de março de 2023) ~~FG-6
+
+(Inserido pela Lei Complementar n. 248, de 27 de maio de 2022)~~ | Inspetor da Guarda Civil Municipal
+
+(Inserido pela Lei Complementar nº 248, de 27 de maio de 2022) | Executar policiamento ostensivo, preventivo, uniformizado e armado, na proteção à população, bens, serviços e instalações do Município; Desempenhar atividades de supervisão e ronda nos postos de policiamento da Guarda Municipal Civil de Rio Verde-GO; Desempenhar atividades de planejamento, gerenciamento e coordenação, das ações de Segurança Pública Municipal; Planejar e gerenciar o emprego do efetivo de sua responsabilidade para fazer frente às necessidades de segurança do Município; Atuar como consultor de Segurança Pública Municipal, propondo e desenvolvendo ações de corresponsabilidade entre os órgãos públicos, sociedade civil e comunidade em geral; Orientar diretamente os seus subordinados nas situações decorrentes de suas atividades; Planejar e coordenar os serviços e operações de sua área de jurisdição; supervisionar a elaboração das escalas de serviço; Estudar, propor e desenvolver medidas para o aperfeiçoamento de seus subordinados; Inspecionar o emprego de armamentos e equipamentos utilizados; Distribuir as tarefas aos seus subordinados e/ou transmitir as ordens e orientações de seus superiores hierárquicos; Orientar e fiscalizar a atuação dos seus subordinados, no trato com o público e nas situações decorrentes de suas atividades; Inspecionar a apresentação individual dos seus subordinados e tomar as providências necessárias; Zelar pela disciplina de seus subordinados; Planejar e coordenar ações educativas e preventivas de Segurança Pública Municipal junto à comunidade em geral; Apoiar e coordenar as ações de socorro e proteção às vítimas de calamidades públicas, participando das ações de defesa civil; Gerir e supervisionar ações de controle do trânsito municipal de pedestres e veículos na área de suas atribuições, quando necessário; Coordenar a segurança de dignitários, quando necessário; Outras funções que lhe forem atribuídas pelo Presidente da Guarda.
+
+(Inserido pela Lei Complementar nº 248, de 27 de maio de 2022) | 11
+
+(Redação dada pela Lei Complementar nº 310, de 28 de agosto de 2023) ~~10
+
 (Inserido pela Lei Complementar nº 248, de 27 de maio de 2022)~~ |
 
-**~~11\. Tabela 11 - Agência de Regulação dos Serviços Públicos de Saneamento Básico –AMAE~~**<br>
+**~~11\. Tabela 11 - Agência de Regulação dos Serviços Públicos de Saneamento Básico –AMAE~~**
+
  
 
 ~~(Inserido pela Lei Complementar nº. 332, de 22 de dezembro de 2023)~~
@@ -3953,15 +4610,23 @@ Tabela 6 – Controladoria-Geral do Município – CGM
 
 | ~~ESPÉCIE/ NÍVEL~~ | ~~FUNÇÃO~~ | ~~DESCRIÇÃO~~ | ~~QUANTIDADE~~ |
 | --- | --- | --- | --- |
-| ~~FG-7<br>
-(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Gestor de Processos Estratégicos<br>
-(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da AMAE, que envolvem o assessoramento nas áreas de regulação econômica, contratual ou normativa, dentro da estrutura da Diretoria de Regulação e Fiscalização. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~2<br>
+| ~~FG-7
+
+(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Gestor de Processos Estratégicos
+
+(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Exercer atividades estratégicas relevantes para a Administração Pública Municipal, no âmbito da AMAE, que envolvem o assessoramento nas áreas de regulação econômica, contratual ou normativa, dentro da estrutura da Diretoria de Regulação e Fiscalização. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~2
+
 (Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ |
-| ~~FG-7<br>
-(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Agente de Assessoramento Administrativo<br>
-(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Exercer atividades estratégicas para a Administração Pública Municipal, no âmbito da AMAE, que envolvem o assessoramento, condução de projetos, gestão de contratos e ou instrução de processos financeiros com recursos expressivos, dentro da estrutura da Diretoria de Administração e Finanças ou da Diretoria Colegiada. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.<br>
-(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~2<br>
+| ~~FG-7
+
+(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Agente de Assessoramento Administrativo
+
+(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~Exercer atividades estratégicas para a Administração Pública Municipal, no âmbito da AMAE, que envolvem o assessoramento, condução de projetos, gestão de contratos e ou instrução de processos financeiros com recursos expressivos, dentro da estrutura da Diretoria de Administração e Finanças ou da Diretoria Colegiada. Desejáveis conhecimentos técnicos e experiência na função para a qual será designado. Seus atributos complementares deverão ser especificados no Decreto de designação.
+
+(Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ | ~~2
+
 (Inserido pela Lei Complementar nº 332, de 22 de dezembro de 2023)~~ |
 
 (Revogado pela Lei Complementar nº 358, de 24 de junho de 2024)
@@ -3983,11 +4648,13 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
 | Secretaria Municipal de Comunicação – SMC | Secretaria Municipal de Comunicação – SMC |
 | Controladoria-Geral do Município – CGM | Controladoria-Geral do Município - CGM |
 | Procuradoria-Geral do Município – PGM Agenda Executiva | Procuradoria-Geral do Município – PGM |
-| Secretaria Municipal de Infraestrutura e Desenvolvimento Urbano - SMIDU Secretaria Municipal de Habitação e Regularização Fundiária – SMHRF | Secretaria Municipal de Infraestrutura Urbana – SMIU<br>
+| Secretaria Municipal de Infraestrutura e Desenvolvimento Urbano - SMIDU Secretaria Municipal de Habitação e Regularização Fundiária – SMHRF | Secretaria Municipal de Infraestrutura Urbana – SMIU
+
 (Redação dada pela Lei Complementar nº 374, de 7 de janeiro de 2025) ~~Secretaria Municipal de Infraestrutura e Desenvolvimento Urbano – SMIDU~~ |
 | Secretaria Municipal de Ação Urbana e Serviços Públicos – SMAUSP | Secretaria Municipal de Ação Urbana e Serviços Públicos – SMAUSP |
 | Secretaria Municipal de Infraestrutura Rural – SMIR | Secretaria Municipal de Infraestrutura Rural – SMIR |
-| Desenvolvimento Econômico Sustentável – SMDES Secretaria Municipal de Trabalho – SMT Secretaria Municipal de Turismo – SMTUR Secretaria Municipal de Políticas Estratégicas – SMPE | ~~Secretaria Municipal de Desenvolvimento Econômico Sustentável e Turismo – SMDEST~~ Secretaria Municipal de Desenvolvimento Econômico Sustentável - SMDES<br>
+| Desenvolvimento Econômico Sustentável – SMDES Secretaria Municipal de Trabalho – SMT Secretaria Municipal de Turismo – SMTUR Secretaria Municipal de Políticas Estratégicas – SMPE | ~~Secretaria Municipal de Desenvolvimento Econômico Sustentável e Turismo – SMDEST~~ Secretaria Municipal de Desenvolvimento Econômico Sustentável - SMDES
+
 (Redação dada pela Lei Complementar nº 336, de 26 de fevereiro de 2024) |
 | Secretaria Municipal de Agricultura, Pecuária e Abastecimento – SMAPA | Secretaria Municipal de Agricultura, Pecuária e Abastecimento – SMAPA |
 | Secretaria Municipal de Meio Ambiente – SMMA | Secretaria Municipal de Meio Ambiente – SMMA |
@@ -4003,18 +4670,25 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
 | Fundação Municipal de Assistência Social Altair Coelho Lima – FMACL | Fundação Municipal de Assistência Social Altair Coelho Lima – FMACL |
 | Fundação Municipal de Cultura – FMC | Fundação Municipal de Cultura - FMC |
 | FESURV – Universidade de Rio Verde | FESURV – Universidade de Rio Verde |
-|   | Secretaria Municipal de Habitação e Regularização Fundiária - SMHRF<br>
+|   | Secretaria Municipal de Habitação e Regularização Fundiária - SMHRF
+
 (Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) |
-|   | Secretaria Municipal de Cultura - FMC<br>
+|   | Secretaria Municipal de Cultura - FMC
+
 (Inserido pela Lei Complementar nº 310, de 28 de agosto de 2023) |
-|   | Secretaria Municipal de Turismo – SMTUR<br>
+|   | Secretaria Municipal de Turismo – SMTUR
+
 (Inserido pela Lei Complementar nº 336, de 02 de fevereiro de 2024) |
-|   | Secretaria Municipal de Governo – SMG<br>
+|   | Secretaria Municipal de Governo – SMG
+
 (Inserido pela Lei Complementar nº. 367, de 2 de dezembro de 2024) |
-|   | ~~Secretaria Municipal de Ciência, Tecnologia e Inovação – SMCTI<br>
-(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ Secretaria Municipal de Tecnologia, Inovação e Inteligência Artificial - SETIA<br>
+|   | ~~Secretaria Municipal de Ciência, Tecnologia e Inovação – SMCTI
+
+(Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ Secretaria Municipal de Tecnologia, Inovação e Inteligência Artificial - SETIA
+
 (Redação dada pela Lei nº 457, de 23 de abril de 2026) |
-|   | ~~Secretaria Municipal de Desenvolvimento e Mobilidade Urbana – SMDMU<br>
+|   | ~~Secretaria Municipal de Desenvolvimento e Mobilidade Urbana – SMDMU
+
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)~~ (Extinta pela Lei Complementar nº 451, de 19 de fevereiro de 2026) |
 
 ~~ANEXO VIII~~
@@ -4174,7 +4848,8 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
 
 **ANEXO XIV**
 
-**TABELA DE ATRIBUIÇÕES DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO DE QUE TRATA O ANEXO XI**<br>
+**TABELA DE ATRIBUIÇÕES DOS CARGOS DE PROVIMENTO EM COMISSÃO DE DIREÇÃO, CHEFIA E ASSESSORAMENTO DE QUE TRATA O ANEXO XI**
+
 (Equivalente ao ANEXO VIII da Lei Complementar 6.279, de 01 de julho de 2013, revogada por esta Lei)
 
 | NÍVEL DOS CARGOS | SÍMBOLO | CARGO | ATRIBUIÇÕES |
@@ -4219,7 +4894,8 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
 
 **ANEXO XV**
 
-**TABELA DE ATRIBUIÇÕES DOS CARGOS EM COMISSÃO DE ASSESSORAMENTO DE QUE TRATA O ANEXO XII**<br>
+**TABELA DE ATRIBUIÇÕES DOS CARGOS EM COMISSÃO DE ASSESSORAMENTO DE QUE TRATA O ANEXO XII**
+
 (Equivalente ao ANEXO IX da Lei Complementar 6.279, de 01 de julho de 2013, revogada por esta Lei)
 
 | DENOMINAÇÃO E NÍVEL DOS CARGOS | SÍMBOLO | ATRIBUIÇÕES E COMPETÊNCIAS |
@@ -4242,7 +4918,8 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
 
 **ANEXO XVI**
 
-**TABELA DE ESPECIFICAÇÃO DAS FUNÇÕES COMISSIONADAS DE QUE TRATAM O ANEXO XIII**<br>
+**TABELA DE ESPECIFICAÇÃO DAS FUNÇÕES COMISSIONADAS DE QUE TRATAM O ANEXO XIII**
+
 (Equivalente ao ANEXO X da Lei Complementar 6.279, de 01 de julho de 2013, revogada por esta Lei)
 
 **QUADRO DE FUNÇÕES COMISSIONADAS DA PREFEITURA MUNICIPAL DE RIO VERDE – FC**
@@ -4289,75 +4966,103 @@ TABELA RESUMO DE ALTERAÇÕES NA ESTRUTURA ORGÂNICA BÁSICA
 
 **ANEXO XVII**
 
-**QUADRO DE SÍMBOLOS, QUANTITATIVO E VALORES DAS FUNÇÕES DE CONFIANÇA (FC)**<br>
+**QUADRO DE SÍMBOLOS, QUANTITATIVO E VALORES DAS FUNÇÕES DE CONFIANÇA (FC)**
+
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)
 
 | ESPÉCIE / NÍVEL | FUNÇÃO | QUANTITATIVO | VALOR (R$) |
 | --- | --- | --- | --- |
-| FCAS | Função de Confiança de Assessoramento Superior | 14<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~09<br>
-10<br>
-(Redação dada pela Lei Complementar nº 433, de 17 de novembro de 2025)<br>
-11<br>
+| FCAS | Função de Confiança de Assessoramento Superior | 14
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~09
+
+10
+
+(Redação dada pela Lei Complementar nº 433, de 17 de novembro de 2025)
+
+11
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | R$ 7.600,00 |
-| FCDS | Função de Confiança de Direção Superior | 27<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~17<br>
-20<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-24<br>
+| FCDS | Função de Confiança de Direção Superior | 27
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~17
+
+20
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+24
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ | R$ 6.523,12 |
-| FCDI | Função de Confiança de Direção Intermediária | 28<br>
+| FCDI | Função de Confiança de Direção Intermediária | 28
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~38~~ | R$ 5.523,12 |
-| FCCS | Função de Confiança de Coordenação Superior | 23<br>
+| FCCS | Função de Confiança de Coordenação Superior | 23
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~21~~ | R$ 5.440,48 |
 | FCAI | Função de Confiança de Assessoramento Intermediária | 08 | R$ 5.384,59 |
-| FCCS FCCI<br>
-(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) | Função de Confiança de Coordenação Intermediária | 58<br>
+| FCCS FCCI
+
+(Redação dada pela Lei Complementar nº 375, de 24 de fevereiro de 2025) | Função de Confiança de Coordenação Intermediária | 58
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~68~~ | R$ 4.440,48 |
 | FCGE | Função de Confiança de Gestão | 19 | R$ 3.330,37 |
 | FCCG | Função de Confiança de Chefia de Gabinete | 14 | R$ 3.330,37 |
 | FCSU | Função de Confiança de Supervisão | 16 | R$ 2.864,28 |
 | FCCH | Função de Confiança de Chefia de Equipe ou Setor | 16 | R$ 2.220,24 |
-| Total: | 223<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~226<br>
-229<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)<br>
-217<br>
+| Total: | 223
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~226
+
+229
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)
+
+217
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |   |
 
-<br>
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)
 
 **ANEXO XVIII**
 
 **DESCRIÇÃO DAS FUNÇÕES DE CONFIANÇA (FC)**
 
-<br>
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)
 
 | ESPÉCIE/NÍVEL | FUNÇÃO | DESCRIÇÃO | QUANTIDADE |
 | --- | --- | --- | --- |
-| FCAS | Função de Confiança de Assessoramento Superior | Exercer atividades de assessoramento direto a autoridades superiores da Administração Pública Municipal. É responsável pela análise técnica de documentos, elaboração de pareceres estratégicos e suporte na tomada de decisões, assegurando o alinhamento das ações administrativas às diretrizes institucionais. | 14<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~09<br>
-10<br>
-(Redação dada pela Lei Complementar nº 433, de 17 de novembro de 2025)~~ ~~11<br>
+| FCAS | Função de Confiança de Assessoramento Superior | Exercer atividades de assessoramento direto a autoridades superiores da Administração Pública Municipal. É responsável pela análise técnica de documentos, elaboração de pareceres estratégicos e suporte na tomada de decisões, assegurando o alinhamento das ações administrativas às diretrizes institucionais. | 14
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~09
+
+10
+
+(Redação dada pela Lei Complementar nº 433, de 17 de novembro de 2025)11
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |
-| FCDS | Função de Confiança de Direção Superior | Exercer atividades estratégicas de direção e supervisão de alto nível da Administração Pública Municipal, garantindo a eficiência e eficácia dos programas e ações. É responsável pela definição de metas, coordenação de equipes de alto desempenho e pela tomada de decisões estratégicas em alinhamento com as diretrizes do Executivo Municipal. | 27<br>
-(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~17<br>
-20<br>
-(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)~~ ~~24<br>
+| FCDS | Função de Confiança de Direção Superior | Exercer atividades estratégicas de direção e supervisão de alto nível da Administração Pública Municipal, garantindo a eficiência e eficácia dos programas e ações. É responsável pela definição de metas, coordenação de equipes de alto desempenho e pela tomada de decisões estratégicas em alinhamento com as diretrizes do Executivo Municipal. | 27
+
+(Redação dada pela Lei Complementar nº 452, de 23 de março de 2026) ~~17
+
+20
+
+(Redação dada pela Lei Complementar nº 400, de 30 de junho de 2025)24
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025)~~ |
-| FCDI | Função de Confiança de Direção Intermediária | Exercer atividades de direção em níveis intermediários da Administração Pública Municipal, promovendo a execução eficiente das políticas públicas e garantindo o cumprimento das metas estabelecidas. É responsável pela organização e acompanhamento das atividades de equipes específicas, visando a melhoria contínua dos processos administrativos. | 28<br>
+| FCDI | Função de Confiança de Direção Intermediária | Exercer atividades de direção em níveis intermediários da Administração Pública Municipal, promovendo a execução eficiente das políticas públicas e garantindo o cumprimento das metas estabelecidas. É responsável pela organização e acompanhamento das atividades de equipes específicas, visando a melhoria contínua dos processos administrativos. | 28
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~38~~ |
-| FCCS | Função de Confiança de Coordenação Superior | Exercer atividades de coordenação estratégica de alto nível no âmbito da Administração Pública Municipal, promovendo o alinhamento das ações administrativas às diretrizes institucionais. É responsável por coordenar equipes multidisciplinares, planejar e acompanhar a execução de projetos e programas estratégicos, além de propor soluções para melhoria contínua dos processos. | 23<br>
+| FCCS | Função de Confiança de Coordenação Superior | Exercer atividades de coordenação estratégica de alto nível no âmbito da Administração Pública Municipal, promovendo o alinhamento das ações administrativas às diretrizes institucionais. É responsável por coordenar equipes multidisciplinares, planejar e acompanhar a execução de projetos e programas estratégicos, além de propor soluções para melhoria contínua dos processos. | 23
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~21~~ |
 | FCAI | Função de Confiança de Assessoramento Intermediária | Exercer atividades de assessoramento técnico e operacional em níveis intermediários da Administração Pública Municipal. É responsável por fornecer suporte direto a gestores e pela elaboração de relatórios, pareceres e soluções administrativas em sua área de atuação. | 08 |
-| FCCI | Função de Confiança de Coordenação Intermediária | Exercer atividades de coordenação em níveis intermediários da Administração Pública Municipal, promovendo a execução eficiente de ações, projetos e programas de sua responsabilidade. É responsável pela organização de equipes e pela integração entre setores, buscando a melhoria contínua dos processos e o cumprimento das metas estabelecidas. | 58<br>
+| FCCI | Função de Confiança de Coordenação Intermediária | Exercer atividades de coordenação em níveis intermediários da Administração Pública Municipal, promovendo a execução eficiente de ações, projetos e programas de sua responsabilidade. É responsável pela organização de equipes e pela integração entre setores, buscando a melhoria contínua dos processos e o cumprimento das metas estabelecidas. | 58
+
 (Redação dada pela Lei Complementar nº 439, de 15 de dezembro de 2025) ~~68~~ |
 | FCGE | Função de Confiança de Gestão | Exercer atividades de gestão estratégica de programas, processos e equipes no âmbito da Administração Pública Municipal. É responsável pela definição e acompanhamento de metas, alinhando as atividades ao planejamento institucional. Promove o desenvolvimento de soluções inovadoras para otimização dos serviços públicos. | 19 |
 | FCCG | Função de Confiança de Chefia de Gabinete | Exercer atividades de direção e controle administrativo em gabinetes, assegurando o suporte técnico e estratégico às demandas institucionais. É responsável pela interlocução entre o gabinete local e demais áreas administrativas, pela organização de agendas e pela coordenação de equipes subordinadas. | 14 |
 | FCSU | Função de Confiança de Supervisão | Exercer atividades de supervisão técnica e administrativa, acompanhando a execução das tarefas atribuídas às equipes sob sua responsabilidade. Garante o cumprimento das metas e prazos estabelecidos, bem como a aplicação de boas práticas na execução dos serviços. | 16 |
 | FCCH | Função de Confiança de Chefia de Equipe ou Setor | Exercer atividades de chefia de equipes em setores específicos da Administração Pública Municipal, assegurando a execução eficiente de atividades e o cumprimento de metas estabelecidas. É responsável pela supervisão direta dos servidores e pela organização das tarefas, promovendo a melhoria contínua nos processos internos. | 16 |
 
-<br>
 (Inserido pela Lei Complementar nº 374, de 7 de janeiro de 2025)

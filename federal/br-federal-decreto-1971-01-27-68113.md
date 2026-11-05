@@ -1,5 +1,3 @@
-###DEC-068113-0-000-27-01-1971@@@
-
 DECRETO Nº 68.113, DE 27 DE JANEIRO DE 1971.
 
 Altera o Regulamento do Departamento de Ensino e Pesquisa e dá outras providências.

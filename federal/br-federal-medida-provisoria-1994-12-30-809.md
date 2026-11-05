@@ -1,7 +1,3 @@
-1
-
-###MPV-000809-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 809, DE 30 DE DEZEMBRO DE 1994
 
 Dispõe sobre a concessão de abono aos trabalhadores no mês de janeiro de 1995.             

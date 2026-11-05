@@ -1,5 +1,3 @@
-###DEL-003962-0-000-20-12-1941@@@
-
 DECRETO-LEI N. 3.962 – DE 20 DE DEZEMBRO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a ceder o terreno que menciona

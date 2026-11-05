@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7ee841b0-72d4-4dae-b948-7a09f0beed55/texto#nowhere)
 
-###DEL-000766-0-000-15-08-1969@@@
-
 DECRETO-LEI Nº 766, DE 15 DE AGôSTO DE 1969
 
 Altera o artigo 477 da Consolidação das Leis ao Trabalho.

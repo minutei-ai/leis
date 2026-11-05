@@ -22,8 +22,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação, porém seus efeito
 
 Goiânia, 22 de julho de 2021; 133º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

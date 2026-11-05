@@ -1,5 +1,3 @@
-###DEC-052829-0-000-14-11-1963@@@
-
 DECRETO Nº 52.829, DE 14 DE NOVEMBRO DE 1963.
 
 Altera o Regulamento de Uniforme da Marinha do Brasil.

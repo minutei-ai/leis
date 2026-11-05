@@ -1,5 +1,3 @@
-###DEC-047501-0-000-28-12-1959@@@
-
 DECRETO Nº 47.501, DE 28 DE DEZEMBRO DE 1959.
 
 Autoriza a São Paulo Light S.A. serviços de Eletricidade, a reconstruir e ampliar a linha de transmissão São José dos Campos - Jacareí, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-093594-0-000-19-11-1986@@@
-
 DECRETO Nº 93.594, DE 19 DE NOVEMBRO DE 1986
 
 Susta a criação de novos cursos superiores de graduação em todo o território nacional, e dá outras providências.

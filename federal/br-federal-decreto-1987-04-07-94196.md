@@ -1,5 +1,3 @@
-###DEC-094196-0-000-07-04-1987@@@
-
 DECRETO Nº 94.196, DE 7 DE ABRIL DE 1987
 
 Dispõe sobre a instituição, no Ministério da Saúde, da Campanha Nacional de Combate à Malária.

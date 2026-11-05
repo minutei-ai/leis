@@ -1,5 +1,3 @@
-###DEC-067141-0-000-08-09-1970@@@
-
 DECRETO Nº 67.141, DE 8 DE setembro 1970.
 
 Autoriza funcionamento da Faculdade de Ciências Econômicas de Itabuna, no Estado da Bahia.

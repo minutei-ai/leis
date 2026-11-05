@@ -1,5 +1,3 @@
-###DEC-003900-0-000-29-08-2001@@@
-
 DECRETO Nº 3.900, DE 29 DE AGOSTO 2001
 
 Cria a Comercializadora Brasileira de Energia Emergencial - CBEE e dá outras providências.

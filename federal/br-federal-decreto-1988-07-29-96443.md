@@ -1,5 +1,3 @@
-###DEC-096443-0-000-29-07-1988@@@
-
 DECRETO N° 96.443, DE 29 DE JULHO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

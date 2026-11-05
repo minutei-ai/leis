@@ -1,5 +1,3 @@
-###DEL-006397-0-000-01-04-1944@@@
-
 DECRETO-LEI N. 6.397 – DE 1 DE  ABRIL DE  1944
 
  Dispõe sôbre o financiamento da safra de algodão de 1943-44 e dá outras providências.

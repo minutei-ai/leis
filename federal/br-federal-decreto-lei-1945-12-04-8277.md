@@ -1,5 +1,3 @@
-###DEL-008277-0-000-04-12-1945@@@
-
 DECRETO-LEI N. 8.277 – DE 4 DE DEZEMBRO DE 1945
 
 Altera, sem aumento de despesa, o Orçamento Geral da República, na parte referente ao Ministério da Viação e Obras Públicas

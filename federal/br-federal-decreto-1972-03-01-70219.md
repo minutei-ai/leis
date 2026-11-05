@@ -1,5 +1,3 @@
-###DEC-070219-0-000-01-03-1972@@@
-
 DECRETO Nº 70.219, DE 1º DE MARÇO DE 1972.
 
 Aprova o Regulamento da Lei número 5.701-71, que dispõe sobre o Magistério do Exército.
@@ -699,8 +697,6 @@ Parágrafo único. Os atuais professores e coadjuvantes civis efetivos do Magist
 Orlando Geisel
 
 RETIFICAÇÃO
-
-###DEC-070219-0-000-01-03-1972@@@
 
 DECRETO Nº 70.219, DE 1º DE MARÇO DE 1972
 

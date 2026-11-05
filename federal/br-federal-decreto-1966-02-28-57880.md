@@ -1,5 +1,3 @@
-###DEC-057880-0-000-28-02-1966@@@
-
 decreto nº 57.880, de 28 de fevereiro de 1966.
 
 Autoriza a Companhia Paulista de Fôrça e luz a ampliar seu sistema de distribuição de energia elétrica, no Município de Igaraçu do Tietê, estado de São Paulo .

@@ -1,5 +1,3 @@
-###DEL-008181-0-000-19-11-1945@@@
-
 DECRETO-LEI N. 8.181 – DE 19 DE NOVEMBrO DE 1945
 
 Divide o território nacional em Distritos Navais e dá outras providências.

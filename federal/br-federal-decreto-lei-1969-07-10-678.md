@@ -1,5 +1,3 @@
-###DEL-000678-0-000-10-07-1969@@@
-
 DECRETO-LEI Nº 678, DE 10 DE JULHO DE 1969
 
 Transfere cargo do Ministério da Indústria e do Comércio para o Ministério da Marinha.

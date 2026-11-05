@@ -10,7 +10,8 @@ Com a incorporação das Reformas Constitucionais de 24 de maio de 1915 e 2 de j
 
 TITULO I
 
-CAPITULO UNICO -<br>
+CAPITULO UNICO -
+
 DO ESTADO, SEU TERRITÓRIO E GOVERNO
 
 Art. 1º - O Estado da Bahia é parte integrante, por reunião perpetua e indissoluvel, da Republica dos Estados Unidos do Brasil e reconhece, em sua organização politica, os principios e limites estabelecidos pela Constituição Federal.
@@ -21,10 +22,12 @@ Art. 3º - O governo do Estado exercita-se pelos poderes legislativo e executivo
 
 A nenhum desses poderes, independentes e harmonicos entre si, é licito delegar o exercício de suas funcções.
 
-TITULO II -<br>
+TITULO II -
+
 DO PODER LEGISLATIVO
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DISPOSIÇÕES GERAES
 
 Art. 4º - O poder legislativo é exercido pela Assembléa Geral, com a sancção do Governador, salvo a hypothese da rejeição do véto.
@@ -157,7 +160,8 @@ Art. 27 - São condições de elegibilidade para a Assembléa Geral:
 
 Paragrapho unico - A mudança voluntaria de domicilio para fóra do Estado importa renuncia do mandato.
 
-CAPITULO II -<br>
+CAPITULO II -
+
 DA CAMARA DOS DEPUTADOS
 
 Art. 28 - É da privativa competencia da Camara dos Deputados:
@@ -168,7 +172,8 @@ Art. 28 - É da privativa competencia da Camara dos Deputados:
 
 Art. 29 - Compete-lhe tambem, salva a hypothese do art. 77, accusar perante o Senado os funccionarios civis qualquer que seja a graduação ou classe, por crimes, ligados ao exercicio de suas funcções.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DO SENADO
 
 Art. 30 - O mandato dos Senadores durará seis annos, sendo porém, renovado pelo terço biennalmente.
@@ -189,7 +194,8 @@ Esta pena, porém, não exime o destituido de responder perante a justiça ordin
 
 Art. 34 - Os Senadores antes de exercerem as funcções de julgamento prestarão juramento ou affirmação solenne de fazer justiça, obedecendo sómente á lei e á sua consciencia.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DAS ATTRIBUIÇÕES DA ASSEMBLÉA GERAL
 
 Art. 35 - Compete á Assembléa Geral fazer leis, interpretal-as, suspendel-as e revogal-as; e, particularmente:
@@ -286,7 +292,8 @@ Parágrapho único - Sómente por outra lei de caracter geral poderão ser alter
 
 Art. 37 - Por lei de caracter geral, tambem, será organizado o quadro dos funccionarios publicos, com a fixação de seus vencimentos, prevalecendo a restricção do paragrafho unico do artigo anterior.
 
-CAPITULO V -<br>
+CAPITULO V -
+
 DA FORMAÇÃO E SANCÇÃO DAS LEIS
 
 Art. 38 - Approvado qualquer projecto de lei por uma das camaras, será submettido á outra e esta, se tambem o approvar, envial-o-á ao Governador do Estado, que, acquiescendo, o sanccionará, dentro em dez dias uteis, a partir do em que o recebeu, e o promulgará e mandará publicar em igual prazo, contado da sancção.
@@ -323,10 +330,12 @@ Art. 42 - Os projectos, em materia de iniciativa de ambas as camaras, relativos 
 
 Art. 43 - Os projectos de lei approvados em uma camara não poderão ser demorados sem discussão e votação na outra, salvo a precedencia que compete aos de data anterior, de reconhecida urgencia e já postos em ordem do dia.
 
-TITULO III -<br>
+TITULO III -
+
 DO PODER EXECUTIVO
 
-CAPITULO I -<br>
+CAPITULO I -
+
 DO GOVERNADOR
 
 Art. 44 - O poder executivo é delegado a um Governador eleito por suffragio directo do Estado e cujo mandato durará quatro annos.
@@ -365,7 +374,8 @@ Art. 52 - O Governador será subsidiado pelo Estado com o vencimento annual que 
 
 Art. 53 - É vedado ao Governador ausentar-se do territorio do Estado, sem licença da Assembléa Geral, sob pena de perder o cargo; poderá, entretanto, fazel-o, durante o interregno parlamentar, por motivo de molestia ou outro de urgencia justificada, contanto que não prolongue a ausencia por mais de seis mezes e della dê conhecimento á Assembléa, logo que esta se reuna.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ELEIÇÃO DO GOVERNADOR
 
 Art. 54 - A eleição do Governador se effectuará em todo o Estado, tres mezes antes de findar o periodo governamental.
@@ -376,7 +386,8 @@ Art. 56 - Sessenta dia depois da eleição, as duas camaras reunidas, sob a dire
 
 Art. 57 - No caso de empate ou falta de maioria absoluta, a Assembléa Geral, pelo numero de votos indicado no art. 11, escolherá o Governador dentre os dois cidadãos mais votados.
 
-CAPITULO III -<br>
+CAPITULO III -
+
 DAS ATTRIBUIÇÕES DO GOVERNADOR
 
 Art. 58 - São attribuições do Governador:
@@ -427,7 +438,8 @@ Art. 58 - São attribuições do Governador:
 
 § 23 - Decretar a intervenção nos municípios e tornal-a effectiva nos termos e casos especificados nesta Constituição.
 
-CAPITULO IV -<br>
+CAPITULO IV -
+
 DOS SECRETARIOS DE ESTADO
 
 Art. 59 - O Governador será auxiliado por Secretarios agentes de sua immediata confiança, que lhe subscreverão os actos. Cada um delles dirigirá uma das Secretarias, pelas quaes se distribuirem os serviços da administração publica.
@@ -438,7 +450,8 @@ Art. 61 - Os Secretarios darão conta ao Governador, em relatorio annual minucio
 
 Art. 62 - Os Secretarios respondem pelos crimes qualificados em lei, decorrentes dos actos que praticarem.
 
-CAPITULO V -<br>
+CAPITULO V -
+
 RESPONSABILIDADE DO GOVERNADOR
 
 Art. 63 - Mediante prévia accusação que só á camara compete formular e approvar, será o Governador do Estado submettido a processo e julgamento perante o superior Tribunal de Justiça, nos crimes comuns, e perante o Senado, nos de responsabilidade.
@@ -461,7 +474,8 @@ Art. 64 - Para constituir crime de responsabilidade é essencial que o facto imp
 
 Art. 65 - Uma lei especial ou as deliberações de cada uma das camaras, emquanto essa lei não fôr promulgada, regularão o processo respectivo.
 
-TITULO IV -<br>
+TITULO IV -
+
 DA MAGISTRATURA E DO MINISTERIO PUBLICO DO ESTADO
 
 CAPITULO UNICO
@@ -574,7 +588,8 @@ Art. 96 - Fica instituido o Conselho Disciplinar da Magistratura, composto do Pr
 
 § 2º - Em lei especial serão reguladas as attribuições do Conselho e a applicação das penas disciplinares.
 
-TITULO V -<br>
+TITULO V -
+
 DO MUNICIPIO
 
 CAPITULO UNICO
@@ -757,7 +772,8 @@ III - Eventuaes.
 
 Art. 119 - A fazenda Municipal terá o privilegio do executivo, nos mesmos casos que a do Estado.
 
-TITULO VI -<br>
+TITULO VI -
+
 DA FORÇA PUBLICA
 
 CAPITULO UNICO
@@ -782,7 +798,8 @@ Art. 124 - Haverá uma policia de carreira, com a organização estabelecida em 
 
 Art. 125 - Fica instituido o Conselho de Justiça da Força Publica do Estado, cuja organização e funcções serão estabelecidas em lei ordinaria.
 
-TITULO VII -<br>
+TITULO VII -
+
 DA FAZENDA DO ESTADO
 
 CAPITULO UNICO
@@ -833,7 +850,8 @@ III - Eventuaes.
 
 Art. 129 - A sua despesa comprehende, além do serviço da divida interna e externa cujo pagamento o governo do Estado afiança e garante, todos os demais serviços expresamente creados e votados por lei.
 
-TITULO VIII -<br>
+TITULO VIII -
+
 REGIME ELEITORAL
 
 CAPITULO UNICO
@@ -852,7 +870,8 @@ Art. 134 - Sempre que fôr possivel, as eleições se realizarão em domingos ou
 
 Art. 135 - Nenhum eleitor, um mez antes ou depois da eleição, poderá ser preso sob pretexto algum, salvo flagrancia ou pronuncia em crime inafiançavel, e nos demais casos em que a lei exceptuar.
 
-TITULO IX -<br>
+TITULO IX -
+
 DECLARAÇÃO DE DIREITOS E GARANTIAS
 
 CAPITULO UNICO
@@ -871,7 +890,8 @@ Art. 136 - Esta Constituição, na conformidade dos principios institucionaes da
 
 TITULO X
 
-CAPITULO UNICO -<br>
+CAPITULO UNICO -
+
 DA REFORMA CONSTITUCIONAL
 
 Art. 137 - Cada uma das camaras póde em qualquer tempo propôr a reforma da presente Constituição.
@@ -882,7 +902,8 @@ Art. 139 - A reforma da Constituição póde ser provocada perante a Camara por 
 
 TITULO XI
 
-CAPITULO UNICO -<br>
+CAPITULO UNICO -
+
 DISPOSIÇÕES GERAES
 
 Art. 140 - A nenhum cidadão investido em funcções de qualquer dos tres poderes será facultado exercer as do outro.

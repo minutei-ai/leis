@@ -1,5 +1,3 @@
-###DEC-071989-0-000-26-03-1973@@@
-
 DECRETO Nº 71.989, DE 26 DE MARÇO DE 1973.
 
 Promulga o Acordo sobre Salvamento de Astronautas e Restituição de Astronautas e de objetos Lançados ao Espaço Cósmico.

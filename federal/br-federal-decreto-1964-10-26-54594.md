@@ -1,5 +1,3 @@
-###DEC-054594-0-000-26-10-1964@@@
-
 DECRETO Nº 54.594, DE 26 DE OUTUBRO DE 1964.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica.

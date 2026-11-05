@@ -1,5 +1,3 @@
-###DEC-006467-0-000-30-05-2008@@@
-
 DECRETO Nº 6.467, DE 30 DE MAIO DE 2008.
 
 Acresce dispositivo ao Decreto no 6.370, de 1o de fevereiro de 2008, para dispor sobre movimentação de suprimento de fundos.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Guido Mantega
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 30.5.2008, edição extra

@@ -22,8 +22,10 @@ Art. 4º - Esta Lei entra em vigor na data de sua publicação, revogando-se as 
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos 21 dias do mês de Setembro do ano de 2020.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil

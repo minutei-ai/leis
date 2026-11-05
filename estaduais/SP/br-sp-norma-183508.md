@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183508)
-
 # DECRETO Nº 62.865, DE 03 DE OUTUBRO DE 2017
 
 ### _Declara de utilidade pública para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, as áreas necessárias às obras e serviços de recuperação da pista, dos acostamentos e terceiras faixas existentes e melhorias do trecho entre o km 168+200m e o km 295+400m da SP-270, Rodovia Raposo Tavares, localizadas nos Municípios de Itapetininga, Angatuba, Campina do Monte Alegre, Paranapanema e Itaí, e dá providências correlatas_
@@ -474,11 +472,18 @@ Palácio dos Bandeirantes, 3 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Laurence Casagrande Lourenço<br>
-Diretor Presidente da Dersa, Respondendo pelo Expediente<br>
-da Secretaria de Logística e Transportes<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Laurence Casagrande Lourenço
+
+Diretor Presidente da Dersa, Respondendo pelo Expediente
+
+da Secretaria de Logística e Transportes
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 3 de outubro de 2017.

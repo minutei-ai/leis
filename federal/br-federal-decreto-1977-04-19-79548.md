@@ -1,5 +1,3 @@
-###DEC-079548-0-000-19-04-1977@@@
-
 DECRETO Nº 79.548, DE 19 DE ABRIL DE 1977.
 
 Altera o Decreto nº 73.950, de 17 de abril de 1974, que concedeu reconhecimento ao curso de Psicologia, da Faculdade de Filosofia, Ciências e Letras do Sagrado Coração de Jesus, com sede na cidade de Bauru, Estado de São Paulo.

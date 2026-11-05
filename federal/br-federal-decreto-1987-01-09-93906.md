@@ -1,5 +1,3 @@
-###DEC-093906-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.906, DE 09 DE JANEIRO DE 1987
 
 Autoriza o funcionamento da modalidade Bacharelado, do curso de Ciências Sociais da Fundação Educacional de Divinópolis.

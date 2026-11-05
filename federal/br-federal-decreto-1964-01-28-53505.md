@@ -1,5 +1,3 @@
-###DEC-053505-0-000-28-01-1964@@@
-
 Decreto nº 53.505, de 28 de janeiro de 1964.
 
 Altera o artigo 1º do Decreto número 52.870, de 19 de novembro de 1962, que autoriza o Ministro da Fazenda a dar garantia do Tesouro Nacional a empréstimo a ser realizado pela Rêde Ferroviária Federal S.A.

@@ -1,5 +1,3 @@
-###DEL-004143-0-000-02-03-1942@@@
-
 DECRETO-LEI N. 4.143 – DE 2 DE MARÇO DE 1942
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de 4:800$0, à verba que especifica

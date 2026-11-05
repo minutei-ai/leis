@@ -1,7 +1,3 @@
-1
-
-###MPV-000909-0-000-21-02-1995@@@
-
 # Medida Provisória nº 909, DE 21 DE FEVEREIRO DE 1995
 
 Dá nova redação a dispositivos das Leis nºs 8.849, de 28 de janeiro de 1994, e 8.541, de 23 de dezembro de 1992, que alteram a legislação do imposto sobre a renda e proventos de qualquer natureza, e dá outras providências.

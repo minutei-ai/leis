@@ -1,5 +1,3 @@
-###DEC-060854-0-000-14-06-1967@@@
-
 DECRETO Nº 60.854, DE 14 DE JUNHO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério das Minas e Energia.

@@ -1,5 +1,3 @@
-###DEC-051746-0-000-22-02-1963@@@
-
 DECRETO Nº 51.746, DE 22 DE FEVEREIRO DE 1963.
 
 Declara de utilidade pública a “Fundação Instituto feminino da Bahia” com sede em Salvador, Estado de Bahia.

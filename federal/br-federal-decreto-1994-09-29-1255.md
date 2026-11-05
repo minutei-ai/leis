@@ -1,7 +1,3 @@
-1
-
-###DEC-001255-0-000-29-09-1994@@@
-
 DECRETO Nº 1.255, DE 29 DE SETEMBRO E 1994
 
 Promulga a Convenção nº 119, da Organização Iternacional do Trabalho, sobre Proteção das Máquinas, concluída em Genebra, em 25 de junho de 1963.

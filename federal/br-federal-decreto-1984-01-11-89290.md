@@ -1,5 +1,3 @@
-###DEC-089290-0-000-11-01-1984@@@
-
 Decreto nº 89.290, de 11 de janeiro de 1984
 
 Declara de interesse social, para fins de desapropriacão, o imóvel rural denominado "Fazenda Nova Aurora", situado no Município de Tarauacá, no Estado do Acre, compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 67.557, de 12/11/70, alterado pelos Decretos nºs 75.295, de 27/01/75, e 85.075, de 27/08/80.

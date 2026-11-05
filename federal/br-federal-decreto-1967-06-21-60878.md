@@ -1,5 +1,3 @@
-###DEC-060878-0-000-21-06-1967@@@
-
 decreto nº 60.878, de 21 de junho de 1967.
 
 Declara de utilidade pública o “Hospital São Vicente de Paulo”, com sede em Cruz Alta, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-002142-0-000-05-02-1997@@@
-
 DECRETO Nº 2.142, DE 5 DE FEVEREIRO DE 1997
 
 Promulga o Acordo para Isenção de Impostos Relativos à Implementação do Projeto do Gasoduto Brasil-Bolívia, celebrado entre o Governo da República Federativa do Brasil e o Governo da República da Bolívia, em Brasília, em 5 de agosto de 1996.

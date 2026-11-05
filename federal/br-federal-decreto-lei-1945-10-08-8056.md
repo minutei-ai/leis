@@ -1,5 +1,3 @@
-###DEL-008056-0-000-08-10-1945@@@
-
 DECRETO-LEI N. 8.056 – DE 8 DE OUTUBRO DE 1945
 
 Torna sem efeito o Decreto-lei número 7.206, de 29 de dezembro de 1944, e dá outras providências.

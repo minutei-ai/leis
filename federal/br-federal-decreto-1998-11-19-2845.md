@@ -1,5 +1,3 @@
-###DEC-002845-0-000-19-11-1998@@@
-
 DECRETO Nº 2.885, DE 19 DE NOVEMBRO DE 1998
 
 Encerra os trabalhos de inventariança da extinta fundação Roquette Pinto.
@@ -17,8 +15,6 @@ Brasília, 19 de novembro de 1998; 177º da Independência de 110º da Repúblic
 FERNANDO HENRIQUE CARDOSO
 
 Luiz Carlos Bresser Pereira
-
-###DEC-002845-0-000-19-11-1998@@@RET01+++
 
 RETIFICAÇÃO
 

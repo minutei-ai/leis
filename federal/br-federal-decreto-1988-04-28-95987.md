@@ -1,5 +1,3 @@
-###DEC-095987-0-000-28-04-1988@@@
-
 DECRETO N° 95.987, DE 28 DE ABRIL DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

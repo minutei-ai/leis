@@ -1,5 +1,3 @@
-###DEL-004373-0-000-11-06-1942@@@
-
 DECRETO-LEI N. 4.373 – DE 11 DE JUNHO DE 1942
 
 Dispõe sobre questões de trabalho dos empregados dos serviços da União, das empresas por ela administradas e das que, de sua propriedade, são administradas pelos Estados.

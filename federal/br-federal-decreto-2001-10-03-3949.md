@@ -1,5 +1,3 @@
-###DEC-003949-0-000-03-10-2001@@@
-
 DECRETO Nº 3.949, DE 3 DE OUTUBRO DE 2001
 
 Regulamenta a Lei nº 10.168, de 29 de dezembro de 2000, que institui contribuição de intervenção no domínio econômico destinada a financiar o Programa de Estímulo à Interação Universidade-Empresa para o Apoio à Inovação.

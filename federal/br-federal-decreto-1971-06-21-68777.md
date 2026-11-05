@@ -1,5 +1,3 @@
-###DEC-068777-0-000-21-06-1971@@@
-
 Decreto nº 68.777 - de 21 de junho de 1971.
 
 Autorização para funcionamento da Escola Superior de Educação Física de Presidente Prudente - Autarquia Municipal, com sede em Presidente Prudente, S.P.

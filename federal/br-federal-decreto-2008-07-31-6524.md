@@ -1,5 +1,3 @@
-###DEC-006524-0-000-31-07-2008@@@
-
 DECRETO Nº 6.524, DE 31 DE JULHO DE 2008.
 
 Dá nova redação a dispositivos do Regulamento da Reserva da Marinha, aprovado pelo Decreto no 4.780, de 15 de julho de 2003.

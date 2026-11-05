@@ -1,5 +1,3 @@
-###DEC-048902-0-000-27-08-1960@@@
-
 DECRETO Nº 48.902, DE 27 DE AGÔSTO DE 1960.
 
 Institui a Campanha Nacional do Livro.

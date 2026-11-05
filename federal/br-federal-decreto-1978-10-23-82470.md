@@ -1,5 +1,3 @@
-###DEC-082470-0-000-23-10-1978@@@
-
 DECRETO Nº 82 470, DE 23 DE OUTUBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Manaus, Estado do Amazonas.

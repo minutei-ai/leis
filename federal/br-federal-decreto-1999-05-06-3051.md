@@ -1,5 +1,3 @@
-###DEC-003051-0-000-06-05-1999@@@
-
 DECRETO Nº 3.051, DE 6 DE MAIO DE 1999.
 
 Prorroga o prazo de vigência das alíquotas do Imposto sobre Produtos Industrializados (IPI) fixadas pelo Decreto nº 2.980, de 3 de março de 1999.

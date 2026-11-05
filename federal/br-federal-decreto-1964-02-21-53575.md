@@ -1,5 +1,3 @@
-###DEC-053575-0-000-21-02-1964@@@
-
 decreto nº 53.575, de 21 de fevereiro de 1964.
 
 Complementa o Decreto nº 24.113, de 12 de abril de 1934, e dá outras providências.

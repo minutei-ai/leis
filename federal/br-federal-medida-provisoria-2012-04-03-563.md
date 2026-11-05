@@ -1,5 +1,3 @@
-###MPV-000563-0-000-03-04-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N° 563, DE 3 DE ABRIL DE 2012
 
 Altera a alíquota das contribuições previdenciárias sobre a folha de salários devidas pelas empresas que especifica, institui o Programa de Incentivo à Inovação Tecnológica e Adensamento da Cadeia Produtiva de Veículos Automotores, o Regime Especial de Tributação do Programa Nacional de Banda Larga para Implantação de Redes de Telecomunicações, o Regime Especial de Incentivo a Computadores para Uso Educacional, o Programa Nacional de Apoio à Atenção Oncológica, o Programa Nacional de Apoio à Atenção da Saúde da Pessoa com Deficiência, restabelece o Programa Um Computador por Aluno, altera o Programa de Apoio ao Desenvolvimento Tecnológico da Indústria de Semicondutores, instituído pela Lei nº 11.484, de 31 de maio de 2007, e dá outras providências.

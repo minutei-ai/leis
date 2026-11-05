@@ -1,5 +1,3 @@
-###DEC-078006-0-000-08-07-1976@@@
-
 DECRETO Nº 78.006, DE 8 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Comunicação Social do Centro de Ciências Jurídicas, Econômicas e Administrativas da Universidade Federal de Santa Maria, com sede na cidade de Santa Maria, Estado do Rio Grande do Sul.

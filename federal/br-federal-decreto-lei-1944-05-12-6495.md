@@ -1,5 +1,3 @@
-###DEL-006495-0-000-12-05-1944@@@
-
 DECRETO-LEI N. 6.495 – DE 12 DE MAIO DE 1944
 
 Dá denominação a Aprendizados Agrícolas do Ministério da Agricultura

@@ -1,7 +1,3 @@
-1
-
-###MPV-001369-0-000-28-03-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.369, de 28 de MARÇO DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

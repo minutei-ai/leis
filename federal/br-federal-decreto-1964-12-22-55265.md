@@ -1,5 +1,3 @@
-###DEC-055265-0-000-22-12-1964@@@
-
 DECRETO Nº 55.265, DE 22 DE DEZEMBRO DE 1964.
 
 Autoriza Metais de Goiás S. A. - METAGO - a pesquisar minério de manganês, no município de Xambioá, Estado de Goiás.

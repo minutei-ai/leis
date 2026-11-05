@@ -1,5 +1,3 @@
-###DEC-004555-0-000-30-12-2002@@@
-
 DECRETO Nº 4.555, DE 30 DE DEZEMBRO DE 2002.
 
        Prorroga o prazo de remanejamento dos cargos em comissão que menciona.
@@ -14,5 +12,6 @@ DECRETO Nº 4.555, DE 30 DE DEZEMBRO DE 2002.
 
         Brasília, 27 de dezembro de 2002; 181o da Independência e 114o da República.
 
-FERNANDO HENRIQUE CARDOSO<br>
+FERNANDO HENRIQUE CARDOSO
+
 Pedro Parente

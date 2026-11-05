@@ -1,5 +1,3 @@
-###DEC-062298-0-000-22-02-1968@@@
-
 Decreto Nº 62.298, de 22 de fevereiro de 1968.
 
 Outorga à Companhia Industrial Ouropretana, concessão para o aproveitamento hidráulico de um trecho do rio Piranga, no distrito e município de Ponte Nova, Estado de Minas Gerais.

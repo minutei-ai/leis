@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208879)<br>
-
 # DECRETO N° 68.141, DE 04 DE DEZEMBRO DE 2023
 
 ### _Altera dispositivo do Decreto n° 68.131, de 30 de novembro de 2023, que dispõe sobre abertura de crédito suplementar ao Orçamento Fiscal na Companhia Paulista de Trens Metropolitanos-CPTM, visando ao atendimento de Despesas Correntes e de Capital._

@@ -1,5 +1,3 @@
-###DEC-046361-0-000-07-07-1959@@@
-
 DECRETO Nº 46.361, DE 7 DE JULHO DE 1959.
 
 Constitui Grupo de Trabalho com a finalidade de planejar e executar as medidas necessárias ao abastecimento da Capital do Estado de Sergipe, bem como assistência social à população rural do município de Aracajú, com o aproveitamento das fazendas Itacanema e Taboca.

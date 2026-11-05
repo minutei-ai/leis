@@ -1,5 +1,3 @@
-###DEC-066833-0-000-03-07-1970@@@
-
 DECRETO Nº 66.833, DE 3 DE JUlHO DE 1970.
 
 Declara de utilidade pública a Ação Social Paroquial da Matriz do Coração Eucarístico de Jesus, com sede em Caratinga, Estado de Minas Gerais.

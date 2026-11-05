@@ -1,5 +1,3 @@
-###DEC-092362-0-000-04-02-1986@@@
-
 DECRETO Nº 92.362, DE 04 DE FEVEREIRO DE 1986
 
 Altera a redação do artigo 4º, caput, do Decreto nº 91.439, de 16 de julho de 1985.

@@ -1,5 +1,3 @@
-###MPV-001987-0-028-10-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.987-28, DE 10 de março de 2000.
 
 Dispõe sobre a regulação, fiscalização e supervisão dos mercados de títulos ou contratos de investimento coletivo, e dá outras providências.

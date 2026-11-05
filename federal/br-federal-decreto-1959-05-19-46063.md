@@ -1,5 +1,3 @@
-###DEC-046063-0-000-19-05-1959@@@
-
 DECRETO Nº 46.063, DE 19 DE MAIO DE 1959.
 
 Altera a redação do art. 13 do Regulamento para a Base Naval de Salvador, aprovado pelo Decreto numero 45.191, de 31 de dezembro de 1958.

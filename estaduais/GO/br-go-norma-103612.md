@@ -1,8 +1,15 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020 .
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.754 / 2020
 
 ![](/assets/brasao_goias.gif)
 
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
 **DECRETO Nº 9.754, DE 30 DE NOVEMBRO DE 2020.**
@@ -41,6 +48,4 @@ Goiânia, 30 de novembro de 2020; 132º da República.
 
 RONALDO CAIADO
 
-Governador do Estado  
-
-_Este texto não substitui o publicado no Suplemento do D.O. de 30-11-2020 ._
+Governador do Estado

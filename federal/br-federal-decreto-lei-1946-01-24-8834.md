@@ -1,5 +1,3 @@
-###DEL-008834-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.834 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre o pagamento dos proventos da aposentadoria de Nicolino Milano.

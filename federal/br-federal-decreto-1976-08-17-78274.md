@@ -1,5 +1,3 @@
-###DEC-078274-0-000-17-08-1976@@@
-
 DECRETO Nº 78.274, DE 17 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento do curso de Ciências, da Faculdade de Educação, Ciências e Letras Princesa Isabel, com sede na cidade de São Paulo, Estado de São Paulo.

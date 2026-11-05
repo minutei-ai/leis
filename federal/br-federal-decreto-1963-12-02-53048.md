@@ -1,5 +1,3 @@
-###DEC-053048-0-000-02-12-1963@@@
-
 DECRETO Nº 53.048, DE 2 DE DEZEMBRO DE 1963.
 
 Exclui do Plano de Contenção de Despesas a verba que se especifica.

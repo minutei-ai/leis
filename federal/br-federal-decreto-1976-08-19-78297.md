@@ -1,5 +1,3 @@
-###DEC-078297-0-000-19-08-1976@@@
-
 Decreto nº 78.297, de 19 de agosto de 1976.
 
 Autoriza o funcionamento do curso de Ciências, com as habilitações em Matemática e em Biologia, da Faculdade de Ciências, das Faculdades Integradas Celso Lisboa, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

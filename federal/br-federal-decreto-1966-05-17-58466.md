@@ -1,5 +1,3 @@
-###DEC-058466-0-000-17-05-1966@@@
-
 DECRETO Nº 58.466, DE 17 DE MAIO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 39.077, de 25 de abril de 1956, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público “CURIMATÂ”, no Município de Cabeceira, Estado da Paraíba.

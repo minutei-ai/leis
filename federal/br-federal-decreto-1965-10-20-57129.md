@@ -1,5 +1,3 @@
-###DEC-057129-0-000-20-10-1965@@@
-
 DECRETO Nº 57.129, DE 20 DE OUTUBRO DE 1965.
 
 Autoriza o Ministro da Viação e Obras Públicas a constituir um grupo de trabalho para os fins que especifica.

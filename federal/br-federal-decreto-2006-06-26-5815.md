@@ -1,5 +1,3 @@
-###DEC-005815-0-000-26-06-2006@@@
-
 DECRETO Nº 5.815, DE 26 DE JUNHO DE 2006.
 
 Promulga o Acordo de Cooperação Mútua entre o Governo da República Federativa do Brasil e o Governo da República da Colômbia para o Combate ao Tráfego de Aeronaves Envolvidas com Atividades Ilícitas Transnacionais, celebrado em Cartagena de Índias, em 7 de novembro de 1997.
@@ -24,11 +22,7 @@ Promulga o Acordo de Cooperação Mútua entre o Governo da República Federativ
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Samuel Pinheiro Guimaraes Neto
-
-Este texto não substitui o publicado no D.O.U. de 27.6.2006.
-
-ACORDO DE COOPERAÇÃO MÚTUA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA COLÔMBIA PARA O COMBATE AO TRÁFEGO DE AERONAVES ENVOLVIDAS COM ATIVIDADES ILÍCITAS TRANSNACIONAIS
+         Samuel Pinheiro Guimaraes NetoACORDO DE COOPERAÇÃO MÚTUA ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DA COLÔMBIA PARA O COMBATE AO TRÁFEGO DE AERONAVES ENVOLVIDAS COM ATIVIDADES ILÍCITAS TRANSNACIONAIS
 
                                 O Governo da República Federativa do Brasil
 

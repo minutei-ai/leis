@@ -1,5 +1,3 @@
-###DEL-001152-0-000-24-02-1971@@@
-
 # DECRETO-LEI Nº 1.152, DE 24 DE FEVEREIRO DE 1971
 
 Reajusta os vencimentos dos servidores civis e militares do Distrito Federal e dá outras providências.

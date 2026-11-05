@@ -1,5 +1,3 @@
-###DEC-094248-0-000-22-04-1987@@@
-
 DECRETO Nº 94.248, DE 22 DE ABRIL DE 1987
 
 Outorga concessão à RÁDIO TAPUIO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Miguel Alves, Estado do Piauí.

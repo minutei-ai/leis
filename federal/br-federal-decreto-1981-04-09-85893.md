@@ -1,5 +1,3 @@
-###DEC-085893-0-000-09-04-1981@@@
-
 Decreto nº 85.893, de 09 de abril de 1981.
 
 Altera a denominação de órgãos nacionais ligados à Associação Latino-Americana de Livre Comércio (ALALC), sucedida pela Associação Latino-Americana de lntegração (ALADI).

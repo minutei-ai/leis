@@ -1,5 +1,3 @@
-###DEC-005260-0-000-28-10-2004@@@
-
 DECRETO Nº 5.260 DE 28 DE OUTUBRO DE 2004
 
 Altera o Estatuto Social da RADIOBRÁS - Empresa Brasileira de Comunicação S.A.

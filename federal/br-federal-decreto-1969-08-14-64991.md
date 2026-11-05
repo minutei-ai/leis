@@ -1,5 +1,3 @@
-###DEC-064991-0-000-14-08-1969@@@
-
 DECRETO Nº 64.991 - DE 14 DE AGÔSTO DE 1969.
 
 Extingue cargos no Instituto Brasileiro do Café.
@@ -10,7 +8,47 @@ Decreta:
 
 Art. 1º Ficam extintos no Instituto Brasileiro do Café os seguintes cargos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 Armazenista..................................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código AF-102</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 10-B</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 Oficial de Administração................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código AF-201</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 16-C</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 Escriturário....................................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código AF-202</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 10-B</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 Auxíliar de Portaria........................................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código GL-303</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 7-A</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 Técnico de Contabilidade..............................................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código P-701</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 13-A</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5 Fiscal de Comercialização de Café...............................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código P-1509</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 14-B</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17 Fiscal de Comercialização de Café.............................................</span></p></td><td style="width:70.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Código P-1509</span></p></td><td style="width:52.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nível 12-A</span></p></td></tr></tbody></table>
+1 Armazenista..................................................................................
+
+Código AF-102
+
+Nível 10-B
+
+1 Oficial de Administração................................................................
+
+Código AF-201
+
+Nível 16-C
+
+1 Escriturário....................................................................................
+
+Código AF-202
+
+Nível 10-B
+
+1 Auxíliar de Portaria........................................................................
+
+Código GL-303
+
+Nível 7-A
+
+1 Técnico de Contabilidade..............................................................
+
+Código P-701
+
+Nível 13-A
+
+5 Fiscal de Comercialização de Café...............................................
+
+Código P-1509
+
+Nível 14-B
+
+17 Fiscal de Comercialização de Café.............................................
+
+Código P-1509
+
+Nível 12-A
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação.
 

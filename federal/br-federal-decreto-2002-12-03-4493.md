@@ -1,5 +1,3 @@
-###DEC-004493-0-000-03-12-2002@@@
-
 DECRETO Nº 4.493, DE 3 DE DEZEMBRO DE 2002
 
 Dá nova redação aos arts. 1º e 11 do Decreto nº 4.050, de 12 de dezembro de 2001, regulamento do art. 93 da Lei nº 8.112, de 11 de dezembro de 1990, que dispõe sobre a cessão de servidores de órgãos e entidades da Administração Pública federal direta, autárquica e fundacional, e dá outras providências.

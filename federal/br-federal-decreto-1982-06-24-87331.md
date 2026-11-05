@@ -1,5 +1,3 @@
-###DEC-087331-0-000-24-06-1982@@@
-
 Decreto nº 87.331, de 24 de junho de 1982
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linha de transmissão da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

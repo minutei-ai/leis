@@ -1,7 +1,3 @@
-1
-
-###DEC-098766-0-000-28-12-1989@@@
-
 DECRETO Nº 98.766, DE 28 DE DEZEMBRO DE 1989
 
 Abre ao Orçamento Fiscal da União, em favor de Serviços da Divida da União - Recursos sob Supervisão do Ministério da Fazenda e do Ministério da Agricultura, e do Ministério da Agricultura, o crédito suplementar de NCz$ 227.746.748,00, para reforço de dotações consignadas no vigente Orçamento.

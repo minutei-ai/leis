@@ -1,5 +1,3 @@
-###DEC-064711-0-000-18-06-1969@@@
-
 DECREtO Nº 64.711, DE 18 DE JUNHO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial da Superintendência Nacional da Marinha Mercante, cargos originários dos extintos - Companhia Nacional de Navegação Costeira - Autarquia Federal, Lloyd Brasileiro - Patrimônio Nacional e Serviços de Navegação da Amazônia e Administração do Pôrto do Pará e dá outras providências.

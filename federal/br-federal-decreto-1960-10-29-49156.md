@@ -1,5 +1,3 @@
-###DEC-049156-0-000-29-10-1960@@@
-
 DECRETO Nº 49.156, de 29 de outubro de 1960.
 
 Cria cargos e funções gratificadas no Quadro de Pessoal do Instituto de Aposentadoria e Pensões dos Empregados em Transportes e Cargos e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-006684-0-000-09-12-2008@@@
-
 DECRETO Nº 6.684, DE 9 DE DEZEMBRO DE 2008.
 
 Fixa, para o ano-calendário de 2008, o valor máximo das deduções do imposto sobre a renda devido, a título de patrocínio ou doação, no apoio direto a projetos desportivos e paradesportivos.

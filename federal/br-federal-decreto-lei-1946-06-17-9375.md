@@ -1,5 +1,3 @@
-###DEL-009375-0-000-17-06-1946@@@
-
 DECRETO-LEI N. 9.375 – DE 17 DE JUNHO DE 1946
 
 Aceita a doação, feita à União, de terreno situado na Vila e Distrito de Paulópolis, Município e Comarca de Pompéia, Estado de São Paulo.

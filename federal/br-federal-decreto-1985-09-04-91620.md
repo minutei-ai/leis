@@ -1,5 +1,3 @@
-###DEC-091620-0-000-04-09-1985@@@
-
 Decreto nº 91.620, de O4 de setembro de 1985
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Parolin", compreendido na referida área, no município de Itaiópolis, no Estado de Santa Catarina, e dá outras providências.

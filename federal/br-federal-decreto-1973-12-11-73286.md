@@ -1,5 +1,3 @@
-###DEC-073286-0-000-11-12-1973@@@
-
 DECRETO Nº 73.286 - DE 11 DE DEZEMBRO DE 1973
 
 Aprova o Regulamento da Diretoria de Armamento e Munição, do Departamento de Material Bélico do Ministério do Exército, e dá outras providências.

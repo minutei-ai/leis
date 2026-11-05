@@ -1,5 +1,3 @@
-###DEC-049618-0-000-29-12-1960@@@
-
 DECRETO Nº 49.618, DE 29 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Saúde o crédito especial de Cr$30.000.000,00, destinados à Associação Paulista de Combate ao Câncer, para o Instituto Central de Câncer, em São Paulo.

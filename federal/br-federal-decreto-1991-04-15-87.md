@@ -1,5 +1,3 @@
-###DEC-000087-0-000-15-04-1991@@@
-
 DECRETO N° 87, DE 15 DE ABRIL DE 1991.
 
 Simplifica as exigências sanitárias para ingresso e permanência de estrangeiros no País, altera o Decreto n° 86.715, de 10 de dezembro de 1981, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003955-0-000-18-12-1941@@@
-
 DECRETO-LEI N. 3.955 – DE 18 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Justiça e Negócios Interiores, o crédito especial de 500:000$0, para despesas da Colônia Agrícola de Fernando de Noronha.

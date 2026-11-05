@@ -1,5 +1,3 @@
-###DEC-046765-0-000-02-09-1959@@@
-
 decreto nº 46.765, de 2 de setembro de 1959.
 
 Concede à sociedade anônima Retificações de Milho, Brazil, autorização para continuar a funcionar na República.

@@ -1,5 +1,3 @@
-###DEC-047826-0-000-04-03-1960@@@
-
 DECRETO Nº 47.826, DE 4 DE MARÇO DE 1960.
 
 Revoga o Decreto nº 970, de 15 de julho de 1936.

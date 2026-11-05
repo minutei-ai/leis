@@ -1,5 +1,3 @@
-###DEC-002549-0-000-15-04-1998@@@
-
 DECRETO Nº 2.549, DE 15 DE ABRIL DE 1998
 
 Promulga o Ajuste Complementar ao Acordo Básico de Cooperação Científica, Técnica e Tecnológica, em Matéria de Sanidade Agropecuária, celebrado entre o Governo da República Federativa do Brasil e o Governo da República do Chile, em Brasília, em 25 de março de 1996.

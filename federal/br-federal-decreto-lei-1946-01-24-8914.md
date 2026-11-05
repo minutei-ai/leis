@@ -1,5 +1,3 @@
-###DEL-008914-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.914 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre as carreiras de Escriturário e Escrevente do  Ministério da Guerra e abre crédito suplementar ao mesmo Ministério.

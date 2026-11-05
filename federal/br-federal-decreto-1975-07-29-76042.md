@@ -1,5 +1,3 @@
-###DEC-076042-0-000-29-07-1975@@@
-
 DECRETO Nº 76.042 - DE 29 DE JULHO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado em Terezina, Estado do Piauí.

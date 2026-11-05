@@ -1,5 +1,3 @@
-###DEC-082295-0-000-19-09-1978@@@
-
 DECRETO Nº 82.295, DE 19 DE SETEMBRO DE 1978.
 
 Autoriza o registro, em nome da União Federal, dos imóveis que menciona, situados no Estado do Amazonas.

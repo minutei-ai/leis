@@ -1,5 +1,3 @@
-###DEC-056750-0-000-18-08-1965@@@
-
 DECRETO Nº 56.750, DE 18 DE AGÔSTO DE 1965.
 
 Concede à Pedreira Pena Branca Limitada autorização para funcionar como emprêsa de mineração.

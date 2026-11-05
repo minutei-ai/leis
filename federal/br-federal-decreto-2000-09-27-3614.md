@@ -1,5 +1,3 @@
-###DEC-003614-0-000-27-09-2000@@@
-
 DECRETO Nº 3.614, DE 27 DE SETEMBRO DE 2000.
 
 Dá nova redação ao § 7º do art. 5º do Decreto nº 3.431, de 24 de abril de 2000, que regulamenta a execução do Programa de Recuperação Fiscal REFIS.

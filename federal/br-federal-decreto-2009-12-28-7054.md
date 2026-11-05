@@ -1,5 +1,3 @@
-###DEC-007054-0-000-28-12-2009@@@
-
 DECRETO Nº 7.054 DE 28 DE DEZEMBRO DE 2009.
 
 Altera o § 1o do art. 11 do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999.

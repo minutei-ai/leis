@@ -1,5 +1,3 @@
-###DEC-006560-0-000-08-09-2008@@@
-
 DECRETO Nº 6.560, DE 8 DE SETEMBRO DE 2008.
 
 Promulga o Protocolo Complementar ao Acordo Quadro entre o Governo da República Federativa do Brasil e o Governo da República Popular da China sobre Cooperação em Aplicações Pacíficas de Ciência e Tecnologia do Espaço Exterior para a Continuidade do Desenvolvimento Conjunto de Satélites de Recursos Terrestres, celebrado em Brasília, em 27 de novembro de 2002.
@@ -402,7 +400,73 @@ Para que seja possível diminuir o cronograma e os custos de desenvolvimento o c
 
 Os requisitos radiométricos são os descritos abaixo:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda Espectral</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">( </span><span style="font-family:'Wingdings 2'">£</span><span style="font-family:Arial">m)</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B01</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.51-0.75;0.51-0.85 (TBC)</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B02</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.52-0.59</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B03</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.63-0.69</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B04</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.77-0.89</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B05</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.45-0.52;1.55-1.75 (TBC)</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B06</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.52-0.59</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B07</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.63-0.69</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B08</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.77-0.89</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B09</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.76-0.90;0.76-1.10(TBC)</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B10</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.55-1.75</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B11</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.08-2.35</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B12</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10.4-12.5</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B13</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.52-0.59</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B14</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.63-0.69</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B15</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.77-0.89</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B16</span></p></td><td style="width:161.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.55-1.75</span></p></td></tr></tbody></table>
+Banda
+
+Banda Espectral  ( £m)
+
+B01
+
+0.51-0.75;0.51-0.85 (TBC)
+
+B02
+
+0.52-0.59
+
+B03
+
+0.63-0.69
+
+B04
+
+0.77-0.89
+
+B05
+
+0.45-0.52;1.55-1.75 (TBC)
+
+B06
+
+0.52-0.59
+
+B07
+
+0.63-0.69
+
+B08
+
+0.77-0.89
+
+B09
+
+0.76-0.90;0.76-1.10(TBC)
+
+B10
+
+1.55-1.75
+
+B11
+
+2.08-2.35
+
+B12
+
+10.4-12.5
+
+B13
+
+0.52-0.59
+
+B14
+
+0.63-0.69
+
+B15
+
+0.77-0.89
+
+B16
+
+1.55-1.75
 
  A Resolução Radiométrica, Radiação Máxima (mW/cm2sr), Radiação Mínima (mW/cm2sr), S/N a Radiação Máxima, S/N a Radiação Mínima e o MTF são TBD.
 
@@ -410,7 +474,141 @@ Os requisitos radiométricos são os descritos abaixo:
 
 Os requisitos geométricos são os seguintes:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resolução(m)</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Largura de Varredura no Solo (km)</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Apontamento Lateral (Graus)</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">01</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">02</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">03</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">04</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">05</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32/Não(TBC)</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">06</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32/Não (TBC)</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">07</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32/Não (TBC)</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">08</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">32/Não (TBC)</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">09</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">12</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">80</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">866</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">14</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">866</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">866</span></p></td><td style="width:113.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr><tr><td style="width:63.55pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16</span></p></td><td style="width:97.22pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73</span></p></td><td style="width:107.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">866</span></p></td><td style="width:113.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Não</span></p></td></tr></tbody></table>
+Banda
+
+Resolução(m)
+
+Largura de Varredura no Solo (km)
+
+Apontamento Lateral (Graus)
+
+01
+
+5
+
+60
+
+32
+
+02
+
+10
+
+60
+
+32
+
+03
+
+10
+
+60
+
+32
+
+04
+
+10
+
+60
+
+32
+
+05
+
+20
+
+120
+
+32/Não(TBC)
+
+06
+
+20
+
+120
+
+32/Não (TBC)
+
+07
+
+20
+
+120
+
+32/Não (TBC)
+
+08
+
+20
+
+120
+
+32/Não (TBC)
+
+09
+
+40
+
+120
+
+Não
+
+10
+
+40
+
+120
+
+Não
+
+11
+
+40
+
+120
+
+Não
+
+12
+
+80
+
+120
+
+Não
+
+13
+
+73
+
+866
+
+Não
+
+14
+
+73
+
+866
+
+Não
+
+15
+
+73
+
+866
+
+Não
+
+16
+
+73
+
+866
+
+Não
 
       2.2.3. Registro
 
@@ -538,7 +736,35 @@ São oito as cargas úteis dos satélites:
 
 A câmara PanMux  obedece aos requisitos das bandas 01, 02, 03 e 04 mostrados na seção 2.2.1. As características de desempenho são :
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda espectral (</span><span style="font-family:Symbol"> </span><span style="font-family:'Wingdings 2'">£</span><span style="font-family:Symbol"> </span><span style="font-family:Arial">m)</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B01 0.51-0.85;0.51-0.75 (TBC)</span></p></td></tr><tr><td style="width:179.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B02</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">0.52-0.59</span></p></td></tr><tr><td style="width:179.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B03</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">0.63-0.69</span></p></td></tr><tr><td style="width:179.25pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:'Times New Roman'; -aw-import:ignore">&nbsp;</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B04</span><span style="font-family:Arial; -aw-import:spaces">&nbsp;&nbsp; </span><span style="font-family:Arial">0.77-0.89</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Largura da faixa imageada (km)</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resolução Espacial (m)</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5(B01)/10(B02,B03,B04)</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Visada lateral de espelho (graus)</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">+ 32</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Taxa bruta de dados(Mbit/s)</span></p></td><td style="width:161.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">140(B01)/100(B02,B03,B04)</span></p></td></tr><tr><td style="width:179.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MTF</span></p></td><td style="width:161.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td></tr></tbody></table>
+Banda espectral ( £ m)
+
+B01 0.51-0.85;0.51-0.75 (TBC)
+
+B02   0.52-0.59
+
+B03   0.63-0.69
+
+B04   0.77-0.89
+
+Largura da faixa imageada (km)
+
+60
+
+Resolução Espacial (m)
+
+5(B01)/10(B02,B03,B04)
+
+Visada lateral de espelho (graus)
+
++ 32
+
+Taxa bruta de dados(Mbit/s)
+
+140(B01)/100(B02,B03,B04)
+
+MTF
+
+TBD
 
    3.2.3.2. Câmara Multi-espectral (MUXCAM)
 
@@ -546,23 +772,173 @@ A Câmara Multi-espectral deve obedecer aos requisitos das bandas 05, 06, 07 e 0
 
 As características de desempenho são:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:197.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda espectral (</span><span style="font-family:Symbol; -aw-import:spaces">&nbsp; </span><span style="font-family:'Wingdings 2'">£</span><span style="font-family:Symbol"> </span><span style="font-family:Arial">m)</span></p></td><td style="width:143.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B05 0.45-0.52;1.55-1.75(TBC)</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B06</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">0.52 - 0.59</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B07</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">0.63 - 0.69</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B08</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">0.77 - 0.89</span></p></td></tr><tr><td style="width:197.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Largura da faixa imageada</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">(km)</span></p></td><td style="width:143.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td></tr><tr><td style="width:197.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resolução Espacial (m)</span></p></td><td style="width:143.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td></tr><tr><td style="width:197.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Visada lateral do espelho (graus)</span></p></td><td style="width:143.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">+ 32/Não (TBC)</span></p></td></tr><tr><td style="width:197.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Taxa bruta de dados (Mbit/s)</span></p></td><td style="width:143.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68</span></p></td></tr><tr><td style="width:197.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MTF</span></p></td><td style="width:143.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td></tr></tbody></table>
+Banda espectral (  £ m)
+
+B05 0.45-0.52;1.55-1.75(TBC) B06  0.52 - 0.59 B07  0.63 - 0.69 B08  0.77 - 0.89
+
+Largura da faixa imageada  (km)
+
+120
+
+Resolução Espacial (m)
+
+20
+
+Visada lateral do espelho (graus)
+
++ 32/Não (TBC)
+
+Taxa bruta de dados (Mbit/s)
+
+68
+
+MTF
+
+TBD
 
    3.2.3.3. Câmara Imageadora Infra Vermelho (IRMSS)
 
 A Câmara Imageadora Infra Vermelho deverá obedecer aos requisitos das bandas 09, 10, 11 e 12 mostrados na seção 2.2.1. Esta câmara será uma atualização da Câmara IRMSS do CBERS 1&2.As características de desempenho são:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda espectral (</span><span style="font-family:'Wingdings 2'">£</span><span style="font-family:Arial"> m)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B09 0.76-0,90; 0.76-1.10</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">(TBC)</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B10</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1.55 - 1.75</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B11</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">2.08 - 2.35</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B12</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">10.4 - 12.5</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Largura da faixa imageada</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">(km)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resolução Espacial (m)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40; 80 (Banda térmica)</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Taxa bruta de dados (Mbit/s)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MTF</span></p></td><td style="width:137.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td></tr></tbody></table>
+Banda espectral (£ m)
+
+B09 0.76-0,90; 0.76-1.10  (TBC) B10  1.55 - 1.75 B11  2.08 - 2.35 B12  10.4 - 12.5
+
+Largura da faixa imageada  (km)
+
+120
+
+Resolução Espacial (m)
+
+40; 80 (Banda térmica)
+
+Taxa bruta de dados (Mbit/s)
+
+16
+
+MTF
+
+TBD
 
    3.2.3.4. Camara de Imageamento de Campo Largo (WFI) 
 
 A Camara de Imageamento de Campo Largo deverá obedecer aos requisitos das bandas 13, 14, 15 e 16 mostrados na seção 2.2.1. Esta câmara será  uma atualização da WFI do CBERS 1&2. As características de desempenho são:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda espectral (</span><span style="font-family:'Wingdings 2'">£</span><span style="font-family:Arial"> m)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B13</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">0.52 - 0.59</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B14</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">0.63 - 0.69</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B15</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">0.77 - 0.89</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">B16</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">1.55 - 1.75</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Largura da faixa imageada</span><span style="font-family:Arial; -aw-import:spaces">&nbsp; </span><span style="font-family:Arial">(km)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">866</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resolução Espacial (m)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Taxa bruta de dados (Mbit/s)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MTF</span></p></td><td style="width:137.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td></tr></tbody></table>
+Banda espectral (£ m)
+
+B13  0.52 - 0.59 B14  0.63 - 0.69 B15  0.77 - 0.89 B16  1.55 - 1.75
+
+Largura da faixa imageada  (km)
+
+866
+
+Resolução Espacial (m)
+
+73
+
+Taxa bruta de dados (Mbit/s)
+
+50
+
+MTF
+
+TBD
 
  A seguir encontra-se um sumário das característica das câmaras do CBERS 3&4:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:126.55pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MUXCAM</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">PANMUX</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IRMSS</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">WFI</span></p></td></tr><tr><td style="width:126.18pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Banda espectral ( ?m)</span></p></td><td style="width:79.05pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.45-0.52;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">1.55-1.75(TBC)</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.52 - 0.59 G</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.63 - 0.69 R</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.77 - 0.89 NIR</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.51-0.75 ;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.51-0.85 (TBC)</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.52 - 0.59 G</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.63 - 0.69 R</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.77 - 0.89 NIR</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.76-0.90;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.76-1.10C</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">1.55 - 1.75 MIR</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">2.08 - 2.35 SWIR</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">10.40 - 12.50 TH</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">0.52 - 0.59 G</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.63 - 0.69 R</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">0.77 - 0.89 NIR</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">1.55 - 1.75 MIR</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resolução (m)</span></p></td><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5/10</span></p></td><td style="width:66.68pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">40 / 80 (TH)</span></p></td><td style="width:71.62pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">73</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Largura da faixa Imageada (km)</span></p></td><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:77.78pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">60</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">120</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">866</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Apontamento(graus)</span></p></td><td style="width:79.05pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">+ /- 32/Não (TBC)</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">+ /- 32</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">não</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">não</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Revisita (dias)</span></p></td><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3(TBC)</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Revisita real (dias)</span></p></td><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">não</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span></p></td></tr><tr><td style="width:126.18pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MTF</span></p></td><td style="width:79.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td><td style="width:77.78pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td><td style="width:66.68pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td><td style="width:71.62pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">TBD</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Quantização (bits)</span></p></td><td style="width:79.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10</span></p></td></tr><tr><td style="width:126.18pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Taxa de Dados Bruta (Mbits/s)</span></p></td><td style="width:79.05pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">68</span></p></td><td style="width:77.78pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">140/100</span></p></td><td style="width:66.68pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">16</span></p></td><td style="width:71.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50</span></p></td></tr></tbody></table>
+MUXCAM
+
+PANMUX
+
+IRMSS
+
+WFI
+
+Banda espectral ( ?m)
+
+0.45-0.52; 1.55-1.75(TBC) 0.52 - 0.59 G 0.63 - 0.69 R 0.77 - 0.89 NIR
+
+0.51-0.75 ; 0.51-0.85 (TBC) 0.52 - 0.59 G 0.63 - 0.69 R 0.77 - 0.89 NIR
+
+0.76-0.90; 0.76-1.10C 1.55 - 1.75 MIR 2.08 - 2.35 SWIR 10.40 - 12.50 TH
+
+0.52 - 0.59 G 0.63 - 0.69 R 0.77 - 0.89 NIR 1.55 - 1.75 MIR
+
+Resolução (m)
+
+20
+
+5/10
+
+40 / 80 (TH)
+
+73
+
+Largura da faixa Imageada (km)
+
+120
+
+60
+
+120
+
+866
+
+Apontamento(graus)
+
++ /- 32/Não (TBC)
+
++ /- 32
+
+não
+
+não
+
+Revisita (dias)
+
+3(TBC)
+
+5
+
+Revisita real (dias)
+
+26
+
+não
+
+26
+
+5
+
+MTF
+
+TBD
+
+TBD
+
+TBD
+
+TBD
+
+Quantização (bits)
+
+8
+
+8
+
+8
+
+10
+
+Taxa de Dados Bruta (Mbits/s)
+
+68
+
+140/100
+
+16
+
+50
 
   3.2.3.5. Subsistemas de Transmissão de Dados de Imagens (DT)
 
@@ -628,7 +1004,21 @@ O PSS deve gerar potência elétrica nas várias tensões exigidas assegurando q
 
 O PSS consiste de painéis solares, regulador, regulador de descarga de baterias, conversores DC/DC e baterias. As principais características de desempenho são:
 
-<table cellspacing="0" cellpadding="0" style="border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Potência do painel solar (EOL)</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1500 W min</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tensão do Barramento</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28+/-0.6V</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Eficiência do conversor DC/DC</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">Regulagem de Voltagem</span></p></td><td style="width:137.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&gt;73%</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">1% pp</span></p></td></tr><tr><td style="width:203.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Bateria</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">Capacidade</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">Profundidade de descarga</span></p></td><td style="width:137.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:spaces">&nbsp;</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">&gt;60 Ah</span><span style="font-family:'Times New Roman'"> </span><span style="font-family:Arial">20%</span></p></td></tr></tbody></table>
+Potência do painel solar (EOL)
+
+1500 W min
+
+Tensão do Barramento
+
+28+/-0.6V
+
+Eficiência do conversor DC/DC Regulagem de Voltagem
+
+&gt;73% 1% pp
+
+Bateria Capacidade Profundidade de descarga
+
+&gt;60 Ah 20%
 
  3.2.4.6. Supervisão de Bordo (OBDH)
 
@@ -1304,11 +1694,123 @@ As despesas do satélite para seu gerenciamento operacional em órbita e seguros
 
 7.1.  Divisão de Custos para o desenvolvimento dos dois satélites
 
-<table cellspacing="0" cellpadding="0" style="margin-left:5.98pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:101.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Fase</span></p></td><td style="width:73.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Período</span></p></td><td style="width:84.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Proporção</span></p></td><td style="width:107.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Custo (M USD)</span></p></td></tr><tr><td style="width:101.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">A: Concepção da Missão</span></p></td><td style="width:73.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1 mês</span></p></td><td style="width:84.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1%</span></p></td><td style="width:107.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.50</span></p></td></tr><tr><td style="width:101.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">B: Definição do Projeto</span></p></td><td style="width:73.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4 mês</span></p></td><td style="width:84.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2.0%</span></p></td><td style="width:107.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3.00</span></p></td></tr><tr><td style="width:101.25pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">C/D: Desenvolvimento do Projeto e Produção</span></p></td><td style="width:73.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">77 mês</span></p></td><td style="width:84.82pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">97%</span></p></td><td style="width:107.62pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">145.50</span></p></td></tr><tr><td style="width:101.25pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total</span></p></td><td style="width:73.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">82 mês</span></p></td><td style="width:84.82pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">100%</span></p></td><td style="width:107.62pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150.00</span></p></td></tr></tbody></table>
+Fase
+
+Período
+
+Proporção
+
+Custo (M USD)
+
+A: Concepção da Missão
+
+1 mês
+
+1%
+
+1.50
+
+B: Definição do Projeto
+
+4 mês
+
+2.0%
+
+3.00
+
+C/D: Desenvolvimento do Projeto e Produção
+
+77 mês
+
+97%
+
+145.50
+
+Total
+
+82 mês
+
+100%
+
+150.00
 
  7.2. Distribuição Orçamentária Anual para o Desenvolvimento e Lançamento dos dois Satélites 
 
-<table cellspacing="0" cellpadding="0" style="margin-left:6pt; border:1.5pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ano</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Satélites (1MUSD)</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Lançamento (1MUSD)</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.0</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">&nbsp;</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.0</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">3</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">22.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.0</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.0</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">4</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6.4</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">34.4</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">5</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">28.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8.0</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">36.0</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">6</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.0</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">30.0</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">7</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">9.6</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27.6</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">8</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">11.0</span></p></td><td style="width:83.25pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.0</span></p></td></tr><tr><td style="width:100.88pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Total</span></p></td><td style="width:83.62pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150.0</span></p></td><td style="width:93.72pt; border-right-style:solid; border-right-width:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">50.0</span></p></td><td style="width:83.25pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200.0</span></p></td></tr></tbody></table>
+Ano
+
+Satélites (1MUSD)
+
+Lançamento (1MUSD)
+
+Total
+
+1
+
+1.0
+
+1.0
+
+2
+
+17.0
+
+17.0
+
+3
+
+22.0
+
+6.0
+
+28.0
+
+4
+
+28.0
+
+6.4
+
+34.4
+
+5
+
+28.0
+
+8.0
+
+36.0
+
+6
+
+21.0
+
+9.0
+
+30.0
+
+7
+
+18.0
+
+9.6
+
+27.6
+
+8
+
+15.0
+
+11.0
+
+26.0
+
+Total
+
+150.0
+
+50.0
+
+200.0
 
  7.3. Cronograma Geral CBERS3&4
 

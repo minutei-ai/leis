@@ -1,5 +1,3 @@
-###DEC-075091-0-000-19-12-1974@@@
-
 DECRETO Nº 75.091, DE 19 DE DEZEMBRO DE 1974.
 
 Eleva o Consulado em Santa Cruz de la Sierra à categoria de Consulado-Geral.

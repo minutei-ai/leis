@@ -1,5 +1,3 @@
-###DEC-058587-0-000-07-06-1966@@@
-
 DECRETO Nº 58.587, DE 7 DE JUNHO DE 1966.
 
 Aprova alterações introduzidas nos Estatutos da Companhia de Seguros Riachuelo, inclusive aumento do capital social.
@@ -17,8 +15,6 @@ Brasília, 7 de junho de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Paulo Egydio Martins
-
-###DEC-058587-0-000-07-06-1966@@@RET01+++
 
 DECRETO Nº 58.587, DE 7 DE JUNHO DE 1966.
 

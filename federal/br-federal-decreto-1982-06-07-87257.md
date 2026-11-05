@@ -1,5 +1,3 @@
-###DEC-087257-0-000-07-06-1982@@@
-
 DECRETO Nº 87.257, DE 07 DE JUNHO DE 1982
 
 Dá nova redação a dispositivos do Decreto nº 84.669, de 29 de abril de 1980, que regulamenta o instituto da progressão funcional, e da outra providência.

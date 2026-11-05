@@ -1,7 +1,3 @@
-1
-
-###DEC-099133-0-000-09-03-1990@@@
-
 DECRETO Nº 99.133, DE 9 DE MARÇO DE 1990
 
 Renova a concessão outorgada a SOCIE­DADE RÁDIO BLUMENAU LTDA., para explorar serviço de radiodifusão do sonora em onda média, na Cidade de Blumenau, Estado de Santa Catarina.

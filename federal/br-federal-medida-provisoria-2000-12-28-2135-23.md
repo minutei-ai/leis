@@ -1,5 +1,3 @@
-###MPV-002135-0-023-28-12-2000@@@
-
 medida provisória nº 2135-23, de 28 de dezembro de 2000.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial com opção de compra e dá outras providências.

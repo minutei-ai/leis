@@ -1,5 +1,3 @@
-###DEC-079774-0-000-06-06-1977@@@
-
 DECRETO Nº 79.774, DE 6 DE JUNHO DE 1977
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos, que menciona, situados na cidade e Estado do Rio de Janeiro.

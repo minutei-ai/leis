@@ -1,7 +1,3 @@
-1
-
-###DEC-000673-0-000-23-10-1992@@@
-
 DECRETO N° 673, DE 23 DE OUTUBRO DE 1992
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da Romênia, de 13 de março de 1991.

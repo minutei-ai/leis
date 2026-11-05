@@ -1,5 +1,3 @@
-###DEC-058701-0-000-23-06-1966@@@
-
 DECRETO Nº 58.701, de 23 de junho de 1966.
 
 Ministério da Guerra - Abre o crédito especial de Cr$2.070.000.000, para atender às despesas com a Fábrica Presidente Vargas, em Piquete.

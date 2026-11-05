@@ -1,5 +1,3 @@
-###DEC-001801-0-000-31-01-1996@@@
-
 DECRETO N° 1.801, DE 31 DE JANEIRO DE 1996
 
 Dispõe sobre o remanejamento do cargo em comissão que menciona.

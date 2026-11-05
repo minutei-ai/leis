@@ -1,7 +1,3 @@
-1
-
-###DEC-001143-0-000-20-05-1994@@@
-
 DECRETO N° 1.143, DE 20 DE MAIO DE 1994
 
 Altera a denominação do Centro de Recrutas de Fuzileiros Navais para Centro de Instrução Almirante Milciades Portela Alves (CIAMPA).

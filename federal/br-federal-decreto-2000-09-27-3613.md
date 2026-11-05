@@ -1,5 +1,3 @@
-###DEC-003613-0-000-27-09-2000@@@
-
 DECRETO Nº 3.613, DE 27 DE SETEMBRO DE 2000
 
 Acrescenta dispositivo ao Decreto nº 1.605, de 25 de agosto de 1955, que regulamenta o Fundo Nacional de Assistência Social.

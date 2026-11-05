@@ -1,7 +1,3 @@
-1
-
-###DEC-095698-0-000-03-02-1988@@@
-
 DECRETO Nº 95.698, DE 3 DE FEVEREIRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terreno, sem benfeitorias, situada na cidade de Porciúncula, Estado do Rio de Janeiro, destinada à instalação de Estação Telefônica da Telecomunicações do Rio de Janeiro S.A. - TELERJ, e dá outras providências.

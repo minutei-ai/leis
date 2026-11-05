@@ -1,5 +1,3 @@
-###DEC-049654-0-000-31-12-1960@@@
-
 DECRETO Nº 49.654, DE 31 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Eurípedes Maia de Albuquerque Pereira a pesquisar scheelita no município de Picuí, Estado da Paraíba.

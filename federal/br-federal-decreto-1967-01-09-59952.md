@@ -1,5 +1,3 @@
-###DEC-059952-0-000-09-01-1967@@@
-
 DECRETO Nº 59.952, DE 9 DE JANEIRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica executados no Município de Iconha, Estado do Espirito Santo e outorga concessão.

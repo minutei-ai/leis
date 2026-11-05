@@ -1,5 +1,3 @@
-###DEC-073139-0-000-09-11-1973@@@
-
 DECRETO Nº 73.139 - DE 9 DE NOVEMBRO DE 1973
 
 Concede autorização à firma Minerações Brasileiras Reunidas S. A., de nacionalidade brasileira para realizar, no mar territorial do Brasil, os serviços que especifica.

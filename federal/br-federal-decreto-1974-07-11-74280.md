@@ -1,5 +1,3 @@
-###DEC-074280-0-000-11-07-1974@@@
-
 DECRETO Nº 74.280 - DE 11 DE JULHO DE 1974.
 
 Altera dispositivo do Decreto número 73.646, de 13 de fevereiro de 1974, que autoriza a cessão gratuita de terreno situado em Recife, no Estado de Pernambuco.

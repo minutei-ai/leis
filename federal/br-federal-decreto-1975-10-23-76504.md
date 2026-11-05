@@ -1,5 +1,3 @@
-###DEC-076504-0-000-23-10-1975@@@
-
 DECRETO Nº 76.504, DE 23 De Outubro De 1975.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Difusora de Cariacica Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Cariacica, Estado do Espírito Santo.

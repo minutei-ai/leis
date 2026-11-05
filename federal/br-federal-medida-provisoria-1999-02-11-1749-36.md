@@ -1,5 +1,3 @@
-###MPV-001749-0-036-11-02-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.749-36, DE 11 DE FEVEREIRO DE 1999.
 
 Altera a legislação do imposto de renda e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099095-0-000-09-03-1990@@@
-
 DECRETO Nº 99.095, DE 9 DE MARÇO DE 1990
 
 Homologa a demarcação administrativa da Área Indígena Yauaretê I, no Estado do Amazonas.

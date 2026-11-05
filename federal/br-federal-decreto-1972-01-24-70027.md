@@ -1,5 +1,3 @@
-###DEC-070027-0-000-24-01-1972@@@
-
 DECRETO Nº 70.027,DE 24 DE JANEIRO DE 1972.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério da Educação e Cultura para o Ministério da Indústria e do Comércio, e dá outras providências.

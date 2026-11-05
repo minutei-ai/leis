@@ -1,5 +1,3 @@
-###DEL-000010-0-000-28-06-1966@@@
-
 DeCRETO-LEI Nº 10, DE 28 DE JuNho DE 1966
 
 Aprova o convênio firmado entre o Govêrno Federal e o Estado da Guanabara para a reinclusão, nos Quadros da Polícia Militar do Estado da Guanabara, do Pessoal da Polícia Militar do antigo Distrito Federal e dá outras providências.

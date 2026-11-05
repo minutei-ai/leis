@@ -1,5 +1,3 @@
-###DEC-055513-0-000-11-01-1965@@@
-
 Decreto nº 55.513, de 11 de janeiro de 1965.
 
 Modifica o artigo 1º do Decreto número 41.602, de 29 de maio de 1957 e dá outras providências.

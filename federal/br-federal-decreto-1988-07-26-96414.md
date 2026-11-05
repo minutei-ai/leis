@@ -1,5 +1,3 @@
-###DEC-096414-0-000-26-07-1988@@@
-
 DECRETO N.° 96.414, DE 26 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “Tauá ou Gleba Santa Teresinha” ou “Fazenda Santa Tereza do Tauá”, classificado como latifúndio por exploração, situado no Município de Presidente Juscelino, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 8 de maio de 1986, e dá outras providências.

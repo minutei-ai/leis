@@ -1,5 +1,3 @@
-###DEC-074416-0-000-14-08-1974@@@
-
 DECRETO Nº 74.416, DE 14 de AGOSTO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Sociedade Rádio Emissora do Recife Ltda. - Rádio Recife, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Recife, Estado de Pernambuco, sob a denominação de Sociedade Rádio Emissora Continental de Recife Limitada.

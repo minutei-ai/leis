@@ -1,5 +1,3 @@
-###DEL-009471-0-000-15-07-1946@@@
-
 DECRETO-LEI N. 9.471 – DE 15 DE JULHO DE 1946
 
 Abre ao Ministério da Viação e Obras Públicas, o crédito especial de  Cr$ 350.000,00, para atender a pagamento de salários a técnicos americanos, instrutores da tripulação brasileira de droga "Sandmaster"

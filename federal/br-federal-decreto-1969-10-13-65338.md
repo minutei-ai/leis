@@ -1,5 +1,3 @@
-###DEC-065338-0-000-13-10-1969@@@
-
 DECRETO Nº 65.338 - DE 13 DE OUTUBRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde Goianinha, município de Goiânia, no Estado de Pernambuco, até João Pessoa, no Estado da Paraíba.

@@ -1,5 +1,3 @@
-###DEL-003733-0-000-20-10-1941@@@
-
 DECRETO-LEI N. 3.733 – DE 20 DE OUTUBRO DE 1941
 
 Prorroga por dez anos a concessão outorgada à Companhia Radiotegráfica Brasileira S. A., para executar serviço radiotelefônico público internacional, permitindo-lhe tambem a execução de serviço radiotelefônico público restrito internacional.

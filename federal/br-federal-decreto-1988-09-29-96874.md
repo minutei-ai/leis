@@ -1,5 +1,3 @@
-###DEC-096874-0-000-29-09-1988@@@
-
 DECRETO N° 96.874, DE 29 DE SETEMBRO DE 1988
 
 Autoriza a transferência direta da con­cessão da FUNDAÇÃO CAPITAL DO Sudoeste para a Rádio Cidade Pato Branco Ltda.

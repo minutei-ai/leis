@@ -1,5 +1,3 @@
-###DEC-092962-0-000-21-07-1986@@@
-
 DECRETO Nº 92.962, DE 21 DE JULHO DE 1986
 
 Altera o artigo 4º do Decreto nº 90.116, de 29 de agosto de 1984, que regulamenta o ingresso e a promoção no Quadro Auxiliar de Oficiais (QAO).

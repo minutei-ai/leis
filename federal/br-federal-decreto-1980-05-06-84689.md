@@ -1,5 +1,3 @@
-###DEC-084689-0-000-06-05-1980@@@
-
 DECRETO Nº 84.689, DE 06 DE MAIO DE 1980
 
 Cancela autorização para funcionamento no Brasil da Companhia Adriática de Seguros.

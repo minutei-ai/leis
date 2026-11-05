@@ -1,5 +1,3 @@
-###DEC-001821-0-000-28-02-1996@@@
-
 DECRETO Nº 1.821, DE 28 DE FEVEREIRO DE 1996
 
 Reduz alíquota do Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF e dá outras providências.

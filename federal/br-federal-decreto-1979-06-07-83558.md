@@ -1,5 +1,3 @@
-###DEC-083558-0-000-07-06-1979@@@
-
 Decreto nº 83.558, de 07 de junho de 1979.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Contábeis, da Faculdade de Ciências Sociais Aplicadas de Foz do Iguaçu, com sede na cidade de Foz do Iguaçu, Estado do Paraná.

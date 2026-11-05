@@ -1,5 +1,3 @@
-###DEC-053101-0-000-10-12-1963@@@
-
 DECRETO Nº 53.101, DE 10 DE DEZEMBRO DE 1963.
 
 Renova o Decreto nº 46.490, de 20 de julho de 1959.

@@ -1,5 +1,3 @@
-###DEC-046020-0-000-18-05-1959@@@
-
 DECRETO Nº 46.020, DE 18 DE MAIO DE 1959.
 
 Autoriza Mineração Lobato Ltda. a pesquisar areias ilmeníticas no município de Barreirinhas, Estado do Maranhão.

@@ -1,5 +1,3 @@
-###DEL-008536-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.536 – DE 2 de JANEIRO DE 1946
 
 Dá organização ao Instituto Nacional de Cinema Educativo, do Ministério da Educação e Saúde, criado pelo art. 40 da Lei nº 378, de 13 de janeiro de 1937, e dá outras providências.

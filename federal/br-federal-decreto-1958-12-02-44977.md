@@ -1,5 +1,3 @@
-###DEC-044977-0-000-02-12-1958@@@
-
 DECRETO Nº 44.977, DE 02 DE dezembro DE 1958.
 
 Renova o Decreto nº 39.470, de 27 de junho de 1956.

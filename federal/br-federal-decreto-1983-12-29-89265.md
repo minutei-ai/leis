@@ -1,5 +1,3 @@
-###DEC-089265-0-000-29-12-1983@@@
-
 # Decreto nº 89.265, de 29 de dezembro de 1983
 
 Estabelece normas de execução orçamentária, define a programação financeira para o exercício financeiro de 1984 e dá outras providências.

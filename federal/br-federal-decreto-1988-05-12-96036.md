@@ -1,5 +1,3 @@
-###DEC-096036-0-000-12-05-1988@@@
-
 DECRETO N° 96.036, DE 12 DE MAIO DE 1988
 
 Regulamenta a Lei n° 7.646, de 18 de dezembro de 1987 que dispõe sobre a proteção da propriedade intelectual de programas de computador e sua comercialização no País, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005101-0-000-08-06-2004@@@
-
 DECRETO Nº 5.101,  DE 8 DE JUNHO DE 2004
 
 Dá nova redação ao art. 2º do Estatuto do Conselho de Controle de Atividades Financeiras - COAF, aprovado pelo Decreto nº 2.799, de 8 de outubro de 1998.

@@ -1,5 +1,3 @@
-###DEC-007342-0-000-26-10-2010-PUB-01@@@
-
 DECRETO Nº 7.342, DE 26 DE OUTUBRO DE 2010.
 
 Institui o cadastro socioeconômico para identificação, qualificação e registro público da população atingida por empreendimentos de geração de energia hidrelétrica, cria o Comitê Interministerial de Cadastramento Socioeconômico, no âmbito do Ministério de Minas e Energia, e dá outras providências.

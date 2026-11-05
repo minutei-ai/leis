@@ -1,5 +1,3 @@
-###DEC-073821-0-000-12-03-1974@@@
-
 decreto nº 73.821, de 12 de março de 1974.
 
 Estabelece normas complementares ao Regulamento da Loteria Esportiva Federal, baixando como Decreto nº 66.118 de 26 de janeiro de 1970.

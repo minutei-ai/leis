@@ -1,5 +1,3 @@
-###DEC-087330-0-000-24-06-1982@@@
-
 Decreto nº 87.330, de 24 de junho de 1982
 
 Declara de utilidade pública, para fins, de desapropriação, área de terra necessária a ampliação da subestação de Mirassol da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

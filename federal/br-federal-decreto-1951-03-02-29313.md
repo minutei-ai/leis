@@ -1,14 +1,12 @@
-###DEC-029313-0-000-02-03-1951@@@
+**DECRETO N. 29.313 – DE 2 DE MARÇO DE 1951**
 
-<strong>DECRETO N. 29.313 – DE 2 DE MARÇO DE 1951</strong>
-
-<em><strong>Abre, pelo Ministério da Agricultura, o crédito especial de....................................... Cr$ 63.000,00, para o fim que especifica.</strong></em>
+***Abre, pelo Ministério da Agricultura, o crédito especial de....................................... Cr$ 63.000,00, para o fim que especifica.***
 
 O Presidente da República, usando da autorização contida na Lei número 1.165 de 26 de julho de 1950 e tendo consultada o Tribunal de Contas e ouvido o Ministério da Fazenda, nos térmos do art. 93 do Regulamento Geral de Contabilidade PúbIica,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
-<strong>Art.</strong> 1º Fica aberto, pelo Ministério da Agricultura, o crédito especial de Cr$ 63.000.00 (sessenta e três mil cruzeiros), para atender ao pagamento (Pessoal) da gratificação de magistério a que fizeram jus, no exercício de 1948, os professôres catedráticos. padrão “O” da Escola de Agronomia Eliseu Maciel, abaixo mencionados :
+**Art.** 1º Fica aberto, pelo Ministério da Agricultura, o crédito especial de Cr$ 63.000.00 (sessenta e três mil cruzeiros), para atender ao pagamento (Pessoal) da gratificação de magistério a que fizeram jus, no exercício de 1948, os professôres catedráticos. padrão “O” da Escola de Agronomia Eliseu Maciel, abaixo mencionados :
 
                      Cr$
 
@@ -24,11 +22,11 @@ Manuel Serafim Gomes de Freitas ................................................
 
                                                                                                                                                              63.000,00
 
-<strong>Art.</strong> 2º Êste Decreto entrará, em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art.** 2º Êste Decreto entrará, em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro 2 de março de 1951; 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS.</strong>
+**GETULIO VARGAS.**
 
 João Cleofas.
 

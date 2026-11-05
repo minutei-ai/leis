@@ -1,18 +1,16 @@
-###DEC-034592-0-000-13-11-1953@@@
+**DECRETO Nº 34.592, DE 13 DE NOVEMBRO DE 1953.**
 
-<strong>DECRETO Nº 34.592, DE 13 DE NOVEMBRO DE 1953.</strong>
+***Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, colhidos no ano de 1954.***
 
-<em><strong>Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, colhidos no ano de 1954.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 3º, da Lei de número 1.506, de 19 de dezembro de 1951,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição, e tendo em vista o disposto no artigo 3º, da Lei de número 1.506, de 19 de dezembro de 1951,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os preço básicos mínimos para as operações de financiamento ou aquisição, no ano de 1954, dos produtos especificadamente mencionadas no parágrafo único do artigo 1º, da Lei número 1.506, de 19-12-1951, e colhidos no mencionado ano, são os constantes do artigo 2º dêste Decreto.
+**Art**. 1º Os preço básicos mínimos para as operações de financiamento ou aquisição, no ano de 1954, dos produtos especificadamente mencionadas no parágrafo único do artigo 1º, da Lei número 1.506, de 19-12-1951, e colhidos no mencionado ano, são os constantes do artigo 2º dêste Decreto.
 
 Parágrafo único. Êstes preços referem-se aos produtos postos nos principais centros de consumo do país, assim considerandos para os efeitos dêste Decreto os respectivos portos de escoamento, atendidas as condições e especificações decorrente da Lei número 1.506,de 19-12-1951.
 
-<strong>Art</strong>. 2º Os preço básico mínimos estabelecidos nêste Decreto, são os seguintes:
+**Art**. 2º Os preço básico mínimos estabelecidos nêste Decreto, são os seguintes:
 
 Arroz
 
@@ -64,14 +62,14 @@ Dezesseis cruzeiro (Cr$16.00) por arrôba de quinze (15) quilos, para o produto 
 
 Os preços para o produto entregue em outras localidades das regiões produtoras serão oportunamente determinados nos têrmos do artigo 4º, da Lei número 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 3º Os preço de que trata o artigo 2º dêste Decreto referem-se à mercadoria nova da safra de 1954, embalada em sacaria nova devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados nêste Decreto e nos mencionados na letra “<em>a</em>” do artigo 6º e no artigo 7º, da Lei número 1.506, de 19 de dezembro de 1951.
+**Art**. 3º Os preço de que trata o artigo 2º dêste Decreto referem-se à mercadoria nova da safra de 1954, embalada em sacaria nova devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados nêste Decreto e nos mencionados na letra “*a*” do artigo 6º e no artigo 7º, da Lei número 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 4º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>.5º Revogam-se as disposições em contrário.
+**Art**.5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro em 13 de novembro de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha

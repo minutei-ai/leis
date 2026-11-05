@@ -1,5 +1,3 @@
-###DEC-084159-0-000-07-11-1979@@@
-
 Decreto nº 84.159, de 7 de novembro de 1979.
 
 Autoriza o funcionamento da habilitação Formação de Psicólogo, da Faculdade de Ciências Humanas de Olinda, Estado de Pernambuco.

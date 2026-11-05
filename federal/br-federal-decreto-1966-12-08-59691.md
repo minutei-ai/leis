@@ -1,5 +1,3 @@
-###DEC-059691-0-000-08-12-1966@@@
-
 DECRETO Nº 59.691, DE 8 DE DEZEMBRO DE 1966.
 
 Declara de prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos sem similar nacional registrado, neste descritos e consignadas à empresa “S.A. Tubos Brasilit”, de Recife (Pe).
@@ -14,7 +12,35 @@ DECRETA:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação de equipamentos novos sem similar nacional registrado, a seguir descritos e consignados à emprêsa “S.A. Tubos Brasilit”, de Recife (Pe):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="font-style:italic">Item – Específicação</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Valor Total</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>CIF US$</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1. Chapas onduladas, de aço comum, não revestida, de 14 1/2 ondas, largura de 1.087,5 mm e comprimento de 2.600 mm de origem Alemã ...</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.000</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>26.000</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2. Chapas onduladas, de aço comum, não revestidas, de 5 1/2 ondas, largura de 973,5 mm comprimento de 3.150 mm de origem Alemã .........</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.000</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>30.950</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>3. Transportador “YALE” K23E6 capacidade de 6.000 ibs, comprimento da plataforma: 3,05m, largura de plataforma 0,69m; altura de plataforma em posição de descanso, 0,28; elevação de plataforma 0,15m, c/ rodas de borracha maciça, de origem dos Estados Unidos de América .............</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>9.570</span></p></td></tr><tr><td style="width:322.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL .......................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:39pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:right"><span>66.520</span></p></td></tr></tbody></table>
+Item – Específicação
+
+Quantidade a ser importada
+
+Valor Total
+
+CIF US$
+
+1. Chapas onduladas, de aço comum, não revestida, de 14 1/2 ondas, largura de 1.087,5 mm e comprimento de 2.600 mm de origem Alemã ...
+
+1.000
+
+26.000
+
+2. Chapas onduladas, de aço comum, não revestidas, de 5 1/2 ondas, largura de 973,5 mm comprimento de 3.150 mm de origem Alemã .........
+
+1.000
+
+30.950
+
+3. Transportador “YALE” K23E6 capacidade de 6.000 ibs, comprimento da plataforma: 3,05m, largura de plataforma 0,69m; altura de plataforma em posição de descanso, 0,28; elevação de plataforma 0,15m, c/ rodas de borracha maciça, de origem dos Estados Unidos de América .............
+
+1
+
+9.570
+
+TOTAL .......................................................................................................
+
+66.520
 
 Art. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

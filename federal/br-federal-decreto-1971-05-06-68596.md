@@ -1,5 +1,3 @@
-###DEC-068596-0-000-06-05-1971@@@
-
 Decreto nº 68.596 - de 6 de maio de 1971.
 
 Redistribui, com os respectivos ocupantes, cargos do Quadro de Pessoal do Ministério da Agricultura para o do Instituto Nacional de Colonização e Reforma Agrária.

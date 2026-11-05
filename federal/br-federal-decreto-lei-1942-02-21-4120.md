@@ -1,5 +1,3 @@
-###DEL-004120-0-000-21-02-1942@@@
-
 DECRETO-LEI N. 4.120 – DE 21 DE FEVEREIRO DE 1942
 
 Altera a legislação sobre terrenos de marinha

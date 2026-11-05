@@ -1,7 +1,3 @@
-1
-
-###DEL-000762-0-000-14-08-1969@@@
-
 DECRETO-LEI Nº 762, DE 14 DE AGÔSTO DE 1969
 
 Autoriza o funcionamento da Universidade de Uberlândia e dá outras providências.

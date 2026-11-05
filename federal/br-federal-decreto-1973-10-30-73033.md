@@ -1,5 +1,3 @@
-###DEC-073033-0-000-30-10-1973@@@
-
 DECRETO Nº 73.033, DE 30 DE OUTUBRO DE 1973.
 
 Declara perempta a concessão outorgada à Rádio Bela Vista S. A., para executar serviço de radiodifusão sonora em onde média de âmbito regional, na Cidade de Uberlândia - Estado de Minas Gerais

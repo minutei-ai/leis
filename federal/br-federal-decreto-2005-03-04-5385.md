@@ -1,5 +1,3 @@
-###DEC-005385-0-000-04-03-2005@@@
-
 DECRETO Nº 5.385 DE 4 DE MARÇO DE 2005
 
 Institui o Comitê Gestor de Parceria Público-Privada Federal - CGP e dá outras providências.

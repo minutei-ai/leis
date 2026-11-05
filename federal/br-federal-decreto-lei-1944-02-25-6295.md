@@ -1,5 +1,3 @@
-###DEL-006295-0-000-25-02-1944@@@
-
 DECRETO-LEI N. 6.295 – DE 25 DE FEVEREIRO DE 1944
 
 Abre ao Ministério da Agricultura o crédito especial de Cr$ 66.460,80, para classificação de despesa

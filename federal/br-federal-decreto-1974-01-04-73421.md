@@ -1,5 +1,3 @@
-###DEC-073421-0-000-04-01-1974@@@
-
 DECRETO Nº 73.421, DE 4 DE JANEIRO DE 1974.
 
 Dispõe sobre a Subsistência de Aperfeiçoamento do Pessoal Civil da Administração Federal e dá outras providências.

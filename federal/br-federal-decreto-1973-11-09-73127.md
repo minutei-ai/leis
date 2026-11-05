@@ -1,5 +1,3 @@
-###DEC-073127-0-000-09-11-1973@@@
-
 DECRETO Nº 73.127 - DE 9 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, situada na Rua Alfa, atual Rua Maria de Oliveira Arruda, número 30, Vila Central, Município de Guarulhos, Estado de São Paulo, destinado à ampliação da Estação Telefônica denominada "Rosário", pela Telecomunicações de São Paulo S.A. TELESP.

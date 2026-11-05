@@ -16,6 +16,100 @@ Gabinete do Prefeito de Rio Verde, aos 28 de abril de 2023.
 
 "Tabela 3 - Secretaria Municipal de Saúde - SMS
 
-<table height="337" width="913"><tbody><tr><td style="width: 70px; text-align: center;"><strong>ESPÉCIE/NÍVEL</strong></td><td style="width: 190px; text-align: center;"><strong>FUNÇÃO</strong></td><td style="width: 496px; text-align: center;"><strong>DESCRIÇÃO</strong></td><td style="text-align: center;"><strong>QUANTIDADE</strong></td></tr><tr><td style="width: 70px; text-align: center;">FG-1</td><td style="width: 190px; text-align: center;">Gestor de Processos Estratégicos</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">14</td></tr><tr><td style="width: 70px; text-align: center;">..............</td><td style="width: 190px; text-align: center;">..........................</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">...................</td></tr><tr><td style="width: 70px; text-align: center;">FG-3</td><td style="width: 190px; text-align: center;">Gestor de Administrativo&nbsp;e de Pessoal</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">6</td></tr><tr><td style="width: 70px; text-align: center;">..............</td><td style="width: 190px; text-align: center;">..........................</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">...................</td></tr><tr><td style="width: 70px; text-align: center;">FG-4</td><td style="width: 190px; text-align: center;">Agente de Compras&nbsp;Governamentais</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">10</td></tr><tr><td style="width: 70px; text-align: center;">FG-4</td><td style="width: 190px; text-align: center;">Gestor de Processos Estratégicos</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">64</td></tr><tr><td style="width: 70px; text-align: center;">FG-5</td><td style="width: 190px; text-align: center;">Gestor de Processos Estratégicos</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">20</td></tr><tr><td style="width: 70px; text-align: center;">FG-6</td><td style="width: 190px; text-align: center;">Gestor Geral de Área de Endemias</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">4</td></tr><tr><td style="width: 70px; text-align: center;">..............</td><td style="width: 190px; text-align: center;">..........................</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">...................</td></tr><tr><td style="width: 70px; text-align: center;">FG-7</td><td style="width: 190px; text-align: center;">Agente de serviços de saúde</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">31</td></tr><tr><td style="width: 70px; text-align: center;">..............</td><td style="width: 190px; text-align: center;">..........................</td><td style="width: 496px; text-align: center;">........................................................................................................</td><td style="text-align: center;">...................</td></tr></tbody></table>
+**ESPÉCIE/NÍVEL**
+
+**FUNÇÃO**
+
+**DESCRIÇÃO**
+
+**QUANTIDADE**
+
+FG-1
+
+Gestor de Processos Estratégicos
+
+........................................................................................................
+
+14
+
+..............
+
+..........................
+
+........................................................................................................
+
+...................
+
+FG-3
+
+Gestor de Administrativo e de Pessoal
+
+........................................................................................................
+
+6
+
+..............
+
+..........................
+
+........................................................................................................
+
+...................
+
+FG-4
+
+Agente de Compras Governamentais
+
+........................................................................................................
+
+10
+
+FG-4
+
+Gestor de Processos Estratégicos
+
+........................................................................................................
+
+64
+
+FG-5
+
+Gestor de Processos Estratégicos
+
+........................................................................................................
+
+20
+
+FG-6
+
+Gestor Geral de Área de Endemias
+
+........................................................................................................
+
+4
+
+..............
+
+..........................
+
+........................................................................................................
+
+...................
+
+FG-7
+
+Agente de serviços de saúde
+
+........................................................................................................
+
+31
+
+..............
+
+..........................
+
+........................................................................................................
+
+...................
 
 "

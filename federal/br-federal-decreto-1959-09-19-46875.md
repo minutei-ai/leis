@@ -1,5 +1,3 @@
-###DEC-046875-0-000-19-09-1959@@@
-
 decreto nº 46.875, de 19 de setembro de 1959.
 
 Autoriza o Corpo de Bombeiros do Distrito Federal a realizar despesas pelo artigo 48 do Código de Contabilidade da União e dá outras providências.

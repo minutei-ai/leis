@@ -1,5 +1,3 @@
-###DEC-089758-0-000-06-06-1984@@@
-
 Decreto nº 89.758, de 06 de junho de 1984
 
 Dispõe sobre a matrícula de cortesia, em cursos de graduação, em Instituições de Ensino Superior, de funcionários estrangeiros de Missões Diplomáticas, Repartições Consulares de Carreira e Organismos Internacionais, e de seus dependentes legais, e dá outras providências.

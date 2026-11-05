@@ -1,5 +1,3 @@
-###DEC-074206-0-000-21-06-1974@@@
-
 DECRETO Nº 74.206, DE 21 DE JUNHO DE 1974.
 
 Declara a caducidade dos Decretos que menciona.

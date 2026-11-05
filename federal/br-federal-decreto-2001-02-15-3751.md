@@ -1,5 +1,3 @@
-###DEC-003751-0-000-15-02-2001@@@
-
 DECRETO Nº 3.751, DE 15 DE FEVEREIRO DE 2001
 
 Dispõe sobre os procedimentos a serem observados pela Administração Pública Federal direta e indireta, para fins de gestão de projetos, no âmbito dos acordos de cooperação técnica com organismos internacionais.

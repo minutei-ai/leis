@@ -1,5 +1,3 @@
-###DEC-046926-0-000-30-09-1959@@@
-
 DECRETO Nº 46.926, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Geraldo Pinto Vaz a pesquisar mármore, no município de Juazeiro, Estado da Bahia.

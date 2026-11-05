@@ -40,7 +40,8 @@ Art. 8º - Os bens públicos municipais situados nos atuais limites do territó
 
 Parágrafo único - Ficam ressalvados todos os direitos de terceiros, resultantes de título aquisitivo eficaz, devidamente registrado, por compra realizada à Prefeitura Municipal da Cidade do Salvador, até a data desta Lei.
 
-Redação de acordo com a Lei nº 4.680, de 29 de agosto de 1986.<br>
+Redação de acordo com a Lei nº 4.680, de 29 de agosto de 1986.
+
 Redação original: "Art. 8º - Os próprios municípais situados no território desmembrado, passarão, independentemente de indenização, à propriedade do Município ora criado." 
 
 Art. 9º - Os casos omissos nesta lei serão regulados pela [Lei nº 140 de 22 de dezembro de 1948](https://www.legislabahia.ba.gov.br/documentos/lei-no-140-de-22-de-dezembro-de-1948#LO_140) (Lei Orgânica dos Municípios).
@@ -55,4 +56,4 @@ Governador
 
 Adhemar Martinelli Braga
 
-* * *
+ *

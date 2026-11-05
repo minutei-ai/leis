@@ -1,5 +1,3 @@
-###DEL-009244-0-000-09-05-1946@@@
-
 DECRETO-LEI N. 9.244 – DE 9 DE MAIO DE 1946
 
 Cria taxa adicional sôbre os preços do carvão mineral nacional produzido pela Companhia Estrada de Ferro e Minas São Jerônimo e pela Companhia Carbonífera Minas de Butiá, para atender aos aumentos de salários do pessoal que trabalha em suas minas, em seus serviços de navegação fluvial e lacustre e em seus serviços de estiva, em Pelotas, e para atender à majoração de tarifas da Estrada de Ferro Jacuí.

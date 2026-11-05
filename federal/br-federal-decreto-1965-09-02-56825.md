@@ -1,5 +1,3 @@
-###DEC-056825-0-000-02-09-1965@@@
-
 DECRETO Nº 56.825, DE 2 DE SETEMBRO DE 1965.
 
 Retifica o enquadramento dos cargos e funções da Estrada de Ferro Central do Brasil, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057946-0-000-10-03-1966@@@
-
 DECRETO Nº 57.946, DE 10 DE MARÇO DE 1966.
 
 Outorga a Itabira Agro-Indústrial S.A. concessão para aproveitamento hidráulico, para uso exclusivo.

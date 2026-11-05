@@ -1,5 +1,3 @@
-###DEC-061441-0-000-04-10-1967@@@
-
 DECRETO Nº 61.441, DE 4 DE OUTUBRO DE 1967.
 
 Transfere da Prefeitura Municipal de Pains para a Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no distrito de Vila Costina, município de Pains. Estado de Minas Gerais e dá outras providências.

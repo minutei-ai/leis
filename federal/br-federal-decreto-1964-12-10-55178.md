@@ -1,5 +1,3 @@
-###DEC-055178-0-000-10-12-1964@@@
-
 DECRETO Nº 55.178, DE 10 DE DEZEMBRO De 1964.
 
 Autoriza o cidadão brasileiro Nagib Salim a lavrar mica no Município de Raul Soares, Estados de Minas Gerais.

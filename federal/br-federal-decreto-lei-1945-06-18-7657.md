@@ -1,5 +1,3 @@
-###DEL-007657-0-000-18-06-1945@@@
-
 DECRETO-LEI N. 7.657 – DE 18 DE JUNHO DE 1945
 
 Suprime cargo em comissão no Quadro Permanente do Ministério da Agricultura

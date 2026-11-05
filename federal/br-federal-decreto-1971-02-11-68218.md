@@ -1,5 +1,3 @@
-###DEC-068218-0-000-11-02-1971@@@
-
 DECRETO nº 68.218, de 11 de Fevereiro de 1971.
 
 Concede autorização para funcionamento da Faculdade de Formação de Professores de Alagoinhas, Estado da Bahia.

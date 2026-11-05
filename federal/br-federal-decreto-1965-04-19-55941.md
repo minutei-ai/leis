@@ -1,5 +1,3 @@
-###DEC-055941-0-000-19-04-1965@@@
-
 Decreto Nº 55.941, DE 19 DE ABRIL DE 1965.
 
 Declara de utilidade pública a “Sociedade Beneficente Israelita do Rio de Janeiro”, com sede no Estado da Guanabara.

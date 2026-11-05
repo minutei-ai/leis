@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/735f0fd0-bbff-4a92-aed6-ed79d83c4453/texto#nowhere)
 
-###DEL-000925-0-000-10-10-1969@@@
-
 DECreto-LEI Nº 925, DE 10 DE outubro DE 1969
 
 Altera dispositivos da Consolidação das Leis do Trabalho, aprovada pelo Decreto-lei 5.452 de 1 de maio de 1943.

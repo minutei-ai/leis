@@ -1,5 +1,3 @@
-###DEL-000289-0-000-28-02-1967@@@
-
 DECRETO-LEI Nº 289, DE 28 DE FEVEREIRO DE 1967
 
 Cria o Instituto Brasileiro do Desenvolvimento Florestal e dá outras providências.
@@ -208,7 +206,23 @@ Art. 24. A receita extra-orçamentária do IBDF será aplicada exclusivamente em
 
 Art. 25. O Anexo II do Decreto nº 56.791 de 26 de agôsto de 1965, que regulamenta a Lei nº 4.502, de 30 de novembro de 1964, fica alterado, em seu capítulo 44, com a introdução das posições abaixo definidas, e respectivas alíquotas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>44.03</span></p></td><td style="width:343.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Madeira em bruto, inclusive descascada ou simplesmente desbastada ..........</span></p></td><td style="width:20.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>44.04</span></p></td><td style="width:343.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Madeira simplesmente esquadriada ............................................................</span></p></td><td style="width:20.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3%</span></p></td></tr><tr><td style="width:30.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>44.05</span></p></td><td style="width:343.6pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>- Madeira simplesmente serrada logitudinalmente, cortada ou desenrolada, espessura superior a 5 mm ..........................................................................</span></p></td><td style="width:20.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>3%</span></p></td></tr></tbody></table>
+44.03
+
+- Madeira em bruto, inclusive descascada ou simplesmente desbastada ..........
+
+3%
+
+44.04
+
+- Madeira simplesmente esquadriada ............................................................
+
+3%
+
+44.05
+
+- Madeira simplesmente serrada logitudinalmente, cortada ou desenrolada, espessura superior a 5 mm ..........................................................................
+
+3%
 
 Art. 26. A partir de 30 de junho do corrente ano ficam extintas as taxas a que se refere o artigo 22 do Decreto-lei nº 4.813, de 8 de outubro de 1942.
 

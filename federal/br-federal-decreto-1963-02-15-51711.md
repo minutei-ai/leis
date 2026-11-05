@@ -1,5 +1,3 @@
-###DEC-051711-0-000-15-02-1963@@@
-
 DECRETO Nº 51.711, DE 15 DE FEVEREIRO DE 1963.
 
 Abre ao poder Judiciário do Trabalho da 5ª Região, o crédito especial de Cr$37.000.00, para o fim de que especifica.

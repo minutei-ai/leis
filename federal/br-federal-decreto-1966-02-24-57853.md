@@ -1,5 +1,3 @@
-###DEC-057853-0-000-24-02-1966@@@
-
 DECRETO Nº 57.853, DE 24 DE FEVEREIRO DE 1966.
 
 Altera o Quadro de Pessoal - Parte Permanente - da Universidade do Paraná, e dá outras providências.

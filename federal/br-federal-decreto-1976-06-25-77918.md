@@ -1,5 +1,3 @@
-###DEC-077918-0-000-25-06-1976@@@
-
 DECRETO Nº 77.918, DE 25 DE JUNHO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação de doação de terreno que menciona, situado no Município de São Luiz Gonzaga, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-004638-0-000-31-08-1942@@@
-
 DECRETO-LEI N. 4.638 – DE 31 DE AGOSTO DE 1942
 
 Faculta a recisão de contrato de trabalho com súditos das nações com as quais o Brasil rompeu relações diplomáticas ou se encontra em estado de beligerância e dá outras providências.

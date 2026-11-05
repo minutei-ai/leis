@@ -1,5 +1,3 @@
-###DEC-077326-0-000-22-03-1976@@@
-
 DECRETO Nº 77.326, DE 22 DE MARÇO DE 1976.
 
 Aprova os Estatutos da Fundação Projeto Rondon.

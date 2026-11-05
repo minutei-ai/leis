@@ -1,5 +1,3 @@
-###DEC-049294-0-000-19-11-1960@@@
-
 DECRETO Nº 49.294, DE 19 DE NOVEMBRO DE 1960.
 
 Concede à Companhia de Mineração Rio Acima autorização para funcionar como emprêsa de mineração.

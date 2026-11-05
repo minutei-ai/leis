@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211787)<br>
-
 # DECRETO N° 70.065, DE 07 DE NOVEMBRO DE 2025
 
 ### _Dispõe sobre a classificação institucional da Secretaria de Comunicação nos Sistemas de Administração Financeira e Orçamentária do Estado._

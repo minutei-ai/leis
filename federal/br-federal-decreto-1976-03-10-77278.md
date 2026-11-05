@@ -1,5 +1,3 @@
-###DEC-077278-0-000-10-03-1976@@@
-
 DECRETO Nº 77.278, DE 10 DE MARÇO DE 1976
 
 Concede reconhecimento ao curso de Educação Artística da Faculdade de Artes Plásticas de Santos, com sede na cidade de Santos, Estado de São Paulo.

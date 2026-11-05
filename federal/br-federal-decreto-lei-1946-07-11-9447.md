@@ -1,5 +1,3 @@
-###DEL-009447-0-000-11-07-1946@@@
-
 DECRETO-LEI N. 9.447 – DE 11 DE JULHO DE 1946
 
 Abre ao Ministério da Viação e Obras Púbicas o crédito especial de Cr$ 20.000.000,00, para pagamento de material cedido pelo Govêrno americano.

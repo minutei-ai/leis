@@ -1,5 +1,3 @@
-###DEC-081789-0-000-13-06-1978@@@
-
 Decreto nº 81 789, de 13 de junho de 1978.
 
 Concede à Empresa de Mineração Ângelo Micuci Ltda. o direito de lavrar água mineral no Município de São José do Rio Preto, Estado de São Paulo.

@@ -1,14 +1,12 @@
-###DEC-043825-0-000-06-06-1958@@@
+**DECRETO Nº 43.825, DE 6 DE JUNHO DE 1958.**
 
-<strong>DECRETO Nº 43.825, DE 6 DE JUNHO DE 1958.</strong>
+***Altera o Regulamento da Diretoria do Material da Aeronáutica.***
 
-<em><strong>Altera o Regulamento da Diretoria do Material da Aeronáutica.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 14, 15, 22, 24, 25, e 26 do Regulamento da Diretoria do Material da Aeronáutica, aprovado pelo Decreto nº 22.645, de 25 de fevereiro de 1947, passam a vigorar com a redação abaixo:
+**Art**. 1º Os artigos 14, 15, 22, 24, 25, e 26 do Regulamento da Diretoria do Material da Aeronáutica, aprovado pelo Decreto nº 22.645, de 25 de fevereiro de 1947, passam a vigorar com a redação abaixo:
 
 “Art. 14. Para o cumprimento de suas finalidades, a D.M. terá as seguintes divisões, subordinadas diretamente ao D.G.M.
 
@@ -90,12 +88,12 @@ DMB-3 - Manutenção
 
 DMB-4 - Depósito de Material Bélico”.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 6 de junho de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Francisco de Melo

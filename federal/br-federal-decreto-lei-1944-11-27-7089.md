@@ -1,5 +1,3 @@
-###DEL-007089-0-000-27-11-1944@@@
-
 DECRETO-LEI N. 7.089 – DE 27 DE NOVEMBRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 480.000,00 à verba que especifica

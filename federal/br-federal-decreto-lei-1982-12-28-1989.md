@@ -1,5 +1,3 @@
-###DEL-001989-0-000-28-12-1982@@@
-
 # Decreto-lei nº 1.989, de 28 de dezembro de 1982
 
 Dispõe sobre contribuição devida ao Instituto Nacional de Colonização e Reforma Agrária - INCRA e cálculo referente à taxa prevista no Decreto-lei nº 57, de 18 de novembro de 1966 e dá outras providências.

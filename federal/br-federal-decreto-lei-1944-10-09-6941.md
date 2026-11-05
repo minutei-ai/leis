@@ -1,5 +1,3 @@
-###DEL-006941-0-000-09-10-1944@@@
-
 DECRETO-LEI N. 6. 941 – DE 9 DE OUTUBRO DE 1944
 
 Dispõe  sôbre  a aposentadoria de Raimundo Costa

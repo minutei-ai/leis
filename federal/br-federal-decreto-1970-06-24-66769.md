@@ -1,5 +1,3 @@
-###DEC-066769-0-000-24-06-1970@@@
-
 DECRETO Nº 66.769 - DE 24 DE JUNHO DE 1970
 
 Concede reconhecimento à Faculdade de Zootecnia da Pontifícia Universidade Católica do Rio Grande do Sul.

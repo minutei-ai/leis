@@ -1,5 +1,3 @@
-###DEC-066692-0-000-11-06-1970@@@
-
 DECRETO Nº 66.692, DE 11 DE JUNHO DE 1970.
 
 Autoriza o funcionamento da Faculdade de Educação Física de Santo André, SP.

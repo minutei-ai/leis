@@ -1,5 +1,3 @@
-###DEC-061357-0-000-15-09-1967@@@
-
 DECRETO Nº 61.357, DE 15 DE SETEMBRO DE 1967.
 
 Autoriza estrangeiro a adquirir em confirmação de aforamento, o domínio útil da fração ideal do terreno de marinha que menciona, no Estado da Guanabara.

@@ -1,5 +1,3 @@
-###DEC-071103-0-000-14-09-1972@@@
-
 DECRETO Nº 71.103, DE 14 DE SETEMBRO DE 1972.
 
 Declara sem efeito o Decreto número 37.420, de 2 de junho de 1955.

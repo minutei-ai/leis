@@ -1,5 +1,3 @@
-###DEC-091224-0-000-02-05-1985@@@
-
 Decreto nº 91.224, de 02 de maio de 1985
 
 Concede ao instituto de Resseguros do Brasil - IRB autorização para proceder a aumento do seu capital social e altera seus Estatutos.

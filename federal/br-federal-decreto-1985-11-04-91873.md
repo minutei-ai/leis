@@ -1,5 +1,3 @@
-###DEC-091873-0-000-04-11-1985@@@
-
 Decreto nº 91.873, de 04 de novembro de 1985
 
 Dá novas atribuições ao Conselho Nacional de Direito Autoral.

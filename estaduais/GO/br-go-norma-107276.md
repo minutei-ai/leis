@@ -24,8 +24,6 @@ Art. 5º Esta Lei entra em vigor 120 (cento e vinte) dias após a data de sua pu
 
 Goiânia, 22 de junho de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,7 +1,3 @@
-1
-
-###DEC-001637-0-000-15-09-1995@@@
-
 # DECRETO Nº 1.637, DE 15 DE SETEMBRO DE 1995.
 
 Altera o art. 4º do Decreto nº 1.445, de 5 de abril de 1995, que dispõe sobre a concessão de ajuda de custo e de transporte aos servidores públicos civis da União, das autarquias e das fundações públicas federais.

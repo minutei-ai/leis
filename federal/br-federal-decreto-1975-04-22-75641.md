@@ -1,5 +1,3 @@
-###DEC-075641-0-000-22-04-1975@@@
-
 DECRETO Nº 75.641, DE 22 DE ABRIL DE 1975.
 
 Outorga à Usina Jaciara S.A. concessão para o aproveitamento hidráulico de um trecho do Rio Tenente Amaral, no local denominado Cachoeira da Fumaça, no Estado de Mato Grosso, Para Uso Exclusivo.

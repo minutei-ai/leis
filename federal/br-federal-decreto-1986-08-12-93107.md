@@ -1,5 +1,3 @@
-###DEC-093107-0-000-12-08-1986@@@
-
 DECRETO Nº 93.107, DE 12 DE AGOSTO DE 1986
 
 Concede autorização ao navio de pesquisa ''MIKHAIL LOMONOSSOV'', de bandeira soviética, para realizar em águas jurisdicionais brasileiras os serviços que especifica.

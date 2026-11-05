@@ -1,5 +1,3 @@
-###DEC-046466-0-000-20-07-1959@@@
-
 DECRETO Nº 46.466, DE 20 DE JULHO DE 1959.
 
 Fixa o símbolo da função gratificada de Inspetor da Alfândega de Itajaí, criada pela Lei nº 2.413, de 5 de fevereiro de 1955.

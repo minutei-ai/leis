@@ -1,5 +1,3 @@
-###DEC-053115-0-000-10-12-1963@@@
-
 decreto nº 53.115, de 10 de dezembro de 1963.
 
 Renova o Decreto nº 48.394, de 23 de junho de 1960.

@@ -1,5 +1,3 @@
-###DEC-085726-0-000-16-02-1981@@@
-
 Decreto nº 85.726, de 16 de fevereiro de 1981.
 
 Revoga o Decreto nº 56.369, de 27 de maio de 1965.

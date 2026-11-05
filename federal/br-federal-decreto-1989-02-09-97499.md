@@ -1,5 +1,3 @@
-###DEC-097499-0-000-09-02-1989@@@
-
 DECRETO N° 97.499, DE 9 DE FEVEREIRO DE 1989
 
 Dispõe sobre a execução do Acordo Regional para a expansão do Comércio Intra-Regional, subscrito entre o Brasil, a Argentina, a Bolívia, a Colômbia, o Chile, o Equador, o México, o Paraguai, o Peru, o Uruguai e a Venezuela.

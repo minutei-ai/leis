@@ -1,5 +1,3 @@
-###DEC-003097-0-000-25-06-1999@@@
-
 Decreto nº 3.097, de 25 de junho de 1999.
 
 Prorroga o prazo de remanejamento, em caráter temporário, estabelecido nos Decretos que menciona.

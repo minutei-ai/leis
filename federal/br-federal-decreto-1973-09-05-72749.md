@@ -1,5 +1,3 @@
-###DEC-072749-0-000-05-09-1973@@@
-
 DECRETO nº 72.749, DE 5 DE SETEMBRO DE 1973.
 
 Concede a mineração Brumal Ltda. o direito de lavrar minérios de ferro e de manganês, no Município de Santa Bárbara, Estado de Minas Gerais.

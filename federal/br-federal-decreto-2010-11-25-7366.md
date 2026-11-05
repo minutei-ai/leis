@@ -1,5 +1,3 @@
-###DEC-007366-0-000-25-11-2010-PUB-01@@@
-
 DECRETO Nº 7.366, DE 25 DE NOVEMBRO DE 2010.
 
 Autoriza a integralização de cotas do Fundo Garantidor da Habitação Popular - FGHab.

@@ -1,5 +1,3 @@
-###DEC-000068-0-000-21-03-1991@@@
-
 DECRETO Nº 68, DE 21 DE MARÇO DE 1991
 
 Promulga o Ajuste Complementar ao Acordo Básico de Cooperação Cientifica e Técnica para o Estabelecimento de um Programa de Cooperação na Área de Pesquisa sobre Agentes Patógenos do Dendê, entre o Governo da República Federativa do Brasil e o Governo da República do Suriname.

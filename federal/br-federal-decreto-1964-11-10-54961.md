@@ -1,5 +1,3 @@
-###DEC-054961-0-000-10-11-1964@@@
-
 Decreto nº 54.961, de 10 de novembro de 1964.
 
 Declara de utilidade pública a irmandade da Santa Casa de Londrina, com sede em Londrina, Estado do Paraná.

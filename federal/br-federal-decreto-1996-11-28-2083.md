@@ -1,7 +1,3 @@
-1
-
-###DEC-002083-0-000-28-11-1996@@@
-
 DECRETO Nº 2.083, DE 28 DE NOVEMBRO DE 1996.
 
 Autoriza a negociação de Notas do Tesouro Nacional entre o Fundo Nacional de Desenvolvimento - FND e a Petróleo Brasileiro S.A. - PETROBRÁS e suas subsidiárias e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072747-0-000-05-09-1973@@@
-
 DECRETO Nº 72.747, DE 5 DE SETEMBRO DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-084837-0-000-24-06-1980@@@
-
 Decreto nº 84.837, de 24 de junho de 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária a implantação da subestação Morro Azul , da  Companhia Paulista de Força e Luz - CPFL, NO Estado de São Paulo.

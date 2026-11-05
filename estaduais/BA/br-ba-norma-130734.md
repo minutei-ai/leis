@@ -1,6 +1,7 @@
 LEI Nº 13.564 DE 20 DE JUNHO DE 2016
 
-Ver também:<br>
+Ver também:
+
 Art. 1º do Decreto nº [21.716](https://www.legislabahia.ba.gov.br/documentos/decreto-no-21716-de-08-de-novembro-de-2022) de 08 de novembro de 2022: "Fica prorrogado, até 31 de dezembro de 2026, o prazo de vigência do Decreto nº [16.970](https://www.legislabahia.ba.gov.br/documentos/decreto-no-16970-de-19-de-agosto-de-2016), de 19 de agosto de 2016, que regulamenta a Lei nº 13.564, de 20 de junho de 2016, definindo os procedimentos de cálculo e recolhimento do valor do depósito destinado ao Fundo Estadual de Combate e Erradicação da Pobreza, para efeito de fruição de benefício e incentivo fiscal ou financeiro."
 
 Institui condição para concessão e manutenção de benefícios e incentivos fiscais ou financeiros relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS.

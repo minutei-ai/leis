@@ -1,5 +1,3 @@
-###DEC-083098-0-000-29-01-1979@@@
-
 DecretO nº 83.098, de 29 de janeiro de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Natal, Estado do Rio Grande do Norte.

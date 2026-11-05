@@ -52,17 +52,21 @@ Art. 11 - Esta Lei entra em vigor na data da sua publicação.
 
 PALÁCIO DO GOVERNO DO ESTADO DA BAHIA, em 02 de junho de 2015.
 
-Retificada no DOE de 27.06.2015.<br>
-Nos §§ 2º e 3º do art. 3º da Lei nº 13.352, de 02 de junho de 2015, publicada no Diário Oficial do Estado de 03 de junho de 2015:<br>
-<br>
-ONDE SE LÊ:<br>
-...§ 2º - A representação indicada no § 2º deste artigo...<br>
-...§ 3º - A representação indicada no § 2º deste artigo...<br>
-<br>
-LEIA-SE:<br>
-...§ 2º - A representação indicada no § 1º deste artigo...<br>
-...§ 3º - A representação indicada no § 1º deste artigo...<br>
-<br>
+Retificada no DOE de 27.06.2015.
+
+Nos §§ 2º e 3º do art. 3º da Lei nº 13.352, de 02 de junho de 2015, publicada no Diário Oficial do Estado de 03 de junho de 2015:
+
+ONDE SE LÊ:
+
+...§ 2º - A representação indicada no § 2º deste artigo...
+
+...§ 3º - A representação indicada no § 2º deste artigo...
+
+LEIA-SE:
+
+...§ 2º - A representação indicada no § 1º deste artigo...
+
+...§ 3º - A representação indicada no § 1º deste artigo...
 
 RUI COSTA
 

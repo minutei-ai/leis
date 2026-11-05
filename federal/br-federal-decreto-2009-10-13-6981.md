@@ -1,5 +1,3 @@
-###DEC-006981-0-000-13-10-2009@@@
-
 DECRETO Nº 6.981, DE 13 DE OUTUBRO DE 2009.
 
 Regulamenta o art. 27, § 6o, inciso I, da Lei no 10.683, de 2003, dispondo sobre a atuação conjunta dos Ministérios da Pesca e Aquicultura e do Meio Ambiente nos aspectos relacionados ao uso sustentável dos recursos pesqueiros.

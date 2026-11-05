@@ -1,5 +1,3 @@
-###DEC-045853-0-000-22-04-1959@@@
-
 DECRETO Nº 45.853, DE 22 DE ABRIL DE 1959.
 
 Autoriza a Central Elétrica do Piau S.A. a constituir 2ª Hipoteca sobre os seus bens em favor do Banco Nacional do Desenvolvimento Econômico.

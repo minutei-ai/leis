@@ -1,5 +1,3 @@
-###DEC-065136-0-000-11-09-1969@@@
-
 DECRETO Nº 65.136 - DE 11 DE SETEMBRO DE 1969.
 
 Acrescenta dispositivos ao Regulamento Disciplinar do Exército, aprovado pelo Decreto nº 8.835, de 23 fevereiro de 1942 e dá outras providências.

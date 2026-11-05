@@ -1,5 +1,3 @@
-###DEC-079870-0-000-27-06-1977@@@
-
 DECRETO Nº 79.870, DE 27 DE JUNHO DE 1977
 
 Concede reconhecimento aos cursos de Administração e de Ciências Contábeis da Faculdade de Economia São Luís, com sede na Cidade de São Paulo, Estado de São Paulo.

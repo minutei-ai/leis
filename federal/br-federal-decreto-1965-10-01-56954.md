@@ -1,5 +1,3 @@
-###DEC-056954-0-000-01-10-1965@@@
-
 DECRETO Nº 56.954, DE 1º DE OUTUBRO DE 1965.
 
 Concede autorização para funcionar como emprêsa de energia elétrica a Fôrça e Luz Coronel Vivida Ltda.

@@ -1,5 +1,3 @@
-###DEC-047313-0-000-02-12-1959@@@
-
 DECRETO Nº 47.313, DE 2 DE DEZEMBRO DE 1959.
 
 Declara de utilidade pública duas áreas de terra, necessárias à passagem das linhas de transmissão Fortes-Cascadura, da Rio Light S. A. - Serviço de Eletricidade e Carris, e dá outras providências.
@@ -45,8 +43,6 @@ Rio de Janeiro, 2 de dezembro de 1959; 138º da Independência e 71º da Repúbl
 Juscelino Kubitschek
 
 Mário Meneghetti
-
-###DEC-047313-0-000-02-12-1959@@@RET01+++
 
 DECRETO Nº 47.313, DE 2 DE DEZEMBRO DE 1959.
 

@@ -1,5 +1,3 @@
-###DEC-051867-0-000-26-03-1963@@@
-
 DECRETO Nº 51.867, DE 26 DE MARÇO DE 1963.
 
 Extingue, no Ministério da Educação e Cultura, as Companhias que menciona.

@@ -4,10 +4,12 @@ Institui o Código de Obras e Edificações do Município de Aparecida de Goiân
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI COMPLEMENTAR:
 
-TÍTULO I<br>
+TÍTULO I
+
 DAS OBRAS E EDIFICAÇÕES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º O Código de Obras e Edificações é parte integrante do Plano Diretor de Aparecida de Goiânia e está fundamentado nas disposições da Constituição Federal, na Lei nº 10.257/2001 – Estatuto da Cidade e nas demais legislações estaduais e federais concernentes à matéria disciplinada nesta Lei.
@@ -36,7 +38,8 @@ VII - A segurança e a salubridade nas construções;
 
 VIII - O atendimento dos princípios e leis de acessibilidade e desenho universal, tanto nos espaços públicos quanto nos particulares de acesso público.
 
-Seção I<br>
+Seção I
+
 Dos Objetivos
 
 Art. 6º O Código de Obras e Edificações do Município tem como objetivos:
@@ -55,7 +58,8 @@ Art. 8º Para o licenciamento das atividades previstas nesta Lei, será observad
 
 Art. 9º A aprovação dos projetos, o licenciamento de obras, a sua execução, manutenção e conservação, serão reguladas pelo presente Código, pelas normas regulamentares editadas por Decreto Municipal, obedecidas as normas federais e estaduais relativas à matéria e, as normas da Associação Brasileira de Normas Técnicas - ABNT.
 
-Seção II<br>
+Seção II
+
 Das Considerações Gerais
 
 Art. 10 Os serviços e as obras de edificações realizados no Município serão identificados de acordo com a seguinte classificação:
@@ -96,10 +100,12 @@ Art. 15 Para construção ou reforma de instalações capazes de causar, sob qua
 
 Parágrafo único. Consideram-se impactos ao meio ambiente natural e construído as interferências negativas nas condições da qualidade e volume das águas superficiais e subterrâneas, do solo, do ar, da insolação e acústica das edificações e suas áreas vizinhas e do uso do espaço urbano.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS DIREITOS E RESPONSABILIDADES
 
-Seção I<br>
+Seção I
+
 Do Município
 
 Art. 16 Cabe ao Município a aprovação dos projetos arquitetônicos e, quando necessário os projetos complementares de engenharia, observando as disposições deste Código e seu Regulamento, bem como os padrões urbanísticos definidos pelo Plano Diretor.
@@ -110,7 +116,8 @@ Parágrafo único: Compete também ao Município fiscalizar a manutenção das c
 
 Art. 18 O Município deverá assegurar, por meio do órgão competente, o acesso aos munícipes a todas as informações contidas na legislação urbanística, pertinentes ao imóvel a ser construído ou atividade a ser realizada.
 
-Seção II<br>
+Seção II
+
 Do Proprietário ou Possuidor
 
 Art. 19 O proprietário do imóvel, seu sucessor a qualquer título ou o possuidor de direito é responsável pela manutenção das condições de estabilidade, segurança e salubridade do imóvel, bem como pela observância das disposições deste Código e das Leis Municipais relacionadas.
@@ -135,7 +142,8 @@ I - Pela manutenção das condições de estabilidade, higiene, segurança e sal
 
 II - Pela contratação de profissional habilitado para exercer a qualidade de autor do projeto e responsável técnico da obra.
 
-Seção III<br>
+Seção III
+
 Dos Profissionais Legalmente Habilitados
 
 Art. 25 Para efeito deste Código, somente profissionais ou pessoas jurídicas habilitadas e devidamente inscritas no Cadastro do Município, poderão assinar documentos, projetos ou especificações como responsáveis técnicos.
@@ -186,10 +194,12 @@ IV - Número do Alvará de Construção e Licença de Projeto, com o prazo de va
 
 Art. 34 Nos casos de afastamento do responsável técnico pela obra, o proprietário deve protocolar comunicação por escrito ao órgão competente do Município, que fará a imediata suspensão do alvará de construção, com paralisação imediata da obra, até a apresentação de novo responsável técnico.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOs instrumentos de controle das obras e das atividades edilícias
 
-Seção I<br>
+Seção I
+
 Dos Procedimentos Gerais
 
 Art. 35 Por requerimento da parte interessada, havendo informações oficiais, o Município deverá:
@@ -296,7 +306,8 @@ IV- Anulada, em caso de comprovação de ilegalidade em sua expedição.
 
 Art. 49 Para a construção ou reforma de instalações capazes de causar, sob qualquer forma, impactos ao meio ambiente, será exigida a critério do Município, licença prévia ambiental dos órgãos estadual e/ou municipal de controle ambiental, quando da aprovação do projeto, de acordo com o disposto na legislação pertinente.
 
-Seção II<br>
+Seção II
+
 Da Certidão de Uso do Solo e Diretrizes de Ocupação
 
 Art. 50 A certidão de uso e ocupação do solo consiste em documento informativo relativo aos parâmetros urbanísticos, usos e atividades admitidas e definidas na legislação urbanística.
@@ -321,7 +332,8 @@ VI- Restrições do loteamento;
 
 VII- Incidência de instrumentos urbanísticos, principalmente das diretrizes viárias.
 
-Seção III<br>
+Seção III
+
 Certidão de Diretrizes Viárias
 
 Art. 54 A certidão de Diretrizes Viárias consiste em documento informativo relativo à incidência de alargamento viário sobre o terreno.
@@ -330,7 +342,8 @@ Art. 55 As diretrizes serão emitidas conforme as características dos imóveis,
 
 Art. 56 A certidão de Diretrizes Viárias terão validade de 180 (cento e oitenta) dias, contados da data de sua emissão.
 
-Seção III<br>
+Seção III
+
 Do Alvará de Demolição
 
 Art. 57 O Alvará de Demolição é o documento que contem expressa concordância com a demolição total ou parcial de qualquer obra e/ou edificação.
@@ -339,12 +352,14 @@ Art. 58 A parte interessada deverá requerer ao órgão municipal competente, a 
 
 Parágrafo único: Entende-se por projeto legal o projeto de arquitetura completo desenvolvido a partir da legislação vigente e que será submetido à aprovação junto ao órgão competente.
 
-Seção IV<br>
+Seção IV
+
 Do Termo de Comunicação
 
 Art. 59 O Termo de Comunicação consiste em documento formal do Município, endereçado à parte interessada, proprietários públicos ou privados, possuidores e responsáveis técnicos, com o objetivo de comunicar a necessidade de complementação, correção ou prestação e esclarecimentos sobre as peças processuais, projetos e documentos.
 
-Seção V<br>
+Seção V
+
 Do Alvará de Autorização
 
 Art. 60 O Alvará de Autorização consiste em documento autorizativo a ser expedido pelo Município, concomitantemente ou não à solicitação de Licenciamento para:
@@ -411,7 +426,8 @@ V- Manutenção de telhas ou de elementos de suporte da cobertura, sem modifica�
 
 VI- Consertos de instalações elétricas, hidráulicas e/ou sanitárias.
 
-Seção VI<br>
+Seção VI
+
 Do Licenciamento
 
 Art. 61 O Licenciamento é o procedimento obrigatório, destinado a comprovação da adequação do projeto apresentado às normas deste Código e às demais legislações urbanísticas.
@@ -520,7 +536,8 @@ Art. 68 De acordo com a tipologia da edificação indicada no projeto, haverá a
 
 Art. 69 Considerada a tipologia ou uso proposto para a edificação, será necessária apresentação de Estudo Urbanístico Simplificado ou Estudo de Impacto de Vizinhança, de acordo com as exigências do Plano Diretor e da Lei de Uso e Ocupação do Solo.
 
-Seção VII<br>
+Seção VII
+
 Do Alvará Simplificado
 
 Art. 70 Será emitido o Alvará Simplificado para pequenos empreendimentos, flexibilizadas as exigências de parâmetros concernentes aos ambientes internos.
@@ -579,7 +596,8 @@ V- Nome e cotas de largura de logradouros e dos passeios contíguos ao lote, dis
 
 Art. 74 A análise de projetos inseridos para o Alvará Simplificado será realizada pelo órgão municipal responsável, que verificará unicamente o atendimento aos parâmetros urbanísticos do Plano Diretor e Lei de Uso e Ocupação de Solo em vigor.
 
-Seção VIII<br>
+Seção VIII
+
 Do Alvará de Construção
 
 Art. 75 O Alvará de Construção consiste na autorização para início de obra, em conformidade com projeto aprovado e pode se dar simultaneamente a aprovação deste.
@@ -602,7 +620,8 @@ Art. 79 No Alvará de Construção constará o número da Licença de Projeto, o
 
 § 2º. Caracteriza-se obra iniciada aquela com no mínimo 25% de suas fundações concluídas.
 
-Seção IX<br>
+Seção IX
+
 Alvará de Aceite
 
 Art. 80 Fica instituído o Alvará de Aceite para regularização de edificações concluídas com data de construção anterior a 09 de outubro de 2018, que estejam em desacordo com o Código de Obras e Edificações e com a Lei de Uso e Ocupação do Solo do Município.
@@ -677,7 +696,8 @@ Parágrafo único. Para concessão do Alvará de Aceite incidirá, sobre áreas 
 
 Art. 87 Para emissão do Alvará de Aceite deverão ser atendidas as condições de acessibilidade do imóvel conforme a legislação federal e NBR 9050, consideradas as suas alterações.
 
-Seção X<br>
+Seção X
+
 Da Certidão de Conclusão de Obra
 
 Art. 88 A Certidão de Conclusão de Obra consiste em documento obrigatório, comprobatório da conclusão da obra, em conformidade com a Licença, podendo ser parcial ou total.
@@ -704,17 +724,20 @@ Art. 90 Após a emissão da Certidão de Conclusão de Obra, a mesma não poder�
 
 Art. 91 Quando se tratar de conclusão parcial em condomínios, na vistoria para emissão de cada certidão parcial deverá ser verificada a edificação total para a garantia de cumprimento dos índices urbanísticos aprovados no projeto.
 
-Seção XI<br>
+Seção XI
+
 Da Revogação e Anulação de Ato Administrativo
 
 Art. 92 A revogação de licença ou alvará de projeto e/ou de construção ocorrerá mediante processo administrativo.
 
 Art. 93 A licença ou autorização para execução de obra será anulada quando verificado vício ou ilegalidade na sua emissão, mediante o devido processo legal, operando efeito retroativo a data de sua emissão.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA PREPARAÇÃO E INÍCIO DA OBRA
 
-Seção I<br>
+Seção I
+
 Fechamento , Tapumes e Canteiro de Obras
 
 Art. 94 Nenhuma construção, reforma, ampliação ou demolição poderá ser executada sem que esteja obrigatoriamente protegida por tapumes, salvo quando se tratar de execução de muros, grades, gradis ou de pintura e pequenos reparos na edificação que não comprometa a segurança dos pedestres.
@@ -781,7 +804,8 @@ Art. 105 Constatado o descumprimento à intimação pelo proprietário, possuido
 
 Art. 106 Sendo necessária a ação pública frente à inércia do responsável, o Município realizará os procedimentos necessários à garantia de segurança, saúde e atendimentos às normas urbanísticas e, agindo por seus meios, lançará as despesas somadas ao adicional de 20% (vinte por cento), em virtude da administração dos reparos ou da demolição.
 
-Seção II<br>
+Seção II
+
 Plataformas de segurança e vedação externa das obras
 
 Art. 107 Nos processos construtivos é obrigatória a instalação de proteção onde houver risco de queda ou projeção de objetos ou materiais sobre imóveis vizinhos, logradouro ou áreas públicas.
@@ -794,7 +818,8 @@ Art. 110 Durante a execução da obra será obrigatória à colocação de andai
 
 Parágrafo único. As “bandejas salva-vidas” constarão de um estrado horizontal e guarda-corpo conforme normas de segurança do trabalho.
 
-Seção III<br>
+Seção III
+
 Da movimentação de terra e do muro de arrimo
 
 Art. 111 Quando o desnível do terreno, edificado ou não, em relação ao logradouro ou aos terrenos vizinhos for superior a 1,00m (um metro), ou ainda em caso de ameaça de desabamento, será obrigatória a construção de muros de arrimo ou outra solução técnica para a contenção do solo. Vide Anexo V.
@@ -813,10 +838,12 @@ Art. 112 As escavações, movimentos de terra, arrimo e drenagens e outros proce
 
 Art. 113 Caso ocorra a paralisação das atividades de movimentação de terras e/ou construção do muro de arrimo, deverão ser tomadas providências para a estabilização da área movimentada.
 
-CAPITULO V<br>
+CAPITULO V
+
 das NORMAS GERAIS EDILÍCIAS
 
-Seção I<br>
+Seção I
+
 Das Disposições Gerais
 
 Art. 114 Considera-se área construída a soma das áreas dos pavimentos utilizáveis, cobertos ou não, de todos os pavimentos ou níveis de uma edificação.
@@ -851,7 +878,8 @@ Art. 118 O Mezanino não será caracterizado como unidade autônoma sendo defini
 
 Art. 119 As estruturas e paredes edificadas nas divisas do lote deverão ter as faces externas acabadas.
 
-Seção II<br>
+Seção II
+
 Do Alinhamento Predial
 
 Art. 120 Toda construção deverá obedecer ao correto alinhamento predial determinado de acordo com os projetos oficialmente aprovados para o logradouro respectivo.
@@ -864,7 +892,8 @@ Parágrafo Único: Não é permitido a locação de qualquer elemento construtiv
 
 Art. 123 Caso a implantação do arruamento seja executada pelo Município, em desacordo com o projeto original do logradouro, resultando em atingimento do passeio ou do alinhamento predial, o proprietário do terreno prejudicado poderá exigir a sua retificação, sem qualquer ônus para o mesmo.
 
-Seção III<br>
+Seção III
+
 Dos Recuos
 
 Art. 124 Os afastamentos estabelecidos pela legislação urbanística não poderão receber nenhum tipo de edificação ou elemento construtivo, exceto os casos previstos neste Código.
@@ -889,7 +918,8 @@ Art. 126 Os recuos e afastamentos mínimos deverão atender ao disposto na Tabel
 
 §3º. Quando o prolongamento dos alinhamentos do terreno formarem um ângulo interno inferior a 90º (noventa graus) o recuo frontal exigido também deverá ser obedecido no chanfro.
 
-Seção IV<br>
+Seção IV
+
 Dos Muros
 
 Art. 127 O fechamento do lote deverá ser obrigatório nas laterais e fundos, com altura mínima de 1,80m (um metro e oitenta centímetros) e altura máxima de 2,50m (dois metros e cinquenta centímetros) em relação ao terreno e seu perfil natural. Vide Anexo V.
@@ -902,7 +932,8 @@ Art. 128 O fechamento na divisa frontal, bem como lateral correspondente ao recu
 
 Parágrafo único: Os fechamentos frontais preferencialmente devem garantir permeabilidade visual, através de material translúcido como vidro ou gradil.
 
-Seção V<br>
+Seção V
+
 Das Aberturas, Fosso de Ventilação e/ou Iluminação
 
 Art. 129 Os compartimentos não podem ter vãos de iluminação, ventilação e insolação inferiores ao mínimo definido nas normas da Associação Brasileira de Normas Técnicas - ABNT.
@@ -949,7 +980,8 @@ Parágrafo Único: Admite-se exaustão mecânica em sanitário, desde que compro
 
 Art. 138 As aberturas de iluminação e de ventilação dos compartimentos, quando voltadas para áreas cobertas com profundidade superior a 3,00 m (três metros), devem ser acrescidas em 20% (vinte por cento) por cada metro excedente aos 3,00 m (três metros), não se aplicando a regra aos compartimentos situados nos pilotis dos edifícios.
 
-Seção VI<br>
+Seção VI
+
 Da Ventilação Indireta, Especial ou Zenital
 
 Art. 139 Os compartimentos de permanência transitória em edifícios não residenciais podem ser dotados de ventilação indireta ou ventilação artificial de acordo com os seguintes requisitos:
@@ -962,7 +994,8 @@ Art. 140 - Os compartimentos de permanência prolongada, de uso não residencial
 
 Art. 141 - Os compartimentos de permanência prolongada, de uso não residencial, quando separados por divisórias ou similares e dotados de sistemas de refrigeração e exaustão mecânica não precisam de aberturas para insolação e iluminação.
 
-Seção VII<br>
+Seção VII
+
 Da Baia de Lixo
 
 Art. 142 - Qualquer edificação ou conjunto de edificações com mais de 750m² (setecentos e cinquenta metros quadrados) deverá ser dotada de espaço ou abrigo destinado à guarda de lixo.
@@ -983,7 +1016,8 @@ Art. 145 Os estabelecimentos de saúde com risco de contaminação deverão cont
 
 Art. 146 Todas as questões referentes aos resíduos devem seguir também as normas ambientais e ao Plano Municipal de Resíduos Sólidos, inclusive quanto a separação do lixo orgânico e lixo reciclável.
 
-Seção VIII<br>
+Seção VIII
+
 Das Escavações, Aterros e Lençol Freático
 
 Art. 147 Fica proibido o rebaixamento e/ou bombeamento permanente de água do lençol freático, conforme normatização técnica, sendo permitido o rebaixamento e/ou bombeamento provisório de água do lençol freático para a execução da fundação da obra, vinculado ao licenciamento ambiental.
@@ -1024,12 +1058,14 @@ Art. 152 As disposições do artigo anterior deverão ser igualmente aplicadas n
 
 Art. 153 É facultada a ocupação dos recuos laterais e fundo por subsolo desde que atendida à permeabilidade exigida para o local.
 
-Seção IX<br>
+Seção IX
+
 Das Paredes e Vedações
 
 Art. 154 As paredes e/ou vedações deverão ter espessura compatíveis com o material utilizado, garantida a resistência, impermeabilidade, isolamento térmico e acústico da construção.
 
-Seção X<br>
+Seção X
+
 Das Portas, Passagens ou Corredores
 
 Art. 155 As portas de acesso às edificações, bem como as passagens ou corredores, devem ter largura suficiente para o escoamento dos compartimentos ou setores da edificação a que dão acesso.
@@ -1044,7 +1080,8 @@ II- Quando de uso coletivo, a largura livre deverá corresponder a 1,20m (um met
 
 Art. 157 As passagens ou corredores devem atender as normas técnicas devendo ser consideradas a tipologia e a classificação das construções, desde que obedecendo à largura mínima de 1,20m (um metro e vinte centímetros).
 
-Seção XI<br>
+Seção XI
+
 Da Circulação Horizontal, Escadas, Rampas e Elevadores
 
 Art. 158 As circulações horizontais e verticais de uso comum ou coletivo, em edificações deverão atender ao Código de Prevenção e Combate à Incêndio e Pânico do Estado de Goiás.
@@ -1101,7 +1138,8 @@ Art. 166 As circulações horizontais e verticais – escadas e rampas - de uso 
 
 §2º. O local destinado ao estacionamento de veículos, quando em desnível em relação à edificação, deverá ser ligado à mesma com condições de acesso e circulação.
 
-Seção XII<br>
+Seção XII
+
 Das Fachadas, Marquises, Balanços e Coberturas
 
 Art. 167 É livre a composição das fachadas, executando as localizadas perto das edificações tombadas, devendo, neste caso, ser consultado o órgão federal, estadual ou municipal competente.
@@ -1136,13 +1174,36 @@ Tabela I - Tabela de Saliências, desde que não sejam elementos estruturais:
 
 Tabela I - Tabela de Saliências:
 
-<table class="Table" style="width: 933px; border-collapse: collapse; border: none;" width="631"><tbody><tr><td style="   width: 563px; ">Saliências</td><td style=" width: 338px;    ">Balanço máximo sobre os recuos obrigatórios</td></tr><tr><td style=" width: 563px;    ">Aba horizontal e vertical, Brise, Jardineira, Floreira, Balcão, Pérgola e Ornamento</td><td style=" width: 338px;    ">60 cm (sessenta centímetros) a partir da laje de cobertura do pavimento térreo</td></tr><tr><td style=" width: 563px;    ">Beiral da cobertura</td><td style=" width: 338px;    ">1,20m (um metro e vinte centímetros)</td></tr><tr><td style=" width: 563px;    ">Coroamento - considerado para edificação acima de 9,00m (nove metros) de altura</td><td style=" width: 338px;    ">1,50m (um metro e cinquenta centímetros)</td></tr><tr><td style=" width: 563px;    ">Elemento de composição de fachada como complemento da cobertura</td><td style=" width: 338px;    ">1,50m (um metro e cinquenta centímetros)</td></tr><tr><td style=" width: 563px;    ">Enchimento/Bonecas para passagem de tubulação</td><td style=" width: 338px;    ">20 cm (vinte centímetros) até o nível do térreo</td></tr></tbody></table>
+Saliências
+
+Balanço máximo sobre os recuos obrigatórios
+
+Aba horizontal e vertical, Brise, Jardineira, Floreira, Balcão, Pérgola e Ornamento
+
+60 cm (sessenta centímetros) a partir da laje de cobertura do pavimento térreo
+
+Beiral da cobertura
+
+1,20m (um metro e vinte centímetros)
+
+Coroamento - considerado para edificação acima de 9,00m (nove metros) de altura
+
+1,50m (um metro e cinquenta centímetros)
+
+Elemento de composição de fachada como complemento da cobertura
+
+1,50m (um metro e cinquenta centímetros)
+
+Enchimento/Bonecas para passagem de tubulação
+
+20 cm (vinte centímetros) até o nível do térreo
 
 Art. 173 As sacadas deverão respeitar os recuos laterais e de fundo definidos em Lei, podendo avançar sobre o recuo frontal em no máximo 1,50m (um metro e meio). 
 
 Parágrafo único. A sacada não será computada no índice de aproveitamento se tiver área útil de até 5% (cinco por cento) da área do apartamento.
 
-Seção XIII<br>
+Seção XIII
+
 Das Calçadas
 
 Art. 174 A construção e manutenção do passeio é de responsabilidade do proprietário, titular de domínio útil ou possuidor de imóvel, lote ou edificação e seguirá normatização específica, sendo composta dos seguintes seguimentos:
@@ -1159,7 +1220,8 @@ Art. 176 As calçadas dos imóveis deverão instalar piso tátil conforme crité
 
 Art. 177 Os rebaixos de meio-fio para pedestres são obrigatórios nos lotes de esquina e junto à faixa de pedestres devendo atender a NBR 9050 e alterações posteriores.
 
-Seção XIV<br>
+Seção XIV
+
 Das Pérgulas
 
 Art. 178 Será permitida a construção de pérgulas situadas sobre aberturas necessárias à insolação e ventilação dos compartimentos ou em faixas de recuo mínimo obrigatório, nas seguintes condições:
@@ -1180,7 +1242,8 @@ III- A parte vazada não poderá ter qualquer tipo de fechamento. 
 
 Parágrafo único: As pérgulas em desconformidade com a legislação serão consideradas, para efeito de cálculo de taxa de ocupação, como área construída, contada a área de sua projeção.
 
-Seção XV<br>
+Seção XV
+
 Do Cone Aéreo
 
 Art. 180 Conforme Plano Básico de Zona de Proteção de Aeródromo (PBZPA) definido pelo Controle do Espaço Aéreo do Comando da Aeronáutica (COMAER) e aprovado pelo Comando Aéreo Regional (COMAR) para o Aeródromo Antares Aeroporto Executivo, cuja operação será do tipo “VFR” (diurno/noturno), que indica a operação de pouso e decolagem de aeronaves por controle visual, estabelece-se as restrições descritas abaixo conforme I- Anexo:
@@ -1195,7 +1258,8 @@ IV- Superfície de Aproximação Visual: os objetos projetados no espaço aéreo
 
 V- Superfície de Decolagem Visual: os objetos projetados no espaço aéreo dessa região deverão obedecer aos limites de 2m (dois metros) a cada 100m (cem metros) de distância da cota das cabeceiras da pista, até uma distância de 15.000m (quinze mil metros) do limite da faixa de pista em cada cabeceira. As cotas de elevação máxima são as mesmas da superfície de aproximação. Os objetos projetados no espaço aéreo que excederem 40m (quarenta metros) de altura a uma distância horizontal de 2.000m (dois mil metros) da cabeceira 31 (trinta e um) ou cota de elevação 795,00m (setecentos e noventa e cinco metros), deverão ser analisadas pelo COMAR.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 VAGAS DE ESTACIONAMENTO
 
 Art. 181 O número de vagas de estacionamento e área de carga e descarga será definido por tipologia, considerada a área ocupada pela atividade de acordo com a Lei Complementar Nº 152, de 09 de outubro de 2018.
@@ -1220,7 +1284,8 @@ III- Para testada com mais de um acesso, o intervalo entre guias rebaixadas não
 
 IV- Ter uma distância mínima de 10m (dez metros) do encontro dos alinhamentos prediais na esquina, exceto quando se tratar de garagem ou estacionamento com área superior a 2.000m (dois mil metros quadrados), quando esta distância mínima passa a ser de 25m (vinte e cinco metros);
 
-V- Em nenhuma hipótese poderá ser construída rampa obstruindo a sarjeta para acesso de veículos e pedestres.<br>
+V- Em nenhuma hipótese poderá ser construída rampa obstruindo a sarjeta para acesso de veículos e pedestres.
+
 Parágrafo único. Para acesso de até 30 (trinta) veículos, admitir-se-á acesso único com largura de 3,00m (três metros).
 
 Art. 184 Para análise do espaço destinado ao estacionamento ou garagem deverá ser apresentada planta da área ou pavimento com a demarcação das guias rebaixadas, acessos, corredores de circulação, espaços de manobra, sentido de fluxo, numeração de vagas, arborização e vagas individualizadas.
@@ -1239,16 +1304,17 @@ Art. 187 Deverão ser previstos espaços de manobra e estacionamento de veículo
 
 Art. 188 As vagas para estacionamento de veículos serão dimensionadas em função do tipo de veículo e os espaços de manobra e acesso em função do ângulo formado pelo comprimento da vaga e a faixa de acesso, respeitadas as dimensões mínimas, estabelecidas nas Tabelas e no Anexo XI deste código.
 
-<br>
-TABELA II<br>
+TABELA II
+
 Exigências mínimas para Rampas (em metros)
 
-<table class="Table" style="border-collapse: collapse; border: none; width: 853px;"><tbody><tr><td rowspan="2" style=" width:79px;    ">RAMPA</td><td colspan="2" style=" width:162px;    ">LARGURA (L)</td><td rowspan="2" style=" width:79px;    ">PÉ DIREITO</td><td rowspan="2" style=" width:107px;    ">INCLINAÇÃO MÁXIMA (%)</td><td rowspan="2" style=" width:82px;    ">RAIO INTERNO (R)</td><td rowspan="2" style=" width: 182px;    ">PATAMAR DE ACOMODAÇÃO</td></tr><tr><td style=" width:85px;    ">Sentido único</td><td style=" width:77px;    ">Sentido duplo</td></tr><tr><td style=" width:79px;    ">RETA</td><td style=" width:85px;    ">3,00</td><td style=" width:77px;    ">5,00</td><td rowspan="3" style=" width:79px;    ">2,40</td><td style=" width:107px;    ">20</td><td rowspan="3" style=" width:82px;    ">3,50</td><td rowspan="3" style=" width: 182px;    ">5,00</td></tr><tr><td rowspan="2" style=" width:79px;    ">CURVA</td><td style=" width:85px;    ">3,50</td><td style=" width:77px;    ">-</td><td style=" width:107px;    ">18</td></tr><tr><td style=" width:85px;    ">-</td><td style=" width:77px;    ">6,00</td><td style=" width:107px;    ">15</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="2">RAMPA</td><td colspan="2">LARGURA (L)</td><td rowspan="2">PÉ DIREITO</td><td rowspan="2">INCLINAÇÃO MÁXIMA (%)</td><td rowspan="2">RAIO INTERNO (R)</td><td rowspan="2">PATAMAR DE ACOMODAÇÃO</td></tr><tr><td>Sentido único</td><td>Sentido duplo</td></tr><tr><td>RETA</td><td>3,00</td><td>5,00</td><td rowspan="3">2,40</td><td>20</td><td rowspan="3">3,50</td><td rowspan="3">5,00</td></tr><tr><td rowspan="2">CURVA</td><td>3,50</td><td>-</td><td>18</td></tr><tr><td>-</td><td>6,00</td><td>15</td></tr></tbody></table>
 
-TABELA III – DIMENSÕES DE VAGAS E FAIXAS DE ACESSO E MANOBRA<br>
+TABELA III – DIMENSÕES DE VAGAS E FAIXAS DE ACESSO E MANOBRA
+
 Exigências mínimas em metros
 
-<table align="center" class="Table" style="border-collapse:collapse; border:none"><tbody><tr><td style=" width:132px;    ">&nbsp;</td><td colspan="3" style=" width:308px;    ">VAGA DE ESTACIONAMENTO</td><td colspan="2" style=" width:160px;    ">FAIXA DE ACESSO E MANOBRA À VAGA (F)</td></tr><tr><td style=" width:132px;    ">Tipo de Veículo</td><td style=" width:87px;    ">Altura (H)</td><td style=" width:95px;    ">Largura (L)</td><td style=" width:126px;    ">Comprimento (C)</td><td style=" width:80px;    ">0 a 45°</td><td style=" width:80px;    ">46° a 90°</td></tr><tr><td style=" width:132px;    ">Carro</td><td style=" width:87px;    ">2,25</td><td style=" width:95px;    ">2,40</td><td style=" width:126px;    ">4,80</td><td style=" width:80px;    ">3,00</td><td style=" width:80px;    ">4,80</td></tr><tr><td style=" width:132px;    ">Acessibilidade</td><td colspan="3" style=" width:308px;    ">ABNT NBR 9050 e alterações</td><td style=" width:80px;    ">3,00</td><td style=" width:80px;    ">4,80</td></tr><tr><td style=" width:132px;    ">Moto</td><td style=" width:87px;    ">2,25</td><td style=" width:95px;    ">1,00</td><td style=" width:126px;    ">2,00</td><td style=" width:80px;    ">1,20</td><td style=" width:80px;    ">2,00</td></tr></tbody></table>
+<table><tbody><tr><td>&nbsp;</td><td colspan="3">VAGA DE ESTACIONAMENTO</td><td colspan="2">FAIXA DE ACESSO E MANOBRA À VAGA (F)</td></tr><tr><td>Tipo de Veículo</td><td>Altura (H)</td><td>Largura (L)</td><td>Comprimento (C)</td><td>0 a 45°</td><td>46° a 90°</td></tr><tr><td>Carro</td><td>2,25</td><td>2,40</td><td>4,80</td><td>3,00</td><td>4,80</td></tr><tr><td>Acessibilidade</td><td colspan="3">ABNT NBR 9050 e alterações</td><td>3,00</td><td>4,80</td></tr><tr><td>Moto</td><td>2,25</td><td>1,00</td><td>2,00</td><td>1,20</td><td>2,00</td></tr></tbody></table>
 
 Art. 189 Para a vaga, quando paralela à faixa de acesso \[“baliza” = 0° (zero grau)\], será acrescida 0,50m (cinquenta centímetros) na largura para automóveis e utilitários e 1,00m (um metro) no comprimento.
 
@@ -1264,7 +1330,8 @@ Art. 191 Não é permitido estacionamento de veículos no recuo frontal de imóv
 
 §3º. Quando o lote não fizer frente para o Eixo de Integração ou Desenvolvimento Econômico, mas receber o zoneamento por estar nas condições definidas no Plano Diretor, o recuo frontal deverá respeitar aos parâmetros e contrapartidas definidos para uso específico de Eixo, vide Anexo XIV.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DA CLASSIFICAÇÃO DAS EDIFICAÇÕES
 
 Art. 192 Conforme a natureza, o porte e o impacto da atividade a que se destinam, as edificações são organizadas em categorias e subcategorias, a saber:
@@ -1285,7 +1352,8 @@ I- Nos zoneamentos demarcados como ZUM-I, ZUM-II, ZEPA II, ZEIS e ZEPA-II, toda 
 
 II- Nos zoneamentos demarcados como Eixos de Integração, Desenvolvimento Econômico e ZDE, toda a área construída com exceção de áreas destinadas a estacionamento, embasamento comercial do edifício destinado a atividades públicas e/ou econômicas com altura de 6,50m (seis metros e cinquenta centímetros), ambientes de apoio técnico como barrilete, casa de máquinas, central de gás, laje técnicas e ambientes de lazer em habitações coletivas.
 
-Seção I<br>
+Seção I
+
 Das Edificações Residenciais
 
 Art. 194  As edificações residenciais são destinadas à habitação permanente ou transitória e subdivididas em:
@@ -1310,12 +1378,179 @@ III- Assistência técnica, conforme legislação federal.
 
 Parágrafo único. Nos casos de habitação de interesse social, as unidades poderão ter redução nas dimensões dos ambientes em até 15% (quinze por cento) desde que observados os itens referentes ao caput deste artigo.
 
-Art. 196 As habitações, com exceção dos casos previstos no Alvará Simplificado, deverão obedecer aos parâmetros da Tabela IV de Dimensões Mínimas em Habitação:<br>
+Art. 196 As habitações, com exceção dos casos previstos no Alvará Simplificado, deverão obedecer aos parâmetros da Tabela IV de Dimensões Mínimas em Habitação:
+
  
 
 Tabela IV – Tabela de Dimensões Mínimas em Habitação
 
-<table class="Table" style="border-collapse: collapse; border: none; width: 776px;"><tbody><tr><td style=" width:146px;    ">Compartimentos</td><td style=" width: 102px;    ">Círculo inscrito/diâmetro mínimo (m)**</td><td style=" width: 123px;    ">Área Mínima &nbsp;(m²)**</td><td style=" width: 66px;    ">Iluminação natural mínima *</td><td style=" width: 115px;    ">Ventilação mínima *</td><td style=" width: 133px;    ">Pé-direito mínimo &nbsp;(m)</td></tr><tr><td style=" width:146px;    ">Depósito</td><td style=" width: 102px;    ">1,0</td><td style=" width: 123px;    ">1,5</td><td style=" width: 66px;    ">isento</td><td style=" width: 115px;    ">isento</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Garagem</td><td style=" width: 102px;    ">2,5</td><td style=" width: 123px;    ">-</td><td style=" width: 66px;    ">-</td><td style=" width: 115px;    ">1/20</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Corredor</td><td style=" width: 102px;    ">0,8</td><td style=" width: 123px;    ">-</td><td style=" width: 66px;    ">-</td><td style=" width: 115px;    ">-</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Despensa</td><td style=" width: 102px;    ">1,0</td><td style=" width: 123px;    ">1,5</td><td style=" width: 66px;    ">1/6</td><td style=" width: 115px;    ">1/12</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Escritório/Atelier/Sala de Estudo</td><td style=" width: 102px;    ">2,4</td><td style=" width: 123px;    ">6</td><td style=" width: 66px;    ">1/6</td><td style=" width: 115px;    ">1/12</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Escada</td><td style=" width: 102px;    ">0,8</td><td style=" width: 123px;    ">-</td><td style=" width: 66px;    ">-</td><td style=" width: 115px;    ">-</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Sala de estar</td><td style=" width: 102px;    ">2,5</td><td style=" width: 123px;    ">9</td><td style=" width: 66px;    ">1/7</td><td style=" width: 115px;    ">1/14</td><td style=" width: 133px;    ">2,5</td></tr><tr><td style=" width:146px;    ">Sala de refeições</td><td style=" width: 102px;    ">2,0</td><td style=" width: 123px;    ">5</td><td style=" width: 66px;    ">1/7</td><td style=" width: 115px;    ">1/14</td><td style=" width: 133px;    ">2,5</td></tr><tr><td style=" width:146px;    ">Cozinha</td><td style=" width: 102px;    ">1,8</td><td style=" width: 123px;    ">5</td><td style=" width: 66px;    ">1/10</td><td style=" width: 115px;    ">1/20</td><td style=" width: 133px;    ">2,5</td></tr><tr><td style=" width:146px;    ">1º quarto</td><td style=" width: 102px;    ">2,5</td><td style=" width: 123px;    ">9</td><td style=" width: 66px;    ">1/7</td><td style=" width: 115px;    ">1/12</td><td style=" width: 133px;    ">2,5</td></tr><tr><td style=" width:146px;    ">Demais quartos</td><td style=" width: 102px;    ">2,5</td><td style=" width: 123px;    ">7,5</td><td style=" width: 66px;    ">1/7</td><td style=" width: 115px;    ">1/14</td><td style=" width: 133px;    ">2,5</td></tr><tr><td style=" width:146px;    ">Banheiro</td><td style=" width: 102px;    ">1,0</td><td style=" width: 123px;    ">2</td><td style=" width: 66px;    ">1/10</td><td style=" width: 115px;    ">1/20</td><td style=" width: 133px;    ">2,25</td></tr><tr><td style=" width:146px;    ">Área de serviço</td><td style=" width: 102px;    ">1,0</td><td style=" width: 123px;    ">1,80</td><td style=" width: 66px;    ">1/10</td><td style=" width: 115px;    ">1/20</td><td style=" width: 133px;    ">2,25</td></tr></tbody></table>
+Compartimentos
+
+Círculo inscrito/diâmetro mínimo (m)**
+
+Área Mínima  (m²)**
+
+Iluminação natural mínima *
+
+Ventilação mínima *
+
+Pé-direito mínimo  (m)
+
+Depósito
+
+1,0
+
+1,5
+
+isento
+
+isento
+
+2,25
+
+Garagem
+
+2,5
+
+-
+
+-
+
+1/20
+
+2,25
+
+Corredor
+
+0,8
+
+-
+
+-
+
+-
+
+2,25
+
+Despensa
+
+1,0
+
+1,5
+
+1/6
+
+1/12
+
+2,25
+
+Escritório/Atelier/Sala de Estudo
+
+2,4
+
+6
+
+1/6
+
+1/12
+
+2,25
+
+Escada
+
+0,8
+
+-
+
+-
+
+-
+
+2,25
+
+Sala de estar
+
+2,5
+
+9
+
+1/7
+
+1/14
+
+2,5
+
+Sala de refeições
+
+2,0
+
+5
+
+1/7
+
+1/14
+
+2,5
+
+Cozinha
+
+1,8
+
+5
+
+1/10
+
+1/20
+
+2,5
+
+1º quarto
+
+2,5
+
+9
+
+1/7
+
+1/12
+
+2,5
+
+Demais quartos
+
+2,5
+
+7,5
+
+1/7
+
+1/14
+
+2,5
+
+Banheiro
+
+1,0
+
+2
+
+1/10
+
+1/20
+
+2,25
+
+Área de serviço
+
+1,0
+
+1,80
+
+1/10
+
+1/20
+
+2,25
 
 Observações: 
 
@@ -1341,13 +1576,16 @@ VI- Vaga para estacionamento de veículos, que mesmo descoberta deverá atender 
 
 Parágrafo único: É facultada a conjugação de ambientes desde que obedecido o maior diâmetro dos ambientes conjugados e o somatório das áreas conforme tabela.
 
-Seção II<br>
+Seção II
+
 Das Residências Isoladas
 
-Art. 198 Considera-se habitação unifamiliar aquela definida por uma unidade habitacional, em edificação para a qual corresponda lote exclusivo. <br>
+Art. 198 Considera-se habitação unifamiliar aquela definida por uma unidade habitacional, em edificação para a qual corresponda lote exclusivo. 
+
 Parágrafo único: As disposições internas dos compartimentos, suas dimensões e função serão de total responsabilidade dos profissionais envolvidos e do proprietário.
 
-Seção III<br>
+Seção III
+
 Das Residências Geminadas e Seriadas Paralelas ao Alinhamento Predial
 
 Art. 199 Considera-se habitação geminada aquela definida por duas unidades habitacionais justapostas ou sobrepostas, em uma mesma edificação, em lote exclusivo e com fração ideal mínima correspondente ao zoneamento do local.
@@ -1370,7 +1608,8 @@ III- Respeitar a fração ideal mínima correspondente ao zoneamento do local.
 
 Art. 203 As disposições internas dos compartimentos, suas dimensões e função serão de responsabilidade dos profissionais envolvidos e do proprietário.
 
-Seção IV<br>
+Seção IV
+
 Das Residências em Série com Acesso Transversal à Via
 
 Art. 204 Consideram-se residências em série transversais ao alinhamento predial, o agrupamento de 02 (duas) ou mais moradias cuja disposição exija a abertura de corredor de acesso.
@@ -1409,7 +1648,8 @@ II- 6,00m (seis metros) quando as edificações estiverem situadas dispostas de 
 
 Art. 210 Deverá ser garantida acessibilidade a todas as áreas comuns do condomínio.
 
-Seção V<br>
+Seção V
+
 Das Habitações Coletivas
 
 Art. 211 As habitações coletivas com área construída de até 2.000m² (dois mil metros quadrados), e com mais de 08 (oito) unidades deverão reservar, obrigatoriamente, espaço destinado à recreação e lazer, coberta ou não, e de uso comum, que atenda às seguintes exigências: 
@@ -1434,7 +1674,8 @@ IV- Ser dotado se estiver em piso acima do solo, de guarda-corpo para proteção
 
 Art. 213 É facultada a supressão de ambientes como cozinha e área de serviço ou afins desde contemplados na área comum do edifício e entregues devidamente equipadas.
 
-Seção VI<br>
+Seção VI
+
 Das Habitações Transitórias – Hotéis
 
 Art. 214 As edificações que se destinam à hospedagem ou moradia temporária como hotéis, pousadas, motéis ou similares deverão dispor, no mínimo, de compartimento ou locais para:
@@ -1459,7 +1700,8 @@ Art.  216 O dimensionamento e o espaço para manobras de vagas deverão ser pre
 
 Art. 217 A edificação destinada à prestação de serviços de hospedagem deverá disponibilizar, dormitórios acessíveis conforme legislação específica.
 
-Seção VII<br>
+Seção VII
+
 Das Habitações Transitórias – Kitinetes
 
 Art. 218 Considera-se quitinete a unidade residencial com área útil privativa máxima de 36,00m² (trinta e seis metros quadrados), com finalidade exclusiva de habitação temporária.
@@ -1474,7 +1716,65 @@ Parágrafo único. Mesmo conjugados, os ambientes deverão atender ao dimensiona
 
 Tabela V – Tabela de Dimensões Mínimas em Habitações Conjugadas – Kitinetes
 
-<table><tbody><tr><td style=" width:142px;    ">Compartimento</td><td style=" width: 64px;    ">Círculo inscrito/ diâmetro mínimo (m)**</td><td style=" width: 119px;    ">Área &nbsp;mínima (m²)**</td><td style=" width:89px;    ">Iluminação natural mínima *</td><td style=" width:88px;    ">Ventilação mínima *</td><td style=" width: 116px;    ">Pé direito mínimo (m)</td></tr><tr><td style=" width:142px;    ">Sala de Estar</td><td style=" width: 64px;    ">2,40</td><td style=" width: 119px;    ">9,00</td><td style=" width:89px;    ">1/7</td><td style=" width:88px;    ">1/14</td><td style=" width: 116px;    ">2,5</td></tr><tr><td style=" width:142px;    ">Cozinha/Área de serviço</td><td style=" width: 64px;    ">1,50</td><td style=" width: 119px;    ">5,00</td><td style=" width:89px;    ">1/10</td><td style=" width:88px;    ">1/20</td><td style=" width: 116px;    ">2,50</td></tr><tr><td style=" width:142px;    ">Quarto</td><td style=" width: 64px;    ">2,40</td><td style=" width: 119px;    ">9,00</td><td style=" width:89px;    ">1/7</td><td style=" width:88px;    ">1/14</td><td style=" width: 116px;    ">2,50</td></tr><tr><td style=" width:142px;    ">Banheiro</td><td style=" width: 64px;    ">1,00</td><td style=" width: 119px;    ">2,00</td><td style=" width:89px;    ">1/10</td><td style=" width:88px;    ">1/20</td><td style=" width: 116px;    ">2,25</td></tr></tbody></table>
+Compartimento
+
+Círculo inscrito/ diâmetro mínimo (m)**
+
+Área  mínima (m²)**
+
+Iluminação natural mínima *
+
+Ventilação mínima *
+
+Pé direito mínimo (m)
+
+Sala de Estar
+
+2,40
+
+9,00
+
+1/7
+
+1/14
+
+2,5
+
+Cozinha/Área de serviço
+
+1,50
+
+5,00
+
+1/10
+
+1/20
+
+2,50
+
+Quarto
+
+2,40
+
+9,00
+
+1/7
+
+1/14
+
+2,50
+
+Banheiro
+
+1,00
+
+2,00
+
+1/10
+
+1/20
+
+2,25
 
 Observações:
 
@@ -1490,7 +1790,8 @@ Art. 222 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 223 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Seção VIII<br>
+Seção VIII
+
 Das Edificações Comerciais, de Prestação de Serviços e Industriais
 
 Art. 224 Os usos comerciais e de prestação de serviços são classificados de acordo com a Tabela de Classificação de Usos e Grau de Incomodidade, anexo ao Plano Diretor e Lei de Uso e Ocupação do Solo.
@@ -1509,7 +1810,8 @@ Parágrafo único: Os centros de distribuição, logística e depósitos equipar
 
 Art. 227 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Seção IX<br>
+Seção IX
+
 Das Edificações de Equipamentos de Atendimento Coletivo e Serviços Urbanos
 
 Art. 228 As edificações relativas aos Equipamentos de Atendimento Coletivo, Serviços urbanos são destinadas as atividades relacionadas à saúde, educação, esporte, cultura, lazer e religião, além de edificações e instalações complementares relativas a serviços de transporte, saneamento ambiental, energia e comunicações.
@@ -1530,7 +1832,8 @@ Art. 230 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 231 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Seção X<br>
+Seção X
+
 Das Edificações de Uso Misto
 
 Art. 232 Atividades residenciais e não-residenciais abrigadas em uma mesma edificação serão permitidas nos casos em que:
@@ -1549,11 +1852,12 @@ Art. 234 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 235 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Seção XI<br>
+Seção XI
+
 Das Edificações de Uso Específico
 
-<br>
-Subseção I<br>
+Subseção I
+
 Do Posto de Abastecimentos e Serviços em Automóveis e Lava-jatos
 
 Art. 236 Os postos de serviços automotivos são destinados às atividades de abastecimento, lubrificação, lavagem e lavagem automática, que podem ser exercidas em conjunto ou isoladamente.
@@ -1598,14 +1902,16 @@ Art. 241 Os postos de serviços automobilísticos e lava jatos deverão dispor d
 
 Art. 242 O quantitativo de vagas de estacionamento deverá atender o previsto na Lei Complementar n 152 de 09 de outubro de 2018 e sucedância.
 
-Subseção II<br>
+Subseção II
+
 Das Garagens ou Estacionamentos Coletivos de Veículos
 
 Art. 243 Os locais cobertos ou descobertos para estacionamento ou guarda de veículos para fins comerciais no interior dos lotes, deverão dispor de compartimento destinado à administração e instalação sanitária.
 
 Parágrafo único. Não será permitido o exercício de qualquer outra atividade no terreno, tais como, lavagem, troca de óleo, consertos de pneus ou pequenos reparos dos veículos, sem licenciamento específico.
 
-Subseção III<br>
+Subseção III
+
 Dos Empreendimentos Esportivos
 
 Art. 244 Os empreendimentos destinados à prática esportiva de qualquer natureza, cobertos ou não, deverão atender aos parâmetros de uso e ocupação do solo conforme o zoneamento específico para o terreno. 
@@ -1624,7 +1930,8 @@ Art. 245 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 246 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Subseção IV<br>
+Subseção IV
+
 Das Atividades de Atenção à Saúde Humana
 
 Art. 247 Será considerada edificação destinada à Atividade de Atenção a Saúde Humana aquela que possibilitar assistência à saúde em geral, com ou sem internação, incluindo, dentre outros, os seguintes tipos:
@@ -1659,7 +1966,8 @@ Art. 249 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 250 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Subseção V<br>
+Subseção V
+
 Da Prestação de Serviços de Educação
 
 Art. 251 Será considerada edificação destinada à prestação de serviços de educação, incluindo, dentre outros, os seguintes: 
@@ -1710,7 +2018,8 @@ Art. 253 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 254 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Subseção VI<br>
+Subseção VI
+
 Da Edificação para Oficinas e Depósitos
 
 Art. 255 A edificação destinada à oficina deverá ter no mínimo, compartimentos, ambientes ou locais para: 
@@ -1745,7 +2054,8 @@ Art. 259 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 260 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-Subseção VII<br>
+Subseção VII
+
 Dos Templos Religiosos
 
 Art. 261 Os templos religiosos e locais de culto deverão garantir eficiência acústica de modo a garantir o sossego público de acordo com os critérios do Código Ambiental do Município de Aparecida de Goiânia.
@@ -1770,7 +2080,8 @@ Art. 267 O quantitativo de vagas de estacionamento deverá atender o previsto na
 
 Art. 268 O dimensionamento e o espaço para manobras de vagas deverão ser previstos conforme Anexo XI.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 DOS SISTEMAS DE APROVEITAMENTO DE ÁGUA E ENERGIA E DA SUSTENTABILIDADE DAS CONSTRUÇÕES
 
 Art. 269 O sistema de aproveitamento de água e energia aplica-se, na categoria de uso residencial, às atividades de comércio, de prestação de serviços públicos e privados e industriais.
@@ -1835,7 +2146,8 @@ II- De que os reservatórios e as instalações prediais destinadas ao reuso da 
 
 §2°. Essas exigências aplicam-se também para o Alvará Simplificado.
 
-CAPÍTULO<br>
+CAPÍTULO
+
 DA OUTORGA ONEROSA DO DIREITO DE CONSTRUIR (OODC)
 
 Art.  278 Para os efeitos desta Lei, considera-se Solo Criado toda área computável, seja no espaço aéreo ou subsolo, acima do coeficiente de aproveitamento básico até o limite estabelecido para a zona onde se encontra a construção.
@@ -1860,11 +2172,12 @@ Art. 282 O Município poderá aceitar ou não a apresentação de novas tecnolog
 
 Art. 283 O Setor de Fiscalização deverá realizar a vistoria de funcionamento dos sistemas e/ou melhorias, ficando condicionado à liberação da Certidão de Conclusão de Obra, mediante expressa confirmação da implantação dos itens definidos nesta Lei.
 
-TÍTULO II<br>
+TÍTULO II
+
 DOS PROCEDIMENTOS FISCAIS
 
-<br>
-CAPÍTULO I<br>
+CAPÍTULO I
+
 Das Disposições Gerais
 
 Art. 284 Com o objetivo de assegurar a eficiência e eficácia das normas de fiscalização de obras e loteamentos será objeto de regulamento próprio através do Manual de Procedimentos e Atividades Fiscais.
@@ -1883,10 +2196,12 @@ Art. 286 Os agentes fiscais, após identificar-se, terão livre acesso aos locai
 
 §2º. Caracterizam obstrução ao poder de polícia da Administração, as ações que impliquem em impedimento ou retardamento às atividades dos agentes fiscais no exercício de suas funções.
 
-Art. 287 A desobediência à ordem legal, no desempenho da função do servidor fiscal pode ensejar a requisição de força policial, em conformidade com os requisitos legais, e o pedido de abertura de inquérito para apuração da responsabilidade.<br>
+Art. 287 A desobediência à ordem legal, no desempenho da função do servidor fiscal pode ensejar a requisição de força policial, em conformidade com os requisitos legais, e o pedido de abertura de inquérito para apuração da responsabilidade.
+
 Parágrafo único. No caso de desrespeito ao cumprimento das determinações estabelecidas na penalidade administrativa, o Município, por intermédio da sua Procuradoria Geral, a requerimento do órgão de fiscalização municipal, providenciará procedimento judicial cabível.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA COMPETÊNCIA DA FISCALIZAÇÃO
 
 Art. 288 O fiscal de edificações e loteamentos tem como competência a fiscalização de atividades construtivas, de parcelamento do solo e verificação do atendimento às legislações pertinentes dentro do município de Aparecida de Goiânia.
@@ -1899,7 +2214,8 @@ Art. 288 O fiscal de edificações e loteamentos tem como competência a fiscali
 
 §4º. As ações fiscais decorrentes de denúncias deverão ser registradas e informadas ao cidadão, quando solicitado, inclusive com o fornecimento de cópias das peças fiscais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS PROCEDIMENTOS DE FISCALIZAÇÃO
 
 Art. 289 As vistorias nas obras e edificações deverão ser realizadas nos seguintes casos:
@@ -1954,7 +2270,8 @@ b) Quando avaliada por profissional habilitado e classificada como em situação
 
 c) Quando construída em desacordo com este Código e legislações pertinentes, a partir de sua vigência.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS AÇÕES FISCAIS
 
 Art. 294 As ações fiscais serão desenvolvidas mediante a lavratura das seguintes peças:
@@ -1973,7 +2290,8 @@ VI- Termo de Apreensão; 
 
 VII- Vistoria Fiscal.
 
-Seção I<br>
+Seção I
+
 Da Orientação Fiscal e Intimação
 
 Art. 295 A orientação fiscal pode acontecer de forma verbal ou escrita, a critério do agente fiscal e consiste em orientação ao proprietário ou responsável técnico quanto a eventual ilícito na obra.
@@ -1986,7 +2304,8 @@ Art. 296 A Intimação consiste em peça fiscal, emitida a critério e sob a res
 
 §3º. Na impossibilidade da intimação ou da aplicação de multas ao infrator por uma das formas elencadas no §2º deste artigo, as mesmas deverão ser publicadas por edital no Diário Oficial do Município.
 
-Seção II<br>
+Seção II
+
 Da Notificação Fiscal por Hora Marcada
 
 Art. 297 Na ausência do infrator ou de seu preposto no local da infração, no momento da lavratura de documento fiscal correspondente, o servidor fiscal deverá promover a Notificação do autuado, por hora marcada, determinando o seu comparecimento posterior ao órgão de fiscalização do Município, para dar ciência ao documento.
@@ -1995,7 +2314,8 @@ Art. 297 Na ausência do infrator ou de seu preposto no local da infração, no 
 
 §2º. O prazo para atendimento de Notificação Fiscal por Hora Marcada será de 1 (um) a 3 (três) dias úteis.
 
-Seção III<br>
+Seção III
+
 Do Auto de Infração
 
 Art. 298 Constatada a infração, a qualquer dos dispositivos deste Código, será lavrado o Auto de Infração de imediato, por iniciativa do servidor fiscal ou por determinação do órgão de fiscalização do Município, dando início ao processo administrativo correspondente.
@@ -2028,7 +2348,8 @@ VIII- Quando for o caso, informação sobre a área total construída e, se houv
 
 IX- Indicação da base de cálculo da multa;
 
-Seção IV<br>
+Seção IV
+
 Do Termo de Embargo
 
 Art. 300 O Termo de Embargo é a ordem administrativa para paralisação das atividades construtivas irregulares, no caso de obras em andamento e de impedimento de continuação de obras, no caso de obras paralisadas.
@@ -2047,7 +2368,8 @@ V- Execução de obra de maneira irregular ou com o emprego de materiais inadequ
 
 Art. 302 A obra embargada deverá permanecer paralisada e sob permanente fiscalização.
 
-Seção V<br>
+Seção V
+
 Do Termo de Interdição
 
 Art. 303 Interdição parcial ou total é a medida administrativa que consiste na vedação do acesso à obra ou edificação e será aplicada pelo órgão de fiscalização, sempre que a obra ou edificação apresentar situação de risco ou ameaça à segurança das pessoas ou aos bens, públicos ou privados, e no caso de descumprimento de embargo.
@@ -2060,7 +2382,8 @@ Art. 303 Interdição parcial ou total é a medida administrativa que consiste n
 
 Art. 304 A interdição somente será suspensa quando forem eliminadas as causas que a determinaram e o recolhimento das multas e preços públicos quando houver.
 
-Seção VI<br>
+Seção VI
+
 Do Termo de Apreensão de Materiais
 
 Art. 305 Verificada a desobediência às determinações de paralisação de obra irregular serão apreendidos os materiais e ferramentas de construção que possam ser usados na continuidade da mesma. No ato da apreensão será lavrado o Termo de Apreensão.
@@ -2071,13 +2394,14 @@ Art. 305 Verificada a desobediência às determinações de paralisação de obr
 
 §3º. Transcorrido o prazo previsto no parágrafo anterior, os bens apreendidos e não requeridos, serão incorporados ao patrimônio do Município, doados ou alienados.
 
-Seção VII<br>
+Seção VII
+
 Da Vistoria Fiscal
 
 Art. 306 É a peça fiscal que registra que o local foi vistoriada, citando as ações fiscais realizadas, caracterização e identificação da obra/loteamento vistoriado e entorno e situação de regularidade junto ao Município.
 
-<br>
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS PENALIDADES
 
 Art. 307 Ao infrator da legislação urbanística e edilícia, que de qualquer modo concorra para a infração, serão aplicadas seguintes penalidades: 
@@ -2106,7 +2430,8 @@ Art. 308 As penalidades podem ser aplicadas isoladas ou cumulativamente, sem obr
 
 Parágrafo único. A aplicação de penalidade de qualquer natureza não desobriga o infrator do cumprimento da obrigação a que esteja sujeito, nos termos da legislação.
 
-Seção I<br>
+Seção I
+
 Da Multa
 
 Art. 309 Multa é a pena pecuniária imposta ao infrator pelo órgão de fiscalização municipal, em decorrência do descumprimento das normas estabelecidas na legislação que trata de edificações, ordenamento urbano e parcelamento.
@@ -2149,7 +2474,8 @@ Art. 316 O Município, a seu critério, poderá fixar placa indicativa de embarg
 
 §2º. Caso a placa seja extraviada, os custos da mesma serão cobrados do responsável pela obra.
 
-Seção V<br>
+Seção V
+
 Da Cassação da Licença
 
 Art. 317 A licença ou autorização para execução de obra será cassada quando houver descumprimento de seus termos ou relevante interesse público, nos casos em que:
@@ -2164,7 +2490,8 @@ IV- Como medida de proteção da higiene, saúde, meio ambiente, sossego e segur
 
 Parágrafo único. A cassação a que se refere aos incisos III e IV deverá ser objeto de processo administrativo, oportunizando o direito ao contraditório e ampla defesa.
 
-Seção VI<br>
+Seção VI
+
 Da Demolição
 
 Art. 318 A demolição, parcial ou total, de uma obra será determinada observando-se procedimento administrativo próprio, com fundamento em parecer técnico fiscal e parecer jurídico.
@@ -2175,7 +2502,8 @@ Art. 318 A demolição, parcial ou total, de uma obra será determinada observan
 
 §3º. As obras licenciadas ou autorizadas somente serão demolidas após anulação, revogação ou cassação do ato.
 
-Seção VII<br>
+Seção VII
+
 Da Advertência
 
 Art. 319 Independente da aplicação de outras penalidades cabíveis, a advertência poderá ser aplicada ao profissional responsável, pessoa física ou jurídica, ou ao proprietário da obra e/ou edificação.
@@ -2188,7 +2516,8 @@ II- Iniciar ou executar obras sem a devida licença;
 
 III- Modificar projeto aprovado introduzindo alterações contrárias a dispositivos deste Código ou das demais legislações pertinentes.
 
-Seção VIII<br>
+Seção VIII
+
 Da Suspensão do Registro Profissional junto ao Órgão Municipal Competente
 
  Art. 321 O profissional, pessoa física ou jurídica, terá o seu registro suspenso junto ao órgão municipal competente, pelo período de 03 (três) a 12 (doze) meses de acordo com a reincidência, nos casos em que:
@@ -2203,7 +2532,8 @@ IV- Quando for apurado que como Responsável Técnico ter concluído obra em des
 
 Art. 322 Os processos administrativos tratados no caput do artigo anterior serão regulamentados via decreto.
 
-Seção IX<br>
+Seção IX
+
 Da Suspensão do Licenciamento ou da Autorização da Obra
 
 Art. 323 O licenciamento ou autorização da obra serão suspensos, pelo período de 30 (trinta) dias a 12 (doze) meses, se:
@@ -2214,25 +2544,30 @@ II- O proprietário locupletar-se, de qualquer forma, com benefícios pessoais, 
 
 III- Comprovada qualquer ilicitude no processo de licenciamento, na documentação apresentada, ou irregularidade do responsável técnico pelo projeto ou pela obra
 
-Seção X<br>
+Seção X
+
 Do Julgamento
 
 Art. 324 Os ritos e prazos para julgamento das infrações elencadas nessa lei seguirão aqueles previstos no Código de Processo Administrativo Tributário e Fiscal do Município.
 
-Seção XI<br>
+Seção XI
+
 Dos Procedimentos Fiscais
 
-Art. 325 Ocorrendo situações de risco, conflito, constrangimento ou impedimento ao ato da fiscalização ou, ainda, a impossibilidade de identificação do infrator no local da irregularidade, a lavratura da peça fiscal ocorrerá no órgão de fiscalização do Município, com base nos dados do Cadastro Imobiliário ou outro documento oficial disponível.<br>
+Art. 325 Ocorrendo situações de risco, conflito, constrangimento ou impedimento ao ato da fiscalização ou, ainda, a impossibilidade de identificação do infrator no local da irregularidade, a lavratura da peça fiscal ocorrerá no órgão de fiscalização do Município, com base nos dados do Cadastro Imobiliário ou outro documento oficial disponível.
+
 Parágrafo único. Nos casos previstos neste artigo, o infrator tomará ciência das ações fiscais coercitivas por via postal, com aviso de recebimento, ou por edital.
 
 Art. 326 Todos os processos formalizados, em decorrência de atos fiscais, deverão ser instruídos com relatório circunstanciado, e/ou guia de fiscalização, se necessário croqui e registro fotográfico, com o objetivo de detalhar e complementar a informação fiscal.
 
 Art. 327 Os danos causados pela execução das obras devem ser imediatamente reparados por seu(s) responsável (eis), sem prejuízo das sanções e penas cabíveis. 
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS VALORES DAS PENALIDADES E MULTAS
 
-Seção I<br>
+Seção I
+
 DAS OBRAS E EDIFICAÇÕES
 
 Art. 328 Ficam definidas nas Tabelas de Penalidades e Multas, Tabelas VI e VII, deste Capítulo, os parâmetros regulamentares para o cálculo de pena pecuniária, prevista neste Código, para obras e edificações, observando a fórmula Vm = Vb x k, para cálculo do valor inicial de referência da multa (Vm), para o proprietário ou possuidor, onde:
@@ -2353,41 +2688,350 @@ II- Média – 125 UVFA;
 
 III- Grave - 150 UVFA;
 
-IV- Gravíssima – 200 UVFA.<br>
+IV- Gravíssima – 200 UVFA.
+
  
 
 Tabela VI – Multas referentes às infrações cometidas por proprietário ou possuidor.
 
-<table><tbody><tr><td style="   width: 437px; "><b>Descrição da infração</b></td><td style=" width: 267px;    "><b>Classificação da infração. Valor base.</b></td></tr><tr><td style=" width: 437px;    ">Obra / edificação / demolição sem a devida manutenção das condições de estabilidade, higiene, segurança e salubridade da mesma, causando incômodos ou riscos às pessoas e/ou aos bens.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar demolição sem licença do Município.</td><td style=" width: 267px;    ">Grave</td></tr><tr><td style=" width: 437px;    ">Realizar Tapume utilizando parte do passeio sem autorização do Município.</td><td style=" width: 267px;    ">Média</td></tr><tr><td style=" width: 437px;    ">Realizar obra sem o devido fechamento com tapume ou similar</td><td style=" width: 267px;    ">Média</td></tr><tr><td style=" width: 437px;    ">Realizar Canteiro de Obras sem autorização do Município</td><td style=" width: 267px;    ">Grave</td></tr><tr><td style=" width: 437px;    ">Realizar Movimento de Terra sem autorização do Município</td><td style=" width: 267px;    ">Média</td></tr><tr><td style=" width: 437px;    ">Realizar Instalação para Promoção de Vendas sem autorização do Município</td><td style=" width: 267px;    ">Grave</td></tr><tr><td style=" width: 437px;    ">Realizar Equipamentos ou Instalações Diferenciadas ou Elementos Urbanos sem autorização do Município.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar Micro Reforma sem autorização do Município.</td><td style=" width: 267px;    ">Leve</td></tr><tr><td style=" width: 437px;    ">Realizar Obras e/ou serviços de infraestrutura pública em logradouros públicos sem licença do Município</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar Edificação Nova, Reconstrução, Modificação sem Acréscimo ou Reforma, Modificação com Acréscimo ou Restauro sem licença do Município.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Inexistência Alvará de Autorização, Alvará de Construção, Alvará de Demolição ou projeto licenciado no local da obra; ou existência de rasuras.</td><td style=" width: 267px;    ">Leve</td></tr><tr><td style=" width: 437px;    ">Realizar modificações internas sem o Termo de Compromisso para o “as built”</td><td style=" width: 267px;    ">Média</td></tr><tr><td style=" width: 437px;    ">Utilizar obra ou edificação sem a devida Certidão de Conclusão de Obra.</td><td style=" width: 267px;    ">Leve</td></tr><tr><td style=" width: 437px;    ">Não realizar canteiro de obras.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar obra / edificação / demolição sem a devida instalação de proteção &nbsp;contra queda ou projeção de objetos ou materiais.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realização do muro de arrimo/sustentação ou outra solução técnica visando estabilizar área de terra movimentada sem o devido licenciamento.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar qualquer componente de obra, inclusive, fundação, fossa, sumidouro &nbsp;e/ou poço simples ou artesiano extrapolando o alinhamento do lote.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Invadir, obstruir ou ocupar logradouro e/ou área pública municipal.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar lançamento de águas pluviais, provenientes de cobertura(s), diretamente sobre o terreno vizinho ou logradouro público.</td><td style=" width: 267px;    ">Grave</td></tr><tr><td style=" width: 437px;    ">Despejar águas pluviais na rede de esgoto.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Despejar esgoto, águas residuais ou resultantes de lavagens, nas sarjetas dos logradouros ou em galerias de águas pluviais.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realizar fechamento do terreno, utilizando altura superior à permitida.</td><td style=" width: 267px;    ">Grave</td></tr><tr><td style=" width: 437px;    ">Falta de construção ou manutenção de calçada no passeio público.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Construir calçada em desacordo Legislação e/ou normatização especifica.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Obstrução da calçada ou pista de rolamento por material de construção, equipamentos de obra ou objetos e bens de qualquer natureza, mesmo em &nbsp;caráter temporário.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Obstrução ao Poder de Polícia da Administração</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;  height: 58px;   ">Desobediência ao Termo de Embargo de obra irregular, caracterizada pelo seu reinício ou continuação, pela modificação da sua fase ou pela sua ocupação/uso.</td><td style=" width: 267px;  height: 58px;   ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Retirar placa indicativa de embargo do local fixado pelo Município ou obstruir sua visibilidade</td><td style=" width: 267px;    ">Média</td></tr><tr><td style=" width: 437px;  height: 28px;   ">Desobediência ao Termo de Interdição</td><td style=" width: 267px;  height: 28px;   ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realização de área permeável em desacordo com a legislação</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Realização de poço de infiltração em desacordo com a legislação</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Não pagamento da outorga onerosa do direito de construir.</td><td style=" width: 267px;    ">Gravíssima</td></tr><tr><td style=" width: 437px;    ">Demais dispositivos infringidos não discriminados anteriormente nesta tabela.</td><td style=" width: 267px;    ">Média</td></tr></tbody></table>
+**Descrição da infração**
+
+**Classificação da infração. Valor base.**
+
+Obra / edificação / demolição sem a devida manutenção das condições de estabilidade, higiene, segurança e salubridade da mesma, causando incômodos ou riscos às pessoas e/ou aos bens.
+
+Gravíssima
+
+Realizar demolição sem licença do Município.
+
+Grave
+
+Realizar Tapume utilizando parte do passeio sem autorização do Município.
+
+Média
+
+Realizar obra sem o devido fechamento com tapume ou similar
+
+Média
+
+Realizar Canteiro de Obras sem autorização do Município
+
+Grave
+
+Realizar Movimento de Terra sem autorização do Município
+
+Média
+
+Realizar Instalação para Promoção de Vendas sem autorização do Município
+
+Grave
+
+Realizar Equipamentos ou Instalações Diferenciadas ou Elementos Urbanos sem autorização do Município.
+
+Gravíssima
+
+Realizar Micro Reforma sem autorização do Município.
+
+Leve
+
+Realizar Obras e/ou serviços de infraestrutura pública em logradouros públicos sem licença do Município
+
+Gravíssima
+
+Realizar Edificação Nova, Reconstrução, Modificação sem Acréscimo ou Reforma, Modificação com Acréscimo ou Restauro sem licença do Município.
+
+Gravíssima
+
+Inexistência Alvará de Autorização, Alvará de Construção, Alvará de Demolição ou projeto licenciado no local da obra; ou existência de rasuras.
+
+Leve
+
+Realizar modificações internas sem o Termo de Compromisso para o “as built”
+
+Média
+
+Utilizar obra ou edificação sem a devida Certidão de Conclusão de Obra.
+
+Leve
+
+Não realizar canteiro de obras.
+
+Gravíssima
+
+Realizar obra / edificação / demolição sem a devida instalação de proteção  contra queda ou projeção de objetos ou materiais.
+
+Gravíssima
+
+Realização do muro de arrimo/sustentação ou outra solução técnica visando estabilizar área de terra movimentada sem o devido licenciamento.
+
+Gravíssima
+
+Realizar qualquer componente de obra, inclusive, fundação, fossa, sumidouro  e/ou poço simples ou artesiano extrapolando o alinhamento do lote.
+
+Gravíssima
+
+Invadir, obstruir ou ocupar logradouro e/ou área pública municipal.
+
+Gravíssima
+
+Realizar lançamento de águas pluviais, provenientes de cobertura(s), diretamente sobre o terreno vizinho ou logradouro público.
+
+Grave
+
+Despejar águas pluviais na rede de esgoto.
+
+Gravíssima
+
+Despejar esgoto, águas residuais ou resultantes de lavagens, nas sarjetas dos logradouros ou em galerias de águas pluviais.
+
+Gravíssima
+
+Realizar fechamento do terreno, utilizando altura superior à permitida.
+
+Grave
+
+Falta de construção ou manutenção de calçada no passeio público.
+
+Gravíssima
+
+Construir calçada em desacordo Legislação e/ou normatização especifica.
+
+Gravíssima
+
+Obstrução da calçada ou pista de rolamento por material de construção, equipamentos de obra ou objetos e bens de qualquer natureza, mesmo em  caráter temporário.
+
+Gravíssima
+
+Obstrução ao Poder de Polícia da Administração
+
+Gravíssima
+
+Desobediência ao Termo de Embargo de obra irregular, caracterizada pelo seu reinício ou continuação, pela modificação da sua fase ou pela sua ocupação/uso.
+
+Gravíssima
+
+Retirar placa indicativa de embargo do local fixado pelo Município ou obstruir sua visibilidade
+
+Média
+
+Desobediência ao Termo de Interdição
+
+Gravíssima
+
+Realização de área permeável em desacordo com a legislação
+
+Gravíssima
+
+Realização de poço de infiltração em desacordo com a legislação
+
+Gravíssima
+
+Não pagamento da outorga onerosa do direito de construir.
+
+Gravíssima
+
+Demais dispositivos infringidos não discriminados anteriormente nesta tabela.
+
+Média
 
 Tabela VII – Fator de proporcionalidade K
 
-<table><tbody><tr><td style=" width:234px;    ">&nbsp; <b>Áreas em metros quadrados (m²)</b></td><td style=" width:288px;    "><b>Fator K</b></td></tr><tr><td style=" width:234px;    ">Até 100 m²</td><td style=" width:288px;    ">K=0,5</td></tr><tr><td style=" width:234px;    ">De 101 m² a 200 m²</td><td style=" width:288px;    ">K=0,75</td></tr><tr><td style=" width:234px;    ">De 201 m² a 500 m²</td><td style=" width:288px;    ">K=1,5</td></tr><tr><td style=" width:234px;    ">De 501 m² a 1.500 m²</td><td style=" width:288px;    ">K=2,0</td></tr><tr><td style=" width:234px;    ">De 1.501 m² a 5.000 m²</td><td style=" width:288px;    ">K=3,0</td></tr><tr><td style=" width:234px;    ">De 5.001 m² a 15.000 m²</td><td style=" width:288px;    ">K=5,0</td></tr><tr><td style=" width:234px;    ">De 15.001 m² a 30.000 m²</td><td style=" width:288px;    ">K=7,0</td></tr><tr><td style=" width:234px;    ">Acima de 30.001m²</td><td style=" width:288px;    ">K=9,0</td></tr></tbody></table>
+**Áreas em metros quadrados (m²)**
+
+**Fator K**
+
+Até 100 m²
+
+K=0,5
+
+De 101 m² a 200 m²
+
+K=0,75
+
+De 201 m² a 500 m²
+
+K=1,5
+
+De 501 m² a 1.500 m²
+
+K=2,0
+
+De 1.501 m² a 5.000 m²
+
+K=3,0
+
+De 5.001 m² a 15.000 m²
+
+K=5,0
+
+De 15.001 m² a 30.000 m²
+
+K=7,0
+
+Acima de 30.001m²
+
+K=9,0
 
 Art. 336 Ficam definidos nas Tabelas de Penalidades e Multas, Tabelas VIII e IX, desta Lei, os parâmetros regulamentares previstos neste Código, para definição de valores de multas cometidas por profissional ou firma responsável técnico pelo projeto ou obra.  
 
 Tabela VIII – Valores das Multas referentes às infrações cometidas por profissional ou firma responsável técnico pelo projeto ou obra
 
-<table><tbody><tr><td style=" width:158px;    "><b>Tipologia construtiva</b></td><td style=" width:284px;    "><b>Unidades e/ou Metragens de obra e/ou terreno</b></td><td style=" width:104px;    "><b>Valor da Multa</b></td><td style=" width:93px;    "><b>Classificação</b></td></tr><tr><td style=" width:158px;    "><b>Obra Residencial</b></td><td style=" width:284px;    ">0 a 4 unidades e área construída de até 500m²</td><td style=" width:104px;    ">150 UVFA</td><td style=" width:93px;    ">Leve</td></tr><tr><td style=" width:158px;    "><b>Obra Residencial</b></td><td style=" width:284px;    ">5 unidades acima, independente da área</td><td style=" width:104px;    ">300 UVFA</td><td style=" width:93px;    ">Grave</td></tr><tr><td style=" width:158px;    "><b>Obra não residencial</b></td><td style=" width:284px;    ">0 a 500m²</td><td style=" width:104px;    ">200 UVFA</td><td style=" width:93px;    ">Média</td></tr><tr><td style=" width:158px;    "><b>Obra não residencial</b></td><td style=" width:284px;    ">Acima de 500m²</td><td style=" width:104px;    ">500 UVFA</td><td style=" width:93px;    ">Gravíssima</td></tr></tbody></table>
+**Tipologia construtiva**
+
+**Unidades e/ou Metragens de obra e/ou terreno**
+
+**Valor da Multa**
+
+**Classificação**
+
+**Obra Residencial**
+
+0 a 4 unidades e área construída de até 500m²
+
+150 UVFA
+
+Leve
+
+**Obra Residencial**
+
+5 unidades acima, independente da área
+
+300 UVFA
+
+Grave
+
+**Obra não residencial**
+
+0 a 500m²
+
+200 UVFA
+
+Média
+
+**Obra não residencial**
+
+Acima de 500m²
+
+500 UVFA
+
+Gravíssima
 
 Tabela IX – Infrações cometidas por profissional ou firma responsável técnico pelo projeto ou obra
 
-<table><tbody><tr><td style=" width:555px;    "><b>Descrição da infração</b></td><td style=" width:123px;    "><b>Classificação da infração. Valor base.</b></td></tr><tr><td style=" width:555px;    ">Executar obra / edificação / demolição sem a devida manutenção das condições de estabilidade, higiene, segurança e salubridade da mesma.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar Edificação Nova, Reconstrução, Modificação sem Acréscimo ou Reforma, Modificação com Acréscimo ou Restauro em desacordo com o projeto licenciado.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar modificações internas em obra / edificação sem firmar o devido termo de compromisso.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar modificações internas em obra / edificação sem solicitar a devida aprovação do projeto “as built”, quando na vistoria de Conclusão de obra.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar obra / edificação / demolição sem a devida instalação de proteção contra queda ou projeção de objetos ou materiais</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar obra / edificação, não realizando o devido muro de arrimo/sustentação ou outra solução técnica visando sanar ameaça de desabamento.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar obra / edificação, sem as devidas providências para a estabilização de área de terra movimentada, em função da paralisação da construção de muro de arrimo/sustentação.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar edificação, realizando qualquer componente da mesma, inclusive, fundação, fossa, sumidouro e/ou poço simples ou artesiano, em avanço sobre imóvel vizinho.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar edificação, invadindo, obstruindo ou ocupando logradouro e/ou área pública municipal.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar edificação, realizando beirais sem os devidos afastamentos laterais e/ou do fundo.</td><td style=" width:123px;    ">Leve</td></tr><tr><td style=" width:555px;    ">Executar edificação, realizando lançamento de águas pluviais, provenientes de cobertura(s), diretamente sobre o terreno vizinho ou logradouro público.</td><td style=" width:123px;    ">Média</td></tr><tr><td style=" width:555px;    ">Executar edificação, despejando águas pluviais na rede de esgoto.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Executar edificação despejando esgoto, águas residuais ou resultantes de lavagens, nas sarjetas dos logradouros ou em galerias de águas pluviais.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Execução de área permeável em desacordo com a legislação</td><td style=" width:123px;    ">Média</td></tr><tr><td style=" width:555px;    ">Execução de caixa de recarga em desacordo com a legislação</td><td style=" width:123px;    ">Média</td></tr><tr><td style=" width:555px;    ">Apresentar projeto arquitetônico de levantamento em desacordo com a edificação e/ou obra, terreno ou passeio público que induza a erro de vistoria ou analise.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Execução de logradouros públicos e edificações que não atendam as normas da Associação Brasileira de Normas Técnicas – ABNT, quanto à acessibilidade.</td><td style=" width:123px;    ">Gravíssima</td></tr><tr><td style=" width:555px;    ">Prosseguirem na execução de obra embargada pelo Município, caracterizado pelo seu reinicio ou continuação e modificação da sua fase.</td><td style=" width:123px;    ">Gravíssima</td></tr><tr><td style=" width:555px;    ">Execução de Tapume utilizando parte do passeio sem autorização do Município.</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Execução de obra sem o devido fechamento com tapume ou similar</td><td style=" width:123px;    ">Grave</td></tr><tr><td style=" width:555px;    ">Execução de Canteiro de Obras sem autorização do Município</td><td style=" width:123px;    ">Média</td></tr><tr><td style=" width:555px;    ">Demais dispositivos infringidos não discriminados anteriormente nesta tabela.</td><td style=" width:123px;    ">Média</td></tr></tbody></table>
+**Descrição da infração**
 
-Seção II<br>
+**Classificação da infração. Valor base.**
+
+Executar obra / edificação / demolição sem a devida manutenção das condições de estabilidade, higiene, segurança e salubridade da mesma.
+
+Grave
+
+Executar Edificação Nova, Reconstrução, Modificação sem Acréscimo ou Reforma, Modificação com Acréscimo ou Restauro em desacordo com o projeto licenciado.
+
+Grave
+
+Executar modificações internas em obra / edificação sem firmar o devido termo de compromisso.
+
+Grave
+
+Executar modificações internas em obra / edificação sem solicitar a devida aprovação do projeto “as built”, quando na vistoria de Conclusão de obra.
+
+Grave
+
+Executar obra / edificação / demolição sem a devida instalação de proteção contra queda ou projeção de objetos ou materiais
+
+Grave
+
+Executar obra / edificação, não realizando o devido muro de arrimo/sustentação ou outra solução técnica visando sanar ameaça de desabamento.
+
+Grave
+
+Executar obra / edificação, sem as devidas providências para a estabilização de área de terra movimentada, em função da paralisação da construção de muro de arrimo/sustentação.
+
+Grave
+
+Executar edificação, realizando qualquer componente da mesma, inclusive, fundação, fossa, sumidouro e/ou poço simples ou artesiano, em avanço sobre imóvel vizinho.
+
+Grave
+
+Executar edificação, invadindo, obstruindo ou ocupando logradouro e/ou área pública municipal.
+
+Grave
+
+Executar edificação, realizando beirais sem os devidos afastamentos laterais e/ou do fundo.
+
+Leve
+
+Executar edificação, realizando lançamento de águas pluviais, provenientes de cobertura(s), diretamente sobre o terreno vizinho ou logradouro público.
+
+Média
+
+Executar edificação, despejando águas pluviais na rede de esgoto.
+
+Grave
+
+Executar edificação despejando esgoto, águas residuais ou resultantes de lavagens, nas sarjetas dos logradouros ou em galerias de águas pluviais.
+
+Grave
+
+Execução de área permeável em desacordo com a legislação
+
+Média
+
+Execução de caixa de recarga em desacordo com a legislação
+
+Média
+
+Apresentar projeto arquitetônico de levantamento em desacordo com a edificação e/ou obra, terreno ou passeio público que induza a erro de vistoria ou analise.
+
+Grave
+
+Execução de logradouros públicos e edificações que não atendam as normas da Associação Brasileira de Normas Técnicas – ABNT, quanto à acessibilidade.
+
+Gravíssima
+
+Prosseguirem na execução de obra embargada pelo Município, caracterizado pelo seu reinicio ou continuação e modificação da sua fase.
+
+Gravíssima
+
+Execução de Tapume utilizando parte do passeio sem autorização do Município.
+
+Grave
+
+Execução de obra sem o devido fechamento com tapume ou similar
+
+Grave
+
+Execução de Canteiro de Obras sem autorização do Município
+
+Média
+
+Demais dispositivos infringidos não discriminados anteriormente nesta tabela.
+
+Média
+
+Seção II
+
 DO ESTUDO DE IMPACTO DE VIZINHANÇA
 
 Art. 337 Ficam definidos os critérios para aplicação de penalidades e multas conforme Tabela X e os parâmetros regulamentares para o cálculo de pena pecuniária, prevista neste Código referente ao Estudo de Impacto de Vizinhança.
 
-<br>
-Tabela X - Infrações cometidas por profissional ou firma responsável técnico pelo EIV.<br>
+Tabela X - Infrações cometidas por profissional ou firma responsável técnico pelo EIV.
+
  
 
-<table><tbody><tr><td style=" width:451px;     "><b>INFRAÇÃO</b></td><td style=" width:198px;     "><b>QUANTIDADE DE UVFA POR &nbsp;&nbsp;&nbsp;&nbsp;M²</b></td></tr><tr><td style=" width:451px;     ">Apresentar EIV em desconformidade com normas técnicas, sanitárias, ambientais, de segurança, saúde, dentre outras análises que causem prejuízo ao Município ou à população além das responsabilidades no âmbito civil e penal.</td><td style=" width:198px;     ">2</td></tr></tbody></table>
+**INFRAÇÃO**
+
+**QUANTIDADE DE UVFA POR     M²**
+
+Apresentar EIV em desconformidade com normas técnicas, sanitárias, ambientais, de segurança, saúde, dentre outras análises que causem prejuízo ao Município ou à população além das responsabilidades no âmbito civil e penal.
+
+2
 
 Parágrafo único: O valor da multa será estabelecido considerando-se a área construída e ocupada do empreendimento.
 
-Seção III<br>
+Seção III
+
 DO PARCELAMENTO DO SOLO URBANO
 
 Art. 338 Ficam definidos os critérios para aplicação de penalidades e multas conforme Tabelas XI, XII e XIII e os parâmetros regulamentares para o cálculo de pena pecuniária, prevista neste Código para aprovação ou implantação de parcelamento do solo.
@@ -2396,24 +3040,104 @@ Art. 339 Considerar-se-á para o cálculo das multas previstas nas Tabelas XI, X
 
 Tabela XI – Multas referentes às infrações cometidas por profissional ou empresa responsável pelo projeto.
 
-<table><tbody><tr><td style=" width:121px;     "><b>CATEGORIA</b></td><td style=" width:378px;     "><b>INFRAÇÃO</b></td><td style=" width:113px;     "><b>QUANTIDADE DE UVFA </b><b>POR M²</b></td></tr><tr><td style=" width:121px;     ">A</td><td style=" width:378px;     ">Apresentação de projeto de loteamento em desacordo com o local falseando medidas, cotas e demais indicações.</td><td style=" width:113px;     ">0,30</td></tr><tr><td style=" width:121px;     ">B</td><td style=" width:378px;     ">Assumir responsabilidade na elaboração do projeto de loteamento e entregar a sua elaboração de fato a terceiros sem a devida habilitação.</td><td style=" width:113px;     ">0,05</td></tr><tr><td style=" width:121px;     ">C</td><td style=" width:378px;     ">Inexistência no local da obra de cópia do projeto na forma como foi aprovado.</td><td style=" width:113px;     ">0,01</td></tr><tr><td style=" width:121px;     ">D</td><td style=" width:378px;     ">Por mês de atraso no prazo da execução.</td><td style=" width:113px;     ">0,10</td></tr><tr><td style=" width:121px;     ">E</td><td style=" width:378px;     ">Não cumprimento de intimação em virtude de vistoria ou de determinações fixadas no laudo de vistoria.</td><td style=" width:113px;     ">0,05</td></tr><tr><td style=" width:121px;     ">F</td><td style=" width:378px;     ">Iniciar ou executar obras de qualquer tipo no loteamento ou remanejamento antes da necessária aprovação ou em desacordo com o projeto aprovado.</td><td style=" width:113px;     ">0,30</td></tr></tbody></table>
+**CATEGORIA**
+
+**INFRAÇÃO**
+
+**QUANTIDADE DE UVFA POR M²**
+
+A
+
+Apresentação de projeto de loteamento em desacordo com o local falseando medidas, cotas e demais indicações.
+
+0,30
+
+B
+
+Assumir responsabilidade na elaboração do projeto de loteamento e entregar a sua elaboração de fato a terceiros sem a devida habilitação.
+
+0,05
+
+C
+
+Inexistência no local da obra de cópia do projeto na forma como foi aprovado.
+
+0,01
+
+D
+
+Por mês de atraso no prazo da execução.
+
+0,10
+
+E
+
+Não cumprimento de intimação em virtude de vistoria ou de determinações fixadas no laudo de vistoria.
+
+0,05
+
+F
+
+Iniciar ou executar obras de qualquer tipo no loteamento ou remanejamento antes da necessária aprovação ou em desacordo com o projeto aprovado.
+
+0,30
 
 Tabela XII – Multas referentes às infrações cometidas por proprietário ou possuidor.
 
-<table><tbody><tr><td style=" width:102px;     "><b>CATEGORIA</b></td><td style=" width:350px;     "><b>INFRAÇÃO</b></td><td style=" width:161px;     "><b>QUANTIDADE</b> <b>&nbsp;DE UVFA </b><b>POR M²</b></td></tr><tr><td style=" width:102px;     ">G</td><td style=" width:350px;     ">Não cumprimento da ordem de paralização das atividades construtivas das obras de loteamentos embargados e não paralisados.</td><td style=" width:161px;     ">0,10/dia</td></tr><tr><td style=" width:102px;     ">H</td><td style=" width:350px;     ">Ocupação de loteamentos antes do cumprimento dos artigos previsto nas legislações pertinentes.</td><td style=" width:161px;     ">0,05/dia</td></tr><tr><td style=" width:102px;     ">I</td><td style=" width:350px;     ">Utilização de materiais inadequados ou sem as necessárias condições de resistência, resultando a juízo do órgão público competente pelo planejamento, em perigo para a segurança dos futuros ocupantes do loteamento, bem como dos trabalhadores que executam os serviços e do público.</td><td style=" width:161px;     ">0,01</td></tr></tbody></table>
+**CATEGORIA**
+
+**INFRAÇÃO**
+
+**QUANTIDADE DE UVFA POR M²**
+
+G
+
+Não cumprimento da ordem de paralização das atividades construtivas das obras de loteamentos embargados e não paralisados.
+
+0,10/dia
+
+H
+
+Ocupação de loteamentos antes do cumprimento dos artigos previsto nas legislações pertinentes.
+
+0,05/dia
+
+I
+
+Utilização de materiais inadequados ou sem as necessárias condições de resistência, resultando a juízo do órgão público competente pelo planejamento, em perigo para a segurança dos futuros ocupantes do loteamento, bem como dos trabalhadores que executam os serviços e do público.
+
+0,01
 
 Tabela XIII – Multas referentes ao proprietário ou possuidor de glebas ou aos loteamentos de acesso restritos já implantados.
 
-<table><tbody><tr><td style=" width:95px;     "><b>CATEGORIA</b></td><td style=" width:397px;     "><b>INFRAÇÃO</b></td><td style=" width:142px;     "><b>QUANTIDADE</b> <b>DE UVFA</b> <b>POR M²</b></td></tr><tr><td style=" width:95px;     ">1.</td><td style=" width:397px;     ">Por abandono ou degradação de jardins e árvores em loteamento de acesso restrito</td><td style=" width:142px;     ">0,01</td></tr><tr><td style=" width:95px;     ">2.</td><td style=" width:397px;     ">Comercialização de terrenos antes do registro do decreto de aprovação do loteamento.</td><td style=" width:142px;     ">0,10</td></tr></tbody></table>
+**CATEGORIA**
+
+**INFRAÇÃO**
+
+**QUANTIDADEDE UVFAPOR M²**
+
+1.
+
+Por abandono ou degradação de jardins e árvores em loteamento de acesso restrito
+
+0,01
+
+2.
+
+Comercialização de terrenos antes do registro do decreto de aprovação do loteamento.
+
+0,10
 
 Art. 340 Sobre a Categoria 1, a intimação implica em imediata recuperação das áreas degradadas.
 
 Parágrafo único: O não atendimento à intimação do caput implica no pagamento da multa e na possibilidade do Município assumir a manutenção e recuperação das mesmas, o que, para tal, cobrará pelo justo serviço.
 
-Art. 341 Sobre a Categoria 2, a intimação implica no pagamento da multa na suspensão imediata da comercialização dos terrenos.<br>
+Art. 341 Sobre a Categoria 2, a intimação implica no pagamento da multa na suspensão imediata da comercialização dos terrenos.
+
 Parágrafo único: O não atendimento à intimação do caput implica no pagamento da multa e na imediata revogação do decreto de aprovação do loteamento.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 342 Os alvarás, licenças e autorizações emitidos até a entrada em vigor deste Código são regidos por lei anterior até a sua conclusão, respeitos os prazos para a conclusão.
@@ -2426,10 +3150,12 @@ Art. 345 Revogam-se todas as disposições em contrário, em especial a Lei n° 
 
 Gabinete do Prefeito do Município de Aparecida Goiânia-GO, 21 de Novembro de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-FÁBIO PASSAGLIA <br>
+FÁBIO PASSAGLIA 
+
 Chefe da Casa Civil
 
-[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18700)<br>
+[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18700)

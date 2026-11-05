@@ -1,5 +1,3 @@
-###MPV-001977-0-017-29-06-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.977-17, DE 29 de junho DE 2000.
 
 Institui medidas adicionais de estímulo e apoio à reestruturação e ao ajuste fiscal dos Estados e dá outras providências.

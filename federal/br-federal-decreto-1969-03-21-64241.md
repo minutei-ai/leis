@@ -1,5 +1,3 @@
-###DEC-064241-0-000-21-03-1969@@@
-
 DECRETO Nº 64.241, DE 21 DE MARÇO DE 1969.
 
 Dispõe sôbre a organização e competência de órgãos do Ministério da Indústria e do Comércio e dá outras providências.

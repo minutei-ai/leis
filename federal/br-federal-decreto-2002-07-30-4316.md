@@ -1,5 +1,3 @@
-###DEC-004316-0-000-30-07-2002@@@
-
 DECRETO Nº 4.316, DE 30 DE JULHO DE 2002
 
 Promulga o Protocolo Facultativo à Convenção sobre a Eliminação de Todas as Formas de Discriminação contra a Mulher.

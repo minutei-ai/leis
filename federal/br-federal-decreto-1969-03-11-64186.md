@@ -1,5 +1,3 @@
-###DEC-064186-0-000-11-03-1969@@@
-
 decreto nº 64.186, de 11 de março de 1969.
 
 Acrescenta parágrafo único ao artigo 292 do Regulamento Geral da Previdência Social

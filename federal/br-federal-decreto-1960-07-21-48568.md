@@ -1,5 +1,3 @@
-###DEC-048568-0-000-21-07-1960@@@
-
 DECRETO N.º 48.568 DE 21 DE JULHO DE 1960
 
 Autoriza o cidadão brasileiro Pedro Braga Júnior, a pesquisar mica no município de Água Boa, Estado de Minas Gerais.

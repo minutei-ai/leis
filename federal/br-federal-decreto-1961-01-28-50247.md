@@ -1,5 +1,3 @@
-###DEC-050247-0-000-28-01-1961@@@
-
 DECRETO Nº 50.247, DE 28 DE JANEIRO DE 1961.
 
 Cria o Consulado-Geral do Brasil em Lourenço Marques, Província de Moçambique.

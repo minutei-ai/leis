@@ -1,5 +1,3 @@
-###DEC-081827-0-000-23-06-1978@@@
-
 Decreto nº 81.827, de 23 de junho de 1978.
 
 Concede à Mineração Santa Catarina S.A. o direito de lavrar fluorita no Município de Orleães, Estado de Santa Catarina.

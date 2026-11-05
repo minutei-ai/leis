@@ -1,7 +1,3 @@
-1
-
-###DEL-002352-0-000-07-08-1987@@@
-
 # DECRETO-LEI Nº 2.352, DE 7 DE AGOSTO DE 1987
 
 Concede abono salarial e dá outras providências.

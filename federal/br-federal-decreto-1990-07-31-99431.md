@@ -1,7 +1,3 @@
-1
-
-###DEC-099431-0-000-31-07-1990@@@
-
 DECRETO N° 99.431, DE 31 DE JULHO DE 1990
 
 Dá nova redação aos arts. 37 e 75 do Regulamento dos Serviços de Radiodifusão, aprovado pelo Decreto n° 52.795, de 31 de outubro de 1963, alterado pelo Decreto n° 91.837, de 25 de outubro de 1985.

@@ -1,5 +1,3 @@
-###DEC-061445-0-000-04-10-1967@@@
-
 DECRETO Nº 61.445, DE 4 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, área destinada à bacia de acumulação, do aproveitamento da energia hidráulica de um trecho do rio Paranapanema, municípios de Carlópolis, Salto de Itareré e Santana do Itararé, Estado do Paraná.
@@ -201,8 +199,6 @@ Brasília, 4 de outubro de 1967; 146º da Independência e 79º da República.
 A. COSTA E SILVA
 
 José Costa Cavalcanti
-
-###DEC-061445-0-000-04\-10\-1967@@@RET01+++
 
 DECRETO Nº 61.445, DE 4 DE OUTUBRO DE 1967.
 

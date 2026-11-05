@@ -1,5 +1,3 @@
-###DEC-083204-0-000-28-02-1979@@@
-
 decreto nº 83.204, de 28 de fevereiro de 1979
 
 Concede à Companhia de Mineração Santarém - COMISA o direito de lavrar bauxita no Município de Oriximiná, Estado do Pará.

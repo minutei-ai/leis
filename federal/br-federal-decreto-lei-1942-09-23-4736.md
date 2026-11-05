@@ -1,5 +1,3 @@
-###DEL-004736-0-000-23-09-1942@@@
-
 DECRETO-LEI N. 4.736 – DE 23 SETEMBRO DE 1942
 
 Dispõe sobre a estatística econômica, e dá outras providências

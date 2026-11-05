@@ -1,5 +1,3 @@
-###DEC-006210-0-000-18-09-2007@@@
-
 DECRETO Nº 6.210, DE 18 DE SETEMBRO DE 2007.
 
 Altera dispositivos do Decreto no 5.163, de 30 de julho de 2004, que regulamenta a comercialização de energia elétrica, o processo de outorga de concessões e de autorizações de geração de energia elétrica, define demanda mínima por unidade de consumo para a equiparação de consumidor a autoprodutor, e dá outras providências.
@@ -79,5 +77,3 @@ Brasília, de de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Nelson José Hubner Moreira
-
-Este texto não substitui o publicado no DOU de 19.9.2007

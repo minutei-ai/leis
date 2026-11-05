@@ -1,7 +1,3 @@
-1
-
-###DEC-000835-0-000-08-06-1993@@@
-
 DECRETO N° 835, DE 8 DE JUNHO DE 1993
 
 Dispõe sobre época para pagamento de bolsas de estudo e de pesquisa e dá outras providências.
@@ -27,8 +23,6 @@ Rubens Leite Vianello
 Alexis Stepanenko
 
 José Israel Vargas
-
-###DEC-000835-0-000-08-06-1993@@@RET01+++
 
 DECRETO N° 835, DE 8 DE JUNHO DE 1993
 

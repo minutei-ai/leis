@@ -1,5 +1,3 @@
-###DEC-001845-0-000-28-03-1996@@@
-
 DECRETO Nº 1.845, DE 28 DE MARÇO DE 1996
 
 Delega competência ao Ministro de Estado da Educação e do Desporto, para a prática dos atos que menciona.

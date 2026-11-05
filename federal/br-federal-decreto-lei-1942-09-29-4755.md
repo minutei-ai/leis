@@ -1,5 +1,3 @@
-###DEL-004755-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.755 – DE 29 DE SETEMBRO DE 1942
 
 Dispõe sobre as publicações dos orgãos da Justiça do Trabalho

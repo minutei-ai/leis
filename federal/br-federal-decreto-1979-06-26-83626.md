@@ -1,5 +1,3 @@
-###DEC-083626-0-000-26-06-1979@@@
-
 Decreto nº 83.626, de 26 de junho de 1979
 
 Concede à Companhia Agro- Industrial de Monte Alegre o direito de lavrar calcário gipsita nos municípios de Nhamundá e Faro, Estados do Amazonas e Pará.

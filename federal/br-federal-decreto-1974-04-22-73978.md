@@ -1,5 +1,3 @@
-###DEC-073978-0-000-22-04-1974@@@
-
 DECRETO Nº 73.978, DE 22 DE ABRIL DE 1974
 
 Prorroga o prazo da autorização concedida pelo Decreto nº 73.139, de 9 de novembro de 1973, à firma Minerações Brasileiras Reunidas S.A.

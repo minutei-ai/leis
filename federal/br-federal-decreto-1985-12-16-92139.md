@@ -1,5 +1,3 @@
-###DEC-092139-0-000-16-12-1985@@@
-
 Decreto nº 92.139, de 16 de dezembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitorias, necessárias à criação e melhoramentos de centros populacionais, seu abastecimento regular de meios de subsistência e planos hidroagrícolas, destinados à execução do Programa de Aproveitamentos Hidroagrícolas decorrentes do Projeto Baixada Ocidental Maranhense na região de Pinheiro, no Estado do Maranhão, e dá outras providências.

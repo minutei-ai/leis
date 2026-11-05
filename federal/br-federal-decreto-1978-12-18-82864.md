@@ -1,5 +1,3 @@
-###DEC-082864-0-000-18-12-1978@@@
-
 Decreto nº 82 864, de 18 de dezembro de 1978
 
 Declara a caducidade da autorização de lavra que menciona.

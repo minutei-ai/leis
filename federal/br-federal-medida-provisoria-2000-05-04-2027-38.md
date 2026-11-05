@@ -1,5 +1,3 @@
-###MPV-002027-0-038-04-05-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.027-38, DE 4 DE MAIO DE 2000.
 
 Acresce e altera dispositivos do Decreto-lei nº 3.365, de 21 de junho de 1941, das Leis nºs 4.504, de 30 de novembro de 1964, 8.177, de 1º de março de 1991, e 8.629, de 25 de fevereiro de 1993, e dá outras providências.

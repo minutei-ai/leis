@@ -1,5 +1,3 @@
-###DEC-064768-0-000-01-07-1969@@@
-
 DECRETO Nº 64.768 - de 1 de Julho de 1969.
 
 Decreta intervenção federal no Município de Caetés, Estado de Pernambuco e dá outras providencias.

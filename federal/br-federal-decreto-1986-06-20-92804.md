@@ -1,5 +1,3 @@
-###DEC-092804-0-000-20-06-1986@@@
-
 DECRETO Nº 92.804, DE 20 DE JUNHO DE 1986
 
 Altera dispositivos do Regulamento para a Execução do Serviço de Transporte Rodoviário de Cargas ou Produtos Perigosos, baixado pelo Decreto nº 88.821, de 6 de outubro de 1983.

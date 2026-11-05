@@ -1,5 +1,3 @@
-###DEL-006323-0-000-07-03-1944@@@
-
 DECRETO-LEI N. 6.323 – DE 7 DE MARÇO DE 1944
 
 Concede pensão especial a viúva de condutor de malas da antiga administração dos Correios do Espírito Santo

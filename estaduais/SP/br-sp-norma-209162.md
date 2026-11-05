@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209162)<br>
-
 # DECRETO N° 68.368, DE 05 DE MARÇO DE 2024
 
 ### _Declara situação de emergência em saúde pública no Estado de São Paulo em razão de epidemia de Dengue e dá outras providências._

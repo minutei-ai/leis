@@ -1,5 +1,3 @@
-###DEL-009799-0-000-09-09-1946@@@
-
 DECRETO-LEl N. 9.799 – DE 9 DE SETEMBRO DE 1946
 
 Dispõe sôbre Regimento-padrão das Coletorias das Rendas Federais.

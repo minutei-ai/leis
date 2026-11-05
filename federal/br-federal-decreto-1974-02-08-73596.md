@@ -1,5 +1,3 @@
-###DEC-073596-0-000-08-02-1974@@@
-
 DECRETO nº 73.596, de 8 de Fevereiro de 1974.
 
 Outorga a concessão para obras de captação, derivação, regularização e aproveitamento hidráulico de um trecho do Rio Ribeira do Iguape, no Estado de São Paulo.

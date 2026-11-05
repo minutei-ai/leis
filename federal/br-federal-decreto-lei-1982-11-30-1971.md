@@ -1,5 +1,3 @@
-###DEL-001971-0-000-30-11-1982@@@
-
 # DECRETO-LEI Nº 1.971, DE 30 DE NOVEMBRO DE 1982
 
 Estabelece limite de remuneração mensal para os servidores, empregados e dirigentes da Administração Pública Direta e Autárquica da União e das respectivas entidades estatais, bem como para os do Distrito Federal e dos Territórios, e dá outras providências.

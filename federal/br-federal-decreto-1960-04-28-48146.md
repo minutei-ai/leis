@@ -1,5 +1,3 @@
-###DEC-048146-0-000-28-04-1960@@@
-
 decreto nº 48.146, de 28 de abril de 1960.
 
 Cria a Caixa Econômica Federal de Brasília, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-055104-0-000-02-12-1964@@@
-
 DECRETO Nº 55.104, DE 2 DE DEZEMBRO DE 1964.
 
 Concede à De Villa & Cia, autorização para funcionar como emprêsa de mineração.

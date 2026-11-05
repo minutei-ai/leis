@@ -1,4 +1,5 @@
-DECRETO “N” Nº 881 DE 17 DE OUTUBRO DE 2024<br>
+DECRETO “N” Nº 881 DE 17 DE OUTUBRO DE 2024
+
 (Revogado pelo Decreto "N" Nº 903, de 24 de outubro de 2024).
 
 ~~Dispõe sobre remembramento e desmembramento.~~
@@ -54,8 +55,10 @@ DECRETO “N” Nº 881 DE 17 DE OUTUBRO DE 2024<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 17 de outubro de 2024~~
 
-~~ALANNA RITIELLE P. DE ARAÚJO FRANÇA<br>
+~~ALANNA RITIELLE P. DE ARAÚJO FRANÇA
+
 Secretária de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
-Secretário de Planejamento e Regulação Urbana~~<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
+Secretário de Planejamento e Regulação Urbana~~

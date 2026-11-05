@@ -1,5 +1,3 @@
-###DEC-053611-0-000-26-02-1964@@@
-
 DECRETO Nº 53.611, DE 26 DE FEVEREIRO DE 1964.
 
 Complementa o Decreto nº 51.716, de 15 de fevereiro de 1963.

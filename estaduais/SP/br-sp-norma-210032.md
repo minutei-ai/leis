@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210032)<br>
-
 # DECRETO N° 68.899, DE 23 DE SETEMBRO DE 2024
 
 ### _Altera a redação do Decreto n° 68.577, de 5 de junho de 2024, que institui, junto à Secretaria de Meio Ambiente, Infraestrutura e Logística, o FINACLIMA-SP, e dá providências correlatas._

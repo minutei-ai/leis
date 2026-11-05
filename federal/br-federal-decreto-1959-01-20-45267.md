@@ -1,5 +1,3 @@
-###DEC-045267-0-000-20-01-1959@@@
-
 DECRETO Nº 45.267, DE 20 DE JANEIRO DE 1959.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado no Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-085858-0-000-30-03-1981@@@
-
 Decreto nº 85.858, de 30 de março de 1981
 
 Aprova alterações introduzidas no Estatuto da COMPANHIA AUXILIAR DE EMPRESAS ELÉTRICAS BRASILEIRAS - CAEEB.

@@ -1,5 +1,3 @@
-###DEL-008329-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.329 – DE 10 DE DEZEMBRO DE 1945
 
 Altera a carreira de Contínuo do Quadro Suplementar do Ministério da Guerra

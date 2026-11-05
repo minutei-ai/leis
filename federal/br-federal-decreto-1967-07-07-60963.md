@@ -1,5 +1,3 @@
-###DEC-060963-0-000-07-07-1967@@@
-
 DECRETO Nº 60.963, DE 7 DE JULHO DE 1967.
 
 Declara de utilidade pública o “Lar da Irmã Celeste”, com sede em São Paulo, Estado de São Paulo.

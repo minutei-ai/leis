@@ -1,5 +1,3 @@
-###DEC-060233-0-000-17-02-1967@@@
-
 Decreto nº 60.233, de 17 de fevereiro de 1967.
 
 Institui um Grupo de Trabalho para promover as medidas tendentes a recuperação das áreas do Estado do Rio, declaradas em estado de calamidade.

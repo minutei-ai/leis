@@ -1,7 +1,5 @@
 EMENDA CONSTITUCIONAL Nº 72, DE 8 DE JUNHO DE 2022.
 
-<br>
-
 Autoriza os municípios goianos a aderirem a plano de benefícios de previdência complementar que o Estado de Goiás seja patrocinador, atendidas as condições estabelecidas.
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 19 da [Constituição do Estado de Goiás](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152/constituicao-estadual), promulga a seguinte Emenda ao texto Constitucional:

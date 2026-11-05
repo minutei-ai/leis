@@ -1,5 +1,3 @@
-###DEC-067306-0-000-01-10-1970@@@
-
 DECRETO Nº 67.306, DE 1 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 28.921, de 30 de novembro de 1950, retificada pelo Decreto de nº 29.340 de 12 de março de 1951.

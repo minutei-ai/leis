@@ -1,5 +1,3 @@
-###DEL-007959-0-000-17-09-1945@@@
-
 DECRETO-LEI N. 7.959 – DE 17 DE SETEMBRO DE 1945
 
 Dispõe sôbre a locação de teatros no Distrito Federal e dá outras providências.

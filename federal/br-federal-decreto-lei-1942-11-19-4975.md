@@ -1,5 +1,3 @@
-###DEL-004975-0-000-19-11-1942@@@
-
 DECRETO-LEI N. 4.975 – DE 19 DE NOVEMBRO DE 1942
 
 Declara incorporada à campanha nacional contra o cancer a Sociedade Médica de Combate ao Cancer no Rio Grande do Sul

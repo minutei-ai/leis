@@ -1,5 +1,3 @@
-###DEC-048297-0-000-17-06-1960@@@
-
 DECRETO Nº 48.297, DE 17 DE JUNHO DE 1960.
 
 Dispõe sôbre a instituição da Fundação Educacional do Distrito Federal.

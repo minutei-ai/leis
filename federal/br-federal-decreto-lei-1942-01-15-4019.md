@@ -1,5 +1,3 @@
-###DEL-004019-0-000-15-01-1942@@@
-
 DECRETO-LEI N. 4.019 – DE 15 DE JANEIRO DE 1942
 
 Autoriza a Companhia Siderúrgica Nacional a desapropriar bens no Estado do Rio de Janeiro

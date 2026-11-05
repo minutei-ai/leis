@@ -1,5 +1,3 @@
-###DEC-068916-0-000-13-07-1971@@@
-
 DECRETO Nº 68.916, DE 13 DE JULHO DE 1971.
 
 Autoriza o funcionamento dos Cursos de Ciências Contábeis e de Ciências Administrativas do Instituto de Ciências Sociais São judas Tadeu - SP.

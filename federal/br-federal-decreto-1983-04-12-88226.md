@@ -1,5 +1,3 @@
-###DEC-088226-0-000-12-04-1983@@@
-
 Decreto nº 88.226, de 12 de abril de 1983
 
 Autoriza a venda ao Serviço Federal de Processamento de Dados-SERPRO do imóvel que menciona, situado no Município e Estado de São Paulo.

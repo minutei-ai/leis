@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/cfdc88f9-9c04-4115-a363-3d160b7299ce/texto#nowhere)
 
-###DEL-001289-0-000-29-11-1973@@@
-
 # DECRETO-LEI Nº 1.289, DE 29 DE NOVEMBRO DE 1973
 
 Autoriza a União a abrir, em favor do Ministério da Fazenda, crédito especial para o fim que especifica.

@@ -1,5 +1,3 @@
-###DEC-003494-0-000-29-05-2000@@@
-
 DECRETO Nº 3.494, DE 29 DE MAIO DE 2000.
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 9 (Setor Automotivo), e de sua Ata de Retificação de 16 de maio de 2000, entre os Governos da República Federativa do Brasil e dos Estados Unidos Mexicanos, de 9 de maio de 2000.
@@ -204,4 +202,20 @@ A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual en
 
 EM FÉ DO QUAL, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos nove dias do mês de maio do ano dois mil, em um exemplar nos idiomas espanhol e português, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:195pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo dos Estados Unidos Mexicanos:</span></p></td><td style="width:195pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Gustavo Iruegas Evaristo</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil:
+
+</td><td style="width:195pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+José Artur Denot Medeiros
+
+</td></tr><tr><td style="width:230.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo dos Estados Unidos Mexicanos:
+
+</td><td style="width:195pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Gustavo Iruegas Evaristo
+
+</td></tr></tbody></table>

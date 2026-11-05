@@ -1,5 +1,3 @@
-###DEC-006640-0-000-07-11-2008@@@
-
 DECRETO Nº 6.640, DE 7 DE NOVEMBRO DE 2008.
 
 Dá nova redação aos arts. 1o, 2o, 3o, 4o e 5o e acrescenta os arts. 5-A e 5-B ao Decreto no 99.556, de 1o de outubro de 1990, que dispõe sobre a proteção das cavidades naturais subterrâneas existentes no território nacional.

@@ -1,5 +1,3 @@
-###DEL-003507-0-000-14-08-1941@@@
-
 DECRETO-LEI N. 3.507 – DE 14 DE AGOSTO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a conceder isenção de imposto predial ao “Patronato das Crianças Pobres da Freguesia de São João Batista da Lagoa”, na forma que menciona.

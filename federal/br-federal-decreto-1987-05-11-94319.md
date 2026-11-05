@@ -1,5 +1,3 @@
-###DEC-094319-0-000-11-05-1987@@@
-
 DECRETO Nº 94.319, DE 11 DE MAIO DE 1987
 
 Outorga concessão à RADIODIFUSÃO LUZES DA RIBALTA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Santa Barbara D'Oeste, Estado de São Paulo.

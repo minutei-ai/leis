@@ -1,20 +1,18 @@
-###DEC-050590-0-000-15-05-1961@@@
+**DECRETO Nº 50.590, DE 15 DE MAIO DE 1961.**
 
-<strong>DECRETO Nº 50.590, DE 15 DE MAIO DE 1961.</strong>
+***Cria a Comissão Coordenadora de Construção do Tronco Principal sul e dá outras providências.***
 
-<em><strong>Cria a Comissão Coordenadora de Construção do Tronco Principal sul e dá outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É criada a Comissão Coordenadora da Construção do Tronco Principal Sul, subordinada diretamente ao Ministério da Viação e Obras Pública, com a finalidade de planejar e supervisionar e execução dêste empreendimento ferroviário dentro das seguintes prioridades:
+**Art**. 1º É criada a Comissão Coordenadora da Construção do Tronco Principal Sul, subordinada diretamente ao Ministério da Viação e Obras Pública, com a finalidade de planejar e supervisionar e execução dêste empreendimento ferroviário dentro das seguintes prioridades:
 
 \- primeira - trecho Itanguá-Engenheiro Blei - Mafra - Lajes - Vacaria - Gen. Luz e ligações Pôrto Alegre e Eng. Blei - Curitiba.
 
 \- segunda - trecho São Paulo - Garganta do Bonsucesso - Ger. Luz - Rio Grande.
 
-<strong>Art</strong>. 2º A Comissão será constituída pelo ministro da Viação e Obras Pública, como Presidente: Diretor de Engenharia e Comunicações do Exercito; Diretor do Departamento Nacional de Estradas de Ferro; Diretor de Vias de Transporte do Exército, representantes do Estado Maior das Fôrças Armadas, do Ministério da Fazenda, da Rêde Ferroviária Federal, do Banco Nacional do Desenvolvimento Econômico, do Banco do Brasil e representante do Ministério da Viação e Obras Públicas como Secretário-Executivo.
+**Art**. 2º A Comissão será constituída pelo ministro da Viação e Obras Pública, como Presidente: Diretor de Engenharia e Comunicações do Exercito; Diretor do Departamento Nacional de Estradas de Ferro; Diretor de Vias de Transporte do Exército, representantes do Estado Maior das Fôrças Armadas, do Ministério da Fazenda, da Rêde Ferroviária Federal, do Banco Nacional do Desenvolvimento Econômico, do Banco do Brasil e representante do Ministério da Viação e Obras Públicas como Secretário-Executivo.
 
 § 1º A. Comissão disposta de uma Secretaria-Executiva, instalaria no Ministério da Viação e Obras Públicas, que terá a seu cargo a preparação técnica e burocrática dos assuntos submetidos à sua apreciação.
 
@@ -26,7 +24,7 @@
 
 § 5º - A. Comissão deverá reunir-se obrigatòriamente, pelo manos uma vez por mês, fixada a primeira reunião até 10 de junho de 1961.
 
-<strong>Art</strong>. 3º Caberá à Comissão:
+**Art**. 3º Caberá à Comissão:
 
 \- Planejar integralmente a conclusão do TPS, definindo as metas anuais a serem atendidas, recursos necessários em pessoal material e equipamentos e orientação técnico-administrativa a ser obedecida.
 
@@ -46,7 +44,7 @@
 
 \- Sugerir à autoridade superior ou determinar, dentro de suas atribuições, as providências julgadas necessárias à mais rápida conclusão do TPS sabidas as prioridades fixadas pelo artigo 1º.
 
-<strong>Art</strong>. 4º - O Tronco Principal Sul e as ligações complementares Pôrto Alegre-Gen. Luz e Eng. Blei-Curitiba, obedecerão em sua construção as condições técnicas fixadas para Troncos Principais de bitola larga (1,60). Uma vez concluído será o TPS incorporado à Rede Ferroviária Federal S. A. que se incumbirá de seu equipamento e exploração como unidade integrada.
+**Art**. 4º - O Tronco Principal Sul e as ligações complementares Pôrto Alegre-Gen. Luz e Eng. Blei-Curitiba, obedecerão em sua construção as condições técnicas fixadas para Troncos Principais de bitola larga (1,60). Uma vez concluído será o TPS incorporado à Rede Ferroviária Federal S. A. que se incumbirá de seu equipamento e exploração como unidade integrada.
 
 § 1º No decorrer da construção do TPS, admitir-se-á entretanto ao trecho de 1ª urgência em uma 1ª fase transitória, a instalação de bitola métrica, tendo em vista o aproveitamento imediato dos trechos já em tráfego e do ramal da Estrada de Ferro Sorocabana, entre Itanguá e São Paulo.
 
@@ -54,17 +52,17 @@
 
 § 3º O trecho de 2ª urgência será construído desde logo em bitola mista.
 
-<strong>Art</strong>. 5º - O Ministério da Fazenda, por solicitação do Presidente da Comissão, fornecerá obrigatòriamente aos órgãos executantes as importâncias necessários, em divisas estrangeiras, sempre que se fizer necessárias aquisição de equipamentos e material diversos, no exterior, sendo que o valor dessas importâncias será coberto ao câmbio oficial, pela dotação orçamentária ou outros recursos atribuídos à construção do TPS.
+**Art**. 5º - O Ministério da Fazenda, por solicitação do Presidente da Comissão, fornecerá obrigatòriamente aos órgãos executantes as importâncias necessários, em divisas estrangeiras, sempre que se fizer necessárias aquisição de equipamentos e material diversos, no exterior, sendo que o valor dessas importâncias será coberto ao câmbio oficial, pela dotação orçamentária ou outros recursos atribuídos à construção do TPS.
 
-<strong>Art</strong>. 6º - A. aquisição de materiais, equipamentos e prestação de serviço, quando justificada devidamente; poderá ser efetuada independentemente de concorrência e mediante adiantamentos desde que autorizada pelo Exmo. Senhor Presidente da República, por solicitação da Comissão.
+**Art**. 6º - A. aquisição de materiais, equipamentos e prestação de serviço, quando justificada devidamente; poderá ser efetuada independentemente de concorrência e mediante adiantamentos desde que autorizada pelo Exmo. Senhor Presidente da República, por solicitação da Comissão.
 
-<strong>Art</strong>. 7º - A. Comissão será automàticamente extinta 120 dias, após a conclusão integral do TPS e trechos complementares e sua entrega à Rêde Ferroviária Federal S.A.; transferindo-se o seu acêrvo próprio e dos órgãos de execução, respectivamente aos Ministérios a que estiverem subordinados.
+**Art**. 7º - A. Comissão será automàticamente extinta 120 dias, após a conclusão integral do TPS e trechos complementares e sua entrega à Rêde Ferroviária Federal S.A.; transferindo-se o seu acêrvo próprio e dos órgãos de execução, respectivamente aos Ministérios a que estiverem subordinados.
 
-<strong>Art</strong>. 8º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposição em contrário.
+**Art**. 8º - O presente decreto entrará em vigor na data de sua publicação, revogadas as disposição em contrário.
 
 Brasília, em 15 de maio de 1961; 140º da Independência e 73º da República.
 
-<strong>JÂNIO QUADROS</strong>
+**JÂNIO QUADROS**
 
 Clovis Pestana
 

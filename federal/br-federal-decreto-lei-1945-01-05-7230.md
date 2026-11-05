@@ -1,5 +1,3 @@
-###DEL-007230-0-000-05-01-1945@@@
-
 DECRETO-LEI N. 7.230 – DE 5 DE JANEIRO 1945
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 69.964,30, para pagamento de diferença de vencimentos e vantagens de magistério

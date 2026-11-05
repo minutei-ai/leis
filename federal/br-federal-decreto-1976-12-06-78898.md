@@ -1,5 +1,3 @@
-###DEC-078898-0-000-06-12-1976@@@
-
 Decreto nº 78.898, de 6 de dezembro de 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração de Pinhal, com sede na cidade de Pinhal, Estado de São Paulo.

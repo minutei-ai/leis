@@ -1,5 +1,3 @@
-###DEC-045991-0-000-14-05-1959@@@
-
 DECRETO Nº 45.991, DE 14 DE MAIO DE 1959.
 
 Concede à “Rutas Aéreas de Colômbia Limitada RAS” autorização para funcionar na República.

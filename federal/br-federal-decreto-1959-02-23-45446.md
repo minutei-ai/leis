@@ -1,5 +1,3 @@
-###DEC-045446-0-000-23-02-1959@@@
-
 decreto nº 45.446, de 23 de fevereiro de 1959
 
 Concede o abono provisório aos servidores da Comissão de Marinha Mercante.

@@ -1,5 +1,3 @@
-###DEC-046123-0-000-26-05-1959@@@
-
 decreto nº 46.123, de 26 de maio de 1959.
 
 Cria a Floresta Nacional de Jaíba e dá outras providências.

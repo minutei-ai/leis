@@ -14,10 +14,12 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação.
 
 Aparecida de Goiânia, 2 de outubro de 2025.
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO I
@@ -266,7 +268,8 @@ IX - prestar assessoria imediata ao Subchefe e ao titular da Casa Civil, elabora
 
 X - exercer outras atribuições correlatas à sua área de atuação e que lhe forem determinadas pelos superiores hierárquicos.
 
-Subseção Única<br>
+Subseção Única
+
 Da Diretoria Legislativa
 
 Art. 12. Compete à Diretoria Legislativa, unidade integrante da Superintendência Legislativa, e ao seu titular:
@@ -309,7 +312,8 @@ VII – formatar, conforme normas de técnica legislativa, e promover análise t
 
 VIII - exercer outras atribuições correlatas à sua área de atuação e que lhe forem determinadas pelos superiores hierárquicos.
 
-Subseção Única<br>
+Subseção Única
+
 Da Diretoria Jurídica
 
 Art. 14. Compete à Diretoria Jurídica, unidade integrante da Superintendência Jurídica, e ao seu titular:
@@ -346,7 +350,8 @@ Aparecida de Goiânia, 2 de outubro de 2025.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO II
@@ -355,4 +360,70 @@ Quadro Demonstrativo dos Cargos em Comissão Lei Complementar nº 203, de 2023.
 
 1 - GABINETE DO PREFEITO
 
-<table><tbody><tr><td style="width:491px; ">GABINETE DO PREFEITO - NOMENCLATURA DOS CARGOS EM COMISSÃO DA ESTRUTURA ORGANIZACIONAL - LEI COMPLEMENTAR Nº 203, de 2021</td><td style="width:85px; ">QUANT.</td><td style="width:94px; ">SÍMBOLO</td></tr><tr><td style="width:491px; ">1. Gabinete do Prefeito</td><td style="width:85px; ">&nbsp;</td><td style="width:94px; ">&nbsp;</td></tr><tr><td style="width:491px; ">1.1. Chefe de Gabinete do Prefeito</td><td style="width:85px; ">01</td><td style="width:94px; ">DS-1</td></tr><tr><td style="width:491px; ">Superintendente</td><td style="width:85px; ">01</td><td style="width:94px; ">DS-2</td></tr><tr><td style="width:491px; ">1.1.2. Coordenador</td><td style="width:85px; ">02</td><td style="width:94px; ">CC-1</td></tr><tr><td style="width:491px; ">1.1.3. Assessor Especial do Gabinete do Prefeito</td><td style="width:85px; ">12</td><td style="width:94px; ">DS-2</td></tr><tr><td style="width:491px; ">1.2. Chefe da Casa Civil</td><td style="width:85px; ">01</td><td style="width:94px; ">DSE-1</td></tr><tr><td style="width:491px; ">1.2.1. Subchefe da Casa Civil</td><td style="width:85px; ">01</td><td style="width:94px; ">DSE-1</td></tr><tr><td style="width:491px; ">1.2.1.1. Superintendente Jurídico</td><td style="width:85px; ">01</td><td style="width:94px; ">DS-2</td></tr><tr><td style="width:491px; ">1.2.1.1.1. Diretor Jurídico</td><td style="width:85px; ">01</td><td style="width:94px; ">DS-3</td></tr><tr><td style="width:491px; ">1.2.1.2. Superintendente Legislativo</td><td style="width:85px; ">01</td><td style="width:94px; ">DS-2</td></tr><tr><td style="width:491px; ">1.2.1.2.1. Diretor Legislativo</td><td style="width:85px; ">01</td><td style="width:94px; ">DS-3</td></tr></tbody></table>
+GABINETE DO PREFEITO - NOMENCLATURA DOS CARGOS EM COMISSÃO DA ESTRUTURA ORGANIZACIONAL - LEI COMPLEMENTAR Nº 203, de 2021
+
+QUANT.
+
+SÍMBOLO
+
+1. Gabinete do Prefeito
+
+1.1. Chefe de Gabinete do Prefeito
+
+01
+
+DS-1
+
+Superintendente
+
+01
+
+DS-2
+
+1.1.2. Coordenador
+
+02
+
+CC-1
+
+1.1.3. Assessor Especial do Gabinete do Prefeito
+
+12
+
+DS-2
+
+1.2. Chefe da Casa Civil
+
+01
+
+DSE-1
+
+1.2.1. Subchefe da Casa Civil
+
+01
+
+DSE-1
+
+1.2.1.1. Superintendente Jurídico
+
+01
+
+DS-2
+
+1.2.1.1.1. Diretor Jurídico
+
+01
+
+DS-3
+
+1.2.1.2. Superintendente Legislativo
+
+01
+
+DS-2
+
+1.2.1.2.1. Diretor Legislativo
+
+01
+
+DS-3

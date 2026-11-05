@@ -1,5 +1,3 @@
-###DEC-094443-0-000-12-06-1987@@@
-
 DECRETO Nº 94.443, DE 12 DE JUNHO DE 1987
 
 Atribui ao Ministério da Fazenda competência para exercer atividades relativas aos serviços de colocação e resgate de títulos da dívida pública mobiliária federal, e dá outras providências.

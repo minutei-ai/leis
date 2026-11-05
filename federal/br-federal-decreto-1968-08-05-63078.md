@@ -1,14 +1,12 @@
-###DEC-063078-0-000-05-08-1968@@@
+**DECRETO Nº 63.078, DE 5 DE AGÔSTO DE 1968.**
 
-<strong>DECRETO Nº 63.078, DE 5 DE AGÔSTO DE 1968.</strong>
+***Altera as “Instruções Gerais para a Inspeção de Saúde de Conscritos nas Fôrças Armadas”, aprovadas pelo Decreto nº 60.822, de 7 de junho de 1967.***
 
-<em><strong>Altera as “Instruções Gerais para a Inspeção de Saúde de Conscritos nas Fôrças Armadas”, aprovadas pelo Decreto nº 60.822, de 7 de junho de 1967.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuições que lhe confere o Art. 83, inciso II, da Constituição, e de conformidade com o disposto no Art. 15 da Lei nº 4.375, de 17 de agôsto de 1964 e no parágrafo único do Art. 26 e Art. 255 do Decreto nº 57.654, de 20 de janeiro de 1966,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuições que lhe confere o Art. 83, inciso II, da Constituição, e de conformidade com o disposto no Art. 15 da Lei nº 4.375, de 17 de agôsto de 1964 e no parágrafo único do Art. 26 e Art. 255 do Decreto nº 57.654, de 20 de janeiro de 1966,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os itens 5.2, 5.2.1, 5.2.4, 5.2.6 e 5.3 das Instruções Gerais para a Inspeção de Saúde de Conscritos nas Fôrças Armadas, aprovadas pelo Decreto nº 60.822, de 7 de junho de 1967, passam a ter a seguinte redação:
+**Art**. 1º Os itens 5.2, 5.2.1, 5.2.4, 5.2.6 e 5.3 das Instruções Gerais para a Inspeção de Saúde de Conscritos nas Fôrças Armadas, aprovadas pelo Decreto nº 60.822, de 7 de junho de 1967, passam a ter a seguinte redação:
 
 5.2 - A JIS de conscritos deverá ser constituída por três médicos militares da ativa convocados ou da reserva, sob a presidência do mais antigo ou maior pôsto.
 
@@ -24,11 +22,11 @@
 
 \- médicos civis, completando-a, na falta de médicos militares.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogando as disposições em contrário.
 
 Brasília, 5 de agôsto de 1968; 147º da Independência e 80º da República.
 
-<strong>A. COSTA E SILVA</strong>
+**A. COSTA E SILVA**
 
 Augusto Hamann Rademaker Grünewald
 

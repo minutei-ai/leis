@@ -1,5 +1,3 @@
-###DEC-055287-0-000-28-12-1964@@@
-
 DECRETO Nº 55.287, DE 28 DE DEZEMBRO DE 1964.
 
 Abre, pelo ministério da Viação e Obras Públicas, o crédito especial de Cr$980.000.000,00 para fim que menciona.

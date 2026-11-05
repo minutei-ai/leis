@@ -1,5 +1,3 @@
-###DEC-088224-0-000-11-04-1983@@@
-
 Decreto nº 88.224, de 11 de abril de 1983
 
 Extingue Capitania dos Portos e Agências de Capitanias.

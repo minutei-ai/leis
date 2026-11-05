@@ -1,5 +1,3 @@
-###DEC-002440-0-000-23-12-1997@@@
-
 DECRETO Nº 2.440, DE 23 DE DEZEMBRO DE 1997
 
 Fixa o valor mínimo a que se refere o art. 6º da Lei nº 9.424, de 24 de dezembro de 1996.

@@ -1,5 +1,3 @@
-###DEC-084523-0-000-03-03-1980@@@
-
 decreto nº 84.523, de 03 de março de 1980
 
 Dispõe sobre a criação de área prioritária, para fins de reforma agrária, no Estado de Mato Grosso, e dá outras providências.

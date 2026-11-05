@@ -1,5 +1,3 @@
-###DEC-061171-0-000-18-08-1967@@@
-
 decreto Nº 61.171,de 18 de agôsto de 1967.
 
 Cria o Comando Naval de Ladário e dá outras providências.

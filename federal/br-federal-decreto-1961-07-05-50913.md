@@ -1,5 +1,3 @@
-###DEC-050913-0-000-05-07-1961@@@
-
 decreto nº 50.913, de 5 de julho de 1961.
 
 Institui Grupo de Trabalho com a finalidade de estudar as providências necessárias ao reequipamento técnico e científico das Universidades do Nordeste.

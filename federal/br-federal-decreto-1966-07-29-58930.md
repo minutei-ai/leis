@@ -1,5 +1,3 @@
-###DEC-058930-0-000-29-07-1966@@@
-
 DECRETO Nº 58.930, de 29 de julho de 1966.
 
 Ministério da Fazenda - Abre o crédito especial de Cr$15.000.000, para pagamento de aluguéis atrasados de prédios ocupados por Exatorias Federais no Estado de Minas Gerais.

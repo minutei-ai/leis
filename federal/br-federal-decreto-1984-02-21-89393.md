@@ -1,5 +1,3 @@
-###DEC-089393-0-000-21-02-1984@@@
-
 Decreto nº 89.393, de 21 de fevereiro de 1984
 
 Cassa a concessão outorgada à RÁDIO TAPAJÓS DE PITANGA LTDA., para executar serviço de radiodifusão sonora em onda média, na cidade de Pitanga, Estado do Paraná.

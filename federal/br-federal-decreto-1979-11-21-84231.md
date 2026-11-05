@@ -1,5 +1,3 @@
-###DEC-084231-0-000-21-11-1979@@@
-
 Decreto nº 84.231, de 21 de novembro de 1979
 
 Autoriza, até 31 de dezembro de 1980, o aproveitamento dos navios estrangeiros na cabotagem nacional.

@@ -1,5 +1,3 @@
-###DEC-052760-0-000-25-10-1963@@@
-
 DECRETO Nº 52.760, DE 25 de Outubro DE 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica a ampliar o seu sistema de transmissão.

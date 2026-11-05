@@ -1,5 +1,3 @@
-###DEC-055981-0-000-22-04-1965@@@
-
 decreto nº 55.981, de 22 de abril de 1965.
 
 Dispõe sôbre a importação de aves e ovos para reprodução e dá outras providências.

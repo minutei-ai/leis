@@ -1,14 +1,12 @@
-###DEC-028016-0-000-20-04-1950@@@
+**DECRETO Nº 28.016, DE 20 DE ABRIL DE 1950.**
 
-<strong>DECRETO Nº 28.016, DE 20 DE ABRIL DE 1950.</strong>
+***Dá nova redação ao art. 2º do Decreto nº 125, de 30 de outubro de 1934, que outorgou concessão a Américo René Giannetti ou á emprêsa que organizou para o aproveitamento de energia hidráulica de diversos trechos de rios no Estado de Minas Gerais.***
 
-<em><strong>Dá nova redação ao art. 2º do Decreto nº 125, de 30 de outubro de 1934, que outorgou concessão a Américo René Giannetti ou á emprêsa que organizou para o aproveitamento de energia hidráulica de diversos trechos de rios no Estado de Minas Gerais.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O art. 2º do Decreto número 125, de 30 de outubro de 1934, passa a ter a seguinte redação:
+**Art**. 1º O art. 2º do Decreto número 125, de 30 de outubro de 1934, passa a ter a seguinte redação:
 
 O concessionário fica obrigado a :
 
@@ -40,12 +38,12 @@ VII - Organizar sua emprêsa e suas instalações de modo a facilitar a mobiliza
 
 VIII - Vender de preferencia ao Govêrno Federal a produção de suas usinas, podendo este Govêrno contratar a fabricação de tipos determinados de produtos.
 
-<strong>Art</strong>. 2º O presente decreto entra em vigor na data de sua publicação.
+**Art**. 2º O presente decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 20 de abril de 1950, 129º da Independência e 62º da república.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

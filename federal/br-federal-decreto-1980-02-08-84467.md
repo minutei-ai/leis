@@ -1,5 +1,3 @@
-###DEC-084467-0-000-08-02-1980@@@
-
 DECRETO Nº 84.467, DE 08 DE FEVEREIRO DE 1980.
 
 Concede à "IRAQI AIRWAYS", autorização a funcionar no Brasil.

@@ -1,5 +1,3 @@
-###DEC-006568-0-000-16-09-2008@@@
-
 DECRETO Nº 6.568, DE 16 DE SETEMBRO DE 2008.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1792, de 19 de dezembro de 2007, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a Libéria.

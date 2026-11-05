@@ -1,5 +1,3 @@
-###DEC-050880-0-000-29-06-1961@@@
-
 DECRETO Nº 50.880, DE 29 DE JUNHO DE 1961.
 
 Proíbe, até 31 de dezembro de 1966, a caça em municípios dos Estados de Mato Grosso e Paraná e dá outras providências.

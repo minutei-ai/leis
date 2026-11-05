@@ -1,5 +1,3 @@
-###DEC-061715-0-000-22-11-1967@@@
-
 DECRETO Nº 61.715, DE 22 DE NOVEMBRO DE 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica no distrito de Rio Novo do Sul, Município de Rio Nôvo do Sul, Estado do Espírito Santo, outorga concessão no município de Rio Nôvo do Sul, Estado do Espírito Santo à Espírito Santo Centrais Elétricas S.A. e dá outras providências.

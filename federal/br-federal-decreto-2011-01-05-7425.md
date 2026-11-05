@@ -1,5 +1,3 @@
-###DEC-007425-0-000-05-01-2011-PUB-01@@@
-
 DECRETO Nº 7.425, DE 5 DE JANEIRO DE 2011
 
 Dispõe sobre a execução orçamentária dos órgãos, dos fundos e das entidades do Poder Executivo até a publicação da Lei Orçamentária de 2011.

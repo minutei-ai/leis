@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211217)<br>
-
 # DECRETO N° 69.720, DE 18 DE JULHO DE 2025
 
 ### _Ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975._

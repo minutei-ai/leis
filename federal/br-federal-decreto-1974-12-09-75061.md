@@ -1,5 +1,3 @@
-###DEC-075061-0-000-09-12-1974@@@
-
 Decreto nº 75.061, de 9 de dezembro de 1974.
 
 Institui no Ministério da Agricultura a Campanha Nacional de Erradicação do Cancro Cítrico e dá outras providências.

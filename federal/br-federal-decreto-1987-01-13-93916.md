@@ -1,5 +1,3 @@
-###DEC-093916-0-000-13-01-1987@@@
-
 DECRETO Nº 93.916, DE 13 DE JANEIRO DE 1987
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos Municípios de Carnaubais e Alto do Rodrigues, no Estado do Rio Grande do Norte, necessários à construção do Gasoduto Estreito "B"/Serraria e Variante, e de Ramal do Oleoduto Estreito/Guamaré.

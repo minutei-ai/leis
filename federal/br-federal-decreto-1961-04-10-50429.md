@@ -1,5 +1,3 @@
-###DEC-050429-0-000-10-04-1961@@@
-
 DECRETO Nº 50.429, DE 10 DE ABRIL DE 1961.
 
 Concede à Sociedade Transporte e navegação S.A. autorizado para funcionar como emprêsa de navegado de cabotagem.

@@ -1,4 +1,5 @@
-LEI Nº 21.066, DE 22 DE JULHO DE 2021<br>
+LEI Nº 21.066, DE 22 DE JULHO DE 2021
+
 _\-_ _[Vide Decreto nº 9.928, de 23-8-2021](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104267/decreto-9928) (Regulamento)_
 
 Dispõe sobre a adesão do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso, conforme a Lei Complementar federal nº 160, de 7 de agosto de 2017, e o Convênio ICMS 190/17, de 15 de dezembro de 2017 .
@@ -53,7 +54,8 @@ III – não possua crédito tributário inscrito em dívida ativa estadual.
 
 § 1º Na hipótese do inciso II, a falta de pagamento ou o pagamento parcial correspondente a determinado período de apuração implica perda do direito de o estabelecimento utilizar o crédito outorgado previsto no art. 4º, exclusivamente no referido período de apuração, exceto quando, antes do início da ação fiscal, houver o pagamento integral ou parcial, hipótese em que fica permitida a utilização integral ou proporcional do benefício, conforme o caso, observadas, ainda, as demais disposições previstas na legislação tributária.
 
-§ 2º Na hipótese do inciso III do _caput_ deste artigo, a existência de crédito tributário inscrito em dívida ativa implica a perda do direito do estabelecimento de utilizar o benefício fiscal, exceto quando, antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, houver o pagamento integral do crédito tributário inscrito em dívida ativa, observadas as demais disposições previstas na legislação tributária.<br>
+§ 2º Na hipótese do inciso III do _caput_ deste artigo, a existência de crédito tributário inscrito em dívida ativa implica a perda do direito do estabelecimento de utilizar o benefício fiscal, exceto quando, antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, houver o pagamento integral do crédito tributário inscrito em dívida ativa, observadas as demais disposições previstas na legislação tributária.
+
 \- [Redação dada pela Lei nº 23.245, de 24-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110410/lei-23245).
 
 ~~§ 2º Na hipótese do inciso III, o estabelecimento fica impedido de utilizar, em caráter definitivo, o crédito outorgado previsto no art. 4º, na apuração do ICMS correspondente ao mês da inscrição em dívida ativa até a apuração do ICMS correspondente ao mês anterior à sua regularização, conforme a legislação tributária.~~

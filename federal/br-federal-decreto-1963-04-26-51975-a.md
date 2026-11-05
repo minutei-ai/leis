@@ -1,5 +1,3 @@
-###DEC-051975-A-000-26-04-1963@@@
-
 DECRETO Nº 51.975-a, DE 26 DE ABRIL DE 1963.
 
 Renova a autorização contida no Decreto nº 48.366, de 22 de junho de 1960.

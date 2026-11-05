@@ -1,5 +1,3 @@
-###DEL-006565-0-000-07-06-1944@@@
-
 DECRETO-LEI N. 6.565 – DE 7 DE JUNHO DE 1944
 
 Declara como floresta protetora, de acôrdo com o art. 11, parágrafo único, do Decreto nº 23.793, de 23 de janeiro de 1934, uma área de matas da propriedade de D. Mariana Cascardo, no Distrito Federal

@@ -1,5 +1,3 @@
-###DEC-082353-0-000-02-10-1978@@@
-
 Decreto nº 82.353 de 02 de outubro de 1978
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Processamento de Dados da Universidade Federal do Ceará, com sede na cidade de Fortaleza, Estado do Ceará.

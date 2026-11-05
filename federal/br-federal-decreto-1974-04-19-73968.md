@@ -1,5 +1,3 @@
-###DEC-073968-0-000-19-04-1974@@@
-
 DECRETO Nº 73.968, DE 19 DE ABRIL DE 1974.
 
 Cria e extingue Agências na jurisdição da Capitania de Portos do Estado de Pernambuco.

@@ -1,5 +1,3 @@
-###DEC-079489-0-000-13-04-1977@@@
-
 DECRETO Nº 79.489, de 13 de Abril de 1977.
 
 Concede reconhecimento aos cursos de Desenho Industrial, de Comunicação Visual e de Educação Artística, ministrados pela União de Faculdades Francanas, com sede na cidade de Franca, Estado de São Paulo.

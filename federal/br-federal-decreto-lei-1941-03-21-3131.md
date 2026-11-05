@@ -1,5 +1,3 @@
-###DEL-003131-0-000-21-03-1941@@@
-
 DECRETO-LEI N. 3.131 – DE 21 DE MARÇO DE 1941
 
 Autoriza a aquisição da Fazenda “Alambarí Pequeno”, no Município de Resende, destinada à construção da barragem para o abastecimento dágua à nova Escola Militar.

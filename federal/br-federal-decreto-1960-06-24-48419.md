@@ -1,5 +1,3 @@
-###DEC-048419-0-000-24-06-1960@@@
-
 decreto nº 48.419, de 24 de junho de 1960.
 
 Autoriza a Companhia Elétrica Caiuá a ampliar suas instalações de energia elétrica.

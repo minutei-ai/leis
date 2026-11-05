@@ -1,5 +1,3 @@
-###DEC-061018-0-000-14-07-1967@@@
-
 DECRETO Nº 61.018, DE 14 DE JULHO DE 1967.
 
 Dispõe sôbre a aplicação de normas do Decreto-lei nº 37, de 18 de novembro de 1966, relativas ao serviço de remessas postais internacionais sujeitas à fiscalização aduaneira.

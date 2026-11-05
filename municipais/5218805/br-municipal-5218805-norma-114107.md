@@ -40,9 +40,10 @@ Art. 8º Esta Lei será regulamentada por ato do Chefe do Poder Executivo e entr
 
 Gabinete do Prefeito de Rio Verde, aos 17 de novembro de 2025.
 
-WELLINGTON SOARES CARRIJO FILHO<br>
+WELLINGTON SOARES CARRIJO FILHO
+
 Prefeito de Rio Verde
 
-<br>
-VINÍCIUS FONSÊCA CAMPOS<br>
-Procurador-Geral<br>
+VINÍCIUS FONSÊCA CAMPOS
+
+Procurador-Geral

@@ -1,5 +1,3 @@
-###DEC-074399-0-000-13-08-1974@@@
-
 DECRETO Nº 74.399 - DE 13 DE AGOSTO DE 1974.
 
 Concede à CRM - Companhia Riograndense de Mineração o direito de lavrar carvão mineral no Município de Bagé, Estado do Rio Grande do Sul.

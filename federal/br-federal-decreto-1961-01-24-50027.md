@@ -1,5 +1,3 @@
-###DEC-050027-0-000-24-01-1961@@@
-
 DECRETO Nº 50.027, DE 24 DE JANEIRO DE 1961.
 
 Autoriza a cidadã brasileira Alice dos Santos Neves a pesquisar pedras coradas no município de Nova Venécia, Estado do Espírito Santo.

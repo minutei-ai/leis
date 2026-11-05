@@ -1,5 +1,3 @@
-###DEC-057780-0-000-11-02-1966@@@
-
 DECRETO Nº 57.780, DE 11 DE FEVEREIRO DE 1966.
 
 Concede à sociedade anônima The Coca-Cola Export Corporation autorização para continuar a funcionar na República.

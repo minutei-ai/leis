@@ -1,5 +1,3 @@
-###DEC-096402-0-000-22-07-1988@@@
-
 DECRETO N° 96.402, DE 22 DE JULHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação Rio Novo, da Companhia Força e Luz Cataguazes-Leopoldina, no Estado de Minas Gerais.

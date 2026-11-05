@@ -1,5 +1,3 @@
-###DEC-073635-0-000-13-02-1974@@@
-
 DECRETO Nº 73.635, DE 13 DE FEVEREIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 72.045, de 30 de março de 1973, através do qual foi concedido a Águas do Salvador Ltda. o direto de lavrar água mineral, no Município de Campos Novos Paulista, Estado de São Paulo.

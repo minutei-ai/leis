@@ -1,5 +1,3 @@
-###DEC-045260-0-000-16-01-1959@@@
-
 DECRETO Nº 45.260 DE 16 DE JANEIRO DE 1959.
 
 Reduz, temporariamente, exigências de interstício e de serviço efetivo do Regulamento de Promoções para oficiais da Marinha.

@@ -1,5 +1,3 @@
-###DEC-056160-0-000-27-04-1965@@@
-
 DECRETO Nº 56.160, DE 27 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Manoel Ferreira da Silva a pesquisar mica e quartzo, no município de Virgolândia, Estado de Minas Gerais.

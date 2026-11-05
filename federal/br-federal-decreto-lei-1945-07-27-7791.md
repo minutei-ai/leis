@@ -1,5 +1,3 @@
-###DEL-007791-0-000-27-07-1945@@@
-
 DECRETO-LEI N. 7.791 – DE 27 DE JULHO DE 1945
 
 Eleva os vencimentos do cargo de Chefe de Cartografia do Quadro Suplementar do Ministério da Guerra.

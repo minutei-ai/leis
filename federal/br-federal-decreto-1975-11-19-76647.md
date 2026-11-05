@@ -1,5 +1,3 @@
-###DEC-076647-0-000-19-11-1975@@@
-
 DECRETO Nº 76.647, DE 19 de NOVEMBRO DE 1975.
 
 Autoriza o funcionamento do curso de Educação Artística da Faculdade de Educação de Marília, com sede na cidade de Marília, Estado de São Paulo.

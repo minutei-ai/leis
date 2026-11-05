@@ -1,5 +1,3 @@
-###MPV-001985-0-025\-09-03-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.985-25, DE 9 de março DE 2000.
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

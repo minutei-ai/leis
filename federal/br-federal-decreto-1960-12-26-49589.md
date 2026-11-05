@@ -1,5 +1,3 @@
-###DEC-049589-0-000-26-12-1960@@@
-
 DECRETO Nº 49.589, DE 26 DE DEZEMBRO DE 1960.
 
 Fixa a distribuição, em cada Arma e em cada pôsto, das funções gerais dos Oficiais do Exército, a vigorar a partir de 24 de dezembro de 1960.
@@ -10,7 +8,183 @@ Decreta:
 
 Art. 1º - São os efetivos globais das Armas atualmente em vigor, distribuídos em cada Arma e em cada pôsto pelas funções gerais (Q.E.M.G. e Q.S.G.) e pelas funções privativas da seguinte forma:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; margin-bottom:0; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:80.85pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>POSTOS</span></p></td><td style="width:107.05pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ARMAS</span></p></td><td style="width:71pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Funções Gerais Q. E. M. G. e Q. S. G.</span></p></td><td style="width:64.5pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Funções Privativas</span></p></td><td style="width:80.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Efetivo Previsto dos Postos</span></p></td></tr><tr><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Coronel</span></p></td><td style="width:107.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Infantaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cavalaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Artilharia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Engenharia</span></p></td><td style="width:71pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>126</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>48</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>45</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:64.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>38</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>29</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>23</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>31</span></p></td><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>340</span></p></td></tr><tr><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Tenente Coronel</span></p></td><td style="width:107.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Infantaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cavalaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Artilharia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Engenharia</span></p></td><td style="width:71pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>166</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>102</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>93</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:64.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>116</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>40</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>82</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>65</span></p></td><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>665</span></p></td></tr><tr><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Major</span></p></td><td style="width:107.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Infantaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cavalaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Artilharia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Engenharia</span></p></td><td style="width:71pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>339</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>161</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>191</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:64.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>232</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>123</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>174</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>125</span></p></td><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.345</span></p></td></tr><tr><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Capitão</span></p></td><td style="width:107.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Infantaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cavalaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Artilharia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Engenharia</span></p></td><td style="width:71pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>345</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>173</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>349</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>129</span></p></td><td style="width:64.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>588</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>220</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>364</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>177</span></p></td><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.345</span></p></td></tr><tr><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1º Tenente</span></p></td><td style="width:107.05pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Infantaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cavalaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Artilharia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Engenharia</span></p></td><td style="width:71pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>31</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>25</span></p></td><td style="width:64.5pt; border-style:solid; border-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>585</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>233</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>400</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>189</span></p></td><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.463</span></p></td></tr><tr><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2º Tenente</span></p></td><td style="width:107.05pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Infantaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Cavalaria</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Artilharia</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Engenharia</span></p></td><td style="width:71pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:bottom"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>-</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:64.5pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>246</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>107</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>159</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>116</span></p></td><td style="width:80.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Variável (Lei nº 2.391, de 7 de janeiro de 1955</span></p></td></tr></tbody></table>
+POSTOS
+
+ARMAS
+
+Funções Gerais Q. E. M. G. e Q. S. G.
+
+Funções Privativas
+
+Efetivo Previsto dos Postos
+
+Coronel
+
+Infantaria
+
+Cavalaria
+
+Artilharia
+
+Engenharia
+
+126
+
+48
+
+45
+
+-
+
+38
+
+29
+
+23
+
+31
+
+340
+
+Tenente Coronel
+
+Infantaria
+
+Cavalaria
+
+Artilharia
+
+Engenharia
+
+166
+
+102
+
+93
+
+1
+
+116
+
+40
+
+82
+
+65
+
+665
+
+Major
+
+Infantaria
+
+Cavalaria
+
+Artilharia
+
+Engenharia
+
+339
+
+161
+
+191
+
+-
+
+232
+
+123
+
+174
+
+125
+
+1.345
+
+Capitão
+
+Infantaria
+
+Cavalaria
+
+Artilharia
+
+Engenharia
+
+345
+
+173
+
+349
+
+129
+
+588
+
+220
+
+364
+
+177
+
+2.345
+
+1º Tenente
+
+Infantaria
+
+Cavalaria
+
+Artilharia
+
+Engenharia
+
+-
+
+-
+
+31
+
+25
+
+585
+
+233
+
+400
+
+189
+
+1.463
+
+2º Tenente
+
+Infantaria
+
+Cavalaria
+
+Artilharia
+
+Engenharia
+
+-
+
+-
+
+-
+
+-
+
+246
+
+107
+
+159
+
+116
+
+Variável (Lei nº 2.391, de 7 de janeiro de 1955
 
 Art. 2º A vigência do presente decreto é considerada a partir de 24 de dezembro de 1960.
 

@@ -1,5 +1,3 @@
-###DEC-064926-0-000-05-08-1969@@@
-
 Decreto nº 64.926 - de 5 de agôsto de 1969.
 
 Regula a composição e o funcionamento do Conselho de Política Aduaneira (CPA).

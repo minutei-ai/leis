@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decre
 
 Art. 1º - Fica criado, no Grupo Ocupacional Serviços Públicos de Saúde, instituído pela [Lei nº 5.828, de 10 de junho de 1990](https://www.legislabahia.ba.gov.br/documentos/lei-no-5828-de-13-de-junho-de-1990#LO_5_828) , o cargo de Auditor em Saúde Pública, com áreas de atuação e formações de conhecimento definidos no Anexo Único desta Lei, com as atribuições de controle, avaliação e auditoria das atividades relativas à prestação de serviços do Sistema Único de Saúde ? SUS.
 
-Redação do caput do art. 1º de acordo com o [art. 9º da Lei nº 9.510, de 31 de maio de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9510-de-31-de-maio-de-2005#LO_9_510_Art__9) .<br>
+Redação do caput do art. 1º de acordo com o [art. 9º da Lei nº 9.510, de 31 de maio de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9510-de-31-de-maio-de-2005#LO_9_510_Art__9) .
+
 Redação original: "Art. 1º - Fica criado, no Grupo Ocupacional Serviços Públicos de Saúde, instituído pela Lei nº 5.828, de 10 de junho de 1990, o cargo de Auditor em Saúde Pública, no nível 7, de funções, formações de conhecimento e quantidades, definidos no Anexo Único desta Lei, com as atribuições de controle, avaliação e auditoria das atividades relativas à prestação de serviços do Sistema Único de Saúde - SUS."
 
 Parágrafo único - As atribuições previstas no caput deste artigo serão desempenhadas sem prejuízo das ações exercidas pelos órgãos de controle interno e externo do Estado, nos termos da legislação específica.
@@ -51,4 +52,26 @@ A N E X O Ú N I C O
 
 Anexo único de acordo com o [art. 10 da Lei nº 9.510, de 31 de maio de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9510-de-31-de-maio-de-2005#LO_9_510_Art__10) .
 
-<table style="width: 433.5pt; margin-left: 30.2pt; border-collapse: collapse; border: none; mso-border-alt: solid black .5pt; mso-padding-alt: 0cm 3.5pt 0cm 3.5pt;" width="578" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 126.0pt; border: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="168"><p class="Tabela-Texto">Área de Atuação</p></td><td style="width: 307.5pt; border: solid black .5pt; border-left: none; mso-border-left-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="410"><p class="Tabela-Texto">Formação</p></td></tr><tr><td style="width: 126.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="168"><p class="Tabela-Texto">Auditor Médico</p></td><td style="width: 307.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="410"><p class="Tabela-Texto">Curso Superior em Medicina</p></td></tr><tr><td style="width: 126.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="168"><p class="Tabela-Texto">Auditor Enfermeiro</p></td><td style="width: 307.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="410"><p class="Tabela-Texto">Curso Superior em Enfermagem</p></td></tr><tr><td style="width: 126.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="168"><p class="Tabela-Texto">Auditor Odontólogo</p></td><td style="width: 307.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="410"><p class="Tabela-Texto">Curso Superior em Odontologia</p></td></tr><tr><td style="width: 126.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="168"><p class="Tabela-Texto">Auditor Financeiro</p></td><td style="width: 307.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="410"><p class="Tabela-Texto">Curso Superior em Ciências Contábeis, Economia, ou Administração</p></td></tr><tr><td style="width: 126.0pt; border: solid black .5pt; border-top: none; mso-border-top-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="168"><p class="Tabela-Texto">Auditor Farmacêutico</p></td><td style="width: 307.5pt; border-top: none; border-left: none; border-bottom: solid black .5pt; border-right: solid black .5pt; mso-border-top-alt: solid black .5pt; mso-border-left-alt: solid black .5pt; padding: 0cm 3.5pt 0cm 3.5pt; height: 25.95pt;" valign="top" width="410"><p class="Tabela-Texto">Curso Superior em Farmácia</p></td></tr></tbody></table>
+Área de Atuação
+
+Formação
+
+Auditor Médico
+
+Curso Superior em Medicina
+
+Auditor Enfermeiro
+
+Curso Superior em Enfermagem
+
+Auditor Odontólogo
+
+Curso Superior em Odontologia
+
+Auditor Financeiro
+
+Curso Superior em Ciências Contábeis, Economia, ou Administração
+
+Auditor Farmacêutico
+
+Curso Superior em Farmácia

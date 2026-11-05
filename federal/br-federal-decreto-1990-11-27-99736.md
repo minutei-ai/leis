@@ -1,5 +1,3 @@
-###DEC-099736-0-000-27-11-1990@@@
-
 DECRETO N° 99.736, DE 27 DE NOVEMBRO DE 1990
 
 Dispõe sobre a execução do Sétimo Protocolo Adicional ao Acordo Comercial n° 20, no Setor da Indústria de Matérias Corantes e Pigmentos, entre o Brasil, a Argentina, o Chile e o México.

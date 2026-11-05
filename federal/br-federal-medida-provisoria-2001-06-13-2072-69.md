@@ -1,5 +1,3 @@
-###MPV-002072-0-069-13-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.072‑69, DE 13 DE JUNHO DE 2001
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional ‑ NTN destinadas a aumento de capital do Banco do Brasil S.A., e dá outras providências.

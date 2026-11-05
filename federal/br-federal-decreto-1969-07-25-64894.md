@@ -1,5 +1,3 @@
-###DEC-064894-0-000-25-07-1969@@@
-
 DECRETO Nº 64.894 - DE 25 DE JULHO DE 1969.
 
 Declara de utilidade pública o Instituto Brasileiro de Siderurgia, com sede em São Paulo, Estado de São Paulo.

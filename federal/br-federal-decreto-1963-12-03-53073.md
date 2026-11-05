@@ -1,5 +1,3 @@
-###DEC-053073-0-000-03-12-1963@@@
-
 Decreto nº 53.073, de 3 DE dezembro de 1963.
 
 Estabelece condições para nomeação de ex-combatentes, em caráter interino, em regime de exceção, e dá outras providências.

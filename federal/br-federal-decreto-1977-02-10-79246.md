@@ -1,5 +1,3 @@
-###DEC-079246-0-000-10-02-1977@@@
-
 dECRETO N.º 79.246, DE 10 DE FEVEREIRO DE 1977.
 
 Autoriza a Universidade Federal do Espírito Santo a aceitar a doação dos bens e direitos integrantes da Escola Superior de Agronomia do Espírito Santo, e dá outras providências.

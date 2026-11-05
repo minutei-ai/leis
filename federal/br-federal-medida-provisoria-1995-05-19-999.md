@@ -1,7 +1,3 @@
-1
-
-###MPV-000999-0-000-19-05-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 999, DE 19 DE MAIO DE 1995
 
 Dispõe sobre a instituição de crédito presumido do Imposto sobre Produtos Industrializados, para ressarcimento do valor do PIS/PASEP e Cofins nos casos que especifica, e dá outras providências.

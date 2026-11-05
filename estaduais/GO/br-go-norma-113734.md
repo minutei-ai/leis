@@ -16,10 +16,97 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>800 - DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS</b><br>801 - GABINETE DO DEFENSOR PÚBLICO DO ESTADO DE GOIÁS</td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE ATIVIDADE ITINERANTE</td><td style=" width:85px;    ">03 092 1007 2329</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.050.486,80</td><td style=" width:85px;    ">R$ 1.050.486,80</td></tr><tr><td style=" width:85px;    ">INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 3153</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 89.910,36</td><td style=" width:85px;    ">R$ 89.910,36</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO</td><td style=" width:85px;    ">03 092 1007 2328</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 413.633,88</td><td style=" width:85px;    ">R$ 413.633,88</td></tr><tr><td style=" width:85px;    ">GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO</td><td style=" width:85px;    ">03 092 4200 4242</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 76.950,91</td><td style=" width:85px;    ">R$ 2.597.846,44</td><td style=" width:85px;    ">R$ 2.674.797,35</td></tr></tbody></table>
+**800 - DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS**
+801 - GABINETE DO DEFENSOR PÚBLICO DO ESTADO DE GOIÁS
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 4.151.877,48</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 4.151.877,48</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+REALIZAÇÃO DE ATIVIDADE ITINERANTE
+
+03 092 1007 2329
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.050.486,80
+
+R$ 1.050.486,80
+
+INSTALAÇÃO DE NOVAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 3153
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 89.910,36
+
+R$ 89.910,36
+
+GESTÃO E MANUTENÇÃO DAS UNIDADES DE ATENDIMENTO
+
+03 092 1007 2328
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 413.633,88
+
+R$ 413.633,88
+
+GESTÃO E MANUTENÇÃO DAS ATIVIDADES DA DPEGO
+
+03 092 4200 4242
+
+25000100
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 76.950,91
+
+R$ 2.597.846,44
+
+R$ 2.674.797,35
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 4.151.877,48
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 4.151.877,48

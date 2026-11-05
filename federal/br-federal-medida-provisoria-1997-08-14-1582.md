@@ -1,5 +1,3 @@
-###MPV-001582-0-000-14-08-1997@@@
-
 # mEDIDA PROVISÓRIA Nº 1.582, DE 14 DE AGOSTO DE 1997
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Encargos Financeiros da União - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário até o limite de R$61.000.000,00, para os fins que especifica.

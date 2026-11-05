@@ -1,5 +1,3 @@
-###DEC-060061-0-000-13-01-1967@@@
-
 DECRETO Nº 60.061, DE 13 DE JANEIRO DE 1967.
 
 Concede reconhecimentos aos cursos que indica.

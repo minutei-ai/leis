@@ -1,5 +1,3 @@
-###DEL-009327-0-000-10-06-1946@@@
-
 DECRETO-LEI Nº 9.327, DE 10 DE JUNHO DE 1946
 
 Prorroga o prazo de que trata o § 2º do art. 1º do Decreto-lei nº 9.272, de Maio de 1946.

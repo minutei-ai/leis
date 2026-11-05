@@ -1,5 +1,3 @@
-###DEC-051128-0-000-02-08-1961@@@
-
 DECRETO Nº 51.128, DE 2 DE AGÔSTO DE 1961.
 
 Revoga o Decreto nº 47.946, de 17 de março de 1960, que constituiu comissão para organizar o XV Congresso Postal Universal.

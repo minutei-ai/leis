@@ -1,5 +1,3 @@
-###DEC-081924-0-000-11-07-1978@@@
-
 Decreto nº 81.924, de 11 de julho de 1978.
 
 Concede à Mineração Santa Lucrécia Ltda. o direito de lavrar caulim no Município de Mazagão, Território Federal do Amapá.

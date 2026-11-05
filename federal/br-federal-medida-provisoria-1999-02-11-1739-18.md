@@ -1,5 +1,3 @@
-###MPV-001739-0-018-11-02-1999@@@
-
 medida provisória nº 1.739-18, de 11 de fevereiro de 1999
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEL-002342-0-000-10-07-1987@@@
-
 # DECRETO-LEI Nº 2.342, DE 10 DE JULHO DE 1987
 
 Altera os artigos 13 e 14 do Decreto-lei nº 2.335, de 12 de julho de 1987.

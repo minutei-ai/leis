@@ -1,5 +1,3 @@
-###DEC-006997-0-000-04-11-2009@@@
-
 DECRETO Nº 6.997, DE 4 DE NOVEMBRO DE 2009.
 
 Aprova o Programa de Dispêndios Globais - PDG para 2010 das empresas estatais federais, e dá outras providências.

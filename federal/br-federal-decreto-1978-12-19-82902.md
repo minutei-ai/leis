@@ -1,5 +1,3 @@
-###DEC-082902-0-000-19-12-1978@@@
-
 Decreto nº 82.902 de 19 de dezembro de 1978
 
 Renova por 10 (dez) anos a outorga deferida à Empresa Jornal do Comércio S.A; para executar serviço de Radiodifusão sonora em onda curta, na cidade de Recife, Estado de Pernambuco.

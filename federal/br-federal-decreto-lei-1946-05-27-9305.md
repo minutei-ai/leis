@@ -1,5 +1,3 @@
-###DEL-009305-0-000-27-05-1946@@@
-
 DECRETO-LEI N. 9.305 – DE 27 DE MAIO DE 1946
 
 Autoriza a Caixa de Aposentadoria e Pensões dos Serviços de Mineração do Estado de Minas Gerais, a conceder financiamento ao Sindicato dos Trabalhadores na Indústria de Extração de Ouro e Metais Preciosos, de Nova Lima, para aquisição de sede social.

@@ -1,4 +1,5 @@
-DECRETO “N” Nº 689 DE 01 DE NOVEMBRO DE 2023.<br>
+DECRETO “N” Nº 689 DE 01 DE NOVEMBRO DE 2023.
+
 (Revogado pelo Decreto "N" nº 994, de 19 de novembro de 2023).
 
 ~~Dispõe sobre desmembramento de imóvel.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 689 DE 01 DE NOVEMBRO DE 2023.<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 01 de novembro de 2023.~~
 
-~~POLLYANA OLIVEIRA BORGES<br>
+~~POLLYANA OLIVEIRA BORGES
+
 Secretária Interina de Governo~~
 
-~~JÚLIO CÉSAR CHAGAS MENDES<br>
+~~JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana~~

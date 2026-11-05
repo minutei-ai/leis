@@ -1,5 +1,3 @@
-###DEC-073548-0-000-23-01-1974@@@
-
 DECRETO Nº 73.548, DE 23 DE JANEIRO DE 1974.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Barra Bonita, Estado de São Paulo.

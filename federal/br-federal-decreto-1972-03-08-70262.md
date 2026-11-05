@@ -1,5 +1,3 @@
-###DEC-070262-0-000-08-03-1972@@@
-
 Decreto Nº 70.262, de 8 de março de 1972.
 
 Retifica o artigo 1.º do Decreto número 62.597, de 24 de abril de 1968. O Decreto n.º 62.597 retificou o Decreto n.º 1.743, de 30 de novembro de 1962.

@@ -1,5 +1,3 @@
-###DEC-073345-0-000-20-12-1973@@@
-
 DECRETO Nº 73.345 - DE 20 DE DEZEMBRO DE 1973
 
 Concede reconhecimento aos Letras, Estados Sociais e Ciências, do Centro Universitário "Alto Uruguai" com sede na cidade de Erexim, RS., como extensão da Universidade de Passo Fundo, Estado do Rio Grande do Sul.

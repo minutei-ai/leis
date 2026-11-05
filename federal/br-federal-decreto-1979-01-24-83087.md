@@ -1,5 +1,3 @@
-###DEC-083087-0-000-24-01-1979@@@
-
 Decreto nº 83 087, de 24 de janeiro de 1979
 
 Concede reconhecimento ao curso de Letras, da Faculdade de Ciências Humanas do Sul Paulista, com sede na cidade de Itapeva, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-079508-0-000-13-04-1977@@@
-
 DECRETO Nº 79.508, DE 13 DE ABRIL DE 1977.
 
 Concede à S.A. Indústrias Votorantim o direito de lavrar calcário e dolomito nos Municípios de Guapiara e Iporanga, Estado de São Paulo.

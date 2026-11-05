@@ -1,5 +1,3 @@
-###MPV-001939-0-028-27-04-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.939-28, de 27 de abril de 2000.
 
 Restaura a vigência da Lei nº 8.989, de 24 de fevereiro de 1995, que dispõe sobre a isenção do Imposto sobre Produtos Industrializados (IPI) na aquisição de automóveis destinados ao transporte autônomo de passageiros e ao uso de portadores de deficiência física, reduz o imposto de importação para os produtos que específica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052843-0-000-18-11-1963@@@
-
 DECRETO Nº 52.843, de 18 de novembro de 1963
 
 Concede à Ferrobel – Mineração de Ferro Belo Horizonte Ltda. autorização para funcionar como emprêsa de mineração.

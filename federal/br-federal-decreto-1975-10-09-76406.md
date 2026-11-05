@@ -1,5 +1,3 @@
-###DEC-076406-0-000-09-10-1975@@@
-
 DECRETO Nº 76.406, DE 9 DE OUTUBRO DE 1975.
 
 Dispõe sobre a importação, arrendamento mercantil, locação ou aquisição no mercado interno de produtos de origem externa, por órgãos e entidades da administração federal direta e indireta e fundações supervisionadas.

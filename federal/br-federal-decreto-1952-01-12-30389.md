@@ -1,32 +1,30 @@
-###DEC-030389-0-000-12-01-1952@@@
+**DECRETO Nº 30.389, DE 12 DE JANEIRO DE 1952.**
 
-<strong>DECRETO Nº 30.389, DE 12 DE JANEIRO DE 1952.</strong>
+***Aprova o Regulamento do Comando de Transporte Aéreo.***
 
-<em><strong>Aprova o Regulamento do Comando de Transporte Aéreo.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Comando de Transporte Aéreo (COMTA), que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Comando de Transporte Aéreo (COMTA), que com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica.
+**Art**. 2º O aludido regulamento entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º O aludido regulamento entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de janeiro de 1952, 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Nero Moura
 
-<strong>REGULAMENTO DO COMANDO DE TRANSPORTE AÉREO</strong>
+**REGULAMENTO DO COMANDO DE TRANSPORTE AÉREO**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>MISSÃO E SUBORDINAÇÃO</em>
+*MISSÃO E SUBORDINAÇÃO*
 
-<strong>Art</strong>. 1º O Comando de Transporte Aéreo (COMTA), é subordinado ao Ministro da Aeronáutica, através do Chefe do Estado Maior da Aeronáutica, e tem por fim:
+**Art**. 1º O Comando de Transporte Aéreo (COMTA), é subordinado ao Ministro da Aeronáutica, através do Chefe do Estado Maior da Aeronáutica, e tem por fim:
 
 a) coordenar e executar tôdas as missões de transporte aéreo da Fôrça Aérea Brasileira, isoladamente ou em cooperação com as demais Forças Armadas;
 
@@ -34,11 +32,11 @@ b) dirigir e executar o serviço do Correio Aéreo Nacional, previsto no art. 5�
 
 c) coordenar e executar a mobilização da Aviação Civil de transporte.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>ORGANIZAÇÃO</em>
+*ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O COMTA compreende:
+**Art**. 2º O COMTA compreende:
 
 a) Comando;
 
@@ -48,7 +46,7 @@ c) Bases Aéreas;
 
 d) Serviços.
 
-<strong>Art</strong>. 3º O Comando do COMTA terá a seguinte organização:
+**Art**. 3º O Comando do COMTA terá a seguinte organização:
 
 a) Comandante;
 
@@ -82,7 +80,7 @@ Formação de Intendência:
 
 Serviço de Transporte (terrestre e marítimo);
 
-<strong>Art</strong>. 4º - O Estado Maior do COMTA é o órgão destinado a:
+**Art**. 4º - O Estado Maior do COMTA é o órgão destinado a:
 
 a) reunir e preparar os elementos para que o comandante possa julgar e decidir;
 
@@ -94,11 +92,11 @@ d) preparar documentos que devem ser submetidos a assinatura do Comandante;
 
 e) planejar as operações do COMTA.
 
-<strong>Art</strong>. 5º - A Seção de Pessoal (A-1 COMTA) destina-se a tratar das questões relativas ao pessoal civil e militar, no que se refere a efetivos, histórica, movimentação, licenças, justiça e disciplina, registro, recompensas, assistência médica e religiosa, recreação e competições esportivas.
+**Art**. 5º - A Seção de Pessoal (A-1 COMTA) destina-se a tratar das questões relativas ao pessoal civil e militar, no que se refere a efetivos, histórica, movimentação, licenças, justiça e disciplina, registro, recompensas, assistência médica e religiosa, recreação e competições esportivas.
 
 Parágrafo único – A Seção de Pessoal compete, ainda manter o registro de todo o pessoal da FAB e das companhias de aviação civil, apto a pilotagem, a operação e a manutenção dos aviões que equipam ou venham a equipar as unidades do COMTA.
 
-<strong>Art</strong>. 6º - A Seção de Operações (A-3 COMTA) trata de tôdas as questões relativas a operações, instrução, informações no que diz respeito a:
+**Art**. 6º - A Seção de Operações (A-3 COMTA) trata de tôdas as questões relativas a operações, instrução, informações no que diz respeito a:
 
 \- condições de funcionamento das varias linhas do CAN;
 
@@ -122,7 +120,7 @@ Parágrafo único – A Seção de Pessoal compete, ainda manter o registro de t
 
 Parágrafo único – A Seção de Operações cabe, ainda, manter um registro das operações normalmente efetuadas pela companhias de Aviação Civil.
 
-<strong>Art</strong>. 7º A Seção de Logística (A-4 COMTA) é o órgão encarregado do planejamento logístico, cabendo-lhe tratar das questões relativas a:
+**Art**. 7º A Seção de Logística (A-4 COMTA) é o órgão encarregado do planejamento logístico, cabendo-lhe tratar das questões relativas a:
 
 \- manutenção do material aéreo;
 
@@ -136,7 +134,7 @@ Parágrafo único – A Seção de Operações cabe, ainda, manter um registro d
 
 Parágrafo único. A seção de Logística compete, ainda, manter um registro do material aéreo e das instalações de manutenção das companhias de Aviação Civil.
 
-<strong>Art</strong>. 8º A Seção do CAN é o órgão encarregado de tratar das questões relativas ao transporte de passageiros, correspondência, carga e bagagens nos aviões do COMTA.
+**Art**. 8º A Seção do CAN é o órgão encarregado de tratar das questões relativas ao transporte de passageiros, correspondência, carga e bagagens nos aviões do COMTA.
 
 § 1º Na Seção do CAN poderá haver um representante do Departamento dos Correios e Telégrafos, encarregado de coordenar os trabalhos relativo ao transporte de correspondência.
 
@@ -160,7 +158,7 @@ Parágrafo único. A seção de Logística compete, ainda, manter um registro do
 
 § 4º Os Postos do CAN, quando existentes em localidades-sede de Zona Aérea, Base Aérea ou Estabelecimento da Aeronáutica, subordinam-se, disciplinar e administrativamente, ao respectivo comando; quando existentes em outras localidades, subordinam-se ao Comando da Zona Aérea ou do COMTA, conforme fôr fixado pela autoridade competente.
 
-<strong>Art</strong>. 9º A Inspetoria do COMTA é o órgão encarregado de inspecionar periodicamente as unidades subordinadas e o serviço do CAN, a fim de:
+**Art**. 9º A Inspetoria do COMTA é o órgão encarregado de inspecionar periodicamente as unidades subordinadas e o serviço do CAN, a fim de:
 
 a) avaliar a sua eficiência;
 
@@ -170,29 +168,29 @@ c) apresentar relatórios sôbre a situação e necessidades das unidades e órg
 
 Parágrafo único. O Inspetor poderá solicitar do Comandante o pessoal técnico ou especializado indispensável julgado necessário à realização das inspeções.
 
-<strong>Art</strong>. 10. A Seção Auxiliar é o órgão destinado atender aos encargos relativos a correspondência, protocolo, arquivo, boletim, biblioteca e portaria.
+**Art**. 10. A Seção Auxiliar é o órgão destinado atender aos encargos relativos a correspondência, protocolo, arquivo, boletim, biblioteca e portaria.
 
-<strong>Art</strong>. 11. A Seção de Estatística é o órgão destinado a coletar os dados relativos às unidades e órgãos subordinados e às atividades do COMTA e apresentá-los de modo coordenado e expressivo, a fim de facilitar, ao Comandante e ao seu Estado Maior, o estudo dos problemas relacionados com o COMTA, permitindo-lhese tirar conclusões e fazer as previsões necessárias.
+**Art**. 11. A Seção de Estatística é o órgão destinado a coletar os dados relativos às unidades e órgãos subordinados e às atividades do COMTA e apresentá-los de modo coordenado e expressivo, a fim de facilitar, ao Comandante e ao seu Estado Maior, o estudo dos problemas relacionados com o COMTA, permitindo-lhese tirar conclusões e fazer as previsões necessárias.
 
 § 1º. Compete à Seção de Estatística propor as normas e modelos, a serem adotados pelas unidades e órgãos subordinados, tendo em vista a uniformização dos dados estatísticos a serem coletados.
 
 § 2º. A Seção de Estatística subordina-se ao Inspetor, porém, coopera diretamente com o Comandante na elaboração dos relatórios necessários.
 
-<strong>Art</strong>. 12. A Fiscalização Administrativa é o órgão auxiliar do Comandante, destinado a superintender os serviços de intendência, de transporte (terrestre e marítimo) e gerais.
+**Art**. 12. A Fiscalização Administrativa é o órgão auxiliar do Comandante, destinado a superintender os serviços de intendência, de transporte (terrestre e marítimo) e gerais.
 
-<strong>Art</strong>. 13. A Formação de Intendência é o órgão destinado a tratar dos assuntos de finanças, provisões de intendência e outros correlatos, previstos na legislação própria em vigor.
+**Art**. 13. A Formação de Intendência é o órgão destinado a tratar dos assuntos de finanças, provisões de intendência e outros correlatos, previstos na legislação própria em vigor.
 
-<strong>Art</strong>. 14. O Serviço de Transporte é o órgão encarregado dos transportes terrestre e marítimo e da manutenção das viaturas a seu cargo.
+**Art**. 14. O Serviço de Transporte é o órgão encarregado dos transportes terrestre e marítimo e da manutenção das viaturas a seu cargo.
 
-<strong>Art</strong>. 15. Os Serviços de Transporte é o órgão encarregado dos transportes terrestres e marítimo e da manutenção das viaturas a seu cargo.
+**Art**. 15. Os Serviços de Transporte é o órgão encarregado dos transportes terrestres e marítimo e da manutenção das viaturas a seu cargo.
 
-<strong>Art</strong>. 16. O desdobramento e as minúcias de organização não especificadas no presente Capítulo, constarão do Regimento Interno do COMTA, a ser aprovado pelo Ministro da Aeronáutica.
+**Art**. 16. O desdobramento e as minúcias de organização não especificadas no presente Capítulo, constarão do Regimento Interno do COMTA, a ser aprovado pelo Ministro da Aeronáutica.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>PESSOAL</em>
+*PESSOAL*
 
-<strong>Art</strong>. 17.O COMT A disporá do seguinte pessoal:
+**Art**. 17.O COMT A disporá do seguinte pessoal:
 
 a) Comandante – Brigadeiro do Ar;
 
@@ -212,15 +210,15 @@ h) Pessoal militar subalterno, em número que fôr fixado no respectivo Quadro d
 
 i) Pessoal civil, titulado e extranumerário, de acôrdo com a lotação, tabelas e recursos orçamentários fixados.
 
-<strong>Art</strong>. 18. O número, postos e quadros dos oficiais necessários para o desempenho das demais funções não previstas neste Capítulo, serão fixados em quadro Efetivo próprio.
+**Art**. 18. O número, postos e quadros dos oficiais necessários para o desempenho das demais funções não previstas neste Capítulo, serão fixados em quadro Efetivo próprio.
 
-<strong>Art</strong>. 19. Mediante proposta do Chefe do Estado-Maior da Aeronáutica, é o Comandante do Transporte Aéreo nomeado por Decreto e os demais oficiais designados por ato do Ministro.
+**Art**. 19. Mediante proposta do Chefe do Estado-Maior da Aeronáutica, é o Comandante do Transporte Aéreo nomeado por Decreto e os demais oficiais designados por ato do Ministro.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>ATRIBUIÇÕES</em>
+*ATRIBUIÇÕES*
 
-<strong>Art</strong>. 20. Ao Comandante do Transporte Aéreo compete, além de atribuições outras previstas na legislação vigente:
+**Art**. 20. Ao Comandante do Transporte Aéreo compete, além de atribuições outras previstas na legislação vigente:
 
 a) a responsabilidade pela eficiência e coordenação do COMTA;
 
@@ -236,7 +234,7 @@ f) manter o Estado-Maior da Aeronáutica informado da situação e das necessida
 
 g) propor ao Estado-Maior da Aeronáutica as medidas julgadas necessárias para o melhor desempenho da missão do COMTA;
 
-<strong>Art</strong>. 21. Ao Chefe do Estado-Maior compete;
+**Art**. 21. Ao Chefe do Estado-Maior compete;
 
 a) coordenar o trabalho das várias Seções que constituem o EM;
 
@@ -248,7 +246,7 @@ d) responder pelo expediente do COMTA, nos impedimentos temporários do Comandan
 
 e) promover os entendimentos necessários, com as autoridades e órgãos militares e civis, com os quais o COMTA mantém relações de serviço.
 
-<strong>Art</strong>. 22. Aos Chefes das Seções do EM compete;
+**Art**. 22. Aos Chefes das Seções do EM compete;
 
 a) coordenar o trabalho afeto à Seção;
 
@@ -260,17 +258,17 @@ d) manter ligação, com as demais Seções e com as unidades e órgãos subordi
 
 e) planejar e verificar a execução das atividades específicas de sua Seção.
 
-<strong>Art</strong>. 23. Ao Fiscal Administrativo, auxiliar imediato do Comandante, cabem tôdas as atribuições previstas para sua função na legislação em vigor.
+**Art**. 23. Ao Fiscal Administrativo, auxiliar imediato do Comandante, cabem tôdas as atribuições previstas para sua função na legislação em vigor.
 
-<strong>Art</strong>. 24. Aos oficiais de ligação das demais Fôrças Armadas, postos à disposição do COMTA, compete coordenar o planejamento e a execução das missões relativa à instrução de paraquedistas, as operações aerotransportadas e ao transporte aéreo em geral.
+**Art**. 24. Aos oficiais de ligação das demais Fôrças Armadas, postos à disposição do COMTA, compete coordenar o planejamento e a execução das missões relativa à instrução de paraquedistas, as operações aerotransportadas e ao transporte aéreo em geral.
 
-<strong>Art</strong>. 25 – As atribuições do pessoal não especificado no presente Capítulo, constarão no Regimento Interno do COMTA.
+**Art**. 25 – As atribuições do pessoal não especificado no presente Capítulo, constarão no Regimento Interno do COMTA.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>SUBSTITUIÇÕES</em>
+*SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 26.- As substituições temporárias no COMTA obedecerão ao seguinte critério:
+**Art**. 26.- As substituições temporárias no COMTA obedecerão ao seguinte critério:
 
 a) o Comandante será substituído pelo mais graduado dos oficiais do COMTA;
 
@@ -280,18 +278,18 @@ c) os Chefes de Seção do EM pelo mais graduado dos oficiais do Q.O.Av. da resp
 
 Parágrafo único. – Cabe ao Comandante do Transporte Aéreo nos impedimentos fortuitos de qualquer de seus subordinados, designar substituto para exercer as funções dêsses cumulativamente com as suas normais, tendo em vista limitar ao mínimo as substituições.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 27 – O Serviço do CAN será executado de acôrçdoi com Instruções especiais, propostas pelo Comandante do Transporte Aéreo e aprovadas pelo Chefe do Estado-Maior da Aeronáutica.
+**Art**. 27 – O Serviço do CAN será executado de acôrçdoi com Instruções especiais, propostas pelo Comandante do Transporte Aéreo e aprovadas pelo Chefe do Estado-Maior da Aeronáutica.
 
-<strong>Art</strong>. 28 – As organizações das Unidades Aéreas de Transporte, das Bases Aéreas e dos Serviços do COMTA, serão fixadas em regulamentos próprios.
+**Art**. 28 – As organizações das Unidades Aéreas de Transporte, das Bases Aéreas e dos Serviços do COMTA, serão fixadas em regulamentos próprios.
 
-<strong>Art</strong>. 29 – O Comandante do Transporte Aéreo tem as atribuições disciplinares de Comandante de Zona Aérea sôbre todo o pessoal do COMTA; o Chefe do Estado-Maior, as de comandante de Unidade, e os Chefes de Seção, as de comandante de Grupo incorporado.
+**Art**. 29 – O Comandante do Transporte Aéreo tem as atribuições disciplinares de Comandante de Zona Aérea sôbre todo o pessoal do COMTA; o Chefe do Estado-Maior, as de comandante de Unidade, e os Chefes de Seção, as de comandante de Grupo incorporado.
 
 Rio de Janeiro, 12 de janeiro de 1952.
 
-<strong>NERO MOURA</strong>
+**NERO MOURA**
 
 Ministro da Aeronáutica

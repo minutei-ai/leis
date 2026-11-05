@@ -22,7 +22,7 @@ Art. 1º O Capítulo I do Título I do Livro II da [Lei Complementar nº 100, de
 
 **Seção VI-A**
 
-**<u>Da Escola Judicial</u>**
+**Da Escola Judicial**
 
 Art. 46-A. Fica criada a Escola Judicial do Tribunal de Justiça do Estado de Pernambuco.
 
@@ -100,120 +100,94 @@ THIAGO ARRAES DE ALENCAR NORÕES
 
 **CARGOS COMISSIONADOS E FUNÇÕES GRATIFICADAS CRIADOS POR ESTA LEI COMPLEMENTAR**
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="640" style="border-collapse:collapse"><tbody><tr><td width="121" valign="top" style="width:90.45pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">CARGO E</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">QUANTIDADE</span></p></td><td width="95" valign="top" style="width:70.9pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">SÍMBOLO</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">DO CARGO</span></p></td><td width="236" valign="top" style="width:177.2pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">GRAU MÍNIMO DE ESCOLARIDADE</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">DO OCUPANTE DO CARGO</span></p></td><td width="189" valign="top" style="width:5.0cm;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">ATRIBUIÇÕES DO CARGO</span></p></td></tr><tr><td width="121" valign="top" style="width:90.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Secretário</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Executivo</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">(01)</span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">PJC-II</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Nível superior: certificado de conclusão de curso superior em instituição de ensino</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">oficial ou reconhecida pelo Ministério da</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Educação.</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Assessorar a Diretoria da Escola Judicial no planejamento e monitoramento das ações e do Projeto Político Pedagógico da ESMAPE, nos termos de seu regimento interno.</span></p></td></tr><tr><td width="121" valign="top" style="width:90.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Diretor</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">(02)</span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">PJC-II</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Nível superior: certificado de conclusão de curso superior em instituição de ensino</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">oficial ou reconhecida pelo Ministério da</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Educação.</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Planejar, orientar, dirigir e controlar as atividades de sua competência através do desenvolvimento de estudos, programas e projetos que promovam a eficácia e a eficiência do Projeto Político Pedagógico da ESMAPE, nos termos de seu regimento interno.</span></p></td></tr><tr><td width="121" valign="top" style="width:90.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Diretor</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Adjunto</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">(02)</span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">PJC-III</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Nível superior: certificado de conclusão de curso superior em instituição de ensino</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">oficial ou reconhecida pelo Ministério da</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Educação.</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Auxiliar o Diretor no exame e encaminhamento dos assuntos técnicos e administrativos da área de sua atuação.</span></p></td></tr><tr><td width="121" valign="top" style="width:90.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Assessor Técnico</span></p><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">(02)</span></p></td><td width="95" valign="top" style="width:70.9pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">PJC-III</span></p></td><td width="236" valign="top" style="width:177.2pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Nível superior: certificado de conclusão de curso superior em instituição de ensino</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">oficial ou reconhecida pelo Ministério da</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Educação.</span></p></td><td width="189" valign="top" style="width:5.0cm;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">Prestar assessoria técnica especializada à Diretoria da ESMAPE nos termos de seu regimento</span></p><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-  normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;
-  color:black">interno.</span></p></td></tr></tbody></table>
+CARGO E
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td width="442" valign="top" style="width:331.45pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Funções Gratificadas e símbolos</span></p></td><td width="198" valign="top" style="width:148.85pt;border:solid black 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Quantitativo</span></p></td></tr><tr><td width="442" valign="top" style="width:331.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Função Gerencial Judiciária, sigla FGJ-1</span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">02</span></p></td></tr><tr><td width="442" valign="top" style="width:331.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Função Gerencial Judiciária, sigla FGJ-2</span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">05</span></p></td></tr><tr><td width="442" valign="top" style="width:331.45pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">Função de Secretariado e Apoio Administrativo, sigla FSJ-1</span></p></td><td width="198" valign="top" style="width:148.85pt;border-top:none;border-left:
-  none;border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:0cm;
-  margin-bottom:0cm;margin-left:1.0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;;color:black">05</span></p></td></tr></tbody></table>
+QUANTIDADE
+
+SÍMBOLO
+
+DO CARGO
+
+GRAU MÍNIMO DE ESCOLARIDADE
+
+DO OCUPANTE DO CARGO
+
+ATRIBUIÇÕES DO CARGO
+
+Secretário
+
+Executivo
+
+(01)
+
+PJC-II
+
+Nível superior: certificado de conclusão de curso superior em instituição de ensino
+
+oficial ou reconhecida pelo Ministério da
+
+Educação.
+
+Assessorar a Diretoria da Escola Judicial no planejamento e monitoramento das ações e do Projeto Político Pedagógico da ESMAPE, nos termos de seu regimento interno.
+
+Diretor
+
+(02)
+
+PJC-II
+
+Nível superior: certificado de conclusão de curso superior em instituição de ensino
+
+oficial ou reconhecida pelo Ministério da
+
+Educação.
+
+Planejar, orientar, dirigir e controlar as atividades de sua competência através do desenvolvimento de estudos, programas e projetos que promovam a eficácia e a eficiência do Projeto Político Pedagógico da ESMAPE, nos termos de seu regimento interno.
+
+Diretor
+
+Adjunto
+
+(02)
+
+PJC-III
+
+Nível superior: certificado de conclusão de curso superior em instituição de ensino
+
+oficial ou reconhecida pelo Ministério da
+
+Educação.
+
+Auxiliar o Diretor no exame e encaminhamento dos assuntos técnicos e administrativos da área de sua atuação.
+
+Assessor Técnico
+
+(02)
+
+PJC-III
+
+Nível superior: certificado de conclusão de curso superior em instituição de ensino
+
+oficial ou reconhecida pelo Ministério da
+
+Educação.
+
+Prestar assessoria técnica especializada à Diretoria da ESMAPE nos termos de seu regimento
+
+interno.
+
+Funções Gratificadas e símbolos
+
+Quantitativo
+
+Função Gerencial Judiciária, sigla FGJ-1
+
+02
+
+Função Gerencial Judiciária, sigla FGJ-2
+
+05
+
+Função de Secretariado e Apoio Administrativo, sigla FSJ-1
+
+05

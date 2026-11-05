@@ -1,5 +1,3 @@
-###DEC-074578-0-000-19-09-1974@@@
-
 DECRETO Nº 74.578, DE 19 DE SETEMBRO DE 1974
 
 Concede a Maury França Abreu, firma individual, o direito de lavrar mármore no município de Sete lagoas, Estado de Minas Gerais.

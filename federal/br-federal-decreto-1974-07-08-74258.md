@@ -1,5 +1,3 @@
-###DEC-074258-0-000-08-07-1974@@@
-
 DECRETO Nº 74.258 - DE 8 DE JULHO DE 1974
 
 Concede reconhecimento à Faculdade de Direito Estácio de Sá, mantida pela Sociedade de Ensino Superior Estácio de Sá, com sede na Cidade do Rio de Janeiro, Estado da Guanabara.

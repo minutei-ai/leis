@@ -1,7 +1,3 @@
-1
-
-###DEC-001476-0-000-02-05-1995@@@
-
 DECRETO Nº 1.476, DE 2 DE MAIO DE 1995
 
 Promulga o Tratado Relativo à Cooperação Judiciária e ao Reconhecimento e Execução de Sentenças em Matéria Civil, entre a República Federativa do Brasil e a República Italiana, de 17 de outubro de 1989.

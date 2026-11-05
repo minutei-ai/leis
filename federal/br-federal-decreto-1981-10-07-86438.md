@@ -1,5 +1,3 @@
-###DEC-086438-0-000-07-10-1981@@@
-
 decreto nº 86.438, de 07 de outubro de 1981.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Seringal "Belo Horizonte", situado no Município de Cruzeiro do Sul, no Estado do Acre, compreendido na área prioritária para fins de reforma agrária de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980.

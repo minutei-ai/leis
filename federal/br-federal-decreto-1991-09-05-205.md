@@ -1,5 +1,3 @@
-###DEC-000205-0-000-05-09-1991@@@
-
 DECRETO Nº 205, DE 5 DE SETEMBRO DE 1991
 
 Dispõe sobre a apresentação de guias de importação ou documento de efeito equivalente, na Zona Franca de Manaus; suspende a fixação de limites máximos globais anuais de importações; e dá outras providências.

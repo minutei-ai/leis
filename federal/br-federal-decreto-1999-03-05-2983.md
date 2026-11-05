@@ -1,5 +1,3 @@
-###DEC-002983-0-000-05-03-1999@@@
-
 DECRETO Nº 2.983, DE 5 DE MARÇO DE 1999.
 
 Suspende temporariamente a realização de novos concursos públicos e as nomeações para  cargos civis de provimento efetivo ou de carreira no âmbito da Administração Federal direta, das autarquias e das fundações públicas do Poder Executivo da União, e dá outras providências.

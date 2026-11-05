@@ -1,5 +1,3 @@
-###DEC-079504-0-000-13-04-1977@@@
-
 DECRETO Nº 79.504, DE 13 DE ABRIL DE 1977.
 
 Retifica o Decreto nº 77.682, de 26 de maio de 1976, que declarou a caducidade do Manifesto de Mina referente à mina de quartzo situada no Município de Cristalina, Estado de Goiás.

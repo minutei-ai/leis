@@ -1,5 +1,3 @@
-###DEL-009433-0-000-06-07-1946@@@
-
 DECRETO-LEI N. 9.433 – DE 6 DE JULHO DE 1946
 
 Altera, sem aumento de despesa, o Orçamento Geral da República para o  exercício vigente

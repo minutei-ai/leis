@@ -1,5 +1,3 @@
-###DEC-007685-0-000-01-02-2012-PUB-01@@@
-
 DECRETO N° 7.685, DE 1°\- DE MARÇO DE 2012
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República Federal da Alemanha sobre Cooperação no Setor de Energia com foco em Energias Renováveis e Eficiência Energética, firmado em Brasília, em 14 de maio de 2008.

@@ -1,5 +1,3 @@
-###DEC-083343-0-000-17-04-1979@@@
-
 Decreto nº 83.343, de 17 de abril de 1979.
 
 Concede reconhecimento aos cursos de Economia Doméstica e de Estudos Sociais da Faculdade de Ciências Humanas de Francisco Beltrão, com sede na cidade de Francisco Beltrão, Estado do Paraná.

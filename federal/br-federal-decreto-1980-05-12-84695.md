@@ -1,5 +1,3 @@
-###DEC-084695-0-000-12-05-1980@@@
-
 Decreto nº 84.695, de 12 de maio de 1980.
 
 Autorizada o funcionamento dos cursos de Ciência Sociais e de Pedagogia, das Faculdades Integradas Colégio Moderno, com sede em Belém, Estado do Pará.

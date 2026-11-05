@@ -1,5 +1,3 @@
-###DEL-003867-0-000-29-11-1941@@@
-
 DECRETO-LEI N. 3.867 – DE 29 DE NOVEMBRO DE 1941
 
 Dispõe sobre o produto da emissão de selos autorizada pelo decreto-lei nº 1.076, de 26 de janeiro de 1939

@@ -1,5 +1,3 @@
-###DEC-005701-0-000-15-02-2006@@@
-
 DECRETO Nº 5.701, DE 15 DE FEVEREIRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.647, de 20 de dezembro de 2005, do Conselho de Segurança das Nações Unidas, que, entre outras providências, renova, por seis meses, o embargo à importação de diamantes em estado bruto e madeira procedentes da Libéria e, por um ano, o embargo de armas e restrições de viagem.

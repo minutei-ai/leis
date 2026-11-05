@@ -1,5 +1,3 @@
-###DEC-091399-0-000-04-07-1985@@@
-
 Decreto nº 91.399, de 04 de julho de 1985.
 
 Revoga o Decreto nº 87.523, de 25 de agosto de 1982, que concedeu autorização para funcionar no Brasil à empresa American Airlines, Inc.

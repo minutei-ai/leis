@@ -1,5 +1,3 @@
-###DEC-092238-0-000-30-12-1985@@@
-
 Decreto nº 92.238, de 30 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Putinga", compreendido na referida área, nos Municípios de Caçador e Matos Costa, no Estado de Santa Catarina, e dá outras providências.

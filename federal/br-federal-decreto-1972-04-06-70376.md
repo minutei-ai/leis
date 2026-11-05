@@ -1,5 +1,3 @@
-###DEC-070376-0-000-06-04-1972@@@
-
 DECRETO Nº 70.376, DE 6 DE ABRIL DE 1972.
 
 Atribui incumbência à Comissão Interministerial para a Facilitação do Transporte Aéreo Internacional e dá outras providências.

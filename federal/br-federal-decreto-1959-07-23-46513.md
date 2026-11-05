@@ -1,5 +1,3 @@
-###DEC-046513-0-000-23-07-1959@@@
-
 DECRETO Nº 46.513, DE 23 DE JULHO DE 1959.
 
 Declara sem efeito o Decreto número 46.401, de 10 de julho de 1959.

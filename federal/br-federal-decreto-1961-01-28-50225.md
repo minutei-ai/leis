@@ -1,5 +1,3 @@
-###DEC-050225-0-000-28-01-1961@@@
-
 DECRETO Nº 50.225, DE 28 DE JANEIRO DE 1961.
 
 Dá nova redação ao Artigo 11 do Regulamento da Diretoria de Aeronáutica Civil.

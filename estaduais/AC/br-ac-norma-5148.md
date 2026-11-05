@@ -2,7 +2,7 @@ Modificada pela Lei Complementar nº [485, de 14 de Fevereiro de 2025.](https://
 
 > **LEI Nº 3.926, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que “Dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos Servidores do Tribunal de contas do Estado do Acre, e dá outras providências.”</span></span></span></p></td></tr></tbody></table>
+Altera dispositivos da Lei nº 1.781, de 3 de julho de 2006, que “Dispõe sobre a instituição do Plano de Cargos, Funções, Carreira e Remuneração dos Servidores do Tribunal de contas do Estado do Acre, e dá outras providências.”
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -48,15 +48,129 @@ Modificada pela Lei Complementar nº [485, de 14 de Fevereiro de 2025.](https://
 
 **CARGOS DE NÍVEL FUNDAMENTAL**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Cargo</strong></span></p></td><td><p><span><strong>Instrução</strong></span></p></td><td><p><span><strong>Complexidade</strong></span></p></td><td><p><span><strong>Responsável por erros</strong></span></p></td><td><p><span><strong>Responsável por contatos</strong></span></p></td><td><p><span><strong>Supervisão recebida</strong></span></p></td><td><p><span><strong>Supervisão exercida</strong></span></p></td><td><p><span><strong>Esforço Mental Visual</strong></span></p></td><td><p><span><strong>Total</strong></span></p></td><td><p><span><strong>Valor Total Vencimento</strong></span></p></td></tr><tr><td><p><span>Agente de Controle Externo</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>140</span></p></td><td><p><span>2.318.,47</span></p></td></tr></tbody></table>
+**Cargo**
+
+**Instrução**
+
+**Complexidade**
+
+**Responsável por erros**
+
+**Responsável por contatos**
+
+**Supervisão recebida**
+
+**Supervisão exercida**
+
+**Esforço Mental Visual**
+
+**Total**
+
+**Valor Total Vencimento**
+
+Agente de Controle Externo
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+20
+
+140
+
+2.318.,47
 
 **CARGOS DE NÍVEL MÉDIO**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Cargo</strong></span></p></td><td><p><span><strong>Instrução</strong></span></p></td><td><p><span><strong>Complexidade</strong></span></p></td><td><p><span><strong>Responsável por erros</strong></span></p></td><td><p><span><strong>Responsável por contatos</strong></span></p></td><td><p><span><strong>Supervisão recebida</strong></span></p></td><td><p><span><strong>Supervisão exercida</strong></span></p></td><td><p><span><strong>Esforço Mental Visual</strong></span></p></td><td><p><span><strong>Total</strong></span></p></td><td><p><span><strong>Valor Total Vencimento</strong></span></p></td></tr><tr><td><p><span>Técnico de Controle Externo</span></p></td><td><p><span>40</span></p></td><td><p><span>30</span></p></td><td><p><span>30</span></p></td><td><p><span>30</span></p></td><td><p><span>20</span></p></td><td><p><span>20</span></p></td><td><p><span>30</span></p></td><td><p><span>200</span></p></td><td><p><span>3.133,64</span></p></td></tr></tbody></table>
+**Cargo**
+
+**Instrução**
+
+**Complexidade**
+
+**Responsável por erros**
+
+**Responsável por contatos**
+
+**Supervisão recebida**
+
+**Supervisão exercida**
+
+**Esforço Mental Visual**
+
+**Total**
+
+**Valor Total Vencimento**
+
+Técnico de Controle Externo
+
+40
+
+30
+
+30
+
+30
+
+20
+
+20
+
+30
+
+200
+
+3.133,64
 
 **CARGOS DE NÍVEL SUPERIOR**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Cargo</strong></span></p></td><td><p><span><strong>Instrução</strong></span></p></td><td><p><span><strong>Complexidade</strong></span></p></td><td><p><span><strong>Responsável por erros</strong></span></p></td><td><p><span><strong>Responsável por contatos</strong></span></p></td><td><p><span><strong>Supervisão recebida</strong></span></p></td><td><p><span><strong>Supervisão exercida</strong></span></p></td><td><p><span><strong>Esforço Mental Visual</strong></span></p></td><td><p><span><strong>Total</strong></span></p></td><td><p><span><strong>Valor Total Vencimento</strong></span></p></td></tr><tr><td><p><span>Auditor de Controle Externo</span></p></td><td><p><span>50</span></p></td><td><p><span>50</span></p></td><td><p><span>40</span></p></td><td><p><span>40</span></p></td><td><p><span>30</span></p></td><td><p><span>40</span></p></td><td><p><span>40</span></p></td><td><p><span>290</span></p></td><td><p><span>6.826,61</span></p></td></tr></tbody></table>
+**Cargo**
+
+**Instrução**
+
+**Complexidade**
+
+**Responsável por erros**
+
+**Responsável por contatos**
+
+**Supervisão recebida**
+
+**Supervisão exercida**
+
+**Esforço Mental Visual**
+
+**Total**
+
+**Valor Total Vencimento**
+
+Auditor de Controle Externo
+
+50
+
+50
+
+40
+
+40
+
+30
+
+40
+
+40
+
+290
+
+6.826,61
 
 ...
 
@@ -64,7 +178,309 @@ Modificada pela Lei Complementar nº [485, de 14 de Fevereiro de 2025.](https://
 
 **QUADRO DE CARGOS EM COMISSÃO E FUNÇÕES GRATIFICADAS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Cargos</strong></span></p></td><td><p><span><strong>PROVIMENTO</strong></span></p></td><td><p><span><strong>N DE CARGOS</strong></span></p></td><td><p><span><strong>VENCIMENTO</strong></span></p></td></tr><tr><td><p><span>Diretor de Administração e Finanças</span></p></td><td><p><span>CC/FG-06</span></p></td><td><p><span>1</span></p></td><td><p><span>13.601,71</span></p></td></tr><tr><td><p><span>Diretor de Auditoria Financeira e Orçamentária</span></p></td><td><p><span>CC/FG-06</span></p></td><td><p><span>1</span></p></td><td><p><span>13.601,71</span></p></td></tr><tr><td><p><span>Secretário das Sessões</span></p></td><td><p><span>CC/FG-05</span></p></td><td><p><span>1</span></p></td><td><p><span>11.901,49</span></p></td></tr><tr><td><p><span>Chefe de Gabinete da Presidência</span></p></td><td><p><span>CC/FG-04</span></p></td><td><p><span>1</span></p></td><td><p><span>11.051,38</span></p></td></tr><tr><td><p><span>Assessor Técnico da Presidência</span></p></td><td><p><span>CC/FG-04</span></p></td><td><p><span>1</span></p></td><td><p><span>11.051,38</span></p></td></tr><tr><td><p><span>Chefe de Gabinete de Conselheiro</span></p></td><td><p><span>CC/FG-04</span></p></td><td><p><span>7</span></p></td><td><p><span>11.051,38</span></p></td></tr><tr><td><p><span>Assessor Técnico de Gabinete</span></p></td><td><p><span>CC/FG-04</span></p></td><td><p><span>14</span></p></td><td><p><span>11.051,38</span></p></td></tr><tr><td><div><span>Chefe de Tecnologia da Informação</span></div></td><td><p><span>CC/FG-04</span></p></td><td><div><span>1</span></div></td><td><p><span>11.051,38</span></p></td></tr><tr><td><p><span>Chefe de Gabinete do Procurador- Chefe do MPE</span></p></td><td><p><span>CC/FG-04</span></p></td><td><p><span>1</span></p></td><td><p><span>11.051,38</span></p></td></tr><tr><td><p><span>Chefe de Recursos Humanos</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe Setor Financeiro</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe Serviços Administrativos</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe da 1ª IGCE</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe da 2ª IGCE</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe da 3ª IGCE</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe da 4ª IGCE</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Chefe da 5ª IGCE</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Controlador Interno</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Assessor Técnico de Procurador do MPE</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>4</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Assessor Técnico de Conselheiro Substituto</span></p></td><td><p><span>CC/FG-03</span></p></td><td><p><span>1</span></p></td><td><p><span>8.501,06</span></p></td></tr><tr><td><p><span>Assessor de Planejamento da Presidência</span></p></td><td><p><span>CC/FG-02</span></p></td><td><p><span>2</span></p></td><td><p><span>5.525,69</span></p></td></tr><tr><td><p><span>Assessor de Segurança Institucional</span></p></td><td><p><span>CC/FG-02</span></p></td><td><p><span>1</span></p></td><td><p><span>5.525,69</span></p></td></tr><tr><td><p><span>Assessor de Comunicação</span></p></td><td><p><span>CC/FG-02</span></p></td><td><p><span>1</span></p></td><td><p><span>5.525,69</span></p></td></tr><tr><td><p><span>Assessoria em Tecnologia da Informação</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>2</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Administrativa da DAF</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>1</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Administrativa da DAFO</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>1</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Administrativa da Secretaria das Sessões</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>1</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Administrativa do Gabinete da Presidência</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>1</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Jurídica do Gabinete da Presidência</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>1</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Administrativa do Gabinete da Conselheira Substituta</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>2</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Assessoria Administrativa do Ministério Público de Contas</span></p></td><td><p><span>FG – 03</span></p></td><td><p><span>2</span></p></td><td><p><span>2.550,30</span></p></td></tr><tr><td><p><span>Contador</span></p></td><td><p><span>FG-02</span></p></td><td><p><span>1</span></p></td><td><p><span>1.700,21</span></p></td></tr><tr><td><p><span>Membros da COMPAQ</span></p></td><td><p><span>FG-02</span></p></td><td><p><span>2</span></p></td><td><p><span>1.700,21</span></p></td></tr><tr><td><p><span>Agente de Contratação/Pregoeiro</span></p></td><td><p><span>FG-02</span></p></td><td><p><span>1</span></p></td><td><p><span>1.700,21</span></p></td></tr><tr><td><p><span>Assessoria Jurídica da DAF</span></p></td><td><p><span>FG-02</span></p></td><td><p><span>1</span></p></td><td><p><span>1.700,21</span></p></td></tr><tr><td><p><span>Assessoria Administrativa</span></p></td><td><p><span>FG-02</span></p></td><td><p><span>21</span></p></td><td><p><span>1.700,21</span></p></td></tr><tr><td><p><span>Assistente Administrativo</span></p></td><td><p><span>FG-01</span></p></td><td><p><span>16</span></p></td><td><p><span>850,10</span></p></td></tr></tbody></table>
+**Cargos**
+
+**PROVIMENTO**
+
+**N DE CARGOS**
+
+**VENCIMENTO**
+
+Diretor de Administração e Finanças
+
+CC/FG-06
+
+1
+
+13.601,71
+
+Diretor de Auditoria Financeira e Orçamentária
+
+CC/FG-06
+
+1
+
+13.601,71
+
+Secretário das Sessões
+
+CC/FG-05
+
+1
+
+11.901,49
+
+Chefe de Gabinete da Presidência
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Assessor Técnico da Presidência
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Chefe de Gabinete de Conselheiro
+
+CC/FG-04
+
+7
+
+11.051,38
+
+Assessor Técnico de Gabinete
+
+CC/FG-04
+
+14
+
+11.051,38
+
+Chefe de Tecnologia da Informação
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Chefe de Gabinete do Procurador- Chefe do MPE
+
+CC/FG-04
+
+1
+
+11.051,38
+
+Chefe de Recursos Humanos
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe Setor Financeiro
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe Serviços Administrativos
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 1ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 2ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 3ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 4ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Chefe da 5ª IGCE
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Controlador Interno
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor Técnico de Procurador do MPE
+
+CC/FG-03
+
+4
+
+8.501,06
+
+Assessor Técnico de Conselheiro Substituto
+
+CC/FG-03
+
+1
+
+8.501,06
+
+Assessor de Planejamento da Presidência
+
+CC/FG-02
+
+2
+
+5.525,69
+
+Assessor de Segurança Institucional
+
+CC/FG-02
+
+1
+
+5.525,69
+
+Assessor de Comunicação
+
+CC/FG-02
+
+1
+
+5.525,69
+
+Assessoria em Tecnologia da Informação
+
+FG – 03
+
+2
+
+2.550,30
+
+Assessoria Administrativa da DAF
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa da DAFO
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa da Secretaria das Sessões
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa do Gabinete da Presidência
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Jurídica do Gabinete da Presidência
+
+FG – 03
+
+1
+
+2.550,30
+
+Assessoria Administrativa do Gabinete da Conselheira Substituta
+
+FG – 03
+
+2
+
+2.550,30
+
+Assessoria Administrativa do Ministério Público de Contas
+
+FG – 03
+
+2
+
+2.550,30
+
+Contador
+
+FG-02
+
+1
+
+1.700,21
+
+Membros da COMPAQ
+
+FG-02
+
+2
+
+1.700,21
+
+Agente de Contratação/Pregoeiro
+
+FG-02
+
+1
+
+1.700,21
+
+Assessoria Jurídica da DAF
+
+FG-02
+
+1
+
+1.700,21
+
+Assessoria Administrativa
+
+FG-02
+
+21
+
+1.700,21
+
+Assistente Administrativo
+
+FG-01
+
+16
+
+850,10
 
 ...
 
@@ -74,29 +490,83 @@ Modificada pela Lei Complementar nº [485, de 14 de Fevereiro de 2025.](https://
 
 **A – NÍVEL FUNDAMENTAL**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>FAIXA</strong></span></p></td><td><p><span><strong>PONTOS</strong></span></p></td><td><p><span><strong>CARGOS</strong></span></p></td><td><p><span><strong>N. HORAS</strong></span></p></td><td><p><span><strong>VENCIMENTO FIXO + VARIÁVEL</strong></span></p></td></tr><tr><td><p><span>FI</span></p></td><td><p><span>140</span></p></td><td><p><span>Agente de Controle Externo</span></p></td><td><p><span>40</span></p></td><td><p><span>1.854,77 + 463,69</span></p></td></tr></tbody></table>
+**FAIXA**
+
+**PONTOS**
+
+**CARGOS**
+
+**N. HORAS**
+
+**VENCIMENTO FIXO + VARIÁVEL**
+
+FI
+
+140
+
+Agente de Controle Externo
+
+40
+
+1.854,77 + 463,69
 
 **B – NÍVEL MÉDIO**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>FAIXA</strong></span></p></td><td><p><span><strong>PONTOS</strong></span></p></td><td><p><span><strong>CARGOS</strong></span></p></td><td><p><span><strong>N. HORAS</strong></span></p></td><td><p><span><strong>VENCIMENTO FIXO + VARIÁVEL</strong></span></p></td></tr><tr><td><p><span>FII</span></p></td><td><p><span>200</span></p></td><td><p><span>Técnico de Controle Externo</span></p></td><td><p><span>40</span></p></td><td><p><span>2.506,92 + 626,73</span></p></td></tr></tbody></table>
+**FAIXA**
+
+**PONTOS**
+
+**CARGOS**
+
+**N. HORAS**
+
+**VENCIMENTO FIXO + VARIÁVEL**
+
+FII
+
+200
+
+Técnico de Controle Externo
+
+40
+
+2.506,92 + 626,73
 
 **C – NÍVEL SUPERIOR**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>FAIXA</strong></span></p></td><td><p><span><strong>PONTOS</strong></span></p></td><td><p><span><strong>CARGOS</strong></span></p></td><td><p><span><strong>N. HORAS</strong></span></p></td><td><p><span><strong>VENCIMENTO FIXO + VARIÁVEL</strong></span></p></td></tr><tr><td><p><span>FIII</span></p></td><td><p><span>290</span></p></td><td><p><span>Auditor de Controle Externo</span></p></td><td><p><span>40</span></p></td><td><p><span>5.461,29 + 1.365,32</span></p></td></tr></tbody></table>
+**FAIXA**
+
+**PONTOS**
+
+**CARGOS**
+
+**N. HORAS**
+
+**VENCIMENTO FIXO + VARIÁVEL**
+
+FIII
+
+290
+
+Auditor de Controle Externo
+
+40
+
+5.461,29 + 1.365,32
 
 **ANEXO VI**
 
 **TABELA DE FAIXAS E SUB FAIXAS DE VENCIMENTO CARGOS EFETIVOS**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"><p><span><strong>Faixa de Vencimento</strong></span></p></td><td rowspan="2"><p><span><strong>Vencimento base</strong></span></p></td><td colspan="18"><p><span><strong>Sub faixas</strong></span></p></td></tr><tr><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td><td><p><span><strong>4</strong></span></p></td><td><p><span><strong>5</strong></span></p></td><td><p><span><strong>6</strong></span></p></td><td><p><span><strong>7</strong></span></p></td><td><p><span><strong>8</strong></span></p></td><td><p><span><strong>9</strong></span></p></td><td><p><span><strong>10</strong></span></p></td><td><p><span><strong>11</strong></span></p></td><td><p><span><strong>12</strong></span></p></td><td><p><span><strong>13</strong></span></p></td><td><p><span><strong>14</strong></span></p></td><td><p><span><strong>15</strong></span></p></td><td><p><span><strong>16</strong></span></p></td><td><p><span><strong>17</strong></span></p></td><td><p><span><strong>18</strong></span></p></td></tr><tr><td><p><span>FI</span></p></td><td><p><span>2.318,47</span></p></td><td><p><span>2.469,17</span></p></td><td><p><span>2.629,66</span></p></td><td><p><span>2.800,59</span></p></td><td><p><span>2.982,63</span></p></td><td><p><span>3.280,89</span></p></td><td><p><span>3.494,15</span></p></td><td><p><span>3.721,27</span></p></td><td><p><span>3.963,15</span></p></td><td><p><span>4.220,76</span></p></td><td><p><span>4.642,83</span></p></td><td><p><span>4.944,61</span></p></td><td><p><span>5.266,01</span></p></td><td><p><span>5.608,31</span></p></td><td><p><span>5.972,85</span></p></td><td><p><span>6.570,13</span></p></td><td><p><span>6.997,19</span></p></td><td><p><span>7.452,01</span></p></td><td><p><span>7.936,39</span></p></td></tr><tr><td><p><span>FII</span></p></td><td><p><span>3.133,64</span></p></td><td><p><span>3.337,33</span></p></td><td><p><span>3.554,26</span></p></td><td><p><span>3.785,29</span></p></td><td><p><span>4.031,33</span></p></td><td><p><span>4.434,46</span></p></td><td><p><span>4.722,70</span></p></td><td><p><span>5.029,68</span></p></td><td><p><span>5.356,61</span></p></td><td><p><span>5.704,79</span></p></td><td><p><span>6.275,26</span></p></td><td><p><span>6.683,16</span></p></td><td><p><span>7.117,56</span></p></td><td><p><span>7.580,20</span></p></td><td><p><span>8.072,92</span></p></td><td><p><span>8.880,21</span></p></td><td><p><span>9.457,42</span></p></td><td><p><span>10.072,15</span></p></td><td><p><span>10.726,84</span></p></td></tr><tr><td><p><span>FIII</span></p></td><td><p><span>6.826,61</span></p></td><td><p><span>7.270,34</span></p></td><td><p><span>7.742,91</span></p></td><td><p><span>8.246,20</span></p></td><td><p><span>8.782,20</span></p></td><td><p><span>9.660,43</span></p></td><td><p><span>10.288,35</span></p></td><td><p><span>10.957,10</span></p></td><td><p><span>11.669,31</span></p></td><td><p><span>12.427,81</span></p></td><td><p><span>13.670,59</span></p></td><td><p><span>14.559,18</span></p></td><td><p><span>15.505,53</span></p></td><td><p><span>16.513,39</span></p></td><td><p><span>17.586,76</span></p></td><td><p><span>19.345,43</span></p></td><td><p><span>20.602,89</span></p></td><td><p><span>21.942,08</span></p></td><td><p><span>23.368,31</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"> **Faixa de Vencimento** </td><td rowspan="2"> **Vencimento base** </td><td colspan="18"> **Sub faixas** </td></tr><tr><td> **1** </td><td> **2** </td><td> **3** </td><td> **4** </td><td> **5** </td><td> **6** </td><td> **7** </td><td> **8** </td><td> **9** </td><td> **10** </td><td> **11** </td><td> **12** </td><td> **13** </td><td> **14** </td><td> **15** </td><td> **16** </td><td> **17** </td><td> **18** </td></tr><tr><td> FI </td><td> 2.318,47 </td><td> 2.469,17 </td><td> 2.629,66 </td><td> 2.800,59 </td><td> 2.982,63 </td><td> 3.280,89 </td><td> 3.494,15 </td><td> 3.721,27 </td><td> 3.963,15 </td><td> 4.220,76 </td><td> 4.642,83 </td><td> 4.944,61 </td><td> 5.266,01 </td><td> 5.608,31 </td><td> 5.972,85 </td><td> 6.570,13 </td><td> 6.997,19 </td><td> 7.452,01 </td><td> 7.936,39 </td></tr><tr><td> FII </td><td> 3.133,64 </td><td> 3.337,33 </td><td> 3.554,26 </td><td> 3.785,29 </td><td> 4.031,33 </td><td> 4.434,46 </td><td> 4.722,70 </td><td> 5.029,68 </td><td> 5.356,61 </td><td> 5.704,79 </td><td> 6.275,26 </td><td> 6.683,16 </td><td> 7.117,56 </td><td> 7.580,20 </td><td> 8.072,92 </td><td> 8.880,21 </td><td> 9.457,42 </td><td> 10.072,15 </td><td> 10.726,84 </td></tr><tr><td> FIII </td><td> 6.826,61 </td><td> 7.270,34 </td><td> 7.742,91 </td><td> 8.246,20 </td><td> 8.782,20 </td><td> 9.660,43 </td><td> 10.288,35 </td><td> 10.957,10 </td><td> 11.669,31 </td><td> 12.427,81 </td><td> 13.670,59 </td><td> 14.559,18 </td><td> 15.505,53 </td><td> 16.513,39 </td><td> 17.586,76 </td><td> 19.345,43 </td><td> 20.602,89 </td><td> 21.942,08 </td><td> 23.368,31 </td></tr></tbody></table>
 
 **TABELA COM VENCIMENTOS DE 80% + 20%\***
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Faixa de Vencimento</strong></span></p></td><td><p><span><strong>Vencimento base</strong></span></p></td><td colspan="18"><p><span><strong>Sub faixas</strong></span></p></td></tr><tr><td rowspan="3"><p><span>FI</span></p></td><td><p><span><strong>Inicial</strong></span></p></td><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td><td><p><span><strong>4</strong></span></p></td><td><p><span><strong>5</strong></span></p></td><td><p><span><strong>6</strong></span></p></td><td><p><span><strong>7</strong></span></p></td><td><p><span><strong>8</strong></span></p></td><td><p><span><strong>9</strong></span></p></td><td><p><span><strong>10</strong></span></p></td><td><p><span><strong>11</strong></span></p></td><td><p><span><strong>12</strong></span></p></td><td><p><span><strong>13</strong></span></p></td><td><p><span><strong>14</strong></span></p></td><td><p><span><strong>15</strong></span></p></td><td><p><span><strong>16</strong></span></p></td><td><p><span><strong>17</strong></span></p></td><td><p><span><strong>18</strong></span></p></td></tr><tr><td><p><span>1.854,77</span></p></td><td><p><span>1.975,33</span></p></td><td><p><span>2.103,73</span></p></td><td><p><span>2.240,47</span></p></td><td><p><span>2.386,10</span></p></td><td><p><span>2.624,71</span></p></td><td><p><span>2.795,32</span></p></td><td><p><span>2.977,01</span></p></td><td><p><span>3.170,52</span></p></td><td><p><span>3.376,60</span></p></td><td><p><span>3.714,26</span></p></td><td><p><span>3.955,69</span></p></td><td><p><span>4.212,81</span></p></td><td><p><span>4.486,64</span></p></td><td><p><span>4.778,28</span></p></td><td><p><span>5.256,10</span></p></td><td><p><span>5.597,75</span></p></td><td><p><span>5.961,60</span></p></td><td><p><span>6.349,11</span></p></td></tr><tr><td><p><span>463,69</span></p></td><td><p><span>493,83</span></p></td><td><p><span>525,93</span></p></td><td><p><span>560,12</span></p></td><td><p><span>596,53</span></p></td><td><p><span>656,18</span></p></td><td><p><span>698,83</span></p></td><td><p><span>744,25</span></p></td><td><p><span>792,63</span></p></td><td><p><span>844,15</span></p></td><td><p><span>928,57</span></p></td><td><p><span>988,92</span></p></td><td><p><span>1.053,20</span></p></td><td><p><span>1.121,66</span></p></td><td><p><span>1.194,57</span></p></td><td><p><span>1.314,03</span></p></td><td><p><span>1.399,44</span></p></td><td><p><span>1.490,40</span></p></td><td><p><span>1.587,28</span></p></td></tr><tr><td><p><span>Total</span></p></td><td><p><span>2.318,47</span></p></td><td><p><span>2.469,17</span></p></td><td><p><span>2.629,66</span></p></td><td><p><span>2.800,59</span></p></td><td><p><span>2.982,63</span></p></td><td><p><span>3.280,89</span></p></td><td><p><span>3.494,15</span></p></td><td><p><span>3.721,27</span></p></td><td><p><span>3.963,15</span></p></td><td><p><span>4.220,76</span></p></td><td><p><span>4.642,83</span></p></td><td><p><span>4.944,61</span></p></td><td><p><span>5.266,01</span></p></td><td><p><span>5.608,31</span></p></td><td><p><span>5.972,85</span></p></td><td><p><span>6.570,13</span></p></td><td><p><span>6.997,19</span></p></td><td><p><span>7.452,01</span></p></td><td><p><span>7.936,39</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **Faixa de Vencimento** </td><td> **Vencimento base** </td><td colspan="18"> **Sub faixas** </td></tr><tr><td rowspan="3"> FI </td><td> **Inicial** </td><td> **1** </td><td> **2** </td><td> **3** </td><td> **4** </td><td> **5** </td><td> **6** </td><td> **7** </td><td> **8** </td><td> **9** </td><td> **10** </td><td> **11** </td><td> **12** </td><td> **13** </td><td> **14** </td><td> **15** </td><td> **16** </td><td> **17** </td><td> **18** </td></tr><tr><td> 1.854,77 </td><td> 1.975,33 </td><td> 2.103,73 </td><td> 2.240,47 </td><td> 2.386,10 </td><td> 2.624,71 </td><td> 2.795,32 </td><td> 2.977,01 </td><td> 3.170,52 </td><td> 3.376,60 </td><td> 3.714,26 </td><td> 3.955,69 </td><td> 4.212,81 </td><td> 4.486,64 </td><td> 4.778,28 </td><td> 5.256,10 </td><td> 5.597,75 </td><td> 5.961,60 </td><td> 6.349,11 </td></tr><tr><td> 463,69 </td><td> 493,83 </td><td> 525,93 </td><td> 560,12 </td><td> 596,53 </td><td> 656,18 </td><td> 698,83 </td><td> 744,25 </td><td> 792,63 </td><td> 844,15 </td><td> 928,57 </td><td> 988,92 </td><td> 1.053,20 </td><td> 1.121,66 </td><td> 1.194,57 </td><td> 1.314,03 </td><td> 1.399,44 </td><td> 1.490,40 </td><td> 1.587,28 </td></tr><tr><td> Total </td><td> 2.318,47 </td><td> 2.469,17 </td><td> 2.629,66 </td><td> 2.800,59 </td><td> 2.982,63 </td><td> 3.280,89 </td><td> 3.494,15 </td><td> 3.721,27 </td><td> 3.963,15 </td><td> 4.220,76 </td><td> 4.642,83 </td><td> 4.944,61 </td><td> 5.266,01 </td><td> 5.608,31 </td><td> 5.972,85 </td><td> 6.570,13 </td><td> 6.997,19 </td><td> 7.452,01 </td><td> 7.936,39 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Faixa de Vencimento</strong></span></p></td><td><p><span><strong>Vencimento base</strong></span></p></td><td colspan="18"><p><span><strong>Sub faixas</strong></span></p></td></tr><tr><td rowspan="3"><p><span>FII</span></p></td><td><p><span><strong>Inicial</strong></span></p></td><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td><td><p><span><strong>4</strong></span></p></td><td><p><span><strong>5</strong></span></p></td><td><p><span><strong>6</strong></span></p></td><td><p><span><strong>7</strong></span></p></td><td><p><span><strong>8</strong></span></p></td><td><p><span><strong>9</strong></span></p></td><td><p><span><strong>10</strong></span></p></td><td><p><span><strong>11</strong></span></p></td><td><p><span><strong>12</strong></span></p></td><td><p><span><strong>13</strong></span></p></td><td><p><span><strong>14</strong></span></p></td><td><p><span><strong>15</strong></span></p></td><td><p><span><strong>16</strong></span></p></td><td><p><span><strong>17</strong></span></p></td><td><p><span><strong>18</strong></span></p></td></tr><tr><td><p><span>2.506,92</span></p></td><td><p><span>2.669,87</span></p></td><td><p><span>2.843,41</span></p></td><td><p><span>3.028,23</span></p></td><td><p><span>3.225,06</span></p></td><td><p><span>3.547,57</span></p></td><td><p><span>3.778,16</span></p></td><td><p><span>4.023,74</span></p></td><td><p><span>4.285,28</span></p></td><td><p><span>4.563,83</span></p></td><td><p><span>5.020,21</span></p></td><td><p><span>5.346,52</span></p></td><td><p><span>5.694,05</span></p></td><td><p><span>6.064,16</span></p></td><td><p><span>6.458,33</span></p></td><td><p><span>7.104,17</span></p></td><td><p><span>7.565,94</span></p></td><td><p><span>8.057,72</span></p></td><td><p><span>8.581,47</span></p></td></tr><tr><td><p><span>626,73</span></p></td><td><p><span>667,47</span></p></td><td><p><span>710,85</span></p></td><td><p><span>757,06</span></p></td><td><p><span>806,27</span></p></td><td><p><span>886,89</span></p></td><td><p><span>944,54</span></p></td><td><p><span>1.005,94</span></p></td><td><p><span>1.071,32</span></p></td><td><p><span>1.140,96</span></p></td><td><p><span>1.255,05</span></p></td><td><p><span>1.336,63</span></p></td><td><p><span>1.423,51</span></p></td><td><p><span>1.516,04</span></p></td><td><p><span>1.614,58</span></p></td><td><p><span>1.776,04</span></p></td><td><p><span>1.891,48</span></p></td><td><p><span>2.014,43</span></p></td><td><p><span>2.145,37</span></p></td></tr><tr><td><p><span>Total</span></p></td><td><p><span>3.133,64</span></p></td><td><p><span>3.337,33</span></p></td><td><p><span>3.554,26</span></p></td><td><p><span>3.785,29</span></p></td><td><p><span>4.031,33</span></p></td><td><p><span>4.434,46</span></p></td><td><p><span>4.722,70</span></p></td><td><p><span>5.029,68</span></p></td><td><p><span>5.356,61</span></p></td><td><p><span>5.704,79</span></p></td><td><p><span>6.275,26</span></p></td><td><p><span>6.683,16</span></p></td><td><p><span>7.117,56</span></p></td><td><p><span>7.580,20</span></p></td><td><p><span>8.072,92</span></p></td><td><p><span>8.880,21</span></p></td><td><p><span>9.457,42</span></p></td><td><p><span>10.072,15</span></p></td><td><p><span>10.726,84</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **Faixa de Vencimento** </td><td> **Vencimento base** </td><td colspan="18"> **Sub faixas** </td></tr><tr><td rowspan="3"> FII </td><td> **Inicial** </td><td> **1** </td><td> **2** </td><td> **3** </td><td> **4** </td><td> **5** </td><td> **6** </td><td> **7** </td><td> **8** </td><td> **9** </td><td> **10** </td><td> **11** </td><td> **12** </td><td> **13** </td><td> **14** </td><td> **15** </td><td> **16** </td><td> **17** </td><td> **18** </td></tr><tr><td> 2.506,92 </td><td> 2.669,87 </td><td> 2.843,41 </td><td> 3.028,23 </td><td> 3.225,06 </td><td> 3.547,57 </td><td> 3.778,16 </td><td> 4.023,74 </td><td> 4.285,28 </td><td> 4.563,83 </td><td> 5.020,21 </td><td> 5.346,52 </td><td> 5.694,05 </td><td> 6.064,16 </td><td> 6.458,33 </td><td> 7.104,17 </td><td> 7.565,94 </td><td> 8.057,72 </td><td> 8.581,47 </td></tr><tr><td> 626,73 </td><td> 667,47 </td><td> 710,85 </td><td> 757,06 </td><td> 806,27 </td><td> 886,89 </td><td> 944,54 </td><td> 1.005,94 </td><td> 1.071,32 </td><td> 1.140,96 </td><td> 1.255,05 </td><td> 1.336,63 </td><td> 1.423,51 </td><td> 1.516,04 </td><td> 1.614,58 </td><td> 1.776,04 </td><td> 1.891,48 </td><td> 2.014,43 </td><td> 2.145,37 </td></tr><tr><td> Total </td><td> 3.133,64 </td><td> 3.337,33 </td><td> 3.554,26 </td><td> 3.785,29 </td><td> 4.031,33 </td><td> 4.434,46 </td><td> 4.722,70 </td><td> 5.029,68 </td><td> 5.356,61 </td><td> 5.704,79 </td><td> 6.275,26 </td><td> 6.683,16 </td><td> 7.117,56 </td><td> 7.580,20 </td><td> 8.072,92 </td><td> 8.880,21 </td><td> 9.457,42 </td><td> 10.072,15 </td><td> 10.726,84 </td></tr></tbody></table>
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td><p><span><strong>Faixa de Vencimento</strong></span></p></td><td><p><span><strong>Vencimento base</strong></span></p></td><td colspan="18"><p><span><strong>Sub faixas</strong></span></p></td></tr><tr><td rowspan="3"><p><span>FIII</span></p></td><td><p><span><strong>Inicial</strong></span></p></td><td><p><span><strong>1</strong></span></p></td><td><p><span><strong>2</strong></span></p></td><td><p><span><strong>3</strong></span></p></td><td><p><span><strong>4</strong></span></p></td><td><p><span><strong>5</strong></span></p></td><td><p><span><strong>6</strong></span></p></td><td><p><span><strong>7</strong></span></p></td><td><p><span><strong>8</strong></span></p></td><td><p><span><strong>9</strong></span></p></td><td><p><span><strong>10</strong></span></p></td><td><p><span><strong>11</strong></span></p></td><td><p><span><strong>12</strong></span></p></td><td><p><span><strong>13</strong></span></p></td><td><p><span><strong>14</strong></span></p></td><td><p><span><strong>15</strong></span></p></td><td><p><span><strong>16</strong></span></p></td><td><p><span><strong>17</strong></span></p></td><td><p><span><strong>18</strong></span></p></td></tr><tr><td><p><span>5.461,29</span></p></td><td><p><span>5.816, 27</span></p></td><td><p><span>6.194,33</span></p></td><td><p><span>6.596,96</span></p></td><td><p><span>7.025,76</span></p></td><td><p><span>7.728,34</span></p></td><td><p><span>8.230,68</span></p></td><td><p><span>8.765,68</span></p></td><td><p><span>9.335,45</span></p></td><td><p><span>9.942,25</span></p></td><td><p><span>10.936,47</span></p></td><td><p><span>11.647,35</span></p></td><td><p><span>12.404,42</span></p></td><td><p><span>13.210,71</span></p></td><td><p><span>14.069,41</span></p></td><td><p><span>15.476,35</span></p></td><td><p><span>16.482,31</span></p></td><td><p><span>17.553,66</span></p></td><td><p><span>18.694,65</span></p></td></tr><tr><td><p><span>1.365,32</span></p></td><td><p><span>1.454,07</span></p></td><td><p><span>1.548,58</span></p></td><td><p><span>1.649,24</span></p></td><td><p><span>1.756,44</span></p></td><td><p><span>1.932,09</span></p></td><td><p><span>2.057,67</span></p></td><td><p><span>2.191,42</span></p></td><td><p><span>2.333,86</span></p></td><td><p><span>2.485,56</span></p></td><td><p><span>2.734,12</span></p></td><td><p><span>2.911,84</span></p></td><td><p><span>3.101,11</span></p></td><td><p><span>3.302,68</span></p></td><td><p><span>3.517,35</span></p></td><td><p><span>3.869,09</span></p></td><td><p><span>4.120,58</span></p></td><td><p><span>4.388,42</span></p></td><td><p><span>4.673,66</span></p></td></tr><tr><td><p><span>Total</span></p></td><td><p><span>6.826,61</span></p></td><td><p><span>7.270,34</span></p></td><td><p><span>7.742,91</span></p></td><td><p><span>8.246,20</span></p></td><td><p><span>8.782,20</span></p></td><td><p><span>9.660,43</span></p></td><td><p><span>10.288,35</span></p></td><td><p><span>10.957,10</span></p></td><td><p><span>11.669,31</span></p></td><td><p><span>12.427,81</span></p></td><td><p><span>13.670,59</span></p></td><td><p><span>14.559,18</span></p></td><td><p><span>15.505,53</span></p></td><td><p><span>16.513,39</span></p></td><td><p><span>17.586,76</span></p></td><td><p><span>19.345,43</span></p></td><td><p><span>20.602,89</span></p></td><td><p><span>21.942,08</span></p></td><td><p><span>23.368,31</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td> **Faixa de Vencimento** </td><td> **Vencimento base** </td><td colspan="18"> **Sub faixas** </td></tr><tr><td rowspan="3"> FIII </td><td> **Inicial** </td><td> **1** </td><td> **2** </td><td> **3** </td><td> **4** </td><td> **5** </td><td> **6** </td><td> **7** </td><td> **8** </td><td> **9** </td><td> **10** </td><td> **11** </td><td> **12** </td><td> **13** </td><td> **14** </td><td> **15** </td><td> **16** </td><td> **17** </td><td> **18** </td></tr><tr><td> 5.461,29 </td><td> 5.816, 27 </td><td> 6.194,33 </td><td> 6.596,96 </td><td> 7.025,76 </td><td> 7.728,34 </td><td> 8.230,68 </td><td> 8.765,68 </td><td> 9.335,45 </td><td> 9.942,25 </td><td> 10.936,47 </td><td> 11.647,35 </td><td> 12.404,42 </td><td> 13.210,71 </td><td> 14.069,41 </td><td> 15.476,35 </td><td> 16.482,31 </td><td> 17.553,66 </td><td> 18.694,65 </td></tr><tr><td> 1.365,32 </td><td> 1.454,07 </td><td> 1.548,58 </td><td> 1.649,24 </td><td> 1.756,44 </td><td> 1.932,09 </td><td> 2.057,67 </td><td> 2.191,42 </td><td> 2.333,86 </td><td> 2.485,56 </td><td> 2.734,12 </td><td> 2.911,84 </td><td> 3.101,11 </td><td> 3.302,68 </td><td> 3.517,35 </td><td> 3.869,09 </td><td> 4.120,58 </td><td> 4.388,42 </td><td> 4.673,66 </td></tr><tr><td> Total </td><td> 6.826,61 </td><td> 7.270,34 </td><td> 7.742,91 </td><td> 8.246,20 </td><td> 8.782,20 </td><td> 9.660,43 </td><td> 10.288,35 </td><td> 10.957,10 </td><td> 11.669,31 </td><td> 12.427,81 </td><td> 13.670,59 </td><td> 14.559,18 </td><td> 15.505,53 </td><td> 16.513,39 </td><td> 17.586,76 </td><td> 19.345,43 </td><td> 20.602,89 </td><td> 21.942,08 </td><td> 23.368,31 </td></tr></tbody></table>
 
 **Art. 7º** O art. 4º da Lei nº 2.865, de 3 de abril de 2014, passa a vigorar com a seguinte redação:
 

@@ -1,5 +1,3 @@
-###DEC-097767-0-000-19-05-1989@@@
-
 DECRETO Nº 97.767, DE 19 DE MAIO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, os imóveis rurais denominados “FAZENDAS ITACIRA II E III E FAZENDA ALDA”, também conhecidos por “FAZENDA CRIMINOSA”, classificados como “latifúndio por exploração”, situados no Município de Imperatriz, Estado do Maranhão, compreendidos na zona prioritária fixada pelo Decreto nº 92.619, de 02 de maio de 1986, e dá outras providências.

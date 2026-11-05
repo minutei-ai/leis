@@ -1,5 +1,3 @@
-###DEC-064415-0-000-28-04-1969@@@
-
 Decreto nº 64.415, de 28 de abril de 1969.
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

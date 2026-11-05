@@ -1,5 +1,3 @@
-###DEC-067083-0-000-19-08-1970@@@
-
 DECRETO Nº 67.083, DE 19 DE AGôSTO DE 1970.
 
 Autoriza a cessão, sob forma de utilização gratuita do terreno que menciona, situado no Estado do Rio Grande do Sul.

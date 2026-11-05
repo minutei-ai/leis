@@ -1,5 +1,3 @@
-###DEC-074250-0-000-03-07-1974@@@
-
 DECRETO Nº 74.250 - DE 3 DE JULHO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Magé, Estado do Rio de Janeiro.

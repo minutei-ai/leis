@@ -1,5 +1,3 @@
-###DEC-082341-0-000-27-09-1978@@@
-
 decreto nº 82.341, de 27 de setembro de 1978.
 
 Cria a Comissão Gerencial de Projetos Especiais (ComGePE), e dá outras providências.

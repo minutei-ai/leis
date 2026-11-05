@@ -1,6 +1,10 @@
 > **LEI Nº 4.559, DE 24 DE MARÇO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a transparência ativa no setor de saúde, garantindo aos pacientes e à sociedade acesso às informações sobre procedimentos médicos e cirúrgicos, incluindo os gastos com Órtese, Prótese e Material Especial - OPME, em unidades de saúde públicas e privadas que atendem pelo Sistema Único de Saúde - SUS no Estado e, estabelece mecanismos de prestação de contas e responsabilização em casos de não cumprimento.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a transparência ativa no setor de saúde, garantindo aos pacientes e à sociedade acesso às informações sobre procedimentos médicos e cirúrgicos, incluindo os gastos com Órtese, Prótese e Material Especial - OPME, em unidades de saúde públicas e privadas que atendem pelo Sistema Único de Saúde - SUS no Estado e, estabelece mecanismos de prestação de contas e responsabilização em casos de não cumprimento.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

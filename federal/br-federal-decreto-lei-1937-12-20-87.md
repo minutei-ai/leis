@@ -1,5 +1,3 @@
-###DEL-000087-0-000-20-12-1937@@@
-
 DECRETO-LEI N. 87 – DE 20 DE DEZEMBRO DE 1937
 
 Determina que o cargo de fiscal do Corpo de Bombeiros do Distrito Federal, seja exercido por um tenente-coronel do Exército

@@ -1,7 +1,3 @@
-1
-
-###DEC-099041-0-000-06-03-1990@@@
-
 DECRETO N° 99.041, DE 6 DE MARÇO DE 1990.
 
 Revoga o Decreto Nº 97.914, de 5 de julho de 1989, que declarou de interesse social, para fins de reforma agrária, o imóvel rural denominado “SACO DO RIO PRETO”, situado no Município de “BONFINÓPOLIS DE MINAS, em MINAS GERAIS.

@@ -1,5 +1,3 @@
-###DEC-051135-0-000-03-08-1961@@@
-
 Decreto nº 51.135, de 3 de agôsto de 1961.
 
 Torna sem efeito o Decreto nº 49.961, de 19 de janeiro de 1961.

@@ -1,5 +1,3 @@
-###DEC-061700-0-000-13-11-1967@@@
-
 DECRETO Nº 61.700, DE 13 DE NOVEMBRO DE 1967.
 
 Autoriza a Centrais Elétricas de Santa Catarina S.A. a construir linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-055445-0-000-05-01-1965@@@
-
 DECRETO Nº 55.445, DE 5 DE JANEIRO DE 1965.
 
 Autoriza Marmoraria Brasil Ltda. a pesquisar mármore e pedras coradas no município de Castelo, Estado do Espírito Santo.

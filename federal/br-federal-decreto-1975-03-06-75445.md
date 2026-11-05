@@ -1,5 +1,3 @@
-###DEC-075445-0-000-06-03-1975@@@
-
 DECRETO Nº 75.445, DE 6 DE MARÇO DE 1975.
 
 Dispõe sobre os Conselhos de Contribuintes do Ministério da Fazenda e dá outras providências.

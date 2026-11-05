@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209471)<br>
-
 # DECRETO N° 68.554, DE 22 DE MAIO DE 2024
 
 ### _Autoriza a outorga de uso, ao Município de Lins, do imóvel que especifica, e dá providências correlatas._

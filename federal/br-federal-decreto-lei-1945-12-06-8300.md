@@ -1,5 +1,3 @@
-###DEL-008300-0-000-06-12-1945@@@
-
 DECRETO-LEI N. 8.300 – DE 6 DE DEZEMBRO DE 1945
 
 Cria cursos técnicos na Divisão de Ensino Industrial do Departamento Nacional de Educação, e dá outras providências.

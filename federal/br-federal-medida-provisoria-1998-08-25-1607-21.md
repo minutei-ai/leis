@@ -1,5 +1,3 @@
-###MPV-001607-0-021-25-08-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.607-21, DE 25 DE AGOSTO DE 1998
 
 Altera a legislação que rege o Salário-Educação, e dá outras providências.

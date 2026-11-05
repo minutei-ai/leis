@@ -4,7 +4,8 @@ Dispõe sobre a criação da Política Estadual de Fomento à Economia Solidári
 
 O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 Disposições Preliminares
 
 Art. 1º - Fica instituída a Política Estadual de Fomento à Economia Solidária no Estado da Bahia - PEFES/BA, na forma prevista nesta Lei.
@@ -27,7 +28,8 @@ VII - Consumidores - pessoas físicas ou jurídicas assim reconhecidas pela legi
 
 VIII - Entidades de Apoio, Assessoria e Fomento à Economia Solidária - organizações que desenvolvem ações de apoio direto a Empreendimentos e Redes de Empreendimentos de Economia Solidária, através de capacitação, assessoria, incubação, assistência técnica, financiamento, organização e acompanhamento.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 Da Política Estadual de Fomento à Economia Solidária
 
 Art. 3º - A Política Estadual de Fomento à Economia Solidária, enquanto estratégia de desenvolvimento sustentável, democrático, includente e socialmente justo, deve perseguir os seguintes objetivos:
@@ -136,7 +138,8 @@ Art. 12 - Aproveita-se, em favor da Rede de Economia Solidária e de Comércio J
 
 Art. 13 - Poderá o Estado da Bahia, a qualquer tempo, instituir registro dos Empreendimentos do setor da Economia Solidária, sem prejuízo do apoio às ações do SIES.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 Do Conselho Estadual de Economia Solidária
 
 Art. 14 - Fica criado, na estrutura da Secretaria do Trabalho, Emprego, Renda e Esporte, o Conselho Estadual de Economia Solidária - CEES/BA, órgão colegiado, com funções consultivas e deliberativas.
@@ -209,7 +212,8 @@ Art. 18 - O Conselho Estadual de Economia Solidária disporá de uma Secretaria 
 
 Art. 19 - O Regimento Interno definirá as normas de funcionamento do Conselho Estadual de Economia Solidária.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 Disposições Finais
 
 Art. 20 - O Conselho Estadual de Economia Solidária deve iniciar o seu funcionamento em até 30 (trinta) dias após a nomeação de seus membros.

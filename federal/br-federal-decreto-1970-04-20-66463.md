@@ -1,5 +1,3 @@
-###DEC-066463-0-000-20-04-1970@@@
-
 DECRETO Nº 66.463, de 20 DE ABRIL DE 1970.
 
 Institui a Comissão de Fiscalização e Recebimento de Navios Varredores na Alemanha.

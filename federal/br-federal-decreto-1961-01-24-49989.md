@@ -1,5 +1,3 @@
-###DEC-049989-0-000-24-01-1961@@@
-
 DECRETO Nº 49.989, DE 24 DE JANEIRO DE 1961.
 
 Abre ao Ministério da Viação e Obras Públicas, o crédito especial de Cr$60.000.000,00, para o fim que especifica.

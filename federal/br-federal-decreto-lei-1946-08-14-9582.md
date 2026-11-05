@@ -1,5 +1,3 @@
-###DEL-009582-0-000-14-08-1946@@@
-
 DECRETO-LEI N. 9.582 – DE 14 DE AGôSTO DE 1946
 
 Dispõe sobre distribuição de crédito e registro de despesa relativos ao aumento de proventos e pensões.

@@ -1,5 +1,3 @@
-###DEC-057727-0-000-03-02-1966@@@
-
 DECRETO Nº 57.727, DE 3 DE FEVEREIRO DE 1966.
 
 Autoriza a Sociedade Mineira de Exportação Ltda., a comprar pedras preciosas.

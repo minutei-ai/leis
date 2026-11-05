@@ -1,5 +1,3 @@
-###DEC-054058-0-000-27-07-1964@@@
-
 DECRETO Nº 54.058, DE 27 DE JULHO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal. Partes Permanente e Especial, do Instituto de Açúcar e do Álcool e dá outras providências.

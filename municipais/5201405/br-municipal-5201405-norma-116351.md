@@ -6,7 +6,8 @@ FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFE
 
 CAPÍTULO I
 
-Seção I<br>
+Seção I
+
 Criação e Natureza do Fundo
 
 Art. 1º Fica instituído no âmbito do Poder Executivo o Fundo Municipal do Canal da Cidadania e Rádio Educativa de Aparecida de Goiânia, diretamente vinculado à Chefia da Casa Civil, por meio da Secretaria Executiva do Canal da Cidadania e Radiodifusão, que será o órgão responsável pela operacionalização da execução de suas atividades.
@@ -15,7 +16,8 @@ Art. 1º Fica instituído no âmbito do Poder Executivo o Fundo Municipal do Can
 
 §2º A vinculação hierárquica à Chefia da Casa Civil não exclui à subordinação funcional das atividades da ARCA à Secretaria da Ciência, Tecnologia e Inovação, no que tange às competências legais daquela Pasta.
 
-Seção II<br>
+Seção II
+
 Dos Princípios
 
 Art. 2º A programação do Canal da Cidadania e da emissora de radiodifusão educativa atenderá aos seguintes princípios, além da observância aos arts. 220 a 225 da Constituição Federal:
@@ -44,7 +46,8 @@ XI - promover os valores éticos e sociais da pessoa e da família, favorecendo 
 
 Parágrafo único. A ARCA financiará as atividades relacionadas à implantação e operação do descrito no caput deste artigo, bem como atividades correlatas.
 
-Seção III<br>
+Seção III
+
 Dos Objetivos e Finalidades
 
 Art. 3º A ARCA tem como finalidade e objetivo precípuo prestar serviços de radiodifusão, especialmente por meio da emissora de FM Educativa e a operação do Canal da Cidadania, estes quando outorgados pela União ao Município de Aparecida de Goiânia.
@@ -85,7 +88,8 @@ XVI - subvencionar total ou parcialmente, a aquisição de equipamentos e materi
 
 XVII – desde que em harmonia com o Plano de Ação constante do artigo 19 desta Lei, conceder diárias, ajudas de custos, passagens e hospedagens, de acordo com as atividades programadas ou para atender às necessidades administrativas.
 
-Seção IV<br>
+Seção IV
+
 Do Patrimônio, da Receita e da Aplicação
 
 Art. 5º O patrimônio inicial da ARCA é o constituído pelo patrimônio mobiliário e equipamentos do Município da Aparecida de Goiânia que estiverem sob guarda e uso da Secretaria Executiva do Canal da Cidadania e Radio Difusão, vinculada à Chefia da Casa Civil, na oportunidade do início da vigência desta Lei.
@@ -186,7 +190,8 @@ Art. 14 A substituição de membro titular ou suplente, quando desejada pelo ór
 
 Parágrafo único. A substituição de membro titular ou suplente, quando desejada pelo Conselho, deverá ser solicitada por ofício ao Prefeito Municipal, com a apresentação de justificativa.
 
-Seção III<br>
+Seção III
+
 Do Conselho Local do Canal da Cidadania
 
 Art. 15 O Conselho Local do Canal da Cidadania, de caráter permanente, será composto por 7 (sete) membros efetivos e os correspondentes suplentes, da seguinte forma:
@@ -225,7 +230,8 @@ Art. 17. O Conselho Local estabelecerá seus mecanismos de diálogo com a socied
 
 CAPÍTULO III
 
-Seção I<br>
+Seção I
+
 Da Administração da ARCA
 
 Art. 18. O Gestor da ARCA será o Secretário Executivo do Canal da Cidadania e Radiodifusão, a quem compete:
@@ -272,8 +278,10 @@ Art. 25 Esta Lei entrará em vigor na data de sua publicação, revogadas as dis
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia-GO, aos 29 de abril de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

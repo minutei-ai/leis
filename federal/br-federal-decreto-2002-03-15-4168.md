@@ -1,5 +1,3 @@
-###DEC-004168-0-000-15-03-2002@@@
-
 DECRETO Nº 4.168, DE 15 DE MARÇO DE 2002
 
 Dispõe sobre a importação e a venda de mercadoria de origem nacional em loja franca, na situação que especifica.

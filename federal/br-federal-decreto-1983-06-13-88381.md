@@ -1,5 +1,3 @@
-###DEC-088381-0-000-13-06-1983@@@
-
 # DECRETO Nº 88.381, DE 13 DE JUNHO DE 1983
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado da Bahia - COELBA, no Estado da Bahia.

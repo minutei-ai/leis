@@ -1,5 +1,3 @@
-###DEC-069033-0-000-09-08-1971@@@
-
 DECRETO Nº 69.033, DE 9 DE AGÔSTO DE 1971.
 
 Retificar o artigo 1º do Decreto número 67.747, de 8 de dezembro de 1970.

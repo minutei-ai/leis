@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.279, DE 13 DE OUTUBRO DE 2015.<br>
+LEI MUNICIPAL Nº 3.279, DE 13 DE OUTUBRO DE 2015.
+
 (Revogada pela Lei Ordinária nº 3.540, de 10 de março de 2020).
 
 ~~Concede novo prazo para o ESTADO DE GOIÁS concluir obras de Escolas Estaduais neste município.~~ 
@@ -19,8 +20,10 @@ LEI MUNICIPAL Nº 3.279, DE 13 DE OUTUBRO DE 2015.<br>
 
 ~~Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 13 dias do mês de outubro do ano de 2015.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER MORAIS<br>
+~~EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~

@@ -1,5 +1,3 @@
-###DEC-051023-0-000-24-07-1961@@@
-
 DECRETO Nº 51.023, DE 24 DE JULHO DE 1961.
 
 Declara públicas, de uso comum, do domínio da União, as águas do rio “Lageado Grande”, “Lageado Grande” e “Chalana”, respectivamente nos seus trechos superior, médio e inferior.

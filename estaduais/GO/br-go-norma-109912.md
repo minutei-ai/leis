@@ -172,9 +172,11 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | --- | --- | --- | --- | --- | --- |
 | 1 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ANDRÉ G. F. CURADO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ANDRÉ GAUDIÉ FLEURY CURADO | \- | ABADIÂNIA |
 | 2 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU OSÓRIO R. CAMARGO | COLÉGIO ESTADUAL OSÓRIO RODRIGUES CAMARGO | \- | ABADIÂNIA |
-| 3 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DOMINGOS ALVES PEREIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOMINGOS ALVES PEREIRA<br>
+| 3 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DOMINGOS ALVES PEREIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOMINGOS ALVES PEREIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ACREÚNA |
-| 4 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAU POVOADO ÁGUA FRIA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ POVOADO ÁGUA FRIA<br>
+| 4 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAU POVOADO ÁGUA FRIA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ POVOADO ÁGUA FRIA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | PLANALTINA | ÁGUA FRIA DE GOIÁS |
 | \- [Vide Lei nº 24.312, de 25-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114842/lei-24312) - Altera a denominação do estabelecimento de ensino que especifica.  |
 | 5 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAU POVOADO MATO SECO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JOAQUIM CAVALCANTE DE LIMA | PLANALTINA | ÁGUA FRIA DE GOIÁS |
@@ -184,12 +186,15 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 9 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL EMÍLIA FERREIRA BRANCO | COLÉGIO ESTADUAL EMÍLIA FERREIRA BRANCO | \- | ÁGUAS LINDAS DE GOIÁS |
 | 10 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL MANSÕES ODISSÉIAS | COLÉGIO ESTADUAL MANSÕES ODISSÉIA | \- | ÁGUAS LINDAS DE GOIÁS |
 | 11 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL DUQUE DE CAXIAS | COLÉGIO ESTADUAL DUQUE DE CAXIAS | \- | ÁGUAS LINDAS DE GOIÁS |
-| 12 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL JUSCELINO KUBITSCHECK DE OLIVEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JUSCELINO KUBITSCHEK DE OLIVEIRA<br>
+| 12 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL JUSCELINO KUBITSCHECK DE OLIVEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JUSCELINO KUBITSCHEK DE OLIVEIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ÁGUAS LINDAS DE GOIÁS |
-| 13 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL MACHADO DE ASSIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MACHADO DE ASSIS<br>
+| 13 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL MACHADO DE ASSIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MACHADO DE ASSIS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ÁGUAS LINDAS DE GOIÁS |
 | 14 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JERÔNIMO V. LOPES | COLÉGIO ESTADUAL JERÔNIMO VICENTE LOPES | \- | ALOÂNDIA |
-| 15 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAU MOISÉS NUNES BANDEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MOISÉS NUNES BANDEIRA<br>
+| 15 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAU MOISÉS NUNES BANDEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MOISÉS NUNES BANDEIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ALTO PARAÍSO DE GOIÁS |
 | 16 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DR. ANTÔNIO CAIADO | COLÉGIO ESTADUAL DOUTOR ANTÔNIO RAMOS CAIADO | \- | ALVORADA DO NORTE |
 | 17 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | ESCOLA ESTADUAL ANA DO CARMO MORAIS | COLÉGIO ESTADUAL ANA DO CARMO MORAIS | \- | AMERICANO DO BRASIL |
@@ -200,125 +205,164 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 22 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU NORMAL PROFESSOR FAUSTINO | COLÉGIO ESTADUAL PROFESSOR FAUSTINO | \- | ANÁPOLIS |
 | 23 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ADOLFO BATISTA | COLÉGIO ESTADUAL ADOLPHO BAPTISTA | \- | ANÁPOLIS |
 | 24 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOÃO GOMES | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JOÃO GOMES | \- | ANÁPOLIS |
-| 25 | [Lei nº 9.858](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86649), de 30 de outubro de 1985 | CENTRO DE ENSINO DOUTOR MAUÁ CAVSLVSNTI SÁVIO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR MAUÁ CAVALCANTE SÁVIO<br>
+| 25 | [Lei nº 9.858](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86649), de 30 de outubro de 1985 | CENTRO DE ENSINO DOUTOR MAUÁ CAVSLVSNTI SÁVIO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR MAUÁ CAVALCANTE SÁVIO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ANÁPOLIS |
-| 26 | [Lei nº 10.113](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85468), de 22 de outubro de 1986 | ESCOLA ESTADUAL OSVALDO FRANCISCO DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OSVALDO FRANCISCO DA SILVA<br>
+| 26 | [Lei nº 10.113](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85468), de 22 de outubro de 1986 | ESCOLA ESTADUAL OSVALDO FRANCISCO DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OSVALDO FRANCISCO DA SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ANÁPOLIS |
-| 27 | [Lei nº 8.616](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86817), de 17 de maio de 1979 | ESCOLA ESTADUAL DE 1º GRAU VIRGÍNIO SANTILLO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VIRGÍNIO SANTILLO<br>
+| 27 | [Lei nº 8.616](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86817), de 17 de maio de 1979 | ESCOLA ESTADUAL DE 1º GRAU VIRGÍNIO SANTILLO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VIRGÍNIO SANTILLO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ANÁPOLIS |
 | 28 | [Lei nº 10.083](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85440), de 10 de setembro de 1986 | CENTRO DE ESTUDOS SUPLETIVOS PROFESSOR ELIAS CHADUD | CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS PROFESSOR ELIAS CHADUD | \- | ANÁPOLIS |
 | 29 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PROF. ALFREDO NASSER | COLÉGIO ESTADUAL PROFESSOR ALFREDO NASSER | \- | ANICUNS |
 | 30 | [Lei nº 8.691](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86892), de 25 de setembro de 1979 | ESCOLA ESTADUAL DE 1º GRAU DOM PEDRO I | COLÉGIO ESTADUAL DOM PEDRO I | \- | APARECIDA DE GOIÂNIA |
-| 31 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DE APARECIDA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MACHADO DE ASSIS<br>
+| 31 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DE APARECIDA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MACHADO DE ASSIS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 32 | [Lei nº 10.941](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84914), de 14 de julho de 1989 | ESCOLA ESTADUAL IRMÃ ANGÉLICA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ IRMÃ ANGÉLICA<br>
+| 32 | [Lei nº 10.941](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84914), de 14 de julho de 1989 | ESCOLA ESTADUAL IRMÃ ANGÉLICA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ IRMÃ ANGÉLICA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 33 | [Lei nº 11.987](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83386), de 8 de junho de 1993 | ESCOLA ESTADUAL JARDIM TIRADENTES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JARDIM TIRADENTES<br>
+| 33 | [Lei nº 11.987](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83386), de 8 de junho de 1993 | ESCOLA ESTADUAL JARDIM TIRADENTES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JARDIM TIRADENTES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 34 | [Lei nº 10.930](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84903), de 14 de julho de 1989 | ESCOLA ESTADUAL JUSCELINO KUBITSCHEK | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JUSCELINO KUBITSCHEK<br>
+| 34 | [Lei nº 10.930](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84903), de 14 de julho de 1989 | ESCOLA ESTADUAL JUSCELINO KUBITSCHEK | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JUSCELINO KUBITSCHEK
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 35 | [Lei nº 11.983](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83381), de 8 de junho de 1993 | ESCOLA ESTADUAL ALTO PARAÍSO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ALTO PARAÍSO<br>
+| 35 | [Lei nº 11.983](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83381), de 8 de junho de 1993 | ESCOLA ESTADUAL ALTO PARAÍSO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ALTO PARAÍSO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 36 | [Lei nº 22.195](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107637), de 10 de agosto de 2023 | COLÉGIO ESTADUAL ELBERTO ALVES BATISTA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ELBERTO ALVES BATISTA<br>
+| 36 | [Lei nº 22.195](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107637), de 10 de agosto de 2023 | COLÉGIO ESTADUAL ELBERTO ALVES BATISTA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ELBERTO ALVES BATISTA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 37 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ERNESTO CAMARGO FONSECA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PROFESSOR GERVÁSIO SANTANA DOURADO<br>
+| 37 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ERNESTO CAMARGO FONSECA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PROFESSOR GERVÁSIO SANTANA DOURADO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 38 | [Lei nº 10.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84872), de 14 de julho de 1989 | ESCOLA ESTADUAL SIMINO RODRIGUES DE SIQUEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SIMINO RODRIGUES DE SIQUEIRA<br>
+| 38 | [Lei nº 10.899](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84872), de 14 de julho de 1989 | ESCOLA ESTADUAL SIMINO RODRIGUES DE SIQUEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SIMINO RODRIGUES DE SIQUEIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 39 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL PETRÔNIO PORTELA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PETRÔNIO PORTELA<br>
+| 39 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL PETRÔNIO PORTELA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PETRÔNIO PORTELA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 40 | [Lei nº 10.939](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84912), de 14 de julho de 1989 | ESCOLA ESTADUAL MARIA JOANA DE JESUS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA JOANA DE JESUS<br>
+| 40 | [Lei nº 10.939](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84912), de 14 de julho de 1989 | ESCOLA ESTADUAL MARIA JOANA DE JESUS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA JOANA DE JESUS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 41 | [Lei nº 10.903](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84876), de 14 de julho de 1989 | ESCOLA ESTADUAL MARIA ROSILDA RODRIGUES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA ROSILDA RODRIGUES<br>
+| 41 | [Lei nº 10.903](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84876), de 14 de julho de 1989 | ESCOLA ESTADUAL MARIA ROSILDA RODRIGUES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA ROSILDA RODRIGUES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
-| 42 | [Lei nº 10.901](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84874), de 14 de julho de 1989 | ESCOLA ESTADUAL PRESIDENTE ARTUR DA COSTA E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE ARTUR DA COSTA E SILVA<br>
+| 42 | [Lei nº 10.901](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84874), de 14 de julho de 1989 | ESCOLA ESTADUAL PRESIDENTE ARTUR DA COSTA E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE ARTUR DA COSTA E SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | APARECIDA DE GOIÂNIA |
 | 43 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL JOSÉ ALVES DE ASSIS | COLÉGIO ESTADUAL JOSÉ ALVES DE ASSIS | \- | APARECIDA DE GOIÂNIA |
 | 44 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ LUDOVICO | COLÉGIO ESTADUAL JOSÉ LUDOVICO DE ALMEIDA | \- | APORÉ |
-| 45 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU HERMÓGENES COELHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ HERMÓGENES COELHO<br>
+| 45 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU HERMÓGENES COELHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ HERMÓGENES COELHO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ARAÇU |
-| 46 | [Lei nº 9.441](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85831), de 30 de maio de 1984 | COLÉGIO ESTADUAL DR. RUBENS CORREA AGUIRRE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR RUBENS CORREA DE AGUIRRE<br>
+| 46 | [Lei nº 9.441](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85831), de 30 de maio de 1984 | COLÉGIO ESTADUAL DR. RUBENS CORREA AGUIRRE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR RUBENS CORREA DE AGUIRRE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ARAGARÇAS |
 | 47 | [Lei nº 10.548](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83765), de 27 de junho de 1988 | CENTRO DE ESTUDOS SUPLETIVOS DE ARAGARÇAS | CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS DE ARAGARÇAS | \- | ARAGARÇAS |
 | 48 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE DÁRIO DE PAIVA SAMPAIO | COLÉGIO ESTADUAL DÁRIO DE PAIVA SAMPAIO | GOIÁS | ARAGUAPAZ |
-| 49 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU BRASIL RAMOS CAIADO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BRASIL RAMOS CAIADO<br>
+| 49 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU BRASIL RAMOS CAIADO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BRASIL RAMOS CAIADO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | GOIÁS | ARAGUAPAZ |
 | 50 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ALFREDO NASSER | COLÉGIO ESTADUAL ALFREDO NASSER | PIRANHAS | ARENÓPOLIS |
 | 51 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ALFREDO NASSER | COLÉGIO ESTADUAL PROFESSOR ALFREDO NASSER | \- | AVELINÓPOLIS |
 | 52 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DR. JOSÉ FELICIANO FERREIRA | COLÉGIO ESTADUAL DOUTOR JOSÉ FELICIANO FERREIRA | \- | BALIZA |
 | 53 | [Lei nº 17.169](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89162), de 30 de setembro de 2010 | COLÉGIO ESTADUAL OZIEL ALVES PEREIRA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO OZIEL ALVES PEREIRA | \- | BALIZA |
 | 54 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL TIRADENTES | COLÉGIO ESTADUAL TIRADENTES | \- | BARRO ALTO |
-| 55 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PRESIDENTE CASTELO BRANCO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE CASTELO BRANCO<br>
+| 55 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PRESIDENTE CASTELO BRANCO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE CASTELO BRANCO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | LEOPOLDO DE BULHÕES | BONFINÓPOLIS |
 | 56 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU VILA NOVA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO VILA NOVA | \- | BRAZABRANTES |
 | 57 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL JANUÁRIO RIBEIRO SOBRINHO | COLÉGIO ESTADUAL JANUÁRIA RIBEIRO SOBRINHO | MOSSÂMEDES | BURITI DE GOIÁS |
 | 58 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PROF. ALFREDO NASSER | COLÉGIO ESTADUAL PROFESSOR ALFREDO NASSER | \- | CABECEIRAS |
-| 59 | [Lei nº 12.654](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82598), de 10 de julho de 1995 | ESCOLA ESTADUAL DE CABECEIRAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OEMIS VIRGÍNIO MACHADO<br>
+| 59 | [Lei nº 12.654](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82598), de 10 de julho de 1995 | ESCOLA ESTADUAL DE CABECEIRAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OEMIS VIRGÍNIO MACHADO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CABECEIRAS |
 | 60 | [Lei nº 13.147](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82240), de 9 de outubro de 1997 | ESCOLA ESTADUAL DE ENSINO ESPECIAL VIVA A VIDA | COLÉGIO ESTADUAL VIVA A VIDA | \- | CACHOEIRA ALTA |
 | 61 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JACI PARAGUASSU | COLÉGIO ESTADUAL JACY PARAGUASSU FADUL | \- | CACHOEIRA ALTA |
 | 62 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU INÁCIO P. PAIS LEME | COLÉGIO ESTADUAL IGNÁCIO PINHEIRO PAES LEME | ITUMBIARA | CACHOEIRA DOURADA |
 | 63 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU BENTO DE GODOI | COLÉGIO ESTADUAL CORONEL BENTO DE GODOY | \- | CALDAS NOVAS |
-| 64 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU OSMUNDO G. FILHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OSMUNDO GONZAGA FILHO<br>
+| 64 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU OSMUNDO G. FILHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OSMUNDO GONZAGA FILHO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CALDAS NOVAS |
-| 65 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | COLÉGIO ESTADUAL DE CALDAS NOVAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DE CALDAS NOVAS<br>
+| 65 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | COLÉGIO ESTADUAL DE CALDAS NOVAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DE CALDAS NOVAS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CALDAS NOVAS |
-| 66 | [Lei nº 10.022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85392), de 23 de maio de 1986 | COLÉGIO ESTADUAL D. PEDRO II | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOM PEDRO II<br>
+| 66 | [Lei nº 10.022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85392), de 23 de maio de 1986 | COLÉGIO ESTADUAL D. PEDRO II | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOM PEDRO II
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CALDAS NOVAS |
-| 67 | [Lei nº 16.686](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88399), de 4 de setembro de 2009 | ESCOLA ESTADUAL DELCIDES FERREIRA DE MORAIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DELCIDES FERREIRA DE MORAIS<br>
+| 67 | [Lei nº 16.686](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/88399), de 4 de setembro de 2009 | ESCOLA ESTADUAL DELCIDES FERREIRA DE MORAIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DELCIDES FERREIRA DE MORAIS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CALDAS NOVAS |
 | 68 | [Lei nº 13.043](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82131), de 11 de abril de 1997 | CENTRO DE ENSINO SUPLETIVO FILOSTRO MACHADO CARNEIRO | CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS FILOSTRO MACHADO CARNEIRO | \- | CALDAS NOVAS |
 | 69 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MARCIONILIO F. MENDONÇA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO MARCIONÍLIO FRANCISCO MENDONÇA | URUAÇU | CAMPINORTE |
 | 70 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MAJOR EMIDIO | COLÉGIO ESTADUAL MAJOR EMÍDIO | \- | CAMPO ALEGRE DE GOIÁS |
 | 71 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU RUI BARBOSA | COLÉGIO ESTADUAL RUI BARBOSA | ANÁPOLIS | CAMPO LIMPO DE GOIÁS |
-| 72 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL FELISMINA CARDOSO BATISTA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FELISMINA CARDOSO BATISTA<br>
+| 72 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL FELISMINA CARDOSO BATISTA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FELISMINA CARDOSO BATISTA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CAMPOS BELOS |
 | 73 | [Lei nº 11.348](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84672), de 12 de novembro de 1990 | ESCOLA ESTADUAL EDMUNDO ROCHA | COLÉGIO ESTADUAL EDMUNDO ROCHA | \- | CAMPOS VERDES |
 | 74 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOAQUIM ARAÚJO E SILVA | COLÉGIO ESTADUAL JOAQUIM DE ARAÚJO E SILVA | \- | CATALÃO |
-| 75 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ABRAHÃO ANDRÉ | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ABRAHÃO ANDRÉ<br>
+| 75 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ABRAHÃO ANDRÉ | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ABRAHÃO ANDRÉ
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CATALÃO |
 | 76 | [Lei nº 11.323](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84648), de 24 de setembro de 1990 | COLÉGIO ESTADUAL CAROLINA VAZ DA COSTA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO CAROLINA VAZ DA COSTA | \- | CATALÃO |
 | 77 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DR. DAVID PERSICANO | COLÉGIO ESTADUAL DOUTOR DAVID PERSICANO | \- | CATALÃO |
 | 78 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU WILSON ELIAS J. DEMOCH | COLÉGIO ESTADUAL WILSON ELIAS JORGE DEMOCH | \- | CATALÃO |
 | 79 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU D. YAYA | COLÉGIO ESTADUAL DONA IAYÁ | \- | CATALÃO |
-| 80 | [Lei nº 10.235](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85195), de 16 de julho de 1987 | INSTITUTO DE EDUCAÇÃO MATILDE MARGON VAZ | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MATILDE MARGON VAZ<br>
+| 80 | [Lei nº 10.235](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85195), de 16 de julho de 1987 | INSTITUTO DE EDUCAÇÃO MATILDE MARGON VAZ | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MATILDE MARGON VAZ
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CATALÃO |
 | 81 | [Lei nº 11.880](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84153), de 30 de dezembro de 1992 | CENTRO DE ESTUDOS SUPLETIVOS PROFª ALZIRA DE SOUZA CAMPOS | CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS PROFESSORA ALZIRA DE SOUZA CAMPOS | \- | CATALÃO |
 | 82 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MOISES SANTANA | COLÉGIO ESTADUAL MOISÉS SANTANA | \- | CATURAÍ |
 | 83 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU CEL. VIRGILIO DO VALE | COLÉGIO ESTADUAL CORONEL VIRGÍLIO DO VALE | \- | CERES |
 | 84 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | ESCOLA ESTADUAL MARIA DO CARMO FRANCO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO MARIA DO CARMO FRANCO | \- | CEZARINA |
-| 85 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL DIVINA OLÍMPIO MIRANDA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DIVINA OLÍMPIO MIRANDA<br>
+| 85 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL DIVINA OLÍMPIO MIRANDA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DIVINA OLÍMPIO MIRANDA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CIDADE OCIDENTAL |
-| 86 | [Lei nº 20.129](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100012), de 13 de junho de 2018 | COLÉGIO ESTADUAL PEDRO MOURÃO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PEDRO MOURÃO<br>
+| 86 | [Lei nº 20.129](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100012), de 13 de junho de 2018 | COLÉGIO ESTADUAL PEDRO MOURÃO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PEDRO MOURÃO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CIDADE OCIDENTAL |
-| 87 | [Lei nº 10.773](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84754), de 17 de maio de 1989 | ESCOLA ESTADUAL FRUTO DA TERRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FRUTO DA TERRA<br>
+| 87 | [Lei nº 10.773](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84754), de 17 de maio de 1989 | ESCOLA ESTADUAL FRUTO DA TERRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FRUTO DA TERRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | APORÉ | CHAPADÃO DO CÉU |
-| 88 | [Lei nº 11.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84452), de 9 de janeiro de 1990 | COLÉGIO ESTADUAL THIAGO VIDAL FERNANDES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ THIAGO VIDAL FERNANDES<br>
+| 88 | [Lei nº 11.122](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84452), de 9 de janeiro de 1990 | COLÉGIO ESTADUAL THIAGO VIDAL FERNANDES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ THIAGO VIDAL FERNANDES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | CORUMBÁ DE GOIÁS | COCALZINHO DE GOIÁS |
 | 89 | [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965), de 12 de maio de 2017 | COLÉGIO DA POLÍCIA MILITAR DO ESTADO DE GOIÁS – CPMG SENADOR JOSÉ ERMÍNIO DE MORAES | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DE GOIÁS – CEPMG SENADOR JOSÉ ERMÍRIO DE MORAES | \- | COCALZINHO DE GOIÁS |
 | 90 | [Lei nº 12.247](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82992), de 12 de janeiro de 1994 | ESCOLA ESTADUAL ANTÔNIO RODRIGUES DOS SANTOS | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ANTÔNIO RODRIGUES DOS SANTOS | \- | COLINAS DO SUL |
-| 91 | [Lei nº 11.008](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84976), de 31 de outubro de 1989 | ESCOLA ESTADUAL JOAQUIM TOMAZ FERREIRA DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOAQUIM TOMAZ FERREIRA DA SILVA<br>
+| 91 | [Lei nº 11.008](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84976), de 31 de outubro de 1989 | ESCOLA ESTADUAL JOAQUIM TOMAZ FERREIRA DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOAQUIM TOMAZ FERREIRA DA SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | COLINAS DO SUL |
-| 92 | [Lei nº 8.543](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87584), de 17 de outubro de 1978 | ESCOLA ESTADUAL DE 1º GRAU CÓRREGO DO OURO "BRASIL" | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BRASIL<br>
+| 92 | [Lei nº 8.543](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87584), de 17 de outubro de 1978 | ESCOLA ESTADUAL DE 1º GRAU CÓRREGO DO OURO "BRASIL" | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BRASIL
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CÓRREGO DO OURO |
-| 93 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL ANDRÉ GAUDIE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ANDRÉ GAUDIE<br>
+| 93 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL ANDRÉ GAUDIE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ANDRÉ GAUDIE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CORUMBÁ DE GOIÁS |
 | 94 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º e 2º GRAUS SIMON BOLIVAR | COLÉGIO ESTADUAL SIMON BOLÍVAR | \- | CORUMBAÍBA |
 | 95 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ DE G. BRASIL | COLÉGIO ESTADUAL JOSÉ DE GOIÁS BRASIL | \- | CRISTALINA |
 | 96 | [Lei nº 15.575](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/79607), de 23 de janeiro de 2006 | COLÉGIO ESTADUAL CAMPOS LINDOS | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO CAMPOS LINDOS | \- | CRISTALINA |
 | 97 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL ADELVINA FLORES RIBEIRO | COLÉGIO ESTADUAL ADELVINA FLORES RIBEIRO | \- | CRISTALINA |
-| 98 | [Lei nº 18.257](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90410), de 6 de dezembro de 2013 | COLÉGIO ESTADUAL AURORA ATTIÊ | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ AURORA ATTIÊ<br>
+| 98 | [Lei nº 18.257](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/90410), de 6 de dezembro de 2013 | COLÉGIO ESTADUAL AURORA ATTIÊ | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ AURORA ATTIÊ
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CRISTALINA |
 | 99 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ P. FAUSTINO | COLÉGIO ESTADUAL JOSÉ PEREIRA FAUSTINO | \- | CRISTIANÓPOLIS |
 | 100 | [Lei nº 11.894](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83292), de 3 de fevereiro de 1993 | ESCOLA ESTADUAL JURANDIR CARDOSO DIAS | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JURANDIR CARDOSO DIAS | \- | CRIXÁS |
-| 101 | [Lei nº 9.937](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85791), de 23 de dezembro de 1985 | COLÉGIO ESTADUAL JOÃO XAVIER FERREIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO XAVIER FERREIRA<br>
+| 101 | [Lei nº 9.937](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85791), de 23 de dezembro de 1985 | COLÉGIO ESTADUAL JOÃO XAVIER FERREIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO XAVIER FERREIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | CRIXÁS |
-| 102 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JULIO MOREIRA DE MOURA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JÚLIO MOREIRA DE MOURA<br>
+| 102 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JULIO MOREIRA DE MOURA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JÚLIO MOREIRA DE MOURA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | DAMIANÓPOLIS |
 | 103 | [Lei nº 8.661](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86862), de 19 de julho de 1979 | ESCOLA ESTADUAL DE 1º GRAU JOÃO BERNARDES DE ASSUNÇÃO | COLÉGIO ESTADUAL JOÃO BERNARDES DE ASSUMÇÃO | \- | DAVINOPÓLIS |
-| 104 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | ESCOLA ESTADUAL JOSÉ DE FARIA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ DE FARIA<br>
+| 104 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | ESCOLA ESTADUAL JOSÉ DE FARIA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ DE FARIA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | EDÉIA |
-| 105 | [Lei nº 11.566](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84330), de 16 de outubro de 1991 | ESCOLA ESTADUAL VALDOMIRO LOPES REZENDE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VALDOMIRO LOPES REZENDE<br>
+| 105 | [Lei nº 11.566](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84330), de 16 de outubro de 1991 | ESCOLA ESTADUAL VALDOMIRO LOPES REZENDE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VALDOMIRO LOPES REZENDE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ESTRELA DO NORTE |
 | 106 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU LINDOLFO M. CUNHA | COLÉGIO ESTADUAL LINDOLFO MENDES DA CUNHA | GOIÁS | FAINA |
 | 107 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PROF. ALFREDO NASSER | COLÉGIO ESTADUAL PROFESSOR ALFREDO NASSER | \- | FAZENDA NOVA |
@@ -338,48 +382,62 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 121 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU AMÉLIA DE COSTA LIMA | COLÉGIO ESTADUAL AMÉLIA DE CASTRO LIMA | \- | GOIANDIRA |
 | 122 | [Lei nº 4.662](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/93604), de 8 de outubro de 1963 | GRUPO ESCOLAR DE CAFELÂNDIA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO COMENDADOR GEREMIA LUNARDELLI | \- | GOIANÉSIA |
 | 123 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SÃO SEBASTIÃO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO SÃO SEBASTIÃO | \- | GOIANÉSIA |
-| 124 | [Lei nº 13.187](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82281), de 10 de dezembro de 1997 | COLÉGIO ESTADUAL PROFESSORA MARIA DA LUZ E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PARQUE DOS BURITIS<br>
+| 124 | [Lei nº 13.187](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82281), de 10 de dezembro de 1997 | COLÉGIO ESTADUAL PROFESSORA MARIA DA LUZ E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PARQUE DOS BURITIS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | APARECIDA DE GOIÂNIA | GOIÂNIA   |
 | 125 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE JARDIM LAJEADO | COLÉGIO ESTADUAL LAJEADO | \- | GOIÂNIA |
-| 126 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE ANTÔNIO OLIVEIRA DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ANTÔNIO OLIVEIRA DA SILVA<br>
+| 126 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE ANTÔNIO OLIVEIRA DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ANTÔNIO OLIVEIRA DA SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 127 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL GRACINDA DE LOURDES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ GRACINDA DE LOURDES<br>
+| 127 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL GRACINDA DE LOURDES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ GRACINDA DE LOURDES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
 | 128 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE POLIVALENTE TRIBUTÁRIA HENRIQUE SILVA | COLÉGIO ESTADUAL TRIBUTÁRIO HENRIQUE SILVA | \- | GOIÂNIA |
-| 129 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE SEVERINO DE ARAÚJO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SEVERIANO DE ARAÚJO<br>
+| 129 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE SEVERINO DE ARAÚJO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SEVERIANO DE ARAÚJO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
 | 130 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE TANCREDO DE ALMEIDA NEVES | COLÉGIO ESTADUAL TANCREDO DE ALMEIDA NEVES | \- | GOIÂNIA |
 | 131 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ALBERTO NÓBREGA | COLÉGIO ESTADUAL MAJOR ALBERTO NÓBREGA | \- | GOIÂNIA |
-| 132 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SANTA BERNADETE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SANTA BERNADETE<br>
+| 132 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SANTA BERNADETE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SANTA BERNADETE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
 | 133 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DUQUE DE CAXIAS | COLÉGIO ESTADUAL DUQUE DE CAXIAS | CAMPINAS | GOIÂNIA |
 | 134 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DAMIANA DA CUNHA | COLÉGIO ESTADUAL DAMIANA DA CUNHA | CAMPINAS | GOIÂNIA |
 | 135 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU NHANHÁ DO COUTO | COLÉGIO ESTADUAL NHANHÁ DO COUTO | CAMPINAS | GOIÂNIA |
 | 136 | [Lei nº 21.886](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107086), de 28 de abril de 2023 | ESCOLA ESTADUAL JARDIM NOVO MUNDO | COLÉGIO ESTADUAL JARDIM NOVO MUNDO | \- | GOIÂNIA |
 | 137 | [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965), de 12 de maio de 2017 | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DO ESTADO DE GOIÁS – CPMG NALY DEUSDARÁ | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DE GOIÁS – CEPMG NALY DEUSDARÁ | \- | GOIÂNIA |
-| 138 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL ARCO ÍRIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ARCO ÍRIS<br>
+| 138 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL ARCO ÍRIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ARCO ÍRIS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 139 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL AÉCIO OLIVEIRA DE ANDRADE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ AÉCIO OLIVEIRA DE ANDRADE<br>
+| 139 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL AÉCIO OLIVEIRA DE ANDRADE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ AÉCIO OLIVEIRA DE ANDRADE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 140 | [Lei nº 13.980](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85088), de 6 de dezembro de 2001 | ESCOLA ESTADUAL DEPUTADO PROFESSOR JOSÉ LUCIANO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DEPUTADO PROFESSOR JOSÉ LUCIANO<br>
+| 140 | [Lei nº 13.980](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85088), de 6 de dezembro de 2001 | ESCOLA ESTADUAL DEPUTADO PROFESSOR JOSÉ LUCIANO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DEPUTADO PROFESSOR JOSÉ LUCIANO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 141 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL IRMÃ GABRIELA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ IRMÃ GABRIELA<br>
+| 141 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL IRMÃ GABRIELA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ IRMÃ GABRIELA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 142 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL TEOTÔNIO VILELA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SENADOR TEOTÔNIO VILELA<br>
+| 142 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL TEOTÔNIO VILELA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SENADOR TEOTÔNIO VILELA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 143 | [Lei nº 9.036](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86391), de 23 de julho de 1981 | COLÉGIO ESTADUAL DOMINGOS BATISTA DE ABREU | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOMINGOS BATISTA DE ABREU<br>
+| 143 | [Lei nº 9.036](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/86391), de 23 de julho de 1981 | COLÉGIO ESTADUAL DOMINGOS BATISTA DE ABREU | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOMINGOS BATISTA DE ABREU
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA |
-| 144 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ARY RIBEIRO VALADÃO FILHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ARY RIBEIRO VALADÃO FILHO<br>
+| 144 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ARY RIBEIRO VALADÃO FILHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ARY RIBEIRO VALADÃO FILHO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIÂNIA (Vila Finsocial) |
 | 145 | [Lei nº 8.867](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87332), de 11 de julho de 1980 | ESCOLA ESTADUAL DE 1º E 2º GRAUS JOSÉ RODRIGUES NAVES | COLÉGIO ESTADUAL JOSÉ RODRIGUES NAVES | \- | GOIANIRA |
 | 146 | [Lei nº 12.130](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82710), de 13 de outubro de 1993 | ESCOLA ESTADUAL SÃO GERALDO | COLÉGIO ESTADUAL SÃO GERALDO | \- | GOIANIRA |
 | 147 | [Lei nº 10.055](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85414), de 5 de junho de 1986 | ESCOLA ESTADUAL WALTER ENGEL | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ERNST WALTER ENGEL | \- | GOIÁS |
 | 148 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE ESPECIAL SÃO FRANCISCO DE ASSIS | COLÉGIO ESTADUAL SÃO FRANCISCO DE ASSIS | \- | GOIATUBA |
-| 149 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MANOEL VICENTE ROSA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MANOEL VICENTE ROSA<br>
+| 149 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MANOEL VICENTE ROSA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MANOEL VICENTE ROSA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | GOIATUBA |
 | 150 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MARIA DE LOURDES E. TEIXEIRA | COLÉGIO ESTADUAL MARIA DE LOURDES ESTIVALLET TEIXEIRA | \- | GOIATUBA |
 | 151 | [Lei nº 14.050](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81616), de 21 de dezembro de 2001 | CEPMG DR. JOSÉ FELICIANO FERREIRA | CEPMG DOUTOR JOSÉ FELICIANO FERREIRA | \- | GUAPÓ |
-| 152 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ELIAS PEREIRA DE SOUZA<br>
+| 152 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ELIAS PEREIRA DE SOUZA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ELIAS PEREIRA DE SOUZA | \- | GUARANI DE GOIÁS |
 | 153 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL MANDINÓPOLIS | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO MANDINÓPOLIS | PILAR DE GOIÁS | GUARINOS |
 | 154 | [Lei nº 17.180](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89172), de 27 de outubro de 2010 | COLÉGIO ESTADUAL GERALDO BATISTA DE OLIVEIRA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO GERALDO BATISTA DE OLIVEIRA | \- | HIDROLÂNDIA |
@@ -387,7 +445,8 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 156 | [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965), de 12 de maio de 2017 | COLÉGIO DA POLÍCIA MILITAR DO ESTADO DE GOIÁS – CPMG AUGUSTA MACHADO | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DE GOIÁS – CEPMG PROFESSORA AUGUSTA MACHADO | \- | HIDROLÂNDIA |
 | 157 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ADEMAR ALVES DE SOUZA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ADEMAR ALVES DE SOUZA | \- | HIDROLÂNDIA |
 | 158 | [Lei nº 12.076](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83470), de 30 de agosto de 1993 | ESCOLA ESTADUAL ANTÔNIO PEREIRA DA SILVA | COLÉGIO ESTADUAL ANTÔNIO PEREIRA DA SILVA | \- | HIDROLINA |
-| 159 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | ESCOLA ESTADUAL VALERIANO DE BARROS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VALERIANO DE BARROS<br>
+| 159 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | ESCOLA ESTADUAL VALERIANO DE BARROS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VALERIANO DE BARROS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | INDIARA |
 | 160 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | ESCOLA ESTADUAL ANTÔNIO VILA VERDE GUTIERRES | COLÉGIO ESTADUAL ANTÔNIO VILA VERDE GUTIERRES | \- | INHUMAS |
 | 161 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE DONA IDUVIRGES SILVA | COLÉGIO ESTADUAL DONA IDUVIRGES SILVA | \- | INHUMAS |
@@ -396,7 +455,8 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 164 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE ZIZENANDO TOLENTINO | COLÉGIO ESTADUAL ZIZENANDO TOLENTINO | \- | INHUMAS |
 | 165 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE ESPECIAL DIURSA LEÃO | COLÉGIO ESTADUAL DIURZA LEÃO | \- | INHUMAS |
 | 166 | [Lei nº 5.908](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/92191), de 27 de agosto de 1965 (art. 37) | GINÁSIO ESTADUAL PROFESSOR EDUARDO MANCINI | COLÉGIO ESTADUAL PROFESSOR EDUARDO MANCINI | \- | IPAMERI |
-| 167 | [Lei nº 10.936](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84909), de 14 de julho de 1989 | ESCOLA ESTADUAL NORMAL PROF. CÉSAR AUGUSTO CEVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PROFESSOR CÉSAR AUGUSTO CEVA<br>
+| 167 | [Lei nº 10.936](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84909), de 14 de julho de 1989 | ESCOLA ESTADUAL NORMAL PROF. CÉSAR AUGUSTO CEVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PROFESSOR CÉSAR AUGUSTO CEVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | IPAMERI |
 | 168 | [Lei nº 11.526](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84292), de 27 de agosto de 1991 | ESCOLA ESTADUAL DE ENSINO ESPECIAL DO MUNICÍPIO DE IPORÁ | COLÉGIO ESTADUAL DE IPORÁ | \- | IPORÁ |
 | 169 | [Lei nº 17.409](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89411), de 8 de setembro de 2011 | CENTRO DE EDUCAÇÃO DE JOVENS E ADULTOS DOM BOSCO – CEJA DOM BOSCO | CENTRO ESTADUAL DE EDUCAÇÃO DE JOVENS E ADULTOS DOM BOSCO | \- | IPORÁ |
@@ -410,33 +470,42 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 177 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | COLÉGIO ESTADUAL ILIDIA M. P. CAIADO | COLÉGIO ESTADUAL ILIDIA MARIA PERILLO CAIADO | \- | ITAPIRAPUÃ |
 | 178 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MAL. RIBAS JÚNIOR | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO MARECHAL RIBAS JÚNIOR | \- | ITAPIRAPUÃ |
 | 179 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOAQUIM S. MOREIRA | COLÉGIO ESTADUAL JOAQUIM DA SILVA MOREIRA | \- | ITAPURANGA |
-| 180 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ PEREIRA FARIA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ PEREIRA DE FARIA<br>
+| 180 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ PEREIRA FARIA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ PEREIRA DE FARIA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ITAPURANGA |
 | 181 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU GAL. CUNHA MATOS | COLÉGIO ESTADUAL GENERAL CUNHA MATOS | \- | ITUMBIARA |
-| 182 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DR. JOSÉ FELICIANO FERREIRA<br>
-[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR JOSÉ FELICIANO FERREIRA<br>
+| 182 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DR. JOSÉ FELICIANO FERREIRA
+
+[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR JOSÉ FELICIANO FERREIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ITUMBIARA |
-| 183 | [Lei nº 12.650](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82594), de 10 de julho de 1995 | COLÉGIO ESTADUAL ADONIRO MARTINS DE ANDRADE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ADONIRO MARTINS DE ANDRADE<br>
+| 183 | [Lei nº 12.650](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82594), de 10 de julho de 1995 | COLÉGIO ESTADUAL ADONIRO MARTINS DE ANDRADE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ADONIRO MARTINS DE ANDRADE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ITUMBIARA |
-| 184 | [Lei nº 8.385](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87788), de 20 de dezembro de 1977 | ESCOLA ESTADUAL POLIVALENTE DR. MENEZES JÚNIOR | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR MENEZES JÚNIOR<br>
+| 184 | [Lei nº 8.385](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87788), de 20 de dezembro de 1977 | ESCOLA ESTADUAL POLIVALENTE DR. MENEZES JÚNIOR | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL  ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR MENEZES JÚNIOR
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ITUMBIARA |
 | 185 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE SANTA TEREZINHA | COLÉGIO ESTADUAL SANTA TEREZINHA | \- | JARAGUÁ |
 | 186 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DR. ORNELO MACHADO | COLÉGIO ESTADUAL DOUTOR ORNELO MACHADO | \- | JARAGUÁ |
 | 187 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MANOEL R. F. MACHADO | COLÉGIO ESTADUAL MANOEL RIBEIRO FREITAS MACHADO | \- | JARAGUÁ |
-| 188 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL BALTAZAR DE FREITAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BALTAZAR DE FREITAS<br>
+| 188 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL BALTAZAR DE FREITAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BALTAZAR DE FREITAS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | JARAGUÁ |
 | 189 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ALCÂNTARA CARVALHO | COLÉGIO ESTADUAL ALCÂNTARA DE CARVALHO | \- | JATAÍ |
-| 190 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SERAFIM DE CARVALHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SERAFIM DE CARVALHO<br>
+| 190 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SERAFIM DE CARVALHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SERAFIM DE CARVALHO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | JATAÍ |
 | 191 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ M. VILELA | COLÉGIO ESTADUAL JOSÉ MANOEL VILELA | \- | JATAÍ |
 | 192 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MARCONDES GODOI | COLÉGIO ESTADUAL MARCONDES DE GODOY | \- | JATAÍ |
-| 193 | [Lei nº 7.553](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89067), de 10 de outubro de 1972 | COLÉGIO ESTADUAL ELOI PEREIRA MARTINS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ELOI PEREIRA MARTINS<br>
+| 193 | [Lei nº 7.553](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89067), de 10 de outubro de 1972 | COLÉGIO ESTADUAL ELOI PEREIRA MARTINS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ELOI PEREIRA MARTINS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | JOVIÂNIA |
 | 194 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | ESCOLA ESTADUAL GERCINA BORGES TEIXEIRA | COLÉGIO ESTADUAL GERCINA BORGES TEIXEIRA | \- | JUSSARA |
 | 195 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU RONDON | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO DOUTOR RUI BARBOSA DA SILVA | \- | JUSSARA |
 | 196 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA REUNIDA GUARIROBA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO GUARIROBA | \- | JUSSARA |
 | 197 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JANDIRA P. PASSOS | COLÉGIO ESTADUAL JANDIRA PONCIANO DOS PASSOS | \- | JUSSARA |
-| 198 | [Lei nº 13.105](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82197), de 4 de julho de 1997 | COLÉGIO ESTADUAL SALIM AFIUNE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SALIM AFIUNE<br>
+| 198 | [Lei nº 13.105](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82197), de 4 de julho de 1997 | COLÉGIO ESTADUAL SALIM AFIUNE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SALIM AFIUNE
+
 ~~[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983)~~ | \- | LEOPOLDO DE BULHÕES |
 | 199 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PROF. JOSUÉ MEIRELLES | COLÉGIO ESTADUAL PROFESSOR JOSUÉ MEIRELLES | \- | LUZIÂNIA |
 | 200 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL ILÍDIO DE SOUZA LEMOS | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ILÍDIO DE SOUZA LEMOS | \- | LUZIÂNIA |
@@ -450,21 +519,26 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 208 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL OSFAYA | COLÉGIO ESTADUAL OSFAYA | \- | LUZIÂNIA |
 | 209 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL VASCO DOS REIS GONÇALVES | COLÉGIO ESTADUAL VASCO DOS REIS GONÇALVES | \- | LUZIÂNIA |
 | 210 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL PADRE JOSÉ BAZZON | COLÉGIO ESTADUAL PADRE JOSÉ BAZZON | \- | LUZIÂNIA |
-| 211 | [Lei nº 15.265](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80375), de 2 de agosto de 2005 | COLÉGIO ESTADUAL MARIA ABADIA SALOMÃO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA ABADIA SALOMÃO<br>
+| 211 | [Lei nº 15.265](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80375), de 2 de agosto de 2005 | COLÉGIO ESTADUAL MARIA ABADIA SALOMÃO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA ABADIA SALOMÃO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | LUZIÂNIA |
-| 212 | [Lei nº 15.264](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80374), de 2 de agosto de 2005 | COLÉGIO ESTADUAL ESTER DA CUNHA PERES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ESTER DA CUNHA PERES<br>
+| 212 | [Lei nº 15.264](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80374), de 2 de agosto de 2005 | COLÉGIO ESTADUAL ESTER DA CUNHA PERES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ESTER DA CUNHA PERES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | LUZIÂNIA |
-| 213 | [Lei nº 17.607](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89601), de 27 de abril de 2012 | COLÉGIO ESTADUAL FRANCISCO MACHADO DE ARAÚJO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FRANCISCO MACHADO DE ARAÚJO<br>
+| 213 | [Lei nº 17.607](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89601), de 27 de abril de 2012 | COLÉGIO ESTADUAL FRANCISCO MACHADO DE ARAÚJO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FRANCISCO MACHADO DE ARAÚJO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | LUZIÂNIA |
 | 214 | [Lei nº 10.106](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85461), de 21 de outubro de 1986 | COLÉGIO ESTADUAL PROF. ANTÔNIO WALDIR RORIZ | COLÉGIO ESTADUAL PROFESSOR ANTONIO VALDIR RORIZ | \- | LUZIÂNIA |
 | 215 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ANGELO URZEDA | COLÉGIO ESTADUAL ÂNGELO URZEDA | \- | MAIRIPOTABA |
 | 216 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DE AMAROLÂNDIA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO AMAROLÂNDIA | \- | MARA ROSA |
-| 217 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU RAULINA DA FONSECA PASCOAL | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ RAULINA DA FONSECA PASCOAL<br>
+| 217 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU RAULINA DA FONSECA PASCOAL | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ RAULINA DA FONSECA PASCOAL
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | MARZAGÃO |
 | 218 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ALCIDES RAMOS JUBÉ | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ALCIDE CELSO RAMOS JUBÉ | ARUANÃ | MATRINCHÃ |
 | 219 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU J. MADALENA | COLÉGIO ESTADUAL JOSÉ MADALENA | \- | MAURILÂNDIA |
 | 220 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU TIRADENTES | COLÉGIO ESTADUAL TIRADENTES | PADRE BERNARDO | MIMOSO DE GOIÁS |
-| 221 | [Lei nº 11.993](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83392), de 8 de junho de 1993 | COLÉGIO ESTADUAL MINISTRO SANTIAGO DANTAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MINISTRO SANTIAGO DANTAS<br>
+| 221 | [Lei nº 11.993](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83392), de 8 de junho de 1993 | COLÉGIO ESTADUAL MINISTRO SANTIAGO DANTAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MINISTRO SANTIAGO DANTAS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | MINAÇU |
 | 222 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOAQUIM TOMÉ DE ALMEIDA | COLÉGIO ESTADUAL JOAQUIM THOMÉ DE ALMEIDA | URUAÇU | MINAÇU |
 | 223 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU D. TONICA | COLÉGIO ESTADUAL DONA TONICA | \- | MINEIROS |
@@ -476,14 +550,17 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 229 | [Lei nº 11.067](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85033), de 13 de dezembro de 1989 | ESCOLA ESTADUAL CHICO MENDES | COLÉGIO ESTADUAL CHICO MENDES | TROMBAS | MONTIVIDIU DO NORTE |
 | 230 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DRA. GERTRUDES LUTZ | COLÉGIO ESTADUAL DOUTORA GERTRUDES LUTZ | \- | MORRINHOS |
 | 231 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL BARÃO DE MOSSÂMEDES | COLÉGIO ESTADUAL BARÃO DE MOSSÂMEDES | \- | MOSSÂMEDES |
-| 232 | [Lei nº 11.485](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84251), de 10 de julho de 1991 | COLÉGIO ESTADUAL OTAVIANO SANTOS CALDAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OTAVIANO SANTOS CALDAS<br>
+| 232 | [Lei nº 11.485](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84251), de 10 de julho de 1991 | COLÉGIO ESTADUAL OTAVIANO SANTOS CALDAS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ OTAVIANO SANTOS CALDAS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | MUNDO NOVO |
 | 233 | [Lei nº 16.364](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87083), de 6 de outubro de 2008 | ESCOLA ESTADUAL PROFESSORA IVÂNIA MARIA FERRASSOLI | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO PROFESSORA IVÂNIA MARIA FERRASSOLI | \- | MUNDO NOVO |
-| 234 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL JOÃO TEODORA DE OLIVEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO TEODORO DE OLIVEIRA<br>
+| 234 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL JOÃO TEODORA DE OLIVEIRA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO TEODORO DE OLIVEIRA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | MUTUNÓPOLIS |
 | 235 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | COLÉGIO ESTADUAL PROFº EDMIR PÓVOA LEMES | COLÉGIO ESTADUAL PROFESSOR EDMIR PÓVOA LEMES | \- | NAZÁRIO |
 | 236 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU J. VALENTE | COLÉGIO ESTADUAL JOSÉ VALENTE | \- | NERÓPOLIS |
-| 237 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL MARTINIANO DE CARVALHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARTINIANO DE CARVALHO<br>
+| 237 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL MARTINIANO DE CARVALHO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARTINIANO DE CARVALHO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | NERÓPOLIS |
 | 238 | [Lei nº 14.050](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81616), de 21 de dezembro de 2001 | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DO ESTADO DE GOIÁS – CEPMG PAULO FRANCISCO DA SILVA | CEPMG PAULO FRANCISCO DA SILVA | \- | NIQUELÂNDIA |
 | 239 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ILIDIA M. P. CAIADO | COLÉGIO ESTADUAL ILIDIA MARIA PERILLO CAIADO | \- | NOVA AURORA |
@@ -492,23 +569,28 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 242 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE ZÍLO FERREIRA FEITOSA | COLÉGIO ESTADUAL ZILO FERREIRA FEITOSA | \- | NOVA CRIXÁS |
 | 243 | [Lei nº 11.441](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84207), de 21 de maio de 1991 | COLÉGIO ESTADUAL ANTÔNIO LUIZ DE LACERDA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ANTÔNIO LUIZ DE LACERDA | \- | NOVA GLÓRIA |
 | 244 | [Lei nº 14.642](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81268), de 30 de dezembro de 2003 | ESCOLA ESTADUAL EDSON AYRES PEREIRA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO EDSON AYRES PEREIRA | \- | NOVA GLÓRIA |
-| 245 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PRESIDENTE COSTA E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE COSTA E SILVA<br>
+| 245 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PRESIDENTE COSTA E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE COSTA E SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | URUAÇU | NOVA IGUAÇU DE GOIÁS |
 | 246 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MAL. HUMBERTO DE A. CASTELO BRANCO | COLÉGIO ESTADUAL MARECHAL HUMBERTO DE ALENCAR CASTELO BRANCO | \- | NOVA ROMA |
 | 247 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU IRACEMA T. OLIVEIRA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO IRACEMA TELES DE OLIVEIRA | \- | NOVO BRASIL |
 | 248 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL PROFº BENEDITO VIEIRA DE SÁ | COLÉGIO ESTADUAL PROFESSOR BENEDITO VIEIRA DE SÁ | \- | NOVO GAMA |
-| 249 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL HERBERT DE SOUZA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ HERBERT DE SOUZA<br>
+| 249 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL HERBERT DE SOUZA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ HERBERT DE SOUZA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | NOVO GAMA |
-| 250 | [Lei nº 13.487](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81330), de 20 de agosto de 1999 | COLÉGIO ESTADUAL MARIA BENEDITO VELOZO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA BENEDITO VELOZO<br>
+| 250 | [Lei nº 13.487](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81330), de 20 de agosto de 1999 | COLÉGIO ESTADUAL MARIA BENEDITO VELOZO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA BENEDITO VELOZO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | ORIZONA |
 | 251 | [Lei nº 16.350](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87068), de 22 de setembro de 2008 | NÚCLEO ESTADUAL DE EDUCAÇÃO DO CAMPO – NUCLEC – JOÃO GONÇALVES RIBEIRO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JOÃO GONÇALVES RIBEIRO | \- | ORIZONA |
 | 252 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAUS ANTÔNIO FERREIRA GOULART | COLÉGIO ESTADUAL ANTÔNIO FERREIRA GOULART | \- | OUVIDOR |
-| 253 | [Lei nº 14.486](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81111), de 16 de julho de 2003 | COLÉGIO ESTADUAL SANTA BÁRBARA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DE EDUCAÇÃO DO CAMPO SANTA BÁRBARA<br>
+| 253 | [Lei nº 14.486](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81111), de 16 de julho de 2003 | COLÉGIO ESTADUAL SANTA BÁRBARA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DE EDUCAÇÃO DO CAMPO SANTA BÁRBARA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | PADRE BERNARDO |
 | 254 | [Lei nº 17.279](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89272), de 21 de março de 2011 | COLÉGIO ESTADUAL JOÃO ALVES DE CASTRO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JOÃO ALVES DE CASTRO | \- | PADRE BERNARDO |
 | 255 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ANA ALGEMIRA DO PRADO | COLÉGIO ESTADUAL ANA ALGEMIRA DO PRADO | CAIAPÔNIA | PALESTINA DE GOIÁS |
 | 256 | [Lei nº 14.649](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81275), de 30 de dezembro de 2003 | COLÉGIO ESTADUAL DESOR. H. DE BARROS VELASCO | COLÉGIO ESTADUAL DESEMBARGADOR HAMILTON DE BARROS VELASCO | \- | PALMINÓPOLIS |
-| 257 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU BARTOLOMEU BUENO DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BARTOLOMEU BUENO DA SILVA<br>
+| 257 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU BARTOLOMEU BUENO DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ BARTOLOMEU BUENO DA SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | PARANAIGUARA |
 | 258 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DOM EMANUEL DE OLIVEIRA | COLÉGIO ESTADUAL DOM EMMANUEL GOMES DE OLIVEIRA | \- | PIRACANJUBA |
 | 259 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU CLOTIDES COSTA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO DONA CLOTILDE COSTA | \- | PIRACANJUBA |
@@ -519,7 +601,8 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 264 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL JOSÉ GALDINO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JOSÉ GALDINO | \- | PIRENÓPOLIS |
 | 265 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU COM. JOAQUIM ALVES | COLÉGIO ESTADUAL COMENDADOR JOAQUIM ALVES | \- | PIRENÓPOLIS |
 | 266 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DR. FRANCISCO ACCIOLI | COLÉGIO ESTADUAL DOUTOR FRANCISCO ACCIOLI | \- | PIRES DO RIO |
-| 267 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MARTINS BORGES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARTINS BORGES<br>
+| 267 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MARTINS BORGES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARTINS BORGES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | PIRES DO RIO |
 | 268 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU RODRIGO R. CUNHA | COLÉGIO ESTADUAL RODRIGO RODRIGUES DA CUNHA | \- | PIRES DO RIO |
 | 269 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PLANALTINA DE GOIÁS | COLÉGIO ESTADUAL DE PLANALTINA | \- | PLANALTINA |
@@ -528,12 +611,15 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 272 | [Lei nº 8.778](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87243), de 17 de janeiro de 1980 | ESCOLA ESTADUAL DE 1º GRAU FAZENDA BARREIRA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO BARREIRO | \- | POSSE |
 | 273 | [Lei nº 11.839](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84112), de 3 de dezembro de 1992 | ESCOLA ESTADUAL DO POVOADO NOVA VISTA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO NOVA VISTA | \- | POSSE |
 | 274 | [Lei nº 12.911](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82399), de 8 de julho de 1996 | COLÉGIO ESTADUAL CEL. ERNESTO ANTÔNIO DE ARAÚJO | COLÉGIO ESTADUAL CORONEL ERNESTO ANTÔNIO DE ARAÚJO | \- | POSSE |
-| 275 | [Lei nº 8.931](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87396), de 23 de outubro de 1980 | COLÉGIO ESTADUAL POLIVALENTE RUI BARBOSA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ RUI BARBOSA<br>
+| 275 | [Lei nº 8.931](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87396), de 23 de outubro de 1980 | COLÉGIO ESTADUAL POLIVALENTE RUI BARBOSA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ RUI BARBOSA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | RIALMA |
 | 276 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU CÓNEGO JOSÉ TRINDADE | COLÉGIO ESTADUAL CÔNEGO JOSÉ TRINDADE DA FONSECA E SILVA | \- | RIANÁPOLIS |
-| 277 | [Lei nº 12.269](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83014), de 20 de janeiro de 1994 | ESCOLA ESTADUAL ÁGUA QUENTE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ÁGUA QUENTE<br>
+| 277 | [Lei nº 12.269](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83014), de 20 de janeiro de 1994 | ESCOLA ESTADUAL ÁGUA QUENTE | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ÁGUA QUENTE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | RIO QUENTE |
-| 278 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOÃO VELOSO DO CARMO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO VELOSO DO CARMO<br>
+| 278 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOÃO VELOSO DO CARMO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO VELOSO DO CARMO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | RIO VERDE |
 | 279 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ITAGIBA JAYME | COLÉGIO ESTADUAL ITAGIBA GONZAGA JAYME | \- | RIO VERDE |
 | 280 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PEDRO A. DE MOURA | COLÉGIO ESTADUAL PEDRO ALVES DE MOURA | \- | RUBIATABA |
@@ -541,7 +627,8 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 282 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL ANTÔNIO BRAGA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ANTÔNIO BRAGA | \- | RUBIATABA |
 | 283 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU TORQUATO R. CAIADO | COLÉGIO ESTADUAL TORQUATO RAMOS CAIADO | \- | SANCLERLÂNDIA |
 | 284 | [Lei nº 14.050](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81616), de 21 de dezembro de 2001 | CEPMG DE SANCLERLÂNDIA | CEPMG 5 DE JANEIRO | \- | SANCLERLÂNDIA |
-| 285 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL MARIA CARNEIRO PINTO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA CARNEIRO PINTO<br>
+| 285 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL MARIA CARNEIRO PINTO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MARIA CARNEIRO PINTO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SANTA BÁRBARA DE GOIÁS |
 | 286 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ANTÔNIO R. CAIADO | COLÉGIO ESTADUAL ANTÔNIO RAMOS CAIADO | \- | SANTA CRUZ DE GOIÁS |
 | 287 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU GABRIEL DE MOREIRA | COLÉGIO ESTADUAL GABRIEL JOSÉ DE MOURA | JUSSARA | SANTA FÉ DE GOIÁS |
@@ -551,38 +638,49 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 291 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SANTA IZABEL | COLÉGIO ESTADUAL SANTA ISABEL | JARAGUÁ | SANTA ISABEL |
 | 292 | [Lei nº 10.040](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85410), de 23 de maio de 1986 | ESCOLA ESTADUAL UMBELINA BRAZ GOMIDES | COLÉGIO ESTADUAL UMBELINA BRAZ GOMIDES | \- | SANTA ISABEL |
 | 293 | [Lei nº 13.093](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82184), de 4 de julho de 1997 | ESCOLA ESTADUAL JOAQUIM MARTINS CORREIA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO JOAQUIM MARTINS CORREIA | NATINÓPOLIS, DISTRITO DE GOIANÉSIA | SANTA ISABEL |
-| 294 | [Lei nº 10.281](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85240), de 6 de outubro de 1987 | ESCOLA ESTADUAL IVO DE MORAES CAJANGO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ IVO DE MORAES CAJANGO<br>
+| 294 | [Lei nº 10.281](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85240), de 6 de outubro de 1987 | ESCOLA ESTADUAL IVO DE MORAES CAJANGO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ IVO DE MORAES CAJANGO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SANTA RITA DO ARAGUAIA |
 | 295 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL MACHADO DE ASSIS | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO MACHADO DE ASSIS | BARRO ALTO | SANTA RITA DO NOVO DESTINO |
 | 296 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DR. MARCO AURÉLIO | COLÉGIO ESTADUAL DOUTOR MARCO AURÉLIO | \- | SANTA TEREZA DE GOIÁS |
 | 297 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU HERMINIO RODRIGUES LEÃO | COLÉGIO ESTADUAL HERMÍNIO RODRIGUES LEÃO | RIO VERDE | SANTO ANTÔNIO DA BARRA |
-| 298 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL JOSÉ DE ASSIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ DE ASSIS<br>
+| 298 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | COLÉGIO ESTADUAL JOSÉ DE ASSIS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ DE ASSIS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SANTO ANTÔNIO DO DESCOBERTO |
-| 299 | [Lei nº 8.534](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87575), de 18 de setembro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SANTO ANTÔNIO DO DESCOBERTO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SANTO ANTÔNIO DO DESCOBERTO<br>
+| 299 | [Lei nº 8.534](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87575), de 18 de setembro de 1978 | ESCOLA ESTADUAL DE 1º GRAU SANTO ANTÔNIO DO DESCOBERTO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ SANTO ANTÔNIO DO DESCOBERTO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | LUZIÂNIA | SANTO ANTÔNIO DO DESCOBERTO |
 | 300 | [Lei nº 10.851](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84832), de 21 de junho de 1989 | ESCOLA ESTADUAL SALOMÃO ELIAS ABDON | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO SALOMÃO ELIAS ABDON | \- | SANTO ANTÔNIO DO DESCOBERTO |
-| 301 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | COLÉGIO ESTADUAL JOÃO HONORATO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO HONORATO<br>
+| 301 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | COLÉGIO ESTADUAL JOÃO HONORATO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOÃO HONORATO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SÃO DOMINGOS |
 | 302 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE MARIA RÉGIS VALENTE | COLÉGIO ESTADUAL MARIA RÉGIS VALENTE | \- | SÃO DOMINGOS |
 | 303 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE POVOADO ESTIVA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO ESTIVA | \- | SÃO DOMINGOS |
-| 304 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU FREDERICO BERNARDES RABELO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FREDERICO BERNARDES RABELO<br>
+| 304 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU FREDERICO BERNARDES RABELO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ FREDERICO BERNARDES RABELO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SÃO JOÃO D'ALIANÇA |
 | 305 | [Lei nº 8.295](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87699), de 4 de agosto de 1977 | ESCOLA ESTADUAL DE 1º GRAU CÔNEGO TRINDADE | COLÉGIO ESTADUAL CÔNEGO JOSÉ TRINDADE DA FONSECA E SILVA | PARAÚNA | SÃO JOÃO DA PARAÚNA   |
 | 306 | [Lei nº 12.911](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82399), de 8 de julho de 1996 | ESCOLA ESTADUAL DE ENSINO ESPECIAL CEL. LUIZ NETTO | COLÉGIO ESTADUAL CORONEL LUIZ NETTO | \- | SÃO LUÍS DE MONTES BELOS |
 | 307 | [Lei nº 11.895](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83293), de 3 de fevereiro de 1993 | ESCOLA ESTADUAL JOSÉ AFONSO RODRIGUES FILHO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO DE SILVOLÂNDA | \- | SÃO LUÍS DE MONTES BELOS |
 | 308 | [Lei nº 8.543](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87584), de 17 de outubro de 1978 | ESCOLA ESTADUAL DE 1º GRAU ROSALÂNDIA | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO DE ROSALÂNDIA | \- | SÃO LUÍS DE MONTES BELOS |
-| 309 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL PRESIDENTE COSTA E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE COSTA E SILVA<br>
+| 309 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL PRESIDENTE COSTA E SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PRESIDENTE COSTA E SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SÃO LUÍS DE MONTES BELOS |
-| 310 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MEIRA MATOS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MEIRA MATOS<br>
+| 310 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MEIRA MATOS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MEIRA MATOS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SÃO LUIZ DO NORTE |
-| 311 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DR. DORIVAL BRANDÃO DE ANDRADE<br>
-[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR DORIVAL BRANDÃO DE ANDRADE<br>
+| 311 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DR. DORIVAL BRANDÃO DE ANDRADE
+
+[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOUTOR DORIVAL BRANDÃO DE ANDRADE
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SÃO MIGUEL DO ARAGUAIA |
 | 312 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU PRESIDENTE CASTELO BRANCO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO PRESIDENTE CASTELO BRANCO | \- | SÃO SIMÃO |
-| 313 | [Lei nº 14.713](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80657), de 30 de janeiro de 2004 | ESCOLA ESTADUAL JOSÉ DAVID SKAF | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ DAVID SKAF<br>
+| 313 | [Lei nº 14.713](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80657), de 30 de janeiro de 2004 | ESCOLA ESTADUAL JOSÉ DAVID SKAF | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JOSÉ DAVID SKAF
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SENADOR CANEDO |
 | 314 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU D. EMANUEL | COLÉGIO ESTADUAL DOM EMANUEL | \- | SILVÂNIA |
-| 315 | [Lei nº 21.084](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104297), de 10 de setembro de 2021 | COLÉGIO ESTADUAL PROFESSOR JOSÉ PASCOAL DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PROFESSOR JOSÉ PASCOAL DA SILVA<br>
+| 315 | [Lei nº 21.084](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104297), de 10 de setembro de 2021 | COLÉGIO ESTADUAL PROFESSOR JOSÉ PASCOAL DA SILVA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ PROFESSOR JOSÉ PASCOAL DA SILVA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | SILVÂNIA |
 | 316 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU EXALTINO S. SANTOS | COLÉGIO ESTADUAL EXALTINA SOARES DOS SANTOS | POSSE | SIMOLÂNDIA |
 | 317 | [Lei nº 11.839](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84112), de 3 de dezembro de 1992 | ESCOLA ESTADUAL DA FAZENDA GROTÃO | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO CLARICE MIRANDA PORTO CALDEIRA | \- | SÍTIO D'ABADIA |
@@ -591,19 +689,24 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 320 | [Lei nº 10.608](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83825), de 12 de julho de 1988 | ESCOLA ESTADUAL EURÍDICE SANTANA LIMA | COLÉGIO ESTADUAL EURÍDICE SANTANA LIMA | \- | TRINDADE |
 | 321 | [Lei nº 10.608](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/83825), de 12 de julho de 1988 | ESCOLA ESTADUAL PROFESSOR ESMERALDO MONTEIRO | COLÉGIO ESTADUAL PROFESSOR ESMERALDO MONTEIRO | \- | TRINDADE |
 | 322 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE PROF. GOMIDE | COLÉGIO ESTADUAL PROFESSOR HELON GOMIDE | SANCLERLÂNDIA | TRINDADE |
-| 323 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MENINO JESUS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MENINO JESUS<br>
+| 323 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU MENINO JESUS | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ MENINO JESUS
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | TRINDADE |
 | 324 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | ESCOLA ESTADUAL RIO DO PEIXE | COLÉGIO ESTADUAL RIO DO PEIXE | \- | TRINDADE |
 | 325 | [Lei nº 10.392](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85351), de 30 de dezembro de 1987 | EE HERMÍNIO BORGES | COLÉGIO ESTADUAL HERMÍNIO BORGES | \- | TRINDADE |
 | 326 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU HERCULINO ARANTES | COLÉGIO ESTADUAL HERCULINO GOMES ARANTES | \- | TURVÂNIA |
 | 327 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU RUI ANTONIO DA SILVA | COLÉGIO ESTADUAL RUI ANTÔNIO DA SILVA | ACREÚNA | TURVELÂNDIA |
 | 328 | [Lei nº 13.256](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82801), de 24 de março de 1998 | ESCOLA ESTADUAL DE ENSINO ESPECIAL HERBERT JOSÉ DE SOUZA | COLÉGIO ESTADUAL HERBERT JOSÉ DE SOUZA | \- | URUAÇU |
-| 329 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ESTADUAL AEROPORTO<br>
-[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ AEROPORTO<br>
+| 329 | [Lei nº 20.917](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103633), de 21 de dezembro de 2020 | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ ESTADUAL AEROPORTO
+
+[\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ AEROPORTO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | URUAÇU |
-| 330 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DOM PRADO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOM PRADA<br>
+| 330 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU DOM PRADO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DOM PRADA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | URUAÇU |
-| 331 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL LUIZ CARLOS DA MOTA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ LUIZ CARLOS DA MOTA<br>
+| 331 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL LUIZ CARLOS DA MOTA | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ LUIZ CARLOS DA MOTA
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | URUAÇU |
 | 332 | [Lei nº 21.084](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104297), de 10 de setembro de 2021 | COLÉGIO ESTADUAL DONA MARIA ELIZA DA SILVA | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DE GOIÁS – CEPMG DONA MARIA ELIZA DA SILVA | \- | URUAÇU |
 | 333 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU JOSÉ R. MAGALHÃES | COLÉGIO ESTADUAL JOSÉ RIBEIRO MAGALHÃES | \- | URUANA |
@@ -611,11 +714,14 @@ ESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL – NOVA DENOMINAÇÃO E RE
 | 335 | [Lei nº 8.408](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/87449), de 19 de janeiro de 1978 | ESCOLA ESTADUAL DE 1º GRAU VASCO R. GONÇALVES | COLÉGIO ESTADUAL DOUTOR VASCO DOS REIS GONÇALVES | \- | URUTAÍ |
 | 336 | [Lei nº 19.651](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/98965), de 12 de maio de 2017 | COLÉGIO DA POLÍCIA MILITAR DO ESTADO DE GOIÁS – CPMG CÉU AZUL | COLÉGIO ESTADUAL DA POLÍCIA MILITAR DE GOIÁS CÉU AZUL | \- | VALPARAÍSO DE GOIÁS |
 | 337 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | ESCOLA ESTADUAL DARCI RIBEIRO | COLÉGIO ESTADUAL DARCI RIBEIRO | \- | VALPARAÍSO DE GOIÁS |
-| 338 | [Lei nº 13.437](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82977), de 30 de dezembro de 1998 | ESCOLA ESTADUAL DESEMBARGADOR DILERMANO MEIRELES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DESEMBARGADOR DILERMANO MEIRELES<br>
+| 338 | [Lei nº 13.437](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/82977), de 30 de dezembro de 1998 | ESCOLA ESTADUAL DESEMBARGADOR DILERMANO MEIRELES | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ DESEMBARGADOR DILERMANO MEIRELES
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | LUZIÂNIA | VALPARAÍSO DE GOIÁS |
-| 339 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL VALPARAÍSO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VALPARAÍSO<br>
+| 339 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL VALPARAÍSO | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ VALPARAÍSO
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | LUZIÂNIA | VALPARAÍSO DE GOIÁS |
 | 340 | [Lei nº 14.569](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/81195), de 31 de outubro de 2003 | COLÉGIO ESTADUAL PROFª. GILDETE BARRETO LIMA | COLÉGIO ESTADUAL PROFESSORA GILDETE BARRETO LIMA | \- | VALPARAÍSO DE GOIÁS |
-| 341 | [Lei nº 9.831](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85689), de 14 de outubro de 1985 | COLÉGIO ESTADUAL JANDIRA BRETÃS QUINAN | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JANDIRA BRETAS QUINAN<br>
+| 341 | [Lei nº 9.831](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85689), de 14 de outubro de 1985 | COLÉGIO ESTADUAL JANDIRA BRETÃS QUINAN | COLÉGIO ESTADUAL EM PERÍODO INTEGRAL ~~CENTRO DE ENSINO EM PERÍODO INTEGRAL~~ JANDIRA BRETAS QUINAN
+
 [\- Denominação alterada pela Lei nº 23.991, de 30-12-2025.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111983) | \- | VIANÓPOLIS |
 | 342 | [Lei nº 9.977](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/85529), de 14 de janeiro de 1986 | ESCOLA ESTADUAL D. PEDRO II | COLÉGIO ESTADUAL DE EDUCAÇÃO DO CAMPO DOM PEDRO II | PIRENÓPOLIS | VILA PROPÍCIO |

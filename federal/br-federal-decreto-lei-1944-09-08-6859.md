@@ -1,5 +1,3 @@
-###DEL-006859-0-000-08-09-1944@@@
-
 DECRETO-LEI N. 6.859 – DE 8 DE SETEMBRO DE 1944
 
 Dá nova redação ao art. 114 e § 2º do Código de Vencimentos e Vantagens dos Militares do Exército.

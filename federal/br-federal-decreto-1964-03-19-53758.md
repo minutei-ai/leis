@@ -1,5 +1,3 @@
-###DEC-053758-0-000-19-03-1964@@@
-
 DECRETO Nº 53.758, DE 19 DE MARÇO DE 1964.
 
 Revoga o Decreto nº 49.409, de 2 de dezembro de 1960.

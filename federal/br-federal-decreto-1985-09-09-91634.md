@@ -1,5 +1,3 @@
-###DEC-091634-0-000-09-09-1985@@@
-
 Decreto nº 91.634, de 09 de setembro dE 1985
 
 Concede autorização à empresa CHEVRON BARREIRINRAS EXPLORATION LIMITED para operar na Plataforma Submarina do Brasil, Águas Interiores e Mar Territorial fixado pelo Decreto-Lei nº 1.098, de 25 de março de 1970, a serviço de PETRÓLEO BRASILEIRO S/A-PETROBRÁS.

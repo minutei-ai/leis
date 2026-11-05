@@ -1,5 +1,3 @@
-###DEC-070005-0-000-20-01-1972@@@
-
 DECRETO Nº 70.005, DE 20 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Sociedade Beneficente "Anália Franco com sede em Ubá, Estado de Minas gerais.

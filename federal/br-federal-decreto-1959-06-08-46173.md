@@ -1,5 +1,3 @@
-###DEC-046173-0-000-08-06-1959@@@
-
 DECRETO Nº 46.173, DE 8 DE JUNHO DE 1959.
 
 Altera o Art. 2º do Decreto número 43.992, de 8 de julho de 1958, modificado pelo Decreto nº 44.391, de 27 de agôsto de 1958.

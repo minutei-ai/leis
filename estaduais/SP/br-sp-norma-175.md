@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=175)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2002/compilacao-lei-11198-05.07.2002.html)
 
 # LEI Nº 11.198, DE 05 DE JULHO DE 2002
@@ -9,21 +8,31 @@
 
 ### _Transforma em estância turística o município que especifica_
 
-~~O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Fica transformado em Estância Turística o Município de Piraju.<br>
-**Artigo 2.º -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 5 de julho de 2002<br>
-GERALDO ALCKMIN<br>
-Ruy Martins Altenfelder Silva<br>
-Secretário da Ciência, Tecnologia, Desenvolvimento Econômico e Turismo<br>
-Rubens Lara<br>
-Secretário-Chefe da Casa Civil<br>
-Dalmo Nogueira Filho<br>
-Secretário do Governo e Gestão Estratégica<br>
-Publicada na Assessoria Técnico-Legislativa, aos 5 de julho de 2002.~~
+~~O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Fica transformado em Estância Turística o Município de Piraju.
+
+**Artigo 2.º -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 5 de julho de 2002
+
+GERALDO ALCKMIN
+
+Ruy Martins Altenfelder Silva
+
+Secretário da Ciência, Tecnologia, Desenvolvimento Econômico e Turismo
+
+Rubens Lara
+
+Secretário-Chefe da Casa Civil
+
+Dalmo Nogueira Filho
+
+Secretário do Governo e Gestão Estratégica
+
+Publicada na Assessoria Técnico-Legislativa, aos 5 de julho de 2002.~~
 
 Revogada.
 

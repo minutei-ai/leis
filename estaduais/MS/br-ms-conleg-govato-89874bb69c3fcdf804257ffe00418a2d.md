@@ -6,19 +6,20 @@ Dispõe sobre a obrigatoriedade de instalação de gerador de energia elétrica 
 
 Publicada no Diário Oficial nº 9.215, de 28 de julho de 2016, páginas 1 e 2.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Os estabelecimentos hospitalares e clínicas, públicos ou privados, localizados no Estado de Mato Grosso do Sul, que possuam centro cirúrgico, centro obstétrico, unidade de tratamento intensivo, unidade coronariana ou qualquer outra instalação que não possa sofrer interrupção de procedimentos assistenciais aos pacientes, ficam obrigados a proceder à instalação de gerador de energia elétrica dotado de sistema de acionamento automático.<br>
-<br>
-<i>Parágrafo único</i>. A instalação dos geradores nos locais referidos no <i>caput</i> deste artigo deverá ser efetuada no prazo de até trezentos e sessenta e cinco dias da publicação desta Lei.<br>
-<br>
-Art. 2º O descumprimento do disposto no art. 1º sujeita o estabelecimento infrator a uma multa diária a ser definida na regulamentação da presente Lei.<br>
-<br>
-Art. 3º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Os estabelecimentos hospitalares e clínicas, públicos ou privados, localizados no Estado de Mato Grosso do Sul, que possuam centro cirúrgico, centro obstétrico, unidade de tratamento intensivo, unidade coronariana ou qualquer outra instalação que não possa sofrer interrupção de procedimentos assistenciais aos pacientes, ficam obrigados a proceder à instalação de gerador de energia elétrica dotado de sistema de acionamento automático.
+
+*Parágrafo único*. A instalação dos geradores nos locais referidos no *caput* deste artigo deverá ser efetuada no prazo de até trezentos e sessenta e cinco dias da publicação desta Lei.
+
+Art. 2º O descumprimento do disposto no art. 1º sujeita o estabelecimento infrator a uma multa diária a ser definida na regulamentação da presente Lei.
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 27 de julho de 2016.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

@@ -1,5 +1,3 @@
-###DEC-047662-0-000-19-01-1960@@@
-
 DECRETO Nº 47.662, DE 19 DE JANEIRO DE 1960.
 
 Concede autorização para o funcionamento da Faculdade de Direito de Campos.

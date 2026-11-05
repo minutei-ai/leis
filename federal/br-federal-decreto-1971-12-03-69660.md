@@ -1,5 +1,3 @@
-###DEC-069660-0-000-03-12-1971@@@
-
 DECRETO Nº 69.660 - DE 3 DE DEZEMBRO DE 1971
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério dos Transportes, e dá outras providências.

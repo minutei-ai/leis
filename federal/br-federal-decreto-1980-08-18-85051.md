@@ -1,5 +1,3 @@
-###DEC-085051-0-000-18-08-1980@@@
-
 DECRETO nº 85.051, de 18 agosto do 1980.
 
 Promulga a Convenção entre a República Federativa do Brasil e o Grão-Ducado de Luxemburgo para Evitar a Dupla Tributação em Matéria de Impostos sobre a Renda e o Capital.
@@ -504,7 +502,17 @@ Em testemunho do que, ao Plenipotenciários dos dois Estados assinaram a present
 
 Feito em Luxemburgo aos 8 de novembro de 1978 em dois originais, nas línguas portuguesa e francesa, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Grão-Ducado</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil:</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do Luxemburgo:</span></p></td></tr><tr><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos Frederico Duarte Gonçalves da Rocha</span></p></td><td style="width:212.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Gaston Thorn e Jacques Poos</span></p></td></tr></tbody></table>
+Pela República
+
+Pelo Grão-Ducado
+
+Federativa do Brasil:
+
+do Luxemburgo:
+
+Carlos Frederico Duarte Gonçalves da Rocha
+
+Gaston Thorn e Jacques Poos
 
 PROTOCOLO
 
@@ -542,7 +550,51 @@ O termo "sociedade" mencionado no artigo 24, parágrafo 2, alínea b, compreende
 
 Para fins da determinação do rendimento tributável e do imposto a ser pago por um residente do Luxemburgo com relação aos rendimentos recebidos do Brasil de que trata o artigo 24, parágrafo 2, alínea d, o Luxemburgo não poderá, em hipótese nenhuma, levar em conta um rendimento superior ao montante bruto do rendimento pago no Brasil, de acordo com o seguinte exemplo:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Juros brutos de obrigações provenientes do Brasil</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.000</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Imposto brasileiro retido (15%)</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">150</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Montante líquido atribuído</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">850</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Despesas e encargos referentes aos juros:</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">240</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Imposto brasileiro creditável no Luxemburgo:</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">20% de 1.000=200</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Tributação no Luxemburgo:</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Juros brutos (850 + 150)</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1.000</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Despesas e encargos referentes aos juros</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">240</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Juros líquidos</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">760</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Imposto luxemburguês correspondente a esse rendimento (alíquota hipotética de 40%)</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">304</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Crédito do imposto brasileiro</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">200</span></p></td></tr><tr><td style="width:237.5pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Imposto luxemburguês a pagar</span></p></td><td style="width:184.35pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">104</span></p></td></tr></tbody></table>
+Juros brutos de obrigações provenientes do Brasil
+
+1.000
+
+Imposto brasileiro retido (15%)
+
+150
+
+Montante líquido atribuído
+
+850
+
+Despesas e encargos referentes aos juros:
+
+240
+
+Imposto brasileiro creditável no Luxemburgo:
+
+20% de 1.000=200
+
+Tributação no Luxemburgo:
+
+Juros brutos (850 + 150)
+
+1.000
+
+Despesas e encargos referentes aos juros
+
+240
+
+Juros líquidos
+
+760
+
+Imposto luxemburguês correspondente a esse rendimento (alíquota hipotética de 40%)
+
+304
+
+Crédito do imposto brasileiro
+
+200
+
+Imposto luxemburguês a pagar
+
+104
 
 9\. Ad Artigo 25, parágrafo 2
 
@@ -558,4 +610,14 @@ Em testemunho do que, os Plenipotenciários dos dois Estados assinaram o present
 
 Feito em Luxemburgo aos 8 de novembro de 1978 em dois originais, nas línguas portuguesa e francesa, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pela República</span></p></td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Pelo Grão-Ducado</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Federativa do Brasil:</span></p></td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">do Luxemburgo:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Carlos Frederico Duarte Gonçalves da Rocha</span></p></td><td style="width:217.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Gaston Thorn e Jacques Poos</span></p></td></tr></tbody></table>
+Pela República
+
+Pelo Grão-Ducado
+
+Federativa do Brasil:
+
+do Luxemburgo:
+
+Carlos Frederico Duarte Gonçalves da Rocha
+
+Gaston Thorn e Jacques Poos

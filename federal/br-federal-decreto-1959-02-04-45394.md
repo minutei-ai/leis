@@ -1,5 +1,3 @@
-###DEC-045394-0-000-04-02-1959@@@
-
 DECRETO Nº 45.394, DE 4 DE FEVEREIRO DE 1959.
 
 Concede autorização para o funcionamento do Curso de Ciências Econômicas da Faculdade de Ciências Econômicas de São Leopoldo.

@@ -1,5 +1,3 @@
-###DEC-078101-0-000-20-07-1976@@@
-
 DECRETO Nº 78.101, DE 20 DE JULHO DE 1976.
 
 Revoga o Decreto nº 58.168, de 11 de abril de 1966, que estabeleceu modelo para reprodução da figura de Tiradentes.

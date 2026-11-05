@@ -1,5 +1,3 @@
-###DEC-083223-0-000-01-03-1979@@@
-
 Decreto nº 83.223, de 1º de março de 1979
 
 Concede reconhecimento ao curso de Comunicação Social, ministrado pela Universidade Federal de Pernambuco, com sede na cidade de Recife, Estado de Pernambuco.

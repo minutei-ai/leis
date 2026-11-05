@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=60201)
-
 # LEI Nº 12.241, DE 27 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 833/2005, do Deputado Cândido Vaccarezza - PT e outros)

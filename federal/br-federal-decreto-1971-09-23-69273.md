@@ -1,5 +1,3 @@
-###DEC-069273-0-000-23-09-1971@@@
-
 Decreto Nº 69.273, DE 23 DE setembro DE 1971.
 
 Declara de utilidade pública a Irmandade do Hospital Coronel Juca Ferreira (Santa Casa), com sede em Santa Cruz das Palmeiras, Estado de São Paulo.

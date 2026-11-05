@@ -1,5 +1,3 @@
-###DEL-006340-0-000-11-03-1944@@@
-
 DECRETO-LEI N. 6.340 – DE 11 DE MARÇO DE 1944
 
 Modifica dispositivos do Decreto-lei nº 5.844, de 23 de setembro de 1943. e dá outras providências

@@ -1,5 +1,3 @@
-###LCP-000077-0-000-13-07-1993@@@
-
 LEI COMPLEMENTAR nº 77, DE 13 DE JULHO DE 1993
 
 Institui o Imposto Provisório sobre a Movimentação ou a Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - IPMF e dá outras providências.

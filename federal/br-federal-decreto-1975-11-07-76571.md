@@ -1,5 +1,3 @@
-###DEC-076571-0-000-07-11-1975@@@
-
 DECRETO Nº 76.571, DE 7 DE NOVEMBRO DE 1975.
 
 Transfere a sede do 18º Grupo de Artilharia de Campanha e dá outras providencias.

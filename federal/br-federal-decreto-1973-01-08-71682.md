@@ -1,5 +1,3 @@
-###DEC-071682-0-000-08-01-1973@@@
-
 DECRETO Nº 71.682, DE 8 DE JANEIRO DE 1973.
 
 Concede autorização à Federação Nacional do Comércio Varejista de Combustíveis Minerais e de Garagens do Estado da Guanabara, para filiar-se à Confederação Latino-Americana de Revendedores de Derivados de Petróleo. (CONLARDEPE).

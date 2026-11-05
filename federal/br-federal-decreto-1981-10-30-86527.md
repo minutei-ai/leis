@@ -1,5 +1,3 @@
-###DEC-086527-0-000-30-10-1981@@@
-
 Decreto nº 86.527 de 30 de outubro de 1981.
 
 Renova por 15 (quinze) anos a concessão outorgada à TELEVISÃO ALTO URUGUAI S.A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de Erexim, Estado do Rio Grande do Sul.

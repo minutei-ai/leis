@@ -1,5 +1,3 @@
-###DEC-062455-0-000-22-03-1968@@@
-
 DECRETO Nº 62.455, DE 22 DE MARÇO DE 1968.
 
 Institui a fundação Movimento Brasileiro de Alfabetização (MOBRAL).

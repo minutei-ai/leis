@@ -1,5 +1,3 @@
-###DEC-070939-0-000-04-08-1972@@@
-
 DECRETO Nº 70.939, DE 4 DE AGOSTO DE 1972.
 
 Autoriza o funcionamento do Centro de Estudos Superiores de Londrina - Pr.

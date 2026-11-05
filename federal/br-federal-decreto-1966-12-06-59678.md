@@ -1,5 +1,3 @@
-###DEC-059678-0-000-06-12-1966@@@
-
 DECRETO Nº 59.678, DE 6 DE DEZEMBRO DE 1966.
 
 Concede á Sud America Terrestres Y Marítima S.A., Companhia de Seguros Generales autorização para aumentar o capital destinado as suas operações de seguros no Brasil.

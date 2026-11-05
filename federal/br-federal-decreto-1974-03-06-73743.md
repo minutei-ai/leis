@@ -1,5 +1,3 @@
-###DEC-073743-0-000-06-03-1974@@@
-
 DECRETO Nº 73.743, DE 6 DE MARÇO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Ribamar Limitada, para executar serviço de radiodifusão sonora em onda média de âmbito regional, na Cidade de São Luís, Estado do Maranhão.

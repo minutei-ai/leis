@@ -1,7 +1,3 @@
-1
-
-###DEC-001759-0-000-26-12-1995@@@
-
 DECRETO Nº 1.759, DE 26 DE DEZEMBRO DE 1995.
 
 Aprova o Regulamento do Comando de Defesa Aeroespacial Brasileiro e dá outras providências.

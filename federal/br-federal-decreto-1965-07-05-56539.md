@@ -1,5 +1,3 @@
-###DEC-056539-0-000-05-07-1965@@@
-
 Decreto nº 56.539, de 5 de julho de 1965.
 
 Autoriza o Município de Resplendor a construir uma linha de transmissão.

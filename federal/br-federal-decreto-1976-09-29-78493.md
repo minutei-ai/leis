@@ -1,5 +1,3 @@
-###DEC-078493-0-000-29-09-1976@@@
-
 DECRETO Nº 78.493, DE 29 DE SETEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de desapropriação, terreno necessário à implantação da subestação Bela Vista da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

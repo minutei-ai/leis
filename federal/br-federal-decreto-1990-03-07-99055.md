@@ -1,7 +1,3 @@
-1
-
-###DEC-099055-0-000-07-03-1990@@@
-
 DECRETO N° 99.055, DE 07 DE MARÇO DE 1990.
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “FAZENDA ENGENHO CENTRAL/CLARICE”, situado no Município de Santa Luzia, Estado do Maranhão, e dá outras providências.

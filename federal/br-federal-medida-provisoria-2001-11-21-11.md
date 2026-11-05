@@ -1,8 +1,12 @@
-###MPV-000011-0-000-21-11-2001@@@
-
 MEDIDA PROVISÓRIA Nº 111, DE 21 DE NOVEMBRO DE 2001.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:178.65pt; vertical-align:top"><p style="text-align:justify; line-height:12pt"></p></td><td style="width:209.7pt; vertical-align:top"><p class="Ementa" style="margin-left:0pt; text-indent:26.9pt"><span>Cria o Fundo Seguro-Safra e institui o benefício Seguro-Safra para os agricultores familiares da Região Nordeste e do norte do Estado de Minas Gerais, nos Municípios sujeitos a estado de calamidade ou situação de emergência em razão do fenômeno da estiagem.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr style="height:15.75pt"><td style="width:178.65pt; vertical-align:top">
+
+</td><td style="width:209.7pt; vertical-align:top">
+
+Cria o Fundo Seguro-Safra e institui o benefício Seguro-Safra para os agricultores familiares da Região Nordeste e do norte do Estado de Minas Gerais, nos Municípios sujeitos a estado de calamidade ou situação de emergência em razão do fenômeno da estiagem.
+
+</td></tr></tbody></table>
 
 O PRESIDENTE DA REPÚBLICA no uso da atribuição que lhe confere o art. 62 da Constituição, adota a seguinte Medida Provisória, com força de lei:
 

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/0daa2c81-6d23-476d-af75-af05fb34c055/texto#nowhere)
 
-###DEL-001764-0-000-17-01-1980@@@
-
 # DECRETO-LEI Nº 1.764, DE 17 DE JANEIRO DE 1980
 
 Reajusta os vencimentos e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal.

@@ -1,5 +1,3 @@
-###DEC-058244-0-000-20-04-1966@@@
-
 DECRETO Nº 58.244, DE 20 de ABRIL DE 1966.
 
 Modifica disposições do Decreto número 57.744 de 3 de fevereiro de 1966, que regulamentou o regime de tempo integral.

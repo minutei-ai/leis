@@ -1,5 +1,3 @@
-###DEC-056017-0-000-23-04-1965@@@
-
 DECRETO Nº 56.017, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Teófilo Corneiro Baião a pesquisar caulim, no município de Ubá, Estado de Minas Gerais.

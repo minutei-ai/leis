@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/343d3dae-29fd-47eb-8fcd-6f035d29faf1/texto#nowhere)
 
-###DEL-000742-0-000-06-08-1969@@@
-
 DECRETO-LEI Nº 742, DE 6 de AGÔSTO DE 1969
 
 Dá a denominação de Diretor a Geral de Pesquisas e Provas à atual Diretoria de Estudos e Pesquisas Tecnológicas, cria a Diretoria de Pesquisas e Desenvolvimentos e dá outras providências.

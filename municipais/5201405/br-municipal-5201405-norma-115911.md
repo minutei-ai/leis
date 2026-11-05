@@ -20,19 +20,54 @@ Aparecida de Goiânia, 25 de junho de 2026.
 
  
 
-LEANDRO VILELA<br>
+LEANDRO VILELA
+
 Prefeito de Aparecida de Goiânia
 
 ANEXO
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 06</td><td style="text-align:center">393,00</td></tr><tr><td style="text-align:center">LOTE 07</td><td style="text-align:center">393,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 06
+
+393,00
+
+LOTE 07
+
+393,00
 
 SITUAÇÃO INTERMEDIÁRIA REMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTES 06/07</td><td style="text-align:center">786,00</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTES 06/07
+
+786,00
 
 SITUAÇÃO PROPOSTA DESMEMBRAMENTO
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center">LOTE 06 A</td><td style="text-align:center">196,50</td></tr><tr><td style="text-align:center">LOTE 06 B</td><td style="text-align:center">196,50</td></tr><tr><td style="text-align:center">LOTE 07 A</td><td style="text-align:center">196,50</td></tr><tr><td style="text-align:center">LOTE 07 B</td><td style="text-align:center">196,50</td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+LOTE 06 A
+
+196,50
+
+LOTE 06 B
+
+196,50
+
+LOTE 07 A
+
+196,50
+
+LOTE 07 B
+
+196,50

@@ -1,5 +1,3 @@
-###DEC-083925-0-000-31-08-1979@@@
-
 decreto nº 83.925, de 31 de agosto de 1979.
 
 Promulga as Emendas aos Artigos 34 e 55 da Constituição da Organização Mundial de Saúde.

@@ -1,5 +1,3 @@
-###DEC-007095-0-000-04-02-2010@@@
-
 DECRETO Nº 7.095, DE 4 DE FEVEREIRO DE 2010.
 
 Altera o Decreto no 5.060, de 30 de abril de 2004.

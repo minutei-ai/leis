@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210065)<br>
-
 # LEI N° 18.053, DE 30 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 929/2023, do Deputado Marcos Damasio - PL)

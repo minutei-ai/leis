@@ -1,5 +1,3 @@
-###LCP-000046-0-000-21-08-1984@@@
-
 # LEI COMPLEMENTAR Nº 46, de 21 de agosto de 1984.
 
 Fixa normas sobre repetição de topônimos de cidades e vilas, incorporadas ao texto da Lei Complementar nº 1, de 9 de novembro de 1967.

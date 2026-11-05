@@ -1,5 +1,3 @@
-###DEC-047544-0-000-30-12-1959@@@
-
 DECRETO Nº 47.544, DE 30 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Patrício Rodrigues Galdeano a pesquisar cassiterita e columbita no município de Araçuaí, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-055934-0-000-19-04-1965@@@
-
 DECRETO Nº 55.934, DE 19 DE ABRIL DE 1965.
 
 Autoriza a Rio Light S.A. - Serviços de Eletricidade a ampliar o seu sistema de subtransmissão de energia elétrica no Estado da Guanabara.

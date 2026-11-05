@@ -1,5 +1,3 @@
-###DEL-008193-0-000-20-11-1945@@@
-
 DECRETO-LEI N. 8.193 – DE 20 DE NOVEMRRO DE 1945
 
 Dispõe sôbre promoção no corrente ano letivo.

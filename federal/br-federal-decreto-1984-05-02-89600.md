@@ -1,5 +1,3 @@
-###DEC-089600-0-000-02-05-1984@@@
-
 DECRETO nº 89.600, DE 02 DE MAIO DE 1984
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói, Cabo Frio, Mangaratiba e Angra dos Reis, Estado do Rio de Janeiro; Fortaleza, Estado do Ceará; Belém, Estado do Pará; Salvador, Estado da Bahia e Guarujá, Estado de São Paulo.

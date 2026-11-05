@@ -1,5 +1,3 @@
-###DEC-091531-0-000-15-08-1985@@@
-
 Decreto nº 91.531, de 15 de agosto de 1985.
 
 Cria a Grupo de Trabalho para Reformulação do Sistema Financeiro da Habitação, e dá outras providências.

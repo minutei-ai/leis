@@ -1,5 +1,3 @@
-###DEC-053207-0-000-12-12-1963@@@
-
 DECRETO Nº 53.207, DE 12 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Alfeno Teixeira Branco a pesquisar minério de ferro e de manganês no município de Caiapônia, Estado de Goiás.

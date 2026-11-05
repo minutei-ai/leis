@@ -1,5 +1,3 @@
-###DEC-075199-0-000-08-01-1975@@@
-
 DECRETO Nº 75.199, DE 8 DE JANEIRO DE 1975.
 
 Retifica a concessão de lavra outorgada à Companhia Thermas do Rio Quente pelo Decreto nº 69.142, de 30 de agosto de 1971.

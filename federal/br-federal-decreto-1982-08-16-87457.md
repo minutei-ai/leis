@@ -1,5 +1,3 @@
-###DEC-087457-0-000-16-08-1982@@@
-
 Decreto nº 87.457, de 16 de agosto de 1982.
 
 Institui o Programa Nacional de Política Fundiária, dispõe sobre as atribuições do Ministro de Estado Extraordinário para Assuntos Fundiários e dá outras providências.

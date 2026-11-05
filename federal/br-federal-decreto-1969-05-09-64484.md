@@ -1,5 +1,3 @@
-###DEC-064484-0-000-09-05-1969@@@
-
 decreto nº 64.484, de 9 de maio de 1969.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Estado de Pernambuco.

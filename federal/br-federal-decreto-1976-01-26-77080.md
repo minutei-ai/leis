@@ -1,5 +1,3 @@
-###DEC-077080-0-000-26-01-1976@@@
-
 Decreto nº 77.080, de 26 de janeiro de 1976.
 
 Autoriza o funcionamento do curso de Engenharia Civil da faculdade de Engenharia Santa Cecília, com sede na cidade de Santos, Estado de São Paulo.

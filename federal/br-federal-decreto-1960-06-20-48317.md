@@ -1,5 +1,3 @@
-###DEC-048317-0-000-20-06-1960@@@
-
 DECRETO Nº 48.317, DE 20 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro Antônio Pacífico Homem Júnior a lavrar minério de ferro, no município de Ouro Prêto, Estado de Minas Gerais.

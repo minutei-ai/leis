@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208967)<br>
-
 # DECRETO N° 68.218, DE 15 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a criação de unidade escolar na Secretaria da Educação e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-064364-0-000-17-04-1969@@@
-
 DECRETO Nº 64.364, DE 17 DE ABRIL DE 1969.
 
 Autoriza o funcionamento da Faculdade de Direito de Itapetininga - SP.

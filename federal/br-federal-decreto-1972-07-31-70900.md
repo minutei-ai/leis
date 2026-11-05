@@ -1,5 +1,3 @@
-###DEC-070900-0-000-31-07-1972@@@
-
 DECRETO Nº 70.900, DE 31 DE JULHO DE 1972.
 
 Concede à Walle - Engenharia, Mineração, Indústria e Comércio Sociedade Anônima o direito de lavrar fosforita, no Município de Cedro do Abaeté, Estado de Minas Gerais.

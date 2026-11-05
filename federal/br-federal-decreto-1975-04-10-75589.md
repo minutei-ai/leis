@@ -1,5 +1,3 @@
-###DEC-075589-0-000-10-04-1975@@@
-
 decreto nº 75.589, de 10 de abril de 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Pedagogia e Letras "Professor Lourenço Filho", mantida pelo Instituto Superior de Ensino Celso Lisboa, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

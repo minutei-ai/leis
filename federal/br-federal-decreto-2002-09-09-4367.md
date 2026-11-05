@@ -1,5 +1,3 @@
-###DEC-004367-0-000-09-09-2002@@@
-
 DECRETO Nº 4.367, DE 9 DE SETEMBRO DE 2002
 
 Regulamenta a Lei Complementar nº 112, de 19 de setembro de 2001, que autoriza o Poder Executivo a criar a Região Integrada de Desenvolvimento da Grande Teresina e instituir o Programa Especial de Desenvolvimento da Grande Teresina, e dá outras providências.

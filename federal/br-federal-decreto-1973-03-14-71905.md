@@ -1,5 +1,3 @@
-###DEC-071905-0-000-14-03-1973@@@
-
 DECRETO Nº 71.905, DE 14 DE MARÇO DE 1973.
 
 Concede a Companhia Paulista de Mineração o direito de lavrar argila no Município de Uberaba, Estado de Minas Gerais.

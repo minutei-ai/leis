@@ -1,5 +1,3 @@
-###DEC-005936-0-000-19-10-2006@@@
-
 DECRETO Nº 5.936, DE 19 DE OUTUBRO DE 2006.
 
 Dispõe sobre a execução no Território Nacional da Resolução no 1.698, de 31 de julho de 2006, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República Democrática do Congo.
@@ -20,11 +18,7 @@ Brasília, 19 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 20.10.2006
-
-Resolução 1698 (2006)
+Celso Luiz Nunes AmorimResolução 1698 (2006)
 
 "O Conselho de Segurança,
 

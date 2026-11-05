@@ -1,5 +1,3 @@
-###DEC-092242-0-000-30-12-1985@@@
-
 Decreto nº 92.242, de 30 de dezembro de 1985
 
 Renova a concessão outorgada à RÁDIO EDUCADORA DE PARNAÍBA S/A, para explorar serviço de radiodifusão sonora em onda média, na cidade de Parnaíba, Estado do Piauí.

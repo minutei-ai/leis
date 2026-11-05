@@ -1,5 +1,3 @@
-###DEL-008906-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.906 – DE 24 DE JANEIRO DE 1946
 
 Revigora o art. 2º da Lei nº 583, de 9 de novembro de 1937.

@@ -1,5 +1,3 @@
-###DEC-060998-0-000-13-07-1967@@@
-
 Decreto nº 60.998, de 13 de julho de 1967.
 
 Aprova retificações de dispositivos do Regulamento Geral da Previdência Social.

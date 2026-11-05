@@ -1,5 +1,3 @@
-###DEC-086385-0-000-17-09-1981@@@
-
 DECRETO Nº 86.385, de 17 de Setembro de 1981
 
 Autoriza a alienação, pelo Banco Nacional do Desenvolvimento Econômico - BNDE, do controle acionário da Material Ferroviário S.A. - MAFERSA.

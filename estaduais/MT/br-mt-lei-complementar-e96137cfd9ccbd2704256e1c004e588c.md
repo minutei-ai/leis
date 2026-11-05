@@ -1,31 +1,31 @@
-**LEI COMPLEMENTAR N° 153 DE 09 DE JANEIRO DE 2004**<br>
-<br>
-. Autor: Poder Executivo<br>
-. Publicada no DOE de 09/01/2004, p. 04.<br>
-. Alterou a LC [49/98](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5fc1d9aa762b88eb042567c1006acee8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2049).<br>
-. Alterada pela LC [209/05](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE).<br>
-**.** **REVOGADA** pela LC [300/08](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37f82cbdd0278886042573cd006670ae?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20300%2C%20DE%2010).
+**LEI COMPLEMENTAR N° 153 DE 09 DE JANEIRO DE 2004**
+
+. Autor: Poder Executivo
+
+. Publicada no DOE de 09/01/2004, p. 04.
+
+. Alterou a LC [49/98](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5fc1d9aa762b88eb042567c1006acee8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2049).
+
+. Alterada pela LC [209/05](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE).
+
+**.REVOGADA** pela LC [300/08](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/37f82cbdd0278886042573cd006670ae?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%B0%20300%2C%20DE%2010).
 
 **Cria o Centro Estadual de Educação Profissional e Tecnológica de Mato Grosso - CEPROTEC/MT e dá outras providências.**
 
-<br>
-
 **A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE MATO GROSSO**, tendo em vista o que dispõe o art. 45 da Constituição Estadual, aprova e o Governador do Estado sanciona a seguinte lei complementar:
 
-<br>
-**CAPÍTULO I**<br>
+**CAPÍTULO I**
+
 **DA CRIAÇÃO**
 
-<br>
 **Art. 1º** Fica criado o Centro Estadual de Educação Profissional e Tecnológica de Mato Grosso - CEPROTEC/MT como entidade autárquica dotada de autonomia administrativa, patrimonial, financeira, didática e disciplinar, regido por Estatuto e Regimento próprios, vinculado à Secretaria de Estado de Ciência e Tecnologia - SECITEC.
 
 Parágrafo único. O CEPROTEC/MT e suas unidades de ensino descentralizadas terão vinculação às políticas do governo estadual através da Secretaria de Estado de Ciência e Tecnologia - SECITEC.
 
-<br>
-**CAPÍTULO II**<br>
+**CAPÍTULO II**
+
 **DA NATUREZA E DAS FINALIDADES**
 
-<br>
 **Art. 2º** O Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT tem por finalidade a implementação das políticas do Estado para a educação profissional e tecnológica, devendo para isso:
 
 I - ofertar educação profissional e superior de tecnologia, levando em conta o avanço do conhecimento tecnológico e a incorporação crescente de novos métodos e processos de produção e distribuição de bens e serviços;
@@ -50,11 +50,10 @@ X - manter uma estrutura organizacional flexível, racional e adequada às suas 
 
 XI - integrar as ações educacionais com as expectativas da sociedade e as tendências do setor produtivo.
 
-<br>
-**CAPÍTULO III**<br>
+**CAPÍTULO III**
+
 **DAS COMPETÊNCIAS E OBJETIVOS**
 
-<br>
 **Art. 3º** Constituem competências e objetivos do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT:
 
 I - ministrar cursos básicos de qualificação, atualização e de desenvolvimento profissional de jovens, adultos e trabalhadores;
@@ -83,14 +82,14 @@ VIII - promover a integração com a comunidade, contribuindo para o seu desenvo
 
 § 4º A proposição da oferta de cursos da educação profissional e tecnológica deve necessariamente, na sua concepção, estar inserida no projeto de desenvolvimento regional, precedida de uma ampla discussão com a sociedade e ter sido aprovada pelo Conselho Diretor da unidade de ensino descentralizada.
 
-<br>
-**CAPÍTULO IV**<br>
+**CAPÍTULO IV**
+
 **DA ESTRUTURA ORGANIZACIONAL BÁSICA DA UNIDADE CENTRAL DO CEPROTEC**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Estrutura Básica**
 
-<br>
 **Art. 5º** O Centro Estadual de Educação Profissional e Tecnológica -CEPROTEC/MT terá a seguinte estrutura:
 
 I - Órgão de Decisão Colegiada:
@@ -147,11 +146,10 @@ VI - Órgãos de Execução Programática:
 
 **Art. 6º** A administração do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT, na sua unidade central, terá como órgão executivo a Presidência e como órgão deliberativo e consultivo o Conselho Superior.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Conselho Superior**
 
-<br>
 **Art. 7º** O Conselho Superior é integrado por 12 (doze) membros e respectivos suplentes, todos nomeados pelo Governador do Estado, sendo:
 
 I - o Presidente do CEPROTEC/MT;
@@ -210,11 +208,10 @@ X - indicar servidores públicos para execução dos trabalhos de auditoria inte
 
 **Art. 10** A falta às reuniões do Conselho Superior por três vezes, em um mesmo ano, sem justificativa, implicará a perda de mandato do Conselheiro.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Diretoria**
 
-<br>
 **Art. 11** O Presidente e os Diretores serão nomeados por ato do Chefe do Poder Executivo Estadual.
 
 **Art. 12** São atribuições e deveres do Presidente, além das que o Conselho Superior lhe atribuir:
@@ -233,33 +230,32 @@ V - executar as políticas de educação profissional e tecnológica estabelecid
 
 **Art. 14** Em caso de vacância do cargo de Presidente, assumirá o Vice-Presidente, até que seja nomeado o novo titular.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Dos Órgãos de Controle**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Da Auditoria Interna**
 
-<br>
 **Art. 15** Compete à Auditoria Interna do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT fortalecer a gestão e racionalizar as ações de controle, bem como prestar apoio aos órgãos do Sistema de Controle Interno do Poder Executivo Estadual e ao Tribunal de Contas do Estado, respeitada a legislação vigente.
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Da Assessoria Jurídica**
 
-<br>
 **Art. 16** Compete à Assessoria Jurídica do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT zelar pelo cumprimento da legislação em vigor, emitir pareceres jurídicos em todos os processos que o requeiram, prestar consultoria, assessoramento jurídico e representar judicialmente e extrajudicialmente a instituição.
 
 Parágrafo único. Compete ao Assessor Jurídico do CEPROTEC/MT, unidade central, coordenar e orientar a ação dos assessores jurídicos das unidades de ensino descentralizadas da instituição.
 
-<br>
-**CAPÍTULO V**<br>
+**CAPÍTULO V**
+
 **DA ESTRUTURA ORGANIZACIONAL DAS UNIDADES DE ENSINO DESCENTRALIZADAS DO CEPROTEC/MT**
 
-**Seção I**<br>
+**Seção I**
+
 **Da Estrutura Básica**
 
-<br>
 **Art. 17** As unidades de ensino descentralizadas do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT possuem a seguinte estrutura básica:
 
 I - Órgão de Decisão Colegiada:
@@ -298,14 +294,14 @@ V - Órgãos de Execução Programática:
 
 **Art. 18** A administração das unidades de ensino descentralizadas do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT terá como órgão executivo a Diretoria e como deliberativo e consultivo o Conselho Diretor.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Do Conselho Diretor**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Da Composição**
 
-<br>
 **Art. 19** O Conselho Diretor de cada unidade de ensino descentralizada do CEPROTEC/MT será constituído por 18 (dezoito) membros e respectivos suplentes, nomeados pelo Secretário de Estado de Ciência e Tecnologia, com a seguinte composição:
 
 I - 01 (um) Diretor da unidade de ensino descentralizada;
@@ -352,11 +348,10 @@ VIII - 03 (três) representantes do corpo discente da unidade de ensino descentr
 
 **Art. 21** A falta às reuniões do Conselho Diretor por três vezes, em um mesmo ano, sem justificativa, implicará a perda de mandato do Conselheiro.
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Das Competências**
 
-<br>
 **Art. 22** Ao Conselho Diretor compete:
 
 I - homologar a política da unidade de ensino descentralizada do CEPROTEC/MT nos planos administrativo, econômico-financeiro, de ensino, pesquisa e extensão, apresentados pela Diretoria;
@@ -387,11 +382,10 @@ X - deliberar sobre outros assuntos de interesse da unidade de ensino descentral
 
 **Art. 23** A recomendação da substituição do Diretor deverá ser encaminhada pelo Conselho Diretor ao Secretário de Estado de Ciência e Tecnologia no mínimo 30 (trinta) ou no máximo 60 (sessenta) dias antes do término do mandato em curso.
 
-<br>
-**Seção III**<br>
+**Seção III**
+
 **Da Diretoria**
 
-<br>
 **Art. 24** As unidades de ensino descentralizadas do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT serão dirigidas por um Diretor, nomeado pelo Governador do Estado, para um mandato de quatro anos, estabelecido em Contrato de Gestão.
 
 § 1º O provimento do cargo de Diretor de cada unidade de ensino descentralizada do CEPROTEC/MT será mediante processo seletivo simplificado a ser regulamentado em atos normativos específicos.
@@ -430,40 +424,38 @@ V - renúncia;
 
 VI - término do mandato.
 
-<br>
-**Seção IV**<br>
+**Seção IV**
+
 **Dos Órgãos De Controle**
 
-**Subseção I**<br>
+**Subseção I**
+
 **Da Auditoria Interna**
 
-<br>
 **Art. 29** Compete à Auditoria Interna da unidade de ensino descentralizada do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT fortalecer a gestão e racionalizar as ações de controle, bem como prestar apoio aos órgãos do Sistema de Controle Interno do Poder Executivo Estadual e ao Tribunal de Contas do Estado, respeitada a legislação vigente.
 
-<br>
-**Subseção II**<br>
+**Subseção II**
+
 **Da Assessoria Jurídica**
 
-<br>
 **Art. 30** Compete à Assessoria Jurídica da unidade de ensino descentralizada do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT zelar pelo cumprimento da legislação em vigor, emitir pareceres jurídicos em todos os processos que o requeiram, prestar consultoria e assessoramento jurídico.
 
-<br>
-**Seção V**<br>
+**Seção V**
+
 **Da Expansão Da Rede**
 
-<br>
 **Art. 31** A expansão da rede com a criação de novas unidades de ensino descentralizadas do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT nos municípios depende de autorização legislativa.
 
 Parágrafo único. A autorização para a instalação e funcionamento das unidades de ensino descentralizadas, observada a disponibilidade orçamentária e financeira no Fundo Estadual de Educação Profissional, ou advindo do estabelecimento de parcerias, acontecerá por intermédio da aprovação de projeto circunstanciado, cujos critérios serão estabelecidos pela Secretaria de Estado de Ciência e Tecnologia.
 
-<br>
-**CAPÍTULO VI**<br>
+**CAPÍTULO VI**
+
 **DA ORDEM ECONÔMICA E FINANCEIRA**
 
-**Seção I**<br>
+**Seção I**
+
 **Do Patrimônio**
 
-<br>
 **Art. 32** Passa a integrar o patrimônio do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT todo o patrimônio adquirido até a presente data pelos Centros Públicos de Formação Profissional - CENFORs.
 
 **Art. 33** O patrimônio do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT será constituído:
@@ -472,11 +464,10 @@ I - pelas instalações, bens móveis e imóveis que constituem os bens patrimon
 
 II - pelos bens e direitos que forem doados, adquiridos ou legados.
 
-<br>
-**Seção II**<br>
+**Seção II**
+
 **Dos Recursos Financeiros**
 
-<br>
 **Art. 34** Constituem receitas do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT:
 
 I - as dotações que lhe forem atribuídas no orçamento da União, do Estado e dos Municípios;
@@ -495,11 +486,10 @@ VII - as rendas de qualquer espécie constituídas a seu favor, por terceiros.
 
 Parágrafo único. O Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT será mantido pelo Fundo Estadual de Educação Profissional.
 
-<br>
-**CAPÍTULO VII**<br>
+**CAPÍTULO VII**
+
 **DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS**
 
-<br>
 **Art. 35** Os atuais Centros Públicos de Formação Profissional dos Municípios de Alta Floresta, Barra do Garças, Diamantino, Pontes e Lacerda, Rondonópolis, Sinop e Tangará da Serra, criados pela Lei nº 7.819, de 09 de dezembro de 2002, ficam transformados em unidades de ensino descentralizadas do Centro Estadual de Educação Profissional e Tecnológica - CEPROTEC/MT.
 
 **Art. 36** Ficam criadas as unidades de ensino descentralizadas do CEPROTEC/MT nos Municípios de Confresa e Matupá.
@@ -524,9 +514,12 @@ Parágrafo único. A Secretaria de Estado de Ciência e Tecnologia passa a ser, 
 
 **Art. 42** _(revogado)_ **_LC_** [**_209/04_**](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/1380d030b49e1aec04256f8c006d9eaf?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%20209%2C%20DE%2012%20DE)
 
-**Redação original:**<br>
-Art. 42 Fica criada, no âmbito do Conselho Estadual de Educação, a Câmara de Educação Profissional e Tecnológica, concebida nos termos Lei Complementar [nº 49](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5fc1d9aa762b88eb042567c1006acee8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2049), de 1º de outubro de 1998.<br>
-§ 1º As instituições federais, estaduais, municipais e a iniciativa privada atuantes na educação profissional e tecnológica, na forma da lei, poderão compor, como segmentos representativos, a referida Câmara.<br>
+**Redação original:**
+
+Art. 42 Fica criada, no âmbito do Conselho Estadual de Educação, a Câmara de Educação Profissional e Tecnológica, concebida nos termos Lei Complementar [nº 49](https://app1.sefaz.mt.gov.br/sistema/legislacao/LeiComplEstadual.nsf/9733a1d3f5bb1ab384256710004d4754/5fc1d9aa762b88eb042567c1006acee8?OpenDocument#LEI%20COMPLEMENTAR%20N%C2%BA%2049), de 1º de outubro de 1998.
+
+§ 1º As instituições federais, estaduais, municipais e a iniciativa privada atuantes na educação profissional e tecnológica, na forma da lei, poderão compor, como segmentos representativos, a referida Câmara.
+
 § 2º O número de vagas, o processo de escolha e de indicação dos Conselheiros e respectivos suplentes que integrarão a referida Câmara, serão previstos em regulamentação a ser estabelecida pela Secretaria de Estado de Ciência e Tecnologia, ouvidas as sugestões do Conselho Estadual de Educação.
 
 **Art. 43** As despesas decorrentes da execução desta lei complementar correrão por conta da dotação orçamentária do Fundo Estadual de Educação Profissional da Secretaria de Estado de Ciência e Tecnologia.
@@ -539,44 +532,180 @@ Art. 42 Fica criada, no âmbito do Conselho Estadual de Educação, a Câmara de
 
 Palácio Paiaguás, em Cuiabá, 09 de janeiro de 2004, 183º da Independência e 116º da República.
 
-**BLAIRO BORGES MAGGI**<br>
-CÉLIO WILSON DE OLIVEIRA<br>
-CARLOS BRITO DE LIMA<br>
-WALTER DE FÁTIMA PEREIRA<br>
-YÊNES JESUS DE MAGALHÃES<br>
-WALDIR JÚLIO TEIS<br>
-SÍRIO PINHEIRO DA SILVA<br>
-HOMERO ALVES PEREIRA<br>
-ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN<br>
-TEREZINHA DE SOUZA MAGGI<br>
-RICARDO LUIZ HENRY<br>
-LUIZ ANTONIO PAGOT<br>
-ANA CARLA MUNIZ<br>
-GERALDO APARECIDO DE VITTO JÚNIOR<br>
-MARCOS HENRIQUE MACHADO<br>
-GERALDO LUIZ GONÇALVES FILHO<br>
-JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO<br>
-FÁBIO CÉSAR GUIMARÃES NETO<br>
-LOUREMBERG RIBEIRO NUNES ROCHA<br>
-CLOVES FELÍCIO VETTORATO<br>
-MOACIR PIRES DE MIRANDA FILHO<br>
-JOSÉ JOAQUIM DE SOUZA FILHO<br>
-BENEDITO PAULO DE CAMPOS<br>
-FLÁVIA MARIA DE BARROS NOGUEIRA<br>
+**BLAIRO BORGES MAGGI**
+
+CÉLIO WILSON DE OLIVEIRA
+
+CARLOS BRITO DE LIMA
+
+WALTER DE FÁTIMA PEREIRA
+
+YÊNES JESUS DE MAGALHÃES
+
+WALDIR JÚLIO TEIS
+
+SÍRIO PINHEIRO DA SILVA
+
+HOMERO ALVES PEREIRA
+
+ALEXANDRE HERCULANO COELHO DE SOUZA FURLAN
+
+TEREZINHA DE SOUZA MAGGI
+
+RICARDO LUIZ HENRY
+
+LUIZ ANTONIO PAGOT
+
+ANA CARLA MUNIZ
+
+GERALDO APARECIDO DE VITTO JÚNIOR
+
+MARCOS HENRIQUE MACHADO
+
+GERALDO LUIZ GONÇALVES FILHO
+
+JOÃO VIRGÍLIO DO NASCIMENTO SOBRINHO
+
+FÁBIO CÉSAR GUIMARÃES NETO
+
+LOUREMBERG RIBEIRO NUNES ROCHA
+
+CLOVES FELÍCIO VETTORATO
+
+MOACIR PIRES DE MIRANDA FILHO
+
+JOSÉ JOAQUIM DE SOUZA FILHO
+
+BENEDITO PAULO DE CAMPOS
+
+FLÁVIA MARIA DE BARROS NOGUEIRA
+
 JOÃO BATISTA DE OLIVEIRA
 
-<br>
+**ANEXO I**
 
-<br>
-**ANEXO I**<br>
 **CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA**
 
-<table border="1"><tbody><tr valign="top"><td width="522"><div align="center"><b><font size="4" face="Arial">CARGOS</font></b></div></td><td width="94"><div align="center"><b><font size="4" face="Arial">SÍMBOLO</font></b></div></td><td width="77"><div align="center"><b><font size="4" face="Arial">QUANT.</font></b></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">01 - Presidente</font></td><td width="94"><div align="center"><font size="4" face="Arial">DGA-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">02 - Diretor de Administração e Planejamento</font></td><td width="94"><div align="center"><font size="4" face="Arial">DGA-3</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">03 - Diretor de Educação Profissional e Tecnológica</font></td><td width="94"><div align="center"><font size="4" face="Arial">DGA-3</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">04 - Coordenador-Geral de Recursos Humanos</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">05 - Coordenador-Geral de Execução Orçamentária e Financeira</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">06 - Coordenador-Geral de Educação Profissional e Tecnológica</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">07 - Coordenador-Geral de Expansão da Rede</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">08 - Coordenador-Geral de Avaliação Institucional</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">09 - Coordenador-Geral de Sistemas de Informação</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">10 - Professor Convidado</font></td><td width="94"><div align="center"><font size="4" face="Arial">DGA-7</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">100</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">11 - Assessor Jurídico</font></td><td width="94"><div align="center"><font size="4" face="Arial">DNS-1</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">1</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">12 - Assessor Técnico</font></td><td width="94"><div align="center"><font size="4" face="Arial">DAS-4</font></div></td><td width="77"><div align="center"><font size="4" face="Arial">5</font></div></td></tr></tbody></table>
+**CARGOS**
 
-**ANEXO II**<br>
+**SÍMBOLO**
+
+**QUANT.**
+
+01 - Presidente
+
+DGA-2
+
+1
+
+02 - Diretor de Administração e Planejamento
+
+DGA-3
+
+1
+
+03 - Diretor de Educação Profissional e Tecnológica
+
+DGA-3
+
+1
+
+04 - Coordenador-Geral de Recursos Humanos
+
+DNS-2
+
+1
+
+05 - Coordenador-Geral de Execução Orçamentária e Financeira
+
+DNS-2
+
+1
+
+06 - Coordenador-Geral de Educação Profissional e Tecnológica
+
+DNS-2
+
+1
+
+07 - Coordenador-Geral de Expansão da Rede
+
+DNS-2
+
+1
+
+08 - Coordenador-Geral de Avaliação Institucional
+
+DNS-2
+
+1
+
+09 - Coordenador-Geral de Sistemas de Informação
+
+DNS-2
+
+1
+
+10 - Professor Convidado
+
+DGA-7
+
+100
+
+11 - Assessor Jurídico
+
+DNS-1
+
+1
+
+12 - Assessor Técnico
+
+DAS-4
+
+5
+
+**ANEXO II**
+
 **UNIDADES DE ENSINO DESCENTRALIZADAS DO CENTRO ESTADUAL DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA**
 
-<table border="1"><tbody><tr valign="top"><td width="522"><div align="center"><b><font size="4" face="Arial">CARGOS</font></b></div></td><td width="90"><div align="center"><b><font size="4" face="Arial">SÍMBOLO</font></b></div></td><td width="78"><div align="center"><b><font size="4" face="Arial">QUANT.</font></b></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">01 - Diretor</font></td><td width="90"><div align="center"><font size="4" face="Arial">DGA-3</font></div></td><td width="78"><div align="center"><font size="4" face="Arial">8</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">02 - Coordenador-Geral de Administração e Planejamento</font></td><td width="90"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="78"><div align="center"><font size="4" face="Arial">8</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">03 - Coordenador-Geral de Desenvolvimento Educacional</font></td><td width="90"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="78"><div align="center"><font size="4" face="Arial">8</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">04 - Cordenador-Geral de Integração Escola e Comunidade</font></td><td width="90"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="78"><div align="center"><font size="4" face="Arial">8</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">05 - Assessor Jurídico</font></td><td width="90"><div align="center"><font size="4" face="Arial">DNS-2</font></div></td><td width="78"><div align="center"><font size="4" face="Arial">8</font></div></td></tr><tr valign="top"><td width="522"><font size="4" face="Arial">06 - Assessor Técnico</font></td><td width="90"><div align="center"><font size="4" face="Arial">DAS-4</font></div></td><td width="78"><div align="center"><font size="4" face="Arial">16</font></div></td></tr></tbody></table>
+**CARGOS**
 
-<br>
-<br>
+**SÍMBOLO**
+
+**QUANT.**
+
+01 - Diretor
+
+DGA-3
+
+8
+
+02 - Coordenador-Geral de Administração e Planejamento
+
+DNS-2
+
+8
+
+03 - Coordenador-Geral de Desenvolvimento Educacional
+
+DNS-2
+
+8
+
+04 - Cordenador-Geral de Integração Escola e Comunidade
+
+DNS-2
+
+8
+
+05 - Assessor Jurídico
+
+DNS-2
+
+8
+
+06 - Assessor Técnico
+
+DAS-4
+
+16

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208936)<br>
-
 # DECRETO N° 68.170, DE 09 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Eixo SP Concessionária de Rodovias S/A, a área necessária à implantação do Serviço de Atendimento ao Usuário - SAU28, no km 436+280m da Rodovia SP-294, no Município de Vera Cruz, e dá providências correlatas_

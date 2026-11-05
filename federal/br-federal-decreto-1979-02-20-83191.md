@@ -1,5 +1,3 @@
-###DEC-083191-0-000-20-02-1979@@@
-
 DECRETO Nº 83.191, DE 20 DE FEVEREIRO DE 1979
 
 Autoriza o Ministro da Fazenda a conceder garantia a operação de crédito externo.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098627-0-000-20-12-1989@@@
-
 DECRETO N° 98.627, DE 20 DE DEZEMBRO DE 1989
 
 Outorga concessão à NOVA COMUNICAÇÃO e RADIODIFUSÃO LTDA., para explorar Serviço Especial de Televisão por Assinatura - TVA, na Cidade do Rio de Janeiro, Estado do Rio de Janeiro.

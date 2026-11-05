@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208917)<br>
-
 # DECRETO N° 68.185, DE 11 DE DEZEMBRO DE 2023
 
 ### _Dispõe sobre a elaboração do Termo de Referência – TR para a aquisição de bens e a contratação de serviços, nos termos da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo_
@@ -8,10 +6,12 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 Das Disposições Preliminares
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Do objeto e Âmbito de Aplicação
 
 **Artigo 1° -** Este decreto dispõe sobre a elaboração do Termo de Referência - TR para a aquisição de bens e a contratação de serviços, nos termos da Lei federal n° 14.133, de 1° de abril de 2021, no âmbito da Administração Pública direta e autárquica do Estado de São Paulo.
@@ -20,7 +20,8 @@ Do objeto e Âmbito de Aplicação
 
 **§2° -** Sem prejuízo do disposto no §1° deste artigo, para acesso e operacionalização do sistema, deverão ser observados os procedimentos estabelecidos no Manual do Sistema TR Digital, disponível no Portal de Compras do Estado.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Definições
 
 **Artigo 2° -** Para fins deste decreto, considera-se:
@@ -39,10 +40,12 @@ V - equipe de planejamento da contratação: conjunto de agentes públicos que r
 
 **§ 2° -** A definição dos requisitantes, das áreas técnicas e da equipe de planejamento da contratação não ensejará, obrigatoriamente, a criação de novas estruturas nas unidades organizacionais dos órgãos e das entidades.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 Das Disposições Gerais
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Elaboração
 
 **Artigo 3° -** O TR, a partir do Estudo Técnico Preliminar - ETP, se elaborado, definirá o objeto para atendimento da necessidade, e será enviado para o setor de contratações no prazo definido no calendário de contratação de que trata o inciso III do artigo 10 do [Decreto n° 67.689, de 3 de maio de 2023](https://www.al.sp.gov.br/norma/208053).
@@ -55,7 +58,8 @@ Da Elaboração
 
 **Artigo 5° -** O TR será elaborado conjuntamente por agentes públicos da área técnica e requisitante ou, quando houver, pela equipe de planejamento da contratação.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do Conteúdo
 
 **Artigo 6° -** Deverão ser registrados no Sistema TR Digital os seguintes parâmetros e elementos descritivos:
@@ -108,7 +112,8 @@ X - adequação orçamentária, dispensando-se a respectiva reserva quando se tr
 
 **Artigo 7° -** Ao final da elaboração do TR, deve-se avaliar a necessidade de classificá-lo nos termos da Lei federal n° 12.527, de 18 de novembro de 2011.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Exceções à elaboração do TR
 
 **Artigo 8° -** A elaboração do TR será dispensada:
@@ -119,7 +124,8 @@ II - nas adesões a atas de registro de preços;
 
 III - nos casos de prorrogações dos contratos de serviços e fornecimentos contínuos.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 Das Disposições Finais
 
 **Artigo 9° -** O TR deverá ser divulgado na mesma data de divulgação do edital ou do aviso de contratação direta no Portal Nacional de Contratações Públicas - PNCP, como anexo, sem necessidade de registro ou de identificação para acesso.

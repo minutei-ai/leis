@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/6ea7f663-1428-41bf-92ee-b1bc548f9d07/texto#nowhere)
 
-###DEL-001211-0-000-01-03-1972@@@
-
 # DECRETO-LEI Nº 1.211, DE 1 DE MARÇO DE 1972
 
 Concede isenção dos impostos de importação e sobre produtos industrializados para equipamentos de produção cinematográfica.

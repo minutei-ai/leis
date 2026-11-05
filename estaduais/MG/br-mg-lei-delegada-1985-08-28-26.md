@@ -25,7 +25,3 @@ Carlos Alberto Cotta
 Walfrido Silvino dos Mares Guia Neto
 
 Luiz Otávio Mota Valadares
-
-\=============================
-
-Data da última atualização: 21/03/2005.

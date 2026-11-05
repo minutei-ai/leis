@@ -1,5 +1,3 @@
-###DEC-092173-0-000-18-12-1985@@@
-
 Decreto nº 92.173, de 18 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Caldeirão", compreendido na referida área, no Município de Pedra, no Estado de Pernambuco, e dá outras providências.

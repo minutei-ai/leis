@@ -1,7 +1,3 @@
-1
-
-###DEC-095659-0-000-22-01-1988@@@
-
 DECRETO N° 95.659, DE 22 DE JANEIRO DE 1988
 
 Altera dispositivos dos Decretos n°s 93.944 e 93.945, de 16 de janeiro de 1987.

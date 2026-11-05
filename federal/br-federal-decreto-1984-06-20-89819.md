@@ -1,5 +1,3 @@
-###DEC-089819-0-000-20-06-1984@@@
-
 Decreto nº 89.819, de 20 de junho de 1984
 
 Outorga concessão à RÁDIO VALE DO RIO MADEIRA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Humaitá, Estado de Amazonas.

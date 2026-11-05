@@ -1,5 +1,3 @@
-###DEC-070271-0-000-09-03-1972@@@
-
 DECRETO Nº 70.271, DE 9 DE MARÇO DE1972.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à ampliação de estação telefônica e instalação de unidade comercial e escritório em Niterói, Estado do Rio de Janeiro.

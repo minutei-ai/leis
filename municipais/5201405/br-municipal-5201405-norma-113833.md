@@ -1,4 +1,5 @@
-DECRETO “N” Nº 681 DE 14 DE SETEMBRO DE 2022.<br>
+DECRETO “N” Nº 681 DE 14 DE SETEMBRO DE 2022.
+
 (Revogado pelo Decreto "N" nº 456, de 12 de julho de 2023).
 
 ~~DISPÕE SOBRE A NOMEAÇÃO DOS MEMBROS INTEGRANTES DA JUNTA ADMINISTRATIVA DE RECURSOS DE INFRAÇÕES – JARI E DÁ OUTRAS PROVIDÊNCIAS.~~
@@ -47,11 +48,14 @@ DECRETO “N” Nº 681 DE 14 DE SETEMBRO DE 2022.<br>
 
 ~~Município de Aparecida de Goiânia, Estado de Goiânia, Estado de Goiás, aos 14 dias do mês de setembro de 2022.~~
 
-~~Vilmar Mariano<br>
+~~Vilmar Mariano
+
 Prefeito Municipal~~
 
-~~Fábio Passaglia<br>
+~~Fábio Passaglia
+
 Secretário de Governo~~
 
-~~Sérgio Cândido De Carvalho<br>
+~~Sérgio Cândido De Carvalho
+
 Secretário Executivo de Mobilidade~~

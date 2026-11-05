@@ -1,5 +1,3 @@
-###DEC-050008-0-000-24-01-1961@@@
-
 Decreto nº 50.008, de 24 de janeiro de 1961.
 
 Autoriza o cidadão brasileiro Lourenço Trevisan a lavrar água potável de mesa no município de Analândia, Estado de São Paulo.

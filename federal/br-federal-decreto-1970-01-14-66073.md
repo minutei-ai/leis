@@ -1,5 +1,3 @@
-###DEC-066073-0-000-14-01-1970@@@
-
 DECRETO Nº 66.073 -de 14 DE JANEIRO DE 1970
 
 Concede autorização à Sociedade Seguradora Estrangeira para aumentar o capital de sua operações no Brasil.

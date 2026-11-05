@@ -1,5 +1,3 @@
-###DEC-066573-0-000-14-05-1970@@@
-
 DECRETO Nº 66.573, DE 14 DE MAIO DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Bagé - RS, designado ao Ministério do Exército.

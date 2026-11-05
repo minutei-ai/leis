@@ -1,5 +1,3 @@
-###DEL-003207-0-000-23-04-1941@@@
-
 DECRETO-LEI N. 3.207 – DE 23 DE ABRIL DE 1941
 
 Incorpora o Serviço de Arquitetura da Comissão do Plano da Universidade do Brasil ao de Engenharia da mesma Comissão e dá outras providências

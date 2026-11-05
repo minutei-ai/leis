@@ -1,5 +1,3 @@
-###DEC-058975-0-000-03-08-1966@@@
-
 DECRETO Nº 58.975, DE 3 DE AGÔSTO DE 1966.
 
 Fixa os preços mínimos básicos relativos à safra do ano de 1967, para o algodão das Regiões Central e Meridional.

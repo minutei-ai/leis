@@ -1,7 +1,3 @@
-1
-
-###DEC-001744-0-000-08-12-1995@@@
-
 # DECRETO N° 1.744, DE 8 DE DEZEMBRO DE 1995.
 
 Regulamenta o benefício de prestação continuada devido à pessoa portadora de deficiência e ao idoso, de que trata a Lei n° 8.742, de 7 de dezembro de 1993, e dá outras providências.

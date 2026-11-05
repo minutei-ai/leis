@@ -1,5 +1,3 @@
-###DEC-052821-0-000-13-11-1963@@@
-
 DECRETO Nº 52.821, DE 13 DE NOVEMBRO DE 1963.
 
 Declara de utilidade pública uma faixa de terra destinada à passagem da linha de transmissão São José dos Campos-Caraguatatuba, no Estado de São Paulo.

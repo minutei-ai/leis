@@ -1,5 +1,3 @@
-###DEC-066529-0-000-05-05-1970@@@
-
 DECRETO Nº 66.529, DE 5 DE MAIO DE 1970.
 
 Retifica o Decreto nº 64.077 de 11 de fevereiro de 1969.

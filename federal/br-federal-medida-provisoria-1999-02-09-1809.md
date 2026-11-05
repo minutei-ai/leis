@@ -1,5 +1,3 @@
-###MPV-001809-0-000-09-02-1999@@@
-
 medida provisória nº 1.809, de 9 de fevereiro de 1999.
 
 Autoriza a União a adquirir ou pagar-obrigações de pessoas jurídicas de direito público interno, relativas a operações financeiras externas, e dá outras providências.

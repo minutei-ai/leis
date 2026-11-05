@@ -1,5 +1,3 @@
-###DEL-000098-0-000-23-12-1937@@@
-
 DECRETO-LEI N. 98 – DE 23 DE DEZEMBRO DE 1937
 
 Incorpora à Universidade do Brasil o Instituto Nacional de Puericultura

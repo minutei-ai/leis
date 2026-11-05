@@ -1,6 +1,10 @@
 > **LEI Nº 3.868, DE 17 DE DEZEMBRO DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a concessão excepcional de abono pecuniário aos servidores efetivos e temporários da educação em efetivo exercício na rede pública estadual de ensino, na forma que especifica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a concessão excepcional de abono pecuniário aos servidores efetivos e temporários da educação em efetivo exercício na rede pública estadual de ensino, na forma que especifica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

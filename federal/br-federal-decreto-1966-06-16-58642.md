@@ -1,5 +1,3 @@
-###DEC-058642-0-000-16-06-1966@@@
-
 DECRETO Nº 58.642, de 16 de junho de 1966.
 
 Autoriza o cidadão brasileiro Décio Amaral Castro a pesquisar amianto, mica e minério de níquel no município de Niquelândia, Estado de Goiás.

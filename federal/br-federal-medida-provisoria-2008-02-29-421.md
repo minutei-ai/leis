@@ -1,5 +1,3 @@
-###MPV-000421-0-000-29-02-2008@@@
-
 MEDIDA PROVISÓRIA Nº 421, DE 29 DE FEVEREIRO DE 2008.
 
 Dispõe sobre o salário mínimo a partir de 1o de março de 2008.
@@ -25,5 +23,3 @@ Carlos Lupi
 Paulo Bernardo Silva
 
 Luiz Marinho
-
-Este texto não substitui o publicado no DOU de 29.2.2008 - Edição extra

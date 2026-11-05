@@ -1,5 +1,3 @@
-###DEL-002167-0-000-22-10-1984@@@
-
 # Decreto-lei nº 2.167, de 22 de outubro de 1984
 
 Dispõe sobre o recolhimento dos débitos previdenciários das Prefeituras municipais.
@@ -31,8 +29,6 @@ Ernane Galvêas
 Jarbas Passarinho
 
 Delfim Netto
-
-###DEL-002167-0-000-22-10-1984@@@RET01+++
 
 # DECRETO-LEI Nº 2.167, DE 22 DE OUTUBRO DE 1984
 

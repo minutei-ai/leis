@@ -1,5 +1,3 @@
-###DEC-006608-0-000-22-10-2008@@@
-
 DECRETO Nº 6.608, DE 22 DE OUTUBRO DE 2008.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional - SIN, determina à Agencia Nacional de Energia Elétrica - ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões, e dá outras providências.

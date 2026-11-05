@@ -1,5 +1,3 @@
-###DEC-082622-0-000-13-11-1978@@@
-
 Decreto nº 82.622, de 13 de novembro de 1978.
 
 Retifica a concessão de lavra outorgada à Firma Individual Antônio Mendes pelo Decreto nº 67.602, de 18 de novembro de 1970, retificado pelo Decreto nº 72.418, de 27 de junho de 1973.

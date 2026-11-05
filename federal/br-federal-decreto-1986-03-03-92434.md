@@ -1,5 +1,3 @@
-###DEC-092434-0-000-03-03-1986@@@
-
 DECRETO Nº 92.434, DE 03 DE MARÇO DE 1986
 
 Declara de utilidade pública para fins de desapropriação, pelo Departamento Nacional de Obras de Saneamento - DNOS, áreas de terras e benfeitorias necessárias à execução do Programa APROVEITAMENTOS HIDROAGRÍCOLAS DO PROJETO DO MEARIM, na região de Arari, Estado do Maranhão, e dá outras providências.

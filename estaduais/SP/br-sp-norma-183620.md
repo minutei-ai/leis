@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183620)
-
 # DECRETO Nº 62.885, DE 10 DE OUTUBRO DE 2017
 
 ### _Dispõe sobre a oficialização da Ordem do Mérito Constitucionalista MMDC do Tribunal de Contas do Estado de São Paulo e da Medalha Tenente Horácio Ramalho, instituídas pelo Núcleo MMDC-TCESP Tenente Horácio Ramalho_
@@ -20,14 +18,20 @@ Palácio dos Bandeirantes, 10 de outubro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 10 de outubro de 2017.
 
-#### <br>
-REGULAMENTO<br>
+####
+
+REGULAMENTO
+
 a que se refere o artigo 1º do [Decreto nº 62.885, de 10 de outubro de 2017](http://www.al.sp.gov.br/norma?id=183620)
 
 #### SEÇÃO I

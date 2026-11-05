@@ -1,5 +1,3 @@
-###DEC-086747-0-000-16-12-1981@@@
-
 DECRETO Nº 86.747, DE 16 DE DEZEMBRO DE 1981
 
 Revoga Decretos que aprova e alteram o Regulamento do Centro Técnico Aero - espacial.

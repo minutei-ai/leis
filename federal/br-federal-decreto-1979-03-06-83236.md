@@ -1,5 +1,3 @@
-###DEC-083236-0-000-06-03-1979@@@
-
 Decreto nº 83.236, de 06 de março de 1979
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Maricá, da Companhia brasileira de Energia Elétrica - CBEE, no Estado do Rio de Janeiro.

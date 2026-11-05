@@ -1,5 +1,3 @@
-###DEC-094040-0-000-18-02-1987@@@
-
 DECRETO Nº 94.040, DE 18 DE FEVEREIRO DE 1987.
 
 Dispõe sobre a criação da Delegacia do Brasil para o Desarmamento e os Direitos Humanos, e dá outras providências.

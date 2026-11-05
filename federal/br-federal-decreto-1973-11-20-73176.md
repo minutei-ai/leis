@@ -1,5 +1,3 @@
-###DEC-073176-0-000-20-11-1973@@@
-
 DECRETO Nº 73.176 - DE 20 DE NOVEMBRO DE 1973
 
 Acrescenta dois parágrafos ao artigo 160, do Regulamento para o Tráfego Marítimo, aprovado pelo Decreto nº 5.798, de 11 de junho de 1940, alterado pelo de nº 50.114, de 26 de janeiro de 1961, transforma o atual parágrafo único do mesmo artigo em parágrafo 3º, e dá outras providências.

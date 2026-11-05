@@ -1,5 +1,3 @@
-###DEC-084410-0-000-22-01-1980@@@
-
 Decreto nº 84.410, de 22 de janeiro de 1980.
 
 Dispõe sobre a estrutura básica do Departamento Nacional de Obras Contra as Secas - DNOCS.

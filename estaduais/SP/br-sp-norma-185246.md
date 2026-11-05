@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185246)
-
 # DECRETO Nº 63.216, DE 16 DE FEVEREIRO DE 2018
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário, gratuito e por o prazo indeterminado, da Companhia do Metropolitano de São Paulo - METRÔ, o imóvel que especifica_
@@ -20,21 +18,22 @@ Palácio dos Bandeirantes, 16 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
-Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.
+Mágino Alves Barbosa Filho
 
-<br>
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
+Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.
 
 #### Retificação do D.O. de 17-2-2018
 
-<br>
-No artigo 1º, leia-se como segue e não como constou:<br>
-**Artigo 1º -** Fica a Fazenda do Estado autorizada a receber da Companhia do Metropolitano de São Paulo - METRÔ, mediante permissão de uso, a título precário, gratuito e por prazo determinado, ...
+No artigo 1º, leia-se como segue e não como constou:
 
-<br>
-<br>
+**Artigo 1º -** Fica a Fazenda do Estado autorizada a receber da Companhia do Metropolitano de São Paulo - METRÔ, mediante permissão de uso, a título precário, gratuito e por prazo determinado, ...

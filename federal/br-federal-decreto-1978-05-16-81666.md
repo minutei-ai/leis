@@ -1,5 +1,3 @@
-###DEC-081666-0-000-16-05-1978@@@
-
 Decreto nº 81.666, de 16 de maio de 1978
 
 Concede autorização à empresa REFINAÇÕES DE MILHO BRASIL LTDA, com sede na Capital do Estado de São Paulo, para funcionar aos domingos e feriados civís e religiosos, no estabelecimento fabril que menciona.

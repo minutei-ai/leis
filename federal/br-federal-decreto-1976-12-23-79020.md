@@ -1,5 +1,3 @@
-###DEC-079020-0-000-23-12-1976@@@
-
 DECRETO Nº 79.020, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Administração, de Direito, de Educação Física e de Psicologia, do Institutos Paraibanos de Educação, com sede na cidade de João Pessoa, Estado da Paraíba.

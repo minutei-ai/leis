@@ -1,5 +1,3 @@
-###DEC-092219-0-000-26-12-1985@@@
-
 Decreto nº 92.219, de 26 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Fazenda Barreiro", compreendido na referida área, no Município de Iturama, no Estado de Minas Gerais, e dá outras providências.

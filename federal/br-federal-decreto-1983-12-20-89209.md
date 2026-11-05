@@ -1,5 +1,3 @@
-###DEC-089209-0-000-20-12-1983@@@
-
 Decreto nº 89.209, de 20 de dezembro de 1983
 
 Altera dispositivo do Estatuto do Hospital de Clínicas de Porto Alegre, aprovado pelo Decreto nº 68.930, de 16 de julho de 1971, alterado pelo Decreto nº 81.627, de 05 de maio de 1978.

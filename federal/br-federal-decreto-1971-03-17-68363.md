@@ -1,5 +1,3 @@
-###DEC-068363-0-000-17-03-1971@@@
-
 Decreto nº 68.363, de 17 de março de 1971.
 
 Transfere da Prefeitura Municipal de Iporá para a Centrais Elétricas de Goiás S.A. a concessão para produzir, transmitir e distribuir energia elétrica no município de Iporá, Estado de Goiás, e dá outras providências.

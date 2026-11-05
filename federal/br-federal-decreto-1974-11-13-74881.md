@@ -1,5 +1,3 @@
-###DEC-074881-0-000-13-11-1974@@@
-
 DECRETO Nº 74.881, DE 13 DE NOVEMBRO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Aratiba Limitada para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Aratiba, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-054474-0-000-14-10-1964@@@
-
 DECRETO Nº 54.474, DE 14 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Aureliano José Pereira a pesquisar talco no município de Lavras, Estado de Minas Gerais.

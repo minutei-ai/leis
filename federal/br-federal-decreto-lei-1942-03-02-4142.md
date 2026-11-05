@@ -1,5 +1,3 @@
-###DEL-004142-0-000-02-03-1942@@@
-
 DECRETO-LEI N. 4.142 – DE 2 DE MARÇO DE 1942
 
 Cria a Base Aérea de Natal, Estado do Rio Grande do Norte

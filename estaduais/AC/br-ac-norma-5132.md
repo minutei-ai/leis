@@ -1,6 +1,10 @@
 > **LEI Nº 3.925, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Denomina Auditor Ayrton Geber, o auditório da Secretaria de Estado da Fazenda - SEFAZ.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Denomina Auditor Ayrton Geber, o auditório da Secretaria de Estado da Fazenda - SEFAZ.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

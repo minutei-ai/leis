@@ -1,5 +1,3 @@
-###DEL-001284-0-000-28-08-1973@@@
-
 # DECRETO-LEI Nº 1.284, DE 28 DE AGOSTo DE 1973
 
 Declara de interesse da Segurança Nacional, nos termos do artigo 15, § 1º, alínea b, da Constituição, o Município de Anápolis do Estado de Goiás, e dá outras providências.

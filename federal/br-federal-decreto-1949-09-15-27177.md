@@ -1,24 +1,22 @@
-###DEC-027177-0-000-15-09-1949@@@
+**DECRETO Nº 27.177, DE 15 DE SETEMBRO DE 1949.**
 
-<strong>DECRETO Nº 27.177, DE 15 DE SETEMBRO DE 1949.</strong>
+***Aprova instruções para declaração de herdeiros, em substituição ás de que trata o decreto n.º 7.184, de 15 de maio de 1941.***
 
-<em><strong>Aprova instruções para declaração de herdeiros, em substituição ás de que trata o decreto n.º 7.184, de 15 de maio de 1941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, n.º I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as ‘’Instruções para declaração de herdeiros’’, que com êste baixam, assinadas pelo Ministro da Guerra, em substituição ás de que trata o decreto n.º 7.184, de 15 de maio de 1941.
 
-<strong>Art</strong>. 1º Ficam aprovadas as ‘’Instruções para declaração de herdeiros’’, que com êste baixam, assinadas pelo Ministro da Guerra, em substituição ás de que trata o decreto n.º 7.184, de 15 de maio de 1941.
-
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 15 de setembro de 1949; 128º da Independência e 61º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Canrobert P. da Costa
 
-<strong>INSTRUÇÕES PARA DECLARAÇÕES DE HERDEIROS</strong>
+**INSTRUÇÕES PARA DECLARAÇÕES DE HERDEIROS**
 
 I
 
@@ -70,7 +68,7 @@ Devem ser feitas publicações nos Boletins Internos dos Corpos, Estabelecimento
 
 XIII
 
-Além do que estabelece a letra <em>b</em>, do art. 28 do Decreto n.º 3.695, já citado, o Comandante, Diretor, ou Chefe a quem o contribuinte estiver subordinado, comunicará à Secretaria Geral do Ministério da Guerra o óbito, indicando a data, cidade e Estado em que o mesmo se verificou.
+Além do que estabelece a letra *b*, do art. 28 do Decreto n.º 3.695, já citado, o Comandante, Diretor, ou Chefe a quem o contribuinte estiver subordinado, comunicará à Secretaria Geral do Ministério da Guerra o óbito, indicando a data, cidade e Estado em que o mesmo se verificou.
 
 XIV
 
@@ -78,7 +76,7 @@ A declaração de herdeiros ou o aditamento que estiver em desacôrdo com estas 
 
 XV
 
-Nas declarações de herdeiros, das praças amparadas pelo § 2º, do art. 29, da Lei n.º 488, publicado no <em>Diário Oficial</em> de 15 de novembro de 1948, torna-se necessário que no final da declaração seja mencionado o amparo da lei acima pelo Comandante, Chefe ou Diretor.
+Nas declarações de herdeiros, das praças amparadas pelo § 2º, do art. 29, da Lei n.º 488, publicado no *Diário Oficial* de 15 de novembro de 1948, torna-se necessário que no final da declaração seja mencionado o amparo da lei acima pelo Comandante, Chefe ou Diretor.
 
 XVI
 
@@ -86,7 +84,7 @@ As declarações feitas em data anterior ás destas instruções continuam em pl
 
 Rio de Janeiro, 15 de setembro de 1949.
 
-<strong>CANROBERT P. DA COSTA</strong>
+**CANROBERT P. DA COSTA**
 
 MODÊLO PARA DECLARAÇÃO DE HERDEIROS
 
@@ -178,7 +176,7 @@ Assinatura do Secretário – Pôsto
 
 (nome datilografado)
 
-<em>Observações –</em>Devem fazer declaração de herdeiros, as praças que tenham amparo no § 2.º do art. 29, da Lei n.º488, de 15 de novembro de 1948. – As declarações devem ser feitas em papel almaço de 22x33, com margem.
+*Observações –*Devem fazer declaração de herdeiros, as praças que tenham amparo no § 2.º do art. 29, da Lei n.º488, de 15 de novembro de 1948. – As declarações devem ser feitas em papel almaço de 22x33, com margem.
 
 (1) O nome datilografado é para facilidade de leitura, não dispensando a assinatura de próprio punho.
 

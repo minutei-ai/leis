@@ -1,5 +1,3 @@
-###DEL-002195-0-000-17-05-1940@@@
-
 DECRETO-LEI N. 2.195 – DE 17 de MAIO DE 1940
 
 Abre, pelo Ministério da Viação, o crédito suplementar de 4.000 :000$0 à verba que especifica

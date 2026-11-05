@@ -1,5 +1,3 @@
-###DEC-079046-0-000-27-12-1976@@@
-
 DECRETO Nº 79.046, DE 27 DE DEZEMBRO DE 1976.
 
 Dispõe sobre aplicação dos incentivos fiscais para o Desenvolvimento Florestal do País.

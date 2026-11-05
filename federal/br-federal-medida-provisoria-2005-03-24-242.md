@@ -1,5 +1,3 @@
-###MPV-000242-0-000-24-03-2005@@@
-
 MEDIDA PROVISÓRIA Nº 242, DE 24 DE MARÇO DE 2005
 
 Altera dispositivos da Lei nº 8.213, de 24 de julho de 1991, que dispõe sobre os Planos de Benefícios da Previdência Social e dá outras providências.

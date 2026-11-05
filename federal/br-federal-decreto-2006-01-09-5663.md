@@ -1,5 +1,3 @@
-###DEC-005663-0-000-09-01-2006@@@
-
 DECRETO Nº 5.663, DE 9 DE JANEIRO DE 2006.
 
 Dispõe sobre a execução do Trigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica no 14, entre os Governos da República Federativa do Brasil e da República Argentina, de 29 de dezembro de 2005.

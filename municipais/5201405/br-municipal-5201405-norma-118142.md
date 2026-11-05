@@ -33,8 +33,10 @@ Art. 2º - Este Decreto entrará em vigor na data de sua publicação.
 
 Aparecida de Goiânia, Estado de Goiás, aos 05 de junho de 2023.
 
-VILMAR MARIANO <br>
+VILMAR MARIANO 
+
 Prefeito Municipal
 
-JULIO CÉSAR CHAGAS MENDES<br>
+JULIO CÉSAR CHAGAS MENDES
+
 Secretário Interino de Planejamento e Regulação Urbana

@@ -1,7 +1,3 @@
-1
-
-###DEC-099665-0-000-01-11-1990@@@
-
 DECRETO N° 99.665, DE 1° DE NOVEMBRO DE 1990
 
 Altera o Decreto n° 99.209, de 16 de abril de 1990, e dá outras providências.

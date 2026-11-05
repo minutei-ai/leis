@@ -1,5 +1,3 @@
-###DEC-048072-0-000-07-04-1960@@@
-
 DECRETO Nº 48.072, DE 07 DE abril DE 1960.
 
 Concede à Mineração Rio do Peixe Limitada autorização para funcionar como emprêsa de mineração.

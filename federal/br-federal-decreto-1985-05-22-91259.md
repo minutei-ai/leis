@@ -1,5 +1,3 @@
-###DEC-091259-0-000-22-05-1985@@@
-
 # Decreto nº 91.259, de 22 de maio de 1985.
 
 Autoriza o funcionamento do curso de Direito da Fundação do Ensino Superior de Rio Verde, Goiás.

@@ -1,5 +1,3 @@
-###DEC-047958-0-000-24-03-1960@@@
-
 DECRETO Nº 47.958, DE 24 DE MARÇO DE 1960.
 
 Dispõe sôbre as comunicações burocráticas entre o Rio de Janeiro e Brasília.
@@ -31,8 +29,6 @@ Rio de Janeiro, em 24 de março de 1960; 139º da Independência e 72º da Repú
 JUSCELINO KUBITSCHEK
 
 Francisco Mello
-
-###DEC-047958-0-000-24-03-1960@@@RET01+++
 
 DECRETO Nº 47.958, DE 24 DE MARÇO DE 1960.
 

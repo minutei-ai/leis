@@ -1,5 +1,3 @@
-###DEL-004447-0-000-08-07-1942@@@ 
-
 DECRETO-LEI N. 4.447 – DE 8 DE JULHO DE 1942
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de 18:150$0, para pagamento de gratificação

@@ -1,5 +1,3 @@
-###DEC-048993-0-000-04-10-1960@@@
-
 Decreto nº 48.993, de 4 de outubro de 1960.
 
 Declara de utilidade pública a Venerável e Arquepiscopal Ordem Terceira de Nossa Senhora do Monte do Carmo, com sede no Rio de Janeiro, Estado da Guanabara.

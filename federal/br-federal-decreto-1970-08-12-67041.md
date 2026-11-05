@@ -1,5 +1,3 @@
-###DEC-067041-0-000-12-08-1970@@@
-
 DECRETO Nº 67.041, DE 12 DE AGôSTO DE 1970.
 
 Autorização para o funcionamento da Faculdade de Filosofia, Ciências e Letras "Farias Brito" de Guarulhos, S.P.

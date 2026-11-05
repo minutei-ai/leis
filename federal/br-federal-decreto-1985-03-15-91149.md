@@ -1,5 +1,3 @@
-###DEC-091149-0-000-15-03-1985@@@
-
 DECRETO Nº 91.149, DE 15 DE MARÇO DE 1985
 
 Transfere o Conselho lnterministerial de Preços (CIP) e a Secretaria Especial de Abastecimento e Preços (SEAP) para o Ministério da Fazenda, vincula, ao mesmo Ministério, a Superintendência Nacional de Abastecimento (SUNAB), e dá outras providências.

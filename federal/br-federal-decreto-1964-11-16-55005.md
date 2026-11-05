@@ -1,5 +1,3 @@
-###DEC-055005-0-000-16-11-1964@@@
-
 DECRETO Nº 55.005, DE 16 DE NOVEMBRO DE 1964.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 797.904.300,00 (setecentos e noventa e sete milhões novecentos e quatro mil e trezentos cruzeiros), para atender às despesas de custeio dos serviços mencionados dos seus órgãos.

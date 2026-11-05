@@ -1,5 +1,3 @@
-###DEC-069858-0-000-29-12-1971@@@
-
 decreto nº 69.858 - de 29 de dezembro de 1971
 
 Dispõe sôbre cargos de Subdiretores de órgãos integrantes do Departamento de Engenharia e Comunicações.

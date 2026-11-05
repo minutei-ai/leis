@@ -1,5 +1,3 @@
-###DEC-064153-0-000-04-03-1969@@@
-
 DECRETO Nº 64.153, DE 4 DE MARÇO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra situada no Município de Guarabira, Estado da Paraíba, necessária à instalação de uma estação repetidora de microondas integrante do Sistema Nacional de Telecomunicações.

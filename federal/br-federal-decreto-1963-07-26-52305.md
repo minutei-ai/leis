@@ -1,5 +1,3 @@
-###DEC-052305-0-000-26-07-1963@@@
-
 DECRETO Nº 52.305, DE 26 DE JULHO DE 1963.
 
 Altera a redação dos artigos 2º e 3º do Decreto nº 52.042, de 22 de maio de 1963.

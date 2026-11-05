@@ -1,5 +1,3 @@
-###DEC-049108-0-000-13-10-1960@@@
-
 Decreto nº 49.108, de 13 de outubro de 1960.
 
 Revoga o Decreto nº 45.108, de 26 de dezembro de 1958.

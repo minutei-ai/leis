@@ -1,5 +1,3 @@
-###DEC-096635-0-000-02-09-1988@@@
-
 DECRETO N° 96.635, DE 2 DE SETEMBRO DE 1988
 
 Autoriza o Deutsch-Sudamerikanische Bank Aktiengesellschaft a funcionar no Brasil e dá outras providências.

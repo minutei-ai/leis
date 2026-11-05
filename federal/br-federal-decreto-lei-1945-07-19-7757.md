@@ -1,5 +1,3 @@
-###DEL-007757-0-000-19-07-1945@@@
-
 DECRETO-LEI N. 7.757 – DE 19 DE JULHO DE 1945
 
 Altera a carreira de Dactilógrafo do Quadro da Justiça – Parte Permanente – do Ministério da Justiça e Negócios Interiores e dá outras providencias.

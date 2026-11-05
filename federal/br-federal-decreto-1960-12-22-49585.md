@@ -1,5 +1,3 @@
-###DEC-049585-0-000-22-12-1960@@@
-
 DECRETO Nº 49.585, DE 22 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Educação e Cultura, o crédito especial de Cr$50.000.000,00, destinado á concessão de bôlsas de estudo a estudantes carentes de recursos.

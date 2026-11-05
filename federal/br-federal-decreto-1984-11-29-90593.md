@@ -1,5 +1,3 @@
-###DEC-090593-0-000-29-11-1984@@@
-
 Decreto nº 90.593, de 29 de novembro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da Companhia Nacional de Álcalis - CNA.

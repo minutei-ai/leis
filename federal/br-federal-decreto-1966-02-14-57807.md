@@ -1,5 +1,3 @@
-###DEC-057807-0-000-14-02-1966@@@
-
 decreto nº 57.807, de 14 de fevereiro de 1966.
 
 Aprova Alterações introduzidas nos Estatutos da Companhia de Seguros Phoenix Pernambucana, inclusive aumento do capital social.

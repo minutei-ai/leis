@@ -1,5 +1,3 @@
-###DEC-080017-0-000-26-07-1977@@@
-
 DECRETO Nº 80.017, DE 26 DE JULHO DE 1977
 
 Autoriza a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Barra de São João, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-067785-0-000-10-12-1970@@@
-
 DECRETO Nº 67.785, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 34.566, de 11-11-1953.

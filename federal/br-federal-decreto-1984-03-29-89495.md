@@ -1,5 +1,3 @@
-###DEC-089495-0-000-29-03-1984@@@
-
 Decreto nº 89.495, de 29 de março de 1984
 
 Homologa a demarcação, da área indígena que menciona, no Estado do Paraná.

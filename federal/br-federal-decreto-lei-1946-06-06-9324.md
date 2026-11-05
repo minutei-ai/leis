@@ -1,5 +1,3 @@
-###DEL-009324-0-000-06-06-1946@@@
-
 DECRETO-LEI N. 9.324 – DE 6 DE JUNHO DE 1946
 
 Aumenta o número de Despachantes da Prefeitura do Distrito Federal.

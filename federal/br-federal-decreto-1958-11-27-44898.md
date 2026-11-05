@@ -1,5 +1,3 @@
-###DEC-044898-0-000-27-11-1958@@@
-
 decreto nº 44.898, de 27 de novembro de 1958.
 
 Aprova o Regulamento para o Laboratório Farmacêutico da Marinha.

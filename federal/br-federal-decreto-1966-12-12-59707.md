@@ -1,5 +1,3 @@
-###DEC-059707-0-000-12-12-1966@@@
-
 Decreto nº 59.707, de 12 de Dezembro de 1966.
 
 Modifica a composição do Conselho Deliberativo da Coordenção do Aperfeiçoamento de Pessoal de Nível Superior (CAPES).

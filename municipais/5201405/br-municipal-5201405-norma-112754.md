@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.804, DE 17 DE OUTUBRO DE 2024.<br>
+LEI MUNICIPAL Nº 3.804, DE 17 DE OUTUBRO DE 2024.
+
 (Revogada pela Lei Ordinária nº 3.894, de 9 de abril de 2026).
 
 ~~Dispõe sobre a criação e denominação da Escola Municipal Raios Brilhantes e dá outras providências.~~
@@ -27,5 +28,6 @@ LEI MUNICIPAL Nº 3.804, DE 17 DE OUTUBRO DE 2024.<br>
 
 ~~MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 17 de outubro de 2024.~~
 
-~~VILMAR MARIANO DA SILVA<br>
+~~VILMAR MARIANO DA SILVA
+
 Prefeito Municipal~~

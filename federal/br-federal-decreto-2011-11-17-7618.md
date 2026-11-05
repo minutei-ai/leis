@@ -1,5 +1,3 @@
-###DEC-007618-0-000-17-11-2011-PUB-01@@@
-
 DECRETO Nº 7.618, DE 17 DE NOVEMBRO DE 2011.
 
 Altera o Decreto n~~º~~ 4.665, de 3 de abril de 2003, que aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Ministério das Cidades, e dispõe sobre remanejamento de cargo em comissão.

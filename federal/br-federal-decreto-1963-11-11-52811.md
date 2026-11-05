@@ -1,38 +1,36 @@
-###DEC-052811-0-000-11-11-1963@@@
+**DECRETO Nº 52.811, DE 11 DE NOVEMBRO DE 1963.**
 
-<strong>DECRETO Nº 52.811, DE 11 DE NOVEMBRO DE 1963.</strong>
+***Aprova o Regimento do Serviço de Estatística da Saúde, do Ministério da Saúde.***
 
-<em><strong>Aprova o Regimento do Serviço de Estatística da Saúde, do Ministério da Saúde.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço de Estatística da Saúde, do Ministério da Saúde, que com êste baixa, assinado pelo respectivo Ministro de Estado.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço de Estatística da Saúde, do Ministério da Saúde, que com êste baixa, assinado pelo respectivo Ministro de Estado.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 11 de novembro de 1963; 142º da Independência e 75º da República.
 
-<strong>JOÃO GOULART</strong>
+**JOÃO GOULART**
 
 Wilson Fadul
 
-<strong>REGIMENTO DO SERVIÇO DE ESTATÍSTICA DA SAÚDE</strong>
+**REGIMENTO DO SERVIÇO DE ESTATÍSTICA DA SAÚDE**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º O Serviço de Estatística da Saúde (S.E.S.), desmembrado do antigo Serviço de Estatística da Educação e Saúde, é órgão integrante do Ministério da Saúde, subordinado ao Ministro de Estado, obedece à orientação técnica do Conselho Nacional de Estatística (C.N.E.) e constitui um dos órgãos executivos centrais do Instituto Brasileiro de Geografia e Estatística (IBGE), nos têrmos dos arts. 2º e 8º, § 1º, do Regulamento aprovado pelo Decreto nº 34.596, de 16 de novembro de 1953.
+**Art**. 1º O Serviço de Estatística da Saúde (S.E.S.), desmembrado do antigo Serviço de Estatística da Educação e Saúde, é órgão integrante do Ministério da Saúde, subordinado ao Ministro de Estado, obedece à orientação técnica do Conselho Nacional de Estatística (C.N.E.) e constitui um dos órgãos executivos centrais do Instituto Brasileiro de Geografia e Estatística (IBGE), nos têrmos dos arts. 2º e 8º, § 1º, do Regulamento aprovado pelo Decreto nº 34.596, de 16 de novembro de 1953.
 
-<strong>Art</strong>. 2º O S.E.S., tem por finalidade levantar as estatísticas referentes às atividades médico-sanitárias do país e divulgá-las em publicações próprias ou por intermédio do Serviço de Documentação do M.S e do I.B.G.E., (art. 8º, do Decreto número 34.596, de 16-11-53).
+**Art**. 2º O S.E.S., tem por finalidade levantar as estatísticas referentes às atividades médico-sanitárias do país e divulgá-las em publicações próprias ou por intermédio do Serviço de Documentação do M.S e do I.B.G.E., (art. 8º, do Decreto número 34.596, de 16-11-53).
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º O S.E.S., é constituído dos seguintes órgãos:
+**Art**. 3º O S.E.S., é constituído dos seguintes órgãos:
 
 I - Seção de Estatística Médico-Sanitária (S.E.M.S.).
 
@@ -48,23 +46,23 @@ III - Seção de Apuração Mecânica e Publicações (S.A.M.P.);
 
 IV - Seção de Administração.
 
-<strong>Art</strong>. 4º O S.E.S., terá um Diretor, nomeado em comissão pelo Presidente da República.
+**Art**. 4º O S.E.S., terá um Diretor, nomeado em comissão pelo Presidente da República.
 
-<strong>Art</strong>. 5º O Diretor do S.E.S. terá um Secretário.
+**Art**. 5º O Diretor do S.E.S. terá um Secretário.
 
-<strong>Art</strong>. 6º As Seções e as Turmas da Seção de Estatística Médico-Sanitárias terão, respectivamente, Chefes e Encarregados designados pelo Diretor do S.E.S., de acôrdo com a legislação vigente.
+**Art**. 6º As Seções e as Turmas da Seção de Estatística Médico-Sanitárias terão, respectivamente, Chefes e Encarregados designados pelo Diretor do S.E.S., de acôrdo com a legislação vigente.
 
 Parágrafo único. Os encarregados de turmas serão indicados pelo Chefe imediato.
 
-<strong>Art</strong>. 7º Os órgãos que integram o Serviço de Estatística da Saúde (S.E.S.) funcionarão em regime de mútua colaboração orientados e coordenados pelo Diretor.
+**Art**. 7º Os órgãos que integram o Serviço de Estatística da Saúde (S.E.S.) funcionarão em regime de mútua colaboração orientados e coordenados pelo Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 8º À Seção de Estatística Médico-Sanitária (S.E.M.S.) compete coligir, coordenar e registrar os dados referentes às atividades médico-sanitárias e correlatas, no país.
+**Art**. 8º À Seção de Estatística Médico-Sanitária (S.E.M.S.) compete coligir, coordenar e registrar os dados referentes às atividades médico-sanitárias e correlatas, no país.
 
-<strong>Art</strong>. 9º À Turma de Estatística Médico-Hospitalar (T.E.M.S.) compete:
+**Art**. 9º À Turma de Estatística Médico-Hospitalar (T.E.M.S.) compete:
 
 I - Coligir, coordenar e criticar, para elaboração das respectivas estatísticas, os dados relativos a serviços oficiais de saúde e a estabelecimentos médico-hospitalares e para-hospitalares, mantidos por governos ou instituições particulares;
 
@@ -74,7 +72,7 @@ III - Planejar os modelos dos mapas estatísticos a serem remetidos aos órgãos
 
 IV - Encaminhar à Chefia da Seção os dados que se destinem a apuração e publicação e os que devam ser submetidos a análise e estudo em outros setores do S.E.S.
 
-<strong>Art</strong>. 10. À Turma de Estatística de Serviços Sanitários (T.E.S.M.S.) compete:
+**Art**. 10. À Turma de Estatística de Serviços Sanitários (T.E.S.M.S.) compete:
 
 I - Coligir, coordenar e criticar dados relativos a:
 
@@ -96,7 +94,7 @@ III - Planejar os modelos dos mapas estatísticos a serem remetidos aos órgãos
 
 IV - Encaminhar à Chefia da Seção os dados destinados a apuração mecânica, análise e publicação.
 
-<strong>Art</strong>. 11. Compete à Turma de Cadastro (T.C.M.S.):
+**Art**. 11. Compete à Turma de Cadastro (T.C.M.S.):
 
 I - Organizar e manter atualizados cadastros relativos a:
 
@@ -108,7 +106,7 @@ c) laboratórios químico-farmacêuticos mantidos pelo govêrno ou por institui�
 
 II - Controlar a expedição dos questionários relativos aos inquéritos a cargo do S.E.S. e seu recebimento depois de preenchido.
 
-<strong>Art</strong>. 12. À Seção de Estudos e Análises (S.E.A.) compete:
+**Art**. 12. À Seção de Estudos e Análises (S.E.A.) compete:
 
 I - Proceder à análise dos trabalhos estatísticos realizados pela S.E.M.S.;
 
@@ -130,7 +128,7 @@ IX - Sugerir a revisão de estatísticas que a análise revele deficientes, ou l
 
 X - Organizar e manter atualizada a documentação do S.E.S., incluindo publicações, oficiais ou não, que interessem às suas atividades.
 
-<strong>Art</strong>. 13. À Seção de Apuração Mecânica e Publicações (S.A.M.P.), compete:
+**Art**. 13. À Seção de Apuração Mecânica e Publicações (S.A.M.P.), compete:
 
 I - Executar os serviços mecânicos relativos aos dados coletados pelo Serviço;
 
@@ -140,7 +138,7 @@ III - Manter atualizada a realização das entidades nacionais e estrangeiras, p
 
 IV - Expedir as publicações do S.E.S.
 
-<strong>Art</strong>. 14. À Seção de Administração (S.A.) compete:
+**Art**. 14. À Seção de Administração (S.A.) compete:
 
 I - Executar, de modo geral, as atribuições relativas à administração de pessoal, material, orçamento e comunicações;
 
@@ -160,11 +158,11 @@ VIII - Organizar e submeter à aprovação do Diretor a escala de férias dos se
 
 IX - Organizar e manter atualizadas coleções de circulares e portarias, ordens de serviço e instruções que digam respeito à parte administrativa do S.E.S.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 16. Ao Diretor compete:
+**Art**. 16. Ao Diretor compete:
 
 I - Orientar, coordenar, dirigir e fiscalizar as atividades do Serviço;
 
@@ -210,7 +208,7 @@ XXI - Aplicar as dotações orçamentárias do Serviço, observadas as disposiç
 
 XXII - Apresentar, anualmente, ao Ministro de Estado relatório sôbre as atividades do Serviço.
 
-<strong>Art</strong>. 17. Aos Chefes de Seção compete:
+**Art**. 17. Aos Chefes de Seção compete:
 
 I - Dirigir os Serviços da Seção e determinar normas e métodos visando a sua maior eficiência;
 
@@ -232,7 +230,7 @@ IX - Fornecer anualmente, ao Diretor, dentro do prazo estabelecido, o relatório
 
 X - Zelar pela disciplina no recinto da Seção.
 
-<strong>Art</strong>. 18. Aos Encarregados de Turma compete:
+**Art**. 18. Aos Encarregados de Turma compete:
 
 I - Dirigir os serviços da Turma e mante-los sob sua orientação imediata;
 
@@ -252,7 +250,7 @@ VIII - Fornecer ao Chefe da Seção, dentro do prazo estabelecido, elementos nec
 
 IX - Zelar pela disciplina no recinto da Turma.
 
-<strong>Art</strong>. 19. Ao Secretário incumbe:
+**Art**. 19. Ao Secretário incumbe:
 
 I - Atender aos que desejarem comunicar-se com o Diretor;
 
@@ -260,40 +258,40 @@ II - Representar o Diretor, quando designado;
 
 III - Redigir a correspondência pessoal do Diretor.
 
-<strong>Art</strong>. 20. Aos servidores que não tenham atribuições específicas nêste Regimento incumbe executar os trabalhos que lhes forem determinados pelo Chefes imediatos.
+**Art**. 20. Aos servidores que não tenham atribuições específicas nêste Regimento incumbe executar os trabalhos que lhes forem determinados pelo Chefes imediatos.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 21. O S.E.S., terá sua lotação aprovada por decreto.
+**Art**. 21. O S.E.S., terá sua lotação aprovada por decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação fixada em decreto, o S.E.S., poderá ter pessoal requisitado e pessoal temporário admitido de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 22. O horário de trabalho normal do S.E.S., será o estabelecido na legislação em vigor.
+**Art**. 22. O horário de trabalho normal do S.E.S., será o estabelecido na legislação em vigor.
 
-<strong>Art</strong>. 23. Todos os servidores do S.E.S., ficam sujeitos a ponto, exceto o Diretor, a quem competirá, no entanto, observar as disposições regulamentares sôbre o exercício de cargos de direção.
+**Art**. 23. Todos os servidores do S.E.S., ficam sujeitos a ponto, exceto o Diretor, a quem competirá, no entanto, observar as disposições regulamentares sôbre o exercício de cargos de direção.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 24. Serão automaticamente substituídos em suas faltas e impedimentos ocasionais:
+**Art**. 24. Serão automaticamente substituídos em suas faltas e impedimentos ocasionais:
 
 I - O Diretor por um dos chefes de Seção, de sua escolha, previamente designado pelo Ministro da Saúde;
 
 II - O Chefe da Seção de Estatística Médico-Sanitária (S.E.M.S.) por um Encarregado de Turma, e os demais chefes de Seção por funcionários, previamente designados pelo Diretor do S.E.S.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Das disposições transitórias</em>
+*Das disposições transitórias*
 
-<strong>Art</strong>. 25. Até que seja criado o cargo de provimento em comissão de que trata o art. 4º dêste Regimento, o S.E.S., terá um Diretor, designado pelo Ministro de Estado e provido em função gratificada a ser criada, em caráter provisório, na forma da legislação em vigor.
+**Art**. 25. Até que seja criado o cargo de provimento em comissão de que trata o art. 4º dêste Regimento, o S.E.S., terá um Diretor, designado pelo Ministro de Estado e provido em função gratificada a ser criada, em caráter provisório, na forma da legislação em vigor.
 
 Brasília, em 11 de novembro de 1963.
 
-<strong>WILSON FADUL</strong>
+**WILSON FADUL**

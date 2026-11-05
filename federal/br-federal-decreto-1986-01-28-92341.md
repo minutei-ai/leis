@@ -1,5 +1,3 @@
-###DEC-092341-0-000-28-01-1986@@@
-
 DECRETO Nº 92.341, DE 28 DE JANEIRO DE 1986
 
 Autoriza o funcionamento da Faculdade de Engenharia de Poços de Caldas.

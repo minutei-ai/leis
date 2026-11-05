@@ -1,5 +1,3 @@
-###DEL-003793-0-000-04-11-1941@@@
-
 DECRETO-LEI N. 3.793 – DE 4 de Novembro DE 1941
 
 Dá ao Instituto de Identificação do Distrito Federal a denominação de Instituto Felix Pacheco

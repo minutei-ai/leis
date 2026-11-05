@@ -1,5 +1,3 @@
-###DEC-057031-0-000-11-10-1965@@@
-
 DECRETO Nº 57.031, DE 11 DE OUTUBRO DE 1965.
 
 Autoriza a firma Importadora Exportadora Independência Ltda., a comprar pedras preciosas.

@@ -1,5 +1,3 @@
-###DEC-072378-0-000-19-06-1973@@@
-
 DECRETO Nº 72.378, DE 19 DE JUNHO DE 1973.
 
 Cancela autorização para funcionamento no Brasil, da La Fonciere - Compagnie D'Assurances et de Reassurances, Transposts, Incendie, Accidents et Risques Divers.

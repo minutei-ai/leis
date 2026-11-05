@@ -1,5 +1,3 @@
-###MPV-001948-0-051-03-02-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.948-51, DE 3 DE fevereiro DE 2000.
 
 Dispõe sobre a emissão de Notas do Tesouro Nacional NTN destinadas a aumento de capital do Banco do Brasil S.A., e da outras providências.

@@ -1,5 +1,3 @@
-###DEL-004774-0-000-01-10-1942@@@
-
 DECRETO-LEI N. 4.774 – DE 1 DE OUTUBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de 28:800$0, para pagamento de aluguéis de casa

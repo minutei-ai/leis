@@ -1,5 +1,3 @@
-###DEC-052068-0-000-27-05-1963@@@
-
 Decreto nº 52.068, de 27 de maio de 1963.
 
 Declara de utilidade pública o Sanatório Ismael, com sede em Amparo, Estado de São Paulo.

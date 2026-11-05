@@ -1,12 +1,16 @@
 Portaria Orçamentária n° 64 / 2020
 
-![](/assets/brasao_goias.gif)<br>
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+![](/assets/brasao_goias.gif)
+
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
-**Portaria Orçamentária nº 64/2020 - Economia<br>** 
+**Portaria Orçamentária nº 64/2020 - Economia
+** 
 
-A **SECRETÁRIA DE ESTADO DA ECONOMIA,** no uso de suas atribuições legais, com fundamento no art. 9º, inciso II, alínea "f" e art. 12 da [Lei nº 20.754](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100978/lei-20754), de 28 de janeiro de 2020, <br>
+A **SECRETÁRIA DE ESTADO DA ECONOMIA,** no uso de suas atribuições legais, com fundamento no art. 9º, inciso II, alínea "f" e art. 12 da [Lei nº 20.754](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100978/lei-20754), de 28 de janeiro de 2020, 
+
  
 
 **RESOLVE:**
@@ -25,77 +29,15 @@ Art. 2º Esta Portaria entra em vigor nesta data.
 
 **GABINETE DA SECRETÁRIA DE ESTADO DA ECONOMIA** , em Goiânia, aos 19 dias do mês de Março de 2020.
 
-**CRISTIANE ALKMIN JUNQUEIRA SCHMIDT<br>
-**(D.O. de 23-03-2020)<br> 
+**CRISTIANE ALKMIN JUNQUEIRA SCHMIDT
 
-QUADRO 1<br> 
+**(D.O. de 23-03-2020)
+ 
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" style="margin-left:.55pt;border-collapse:collapse;mso-padding-alt:0cm 0cm 0cm 0cm"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:13.8pt"><td width="321" colspan="5" valign="top" style="width:241.0pt;border:1px solid black;
-  mso-border-alt:solid black .5pt;mso-border-bottom-alt:
-  none black 0cm;padding:.55pt;height:13.8pt"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">SUPLEMENTAÇÃO</font></span></b></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; height:13.8pt;border-left-color:inherit" width="0" height="18"><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p></td></tr><tr style="mso-yfti-irow:1;height:13.8pt"><td width="321" colspan="5" style="width:241.0pt;border-top:1px solid;border-left:
-  1px solid black;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  mso-border-bottom-alt:none black 0cm;padding:.55pt;
-  height:13.8pt"><p class="EstiloDecretoOrcamentarioIONEWS" style="line-height: 100%; margin-top: 0; margin-bottom: 0"><span class="GramE"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">2953 - FUNDO</font> </span></b></span><b><span style="font-family:&quot;Arial&quot;;
-  color:black"><font size="2">ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM</font></span></b></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; height:13.8pt;border-left-color:inherit" width="0" height="18"><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p></td></tr><tr style="mso-yfti-irow:2"><td width="68" valign="top" style="border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black; width:51.05pt;border-top:1px solid;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">CLASSIF. ORÇAMENTÁRIA</font></span></b></p></td><td width="60" valign="top" style="width:45.35pt;border-left:
-  1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt; ; border-top-color:inherit"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">DESCRIÇÃO DA AÇÃO</font></span></b></p></td><td width="76" valign="top" style="width:2.0cm;border-left:1px solid;
-  border-bottom:1px solid black;border-right:1px solid black;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:.55pt; ; border-top-color:inherit"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">GRUPO DE DESPESA</font></span></b></p></td><td width="49" valign="top" style="width:36.85pt;border-left:
-  1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt; ; border-top-color:inherit"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">FONTE</font></span></b></p></td><td width="68" valign="top" style="width:51.05pt;border-left:
-  1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt; ; border-top-color:inherit"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">MODALIDADE</font></span></b></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; border-left-color:inherit" width="0"><p class="MsoNormal" style="line-height: 100%; margin-top: 0; margin-bottom: 0">&nbsp;</p></td></tr><tr style="mso-yfti-irow:3"><td width="68" valign="top" style="border-left:1px solid black; border-right:1px solid black; border-bottom:1px solid black; width:51.05pt;border-top:1px solid;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">06 182 1002 2.003</font></span></p></td><td width="60" valign="top" style="width:45.35pt;border-top:1px solid;border-left:
-  1px solid;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt; ; border-bottom-color:black"><p class="EstiloDecretoOrcamentarioIONEWS" style="line-height: 100%; margin-top: 0; margin-bottom: 0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">OPERACIONALIZAÇÃO DAS ATIVIDADES DE PREVENÇÃO DE ACIDENTES E SOCORRO ÀS URGÊNCIAS E EMERGÊNCIAS</font></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:1px solid;border-left:1px solid;
-  border-bottom:1px solid black;border-right:1px solid black;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" style="line-height: 100%; margin-top: 0; margin-bottom: 0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">4 - INVESTIMENTOS</font></span></p></td><td width="49" valign="top" style="width:36.85pt;border-top:1px solid;border-left:
-  1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">290</font></span></p></td><td width="68" valign="top" style="width:51.05pt;border-top:1px solid;border-left:
-  1px solid;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt; ; border-bottom-color:black"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">90</font></span></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; border-left-color:inherit" width="0"><p class="MsoNormal" style="line-height: 100%; margin-top: 0; margin-bottom: 0">&nbsp;</p></td></tr><tr style="mso-yfti-irow:4"><td width="129" colspan="2" valign="top" style="width:96.4pt;border-top:1px solid;
-  border-left:1px solid black;border-bottom:1px solid black;border-right:
-  1px solid black;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  mso-border-bottom-alt:none black 0cm;padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">SALDO CRÉD. SUPLEMENTAR</font></span></b></p></td><td width="76" valign="top" style="width:2.0cm;border-top:1px solid;border-left:1px solid;
-  border-bottom:1px solid black;border-right:1px solid black;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">VALOR DA DESPESA</font></span></b></p></td><td width="117" colspan="2" valign="top" style="width:87.9pt;border-top:1px solid;
-  border-left:1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;mso-border-bottom-alt:none black 0cm;
-  padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">VALOR A SUPLEMENTAR</font></span></b></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; border-left-color:inherit" width="0"><p class="MsoNormal" style="line-height: 100%; margin-top: 0; margin-bottom: 0">&nbsp;</p></td></tr><tr style="mso-yfti-irow:5;height:5.65pt"><td width="129" colspan="2" valign="top" style="width:96.4pt;border-top:1px solid;
-  border-left:1px solid black;border-bottom:1px solid black;border-right:
-  1px solid black;mso-border-top-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  mso-border-bottom-alt:none black 0cm;padding:.55pt;
-  height:5.65pt"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">R$ 7.550,00</font></span></p></td><td width="76" valign="top" style="width:2.0cm;border-top:1px solid;border-left:1px solid;
-  border-bottom:1px solid black;border-right:1px solid black;mso-border-top-alt:
-  solid black .5pt;mso-border-left-alt:solid black .5pt;mso-border-alt:solid black .5pt;
-  padding:.55pt;height:5.65pt"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">R$ 1.551.950,00</font></span></p></td><td width="117" colspan="2" valign="top" style="width:87.9pt;border-top:1px solid;
-  border-left:1px solid;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;mso-border-bottom-alt:none black 0cm;
-  padding:.55pt;height:5.65pt; border-bottom-color:black"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">R$ 1.544.400,00</font></span></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; height:5.65pt;border-left-color:inherit" width="0" height="8"><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p></td></tr><tr style="mso-yfti-irow:6"><td width="68" valign="top" style="width:51.05pt;padding:.55pt; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"></span></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;</font></p><p></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">&nbsp;</font></p></td><td width="60" valign="top" style="width:45.35pt;padding:.55pt; ; border-left-style:none; border-left-width:medium; border-right-style:none; border-right-width:medium; border-bottom-style:none; border-bottom-width:medium"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"></span></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;</font></p><p></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">&nbsp;</font></p></td><td width="76" valign="top" style="border-left:medium none; border-bottom:medium none; width:2.0cm;mso-border-right-alt:solid black .5pt;padding:.55pt; ; border-right-color:black; border-top-color:inherit"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"></span></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;</font></p><p></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">&nbsp;</font></p></td><td width="117" colspan="2" valign="top" style="width:87.9pt;border-top:1px solid;
-  border-left:1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;mso-border-bottom-alt:none black 0cm;
-  padding:.55pt; "><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><b><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">VALOR TOTAL A SUPLEMENTAR</font></span></b></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; border-left-color:inherit" width="0"><p class="MsoNormal" style="line-height: 100%; margin-top: 0; margin-bottom: 0">&nbsp;</p></td></tr><tr style="mso-yfti-irow:7;mso-yfti-lastrow:yes;height:5.65pt"><td width="68" valign="top" style="border-style:none; border-width:medium; width:51.05pt;padding:.55pt;
-  height:5.65pt"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"></span></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;</font></p><p></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">&nbsp;</font></p></td><td width="60" valign="top" style="border-style:none; border-width:medium; width:45.35pt;padding:.55pt;
-  height:5.65pt"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"></span></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;</font></p><p></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">&nbsp;</font></p></td><td width="76" valign="top" style="border-left:medium none; border-top:medium none; border-bottom:medium none; width:2.0cm;mso-border-right-alt:solid black .5pt;padding:.55pt;
-  height:5.65pt; border-right-color:black"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"></span></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2">&nbsp;</font></p><p></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"></p><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"><font size="2" face="Arial">&nbsp;</font></p></td><td width="117" colspan="2" valign="top" style="width:87.9pt;border-top:1px solid;
-  border-left:1px solid;border-bottom:1px solid black;border-right:1px solid black;
-  mso-border-top-alt:solid black .5pt;mso-border-left-alt:solid black .5pt;
-  mso-border-alt:solid black .5pt;padding:.55pt;height:5.65pt"><p class="EstiloDecretoOrcamentarioIONEWS" align="center" style="text-align:center; line-height:100%; margin-top:0; margin-bottom:0"><span style="font-family:&quot;Arial&quot;;color:black"><font size="2">R$ 1.544.400,00</font></span></p></td><td style="border-right:medium none; border-top:medium none; border-bottom:medium none; height:5.65pt;border-left-color:inherit" width="0" height="8"><p style="line-height: 100%; margin-top: 0; margin-bottom: 0"></p></td></tr></tbody></table>
+QUADRO 1
+ 
 
- _<br>_
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="5" valign="top"> **SUPLEMENTAÇÃO** </td><td height="18"> </td></tr><tr><td colspan="5"> **2953 - FUNDO ESPECIAL DE REAPARELHAMENTO E MODERNIZAÇÃO DO CORPO DE BOMBEIROS MILITAR DO ESTADO DE GOIÁS - FUNEBOM** </td><td height="18"> </td></tr><tr><td valign="top"> **CLASSIF. ORÇAMENTÁRIA** </td><td valign="top"> **DESCRIÇÃO DA AÇÃO** </td><td valign="top"> **GRUPO DE DESPESA** </td><td valign="top"> **FONTE** </td><td valign="top"> **MODALIDADE** </td><td> &nbsp; </td></tr><tr><td valign="top"> 06 182 1002 2.003 </td><td valign="top"> OPERACIONALIZAÇÃO DAS ATIVIDADES DE PREVENÇÃO DE ACIDENTES E SOCORRO ÀS URGÊNCIAS E EMERGÊNCIAS </td><td valign="top"> 4 - INVESTIMENTOS </td><td valign="top"> 290 </td><td valign="top"> 90 </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> **SALDO CRÉD. SUPLEMENTAR** </td><td valign="top"> **VALOR DA DESPESA** </td><td colspan="2" valign="top"> **VALOR A SUPLEMENTAR** </td><td> &nbsp; </td></tr><tr><td colspan="2" valign="top"> R$ 7.550,00 </td><td valign="top"> R$ 1.551.950,00 </td><td colspan="2" valign="top"> R$ 1.544.400,00 </td><td height="8"> </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> **VALOR TOTAL A SUPLEMENTAR** </td><td> &nbsp; </td></tr><tr><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td valign="top"> &nbsp; &nbsp; </td><td colspan="2" valign="top"> R$ 1.544.400,00 </td><td height="8"> </td></tr></tbody></table>
 
-_Este texto não substitui o publicado no D.O. de 23-03-2020._
+ _
+_

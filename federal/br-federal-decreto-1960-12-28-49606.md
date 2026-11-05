@@ -1,5 +1,3 @@
-###DEC-049606-0-000-28-12-1960@@@
-
 DECRETO Nº 49.606, DE 28 DE DEZEMBRO DE 1960.
 
 Dá normas para a colaboração do Poder Público com a “Fundação Coimbra Bueno pela Nova Capital do Brasil”, no desenvolvimento de atividades culturais.
@@ -47,8 +45,6 @@ Brasília, em 28 de dezembro de 1960; 139º da Independência e 72º da Repúbli
 Juscelino Kubitschek
 
 Clóvis Salgado
-
-###DEC-049606-0-000-28-12-1960@@@RET01+++
 
 DECRETO Nº 49.606, DE 28 DE DEZEMBRO DE 1960.
 

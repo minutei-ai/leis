@@ -1,17 +1,15 @@
-###DEC-023676-0-000-15-09-1947@@@
+**DECRETO Nº 23.676, DE 15 DE SETEMBRO DE 1947.**
 
-<strong>DECRETO Nº 23.676, DE 15 DE SETEMBRO DE 1947.</strong>
+***Revoga o Decreto nº 423, de 28 de abril de 1944.***
 
-<em><strong>Revoga o Decreto nº 423, de 28 de abril de 1944.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, número I, da Constituição Federal,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, número I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-Artigo único. Fica revogado o Decreto nº 15.423 de 28 de abril de 1944, que autorizou a firma brasileira <em>Tschiedei</em> <em>& Cia</em>. a comprar pedras preciosas nos têrmos do Decreto-lei número 466, de 4 de junho de 1938.
+Artigo único. Fica revogado o Decreto nº 15.423 de 28 de abril de 1944, que autorizou a firma brasileira *Tschiedei& Cia*. a comprar pedras preciosas nos têrmos do Decreto-lei número 466, de 4 de junho de 1938.
 
 Rio de Janeiro, 15 de setembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Corrêa e Castro

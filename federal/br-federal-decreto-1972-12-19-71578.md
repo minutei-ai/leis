@@ -1,5 +1,3 @@
-###DEC-071578-0-000-19-12-1972@@@
-
 DECRETO Nº 71.578 - DE 19 DE DEZEMBRO DE 1972
 
 Dispõe sobre a coordenação das solenidades de substituição da Bandeira Nacional hasteada no mastro especial implantado na Praça dos Três Poderes em Brasília, e dá outras providências.

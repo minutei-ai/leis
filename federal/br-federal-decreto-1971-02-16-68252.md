@@ -1,5 +1,3 @@
-###DEC-068252-0-000-16-02-1971@@@
-
 decreto nº 68.252, de 16 de Fevereiro de 1971.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras de Jahu, no Estado de São Paulo com os Cursos de Letras, Pedagogia, História e Geografia.

@@ -1,5 +1,3 @@
-###DEC-058207-0-000-18-04-1966@@@
-
 Decreto Nº 58.207, de 18 de Abril de 1966.
 
 Autoriza o cidadão brasileiro Otto Hugo Muller a pesquisar calcedônia no Município de Espumoso, Estado do Rio Grande do Sul (S).

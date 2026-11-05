@@ -1,5 +1,3 @@
-###DEC-050658-0-000-29-05-1961@@@
-
 DECRETO Nº 50.568, DE 29 DE MAIO DE 1961.
 
 Dispõe sôbre transferência de professôres do Magistério do Exército.

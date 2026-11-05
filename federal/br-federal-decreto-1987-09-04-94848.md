@@ -1,5 +1,3 @@
-###DEC-094848-0-000-04-09-1987@@@
-
 # DECRETO N° 94.848, DE 4 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Lote 22", classificado no Cadastro de Imóveis Rurais do INCRA como latifúndio por exploração, situado no Município de Paragominas, no Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 2 de maio de 1986, e dá outras providências.

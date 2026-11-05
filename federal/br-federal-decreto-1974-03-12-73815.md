@@ -1,5 +1,3 @@
-###DEC-073815-0-000-12-03-1974@@@
-
 DECRETO Nº 73.815, DE 12 DE MARÇO DE 1974.
 
 Concede reconhecimento à Faculdade de Direito de Conselheiro Lafayette, mantida pela Fundação Municipal de Ensino Superior, com sede na cidade de Conselheiro Lafayette, Estado de Minas Gerais.

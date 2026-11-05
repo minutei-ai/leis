@@ -1,5 +1,3 @@
-###DEC-005198-0-000-27-08-2004@@@
-
 DECRETO Nº 5.198 DE 27 DE AGOSTO DE 2004
 
 Dá nova redação à alínea "c" do inciso IV do art. 1º do Decreto nº 5.146, de 20 de julho de 2004, que dispõe sobre a inclusão, no Programa Nacional de Desestatização \- PND, de empreendimentos de transmissão de energia elétrica integrantes da Rede Básica do Sistema Interligado Nacional, determina à Agência Nacional de Energia Elétrica \- ANEEL a promoção e o acompanhamento dos processos de licitação dessas concessões.

@@ -1,5 +1,3 @@
-###DEC-060849-0-000-09-06-1967@@@
-
 Decreto nº 60.849, de 9 de junho de 1967.
 
 Declara de utilidade pública uma faixa de terra de trinta metros de largura, ao longo da linha de transmissão entre a localidade de Capivari de Baixo, Município de Tubarão, e o Distrito de Ilhota, Município de Itajaí, Estado de Santa Catarina, e autoriza a Sociedade Termoelétrica de Capivari a promover as desapropriações.

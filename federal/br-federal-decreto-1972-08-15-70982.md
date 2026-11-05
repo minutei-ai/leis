@@ -1,5 +1,3 @@
-###DEC-070982-0-000-15-08-1972@@@
-
 DECRETO Nº 70.982, DE 15 DE AGOSTO DE 1972.
 
 Transfere a concessão outorgada pelo Decreto nº 35.756, de 1º de julho de 1954.

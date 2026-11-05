@@ -1,5 +1,3 @@
-###DEC-050207-0-000-28-01-1961@@@
-
 DECRETO Nº 50.207, DE 28 DE JANEIRO DE 1961.
 
 Concede à Navegação Savônia Sociedade Anônima, autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

@@ -1,5 +1,3 @@
-###DEC-048131-0-000-20-04-1960@@@
-
 DECRETO Nº 48.131, DE 20 DE ABRIL DE 1960.
 
 Concede autorização para o funcionamento de cursos.

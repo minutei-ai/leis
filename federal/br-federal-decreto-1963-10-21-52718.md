@@ -1,5 +1,3 @@
-###DEC-052718-0-000-21-10-1963@@@
-
 DECRETO Nº 52.718, DE 21 DE Outubro DE 1963.
 
 Outorga à Prefeitura Municipal de Anchieta, Estado do Espirito Santo, concessão para distribuir energia elétrica.

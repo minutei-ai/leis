@@ -1,5 +1,3 @@
-###DEC-055515-0-000-11-01-1965@@@
-
 Decreto nº 55.515, de 11 de janeiro de 1965.
 
 Autoriza a Rio Light S. A. Serviços de Eletricidade a construir linha de transmissão no Estado do Rio de Janeiro.

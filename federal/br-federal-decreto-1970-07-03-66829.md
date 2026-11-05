@@ -1,5 +1,3 @@
-###DEC-066829-0-000-03-07-1970@@@
-
 DECRETO Nº 66.829, DE 3 DE JULHO DE 1970.
 
 Autoriza o funcionamento do Curso de História Natural da Faculdade de Filosofia, Ciências e Letras "Barão de Mauá", de Ribeirão Preto - São Paulo.

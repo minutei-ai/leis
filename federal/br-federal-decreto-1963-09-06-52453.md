@@ -1,5 +1,3 @@
-###DEC-052453-0-000-06-09-1963@@@
-
 Decreto nº 52.453, de 6 de setembro de 1963.
 
 Torna sem efeito o Decreto nº 2.087, de 18 de janeiro de 1963, para reestabelecer a vigência do Decreto nº 934, de 4 de maio de 1962.

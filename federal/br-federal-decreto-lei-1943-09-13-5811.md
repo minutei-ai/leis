@@ -1,5 +1,3 @@
-###DEL-005811-0-000-13-09-1943@@@
-
 DECRETO‑LEI N. 5.811 – DE 13 DE sETEMBRo DE 1943
 
 Autoriza o Instituto de Providência e Assistência dos Servidores do Estado a assumir os direitos e obrigações dos contratos dos seguros de vida das companhias de seguros italianas, em liquidação, e dá outras providências

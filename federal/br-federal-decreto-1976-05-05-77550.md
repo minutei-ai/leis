@@ -1,5 +1,3 @@
-###DEC-077550-0-000-05-05-1976@@@
-
 Decreto nº 77.550, de 5 de maio de 1976
 
 Concede reconhecimento ao curso de Ciências Biológicas da Faculdade de Filosofia, Ciências e Letras de Adamantina, com sede na cidade de Adamantina, Estado de São Paulo.

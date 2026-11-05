@@ -1,5 +1,3 @@
-###DEL-003710-0-000-14-10-1941@@@
-
 DECRETO-LEI N. 3.710 – DE 14 DE OUTUBRO DE 1941
 
 Altera a competência da Câmara de Previdência Social do Conselho Nacional do Trabalho e a de outros orgãos e autoridades do mesmo Conselho e dá outras providências

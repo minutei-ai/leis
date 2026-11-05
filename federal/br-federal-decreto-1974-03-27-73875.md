@@ -1,5 +1,3 @@
-###DEC-073875-0-000-27-03-1974@@@
-
 DECRETO Nº 73.875, DE 27 DE MARÇO DE 1974.
 
 Reduz as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

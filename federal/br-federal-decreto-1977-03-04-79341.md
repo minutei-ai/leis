@@ -1,5 +1,3 @@
-###DEC-079341-0-000-04-03-1977@@@
-
 DECRETO Nº 79.341, DE 4 DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno urbano, com benfeitorias, em Italva, 8º Distrito do Município de Campos, Estado do Rio de Janeiro, destinado à instalação de uma Central Telefônica, pela Telecomunicações do Rio de Janeiro S.A. - TELERJ.

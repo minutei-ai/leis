@@ -4,7 +4,8 @@ Dispõe sobre a coleta, transporte e destinação final de resíduos sólidos em
 
 FAÇO SABER QUE A CÂMARA MUNICPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º. Esta Lei dispõe sobre a coleta, transporte e destinação final de resíduos sólidos em geral e institui a obrigatoriedade da separação e destinação final de resíduos sólidos no Município de Aparecida de Goiânia e altera o artigo 122 da Lei Municipal nº 792, de 7 de dezembro de 1988, Código de Posturas do Município de Aparecida de Goiânia.
@@ -75,7 +76,8 @@ Art. 10. O Poder Executivo do Município de Aparecida de Goiânia, juntamente co
 
 Art. 11. Poderá haver coleta especial para o resíduo reciclável quando for solicitado e agendado ao órgão competente, devendo ser separado na fonte geradora pelos proprietários, pelo menos uma vez por semana.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO RESÍDUO DE ORIGEM DOMICILIAR
 
 Art. 12. Caracteriza-se como resíduos domiciliares todos aqueles enquadrados como Classe II – não inertes, não perigosos, conforme ABNT 10004, divididos para efeito desta lei em orgânico e reciclável.
@@ -114,7 +116,8 @@ III - as ações preventivas e corretivas a serem praticadas no caso de situaç�
 
 IV - a designação do responsável técnico pelo plano de gerenciamento de resíduos e pela adoção das medidas de controle estabelecidas. Art. coleta de resíduo domiciliar dar-se-á pelo menos em três dias da semana, em datas e períodos que devem ser amplamente divulgadas pelo poder Público e/ou Prestador de Serviço. Art. destinação final do resíduo de origem domiciliar atenderá aos procedimentos que se compatibilizem com a proteção ao ambiente, visando evitar ou minimizar o quanto possível, efeitos danosos, especialmente aos recursos hídricos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO RESÍDUO DE SERVIÇO DE SAÚDE
 
 Art. 19. Considera-se resíduo de serviço de saúde, o lixo hospitalar, o composto por materiais declaradamente contaminados, considerados contagiados ou suspeitos de contaminação, provenientes de estabelecimentos hospitalares, maternidades, casas de saúde, prontos-socorros, ambulatórios, sanatórios, clínicas, necrotérios, centros de saúde, banco de sangue, consultórios, laboratórios, clínicas veterinárias, farmácias, drogarias e congêneres, atendendo à seguinte classificação:
@@ -139,7 +142,8 @@ Art. 24. É proibida a incineração de resíduo de serviço de saúde nas próp
 
 Art. 25. As atividades reguladas no presente capítulo deverão cumprir as determinações e Resoluções do Conselho Nacional de Meio Ambiente, Secretaria Municipal de Meio Ambiente, Secretaria de Meio Ambiente e Recursos Hídricos e Agência Nacional de Vigilância Sanitária, que disciplinam as normas técnicas específicas dos resíduos hospitalares.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO RESÍDUO COMERCIAL, DA CONSTRUÇAO CIVIL, INDUSTRIAL E DOS TERMINAIS RODOVIÁRIOS
 
 Art. 26. Para os fins desta Lei, entende-se por resíduo sólido industrial todo o resíduo que resulte de atividades industriais e que se encontre nos estados sólido, semi-sólido, gasoso – quando contido, e líquido – cujas particularidades tornem inviável o seu lançamento na rede pública de esgoto ou em corpos d’água, ou exijam para isso soluções técnicas ou economicamente inviáveis em face da melhor tecnologia disponível.
@@ -180,7 +184,8 @@ Art. 37. Os resíduos sólidos gerados em outros municípios, somente serão ace
 
 § 2º. No caso do caput do presente artigo, se comprovado prejuízo ambiental ou de qualquer ordem para o Município, fica o responsável sujeito às sanções legais.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DOS ATOS LESIVOS À LIMPEZA PÚBLICA URBANA
 
 Art. 38. Consideram-se atos lesivos à limpeza pública urbana:
@@ -213,7 +218,8 @@ X – os feirantes dispor resíduos no chão, sem estar devidamente acondicionad
 
 § 4º. O feirante que não cumprir ao disposto no inciso X será notificado nos termos do § 1º, no caso de reincidência, será aplicada multa nos termo do Código de Postura do Município.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS INFRAÇÕES
 
 Art. 39. Constitui infração toda a ação ou omissão, voluntária ou não, que importe em inobservância das determinações desta Lei.
@@ -272,7 +278,8 @@ IV – infração gravíssima a infração ao disposto no Capítulo IV, que disp
 
 Art. 45. Os valores arrecadados com as multas previstas nesta Lei serão depositados em conta do Fundo Municipal.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DISPOSIÇÕES FINAIS
 
 Art. 46. Para o cumprimento desta Lei a Administração Pública e/ou Prestadores de Serviços deverão:
@@ -321,10 +328,12 @@ Art. 51. Esta Lei entrará em vigor 60 (sessenta) dias após a sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, ESTADO DE GOIÁS, AOS 27 DIAS DO MÊS DE FEVEREIRO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
 ANEXO I

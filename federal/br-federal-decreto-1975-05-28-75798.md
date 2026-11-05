@@ -1,5 +1,3 @@
-###DEC-075798-0-000-28-05-1975@@@
-
 DECRETO Nº 75.798, DE 28 DE MAIO DE 1975.
 
 Regulamenta o artigo 157 da Lei número 5.774, de 23 de dezembro de 1971, que dispõe sobre os militares da Aeronáutica incapacitados para as atividades aéreas.

@@ -1,5 +1,3 @@
-###DEL-008736-0-000-19-01-1946@@@
-
 DECRETO-LEI N. 8.736 – DE 19 DE JANEIRO DE 1946
 
 Cria, no Quadro I, Parte Permanente da Ministério da Viação e Obras Públicas, quatro (4) cargos isolados, de provimento efetivo, de Assistente Jurídico, padrão L.

@@ -1,5 +1,3 @@
-###DEC-058348-0-000-04-05-1966@@@
-
 Decreto nº 58.348, de 4 de maio de 1966
 
 Concede autorização para funcionamento do Curso de Professor de Educação Musical do Instituto Musical Santa Marcelina, de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-049925-0-000-13-01-1961@@@
-
 DECRETO Nº 49.925, DE 13 DE JANEIRO DE 1961.
 
 Considera contribuinte obrigatório do Instituto de Previdência e Assistência dos Servidores do Estado (IPASE) o pessoal temporário admitido pelo Conselho Nacional de Águas e Energia Elétrica.

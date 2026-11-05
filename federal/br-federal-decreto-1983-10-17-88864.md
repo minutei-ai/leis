@@ -1,5 +1,3 @@
-###DEC-088864-0-000-17-10-1983@@@
-
 DECRETO Nº 88.864, DE 17 DE OUTUBRO DE 1983.
 
 Dispõe sobre o montante do Capital Social da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

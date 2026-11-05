@@ -1,5 +1,3 @@
-###DEC-089595-0-000-30-04-1984@@@
-
 # Decreto nº 89.595, de 30 de abril de 1984.
 
 Dispensa de licitação para alienação de gleba destinada ao reassentamento de colonos, localizados na Área Indígena Serra da Moça, Território Federal de Roraima.

@@ -1,5 +1,3 @@
-###DEC-054011-0-000-09-07-1964@@@
-
 DECRETO Nº 54.011, DE 9 DE JULHO DE 1964.
 
 Constitui Grupo de Trabalho para examinar a viabilidade técnica, econômica e financeira de uma fábrica de cimento em Barbalha, Ceará, bem como promover a sua concretização.

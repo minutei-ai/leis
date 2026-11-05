@@ -1,5 +1,3 @@
-###DEC-005812-0-000-21-06-2006@@@
-
 DECRETO Nº 5.812, DE 21 DE JUNHO DE 2006.
 
 Promulga o Acordo de Cooperação entre o Governo da República Federativa do Brasil e o Governo da República do Chile no Campo dos Usos Pacíficos da Energia Nuclear, celebrado em Arica, em 20 de março de 2002.
@@ -24,11 +22,7 @@ Brasília, 21 de junho de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-       Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 22.6.2006.
-
-ACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO CHILE NO CAMPO DOS USOS PACÍFICOS DA ENERGIA NUCLEAR
+       Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA DO CHILE NO CAMPO DOS USOS PACÍFICOS DA ENERGIA NUCLEAR
 
 O Governo da República Federativa do Brasil
 

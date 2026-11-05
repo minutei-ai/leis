@@ -1,5 +1,3 @@
-###DEC-093595-0-000-20-11-1986@@@
-
 DECRETO Nº 93.595, DE 20 DE NOVEMBRO DE 1986
 
 Autoriza a cessão, sob a forma de utilização gratuita, da área que menciona, situada no Município de Cajamar.

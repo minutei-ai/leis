@@ -1,5 +1,3 @@
-###DEC-088197-0-000-23-03-1983@@@
-
 Decreto nº 88.197, de 23 de março de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação transformadora de distribuição Campestre, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

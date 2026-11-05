@@ -1,5 +1,3 @@
-###DEC-051009-0-000-22-07-1961@@@
-
 DECRETO Nº 51.009, DE 22 DE JULHO DE 1961.
 
 Proíbe espetáculos ou números isolados de hipnotismo e letargia, de qualquer tipo ou forma, em clubes, auditórios, palcos ou estúdios de rádio e de televisão, e dá outras providências.

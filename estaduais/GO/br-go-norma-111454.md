@@ -12,8 +12,10 @@ Goiânia, 28 de outubro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
-AMILTON FILHO<br>
+AMILTON FILHO
+
 Deputado

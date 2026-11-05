@@ -1,5 +1,3 @@
-###DEC-002134-0-000-24-01-1997@@@
-
 DECRETO Nº 2.134, DE 24 DE JANEIRO DE 1997
 
 Regulamenta o art. 23 da Lei nº 8.159, de 8 de janeiro de 1991, que dispõe sobre a categoria dos documentos públicos sigilosos e o acesso a eles, e dá outras providências.

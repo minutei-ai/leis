@@ -1,5 +1,3 @@
-###DEC-051993-A-000-08-05-1963@@@
-
 DECRETO N. 51.993 – A – DE 8 DE  MAIO DE 1963
 
 Concede à Sociedade Anônima Lancashire General Envestment Company Limited autorização para continuar a funcionar na República.

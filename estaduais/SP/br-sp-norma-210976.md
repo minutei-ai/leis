@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210976)<br>
-
 # DECRETO N° 69.562, DE 27 DE MAIO DE 2025
 
 ### _Dispõe sobre a criação e alteração em unidades da Rede de Reabilitação Lucy Montoro e dá providências correlatas._
@@ -32,9 +30,88 @@ Eleuses Vieira de Paiva
 
 Marcos da Costa
 
-#### ANEXO I<br>
+#### ANEXO I
+
 a que se refere o §3° do artigo 5° do [Decreto n° 61.003, de 19 de dezembro de 2014](https://www.al.sp.gov.br/norma/173850)
 
 #### Unidades da Rede de Reabilitação Lucy Montoro
 
-<table style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;"><tbody><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Unidades</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Endereço</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Instituto de Reabilitação Lucy Montoro - Morumbi</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Jandiatuba, 580 - Vila Andrade - São Paulo</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Instituto de Reabilitação Lucy Montoro - Vila Mariana - IMREA-HC-FMUSP</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Domingos Souto, 140 - Chácara Klabin - São Paulo</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Instituto de Reabilitação Lucy Montoro de Ribeirão Preto</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Avenida Bandeirantes, 3.900, Campus Universitário - Bairro Monte Alegre - Ribeirão Preto</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Instituto de Reabilitação Lucy Montoro de São José do Rio Preto</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Avenida Jamil F. Kfouri, 40 - Jardim Panorama (Anexo ao Hospital da Criança) - São José do Rio Preto</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro - Clínicas</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Dr. Ovídio Pires de Campos, s/n (INRAD - Hospital das Clínicas) - São Paulo</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro - Lapa</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Guaicurus, 1.274 - Lapa - São Paulo</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro - Umarizal</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Guaramembé, 589 - Jardim Umarizal - São Paulo</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro de Campinas</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Dr. Gabriel Porto, 1270 - Barão Geraldo - Campinas</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro de Marília</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Avenida Nelson Severino Zambom, 175 - Bairro Fragata (FAMEMA) - Marília</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro de Santos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Alexandre Martins, 72 - Bairro Aparecida - Santos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro de São José dos Campos</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Saigiro Nakamura, 600 - Vila Industrial - São José dos Campos</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro de Sorocaba</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rua Claudio Manoel da Costa, 287 - Jardim Vergueiro - Sorocaba</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Reabilitação Lucy Montoro de Mogi Mirim</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Pedro Simoso, 249 - Saúde - Mogi Mirim</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Centro de Reabilitação Lucy Montoro de Presidente Prudente</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">João Joaquim Galindo, 1 - Parque Residencial Serventes I - Presidente Prudente</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Reabilitação Lucy Montoro de Botucatu</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Rodovia Marechal Rondon, km 253 - Botucatu</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Reabilitação Lucy Montoro de Fernandópolis</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Avenida Milton Terra Verdi, 451 - Jardim Santa Helena - Fernandópolis</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Reabilitação Lucy Montoro de Pariquera-Açu</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Dr. Fernando Costa, 655 - Centro - Pariquera-Açu</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Reabilitação Lucy Montoro de Diadema</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Avenida Antonio Pitanga, 614, 2° Andar - Centro - Quarteirão da Saúde - Diadema</td></tr><tr><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Serviço de Reabilitação Lucy Montoro Taubaté</td><td style="background-color:transparent !important;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;padding:3px;vertical-align:top;">Avenida Amador Bueno da Veiga, 340 - Jardim dos Estados - Taubaté</td></tr></tbody></table>
+Unidades
+
+Endereço
+
+Instituto de Reabilitação Lucy Montoro - Morumbi
+
+Rua Jandiatuba, 580 - Vila Andrade - São Paulo
+
+Instituto de Reabilitação Lucy Montoro - Vila Mariana - IMREA-HC-FMUSP
+
+Rua Domingos Souto, 140 - Chácara Klabin - São Paulo
+
+Instituto de Reabilitação Lucy Montoro de Ribeirão Preto
+
+Avenida Bandeirantes, 3.900, Campus Universitário - Bairro Monte Alegre - Ribeirão Preto
+
+Instituto de Reabilitação Lucy Montoro de São José do Rio Preto
+
+Avenida Jamil F. Kfouri, 40 - Jardim Panorama (Anexo ao Hospital da Criança) - São José do Rio Preto
+
+Centro de Reabilitação Lucy Montoro - Clínicas
+
+Rua Dr. Ovídio Pires de Campos, s/n (INRAD - Hospital das Clínicas) - São Paulo
+
+Centro de Reabilitação Lucy Montoro - Lapa
+
+Rua Guaicurus, 1.274 - Lapa - São Paulo
+
+Centro de Reabilitação Lucy Montoro - Umarizal
+
+Rua Guaramembé, 589 - Jardim Umarizal - São Paulo
+
+Centro de Reabilitação Lucy Montoro de Campinas
+
+Rua Dr. Gabriel Porto, 1270 - Barão Geraldo - Campinas
+
+Centro de Reabilitação Lucy Montoro de Marília
+
+Avenida Nelson Severino Zambom, 175 - Bairro Fragata (FAMEMA) - Marília
+
+Centro de Reabilitação Lucy Montoro de Santos
+
+Rua Alexandre Martins, 72 - Bairro Aparecida - Santos
+
+Centro de Reabilitação Lucy Montoro de São José dos Campos
+
+Rua Saigiro Nakamura, 600 - Vila Industrial - São José dos Campos
+
+Centro de Reabilitação Lucy Montoro de Sorocaba
+
+Rua Claudio Manoel da Costa, 287 - Jardim Vergueiro - Sorocaba
+
+Serviço de Reabilitação Lucy Montoro de Mogi Mirim
+
+Pedro Simoso, 249 - Saúde - Mogi Mirim
+
+Centro de Reabilitação Lucy Montoro de Presidente Prudente
+
+João Joaquim Galindo, 1 - Parque Residencial Serventes I - Presidente Prudente
+
+Serviço de Reabilitação Lucy Montoro de Botucatu
+
+Rodovia Marechal Rondon, km 253 - Botucatu
+
+Serviço de Reabilitação Lucy Montoro de Fernandópolis
+
+Avenida Milton Terra Verdi, 451 - Jardim Santa Helena - Fernandópolis
+
+Serviço de Reabilitação Lucy Montoro de Pariquera-Açu
+
+Dr. Fernando Costa, 655 - Centro - Pariquera-Açu
+
+Serviço de Reabilitação Lucy Montoro de Diadema
+
+Avenida Antonio Pitanga, 614, 2° Andar - Centro - Quarteirão da Saúde - Diadema
+
+Serviço de Reabilitação Lucy Montoro Taubaté
+
+Avenida Amador Bueno da Veiga, 340 - Jardim dos Estados - Taubaté

@@ -1,5 +1,3 @@
-###DEC-075648-0-000-23-04-1975@@@
-
 decreto nº 75.648, de 23 de abril de 1975.
 
 Dispõe sobre a concessão de ajuda de custo e transporte a servidores civis e militares mandados servir em Brasília.

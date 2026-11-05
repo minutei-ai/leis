@@ -1,5 +1,3 @@
-###DEC-082441-0-000-18-10-1978@@@
-
 Decreto nº 82.441, de 18 de outubro de 1978.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado do Rio de Janeiro.

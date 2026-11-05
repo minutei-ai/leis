@@ -1,5 +1,3 @@
-###DEC-056896-0-000-22-09-1965@@@
-
 Decreto nº 56.896, de 22 de setembro de 1965.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, faixa de terreno situada no Estado de Santa Catarina.
@@ -21,8 +19,6 @@ Brasília, 22 de setembro de 1965; 144º da Independência e 77º da República.
 H. Castello Branco
 
 Juarez Távora
-
-###DEC-056896-0-000-22-09-1965@@@RET01+++
 
 DECRETO Nº 56.896, DE 22 DE SETEMBRO DE 1965.
 

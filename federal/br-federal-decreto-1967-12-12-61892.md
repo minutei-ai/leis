@@ -1,5 +1,3 @@
-###DEC-061892-0-000-12-12-1967@@@
-
 DECRETO Nº 61.892, DE 12 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública a “Escola Agrícola Dom Bosco”, com sede em Cachoeira do Campo, Ouro Preto, estado de Minas Gerais.

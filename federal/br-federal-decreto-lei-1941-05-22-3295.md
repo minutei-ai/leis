@@ -1,5 +1,3 @@
-###DEL-003295-0-000-22-05-1941@@@
-
 DECRETO-LEI N. 3.295 – DE 22 DE MAIO DE 1941
 
 Dispõe sobre a aplicação de créditos concedidos ao Conselho de Imigração e Colonização e dá outras providências.

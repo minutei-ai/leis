@@ -1,7 +1,3 @@
-1
-
-###DEC-001571-0-000-25-07-1995@@@
-
 DECRETO Nº 1.571, DE 25 DE JULHO DE 1995
 
 Prorroga o prazo de utilização, no comércio interno, de container estrangeiro e seus acessórios, de que trata o Decreto nº 1.214, de 8 de agosto de 1994.

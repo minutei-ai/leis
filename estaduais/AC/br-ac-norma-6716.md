@@ -1,6 +1,10 @@
 > **LEI Nº 4.757, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a proibição à diferenciação na definição do prazo de marcação de consultas, exames e outros procedimentos entre os pacientes cobertos por planos ou seguros privados de assistência à saúde e os pacientes custeados por recursos próprios.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a proibição à diferenciação na definição do prazo de marcação de consultas, exames e outros procedimentos entre os pacientes cobertos por planos ou seguros privados de assistência à saúde e os pacientes custeados por recursos próprios.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

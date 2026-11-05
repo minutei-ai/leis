@@ -1,6 +1,7 @@
 LEI Nº 1.752 DE 27 DE JULHO DE 1962
 
-Ver também:<br>
+Ver também:
+
 Lei nº [13.360](javascript: openDoc\() de 29 de junho de 2015 -  Atualiza na forma da Lei 12.057, de 11 de janeiro de 2011, os limites dos seguintes municípios: Araci, Barrocas, Biritinga, Candeal, Cansanção, Conceição do Coité, Ichu, Itiúba, Lamarão, Monte Santo, Nordestina, Queimadas, Quijingue, Retirolândia, Santaluz, São Domingos, Serrinha, Teofilândia, Tucano e Valente.
 
 Cria o Município de RETIROLÂNDIA, desmembrado dos de CONCEIÇÃO DO COITÉ.
@@ -45,4 +46,4 @@ Governador
 
 Adhemar Martinelli Braga
 
-* * *
+ *

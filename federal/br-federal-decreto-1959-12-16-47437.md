@@ -1,5 +1,3 @@
-###DEC-047437-0-000-16-12-1959@@@
-
 Decreto nº 47.437, de 16 de dezembro de 1959.
 
 Concede reconhecimento aos Cursos que indica.

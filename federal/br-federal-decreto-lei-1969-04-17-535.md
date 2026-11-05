@@ -1,7 +1,3 @@
-1
-
-###DEL-000535-0-000-17-04-1969@@@
-
 DECRETO-LEI Nº 535, DE 17 DE ABRIL DE 1969
 
 Aprova a reforma do ex-soldado Dilson Alves Nogueira, cujo registro foi negado pelo Tribunal de Contas da União.

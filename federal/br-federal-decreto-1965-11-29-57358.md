@@ -1,5 +1,3 @@
-###DEC-057358-0-000-29-11-1965@@@
-
 DECRETO Nº 57.358, DE 29 DE NOVEMBRO DE 1965.
 
 Altera a redação do art. 2º do Decreto nº 57.187, de 8 de novembro de 1965.

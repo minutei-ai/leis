@@ -1,5 +1,3 @@
-###DEC-093591-0-000-18-11-1986@@@
-
 DECRETO Nº 93.591, DE 18 DE NOVEMBRO DE 1986
 
 Autoriza o funcionamento, em caráter temporário e emergencial, dos cursos de Letras, Estudos Sociais e Ciências, em Pirapora, Minas Gerais.

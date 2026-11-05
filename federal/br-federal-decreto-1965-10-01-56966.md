@@ -1,5 +1,3 @@
-###DEC-056966-0-000-01-10-1965@@@
-
 DECRETO Nº 56.966, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza a concessão de aval, pelo Banco Nacional do Desenvolvimento Econômico, para os fins que especifica.

@@ -1,5 +1,3 @@
-###DEC-070463-0-000-26-04-1972@@@
-
 DECRETO Nº 70.463, DE 26 DE ABRIL DE 1972.
 
 Declara de interesse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas a área, de terreno necessária à implantação do Projeto de Irrigação do Açude Público Santo Antônio de Russas no Estado do Ceará.

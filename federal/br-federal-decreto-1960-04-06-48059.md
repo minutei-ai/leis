@@ -1,5 +1,3 @@
-###DEC-048059-0-000-06-04-1960@@@
-
 decreto nº 48.059, de 6 de abril de 1960.
 
 Cria o cargo no quadro de pessoal da Caixa de Crédito da Pesca.

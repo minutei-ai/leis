@@ -1,5 +1,3 @@
-###DEC-052259-0-000-16-07-1963@@@
-
 DECRETO Nº 52.259, DE 16 DE JULHO DE 1963.
 
 Declara de utilidade pública, para efeito de desapropriação a faixa de terrenos necessária a Linha de Transmissão Jeromoabo – Antas, no Estado da Bahia.

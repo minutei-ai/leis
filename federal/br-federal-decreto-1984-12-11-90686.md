@@ -1,5 +1,3 @@
-###DEC-090686-0-000-11-12-1984@@@
-
 Decreto nº 90.686, de 11 de dezembro de 1984
 
 Dispõe sobre o montante do Capital Social da Empresa Brasileira de Notícias - EBN.

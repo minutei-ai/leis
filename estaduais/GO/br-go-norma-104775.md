@@ -56,7 +56,8 @@ a) ficam criadas a:
 
 23\. Coordenação Psicossocial, com o respectivo cargo de provimento em comissão de Coordenador, símbolo DAID-8, como unidade da estrutura complementar, subordinada à Gerência Central de Saúde e Segurança do Servidor; e
 
-~~24\. Assessoria Técnica do Vapt Vupt, com o respectivo cargo de provimento em comissão de Assessor, símbolo DAID-9, no quantitativo de 16 (dezesseis) cargos, como unidade da estrutura complementar, subordinada ao órgão indicado pelo chefe do Executivo;~~<br>
+~~24\. Assessoria Técnica do Vapt Vupt, com o respectivo cargo de provimento em comissão de Assessor, símbolo DAID-9, no quantitativo de 16 (dezesseis) cargos, como unidade da estrutura complementar, subordinada ao órgão indicado pelo chefe do Executivo;~~
+
 \- [Revogado pela Lei nº 21.297, de 07-04-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105297/lei-21297).
 
 b) passa a denominar-se:
@@ -195,8 +196,6 @@ Art. 7º Esta Lei entra em vigor na data de sua publicação, porém produz efei
 
 Goiânia, 12 de janeiro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
@@ -205,7 +204,8 @@ ANEXO ÚNICO
 
 “ANEXO I
 
-| ÓRGÃO OU ENTIDADE/<br>
+| ÓRGÃO OU ENTIDADE/
+
 ESTRUTURA BÁSICA E COMPLEMENTAR | CLASSIFICAÇÃO | CARGOS EM COMISSÃO |
 | --- | --- | --- |
 |   |   | DENOMINAÇÃO DO CARGO | QTDE. | SÍMBOLO |

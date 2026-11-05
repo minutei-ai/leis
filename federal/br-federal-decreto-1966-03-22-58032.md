@@ -1,5 +1,3 @@
-###DEC-058032-0-000-22-03-1966@@@
-
 DECRETO Nº 58.032, DE 22 DE MARÇO DE 1966.
 
 Concede reconhecimento á Faculdade de Odontologia do Piauí

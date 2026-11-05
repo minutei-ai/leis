@@ -1,5 +1,3 @@
-###DEC-007051-0-000-23-12-2009@@@
-
 DECRETO Nº 7.051 DE 23 DE DEZEMBRO DE 2009.
 
 Discrimina ações do Programa de Aceleração do Crescimento - PAC a serem executadas por meio de transferência obrigatória
@@ -28,4 +26,110 @@ Paulo Bernardo Silva
 
 ANEXO
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">FUNCIONAL PROGRAMÁTICA</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">CÓDIGO</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">NOME</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1456.1C97.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00013</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Terminal Fluvial - Maraquiri/AM</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1456.1J64.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00024</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Terminal Fluvial - Benjamim Constant/AM</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1456.1J66.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00026</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Terminal Fluvial - Fonte Boa/AM</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.784.1456.1J67.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00027</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Terminal Fluvial - Humaitá/AM</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.783.1459.10MK.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00595</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Ferrovia Transnordestina</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.783.1461.11XB.0041</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00771</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rebaixamento da Linha Férrea de Maringá</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.7M63.0011</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00788</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">BR-364/RO - Adequação - Travessia de Porto Velho</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.202F.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00795</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - AM</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">26.782.1456.20BB.0013</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MT.00795</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Manutenção de Rodovias - AM</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18.544.1305.10ZW.0001</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MI.00576</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Sistemas de Monitoramento - Instrumentação - Bacia Hidrográfica do Rio São Francisco/BA</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1136.1P95.0001</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01631</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água - Projetos/RJ</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1136.1P95.0001</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01632</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resíduos Sólidos - Limoeiro do Norte e região/CE - Elaboração de Projeto</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.1136.1P95.0001</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01633</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Resíduos Sólidos - Serra Talhada e região/PE - Elaboração de Projeto</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.451.1128.10S3.0035</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01634</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Urbanização de Assentamentos Precários - Ferraz de Vasconcelos/SP - Morar Bem V</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">15.451.1128.10S3.0033</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01635</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Urbanização de Assentamentos Precários - Niterói/RJ - Morro da Cocada fase II</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.0122.10SC.0001</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01636</span></p></td><td style="width:224.6pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água - Recuperação e relocação da adutora de Italuís - I</span></p></td></tr><tr><td style="width:132.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.38pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">17.512.0122.10SC.0021</span></p></td><td style="width:80.65pt; border-right-style:solid; border-right-width:0.75pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">MCID.01636</span></p></td><td style="width:224.6pt; padding-right:0.38pt; padding-left:0.75pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Abastecimento de Água - Recuperação e relocação da adutora de Italuís - I</span></p></td></tr></tbody></table>
+FUNCIONAL PROGRAMÁTICA
+
+CÓDIGO
+
+NOME
+
+26.784.1456.1C97.0013
+
+MT.00013
+
+Terminal Fluvial - Maraquiri/AM
+
+26.784.1456.1J64.0013
+
+MT.00024
+
+Terminal Fluvial - Benjamim Constant/AM
+
+26.784.1456.1J66.0013
+
+MT.00026
+
+Terminal Fluvial - Fonte Boa/AM
+
+26.784.1456.1J67.0013
+
+MT.00027
+
+Terminal Fluvial - Humaitá/AM
+
+26.783.1459.10MK.0013
+
+MT.00595
+
+Ferrovia Transnordestina
+
+26.783.1461.11XB.0041
+
+MT.00771
+
+Rebaixamento da Linha Férrea de Maringá
+
+26.782.1456.7M63.0011
+
+MT.00788
+
+BR-364/RO - Adequação - Travessia de Porto Velho
+
+26.782.1456.202F.0013
+
+MT.00795
+
+Manutenção de Rodovias - AM
+
+26.782.1456.20BB.0013
+
+MT.00795
+
+Manutenção de Rodovias - AM
+
+18.544.1305.10ZW.0001
+
+MI.00576
+
+Sistemas de Monitoramento - Instrumentação - Bacia Hidrográfica do Rio São Francisco/BA
+
+17.512.1136.1P95.0001
+
+MCID.01631
+
+Abastecimento de Água - Projetos/RJ
+
+17.512.1136.1P95.0001
+
+MCID.01632
+
+Resíduos Sólidos - Limoeiro do Norte e região/CE - Elaboração de Projeto
+
+17.512.1136.1P95.0001
+
+MCID.01633
+
+Resíduos Sólidos - Serra Talhada e região/PE - Elaboração de Projeto
+
+15.451.1128.10S3.0035
+
+MCID.01634
+
+Urbanização de Assentamentos Precários - Ferraz de Vasconcelos/SP - Morar Bem V
+
+15.451.1128.10S3.0033
+
+MCID.01635
+
+Urbanização de Assentamentos Precários - Niterói/RJ - Morro da Cocada fase II
+
+17.512.0122.10SC.0001
+
+MCID.01636
+
+Abastecimento de Água - Recuperação e relocação da adutora de Italuís - I
+
+17.512.0122.10SC.0021
+
+MCID.01636
+
+Abastecimento de Água - Recuperação e relocação da adutora de Italuís - I

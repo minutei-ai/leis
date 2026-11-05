@@ -1,5 +1,3 @@
-###DEC-062347-0-000-04-03-1968@@@
-
 DECRETO Nº 62.347, DE 4 DE MARÇO DE 1968.
 
 Regula a concessão de licença para filiação de entidades sindicais brasileiras, de qualquer grau, a organizações internacionais, e o funcionamento de filiais, agências ou representações de entidades sindicais, ou organizações vinculadas ao movimento sindical, estrangeiras, em território nacional.

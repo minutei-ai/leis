@@ -1,5 +1,3 @@
-###DEC-060746-0-000-26-05-1967@@@
-
 DECRETO Nº 60.746, DE 26 DE MAIO DE 1967.
 
 Abre ao Poder Judiciário - Justiça do Trabalho - Tribunal Regional do Trabalho da 4ª Região, o crédito especial de NCr$50.000,00 (cinqüenta mil cruzeiros novos), para o fim que especifica.

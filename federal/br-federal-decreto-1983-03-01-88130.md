@@ -1,5 +1,3 @@
-###DEC-088130-0-000-01-03-1983@@@
-
 Decreto nº 88.130, de 01 de março de 1983
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à ampliação, da estação transformadora de distribuição Cachoeira Paulista, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

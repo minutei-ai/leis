@@ -1,5 +1,3 @@
-###DEL-001373-0-000-10-12-1974@@@
-
 # DECRETO-LEI Nº 1.373, DE 10 DE DEZEMBRO DE 1974
 
 Reajusta os vencimentos e salários dos servidores dos Quadros Permanentes do Superior Tribunal Militar e das Auditorias da Justiça Militar, e dá outras providências.

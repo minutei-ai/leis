@@ -1,7 +1,3 @@
-1
-
-###DEC-000646-0-000-09-09-1992@@@
-
 DECRETO N° 646, DE 9 DE SETEMBRO DE 1992
 
 Dispõe sobre a forma de investidura nas funções de despachante aduaneiro e de ajudante de despachante aduaneiro e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-070361-0-000-04-04-1972@@@
-
 DECRETO Nº 70.361, DE 4 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Associação Filantrópica Ruy Barbosa, com sede em São João da Barra, Estado do Rio de Janeiro.

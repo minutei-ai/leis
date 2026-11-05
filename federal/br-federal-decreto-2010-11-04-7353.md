@@ -1,5 +1,3 @@
-###DEC-007353-0-000-04-11-2010-PUB-01@@@
-
 DECRETO Nº  7.353, DE 4 DE NOVEMBRO DE 2010
 
 Dispõe sobre o remanejamento dos cargos em comissão do Grupo-Direção e Assessoramento Superior - DAS que menciona; altera os Anexos II aos Decretos nºs 6.099 e 6.100, ambos de 26 de abril de 2007, que aprovam, respectivamente, as Estruturas Regimentais e os Quadro Demonstrativos dos Cargos em Comissão e das Funções Gratificadas do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis - IBAMA e do Instituto Chico Mendes de Conservação da Biodiversidade - Instituto Chico Mendes; e dá outras providências.

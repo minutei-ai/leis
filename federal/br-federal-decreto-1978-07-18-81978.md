@@ -1,5 +1,3 @@
-###DEC-081978-0-000-18-07-1978@@@
-
 Decreto nº 81.978, de 18 de julho de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

@@ -1,5 +1,3 @@
-###DEC-072340-0-000-07-06-1973@@@
-
 DECRETO Nº 72.340, DE 7 DE JUNHO DE 1973.
 
 Transfere com o respectivo cargo, para o Quadro de Pessoal da Universidade Rural do Rio de Janeiro, servidor do Quadro de Pessoal, em extinção, da Fundação IBGE.

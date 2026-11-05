@@ -1,5 +1,3 @@
-###DEC-080227-0-000-24-08-1977@@@
-
 DECRETO Nº 80.227, DE 24 DE AGOSTO DE 1977.
 
 Autoriza o serviço do patrimônio da união a aceitar a doação do terreno que menciona, situado no Município de Areia Branca, Estado do Rio Grande do Norte.

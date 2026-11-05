@@ -1,5 +1,3 @@
-###DEC-083389-0-000-02-05-1979@@@
-
 DECRETO Nº 83.389, DE 02 DE MAIO DE 1979.
 
 Concede reconhecimento ao curso de Formação de Tecnólogos em Construção Civil, da Universidade Estadual de Feira de Santana, Estado da Bahia.

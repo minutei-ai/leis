@@ -1,5 +1,3 @@
-###DEC-079622-0-000-28-04-1977@@@
-
 DECRETO N.º 79.622, DE 28 DE ABRIL DE 1977
 
 Concede reconhecimento ao curso de Pedagogia da Faculdade de Educação "Osório Campos", com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

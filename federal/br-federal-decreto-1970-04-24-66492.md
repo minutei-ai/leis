@@ -1,5 +1,3 @@
-###DEC-066492-0-000-24-04-1970@@@
-
 DECRETO Nº 66.492, DE 24 DE ABRIL DE 1970.
 
 Altera a constituição dos Comandos de Apoio, baixa o Regulamento dêsses Comandos e dá outras providências.

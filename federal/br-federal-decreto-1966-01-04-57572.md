@@ -1,5 +1,3 @@
-###DEC-057572-0-000-04-01-1966@@@
-
 decreto nº 57.572, de 4 de janeiro de 1966.
 
 Dispõe sôbre as atividades didáticas exercidas na Escola Nacional de Saúde Pública e sôbre a forma de sua remuneração.

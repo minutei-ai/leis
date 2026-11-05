@@ -1,5 +1,3 @@
-###DEC-050318-0-000-07-03-1961@@@
-
 DECRETO Nº 50.318, DE 7 DE MARÇO DE 1961.
 
 Dá nova redação à letra “c” do parágrafo 2º do artigo 20 do Regulamento dos QOA e QOE.

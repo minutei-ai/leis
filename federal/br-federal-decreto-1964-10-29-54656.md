@@ -1,5 +1,3 @@
-###DEC-054656-0-000-29-10-1964@@@
-
 DECRETO Nº 54.656, DE 29 DE OUTUBRO DE 1964.
 
 Renova o Decreto nº 45.254, de 15 de janeiro de 1959.

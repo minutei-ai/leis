@@ -1,5 +1,3 @@
-###DEC-085899-0-000-13-04-1981@@@
-
 Decreto nº 85.899, de 13 dE abrIl de 1981.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra, com as respectivas benfeitorias, necessárias à implantação do "Subprojeto de Desenvolvimento Agrícola do Banhado do Sombrio", no Município de Jacinto Machado, Estado de Santa Catarina, e dá outras providências.

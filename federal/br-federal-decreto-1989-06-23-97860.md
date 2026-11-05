@@ -1,7 +1,3 @@
-1
-
-###DEC-097860-0-000-23-06-1989@@@
-
 DECRETO Nº 97.860, DE 23 DE JUNHO DE 1989
 
 Cria, no Ministério das Relações Exteriores, a Secretaria de Informações do Exterior.

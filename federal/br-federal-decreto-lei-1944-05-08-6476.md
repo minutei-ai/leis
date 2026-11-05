@@ -1,5 +1,3 @@
-###DEL-006476-0-000-08-05-1944@@@
-
 DECRETO-LEI N. 6.476 – DE 8 DE MAIO DE 1944
 
 Cria no Conselho de Segurança Nacional, como órgão complementar, a Comissão de Planejamento Econômico, e dá outras providências

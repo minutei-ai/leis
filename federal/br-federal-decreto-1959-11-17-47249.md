@@ -1,5 +1,3 @@
-###DEC-047249-0-000-17-11-1959@@@
-
 DECRETO Nº 47.249, DE 17 DE NOVEMBRO DE 1959.
 
 Autoriza a execução de estudos e projetos para a execução de obras em diversas cidades do Estado do Piauí,

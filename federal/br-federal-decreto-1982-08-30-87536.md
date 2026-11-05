@@ -1,5 +1,3 @@
-###DEC-087536-0-000-30-08-1982@@@
-
 DECRETO Nº 87.536, DE 30 DE AGOSTO DE 1982.
 
 Cria e extingue funções de confiança na Tabela Permanente dos Gabinetes da Presidência da República.

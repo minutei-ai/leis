@@ -1,5 +1,3 @@
-###DEL-004553-0-000-06-08-1942@@@
-
 DECRETO-LEI N. 4.553 – DE 6 DE AGOSTO DE 1942
 
 Inclue no artigo 1.831, da Tarifa em vigor, o aparelho denominado “Bullgrader", empregado no nivelamento de terrenos

@@ -1,5 +1,3 @@
-###DEC-085957-0-000-04-05-1981@@@
-
 DECRETO Nº 85.957, DE 04 DE MAIO DE 1981.
 
 Outorga concessão à RÁDIO DOURADOS DO SUL LTDA., para estabelecer uma estação de radiodifusão sonora em onda média de âmbito regional, na cidade de Dourados, Estado do Mato Grosso do Sul.

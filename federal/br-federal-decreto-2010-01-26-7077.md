@@ -1,5 +1,3 @@
-###DEC-007077-0-000-26-01-2010@@@
-
 DECRETO Nº 7.077, DE 26 DE JANEIRO DE 2010.
 
 Regulamenta a Lei no 9.445, de 14 de março de 1997, que concede subvenção econômica ao preço do óleo diesel consumido por embarcações pesqueiras nacionais.

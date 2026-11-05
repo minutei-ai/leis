@@ -1,5 +1,3 @@
-###DEC-075325-0-000-29-01-1975@@@
-
 DECRETO Nº 75.325, DE 29 DE JANEIRO DE 1975.
 
 Dispõe sobre a exploração e o aproveitamento das jazidas minerais na área do Complexo Petroquímico de Camaçari - COPEC, no Estado da Bahia.

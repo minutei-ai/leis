@@ -1,5 +1,3 @@
-###DEC-076994-0-000-07-01-1976@@@
-
 DECRETO Nº 76.994, DE 7 DE JANEIRO DE 1976.
 
 Autoriza o funcionamento da Faculdade de Filosofia do Vale do São Patrício, com sede na cidade de Ceres, Estado de Goiás.

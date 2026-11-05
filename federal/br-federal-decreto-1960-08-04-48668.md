@@ -1,5 +1,3 @@
-###DEC-048668-0-000-04-08-1960@@@
-
 DECRETO Nº 48.668, DE 4 DE AGÔSTO DE 1960
 
 Autoriza Arthur Gomes Barradas a comprar pedras preciosas.

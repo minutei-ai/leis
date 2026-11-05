@@ -1,5 +1,3 @@
-###DEC-074433-0-000-20-08-1974@@@
-
 DECRETO Nº 74.433 - DE 20 DE AGOSTO DE 1974.
 
 Concede o reconhecimento ao curso de Ciências Sociais da Universidade Federal Fluminense, com sede na cidade de Niterói, Estado do Rio de Janeiro.

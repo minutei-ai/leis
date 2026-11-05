@@ -1,5 +1,3 @@
-###DEC-064350-0-000-11-04-1969@@@
-
 Decreto nº 64.350, de 11 de abril de 1969.
 
 Altera distribuição de pessoal efetivada pelo Decreto nº 63.395, de 10 de outubro de 1968, e dá outras providências.

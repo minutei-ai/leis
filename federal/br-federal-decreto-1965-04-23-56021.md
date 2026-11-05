@@ -1,5 +1,3 @@
-###DEC-056021-0-000-23-04-1965@@@
-
 DECRETO Nº 56.021, DE 23 DE ABRIL DE 1965.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica.

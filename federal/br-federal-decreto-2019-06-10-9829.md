@@ -98,4 +98,4 @@ Brasília, 10 de junho de 2019; 198º da Independência e 131º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Fernando Azevedo e Silva<br>
+Fernando Azevedo e Silva

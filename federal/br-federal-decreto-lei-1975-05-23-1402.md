@@ -1,5 +1,3 @@
-###DEL-001402-0-000-23-05-1975@@@
-
 # DECRETO-LEI Nº 1.402, DE 23 DE MAIO DE 1975
 
 Altera a redação do artigo 4º do Decreto-lei nº 1.083, de 6 de fevereiro de 1970, que dispõe acerca do Imposto Único sobre Minerais.

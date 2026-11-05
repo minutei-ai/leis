@@ -1,5 +1,3 @@
-###DEC-006012-0-000-05-01-2007@@@
-
 DECRETO Nº 6.012, DE 5 DE JANEIRO DE 2007.
 
 Exclui do Anexo I do Decreto no 5.411, de 6 de abril de 2005, as participações acionárias que menciona e dá outras providências.
@@ -25,5 +23,3 @@ Brasília, 5 de janeiro  de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
     Bernard Appy
-
-Este texto não substitui o publicado no DOU de 4.1.2007.

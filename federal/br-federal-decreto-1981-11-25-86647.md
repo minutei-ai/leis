@@ -1,5 +1,3 @@
-###DEC-086647-0-000-25-11-1981@@@
-
 Decreto nº 86.647, de 25 de novembro de 1981
 
 Revoga o artigo 5º do Decreto nº 72.909, de 10 de outubro de 1973, que aprovou o Regulamento do Grupo de Apoio dos Afonsos.

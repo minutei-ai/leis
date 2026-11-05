@@ -1,5 +1,3 @@
-###MPV-001137-0-000-26-09-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.137, DE 26 DE SETEMBRO DE 1995.
 
 Dispõe sobre a aplicação da Taxa de Juros de Longo Prazo - TJLP sobre empréstimos concedidos com recursos dos Fundos Constitucionais de Financiamento das Regiões Norte, Nordeste e Centro-Oeste e dos Fundos de Investimentos do Nordeste e da Amazônia e do Fundo de Recuperação Econômica do Espírito Santo, e com recursos das Operações Oficiais de Crédito, e dá outras providências.

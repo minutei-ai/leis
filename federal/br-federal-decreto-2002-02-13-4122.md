@@ -1,5 +1,3 @@
-###DEC-004122-0-000-13-02-2002@@@
-
 DECRETO Nº 4.122, DE 13 DE FEVEREIRO DE 2002.
 
 Aprova o Regulamento e o Quadro Demonstrativo dos Cargos Comissionados e dos Cargos Comissionados Técnicos da Agência Nacional de Transportes Aquaviários - ANTAQ, e dá outras providências.

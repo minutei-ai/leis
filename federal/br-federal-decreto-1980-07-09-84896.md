@@ -1,5 +1,3 @@
-###DEC-084896-0-000-09-07-1980@@@
-
 Decreto nº 84.896, de 09 de julho de 1980.
 
 Altera a subordinação do Centro Tecnológico do Exército e do Instituto Militar de Engenharia.

@@ -1,5 +1,3 @@
-###DEC-073293-0-000-12-12-1973@@@
-
 DECRETO Nº 73.293 - DE 12 DE DEZEMBRO DE 1973
 
 Regula a isenção e a suspensão de tributos para bens e equipamentos de construção importados para utilização em obras a cargo de concessionárias de serviço público, mas condições que especifica e dá outras providências.

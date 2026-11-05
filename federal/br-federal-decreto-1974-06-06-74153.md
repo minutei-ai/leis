@@ -1,5 +1,3 @@
-###DEC-074153-0-000-06-06-1974@@@
-
 DECRETO Nº 74.153, DE 6 DE JUNHO DE 1974.
 
 Torna sem efeito aproveitamento de disponível do IPASE e dá outras providências.

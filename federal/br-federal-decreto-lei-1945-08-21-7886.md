@@ -1,5 +1,3 @@
-###DEL-007886-0-000-21-08-1945@@@
-
 DECRETO-LEI N. 7.886 – DE 21 DE AGÔSTO DE 1945
 
 Modifica a taxa cobrada sôbre o amianto ou asbesto incluído no artigo 569 da Tarifa das Alfândegas.

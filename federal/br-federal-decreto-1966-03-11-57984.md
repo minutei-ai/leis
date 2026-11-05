@@ -1,5 +1,3 @@
-###DEC-057984-0-000-11-03-1966@@@
-
 Decreto nº 57.984, de 11 de março de 1966.
 
 Transfere concessão

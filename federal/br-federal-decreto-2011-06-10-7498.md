@@ -1,5 +1,3 @@
-###DEC-007498-0-000-10-06-2011-PUB-01@@@
-
 DECRETO Nº 7.498, DE 10 DE JUNHO DE 2011
 
 Fixa os percentuais mínimos dos cargos do Corpo de Intendentes da Marinha e do Corpo de Saúde da Marinha que deverão ser ocupados por oficiais do sexo masculino.

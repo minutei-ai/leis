@@ -8,11 +8,16 @@ Art. 1º - O subsídio mensal dos Desembargadores do Tribunal de Justiça do Est
 
 Art. 2º - A remuneração dos servidores ocupantes de cargos, funções e empregos públicos no âmbito do Poder Judiciário do Estado da Bahia, e os proventos, pensões ou outras espécies remuneratórias, percebidos cumulativamente ou não, incluídas as vantagens pessoais ou de qualquer outra natureza, não poderão exceder o valor de R$ 22.000,00 (vinte e dois mil reais).
 
-NOTA: Julgada procedente, pelo STF,  a Ação Direta de Inconstitucionalidade nº 4900, que declara inconstitucional o art. 2º desta Lei., em 11.02.2015.<br>
-Ver também:<br>
-Art. 1º da Lei nº 13.155, de 07 de maio de 2014: "Ficam reajustados em 5,91% (cinco vírgula noventa e um por cento):<br>
-I - o vencimento básico dos cargos de provimento efetivo das Carreiras do Quadro  de Pessoal e dos cargos comissionados do Poder Judiciário do Estado da Bahia;<br>
-II - as vantagens pessoais incorporadas em valor nominal;<br>
+NOTA: Julgada procedente, pelo STF,  a Ação Direta de Inconstitucionalidade nº 4900, que declara inconstitucional o art. 2º desta Lei., em 11.02.2015.
+
+Ver também:
+
+Art. 1º da Lei nº 13.155, de 07 de maio de 2014: "Ficam reajustados em 5,91% (cinco vírgula noventa e um por cento):
+
+I - o vencimento básico dos cargos de provimento efetivo das Carreiras do Quadro  de Pessoal e dos cargos comissionados do Poder Judiciário do Estado da Bahia;
+
+II - as vantagens pessoais incorporadas em valor nominal;
+
 III - o valor do subteto fixado no art. 2º da Lei nº 11.905, de 03 de maio de 2010."
 
 Art. 3º - O subsídio fixado no art. 1º e o valor estabelecido no art. 2º desta Lei somente poderão ser alterados por Lei específica, de iniciativa do Tribunal de Justiça do Estado da Bahia.

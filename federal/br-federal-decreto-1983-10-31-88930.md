@@ -1,5 +1,3 @@
-###DEC-088930-0-000-31-10-1983@@@
-
 DECRETO Nº 88.930, DE 31 DE OUTUBRO DE 1983
 
 Fixa novos níveis de salário mínimo para todo o território nacional.

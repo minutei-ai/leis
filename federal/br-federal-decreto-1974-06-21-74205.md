@@ -1,5 +1,3 @@
-###DEC-074205-0-000-21-06-1974@@@
-
 DECRETO Nº 74.205, DE 21 DE JUNHO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 42.716, de 29 de novembro de 1957, através do qual foi concedido à Companhia Estanífera do Brasil o direito de lavrar cassiterita, no município de Itinga, Estado de Minas Gerais.

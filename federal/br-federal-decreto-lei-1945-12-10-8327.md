@@ -1,5 +1,3 @@
-###DEL-008327-0-000-10-12-1945@@@
-
 DECRETO-LEI N. 8.327 – DE 10 DE DEZEMBRO DE 1945
 
 Revoga o Decreto-lei nº 4.937, de 9 de novembro de 1942 e dá outras providências.

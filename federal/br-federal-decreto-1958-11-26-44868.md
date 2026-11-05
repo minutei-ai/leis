@@ -1,5 +1,3 @@
-###DEC-044868-0-000-26-11-1958@@@
-
 Decreto nº 44.868, de 26 de novembro de 1958.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$4.000.000,00, sendo Cr$2.000.000,00 para a Faculdade de Filosofia de Pelotas e Cr$2.000.000,00 para a Faculdade de Filosofia do Ceará.

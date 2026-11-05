@@ -41,7 +41,3 @@ Deputado Marcelo Gonçalves – 3º Secretário
 Deputado Dilzon Melo – 4º Secretário
 
 Deputada Maria Olívia – 5ª Secretária
-
-\===================
-
-Data da última atualização: 19/5/2014

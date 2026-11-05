@@ -1,5 +1,3 @@
-###DEL-000618-0-000-10-06-1969@@@
-
 DECRETO-LEI Nº 618, DE 10 DE JUNHO DE 1969
 
 Mantém vetos não apreciados pelo Congresso Nacional.

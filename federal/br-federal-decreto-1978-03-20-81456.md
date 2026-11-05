@@ -1,5 +1,3 @@
-###DEC-081456-0-000-20-03-1978@@@
-
 Decreto nº 81.456, de 20 de março de 1978.
 
 Renova por 15 (quinze) anos a concessão outorgada à Rádio Difusora do Maranhão Ltda., cuja denominação foi posteriormente alterada para Rádio Difusora do Maranhão S. A., para executar serviço de radiodifusão de sons e imagens (televisão), na cidade de São Luís, Estado do Maranhão.

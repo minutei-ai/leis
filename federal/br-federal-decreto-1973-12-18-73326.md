@@ -1,5 +1,3 @@
-###DEC-073326-0-000-18-12-1973@@@
-
 decreto nº 73.326 - de 18 de dezembro de 1973
 
 Concede à Companhia de Cimento Portland Barroso o direito de lavrar argila, no Município de Barroso, Estado de Minas Gerais.

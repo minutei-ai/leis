@@ -1,5 +1,3 @@
-###DEC-068234-0-000-15-02-1971@@@
-
 DECRETO Nº 68.234, DE 15 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, uma faixa de terra destinada á passagem da linha de transmissão que se estenderá desde a SE de Campina Grande, município de mesmo nome, Estado da Paraíba, até a SE de Goianinha, município de Goiana, Estado de Pernambuco.

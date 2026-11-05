@@ -1,5 +1,3 @@
-###DEC-047874-0-000-08-03-1960@@@
-
 DECRETO Nº 47.874, DE 8 DE MARÇO DE 1960.
 
 Autoriza a Emprêsa de Luz e Fôrça de Cachoeiras de Macacu a instalar, em caráter de emergência, um grupo gerador diesel-elétrico, no município de Cachoeiras de Macacu, Estado do Rio de Janeiro.

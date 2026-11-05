@@ -1,5 +1,3 @@
-###DEC-087782-0-000-10-11-1982@@@
-
 DECRETO Nº 87.782, DE 10 DE NOVEMBRO DE 1982.
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado, "TUPÃ-CIRETÃ", situado nos Municípios Rio Maria e Xinguara, desmembrados do Município de Conceição do Araguaia, Estado do Pará, compreendido na zona prioritária de reforma agrária de que trata o Decreto nº 67.557, de 12 de novembro de 1970, alterado pelos Decretos nºs 75.295, de 27 de janeiro de 1975, e 85.075, de 27 de agosto de 1980, ampliada pelo Decreto nº 87.095, de 16 de abril de 1982.

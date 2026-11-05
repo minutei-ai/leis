@@ -1,5 +1,3 @@
-###DEC-096607-0-000-30-08-1988@@@
-
 DECRETO Nº 96.607, DE 30 DE AGOSTO DE 1988
 
 Aprova a Parte I da Quarta Edição da Farmacopéia Brasileira  Generalidades e Métodos de Análise  e dá outras providências.

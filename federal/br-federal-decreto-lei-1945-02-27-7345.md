@@ -1,5 +1,3 @@
-###DEL-007345-0-000-27-02-1945@@@
-
 DECRETO-LEI N. 7.345 – DE 27 DE fevereiro DE 1945
 
 Suprime função gratificada no Quadro Permanente do Ministério da Justiça e Negócios as Interiores

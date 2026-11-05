@@ -1,5 +1,3 @@
-###DEC-051186-0-000-11-08-1961@@@
-
 Decreto nº 51.186, de 11 de agôsto de 1961.
 
 Autoriza Estrangeiro a adquirir, em transferência de aforamento, a fração ideal do domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

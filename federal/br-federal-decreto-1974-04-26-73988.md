@@ -1,5 +1,3 @@
-###DEC-073988-0-000-26-04-1974@@@
-
 DECRETO Nº 73.988, DE 26 DE ABRIL DE 1974.
 
 Dispõe sobre critério seletivo para inclusão de funcionários nos Grupos: Serviços Auxiliares, Polícia Federal e Tributação, Arrecadação e Fiscalização, e dá outras providências.

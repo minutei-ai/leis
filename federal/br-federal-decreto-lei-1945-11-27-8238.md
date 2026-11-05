@@ -1,5 +1,3 @@
-###DEL-008238-0-000-27-11-1945@@@
-
 DECRETO-LEI N. 8.238 – DE 27 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Educação  e Saúde o crédito especial de Cr$ 150.000,00 para atender a despesas com solenidade de formatura em estabelecimentos de ensino da Universidade do Brasil.

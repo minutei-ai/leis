@@ -1,5 +1,3 @@
-###DEC-068402-0-000-23-03-1971@@@
-
 DECRETO Nº 68.402, DE 23 DE MARÇO DE 1971.
 
 Autorização para o funcionamento da Faculdade de Filosofia, Ciências e Letras Camilo Castelo Branco, da Associação Itaquerense de Ensino, com os Cursos de Letras, Ciências Sociais, Geografia e Pedagogia.

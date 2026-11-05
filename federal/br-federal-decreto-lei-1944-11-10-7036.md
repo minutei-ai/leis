@@ -1,5 +1,3 @@
-###DEL-007036-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.036 – DE 10 DE NOVEMBRO DE 1944
 
 Reforma da Lei de Acidentes do Trabalho

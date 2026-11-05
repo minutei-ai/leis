@@ -1,5 +1,3 @@
-###DEC-052080-0-000-30-05-1963@@@
-
 DECRETO Nº 52.080, DE 30 DE MAIO DE 1963.
 
 Declara de utilidade publica a “OFIDAS” Organização Feminina Israelita de Assistência Social, com sede na capital do Estado de São Paulo.

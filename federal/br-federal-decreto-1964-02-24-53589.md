@@ -1,5 +1,3 @@
-###DEC-053589-0-000-24-02-1964@@@
-
 Decreto nº 53.589, de 24 de fevereiro de 1964.
 
 Concede à Metais de Minas Gerais S.A. - “METAMING”, autorização para funcionar como emprêsa de mineração.

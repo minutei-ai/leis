@@ -1,5 +1,3 @@
-###DEC-056048-0-000-26-04-1965@@@
-
 DECRETO Nº 56.048, DE 26 DE ABRIL DE 1965.
 
 Autoriza Mineração Pato do Brasil Ltda. a pesquisar ouro, no município de Pôrto Nacional, Estado de Goiás.

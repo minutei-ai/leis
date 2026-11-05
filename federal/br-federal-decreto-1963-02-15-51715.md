@@ -1,5 +1,3 @@
-###DEC-051715-0-000-15-02-1963@@@
-
 Decreto nº 51.715, de 15 de fevereiro de 1963.
 
 Altera o art. 5º do Decreto nº 1.525, de 15 de novembro de 1962, que reorganizou a estrutura dos serviços técnicos e administrativos do Departamento Nacional de Estradas de Rodagem (DNER).

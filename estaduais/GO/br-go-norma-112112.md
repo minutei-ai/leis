@@ -16,10 +16,112 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">RECONSTRUÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 3323</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 20.000.000,00</td><td style=" width:85px;    ">R$ 20.000.000,00</td></tr><tr><td style=" width:85px;    ">MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 2538</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 57.000.000,00</td><td style=" width:85px;    ">R$ 57.000.000,00</td></tr><tr><td style=" width:85px;    ">HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 781 1055 2537</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 6.300.000,00</td><td style=" width:85px;    ">R$ 6.300.000,00</td></tr><tr><td style=" width:85px;    ">GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">15 451 1055 2536</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 4.507,99</td><td style=" width:85px;    ">R$ 6.700.000,00</td><td style=" width:85px;    ">R$ 6.704.507,99</td></tr><tr><td style=" width:85px;    ">PAVIMENTAÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO</td><td style=" width:85px;    ">26 782 1055 3317</td><td style=" width:85px;    ">25000100</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 140.440,09</td><td style=" width:85px;    ">R$ 10.000.000,00</td><td style=" width:85px;    ">R$ 10.140.440,09</td></tr></tbody></table>
+**4361-AGÊNCIA GOIANA DE INFRAESTRUTURA E TRANSPORTES - GOINFRA**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 100.000.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 100.000.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+RECONSTRUÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO
+
+26 782 1055 3323
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 20.000.000,00
+
+R$ 20.000.000,00
+
+MANUTENÇÃO DA INFRAESTRUTURA VIÁRIA - GOIÁS EM MOVIMENTO
+
+26 782 1055 2538
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 57.000.000,00
+
+R$ 57.000.000,00
+
+HOMOLOGAÇÃO DE AERÓDROMO - GOIÁS EM MOVIMENTO
+
+26 781 1055 2537
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 6.300.000,00
+
+R$ 6.300.000,00
+
+GESTÃO DA MANUTENÇÃO DA INFRAESTRUTURA MUNICIPAL - GOIÁS EM MOVIMENTO
+
+15 451 1055 2536
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 4.507,99
+
+R$ 6.700.000,00
+
+R$ 6.704.507,99
+
+PAVIMENTAÇÃO DE RODOVIAS - GOIÁS EM MOVIMENTO
+
+26 782 1055 3317
+
+25000100
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 140.440,09
+
+R$ 10.000.000,00
+
+R$ 10.140.440,09
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES
+
+R$ 100.000.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 100.000.000,00

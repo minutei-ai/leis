@@ -1,5 +1,3 @@
-###DEC-070543-0-000-16-05-1972@@@
-
 DECRETO Nº 70.543, DE 16 DE MAIO DE 1972.
 
 Autoriza o aterro, pelo Estado do Espírito Santo, de uma área de mar situado entre a ilha do Princípe e a Ilha da Vitória, e a cessão, sob o regime de aforamento, dos terrenos que menciona.

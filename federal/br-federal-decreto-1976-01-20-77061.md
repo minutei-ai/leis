@@ -1,5 +1,3 @@
-###DEC-077061-0-000-20-01-1976@@@
-
 DECRETO Nº 77.061, DE 20 DE JANEIRO DE 1976.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

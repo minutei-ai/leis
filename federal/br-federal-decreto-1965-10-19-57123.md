@@ -1,5 +1,3 @@
-###DEC-057123-0-000-19-10-1965@@@
-
 DECRETO Nº 57.123, DE 19 DE OUTUBRO DE 1965.
 
 Cria o Consulado honorário do Brasil em Mendoza, Argentina.

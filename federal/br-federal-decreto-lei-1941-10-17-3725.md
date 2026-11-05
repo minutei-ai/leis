@@ -1,5 +1,3 @@
-###DEL-003725-0-000-17-10-1941@@@
-
 DECRETO-LEI N. 3.725 – DE 17 DE OUTUBRO DE 1941
 
 Extingue o Arsenal de Marinha do Estado do Pará

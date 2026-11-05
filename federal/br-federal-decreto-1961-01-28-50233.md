@@ -1,5 +1,3 @@
-###DEC-050233-0-000-28-01-1961@@@
-
 DECRETO Nº 50.233, DE 28 JANEIRO DE 1961.
 
 Outorga concessão à Companhia de Rádio e Televisão Norte do Brasil para estabelecer uma estação de radiotelevisão.

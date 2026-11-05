@@ -1,5 +1,3 @@
-###DEC-060717-0-000-12-05-1967@@@
-
 DECRETO Nº 60.717, DE 12 DE MAIO DE 1967.
 
 Altera a redação de dispositivos do Regulamento Interno dos Serviços da Aeronáutica, aprovado pelo Decreto nº 40.043, de 27 de setembro de 1956.

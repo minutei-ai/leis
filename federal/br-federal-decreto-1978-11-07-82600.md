@@ -1,5 +1,3 @@
-###DEC-082600-0-000-07-11-1978@@@
-
 Decreto nº 82.600, de 07 de novembro de 1978.
 
 Autoriza o funcionamento do curso de Enfermagem da Fundação Municipal de Educação, Ciências e Letras de Cascavel, com sede na cidade de Cascavel, Estado do Paraná.

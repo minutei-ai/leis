@@ -1,5 +1,3 @@
-###DEC-056051-0-000-26-04-1965@@@
-
 DECRETO Nº 56.051, DE 26 DE ABRIL DE 1965.
 
 Autoriza o Govêrno do Estado do Paraná a pesquisar água mineral, no município de Guarapuava, Estado do Paraná.

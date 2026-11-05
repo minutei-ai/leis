@@ -1,5 +1,3 @@
-###DEC-053503-0-000-28-01-1964@@@
-
 DECRETO Nº 53.503, DE 28 DE JANEIRO DE 1964.
 
 Declara de utilidade pública para efeito de desapropriação, o imóvel que menciona, situado na cidade de Vitória, Estado do Espírito Santo e destinado à instalação e funcionamento da Junta de Conciliação e Julgamento da Justiça do Trabalho daquela cidade.

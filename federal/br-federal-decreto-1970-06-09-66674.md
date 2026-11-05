@@ -1,5 +1,3 @@
-###DEC-066674-0-000-09-06-1970@@@
-
 DECRETO Nº 66.674, DE 9 DE JUnHO DE 1970.
 
 Cria o 33º Batalhão de Infantaria e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094083-0-000-10-03-1987@@@
-
 DECRETO N° 94.083, DE 10 DE MARÇO DE 1987.
 
 Declara de utilidade pública as instituições que menciona.

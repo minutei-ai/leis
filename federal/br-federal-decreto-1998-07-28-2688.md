@@ -1,5 +1,3 @@
-###DEC-002688-0-000-28-07-1998@@@
-
 DECRETO Nº 2.688, DE 28 DE JULHO DE 1998
 
 Dispõe sobre a execução, em território nacional, das sanções contra a União Nacional para a Independência Total de Angola estabelecidas pela Resolução 1173 (1998) do Conselho de Segurança das Nações Unidas.

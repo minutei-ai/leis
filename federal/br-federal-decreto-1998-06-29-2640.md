@@ -1,5 +1,3 @@
-###DEC-002640-0-000-29-06-1998@@@
-
 DECRETO Nº 2.640, DE 29 DE JUNHO DE 1998
 
 Prorroga o prazo estabelecimento no art. 1º do Decreto nº 2.239, de 27 de maio de 1997.

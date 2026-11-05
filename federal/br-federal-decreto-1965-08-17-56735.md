@@ -1,5 +1,3 @@
-###DEC-056735-0-000-17-08-1965@@@
-
 DECRETO Nº 56.735, DE 17 de AGôSTO DE 1965.
 
 Autoriza o cidadão brasileiro Alexandre Misk a pesquisar diamante e ouro, no Município de Diamantina, Estado de Minas Gerais.

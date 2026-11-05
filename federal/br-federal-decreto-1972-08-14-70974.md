@@ -1,5 +1,3 @@
-###DEC-070974-0-000-14-08-1972@@@
-
 decreto nº 70.974, de 14 de agosto de 1972.
 
 Declara nulo decreto de caducidade de lavra, na parte que menciona.

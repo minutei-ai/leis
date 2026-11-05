@@ -1,5 +1,3 @@
-###DEC-071140-0-000-25-09-1972@@@
-
 Decreto nº 71.140, de 25 de setembro de 1972.
 
 Altera dispositivo do Regulamento para a Diretoria de Saúde da Marinha e dá outras providências.

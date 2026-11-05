@@ -1,5 +1,3 @@
-###DEC-071503-0-000-05-12-1972@@@
-
 DECRETO Nº 71.503 - DE 5 DE DEZEMBRO DE 1972
 
 Autoriza a contratação de operações de crédito externo para financiamento das obras do Aeroporto Internacional de Manaus, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-075515-0-000-19-03-1975@@@
-
 DECRETO Nº 75.515, DE 19 DE MARÇO DE 1975.
 
 Fixa o fator de reajustamento salarial relativo a março de 1975.

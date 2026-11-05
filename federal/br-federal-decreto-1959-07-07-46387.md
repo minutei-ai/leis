@@ -1,5 +1,3 @@
-###DEC-046387-0-000-07-07-1959@@@
-
 DECRETO Nº 46.387, DE 07 DE JULHO DE 1959.
 
 Altera o Decreto nº 45.195, de 31 de dezembro de 1958.

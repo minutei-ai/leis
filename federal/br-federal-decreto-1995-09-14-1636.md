@@ -1,7 +1,3 @@
-1
-
-###DEC-001636-0-000-14-09-1995@@@
-
 DECRETO Nº 1.636, DE 14 DE SETEMBRO DE 1995
 
 Institui a hora de verão, em parte do Território Nacional, no período que indica.

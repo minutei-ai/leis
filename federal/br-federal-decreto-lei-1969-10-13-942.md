@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1eb1b429-cc95-43fd-882b-3cc46ad34159/texto#nowhere)
 
-###DEL-000942-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 942, DE 13 DE OUTUBRO DE 1969
 
 Autoriza o Poder Executivo a abrir ao Ministério do Planejamento e Coordenação Geral o crédito suplementar de NCr$350.000.000,00, para o fim que especifica.

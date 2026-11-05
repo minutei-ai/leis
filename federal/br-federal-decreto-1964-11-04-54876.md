@@ -1,5 +1,3 @@
-###DEC-054876-0-000-04-11-1964@@@
-
 DECRETO Nº 54.876, DE 4 DE Novembro DE 1964.
 
 Concede à Mineração Vale do Itapecurú S. A. autorização para funcionar como emprêsa de Mineração.

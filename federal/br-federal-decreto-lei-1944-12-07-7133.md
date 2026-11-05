@@ -1,5 +1,3 @@
-###DEL-007133-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.133 – DE 7 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a distribuição de créditos destinados a despesas de material da Casa da Moeda

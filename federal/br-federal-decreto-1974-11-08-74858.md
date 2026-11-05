@@ -1,5 +1,3 @@
-###DEC-074858-0-000-08-11-1974@@@
-
 DECRETO Nº 74.858, de 8 DE NOVEMBRO DE 1974.
 
 Concede reconhecimento ao curso de ciências da Faculdade de Educação, Ciências e Letras da Região dos Vinhedos, mantida pela Fundação Educacional da Região dos Vinhedos, com sede na cidade de Bento Gonçalves, Estado do Rio Grande do Sul.

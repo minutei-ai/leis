@@ -1,5 +1,3 @@
-###DEC-007910-0-000-05-02-2013-PUB-01@@@
-
 DECRETO Nº 7.910, DE 5 DE FEVEREIRO DE 2013
 
 Revoga o Decreto nº 5.521, de 25 de agosto de 2005, que altera o Decreto nº 4.797, de 31 de julho de 2003, que dispõe sobre a Ordem Nacional do Mérito Educativo, e dá outras providências.

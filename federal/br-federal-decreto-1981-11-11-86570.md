@@ -1,5 +1,3 @@
-###DEC-086570-0-000-11-11-1981@@@
-
 Decreto nº 86.570, de 11 novembro de 1981
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ.

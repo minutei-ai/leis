@@ -1,5 +1,3 @@
-###DEC-002781-0-000-14-09-1998@@@
-
 DECRETO Nº 2.781, DE 14 DE SETEMBRO DE 1998
 
 Institui o Programa Nacional de Combate ao Contrabando e ao Descaminho.

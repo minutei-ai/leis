@@ -1,5 +1,3 @@
-###DEC-088557-0-000-01-08-1983@@@
-
 Decreto nº 88.557, de 01 de agosto de 1983.
 
 Concede à empresa Lineas Aereas del Caribe S/A - LAC autorização para funcionar no Brasil, como empresa de transporte aéreo de carga.

@@ -1,5 +1,3 @@
-###DEC-050485-0-000-25-04-1961@@@
-
 DECRETO Nº 50.485, DE 25 DE ABRIL DE 1961.
 
 Regulamenta o Art. 37 da Lei nº 3.244, de 14 de agôsto de 1957, e dá outras providências.

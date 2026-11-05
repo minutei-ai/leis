@@ -1,5 +1,3 @@
-###DEL-004186-0-000-16-03-1942@@@
-
 DECRETO-LEI N. 4.186 – DE 16 DE MARÇO DE 1942
 
 Altera a composição do Conselho Nacional de Minas e Metalurgia.

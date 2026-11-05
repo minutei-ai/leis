@@ -1,5 +1,3 @@
-###DEC-079515-0-000-13-04-1977@@@
-
 DECRETO Nº 79.515, DE 13 DE ABRIL DE 1977.
 
 Concede à Firma Individual Noêmia Barsi de Almeida o direito de lavrar minério de ouro no Município de Anicuns, Estado de Goiás,

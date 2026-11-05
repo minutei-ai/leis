@@ -1,5 +1,3 @@
-###DEL-007371-0-000-12-03-1945@@@
-
 DECRETO-LEI N. 7.371 – DE 12 DE MARÇO DE 1945
 
 Suspendo, pelo prazo de seis meses, a cobrança dos direitos e taxas aduaneiras que incidem sôbre o xarque, milho e cebola, e dá outras providências

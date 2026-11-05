@@ -1,5 +1,3 @@
-###DEC-058331-0-000-03-05-1966@@@
-
 DECRETO Nº 58.331, DE 3 DE MAIO DE 1966.
 
 Outorga à Sociedade Anônima de Eletrificação da Paraíba concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 3 de maio de 1966; 145º da Independência e 78º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-058331-0-000-03-05-1966@@@RET01+++
 
 DECRETO Nº 58.331, DE 3 DE MAIO DE 1966.
 

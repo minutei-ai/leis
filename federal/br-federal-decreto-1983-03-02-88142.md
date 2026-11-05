@@ -1,5 +1,3 @@
-###DEC-088142-0-000-02-03-1983@@@
-
 DECRETO nº 88.142, de 02 de março de 1983
 
 Dispõe sobre a constituição do Conselho de Administração da Superintendência da Zona Franca de Manaus (SUFRAMA), e dá outras providências,

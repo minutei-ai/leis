@@ -1,5 +1,3 @@
-###DEL-001461-0-000-23-04-1976@@@
-
 # DECRETO-LEI Nº 1.461, DE 23 De ABRiL DE 1976
 
 Reajusta os vencimentos e proventos dos servidores das Secretarias dos Tribunais Regionais Eleitorais e dá outras providências.

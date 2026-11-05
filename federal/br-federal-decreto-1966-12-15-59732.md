@@ -1,5 +1,3 @@
-###DEC-059732-0-000-15-12-1966@@@
-
 DECRETO Nº 59.732, DE 15 DE DEZEmBRO DE 1966.
 
 Autoriza o cidadão brasileiro Pedro Heitor Dante Violani a lavrar caulim , no município de Campo Largo , no Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-072780-0-000-11-09-1973@@@
-
 DECRETO Nº 72.780, DE 11 DE SETEMBRO DE 1973.
 
 Concede autorização à Organização "Centre National Pour L'Exploitation Des Oceans", de nacionalidade francesa, para realizar, no mar territorial do Brasil, os serviços que especifica.

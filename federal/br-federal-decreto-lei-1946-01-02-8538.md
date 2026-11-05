@@ -1,5 +1,3 @@
-###DEL-008538-0-000-02-01-1946@@@
-
 DECRETO-LEI N. 8.538 – DE 2 DE JANEIRO DE 1946
 
 Modifica a incidência do imposto de consumo sobre fumo, constante da alínea XXIV, Tabela D, do Decreto-lei nº 7.404, de 22 de março de 1945

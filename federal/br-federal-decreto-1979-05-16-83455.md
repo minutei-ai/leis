@@ -1,5 +1,3 @@
-###DEC-083455-0-000-16-05-1979@@@
-
 Decreto nº 83.455, de 16 de maio de 1979.
 
 Revoga o Decreto nº 82.240, de 11 de setembro de 1978.

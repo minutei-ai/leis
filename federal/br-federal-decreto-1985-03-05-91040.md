@@ -1,5 +1,3 @@
-###DEC-091040-0-000-05-03-1985@@@
-
 DECReto Nº 91.040, de 05 de MARÇO de 1985
 
 Autoriza o funcionamento do curso de História da Faculdade de Ciências e Letras da Fundação Municipal de Ensino Superior de Bragança Paulista - SP.

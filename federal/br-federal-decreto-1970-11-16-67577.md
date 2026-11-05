@@ -1,14 +1,12 @@
-###DEC-067577-0-000-16-11-1970@@@
+**DECRETO Nº 67.577, DE 16 DE NOVEMBRO DE 1970.**
 
-<strong>DECRETO Nº 67.577, DE 16 DE NOVEMBRO DE 1970.</strong>
+***Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.***
 
-<em><strong>Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 81, item III da Constituição, e tendo em vista o disposto no artigo 205, do Decreto-lei nº 9.760, de 5 de setembro de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 81, item III da Constituição, e tendo em vista o disposto no artigo 205, do Decreto-lei nº 9.760, de 5 de setembro de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam autorizados:
+**Art**. 1º Ficam autorizados:
 
 a) a adquirir o domínio útil, em transferência de aforamento:
 
@@ -32,10 +30,10 @@ d) a adquirir direito de preferência ao aforamento:
 
 Raul Henrique Southall, de nacionalidade argentina, da fração ideal de 66/2070 do terreno de marinha situado na Avenida Atlântica nº 3.150, correspondente ao apartamento nº 401, no Estado da Guanabara, conforme processo protocolizado no Ministério da Fazenda sob nº 217.458, de 1967.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 16 de novembro de 1970; 149º da Independência e 82º da República.
 
-<strong>EMÍLIO G. MÉDICI.</strong>
+**EMÍLIO G. MÉDICI.**
 
 Antônio Delfim Netto

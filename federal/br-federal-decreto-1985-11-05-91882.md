@@ -1,5 +1,3 @@
-###DEC-091882-0-000-05-11-1985@@@
-
 decreto nº 91.882, de 05 de novembro de 1985
 
 Renova a concessão outorgada à RÁDIO DIFUSORA DE LONDRINA LTDA., para explorar serviço de radiodifusão sonora em ondas tropicais, na cidade Londrina, Estado do Paraná.

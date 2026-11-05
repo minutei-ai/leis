@@ -1,5 +1,3 @@
-###DEL-009729-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.729 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 610.639,80, para pagamento à Caixa de Aposentadoria e Pensões dos Serviços Aéreos e Tele-Comunicações.

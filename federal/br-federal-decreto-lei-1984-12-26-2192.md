@@ -1,5 +1,3 @@
-###DEL-002192-0-000-26-12-1984@@@
-
 # Decreto-lei nº 2.192, de 26 de dezembro de 1984
 
 Restabelece a carreira de Procurador da Fazenda Nacional e fixa os respectivos vencimentos básicos.

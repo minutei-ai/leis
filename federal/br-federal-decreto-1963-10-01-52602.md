@@ -1,5 +1,3 @@
-###DEC-052602-0-000-01-10-1963@@@
-
 DECRETO Nº 52.602, DE 1º de OUTUBRO DE 1963.
 
 Transfere da Prefeitura Municipal de Itapecerica para Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no Município de Itapecerica, e dá outras providências.

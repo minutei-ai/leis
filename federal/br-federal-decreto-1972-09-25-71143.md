@@ -1,5 +1,3 @@
-###DEC-071143-0-000-25-09-1972@@@
-
 DECRETO Nº 71.143, de 25 de Setembro de 1972.
 
 Autoriza o funcionamento da Faculdade de Ciências Jurídicas, Contábeis e Administrativas das Faculdades Integradas Santo Antônio - São Paulo - SP.

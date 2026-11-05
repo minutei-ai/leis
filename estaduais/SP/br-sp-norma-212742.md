@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212742)<br>
-
 # LEI N° 18.489, DE 16 DE JUNHO DE 2026
 
 ## (Projeto de lei n° 595/2025, do Deputado André Bueno – PL)

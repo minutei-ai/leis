@@ -1,5 +1,3 @@
-###DEC-061007-0-000-13-07-1967@@@
-
 DECRETO Nº 61.007, DE 13 DE JULHO DE 1967.
 
 Altera o Art. 16 Inciso V do Capitulo IV do Regulamento para as Escolas de Marinha Mercante, aprovado pelo Decreto nº 1.424, de 28 de setembro de 1962.

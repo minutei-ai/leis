@@ -97,7 +97,3 @@ Israel Pinheiro da Silva
 Cristiano Monteiro Machado
 
 Odilon Dias Pereira
-
-\=================================
-
-Data da última atualização:10/8/2017.

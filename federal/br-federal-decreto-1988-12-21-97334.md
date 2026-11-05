@@ -1,5 +1,3 @@
-###DEC-097334-0-000-21-12-1988@@@
-
 DECRETO Nº 97.334, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Administração das Faculdades Integradas de Cassilândia.

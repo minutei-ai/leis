@@ -1,5 +1,3 @@
-###DEC-060676-0-000-03-05-1967@@@
-
 DECRETO Nº 60.676, DE 3 DE MAIO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério das Minas e Energia.

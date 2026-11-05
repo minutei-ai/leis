@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/157828)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2009/compilacao-lei-13723-29.09.2009.html)
 
 # LEI N° 13.723, DE 29 DE SETEMBRO DE 2009
@@ -7,7 +6,8 @@
 
 ### _Autoriza o Poder Executivo a ceder, a título oneroso, os direitos creditórios originários de créditos tributários e não tributários, objeto de parcelamentos administrativos ou judiciais, na forma que especifica._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
 Faço saber que a Assembleia Legislativa decreta e eu promulgo a seguinte lei:
 
 ~~**Artigo 1° -** Fica o Poder Executivo autorizado a ceder, a título oneroso, à sociedade de propósito específico a que se refere o artigo 8° desta lei, ou à Companhia Paulista de Parcerias - CPP, ou, ainda, a fundo de investimento em direitos creditórios, constituído de acordo com as normas da Comissão de Valores Mobiliários, os direitos creditórios originários de créditos tributários e não tributários, objeto de parcelamentos administrativos ou judiciais, relativos ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, ao Imposto de Transmissão "Causa Mortis" e Doação de Quaisquer Bens ou Direitos - ITCMD, ao Imposto sobre a Propriedade de Veículos Automotores - IPVA, às taxas de qualquer espécie e origem, às multas administrativas de natureza não tributária, às multas contratuais, aos ressarcimentos e às restituições e indenizações.~~
@@ -66,12 +66,18 @@ VII - realizar-se até 90 (noventa) dias antes da data de encerramento do mandat
 
 _\- Inciso VII acrescentado pela [Lei n° 17.293, de 15/10/2020](https://www.al.sp.gov.br/norma/195740)._
 
-**Artigo 3° -** Para os fins desta lei, o valor mínimo da cessão não poderá ser inferior ao do saldo atualizado do parcelamento, excluídos juros e demais acréscimos financeiros incidentes sobre as parcelas vincendas.**<br>
-Artigo 4° -** O cessionário não poderá efetuar nova cessão dos direitos creditórios cedidos na forma desta lei, salvo anuência expressa do Estado.**<br>
-Artigo 5° -** A cessão dos direitos creditórios originados de créditos tributários será sempre parcial, ficando excluída a parcela pertencente aos Municípios, nos termos do disposto nos incisos III e IV do artigo 158 e no artigo 159 da Constituição Federal.**<br>
-Parágrafo único -** Os Municípios continuarão a receber os recursos que trata o "caput" deste artigo nos prazos e percentuais previstos na legislação de regência, no momento da concretização dos respectivos pagamentos pelos contribuintes, o mesmo ocorrendo em relação às demais receitas vinculadas, em conformidade com as disposições da Constituição Federal e da Constituição do Estado.**<br>
-Artigo 6° -** A cessão deverá ser disciplinada em instrumento específico, com individualização dos direitos creditórios cedidos, aplicando-se, no que couber, os dispositivos pertinentes do Código Civil, instituído pela Lei federal no 10.406, de 10 de janeiro de 2002.**<br>
-Parágrafo único -** A cessão far-se-á em caráter definitivo, sem assunção, pelo Estado, perante o cessionário, de responsabilidade pelo efetivo pagamento a cargo do contribuinte ou de qualquer outra espécie de compromisso financeiro que possa, nos termos da Lei Complementar federal no 101, de 4 de maio de 2000, caracterizar operação de crédito.**<br>
+**Artigo 3° -** Para os fins desta lei, o valor mínimo da cessão não poderá ser inferior ao do saldo atualizado do parcelamento, excluídos juros e demais acréscimos financeiros incidentes sobre as parcelas vincendas.**
+
+Artigo 4° -** O cessionário não poderá efetuar nova cessão dos direitos creditórios cedidos na forma desta lei, salvo anuência expressa do Estado.**
+
+Artigo 5° -** A cessão dos direitos creditórios originados de créditos tributários será sempre parcial, ficando excluída a parcela pertencente aos Municípios, nos termos do disposto nos incisos III e IV do artigo 158 e no artigo 159 da Constituição Federal.**
+
+Parágrafo único -** Os Municípios continuarão a receber os recursos que trata o "caput" deste artigo nos prazos e percentuais previstos na legislação de regência, no momento da concretização dos respectivos pagamentos pelos contribuintes, o mesmo ocorrendo em relação às demais receitas vinculadas, em conformidade com as disposições da Constituição Federal e da Constituição do Estado.**
+
+Artigo 6° -** A cessão deverá ser disciplinada em instrumento específico, com individualização dos direitos creditórios cedidos, aplicando-se, no que couber, os dispositivos pertinentes do Código Civil, instituído pela Lei federal no 10.406, de 10 de janeiro de 2002.**
+
+Parágrafo único -** A cessão far-se-á em caráter definitivo, sem assunção, pelo Estado, perante o cessionário, de responsabilidade pelo efetivo pagamento a cargo do contribuinte ou de qualquer outra espécie de compromisso financeiro que possa, nos termos da Lei Complementar federal no 101, de 4 de maio de 2000, caracterizar operação de crédito.**
+
 Artigo 7° -** Nos procedimentos necessários à formalização da cessão prevista no artigo 1° desta lei, o Estado preservará o sigilo relativamente a qualquer informação sobre a situação econômica ou financeira do contribuinte, do devedor ou de terceiros e sobre a natureza e o estado dos respectivos negócios ou atividades.
 
 ~~Artigo 8° - Fica o Poder Executivo autorizado a constituir sociedade de propósito específico, sob a forma de sociedade por ações com a maioria absoluta do capital votante detida pelo Estado, vinculada à Secretaria da Fazenda, tendo por objeto social a estruturação e implementação de operações que envolvam a emissão e distribuição de valores mobiliários ou outra forma de obtenção de recursos junto ao mercado de capitais, lastreadas nos direitos creditórios a que se refere o artigo 1° desta lei.~~
@@ -112,15 +118,26 @@ _\- Parágrafo único acrescentado pela [Lei n° 17.293, de 15/10/2020](https:/
 
 _\- Vide [Decreto n° 55.534, de 04/03/2010](https://www.al.sp.gov.br/norma/159100)._
 
-**Artigo 11 -** Para atender às despesas decorrentes da execução desta lei, fica o Poder Executivo autorizado a abrir crédito especial, até o limite de R$ 100.000,00 (cem mil reais), destinados à integralização do capital social da sociedade por ações mencionada no artigo 8°.**<br>
-Parágrafo único -** O valor do crédito especial a que se refere este artigo será coberto na forma prevista no § 1° do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.**<br>
-Artigo 12 -** Esta lei entra em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 29 de setembro de 2009<br>
-JOSÉ SERRA<br>
-Mauro Ricardo Machado Costa<br>
-Secretário da Fazenda<br>
-Francisco Vidal Luna<br>
-Secretário de Economia e Planejamento<br>
-Aloysio Nunes Ferreira Filho<br>
-Secretário-Chefe da Casa Civil<br>
+**Artigo 11 -** Para atender às despesas decorrentes da execução desta lei, fica o Poder Executivo autorizado a abrir crédito especial, até o limite de R$ 100.000,00 (cem mil reais), destinados à integralização do capital social da sociedade por ações mencionada no artigo 8°.**
+
+Parágrafo único -** O valor do crédito especial a que se refere este artigo será coberto na forma prevista no § 1° do artigo 43 da Lei federal n° 4.320, de 17 de março de 1964.**
+
+Artigo 12 -** Esta lei entra em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 29 de setembro de 2009
+
+JOSÉ SERRA
+
+Mauro Ricardo Machado Costa
+
+Secretário da Fazenda
+
+Francisco Vidal Luna
+
+Secretário de Economia e Planejamento
+
+Aloysio Nunes Ferreira Filho
+
+Secretário-Chefe da Casa Civil
+
 Publicada na Assessoria Técnico-Legislativa, aos 29 de setembro de 2009.

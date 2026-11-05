@@ -1,5 +1,3 @@
-###DEL-008292-0-000-05-12-1945@@@
-
 DECRETO-LEI N. 8.292 – DE 5 DE DEZEMBRO DE 1945
 
 Declara feriado para efeitos forenses o dia 8 de dezembro

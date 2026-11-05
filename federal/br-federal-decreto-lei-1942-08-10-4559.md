@@ -1,5 +1,3 @@
-###DEL-004559-0-000-10-08-1942@@@
-
 DECRETO-LEI N. 4.559 – DE 10 DE AGOSTO DE 1942
 
 Eleva o padrão de vencimento dos escrivães do crime e dos oficiais de justiça da Justiça do Território do Acre

@@ -1,5 +1,3 @@
-###DEC-072966-0-000-19-10-1973@@@
-
 DECRETO Nº 72.966, DE 19 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis necessários à expansão do "Campus" da Universidade Federal da Bahia e dá outras providências.

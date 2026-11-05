@@ -1,5 +1,3 @@
-###DEC-071188-0-000-03-10-1972@@@
-
 decreto nº 71.188 - de 3 de outubro de 1972.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Ouro Fino, Minas Gerais.

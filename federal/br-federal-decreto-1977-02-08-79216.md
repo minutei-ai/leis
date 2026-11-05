@@ -1,5 +1,3 @@
-###DEC-079216-0-000-08-02-1977@@@
-
 DECRETO Nº 79.216, DE 8 DE FEVEREIRO DE 1977.
 
 Altera o Decreto nº 78.653-76, de 27 de outubro de 1976, que autoriza o funcionamento do curso de Ciências, da Faculdade Estadual de Filosofia, Ciências e Letras de União da Vitória, Estado do Paraná.

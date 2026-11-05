@@ -1,5 +1,3 @@
-###DEC-091001-0-000-27-02-1985@@@
-
 Decreto nº 91.001, de 27 de fevereiro de 1985
 
 Fixa o limite a que se refere o artigo 12, da Lei nº 7.238, da 29 de outubro de 1984.

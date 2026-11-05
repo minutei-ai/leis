@@ -1,7 +1,3 @@
-1
-
-###DEC-001614-0-000-30-08-1995@@@
-
 DECRETO Nº 1.614, DE 30 DE AGOSTO DE 1995.
 
 Dispõe sobre o remanejamento de cargos em comissão que menciona.

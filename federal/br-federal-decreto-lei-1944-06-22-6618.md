@@ -1,5 +1,3 @@
-###DEL-006618-0-000-22-06-1944@@@
-
 DECRETO-LEI N. 6.618 – DE 22 DE JUNHO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 7.896,80, para pagamento de gratificação de magistério

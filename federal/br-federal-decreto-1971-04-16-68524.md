@@ -1,5 +1,3 @@
-###DEC-068524-0-000-16-04-1971@@@
-
 Decreto nº 68.524 - de 16 de abril de 1971.
 
 Dispõe sôbre a participação da iniciativa privada na implantação de projetos de colonização nas zonas prioritárias para a Reforma Agraria, nas áreas do Programa de Integração Nacional e nas terras devolutas da União na Amazônia Legal.

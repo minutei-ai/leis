@@ -8,7 +8,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Fica declarada a situação de emergência em saúde pública no Estado de Goiás em razão do cenário epidemiológico da Síndrome Respiratória Aguda Grave – SRAG, conforme a Portaria GM/MS nº 7.211, de 11 de junho de 2025, do Ministério da Saúde – MS.
 
-Art. 1º-A Consideradas as elevadas taxas de ocupação de leitos de unidades de terapia intensiva – UTIs pediátricas em decorrência do aumento de casos da SRAG, fica estendida ao público infantil a declaração da situação de emergência em saúde pública no Estado de Goiás de que trata o art. 1º deste Decreto, nos termos da Portaria GM/MS nº 6.914, de 5 de maio de 2025, do Ministério da Saúde.<br>
+Art. 1º-A Consideradas as elevadas taxas de ocupação de leitos de unidades de terapia intensiva – UTIs pediátricas em decorrência do aumento de casos da SRAG, fica estendida ao público infantil a declaração da situação de emergência em saúde pública no Estado de Goiás de que trata o art. 1º deste Decreto, nos termos da Portaria GM/MS nº 6.914, de 5 de maio de 2025, do Ministério da Saúde.
+
 \- [Acrescido pelo Decreto nº 10.776, de 8-9-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111229/decreto-10776).
 
 Art. 2º Fica instalado o Centro de Operações de Emergências em Saúde por Síndrome Respiratória Aguda Grave – COE-SRAG, em substituição à Sala de Situação de Vírus Respiratórios, instalada em 15 de maio de 2025 pela Secretaria de Estado da Saúde – SES.

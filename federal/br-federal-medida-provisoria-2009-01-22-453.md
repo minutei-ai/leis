@@ -1,5 +1,3 @@
-###MPV-000453-0-000-22-01-2009@@@
-
 MEDIDA PROVISÓRIA Nº 453, DE 22 DE JANEIRO DE 2009.
 
 Constitui fonte adicional de recursos para ampliação de limites operacionais do Banco Nacional de Desenvolvimento Econômico e Social - BNDES e dá outras providências.       

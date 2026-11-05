@@ -1,5 +1,3 @@
-###DEC-082428-0-000-16-10-1978@@@
-
 Decreto nº 82.428, de 16 DE outubro de 1978.
 
 Concede à Mineração Faísca Ltda o direito de lavrar crisoberilo, pedras coradas e quartzo no Município de Teófilo Otoni,  Estado de Minas Gerais.

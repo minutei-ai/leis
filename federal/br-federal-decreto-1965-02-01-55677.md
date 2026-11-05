@@ -1,5 +1,3 @@
-###DEC-055677-0-000-01-02-1965@@@
-
 DECRETO Nº 55.677, de 1 de fevereiro de 1965.
 
 Aprova alteração introduzida nos Estatutos da Transatlântica Companhia Nacional de Seguros, relativa ao aumento do capital social.

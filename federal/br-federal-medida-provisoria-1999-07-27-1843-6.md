@@ -1,5 +1,3 @@
-###MPV-001843-0-006-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.843-6, DE 27 DE JULHO DE 1999.
 
 Autoriza a União a adquirir ou pagar obrigações de Pessoa Jurídica de direito público interno, relativas a operações financeiras externas, e dá outras providências.

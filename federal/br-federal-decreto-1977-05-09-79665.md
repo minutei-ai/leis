@@ -1,5 +1,3 @@
-###DEC-079665-0-000-09-05-1977@@@
-
 DECRETO Nº 79.665, DE 9 DE MAIO DE 1977.
 
 Declara de utilidade pública, de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-079636-0-000-02-05-1977@@@
-
 DECRETO Nº 79.636, DE 2 DE MAIO DE 1977.
 
 Retifica a concessão de lavra outorgada à Cerâmica Martini S.A., pelo Decreto nº 70.510, de 12 de maio de 1972.

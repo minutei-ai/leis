@@ -1,5 +1,3 @@
-###DEL-008082-0-000-12-10-1945@@@
-
 DECRETO-LEI N. 8.082 – DE 12 DE OUTUBRO DE 1945
 
 Eleva padrão de vencimentos de cargos em comissão do Ministério da Viação e Obras Públicas, e abre crédito suplementar ao mesmo Ministério.

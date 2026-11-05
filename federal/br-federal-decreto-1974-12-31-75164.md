@@ -1,5 +1,3 @@
-###DEC-075164-0-000-31-12-1974@@@
-
 DECRETO Nº 75.164, DE 31 DE DEZEMBRO DE 1974.
 
 Autoriza o funcionamento do curso de Artes Práticas da Faculdade de Educação de Monte Aprazível, mantida pela Sociedade Civil Dom Bosco de Monte Aprazível, Estado de São Paulo.

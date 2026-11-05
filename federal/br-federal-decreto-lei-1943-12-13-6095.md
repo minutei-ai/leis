@@ -1,5 +1,3 @@
-###DEL-006095-0-000-13-12-1943@@@
-
 DECRETO‑LEI N. 6.095 – DE 13 DE DEZEMBRO DE 1943
 
 Cria, no Ministério da Marinha, medalhas militares

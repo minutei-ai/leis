@@ -1,14 +1,16 @@
 > **LEI Nº 4.324, DE 05 DE JANEIRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a regulamentação da prática esportiva eletrônica no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a regulamentação da prática esportiva eletrônica no Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
 **FAÇO SABER** que a Assembleia Legislativa do Estado do Acre decreta e eu sanciono a seguinte Lei:
 
 **Art. 1°** O exercício da atividade esportiva eletrônica no Estado, obedecerá ao disposto nesta Lei.
-
-<br>
 
 **Parágrafo único.** Entende-se por esporte eletrônico as atividades que, fazendo uso de artefatos eletrônicos, caracteriza a competição de dois ou mais participantes, no sistema de ascenso e descenso misto de competição, com utilização do **round-robin tournament systems** e o **knockout systems**.
 

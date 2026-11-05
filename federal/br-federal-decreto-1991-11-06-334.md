@@ -1,7 +1,3 @@
-1
-
-###DEC-000334-0-000-06-11-1991@@@
-
 DECRETO N° 334, DE 6 DE NOVEMBRO DE 1991
 
 Altera os §§ 4° e 5° do art. 1° do Decreto n° 317, de 30 de outubro de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###MPV-000449-0-000-03-12-2008@@@
-
 MEDIDA PROVISÓRIA Nº 449, DE 3 DE DEZEMBRO DE 2008.
 
 Altera a legislação tributária federal relativa ao parcelamento ordinário de débitos tributários, concede remissão nos casos em que especifica, institui regime tributário de transição, e dá outras providências.         

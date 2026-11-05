@@ -1,5 +1,3 @@
-###DEC-079618-0-000-28-04-1977@@@
-
 Decreto nº 79.618, de 28 de abril de 1977.
 
 Concede à EMIBRA- Empresa de Minérios Brasil Norte- Nordeste Ltda., o direito de lavrar opala no Município de Pedro II, Estado do Piauí.

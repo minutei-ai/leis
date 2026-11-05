@@ -1,5 +1,3 @@
-###DEC-056763-0-000-20-08-1965@@@
-
 Decreto nº 56.763, de 20 de agôsto de 1965.
 
 Autoriza o cidadão brasileiro Hélio Alves Brito a lavrar filito argiloso, no município de Santana de Parnaíba, no Estado de São Paulo.

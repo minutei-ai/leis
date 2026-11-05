@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/7c583c97-5d8b-4e0b-ad78-3aad5779b5fa/texto#nowhere)
 
-###DEL-000791-0-000-27-08-1969@@@
-
 DECRETO-LEI Nº 791, DE 27 DE AGÔSTO DE 1969
 
 Dispõe sôbre o pedágio em rodovias federais e dá outras providências.

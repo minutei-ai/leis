@@ -1,5 +1,3 @@
-###DEC-067218-0-000-18-09-1970@@@
-
 DECRETO Nº 67.218, DE 18 DE SETEMBRO DE 1970.
 
 Declara de utilidade pública a Congregação dos Padres do Sagrado Coração de Jesus, com sede em São Pauli, Estado de São Paulo, e as congregadas que enumera.

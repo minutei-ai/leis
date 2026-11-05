@@ -1,5 +1,3 @@
-###DEC-059987-0-000-10-01-1967@@@
-
 decreto nº 59.987, de 10 de janeiro de 1967.
 
 Autoriza o cidadão brasileiro Jair Alberto Neumann a pesquisar quartzo, feldspato, mica e caulim no município de Santo Antônio da Grama, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-007926-0-000-03-09-1945@@@
-
 DECRETO-LEI N. 7.926 – DE 3 DE SETEMBRO DE 1945
 
 Dispõe sôbre o alistamento eleitoral.

@@ -1,5 +1,3 @@
-###DEC-007549-0-000-12-08-2011-PUB-01@@@
-
 DECRETO Nº 7.549, DE 12 DE AGOSTO DE 2011.
 
   Dispõe sobre a execução, no Território Nacional, da Resolução nº 1946, de 15 de outubro de 2010, do Conselho de Segurança das Nações Unidas, que renova o regime de sanções contra a República da Costa do Marfim.

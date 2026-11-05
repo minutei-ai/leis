@@ -1,5 +1,3 @@
-###DEC-092675-0-000-16-05-1986@@@
-
 DECRETO Nº 92.675, DE 16 DE MAIO DE 1986
 
 Altera dispositivo do Decreto nº 86.686, de 03 de dezembro de 1981.

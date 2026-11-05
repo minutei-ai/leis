@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72608)
-
 # LEI Nº 12.634, DE 26 DE JUNHO DE 2007
 
 ## (Projeto de lei nº 716/2006, do Deputado Aldo Demarchi - PFL)

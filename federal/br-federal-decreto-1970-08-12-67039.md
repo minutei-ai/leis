@@ -1,5 +1,3 @@
-###DEC-067039-0-000-12-08-1970@@@
-
 decreto nº 67.039, de 12 de agôsto de 1970.
 
 Autoriza a cessão, nas condições que menciona, do próprio nacional denominado "Alfândega de Salvador", situado em Salvador, Estado da Bahia.

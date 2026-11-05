@@ -1,5 +1,3 @@
-###DEC-005092-0-000-21-05-2004@@@
-
 DECRETO Nº 5.092,  DE 21 DE MAIO DE 2004
 
 Define regras para identificação de áreas prioritárias para a conservação, utilização sustentável e repartição dos benefícios da biodiversidade, no âmbito das atribuições do Ministério do Meio Ambiente.

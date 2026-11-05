@@ -1,5 +1,3 @@
-###DEL-009019-0-000-25-02-1946@@@
-
 DECRETO-LEI N. 9.019 – DE 25 DE FEVEREIRO DE 1946
 
 Autoriza o preenchimento imediato de cargos vagos do Quadro Permanente do Ministério do Trabalho, Indústria e Comércio e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-002474-0-000-26-01-1998@@@
-
 DECRETO Nº 2.474, DE 26 DE JANEIRO DE 1998
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.340, de 7 de outubro de 1997.

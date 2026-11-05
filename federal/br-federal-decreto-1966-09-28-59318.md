@@ -1,5 +1,3 @@
-###DEC-059318-0-000-28-09-1966@@@
-
 DECRETO Nº 59.318, DE 28 DE SETEMBRO DE 1966.
 
 Cria a “Comissão de Construção da Base Naval de Aratu”, e dá outras providencias.

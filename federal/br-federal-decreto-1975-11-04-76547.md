@@ -1,5 +1,3 @@
-###DEC-076547-0-000-04-11-1975@@@
-
 DECRETO Nº 76.547, DE 4 DE NOVEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências Biológicas da Universidade Estadual de Campinas, Estado de São Paulo.

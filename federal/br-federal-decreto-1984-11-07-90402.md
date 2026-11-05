@@ -1,5 +1,3 @@
-###DEC-090402-0-000-07-11-1984@@@
-
 DECRETO nº 90.402, de 07 de NOVEMBRO de 1984.
 
 Autoriza a funcionamento do curso de Ciências Contábeis da Faculdade de Ciências Econômicas do Sul de Minas.

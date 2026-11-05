@@ -1,5 +1,3 @@
-###DEC-051172-0-000-09-08-1961@@@
-
 decreto nº 51.172, de 9 de agÔsto de 1961.
 
 Assegura preços mínimos à produção de juta e malva da Bacia Amazônica, da safra de 1962 e remanescentes da de 1961.

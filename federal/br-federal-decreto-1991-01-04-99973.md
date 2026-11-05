@@ -1,5 +1,3 @@
-###DEC-099973-0-000-04-01-1991@@@
-
 DECRETO Nº 99.973, DE 4 DE JANEIRO DE 1991.
 
 Outorga à ExTRAMIL - Extração e Tratamento de Minérios S.A. concessão para aproveitamento de energia hidráulica, para uso exclusivo, no Ribeirão Cocais Grande, Estado de Minas Gerais, no trecho que menciona.

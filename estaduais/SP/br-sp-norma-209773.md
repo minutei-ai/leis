@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209773)<br>
-
 # DECRETO N° 68.723, DE 25 DE JULHO DE 2024
 
 ### _Dispõe sobre a concessão de abono complementar aos servidores, na forma que especifica, em cumprimento ao estabelecido na Lei federal n° 11.738, de 16 de julho de 2008._

@@ -1,5 +1,3 @@
-###DEC-004427-0-000-17-10-2002@@@
-
 DECRETO Nº 4.427, DE 17 DE OUTUBRO DE 2002
 
 Dá nova redação ao caput do art. 32 e § 1da Lei nº 10.180, de 6 de fevereiro de 2001, que organiza e disciplina os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal.

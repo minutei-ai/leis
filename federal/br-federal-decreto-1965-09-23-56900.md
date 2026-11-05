@@ -1,5 +1,3 @@
-###DEC-056900-0-000-23-09-1965@@@
-
 DECRETO Nº 56.900, de 23 DE SETEMBRO DE 1965.
 
 Dispõe sôbre o regimento de corretagem de seguros na forma da Lei número 4.594, de 29 de dezembro de 1964, e dá outras providências.

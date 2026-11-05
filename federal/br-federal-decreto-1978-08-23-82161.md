@@ -1,5 +1,3 @@
-###DEC-082161-0-000-23-08-1978@@@
-
 Decreto nº 82.161, de 23 de agosto de 1978.
 
 Altera dispositivos do Decreto nº 62.860, de 18 de junho de 1968, que estabelece a Estrutura Básica da Organização do Ministério da Marinha.

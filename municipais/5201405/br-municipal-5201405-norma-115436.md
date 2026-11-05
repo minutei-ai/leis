@@ -4,7 +4,8 @@ Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2023.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Ficam estabelecidas, em conformidade ao disposto no art. 165, §2º, da Constituição Federal, art. 92, §2º, da Lei Orgânica do Município de Aparecida de Goiânia e das disposições contidas na Lei Complementar nº 101, de 04 de maio de 2000, as diretrizes gerais para elaboração dos orçamentos do Município para o exercício de 2023, compreendendo:
@@ -31,7 +32,8 @@ X - as demais disposições gerais.
 
 Art. 2º O projeto da Lei Orçamentária Anual para o exercício de 2023 será elaborado a partir da consolidação das propostas setoriais apresentadas pelos órgãos/entidades, bem como das propostas e sugestões formuladas pela população, por intermédio de audiência pública e dos meios disponibilizados via internet.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 3° As metas finalísticas e as prioridades para o exercício financeiro de 2023 serão estabelecidas na Lei Municipal que trata do Plano Plurianual (PPA) relativo ao período 2022-2025, sendo referendadas para o exercício de 2023 no que não contradizerem às necessárias atualizações constantes desta Lei e em face da revisão periódica do cenário econômico e fiscal.
@@ -70,7 +72,8 @@ g)    priorização de despesas finalísticas, em especial as relacionadas a 
 
 Art. 5º O Plano Plurianual, desdobramento estratégico do Plano de Governo, bem como esta Lei de Diretrizes Orçamentárias serão norteadores do projeto da Lei Orçamentária Anual para 2023, estruturado por programas e ações regionalizadas (projeto/atividade).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 6º Para elaboração da Lei Orçamentária Anual deve-se adotar a classificação funcional-programática, definida na Portaria Conjunta STN/SOF nº 3/2008, no Manual de Contabilidade Aplicada ao Setor Público (MCASP) e no Manual de Demonstrativos Fiscais (MDF).
@@ -133,7 +136,8 @@ III -     orçamento fiscal e da seguridade social dos Poderes Executivo, Leg
 
 Parágrafo único.O PLOA conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 112, da Lei Orgânica Municipal.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES.
 
 Art. 11 A elaboração do projeto de lei, a aprovação e a execução da Lei Orçamentária para o exercício vindouro evidenciarão a transparência da gestão fiscal, observados os princípios da publicidade e a garantia do acesso popular através de audiências públicas (presenciais ou eletrônicas) previamente programadas.
@@ -260,7 +264,8 @@ Art. 33 Nenhuma despesa poderá ser fixada sem que esteja legalmente definida na
 
 Art. 34 Na programação dos investimentos, aqueles em fase de execução terão prioridade sobre novos projetos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAIS
 
 Art. 35 As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da Receita Corrente Líquida (RCL) do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, inciso III, da Lei Complementar nº 101/2000, excetuando-se os casos de:
@@ -293,7 +298,8 @@ Art. 39 Nenhum benefício ou serviço relativo à seguridade social poderá ser 
 
 Art. 40 Desde que não ultrapasse o limite legal de gastos com pessoal conforme previsto na Lei de Responsabilidade Fiscal fica autorizado as nomeações e contratações dos aprovados em concursos públicos já autorizados em Lei de Diretriz Orçamentária de exercício anterior, para provimento de cargo efetivo, bem como a contratação por prazo determinado em substituição de servidores.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO
 
 Art. 41 O Poder Executivo Municipal poderá enviar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão ser considerados, especialmente sobre:
@@ -312,10 +318,12 @@ VI - atualização da planta genérica de valores do Município;
 
 VII - instituição de novas taxas pela prestação de serviços públicos e pelo exercício do poder de polícia;
 
-VIII - revisão das isenções tributárias, para manter o interesse público e estimular o desenvolvimento econômico e a justiça social.<br>
+VIII - revisão das isenções tributárias, para manter o interesse público e estimular o desenvolvimento econômico e a justiça social.
+
  
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art. 42 Na hipótese de ocorrência das circunstancias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo procederão a respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da Lei Orçamentária de 2022, utilizando para tal fim as cotas orçamentárias e financeiras.
@@ -348,7 +356,8 @@ IX -     investimentos novos.
 
 §5º. Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DEFINIÇÃO DE CRITÉRIOS PARA INÍCIO DE NOVOS PROJETOS
 
 Art. 43 Além da observância das metas e prioridades definidas nos termos do art. 3º desta Lei, a Lei Orçamentária de 2023 e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101/2000 somente incluirão novos projetos se:
@@ -363,7 +372,8 @@ IV - os recursos alocados destinarem-se a contrapartidas de recursos federais, e
 
 Parágrafo único. Considera-se projeto em andamento, para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária para o exercício de 2023, cujo cronograma de execução ultrapasse o término do exercício de 2022.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 INCENTIVO À PARTICIPAÇÃO POPULAR
 
 Art. 44 O PLOA do Município, relativo ao exercício financeiro de 2023, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -378,7 +388,8 @@ I -     elaboração da proposta orçamentária de 2023;
 
 II -     demonstração dos resultados obtidos pela Administração, na execução do planejamento.
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 46 A programação de receitas e despesas a serem previstas no Orçamento para o exercício de 2023 deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -397,7 +408,8 @@ MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 20 de novembro de 2022.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
 [EVOLUÇÃO DO PATRIMÔNIO LÍQUIDO](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18896)

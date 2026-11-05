@@ -1,5 +1,3 @@
-###DEC-048354-0-000-21-06-1960@@@
-
 DECRETO Nº 48.354, DE 21 DE JUNHO DE 1960.
 
 Autoriza o cidadão brasileiro João Brito Passos Pinheiro a pesquisar argila, no município de Oeiras, Estado do Piauí.

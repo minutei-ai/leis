@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/37766)<br>
-
 # LEI N° 3.849, DE 04 DE OUTUBRO DE 1983
 
 ### _Dá a denominação de "Ivo Anversa" à Casa da Agricultura de Arealva, em Arealva._

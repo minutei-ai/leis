@@ -1,5 +1,3 @@
-###DEC-065077-0-000-29-08-1969@@@
-
 Decreto nº 65.077 - de 29 de agôsto de 1969.
 
 Concede permissão, em caráter permanente, a Magnesita S.A., sediada em Montes Claros - MG; para funcionar aos domingos e nos feriados civis e religiosos.

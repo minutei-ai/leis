@@ -1,5 +1,3 @@
-###MPV-002102-0-030-26-04-2001@@@
-
 MEDIDA PROVISÓRIA N° 2.102‑30, DE 26 DE ABRIL DE 2001
 
 Acresce e altera dispositivos das Leis nº s 8.437, de 30 de junho de 1992, 9.028, de 12 de abril de 1995, 9.494, de 10 de setembro de 1997, 7.347, de 24 de julho de 1985, 8.429, de 2 de junho de 1992, 9.704, de 17 de novembro de 1998, do Decreto Lei n.º 5.452, de 1° de maio de 1943, das Leis nºs 5.869, de 11 ,de janeiro de 1973, e 4.348, de 26 de junho de 1964, e dá outras providências.
@@ -199,8 +197,6 @@ Art. 14. O art. 4°‑ da Lei n°‑ 4.348, de 26 de junho de 1964, passa a vigo
 § 2º Aplicam‑se à suspensão de segurança de 3= que trata esta Lei. as disposições dos §§,5º a 8º do art. 4º da Lei n.º 8.437, de 30 de junho de 1992." (NR)
 
 Art. 15 Aplica‑se à ação rescisória o poder geral de cautela de que trata o art. 798 do Código de Processo Civil.
-
-<br>
 
 Art. 16 Ficam. convalidados os atos praticados com base na Medida Provisória n.º 2.102‑29, de 27 de março de 2001:
 

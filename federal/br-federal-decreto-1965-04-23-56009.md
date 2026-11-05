@@ -1,5 +1,3 @@
-###DEC-056009-0-000-23-04-1965@@@
-
 DECRETO Nº 56.009, DE 23 DE ABRIL DE 1965.
 
 Concede a Xavier & Bueno Ltda. autorização para funcionar como emprêsa de mineração.

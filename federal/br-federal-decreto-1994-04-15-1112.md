@@ -1,7 +1,3 @@
-1
-
-###DEC-001112-0-000-15-04-1994@@@
-
 DECRETO N° 1.112, DE 15 DE ABRIL DE 1994
 
 Decreto Revoga o Regulamento da Diretoria do Pessoal Militar da Marinha, aprovado pelo n° 79.553, de 19 de abril de 1977.

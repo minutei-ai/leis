@@ -1,5 +1,3 @@
-###DEC-084943-0-000-22-07-1980@@@
-
 DECRETO Nº 84.943, DE 22 DE JULHO DE 1980.
 
 Autoriza a abertura de concurso de provas e títulos para preenchimento de cargos iniciais da carreira do Ministério Público Militar.

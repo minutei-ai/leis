@@ -1,5 +1,3 @@
-###DEL-001251-0-000-21-12-1972@@@
-
 # DECRETO-LEI Nº 1.251, DE 21 DE DEZEMBRO DE 1972
 
 Altera os valores das contribuições ao Instituto do Açúcar e do Álcool e dá outras providências.

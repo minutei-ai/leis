@@ -1,5 +1,3 @@
-###DEL-006849-0-000-04-09-1944@@@
-
 DECRETO-LEI N. 6.849 – DE 4 DE SETEMBRO DE 1944
 
 Altera a redação do. art. 172 do decreto-lei nº 1.713, de 28-10-39

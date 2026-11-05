@@ -2,7 +2,11 @@ Modificada pela Lei nº [4.170, de 13 de Setembro de 2023.](https://legis.ac.gov
 
 > **LEI Nº 4.090, DE 20 DE MARÇO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei nº 1.169, de 13 de dezembro de 1995, que transforma o Departamento de Trânsito em Autarquia, e dá outras providências; e Lei nº 2.448, de 10 de outubro de 2011, que institui o Plano de Cargos, Carreiras e Remuneração – PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre – DETRAN/AC.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei nº 1.169, de 13 de dezembro de 1995, que transforma o Departamento de Trânsito em Autarquia, e dá outras providências; e Lei nº 2.448, de 10 de outubro de 2011, que institui o Plano de Cargos, Carreiras e Remuneração – PCCR dos servidores públicos do Departamento Estadual de Trânsito do Acre – DETRAN/AC.
+
+</td></tr></tbody></table>
 
 **O PRESIDENTE DO PODER LEGISLATIVO DO ESTADO DO ACRE**, com fulcro no art. 58, §§ 3º e 8º da Constituição Estadual c/c o art. 15, § 1º, X do Regimento Interno da Assembleia Legislativa do Estado do Acre, promulga o seguinte:
 
@@ -102,7 +106,7 @@ Modificada pela Lei nº [4.170, de 13 de Setembro de 2023.](https://legis.ac.gov
 
 ~~**§ 2º** Os cargos atualmente ocupados pelos servidores públicos previstos no **caput** serão transformados, à medida que se tornarem vagos, em cargos cujo provimento exige escolaridade de nível superior. (Revogado pela Lei nº 4.170, de 13/09/2023)~~
 
-~~**§ 3º**~~ ~~Para fins de promoção e progressão é assegurado o aproveitamento do tempo de efetivo serviço, cursos e demais requisitos, já cumpridos nos termos da Lei nº 2.448, de 2011.~~ ~~(Revogado pela Lei nº 4.170, de 13/09/2023)~~
+~~**§ 3º**~~ ~~Para fins de promoção e progressão é assegurado o aproveitamento do tempo de efetivo serviço, cursos e demais requisitos, já cumpridos nos termos da Lei nº 2.448, de 2011.(Revogado pela Lei nº 4.170, de 13/09/2023)~~
 
 **Art. 4º** Ficam revogados os §§ 1º e 2º do art. 6º da Lei nº 2.448, de 10 de outubro de 2011.
 
@@ -114,10 +118,8 @@ Sala das Sessões “Deputado Francisco Cartaxo”, 20 de março de 2023
 
 Presidente da Assembleia Legislativa do Estado do Acre, em exercício
 
-<br>
-
 **ANEXO**
 
 “**ANEXO II**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"><p><span><span>...&nbsp;</span></span></p></td></tr><tr><td><p><span><strong><span>3</span></strong></span></p></td><td><p><span><strong><span>TAXAS – OUTROS SERVIÇOS</span></strong></span></p></td><td><p><span><strong><span>VALOR R$</span></strong></span></p></td></tr><tr><td colspan="3"><p><span><span>&nbsp;...</span></span></p></td></tr><tr><td><p><span><span>3.1</span></span></p></td><td><p><span><span>Credenciamento anual de Instrutor de Trânsito</span></span></p></td><td><p><span><span>R$ 206,17</span></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td colspan="3"> ...&nbsp; </td></tr><tr><td> **3** </td><td> **TAXAS – OUTROS SERVIÇOS** </td><td> **VALOR R$** </td></tr><tr><td colspan="3"> &nbsp;... </td></tr><tr><td> 3.1 </td><td> Credenciamento anual de Instrutor de Trânsito </td><td> R$ 206,17 </td></tr></tbody></table>

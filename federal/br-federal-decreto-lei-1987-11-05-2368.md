@@ -1,5 +1,3 @@
-###DEL-002368-0-000-05-11-1987@@@
-
 # DECRETO-LEI Nº 2.368, DE 5 DE NOVEMBRO DE 1987.
 
 Fixa o valor do soldo base do cálculo da remuneração da Polícia Militar e do Corpo de Bombeiros do Distrito Federal.

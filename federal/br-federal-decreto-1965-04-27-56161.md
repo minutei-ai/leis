@@ -1,5 +1,3 @@
-###DEC-056161-0-000-27-04-1965@@@
-
 DECRETO Nº 56.161, DE 27 DE ABRIL DE 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica em diversos municípios.

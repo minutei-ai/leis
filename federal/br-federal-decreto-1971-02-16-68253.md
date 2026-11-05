@@ -1,5 +1,3 @@
-###DEC-068253-0-000-16-02-1971@@@
-
 DECRETO Nº 68.253, DE 16 DE FEVEREIRO DE 1971.
 
 Retifica o artigo 1º do Decreto número 61.747, de 23 de novembro de 1967.

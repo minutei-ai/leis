@@ -1,5 +1,3 @@
-###DEC-078140-0-000-30-07-1976@@@
-
 DECRETO Nº 78.140, DE 30 DE JULHO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

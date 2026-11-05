@@ -1,5 +1,3 @@
-###DEC-052793-0-000-30-10-1963@@@
-
 decreto nº 52.793, de 30 de outubro de 1963.
 
 Aprova alterações introduzidas nos Estatutos da Aliança de Minas Gerais Companhia de Seguros inclusive aumento de capital social.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000390-0-000-24-12-1991@@@
-
 DECRETO N° 390, DE 24 DE DEZEMBRO DE 1991
 
 Homologa a demarcação administrativa da Área Indígena Miratu, no Estado do Amazonas.

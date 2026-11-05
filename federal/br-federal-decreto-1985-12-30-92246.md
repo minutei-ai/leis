@@ -1,5 +1,3 @@
-###DEC-092246-0-000-30-12-1985@@@
-
 Decreto nº 92.246, de 30 de dezembro de 1985
 
 Outorga concessão à RÁDIO METROPOLITANA DE FORTALEZA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Caucaia, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-001788-0-000-12-01-1996@@@
-
 DECRETO Nº 1.788, DE 12 DE JANEIRO DE 1996
 
 Altera o art. 1° das Instruções Gerais para a Representação do Brasil na Junta Interamericana de Defesa, aprovadas pelo Decreto n° 76.062, de 31 de julho de 1975.

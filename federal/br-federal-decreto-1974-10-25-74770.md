@@ -1,5 +1,3 @@
-###DEC-074770-0-000-25-10-1974@@@
-
 DECRETO Nº 74.770, DE 25 DE OUTUBRO DE 1974.
 
 Concede novo prazo para utilização de próprio nacional situado no Estado de Sergipe e dá outras providências.

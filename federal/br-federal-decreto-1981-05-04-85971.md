@@ -1,5 +1,3 @@
-###DEC-085971-0-000-04-05-1981@@@
-
 Decreto nº 85.971, de 04 de maio de 1981
 
 Renova por 10 (dez) anos a concessão outorgada à antiga Prefeitura do Distrito Federal, para que o Governo do Estado do Rio de Janeiro, através da RÁDIO ROQUETE PINTO, continue executando serviço de radiodifusão sonora em onda média de âmbito regional, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

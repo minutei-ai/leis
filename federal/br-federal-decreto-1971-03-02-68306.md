@@ -1,5 +1,3 @@
-###DEC-068306-0-000-02-03-1971@@@
-
 DECRETO Nº 68.306, DE 2 DE MARÇO DE 1971.
 
 Concede reconhecimento à Faculdade de Medicina de Rio Grande, da Fundação Cidade do Rio Grande, RS.

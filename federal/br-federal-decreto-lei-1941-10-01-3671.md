@@ -1,5 +1,3 @@
-###DEL-003671-0-000-01-10-1941@@@
-
 DECRETO-LEI N. 3.671 – DE 1 DE OUTUBRO DE 1941
 
 Abre, pelo Ministério das Relações Exteriores, o crédito suplementar de 250 :000$0, à verba que especifica

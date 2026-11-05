@@ -1,5 +1,3 @@
-###DEC-002287-0-000-30-07-1997@@@
-
 DECRETO Nº 2.287, DE 30 DE JULHO DE 1997
 
 Prorroga o prazo de remanejamento temporário dos cargos em comissão que menciona, e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-002022-0-000-07-10-1996@@@
-
 DECRETO Nº 2.022, DE 7 DE OUTUBRO DE 1996.
 
 Promulga o Protocolo Adicional à Convenção Interamericana sobre Cartas Rogatórias, concluído em Montevidéu, em 8 de maio de 1979.

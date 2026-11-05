@@ -1,5 +1,3 @@
-###DEC-056933-0-000-01-10-1965@@@
-
 DECRETO Nº 56.933, DE 1º DE OUTUBRO DE 1965.
 
 Concede à Companhia Aurífera Brasileira autorização para funcionar como emprêsa de mineração.

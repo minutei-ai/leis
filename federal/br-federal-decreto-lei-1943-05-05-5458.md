@@ -1,5 +1,3 @@
-###DEL-005458-0-000-05-05-1943@@@
-
 DECRETO‑LEI N. 5.458 – DE 5 DE MAIO DE 1943
 
 Declara inexistente a dívida de guerra do Paraguai para com o Brasil

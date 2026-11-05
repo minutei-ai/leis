@@ -1,5 +1,3 @@
-###DEC-051270-0-000-25-08-1961@@@
-
 DECRETO Nº 51.270, DE 25 DE AGÔSTO DE 1961.
 
 Transfere de Lauro Machado para a Prefeitura Municipal de Turmalina a concessão para a produção e fornecimento de energia elétrica ao Município de Turmalina, Estado de Minas Gerais.

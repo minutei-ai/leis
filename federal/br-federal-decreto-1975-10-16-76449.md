@@ -1,5 +1,3 @@
-###DEC-076449-0-000-16-10-1975@@@
-
 DECRETO Nº 76449, DE 16 DE OUTUBRO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, terrenos necessários à implantação da subestação de Bocaina, da Companhia Paulista de Força e Luz - CPFL, no Município de Bocaina, Estado de São Paulo.

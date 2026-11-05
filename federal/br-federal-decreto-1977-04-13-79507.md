@@ -1,5 +1,3 @@
-###DEC-079507-0-000-13-04-1977@@@
-
 DECRETO Nº 79.507, DE 13 DE ABRIL DE 1977.
 
 Declara sem efeito o Decreto número 63.134, de 21 de agosto de 1968, que concedeu à Mineração Guimarães Ltda. o direito de lavrar minério de manganês no Município de Jequitaí, Estado de Minas Gerais.

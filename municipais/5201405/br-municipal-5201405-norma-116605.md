@@ -18,5 +18,6 @@ Art. 4º Esta Lei entra em vigor na data de sua publicação, revogando-se as di
 
 Gabinete do Presidente da Câmara Municipal de Aparecida de Goiânia, aos seis dias do mês de Junho de dois mil e dezoito.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 PRESIDENTE

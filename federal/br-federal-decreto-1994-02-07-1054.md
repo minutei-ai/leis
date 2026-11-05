@@ -1,5 +1,3 @@
-###DEC-001054-0-000-07-02-1994@@@
-
 DECRETO Nº 1.054, DE 7 DE FEVEREIRO DE 1994
 
 Regulamenta o reajuste de preços nos contratos da Administração Federal direta e indireta e dá outras providências.

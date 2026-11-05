@@ -1,5 +1,3 @@
-###DEL-000396-0-000-30-12-1968@@@
-
 DECRETO-LEI Nº 396,DE 30 DE dEZEMBRo DE 1968
 
 Altera prazo fixado pelo Decreto-Lei nº 263, de 28-2-1967.

@@ -6,94 +6,96 @@ Aprova a primeira revisão do Plano Plurianual para o período de 2016/2019.
 
 Publicada no Suplemento I do Diário Oficial nº 9.318, de 30 de dezembro de 2016, páginas 1 a 206.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Aprova-se a primeira revisão do <i>Plano Plurianual para o período de 2016/2019</i>, na forma do disposto no § 1º do art. 160 da Constituição Estadual, contendo as diretrizes e as prioridades da Administração Pública Estadual, para a realização das despesas de capital e de outras delas decorrentes, inclusive dos programas temáticos, de gestão, manutenção e de serviços ao Estado, conforme discriminado nos quadros anexos, integrantes desta Lei.<br>
-<br>
-Art. 2º Entende-se, para efeitos desta Lei:<br>
-<br>
-I - <i>programa temático</i>: aquele que expressa e orienta a ação governamental para a entrega de bens e serviços à sociedade;<br>
-<br>
-II - <i>programa de gestão, manutenção e serviços ao Estado</i>: aquele que expressa e orienta as ações destinadas ao apoio, à gestão e à manutenção da atuação governamental.<br>
-<br>
-Art. 3º Os valores consignados, para cada programa do Plano Plurianual, são referenciais e não constituem limites à programação das despesas expressas nas leis orçamentárias e em seus créditos adicionais.<br>
-<br>
-Art. 4º A exclusão ou a alteração das informações constantes desta Lei ou a inclusão de novos programas serão propostas pelo Poder Executivo Estadual, por meio de projeto de lei de revisão anual ou mediante leis específicas.<br>
-<br>
-Art. 5º Nas leis orçamentárias anuais, em seus créditos adicionais e nas suas alterações, serão observadas a estrutura de programas, iniciativas e as ações deste Plano Plurianual.<br>
-<br>
-Art. 6º Constituem os princípios norteadores e as diretrizes estratégicas da Administração Pública Estadual, direta ou indireta, para o planejamento plurianual para o período 2016/2019:<br>
-<br>
-I - PRINCÍPIOS NORTEADORES:<br>
-<br>
-a) mobilização e participação social;<br>
-<br>
-b) vida digna e próspera;<br>
-<br>
-c) promoção da cidadania e da justiça social;<br>
-<br>
-d) atendimento igualitário a todas as regiões do Estado, respeitando as diversidades;<br>
-<br>
-e) criatividade, ciência, tecnologia e inovação, como motores das mudanças;<br>
-<br>
-f) desenvolvimento sustentável;<br>
-<br>
-II - DIRETRIZES ESTRATÉGICAS - EIXO SOCIAL:<br>
-<br>
-a) elevar a qualidade da aprendizagem na rede pública de ensino, com foco na formação integral do cidadão, promovendo o desenvolvimento social;<br>
-<br>
-b) garantir o acesso do cidadão às ações e aos serviços de saúde, por meio da regionalização e da ampliação da capacidade e da diversificação dos serviços;<br>
-<br>
-c) preservar a vida e o patrimônio por meio de políticas integradas de segurança pública;<br>
-<br>
-d) assegurar o acesso a uma rede de proteção social integral aos cidadãos;<br>
-<br>
-e) promover o desenvolvimento sociocultural, fortalecendo a identidade regional;<br>
-<br>
-f) reduzir o déficit e a inadequação habitacional;<br>
-<br>
-III - DIRETRIZES ESTRATÉGICAS - EIXO ECONÔMICO E AMBIENTAL:<br>
-<br>
-a) atrair investimentos para o maior dinamismo e diversificação das atividades econômicas;<br>
-<br>
-b) fomentar a inovação, a cultura empreendedora e o desenvolvimento científico tecnológico;<br>
-<br>
-c) potencializar a educação e a qualificação profissional para a maior produtividade da mão de obra;<br>
-<br>
-d) fomentar o desenvolvimento das cadeias produtivas em bases sustentáveis;<br>
-<br>
-IV - DIRETRIZES ESTRATÉGICAS - EIXO INFRAESTRUTURA:<br>
-<br>
-a) diversificar a matriz energética, priorizando as fontes renováveis;<br>
-<br>
-b) desenvolver um sistema de logística intermodal integrado;<br>
-<br>
-c) melhorar a estrutura de saneamento ambiental;<br>
-<br>
-d) viabilizar e modernizar a infraestrutura em tecnologia da informação e da comunicação;<br>
-<br>
-V - DIRETRIZES ESTRATÉGICAS - EIXO GESTÃO:<br>
-<br>
-a) promover o desenvolvimento e a valorização dos servidores públicos estaduais;<br>
-<br>
-b) desenvolver um modelo de gestão participativa, desburocratizada, moderna, transparente e com foco em resultados;<br>
-<br>
-c) fortalecer a articulação institucional e a política, a fim de destacar Mato Grosso do Sul no cenário nacional e internacional;<br>
-<br>
-d) garantir a boa gestão dos recursos públicos.<br>
-<br>
-Art. 7º As metas e os valores anuais aprovados por esta Lei serão reavaliados e atualizados, adotando-se os critérios fixados nas Leis de Diretrizes Orçamentárias e de Orçamentos Anuais e nas demais legislações pertinentes, editadas durante o período de sua vigência, podendo ser antecipados ou postergados em decorrência do fluxo de ingresso da receita, visando a buscar o equilíbrio financeiro estabelecido na Lei Complementar Federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).<br>
-<br>
-Art. 8º O <i>Plano Plurianual para o período 2016/2019</i> poderá ser alterado mediante abertura de créditos adicionais especiais ou suplementares, conforme autorização concedida por lei, ficando as modificações automaticamente incorporadas na forma do detalhamento constante do respectivo ato.<br>
-<br>
-Art. 9º Esta Lei entra em vigor em 1º de janeiro de 2017.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Aprova-se a primeira revisão do *Plano Plurianual para o período de 2016/2019*, na forma do disposto no § 1º do art. 160 da Constituição Estadual, contendo as diretrizes e as prioridades da Administração Pública Estadual, para a realização das despesas de capital e de outras delas decorrentes, inclusive dos programas temáticos, de gestão, manutenção e de serviços ao Estado, conforme discriminado nos quadros anexos, integrantes desta Lei.
+
+Art. 2º Entende-se, para efeitos desta Lei:
+
+I - *programa temático*: aquele que expressa e orienta a ação governamental para a entrega de bens e serviços à sociedade;
+
+II - *programa de gestão, manutenção e serviços ao Estado*: aquele que expressa e orienta as ações destinadas ao apoio, à gestão e à manutenção da atuação governamental.
+
+Art. 3º Os valores consignados, para cada programa do Plano Plurianual, são referenciais e não constituem limites à programação das despesas expressas nas leis orçamentárias e em seus créditos adicionais.
+
+Art. 4º A exclusão ou a alteração das informações constantes desta Lei ou a inclusão de novos programas serão propostas pelo Poder Executivo Estadual, por meio de projeto de lei de revisão anual ou mediante leis específicas.
+
+Art. 5º Nas leis orçamentárias anuais, em seus créditos adicionais e nas suas alterações, serão observadas a estrutura de programas, iniciativas e as ações deste Plano Plurianual.
+
+Art. 6º Constituem os princípios norteadores e as diretrizes estratégicas da Administração Pública Estadual, direta ou indireta, para o planejamento plurianual para o período 2016/2019:
+
+I - PRINCÍPIOS NORTEADORES:
+
+a) mobilização e participação social;
+
+b) vida digna e próspera;
+
+c) promoção da cidadania e da justiça social;
+
+d) atendimento igualitário a todas as regiões do Estado, respeitando as diversidades;
+
+e) criatividade, ciência, tecnologia e inovação, como motores das mudanças;
+
+f) desenvolvimento sustentável;
+
+II - DIRETRIZES ESTRATÉGICAS - EIXO SOCIAL:
+
+a) elevar a qualidade da aprendizagem na rede pública de ensino, com foco na formação integral do cidadão, promovendo o desenvolvimento social;
+
+b) garantir o acesso do cidadão às ações e aos serviços de saúde, por meio da regionalização e da ampliação da capacidade e da diversificação dos serviços;
+
+c) preservar a vida e o patrimônio por meio de políticas integradas de segurança pública;
+
+d) assegurar o acesso a uma rede de proteção social integral aos cidadãos;
+
+e) promover o desenvolvimento sociocultural, fortalecendo a identidade regional;
+
+f) reduzir o déficit e a inadequação habitacional;
+
+III - DIRETRIZES ESTRATÉGICAS - EIXO ECONÔMICO E AMBIENTAL:
+
+a) atrair investimentos para o maior dinamismo e diversificação das atividades econômicas;
+
+b) fomentar a inovação, a cultura empreendedora e o desenvolvimento científico tecnológico;
+
+c) potencializar a educação e a qualificação profissional para a maior produtividade da mão de obra;
+
+d) fomentar o desenvolvimento das cadeias produtivas em bases sustentáveis;
+
+IV - DIRETRIZES ESTRATÉGICAS - EIXO INFRAESTRUTURA:
+
+a) diversificar a matriz energética, priorizando as fontes renováveis;
+
+b) desenvolver um sistema de logística intermodal integrado;
+
+c) melhorar a estrutura de saneamento ambiental;
+
+d) viabilizar e modernizar a infraestrutura em tecnologia da informação e da comunicação;
+
+V - DIRETRIZES ESTRATÉGICAS - EIXO GESTÃO:
+
+a) promover o desenvolvimento e a valorização dos servidores públicos estaduais;
+
+b) desenvolver um modelo de gestão participativa, desburocratizada, moderna, transparente e com foco em resultados;
+
+c) fortalecer a articulação institucional e a política, a fim de destacar Mato Grosso do Sul no cenário nacional e internacional;
+
+d) garantir a boa gestão dos recursos públicos.
+
+Art. 7º As metas e os valores anuais aprovados por esta Lei serão reavaliados e atualizados, adotando-se os critérios fixados nas Leis de Diretrizes Orçamentárias e de Orçamentos Anuais e nas demais legislações pertinentes, editadas durante o período de sua vigência, podendo ser antecipados ou postergados em decorrência do fluxo de ingresso da receita, visando a buscar o equilíbrio financeiro estabelecido na Lei Complementar Federal nº 101, de 4 de maio de 2000 (Lei de Responsabilidade Fiscal).
+
+Art. 8º O *Plano Plurianual para o período 2016/2019* poderá ser alterado mediante abertura de créditos adicionais especiais ou suplementares, conforme autorização concedida por lei, ficando as modificações automaticamente incorporadas na forma do detalhamento constante do respectivo ato.
+
+Art. 9º Esta Lei entra em vigor em 1º de janeiro de 2017.
+
 Campo Grande, 29 de dezembro de 2016.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
-Governador do Estado<br>
-<br>
-EDUARDO CORREA RIEDEL<br>
+REINALDO AZAMBUJA SILVA
+
+Governador do Estado
+
+EDUARDO CORREA RIEDEL
+
 Secretário de Estado de Governo e Gestão Estratégica

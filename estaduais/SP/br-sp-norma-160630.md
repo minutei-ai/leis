@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/160630)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/compilacao-lei-14274-16.12.2010.html)
 
 # LEI N° 14.274, DE 16 DE DEZEMBRO DE 2010

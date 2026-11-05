@@ -1,5 +1,3 @@
-###DEC-057355-0-000-26-11-1965@@@
-
 DECRETO Nº 57.355, DE 26 DE NOVEMBRO DE 1965.
 
 Autoriza a Mineração Caolinita Limitada a lavrar caulim no município de Ubá, Estado de Minas Gerais.

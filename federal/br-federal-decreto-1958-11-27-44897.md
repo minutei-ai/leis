@@ -1,5 +1,3 @@
-###DEC-044897-0-000-27-11-1958@@@
-
 DECRETO Nº 44.897, DE 27 DE NOVEMBRO DE 1958.
 
 Aprova o Regulamento para os Centros de Adestramento da Marinha do Brasil.

@@ -1,5 +1,3 @@
-###DEL-004037-0-000-19-01-1942@@@
-
 DECRETO-LEI N. 4.037 – DE 19 DE JANEIRO DE 1942
 
 Considera de natureza social os artigos 81 do Código Comercial e 1.221 do Código Civil

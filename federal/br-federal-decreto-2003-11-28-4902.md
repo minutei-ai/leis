@@ -1,5 +1,3 @@
-###DEC-004902-0-000-28-11-2003@@@
-
 DECRETO Nº 4.902 DE 28 DE NOVEMBRO DE 2003.
 
        Altera alíquota do Imposto sobre Produtos Industrializados - IPI incidente sobre os produtos que menciona.
@@ -12,7 +10,57 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
         Art.  2º  Ficam reduzidas aos percentuais a seguir mencionados, no período de 1o de dezembro de 2003 a 29 de fevereiro de 2004, as alíquotas do Imposto sobre Produtos Industrializados - IPI, incidentes sobre os produtos relacionados, conforme seus códigos de classificação na Tabela de Incidência do imposto - TIPI, aprovada pelo Decreto nº 4.542, de 26 de dezembro de 2002:
 
-<table cellspacing="0" cellpadding="0" style="margin-right:auto; margin-left:auto; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:109.2pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span style="font-weight:bold">CODIGO</span></p></td><td style="width:96.3pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span style="font-weight:bold">ALÍ</span><span style="font-weight:bold">QUOTA %</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8703.21.00</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>6</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8703.22</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>12</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8703.23.10 Ex 01</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>12</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8703.23.90 Ex 01</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>12</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.21.10 Ex 01</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.21.20 Ex 01</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.21.30 Ex 01</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.21.90 Ex 01</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.31.10</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.31.20</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.31.30</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr><tr><td style="width:109.2pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>8704.31.90</span></p></td><td style="width:96.3pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:2.62pt; padding-left:2.62pt; vertical-align:top"><p style="font-size:10pt"><span>7</span></p></td></tr></tbody></table>
+CODIGO
+
+ALÍQUOTA %
+
+8703.21.00
+
+6
+
+8703.22
+
+12
+
+8703.23.10 Ex 01
+
+12
+
+8703.23.90 Ex 01
+
+12
+
+8704.21.10 Ex 01
+
+7
+
+8704.21.20 Ex 01
+
+7
+
+8704.21.30 Ex 01
+
+7
+
+8704.21.90 Ex 01
+
+7
+
+8704.31.10
+
+7
+
+8704.31.20
+
+7
+
+8704.31.30
+
+7
+
+8704.31.90
+
+7
 
         Art. 3º Este Decreto entra em vigor na data de sua publicação.
 

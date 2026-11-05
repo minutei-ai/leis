@@ -1,5 +1,3 @@
-###DEC-083239-0-000-06-03-1979@@@
-
 Decreto nº 83.239, de 06 de março de 1979.
 
 Altera o Decreto nº 79.094, de 5 de janeiro de 1977, que regulamenta a Lei nº 6.360, de 23 de setembro de 1976.

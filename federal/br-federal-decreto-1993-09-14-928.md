@@ -1,7 +1,3 @@
-1
-
-###DEC-000928-0-000-14-09-1993@@@
-
 DECRETO N° 928, DE 14 DE SETEMBRO DE 1993
 
 Dispõe sobre a execução do Décimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação n° 8, entre Brasil e Bolívia, de 30/12/92.

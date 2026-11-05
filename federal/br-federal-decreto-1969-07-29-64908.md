@@ -1,5 +1,3 @@
-###DEC-064908-0-000-29-07-1969@@@
-
 DECRETO Nº 64.908 - DE 29 DE JULHO DE 1969.
 
 Retifica o artigo 1º do Decreto nº 62.187, de 29 de janeiro de 1968, que declarou de utilidade pública para fins de desapropriação terreno destinado à ampliação do aeroporto de Val-de-Cans, Belém (PA).

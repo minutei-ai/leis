@@ -1,5 +1,3 @@
-###DEC-050934-0-000-11-07-1961@@@
-
 DECRETO Nº 50.934, DE 11 DE JULHO DE 1961.
 
 Modifica o Regimento do Serviço de Alimentação da Previdência Social, aprovado pelo Decreto nº 46.912, de 29 de setembro de 1959.

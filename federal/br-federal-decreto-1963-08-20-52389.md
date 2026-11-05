@@ -1,5 +1,3 @@
-###DEC-052389-0-000-20-08-1963@@@
-
 DECRETO Nº 52.389, DE 20 DE AGÔSTO DE 1963.
 
 Considera ponto facultativo o dia 24 de agôsto, em tôdas as repartições públicas federais e autárquicas.

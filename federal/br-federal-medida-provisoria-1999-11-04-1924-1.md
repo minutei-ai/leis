@@ -1,5 +1,3 @@
-###MPV-001924-0-001-04-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.924-1, DE 4 DE NOVEMBRO DE 1999.
 
 Altera a legislação tributária federal e dá outras providências.

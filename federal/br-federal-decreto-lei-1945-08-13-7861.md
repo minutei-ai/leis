@@ -1,5 +1,3 @@
-###DEL-007861-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.861 – DE 13 DE AGÔSTO DE 1945
 
 Extingue a graduação de Sargento-Ajudante no Quadro do Pessoal Subalterno do Corpo de Fuzileiros Navais e dá outras providências.

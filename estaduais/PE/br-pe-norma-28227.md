@@ -128,2065 +128,318 @@ Presidente
 
 1ª ENTRÂNCIA
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center">COMARCA</p></td><td width="382" valign="top" style="width:286.55pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center">UNIDADE JUDICIÁRIA</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">AFRÂNIO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">AGRESTINA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span style="color:black">ÁGUAS BELAS</span></p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ALAGOINHA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ALIANÇA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ALTINHO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">AMARAJI</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ANGELIM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BELÉM DE MARIA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BELÉM DO SÃO FRANCISCO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BETÂNIA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BODOCÓ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BOM CONSELHO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BOM JARDIM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BREJÃO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BREJO DA MADRE DE DEUS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BUENOS AIRES</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BUÍQUE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CABROBÓ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CACHOEIRINHA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CAETES</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CALÇADO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CAMOCIM DE SÃO FELIX</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CANHOTINHO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CARNAÍBA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CAPOEIRAS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CATENDE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CHÃ GRANDE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CONDADO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CORRENTES</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CORTÊS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CUMARU</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CUPIRA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CUSTÓDIA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">EXU</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">FEIRA NOVA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">FERREIROS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">FLORES</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" rowspan="3" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">FLORESTA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">GAMELEIRA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">GLÓRIA DO GOITÁ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">IATI</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">IBIMIRIM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">IBIRAJUBA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span lang="ES-TRAD">INAJÁ</span></p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span lang="ES-TRAD">IPUBI</span></p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ITAÍBA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ITAMBÉ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ITAPETIM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ITAPISSUMA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ITAQUITINGA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">JATAÚBA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">JOÃO ALFREDO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">JOAQUIM NABUCO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">JUPI</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">JUREMA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">LAGOA DE ITAENGA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">LAGOA DO OURO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">LAGOA DOS GATOS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span lang="ES-TRAD">LAGOA GRANDE</span></p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">LAJEDO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">MACAPARANA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">MARAIAL</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">MIRANDIBA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">MOREILÂNDIA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">OROBÓ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">OROCÓ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PALMEIRINA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PANELAS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PARNAMIRIM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PASSIRA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PEDRA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PETROLÂNDIA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">POÇÃO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">POMBOS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PRIMAVERA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">QUIPAPÁ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">RIACHO DAS ALMAS</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">RIO FORMOSO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SAIRÉ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SALOÁ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SANHARÓ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SANTA MARIA DA BOA VISTA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SANTA MARIA DO CAMBUCÁ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO BENTO DO UNA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO CAETANO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO JOÃO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO JOAQUIM DO MONTE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO JOSÉ DA COROA GRANDE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO JOSÉ DO BELMONTE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO VICENTE FÉRRER</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SERRITA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SIRINHAÉM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TABIRA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TACAIMBÓ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TACARATU</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TAMANDARÉ</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TAQUARITINGA DO NORTE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TERRA NOVA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TORITAMA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TRACUNHAÉM</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TRINDADE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TRIUNFO</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TUPANATINGA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TUPARETAMA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">VENTUROSA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">VERDEJANTE</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">VERTENTES</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">VICÊNCIA</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="209" valign="top" style="width:156.5pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.55pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> COMARCA </td><td valign="top"> UNIDADE JUDICIÁRIA </td></tr><tr><td valign="top"> AFRÂNIO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> AGRESTINA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ÁGUAS BELAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ALAGOINHA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ALIANÇA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> ALTINHO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> AMARAJI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ANGELIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BELÉM DE MARIA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BELÉM DO SÃO FRANCISCO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BETÂNIA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BODOCÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BOM CONSELHO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> BOM JARDIM </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> BREJÃO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BREJO DA MADRE DE DEUS </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> BUENOS AIRES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> BUÍQUE </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> CABROBÓ </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> CACHOEIRINHA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CAETES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CALÇADO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CAMOCIM DE SÃO FELIX </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CANHOTINHO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CARNAÍBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CAPOEIRAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CATENDE </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> CHÃ GRANDE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CONDADO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CORRENTES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CORTÊS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CUMARU </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CUPIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> CUSTÓDIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> EXU </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> FEIRA NOVA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> FERREIROS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> FLORES </td><td valign="top"> Vara Única </td></tr><tr><td rowspan="3" valign="top"> FLORESTA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> GAMELEIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> GLÓRIA DO GOITÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IATI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IBIMIRIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IBIRAJUBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> INAJÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> IPUBI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAÍBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAMBÉ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAPETIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAPISSUMA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> ITAQUITINGA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JATAÚBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JOÃO ALFREDO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JOAQUIM NABUCO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JUPI </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> JUREMA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA DE ITAENGA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA DO OURO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA DOS GATOS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAGOA GRANDE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> LAJEDO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> MACAPARANA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> MARAIAL </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> MIRANDIBA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> MOREILÂNDIA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> OROBÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> OROCÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PALMEIRINA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PANELAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PARNAMIRIM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PASSIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PEDRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PETROLÂNDIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> POÇÃO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> POMBOS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> PRIMAVERA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> QUIPAPÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> RIACHO DAS ALMAS </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> RIO FORMOSO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SAIRÉ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SALOÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SANHARÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SANTA MARIA DA BOA VISTA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SANTA MARIA DO CAMBUCÁ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO BENTO DO UNA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> SÃO CAETANO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> SÃO JOÃO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO JOAQUIM DO MONTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO JOSÉ DA COROA GRANDE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO JOSÉ DO BELMONTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SÃO VICENTE FÉRRER </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SERRITA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> SIRINHAÉM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TABIRA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TACAIMBÓ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TACARATU </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TAMANDARÉ </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TAQUARITINGA DO NORTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TERRA NOVA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TORITAMA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> TRACUNHAÉM </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TRINDADE </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> TRIUNFO </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TUPANATINGA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> TUPARETAMA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VENTUROSA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VERDEJANTE </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VERTENTES </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> VICÊNCIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr></tbody></table>
 
 2ª ENTRÂNCIA
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt;page-break-after:avoid">COMARCA</p></td><td width="382" valign="top" style="width:286.85pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center">UNIDADE JUDICIÁRIA</p></td></tr><tr><td width="208" rowspan="7" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt;page-break-after:avoid">ABREU E LIMA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt;page-break-after:avoid">AFOGADOS DA INGAZEIRA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ÁGUA PRETA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt;page-break-after:avoid">ARARIPINA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="7" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ARCOVERDE</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Fazenda Pública</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BARREIROS</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BELO JARDIM</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" rowspan="5" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BEZERROS</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">BONITO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CABO DE STO. AGOSTINHO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="9" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CAMARAGIBE</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CARPINA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center;
-  page-break-after:avoid">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">CARUARU</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara do Tribunal do Júri</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center;
-  page-break-after:avoid">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Regional de Execução Penal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center;
-  page-break-after:avoid">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Agilização Processual</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Carta de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr style="height:3.5pt"><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ESCADA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">GARANHUNS</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr style="page-break-inside:avoid"><td width="208" rowspan="2" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr style="page-break-inside:avoid"><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">GOIANA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">GRAVATÁ</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">IGARASSU</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="7" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">IPOJUCA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Fazenda Pública</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">ITAMARACÁ</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">JABOATÃO GUARARAPES</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">6ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara dos Executivos Fiscais</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara do Tribunal do Júri</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara do Tribunal do Júri</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">LIMOEIRO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">MORENO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">NAZARÉ DA MATA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Única</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">OLINDA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara do Tribunal do Júri</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">OURICURI</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr style="height:5.35pt"><td width="208" rowspan="7" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt;height:5.35pt"><p class="MsoNormal" style="margin-right:1.2pt">PALMARES</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt;height:5.35pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PAUDALHO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PAULISTA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara do Tribunal do Júri</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">PESQUEIRA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr style="page-break-inside:avoid"><td width="208" rowspan="2" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr style="page-break-inside:avoid"><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">PETROLINA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Fazenda Pública</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Regional de Execução Penal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara do Tribunal do Júri</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Agilização Processual</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">RIBEIRÃO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SALGUEIRO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="7" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SANTA CRUZ CAPIBARIBE</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Fazenda Pública</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr style="page-break-inside:avoid"><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr style="page-break-inside:avoid"><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr style="page-break-inside:avoid"><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO JOSÉ DO EGITO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SÃO LOURENÇO DA MATA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SERRA TALHADA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SERTÂNIA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="208" rowspan="6" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">SURUBIM</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Criminal</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr><tr><td width="208" rowspan="3" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">TIMBAÚBA</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara</p></td></tr><tr><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">VITÓRIA DE SANTO ANTÃO</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span style="color:black">2ª Vara Criminal</span></p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span style="color:red">&nbsp;</span></p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span style="color:black">3ª Vara Criminal</span></p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt"><span style="color:red">&nbsp;</span></p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal</p></td></tr><tr><td width="208" valign="top" style="width:156.1pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="382" valign="top" style="width:286.85pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 3.5pt 0cm 3.5pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"> COMARCA </td><td valign="top"> UNIDADE JUDICIÁRIA </td></tr><tr><td rowspan="7" valign="top"> ABREU E LIMA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> AFOGADOS DA INGAZEIRA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> ÁGUA PRETA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> ARARIPINA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="7" valign="top"> ARCOVERDE </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara da Fazenda Pública </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> BARREIROS </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> BELO JARDIM </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td rowspan="5" valign="top"> BEZERROS </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> BONITO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> CABO DE STO. AGOSTINHO </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 5ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Cartas de Ordem, Precatória e Rogatória </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="9" valign="top"> CAMARAGIBE </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> CARPINA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> CARUARU </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 5ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara do Tribunal do Júri </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Regional de Execução Penal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Agilização Processual </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Carta de Ordem, Precatória e Rogatória </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> ESCADA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> GARANHUNS </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td rowspan="2" valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> Juizado Especial Criminal </td></tr><tr><td rowspan="6" valign="top"> GOIANA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="6" valign="top"> GRAVATÁ </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> IGARASSU </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="7" valign="top"> IPOJUCA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara da Fazenda Pública </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> ITAMARACÁ </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> JABOATÃO GUARARAPES </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 5ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 6ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara dos Executivos Fiscais </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Sucessões e Registros Públicos </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara do Tribunal do Júri </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara do Tribunal do Júri </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Cartas de Ordem, Precatória e Rogatória </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="6" valign="top"> LIMOEIRO </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> MORENO </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> NAZARÉ DA MATA </td><td valign="top"> Vara Única </td></tr><tr><td valign="top"> OLINDA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 5ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Sucessões e Registros Públicos </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara do Tribunal do Júri </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Cartas de Ordem, Precatória e Rogatória </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> OURICURI </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td rowspan="7" valign="top"> PALMARES </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> PAUDALHO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> PAULISTA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 5ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara do Tribunal do Júri </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Cartas de Ordem, Precatória e Rogatória </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> PESQUEIRA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Criminal </td></tr><tr><td rowspan="2" valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> PETROLINA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 5ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara da Fazenda Pública </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 4ª Vara Regional de Execução Penal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara do Tribunal do Júri </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara de Violência Doméstica e Familiar contra a Mulher </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2º Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Central de Agilização Processual </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> RIBEIRÃO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td rowspan="6" valign="top"> SALGUEIRO </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="7" valign="top"> SANTA CRUZ CAPIBARIBE </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara da Fazenda Pública </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> SÃO JOSÉ DO EGITO </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td rowspan="6" valign="top"> SÃO LOURENÇO DA MATA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="6" valign="top"> SERRA TALHADA </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td valign="top"> SERTÂNIA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara </td></tr><tr><td rowspan="6" valign="top"> SURUBIM </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> Vara Criminal </td></tr><tr><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr><tr><td rowspan="3" valign="top"> TIMBAÚBA </td><td valign="top"> 1ª Vara </td></tr><tr><td valign="top"> 2ª Vara </td></tr><tr><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> VITÓRIA DE SANTO ANTÃO </td><td valign="top"> 1ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Cível </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara de Família e Registro Civil </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Vara Regional da Infância e Juventude </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 1ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 2ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> 3ª Vara Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Cível e das Relações de Consumo </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Juizado Especial Criminal </td></tr><tr><td valign="top"> &nbsp; </td><td valign="top"> Centro Judiciário de Solução de Conflitos e Cidadania </td></tr></tbody></table>
 
 3ª ENTRÂNCIA
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="223" valign="top" style="width:167.4pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center">COMARCA</p></td><td width="370" valign="top" style="width:277.45pt;border:solid windowtext 1.0pt;
-  border-left:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-right:1.2pt;text-align:center">UNIDADE JUDICIÁRIA</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border:solid windowtext 1.0pt;
-  border-bottom:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">CAPITAL</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">6ª Vara Cível&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">7ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">8ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">9ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">10ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">11ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">12ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">13ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">14ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">15ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">16ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">17ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">18ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">19ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">20ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">21ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">22º Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">23ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">24ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">25ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">26ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">27ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">28ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">29ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">30ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">31ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">32ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">33ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">34ª Vara Cível</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Execução de Títulos Extrajudiciais</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Execução de Títulos Extrajudiciais</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">6ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">7ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">8ª Vara da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara dos Executivos Fiscais Estaduais</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara dos Executivos Fiscais Estaduais</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara dos Executivos Fiscais Municipais</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">6ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">7ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">8ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">9ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">10ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">11ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">12ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">13ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">14ª Vara de Família e Registro Civil</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">6ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">7ª Vara de Sucessões e Registros Públicos</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara da Infância e Juventude</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara da Infância e Juventude</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara da Infância e Juventude</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara da Infância e Juventude</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt"><span style="color:red">&nbsp;</span></p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara Regional da Infância e Juventude</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Acidentes do Trabalho</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Acidentes do Trabalho</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara da Justiça Militar</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">5ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">6ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">7ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">8ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">9ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">10ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">11ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">12ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">13ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">14ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">15ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">16ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">17ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">18ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">19ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">20ª Vara Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Crimes contra a Criança e o Adolescente</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Crimes contra a Criança e o Adolescente</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara do Tribunal do Júri</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara do Tribunal do Júri</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara do Tribunal do Júri</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4ª Vara do Tribunal do Júri</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Execução Penal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Execuções das Penas em Meio Aberto</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara Regional de Execução Penal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara Regional de Execução Penal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara de Execução de Penas Alternativas</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Vara dos Crimes contra a Administração Pública e a Ordem Tributária</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1ª Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2ª Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3ª Vara de Violência Doméstica e Familiar contra a Mulher</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">5º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">6º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">7º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">8º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">9º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">10º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">11º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">12º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">13º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">14º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">15º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">16º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">17º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">18º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">19º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">20º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">21º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">22º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">23º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">24º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">25º Juizado Especial Cível e das Relações de Consumo</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Criminal do Idoso</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3º Juizado Especial Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4º Juizado Especial Criminal</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Especial Cível e das Relações de Consumo e Criminal do Torcedor</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">1º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">2º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">3º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">4º Juizado Especial da Fazenda Pública</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Juizado Informal de Família</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Agilização Processual&nbsp;</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Cartas de Ordem, Precatória e Rogatória</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border-top:none;border-left:
-  solid windowtext 1.0pt;border-bottom:none;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Central de Flagrantes</p></td></tr><tr><td width="223" valign="top" style="width:167.4pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">&nbsp;</p></td><td width="370" valign="top" style="width:277.45pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-right:1.2pt">Centro Judiciário de Solução de Conflitos e Cidadania</p></td></tr></tbody></table>
+COMARCA
+
+UNIDADE JUDICIÁRIA
+
+CAPITAL
+
+1ª Vara Cível
+
+2ª Vara Cível
+
+3ª Vara Cível
+
+4ª Vara Cível
+
+5ª Vara Cível
+
+6ª Vara Cível
+
+7ª Vara Cível
+
+8ª Vara Cível
+
+9ª Vara Cível
+
+10ª Vara Cível
+
+11ª Vara Cível
+
+12ª Vara Cível
+
+13ª Vara Cível
+
+14ª Vara Cível
+
+15ª Vara Cível
+
+16ª Vara Cível
+
+17ª Vara Cível
+
+18ª Vara Cível
+
+19ª Vara Cível
+
+20ª Vara Cível
+
+21ª Vara Cível
+
+22º Vara Cível
+
+23ª Vara Cível
+
+24ª Vara Cível
+
+25ª Vara Cível
+
+26ª Vara Cível
+
+27ª Vara Cível
+
+28ª Vara Cível
+
+29ª Vara Cível
+
+30ª Vara Cível
+
+31ª Vara Cível
+
+32ª Vara Cível
+
+33ª Vara Cível
+
+34ª Vara Cível
+
+1ª Vara de Execução de Títulos Extrajudiciais
+
+2ª Vara de Execução de Títulos Extrajudiciais
+
+1ª Vara da Fazenda Pública
+
+2ª Vara da Fazenda Pública
+
+3ª Vara da Fazenda Pública
+
+4ª Vara da Fazenda Pública
+
+5ª Vara da Fazenda Pública
+
+6ª Vara da Fazenda Pública
+
+7ª Vara da Fazenda Pública
+
+8ª Vara da Fazenda Pública
+
+1ª Vara dos Executivos Fiscais Estaduais
+
+2ª Vara dos Executivos Fiscais Estaduais
+
+Vara dos Executivos Fiscais Municipais
+
+1ª Vara de Família e Registro Civil
+
+2ª Vara de Família e Registro Civil
+
+3ª Vara de Família e Registro Civil
+
+4ª Vara de Família e Registro Civil
+
+5ª Vara de Família e Registro Civil
+
+6ª Vara de Família e Registro Civil
+
+7ª Vara de Família e Registro Civil
+
+8ª Vara de Família e Registro Civil
+
+9ª Vara de Família e Registro Civil
+
+10ª Vara de Família e Registro Civil
+
+11ª Vara de Família e Registro Civil
+
+12ª Vara de Família e Registro Civil
+
+13ª Vara de Família e Registro Civil
+
+14ª Vara de Família e Registro Civil
+
+1ª Vara de Sucessões e Registros Públicos
+
+2ª Vara de Sucessões e Registros Públicos
+
+3ª Vara de Sucessões e Registros Públicos
+
+4ª Vara de Sucessões e Registros Públicos
+
+5ª Vara de Sucessões e Registros Públicos
+
+6ª Vara de Sucessões e Registros Públicos
+
+7ª Vara de Sucessões e Registros Públicos
+
+1ª Vara da Infância e Juventude
+
+2ª Vara da Infância e Juventude
+
+3ª Vara da Infância e Juventude
+
+4ª Vara da Infância e Juventude
+
+Vara Regional da Infância e Juventude
+
+1ª Vara de Acidentes do Trabalho
+
+2ª Vara de Acidentes do Trabalho
+
+Vara da Justiça Militar
+
+1ª Vara Criminal
+
+2ª Vara Criminal
+
+3ª Vara Criminal
+
+4ª Vara Criminal
+
+5ª Vara Criminal
+
+6ª Vara Criminal
+
+7ª Vara Criminal
+
+8ª Vara Criminal
+
+9ª Vara Criminal
+
+10ª Vara Criminal
+
+11ª Vara Criminal
+
+12ª Vara Criminal
+
+13ª Vara Criminal
+
+14ª Vara Criminal
+
+15ª Vara Criminal
+
+16ª Vara Criminal
+
+17ª Vara Criminal
+
+18ª Vara Criminal
+
+19ª Vara Criminal
+
+20ª Vara Criminal
+
+1ª Vara de Crimes contra a Criança e o Adolescente
+
+2ª Vara de Crimes contra a Criança e o Adolescente
+
+1ª Vara do Tribunal do Júri
+
+2ª Vara do Tribunal do Júri
+
+3ª Vara do Tribunal do Júri
+
+4ª Vara do Tribunal do Júri
+
+Vara de Execução Penal
+
+Vara de Execuções das Penas em Meio Aberto
+
+1ª Vara Regional de Execução Penal
+
+2ª Vara Regional de Execução Penal
+
+Vara de Execução de Penas Alternativas
+
+Vara dos Crimes contra a Administração Pública e a Ordem Tributária
+
+1ª Vara de Violência Doméstica e Familiar contra a Mulher
+
+2ª Vara de Violência Doméstica e Familiar contra a Mulher
+
+3ª Vara de Violência Doméstica e Familiar contra a Mulher
+
+1º Juizado Especial Cível e das Relações de Consumo
+
+2º Juizado Especial Cível e das Relações de Consumo
+
+3º Juizado Especial Cível e das Relações de Consumo
+
+4º Juizado Especial Cível e das Relações de Consumo
+
+5º Juizado Especial Cível e das Relações de Consumo
+
+6º Juizado Especial Cível e das Relações de Consumo
+
+7º Juizado Especial Cível e das Relações de Consumo
+
+8º Juizado Especial Cível e das Relações de Consumo
+
+9º Juizado Especial Cível e das Relações de Consumo
+
+10º Juizado Especial Cível e das Relações de Consumo
+
+11º Juizado Especial Cível e das Relações de Consumo
+
+12º Juizado Especial Cível e das Relações de Consumo
+
+13º Juizado Especial Cível e das Relações de Consumo
+
+14º Juizado Especial Cível e das Relações de Consumo
+
+15º Juizado Especial Cível e das Relações de Consumo
+
+16º Juizado Especial Cível e das Relações de Consumo
+
+17º Juizado Especial Cível e das Relações de Consumo
+
+18º Juizado Especial Cível e das Relações de Consumo
+
+19º Juizado Especial Cível e das Relações de Consumo
+
+20º Juizado Especial Cível e das Relações de Consumo
+
+21º Juizado Especial Cível e das Relações de Consumo
+
+22º Juizado Especial Cível e das Relações de Consumo
+
+23º Juizado Especial Cível e das Relações de Consumo
+
+24º Juizado Especial Cível e das Relações de Consumo
+
+25º Juizado Especial Cível e das Relações de Consumo
+
+Juizado Especial Criminal do Idoso
+
+1º Juizado Especial Criminal
+
+2º Juizado Especial Criminal
+
+3º Juizado Especial Criminal
+
+4º Juizado Especial Criminal
+
+Juizado Especial Cível e das Relações de Consumo e Criminal do Torcedor
+
+1º Juizado Especial da Fazenda Pública
+
+2º Juizado Especial da Fazenda Pública
+
+3º Juizado Especial da Fazenda Pública
+
+4º Juizado Especial da Fazenda Pública
+
+Juizado Informal de Família
+
+Central de Agilização Processual
+
+Central de Cartas de Ordem, Precatória e Rogatória
+
+Central de Flagrantes
+
+Centro Judiciário de Solução de Conflitos e Cidadania

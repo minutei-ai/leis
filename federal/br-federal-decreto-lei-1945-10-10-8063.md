@@ -1,5 +1,3 @@
-###DEL-008063-0-000-10-10-1945@@@
-
 DECRETO-LEI N. 8.063 – DE 10 DE OUTUBRO DE 1945
 
 Dispõe sôbre as eleições para Governadores e assembléias legislativas dos Estados e dá outras providências.

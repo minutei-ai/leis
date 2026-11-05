@@ -1,5 +1,3 @@
-###DEC-052170-0-000-28-06-1963@@@
-
 DECRETO Nº 52.170, de 28 de junho de 1963.
 
 Altera o Decreto nº 50.592 de 15 de maio de 1961, que modificou o Decreto nº 47.872 de 5 de dezembro de 1959.

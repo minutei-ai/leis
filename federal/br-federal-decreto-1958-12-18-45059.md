@@ -1,5 +1,3 @@
-###DEC-045059-0-000-18-12-1958@@@
-
 DECRETO Nº 45.059, DE 18 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para efeitos de desapropriação, os imóveis que indica, e dá outras providências.

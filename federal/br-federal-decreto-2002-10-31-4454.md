@@ -1,5 +1,3 @@
-###DEC-004454-0-000-31-10-2002@@@
-
 DECRETO Nº 4.454, DE 31 DE OUTUBRO DE 2002
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão da Secretaria de Estado de Comunicação de Governo da Presidência da República, e dá outras providências.

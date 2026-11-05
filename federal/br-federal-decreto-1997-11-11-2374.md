@@ -1,5 +1,3 @@
-###DEC-002374-0-000-11-11-1997@@@
-
 DECRETO Nº 2.374, DE 11 DE NOVEMBRO DE 1997
 
 Prorroga o prazo que menciona.

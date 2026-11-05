@@ -1,5 +1,3 @@
-###DEC-053667-0-000-05-03-1964@@@
-
 DECRETO Nº 53.667, de 5 DE MARçO DE 1964.
 
 Altera dispositivo do Regulamento aprovado pelo Decreto nº 23.255 de 27-06-1947.

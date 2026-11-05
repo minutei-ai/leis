@@ -1,5 +1,3 @@
-###DEL-001463-0-000-29-04-1976@@@
-
 # DECRETO-LEI Nº 1.463, DE 29 DE ABRIL DE 1976
 
 Dispõe sobre as Tabelas de Escalonamento Vertical de que tratam as Leis nºs 5.619, de 3 novembro de 1970 e 5.906, de 23 de julho de 1973, e dá outras providências.

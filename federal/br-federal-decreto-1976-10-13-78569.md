@@ -1,5 +1,3 @@
-###DEC-078569-0-000-13-10-1976@@@
-
 DECRETO Nº 78.569, DE 13 DE OUTUBRO DE 1976.
 
 Concede reconhecimento ao curso de Pedagogia, da Faculdade de Educação Antônio Augusto Reis Neves, com sede na cidade de Barretos, Estado de São Paulo.

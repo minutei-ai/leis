@@ -1,5 +1,3 @@
-###DEC-054903-0-000-04-11-1964@@@
-
 DECRETO Nº 54.903, DE 4 DE NOVEMBRO DE 1964.
 
 Renova o Decreto nº 45.630, de 25 de março de 1959.

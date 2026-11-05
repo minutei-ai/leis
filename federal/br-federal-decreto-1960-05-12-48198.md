@@ -1,5 +1,3 @@
-###DEC-048198-0-000-12-05-1960@@@
-
 DECRETO Nº 48.193, DE 12 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco Pinheiro da Costa a lavrar quartzo e mica, no município de Malacacheta, Estado de Minas Gerais.

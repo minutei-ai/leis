@@ -18,16 +18,20 @@ Art. 5º Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e cinco dias do mês de junho de dois mil e sete.
 
-JOSÉ MACÊDO DE ARAÚJO<br>
+JOSÉ MACÊDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-ADRIANA R. DA S. OLIVEIRA BORGES<br>
+ADRIANA R. DA S. OLIVEIRA BORGES
+
 SECRETÁRIA DA EDUCAÇÃO
 
-WALTER CARVALHO E SILVA<br>
+WALTER CARVALHO E SILVA
+
 SECRETÁRIO EXECUTIVO
 
-MARCELO RIBEIRO FERNANDES<br>
+MARCELO RIBEIRO FERNANDES
+
 PROCURADOR GERAL
 
 [ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18733)

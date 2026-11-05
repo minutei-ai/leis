@@ -1,5 +1,3 @@
-###DEC-069634-0-000-01-12-1971@@@
-
 DECRETO Nº 69.634 - DE 1 DE DEZEMBRO DE 1971
 
 Redistribui, com os respectivos ocupantes, cargos da extinta Comissão do vale do São Francisco, para o Quadro de Pessoal das Secretarias do Ministério Público Federal, e dá outras providencias.

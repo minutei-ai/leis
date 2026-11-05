@@ -1,5 +1,3 @@
-###DEC-057359-0-000-29-11-1965@@@
-
 DECRETO Nº 57.359, DE 29 DE NOVEMBRO DE 1965.
 
 Concede indulto a sentenciados pela forma que menciona.

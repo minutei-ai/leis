@@ -1,5 +1,3 @@
-###DEC-093654-0-000-05-12-1986@@@
-
 DECRETO Nº 93.654, DE 5 DE DEZEMBRO DE 1986
 
 Concede à Usinas Siderúrgicas de Minas Gerais S.A. - USIMINAS (GRUPO SIDERBRÁS), autorização para proceder a aumento do seu capital social.

@@ -1,5 +1,3 @@
-###DEC-076087-0-000-06-08-1975@@@
-
 DECRETO Nº 76.087 - DE 6 DE AGOSTO DE 1975
 
 Declara a caducidade da concessão outorgada a Ângelo Pianaro para lavrar areia quartzosa, no Município de Campo Largo, Estado do Paraná.

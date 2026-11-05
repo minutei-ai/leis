@@ -1,5 +1,3 @@
-###DEC-051297-0-000-25-08-1961@@@
-
 DECRETO Nº 51.297, DE 25 DE AGÔSTO DE 1961.
 
 Concede à Mineração Santa Luzia S. A. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-004323-0-000-06-08-2002@@@
-
 DECRETO Nº 4.323, DE 6 DE AGOSTO DE 2002
 
 Dá nova redação ao Anexo II, "a", ao Decreto nº 3.815, de 9 de maio de 2001, que aprova o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas da Casa Civil da Presidência da República, na parte referente à organização da Imprensa Nacional.

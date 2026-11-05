@@ -1,5 +1,3 @@
-###DEL-001999-0-000-30-12-1982@@@
-
 # DECRETO-LEI Nº 1.999, de 30 dE dezembro de 1982
 
 Reajusta os vencimentos, salários e proventos dos servidores das Secretarias do Tribunal Federal de Recursos e do Conselho da Justiça Federal e dá outras providências.

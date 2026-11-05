@@ -1,5 +1,3 @@
-###DEC-080294-0-000-06-09-1977@@@
-
 DECRETO Nº 80.294, DE 6 DE SETEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão de FURNAS - Centrais Elétricas S.A., no Estado de Minas Gerais.

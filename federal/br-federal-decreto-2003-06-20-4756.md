@@ -1,5 +1,3 @@
-###DEC-004756-0-000-20-06-2003@@@
-
 [DECRETO Nº 4.756, DE 20 DE JUNHO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.756-2003?OpenDocument)
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão do Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis \- IBAMA, e dá outras providências.
@@ -22,7 +20,8 @@ Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão d
 
 JOSÉ ALENCAR GOMES DA SILVA
 
-Guido Mantega<br>
+Guido Mantega
+
 Marina Silva
 
 ANEXO I

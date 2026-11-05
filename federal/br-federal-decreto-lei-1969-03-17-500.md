@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/5852a17b-0c08-47c0-8aef-be94e2711a17/texto#nowhere)
 
-###DEL-000500-0-000-17-03-1969@@@
-
 DECRETO-LEI Nº 500, DE 17 DE MARÇO DE 1969
 
 Isenta do pagamento de custas o Distrito Federal perante a Justiça do Distrito Federal.

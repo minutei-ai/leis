@@ -1,5 +1,3 @@
-###DEL-009780-0-000-06-09-1946@@@
-
 DECRETO-LEI N. 9.780 – DE 6 DE SETEMBRO DE 1946
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Educação e Saúde

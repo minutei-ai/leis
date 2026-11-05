@@ -1,5 +1,3 @@
-###DEL-006246-0-000-05-02-1944@@@
-
 DECRETO-LEI N. 6.246 – DE 5 DE FEVEREIRO DE 1944
 
 Modifica o sistema de cobrança da contribuição devida ao Serviço Nacional de Aprendizagem Industrial (SENAI)

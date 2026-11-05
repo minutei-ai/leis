@@ -1,5 +1,3 @@
-###DEC-077797-0-000-09-06-1976@@@
-
 DECRETO Nº 77.797, DE 9 DE JUNHO DE 1976.
 
 Dispõe sobre a aplicação da Lei número 5.540, de 28 de novembro de 1968, e dá outras providências.

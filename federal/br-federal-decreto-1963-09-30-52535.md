@@ -1,5 +1,3 @@
-###DEC-052535-0-000-30-09-1963@@@
-
 Decreto nº 52.535, de 30 de setembro de 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Rio Grande do Sul a ampliar suas instalações.

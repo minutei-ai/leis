@@ -1,5 +1,3 @@
-###DEC-067766-0-000-09-12-1970@@@
-
 DECRETO Nº 67.766, DE 9 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 40.278, de 5-11-56.

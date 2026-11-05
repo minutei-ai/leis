@@ -1,5 +1,3 @@
-###DEC-094191-0-000-06-04-1987@@@
-
 DECRETO Nº 94.191, DE 6 DE ABRIL DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, imóveis situados no município de São Luís, Estado do Maranhão, e dá outras providências.

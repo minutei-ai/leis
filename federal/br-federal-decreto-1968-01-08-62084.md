@@ -1,5 +1,3 @@
-###DEC-062084-0-000-08-01-1968@@@
-
 DECRETO Nº 62.084, DE 8 DE JANEIRO DE 1968.
 
 Retifica o art. 1º do Decreto número 54.922, de 4 de novembro de 1964.

@@ -1,20 +1,18 @@
-###DEC-030505-0-000-05-02-1952@@@
+**DECRETO N. 30.505 – DE 5 DE FEVEREIRO DE 1952**
 
-<strong>DECRETO N. 30.505 – DE 5 DE FEVEREIRO DE 1952</strong>
-
-<em><strong>Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica de um trecho encachoeirado, com início no salto São João, existente no rio Mourão, distrito de Campo Mourão, município de igual nome, Estado do Paraná.</strong></em>
+***Outorga ao Estado do Paraná concessão para o aproveitamento de energia hidráulica de um trecho encachoeirado, com início no salto São João, existente no rio Mourão, distrito de Campo Mourão, município de igual nome, Estado do Paraná.***
 
 O Presidente da República, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição, e nos têrmos do art. 150 do Código de Águas (Decreto nº 24.643, de 10 de julho de 1934),
 
- <strong>DECRETA:</strong>
+ **DECRETA:**
 
-<strong>Art.</strong> 1º É outorgada ao Estado do Paraná concessão para o aproveitamento progressivo de energia hidráulica de u mtrecho encachoeirado, com início no salto São João, existente no rio Mourão, distrito de Campo Mourão, município de igual nome, Estado do Paraná.
+**Art.** 1º É outorgada ao Estado do Paraná concessão para o aproveitamento progressivo de energia hidráulica de u mtrecho encachoeirado, com início no salto São João, existente no rio Mourão, distrito de Campo Mourão, município de igual nome, Estado do Paraná.
 
 § 1º Em portaria do Ministro da Agricultura no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga de derivação e a potência da etapa inicial, bem como das subsequentes, a medida que forem sendo aprovados os projetos correspondentes.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviço público, de utilidade pública e para comércio de energia nos municípios de Campo Mourão, Apucarana e Mandaguarí, todos no Estado do Paraná.
 
-<strong>Art.</strong> 2º Caducará, o presente título, independente de ato declaratório, se o concessionário não satisfizer as condições seguintes:
+**Art.** 2º Caducará, o presente título, independente de ato declaratório, se o concessionário não satisfizer as condições seguintes:
 
 I – Registrá-lo na Divisão de Águas, do Ministério da Agricultura, dentro de trinta (30) dias, contados da data de sua publicação.
 
@@ -38,7 +36,7 @@ b) capacidade de aproveitamento:
 
 3 – necessidade de regularização do curso dágua;
 
-4 <em>–</em> barragem; características, método de cálculo, natureza do terreno para as fundações. Volume dágua acumulada; descarga de regularização;
+4 *–* barragem; características, método de cálculo, natureza do terreno para as fundações. Volume dágua acumulada; descarga de regularização;
 
 5 – vertedouros, adufas, comportas, tomada dágua, canal adutor ou túnel, escadas para peixe – características gerais, cálculos e desenhos de detalhes;
 
@@ -98,24 +96,24 @@ IV – Iniciar e concluir as obras nos prazos que forem determinados pelo Minist
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministro da Agricultura.
 
-<strong>Art.</strong> 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observação fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
+**Art.** 3º O concessionário fica obrigado a construir e manter, nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias à observação fluviométricas e medições de descarga do curso d’água que vai utilizar, de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art.</strong> 4º O captial a remunerar será o efetivamente investido nas instalações do concessionário em função de sua indústria concorrendo, de forma permanente, para a produção transmissão e distribuição de energia elétrica.
+**Art.** 4º O captial a remunerar será o efetivamente investido nas instalações do concessionário em função de sua indústria concorrendo, de forma permanente, para a produção transmissão e distribuição de energia elétrica.
 
-<strong>Art.</strong> 5º As tarifas do fornecimento de energia serão fixadas e trienalmente revistas pelo Ministério da Agricultura.
+**Art.** 5º As tarifas do fornecimento de energia serão fixadas e trienalmente revistas pelo Ministério da Agricultura.
 
-<strong>Art.</strong> 6º Para a manutenção da integridade do capital a que se refere o art. 4º será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
+**Art.** 6º Para a manutenção da integridade do capital a que se refere o art. 4º será criado um fundo de reserva que proverá às renovações, determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único. A constituição dêsse fundo, que se denominará, reserva de renovação, será realizada por quota especial que incidirá sôbre as tarifas sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art.</strong> 7º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato disciplinar pelo Tribunal de Contas.
+**Art.** 7º A presente concessão vigorará pelo prazo de trinta (30) anos, contados da data do registro do respectivo contrato disciplinar pelo Tribunal de Contas.
 
-<strong>Art.</strong> 8º O presente decreto entra em vigor na data da sua publicação.
+**Art.** 8º O presente decreto entra em vigor na data da sua publicação.
 
-<strong>Art.</strong> 9º Revogam-se as disposições em contrário.
+**Art.** 9º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 5 de fevereiro de 1952; 131º da Independência e 64º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas

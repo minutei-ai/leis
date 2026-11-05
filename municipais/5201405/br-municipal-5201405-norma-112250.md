@@ -46,7 +46,8 @@ e) 1 (um) representante da área de Finanças;
 
 f) 1 (um) representante indicado pelo Poder Executivo; e
 
-g) 1 (um) representante da Câmara Municipal indicado pela Mesa Diretora.<br>
+g) 1 (um) representante da Câmara Municipal indicado pela Mesa Diretora.
+
 ([Promulgado pelo Poder Executivo, D.O.M. de 10-03-2026](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18798)).
 
 ~~g) (VETADO).~~
@@ -63,7 +64,8 @@ b) entre 1 (um) e 3 (três) representantes de entidades de classe, conselhos pro
 
 § 3º Em qualquer hipótese, deverá ser assegurada a participação mínima de 1 (uma) pessoa com deficiência entre os representantes titulares da sociedade civil, que poderá ser indicada ou eleita conforme regras do Regimento Interno do Conselho.
 
-§ 4º A escolha dos representantes da sociedade civil será realizada mediante chamamento público e processo eleitoral participativo, convocado pelo Conselho Municipal dos Direitos da Pessoa com Deficiência, garantida ampla publicidade, critérios objetivos de habilitação e participação aberta a entidades regularmente constituídas no Município.<br>
+§ 4º A escolha dos representantes da sociedade civil será realizada mediante chamamento público e processo eleitoral participativo, convocado pelo Conselho Municipal dos Direitos da Pessoa com Deficiência, garantida ampla publicidade, critérios objetivos de habilitação e participação aberta a entidades regularmente constituídas no Município.
+
 ([Promulgado pelo Poder Executivo, D.O.M. de 10-03-2026](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18798)).
 
 ~~§ 4º (VETADO).~~
@@ -162,5 +164,6 @@ Aparecida de Goiânia, 19 de janeiro de 2026.
 
  
 
-LEANDRO VILELA VELLOSO<br>
+LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia

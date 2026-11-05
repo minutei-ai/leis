@@ -1,5 +1,3 @@
-###DEC-099625-0-000-18-10-1990@@@
-
 DECRETO N° 99.625, DE 18 DE OUTUBRO DE 1990
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período de 1962/80, entre o Brasil e o Chile (Acordo n° 3).

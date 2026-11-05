@@ -1,5 +1,3 @@
-###DEC-048320-0-000-20-06-1960@@@
-
 DECRETO Nº 48.320, DE 20 DE junho DE 1960.
 
 Autoriza o cidadão brasileiro Francisco da Silva Teixeira a pesquisar bauxita e feldspato, no município de Barra do Piraí, Estado do Rio de Janeiro.

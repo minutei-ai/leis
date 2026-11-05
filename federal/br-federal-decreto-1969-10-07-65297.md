@@ -1,5 +1,3 @@
-###DEC-065297-0-000-07-10-1969@@@
-
 DECRETO Nº 65.297 - DE 7 DE OUTUBRO DE 1969.
 
 Declara caduco o Decreto nº 4.169, de 31 de maio de 1939.

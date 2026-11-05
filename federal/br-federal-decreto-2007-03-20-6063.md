@@ -1,5 +1,3 @@
-###DEC-006063-0-000-20-03-2007@@@
-
 DECRETO Nº 6.063, DE 20 DE MARÇO DE 2007.
 
 Regulamenta, no âmbito federal, dispositivos da Lei no 11.284, de 2 de março de 2006, que dispõe sobre a gestão de florestas públicas para a produção sustentável, e dá outras providências.
@@ -557,5 +555,3 @@ Brasília, 20 de março de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Marina silva
-
-Este texto não substitui o publicado no DOU de 21.3.2007.

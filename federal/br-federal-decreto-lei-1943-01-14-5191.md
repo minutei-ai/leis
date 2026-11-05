@@ -1,5 +1,3 @@
-###DEL-005191-0-000-14-01-1943@@@
-
 DECRETO‑LEI N. 5.191 – DE 14 DE JANEIRO DE 1943
 
 Prorroga a vigência do crédito especial aberto pelo decreto‑lei n. 2.443, de 24 de julho de 1940

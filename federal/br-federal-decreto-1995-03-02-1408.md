@@ -1,7 +1,3 @@
-1
-
-###DEC-001408-0-000-02-03-1995@@@
-
 DECRETO 1.408, DE 2 DE MARÇO DE 1995
 
 Dá nova redação aos arts. 3° e 10 do Decreto n° 660, de 25 de setembro  de 1992.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=74184)
-
 # LEI Nº 12.694, DE 04 DE OUTUBRO DE 2007
 
 ### _Altera a Lei n. 6.543, de 16 de novembro de 1989, que autoriza a Fazenda do Estado a alienar, mediante doação, ao Município de Espírito Santo do Pinhal, o imóvel que especifica._

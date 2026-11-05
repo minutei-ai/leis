@@ -1,5 +1,3 @@
-###DEC-006940-0-000-18-08-2009@@@
-
 DECRETO Nº 6.940, DE 18 DE AGOSTO DE 2009.
 
 Dá nova redação ao caput do art. 6~~º~~ do Estatuto Social do Banco Nacional de Desenvolvimento Econômico e Social - BNDES, aprovado pelo Decreto n~~º~~ 4.418, de 11 de outubro de 2002.

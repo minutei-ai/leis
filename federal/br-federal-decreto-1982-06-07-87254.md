@@ -1,5 +1,3 @@
-###DEC-087254-0-000-07-06-1982@@@
-
 Decreto nº 87.254, de 07 de junho de 1982
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, nos Municípios de Turmalina e Populina, no Estado de são Paulo, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-096606-0-000-29-08-1988@@@
-
 DECRETO Nº 96.606, DE 29 DE AGOSTO DE 1988
 
 Altera a redação do artigo 5º do Decreto nº 96.056, de l9 de maio de l988, que reor­ganiza o Conselho de Desenvolvimento Industrial -  CDI.

@@ -1,5 +1,3 @@
-###DEC-060750-0-000-26-05-1967@@@
-
 DECRETO Nº 60.750, DE 26 DE MAIO DE 1967.
 
 Altera para o corrente exercício o orçamento do Subanexo 4.16.06 - Departamento dos Correios e Telégrafos.

@@ -1,5 +1,3 @@
-###DEC-086153-0-000-23-06-1981@@@
-
 Decreto nº 86.153, de 23 de Junho de 1981.
 
 Aprova alteração introduzida no Estatuto da Petróleo Brasileiro S.A. - PETROBRÁS.

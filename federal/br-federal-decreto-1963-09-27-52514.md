@@ -1,5 +1,3 @@
-###DEC-052514-0-000-27-09-1963@@@
-
 DECRETO Nº 52.514, DE 27 DE SETEMBRO DE 1963.
 
 Extingue a 2ª Coletoria Federal em Teresina, no Estado do Piauí.

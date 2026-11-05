@@ -1,5 +1,3 @@
-###DEC-055109-0-000-02-12-1964@@@
-
 Decreto nº 55.109, de 2 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Alberto Vitale a lavrar ardósia, no município de Guarulhos, Estado de São Paulo.

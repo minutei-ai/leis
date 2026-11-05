@@ -1,5 +1,3 @@
-###DEL-004958-0-000-14-11-1942@@@
-
 DECRETO-LEI N. 4.958 – DE 14 DE NOVEMBRO DE 1942
 
 Institue o Fundo Nacional de Ensino Primário e dispõe sobre o Convênio Nacional de Ensino Primário

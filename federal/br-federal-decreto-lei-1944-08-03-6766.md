@@ -1,5 +1,3 @@
-###DEL-006766-0-000-03-08-1944@@@
-
 DECRETO-LEI N. 6.766 – DE 3 DE AGôSTO DE 1944
 
 Altera, sem aumento de despesa, o atual orçamento do Ministério da Viação e Obras Públicas

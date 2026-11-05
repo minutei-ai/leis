@@ -28,7 +28,8 @@ Art. 3º Para ter direito ao benefício de meia-entrada, o eleitor convocado ter
 
 § 2º Não gera o direito ao benefício previsto nesta Lei a participação em treinamento ou capacitação.
 
-Art. 4º O beneficiário desta Lei terá direito a uma carteira física ou digital, ou declaração emitida pela Justiça Eleitoral, que terá validade até o dia 31 de dezembro do ano da eleição ordinária subsequente.<br>
+Art. 4º O beneficiário desta Lei terá direito a uma carteira física ou digital, ou declaração emitida pela Justiça Eleitoral, que terá validade até o dia 31 de dezembro do ano da eleição ordinária subsequente.
+
 \- [Redação dada pela Lei nº 23.201, de 9-1-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110349).
 
 ~~Art. 4º O beneficiário desta Lei terá direito a uma carteira física ou digital, emitida pela Justiça Eleitoral de Goiás, que terá validade até o dia 31 de dezembro do ano da eleição ordinária subsequente.~~

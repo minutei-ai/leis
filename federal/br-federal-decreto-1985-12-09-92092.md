@@ -1,5 +1,3 @@
-###DEC-092092-0-000-09-12-1985@@@
-
 Decreto nº 92.092, de 09 de Dezembro de 1985.
 
 Dispõe sobre a participação em atividades político-partidárias, no meio civil, dos militares da Reserva Remunerada, e Reformados.

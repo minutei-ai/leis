@@ -1,5 +1,3 @@
-###DEC-051972-0-000-26-04-1963@@@
-
 DECRETO Nº 51.972, DE 26 DE ABRIL DE 1963.
 
 Autoriza a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a ampliar suas instalações.

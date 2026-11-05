@@ -1,5 +1,3 @@
-###DEL-003355-0-000-19-06-1941@@@
-
 DECRETO-LEI N. 3.355 – DE 19 DE JUNHO DE 1941
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 302:515$4, para pagamento à Caixa de Aposentadoria e Pensões dos Ferroviários da Estrada de Ferro São Luiz a Terezina

@@ -1,5 +1,3 @@
-###DEL-005503-0-000-19-05-1943@@@
-
 DECRETO‑LEI N. 5.503 – DE 19 DE MAIO DE 1943
 
 Abre, ao Ministério da Educação e Saude, o crédito especial de Cr$ 8.834,00 para pagamento de gratificação adicional

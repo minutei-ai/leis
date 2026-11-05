@@ -1,5 +1,3 @@
-###DEC-052669-0-000-11-10-1963@@@
-
 DECRETO Nº 52.669, DE 11 DE OUTUBRO DE 1963.
 
 Dispõe sôbre a gratificação de risco de vida de que trata o art. 24 da Lei nº 4.242, de 17 de julho de 1963.

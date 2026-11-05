@@ -1,5 +1,3 @@
-###DEL-007041-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.041 – DE 10 DE NOVEMBRO DE 1944
 
 Altera dispositivos do Código de Vencimentos e Vantagens dos Militares do Exército.

@@ -1,5 +1,3 @@
-###DEC-051685-0-000-30-01-1963@@@
-
 DECRETO Nº 51.685, DE 30 DE JANEIRO DE 1963.
 
 Cria Grupo de Trabalho sôbre a Indústria Químico-Farmacêutico Nacional.

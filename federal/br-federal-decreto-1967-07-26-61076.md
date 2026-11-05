@@ -1,5 +1,3 @@
-###DEC-061076-0-000-26-07-1967@@@
-
 DECRETO Nº 61.076, DE 26 DE JULHO DE 1967.
 
 Institui Subcomissão Interministerial de Estudos para a Utilização Múltipla do Rio São Francisco.

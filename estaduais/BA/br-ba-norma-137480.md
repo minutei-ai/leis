@@ -150,42 +150,50 @@ Institui o Fundo Estadual de Segurança Pública - FESP, cria o Conselho Estadua
 
 **I -** 01 (um) representante da Secretaria da Segurança Pública, que o presidirá;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: I - "o Secretário da Segurança Pública, que o presidirá; "
 
 **II -** 01 (um) representante da Secretaria de Administração Penitenciária e Ressocialização;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: II - "o Secretário de Administração Penitenciária e Ressocialização; "
 
 **III -** 01 (um) representante do Corpo de Bombeiros Militar da Bahia;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: III - "o Comandante-Geral do Corpo de Bombeiros Militar;"
 
 **IV -** 01 (um) representante da Polícia Militar da Bahia;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: IV - "o Comandante-Geral da Polícia Militar;"
 
 **V -** 01 (um) representante da Polícia Civil do Estado da Bahia;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: V - "o Delegado-Geral da Polícia Civil da Bahia;"
 
 **VI -** 01 (um) representante do Departamento de Polícia Técnica;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: VI - "o Diretor-Geral do Departamento de Polícia Técnica;"
 
 **VII -**  01 (um) representante da Superintendência de Proteção e Defesa Civil, da estrutura da Casa Civil;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: VII - "o Superintendente de Proteção e Defesa Civil;"
 
 **VIII -** 01 (um) representante da Secretaria de Justiça e Direitos Humanos;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: VIII - "01 (um) representante da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social;"
 
 **IX -** 01 (um) representante do Tribunal de Justiça do Estado da Bahia;
@@ -198,12 +206,14 @@ Redação original: VIII - "01 (um) representante da Secretaria de Justiça, Dir
 
 **XIII -** 02 (dois) representantes de entidades ou organizações da sociedade civil cuja finalidade esteja relacionada com a segurança pública e a defesa social com sede no Estado da Bahia;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: XIII- "02 (dois) representantes de entidades ou organizações da sociedade cuja finalidade esteja relacionada com segurança pública e defesa social;"
 
 **XIV -** 02 (dois) representantes de entidades de profissionais da segurança pública com sede no Estado da Bahia;
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: XIV- "02 (dois) representantes das entidades de profissionais de segurança pública."
 
 **XV -** 01 (um) representante dos Agentes de Trânsito, indicado por órgão ou entidade pertencente à estrutura administrativa do Município de Salvador - Bahia;
@@ -240,12 +250,14 @@ Inciso acrescido pela Lei 14.588 de 29 de junho de 2023.
 
 **§ 1**º - Os representantes das entidades e organizações referidas nos incisos XIII e XIV do _caput_ deste artigo serão eleitos por meio de processo aberto, conforme convocação pública, cujos termos e critérios objetivos serão previamente aprovados pelo CONESP, sob a responsabilidade de uma Comissão Eleitoral, designada pelo Titular da SSP.
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: § 1º - "Os representantes da sociedade civil e das entidades de profissionais de segurança pública serão escolhidos por meio de processo aberto, conforme convocação pública e critérios objetivos, sob a responsabilidade de uma Comissão Eleitoral, designada pelo Titular da SSP."
 
 **§ 2**º - Os mandatos eletivos dos membros referidos nos incisos XIII e XIV do _caput_ deste artigo, bem como a designação dos demais membros do CONESP, terão a duração de 02 (dois) anos, permitida apenas uma reeleição ou recondução.
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: § 2º - "O mandato eletivo dos representantes de entidades ou organizações da sociedade e das entidades de profissionais de segurança pública terá a duração de 02 (dois) anos, permitida apenas uma recondução."
 
 **§ 3**º - A função de conselheiro do CONESP é de relevância pública, não remunerada, com garantia de dispensa do trabalho durante o período das reuniões, qualificações e ações específicas do Colegiado, sem qualquer prejuízo para o membro do Conselho.
@@ -256,7 +268,8 @@ Revogado de acordo com a Lei 14.588 de 29 de junho de 2023.
 
 **§ 5**º - Os membros do Conselho serão substituídos, em suas ausências e impedimentos, pelos respectivos suplentes.
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: § 5º - " Os membros referidos nos incisos VIII a XIV do caput deste artigo serão substituídos pelos seus suplentes."
 
 **§ 6**º - Os órgãos e as entidades referidos nos incisos XV a XXII do _caput_ deste artigo serão convidados a indicar, facultativamente, por ato de seus respectivos dirigentes, os seus representantes.
@@ -273,7 +286,8 @@ Redação original: § 5º - " Os membros referidos nos incisos VIII a XIV do ca
 
 **§ 3**º - As recomendações do Conselho serão aprovadas pela maioria simples de seus membros.
 
-Redação de acordo com a Lei 14.588 de 29 de junho de 2023.<br>
+Redação de acordo com a Lei 14.588 de 29 de junho de 2023.
+
 Redação original: § 3º - "As deliberações do Conselho serão tomadas pela maioria simples, estando presente a maioria de seus membros."
 
 **§ 4**º - O Presidente do Conselho terá direito a voto de qualidade, bem como a prerrogativa de deliberar em casos de extrema urgência, _ad referendum_ do Plenário, submetendo o seu ato à ratificação deste, na reunião subsequente.

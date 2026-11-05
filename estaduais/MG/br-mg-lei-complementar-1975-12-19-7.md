@@ -49,7 +49,3 @@ Dada no Palácio da Liberdade, em Belo Horizonte, aos 19 de dezembro de 1975.
 ANTÔNIO AURELIANO CHAVES DE MENDONÇA
 
 Márcio Manoel Garcia Vilela
-
-\================================================================
-
-Data da última atualização: 13/12/2005.

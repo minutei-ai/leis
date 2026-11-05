@@ -1,5 +1,3 @@
-###DEC-083050-0-000-17-01-1979@@@
-
 Decreto nº 83.050, de 17 de janeiro de 1979
 
 Autoriza o Ministro da Fazenda a contratar operação externa e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-057310-0-000-24-11-1965@@@
-
 DECRETO Nº 57.310, DE 24 DE NOVEMBRO DE 1965.
 
 Autoriza a cessão gratuita ao Instituto de Menores de Pelotas do terreno que menciona, situado no Município de Pelotas, Estado do Rio Grande de Sul.

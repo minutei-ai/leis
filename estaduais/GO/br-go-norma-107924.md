@@ -72,8 +72,6 @@ II – 1º de junho de 2023, quanto ao _caput_ e à alínea “a–1” do incis
 
 Goiânia, 6 de novembro de 2023; 135º da República.
 
-<br>
-
 DANIEL VILELA
 
 Governador do Estado em exercício

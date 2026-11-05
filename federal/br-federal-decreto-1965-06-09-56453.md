@@ -1,5 +1,3 @@
-###DEC-056453-0-000-09-06-1965@@@
-
 DECRETO Nº 56.453, DE 9 DE JUNHO DE 1965.
 
 Autoriza Metais de Minas Gerais S.A - METAMIG a lavrar argila e areia quartzosa no município de Belo Horizonte, Estado de Minas Gerais.

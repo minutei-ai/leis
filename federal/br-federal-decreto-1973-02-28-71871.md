@@ -1,5 +1,3 @@
-###DEC-071871-0-000-28-02-1973@@@
-
 DECRETO Nº 71.871, DE 28 DE FEVEREIRO DE 1973.
 
 Muda a subordinação do Estabelecimento Central de Transportes (ECT).

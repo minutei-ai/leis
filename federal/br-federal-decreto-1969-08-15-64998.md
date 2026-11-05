@@ -1,5 +1,3 @@
-###DEC-064998-0-000-15-08-1969@@@
-
 DECRETO Nº 64.998 - DE 15 DE AGÔSTO DE 1969.
 
 Modifica a redação dos artigos 24 e 66 do Decreto nº 64.619, de 28 de abril de 1969, que dispõe sôbre a organização do Ministério da Justiça.

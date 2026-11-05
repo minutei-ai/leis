@@ -1,5 +1,3 @@
-###DEC-093253-0-000-12-09-1986@@@
-
 DECRETO Nº 93.253, DE 12 DE SETEMBRO DE 1986
 
 Regulamenta o artigo 7º da Lei nº 7.508, de 4 de julho de 1986, que institui normas para a propaganda eleitoral.

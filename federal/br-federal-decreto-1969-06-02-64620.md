@@ -1,5 +1,3 @@
-###DEC-064620-0-000-02-06-1969@@@
-
 DECRETO Nº 64.620, DE 2 DE JUNHO DE 1969.
 
 Declara de utilidade pública, para fins de desapropriação, os imóveis necessários à construção de uma estação receptora de energia elétrica, e para fins de constituição de servidão administrativa, uma faixa de terra destinada à passagem de linha de transmissão.

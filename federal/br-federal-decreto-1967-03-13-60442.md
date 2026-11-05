@@ -1,5 +1,3 @@
-###DEC-060442-0-000-13-03-1967@@@
-
 DECRETO Nº 60.442, DE 13 DE MARÇO DE 1967.
 
 Dispõe sôbre autorização para Empresas de embarcações da pesca operarem no País.

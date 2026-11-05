@@ -1,5 +1,3 @@
-###DEL-008081-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.081 – DE 11 DE OUTUBRO DE 1945
 
 Dispõe sôbre a arrecadação do impôsto de rendas e consignações no Distrito Federal

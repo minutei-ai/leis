@@ -1,5 +1,3 @@
-###DEC-091730-0-000-02-10-1985@@@
-
 Decreto nº 91.730, de 02 de outubro dE 1985
 
 Autoriza o funcionamento do curso de Engenharia de Alimentos da Escola de Engenharia Mauá, no Estado de São Paulo.

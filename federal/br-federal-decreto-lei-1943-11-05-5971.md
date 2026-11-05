@@ -1,5 +1,3 @@
-###DEL-005971-0-000-05-11-1943@@@
-
 DECRETO‑LEI N. 5.971 – DE 5 DE NOVEMBRO DE 1943
 
 Cria o Serviço de Documentação do Ministério da Justiça e Negócios Interio­res (S.D.J.) e dá outras providências

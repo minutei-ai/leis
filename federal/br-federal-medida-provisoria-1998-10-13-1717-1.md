@@ -1,5 +1,3 @@
-###MPV-001717-0-001-13-10-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.717-1, DE 13 DE OUTUBRO DE 1998
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal Da União, em favor de Refinanciamento da Dívida Pública Mobiliária Federal - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$68.383.840.000,00, para reforço de dotações consignadas no vigente orçamento.

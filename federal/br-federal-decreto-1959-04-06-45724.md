@@ -1,5 +1,3 @@
-###DEC-045724-0-000-06-04-1959@@@
-
 DECRETO Nº 45.724, DE 6 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Tertuliano Dias Filho a pesquisar caulim no município de Astolfo Dutra, Estado de Minas Gerais.

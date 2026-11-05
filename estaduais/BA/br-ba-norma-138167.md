@@ -34,18 +34,21 @@ Secretário da Administração
 
 Imóvel: DOAÇÃO DO ESTADO DA BAHIA PARA O TRIBUNAL REGIONAL ELEITORAL DA BAHIA
 
-<table border="0" cellpadding="0" cellspacing="0" class="MsoNormalTable" style="width:16.0cm;border-collapse:collapse" width="605"><tbody><tr><td style="width:113.25pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p align="center" class="MsoNormal" style="text-align:center"><b><span style="color:black">Município</span></b></p></td><td style="width:113.25pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">UF</span></p></td><td style="width:113.25pt;border:solid black 1.0pt;
-  border-right:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Área (m²)</span></p></td><td style="width:113.85pt;border:solid black 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Perímetro (m)</span></p></td></tr><tr><td style="width:113.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">SALVADOR</span></p></td><td style="width:113.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">Bahia</span></p></td><td style="width:113.25pt;border-top:none;border-left:
-  solid black 1.0pt;border-bottom:solid black 1.0pt;border-right:none;
-  padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="151"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">26.281,00</span></p></td><td style="width:113.85pt;border:solid black 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt" valign="top" width="152"><p align="center" class="MsoNormal" style="text-align:center"><span style="font-size:12.0pt">625,65</span></p></td></tr></tbody></table>
+**Município**
+
+UF
+
+Área (m²)
+
+Perímetro (m)
+
+SALVADOR
+
+Bahia
+
+26.281,00
+
+625,65
 
 L I M I T E S  E  C O N F R O N T A Ç Õ E S
 

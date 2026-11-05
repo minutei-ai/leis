@@ -1,5 +1,3 @@
-###DEC-072500-0-000-20-07-1973@@@
-
 DECRETO Nº 72.500, DE 20 DE JULHO DE 1973.
 
 Autoriza a contratação de operações de empréstimo externo para financiamento do programa de implantação de sistemas integrados de saúde nos Estados de Pernambuco, Paraíba e região norte de Minas Gerais, e dá outras Providências.

@@ -1,5 +1,3 @@
-###DEC-069414-0-000-22-10-1971@@@
-
 DECRETO Nº 69.414 - DE 22 DE OUTUBRO DE 1971
 
 Confisca bens de José Cavalcanti de Albuquerque, domiciliado em João Pessoa, Estado da Paraíba, e dá outras providências.

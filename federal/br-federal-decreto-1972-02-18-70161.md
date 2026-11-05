@@ -1,5 +1,3 @@
-###DEC-070161-0-000-18-02-1972@@@
-
 decreto nº 70.161, de 18 de fevereiro de 1972.
 
 Altera a denominação e aprova o regulamento para o Centro de Educação Física da Marinha.

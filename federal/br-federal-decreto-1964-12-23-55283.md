@@ -1,5 +1,3 @@
-###DEC-055283-0-000-23-12-1964@@@
-
 decreto nº 55.283, de 23 de dezembro de 1964.
 
 Prorroga até 31 de janeiro de 1965 o prazo a que se refere o art. 3º do Decreto nº 54.067, de 29 de julho de 1964.

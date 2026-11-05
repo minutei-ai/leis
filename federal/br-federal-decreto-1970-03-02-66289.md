@@ -1,5 +1,3 @@
-###DEC-066289-0-000-02-03-1970@@@
-
 DECRETO Nº 66.289 - DE 2 DE MARÇO DE 1970
 
 Altera a composição da Comissão Supervisora do Planejamento e Execução de Obras da Cidade Universitária, da Universidade Federal do Rio de Janeiro.

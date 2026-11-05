@@ -1,5 +1,3 @@
-###DEC-048452-0-000-30-06-1960@@@
-
 DECRETO N. 48.452 – DE 30 DE JUNHO DE 1960
 
 Concede à sociedade anônima “Pan American Woria Arrways, In” autorização para continuar a funcionar na Republica com a: alterações introduzidas em seus Estatutos.

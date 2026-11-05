@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/184929)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16656-12.01.2018.html)
 
 # LEI N° 16.656, DE 12 DE JANEIRO DE 2018
@@ -9,7 +8,8 @@
 
 ### _~~Proíbe que postos de combustíveis abasteçam com combustível os veículos após ser acionada a trava de segurança da bomba de abastecimento~~_
 
-~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:~~<br>
+~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:~~
+
 ~~Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8°, da Constituição do Estado, a seguinte lei:~~
 
 ~~Artigo 1° - Fica proibido, no Estado, que postos de revenda de combustíveis permitam o abastecimento de tanques veiculares após o desarme do sistema automático das bombas de combustível.~~

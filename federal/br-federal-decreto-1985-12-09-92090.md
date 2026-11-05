@@ -1,5 +1,3 @@
-###DEC-092090-0-000-09-12-1985@@@
-
 Decreto nº 92.090, de 09 dezembro de 1985
 
 Concede à Caraíba Metais S.A. - Indústria e Comércio autorização para proceder ao aumento do seu capital autorizado.

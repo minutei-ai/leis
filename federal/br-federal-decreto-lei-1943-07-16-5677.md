@@ -1,5 +1,3 @@
-###DEL-005677-0-000-16-07-1943@@@
-
 DECRETO‑LEI N. 5.677 – DE 16 DE JULHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 3.858.882,90, para continuação das despesas de instalação e aparelhamento do edifício sede do mesmo Ministério e do Tribunal de Contas

@@ -1,12 +1,10 @@
-###DEC-024513-0-000-12-02-1948@@@
+**DECRETO Nº 24.513, DE 12 DE FEVEREIRO DE 1948.**
 
-<strong>DECRETO Nº 24.513, DE 12 DE FEVEREIRO DE 1948.</strong>
+***Declara de utilidade pública, para desapropriação pelo Departamento Nacional de Estradas de Rodagens, imóvel situado no Município de Queluz, Estado de São Paulo, necessário à execução do novo traçado da Rodovia Getúlio Vargas.***
 
-<em><strong>Declara de utilidade pública, para desapropriação pelo Departamento Nacional de Estradas de Rodagens, imóvel situado no Município de Queluz, Estado de São Paulo, necessário à execução do novo traçado da Rodovia Getúlio Vargas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA,** usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no artigo 5º, letras *h* e *j*, do Decreto-lei nº 3.365, de 21 de junho de 1941,
 
-<strong>O PRESIDENTE DA REPÚBLICA,</strong> usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no artigo 5º, letras <em>h</em> e <em>j</em>, do Decreto-lei nº 3.365, de 21 de junho de 1941,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo 1º Fica declarado de utilidade pública, para desapropriação, pelo Departamento Nacional de Estradas de Rodagem, o imóvel situado no Município de Queluz, Estado de São Paulo, com área total aproximada de cento e oitenta mil metros quadrados (180.000 m2), juntamente com as benfeitorias no mesmo existentes, de propriedade de Zulmira Augusta Monteiro e filhos, representado na planta que com êste baixa, devidamente autenticada, o qual se tornou necessário ao prosseguimento das obras de construção da extensão Engenheiro-Passos-Cachoeira, do trecho Rio-S. Paulo, da Rodovia Getúlio Vargas.
 
@@ -18,6 +16,6 @@ Artigo 4º O presente Decreto entrará em vigor na data de sua publicação, e r
 
 Rio de Janeiro, 12 de fevereiro de 1948, 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana

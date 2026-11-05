@@ -1,5 +1,3 @@
-###DEC-006140-0-000-03-07-2007@@@
-
 DECRETO Nº 6.140, DE 3 DE JULHO DE 2007.
 
 Regulamenta a Contribuição Provisória sobre Movimentação ou Transmissão de Valores e de Créditos e Direitos de Natureza Financeira - CPMF.
@@ -435,5 +433,3 @@ Brasília, 3 de julho de 2007; 186o da Independência e 119o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
-
-Este texto não substitui o publicado no DOU de 4.7.2007

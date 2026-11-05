@@ -1,5 +1,3 @@
-###DEC-092738-0-000-03-06-1986@@@
-
 DECRETO Nº 92.738, DE 3 DE JUNHO DE 1986
 
 Prorroga os prazos de vigência dos arts. 1º e 3º do Decreto nº 91.403, de 5-07-85, que dispõe sobre a proibição de ingresso de pessoal na Administração Direta, e dá outras providências.

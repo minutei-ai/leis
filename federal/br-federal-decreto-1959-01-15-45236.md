@@ -1,5 +1,3 @@
-###DEC-045236-0-000-15-01-1959@@@
-
 DECRETO Nº 45.236, DE 15 DE JANEIRO DE 1959.
 
 Altera a redação do artigo 1º do Decreto nº 39.059, de 18 de abril de 1956, que outorgou a Alcides Benardino de Campos e outros, reunidos em consórcio, concessão para o aproveitamento da energia hidráulica de uma queda d’água existente no rio Três Córregos, 2º Distrito do Município de Teresópolis, Estado do Rio de Janeiro.

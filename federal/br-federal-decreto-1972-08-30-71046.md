@@ -1,5 +1,3 @@
-###DEC-071046-0-000-30-08-1972@@@
-
 DECRETO Nº 71.046, DE 30 DE AGOSTO DE 1972.
 
 Concede permissão, em caráter permanente, à Empresa Refinadora Paulista S.A., sediada no Município de Piracicaba, no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

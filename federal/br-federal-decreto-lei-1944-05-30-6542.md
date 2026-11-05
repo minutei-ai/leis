@@ -1,5 +1,3 @@
-###DEL-006542-0-000-30-05-1944@@@
-
 DECRETO-LEI N. 6.542 - DE 30 DE MAIO DE 1944
 
 Inclui parágrafo no art. 2º do Decreto-lei  nº 4.850, de 21 de outubro de 1942

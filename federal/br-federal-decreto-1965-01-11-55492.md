@@ -1,5 +1,3 @@
-###DEC-055492-0-000-11-01-1965@@@
-
 Decreto nº 55.492, de 11 de janeiro de 1965.
 
 Transfere da Cia. Fôrça e Luz Dores do Indaiá para Centrais Elétricas de Minas Gerais S.A. concessão para distribuir energia elétrica no Município de Dores do Indaiá, Estado de Minas Gerais.

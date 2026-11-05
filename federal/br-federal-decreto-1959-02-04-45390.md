@@ -1,5 +1,3 @@
-###DEC-045390-0-000-04-02-1959@@@
-
 DECRETO Nº 45.390, DE 4 DE FEVEREIRO DE 1959.
 
 Complementa a regulamentação da Lei nº 1.821, de 12 de março de 1953.

@@ -1,5 +1,3 @@
-###DEC-096345-0-000-15-07-1988@@@
-
 DECRETO N° 96.345, DE 15 DE JULHO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA BATATal” (PARTE), classificado como latifúndio por exploração, situado no Município de Mangaratiba, no Estado do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.691, de 19 de maio de 1986, e dá outras providências.

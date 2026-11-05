@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=51003)
-
 # LEI Nº 11.720, DE 24 DE MAIO DE 2004
 
 ## (PL 1313/2003 - Vitor Sapienza)

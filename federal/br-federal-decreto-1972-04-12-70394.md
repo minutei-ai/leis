@@ -1,5 +1,3 @@
-###DEC-070394-0-000-12-04-1972@@@
-
 DECRETO Nº 70.394, DE 12 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Sociedade das Irmãs Missionárias da Imaculada Conceição da Mãe de Deus, com sede em Belém, Estado do Pará.

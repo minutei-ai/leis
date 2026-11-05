@@ -1,5 +1,3 @@
-###DEC-060008-0-000-10-01-1967@@@
-
 DECRETO Nº 60.008, DE 10 DE JANEIRO DE 1967.
 
 Autoriza a Mineração Jundu S.A. a pesquisar argila, no município de Careaçu, Estado de Minas Gerais.

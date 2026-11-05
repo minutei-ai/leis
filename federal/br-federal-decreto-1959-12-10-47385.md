@@ -1,5 +1,3 @@
-###DEC-047385-0-000-10-12-1959@@@
-
 DECRETO Nº 47.385, DE 10 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 42.077, de 19 de agôsto de 1957.

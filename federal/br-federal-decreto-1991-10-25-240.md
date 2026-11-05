@@ -1,7 +1,3 @@
-1
-
-###DEC-000240-0-000-25-10-1991@@@
-
 DECRETO Nº 240, DE 25 DE OUTUBRO DE 1991
 
 Dispõe sobre a Carga Horária do Ensino Fundamental e do Ensino Médio.

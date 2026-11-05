@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208542)<br>
-
 # LEI N° 17.751, DE 20 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 722/2019, dos Deputados Reinaldo Alguz - PV e Edson Giriboni - PV)

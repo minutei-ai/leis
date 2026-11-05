@@ -1,5 +1,3 @@
-###DEC-054419-0-000-12-10-1964@@@
-
 DECRETO Nº 54.419, DE 12 DE OUTUBRO DE 1964.
 
 Autorizo o cidadão brasileiro José batista de Melo a pesquisar mica no município de Governador Valadares, Estado de Minas Gerais.

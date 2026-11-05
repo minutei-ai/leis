@@ -1,5 +1,3 @@
-###DEC-055927-0-000-14-04-1965@@@
-
 DECRETO Nº 55.927, DE 14 DE ABRIL DE 1965.
 
 Declara de utilidade pública, para fins de servidão ou de desapropriação em favor da Petróleo Brasileira S.A - PETROBRÁS, imóveis situados no Estado de Sergipe, necessários à pesquisa e lavra de petróleo.

@@ -1,5 +1,3 @@
-###DEC-084458-0-000-04-02-1980@@@
-
 Decreto nº 84.458, de 04 de fevereiro de 1980
 
 Delega competência ao Ministro de Estado das Relações Exteriores para aprovar e modificar o Regulamento da Serviço Consular Honorário brasileiro .

@@ -1,5 +1,3 @@
-###DEC-004397-0-000-01-10-2002@@@
-
 DECRETO Nº 4.397, DE 1º DE OUTUBRO DE 2002
 
 Altera o Decreto nº 1.494, de 17 de maio de 1995, que regulamenta a Lei nº 8.313, de 23 de dezembro de 1991, que estabelece a sistemática de execução do Programa Nacional de Apoio à Cultura - PRONAC, e dá outras providências.

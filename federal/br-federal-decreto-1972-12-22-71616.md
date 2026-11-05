@@ -1,5 +1,3 @@
-###DEC-071616-0-000-22-12-1972@@@
-
 DECRETO Nº 71.616 - DE 22 DE DEZEMBRO DE 1972
 
 Aprova a reforma parcial dos Estatutos da EMBRAER - Empresa Brasileira de Aeronáutica S.A. e dá outras providências

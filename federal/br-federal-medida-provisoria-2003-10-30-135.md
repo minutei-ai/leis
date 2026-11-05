@@ -1,5 +1,3 @@
-###MPV-000135-0-000-30-10-2003@@@
-
 MEDIDA PROVISÓRIA Nº 135, DE 30 DE OUTUBRO 2003.
 
 Altera a Legislação Tributária Federal e dá outras providências.       
@@ -926,5 +924,6 @@ DAS DISPOSIÇÕES FINAIS
 
 Brasília, 30 de outubro de 2003; 183º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Antonio Palocci Filho

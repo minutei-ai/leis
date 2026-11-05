@@ -1,5 +1,3 @@
-###DEC-090991-0-000-26-02-1985@@@
-
 decreto Nº 90.991, de 26 de fevereiro de 1985
 
 Dá nova redação ao § 3º do artigo 16 do Decreto nº 89.496, de 29 de março de 1984, alterado pelo Decreto nº 90.309, de 16 de outubro de 1984, que dispõem sobre a Política Nacional de Irrigação.

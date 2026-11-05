@@ -1,10 +1,7 @@
-<br>
 **LEI Nº 6.929, DE 29 DE MARÇO DE 2019**
 
-<br>
 Altera a Lei nº 5.907/2011, que define as obrigações de pequeno valor para efeito de pagamento por RPV.
 
-<br>
 **A CÂMARA MUNICIPAL DE RIO VERDE-GO APROVA E EU SANCIONO A SEGUINTE LEI:**
 
 Art. 1º Fica alterado o art. 2o da Lei no 5.907, de 22 de março de 2011, que definiu as obrigações de pequeno valor, oriundas de sentenças judiciais para pagamento pela Fazenda Pública, sem precatório, passando a viger com a seguinte redação:

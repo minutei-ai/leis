@@ -1,5 +1,3 @@
-###DEC-005098-0-000-03-06-2004@@@
-
 DECRETO Nº 5.098, DE 3 DE JUNHO DE 2004
 
  Dispõe sobre a criação do Plano Nacional de Prevenção, Preparação e Resposta Rápida a Emergências Ambientais com Produtos Químicos Perigosos \- P2R2, e dá outras providências.

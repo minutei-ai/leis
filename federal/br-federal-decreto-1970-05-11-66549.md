@@ -1,5 +1,3 @@
-###DEC-066549-0-000-11-05-1970@@@
-
 Decreto nº 66.549, de 11 de maio de 1970.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia de Itapetinga, com sede em Itapetinga, Estado de São Paulo.

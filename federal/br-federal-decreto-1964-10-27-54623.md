@@ -1,5 +1,3 @@
-###DEC-054623-0-000-27-10-1964@@@
-
 DECRETO Nº 54.623, DE 27 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Jamil de Oliveira Ferraz a pesquisar caulim e xisto argiloso, no município de Piedade, Estado de São Paulo.

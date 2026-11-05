@@ -1,5 +1,3 @@
-###DEL-007414-0-000-24-03-1945@@@
-
 DECRETO-LEI N. 7.414 – DE 24 DE MARÇO DE 1945
 
 Concede adiantamento à Navegação Aérea Brasileira S. A., e dá outras providências

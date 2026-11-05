@@ -1,5 +1,3 @@
-###DEC-050706-0-000-31-05-1961@@@
-
 DECRETO Nº 50.706, DE 31 DE MAIO DE 1961.
 
 Restringe a zona de concessão para distribuir energia elétrica da Prefeitura Municipal de Caeté Estado de Minas Gerais, amplia a zona de concessão da Centrais Elétricas de Minas Gerais S.A. e dá outras providências.

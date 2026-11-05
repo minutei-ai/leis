@@ -1,5 +1,3 @@
-###DEL-001823-0-000-18-12-1980@@@
-
 # Decreto-Lei nº 1.823, de 18 de dezembro de 1980
 
 Transfere os recursos orçamentários que menciona.

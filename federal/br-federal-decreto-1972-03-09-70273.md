@@ -1,5 +1,3 @@
-###DEC-070273-0-000-09-03-1972@@@
-
 DECRETO Nº 70.273, DE 9 DE MARÇO DE 1972.
 
 Exclui cargos do Ministério da Saúde do relacionamento de desnecessidade e aproveita os disponíveis que menciona.

@@ -1,5 +1,3 @@
-###DEC-060066-0-000-16-01-1967@@@
-
 DECRETO Nº 60.066, DE 16 DE JANEIRO DE 1967.
 
 Autoriza Pesquisas Minerais Heco Limitada a lavrar bauxita no município de Poços de Caldas no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-082777-0-000-30-11-1978@@@
-
 Decreto nº 82.777, de 30 de novembro de 1978.
 
 Concede reconhecimento ao curso de Química Industrial, ministrado pela Universidade Federal da Paraíba, com sede na cidade de João Pessoa, Estado da Paraíba.

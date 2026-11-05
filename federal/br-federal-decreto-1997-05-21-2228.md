@@ -1,5 +1,3 @@
-###DEC-002228-0-000-21-05-1997@@@
-
 DECRETO Nº 2.228, DE 21 DE MAIO DE 1997
 
 Dispõe sobre a execução do Vigésimo Segundo Protocolo Adicional ao Acordo de Complementação Econômica nº 2, entre Brasil e Uruguai, de 20 de fevereiro de 1997.

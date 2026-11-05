@@ -1,5 +1,3 @@
-###DEC-079658-0-000-05-05-1977@@@
-
 DECRETO Nº 79.658, DE 5 DE MAIO DE 1977.
 
 Dispensa a licitação na alienação de terras devolutas da União, que menciona, e dá outras providências.

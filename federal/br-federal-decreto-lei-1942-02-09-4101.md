@@ -1,5 +1,3 @@
-###DEL-004101-0-000-09-02-1942@@@
-
 DECRETO-LEI N. 4.101 – DE 9 DE FEVEREIRO DE 1942
 
 Estabelece as bases de organização da Juventude Brasileira.

@@ -1,5 +1,3 @@
-###DEC-092086-0-000-09-12-1985@@@
-
 DECreto nº 92.086, de 09 de dezembro DE 1985
 
 Autoriza a transferência direta da concessão outorgada à REDE AUTONOMISTA LTDA., para a RÁDIO NOSSA OSASCO LTDA.

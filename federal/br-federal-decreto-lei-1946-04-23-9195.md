@@ -1,5 +1,3 @@
-###DEL-009195-0-000-23-04-1946@@@
-
 DECRETO-LEI N. 9.195 – DE 23 DE ABRIL DE 1946
 
 Prorroga a vigência do crédito especial aberto ao Ministério da Justiça e Negócios Interiores pelo Decreto-lei nº 8.448, de 26 de Dezembro de 1945.

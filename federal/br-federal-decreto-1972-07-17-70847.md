@@ -1,5 +1,3 @@
-###DEC-070847-0-000-17-07-1972@@@
-
 decreto nº 70.847, de 17 de julho de 1972.
 
 Autoriza o funcionamento da Faculdade Espírito-Santense de Administração.

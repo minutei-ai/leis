@@ -1,5 +1,3 @@
-###DEC-051846-0-000-15-03-1963@@@
-
 Decreto nº 51.846, de 15 de março de 1963.
 
 Aprova alterações introduzidas nos Estatutos da São Paulo Companhia Nacional de Seguros, inclusive aumento do capital social.

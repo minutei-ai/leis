@@ -1,5 +1,3 @@
-###DEC-069550-0-000-18-11-1971@@@
-
 DECRETO Nº 69.550 - DE 18 DE NOVEMBRO DE 1971
 
 Autoriza a Light - Serviços de Eletricidade S.A. a construir subestação e declara de utilidade pública, para fins de desapropriação, imóveis necessários à construção da mesma.

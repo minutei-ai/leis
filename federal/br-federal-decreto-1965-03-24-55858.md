@@ -1,5 +1,3 @@
-###DEC-055858-0-000-24-03-1965@@@
-
 Decreto nº 55.858, de 24 de março de 1965.
 
 Regulamenta os artigos 24 a 27 e 83, da Lei nº 4.239, de 27 de junho de 1963, que dispõe sôbre o Fundo do Nordeste (FEANE).

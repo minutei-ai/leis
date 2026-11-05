@@ -1,5 +1,3 @@
-###DEC-005966-0-000-14-11-2006@@@
-
 DECRETO Nº 5.966 DE 14 DE NOVEMBRO DE 2006.
 
                        Institui a Comissão Nacional Organizadora das Comemorações do Centenário da Imigração Japonesa no Brasil e dá outras providências.
@@ -95,5 +93,3 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 LUIZ INÁCIO LULA DA SILVA
 
          Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 16.11.2006

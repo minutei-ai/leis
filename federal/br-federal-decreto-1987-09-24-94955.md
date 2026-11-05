@@ -1,5 +1,3 @@
-###DEC-094955-0-000-24-09-1987@@@
-
 DECRETO Nº 94.955, DE 24 DE SETEMBRO DE 1987
 
 Renova a concessão outorgada à SOCIEDADE RÁDIO INTEGRAÇÃO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Restinga Seca, Estado do Rio Grande do Sul.

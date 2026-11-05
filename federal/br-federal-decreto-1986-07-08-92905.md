@@ -1,5 +1,3 @@
-###DEC-092905-0-000-08-07-1986@@@
-
 DECRETO Nº 92.905, DE 8 DE JULHO DE 1986
 
 Dispõe sobre o aumento do Capital Social de FURNAS - Centrais Elétricas S/A.

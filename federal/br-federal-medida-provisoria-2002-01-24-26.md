@@ -1,5 +1,3 @@
-###MPV-000026-0-000-24-01-2002@@@
-
 MEDIDA PROVISÓRIA No 26, DE 24 DE JANEIRO DE 2002.
 
 Dispõe sobre a extinção da gratificação de produção suplementar devida aos servidores da Imprensa Nacional, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-045773-0-000-10-04-1959@@@
-
 DECRETO Nº 45.773, DE 10 DE ABRIL DE 1959.
 
 Eleva à categoria de Embaixada a Legação do Brasil em Camberra.

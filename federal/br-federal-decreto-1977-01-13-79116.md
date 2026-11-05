@@ -1,5 +1,3 @@
-###DEC-079116-0-000-13-01-1977@@@
-
 DECRETO Nº 79.116, DE 13 DE JANEIRO DE 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Manaus - Estado do Amazonas.

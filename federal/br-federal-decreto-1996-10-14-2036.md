@@ -1,5 +1,3 @@
-###DEC-002036-0-000-14-10-1996@@@
-
 DECRETO Nº 2.036, DE 14 DE OUTUBRO DE 1996.
 
 Dá nova redação aos arts. 2º, 4º, 5º e 19 do Decreto nº 1.646, de 26 de setembro de 1995, que regulamenta o controle e a fiscalização sobre produtos e insumos químicos que possam ser destinados à elaboração da cocaína, em suas diversas formas, e outras substâncias entorpecentes, ou que determinem dependência física ou psíquica, de que trata a Lei nº 9.017, de 30 de março de 1995.

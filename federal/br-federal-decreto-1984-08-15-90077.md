@@ -1,5 +1,3 @@
-###DEC-090077-0-000-15-08-1984@@@
-
 Decreto nº 90.077 de 15 de agosto de 1984
 
 Transfere da Destilaria Aquarius S.A. para a Companhia Agrícola Sonora Estância a concessão para o aproveitamento da energia hidráulica, para uso exclusivo, no Município de Pedra Gomes Estado de Mato Grosso do Sul.

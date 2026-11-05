@@ -1,5 +1,3 @@
-###DEC-049641-0-000-31-12-1960@@@
-
 DECRETO Nº 49.641, DE 31 DE dezembro DE 1960.
 
 Autoriza estrangeiros a adquirir, em transferência de aforamento, o domínio útil do terreno de marinha que menciona, no Estado da Guanabara.

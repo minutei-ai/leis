@@ -1,5 +1,3 @@
-###DEC-087653-0-000-27-09-1982@@@
-
 Decreto nº 87.653, de 27 de setembro de 1982.
 
 Altera o art. 1º do Decreto nº 87.100, de 19 de abril de 1982, que declara de interesse social, para fins de desapropriação, o imóvel rural, constituído de parte da "Fazenda Britânia", situado no Município de Marechal Cândido Rondon, no Estado do Paraná, compreendido na área prioritária, para fins de reforma agrária, fixado pelo Decreto nº 69.411, de 22 de outubro de 1971, alterado pelos Decretos ns. 78.422, de 15 de setembro de 1976, e 84.969, de 28 de julho de 1980.

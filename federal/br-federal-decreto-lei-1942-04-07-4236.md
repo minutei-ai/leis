@@ -1,5 +1,3 @@
-###DEL-004236-0-000-07-04-1942@@@
-
 DECRETO-LEI N. 4.236 – de 7 DE ABRIL DE 1942
 
 Abre ao Ministério da Educação e Saude o crédito especial de 5.000:000$0, para execução de obras de natureza sanitária

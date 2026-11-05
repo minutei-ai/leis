@@ -1,54 +1,52 @@
-###DEC-041475-0-000-08-05-1957@@@
+**DECRETO Nº 41.475, DE 8 DE MAIO DE 1957.**
 
-<strong>DECRETO Nº 41.475, DE 8 DE MAIO DE 1957.</strong>
+***Aprova o Regulamento para o Corpo de Oficiais da Reserva do Exército.***
 
-<em><strong>Aprova o Regulamento para o Corpo de Oficiais da Reserva do Exército.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere a Constituição Federal, art. 87, inciso I,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere a Constituição Federal, art. 87, inciso I,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Corpo de Oficiais da Reserva do Exército que com êste baixa, assinado pelo General de Exército, Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Corpo de Oficiais da Reserva do Exército que com êste baixa, assinado pelo General de Exército, Henrique Baptista Duffles Teixeira Lott, Ministro de Estado dos Negócios da Guerra.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 8 de maio de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott
 
-<strong>REGULAMENTO PARA O CORPO DE OFICIAIS DA RESERVA DO EXÉRCITO</strong>
+**REGULAMENTO PARA O CORPO DE OFICIAIS DA RESERVA DO EXÉRCITO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da finalidade e Constituição do Corpo de Oficiais da Reserva do Exército</em>
+*Da finalidade e Constituição do Corpo de Oficiais da Reserva do Exército*
 
-<strong>CAPÍTULO ÚNICO</strong>
+**CAPÍTULO ÚNICO**
 
-<strong>Art</strong>. 1º O Corpo de Oficiais da Reserva do Exército (CORE), destina-se a permitir:
+**Art**. 1º O Corpo de Oficiais da Reserva do Exército (CORE), destina-se a permitir:
 
 1 - no tempo de paz, preencher os claros de oficiais subalternos existentes nos Corpos de Tropa, Estabelecimentos e Repartições do Exército, nas proporções estabelecidas em leis competentes;
 
 2 - na mobilização ou no decurso da guerra, completar os efetivos de guerra dos Corpos de Tropa, Repartições, Estabelecimentos Militares e Organizações outras de interêsse do Exército.
 
-<strong>Art</strong>. 2º O CORE é constituído de 3 classes: 1ª Classe da Reserva (R/1); 2ª Classe da Reserva (R/2) e 3ª Classe da Reserva (R/3).
+**Art**. 2º O CORE é constituído de 3 classes: 1ª Classe da Reserva (R/1); 2ª Classe da Reserva (R/2) e 3ª Classe da Reserva (R/3).
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>DO RECRUTAMENTO E DA INCLUSÃO</em>
+*DO RECRUTAMENTO E DA INCLUSÃO*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO RECRUTAMENTO</em>
+*DO RECRUTAMENTO*
 
-<strong>Art</strong>. 3º O recrutamento para a 1ª Classe da Reserva do Exército abrangerá:
+**Art**. 3º O recrutamento para a 1ª Classe da Reserva do Exército abrangerá:
 
 a) os oficiais do Exército ativo transferidos, voluntária ou compulsoriamente, para a reserva remunerada, de acôrdo com a legislação em vigor, inclusive os que se destinarem ao Magistério do Exército;
 
 b) os Subtenentes e Sargentos que, de acôrdo com a legislação em vigor, galgarem o oficialato ao serem transferidos para a reserva remunerada.
 
-<strong>Art</strong>. 4º O recrutamento para a 2ª Classe da Reserva do Exército, respeitadas as condições estabelecidas no presente regulamento, será feito:
+**Art**. 4º O recrutamento para a 2ª Classe da Reserva do Exército, respeitadas as condições estabelecidas no presente regulamento, será feito:
 
 a) nas Armas e no Serviço de Intendência, entre:
 
@@ -82,27 +80,27 @@ E - Na categoria de Auxiliares Técnicos
 
 2\) Entre os Subtenentes e Primeiros Sargentos Topógrafos, mediante concurso realizado segundo instruções baixadas pelo Ministro da Guerra.
 
-<strong>Art</strong>. 5º O recrutamento para a Segunda Classe da Reserva do Exército abrangerá, também:
+**Art**. 5º O recrutamento para a Segunda Classe da Reserva do Exército abrangerá, também:
 
 1\) os oficiais demissionários, a pedido, do Exército Ativo;
 
 2\) os oficiais das Polícias Militares e do Corpo de Bombeiros do Distrito Federal, em serviço ou na inatividade dessas corporações, enquanto não atingirem a idade limite de permanência na reserva do Exército.
 
-<strong>Art</strong>. 6º O recrutamento para a 3ª Classe da Reserva processar-se-á, somente, no decurso de guerra externa e abrangerá os civis comprovadamente habilitados ao desempenho de funções técnicas ou especializadas.
+**Art**. 6º O recrutamento para a 3ª Classe da Reserva processar-se-á, somente, no decurso de guerra externa e abrangerá os civis comprovadamente habilitados ao desempenho de funções técnicas ou especializadas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA INCLUSÃO</em>
+*DA INCLUSÃO*
 
-<strong>Art</strong>. 7º A inclusão no CORE de oficial originário dos Quadros da Ativa, na 1ª classe da Reserva, far-se-á no pôsto e com os proventos que no caso lhe couberem na inatividade tudo de acôrdo com a legislação em vigor.
+**Art**. 7º A inclusão no CORE de oficial originário dos Quadros da Ativa, na 1ª classe da Reserva, far-se-á no pôsto e com os proventos que no caso lhe couberem na inatividade tudo de acôrdo com a legislação em vigor.
 
 § 1º A inclusão no CORE decorrerá da publicação do correspondente decreto de transferência para a reserva.
 
 § 2º Os oficiais da ativa transferidos para a reserva, ingressarão em Quadros correspondentes aos que pertenciam na Ativa exceto os que ingressarem no Magistério do Exército que constituirão Quadro à parte (QME), tendo, uns e outros, suas cartas patentes apostiladas pela Secretaria Geral do Ministério da Guerra.
 
-<strong>Art</strong>. 8º A inclusão no CORE dos oficiais R-1 oriundos de Subtenentes e Sargentos far-se-á mediante o respectivo decreto de transferência para a reserva, sendo-lhes assegurados os direitos e as vantagens que lhes couberem na inatividade, consoante a legislação em vigor.
+**Art**. 8º A inclusão no CORE dos oficiais R-1 oriundos de Subtenentes e Sargentos far-se-á mediante o respectivo decreto de transferência para a reserva, sendo-lhes assegurados os direitos e as vantagens que lhes couberem na inatividade, consoante a legislação em vigor.
 
-<strong>Art</strong>. 9º São condições gerais para inclusão na 2ª Classe da Reserva do Exército:
+**Art**. 9º São condições gerais para inclusão na 2ª Classe da Reserva do Exército:
 
 a) ser brasileiro nato, ou por opção;
 
@@ -116,13 +114,13 @@ e) possuir aptidão física comprovada, mediante inspeção de saúde, por junta
 
 f) ter realizado com aproveitamento os estágios, cursos ou concursos previstos neste regulamento.
 
-§ 1º Além das condições especificadas nesse artigo, os candidatos ao ingresso nos Quadros do Serviço de Saúde, Serviço Veterinário e de Engenheiros Militares, exceto os da Categoria de Auxiliares Técnicos, deverão ser diplomados por escola de formação profissional oficial ou reconhecida pelo Govêrno Federal e, aos sargentos reservistas candidatos ao ingresso nos Quadros das Armas e do Serviço de Intendência da 2ª Classe da Reserva, será exigido o bom comportamento, mais de cinco anos de serviço e o curso de Cmte. de Pelotão ou equivalente na forma estabelecida na letra <em>B</em> do art. 14.
+§ 1º Além das condições especificadas nesse artigo, os candidatos ao ingresso nos Quadros do Serviço de Saúde, Serviço Veterinário e de Engenheiros Militares, exceto os da Categoria de Auxiliares Técnicos, deverão ser diplomados por escola de formação profissional oficial ou reconhecida pelo Govêrno Federal e, aos sargentos reservistas candidatos ao ingresso nos Quadros das Armas e do Serviço de Intendência da 2ª Classe da Reserva, será exigido o bom comportamento, mais de cinco anos de serviço e o curso de Cmte. de Pelotão ou equivalente na forma estabelecida na letra *B* do art. 14.
 
 § 2º A nomeação a Segundo Tenente na Categoria de Auxiliares Técnicos fica condicionada à existência de vagas.
 
 § 3º Excetuam-se das prescrições dêste artigo os oficiais demissionários do Exército Ativo, os Oficiais das Policias Militares e os oficiais do Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 10. São condições gerais para inclusão na 3ª Classe da Reserva do Exército.
+**Art**. 10. São condições gerais para inclusão na 3ª Classe da Reserva do Exército.
 
 a) ser brasileiro nato, ou por opção;
 
@@ -136,17 +134,17 @@ e) ter comprovada capacidade profissional para o exercício das funções que ir
 
 Parágrafo único. A inclusão de que trata êste artigo decorrerá do ato de nomeação ao oficialato.
 
-<strong>Art</strong>. 11. A publicação do ato de nomeação ou promoção ao pôsto inicial dos Quadros das Armas, dos Serviços ou de Engenheiros Militares da 2ª Classe da Reserva, importará na inclusão do nomeado ou promovido no CORE e no correspondente Quadro.
+**Art**. 11. A publicação do ato de nomeação ou promoção ao pôsto inicial dos Quadros das Armas, dos Serviços ou de Engenheiros Militares da 2ª Classe da Reserva, importará na inclusão do nomeado ou promovido no CORE e no correspondente Quadro.
 
 Parágrafo único. Do mesmo modo, o ato de nomeação importará na inclusão do nomeado no CORE, quando se tratar de oficial da 3ª Classe da Reserva.
 
-<strong>Art</strong>. 12. Os oficiais demissionários do Exército Ativo serão incluídos na 2ª Classe da Reserva e no CORE, no mesmo pôsto que tenham na Ativa, face ao decreto que lhes conceder a demissão.
+**Art**. 12. Os oficiais demissionários do Exército Ativo serão incluídos na 2ª Classe da Reserva e no CORE, no mesmo pôsto que tenham na Ativa, face ao decreto que lhes conceder a demissão.
 
-<strong>Art</strong>. 13. A inclusão dos oficiais das Polícias Militares e do Corpo de Bombeiros do Distrito Federal no CORE será feita por ato do Ministro da Guerra, mediante proposta do Comandante da Região Militar a que estiver vinculada a Corporação.
+**Art**. 13. A inclusão dos oficiais das Polícias Militares e do Corpo de Bombeiros do Distrito Federal no CORE será feita por ato do Ministro da Guerra, mediante proposta do Comandante da Região Militar a que estiver vinculada a Corporação.
 
 Parágrafo único. A proposta a que se refere êste artigo decorrerá da comunicação feita pelo Comandante da Corporação ao da Região Militar, do ato que incluiu o candidato no respectivo oficialato.
 
-<strong>Art</strong>. 14. As propostas de nomeação ou promoção a oficial da Segunda Classe da Reserva (promoção quando se tratar de Aspirante a Oficial que ingressar no CORE como Segundo Tenente e nomeação nos demais casos), serão feitas pelas autoridades abaixo especificadas e dirigidas ao Ministro da Guerra através dos trâmites legais, devendo passar, obrigatoriamente, pela Diretoria do Serviço Militar:
+**Art**. 14. As propostas de nomeação ou promoção a oficial da Segunda Classe da Reserva (promoção quando se tratar de Aspirante a Oficial que ingressar no CORE como Segundo Tenente e nomeação nos demais casos), serão feitas pelas autoridades abaixo especificadas e dirigidas ao Ministro da Guerra através dos trâmites legais, devendo passar, obrigatoriamente, pela Diretoria do Serviço Militar:
 
 A - Comandante de Regiões Militares:
 
@@ -178,11 +176,11 @@ E - Comandante da Escola de Saúde do Exército:
 
 Propostas de promoção quando se tratar de Aspirantes a Oficial da Segunda Classe da Reserva Farmacêuticos e Dentistas, matriculados na referida Escola, com destino ao ingresso no serviço ativo.
 
-<strong>Art</strong>. 15. As propostas de nomeação a oficial da Terceira Classe da Reserva, serão submetidas ao Ministro da Guerra ou ao Presidente da República, conforme se trata de nomeação a Tenente ou postos superiores, pelos órgãos que forem credenciados para tal fim pelo Govêrno, por ocasião da mobilização.
+**Art**. 15. As propostas de nomeação a oficial da Terceira Classe da Reserva, serão submetidas ao Ministro da Guerra ou ao Presidente da República, conforme se trata de nomeação a Tenente ou postos superiores, pelos órgãos que forem credenciados para tal fim pelo Govêrno, por ocasião da mobilização.
 
 Parágrafo único. Os documentos que instruirão as propostas de que trata êste artigo, serão fixados em ato do Govêrno por ocasião da mobilização.
 
-<strong>Art</strong>. 16. As propostas para promoção ou nomeação, ao pôsto inicial na 2ª Classe Reserva, deverão ser instruídas com os seguintes documentos:
+**Art**. 16. As propostas para promoção ou nomeação, ao pôsto inicial na 2ª Classe Reserva, deverão ser instruídas com os seguintes documentos:
 
 \- certidão de nascimento de inteiro teor (sendo permitida a fotocópia autenticada) com firma reconhecida;
 
@@ -308,19 +306,19 @@ e) atestado de exercício da profissão.
 
 § 2º Os Sargentos reservistas das Armas e do Serviço de Intendência, candidatos ao oficialato da 2ª Classe da Reserva, ficam dispensados da apresentação dos documentos referidos neste artigo, devendo as propostas respectivas, ser instruídas com a certidão de assentamentos e ata de inspeção de saúde.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>DA CONVOCAÇÃO</em>
+*DA CONVOCAÇÃO*
 
-<strong>CAPÍTULO ÚNICO</strong>
+**CAPÍTULO ÚNICO**
 
-<strong>Art</strong>. 17. Os oficiais da reserva do Exército ficam em disponibilidade para convocação, durante o período de três anos, a contar da data do decreto de transferência para a 1ª Classe da Reserva, nomeação inclusão ou promoção para o primeiro pôsto e seguintes na 2ª Classe da Reserva.
+**Art**. 17. Os oficiais da reserva do Exército ficam em disponibilidade para convocação, durante o período de três anos, a contar da data do decreto de transferência para a 1ª Classe da Reserva, nomeação inclusão ou promoção para o primeiro pôsto e seguintes na 2ª Classe da Reserva.
 
 Parágrafo único. Os Aspirantes a Oficial da 2ª Classe da Reserva ficam em disponibilidade para convocação desde o ato da declaração de Aspirante.
 
-<strong>Art</strong>. 18 Durante os períodos de disponibilidade os Oficiais da Reserva podem ser convocados para o serviço ativo, com autorização do Presidente da República e por ato do Ministro da Guerra.
+**Art**. 18 Durante os períodos de disponibilidade os Oficiais da Reserva podem ser convocados para o serviço ativo, com autorização do Presidente da República e por ato do Ministro da Guerra.
 
-<strong>Art</strong>. 19. Os Oficiais e os Aspirantes a Oficial da 2ª Classe da Reserva, com exceção dos das Policiais Militares e do Corpo de Bombeiros do Distrito Federal, desde que em disponibilidade, poderão ser convocados para estágios de instrução, de adaptação e de serviço, na forma prescrita por êste regulamento, e de acôrdo com os interêsses do Exército.
+**Art**. 19. Os Oficiais e os Aspirantes a Oficial da 2ª Classe da Reserva, com exceção dos das Policiais Militares e do Corpo de Bombeiros do Distrito Federal, desde que em disponibilidade, poderão ser convocados para estágios de instrução, de adaptação e de serviço, na forma prescrita por êste regulamento, e de acôrdo com os interêsses do Exército.
 
 § 1º Os Aspirantes a Oficial sujeitos ao estágio de serviço são, exclusivamente, os Farmacêuticos e Dentistas.
 
@@ -328,11 +326,11 @@ Parágrafo único. Os Aspirantes a Oficial da 2ª Classe da Reserva ficam em dis
 
 § 3º Os Oficiais pertencentes ao Quadro de Engenheiros Militares da Reserva e ao Quadro de Médicos da Reserva, poderão ter prorrogação do estágio de serviço, por períodos sucessivos de um ano, até o máximo de cinco anos, desde que requeiram e haja interêsse para o Exército.
 
-<strong>Art</strong>. 20. Sempre que possível a convocação para o serviço ativo, em tempo de paz, far-se-á para Unidade, Repartição ou Estabelecimento da própria Região Militar com jurisdição no local da residência do oficial ou o mais próximo possível, evitando-se a sua movimentação durante o período em que estiver servindo.
+**Art**. 20. Sempre que possível a convocação para o serviço ativo, em tempo de paz, far-se-á para Unidade, Repartição ou Estabelecimento da própria Região Militar com jurisdição no local da residência do oficial ou o mais próximo possível, evitando-se a sua movimentação durante o período em que estiver servindo.
 
-<strong>Art</strong>. 21. O oficial convocado só será incluído na Unidade, Repartição ou Estabelecimento para que houver sido designado, quando julgado apto em inspeção de saúde, por junta médica-militar.
+**Art**. 21. O oficial convocado só será incluído na Unidade, Repartição ou Estabelecimento para que houver sido designado, quando julgado apto em inspeção de saúde, por junta médica-militar.
 
-<strong>Art</strong>. 22. O oficial incluído em Unidade, Repartição ou Estabelecimento, por efeito de convocação em tempo de paz, será licenciado a qualquer momento, por incapacidade física temporária ou definitiva, declarada por junta médica militar.
+**Art**. 22. O oficial incluído em Unidade, Repartição ou Estabelecimento, por efeito de convocação em tempo de paz, será licenciado a qualquer momento, por incapacidade física temporária ou definitiva, declarada por junta médica militar.
 
 § 1º No caso da incapacidade física definitiva ou temporária decorrer de acidente ou moléstia adquirida em serviço comprovada por junta médica militar, aplicar-se-á a legislação em vigor.
 
@@ -340,17 +338,17 @@ Parágrafo único. Os Aspirantes a Oficial da 2ª Classe da Reserva ficam em dis
 
 § 3º Não será concedida licença para tratamento de saúde ao oficial da reserva convocado que fôr julgado incapaz temporariamente por junta médica militar, em virtude de moléstia ou acidente não decorrente de ato do serviço. O oficial nesta situação será licenciado do serviço ativo, pela autoridade convocante, mediante proposta da autoridade a que estiver subordinado.
 
-<strong>Art</strong>. 23. O oficial da reserva convocado para o serviço ativo em tempo de paz será automaticamente licenciado, quando promovido.
+**Art**. 23. O oficial da reserva convocado para o serviço ativo em tempo de paz será automaticamente licenciado, quando promovido.
 
 Parágrafo único. Ao oficial licenciado na forma dêste artigo, exceção feita para os oficiais do Quadro de Engenheiros Militares da Reserva, só será permitida a sua ulterior convocação para o serviço ativo em tempo de paz, se satisfazer o requisito do estágio do novo pôsto e por autorização do Presidente da República.
 
-<strong>Art</strong>. 24. O Comandante da Região Militar determinará ao competente órgão de recrutamento, que sejam relacionados com 2º Sargentos reservistas de 2ª Categoria, os Aspirantes a Oficial de 2ª Classe da Reserva, que, convocados para o estágio, deixarem de se apresentar, sem motivo justo.
+**Art**. 24. O Comandante da Região Militar determinará ao competente órgão de recrutamento, que sejam relacionados com 2º Sargentos reservistas de 2ª Categoria, os Aspirantes a Oficial de 2ª Classe da Reserva, que, convocados para o estágio, deixarem de se apresentar, sem motivo justo.
 
-<strong>Art</strong>. 25. Nos períodos de guerra externa ou de comoção intestina, qualquer oficial ou Aspirante a Oficial da reserva poderá ser convocado para o serviço ativo do Exército ou na Guarda Territorial, por tempo indeterminado, mediante autorização do Presidente da República e por ato do Ministro da Guerra.
+**Art**. 25. Nos períodos de guerra externa ou de comoção intestina, qualquer oficial ou Aspirante a Oficial da reserva poderá ser convocado para o serviço ativo do Exército ou na Guarda Territorial, por tempo indeterminado, mediante autorização do Presidente da República e por ato do Ministro da Guerra.
 
 Parágrafo único. Cessados os motivos determinantes da convocação, o oficial ou Aspirante a Oficial da reserva convocado será licenciado do serviço ativo, no pôsto ou graduação que então ocupar na hierarquia militar, sendo-lhes garantidos na reserva, se fôr o caso, os direitos da legislação em vigor.
 
-<strong>Art</strong>. 26. A convocação dos oficiais e Aspirantes a Oficial da reserva, far-se-á mediante publicação que será feita, sempre que possível, com antecedência mínima de 30 ou 90 dias, conforme se trata de oficial em disponibilidade ou não.
+**Art**. 26. A convocação dos oficiais e Aspirantes a Oficial da reserva, far-se-á mediante publicação que será feita, sempre que possível, com antecedência mínima de 30 ou 90 dias, conforme se trata de oficial em disponibilidade ou não.
 
 § 1º Além da convocação mediante publicação, poderão os oficiais e Aspirantes a Oficial da reserva ser notificados da convocação, ajuízo da autoridade competente, principalmente visando a facilitar a regularização dos interêsses civis do convocado.
 
@@ -358,25 +356,25 @@ Parágrafo único. Cessados os motivos determinantes da convocação, o oficial 
 
 § 3º Quando ordenada a mobilização, o oficial da reserva, que não tiver conhecimento do destino de mobilização, deverá independente da “carta de chamada” ou “notificação individual”, apresentar-se à autoridade mais próxima do local em que se encontrar a fim de esta encaminhá-lo a destino.
 
-<strong>Art</strong>. 27. O oficial da reserva, que não atender ao ato de convocação no prazo nêle estabelecido, será declarado insubmisso, competindo ao Comandante da Região em que êle estiver relacionado, mandar lavrar o respectivo têrmo. O têrmo de insubmissão será remetido em seguida à Auditoria correspondente, e no processo observar-se-á o que estabelecer o Código de Justiça Militar.
+**Art**. 27. O oficial da reserva, que não atender ao ato de convocação no prazo nêle estabelecido, será declarado insubmisso, competindo ao Comandante da Região em que êle estiver relacionado, mandar lavrar o respectivo têrmo. O têrmo de insubmissão será remetido em seguida à Auditoria correspondente, e no processo observar-se-á o que estabelecer o Código de Justiça Militar.
 
 § 1º Na mobilização, será, também, declarado insubmisso, ficando sujeito às sanções da lei, o Aspirante a Oficial da reserva que deixar de atender ao ato de convocação, no prazo nêle estabelecido.
 
 § 2º Quando por motivo de saúde, não puder o oficial ou Aspirante a Oficial atender à convocação, deverá dentro do prazo ordenado para a apresentação, comunicar essa circunstância à autoridade mais próxima do local em que se encontrar, para as providências da parte desta, que no caso tiverem cabimento.
 
-<strong>Art</strong>. 28. Ao oficial e Aspirante a Oficial da reserva, enquanto convocados, aplicar-se-ão as disposições previstas no Código de Vencimentos e Vantagens dos Militares, no que concerne a vencimentos e vantagens, e, ser-lhes-á computado tempo de serviço de acôrdo com a legislação em vigor aplicada aos oficiais da ativa.
+**Art**. 28. Ao oficial e Aspirante a Oficial da reserva, enquanto convocados, aplicar-se-ão as disposições previstas no Código de Vencimentos e Vantagens dos Militares, no que concerne a vencimentos e vantagens, e, ser-lhes-á computado tempo de serviço de acôrdo com a legislação em vigor aplicada aos oficiais da ativa.
 
-<strong>Art</strong>. 29. O oficial ou o Aspirante a Oficial da reserva, que fôr convocado, poderá ter sua incorporação adiada ou dispensada, nos casos e condições previamente estabelecidas, a juízo do Ministro da Guerra, sempre que disso não resulte prejuízo para a segurança nacional.
+**Art**. 29. O oficial ou o Aspirante a Oficial da reserva, que fôr convocado, poderá ter sua incorporação adiada ou dispensada, nos casos e condições previamente estabelecidas, a juízo do Ministro da Guerra, sempre que disso não resulte prejuízo para a segurança nacional.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>DOS ESTÁGIOS</em>
+*DOS ESTÁGIOS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>GENERALIDADES</em>
+*GENERALIDADES*
 
-<strong>Art</strong>. 30. Os candidatos ao oficialato da 2ª Classe da Reserva e os oficiais dessa Classe poderão realizar os seguintes estágios:
+**Art**. 30. Os candidatos ao oficialato da 2ª Classe da Reserva e os oficiais dessa Classe poderão realizar os seguintes estágios:
 
 1 - Estágio de instrução.
 
@@ -384,7 +382,7 @@ Parágrafo único. Cessados os motivos determinantes da convocação, o oficial 
 
 3 - Estágio de Serviço.
 
-<strong>Art</strong>. 31. Os estágios constantes do artigo anterior se destinam:
+**Art**. 31. Os estágios constantes do artigo anterior se destinam:
 
 1 - Estágio de Instrução:
 
@@ -400,7 +398,7 @@ b) a atualizar e proporcionar conhecimentos aos oficiais estagiários;
 
 \- ao preenchimento de claros em tempo de paz.
 
-<strong>Art</strong>. 32. Ficam sujeitos ao estágio de instrução:
+**Art**. 32. Ficam sujeitos ao estágio de instrução:
 
 a) os Aspirantes a Oficial das Armas, e do Serviço de Intendência;
 
@@ -410,37 +408,37 @@ c) os Primeiros Tenentes das Armas, Serviço de Intendência, Serviço de Veteri
 
 d) os oficiais do Quadro de Engenheiros Militares da Reserva.
 
-<strong>Art</strong>. 33. Ficam sujeitos ao estágio de adaptação:
+**Art**. 33. Ficam sujeitos ao estágio de adaptação:
 
 a) Os candidatos ao Quadro de Engenheiros Militares da Reserva, exclusive os destinados à categoria de Auxiliares Técnicos;
 
 b) os Aspirantes a Oficial do Serviço de Veterinária.
 
-<strong>Art</strong>. 34. Ficam sujeitos ao estágio de serviço:
+**Art**. 34. Ficam sujeitos ao estágio de serviço:
 
 a) Os oficiais das Armas, dos Serviços e Engenheiros Militares;
 
 b) Os Aspirantes a Oficial Farmacêuticos e Dentistas.
 
-<strong>Art</strong>. 35. Não poderá fazer estágio para ingresso no pôsto inicial da 2ª classe da Reserva, o candidato que não tiver possibilidade de terminá-lo ainda com 35 anos de idade.
+**Art**. 35. Não poderá fazer estágio para ingresso no pôsto inicial da 2ª classe da Reserva, o candidato que não tiver possibilidade de terminá-lo ainda com 35 anos de idade.
 
-<strong>Art</strong>. 36. Os Comandantes de Escolas e Corpos de Tropa, bem como os Chefes de Repartições e Estabelecimentos Militares, em que tenham sido realizados estágios de qualquer natureza, de Oficias ou Aspirantes a Oficial da 2ª Classe da Reserva, no prazo de 30 dias após a conclusão dos mesmos, deverão remeter à Região Militar em cujo território tenham se realizado e à Diretoria do Serviço Militar, com as alterações ocorridas com os estagiários, nas quais deverá constar, também, o conceito final.
+**Art**. 36. Os Comandantes de Escolas e Corpos de Tropa, bem como os Chefes de Repartições e Estabelecimentos Militares, em que tenham sido realizados estágios de qualquer natureza, de Oficias ou Aspirantes a Oficial da 2ª Classe da Reserva, no prazo de 30 dias após a conclusão dos mesmos, deverão remeter à Região Militar em cujo território tenham se realizado e à Diretoria do Serviço Militar, com as alterações ocorridas com os estagiários, nas quais deverá constar, também, o conceito final.
 
 Parágrafo único. Quando se tratar de Oficial ou Aspirante a Oficial dos Serviços de Saúde, de Veterinária e de Intendência, bem como de Oficial ou Aspirante a Oficial Engenheiro Militar, além da remessa feita às repartições previstas neste artigo, cópias idênticas serão, também, enviadas às Diretorias dos respectivos Serviços ou ao Departamento de Produção e Obras, conforme o caso.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DO ESTÁGIO DE INSTRUÇÃO</em>
+*DO ESTÁGIO DE INSTRUÇÃO*
 
-<strong>Art</strong>. 37. O estágio de instrução para os oficias e Aspirantes a Oficial da 2ª Classe da Reserva terá a duração de três meses contados da data da apresentação na Unidade, Estabelecimento ou Repartição e será realizado por convocação dos Comandantes de Região Militar, pelo DPO, quando se tratar de oficiais do Quadro de Engenheiros Militares da Reserva, mediante autorização do Ministro da Guerra.
+**Art**. 37. O estágio de instrução para os oficias e Aspirantes a Oficial da 2ª Classe da Reserva terá a duração de três meses contados da data da apresentação na Unidade, Estabelecimento ou Repartição e será realizado por convocação dos Comandantes de Região Militar, pelo DPO, quando se tratar de oficiais do Quadro de Engenheiros Militares da Reserva, mediante autorização do Ministro da Guerra.
 
-<strong>Art</strong>. 38. Os Comandantes de Exército, da Região Militar e da Amazônia quando fôr o caso, estabelecerão, anualmente, os Programas para estágio, calcados em diretrizes do EME. Quando o estágio fôr realizado em Corpo de Tropa deverá coincidir com a fase de instrução correspondente ao período de aplicação.
+**Art**. 38. Os Comandantes de Exército, da Região Militar e da Amazônia quando fôr o caso, estabelecerão, anualmente, os Programas para estágio, calcados em diretrizes do EME. Quando o estágio fôr realizado em Corpo de Tropa deverá coincidir com a fase de instrução correspondente ao período de aplicação.
 
 Parágrafo único. Os programas para estágio dos oficiais do Quadro de Engenheiros Militares da Reserva serão estabelecidos pelo DPO.
 
-<strong>Art</strong>. 39. O estágio de instrução para os Aspirantes a Oficial da 2ª Classe da Reserva das Armas e do Serviço de Intendência é, obrigatoriamente, realizado em Corpo de Tropa e deverá ser feito no ano seguinte à terminação do curso do CPOR ou órgão equivalente.
+**Art**. 39. O estágio de instrução para os Aspirantes a Oficial da 2ª Classe da Reserva das Armas e do Serviço de Intendência é, obrigatoriamente, realizado em Corpo de Tropa e deverá ser feito no ano seguinte à terminação do curso do CPOR ou órgão equivalente.
 
-<strong>Art</strong>. 40. Terminado o estágio, serão os estagiários julgados conforme o aproveitamento revelado.
+**Art**. 40. Terminado o estágio, serão os estagiários julgados conforme o aproveitamento revelado.
 
 Aquêles que obtiverem conceito insuficiente serão considerados como não tendo aptidão para o ingresso no oficialato da reserva, ou para o acesso ao pôsto imediatamente superior, quando se tratar de oficial.
 
@@ -456,9 +454,9 @@ Aquêles que obtiverem conceito insuficiente serão considerados como não tendo
 
 § 6º O oficial ou o Aspirante a Oficial que, por motivo independente de sua vontade, não chegar a concluir o estágio iniciado, será convocado em outra oportunidade, não se levando em conta o estágio interrompido.
 
-<strong>Art</strong>. 41. Dentro de dois meses após a conclusão do estágio, o Comandante da Região Militar organizará para cada Aspirante a Oficial julgado suficiente, a proposta de promoção ao pôsto de Segundo Tenente, dirigida ao Ministro da Guerra e encaminhada por intermédio da DSM.
+**Art**. 41. Dentro de dois meses após a conclusão do estágio, o Comandante da Região Militar organizará para cada Aspirante a Oficial julgado suficiente, a proposta de promoção ao pôsto de Segundo Tenente, dirigida ao Ministro da Guerra e encaminhada por intermédio da DSM.
 
-<strong>Art</strong>. 42. Não concorrerá ao estágio de instrução o oficial ou Aspirante a Oficial que:
+**Art**. 42. Não concorrerá ao estágio de instrução o oficial ou Aspirante a Oficial que:
 
 a) estiver sujeito a processo no fôro civil ou militar, ou cumprindo pena;
 
@@ -466,7 +464,7 @@ b) desempenhar na vida civil, atividades incompatíveis com a sua qualidade de o
 
 c) professar doutrinas nocivas à disciplina e à ordem pública, ou adotar princípios contrários às instituições sociais e políticas reinantes no país.
 
-<strong>Art</strong>. 43. A designação dos Aspirantes a Oficial para as Unidades, ficará a cargo dos Comandantes de Região Militar e em conformidade com o seguinte:
+**Art**. 43. A designação dos Aspirantes a Oficial para as Unidades, ficará a cargo dos Comandantes de Região Militar e em conformidade com o seguinte:
 
 a) As inspeções de saúde deverão ser realizadas com antecedência mínima, de uma quinzena da data marcada para o início do estágio e, serão realizadas na sede do Corpo Repartição ou da Região Militar, de preferência, no local de residência dos convocados;
 
@@ -474,75 +472,75 @@ b) Na distribuição dos estagiários, observar-se-á, primeiramente, o local de
 
 Parágrafo único. Os estagiários não participarão das escalas de serviço, de representação e de justiça.
 
-<strong>Art</strong>. 44. O Oficial que tiver realizado estágio de serviço por prazo superior a seis meses, fica dispensado do estágio de instrução para efeito de promoção, desde que tenha obtido conceito favorável.
+**Art**. 44. O Oficial que tiver realizado estágio de serviço por prazo superior a seis meses, fica dispensado do estágio de instrução para efeito de promoção, desde que tenha obtido conceito favorável.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO ESTÁGIO DE ADAPTAÇÃO</em>
+*DO ESTÁGIO DE ADAPTAÇÃO*
 
-<strong>Art</strong>. 45. O estágio de adaptação para os candidatos ao Quadro de Engenheiros Militares será realizado em Escolas Técnicas do Exército e terá a duração fixada nos respectivos programas.
+**Art**. 45. O estágio de adaptação para os candidatos ao Quadro de Engenheiros Militares será realizado em Escolas Técnicas do Exército e terá a duração fixada nos respectivos programas.
 
-<strong>Art</strong>. 46. O número de candidatos a Oficial-Engenheiro Militar da Reserva será condicionado às necessidades do Exército, cabendo ao Ministro da Guerra fixá-lo, mediante proposta dos Órgãos Técnicos interessados.
+**Art**. 46. O número de candidatos a Oficial-Engenheiro Militar da Reserva será condicionado às necessidades do Exército, cabendo ao Ministro da Guerra fixá-lo, mediante proposta dos Órgãos Técnicos interessados.
 
-<strong>Art</strong>. 47. Os candidatos a Oficial Engenheiro Militar da Reserva, exceto os que já forem oficiais da 2ª Classe da Reserva, farão o estágio como Aspirantes a Oficial.
+**Art**. 47. Os candidatos a Oficial Engenheiro Militar da Reserva, exceto os que já forem oficiais da 2ª Classe da Reserva, farão o estágio como Aspirantes a Oficial.
 
-<strong>Art</strong>. 48. Compete ao Comandante da Escola Técnica em que foi realizado o estágio dos candidatos a oficial Engenheiro Militar da Reserva, remeter ao Ministro da Guerra, por intermédio do DPO e através da DSM, a proposta de nomeação a 1º Tenente da 2ª Classe da Reserva, Engenheiro Militar, dos Aspirantes a Oficial que houverem concluído, com aproveitamento o estágio na referida escola.
+**Art**. 48. Compete ao Comandante da Escola Técnica em que foi realizado o estágio dos candidatos a oficial Engenheiro Militar da Reserva, remeter ao Ministro da Guerra, por intermédio do DPO e através da DSM, a proposta de nomeação a 1º Tenente da 2ª Classe da Reserva, Engenheiro Militar, dos Aspirantes a Oficial que houverem concluído, com aproveitamento o estágio na referida escola.
 
 Parágrafo único. Quando se tratar de oficial, cabe ao Comandante da Escola Técnica dentro das normas estabelecidas neste artigo, propor a inclusão do mesmo no Quadro de Engenheiros Militares da Reserva, bem como a promoção ao pôsto de Primeiro Tenente, caso o candidato tenha feito o estágio como Segundo Tenente.
 
-<strong>Art</strong>. 49. Os civis e os Aspirantes a Oficial das Armas e do Serviço de Intendência, candidatos a oficial veterinário da 2ª Classe da Reserva realizarão o estágio em Corpo de Tropa ou Estabelecimento especialmente designado, na graduação de Aspirantes a Oficial. O estágio terá a duração de dois meses para os que forem Aspirantes a Oficial das Armas e do Serviço de Intendência e reservistas de 1ª ou 2ª categoria e de três meses para os de 3ª categoria.
+**Art**. 49. Os civis e os Aspirantes a Oficial das Armas e do Serviço de Intendência, candidatos a oficial veterinário da 2ª Classe da Reserva realizarão o estágio em Corpo de Tropa ou Estabelecimento especialmente designado, na graduação de Aspirantes a Oficial. O estágio terá a duração de dois meses para os que forem Aspirantes a Oficial das Armas e do Serviço de Intendência e reservistas de 1ª ou 2ª categoria e de três meses para os de 3ª categoria.
 
 Parágrafo único. O estágio será feito a requerimento do interessado e solucionado pelo Comandante da Região Militar em cujo território residir o peticionário, que fará declarar Aspirante a Oficial R/2 Veterinário, os reservistas de 1ª, 2ª e 3ª categorias designados para o citado estágio.
 
-<strong>Art</strong>. 50. As instruções reguladoras dos estágios para os candidatos a oficial veterinário serão organizadas, anual ou periodicamente, pela Diretoria de Veterinária e aprovadas pelo Ministro da Guerra.
+**Art**. 50. As instruções reguladoras dos estágios para os candidatos a oficial veterinário serão organizadas, anual ou periodicamente, pela Diretoria de Veterinária e aprovadas pelo Ministro da Guerra.
 
-<strong>Art</strong>. 51. Terminado o estágio dos candidatos a oficial veterinário da reserva, o Comandante ou Chefe do Corpo ou Estabelecimento em que foi realizado o estágio, emitirá o juízo sôbre o aproveitamento de cada estagiário e o enviará ao Comandante da Região Militar respectiva, que organizará para cada candidato julgado suficiente, a proposta de promoção ao pôsto de Segundo Tenente, dirigida ao Ministro da Guerra e encaminhada por intermédio da DSM.
+**Art**. 51. Terminado o estágio dos candidatos a oficial veterinário da reserva, o Comandante ou Chefe do Corpo ou Estabelecimento em que foi realizado o estágio, emitirá o juízo sôbre o aproveitamento de cada estagiário e o enviará ao Comandante da Região Militar respectiva, que organizará para cada candidato julgado suficiente, a proposta de promoção ao pôsto de Segundo Tenente, dirigida ao Ministro da Guerra e encaminhada por intermédio da DSM.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DO ESTÁGIO DE SERVIÇO</em>
+*DO ESTÁGIO DE SERVIÇO*
 
-<strong>Art</strong>. 52. O estágio de serviço terá a duração de 12 meses e será realizado em Corpo de Tropa, Repartição ou Estabelecimento onde houver deficiência de Oficiais da ativa e fôr julgada conveniente a participação do pessoal da Reserva.
+**Art**. 52. O estágio de serviço terá a duração de 12 meses e será realizado em Corpo de Tropa, Repartição ou Estabelecimento onde houver deficiência de Oficiais da ativa e fôr julgada conveniente a participação do pessoal da Reserva.
 
 Parágrafo único. Além das prorrogações previstas no parágrafo 3º do art. 19, aos Segundos Tenentes Médicos e Aspirantes a Oficial, Farmacêuticos e Dentistas da 2ª Classe da Reserva que estiverem realizando estágio de serviço previsto no art. 9º da Lei nº 1.842, de 13 de abril de 1953 e desejarem ingressar na Escola de Saúde do Exército, o Ministro da Guerra poderá conceder prorrogação do referido estágio, até o primeiro concurso de seleção para ingresso naquela Escola, mediante requerimento que deverá ser apresentado na Unidade ou estabelecimento em que estiver sendo realizado o estágio, até dois meses antes da conclusão do mesmo.
 
-<strong>Art</strong>. 53. O número de convocados para o estágio de serviço deverá obedecer ao critério abaixo:
+**Art**. 53. O número de convocados para o estágio de serviço deverá obedecer ao critério abaixo:
 
  \- Oficiais das Armas e dos Serviços de Intendência e de Veterinária, até o limite de 1/3 do efetivo de cada Corpo de Tropa, Estabelecimento ou Repartição;
 
  \- Oficiais Engenheiros Militares e Oficiais e Aspirantes a Oficial do Serviço de Saúde, até o limite dos claros existentes nos respectivos Quadros.
 
-<strong>Art</strong>. 54. O Departamento Geral do Pessoal proporá, anualmente, ao Ministro da Guerra, o número de Oficiais da reserva que deverão ser convocados para estágio de serviço, visando a satisfazer as necessidades do Exército.
+**Art**. 54. O Departamento Geral do Pessoal proporá, anualmente, ao Ministro da Guerra, o número de Oficiais da reserva que deverão ser convocados para estágio de serviço, visando a satisfazer as necessidades do Exército.
 
 Parágrafo único. O critério para a convocação será regulado, anualmente, pelo Ministro da Guerra, mediante proposta do Estado-Maior do Exército.
 
-<strong>Art</strong>. 55. Os 2º<sub>s</sub> Tenentes Médicos e Aspirante a Oficial Farmacêuticos e Dentistas da 2ª Classe da Reserva que deixarem de ser convocados para estágio de serviço por excederem às necessidades do Exército, permanecerão no gôzo de todos os direitos e prerrogativas inerentes à hierarquia que lhes foi concedida na 2ª Classe da Reserva.
+**Art**. 55. Os 2º<sub>s</sub> Tenentes Médicos e Aspirante a Oficial Farmacêuticos e Dentistas da 2ª Classe da Reserva que deixarem de ser convocados para estágio de serviço por excederem às necessidades do Exército, permanecerão no gôzo de todos os direitos e prerrogativas inerentes à hierarquia que lhes foi concedida na 2ª Classe da Reserva.
 
-<strong>Art</strong>. 56. Concluído o estágio de serviço, serão os estagiários licenciados, e, quando Segundos Tenentes Médicos ou Aspirantes a Oficial Dentista e Farmacêutico, serão promovidos ao pôsto imediato, desde que julgados aptos.
+**Art**. 56. Concluído o estágio de serviço, serão os estagiários licenciados, e, quando Segundos Tenentes Médicos ou Aspirantes a Oficial Dentista e Farmacêutico, serão promovidos ao pôsto imediato, desde que julgados aptos.
 
-<strong>Art</strong>. 57. As propostas para as promoções referidas no artigo anterior, serão de competência do Comandante da Região Militar, que as remeterá ao Ministro da Guerra, através da Diretoria do Serviço Militar.
+**Art**. 57. As propostas para as promoções referidas no artigo anterior, serão de competência do Comandante da Região Militar, que as remeterá ao Ministro da Guerra, através da Diretoria do Serviço Militar.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>DAS PROMOÇÕES</em>
+*DAS PROMOÇÕES*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>EM TEMPO DE PAZ</em>
+*EM TEMPO DE PAZ*
 
-<strong>Art</strong>. 58. Os oficiais da 1ª Classe da Reserva poderão ter acesso na mesma Reserva, nas condições estabelecidas em lei, satisfeitas as exigências dêste regulamento que não colidirem com as disposições do texto legal que regular o acesso.
+**Art**. 58. Os oficiais da 1ª Classe da Reserva poderão ter acesso na mesma Reserva, nas condições estabelecidas em lei, satisfeitas as exigências dêste regulamento que não colidirem com as disposições do texto legal que regular o acesso.
 
-<strong>Art</strong>. 59. Os oficiais da 2ª Classe da Reserva poderão, em tempo de paz, ter acesso gradual e sucessivo nos respectivos Quadros das Armas, dos Serviços e de Engenheiros Militares até os pôstos limites estabelecidos neste regulamento, desde que satisfeitas as condições enumeradas no presente capítulo.
+**Art**. 59. Os oficiais da 2ª Classe da Reserva poderão, em tempo de paz, ter acesso gradual e sucessivo nos respectivos Quadros das Armas, dos Serviços e de Engenheiros Militares até os pôstos limites estabelecidos neste regulamento, desde que satisfeitas as condições enumeradas no presente capítulo.
 
 Parágrafo único. Excetuam-se das prescrições dêste artigo, os oficiais das Polícias Militares e do Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 60. O acesso de que trata o artigo anterior, será:
+**Art**. 60. O acesso de que trata o artigo anterior, será:
 
 a) até o pôsto de Tenente-Coronel, para os do Quadro de Engenheiros Militares, com exceção dos oficiais da categoria de “Auxiliares Técnicos” que só terão acesso até o pôsto de 2º Tenente;
 
 b) até o pôsto de Capitão, para os dos Quadros das Armas e dos Serviços.
 
-<strong>Art</strong>. 61. São condições a satisfazer pelo oficial da 2ª Classe da Reserva, para o acesso ao pôsto imediato:
+**Art**. 61. São condições a satisfazer pelo oficial da 2ª Classe da Reserva, para o acesso ao pôsto imediato:
 
 a) ter realizado, com aproveitamento, o estágio de instrução respectivo, ou estágio de serviço com duração superior a 6 meses;
 
@@ -560,7 +558,7 @@ c) professar doutrinas nocivas à disciplina e à ordem pública, ou adotar prin
 
 d) incorrer em falta que implique na proibição do uso dos uniformes.
 
-<strong>Art</strong>. 62. O tempo mínimo de permanência em cada pôsto (interstício), para os oficiais da 2ª Classe da Reserva será:
+**Art**. 62. O tempo mínimo de permanência em cada pôsto (interstício), para os oficiais da 2ª Classe da Reserva será:
 
 Segundo Tenente - 2 anos.
 
@@ -574,23 +572,23 @@ Primeiro Tenente - 3 anos.
 
 Após o término do estágio com aproveitamento, serão os referidos oficiais promovidos ao pôsto de Primeiro Tenente.
 
-<strong>Art</strong>. 63. Não poderá, o oficial da Reserva, da Arma, Serviço ou Engenheiro Militar, ser promovido ao pôsto imediato, antes dos da Ativa, da mesma antiguidade de pôsto.
+**Art**. 63. Não poderá, o oficial da Reserva, da Arma, Serviço ou Engenheiro Militar, ser promovido ao pôsto imediato, antes dos da Ativa, da mesma antiguidade de pôsto.
 
-<strong>Art</strong>. 64. Os oficiais das Polícias Militares e do Corpo de Bombeiros do Distrito Federal terão acesso nas respectivas Corporações, de acôrdo com a legislação própria.
+**Art**. 64. Os oficiais das Polícias Militares e do Corpo de Bombeiros do Distrito Federal terão acesso nas respectivas Corporações, de acôrdo com a legislação própria.
 
 Parágrafo único. Cabe aos Comandos dessas Corporações, comunicarem à DSM, por intermédio das Regiões Militares, as promoções verificadas, tão logo sejam realizadas.
 
-<strong>Art</strong>. 65. As promoções na Reserva até o pôsto de Primeiro Tenente inclusive, são da alçada do Ministro da Guerra (Portaria) e as dos demais postos, da competência do Presidente da República.
+**Art**. 65. As promoções na Reserva até o pôsto de Primeiro Tenente inclusive, são da alçada do Ministro da Guerra (Portaria) e as dos demais postos, da competência do Presidente da República.
 
-<strong>Art</strong>. 66. As promoções na Reserva obedecerão ao princípio de antiguidade, entre os oficiais possuidores dos requisitos exigidos neste regulamento.
+**Art**. 66. As promoções na Reserva obedecerão ao princípio de antiguidade, entre os oficiais possuidores dos requisitos exigidos neste regulamento.
 
-<strong>Art</strong>. 67. As promoções na reserva far-se-ão nas mesmas épocas fixadas para os oficiais da Ativa.
+**Art**. 67. As promoções na reserva far-se-ão nas mesmas épocas fixadas para os oficiais da Ativa.
 
 Parágrafo único. A juízo do Presidente da República, as épocas a que se refere êste artigo, poderão sofrer alteração, bem como as datas, a que as mesmas correspondem.
 
-<strong>Art</strong>. 68. As propostas de promoção, exceto às dos membros do Magistério do Exército, serão organizadas pela Comissão de Promoções do Corpo de Oficiais da Reserva do Exército (CPOR) e submetidas ao Ministro da Guerra.
+**Art**. 68. As propostas de promoção, exceto às dos membros do Magistério do Exército, serão organizadas pela Comissão de Promoções do Corpo de Oficiais da Reserva do Exército (CPOR) e submetidas ao Ministro da Guerra.
 
-<strong>Art</strong>. 69. A Comissão de Promoções, a que se refere o artigo anterior, será constituída:
+**Art**. 69. A Comissão de Promoções, a que se refere o artigo anterior, será constituída:
 
 \- Do Diretor do Serviço Militar, como Presidente;
 
@@ -604,9 +602,9 @@ Parágrafo único. A juízo do Presidente da República, as épocas a que se ref
 
 § 2º Instruções elaboradas, e, periodicamente, revistas pela Diretoria do Serviço Militar, e aprovadas pelo Ministro da Guerra, regularão o funcionamento da Comissão de Promoções.
 
-<strong>Art</strong>. 70. As Regiões Militares, Diretorias e DPO prestarão, semestralmente, as necessárias informações sôbre os oficiais, que tiverem satisfeito as condições exigidas, remetendo à Comissão de Promoções os documentos a êles referentes.
+**Art**. 70. As Regiões Militares, Diretorias e DPO prestarão, semestralmente, as necessárias informações sôbre os oficiais, que tiverem satisfeito as condições exigidas, remetendo à Comissão de Promoções os documentos a êles referentes.
 
-<strong>Art</strong>. 71. São indispensáveis os seguintes documentos para a elaboração das propostas de promoção ao pôsto imediato, dos oficias da 2ª Classe da Reserva:
+**Art**. 71. São indispensáveis os seguintes documentos para a elaboração das propostas de promoção ao pôsto imediato, dos oficias da 2ª Classe da Reserva:
 
 a) cópia da ata de inspeção de saúde;
 
@@ -626,77 +624,77 @@ d) fôlha de informações passada pela Região Militar, Diretorias ou DPO, sob 
 
 Parágrafo único. A falta de um dêsses documentos não redundará em prejuízo para o oficial, desde que a mesma não seja da sua responsabilidade. Providenciando o documento, será o oficial incluído na proposta seguinte e promovido com ressarcimento de preterição.
 
-<strong>Art</strong>. 72. É da responsabilidade das Regiões Militares mandar submeter à inspeção de saúde, os oficiais da Reserva que deverão ser incluídos na proposta de promoção, e remeter as cópias das respectivas atas à Comissão de Promoções.
+**Art**. 72. É da responsabilidade das Regiões Militares mandar submeter à inspeção de saúde, os oficiais da Reserva que deverão ser incluídos na proposta de promoção, e remeter as cópias das respectivas atas à Comissão de Promoções.
 
 Parágrafo único. Cabe ao DPO e Diretorias interessadas, solicitarem às Regiões Militares que sejam submetidos à inspeção de saúde os oficias às mesmas vinculados.
 
-<strong>Art</strong>. 73. A Comissão de Promoções providenciará junto aos Órgãos competentes, sôbre a remessa dos documentos necessários ao ingresso dos oficiais na proposta de promoção quando no prazo marcado tais documentos não tiverem sido recebidos pela referida Comissão.
+**Art**. 73. A Comissão de Promoções providenciará junto aos Órgãos competentes, sôbre a remessa dos documentos necessários ao ingresso dos oficiais na proposta de promoção quando no prazo marcado tais documentos não tiverem sido recebidos pela referida Comissão.
 
-<strong>Art</strong>. 74. O prazo de validade da inspeção de saúde para os oficiais da Reserva, será igual ao determinado para os oficiais da ativa.
+**Art**. 74. O prazo de validade da inspeção de saúde para os oficiais da Reserva, será igual ao determinado para os oficiais da ativa.
 
 Parágrafo único. Dentro dêste prazo, só serão submetidos à nova inspeção de saúde para promoção, os que forem julgados incapazes temporariamente.
 
-<strong>Art</strong>. 75. Não farão parte da proposta de promoção, os oficiais, que não comparecerem à inspeção de Saúde quando chamados e devidamente notificados.
+**Art**. 75. Não farão parte da proposta de promoção, os oficiais, que não comparecerem à inspeção de Saúde quando chamados e devidamente notificados.
 
 Parágrafo único. Não farão, também, parte da proposta de promoção, os oficiais, que não comparecerem à inspeção de saúde, pela impossibilidade de notificação, resultante da mudança de domicílio não comunicada, devidamente, ao órgão militar competente.
 
-<strong>Art</strong>. 76. A notificação aos oficiais, que devem ser submetidos à inspeção de saúde, processar-se-á de forma que as respectivas atas possam chegar a destino, dentro do prazo previsto para a apresentação das propostas de promoções.
+**Art**. 76. A notificação aos oficiais, que devem ser submetidos à inspeção de saúde, processar-se-á de forma que as respectivas atas possam chegar a destino, dentro do prazo previsto para a apresentação das propostas de promoções.
 
-<strong>Art</strong>. 77. A inspeção de saúde, far-se-á, em princípio, nas Unidades mais próximas dos locais de residência dos oficiais.
+**Art**. 77. A inspeção de saúde, far-se-á, em princípio, nas Unidades mais próximas dos locais de residência dos oficiais.
 
-<strong>Art</strong>. 78. Serão retirados da proposta de promoção, independentemente de outras providências que no caso tiverem cabimento, os oficiais, que, após indicados e contemplados na aludida proposta, incorrerem em faltas que não permitam o acesso ao pôsto imediato.
+**Art**. 78. Serão retirados da proposta de promoção, independentemente de outras providências que no caso tiverem cabimento, os oficiais, que, após indicados e contemplados na aludida proposta, incorrerem em faltas que não permitam o acesso ao pôsto imediato.
 
 Parágrafo único. Cabe à Região Militar, Diretoria ou DPO, prestar à Comissão de Promoções, as necessárias informações, quer por solicitação desta, quer por sua iniciativa, tendo em vista o disposto nesse artigo.
 
-<strong>Art</strong>. 79. Compete ao Serviço Militar Regional comunicar, via postal ou telegráfica, aos interessados, o ato de nomeação ou promoção e cientificar aos promovidos sôbre a obrigatoriedade da remessa da carta patente, para fins de apostila.
+**Art**. 79. Compete ao Serviço Militar Regional comunicar, via postal ou telegráfica, aos interessados, o ato de nomeação ou promoção e cientificar aos promovidos sôbre a obrigatoriedade da remessa da carta patente, para fins de apostila.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>EM TEMPO DE GUERRA</em>
+*EM TEMPO DE GUERRA*
 
-<strong>Art</strong>. 80. Os oficiais da Reserva, incluídos em Unidades, Repartição ou Estabelecimento Militar, por efeito de convocação para o serviço ativo, poderão ter acesso até o pôsto limite dos respectivos quadros da ativa, nos têrmos da lei que regular as promoções em tempo de guerra.
+**Art**. 80. Os oficiais da Reserva, incluídos em Unidades, Repartição ou Estabelecimento Militar, por efeito de convocação para o serviço ativo, poderão ter acesso até o pôsto limite dos respectivos quadros da ativa, nos têrmos da lei que regular as promoções em tempo de guerra.
 
 Parágrafo único. São incluídos na prescrição acima, os oficiais nomeados para a 3ª Classe da Reserva.
 
-<strong>Art</strong>. 81. Os Aspirantes a Oficial da 2ª Classe da Reserva, convocados e incluídos nas condições do artigo anterior, terão assegurados o direito à promoção ao pôsto inicial do respectivo quadro, após transcorridos três meses da data da apresentação na Unidade, Repartição ou Estabelecimento, se demonstrarem aproveitamento e caso não hajam, antes, satisfeito o requisito do estágio de instrução.
+**Art**. 81. Os Aspirantes a Oficial da 2ª Classe da Reserva, convocados e incluídos nas condições do artigo anterior, terão assegurados o direito à promoção ao pôsto inicial do respectivo quadro, após transcorridos três meses da data da apresentação na Unidade, Repartição ou Estabelecimento, se demonstrarem aproveitamento e caso não hajam, antes, satisfeito o requisito do estágio de instrução.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>DAS TRANSFERÊNCIAS DE QUADRO</em>
+*DAS TRANSFERÊNCIAS DE QUADRO*
 
-<strong>CAPÍTULO ÚNICO</strong>
+**CAPÍTULO ÚNICO**
 
-<strong>Art</strong>. 82. Serão transferidos para os correspondentes Quadros da 2ª Classe da Reserva do Serviço de Saúde do Exército, mediante proposta dos Comandantes de Região Militar, os oficiais da 2ª Classe da Reserva das Armas e do Serviço de Intendência, diplomados ou que vierem a se diplomar em Medicina, Farmácia ou Odontologia, por Escola oficial ou reconhecida pelo Govêrno Federal.
+**Art**. 82. Serão transferidos para os correspondentes Quadros da 2ª Classe da Reserva do Serviço de Saúde do Exército, mediante proposta dos Comandantes de Região Militar, os oficiais da 2ª Classe da Reserva das Armas e do Serviço de Intendência, diplomados ou que vierem a se diplomar em Medicina, Farmácia ou Odontologia, por Escola oficial ou reconhecida pelo Govêrno Federal.
 
-<strong>Art</strong>. 83. Serão ainda transferidos para os correspondentes Quadros da 2ª Classe da Reserva do Serviço de Saúde do Exército, mediante requerimento, os oficiais desta mesma reserva, do Serviço de Veterinária, diplomados ou que vierem a se diplomar em Medicina, Farmácia ou Odontologia, por Escola oficial ou reconhecida pelo Govêrno Federal, desde que comprovem exercer a profissão.
+**Art**. 83. Serão ainda transferidos para os correspondentes Quadros da 2ª Classe da Reserva do Serviço de Saúde do Exército, mediante requerimento, os oficiais desta mesma reserva, do Serviço de Veterinária, diplomados ou que vierem a se diplomar em Medicina, Farmácia ou Odontologia, por Escola oficial ou reconhecida pelo Govêrno Federal, desde que comprovem exercer a profissão.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>DO LICENCIAMENTO</em>
+*DO LICENCIAMENTO*
 
-<strong>CAPÍTULO ÚNICO</strong>
+**CAPÍTULO ÚNICO**
 
-<strong>Art</strong>. 84. Os oficiais e os Aspirantes a Oficial da Reserva, convocados para estágios ou por motivo de mobilização, serão licenciados ao findar o período para o qual foram convocados ou por terem e cessado os motivos que determinaram a convocação.
+**Art**. 84. Os oficiais e os Aspirantes a Oficial da Reserva, convocados para estágios ou por motivo de mobilização, serão licenciados ao findar o período para o qual foram convocados ou por terem e cessado os motivos que determinaram a convocação.
 
-<strong>Art</strong>. 85. Os oficiais e os Aspirantes a Oficial da Reserva convocados serão licenciados a qualquer tempo, por incapacidade física, temporária ou definitiva, declarada por junta militar de saúde.
+**Art**. 85. Os oficiais e os Aspirantes a Oficial da Reserva convocados serão licenciados a qualquer tempo, por incapacidade física, temporária ou definitiva, declarada por junta militar de saúde.
 
 Parágrafo único. No caso da incapacidade física temporária ou definitiva decorrente de acidente ou moléstia adquirida em serviço, comprovada por Junta Médica Militar, aplicar-se-á a legislação em vigor.
 
-<strong>Art</strong>. 86. Os oficiais e os Aspirantes a Oficial da Reserva poderão por ato da autoridade convocante, ser dispensados do cargo ou comissão” ou licenciados disciplinarmente.
+**Art**. 86. Os oficiais e os Aspirantes a Oficial da Reserva poderão por ato da autoridade convocante, ser dispensados do cargo ou comissão” ou licenciados disciplinarmente.
 
-<strong>Art</strong>. 87. O Aspirante a Oficial ou oficial da reserva convocado quando dispensado da convocação, volta à reserva com o pôsto ou graduação que tinha, ou com o novo pôsto, caso tenha logrado alcançar promoção, quando convocado.
+**Art**. 87. O Aspirante a Oficial ou oficial da reserva convocado quando dispensado da convocação, volta à reserva com o pôsto ou graduação que tinha, ou com o novo pôsto, caso tenha logrado alcançar promoção, quando convocado.
 
-<strong>Art</strong>. 88. Os Aspirantes a Oficial Farmacêuticos e Dentistas e os Segundos Tenentes Médicos, da 2ª Classe da Reserva após a realização do estágio de serviço com aproveitamento, serão licenciados e promovidos ao pôsto imediato.
+**Art**. 88. Os Aspirantes a Oficial Farmacêuticos e Dentistas e os Segundos Tenentes Médicos, da 2ª Classe da Reserva após a realização do estágio de serviço com aproveitamento, serão licenciados e promovidos ao pôsto imediato.
 
-<strong>Art</strong>. 89. Não poderá ser licenciado o oficial ou o Aspirante a Oficial que estiver sujeito a inquérito militar ou comum, ou submetido a processo no fôro militar ou civil, ou no cumprimento de pena de qualquer natureza.
+**Art**. 89. Não poderá ser licenciado o oficial ou o Aspirante a Oficial que estiver sujeito a inquérito militar ou comum, ou submetido a processo no fôro militar ou civil, ou no cumprimento de pena de qualquer natureza.
 
-<strong>TÍTULO VIII</strong>
+**TÍTULO VIII**
 
-<em>DA EXCLUSÃO DO CORE</em>
+*DA EXCLUSÃO DO CORE*
 
-<strong>CAPÍTULO ÚNICO</strong>
+**CAPÍTULO ÚNICO**
 
-<strong>Art</strong>. 90. O oficial da Reserva deixa de pertencer ao CORE:
+**Art**. 90. O oficial da Reserva deixa de pertencer ao CORE:
 
 1\) quando passar à situação de reformado;
 
@@ -706,7 +704,7 @@ Parágrafo único. No caso da incapacidade física temporária ou definitiva dec
 
 4\) por falecimento.
 
-<strong>Art</strong>. 91. A exclusão do CORE, referida no artigo anterior decorrerá:
+**Art**. 91. A exclusão do CORE, referida no artigo anterior decorrerá:
 
 a) no caso dos incisos 1 e 2 - do correspondente ato de reforma ou de cassação do pôsto;
 
@@ -716,17 +714,17 @@ c) no caso do inciso 4 - da comunicação da respectiva Região Militar, Diretor
 
 Parágrafo único. Sempre que ocorrer a exclusão a que se refere êste artigo, a Diretoria do Serviço Militar comunicá-la-á à Região Militar, Departamento ou Diretoria interessada, para conhecimento e necessárias providências.
 
-<strong>TÍTULO IX</strong>
+**TÍTULO IX**
 
-<em>DA REFORMA E DA PERDA DO PÔSTO</em>
+*DA REFORMA E DA PERDA DO PÔSTO*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA REFORMA</em>
+*DA REFORMA*
 
-<strong>Art</strong>. 92. Os oficiais da 1ª Classe da Reserva terão sua reforma regulada pela Lei de Inatividade dos Militares.
+**Art**. 92. Os oficiais da 1ª Classe da Reserva terão sua reforma regulada pela Lei de Inatividade dos Militares.
 
-<strong>Art</strong>. 93. Os oficiais e os Aspirantes a Oficial da 2ª Classe da Reserva e os oficiais da 3ª Classe da Reserva, serão reformados no mesmo pôsto ou graduação, sem direito a qualquer remuneração:
+**Art**. 93. Os oficiais e os Aspirantes a Oficial da 2ª Classe da Reserva e os oficiais da 3ª Classe da Reserva, serão reformados no mesmo pôsto ou graduação, sem direito a qualquer remuneração:
 
 a) por incapacidade física definitiva;
 
@@ -744,27 +742,27 @@ f) quando a atingirem a idade limite para o pôsto.
 
 § 2º A reforma nas condições previstas neste artigo será efetivada por ato do Govêrno.
 
-<strong>Art</strong>. 94. Os oficiais das Policias Militares e do Corpo de Bombeiros do Distrito Federal, terão as respectivas reformas reguladas pelas disposições próprias das Corporações a que pertencerem, respeitada a idade limite de permanência na reserva do Exercício.
+**Art**. 94. Os oficiais das Policias Militares e do Corpo de Bombeiros do Distrito Federal, terão as respectivas reformas reguladas pelas disposições próprias das Corporações a que pertencerem, respeitada a idade limite de permanência na reserva do Exercício.
 
-<strong>Art</strong>. 95. A idade limite a que se refere a alínea <em>f</em> do art. 93 é a fixada na Lei de Inatividade dos Militares.
+**Art**. 95. A idade limite a que se refere a alínea *f* do art. 93 é a fixada na Lei de Inatividade dos Militares.
 
 Parágrafo único. Será a do pôsto de Segundo Tenente, a idade limite para a reforma dos Aspirantes a Oficial.
 
-<strong>Art</strong>. 96. O oficial da reserva que, como convocado, fôr vítima de ferimento ou acidente sofrido ou moléstia contraída em serviço ou campanha, ou deles decorrente, será reformado com os proventos que no caso lhe couberem, aplicadas as disposições de lei.
+**Art**. 96. O oficial da reserva que, como convocado, fôr vítima de ferimento ou acidente sofrido ou moléstia contraída em serviço ou campanha, ou deles decorrente, será reformado com os proventos que no caso lhe couberem, aplicadas as disposições de lei.
 
-<strong>Art</strong>. 97. O oficial, ou Aspirante a Oficial, reformado, fica isento da reconvocação para qualquer dos fins previstos neste regulamento.
+**Art**. 97. O oficial, ou Aspirante a Oficial, reformado, fica isento da reconvocação para qualquer dos fins previstos neste regulamento.
 
-<strong>Art</strong>. 98. Anualmente, no mês de fevereiro, a Diretoria do Serviço Militar enviará à Secretaria do Ministério da Guerra, a relação dos militares da reserva, inclusive membros do magistério do Exército, que houverem atingido a idade limite de permanência na reserva, a fim de serem reformados.
+**Art**. 98. Anualmente, no mês de fevereiro, a Diretoria do Serviço Militar enviará à Secretaria do Ministério da Guerra, a relação dos militares da reserva, inclusive membros do magistério do Exército, que houverem atingido a idade limite de permanência na reserva, a fim de serem reformados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA PERDA DO PÔSTO</em>
+*DA PERDA DO PÔSTO*
 
-<strong>Art</strong>. 99. As patentes com as vantagens, regalias e prerrogativas a elas inerentes, são garantidas, em tôda plenitude, aos oficias da reserva.
+**Art**. 99. As patentes com as vantagens, regalias e prerrogativas a elas inerentes, são garantidas, em tôda plenitude, aos oficias da reserva.
 
 Parágrafo único. Após a publicação do ato de nomeação ou promoção ao primeiro pôsto, o oficial da reserva receberá a sua carta patente.
 
-<strong>Art</strong>. 100. A perda do pôsto e da patente só se verificará por uma das seguintes causas:
+**Art**. 100. A perda do pôsto e da patente só se verificará por uma das seguintes causas:
 
 a) sentença condenatória passada em julgado, cuja pena restritiva de liberdade individual ultrapasse a 2 (dois) anos;
 
@@ -776,29 +774,29 @@ b) declaração, em tempo de paz, pelo Superior Tribunal Militar ou em tempo de 
 
 3\) quando fôr reconhecido professar o oficial doutrina nociva à disciplina, à ordem e à garantia dos poderes constitucionais da lei e da ordem.
 
-<strong>Art</strong>. 101. O oficial da Reserva do Exército admitido, por satisfazer exigências regulamentares, em Curso de Formação de Oficiais da Ativa de uma Fôrça Armada, terá tornado insubsistente o ato de nomeação ou promoção que motivou sua inclusão no Corpo de Oficias da Reserva do Exército.
+**Art**. 101. O oficial da Reserva do Exército admitido, por satisfazer exigências regulamentares, em Curso de Formação de Oficiais da Ativa de uma Fôrça Armada, terá tornado insubsistente o ato de nomeação ou promoção que motivou sua inclusão no Corpo de Oficias da Reserva do Exército.
 
 § 1º O que não concluir o curso voltará à situação que tinha na Reserva do Exército, desde que a exclusão dêsse curso não tenha sido motivada pró falta desabonadora que o incompatibilize com o oficialato da reserva, de acôrdo com o julgamento do competente Tribunal Militar.
 
 § 2º A carta patente do oficial, de que trata êste artigo, será recolhida e remetida à Diretoria do Serviço Militar, onde, após anotações na correspondente ficha, será arquivada, enquanto perdurar aquela situação e, posteriormente, restituída, ou incinerada, conforme o caso.
 
-<strong>Art</strong>. 102. A perda do pôsto e da patente será efetivada por ato do Govêrno.
+**Art**. 102. A perda do pôsto e da patente será efetivada por ato do Govêrno.
 
-<strong>Art</strong>. 103. Os cidadãos que perderem os seus postos e patentes da 2ª Classe da Reserva, serão restabelecidos nos registros dos Órgãos de recrutamento, como soldados reservistas, e sujeitos às obrigações de sua classe, observadas as restrições legais.
+**Art**. 103. Os cidadãos que perderem os seus postos e patentes da 2ª Classe da Reserva, serão restabelecidos nos registros dos Órgãos de recrutamento, como soldados reservistas, e sujeitos às obrigações de sua classe, observadas as restrições legais.
 
 § 1º Aquêles que tiverem suas cartas patentes cassadas, deverão no prazo de 30 dias remetê-las, juntamente com a carteira de identidade militar, por intermédio das Regiões Militares, à Diretoria do Serviço Militar.
 
 § 2º O não cumprimento da prescrição do parágrafo anterior implicará na solicitação pela Região Militar respectiva, de providências atinentes ao caso, à Polícia Civil.
 
-<strong>TÍTULO X</strong>
+**TÍTULO X**
 
-<em>DOS DEVERES, DIREITOS E PRERROGATIVAS</em>
+*DOS DEVERES, DIREITOS E PRERROGATIVAS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS DEVERES</em>
+*DOS DEVERES*
 
-<strong>Art</strong>. 104. O oficial ou Aspirante a Oficial da Reserva, convocado em tempo de paz ou de guerra, tem o dever de apresentar-se à autoridade militar convocante, ou à Unidade, Repartição ou Estabelecimento Militar de destino, dentro do prazo fixado na respectiva ordem (edital, carta de chamada ou notificação individual).
+**Art**. 104. O oficial ou Aspirante a Oficial da Reserva, convocado em tempo de paz ou de guerra, tem o dever de apresentar-se à autoridade militar convocante, ou à Unidade, Repartição ou Estabelecimento Militar de destino, dentro do prazo fixado na respectiva ordem (edital, carta de chamada ou notificação individual).
 
 § 1º Quando ausente do país, se decretada a mobilização, o oficial ou Aspirante a Oficial apresentar-se-á ao Agente Consular do Brasil, no país em que se encontrar, a fim de receber instruções.
 
@@ -806,17 +804,17 @@ b) declaração, em tempo de paz, pelo Superior Tribunal Militar ou em tempo de 
 
 § 3º A inobservância ou falta de exação no cumprimento dos deveres especificados em leis e regulamentos aplicáveis ao caso, acarreta responsabilidade funcional, pecuniária, disciplinar ou penal, consoante a legislação em vigor.
 
-<strong>Art</strong>. 105. O oficial ou Aspirante a Oficial da Reserva não convocado, responde por sua conduta e atos perante a autoridade civil, de acôrdo com legislação comum.
+**Art**. 105. O oficial ou Aspirante a Oficial da Reserva não convocado, responde por sua conduta e atos perante a autoridade civil, de acôrdo com legislação comum.
 
 § 1º Caso a prática de falta ou crime de natureza civil, acarrete repercussão na sua situação de militar, ser-lhe-ão aplicadas as sanções que no caso couberem.
 
 § 2º As faltas de natureza militar, serão julgadas na forma da legislação em vigor no Exército.
 
-<strong>Art</strong>. 106. O oficial ou Aspirante a Oficial da Reserva, obrigatoriamente, deverá participar, pessoalmente ou por escrito (carta registrada ou telegrama), ao Comandante da região Militar sob cuja jurisdição estiver a localidade de sua residência, qualquer mudança de domicílio, bem como, a ausência do país e o tempo provável de sua duração.
+**Art**. 106. O oficial ou Aspirante a Oficial da Reserva, obrigatoriamente, deverá participar, pessoalmente ou por escrito (carta registrada ou telegrama), ao Comandante da região Militar sob cuja jurisdição estiver a localidade de sua residência, qualquer mudança de domicílio, bem como, a ausência do país e o tempo provável de sua duração.
 
 Parágrafo único. Caso a mudança de residência se verifique do território de uma Região Militar para o de outra, a comunicação deverá ser feita aos dois Comandantes de Região interessados.
 
-<strong>Art</strong>. 107. No interêsse próprio e com o objetivo de permitir a designação de destino adequado, deve o oficial ou Aspirante a Oficial da Reserva informar, pessoalmente ou por escrito, (carta registrada ou telegrama), ao Comandante da Região Militar sob cuja jurisdição estiver a localidade de sua residência sôbre sua situação na vida civil quanto:
+**Art**. 107. No interêsse próprio e com o objetivo de permitir a designação de destino adequado, deve o oficial ou Aspirante a Oficial da Reserva informar, pessoalmente ou por escrito, (carta registrada ou telegrama), ao Comandante da Região Militar sob cuja jurisdição estiver a localidade de sua residência sôbre sua situação na vida civil quanto:
 
 a) à profissão e o lugar onde a exerce (estabelecimento, repartição, emprêsa, etc.);
 
@@ -824,17 +822,17 @@ b) ao diploma, título ou certificado, de que é portador.
 
 Parágrafo único. Sempre que ocorrer modificação dessa situação, o oficial ou Aspirante a Oficial comunicá-la-á àquela autoridade, exibindo, se fôr o caso, os documentos comprobatórios.
 
-<strong>Art</strong>. 108. O oficial ou Aspirante a Oficial da Reserva deverá possuir os uniformes, de acôrdo com o estabelecido no Estatuto dos Militares e no Regulamentos de uniformes do Pessoal do Exército.
+**Art**. 108. O oficial ou Aspirante a Oficial da Reserva deverá possuir os uniformes, de acôrdo com o estabelecido no Estatuto dos Militares e no Regulamentos de uniformes do Pessoal do Exército.
 
 Parágrafo único. Quando fardado, é obrigado a conduzir a carteira de identidade, fornecida pelo Ministério da Guerra.
 
-<strong>Art</strong>. 109. Quando nomeado para a Reserva ou nesta promovido ao pôsto imediato, o oficial é obrigado a apresentar-se dentro de 30 dias à autoridade militar da localidade de sua residência (Comando da Região Militar, da Guarnição Militar ou da Unidade, Diretor ou Chefe do Serviço). O que residir em localidade onde não existir organização do Exército, deverá participar, em carta registrada ou telegrama, ao Comandante da Região Militar a que estiver vinculado, haver tomado conhecimento de sua nomeação ou promoção.
+**Art**. 109. Quando nomeado para a Reserva ou nesta promovido ao pôsto imediato, o oficial é obrigado a apresentar-se dentro de 30 dias à autoridade militar da localidade de sua residência (Comando da Região Militar, da Guarnição Militar ou da Unidade, Diretor ou Chefe do Serviço). O que residir em localidade onde não existir organização do Exército, deverá participar, em carta registrada ou telegrama, ao Comandante da Região Militar a que estiver vinculado, haver tomado conhecimento de sua nomeação ou promoção.
 
 Parágrafo único. O residente no Distrito Federal apresentar-se-á à Diretoria do Serviço Militar e à 1ª Região Militar.
 
-<strong>Art</strong>. 110. Quando em serviço no Exército ativo, fica o oficial ou Aspirante a oficial da Reserva inibido de tratar nos Corpos, Repartições Públicas civis ou militares e em qualquer Estabelecimento Militar, de interêsses de indústria ou comércio, a que estiver associado ou por qualquer forma ligado.
+**Art**. 110. Quando em serviço no Exército ativo, fica o oficial ou Aspirante a oficial da Reserva inibido de tratar nos Corpos, Repartições Públicas civis ou militares e em qualquer Estabelecimento Militar, de interêsses de indústria ou comércio, a que estiver associado ou por qualquer forma ligado.
 
-<strong>Art</strong>. 111. Na forma da legislação militar em vigor, os deveres inerentes aos oficiais da ativa também o são aos oficiais ou Aspirantes a Oficial da Reserva, quando convocados em tempo de paz ou de guerra e incluídos em unidades, Repartições ou estabelecimentos militares.
+**Art**. 111. Na forma da legislação militar em vigor, os deveres inerentes aos oficiais da ativa também o são aos oficiais ou Aspirantes a Oficial da Reserva, quando convocados em tempo de paz ou de guerra e incluídos em unidades, Repartições ou estabelecimentos militares.
 
 § 1º Fora dêsses casos, ficarão sujeitos ás prescrições regulamentares, a que estão subordinados os militares da Reserva, cabendo-lhes, como oficiais, zelar pela sua fiel observância.
 
@@ -846,23 +844,23 @@ b) os oficiais e praças da reserva remunerada e os reformados, não compreendid
 
 c) os oficiais e praças da reservas não remuneradas os alunos dos C.P.O.R. e os atiradores dos TG, das EIM e das UQ, sem função no Ministério da Guerra, quando fardados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DOS DIREITOS E PRERROGATIVAS</em>
+*DOS DIREITOS E PRERROGATIVAS*
 
-<strong>Art</strong>. 112. O Servidor Público (Federal, Estadual, Municipal ou Territorial) e, bem assim, o Servidor de “entidades que exerçam atividades por delegação do Poder Público ou sejam por êle mantidas ou administradas”, quando convocado, pode optar pelos vencimentos, remuneração ou salário que tenha direito como civil, sujeitando-se porém aos descontos que no caso couberem de acôrdo com a legislação em vigor.
+**Art**. 112. O Servidor Público (Federal, Estadual, Municipal ou Territorial) e, bem assim, o Servidor de “entidades que exerçam atividades por delegação do Poder Público ou sejam por êle mantidas ou administradas”, quando convocado, pode optar pelos vencimentos, remuneração ou salário que tenha direito como civil, sujeitando-se porém aos descontos que no caso couberem de acôrdo com a legislação em vigor.
 
-<strong>Art</strong>. 113. É assegurado aos funcionários públicos federais, estaduais, municipais ou territoriais, o direito à contagem do tempo de serviço, que, como convocados, estagiaram ou serviram no Exército Ativo.
+**Art**. 113. É assegurado aos funcionários públicos federais, estaduais, municipais ou territoriais, o direito à contagem do tempo de serviço, que, como convocados, estagiaram ou serviram no Exército Ativo.
 
 § 1º Tais funcionários, bem como, os servidores de organizações ou entidades que exerçam função por delegação do Poder Público, serão considerados licenciados de suas atividades civis, durante o tempo em que permanecerem convocados.
 
 § 2º Ao serem licenciados do Exército Ativo, terão assegurados sua imediata reintegração no cargo, função ou emprêgo que exerciam ao serem convocados.
 
-<strong>Art</strong>. 114. O oficial ou Aspirante a Oficial da Reserva convocado, quando empregado em emprêsas ou Estabelecimento particular, terá assegurado o seu lugar, desde que se apresente dentro de 30 dias após o licenciamento do Exército Ativo, não podendo advir para o mesmo, nenhum prejuízo, além da perda de vencimento, ordenado ou salário e a indenização por sua conta das contribuições a que estiver sujeito, de acôrdo com as leis trabalhistas em vigor.
+**Art**. 114. O oficial ou Aspirante a Oficial da Reserva convocado, quando empregado em emprêsas ou Estabelecimento particular, terá assegurado o seu lugar, desde que se apresente dentro de 30 dias após o licenciamento do Exército Ativo, não podendo advir para o mesmo, nenhum prejuízo, além da perda de vencimento, ordenado ou salário e a indenização por sua conta das contribuições a que estiver sujeito, de acôrdo com as leis trabalhistas em vigor.
 
-<strong>Art</strong>. 115. O oficial ou Aspirante a Oficial da Reserva, incorporado no Exército Ativo para fins de estágio ou em conseqüência de mobilização, que fôr aluno de estabelecimento de ensino superior, terá justificadas as faltas Às aulas e trabalhos escolares, durante êsse período, desde que apresente o devido comprovante.
+**Art**. 115. O oficial ou Aspirante a Oficial da Reserva, incorporado no Exército Ativo para fins de estágio ou em conseqüência de mobilização, que fôr aluno de estabelecimento de ensino superior, terá justificadas as faltas Às aulas e trabalhos escolares, durante êsse período, desde que apresente o devido comprovante.
 
-<strong>Art</strong>. 116. O uso dos uniformes é obrigatório para os Oficiais e Aspirante a Oficial da Reserva, nas apresentações por efeito de nomeação para a Reserva, promoção ou convocação, bem como durante o tempo de permanência na Unidade, Repartição ou Estabelecimento Militar em que o oficial ou Aspirante a Oficial fôr incluído.
+**Art**. 116. O uso dos uniformes é obrigatório para os Oficiais e Aspirante a Oficial da Reserva, nas apresentações por efeito de nomeação para a Reserva, promoção ou convocação, bem como durante o tempo de permanência na Unidade, Repartição ou Estabelecimento Militar em que o oficial ou Aspirante a Oficial fôr incluído.
 
 § 1º Somente quando incluídos no Exército Ativo (temporário ou definitivamente), os oficiais e os Aspirantes Oficial da Reserva usarão uniformes idênticos aos da ativa. Fora dêstes casos, usarão o uniformes da ativa com os distintivos correspondentes à sua situação militar.
 
@@ -870,23 +868,23 @@ c) os oficiais e praças da reservas não remuneradas os alunos dos C.P.O.R. e o
 
 § 3º Não pode entretanto usar os uniformes o oficial ou Aspirante a Oficial que, pela prática de atos indignos ou por outros motivos fôr, por determinação ministerial, proibido de usá-los .
 
-<strong>Art</strong>. 117. O oficial ou Aspirante a Oficial, quando fardado, goza das prerrogativas e tem as obrigações correspondentes ao uniforme e às insígnias do pôsto.
+**Art**. 117. O oficial ou Aspirante a Oficial, quando fardado, goza das prerrogativas e tem as obrigações correspondentes ao uniforme e às insígnias do pôsto.
 
 Parágrafo único. O uso indébito do uniforme, como do pôsto, é crime, ficando o transgressor sujeito às penas correspondentes.
 
-<strong>Art</strong>. 118. O oficial ou Aspirante a Oficial da Reserva tem inteira liberdade de fazer publicações, inclusive da propaganda do estabelecimento, escritório, etc., onde emprega as suas atividades civis, sem entretanto fazer citação da sua qualidade de oficial da Reserva. E quando o fizer, nos assuntos técnicos, científicos ou militares, assumirá inteira responsabilidade, ficando, porém, sujeitos às prescrições regulamentares, no tocante à publicação de caráter militar.
+**Art**. 118. O oficial ou Aspirante a Oficial da Reserva tem inteira liberdade de fazer publicações, inclusive da propaganda do estabelecimento, escritório, etc., onde emprega as suas atividades civis, sem entretanto fazer citação da sua qualidade de oficial da Reserva. E quando o fizer, nos assuntos técnicos, científicos ou militares, assumirá inteira responsabilidade, ficando, porém, sujeitos às prescrições regulamentares, no tocante à publicação de caráter militar.
 
-<strong>Art</strong>. 119. Além dos direitos, prerrogativas e deveres especificados neste título, ficam os oficiais e Aspirantes a Oficial da Reserva, subordinados a outros, constantes de leis e Regulamentos do Exército, no que lhe fôr aplicável.
+**Art**. 119. Além dos direitos, prerrogativas e deveres especificados neste título, ficam os oficiais e Aspirantes a Oficial da Reserva, subordinados a outros, constantes de leis e Regulamentos do Exército, no que lhe fôr aplicável.
 
-<strong>TÍTULO XI</strong>
+**TÍTULO XI**
 
-<em>DISPOSIÇÕES DIVERSAS</em>
+*DISPOSIÇÕES DIVERSAS*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 120. Em cada Região Militar (SMR), será organizado e mantido em dia um fichário dos oficiais do CORE, com discriminação da classe, pôsto, Armas e Serviço, compreendendo os seguintes grupos de fichas:
+**Art**. 120. Em cada Região Militar (SMR), será organizado e mantido em dia um fichário dos oficiais do CORE, com discriminação da classe, pôsto, Armas e Serviço, compreendendo os seguintes grupos de fichas:
 
 a) residentes no território da Região Militar;
 
@@ -906,27 +904,27 @@ b) destinados à Região Militar, residente no território de outra Região Mili
 
 c) pertencentes às Polícias Militares (Fôrças Públicas) e Corpo de Bombeiro do Distrito Federal.
 
-<strong>Art</strong>. 121. A Diretoria do Serviço Militar disporá de um fichário geral, organizado para cada Região Militar e, em condições idênticas às estabelecidas no artigo anterior.
+**Art**. 121. A Diretoria do Serviço Militar disporá de um fichário geral, organizado para cada Região Militar e, em condições idênticas às estabelecidas no artigo anterior.
 
-<strong>Art</strong>. 122. A CP-CORE organizará um fichário por postos, dentro das Armas e Serviços, mantendo rigorosamente em dia as alterações destinadas à elaboração das propostas de promoção.
+**Art**. 122. A CP-CORE organizará um fichário por postos, dentro das Armas e Serviços, mantendo rigorosamente em dia as alterações destinadas à elaboração das propostas de promoção.
 
-<strong>Art</strong>. 123. Qualquer modificação da situação ocorrida com o oficial ou Aspirante a Oficial (nomeação para o CORE, designação, promoção, exclusão do CORE, etc.), será comunicada pela Diretoria do Serviço Militar à (s) Região (ões) Militar (res), para conhecimento e providências decorrentes.
+**Art**. 123. Qualquer modificação da situação ocorrida com o oficial ou Aspirante a Oficial (nomeação para o CORE, designação, promoção, exclusão do CORE, etc.), será comunicada pela Diretoria do Serviço Militar à (s) Região (ões) Militar (res), para conhecimento e providências decorrentes.
 
-Parágrafo único. A (s) Região (ões) Militar (res) informarão à Subdiretoria da Reserva, para fins de publicação nos Boletins ostensivos ou reservados, ocorrências que impliquem na modificação da situação do oficial ou Aspirante a Oficial da Reserva (mudança de residência para território de outra RM, conclusão de estágios, condenados, <em>sub judice,</em> falecidos etc.).
+Parágrafo único. A (s) Região (ões) Militar (res) informarão à Subdiretoria da Reserva, para fins de publicação nos Boletins ostensivos ou reservados, ocorrências que impliquem na modificação da situação do oficial ou Aspirante a Oficial da Reserva (mudança de residência para território de outra RM, conclusão de estágios, condenados, *sub judice,* falecidos etc.).
 
-<strong>Art</strong>. 124. A CP/CORE organizará o almanaque da Segunda Classe da Reserva e, anualmente, um Suplemento do mesmo com as alterações ocorridas com os oficiais dessa reserva.
+**Art**. 124. A CP/CORE organizará o almanaque da Segunda Classe da Reserva e, anualmente, um Suplemento do mesmo com as alterações ocorridas com os oficiais dessa reserva.
 
 § 1º A Diretoria do Serviço Militar coligirá as informações que devam constar do Almanaque e dos Suplementos anuais.
 
 § 2º O Suplemento do Almanaque de que trata êste artigo, deverá ser remetido às Regiões Militares até a época das primeiras promoções anuais.
 
-<strong>Art</strong>. 125. O Ministro da Guerra determinará quais os Cursos equivalentes de que trata a letra <em>B</em> do art. 14.
+**Art**. 125. O Ministro da Guerra determinará quais os Cursos equivalentes de que trata a letra *B* do art. 14.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DISPOSIÇÕES TRANSITÓRIAS</em>
+*DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 126. Os atuais oficias do Exército da Segunda Linha, que não tiverem atingido a idade limite de permanência na reserva, prevista no art. 28 da lei número 2.370, de 9 de dezembro de 1954 (Inatividade dos Militares), serão relacionados como pertencentes à Segunda Classe da Reserva.
+**Art**. 126. Os atuais oficias do Exército da Segunda Linha, que não tiverem atingido a idade limite de permanência na reserva, prevista no art. 28 da lei número 2.370, de 9 de dezembro de 1954 (Inatividade dos Militares), serão relacionados como pertencentes à Segunda Classe da Reserva.
 
 § 1º Cabe à Diretoria do Serviço Militar da Guerra, para o competente ato de inclusão na Segunda Classe da Reserva, a relação dos oficiais do Exército de Segunda Linha de que trata êste artigo.
 
@@ -934,14 +932,14 @@ Parágrafo único. A (s) Região (ões) Militar (res) informarão à Subdiretori
 
 § 3º A Diretoria do Serviço Militar e Regiões Militares (SMR) alterarão os seus fichários, relacionando como reformados, no pôsto que tiverem e sem vencimentos, os oficiais de que trata o parágrafo anterior.
 
-<strong>Art</strong>. 127. Aos oficiais que se acharem convocados, por efeito da letra <em>b</em>) art. 1º do Decreto-lei número 8.159, de 3 de novembro de 1945, após 25 anos de efetivo serviço, será aplicado:
+**Art**. 127. Aos oficiais que se acharem convocados, por efeito da letra *b*) art. 1º do Decreto-lei número 8.159, de 3 de novembro de 1945, após 25 anos de efetivo serviço, será aplicado:
 
 a) o licenciamento com o retorno à reserva de origem e direito a remuneração, aos que não tiverem atingido a idade limite de permanência na ativa.
 
 b) o licenciamento, a pedido, com retôrno à reserva de origem e direito a remuneração, aos que não tiverem atingido a idade limite de permanência na ativa.
 
-<strong>Art</strong>. 128. Enquanto existirem claros sensíveis de subalternos, nas Armas e Serviços, a critério do Ministro da Guerra, e mediante proposta dos chefes interessados, nos têrmos da Lei número 421, de 7 de outubro de 1948, poderão ser nomeados oficiais da 1ª Classe da Reserva, para funções de atividade em Estabelecimento e Repartições.
+**Art**. 128. Enquanto existirem claros sensíveis de subalternos, nas Armas e Serviços, a critério do Ministro da Guerra, e mediante proposta dos chefes interessados, nos têrmos da Lei número 421, de 7 de outubro de 1948, poderão ser nomeados oficiais da 1ª Classe da Reserva, para funções de atividade em Estabelecimento e Repartições.
 
 Rio de Janeiro, 8 de maio de 1957.
 
-<strong>HENRIQUE LOTT</strong>
+**HENRIQUE LOTT**

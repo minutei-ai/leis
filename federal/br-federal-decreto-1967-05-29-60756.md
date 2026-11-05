@@ -1,5 +1,3 @@
-###DEC-060756-0-000-29-05-1967@@@
-
 Decreto nº 60.756, de 29 de maio de 1967.
 
 Declara de utilidade pública a associação “Obras Sociais dos Amigos de Santo Antônio”, com sede em Araxá, Estado de Minas Gerais.

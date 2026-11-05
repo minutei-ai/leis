@@ -1,5 +1,3 @@
-###DEC-089934-0-000-10-07-1984@@@
-
 Decreto nº 89.934, de 10 de julho de 1984
 
 Autoriza o funcionamento do curso de Ciências Contábeis da Escola Superior de Ciências Administrativas de Ituiutaba.

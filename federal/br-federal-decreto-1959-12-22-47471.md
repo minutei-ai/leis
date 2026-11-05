@@ -1,5 +1,3 @@
-###DEC-047471-0-000-22-12-1959@@@
-
 Decreto nº 47.471, de 22 de dezembro de 1959.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis destinados à Fazenda Experimental da Escola de Agronomia da Universidade do Ceará.

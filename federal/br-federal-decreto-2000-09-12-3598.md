@@ -1,5 +1,3 @@
-###DEC-003598-0-000-12-09-2000@@@
-
 DECRETO Nº 3.598, DE 12 DE SETEMBRO DE 2000.
 
 Promulga o Acordo de Cooperação em Matéria Civil entre o Governo da República Federativa e o Governo da República Francesa, celebrado em Paris, em 28 de maio 1996.
@@ -270,4 +268,14 @@ Em fé do que, os representantes dos dois Governos, devidamente autorizados para
 
 Feito em Paris, em 28 de maio de 1996, em dois exemplares originais, nos idiomas português e francês, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Francesa</span></p></td></tr><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Hervé de Charette</span></p></td></tr><tr><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Estado das Relações Exteriores</span></p></td><td style="width:217.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República Federativa do Brasil
+
+Pelo Governo da República Francesa
+
+Luiz Felipe Lampreia
+
+Hervé de Charette
+
+Ministro de Estado das Relações Exteriores
+
+Ministro de Relações Exteriores

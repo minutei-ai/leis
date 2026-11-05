@@ -1,5 +1,3 @@
-###DEL-004053-0-000-27-01-1942@@@
-
 DECRETO-LEI N. 4.053 – DE 27 DE JANEIRO DE 1942
 
 Inclue um cargo de Diretor, padrão N, no Quadro Suplementar do Ministério da Educação e Saúde.

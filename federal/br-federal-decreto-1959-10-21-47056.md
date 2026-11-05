@@ -1,5 +1,3 @@
-###DEC-047056-0-000-21-10-1959@@@
-
 DECRETO Nº 47.056, de 21 de outubro de 1959.
 
 Dispõe sobre a Faculdade de Ciências Econômica e Comerciais de Santos.

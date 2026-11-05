@@ -1,5 +1,3 @@
-###DEL-005519-0-000-25-05-1943@@@
-
 DECRETO‑LEI N. 5.519 – DE 25 DE MAIO DE 1943
 
 Cria o 8º Grupo Movel de Artilharia de Costa, com sede na Capital Federal

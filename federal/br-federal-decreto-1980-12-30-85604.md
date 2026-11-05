@@ -1,5 +1,3 @@
-###DEC-085604-0-000-30-12-1980@@@
-
 Decreto nº 85.604, de 30 de dezembro de 1980.
 
 Autoriza o aumento do capital da Rede Ferroviária Federal S.A.

@@ -1,5 +1,3 @@
-###DEL-007589-0-000-29-05-1945@@@
-
 DECRETO-LEI N. 7.589 – DE 29 DE MAIO DE 1945
 
 Altera o disposto no art. 14 do Decreto-lei nº 96, de 22 de dezembro de 1937

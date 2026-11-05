@@ -1,5 +1,3 @@
-###DEC-004828-0-000-03-09-2003@@@
-
 DECRETO Nº 4.828,  DE 3 DE SETEMBRO DE 2003.
 
        Dispõe sobre a estrutura do Comando do Exército e dá outras providências.
@@ -22,5 +20,6 @@ DECRETO Nº 4.828,  DE 3 DE SETEMBRO DE 2003.
 
         Brasília, 3 de setembro de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 José Viegas Filho

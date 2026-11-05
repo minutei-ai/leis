@@ -1,5 +1,3 @@
-###DEC-065040-0-000-22-08-1969@@@
-
 DECRETO Nº 65.040, DE 22 DE AGÔSTO DE 1969.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargos originários da extinta autarquia Serviços de Navegação da Amazônia e de Administração do Pôrto do Pará e Estrada de Ferro de Bragança (Quadro Extinto - Parte XIV - do Ministério dos Transportes) e dá outras providências.

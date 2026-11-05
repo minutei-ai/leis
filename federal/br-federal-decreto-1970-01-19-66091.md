@@ -1,5 +1,3 @@
-###DEC-066091-0-000-19-01-1970@@@
-
 DECRETO Nº 66.091 - DE 19 DE JANEIRO DE 1970
 
 Concede à Industrial Extrativa Araruama S.A. o direito de lavrar quartzito, no município de Boquira, Estado da Bahia.

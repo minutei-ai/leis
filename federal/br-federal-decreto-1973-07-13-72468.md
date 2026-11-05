@@ -1,5 +1,3 @@
-###DEC-072468-0-000-13-07-1973@@@
-
 DECRETO Nº 72.468, DE 13 DE JULHO DE 1973.
 
 Concede permissão, em caráter permanente, a Ford do Brasil S.A., para funcionar aos domingos e nos dias feriados civis e religiosos em seus estabelecimentos fabris de Ipiranga, São Bernardo do Campo, Osasco e Taubaté.

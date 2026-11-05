@@ -1,5 +1,3 @@
-###DEC-045070-0-000-20-12-1958@@@
-
 decreto nº 45.070, de 20 de dezembro de 1958.
 
 Concede á Companhia Real Holandesa de Aviação “KLM” (Konink lijke Luchtvaart Maatschappij N.V), autorização para continuar a funcionar na República.

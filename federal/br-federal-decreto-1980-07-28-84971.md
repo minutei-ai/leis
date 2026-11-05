@@ -1,5 +1,3 @@
-###DEC-084971-0-000-28-07-1980@@@
-
 Decreto nº 84.971, de 28 de julho de 1980.
 
 Autoriza estrangeiros a adquirem direitos sobre terrenos que menciona, situados nos Municípios de Guarapari, Estado do Espírito Santo, Salvador, Estado da Bahia, Fortaleza, Estado do Ceará, Recife, Estado de Pernambuco, Guarujá e São Vicente, Estado de São Paulo.

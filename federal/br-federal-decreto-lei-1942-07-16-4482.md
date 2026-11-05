@@ -1,5 +1,3 @@
-###DEL-004482-0-000-16-07-1942@@@
-
 DECRETO-LEI N. 4.482 – DE 16 DE JULHO DE 1942
 
 Torna sem aplicação o saldo de 4.917:922$1, de crédito orçamentário do Ministério da Educação e Saude e abre crédito especial de idêntica-importância

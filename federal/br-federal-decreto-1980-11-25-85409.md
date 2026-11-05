@@ -1,5 +1,3 @@
-###DEC-085409-0-000-25-11-1980@@@
-
 decreto nº 85.409, de 25 de novembro de 1980.
 
 Autoriza estrangeiros a adquirir direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro e Niterói, Estado do Rio de Janeiro e Fortaleza, Estado do Ceará.

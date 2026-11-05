@@ -42,7 +42,8 @@ VII – concedente: órgão ou entidade da administração pública estadual dir
 
 VIII – proposta de trabalho: peça processual que inicia a manifestação formal dos proponentes com a descrição do objeto, a justiﬁcativa, a indicação do público– alvo, a estimativa dos recursos do concedente e da contrapartida e as informações relativas à capacidade técnica e gerencial do proponente;
 
-IX – plano de trabalho: peça processual integrante dos instrumentos que evidencia o detalhamento do objeto, da realidade fática e do problema a ser solucionado com o ajuste, da justiﬁcativa, das etapas ou das fases de execução, dos cronogramas físico e financeiro e de desembolso, do plano de aplicação das despesas, das metas a serem atingidas e dos respectivos critérios objetivos de avaliação, também as informações da conta corrente especíﬁca, dos partícipes e dos seus representantes;<br>
+IX – plano de trabalho: peça processual integrante dos instrumentos que evidencia o detalhamento do objeto, da realidade fática e do problema a ser solucionado com o ajuste, da justiﬁcativa, das etapas ou das fases de execução, dos cronogramas físico e financeiro e de desembolso, do plano de aplicação das despesas, das metas a serem atingidas e dos respectivos critérios objetivos de avaliação, também as informações da conta corrente especíﬁca, dos partícipes e dos seus representantes;
+
 \- [Redação dada pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 ~~IX – plano de trabalho: peça processual integrante dos instrumentos que evidencia o detalhamento do objeto, da justiﬁcativa, dos cronogramas físico e financeiro e do plano de aplicação das despesas, também as informações da conta corrente especíﬁca, dos partícipes e dos seus representantes;~~
@@ -91,7 +92,8 @@ I – o nome, o endereço da sede, o endereço eletrônico institucional e o nú
 
 II – a razão social, o endereço físico, o endereço eletrônico e o número de inscrição no CNPJ quando se tratar de entidade privada sem fins lucrativos, bem como a transcrição do objeto social da entidade atualizado, a relação nominal igualmente atualizada dos dirigentes da entidade com a respectiva qualificação completa, abrangidas a profissão, o estado civil, a nacionalidade e o endereço, além do número e do órgão expedidor tanto da carteira de identidade quanto do Cadastro de Pessoas Físicas – CPF;
 
-III – a compatibilidade do objeto proposto com o programa do órgão ou da entidade executor, além da adequação do objeto às metas estabelecidas no plano de trabalho;<br>
+III – a compatibilidade do objeto proposto com o programa do órgão ou da entidade executor, além da adequação do objeto às metas estabelecidas no plano de trabalho;
+
 \- [Redação dada pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 ~~III – a compatibilidade do objeto proposto com o programa do órgão ou da entidade executora;~~
@@ -114,7 +116,8 @@ XI – a observância da legislação aplicável ou da compatibilidade das despe
 
 XII – a compatibilidade e a conformidade das solicitações conforme os modelos de ofícios e de planilha de priorização a serem disponibilizados pela SERINT;
 
-XIII – o Cadastro Nacional de Entidades de Assistência Social – CNEAS, para as entidades cuja finalidade seja exclusivamente a assistência social de servidores, civis ou militares;<br>
+XIII – o Cadastro Nacional de Entidades de Assistência Social – CNEAS, para as entidades cuja finalidade seja exclusivamente a assistência social de servidores, civis ou militares;
+
 \- [Redação dada pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 ~~XIII – o cadastro no Conselho Nacional de Assistência Social – CNAS, para as entidades cuja finalidade seja exclusivamente a assistência social de servidores, civis ou militares;~~
@@ -173,7 +176,8 @@ XV – outras razões de ordem técnica devidamente justificadas.
 
 § 2º Caso ocorra impedimento de ordem técnica, o autor da emenda individual impositiva será notificado para definir novamente a área de aplicação, o objeto, a localização, o GND e os beneficiários, respeitadas as normas aplicáveis, de acordo com o calendário e os prazos estabelecidos pela SERINT.
 
-§ 3º Compete aos municípios e aos demais beneficiários o dever de atualizar as certidões para a tramitação processual, inclusive a certidão completa de regularidade emitida pelo Tribunal de Contas dos Municípios do Estado de Goiás.<br>
+§ 3º Compete aos municípios e aos demais beneficiários o dever de atualizar as certidões para a tramitação processual, inclusive a certidão completa de regularidade emitida pelo Tribunal de Contas dos Municípios do Estado de Goiás.
+
 \- [Acrescido pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 Seção III
@@ -220,10 +224,12 @@ Art. 11. A celebração de termo de fomento ou do termo de colaboração com org
 
 § 7º O disposto no [Decreto estadual nº 10.356](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108211), de 2023, não se aplica aos instrumentos celebrados com organizações da sociedade civil de que trata a Lei federal nº 13.019, de 2014, quando esses ajustes decorrerem de emenda parlamentar impositiva.
 
-§ 8º A vedação prevista no § 4º deste artigo não se aplica quando o proprietário do imóvel for ente da administração pública, mediante a comprovação da documentação a ser solicitada ao beneficiário.<br>
+§ 8º A vedação prevista no § 4º deste artigo não se aplica quando o proprietário do imóvel for ente da administração pública, mediante a comprovação da documentação a ser solicitada ao beneficiário.
+
 \- [Acrescido pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
-§ 9º A organização da sociedade civil deverá possuir, no mínimo, dois anos de existência com cadastro ativo, comprovados por meio de documentação emitida pela Secretaria da Receita Federal do Brasil, com base no Cadastro Nacional da Pessoa Jurídica – CNPJ.<br>
+§ 9º A organização da sociedade civil deverá possuir, no mínimo, dois anos de existência com cadastro ativo, comprovados por meio de documentação emitida pela Secretaria da Receita Federal do Brasil, com base no Cadastro Nacional da Pessoa Jurídica – CNPJ.
+
 \- [Acrescido pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 CAPÍTULO III
@@ -258,7 +264,8 @@ Seção II
 
 Dos beneficiários das transferências especiais
 
-Art. 13. O beneficiário das transferências especiais deverá apresentar plano de trabalho e realizar a inserção de informações e documentos sobre a execução desses recursos em plataforma própria ou conveniada que possibilite a verificação do cumprimento das condicionantes estabelecidas no art. 111-A da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba").<br>
+Art. 13. O beneficiário das transferências especiais deverá apresentar plano de trabalho e realizar a inserção de informações e documentos sobre a execução desses recursos em plataforma própria ou conveniada que possibilite a verificação do cumprimento das condicionantes estabelecidas no art. 111-A da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152 "Abrir Constituição do Estado de Goiás em nova aba").
+
 \- [Redação dada pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 ~~Art. 13. O beneficiário das transferências especiais deverá realizar a inserção de informações e documentos sobre a execução desses recursos em plataforma própria ou conveniada que possibilite a verificação do cumprimento das condicionantes estabelecidas no art. 111-A da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).~~
@@ -271,7 +278,8 @@ Art. 13. O beneficiário das transferências especiais deverá apresentar plano 
 
 § 4º As normas relativas ao ciclo de apresentação de informações, documentos, empenho e desembolso de recursos decorrentes de emendas individuais impositivas serão editadas pela SERINT, observado o disposto no art. 111-A da [Constituição estadual](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152).
 
-§ 5º Os beneficiários das transferências especiais devem tomar as medidas necessárias para garantir a rastreabilidade dos recursos, inclusive com a abertura de conta específica para o recebimento deles.<br>
+§ 5º Os beneficiários das transferências especiais devem tomar as medidas necessárias para garantir a rastreabilidade dos recursos, inclusive com a abertura de conta específica para o recebimento deles.
+
 \- [Acrescido pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 Art. 14. O beneficiário das transferências especiais deverá elaborar relatório de gestão, que será encaminhado à SERINT com as informações e os documentos relacionados aos recursos recebidos.
@@ -350,7 +358,8 @@ Art. 23. As solicitações de remanejamento, ajuste e alteração serão encamin
 
 § 2º São nulos quaisquer manifestações, documentos ou expedientes em desacordo com o estabelecido pela SERINT, nos termos do § 1º deste artigo.
 
-Art. 24. Apenas poderão ser alteradas as emendas individuais impositivas que ainda não tiverem sido empenhadas ou cujas requisições de despesas não houverem sido emitidas.<br>
+Art. 24. Apenas poderão ser alteradas as emendas individuais impositivas que ainda não tiverem sido empenhadas ou cujas requisições de despesas não houverem sido emitidas.
+
 \- [Redação dada pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 ~~Art. 24. Só poderão ser alteradas as emendas individuais impositivas que ainda não tiverem ato preparatório de emissão de empenho.~~
@@ -377,27 +386,34 @@ Art. 27. Na execução direta, a SERINT efetuará a aquisição de bens ou servi
 
 § 4º Independe da adimplência do beneficiário a realização de doação ou cessão de bens, materiais e insumos para a execução da programação decorrente de emenda individual impositiva.
 
-~~CAPÍTULO VIII~~<br>
+~~CAPÍTULO VIII~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
 ~~DO REGIME SIMPLIFICADO~~
 
-~~Art. 28. Aos convênios, aos contratos de repasse e aos instrumentos congêneres decorrentes de emendas individuais impositivas com o valor global de até R$ 1.500.000,00 (um milhão e quinhentos mil reais) será aplicado o regime simplificado, observados:~~<br>
+~~Art. 28. Aos convênios, aos contratos de repasse e aos instrumentos congêneres decorrentes de emendas individuais impositivas com o valor global de até R$ 1.500.000,00 (um milhão e quinhentos mil reais) será aplicado o regime simplificado, observados:~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
-~~I – o plano de trabalho, devidamente aprovado;~~<br>
+~~I – o plano de trabalho, devidamente aprovado;~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
-~~II – a minuta dos instrumentos, que deverá ser simplificada; e~~<br>
+~~II – a minuta dos instrumentos, que deverá ser simplificada; e~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
-~~III – a verificação da execução do objeto, que ocorrerá mediante a análise da compatibilidade com o plano de trabalho.~~<br>
+~~III – a verificação da execução do objeto, que ocorrerá mediante a análise da compatibilidade com o plano de trabalho.~~
+
 \- [Revogad pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
-~~§ 1º A realização de eventuais vistorias _in loco_ considerará o marco de execução de 100% (cem por cento) do cronograma físico, e, quando forem necessárias, vistorias adicionais poderão ocorrer.~~<br>
+~~§ 1º A realização de eventuais vistorias _in loco_ considerará o marco de execução de 100% (cem por cento) do cronograma físico, e, quando forem necessárias, vistorias adicionais poderão ocorrer.~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
-~~§ 2º O regime simplificado de que trata este artigo aplica-se aos convênios, aos contratos de repasse e aos instrumentos congêneres celebrados após a publicação deste Decreto.~~<br>
+~~§ 2º O regime simplificado de que trata este artigo aplica-se aos convênios, aos contratos de repasse e aos instrumentos congêneres celebrados após a publicação deste Decreto.~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, I.
 
 CAPÍTULO IX
@@ -496,12 +512,14 @@ Parágrafo único. Compreendem-se como normas federais de processo legislativo, 
 
 Art. 43. A emenda individual impositiva que destinar recursos para evento deverá ser paga antes da realização dele.
 
-§ 1º A tramitação da emenda impositiva que destinar recursos para evento deverá ser iniciada até trinta dias corridos antes da realização dele.<br>
+§ 1º A tramitação da emenda impositiva que destinar recursos para evento deverá ser iniciada até trinta dias corridos antes da realização dele.
+
 \- [Redação dada pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804).
 
 ~~§ 1º A tramitação da emenda impositiva que destinar recursos para evento deverá ser iniciada até 90 (noventa) dias corridos antes da realização dele.~~
 
-~~§ 2º A inobservância do prazo determinado no § 1º deste artigo impedirá a transferência dos recursos.~~<br>
+~~§ 2º A inobservância do prazo determinado no § 1º deste artigo impedirá a transferência dos recursos.~~
+
 \- [Revogado pelo Decreto nº 10.823, de 4-12-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/84804), art. 2º, II.
 
 § 3º Após a realização do evento, não poderá haver a transferência de recursos.

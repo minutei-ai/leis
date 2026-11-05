@@ -1,5 +1,3 @@
-###DEC-087737-0-000-20-10-1982@@@
-
 Decreto nº 87.737, de 20 de outubro de 1982
 
 Dispõe sobre o Regulamento do Estado-Maior das Forças Armadas, e das outras providências.

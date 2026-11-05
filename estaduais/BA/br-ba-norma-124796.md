@@ -60,7 +60,8 @@ IV - Dois Oficiais de Gabinete, símbolo DAS-2;
 
 V - Um Chefe da Assistência Militar, símbolo DAS-5, Tenente Coronel PM, diretamente subordinado ao Vice-Governador.
 
-Redação de acordo com a Lei Delegada nº 58, de 01 de junho de 1983.<br>
+Redação de acordo com a Lei Delegada nº 58, de 01 de junho de 1983.
+
 Redação original: V - Um Chefe da Assistência Militar Tenente Coronel-PM diretamente subordinado ao Vice-Governador."
 
 Art. 9º - O Vice-Governador solicitará ao Governador do Estado, sob regime de disposição, o pessoal administrativo necessário ao funcionamento dos serviços da Vice-Governadoria.

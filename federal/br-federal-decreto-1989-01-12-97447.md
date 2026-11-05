@@ -1,5 +1,3 @@
-###DEC-097447-0-000-12-01-1989@@@
-
 DECRETO Nº 97.447, DE 12 DE JANEIRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária o imóvel rural denominado “FAZENDA BOM JESUS”, classificado como “latifúndio por exploração”, situado no Município de Paracatu, no Estado de Minas Gerais, compreendido na zona prioritária, fixada pelo Decreto nº 92.694, de 19 de maio de 1986, e dá outras providências.

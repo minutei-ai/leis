@@ -216,8 +216,6 @@ Art. 21. Este Decreto entra em vigor 30 (trinta) dias após a sua publicação.
 
 Goiânia, 31 de agosto de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

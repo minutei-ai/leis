@@ -12,20 +12,24 @@ Art. 3º Esta Lei entrará em vigor na data de sua publicação, revogando-se as
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e três dias do mês de dezembro de dois mil e cinco.
 
-JOSÉ MACÊDO DE ARAÚJO<br>
+JOSÉ MACÊDO DE ARAÚJO
+
 PREFEITO MUNICIPAL
 
-WALTER DE CARVALHO E SILVA<br>
+WALTER DE CARVALHO E SILVA
+
 SEC. EXECUTIVO
 
-MARCELO RIBEIRO FERNANDES<br>
+MARCELO RIBEIRO FERNANDES
+
 PROCURADOR GERAL
 
-<br>
 ANEXO I
 
-“ANEXO V”<br>
-DESCRIÇÃO SUMÁRIA DOS CARGOS<br>
+“ANEXO V”
+
+DESCRIÇÃO SUMÁRIA DOS CARGOS
+
 E PRÉ-REQUISITOS POR CLASSE
 
 .......................................................................................................................................
@@ -44,23 +48,32 @@ ASSESSOR    JURÍDICO   PROVISÓRIO:   Auxilia os Procuradores Jurídicos  
 
 ASSISTENTE SOCIAL PROVISÓRIO: Auxilia os Analistas em Assuntos Sociais, no atendimento e elaboração de relatórios da atividade desenvolvida junto a Secretaria do Bem-Estar   Social e no exercício da função.
 
-PRÉ-REQUISITOS:     Estar cursando ou ter cursado curso superior em Direito,<br>
+PRÉ-REQUISITOS:     Estar cursando ou ter cursado curso superior em Direito,
+
                 Administração, Pedagogia, Serviço Social e afins.
 
 ANEXO VII
 
-<br>
 QUADRO PROVISÓRIO – EXTINTO A VAGAR
 
-<table class="Table" style="margin-left:109px; border-collapse:collapse; border:none"><tbody><tr><td style=" width:246px;    "><b>CARGO</b></td><td style=" width:180px;    "><b>QUANTITATIVO</b></td></tr><tr><td style=" width:246px;    ">Assessor Jurídico-Provisório</td><td style=" width:180px;    ">04</td></tr><tr><td style=" width:246px;    ">&nbsp; Assistente Social-Provisório</td><td style=" width:180px;    ">04</td></tr></tbody></table>
+**CARGO**
+
+**QUANTITATIVO**
+
+Assessor Jurídico-Provisório
+
+04
+
+Assistente Social-Provisório
+
+04
 
 ANEXO II
 
-<br>
-ANEXO IV<br>
+ANEXO IV
+
 TABELAS DE VENCIMENTO
 
-<br>
 C – CARGOS EXTINTOS A VAGAR
 
-<table class="Table" style="border-collapse:collapse; border:none"><tbody><tr><td style=" width:80px;    ">ORDEM</td><td style=" width:236px;    ">GRUPO PROVISÓRIO</td><td style=" width:151px;    ">CÓDIGO GRUPO</td><td style=" width:176px;    ">VENCIMENTO (R$) &nbsp;</td></tr><tr><td style=" width:80px;    ">01</td><td style=" width:236px;    ">Assessor Jurídico-Provisório</td><td rowspan="2" style=" width:151px;    "><b><sub>6</sub></b></td><td style=" width:176px;    ">1.730,29</td></tr><tr><td style=" width:80px;    ">02</td><td style=" width:236px;    ">Assistente Social-Provisório</td><td style=" width:176px;    ">1.730,29</td></tr></tbody></table>
+<table><tbody><tr><td>ORDEM</td><td>GRUPO PROVISÓRIO</td><td>CÓDIGO GRUPO</td><td>VENCIMENTO (R$) &nbsp;</td></tr><tr><td>01</td><td>Assessor Jurídico-Provisório</td><td rowspan="2">**<sub>6</sub>**</td><td>1.730,29</td></tr><tr><td>02</td><td>Assistente Social-Provisório</td><td>1.730,29</td></tr></tbody></table>

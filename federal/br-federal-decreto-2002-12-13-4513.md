@@ -1,5 +1,3 @@
-###DEC-004513-0-000-13-12-2002@@@
-
 DECRETO Nº 4.513, DE 13 DE DEZEMBRO DE 2002
 
 Altera os arts. 3, 4º e 6º do Decreto nº 3.696, de 21 de dezembro de 2000, que dispõe sobre o Sistema Nacional Antidrogas.

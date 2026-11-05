@@ -1,5 +1,3 @@
-###DEC-077469-0-000-22-04-1976@@@
-
 DECRETO Nº 77.469 - DE 22 DE ABRIL DE 1976
 
 Concede á Mineração Togran Ltda., o direito de lavrar calcário dolomítico no Município de Piracicaba - Estado de São Paulo .

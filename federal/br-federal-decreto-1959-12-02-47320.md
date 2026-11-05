@@ -1,5 +1,3 @@
-###DEC-047320-0-000-02-12-1959@@@
-
 DECRETO Nº 47.320, DE 2 DE DEZEMBRO DE 1959.
 
 Renova o Decreto nº 42.102 de 19 de agôsto de 1957.

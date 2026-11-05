@@ -1,5 +1,3 @@
-###DEC-048420-0-000-24-06-1960@@@
-
 DECRETO Nº 48.420, DE 24 DE JULHO DE 1960.
 
 Declara de utilidade pública áreas de terra necessárias a construção da barragem-auxiliar do rio Pium-i, integrante do aproveitamento de energia hidráulica da corredeira de Furnas, no rio Grande, Estado de Minas Gerais, cuja concessão foi outorgada à Central Elétrica de Furnas S.A. pelo Decreto nº 41.899, de 26 de julho de 1957, e autorizada a citada concessionária a promover a desapropriação das referidas áreas de terra.

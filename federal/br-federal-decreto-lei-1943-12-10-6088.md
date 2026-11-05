@@ -1,5 +1,3 @@
-###DEL-006088-0-000-10-12-1943@@@
-
 DECRETO-LEI N. 6.088 – DE 10 DE DEZEMBRO DE 1943
 
 Cria funções gratificadas no Ministério da Educação e Saúde e dá outras providências

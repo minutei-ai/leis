@@ -1,5 +1,3 @@
-###DEL-003829-0-000-17-11-1941@@@
-
 DECRETO-LEI N. 3.829 – DE 17 DE NOVEMBRO DE 1941
 
 Revoga o artigo 2º do decreto-lei n. 3.662, de 25 de setembro de 1941

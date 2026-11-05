@@ -1,5 +1,3 @@
-###DEC-072942-0-000-17-10-1973@@@
-
 DECRETO Nº 72.942, DE 17 DE OUTUBRO DE 1973.
 
 Aproveita, no Quadro de Pessoal do Ministério da Educação e Cultura , servidores em disponibilidade, e dá outras providências.

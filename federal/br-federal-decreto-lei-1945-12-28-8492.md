@@ -1,5 +1,3 @@
-###DEL-008492-0-000-28-12-1945@@@
-
 DECRETO-LEI N. 8.492 – DE 28 DE DEZEMBRO DE 1945
 
 Dispõe sôbre as eleições de Governador e Assembléia Legislativa dos Estados.

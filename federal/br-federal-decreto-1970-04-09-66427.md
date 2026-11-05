@@ -1,5 +1,3 @@
-###DEC-066427-0-000-09-04-1970@@@
-
 DECRETO Nº 66.427, DE 9 DE ABRIL DE 1970.
 
 Autoriza funcionamento de Escola Superior de Ciências e Pedagogia.

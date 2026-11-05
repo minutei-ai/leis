@@ -1,5 +1,3 @@
-###DEC-004118-0-000-07-02-2002@@@
-
 DECRETO Nº 4.118, DE 7 DE FEVEREIRO DE 2002.
 
 Dispõe sobre a organização da Presidência da República e dos Ministérios e dá outras providências.

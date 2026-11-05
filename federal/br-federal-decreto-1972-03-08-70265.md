@@ -1,5 +1,3 @@
-###DEC-070265-0-000-08-03-1972@@@
-
 Decreto nº 70.265, de 8 de março de 1972.
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de Irati - APAE, com sede em Irati, Estado do Paraná.

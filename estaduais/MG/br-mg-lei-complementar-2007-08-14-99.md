@@ -211,7 +211,3 @@ ANEXO III
 (a que se refere o inciso XXXI do art. 39 da Lei Complementar nº 34, de 1994)
 
 RESULTADO DAS AÇÕES PROLATADAS AJUIZADAS POR MEMBRO DO MINISTÉRIO PÚBLICO ANO DE REFERÊNCIA COMARCA VARA PROMOTOR Sentença de 1ª instância (prolatadas no ano de referência) Data da distri buição Número do processo Motivo que ensejou a ação Tipo penal (nas ações penais) Recurso (sim ou não) ”.
-
-\============================================================
-
-Data da última atualização: 18/4/2022.

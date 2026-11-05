@@ -1,5 +1,3 @@
-###DEC-003215-0-000-22-10-1999@@@
-
 DECRETO Nº 3.215, DE 22 DE OUTUBRO DE 1999.
 
 Dá nova redação ao art. 2º do Decreto nº 2.169, de 4 de março de 1997, que dispõe sobre o Conselho Nacional de Segurança Pública-CONASP.

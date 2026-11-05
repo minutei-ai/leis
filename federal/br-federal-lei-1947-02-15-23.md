@@ -1,14 +1,12 @@
-###LEI-000023-0-000-15-02-1947@@@
+**LEI N. 23 – DE 15 DE FEVEREIRO DE 1947**
 
-<strong>LEI N. 23 – DE 15 DE FEVEREIRO DE 1947</strong>
-
-<em><strong>Regula a aplicação da Verba consignada no Orçamento da República para o exercício de 1947, destinada a atender ao disposto no art. 29 do Ato Constitucional das Disposições Transitórias.</strong></em>
+***Regula a aplicação da Verba consignada no Orçamento da República para o exercício de 1947, destinada a atender ao disposto no art. 29 do Ato Constitucional das Disposições Transitórias.***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte lei:
 
-<strong>Art.</strong> 1º A verba consignada no Orçamento da República para o exercício de 1947 e destinada a atender ao disposto no art. 29 do Ato Constitucional das Disposições Transitórias, fica distribuída na seguinte discriminação:
+**Art.** 1º A verba consignada no Orçamento da República para o exercício de 1947 e destinada a atender ao disposto no art. 29 do Ato Constitucional das Disposições Transitórias, fica distribuída na seguinte discriminação:
 
                                                                              Cr$
 
@@ -48,7 +46,7 @@ Parágrafo único. Estas verbas serão requisitadas e aplicadas pelos Ministéri
 
 Rio de Janeiro, 15 de Fevereiro de 1947, 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clovis Pestana.
 

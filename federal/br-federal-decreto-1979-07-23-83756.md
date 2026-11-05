@@ -1,5 +1,3 @@
-###DEC-083756-0-000-23-07-1979@@@
-
 Decreto nº 83.756, de 23 de julho de 1979.
 
 Dispensa a licitacão para a alienação de terras devolutas da união que menciona, e dá outras providencias.

@@ -1,5 +1,3 @@
-###DEC-084712-0-000-16-05-1980@@@
-
 DECRETO Nº 84.712, DE 16 DE MAIO DE 1980.
 
 Autoriza o Instituto Nacional de Colonização e Reforma Agrária - INCRA a doar o imóvel que menciona.

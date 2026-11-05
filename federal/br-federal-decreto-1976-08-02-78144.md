@@ -1,5 +1,3 @@
-###DEC-078144-0-000-02-08-1976@@@
-
 DECRETO Nº 78.144, DE 2 DE agosto DE 1976.
 
 Renova por dez (dez) anos a concessão outorgada à Radio Globo S. A. para executar serviço de radiodifusão sonora em onda curta, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

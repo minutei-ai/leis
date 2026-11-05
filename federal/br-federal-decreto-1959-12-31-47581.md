@@ -1,5 +1,3 @@
-###DEC-047581-0-000-31-12-1959@@@
-
 DECRETO Nº 47.581, DE 31 DE DEZEMBRO DE 1959.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$2.550.000,00, para o fim que menciona.

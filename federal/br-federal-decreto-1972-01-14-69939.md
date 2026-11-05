@@ -1,5 +1,3 @@
-###DEC-069939-0-000-14-01-1972@@@
-
 DECRETO Nº 69.939, DE 14 DE JANEIRO DE 1972.
 
 Autoriza a cessão gratuita do imóvel que menciona, situado em Tarumã, Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-078582-0-000-14-10-1976@@@
-
 DECRETO N.º 78.582, DE 14 DE OUTUBRO DE 1976
 
 Autoriza a Universidade Federal do Pará a alienar bem imóvel de sua propriedade e dá outras providências.

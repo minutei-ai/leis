@@ -1,5 +1,3 @@
-###DEC-068221-0-000-11-02-1971@@@
-
 DECRETO Nº 68.221, DE 11 DE FEVEREIRO DE 1971.
 
 Concede autorização a Sociedade Seguradora Estrangeira para aumentar o capital de suas operações no Brasil.

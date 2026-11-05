@@ -1,5 +1,3 @@
-###DEC-057815-0-000-15-02-1966@@@
-
 DECRETO Nº 57.815, DE 15 DE FEVEREIRO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da “A Piratininga” - Companhia Nacional de Seguros Gerais e Acidentes do Trabalho, inclusive mudança de denominação e aumento do capital social.

@@ -1,5 +1,3 @@
-###DEC-054573-0-000-23-10-1964@@@
-
 DECRETO Nº 54.573, DE 23 DE OUTUBRO DE 1964.
 
 Aprova as Instruções Gerais para o Concurso de Procurador da Fazenda Nacional, do Ministério da Fazenda.

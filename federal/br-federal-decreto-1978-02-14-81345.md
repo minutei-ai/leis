@@ -1,5 +1,3 @@
-###DEC-081345-0-000-14-02-1978@@@
-
 Decreto nº 81345, de 14 de fevereiro de 1978
 
 Renova por 10 (dez) anos a concessão outorga à Rádio Dirceu de Marília Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Marília, Estado de São Paulo.

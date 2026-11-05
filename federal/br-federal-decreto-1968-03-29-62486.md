@@ -1,5 +1,3 @@
-###DEC-062486-0-000-29-03-1968@@@
-
 Decreto nº 62.486, de 29 de março de 1968.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra destinada à construção de prédio para a instalação de serviços da Companhia Telefônica Brasileira na Cidade de Santos, Estado de São Paulo.

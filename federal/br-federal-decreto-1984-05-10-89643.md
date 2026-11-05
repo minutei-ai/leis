@@ -1,5 +1,3 @@
-###DEC-089643-0-000-10-05-1984@@@
-
 Decreto nº 89.643, de 10 de maio de 1984
 
 Declara de ocupação dos silvícolas área de terras, no município de Colider, no Estado de Mato Grosso, e dá outras providências.

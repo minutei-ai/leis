@@ -1,5 +1,3 @@
-###DEC-078057-0-000-15-07-1976@@@
-
 DECRETO Nº 78.057, DE 15 DE JULHO DE 1976.
 
 Concede reconhecimento ao curso de Licenciatura em Ciências, do Instituto de Biociências, da Universidade de São Paulo, com sede na Cidade de São Paulo, Estado de São Paulo.

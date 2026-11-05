@@ -1,5 +1,3 @@
-###DEC-074939-0-000-21-11-1974@@@
-
 DECRETO Nº 74.939, DE 21 DE NOVEMBRO DE 1974.
 
 Cria a Embaixada do Brasil na República Popular da China.

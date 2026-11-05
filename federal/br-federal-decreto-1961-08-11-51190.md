@@ -1,5 +1,3 @@
-###DEC-051190-0-000-11-08-1961@@@
-
 DECRETO Nº 51.190, DE 11 DE AGôSTO DE 1961.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, no Município de Pedro Afonso, Estado de Goiás.

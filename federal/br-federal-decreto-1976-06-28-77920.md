@@ -1,5 +1,3 @@
-###DEC-077920-0-000-28-06-1976@@@
-
 Decreto nº 77.920, de 28 de junho de 1976.
 
 Aprova o Regulamento de Promoções de Graduados do Exército e dá outras providências.

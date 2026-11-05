@@ -1,5 +1,3 @@
-###DEC-049489-0-000-09-12-1960@@@
-
 DECRETO Nº 49.489, DE 9 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alfredo de Oliveira Braga Netto a pesquisar cassiterita no município de Salinas, Estado de Minas Gerais.

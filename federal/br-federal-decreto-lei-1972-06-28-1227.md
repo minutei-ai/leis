@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/92052cf8-a22a-40ea-844d-0d9b2c684c3a/texto#nowhere)
 
-###DEL-001227-0-000-28-06-1972@@@
-
 # DECRETO-LEI Nº 1.227, DE 28 DE JUNho DE 1972
 
 Dispõe sobre aplicação de disposições legais e regulamentares, já revogadas, a militares em serviço no estrangeiro, até a vigência de lei específica.

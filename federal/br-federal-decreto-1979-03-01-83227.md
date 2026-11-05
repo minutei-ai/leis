@@ -1,5 +1,3 @@
-###DEC-083227-0-000-01-03-1979@@@
-
 Decreto nº 83.227, de 1º de março de 1979
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação dos terrenos que menciona, situados em Brasília-DF e da outras providências.

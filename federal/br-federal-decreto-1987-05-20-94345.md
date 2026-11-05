@@ -1,5 +1,3 @@
-###DEC-094345-0-000-20-05-1987@@@
-
 DECRETO Nº 94.345, DE 20 DE MAIO DE 1987.
 
 Revoga dispositivo do Decreto nº 63.192, de 29 de agosto de 1968.

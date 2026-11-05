@@ -1,5 +1,3 @@
-###DEC-072423-0-000-03-07-1973@@@
-
 DECRETO Nº 72.423, DE 3 DE JULHO DE 1973.
 
 Altera a denominação e fixa normas de organização, competência e função coletiva das entidades de desenvolvimento sub-regional, vinculados ao Ministério do Interior.

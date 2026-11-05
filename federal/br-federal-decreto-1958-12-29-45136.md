@@ -1,5 +1,3 @@
-###DEC-045136-0-000-29-12-1958@@@
-
 decreto nº 45.136, de 29 de dezembro de 1958.
 
 Autoria o cidadão brasileiro Martin Francisco Braz Neto a pesquisar conchas calcárias no município de Maricá, Estado do Rio de Janeiro.

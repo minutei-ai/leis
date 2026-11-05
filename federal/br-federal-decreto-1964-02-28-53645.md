@@ -1,5 +1,3 @@
-###DEC-053645-0-000-28-02-1964@@@
-
 DECRETO Nº 53.645, DE 28 DE FEVEREIRO DE 1964.
 
 Fixa os preços básicos mínimos para o financiamento ou aquisição de amendoim da sêca da safra de 1963-64.

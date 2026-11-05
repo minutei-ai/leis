@@ -1,5 +1,3 @@
-###DEC-084589-0-000-24-03-1980@@@
-
 Decreto nº 84.589, de 24 de março de 1980
 
 Redivide as áreas de atuação das empresas controladas (subsidiárias) pela Centrais Elétricas Brasileiras S.A. - ELETROBRÁS e dá outras providências.

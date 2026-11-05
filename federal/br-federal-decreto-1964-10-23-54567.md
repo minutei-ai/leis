@@ -1,5 +1,3 @@
-###DEC-054567-0-000-23-10-1964@@@
-
 DECRETO Nº 54.567, DE 23 DE OUTUBRO DE 1964.
 
 Autoriza o cidadão brasileiro Antônio Gomes Casanova a pesquisar cassiterita, no município de Pôrto Velho, Território Federal de Rondônia.

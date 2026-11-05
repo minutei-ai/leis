@@ -1,5 +1,3 @@
-###DEC-049467-0-000-07-12-1960@@@
-
 DECRETO Nº 49.467, DE 7 DE DEZEMBRO DE 1960.
 
 Cria o Consulado Honorário do Brasil, em Aschen, Alemanha.

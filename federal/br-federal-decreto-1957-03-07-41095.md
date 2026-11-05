@@ -1,40 +1,38 @@
-###DEC-041095-0-000-07-03-1957@@@
+**DECRETO Nº 41.095, DE 7 DE MARÇO DE 1957.**
 
-<strong>DECRETO Nº 41.095, DE 7 DE MARÇO DE 1957.</strong>
+***Aprova o Regulamento da Policia Militar do Distrito Federal.***
 
-<em><strong>Aprova o Regulamento da Policia Militar do Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o item I do art.87, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o item I do art.87, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento da Polícia Militar do Distrito Federal, que com êste baixa, assinado pelo Ministro de Estado da Justiça e Negócios Interiores.
-
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de março de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
-<strong>REGULAMENTO GERAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL</strong>
+**REGULAMENTO GERAL DA POLÍCIA MILITAR DO DISTRITO FEDERAL**
 
-<strong>R. G. 1</strong>
+**R. G. 1**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DISPOSIÇÕES PRELIMINARES</em>
+*DISPOSIÇÕES PRELIMINARES*
 
-<strong>Art</strong>. 1º A Polícia Militar do Distrito Federal, instituída para a segurança interna e a manutenção da ordem no Distrito Federal, é uma Corporação militar permanente, subordinada diretamente ao Ministro de Estado da Justiça e Negócios Interiores, considerada, como fôrça auxiliar, reserva do Exército, na forma do artigo 183 da Constituição.
+**Art**. 1º A Polícia Militar do Distrito Federal, instituída para a segurança interna e a manutenção da ordem no Distrito Federal, é uma Corporação militar permanente, subordinada diretamente ao Ministro de Estado da Justiça e Negócios Interiores, considerada, como fôrça auxiliar, reserva do Exército, na forma do artigo 183 da Constituição.
 
-<strong>Art</strong>. 2º A Polícia Militar do Distrito Federal compõe-se de Comando Geral, das Diretorias, dos Serviços e da Tropa.
+**Art**. 2º A Polícia Militar do Distrito Federal compõe-se de Comando Geral, das Diretorias, dos Serviços e da Tropa.
 
-<strong>Art</strong>. 3º O Comando Geral é exercido por um oficial da ativa do Exército, com o pôsto de Coronel ou General, como titular do cargo de Comandante-Geral.
+**Art**. 3º O Comando Geral é exercido por um oficial da ativa do Exército, com o pôsto de Coronel ou General, como titular do cargo de Comandante-Geral.
 
 § 1º Para o exercício de sua missão o Comandante-Geral disporá de:
 
@@ -68,7 +66,7 @@ VI - o Serviço de Justiça
 
 § 7º Os Ajudantes de Ordem serão de preferência ocupantes do pôsto de Capitão.
 
-<strong>Art</strong>. 4º A Tropa constará de:
+**Art**. 4º A Tropa constará de:
 
 I - sete (7) Batalhões de Infantaria
 
@@ -82,29 +80,29 @@ IV - uma (1) Companhia de Metralhadoras Motorizada
 
 § 2º Os efetivos dos Corpos e demais órgãos serão fixados em decreto, tendo em vista sua finalidade essencial de policiamento e a instrução militar, de acôrdo com os efetivos fixados para a Corporação.
 
-<strong>Art</strong>. 5º O Chefe de Estado-Maior, o Ajudante-Geral, os Diretores, os Chefes de Serviços e os Comandantes do Corpo, serão oficiais da própria Corporação, exceto o Diretor de Ensino.
+**Art**. 5º O Chefe de Estado-Maior, o Ajudante-Geral, os Diretores, os Chefes de Serviços e os Comandantes do Corpo, serão oficiais da própria Corporação, exceto o Diretor de Ensino.
 
 § 1º O Chefe do Estado-Maior, o Ajudante Geral, os Diretores de Intendência e Saúde, do Serviço Reembolsável e do Serviço Social, os Comandantes de Batalhão de Infantaria e do Regimento de Cavalaria terão o pôsto de Tenente-Coronel; o subchefe do Estado-Maior, e da Ajudância Geral, o Comandante do Batalhão de Serviços, os Subcomandantes, os subdiretores dos diferentes Serviços e os Assistentes Militares do Ministro de Estados da Justiça e Negócios Interiores, do Prefeito do Distrito Federal e do Chefe de Polícia do Departamento Federal de Segurança Pública, terão o pôsto de Major.
 
 § 2º As funções do subchefe do Estado-Maior de subajudante geral e de Comandante do Batalhão de Serviços poderão ser desempenhados por oficiais com o pôsto de Tenente-Coronel quando, por fôrça de dispositivo legal, houver, na Corporação, oficial excedente com êsse pôsto. No caso de ser um oficial, com o pôsto de Tenente-Coronel, o Comandante do Batalhão de Serviços, o cargo de subcomandante poderá ser exercido por um oficial com o pôsto de Major.
 
-<strong>Art</strong>. 6º A instrução policial-militar, a cargo da Diretoria de Instrução, será dirigida, nos vários cursos, por oficiais do Exército ou da Corporação.
+**Art**. 6º A instrução policial-militar, a cargo da Diretoria de Instrução, será dirigida, nos vários cursos, por oficiais do Exército ou da Corporação.
 
 Parágrafo único. Os oficiais da Corporação terão preferência para ministrar a instrução militar, quando possuírem o correspondente curso do Exército.
 
-<strong>Art</strong>. 7º A Polícia Militar cooperará, primordialmente, com o Departamento Federal de Segurança Pública na manutenção da ordem, segurança e tranquilidade pública no Distrito Federal.
+**Art**. 7º A Polícia Militar cooperará, primordialmente, com o Departamento Federal de Segurança Pública na manutenção da ordem, segurança e tranquilidade pública no Distrito Federal.
 
-<strong>Art</strong>. 8º O Pessoal da Polícia Militar, quando mobilizado em tempo de guerra externa ou civil, gozará das mesmas vantagens atribuídas ao pessoal do Exército (Constituição, artigo 183, parágrafo único).
+**Art**. 8º O Pessoal da Polícia Militar, quando mobilizado em tempo de guerra externa ou civil, gozará das mesmas vantagens atribuídas ao pessoal do Exército (Constituição, artigo 183, parágrafo único).
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA HIERARQUIA</em>
+*DA HIERARQUIA*
 
-<strong>Art</strong>. 9º A precedência hierárquica é regulada pelo pôsto ou graduação e, em caso de igualdade, pela antiguidade relativa.
+**Art**. 9º A precedência hierárquica é regulada pelo pôsto ou graduação e, em caso de igualdade, pela antiguidade relativa.
 
 Parágrafo único. Pôsto é o grau hierárquico dos oficiais, conferido por decreto e carta patente. Graduação é o grau hierárquico das praças, conferido pela autoridade competente.
 
-<strong>Art</strong>. 10. A hierarquia na Polícia Militar do Distrito Federal é:
+**Art**. 10. A hierarquia na Polícia Militar do Distrito Federal é:
 
 I - Oficiais:
 
@@ -154,13 +152,13 @@ Soldado
 
 § 6º Nenhum militar da Corporação salvo no caso de funeral, poderá dispensar horas em sinais de respeito, devido o seu grau hierárquico.
 
-<strong>Art</strong>. 11. A situação das praças especiais é assim regulada:
+**Art**. 11. A situação das praças especiais é assim regulada:
 
 I - A precedência entre os aspirantes a oficial é assegurada pela classificação, por merecimento intelectual dentro de cada turma.
 
 II - O aspirante a oficial tem precedência sôbre o aluno da Escola de Formação de Oficial e ambos, sôbre as demais praças.
 
-<strong>Art</strong>. 12. Os almanaques da Polícia Militar do Distrito Federal, um para os oficiais e outro para os sargentos, conterão a relação nominal de todos os oficiais e sargentos da ativa, de acôrdo com seus postos ou graduações, obedecida a antiguidade, distribuída pelos respectivos quadros.
+**Art**. 12. Os almanaques da Polícia Militar do Distrito Federal, um para os oficiais e outro para os sargentos, conterão a relação nominal de todos os oficiais e sargentos da ativa, de acôrdo com seus postos ou graduações, obedecida a antiguidade, distribuída pelos respectivos quadros.
 
 Parágrafo único. Os quadros são assim divididos:
 
@@ -180,7 +178,7 @@ Combatentes
 
 Especialistas
 
-<strong>Art</strong>. 13. O pessoal da Polícia Militar do Distrito Federal pertence aos círculos de:
+**Art**. 13. O pessoal da Polícia Militar do Distrito Federal pertence aos círculos de:
 
 I - Oficiais Superiores
 
@@ -194,15 +192,15 @@ V - Sargentos
 
 VI - Cabos e Soldados
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Dos Militares</em>
+*Dos Militares*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO INGRESSO</em>
+*DO INGRESSO*
 
-<strong>Art</strong>. 14. O ingresso de praça só é feito em vaga de soldado, por voluntário, brasileiro nato, maior de 17 e menor de 25 anos de idade, possuidor de robustez física e boa conduta social, já alistado ou reservista de outra Corporação e que tenha o curso primário completo.
+**Art**. 14. O ingresso de praça só é feito em vaga de soldado, por voluntário, brasileiro nato, maior de 17 e menor de 25 anos de idade, possuidor de robustez física e boa conduta social, já alistado ou reservista de outra Corporação e que tenha o curso primário completo.
 
 § 1º O voluntário, menor de 21 anos, deverá exibir autorização dos pais, tutor ou Juiz de Menores, conforme o caso.
 
@@ -214,15 +212,15 @@ VI - Cabos e Soldados
 
 § 5º Terá preferência para o ingresso, em concorrência com outros voluntários, o que tenha servido como praça na Corporação e demostrado bom comportamento.
 
-<strong>Art</strong>. 15. O voluntário, ou ex-praça, pleiteará o ingresso mediante requerimento dirigido ao Comandante da Corporação e instruído com a certidão de idade e demais documentos hábeis, comprobatórios dos requisitos mencionados no artigo anterior.
+**Art**. 15. O voluntário, ou ex-praça, pleiteará o ingresso mediante requerimento dirigido ao Comandante da Corporação e instruído com a certidão de idade e demais documentos hábeis, comprobatórios dos requisitos mencionados no artigo anterior.
 
 Parágrafo único. No caso de se verificar o ingresso, os documentos que servirem para instituir o pedido, ficarão arquivados, definidamente, na Corporação.
 
-<strong>Art</strong>. 16. O voluntário, após seu ingresso na Corporação prestará, solenemente, o seguinte compromisso:
+**Art**. 16. O voluntário, após seu ingresso na Corporação prestará, solenemente, o seguinte compromisso:
 
 “Ingressando na Polícia Militar do Distrito Federal, prometo regular minha conduta pelos preceitos da moral, respeitar meus superiores hierárquicos, tratar com afeto os meus companheiros de arma e com bondade os que venham a ser meus subordinados; cumprir rigorosamente as ordens das autoridades competentes e votar-me inteiramente aos serviços de minha Pátria, cujas instituições, integridade e honra defenderei até com o sacrifício da minha própria vida”.
 
-<strong>Art</strong>. 17. Os períodos de tempo de serviço das praças serão ininterruptos e assim classificados:
+**Art**. 17. Os períodos de tempo de serviço das praças serão ininterruptos e assim classificados:
 
 I - de ingresso - 1º período, de 3 anos;
 
@@ -240,23 +238,23 @@ I - trienalmente, se sargento;
 
 II - bienalmente, se Cabo ou Soldado.
 
-<strong>Art</strong>. 18. O pedido para permanecer na Corporação, será formulado com oito (8) dias, pelo menos; de antecedência do término de um período regular de serviço.
+**Art**. 18. O pedido para permanecer na Corporação, será formulado com oito (8) dias, pelo menos; de antecedência do término de um período regular de serviço.
 
 Parágrafo único. Os Comandantes de Corpo decidirão à vista dos documentos oficiais que comprovam a boa conduta e aptidão física e profissional do requerente, cabendo recurso ao Comandante-Geral, no prazo de cinco (5) dias, se houver indeferimeto.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS NOMEAÇÕES</em>
+*DAS NOMEAÇÕES*
 
-<strong>Art</strong>. 19. O Comandante-Geral será nomeado e exonerado por decreto do Presidente da República, referendado pelo Ministro de Estado da Justiça e Negócios Interiores.
+**Art**. 19. O Comandante-Geral será nomeado e exonerado por decreto do Presidente da República, referendado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 20. A nomeação e a exoneração do instrutor far-se-ão mediante proposta do Comandante-Geral:
+**Art**. 20. A nomeação e a exoneração do instrutor far-se-ão mediante proposta do Comandante-Geral:
 
 I - em decreto, na forma do artigo anterior, quando a escolha recair em oficial do Exército;
 
 II - em Portaria do Ministro de Estado da Justiça e Negócios Interiores, quando o escolhido fôr oficial da própria Corporação.
 
-<strong>Art</strong>. 21. A nomeação dos oficiais médicos, dentistas, farmacêuticos, veterinários e tenente-músico, far-se-á, por decreto, segundo à ordem de classificação em concurso.
+**Art**. 21. A nomeação dos oficiais médicos, dentistas, farmacêuticos, veterinários e tenente-músico, far-se-á, por decreto, segundo à ordem de classificação em concurso.
 
 § 1º O concurso obedecerá a instruções baixadas pelo Ministro de Estado da Justiça e Negócios Interiores, contendo normas sôbre a inscrição, inspeção de saúde, prestação das provas escrita, oral e prática, julgamento e classificação dos candidatos.
 
@@ -266,23 +264,23 @@ II - em Portaria do Ministro de Estado da Justiça e Negócios Interiores, quand
 
 § 4º Serão nomeados, de preferência, em igualdade de classificação, os candidatos aprovados, que tenham servido ou sirvam na Corporação.
 
-<strong>Art</strong>. 22. O prazo de validade do concurso é de dois (2) anos a contar da publicação, no Diário Oficial, do ato final do julgamento.
+**Art**. 22. O prazo de validade do concurso é de dois (2) anos a contar da publicação, no Diário Oficial, do ato final do julgamento.
 
-<strong>Art</strong>. 23. Os oficiais nomeados, exceto o Comandante Geral e os instrutores, prestarão compromisso, por a ocasião da respectiva posse, em livro próprio, existente no Estado-Maior.
+**Art**. 23. Os oficiais nomeados, exceto o Comandante Geral e os instrutores, prestarão compromisso, por a ocasião da respectiva posse, em livro próprio, existente no Estado-Maior.
 
-<strong>Art</strong>. 24. O Capelão da Corporação será nomeado, na forma prevista no art. 19, mediante proposta do Comandante-Geral.
+**Art**. 24. O Capelão da Corporação será nomeado, na forma prevista no art. 19, mediante proposta do Comandante-Geral.
 
-<strong>Art</strong>. 25. Os oficiais, inclusive o Capelão, deverão tomar posse no prazo de trinta (30) dias, a partir da publicação, no Diário Oficial, do ato de nomeação.
+**Art**. 25. Os oficiais, inclusive o Capelão, deverão tomar posse no prazo de trinta (30) dias, a partir da publicação, no Diário Oficial, do ato de nomeação.
 
 Parágrafo único. Antes de findo êsse prazo, poderá o interessado, mediante petição dirigida ao Comandante Geral, solicitar prorrogação, até sessenta (60) dias.
 
-<strong>Art</strong>. 26. A nomeação ficará sem efeito, mediante ato declaratório, quando o nomeado não tomar posse nos prazos estabelecidos no artigo anterior.
+**Art**. 26. A nomeação ficará sem efeito, mediante ato declaratório, quando o nomeado não tomar posse nos prazos estabelecidos no artigo anterior.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DOS DEVERES E RESPONSABILIDADES</em>
+*DOS DEVERES E RESPONSABILIDADES*
 
-<strong>Art</strong>. 27. São deveres do pessoal da Polícia Militar do Distrito Federal:
+**Art**. 27. São deveres do pessoal da Polícia Militar do Distrito Federal:
 
 I - defender a Pátria e garantir os poderes constitucionais, a lei e a ordem, dentro da esfera de suas atribuições;
 
@@ -306,41 +304,41 @@ X - abster-se, em absoluto, de referir-se a assunto pertinente à defesa naciona
 
 XI - ser leal, em tôdas as circunstâncias;
 
-<strong>Art</strong>. 28. O superior como guia mais experimentado, é obrigado a tratar os subordinados, em legal, com urbanidade e os recrutas, em particular, com benevolência, interêsse e consideração.
+**Art**. 28. O superior como guia mais experimentado, é obrigado a tratar os subordinados, em legal, com urbanidade e os recrutas, em particular, com benevolência, interêsse e consideração.
 
-<strong>Art</strong>. 29. O militar, mesmo fora de serviço, deve conduzir-se com rigorosa observância das normas de disciplina, educação e respeito para com seus superiores camaradas e concidadãos.
+**Art**. 29. O militar, mesmo fora de serviço, deve conduzir-se com rigorosa observância das normas de disciplina, educação e respeito para com seus superiores camaradas e concidadãos.
 
-<strong>Art</strong>. 30. A violação do dever militar, na sua mais elementar e simples manifestação, é transgressão prevista nos regulamentos disciplinares; a ofensa a êsse dever, na sua expressão mais complexa, é crime militar, na formas das leis penais;
+**Art**. 30. A violação do dever militar, na sua mais elementar e simples manifestação, é transgressão prevista nos regulamentos disciplinares; a ofensa a êsse dever, na sua expressão mais complexa, é crime militar, na formas das leis penais;
 
 Parágrafo único. No concurso de crime de natureza militar ou civil e transgressão disciplinar, será aplicada sòmente a pena relativa ao crime.
 
-<strong>Art</strong>. 31. Os militares da ativa podem, no interêsse de salvaguardar a própria dignidade profissional, ser chamados a prestar contas, pela forma que fôr estabelecida pelo Ministro de Estado e Justiça e Negócios Interiores, sôbre a origem de seus bens móveis ou imóveis.
+**Art**. 31. Os militares da ativa podem, no interêsse de salvaguardar a própria dignidade profissional, ser chamados a prestar contas, pela forma que fôr estabelecida pelo Ministro de Estado e Justiça e Negócios Interiores, sôbre a origem de seus bens móveis ou imóveis.
 
-<strong>Art</strong>. 32. Ao militar da ativa é vedado fazer parte de firmas comerciais ou de emprêsas industriais de qualquer natureza, ou nelas exercer função ou emprêgo remunerado.
+**Art**. 32. Ao militar da ativa é vedado fazer parte de firmas comerciais ou de emprêsas industriais de qualquer natureza, ou nelas exercer função ou emprêgo remunerado.
 
 § 1º Os militares da ativa podem exercer, pessoalmente, a gestão de seus bens, desde que não infrinjam o disposto neste artigo.
 
 § 2º Aos oficiais do Serviço de Saúde e do Serviço Veterinário é permitido o exercício de atividades técnico profissionais, no meio civil, desde que não prejudique o serviço e tenha por objetivo o aperfeiçoamento e a prática profissionais.
 
-<strong>Art</strong>. 33. O militar da ativa poderá servir à disposição da Presidência da República, do Gabinete do Ministro de Estado da Justiça e Negócios Interiores, do Departamento de Administração do mesmo Ministério e do Departamento Federal de Segurança Pública, a fim de compor contingentes destinados aos serviços de segurança e vigilância, mediante requisição dêsses órgãos.
+**Art**. 33. O militar da ativa poderá servir à disposição da Presidência da República, do Gabinete do Ministro de Estado da Justiça e Negócios Interiores, do Departamento de Administração do mesmo Ministério e do Departamento Federal de Segurança Pública, a fim de compor contingentes destinados aos serviços de segurança e vigilância, mediante requisição dêsses órgãos.
 
-<strong>Art</strong>. 34. Cabe ao militar a responsabilidade integral das decisões que tomar, ou dos atos que praticar, inclusive pela execução de missões e ordem por êle determinadas.
+**Art**. 34. Cabe ao militar a responsabilidade integral das decisões que tomar, ou dos atos que praticar, inclusive pela execução de missões e ordem por êle determinadas.
 
 Parágrafo único. No cumprimento de ordem emanada de autoridade superior o executante não fica exonerado de responsabilidade pela prática de qualquer infração penal.
 
-<strong>Art</strong>. 35. A inobservância, ou falta de exação do cumprimento de deveres, especificados neste ou em outros regulamentos, acarreta responsabilidade criminal não exonera o milidade funcional, pecuniária, disciplinar vigor.
+**Art**. 35. A inobservância, ou falta de exação do cumprimento de deveres, especificados neste ou em outros regulamentos, acarreta responsabilidade criminal não exonera o milidade funcional, pecuniária, disciplinar vigor.
 
-<strong>Art</strong>. 36. A responsabilidade a que se refere o artigo anterior, e sempre pessoal e a absolvição em protar do pagamento de indenização do prejuízo material por êle causado.
+**Art**. 36. A responsabilidade a que se refere o artigo anterior, e sempre pessoal e a absolvição em protar do pagamento de indenização do prejuízo material por êle causado.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DOS DIREITOS E PRERROGATIVAS</em>
+*DOS DIREITOS E PRERROGATIVAS*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Generalidades</em>
+*Generalidades*
 
-<strong>Art</strong>. 37. São direitos dos militares da Polícia Militar do Distrito Federal:
+**Art**. 37. São direitos dos militares da Polícia Militar do Distrito Federal:
 
 I - a propiedade da patente, garantida em tôda a sua plenitude;
 
@@ -374,7 +372,7 @@ XV - o porte de armas, quando oficial da ativa;
 
 XVI - a residência, em próprio nacional, quando obrigatória, em virtude de sua função;
 
-<strong>Art</strong>. 38. O oficial sòmente perderá seu pôsto verificada uma das seguintes causas:
+**Art**. 38. O oficial sòmente perderá seu pôsto verificada uma das seguintes causas:
 
 I - perda da nacionalidade brasileira;
 
@@ -384,31 +382,31 @@ III - condenação a pena de degradação, destituição e demissão nos têrmos
 
 IV - quando o Superior Tribunal Militar o declarar indigno do oficialato, ou com o mesmo incompatível, nos casos previstos na legislação penal, ou, ainda, quando o mesmo Tribunal reconhecer que êle professa doutrina nociva à disciplina e à ordem pública, ou, por palavras ou atos, auxilie ou faça propagandas de princípios contrários às instituições políticas e sociais vigentes no país.
 
-<strong>Art</strong>. 39. A praça perde a graduação e o direito à reforma, quando expulsa da Corporação;
+**Art**. 39. A praça perde a graduação e o direito à reforma, quando expulsa da Corporação;
 
-<strong>Art</strong>. 40. Os vencimentos e vantagens dos militares da Polícia Militar do Distrito Federal não são passíveis de penhora, arresto ou sequestro, salvo para pagamento de alimento à esposa ou aos filhos, na forma estabelecida por decisão da autoridade judiciária competente.
+**Art**. 40. Os vencimentos e vantagens dos militares da Polícia Militar do Distrito Federal não são passíveis de penhora, arresto ou sequestro, salvo para pagamento de alimento à esposa ou aos filhos, na forma estabelecida por decisão da autoridade judiciária competente.
 
 Parágrafo único. A impenhorabilidade dos vencimentos e vantagens não exclui providências disciplinares e administrativas, determinadas pelo Comandante da Corporação, tendentes a compelir o militar ao pagamento de dívida legalmente contraída.
 
-<strong>Art</strong>. 41. Nenhum impôsto ou taxa gravará vencimentos, proventos e vantagens do militar, com exceção do impôsto de renda.
+**Art**. 41. Nenhum impôsto ou taxa gravará vencimentos, proventos e vantagens do militar, com exceção do impôsto de renda.
 
-<strong>Art</strong>. 42. As prerrogativas dos militares da Corporação são as honras, dignidades e distinções devidas aos postos, graduações e funções.
+**Art**. 42. As prerrogativas dos militares da Corporação são as honras, dignidades e distinções devidas aos postos, graduações e funções.
 
-<strong>Art</strong>. 43. Nenhum oficial poderá ficar detido em estabelecimento ou quartel cujo chefe ou Comandante não tenha precedência sôbre êle.
+**Art**. 43. Nenhum oficial poderá ficar detido em estabelecimento ou quartel cujo chefe ou Comandante não tenha precedência sôbre êle.
 
-<strong>Art</strong>. 44. O militar da Corporação só poderá ser prêso, por autoridade policial, em caso de flagrante delito ou em virtude de ordem judicial.
+**Art**. 44. O militar da Corporação só poderá ser prêso, por autoridade policial, em caso de flagrante delito ou em virtude de ordem judicial.
 
 § 1º A autoridade policial fará entrega do prêso imediatamente ao oficial de dia no quartel da Corporação mais próximo, só podendo retê-lo na delegacia, ou pôsto policial, durante o tempo necessário à lavratura do flagrante, quando fôr o caso.
 
 § 2º O Comandante da Corporação promoverá a responsabilidade, na forma da lei, da autoridade policial que destratar, ou consentir que seja destratado qualquer militar da Corporação, ou não lhe der tratamento devido ao seu pôsto ou graduação.
 
-<strong>Art</strong>. 45. O militar da ativa é isento do serviço de júri.
+**Art**. 45. O militar da ativa é isento do serviço de júri.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Da patente</em>
+*Da patente*
 
-<strong>Art</strong>. 46. A patente de oficial é conferida pelo Presidente da República:
+**Art**. 46. A patente de oficial é conferida pelo Presidente da República:
 
 I - a praça promovida ao primeiro pôsto do oficialato;
 
@@ -416,7 +414,7 @@ II - ao oficial, nomeado em virtude de concurso;
 
 III - ao padre, nomeado capitão-capelão.
 
-<strong>Art</strong>. 47. Ao oficial promovido ao pôsto de major será conferida nova patente.
+**Art**. 47. Ao oficial promovido ao pôsto de major será conferida nova patente.
 
 § 1º As promoções ao pôsto de 1º tenente e capitão serão apostilas na patente do primeiro pôsto do oficialato.
 
@@ -424,15 +422,15 @@ III - ao padre, nomeado capitão-capelão.
 
 § 3º Não será expedida patente ao oficial reformado; a respectiva reforma será apostilada na patente do último pôsto, que possuía na ativa.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Dos uniformes</em>
+*Dos uniformes*
 
-<strong>Art</strong>. 48. O uniforme da Polícia Militar do Distrito Federal é o descrito e aprovado em Regulamento próprio.
+**Art**. 48. O uniforme da Polícia Militar do Distrito Federal é o descrito e aprovado em Regulamento próprio.
 
-<strong>Art</strong>. 49. As peças do uniforme de uso obrigatório e da roupa suplementar serão distribuídas aos cabos e soldados, de acôrdo com a tabela de distribuição e duração aprovada pelo Comandante Geral.
+**Art**. 49. As peças do uniforme de uso obrigatório e da roupa suplementar serão distribuídas aos cabos e soldados, de acôrdo com a tabela de distribuição e duração aprovada pelo Comandante Geral.
 
-<strong>Art</strong>. 50. Para garantia dos uniformes recebidos pelos cabos e soldados, descontar-se-á dos vencimentos de cada um, nos dois (2) primeiros anos do ingresso uma quantia arbitrada pelo Comandante-Geral, a qual será recolhida em depósito especial.
+**Art**. 50. Para garantia dos uniformes recebidos pelos cabos e soldados, descontar-se-á dos vencimentos de cada um, nos dois (2) primeiros anos do ingresso uma quantia arbitrada pelo Comandante-Geral, a qual será recolhida em depósito especial.
 
 § 1º As quantias descontadas serão restituídas, deduzidas as dívidas para com a Fazenda Nacional, quando os cabos e soldados forem excluídos, expulsos ou se reformarem.
 
@@ -440,9 +438,9 @@ III - ao padre, nomeado capitão-capelão.
 
 § 3º O cabo promovido a 3º sargento terá direito à restituição das quantias descontadas a título de garantias de fardamento, deduzidas as dívidas para com a Fazenda Nacional.
 
-<strong>Art</strong>. 51. O militar que, em ato de serviço, extraviar ou inutilizar alguma peça de uniforme ou de equipamento, receberá outra da mesma espécie; se fôr cabo ou soldado, sem prejuízo da que lhe couber na distribuição geral.
+**Art**. 51. O militar que, em ato de serviço, extraviar ou inutilizar alguma peça de uniforme ou de equipamento, receberá outra da mesma espécie; se fôr cabo ou soldado, sem prejuízo da que lhe couber na distribuição geral.
 
-<strong>Art</strong>. 52. O cabo, ou soldado, que extraviar, ou inutilizar peça de uniformes, ou equipamento, antes de vencido o prazo de sua duração, receberá, em substituição, outra da mesma espécie, cujo valor será por êle indenizado integralmente; a nova peça não alterará o prazo da primeira; o produto da indenização será recolhido à Caixa de Economias da Corporação.
+**Art**. 52. O cabo, ou soldado, que extraviar, ou inutilizar peça de uniformes, ou equipamento, antes de vencido o prazo de sua duração, receberá, em substituição, outra da mesma espécie, cujo valor será por êle indenizado integralmente; a nova peça não alterará o prazo da primeira; o produto da indenização será recolhido à Caixa de Economias da Corporação.
 
 Parágrafo único. De modo idêntico, proceder-se-á com a praça que:
 
@@ -450,31 +448,31 @@ a) obtiver, em abono, qualquer peça de uniformes, ou equipamento, mediante aleg
 
 b) extraviar ou inutilizar qualquer peça de uniforme ou equipamento de companheiro.
 
-<strong>Art</strong>. 53. Os cabos e soldados, ao serem excluídos, ou expulsos, pagarão as peças de uniforme e de roupa suplementar recebidas e cujo prazo de duração não esteja vencido, pelo valor correspondente ao tempo de serviço que faltar às mesmas para o vencimento dos prazos mínimos de duração marcados na tabela de distribuição, sendo contado por um (1) mês as frações maiores de quinze (15) dias.
+**Art**. 53. Os cabos e soldados, ao serem excluídos, ou expulsos, pagarão as peças de uniforme e de roupa suplementar recebidas e cujo prazo de duração não esteja vencido, pelo valor correspondente ao tempo de serviço que faltar às mesmas para o vencimento dos prazos mínimos de duração marcados na tabela de distribuição, sendo contado por um (1) mês as frações maiores de quinze (15) dias.
 
-<strong>Art</strong>. 54. Os cabos e soldados que falecerem ou se reformarem terão como vencidos os prazos de duração das suas peças de uniforme e de roupa suplementar; serão obrigatoriamente destruídas pelo fogo, as dos afetados de moléstia contagiosa.
+**Art**. 54. Os cabos e soldados que falecerem ou se reformarem terão como vencidos os prazos de duração das suas peças de uniforme e de roupa suplementar; serão obrigatoriamente destruídas pelo fogo, as dos afetados de moléstia contagiosa.
 
 Parágrafo único. Aos herdeiros dos falecidos será restituída a importância que houver sido descontada como garantia de uniformes.
 
-<strong>Art</strong>. 55. Os cabos e soldados desertores receberão, durante o tempo de cumprimento da respectiva pena, o uniforme previsto na respectiva tabela.
+**Art**. 55. Os cabos e soldados desertores receberão, durante o tempo de cumprimento da respectiva pena, o uniforme previsto na respectiva tabela.
 
-<strong>Art</strong>. 56. A praça, que fôr posta em liberdade por arquivamento ou absolvição em processo criminal, perdão, indulto ou cumprimento de sentença judiciária, ou a que expirado o prazo de alistamento, continuar a servir para recuperar o tempo que por qualquer motivo tenha perdido pagará pela forma estabelecida no artigo 53 a importância das peças de fardamento de que precisar, cujo tempo de duração exceder do que lhe faltar para obter baixa, levando-se em conta, a favor da praça absolvida, o tempo de prisão, caso não tenha recebido fardamento pela respectiva tabela.
+**Art**. 56. A praça, que fôr posta em liberdade por arquivamento ou absolvição em processo criminal, perdão, indulto ou cumprimento de sentença judiciária, ou a que expirado o prazo de alistamento, continuar a servir para recuperar o tempo que por qualquer motivo tenha perdido pagará pela forma estabelecida no artigo 53 a importância das peças de fardamento de que precisar, cujo tempo de duração exceder do que lhe faltar para obter baixa, levando-se em conta, a favor da praça absolvida, o tempo de prisão, caso não tenha recebido fardamento pela respectiva tabela.
 
-<strong>Art</strong>. 57. A praça excluída, por qualquer motivo, exceto reforma, não mais poderá usar qualquer peça do uniforme.
+**Art**. 57. A praça excluída, por qualquer motivo, exceto reforma, não mais poderá usar qualquer peça do uniforme.
 
-<strong>Art</strong>. 58. A duração das peças de uniforme e de roupa suplementar é contada da data das respectivas distribuições, mesmo que sejam feitas com atraso.
+**Art**. 58. A duração das peças de uniforme e de roupa suplementar é contada da data das respectivas distribuições, mesmo que sejam feitas com atraso.
 
 Parágrafo único. Não será abonada, nem paga em dinheiro ao cabo ou soldado excluído, por qualquer motivo, ou aos herdeiros dos que falecerem, a peça de uniforme, ou de roupa suplementar, que tenham deixado de receber na época própria.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da promoção de oficiais</em>
+*Da promoção de oficiais*
 
-<strong>Art</strong>. 59. Cabe ao Presidente da República promover os oficiais da Polícia Militar do Distrito Federal, mediante decreto, referendado pelo Ministro de Estado da Justiça e Negócios Interiores.
+**Art**. 59. Cabe ao Presidente da República promover os oficiais da Polícia Militar do Distrito Federal, mediante decreto, referendado pelo Ministro de Estado da Justiça e Negócios Interiores.
 
-<strong>Art</strong>. 60. Sòmente os oficiais incluídos nos Quadros de Acesso poderão concorrer à promoção.
+**Art**. 60. Sòmente os oficiais incluídos nos Quadros de Acesso poderão concorrer à promoção.
 
-<strong>Art</strong>. 61. Quadros de Acesso são relações dos nomes dos oficiais, que estejam em condições de concorrer à promoção.
+**Art**. 61. Quadros de Acesso são relações dos nomes dos oficiais, que estejam em condições de concorrer à promoção.
 
 § 1º Serão organizados os Quadros de Acesso, para as promoções, até o último dia útil do mês de janeiro de cada ano; ou, extraordinàriamente, quando o número de seus componentes estiver reduzido a menos de setenta por cento (70%).
 
@@ -482,7 +480,7 @@ Parágrafo único. Não será abonada, nem paga em dinheiro ao cabo ou soldado e
 
 § 3º Ao oficial, que discordar de sua classificação no Quadro, é facultado solicitar reconsideração, dentro de dez (10) dias da publicação, à Comissão de Promoções, que deverá decidir o pedido, no prazo de oito (8) dias.
 
-<strong>Art</strong>. 62. Os Quadros de Acesso terão número limitado de oficiais, que não poderá exceder:
+**Art**. 62. Os Quadros de Acesso terão número limitado de oficiais, que não poderá exceder:
 
 I - A primeira metade dos postos de major;
 
@@ -492,7 +490,7 @@ III - A primeira metade dos aspirantes a oficial, obedecida a ordem de classific
 
 Parágrafo único. As frações serão tomadas como inteiro, para o cômputo do excesso.
 
-<strong>Art</strong>. 63. Para ser incluído no Quadro de Acesso, o oficial deverá preencher os seguintes requisitos:
+**Art**. 63. Para ser incluído no Quadro de Acesso, o oficial deverá preencher os seguintes requisitos:
 
 I - Curso da Escola de Aperfeiçoamento de Oficiais ou da Escola de Formação de Oficiais;
 
@@ -502,11 +500,11 @@ III - Interstício no pôsto que possuir: de um (1) ano, em se tratando de aspir
 
 Parágrafo único. Os interstício poderão ser reduzidos, na falta absoluta de candidatos que os possuam, até no mínimo de seis (6) e doze (12) meses, respectivamente.
 
-<strong>Art</strong>. 64. Incluído no Quadro de Acesso, o oficial ou aspirante a Oficial, será submetido à inspeção de saúde, da qual será lavrada ata, em duas (2) vias, pela Diretoria do Serviço de Saúde, e remetida ao Presidente da Comissão de Promoções.
+**Art**. 64. Incluído no Quadro de Acesso, o oficial ou aspirante a Oficial, será submetido à inspeção de saúde, da qual será lavrada ata, em duas (2) vias, pela Diretoria do Serviço de Saúde, e remetida ao Presidente da Comissão de Promoções.
 
 Parágrafo único. A inspeção de saúde de que trata êste artigo é válida sòmente por um (1) ano, sendo o oficial, ou aspirante a oficial, submetido a nova inspeção de saúde, se não fôr promovido dentro do referido prazo.
 
-<strong>Art</strong>. 65. O oficial ou aspirante a oficial, incluído em Quadro de Acesso será dêle excluído quando:
+**Art**. 65. O oficial ou aspirante a oficial, incluído em Quadro de Acesso será dêle excluído quando:
 
 I - morto;
 
@@ -514,7 +512,7 @@ II - reformado;
 
 III - sujeito às restrições do artigo 66.
 
-<strong>Art</strong>. 66. Incapacita o oficial, ou aspirante a oficial, para o ingresso nos Quadros de Acesso por merecimento ou antiguidade:
+**Art**. 66. Incapacita o oficial, ou aspirante a oficial, para o ingresso nos Quadros de Acesso por merecimento ou antiguidade:
 
 I - condenação por crime doloso, passada em julgado;
 
@@ -522,7 +520,7 @@ II - punição por uma das seguintes transgressões: embriaguez; falta de probid
 
 Parágrafo único. Se o oficial ou aspirante a oficial, num período de cinco (5) anos, não houver sofrido nova punição em consequência das transgressões, a que se refere o item II dêste artigo, readquirirá o direito ao ingresso no Quadro de Acesso.
 
-<strong>Art</strong>. 67. Os oficiais e aspirantes a oficial incluídos nos Quadros de Acesso, serão selecionados, para efeito de promoção, pela respectiva comissão, tendo em vista:
+**Art**. 67. Os oficiais e aspirantes a oficial incluídos nos Quadros de Acesso, serão selecionados, para efeito de promoção, pela respectiva comissão, tendo em vista:
 
 I - o caráter;
 
@@ -542,7 +540,7 @@ VIII - os atos meritórios praticados no exercício da profissão e em tempo de 
 
 IX - a capacidade física.
 
-<strong>Art</strong>. 68. As promoções devem ser feitas gradual e sucessivamente:
+**Art**. 68. As promoções devem ser feitas gradual e sucessivamente:
 
 I - ao pôsto de tenente coronel, sòmente pelo princípio de merecimento;
 
@@ -570,31 +568,31 @@ c) ausente, considerado como desertor, extraviado ou desaparecido;
 
 d) incapacitado temporàriamente para o serviço da Corporação, conforme inspeção de saúde;
 
-e) achar-se <em>sub</em>\-<em>judice</em>.
+e) achar-se *sub*\-*judice*.
 
-§ 6º O oficial, ou aspirante a oficial, que deixar de ser promovido se achar <em>sub-judice</em>, sòmente o será, nos têrmos dêste Regulamento, depois de absolvido em última e definitiva instância, em ressarcimento de preterição.
+§ 6º O oficial, ou aspirante a oficial, que deixar de ser promovido se achar *sub-judice*, sòmente o será, nos têrmos dêste Regulamento, depois de absolvido em última e definitiva instância, em ressarcimento de preterição.
 
 § 7º As promoções serão efetuadas nos meses de abril, agôsto e de dezembro, caso hajam vagas a preencher.
 
-<strong>Art</strong>. 69. Os aspirantes a oficial promovidos ao pôsto de 2º tenente, dentro de oito (8) dias, contados da publicação da promoção, em Boletim do Comando Geral, prestarão um compromisso, perante o Comandante, constante de têrmo lavrado e assinado em livro próprio, existente no Estado-Maior.
+**Art**. 69. Os aspirantes a oficial promovidos ao pôsto de 2º tenente, dentro de oito (8) dias, contados da publicação da promoção, em Boletim do Comando Geral, prestarão um compromisso, perante o Comandante, constante de têrmo lavrado e assinado em livro próprio, existente no Estado-Maior.
 
 Parágrafo único. Os alunos declarados aspirantes a oficial prestarão o compromisso previsto no Regulamento da Escola de Formação de Oficiais.
 
-<strong>Art</strong>. 70. Os atos de bravura, assim considerados em tempo de guerra, comoção interna ou no exercício da profissão policial-militar, pela autoridade competente, podem ser premiados com promoção extraordinária, que será feita independentemente de Quadro de Acesso, de interstício e dos princípios de merecimento e de antiguidade, mediante proposta da mesma autoridade.
+**Art**. 70. Os atos de bravura, assim considerados em tempo de guerra, comoção interna ou no exercício da profissão policial-militar, pela autoridade competente, podem ser premiados com promoção extraordinária, que será feita independentemente de Quadro de Acesso, de interstício e dos princípios de merecimento e de antiguidade, mediante proposta da mesma autoridade.
 
-<strong>Art</strong>. 71. A promoção prevista na Lei nº 1.252, de 2 de dezembro de 1950, será concedida aos primeiros e segundos tenentes que atingirem dez (1) anos de serviço como sulbaternos, contado êste tempo da data da declaração de aspirante a oficial, ou da posse, se possuírem o Curso de Formação de Oficial, ou tenham sido aprovados em concurso para ingressar nos respectivos quadros.
+**Art**. 71. A promoção prevista na Lei nº 1.252, de 2 de dezembro de 1950, será concedida aos primeiros e segundos tenentes que atingirem dez (1) anos de serviço como sulbaternos, contado êste tempo da data da declaração de aspirante a oficial, ou da posse, se possuírem o Curso de Formação de Oficial, ou tenham sido aprovados em concurso para ingressar nos respectivos quadros.
 
 Parágrafo único. Para a promoção dos primeiros tenentes já beneficiados pela Lei nº 1.252, de 2 de dezembro de 1950, ao pôsto de capitão, será indispensável o interstício previsto no item III do art. 63.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Promoção de Praças</em>
+*Da Promoção de Praças*
 
-<strong>Art</strong>. 72. A promoção das praças da Polícia Militar do Distrito Federal é gradual e sucessiva, devendo atender ùnicamente ao princípio de merecimento.
+**Art**. 72. A promoção das praças da Polícia Militar do Distrito Federal é gradual e sucessiva, devendo atender ùnicamente ao princípio de merecimento.
 
 Parágrafo único. Sòmente poderão ser promovidas as praças que possuírem bom comportamento.
 
-<strong>Art</strong>. 73. Serão preenchidas pelo Comandante Geral as vagas de:
+**Art**. 73. Serão preenchidas pelo Comandante Geral as vagas de:
 
 I - Sargentos ajudantes e intendentes, primeiros e segundos sargentos, inclusive os enfermeiros, obedecida a classificação por contagem de pontos constantes da ficha de merecimento, pelos primeiros, segundos e terceiros sargentos respectivamente;
 
@@ -624,11 +622,11 @@ X - Corneteiros, clarins e tambores, mediante concurso entre os soldados do Corp
 
 § 4º A validade dos concursos é de um (1) ano, contado da data da publicação, no Boletim do Comando Geral, da respectiva classificação final.
 
-<strong>Art</strong>. 74. Aplicam-se as praças as disposições contidas no § 5º do artigo 68.
+**Art**. 74. Aplicam-se as praças as disposições contidas no § 5º do artigo 68.
 
-<strong>Art</strong>. 75. Terão a graduação de 2º sargento, os corneteiros-mores, clarim-mór e sargento-ferrador.
+**Art**. 75. Terão a graduação de 2º sargento, os corneteiros-mores, clarim-mór e sargento-ferrador.
 
-<strong>Art</strong>. 76. Para o necessário conhecimento do exercício da função inerente ao pôsto a que ascenderão, o Comandante Geral, poderá declarar:
+**Art**. 76. Para o necessário conhecimento do exercício da função inerente ao pôsto a que ascenderão, o Comandante Geral, poderá declarar:
 
 I - Terceiros sargentos estagiários, em números de cinco por Companhia ou Esquadrão, os cabos de esquadra aprovados nos cursos de candidatos a sargento, obedecida a classificação obtida;
 
@@ -636,11 +634,11 @@ II - Cabos estagiários, em número de seis (6) por Companhia ou Esquadrão, os 
 
 III - Terceiros sargentos enfermeiros estagiários, os cabos enfermeiros, que tenham mais de 6 meses no exercício da profissão.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Das dispensas do serviço</em>
+*Das dispensas do serviço*
 
-<strong>Art</strong>. 77. Dispensa do serviço significa autorização concedida ao militar da Corporação para afastamento temporário.
+**Art**. 77. Dispensa do serviço significa autorização concedida ao militar da Corporação para afastamento temporário.
 
 Parágrafo único. As dispensas do serviço são:
 
@@ -650,7 +648,7 @@ b) por luto, até oito (8) dias;
 
 c) comuns, até quinze dias.
 
-<strong>Art</strong>. 78. As dispensas serão concedidas pelos respectivos Comandantes, Chefes ou Diretores:
+**Art**. 78. As dispensas serão concedidas pelos respectivos Comandantes, Chefes ou Diretores:
 
 I - Aos oficiais e aspirantes a oficial, mediante solicitação por escrito;
 
@@ -666,13 +664,13 @@ a) a pedido, mediante motivo justificado; neste caso, o período correspondente 
 
 b) por prescrição médica, mediante o respectivo laudo.
 
-<strong>Art</strong>. 79. As dispensas poderão ser gozadas fora do Distrito Federal, com a permissão dos Comandantes do Corpo, Diretores do Serviço e Chefes de Repartição.
+**Art**. 79. As dispensas poderão ser gozadas fora do Distrito Federal, com a permissão dos Comandantes do Corpo, Diretores do Serviço e Chefes de Repartição.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Das Licenças</em>
+*Das Licenças*
 
-<strong>Art</strong>. 80. O militar da Polícia Militar do Distrito Federal tem direito à licença, pelos seguintes motivos:
+**Art**. 80. O militar da Polícia Militar do Distrito Federal tem direito à licença, pelos seguintes motivos:
 
 I - Tratamento da própria saúde;
 
@@ -684,7 +682,7 @@ IV - Aperfeiçoamento técnico ou realização de estudos no país ou no estrang
 
 V - Exercer função estranha ao serviço da Corporação.
 
-<strong>Art</strong>. 81. A concessão da licença compete:
+**Art**. 81. A concessão da licença compete:
 
 I - Ao Ministro de Estado da Justiça e Negócios Interiores, quando superior a um (1) ano;
 
@@ -692,7 +690,7 @@ II - Ao Comandante Geral, até um (1) ano.
 
 Parágrafo único. A licença poderá ser cassada, nos têrmos dêste Regulamento, pela autoridade que a houver concedido.
 
-<strong>Art</strong>. 82. As licenças não poderão exceder os prazos seguintes:
+**Art**. 82. As licenças não poderão exceder os prazos seguintes:
 
 I - Até um (1) ano:
 
@@ -704,43 +702,43 @@ c) para tratamento de interêsses particulares.
 
 II - O prazo necessário, nos demais casos, atendendo à natureza da concessão.
 
-Parágrafo único. As licenças concedidas as praças poderão ser prorrogadas, até o dôbro do prazo, no caso da alínea <em>a</em> do item I dêste artigo.
+Parágrafo único. As licenças concedidas as praças poderão ser prorrogadas, até o dôbro do prazo, no caso da alínea *a* do item I dêste artigo.
 
-<strong>Art</strong>. 83. Terminada a licença, o militar reassumirá, imediatamente, o exercício, salvo quando se tratar de conclusão de licença para tratamento da própria saúde, em que será prèviamente, submetido à inspeção médica.
+**Art**. 83. Terminada a licença, o militar reassumirá, imediatamente, o exercício, salvo quando se tratar de conclusão de licença para tratamento da própria saúde, em que será prèviamente, submetido à inspeção médica.
 
-<strong>Art</strong>. 84. O militar poderá desistir da licença, no todo ou em parte, observado o disposto no artigo anterior.
+**Art**. 84. O militar poderá desistir da licença, no todo ou em parte, observado o disposto no artigo anterior.
 
-<strong>Art</strong>. 85. Concedida a licença, exceto para tratamento da própria saúde, o militar deverá entrar no gôzo da mesma dentro de dez (10) dias, sob pena caducidida.
+**Art**. 85. Concedida a licença, exceto para tratamento da própria saúde, o militar deverá entrar no gôzo da mesma dentro de dez (10) dias, sob pena caducidida.
 
-<strong>Art</strong>. 86. A licença poderá ser gozada, onde o militar o desejar; o gôzo dela fora do Distrito Federal dependerá de permissão dos Comandantes de Corpo, Diretores de Serviço e Chefes de Repartição.
+**Art**. 86. A licença poderá ser gozada, onde o militar o desejar; o gôzo dela fora do Distrito Federal dependerá de permissão dos Comandantes de Corpo, Diretores de Serviço e Chefes de Repartição.
 
-<strong>Art</strong>. 87. A licença inicial e sua prorrogação serão concedidas:
+**Art**. 87. A licença inicial e sua prorrogação serão concedidas:
 
-I - <em>ex officio</em>, quando para tratamento da própria saúde;
+I - *ex officio*, quando para tratamento da própria saúde;
 
 II - a pedido, nos demais casos.
 
-<strong>Art</strong>. 83. No caso de tratamento da própria saúde é indispensável a inspeção médica, que se deverá fazer por uma junta médica da Corporação, quando o militar estiver no Distrito Federal; por uma junta médica militar, quando nos Estados e Territórios, e, excepcionalmente, por dois (2) médicos civis, onde não haja qualquer unidade, repartição ou estabelecimento militar.
+**Art**. 83. No caso de tratamento da própria saúde é indispensável a inspeção médica, que se deverá fazer por uma junta médica da Corporação, quando o militar estiver no Distrito Federal; por uma junta médica militar, quando nos Estados e Territórios, e, excepcionalmente, por dois (2) médicos civis, onde não haja qualquer unidade, repartição ou estabelecimento militar.
 
-<strong>Art</strong>. 89. O início da licença coincidirá com a data em que o militar fôr considerado doente, em inspeção médica, ainda que afastado anteriormente do exercício, por motivo de parte.
+**Art**. 89. O início da licença coincidirá com a data em que o militar fôr considerado doente, em inspeção médica, ainda que afastado anteriormente do exercício, por motivo de parte.
 
-<strong>Art</strong>. 90. A duração da licença será fixada em ata de inspeção de saúde.
+**Art**. 90. A duração da licença será fixada em ata de inspeção de saúde.
 
-<strong>Art</strong>. 91. Sob pena de cassação da licença e de punição disciplinar, o militar licenciado para tratamento da própria saúde, ou por motivo de doença em pessoa de sua família, não poderá exercer, remunerada ou gratuitamente, qualquer atividade que tenha caráter profissional.
+**Art**. 91. Sob pena de cassação da licença e de punição disciplinar, o militar licenciado para tratamento da própria saúde, ou por motivo de doença em pessoa de sua família, não poderá exercer, remunerada ou gratuitamente, qualquer atividade que tenha caráter profissional.
 
-<strong>Art</strong>. 92. No caso de cassação da licença, o militar que se encontrar no Distrito Federal deverá apresentar-se dentro de quarenta e oito (48) horas, se estiver fora, no prazo que lhe fôr marcado no ato da cassação.
+**Art**. 92. No caso de cassação da licença, o militar que se encontrar no Distrito Federal deverá apresentar-se dentro de quarenta e oito (48) horas, se estiver fora, no prazo que lhe fôr marcado no ato da cassação.
 
 § 1º Os prazos são contados da ciência ao interessado.
 
 § 2º O militar licenciado, para tratamento da própria saúde, que tiver a licença cassada, deverá, após a sua apresentação, submeter-se a nova inspeção de saúde; se continuar doente, baixará ao hospital da Corporação.
 
-<strong>Art</strong>. 93. As licenças poderão ser negadas ou suspensas, por motivo de segurança nacional ou de manutenção da ordem pública.
+**Art**. 93. As licenças poderão ser negadas ou suspensas, por motivo de segurança nacional ou de manutenção da ordem pública.
 
-<strong>Art</strong>. 94. O pedido de prorrogação deve ser apresentado antes de findo o prazo da licença anteriormente concedida.
+**Art**. 94. O pedido de prorrogação deve ser apresentado antes de findo o prazo da licença anteriormente concedida.
 
 Parágrafo único. As licenças concedidas dentro de sessenta (60) dias, contados da data da terminação da anterior, desde que pelo mesmo motivo, serão consideradas como prorrogação.
 
-<strong>Art</strong>. 95. Para obter licença, por motivo de doença em pessoa da sua família, o requerente deverá provar:
+**Art**. 95. Para obter licença, por motivo de doença em pessoa da sua família, o requerente deverá provar:
 
 I - grau de parentesco;
 
@@ -758,19 +756,19 @@ c) os pais;
 
 d) os irmãos.
 
-<strong>Art</strong>. 96. As licenças a que se refere os itens III a V do art. 80 sòmente poderão ser concedidas, não havendo prejuízo para o serviço, aos oficiais que contarem, pelo menos, cinco (5) anos de oficialato, computado o tempo de aspirante a oficial.
+**Art**. 96. As licenças a que se refere os itens III a V do art. 80 sòmente poderão ser concedidas, não havendo prejuízo para o serviço, aos oficiais que contarem, pelo menos, cinco (5) anos de oficialato, computado o tempo de aspirante a oficial.
 
-<strong>Art</strong>. 97. O oficial só poderá obter nova licença, nos casos dos itens III a V do art. 80, depois de decorridos cinco (5) anos da terminação da anterior.
+**Art**. 97. O oficial só poderá obter nova licença, nos casos dos itens III a V do art. 80, depois de decorridos cinco (5) anos da terminação da anterior.
 
-<strong>Art</strong>. 98. Além dos casos previstos neste Regulamento, o militar terá direito à licença especial de seis (6) meses, por decêncio completo de serviço, na forma da lei.
+**Art**. 98. Além dos casos previstos neste Regulamento, o militar terá direito à licença especial de seis (6) meses, por decêncio completo de serviço, na forma da lei.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Das Férias</em>
+*Das Férias*
 
-<strong>Art</strong>. 99. As férias são dispensas totais do serviço, concedidas anual e obrigatoriamente ao militar.
+**Art**. 99. As férias são dispensas totais do serviço, concedidas anual e obrigatoriamente ao militar.
 
-<strong>Art</strong>. 100. As férias devem corresponder ao ano civil em que foi prestado o serviço e tal circunstância constará do ato da concessão.
+**Art**. 100. As férias devem corresponder ao ano civil em que foi prestado o serviço e tal circunstância constará do ato da concessão.
 
 § 1º A praça sòmente terá direito a férias após o primeiro ano de ingresso, depois de findo o período de instrução e mediante escala organizada para êsse fim.
 
@@ -782,7 +780,7 @@ d) os irmãos.
 
 § 5º As férias escolares serão fixadas pelo Regulamento de Ensino.
 
-<strong>Art</strong>. 101. Os períodos de férias terão as seguintes durações:
+**Art**. 101. Os períodos de férias terão as seguintes durações:
 
 I - trinta (30) dias, para o oficial e aspirante a oficial;
 
@@ -790,15 +788,15 @@ II - vinte e cinco (25) dias, para o sargento;
 
 III - vinte (20) dias, para o cabo e soldado.
 
-<strong>Art</strong>. 102. As férias serão concedidas pelos Comandantes, Chefes e Diretores aos oficiais, aspirantes a oficial e praças, mediante escala organizada com a devida antecedência.
+**Art**. 102. As férias serão concedidas pelos Comandantes, Chefes e Diretores aos oficiais, aspirantes a oficial e praças, mediante escala organizada com a devida antecedência.
 
-<strong>Art</strong>. 103. As férias poderão ser gozadas onde o militar o desejar; o gôzo delas fora do Distrito Federal dependerá de permissão dos Comandantes de Corpo, Diretores de Serviço e Chefes de Repartição.
+**Art**. 103. As férias poderão ser gozadas onde o militar o desejar; o gôzo delas fora do Distrito Federal dependerá de permissão dos Comandantes de Corpo, Diretores de Serviço e Chefes de Repartição.
 
-<strong>SEÇÃO IX</strong>
+**SEÇÃO IX**
 
-<em>Da Demissão Voluntária e Baixa do Serviço</em>
+*Da Demissão Voluntária e Baixa do Serviço*
 
-<strong>Art</strong>. 104. Ao oficial é facultado pedir demissão do serviço ativo, quando contar mais de cinco (5) anos de oficialato.
+**Art**. 104. Ao oficial é facultado pedir demissão do serviço ativo, quando contar mais de cinco (5) anos de oficialato.
 
 § 1º A demissão só será concedida com menos de cinco (5) anos de oficialato, quando o oficial indenizar as despesas correspondentes à sua preparação e formação, calculadas pela Contadoria.
 
@@ -806,7 +804,7 @@ III - vinte (20) dias, para o cabo e soldado.
 
 § 3º A praça que estiver cumprindo punição disciplinar e requerer baixa, só a terá após o término da punição.
 
-<strong>Art</strong>. 105. A praça poderá pedir baixa do serviço, ao término de qualquer período do tempo de serviço constante do art. 17 ou ainda, em qualquer data, quando estiver servindo independente de engajamento.
+**Art**. 105. A praça poderá pedir baixa do serviço, ao término de qualquer período do tempo de serviço constante do art. 17 ou ainda, em qualquer data, quando estiver servindo independente de engajamento.
 
 § 1º Sòmente quando indenizar a Fazenda Nacional das dívidas, que haja contraído, poderá a praça obter baixa.
 
@@ -814,17 +812,17 @@ III - vinte (20) dias, para o cabo e soldado.
 
 § 3º A praça que estiver cumprindo punição disciplinar e requerer baixa, só terá após o término da punição.
 
-<strong>Art</strong>. 106. O Comandante Geral poderá excluir a praça que não demonstrar aptidão para a profissão policial militar ou que, mediante a justificação procedente, a requerer antes de terminar o período do tempo de serviço que se comprometeu a prestar.
+**Art**. 106. O Comandante Geral poderá excluir a praça que não demonstrar aptidão para a profissão policial militar ou que, mediante a justificação procedente, a requerer antes de terminar o período do tempo de serviço que se comprometeu a prestar.
 
-<strong>Art</strong>. 107. A praça excluída por conclusão do tempo de serviço será considerada reservista, se já não o fôr, e receberá um certificado de acôrdo com a legislação em vigor.
+**Art**. 107. A praça excluída por conclusão do tempo de serviço será considerada reservista, se já não o fôr, e receberá um certificado de acôrdo com a legislação em vigor.
 
-<strong>SEÇÃO X</strong>
+**SEÇÃO X**
 
-<em>Das Recompensas</em>
+*Das Recompensas*
 
-<strong>Art</strong>. 108. As recompensas constituem reconhecimento dos serviços prestados pelo militar.
+**Art**. 108. As recompensas constituem reconhecimento dos serviços prestados pelo militar.
 
-<strong>Art</strong>. 109. São recompensas:
+**Art**. 109. São recompensas:
 
 I - prêmios de honra ao mérito;
 
@@ -840,17 +838,17 @@ VI - quaisquer outras, de natureza especial, instruídas pelo Govêrno.
 
 Parágrafo único. Para recompensar os bons serviços prestados à Corporação, será concedida a medalha de mérito de que trata o Decreto número 5.904, de 24 de fevereiro de 1906, modificado pelo 7.901, de 17 de março de 1910.
 
-<strong>Art</strong>. 110. Serão louvados ou elogiados em Boletim, pelo Presidente da República, Ministro de Estado da Justiça e Negócios Interiores, Comandante Geral e demais Comandantes, Chefes e Diretores, os quais se portarem com reconhecimento, critério, inteligência e dedicação ao serviço.
+**Art**. 110. Serão louvados ou elogiados em Boletim, pelo Presidente da República, Ministro de Estado da Justiça e Negócios Interiores, Comandante Geral e demais Comandantes, Chefes e Diretores, os quais se portarem com reconhecimento, critério, inteligência e dedicação ao serviço.
 
 Parágrafo único. Os louvores e elogios individuais serão transcritos, na íntegra, nos assentamentos do militar que a êles fizer jus.
 
-<strong>Art</strong>. 111. As dispensas do serviço, especialmente concedidas, a juízo do Comandante e por prazo por êle estipulado, como recompensa de trabalhos de longa duração e muito penosos, executados pelo militar fora das horas de expediente normal, ou em serviços de socorros.
+**Art**. 111. As dispensas do serviço, especialmente concedidas, a juízo do Comandante e por prazo por êle estipulado, como recompensa de trabalhos de longa duração e muito penosos, executados pelo militar fora das horas de expediente normal, ou em serviços de socorros.
 
-<strong>SEÇÃO XI</strong>
+**SEÇÃO XI**
 
-<em>Do Direito de Petição</em>
+*Do Direito de Petição*
 
-<strong>Art</strong>. 112. É permitido ao militar da Polícia Militar do Distrito Federal, da ativa ou reformado, requerer ou representar, pedir reconsideração e recorrer, desde que o faça com urbanidade e em têrmos adequados, observadas as seguinte normas:
+**Art**. 112. É permitido ao militar da Polícia Militar do Distrito Federal, da ativa ou reformado, requerer ou representar, pedir reconsideração e recorrer, desde que o faça com urbanidade e em têrmos adequados, observadas as seguinte normas:
 
 I - tôda e qualquer petição deverá ser entregue no protocolo da corporação e dirigida à autoridade competente para decidí-la;
 
@@ -864,7 +862,7 @@ V - nenhum pedido de reconsideração, ou recurso, poderá ser encaminhado mais 
 
 VI - das decisões, ou atos, do Presidente da República caberá um único pedido de reconsideração, salvo do despacho denegatório de provimento de recurso, o qual determinará, na esfera administrativa, o encerramento definitivo do assunto.
 
-<strong>Art</strong>. 113. Só poderá ser recebida em protocolo, a petição quando:
+**Art**. 113. Só poderá ser recebida em protocolo, a petição quando:
 
 I - dirigida ao Presidente da República, tiver sido encaminhada por por ordem da mesma autoridade; ou do órgão competente para instruir e opinar sôbre o assunto;
 
@@ -878,55 +876,55 @@ V - assinada por procurador, estiver acompanhada do respectivo instrumento de ma
 
 IV - estiver conforme as normas disciplinares de respeito aos seus superiores hierárquicos.
 
-<strong>Art</strong>. 114. É proibido ao militar pleitear, como procurador ou intermediário, junto às repartições públicas, salvo quando se tratar de percepção de vencimentos, proventos e vantagens de parentes até segundo grau.
+**Art**. 114. É proibido ao militar pleitear, como procurador ou intermediário, junto às repartições públicas, salvo quando se tratar de percepção de vencimentos, proventos e vantagens de parentes até segundo grau.
 
-<strong>Art</strong>. 115. A correspondência dirigida ao Presidente da República ou ao Ministro de Estado da Justiça e Negócios Interiores, relativa a assunto de pessoal militar, quando encaminhada à Corporação, salvo ordem em contrário, será estudada e solucionada pelo seus órgãos próprios, cientes os interessados.
+**Art**. 115. A correspondência dirigida ao Presidente da República ou ao Ministro de Estado da Justiça e Negócios Interiores, relativa a assunto de pessoal militar, quando encaminhada à Corporação, salvo ordem em contrário, será estudada e solucionada pelo seus órgãos próprios, cientes os interessados.
 
-<strong>SEÇÃO XII</strong>
+**SEÇÃO XII**
 
-<em>Da Herança Mlitar</em>
+*Da Herança Mlitar*
 
-<strong>Art</strong>. 116. A herança militar é constituída pela pensão de montepio e meio sôldo, ou pelas pensões especiais.
+**Art**. 116. A herança militar é constituída pela pensão de montepio e meio sôldo, ou pelas pensões especiais.
 
-<strong>Art</strong>. 117. O oficial da ativa, ou reformado, contribuinte do montepio militar, deixará, por morte, a seus herdeiros, uma pensão de montepio e meio sôldo.
+**Art**. 117. O oficial da ativa, ou reformado, contribuinte do montepio militar, deixará, por morte, a seus herdeiros, uma pensão de montepio e meio sôldo.
 
-<strong>Art</strong>. 118. A praça da ativa, ou reformada, contribuinte do montepio militar, deixará, por morte, a seus herdeiros, uma pensão de montepio.
+**Art**. 118. A praça da ativa, ou reformada, contribuinte do montepio militar, deixará, por morte, a seus herdeiros, uma pensão de montepio.
 
-<strong>Art</strong>. 119. O militar falecido, em virtude de acidente de serviço, ou moléstia nêle adquirida, na defesa da ordem pública, ou em campanha, deixará a seus herdeiros uma pensão especial, na conformidade do disposto na legislação referente a Pensões Militares.
+**Art**. 119. O militar falecido, em virtude de acidente de serviço, ou moléstia nêle adquirida, na defesa da ordem pública, ou em campanha, deixará a seus herdeiros uma pensão especial, na conformidade do disposto na legislação referente a Pensões Militares.
 
-<strong>Art</strong>. 120. O oficial da ativa, contribuinte do montepio militar, que perder pôsto e patente, será considerado como falecido e seus herdeiros terão direito à pensão de montepio, correspondente à cota mensal de seus vencimentos.
+**Art**. 120. O oficial da ativa, contribuinte do montepio militar, que perder pôsto e patente, será considerado como falecido e seus herdeiros terão direito à pensão de montepio, correspondente à cota mensal de seus vencimentos.
 
 Parágrafo único. A praça contribuinte do montepio militar, expulsa e não relacionada como reservista, por efeito de sentença, ou em virtude de ato de autoridade competente, será tida como falecida, para efeito de montepio, e seus herdeiros terão direito à pensão correspondente à cota mensal descontada de seus vencimentos.
 
-<strong>Art</strong>. 121. Os herdeiros de pensão especial perdem direito às pensões de montepio e meio sôldo, quando ambas as pensões forem da mesma origem.
+**Art**. 121. Os herdeiros de pensão especial perdem direito às pensões de montepio e meio sôldo, quando ambas as pensões forem da mesma origem.
 
-<strong>Art</strong>. 122. A herança militar é isenta de qualquer taxa ou impôsto; não é penhorável nem responde por divida do seu instituidor; a sua percepção não constitui acumulação, ressalvada a restrição de que trata o artigo anterior.
+**Art**. 122. A herança militar é isenta de qualquer taxa ou impôsto; não é penhorável nem responde por divida do seu instituidor; a sua percepção não constitui acumulação, ressalvada a restrição de que trata o artigo anterior.
 
-<strong>Art</strong>. 123. A contribuição, o valor mensal, o direito e a habilitação às pensões reguladas na legislação referentes a Pensões Militares.
+**Art**. 123. A contribuição, o valor mensal, o direito e a habilitação às pensões reguladas na legislação referentes a Pensões Militares.
 
-<strong>SEÇÃO XIII</strong>
+**SEÇÃO XIII**
 
-<em>Do Fôro Especial</em>
+*Do Fôro Especial*
 
-<strong>Art</strong>. 124. Aplicam-se, em tôda plenitude, aos militares da Polícia Militares do Distrito Federal, o código da Justiça Militar que vigorarem para as Fôrças Armadas.
+**Art**. 124. Aplicam-se, em tôda plenitude, aos militares da Polícia Militares do Distrito Federal, o código da Justiça Militar que vigorarem para as Fôrças Armadas.
 
-<strong>Art</strong>. 125. Os processos serão formados e julgados pela Auditoria da Polícia Militar e Corpo de Bombeiros do Distrito Federal.
+**Art**. 125. Os processos serão formados e julgados pela Auditoria da Polícia Militar e Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 126. Dos julgamentos proferidos pela Auditoria da Polícia Militar e Corpo de Bombeiro do Distrito Federal, só caberá recurso para o Superior Tribunal Militar.
+**Art**. 126. Dos julgamentos proferidos pela Auditoria da Polícia Militar e Corpo de Bombeiro do Distrito Federal, só caberá recurso para o Superior Tribunal Militar.
 
-<strong>Art</strong>. 127. O militar que, no exercício de sua função ou em razão dela, fôr processado, terá direito à assistência judiciária.
+**Art**. 127. O militar que, no exercício de sua função ou em razão dela, fôr processado, terá direito à assistência judiciária.
 
 Parágrafo único. Ao Comandante Geral cabe baixar portaria determinando a prestação da assistência e encaminha-lá, alternadamente, a um dos advogados de ofício da Polícia Militar e Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 128. As justificações para as habilitações a pensões militares, relativas ao pessoal a Corporação, serão processadas na Auditoria da Polícia Militar e Corpo de Bombeiros do Distrito Federal.
+**Art**. 128. As justificações para as habilitações a pensões militares, relativas ao pessoal a Corporação, serão processadas na Auditoria da Polícia Militar e Corpo de Bombeiros do Distrito Federal.
 
-<strong>Art</strong>. 129. O militar da Corporação que, no exercício de sua função, fôr obrigado a usar de sua arma, em cumprimento da lei, na manutenção da ordem, ou em defesa de sua pessoa ou de outros, responderá sôlto a processo e concorrerá ao serviço, na forma da lei.
+**Art**. 129. O militar da Corporação que, no exercício de sua função, fôr obrigado a usar de sua arma, em cumprimento da lei, na manutenção da ordem, ou em defesa de sua pessoa ou de outros, responderá sôlto a processo e concorrerá ao serviço, na forma da lei.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO TEMPO DE SERVIÇO</em>
+*DO TEMPO DE SERVIÇO*
 
-<strong>Art</strong>. 130. O militar começa a contar tempo de serviço na Corporação a partir da data do ingresso ou da posse.
+**Art**. 130. O militar começa a contar tempo de serviço na Corporação a partir da data do ingresso ou da posse.
 
 Parágrafo único. Na apuração do tempo de serviço são usadas as seguintes expressões:
 
@@ -934,7 +932,7 @@ a) - tempo de efetivo serviço;
 
 b) - anos de serviço.
 
-<strong>Art</strong>. 131. Constituirá "tempo de efetivo serviço", a soma dos seguintes tempos:
+**Art**. 131. Constituirá "tempo de efetivo serviço", a soma dos seguintes tempos:
 
 I - espaço de tempo, contado dia a dia, entre a data inicial de ingresso ou posse e a data da exclusão ou da reforma, deduzidos os períodos não computáveis e deseprezados os acréscimos de arredondamento;
 
@@ -944,17 +942,17 @@ III - tempo dobrado de serviço em campanha;
 
 IV - tempo de curso acadêmico de nível superior, contado a razão de um (1) ano para cada período de cinco (5) anos de serviço na Corporação.
 
-<strong>Art</strong>. 132 - Constituirá "anos de serviço", para efeito de inatividade, a soma dos tempos constantes do artigo anterior, mais os acréscimos legais como da licença especial não gozada, contado pelo dôbro, e arredondamento de fração superior a seis (6) meses.
+**Art**. 132 - Constituirá "anos de serviço", para efeito de inatividade, a soma dos tempos constantes do artigo anterior, mais os acréscimos legais como da licença especial não gozada, contado pelo dôbro, e arredondamento de fração superior a seis (6) meses.
 
-<strong>Art</strong>. 133 - O tempo que o militar da corporação estiver afastado de suas funções, conseqüência de ferimentos recebidos em campanha, manutenção da ordem pública, doença adquirida em ato ou decorrente do serviço, será computado como se estivesse em exercício efetivo.
+**Art**. 133 - O tempo que o militar da corporação estiver afastado de suas funções, conseqüência de ferimentos recebidos em campanha, manutenção da ordem pública, doença adquirida em ato ou decorrente do serviço, será computado como se estivesse em exercício efetivo.
 
-<strong>Art</strong>. 134. Entende-se por tempo de serviço em campanha, o período de operações de guerra ou delas dependentes ou decorrentes; ou, ainda, em expedições fora do Distrito Federal para reprimir grave pertubação da ordem pública.
+**Art**. 134. Entende-se por tempo de serviço em campanha, o período de operações de guerra ou delas dependentes ou decorrentes; ou, ainda, em expedições fora do Distrito Federal para reprimir grave pertubação da ordem pública.
 
 § 1º A contagem do tempo de serviço pelo dôbro é determinada e, lei especial.
 
 § 2º Durante os períodos definidos neste artigo, será abonada ao militar, uma quantia correspondente ao terço do sôldo da tabela em vigor, denominado "têrço de campanha".
 
-<strong>Art</strong>. 135. Será contado para todos os efeitos o tempo:
+**Art**. 135. Será contado para todos os efeitos o tempo:
 
 I - de prisão por motivo de processo militar ou civil, o caso de sentença absolutária definitiva;
 
@@ -970,7 +968,7 @@ VI - de dispensas;
 
 VII - de férias.
 
-<strong>Art</strong>. 136 - Não será contado para efeito algum o tempo:
+**Art**. 136 - Não será contado para efeito algum o tempo:
 
 I - da licença para tratar de interêsse particulares, ou por motivo de doença, em pessoa da família;
 
@@ -980,11 +978,11 @@ III - da ausência ilegal;
 
 IV - de deserção.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS TRANSFERÊNCIAS, CLASSIFICAÇÕES, PERMUTAS E SUBSTITUICÕES</em>
+*DAS TRANSFERÊNCIAS, CLASSIFICAÇÕES, PERMUTAS E SUBSTITUICÕES*
 
-<strong>Art</strong>. 137. As transferências e classificações de cargo e funções dos militares serão feitas:
+**Art**. 137. As transferências e classificações de cargo e funções dos militares serão feitas:
 
 I - pelo Ministro de Estado da Justiça e Negócios Interiores, quando de oficiais superiores;
 
@@ -998,9 +996,9 @@ IV - pelos Comandantes de Corpo, Chefes e Diretores de Serviço, quando se trata
 
 § 2º As transferências serão feitas por conveniência do serviço ou da disciplina, a juízo do Comandante, quando assim se tornar necessários.
 
-<strong>Art</strong>. 138. As permutas entre os militares somente serão concedidas quando não houver prejuízo par ao serviço ou para a disciplina.
+**Art**. 138. As permutas entre os militares somente serão concedidas quando não houver prejuízo par ao serviço ou para a disciplina.
 
-<strong>Art</strong>. 139. As substituições temporárias são:
+**Art**. 139. As substituições temporárias são:
 
 I - Interinas, quando, ainda mantendo o cargo, o militar afastar-se de suas funções, por período previsto, superior a trinta (30) dias;
 
@@ -1010,7 +1008,7 @@ II - eventuais, nos casos de férias até trinta (30) dias e quando, por períod
 
 § 2º Nas substituições eventuais responde pelo cargo o substituto legal ou, à falta dêste, outro militar que fôr designado pela autoridade competente.
 
-<strong>Art</strong>. 140. As substituições temporárias entre oficiais serão efetuadas do seguinte modo:
+**Art**. 140. As substituições temporárias entre oficiais serão efetuadas do seguinte modo:
 
 I - A falta ou impedimento do Comandante Geral, responderá pelo expediente da Corporação o chefe do Estado Maior ou o do Gabinete, conforme a precedência hierárquica; nos demais casos, a substituição caberá ao oficial mais graduado, ou mais antigo, em serviço na Polícia Militar, de conformidade com as regras hierárquicas.
 
@@ -1022,7 +1020,7 @@ III - O ajudante, o comandante de companhia, esquadrão ou secção, por outro c
 
 § 2º As substituições de oficiais em cargo não citados neste artigo, são feitas a juízo do Comandante Geral, por proposta do Comandante de Corpo, Chefe, ou Diretor de Serviço.
 
-<strong>Art</strong>. 141. As substituições entre as praças serão efetuadas pela forma seguinte:
+**Art**. 141. As substituições entre as praças serão efetuadas pela forma seguinte:
 
 I - os sargentos ajudantes, ou intendentes, pelo 1º sargento mais antigo;
 
@@ -1030,21 +1028,21 @@ II - o sargento ajudante contra mestre de banda de música, pelo 1º sargento m�
 
 III - os demais sargentos serão substituídos por outros de graduação imediatamente abaixo, ou quando isso não fôr possível; pelo auxiliar designado.
 
-<strong>Art</strong>. 142. Não haverá substituição de oficial por praça, salvo quando ao aspirante a oficial que concorre as substituições como se fôsse segundo tenente.
+**Art**. 142. Não haverá substituição de oficial por praça, salvo quando ao aspirante a oficial que concorre as substituições como se fôsse segundo tenente.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DA INATIVIDADE</em>
+*DA INATIVIDADE*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>DA AGREGAÇÃO</em>
+*DA AGREGAÇÃO*
 
-<strong>Art</strong>. 143. A agregação é a situação de inatividade transitória do oficial que, embora pertencentes aos quadros da ativa da Corporação, não é computado na respectivas escalas numéricas do almanaque por diversos motivos.
+**Art**. 143. A agregação é a situação de inatividade transitória do oficial que, embora pertencentes aos quadros da ativa da Corporação, não é computado na respectivas escalas numéricas do almanaque por diversos motivos.
 
 Parágrafo único. Será também agregado, a despeito de continuar no serviço ativo, o oficial promovido sem satisfação dos requisitos legais, ou por excesso.
 
-<strong>Art</strong>. 144. São motivos de agregação:
+**Art**. 144. São motivos de agregação:
 
 I - incapacidade física temporária, para o serviço da Corporação, verificada em inspeção de saúde, após um (1) ano de licenciamento, ou de internação em hospital militar, por igual prazo;
 
@@ -1066,23 +1064,23 @@ IX - exercício de mandato público eletivo.
 
 Parágrafo único. O oficial não conta, para qualquer efeito, o tempo em que estiver agregado, pêlos motivos constantes dos itens II a VI dêste artigo.
 
-<strong>Art</strong>. 145. O Oficial desaparecido por mais de trinta (30) dias, quando no desempenho de qualquer serviço, em campanha, em viagem (terrestre, marítima ou aérea) ou em caso de calamidade pública) é considerado extraviado.
+**Art**. 145. O Oficial desaparecido por mais de trinta (30) dias, quando no desempenho de qualquer serviço, em campanha, em viagem (terrestre, marítima ou aérea) ou em caso de calamidade pública) é considerado extraviado.
 
-<strong>Art</strong>. 146. O período de agregação por moléstia é contado do dia imediato ao da conclusão de um (1) ano de licença para tratamento da própria saúde, ou de internamento em hospital militar.
+**Art**. 146. O período de agregação por moléstia é contado do dia imediato ao da conclusão de um (1) ano de licença para tratamento da própria saúde, ou de internamento em hospital militar.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DA REFORMA</em>
+*DA REFORMA*
 
-<strong>Art</strong>. 147. O militar da Polícia Militar do Distrito terá direito à reforma:
+**Art**. 147. O militar da Polícia Militar do Distrito terá direito à reforma:
 
 I - a pedido;
 
-II - "<em>ex</em>\-<em>officio</em>".
+II - "*ex*\-*officio*".
 
-<strong>Art</strong>. 148. A reforma a pedido só será concedida ao militar que contar mais de vinte e cinco (25) anos de efetivo serviço; essa concessão não lhe poderá ser negada, salvo se estiver respondendo a processo, ou prêso disciplinarmente.
+**Art**. 148. A reforma a pedido só será concedida ao militar que contar mais de vinte e cinco (25) anos de efetivo serviço; essa concessão não lhe poderá ser negada, salvo se estiver respondendo a processo, ou prêso disciplinarmente.
 
-<strong>Art</strong>. 149. Será reformado "<em>ex</em>\-<em>officio</em>" o militar:
+**Art**. 149. Será reformado "*ex*\-*officio*" o militar:
 
 I - julgado inválido e incapaz definitivamente para o serviço da Corporação;
 
@@ -1094,7 +1092,7 @@ IV - após dois (2) anos contínuos de licença para tratamento da própria saú
 
 V - nomeado para cargo civil de provimento efetivo.
 
-<strong>Art</strong>. 150. A incapacidade no caso do item I do artigo anterior poderá ser conseqüente a:
+**Art**. 150. A incapacidade no caso do item I do artigo anterior poderá ser conseqüente a:
 
 I - ferimento ou acidente na manutenção da ordem, em campanha, em ato de serviço ou em enfermidade contraída em conseqüência dessa situações;
 
@@ -1112,63 +1110,63 @@ III - tuberculose ativa, alienação mental, neoplasia malígna, cegueira, lepra
 
 § 5º Os casos de cardiopatia grave são os indicados na legislação em vigor.
 
-<strong>Art</strong>. 151. Terá direito à reforma, com o pôsto ou graduação imediata e o vencimento que lhe competir no novo pôsto, ou graduação, o militar amparado por leis especiais.
+**Art**. 151. Terá direito à reforma, com o pôsto ou graduação imediata e o vencimento que lhe competir no novo pôsto, ou graduação, o militar amparado por leis especiais.
 
-<strong>Art</strong>. 152. O militar que passou, ou venha a passar à inatividade, com direito de acesso ao pôsto ou graduação superior, em virtude de leis especiais, poderá ser promovido, até o pôsto de coronel que, em nenhuma hipótese será ultrapassado.
+**Art**. 152. O militar que passou, ou venha a passar à inatividade, com direito de acesso ao pôsto ou graduação superior, em virtude de leis especiais, poderá ser promovido, até o pôsto de coronel que, em nenhuma hipótese será ultrapassado.
 
-<strong>Art</strong>. 153. O militar que tendo pedido reforma com direito a ela, ou tenha sido incapacitado por um dos motivos especificados no artigo 150 e falecer antes de obtê-la, será considerado reformado, para todos os efeitos desde a data do óbito,
+**Art**. 153. O militar que tendo pedido reforma com direito a ela, ou tenha sido incapacitado por um dos motivos especificados no artigo 150 e falecer antes de obtê-la, será considerado reformado, para todos os efeitos desde a data do óbito,
 
-<strong>Art</strong>. 154. Os sargentos ajudantes e os primeiros sargentos que contem mais de vinte e cinco (25) anos de serviço e possuam o curso da Escola de Formação de Sargentos da Corporação, ou curso de especialidade equivalente ao de comandante de pelotão, serão reformados no pôsto de segundo tenente.
+**Art**. 154. Os sargentos ajudantes e os primeiros sargentos que contem mais de vinte e cinco (25) anos de serviço e possuam o curso da Escola de Formação de Sargentos da Corporação, ou curso de especialidade equivalente ao de comandante de pelotão, serão reformados no pôsto de segundo tenente.
 
 Parágrafo único. A equivalência dos cursos de especialidade ao de comandante de pelotão, poderá ser reconhecida em portaria do Ministro de Estado da Justiça e Negócios Interiores, mediante proposta do Comandante da Corporação.
 
-<strong>Art</strong>. 155. O pedido de reforma não exonera o militar dos seus deveres, enquanto não forem publicados o ato que a conceder e o de desligamento do serviço ativo.
+**Art**. 155. O pedido de reforma não exonera o militar dos seus deveres, enquanto não forem publicados o ato que a conceder e o de desligamento do serviço ativo.
 
-<strong>Art</strong>. 156. A passagem para a inatividade, voluntária ou <em>ex-officio</em>, não isenta o militar do pagamento da indenização dos prejuízos causados à Fazenda Nacional, ou a terceiros nem das pensões decorrentes de sentença judicial.
+**Art**. 156. A passagem para a inatividade, voluntária ou *ex-officio*, não isenta o militar do pagamento da indenização dos prejuízos causados à Fazenda Nacional, ou a terceiros nem das pensões decorrentes de sentença judicial.
 
-<strong>Art</strong>. 157. O militar, quando reformado, perceberá os proventos a título de abono provisório, de acôrdo com a legislação em vigor, até o registro da concessão, pelo Tribunal de Contas.
+**Art**. 157. O militar, quando reformado, perceberá os proventos a título de abono provisório, de acôrdo com a legislação em vigor, até o registro da concessão, pelo Tribunal de Contas.
 
-<strong>Art</strong>. 158. A reforma desobriga o militar definitivamente do serviço da Corporação.
+**Art**. 158. A reforma desobriga o militar definitivamente do serviço da Corporação.
 
-<strong>Art</strong>. 159. O militar reformado poderá ter residência onde lhe convier, mas deverá comunicá-la à Diretoria de Contabilidade.
+**Art**. 159. O militar reformado poderá ter residência onde lhe convier, mas deverá comunicá-la à Diretoria de Contabilidade.
 
-<strong>Art</strong>. 160. O direito à reforma, a pedido, pode ser suspenso, a juízo do Govêrno, na vigência do estado de guerra ou de mobilização, ou ainda no caso grave de perturbação da ordem pública.
+**Art**. 160. O direito à reforma, a pedido, pode ser suspenso, a juízo do Govêrno, na vigência do estado de guerra ou de mobilização, ou ainda no caso grave de perturbação da ordem pública.
 
-<strong>Art</strong>. 161. Perderá o direito à reforma:
+**Art**. 161. Perderá o direito à reforma:
 
 I - o militar que fôr condenado à pena privativa da liberdade, por tempo superior a dois (2) anos;
 
 II - a praça que deserdar, ou fôr expulsa da Corporação.
 
-<strong>Art</strong>. 162. A praça, depois de excluída com baixa do serviço, só poderá obter reforma se a pedir dentro do prazo de um (1) ano, contado da data da exclusão, e desde que fique provada a sua invalidez para o serviço da Corporação.
+**Art**. 162. A praça, depois de excluída com baixa do serviço, só poderá obter reforma se a pedir dentro do prazo de um (1) ano, contado da data da exclusão, e desde que fique provada a sua invalidez para o serviço da Corporação.
 
-<strong>Art</strong>. 163. A reforma do militar será concedida mediante:
+**Art**. 163. A reforma do militar será concedida mediante:
 
 I - decreto, quando em grau hierárquico de oficial;
 
 II - portaria ministerial, quando em grau hierárquico de praça.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DA REVERSÃO</em>
+*DA REVERSÃO*
 
-<strong>Art</strong>. 164. O militar agregado reverte ao serviço ativo, mediante decreto, cessado o motivo que determinou a agregação.
+**Art**. 164. O militar agregado reverte ao serviço ativo, mediante decreto, cessado o motivo que determinou a agregação.
 
 § 1º O militar que reverteu a atividade figurará em seu quadro, sem número, em colocação homóloga ao que lhe seguir em antigüidade e será incluído na escala numérica na primeira vaga que se verificar em seu quadro e pôsto.
 
 § 2º O militar que reverter, enquanto aguardar vaga numérica de seu quadro e pôsto, perceberá vencimentos e vantagens como adido.
 
-<strong>Art</strong>. 165. O militar reformado em virtude de sentença, somente por igual decisão judiciária poderá reverter à situação anterior, com ressarcimento dos prejuízos porventura sofridos.
+**Art**. 165. O militar reformado em virtude de sentença, somente por igual decisão judiciária poderá reverter à situação anterior, com ressarcimento dos prejuízos porventura sofridos.
 
-<strong>Art</strong>. 166. O militar reformado que, em virtude de lei ou sentença, reverter ao serviço ativo, deverá ser submetido à inspeção de saúde; se fôr julgado incapaz para o serviço da Corporação, será novamente reformado caso contrário, proceder-se-á de acôrdo com o disposto no § 1º do artigo 164.
+**Art**. 166. O militar reformado que, em virtude de lei ou sentença, reverter ao serviço ativo, deverá ser submetido à inspeção de saúde; se fôr julgado incapaz para o serviço da Corporação, será novamente reformado caso contrário, proceder-se-á de acôrdo com o disposto no § 1º do artigo 164.
 
-<strong>Art</strong>. 167. A reversão de praças, excluídas no interêsse do serviço ou por motivos disciplinares, dependerá de processo administrativo.
+**Art**. 167. A reversão de praças, excluídas no interêsse do serviço ou por motivos disciplinares, dependerá de processo administrativo.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>DO FUNERAL</em>
+*DO FUNERAL*
 
-<strong>Art</strong>. 168. Ao militar, que falecer, serão prestadas as honras fúnebres constantes do Regulamento de Continências.
+**Art**. 168. Ao militar, que falecer, serão prestadas as honras fúnebres constantes do Regulamento de Continências.
 
 Parágrafo único. As honras fúnebres poderão ser dispensadas:
 
@@ -1176,9 +1174,9 @@ a) por escrito do militar;
 
 b) pela família do morto.
 
-<strong>Art</strong>. 169. Depois de construído o Mausoléu da Corporação, o militar falecido em conseqüência de desastre em serviço, nele será sepultado, desde que haja aquiescência de sua família.
+**Art**. 169. Depois de construído o Mausoléu da Corporação, o militar falecido em conseqüência de desastre em serviço, nele será sepultado, desde que haja aquiescência de sua família.
 
-<strong>Art</strong>. 170. À família do morto, como auxílio para as despesas do sepultamento, será paga uma quantia igual ao vencimento mensal do militar da ativa, do mesmo pôsto ou graduação, mas nunca inferior ao que percebem os cabos.
+**Art**. 170. À família do morto, como auxílio para as despesas do sepultamento, será paga uma quantia igual ao vencimento mensal do militar da ativa, do mesmo pôsto ou graduação, mas nunca inferior ao que percebem os cabos.
 
 § 1º Mediante comunicação do falecimento, ou apresentação do atestado de óbito, o pagamento do auxílio far-se-á imediatamente, sem formalidade, antes do sepultamento, a parente idôneo, ou a pessoa incumbida pela Corporação para providenciar o enterro.
 
@@ -1186,19 +1184,19 @@ b) pela família do morto.
 
 § 3º Quando a pessoa que houver pago as despesas de sepultamento não as reclamar, ou recebê-las, deixando saldo, nos têrmos do parágrafo anterior, será pago à família, conforme o caso, o auxílio total ou o seu remanescente.
 
-<strong>Art</strong>. 171. Se as despesas do sepultamento forem pagas pela Corporação, atendendo a motivos relevantes, o auxílio não será devido.
+**Art**. 171. Se as despesas do sepultamento forem pagas pela Corporação, atendendo a motivos relevantes, o auxílio não será devido.
 
-<strong>Art</strong>. 172. Cabe à Corporação tomar as providências para o sepultamento do militar, quando a família não o fizer em tempo oportuno.
+**Art**. 172. Cabe à Corporação tomar as providências para o sepultamento do militar, quando a família não o fizer em tempo oportuno.
 
 Parágrafo único. Caberá, sempre, à Corporação, as providências para o enterro do militar falecido em conseqüência de desastre em serviço.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>DO ESPÓLIO</em>
+*DO ESPÓLIO*
 
-<strong>Art</strong>. 173. Para efeito dêste Regulamento, são considerados como espólio os bens particulares deixados na Corporação pelo militar falecido, desaparecido ou considerado desertor.
+**Art**. 173. Para efeito dêste Regulamento, são considerados como espólio os bens particulares deixados na Corporação pelo militar falecido, desaparecido ou considerado desertor.
 
-<strong>Art</strong>. 174. Para arrolar o espólio será nomeada, pelo Comandante, Chefe ou Diretor, uma "Comissão de Espólio" composta, em princípio de três (3) oficiais, sendo presidente o mais antigo e escrivão, o mais moderno.
+**Art**. 174. Para arrolar o espólio será nomeada, pelo Comandante, Chefe ou Diretor, uma "Comissão de Espólio" composta, em princípio de três (3) oficiais, sendo presidente o mais antigo e escrivão, o mais moderno.
 
 § 1º Os bens pertencentes à Fazenda Nacional serão arrolados em separado.
 
@@ -1208,23 +1206,23 @@ Parágrafo único. Caberá, sempre, à Corporação, as providências para o ent
 
 § 4º O Intendente recolherá os valores e objetos e encaminhará, a primeira via do arrolamento ao Subcomandante, para a sua publicação em boletim.
 
-<strong>Art</strong>. 175. Os bens não reclamados pelos herdeiros dentro de trinta (30) dias, serão vendidos em leilão, com assistência do Intendente; o respectivo produto ficará à disposição dos herdeiros durante cinco (5) anos.
+**Art**. 175. Os bens não reclamados pelos herdeiros dentro de trinta (30) dias, serão vendidos em leilão, com assistência do Intendente; o respectivo produto ficará à disposição dos herdeiros durante cinco (5) anos.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Dos órgãos</em>
+*Dos órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DO COMANDO GERAL</em>
+*DO COMANDO GERAL*
 
-<strong>Art</strong>. 176. Ao Comandante da Corporação compete, na forma das leis e regulamentos: executar as decisões do Govêrno Federal; assegurar o desenvolvimento uniforme das instrução e a preparação eficiente da Corporação para o desempenho da missões que lhe foram atribuídas; manter a disciplina e prover a execução dos serviços; zelar pela boa marcha dos trabalhos administrativos e criteriosa gestão dos fundos e materiais do Estado.
+**Art**. 176. Ao Comandante da Corporação compete, na forma das leis e regulamentos: executar as decisões do Govêrno Federal; assegurar o desenvolvimento uniforme das instrução e a preparação eficiente da Corporação para o desempenho da missões que lhe foram atribuídas; manter a disciplina e prover a execução dos serviços; zelar pela boa marcha dos trabalhos administrativos e criteriosa gestão dos fundos e materiais do Estado.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>Do Gabinete do Comando Geral</em>
+*Do Gabinete do Comando Geral*
 
-<strong>Art</strong>. 177. Ao Gabinete do Comando Geral, como órgão de planejamento, estudo, contrôle e assessor do Comando, compete:
+**Art**. 177. Ao Gabinete do Comando Geral, como órgão de planejamento, estudo, contrôle e assessor do Comando, compete:
 
 I - Preparar as sínteses necessárias às decisões do Comandante Geral, sôbre assuntos estudados pelos órgãos competentes;
 
@@ -1236,11 +1234,11 @@ IV - Manter ligações como os diferentes órgãos da corporação;
 
 V - Cumprir outras missões determinadas pelo Comandante Geral.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Do Estado-Maior</em>
+*Do Estado-Maior*
 
-<strong>Art</strong>. 178. O Estado Maior, com órgão do Comando Geral, destina-se a preparar os elementos necessários às decisões do Comandante Geral e de coordenar a sua execução, competindo-lhe:
+**Art**. 178. O Estado Maior, com órgão do Comando Geral, destina-se a preparar os elementos necessários às decisões do Comandante Geral e de coordenar a sua execução, competindo-lhe:
 
 I - Obter os elementos e elaborar os estudos necessários às decisões do Comandante Geral, encarregando-se, ainda de transmitir essas decisões, aos órgãos subordinados;
 
@@ -1258,11 +1256,11 @@ VII - Apresentar estudos relacionados com a segurança pública e manutenção d
 
 VIII - Agir afim de que a corporação se mantém em condições de cumprir as missões militares que me forem determinadas pelas autoridades competentes.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Ajudância Geral</em>
+*Da Ajudância Geral*
 
-<strong>Art</strong>. 179. A Ajudância Geral, como órgão de Comandante Geral, destina-se a tratar das questões de caráter geral e individual relativos ao pessoal, competindo-lhe:
+**Art**. 179. A Ajudância Geral, como órgão de Comandante Geral, destina-se a tratar das questões de caráter geral e individual relativos ao pessoal, competindo-lhe:
 
 I - Apresentar diariamente, ao Comandante Geral o Boletim do Quartel General;
 
@@ -1280,11 +1278,11 @@ VII - Preparar todo o expediente relativo a pessoal e que não esteja atribuído
 
 VIII - Supervisionar o relato de todos os processos que sejam de sua competência.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Diretoria de Ensino</em>
+*Da Diretoria de Ensino*
 
-<strong>Art</strong>. 180. A Diretoria de Ensino é o órgão que superintendente, orienta, coordena e fiscalizas atividades de instrução e ensino na Corporação.
+**Art**. 180. A Diretoria de Ensino é o órgão que superintendente, orienta, coordena e fiscalizas atividades de instrução e ensino na Corporação.
 
 I - Curso d Aperfeiçoamento de Oficias;
 
@@ -1298,13 +1296,13 @@ V - O Curso de Aperfeiçoamento de Sargentos;
 
 VI - Os Cursos de Especialidades.
 
-<strong>SEÇÃO VI</strong>
+**SEÇÃO VI**
 
-<em>Da Diretoria de Independência</em>
+*Da Diretoria de Independência*
 
-<strong>Art</strong>. 182. A Diretoria de Intendência é o órgão destinado a suprir as necessidades materiais da Corporação e controlar a situação financeira, conforme orçamento anual.
+**Art**. 182. A Diretoria de Intendência é o órgão destinado a suprir as necessidades materiais da Corporação e controlar a situação financeira, conforme orçamento anual.
 
-<strong>Art</strong>. 183. A Diretoria de Intendência para o cumprimento de sua missão, compor-se de:
+**Art**. 183. A Diretoria de Intendência para o cumprimento de sua missão, compor-se de:
 
 I - Subdiretoria de Finanças;
 
@@ -1314,35 +1312,35 @@ II - Subdiretoria de Suprimentos.
 
 § 2º Á Subdiretoria de Suprimentos compete as providências indispensáveis à aquisição de todo o material necessário ao serviço da Corporação.
 
-<strong>SEÇÃO VII</strong>
+**SEÇÃO VII**
 
-<em>Da Diretoria de Saúde</em>
+*Da Diretoria de Saúde*
 
-<strong>Art</strong>. 184. A Diretoria de Saúde é o órgão destinado a preservar e manter o estado hígido do pessoal da Corporação, aplicado os recursos de higiene e terapêutica necessários à consecução desse fim.
+**Art**. 184. A Diretoria de Saúde é o órgão destinado a preservar e manter o estado hígido do pessoal da Corporação, aplicado os recursos de higiene e terapêutica necessários à consecução desse fim.
 
 Parágrafo único - Cabe também a diretoria  de Saúde a hospitalização e tratamento dos dependentes dos oficias e praças da Corporação, conforme a legislação em vigor.
 
-<strong>SEÇÃO VIII</strong>
+**SEÇÃO VIII**
 
-<em>Do Serviço Reembolsável</em>
+*Do Serviço Reembolsável*
 
-<strong>Art</strong>. 185. O Serviço Reembolsável é destinado a suprir de gêneros, viveres e outros alimentos necessários, bem como de peças de roupa, calçados e utensílios domésticos, os oficiais, praças e seus dependentes.
+**Art**. 185. O Serviço Reembolsável é destinado a suprir de gêneros, viveres e outros alimentos necessários, bem como de peças de roupa, calçados e utensílios domésticos, os oficiais, praças e seus dependentes.
 
-<strong>Art</strong>. 186. O Serviço Reembolsável disporá do número suficiente de armazéns de modo a atender aos Corpos e demais órgãos.
+**Art**. 186. O Serviço Reembolsável disporá do número suficiente de armazéns de modo a atender aos Corpos e demais órgãos.
 
-<strong>SEÇÃO IX</strong>
+**SEÇÃO IX**
 
-<em>Serviço Social</em>
+*Serviço Social*
 
-<strong>Art</strong>. 187. O Serviço Social cabe proporcionar condições sociais favoráveis ao pleno cumprimento das atribuições do pessoal; assegurar crescente produtividade individual e coletiva; preservar o fortalecimento moral, espiritual e físico do pessoal da Corporação.
+**Art**. 187. O Serviço Social cabe proporcionar condições sociais favoráveis ao pleno cumprimento das atribuições do pessoal; assegurar crescente produtividade individual e coletiva; preservar o fortalecimento moral, espiritual e físico do pessoal da Corporação.
 
-<strong>Art</strong>. 188. O Serviço Social estender-se-á tanto quanto possível, aos dependentes do pessoal da Corporação conforme a legislação em vigor.
+**Art**. 188. O Serviço Social estender-se-á tanto quanto possível, aos dependentes do pessoal da Corporação conforme a legislação em vigor.
 
-<strong>SEÇÃO X</strong>
+**SEÇÃO X**
 
-<em>Conselho Administrativo</em>
+*Conselho Administrativo*
 
-<strong>Art</strong>. 189. O Componente Geral disporá ainda, para exercer a sua missão, de um Conselho Administrativo, ao qual cabe providenciar sôbre o que fôr necessário a vida do efetivo orgânico da Corporação.
+**Art**. 189. O Componente Geral disporá ainda, para exercer a sua missão, de um Conselho Administrativo, ao qual cabe providenciar sôbre o que fôr necessário a vida do efetivo orgânico da Corporação.
 
 § 1º O conselho de Administração compõe-se do pessoal seguinte:
 
@@ -1360,7 +1358,7 @@ d) Três (3) Comandante de Corpo, substituídos trimestralmente.
 
 § 4º O Conselho fiscalizará a aplicação de tôda a receita e despesa da Corporação, para o que lhe serão presentes, mensalmente, os respectivos balancetes e o da Caixa de Economias.
 
-<strong>Art</strong>. 190. O Conselho reunir-se-á, ordinariamente, uma vez por mês; extraordinariamente, se o Comandante Geral julgar necessário, ou, ainda, quando solicitado pela maioria dos seus membros.
+**Art**. 190. O Conselho reunir-se-á, ordinariamente, uma vez por mês; extraordinariamente, se o Comandante Geral julgar necessário, ou, ainda, quando solicitado pela maioria dos seus membros.
 
 § 1º Para que o Conselho possa deliberar bastará que se ache presente a maioria de seus membros, inclusive o Presidente, que terá o voto ordinário e, no caso de empate, mais o de qualidade.
 
@@ -1372,13 +1370,13 @@ d) Três (3) Comandante de Corpo, substituídos trimestralmente.
 
 § 5º O Conselho julgará também a comprovação das coletas de preços, para as aquisições de material feitas independentemente de concorrência.
 
-<strong>SEÇÃO XI</strong>
+**SEÇÃO XI**
 
-<em>Da Comissão de Promoções</em>
+*Da Comissão de Promoções*
 
-<strong>Art</strong>. 191. A Comissão de Promoções é órgão consultivo da Corporação; tem por finalidade assistir ao Comandante Geral na seleção dos oficiais candidatos à promoção aos diversos postos da hierarquia, e emitir parecer sôbre as questões concernentes à carreira militar.
+**Art**. 191. A Comissão de Promoções é órgão consultivo da Corporação; tem por finalidade assistir ao Comandante Geral na seleção dos oficiais candidatos à promoção aos diversos postos da hierarquia, e emitir parecer sôbre as questões concernentes à carreira militar.
 
-<strong>Art</strong>. 192. A Comissão de Promoções, presidida pelo Comandante Geral, compor-se-á do Chefe do Estado Maior, do Ajudante Geral e de mais quatro (4) Tenentes-Coronéis, substituídos, anualmente na primeira quinzena de janeiro.
+**Art**. 192. A Comissão de Promoções, presidida pelo Comandante Geral, compor-se-á do Chefe do Estado Maior, do Ajudante Geral e de mais quatro (4) Tenentes-Coronéis, substituídos, anualmente na primeira quinzena de janeiro.
 
 § 1º Os membros nomeados em caráter temporário poderão ser reconduzidos na falta absoluta de outros que os substituam.
 
@@ -1390,7 +1388,7 @@ d) Três (3) Comandante de Corpo, substituídos trimestralmente.
 
 § 5º Das reuniões da Comissão de Promoções serão lavradas atas, em livro próprio, assinadas por todos os seus membros presentes.
 
-<strong>Art</strong>. 193. Compete precipuamente à comissão de Promoções:
+**Art**. 193. Compete precipuamente à comissão de Promoções:
 
 I - organizar, em janeiro de cada ano, os Quadros de Acesso para as promoções;
 
@@ -1400,9 +1398,9 @@ III - fazer a escolha dos oficiais para comporem a lista para promoção por mer
 
 IV - emitir parecer sôbre os recursos e quaisquer dúvidas relacionadas com a promoção, a agregação, o cômputo de tempo de serviço, a classificação em Almanaque, a reversão e outros assuntos correlatos.
 
-<strong>Art</strong>. 194. O Expediente de promoção de oficiais será encaminhado, pelo Comandante Geral, ao Ministro de Estado da Justiça e Negócios Interiores, nos meses de abril, agôsto e dezembro, caso existam vagas a preencher.
+**Art**. 194. O Expediente de promoção de oficiais será encaminhado, pelo Comandante Geral, ao Ministro de Estado da Justiça e Negócios Interiores, nos meses de abril, agôsto e dezembro, caso existam vagas a preencher.
 
-<strong>Art</strong>. 195. O expediente de promoção constará:
+**Art**. 195. O expediente de promoção constará:
 
 I - quando se tratar de acesso por antigüidade, da cópia:
 
@@ -1422,19 +1420,19 @@ c) da ata de inspenção de saúde;
 
 d) da ficha onde estejam enumerados os títulos que recomendam o oficial e onde esteja lançado um juízo sintético que ponha em relêvo as suas principais qualidades.
 
-<strong>Art</strong>. 196. Subordinada ao Presidente da Comissão de Promoções funcionará a Secretaria da Comissão, dirigida por um major, auxiliado pelo pessoal necessário e fixado no respectivo regulamento, com o fim de preparar todos os meios necessários ao perfeito funcionamento dos trabalhos.
+**Art**. 196. Subordinada ao Presidente da Comissão de Promoções funcionará a Secretaria da Comissão, dirigida por um major, auxiliado pelo pessoal necessário e fixado no respectivo regulamento, com o fim de preparar todos os meios necessários ao perfeito funcionamento dos trabalhos.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Das Disposições Finais e Transitórias</em>
+*Das Disposições Finais e Transitórias*
 
-<strong>Art</strong>. 197. Os médicos radiologista, tisiologista, óculo-otorino-laringologista e bacteriologista, terão o pôsto de Capitão sem direito a acesso.
+**Art**. 197. Os médicos radiologista, tisiologista, óculo-otorino-laringologista e bacteriologista, terão o pôsto de Capitão sem direito a acesso.
 
-<strong>Art</strong>. 198. O atual Corpo de Serviços Auxiliares passa a denominar-se Batalhão de Serviços.
+**Art**. 198. O atual Corpo de Serviços Auxiliares passa a denominar-se Batalhão de Serviços.
 
-<strong>Art</strong>. 199. As atuais Intendência Geral e Contadoria, passam a denominar-se Diretoria de Intendência, constituída de Subdiretoria de Finanças e Subdiretoria de Suprimentos.
+**Art**. 199. As atuais Intendência Geral e Contadoria, passam a denominar-se Diretoria de Intendência, constituída de Subdiretoria de Finanças e Subdiretoria de Suprimentos.
 
-<strong>Art</strong>. 200. O Comandante Geral encaminhará ao Ministro de Estado da Justiça e Negócios Interiores, no prazo de seis (6) meses os seguintes projetos de regulamentos:
+**Art**. 200. O Comandante Geral encaminhará ao Ministro de Estado da Justiça e Negócios Interiores, no prazo de seis (6) meses os seguintes projetos de regulamentos:
 
 I - Interno dos Serviços Gerais;
 
@@ -1448,8 +1446,8 @@ V - das Diretorias e dos Serviços;
 
 VI - do Conselho Administrativo e da Comissão de Promoções.
 
-<strong>Art</strong>. 201. Êste regulamento entra em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 201. Êste regulamento entra em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 7 de março de 1957.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

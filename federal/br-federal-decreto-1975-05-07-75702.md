@@ -1,5 +1,3 @@
-###DEC-075702-0-000-07-05-1975@@@
-
 DECRETO Nº 75.702, DE 7 DE MAIO DE 1975.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras Nossa Senhora de Sion, mantida pela Fundação Cultural Campanha da Princesa, com sede na cidade de Campanha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-050848-0-000-24-06-1961@@@
-
 Decreto nº 50.848, de 24 de junho de 1961.
 
 Cria o Consulado honorário do Brasil em Nova Lisboa, Província de Angola.

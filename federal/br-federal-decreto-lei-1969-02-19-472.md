@@ -1,7 +1,3 @@
-1
-
-###DEL-000472-0-000-19-02-1969@@@
-
 DECRETO-LEI Nº 472, DE 19 DE FEVEREIRO DE 1969
 
 Autoriza o Govêrno do Estado do Rio Grande do Sul a dar garantia a um financiamento a ser feito pela General Motors ScotIand Limited ao Banco do Estado do Rio Grande do Sul S. A.

@@ -1,5 +1,3 @@
-###DEL-000314-0-000-13-03-1967@@@
-
 DECRETO-LEI Nº 314, DE 13 DE MARÇO DE 1967
 
 Define os crimes contra a segurança nacional, a ordem política e social e dá outras providências.

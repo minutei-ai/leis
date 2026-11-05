@@ -1,5 +1,3 @@
-###DEC-076847-0-000-17-12-1975@@@
-
 DECRETO Nº 76.847, DE 17 DE DEZEMBRO DE 1975.
 
 Autoriza o funcionamento da habilitação plena em Biologia, da Faculdade de Filosofia, Ciências e Letras Nossa Senhora do Patrocínio, com sede na cidade de Itu, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001980-0-023\-27-09-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.980-23, DE 27 de setembro DE 2000.
 
 Dispõe sobre as relações financeiras entre a União e o Banco Central do Brasil, e dá outras providências.

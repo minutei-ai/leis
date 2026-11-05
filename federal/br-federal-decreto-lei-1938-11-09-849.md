@@ -14,7 +14,75 @@ Tolerância
 
 Para mais ou para menos
 
-<table><tbody><tr><td>Metal</td><td>Valor</td><td>Peso</td><td>Diâmetro</td><td>Composição</td><td>No peso</td><td>Na composição</td></tr><tr><td></td><td>Rs.</td><td>Grs.</td><td>Milímetros</td><td>Milésimos</td><td>Gramas</td><td>Milésimos</td></tr><tr><td>Cupro</td><td>$400</td><td>5,500</td><td>23</td><td></td><td>0,100</td><td></td></tr><tr><td></td><td>$300</td><td>4,500</td><td>21</td><td>750 cupro</td><td>0,100</td><td>10</td></tr><tr><td>Niquel</td><td>$200</td><td>3,500</td><td>19</td><td>250 niquel</td><td>0,070</td><td>10</td></tr><tr><td></td><td>$100</td><td>2,500</td><td>17</td><td></td><td>0,070</td><td></td></tr></tbody></table>
+Metal
+
+Valor
+
+Peso
+
+Diâmetro
+
+Composição
+
+No peso
+
+Na composição
+
+Rs.
+
+Grs.
+
+Milímetros
+
+Milésimos
+
+Gramas
+
+Milésimos
+
+Cupro
+
+$400
+
+5,500
+
+23
+
+0,100
+
+$300
+
+4,500
+
+21
+
+750 cupro
+
+0,100
+
+10
+
+Niquel
+
+$200
+
+3,500
+
+19
+
+250 niquel
+
+0,070
+
+10
+
+$100
+
+2,500
+
+17
+
+0,070
 
 Art. 3º O contorno das moedas obedecerá a uma, linha sinuosa regular, acompanhando a sua circunferência.
 

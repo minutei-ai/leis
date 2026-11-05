@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=57355)
-
 # LEI Nº 11.980, DE 06 DE SETEMBRO DE 2005
 
 ## (PL 2/2003 - Governador)

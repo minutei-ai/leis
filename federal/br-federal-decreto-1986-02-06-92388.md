@@ -1,5 +1,3 @@
-###DEC-092388-0-000-06-02-1986@@@
-
 DECRETO Nº 92.388, DE 06 DE FEVEREIRO DE 1986
 
 Autoriza o funcionamento de habilitações do curso de Pedagogia da Faculdade de Filosofia, Ciências e Letras de Carangola, em Minas Gerais.

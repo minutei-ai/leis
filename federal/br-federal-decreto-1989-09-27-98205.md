@@ -1,7 +1,3 @@
-1
-
-###DEC-098205-0-000-27-09-1989@@@
-
 DECRETO Nº 98.205, DE 27 DE SETEMBRO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado “PIRIPIRY”, situado no Município de Beruri, Estado do Amazonas, e dá outras providências.

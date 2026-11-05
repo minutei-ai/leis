@@ -1,4 +1,5 @@
-LEI Nº 22.649, DE 30 DE ABRIL DE 2024<br>
+LEI Nº 22.649, DE 30 DE ABRIL DE 2024
+
 \- [Vide Decreto nº 10.588, de 6-12-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110089) (Implanta o adicional no Bônus por Resultado de que trata o art. 7º da Lei nº 22.649, de 30 de abril de 2024).
 
 Autoriza o Chefe do Poder Executivo a instituir na Secretaria de Estado da Educação o Bônus por Resultado no ano de 2024.

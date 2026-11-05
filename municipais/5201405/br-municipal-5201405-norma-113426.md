@@ -4,7 +4,8 @@ Dispõe sobre o Plano de Cargos, Carreiras e Vencimentos dos Servidores do Quadr
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º. Esta Lei institui o Plano de Cargos, Carreiras e Vencimentos do Quadro Permanente de Servidores da Secretaria Municipal de Saúde de Aparecida de Goiânia, sob o regime jurídico estatutário, previsto na Lei Complementar nº 003, de 28 de Dezembro de 2001, e altera a Lei Municipal nº. 2.229 de 18 de Dezembro de 2001.
@@ -87,7 +88,8 @@ Anexo VIII A-D – Ficha de Avaliação de Desempenho;
 
 §    3º. A descrição detalhada dos cargos do quadro permanente será objeto de Decreto do Chefe do Poder Executivo, podendo os cargos serem desdobrados em funções, sem diferenciação de vencimentos. 
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ESTRUTURA DA CARREIRA
 
 Art. 7º. Integram a estrutura da carreira prevista neste Plano os seguintes cargos, respectivos Graus e Referências:
@@ -106,7 +108,8 @@ V – Auditor em Saúde – Grau V, Referências A a Q;
 
 § 2º. A proporcionalidade será de 65% do grau II para o grau I, 65% do grau III para o grau II, 100% do grau III para o grau IV e 100% do grau IV para o grau V;
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROVIMENTO DOS CARGOS
 
 Art. 8º. Os cargos do Quadro Permanente serão providos mediante concurso público de provas ou de provas e títulos, conforme disposições do Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia e legislação complementar.
@@ -115,10 +118,12 @@ Art. 8º. Os cargos do Quadro Permanente serão providos mediante concurso públ
 
 §    2o - No edital de convocação do concurso público, poderá ser estipulado quantitativo de cargos específicos relativos a determinadas funções e/ou especialização, com a correspondente exigência de comprovação, como requisito de provimento e exercício, de que o candidato tenha formação, ou seja, portador de título que contemple conhecimento em área que estabelecer. 
 
-§    3º - O ingresso na Carreira dar-se-á no Grau e na Referência inicial do cargo. <br>
+§    3º - O ingresso na Carreira dar-se-á no Grau e na Referência inicial do cargo. 
+
  
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DA JORNADA DE TRABALHO
 
 Art. 9º. A jornada de trabalho dos ocupantes dos cargos de que trata esta Lei será de: 30 (trinta) horas semanais, e 40 (quarenta) horas semanais para os Trabalhadores da estratégia de saúde da família, e 20 (vinte) horas semanais para as categorias com Legislação especifica, conforme previsto no Anexo I.
@@ -147,12 +152,14 @@ Art. 14. O tempo em que o servidor se encontrar afastado do exercício do cargo,
 
 Parágrafo único. Não interromperá a contagem do interstício aquisitivo, o exercício do cargo em comissão, função de confiança ou exercício de mandato classista.
 
-SEÇÃO ÚNICA<br>
+SEÇÃO ÚNICA
+
 Da Avaliação de Desempenho
 
 Art. 15. A Avaliação é o aferimento do desempenho do servidor no cumprimento das  atribuições do cargo, permitindo o seu desenvolvimento funcional na carreira.
 
-Art. 16 A avaliação de Desempenho será feita de forma contínua e formalizada anualmente, sendo efetivada no mínimo uma avaliação para cada ano, conforme calendário, normatização e orientação da Secretaria Municipal de Saúde e acompanhada pela Comissão Paritária.<br>
+Art. 16 A avaliação de Desempenho será feita de forma contínua e formalizada anualmente, sendo efetivada no mínimo uma avaliação para cada ano, conforme calendário, normatização e orientação da Secretaria Municipal de Saúde e acompanhada pela Comissão Paritária.
+
 (Redação alterada pela Lei Complementar nº 211, de 25 de maio de 2023).
 
 ~~Art. 16. A Avaliação de Desempenho será feita de forma contínua, e formalizada anualmente, sob a normatização, orientação da Secretaria Municipal de Saúde e acompanhada pela comissão paritária.~~
@@ -169,15 +176,18 @@ III – Avaliar e julgar todas as reclamações, apresentadas pelos servidores, 
 
 IV – Preparar e encaminhar os resultados das avaliações ao Secretário Municipal de Saúde; V – Estabelecer os regulamentos posteriores, para efetivar a instrumentalização da avaliação, mantendo-as atualizadas.
 
-Art. 18. A Comissão Permanente de Avaliação de Desempenho deverá responder diretamente ao Secretário de Saúde, sem prejuízo da reapreciação, em grau de recurso, de seus atos pelo Chefe do Poder Executivo.<br>
+Art. 18. A Comissão Permanente de Avaliação de Desempenho deverá responder diretamente ao Secretário de Saúde, sem prejuízo da reapreciação, em grau de recurso, de seus atos pelo Chefe do Poder Executivo.
+
  
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO VENCIMENTO E DA REMUNERAÇÃO
 
 Art. 19. Vencimento é a retribuição pecuniária mensal devida ao servidor pelo efetivo exercício do cargo público correspondente ao Grau e Referência em que se encontra.
 
-19-A – Vencimento Piso é a retribuição pecuniária mensal devida aos Agentes Comunitários de Saúde e dos Agentes de Combate à Endemias, correspondente ao valor do piso nacional das respectivas categorias, cadastrados no Sistema Nacional de Estabelecimentos de Saúde (SCNES).<br>
+19-A – Vencimento Piso é a retribuição pecuniária mensal devida aos Agentes Comunitários de Saúde e dos Agentes de Combate à Endemias, correspondente ao valor do piso nacional das respectivas categorias, cadastrados no Sistema Nacional de Estabelecimentos de Saúde (SCNES).
+
 (Redação acrescentada pela Lei Complementar nº 201, de 11 de outubro de 2022). 
 
 Parágrafo único. O vencimento atribuído a cada cargo será devido pelo cumprimento da carga horária mensal prevista para o mesmo, conforme o Anexo I, desta Lei.
@@ -196,8 +206,8 @@ III – Gratificação Especial por exercício de funções específicas previst
 
 Parágrafo único. A concessão de gratificações e adicionais dar-se-á no interesse da Administração e será conferida ao servidor pelo exercício do cargo em condições especiais.
 
-<br>
-SEÇÃO I<br>
+SEÇÃO I
+
 Do Adicional de Titulação, Formação e Aperfeiçoamento
 
 Art. 23. O Adicional de Titulação, Formação e Aperfeiçoamento será calculado sobre o vencimento base do cargo efetivo do servidor à razão de:
@@ -228,8 +238,8 @@ Art. 26. O adicional de Titulação, Formação e Aperfeiçoamento somente será
 
 Parágrafo único. Até a implantação do Adicional de Titulação, Formação e Aperfeiçoamento será mantida a concessão do Adicional de Incentivo à Profissionalização atribuído aos servidores detentores de cargos previstos nesta Lei, que já usufruem deste benefício.
 
-<br>
-SEÇÃO II<br>
+SEÇÃO II
+
 Adicional por lotação em Unidade de Difícil Provimento ou Difícil Acesso
 
 Art. 27. Será considerada Unidade de Difícil Provimento e/ou Difícil Acesso aquelas com carências de profissionais devido à localização em área remota ou de alto risco.
@@ -238,11 +248,12 @@ Parágrafo único. Decreto do Chefe do Poder Executivo definirá as Unidades da 
 
 Art. 28. O Adicional por lotação em unidade de difícil acesso será calculado sobre o vencimento base do cargo efetivo do servidor, nos percentuais de 10 a 15% (dez a quinze por cento), na forma a ser definida em Decreto do Chefe do Poder Executivo, a depender da Unidade de lotação do Servidor.
 
-<br>
-SEÇÃO III<br>
+SEÇÃO III
+
 Da Gratificação Especial
 
-Art. 29. A gratificação especial é destinada aos Profissionais de Saúde relacionados no anexo I desta lei, que exercem suas atividades nos setores de Ambulatório, Urgência, Psiquiatria, Estratégia de Saúde da Família, Núcleo de Apoio à Saúde da Família – NASF e Serviço de Atenção Domiciliar – SAD, no âmbito da Secretaria Municipal de Saúde com as seguintes características:<br>
+Art. 29. A gratificação especial é destinada aos Profissionais de Saúde relacionados no anexo I desta lei, que exercem suas atividades nos setores de Ambulatório, Urgência, Psiquiatria, Estratégia de Saúde da Família, Núcleo de Apoio à Saúde da Família – NASF e Serviço de Atenção Domiciliar – SAD, no âmbito da Secretaria Municipal de Saúde com as seguintes características:
+
 (Redação alterada pela Lei Complementar nº 130, de 21 de agosto de 2017).
 
 ~~Art. 29. A gratificação especial é destinada aos Profissionais de Saúde que exercem suas atividades nos setores de Ambulatório, Urgência, Psiquiatria, Estratégia de Saúde da Família e Núcleo de Apoio à Saúde da Família - NASF, no âmbito da Secretaria Municipal de Saúde com as seguintes características:~~
@@ -259,16 +270,18 @@ III - não integra, para qualquer efeito, o vencimento ou a remuneração do ser
 
 § 3º A gratificação especial é devida aos servidores efetivos pertencentes a outras esferas do governo, integrantes do Sistema Único de Saúde – SUS, nas mesmas condições.
 
-<br>
-SEÇÃO IV<br>
+SEÇÃO IV
+
 Da Adicional de Insalubridade ou Periculosidade
 
-Art. 30.  Os Adicionais de Insalubridade e Periculosidade, serão calculados de acordo com a legislação federal,  nas condições previstas no Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia e demais normas regulamentadoras.<br>
+Art. 30.  Os Adicionais de Insalubridade e Periculosidade, serão calculados de acordo com a legislação federal,  nas condições previstas no Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia e demais normas regulamentadoras.
+
 (Redação alterada pela Lei Complementar nº 91, de 2 de julho de 2014).
 
 ~~Art. 30. O Adicional de Insalubridade será calculado nos percentuais de 10% (dez por cento) a 30% (trinta por cento) e a Periculosidade será calculada no percentual de 30% (trinta por cento) sobre o vencimento do cargo efetivo do servidor, nas condições previstas no Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia e demais normas regulamentadoras.~~
 
-Seção V <br>
+Seção V 
+
 Do Vencimento Piso
 
 Art. 30-A – O valor do Vencimento Piso da referência inicial da carreira dos Agentes Comunitários de Saúde e dos Agentes de Combate às Endemias, sobre o qual incidirão os direitos e vantagens previstos em lei, incluídos os do presente plano de carreiras, será correspondente ao valor do piso nacional das respectivas categorias, conforme estabelecido pela Emenda Constitucional nº 120 de 05 de maio de 2022.
@@ -281,10 +294,12 @@ b)    Cumprirem os requisitos previstos em Lei para o desempenho de suas resp
 
 Art. 30-C – Sem prejuízo do disposto no artigo anterior, não farão jus ainda, a perceber o vencimento piso, os Agentes Comunitários de Saúde ou os Agentes de Combate a Endemias que, a qualquer título, estiverem em exercício de outras funções distintas de seu cargo. 
 
-Art. 30-D – O efetivo pagamento do vencimento piso aos trabalhadores que a ele tem direito, está condicionado aos repasses financeiros da União, e somente serão devidos após crédito dos valores correspondentes a favor do Município de Aparecida de Goiânia, estando os respectivos pagamentos limitados ainda ao quantitativo de profissionais especificamente custeados pelo repasse da União. <br>
+Art. 30-D – O efetivo pagamento do vencimento piso aos trabalhadores que a ele tem direito, está condicionado aos repasses financeiros da União, e somente serão devidos após crédito dos valores correspondentes a favor do Município de Aparecida de Goiânia, estando os respectivos pagamentos limitados ainda ao quantitativo de profissionais especificamente custeados pelo repasse da União. 
+
 (Redação acrescentada pela Lei Complementar nº 201, de 11 de outubro de 2022).
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 31. Os servidores de que trata esta Lei farão jus aos direitos e vantagens pecuniárias previstas no Estatuto dos Servidores Públicos do Município de Aparecida de Goiânia, sem prejuízo de outras parcelas remuneratórias e indenizatórias previstas em legislação específica.
@@ -311,7 +326,8 @@ a)    1/3 ( um terço ) em  1º ( primeiro ) de janeiro de 2014;
 
 b)    1/3 ( um terço ) em 1º ( primeiro ) de janeiro de 2015; e
 
-c)    1/3 ( um terço ) em 1º ( primeiro ) de janeiro de 2016.<br>
+c)    1/3 ( um terço ) em 1º ( primeiro ) de janeiro de 2016.
+
 (Redação alterada pela Lei Complementar nº 91, de 2 de julho de 2014).
 
 ~~Art. 36. Os servidores ocupantes dos cargos previstos no Anexo I, desta Lei, de acordo com o Grau que se posicionam, farão jus, aos valores dos vencimentos da Tabela de Vencimentos constante do Anexo III, conforme a tabela de vencimentos.~~
@@ -330,20 +346,22 @@ Art. 41.   As despesas decorrentes da aplicação desta Lei serão custeadas à
 
 Art. 42.  Esta Lei entrará em vigor na data de sua publicação, produzindo seus efeitos financeiros a partir de 1º de janeiro de 2014, independentemente da data de enquadramento dos servidores.
 
-Art. 43. Revogam-se todas as Leis que se contraponham a presente Lei, como também revogadas aquelas que contrariem o disposto na presente.<br>
+Art. 43. Revogam-se todas as Leis que se contraponham a presente Lei, como também revogadas aquelas que contrariem o disposto na presente.
+
                                              
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA, AOS 17 DIAS DO MÊS DE JUNHO DO ANO DE 2014.
 
-<br>
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-<br>
-EULER DE MORAIS<br>
+EULER DE MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-PAULO RASSI<br>
+PAULO RASSI
+
 Secretário Municipal de Saúde
 
-[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18794)<br>
+[ANEXOS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18794)

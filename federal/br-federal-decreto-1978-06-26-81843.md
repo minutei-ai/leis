@@ -1,5 +1,3 @@
-###DEC-081843-0-000-26-06-1978@@@
-
 Decreto nº 81.843, de 26 de junho de 1978.
 
 Concede reconhecimento ao curso de Matemática das Faculdades Integradas de Marília, com sede na cidade de Marília, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007203-0-000-28-12-1944@@@
-
 DECRETO-LEI N. 7.203 – DE 28 DE DEZEMBRO DE 1944
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 28.447,80 para pagamento de fornecimentos feitos em 1930

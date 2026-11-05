@@ -1,5 +1,3 @@
-###DEC-090275-0-000-02-10-1984@@@
-
 Decreto nº 90.275, de 02 de OutuBro De 1964
 
 Dá nova redação ao artigo 15 do Decreto nº 75.781, de 27 de maio de 1975.

@@ -1,5 +1,3 @@
-###DEC-069509-0-000-08-11-1971@@@
-
 DECRETO Nº 69.509 - DE 8 DE NOVEMBRO DE 1971
 
 Concede reconhecimento aos cursos de graduação de Ciências (licenciatura de 1° ciclo), Matemática e Física da Faculdade de Filosofia, Ciências e Letras de Taubaté.

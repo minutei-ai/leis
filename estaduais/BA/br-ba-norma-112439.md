@@ -124,35 +124,26 @@ ANEXO ÚNICO
 
 QUADRO DE CARGOS EM COMISSÃO DA FUNDAÇÃO PAULO JACKSON
 
-<table border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
- mso-padding-alt:0cm 0cm 0cm 0cm;mso-border-insideh:.5pt solid windowtext;
- mso-border-insidev:.5pt solid windowtext"><tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;page-break-inside:avoid"><td width="330" valign="top" style="width:247.2pt;border:solid windowtext 1.0pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">CARGO<quebra></quebra></p></td><td width="139" valign="top" style="width:104.6pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">SÍMBOLO<quebra></quebra></p></td><td width="131" valign="top" style="width:98.0pt;border:solid windowtext 1.0pt;
-  border-left:none;mso-border-left-alt:solid windowtext .5pt;mso-border-alt:
-  solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">QUANTIDADE<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:1;page-break-inside:avoid"><td width="330" valign="top" style="width:247.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Diretor Geral<quebra></quebra></p></td><td width="139" valign="top" style="width:104.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">FC-8<quebra></quebra></p></td><td width="131" valign="top" style="width:98.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">01<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:2;page-break-inside:avoid"><td width="330" valign="top" style="width:247.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Diretor<quebra></quebra></p></td><td width="139" valign="top" style="width:104.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">FC-7<quebra></quebra></p></td><td width="131" valign="top" style="width:98.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">02<quebra></quebra></p></td></tr><tr style="mso-yfti-irow:3;mso-yfti-lastrow:yes;page-break-inside:avoid"><td width="330" valign="top" style="width:247.2pt;border:solid windowtext 1.0pt;
-  border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
-  padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">Gerente<quebra></quebra></p></td><td width="139" valign="top" style="width:104.6pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">FC-6<quebra></quebra></p></td><td width="131" valign="top" style="width:98.0pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  mso-border-top-alt:solid windowtext .5pt;mso-border-left-alt:solid windowtext .5pt;
-  mso-border-alt:solid windowtext .5pt;padding:0cm 0cm 0cm 0cm"><p class="Tabela-Texto">03<quebra></quebra></p></td></tr></tbody></table>
+CARGO<quebra></quebra>
+
+SÍMBOLO<quebra></quebra>
+
+QUANTIDADE<quebra></quebra>
+
+Diretor Geral<quebra></quebra>
+
+FC-8<quebra></quebra>
+
+01<quebra></quebra>
+
+Diretor<quebra></quebra>
+
+FC-7<quebra></quebra>
+
+02<quebra></quebra>
+
+Gerente<quebra></quebra>
+
+FC-6<quebra></quebra>
+
+03<quebra></quebra>

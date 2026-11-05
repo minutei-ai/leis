@@ -1,7 +1,3 @@
-1
-
-###DEC-000791-0-000-31-03-1993@@@
-
 DECRETO Nº 791, DE 31 DE MARÇO DE 1993
 
 Dá nova redação aos arts. 29, 31, 32, 33 e 34 do Decreto nº 73.102, de 7 de novembro de 1973, que regulamenta os arts. 12 e 13 da Lei nº 5.899, de 5 de julho de 1973, e dá outra providência.

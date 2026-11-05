@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/b5cd6b7a-df35-4d3f-99bf-2408b706c95d/texto#nowhere)
 
-###DEL-000891-0-000-26-09-1969@@@
-
 DECRETO-LEI Nº 891, DE 26 DE sETEMBRo DE 1969
 
 Concede, ao pessoal que indica, complementação de proventos de aposentadoria ou de pensões e dá outras providências.

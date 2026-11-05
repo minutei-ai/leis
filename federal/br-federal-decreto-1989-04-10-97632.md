@@ -1,7 +1,3 @@
-1
-
-###DEC-097632-0-000-10-04-1989@@@
-
 DECRETO N° 97.632, DE 10 DE ABRIL DE 1989
 
 Dispõe sobre a regulamentação do Artigo 2°, inciso VIII, da Lei n° 6.938, de 31 de agosto de 1981, e dá outras providências.

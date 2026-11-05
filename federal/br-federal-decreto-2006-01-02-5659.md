@@ -1,5 +1,3 @@
-###DEC-005659-0-000-02-01-2006@@@
-
 DECRETO Nº 5.659, DE 2 DE JANEIRO DE 2006.
 
 Promulga o Acordo de Cooperação Cultural entre o Governo da República Federativa do Brasil e o Governo da República Socialista do Vietnã, assinado em Hanói, em 24 de outubro de 2003.

@@ -1,5 +1,3 @@
-###DEC-057348-0-000-25-11-1965@@@
-
 DECRETO Nº 57.348, DE 25 DE NOVEMBRO DE 1965.
 
 Autoriza o cidadão brasileiro Edvaldo de Oliveira Flores a pesquisar columbita, no município de Itambé, Estado da Bahia.

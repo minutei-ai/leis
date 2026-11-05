@@ -1,5 +1,3 @@
-###DEC-049633-0-000-30-12-1960@@@
-
 DECRETO Nº 49.633, DE 30 DE DEZEMBRO DE 1960.
 
 Autoriza Mineração Sulbrasileira S.A. a lavrar fluorita, no município de Tubarão, Estado de Santa Catarina.

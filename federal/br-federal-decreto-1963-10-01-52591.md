@@ -1,5 +1,3 @@
-###DEC-052591-0-000-01-10-1963@@@
-
 DECRETO Nº 52.591, DE 1 DE OUTUBRO DE 1963.
 
 Autoriza a Prefeitura Municipal de Luiziânia a construir uma linha de transmissão e rêde de distribuição.
@@ -29,8 +27,6 @@ Brasília, 1 de outubro de 1963, 142º da Independência e 75º da República.
 JOÃO GOULART
 
 Antônio de Oliveira Brito
-
-###DEC-052591-0-000-01-10-1963@@@RET01+++
 
 Decreto Nº 52.591, DE 1 DE OUTUBRO de 1963.
 

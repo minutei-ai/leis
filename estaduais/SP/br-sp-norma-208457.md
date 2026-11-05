@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208457)<br>
-
 # DECRETO N° 67.910, DE 29 DE AGOSTO DE 2023
 
 ### _Transfere, da Secretaria da Fazenda e Planejamento para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Catanduva._

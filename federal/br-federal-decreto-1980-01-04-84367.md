@@ -1,5 +1,3 @@
-###DEC-084367-0-000-04-01-1980@@@
-
 Decreto nº 84.367 de 04 de janeiro de 1980
 
 Autoriza a transferência direta para a Rádio Cultura do Pará, vinculada à Fundação de Telecomunicações do Pará, da concessão outorgada à Rádio Educativa do Pará.

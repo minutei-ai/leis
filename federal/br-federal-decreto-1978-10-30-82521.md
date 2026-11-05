@@ -1,5 +1,3 @@
-###DEC-082521-0-000-30-10-1978@@@
-
 Decreto nº 82 521, de 30 de outubro de 1978.
 
 Concede reconhecimento ao curso de Estudos Sociais, licenciatura de 1º grau, ministrado pelo Centro de Ciências Humanas da Universidade Católica de Goiás, com sede na cidade de Goiânia, Estado de Goiás.

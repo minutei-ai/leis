@@ -1,5 +1,3 @@
-###DEC-053803-0-000-23-03-1964@@@
-
 DECRETO Nº 53.803, DE 23 DE MARÇO DE 1964.
 
 Cria Comissão Interministerial encarregada de examinar a situação econômico-financeira das autarquias e sociedades de economia mista.

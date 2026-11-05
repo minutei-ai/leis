@@ -1,5 +1,3 @@
-###DEC-089780-0-000-13-06-1984@@@
-
 decreto nº 89.780 de 13 de junho de 1984
 
 Renova por 10 (dez) anos a concessão outorgada à S/A RÁDIO GUARANI, para explorar serviço de radiodifusão sonora em onda curta, na cidade de Belo Horizonte, Estado de Minas Gerais.

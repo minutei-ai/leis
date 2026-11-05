@@ -1,5 +1,3 @@
-###DEL-004624-0-000-26-08-1942@@@
-
 DECRETO-LEI N. 4.624 – DE 26 DE AGOSTO DE 1942
 
 Cria o Serviço de Defesa Passiva Anti-Aérea e dá outras providências

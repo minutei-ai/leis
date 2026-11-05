@@ -1,5 +1,3 @@
-###DEC-081321-0-000-09-02-1978@@@
-
 Decreto nº 81.321, de 9 de fevereiro de 1978.
 
 Concede reconhecimento ao curso de História, ministrado pela Faculdade de Filosofia, Ciências e Letras de Jales, com sede na cidade de Jales, Estado de São Paulo.

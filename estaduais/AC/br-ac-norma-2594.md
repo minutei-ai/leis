@@ -2,7 +2,11 @@ Revogada pela Lei nº [3.669 , de 31 de Dezembro de 2020.](https://legis.ac.gov.
 
 > **LEI Nº 3.601, DE 09 DE JANEIRO DE 2020**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Fixa o subsídio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2020.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Fixa o subsídio do governador, vice-governador e dos secretários de Estado para o exercício financeiro de 2020.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

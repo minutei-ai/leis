@@ -1,7 +1,3 @@
-1
-
-###DEC-000867-0-000-12-07-1993@@@
-
 DECRETO N° 867, DE 12 DE JULHO DE 1993
 
 Extingue a Comissão Marítima Nacio­nal (CoMaNa), e dá outras providências.

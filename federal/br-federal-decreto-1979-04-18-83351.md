@@ -1,5 +1,3 @@
-###DEC-083351-0-000-18-04-1979@@@
-
 Decreto nº 83.351, de 18 de abril de 1979.
 
 Concede à Valparminas Mineração Ltda. o direito de lavrar dolomito no Município de Taubaté, Estado de São Paulo.

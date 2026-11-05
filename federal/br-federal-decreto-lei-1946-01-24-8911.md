@@ -1,5 +1,3 @@
-###DEL-008911-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.911 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a execução dos serviços de limpeza e desinfeção dos meios de transportes utilizados na locomoção de animais vivos e dá outras providências.

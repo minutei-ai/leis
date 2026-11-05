@@ -1,5 +1,3 @@
-###DEC-094059-0-000-25-02-1987@@@
-
 DECRETO N° 94.059, DE 25 DE FEVEREIRO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Informática de Lins.

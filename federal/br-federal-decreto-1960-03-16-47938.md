@@ -1,5 +1,3 @@
-###DEC-047938-0-000-16-03-1960@@@
-
 DECRETO Nº 47.938, DE 16 DE MARÇO DE 1960.
 
 Altera o Quadro dos Serviços de Assistência-- 2ª Seção do Orçamento - do Instituto de Previdência e Assistência dos Servidores do Estado e dá outras providências.

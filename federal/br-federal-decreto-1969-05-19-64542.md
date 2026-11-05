@@ -1,5 +1,3 @@
-###DEC-064542-0-000-19-05-1969@@@
-
 DECRETO Nº 64.542, DE 19 DE MAIO DE 1969.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação da imóvel que menciona, situado no Município de Guaxupé, no Estado de Minas Gerais.

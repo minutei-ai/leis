@@ -1,5 +1,3 @@
-###DEC-075767-0-000-23-05-1975@@@
-
 DECRETO Nº 75.767, DE 23 DE MAIO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de São Paulo.

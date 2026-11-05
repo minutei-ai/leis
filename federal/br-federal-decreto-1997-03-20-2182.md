@@ -1,5 +1,3 @@
-###DEC-002182-0-000-20-03-1997@@@
-
 DECRETO DE 2.182, DE 20 DE MARÇO DE 1997
 
 Estabelece normas para a transferência e o recolhimento de acervos arquivísticos públicos federais para o Arquivo Nacional.

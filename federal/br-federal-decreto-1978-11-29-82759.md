@@ -1,5 +1,3 @@
-###DEC-082759-0-000-29-11-1978@@@
-
 Decreto nº 82.759, de 29 de novembro de 1978.
 
 Concede à lavras Santo Amaro Ltda. o direito de lavrar argila no Município de Jacupiranga, Estado de São Paulo.

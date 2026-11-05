@@ -1,5 +1,3 @@
-###DEC-068239-0-000-16-02-1971@@@
-
 DECRETO Nº 68.239, DE 16 DE FEVEREIRO DE 1971.
 
 Declara de utilidade pública o Colégio Santa Dorotéia, com sede em Brasília, Distrito Federal.

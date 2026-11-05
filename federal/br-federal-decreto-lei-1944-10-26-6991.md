@@ -1,5 +1,3 @@
-###DEL-006991-0-000-26-10-1944@@@
-
 DECRETO-LEI N. 6.991 – DE 26 DE OUTUBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar o Liceu Literário Português do pagamento do impôsto territorial que menciona

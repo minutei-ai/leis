@@ -1,5 +1,3 @@
-###DEC-056454-0-000-09-06-1965@@@
-
 Decreto nº 56.454, de 9 de junho de 1965.
 
 Autoriza a S.A. Mineração Jerônimo Rosado a lavrar gipsita, no Município de Bodocó, Estado de Pernambuco.

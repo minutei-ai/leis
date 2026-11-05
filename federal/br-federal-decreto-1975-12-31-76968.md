@@ -1,5 +1,3 @@
-###DEC-076968-0-000-31-12-1975@@@
-
 DECRETO Nº 76.968, DE 31 DE DEZEMBRO DE 1975.
 
 Cria a Embaixada do Brasil no Reino do Lesoto.

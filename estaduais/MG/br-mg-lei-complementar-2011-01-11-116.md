@@ -105,7 +105,3 @@ Danilo de Castro
 Maria Coeli Simões Pires
 
 Renata Maria Paes de Vilhena
-
-\===========================================================
-
-Data da última atualização: 18/6/2025.

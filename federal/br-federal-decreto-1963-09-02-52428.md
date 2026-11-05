@@ -1,5 +1,3 @@
-###DEC-052428-0-000-02-09-1963@@@
-
 DECRETO Nº 52.428, DE 2 DE SETEMBRO DE 1963.
 
 Autoriza a Mineração Calculé Indústria e Comércio Ltda. a pesquisar Manganês, no município de Caetité, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-054560-0-000-23-10-1964@@@
-
 Decreto nº 54.560, de 23 de outubro de 1964.
 
 Declara de utilidade pública o Sanatório Nossa Senhora das Mercês, com sede em Campos do Jordão, Estado de São Paulo.

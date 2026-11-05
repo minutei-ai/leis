@@ -1,5 +1,3 @@
-###DEC-068801-0-000-24-06-1971@@@
-
 DECRETO Nº 68.801 - DE 24 DE JUNHO DE 1971.
 
 Declara de utilidade pública a Casa da Criança da Paróquia de Guarujá, com sede em Guarujá, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-007509-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.509 – DE 30 DE ABRIL DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores, o crédito especial de Cr$ 200.000,00 para o fim que especifica e dá outras providências

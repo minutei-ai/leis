@@ -1,5 +1,3 @@
-###DEC-095192-0-000-12-11-1987@@@
-
 DECRETO N° 95.192, DE 12 DE NOVEMBRO DE 1987
 
 Altera o Decreto n° 93.507, de 4 de novembro de 1986, e dá outras providências.

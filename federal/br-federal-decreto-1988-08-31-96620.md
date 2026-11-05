@@ -1,5 +1,3 @@
-###DEC-096620-0-000-31-08-1988@@@
-
 DECRETO Nº 96.620, DE 31 DE AGOSTO DE 1988
 
 Institui o Conselho Superior de Política Nuclear e dá outras providências.

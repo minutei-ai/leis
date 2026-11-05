@@ -1,5 +1,3 @@
-###DEL-003859-0-000-21-11-1941@@@
-
 DECRETO-LEI N. 3.859 – DE 21 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 1.502:735$9, para pagamento de gratificações de magistério

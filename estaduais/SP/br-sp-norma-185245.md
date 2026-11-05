@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185245)
-
 # DECRETO Nº 63.215, DE 16 DE FEVEREIRO DE 2018
 
 ### _Autoriza a outorga de cessão de uso, a título gratuito e pelo prazo de 20 (vinte) anos, de parte de próprio estadual que especifica, visando à instalação da sede do Comando de Policiamento Ambiental, do 1º Batalhão de Polícia Militar Ambiental, da sua 1ª Companhia de Polícia Militar Ambiental, e de seus 1º e 2º Pelotões_
@@ -26,12 +24,20 @@ Palácio dos Bandeirantes, 16 de fevereiro de 2018
 
 GERALDO ALCKMIN
 
-Maurício Benedini Brusadin<br>
-Secretário do Meio Ambiente<br>
-Mágino Alves Barbosa Filho<br>
-Secretário da Segurança Pública<br>
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Maurício Benedini Brusadin
+
+Secretário do Meio Ambiente
+
+Mágino Alves Barbosa Filho
+
+Secretário da Segurança Pública
+
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 16 de fevereiro de 2018.

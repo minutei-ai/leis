@@ -1,6 +1,10 @@
 > **LEI Nº 4.121, DE 11 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a política estadual de fornecimento gratuito de medicamentos formulados de derivado vegetal à base de canabidiol, em associação com outras substancias canabinóides, incluindo o tetrahidrocanabidiol, em caráter de excepcionalidade pelo Poder Executivo nas unidades de saúde pública estadual e privada conveniada ao Sistema Único de Saúde - SUS.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a política estadual de fornecimento gratuito de medicamentos formulados de derivado vegetal à base de canabidiol, em associação com outras substancias canabinóides, incluindo o tetrahidrocanabidiol, em caráter de excepcionalidade pelo Poder Executivo nas unidades de saúde pública estadual e privada conveniada ao Sistema Único de Saúde - SUS.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

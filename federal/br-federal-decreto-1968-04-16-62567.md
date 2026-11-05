@@ -1,5 +1,3 @@
-###DEC-062567-0-000-16-04-1968@@@
-
 decreto nº 62.567, de 16 de abril de 1968.
 
 Dispõe sôbre a denominação do Instituto Eletrotécnico de Itajubá.

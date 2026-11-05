@@ -1,5 +1,3 @@
-###DEC-081020-0-000-12-12-1977@@@
-
 DECRETO Nº 81.020, DE 12 DE DEZEMBRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linhas de transmissão de Furnas - Centrais Elétricas S.A., nos Estados do Paraná e São Paulo.

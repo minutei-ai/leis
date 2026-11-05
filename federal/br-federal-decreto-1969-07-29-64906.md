@@ -1,5 +1,3 @@
-###DEC-064906-0-000-29-07-1969@@@
-
 DECRETO Nº 64.906 - DE 29 DE JULHO DE 1969.
 
 Concede reconhecimento à Faculdade de Educação Piracicabana.

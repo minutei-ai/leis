@@ -1,5 +1,3 @@
-###DEC-092085-0-000-09-12-1985@@@
-
 decreto nº 92.085, de 09 de dezembro de 1985
 
 Revoga a concessão outorgada à S/A RÁDIO TUPI, para executar serviço de radiodifusão sonora em ondas curtas, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

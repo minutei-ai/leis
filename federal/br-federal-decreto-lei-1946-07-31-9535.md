@@ -1,5 +1,3 @@
-###DEL-009535-0-000-31-07-1946@@@
-
 DECRETO-LEI N. 9.535 – DE 31 DE JULHO DE 1946
 
 Dispõe sôbre a vigência do Decreto-lei nº 8.977, de 14 de Fevereiro de 1946. e dá outras providências:

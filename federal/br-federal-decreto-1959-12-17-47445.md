@@ -1,5 +1,3 @@
-###DEC-047445-0-000-17-12-1959@@@
-
 DECRETO Nº 47.445, DE 17 DE DEZEMBRO DE 1959.
 
 Dispõe sôbre a organização e regula as atribuições das Seções de Segurança Nacional dos Ministérios Civis de que tratam os Decretos-leis ns. 9.775 e 9.775-A, de 6 de setembro de 1946, e dá outras providências.

@@ -2,7 +2,8 @@ LEI Nº 12.357 DE 26 DE SETEMBRO DE 2011
 
 Institui o Sistema de Defesa Social, o Programa Bahia pela Paz, e dá outras providências
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "Institui o Sistema de Defesa Social, o Programa Pacto pela Vida, e dá outras providências."
 
 **O GOVERNADOR DO ESTADO DA BAHIA,**  faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
@@ -11,7 +12,8 @@ Redação original: "Institui o Sistema de Defesa Social, o Programa Pacto pela 
 
 **§ 1º -** A Política Pública de Defesa Social resultará da integração de projetos e ações nas áreas de Educação, Trabalho, Emprego, Renda e Esporte, Cultura, Assistência e Desenvolvimento Social, Saúde, Promoção da Igualdade Racial e dos Povos e Comunidades Tradicionais, Políticas para as Mulheres, Justiça e Direitos Humanos, Segurança Pública, Administração Penitenciária e Ressocialização, no âmbito do Estado da Bahia, orientados com vistas à promoção da paz social.
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "§ 1º- A Política Pública de Defesa Social resultará da integração de projetos e ações nas áreas de Educação, Trabalho, Emprego, Renda e Esporte, Cultura, Desenvolvimento Social e Combate à Pobreza, Saúde, Promoção da Igualdade Racial, Políticas para as Mulheres, Justiça, Cidadania e Direitos Humanos, Segurança Pública e Administração Penitenciária e Ressocialização do Estado da Bahia, orientados com vistas à promoção da paz social."
 
 **§ 2º -** O Sistema de Defesa Social será implementado em articulação com as atividades institucionais dos Poderes Legislativo e Judiciário, do Ministério Público e da Defensoria Pública do Estado da Bahia.
@@ -20,7 +22,8 @@ Redação original: "§ 1º- A Política Pública de Defesa Social resultará da
 
 **I -**       o Comitê de Governança, órgão deliberativo e de supervisão superior, responsável pela definição das diretrizes estratégicas e pelo acompanhamento das ações que objetivem, no âmbito do Estado da Bahia, a progressiva e contínua redução das taxas de criminalidade, em especial aquelas relacionadas aos Crimes Violentos Letais Intencionais - CVLI e o aumento de índices que apontem para a melhoria do desenvolvimento social e humano das faixas mais vulneráveis da população baiana;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "I - o Comitê de Governança, órgão deliberativo e de supervisão superior, responsável pela definição das diretrizes estratégicas e acompanhamento das ações que objetivem, no âmbito do Estado da Bahia, a progressiva e contínua redução das taxas de criminalidade, em especial aquelas relacionadas aos Crimes Violentos Letais Intencionais - CVLI;"
 
 **II -**      o Gabinete do Governador, órgão central do Sistema;
@@ -35,21 +38,24 @@ Redação original: "I - o Comitê de Governança, órgão deliberativo e de sup
 
 **d)** a Secretaria de Assistência e Desenvolvimento Social;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "d) - a Secretaria de Desenvolvimento Social e Combate à Pobreza;"
 
 **e)**   a Secretaria da Educação;
 
 **f)**    a Secretaria de Justiça e Direitos Humanos;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "f) - a Secretaria da Justiça, Cidadania e Direitos Humanos;"
 
 **g)** a Secretaria de Políticas para as Mulheres;
 
 **h)** a Secretaria de Promoção da Igualdade Racial e dos Povos e Comunidades Tradicionais;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "h) -a Secretaria de Promoção da Igualdade Racial;"
 
 **i)**   a Secretaria da Saúde;
@@ -76,12 +82,14 @@ Redação original: "h) -a Secretaria de Promoção da Igualdade Racial;"
 
 **I -**       estabelecer diretrizes estratégicas para a promoção de ações que visem à redução das taxas de criminalidade e o aumento de índices que apontem para a melhoria do desenvolvimento social e humano das faixas mais vulneráveis da população baiana;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "I -estabelecer diretrizes estratégicas para a promoção de ações que visem à redução das taxas de criminalidade, em especial aquelas relacionadas aos Crimes Violentos Letais Intencionais - CVLI;"
 
 **II -**      aprovar, acompanhar e apoiar os processos de formulação, implantação, monitoramento e avaliação de programas que visem à redução das taxas de criminalidade e o aumento de índices que apontem para a melhoria do desenvolvimento social e humano das faixas mais vulneráveis da população baiana;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "II -aprovar, acompanhar e apoiar os processos de formulação, implantação, monitoramento e avaliação de programas que visem à redução das taxas de criminalidade, em especial aquelas relacionadas aos Crimes Violentos Letais Intencionais - CVLI;"
 
 **III -**    propor e incentivar a realização de estudos e projetos que visem à melhoria da integração da gestão no âmbito dos programas;
@@ -270,12 +278,14 @@ Art. 13-A acrescido pela Lei [14.730](https://www.legislabahia.ba.gov.br/documen
 
 **Art. 14** - O Comitê Executivo e as Câmaras Intersetoriais referidos nesta Lei não substituirão aqueles criados para políticas públicas e áreas de atuação específicas, que permanecerão com suas atribuições e funções já estabelecidas.
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "Art. 14 - O Comitê Executivo e as Câmaras Setoriais referidos nesta Lei não substituirão aqueles criados para políticas públicas e áreas de atuação específicas, que permanecerão com suas atribuições e funções já estabelecidas."
 
 **Art. 15 -** O Comitê Executivo e as Câmaras Intersetoriais poderão convidar técnicos de notório conhecimento e experiência ou representantes de outras instituições para participarem de reuniões, sem direito a voto, com o objetivo de emitir parecer sobre assunto de sua especialidade.
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "Art. 15 - O Comitê Executivo e as Câmaras Setoriais poderão convidar técnicos de notório conhecimento e experiência ou representantes de outras instituições para participarem de reuniões, sem direito a voto, com o objetivo de emitir parecer sobre assunto de sua especialidade."
 
 **Art. 16 -** Fica criado o Núcleo de Gestão - NG, na estrutura do Gabinete do Governador, com a finalidade de atuar na concepção e execução dos processos de monitoramento e de avaliação dos programas que integram o Sistema de Defesa Social
@@ -288,12 +298,14 @@ Parágrafo único acrescido pela Lei [14.730](https://www.legislabahia.ba.gov.br
 
 **I -**         01 (um) cargo de Coordenador Executivo, símbolo DAS-2B, para exercer as funções de articulação institucional entre os órgãos integrantes do Sistema de Defesa Social e a gestão estratégica dos processos relacionados à Política Pública de Defesa Social;
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "I - 01 (um) cargo de Coordenador Executivo, símbolo DAS-2B, a ser ocupado por servidor de carreira, para exercer as funções de articulação institucional entre os órgãos integrantes do Sistema de Defesa Social e a gestão estratégica dos processos relacionados à Política Pública de Defesa Social;"
 
 **II -**       01 (um) cargo de Coordenador I, símbolo DAS-2C, para exercer as atividades de gerenciamento técnico-administrativo das atividades do Núcleo de Gestão e de apoio técnico ao funcionamento das Câmaras Intersetoriais.
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "II - 01 (um) cargo de Coordenador I, símbolo DAS-2C, a ser ocupado por servidor de carreira, para exercer as atividades de gerenciamento administrativo das atividades do Núcleo."
 
 **Art. 17-A -** Ficam criados, na estrutura do Gabinete do Governador, alocados no Núcleo de Gestão, os seguintes cargos em comissão:
@@ -314,7 +326,8 @@ Inciso III acrescido pela Lei [14.730](https://www.legislabahia.ba.gov.br/docume
 
 **Art. 18** - O Gabinete do Governador, por meio do Núcleo de Gestão e de outras unidades, dará apoio técnico e administrativo para o funcionamento do Comitê Executivo do Programa Bahia pela Paz e das suas Câmaras Intersetoriais.
 
-Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024<br>
+Redação de acordo com a Lei [14.730](https://www.legislabahia.ba.gov.br/documentos/lei-no-14730-de-04-de-junho-de-2024) de 04 de junho de 2024
+
 Redação original: "Art. 18 - O Gabinete do Governador, por meio do Núcleo de Gestão e de outras unidades, dará apoio técnico e administrativo para o funcionamento do Comitê Executivo do Pacto pela Vida e das Câmaras Setoriais."
 
 **Art. 19 -** As atividades do Sistema de Defesa Social serão exercidas sob a orientação técnico-jurídica da Procuradoria Geral do Estado.

@@ -1,5 +1,3 @@
-###DEC-080402-0-000-26-09-1977@@@
-
 DECRETO Nº 80.402, de 26 de setembro de 1977.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado em Maceió, Estado de Alagoas.

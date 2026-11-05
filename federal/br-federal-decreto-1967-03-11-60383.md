@@ -1,5 +1,3 @@
-###DEC-060383-0-000-11-03-1967@@@
-
 DECRETO Nº 60.383, DE 11 DE MARÇO DE 1967.
 
 Autoriza a Magnesita S.A. a pesquisar argila no município de Poços de Caldas, Estado de Minas Gerais.

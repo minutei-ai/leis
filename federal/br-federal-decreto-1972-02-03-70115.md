@@ -1,5 +1,3 @@
-###DEC-070115-0-000-03-02-1972@@@
-
 DECRETO Nº 70.115, DE 3 DE fevereiro DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem da linha de transmissão Mirueira- Macaxeira, no Estado de Pernambuco.

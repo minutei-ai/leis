@@ -1,5 +1,3 @@
-###DEC-080969-0-000-09-12-1977@@@
-
 DECRETO Nº 80.969, DE 09 DE DEZEMBRO DE 1977.
 
 Altera o parágrafo primeiro do artigo 13, do Decreto número 71.534, de 12 de dezembro de 1972, que dispõe sobre a estrutura, funcionamento e competência do Ministério das Relações Exteriores.

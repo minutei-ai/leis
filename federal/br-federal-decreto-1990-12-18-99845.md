@@ -1,7 +1,3 @@
-1
-
-###DEC-099845-0-000-18-12-1990@@@
-
 # DECRETO N° 99.845, DE 18 DE DEZEMBRO DE 1990
 
 Dispõe sobre a execução do Décimo Primeiro Protocolo Adicional ao Acordo Comercial n° 18, no Setor da Indústria Fotográfica, entre o Brasil, a Argentina, o México, o Uruguai e a Venezuela.

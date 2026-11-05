@@ -1,5 +1,3 @@
-###DEC-096413-0-000-26-07-1988@@@
-
 DECRETO N° 96.413, DE 26 DE JULHO DE 1988
 
 Dispõe sobre a cessão de cisternas familiares, construídas pelo Projeto Padre Cícero, e dá outras providências.

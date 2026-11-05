@@ -1,5 +1,3 @@
-###DEC-089232-0-000-22-12-1983@@@
-
 Decreto nº 89.232, de 22 de dezembro de 1983
 
 Autoriza o aumento de potência da SOCIEDADE CANGUSSUENSE DE RÁDIO LTDA., na cidade de Canguçu, Estado do Rio Grande do Sul.

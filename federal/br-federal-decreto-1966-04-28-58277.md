@@ -1,5 +1,3 @@
-###DEC-058277-0-000-28-04-1966@@@
-
 DECRETO Nº 58.277, DE 28 DE ABRIL DE 1966.
 
 Concede à Calfesa – Calcários e Fertilizantes S.A., autorização para funcionar como emprêsa de mineração.

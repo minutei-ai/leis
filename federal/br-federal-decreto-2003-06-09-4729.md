@@ -1,5 +1,3 @@
-###DEC-004729-0-000-09-06-2003@@@
-
 [DECRETO Nº 4.729, DE 9 DE JUNHO DE 2003.](http://legislacao.planalto.gov.br/legislacao.nsf/Viw_Identificacao/DEC%204.729-2003?OpenDocument)
 
        Altera dispositivos do Regulamento da Previdência Social, aprovado pelo Decreto no 3.048, de 6 de maio de 1999, e dá outras providências.

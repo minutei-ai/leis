@@ -1,5 +1,3 @@
-###DEC-059337-0-000-30-09-1966@@@
-
 DECRETO Nº 59.337, DE 30 DE SETEMBRO DE 1966.
 
 Retifica o art. 1º do Decreto número 51.772, de 4 de março de 1963.

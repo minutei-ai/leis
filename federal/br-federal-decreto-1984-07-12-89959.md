@@ -1,5 +1,3 @@
-###DEC-089959-0-000-12-07-1984@@@
-
 Decreto nº 89.959, de 12 de juLho de 1984
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominação "Gleba Canabrava", situado nos Municípios de São Félix do Araguaia e Luciara, no Estado de Mato Grosso, e compreendido na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 89.958; de12 de julho de 1984.

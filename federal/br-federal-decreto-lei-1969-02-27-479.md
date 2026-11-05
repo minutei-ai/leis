@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/03508d93-db0f-450d-aebd-160439854eda/texto#nowhere)
 
-###DEL-000479-0-000-27-02-1969@@@
-
 DECRETO-LEI Nº 479, DE 27 DE FEVEREIRO DE 1969
 
 Aprova a Convenção sôbre infrações e outros atos cometidos a bordo de aeronaves, assinada em Tóquio, a 14 de setembro de 1963.

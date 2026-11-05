@@ -1,5 +1,3 @@
-###DEC-046471-0-000-20-07-1959@@@
-
 DECRETO Nº 46.471, DE 20 DE JULHO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situada no Município do Salvador, no Estado da Bahia.

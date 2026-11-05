@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/1298c6cd-f1cf-4183-88f4-66102d538445/texto#nowhere)
 
-###DEL-000937-0-000-13-10-1969@@@
-
 DECRETO LEI Nº 937, 13 DE OUTUBRO DE 1969
 
 Altera a redação do artigo 51 e parágrafos da Lei nº 4.024, de 20 de dezembro de 1961.

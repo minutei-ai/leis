@@ -1,5 +1,3 @@
-###DEC-053876-0-000-02-04-1964@@@
-
 DECRETO Nº 53.876, DE 2 DE ABRIL DE 1964.
 
 Dispõe sôbre as atribuições do Ministro de Estado Extraordinário para os assuntos do Gabinete Civil da Presidência da República.

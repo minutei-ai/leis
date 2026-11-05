@@ -1,7 +1,3 @@
-1
-
-###MPV-001559-0-000-19-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.559, de 19 de DEZEMBRO DE 1996.
 
 Altera a legislação do imposto de renda e da contribuição social sobre o lucro.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099166-0-000-13-03-1990@@@
-
 DECRETO N° 99.166, DE 13 DE MARÇO DE 1990
 
 Cria a Reserva Extrativista do Rio Ouro Preto.

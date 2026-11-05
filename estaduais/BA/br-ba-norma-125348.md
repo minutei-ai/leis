@@ -4,7 +4,8 @@ Institui a Política Estadual dos Direitos Humanos de Crianças e Adolescentes, 
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Fica instituída a Política Estadual dos Direitos Humanos de Crianças e Adolescentes, que compreende um conjunto de princípios, diretrizes, metas e ações articuladas governamentais e não-governamentais, da União, do Estado e dos Municípios, com vistas à promoção, proteção e defesa integral dos direitos humanos de crianças e adolescentes.
@@ -77,20 +78,24 @@ II - destinados a adolescentes em conflito com a lei, em situação de apuraçã
 
 III - afetos aos fins da Política Estadual dos Direitos Humanos de Crianças e Adolescentes.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO CONSELHO ESTADUAL DOS DIREITOS DA CRIANÇA E DO ADOLESCENTE
 
-SEÇÃO I<br>
+SEÇÃO I
+
 NATUREZA DO CONSELHO
 
 Art. 7º - O Conselho Estadual dos Direitos da Criança e do Adolescente - CECA, órgão colegiado, de composição paritária, com caráter deliberativo e fiscalizador em relação à Política Estadual dos Direitos Humanos de Crianças e Adolescentes, integra a estrutura do órgão responsável pela coordenação da referida Política.
 
 Parágrafo único - O Conselho contará com uma Secretaria Executiva, a qual fornecerá os meios necessários à sua operacionalização, e será coordenada por um representante indicado pelo Titular da Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social.
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "Parágrafo único  - O Conselho contará com uma Secretaria Executiva, a qual fornecerá os meios necessários à sua operacionalização, e será coordenada por um representante indicado pelo Titular da Secretaria de Desenvolvimento Social e Combate à Pobreza."
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DA COMPETÊNCIA DO CONSELHO
 
 Art. 8º - Compete ao Conselho Estadual dos Direitos da Criança e do Adolescente - CECA:
@@ -133,7 +138,8 @@ XVI - exercer as funções deliberativas e de controle do Sistema Estadual de At
 
 XVII - aprovar, em caráter complementar, parâmetros específicos para a institucionalização e fortalecimento do Sistema de Garantia dos Direitos da Criança e do Adolescente.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA CONSTITUIÇÃO E DO FUNCIONAMENTO
 
 Art. 9º - O Conselho Estadual dos Direitos da Criança e do Adolescente terá a seguinte composição:
@@ -142,12 +148,14 @@ I - 01 (um) representante de cada órgão a seguir indicado:
 
 a) Secretaria de Justiça, Direitos Humanos e Desenvolvimento Social;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "a)  - Secretaria de Desenvolvimento Social e Combate à Pobreza;"
 
 b) Secretaria de Desenvolvimento Rural;
 
-Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.<br>
+Redação de acordo com o Decreto nº 16.087, de 21 de maio de 2015.
+
 Redação original: "b)  - Secretaria da Justiça, Cidadania e Direitos Humanos;
 
 c) Secretaria da Educação;
@@ -176,7 +184,8 @@ Alínea "m" acrescida ao inciso I do art. 9º pela Lei nº [12.625](javascript: 
 
 II - 13 (treze) representantes de entidades da sociedade civil organizada, sendo 04 (quatro) representantes da Capital e 09 (nove) representantes dos Territórios de Identidade que atuem comprovada e estatutariamente junto à Política da Criança e do Adolescente, a exemplo das entidades de atendimento direto, de estudo e pesquisa, de segmentos de classe ou, ainda, que se enquadrem na situação de promoção, defesa e garantia dos direitos humanos de crianças e adolescentes, com existência de atuação comprovada de no mínimo 02 (dois) anos, no âmbito do Estado.
 
-Redação do Inciso I de acordo com a Lei nº [12.625](javascript: openDoc\() , de 28 de dezembro de 2012.<br>
+Redação do Inciso I de acordo com a Lei nº [12.625](javascript: openDoc\() , de 28 de dezembro de 2012.
+
 Redação original: "II - 12 (doze) representantes de entidades da sociedade civil organizada, sendo 03 (três) representantes da Capital e 09 (nove) representantes dos Territórios de Identidade que atuem comprovada e estatutariamente junto à política da criança e do adolescente, a exemplo das entidades de atendimento direto, de estudo e pesquisa, de segmentos de classe ou, ainda, que se enquadrem na situação de promoção, defesa e garantia dos direitos humanos de crianças e adolescentes, com existência de atuação comprovada de no mínimo 02 (dois) anos, no âmbito do Estado."
 
 § 1º - O Presidente e o Vice-Presidente do Conselho serão escolhidos mediante eleição entre seus pares, para mandato de 02 (dois) anos, alternadamente entre representantes do Poder Público e da sociedade civil, permitida a recondução.
@@ -211,7 +220,8 @@ Art. 14 - Poderão ser convidados a participar das reuniões do CECA profissiona
 
 Art. 15 - Caberá ao órgão responsável pela coordenação da Política dos Direitos Humanos da Criança e do Adolescente no Estado, o custeio ou reembolso das despesas decorrentes de transporte, alimentação e hospedagem dos membros do Conselho dos Direitos da Criança e do Adolescente, titulares ou suplentes, para que possam se fazer presentes a reuniões ordinárias e extraordinárias, bem como a eventos e solenidades nos quais devam representar oficialmente o Conselho, mediante dotação orçamentária específica.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 16 - O Conselho Estadual dos Direitos da Criança e do Adolescente - CECA, a partir da publicação desta Lei, procederá à adequação de sua composição, após a proclamação do resultado da eleição dos representantes das organizações da sociedade civil, com a publicação dos nomes dos titulares e suplentes designados.

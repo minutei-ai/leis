@@ -1,5 +1,3 @@
-###DEL-007045-0-000-13-11-1944@@@
-
 DECRETO-LEI N. 7.045 – DE 13 DE NOVEMBRO DE 1944
 
 Autoriza a permuta de terrernos pertencentes à União, situados no Cáis do Pôrto desta Capital e dá outras providências

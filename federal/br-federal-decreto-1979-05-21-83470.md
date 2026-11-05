@@ -1,5 +1,3 @@
-###DEC-083470-0-000-21-05-1979@@@
-
 Decreto nº 83.470, de 21 de maio de 1979.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, das Faculdades Integradas do Instituto Ritter dos Reis, em Canoas, Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEC-082551-0-000-01-11-1978@@@
-
 Decreto nº 82.551, de 01 de novembro de 1978.
 
 Concede à José Alves Ferreira - Firma Individual, o direito de lavrar quartzito no Município de São Tomé das Letras, Estado de Minas Gerais.

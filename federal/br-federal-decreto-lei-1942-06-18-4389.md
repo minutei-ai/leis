@@ -1,5 +1,3 @@
-###DEL-004389-0-000-18-06-1942@@@
-
 DECRETO-LEI N. 4.389 – DE 18 DE JUNHO DE 1942
 
 Abre  ao Ministério da Viação e Obras Públicas o crédito suplementar de 1.250:000$0, à verba que específica

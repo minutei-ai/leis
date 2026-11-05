@@ -1,5 +1,3 @@
-###DEL-000598-0-000-28-05-1969@@@
-
 decreto-LEI Nº 598, DE 28 Maio de 1969
 
 Altera as resoluções nºs 49, de 30 de setembro de 1966, e 38, de 19 de abril de 1967, do Senado Federal, que autoriza o Gôverno do Estado da Guanabara a contrair empréstimo, em nome da Companhia Estadual de Águas - CEDAG e da Superintendência de Urbanização e Saneamento - SURSAN com os Estados Unidos da América, através da Agência para o Desenvolvimento Internacional - AID.

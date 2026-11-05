@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210245)<br>
-
 # DECRETO N° 69.045, DE 14 DE NOVEMBRO DE 2024
 
 ### _Dispõe sobre a concessão de horário especial aos servidores, em decorrência da decisão proferida pelo Supremo Tribunal Federal no Tema n° 1.097 da Repercussão Geral._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais e e co
 
 Decreta:
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Disposições Gerais
 
 **Artigo 1° -** As Secretarias de Estado, a Procuradoria Geral do Estado, a Controladoria Geral do Estado e as autarquias concederão horário especial ao servidor com deficiência ou com Transtorno do Espectro Autista, independentemente de compensação de horário, se comprovada a necessidade de tal medida, nos termos previstos neste decreto.
@@ -49,7 +48,8 @@ III - exceção do disposto no "caput" e no § 1° do artigo 3° do [Decreto n°
 
 2\. 35% (trinta e cinco por cento), na hipótese do § 1° deste artigo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Do procedimento
 
 **Artigo 3° -** A apuração da necessidade de concessão de horário especial será realizada mediante avaliação biopsicossocial, sob a responsabilidade do Instituto de Medicina Social e de Criminologia de São Paulo - IMESC.
@@ -126,7 +126,8 @@ II - decidir sobre o pedido de concessão de horário especial e sobre eventual 
 
 **Parágrafo único -** Para fins do disposto no "caput" deste artigo, será realizada, preferencialmente, uma única avaliação abrangendo todos os vínculos funcionais.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Dos deveres do servidor e da cessação do horário especial
 
 **Artigo 10 -** O deferimento de horário especial pressupõe a assunção, pelo servidor, dos seguintes deveres:
@@ -147,7 +148,8 @@ II - descumprimento do previsto no artigo 10.
 
 2\. se houver recusa ao cumprimento do dever de realizar nova avaliação.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 Disposições Finais e Transitórias
 
 **Artigo 12 -** O disposto neste decreto aplica-se, nas mesmas condições, observadas as especificidades de cada regime jurídico:

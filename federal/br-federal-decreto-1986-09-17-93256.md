@@ -1,5 +1,3 @@
-###DEC-093256-0-000-17-09-1986@@@
-
 DECRETO Nº 93.256, DE 17 DE SETEMBRO DE 1986
 
 Altera o artigo 2º do Decreto nº 92.520, de 04 de abril de 1986.

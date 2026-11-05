@@ -1,5 +1,3 @@
-###DEC-071724-0-000-17-01-1973@@@
-
 DECRETO Nº 71.724, DE 17 DE JANEIRO DE 1973.
 
 Outorga concessão à Centrais Elétricas de Carazinho S.A. e dá outras providências.

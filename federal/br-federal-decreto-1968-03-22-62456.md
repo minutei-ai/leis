@@ -1,5 +1,3 @@
-###DEC-062456-0-000-22-03-1968@@@
-
 DECRETO Nº 62.456, DE 22 DE MARÇO DE 1968.
 
 Dispõe sôbre a denominação da Escola de Minas de Ouro Preto

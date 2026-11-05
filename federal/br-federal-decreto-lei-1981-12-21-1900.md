@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/28214a0a-8063-467f-be52-0c4cca43453f/texto#nowhere)
 
-###DEL-001900-0-000-21-12-1981@@@
-
 # Decreto-lEI nº 1.900, de 21 de dezembro de 1981
 
 Dispõe sobre a contribuição para o desenvolvimento da indústria cinematográfica nacional.
@@ -16,7 +14,29 @@ Parágrafo único - Para os fins de cobrança da contribuição a que se refere 
 
 Art. 2º - Quando se tratar de filme para exibição em cinema ou em televisão, aplicar-se-á, por título de filme, e por veículo a que destinado, a seguinte tabela, para os valores da contribuição referida no artigo 1º:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">Duração do filme</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="text-decoration:underline">Valor -Cr$</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Até 5 minutos, inclusive frações......................................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>10.738,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- De 6 a 14 minutos, inclusive frações................................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>32.214,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- De 15 a 29 minutos, inclusive frações..............................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>55.424,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- De 30 a 59 minutos, inclusive frações..............................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>132.640,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Acima de 60 minutos......................................................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>284.228,00</span></p></td></tr></tbody></table>
+Duração do filme
+
+Valor -Cr$
+
+- Até 5 minutos, inclusive frações......................................................................
+
+10.738,00
+
+- De 6 a 14 minutos, inclusive frações................................................................
+
+32.214,00
+
+- De 15 a 29 minutos, inclusive frações..............................................................
+
+55.424,00
+
+- De 30 a 59 minutos, inclusive frações..............................................................
+
+132.640,00
+
+- Acima de 60 minutos......................................................................................
+
+284.228,00
 
 § 1º - Estão isentos da contribuição prevista neste artigo os filmes destinados à exibição exclusiva em cineclubes e cinematecas.
 
@@ -30,7 +50,29 @@ Art. 2º - Quando se tratar de filme para exibição em cinema ou em televisão,
 
 Art. 3º - Quando se tratar de filme publicitário, aplicar-se-á, por título de filme e por veículo a que destinado, a seguinte tabela de valores para a contribuição referida no artigo 1º:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:center"><span style="text-decoration:underline">Duração do filme</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span style="text-decoration:underline">Valor-Cr$</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Até 14 segundos, inclusive frações..................................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>3.648,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- De 15 a 29 segundos, inclusive frações............................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>5.471,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- De 30 a 44 segundos, inclusive frações............................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>7.292,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- De 45 a 59 segundos, inclusive frações............................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>8.643,00</span></p></td></tr><tr><td style="width:356.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt"><span>- Acima de 60 segundos...................................................................................</span></p></td><td style="width:48.4pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p class="Artigo" style="text-indent:0pt; text-align:right"><span>10.941,00</span></p></td></tr></tbody></table>
+Duração do filme
+
+Valor-Cr$
+
+- Até 14 segundos, inclusive frações..................................................................
+
+3.648,00
+
+- De 15 a 29 segundos, inclusive frações............................................................
+
+5.471,00
+
+- De 30 a 44 segundos, inclusive frações............................................................
+
+7.292,00
+
+- De 45 a 59 segundos, inclusive frações............................................................
+
+8.643,00
+
+- Acima de 60 segundos...................................................................................
+
+10.941,00
 
 Art. 4º - O pagamento da contribuição a que se refere este Decreto-lei será feito à EMBRAFILME antes da apresentação do filme ao Serviço de Censura de Diversões Públicas.
 

@@ -1,5 +1,3 @@
-###DEC-052415-0-000-28-08-1963@@@
-
 decreto nº 52.415, de 28 de agÔsto de 1963.
 
 Cassa a declaração de utilidade pública concedida as associações que menciona.

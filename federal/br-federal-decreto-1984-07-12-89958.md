@@ -1,5 +1,3 @@
-###DEC-089958-0-000-12-07-1984@@@
-
 Decreto nº 89.958, de 12 de julho de 1984
 
 Dispõe sobre a fixação de áreas prioritárias, para fins de reforma agrária, nos Municípios de São Félix do Araguaia e Luciara, no Estado de Mato Grosso.

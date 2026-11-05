@@ -1,5 +1,3 @@
-###DEC-086868-0-000-21-01-1982@@@
-
 Decreto nº 86.868, de 21 de janeiro de 1982
 
 Delega competência para nomeação das autoridades que menciona e dá outras providências.

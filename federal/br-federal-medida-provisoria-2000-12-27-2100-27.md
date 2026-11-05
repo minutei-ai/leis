@@ -1,5 +1,3 @@
-###MPV-002100-0-027-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.100-27, DE 27 DE DEZEMBRO DE 2000.
 
 Dispõe sobre o repasse de recursos financeiros do Programa Nacional de Alimentação Escolar, institui o Programa Dinheiro Direto na Escola, altera a Lei nº 9.533, de 10 de dezembro de 1997, que dispõe sobre programa de garantia de renda mínima, institui programas de apoio da União às ações dos Estados e Municípios, voltadas para o atendimento educacional, e dá outras providências.

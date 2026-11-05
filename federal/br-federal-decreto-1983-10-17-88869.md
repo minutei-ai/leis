@@ -1,5 +1,3 @@
-###DEC-088869-0-000-17-10-1983@@@
-
 Decreto nº 88.869, de 17 de outubro de 1983.
 
 Renova por 15 (quinze) anos a concessão outorgada à RÁDIO E TELEVISÃO CULTURA S/A., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Florianópolis, Estado de Santa Catarina.

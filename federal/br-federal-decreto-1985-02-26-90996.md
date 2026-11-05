@@ -1,5 +1,3 @@
-###DEC-090996-0-000-26-02-1985@@@
-
 DECRETO Nº 90.996, de 26 de fevereiro de 1985
 
 Autoriza o funcionamento da Faculdade de Enfermagem e Obstetrícia de Adamantina - São Paulo.

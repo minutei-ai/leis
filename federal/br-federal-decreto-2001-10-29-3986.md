@@ -1,5 +1,3 @@
-###DEC-003986-0-000-29-10-2001@@@
-
 DECRETO Nº 3.986, DE 29 DE OUTUBRO DE 2001
 
 Altera o art. 14 do Regulamento da Agência Nacional de Telecomunições, aprovado pelo Decreto nº 2.338, de 7 de outubro de 1997.

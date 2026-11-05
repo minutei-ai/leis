@@ -1,5 +1,3 @@
-###DEC-067453-0-000-29-10-1970@@@
-
 DECRETO Nº 67.453 - DE 29 DE OUTUBRO DE 1970
 
 Autoriza o Ministério da Aeronáutica a ceder, gratuitamente, terras de propriedade da União Federal localizadas no Município de Campo Grande, Estado de Mato Grosso.

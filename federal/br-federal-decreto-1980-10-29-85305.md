@@ -1,5 +1,3 @@
-###DEC-085305-0-000-29-10-1980@@@
-
 Decreto nº 85.305, de 29 de outubro de 1980.
 
 Autoriza a alienação de imóvel residencial de propriedade da União, localizado em Brasília.

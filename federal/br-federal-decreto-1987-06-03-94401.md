@@ -1,5 +1,3 @@
-###DEC-094401-0-000-03-06-1987@@@
-
 DECRETO Nº 94.401, DE 3 DE JUNHO DE 1987
 
 Aprova a Política Nacional para Assuntos Antárticos.

@@ -1,5 +1,3 @@
-###DEC-062226-0-000-06-02-1968@@@
-
 DECRETO Nº 62.226, DE 6 DE FEVEREIRO DE 1968.
 
 Retifica o Quadro de Pessoal da Caixa Econômica Federal de Santa Catarina.

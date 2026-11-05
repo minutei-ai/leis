@@ -1,5 +1,3 @@
-###DEC-090159-0-000-06-09-1984@@@
-
 Decreto nº 90.159, de 06 de seTembro de 1984
 
 Inclui na Comissão de Cartografia representante do Programa Nacional de Política Fundiária.

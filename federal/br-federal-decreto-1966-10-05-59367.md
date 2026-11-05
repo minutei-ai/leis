@@ -1,5 +1,3 @@
-###DEC-059367-0-000-05-10-1966@@@
-
 DECRETO Nº 59.367, DE 5 DE OUTUBRO DE 1966.
 
 Institui normas para a elaboração do Programa de Investimentos Públicos para 1967.

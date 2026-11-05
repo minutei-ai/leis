@@ -1,5 +1,3 @@
-###DEC-065192-0-000-18-09-1969@@@
-
 DECRETO Nº 65.192 - DE 18 DE SETEMBRO DE 1969.
 
 Aprova o Regulamento do Fundo do Exército e dá outras providências.

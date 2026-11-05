@@ -1,7 +1,3 @@
-1
-
-###DEC-001038-0-000-07-01-1994@@@
-
 DECRETO Nº 1.038, DE 7 DE JANEIRO DE 1994
 
 Dá nova redação a dispositivos dos Decretos nº 752, de 16 de fevereiro de 1993, que dispõe sobre a concessão do Certificado de Entidade de Fins Filantrópicos, e nº 6l2, de 21 de julho de l992, que dá nova redação ao Regulamento da Organização e do Custeio da Seguridade Social.

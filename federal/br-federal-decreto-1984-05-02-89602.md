@@ -1,5 +1,3 @@
-###DEC-089602-0-000-02-05-1984@@@
-
 Decreto nº 89.602, de 2 de maio de 1984.
 
 Revoga o Decreto nº 82.566, de 18 de abril de 1984, que dispõe sobre o estabelecimento de Medidas de Emergência na área do Distrito Federal e nos municípios, que indica, do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-047469-0-000-22-12-1959@@@
-
 DECRETO Nº 47.469, DE 22 DE DEZEMBRO DE 1959.
 
 Exclui a aquisição de material para o Departamento dos Correios e Telégrafos da proibição de que trata o Decreto nº 47.208, de 9 de novembro de 1959.

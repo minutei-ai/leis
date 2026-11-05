@@ -1,5 +1,3 @@
-###DEC-060556-0-000-07-04-1967@@@
-
 DECRETO Nº 60.556, DE 7 DE ABRIL DE 1967.
 
 Concede à sociedade Wilson Sons & Company Limited autorização para continuar a funcionar na República do Brasil.

@@ -1,5 +1,3 @@
-###DEC-056382-0-000-31-05-1965@@@
-
 DECRETO Nº 56.382, DE 31 de MAIO DE 1965.
 
 Declara de utilidade pública para fins de desapropriação, os imóveis que menciona.

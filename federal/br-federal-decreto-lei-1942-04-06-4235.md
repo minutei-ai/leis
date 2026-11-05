@@ -1,5 +1,3 @@
-###DEL-004235-0-000-06-04-1942@@@
-
 DECRETO-LEI N. 4.235 – DE 6 DE ABRIL DE 1942
 
 Altera a composição do Supremo Tribunal Militar e dá outras providências

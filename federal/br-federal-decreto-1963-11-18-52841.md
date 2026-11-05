@@ -1,5 +1,3 @@
-###DEC-052841-0-000-18-11-1963@@@
-
 DECRETO Nº 52.841, DE 18 DE NOVEMBRO DE 1963.
 
 Autoriza a Cia Luz e Força Santa Cruz a alienar os bens imóveis que especifica.

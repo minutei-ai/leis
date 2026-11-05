@@ -1,5 +1,3 @@
-###DEC-000072-0-000-26-03-1991@@@
-
 DECRETO Nº 72, DE 26 DE MARÇO DE 1991
 
 Promulga o Acordo sobre Navegação Marítima Comercial, entre o Governo da República Federativa do Brasil e o Governo da República Popular da Bulgária.

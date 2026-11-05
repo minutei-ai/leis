@@ -1,5 +1,3 @@
-###DEC-046254-0-000-19-06-1959@@@
-
 DECRETO Nº 46.254, DE 19 DE JUNHO DE 1959.
 
 Abre ao Poder Judiciário - Tribunal de Justiça do Distrito Federal, o crédito especial de Cr$8.000.000,00 para fim que especifica.

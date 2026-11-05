@@ -1,5 +1,3 @@
-###DEC-092964-0-000-21-07-1986@@@
-
 DECRETO Nº 92.964, DE 21 DE JULHO DE 1986
 
 Cria a Estação Ecológica dos Tupiniquins em ilhas e laje oceânicas que indica, e dá outras providências.

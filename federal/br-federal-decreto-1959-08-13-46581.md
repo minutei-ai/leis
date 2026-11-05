@@ -1,5 +1,3 @@
-###DEC-046581-0-000-13-08-1959@@@
-
 DECRETO Nº 46.581, DE 13 DE AGôSTO DE 1959.
 
 Transfere, sem aumento de despesa, função da Tabela Numérica Especial do Colégio Pedro II - Externato - para idêntica Tabela da Escola Técnica de Belo Horizonte.

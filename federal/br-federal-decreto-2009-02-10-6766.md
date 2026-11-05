@@ -1,5 +1,3 @@
-###DEC-006766-0-000-10-02-2009@@@
-
 DECRETO Nº 6.766, DE 10 DE FEVEREIRO DE 2009.
 
 Promulga a Convenção no 178 relativa à Inspeção das Condições de Vida e de Trabalho dos Trabalhadores Marítimos, assinada em Genebra, em 22 de outubro de 1996.

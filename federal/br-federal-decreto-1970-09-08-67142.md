@@ -1,5 +1,3 @@
-###DEC-067142-0-000-08-09-1970@@@
-
 Decreto nº 67.142, de 8 de setembro de 1970.
 
 Revoga os Decretos que concederam à Empresa Machine Cottons, Limited autorização para funcionar e continuar a funcionar na República Federativa do Brasil.

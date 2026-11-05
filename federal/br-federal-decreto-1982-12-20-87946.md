@@ -1,5 +1,3 @@
-###DEC-087946-0-000-20-12-1982@@@
-
 DECRETO Nº 87.946, DE 20 DE DEZEMBRO DE 1982
 
 Autoriza o aumento do Capital Social da Espírito Santo Centrais Elétricas S.A. - ESCELSA

@@ -1,5 +1,3 @@
-###DEC-071337-0-000-08-11-1972@@@
-
 DECRETO Nº 71.337 - De 8 de novembro de 1972
 
 Concede reconhecimento ao Curso de Comunicação da Universidade de Brasília.

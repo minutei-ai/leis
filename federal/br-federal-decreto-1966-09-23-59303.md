@@ -1,5 +1,3 @@
-###DEC-059303-0-000-23-09-1966@@@
-
 DECRETO Nº 59.303, DE 23 DE SETEMBRO DE 1966.
 
 Autoriza a emprêsa de mineração Calcáreo Dom Bosco Ltda., a pesquisar calcário de munícipio de Prados, Estado de Minas Gerais.

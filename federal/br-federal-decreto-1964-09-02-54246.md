@@ -1,5 +1,3 @@
-###DEC-054246-0-000-02-09-1964@@@
-
 decreto nº 54.246, de 2 de setembro de 1964.
 
 Cria Grupo Executivo para o fim que menciona.

@@ -1,5 +1,3 @@
-###DEC-071730-0-000-18-01-1973@@@
-
 DECRETO Nº 71.730, DE 18 DE JANEIRO DE 1973.
 
 Aprova o Regulamento da Secretaria-Geral da Aeronáutica.

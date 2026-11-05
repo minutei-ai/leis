@@ -1,5 +1,3 @@
-###DEC-075012-0-000-02-12-1974@@@
-
 DECRETO Nº 75.012, DE 2 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Administração da Escola de Administração de Santa Rita do Sapucaí, mantida pelo Educandário Santarritense, com sede na cidade de Santa Rita do Sapucaí, Estado de Minas Gerais.

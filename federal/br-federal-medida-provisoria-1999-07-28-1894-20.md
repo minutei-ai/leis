@@ -1,5 +1,3 @@
-###MPV-001894-0-020-28-07-1999@@@
-
 medida provisória nº 1.894-20, de 28 de julho de 1999.
 
 Dispõe sobre a simplificação do arquivamento de atos nas Juntas Comerciais e do protesto de título de dívida de microempresas e de empresas de pequeno porte, e dá outras providências.

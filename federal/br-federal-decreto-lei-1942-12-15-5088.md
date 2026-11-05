@@ -1,5 +1,3 @@
-###DEL-005088-0-000-15-12-1942@@@
-
 DECRETO-LEI N. 5.088 – de 15 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 250.000,00 para despesas da Comissão Centra1 de Requisições

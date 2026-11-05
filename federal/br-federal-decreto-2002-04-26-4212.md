@@ -1,5 +1,3 @@
-###DEC-004212-0-000-26-04-2002@@@
-
 DECRETO Nº 4.212, DE 26 DE ABRIL DE 2002
 
 Define os setores da economia prioritários para o desenvolvimento regional, nas áreas de atuação da extinta SUDAM, e dá outras providências.

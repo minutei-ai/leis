@@ -1,5 +1,3 @@
-###DEC-059843-0-000-22-12-1966@@@
-
 DECRETO Nº 59.843, DE 22 DE DEZEMBRO DE 1966.
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de Cr$533.412.079, para o fim que especifica.

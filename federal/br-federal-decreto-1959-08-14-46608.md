@@ -1,5 +1,3 @@
-###DEC-046608-0-000-14-08-1959@@@
-
 DECRETO Nº 46.608, DE 14 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro João de Orleans e Bragança a lavrar scheelita no município de Santa Luzia, Estado da Paraíba.

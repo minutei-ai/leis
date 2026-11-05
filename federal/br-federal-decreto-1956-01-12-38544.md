@@ -1,32 +1,30 @@
-###DEC-038544-0-000-12-01-1956@@@
+**DECRETO Nº 38.544, DE 12 DE JANEIRO DE 1956.**
 
-<strong>DECRETO Nº 38.544, DE 12 DE JANEIRO DE 1956.</strong>
+***Aprova o Regimento da Casa de Rui Barbosa.***
 
-<em><strong>Aprova o Regimento da Casa de Rui Barbosa.</strong></em>
+**O VICE PRESIDENTE DO SENADO FEDERAL** no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
 
-<strong>O VICE PRESIDENTE DO SENADO FEDERAL</strong> no exercício do cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o art. 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento da Casa de Rui Barbosa (C.R.B), que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento da Casa de Rui Barbosa (C.R.B), que com êste baixa, assinado pelo Ministro de Estado da Educação e Cultura.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 12 de janeiro de 1956; 135º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Abgar Renault
 
-<strong>Regimento da Casa de Rui Barbosa</strong>
+**Regimento da Casa de Rui Barbosa**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da Finalidade</em>
+*Da Finalidade*
 
-<strong>Art</strong>. 1º - A Casa de Rui Barbosa (C.R.B.), criada pelo Decreto legislativo nº 5.429, de 12 de janeiro de 1928, órgão integrante do Ministério da Educação e Cultura (M.E.C.) diretamente subordinado ao Ministro do Estado, tem por finalidade:
+**Art**. 1º - A Casa de Rui Barbosa (C.R.B.), criada pelo Decreto legislativo nº 5.429, de 12 de janeiro de 1928, órgão integrante do Ministério da Educação e Cultura (M.E.C.) diretamente subordinado ao Ministro do Estado, tem por finalidade:
 
 I - cultuar a memória de Rui Barbosa;
 
@@ -36,11 +34,11 @@ III - promover a publicação do ser arquivo e de suas obras;
 
 IV - realizar conferências e publicar trabalhos sôbre sua vida, suas atividades, seu tempo e assuntos que por êle tenha sido versados.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 2º - A.C.R.B. compõe-se dos seguintes órgãos:
+**Art**. 2º - A.C.R.B. compõe-se dos seguintes órgãos:
 
 I - Seção Técnica (S.T)
 
@@ -52,21 +50,21 @@ IV - Zeladoria (Z).
 
 Parágrafo único - A.S.I. compreenderá o Museu, a Biblioteca e o arquivo histórico da C.R.B.
 
-<strong>Art</strong>. 3º - A. C. R.B, terá um Diretor, nomeado, em comissão, pelo Presidente da República.
+**Art**. 3º - A. C. R.B, terá um Diretor, nomeado, em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 4º - O Diretor terá um secretário, por êle designado dentre os servidores públicos federais.
+**Art**. 4º - O Diretor terá um secretário, por êle designado dentre os servidores públicos federais.
 
-<strong>Art</strong>. 5º - A. S. T, a S. A e a Z. terão Chefes e o C. P. um Coordenador, designado pelo Diretor da C.R.B., dentre servidores públicos federais.
+**Art**. 5º - A. S. T, a S. A e a Z. terão Chefes e o C. P. um Coordenador, designado pelo Diretor da C.R.B., dentre servidores públicos federais.
 
-<strong>Art</strong>. 6º - Serão gratificadas as funções indicadas nos arts. 4º e 5º.
+**Art**. 6º - Serão gratificadas as funções indicadas nos arts. 4º e 5º.
 
-<strong>Art</strong>. 7º - Os órgãos que integram a C.R.B. funcionarão coordenados, em regime de colaboração, orientados e superintendidos pelo Diretor.
+**Art**. 7º - Os órgãos que integram a C.R.B. funcionarão coordenados, em regime de colaboração, orientados e superintendidos pelo Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Competência e Estrutura dos Órgãos</em>
+*Da Competência e Estrutura dos Órgãos*
 
-<strong>Art</strong>. 8º - A. S. T. compete:
+**Art**. 8º - A. S. T. compete:
 
 I - promover a aquisição, o registro e a classificação dos livros, documentos, móveis e outros objetos que perteceram ou se referem a Rui Barbosa;
 
@@ -84,9 +82,9 @@ VII - prestar informações aos visitantes a respeito da vida e obra de Rui Barb
 
 VIII - extrair, mediante autorização do Diretor, certidões e cópias de documentos.
 
-<strong>Art</strong>. 9º - Ao C. P., instituído pelo Decreto nº 30.643, de 20 de março de 1952, compete realizar estudos e trabalhos no domínio do direito e da filologia, publicando seus resultados em arquivos e boletins.
+**Art**. 9º - Ao C. P., instituído pelo Decreto nº 30.643, de 20 de março de 1952, compete realizar estudos e trabalhos no domínio do direito e da filologia, publicando seus resultados em arquivos e boletins.
 
-<strong>Art</strong>. 10 - O C. P. compreenderá duas Seções: a de Direito e a de Filologia, dirigidas cada qual por uma Comissão de especialistas convidados pelo Ministro da Educação e Cultura, ouvido o Diretor da S.R.B.
+**Art**. 10 - O C. P. compreenderá duas Seções: a de Direito e a de Filologia, dirigidas cada qual por uma Comissão de especialistas convidados pelo Ministro da Educação e Cultura, ouvido o Diretor da S.R.B.
 
 § 1º - Cada Comissão de que trata êste artigo estabelecerá, anualmente, um plano de trabalho, podendo, para êsse fim, solicitar a colaboração de professôres universitários do Brasil, providos em cátedras de direito e de filologia ou em cadeiras afins.
 
@@ -94,7 +92,7 @@ VIII - extrair, mediante autorização do Diretor, certidões e cópias de docum
 
 § 3º - A Comissão de Filologia promoverá pesquisas no campo da filologia portuguêsa - fonológicas, morfológicas, sintáticas, lexicas, etimológicas, métricas, onomatológicas, dialetológicas, bibliográficas, históricas, literárias, problemas de texto, de fontes, de autoria e de influências - sendo sua finalidade principal a elaboração do Atlas Linguístico do Brasil.
 
-<strong>Art</strong>. 11 - À S. A. compete:
+**Art**. 11 - À S. A. compete:
 
 I - Elaborar o expediente, a escrituração e os registros, de interêsse imediato da C.R.B. relativos à administração de pessoal, material e orçamento, em harmonia com os órgãos de administração geral do M. E. C., cujas normas e métodos de trabalho deverá observar;
 
@@ -104,7 +102,7 @@ III - reunir os elementos necessários ao preparo do relatório anual da C.R.B;
 
 IV - organizar e submeter à aprovação do Diretor, escala de férias dos servidores em exercício na C. R. B., ouvidos os respectivos chefes imediatos.
 
-<strong>Art</strong>. 12 - À Zeladoria compete:
+**Art**. 12 - À Zeladoria compete:
 
 I - diligenciar o bom estado de conservação e limpeza do edifício, dos seus móveis e alfaias, bem como dos jardins franqueados ao público, dos viveiros e das reservas de mudas;
 
@@ -114,11 +112,11 @@ III - prestar informações a visitantes e consulentes e guardar-lhes os objetos
 
 IV - manter o depósito de publicações.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das Atribuições do Pessoal</em>
+*Das Atribuições do Pessoal*
 
-<strong>Art</strong>. 13 - Ao Diretor da C.R.B. incumbe:
+**Art**. 13 - Ao Diretor da C.R.B. incumbe:
 
 I - dirigir as atividades da C.R.B., incentivando e coordenando o trabalho dos seus vários órgãos, com o objetivo de conduzí-lo à plena realização de suas finalidades;
 
@@ -168,7 +166,7 @@ XXIII - presidir às reuniões das Comissões do C.P.;
 
 XXIV - Apresentar anualmente ao Ministro de Estado o plano de pesquisa eo relatório das atividades C.R.B.
 
-<strong>Art</strong>. 14 - Aos Chefes da S.T. e da S.A. incumbe:
+**Art**. 14 - Aos Chefes da S.T. e da S.A. incumbe:
 
 I - dirigir, distribuir, coordenar e fiscalizar a execução dos trabalhos da respectivas Seção, propondo ao Diretor da C.R.B. as medidas convenientes ao seu desenvolvimento;
 
@@ -180,7 +178,7 @@ IV - prôpor ao Diretor da C.R.B. o elógio de servidores em exercício na respe
 
 V - expedir boletins de merecimento dos servidores que lhes são diretamente subordinados;
 
-<strong>Art</strong>. 15 - Ao Coordenador do C. P incumbe:
+**Art**. 15 - Ao Coordenador do C. P incumbe:
 
 I - superintender, pessoalmente, a elaboração dos planos de trabalho do C. P.;
 
@@ -196,7 +194,7 @@ VI - prôpor ao Diretor da C. R. B. o elogio de servidores em exercício no C. P
 
 VII - expedir boletins de merecimento dos servidores que lhe são diretamente subordinados.
 
-<strong>Art</strong>. 16 - Ao Chefe da Z. incumbe:
+**Art**. 16 - Ao Chefe da Z. incumbe:
 
 I - dirigir, distribuir, coordenar e fiscalizar os trabalhos da Z.;
 
@@ -218,7 +216,7 @@ IX - designar servidores para acompanhar os visitantes;
 
 Parágrafo único - O Chefe da Z. terá residência obrigatória em dependência da C.R.B.
 
-<strong>Art</strong>. 17 - Ao secretário do Diretor incumbe:
+**Art**. 17 - Ao secretário do Diretor incumbe:
 
 I - atender a pessoas que se dirigirem ao Gabinete do Diretor;
 
@@ -228,60 +226,60 @@ III - redigir a correspondência do Diretor;
 
 IV - auxiliar o Diretor na elaboração dos seus trabalhos.
 
-<strong>Art</strong>. 18 - Aos servidores em exercício na C.R.B.; sem atribuições especificadas neste Regulamento, incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
+**Art**. 18 - Aos servidores em exercício na C.R.B.; sem atribuições especificadas neste Regulamento, incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da lotação</em>
+*Da lotação*
 
-<strong>Art</strong>. 19 - A.C.R.B. terá lotação aprovada por ato especial.
+**Art**. 19 - A.C.R.B. terá lotação aprovada por ato especial.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 20 - O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
+**Art**. 20 - O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público.
 
-<strong>Art</strong>. 21 - O Diretor não está sujeito a ponto.
+**Art**. 21 - O Diretor não está sujeito a ponto.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 22 - São substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 22 - São substituídos, automaticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I - O Diretor, pelo Chefe da S.T.;
 
 II - Os Chefes de Seção e o Coordenador do D. P., por servidores designados pelo Diretor.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 23 - Para prestarem informações aos consulentes e visitantes terão exercício na Z, preferentemente, servidores instruídos a respeito das obras e objetos que pertencerem a Rui Barbosa.
+**Art**. 23 - Para prestarem informações aos consulentes e visitantes terão exercício na Z, preferentemente, servidores instruídos a respeito das obras e objetos que pertencerem a Rui Barbosa.
 
-<strong>Art</strong>. 24 - Os livros de grande raridade os incunábulos, os exemplares em papel especial ou numerados, as obras com dedicatória, assinatura, ou anotações de homens notáveis e, de modo geral, todos os documentos de grande valor histórico serão guardados em estantes fechadas e só poderão ser dados à consulta mediante autorização do Diretor e sob assistência direta e ininterrupta de um servidor para tal fim especialmente destacado.
+**Art**. 24 - Os livros de grande raridade os incunábulos, os exemplares em papel especial ou numerados, as obras com dedicatória, assinatura, ou anotações de homens notáveis e, de modo geral, todos os documentos de grande valor histórico serão guardados em estantes fechadas e só poderão ser dados à consulta mediante autorização do Diretor e sob assistência direta e ininterrupta de um servidor para tal fim especialmente destacado.
 
-<strong>Art</strong>. 25 - Não poderão ser usados os móveis e as alfaias que pertenceram a Rui Barbosa e que guarnecem a C.R.B.
+**Art**. 25 - Não poderão ser usados os móveis e as alfaias que pertenceram a Rui Barbosa e que guarnecem a C.R.B.
 
-<strong>Art</strong>. 26 - A Sala de Conferências da C.R.B. só será cedida para solenidade educativas e cívicas.
+**Art**. 26 - A Sala de Conferências da C.R.B. só será cedida para solenidade educativas e cívicas.
 
-<strong>Art</strong>. 27 - Os imóveis e objetos da C.R.B. que tenham interêsse histórico, só poderão sofrer reparos mediante autorização e assistência da Diretoria do Patrimônio Histórico e Artístico Nacional.
+**Art**. 27 - Os imóveis e objetos da C.R.B. que tenham interêsse histórico, só poderão sofrer reparos mediante autorização e assistência da Diretoria do Patrimônio Histórico e Artístico Nacional.
 
-<strong>Art</strong>. 28 - Os catálogos e demais publicações da C.R.B. serão posto à venda, recolhendo-se o produto ao Tesouro Nacional.
+**Art**. 28 - Os catálogos e demais publicações da C.R.B. serão posto à venda, recolhendo-se o produto ao Tesouro Nacional.
 
-<strong>Art</strong>. 29 - Os servidores lotados ou em exercício na C.R.B. só poderão fazer publicações, conferências, ou dar entrevistas, sôbre assuntos que se relacionem com a organização e as atividades da mesma, mediante prévia autorização escrita do Diretor.
+**Art**. 29 - Os servidores lotados ou em exercício na C.R.B. só poderão fazer publicações, conferências, ou dar entrevistas, sôbre assuntos que se relacionem com a organização e as atividades da mesma, mediante prévia autorização escrita do Diretor.
 
-<strong>Art</strong>. 30 - A juízo do Diretor, poderão ser publicados pela C.R.B. trabalhos relacionados com as suas atividades, produzidos por pessoas a ela estranhas.
+**Art**. 30 - A juízo do Diretor, poderão ser publicados pela C.R.B. trabalhos relacionados com as suas atividades, produzidos por pessoas a ela estranhas.
 
-<strong>Art</strong>. 31 - Os trabalhos da C.R.B. poderão se publicados, mediante autorização do Diretor, em revistas literárias e científicas, nacionais ou estrangeiras, desde que mencionem a circunstância de terem sido nela produzidos.
+**Art**. 31 - Os trabalhos da C.R.B. poderão se publicados, mediante autorização do Diretor, em revistas literárias e científicas, nacionais ou estrangeiras, desde que mencionem a circunstância de terem sido nela produzidos.
 
-<strong>Art</strong>. 32 - As atuais funções gratificadas de Chefe da Turma de Museu e Divulgação, GG-5, e Chefe da Turma de Administração, FG-6, da C.R.B., passam a denominar-se respectivamente, Chefe da Seção Técnica e Chefe de Administração.
+**Art**. 32 - As atuais funções gratificadas de Chefe da Turma de Museu e Divulgação, GG-5, e Chefe da Turma de Administração, FG-6, da C.R.B., passam a denominar-se respectivamente, Chefe da Seção Técnica e Chefe de Administração.
 
-<strong>Art</strong>. 33 - os casos omissos, que envolvam matéria regimental, serão resolvidos pelo Ministro de Estado.
+**Art**. 33 - os casos omissos, que envolvam matéria regimental, serão resolvidos pelo Ministro de Estado.
 
-<strong>Art</strong>. 34 - Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 34 - Êste Regimento entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 12 de janeiro de 1956.
 
-<strong>ABGAR RENAULT</strong>
+**ABGAR RENAULT**

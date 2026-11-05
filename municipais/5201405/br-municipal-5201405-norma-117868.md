@@ -698,8 +698,10 @@ Art. 74. Este Ato entra em vigor a partir de sua publicação.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, aos 09 de março de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

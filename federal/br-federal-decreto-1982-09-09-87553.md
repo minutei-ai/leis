@@ -1,5 +1,3 @@
-###DEC-087553-0-000-09-09-1982@@@
-
 Decreto nº 87.553, de 09 de setembro de 1982
 
 Outorga à ADAMI S.A. - Madeiras concessão para o aproveitamento da energia hidráulica de um desnível existente no rio Chapecó, no Município de Água Doce, Estado de Santa Catarina, para uso exclusivo.

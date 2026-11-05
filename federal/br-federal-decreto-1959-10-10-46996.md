@@ -1,5 +1,3 @@
-###DEC-046996-0-000-10-10-1959@@@
-
 Decreto nº 46.996, de 10 de outubro de 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Marcelino Ramos, no Estado do Rio Grande do Sul.

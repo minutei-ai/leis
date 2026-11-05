@@ -1,6 +1,7 @@
 LEI Nº 1.509 DE 05 DE OUTUBRO DE 1961
 
-Ver Também:<br>
+Ver Também:
+
 Lei nº [12.636](https://www.legislabahia.ba.gov.br/documentos/lei-no-12636-de-10-de-janeiro-de-2013#LO%2012.636) de 10 de janeiro de 2013 - Atualiza os limites dos Municípios que integram o Território de Identidade Extremo Sul, na forma da Lei nº 12.057, de 11 de janeiro de 2011, a saber: Alcobaça, Caravelas, Ibirapoã, Itamaraju, Itanhém, Jucuruçu, Lajedão, Medeiros Neto, Mucuri, Nova Viçosa, Prado, Teixeira de Freitas e Vereda.
 
 Cria o Município de Itamaraju, desmembrado do de Prado.
@@ -53,4 +54,4 @@ Governador
 
 Manso Cabral
 
-* * *
+ *

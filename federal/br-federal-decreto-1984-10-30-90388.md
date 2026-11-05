@@ -1,5 +1,3 @@
-###DEC-090388-0-000-30-10-1984@@@
-
 Decreto nº 90.388, de 30 de outubro de 1984
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO ALTO DA SERRA LTDA., para a EMISSORAS CENTRO-OESTE LTDA.

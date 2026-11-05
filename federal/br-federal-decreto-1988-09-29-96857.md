@@ -1,5 +1,3 @@
-###DEC-096857-0-000-29-09-1988@@@
-
 DECRETO Nº 96 857, DE 29 DE SETEMBRO DE 1988
 
 Reajusta o valor do Piso Nacional de Salários.

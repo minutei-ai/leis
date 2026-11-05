@@ -1,5 +1,3 @@
-###DEC-004933-0-000-23-12-2003@@@
-
 DECRETO Nº 4.933 DE 23 DE DEZEMBRO DE 2003.
 
 Acrescenta o art. 4o-A à Estrutura Regimental da Comissão de Valores Mobiliários, aprovada pelo Decreto no 4.763, de 24 de junho de 2003.

@@ -1,5 +1,3 @@
-###DEC-054297-0-000-23-09-1964@@@
-
 DECRETO Nº 54.297, DE 23 DE SETEMBRO DE 1964.
 
 Aprova a revisão do Quadro de Pessoal da Caixa de Construção de Casas do Ministério da Guerra e dá outras providências.

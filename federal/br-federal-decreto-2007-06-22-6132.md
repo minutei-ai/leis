@@ -1,5 +1,3 @@
-###DEC-006132-0-000-22-06-2007@@@
-
 DECRETO Nº 6.132, DE 22 DE JUNHO DE 2007.
 
 Aprova o Estatuto da Caixa Econômica Federal - CEF e dá outras providências.
@@ -20,11 +18,7 @@ LUIZ INÁCIO LULA DA SILVA
 
 Guido Mantega
 
-Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 25.6.2007
-
-ANEXO
+Paulo Bernardo SilvaANEXO
 
 ESTATUTO DA CAIXA ECONÔMICA FEDERAL - CEF
 

@@ -1,5 +1,3 @@
-###DEC-048570-0-000-21-07-1960@@@
-
 DECRETO Nº 48.570, DE 21 DE JUlho DE 1960.
 
 Autoriza o cidadão brasileiro Antônio da Silva Barradas a pesquisar areias ilmeniticas no município de Tutóia, Estado do Maranhão.

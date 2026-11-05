@@ -1,5 +1,3 @@
-###DEC-087319-0-000-22-06-1982@@@
-
 Decreto nº 87.319, de 22 junho de 1982
 
 Concede á COMPANHIA SIDERÚRGICA DE TUBARÃO autorização para proceder a aumento do seu Capital Social.

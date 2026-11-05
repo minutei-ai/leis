@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212621)<br>
-
 # DECRETO N° 70.622, DE 19 DE MAIO DE 2026
 
 ### _Transfere, da Secretaria de Meio Ambiente, Infraestrutura e Logística para a Secretaria da Segurança Pública, a administração de parte do imóvel que especifica, localizado no Município de Jundiaí._

@@ -1,5 +1,3 @@
-###DEL-003480-0-000-29-07-1941@@@
-
 DECRETO-LEI N. 3.480 – DE 29 DE JULHO DE 1941
 
 Cria, no Ministério da Agricultura, a Comissão de Construção do Centro Nacional de Ensino e Pesquisas Agronômicas e dá outras providências.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099974-0-000-04-01-1991@@@
-
 DECRETO Nº 99.974, DE 4 DE JANEIRO DE 1991
 
 Outorga à COPREL - Cooperativa de Eletrificação Rural Alto Jacuí Ltda. concessão para aproveitamento de energia hidráulica do Rio Pinheirinho, no Município de Ibiruá, Estado do Rio Grande do Sul, no trecho que menciona.

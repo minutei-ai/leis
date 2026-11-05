@@ -1,24 +1,22 @@
-###DEC-022998-0-000-24-04-1947@@@
+**DECRETO Nº 22.998, DE 24 DE ABRIL DE 1947.**
 
-<strong>DECRETO Nº 22.998, DE 24 DE ABRIL DE 1947.</strong>
+***Aprova cláusulas do termo aditivo aos contratos em vigor com The Rio de Janeiro City Improvements Company Limited.***
 
-<em><strong>Aprova cláusulas do termo aditivo aos contratos em vigor com The Rio de Janeiro City Improvements Company Limited.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição:
+**Decreta:**
 
-<strong>Decreta:</strong>
+**Art**. 1º Ficam aprovadas as cláusulas que acompanham o presente Decreto para assinatura do termo aditivo aos contratos em vigor com The Rio de Janeiro City Improvements Company Ltd., previsto no art. 4º do Decreto-lei nº 7.459, de 12 de abril de 1945.
 
-<strong>Art</strong>. 1º Ficam aprovadas as cláusulas que acompanham o presente Decreto para assinatura do termo aditivo aos contratos em vigor com The Rio de Janeiro City Improvements Company Ltd., previsto no art. 4º do Decreto-lei nº 7.459, de 12 de abril de 1945.
-
-<strong>Art</strong>. 2º Revogam-se as disposições em contrário.
+**Art**. 2º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 24 de abril de 1947; 126º da Independência e 59º da República.
 
-<strong>Eurico G.Dutra</strong>
+**Eurico G.Dutra**
 
 Clemente Mariani
 
-<strong>Cláusulas a que se refere o Decreto nº 22.998, de 24 de abril de 1947.</strong>
+**Cláusulas a que se refere o Decreto nº 22.998, de 24 de abril de 1947.**
 
 Cláusulas primeira. Ficam, em cumprimento ao disposto nos Decretos-leis ns. 7.459, de 12 de abril e 7.860, de 13 de agosto de 1945, transferidos para a Prefeitura do Distrito Federal os direitos, compromissos e obrigações decorrentes dos contratos, termos aditivos, acordos, instruções e regras era vigor entre a União e "The Rio de Janeiro City Improvements Co., Limited".
 

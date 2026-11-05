@@ -1,5 +1,3 @@
-###DEC-068848-0-000-02-07-1971@@@
-
 DECRETO Nº 68.848, de 2 DE JULHO DE 1971.
 
 Declara de utilidade pública a Associação de Proteção à Maternidade e à Infância Dr. Lopes Rodrigues, com sede em Carinhanha, Estado da Bahia.

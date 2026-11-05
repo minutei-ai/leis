@@ -1,5 +1,3 @@
-###DEC-067682-0-000-30-11-1970@@@
-
 DECRETO nº 67.682, DE 30 DE NOVEMBRO DE 1970.
 
 Outorga à Companhia de Telecomunicações de Goiás - COTELGO - concessão para explorar serviços de telefonia públicos urbanos em todos os Municípios do Estado de Goiás e dá outras providências.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59911)
-
 # LEI Nº 12.225, DE 11 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 130/2005, do Deputado Rogério Nogueira - PDT)

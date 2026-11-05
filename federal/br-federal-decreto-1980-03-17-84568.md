@@ -1,5 +1,3 @@
-###DEC-084568-0-000-17-03-1980@@@
-
 DECRETO Nº 84.568, DE 17 DE MARÇO DE 1980
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas de Goiás S.A. - CELG, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-049461-0-000-07-12-1960@@@
-
 DECRETO Nº 49.461, DE 7 DE DEZEMBRO DE 1960.
 
 Restabelece o cargo de Adido Aeronáutico junto à Embaixada do Brasil em Santiago (Chile), e dá outras providências.

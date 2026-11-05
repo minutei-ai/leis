@@ -1,5 +1,3 @@
-###DEC-003524-0-000-26-06-2000@@@
-
 DECRETO Nº 3.524, DE 26 DE JUNHO DE 2000.
 
 Regulamenta a Lei nº 7.797, de 10 de julho de 1989, que cria o Fundo Nacional do Meio Ambiente e dá outras providências.

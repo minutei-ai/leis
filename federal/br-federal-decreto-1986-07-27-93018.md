@@ -1,5 +1,3 @@
-###DEC-093018-0-000-27-07-1986@@@
-
 DECRETO Nº 93.018, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado -''Fazenda São Joaquim'', situado nos Municípios de Pereira Barreto e Mirandópolis, no Estado de São Paulo, compreendido na zona prioritária, para fins de reforma agrária fixada pelo Decreto nº 92.688, de 19 de maio de 1986, e dá outras providências.

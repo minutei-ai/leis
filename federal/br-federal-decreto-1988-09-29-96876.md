@@ -1,5 +1,3 @@
-###DEC-096876-0-000-29-09-1988@@@
-
 DECRETO N° 96.876, DE 29 DE SETEMBRO DE 1988
 
 Dispõe sobre o Regulamento do Serviço Nacional de Informações - (SNI) e dá outras providências.

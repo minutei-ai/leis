@@ -1,5 +1,3 @@
-###DEC-093546-0-000-06-11-1986@@@
-
 DECRETO Nº 93.546, DE 6 DE NOVEMBRO DE 1986
 
 Cria o Parque Nacional da Lagoa do Peixe.

@@ -1,5 +1,3 @@
-###DEC-058494-0-000-24-05-1966@@@
-
 DECRETO Nº 58.494, DE 24 DE MAIO DE 1966.
 
 Nomeia interventor administrativo no Consórcio Intermunicipal de Eletricidade.

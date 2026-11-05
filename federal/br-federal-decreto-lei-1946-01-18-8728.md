@@ -1,5 +1,3 @@
-###DEL-008728-0-000-18-01-1946@@@
-
 DECRETO-LEI N.  8.728 – DE 18 DE JANEIRO DE 1946
 
 Determina a distribuição de crédito à Tesouraria do Ministério da Educação e Saúde.

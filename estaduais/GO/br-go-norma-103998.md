@@ -1,4 +1,5 @@
-DECRETO Nº 9.879, DE 08 DE JUNHO DE 2021<br>
+DECRETO Nº 9.879, DE 08 DE JUNHO DE 2021
+
 \- [Revogado pelo Decreto nº 10.752, de 7-8-2025](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111137), art. 6º, II.
 
 ~~Autoriza a Secretaria de Estado de Esporte e Lazer a realizar e manter os contratos temporários que especifica, nos termos previstos no Convênio nº 904059/2020, celebrado junto à União, por intermédio do Ministério da Cidadania – MC .~~
@@ -7,7 +8,8 @@ DECRETO Nº 9.879, DE 08 DE JUNHO DE 2021<br>
 
 ~~**DECRETA:**~~
 
-~~Art. 1º Fica a Secretaria de Estado de Esporte e Lazer – SEL autorizada a celebrar, bem como manter, nos termos da Lei estadual nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 1 (um) contrato temporário de Professor de Artes Marciais de Karatê, pelo prazo máximo de 12 (doze) meses, nos termos do inciso VI do art. 2º da referida lei, no quantitativo que especifica.~~<br>
+~~Art. 1º Fica a Secretaria de Estado de Esporte e Lazer – SEL autorizada a celebrar, bem como manter, nos termos da Lei estadual nº [20.918](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103634/lei-20918), de 21 de dezembro de 2020, mediante processo seletivo simplificado, 1 (um) contrato temporário de Professor de Artes Marciais de Karatê, pelo prazo máximo de 12 (doze) meses, nos termos do inciso VI do art. 2º da referida lei, no quantitativo que especifica.~~
+
 [~~\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~Art. 1º Fica a Secretaria de Estado de Esporte e Lazer – SEL autorizada a celebrar, bem como manter, nos termos da Lei estadual nº 20.918, de 21 de dezembro de 2020, mediante processo seletivo simplificado, 1 (um) contrato temporário de Professor de Educação Física de Karatê, pelo prazo máximo de 12 (doze) meses, podendo ser prorrogado nos termos do inciso VI do art. 2º da referida Lei.~~
@@ -18,7 +20,8 @@ DECRETO Nº 9.879, DE 08 DE JUNHO DE 2021<br>
 
 ~~§ 3º A contratação temporária ocorrerá à conta de recursos oriundos do Tesouro Nacional, Fonte de Recursos 188, Natureza das Despesas: 3.1.90.04.01.~~
 
-~~Art. 2º São atribuições do Professor de Artes Marciais de Karatê:~~<br>
+~~Art. 2º São atribuições do Professor de Artes Marciais de Karatê:~~
+
 [~~\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~Art. 2º São atribuições dos Professores de Educação Física de Karatê:~~
@@ -43,17 +46,20 @@ DECRETO Nº 9.879, DE 08 DE JUNHO DE 2021<br>
 
 ~~Art. 3º São requisitos para a contratação:~~
 
-~~I – faixa preta registrada na federação da modalidade; e~~<br>
+~~I – faixa preta registrada na federação da modalidade; e~~
+
 [~~\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~I – certificado ou diploma de licenciatura plena ou bacharelado em Educação Física e Registro no Conselho Regional de Educação Física de Goiás e Tocantins – CREF14;~~
 
-~~II – experiência profissional de 6 (seis) meses na modalidade.~~<br>
+~~II – experiência profissional de 6 (seis) meses na modalidade.~~
+
 [~~\- Redação dada pelo Decreto nº 9.950, de 16-09-2021.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~II – certidão negativa de regularidade junto ao conselho da categoria; e~~
 
-~~III – experiência profissional de 1 (um) ano na modalidade.~~<br>
+~~III – experiência profissional de 1 (um) ano na modalidade.~~
+
 [~~\- Revogado pelo Decreto nº 9.950, de 16-09-2021, art. 4º, i.~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~[](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104309/decreto-9950)~~
 
 ~~Art. 4º Além das contratações previstas neste Decreto, poderá ser formado banco de habilitados.~~

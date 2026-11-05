@@ -1,7 +1,3 @@
-1
-
-###DEC-001480-0-000-03-05-1995@@@
-
 DECRETO Nº 1.480, DE 3 DE MAIO DE 1995
 
 Dispõe sobre os procedimentos a serem adotados em casos de paralisações dos serviços públicos federais, enquanto não regulado o disposto no art. 37, inciso VII, da Constituição.

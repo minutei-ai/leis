@@ -1,5 +1,3 @@
-###DEC-083603-0-000-19-06-1979@@@
-
 decreto nº 83.603, de 19 de julho de 1979.
 
 Declara luto oficial por um dia.

@@ -1,5 +1,3 @@
-###DEC-057330-0-000-24-11-1965@@@
-
 DECRETO Nº 57.330, DE 24 DE NOVEMBRO DE 1965.
 
 Autoriza Mineração Itabirense Ltda., a pesquisar minério de ferro, no município de Barão de Cocais, Estado de Minas Gerais.

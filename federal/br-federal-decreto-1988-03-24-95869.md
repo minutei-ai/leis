@@ -1,7 +1,3 @@
-1
-
-###DEC-095869-0-000-24-03-1988@@@
-
 DECRETO N° 95.869, DE 24 DE MARÇO DE 1988
 
 Extingue o Centro Médico Naval do Rio de Janeiro, e dá outras providências.

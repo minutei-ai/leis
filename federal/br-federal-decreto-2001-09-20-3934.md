@@ -1,5 +1,3 @@
-###DEC-003934-0-000-20-09-2001@@@
-
 DECRETO Nº 3.934, DE 20 DE SETEMBRO DE 2001
 
 Aprova o Regulamento do Programa Nacional de Renda Mínima vinculado à saúde: "Bolsa-Alimentação" e dá outras providências.

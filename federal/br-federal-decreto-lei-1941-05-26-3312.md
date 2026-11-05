@@ -1,5 +1,3 @@
-###DEL-003312-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.312 – DE 26 DE MAIO DE 1941
 
 Cria a Brigada Mista com sede em Aquidauana e subordinada à 9ª Região Militar

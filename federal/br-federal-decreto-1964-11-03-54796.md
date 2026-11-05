@@ -1,5 +1,3 @@
-###DEC-054796-0-000-03-11-1964@@@
-
 DECRETO Nº 54.796, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Pedro de Araújo Lima a lavrar mármore, no município de Cantagalo, Estado do Rio de Janeiro.

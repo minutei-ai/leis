@@ -1,5 +1,3 @@
-###DEC-075853-0-000-11-06-1975@@@
-
 DECRETO Nº 75.853, DE 11 DE JUNHO DE 1975.
 
 Concede reconhecimento ao curso de Matemática da Universidade Federal do Acre, com sede na cidade de Rio Branco, Estado do Acre.

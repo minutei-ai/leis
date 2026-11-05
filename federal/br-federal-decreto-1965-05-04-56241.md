@@ -1,5 +1,3 @@
-###DEC-056241-0-000-04-05-1965@@@
-
 DECRETO Nº 56.241, DE 4 DE MAIO DE 1965.
 
 Regulamenta a Lei nº 4.464, de 9 de novembro de 1964, que dispõe sôbre os órgãos de representação dos estudantes e dá outras providências.

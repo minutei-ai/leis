@@ -1,5 +1,3 @@
-###DEL-007192-0-000-23-12-1944@@@
-
 DECRETO-LEI N. 7.192 – DE 23 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a administração fiscal dos Territórios Federais e dá outras providências

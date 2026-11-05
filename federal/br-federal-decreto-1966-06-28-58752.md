@@ -1,5 +1,3 @@
-###DEC-058752-0-000-28-06-1966@@@
-
 DECRETO Nº 58.752, DE 28 DE JUNHO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$80.000.000 para atender às despesas decorrentes da visita ao Brasil de Sua Majestade Xainxá do Irã.

@@ -1,5 +1,3 @@
-###DEL-005343-0-000-25-03-1943@@@
-
 DECRETO‑LEI N. 5.343 – DE 25 DE MARÇO DE 1943
 
 Dispõe sobre a habilitação para a direção da educação física nos estabelecimentos de ensino de grau secundário

@@ -1,5 +1,3 @@
-###DEC-070742-0-000-20-06-1972@@@
-
 Decreto nº 70.742, de 20 de junho de 1972.
 
 Declara de utilidade pública para fins de servidão e desapropriação, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis e benfeitorias situados no Distrito de Japeri, Município de Nova Iguaçu, Estado do Rio de Janeiro.

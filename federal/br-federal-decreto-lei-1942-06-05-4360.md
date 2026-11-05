@@ -1,5 +1,3 @@
-###DEL-004360-0-000-05-06-1942@@@
-
 DECRETO-LEI N. 4.360 – DE 5 DE JUNHO DE 1942
 
 Modifica os prazos para o penhor agrícola e pecuário e dá outras providências

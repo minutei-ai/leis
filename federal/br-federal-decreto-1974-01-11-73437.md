@@ -1,5 +1,3 @@
-###DEC-073437-0-000-11-01-1974@@@
-
 DECRETO Nº 73.437, DE 11 DE JANEIRO DE 1974.
 
 Autoriza a cessão, sob a forma de utilização gratuita, do domínio útil do terreno que menciona, situado no Município de Petropólis, no Estado do Rio de Janeiro.

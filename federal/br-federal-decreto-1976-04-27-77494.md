@@ -1,5 +1,3 @@
-###DEC-077494-0-000-27-04-1976@@@
-
 Decreto nº 77.494 - de 27 de ABRIL DE 1976
 
 Concede autorização à Brasil Viscose S A , sediada em São Paulo, Capital, para funcionar aos domingos e feriados civis e religiosos, no estabelecimento industrial que menciona.

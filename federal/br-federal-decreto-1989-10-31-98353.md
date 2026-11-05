@@ -1,7 +1,3 @@
-1
-
-###DEC-098353-0-000-31-10-1989@@@
-
 DECRETO Nº 98.353, DE 31 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Informática do Paraná.

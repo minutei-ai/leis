@@ -1,5 +1,3 @@
-###DEC-072619-0-000-15-08-1973@@@
-
 DECRETO Nº 72.619, DE 15 DE AGOSTO DE 1973.
 
 Dá nova redação ao parágrafo único, do artigo 15, do Regulamento aprovado pelo Decreto nº 40.359, de 16 de novembro de 1956, modificado pelo Decreto nº 53.540, de 5 de fevereiro de 1964.

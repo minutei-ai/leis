@@ -4,7 +4,8 @@ Institui a Política sobre Mudança do Clima do Estado da Bahia, e dá outras pr
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembléia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 1º - Fica instituída a Política Estadual sobre Mudança do Clima, que se regerá pelos objetivos, princípios, diretrizes e instrumentos estabelecidos por esta Lei.
@@ -51,7 +52,8 @@ XVIII - território de identidade: unidade de planejamento adotada pelo Governo 
 
 XIX - vulnerabilidade: grau de suscetibilidade e incapacidade de um sistema, em função de sua sensibilidade, sua capacidade de adaptação e do caráter, magnitude e taxa de mudança e variação do clima a que está exposto, de lidar com os efeitos adversos da mudança do clima, entre os quais a variabilidade climática e os eventos extremos.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS PRINCÍPIOS, OBJETIVOS E DIRETRIZES
 
 Art. 3º - A Política Estadual sobre Mudança do Clima é regida pelos seguintes princípios:
@@ -122,7 +124,8 @@ XIV - o apoio e estímulo a padrões sustentáveis de produção e consumo, bem 
 
 XV - a promoção de ações que contribuam para a redução do desmatamento e das emissões líquidas de gases de efeito estufa.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DOS INSTRUMENTOS DA POLÍTICA ESTADUAL SOBRE MUDANÇA DO CLIMA
 
 Art. 6º - São instrumentos da Política Estadual sobre Mudança do Clima:
@@ -201,7 +204,8 @@ VIII - o Conselho Estadual de Recursos Hídricos - CONERH;
 
 IX - a Comissão Técnica Estadual do Programa de Gerenciamento Costeiro - GERCO.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DO PLANO ESTADUAL SOBRE MUDANÇA DO CLIMA
 
 Art. 8º - O Plano Estadual sobre Mudança do Clima visa fundamentar e orientar a implementação da Política Estadual por meio de ações e medidas que objetivem a mitigação da mudança do clima e a adaptação aos seus efeitos.
@@ -214,7 +218,8 @@ Parágrafo único - O processo de consulta pública incluirá os resultados da C
 
 Art. 11 - O Plano Estadual sobre Mudança do Clima, em consonância com a Política Estadual de Educação Ambiental, deverá promover o desenvolvimento e a realização de campanhas, programas e ações de educação ambiental, em linguagem acessível e compatível com os diferentes públicos, com o fim de conscientizar a população sobre as causas e os impactos decorrentes da mudança do clima e as alternativas, individuais e coletivas, de mitigação e fortalecimento dos sumidouros de gases de efeito estufa, com a participação da sociedade civil organizada e instituições de ensino.
 
-CAPÍTULO V -<br>
+CAPÍTULO V -
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 12 - O Instituto de Gestão das Águas e Clima - INGÁ é o órgão executor da Política Estadual de Mudanças Climáticas, em face das competências definidas na Lei nº 11.050, de 06 de junho de 2008.

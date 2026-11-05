@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/deff56be-4aa1-4425-a786-1d20c7ef3722/texto#nowhere)
 
-###DEL-000991-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 991, DE 21 DE OUTUBRO DE 1969
 
 Dá nova redação a dispositivos do Decreto-lei nº 200, de 25 de fevereiro de 1967, alterado pelo de nº 900, de 29 de setembro de 1969.

@@ -1,14 +1,12 @@
-###DEC-043548-0-000-10-04-1958@@@
+**DECRETO Nº 43.548, DE 10 DE ABRIL DE 1958.**
 
-<strong>DECRETO Nº 43.548, DE 10 DE ABRIL DE 1958.</strong>
+***Altera o Decreto nº 42.380, de 30 de setembro de 1957.***
 
-<em><strong>Altera o Decreto nº 42.380, de 30 de setembro de 1957.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam assim redigidos os artigos 1º e 3º do Decreto nº 42.380, de 30 de setembro de 1957, que regulamenta dispositivos da Lei nº 3.115, de 16 de março de 1957:
+**Art**. 1º Ficam assim redigidos os artigos 1º e 3º do Decreto nº 42.380, de 30 de setembro de 1957, que regulamenta dispositivos da Lei nº 3.115, de 16 de março de 1957:
 
 “Art. 1º Os funcionários ou servidores das ferrovias filiadas a Rêde Ferroviárias Federal S.A., cujos direitos e deveres não sejam regulados pela legislação trabalhista, continuarão a prestar os seus serviços à referida Rêde, na qualidade de pessoal cedido pela União.
 
@@ -26,12 +24,12 @@ b) nas ferrovias isoladas, ao Superintendente.
 
 § 2º Dos atos praticados, nos têrmos dêste artigo, pelas autoridades mencionadas, caberá recurso ao Ministro da Viação e Obras Públicas”.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor da na data de sua publicação.
+**Art**. 2º Êste decreto entrará em vigor da na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 10 de abril de 1958; 137º da Independência e 70º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Lúcio Meira

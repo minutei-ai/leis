@@ -1,5 +1,3 @@
-###DEC-074481-0-000-30-08-1974@@@
-
 DECRETO Nº 74.481, DE 30 DE AGOSTO DE 1974.
 
 Autoriza o afretamento de navios especiais, no exterior, para utilização na cabotagem nacional.

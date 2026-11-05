@@ -1,5 +1,3 @@
-###DEC-061345-0-000-14-09-1967@@@
-
 DECRETO Nº 61.345, DE 14 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade de Assistência Social de Americana”, com sede em Americana, Estado de São Paulo.

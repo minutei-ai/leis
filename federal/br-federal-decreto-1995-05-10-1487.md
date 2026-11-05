@@ -1,7 +1,3 @@
-1
-
-###DEC-001487-0-000-10-05-1995@@@
-
 DECRETO N° 1.487, DE 10 DE MAIO DE 1995
 
 Dá nova redação ao art. 17 do Estatuto da Fundação de Assistência ao Estudante, aprovado pelo Decreto nº 88.295, de 10 de maio de 1983.

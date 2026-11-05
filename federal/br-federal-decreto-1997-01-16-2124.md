@@ -1,5 +1,3 @@
-###DEC-002124-0-000-16-01-1997@@@
-
 DECRETO Nº 2.124, DE 16 DE JANEIRO DE 1997
 
 Altera o art. 12 do Decreto nº 1.937, de 21 de junho de 1996, que estabelece regras para a redação de atos normativos do Poder Executivo sujeitos à aprovação do Presidente da República.

@@ -1,5 +1,3 @@
-###DEC-051307-0-000-25-08-1961@@@
-
 DECRETO Nº 51.307, DE 25 DE AGÔsTO DE 1961
 
 Autoriza o Govêrno do Estado de Sergipe a pesquisar minérios de titânio no município de Japaratuba e Santo Amaro de Brotas, Estado de Sergipe.

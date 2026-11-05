@@ -1,5 +1,3 @@
-###MPV-001828-0-001-24-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.828-1, DE 24 DE JUNHO DE 1999.
 
 Altera dispositivos do Decreto-Lei nº 1.593, de 21 de dezembro de 1977, e dá outras providências.

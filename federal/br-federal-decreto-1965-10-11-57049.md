@@ -1,5 +1,3 @@
-###DEC-057049-0-000-11-10-1965@@@
-
 decreto nº 57.049, de 11 de outubro de 1965.
 
 Altera o Decreto nº 50.837, de 23 de junho de 1961, que cria o Grupo Executivo da Indústria de Material Aeronáutico (GEIMA).
@@ -87,8 +85,6 @@ Brasília, 11 de outubro de 1965; 144º da Independência e 77º da República.
 h. castello branco
 
 Eduardo Gomes
-
-###DEC-057049-0-000-11-10-1965@@@RET01+++
 
 DECRETO Nº 57.049, de 11 de outubro de 1965.
 

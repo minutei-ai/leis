@@ -1,5 +1,3 @@
-###DEC-073954-0-000-17-04-1974@@@
-
 DECRETO Nº 73.954, DE 17 DE ABRIL DE 1974
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão, no Estado de Minas Gerais.

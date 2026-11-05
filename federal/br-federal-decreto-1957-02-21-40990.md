@@ -1,21 +1,19 @@
-###DEC-040990-0-000-21-02-1957@@@
+**DECRETO Nº 40.990**, **DE 21 DE FEVEREIRO DE 1957.**
 
-<strong>DECRETO Nº 40.99</strong><strong>0</strong>, <strong>DE 21 DE FEVEREIRO DE 1957.</strong>
+***Alterações no Regulamento do Serviço de Intendência do Exercito em tempo de paz.***
 
-<em><strong>Alterações no Regulamento do Serviço de Intendência do Exercito em tempo de paz.</strong></em>
+**O PRESIDENTE DA REPÚLBLICA**, usando das atribuições que lhe confere o art. 87, inciso I da constituição,
 
-<strong>O PRESIDENTE DA REPÚLBLICA</strong>, usando das atribuições que lhe confere o art. 87, inciso I da constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º fica acrescida na letra <em>m</em>, no art. 1º nº 3 do Regulamento do Serviço de Intendência do Exercito, em tempo da paz (R 185), assim redigida.
+**Art**. 1º fica acrescida na letra *m*, no art. 1º nº 3 do Regulamento do Serviço de Intendência do Exercito, em tempo da paz (R 185), assim redigida.
 
 m) Material para banho;
 
-<strong>Art</strong>. 2º O presente decreto entrará em vigor na data de sua publicaçâo, revogadas as disposiçôes ao contrário.
+**Art**. 2º O presente decreto entrará em vigor na data de sua publicaçâo, revogadas as disposiçôes ao contrário.
 
 Rio de janeiro, 21 de fevereiro 1957; 136º da independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Henrique Lott

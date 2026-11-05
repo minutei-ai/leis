@@ -1,5 +1,3 @@
-###DEC-049545-0-000-16-12-1960@@@
-
 DECRETO Nº 49.545, DE 16 DE DEZEMBRO DE 1960.
 
 Transfere, sem aumento de despesa, função da Tabela Única de Extranumerário-mensalista do Ministério da Justiça e Negócios Interiores, para idêntica Tabela no Ministério da Fazenda.

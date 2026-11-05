@@ -1,42 +1,40 @@
-###DEC-035912-0-000-28-07-1954@@@
+**DECRETO Nº 35.912, DE 28 DE JULHO DE 1954.**
 
-<strong>DECRETO Nº 35.912, DE 28 DE JULHO DE 1954.</strong>
+***Aprova o Regimento da Caixa de Amortização.***
 
-<em><strong>Aprova o Regimento da Caixa de Amortização.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, nº I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**.1º Fica aprovado o Regimento da Caixa de Amortização, que com êste baixa, assinada pelo Ministro da Fazenda.
 
-<strong>Art</strong>.1º Fica aprovado o Regimento da Caixa de Amortização, que com êste baixa, assinada pelo Ministro da Fazenda.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 28 de julho de 1954; 133º da independência de 66º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Oswaldo Aranha
 
-<strong>REGIMENTO DA CAIXA DE AMORTIZAÇÃO</strong>
+**REGIMENTO DA CAIXA DE AMORTIZAÇÃO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da Finalidade e das Atribuições</em>
+*Da Finalidade e das Atribuições*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º A Caixa de Amortização (C.A.), órgãos integrante do Ministério da Fazenda, diretamente subordinada ao respectivo Ministro de Estado, tem por finalidade realizar estudos e executar ou superintender os serviços relativos à dívida federal interna fundada e ao meio circulante.
+**Art**. 1º A Caixa de Amortização (C.A.), órgãos integrante do Ministério da Fazenda, diretamente subordinada ao respectivo Ministro de Estado, tem por finalidade realizar estudos e executar ou superintender os serviços relativos à dívida federal interna fundada e ao meio circulante.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DAS ATRIBUIÇÕES</em>
+*DAS ATRIBUIÇÕES*
 
-<strong>Art</strong>. 2º A C.A. compete:
+**Art**. 2º A C.A. compete:
 
 I - quanto à dívida federal interna fundada:
 
@@ -54,11 +52,11 @@ a) emitir, trocar, substituir, recolher, resgatar e incinerar o papel moeda;
 
 b) controlar e orientar a distribuição das moedas metálicas.
 
-<strong>TÍTULO II</strong>
+**TÍTULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º À C.A. compreende:
+**Art**. 3º À C.A. compreende:
 
 I - Junta Administrativa.
 
@@ -100,31 +98,31 @@ e) Portaria (P.).
 
 Parágrafo único. De acôrdo com as necessidades do serviço, os órgãos da C.A. poderão desdobrar-se em Turmas, por ato do Ministro de Estado, mediante proposta do Diretor.
 
-<strong>Art</strong>. 4º Ficam sob a jurisdição da C.A. as Delegacias Fiscais do Tesouro Nacional, nêste Regimento referidas como Delegacias Fiscais, e quaisquer outras repartições, para efeito de orientação técnica em assuntos relativos à dívida federal interna fundada e ao meio circulante.
+**Art**. 4º Ficam sob a jurisdição da C.A. as Delegacias Fiscais do Tesouro Nacional, nêste Regimento referidas como Delegacias Fiscais, e quaisquer outras repartições, para efeito de orientação técnica em assuntos relativos à dívida federal interna fundada e ao meio circulante.
 
-<strong>Art</strong>. 5º A. C.A. terá um Diretor, nomeado, em comissão, pelo Presidente da República.
+**Art**. 5º A. C.A. terá um Diretor, nomeado, em comissão, pelo Presidente da República.
 
 Parágrafo único. O Diretor terá um Secretário e um Assistente.
 
-<strong>Art</strong>. 6º A orientação superior da C.A. caberá à junta Administrativa, nêste Regimento referida como Junta, constituída do Ministro de Estado, do Diretor e de cinco (5) membros designados pelo Presidente da República.
+**Art**. 6º A orientação superior da C.A. caberá à junta Administrativa, nêste Regimento referida como Junta, constituída do Ministro de Estado, do Diretor e de cinco (5) membros designados pelo Presidente da República.
 
-<strong>Art</strong>. 7º A Junta terá um Secretário, os Serviços, Seções e Turmas terão Chefes e a Auditoria terá um Auditor-Chefe, designados, na forma dêste Regimento.
+**Art**. 7º A Junta terá um Secretário, os Serviços, Seções e Turmas terão Chefes e a Auditoria terá um Auditor-Chefe, designados, na forma dêste Regimento.
 
 § 1º O Auditor-Chefe será escolhido entre um dos Auditores da C.A.
 
 § 2º Os Tesoureiros serão nomeados pelo Presidente da República, na forma da Lei nº 403, de 24 de setembro de 1943.
 
-<strong>Art</strong>. 8º Os órgãos da C.A. funcionarão harmônicamente articulados, em regimento de mútua colaboração, sob a orientação do Diretor.
+**Art**. 8º Os órgãos da C.A. funcionarão harmônicamente articulados, em regimento de mútua colaboração, sob a orientação do Diretor.
 
-<strong>TÍTULO III</strong>
+**TÍTULO III**
 
-<em>Da Competência e do Funcionamento dos órgãos</em>
+*Da Competência e do Funcionamento dos órgãos*
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA JUNTA ADMINISTRATIVA</em>
+*DA JUNTA ADMINISTRATIVA*
 
-<strong>Art</strong>. 9º À Junta compete:
+**Art**. 9º À Junta compete:
 
 I - Supervisionar todo o serviço da C.A. ao que diz respeito às suas atribuições específicas;
 
@@ -136,7 +134,7 @@ IV - decidir os casos duvidosos referente a serviços afetos à C.A., quando sub
 
 V - balancear, pelo menos trimestralmente, os valores existentes nas tesourarias;
 
-VI - administrar o “Fundo de Amortização dos Empréstimos Internos-Papel”, nos têrmos do art. 1º letra “<em>c</em>”, do Decreto nº 4.382, de 8 de abril de 1902;
+VI - administrar o “Fundo de Amortização dos Empréstimos Internos-Papel”, nos têrmos do art. 1º letra “*c*”, do Decreto nº 4.382, de 8 de abril de 1902;
 
 VII - determinar, observadas as estipulações legais, as estampas e demais características das notas de papel moeda que tenham de ser fabricadas e resolver sôbre o respectivo recolhimento;
 
@@ -172,27 +170,27 @@ XXII - apreciar o relatório das atividades da C.A. anualmente apresentado pelo 
 
 XXIII - autorizar em casos excepcionais, na forma das instruções que baixar e de acôrdo com as autoridades competentes, que outras repartições, além das Delegacias Fiscais, efetuem trocos ou substituição de notas e de papel moeda, ou o pagamento dos juros dos títulos da dívida federal interna fundada.
 
-<strong>Art</strong>. 10. A Junta será presidida pelo Ministro de Estado, e na ausência dêste, pelo Membro para esse fim eleito.
+**Art**. 10. A Junta será presidida pelo Ministro de Estado, e na ausência dêste, pelo Membro para esse fim eleito.
 
-<strong>Art</strong>. 11. A Junta reunir-se-á ordinariamente, uma vez por semana e, extraordinariamente, mediante convocação do Ministro de Estado ou do Diretor, ou por solicitação de qualquer dos seus Membros.
+**Art**. 11. A Junta reunir-se-á ordinariamente, uma vez por semana e, extraordinariamente, mediante convocação do Ministro de Estado ou do Diretor, ou por solicitação de qualquer dos seus Membros.
 
-<strong>Art</strong>. 12. A Junta deliberará quando presentes 4 (quatro) de seus membros, no mínimo, e suas resoluções serão tomadas por maioria dos votos presentes.
+**Art**. 12. A Junta deliberará quando presentes 4 (quatro) de seus membros, no mínimo, e suas resoluções serão tomadas por maioria dos votos presentes.
 
 § 1º Ocorrendo empate ou diferença de um voto nas deliberações, o Ministro de Estado usará do voto de qualidade.
 
 § 2º Na ausência do Ministro de Estado, se ocorrer uma das hipóteses do parágrafo anterior o assunto será submetido à sua apreciação, para pronunciamento do voto de qualidade.
 
-<strong>Art</strong>. 13. De cada sessão lavrar-se-á ata circunstanciada mencionando as deliberações tomadas e os votos divergentes.
+**Art**. 13. De cada sessão lavrar-se-á ata circunstanciada mencionando as deliberações tomadas e os votos divergentes.
 
-<strong>Art</strong>. 14. Os membros da Junta prestarão compromisso perante o Ministro de Estado que lhes dará posse e exercício.
+**Art**. 14. Os membros da Junta prestarão compromisso perante o Ministro de Estado que lhes dará posse e exercício.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA AUDITORIA</em>
+*DA AUDITORIA*
 
-<strong>Art</strong>. 15. À Aud. compete assistir ao Diretor no Estudo dos assuntos relativos à dívida pública e ao meio circulante e velar pela observância dos atos normativos em vigor atinentes aos mesmos.
+**Art**. 15. À Aud. compete assistir ao Diretor no Estudo dos assuntos relativos à dívida pública e ao meio circulante e velar pela observância dos atos normativos em vigor atinentes aos mesmos.
 
-<strong>Art</strong>. 16. À S.T. compete:
+**Art**. 16. À S.T. compete:
 
 I - emitir parecer sôbre os assuntos de natureza jurídica que lhe sejam encaminhados;
 
@@ -202,7 +200,7 @@ III - propôr as providências que julgar adequadas à fiel observância dos ato
 
 IV - organizar um ementário de leis, regulamentos, portarias, circulares, instruções e quaisquer atos normativos ou jurisdicionais que digam respeito à dívida pública interna fundada e ao meio circulante.
 
-<strong>Art</strong>. 17. À S.J.T. compete:
+**Art**. 17. À S.J.T. compete:
 
 I - examinar os processos referentes à transferência de apólices e ao pagamento de juros;
 
@@ -216,7 +214,7 @@ V - expedir guia para cobrança de selo por verba na Recebedoria do Distrito Fed
 
 VI - fiscalizar a cobrança, quando a cargo da C.A., de tributos que recaiam sôbre títulos da união, e de descontos previstos em lei que aos mesmos se refiram.
 
-<strong>Art</strong>. 18. À S. Co. compete:
+**Art**. 18. À S. Co. compete:
 
 I - controlar a entrada e saída de papéis, verificando a conformidade dos documentos apresentados pelas partes com as estipulações legais e regulamentares;
 
@@ -226,11 +224,11 @@ III - organizar e manter atualizado um sistema de contrôle das contas dos possu
 
 IV - promover o envio, à T.D.F., todos os semestres, dos autógrafos dos servidores a quem caiba assinar as guias do pagamento de juros.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO SERVIÇO DE OBRIGAÇÕES DE GUERRA</em>
+*DO SERVIÇO DE OBRIGAÇÕES DE GUERRA*
 
-<strong>Art</strong>. 19. Ao S.O.G. compente:
+**Art**. 19. Ao S.O.G. compente:
 
 I - processar todo o expediente concernente à emissão, substituição, suprimentos, juros, resgate e quaisquer outras operações concernentes às obrigações de Guerra;
 
@@ -254,13 +252,13 @@ X - processar a substituição de Obrigações de Guerra dilaceradas, destruída
 
 XI - processar as relações de Obrigações de Guerra para efeito de cobrança de tributos ou de descontos previstos em lei.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Do Serviço da Divida Interna Fundada</em>
+*Do Serviço da Divida Interna Fundada*
 
-<strong>Art</strong>. 20. Ao S.D.F. competem tôdas as atividades referentes ao processamento e contrôle da dívida federal interna fundada, salvo Obrigações de Guerra.
+**Art**. 20. Ao S.D.F. competem tôdas as atividades referentes ao processamento e contrôle da dívida federal interna fundada, salvo Obrigações de Guerra.
 
-<strong>Art</strong>. 21. A S.T.M. compete:
+**Art**. 21. A S.T.M. compete:
 
 I - registrar as emissões de títulos nominativos e processar todo o expediente relativo a tais operações;
 
@@ -302,7 +300,7 @@ XIX - extrair as guias de débito e crédito da T. D. F. relativas a títulos no
 
 XX - escriturar os “caixas” auxiliares extraindo boletins diários das operações realizadas pela T. D. F., para efeito de fiscalização no que concerne aos títulos nominativos.
 
-<strong>Art</strong>. 22. À S.T.P. compete:
+**Art**. 22. À S.T.P. compete:
 
 I - registrar as emissões de títulos ao portador, a exceção das Obrigações de Guerra, e processar todo o expediente relativo a tais operações;
 
@@ -328,13 +326,13 @@ XI - passar certidões referentes à emissão e circulação de títulos ao port
 
 XII - escriturar o “caixa” geral da dívida federal interna fundada.
 
-<strong>Art</strong>. 23. À S. Me. Compete executar os trabalhos de contrôle e apuração de dados estatísticos e contábeis por processos mecânicos ou elétricos mecânicos com o equipamento de eu fõr dotada e cujas unidades e características serão modificadas de acôrdo com as necessidades do serviço.
+**Art**. 23. À S. Me. Compete executar os trabalhos de contrôle e apuração de dados estatísticos e contábeis por processos mecânicos ou elétricos mecânicos com o equipamento de eu fõr dotada e cujas unidades e características serão modificadas de acôrdo com as necessidades do serviço.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do Serviço do Meio Circulante</em>
+*Do Serviço do Meio Circulante*
 
-<strong>Art</strong>. 24. Ao S.M.C. compete:
+**Art**. 24. Ao S.M.C. compete:
 
 I - organizar o registro de todas as operações de qualquer natureza referentes ao meio circulante;
 
@@ -376,11 +374,11 @@ XIX - fiscalizar todo o serviço a cargo da T.M.C.;
 
 XX - extrair as guias de débito e crédito da T.M.C.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da Tesouraria da Dívida Interna Fundada</em>
+*Da Tesouraria da Dívida Interna Fundada*
 
-<strong>Art</strong>. 25. A T.D.F., além das atribuições comuns às tesourarias do serviço público, compete especificamente:
+**Art**. 25. A T.D.F., além das atribuições comuns às tesourarias do serviço público, compete especificamente:
 
 I - efetuar o pagamento dos juros vencidos dos títulos da dívida federal interna fundada, quando exigíveis na C.A., cumprindo-lhe verificar previamente se as guias estão assinadas pelos servidores encarregados da entrega e pelos interessados, senão contém rasuras ou emendas e se conferem com a demonstração correspondente;
 
@@ -400,11 +398,11 @@ VIII - adquirir títulos para o Fundo de Amortização dos Empréstimos Internos
 
 IX - receber e custodiar importâncias destinadas ao pagamento de juros vencidos.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Da Tesouraria do Meio Circulante</em>
+*Da Tesouraria do Meio Circulante*
 
-<strong>Art</strong>. 26. A T.M.C., além das atribuições comuns às tesourarias do serviço público, compete especificamente:
+**Art**. 26. A T.M.C., além das atribuições comuns às tesourarias do serviço público, compete especificamente:
 
 I - guardar as notas novas sem assinatura, bem como às já assinadas ou chanceladas destinadas ao trôco diário efetuado na repartição;
 
@@ -422,13 +420,13 @@ VII - fazer distribuição das notas novas para assinatura, de acôrdo com as ne
 
 VIII - custodiar outros valores que o Diretor resolva colocar sob a sua guarda.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do Serviço de Administração</em>
+*Do Serviço de Administração*
 
-<strong>Art</strong>. 27. Ao S.A. compete executar as atividades de administração geral necessárias ao desempenho das atribuição da C.A., cumprindo-lhe velar pela observância das normas prescritas pelos órgãos centrais de administração geral do Ministério da Fazenda.
+**Art**. 27. Ao S.A. compete executar as atividades de administração geral necessárias ao desempenho das atribuição da C.A., cumprindo-lhe velar pela observância das normas prescritas pelos órgãos centrais de administração geral do Ministério da Fazenda.
 
-<strong>Art</strong>. 28. A S.P. compete:
+**Art**. 28. A S.P. compete:
 
 I - opinar sôbre a aplicação da legislação relativa ao pessoal;
 
@@ -446,7 +444,7 @@ VII - escriturar os créditos relativos ao pessoal da C.A.;
 
 VIII - velar pela observância dos atos normativos concernentes a pessoal.
 
-<strong>Art</strong>. 29. A S.M.O. compete:
+**Art**. 29. A S.M.O. compete:
 
 I - providenciar a requisição do material necessário aos serviços da repartição, aceitando ou rejeitando o material requisitado, de acôrdo com legislação em vigor;
 
@@ -478,7 +476,7 @@ XIV - escriturar e fiscalizar a aplicação dos adiantamentos recebidos;
 
 XV - escriturar a movimentação das dotações orçamentárias consignadas à C.A. salvo as referentes a pessoal, de modo a serem apurados de pronto, os saldos existentes.
 
-<strong>Art</strong>. 30. A S.C. compete:
+**Art**. 30. A S.C. compete:
 
 I - receber, registrar, distribuir e arquivar os papéis afetos à C.A.;
 
@@ -490,9 +488,9 @@ IV - prestar informações sôbre o andamento e despacho dos processos, salvo qu
 
 V - atender ao público e orientá-lo quanto ao modo de apresentar suas solicitações, sugestões ou reclamações.
 
-<strong>Art</strong>. 31. A T.M. compete executar os trabalhos datilográficos e mimeográficos da C.A.
+**Art**. 31. A T.M. compete executar os trabalhos datilográficos e mimeográficos da C.A.
 
-<strong>Art</strong>. 32. A Portaria compete:
+**Art**. 32. A Portaria compete:
 
 I - zelar pela limpeza, boa ordem e conservação do edifício em que funciona a repartição;
 
@@ -506,11 +504,11 @@ V - dar conhecimento, ao Chefe do S.A., de toda e qualquer anormalidade que ocor
 
 VI - promover, junto à autoridade competente, a prisão de qualquer pessoa que se portar inconvenientemente ou seja surpreendida praticando ato desonesto ou degradante.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 33. Ao Diretor incumbe:
+**Art**. 33. Ao Diretor incumbe:
 
 I - orientar, coordenar e controlar todos os serviços da C.A.;
 
@@ -552,7 +550,7 @@ XIX - fixar a quantidade e o valor das notas que devam constituir cada supriment
 
 XX - designar, se for o caso, as comissões encarregadas de transportar valores a seu destino.
 
-<strong>Art</strong>. 34. A cada Chefe de Serviço incumbe:
+**Art**. 34. A cada Chefe de Serviço incumbe:
 
 I - orientar, coordenar e controlar a execução do trabalhos afetos ao Serviço;
 
@@ -578,7 +576,7 @@ I - rubricar os têrmos de conferência;
 
 II - assistir ao recebimento, pelo tesoureiro competente, das notas, na Casa da Moeda ou na Alfândega, conforme o caso, ou designar uma comissão de servidores para êsse fim.
 
-<strong>Art</strong>. 35. Aos Tesoureiros, além das atribuições gerais conferidas no artigo anterior aos Chefes de Serviço, incumbem também as previstas no Regimento Padrão das Tesourarias do Serviço Público.
+**Art**. 35. Aos Tesoureiros, além das atribuições gerais conferidas no artigo anterior aos Chefes de Serviço, incumbem também as previstas no Regimento Padrão das Tesourarias do Serviço Público.
 
 § 1º Na T.D.F., incumbe ainda ao respectivo Tesoureiro:
 
@@ -602,9 +600,9 @@ V - assinar os têrmos de entrega de notas às comissões que as devam transport
 
 VI - receber, do Departamento dos Correios e Telégrafos ou de Estradas de Ferro, os volumes, por um dêsses meios transportados, contendo dinheiro trocado, substituído ou resgatado proveniente das Delegacias Fiscais.
 
-<strong>Art</strong>. 36. Cada Tesoureiro, como claviculário, deverá abrir e fechar as casas fortes na presença do respectivo Tesoureiro-Auxiliar designado como claviculário, cumprindo a ambos, quando da abertura da casa forte, observar a regularidade e normalidade dos respectivos valores.
+**Art**. 36. Cada Tesoureiro, como claviculário, deverá abrir e fechar as casas fortes na presença do respectivo Tesoureiro-Auxiliar designado como claviculário, cumprindo a ambos, quando da abertura da casa forte, observar a regularidade e normalidade dos respectivos valores.
 
-<strong>Art</strong>. 37. A cada Chefe de Seção e, no que couber, ao da T.M., incumbe:
+**Art**. 37. A cada Chefe de Seção e, no que couber, ao da T.M., incumbe:
 
 I - distribuir o trabalho pelos seus subordinados;
 
@@ -636,7 +634,7 @@ I - abrir e fechar a repartição nas horas que lhe for determinado;
 
 II - prover à vigilância das dependências da C.A.
 
-<strong>Art</strong>. 38. Ao Assistente do Diretor incumbe:
+**Art**. 38. Ao Assistente do Diretor incumbe:
 
 I - cooperar no estudo dos assuntos dependente de deliberação do Diretor;
 
@@ -644,7 +642,7 @@ II - colaborar no preparo do relatório anual sôbre a gestão da C.A.;
 
 III - representar o Diretor quando para isto designado.
 
-<strong>Art</strong>. 39. Ao Secretário do Diretor incumbe:
+**Art**. 39. Ao Secretário do Diretor incumbe:
 
 I - atender às pessoas que desejarem comunicar-se com o Diretor, encaminhando-as ou dando a este conhecimento do assunto a tratar;
 
@@ -652,7 +650,7 @@ II - redigir a correspondência do Diretor;
 
 III - manter atualizado o contrôle dos papéis que forem a despacho ou estudo do Diretor.
 
-<strong>Art</strong>. 40. Ao Secretário da Junta incumbe:
+**Art**. 40. Ao Secretário da Junta incumbe:
 
 I - secretariar as sessões;
 
@@ -668,17 +666,17 @@ VI - manter atualizado um ementário das decisões da Junta;
 
 VII - manter atualizado o contrôle dos papéis que forem a estudo ou deliberação da Junta.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 41. O horário normal do trabalho será fixado pelo Diretor, respeitado o mínimo de horas semanais ou mensais estabelecido para o Serviço Público.
+**Art**. 41. O horário normal do trabalho será fixado pelo Diretor, respeitado o mínimo de horas semanais ou mensais estabelecido para o Serviço Público.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 42. Serão substituídos automaticamente, em suas faltas e impedimentos eventuais, até 30 (trinta) dias:
+**Art**. 42. Serão substituídos automaticamente, em suas faltas e impedimentos eventuais, até 30 (trinta) dias:
 
 I - O Diretor pelo Assistente ou pelo Chefe de Serviço de sua indicação, designado pelo Ministro de Estado;
 
@@ -686,16 +684,16 @@ II - cada Chefe de Serviço, exceto o S.O.G., por um Chefe de Seção de sua ind
 
 III - o Chefe do S.O.G., cada Chefe de Seção e o da T.M. por um servidor de sua indicação, designado pelo Diretor.
 
-<strong>TÍTULO VII</strong>
+**TÍTULO VII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 43. Cada órgão da C.A. deverá organizar e manter atualizado uma coleção de lei, regulamentos, circulares, portarias, instruções e ordens de serviço, que digam respeito às suas atividades específicas.
+**Art**. 43. Cada órgão da C.A. deverá organizar e manter atualizado uma coleção de lei, regulamentos, circulares, portarias, instruções e ordens de serviço, que digam respeito às suas atividades específicas.
 
-<strong>Art</strong>. 44. O Chefe da Portaria terá residência obrigatória na sede da C.A.
+**Art**. 44. O Chefe da Portaria terá residência obrigatória na sede da C.A.
 
-<strong>Art</strong>. 45. Os casos omissos neste Regimento serão resolvidos pelo Ministro da Fazenda, mediante proposta do Diretor.
+**Art**. 45. Os casos omissos neste Regimento serão resolvidos pelo Ministro da Fazenda, mediante proposta do Diretor.
 
 Rio de Janeiro, em 28 de julho de 1954.
 
-<strong>OSVALDO ARANHA</strong>
+**OSVALDO ARANHA**

@@ -1,5 +1,3 @@
-###DEC-005200-0-000-30-08-2004@@@
-
 DECRETO Nº 5.200 DE 30 DE AGOSTO DE 2004
 
 Dá nova redação aos arts. 20, 21, 23, 25, 26 e 29 do Decreto nº 3.998, de 5 de outubro de 2001, que regulamenta, para o Exército, a Lei nº 5.821, de 10 de novembro de 1972, que dispõe sobre as promoções dos oficiais da ativa das Forças Armadas.

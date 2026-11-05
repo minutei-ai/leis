@@ -1,5 +1,3 @@
-###DEC-070362-0-000-04-04-1972@@@
-
 DECRETO Nº 70.362, DE 4 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Sociedade Espírita Feminina "Estudo e Caridade", com sede em Santa Maria, Estado do Rio Grande do Sul.

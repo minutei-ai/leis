@@ -1,7 +1,3 @@
-1
-
-###DEC-095699-0-000-04-02-1988@@@
-
 DECRETO Nº 95.699, DE 4 DE FEVEREIRO DE 1988
 
 Dispõe sobre a execução da Ata de Retificação do Sétimo Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação das Preferências Outorgadas no Período 1962/1980 (Acordo nº 10), subscrito entre o Brasil e a Colômbia.

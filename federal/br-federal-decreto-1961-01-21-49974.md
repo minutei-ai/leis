@@ -1,5 +1,3 @@
-###DEC-049974-0-000-21-01-1961@@@
-
 decreto nº 49.974, de 21 de janeiro de 1961.
 
 Institui, no Ministério da educação e Cultura, um organismo denominado Instituto Brasileiro de Estudos Literários, dispõe sôbre o seu funcionamento e dá outras providências.

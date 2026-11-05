@@ -1,5 +1,3 @@
-###DEC-083160-0-000-12-02-1979@@@
-
 Decreto nº 83.160, de 12 de fevereiro de 1979
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade "Regina Coeli", com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

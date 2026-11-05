@@ -1,5 +1,3 @@
-###DEC-078024-0-000-12-07-1976@@@
-
 DECRETO Nº 78.024, DE 12 DE JULHO DE 1976.
 
 Delega competência ao Ministro de Estado das Comunicações para autorizar os aumentos de potência decorrentes do Plano Básico de Distribuição de Canais de Radiodifusão Sonora em Onda Média.

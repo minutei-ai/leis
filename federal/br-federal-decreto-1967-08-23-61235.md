@@ -1,5 +1,3 @@
-###DEC-061235-0-000-23-08-1967@@@
-
 decreto nº 61.235, de 23 de agôsto de 1967.
 
 Reorganiza a Secretaria Geral da Comissão de Desenvolvimento Industrial (CDI), do Ministério da indústria e do Comércio, e dá outras providências.

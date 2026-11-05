@@ -1,5 +1,3 @@
-###DEC-055202-0-000-11-12-1964@@@
-
 DECRETO Nº 55.202, DE 11 DE DEZEMBRO DE 1964.
 
 Modifica a redação do Decreto número 51.106, de 1º de agôsto de 1961, que definiu o que se considera filme brasileiro e incorpora o Decreto nº 53.011, de 27 de novembro de 1963.

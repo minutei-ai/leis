@@ -1,5 +1,3 @@
-###MPV-000079-0-000-27-11-2002@@@
-
 MEDIDA PROVISÓRIA Nº 79, DE 27 DE NOVEMBRO DE 2002
 
 Dispõe sobre o direito ao ressarcimento dos custos de formação de atleta não profissional e a exploração comercial da imagem do atleta profissional, impõe vedações ao exercício de cargo ou função executiva em entidade de administração de desporto profissional, fixa normas de segurança nos estádios, adapta o tratamento diferenciado do desporto profissional à Lei nº 10.406, de 10 de janeiro de 2002 - Código Civil, estabelece diretrizes para o cumprimento da obrigação constante do art. 46-A da Lei n9.615, de 24 de março de 1998, altera o art. 8º da Lei nº 10.359, de 27 de dezembro de 2001, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-003007-0-000-30-01-1941@@@
-
 DECRETO-LEI N. 3.007 – DE 30 DE JANEIRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de 74:805$6, para atender ao pagamento de diferença de remuneração, ajuda de custo e despesas de transportes de professores contratados da Faculdade Nacional de Filosofia.

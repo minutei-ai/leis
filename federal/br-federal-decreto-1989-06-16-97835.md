@@ -1,7 +1,3 @@
-1
-
-###DEC-097835-0-000-16-06-1989@@@
-
 DECRETO Nº 97.835, DE 16 DE JUNHO DE 1989
 
 Autoriza o aumento do capital social da Acesita Energética S.A.

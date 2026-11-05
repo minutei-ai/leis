@@ -1,5 +1,3 @@
-###DEC-002401-0-000-21-11-1997@@@
-
 DECRETO Nº 2.401, DE 21 DE NOVEMBRO DE 1997
 
 Estabelece limites para o empenho da despesa e condições para a sua inscrição em restos a pagar, altera a redação do art. 1º do Decreto nº 2.214, de 25 de abril de 1997, que dispõe sobre a compatibilização entre a realização da receita e a execução da despesa, sobre a programação orçamentária e financeira do Poder Executivo para o exercício de 1997, e dá outras providências.

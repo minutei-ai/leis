@@ -16,24 +16,150 @@ FRANCISCO SERVULO FREIRE NOGUEIRA
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS</td><td style=" width:85px;    ">10 128 1043 2520</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 1.200.000,00</td><td style=" width:85px;    ">R$ 1.200.000,00</td></tr><tr><td style=" width:85px;    ">COORDENAÇÃO DO PROGRAMA &nbsp;NACIONAL DE IMUNIZAÇÃO &nbsp;EM ÂMBITO ESTADUAL</td><td style=" width:85px;    ">10 305 1043 2512</td><td style=" width:85px;    ">17530162</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 360.000,00</td><td style=" width:85px;    ">R$ 360.000,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE</td><td style="width: 340px; height: 19px; text-align: right;">R$ 1.200.000,00</td></tr><tr><td style=" width:340px;    ">17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA</td><td style="width: 340px; text-align: right;">R$ 360.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style="width: 340px; text-align: right;">R$ 1.560.000,00</td></tr></tbody></table>
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+QUALIFICAÇÃO DE PROFISSIONAIS DO SISTEMA ÚNICO DE SAÚDE - SUS
+
+10 128 1043 2520
+
+16000232
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 1.200.000,00
+
+R$ 1.200.000,00
+
+COORDENAÇÃO DO PROGRAMA  NACIONAL DE IMUNIZAÇÃO  EM ÂMBITO ESTADUAL
+
+10 305 1043 2512
+
+17530162
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 360.000,00
+
+R$ 360.000,00
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE
+
+R$ 1.200.000,00
+
+17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+R$ 360.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 1.560.000,00
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2850-FUNDO ESTADUAL DE SAÚDE - FES</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE</td><td style=" width:85px;    ">10 302 1043 2498</td><td style=" width:85px;    ">16000232</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 43.541.672,16</td><td style=" width:85px;    ">R$ 1.200.000,00</td><td style=" width:85px;    ">R$ 1.200.000,00</td></tr><tr><td style=" width:85px;    ">REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR</td><td style=" width:85px;    ">10 304 1043 2497</td><td style=" width:85px;    ">17530162</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 3.367.662,88</td><td style=" width:85px;    ">R$ 360.000,00</td><td style=" width:85px;    ">R$ 360.000,00</td></tr></tbody></table>
+**2850-FUNDO ESTADUAL DE SAÚDE - FES**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style="width: 340px; height: 19px;">16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE</td><td style="width: 340px; height: 19px; text-align: right;">R$ 1.200.000,00</td></tr><tr><td style="width: 340px;">17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA</td><td style="width: 340px; text-align: right;">R$ 360.000,00</td></tr><tr><td style="width: 340px;"><b>TOTAL</b></td><td style="width: 340px; text-align: right;">R$ 1.560.000,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE</td><td style="width: 340px; height: 19px; text-align: right;">R$ 1.200.000,00</td></tr><tr><td style=" width:340px;    ">17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA</td><td style="width: 340px; text-align: right;">R$ 360.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style="width: 340px; text-align: right;">R$ 1.560.000,00</td></tr></tbody></table>
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+REALIZAÇÃO DE SERVIÇOS CREDENCIADOS DE MÉDIA E ALTA COMPLEXIDADE
+
+10 302 1043 2498
+
+16000232
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 43.541.672,16
+
+R$ 1.200.000,00
+
+R$ 1.200.000,00
+
+REALIZAÇÃO DE CAMPANHAS E AÇÕES DE VIGILÂNCIA SANITÁRIA, AMBIENTAL E SAÚDE DO TRABALHADOR
+
+10 304 1043 2497
+
+17530162
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 3.367.662,88
+
+R$ 360.000,00
+
+R$ 360.000,00
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE
+
+R$ 1.200.000,00
+
+17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+R$ 360.000,00
+
+**TOTAL**
+
+R$ 1.560.000,00
+
+**TOTAL POR FONTE**
+
+16000232 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO SUS PROVENIENTES DO GOVERNO FEDERAL - BLOCO DE MANUTENÇÃO DAS AÇÕES E SERVIÇOS PÚBLICOS DE SAÚDE
+
+R$ 1.200.000,00
+
+17530162 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS PELO EXERCÍCIO DO PODER DE POLÍCIA
+
+R$ 360.000,00
+
+**TOTAL**
+
+R$ 1.560.000,00

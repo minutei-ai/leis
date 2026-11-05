@@ -1,5 +1,3 @@
-###DEC-081524-0-000-06-04-1978@@@
-
 Decreto nº 81.524, de 06 de abril de 1978.
 
 Autoriza o Ministro da Fazenda, a conceder a garantia da União em operação de crédito externo a ser contratada pela Rede Ferroviária Federal S.A.

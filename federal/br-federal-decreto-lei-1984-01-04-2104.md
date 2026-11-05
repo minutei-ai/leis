@@ -1,5 +1,3 @@
-###DEL-002104-0-000-04-01-1984@@@
-
 # Decreto nº 2.104, dE 04 dE janeiro de 1984
 
 Reajusta os valores de vencimentos, salários e proventos dos servidores da Secretaria do Tribunal de Justiça do Distrito Federal e dos Ofícios Judiciais da Justiça do Distrito Federal e dos Territórios.

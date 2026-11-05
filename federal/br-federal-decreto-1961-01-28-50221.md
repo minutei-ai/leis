@@ -1,5 +1,3 @@
-###DEC-050221-0-000-28-01-1961@@@
-
 DECRETO Nº 50.221, DE 28 DE JANEIRO DE 1961.
 
 Altera o art. 3º do Decreto 40.110, de 10 de outubro de 1956 e dá outras providências.

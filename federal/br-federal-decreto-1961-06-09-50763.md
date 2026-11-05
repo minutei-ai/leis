@@ -1,5 +1,3 @@
-###DEC-050763-0-000-09-06-1961@@@
-
 DECRETO Nº 50.763, DE 9 DE JUNHO DE 1961.
 
 Transfere da Prefeitura Municipal do Rio Pardo para a Comissão Estadual de Energia Elétrica do Estado do Rio Grande do Sul a concessão para a produção e fornecimento de energia elétrica ao município de Rio Pardo, Estado do Rio Grande do Sul.

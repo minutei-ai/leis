@@ -1,5 +1,3 @@
-###DEL-000697-0-000-23-07-1969@@@
-
 DECRETO-LEI nº 697, DE 23 DE JULHO DE 1969
 
 Dispõe sobre o registro previsto no artigo 1º do Decreto-lei nº 286, de 28-2-67, e dá outras providências.

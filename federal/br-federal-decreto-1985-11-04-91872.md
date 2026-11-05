@@ -1,5 +1,3 @@
-###DEC-091872-0-000-04-11-1985@@@
-
 DECRETO Nº 91.782 DE 4 DE NOVEMBRO DE 1985.
 
 Institui Comitê para traçar política de ação conjunta, destinada a aprimorar a educação especial e a integrar, na sociedade, as pessoas portadoras de deficiências, problemas de conduta e superdotadas.

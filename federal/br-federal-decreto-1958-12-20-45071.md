@@ -1,5 +1,3 @@
-###DEC-045071-0-000-20-12-1958@@@
-
 Decreto nº 45.071, de 20 de dezembro de 1958.
 
 Prorroga o prazo estabelecido no artigo 3º do Decreto nº 44.501 de 24 de setembro de 1958.

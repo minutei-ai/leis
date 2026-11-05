@@ -1,5 +1,3 @@
-###DEL-006497-0-000-13-05-1944@@@
-
 DECRETO-LEI N. 6.497 – DE 13 DE MAIO DE 1944
 
 Dispõe sôbre os vencimentos e vantagens do pessoal da Fôrça Expedicionária Brasileira

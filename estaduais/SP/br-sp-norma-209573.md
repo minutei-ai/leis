@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209573)<br>
-
 # DECRETO N° 68.610, DE 15 DE JUNHO DE 2024
 
 ### _Oficializa, sem ônus para os cofres públicos, a condecoração "Medalha Maria Soldado - Heroína de 32", instituída pela Sociedade Veteranos de 32 - MMDC, e dá providências correlatas._

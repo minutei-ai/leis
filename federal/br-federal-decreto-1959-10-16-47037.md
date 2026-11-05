@@ -1,5 +1,3 @@
-###DEC-047037-0-000-16-10-1959@@@
-
 DECRETO Nº 47.037, DE 16 DE OUTUBRO DE 1959.
 
 Inclui funções gratificadas no Quadro Permanente do Ministério da Educação e Cultura, e dá outras providências.

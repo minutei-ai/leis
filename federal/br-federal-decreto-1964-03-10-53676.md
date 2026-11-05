@@ -1,5 +1,3 @@
-###DEC-053676-0-000-10-03-1964@@@
-
 DECRETO Nº 53.676, DE 10 DE MARÇO DE 1964.
 
 Institui a Comissão Executiva de Auxílio às Vítima das Enchentes no Estado do Pará.

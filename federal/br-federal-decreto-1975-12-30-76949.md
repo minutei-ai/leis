@@ -1,5 +1,3 @@
-###DEC-076949-0-000-30-12-1975@@@
-
 DECRETO Nº 76.949, DE 30 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Ciências da Faculdade de Ciências e Letras, integrante das Faculdades da Zona Leste de São Paulo, com sede na cidade de São Paulo, Estado de São Paulo.

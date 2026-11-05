@@ -1,5 +1,3 @@
-###DEC-099658-0-000-30-10-1990@@@
-
 DECRETO Nº 99.658, DE 30 DE OUTUBRO DE 1990
 
 Regulamenta, no âmbito da Administração Pública Federal, o reaproveitamento, a movimentação, a alienação e outras formas de desfazimento de material.

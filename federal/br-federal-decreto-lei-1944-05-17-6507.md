@@ -1,5 +1,3 @@
-###DEL-006507-0-000-17-05-1944@@@
-
 DECRETO-LEI N. 6.507 – DE 17 DE MAIO DE 1944
 
 Suspende a execução do art. 6º do Decreto-lei nº 2.667, de 3 de outubro de 1940, e dá outras providências

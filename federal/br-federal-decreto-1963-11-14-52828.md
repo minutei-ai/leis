@@ -1,5 +1,3 @@
-###DEC-052828-0-000-14-11-1963@@@
-
 DECRETO Nº 52.828, DE 14 DE NOVEMBRO DE 1963.
 
 Incorpora a Escola Nacional de Florestas, criada pelo decreto nº 48.247 de 30 de maio de 1960, à Universidade do Paraná, e dá outras providências.

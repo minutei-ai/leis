@@ -1,5 +1,3 @@
-###DEL-009126-0-000-04-04-1946@@@
-
 DECRETO-LEI N. 9.126 – DE 4 DE ABRIL DE 1946
 
 Concede franquia postal-telegrafica para a correspondência do 2º Congresso Pan-americano de Engenharia de Minas e Geologia.

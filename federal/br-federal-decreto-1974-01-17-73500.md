@@ -1,5 +1,3 @@
-###DEC-073500-0-000-17-01-1974@@@
-
 DECRETO Nº. 73.500, DE 17 DE JANEIRO DE 1974.
 
 Retifica o artigo 1º, do Decreto número 33.316 de 15 de julho de 1953, através do qual foi concedido à Companhia de Mineração Rosicler o direito de lavrar areias quartzíferas, no Município de Peruíbe, Estado de São Paulo.

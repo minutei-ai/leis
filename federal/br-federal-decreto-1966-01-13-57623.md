@@ -1,5 +1,3 @@
-###DEC-057623-0-000-13-01-1966@@@
-
 DECRETO Nº 57.623, DE 13 DE JANEIRO DE 1966.
 
 Decreta a intervenção federal no Estado de Alagoas.

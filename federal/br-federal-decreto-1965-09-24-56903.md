@@ -1,5 +1,3 @@
-###DEC-056903-0-000-24-09-1965@@@
-
 DECRETO Nº 56.903, DE 24 DE SETEMBRO DE 1965.
 
 Regulamenta a profissão de corretor de Seguros de Vida e de Capitalização, de conformidade com o artigo 32 da Lei nº 4.594, de 29 de dezembro de 1964.

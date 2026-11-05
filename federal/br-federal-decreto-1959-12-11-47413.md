@@ -1,5 +1,3 @@
-###DEC-047413-0-000-11-12-1959@@@
-
 DECRETO Nº 47.413, DE 11 DE DEZEMBRO DE 1959.
 
 Declara de utilidade publica, para efeito de desapropriação, em prédio no município de itacoatiara, no Estado do Amazonas e dá outras providências.

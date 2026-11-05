@@ -1,5 +1,3 @@
-###DEC-046680-0-000-18-08-1959@@@
-
 DECRETO Nº 46.680, DE 18 DE AGÔSTO DE 1959.
 
 Autoriza a emprêsa de mineração Kenranda Pesquisas Minerais S.A. a pesquisar minérios de ouro no município de Jacobina Estado da Bahia.

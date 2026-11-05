@@ -1,5 +1,3 @@
-###DEC-006331-0-000-28-12-2007@@@
-
 DECRETO Nº 6.331, DE 28 DE DEZEMBRO DE 2007.
 
 Prorroga a validade dos restos a pagar não-processados inscritos nos exercícios financeiros de 2005 e 2006.
@@ -23,5 +21,3 @@ LUIZ INÁCIO LULA DA SILVA
 Arno Hugo Augustin Filho
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 28.12.2007 - Edição extra

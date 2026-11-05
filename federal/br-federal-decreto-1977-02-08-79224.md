@@ -1,5 +1,3 @@
-###DEC-079224-0-000-08-02-1977@@@
-
 DECRETO Nº 79.224, DE 8 DE FEVEREIRO DE 1977.
 
 Autoriza a transformação do curso de Matemática, em curso de Ciências, habilitação em Matemática, da Faculdade de Filosofia, Ciências e Letras de Tupã, com sede na cidade de Tupã, Estado de São Paulo.

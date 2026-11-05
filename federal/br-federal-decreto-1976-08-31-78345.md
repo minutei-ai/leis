@@ -1,5 +1,3 @@
-###DEC-078345-0-000-31-08-1976@@@
-
 DECRETO Nº 78.345, DE 31 DE AGOSTO DE 1976.
 
 Autoriza o funcionamento dos cursos de Formação de Psicólogo e Bacharelado de Psicologia, da Faculdade de Filosofia, Ciências e Letras Farias Brito, com sede na cidade de Guarulhos, Estado de São Paulo.

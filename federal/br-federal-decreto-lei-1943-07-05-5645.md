@@ -1,5 +1,3 @@
-###DEL-005645-0-000-05-07-1943@@@
-
 DECRETO-LEI N. 5.645 – DE 5 DE JULHO DE 1943
 
 Prorroga o período de reorganização do Instituto de Aposentadoria e Pensões da Estiva e dá outras providências

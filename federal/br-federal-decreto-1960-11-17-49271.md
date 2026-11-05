@@ -1,5 +1,3 @@
-###DEC-049271-0-000-17-11-1960@@@
-
 DECRETO Nº 49.271, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Alvaro Pita Pinheiro a pesquisar argila, no município de Bagé, Estado do Rio Grande do Sul.

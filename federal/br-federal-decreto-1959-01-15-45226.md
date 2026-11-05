@@ -1,5 +1,3 @@
-###DEC-045226-0-000-15-01-1959@@@
-
 DECRETO Nº 45.226, DE 15 DE JANEIRO DE 1959.
 
 Transfere da Prefeitura Municipal de Arcos, para a Prefeitura Municipal de Pains, ambas no Estado de Minas Gerais, a concessão para distribuir energia elétrica no município de Pains, e dá outras providências.

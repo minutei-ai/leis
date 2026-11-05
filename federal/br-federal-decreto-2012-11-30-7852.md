@@ -1,5 +1,3 @@
-###DEC-007852-0-000-30-11-2012-PUB-01@@@
-
 DECRETO N° \- 7.852, DE 30 DE NOVEMBRO DE 2012
 
 Altera o Decreto nº 5.209, de 17 de setembro de 2004, que regulamenta a Lei nº 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.

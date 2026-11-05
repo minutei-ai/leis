@@ -1,5 +1,3 @@
-###DEC-001777-0-000-09-01-1996@@@
-
 DECRETO Nº 1.777, DE 9 DE JANEIRO DE 1996
 
 Autoriza o Ministro de Estado da Justiça a criar Juntas Administrativas de Recursos de Infrações - JARI e a baixar o respectivo regimento interno.

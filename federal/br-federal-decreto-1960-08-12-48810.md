@@ -1,5 +1,3 @@
-###DEC-048810-0-000-12-08-1960@@@
-
 DECRETO Nº 48.810, de 12 de Agôsto de 1960.
 
 Renova o Decreto nº 43.778, de 9 de dezembro de 1957.

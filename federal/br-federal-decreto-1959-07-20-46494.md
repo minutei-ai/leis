@@ -1,5 +1,3 @@
-###DEC-046494-0-000-20-07-1959@@@
-
 DECRETO Nº 46.494, DE 20 DE JULHO DE 1959.
 
 Renova o Decreto nº 40.464, de 3 de dezembro de 1956.

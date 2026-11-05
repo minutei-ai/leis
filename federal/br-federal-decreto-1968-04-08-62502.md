@@ -1,5 +1,3 @@
-###DEC-062502-0-000-08-04-1968@@@
-
 DECRETO Nº 62.502, DE 8 DE ABRIL DE 1968.
 
 Provê sôbre a criação de Inspetorias Seccionais do Ensino Secundário em Santo Ângelo e em Rosário do Sul e dá outras providências.

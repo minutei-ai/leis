@@ -1,5 +1,3 @@
-###DEC-003882-0-000-08-08-2001@@@
-
 DECRETO Nº 3.882, DE 8 DE AGOSTO 2001.
 
  Altera dispositivos do Estatuto Social da Caixa Econômica Federal - CEF, aprovado pelo Decreto no 3.851, de 27 de Junho de 2001.

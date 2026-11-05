@@ -1,5 +1,3 @@
-###DEC-091032-0-000-05-03-1985@@@
-
 DECRETO Nº 91.032, DE 05 DE MARÇO DE 1985
 
 Autoriza o funcionamento do curso de Farmácia da Faculdade de Ciências da Saúde Grande Rio.

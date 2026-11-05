@@ -1,5 +1,3 @@
-###DEC-047599-0-000-06-01-1960@@@
-
 DECRETO Nº 47.599, DE 6 DE JANEIRO DE 1960.
 
 Autoriza o cidadão brasileiro Francisco Ferreira da Costa a pesquisar minério de manganês e cromila no município de Pimenta, Estado de Minas Gerais.

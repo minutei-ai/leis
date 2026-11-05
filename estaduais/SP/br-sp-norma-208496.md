@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208496)<br>
-
 # DECRETO N° 67.924, DE 12 DE SETEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de instituição de servidão administrativa pela Companhia de Saneamento Básico do Estado de São Paulo - SABESP, a faixa de terra necessária à implantação de rede coletora de esgoto, parte integrante do Sistema de Esgotamento Sanitário - S.E.S., no Bairro Rio Bonito, no Município de São Paulo, e dá providências correlatas._

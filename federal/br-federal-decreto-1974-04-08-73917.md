@@ -1,5 +1,3 @@
-###DEC-073917-0-000-08-04-1974@@@
-
 DECRETO n° 73.917, DE 8 DE ABRIL DE 1974.
 
 Retifica o Decreto n.º 73.404, de 2 de janeiro de 1974, que concede autorização à companhia Western Oceanic Internacional Inc., para executar trabalhos de perfuração de poços na plataforma continental, a serviço da Petróleo Brasileiro S.A - PETROBRÁS.

@@ -1,5 +1,3 @@
-###DEC-059930-0-000-30-12-1966@@@
-
 decreto nº 59.930, de 30 de dezembro de 1966.
 
 Autoriza o Govêrno do Estado de Minas Gerais a pesquisar cianita e grafita, no município de Minas Novas, Estado de Minas Gerais.

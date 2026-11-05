@@ -1,7 +1,3 @@
-1
-
-###MPV-001288-0-000-01-02-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.288, de 1º de FEVEREIRO DE 1996.
 
 Dispõe sobre medidas de fortalecimento do Sistema Financeiro Nacional e dá outras providências.

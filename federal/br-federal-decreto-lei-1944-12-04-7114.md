@@ -1,5 +1,3 @@
-###DEL-007114-0-000-04-12-1944@@@
-
 DECRETO-LEI N. 7.114 – DE 4 DE DEZEMBRO DE 1944
 
 Dispõe sôbre a cobrança de “Obrigações de Guerra”

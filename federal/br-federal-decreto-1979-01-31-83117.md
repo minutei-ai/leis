@@ -1,5 +1,3 @@
-###DEC-083117-0-000-31-01-1979@@@
-
 DECRETO Nº 83.117, DE 31 DE JANEIRO DE 1979
 
 Revoga o Decreto que outorgou concessão à Televisão Educativa do Amazonas para executar serviço de radiodifusão sonora em onda média de âmbito regional, com fins exclusivamente educativos, na cidade de Benjamin Constant, Estado do Amazonas.

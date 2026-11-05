@@ -1,5 +1,3 @@
-###DEC-096206-0-000-22-06-1988@@@
-
 DECRETO N° 96.206, DE 22 DE JUNHO DE 1988
 
 Outorga concessão à RÁDIO CHAPADA DO CORISCO LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Teresina, Estado do Piauí.

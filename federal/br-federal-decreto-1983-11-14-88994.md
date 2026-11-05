@@ -1,5 +1,3 @@
-###DEC-088994-0-000-14-11-1983@@@
-
 decreto nº 88.994, de 14 de novembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO ATALAIA DE MARINGÁ LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Maringá, Estado do Paraná.

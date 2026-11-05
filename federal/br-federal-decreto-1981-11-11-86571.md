@@ -1,5 +1,3 @@
-###DEC-086571-0-000-11-11-1981@@@
-
 Decreto nº 86.571, de 11 de novembro de 1981
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à construção das subestações Entroncamento Araruama e Bacaxá, da Companhia de Eletricidade do Estado do Rio de Janeiro - CERJ.

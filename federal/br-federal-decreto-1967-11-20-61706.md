@@ -1,5 +1,3 @@
-###DEC-061706-0-000-20-11-1967@@@
-
 decreto nº 61.706, de 20 de novembro de 1967.
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel, em LINS - SP, destinado ao Ministério do Exército.

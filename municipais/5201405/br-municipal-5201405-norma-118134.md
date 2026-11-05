@@ -10,11 +10,27 @@ Art. 1º - Ficam remembrados os Lotes 59/59A, 60-64 da Quadra 26 do Loteamento J
 
 SITUAÇÃO ATUAL
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEIS</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center"><strong>LOTE 59/59A</strong></td><td style="text-align:center"><strong>600,00</strong></td></tr><tr><td><strong>LOTE 60-64</strong></td><td style="text-align:center"><strong>2.705,40</strong></td></tr></tbody></table>
+IMÓVEIS
+
+ÁREA (m²)
+
+**LOTE 59/59A**
+
+**600,00**
+
+**LOTE 60-64**
+
+**2.705,40**
 
 SITUAÇÃO PROPOSTA
 
-<table><thead></thead><tbody><tr><td style="text-align:center">IMÓVEL</td><td style="text-align:center">ÁREA (m²)</td></tr><tr><td style="text-align:center"><strong>LOTE 59-64</strong></td><td><strong>3.305,40</strong></td></tr></tbody></table>
+IMÓVEL
+
+ÁREA (m²)
+
+**LOTE 59-64**
+
+**3.305,40**
 
 Parágrafo único. O remembramento referido no “caput” está em conformidade com os documentos acostados ao processo administrativo nº 2023.039.640, previamente analisado e aprovado pela Secretaria Municipal de Planejamento e Regulação Urbana, cuja planta de situação consta no Anexo Único deste Decreto.
 
@@ -24,8 +40,10 @@ Aparecida de Goiânia, Estado de Goiás, aos 02 de junho de 2023.
 
  
 
-VILMAR MARIANO<br>
+VILMAR MARIANO
+
 Prefeito Municipal
 
-JÚLIO CÉSAR CHAGAS MENDES<br>
+JÚLIO CÉSAR CHAGAS MENDES
+
 Secretário de Planejamento e Regulação Urbana

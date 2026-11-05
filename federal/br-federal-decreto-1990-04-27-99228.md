@@ -1,7 +1,3 @@
-1
-
-###DEC-099228-0-000-27-04-1990@@@
-
 DECRETO Nº 99.228, DE 27 DE ABRIL DE 1990
 
 Altera dispositivo do Regulamento para o Quadro de Oficiais Temporários do Ministério da Aeronáutica, aprovado pelo Decreto nº 85.866 de 1º de abril de 1981.

@@ -1,5 +1,3 @@
-###DEC-089697-0-000-23-05-1984@@@
-
 Decreto nº 89.697, de 23 de maio de 1984.
 
 Modifica a redação do artigo 9º do Decreto nº 85.645, de 20 de janeiro de 1981, que regulamenta o instituto da ascensão funcional.

@@ -1,5 +1,3 @@
-###DEC-068885-0-000-06-07-1971@@@
-
 DECRETO Nº 68.885, DE 6 DE JULHO DE 1971.
 
 Dispõe sôbre medidas relacionadas com a Reforma Administrativa e dá outras providências.

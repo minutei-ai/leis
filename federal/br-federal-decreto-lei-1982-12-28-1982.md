@@ -1,5 +1,3 @@
-###DEL-001982-0-000-28-12-1982@@@
-
 # DECRETO-LEI Nº 1.982, de 28 de dezembro de 1982
 
 Dispõe sobre o exercício das atividades nucleares incluídas no monopólio da União, o controle do desenvolvimento de pesquisas no campo da energia nuclear, e dá outras providências.

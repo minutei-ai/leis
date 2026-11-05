@@ -1,5 +1,3 @@
-###DEC-073370-0-000-26-12-1973@@@
-
 DECRETO Nº 73.370 - DE 26 DE DEZEMBRO DE 1973
 
 Eleva as alíquotas do Imposto Único sobre Lubrificantes e Combustíveis Líquidos e Gasosos.

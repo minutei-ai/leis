@@ -1,5 +1,3 @@
-###DEC-049895-0-000-12-01-1961@@@
-
 DECRETO Nº 49.895, DE 12 DE JANEIRO DE 1961.
 
 Autoriza a cidadã brasileira Maria Cecília de Macedo Soares Rittscher a pesquisar calcário e mármore no município de Iporanga, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-004205-0-000-23-04-2002@@@
-
 DECRETO Nº 4.205, DE 23 DE ABRIL DE 2002
 
 Dispõe sobre a execução no Território Nacional da Resolução 1.385, de 19 de dezembro de 2001, do Conselho de Segurança das Nações Unidas, que proíbe a importação direta ou indireta de diamantes em estado bruto originários de Serra Leoa.

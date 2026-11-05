@@ -1,5 +1,3 @@
-###DEC-060328-0-000-08-03-1967@@@
-
 DECRETO Nº 60.328, DE 8 de MARÇO DE 1967.
 
 Aprova alterações ao regimento da Consultoria Jurídica do Ministério da Viação e Obras Públicas, aprovado pelo Decreto nº 59.312, de 28 de setembro de 1966.

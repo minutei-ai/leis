@@ -1,5 +1,3 @@
-###DEL-009703-0-000-03-09-1946@@@
-
 DECRETO-LEI N.  9.703 – DE 3 DE SETEMBRO DE 1946
 
 Dispõe sôbre a cobrança da “taxa sôbre kW” criada pelo Decreto-lei número 2.281, de 5 de Junho de 1940, e sôbre a fixação dos valores das quotas respectivas no exercício de 1947.

@@ -1,5 +1,3 @@
-###DEC-081466-0-000-21-03-1978@@@
-
 Decreto nº 81.466, de 21 de março de 1978
 
 Declara de utilidade pública, para fins de desapropriação, um imóvel com benfeitorias, constituídos de duas áreas de terrenos contíguos, situado na Rua General Carneiro, nº 151, Esquina com a Rua Frei Caneca, do Município e Comarca de Jundiaí, Estado de São Paulo, destinado a abrigar Estação Telefônica local, pela Telecomunicações de São Paulo S.A - TELESP.

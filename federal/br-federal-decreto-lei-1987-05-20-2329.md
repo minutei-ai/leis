@@ -1,7 +1,3 @@
-1
-
-###DEL-002329-0-000-20-05-1987@@@
-
 # DECRETO-LEI Nº 2.329, DE 20 DE MAIO DE 1987
 
 Altera o Decreto-lei nº 2.288, de 23 de julho de 1986, e dá outras providências.

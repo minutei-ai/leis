@@ -1,5 +1,3 @@
-###DEC-096675-0-000-12-09-1988@@@
-
 DECRETO N° 96.675, DE 12 DE SETEMBRO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estação transformadora de distribuição Aclimação da ELETROPAULO -Eletricidade de São Paulo S.A., no Esta­do de São Paulo.

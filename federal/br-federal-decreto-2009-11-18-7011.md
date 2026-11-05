@@ -1,5 +1,3 @@
-###DEC-007011-0-000-18-11-2009@@@
-
 DECRETO Nº 7.011, DE 18 DE NOVEMBRO DE 2009.
 
 Altera o Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

@@ -1,5 +1,3 @@
-###DEC-003295-0-000-15-12-1999@@@
-
 DECRETO Nº 3.295, DE 15 DE DEZEMBRO DE 1999.
 
 Dispõe sobre os procedimentos para escolha e nomeação de membros das Câmaras que compõem o Conselho Nacional de Educação, de que trata o art. 8º da Lei nº 4.024, de 20 de dezembro de 1961, com a redação dada pela Lei nº 9.131, de 24 de novembro de 1995, e dá outras providências.

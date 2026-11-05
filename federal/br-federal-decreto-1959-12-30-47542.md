@@ -1,5 +1,3 @@
-###DEC-047542-0-000-30-12-1959@@@
-
 DECRETO Nº 47.542, DE 30 DE DEZEMBRO DE 1959.
 
 Abre, ao Ministério da Justiça e Negócios Interiores, o crédito suplementar de Cr$2.500.000,00 para fim que especifica.

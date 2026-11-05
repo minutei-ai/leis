@@ -1,5 +1,3 @@
-###DEL-006016-0-000-22-11-1943@@@
-
 DECRETO‑LEI N. 6.016 – DE 22 DE NOVEMBRO DE 1943
 
 Dispõe sôbre a imunidade dos bens, rendas e serviços das autarquias e dá outras providências

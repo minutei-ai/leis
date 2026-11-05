@@ -1,5 +1,3 @@
-###DEC-075839-0-000-10-06-1975@@@
-
 Decreto nº 75.839, de 10 de junho de 1975.
 
 Outorga à Centrais Elétricas de Goiás S.A. - CELG concessão para transmitir e distribuir energia elétrica no Município de Pium, no Estado de Goiás, revoga decreto e dá outras providências.

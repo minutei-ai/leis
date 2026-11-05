@@ -1,5 +1,3 @@
-###DEC-081947-0-000-11-07-1978@@@
-
 DECRETO Nº 81.947, DE 11 DE JULHO DE 1978.
 
 Concede à Golage - Extração de Lages Ltda. o direito de lavrar  quartzito e ritmito no Município de Cristalina, Estado de Goiás.

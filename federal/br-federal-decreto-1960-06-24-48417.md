@@ -1,5 +1,3 @@
-###DEC-048417-0-000-24-06-1960@@@
-
 DECRETO Nº 48.417, DE 24 DE JUNHO DE 1960.
 
 Retifica concessão transferida para a Emprêsa Luz e Fôrça Itabapoana Ltda., pelo Decreto nº 34.383, de 27 de outubro de 1953, e retifica a que foi transferida para a Emprêsa Fluminense de Energia Elétrica, pelo Decreto nº 39.934, de 6 de setembro de 1956.

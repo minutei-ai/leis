@@ -1,5 +1,3 @@
-###DEC-091524-0-000-09-08-1985@@@
-
 DECRETO Nº 91.524, DE 9 DE AGOSTO DE 1985.
 
 Estabelece restrições ao relacionamento com a República da África do Sul.

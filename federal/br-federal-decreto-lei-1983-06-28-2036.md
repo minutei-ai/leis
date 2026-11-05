@@ -1,5 +1,3 @@
-###DEL-002036-0-000-28-06-1983@@@
-
 # Decreto-lei nº 2.036, de 28 de junho de 1983.
 
 Estabelece limite de remuneração mensal para os servidores, empregados e dirigentes da Administração Pública Direta e Autárquica da União e das respectivas entidades estatais, bem como para os do Distrito Federal e dos Territórios, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-067018-0-000-07-08-1970@@@
-
 DECRETO Nº 67.018, DE 7 DE AGôSTO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Permanente - da Superintendência Nacional de Marinha Mercante, cargo originário do Ministério das Minas e Energia.

@@ -1,5 +1,3 @@
-###DEC-006892-0-000-02-07-2009@@@
-
 DECRETO Nº 6.892, DE 2 DE JULHO DE 2009.
 
 Acresce e altera dispositivos do Decreto no 2.444, de 30 de dezembro de 1997, que dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, das rodovias federais que menciona.

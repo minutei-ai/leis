@@ -1,5 +1,3 @@
-###DEL-003288-0-000-20-05-1941@@@
-
 DECRETO-LEI N. 3.288 – DE 20 DE MAIO DE 1941
 
 Dispõe sobre a vigência do decreto-lei n. 2.540, de 28 de agosto de 1940.

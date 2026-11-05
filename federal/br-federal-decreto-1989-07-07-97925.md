@@ -1,7 +1,3 @@
-1
-
-###DEC-097925-0-000-07-07-1989@@@
-
 DECRETO N° 97.925, DE 7 DE JULHO DE 1989
 
 Autoriza o funcionamento do curso de Letras da Faculdade Versalhes de Pedagogia e Letras.

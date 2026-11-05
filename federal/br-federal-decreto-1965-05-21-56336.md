@@ -1,5 +1,3 @@
-###DEC-056336-0-000-21-05-1965@@@
-
 Decreto nº 56.336, de 21 de maio de 1965.
 
 Autoriza o cidadão brasileiro Altisonante Pereira Assumpção a pesquisa água mineral, no Município de Anápolis, Estado de Goiás.

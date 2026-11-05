@@ -1,5 +1,3 @@
-###DEC-004158-0-000-12-03-2002@@@
-
 DECRETO Nº 4.158, DE 12 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Nono Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercosul, e o Governo da República da Bolívia, de 19 de junho de 2001.
@@ -40,7 +38,8 @@ Artigo 3º- Os certificados de origem emitidos com anterioridade à data de entr
 
 Artigo 4º- O presente Protocolo vigorará a partir da data em que todas as Partes Signatárias o tiverem incorporado a seu respectivo ordenamento jurídico interno, sem prejuízo de que alguma delas, de acordo com sua legislação, tenha decidido a aplicação provisória do disposto pela Comissão Administradora do ACE Nº 36, mediante a RES MCS-BO 01/2000, até que sejam cumpridos os trâmites de incorporação a seu respectivo ordenamento jurídico.
 
-As Partes Signatárias comunicarão à Secretaria-Geral da ALADI o cumprimento dos trâmites correspondentes.<br>
+As Partes Signatárias comunicarão à Secretaria-Geral da ALADI o cumprimento dos trâmites correspondentes.
+
 A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual enviará cópias devidamente autenticadas aos Governos signatários.
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos dezenove dias do mês de junho de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.

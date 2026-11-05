@@ -1,5 +1,3 @@
-###DEL-006461-0-000-02-05-1944@@@
-
 DECRETO-LEI N. 6.461 – DE 2 DE MAIO DE 1944
 
 Cria cargos e funções no Quadro Permanente do Ministério da Justiça e Negócios Interiores, e dá outras providências

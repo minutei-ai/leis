@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=188481)
-
 # DECRETO Nº 63.852, DE 27 DE NOVEMBRO DE 2018
 
 ### _Cria, na Assistência Policial do Departamento Estadual de Homicídios e de Proteção à Pessoa - DHPP, o Grupo de Operações Especiais - GOE, altera o Decreto nº 57.537, de 23 de novembro de 2011, e dá providências correlatas_

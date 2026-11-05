@@ -1,5 +1,3 @@
-###DEC-082117-0-000-16-08-1978@@@
-
 Decreto nº 82.117, de 16 de agosto de 1978.
 
 Altera a denominação e as atribuições do Depósito de Substâncias do Rio de Janeiro, aprova o Regulamento do Depósito de Subsistência da Marinha no Rio de Janeiro, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-005795-0-000-05-06-2006@@@
-
 DECRETO Nº 5.795, DE 5 DE JUNHO DE 2006.
 
 Dispõe sobre a composição e o funcionamento da Comissão de Gestão de Florestas Públicas, e dá outras providências.
@@ -89,5 +87,3 @@ Brasília, 5 de junho de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
 Marina Silva
-
-Este texto não substitui o publicado no D.O.U. de 6.6.2006.

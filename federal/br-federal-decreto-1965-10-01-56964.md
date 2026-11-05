@@ -1,5 +1,3 @@
-###DEC-056964-0-000-01-10-1965@@@
-
 DECRETO Nº 56.964, DE 1º DE OUTUBRO DE 1965.
 
 Outorga concessão à Universidade de Santa Maria, Estado do Rio Grande do Sul, para instalar uma emissora de radiodifusão de sons.

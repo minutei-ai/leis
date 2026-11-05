@@ -1,5 +1,3 @@
-###DEC-080500-0-000-06-10-1977@@@
-
 Decreto nº 80.500, de 6 de outubro de 1977.
 
 Autoriza estrangeira a adquirir o domínio do imóvel que menciona, no Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-048860-0-000-13-08-1960@@@
-
 DECRETO Nº 48.860, DE 13 DE AGÔSTO DE 1960.
 
 Declara de utilidade pública e autoriza a desapropriação de imóvel necessário ao Ministério da Guerra.

@@ -1,5 +1,3 @@
-###DEC-066474-0-000-22-04-1970@@@
-
 decreto nº 66.474, de 22 de abril de 1970.
 
 Autoriza o funcionamento da Faculdade de Ciências Jurídicas e Sociais do Instituto Vianna Júnior, de Juiz de Fora, Estado de Minas Gerais.

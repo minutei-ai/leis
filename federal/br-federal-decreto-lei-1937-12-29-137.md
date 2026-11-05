@@ -1,5 +1,3 @@
-###DEL-000137-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 137 – DE 29 DE DEZEMBRO DE 1937
 
  Abre, pela Prefeitura do Distrito Federal, o crédito especial de réis 327:030$000 para despesas com a desapropriação que menciona

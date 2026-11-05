@@ -1,5 +1,3 @@
-###DEC-081402-0-000-23-02-1978@@@
-
 Decreto nº 81.402, de 23 de fevereiro de 1978.
 
 Regulamenta a Lei nº 6.435, de 15 de julho de 1977, que dispõe sobre as entidades de previdência privada, na parte relativa ás entidades abertas.

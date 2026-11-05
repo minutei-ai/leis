@@ -1,5 +1,3 @@
-###DEC-007365-0-000-25-11-2010-PUB-01@@@
-
 DECRETO Nº 7.365, DE 25 DE NOVEMBRO DE 2010.
 
 Autoriza o Conselho de Administração do Banco Nacional de Desenvolvimento Econômico e Social - BNDES a declarar dividendos complementares.

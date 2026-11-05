@@ -1,5 +1,3 @@
-###DEC-073101-0-000-07-11-1973@@@
-
 DECRETO Nº 73.101 - DE 7 DE NOVEMBRO DE 1973
 
 Declara de utilidade pública as instituições que menciona.

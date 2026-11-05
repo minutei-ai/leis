@@ -20,7 +20,8 @@ Aparecida de Goiânia, 25 de agosto de 2025.
 
  
 
-JOÃO CAMPOS DE ARAUJO<br>
+JOÃO CAMPOS DE ARAUJO
+
 Prefeito de Aparecida de Goiânia em exercício
 
 ANEXO

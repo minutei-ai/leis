@@ -1,5 +1,3 @@
-###DEC-069174-0-000-09-09-1971@@@
-
 DECRETO Nº 69.174, DE 9 DE SETEMBRO DE 1971.
 
 Anula o Decreto nº 25.979, de 8 de dezembro de 1948.

@@ -1,7 +1,3 @@
-1
-
-###DEC-095759-0-000-29-02-1988@@@
-
 DECRETO N° 96.759, DE 29 DE FEVEREIRO DE 1988
 
 Reajusta o valor do Salário Mínimo de Referência.

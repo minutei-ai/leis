@@ -1,5 +1,3 @@
-###DEC-065056-0-000-26-08-1969@@@
-
 decreto nº 65.056 - de 26 de agôsto de 1969.
 
 Dá nova redação ao artigo 8º do Decreto nº 60.430, de 11 de março de 1967.

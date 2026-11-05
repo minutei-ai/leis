@@ -1,5 +1,3 @@
-###DEC-050295-0-000-23-02-1961@@@
-
 DECRETO Nº 50.295, DE 23 DE FEVEREIRO DE 1961.
 
 Revoga o Decreto nº 46.207, de 11 de julho de 1959 e dá outras providências.

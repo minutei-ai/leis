@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e9cff0f1-79f3-44dc-8a5e-8d549a2fc5e9/texto#nowhere)
 
-###DEL-000748-0-000-08-08-1969@@@
-
 DECRETO-LEI Nº 748, De 8 de aGÔSTO DE 1969
 
 Da nova redação ao art. 2º e sua letra a, do Decreto-lei nº 653, de 26 de junho de 1969.

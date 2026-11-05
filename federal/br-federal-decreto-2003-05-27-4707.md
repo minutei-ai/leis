@@ -1,5 +1,3 @@
-###DEC-004707-0-000-27-05-2003@@@
-
 DECRETO Nº 4.707, DE 27 DE MAIO DE 2003.
 
     Dispõe sobre a execução da Ata de Retificação, datada de 20 de março de 2003, do Acordo de Complementação Econômica no 54, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai, da República Oriental do Uruguai e dos Estados Unidos Mexicanos.
@@ -20,7 +18,8 @@ DECRETO Nº 4.707, DE 27 DE MAIO DE 2003.
 
 Brasília, 27 de maio de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Celso Luiz Nunes Amorim
 
 ATA DE RETIFICAÇÃO DO ACORDO DE COMPLEMENTAÇÃO ECONÔMICA N° 54 ENTRE OS ESTADOS-PARTE DO MERCOSUL E OS ESTADOS UNIDOS MEXICANOS

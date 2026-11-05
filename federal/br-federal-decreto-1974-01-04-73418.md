@@ -1,5 +1,3 @@
-###DEC-073418-0-000-04-01-1974@@@
-
 DECRETO Nº 73.418, DE 4 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra destinadas ao reservatório de acumulação do aproveitamento progressivo de energia hidráulica denominado Sobradinho, no Estado da Bahia.

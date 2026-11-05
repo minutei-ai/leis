@@ -4,10 +4,12 @@ Lei Orgânica do CONSELHO DE CONTAS DOS MUNICÍPIOS DO ESTADO DA BAHIA.
 
 O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi delegada pela Resolução nº 1.176, de 03 de dezembro de 1982, da Assembléia Legislativa do Estado da Bahia promulga a seguinte Lei:
 
-TÍTULO I -<br>
+TÍTULO I -
+
 DA ORGANIZAÇÃO
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA SEDE E DA CONSTITUIÇÃO
 
 Art. 1º - O CONSELHO DE CONTAS DOS MUNICÍPIOS, órgão auxiliar das Câmaras Municipais do Estado da Bahia no controle externo da administração financeira e orçamentária dos Municípios, tem sede na Cidade do Salvador.
@@ -16,7 +18,8 @@ Art. 2º - Compõe-se o CONSELHO DE CONTAS de sete (07) Conselheiros.
 
 Art. 3º - Integram a estrutura do Conselho os serviços de natureza técnica e de administração, organizados na forma do Regimento Interno, observado o disposto no inciso II do § 5º e no inciso IV § 6º do artigo 100 da Constituição do Estado.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DOS CONSELHEIROS
 
 Art. 4º - Os Conselheiros serão nomeados pelo Governador do Estado, com prévia aprovação da Assembléia Legislativa, dentre brasileiros maiores de trinta e cinco anos, de reconhecida idoneidade moral e notórios conhecimentos jurídicos, econômicos, financeiros ou de administração pública.
@@ -43,7 +46,8 @@ Art. 8º - Os Conselheiros serão substituídos em suas faltas, licenças, féri
 
 § 3º - Quando a substituição exceder de trinta (30) dias ininterruptos, o substituto fará jus ao vencimento do cargo de Conselheiro.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 DO PRESIDENTE E DO VICE-PRESIDENTE
 
 Art. 9º - O Presidente e o Vice-Presidente do Conselho serão eleitos por seus pares, em escrutínio secreto, na primeira sessão ordinária da segunda quinzena do mês de fevereiro, para um período de dois anos, facultada a reeleição.
@@ -72,7 +76,8 @@ Art. 11 - O Vice-Presidente substituirá o Presidente em suas faltas ou impedime
 
 Art. 12 - O Regimento Interno disporá sobre as atribuições do Presidente.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DAS CÂMARAS
 
 Art. 13 - O Conselho de Contas, quando julgar conveniente, poderá dividir-se em Câmaras, cujas competências serão fixadas no Regimento Interno.
@@ -81,15 +86,18 @@ CAPÍTULO V -DA REPRESENTAÇÃO DA PROCURADORIA DO ESTADO JUNTO AO CONSELHO
 
 Art. 14 - A Procuradoria Geral do Estado manterá representação junto ao Conselho, na forma estabelecida pela legislação específica.
 
-TÍTULO II -<br>
+TÍTULO II -
+
 DA JURISDIÇÃO E DA COMPETÊNCIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DA JURISDIÇÃO
 
 Art. 15 - O CONSELHEIRO DE CONTAS DOS MUNICÍPIOS tem jurisdição própria e privativa, em todo o território do Estado, sobre órgãos, entidades e pessoas que arrecadarem ou gerirem dinheiros, valores e bens do Município ou pelos quais este responda, inclusive os responsáveis pela administração indireta.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DA COMPETÊNCIA
 
 Art. 16 - Compete ao Conselho:
@@ -116,7 +124,8 @@ X - apreciar, para fins de registro, a legalidade das concessões iniciais de ap
 
 XI - resolver, em assuntos de sua competência, sobre consultas que lhe forem formuladas.
 
-Redação de acordo com a Lei Delegada nº 49 de 24 de maio de 1983.<br>
+Redação de acordo com a Lei Delegada nº 49 de 24 de maio de 1983.
+
 Redação original: "XI - resolver, em assuntos de sua competência, sobre consultas que lhe forem formuladas, nos termos do artigo 36;"
 
 XII - elaborar e alterar o seu Regimento Interno;
@@ -143,15 +152,18 @@ XXII - aprovar e fazer publicar o seu orçamento analítico e respectivas altera
 
 XXIII - organizar seus serviços e, por seu Presidente, prover os cargos do quadro de pessoal, bem como contratar, promover, dispensar, exonerar, demitir, aposentar seus servidores e conceder-lhes férias, licenças e vantagens previstas no Estatuto dos Funcionários Públicos ou em legislação específica, quando for o caso.
 
-Redação de acordo com a Lei Delegada nº 49 de 24 de maio de 1983.<br>
+Redação de acordo com a Lei Delegada nº 49 de 24 de maio de 1983.
+
 Redação original: "XXIII - organizar seus serviços;"
 
 XXIV - propor às Câmaras Municipais o bloqueio das transferências de recursos federais destinados a Municípios que não apresentarem balanços anuais, na forma da lei específica.
 
-TÍTULO III -<br>
+TÍTULO III -
+
 DA FISCALIZAÇÃO FINANCEIRA E ORÇAMENTÁRIA
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 DAS PRESTAÇÕES E TOMADAS DE CONTAS
 
 Art. 17 - As contas do Prefeito e da Mesa da Câmara serão prestadas ou tomadas de acordo com os dispositivos da Lei Orgânica dos Municípios e os desta lei.
@@ -208,7 +220,8 @@ Art. 29 - Serão nulos os julgamentos de contas municipais, realizados pela Câm
 
 Art. 30 - O Conselho prestará assistência e orientação, em matéria de sua competência, às Prefeituras e Câmaras Municipais sobre problemas financeiros e orçamentários visando ao aperfeiçoamento e à padronização dos seus serviços.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 DAS RECONSIDERAÇÕES E RECURSOS
 
 Art. 31 - Admitir-se-á pedido de reconsideração relativo a qualquer decisão do Conselho, interposto no prazo de quinze dias, a contar de sua publicação, quando formulado:
@@ -223,7 +236,8 @@ Parágrafo único - Somente será conhecido pedido de reconsideração quando se
 
 Art. 32 - Dos atos administrativos do Presidente caberá recursos para o Plenário do Conselho, no prazo de cinco dias, a contar da data da sua publicação.
 
-TÍTULO IV -<br>
+TÍTULO IV -
+
 DO PESSOAL DO CONSELHO
 
 Art. 33 - O Conselho disporá de quadro próprio de pessoal, respeitada a paridade de vencimentos com cargos de atribuições iguais ou assemelhadas dos Poderes Executivo, Legislativo, Judiciário e do Tribunal de Contas do Estado.
@@ -232,7 +246,8 @@ Revigorado pelo art. 27 da lei nº 4.613, de 27 de novembro de 1985: "Fica revig
 
 Art. 34 - O quadro permanente de pessoal do Conselho será definido em lei.
 
-TÍTULO V -<br>
+TÍTULO V -
+
 DAS DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 35 - O Conselho de Contas, dentro de trinta dias da abertura da sessão legislativa, apresentará à Assembléia relatório de suas atividades no exercício anterior.

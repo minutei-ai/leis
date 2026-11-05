@@ -1,7 +1,3 @@
-1
-
-###DEL-001220-0-000-15-05-1972@@@
-
 # DECRETO-LEI Nº 1.220, DE 15 DE MAIO DE 1972
 
 Altera a redação do art. 6º do Decreto-lei nº 61, de 21 de novembro de 1966.

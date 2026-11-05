@@ -1,5 +1,3 @@
-###DEC-055867-0-000-25-03-1965@@@
-
 DECRETO Nº 55.867, DE 25 DE MARÇO DE 1965.
 
 Altera o Regimento do Conselho de Fiscalização das Expedições Artísticas e Científicas no Brasil, do Ministério da Agricultura.

@@ -1,5 +1,3 @@
-###DEC-080897-0-000-01-12-1977@@@
-
 Decreto nº 80.897, de 1º de dezembro de 1977.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado no Município de Manaus, Estado do Amazonas.

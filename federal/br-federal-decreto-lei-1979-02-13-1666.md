@@ -1,7 +1,3 @@
-1
-
-###DEL-001666-0-000-13-02-1979@@@
-
 # decreto-lei nº 1.666, de 13 de fevereiro de 1979
 
 Fixa o valor do soldo dos postos de Coronel PM da Policia Militar e de Coronel BM do Corpo de Bombeiros do Distrito Federal e dá outras providências.

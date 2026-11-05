@@ -20,8 +20,10 @@ Art. 4º - Revogam-se as disposições em contrário.
 
 Gabinete do Prefeito de Aparecida de Goiânia-GO, 20 de dezembro de 2018.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO<br>
+OLAVO NOLETO
+
 Chefe da Casa Civil

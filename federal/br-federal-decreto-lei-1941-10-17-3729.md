@@ -1,5 +1,3 @@
-###DEL-003729-0-000-17-10-1941@@@
-
 DECRETO-LEI N. 3.729 – DE 17 DE OUTUBRO DE 1941
 
 Dá nova redação ao art. 84 do regulamento aprovado pelo decreto-lei n. 739, de 14 de setembro de 1938.

@@ -1,5 +1,3 @@
-###DEL-005253-0-000-16-02-1943@@@
-
 DECRETO‑LEI N. 5.253 – DE 16 DE FEvEREIRO DE 1943
 
 Abre ao Ministério da Educação e Saude, o crédito especial de Cr$ 6.986,50  para pagamento de gratificação de magistério

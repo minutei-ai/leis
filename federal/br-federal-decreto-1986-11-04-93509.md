@@ -1,5 +1,3 @@
-###DEC-093509-0-000-04-11-1986@@@
-
 DECRETO Nº 93.509, DE 4 DE NOVEMBRO DE 1986
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S/A - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situadas nos Municípios de São Sebastião do Passé e Candeias, no Estado da Bahia, necessários à construção e montagem de novo trecho para o Oleoduto Catú/Mata/Candeias que menciona, e dá outras providências.

@@ -2,7 +2,11 @@ Modificada pelas Leis nº [3.976, de 15 de Setembro de 2022;](https://legis.ac.g
 
 > **LEI Nº 3.532, DE 30 DE OUTUBRO DE 2019**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre os critérios de distribuição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS e do Imposto sobre Bens e Serviços - IBS pertencentes aos Municípios.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre os critérios de distribuição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS e do Imposto sobre Bens e Serviços - IBS pertencentes aos Municípios.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -64,17 +68,13 @@ Modificada pelas Leis nº [3.976, de 15 de Setembro de 2022;](https://legis.ac.g
 
 **IV -** 5% (cinco por cento) em montantes iguais para todos os Municípios do Estado. (Incluído pela Lei nº 4.833, de 03/08/2026)
 
-<br>
-
 **§ 1º** Os índices referidos neste artigo serão calculados pela relação percentual entre os dados de cada município e o total do Estado obtido pelo somatório dos dados correspondentes a cada índice. (Incluído pela Lei nº 4.833, de 03/08/2026)
-
-<br>
 
 **§ 2º** O IPM/IBS será aplicado para distribuição do IBS a partir do primeiro dia do ano imediatamente seguinte ao da apuração. (Incluído pela Lei nº 4.833, de 03/08/2026)
 
 **CAPÍTULO III**
 
-**Da Apuração Dos Índice****s**
+**Da Apuração Dos Índices**
 
 **Art. 4º** Para efeito do inciso I do art. 3º, sistema informatizado mantido pela Secretaria de Estado da Fazenda – SEFAZ, apurará anualmente o índice do valor adicionado do ano base imediatamente anterior ao ano de apuração e a média dos índices dos dois anos civis anteriores ao da apuração.
 
@@ -86,25 +86,15 @@ Modificada pelas Leis nº [3.976, de 15 de Setembro de 2022;](https://legis.ac.g
 
 **Parágrafo único.** Para apuração do valor adicionado _per capita_ de cada município, relativo ao índice mencionado o inciso III do art. 3º desta Lei, será considerado a média aritmética do valor adicionado dos dois anos anteriores ao da apuração e a população estimada pelo Instituto Brasileiro de Geografia e Estatística – IBGE, obtida na forma do _caput_ deste artigo. 
 
-<br>
-
 **~~Art. 5°-A~~** ~~O índice de que trata o inciso IV do art. 3°, refletirá o desempenho em provas de avaliação dos alunos da educação básica da rede municipal, considerando o nível, a evolução e a taxa de aprovação. (Incluído pela Lei nº 3.976, de 15/09/2022)~~
 
 **Art. 5º-A** Os Índices de que trata o inciso IV do art. 3º e no inciso II do art. 3ºA, refletirão o desempenho em provas de avaliação dos alunos da educação básica da rede municipal, considerando o nível, a evolução e a taxa de aprovação. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
-<br>
-
 **§ 1°** O Poder Executivo regulamentará a fórmula e os parâmetros de cálculo do Índice de Qualidade da Educação Municipal. (Incluído pela Lei nº 3.976, de 15/09/2022)
-
-<br>
 
 **§ 2°** O regulamento estabelecerá ponderação pela taxa de municipalização, indicador socioeconômico dos alunos, número total de alunos e outros indicadores a critério do Poder Executivo. (Incluído pela Lei nº 3.976, de 15/09/2022)
 
-<br>
-
 **Art. 5°-B** As provas de que tratam o art. 5°-A, serão aplicadas anualmente pelo Estado, com apoio dos municípios, a partir do ano letivo de 2022. (Incluído pela Lei nº 3.976, de 15/09/2022)
-
-<br>
 
 **Parágrafo único.** Ao município que não realizar as referidas provas de avaliação será atribuída a nota equivalente ao percentual de noventa e oito por cento da menor nota registrada. (Incluído pela Lei nº 3.976, de 15/09/2022)
 
@@ -182,31 +172,19 @@ Modificada pelas Leis nº [3.976, de 15 de Setembro de 2022;](https://legis.ac.g
 
 **§ 4º** O CODIP/ICMS/IBS será presidido por um representante da SEFAZ. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
-<br>
-
-**~~Art. 8º-A~~** ~~Os membros do C~~~~ODIP/ICMS perceberão, por reunião de caráter deliberativo a que efetivamente comparecerem, indenização correspondente a cinquenta Unidades Padrão Fiscal - UPF do Estado do Acre, ou da unidade de referência que vier a substituí-la, paga sob a forma de jetons. (Incluído pela Lei nº 4.348, de 23/04/2024)~~
+**~~Art. 8º-A~~** ~~Os membros do CODIP/ICMS perceberão, por reunião de caráter deliberativo a que efetivamente comparecerem, indenização correspondente a cinquenta Unidades Padrão Fiscal - UPF do Estado do Acre, ou da unidade de referência que vier a substituí-la, paga sob a forma de jetons. (Incluído pela Lei nº 4.348, de 23/04/2024)~~
 
 **Art. 8º-A** Os membros do CODIP/ICMS/IBS perceberão, por reunião de caráter deliberativo a que efetivamente comparecerem, indenização correspondente a cinquenta Unidades Padrão Fiscal - UPF do Estado do Acre, ou da unidade de referência que a substituir, paga sob a forma de jetons. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
-<br>
-
 **§ 1º** Os jetons serão pagos por até oito reuniões anuais, considerando-se não remuneradas eventuais reuniões excedentes no mesmo exercício. (Incluído pela Lei nº 4.348, de 23/04/2024)
-
-<br>
 
 **~~§ 2º~~** ~~O repasse dos jetons será processado considerando as atas das reuniões realizadas pelo CODIP/ICMS. (Incluído pela Lei nº 4.348, de 23/04/2024)~~
 
 **§ 2º** O repasse dos jetons será processado considerando as atas das reuniões realizadas pelo CODIP/ICMS/IBS. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
-<br>
-
 **§ 3º** Será vedado o pagamento prévio ou ainda pendente de comprovação de participação em reunião. (Incluído pela Lei nº 4.348, de 23/04/2024)
 
-<br>
-
 **§ 4º** Aos membros que deixarem de comparecer a reunião, não serão pagos os jetons correspondentes. (Incluído pela Lei nº 4.348, de 23/04/2024)
-
-<br>
 
 **§ 5º** Aplica-se o disposto neste artigo: (Incluído pela Lei nº 4.348, de 23/04/2024)
 
@@ -234,7 +212,7 @@ Modificada pelas Leis nº [3.976, de 15 de Setembro de 2022;](https://legis.ac.g
 
 **III –** ao Tribunal de Contas do Estado - TCE, informar a avaliação obtida pelos municípios no IEGM, nos quesitos relativos ao meio ambiente; e
 
-**~~IV –~~** ~~à Secretaria de Es~~~~tado de Educação, Cultura e Esportes - SEE, apurar, publicar e informar o índice de qualidade da educação, referido no inciso IV do art. 3º.~~
+**~~IV –~~** ~~à Secretaria de Estado de Educação, Cultura e Esportes - SEE, apurar, publicar e informar o índice de qualidade da educação, referido no inciso IV do art. 3º.~~
 
 **IV -** à Secretaria de Estado de Educação e Cultura - SEE, apurar, publicar e informar o Índice de qualidade da educação referido no inciso IV do art. 3º e no inciso II do art. 3º-A. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
@@ -276,11 +254,11 @@ Modificada pelas Leis nº [3.976, de 15 de Setembro de 2022;](https://legis.ac.g
 
 **Das Disposições Gerais e Transitórias**
 
-**~~Art~~**~~**. 13.** Os municípios, por seus representantes, terão livre acesso às informações e documentos utilizados para o cálculo dos índices que compõem do IPM/ICMS, permitindo-lhes o acompanhamento e o conhecimento dos dados e critérios u~~~~tilizados, devendo ser observada a legislação pertinente ao sigilo fiscal.~~
+**~~Art~~**~~**. 13.** Os municípios, por seus representantes, terão livre acesso às informações e documentos utilizados para o cálculo dos índices que compõem do IPM/ICMS, permitindo-lhes o acompanhamento e o conhecimento dos dados e critérios utilizados, devendo ser observada a legislação pertinente ao sigilo fiscal.~~
 
 **Art. 13.** Os Municípios, por seus representantes, terão livre acesso às informações e documentos utilizados para o cálculo dos Índices que compõem o IPM/ICMS e o IPM/IBS, permitindo-lhes o acompanhamento e o conhecimento dos dados e critérios utilizados, devendo ser observada a legislação pertinente ao sigilo fiscal. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
-**~~Art. 14.~~** ~~O CODIP/ICMS, se necessário, expedirá resolução disciplinando a aplicação da presente lei, podendo requisitar o concurso da SEFAZ e outros órgãos e~~~~nvolvidos na apuração do IPM/ICMS, através dos seus técnicos, para o fiel cumprimento dos preceitos legais aqui estabelecidos.~~
+**~~Art. 14.~~** ~~O CODIP/ICMS, se necessário, expedirá resolução disciplinando a aplicação da presente lei, podendo requisitar o concurso da SEFAZ e outros órgãos envolvidos na apuração do IPM/ICMS, através dos seus técnicos, para o fiel cumprimento dos preceitos legais aqui estabelecidos.~~
 
 **Art. 14.** O CODIP/ICMS/IBS, se necessário, expedirá resolução disciplinando a aplicação da presente lei, podendo requisitar o concurso da SEFAZ e outros órgãos envolvidos na apuração do IPM/ICMS e do IPM/IBS, por meio de seus técnicos, para o fiel cumprimento dos preceitos legais nesta Lei estabelecidos. (Redação dada pela Lei nº 4.833, de 03/08/2026)
 
@@ -356,22 +334,14 @@ Governador do Estado do Acre
 
 **~~ANEXO ÚNICO~~**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2" valign="top"><div><p><span><s><strong>&nbsp;</strong></s></span></p><p><span><s><strong><span>Critério de rateio</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong>&nbsp;</strong></s></span></p></div></td><td colspan="11" valign="top"><div><p><span><s><strong><span>Peso do índice na composição do IPM/ICMS</span></strong></s></span></p></div></td></tr><tr><td valign="top"><div><p><span><s><strong><span>2020</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2021</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2022</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2023</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2024</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2025</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2026</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2027</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2028</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2029</span></strong></s></span></p></div></td><td valign="top"><div><p><span><s><strong><span>2030</span></strong></s></span></p></div></td><td><p><span><s>&nbsp;</s></span></p></td></tr><tr><td valign="top"><div><p><span><s>Índice do valor adicionado&nbsp;</s></span></p></div></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>75,0</s></span></p></td><td><p><span><s>&nbsp;</s></span></p></td></tr><tr><td valign="top"><div><p><span><s>Índice de preservação ambiental</s></span></p></div></td><td><p><span><s>0,00</s></span></p></td><td><p><span><s>0,25</s></span></p></td><td><p><span><s>0,50</s></span></p></td><td><p><span><s>0,75</s></span></p></td><td><p><span><s>1,00</s></span></p></td><td><p><span><s>1,25</s></span></p></td><td><p><span><s>1,50</s></span></p></td><td><p><span><s>1,75</s></span></p></td><td><p><span><s>2,00</s></span></p></td><td><p><span><s>2,25</s></span></p></td><td><p><span><s>2,50</s></span></p></td><td><p><span><s>&nbsp;</s></span></p></td></tr><tr><td valign="top"><div><p><span><s>Índice inverso do valor adicionado <em>per capita</em></s></span></p></div></td><td><p><span><s>0,00</s></span></p></td><td><p><span><s>0,85</s></span></p></td><td><p><span><s>1,70</s></span></p></td><td><p><span><s>2,55</s></span></p></td><td><p><span><s>3,40</s></span></p></td><td><p><span><s>4,25</s></span></p></td><td><p><span><s>5,10</s></span></p></td><td><p><span><s>5,95</s></span></p></td><td><p><span><s>6,80</s></span></p></td><td><p><span><s>7,65</s></span></p></td><td><p><span><s>8,50</s></span></p></td><td><p><span><s>&nbsp;</s></span></p></td></tr><tr><td valign="top"><div><p><span><s>Índice da qualidade da educação municipal</s></span></p></div></td><td><p><span><s>0,0</s></span></p></td><td><p><span><s>1,4</s></span></p></td><td><p><span><s>2,8</s></span></p></td><td><p><span><s>4,2</s></span></p></td><td><p><span><s>5,6</s></span></p></td><td><p><span><s>7,0</s></span></p></td><td><p><span><s>8,4</s></span></p></td><td><p><span><s>9,8</s></span></p></td><td><p><span><s>11,2</s></span></p></td><td><p><span><s>12,6</s></span></p></td><td><p><span><s>14</s></span></p></td><td><p><span><s>&nbsp;</s></span></p></td></tr><tr><td valign="top"><div><p><span><s>Regra de transição</s></span></p></div></td><td><p><span><s>25,0</s></span></p></td><td><p><span><s>22,5</s></span></p></td><td><p><span><s>20,0</s></span></p></td><td><p><span><s>17,5</s></span></p></td><td><p><span><s>15,0</s></span></p></td><td><p><span><s>12,5</s></span></p></td><td><p><span><s>10,0</s></span></p></td><td><p><span><s>7,5</s></span></p></td><td><p><span><s>5,0</s></span></p></td><td><p><span><s>2,5</s></span></p></td><td><p><span><s>0,0</s></span></p></td><td><p><span><s>&nbsp;</s></span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2" valign="top"> <s>**&nbsp;**</s> <s>**Critério de rateio**</s> </td><td valign="top"> <s>**&nbsp;**</s> </td><td colspan="11" valign="top"> <s>**Peso do índice na composição do IPM/ICMS**</s> </td></tr><tr><td valign="top"> <s>**2020**</s> </td><td valign="top"> <s>**2021**</s> </td><td valign="top"> <s>**2022**</s> </td><td valign="top"> <s>**2023**</s> </td><td valign="top"> <s>**2024**</s> </td><td valign="top"> <s>**2025**</s> </td><td valign="top"> <s>**2026**</s> </td><td valign="top"> <s>**2027**</s> </td><td valign="top"> <s>**2028**</s> </td><td valign="top"> <s>**2029**</s> </td><td valign="top"> <s>**2030**</s> </td><td> <s>&nbsp;</s> </td></tr><tr><td valign="top"> <s>Índice do valor adicionado&nbsp;</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>75,0</s> </td><td> <s>&nbsp;</s> </td></tr><tr><td valign="top"> <s>Índice de preservação ambiental</s> </td><td> <s>0,00</s> </td><td> <s>0,25</s> </td><td> <s>0,50</s> </td><td> <s>0,75</s> </td><td> <s>1,00</s> </td><td> <s>1,25</s> </td><td> <s>1,50</s> </td><td> <s>1,75</s> </td><td> <s>2,00</s> </td><td> <s>2,25</s> </td><td> <s>2,50</s> </td><td> <s>&nbsp;</s> </td></tr><tr><td valign="top"> <s>Índice inverso do valor adicionado *per capita*</s> </td><td> <s>0,00</s> </td><td> <s>0,85</s> </td><td> <s>1,70</s> </td><td> <s>2,55</s> </td><td> <s>3,40</s> </td><td> <s>4,25</s> </td><td> <s>5,10</s> </td><td> <s>5,95</s> </td><td> <s>6,80</s> </td><td> <s>7,65</s> </td><td> <s>8,50</s> </td><td> <s>&nbsp;</s> </td></tr><tr><td valign="top"> <s>Índice da qualidade da educação municipal</s> </td><td> <s>0,0</s> </td><td> <s>1,4</s> </td><td> <s>2,8</s> </td><td> <s>4,2</s> </td><td> <s>5,6</s> </td><td> <s>7,0</s> </td><td> <s>8,4</s> </td><td> <s>9,8</s> </td><td> <s>11,2</s> </td><td> <s>12,6</s> </td><td> <s>14</s> </td><td> <s>&nbsp;</s> </td></tr><tr><td valign="top"> <s>Regra de transição</s> </td><td> <s>25,0</s> </td><td> <s>22,5</s> </td><td> <s>20,0</s> </td><td> <s>17,5</s> </td><td> <s>15,0</s> </td><td> <s>12,5</s> </td><td> <s>10,0</s> </td><td> <s>7,5</s> </td><td> <s>5,0</s> </td><td> <s>2,5</s> </td><td> <s>0,0</s> </td><td> <s>&nbsp;</s> </td></tr></tbody></table>
 
 **ANEXO ÚNICO**
 
 **Critérios para cálculo do IPM/ICMS no período de 2020 e 2030 e correspondentes percentuais**
 
-<table border="1" cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"><p><span><strong>Critério de Rateio</strong></span></p></td><td colspan="11"><p><span><strong>Peso do índice na composição do IPM/ICMS (%)</strong></span></p></td></tr><tr><td><p><span><strong>2020</strong></span></p></td><td><p><span><strong>2021</strong></span></p></td><td><p><span><strong>2022</strong></span></p></td><td><p><span><strong>2023</strong></span></p></td><td><p><span><strong>2024</strong></span></p></td><td><p><span><strong>2025</strong></span></p></td><td><p><span><strong>2026</strong></span></p></td><td><p><span><strong>2027</strong></span></p></td><td><p><span><strong>2028</strong></span></p></td><td><p><span><strong>2029</strong></span></p></td><td><p><span><strong>2030</strong></span></p></td></tr><tr><td><p><span><strong>Índice do valor Adicionado</strong></span></p></td><td><p><span>75</span></p></td><td><p><span>75</span></p></td><td><p><span>75</span></p></td><td><p><span>75</span></p></td><td><p><span>70</span></p></td><td><p><span>70</span></p></td><td><p><span>70</span></p></td><td><p><span>70</span></p></td><td><p><span>70</span></p></td><td><p><span>70</span></p></td><td><p><span>70</span></p></td></tr><tr><td><p><span><strong>Índice de Preservação Ambiental</strong></span></p></td><td><p><span>0</span></p></td><td><p><span>0,25</span></p></td><td><p><span>0,5</span></p></td><td><p><span>0,75</span></p></td><td><p><span>1</span></p></td><td><p><span>1,25</span></p></td><td><p><span>1,5</span></p></td><td><p><span>1,75</span></p></td><td><p><span>2</span></p></td><td><p><span>2,25</span></p></td><td><p><span>2,5</span></p></td></tr><tr><td><p><span><strong>Í n d i c e I n v e r s o do valor Adicionado <em>per capita</em></strong></span></p></td><td><p><span>0</span></p></td><td><p><span>0,85</span></p></td><td><p><span>1,7</span></p></td><td><p><span>2,55</span></p></td><td><p><span>3,4</span></p></td><td><p><span>4,25</span></p></td><td><p><span>5,1</span></p></td><td><p><span>5,95</span></p></td><td><p><span>6,8</span></p></td><td><p><span>7,65</span></p></td><td><p><span>8,5</span></p></td></tr><tr><td><p><span><strong>Í n d i c e Municipal da Qualidade da Educação</strong></span></p></td><td><p><span>0</span></p></td><td><p><span>1,4</span></p></td><td><p><span>2,8</span></p></td><td><p><span>4,2</span></p></td><td><p><span>10,6</span></p></td><td><p><span>12</span></p></td><td><p><span>13,4</span></p></td><td><p><span>14,8</span></p></td><td><p><span>16,2</span></p></td><td><p><span>17,6</span></p></td><td><p><span>19</span></p></td></tr><tr><td><p><span><strong>Regra de Transição</strong></span></p></td><td><p><span>25</span></p></td><td><p><span>22,5</span></p></td><td><p><span>20</span></p></td><td><p><span>17,5</span></p></td><td><p><span>15</span></p></td><td><p><span>12,5</span></p></td><td><p><span>10</span></p></td><td><p><span>7,5</span></p></td><td><p><span>5</span></p></td><td><p><span>2,5</span></p></td><td><p><span>0</span></p></td></tr></tbody></table>
+<table cellpadding="0" cellspacing="0"><tbody><tr><td rowspan="2"> **Critério de Rateio** </td><td colspan="11"> **Peso do índice na composição do IPM/ICMS (%)** </td></tr><tr><td> **2020** </td><td> **2021** </td><td> **2022** </td><td> **2023** </td><td> **2024** </td><td> **2025** </td><td> **2026** </td><td> **2027** </td><td> **2028** </td><td> **2029** </td><td> **2030** </td></tr><tr><td> **Índice do valor Adicionado** </td><td> 75 </td><td> 75 </td><td> 75 </td><td> 75 </td><td> 70 </td><td> 70 </td><td> 70 </td><td> 70 </td><td> 70 </td><td> 70 </td><td> 70 </td></tr><tr><td> **Índice de Preservação Ambiental** </td><td> 0 </td><td> 0,25 </td><td> 0,5 </td><td> 0,75 </td><td> 1 </td><td> 1,25 </td><td> 1,5 </td><td> 1,75 </td><td> 2 </td><td> 2,25 </td><td> 2,5 </td></tr><tr><td> **Í n d i c e I n v e r s o do valor Adicionado *per capita*** </td><td> 0 </td><td> 0,85 </td><td> 1,7 </td><td> 2,55 </td><td> 3,4 </td><td> 4,25 </td><td> 5,1 </td><td> 5,95 </td><td> 6,8 </td><td> 7,65 </td><td> 8,5 </td></tr><tr><td> **Í n d i c e Municipal da Qualidade da Educação** </td><td> 0 </td><td> 1,4 </td><td> 2,8 </td><td> 4,2 </td><td> 10,6 </td><td> 12 </td><td> 13,4 </td><td> 14,8 </td><td> 16,2 </td><td> 17,6 </td><td> 19 </td></tr><tr><td> **Regra de Transição** </td><td> 25 </td><td> 22,5 </td><td> 20 </td><td> 17,5 </td><td> 15 </td><td> 12,5 </td><td> 10 </td><td> 7,5 </td><td> 5 </td><td> 2,5 </td><td> 0 </td></tr></tbody></table>
 
 (Redação dada pela Lei nº 3.976, de 15/09/2022)
-
-<br>
-
-<br>
-
-<br>
-
-<br>
 
 \*Ementa original "_Dispõe sobre os critérios de distribuição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transportes Interestadual e Intermunicipal e de Comunicação – ICMS, pertencente aos municípios_" alterada pela Lei nº 4.833, de 03/08/2026, para "_Dispõe sobre os critérios de distribuição do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS e do Imposto sobre Bens e Serviços - IBS pertencentes aos Municípios_".

@@ -1,5 +1,3 @@
-###DEC-058358-0-000-05-05-1966@@@
-
 DECRETO Nº 58.358, DE 5 DE MAIO DE 1966.
 
 Fixa a composição da Delegação Brasileira na Comissão Militar Mista Brasil-Estados Unidos e na Comissão Mista de Defesa Brasil-Estados Unidos e dá outras providências.

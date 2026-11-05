@@ -1,5 +1,3 @@
-###DEC-071319-0-000-06-11-1972@@@
-
 DECRETO Nº 71.319 - DE 6 DE NOVEMBRO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, um lote de terreno urbano, sem benfeitorias, situado no Município de São Paulo, Estado de São Paulo, destinado à construção de uma estação telefônica automática, pela Companhia Telefônica Brasileira.

@@ -1,5 +1,3 @@
-###DEC-007268-0-000-25-08-2010-PUB-01@@@
-
 DECRETO Nº 7.268, DE 25 DE AGOSTO DE 2010
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República Democrática Socialista do Sri Lanka, firmado em Brasília, em 16 de setembro de 2008.

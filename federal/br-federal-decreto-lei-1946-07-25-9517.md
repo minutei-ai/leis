@@ -1,5 +1,3 @@
-###DEL-009517-0-000-25-07-1946@@@
-
 DECRETO-LEI N. 9.517 – de 25 DE JULHO DE 1946
 
 Suspende, durante o período em que o Parlamento Nacional estiver funcionando como Assembléia Constituinte, em relação aos servidores de sua Secretária a vigência dos §§ 1º e 3º do art. 122 do Decreto-lei número 1.713, de 28 Outubro de 1939, e dá outras providências.

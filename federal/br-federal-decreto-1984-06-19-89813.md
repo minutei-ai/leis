@@ -1,5 +1,3 @@
-###DEC-089813-0-000-19-06-1984@@@
-
 Decreto nº 89.813, de 19 de junho de 1984
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Coronel Vivida, no Estado do Paraná.

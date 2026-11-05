@@ -1,5 +1,3 @@
-###DEL-000212-0-000-27-02-1967@@@
-
 DECRETO-LEI Nº 212, DE 27 DE FEVEREIRO DE 1967
 
 Dispõe sôbre medidas de segurança sanitária do País.

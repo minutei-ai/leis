@@ -1,5 +1,3 @@
-###DEC-007849-0-000-23-11-2012-PUB-01@@@
-
 DECRETO N° 7.849, DE 23 DE NOVEMBRO DE 2012
 
 Altera o Decreto n° 7.133, de 19 de março de 2010, que regulamenta os critérios e procedimentos gerais a serem observados para a realização das avaliações de desempenho individual e institucional e o pagamento das gratificações de desempenho, para incluir a Gratificação de Desempenho de Atividade de Cargos Específicos – GDACE entre as abrangidas e alterar regras de avaliação de servidores cedidos.

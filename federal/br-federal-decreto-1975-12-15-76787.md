@@ -1,5 +1,3 @@
-###DEC-076787-0-000-15-12-1975@@@
-
 DECRETO Nº 76.787, DE 15 DE DEZEMBRO DE 1975
 
 Concede reconhecimento ao curso de Ciências Contábeis da Universidade Federal de Sergipe, com sede na cidade de Aracaju, Estado de Sergipe.

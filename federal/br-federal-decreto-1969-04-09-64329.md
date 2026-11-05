@@ -1,5 +1,3 @@
-###DEC-064329-0-000-09-04-1969@@@
-
 DECRETO Nº 64.329, DE 9 DE ABRIL DE 1969.
 
 Cria a Embaixada do Brasil na República da Costa do Marfim.

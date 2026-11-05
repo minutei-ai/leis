@@ -1,5 +1,3 @@
-###DEC-067633-0-000-20-11-1970@@@
-
 DECRETO Nº 67.633, DE 20 DE NOVEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - do Ministério da Saúde, cargo originário da extinta Companhia Nacional de Navegação Costeira.

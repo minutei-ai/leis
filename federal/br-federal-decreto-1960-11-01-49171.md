@@ -1,5 +1,3 @@
-###DEC-049171-0-000-01-11-1960@@@
-
 DECRETO Nº 49.171, DE 1 DE novembro DE 1960.
 
 Cria cargos e funções no Quadro de Pessoal permanente da Caixa de Aposentadoria e Pensões dos Ferroviários e Empregados em Serviços Públicos e dá outras providências.

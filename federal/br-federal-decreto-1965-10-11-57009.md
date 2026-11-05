@@ -1,5 +1,3 @@
-###DEC-057009-0-000-11-10-1965@@@
-
 Decreto nº 57.009, de 11 de outubro de 1965.
 
 Declara de utilidade pública a “Fundação Prada de Assistência Social”, com sede em São Paulo, Estado de São Paulo.

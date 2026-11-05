@@ -14,7 +14,8 @@ Institui a Gratificação por Exercício Cumulativo de Atribuições do Delegado
 
 **§ 2º -** A designação de que trata o § 1º deste artigo poderá ser prorrogada, em caráter excepcional, por ato motivado do Delegado-Geral da Polícia Civil, sempre que a manutenção do exercício cumulativo se mostrar imprescindível à prestação do serviço.
 
-Redação de acordo com a Lei nº [14.361](https://www.legislabahia.ba.gov.br/documentos/lei-no-14361-de-21-de-setembro-de-2021) de 21 de setembro de 2021.<br>
+Redação de acordo com a Lei nº [14.361](https://www.legislabahia.ba.gov.br/documentos/lei-no-14361-de-21-de-setembro-de-2021) de 21 de setembro de 2021.
+
 Redação original: "§ 2º - O Delegado-Geral da Polícia Civil poderá, através de ato devidamente motivado, solicitar a prorrogação da designação, uma única vez, por até 01 (um) ano, ao Secretário da Segurança Pública."
 
 **Art. 4º** - É vedada a designação para exercício cumulativo de atribuições:

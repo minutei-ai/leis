@@ -1,5 +1,3 @@
-###DEC-078591-0-000-18-10-1976@@@
-
 DECRETO Nº 78.591, DE 18 DE OUTUBRO DE 1976.
 
 Inclui dispositivo no Decreto número 76.040, de 29 de julho de 1975, que atribui à Comissão Executora do Projeto RADAMBRASIL a responsabilidade do mapeamento de recursos naturais de áreas situadas nas regiões nordeste, sudeste, sul e centro-oeste.

@@ -1,5 +1,3 @@
-###DEC-060559-0-000-07-04-1967@@@
-
 DECRETO Nº 60.559, DE 7 DE ABRIL DE 1967.
 
 Aprova as alterações introduzidas nos Estatutos da Itatiaia Companhia de Seguros, inclusive aumento do capital social.

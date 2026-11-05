@@ -38,7 +38,8 @@ Art. 5º A coordenação, a supervisão e a integração do Programa Goiano de D
 
 § 1º Caberá à Secretaria de Estado da Educação – SEDUC executar e operacionalizar o Programa Goiano de Dignidade Menstrual nas escolas estaduais.
 
-§ 2º Caberá à Secretaria de Estado da Segurança Pública – SSP e à Diretoria-Geral de Polícia Penal - DGPP ~~Diretoria-Geral de Administração Penitenciária – DGAP~~ executar e operacionalizar o Programa Goiano de Dignidade Menstrual no sistema penitenciário.<br>
+§ 2º Caberá à Secretaria de Estado da Segurança Pública – SSP e à Diretoria-Geral de Polícia Penal - DGPP ~~Diretoria-Geral de Administração Penitenciária – DGAP~~ executar e operacionalizar o Programa Goiano de Dignidade Menstrual no sistema penitenciário.
+
  - [Redação dada pela Lei nº 22.457, de 12-12-2023](unsaved://admin.legisla.casacivil.go.gov.br/new_page_1.htm), art. 6º, XVII.                         
 
 § 3º Caberá à Secretaria de Estado de Desenvolvimento Social – SEDS executar e operacionalizar o Programa Goiano de Dignidade Menstrual nos centros de atendimento sociais e educacionais, nos centros de população de rua do Sistema Único da Assistência Social – SUAS e nos abrigos e nas entidades públicas, na forma estabelecida pela Política de Assistência Social.
@@ -52,8 +53,6 @@ Art. 8º Esta Lei poderá ser regulamentada pelo Chefe do Poder Executivo, no qu
 Art. 9º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 16 de novembro de 2021; 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

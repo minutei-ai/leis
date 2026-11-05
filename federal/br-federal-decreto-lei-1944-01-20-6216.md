@@ -1,5 +1,3 @@
-###DEL-006216-0-000-20-01-1944@@@
-
 DECRETO-LEI N. 6.216 – DE 20 DE JANEIRO DE 1944
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito especial de Cr$ 73.949,50, para pagamento de auxílio de aluguel de casa a oficiais do Corpo de Bombeiros do Distrito Federal.

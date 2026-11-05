@@ -1,5 +1,3 @@
-###DEC-074783-0-000-29-10-1974@@@
-
 DECRETO Nº 74.783, DE 29 DE OUTUBRO DE 1974.
 
 Atualiza os valores das multas previstas no Decreto-lei nº 583, de 7 de julho de 1938 e no Decreto nº 4.071, de 12 de maio de 1939.

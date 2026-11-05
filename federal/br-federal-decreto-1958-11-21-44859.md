@@ -1,5 +1,3 @@
-###DEC-044859-0-000-21-11-1958@@@
-
 DECRETO Nº 44.859, DE 21 DE NOVEMBRO DE 1958.
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$500.000,00 para o fim que especifica.

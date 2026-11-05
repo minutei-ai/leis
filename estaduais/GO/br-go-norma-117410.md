@@ -12,8 +12,10 @@ Goiânia, 16 de setembro de 2026; 138º da República.
 
  
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado
 
-CRISTÓVÃO TORMIN<br>
+CRISTÓVÃO TORMIN
+
 Deputado Estadual

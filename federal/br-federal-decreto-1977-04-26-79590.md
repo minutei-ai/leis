@@ -1,5 +1,3 @@
-###DEC-079590-0-000-26-04-1977@@@
-
 DECRETO Nº 79.590, DE 26 DE ABRIL DE 1977.
 
 Concede à Mineração Marino Cesca Ltda. o direito de lavrar fluorita no Município de Pedras Grandes, Estado de Santa Catarina.

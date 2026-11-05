@@ -1,5 +1,3 @@
-###DEL-004713-0-000-18-09-1942@@@
-
 DECRETO-LEI N. 4.713 – DE 18 DE SETEMBRO DE 1942
 
 Reduz o prazo e dispensa exigência estipuladas nas alíneas “a e “f’ dos art. 8º e 48 da lei de Promoções

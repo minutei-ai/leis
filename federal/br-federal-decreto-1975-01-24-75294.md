@@ -1,5 +1,3 @@
-###DEC-075294-0-000-24-01-1975@@@
-
 DECRETO Nº 75.294, DE 24 DE JANEIRO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar doação de imóvel em Rondonópolis-MT destinado ao Ministério do Exército.

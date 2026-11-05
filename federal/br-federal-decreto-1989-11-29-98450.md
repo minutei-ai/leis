@@ -1,7 +1,3 @@
-1
-
-###DEC-098450-0-000-29-11-1989@@@
-
 DECRETO Nº 98.450, DE 29 DE NOVEMBRO DE 1989
 
 Dispõe sobre a execução do Quarto Protocolo Adicional ao Acordo Comercial nº 19, no Setor da Indústria Eletrônica e de Comunicações Elétricas, entre o Brasil, a Argentina, o México e o Uruguai.

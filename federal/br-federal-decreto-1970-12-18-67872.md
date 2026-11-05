@@ -1,5 +1,3 @@
-###DEC-067872-0-000-18-12-1970@@@
-
 decreto nº 67.872, de 18 de dezembro de 1970.
 
 Autoriza a concessão de garantia da União até US$ 10.000.000,00 a operações externas da Companhia do Metropolitano do Rio de Janeiro, e dá outras providências.

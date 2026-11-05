@@ -1,5 +1,3 @@
-###DEL-007043-0-000-10-11-1944@@@
-
 DECRETO-LEI N. 7.043 – DE 10 DE NOVEMBRO DE 1944
 
 Dispõe sôbre a transferência, para a Prefeitura do Distrito Federal, de imóveis que menciona.

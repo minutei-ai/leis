@@ -1,5 +1,3 @@
-###DEC-084655-0-000-28-04-1980@@@
-
 DECRETO Nº 84.655 DE 28 DE ABRIL DE 1980.
 
 Autoriza o aumento do capital da LIGHT -Serviço de Eletricidade S.A.

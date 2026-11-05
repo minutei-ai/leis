@@ -1,5 +1,3 @@
-###DEC-060739-0-000-23-05-1967@@@
-
 DECRETO Nº 60.739, DE 23 DE MAIO DE 1967.
 
 Dispõe sobre liberação de cargas vinculadas obrigatoriamente ao transporte em navios de bandeira brasileira e dá outras providências.

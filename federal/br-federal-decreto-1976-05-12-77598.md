@@ -1,5 +1,3 @@
-###DEC-077598-0-000-12-05-1976@@@
-
 DECRETO Nº 77.598 - DE 12 DE MAIO DE 1976
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação do terreno que menciona, situado em Manaus, Estado da Amazonas.

@@ -1,5 +1,3 @@
-###DEL-008875-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.875 – DE 24 DE Janeiro DE 1946
 
 Cria e inclue um cargo de Servente (Dec-Lei nº 145, de 1937). Da classe e do Quadro Suplementar do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-057995-0-000-14-03-1966@@@
-
 DECRETO Nº 57.995, DE 14 DE MARÇO DE 1966.
 
 Declara de utilidade pública a “Fundação Dr. Antônio Dias Macêdo”, com sede em Fortaleza, Estado do Ceará.

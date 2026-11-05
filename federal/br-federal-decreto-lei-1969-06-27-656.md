@@ -1,7 +1,3 @@
-1
-
-###DEL-000656-0-000-27-06-1969@@@
-
 Decreto-lei nº 656, de 27 de Junho de 1969
 
 Dispõe sôbre incorporação de bens da União, do Estado do Piauí e de instituições particulares.
@@ -21,8 +17,6 @@ Brasília, 27 de junho de 1969; 148º da Independência e 81º da República.
 A. Costa e Silva
 
 Tarso Dutra
-
-###DEL-000656-0-000-27-06-1969@@@RET01+++
 
 decreto-lei nº 656, de 27 de junho de 1969
 

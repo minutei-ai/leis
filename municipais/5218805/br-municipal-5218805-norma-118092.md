@@ -22,17 +22,28 @@ Art. 2º Fica revoga a alínea “e” do inciso II do art.76 da Lei complementa
 
 Art. 3º Altera o caput art. 190 e revoga o seu § 30 do art. 190, em razão do que passa a apresentar a seguinte redação:      
 
-“Art. 190. Poderá ser concedida pelo Diretor do Departamento da Receita parcelamento de débitos fiscais provenientes do Imposto Sobre serviços de Qualquer Natureza, Taxa de Vistorias para Exploração dos meios de Publicidade, Imposto Sobre a Propriedade Predial e Territorial Urbana, Contribuição de Melhoria, multas por descumprimento de obrigações acessórias e demais tributos cuja  cobrança seja delegada ao Município, independentemente de procedimento fiscal, na forma e nas condições previstas em regulamento.<br>
-§ 1° ............................................................................................       <br>
-§ 2° ............................................................................................<br>
-§ 3° Revogado. <br>
-§ 4° ............................................................................................ <br>
-I – ..............................................................................................<br>
-II – .............................................................................................<br>
-III – ............................................................................................<br>
-§ 5° ............................................................................................<br>
-§ 6º ...........................................................................................<br>
-§ 7º ...........................................................................................<br>
+“Art. 190. Poderá ser concedida pelo Diretor do Departamento da Receita parcelamento de débitos fiscais provenientes do Imposto Sobre serviços de Qualquer Natureza, Taxa de Vistorias para Exploração dos meios de Publicidade, Imposto Sobre a Propriedade Predial e Territorial Urbana, Contribuição de Melhoria, multas por descumprimento de obrigações acessórias e demais tributos cuja  cobrança seja delegada ao Município, independentemente de procedimento fiscal, na forma e nas condições previstas em regulamento.
+
+§ 1° ............................................................................................       
+
+§ 2° ............................................................................................
+
+§ 3° Revogado. 
+
+§ 4° ............................................................................................ 
+
+I – ..............................................................................................
+
+II – .............................................................................................
+
+III – ............................................................................................
+
+§ 5° ............................................................................................
+
+§ 6º ...........................................................................................
+
+§ 7º ...........................................................................................
+
 § 8º ...........................................................................................”
 
 Art. 4º Revogadas disposições em contrário, esta Lei Complementar entrará em vigor na data de sua publicação.

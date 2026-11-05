@@ -1,5 +1,3 @@
-###DEC-007037-0-000-21-12-2009@@@
-
 DECRETO Nº 7.037, DE 21 DE DEZEMBRO DE 2009.
 
 Aprova o Programa Nacional de Direitos Humanos - PNDH-3 e dá outras providências.

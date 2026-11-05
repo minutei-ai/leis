@@ -1,10 +1,8 @@
-###LEI-000599-A-000-26-12-1948@@@
+**LEI Nº 599-A, DE 26 DE DEZEMBRO DE 1948**
 
-<strong>LEI Nº 599-A, DE 26 DE DEZEMBRO DE 1948</strong>
+***Dá nova redação aos artigos 22, 23, 44, 95 e 112, do Decreto-lei nº 7.036, de 10 de novembro de 1944.***
 
-<em><strong>Dá nova redação aos artigos 22, 23, 44, 95 e 112, do Decreto-lei nº 7.036, de 10 de novembro de 1944.</strong></em>
-
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
 “Art. 1º Entra a vigorar novamente o Decreto-lei nº 7.036, de 10 de novembro de 1944, passando os seus artigos 22, 23, 44, 95 e 112 a ter a seguinte redação.
 
@@ -34,12 +32,12 @@ Art. 122 As instituições de previdência social, que ainda não mantenham cart
 
 § 3º O Ministro do Trabalho, Indústria e Comércio expedirá instruções no sentido de que as instituições de previdência social, ainda excluídas do monopólio dos seguros contra os acidentes do trabalho, se aparelhem devidamente para assumir as responsabilidades dêsse encargo nos prazos fixados no presente artigo.
 
-<strong>Art</strong>. 2º É prorrogado por cinco anos, a contar da vigência desta Lei, o prazo concedido aos empregadores para realizar seguros, nos têrmos dos arts. 5º e 6º do regulamento baixado com o Decreto nº 18.809 de 5 de junho de 1945, salvo quando à parte já expressamente revogada.
+**Art**. 2º É prorrogado por cinco anos, a contar da vigência desta Lei, o prazo concedido aos empregadores para realizar seguros, nos têrmos dos arts. 5º e 6º do regulamento baixado com o Decreto nº 18.809 de 5 de junho de 1945, salvo quando à parte já expressamente revogada.
 
-<strong>Art</strong>. 3º Esta lei entrará em vigor na data de sua publicação revogadas as disposições me contrário.
+**Art**. 3º Esta lei entrará em vigor na data de sua publicação revogadas as disposições me contrário.
 
 Rio de Janeiro, 26 de dezembro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Honório Monteiro

@@ -1,5 +1,3 @@
-###DEC-071928-0-000-19-03-1973@@@
-
 Decreto Nº 71.928, DE 19 DE MARÇO DE 1973.
 
 Autoriza o funcionamento do curso de Ciências Contábeis, da Faculdade de Administração, Economia e Ciências Contábeis, mantida pelo Instituto Educacional Paulopolitano de São Paulo, SP.

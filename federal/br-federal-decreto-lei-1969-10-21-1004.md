@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/79f62358-d1c4-4b3c-b29b-991e0e6f5b34/texto#nowhere)
 
-###DEL-001004-0-000-21-10-1969@@@
-
 DECRETO-LEI Nº 1.004, DE 21 DE OUTUBRO DE 1969
 
 Código Penal

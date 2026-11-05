@@ -76,8 +76,6 @@ III – 16 de fevereiro de 2023, em relação ao art. 2º.
 
 Goiânia, 19 de janeiro de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

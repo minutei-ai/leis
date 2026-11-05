@@ -1,7 +1,3 @@
-1
-
-###DEC-098682-0-000-27-12-1989@@@
-
 DECRETO N° 98.682, DE 27 DE DEZEMBRO DE 1989
 
 Abre ao Orçamento Fiscal da União, em favor do Fundo Naval, o crédito especial de NCz$ 161.091.111,00, para reforço de dotações consignadas no vigente Orçamento.

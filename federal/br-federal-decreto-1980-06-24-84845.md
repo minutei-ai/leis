@@ -1,5 +1,3 @@
-###DEC-084845-0-000-24-06-1980@@@
-
 DECRETO Nº 84.845, DE 24 DE JUNHO DE 1980.
 
 Autoriza o funcionamento do curso de Serviço Social, das Faculdades Canoenses, de Canoas, Estado do Rio Grande do Sul.

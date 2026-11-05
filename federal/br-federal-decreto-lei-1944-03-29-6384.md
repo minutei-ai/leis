@@ -1,5 +1,3 @@
-###DEL-006384-0-000-29-03-1944@@@
-
 DECRETO-LEI N. 6.384 – DE 29 DE MARÇO DE 1944
 
 Concede gratificação aos membros da Junta de Ajuste dos Lucros Extraordinários que especifica, e dá outras providências

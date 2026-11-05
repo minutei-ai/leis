@@ -1,5 +1,3 @@
-###DEC-095965-0-000-25-04-1988@@@
-
 DECRETO N° 95.965, DE 25 DE ABRIL DE 1988
 
 Outorga concessão à RÁDIO COMUNICADORA DE FOZ DO IGUAÇU LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Foz do Iguaçu Estado do Paraná.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211272)<br>
-
 # DECRETO N° 69.763, DE 07 DE AGOSTO DE 2025
 
 ### _Altera o Decreto n° 51.624, de 28 de fevereiro de 2007, modificado pelo Decreto n° 69.756, de 30 de julho de 2025, que institui regime especial de tributação pelo Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestação de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação ICMS para contribuintes da indústria de informática._

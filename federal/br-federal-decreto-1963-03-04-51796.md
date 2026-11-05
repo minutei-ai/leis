@@ -1,5 +1,3 @@
-###DEC-051796-0-000-04-03-1963@@@
-
 DECRETO Nº 51.796, DE 4 DE MARÇO DE 1963.
 
 Autoriza a Companhia Paranaense de Energia Elétrica (COPEL) a ampliar suas instalações produtores de energia elétrica no município de Maringá, Estado do Paraná.

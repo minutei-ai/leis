@@ -1,5 +1,3 @@
-###DEC-046568-0-000-12-08-1959@@@
-
 DECRETO Nº 46.568, DE 12 DE AGÔSTO DE 1959.
 
 Transfere da Companhia de Eletricidade Vale do Itabapoana para o Govêrno do Estado do Rio de Janeiro, a concessão para o aproveitamento progressivo da energia hidráulica das quedas dágua denominadas Inferno, Fumaça e Rosal, tôdas situadas no rio Itabapoana, entre os Estados do Rio de Janeiro e Espírito Santo.

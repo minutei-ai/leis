@@ -1,5 +1,3 @@
-###DEC-005311-0-000-15-12-2004@@@
-
 DECRETO Nº 5.311 DE 15 DE DEZEMBRO DE 2004
 
 Altera os arts. 96 e 97 do Decreto nº 86.715, de 10 de dezembro de 1981, e o art. 30 do Decreto no 1.983, de 14 de agosto de 1996, para estabelecer o prazo de validade do passaporte para estrangeiros e do "laissez-passer", conceder validade para múltiplas viagens ao "laissez-passer" e dispor sobre o recolhimento desses documentos.

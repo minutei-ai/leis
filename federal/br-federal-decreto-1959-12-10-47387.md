@@ -1,5 +1,3 @@
-###DEC-047387-0-000-10-12-1959@@@
-
 DECRETO Nº 47.387, DE 10 DE DEZEMBRO DE 1959.
 
 Altera a redação do Decreto nº 42.655, de 18 de novembro de 1957 e dá outras providências.

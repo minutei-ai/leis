@@ -1,5 +1,3 @@
-###DEC-058720-0-000-24-06-1966@@@
-
 DECRETO Nº 58.720, DE 24 DE JUNHO DE 1966.
 
 Autoriza o cidadão brasileiro José Ferreira Cota a pesquisar minério de ferro, no município de Rio Piracicaba, Estado de Minas Gerais.

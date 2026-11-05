@@ -1,5 +1,3 @@
-###DEC-070668-0-000-02-06-1972@@@
-
 DECRETO Nº 70.668, de 2 de junho de 1972.
 
 Suspende o funcionamento de sociedade civil para efeito de dissolução.

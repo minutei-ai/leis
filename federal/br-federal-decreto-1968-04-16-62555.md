@@ -1,5 +1,3 @@
-###DEC-062555-0-000-16-04-1968@@@
-
 DECRETO Nº 62.555, DE 16 DE ABRIL DE 1968.
 
 Transfere do Departamento de Águas e Energia do Estado de Pernambuco para a Companhia de Eletricidade de Pernambuco, a concessão para distribuir energia elétrica no município de Lagoa do Ouro, Estado de Pernambuco.

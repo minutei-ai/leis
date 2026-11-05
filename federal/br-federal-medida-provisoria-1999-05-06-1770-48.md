@@ -1,5 +1,3 @@
-###MPV-001770-0-048-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.770-48, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

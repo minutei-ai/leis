@@ -1,5 +1,3 @@
-###DEC-045867-A-000-22-04-1959@@@
-
 DECRETO Nº 45.867-A, DE 22 DE ABRIL DE 1959.
 
 Adota para a Classificação das Guarnições Especiais critério de contagem de pontos para efeito de promoções.

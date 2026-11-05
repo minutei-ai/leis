@@ -1,7 +1,3 @@
-1
-
-###DEC-000113-0-000-06-05-1991@@@
-
 DECRETO Nº 113, DE 6 DE MAIO DE 1991
 
 Altera o Decreto nº 99 066, de 8 de março de 1990, que regulamenta a Lei nº 7.678, de 8 de novembro de 1988.

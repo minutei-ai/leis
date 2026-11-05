@@ -1,5 +1,3 @@
-###DEC-079212-0-000-07-02-1977@@@
-
 DECRETO Nº 79.212, DE 7 DE FEVEREIRO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

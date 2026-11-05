@@ -1,5 +1,3 @@
-###DEC-068172-0-000-04-02-1971@@@
-
 DECRETO Nº 68.172, DE 4 DE FEVEREIRO DE 1971.
 
 Cria o Parque Nacional da Serra da Bocaina e dá outras providências.

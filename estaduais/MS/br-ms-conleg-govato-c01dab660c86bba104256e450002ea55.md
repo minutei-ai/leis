@@ -10,7 +10,6 @@ coletado_em: "2026-10-22T15:45:21.000Z"
 sha256_fonte: "cbb856c5608a4a4d7e4796abcb0eca25b0d7f35d8b7ce0bc6deeeebc6149ccc4"
 sha256_markdown: "5bd3a6da1f5e11d564702eafc81f57ce516acac6e0cc4cae72b62d6bb8badc7d"
 ---
-
 # LEI Nº 57, DE 27 DE MARÇO DE 1980.
 
 ESTADO DE MATO GROSSO DO SUL
@@ -21,43 +20,60 @@ Reajusta os vencimentos e salários dos servidores da Assembléia Legislativa do
 
 Publicada no Diário Oficial nº 309, de 28 de março de 1980.
 
-**O Governador do Estado de Mato Grosso do Sul**<br>
-Faço saber que a Assembléia Legislativa decreta e eu sanciono a<br>
-seguinte Lei:<br>
-<br>
-Art. 1º - Os valores dos vencimentos, salários e gratificações de<br>
-função dos servidores da Assembléia Legislativa, serão<br>
-reajustados em:<br>
-<br>
-I - 25% (vinte e cinco por cento), a contar de 1º de março de<br>
-1980;<br>
-<br>
-II - 25% (vinte e cinco por cento), a partir de 1º de maio de 1980.<br>
-<br>
-Parágrafo único - O percentual fixado no inciso II, deste artigo,<br>
-incidirá sobre os valores vigentes em 1º de março de 1980.<br>
-<br>
-Artigo 2º - Serão reajustados, nas mesmas bases do artigo 1º, os<br>
-valores dos vencimentos dos cargos efetivos integrantes do sistema<br>
-de Classificação instituído pela Lei nº 54, de 07 de janeiro de<br>
-1980.<br>
-<br>
-Art. 3º - Nos cálculos dos vencimentos e salários, bem como das<br>
-contribuições para a instituição de previdência estadual, serão<br>
-desprezadas as frações de cruzeiro.<br>
-<br>
-Art. 4º - as novas tabelas de retribuição dos servidores, serão<br>
-aprovadas por ato do Presidente da Assembléia Legislativa,<br>
-observadas as disposições desta Lei.<br>
-<br>
-Art. 5º - A despesa decorrente da aplicação desta lei correrá à<br>
-conta de dotações próprias do orçamento em vigor, suplementadas se<br>
-necessário.<br>
-<br>
-Art. 6º - Esta Lei entrará em vigor na data de sua publicação,<br>
-revogadas as disposições em contrário.<br>
-<br>
-Campo Grande, 27 de março de 1980.<br>
-<br>
-MARCELO MIRANDA SOARES<br>
+**O Governador do Estado de Mato Grosso do Sul**
+
+Faço saber que a Assembléia Legislativa decreta e eu sanciono a
+
+seguinte Lei:
+
+Art. 1º - Os valores dos vencimentos, salários e gratificações de
+
+função dos servidores da Assembléia Legislativa, serão
+
+reajustados em:
+
+I - 25% (vinte e cinco por cento), a contar de 1º de março de
+
+1980;
+
+II - 25% (vinte e cinco por cento), a partir de 1º de maio de 1980.
+
+Parágrafo único - O percentual fixado no inciso II, deste artigo,
+
+incidirá sobre os valores vigentes em 1º de março de 1980.
+
+Artigo 2º - Serão reajustados, nas mesmas bases do artigo 1º, os
+
+valores dos vencimentos dos cargos efetivos integrantes do sistema
+
+de Classificação instituído pela Lei nº 54, de 07 de janeiro de
+
+1980.
+
+Art. 3º - Nos cálculos dos vencimentos e salários, bem como das
+
+contribuições para a instituição de previdência estadual, serão
+
+desprezadas as frações de cruzeiro.
+
+Art. 4º - as novas tabelas de retribuição dos servidores, serão
+
+aprovadas por ato do Presidente da Assembléia Legislativa,
+
+observadas as disposições desta Lei.
+
+Art. 5º - A despesa decorrente da aplicação desta lei correrá à
+
+conta de dotações próprias do orçamento em vigor, suplementadas se
+
+necessário.
+
+Art. 6º - Esta Lei entrará em vigor na data de sua publicação,
+
+revogadas as disposições em contrário.
+
+Campo Grande, 27 de março de 1980.
+
+MARCELO MIRANDA SOARES
+
 Governador

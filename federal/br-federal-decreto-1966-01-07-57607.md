@@ -1,5 +1,3 @@
-###DEC-057607-0-000-07-01-1966@@@
-
 DECRETO Nº 57.607, DE 7 DE JANEIRO DE 1966.
 
 Concede à The Motor Union Insurance Company Limited autorização para aumentar o capital destinado às suas operações de seguros no Brasil.

@@ -1,5 +1,3 @@
-###DEC-004248-0-000-23-05-2002@@@
-
 DECRETO Nº 4.248, DE 23 DE MAIO DE 2002
 
 Aprova o Regulamento que dispõe sobre as Promoções da Carreira de Diplomata do Serviço Exterior.

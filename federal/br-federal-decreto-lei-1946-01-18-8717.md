@@ -1,5 +1,3 @@
-###DEL-008717-0-000-18-01-1946@@@
-
 DECRETO-LEI N. 8.717 –  18 DE JANEIRO DE 1946
 
 Extingue as Seções de Fomento Agrícola cola nos Territórios Federais, da Divisão de Fomento da Produção Vegetal, do Ministério da Agricultura.

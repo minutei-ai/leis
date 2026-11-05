@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/e312ba06-8028-4474-b17d-f7d9f5439155/texto#nowhere)
 
-###DEL-001209-0-000-28-02-1972@@@
-
 # DECRETO-LEI Nº 1.209, DE 28 DE FEVEREIRO DE 1972
 
 Concede aumento de vencimentos aos funcionários das Secretarias e Serviços Auxiliares do Poder Judiciário da União e do Distrito Federal e dá outras providências.

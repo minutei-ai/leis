@@ -1,5 +1,3 @@
-###DEC-066266-0-000-26-02-1970@@@
-
 DECRETO Nº 66.266 - DE 26 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública o Instituto Maria Imaculada, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

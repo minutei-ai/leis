@@ -1,5 +1,3 @@
-###DEC-085287-0-000-23-10-1980@@@
-
 Decreto nº 85.287 de 23 de dezembro de 1980
 
 Cria o Programa de Expansão e Melhoria da Educação no Meio Rural do Nordeste - EDURURAL - NE e dá outras providências.

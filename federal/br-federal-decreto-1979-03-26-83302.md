@@ -1,5 +1,3 @@
-###DEC-083302-0-000-26-03-1979@@@
-
 Decreto nº 83.302, de 26 de março de 1979
 
 Concede reconhecimento ao curso de Serviço Social, da Faculdade de Serviço Social, com sede na cidade de São Paulo, Estado de São Paulo.

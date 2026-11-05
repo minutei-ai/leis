@@ -1,5 +1,3 @@
-###DEC-007445-0-000-01-03-2011-PUB-01@@@
-
 DECRETO Nº 7.445, DE 1º DE MARÇO DE 2011.
 
 Dispõe sobre a programação orçamentária e financeira, estabelece o cronograma mensal de desembolso do Poder Executivo para o exercício de 2011 e dá outras providências.

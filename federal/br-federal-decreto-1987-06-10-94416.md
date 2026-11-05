@@ -1,5 +1,3 @@
-###DEC-094416-0-000-10-06-1987@@@
-
 DECRETO Nº 94.416, DE 10 DE JUNHO DE 1987
 
 Renova a concessão outorgada à SOCIEDADE RÁDIO DOURADOS LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Dourados, Estado de Mato Grosso do Sul.

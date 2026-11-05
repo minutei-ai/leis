@@ -1,14 +1,12 @@
-###DEC-021723-0-000-28-08-1946@@@
+**DECRETO N° 21.723, DE 28 DE AGÔSTO DE 1946;**
 
-<strong>DECRETO N° 21.723, DE 28 DE AGÔSTO DE 1946;</strong>
+***Declara de utilidade pública e autoriza a desapropriação de diversas áreas de terras necessárias à execução das obras para o aproveitamento da energia Hidráulica corredeira do rio Jacaré Pepita, situada no distrito de São Paulo, município de Brotas, Estado de S. Paulo, de acôrdo com a concessão outorgada à S. A. Central Elétrica Rio Claro, pelo Decreto n.° 7.174, de 8 de Maio de 1941.***
 
-<em><strong>Declara de utilidade pública e autoriza a desapropriação de diversas áreas de terras necessárias à execução das obras para o aproveitamento da energia Hidráulica corredeira do rio Jacaré Pepita, situada no distrito de São Paulo, município de Brotas, Estado de S. Paulo, de acôrdo com a concessão outorgada à S. A. Central Elétrica Rio Claro, pelo Decreto n.° 7.174, de 8 de Maio de 1941.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando das atribuição que lhe confere o artigo 74, letra *a*, da Constituição, e tendo em vista o requerido pela interessada, e o disposto no art. 151, letras *a* e *b*, do Código de Águas, e nos arts. 3° e 5°, letra *h*, e 15 do Decreto-lei n° 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1° do Decreto-lei n° 4.152, de 6 de Março de 1942,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando das atribuição que lhe confere o artigo 74, letra <em>a</em>, da Constituição, e tendo em vista o requerido pela interessada, e o disposto no art. 151, letras <em>a</em> e <em>b</em>, do Código de Águas, e nos arts. 3° e 5°, letra <em>h</em>, e 15 do Decreto-lei n° 3.365, de 21 de junho de 1941, e o parágrafo único do art. 1° do Decreto-lei n° 4.152, de 6 de Março de 1942,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.° Ficam considerados de utilidade pública, nos têrmos dos artigos 3.° e 5.°, letra <em>h,</em> e 15 do Decreto-lei n° 3.365, de 21 de junho de 1941, e do parágrafo único do art. 1° do Decreto-lei n° 4.152, de 6 de Março de 1942, as seguintes áreas de terras, de acôrdo com a planta apresentada, e a ser aprovada pelo Ministério da Agricultura, situadas no município de Brotas, Estado de São Paulo, e necessárias a obras cuja concessão foi outorgada pelo Decreto n° 7.141, de 8 de Maio de 1941, como seguem:
+**Art**. 1.° Ficam considerados de utilidade pública, nos têrmos dos artigos 3.° e 5.°, letra *h,* e 15 do Decreto-lei n° 3.365, de 21 de junho de 1941, e do parágrafo único do art. 1° do Decreto-lei n° 4.152, de 6 de Março de 1942, as seguintes áreas de terras, de acôrdo com a planta apresentada, e a ser aprovada pelo Ministério da Agricultura, situadas no município de Brotas, Estado de São Paulo, e necessárias a obras cuja concessão foi outorgada pelo Decreto n° 7.141, de 8 de Maio de 1941, como seguem:
 
 1\) Área de 4.910 (nove mil quatrocentos e dez) metros quadrados, pertencente a Adriano Balteri (Gleba n.° 24).
 
@@ -54,12 +52,12 @@
 
 22\) Áreas de 28.240 (vinte e oito mil oitocentos e quarenta) metros quadrados, pertencente a Sebastião Barbosa da Silva (Gleba n.° 3).
 
-<strong>Art</strong>. 2° A. S. A. Central Elétrica Rio Claro fica autorizada a promover a desapropriação das mencionadas áreas de terras com fundamento no art. 3.° e de conformidade com o disposto no art. 15 do Decreto-lei número 3.365, e nos parágrafos únicos do art. 1° do Decreto-lei n.° 4.152, ambos citados nos artigos anterior.
+**Art**. 2° A. S. A. Central Elétrica Rio Claro fica autorizada a promover a desapropriação das mencionadas áreas de terras com fundamento no art. 3.° e de conformidade com o disposto no art. 15 do Decreto-lei número 3.365, e nos parágrafos únicos do art. 1° do Decreto-lei n.° 4.152, ambos citados nos artigos anterior.
 
-<strong>Art</strong>. 3.° O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 3.° O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de Agôsto de 1946, 125° da Independência e 58° da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Netto Campelo Júnior

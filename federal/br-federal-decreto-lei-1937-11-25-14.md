@@ -1,5 +1,3 @@
-###DEL-000014-0-000-25-11-1937@@@
-
 DECRETO-LEI N. 14 – DE 25 DE NOVEMBRO DE 1937
 
 Institue o Conselho Técnico da Economia e Finanças, no Ministério da Fazenda, e dá outras providências

@@ -1,7 +1,3 @@
-1
-
-###DEC-000863-0-000-09-07-1993@@@
-
 DECRETO N° 863, DE 9 DE JULHO DE 1993
 
 Promulga o Tratado de Extradição, entre a República Federativa do Brasil e a Re­pública Italiana, de 17 de outubro de 1989.

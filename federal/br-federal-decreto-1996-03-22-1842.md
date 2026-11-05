@@ -1,5 +1,3 @@
-###DEC-001842-0-000-22-03-1996@@@
-
 DECRETO Nº 1.842, DE 22 DE MARÇO DE 1996
 
 Institui Comitê para Integração da Bacia Hidrográfica do Rio Paraíba do Sul - CEIVAP, e dá outras providências.

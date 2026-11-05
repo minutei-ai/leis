@@ -1,5 +1,3 @@
-###DEC-096716-0-000-19-09-1988@@@
-
 DECRETO N° 96.716 DE 19 DE SETEMBRO DE 1988
 
 Outorga concessão à RÁDIO VALE DO COREAÚ LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Granja, Estado de Ceará.

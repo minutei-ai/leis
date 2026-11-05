@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212356)<br>
-
 # LEI N° 18.427, DE 13 DE MARÇO DE 2026
 
 ## (Projeto de lei n° 1666/2023, da Deputada Ediane Maria - PSOL)

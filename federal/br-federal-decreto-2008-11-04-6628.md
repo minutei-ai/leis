@@ -1,5 +1,3 @@
-###DEC-006628-0-000-04-11-2008@@@
-
 DECRETO Nº 6.628, DE 4 DE NOVEMBRO DE 2008.
 
 Aprova o Estatuto do Fundo Garantidor de Financiamentos - FGF, de que trata o art. 4o da Lei no 11.524, de 24 de setembro de 2007.

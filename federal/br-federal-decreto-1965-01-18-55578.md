@@ -1,5 +1,3 @@
-###DEC-055578-0-000-18-01-1965@@@
-
 DECRETO Nº 55.578, de 18 de janeiro de 1965.
 
 Aprova alterações introduzidas nos Estatutos da Santa Cruz Companhia de Seguros Gerais, inclusive aumento do capital social.

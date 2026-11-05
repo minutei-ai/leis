@@ -1,5 +1,3 @@
-###DEC-066252-0-000-23-02-1970@@@
-
 DECRETO Nº 66.252 - DE 23 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a Sociedade Porvir Científico, com sede em Pôrto Alegre, Estado do Rio Grande do Sul.

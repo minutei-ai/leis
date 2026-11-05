@@ -1,5 +1,3 @@
-###DEC-005484-0-000-30-06-2005@@@
-
 DECRETO Nº 5.484, DE 30 DE JUNHO DE 2005
 
 Aprova a Política de Defesa Nacional, e dá outras providências.

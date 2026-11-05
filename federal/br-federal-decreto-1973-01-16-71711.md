@@ -1,5 +1,3 @@
-###DEC-071711-0-000-16-01-1973@@@
-
 DECRETO Nº 71.711, DE 16 DE JANEIRO DE 1973.
 
 Autoriza o Ministério da Fazenda a conceder a garantia da União para as operações externas que especifica.

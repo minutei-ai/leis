@@ -1,5 +1,3 @@
-###DEC-064482-0-000-09-05-1969@@@
-
 DECRETO Nº 64.482, DE 9 de maio DE 1969.
 
 Declara de utilidade pública o Instituto João XXIII, com sede em Colatina, Estado do Espírito Santo.

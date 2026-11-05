@@ -1,5 +1,3 @@
-###DEC-092290-0-000-10-01-1986@@@
-
 DECRETO Nº 92.290, DE 10 DE JANEIRO DE 1986
 
 Regulamenta a Lei nº 7.399, de 04 de novembro de 1985, que altera a redação da Lei nº 6.664, de 26 de junho de 1979, que disciplina a profissão de Geógrafo.

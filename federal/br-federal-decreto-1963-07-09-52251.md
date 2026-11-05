@@ -1,5 +1,3 @@
-###DEC-052251-0-000-09-07-1963@@@
-
 DECRETO Nº 52.251, DE 9 DE JULHO DE 1963.
 
 Retifica o art. 1º do Decreto número 48.345, de 21 de junho de 1960.

@@ -1,5 +1,3 @@
-###DEC-007402-0-000-22-12-2010-PUB-01@@@
-
 DECRETO Nº  7.402, DE 22 DE DEZEMBRO DE 2010
 
 Dispõe sobre a parcela referida no inciso II do § 1º do art. 17 da Lei nº 9.648, de 27 de maio de 1998, paga por titular de concessão ou autorização para exploração de potencial hidráulico.

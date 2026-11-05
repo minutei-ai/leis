@@ -1,5 +1,3 @@
-###DEC-074467-0-000-28-08-1974@@@
-
 DECRETO Nº 74.467, DE 28 DE AGOSTO DE 1974.
 
 Aprova o Regulamento para os Quadros Complementares de Oficiais da Marinha, criados pelo Decreto-lei número 610, de 4 de junho de 1969, alterado pela Lei nº 5.983, de 12 de dezembro de 1973.

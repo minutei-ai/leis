@@ -1,5 +1,3 @@
-###DEL-005620-0-000-24-06-1943@@@
-
 DECRETO‑LEI N. 5.620 – DE 24 DE JUNHO DE 1943
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 51.300,00 à verba que especifica

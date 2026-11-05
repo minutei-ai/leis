@@ -1,5 +1,3 @@
-###DEC-091086-0-000-12-03-1985@@@
-
 DECRETO Nº 91.086, DE 12 DE MARÇO DE 1985
 
 Renova a concessão outorgada à RÁDIO JUNQUEIRÓPOLIS LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Junqueirópolis, Estado de São Paulo.

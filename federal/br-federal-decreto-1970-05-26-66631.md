@@ -1,5 +1,3 @@
-###DEC-066631-0-000-26-05-1970@@@
-
 DECRETO Nº 66.631, DE 26 DE MAIO DE 1970.
 
 Aprova Plano de Reestruturação da Universidade de Passo Fundo, no Estado do Rio Grande do Sul.

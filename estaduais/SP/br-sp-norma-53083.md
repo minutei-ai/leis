@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=53083)
-
 # LEI Nº 11.912, DE 24 DE MARÇO DE 2005
 
 ## ( PL 432/2004 - Gilson de Souza)

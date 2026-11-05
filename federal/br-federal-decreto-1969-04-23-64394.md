@@ -1,5 +1,3 @@
-###DEC-064394-0-000-23-04-1969@@@
-
 DECRETO Nº 64.394, DE 23 DE ABRIL DE 1969.
 
 Regulamenta a aplicação da disponibilidade e dá outras providências.

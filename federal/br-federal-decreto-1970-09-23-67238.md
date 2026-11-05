@@ -1,5 +1,3 @@
-###DEC-067238-0-000-23-09-1970@@@
-
 decreto nº 67.238, de 23 de setembro de 1970.
 
 Declara de utilidade pública a Associação de Proteção e Assistência à Maternidade e a Infância de Campos Sales, com sede em Campos Sales, Estado do Ceará.

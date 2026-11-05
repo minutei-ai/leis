@@ -1,6 +1,10 @@
 > **LEI Nº 3.157, DE 29 DE JULHO DE 2016**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera dispositivos da Lei n. 1.481, de 17 de janeiro de 2003 que “Regula em nível estadual os procedimentos para pagamento de obrigações de pequeno valor, conforme o disposto no art. 100, § 3º da Constituição Federal, bem como a possibilidade de acordos ou transações para término de litígios, e dá outras providências.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera dispositivos da Lei n. 1.481, de 17 de janeiro de 2003 que “Regula em nível estadual os procedimentos para pagamento de obrigações de pequeno valor, conforme o disposto no art. 100, § 3º da Constituição Federal, bem como a possibilidade de acordos ou transações para término de litígios, e dá outras providências.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

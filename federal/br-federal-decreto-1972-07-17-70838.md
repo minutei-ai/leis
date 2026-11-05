@@ -1,5 +1,3 @@
-###DEC-070838-0-000-17-07-1972@@@
-
 DECRETO Nº 70.838, DE 17 DE JULHO DE 1972.
 
 Transforma função gratificada no Quadro de Pessoal - Parte Permanente - do Ministério da Educação e Cultura, e dá outras providências.

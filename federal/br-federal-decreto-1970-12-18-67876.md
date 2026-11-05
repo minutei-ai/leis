@@ -1,5 +1,3 @@
-###DEC-067876-0-000-18-12-1970@@@
-
 decreto nº 67.876, de 18 de dezembro de 1970.
 
 Revoga o § 1º do artigo 67 do Estatuto da Fundação IBGE, aprovado pelo Decreto nº 61.126, de 2 de agôsto de 1967.

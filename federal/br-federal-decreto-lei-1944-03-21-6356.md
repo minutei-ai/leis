@@ -1,5 +1,3 @@
-###DEL-006356-0-000-21-03-1944@@@
-
 DECRETO-LEI N. 6.356 – DE 21 DE MARÇO DE 1944
 
 Cria o cargo de 2º Curador de Memores, no Quadro da Justiça, do Ministério da Justiça, e negócios Interiores

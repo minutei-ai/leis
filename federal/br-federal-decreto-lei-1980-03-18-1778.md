@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f51f78b8-68ea-4ea1-9c46-6e0bf5edc690/texto#nowhere)
 
-###DEL-001778-0-000-18-03-1980@@@
-
 # Decreto-Lei nº 1.778, de 18 de março de 1980.
 
 Cria o Sistema de Defesa Aeroespacial Brasileiro - SISDABRA e dá outras providências.

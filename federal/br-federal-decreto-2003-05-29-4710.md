@@ -1,5 +1,3 @@
-###DEC-004710-0-000-29-05-2003@@@
-
 DECRETO Nº 4.710, DE 29 DE MAIO DE 2003.
 
        Dispõe sobre a implantação e funcionamento da Câmara Interministerial de Trânsito.
@@ -44,5 +42,6 @@ DECRETO Nº 4.710, DE 29 DE MAIO DE 2003.
 
 Brasília, 29 de maio de 2003; 182o da Independência e 115o da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
+LUIZ INÁCIO LULA DA SILVA
+
 Olívio de Oliveira Dutra

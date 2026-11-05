@@ -1,5 +1,3 @@
-###DEC-062000-0-000-28-12-1967@@@
-
 DECRETO nº 62.000, DE 28 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação em favor da Petróleo Brasileiro S.A. - PETROBRAS, terras e benfeitorias no município de Salvador, Estado da Bahia.

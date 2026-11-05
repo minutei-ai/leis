@@ -1,5 +1,3 @@
-###DEC-089606-0-000-02-05-1984@@@
-
 Decreto nº 89.606 de 02 de maio de 1984
 
 Outorga concessão à RÁDIO INDEPENDÊNCIA DE CATOLÉ DO ROCHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Catolé do Rocha, Estado da Paraíba.

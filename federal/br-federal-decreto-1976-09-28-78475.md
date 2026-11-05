@@ -1,5 +1,3 @@
-###DEC-078475-0-000-28-09-1976@@@
-
 DECRETO Nº 78.475, DE 28 DE SETEMBRO DE 1976.
 
 Autoriza a Universidade Federal de Sergipe a alienar bem imóvel de sua propriedade e dá outras providências.

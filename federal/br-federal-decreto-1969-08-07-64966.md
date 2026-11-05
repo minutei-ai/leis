@@ -1,5 +1,3 @@
-###DEC-064966-0-000-07-08-1969@@@
-
 DECRETO Nº 64.966 - DE 7 DE AGÔSTO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá desde a Usina Macabu e à localidade de Palmas no município de Trajano de Morais, no Estado do Rio de Janeiro.

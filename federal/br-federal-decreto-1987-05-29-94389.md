@@ -1,5 +1,3 @@
-###DEC-094389-0-000-29-05-1987@@@
-
 DECRETO Nº 94.389, DE 29 DE MAIO DE 1987.
 
 Autoriza a Meridional Crédito Imobiliário S.A., a proceder ao aumento do capital social.

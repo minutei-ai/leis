@@ -1,5 +1,3 @@
-###DEC-074429-0-000-16-08-1974@@@
-
 DECRETO Nº 74.429 - DE 16 DE AGOSTO DE 1974.
 
 Autoriza o funcionamento do curso de Ciências Contáveis da Faculdade Camoense de Ciências Administrativas e Contábeis, mantida pela Comunidade Evangélica Luterana "São Paulo", com sede no cidade de Canoas Estado do Rio Grande do Sul.

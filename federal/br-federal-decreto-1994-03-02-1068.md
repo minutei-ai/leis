@@ -1,7 +1,3 @@
-1
-
-###DEC-001068-0-000-02-03-1994@@@
-
 DECRETO N° 1.068, DE 2 MARÇO DE 1994
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização PND das participações societárias minoritárias, detidas pelas entidades da Administração Federal que menciona, e dá outras providências.

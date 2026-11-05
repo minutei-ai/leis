@@ -1,5 +1,3 @@
-###DEC-066592-0-000-20-05-1970@@@
-
 Decreto Nº 66.592, DE 20 DE MAIO DE 1970.
 
 Autoriza estrangeiros a adquirirem direitos sôbre os terrenos que menciona.

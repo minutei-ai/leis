@@ -1,5 +1,3 @@
-###DEC-057444-0-000-16-12-1965@@@
-
 DECRETO Nº 57.444, DE 16 DE DEZEMBRO DE 1965.
 
 Autoriza a Centrais Elétricas de Minas Gerais S. A. a construir linha de transmissão.

@@ -1,5 +1,3 @@
-###DEC-001863-0-000-16-04-1996@@@
-
 DECRETO Nº 1.863, DE 16 DE ABRIL DE 1996.
 
 Dispõe sobre a redução do imposto de importação para os produtos que especifica e dá outras providências.

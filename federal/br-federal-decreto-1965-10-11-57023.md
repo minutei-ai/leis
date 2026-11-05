@@ -1,5 +1,3 @@
-###DEC-057023-0-000-11-10-1965@@@
-
 decreto nº 57.023, de 11 de outubro de 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco, concessão para distribuir energia elétrica.
@@ -41,8 +39,6 @@ Brasília, 11 de outubro de 1965; 144º da Independência e 77º da República.
 h castello branco
 
 Mauro Thibau
-
-###DEC-057023-0-000-11-10-1965@@@RET01+++
 
 DECRETO Nº 57.023, DE 11 DE OUTUBRO DE 1965.
 

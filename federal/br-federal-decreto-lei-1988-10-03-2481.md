@@ -1,7 +1,3 @@
-1
-
-###DEL-002481-0-000-03-10-1988@@@
-
 # DECRETO‑LEI N° 2.481, DE 3 DE OUTUBRO DE 1988
 
 Dispõe sobre o registro provisório para o estrangeiro em situação ilegal em território nacional.

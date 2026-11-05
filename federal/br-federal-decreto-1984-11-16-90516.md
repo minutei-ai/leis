@@ -1,5 +1,3 @@
-###DEC-090516-0-000-16-11-1984@@@
-
 Decreto nº 90.516, de 16 de novembro de 1984
 
 Renova a concessão outorgada à RÁDIO SOCIEDADE DA BAHIA S/A., para explorar serviço de radiodifusão sonora em onda média, na cidade de Salvador, Estado da Bahia.

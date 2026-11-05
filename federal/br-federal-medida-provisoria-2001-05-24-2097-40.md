@@ -1,5 +1,3 @@
-###MPV-002097-0-040-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.097‑ 40, DE 24 DE MAIO DE 2001.
 
 Altera a Lei nº 9.656, de 3 de junho de 1998, que dispõe sobre os planos privados de assistência à saúde e dá outras providências.

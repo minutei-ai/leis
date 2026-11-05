@@ -1,5 +1,3 @@
-###DEC-087041-0-000-17-03-1982@@@
-
 Decreto Nº 87.041, de 17 de março de 1982
 
 Fixa, para 1982, os efetivos dos Oficiais dos Quadros Complementares da Marinha, criados pelo Decreto-lei nº 610 de 4 de julho de 1969.

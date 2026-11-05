@@ -1,5 +1,3 @@
-###DEL-007300-0-000-06-02-1945@@@
-
 DECRETO-LEI N. 7.300 – DE 6 DE FEVEREIRO DE 1945
 
 Autoriza a modificação dos quadros territoriais dos Estados de Pernambuco, Paraná e Minas Gerais

@@ -1,5 +1,3 @@
-###DEC-088266-0-000-28-04-1983@@@
-
 Decreto nº 88.266, de 28 de abril de 1983
 
 Autoriza o Governo do Estado de Minas Gerais a explorar, através da RÁDIO INCONFIDÊNCIA LTDA., na cidade de Belo Horizonte, Estado de Minas Gerais, serviço de radiodifusão sonora em onda média de âmbito nacional, mediante convênio a ser celebrado com o Ministério das Comunicações.

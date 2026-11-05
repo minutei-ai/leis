@@ -1,7 +1,3 @@
-1
-
-###DEC-001249-0-000-21-09-1994@@@
-
 DECRETO Nº 1.249, DE 21 DE SETEMBRO DE 1994
 
 Acresce parágrafo ao art. 38 do Anexo I ao Decreto nº 99.578, de 10 de outubro de 1990.

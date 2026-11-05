@@ -1,5 +1,3 @@
-###DEC-060972-0-000-10-07-1967@@@
-
 DECRETO Nº 60.972, DE 10 DE JULHO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S. A. - CEMIG concessão para distribuir energia elétrica nos municípios de Buritizeiro e Pirapora, Estado de Minas Gerais.

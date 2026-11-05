@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208783)<br>
-
 # DECRETO N° 68.068, DE 09 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à implantação de dispositivo de acesso e retorno no km 236+185m da Rodovia SP-333, no Município de Pongaí, e dá providências correlatas._

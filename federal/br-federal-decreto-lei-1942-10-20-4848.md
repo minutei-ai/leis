@@ -1,5 +1,3 @@
-###DEL-004848-0-000-20-10-1942@@@
-
 decreto-lei n. 4.848 - de 20 de outubro de 1942
 
 Cria o Serviço de Saude da Aeronáutica e aprova o respectivo regulamento

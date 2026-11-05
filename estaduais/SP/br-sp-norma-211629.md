@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211629)<br>
-
 # DECRETO N° 69.952, DE 10 DE OUTUBRO DE 2025
 
 ### _Altera dispositivo do Decreto n° 65.481, de 20 de janeiro de 2021, que autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito e por prazo indeterminado, em favor do Município de Guararapes, do imóvel que especifica._

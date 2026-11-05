@@ -1,5 +1,3 @@
-###DEC-081849-0-000-27-06-1978@@@
-
 Decreto nº 81.849, de 27 de junho de 1978.
 
 Inclui na composição do Conselho Deliberativo do Instituto do Açúcar e do Álcool um representante do Ministério das Minas e Energia.

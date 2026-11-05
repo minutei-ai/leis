@@ -1,5 +1,3 @@
-###DEC-068194-0-000-10-02-1971@@@
-
 DECRETO Nº 68.194, DE 10 DE FEVEREIRO DE 1971.
 
 Declara caduco o Decreto nº 1.590, de 22 de novembro de 1962.

@@ -1,3 +1,9 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no D.P.L de 10/11/2016.
+
+<!-- nota-edicao:fim -->
+
 ![](https://www3.al.es.gov.br/Arquivo/Documents/legislacao/html/brasao.png)
 
 EMENDA CONSTITUCIONAL N.º 106, DE 09 DE NOVEMBRO DE 2016
@@ -30,6 +36,4 @@ ENIVALDO DOS ANJOS
 
 CACAU LORENZONI
 
-**_2º Secretário_**
-
-Este texto não substitui o publicado no D.P.L de 10/11/2016.
+**_2º Secretário

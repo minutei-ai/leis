@@ -1,5 +1,3 @@
-###DEC-048883-0-000-25-08-1960@@@
-
 DECRETO Nº 48.883, DE 25 DE AGÔSTO DE 1960.
 
 Concede à Companhia Citobrasil de Navegação autorização para funcionar como emprêsa de navegação de cabotagem.

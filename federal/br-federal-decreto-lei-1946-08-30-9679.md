@@ -1,5 +1,3 @@
-###DEL-009679-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.679 – DE 30 DE AGÔSTO DE 1946.
 
 Dispõe sôbre bens e direitos decorrentes dos testamentos de Antônio e Helena Zerrenner.

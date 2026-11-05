@@ -1,5 +1,3 @@
-###DEC-096095-0-000-27-05-1988@@@
-
 DECRETO N° 96.095, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “Gleba 11 - Colônia Piquiri, lotes 36, 37 e 38”, também conhecido por “Sítio São José”, classificado como “latifúndio por exploração”, situado no Município de Palmital, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.

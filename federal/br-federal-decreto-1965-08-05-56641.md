@@ -1,5 +1,3 @@
-###DEC-056641-0-000-05-08-1965@@@
-
 DECRETO Nº 56.641, DE 5 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro José Carlevatto a pesquisar caulim, feldspato e quartzo, no município de Socorro, Estado de São Paulo.

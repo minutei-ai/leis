@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183209)
-
 # DECRETO Nº 62.830, DE 15 DE SETEMBRO DE 2017
 
 ### _Declara de utilidade pública, para fins de desapropriação pela ViaRondon Concessionária de Rodovia S.A., imóveis necessários às obras de implantação de Marginais Leste - Oeste entre o Km 516+300m e o Km 519+600m da Rodovia Marechal Rondon, SP-300, Município e Comarca de Birigui, no trecho que especifica e dá providências correlatas_
@@ -36,8 +34,12 @@ Palácio dos Bandeirantes, 15 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 15 de setembro de 2017.

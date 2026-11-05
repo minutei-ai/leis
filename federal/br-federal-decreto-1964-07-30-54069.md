@@ -1,5 +1,3 @@
-###DEC-054069-0-000-30-07-1964@@@
-
 DECRETO Nº 54.069, de 30 de JULHO DE 1964.
 
 Outorga concessão ao Govêrno do Estado de Goiás, para estabelecer uma estação de Televisão.

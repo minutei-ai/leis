@@ -1,5 +1,3 @@
-###DEC-056369-0-000-27-05-1965@@@
-
 DECRETO Nº 56.369, DE 27 DE MAIO DE 1965.
 
 Autoriza o Departamento Nacional de Estradas de Rodagem a antecipar despesas de investimentos.

@@ -202,11 +202,27 @@ SÍLVIO PESSOA DE CARVALHO
 
 PAULO CARNEIRO DE ANDRADE
 
-<br>
-
 **ANEXO I**
 
-<table class="MsoNormalTable" border="1" cellspacing="1" cellpadding="0" width="541" style="width:406.1pt;border:outset black 1.0pt"><tbody><tr><td width="59%" style="width:59.76%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE MÉDICO</p></td><td width="39%" style="width:39.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">VALOR DO VENCIMENTO BASE R$</p></td></tr><tr><td width="59%" style="width:59.76%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">SM - 1</span></p></td><td width="39%" style="width:39.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US">1.400,00</span></p></td></tr><tr><td width="59%" style="width:59.76%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">SM - 2</span></p></td><td width="39%" style="width:39.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right"><span lang="EN-US">1.456,00</span></p></td></tr><tr><td width="59%" style="width:59.76%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center"><span lang="EN-US">SM - 3</span></p></td><td width="39%" style="width:39.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">1.514,24</p></td></tr><tr><td width="59%" style="width:59.76%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="center" style="text-align:center">SM - 4</p></td><td width="39%" style="width:39.74%;border:inset black 1.0pt;padding:0cm 0cm 0cm 0cm"><p class="MsoNormal" align="right" style="text-align:right">1.574,81</p></td></tr></tbody></table>
+SÍMBOLOS DE NÍVEIS DO CARGO EFETIVO DE MÉDICO
+
+VALOR DO VENCIMENTO BASE R$
+
+SM - 1
+
+1.400,00
+
+SM - 2
+
+1.456,00
+
+SM - 3
+
+1.514,24
+
+SM - 4
+
+1.574,81
 
 **ANEXO - II**
 

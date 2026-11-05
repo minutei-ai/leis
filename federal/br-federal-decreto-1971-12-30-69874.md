@@ -1,5 +1,3 @@
-###DEC-069874-0-000-30-12-1971@@@
-
 decreto nº 69.874 - de 30 de dezembro de 1971
 
 Revoga o Decreto nº 8.733, de 17 de maio de 1911, que concedeu               à emprêsa Brazilian Iron And Steel Company autorização para o funcionar na República Federativa do Brasil.

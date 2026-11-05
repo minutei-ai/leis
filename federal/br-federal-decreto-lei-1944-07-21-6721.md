@@ -1,5 +1,3 @@
-###DEL-006721-0-000-21-07-1944@@@
-
 DECRETO-LEI N. 6.721 – DE 21 DE JULHO DE 1944
 
 Altera as carreiras de Escriturário e de Oficial Administrativo do Quadro Permanente do Ministério da Marinha e dá outras providências

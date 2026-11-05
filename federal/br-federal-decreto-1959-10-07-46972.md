@@ -1,5 +1,3 @@
-###DEC-046972-0-000-07-10-1959@@@
-
 DECRETO Nº 46.972, DE 7 DE OUTUBRO DE 1959.
 
 Autoriza a Polícia Militar do Distrito Federal a realizar despesas pelo Artigo 48 do Código de Contabilidade da União e dá outras providências.

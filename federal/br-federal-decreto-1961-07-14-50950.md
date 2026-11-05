@@ -1,5 +1,3 @@
-###DEC-050950-0-000-14-07-1961@@@
-
 DECRETO Nº 50.950, DE 14 DE JULHO DE 1961.
 
 Revoga o Decreto nº 31.056, de 30 de junho de 1952, que cria a Comissão de coordenação e Desenvolvimento dos Transportes, e o decreto número 32.284, de 19 de fevereiro de 1953, que aprova seu Regimento Interno.

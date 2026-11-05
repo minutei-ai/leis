@@ -1,5 +1,3 @@
-###DEC-092105-0-000-10-12-1985@@@
-
 Decreto nº 92.105, de 10 de dezembro de 1985
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra, com as respectivas benfeitorias, necessárias à formação do reservatório de acumulação da Barragem do Flores, sobre o rio das Flores, nos municípios de Joselândia, Presidente Dutra, Tuntum e Barra do Corda, no Estado do Maranhão, e dá outras providências.

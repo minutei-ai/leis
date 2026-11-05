@@ -1,7 +1,3 @@
-1
-
-###DEC-001055-0-000-11-02-1994@@@
-
 DECRETO Nº 1.055, DE 11 DE FEVEREIRO DE 1994
 
 Dá nova redação ao § 1º do art. 5º do Decreto nº 1.042, de 12 de janeiro de 1994, que dispõe sobre a autorização a servidores civis da Administração Pública Federal, para afastamento do País.

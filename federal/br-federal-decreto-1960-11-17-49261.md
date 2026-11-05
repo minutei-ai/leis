@@ -1,5 +1,3 @@
-###DEC-049261-0-000-17-11-1960@@@
-
 DECRETO Nº 49.261, DE 17 DE NOVEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Almerino José Antunes a pesquisar feldspato, no município de maricá, Estado do rio de Janeiro.

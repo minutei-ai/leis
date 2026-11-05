@@ -66,7 +66,8 @@ d) Gerência da Secretaria-Geral;
 
 e) Escritório de Projetos Setorial;
 
-f) Subsecretaria de Esporte e Lazer:<br>
+f) Subsecretaria de Esporte e Lazer:
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~f) Subsecretaria de Segurança Esportiva e Gestão Integrada:~~
@@ -93,52 +94,62 @@ f) Subsecretaria de Esporte e Lazer:<br>
 
 2.4. Gerência de Gestão de Autódromos e Cartódromos;
 
-3. Superintendência de Paradesporto e Fomento Esportivo:<br>
+3. Superintendência de Paradesporto e Fomento Esportivo:
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~g) Superintendência de Paradesporto e Fomento Esportivo:~~
 
-3.1. Gerência de Práticas Paradesportivas e Paralímpicas;<br>
+3.1. Gerência de Práticas Paradesportivas e Paralímpicas;
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~1\. Gerência de Práticas Paradesportivas e Paralímpicas;~~
 
-3.2. Gerência de Apoio à Captação de Recursos; e<br>
+3.2. Gerência de Apoio à Captação de Recursos; e
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~2\. Gerência de Apoio à Captação de Recursos; e~~
 
-3.3. Gerência de Gestão do Programa Construindo Campeões; e<br>
+3.3. Gerência de Gestão do Programa Construindo Campeões; e
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~3\. Gerência de Gestão do Programa Construindo Campeões; e~~
 
-4. Superintendência de Esporte e Lazer:<br>
+4. Superintendência de Esporte e Lazer:
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~h) Superintendência de Esporte e Lazer:~~
 
-4.1. Gerência de Iniciação Esportiva;<br>
+4.1. Gerência de Iniciação Esportiva;
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~1\. Gerência de Iniciação Esportiva;~~
 
-4.2. Gerência do Programa de Incentivo ao Atleta de Rendimento – PRÓ-ATLETA;<br>
+4.2. Gerência do Programa de Incentivo ao Atleta de Rendimento – PRÓ-ATLETA;
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~2\. Gerência do Programa de Incentivo ao Atleta de Rendimento – PRÓ-ATLETA;~~
 
-4.3. Gerência do Programa de Incentivo à Prática Esportiva – PRÓ-ESPORTE;<br>
+4.3. Gerência do Programa de Incentivo à Prática Esportiva – PRÓ-ESPORTE;
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~3\. Gerência do Programa de Incentivo à Prática Esportiva – PRÓ-ESPORTE;~~
 
-4.4. Gerência de Esportes, Lazer e Programas Especiais; e<br>
+4.4. Gerência de Esportes, Lazer e Programas Especiais; e
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~4\. Gerência de Esportes, Lazer e Programas Especiais; e~~
 
-4.5. Gerência de Cerimonial e Eventos Esportivos;<br>
+4.5. Gerência de Cerimonial e Eventos Esportivos;
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~5\. Gerência de Cerimonial e Eventos Esportivos.~~
@@ -355,14 +366,16 @@ DAS COMPETÊNCIAS DAS UNIDADES EXECUTIVAS
 
 **Seção I**
 
-**Da Subsecretaria de Esporte e Lazer**<br>
+**Da Subsecretaria de Esporte e Lazer**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Seção I~~
 
 ~~Da Subsecretaria de Segurança Esportiva e Gestão Integrada~~
 
-Art. 10. Compete à Subsecretaria de Esporte e Lazer exercer as funções de organização, coordenação e supervisão das seguintes superintendências:<br>
+Art. 10. Compete à Subsecretaria de Esporte e Lazer exercer as funções de organização, coordenação e supervisão das seguintes superintendências:
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Art. 10. Compete à Subsecretaria de Segurança Esportiva e Gestão Integrada exercer as funções de organização, coordenação e supervisão das seguintes superintendências:~~
@@ -371,20 +384,24 @@ I – Superintendência de Gestão Integrada;
 
 II – Superintendência de Segurança e Infraestrutura Esportiva;
 
-III - Superintendência de Paradesporto e Fomento Esportivo; e<br>
+III - Superintendência de Paradesporto e Fomento Esportivo; e
+
 \- [Acrescido pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
-IV – Superintendência de Esporte e Lazer.<br>
+IV – Superintendência de Esporte e Lazer.
+
 \- [Acrescido pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
-Parágrafo único. A Subsecretaria de Esporte e Lazer fica subordinada técnica, normativa e administrativamente ao Gabinete do Secretário de Estado de Esporte e Lazer.<br>
+Parágrafo único. A Subsecretaria de Esporte e Lazer fica subordinada técnica, normativa e administrativamente ao Gabinete do Secretário de Estado de Esporte e Lazer.
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Parágrafo único. A Subsecretaria de Segurança Esportiva e Gestão Integrada fica subordinada técnica, normativa e administrativamente ao Gabinete do Secretário de Estado de Esporte e Lazer.~~
 
 **Subseção I**
 
-**Da Superintendência de Gestão Integrada<br>
+**Da Superintendência de Gestão Integrada
+
 **\- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Seção II~~
@@ -453,7 +470,8 @@ V – Gerência de Contabilidade.
 
 **Subseção I-A**
 
-**Da Gerência de Apoio Administrativo e Logístico**<br>
+**Da Gerência de Apoio Administrativo e Logístico**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção I~~
@@ -668,7 +686,8 @@ II – SGG, quanto às competências de tecnologia.
 
 Subseção I-B
 
-**Da Gerência de Gestão e Desenvolvimento de Pessoas**<br>
+**Da Gerência de Gestão e Desenvolvimento de Pessoas**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção II~~
@@ -747,7 +766,8 @@ Parágrafo único. A Gerência de Gestão e Desenvolvimento de Pessoas fica subo
 
 **Subseção I-C**
 
-**Da Gerência de Compras Governamentais**<br>
+**Da Gerência de Compras Governamentais**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção III~~
@@ -796,7 +816,8 @@ Parágrafo único. A Gerência de Compras Governamentais fica subordinada técni
 
 **Subseção I-D**
 
-**Da Gerência de Gestão e Finanças**<br>
+**Da Gerência de Gestão e Finanças**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção IV~~
@@ -925,7 +946,8 @@ II – SEAD, quanto às competências de transformação da gestão pública.
 
 **Subseção I-E**
 
-**Da Gerência de Contabilidade**<br>
+**Da Gerência de Contabilidade**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção V~~
@@ -972,7 +994,8 @@ XV – encarregar–se de competências correlatas.
 
 **Subseção II**
 
-**Da Superintendência de Segurança e Infraestrutura Esportiva<br>
+**Da Superintendência de Segurança e Infraestrutura Esportiva
+
 **\- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Seção III~~
@@ -1033,7 +1056,8 @@ IV – Gerência de Gestão de Autódromos e Cartódromos.
 
 **Subseção II-A**
 
-**Da Gerência de Gestão de Estádios**<br>
+**Da Gerência de Gestão de Estádios**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção I~~
@@ -1076,7 +1100,8 @@ XVI – encarregar–se de competências correlatas.
 
 **Subseção II-B**
 
-**Da Gerência de Ginásios, Parques e Centros de Esporte e Lazer**<br>
+**Da Gerência de Ginásios, Parques e Centros de Esporte e Lazer**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção II~~
@@ -1119,7 +1144,8 @@ XVI – encarregar–se de competências correlatas.
 
 **Subseção II-C**
 
-**Da Gerência de Infraestrutura Esportiva**<br>
+**Da Gerência de Infraestrutura Esportiva**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção III~~
@@ -1150,7 +1176,8 @@ X – encarregar–se de competências correlatas.
 
 **Subseção II-D**
 
-**Da Gerência de Gestão de Autódromos e Cartódromos**<br>
+**Da Gerência de Gestão de Autódromos e Cartódromos**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção IV~~
@@ -1193,7 +1220,8 @@ XVI – encarregar–se de competências correlatas.
 
 **Subseção III**
 
-**Da Superintendência de Paradesporto e Fomento Esportivo**<br>
+**Da Superintendência de Paradesporto e Fomento Esportivo**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Seção IV~~
@@ -1250,7 +1278,8 @@ III – Gerência de Gestão do Programa Construindo Campeões.
 
 **Subseção III-A**
 
-**Da Gerência de Práticas Paradesportivas e Paralímpicas**<br>
+**Da Gerência de Práticas Paradesportivas e Paralímpicas**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção I~~
@@ -1283,7 +1312,8 @@ XI – encarregar–se de competências correlatas.
 
 **Subseção III-B**
 
-**Da Gerência de Apoio à Captação de Recursos**<br>
+**Da Gerência de Apoio à Captação de Recursos**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção II~~
@@ -1308,7 +1338,8 @@ VII – encarregar–se de competências correlatas.
 
 **Subseção III-C**
 
-**Da Gerência de Gestão do Programa Construindo Campeões**<br>
+**Da Gerência de Gestão do Programa Construindo Campeões**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção III~~
@@ -1337,7 +1368,8 @@ IX – encarregar–se de competências correlatas.
 
 **Subseção IV**
 
-**Da Superintendência de Esporte e Lazer**<br>
+**Da Superintendência de Esporte e Lazer**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Seção V~~
@@ -1400,7 +1432,8 @@ V – Gerência de Cerimonial e Eventos Esportivos.
 
 **Subseção IV-A**
 
-**Da Gerência de Iniciação Esportiva**<br>
+**Da Gerência de Iniciação Esportiva**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção I~~
@@ -1423,7 +1456,8 @@ VI – encarregar–se de competências correlatas.
 
 **Subseção IV-B**
 
-**Da Gerência do Programa de Incentivo ao Atleta de Rendimento – PRÓ-ATLETA**<br>
+**Da Gerência do Programa de Incentivo ao Atleta de Rendimento – PRÓ-ATLETA**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção II~~
@@ -1448,7 +1482,8 @@ VII – encarregar–se de competências correlatas.
 
 **Subseção IV-C**
 
-**Da Gerência do Programa de Incentivo à Prática Esportiva – PRÓ-ESPORTE**<br>
+**Da Gerência do Programa de Incentivo à Prática Esportiva – PRÓ-ESPORTE**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção III~~
@@ -1473,7 +1508,8 @@ VII – encarregar–se de competências correlatas.
 
 **Subseção IV-D**
 
-**Da Gerência de Esportes, Lazer e Programas Especiais**<br>
+**Da Gerência de Esportes, Lazer e Programas Especiais**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção IV~~
@@ -1502,7 +1538,8 @@ IX – encarregar–se de competências correlatas.
 
 **Subseção IV-E**
 
-**Da Gerência de Cerimonial e Eventos Esportivos**<br>
+**Da Gerência de Cerimonial e Eventos Esportivos**
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Subseção V~~
@@ -1627,21 +1664,24 @@ XIX – desempenhar outras atribuições decorrentes do pleno exercício do carg
 
 **Seção II**
 
-**Do Subsecretário de Esporte e Lazer<br>
+**Do Subsecretário de Esporte e Lazer
+
 **\- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Seção II~~
 
 ~~Do Subsecretário de Segurança Esportiva e Gestão Integrada~~
 
-Art. 34. São atribuições do Subsecretário de Esporte e Lazer:<br>
+Art. 34. São atribuições do Subsecretário de Esporte e Lazer:
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~Art. 34. São atribuições do Subsecretário de Segurança Esportiva e Gestão Integrada:~~
 
 I – auxiliar o Secretário de Estado de Esporte e Lazer no exercício da direção da SEL;
 
-II – exercer a orientação, a coordenação e a supervisão, na área de sua competência, das unidades administrativas subordinadas à Subsecretaria de Esporte e Lazer;<br>
+II – exercer a orientação, a coordenação e a supervisão, na área de sua competência, das unidades administrativas subordinadas à Subsecretaria de Esporte e Lazer;
+
 \- [Redação dada pelo Decreto nº 10.903, de 5-5-2026](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114236).
 
 ~~II – exercer a orientação, a coordenação e a supervisão, na área de sua competência, das unidades administrativas subordinadas à Subsecretaria de Segurança Esportiva e Gestão Integrada;~~

@@ -1,5 +1,3 @@
-###DEC-000057-0-000-12-03-1991@@@
-
 DECRETO Nº 57, DE 12 DE MARÇO DE 1991
 
 Promulga o Acordo Comercial entre o Governo da República Federativa do Brasil e o Governo da República de Cabo Verde.

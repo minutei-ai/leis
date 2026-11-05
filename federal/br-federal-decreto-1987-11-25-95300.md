@@ -1,5 +1,3 @@
-###DEC-095300-0-000-25-11-1987@@@
-
 DECRETO Nº 95.300, DE 25 DE NOVEMBRO DE 1987.
 
 Dispõe sobre a transformação em Missão Diplomática permanente da Representação Especial junto à FAO.
@@ -21,8 +19,6 @@ Brasília, em 25 de novembro de 1987; 166º da Independência e 99º da Repúbli
 JOSÉ SARNEY
 
 Roberto Costa de Abreu Sodré
-
-###DEC-095300-0-000-25-11-1987@@@REP01+++
 
 (\*) DECRETO Nº 95.300, DE 25 DE NOVEMBRO DE 1987.
 

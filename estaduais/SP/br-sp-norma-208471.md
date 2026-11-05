@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208471)<br>
-
 # DECRETO LEGISLATIVO N° 2.546, DE 12 DE SETEMBRO DE 2023
 
 ### _Aprova o nome do Senhor Marco Aurélio Bertaiolli para nomeação no cargo de Conselheiro do Tribunal de Contas do Estado._

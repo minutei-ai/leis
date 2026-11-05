@@ -1,5 +1,3 @@
-###DEC-048898-0-000-26-08-1960@@@
-
 DECRETO Nº 48.898, DE 26 DE AGÔSTO DE 1960.
 
 Cria a Agência da Capitania dos Portos do Estado do Pará e Amapá, em Santo Antônio do Oiapoque.

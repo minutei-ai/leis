@@ -1,5 +1,3 @@
-###MPV-001864-0-005-25-08-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.864-5, DE 25 de AGOSTO DE 1999.
 
 Cria o Programa de Arrendamento Residencial, institui o arrendamento residencial e com opção de compra e dá outras providências.

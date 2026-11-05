@@ -1,5 +1,3 @@
-###DEC-057686-0-000-31-01-1966@@@
-
 DECRETO Nº 57.686, DE 31 DE JANEIRO DE 1966.
 
 Vincula as tarefas de pesquisa de História do Brasil na Europa às atribuições da Delegação Permanente do Brasil junto à UNESCO.

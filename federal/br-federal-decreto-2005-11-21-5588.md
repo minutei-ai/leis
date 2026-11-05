@@ -1,5 +1,3 @@
-###DEC-005588-0-000-21-11-2005@@@
-
 DECRETO Nº 5.588, DE 21 DE NOVEMBRO DE 2005.
 
 Dá nova redação ao parágrafo único do art. 3o do Decreto no 4.081, de 11 de janeiro de 2002, que institui o Código de Conduta Ética dos Agentes Públicos em exercício na Presidência e Vice-Presidência da República.

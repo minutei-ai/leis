@@ -20,7 +20,8 @@ QUADRO 1
 
 | SUPLEMENTAÇÃO |
 | --- |
-| 2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+| 2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO
+
 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** | **SALDO ATUALIZADO** |
@@ -46,7 +47,8 @@ QUADRO 2
 
 | REDUÇÃO |
 | --- |
-| 2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO<br>
+| 2400 - SECRETARIA DE ESTADO DA EDUCAÇÃO
+
 2401 - GABINETE DO SECRETÁRIO DE ESTADO DA EDUCAÇÃO |
 | --- |
 | **ESPECIFICAÇÃO** | **AÇÃO** | **FONTE** | **MODALIDADE** | **GRUPO** | **SALDO A PROGRAMAR** | **VALOR BLOQUEADO** | **VALOR A REDUZIR** |
@@ -60,7 +62,117 @@ QUADRO 2
 | GESTÃO DA INICIATIVA EDUCAÇÃO TECNODIGITAL - DESENVOLVENDO COMPETÊNCIAS, CONECTANDO CONHECIMENTOS | 12 362 1008 2546 | 15400108 | 90 | 4 - INVESTIMENTOS | R$ 550.400,00 | R$ 600.000,00 | R$ 600.000,00 |
 | DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL | 12 361 1008 2481 | 15400108 | 90 | 4 - INVESTIMENTOS | R$ 13.609.500,00 | R$ 158.500,00 | R$ 158.500,00 |
 
-<table><thead></thead><tbody><tr><td>DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL</td><td style="text-align:center">12 366 1008 2481</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 4.114.000,00</td><td style="text-align:right">R$ 1.257.000,00</td><td style="text-align:right">R$ 1.257.000,00</td></tr><tr><td>DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL</td><td style="text-align:center">12 367 1008 2481</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 3.448.000,00</td><td style="text-align:right">R$ 1.053.000,00</td><td style="text-align:right">R$ 1.053.000,00</td></tr><tr><td>DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL</td><td style="text-align:center">12 362 1008 2481</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 14.063.000,00</td><td style="text-align:right">R$ 4.297.000,00</td><td style="text-align:right">R$ 4.297.000,00</td></tr><tr><td>GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style="text-align:center">12 367 1008 2474</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 0,00</td><td style="text-align:right">R$ 896.000,00</td><td style="text-align:right">R$ 896.000,00</td></tr><tr><td>GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style="text-align:center">12 363 1008 2474</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 1.458.500,00</td><td style="text-align:right">R$ 671.500,00</td><td style="text-align:right">R$ 671.500,00</td></tr><tr><td>DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL</td><td style="text-align:center">12 363 1008 2481</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 766.000,00</td><td style="text-align:right">R$ 234.000,00</td><td style="text-align:right">R$ 234.000,00</td></tr><tr><td>GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO</td><td style="text-align:center">12 366 1008 2474</td><td style="text-align:center">15400108</td><td style="text-align:center">90</td><td style="text-align:center">4 - INVESTIMENTOS</td><td style="text-align:right">R$ 387.000,00</td><td style="text-align:right">R$ 387.000,00</td><td style="text-align:right">R$ 387.000,00</td></tr></tbody></table>
+DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL
+
+12 366 1008 2481
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 4.114.000,00
+
+R$ 1.257.000,00
+
+R$ 1.257.000,00
+
+DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL
+
+12 367 1008 2481
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 3.448.000,00
+
+R$ 1.053.000,00
+
+R$ 1.053.000,00
+
+DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL
+
+12 362 1008 2481
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 14.063.000,00
+
+R$ 4.297.000,00
+
+R$ 4.297.000,00
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 367 1008 2474
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 0,00
+
+R$ 896.000,00
+
+R$ 896.000,00
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 363 1008 2474
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.458.500,00
+
+R$ 671.500,00
+
+R$ 671.500,00
+
+DISPONIBILIZAÇÃO DE CHROMEBOOKS - INCLUSÃO DIGITAL
+
+12 363 1008 2481
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 766.000,00
+
+R$ 234.000,00
+
+R$ 234.000,00
+
+GESTÃO DA INICIATIVA PROMOVER ACESSO DA POPULAÇÃO À EDUCAÇÃO COM EQUIDADE,QUALIDADE E VALORIZAÇÃO DA INCLUSÃO
+
+12 366 1008 2474
+
+15400108
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 387.000,00
+
+R$ 387.000,00
+
+R$ 387.000,00
 
 | **TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 § 1º Inciso III** |
 | --- |

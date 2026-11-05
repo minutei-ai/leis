@@ -1,5 +1,3 @@
-###DEC-054443-0-000-13-10-1964@@@
-
 decreto nº 54.443, de 13 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Anibal Mendonça a pesquisar calvário no Município de Eldorado, Estado de São Paulo.

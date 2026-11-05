@@ -1,5 +1,3 @@
-###DEC-001965-0-000-29-07-1996@@@
-
 DECRETO Nº 1.965, DE 29 DE JULHO DE 1996.
 
 Dá nova redação ao inciso VI do art. 2° do Decreto n° 1.791, de 15 de janeiro de 1996, que institui, no âmbito do Ministério da Ciência e Tecnologia, o Comitê Nacional de Pesquisas Antárticas - CONAPA.

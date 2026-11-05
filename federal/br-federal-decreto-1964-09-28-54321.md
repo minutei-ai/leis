@@ -1,5 +1,3 @@
-###DEC-054321-0-000-28-09-1964@@@
-
 DECRETO Nº 54.321, DE 28 DE SETEMBRO DE 1964.
 
 Autoriza a Centrais Elétricas de Goiás S.A. a construir linha de transmissão e subestações abaixadoras.

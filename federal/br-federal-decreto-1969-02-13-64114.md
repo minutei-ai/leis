@@ -1,5 +1,3 @@
-###DEC-064114-0-000-13-02-1969@@@
-
 DECRETO Nº 64.114, DE 13 DE FEVEREIRO DE 1969.
 
 Declara de utilidade pública para fins de constituição de servidão uma faixa de terra destinada à passagem da linha de transmissão que se estenderá deste a subestação de Rio da Cidade até a subestação de Bingen no município de Petrópolis, no Estado do Rio de Janeiro.

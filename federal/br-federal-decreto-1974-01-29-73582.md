@@ -1,5 +1,3 @@
-###DEC-073582-0-000-29-01-1974@@@
-
 DECRETO Nº 73.582, DE 29 DE JANEIRO DE 1974.
 
 Concede à Cia. de Cimento Portland Barroso o direito de lavrar calcário, no Município de Barroso, Estado de Minas Gerais.

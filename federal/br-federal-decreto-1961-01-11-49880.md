@@ -1,5 +1,3 @@
-###DEC-049880-0-000-11-01-1961@@@
-
 DECRETO Nº 49.880, DE 11 DE JANEIRO 1961.
 
 Autoriza a Emprêsa Fluminense de Energia Elétrica S.A. a constituir garantia hipotecária dos seus bens em favor do Banco Nacional do Desenvolvimento Econômico.

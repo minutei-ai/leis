@@ -64,8 +64,10 @@ Art. 3º - Fica revogado o Decreto “N” no 124/2021.
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 09 de Janeiro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

@@ -1,5 +1,3 @@
-###DEC-077043-0-000-15-01-1976@@@
-
 DECRETO Nº 77.043, DE 15 DE JANEIRO DE 1976
 
 Concede reconhecimento ao curso de Administração da Universidade Federal Rural do Rio de Janeiro, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

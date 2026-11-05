@@ -1,5 +1,3 @@
-###DEC-072510-0-000-23-07-1973@@@
-
 DECRETO Nº 72.510, DE 23 DE JULHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terreno rural e respectiva faixa de acesso, sem benfeitorias situada no Município de Ponte Nova, Estado de Minas Gerais, destinada à instalação de uma estação repetidora de microondas e serviços afins, pela Companhia Telefônica de Minas Gerais.

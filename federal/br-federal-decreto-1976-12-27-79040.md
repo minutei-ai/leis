@@ -1,5 +1,3 @@
-###DEC-079040-0-000-27-12-1976@@@
-
 DECRETO Nº 79.040, DE 27 DE DEZEMBRO DE 1976.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada a passagem de linha de transmissão da Companhia Hidro Elétrica do São Francisco - CHESF, no Estado da Bahia.

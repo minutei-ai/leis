@@ -1,14 +1,12 @@
-###DEC-031155-0-000-21-07-1952@@@
+**DECRETO Nº 31.155, DE 21 DE JULHO DE 1952.**
 
-<strong>DECRETO Nº 31.155, DE 21 DE JULHO DE 1952.</strong>
+***Altera dispositivos do Regulamento para o Corpo do Pessoal Subalterno da Armada.***
 
-<em><strong>Altera dispositivos do Regulamento para o Corpo do Pessoal Subalterno da Armada.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Os artigos 40, 48, 85, 88 e 149 do Decreto n.º 28 703, de 2 de outubro de 1950, modificado pelo Decreto n.º 29.911 de 23 de agôsto de 1951, passam a Ter a seguinte redação:
+**Art**. 1.º Os artigos 40, 48, 85, 88 e 149 do Decreto n.º 28 703, de 2 de outubro de 1950, modificado pelo Decreto n.º 29.911 de 23 de agôsto de 1951, passam a Ter a seguinte redação:
 
 a) Art. 40. As praças que completarem o tempo de compromisso inicial poderão mediante requerimento ao Diretor-Geral do Pessoal, remetido ate 30 dias antes da teminação do referido tempo, e desde que a Diretoria do Pessoal julgue conveniente, tendo em vista os interêsses do serviço ser engajadas, isto e comprometer-se a sevir a Marinha por um novo período, findo o qual poderão ser sucessivamente reengajadas.
 
@@ -40,6 +38,6 @@ f) Art. 2.º O presente Decreto entrará em vigor na data de sua publicação, r
 
 Rio de Janeiro, 21 de Julho de 1952; 131º da Independência e 64.º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato  de Almeida Guillobel

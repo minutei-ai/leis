@@ -1,5 +1,3 @@
-###DEC-072388-0-000-22-06-1973@@@
-
 DECRETO Nº 72.388, DE 22 DE JUNHO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, em favor de Petróleo Brasileiro S/A - PETROBRÁS - terrenos e benfeitorias situados nos Municípios de Betim e Ibirité, no Estado de Minas Gerais.

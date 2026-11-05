@@ -1,5 +1,3 @@
-###DEC-046643-0-000-17-08-1959@@@
-
 DECRETO Nº 46.643, DE 17 DE AGÔSTO DE 1959.
 
 Autoriza o cidadão brasileiro Wenceslau Alves dos Santos a pesquisar quartzo no município de Tubarão, Estado de Santa Catarina.

@@ -1,5 +1,3 @@
-###DEC-054726-0-000-30-10-1964@@@
-
 DECRETO Nº 54.726, de 30 de outubro de 1964.
 
 Autoriza o cidadão brasileiro Antônio Moreira de Souza a pesquisar mármore no município de Curaçá, Estado da Bahia.

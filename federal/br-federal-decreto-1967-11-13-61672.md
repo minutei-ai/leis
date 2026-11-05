@@ -1,5 +1,3 @@
-###DEC-061672-0-000-13-11-1967@@@
-
 DECRETO Nº 61.672, DE 13 DE NOVEMBRO DE 1967.
 
 Abre ao Ministério do Interior - Fundação Brasil Central - o crédito Especial de NCr$438.300,00, para o fim que especifica.

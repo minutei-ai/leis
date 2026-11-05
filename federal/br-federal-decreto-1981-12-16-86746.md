@@ -1,5 +1,3 @@
-###DEC-086746-0-000-16-12-1981@@@
-
 Decreto nº 86.746, de 16 de dezembro de 1981
 
 Altera dispositivo do Decreto nº 84.626, de 09 de abril de 1980, que cria, no Ministério da Aeronáutica, a Diretoria de Material Bélico da Aeronáutica.

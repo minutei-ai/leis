@@ -1,5 +1,3 @@
-###DEC-068595-0-000-06-05-1971@@@
-
 Decreto nº 68.595 - de 6 de maio de 1971.
 
 Redistribui, com o respectivo ocupante, cargo do Ministério dos Transportes para o Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

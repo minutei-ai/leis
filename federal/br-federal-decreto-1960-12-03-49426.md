@@ -1,5 +1,3 @@
-###DEC-049426-0-000-03-12-1960@@@
-
 DECRETO Nº 49.426, DE 3 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Israel Mater Rawet a lavrar caulim, argila e quartzo, no município de Santo André, Estado de São Paulo.

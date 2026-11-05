@@ -1,5 +1,3 @@
-###DEC-050329-0-000-09-03-1961@@@
-
 DECRETO Nº 50.329, DE 9 DE MARÇO DE 1961.
 
 Revoga o Decreto nº 50.160, de 27 de janeiro de 1961.

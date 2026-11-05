@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208421)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/ato.do.presidente/2023/compilacao-ato.do.presidente-192-17.08.2023.html)
 
 # ATO DO PRESIDENTE N° 192, DE 17 DE AGOSTO DE 2023

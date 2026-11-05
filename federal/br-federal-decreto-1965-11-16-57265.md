@@ -1,5 +1,3 @@
-###DEC-057265-0-000-16-11-1965@@@
-
 DECRETO Nº 57.265, DE 16 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletricidade de Alagoas concessão para distribuir energia elétrica no município de Bôca da Mata.

@@ -1,5 +1,3 @@
-###DEC-057736-0-000-03-02-1966@@@
-
 DECRETO Nº 57.736, DE 3 de FEVEREIRO DE 1966.
 
 Outorga concessão para distribuir energia elétrica.

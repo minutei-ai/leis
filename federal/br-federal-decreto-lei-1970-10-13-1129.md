@@ -1,5 +1,3 @@
-###DEL-001129-0-000-13-10-1970@@@
-
 # DECRETO-LEI Nº 1.129, DE 13 DE OUTUBRO DE 1970
 
 Altera o § 1º do artigo 74 da Lei número 3.807, de 26 de agôsto de 1960.

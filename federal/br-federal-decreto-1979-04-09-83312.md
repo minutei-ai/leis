@@ -1,5 +1,3 @@
-###DEC-083312-0-000-09-04-1979@@@
-
 DECRETO Nº 83.312, DE 9 DE ABRIL DE 1979.
 
 Promulga o Convênio de Amizade e Cooperação Brasil-México.

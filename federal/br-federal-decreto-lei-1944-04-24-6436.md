@@ -1,5 +1,3 @@
-###DEL-006436-0-000-24-04-1944@@@
-
 DECRETO-LEI N. 6.436 – DE 24 DE ABRIL DE 1944
 
 Regula o aproveitamento de notas de Cr$ 1,00 do Banco do Brasil S.A., e dá outras providências

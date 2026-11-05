@@ -1,5 +1,3 @@
-###DEC-050787-0-000-12-06-1961@@@
-
 DECRETO Nº 50.787, DE 12 DE JUNHO DE 1961.
 
 Retifica o Decreto nº 47.606, de 9 de janeiro de 1960.

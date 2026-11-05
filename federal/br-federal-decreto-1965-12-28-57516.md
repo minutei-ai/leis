@@ -1,5 +1,3 @@
-###DEC-057516-0-000-28-12-1965@@@
-
 Decreto nº 57.516, de 28 de dezembro de 1965.
 
 Autoriza a Centrais Elétricas Brasileiras S.A. - ELETROBRÁS a construir linha de transmissão.

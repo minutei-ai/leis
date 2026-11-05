@@ -1,14 +1,12 @@
-###DEC-038177-0-000-03-11-1955@@@
+**DECRETO Nº 38.177, DE 3 DE NOVEMBRO DE 1955.**
 
-<strong>DECRETO Nº 38.177, DE 3 DE NOVEMBRO DE 1955.</strong>
+***Dá nova redação aos arts. 46, 49, 50 e 62 do Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R/126) e toma outras providências.***
 
-<em><strong>Dá nova redação aos arts. 46, 49, 50 e 62 do Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R/126) e toma outras providências.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os artigos 46, 49, 50 e 62 do Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R/126), baixado com o Decreto nº 10.389 de 3 de setembro de 1942, passam a ter a seguinte redação:
+**Art**. 1º Os artigos 46, 49, 50 e 62 do Regulamento de Preceitos Comuns aos Estabelecimentos de Ensino do Exército (R/126), baixado com o Decreto nº 10.389 de 3 de setembro de 1942, passam a ter a seguinte redação:
 
 “Art. 46. Em cada estabelecimento de ensino haverá um órgão de direção de composição variável. Êsse órgão será a Divisão de Ensino, com a seguinte composição:
 
@@ -68,18 +66,18 @@ c) colaborar com o Subdiretor do Ensino, facilitando-lhe a utilização dos meio
 
 Parágrafo único. Os Instrutores são coadjuvantes por Subinstrutores (Subtenentes) ou Monitores (Sargentos)”.
 
-<strong>Art</strong>. 2º Os atuais artigos 50, 51 e 52 passam a artigos 51, 52 e 53, respectivamente, com a mesma redação.
+**Art**. 2º Os atuais artigos 50, 51 e 52 passam a artigos 51, 52 e 53, respectivamente, com a mesma redação.
 
-<strong>Art</strong>. 3º Fica suprimido o atual artigo 53.
+**Art**. 3º Fica suprimido o atual artigo 53.
 
-<strong>Art</strong>. 4º O têrmo “Departamento” existente em alguns estabelecimentos de ensino, expressando uma parte ou divisão da organização, deverá ser substituído por “Seção” ou “Curso”, conforme a importância do órgão a que se referir.
+**Art**. 4º O têrmo “Departamento” existente em alguns estabelecimentos de ensino, expressando uma parte ou divisão da organização, deverá ser substituído por “Seção” ou “Curso”, conforme a importância do órgão a que se referir.
 
-<strong>Art</strong>. 5º As funções atribuídas pelo atual art. 42 do R 126 aos “Auxiliares da Direção do Ensino” passam as ser exercidas pela Seção Técnica de Ensino e, como conseqüência, não serão mais aplicadas as designações de “Assistentes do Diretor do Ensino”, “Auxiliares da Direção do Ensino”, etc., constantes dos atuais Regulamentos dos estabelecimentos do ensino do Exército.
+**Art**. 5º As funções atribuídas pelo atual art. 42 do R 126 aos “Auxiliares da Direção do Ensino” passam as ser exercidas pela Seção Técnica de Ensino e, como conseqüência, não serão mais aplicadas as designações de “Assistentes do Diretor do Ensino”, “Auxiliares da Direção do Ensino”, etc., constantes dos atuais Regulamentos dos estabelecimentos do ensino do Exército.
 
-<strong>Art</strong>. 6º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 6º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 3 de novembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

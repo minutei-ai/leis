@@ -1,5 +1,3 @@
-###DEC-048430-0-000-25-06-1960@@@
-
 DECRETO Nº 48.430, DE 25 DE JUNHO DE 1960.
 
 Dá nova redação ao parágrafo único do art. 28 e art. 50, do Decreto nº 47.709, de 27 de janeiro de 1960, que regulamentou a Lei nº 3.654, de 4 de novembro de 1959.

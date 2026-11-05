@@ -1,5 +1,3 @@
-###DEC-088810-0-000-04-10-1983@@@
-
 DECRETO Nº 88.810, DE 04 DE OUTUBRO DE 1983.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Seberi, Estado do Rio Grande do Sul.

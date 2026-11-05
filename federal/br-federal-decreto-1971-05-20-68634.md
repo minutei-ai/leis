@@ -1,5 +1,3 @@
-###DEC-068634-0-000-20-05-1971@@@
-
 DECRETO Nº 68.634 - de 20 de maio de 1971.
 
 Dispõe sôbre a aplicação do Decreto nº 67.215, de 17 de setembro de 1970.

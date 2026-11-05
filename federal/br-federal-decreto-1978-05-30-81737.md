@@ -1,5 +1,3 @@
-###DEC-081737-0-000-30-05-1978@@@
-
 Decreto nº 81.737, de 30 de maio de 1978.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona, situados nos Estados do Rio de Janeiro, Paraná e Pernambuco.

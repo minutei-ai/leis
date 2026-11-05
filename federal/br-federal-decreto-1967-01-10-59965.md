@@ -1,5 +1,3 @@
-###DEC-059965-0-000-10-01-1967@@@
-
 DECRETO Nº 59.965, DE 10 DE JANEIRO DE 1967.
 
 Autoriza Alexandr Spiegel a comprar pedras preciosas.

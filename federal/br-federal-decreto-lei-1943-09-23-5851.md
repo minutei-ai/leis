@@ -1,5 +1,3 @@
-###DEL-005851-0-000-23-09-1943@@@
-
 DECRETO‑LEI N. 5.851 – DE 23 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 4.330.000,00, para pagamento a concessionários de portos.

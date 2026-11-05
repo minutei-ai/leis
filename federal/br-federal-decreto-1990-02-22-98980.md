@@ -1,7 +1,3 @@
-1
-
-###DEC-098980-0-000-22-02-1990@@@
-
 DECRETO Nº 98.980, DE 22 DE FEVEREIRO DE 1990
 
 Outorga concessão à TELEVISÃO SALVADOR LTDA., pare explorar Serviço Especial de Televisão por Assinatura TVA, na região metropolitana de Salvador, Estado da Bahia.

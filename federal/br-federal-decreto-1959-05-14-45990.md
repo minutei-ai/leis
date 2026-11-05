@@ -1,5 +1,3 @@
-###DEC-045990-0-000-14-05-1959@@@
-
 Decreto nº 45.990, de 14 de maio de 1959.
 
 Autoriza o funcionamento de Curso.

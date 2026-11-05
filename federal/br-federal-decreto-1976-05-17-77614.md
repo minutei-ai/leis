@@ -1,5 +1,3 @@
-###DEC-077614-0-000-17-05-1976@@@
-
 DECRETO Nº 77.614, DE 17 DE MAIO DE 1976
 
 Concede reconhecimento ao curso de Comunicação da Faculdade de Filosofia, Ciências e Letras do Instituto Cultural Newton de Paiva Ferreira, com sede na Cidade de Belo Horizonte, Estado de Minas Gerais.

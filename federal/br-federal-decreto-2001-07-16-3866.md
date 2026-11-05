@@ -1,5 +1,3 @@
-###DEC-003866-0-000-16-07-2001@@@
-
 DECRETO Nº  3.866, DE 16 DE JULHO DE 2001
 
 Regulamenta o inciso II‑A do § 2º do art. 2º da Lei nº 8.001, de 13 de março de 1990, e a Lei nº 9.993, de 24 de julho 2000, no que destina recursos da compensação financeira pela exploração de recursos minerais para o setor de ciência e tecnologia.

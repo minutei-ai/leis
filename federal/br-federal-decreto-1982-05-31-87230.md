@@ -1,5 +1,3 @@
-###DEC-087230-0-000-31-05-1982@@@
-
 Decreto nº 87.230, de 31 de maio de 1982
 
 Aprova o Regulamento da Guarda Portuária e dá outras providências.

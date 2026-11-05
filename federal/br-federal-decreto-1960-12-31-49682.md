@@ -1,5 +1,3 @@
-###DEC-049682-0-000-31-12-1960@@@
-
 DECRETO Nº 49.682, DE 31 DE DEZEMBRO DE 1960.
 
 Transfere da Prefeitura Municipal de Herculândia para a Companhia Paulista de Fôrça e Luz a concessão para a distribuição de energia elétrica ao município de Herculândia, Estado de São Paulo.

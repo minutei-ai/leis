@@ -1,5 +1,3 @@
-###DEC-097507-0-000-13-02-1989@@@
-
 DECRETO N° 97.507, DE 13 DE FEVEREIRO DE 1989
 
 Dispõe sobre licenciamento de atividade mineral, o uso do mercúrio metálico e do cianeto em áreas de extração de ouro, e dá outras providências.

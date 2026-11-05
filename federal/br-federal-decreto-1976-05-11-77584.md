@@ -1,5 +1,3 @@
-###DEC-077584-0-000-11-05-1976@@@
-
 Decreto nº 77.584 - de 11 de maio de 1976
 
 Concede reconhecimento aos cursos de Ciências Biológicas e de Matemática da Universidade Estadual de Maringá, com sede na Cidade de Maringá, Estado do Paraná.

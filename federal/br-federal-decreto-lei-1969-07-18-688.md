@@ -1,5 +1,3 @@
-###DEL-000688-0-000-18-07-1969@@@
-
 DECRETO-LEI Nº 688, DE 18 DE JULHO DE 1969
 
 Altera o § 2º do artigo 9º e os artigos 18 e 19 da Lei nº 2.004, de 3 de outubro de 1953, que dispõe sôbre, a política nacional do petróleo.

@@ -1,5 +1,3 @@
-###DEL-008989-0-000-16-02-1946@@@
-
 DECRETO-LEI N. 8.989 – DE 16 DE FEVEREIRO DE 1946
 
 Cria o Serviço do Pronto Socorro de Santa Cruz

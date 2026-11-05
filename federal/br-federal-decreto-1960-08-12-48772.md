@@ -1,5 +1,3 @@
-###DEC-048772-0-000-12-08-1960@@@
-
 DECRETO Nº 48.772, DE 12 DE AGôSTO DE 1960.
 
 Altera o Art. 5º do Decreto número 36.902, de 14 de fevereiro de 1955.

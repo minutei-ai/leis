@@ -1,5 +1,3 @@
-###DEC-055008-0-000-16-11-1964@@@
-
 DECRETO Nº 55.008, DE 16 DE NOVEMBRO DE 1964.
 
 Cria no Ministério das Relações Exteriores, a Comissão Brasileira do Decênio Internacional de Hidrologia, promovida pelo Organização das Nação Unidas para Educação, Ciência e Cultura (UNESCO).

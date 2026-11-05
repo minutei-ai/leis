@@ -1,5 +1,3 @@
-###DEC-069270-0-000-23-09-1971@@@
-
 Decreto Nº 69.270, DE 23 DE setembro DE 1971.
 
 Extingue a Campanha Nacional do Livro e dá outras providências.

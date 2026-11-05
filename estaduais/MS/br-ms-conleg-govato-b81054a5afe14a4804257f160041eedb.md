@@ -6,15 +6,16 @@ Dá a denominação de Roldão Pereira Camargo ao trecho da Rodovia Estadual MS-
 
 Publicada no Diário Oficial nº 9.062, de 9 de dezembro de 2015, página 1.
 
-O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.<br>
-Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:<br>
-<br>
-Art. 1º Fica denominado de <i>Roldão Pereira Camargo</i> o trecho da Rodovia Estadual MS-316, entre os Municípios de Inocência e Paraíso das Águas.<br>
-<br>
-Art. 2º Esta Lei entra em vigor na data de sua publicação.<br>
-<br>
+O GOVERNADOR DO ESTADO DE MATO GROSSO DO SUL.
+
+Faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica denominado de *Roldão Pereira Camargo* o trecho da Rodovia Estadual MS-316, entre os Municípios de Inocência e Paraíso das Águas.
+
+Art. 2º Esta Lei entra em vigor na data de sua publicação.
+
 Campo Grande, 7 de dezembro de 2015.
 
-<br>
-REINALDO AZAMBUJA SILVA<br>
+REINALDO AZAMBUJA SILVA
+
 Governador do Estado

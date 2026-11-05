@@ -1,5 +1,3 @@
-###DEC-071674-0-000-08-01-1973@@@
-
 DECRETO Nº 71.674, DE 8 DE JANEIRO DE 1973.
 
 Concede à Mineração Alvarenguinha Ltda. O direito de lavrar águas marinhas no Município de Alvarenga, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-007156-0-000-09-04-2010@@@
-
 DECRETO Nº 7.156, DE 9 DE ABRIL DE 2010.
 
 Promulga o texto do Estatuto Emendado da Conferência da Haia de Direito Internacional Privado, assinado em 30 de junho de 2005

@@ -1,7 +1,3 @@
-1
-
-###DEC-085800-0-000-10-03-1981@@@
-
 Decreto nº 85.800, de 10 de março dE 1981.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais, de Ciências e de Letras em Benjamin Constant, Campus Avançado do Alto Solimões, Estado do Amazonas.

@@ -779,7 +779,3 @@ CARGOS DE PROVIMENTO EM COMISSÃO I – GRUPO DE DIREÇÃO SUPERIOR DISCRIMINAÇ
 (Vide art. 13 da Lei Complementar nº 75, de 13/1/2004.)
 
 (Vide arts. 10, 14, 15 e 16 da Lei Complementar nº 83, de 28/1/2005.)
-
-\===================
-
-Data da última atualização: 27/6/2013.

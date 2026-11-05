@@ -1,5 +1,3 @@
-###DEC-063962-0-000-07-01-1969@@@
-
 decreto nº 63.962, de 7 de janeiro de 1969.
 
 Autoriza a cessão, sob o regime de aforamento, de terrenos situados no Território Federal do Amapá.

@@ -1,5 +1,3 @@
-###DEC-093440-0-000-17-10-1986@@@
-
 DECRETO Nº 93.440, DE 17 DE OUTUBRO DE 1986
 
 Autoriza a COBRA - COMPUTADORES E SISTEMAS BRASILEIROS S.A. a proceder ao aumento do limite de seu Capital Social.

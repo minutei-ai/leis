@@ -1,5 +1,3 @@
-###DEC-059803-0-000-19-12-1966@@@
-
 DECRETO Nº 59.803, DE 19 DE DEZEMBRO DE 1966.
 
 Concede à “Pluma” - Água Mineral Radioativa Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEC-077507-0-000-27-04-1976@@@
-
 DECRETO Nº 77.507 - DE 27 DE ABRIAL DE 1976
 
 Autoriza o funcionamento das habilitações em Matemática, Física, Química e em Biologia, da Faculdade de Filosofia, Ciências e Letras de Santa Cruz do Sul, Estado do Rio Grande do Sul

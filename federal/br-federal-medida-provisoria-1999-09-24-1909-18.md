@@ -1,5 +1,3 @@
-###MPV-001909-0-018-24-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.909-18, DE 24 DE SETEMBRO DE 1999.
 
 Altera as Leis nºs 6.368, de 21 de outubro de 1976, e 8.112, de 11 de dezembro de 1990, e dá outras providências.

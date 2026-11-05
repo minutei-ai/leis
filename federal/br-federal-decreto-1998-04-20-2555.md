@@ -1,5 +1,3 @@
-###DEC-002555-0-000-20-04-1998@@@
-
 DECRETO Nº 2.555, DE 20 DE ABRIL DE 1998
 
 Dispõe sobre o remanejamento dos cargos em comissão que menciona e dá outras providências.

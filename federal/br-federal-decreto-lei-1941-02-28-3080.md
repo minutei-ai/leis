@@ -1,5 +1,3 @@
-###DEL-003080-0-000-28-02-1941@@@
-
 DECRETO-LEI N. 3.080 – DE 28 DE FEVEREIRO DE 1941
 
 Regula o aproveitamento de oficiais das forças armadas e de funcionários públicos civis na Companhia Siderúrgica Nacional

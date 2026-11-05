@@ -1,5 +1,3 @@
-###MPV-002081-0-047-23-03-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.081-47, DE 23 DE MARÇO DE 2001
 
 Autoriza a União a receber em valores mobiliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-071347-0-000-09-11-1972@@@
-
 DECRETO Nº 71.347 - DE 9 DE NOVEMBRO DE 1972.
 
 Autoriza o funcionamento do Curso de Ciências da Comunicação, da Faculdade de Ciências Econômicas, Contábeis e de Administração do Centro Universitário de Brasília - DF.

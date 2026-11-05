@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 3.173, DE 10 DE ABRIL DE 2014.<br>
+LEI MUNICIPAL Nº 3.173, DE 10 DE ABRIL DE 2014.
+
 (Revogada pela Lei Ordinária nº 3.719, de 25 de maio de 2023).
 
 ~~“Institui o incentivo de Bolsa Moradia e Bolsa Alimentação aos Médicos participantes do Programa Mais Médicos para o Brasil, e dá outras providências.”~~
@@ -51,11 +52,14 @@ LEI MUNICIPAL Nº 3.173, DE 10 DE ABRIL DE 2014.<br>
 
 ~~GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, AOS 10 DIAS DO MÊS DE ABRIL DO ANO DE 2014.~~
 
-~~LUIZ ALBERTO MAGUITO VILELA<br>
+~~LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal~~
 
-~~EULER DE MORAIS<br>
+~~EULER DE MORAIS
+
 Secretário Municipal de Governo e Integração Institucional~~
 
-~~PAULO RASSI<br>
+~~PAULO RASSI
+
 Secretário Municipal de Saúde~~

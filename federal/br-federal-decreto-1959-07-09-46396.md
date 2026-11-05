@@ -1,5 +1,3 @@
-###DEC-046396-0-000-09-07-1959@@@
-
 DECRETO Nº 46.396, DE 9 DE JULHO DE 1959.
 
 Outorga concessão à Radio Cultura de Sergipe S.A. para instalar uma estação radiodifusora.

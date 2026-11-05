@@ -1,5 +1,3 @@
-###MPV-002081-0-049-24-05-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.081‑49, DE 24 DE MAIO DE 2001.
 
 Autoriza a União a receber em valores mo­biliários os dividendos e juros sobre o capital próprio a serem pagos por entidades de cujo capital o Tesouro Nacional participe, e dá outras providências.

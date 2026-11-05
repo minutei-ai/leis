@@ -1,5 +1,3 @@
-###DEC-058521-0-000-27-05-1966@@@
-
 DECRETO Nº 58.521, DE 27 DE MAIO DE 1966.
 
 Abre ao Ministério das Relações Exteriores, o crédito especial de Cr$25.874.000, para atender as despesas com a remodelação das instalações elétricas do Palácio Itamaraty.

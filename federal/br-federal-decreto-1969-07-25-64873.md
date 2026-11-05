@@ -1,5 +1,3 @@
-###DEC-064873-0-000-25-07-1969@@@
-
 DECRETO Nº 64.873 - DE 25 DE JULHO DE 1969.
 
 Declara caduco o Decreto nº 12.349, de 7-5-1943.

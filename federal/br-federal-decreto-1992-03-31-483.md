@@ -1,7 +1,3 @@
-1
-
-###DEC-000483-0-000-31-03-1992@@@
-
 DECRETO N° 483, DE 31 DE MARÇO DE 1992
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os veículos automotores que enumera.

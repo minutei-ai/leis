@@ -1,5 +1,3 @@
-###DEL-001987-0-000-28-12-1982@@@
-
 # Decreto-lei nº 1.987, de 28 de dezembro de 1982
 
 Altera alíquota do imposto de renda antecipado e na fonte sobre rendimentos auferidos por domiciliados no país.

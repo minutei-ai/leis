@@ -1,5 +1,3 @@
-###DEC-046479-0-000-20-07-1959@@@
-
 DECRETO Nº 46.479, DE 20 DE JULHO DE 1959.
 
 Renova o Decreto nº 40.959, de 14 de fevereiro de 1957.

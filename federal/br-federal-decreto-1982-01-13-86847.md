@@ -1,5 +1,3 @@
-###DEC-086847-0-000-13-01-1982@@@
-
 DECRETO nº 86.847, DE 13 DE JANEIRO DE 1982
 
 Concede à AÇO MINAS GERAIS S.A. - AÇOMINAS, autorização para que proceder a aumento do seu capital autorizado.

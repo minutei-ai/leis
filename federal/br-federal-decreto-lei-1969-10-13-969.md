@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/77285945-19c1-46a4-8291-36b9c0369469/texto#nowhere)
 
-###DEL-000969-0-000-13-10-1969@@@
-
 DECRETO-LEI Nº 969, DE 13 DE OUTUBRO DE 1969
 
 Autoriza o Poder Executivo à abrir ao Ministério da Justiça, em favor do Gabinete do Ministro, o crédito especial de NCr$350.000,00 para o fim que especifica.

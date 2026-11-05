@@ -1,5 +1,3 @@
-###DEC-051816-0-000-11-03-1963@@@
-
 DECRETO Nº 51.816, DE 11 DE MARÇO DE 1963.
 
 Aprova o Regulamento para execução da Lei nº 1.096 de 18 de julho de 1962.

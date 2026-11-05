@@ -1,5 +1,3 @@
-###DEC-051914-0-000-25-04-1963@@@
-
 DECRETO Nº 51.914, DE 25 De ABRIL DE 1963.
 
 Designa funcionário para a seleção edica de imigrantes no Exterior.

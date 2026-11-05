@@ -1,5 +1,3 @@
-###DEC-052185-0-000-28-06-1963@@@
-
 DECRETO Nº 52.185, DE 28 DE JUNHO DE 1963.
 
 Autoriza estrangeiro a adquirir, em revigoração de aforamento, o domínio útil do terreno acrescido de marinha que menciona, no Estado da Guanabara.

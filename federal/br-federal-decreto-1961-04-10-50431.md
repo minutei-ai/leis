@@ -1,5 +1,3 @@
-###DEC-050431-0-000-10-04-1961@@@
-
 DECRETO Nº 50.431, DE 10 DE ABRIL DE 1961.
 
 Concede à sociedade anônima Kellogg Company autorização para funcionar na República, sob a denominação de kellogg Company do Brasil.

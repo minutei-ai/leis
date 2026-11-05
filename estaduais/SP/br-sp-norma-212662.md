@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212662)<br>
-
 # ATO DA MESA N° 05/2026, DE 26 DE MAIO DE 2026
 
 A MESA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DE SÃO PAULO, no uso de suas atribuições, CONSIDERANDO a necessidade de planejamento e organização das atividades das unidades administrativas da Assembleia Legislativa do Estado de São Paulo, CONSIDERANDO a imperatividade de conferir-se maior publicidade a feriados e pontos facultativos no âmbito deste Poder Legislativo, RESOLVE:

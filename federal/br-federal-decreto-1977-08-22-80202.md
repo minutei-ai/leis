@@ -1,5 +1,3 @@
-###DEC-080202-0-000-22-08-1977@@@
-
 DECRETO N.º 80.202, DE 22 DE AGOSTO DE 1977
 
 Concede à Companhia de Cimento Portland Ponte Alta o direito de lavrar calcário no Município de Uberaba, Estado de Minas Gerais.

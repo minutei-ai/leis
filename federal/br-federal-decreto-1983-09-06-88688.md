@@ -1,5 +1,3 @@
-###DEC-088688-0-000-06-09-1983@@@
-
 DECRETO Nº 88.688, DE 6 DE SETEMBRO DE 1983
 
 Dispõe sobre a realização do Congresso Nacional de Prevenção de acidentes do Trabalho.

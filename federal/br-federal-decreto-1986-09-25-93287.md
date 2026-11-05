@@ -1,5 +1,3 @@
-###DEC-093287-0-000-25-09-1986@@@
-
 DECRETO Nº 93.287, DE 25 DE SETEMBRO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Quarta Cachoeira" (3ª parte), situado no Município de Porto Velho, no Estado de Rondônia, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.684, de 19 de maio de 1986, e dá outras providências.

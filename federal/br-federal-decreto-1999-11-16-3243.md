@@ -1,5 +1,3 @@
-###DEC-003243-0-000-16-11-1999@@@
-
 DECRETO Nº 3.243, DE 16 DE NOVEMBRO DE 1999.
 
 Revoga o Decreto nº 30.692, de 29 de março de 1952, que dispõe sobre a execução do Acordo de Imigração e Colonização celebrado com o Reino dos Países Baixos.

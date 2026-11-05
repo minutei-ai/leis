@@ -1,5 +1,3 @@
-###DEC-053622-0-000-27-02-1964@@@
-
 DECRETO Nº 53.622, DE 27 DE FEVEREIRO DE 1964.
 
 Aprova as alterações introduzidas nos Estatutos da Companhia de Seguros Argos Fluminense, relativas ao aumento do capital social e extensão das operações ao Ramo Vida.

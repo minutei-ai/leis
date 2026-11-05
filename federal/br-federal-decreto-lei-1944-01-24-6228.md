@@ -1,5 +1,3 @@
-###DEL-006228-0-000-24-01-1944@@@
-
 DECRETO-LEI N. 6.228 – DE 24 DE JANEIRO DE 1944
 
 Revoga o decreto-lei n. 5.925, de 26 de outubro de 1943

@@ -1,5 +1,3 @@
-###DEC-003640-0-000-23-10-2000@@@
-
 DECRETO Nº 3.640, DE 23 DE OUTUBRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.484, de 23 de maio de 2000.

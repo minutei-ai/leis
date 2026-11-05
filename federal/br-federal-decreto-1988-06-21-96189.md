@@ -1,5 +1,3 @@
-###DEC-096189-0-000-21-06-1988@@@
-
 DECRETO N° 96.189, DE 21 DE JUNHO DE 1988
 
 Cria, no Estado do Acre, a Floresta Nacional do Macauã com limites que especifica, e dá outras providências.

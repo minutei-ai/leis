@@ -1,5 +1,3 @@
-###DEC-079863-0-000-27-06-1977@@@
-
 DECRETO Nº 79.863, DE 27 DE JUNHO 1977.
 
 Autoriza o funcionamento do curso de Engenharia Mecânica, da Escola de Engenharia do Maranhão, com sede na Cidade de São Luis, Estado do Maranhão.

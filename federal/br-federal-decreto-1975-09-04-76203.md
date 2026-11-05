@@ -1,5 +1,3 @@
-###DEC-076203-0-000-04-09-1975@@@
-
 DECRETO Nº 76.203 - DE 4 DE SETEMBRO DE 1975
 
 Autoriza o funcionamento da habilitação em Artes Industriais do Centro de Ensino Superior de São Carlos, Estado de São Paulo.

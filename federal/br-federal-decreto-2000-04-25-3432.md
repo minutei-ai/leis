@@ -1,5 +1,3 @@
-###DEC-003432-0-000-25-04-2000@@@
-
 DECRETO Nº 3.432, DE 25 DE ABRIL DE 2000.
 
 Dispõe sobre a execução do Regulamento 11 (Regime Único de Infrações e Sanções da Hidrovia Paraguai-Paraná - Porto de Cáceres - Porto de Nueva Palmira) do Acordo de Alcance Parcial nº 5, assinado ao amparo do art. 14 do Tratado de Montevidéu de 1980, entre os Governos da República Federativa do Brasil, da República Argentina, da República da Bolívia, da República do Paraguai e da República Oriental do Uruguai, em 2 de fevereiro de 2000.

@@ -1,5 +1,3 @@
-###DEC-067307-0-000-01-10-1970@@@
-
 DECRETO Nº 67.307, DE 1 DE OUTUBRO DE 1970.
 
 Declara sem efeito o Decreto nº 8.975 de 11-3-1942, retificado pelo de número 9.512, de 27-5-1942.

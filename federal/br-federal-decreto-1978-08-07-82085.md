@@ -1,5 +1,3 @@
-###DEC-082085-0-000-07-08-1978@@@
-
 Decreto nº 82.085, de 07 de agosto de 1978.
 
 Autoriza a Comissão de Financiamento da Produção (CFP) a participar de programas de comercialização orientados para agricultores de baixa renda.

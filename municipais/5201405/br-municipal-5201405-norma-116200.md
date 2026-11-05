@@ -4,27 +4,32 @@ Institui o serviço de transporte de passageiros, “moto taxista” e o transpo
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVA E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1°. Fica instituído no Município de Aparecida de Goiânia os serviços de “Moto Táxi” e “Motoboy”, observadas, no que se refere à sua organização, planejamento, controle e fiscalização, as condições impostas por esta Lei, pelas regulamentações baixadas pela Superintendência Municipal de Transito e Transporte de Aparecida de Goiânia (SMTA), bem como pela Legislação Federal pertinente ao tema.
 
-§1º. O serviço de Moto Táxi, é serviço público e consiste no transporte remunerado de passageiros, com o uso de motocicletas.<br>
+§1º. O serviço de Moto Táxi, é serviço público e consiste no transporte remunerado de passageiros, com o uso de motocicletas.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~§1º. O serviço de Moto Táxi consiste no transporte remunerado de passageiros, com o uso de motocicletas.~~
 
-§2º. O serviço de Motoboy ou Motofrete, é serviço privado e consiste no transporte remunerado de mercadorias.<br>
+§2º. O serviço de Motoboy ou Motofrete, é serviço privado e consiste no transporte remunerado de mercadorias.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~§2º. O serviço de Motoboy consiste no transporte remunerado de mercadorias, com o uso de motocicletas.~~
 
-Art. 2º O Serviço de Mototáxi, Motoboy ou motofrete será gerenciado pelo Órgão de Trânsito Municipal, concedidas por ato do Chefe do Poder Executivo, sendo individuais e intransferíveis, sempre em caráter precário, devendo ser exercido por pessoa física ou jurídica (Microempreendedor Individual – MEI), que satisfaça as exigências previstas na legislação em conformidade com os interesses da população, demonstre capacidade de exercê-lo e comprometa-se com a sua regularidade, continuidade, segurança, higiene, conforto e cortesia na sua prestação, correndo  por sua conta e risco dos mesmos toda e qualquer despesa delas decorrentes.<br>
+Art. 2º O Serviço de Mototáxi, Motoboy ou motofrete será gerenciado pelo Órgão de Trânsito Municipal, concedidas por ato do Chefe do Poder Executivo, sendo individuais e intransferíveis, sempre em caráter precário, devendo ser exercido por pessoa física ou jurídica (Microempreendedor Individual – MEI), que satisfaça as exigências previstas na legislação em conformidade com os interesses da população, demonstre capacidade de exercê-lo e comprometa-se com a sua regularidade, continuidade, segurança, higiene, conforto e cortesia na sua prestação, correndo  por sua conta e risco dos mesmos toda e qualquer despesa delas decorrentes.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~Art. 2º. O Serviço de Motoboy e Moto Táxi será gerenciado pela SMTA para operação sob o regime de autorização, em caráter precário, devendo ser exercido por pessoa que demonstre capacidade de exercê-lo por sua conta e risco.~~
 
-Parágrafo Único – O serviço de mototáxi, motoboy ou motofrete será concedido sob o regime de autorização e serão limitadas a uma unidade por pessoa, cujo prazo de duração será de 12 (doze) meses.<br>
+Parágrafo Único – O serviço de mototáxi, motoboy ou motofrete será concedido sob o regime de autorização e serão limitadas a uma unidade por pessoa, cujo prazo de duração será de 12 (doze) meses.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~Parágrafo Único – As autorizações serão limitadas a uma unidade por pessoa, cujo prazo de duração será de 12 (doze) meses.~~
@@ -67,7 +72,8 @@ Parágrafo Único – O não cumprimento do ”caput” deste artigo implicará 
 
 DOS VEÍCULOS
 
-Art. 6º Os autorizatários terão obrigatoriamente os seus veículos licenciados no município de Aparecida de Goiânia, como veículo da categoria de aluguel e deverão ter suas motocicletas, capacetes e coletes com a cor predominante laranja e em acordo com a Lei Federal nº 12.009 de 29 de julho de 2009 e Resolução nº 356, de 02 de agosto de 2010 - CONTRAN, e caracterizada conforme estabelecer o Órgão de Trânsito Municipal. <br>
+Art. 6º Os autorizatários terão obrigatoriamente os seus veículos licenciados no município de Aparecida de Goiânia, como veículo da categoria de aluguel e deverão ter suas motocicletas, capacetes e coletes com a cor predominante laranja e em acordo com a Lei Federal nº 12.009 de 29 de julho de 2009 e Resolução nº 356, de 02 de agosto de 2010 - CONTRAN, e caracterizada conforme estabelecer o Órgão de Trânsito Municipal. 
+
 ​​​​​​​(Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~Art. 6º. Os autorizatários terão obrigatoriamente os seus veículos licenciados no município de Aparecida de Goiânia, como veículo da categoria de aluguel.~~
@@ -86,7 +92,8 @@ V – Possuir aparador de linha corta-pipas, nos termos de regulamentação do C
 
 VI - Ter cano de descarga revestido com material isolante em sua lateral para evitar queimaduras;
 
-VII – Passar por vistoria semestral, inclusive selagem, no Órgão de Trânsito Municipal para verificação dos equipamentos obrigatórios de segurança e dos demais exigidos por essa lei e seus regulamentos;<br>
+VII – Passar por vistoria semestral, inclusive selagem, no Órgão de Trânsito Municipal para verificação dos equipamentos obrigatórios de segurança e dos demais exigidos por essa lei e seus regulamentos;
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~VII – Passar por vistoria trimestral, inclusive selagem, na SMTA ou outro órgão municipal para verificação dos equipamentos obrigatórios de segurança e dos demais exigidos por esta lei e seus regulamentos;~~
@@ -135,10 +142,12 @@ II - Devolução do Certificado do Condutor;
 
 III - Baixa do veículo vinculado à autorização.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS MOTOTAXISTAS
 
-Art. 19 O quantitativo das autorizações para a prestação do serviço de Moto Táxi será na proporção de uma permissão para cada 1000 habitantes, a ser regulamentado por Decreto do Poder Executivo.<br>
+Art. 19 O quantitativo das autorizações para a prestação do serviço de Moto Táxi será na proporção de uma permissão para cada 1000 habitantes, a ser regulamentado por Decreto do Poder Executivo.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~Art. 19. O quantitativo de autorizações para a prestação do serviço de Moto Táxi será limitado a 500 (Quinhentas) autorizações.~~
@@ -147,29 +156,36 @@ Art. 19 O quantitativo das autorizações para a prestação do serviço de Moto
 
 § 2º As autorizações serão expedidas em ordem numérica crescente; admitindo-se, apenas, o cadastramento de uma motocicleta por autorização;
 
-§ 3º As autorizações serão renovadas anualmente, mediante vistoria conforme dispuser ato normativo do Órgão de Trânsito do Municipio.<br>
+§ 3º As autorizações serão renovadas anualmente, mediante vistoria conforme dispuser ato normativo do Órgão de Trânsito do Municipio.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~§ 3º As autorizações serão renovadas através de relicenciamento anual conforme dispuser o regulamento;~~
 
-§ 4º As autorizações que não forem renovadas no prazo estabelecido pelo § 3º, serão automaticamente canceladas.<br>
+§ 4º As autorizações que não forem renovadas no prazo estabelecido pelo § 3º, serão automaticamente canceladas.
+
 (Redação acrescentada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-Art. 20 Os autorizatários poderão organizar-se em local fixo ou ponto, em grupo ou separados, sendo estes locais aprovados ou designados pelo Órgão de Trânsito Municipal. <br>
+Art. 20 Os autorizatários poderão organizar-se em local fixo ou ponto, em grupo ou separados, sendo estes locais aprovados ou designados pelo Órgão de Trânsito Municipal. 
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~Art. 20. Os autorizatários deverão organizar-se em centrais prestadoras de serviço.~~
 
-~~§ 1º. As Centrais, especificadas no caput deste artigo, são espaços físicos devidamente estruturados para acomodação, centralização e organização dos moto taxistas.~~<br>
+~~§ 1º. As Centrais, especificadas no caput deste artigo, são espaços físicos devidamente estruturados para acomodação, centralização e organização dos moto taxistas.~~
+
 (Revogado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-~~§ 2º. As Centrais de serviços deverão ter alvará de licença e funcionamento expedido pela Prefeitura Municipal de Aparecida de Goiânia, além de cadastro na SMTA.~~<br>
+~~§ 2º. As Centrais de serviços deverão ter alvará de licença e funcionamento expedido pela Prefeitura Municipal de Aparecida de Goiânia, além de cadastro na SMTA.~~
+
 (Revogado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-~~§ 3º. Fica a cargo da SMTA a liberação, regulamentação e fiscalização do funcionamento das centrais.~~<br>
+~~§ 3º. Fica a cargo da SMTA a liberação, regulamentação e fiscalização do funcionamento das centrais.~~
+
 (Revogado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-Art. 21 O condutor autorizatário deverá portar 02 (dois) capacetes com proteção facial para o passageiro bem como, poderá fazer uso de toucas descartáveis e cinto de apoio confeccionado com material resistente, sem prejuízo de outros equipamentos dispostos em ato normativo do Órgão de Trânsito Municipal.<br>
+Art. 21 O condutor autorizatário deverá portar 02 (dois) capacetes com proteção facial para o passageiro bem como, poderá fazer uso de toucas descartáveis e cinto de apoio confeccionado com material resistente, sem prejuízo de outros equipamentos dispostos em ato normativo do Órgão de Trânsito Municipal.
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 ~~Art. 21. O condutor autorizatário deverá portar 02 (dois) capacetes com proteção facial para o passageiro, toucas descartáveis e cinto de apoio confeccionado com material resistente, sem prejuízo de outros equipamentos dispostos em regulamento.~~
@@ -178,7 +194,8 @@ Art. 22. O valor da tarifa a ser cobrada pelo serviço de que trata esta lei, se
 
 Art. 23. A SMTA não poderá autorizar a instalação de centrais a menos de 300 (trezentos) metros uma das outras.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS MOTOBOYS
 
 Art. 24. O quantitativo de autorizações para a prestação do serviço de Moto Frete será limitado a uma autorização para pessoa física e o máximo de 20 (vinte) para pessoa jurídica, bastando ao interessado que satisfaça as exigências desta lei e de seus regulamentos.
@@ -213,11 +230,14 @@ Art. 28. É proibido o transporte de combustíveis, produtos inflamáveis ou tó
 
 Art. 29. Suprimido
 
-CAPÍTULO IV<br>
-DAS INFRAÇÕES, DAS PENALIDADES E MEDIDAS ADMINISTRATIVAS<br>
+CAPÍTULO IV
+
+DAS INFRAÇÕES, DAS PENALIDADES E MEDIDAS ADMINISTRATIVAS
+
 (Redação alterada pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-~~CAPÍTULO IV<br>
+~~CAPÍTULO IV
+
 DAS INFRAÇÕES~~
 
 Art. 30. Por infração ao disposto nesta Lei, no Regulamento do serviço e seus anexos, nas Portarias e nas Resoluções expedidas pelo órgão Executivo de Trânsito e Transportes do Município serão aplicadas as seguintes penalidades, conforme a natureza das infrações, sem prejuízo de outras previstas em legislação especial.
@@ -246,7 +266,8 @@ IV. Gravíssima – punida com multa de valor correspondente a 120 (cento e vint
 
 Art. 33. O Regulamento do serviço disporá, ainda, sobre quais situações serão aplicadas as infrações, as penalidades, e demais normas aplicáveis.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS INFRAÇÕES
 
 Art. 33-A. A  Constitui infração a inobservância a qualquer preceito deste Regulamento e seus Anexos, sendo o operador e/ou o infrator sujeito às penalidades e medidas administrativas indicadas em cada parágrafo a seguir: 
@@ -427,10 +448,12 @@ cadastrados junto ao Órgão de Trânsito para esse fim: 
 
 \- Penalidade: multa, multiplicada x 2 (duas);
 
-\- Medida administrativa: apreensão da motocicleta. <br>
+\- Medida administrativa: apreensão da motocicleta. 
+
 ​​​​​​​(Artigo acrescentado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DAS PENALIDADES
 
 Art. 33-B. As penalidades serão impostas aos operadores por infração ao disposto nesta Lei, bem como nas demais normatizações supervenientes aplicáveis, conforme abaixo: 
@@ -443,7 +466,8 @@ III – cancelamento; 
 
 §1º Aplicar-se-ão, cumulativamente, as penalidades previstas para cada infração, quando duas ou mais forem simultaneamente cometidas. 
 
-§2º As penalidades constantes desta Lei não elidem os operadores/infratores da aplicação das penalidades previstas no CTB. <br>
+§2º As penalidades constantes desta Lei não elidem os operadores/infratores da aplicação das penalidades previstas no CTB. 
+
 (Artigo acrescentado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 Art. 33-C. As penalidades serão aplicadas aos operadores nos seguintes casos: 
@@ -460,15 +484,18 @@ caso concreto pela Procuradoria Geral do Município; 
 
 b) tiver a CNH cassada por autoridade competente; 
 
-c) reincidência na suspensão ou autorização; <br>
+c) reincidência na suspensão ou autorização; 
+
 (Artigo acrescentado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 Art. 33-D. Ficam os autorizatários responsáveis, perante a Justiça, por quaisquer acidentes que venham provocar danos pessoais e/ou materiais a terceiros. 
 
-Parágrafo Único - Compete, exclusivamente, ao órgão gestor a aplicação das penalidades previstas nesta Lei.<br>
+Parágrafo Único - Compete, exclusivamente, ao órgão gestor a aplicação das penalidades previstas nesta Lei.
+
 (Artigo acrescentado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DAS MEDIDAS ADMINISTRATIVAS
 
  Art. 33-E. O Órgão de Trânsito, por intermédio dos agentes de trânsito competentes, deverá adotar as seguintes medidas administrativas:
@@ -483,17 +510,20 @@ III – recolhimento do alvará de licença do autorizatario.
 
 §2º Nos casos de infração que seja aplicável as medidas administrativas de apreensão, o servidor competente deverá de imediato, recolher o alvará de licença, conforme especificado em cada infração. 
 
-§3º A adoção das medidas administrativas previstas neste artigo não elide a aplicação das penalidades impostas por infrações estabelecidas nesta Lei, possuindo caráter complementar a estas. <br>
+§3º A adoção das medidas administrativas previstas neste artigo não elide a aplicação das penalidades impostas por infrações estabelecidas nesta Lei, possuindo caráter complementar a estas. 
+
 (Artigo acrescentado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
 Art. 33-F. Os condutores sem permissão conduzindo motocicletas não cadastradas e flagrados na operação do serviço terão as motocicletas, mototaxis e motofretes apreendidas e encaminhadas ao depósito fixado pelo Órgão de Trânsito. 
 
 §1º A restituição das motocicletas apreendidas nas condições descritas no caput só ocorrerá mediante o prévio pagamento da multa, se for o caso, e das despesas com remoção e estadia, além de outros encargos previstos em legislação pertinente. 
 
-§ 2º A interposição de recurso não elide o infrator do pagamento dos preços públicos correspondentes para a liberação da mesma. <br>
+§ 2º A interposição de recurso não elide o infrator do pagamento dos preços públicos correspondentes para a liberação da mesma. 
+
 ​​​​​​​​​​​​​​(Artigo acrescentado pela Lei Ordinária nº 3.552, de 6 de maio de 2020).
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO AUTO DE INFRAÇÃO
 
 Art. 34. Constatada a infração pela autoridade, será lavrado o respectivo auto, em três vias, onde conste:
@@ -514,14 +544,16 @@ VI. A assinatura de quem o lavrou e do infrator, se possível;
 
 § 2º. Recusando-se o infrator a assinar o auto, o agente certificará a recusa.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA DEFESA
 
 Art. 35. O infrator poderá apresentar defesa em requerimento dirigido ao Superintendente Municipal de Trânsito e Transporte de Aparecida de Goiânia, de forma fundamentada e com todas as provas que desejar produzir, no prazo de 10 (dez) dias úteis a contar da data do recebimento do auto de infração. Da Decisão caberá recurso Conselho Municipal de Trânsito.
 
 Art. 36. Julgada improcedente a defesa, ou não sendo apresentada no prazo previsto, será imposta a penalidade ao infrator.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 37. A SMTA poderá firmar convênio com órgãos federal, estadual e municipal para o cumprimento dos dispositivos desta Lei.
@@ -532,8 +564,10 @@ Art. 39. Esta Lei entrará em vigor na data de sua publicação, revogando a Lei
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 26 dias do mês de Junho do ano de 2012.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 PREFEITO MUNICIPAL
 
-ELI DE FARIA<br>
+ELI DE FARIA
+
 SECRETÁRIO EXECUTIVO

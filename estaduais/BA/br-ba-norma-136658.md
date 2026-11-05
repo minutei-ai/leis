@@ -1,6 +1,7 @@
 LEI Nº 14.085 DE 15 DE ABRIL DE 2019
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [19.095](https://www.legislabahia.ba.gov.br/documentos/decreto-no-19095-de-13-de-junho-de-2019) de 13 de junho de 2019 - Dispõe sobre a prorrogação do prazo de pagamento de débitos tributários com os benefícios previstos nos arts. 1º e 2º da Lei nº 14.085, de 15 de abril de 2019.
 
 Dispõe sobre a concessão de crédito presumido do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS nas operações realizadas pelos estabelecimentos que exerçam a atividade econômica de fabricação de produtos do refino de petróleo, bem como sobre a redução de juros e multas e a remissão parcial do imposto, na forma que especifica, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080988-0-000-12-12-1977@@@
-
 Decreto nº 80.988, de 12 de dezembro de 1977.
 
 Concede à Mineração Santa Catarina S/A o direito de lavrar fluorita no Município de Orleãs, Estado de Santa Catarina.

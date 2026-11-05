@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210600)<br>
-
 # LEI N° 18.089, DE 06 DE FEVEREIRO DE 2025
 
 ## (Projeto de lei n° 164/2024, do Deputado Barros Munhoz – PSDB)

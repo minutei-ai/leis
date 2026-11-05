@@ -1,5 +1,3 @@
-###DEC-089608-0-000-02-05-1984@@@
-
 Decreto nº 89.608 de 02 de maio de 1984
 
 Revoga a concessão outorgada à TELEVISÃO VERDES MARES LTDA., para explorar serviço de radiodifusão sonora em ondas curtas, na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

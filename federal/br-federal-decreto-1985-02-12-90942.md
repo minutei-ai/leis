@@ -1,5 +1,3 @@
-###DEC-090942-0-000-12-02-1985@@@
-
 DECRETO Nº 90.942, de 12 dE fevereiro dE 1985
 
 Autoriza o funcionamento dos cursos de Ciências Contábeis e de Ciências Econômicas da Fundação de Filosofia, Ciências e Letras de Mandaguari, Paraná.

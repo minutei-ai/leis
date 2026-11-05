@@ -1,5 +1,3 @@
-###DEC-088560-0-000-02-08-1983@@@
-
 Decreto nº 88.560, de 02 de agosto de 1983
 
 Altera dispositivo do Decreto nº 84.626, de 09 de abril de 1980, que cria, no Ministério da Aeronáutica, a Diretoria do Material Bélico da Aeronáutica.

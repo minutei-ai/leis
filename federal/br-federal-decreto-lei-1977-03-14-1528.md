@@ -1,5 +1,3 @@
-###DEL-001528-0-000-14-03-1977@@@
-
 # DECRETO-LEI Nº 1.528, DE 14 DE MARÇO DE 1977
 
 Revoga disposição do Decreto-lei nº 4.541, de 31 de julho de 1942.

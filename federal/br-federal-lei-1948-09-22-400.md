@@ -1,14 +1,12 @@
-###LEI-000400-0-000-22-09-1948@@@
+**LEI N. 400 – DE 22 DE SETEMBRO DE 1948**
 
-<strong>LEI N. 400 – DE 22 DE SETEMBRO DE 1948</strong>
-
-<em><strong>Autoriza a abertura, ao Congresso Nacional, de crédito suplementar para ocorrer a despesas com subsidio, ajuda de custo, pessoal e material</strong></em>
+***Autoriza a abertura, ao Congresso Nacional, de crédito suplementar para ocorrer a despesas com subsidio, ajuda de custo, pessoal e material***
 
 O Presidente da República:
 
 Faço saber que o Congresso Nacional decreta e eu sanciono a seguinte Lei:
 
-<strong>Art</strong>. 1º É aberto ao Congresso Nacional o crédito suplementar de dois milhões, cento e sessenta e quatro mil, novecentos e dezesseis cruzeiros (Cr$ 2.164.916,00), para refôrço de dotações das Verbas l – Pessoal e 2 – Material, do Anexo nº 2, Congresso Nacional, do Orçamento Geral da República, para o corrente exercício (Lei nº 162, de 2 de dezembro de 1947) a saber:
+**Art**. 1º É aberto ao Congresso Nacional o crédito suplementar de dois milhões, cento e sessenta e quatro mil, novecentos e dezesseis cruzeiros (Cr$ 2.164.916,00), para refôrço de dotações das Verbas l – Pessoal e 2 – Material, do Anexo nº 2, Congresso Nacional, do Orçamento Geral da República, para o corrente exercício (Lei nº 162, de 2 de dezembro de 1947) a saber:
 
 VERBA 1 – PESSOAL
 
@@ -80,12 +78,12 @@ S/G 42 – Telefone, telefonemas, telegramas, radiogramas, porte postal e assina
 
 Total .............................................................................................................................................. 2.164.916,00
 
-<strong>Art</strong>. 2º A presente Lei entrará em vigor na data de sua publicação.
+**Art**. 2º A presente Lei entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de janeiro, 22 de setembro de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Corrêa e Castro

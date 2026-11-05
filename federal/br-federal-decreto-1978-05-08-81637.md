@@ -1,5 +1,3 @@
-###DEC-081637-0-000-08-05-1978@@@
-
 decreto nº 81.637, de 08 de maio de 1978.
 
 Aprova as Instruções Gerais para a Representação do Brasil na Junta Interamericana de Defesa e dá outras providências.

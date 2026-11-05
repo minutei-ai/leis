@@ -1,5 +1,3 @@
-###DEC-053310-0-000-16-12-1963@@@
-
 DECRETO Nº 53.310, DE 16 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Hamilton Borges de Souza a pesquisar minério de chumbo, no município de Adrianópolis, Estado do Paraná.

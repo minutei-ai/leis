@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210310)<br>
-
 # DECRETO N° 69.127, DE 09 DE DEZEMBRO DE 2024
 
 ### _Dispõe sobre as remessas de mercadorias entre estabelecimentos pertencentes ao mesmo titular e revoga o Decreto n° 68.243, de 22 de dezembro de 2023._

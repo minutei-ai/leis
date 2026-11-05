@@ -15,7 +15,3 @@ Art. 2º - Este Decreto-lei entrará em vigor na data de sua publicação, revog
 Palácio da Liberdade, Belo Horizonte, 31 de maio de 1947.
 
 MILTON SOARES CAMPOS - Governador do Estado.
-
-\================================================================
-
-Data da última atualização: 09/11/2007

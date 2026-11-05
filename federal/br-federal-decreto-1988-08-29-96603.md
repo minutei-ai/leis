@@ -1,5 +1,3 @@
-###DEC-096603-0-000-29-08-1988@@@
-
 DECRETO Nº 96.603, DE 29 DE AGOSTO DE 1988
 
 Altera a redação do art. 4º do Decreto nº 94.385, de 28 de maio de 1987.

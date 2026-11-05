@@ -1,7 +1,3 @@
-1
-
-###DEC-099980-0-000-04-01-1991@@@
-
 DECRETO Nº 99.980, DE 4 DE JANEIRO DE 1991.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial, ou instituição de servidão de passagem em favor da Rede Ferroviária Federal S.A. – RFFSA , imóveis constituídos de terrenos, benfeitorias e acessões, de propriedade particular, situados no trecho que menciona.
@@ -14,7 +10,27 @@ Art. 1 ° Ficam declarados de utilidade pública, para fins de desapropriação 
 
 Art. 2º Os imóveis de que trata o presente Decreto, com área total de 194,40 ha, detalhados nos desenhos constantes do Processo nº 29000.012846/90‑11, têm as seguintes delimitações em coordenadas:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:258.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:159.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Coordenadas</span></p></td></tr><tr><td style="width:258.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Ponto</span><span style="width:24.4pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:67.2pt">&nbsp;</span><span style="font-size:10pt"> Azimute</span><span style="width:3.1pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:109.2pt">&nbsp;</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">Distancia</span></p><p style="margin-top:6pt; text-indent:0pt; line-height:12pt"><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">(m)</span></p></td><td style="width:159.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:10pt; -aw-import:ignore">&nbsp;</span></p><p style="margin-top:6pt; text-indent:0pt; text-align:justify; line-height:12pt"><span style="width:33.6pt; display:inline-block; -aw-tabstop-align:left; -aw-tabstop-pos:33.6pt">&nbsp;</span><span style="font-size:10pt">E</span><span style="font-size:10pt; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="font-size:10pt">N</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:258.75pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+</td><td style="width:159.45pt; border-top-style:solid; border-top-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Coordenadas
+
+</td></tr><tr><td style="width:258.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ponto&nbsp; Azimute&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Distancia
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; (m)
+
+</td><td style="width:159.45pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+&nbsp;
+
+&nbsp;E&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; N
+
+</td></tr></tbody></table>
 
 PP.       614.071 ,500 7.805.050,500
 

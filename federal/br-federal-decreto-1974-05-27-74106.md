@@ -1,5 +1,3 @@
-###DEC-074106-0-000-27-05-1974@@@
-
 DECRETO nº 74.106, de 27 de maio de 1974.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Estado de Guanabara.

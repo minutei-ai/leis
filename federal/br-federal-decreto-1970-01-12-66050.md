@@ -1,5 +1,3 @@
-###DEC-066050-0-000-12-01-1970@@@
-
 DECRETO Nº 66.050 - DE 12 DE JANEIRO DE 1970
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Marinha, cargo originário da extinta Comissão do Vale do São Francisco, e dá outras providências.

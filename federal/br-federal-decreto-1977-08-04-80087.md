@@ -1,5 +1,3 @@
-###DEC-080087-0-000-04-08-1977@@@
-
 DECRETO Nº 80.087, DE 4 DE AGOSTO DE 1977.
 
 Declara luto oficial.

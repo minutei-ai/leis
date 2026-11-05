@@ -1,4 +1,5 @@
-LEI MUNICIPAL Nº 1.666 DE 13 DE NOVEMBRO DE 1997.<br>
+LEI MUNICIPAL Nº 1.666 DE 13 DE NOVEMBRO DE 1997.
+
 (Revogada pela Lei Ordinária nº 3.671, de 24 de maio de 2022).
 
 ~~Muda a denominação de vias urbanas no Jardim Helvécia, neste Município.~~
@@ -19,8 +20,10 @@ LEI MUNICIPAL Nº 1.666 DE 13 DE NOVEMBRO DE 1997.<br>
 
 ~~Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos treze dias do mês de novembro de um mil novecentos e noventa e sete.~~
 
-~~ADEMIR MENEZES<br>
+~~ADEMIR MENEZES
+
 PREFEITO MUNICIPAL~~ 
 
-~~JOÃO ANTONIO BORGES<br>
+~~JOÃO ANTONIO BORGES
+
 SEC.DE PLANEJAMENTO MUNICIPAL~~

@@ -1,5 +1,3 @@
-###DEC-061262-0-000-31-08-1967@@@
-
 DECRETO Nº 61.262, DE 31 DE AGÔSTO DE 1967.
 
 Aprova o “Regulamento para as Escolas de Aprendizes-Marinheiros”.

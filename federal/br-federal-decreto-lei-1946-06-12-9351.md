@@ -1,5 +1,3 @@
-###DEL-009351-0-000-12-06-1946@@@
-
 DECRETO-LEI N. 9.351 – DE 12 DE JUNHO DE 1946
 
 Cria o Destacamento Misto de Santos

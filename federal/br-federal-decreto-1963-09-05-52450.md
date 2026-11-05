@@ -1,5 +1,3 @@
-###DEC-052450-0-000-05-09-1963@@@
-
 DECRETO Nº 52.450, DE 5 DE SETEMBRO DE 1963.
 
 Declara de utilidade pública, para o efeito de desapropriação, pela Superintendência do Desenvolvimento do Nordeste (SUDENE) área de terrenos situada à margem leste da Estrada da Imbiribeira, logo ao descer da Ponte de Motocolombó, no local denominado Miramar, na Cidade do Recife, Capital do Estado de Pernambuco, e dá outras providências.

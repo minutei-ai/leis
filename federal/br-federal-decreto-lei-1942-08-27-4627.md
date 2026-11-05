@@ -1,5 +1,3 @@
-###DEL-004627-0-000-27-08-1942@@@
-
 DECRETO-LEI N. 4.627 – DE 27 DE AGOSTO DE 1942
 
 Estabelece normas sobre a importação a granel dos produtos de petróleo e seus derivados, e dá outras providências

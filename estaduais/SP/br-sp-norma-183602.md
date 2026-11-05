@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/183602)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2017/compilacao-lei-16545-10.10.2017.html)
 
 # LEI N° 16.545, DE 10 DE OUTUBRO DE 2017

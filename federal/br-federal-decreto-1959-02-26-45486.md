@@ -1,5 +1,3 @@
-###DEC-045486-0-000-26-02-1959@@@
-
 DECRETO Nº 45.486, DE 26 DE FEVEREIRO DE 1959.
 
 Concede à Irmãos Dani & Cia. Ltda. autorização para funcionar como emprêsa de mineração.

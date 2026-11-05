@@ -1,5 +1,3 @@
-###DEC-053197-0-000-11-12-1963@@@
-
 DECRETO Nº 53.197, DE 11 DE DEZEMBRO DE 1963.
 
 Autoriza a Companhia Brasileira de Alumínio a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

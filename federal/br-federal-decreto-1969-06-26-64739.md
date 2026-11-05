@@ -1,5 +1,3 @@
-###DEC-064739-0-000-26-06-1969@@@
-
 DECRETO Nº 64.739, DE 26 DE JUNHO DE 1969.
 
 Cria a Diretoria de Intendência no Ministério da Aeronáutica e dá outras providências.

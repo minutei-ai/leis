@@ -1,5 +1,3 @@
-###DEC-093368-0-000-08-10-1986@@@
-
 DECRETO Nº 93.368, DE 8 DE OUTUBRO DE 1986.
 
 Delega competência ao Ministro da Marinha.

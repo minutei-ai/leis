@@ -1,5 +1,3 @@
-###DEL-009357-0-000-13-06-1946@@@
-
 DECRETO-LEl N. 9.357 – DE 13 DE JUNHO DE 1946
 
 Cria, no Ministério da Marinha, a Diretoria de Comunicações da Marinha.

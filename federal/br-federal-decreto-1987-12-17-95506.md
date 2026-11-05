@@ -1,5 +1,3 @@
-###DEC-095506-0-000-17-12-1987@@@
-
 DECRETO Nº 95.506, DE 17 DE DEZEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação pela Empresa de Portos do Brasil S.A. - PORTOBRÁS, terrenos e benfeitorias necessários à expansão do Porto de Santos, localizados no Largo Marquês de Monte Alegre, no Município de Santos, Estado de São Paulo, e dá outras providências.

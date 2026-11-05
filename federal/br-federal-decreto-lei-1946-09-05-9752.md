@@ -1,5 +1,3 @@
-###DEL-009752-0-000-05-09-1946@@@
-
 DECRETO-LEI N. 9.752 – DE 5 DE SETEMBRO DE 1946
 
 Abre ao Ministério das Relações Exteriores o crédito suplementar de Cr$ 800.000,00, à verba que especifica.

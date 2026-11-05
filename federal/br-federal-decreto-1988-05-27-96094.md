@@ -1,5 +1,3 @@
-###DEC-096094-0-000-27-05-1988@@@
-
 DECRETO N.° 96.094, DE 27 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA PORTUGAL”, classificado como “latifúndio por exploração”, situado no Município de Santa Luzia, no Estado do Maranhão, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.619, de 02 de maio de 1986, e dá outras providências.

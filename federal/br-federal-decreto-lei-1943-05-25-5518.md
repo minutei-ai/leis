@@ -1,5 +1,3 @@
-###DEL-005518-0-000-25-05-1943@@@
-
 DECRETO-LEI N. 5.518 – DE 25 DE MAIO DE 1943
 
 Prorroga o prazo previsto no artigo 3º do decreto–lei n. 5.219, de 22 de janeiro de 1943

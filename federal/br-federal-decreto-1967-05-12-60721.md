@@ -1,5 +1,3 @@
-###DEC-060721-0-000-12-05-1967@@@
-
 DECRETO Nº 60.721, DE 12 DE MAIO DE 1967.
 
 Autoriza o Presidente do IBDF a praticar os atos necessários à imediata instalação , funcionamento e consecução dos objetivos da autarquia.

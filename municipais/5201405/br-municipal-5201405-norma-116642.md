@@ -8,7 +8,95 @@ Art. 1º Fica desafetada do uso comum do povo e transformada em bem dominical pa
 
 Art. 2º Fica o Poder Executivo Municipal autorizado a permutar a área desafetada no artigo anterior e parte do Lote 25 da Quadra 57, com área de 229,12 m2 (duzentos e vinte e nove vírgula doze metros quadrados), pelas áreas abaixo discriminadas, no loteamento Jardim Boa Esperança, neste Município, de propriedade de EMF PARTICIPAÇÕES E EMPREENDIMENTOS LTDA, inscrito no CNPJ/MF sob o n° 08.884.682/0001-54:
 
-<table><thead></thead><tbody><tr><td style="text-align:center">QUADRA</td><td style="text-align:center">LOTE</td><td style="text-align:center">M²</td><td style="text-align:center">LOTEAMENTO</td><td style="text-align:center">MATRÍCULA</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">07</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">171.546</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">08</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">56.269</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">09</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">56.273</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">10</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">56.274</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">15</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">56.567</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">16</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">56.268</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">17</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">56.272</td></tr><tr><td style="text-align:center">25</td><td style="text-align:center">18</td><td style="text-align:center">360,00</td><td style="text-align:center">Jardim Boa Esperança</td><td style="text-align:center">171.547</td></tr></tbody></table>
+QUADRA
+
+LOTE
+
+M²
+
+LOTEAMENTO
+
+MATRÍCULA
+
+25
+
+07
+
+360,00
+
+Jardim Boa Esperança
+
+171.546
+
+25
+
+08
+
+360,00
+
+Jardim Boa Esperança
+
+56.269
+
+25
+
+09
+
+360,00
+
+Jardim Boa Esperança
+
+56.273
+
+25
+
+10
+
+360,00
+
+Jardim Boa Esperança
+
+56.274
+
+25
+
+15
+
+360,00
+
+Jardim Boa Esperança
+
+56.567
+
+25
+
+16
+
+360,00
+
+Jardim Boa Esperança
+
+56.268
+
+25
+
+17
+
+360,00
+
+Jardim Boa Esperança
+
+56.272
+
+25
+
+18
+
+360,00
+
+Jardim Boa Esperança
+
+171.547
 
 Parágrafo único. A área desafetada pelo art. 1º e a parte do Lote 25 da Quadra 57 mencionada do caput deste artigo se referem às áreas remanescentes da implantação da Avenida Diamante, conforme consta do Levantamento Topográfico – Anexo I desta Lei.
 
@@ -24,10 +112,12 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 09 de outubro de 2018.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-EINSTEIN PANIAGO<br>
+EINSTEIN PANIAGO
+
 Chefe da Casa Civil
 
 [ANEXO I](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18986)

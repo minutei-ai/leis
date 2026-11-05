@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=62217)
-
 # LEI Nº 12.386, DE 15 DE MAIO DE 2006
 
 ## (Projeto de lei nº 1/2004, do Deputado Afanasio Jazadji - PFL)

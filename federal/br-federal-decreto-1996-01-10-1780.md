@@ -1,5 +1,3 @@
-###DEC-001780-0-000-10-01-1996@@@
-
 DECRETO Nº 1.780, DE 10 DE JANEIRO DE 1996.
 
 Torna sem efeito a revogação do Decreto que menciona.

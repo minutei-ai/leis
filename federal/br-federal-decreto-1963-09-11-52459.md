@@ -1,5 +1,3 @@
-###DEC-052459-0-000-11-09-1963@@@
-
 DECRETO Nº 52.459, DE 11 DE SETEMBRO DE 1963.
 
 Altera o Decreto nº 2.060, de 16 de janeiro de 1963.

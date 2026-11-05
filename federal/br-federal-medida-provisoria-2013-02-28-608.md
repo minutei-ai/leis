@@ -1,5 +1,3 @@
-###MPV-000608-0-000-28-02-2013-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 608, DE 28 DE FEVEREIRO DE 2013
 
 Dispõe sobre crédito presumido apurado com base em créditos decorrentes de diferenças temporárias oriundos de provisões para créditos de liquidação duvidosa nas condições que estabelece e dispõe sobre os títulos de crédito e instrumentos emitidos por instituições financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil, para composição de seu patrimônio de referência, e altera a Lei nº 12.249, de 11 de junho de 2010.

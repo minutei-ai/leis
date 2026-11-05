@@ -1,5 +1,3 @@
-###DEC-057430-0-000-15-12-1965@@@
-
 DECRETO Nº 57.430, de 15 de dezembro de 1965.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Marítimos e Terrestres Lloyd Sul Americano, relativa ao aumento do capital social.

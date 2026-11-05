@@ -1,5 +1,3 @@
-###DEC-070018-0-000-21-01-1972@@@
-
 DECRETO Nº 70.018, DE 21 DE JANEIRO DE 1972.
 
 Declara de utilidade pública a Associação de Pais e Amigos dos Excepcionais de São Paulo - APAE, com sede em São Paulo Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-000839-0-000-08-09-1969@@@
-
 decreTO-LEI Nº 839, DE 8 DE Setembro DE 1969
 
 Assegura aos Oficiais do Corpo de Engenheiros e Técnicos Navais da Marinha de Guerra e aos Oficiais dos Quadros Complementares da Marinha de Guerra o cômputo, como acréscimo, do tempo de Curso Universitário na forma que especifica.

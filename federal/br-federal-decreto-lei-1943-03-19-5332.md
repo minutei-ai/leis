@@ -1,5 +1,3 @@
-###DEL-005332-0-000-19-03-1943@@@
-
 DECRETO‑LEI N. 5.332 – DE 19 DE MARÇO DE 1943
 
 Extingue a 1ª Bateria Independente de Metralhadoras Anti‑Aereas, da 7ª Região Militar

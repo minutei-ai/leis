@@ -1,5 +1,3 @@
-###DEC-048740-0-000-04-08-1960@@@
-
 DECRETO Nº 48.740, DE 4 DE AGÔSTO DE 1960.
 
 Concede à sociedade Navegação Paulo Pereira Limitada autorização para funcionar como emprêsa de navegação de cabotagem.

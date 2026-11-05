@@ -1,5 +1,3 @@
-###DEC-075945-0-000-07-07-1975@@@
-
 DECRETO Nº 75.945 - DE 7 DE JULHO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão de passagem, imóveis, constituídos de terras e benfeitorias, situadas no Município de Duque de Caxias, no Estado do Rio de Janeiro.

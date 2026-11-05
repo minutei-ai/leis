@@ -1,7 +1,3 @@
-1
-
-###DEC-000425-0-000-15-01-1992@@@
-
 DECRETO N° 425, DE 15 DE JANEIRO DE 1992
 
 Estabelece mecanismos de cooperação técnica entre o Ministério da Economia, Fazenda e Planejamento, por seu Departamento do Patrimônio da União - DPU, e o Ministério da Ação Social, por intermédio da Secretaria Nacional da Habitação, e fixa os procedimentos necessários à execução de programas habitacionais destinados à população de baixa renda, a serem desenvolvidos em áreas de propriedade da União, em todo o território nacional.

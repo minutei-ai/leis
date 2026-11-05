@@ -1,6 +1,10 @@
 > **LEI Nº 4.113, DE 28 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a Política de Valorização da Vida nas escolas do Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a Política de Valorização da Vida nas escolas do Estado.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE, em exercício**
 

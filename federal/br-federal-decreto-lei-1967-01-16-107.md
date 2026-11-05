@@ -1,5 +1,3 @@
-###DEL-000107-0-000-16-01-1967@@@
-
 DECRETO-LEI Nº 107, DE 16 DE JANEIRO DE 1967
 
 Autoriza o Poder Executivo a constituir a emprêsa Telecomunicações Aeronáuticas SA (TASA), e dá outras providências.

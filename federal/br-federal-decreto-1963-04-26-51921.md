@@ -1,5 +1,3 @@
-###DEC-051921-0-000-26-04-1963@@@
-
 DECRETO Nº 51.921, DE 26 DE ABRIL DE 1963.
 
 Autoriza estrangeiro a adquirir, em transferência de aforamento, o domínio útil do terreno de acrescido de marinha que menciona, em Niterói, Estado do Rio de Janeiro.

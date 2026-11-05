@@ -1,5 +1,3 @@
-###DEC-081316-0-000-08-02-1978@@@
-
 Decreto nº 81.316, de 8 de fevereiro de 1978.
 
 Regulamenta a Lei nº 6.426, de 30 de junho de 1977, dispõe sobre a Comissão Nacional de Artes Plásticas e dá outras providências.

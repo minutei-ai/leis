@@ -1,14 +1,12 @@
-###LEI-000326-0-000-13-08-1948@@@
+**LEI Nº 326, DE 13 DE AGÔSTO DE 1948**
 
-<strong>LEI Nº 326, DE 13 DE AGÔSTO DE 1948</strong>
+***Autoriza o Poder Executivo a dar execução ao Plano de ligação ferro-rodo-fluvial entre as cidade de Anápolis, em Goiás, e Belém, no Pará.***
 
-<em><strong>Autoriza o Poder Executivo a dar execução ao Plano de ligação ferro-rodo-fluvial entre as cidade de Anápolis, em Goiás, e Belém, no Pará.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, faço saber que o CONGRESSO NACIONAL decreta e eu sanciono a seguinte Lei:
+**Art**. 1º É o Poder Executivo autorizado a dar pronta execução ao plano de ligação, rodo-ferro-fluvial Anápolis-Belém.
 
-<strong>Art</strong>. 1º É o Poder Executivo autorizado a dar pronta execução ao plano de ligação, rodo-ferro-fluvial Anápolis-Belém.
-
-<strong>Art</strong>. 2º O plano consta das seguintes obras:
+**Art**. 2º O plano consta das seguintes obras:
 
 a) - melhoramentos na rodovia Anápolis-Uruaçu;
 
@@ -22,17 +20,17 @@ e) melhoramentos na Estrada de Ferro Tocantins;
 
 f) - melhoramento das condições de navegabilidade do rio Tocantins, entre Alcobaça, ponto inicial da Estrada de Ferro Tocantins, e a cidade de Belém;
 
-g) - construção, nos trechos navegáveis do rio Tocantins, mencionados nos itens <em>c</em> e <em>f</em>, das obras de acostagem, necessárias à melhor operação do tráfego fluvial.
+g) - construção, nos trechos navegáveis do rio Tocantins, mencionados nos itens *c* e *f*, das obras de acostagem, necessárias à melhor operação do tráfego fluvial.
 
-<strong>Art</strong>. 3º Para o custeio das obras serão consignadas no orçamento federal ou no Plano de Valorização da Amazônia, verbas suficientes, de acôrdo com o programa estabelecido pelo Ministério da Viação e Obras Públicas.
+**Art**. 3º Para o custeio das obras serão consignadas no orçamento federal ou no Plano de Valorização da Amazônia, verbas suficientes, de acôrdo com o programa estabelecido pelo Ministério da Viação e Obras Públicas.
 
-Parágrafo único. No ano corrente, far-se-ão os estudos das obras autorizadas e construir-se-á o prolongamento da rodovia Anápolis-Uruaçu, de que trata a letra <em>b</em>, do artigo anterior, correndo as despesas por conta da importância global Cr$20.000.000,00 (vinte milhões de cruzeiros), constante do orçamento vigente, Ministério da Viação e Obras Públicas, Verba 4, Consignação VII, Subconsignação VIII nº 1 e de outros recursos que venham a ser atribuídos ao mesmo fim, e se distribuirão ao Departamento Nacional de Estradas de Rodagem.
+Parágrafo único. No ano corrente, far-se-ão os estudos das obras autorizadas e construir-se-á o prolongamento da rodovia Anápolis-Uruaçu, de que trata a letra *b*, do artigo anterior, correndo as despesas por conta da importância global Cr$20.000.000,00 (vinte milhões de cruzeiros), constante do orçamento vigente, Ministério da Viação e Obras Públicas, Verba 4, Consignação VII, Subconsignação VIII nº 1 e de outros recursos que venham a ser atribuídos ao mesmo fim, e se distribuirão ao Departamento Nacional de Estradas de Rodagem.
 
-<strong>Art</strong>. 4º Revogam-se as disposições em contrário.
+**Art**. 4º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 13 de agôsto de 1948; 127º da Independência e 60º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Clóvis Pestana
 

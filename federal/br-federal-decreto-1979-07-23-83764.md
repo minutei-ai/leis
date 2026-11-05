@@ -1,5 +1,3 @@
-###DEC-083764-0-000-23-07-1979@@@
-
 DECRETO Nº 83.764, DE 23 DE JULHO 1979.
 
 Autoriza a conversão dos cursos de Matemática, Biologia, Química e Ciências, em curso de Ciências, ministrado pela Universidade Católica do Paraná, com sede na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEL-004571-0-000-12-08-1942@@@
-
 DECRETO-LEI N. 4.571 – DE 12 DE AGOSTO DE 1942
 
 Altera sem aumento de despesa o Anexo 16 – Ministério da Fazenda – do orçamento em vigor

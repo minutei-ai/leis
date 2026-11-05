@@ -1,5 +1,3 @@
-###DEC-046006-0-000-16-05-1959@@@
-
 DECRETO- N. 46.006 – DE 16 DE MAIO DE 1959
 
 Outorga concessão è Rádio Por um Mundo Melhor Limitada para instalar uma estação radiodifusora.

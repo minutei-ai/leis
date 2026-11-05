@@ -1,5 +1,3 @@
-###DEC-082506-0-000-27-10-1978@@@
-
 Decreto nº 82.506, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro José Ferreira de Andrade pelo Decreto nº 22.599, de 21 de fevereiro de 1947.

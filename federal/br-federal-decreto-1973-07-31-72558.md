@@ -1,5 +1,3 @@
-###DEC-072558-0-000-31-07-1973@@@
-
 decreto nº 72.558, de 31 de julho de 1973.
 
 Cria o Centro de Instrução e Adestramento de Submarinos e Mergulho, extingue a Escola de Submarinos e dá outras providência

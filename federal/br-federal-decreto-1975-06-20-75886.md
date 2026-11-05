@@ -1,5 +1,3 @@
-###DEC-075886-0-000-20-06-1975@@@
-
 DECRETO Nº 75.886, DE 20 DE JUNHO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São José dos Campos, Estado de São Paulo.

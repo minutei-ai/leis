@@ -1,5 +1,3 @@
-###DEC-096292-0-000-11-07-1988@@@
-
 DECRETO N° 96.292, DE 11 DE JULHO DE 1988
 
 Declara de utilidade pública a instituição que menciona.

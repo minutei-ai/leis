@@ -1,5 +1,3 @@
-###DEC-053269-0-000-13-12-1963@@@
-
 DECRETO Nº 53.269, DE 13 DE DEZEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro José da Silva Marques a pesquisar minério de manganês no município de Campo Formoso, Estado da Bahia.

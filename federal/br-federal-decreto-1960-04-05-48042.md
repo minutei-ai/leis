@@ -1,5 +1,3 @@
-###DEC-048042-0-000-05-04-1960@@@
-
 DECRETO Nº 48.042, de 5 de abril de 1960.
 
 Autoriza o Champion Celulose S.A. instalar uma usina termelétrica.

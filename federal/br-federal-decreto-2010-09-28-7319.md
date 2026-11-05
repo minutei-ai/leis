@@ -1,5 +1,3 @@
-###DEC-007319-0-000-28-09-2010-PUB-01@@@
-
 DECRETO Nº 7.319, DE 28 DE SETEMBRO DE 2010.
 
 Regulamenta a aplicação do Regime Especial de Tributação para construção, ampliação, reforma ou modernização de estádios de futebol - RECOM, de que trata os arts. 2o a 6o da Medida Provisória no 497, de 27 de julho de 2010.

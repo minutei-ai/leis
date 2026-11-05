@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210015)<br>
-
 # LEI N° 18.040, DE 23 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 1259/2023, do Deputado Lucas Bove – PL)

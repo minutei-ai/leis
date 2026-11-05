@@ -1,5 +1,3 @@
-###DEC-059535-0-000-09-11-1966@@@
-
 DECRETO Nº 59.535, DE 9 DE NOVEMBRO DE 1966.
 
 Abre, ao Ministério da Educação e Cultura, o crédito especial de Cr$600.000.000, para atender as despesas com a recuperação do Hospital Antônio Pedro, situado em Niterói.

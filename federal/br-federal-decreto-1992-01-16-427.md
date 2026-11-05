@@ -1,7 +1,3 @@
-1
-
-###DEC-000427-0-000-16-01-1992@@@
-
 DECRETO N° 427, DE 16 DE JANEIRO DE 1992
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia de Navegação Lloyd Brasileiro -- LLOYDBRÁS.

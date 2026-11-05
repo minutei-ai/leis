@@ -1,5 +1,3 @@
-###DEC-068240-0-000-16-02-1971@@@
-
 DECRETO Nº 68.240, DE 16 DE Fevereiro de 1971.
 
 Retifica o artigo 1º do Decreto número 63.054, de 30 de junho de 1968, que retificou o de nº 27.117, de 31 de agosto de 1949.

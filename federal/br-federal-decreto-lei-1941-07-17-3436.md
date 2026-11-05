@@ -1,5 +1,3 @@
-###DEL-003436-0-000-17-07-1941@@@
-
 DECRETO-LEI N. 3.436 – DE 17 DE JULHO DE 1941
 
 Abre , pelo Ministério da Aeronáutica, o crédito especial de réis  1.567:384$0 para  aquisição de tecidos para uniformes

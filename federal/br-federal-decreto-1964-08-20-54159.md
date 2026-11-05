@@ -1,5 +1,3 @@
-###DEC-054159-0-000-20-08-1964@@@
-
 Decreto nº 54.159, de 20 de AgÔsto de 1964.
 
 Outorga à Canoinhas Fôrça e Luz S.A. concessão para distribuir energia elétrica.
@@ -35,8 +33,6 @@ Brasília, 20 de agôsto de 1964; 143º da Independência e 76º da República.
 H. Castello Branco
 
 Mauro Thibau
-
-###DEC-054159-0-000-20-08-1964@@@RET01+++
 
 DECRETO Nº 54.159, DE 20 DE AGÔSTO DE 1964.
 

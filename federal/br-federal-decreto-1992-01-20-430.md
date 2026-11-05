@@ -1,7 +1,3 @@
-1
-
-###DEC-000430-0-000-20-01-1992@@@
-
 DECRETO N° 430, DE 20 DE JANEIRO DE 1992
 
 Regulamenta o art. 4° da Lei n° 8.197 de 27 de junho de 1991, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-092397-0-000-13-02-1986@@@
-
 DECRETO Nº 92.397, DE 13 DE FEVEREIRO DE 1986
 
 Dispõe sobre a transferência do Instituto Nacional de Tecnologia - INT para o Ministério da Ciência e Tecnologia, e dá outras providências.

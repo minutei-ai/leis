@@ -1,5 +1,3 @@
-###DEC-085050-0-000-18-08-1980@@@
-
 Decreto nº 85.050, de 18 de agosto de 1980.
 
 Promulga o Tratado de Cooperação Amazônica, concluído entre os Governos República da Bolívia, da República Federativa do Brasil, da República da Colômbia, da República do Equador, da República Cooperativa da Guiana, da República do Peru, da República do Suriname e da República da Venezuela.

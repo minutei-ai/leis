@@ -1,5 +1,3 @@
-###DEC-095947-0-000-22-04-1988@@@
-
 DECRETO N.° 95.947, DE 22 DE ABRIL DE 1988
 
 Altera o Regulamento para Ingresso e Promoção no Quadro Auxiliar de Oficiais (RIPQAO), aprovado pelo Decreto n ° 90.116, de 29 de agosto de 1984.

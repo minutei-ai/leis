@@ -1,5 +1,3 @@
-###DEC-054991-0-000-13-11-1964@@@
-
 DECRETO Nº 54.991, DE 13 DE NOVEMBRo DE 1964.
 
 Retifica o art. 1º do Decreto número 53.450, de 20 de janeiro de 1964.

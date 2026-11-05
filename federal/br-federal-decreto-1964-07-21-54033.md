@@ -1,5 +1,3 @@
-###DEC-054033-0-000-21-07-1964@@@
-
 DECRETO Nº 54.033, DE 21 DE JULHO DE 1964.
 
 Aprova o Plano Preferencial para os serviços e obras do Departamento Nacional de Obras Contra as Sêcas e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-052427-0-000-02-09-1963@@@
-
 DECRETO Nº 52.427, DE 2 DE SETEMBRO DE 1963.
 
 Autoriza o cidadão brasileiro Raul Alves de Brito a lavrar minério de manganês no município  de Urandi, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-055180-0-000-10-12-1964@@@
-
 DECRETO Nº 55.180, DE 10 DE DEZEMBRO De 1964.
 
 Autoriza a Cia. de Tecidos Paulista a lavrar fosforita, no município de Paulista, Estado de Pernambuco.

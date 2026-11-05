@@ -1,5 +1,3 @@
-###DEC-080173-0-000-16-08-1977@@@
-
 DECRETO n.º 80.173, de 16 de agosto de 1977
 
 Concede à Minérios Industriais do Sul S.A. - MINEL o direito de lavrar caulim no Município de Urussanga, Estado de Santa Catarina.

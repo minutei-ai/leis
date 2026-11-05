@@ -1,5 +1,3 @@
-###DEC-046328-0-000-30-06-1959@@@
-
 Decreto nº 46.328, de 30 de junho de 1959.
 
 Estabelece a freqüência de 60 ciclos por segundo no sistema da Cia. Fôrça e Luz de Casa Branca.

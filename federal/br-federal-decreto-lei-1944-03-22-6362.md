@@ -1,5 +1,3 @@
-###DEL-006362-0-000-22-03-1944@@@
-
 DECRETO-LEI N. 6.362 – DE 22 DE MARÇO DE 1944
 
 Cria o 3º Batalhão de Engenhos

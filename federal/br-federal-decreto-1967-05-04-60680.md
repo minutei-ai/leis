@@ -1,5 +1,3 @@
-###DEC-060680-0-000-04-05-1967@@@
-
 DECRETO Nº 60.680, DE 4 DE MAIO DE 1967.
 
 Altera e amplia dispositivos do Decreto nº 59.414, de 25 de outubro de 1966, que estabelece normas gerais de tarifação para as emprêsas concessionárias de serviços públicos de energia elétrica.

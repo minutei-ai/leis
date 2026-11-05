@@ -1,5 +1,3 @@
-###DEC-070809-0-000-06-07-1972@@@
-
 DECRETO nº 70.809, DE 6 DE JULHO DE 1972.
 
 Concede autorização ao Consórcio Amsterdamsche Ballast  Bagger en Grond (Amsterdam Ballast Dredging) N.V. e SOTEP - Sociedade Técnica de Perfuração Ltda. para operar em águas brasileiras com a draga "Prins Der Nederlanden", de bandeira inglesa, nos serviços de dragagem do canal de acesso ao Terminal Marítimo Almirante Barroso, no Estado de São Paulo.

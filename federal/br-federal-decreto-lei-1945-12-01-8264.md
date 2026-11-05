@@ -1,5 +1,3 @@
-###DEL-008264-0-000-01-12-1945@@@
-
 DECRETO-LEI N. 8.264 – DE 1 DE DEZEMBRO DE 1945
 
 Dispõe sôbre gabaritos de construções nos bairros do Leme, Copacabana, Ipanema e Leblon.

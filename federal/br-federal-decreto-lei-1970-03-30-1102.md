@@ -1,5 +1,3 @@
-###DEL-001102-0-000-30-03-1970@@@
-
 # DECRETO-LEI Nº 1.102, DE 30 DE MARÇO DE 1970
 
 Estabelece regime especial para o comércio de cassiterita na Província Estanífera de Rondônia.

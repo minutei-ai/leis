@@ -1,5 +1,3 @@
-###DEC-048996-0-000-04-10-1960@@@
-
 Decreto nº 48.996, de 4 de outubro de 1960.
 
 Concede à Waldor de Andrade & Cia. Ltda. autorização para funcionar como emprêsa de mineração.

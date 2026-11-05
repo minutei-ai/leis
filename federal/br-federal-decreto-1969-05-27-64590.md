@@ -1,5 +1,3 @@
-###DEC-064590-0-000-27-05-1969@@@
-
 DECRETO Nº 64.590, DE 27 DE MAIO DE 1969.
 
 Altera o Regulamento do Código de Mineração, aprovado pelo Decreto nº 62.934, de 2 de julho de 1958, e dá outras providências.

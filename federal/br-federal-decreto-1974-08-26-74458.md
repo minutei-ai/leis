@@ -1,5 +1,3 @@
-###DEC-074458-0-000-26-08-1974@@@
-
 DECRETO Nº 74.458, DE 26 DE AGOSTO DE 1974.
 
 Concede reconhecimento á Faculdade de Comunicação de Santos, mantida pela Sociedade Visconde de São Leopoldo, com sede na cidade de Santos, Estado de São Paulo.

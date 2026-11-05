@@ -1,5 +1,3 @@
-###DEC-089610-0-000-03-05-1984@@@
-
 Decreto nº 89.610, de 03 de maio de 1984
 
 Concede a "Association Lanteriama pour l' aide en Amazonie" (Associação Lanteriama para auxílio na Amazônia) autorização para funcionar no Brasil.

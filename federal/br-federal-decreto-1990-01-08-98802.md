@@ -1,7 +1,3 @@
-1
-
-###DEC-098802-0-000-08-01-1990@@@
-
 DECRETO N° 98.802, DE 8 DE JANEIRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária implantação da estação transformadora de distribuição Jerusalém da Eletricidade de São Paulo S.A. Eletropaulo, no Estado de São Paulo.

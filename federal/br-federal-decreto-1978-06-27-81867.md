@@ -1,5 +1,3 @@
-###DEC-081867-0-000-27-06-1978@@@
-
 Decreto nº 81.867, de 27 de junho de 1978.
 
 Concede reconhecimento ao curso de ciências, ministrado pela Faculdade Municipal de Educação, Ciências e Letras de Paranavaí, com sede na cidade de Paranavaí, Estado do Paraná.

@@ -1,14 +1,12 @@
-###DEC-023678-0-000-16-09-1947@@@
+**DECRETO Nº 23.678, DE 16 DE SETEMBRO DE 1947.**
 
-<strong>DECRETO Nº 23.678, DE 16 DE SETEMBRO DE 1947.</strong>
+***Altera os artigos 8º, § 1º, 9º e 14 do Regulamento para o Serviço Hospitalar da Marinha.***
 
-<em><strong>Altera os artigos 8º, § 1º, 9º e 14 do Regulamento para o Serviço Hospitalar da Marinha.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1<strong>º</strong> Os artigos 8º, § 1º, 9º e 14 do Regulamento para o Serviço Hospitalar da Marinha, aprovado pelo Decreto número 20.940 de 9 de abril de 1946, passam a ter a seguinte redação:
+**Art**. 1**º** Os artigos 8º, § 1º, 9º e 14 do Regulamento para o Serviço Hospitalar da Marinha, aprovado pelo Decreto número 20.940 de 9 de abril de 1946, passam a ter a seguinte redação:
 
 Art. 8º ......................................................................................................................................
 
@@ -68,10 +66,10 @@ i) um enfermeiro-mór, oficial subalterno do Quadro de Oficiais Auxiliares da Ma
 
 j) sub-oficiais, sargentos e praças das diversas especialidades e pessoal da Companhia de Taifeiros, em número correspondente às necessidades dos serviços.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 16 de setembro de 1947; 126º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Sylvio de Noronha

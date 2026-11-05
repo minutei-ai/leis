@@ -1,5 +1,3 @@
-###DEC-057793-0-000-14-02-1966@@@
-
 DECRETO Nº 57.793, DE 14 DE FEVEREIRO DE 1966.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Guaranésia, Estado de Minas Gerais.

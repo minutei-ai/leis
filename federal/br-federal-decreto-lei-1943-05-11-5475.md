@@ -1,5 +1,3 @@
-###DEL-005475-0-000-11-05-1943@@@
-
 DECRETO‑LEI N. 5.475 – DE 11 de MAIO DE 1943
 
 Regula a colocação das Obrigações de Guerra, e dá outras providências

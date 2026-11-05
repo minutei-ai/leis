@@ -1,5 +1,3 @@
-###DEC-096001-0-000-02-05-1988@@@
-
 DECRETO N° 96.001, DE 02 DE MAIO DE 1988
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado “FAZENDA GURUGI”, classificado como “latifúndio por exploração”, situado no Município de Conde, no Estado da Paraíba, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.682, de 19 de maio de 1986, e dá outras providências.

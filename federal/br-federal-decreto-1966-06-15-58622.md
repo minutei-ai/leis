@@ -1,5 +1,3 @@
-###DEC-058622-0-000-15-06-1966@@@
-
 Decreto nº 58.622, de 15 de junho de 1966.
 
 Concede à Mineralto - Mineração Alto Araguaia Comércio e Indústria Limitada autorização para funcionar como emprêsa de mineração.

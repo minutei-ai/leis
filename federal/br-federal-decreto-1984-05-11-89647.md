@@ -1,5 +1,3 @@
-###DEC-089647-0-000-11-05-1984@@@
-
 Decreto nº 89.647, de 11 de maio dE 1984
 
 Outorga concessão à FUNDAÇÃO VERDES FLORESTAS., para explorar serviço de radiodifusão sonora em onda média, na cidade do Cruzeiro do Sul, Estado do Acre.

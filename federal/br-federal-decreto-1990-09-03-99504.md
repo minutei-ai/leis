@@ -1,5 +1,3 @@
-###DEC-099504-0-000-03-09-1990@@@
-
 DECRETO N° 99.504, DE 3 DE SETEMBRO DE 1990
 
 Transfere à Secretaria da Fazenda Nacional do Ministério da Economia, Fazenda e Planejamento as competências da extinta Comissão de Fusão e Incorporação de Empresas.

@@ -1,5 +1,3 @@
-###DEC-047122-0-000-27-10-1959@@@
-
 Decreto nº 47.122, de 27 de outubro de 1959.
 
 Autoriza a Dragagem Fluvial Ltda., a lavrar ouro e diamante no Município de Diamantina, Estado de Minas Gerais.

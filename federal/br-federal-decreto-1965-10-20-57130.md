@@ -1,5 +1,3 @@
-###DEC-057130-0-000-20-10-1965@@@
-
 DECRETO Nº 57.130, DE 20 DE OUTUBRO DE 1965.
 
 Aprova alterações introduzidas nos Estatutos da Mundial Companhia Nacional de Seguros Gerais, inclusive aumento do capital social.

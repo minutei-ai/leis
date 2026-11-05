@@ -1,5 +1,3 @@
-###DEC-055007-0-000-16-11-1964@@@
-
 decreto nº 55.007, de 16 de novembro de 1964.
 
 Considerar autorizadas as despesas realizadas pelo Plano Trienal de Educação do exercício de 1963, com dispensa de concorrência pública.

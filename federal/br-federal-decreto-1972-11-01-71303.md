@@ -1,5 +1,3 @@
-###DEC-071303-0-000-01-11-1972@@@
-
 DECRETO Nº 71.303, DE 1 DE NOVEMBRO DE 1972.
 
 Concede reconhecimento ao Curso de Física da Universidade do Vale do Rio dos Sinos, no Rio Grande do Sul.

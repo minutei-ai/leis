@@ -1,7 +1,3 @@
-1
-
-###DEC-000472-0-000-10-03-1992@@@
-
 DECRETO N° 472, DE 10 DE MARÇO DE 1992
 
 Dispõe sobre a centralização, na Secretaria da Administração Federal, da condução dos processos de liquidação e extinção de órgãos e entidades da Administração Pública Federal, direta e indireta.

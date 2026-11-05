@@ -1,5 +1,3 @@
-###DEC-085983-0-000-06-05-1981@@@
-
 Decreto nº 85.983, de 06 de maio de 1981
 
 Outorga a FURNAS - Centrais Elétricas S.A. concessão para um conjunto de aproveitamento da energia hidráulica do trecho do curso principal do Rio Tocantins e seus afluentes das margens direita e esquerda, no Estado de Goiás.

@@ -1,5 +1,3 @@
-###DEC-003246-0-000-16-11-1999@@@
-
 DECRETO Nº 3.246, DE 16 DE NOVEMBRO DE 1999.
 
 Dispõe sobre a execução do Vigésimo Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos dos Estados Partes do Mercado Comum do Sul (MERCOSUL), e o Governo da República do Chile, de 20 de setembro de 1999.
@@ -42,4 +40,22 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários subscrevem o presente Protocolo na cidade de Montevidéu, aos vinte dias do mês de setembro de mil novecentos e noventa e nove, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Argentina</span></p></td><td style="width:229.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Carlos Onis Vigil</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p></td><td style="width:229.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Paraguai</span></p></td><td style="width:229.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Efraín Darío Centurión</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República Oriental do Uruguai</span></p></td><td style="width:229.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Jorge Rodolfo Tálice</span></p></td></tr><tr><td style="width:194.95pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República do Chile</span></p></td><td style="width:229.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Augusto Bermúdez Arancibia</span></p></td></tr></tbody></table>
+Pelo Governo da República Argentina
+
+Carlos Onis Vigil
+
+Pelo Governo da República Federativa do Brasil
+
+José Artur Denot Medeiros
+
+Pelo Governo da República do Paraguai
+
+Efraín Darío Centurión
+
+Pelo Governo da República Oriental do Uruguai
+
+Jorge Rodolfo Tálice
+
+Pelo Governo da República do Chile
+
+Augusto Bermúdez Arancibia

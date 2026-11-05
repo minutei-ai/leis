@@ -1,5 +1,3 @@
-###DEL-005308-0-000-06-03-1943@@@
-
 DECRETO‑LEI N. 5.308 – DE 6 DE MARÇO DE 1943
 
 Comina pena para a infração prevista no artigo 13, do decreto‑lei n. 4.807, de 7 de outubro de 1942

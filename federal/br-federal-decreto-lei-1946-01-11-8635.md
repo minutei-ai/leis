@@ -1,5 +1,3 @@
-###DEL-008635-0-000-11-01-1946@@@
-
 DECRETO-LEI N. 8.635 – DE 11 DE JANEIRO DE 1946
 
 Cria cargo no Quadro Permanente do Ministério das Relações Exteriores e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-087887-0-000-02-12-1982@@@
-
 Decreto nº 87.887, de 02 de dezembro de 1982.
 
 Extingue o cargo de Vice-Presidente da Fundação CNPq.

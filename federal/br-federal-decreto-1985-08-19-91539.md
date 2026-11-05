@@ -1,5 +1,3 @@
-###DEC-091539-0-000-19-08-1985@@@
-
 Decreto nº 91.539, de 19 de agosto de 1985
 
 Cria a Comissão Nacional de Meteorologia e dá outras providências.

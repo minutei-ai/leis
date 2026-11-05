@@ -1,5 +1,3 @@
-###DEC-058139-0-000-04-04-1966@@@
-
 Decreto nº 58.139, de 4 de abril de 1966.
 
 Declara de utilidade pública a sociedade Religiosa e Beneficente Israelita “Lar dos Velhos” com sede em São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###MPV-001920-0-000-21-09-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.920, DE 21 de SETEMBRO DE 1999.
 
 Dispõe sobre a realização de contratos de financiamento de projetos de estruturação dos assentados e colonos nos programas oficiais de assentamento, colonização e reforma agrária, aprovados pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, com risco para o Tesouro Nacional ou para os Fundos Constitucionais das Regiões Norte, Nordeste e Centro-Oeste.

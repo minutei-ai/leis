@@ -1,5 +1,3 @@
-###DEC-068880-0-000-06-07-1971@@@
-
 DECRETO Nº 68.880, DE 6 DE JULHO DE 1971.
 
 Aproveita servidores em disponibilidade e dá outras providências.

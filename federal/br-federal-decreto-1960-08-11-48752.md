@@ -1,5 +1,3 @@
-###DEC-048752-0-000-11-08-1960@@@
-
 DECRETO Nº 48.752, DE 11 DE AGÔSTO DE 1960.
 
 Concede autorização para o funcionamento de Curso.

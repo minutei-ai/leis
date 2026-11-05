@@ -1,5 +1,3 @@
-###DEC-066152-0-000-02-02-1970@@@
-
 DECRETO Nº 66.152 - DE 2 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona e respectivas benfeitorias, necessário ao Ministério do Exército.

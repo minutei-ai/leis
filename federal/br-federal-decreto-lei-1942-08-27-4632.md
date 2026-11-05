@@ -1,5 +1,3 @@
-###DEL-004632-0-000-27-08-1942@@@
-
 DECRETO-LEI N. 4.632 – DE 27 DE AGOSTO DE 1942
 
 Dispõe sobre a aplicação de crédito orçamentário e dá outras providências

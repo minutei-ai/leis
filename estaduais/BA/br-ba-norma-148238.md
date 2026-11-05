@@ -1,4 +1,5 @@
-LEI Nº 15.118 DE 28 DE JANEIRO DE 2026<br>
+LEI Nº 15.118 DE 28 DE JANEIRO DE 2026
+
  
 
                    Dispõe sobre a obrigatoriedade de hipermercados e supermercados reservarem local específico para a venda de produtos orgânicos no Estado da Bahia, e dá outras providências.

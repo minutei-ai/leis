@@ -1,5 +1,3 @@
-###DEC-065306-0-000-07-10-1969@@@
-
 DECRETO Nº 65.306 - DE 7 DE OUTUBRO de 1969.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Justiça, cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal e dá providências.

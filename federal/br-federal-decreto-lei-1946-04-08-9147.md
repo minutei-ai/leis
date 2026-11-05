@@ -1,5 +1,3 @@
-###DEL-009147-0-000-08-04-1946@@@
-
 DECRETO-LEI N. 9.147 – DE 8 de ABRIL DE 1946
 
 Aprova contrato firmado em virtude do Decreto-lei nº 9.069, de 15 Março de 1946, dá outra providências.

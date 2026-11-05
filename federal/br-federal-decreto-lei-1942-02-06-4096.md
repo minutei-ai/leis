@@ -1,5 +1,3 @@
-###DEL-004096-0-000-06-02-1942@@@
-
 DECRETO-LEI N. 4.096 – DE 6 DE FEVEREIRO DE 1942
 
 Transfere a sede do Comando de Artilharia Divisionária da 7ª Divisão de Infantaria

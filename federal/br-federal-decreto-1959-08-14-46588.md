@@ -1,5 +1,3 @@
-###DEC-046588-0-000-14-08-1959@@@
-
 DECRETO Nº 46.588, de 14 de agôsto de 1959.
 
 Outorga Concessão à Rádio Educadora de Uberlândia Limitada para instalar uma estação radiodifusora.

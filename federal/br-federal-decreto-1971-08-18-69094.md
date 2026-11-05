@@ -1,5 +1,3 @@
-###DEC-069094-0-000-18-08-1971@@@
-
 DECRETO Nº 69.094, DE 18 DE AGôSTO DE 1971.
 
 Declara de utilidade pública a Organização de Auxílio Fraterno, "O.A.F. do Recife" com sede em Recife, Estado de Pernambuco.

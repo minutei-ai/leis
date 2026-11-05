@@ -1,5 +1,3 @@
-###DEC-048416-0-000-24-06-1960@@@
-
 DECRETO Nº 48.416, DE 24 DE JUNHO DE 1960.
 
 Amplia a zona de concessão da Emprêsa Luz e Fôrça Itabapoana Ltda., no Estado do Rio de Janeiro, e dá outras providências.

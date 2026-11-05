@@ -1,5 +1,3 @@
-###DEC-058378-0-000-10-05-1966@@@
-
 DECRETO Nº 58.378, DE 10 DE MAIO DE 1966.
 
 Cria a “Base Aérea Naval de São Pedro da Aldeia”, e dá outras providências.

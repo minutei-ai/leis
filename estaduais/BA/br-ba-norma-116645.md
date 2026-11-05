@@ -1,6 +1,7 @@
 LEI Nº 3.897 DE 03 DE JUNHO DE 1981
 
-Ver também:<br>
+Ver também:
+
 Art. 4º da Lei nº 5.262, de 31 de agosto de 1989: "Fica extinto o Centro de Processamento de Dados da Assembléia Legislativa do Estado da Bahia, autarquia criada pela Lei nº 3.897, de 03 de junho de 1981."
 
 Cria o CENTRO DE PESQUISA E INFORMÁTICA DA ASSEMBLÉIA LEGISLATIVA.

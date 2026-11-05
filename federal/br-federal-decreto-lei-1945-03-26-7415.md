@@ -1,5 +1,3 @@
-###DEL-007415-0-000-26-03-1945@@@
-
 DECRETO-LEI N. 7.415 – DE 26 DE MARÇO DE 1945
 
 Cria funções gratificadas no Quadro Único do Ministério do Trabalho, Indústria e Comércio e dá outras providências

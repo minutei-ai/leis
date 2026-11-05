@@ -1,5 +1,3 @@
-###DEC-061765-0-000-23-11-1967@@@
-
 DECRETO Nº 61.765, DE 23 DE NOVEMBRO DE 1967.
 
 Aprova o Regimento do Conselho Nacional de Minas.

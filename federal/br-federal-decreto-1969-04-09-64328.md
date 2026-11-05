@@ -1,5 +1,3 @@
-###DEC-064328-0-000-09-04-1969@@@
-
 DECRETO Nº 64.328, DE 9 DE ABRIL DE 1969.
 
 Extingue seção no Departamento Nacional de Registro do Comércio do Ministério da Indústria e do Comércio e dá outras providências.

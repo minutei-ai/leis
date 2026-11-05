@@ -1,5 +1,3 @@
-###DEC-048566-0-000-21-07-1960@@@
-
 DECRETO Nº 48.566, DE 21 DE JULHO DE 1960.
 
 Autoriza o cidadão brasileiro Ricardo Martins do Nascimento  a pesquisar mica e pedras coradas no Município de Conselheiro Pena, Estado de Minas Gerais.

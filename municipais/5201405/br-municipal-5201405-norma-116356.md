@@ -4,7 +4,8 @@ Institui Programa de Incentivo à Área Especial Aeroportuária I (AEAI), median
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA, APROVOU E EU, PREFEITO, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1° Fica instituído o Programa de Incentivo Fiscal à Área Especial Aeroportuária I (AEAI), destinado aos contribuintes que nela implantarem estabelecimentos, conforme delimitação da Lei Complementar nº 117, de 04 de janeiro de 2016.
@@ -17,10 +18,12 @@ II – isenção e redução de alíquota do Imposto Sobre a Propriedade Territo
 
 III – redução de alíquota do Imposto Sobre a Propriedade Predial Urbana - IPTU.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS INCENTIVOS FISCAIS
 
-Seção I<br>
+Seção I
+
 DO ISS
 
 Art. 3° A alíquota do ISS - Imposto Sobre Serviços de Qualquer Natureza, previsto no artigo 73, do Código Tributário Municipal, incidente sobre os serviços prestados ou tomados pelas empresas que se instalarem na Área Especial Aeroportuária I, será reduzida para 2% (dois por cento), pelo período de 20 (vinte) anos, vedada a prorrogação.
@@ -35,7 +38,8 @@ II – ter os veículos de sua propriedade licenciados no Município de Aparecid
 
 III – proceder à contratação de mão de obra, preferencialmente, de pessoas residentes no Município de Aparecida de Goiânia.
 
-Seção II<br>
+Seção II
+
 DO ITU
 
 Art. 5° Fica concedida a isenção do ITU - Imposto Sobre a Propriedade Territorial Urbana, previsto no artigo 6º, do Código Tributário Municipal, incidente sobre o imóvel situado na Área Especial Aeroportuária I.
@@ -56,7 +60,8 @@ Art. 9° Ocorrendo à primeira venda; cessão de direitos ou quaisquer transaç�
 
 §2º. Ocorrendo eventual distrato ou rescisão do contrato relativo à primeira venda, nos termos do que estabelece o artigo 8º, cessará a contagem do prazo definido no caput deste artigo, retornando ao imóvel o benefício da isenção previsto no artigo 6º, descontando-se o período já usufruído anterior à primeira operação da venda rescindida.
 
-Seção III<br>
+Seção III
+
 DO IPTU
 
 Art. 10 A alíquota do IPTU - Imposto Sobre a Propriedade Predial Urbana, previsto no artigo 13, do Código Tributário Municipal, referente aos imóveis edificados, situados na Área Especial Aeroportuária I, será reduzida até o 20º (vigésimo) ano, obedecendo ao seguinte escalonamento, por período:
@@ -69,7 +74,8 @@ III – alíquota de 0,3% (três décimos por cento) do 16º (décimo sexto) ao 
 
 Parágrafo único. Para a concessão do benefício constante do caput deste artigo, será necessária a emissão do "habite-se" do qual conste destinação do imóvel compatível com o interesse específico da Área Especial Aeroportuária I, nos termos da Lei Complementar Municipal nº 117, de 04 de janeiro de 2016.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO COMITÊ MUNICIPAL DE APOIO À ÁREA ESPECIAL AEROPORTUÁRIA I
 
 Art. 11 Fica constituído o Comitê Municipal de Apoio à Área Especial Aeroportuária I, ao qual caberá o acompanhamento e a fiscalização, juntamente com a Secretaria da Fazenda, na implementação do programa instituído nesta Lei.
@@ -90,7 +96,8 @@ Parágrafo único. A Presidência do Comitê será exercida pelo representante d
 
 Art. 13 O Comitê funcionará em caráter permanente, sendo normatizado por Regimento Interno aprovado por Decreto do Chefe do Poder Executivo.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS HIPÓTESES DE CASSAÇÃO DOS INCENTIVOS FISCAIS
 
 Art. 14 O benefício de redução de alíquota do ISS será cassado:
@@ -107,7 +114,8 @@ I – se o beneficiário não comunicar à Secretaria da Fazenda as situações 
 
 II – se o beneficiário descumprir os requisitos do artigo 4º, desta Lei.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 16 Os incentivos constantes desta Lei:
@@ -124,8 +132,10 @@ Art. 18 Esta Lei entra em vigor na data de sua publicação, revogando-se dispos
 
 Gabinete do Município de Aparecida Goiânia-GO, aos 17 de maio de 2019.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito
 
-OLAVO NOLETO ALVES<br>
+OLAVO NOLETO ALVES
+
 Chefe da Casa Civil

@@ -1,5 +1,3 @@
-###DEC-061745-0-000-23-11-1967@@@
-
 DECRETO Nº 61.745, DE 23 DE NOVEMBRO DE 1967.
 
 Autoriza o cidadão brasileiro Lázaro de Souza Moraes a lavrar feldspato e quartzo, no município de Socorro, Estado de São Paulo.

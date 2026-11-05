@@ -24,8 +24,6 @@ Art. 3º Este Decreto entra em vigor na data de sua publicação, porém produz 
 
 Goiânia, 15 de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

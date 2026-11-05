@@ -1,5 +1,3 @@
-###MPV-002041-0-008-28-07-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.041-8, DE 28 DE JUlHO DE 2000.
 
 Assegura percepção de gratificação por servidores da Carreira Policial Federal, e dá outras providências.

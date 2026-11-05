@@ -1,5 +1,3 @@
-###DEC-061921-0-000-19-12-1967@@@
-
 DECRETO Nº 61.921, DE 19 DE DEZEMBRO DE 1967.
 
 Declara de utilidade pública para fins de desapropriação, uma faixa de terra destinada a servir de assesso à torre de micro-ondas da Companhia Telefônica de Minas Gerais, localizada no Morro da Bandeira, no Município de Petrópolis, Estado do Rio de Janeiro.

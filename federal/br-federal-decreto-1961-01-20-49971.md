@@ -1,5 +1,3 @@
-###DEC-049971-0-000-20-01-1961@@@
-
 Decreto nº 49.971, de 20 de janeiro de 1961.
 
 Autoriza a cessão gratuita de terrenos de marinha e acrescidos de marinha, que menciona, situados em Fortaleza, Estado do Ceará.

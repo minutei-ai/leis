@@ -1,5 +1,3 @@
-###DEC-084579-0-000-19-03-1980@@@
-
 decreto nº 84.579, de 19 de março de 1980
 
 Dá nova redação ao artigo 17 do Estatuto da Fundação Projeto Rondon, aprovado pelo Decreto nº 83.400, de 03 de maio de 1979.

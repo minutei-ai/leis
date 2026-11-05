@@ -1,4 +1,5 @@
-ESTADO DE GOIÁS<br>
+ESTADO DE GOIÁS
+
 CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA
 
 EMENDA À LEI ORGÂNICA N° 006, DE 07 DE NOVEMBRO DE 2019.
@@ -13,5 +14,6 @@ Art. 2º- Está Emenda à Lei Orgânica entrará em vigor na data de sua publica
 
 Gabinete do Presidente da Câmara Municipal de Aparecida de Goiânia, aos 07 dias do mês de novembro de 2019.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Presidente da Câmara Municipal

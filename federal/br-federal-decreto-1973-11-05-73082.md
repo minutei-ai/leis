@@ -1,5 +1,3 @@
-###DEC-073082-0-000-05-11-1973@@@
-
 Decreto Nº 73.082 - DE 5 DE NOVEMBRO DE 1973
 
 Declara Zona Prioritária para Reforma Agrária as zonas fisiográficas Salineira Norte Riograndense Litoral de São Bento do Norte, Acu e Apodi, Sertão de Angicos, Serra Verde e Natal, no Estado do Rio Grande do Norte, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-060803-0-000-02-06-1967@@@
-
 DECRETO Nº 60.803, DE 2 DE JUNHO DE 1967.
 
 Considera de alto interêsse nacional a produção de celulose para exportação.

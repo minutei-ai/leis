@@ -1,5 +1,3 @@
-###DEC-047452-0-000-18-12-1959@@@
-
 decreto nº 47.452, de 18 de dezembro de 1959.
 
 Altera disposições do Regulamento de Promoções para Oficiais da Marinha.

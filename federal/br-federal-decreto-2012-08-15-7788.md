@@ -1,5 +1,3 @@
-###DEC-007788-0-000-15-08-2012-PUB-01@@@
-
 DECRETO N° 7.788, DE 15 DE AGOSTO DE 2012
 
 Regulamenta o Fundo Nacional de Assistência Social, instituído pela Lei n° 8.742, de 7 de dezembro de 1993, e dá outras providências.

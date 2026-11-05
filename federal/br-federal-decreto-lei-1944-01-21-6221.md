@@ -1,5 +1,3 @@
-###DEL-006221-0-000-21-01-1944@@@
-
 DECRETO-LEI N.  6.221 – DE 21 DE JANEIRO DE 1944
 
 Prorroga o prazo para concessão dos favores de que trata o decreto-lei n. 5.719, de 3 de agôsto de 1943, e dá outras providências

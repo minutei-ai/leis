@@ -1,5 +1,3 @@
-###DEL-005347-0-000-26-03-1943@@@
-
 DECRETO‑LEI N. 5.347– DE 26 DE MARÇO DE 1943
 
 Autoriza a Diretoria do Domínio da União a permitir que Alberto de Almeida Coimbra Transfira a Abel Mendes Pinheiro o domínio util de Acrescido de marinha

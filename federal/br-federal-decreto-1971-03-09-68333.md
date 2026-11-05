@@ -1,5 +1,3 @@
-###DEC-068333-0-000-09-03-1971@@@
-
 DECRETO Nº 68.333, DE 9 DE MARÇO DE 1971.
 
 Outorga à Light - Serviços de Eletricidade S.A. concessão para o aproveitamento hidráulico, de um trecho do rio Paraíba, no Estado de São Paulo.

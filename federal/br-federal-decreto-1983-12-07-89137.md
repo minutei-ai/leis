@@ -1,5 +1,3 @@
-###DEC-089137-0-000-07-12-1983@@@
-
 Decreto nº 89.137, de 07 de dezembro de 1983
 
 Autoriza o aumento do Capital Social da Companhia de Desenvolvimento do Amapá - CODEASA.

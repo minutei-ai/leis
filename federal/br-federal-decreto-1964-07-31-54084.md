@@ -1,5 +1,3 @@
-###DEC-054084-0-000-31-07-1964@@@
-
 DECRETO Nº 54.084, DE 31 DE JULHO DE 1964.
 
 Aprova a revisão dos Quadros de Pessoal do Departamento do Departamento Nacional de Estradas de Rodagem, e dá outras providências.

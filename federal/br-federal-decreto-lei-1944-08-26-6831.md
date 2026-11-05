@@ -1,5 +1,3 @@
-###DEL-006831-0-000-26-08-1944@@@
-
 DECRETO-LEI N. 6.831 – DE 26 DE AGÔSTO DE 1944
 
 Abre crédito suplementar ao Ministério do Trabalho, Indústria e Comércio, sem aumento de despesa

@@ -1,5 +1,3 @@
-###DEC-066865-0-000-13-07-1970@@@
-
 Decreto nº 66.865, de 13 de julho de 1970.
 
 Declara de utilidade pública a Fundação Educacional "Professor Ricardo de Souza Cruz" com sede em Curvelo,  Estado de Minas Gerais.

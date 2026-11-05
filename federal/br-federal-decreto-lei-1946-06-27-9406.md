@@ -1,5 +1,3 @@
-###DEL-009406-0-000-27-06-1946@@@
-
 DECRETO-LEI N. 9.406 – DE 27 DE JUNHO DE 1946
 
 Estende  à concessionária do Pôrto de Santos a percepção do produto do impôsto adicional de dez por cento, sôbre os direitos de importação realmente devidos, a que se refere o Decreto nº 24.577, de 4 de Julho de 1934, como receita complementar do tráfego dêsse Pôrto

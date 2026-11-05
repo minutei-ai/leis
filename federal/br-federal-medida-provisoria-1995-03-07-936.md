@@ -1,7 +1,3 @@
-1
-
-###MPV-000936-0-000-07-03-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 936, DE 7 DE MARÇO  DE 1995
 
 Dispõe sobre o pagamento dos servidores civis e militares do Poder Executivo Federal, inclusive suas autarquias e fundações, bem como dos empregados das empresas públicas e das sociedades de economia mista, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-080945-0-000-06-12-1977@@@
-
 Decreto nº 80.945, de 06 de dezembro de 1977.
 
 Autoriza a instituição de servidão de solo, em favor da concessão de lavra outorgada à Mineração e Química do Nordeste Ltda. pelo Decreto nº 73.943, de 16 de abril de 1974.

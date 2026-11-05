@@ -1,5 +1,3 @@
-###DEC-047703-0-000-22-01-1960@@@
-
 DECRETO Nº 47.703, DE 22 DE JANEIRO DE 1960.
 
 Cria, no Ministério da Fazenda, uma comissão especial encarregada de supervisionar e orientar a execução da campanha de combate ao contrabando.

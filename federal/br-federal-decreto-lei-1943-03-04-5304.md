@@ -1,5 +1,3 @@
-###DEL-005304-0-000-04-03-1943@@@
-
 DECRETO‑LEI N. 5.304 – DE 4 DE MARÇO DE 1943
 
 Prorroga o prazo para o pagamento do imposto sindical quando devido ao Fundo Social Sindical

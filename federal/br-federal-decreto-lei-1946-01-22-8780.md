@@ -1,5 +1,3 @@
-###DEL-008780-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.780 – DE 22 DE JANEIRO DE 1946
 
 Modifica o art. 1º do Decreto-lei nº 6.504, de 17 de maio de 1944, e dá outras providências.

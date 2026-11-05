@@ -1,5 +1,3 @@
-###DEL-007484-0-000-23-04-1945@@@
-
 DECRETO-LEI N. 7.484 – DE 23 DE ABRIL DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 6. 877,40, para pagamento de gratificação de magistério

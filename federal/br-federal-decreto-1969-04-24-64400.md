@@ -1,5 +1,3 @@
-###DEC-064400-0-000-24-04-1969@@@
-
 Decreto Nº 64.400, DE 24 DE ABRIL DE 1969.
 
 Autoriza funcionamento de Faculdade.

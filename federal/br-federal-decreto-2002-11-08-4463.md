@@ -1,5 +1,3 @@
-###DEC-004463-0-000-08-11-2002@@@
-
 DECRETO Nº 4.463, DE 8 DE NOVEMBRO DE 2002
 
 Promulga a Declaração de Reconhecimento da Competência Obrigatória da Corte Interamericana de Direitos Humanos, sob reserva de reciprocidade, em consonância com o art. 62 da Convenção Americana sobre Direitos Humanos (Pacto de São José), de 22 de novembro de 1969.

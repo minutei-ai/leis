@@ -1,5 +1,3 @@
-###DEC-057120-0-000-19-10-1965@@@
-
 DECRETO Nº 57.120, DE 19 DE OUTUBRO DE 1965.
 
 Autoriza a Central Elétrica de Furnas S.A a construir linha de transmissão.

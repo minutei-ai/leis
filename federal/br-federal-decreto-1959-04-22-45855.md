@@ -1,5 +1,3 @@
-###DEC-045855-0-000-22-04-1959@@@
-
 DECRETO Nº 45.855, DE 22 DE ABRIL DE 1959.
 
 Transfere da firma Frigorífica Ideal Sociedade Anônima para a Comissão Estadual de Energia Elétrica a concessão para produção e fornecimento de energia elétrica no distrito de Serafina Corrêa, município de Guaporé, Estado do Rio Grande do Sul.

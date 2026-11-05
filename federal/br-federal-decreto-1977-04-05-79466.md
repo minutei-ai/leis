@@ -1,5 +1,3 @@
-###DEC-079466-0-000-05-04-1977@@@
-
 decreto nº 79.466, de 5 de abril de 1977.
 
 Concede à STAF - Sociedade Técnica de Areia para Fundição Ltda. o direito de lavrar areia quartzosa no Município de Brotas, Estado de São Paulo.

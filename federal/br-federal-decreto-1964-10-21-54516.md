@@ -1,5 +1,3 @@
-###DEC-054516-0-000-21-10-1964@@@
-
 DECRETO Nº 54.516, DE 21 DE OUTUBRO DE 1964.
 
 Outorga à Prefeitura Municipal de Itapagipe, Estado de Minas Gerais, concessão para distribuir energia elétrica, e dá outras providências.

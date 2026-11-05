@@ -1,5 +1,3 @@
-###DEL-000249-0-000-28-02-1967@@@
-
 DECREtO-LEI Nº 249, DE 28 DE FEVEREIRO DE 1967
 
 Dispõe sôbre a reorganização da Companhia de Navegação do São Francisco.

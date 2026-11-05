@@ -1,5 +1,3 @@
-###DEC-002308-0-000-21-08-1997@@@
-
 DECRETO Nº 2.308, DE 21 DE AGOSTO DE 1997
 
 Desvincula ações do Fundo de Amortização da Dívida Pública Mobiliária Federal, de que trata o art.29 da Lei nº 9.069, de 29 de junho de 1995.

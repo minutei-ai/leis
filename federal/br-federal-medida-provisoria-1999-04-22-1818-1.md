@@ -1,5 +1,3 @@
-###MPV-001818-0-001-22-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.818-1, DE 22 DE ABRIL DE 1999.
 
 Estabelece normas para registro do resultado líquido negativo decorrente do ajuste dos valores em reais de obrigações e créditos, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-064117-0-000-14-02-1969@@@
-
 DECRETO Nº 64.117, DE 14 DE FEVEREIRO DE 1969.
 
 Cria Representações da Diretoria do Ensino Secundário do Ministério da Educação e Cultura.

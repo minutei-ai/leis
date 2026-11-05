@@ -1,5 +1,3 @@
-###DEC-053823-0-000-24-03-1964@@@
-
 DECRETO Nº 53.823, DE 24 DE MARÇO DE 1964.
 
 Autoriza o cidadão brasileiro João Girardeli a lavrar água mineral, no município de Monte Alegre do Sul, Estado de São Paulo.

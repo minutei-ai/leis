@@ -1,5 +1,3 @@
-###DEC-058446-0-000-17-05-1966@@@
-
 decreto nº 58.446, de 17 de maio de 1966.
 
 Autoriza Matogrominex Mineração e Exportação Ltda. a pesquisar minérios de ferro e de manganês no município de Aquidauana, Estado de Mato Grosso.

@@ -1,5 +1,3 @@
-###DEL-007862-0-000-13-08-1945@@@
-
 DECRETO-LEI N. 7.862 – DE 13 DE AGÔSTO DE 1945
 
 Desapropria, para fins de utilidade pública, um imóvel em São Gabriel, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-003635-0-000-18-09-1941@@@
-
 DECRETO-LEI N. 3.635 – DE 18 de SETEMBRO DE 1941
 
 Cria,  na Comissão de Defesa da Economia Nacional, a Junta Reguladora do Comércio da Laranja e dá outras providências

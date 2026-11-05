@@ -1,5 +1,3 @@
-###DEC-069568-0-000-22-11-1971@@@
-
 DECRETO Nº 69.568 - DE 22 DE NOVEMBRO DE 1971
 
 Declara de interêsse social, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, a área de terreno que especifica, no município de Guanambi, Estado da Bahia.

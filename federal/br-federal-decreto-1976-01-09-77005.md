@@ -1,5 +1,3 @@
-###DEC-077005-0-000-09-01-1976@@@
-
 decreto nº 77.005, de 9 de janeiro de 1976.
 
 Autoriza o registro, em nome da União Federal, dos Imóveis que menciona, situados no Estado da Bahia.

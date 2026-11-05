@@ -189,7 +189,3 @@ HÉLIO CARVALHO GARCIA
 Carlos Alberto Cotta
 
 Walfrido Silvino dos Mares Guia Neto
-
-\--------------------------------------------
-
-Data da última atualização: 5/7/2011.

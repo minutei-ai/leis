@@ -1,7 +1,3 @@
-1
-
-###DEC-001763-0-000-26-12-1995@@@
-
 DECRETO  nº 1.763, de 26 de dezembro de 1995
 
 Altera alíquota do imposto de importação incidente sobre os produtos que relaciona.

@@ -1,9 +1,5 @@
 ![](convert-5537811996361110960.001.png)
 
-CÂMARA DOS DEPUTADOS
-
-Centro de Documentação e Informação
-
 DECRETO-LEI Nº 8.547, DE 3 DE JANEIRO DE 1946
 
  Cria no Departamento Nacional da Produção Animal um Instituto de Zootecnica e dá outras providências.

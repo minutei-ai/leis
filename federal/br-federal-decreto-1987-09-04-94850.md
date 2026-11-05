@@ -1,5 +1,3 @@
-###DEC-094850-0-000-04-09-1987@@@
-
 DECRETO N° 94.850, DE 4 DE SETEMBRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Três Cancelas", classificado no Cadastro de Imóveis Rurais do INCRA, como latifúndio por exploração, situado nos Municípios de Japoatã e Pacatuba, Estado de Sergipe, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.687, de 19 de maio de 1986, e dá outras providências.

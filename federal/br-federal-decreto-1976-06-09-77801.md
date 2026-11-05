@@ -1,5 +1,3 @@
-###DEC-077801-0-000-09-06-1976@@@
-
 DECRETO N. º 77.801, DE 9 DE JUNHO DE 1976.
 
 Extingue o Asilo de Inválidos da Pátria e dá outras providências.

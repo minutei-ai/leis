@@ -1,5 +1,3 @@
-###DEL-001936-0-000-26-04-1982@@@
-
 # DecReTo-Lei nº 1.936, de 26 de abril de1982
 
 Dispõe sobre o empréstimo compulsório em favor da Centrais Elétricas Brasileiras S/A - ELETROBRÁS.

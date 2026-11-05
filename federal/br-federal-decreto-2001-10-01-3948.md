@@ -1,5 +1,3 @@
-###DEC-003948-0-000-01-10-2001@@@
-
 DECRETO Nº 3.948, DE 1º DE OUTUBRO DE 2001
 
 Dá nova redação a dispositivos do Decreto nº 3.648, de 30 de outubro de 2000, que dispõe sobre os cargos privativos de Oficial-General do Exército em tempo de paz, e dá outras providências.

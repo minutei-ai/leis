@@ -1,5 +1,3 @@
-###DEC-006376-0-000-19-02-2008@@@
-
 DECRETO Nº 6.376, DE 19 DE FEVEREIRO DE 2008.
 
 Promulga as Modificações aos Convênios Constitutivos da Corporação Financeira Internacional - CFI e do Banco Internacional para a Reconstrução e Desenvolvimento - BIRD.
@@ -20,11 +18,7 @@ Brasília, 19 de fevereiro de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Ruy Nunes Pinto Nogueira
-
-Este texto não substitui o publicado no DOU de 20.2.2008
-
-CORPORAÇÃO FINANCEIRA INTERNACIONAL- CFI
+Ruy Nunes Pinto NogueiraCORPORAÇÃO FINANCEIRA INTERNACIONAL- CFI
 
 ASSEMBLÉIA DE GOVERNADORES
 

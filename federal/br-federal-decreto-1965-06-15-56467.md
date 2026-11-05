@@ -1,5 +1,3 @@
-###DEC-056467-0-000-15-06-1965@@@
-
 DECRETO Nº 56.467, DE 15 DE JUNHO DE 1965.
 
 Estabelece normas a serem observadas pelos Conselhos Regionais do Trabalho Marítimo na elaboração da regulamentação local do trabalho dos vigias portuários e dá outras providências.

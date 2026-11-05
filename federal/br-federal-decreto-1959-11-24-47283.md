@@ -1,5 +1,3 @@
-###DEC-047283-0-000-24-11-1959@@@
-
 decreto nº 47.283, de 24 de novembro de 1959.
 
 Outorga à Prefeitura Municipal dos Autazes, Estado do Amazonas, concessão para distribuir energia elétrica.

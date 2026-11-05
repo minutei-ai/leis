@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212650)<br>
-
 # DECRETO N° 70.643, DE 25 DE MAIO DE 2026
 
 ### _Institui o Programa SUS Paulista Municipal, destinado ao custeio complementar da assistência hospitalar à saúde em média e alta complexidade e de serviços de terapia renal substitutiva, prestados diretamente pelos Municípios aos usuários do Sistema Único de Saúde no Estado de São Paulo._

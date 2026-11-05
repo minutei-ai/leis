@@ -1,5 +1,3 @@
-###DEL-006955-0-000-12-10-1944@@@
-
 DECRETO-LEI N. 6.955 – DE 12 DE OUTUBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar o “Centro Paulista” do pagamento do impôsto predial, na forma que menciona

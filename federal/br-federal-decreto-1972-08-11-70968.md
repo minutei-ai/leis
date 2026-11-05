@@ -1,5 +1,3 @@
-###DEC-070968-0-000-11-08-1972@@@
-
 DECRETO Nº 70.968, DE 11 DE AGOSTO DE 1972.
 
 Autoriza a efetivação da doação dos imóveis que menciona, situados em Cuiabá, Estado de Mato Grosso.

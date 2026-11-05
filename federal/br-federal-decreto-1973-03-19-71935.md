@@ -1,5 +1,3 @@
-###DEC-071935-0-000-19-03-1973@@@
-
 DECRETO Nº 71.935, DE 19 DE MARÇO DE 1973.
 
 Concede a Moacyr de Lima Valenti - Mineração o direito de lavrar calcário, no Município de Cantagalo, Estado do Rio de Janeiro.
@@ -27,8 +25,6 @@ Brasília, 19 de março de 1973; 152º da Independência e 85º da República.
 EMILIO G. MÉDICI
 
 Benjamim Mario Baptista
-
-###DEC-071935-0-000-19-03-1973@@@
 
 DECRETO Nº 71.935, DE 19 DE MARÇO DE 1973.
 

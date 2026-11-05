@@ -1,5 +1,3 @@
-###DEC-003272-0-000-03-12-1999@@@
-
 DECRETO Nº 3.272, DE 3 DE DEZEMBRO DE 1999.
 
 Aprova o Estatuto e o Quadro Demonstrativo dos Cargos em Comissão e Funções Gratificadas da Fundação Instituto Brasileiro de Geografia e Estatística – IBGE, e dá outras providências.

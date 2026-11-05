@@ -1,5 +1,3 @@
-###DEC-083006-0-000-10-01-1979@@@
-
 DECRETO Nº 83.006, DE 10 DE JANEIRO DE 1979
 
 Concede reconhecimento aos cursos de Letras e de Estudos Sociais, ministrados pela Faculdade de Educação, Filosofia, Ciências Sociais e de Documentação de Marília, Marília, São Paulo, mantida pela Universidade Estadual Paulista Júlio de Mesquita Filho, com sede na cidade de São Paulo, no mesmo Estado.

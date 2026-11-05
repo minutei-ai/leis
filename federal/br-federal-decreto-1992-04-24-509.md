@@ -1,7 +1,3 @@
-1
-
-###DEC-000509-0-000-24-04-1992@@@
-
 DECRETO Nº 509, DE 24 DE ABRIL DE 1992
 
 Aprova a Estrutura Regimental do Ministério do Trabalho e da Administração e dá outras providências.

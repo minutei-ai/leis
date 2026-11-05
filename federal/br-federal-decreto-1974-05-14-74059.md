@@ -1,5 +1,3 @@
-###DEC-074059-0-000-14-05-1974@@@
-
 DECRETO Nº 74.059, DE 14 DE MAIO DE 1974.
 
 Aprova alteração introduzida nos Estatutos da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

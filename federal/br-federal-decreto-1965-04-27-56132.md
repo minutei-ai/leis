@@ -1,5 +1,3 @@
-###DEC-056132-0-000-27-04-1965@@@
-
 Decreto nº 56.132, de 27 de abril de 1965.
 
 Concede à NOVA PÁTRIA COMPANHIA DE SEGUROS autorização para funcionar e aprova os seus Estatutos.

@@ -1,5 +1,3 @@
-###DEC-084717-0-000-19-05-1980@@@
-
 Decreto nº 84.717, de 19 de maio de 1980.
 
 Concede à Fertilizantes Fosfatados S.A. - FOSFÉRTIL, autorização para proceder ao aumento do limite de seu Capital Social.

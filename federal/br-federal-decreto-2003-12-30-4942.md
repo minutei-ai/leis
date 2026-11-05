@@ -1,5 +1,3 @@
-###DEC-004942-0-000-30-12-2003@@@
-
 DECRETO Nº 4.942,  DE 30 DE DEZEMBRO DE 2003.
 
 Regulamenta o processo administrativo para apuração de responsabilidade por infração à legislação no âmbito do regime da previdência complementar, operado pelas entidades fechadas de previdência complementar, de que trata o art. 66 da Lei Complementar nº 109, de 29 de maio de 2001, a aplicação das penalidades administrativas, e dá outras providências.

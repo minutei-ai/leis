@@ -1,5 +1,3 @@
-###DEL-002113-0-000-18-04-1984@@@
-
 # Decreto-lei nº 2.113, de 18 de abril de 1984.
 
 Revoga o art. 2º do Decreto-lei nº 2.087, de 22 de dezembro de 1983 e dá outras providências.

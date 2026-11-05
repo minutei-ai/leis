@@ -1,5 +1,3 @@
-###DEC-068152-0-000-01-02-1971@@@
-
 DECRETO Nº 68.152, DE 1º DE FEVEREIRO DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, para o Departamento Nacional de Obras Contra as Secas, e dá outras providências.

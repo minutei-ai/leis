@@ -1,5 +1,3 @@
-###DEC-083308-0-000-03-04-1979@@@
-
 Decreto nº 83.308, de 03 de abril de 1979.
 
 Promulga o Acordo Básico de Cooperação Industrial Brasil-México.

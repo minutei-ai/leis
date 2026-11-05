@@ -56,8 +56,6 @@ Art. 3º Este decreto entra em vigor na data de sua publicação, porém seus ef
 
 Goiânia, 02 de outubro de 2020; 132º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

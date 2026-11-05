@@ -1,5 +1,3 @@
-###DEC-081716-0-000-23-05-1978@@@
-
 Decreto nº 81 716, de 23 de maio de 1978.
 
 Autoriza a cessão sob a forma de utilização gratuita, do terreno que menciona, situado no Município de Duque de Caxias, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-073333-0-000-19-12-1973@@@
-
 DECRETO Nº 73.333 - DE 19 DE DEZEMBRO DE 1973
 
 Retifica o artigo 1º, do Decreto número 56.016, de 23 de abril de 1965, através do qual foi concedido ao cidadão brasileiro Jacob Algayer concessão para lavrar água mineral no Município de Cornélio Procópio, Estado do Paraná.

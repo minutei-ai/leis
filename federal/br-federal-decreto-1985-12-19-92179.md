@@ -1,5 +1,3 @@
-###DEC-092179-0-000-19-12-1985@@@
-
 Decreto nº 92.179 de 19 de dezembro de 1985.
 
 Autoriza o funcionamento do curso de Tecnólogo em Processamento de Dados das Faculdades Integradas de Ibirapuera.

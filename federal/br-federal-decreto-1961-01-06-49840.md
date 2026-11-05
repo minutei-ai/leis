@@ -1,5 +1,3 @@
-###DEC-049840-0-000-06-01-1961@@@
-
 Decreto nº 49.840, de 6 de janeiro de 1961.
 
 Dispõe sôbre a venda de produtos farmacêuticos e similares.

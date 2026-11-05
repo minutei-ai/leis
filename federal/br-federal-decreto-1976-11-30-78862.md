@@ -1,5 +1,3 @@
-###DEC-078862-0-000-30-11-1976@@@
-
 DECRETO Nº 78.862, DE 30 DE NOVEMBRO DE 1976.
 
 Concede a Pedro Marques dos Reis - firma individual o direito de lavrar quartzito no Município de Caeté, Estado de Minas Gerais.

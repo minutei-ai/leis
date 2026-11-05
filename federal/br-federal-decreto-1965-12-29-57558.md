@@ -1,5 +1,3 @@
-###DEC-057558-0-000-29-12-1965@@@
-
 DECRETO Nº 57.558, DE 29 DE DEZEMBRO DE 1965.
 
 Concede à Mineração Urucum Limitada autorização para funcionar como emprêsa de mineração.

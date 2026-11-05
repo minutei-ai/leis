@@ -1,5 +1,3 @@
-###DEC-082814-0-000-06-12-1978@@@
-
 DECRETO Nº 82.814, DE O6 DE DEZEMBRO DE 1978
 
 Altera a localização de Organização Militar no Ministério do Exército e dá outras providências.

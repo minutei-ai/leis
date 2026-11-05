@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209565)<br>
-
 # DECRETO N° 68.618, DE 15 DE JUNHO DE 2024
 
 ### _Transfere os cargos que especifica e dá providências correlatas._
@@ -22,8 +20,272 @@ Rafael Antonio Cren Benini   
 
 #### ANEXO I
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:none;border-left:none;border-right:none;border-top:none;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:5px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;"><strong>DENOMINAÇÃO DA CLASSE</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:5px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;"><strong>SUBQUADRO</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:5px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;"><strong>NOME</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:5px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;"><strong>RG</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:5px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;"><strong>DO</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:5px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;"><strong>PARA</strong></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">DYANA CHRISTINA PINHEIRO SILVA</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">32.106.255-3</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR II</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">VITOR THEODORO CARBONI</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">37.785.612-5</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR DE GABINETE I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">FABIANA TUCILIO FANIZZI</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">30.749.210-2</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR DE GABINETE II</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">MARINA FONTÃO ZAGO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">43.576.267-9</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TECNICO I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">IASMIN LOURENÇO NUNES VALVERDE</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">4.634.372-6</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO II</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">GABRIEL ROSA GRACINDO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">11.359.563-83 SSP/BA</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO III</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ARTHUR ABDALLAH MUNDIM</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">53.664.674-0</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO III</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">CAMILA CESAR DOS SANTOS</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">43.928.411-9</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO DE GABINETE IV</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">DAVID POLESSI DE MARAES</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">28.182.717-5</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO DE GABINETE IV</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">MARIANA CLARA ACERBI RAHAL</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">44.938.656-9</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO DE GABINETE IV</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">HELOISA MARIA DE SALLES PENTEADO</p><p style="margin-left:6pt;text-align:center;">PROÊNÇA</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">6.391.685-X</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO DE GABINETE IV</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">THIAGO MOREIRA FERREIRA</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">34.698.287-X</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">CHEFE DE GABINETE</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">DIEGO ALLAN VIEIRA DOMINGUES</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">27.476.792-2</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">EXECUTIVO PÚBLICO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-III</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">ELISABETE RUBBI</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">15.514.466-2</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">EXECUTIVO PÚBLICO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">SQC-III</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">MARIA JOSE FATORETO BORGES DO</p><p style="margin-left:6pt;text-align:center;">NASCIMENTO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">12.925.913-5</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:31px;padding:2px;vertical-align:top;width:126.781px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr></tbody></table>
+**DENOMINAÇÃO DA CLASSE**
+
+**SUBQUADRO**
+
+**NOME**
+
+**RG**
+
+**DO**
+
+**PARA**
+
+ASSESSOR I
+
+SQC-I
+
+DYANA CHRISTINA PINHEIRO SILVA
+
+32.106.255-3
+
+QCC
+
+QSPI
+
+ASSESSOR II
+
+SQC-I
+
+VITOR THEODORO CARBONI
+
+37.785.612-5
+
+QCC
+
+QSPI
+
+ASSESSOR DE GABINETE I
+
+SQC-I
+
+FABIANA TUCILIO FANIZZI
+
+30.749.210-2
+
+QCC
+
+QSPI
+
+ASSESSOR DE GABINETE II
+
+SQC-I
+
+MARINA FONTÃO ZAGO
+
+43.576.267-9
+
+QCC
+
+QSPI
+
+ASSESSOR TECNICO I
+
+SQC-I
+
+IASMIN LOURENÇO NUNES VALVERDE
+
+4.634.372-6
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO II
+
+SQC-I
+
+GABRIEL ROSA GRACINDO
+
+11.359.563-83 SSP/BA
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO III
+
+SQC-I
+
+ARTHUR ABDALLAH MUNDIM
+
+53.664.674-0
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO III
+
+SQC-I
+
+CAMILA CESAR DOS SANTOS
+
+43.928.411-9
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO DE GABINETE IV
+
+SQC-I
+
+DAVID POLESSI DE MARAES
+
+28.182.717-5
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO DE GABINETE IV
+
+SQC-I
+
+MARIANA CLARA ACERBI RAHAL
+
+44.938.656-9
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO DE GABINETE IV
+
+SQC-I
+
+HELOISA MARIA DE SALLES PENTEADO
+
+PROÊNÇA
+
+6.391.685-X
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO DE GABINETE IV
+
+SQC-I
+
+THIAGO MOREIRA FERREIRA
+
+34.698.287-X
+
+QCC
+
+QSPI
+
+CHEFE DE GABINETE
+
+SQC-I
+
+DIEGO ALLAN VIEIRA DOMINGUES
+
+27.476.792-2
+
+QCC
+
+QSPI
+
+EXECUTIVO PÚBLICO
+
+SQC-III
+
+ELISABETE RUBBI
+
+15.514.466-2
+
+QCC
+
+QSPI
+
+EXECUTIVO PÚBLICO
+
+SQC-III
+
+MARIA JOSE FATORETO BORGES DO
+
+NASCIMENTO
+
+12.925.913-5
+
+QCC
+
+QSPI
 
 #### ANEXO II
 
-<table style="background-color:rgb(255, 255, 255);border-bottom:none;border-left:none;border-right:none;border-top:none;"><tbody><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;"><strong>DENOMINAÇÃO DA CLASSE</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;"><strong>SUBQUADRO</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;"><strong>EX-OCUPANTE</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;"><strong>RG</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;"><strong>MOTIVO DA</strong></p><p style="margin-left:6pt;text-align:center;"><strong>VACÂNCIA</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;"><strong>DO</strong></p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:1px solid black;height:14px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:6pt;text-align:center;"><strong>PARA</strong></p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">CAMILA DONATO GARRIDO MODESTO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">1262454875 SSP/BA</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">EXONERAÇÃO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO II</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">CAMILA CESAR DOS SANTOS</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">43.928.411-9</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">EXONERAÇÃO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO III</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">ROGERIO NARCIZO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">14.992.121-0</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">EXONERAÇÃO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr><tr><td style="background-color:white;border-bottom:1px solid black;border-left:1px solid black;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">ASSESSOR TÉCNICO DE GABINETE IV</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">SQC-I</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">EDGARD BENOZATTI NETO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">46.006.423-X</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">EXONERAÇÃO</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.656px;"><p style="margin-left:6pt;text-align:center;">QCC</p></td><td style="background-color:white;border-bottom:1px solid black;border-left:none;border-right:1px solid black;border-top:none;height:37px;padding:2px;vertical-align:top;width:108.75px;"><p style="margin-left:6pt;text-align:center;">QSPI</p></td></tr></tbody></table>
+**DENOMINAÇÃO DA CLASSE**
+
+**SUBQUADRO**
+
+**EX-OCUPANTE**
+
+**RG**
+
+**MOTIVO DA**
+
+**VACÂNCIA**
+
+**DO**
+
+**PARA**
+
+ASSESSOR TÉCNICO I
+
+SQC-I
+
+CAMILA DONATO GARRIDO MODESTO
+
+1262454875 SSP/BA
+
+EXONERAÇÃO
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO II
+
+SQC-I
+
+CAMILA CESAR DOS SANTOS
+
+43.928.411-9
+
+EXONERAÇÃO
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO III
+
+SQC-I
+
+ROGERIO NARCIZO
+
+14.992.121-0
+
+EXONERAÇÃO
+
+QCC
+
+QSPI
+
+ASSESSOR TÉCNICO DE GABINETE IV
+
+SQC-I
+
+EDGARD BENOZATTI NETO
+
+46.006.423-X
+
+EXONERAÇÃO
+
+QCC
+
+QSPI

@@ -1,5 +1,3 @@
-###DEL-003085-0-000-03-03-1941@@@
-
 DECRETO-LEI 3.085 – DE 3 DE MARÇO DE 1941
 
 Dispõe sobre o registo de professores no Ministério da Educação e Saude e no Ministério do Trabalho, Indústria e Comércio

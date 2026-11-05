@@ -1,36 +1,34 @@
-###DEC-041955-0-000-03-08-1957@@@
+**DECRETO Nº 41.955, DE 3 DE AGÔSTO DE 1957.**
 
-<strong>DECRETO Nº 41.955, DE 3 DE AGÔSTO DE 1957.</strong>
+***Aprova o Regimento do Departamento Administrativo do Serviço Publico.***
 
-<em><strong>Aprova o Regimento do Departamento Administrativo do Serviço Publico.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o artigo 87, nº 1, da Constituição,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº 1, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º. Fica aprovado o Regimento do Departamento Administrativo do Serviço Público (D.A S.P), que com êste basta.
 
-<strong>Art</strong>. 1º. Fica aprovado o Regimento do Departamento Administrativo do Serviço Público (D.A S.P), que com êste basta.
-
-<strong>Art</strong>. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º. Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 3 de agôsto de 1957, 136º da Independência e 69º da Republica.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 
-<strong>REGIMENTO DO DEPARTAMENTO</strong>
+**REGIMENTO DO DEPARTAMENTO**
 
-<strong>ADMINISTRATIVO DO SERVIÇO</strong>
+**ADMINISTRATIVO DO SERVIÇO**
 
-<strong>PÚBLICO</strong>
+**PÚBLICO**
 
-<strong>TÍTULO I</strong>
+**TÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong> 1º. O Departamento Administrativo do Serviço Público (D. A S. P) diretamente subordinado ao Presidente da Republica, tem por finalidade o estudo e a orientação dos problemas da administração pública, exercendo suas atividades no sentido de cooperação e articulação com os órgãos do Serviço Federal.
+**Art** 1º. O Departamento Administrativo do Serviço Público (D. A S. P) diretamente subordinado ao Presidente da Republica, tem por finalidade o estudo e a orientação dos problemas da administração pública, exercendo suas atividades no sentido de cooperação e articulação com os órgãos do Serviço Federal.
 
-<strong>Art</strong>. 2º Ao D. A. S. P compete:
+**Art**. 2º Ao D. A. S. P compete:
 
 I estudar, pormenorizadamente, as repartições e estabelecimentos públicos, com o fim de determinar, do ponto de vista da economia e eficiência, as modificações a serem feitas na organização dos serviços públicos, sua distribuição e agrupamento dotações orçamentárias, condições e processos de trabalho, relações de uns com os outros e com o público;
 
@@ -62,11 +60,11 @@ XIV elaborar, anualmente, de acôrdo com as instruções do Presidente da Republ
 
 XV fiscalizar, por delegação do Presidente da Republica e na conformidade de suas instruções, a execução orçamentária.
 
-<strong>TITULO II</strong>
+**TITULO II**
 
-<em>Da Organização</em>
+*Da Organização*
 
-<strong>Art</strong>. 3º O D.A S.P compreende:
+**Art**. 3º O D.A S.P compreende:
 
 I Divisão de Orçamento e Organização (D.O.)
 
@@ -212,7 +210,7 @@ Turma de Transportes
 
 Parágrafo único. Possui D.A.S.P um Consultor Jurídico, diretamente subordinado ao Diretor Geral, nomeado em comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 4º Funcionam junto ao DASP os seguintes órgãos:
+**Art**. 4º Funcionam junto ao DASP os seguintes órgãos:
 
 I, Conselho de Administração (C.Ad)
 
@@ -224,35 +222,35 @@ IV, Escritório Técnico da Universidade do Brasil ( E.T.U.B ).
 
 V, Setor de Assistência Técnico Administrativa (S.A T.A ).
 
-<strong>Art</strong>. 5º O D.A.S.P será dirigido por um Diretor Geral, nomeado em Comissão, pelo Presidente da República.
+**Art**. 5º O D.A.S.P será dirigido por um Diretor Geral, nomeado em Comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 6º As Divisões os Serviços de Administração terão Diretores, nomeados em Comissão, pelo Presidente da República.
+**Art**. 6º As Divisões os Serviços de Administração terão Diretores, nomeados em Comissão, pelo Presidente da República.
 
-<strong>Art</strong>. 7º O Diretor Geral terá Assistentes Técnicos, os quais perceberão a gratificação pela representação de Gabinete que lhes fôr arbitrada pela referida autoridade, na forma da legislação vigente.
+**Art**. 7º O Diretor Geral terá Assistentes Técnicos, os quais perceberão a gratificação pela representação de Gabinete que lhes fôr arbitrada pela referida autoridade, na forma da legislação vigente.
 
 Parágrafo único. O Diretor Geral poderá, igualmente, conceder a gratificação prevista neste artigo ao pessoal subalterno com exercício em seu Gabinete.
 
-<strong>Art</strong>. 8º Para os Serviços do experiente, o Diretor Geral terá um Secretário e três Auxiliares de Gabinete.
+**Art**. 8º Para os Serviços do experiente, o Diretor Geral terá um Secretário e três Auxiliares de Gabinete.
 
-<strong>Art</strong>. 9º Os Diretores de Divisão e de Serviço, o Diretor dos Cursos de Administração e o consultor Jurídico, bem como os Chefes e Serviços, terão Secretários.
+**Art**. 9º Os Diretores de Divisão e de Serviço, o Diretor dos Cursos de Administração e o consultor Jurídico, bem como os Chefes e Serviços, terão Secretários.
 
-<strong>Art</strong>. 10º A Revista do Serviço Púbico Terá um Diretor; E.T.U.B, Os Serviços integrantes de Divisão, a Secretaria dos C A, as Seções, Biblioteca do S.D, os setores e a Portaria terão Chefes; as turmas de Administração, a turma de Orientação e Reclamações, a turma de Transportes e o Depósito do Material terão Encarregados.
+**Art**. 10º A Revista do Serviço Púbico Terá um Diretor; E.T.U.B, Os Serviços integrantes de Divisão, a Secretaria dos C A, as Seções, Biblioteca do S.D, os setores e a Portaria terão Chefes; as turmas de Administração, a turma de Orientação e Reclamações, a turma de Transportes e o Depósito do Material terão Encarregados.
 
-<strong>Art</strong>. 11º Os órgãos integrantes do D.A.S.P funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor Geral.
+**Art**. 11º Os órgãos integrantes do D.A.S.P funcionarão perfeitamente articulados, em regime de mútua colaboração, sob a orientação do Diretor Geral.
 
-<strong>TITULO III</strong>
+**TITULO III**
 
-<em>Da Competência dos Órgãos</em>
+*Da Competência dos Órgãos*
 
-<strong>CAPITULO I</strong>
+**CAPITULO I**
 
-<em>Do Conselho de Administração</em>
+*Do Conselho de Administração*
 
-<strong>Art</strong>. 12. O Conselho de Administração (C. Ad ) é um órgão normativo e integrante dos sistemas de organização, orçamento, pessoal e construção de edifícios públicos.
+**Art**. 12. O Conselho de Administração (C. Ad ) é um órgão normativo e integrante dos sistemas de organização, orçamento, pessoal e construção de edifícios públicos.
 
-<strong>Art</strong>. 13. O Conselho de Administração tem por finalidade promover a melhor coordenação e maior eficiência dos órgãos interessados em organização, orçamento pessoal e construção de edifícios públicos.
+**Art**. 13. O Conselho de Administração tem por finalidade promover a melhor coordenação e maior eficiência dos órgãos interessados em organização, orçamento pessoal e construção de edifícios públicos.
 
-<strong>Art</strong> 14. O Conselho de Administração compõe-se:
+**Art** 14. O Conselho de Administração compõe-se:
 
 I, quando convocado para deliberar sôbre problemas de Organização: - do Diretor da D.O do D.A S.P e dos Chefes de Seções de Organização e órgãos equivalentes, dos Ministérios;
 
@@ -262,23 +260,23 @@ III, quando convocada para deliberar sôbre problemas de pessoal: - dos Diretore
 
 IV, quando convocado para deliberar sôbre construção de edifícios públicos: do Diretor da D.E.P do D.A.S.P e dos Diretores das divisões de Obras ou órgãos equivalentes, dos Ministérios.
 
-<strong>Art</strong>. 15. As Reuniões do C. Ad serão presididas pelo Diretor Geral do D.A.S.P.
+**Art**. 15. As Reuniões do C. Ad serão presididas pelo Diretor Geral do D.A.S.P.
 
 Parágrafo único. Auxiliará os trabalhos do C. Ad, na qualidade de seu secretário do Diretor Geral do D.A.S.P .
 
-<strong>Art</strong>. 16. O C. Ad. Funcionará com a maioria absoluta de seus membros natos e, dentro de sua competência consultiva e orientadora, deliberará por maioria de votos.
+**Art**. 16. O C. Ad. Funcionará com a maioria absoluta de seus membros natos e, dentro de sua competência consultiva e orientadora, deliberará por maioria de votos.
 
-<strong>Art</strong>. 17. Compete ao Presidente do C. Ad. Convocar as reuniões, distribuir os trabalhos e determinar as atribuições de seu Secretário.
+**Art**. 17. Compete ao Presidente do C. Ad. Convocar as reuniões, distribuir os trabalhos e determinar as atribuições de seu Secretário.
 
 Parágrafo único. Quando necessário, o Presidente poderá convocar, para tomar parte nos trabalhos do mesmo Conselho, os dirigentes ou representantes de qualquer órgãos ou entidades cujas atividades interessem ao problemas em estudo.
 
-<strong>Art</strong>. 18. Nenhuma vantagem deverá corresponder ao exercício das funções de membro ou secretário do C. Ad., que serão, porém, consideradas serviço relevante.
+**Art**. 18. Nenhuma vantagem deverá corresponder ao exercício das funções de membro ou secretário do C. Ad., que serão, porém, consideradas serviço relevante.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Do setor de Assistência Técnico-Administrativa</em>
+*Do setor de Assistência Técnico-Administrativa*
 
-<strong>Art</strong>. 19. Compete ao S.A.T.A.:
+**Art**. 19. Compete ao S.A.T.A.:
 
 I, colaborar, mediante convênio com os Estados ou municípios e em estreita articulação com os órgãos específicos do D.A.P.S. nos empreendimentos tendentes à melhoria da administração direta ou indireta, de âmbito federal, estadual e municipal;
 
@@ -288,11 +286,11 @@ III, elaborar, em articulação com os setores interessados, programas de aperfe
 
 IV, estudar as propostas de assistência técnica bilateral, em matéria de administração pública, propondo a solução adequada ao Diretor-Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da Divisão de Orçamento</em>
+*Da Divisão de Orçamento*
 
-<strong>Art</strong>. 20. À Divisão de Orçamento e Organização (D.O.) compete:
+**Art**. 20. À Divisão de Orçamento e Organização (D.O.) compete:
 
 I, elaborar, anualmente, de acôrdo com as instruções do Presidente da República, a proposta de Orçamento da União, observados os princípios estabelecidos pela Constituição e pela legislação ordinária;
 
@@ -326,7 +324,7 @@ XV, sugerir modificações da organização administrativa resultante dos progra
 
 XVI, opinar em conjunto com o Departamento Federal de Compras do Ministério da Fazenda, a D.E.P. do D.A.S.P. e as repartições interessadas, sôbre os planos de aparelhamento, equipamento e instalação de serviço.
 
-<strong>Art</strong>. 31. Ao Serviço da Despesa (D. O.-1) compete:
+**Art**. 31. Ao Serviço da Despesa (D. O.-1) compete:
 
 I, efetuar estudos pormenorizados das propostas parciais de despesa, apresentadas pela repartições;
 
@@ -356,7 +354,7 @@ XIV, examinar quaisquer outras questões que, direta ou indiretamente, se prenda
 
 XV, desenvolver processo de contrôle da realização da despesa.
 
-<strong>Art</strong>. 22. Ao Serviço da Receita (D. O. -2) compete:
+**Art**. 22. Ao Serviço da Receita (D. O. -2) compete:
 
 I, elaborar a estimativa da receita da União para cada exercício financeiro;
 
@@ -384,7 +382,7 @@ XII, examinar tôdas as questões relativas à elaboração e execução do orç
 
 XIII, atender às consultas formuladas pelos órgãos arrecadadores, nos assuntos de sua competência.
 
-<strong>Art</strong>. 23. Ao Serviço de Autarquias (D. O.-3) compete:
+**Art**. 23. Ao Serviço de Autarquias (D. O.-3) compete:
 
 I, realizar estudos necessários à padronização dos critérios gerais e das formas especiais de que devem revestir-se os orçamentos, balanços e demonstrações de contas das autarquias, na forma do art. 5º do Decreto-lei nº 5.570, de 10 de junho de 1943;
 
@@ -404,7 +402,7 @@ VIII, sugerir aos órgãos incumbidos da aprovação dos orçamentos, balanços 
 
 IX, promover a divulgação dos orçamentos das entidades autárquicas, na forma do artigo 4º do Decreto-lei n º5.570, de 10 de junho de 1943;
 
-X, fornecer à D.O. -1 os elementos financeiros indispensáveis à fixação dos montantes necessários à cobertura dos “<em>deficits</em>” de operação de entidades autárquicas;
+X, fornecer à D.O. -1 os elementos financeiros indispensáveis à fixação dos montantes necessários à cobertura dos “*deficits*” de operação de entidades autárquicas;
 
 XI, emitir parecer sôbre as alterações orçamentárias das autarquias federais, inclusive adicionais e à concessão de adiantamentos através do Tesouro Nacional;
 
@@ -414,7 +412,7 @@ XIII, apresentar sugestões relativas ao aperfeiçoamento e melhor contrôle da 
 
 XIV, trazer o Diretor da D. O. periòdicamente informado quanto às condições econômico-financeiras das autarquias.
 
-<strong>Art</strong>. 24. Ao Serviço de Organização e Métodos (D.O. -4) compete:
+**Art**. 24. Ao Serviço de Organização e Métodos (D.O. -4) compete:
 
 A) Através da Seção de Organização:
 
@@ -468,13 +466,13 @@ XI, emitir parecer nos casos submetidos ao D.A.S.P. que versarem matéria de sua
 
 XII, realizar, em colaboração com as Seções de Organização dos ministérios, pesquisas e investigações nas repartições com o objetivo de simplifacar os métodos e processos de trabalho adotados.
 
-<strong>Art</strong>. 25. O Diretor da D.O terá três Assessôres Técnicos, que lhe serão diretamente subordinados.
+**Art**. 25. O Diretor da D.O terá três Assessôres Técnicos, que lhe serão diretamente subordinados.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Da Divisão de Pessoal</em>
+*Da Divisão de Pessoal*
 
-<strong>Art</strong>. 26. À D.P. compete:
+**Art**. 26. À D.P. compete:
 
 I, estudar, propor e administrar os planos de classificação e de remuneração dos cargos públicos e funções;
 
@@ -506,7 +504,7 @@ XIV, manter permanente articulação com os órgãos centrais de pessoal do serv
 
 XV, apreciar, na parte relativa a pessoal, os programas de trabalho dos órgãos do serviços público correspondentes à aplicação de dotações globais.
 
-<strong>Art</strong>. 27. Ao Serviço de Regime Jurídico compete o estudo, orientação e documentação das atividades de administração de pessoal relativas a provimento e vacância, direitos e vantagens, regime disciplinar e processo administrativo e sua revisão.
+**Art**. 27. Ao Serviço de Regime Jurídico compete o estudo, orientação e documentação das atividades de administração de pessoal relativas a provimento e vacância, direitos e vantagens, regime disciplinar e processo administrativo e sua revisão.
 
 § 1º À Seção de Orientação (D.P. - 1) compete:
 
@@ -536,7 +534,7 @@ III, estudar e elaborar anteprojetos de regulamentação complementar de disposi
 
 § 4º O Chefe do Serviço de Regime Jurídico terá três Assessores Técnicos, ao mesmo diretamente subordinados.
 
-<strong>Art</strong>. 28. Ao Serviço de Classificação e Remuneração compete o estudo, orientação, coordenação e documentação das atividades relativas a classificação de cargos e funções e fixação dos vencimentos e salários correspondentes.
+**Art**. 28. Ao Serviço de Classificação e Remuneração compete o estudo, orientação, coordenação e documentação das atividades relativas a classificação de cargos e funções e fixação dos vencimentos e salários correspondentes.
 
 § 1º À Seção de Estudos de Classificação e Remuneração (D.P -4) compete:
 
@@ -556,7 +554,7 @@ c) estudar a lotação e relotação de órgãos do serviço público.
 
 § 3º O Chefe do Serviço de Classificação e Remuneração terá três Assessôres Técnicos ao mesmo diretamente subordinados.
 
-<strong>Art</strong>. 29. Ao Serviço de Cadastro compete o contrôle, orientação e documentação dos registros relativos a cargos e funções da administração, direta e indireta.
+**Art**. 29. Ao Serviço de Cadastro compete o contrôle, orientação e documentação dos registros relativos a cargos e funções da administração, direta e indireta.
 
 § 1º À Seção de Cadastro do Pessoal de Administração Direta (D.P. - 6) compete:
 
@@ -606,13 +604,13 @@ II, manter registros numéricos e nominais, atualizados, referentes às funçõe
 
 III, examinar, na parte referente a pessoal, os programas de trabalho dos órgãos do serviço público, correspondentes à aplicação de dotações globais.
 
-<strong>Art</strong>. 30. O Diretor da Divisão de Pessoal terá três Assessores Técnicos, que lhe serão diretamente subordinados.
+**Art**. 30. O Diretor da Divisão de Pessoal terá três Assessores Técnicos, que lhe serão diretamente subordinados.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Da D.S.A.</em>
+*Da D.S.A.*
 
-<strong>Art</strong>. 31. À D.S.A. compete:
+**Art**. 31. À D.S.A. compete:
 
 I, estudar os processos de recrutamento, seleção e aperfeiçoamento do pessoal do Serviço Público Federal e aplicar ou propor os mais indicados;
 
@@ -646,7 +644,7 @@ XV, sugerir a aplicação de outras formas de aperfeiçoamento de pessoal, que s
 
 XVI, estabelecer contato permanente com órgãos ministeriais, para realizar eficientemente seus programas de atividades específicas.
 
-<strong>Art</strong>. 32. À Seção de Planejamento (D.S.A. -1) compete:
+**Art**. 32. À Seção de Planejamento (D.S.A. -1) compete:
 
 I, estudar e fixar os requisitos minímos indispensáveis ao eficiente exercício dos cargos e funções, articulando-se para êsse fim, com os órgãos capazes de fornecer elementos adequados;
 
@@ -662,7 +660,7 @@ VI, fornecer à D.S.A. -2 elementos para um recrutamento eficiente; e
 
 VII, fornecer à D.S.A. -3 e à D.S.A. -4 informações que interêssem à realização de suas atividades.
 
-<strong>Art</strong>. 33. À Seção de Recrutamento e Estudos (D.S.A. -2) compete:
+**Art**. 33. À Seção de Recrutamento e Estudos (D.S.A. -2) compete:
 
 I, propor e tomar providências destinados à criação, manuntenção e desenvolvimento dos mercados de trabalhos;
 
@@ -686,11 +684,11 @@ X, solicitar à D.S.A. -4 materiall para um recrutamento eficiente; e
 
 XI, apresentar ao Diretor relatórios técnicos sôbre os concursos e provas realizados.
 
-<strong>Art</strong>. 34. À Seção de Inscrições (D.S.A. -3) compete:
+**Art**. 34. À Seção de Inscrições (D.S.A. -3) compete:
 
 I, orientar os candidato, a fim de que concorram aos cargos e funções públicas com maiores possibilidades;
 
-II, solicitar dos órgãos de pessoal a relação dos interinos, a fim de realizar sua inscrição <em>ex</em> <em>officio</em>.
+II, solicitar dos órgãos de pessoal a relação dos interinos, a fim de realizar sua inscrição *exofficio*.
 
 III, abrir, encerrar, aprovar e cancelar inscrições, providenciando a publicação dos respectivos editais;
 
@@ -702,7 +700,7 @@ VI, manter em arquivo próprio a documentação relativa às atribuições relat
 
 VII, fornecer à D.S.A. -7, os dados necessários à manutenção do cadastro de candidatos e , às demais Seções, os elementos que lhe forem solicitados.
 
-<strong>Art</strong>. 35. À Seção de Organização e Julgamento de Provas (D.S.A. -4) compete:
+**Art**. 35. À Seção de Organização e Julgamento de Provas (D.S.A. -4) compete:
 
 I, convocar examinadores para organização e julgamento das provas;
 
@@ -730,7 +728,7 @@ XII, possuir arquivo das provas realizadas e dos respectivos padrões de julgame
 
 XIII, possuir atualizado um cadastro de examinadores, organizado por especialidades.
 
-<strong>Art</strong>. 36. À Seção de Execução de Provas (D.S.A -5) compete:
+**Art**. 36. À Seção de Execução de Provas (D.S.A -5) compete:
 
 I, convocar examinadores para execução de provas, bem como para julgamento de provas práticas e prático-orais;
 
@@ -762,7 +760,7 @@ XIV, manter atualizados cadastrosde executores, auxiliares e fiscais de provas; 
 
 XV, providenciar a expedição de certificados de habilitação em concursos e provas.
 
-<strong>Art</strong>. 37. À Seção de Aperfeiçoamento (D.S.A. -6) compete:
+**Art**. 37. À Seção de Aperfeiçoamento (D.S.A. -6) compete:
 
 I, realizar estudos e pesquisas destinados a verificar as deficiências dos servidores públicos em relação ao exercício das respectivas atribuições;
 
@@ -794,7 +792,7 @@ XIV, estudar e propor a adoção de normas relativas ao treinamento no trabalho;
 
 XV, fazer estudos sôbre programas, material didático e provas utilizados pelos C.A, a fim de obter informações seguras sôbre a eficiência do treinamento a cargo do D.A.S.P.
 
-<strong>Art</strong>. 38.À Seção de Registros (D.S.A -7) compete:
+**Art**. 38.À Seção de Registros (D.S.A -7) compete:
 
 I, organizar processos de comprovação das despesas da Divisão;
 
@@ -804,17 +802,17 @@ III, elaborar estatísticas das atividades da Divisão; e
 
 IV, manter atualizado um fichário nominal de candidatos que se submeteram a concurso ou prova de habilitação.
 
-<strong>Art</strong>. 39. Os Postos de Inscrição da D.S.A, nos Estados, subordinados diretamente ao Diretor da Divisão, funcionarão articulados com os demais órgãos do D.A.S.P.
+**Art**. 39. Os Postos de Inscrição da D.S.A, nos Estados, subordinados diretamente ao Diretor da Divisão, funcionarão articulados com os demais órgãos do D.A.S.P.
 
-<strong>Art</strong>. 40. O Diretor da D.S.A terá dois Assessôres Técnicos que serão diretamente subordinados.
+**Art**. 40. O Diretor da D.S.A terá dois Assessôres Técnicos que serão diretamente subordinados.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Da D.E.P.</em>
+*Da D.E.P.*
 
-<strong>Art</strong>. 41. À D.E.P. compete a elaboração de estudos e normas, bem como a orientação, o contrôle e a execução direta das medidas de ordem técnica, contábil ou administrativa, tendo em vista o mais completo, racional e econômico aparelhamento dos serviços públicos federais, no que diz respeito aos edifícios públicos e respectivos equipamentos.
+**Art**. 41. À D.E.P. compete a elaboração de estudos e normas, bem como a orientação, o contrôle e a execução direta das medidas de ordem técnica, contábil ou administrativa, tendo em vista o mais completo, racional e econômico aparelhamento dos serviços públicos federais, no que diz respeito aos edifícios públicos e respectivos equipamentos.
 
-<strong>Art</strong>. 42. À Seção de Estudos e Normas (D.E.P.-1) compete:
+**Art**. 42. À Seção de Estudos e Normas (D.E.P.-1) compete:
 
 I, estudar e sugerir regulamentação dos preceitos da legislação federal sôbre o aparelhamento dos serviços públicos federais em edifícios e seus equipamentos;
 
@@ -832,7 +830,7 @@ c) mantendo intercâmbio com instituições nacionais e estrangeiras de atividad
 
 V, estudar quaisquer outras questões concernentes aos edíficios públicos, propondo quando fôr o caso as medidas para a realização das conclusões a que houver chegado em seus estudos.
 
-<strong>Art</strong>. 43. À Seção de Orientação e Contrôle de Equipamentos (D.E.P.-2) compete:
+**Art**. 43. À Seção de Orientação e Contrôle de Equipamentos (D.E.P.-2) compete:
 
 I, orientar a aquisição de equipamentos para o Serviço Público Federal, verificando as fontes de produção e a circulação até aos fornecedores diretos;
 
@@ -850,7 +848,7 @@ IV, fazer os levantamentos e inquéritos necessários à realização da orienta
 
 V, acompanhar a execução orçamentária.
 
-<strong>Art</strong>. 44. À Seção de Orientação e Contrôle de Edifícios (D.E.P.-3) compete:
+**Art**. 44. À Seção de Orientação e Contrôle de Edifícios (D.E.P.-3) compete:
 
 I, orientar e controlar a execução de obras e a instalação de equipamentos fixos relativos a edifícios públicos federais particularmente:
 
@@ -874,7 +872,7 @@ c) participando da elaboração da síntese final;
 
 III. acompanhar a execução orçamentária.
 
-<strong>Art</strong>. 45. À Seção de Execução (D.E.P. -4) compete:
+**Art**. 45. À Seção de Execução (D.E.P. -4) compete:
 
 I, elaborar os projetos e especificações dos padrões de equipamento a serem adotados pelos serviços públicos federais, de acôrdo com os dados fornecidos pela D.E.P.-1;
 
@@ -888,27 +886,27 @@ b) aos edifícios públicos interessando diretamente ao D.A.S.P.;
 
 IV, dirigir nas hipóteses das alíneas do item precedente, a execução das obras e a instalação e demais serviços relativos aos equipamentos;
 
-V, elaborar, quando fôr o caso, projetos, especificações e orçamento em substituição aos que forem submetidos ao seu exame, na forma dos nº 1 e 2, alínea <em>c</em>, do parágrafo anterior; e
+V, elaborar, quando fôr o caso, projetos, especificações e orçamento em substituição aos que forem submetidos ao seu exame, na forma dos nº 1 e 2, alínea *c*, do parágrafo anterior; e
 
 VI, executar os desenhos que se fizerem precisos aos trabalhos da Divisão e aos dos demais órgãos do D.A.S.P.;
 
-<strong>Art</strong>. 46. O Diretor da D.E.P terá dois Assessôres Técnicos, que lhe serão diretamente subordinados.
+**Art**. 46. O Diretor da D.E.P terá dois Assessôres Técnicos, que lhe serão diretamente subordinados.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Dos C.A.</em>
+*Dos C.A.*
 
-<strong>Art</strong>. 47. Os C.A funcionarão como instituto de formação profissional de administradores para o serviço público federal, bem como de treinamento e aperfeiçoamento de servidores públicos em geral.
+**Art**. 47. Os C.A funcionarão como instituto de formação profissional de administradores para o serviço público federal, bem como de treinamento e aperfeiçoamento de servidores públicos em geral.
 
-<strong>Art</strong>. 48. Para atender ao disposto no artigo precedente, os C.A, compreenderão:
+**Art**. 48. Para atender ao disposto no artigo precedente, os C.A, compreenderão:
 
 I, cursos de formação profissional em Administração Pública;
 
 II, cursos avulsos destinados ao treinamento e ao aperfeiçoamento de servidores públicos em geral.
 
-<strong>Art</strong>. 49. Os C. A terão uma Secretaria, diretamente subordinada ao Diretor.
+**Art**. 49. Os C. A terão uma Secretaria, diretamente subordinada ao Diretor.
 
-<strong>Art</strong>. 50 À Secretaria dos C.A compete:
+**Art**. 50 À Secretaria dos C.A compete:
 
 I, cooperar na elaboração das instruções e programas para cursos, criados isolada ou devidamente articulados, com o fim de aperfeiçoar o pessoal para o serviço público;
 
@@ -934,17 +932,17 @@ XI, elaborar estimativas das despesas com material, pessoal e eventuais despesas
 
 XII, requisitar à Seção do Material do S.A, guardar e discutir o material necessário aos cursos;
 
-<strong>Art</strong>. 51. As atividades dos C.A para consecução dos fins previstos no art. 47, serão definidas em Regimento Interno, baixado pelo respectivo Diretor e aprovado pelo Diretor Geral.
+**Art**. 51. As atividades dos C.A para consecução dos fins previstos no art. 47, serão definidas em Regimento Interno, baixado pelo respectivo Diretor e aprovado pelo Diretor Geral.
 
-<strong>Art</strong>. 52. O Diretor dos C.A terá um Assessor Técnico que lhe será diretamente subordinado.
+**Art**. 52. O Diretor dos C.A terá um Assessor Técnico que lhe será diretamente subordinado.
 
-<strong>Art</strong>. 53. Fica mantido o Decreto nº 38.650, de 25 de janeiro de 1956, com a ressalva do art. 47 deste Regimento.
+**Art**. 53. Fica mantido o Decreto nº 38.650, de 25 de janeiro de 1956, com a ressalva do art. 47 deste Regimento.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>Do S.D</em>
+*Do S.D*
 
-<strong>Art</strong>. 54. Aos S.D. compete:
+**Art**. 54. Aos S.D. compete:
 
 I, coligir, ordenar, classificar, guardar, conservar e públicar os textos documentários, elementos estatísticos e dados discriminativos referentes às atividades do Departamento;
 
@@ -960,9 +958,9 @@ VI, editar a Revista do Serviço Público, o Boletim do D.A.S.P. e o Boletem de 
 
 VII, planejar, cordenar e sistematizar os levantamentos de estatísticas administrativa.
 
-<strong>Art</strong>. 55. À Revista do Serviço Público (S.D -1) compete divulgar matéria doutrinária, informativa, crítica, noticiosa de qualquer outro gênero, que contribua para maior difusão dos conhecimentos relativos à administração pública.
+**Art**. 55. À Revista do Serviço Público (S.D -1) compete divulgar matéria doutrinária, informativa, crítica, noticiosa de qualquer outro gênero, que contribua para maior difusão dos conhecimentos relativos à administração pública.
 
-<strong>Art</strong>. 56 À Biblioteca (S.D -2) compete:
+**Art**. 56 À Biblioteca (S.D -2) compete:
 
 I, adquirir, registrar, classificar, catalogar, guardar, conservar e permutar obras nacionais e estrangeiras de interêsse para o serviço público:
 
@@ -982,7 +980,7 @@ V, manter um pôsto de empréstimo de livros, junto aos Cursos de Administraçã
 
 § 4º O Chefe da Biblioteca organizará turmas de trabalho para atender aos serviços de referência, de empréstimo, de aquisição e de catalogação e classificação.
 
-<strong>Art</strong>. 57. À Seção de Documentação (S.D.-3) compete:
+**Art**. 57. À Seção de Documentação (S.D.-3) compete:
 
 I, coligir, classificar e conservar a documentação referente ao D.A.S.P. e a necessária ao estudo e orientação dos problemas de administração geral;
 
@@ -994,7 +992,7 @@ IV, coligir os dados necessários à elaboração do relatório anual do Diretor
 
 V, elaborar originais destinados à publicação.
 
-<strong>Art</strong>. 58. À Seção de Publicações (S.D.-4), compete:
+**Art**. 58. À Seção de Publicações (S.D.-4), compete:
 
 I, imprimir ou promover a impressão das publicações do S.D., excetuada a Revista do Serviço Público;
 
@@ -1004,13 +1002,13 @@ III, preparar e editar o Boletem de Pessoal e o Boletim do D.A P.; e
 
 IV. editar o Boletim Diário da T.O.R.
 
-<strong>Art</strong>. 59. A Seção de Estatística Administrativa (S.D.-5) compete:
+**Art**. 59. A Seção de Estatística Administrativa (S.D.-5) compete:
 
 I. proceder à coleta, apuração, crítica e interpretação da estatística administrativa, relativa às atividades do D.A.S.P. e dos demais órgão do serviço público;
 
 II. elaborar boletins periódicos de estatística administrativa, além de outros trabalhos de análise social na administração pública.
 
-<strong>Art</strong>. 60. A Seção de Expedição (S.D.-6) compete:
+**Art**. 60. A Seção de Expedição (S.D.-6) compete:
 
 I. manter sob sua guarda e contrôle tôdas as publicações a serem distribuídas pelo S.D.;
 
@@ -1020,7 +1018,7 @@ III. confeccionar e organizar fichários dos órgãos e pessoas interessadas nas
 
 IV.  expedir as publicações bem como distribuí-las internamente.
 
-<strong>Art</strong>. 61. Haverá, ainda, no S.D. diretamente subordinada ao respectivo Diretor uma Turma de Orientação e Reclamações (T.O.R.) com as seguintes atribuições:
+**Art**. 61. Haverá, ainda, no S.D. diretamente subordinada ao respectivo Diretor uma Turma de Orientação e Reclamações (T.O.R.) com as seguintes atribuições:
 
 I informar ao público a respeito dos assuntos peculiares ao D.A.S.P.;
 
@@ -1032,15 +1030,15 @@ IV. remeter ao Diretor-Geral por intermédio do Diretor do S.D., semanalmente, u
 
 V. preparar o Boletim Diário da T.O.R.
 
-<strong>Art</strong>. 62. O Diretor do S.D. terá um Assessor Técnico, que lhe será diretamente subordinado.
+**Art**. 62. O Diretor do S.D. terá um Assessor Técnico, que lhe será diretamente subordinado.
 
-<strong>CAPÍTULO IX</strong>
+**CAPÍTULO IX**
 
-<em>Do S.A.</em>
+*Do S.A.*
 
-<strong>Art</strong>. 63. Ao S.A. compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do D.A.S.P.
+**Art**. 63. Ao S.A. compete prestar os serviços de administração geral que se fizerem necessários à execução dos trabalhos do D.A.S.P.
 
-<strong>Art</strong>. 64. À Seção de Comunicações (S.A.-1) compete:
+**Art**. 64. À Seção de Comunicações (S.A.-1) compete:
 
 I. receber, registrar, distribuir, numerar, expedir e guardar a correspondência oficial e papéis relativos às atividades do D.A.S.P.;
 
@@ -1048,11 +1046,11 @@ II. atender ao público em seus pedidos de informações, bem como orientá-lo n
 
 III. expedir certidões, exceto as relativas a tempo de serviço prestado ao D.A.S.P; e
 
-IV. providenciar a publicação, no <em>Diário</em> Of<em>i</em>cial, do expediente do D.A.S.P.
+IV. providenciar a publicação, no *Diário* Of*i*cial, do expediente do D.A.S.P.
 
-Parágrafo único. O Chefe da <strong>S.C</strong>. poderá organizar turmas de trabalho para atender aos serviços de entrada, movimento, informações, arquivo, saída e expedição de papéis.
+Parágrafo único. O Chefe da **S.C**. poderá organizar turmas de trabalho para atender aos serviços de entrada, movimento, informações, arquivo, saída e expedição de papéis.
 
-<strong>Art</strong>. 65. À Seção do Pessoal (S.A.-2), destinada a tratar de assuntos relacionados com o pessoal em exercício no D.A.S.P., compete:
+**Art**. 65. À Seção do Pessoal (S.A.-2), destinada a tratar de assuntos relacionados com o pessoal em exercício no D.A.S.P., compete:
 
 I. apreciar questões relativas a direitos, vantagens, deveres e responsabilidades dos servidores, bem como a ação disciplinar que sôbre os mesmos possa incidir e, conforme o caso, orientar e fiscalizar a aplicação da legislação respectiva;
 
@@ -1084,7 +1082,7 @@ XIV. controlar a freqüência dos servidores em exercício no D.A.S.P.; e
 
 XV. empenhar despesa à conta dos créditos destinados a pessoal.
 
-<strong>Art</strong>. 66. À Seção de Material (S.A.-3) compete:
+**Art**. 66. À Seção de Material (S.A.-3) compete:
 
 I. lavrar os contratos relativos à aquisição do material;
 
@@ -1114,7 +1112,7 @@ XIII. manter registros financeiros relativos ao material; e
 
 XIV. fazer e manter atualizado o inventário do material do D.A.S.P.
 
-<strong>Art</strong>. 67. A Seção do Orçamento (S.A.-4) tem por finalidade a execução das medidas relativas ao orçamento do D.A.S.P., incumbindo-lhe:
+**Art**. 67. A Seção do Orçamento (S.A.-4) tem por finalidade a execução das medidas relativas ao orçamento do D.A.S.P., incumbindo-lhe:
 
 I. preparar a proposta orçamentária, dentro de programas aprovados e em perfeita harmonia com as normas e instruções expedidas pelo órgão competente;
 
@@ -1128,9 +1126,9 @@ V. fazer o balancete mensal dos créditos orçamentários e adicionais, de modo 
 
 VI. manter o registro dos responsáveis por adiantamento, controlando os respectivos prazos de comprovação.
 
-<strong>Art</strong>. 68. À Seção de Mecanografia (S.A.-5) compete executar, de modo geral, os trabalhos datilográficos e mimeográficos do D.A.S.P.
+**Art**. 68. À Seção de Mecanografia (S.A.-5) compete executar, de modo geral, os trabalhos datilográficos e mimeográficos do D.A.S.P.
 
-<strong>Art</strong>. 69. À Seção de Assistência Social (S.A.-6), que exercerá suas atividades articulada com a S.A.-2, compete:
+**Art**. 69. À Seção de Assistência Social (S.A.-6), que exercerá suas atividades articulada com a S.A.-2, compete:
 
 I. estabelecer medidas para socorro de urgência e medicina preventina;
 
@@ -1150,7 +1148,7 @@ VIII. providenciar sôbre a adoção de medidas para higienização dos locais d
 
 IX. organizar e manter atualizado arquivo médico, relativo aos servidores em exercício no D.A.S.P.
 
-<strong>Art</strong>. 70. À Portaria (S.A.-7) compete:
+**Art**. 70. À Portaria (S.A.-7) compete:
 
 I. prestar informações ao público sôbre a localização e funcionamento dos órgãos do D.A.S.P. bem como sôbre o local em que trabalham seus servidores;
 
@@ -1168,13 +1166,13 @@ VII. executar outros serviços, correlatos com suas atividades, que lhe forem at
 
 Parágrafo único. Haverá quatro ajudantes, na Portaria, que desempenharão as atribuições que lhes forem cometidas pelo Chefe respectivo.
 
-<strong>Art</strong>. 71. O Diretor do S.A. terá um Assessor Técnico, que lhe será diretamente subordinado.
+**Art**. 71. O Diretor do S.A. terá um Assessor Técnico, que lhe será diretamente subordinado.
 
-<strong>CAPÍTULO X</strong>
+**CAPÍTULO X**
 
-<em>Da T.A.</em>
+*Da T.A.*
 
-<strong>Art</strong>. 72. Às Turmas de Administração compete:
+**Art**. 72. Às Turmas de Administração compete:
 
 I. articular-se com a Seção de Comunicações e a Seção do Material do S.A., no que disser respeito aos trabalhos das Divisões ou Serviços a que pertençam;
 
@@ -1184,7 +1182,7 @@ III. controlar a movimentação de papéis dentro da Divisão ou Serviço, de ac
 
 IV. executar o trabalho de mecanografia, salvo o que deva ser feito pela Seção de Mecanografia do S.A.
 
-<strong>Art</strong>. 73. À T.A. do S.D. compete, além do enumerado no artigo anterior:
+**Art**. 73. À T.A. do S.D. compete, além do enumerado no artigo anterior:
 
 I. escriturar os créditos destinados às atividades específicas do seu setor;
 
@@ -1200,11 +1198,11 @@ VI. receber cheques, vales postais e ordens de pagamento provenientes de assinat
 
 VII. adquirir o material de consumo exclusivo do S.D., realizando, para tanto, concorrências e coletas de preços.
 
-<strong>TÍTULO IV</strong>
+**TÍTULO IV**
 
-<em>Das atribuições dos funcionários e extranumerários</em>
+*Das atribuições dos funcionários e extranumerários*
 
-<strong>Art</strong>. 74. Ao Diretor Geral incumbe:
+**Art**. 74. Ao Diretor Geral incumbe:
 
 I. despachar com os Diretores de Divisão, de Serviço, dos Cursos de Administração e com o Consultor Jurídico;
 
@@ -1252,9 +1250,9 @@ XXII. criar e extinguir Postos de Inscrições da D.S.A. nos Estados; e
 
 XXIII. apresentar, anualmente, ao Presidente da República, relatório das atividades do D.A.S.P.
 
-<strong>Art</strong>. 75. Cabe ao Consultor Jurídico emitir pareceres, de natureza jurídica, nos assuntos submetidos ao seu exame, por determinação do Diretor-Geral.
+**Art**. 75. Cabe ao Consultor Jurídico emitir pareceres, de natureza jurídica, nos assuntos submetidos ao seu exame, por determinação do Diretor-Geral.
 
-<strong>Art</strong>. 76. Aos Diretores de Divisão, de Serviço e dos Cursos de Administração incumbe:
+**Art**. 76. Aos Diretores de Divisão, de Serviço e dos Cursos de Administração incumbe:
 
 I. orientar, dirigir e fiscalizar os trabalhos dos órgãos sob sua direção;
 
@@ -1292,7 +1290,7 @@ XVII. apresentar, anualmente, ao Direor-Geral, relaório sobre as atividades do 
 
 Parágrafo único. Aplicam-se ao Consultor Jurídico, no que couberem, as disposições estabelecidas neste artigo.
 
-<strong>Art</strong>. 77.  Ao Diretor da D.S.A. cabe, além do enumerado no artigo anterior:
+**Art**. 77.  Ao Diretor da D.S.A. cabe, além do enumerado no artigo anterior:
 
 I. assinar os certificados de habilitação em concursos e provas;
 
@@ -1314,7 +1312,7 @@ IX. autorizar despesas correspondentes às atividades específicas da Divisão, 
 
 X. propor ao Diretor-Geral a criação ou extinção de Postos de Instruções, nos Estados bem como a designação e dispensa dos encarregados respectivos.
 
-<strong>Art</strong>. 78. Ao Diretor dos C.A. cabe, além do enumerado no art. 76:
+**Art**. 78. Ao Diretor dos C.A. cabe, além do enumerado no art. 76:
 
 I. baixar regimento interno, com aprovação do Diretor-Geral, para a cosecução dos fins dos C.A.;
 
@@ -1332,7 +1330,7 @@ VII. julgar recursos de revisão de provas e outros de sua alçada; e
 
 VIII. designar servidores como auxiliares de professôres na correção e fiscalização das provas bem como nos trabalhos de coodernação dos cursos.
 
-<strong>Art</strong>. 79. Ao Diretor do S.D., além do enumerado no art. 76, cabe:
+**Art**. 79. Ao Diretor do S.D., além do enumerado no art. 76, cabe:
 
 I. autorizar a publicação dos trabalhos elaborados pelo Serviço ou a êste encaminhados;
 
@@ -1340,7 +1338,7 @@ II. visar o material destinado à divulgação; e
 
 III. auttorizar despesas e ordenar pagamentos, dentro dos crédios próprios, sorrespondentes às atividades especificas do Serviço.
 
-<strong>Art</strong>. 80. ao Diretor S.A., além do enumerado no art. 76 cabe:
+**Art**. 80. ao Diretor S.A., além do enumerado no art. 76 cabe:
 
 I. dar posse aos providos em cargo ou em fução gratificada do Quadro do D.A.S.P., resalvada a competência prevista no art. 74, item XV, deste regimento;
 
@@ -1348,9 +1346,9 @@ II. conceder licenças, salvo as referidas no art. 74, item IX, dêste Regimento
 
 III. requisitar transporte para atendimento de atos baixados pelo Diretor-Geral.
 
-<strong>Art</strong>. 81 Aos ocupantes de função ratificada de Assessor Técnico e aos Assistentes Técnicos cabe o desempenho das atribuição de natureza especializada que lhes forem comedidas pelos respectivos superiores hierárquicos.
+**Art**. 81 Aos ocupantes de função ratificada de Assessor Técnico e aos Assistentes Técnicos cabe o desempenho das atribuição de natureza especializada que lhes forem comedidas pelos respectivos superiores hierárquicos.
 
-<strong>Art</strong>. 82. Ao Diretor da Revista do Serviço Público aos Chefes do E.T.U.B., DE Serviço de Seção, de Setor, da Secretaria dos C.A., da Biblioteca e da Portaria, bem como aos Encarregados de Turma e do Depósito de Material, no que lhes couber, cabe:
+**Art**. 82. Ao Diretor da Revista do Serviço Público aos Chefes do E.T.U.B., DE Serviço de Seção, de Setor, da Secretaria dos C.A., da Biblioteca e da Portaria, bem como aos Encarregados de Turma e do Depósito de Material, no que lhes couber, cabe:
 
 I. dirigir e fiscalizar os trabalhos dos órgãos sob sua responsabilidade;
 
@@ -1366,7 +1364,7 @@ V. apresentar ao superior hierárquico relátorio dos trabalhos realizados pela 
 
 § 2º Aos Chefes de Serviço cabe a designação e dispensa dos seus Secretários.
 
-<strong>Art</strong>. 83. Aos Secretários do Diretor-Geral, dos Diretores de Divisão e de Serviço, do Consultor Jurídico e dos Chefes de Serviço cabe:
+**Art**. 83. Aos Secretários do Diretor-Geral, dos Diretores de Divisão e de Serviço, do Consultor Jurídico e dos Chefes de Serviço cabe:
 
 I. atender às pessoas que desejarem comunicar-se com a autoridade junto as quais servirem, encaminhando-as ou dando a estas conhecimento do assunto a tratar;
 
@@ -1376,9 +1374,9 @@ III. datilografar ou providenciar para que sejam datilografados os expedientes r
 
 IV. coordenar ou executar as tarefas específicas de que forem encarregados.
 
-<strong>Art</strong>. 84. Aos servidores com exercício no Gabinete do Diretor-Geral incumbe executar os encargos que lhes forem determinados pelo mesmo ou por intermédio do seu Secretário.
+**Art**. 84. Aos servidores com exercício no Gabinete do Diretor-Geral incumbe executar os encargos que lhes forem determinados pelo mesmo ou por intermédio do seu Secretário.
 
-<strong>Art</strong>. 85. Ao Chefe da Portaria, além do disposto no art. 82, cabe:
+**Art**. 85. Ao Chefe da Portaria, além do disposto no art. 82, cabe:
 
 I. determinar os plantões e escala de serviço e fiscalizar pessoalmente a execução dos trabalhos a cargo do pessoal que lhe fôr subordinado;
 
@@ -1386,27 +1384,27 @@ II. atender, com presteza, aos pedidos e reclamações  dos órgãos do D.A.S.P
 
 III.  fiscalizar o uso do uniforme dos contínuos, serventes e mensageiros.
 
-<strong>Art</strong>. 86. Ao Encarregado do Depósito do Material da S.A.-3 incumbe zelar pela guarda do material em depósito, controlando sua movimentação.
+**Art**. 86. Ao Encarregado do Depósito do Material da S.A.-3 incumbe zelar pela guarda do material em depósito, controlando sua movimentação.
 
-<strong>Art</strong>. 87. Ao Encarregado da Turma de Transportes, diretamente subordinados ao Diretor do S.A. cabe, além do disposto no art. 82, zelar pela conservação dos veículos, fiscalizados a entrada e saída dos mesmos e controlar o horário a que estiverem sujeitos os motoristas.
+**Art**. 87. Ao Encarregado da Turma de Transportes, diretamente subordinados ao Diretor do S.A. cabe, além do disposto no art. 82, zelar pela conservação dos veículos, fiscalizados a entrada e saída dos mesmos e controlar o horário a que estiverem sujeitos os motoristas.
 
-<strong>Art</strong>. 88. Aos Servidores, em geral, com exercício no D.A.S.P., incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
+**Art**. 88. Aos Servidores, em geral, com exercício no D.A.S.P., incumbe executar os trabalhos que lhes forem determinados pelo Chefe imediato.
 
-<strong>TÍTULO V</strong>
+**TÍTULO V**
 
-<em>Do honorário</em>
+*Do honorário*
 
-<strong>Art</strong>. 89. O horário normal do trabalho será fixa pelo Diretor-Geral do D.A.S.P., respeitado o número de horas semanais ou mensais estabelecido para Serviço Público.
+**Art**. 89. O horário normal do trabalho será fixa pelo Diretor-Geral do D.A.S.P., respeitado o número de horas semanais ou mensais estabelecido para Serviço Público.
 
-<strong>Art</strong>. 90. O Diretor, os Diretores de Divisão ou de Serviço, o Diretor dos C. A. e o Consultor Jurídico não ficam sujeitos a ponto, devendo porém, observar o horário fixado na legislação vigente.
+**Art**. 90. O Diretor, os Diretores de Divisão ou de Serviço, o Diretor dos C. A. e o Consultor Jurídico não ficam sujeitos a ponto, devendo porém, observar o horário fixado na legislação vigente.
 
 Parágrafo único. À critério do Diretor-Geral, os ocupantes de funções gratificadas e os Assistentes técnicos também poderão ficar isentos do ponto, na forma deste artigo.
 
-<strong>TÍTULO VI</strong>
+**TÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 91. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
+**Art**. 91. Serão substituídos, automàticamente, em suas faltas e impedimentos eventuais, até 30 dias:
 
 I. O Diretor-Geral, por um Diretor de Divisão:
 
@@ -1422,4 +1420,4 @@ IV. o Diretor da Revista do Serviço Público o Chefe da Secretária dos Cursos 
 
 Rio de Janeiro, em 3 de agôsto de 1957.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**

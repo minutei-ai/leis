@@ -1,5 +1,3 @@
-###DEC-006724-0-000-12-01-2009@@@
-
 DECRETO Nº 6.724, DE 12 DE JANEIRO DE 2009.
 
          Acresce inciso ao art. 2o do Decreto nº 1.791, de 15 de janeiro de 1996, que institui, no âmbito do Ministério da Ciência e Tecnologia, o Comitê Nacional de Pesquisas Antárticas - CONAPA.

@@ -1,5 +1,3 @@
-###DEC-091393-0-000-02-07-1985@@@
-
 DECreto nº 91.393, de 02 de julho de 1985
 
 Renova a concessão outorgada à RÁDIO ITAPERUNA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itaperuna, Estado do Rio de Janeiro.

@@ -1,5 +1,3 @@
-###DEC-005859-0-000-26-07-2006@@@
-
 DECRETO Nº 5.859, DE 26 DE JULHO DE 2006.
 
 Dá nova redação aos arts. 19 e 21 do Estatuto da Companhia de Desenvolvimento dos Vales do São Francisco e do Parnaíba - CODEVASF, aprovado pelo Decreto no 3.604, de 20 de setembro de 2000.
@@ -37,5 +35,3 @@ LUIZ INÁCIO LULA DA SILVA
       Paulo Bernardo Silva
 
       Pedro Brito do Nascimento
-
-Este texto não substitui o publicado no D.O.U. de 27.7.2006

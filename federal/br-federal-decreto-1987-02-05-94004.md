@@ -1,5 +1,3 @@
-###DEC-094004-0-000-05-02-1987@@@
-
 DECRETO Nº 94.004, DE 05 DE FEVEREIRO DE 1987
 
 Outorga concessão ao SISTEMA CLUBE DE COMUNICAÇÃO LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Ribeirão Preto, Estado de São Paulo.

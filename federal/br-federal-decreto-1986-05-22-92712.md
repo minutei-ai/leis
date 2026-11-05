@@ -1,5 +1,3 @@
-###DEC-092712-0-000-22-05-1986@@@
-
 DECRETO Nº 92.712, DE 22 DE MAIO DE 1986
 
 Declara de utilidade pública para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro S.A. - PETROBRÁS, os imóveis constituídos de terras e benfeitorias, de propriedade particular, situados nos municípios de Alto do Rodrigues, Pendências, Macau e Guamaré, no Estado do Rio Grande do Norte, necessários à construção de dutos ligando a região do Estreito a Guamaré, e dá outras providências.

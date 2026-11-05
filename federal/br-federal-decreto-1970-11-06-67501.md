@@ -1,5 +1,3 @@
-###DEC-067501-0-000-06-11-1970@@@
-
 dECRETO Nº 67.501, DE 6 DE NOVEMBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento de Polícia Federal cargo originário da extinta Companhia Nacional de Navegação Costeira - Autarquia Federal.

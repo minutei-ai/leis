@@ -1,5 +1,3 @@
-###DEL-002007-0-000-11-01-1983@@@
-
 # Decreto-lei nº 2.007, de 11 de janeiro de 1983
 
 Reajusta os vencimentos e proventos dos funcionários do Quadro das Secretarias da Justiça Federal de Primeira Instância e dá outras providências.

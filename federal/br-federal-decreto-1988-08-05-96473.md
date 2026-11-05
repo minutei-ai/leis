@@ -1,5 +1,3 @@
-###DEC-096473-0-000-05-08-1988@@@
-
 DECRETO N° 96.473, DE 5 DE AGOSTO DE 1988
 
 Autoriza o funcionamento do curso superior de Tecnologia em Processamento de Dados da Fundação Pinhalense de Ensino.

@@ -1,5 +1,3 @@
-###DEC-007529-0-000-21-07-2011-PUB-01@@@
-
 DECRETO Nº 7.529, DE 21 DE JULHO DE 2011
 
 Aprova a Estrutura Regimental e o Quadro Demonstrativo dos Cargos em Comissão e das Funções Gratificadas do Ministério do Esporte.

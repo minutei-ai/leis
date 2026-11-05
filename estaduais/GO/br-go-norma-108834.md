@@ -22,7 +22,8 @@ VI – (VETADO);
 
 VII – (VETADO).
 
-Art. 3º  Esta Lei poderá ser regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.<br>
+Art. 3º  Esta Lei poderá ser regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.
+
 [\- Redação dada pela Lei nº 22.734, de 4-6-2024.](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108896)
 
 ~~Art. 3º Esta Lei poderá será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.~~
@@ -30,8 +31,6 @@ Art. 3º  Esta Lei poderá ser regulamentada pelo Poder Executivo, que estabele
 Art. 4º Esta Lei entra em vigor na data de sua publicação.
 
 Goiânia, 10 de maio de 2024; 136º da República.
-
-<br>
 
 RONALDO CAIADO
 

@@ -1,5 +1,3 @@
-###DEC-004979-0-000-03-02-2004@@@
-
 DECRETO Nº 4.979,  DE 3 DE FEVEREIRO DE 2004.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo a República Oriental do Uruguai para a Construção de uma Segunda Ponte sobre o Rio Jaguarão, nas Proximidades das Cidades de Jaguarão e Rio Branco, e Recuperação da atual Ponte Barão de Mauá, celebrado em 21 de novembro de 2000.

@@ -1,5 +1,3 @@
-###DEC-064491-0-000-12-05-1969@@@
-
 DECRETO Nº 64.491, DE 12 DE MAIO DE 1969.
 
 Inclui o Centro de Adestramento "Almirante Marques de Leão" na Estrutura Orgânica do Ministério da Marinha.

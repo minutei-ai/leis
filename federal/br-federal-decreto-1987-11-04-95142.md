@@ -1,5 +1,3 @@
-###DEC-095142-0-000-04-11-1987@@@
-
 DECRETO Nº 95.142, DE 4 DE NOVEMBRO DE 1987
 
 Inclui a Companhia Guatapará de Celulose e PAPEL-CELPAG no Programa de Privatização.

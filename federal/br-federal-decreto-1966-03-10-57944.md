@@ -1,5 +1,3 @@
-###DEC-057944-0-000-10-03-1966@@@
-
 DECRETO Nº 57.944, DE 10 DE MARÇO DE 1966.
 
 Autoriza a Indústria Brasileira de Artigos Refratários S.A. - IBAR - a lavrar magnesita, no município de Iguatu, Estado do Ceará.

@@ -1,5 +1,3 @@
-###DEC-080939-0-000-06-12-1977@@@
-
 DECRETO Nº 80.939, DE 06 DE DEZEMBRO DE 1977.
 
 Concede à Misapel - Mineração Sapé Ltda. o direito de lavrar minério de manganês no Município de Jacobina, Estado da Bahia.

@@ -1,5 +1,3 @@
-###DEC-006719-0-000-29-12-2008@@@
-
 DECRETO Nº 6.719, DE 29 DE DEZEMBRO DE 2008.
 
 Promulga o Acordo Básico de Cooperação Técnica entre o Governo da República Federativa do Brasil e o Governo da República da Nicarágua, celebrado em Manágua, em 2 de fevereiro de 2006.

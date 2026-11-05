@@ -1,5 +1,3 @@
-###DEC-052606-0-000-02-10-1963@@@
-
 Decreto Nº 52.606, DE 2 DE OUTUBRO DE 1963.
 
 Outorga, ao Govêrno do Estado do Rio de Janeiro, concessão para distribuir energia elétrica no Município de Magé, e dá outras providências.

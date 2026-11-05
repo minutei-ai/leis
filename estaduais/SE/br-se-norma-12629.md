@@ -34,6 +34,4 @@ Cristiano Barreto Guimarães
 
 Secretário Especial de Governo
 
-_Iniciativa dos Deputados Marcelo Sobral – União, Chico do Correio – PT, Garibalde Mendonça – MDB, Jeferson Andrade – PSD, Jorginho Araujo – PSD, Kaká Santos – União, Lidiane Lucena – União, Luciano Bispo – PSD e Luciano Pimentel – PL_
-
-Este texto não substitui o publicado no D.O.E. de 29.09.2026.
+_Iniciativa dos Deputados Marcelo Sobral – União, Chico do Correio – PT, Garibalde Mendonça – MDB, Jeferson Andrade – PSD, Jorginho Araujo – PSD, Kaká Santos – União, Lidiane Lucena – União, Luciano Bispo – PSD e Luciano Pimentel – PL

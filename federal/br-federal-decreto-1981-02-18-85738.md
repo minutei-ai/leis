@@ -1,5 +1,3 @@
-###DEC-085738-0-000-18-02-1981@@@
-
 decreto nº 85.738, de 18 DE fevereiro de 1981.
 
 Cria a Embaixada do Brasil na Comunidade Domínica.

@@ -1,5 +1,3 @@
-###DEC-088037-0-000-13-01-1983@@@
-
 DECRETO Nº 88.037, DE 13 DE JANEIRO DE 1983
 
 Fixa as proporções para o cálculo do número mínimo de vagas que deveriam ser abertas em 1982, para a aplicação de Quota Compulsória do Ministério da Marinha.
@@ -10,7 +8,193 @@ DECRETA:
 
 Art. 1º - Para o fim de aplicação da Quota Compulsória na forma do disposto nos item IV, V, VI e VII do artigo 61 da Lei nº 6.880 de 9 de dezembro de 1980, ficam fixadas para o ano de 1982 as proporções abaixo discriminadas para os diversos Corpos e Quadros dos Oficiais da Marinha:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">I - CORPO DA ARMADA</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Proporções:</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">10/103</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">II - CORPO DE FUZILEIROS NAVAIS</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">2/13</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">III - CORPO DE ENGENHEIROS E TÉCNICOS NAVAIS</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">IV - CORPO DE INTENDENTES DA MARINHA</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">V - CORPO DE SAÚDE DA MARINHA</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Quadro de Médicos</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Quadro de Farmacêuticos</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">c) Quadro de Cirurgiões-Dentistas</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Mar-e-Guerra.....................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/8</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/20</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">VI - QUADRO DE OFICIAIS AUXILIARES</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">a) Quadro de Oficiais Auxiliares da Armada</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/4</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes...............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">b) Quadro de Oficiais Auxiliares do Corpo de Fuzileiros Navais</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/4</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes...............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">c) Quadro Complementar do Corpo da Armada</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/4</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes...............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">d) Quadro Complementar do Corpo de Fuzileiros Navais</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/4</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes...............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">e) Quadro Complementar do Corpo de Intendentes da Marinha</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/4</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes...............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">f) Quadro Complementar do Corpo de Engenheiros e Técnicos Navais</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; -aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Fragata.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/4</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-de-Corveta.............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/10</span></p></td></tr><tr><td style="width:334.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Capitães-Tenentes...............................................................................</span></p></td><td style="width:69.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">1/15</span></p></td></tr></tbody></table>
+I - CORPO DA ARMADA
+
+Proporções:
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+10/103
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+II - CORPO DE FUZILEIROS NAVAIS
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+2/13
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+III - CORPO DE ENGENHEIROS E TÉCNICOS NAVAIS
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+1/15
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+IV - CORPO DE INTENDENTES DA MARINHA
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+1/15
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+V - CORPO DE SAÚDE DA MARINHA
+
+a) Quadro de Médicos
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+1/15
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+b) Quadro de Farmacêuticos
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+1/15
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+c) Quadro de Cirurgiões-Dentistas
+
+Capitães-de-Mar-e-Guerra.....................................................................
+
+1/8
+
+Capitães-de-Fragata.............................................................................
+
+1/15
+
+Capitães-de-Corveta.............................................................................
+
+1/20
+
+VI - QUADRO DE OFICIAIS AUXILIARES
+
+a) Quadro de Oficiais Auxiliares da Armada
+
+Capitães-de-Fragata.............................................................................
+
+1/4
+
+Capitães-de-Corveta.............................................................................
+
+1/10
+
+Capitães-Tenentes...............................................................................
+
+1/15
+
+b) Quadro de Oficiais Auxiliares do Corpo de Fuzileiros Navais
+
+Capitães-de-Fragata.............................................................................
+
+1/4
+
+Capitães-de-Corveta.............................................................................
+
+1/10
+
+Capitães-Tenentes...............................................................................
+
+1/15
+
+c) Quadro Complementar do Corpo da Armada
+
+Capitães-de-Fragata.............................................................................
+
+1/4
+
+Capitães-de-Corveta.............................................................................
+
+1/10
+
+Capitães-Tenentes...............................................................................
+
+1/15
+
+d) Quadro Complementar do Corpo de Fuzileiros Navais
+
+Capitães-de-Fragata.............................................................................
+
+1/4
+
+Capitães-de-Corveta.............................................................................
+
+1/10
+
+Capitães-Tenentes...............................................................................
+
+1/15
+
+e) Quadro Complementar do Corpo de Intendentes da Marinha
+
+Capitães-de-Fragata.............................................................................
+
+1/4
+
+Capitães-de-Corveta.............................................................................
+
+1/10
+
+Capitães-Tenentes...............................................................................
+
+1/15
+
+f) Quadro Complementar do Corpo de Engenheiros e Técnicos Navais
+
+Capitães-de-Fragata.............................................................................
+
+1/4
+
+Capitães-de-Corveta.............................................................................
+
+1/10
+
+Capitães-Tenentes...............................................................................
+
+1/15
 
 Art. 2º - Este Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 

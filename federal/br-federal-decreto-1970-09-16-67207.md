@@ -1,5 +1,3 @@
-###DEC-067207-0-000-16-09-1970@@@
-
 decreto nº 67.207, de 16 de setembro de 1970.
 
 Redistribui, com os respectivos ocupantes, para o Quadro de Pessoal - Parte Especial - do Ministério da Educação e Cultura, cargos originários dos extintos Lloyd Brasileiro - Patrimônio Nacional - e Companhia Nacional de Navegação Costeira - Autarquia Federal.

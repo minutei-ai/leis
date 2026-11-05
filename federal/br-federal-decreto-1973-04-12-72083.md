@@ -1,5 +1,3 @@
-###DEC-072083-0-000-12-04-1973@@@
-
 DECRETO Nº 72.083, DE 12 DE ABRIL DE 1973.
 
 Torna sem efeito aproveitamento de disponível no Quadro Único de Pessoal da Universidade Federal de Alagoas e dá outras providências.

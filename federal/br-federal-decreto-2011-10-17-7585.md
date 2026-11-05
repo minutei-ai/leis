@@ -1,5 +1,3 @@
-###DEC-007585-0-000-17-10-2011-PUB-01@@@
-
 DECRETO Nº 7.585, DE 17 DE OUTUBRO DE 2011
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo do Burquina Faso sobre Cooperação Técnica, firmado em Brasília, em 30 de agosto de 2005.

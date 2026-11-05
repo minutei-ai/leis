@@ -1,38 +1,36 @@
-###DEC-021339-0-000-20-06-1946@@@
+**DECRETO Nº 21.339, DE 20 DE JUNHO DE 1946.**
 
-<strong>DECRETO Nº 21.339, DE 20 DE JUNHO DE 1946.</strong>
+***Aprova o Regimento do Serviço Nacional de Fiscalização da Medicina.***
 
-<em><strong>Aprova o Regimento do Serviço Nacional de Fiscalização da Medicina.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra a, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Serviço Nacional de Fiscalização da Medicina, do Departamento Nacional de Saúde, do Ministério da Educação e Saúde, que, assinado pelo respectivo Ministro, baixa com êste decreto.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Serviço Nacional de Fiscalização da Medicina, do Departamento Nacional de Saúde, do Ministério da Educação e Saúde, que, assinado pelo respectivo Ministro, baixa com êste decreto.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 20 de junho de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Ernesto de Sousa Campos
 
-<strong>REGIMENTO DO SERVIÇO NACIONAL DE FISCALIZAÇÃO DA MEDICINA</strong>
+**REGIMENTO DO SERVIÇO NACIONAL DE FISCALIZAÇÃO DA MEDICINA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DA FINALIDADE</em>
+*DA FINALIDADE*
 
-<strong>Art</strong>. 1º O Serviço Nacional de Fiscalização da Medicina, órgão integrante do Departamento Nacional de Saúde, tem por finalidade superintender e fiscalizar no território nacional, diretamente ou por intermédio das autoridades federais ou estaduais, tudo que se relacionar como exercício da medicina e das atividades afins nas suas várias modalidades, promovendo, para isso, as necessárias medida executiva.
+**Art**. 1º O Serviço Nacional de Fiscalização da Medicina, órgão integrante do Departamento Nacional de Saúde, tem por finalidade superintender e fiscalizar no território nacional, diretamente ou por intermédio das autoridades federais ou estaduais, tudo que se relacionar como exercício da medicina e das atividades afins nas suas várias modalidades, promovendo, para isso, as necessárias medida executiva.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<strong>Art</strong>. 2º O Serviço compreende;
+**Art**. 2º O Serviço compreende;
 
 Seção de Medicina;
 
@@ -46,7 +44,7 @@ Seção de Administração;
 
 Parágrafo único. As seções terão chefes escolhidos e designados pelo diretor.
 
-<strong>Art</strong>. 3º Como órgão subordinado ao Serviço, sob a presidência do respectivo diretor e tendo como secretário um servidor em exercício, funcionarão:
+**Art**. 3º Como órgão subordinado ao Serviço, sob a presidência do respectivo diretor e tendo como secretário um servidor em exercício, funcionarão:
 
 a) uma Comissão de Biofarmácia, constituída de um biologista, um químico ou farmacêutico, um médico clínico e um técnico da indústria farmacêutica, os quais não poderão fazer parte desta Comissão por prazo superior a dois anos consecutivos;
 
@@ -56,15 +54,15 @@ b) uma Comissão de Revisão da Farmacopéia, constituída de um professor da Fa
 
 § 2º O presidente das Comissões funcionará, com os demais membros técnicos, com direito de voto nas deliberações.
 
-<strong>Art</strong>. 4º O diretor designará um funcionário do Serviço para servir como seu secretário.
+**Art**. 4º O diretor designará um funcionário do Serviço para servir como seu secretário.
 
-<strong>Art</strong>. 5º Os órgãos que integram o Serviço funcionarão perfeitamente coordenadas em regime de mútua colaboração, sob a orientação do Diretor.
+**Art**. 5º Os órgãos que integram o Serviço funcionarão perfeitamente coordenadas em regime de mútua colaboração, sob a orientação do Diretor.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DA COMPETÊNCIA DOS ÓRGÃOS</em>
+*DA COMPETÊNCIA DOS ÓRGÃOS*
 
-<strong>Art</strong>. 6º À Seção de Medicina compete:
+**Art**. 6º À Seção de Medicina compete:
 
 a) fiscalizar;
 
@@ -128,7 +126,7 @@ g) distribuir aos médicos e veterinário os blocos oficiais de receituário de 
 
 h) registrar diplomas de médico, dentista, veterinário, enfermeiro e parteira e a inscrição de atestados de habilitação de profissões correlatas à medicina, providenciando sôbre a publicação mensal, no Diário Oficial, da relação dos profissionais cujos diplomas tenham sido registrados.
 
-<strong>Art</strong>. 7º. À Seção de Farmácia compete:
+**Art**. 7º. À Seção de Farmácia compete:
 
 a) fiscalizar:
 
@@ -180,7 +178,7 @@ h) Conferir e visar o receituário que contiver substâncias entorpecentes a ser
 
 i) Registrar diplomas de farmacêuticos e providenciar sôbre a publicação mensal no Diário Oficial da relação dos profissionais cujos diplomas tinham sido registrados;
 
-<strong>Art</strong>. 8º. À Seção de Entorpecentes compete:
+**Art**. 8º. À Seção de Entorpecentes compete:
 
 a) Fiscalizar qualquer local em que se possa praticar a indústria, o comércio, o consumo ou o uso de entorpecentes;
 
@@ -230,7 +228,7 @@ II. A Estatística anual de importação, exportação, reexportação, fabrico 
 
 l) expedir guias para retirar entorpecentes da Alfândega do Rio de Janeiro.
 
-<strong>Art</strong>. 9º. À Seção de Odontologia compete:
+**Art**. 9º. À Seção de Odontologia compete:
 
 a) Fiscalizar:
 
@@ -260,7 +258,7 @@ e) Elaborar projetos de instruções a serem baixadas pelo diretor geral do Depa
 
 f) Distribuir aos dentistas os blocos oficiais de receituário de substâncias entorpecentes e fazer as respectivas fichas.
 
-<strong>Art</strong>. 10. À Seção de Administração compete:
+**Art**. 10. À Seção de Administração compete:
 
 a) Promover as medidas necessárias à administração de pessoa, material, orçamento e comunicações;
 
@@ -268,7 +266,7 @@ b) Preparar as guias de pagamento das taxas a serem cobradas;
 
 c) Receber os sêlos devidos para extração das licenças, e transferências, anotações de produtos e estabelecimentos farmacêuticos e registro de diplomas a cargo do Serviço.
 
-<strong>Art</strong>. 11. À Comissão de Biofarmácia compete:
+**Art**. 11. À Comissão de Biofarmácia compete:
 
 a) Estabelecer, para todo território nacional, a padronização de qualidade, pureza e conservação das especialidades farmacêuticas, produtos biológicos, antisséticos e desinfetantes, produtos de higiene e toucador e congêneres, destinados a uso médico-odontológico ou de qualquer outros que interessem à saúde pública;
 
@@ -278,7 +276,7 @@ c) Emitir parecer, quando solicitados pelo diretor, sôbre licenciamentos, modif
 
 d) Elaborar normas, regras e mais disposições para o perfeito cumprimento do que lhe compete.
 
-<strong>Art</strong>. 12. À Comissão de Revisão da Farmacopéia compete:
+**Art**. 12. À Comissão de Revisão da Farmacopéia compete:
 
 a) Estudar os assuntos concernentes às modificações que devem ser feitas na Farmacotécnica Brasileira;
 
@@ -288,7 +286,7 @@ c) Propor a inclusão e a exclusão de matéria nova, de acôrdo com a evoluçã
 
 d) Dar parecer sôbre equiparação a produtos oficiais de fórmulas não compreendidas nas farmacópeias e formulários mencionados em Portarias do diretor geral do Deparmento.
 
-<strong>Art</strong>. 13. – Ao diretor incumbe:
+**Art**. 13. – Ao diretor incumbe:
 
 a) Dirigir, coordenar e fiscalizar as atividades do Serviço; impôr as multas de infração referentes às atribuições do Serviço;
 
@@ -328,7 +326,7 @@ s) Manter estreita colaboração com os demais órgãos do Departamento;
 
 t) Apresentar ao diretor geral, mensalmente, um boletim dos trabalhos, e, anualmente, um relatório circunstanciado dos serviços executados.
 
-<strong>Art</strong>. 14. Aos chefes das Seções de Medicina, de Farmácia, de Entorpecentes e de Odontologia incumbe:
+**Art**. 14. Aos chefes das Seções de Medicina, de Farmácia, de Entorpecentes e de Odontologia incumbe:
 
 a) Dirigir, coordenar e fiscalizar a execução dos trabalhos da Seção;
 
@@ -346,7 +344,7 @@ g) Organizar e submeter à aprovação do diretor a escala de férias de servido
 
 h) Apresentar ao diretor, mensalmente, um boletim dos trabalhos realizados e, anualmente, um relatório circunstanciado dos serviços da Seção.
 
-<strong>Art</strong>. 15. Ao Chefe da Seção Administrativa incumbe:
+**Art**. 15. Ao Chefe da Seção Administrativa incumbe:
 
 a) Dirigir, coordenar e fiscalizar os trabalhos a cargo da Seção;
 
@@ -360,7 +358,7 @@ e) Organizar e submeter à aprovação do diretor a escala de férias do pessoal
 
 f) Apresentar ao diretor, mensalmente um boletim dos trabalhos realizados e, anualmente, um relatório circunstanciado do serviços executados pela Seção.
 
-<strong>Art</strong>. 16. Ao Secretário, incumbe:
+**Art**. 16. Ao Secretário, incumbe:
 
 a) Atender às pessoas que desejarem comunicar-se com o diretor, encaminhando-as ou dando a êste conhecimento do assunto a tratar;
 
@@ -368,50 +366,50 @@ b) Representar o diretor, quando para isso designado;
 
 c) Redigir a correspondência pessoal do diretor.
 
-<strong>Art</strong>. 17. Aos servidores que não têm atribuições especificadas neste regimento cabe cumprir as ordens emanadas dos superiores a que estiverem diretamente subordinados.
+**Art**. 17. Aos servidores que não têm atribuições especificadas neste regimento cabe cumprir as ordens emanadas dos superiores a que estiverem diretamente subordinados.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 18. – O Serviço terá lotação aprovada em decreto.
+**Art**. 18. – O Serviço terá lotação aprovada em decreto.
 
 Parágrafo único. Além dos funcionários constantes da lotação fixada em decreto, o Serviço poderá ter pessoal extranumerário.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 19. O período de trabalho no Serviço será, no mínimo, de 33 horas semanais.
+**Art**. 19. O período de trabalho no Serviço será, no mínimo, de 33 horas semanais.
 
-<strong>Art</strong>. 20. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de 33 (trinta e três horas) semanais, sendo a freqüência apurada por meio de boletins diários da produção, examinados pelo diretor.
+**Art**. 20. O horário do pessoal designado para serviço externo será estabelecido de acôrdo com as exigências dos trabalhos, observado o mínimo de 33 (trinta e três horas) semanais, sendo a freqüência apurada por meio de boletins diários da produção, examinados pelo diretor.
 
-<strong>Art</strong>. 21. O diretor está isento da assinatura do ponto.
+**Art**. 21. O diretor está isento da assinatura do ponto.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 22. Serão automaticamente substituídos em suas faltas e impedimentos eventuais:
+**Art**. 22. Serão automaticamente substituídos em suas faltas e impedimentos eventuais:
 
 a) O diretor pelo chefe da Seção previamente designado pelo diretor geral;
 
 b) Os chefes de Seção por funcionário previamente designado pelo diretor.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS DISPOSIÇÕES GERAIS.</em>
+*DAS DISPOSIÇÕES GERAIS.*
 
-<strong>Art</strong>. 23. O presidente das Comissões de Revisão da Farmacopéia e de Biofarmácia poderá:
+**Art**. 23. O presidente das Comissões de Revisão da Farmacopéia e de Biofarmácia poderá:
 
 a) Convidar funcionário federal, estadual ou municipal, ou técnico de notória competência, para tomar parte nos seus trabalhos, sem prejuízo das respectivas funções;
 
 b) Recorrer aos laboratórios federais, estaduais ou municipais, afim de obter os esclarecimentos de que necessitem as Comissões e para realizar estudos relativos às suas atribuições.
 
-<strong>Art</strong>. 24. – As modificações feitas pela Comissão de Revisão da Farmacopéia serão submetidas à aprovação do diretor geral, para anexação, por portaria sua, à Farmacopéia Brasileira.
+**Art**. 24. – As modificações feitas pela Comissão de Revisão da Farmacopéia serão submetidas à aprovação do diretor geral, para anexação, por portaria sua, à Farmacopéia Brasileira.
 
-<strong>Art</strong>. 25. As normas e padrões estabelecidos pela Comissão de Biofarmácia serão submetidos à aprovação do diretor geral e por êle expedidos para entrarem em execução.
+**Art**. 25. As normas e padrões estabelecidos pela Comissão de Biofarmácia serão submetidos à aprovação do diretor geral e por êle expedidos para entrarem em execução.
 
 Rio de Janeiro, em 20 de junho de 1946.
 
-<strong>ERNESTO DE SOUSA CAMPOS</strong>
+**ERNESTO DE SOUSA CAMPOS**

@@ -1,5 +1,3 @@
-###DEC-054989-0-000-13-11-1964@@@
-
 DECRETO Nº 54.989, DE 13 DE NOVEMBRO DE 1964.
 
 Autoriza a Companhia Siderúrgica Paulista - Cosipa a pesquisar calcário no município de Salto Pirapora, Estado de São Paulo.

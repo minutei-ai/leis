@@ -1,5 +1,3 @@
-###DEC-078427-0-000-16-09-1976@@@
-
 DECRETO Nº 78.427, DE 16 DE SETEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Licenciatura em Psicologia e de Formação de Psicólogos, da Faculdade de Filosofia, Ciências e Letras de Santos, com sede na cidade de Santos, Estado de São Paulo.

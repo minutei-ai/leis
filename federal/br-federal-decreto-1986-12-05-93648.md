@@ -1,5 +1,3 @@
-###DEC-093648-0-000-05-12-1986@@@
-
 DECRETO Nº 93.648, DE 5 DE DEZEMBRO DE 1986
 
 Altera o Estatuto Social da Empresa de Processamento de Dados da Previdência Social - DATAPREV, e dá outras providências.

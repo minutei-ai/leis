@@ -12,15 +12,14 @@ Art. 2º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 4 de abril de 2023; 135º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado
 
 ANEXO ÚNICO
 
-I – ENQUADRAMENTO PREVISTO PARA O EXERCÍCIO DE 2013<br>
+I – ENQUADRAMENTO PREVISTO PARA O EXERCÍCIO DE 2013
+
 – REFERENTE A 34% (ART. 6º DA [LEI Nº 17.916](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89871)/2012)
 
 | NÍVEL DE ESCOLARIDADE DO EMPREGO | ORDEM DE CLAS-SIFICAÇÃO | NOME | CPF/ME Nº | Nº DO PROCESSO DE REQUERIMENTO DE ANISTIA/INCLUSÃO |

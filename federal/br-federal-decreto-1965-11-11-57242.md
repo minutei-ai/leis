@@ -1,5 +1,3 @@
-###DEC-057242-0-000-11-11-1965@@@
-
 DECRETO Nº 57.242, DE 11 DE NOVEMBRO DE 1965.
 
 Suprime cargo extinto.

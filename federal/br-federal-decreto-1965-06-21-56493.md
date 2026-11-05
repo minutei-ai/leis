@@ -1,5 +1,3 @@
-###DEC-056493-0-000-21-06-1965@@@
-
 DECRETO Nº 56.493, DE 21 DE JUNHO DE 1965.
 
 Declara de utilidade pública o “Hospital de Caridade e Beneficência de Cachoeira do Sul” com sede em Cachoeira do Sul, Estado do Rio Grande do Sul.

@@ -1,5 +1,3 @@
-###DEL-005105-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.105 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Fazenda o crédito suplementar de Cr$ 301.683,60, á verba que especifica 

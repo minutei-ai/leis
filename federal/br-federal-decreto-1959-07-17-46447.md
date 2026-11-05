@@ -1,5 +1,3 @@
-###DEC-046447-0-000-17-07-1959@@@
-
 DECRETO Nº 46.447 ,DE 17 DE JULHO DE 1959.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação de uma área de terras que menciona, situada na zona rural da cidade de Santarém, no Estado do Pará.

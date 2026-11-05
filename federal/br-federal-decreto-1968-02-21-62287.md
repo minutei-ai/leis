@@ -1,5 +1,3 @@
-###DEC-062287-0-000-21-02-1968@@@
-
 DECRETO Nº 62.287, DE 21 DE FEVEREIRO DE 1968.
 
 Declara de utilidade pública a “Associação dos Aposentados e Pensionistas dos Institutos e Caixas de Previdência da Bahia’’, com sede em Salvador, Estado da Bahia.

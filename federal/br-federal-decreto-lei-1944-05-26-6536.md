@@ -1,5 +1,3 @@
-###DEL-006536-0-000-26-05-1944@@@
-
 DECRETO-LEI N. 6.536 – DE 26 DE MAIO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito especial de Cr$ 903.939,30 para pagamento a “The Rio de Janeiro City Improvements Co. Ltd.”

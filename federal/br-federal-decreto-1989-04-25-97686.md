@@ -1,7 +1,3 @@
-1
-
-###DEC-097686-0-000-25-04-1989@@@
-
 DECRETO N° 97.686, DE 25 DE ABRIL DE 1989
 
 Altera o artigo 1° do Decreto n° 96.660, de 06 de setembro de 1988, que dispõe sobre o Grupo de Coordenação incumbido de elaborar e atualizar o Plano Nacional de Gerenciamento Costeiro.

@@ -1,5 +1,3 @@
-###DEC-072347-0-000-08-06-1973@@@
-
 decreto nº 72.347, de 8 de junho de 1973.
 
 Concede autorização à empresa Oceanic Contractors Inc., de nacionalidade norte-americana, para operar no mar territorial do Brasil, com as embarcações especializadas "MC Dermott DB-nº 19", "Bearregard", "Denise D. Defelice", "PBC-10" e "Suction Dredge Brazil" de nacionalidade norte-americana, "MC Dermott DB-nº 6", "Intermac 166", "Intermac 308", "Jaramac 36" e "Jaramac XX" de nacionalidade panamenha e "Van Hattum en Blankevoort 20" de nacionalidade inglesa, nos serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-045043-0-000-11-12-1958@@@
-
 DECRETO Nº 45.043, DE 11 DE DEZEMBRO DE 1958.
 
 Cria o cargo de Adido Militar junto à representação diplomática e dá outras providências.

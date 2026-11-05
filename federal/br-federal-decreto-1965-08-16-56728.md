@@ -1,5 +1,3 @@
-###DEC-056728-0-000-16-08-1965@@@
-
 DECRETO Nº 56.728, DE 16 DE AGôSTO DE 1965.
 
 Dispõe sôbre a vinculação ao Ministério das Relações Exteriores de estabelecimentos mantidos pelo Govêrno Brasileiro em Centros educacionais estrangeiros e dá outras providências.

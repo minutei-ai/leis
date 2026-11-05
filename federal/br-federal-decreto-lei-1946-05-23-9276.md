@@ -1,5 +1,3 @@
-###DEL-009276-0-000-23-05-1946@@@
-
 DECRETO-LEI N. 9.276 – DE 23 DE MAIO DE 1946
 
 Modifica a lei do Impôsto de Consumo

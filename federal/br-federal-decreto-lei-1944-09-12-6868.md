@@ -1,5 +1,3 @@
-###DEL-006868-0-000-12-09-1944@@@
-
 DECRETO-LEI N. 6.868 – DE 12 DE SETEMBRO DE 1944
 
 Abre o crédito especial de Cr$ 286.800,00 ao Ministério da Agricultura

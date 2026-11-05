@@ -1,30 +1,28 @@
-###DEC-032742-0-000-07-05-1953@@@
+**DECRETO Nº 32.742, DE 7 DE MAIO DE 1953.**
 
-<strong>DECRETO Nº 32.742, DE 7 DE MAIO DE 1953.</strong>
+***Aprova o Regulamento para a Diretoria do Pessoal da Marinha.***
 
-<em><strong>Aprova o Regulamento para a Diretoria do Pessoal da Marinha.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento para a Diretoria do Pessoal da Marinha, que com êste baixa assinado pelo Ministro de Estado da Marinha.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para a Diretoria do Pessoal da Marinha, que com êste baixa assinado pelo Ministro de Estado da Marinha.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 7 de maio de 1953; 132º da Independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
-<strong>REGULAMENTO PARA A DIRETORIA DO PESSOAL DA MARINHA</strong>
+**REGULAMENTO PARA A DIRETORIA DO PESSOAL DA MARINHA**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>DOS FINS</em>
+*DOS FINS*
 
-<strong>Art</strong>. 1º A Diretoria do Pessoal da Marinha (DP) é o órgão do Ministério da Marinha que tem por finalidade planejar, dirigir, coordenar e fiscalizar as atividades técnicas e administrativas referentes a todo o pessoal militar da MB, exceto o do Corpo de Fuzileiros Navais.
+**Art**. 1º A Diretoria do Pessoal da Marinha (DP) é o órgão do Ministério da Marinha que tem por finalidade planejar, dirigir, coordenar e fiscalizar as atividades técnicas e administrativas referentes a todo o pessoal militar da MB, exceto o do Corpo de Fuzileiros Navais.
 
 Parágrafo único. A DP será subordinada:
 
@@ -34,7 +32,7 @@ b) ao Estado-Maior da Armada, quanto ao comando e logística de consumo;
 
 c) à Secretaria Geral da Marinha, quanto à logística de produção e à administração dos negócios da MB.
 
-<strong>Art</strong>. 2º À DP competirá:
+**Art**. 2º À DP competirá:
 
 a) planejar suas atividades;
 
@@ -52,33 +50,55 @@ g) superintender a administração de todos os órgãos de execução das respon
 
 h) cooperar no setor de suas atribuições, com os órgãos técnicos nacionais, especialmente com os das demais Fôrças Armadas.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>DA ORGANIZAÇÃO</em>
+*DA ORGANIZAÇÃO*
 
-<em>Estrutura Orgânica</em>
+*Estrutura Orgânica*
 
-<strong>Art</strong>. 3º Além do Diretor-Geral do Pessoal e seu Gabinete, a DP disporá de uma Vice-Diretoria, de um Grupo de Inspeção e dos seguintes Departamentos:
+**Art**. 3º Além do Diretor-Geral do Pessoal e seu Gabinete, a DP disporá de uma Vice-Diretoria, de um Grupo de Inspeção e dos seguintes Departamentos:
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:386.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Planejamento .......................................................................................</span></span></p></td><td style="width:38.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>(DP-10)</span></span></p></td></tr><tr><td style="width:386.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Carreir ..................................................................................................</span></span></p></td><td style="width:38.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>(DP-20)</span></span></p></td></tr><tr><td style="width:386.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Instrução ..............................................................................................</span></span></p></td><td style="width:38.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>(DP-30)</span></span></p></td></tr><tr><td style="width:386.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Assistência Social ................................................................................</span></span></p></td><td style="width:38.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>(DP-40)</span></span></p></td></tr><tr><td style="width:386.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Recrutamento, Reserva Naval e Inatividade .......................................</span></span></p></td><td style="width:38.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>(DP-50)</span></span></p></td></tr><tr><td style="width:386.35pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>Departamento de Intendência ..........................................................................................</span></span></p></td><td style="width:38.15pt;padding-right:3.5pt;padding-left:3.5pt;vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span><span>(DP-60)</span></span></p></td></tr></tbody></table>
+Departamento de Planejamento .......................................................................................
+
+(DP-10)
+
+Departamento de Carreir ..................................................................................................
+
+(DP-20)
+
+Departamento de Instrução ..............................................................................................
+
+(DP-30)
+
+Departamento de Assistência Social ................................................................................
+
+(DP-40)
+
+Departamento de Recrutamento, Reserva Naval e Inatividade .......................................
+
+(DP-50)
+
+Departamento de Intendência ..........................................................................................
+
+(DP-60)
 
 Parágrafo único. A Vice-Diretoria será constituída pelo Vice-Diretor do Pessoal assessorado pela Divisão de Serviços Gerais.
 
 Atribuições dos Diversos Órgãos
 
-<strong>Art</strong>. 4º O Diretor-Geral do Pessoal (DGP), Assessor Técnico do Ministro da Marinha nos assuntos relacionados com o pessoal militar, exceto o que pertencer ao Corpo de Fuzileiros Navais, será o responsável pelo fornecimento do apoio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB, no que se referir ao pessoal de competência da DP.
+**Art**. 4º O Diretor-Geral do Pessoal (DGP), Assessor Técnico do Ministro da Marinha nos assuntos relacionados com o pessoal militar, exceto o que pertencer ao Corpo de Fuzileiros Navais, será o responsável pelo fornecimento do apoio logístico às Fôrças, Estabelecimentos Navais e Serviços da MB, no que se referir ao pessoal de competência da DP.
 
-<strong>Art</strong>. 5º O DGP será responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DP e dos Estabelecimentos e Serviços que lhe forem subordinados.
+**Art**. 5º O DGP será responsável pela elaboração, direção e contrôle dos programas referentes às atividades da DP e dos Estabelecimentos e Serviços que lhe forem subordinados.
 
-<strong>Art</strong>. 6º O DGP manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
+**Art**. 6º O DGP manterá assídua colaboração com o Inspetor Geral da Marinha, visando corrigir falhas ou erros que forem verificados e aperfeiçoar os serviços.
 
-<strong>Art</strong>. 7º No desempenho de suas atribuições o DGP terá como auxiliares diretos o Vice-Diretor, o Diretor da Escola Naval, o Chefe do Grupo de Inspeção e seu Gabinete.
+**Art**. 7º No desempenho de suas atribuições o DGP terá como auxiliares diretos o Vice-Diretor, o Diretor da Escola Naval, o Chefe do Grupo de Inspeção e seu Gabinete.
 
 Vice-Diretoria
 
 (DP-05)
 
-<strong>Art</strong>. 8º À Vice-Diretoria (DP-05) competirá:
+**Art**. 8º À Vice-Diretoria (DP-05) competirá:
 
 a) providenciar a execução das diretivas e ordens do DGP;
 
@@ -102,7 +122,7 @@ Grupo de Inspeção
 
 (DP-06)
 
-<strong>Art</strong>. 9º Ao Grupo de Inspeção (DP-06), constituído de um Chefe assessorado por oficiais da própria DP, competirá:
+**Art**. 9º Ao Grupo de Inspeção (DP-06), constituído de um Chefe assessorado por oficiais da própria DP, competirá:
 
 a) inspecionar periòdicamente todos os órgãos sob o contrôle técnico ou administrativo da DP, atendendo às ordens do DGP e às instruções ou recomendações da Inspetoria Geral da Marinha e procurando especialmente constatar:
 
@@ -120,9 +140,9 @@ d) manter o DGP a par das atividades da DP e dos órgãos que lhe forem subordin
 
 Departamentos
 
-<strong>Art</strong>. 10. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
+**Art**. 10. Os Departamentos serão dirigidos por Chefes com ampla iniciativa, dentro de suas respectivas esferas de ação, e responsáveis pela perfeita execução do que lhes compete, conforme abaixo se especifica.
 
-<strong>Art</strong>. 11. Ao Departamento de Planejamento (DP-10) competirá:
+**Art**. 11. Ao Departamento de Planejamento (DP-10) competirá:
 
 a) elaborar os planos de atividades da DP e dos órgãos que lhe são subordinados;
 
@@ -144,7 +164,7 @@ i) acompanhar as atividades similares, desenvolvidas pelos órgãos estranhos à
 
 j) compilar e analisar os dados estatísticos relativos às atividades da DP.
 
-<strong>Art</strong>. 12. Ao Departamento de Carreira (DP-20) competirá:
+**Art**. 12. Ao Departamento de Carreira (DP-20) competirá:
 
 a) executar as normas e programas estabelecidos para a classificação, a promoção e a movimentação do pessoal militar em serviço ativo e a cargo da DP;
 
@@ -164,7 +184,7 @@ h) elaborar, manter atualizadas e promover a distribuição das publicações re
 
 i) elaborar as fichas necessárias ao planejamento, contrôle e registro das atividades da DP.
 
-<strong>Art</strong>. 13. Ao Departamento de Instrução (DP-30) competirá:
+**Art**. 13. Ao Departamento de Instrução (DP-30) competirá:
 
 a) dirigir, coordenar, executar e avaliar todos os programas de instrução, em tôdas as suas fases menos a que diz respeito à Escola de Guerra Naval, para o pessoal militar a cargo a DP;
 
@@ -178,7 +198,7 @@ e) prover material e acessórios de ensino a todos os órgãos de instrução su
 
 f) acompanhar o progresso da técnica de ensino nos órgãos nacionais e estrangeiros, incumbidos de atividades idênticas, fazendo com que a MB dêle se beneficie.
 
-<strong>Art</strong>. 14. Ao Departamento de Assistência Social (DP-40) competirá:
+**Art**. 14. Ao Departamento de Assistência Social (DP-40) competirá:
 
 a) executar o planejamento para as atividades relativas à assistência social, em geral, na MB;
 
@@ -194,7 +214,7 @@ f) propor a admissão ou contrato de técnicos especializados em assuntos de ass
 
 g) tratar da herança militar, na parte que diz respeito à assistência jurídica aos interessados.
 
-<strong>Art</strong>. 15. Ao Departamento de Recrutamento, Reserva Naval e Inatividade (DP-50) competirá:
+**Art**. 15. Ao Departamento de Recrutamento, Reserva Naval e Inatividade (DP-50) competirá:
 
 a) tratar de alistamento (militar), recrutamento, conscrição, voluntariado, seleção, incorporação e licenciamento do pessoal militar necessário à MB, na parte afeta à DP;
 
@@ -214,7 +234,7 @@ h) manter, através do Departamento de carreira, completo e exato registro do pe
 
 i) cumprir, na parte afeta à DP, as diretrizes estabelecidas pelo EMA para a mobilização e desmobilização de pessoal, executando e promovendo a execução de tais operações.
 
-<strong>Art</strong>. 16. Ao Departamento de Intendência (DP-60) competirá:
+**Art**. 16. Ao Departamento de Intendência (DP-60) competirá:
 
 a) lavrar contratos;
 
@@ -228,23 +248,23 @@ e) organizar estatísticas de consumo de material pela DP e órgãos subordinado
 
 f) elaborar a proposta orçamentária da DP e dos órgãos a ela subordinados.
 
-<strong>Art</strong>. 17. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DP.
+**Art**. 17. Os Departamentos serão subdivididos em tantas Divisões e Seções quantas forem necessárias, de acôrdo com o que estabelecer o Regimento Interno da DP.
 
 Gabinete
 
 (DP-02)
 
-<strong>Art</strong>. 18. Ao Gabinete do DGP - (DP-02) competirá:
+**Art**. 18. Ao Gabinete do DGP - (DP-02) competirá:
 
 a) o desempenho de funções de representação;
 
 b) a correspondência de caráter pessoal do DGP.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>DO PESSOAL</em>
+*DO PESSOAL*
 
-<strong>Art</strong>. 19. A DP disporá do seguinte pessoal:
+**Art**. 19. A DP disporá do seguinte pessoal:
 
 a) um Diretor-Geral do Pessoal - (DGP) - oficial general, da ativa, do Corpo da Armada;
 
@@ -268,15 +288,15 @@ j) tantos oficiais, da ativa ou da reserva, dos diversos Corpos e Quadros da MB,
 
 l) tantos sub-oficiais, sargentos, marinheiros, fuzileiros, taifeiros e servidores civis quantos forem necessários, de acôrdo com os efetivos que forem fixados no Regimento Interno da DP.
 
-<strong>Art</strong>. 20. As atribuições do pessoal serão discriminadas no Regimento Interno da DP.
+**Art**. 20. As atribuições do pessoal serão discriminadas no Regimento Interno da DP.
 
-<strong>Art</strong>. 21. O pessoal da DP será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
+**Art**. 21. O pessoal da DP será nomeado, designado ou admitido de acôrdo com a legislação em vigor.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 22. Ficarão subordinados à DP todos os órgãos dos seguintes tipos: - Escolas, Centros de Instrução, Centros de Esportes, Quartéis de Marinheiros, Gabinetes de Identificação, Estabelecimentos ou Serviços de Assistência Social, Estabelecimentos ou Serviços de Seleção, Alistamento e Incorporação do pessoal militar que lhe é afeto.
+**Art**. 22. Ficarão subordinados à DP todos os órgãos dos seguintes tipos: - Escolas, Centros de Instrução, Centros de Esportes, Quartéis de Marinheiros, Gabinetes de Identificação, Estabelecimentos ou Serviços de Assistência Social, Estabelecimentos ou Serviços de Seleção, Alistamento e Incorporação do pessoal militar que lhe é afeto.
 
 § 1º A Escola Naval ficará subordinada diretamente ao DGP.
 
@@ -288,35 +308,35 @@ l) tantos sub-oficiais, sargentos, marinheiros, fuzileiros, taifeiros e servidor
 
 § 5º Excluem-se dos Estabelecimentos de que trata êste artigo as escolas e centros de instrução especializados, subordinados ao Corpo de Fuzileiros Navais ou a outra Diretoria.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS DISPOSIÇÕES GERAIS</em>
+*DAS DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 23. O atual Departamento de Esportes da Marinha passa a se denominar Centro de Esportes da Marinha, do Distrito Federal.
+**Art**. 23. O atual Departamento de Esportes da Marinha passa a se denominar Centro de Esportes da Marinha, do Distrito Federal.
 
-<strong>Art</strong>. 24. A Caixa de Construção de Casas para o Pessoal do Ministério da Marinha e a Casa do Marinheiro ficam incorporadas ao Departamento de Assistência Social da DP, na situação que fôr estabelecida no Regimento Interno da DP.
+**Art**. 24. A Caixa de Construção de Casas para o Pessoal do Ministério da Marinha e a Casa do Marinheiro ficam incorporadas ao Departamento de Assistência Social da DP, na situação que fôr estabelecida no Regimento Interno da DP.
 
-<strong>Art</strong>. 25. O atual Serviço de Herança Militar passa a constituir atribuição da Diretoria de Intendência da Marinha, salvo quanto ao que estabelece a alínea “<em>g</em>” do artigo 15, dêste Regulamento.
+**Art**. 25. O atual Serviço de Herança Militar passa a constituir atribuição da Diretoria de Intendência da Marinha, salvo quanto ao que estabelece a alínea “*g*” do artigo 15, dêste Regulamento.
 
-<strong>Art</strong>. 26. O Serviço Interno da DP obedecerá a um Regimento Interno, que será expedido dentro de 180 dias a contar da data da aprovação dêste Regulamento.
+**Art**. 26. O Serviço Interno da DP obedecerá a um Regimento Interno, que será expedido dentro de 180 dias a contar da data da aprovação dêste Regulamento.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DAS DISPOSIÇÕES TRANSITÓRIAS</em>
+*DAS DISPOSIÇÕES TRANSITÓRIAS*
 
-<strong>Art</strong>. 27. Durante o prazo fixado no artigo 27, o DGP expedirá as instruções necessárias à adaptação das disposições contidas neste Regulamento.
+**Art**. 27. Durante o prazo fixado no artigo 27, o DGP expedirá as instruções necessárias à adaptação das disposições contidas neste Regulamento.
 
-<strong>Art</strong>. 28. Enquanto não fôr criado a Base Naval do Rio de Janeiro, os órgãos incumbidos da assistência social e outras atividades da DP, na Capital Federal, ficarão diretamente subordinados ao Vice-Diretor do Pessoal.
+**Art**. 28. Enquanto não fôr criado a Base Naval do Rio de Janeiro, os órgãos incumbidos da assistência social e outras atividades da DP, na Capital Federal, ficarão diretamente subordinados ao Vice-Diretor do Pessoal.
 
-<strong>Art</strong>. 29. Antes da criação de qualquer novo Estabelecimento ou Serviço subordinado à DP, deverá ser elaborado e aprovado o regulamento ou regime interno, conforme o caso, pelo qual se deverá reger.
+**Art**. 29. Antes da criação de qualquer novo Estabelecimento ou Serviço subordinado à DP, deverá ser elaborado e aprovado o regulamento ou regime interno, conforme o caso, pelo qual se deverá reger.
 
-<strong>Art</strong>. 30. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os regulamentos e regimentos internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos regulamentos e regimentos internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
+**Art**. 30. Imediatamente após a entrada em vigor dêste Regulamento, deverão ser revistos os regulamentos e regimentos internos que regem os Estabelecimentos e Serviços existentes, de modo a enquadrá-los no que vem de ser estabelecido. Os anteprojetos dos regulamentos e regimentos internos atualizados deverão ser submetidos à aprovação dentro de 120 dias.
 
-<strong>Art</strong>. 31. Êste Regulamento deverá ser revisto dentro do prazo de doze meses, contados a partir de sua aprovação.
+**Art**. 31. Êste Regulamento deverá ser revisto dentro do prazo de doze meses, contados a partir de sua aprovação.
 
 Rio de Janeiro, DF., em 7 de maio de 1953.
 
-<strong>RENATO DE ALMEIDA GUILLOBEL</strong>
+**RENATO DE ALMEIDA GUILLOBEL**
 
 Vice-Almirante
 

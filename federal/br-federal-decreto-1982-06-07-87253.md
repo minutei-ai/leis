@@ -1,5 +1,3 @@
-###DEC-087253-0-000-07-06-1982@@@
-
 Decreto nº 87.253, de 07 de junho de 1982
 
 Atribui competência ao Conselho Nacional do Petróleo, para atestar a qualidade de aditivos ou de produtos a serem introduzidos nos combustíveis derivados de petróleo e em álcool etílico hidratado combustível, e dá outras providências.

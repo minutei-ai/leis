@@ -1,5 +1,3 @@
-###MPV-001974-0-086-23-11-2000@@@
-
 MEDIDA PROVISÓRIA Nº 1.974-86, DE 23 de novembro DE 2000.
 
 Dispõe sobre os títulos da dívida pública de responsabilidade do Tesouro Nacional, consolidando a legislação em vigor sobre a matéria.

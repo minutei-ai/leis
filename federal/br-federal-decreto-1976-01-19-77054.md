@@ -1,5 +1,3 @@
-###DEC-077054-0-000-19-01-1976@@@
-
 DECRETO Nº 77.054, de 19 de janeiro 1976
 
 Autoriza o funcionamento da habilitação em Educação Moral e Cívica, no curso de Filosofia da Faculdade de Filosofia, Ciências e Letras de Sorocaba, com sede na cidade de Sorocaba, Estado de São Paulo.

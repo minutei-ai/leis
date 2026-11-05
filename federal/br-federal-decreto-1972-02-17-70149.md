@@ -1,5 +1,3 @@
-###DEC-070149-0-000-17-02-1972@@@
-
 DECRETO Nº 70.149, DE 17 DE FEVEREIRO DE 1972.
 
 Cassa concessão de canal de televisão outorga à Emissora de Televisão Continental S.A. - TV continental, da cidade do Rio de Janeiro, Estado da Guanabara.

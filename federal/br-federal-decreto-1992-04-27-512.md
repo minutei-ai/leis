@@ -1,7 +1,3 @@
-1
-
-###DEC-000512-0-000-27-04-1992@@@
-
 DECRETO Nº 512, DE 27 DE ABRIL DE 1992
 
 Dispõe sobre a transferência de bens, haveres e contencioso judicial da EMBRAFILME - Distribuidora de Filmes S.A., em liquidação, e dá outras providências.

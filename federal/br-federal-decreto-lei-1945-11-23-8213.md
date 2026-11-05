@@ -1,5 +1,3 @@
-###DEL-008213-0-000-23-11-1945@@@
-
 DECRETO-LEI N. 8.213 – DE 23 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 5.000.000,00, para despesas da Fábrica Nacional de Motores

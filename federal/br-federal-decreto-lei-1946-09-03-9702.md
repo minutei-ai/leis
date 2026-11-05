@@ -1,5 +1,3 @@
-###DEL-009702-0-000-03-09-1946@@@
-
 DECRETO-LEI N. 9.702 – DE 3 DE SETEMBRO DE 1946
 
 Abre ao Ministério da Guerra o crédito suplementar de Cr$ 2.000.000,00 à verba que especifica.

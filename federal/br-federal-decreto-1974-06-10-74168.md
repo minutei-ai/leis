@@ -1,5 +1,3 @@
-###DEC-074168-0-000-10-06-1974@@@
-
 DECRETO Nº 74.168, DE 10 DE JUNHO DE 1974.
 
 Autoriza o funcionamento da habilitação em Instrumento (Acordeão) no Curso de Música do Instituto Municipal de Belas Artes "Professora Rita Jobim Vasconcelos", mantido pela Prefeitura Municipal de Bagé, com sede na Cidade de Bagé, Estado do Rio Grande do Sul.

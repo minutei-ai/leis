@@ -1,5 +1,3 @@
-###DEC-068736-0-000-14-06-1971@@@
-
 DECRETO Nº 68.736 - DE 14 DE JUNHO DE 1971.
 
 Concede permissão, em caráter permanente à emprêsa Plastic Foil Indústria e Comércio de Plásticos Ltda., sediada no Estado de São Paulo, para funcionar aos domingos e nos dias feriados civis e religiosos.

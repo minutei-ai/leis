@@ -1,5 +1,3 @@
-###DEC-061155-A-000-15-08-1967@@@
-
 DECRETO Nº 61.155-A, DE 15 DE AGôSTO DE 1967.
 
 Concede indulto a sentenciados, comemorativo do recebimento da Rosa de Ouro.

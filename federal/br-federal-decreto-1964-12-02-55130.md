@@ -1,5 +1,3 @@
-###DEC-055130-0-000-02-12-1964@@@
-
 decreto nº 55.130, de 2 de dezembro de 1964.
 
 Autoriza São Carlos Minérios S. A. a pesquisar minérios de ferro, de manganês, dolomita e ouro, no município de Barão de Cocais, Estado de Minas Gerais.

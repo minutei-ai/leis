@@ -1,5 +1,3 @@
-###DEC-058778-0-000-28-06-1966@@@
-
 decreto nº 58.778, de 28 de junho de 1966.
 
 Abre à Presidência da República, o crédito especial de Cr$ 1.027.157.513 (hum bilhão vinte e sete milhões cento e cinqüenta e sete mil quinhentos e treze cruzeiros), destinado a atender ao pagamento de despesas referentes a exercícios anteriores.

@@ -1,5 +1,3 @@
-###DEL-008139-0-000-26-10-1945@@@
-
 DECRETO-LEI N. 8.139 – DE 26 DE OUTUBRO DE 1945
 
 Abre ao  Ministério da Viação e Obras Públicas o crédito de Cr$ 350.000,00, suplementar à Verba 3 – “Serviços e Encargos”.

@@ -1,5 +1,3 @@
-###DEC-090929-0-000-08-02-1985@@@
-
 decreto nº 90.929, de 08 de fevereiro de 1985
 
 Dá nome a unidade industrial construída pela AÇOMINAS.

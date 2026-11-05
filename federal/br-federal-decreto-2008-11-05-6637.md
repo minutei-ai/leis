@@ -1,5 +1,3 @@
-###DEC-006637-0-000-05-11-2008@@@
-
 DECRETO Nº 6.637, DE 5 DE NOVEMBRO DE 2008.
 
 Altera e acresce dispositivos ao Regulamento do Serviço Social da Indústria - SESI, aprovado pelo Decreto no 57.375, de 2 de dezembro de 1965.

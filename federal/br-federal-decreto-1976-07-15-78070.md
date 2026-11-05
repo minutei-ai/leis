@@ -1,5 +1,3 @@
-###DEC-078070-0-000-15-07-1976@@@
-
 DECRETO Nº 78.070, DE 15 DE JULHO DE 1976.
 
 Regula a ocupação de imóveis residenciais da Administração Federal no Distrito Federal.

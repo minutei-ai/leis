@@ -1,5 +1,3 @@
-###DEC-058811-0-000-13-07-1966@@@
-
 decreto nº 58.811, de 13 de julho de 1966.
 
 Concede reconhecimento e autorização para funcionamento de cursos na Escola Superior de Música Carlos Gomes de São Leopoldo, no Estado do Rio Grande do Sul.

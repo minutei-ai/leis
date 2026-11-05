@@ -1,5 +1,3 @@
-###DEC-048906-0-000-27-08-1960@@@
-
 decreto nº 48.906, de 27 de Agôsto de 1960.
 
 Concede autorização para o funcionamento de curso.

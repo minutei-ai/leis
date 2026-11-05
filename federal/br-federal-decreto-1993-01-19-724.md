@@ -1,5 +1,3 @@
-###DEC-000724-0-000-19-01-1993@@@
-
 DECRETO N° 724, DE 19 DE JANEIRO DE 1993
 
 Altera e consolida a regulamentação da Lei n° 8.031 de 12 de abril de 1990, que cria o Programa Nacional de Desestatização e dá outras providências.

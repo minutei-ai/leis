@@ -1,5 +1,3 @@
-###DEC-073099-0-000-06-11-1973@@@
-
 DECRETO Nº 73.099 - DE 6 DE NOVEMBRO DE 1973
 
 Redistribui cargos, com os respectivos ocupantes, do Quadro de Pessoal do Departamento Administrativo do Pessoal Civil para o Quadro Único de Pessoal da Universidade Federal Rural do Rio de Janeiro, e dá outras providências.

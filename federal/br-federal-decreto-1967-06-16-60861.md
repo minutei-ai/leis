@@ -1,5 +1,3 @@
-###DEC-060861-0-000-16-06-1967@@@
-
 DECRETO Nº 60.861, DE 16 DE JUNHO DE 1967.
 
 Outorga à Centrais Elétricas de Minas Gerais S.A. - CEMIG, concessão para distribuir energia elétrica no município de Frei Inocêncio - Estado de Minas Gerais.

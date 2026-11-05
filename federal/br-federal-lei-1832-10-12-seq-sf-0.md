@@ -1,5 +1,3 @@
-###LEI-000000-0-000-12-10-1832@@@
-
 LEI - DE 12 DE OUTUBRO DE 1832
 
 Ordena que os Eleitores dos Deputados para a seguinte Legislatura, lhes confiram nas procurações, faculdade para reformarem alguns artigos da Constituição.

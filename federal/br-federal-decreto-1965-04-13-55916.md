@@ -1,5 +1,3 @@
-###DEC-055916-0-000-13-04-1965@@@
-
 DECRETO Nº 55.916, DE 13 DE ABRIL DE 1965.
 
 Autoriza estrangeira a adquirir, em regularização e revigoração de aforamento, o domínio útil de fração ideal do terreno de marinha e crescido que menciona, no Estado da Guanabara.

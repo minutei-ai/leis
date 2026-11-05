@@ -1,5 +1,3 @@
-###DEC-085933-0-000-27-04-1981@@@
-
 Decreto nº 85.933, de 27 de abril de 1981.
 
 Declara de utilidade pública e de interesse social, para fins de desapropriação, áreas de terras e respectivas benfeitorias, necessárias à implantação do "Distrito de Irrigação do Arroio Chasqueiro", no Município de Arroio Grande, Estado do Rio Grande do Sul, e dá outras providências.

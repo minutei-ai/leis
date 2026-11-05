@@ -1,5 +1,3 @@
-###DEC-006096-0-000-24-04-2007@@@
-
 DECRETO Nº 6.096, DE 24 DE ABRIL DE 2007.
 
 Institui o Programa de Apoio a Planos de Reestruturação e Expansão das Universidades Federais - REUNI.
@@ -65,5 +63,3 @@ LUIZ INÁCIO LULA DA SILVA
 Fernando Haddad
 
 Paulo Bernardo Silva
-
-Este texto não substitui o publicado no DOU de 25.4.2007

@@ -1,5 +1,3 @@
-###DEC-047664-0-000-19-01-1960@@@
-
 Decreto nº 47.664, de 19 de janeiro de 1960.
 
 Dispõe sôbre a Faculdade de Ciências Médicas de Minas Gerais.

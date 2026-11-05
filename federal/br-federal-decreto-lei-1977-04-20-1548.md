@@ -1,5 +1,3 @@
-###DEL-001548-0-000-20-04-1977@@@
-
 # DECRETO-LEI Nº 1.548, De 20 DE ABRIL DE 1977
 
 Reajusta os vencimentos e proventos dos servidores da Secretaria do Tribunal Superior Eleitoral e dá outras providências.

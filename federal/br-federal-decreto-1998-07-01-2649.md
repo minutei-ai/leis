@@ -1,5 +1,3 @@
-###DEC-002649-0-000-01-07-1998@@@
-
 DECRETO Nº 2.649, DE 1º DE JULHO DE 1998
 
 Promulga o Acordo de Cooperação na Luta Contra o Crime Organizado e o Tráfico de Entorpecentes e Substâncias Psicotrópicas, celebrado entre o Governo da República Federativa do Brasil e o Governo da República Italiana, em Roma, em 12 de fevereiro de 1997.

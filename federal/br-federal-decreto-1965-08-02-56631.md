@@ -1,5 +1,3 @@
-###DEC-056631-0-000-02-08-1965@@@
-
 DECRETO Nº 56.631, DE 2 DE AGÔSTO DE 1965.
 
 Concede à sociedade Navegação Mercantil - S.A. - NAVEM autorização para continuar a funcionar como emprêsa de navegação de cabotagem.

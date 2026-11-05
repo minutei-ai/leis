@@ -1,5 +1,3 @@
-###DEC-002912-0-000-29-12-1998@@@
-
 DECRETO Nº 2.912, DE 29 DE DEZEMBRO DE 1998.
 
 Aprova o Programa de Dispêndios Globais - PDG das empresas estatais federais para 1999 e dá outras providências.

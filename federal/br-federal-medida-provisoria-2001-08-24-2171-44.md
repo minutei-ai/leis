@@ -1,5 +1,3 @@
-###MPV-002171-0-044-24-08-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.171‑44, DE 24 DE agosto DE 2001
 
 Altera as Leis no 6.368, de 21 de outubro de 1976, 8.112, de 11 de dezembro de 1990, 8.429, de 2 de junho de 1992, e 9.525, de 3 de dezembro de 1997, e dá outras providências.

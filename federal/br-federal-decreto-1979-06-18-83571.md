@@ -1,5 +1,3 @@
-###DEC-083571-0-000-18-06-1979@@@
-
 Decreto Nº 83.571, de 18 de Junho de 1979
 
 Autoriza o Ministro da Fazenda a conceder garantia da República Federativa do Brasil a operação externa.

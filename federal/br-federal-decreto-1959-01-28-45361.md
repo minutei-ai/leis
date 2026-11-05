@@ -1,5 +1,3 @@
-###DEC-045361-0-000-28-01-1959@@@
-
 Decreto nº 45.361, de 28 de janeiro de 1959.
 
 Inclui novos representantes da Comissão Brasileira de Turismo.

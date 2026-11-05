@@ -1,5 +1,3 @@
-###DEC-056355-0-000-24-05-1965@@@
-
 DECRETO Nº 56.355, DE 24 DE MAIO DE 1965.
 
 Concede à Visconde de Itaboraí Companhia de Seguros Gerais autorização para funcionar e aprovar os seus Estatutos.

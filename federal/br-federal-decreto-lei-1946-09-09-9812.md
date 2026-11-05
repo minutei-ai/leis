@@ -1,5 +1,3 @@
-###DEL-009812-0-000-09-09-1946@@@
-
 DECRETO-LEI N. 9.812 – DE 9 DE SETEMBRO DE 1946
 
 Dispõe sôbre a readmissão e posse de José Galhanone de Oliveira

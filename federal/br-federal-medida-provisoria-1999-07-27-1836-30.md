@@ -1,5 +1,3 @@
-###MPV-001836-0-030-27-07-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.836-30, DE 27 DE JULHO DE 1999.
 
 Estabelece multa em operações de importação e dá outras providências.

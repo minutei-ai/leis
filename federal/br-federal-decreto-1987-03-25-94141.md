@@ -1,5 +1,3 @@
-###DEC-094141-0-000-25-03-1987@@@
-
 DECRETO Nº 94.141, DE 25 DE MARÇO DE 1987.
 
 Autoriza a transferência direta da concessão outorgada a Rádio Clube de Goiânia S.A., para a Rádio Araguaia Ltda.

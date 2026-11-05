@@ -1,7 +1,3 @@
-1
-
-###DEC-099341-0-000-25-06-1990@@@
-
 DECRETO N° 99.341, DE 25 DE JUNHO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou insti­tuição de servidão administrativa ou de passagem, em favor da Petróleo Brasileiro S.A., PETROBRÁS, imóveis constituídos de terras e benfeitorias, situados nos Municípios de Estância Balneária de Praia Grande, São Vicente e Cubatão no Estado de São Paulo, necessários à construção do gasoduto Praia Grande/RPBC.

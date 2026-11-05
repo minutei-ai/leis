@@ -1,5 +1,3 @@
-###DEC-060965-0-000-07-07-1967@@@
-
 DECRETO Nº 60.965, DE 7 DE JULHO DE 1967.
 
 Declara de utilidade pública, o “Centro Social Nossa Senhora do Rosário”, com sede em Vila Pompéia, Estado de São Paulo.

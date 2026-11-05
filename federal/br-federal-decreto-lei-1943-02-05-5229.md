@@ -1,5 +1,3 @@
-###DEL-005229-0-000-05-02-1943@@@
-
 DECRETO‑LEI N. 5.229 – DE 5 DE FEVEREIRO DE 1943
 
 Dispõe sobre comprovação  de despesas realizadas pelo Serviço Especial de Saude Pública

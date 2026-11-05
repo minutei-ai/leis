@@ -1,7 +1,3 @@
-1
-
-###MPV-000843-0-000-19-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 843, DE 19 DE JANEIRO DE 1995
 
 Dispõe sobre alteração do Decreto-Lei nº 1.804, de 3 de setembro de 1980.

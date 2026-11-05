@@ -1,5 +1,3 @@
-###DEC-051233-0-000-22-08-1961@@@
-
 DECRETO Nº 51.233, DE 22 DE AGÔSTO DE 1961.
 
 Transfere a reunião Congressual do Conselho Superior e Presidentes das Caixas Econômicas Federais.

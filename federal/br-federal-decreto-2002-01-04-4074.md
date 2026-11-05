@@ -1,5 +1,3 @@
-###DEC-004074-0-000-04-01-2002@@@
-
 DECRETO Nº 4.074, DE 4 DE JANEIRO DE 2002.
 
 Regulamenta a Lei no 7.802, de 11 de julho de 1989, que dispõe sobre a pesquisa, a experimentação, a produção, a embalagem e rotulagem, o transporte, o armazenamento, a comercialização, a propaganda comercial, a utilização, a importação, a exportação, o destino final dos resíduos e embalagens, o registro, a classificação, o controle, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins, e dá outras providências.

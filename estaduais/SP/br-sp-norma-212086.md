@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212086)<br>
-
 # LEI N° 18.378, DE 23 DE DEZEMBRO DE 2025
 
 ### _Altera a Lei n° 16.283, de 15 de julho de 2016, que dispõe sobre o Fundo de Melhoria dos Municípios Turísticos e dá providências correlatas._

@@ -1,5 +1,3 @@
-###DEC-053002-0-000-27-11-1963@@@
-
 DECRETO Nº 53.002, DE 27 DE NOVEMBRO DE 1963.
 
 Autoriza a transferência da concessão outorgada a Ângelo Bazzeto pelo Decreto nº 34.982, de 27 de janeiro de 1954.

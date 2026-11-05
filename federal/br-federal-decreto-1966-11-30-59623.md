@@ -1,5 +1,3 @@
-###DEC-059623-0-000-30-11-1966@@@
-
 DECRETO Nº 59.623, DE 30 DE NOVEMBRO DE 1966.
 
 Autoriza Mineração Lagoa Grande Limitada a Lavrar minério de Ferro, no Município de Brumadinho, Estado de Minas Gerais.

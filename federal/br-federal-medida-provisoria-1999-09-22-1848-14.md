@@ -1,5 +1,3 @@
-###MPV-001848-0-014-22-09-1999@@@
-
 Medida Provisória nº 1.848-14, de 22 de setembro de 1999.
 
 Autoriza o Poder Executivo a abrir ao Orçamento Fiscal da União, em favor de Refinanciamento da Dívida Pública Mobiliária Federal - Recursos sob Supervisão do Ministério da Fazenda, crédito extraordinário no valor de R$68.383.840.000,00, para reforço de dotações consignadas no vigente orçamento.

@@ -1,5 +1,3 @@
-###DEC-083921-0-000-29-08-1979@@@
-
 decreto nº 83.921, de 29 de agosto de 1979.
 
 Autoriza a transferência, para o patrimônio da Telecomunicações Brasileiras S.A. - TELEBRÁS, das ações e créditos da União nas empresas de serviços públicos de telecomunicações e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-095913-0-000-11-04-1988@@@
-
 DECRETO N° 95.913, DE 11 DE ABRIL DE 1988
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração de Nova Andradina, Mato Grosso do Sul.

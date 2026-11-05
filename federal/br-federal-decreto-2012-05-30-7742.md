@@ -1,5 +1,3 @@
-###DEC-007742-0-000-30-05-2012-PUB-01@@@
-
 DECRETO N°\- 7.742, DE 30 DE MAIO DE 2012
 
 Altera a Tabela de Incidência do Imposto sobre Produtos Industrializados - TIPI, aprovada pelo Decreto n° 7.660, de 23 de dezembro de 2011; altera o Decreto nº 6.707, de 23 de dezembro de 2008, que regulamenta dispositivos da Lei n° 10.833, de 29 de dezembro de 2003, que trata da incidência do Imposto sobre Produtos Industrializados - IPI, da Contribuição para o PIS/PASEP e da Contribuição para o Financiamento da Seguridade Social - COFINS, no mercado interno e na importação, sobre produtos dos Capítulos 21 e 22 da TIPI.

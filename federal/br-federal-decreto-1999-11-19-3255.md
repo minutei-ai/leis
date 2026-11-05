@@ -1,5 +1,3 @@
-###DEC-003255-0-000-19-11-1999@@@
-
 DECRETO Nº 3.255, DE 19 DE NOVEMBRO DE 1999.
 
 Dispõe sobre o custeio de auxílio-moradia para dirigentes de empresas estatais federais.

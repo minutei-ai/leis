@@ -1,5 +1,3 @@
-###DEC-084527-0-000-04-03-1980@@@
-
 Decreto nº 84.527, de 04 de março de 1980
 
 Autoriza o aumento de capital social da empresa que menciona.

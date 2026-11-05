@@ -1,5 +1,3 @@
-###DEC-059988-0-000-10-01-1967@@@
-
 DECRETO Nº 59.988, DE 10 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Onofre Alves Generoso a Pesquisar Pedras semi-preciosas, no município de Galiléia, Estado de Minas Gerais.

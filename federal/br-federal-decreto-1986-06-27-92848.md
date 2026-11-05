@@ -1,5 +1,3 @@
-###DEC-092848-0-000-27-06-1986@@@
-
 DECRETO Nº 92.848, DE 27 DE JUNHO DE 1986
 
 Renova a concessão outorgada à SOCIEDADE RÁDIO CLUBE DE VARGINHA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Varginha, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEL-003571-0-000-29-08-1941@@@
-
 DECRETO-LEI N. 3.571 – DE 29 DE AGOSTO DE 1941
 
 Abre ao Ministério da Justiça e Negócios o Interiores o crédito suplementar de 5.169 :972$4, às dotações que especifica

@@ -1,5 +1,3 @@
-###DEC-075306-0-000-27-01-1975@@@
-
 Decreto nº 75.306, de 27 de janeiro de 1975.
 
 Torna sem efeito o Manifesto de Mina que menciona

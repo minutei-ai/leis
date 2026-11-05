@@ -1,5 +1,3 @@
-###MPV-001972-0-008-10-12-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.972-8, DE 10 DE DEZEMBRO DE 1999.
 
 Dispõe sobre o Fundo de Financiamento ao Estudante do Ensino Superior e dá outras providências

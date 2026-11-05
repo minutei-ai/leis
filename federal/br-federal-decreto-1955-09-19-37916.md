@@ -1,17 +1,15 @@
-###DEC-037916-0-000-19-09-1955@@@
+**DECRETO Nº 37.916, DE 19 DE SETEMBRO DE 1955.**
 
-<strong>DECRETO Nº 37.916, DE 19 DE SETEMBRO DE 1955.</strong>
+***Concede autorização para constituição do “Banco de Crédito Sete de Setembro, Sociedade Cooperativa de Responsabilidade Limitada”, com sede no Distrito Federal.***
 
-<em><strong>Concede autorização para constituição do “Banco de Crédito Sete de Setembro, Sociedade Cooperativa de Responsabilidade Limitada”, com sede no Distrito Federal.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e de acôrdo com a alínea *b* do artigo 12 do Decreto n.º 22.239 , de 19 de dezembro de 1932, modificado pelo Decreto-lei n.º 581, de 1.º de agôsto de 1938, ambos revigorados pelo Decreto n.º 8.401, de 19 de dezembro de 1945,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e de acôrdo com a alínea <em>b</em> do artigo 12 do Decreto n.º 22.239 , de 19 de dezembro de 1932, modificado pelo Decreto-lei n.º 581, de 1.º de agôsto de 1938, ambos revigorados pelo Decreto n.º 8.401, de 19 de dezembro de 1945,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica o Banco de Crédito Sete de Setembro, Sociedade Cooperativa de Responsabilidade Limitada autorizado a constituir-se no Distrito Federal, após o que deverá, nos têrmos da lei, registrar-se no Serviço de Economia Rural, do Ministério da Agricultura.
+**Art**. 1º Fica o Banco de Crédito Sete de Setembro, Sociedade Cooperativa de Responsabilidade Limitada autorizado a constituir-se no Distrito Federal, após o que deverá, nos têrmos da lei, registrar-se no Serviço de Economia Rural, do Ministério da Agricultura.
 
 Rio de Janeiro, 19 de setembro de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Munhoz da Rocha

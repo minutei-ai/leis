@@ -1,7 +1,3 @@
-1
-
-###DEC-095760-0-000-01-03-1988@@@
-
 DECRETO N° 95.760, DE 1° DE MARÇO DE 1988
 
 Regulamenta o art. 3° do Decreto-lei n° 2.398, de 21 de dezembro de 1987, e dá outras providências.

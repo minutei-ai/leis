@@ -1,5 +1,3 @@
-###DEC-045461-0-000-25-02-1959@@@
-
 DECRETO Nº 45.461, DE 25 DE FEVEREIRO DE 1959.
 
 Acrescenta novo parágrafo ao art. 4º do Regulamento baixado pelo Decreto nº 42.218, de 3 de setembro de 1957.

@@ -1,5 +1,3 @@
-###DEC-047059-0-000-21-10-1959@@@
-
 DECRETO Nº 47.059, DE 21 DE OUTUBRO DE 1959.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 33.564, de 17 de agôsto de 1953, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno situado no Município de Sobral, Estado do Ceará.

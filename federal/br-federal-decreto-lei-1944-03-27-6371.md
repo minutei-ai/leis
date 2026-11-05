@@ -1,5 +1,3 @@
-###DEL-006371-0-000-27-03-1944@@@
-
 DECRETO-LEI  N.  6.371 – DE 27 DE MARÇO DE 1944
 
 Dispõe sôbre a forma de pagamento do pessoal extranumerário-diarista de diversos órgãos, e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-004310-0-000-23-07-2002@@@
-
 DECRETO Nº 4.310, DE 23 DE JULHO DE 2002
 
 Consolida o quantitativo dos Cargos de Direção - CD e das Funções Gratificadas - FG no âmbito das instituições federais de ensino vinculadas ao Ministério da Educação, e dá outras providências.

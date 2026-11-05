@@ -1,7 +1,3 @@
-1
-
-###DEC-097753-0-000-17-05-1989@@@
-
 DECRETO Nº 97.753, DE 17 DE MAIO DE 1989
 
 Altera o Estatuto do Conselho Nacional de Desenvolvimento Científico e Tecnológico CNPq, e consolida a redação do texto.

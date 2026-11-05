@@ -8,7 +8,34 @@ decreta:
 
 Art. 1º Fica aberto, pelo Ministério da Viação e Obras Públicas, o crédito especial de 104.984:230$800 (cento e quatro mil, novecentos e oitenta e quatro contos, duzentos e trinta mil e oitocentos réis), para atender ao pagamento devido ao Estado de Minas Gerais pelas inversões feitas na Rêde Sul Mineira, inclusive o custeio dos ramais a que se refere a letra a do art. 1º da lei n. 475, de 17 de agosto de 1937, devidamente apuradas e aprovadas pelo Ministério da Viação e Obras Públicas, sendo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; -aw-border-insideh:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:329.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:0.83em">a) Aparelhamento da Estrada:</span></p><p class="Alnea"><span>Tomada de contas referentes ao período de 1 de abril de 1922 a 28 de fevereiro de 1931.....................................................................................</span></p><p style="text-indent:0pt; text-align:justify; line-height:12pt"><span style="font-size:0.83em">b) Ramal de Machado...................................................................................</span><br><span style="font-size:0.83em">c) Ramal de Tres Pontas..............................................................................</span><br><span style="font-size:0.83em">d) Ramal de S. Gonçalo do Sapucaí.............................................................</span><br><span style="font-size:0.83em">e) Avaliação da E. F. Paracatú (saldo a pagar)............................................</span><br><span style="font-size:0.83em">f) Avaliação do trecho de Patrocínio a Ouvidor.............................................</span><br><span style="font-size:0.83em">g) Obras de eletrificação executadas até 30 de dezembro de 1937..............................................................................................................</span></p></td><td style="width:145.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="text-align:right; line-height:12pt"><br><br><span style="font-size:0.83em">51.860:353$9</span><br><br><span style="font-size:0.83em">2.793:460$0</span><br><span style="font-size:0.83em">1.317:828$9</span><br><span style="font-size:0.83em">4.147:953$2</span><br><span style="font-size:0.83em">13.639:123$6</span><br><span style="font-size:0.83em">18.226:884$4</span><br><br><span style="font-size:0.83em; text-decoration:underline">12.998:626$1</span><br><br><span style="font-size:0.83em; text-decoration:underline">104.984:230$8</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; -aw-border-insideh:0.5pt single #000000; border-collapse:collapse"><tbody><tr><td style="width:329.65pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+a) Aparelhamento da Estrada:
+
+Tomada de contas referentes ao período de 1 de abril de 1922 a 28 de fevereiro de 1931.....................................................................................
+
+b) Ramal de Machado...................................................................................
+c) Ramal de Tres Pontas..............................................................................
+d) Ramal de S. Gonçalo do Sapucaí.............................................................
+e) Avaliação da E. F. Paracatú (saldo a pagar)............................................
+f) Avaliação do trecho de Patrocínio a Ouvidor.............................................
+g) Obras de eletrificação executadas até 30 de dezembro de 1937..............................................................................................................
+
+</td><td style="width:145.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+51.860:353$9
+
+2.793:460$0
+1.317:828$9
+4.147:953$2
+13.639:123$6
+18.226:884$4
+
+12.998:626$1
+
+104.984:230$8
+
+</td></tr></tbody></table>
 
               Art. 2º O pagamento a que se refere o artigo anterior será feito da seguinte fóma: 104.984:000$000 (cento e quatro mil, novecentos e oitenta e quatro contos de réis) em apólices da Dívida Pública Interna, da emissão autorizada no presente decreto-lei; e a fração da 230$800 (duzentos e trinta mil o oitocentos réis) em moeda corrente do país.
 

@@ -1,5 +1,3 @@
-###DEL-006961-0-000-16-10-1944@@@
-
 DECRETO-LEI N. 6.961 – DE 16 DE OUTUBRO DE 1944
 
 Dispõe Sôbre o pagamento de juros de títulos da Dívida Pública ao portador e dá outras providências

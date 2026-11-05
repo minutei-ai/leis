@@ -1,5 +1,3 @@
-###DEL-005115-0-000-18-12-1942@@@
-
 DECRETO-LEI N. 5.115 – DE 18 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 400.000,00 à verba que especifica

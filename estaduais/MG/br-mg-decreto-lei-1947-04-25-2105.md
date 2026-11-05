@@ -41,7 +41,3 @@ Art. 7º - Revogadas as disposições em contrário, entrará este decreto-lei e
 Palácio da Liberdade, em Belo Horizonte, 25 de abril de 1947.
 
 MILTON SOARES CAMPOS - Governador do Estado.
-
-\================================================================
-
-Data da última atualização: 21/09/2007

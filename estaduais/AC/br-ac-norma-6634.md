@@ -1,6 +1,10 @@
 > **LEI Nº 4.749, DE 29 DE DEZEMBRO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria o Sistema Integrado de Meio Ambiente e Mudança do Clima - SIMAMC e o Centro Integrado de Inteligência, Geoprocessamento e Monitoramento Ambiental - CIGMA.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria o Sistema Integrado de Meio Ambiente e Mudança do Clima - SIMAMC e o Centro Integrado de Inteligência, Geoprocessamento e Monitoramento Ambiental - CIGMA.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE**
 

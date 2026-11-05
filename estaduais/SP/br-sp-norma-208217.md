@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208217)<br>
-
 # DECRETO N° 67.770, DE 24 DE JUNHO DE 2023
 
 ### _Altera a composição da Comissão de avaliação constituída pelo Decreto n° 66.293, de 3 de dezembro de 2021._

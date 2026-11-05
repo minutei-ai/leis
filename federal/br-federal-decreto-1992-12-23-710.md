@@ -1,7 +1,3 @@
-1
-
-###DEC-000710-0-000-23-12-1992@@@
-
 DECRETO N° 710, DE 23 DE DEZEMBRO DE 1992
 
 Altera o art. 2° do Decreto n° 607, de 20 de julho de 1992, que dispõe sobre o Conselho de Gestão da Previdência Complementar - CGPC e dá outras providências.

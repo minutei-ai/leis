@@ -1,5 +1,3 @@
-###DEC-099531-0-000-17-09-1990@@@
-
 DECRETO N° 99.531, DE 17 DE SETEMBRO DE 1990
 
 Aprova o Estatuto da Caixa Econômica Federal (CEF) e dá outras providencias.

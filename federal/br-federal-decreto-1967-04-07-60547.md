@@ -1,5 +1,3 @@
-###DEC-060547-0-000-07-04-1967@@@
-
 DECRETO Nº 60.547, DE 7 DE ABRIL DE 1967.
 
 Declara de utilidade pública a “Sociedade Literária São Boaventura”, com sede em Caxias do Sul, Estado do Rio Grande do Sul.

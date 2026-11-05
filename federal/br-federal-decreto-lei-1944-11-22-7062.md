@@ -1,5 +1,3 @@
-###DEL-007062-0-000-22-11-1944@@@
-
 DECRETO-LEI N. 7.062 – DE 22 DE NOVEMBRO DE 1944
 
 Dispõe sôbre os bens e instalações utilizados na produção, transmissão, transformação e distribuição de energia elétrica

@@ -1,5 +1,3 @@
-###DEC-078251-0-000-16-08-1976@@@
-
 DECRETO Nº 78.251, DE 16 DE Agosto DE 1976.
 
 Declara de interesse social, para fins de desapropriação, imóvel rural situado nos Municípios de Governador Eugênio de Barros e São Domingos no Estado do Maranhão, compreendido na área prioritária de Reforma Agrária, assim declarada pelo Decreto nº 77.073, de 22 de janeiro de 1976, e ampliada pelo Decreto nº 78.250, de 16 de agosto de 1976.

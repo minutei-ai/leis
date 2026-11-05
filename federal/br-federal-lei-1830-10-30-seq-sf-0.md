@@ -1,5 +1,3 @@
-###LEI-000000-0-000-30-10-1830@@@
-
 LEI - DE 30 DE OUTUBRO DE 1830
 
 Determina que os Escrivães dos Juizes de Paz fóra das cidades, ou villas, sejam os Tabelliães de Notas.

@@ -1,5 +1,3 @@
-###DEC-005296-0-000-02-12-2004@@@
-
 DECRETO Nº 5.296 DE 2 DE DEZEMBRO DE 2004
 
 Regulamenta as Leis nºs 10.048, de 8 de novembro de 2000, que dá prioridade de atendimento às pessoas que especifica, e 10.098, de 19 de dezembro de 2000, que estabelece normas gerais e critérios básicos para a promoção da acessibilidade das pessoas portadoras de deficiência ou com mobilidade reduzida, e dá outras providências.

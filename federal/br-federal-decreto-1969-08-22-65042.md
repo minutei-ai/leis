@@ -1,5 +1,3 @@
-###DEC-065042-0-000-22-08-1969@@@
-
 DECRETO Nº 65.042 - DE 22 DE AGôSTO DE 1969.
 
 Declara de utilidade pública a Ação Social de Parangaba, com sede em Fortaleza, Estado do Ceará.

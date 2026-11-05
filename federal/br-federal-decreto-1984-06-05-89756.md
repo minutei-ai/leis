@@ -1,5 +1,3 @@
-###DEC-089756-0-000-05-06-1984@@@
-
 DecretO nº 89.756, de 05 de junho de 1984
 
 Dá nova redação ao artigo 7º do Decreto nº 86.010, de 15 de maio de 1981, que dispõe sobre a Comissão de Coordenação do Transporte Aéreo Civil - COTAC.

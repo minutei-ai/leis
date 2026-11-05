@@ -1,5 +1,3 @@
-###DEC-052530-0-000-27-09-1963@@@
-
 DECRETO Nº 52.530, DE 27 DE SETEMBRO DE 1963.
 
 Aprova o Regimento da Comissão Executiva de Assistência à cafeicultura (CEAC).
@@ -93,8 +91,6 @@ Art. 14. Os casos omissos serão resolvidos pelo Ministro da Indústria e do Com
 Brasília, 27 de setembro de 1963.
 
 Egydio Michaelsen.
-
-###DEC-052530-0-000-27-09-1963@@@RET01+++
 
 DECRETO Nº 52.530, DE 27 DE SETEMBRO DE 1963.
 

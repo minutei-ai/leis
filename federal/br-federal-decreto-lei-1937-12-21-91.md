@@ -1,5 +1,3 @@
-###DEL-000091-0-000-21-12-1937@@@
-
 DECRETO-LEI N. 91 – DE 21 DE DEZEMBRO DE 1937
 
 Abre, pelo Ministério da Justiça, o crédito especial de 50:000$000, destinado a aquisição de um automóvel para transporte do Presidente do Supremo Tribunal Federal

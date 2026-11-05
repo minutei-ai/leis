@@ -1,5 +1,3 @@
-###DEC-094327-0-000-13-05-1987@@@
-
 DECRETO Nº 94.327, DE 13 DE MAIO DE 1987
 
 Dispõe sobre a estrutura básica do Ministério das Relações Exteriores, e dá outras providências.

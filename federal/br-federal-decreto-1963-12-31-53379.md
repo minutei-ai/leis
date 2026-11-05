@@ -1,5 +1,3 @@
-###DEC-053379-0-000-31-12-1963@@@
-
 Decreto Nº 53.379, DE 31 DE DEZEMBRO DE 1963.
 
 Altera a lotação numérica da Parte Permanente do Quadro de Pessoal do Ministério da Fazenda.

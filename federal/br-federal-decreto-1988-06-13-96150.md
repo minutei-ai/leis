@@ -1,5 +1,3 @@
-###DEC-096150-0-000-13-06-1988@@@
-
 DECRETO N° 96.150, DE 13 DE JUNHO DE 1988
 
 Altera o § 4° do art. 6° do Decreto n° 88.351, de 1° de junho de 1983, na redação dada pelo Decreto n° 93.630, de 28 de novembro de 1986.

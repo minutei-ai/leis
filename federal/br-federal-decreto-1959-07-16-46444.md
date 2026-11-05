@@ -1,5 +1,3 @@
-###DEC-046444-0-000-16-07-1959@@@
-
 Decreto nº 46.444, de 16 de julho de 1959.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento dos Correios e Telégrafos, prédio da Rua 24 de Maio, número 395-A, no bairro do Riachuelo, nesta Capital.

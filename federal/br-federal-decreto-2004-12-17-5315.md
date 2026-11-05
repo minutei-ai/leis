@@ -1,5 +1,3 @@
-###DEC-005315-0-000-17-12-2004@@@
-
 DECRETO Nº 5.315 DE 17 DE DEZEMBRO DE 2004
 
 Dá nova redação aos arts. 5o e 10 do Regimento do Serviço Nacional de Aprendizagem do Cooperativismo - SESCOOP, aprovado pelo Decreto nº 3.017, de 6 de abril de 1999.

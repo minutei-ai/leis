@@ -1,5 +1,3 @@
-###DEL-004868-0-000-23-10-1942@@@
-
 DECRETO-LEI N. 4.868 – DE 23 DE OUTUBRO DE 1942
 
 Altera o regime de concessão de férias aos trabalhadores empregados nas atividades essenciais à segurança nacional, enquanto durar o estado de guerra

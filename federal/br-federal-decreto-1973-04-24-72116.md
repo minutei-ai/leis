@@ -1,5 +1,3 @@
-###DEC-072116-0-000-24-04-1973@@@
-
 decreto nº 72.116, de 24 de abril de 1973.
 
 Retifica o Decreto nº 71.927, de 19 de março de 1973, que autoriza o funcionamento da Faculdade Francana de Filosofia.

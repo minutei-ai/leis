@@ -1,5 +1,3 @@
-###DEC-007433-0-000-20-01-2011-PUB-01@@@
-
 DECRETO Nº 7.433, DE 20 DE JANEIRO DE 2011
 
 Fixa, para a Marinha do Brasil, o número de vagas para promoções obrigatórias de oficiais, para os Corpos e Quadros que menciona, no ano-base de 2010.

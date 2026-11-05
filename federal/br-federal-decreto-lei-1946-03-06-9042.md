@@ -1,5 +1,3 @@
-###DEL-009042-0-000-06-03-1946@@@
-
 DECRETO-LEI N. 9.042 – DE 6 DE MARÇO DE 1946
 
 Altera sem aumento de despesa, o atual orçamento do Ministério da Agricultura.

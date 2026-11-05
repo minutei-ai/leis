@@ -1,5 +1,3 @@
-###DEC-067513-0-000-09-11-1970@@@
-
 DECRETO Nº 67.513, DE 9 DE NOVEMBRO DE 1970.
 
 Declara sem efeito o Decreto número 1.618, de 22 de novembro de 1962.

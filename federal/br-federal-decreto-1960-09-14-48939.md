@@ -1,5 +1,3 @@
-###DEC-048939-0-000-14-09-1960@@@
-
 DECRETO Nº 48.939, DE 14 DE SETEMBRO DE 1960.
 
 Autoriza a Central Elétrica de Furnas S. A. a construir dois trechos de linhas de transmissão.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099343-0-000-25-06-1990@@@
-
 DECRETO N° 99.343, DE 25 DE JUNHO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou de instituição de servidão de passagem em favor da Rede Ferroviária Federal S.A. (RFFSA), imóveis constituídos de terra, benfeitorias, acessões e outros bens situa­dos nos municípios abaixo discriminados, no Estado da Bahia.

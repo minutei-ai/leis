@@ -1,5 +1,3 @@
-###DEC-079450-0-000-29-03-1977@@@
-
 DECRETO Nº 79.450, DE 29 DE MARÇO DE 1977.
 
 Concede à Pedras Congonhas Extração Arte e Indústria Ltda., o direito de lavrar serpentinito, no Município de Nova Lima, Estado de Minas Gerais.

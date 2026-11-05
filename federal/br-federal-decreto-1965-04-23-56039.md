@@ -1,5 +1,3 @@
-###DEC-056039-0-000-23-04-1965@@@
-
 DECRETO Nº 56.039, DE 23 DE ABRIL DE 1965.
 
 Autoriza o cidadão brasileiro Zoroastro de Almeida Ruas a pesquisar pedras semi-preciosas, no município de Ecoporanga, Estado do Espírito Santo.

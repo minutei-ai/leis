@@ -1,5 +1,3 @@
-###DEC-072767-0-000-06-09-1973@@@
-
 DECRETO Nº 72.767, de 6 de setembro de 1973.
 
 Concede a Pedro Saturnino de Souza, firma individual, o direito de lavrar calcita e calcário, no Município de Campo Formoso, Estado da Bahia.

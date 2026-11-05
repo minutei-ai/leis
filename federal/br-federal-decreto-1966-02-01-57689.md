@@ -1,5 +1,3 @@
-###DEC-057689-0-000-01-02-1966@@@
-
 Decreto nº 57.689, de 1º de fevereiro de 1966.
 
 Dá nova redação ao art. 43 do Decreto nº 51.620, de 13 de dezembro de 1962.

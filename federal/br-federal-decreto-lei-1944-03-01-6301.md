@@ -1,5 +1,3 @@
-###DEL-006301-0-000-01-03-1944@@@
-
 DECRETO-LEI N. 6.301 – DE 1 DE MARÇO DE 1944
 
 Concede aos Coletores e Escrivães de coletorias federais  auxílio para aluguel de casa e dá outras providências
@@ -10,7 +8,21 @@ decreta:
 
 Art. 1º São concedidas aos Coletores e Escrivães de coletorias federais, a título de auxílio para pagamento do aluguel de imóvel onde se ache instalada a repartição, as seguintes importâncias anuais:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coletorias de 1ª e 2ª classes...............................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 3.600,00</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coletorias de 3ª classe .......................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 2.400,00</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coletorias de 4ª classe .......................................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$ 1.800,00</span></p></td></tr><tr><td style="width:347.4pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Coletorias de 5ª e 6ª classes ..............................................................................</span></p></td><td style="width:120.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Cr$</span><span style="-aw-import:spaces">&nbsp; </span><span>1.200,00</span></p></td></tr></tbody></table>
+Coletorias de 1ª e 2ª classes...............................................................................
+
+Cr$ 3.600,00
+
+Coletorias de 3ª classe .......................................................................................
+
+Cr$ 2.400,00
+
+Coletorias de 4ª classe .......................................................................................
+
+Cr$ 1.800,00
+
+Coletorias de 5ª e 6ª classes ..............................................................................
+
+Cr$  1.200,00
 
 Parágrafo único. Não caberá a concessão quando a coletoria se achar instalada gratuitamente em imóvel federal, estadual ou municipal, cumprindo aos Inspetores Fiscais apurar a veracidade das declarações dos exatores afim de informar às respectivas Delegacias Fiscais.
 
@@ -22,7 +34,87 @@ Art. 3º Para atender à despesa de que trata o art. 1º, fica aberto ao Minist�
 
                                                                                                                                          Cr$
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Amazonas .........................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20.948,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para .....................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>41.897,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Maranhão ............................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>48.674,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Piauí ....................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>35.119,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Ceará ..................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>59.148,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Grande do Norte ...........................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22.797,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paraíba ..................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>46.826,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pernambuco ...........................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>99.197,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Alagoas ...................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>46.210,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Sergipe ....................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>38.816,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Bahia .......................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>170.668,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Espírito Santo</span><span style="-aw-import:spaces">&nbsp; </span><span>.......................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>42.513,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio de Janeiro .......................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>114.600,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>São Paulo ..............................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>439.300,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Paraná ...................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>72.087,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Santa Catarina .......................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>73.319,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Rio Grande do Sul .................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>144.174,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Minas Gerais .........................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>378.920,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Mato Grosso ..........................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>22.181,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Goiaz .....................................................................................................</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">64.077,00</span></p></td></tr><tr><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:71pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="text-decoration:underline">1.981.471,00</span></p></td></tr></tbody></table>
+Amazonas .........................................................................................
+
+20.948,00
+
+Para .....................................................................................................
+
+41.897,00
+
+Maranhão ............................................................................................
+
+48.674,00
+
+Piauí ....................................................................................................
+
+35.119,00
+
+Ceará ..................................................................................................
+
+59.148,00
+
+Rio Grande do Norte ...........................................................................
+
+22.797,00
+
+Paraíba ..................................................................................................
+
+46.826,00
+
+Pernambuco ...........................................................................................
+
+99.197,00
+
+Alagoas ...................................................................................................
+
+46.210,00
+
+Sergipe ....................................................................................................
+
+38.816,00
+
+Bahia .......................................................................................................
+
+170.668,00
+
+Espírito Santo  .......................................................................................
+
+42.513,00
+
+Rio de Janeiro .......................................................................................
+
+114.600,00
+
+São Paulo ..............................................................................................
+
+439.300,00
+
+Paraná ...................................................................................................
+
+72.087,00
+
+Santa Catarina .......................................................................................
+
+73.319,00
+
+Rio Grande do Sul .................................................................................
+
+144.174,00
+
+Minas Gerais .........................................................................................
+
+378.920,00
+
+Mato Grosso ..........................................................................................
+
+22.181,00
+
+Goiaz .....................................................................................................
+
+64.077,00
+
+1.981.471,00
 
 Art. 4º O presente Decreto-lei entrará em vigor na data da sua publicação.
 

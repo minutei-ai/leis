@@ -1,5 +1,3 @@
-###DEC-061577-0-000-20-10-1967@@@
-
 DECRETO Nº 61.577, DE 20 DE OUTUBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério das Minas e Energia.

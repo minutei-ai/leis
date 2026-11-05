@@ -1,5 +1,3 @@
-###DEC-061791-0-000-29-11-1967@@@
-
 Decreto nº 61.791, de 29 de novembro de 1967.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno que menciona, situado no Estado do Espírito Santo.

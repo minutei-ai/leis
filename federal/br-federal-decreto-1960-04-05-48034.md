@@ -1,5 +1,3 @@
-###DEC-048034-0-000-05-04-1960@@@
-
 DECRETO Nº 48.034, DE 5 DE ABRIL DE 1960.
 
 Dá nova redação ao art. 1º do Decreto nº 48.501, de 20 de julho de 1959, e dá outras providências.

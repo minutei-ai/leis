@@ -1,5 +1,3 @@
-###DEC-083441-0-000-10-05-1979@@@
-
 DECRETO Nº 83.441, De 10 DE maio DE 1979.
 
 Autoriza o registro, em nome da União o Federal, do imóvel que menciona, situado no Município de Nova Iguaçu, Estado do Rio de Janeiro.

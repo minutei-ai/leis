@@ -1,5 +1,3 @@
-###DEC-059565-0-000-14-11-1966@@@
-
 DECRETO Nº 59.565, DE 14 DE NOVEMBRO DE 1966.
 
 Declara de utilidade pública a “Sociedade Congregação Missionária”, com sede no Estado da Guanabara.

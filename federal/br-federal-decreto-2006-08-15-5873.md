@@ -1,5 +1,3 @@
-###DEC-005873-0-000-15-08-2006@@@
-
 DECRETO Nº 5.873, DE 15 DE AGOSTO DE 2006.
 
 Regulamenta o art. 19 da Lei no 10.696, de 2 de julho de 2003.
@@ -71,5 +69,3 @@ Brasília, 15 de agosto de 2006; 185o da Independência e 118o da República.
 LUIZ INÁCIO LULA DA SILVA
 
         Patrus Ananias
-
-Este texto não substitui o publicado no D.O.U. de 16.8.2006.

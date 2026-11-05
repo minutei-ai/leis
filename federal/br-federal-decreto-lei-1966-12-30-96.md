@@ -1,5 +1,3 @@
-###DEL-000096-0-000-30-12-1966@@@
-
 DECRETO-LEI Nº 96, DE 30 DE DEZEMBRO DE 1966
 
 Institui normas para a utilização dos créditos orçamentários e adicionais, e dá outras providências de natureza financeira.

@@ -1,5 +1,3 @@
-###DEC-046959-0-000-02-10-1959@@@
-
 DECRETO Nº 46.959, DE 2 DE OUTUBRO DE 1959.
 
 Autoriza a Companhia Fôrça e Luz do Paraná S. A., a ampliar suas instalações.

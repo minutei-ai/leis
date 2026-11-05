@@ -1,5 +1,3 @@
-###DEC-070165-0-000-18-02-1972@@@
-
 DECRETO Nº 70.165, DE 18 DE FEVEREIRO DE 1972.
 
 Autoriza o funcionamento da Faculdade de Educação, Ciências e Letras, com os Cursos de Letras, Geografia, História e Pedagogia, da Sociedade Universitária Augusto Mota, com sede na Guanabara.

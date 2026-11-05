@@ -1,5 +1,3 @@
-###DEC-070099-0-000-02-02-1972@@@
-
 DECRETO Nº 70.099, DE 2 DE FEVEREIRO DE 1972.
 
 Concede reconhecimento aos Cursos de Ciências (Licenciatura de 1º ciclo), Biologia, Química e Psicologia da Faculdade de Filosofia, Ciências e Letras de Ribeirão Preto.

@@ -1,5 +1,3 @@
-###DEC-046540-0-000-03-08-1959@@@
-
 DECRETO Nº 46.540, de 3 de agÔsto de 1959.
 
 Autoriza o funcionamento do curso de odontologia da Faculdade de Farmácia e Odontologia de São José dos Campos.

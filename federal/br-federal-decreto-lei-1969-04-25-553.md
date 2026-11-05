@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/05f0d657-fc32-4a2d-bcc3-936beaa36731/texto#nowhere)
 
-###DEL-000553-0-000-25-04-1969@@@
-
 DECRETO-LEI Nº 553, DE 25 DE ABRIL DE 1969
 
 Altera os limites do Mar Territorial do Brasil e dá outras providências.

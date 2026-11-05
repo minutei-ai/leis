@@ -1,5 +1,3 @@
-###DEC-080005-0-000-21-07-1977@@@
-
 DECRETO Nº 80.005, DE 21 DE JULHO DE 1977
 
 Concede à INCALCA - Indústria de Calcinação Caxambú Ltda. o direito de lavrar calcário no Município de Prudente de Moraes, Estado de Minas Gerais.

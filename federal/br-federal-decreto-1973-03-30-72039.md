@@ -1,5 +1,3 @@
-###DEC-072039-0-000-30-03-1973@@@
-
 DECRETO Nº 72.039, DE 30 DE MARÇO DE 1973.
 
 Concede a Mineração Salgema Limitada o direito de lavrar minério de ferro no Município de Independência, Estado do Ceará.

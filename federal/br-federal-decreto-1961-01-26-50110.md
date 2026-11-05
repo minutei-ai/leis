@@ -1,5 +1,3 @@
-###DEC-050110-0-000-26-01-1961@@@
-
 decreto nº 50.110, de 26 de janeiro de 1961.
 
 Declara de utilidade pública áreas de terras necessárias à ampliação progressiva da Usina Hidrelétrica do Carioca, na Cachoeira do Rosário, no rio São João, distrito do Carioca, Estado de Minas Gerais.

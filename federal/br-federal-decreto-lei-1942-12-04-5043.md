@@ -1,5 +1,3 @@
-###DEL-005043-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.043 – DE 4 DE DEZEMBRO DE 1942
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei n. 3.564, de 28 de agosto de 1941

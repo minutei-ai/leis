@@ -1,5 +1,3 @@
-###DEL-003311-0-000-26-05-1941@@@
-
 DECRETO-LEI N. 3.311 – DE 26 DE MAIO DE 1941
 
 Cria o Comando da Infataria Divisionária na 9ª Região Militar

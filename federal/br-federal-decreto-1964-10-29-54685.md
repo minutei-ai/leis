@@ -1,5 +1,3 @@
-###DEC-054685-0-000-29-10-1964@@@
-
 DECRETO Nº 54.685, DE 29 DE OUTUBRO DE 1964.
 
 Transfere da Emprêsa Minerva de Eletricidade para Centrais Elétricas de Goiás S.A. (CELG) a concessão para produzir e distribuir energia elétrica no Município de Buriti Alegre, Estado de Goiás.

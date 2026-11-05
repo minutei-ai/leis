@@ -1,5 +1,3 @@
-###DEL-005110-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.110 – DE 17 DE DEZEMBRO DE 1942
 
 Abre ao Ministério da Viação e Obras Públicas o crédito suplementar de Cr$ 240.000,00 à verba que especifica.

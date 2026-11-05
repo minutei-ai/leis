@@ -1,5 +1,3 @@
-###DEC-091756-0-000-07-10-1985@@@
-
 Decreto nº 91.756, de 07 de outubro de 1985
 
 Dispõe sobre a redistribuição de servidores, no âmbito da Administração Federal direta e das autarquias federais.

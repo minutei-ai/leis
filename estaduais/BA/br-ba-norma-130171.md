@@ -30,7 +30,59 @@ Parágrafo único - O servidor, cujo período de férias tenha sido interrompido
 
 Art. 2º - Ao servidor ocupante de cargo público efetivo que tenha ingressado no serviço público estadual até a data de publicação desta Lei, e que exercer cargos de provimento temporário ou mandato eletivo estadual, é assegurada estabilidade econômica, consistente no direito de continuar a perceber, no caso de exoneração, dispensa ou término de mandato, como vantagem pessoal, retribuição equivalente a 30% (trinta por cento) do valor do símbolo ou do subsídio, ou a diferença entre o valor deste e o vencimento do cargo de provimento permanente, observados os critérios da tabela a seguir:
 
-<table style="margin-left: .25pt; border-collapse: collapse;" width="576" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 155.95pt; border: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">Período de exercício, contínuo ou não, de cargos de provimento temporário ou mandato eletivo estadual completado até a data de publicação desta Lei (em anos).</p></td><td style="width: 148.85pt; border: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">Período exigido de exercício contínuo de cargo de provimento temporário ou mandato eletivo estadual no qual se dará a fixação da vantagem pessoal (em anos).</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">Período total de exercício de cargos de provimento temporário ou mandato eletivo estadual necessário para a concessão da vantagem pessoal (em anos).</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">acima de 09</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">2,5</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">10,5</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 08 a 09</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">3</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">11</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 07 a 08</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">3,5</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">11,5</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 06 a 07</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">4</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">12</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 05 a 06</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">4,5</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">12,5</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 04 a 05</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">5</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">13</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 03 a 04</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">5,5</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">13,5</p></td></tr><tr><td style="width: 155.95pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="208"><p class="Tabela-Texto">de 0 a 03</p></td><td style="width: 148.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="198"><p class="Tabela-Texto">6</p></td><td style="width: 127.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 28.95pt;" valign="top" width="170"><p class="Tabela-Texto">14<a name="Bookmark4" id="Bookmark4"></a></p></td></tr></tbody></table>
+Período de exercício, contínuo ou não, de cargos de provimento temporário ou mandato eletivo estadual completado até a data de publicação desta Lei (em anos).
+
+Período exigido de exercício contínuo de cargo de provimento temporário ou mandato eletivo estadual no qual se dará a fixação da vantagem pessoal (em anos).
+
+Período total de exercício de cargos de provimento temporário ou mandato eletivo estadual necessário para a concessão da vantagem pessoal (em anos).
+
+acima de 09
+
+2,5
+
+10,5
+
+de 08 a 09
+
+3
+
+11
+
+de 07 a 08
+
+3,5
+
+11,5
+
+de 06 a 07
+
+4
+
+12
+
+de 05 a 06
+
+4,5
+
+12,5
+
+de 04 a 05
+
+5
+
+13
+
+de 03 a 04
+
+5,5
+
+13,5
+
+de 0 a 03
+
+6
+
+14
 
 § 1º - O tempo de exercício em cargos em comissão ou funções de confiança, para efeito de reconhecimento do direito à estabilidade econômica, que se constitui com a exoneração ou dispensa do cargo de provimento temporário, fixando-se, neste momento, seu correspondente valor, somente poderá ser computado em um vínculo funcional efetivo, vedado o seu fracionamento para aquisição do mesmo benefício em outro vínculo de igual natureza que porventura o servidor esteja investido.
 
@@ -40,7 +92,25 @@ Art. 2º - Ao servidor ocupante de cargo público efetivo que tenha ingressado n
 
 § 4º - O servidor beneficiado pela estabilidade econômica que vier a ocupar outro cargo de provimento temporário poderá obter a modificação do valor da vantagem pessoal, passando esta a ser calculada com base no valor do símbolo correspondente ao novo cargo, observado, para o cumprimento do requisito temporal, a tabela a seguir:
 
-<table style="margin-left: .25pt; border-collapse: collapse;" width="576" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 8.0cm; border: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="302"><p class="Tabela-Texto">Período de exercício contínuo de novo cargo de provimento temporário, após a aquisição da estabilidade, completado até a data de publicação desta Lei (em meses).</p></td><td style="width: 205.55pt; border: solid #000001 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="274"><p class="Tabela-Texto">Período total de exercício contínuo de novo cargo de provimento temporário exigido para a modificação da estabilidade econômica (em anos).</p></td></tr><tr><td style="width: 8.0cm; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="302"><p class="Tabela-Texto">acima de 18</p></td><td style="width: 205.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="274"><p class="Tabela-Texto">2,5</p></td></tr><tr><td style="width: 8.0cm; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="302"><p class="Tabela-Texto">de 12 a 18</p></td><td style="width: 205.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="274"><p class="Tabela-Texto">3,0</p></td></tr><tr><td style="width: 8.0cm; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="302"><p class="Tabela-Texto">de 06 a 12</p></td><td style="width: 205.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="274"><p class="Tabela-Texto">3,5</p></td></tr><tr><td style="width: 8.0cm; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="302"><p class="Tabela-Texto">de 0 a 06</p></td><td style="width: 205.55pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="274"><p class="Tabela-Texto">4,0</p></td></tr></tbody></table>
+Período de exercício contínuo de novo cargo de provimento temporário, após a aquisição da estabilidade, completado até a data de publicação desta Lei (em meses).
+
+Período total de exercício contínuo de novo cargo de provimento temporário exigido para a modificação da estabilidade econômica (em anos).
+
+acima de 18
+
+2,5
+
+de 12 a 18
+
+3,0
+
+de 06 a 12
+
+3,5
+
+de 0 a 06
+
+4,0
 
 § 5º - O valor da estabilidade econômica não servirá de base para cálculo de qualquer outra parcela remuneratória.
 
@@ -138,7 +208,59 @@ Parágrafo único - A interrupção da licença para tratar de interesse particu
 
 Art. 9º - Ao militar estadual que tenha ingressado na Corporação até a data da publicação desta Lei e que exercer cargos de provimento temporário é assegurada estabilidade econômica, consistente no direito de continuar a perceber, no caso de exoneração ou dispensa, como vantagem pessoal, retribuição equivalente a 30% (trinta por cento) do valor do símbolo, ou a diferença entre o maior valor e o vencimento do cargo de provimento permanente, observados os critérios da tabela a seguir:
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 172.05pt; border: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.2pt;" valign="top" width="229"><p class="Tabela-Texto">Período de exercício, contínuo ou não, de cargo de provimento temporário completado até a data de publicação desta Lei (em anos).</p></td><td style="width: 139.85pt; border: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.2pt;" valign="top" width="186"><p class="Tabela-Texto">Período exigido de exercício contínuo de cargo de provimento temporário no qual se dará a fixação da vantagem pessoal (em anos)</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; padding: 0cm 0cm 0cm 0cm; height: 14.2pt;" valign="top" width="180"><p class="Tabela-Texto">Período total de exercício de cargos de provimento temporário exigido para a concessão da vantagem pessoal (em anos).</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.2pt;" valign="top" width="229"><p class="Tabela-Texto">acima de 09</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.2pt;" valign="top" width="186"><p class="Tabela-Texto">2,5</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.2pt;" valign="top" width="180"><p class="Tabela-Texto">10,5</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">de 08 a 09</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">3</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">11</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">de 07 a 08</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">3,5</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">11,5</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">de 06 a 07</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">4</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">12</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">&nbsp;de 05 a 06</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">4,5</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">12,5</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">de 04 a 05</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">5</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">13</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">de 03 a 04</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">5,5</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">13,5</p></td></tr><tr><td style="width: 172.05pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="229"><p class="Tabela-Texto">de 0 a 03</p></td><td style="width: 139.85pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="186"><p class="Tabela-Texto">6</p></td><td style="width: 134.65pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 14.75pt;" valign="top" width="180"><p class="Tabela-Texto">14</p></td></tr></tbody></table>
+Período de exercício, contínuo ou não, de cargo de provimento temporário completado até a data de publicação desta Lei (em anos).
+
+Período exigido de exercício contínuo de cargo de provimento temporário no qual se dará a fixação da vantagem pessoal (em anos)
+
+Período total de exercício de cargos de provimento temporário exigido para a concessão da vantagem pessoal (em anos).
+
+acima de 09
+
+2,5
+
+10,5
+
+de 08 a 09
+
+3
+
+11
+
+de 07 a 08
+
+3,5
+
+11,5
+
+de 06 a 07
+
+4
+
+12
+
+de 05 a 06
+
+4,5
+
+12,5
+
+de 04 a 05
+
+5
+
+13
+
+de 03 a 04
+
+5,5
+
+13,5
+
+de 0 a 03
+
+6
+
+14
 
 § 1º - Para efeito de integralização do tempo necessário à fixação da vantagem pessoal de que trata o caput deste artigo, é permitida aos militares estaduais a soma de 02 (dois) períodos de exercício em cargos sucessivos, fixando-se, nesta hipótese, a vantagem pelo menor valor.
 
@@ -150,7 +272,25 @@ Art. 9º - Ao militar estadual que tenha ingressado na Corporação até a data 
 
 § 5º - O militar estadual beneficiado pela estabilidade econômica que vier a ocupar outro cargo de provimento temporário poderá obter a modificação do valor da vantagem pessoal, passando esta a ser calculada com base no valor do símbolo correspondente ao novo cargo exercido, observados os critérios da tabela a seguir:
 
-<table style="border-collapse: collapse;" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 233.9pt; border: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm;" valign="top" width="312"><p class="Tabela-Texto">Período de exercício contínuo de novo cargo de provimento temporário, após a aquisição da estabilidade, completado até a data de publicação desta Lei (em meses).</p></td><td style="width: 212.6pt; border: solid #000001 1.0pt; border-right: solid black 1.0pt; padding: 0cm 0cm 0cm 0cm;" valign="top" width="283"><p class="Tabela-Texto">Período total de exercício contínuo de novo cargo de provimento temporário exigido para a modificação da estabilidade econômica (em anos).</p></td></tr><tr><td style="width: 233.9pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="312"><p class="Tabela-Texto">acima de 18</p></td><td style="width: 212.6pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="283"><p class="Tabela-Texto">2,5</p></td></tr><tr><td style="width: 233.9pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="312"><p class="Tabela-Texto">de 12 a 18</p></td><td style="width: 212.6pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="283"><p class="Tabela-Texto">3,0</p></td></tr><tr><td style="width: 233.9pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="312"><p class="Tabela-Texto">de 06 a 12</p></td><td style="width: 212.6pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="283"><p class="Tabela-Texto">3,5</p></td></tr><tr><td style="width: 233.9pt; border-top: none; border-left: solid #000001 1.0pt; border-bottom: solid #000001 1.0pt; border-right: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="312"><p class="Tabela-Texto">de 0 a 06</p></td><td style="width: 212.6pt; border: solid #000001 1.0pt; border-top: none; padding: 0cm 0cm 0cm 0cm; height: 1.15pt;" valign="top" width="283"><p class="Tabela-Texto">4,0</p></td></tr></tbody></table>
+Período de exercício contínuo de novo cargo de provimento temporário, após a aquisição da estabilidade, completado até a data de publicação desta Lei (em meses).
+
+Período total de exercício contínuo de novo cargo de provimento temporário exigido para a modificação da estabilidade econômica (em anos).
+
+acima de 18
+
+2,5
+
+de 12 a 18
+
+3,0
+
+de 06 a 12
+
+3,5
+
+de 0 a 06
+
+4,0
 
 § 6º - O valor da estabilidade econômica não servirá de base para cálculo de qualquer outra parcela remuneratória.
 

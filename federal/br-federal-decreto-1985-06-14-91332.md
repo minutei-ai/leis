@@ -1,5 +1,3 @@
-###DEC-091332-0-000-14-06-1985@@@
-
 DECRETO Nº 91.332, de 14 dE junho DE 1985
 
 Promulga o Acordo de Co-Produção Cinematográfica entre a República Federativa do Brasil e a República Portuguesa.
@@ -134,4 +132,20 @@ ARTIGO XI
 
 Feito em Lisboa, aos 03 dias do mês de fevereiro de 1981, em dois exemplares originais, em língua portuguesa, fazendo ambos igualmente fé.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">PELO GOVERNO DA REPÚBLICA PORTUGUESA:</span></p></td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a) Ramiro Saraiva Guerreiro</span></p></td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">a) André Gonçalves Pereira</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL:
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+PELO GOVERNO DA REPÚBLICA PORTUGUESA:
+
+</td></tr><tr><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+a) Ramiro Saraiva Guerreiro
+
+</td><td style="width:210.8pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+a) André Gonçalves Pereira
+
+</td></tr></tbody></table>

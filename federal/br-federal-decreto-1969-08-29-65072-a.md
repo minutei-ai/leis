@@ -1,5 +1,3 @@
-###DEC-065072-A-000-29-08-1969@@@
-
 DECRETO Nº 65.072-A - DE 29 DE AGÔSTO DE 1969.
 
 Dispõe sôbre a concessão de diárias aos funcionários civis estagiários da Escola Superior de Guerra, em viagem de estudos ao exterior.

@@ -1,5 +1,3 @@
-###DEC-094784-0-000-19-08-1987@@@
-
 DECRETO N° 94.784, DE 19 DE AGOSTO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências Administrativas e Comércio Exterior do Paraná.

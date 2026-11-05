@@ -1,5 +1,3 @@
-###DEC-097331-0-000-21-12-1988@@@
-
 DECRETO Nº 97.331, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do curso de Ciências Contábeis do Instituto de Ciências Sociais Aplicadas em Rondonópolis, Estado do Mato Grosso.

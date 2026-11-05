@@ -1,5 +1,3 @@
-###DEC-071623-0-000-29-12-1972@@@
-
 DECRETO Nº 71.623 - DE 29 DE DEZEMBRO DE 1972
 
 Altera o artigo 166, item I, letra f, do Decreto nº 60.501, de 14 de março de 1967.

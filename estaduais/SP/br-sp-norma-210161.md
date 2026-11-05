@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210161)<br>
-
 # DECRETO N° 69.010, DE 25 DE OUTUBRO DE 2024
 
 ### _Institui o Plano Estadual "São Paulo Por Todas com Saúde", visando à prevenção e conscientização sobre o Câncer de Mama e do Colo do Útero no âmbito da Administração Pública Estadual, e dá providências correlatas._

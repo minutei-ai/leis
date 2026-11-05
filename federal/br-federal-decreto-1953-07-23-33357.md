@@ -1,20 +1,18 @@
-###DEC-033357-0-000-23-07-1953@@@
+**DECRETO Nº 33.357, DE 23 DE JULHO DE 1953.**
 
-<strong>DECRETO Nº 33.357, DE 23 DE JULHO DE 1953.</strong>
+***Aprova as Instruções para o Funcionamento do Curso de Estado-Maior e Comando das Forças Armadas.***
 
-<em><strong>Aprova as Instruções para o Funcionamento do Curso de Estado-Maior e Comando das Forças Armadas.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Ficam aprovadas as Instruções para o Funcionamento do Curso de Estado-Maior e Comando das Forças Armadas, criado de acôrdo com o artigo 2º, da Lei nº 78, de 20 de agôsto de 1949, e que com êste baixam, assinadas pelo Chefe do Estado-Maior das Forças Armadas.
 
-<strong>Art</strong>. 1º Ficam aprovadas as Instruções para o Funcionamento do Curso de Estado-Maior e Comando das Forças Armadas, criado de acôrdo com o artigo 2º, da Lei nº 78, de 20 de agôsto de 1949, e que com êste baixam, assinadas pelo Chefe do Estado-Maior das Forças Armadas.
-
-<strong>Art</strong>. 2º O presente Decreto entra em vigor na data da sua publicação.
+**Art**. 2º O presente Decreto entra em vigor na data da sua publicação.
 
 Rio de Janeiro, em 23 de julho de 1953; 132º da independência e 65º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel
 
@@ -22,7 +20,7 @@ Cyro Espírito Santo Cardoso
 
 Nero Moura
 
-<strong>INSTRUÇÕES PARA O FUNCIONAMENTO DO CURSO DO ESTADO-MAIOR E COMANDO DAS FORÇAS ARMADAS</strong>
+**INSTRUÇÕES PARA O FUNCIONAMENTO DO CURSO DO ESTADO-MAIOR E COMANDO DAS FORÇAS ARMADAS**
 
 1\. As presentes Instruções regulam o funcionamento do Curso de Estado-Maior e Comando das Forças Armadas (CEMCFA), criado de acôrdo com o Art. 12 do Regulamento da Escola Superior de Guerra, aprovado pelo Decreto nº 27.264, de 28 de setembro de 1949.
 
@@ -104,6 +102,6 @@ Somente o oficial desligado por interesse do serviço ou motivo de saúde, poder
 
 Rio de Janeiro, D.F., 17 de julho de 1953.
 
-<strong>GENERAL-DE-EXÉRCITO ÁLVARO FIUZA DE CASTR</strong>
+**GENERAL-DE-EXÉRCITO ÁLVARO FIUZA DE CASTR**
 
 Chefe Interino do Estado-Maior DAS Forças Armadas

@@ -1,5 +1,3 @@
-###DEC-080416-0-000-27-09-1977@@@
-
 DECRETO Nº 80.416, DE 27 de Setembro DE 1977.
 
 Autoriza o Ministro da Fazenda a conceder a garantia da União a operação de crédito externo a ser contratada por empreendimentos Florestais S A. - FLONIBRA.

@@ -1,5 +1,3 @@
-###MPV-001569-0-000-25-03-1997@@@
-
 # MEDIDA PROVISÓRIA Nº 1.569, DE 25 DE MARÇO DE 1997
 
 Estabelece multa em operações de importação e dá outras providências.

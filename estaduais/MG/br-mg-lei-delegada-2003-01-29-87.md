@@ -137,7 +137,3 @@ Junta Comercial do Estado de Minas Gerais – JUCEMG
 Cargos de provimento em comissão da estrutura básica
 
 UNIDADE ADMINISTRATIVA DENOMINAÇÃO DO CARGO Nº DE CARGOS FATOR DE AJUSTAMENTO Presidência Presidente 01 1,85057 Presidência Vice-Presidente 01 1,61924 Secretaria-Geral Secretário Geral 01 1,57298 Gabinete Chefe de Gabinete 01 1,34166 Superintendência de Planejamento, Gestão e Finanças Superintendente 01 1,43418 Superintendência de Apoio Técnico Operacional Superintendente 01 1,43418 Superintendência de Registro do Comércio Superintendente 01 1,43418 Assessoria Jurídica Assessor Jurídico 01 1,34166 Auditoria Seccional Auditor Seccional 01 1,34166
-
-\============================
-
-Data da última atualização: 25/1/2011.

@@ -1,5 +1,3 @@
-###DEC-073657-0-000-15-02-1974@@@
-
 DECRETO Nº 73.657, DE 15 DE FEVEREIRO DE 1974.
 
 Dispõe sobre o valor da bolsa especial de aluno monitor, instituída pelo Decreto n.º 66.315, de 13 de março de 1970.

@@ -1,5 +1,3 @@
-###DEC-056697-0-000-09-08-1965@@@
-
 DECRETO Nº 56.697, DE 9 DE AGÔSTO DE 1965.
 
 Altera o Regulamento da Escola de Comando e Estado-Maior da Aeronáutica.

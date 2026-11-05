@@ -12,8 +12,10 @@ Gabinete do Prefeito Municipal de Aparecida de Goiânia, 19 de junho de 2018.
 
  
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito Municipal
 
-AFONSO BOAVENTURA<br>
+AFONSO BOAVENTURA
+
 Chefe da Casa Civil

@@ -1,5 +1,3 @@
-###DEC-072046-0-000-30-03-1973@@@
-
 DECRETO Nº 72.046, DE 30 DE MARÇO DE 1973.
 
 Concede à Mineração Retiro do Sapecado S.A. o direito de lavrar minério de Manganês no Município de Brotas de Macaúbas, Estado da Bahia.
@@ -27,8 +25,6 @@ Brasília, 30 de março de 1973; 152º da Independência e 85º da República.
 EMÍLIO G. MÉDICI
 
 Antônio Dias Leite Júnior
-
-###DEC-072046-0-000-30-03-1973@@@
 
 DECRETO Nº 72.046, DE 30 DE MARÇO DE 1973.
 

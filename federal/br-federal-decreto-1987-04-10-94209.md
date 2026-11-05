@@ -1,5 +1,3 @@
-###DEC-094209-0-000-10-04-1987@@@
-
 DECRETO Nº 94.209, DE 10 DE ABRIL DE 1987
 
 Autoriza o funcionamento dos cursos de Letras, História, Geografia, Ciências e Curso Superior de Tecnologia em Processamento de Dados da Faculdade de Ciências Econômicas de Anápolis.

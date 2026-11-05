@@ -1,5 +1,3 @@
-###DEC-073361-0-000-26-12-1973@@@
-
 DECRETO Nº 73.361 - DE 26 DE DEZEMBRO DE 1973
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de São Jerônimo, Estado do Rio Grande do Sul.

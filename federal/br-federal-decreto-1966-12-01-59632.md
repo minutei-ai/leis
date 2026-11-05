@@ -1,5 +1,3 @@
-###DEC-059632-0-000-01-12-1966@@@
-
 DECRETO Nº 59.632, DE 1º DE NOVEMBRO DE 1966.
 
 Declara prioritária ao desenvolvimento do Nordeste, para efeito de isenção de quaisquer impostos e taxas federais, a importação dos equipamentos novos, sem similar nacional registrado, neste descritos e consignados à emprêsa “Samov S.A. - Industrial de Móveis”, de Fortaleza (Ce).
@@ -14,7 +12,147 @@ Decreta:
 
 Art. 1º Fica declarada prioritária ao desenvolvimento do Nordeste para efeito de isenção de quaisquer impostos e taxas federais a importação de equipamentos novos, sem similar nacional registrado, a seguir descritos e consignados à empresa “Samov S.A. - Indústria de Móveis”, de Fortaleza (Ce):
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:middle"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>ITEM – ESPECIFICAÇÃO</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade a ser importada</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Valor Total CIF US$</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>1. Alimentador automático com balança, tipo Schirp.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Largura de 1.500mm. Êste alimentador coloca-se na entrada da máquina formadora de manta .................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>7.127</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>2. Máquina para limpar e desmpoeirar resíduos de algodão, lipter etc., tipo Schirp.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Trabalha com transportador pneumático tirando qualquer poeira, piolho, etc. Inclui esteira alimentadora, grelha, correia V com respectivas polias, sem motores elétricos, Produção 250kg/h; diámetro do tambor 550mm, largura 460mm .........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.554</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>3. Máquinas formadoras de manta tipo Schirp.</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Com esteira transportadora, 1 cilindro de pressão 2 cilindros canalizados e 1 tambor com pinos de aço; 2 ventiladores com potência de cada motor 2,2 kw e 1.450 rpm. Na saída da máquina 3 pares de cilindros com esteira transportadora incluindo polias e respectivas correias, sem motor elétrico. A entrada do material é regulável de 1-60m/min.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Largura de trabalho 1.600mm regulável. Com enrolador de manta, pêso mínimo da manta é de 400gr/m</span><span style="font-size:0.67em; vertical-align:super">2</span><span> e velocidade de saída de 6-8m/min. Nesta espessura a máquina produz 384Kg/h; o pêso máximo da manta é de 1.500gr/m2 com saída 3-4m/min; nesta espessura a máquina produz 500-560kg/h</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>11.160</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>4. Máquina cortadeira de manta tipo RMO 17.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Para cortar automàticamente as mantas dentro de 400-2.200 mm; sem motores elétricos .....................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3.720</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>5. Máquina ponteadeira tipo NFZ-17.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Para pontear qualquer tipo de manta, com largura máxima de 1.700mm, com variador de velocidade; sem motor elétrico</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>9.466</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>6. Máquina de fabricar molas modêlo F-65/SW.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquinas inteiramente automática de fabricar molas bi-cônicas temperadas, para colchões de 1,8- 2,5mm de espessura, com 70-110mm de diâmetro; produção de 45-50 molas/minuto ou mais de 20.000 molas por turno de trabalho ........................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>15.692</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>7. Máquina de fabricar molas aspirais modêlo S-105/SW.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquinas de fabricar molas aspirais inteiramente automática; fábrica molas aspirais de comprimentos desejados, com arames de aço 1,2-1,8mm de espessura, e 30-200cm de comprimento. Produção de 18-70m de aspiral por minuto ......................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.798</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>8. Máquina de enrolar molas aspirais para amarração de carcacas, mod. S-106/SW.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina que forma e enrola aspirais (entrelaçamento). Arame de 1,2-1,8mm de espessura; comprimento da espiral segundo as necessidades ..........................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.296</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>9. Máquina de molejos modêlo AM-112/SW.</span></p><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Esta máquina está disposta sobretudo para séries pequenas e dimensões especiais de carcaça.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Largura útil até 1.700mm e 12 molas na largura; produção 10-12.000 molas por turno de trabalho ....................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.356</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>10. Máquina para orla de cintas (tape - edge) tipo 200/140 A.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina de costurar faixas laterais nos colchões. Com mesa e colchão de 200 x 140cm largura da fita 16mm; sem motor elétrico........</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>4.627</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>11. Máquina de fechar colchões (border), tipo 40/120-A.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Velocidade 1.000 rpm/min.; produção 9m/hora. Peças para trocar: diversas amostras sem motor elétrico ....................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2.707</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>12. Máquina para encher colchões tipo 150-55SV.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Para encher 3 colchões automàticamente; largura regulável 150-55cm; altura regulável 10-18cm; esteira de entrada 3mm; caixa de saída 60cm; comprimento total 5m. Com breque para enchimento compacto; sem motor elétrico ..................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>6.735</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>13. Máquina de costura industrial Durkopp, tipo 239-125.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Sòmente o cabeçote ...............................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>636</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>14. Máquina de costura pesada, marca Union Special, tipo 53700-B. Para debruar faixas de colchões, Sòmente o cabeçote .........................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1.272</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>15. Máquina de cortar tecido Eastman “Knife Saver, 623-6”.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>110/220 V, 50/60 ciclos ..........................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>541</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>16. Máquina “Quilting” automática, tamanho 78” x 84”.</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Máquina de costura para bordar tampos, de 1 agulha; dispositivo automático para bastidor, enrolador de bobina automática, com motores sincronizados, chaves e matrizes .............................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>10.125</span></p></td></tr><tr><td style="width:315.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>TOTAL ....................................................................................................</span></p></td><td style="width:56.8pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>-</span></p></td><td style="width:54.1pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>89.812</span></p></td></tr></tbody></table>
+ITEM – ESPECIFICAÇÃO
+
+Quantidade a ser importada
+
+Valor Total CIF US$
+
+1. Alimentador automático com balança, tipo Schirp.
+
+Largura de 1.500mm. Êste alimentador coloca-se na entrada da máquina formadora de manta .................................................................
+
+1
+
+7.127
+
+2. Máquina para limpar e desmpoeirar resíduos de algodão, lipter etc., tipo Schirp.
+
+Trabalha com transportador pneumático tirando qualquer poeira, piolho, etc. Inclui esteira alimentadora, grelha, correia V com respectivas polias, sem motores elétricos, Produção 250kg/h; diámetro do tambor 550mm, largura 460mm .........................................................
+
+1
+
+6.554
+
+3. Máquinas formadoras de manta tipo Schirp.
+
+Com esteira transportadora, 1 cilindro de pressão 2 cilindros canalizados e 1 tambor com pinos de aço; 2 ventiladores com potência de cada motor 2,2 kw e 1.450 rpm. Na saída da máquina 3 pares de cilindros com esteira transportadora incluindo polias e respectivas correias, sem motor elétrico. A entrada do material é regulável de 1-60m/min.
+
+Largura de trabalho 1.600mm regulável. Com enrolador de manta, pêso mínimo da manta é de 400gr/m2 e velocidade de saída de 6-8m/min. Nesta espessura a máquina produz 384Kg/h; o pêso máximo da manta é de 1.500gr/m2 com saída 3-4m/min; nesta espessura a máquina produz 500-560kg/h
+
+1
+
+11.160
+
+4. Máquina cortadeira de manta tipo RMO 17.
+
+Para cortar automàticamente as mantas dentro de 400-2.200 mm; sem motores elétricos .....................................................................................
+
+1
+
+3.720
+
+5. Máquina ponteadeira tipo NFZ-17.
+
+Para pontear qualquer tipo de manta, com largura máxima de 1.700mm, com variador de velocidade; sem motor elétrico
+
+1
+
+9.466
+
+6. Máquina de fabricar molas modêlo F-65/SW.
+
+Máquinas inteiramente automática de fabricar molas bi-cônicas temperadas, para colchões de 1,8- 2,5mm de espessura, com 70-110mm de diâmetro; produção de 45-50 molas/minuto ou mais de 20.000 molas por turno de trabalho ........................................................
+
+1
+
+15.692
+
+7. Máquina de fabricar molas aspirais modêlo S-105/SW.
+
+Máquinas de fabricar molas aspirais inteiramente automática; fábrica molas aspirais de comprimentos desejados, com arames de aço 1,2-1,8mm de espessura, e 30-200cm de comprimento. Produção de 18-70m de aspiral por minuto ......................................................................
+
+1
+
+1.798
+
+8. Máquina de enrolar molas aspirais para amarração de carcacas, mod. S-106/SW.
+
+Máquina que forma e enrola aspirais (entrelaçamento). Arame de 1,2-1,8mm de espessura; comprimento da espiral segundo as necessidades ..........................................................................................
+
+1
+
+1.296
+
+9. Máquina de molejos modêlo AM-112/SW.
+
+Esta máquina está disposta sobretudo para séries pequenas e dimensões especiais de carcaça.
+
+Largura útil até 1.700mm e 12 molas na largura; produção 10-12.000 molas por turno de trabalho ....................................................................
+
+1
+
+6.356
+
+10. Máquina para orla de cintas (tape - edge) tipo 200/140 A.
+
+Máquina de costurar faixas laterais nos colchões. Com mesa e colchão de 200 x 140cm largura da fita 16mm; sem motor elétrico........
+
+2
+
+4.627
+
+11. Máquina de fechar colchões (border), tipo 40/120-A.
+
+Velocidade 1.000 rpm/min.; produção 9m/hora. Peças para trocar: diversas amostras sem motor elétrico ....................................................
+
+1
+
+2.707
+
+12. Máquina para encher colchões tipo 150-55SV.
+
+Para encher 3 colchões automàticamente; largura regulável 150-55cm; altura regulável 10-18cm; esteira de entrada 3mm; caixa de saída 60cm; comprimento total 5m. Com breque para enchimento compacto; sem motor elétrico ..................................................................................
+
+1
+
+6.735
+
+13. Máquina de costura industrial Durkopp, tipo 239-125.
+
+Sòmente o cabeçote ...............................................................................
+
+2
+
+636
+
+14. Máquina de costura pesada, marca Union Special, tipo 53700-B. Para debruar faixas de colchões, Sòmente o cabeçote .........................
+
+2
+
+1.272
+
+15. Máquina de cortar tecido Eastman “Knife Saver, 623-6”.
+
+110/220 V, 50/60 ciclos ..........................................................................
+
+1
+
+541
+
+16. Máquina “Quilting” automática, tamanho 78” x 84”.
+
+Máquina de costura para bordar tampos, de 1 agulha; dispositivo automático para bastidor, enrolador de bobina automática, com motores sincronizados, chaves e matrizes .............................................
+
+1
+
+10.125
+
+TOTAL ....................................................................................................
+
+-
+
+89.812
 
 Parágrafo único. Com respeito aos motores elétricos que acompanham a maquinaria fica sua similaridade, para efeito da isenção de que trata o presente Decreto, para ser examinada pela alfândega de destino, quando desembaraço aduaneiro, na hipótese de os mesmos regularem regime tarifário próprio, observando-se o disposto na Circular nº 16, de 28 de agôsto de 1958, do Senhor Ministro da Fazenda.
 

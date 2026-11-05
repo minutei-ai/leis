@@ -1,5 +1,3 @@
-###DEC-088425-0-000-21-06-1983@@@
-
 Decreto nº 88.425, de 21 de junho de 1983
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra necessárias à implantação da estação de rádio UHF Cipó e da estrada de acesso, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

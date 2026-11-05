@@ -1,5 +1,3 @@
-###DEC-084360-0-000-31-12-1979@@@
-
 Decreto nº 84.360, de 31 de dezembro de 1979
 
 Extingue Organização Militar no Ministério do Exército e dá outras providências.

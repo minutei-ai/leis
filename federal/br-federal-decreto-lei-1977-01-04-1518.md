@@ -1,5 +1,3 @@
-###DEL-001518-0-000-04-01-1977@@@
-
 # DECRETO-LEI Nº 1.518, DE 4 DE JANEIRO DE 1977
 
 Dispõe sobre a criação do Quadro de Pessoal dos Órgãos Auxiliares da Justiça do Distrito Federal e dos Territórios, retribuido pelos cofres públicos, e dá outras providências.

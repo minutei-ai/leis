@@ -1,7 +1,3 @@
-1
-
-###DEC-001396-0-000-15-02-1995@@@
-
 DECRETO Nº 1.396, DE 15 DE FEVEREIRO DE 1995
 
 Dispõe sobre a execução do Décimo Quarto Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 3, entre Brasil e Chile, de 31 de outubro de 1994.

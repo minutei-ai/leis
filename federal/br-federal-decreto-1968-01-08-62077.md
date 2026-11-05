@@ -1,5 +1,3 @@
-###DEC-062077-0-000-08-01-1968@@@
-
 DECRETO Nº 62.077, DE 8 DE JANEIRO DE 1968.
 
 Autoriza a Companhia Siderúrgica Paulista - COSIPA - a lavrar calcário no Município de Salto de Pirapora, Estado de São Paulo.

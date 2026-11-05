@@ -1,5 +1,3 @@
-###DEC-046137-0-000-04-06-1959@@@
-
 DECRETO Nº 46.137, DE 4 DE JUNHO DE 1959.
 
 Aprova o Estandarte do 6º Batalhão de Infantaria da Polícia Militar do Distrito Federal.

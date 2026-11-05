@@ -1,5 +1,3 @@
-###DEC-058705-0-000-24-06-1966@@@
-
 Decreto nº 58.705, de 24 de junho de 1966.
 
 Revoga o Decreto nº 4.904, de 28 de novembro de 1958.

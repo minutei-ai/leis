@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/253ce8e0-c6bc-4081-b880-c0a10b8582ae/texto#nowhere)
 
-###DEL-000749-0-000-08-08-1969@@@
-
 decretO-LEI Nº 749, De 8 de AGôSTO DE 1969
 
 Estabelece normas transitórias para execução da Lei nº 5.540, de 28 de novembro de 1968.

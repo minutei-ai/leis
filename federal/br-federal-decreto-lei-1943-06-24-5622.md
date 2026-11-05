@@ -1,5 +1,3 @@
-###DEL-005622-0-000-24-06-1943@@@
-
 DECRETO‑LEI N. 5.622 – DE 24 DE JUNHO DE 1943
 
 Abre no Ministério da Viação e Obras Públicas o crédito especial de 310. 000 cruzeiros, para despesas com o Serviço de Reembolso Postal

@@ -1,7 +1,3 @@
-1
-
-###DEL-001853-0-000-09-02-1981@@@
-
 # Decreto-LEI nº 1.853, de 09 de fevereiro de 1981
 
 Dá nova redação a dispositivo do Decreto-lei nº 1.732, de 20 de dezembro de 1979, que reajusta os vencimentos, salários e proventos dos servidores civis do Poder Executivo.

@@ -1,5 +1,3 @@
-###DEC-075437-0-000-03-03-1975@@@
-
 DECRETO Nº 75.437, DE 3 DE MARÇO DE 1975.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Administração de São Paulo, mantida pela Sociedade Civil Ateneu Brasil, com sede na Cidade de São Paulo - Estado de São Paulo.

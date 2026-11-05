@@ -1,5 +1,3 @@
-###DEC-073096-0-000-06-11-1973@@@
-
 DECRETO Nº 73.096 - DE 6 DE NOVEMBRO DE 1973
 
 Altera o parágrafo único, do artigo 1º, do Decreto nº 67.372, de 12 de outubro de 1970.

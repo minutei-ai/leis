@@ -1,5 +1,3 @@
-###DEC-003588-0-000-06-09-2000@@@
-
 DECRETO Nº 3.588, DE 6 DE SETEMBRO DE 2000.
 
 Ajusta as metas de que trata o art. 2º da lei nº 9.989, de 21 de julho de 2000, que dispõe sobre o Plano Plurianual para o período de 2000/2003.

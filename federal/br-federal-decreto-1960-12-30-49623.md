@@ -1,5 +1,3 @@
-###DEC-049623-0-000-30-12-1960@@@
-
 DECReTO Nº 49.623, DE 30 DE DEZEMBRO DE 1960.
 
 Autoriza  a Companhia de Cimento Portland Poty a pesquisar fosforita, no município de Igaraçú, Estado de Pernambuco.

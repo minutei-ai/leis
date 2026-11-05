@@ -1,5 +1,3 @@
-###DEC-083257-0-000-07-03-1979@@@
-
 Decreto nº 83.257, de 07 de março de 1979.
 
 Aprova o Regulamento do Almirantado.

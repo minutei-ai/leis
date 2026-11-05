@@ -1,5 +1,3 @@
-###DEC-069506-0-000-08-11-1971@@@
-
 DECRETO Nº 69.506 - de 8 DE novembro DE 1971
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação dos terrenos que menciona, situados no Estado do Acre.

@@ -1,5 +1,3 @@
-###DEC-092338-0-000-28-01-1986@@@
-
 DECRETO Nº 92.338, DE 28 DE JANEIRO DE 1986
 
 Integra a Orquestra Sinfônica Nacional de que trata o Decreto nº 49.913, de 12 de janeiro de 1961, na estrutura da Universidade Federal Fluminense.

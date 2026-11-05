@@ -1,4 +1,5 @@
-DECRETO “N” Nº 33 DE 18 DE JANEIRO DE 2023<br>
+DECRETO “N” Nº 33 DE 18 DE JANEIRO DE 2023
+
 (Revogado pelo Decreto "N" Nº 328, de 16 de maio de 2023).
 
 ~~Dispõe sobre desmembramento de imóvel situado no Loteamento BAIRRO CARDOSO CONTINUAÇÃO, neste município.~~
@@ -28,8 +29,10 @@ DECRETO “N” Nº 33 DE 18 DE JANEIRO DE 2023<br>
 
 ~~Aparecida de Goiânia, Estado de Goiás, aos 18 de janeiro de 2023.~~
 
-~~FÁBIO PASSAGLIA<br>
+~~FÁBIO PASSAGLIA
+
 Secretário de Governo~~
 
-~~JULIO CÉSAR CHAGAS MENDES<br>
-Secretário Interino de Planejamento e Regulação Urbana~~<br>
+~~JULIO CÉSAR CHAGAS MENDES
+
+Secretário Interino de Planejamento e Regulação Urbana~~

@@ -1,5 +1,3 @@
-###DEC-059064-0-000-12-08-1966@@@
-
 DECRETO Nº 59.064, DE 12 DE AGôSTO DE 1966.
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$15.000.000 para atender as despesas decorrentes da visita ao Brasil de Governadores Estaduais Norte-Americanos.

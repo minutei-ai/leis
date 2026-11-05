@@ -1,5 +1,3 @@
-###DEC-090588-0-000-29-11-1984@@@
-
 Decreto nº 90.588, de 29 de novembro dE 1984
 
 Autoriza o funcionamento do curso de História, da Autarquia Universidade do Sudoeste - BA.

@@ -1,5 +1,3 @@
-###DEC-093072-0-000-06-08-1986@@@
-
 DECRETO Nº 93.072, DE 06 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas, Apurinã, área de terras no Estado do Amazonas e dá outras providências.

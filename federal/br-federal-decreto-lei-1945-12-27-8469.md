@@ -1,5 +1,3 @@
-###DEL-008469-0-000-27-12-1945@@@
-
 DECRETO-LEI N. 8.469 – DE 27 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Educacão e Saúde o crédito suplementar de Cr$ 5.000.000,00, à verba que especifica.

@@ -1,7 +1,3 @@
-1
-
-###MPV-001019-0-000-08-06-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.019, DE 8 DE JUNHO DE 1995.
 
 Extingue as vantagens que menciona, institui os Décimos Incorporados, e dá outras providências.

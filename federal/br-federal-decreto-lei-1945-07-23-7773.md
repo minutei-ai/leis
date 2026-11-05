@@ -1,5 +1,3 @@
-###DEL-007773-0-000-23-07-1945@@@
-
 DECRETO-LEI N. 7.773 – DE 23 DE JULHO DE 1945
 
 Dispõe sôbre a organização administrativa do Território Federal do Amapá.

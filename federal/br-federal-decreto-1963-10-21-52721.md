@@ -1,5 +1,3 @@
-###DEC-052721-0-000-21-10-1963@@@
-
 DECRETO Nº 52.721, DE 21 DE OUTUBRO DE 1963.
 
 Regulamentação da Lei do Magistério da Marinha.

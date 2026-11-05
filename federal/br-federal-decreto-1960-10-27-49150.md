@@ -1,14 +1,12 @@
-###DEC-049150-0-000-27-10-1960@@@
+**DECRETO Nº 49.150, DE 27 DE OUTUBRO DE 1960.**
 
-<strong>DECRETO Nº 49.150, DE 27 DE OUTUBRO DE 1960.</strong>
+***Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerários-mensalistas do Ministério da Agricultura que menciona.***
 
-<em><strong>Transfere, sem aumento de despesa, funções de Tabelas Numéricas Especiais de Extranumerários-mensalistas do Ministério da Agricultura que menciona.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o art. 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Agricultura, abaixo indicadas:
+**Art**. 1º Ficam transferidas, com os respectivos ocupantes, as seguintes funções das Tabelas Numéricas Especiais de Extranumerário-mensalista, do Ministério da Agricultura, abaixo indicadas:
 
 I - uma (1) função, excedente, de Trabalhador, referência 17, ocupada por Maria Luisa de Andrade, da Tabela de Numérica Especial de Extranumerário-mensalista da Estação Experimental de Surubim, no Estado de Pernambuco, do Instituto Agronômico do Nordeste, do Serviço Nacional de Pesquisas Agronômicas, do Centro Nacional do Ensino e Pesquisas Agronômicas, para idêntica tabela do Instituto Agronômico dos mesmos Serviço e Centro; e
 
@@ -16,10 +14,10 @@ II - duas (2) funções de trabalhador referência 17, uma, excedente, ocupada p
 
 Parágrafo único. As funções excedentes continuarão com êsse caráter nas tabelas para que são transferidas.
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Brasília, 27 de outubro de 1960; 139º da Independência e 72º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Antônio Barros Carvalho

@@ -1,5 +1,3 @@
-###DEC-080286-0-000-05-09-1977@@@
-
 Decreto nº 80.286, de 5 de setembro de 1977.
 
 Retifica a concessão de lavra outorgada à Mineral do Brasil Limitada pelo Decreto nº 25.184, de 7 de julho de 1948.

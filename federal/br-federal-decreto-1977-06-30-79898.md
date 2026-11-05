@@ -1,5 +1,3 @@
-###DEC-079898-0-000-30-06-1977@@@
-
 Decreto nº 79.898, de 30 de junho de 1977
 
 Define o programa nacional de eletrificação rural.

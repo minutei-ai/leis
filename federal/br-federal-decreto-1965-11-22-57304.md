@@ -1,5 +1,3 @@
-###DEC-057304-0-000-22-11-1965@@@
-
 Decreto nº 57.304, de 22 de novembro de 1965.
 
 Declara de utilidade pública, para fins de desapropriação, em favor da Comissão Nacional de Energia Nuclear (CNEN), os bens da ORQUIMA - Indústrias Químicas Reunidas S. A., situados na cidade de São Paulo, Estado de São Paulo.

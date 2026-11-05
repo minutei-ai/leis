@@ -1,5 +1,3 @@
-###DEL-007950-0-000-11-09-1945@@@
-
 DECRETO-LEI N. 7.950 – DE 11 DE SETEMBRO DE 1945
 
 Dispõe sôbre a situação de funcionário da carreira de diplomata e dá outras providências

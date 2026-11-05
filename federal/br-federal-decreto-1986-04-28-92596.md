@@ -1,5 +1,3 @@
-###DEC-092596-0-000-28-04-1986@@@
-
 DECRETO Nº 92.593, DE 28 DE ABRIL DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da estrada de acesso à estação de Microondas do Morro do Una, de Furnas-Centrais Elétricas S.A., no Estado do Espírito Santo.

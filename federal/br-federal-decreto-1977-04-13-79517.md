@@ -1,5 +1,3 @@
-###DEC-079517-0-000-13-04-1977@@@
-
 DECRETO Nº 79.517, DE 13 DE ABRIL DE 1977.
 
 Declara de utilidade publica para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão das Centrais Elétricas do Sul do Brasil S.A; - ELETROSUL, no Estado de Santa Catarina.

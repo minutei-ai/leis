@@ -1,5 +1,3 @@
-###DEC-055707-0-000-02-02-1965@@@
-
 DECRETO Nº 55.707, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Francisco de Assis Drummond a lavrar minério de ferro, no município de Itabira, Estado de Minas Gerais.

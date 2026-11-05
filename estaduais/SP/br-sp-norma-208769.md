@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208769)<br>
-
 # DECRETO N° 68.062, DE 07 DE NOVEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, a área complementar necessária à implantação de marginal, no trecho entre os km 15+300m e 16+500m - Oeste, da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas._

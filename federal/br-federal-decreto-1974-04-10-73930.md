@@ -1,5 +1,3 @@
-###DEC-073930-0-000-10-04-1974@@@
-
 Decreto nº 73.930, de 10 de abril de 1974.
 
 Concede à Empresa de Caolim Ltda., o direito de lavrar caulim no Município de Espera Feliz, Estado de Minas Gerais.

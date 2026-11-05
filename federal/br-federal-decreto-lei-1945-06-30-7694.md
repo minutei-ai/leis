@@ -1,5 +1,3 @@
-###DEL-007694-0-000-30-06-1945@@@
-
 DECRETO-LEI N. 7.694 – DE 30 DE JUNHO DE 1945
 
 Altera o Decreto-lei nº 7.190, de 22 de dezembro de 1944

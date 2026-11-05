@@ -1,5 +1,3 @@
-###DEC-003008-0-000-30-03-1999@@@
-
 DECRETO Nº 3.008, DE 30 DE MARÇO DE 1999
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 2.353, de 20 de outubro de 1997.

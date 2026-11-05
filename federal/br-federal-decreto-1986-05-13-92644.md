@@ -1,5 +1,3 @@
-###DEC-092644-0-000-13-05-1986@@@
-
 DECRETO Nº 92.644, DE 13 DE MAIO DE 1986
 
 Inclui, na Constituição do Conselho de Administração da Superintendência da Zona Franca de Manaus (SUFRAMA), o Prefeito Municipal de Manaus.

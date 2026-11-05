@@ -1,5 +1,3 @@
-###DEC-077215-0-000-23-02-1976@@@
-
 DECRETO Nº 77.215, DE 23 DE FEVEREIRO DE 1976.
 
 Autoriza o Serviço do Patrimônio da União a aceitar a doação do imóvel que menciona situado no Município de Lins, Estado de São Paulo.

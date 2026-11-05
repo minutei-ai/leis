@@ -1,10 +1,19 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 07-01-2021.
+
+<!-- nota-edicao:fim -->
+
 Decreto Numerado n° 9.778 / 2021           Decreto Numerado n° 9.778 / 2021
 
-![](/assets/brasao_goias.gif)<br>
-**GOVERNO DO ESTADO DE GOIÁS**<br>
+![](/assets/brasao_goias.gif)
+
+**GOVERNO DO ESTADO DE GOIÁS**
+
 **Secretaria de Estado da Casa Civil**
 
-**DECRETO Nº 9.778, DE 07 DE JANEIRO DE 2021.<br>
+**DECRETO Nº 9.778, DE 07 DE JANEIRO DE 2021.
+
 **[\- Revogado pelo Decreto nº 9.848, de 13-04-2021, art. 16](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103937/decreto-9848),
 
 ~~Prorroga o prazo de que trata o Decreto nº~~ [~~9.653~~](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103128/decreto-9653)~~, de 19 de abril de 2020, e dá outra providência.~~
@@ -28,5 +37,3 @@ Decreto Numerado n° 9.778 / 2021           Decreto Numerado n° 9.778 / 2021
 ~~RONALDO CAIADO~~
 
 ~~Governador do Estado~~
-
-~~_Este texto não substitui o publicado no Suplemento do D.O. de 07-01-2021._~~

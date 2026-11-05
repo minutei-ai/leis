@@ -1,5 +1,3 @@
-###DEC-093073-0-000-06-08-1986@@@
-
 DECRETO Nº 93.073, DE 06 DE AGOSTO DE 1986
 
 Declara de ocupação dos indígenas Kaxarari, área de terras dos Municípios de Lábrea (AM) e Porto Velho (RO), e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005062-0-000-10-12-1942@@@
-
 DECRETO-LEI N. 5.062 – DE 10 DE DEZEMBRO DE 1942
 
 Fixa o gabarito das construções nas proximidades da Fortaleza de São João

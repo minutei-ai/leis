@@ -1,5 +1,3 @@
-###DEC-089226-0-000-22-12-1983@@@
-
 Decreto nº 89.226, de 22 de dezembro de 1983
 
 Renova por 10 (dez) anos a concessão outorgada à RÁDIO ATALAIA DE CURITIBA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Curitiba, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEL-001351-0-000-24-10-1974@@@
-
 # DECRETO-LEI Nº 1.351, DE 24 DE ouTuBRo DE 1974
 
 Altera a legislação do imposto sobre a renda

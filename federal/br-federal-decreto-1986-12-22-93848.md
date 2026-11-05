@@ -1,5 +1,3 @@
-###DEC-093848-0-000-22-12-1986@@@
-
 DECRETO Nº 93.848, DE 22 DE DEZEMBRO DE 1986
 
 Dispõe sobre o aumento do limite do capital autorizado da PETROBRÁS MINERAÇÃO S.A. - PETROMISA.

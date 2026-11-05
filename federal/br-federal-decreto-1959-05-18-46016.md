@@ -1,5 +1,3 @@
-###DEC-046016-0-000-18-05-1959@@@
-
 DECRETO Nº 46.016, DE 18 DE MAIO DE 1959.
 
 Autoriza a Mineração e Usina Wigg S.A. a pesquisar minério de ferro, no município de Itabirito, Estado de Minas Gerais.

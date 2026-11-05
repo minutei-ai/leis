@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210132)<br>
-
 # DECRETO N° 68.985, DE 21 DE OUTUBRO DE 2024
 
 ### _Institui a Medalha Campanha e Ações Humanitárias da Polícia Militar do Estado de São Paulo e dá providências correlatas._

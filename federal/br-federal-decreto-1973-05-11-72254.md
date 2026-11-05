@@ -1,5 +1,3 @@
-###DEC-072254-0-000-11-05-1973@@@
-
 DECRETO Nº 72.254, DE 11 DE MAIO DE 1973.
 
 Retifica o artigo 1º, do Decreto número 19.751, de 31 de dezembro de 1960.

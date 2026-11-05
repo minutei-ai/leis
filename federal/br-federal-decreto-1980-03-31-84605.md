@@ -1,5 +1,3 @@
-###DEC-084605-0-000-31-03-1980@@@
-
 Decreto nº 84.605, de 31 de março de 1980.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Estado de Mato Grosso e dá outras providências.

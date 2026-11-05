@@ -1,7 +1,3 @@
-1
-
-###DEC-001371-0-000-16-01-1995@@@
-
 DECRETO N° 1.371, DE 16 DE JANEIRO DE 1995
 
 Dispõe sobre a execução da Ata de Retificação do Acordo de Complementação Econômica n° 14, entre Brasil e Argentina, de 17 de outubro de 1994.

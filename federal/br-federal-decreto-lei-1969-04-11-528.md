@@ -1,7 +1,3 @@
-1
-
-###DEL-000528-0-000-11-04-1969@@@
-
 DECRETO-LEI Nº 528, DE 11 DE ABRIL DE 1969
 
 Dispõe sôbre a cobertura de bens pertencentes ao INPS, ao IPASE e ao SASSE contra os riscos e enumerados nas alíneas g e h do artigo 20 do Decreto-lei nº 73/66.

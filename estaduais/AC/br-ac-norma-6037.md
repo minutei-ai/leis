@@ -1,6 +1,10 @@
 > **LEI Nº 4.347, DE 23 DE ABRIL DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 3.480, de 24 de maio de 2019, que institui o Sistema Estadual de Defesa do Consumidor - SISDECON, cria o Conselho Estadual de Defesa do Consumidor - CONDECON, o Fundo Estadual de Defesa do Consumidor - FEDC, e o Instituto de Proteção e Defesa do Consumidor do Estado do Acre - PROCONAC, para dispor sobre as competências e o funcionamento do colegiado, e sobre a aplicação do fundo.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 3.480, de 24 de maio de 2019, que institui o Sistema Estadual de Defesa do Consumidor - SISDECON, cria o Conselho Estadual de Defesa do Consumidor - CONDECON, o Fundo Estadual de Defesa do Consumidor - FEDC, e o Instituto de Proteção e Defesa do Consumidor do Estado do Acre - PROCONAC, para dispor sobre as competências e o funcionamento do colegiado, e sobre a aplicação do fundo.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

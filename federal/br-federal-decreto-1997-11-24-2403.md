@@ -1,5 +1,3 @@
-###DEC-002403-0-000-24-11-1997@@@
-
 DECRETO Nº 2.403, DE 24 DE NOVEMBRO DE 1997
 
 Dá nova redação ao § 3º do art. 3º do Decreto nº 1.697, de 13 de novembro de 1995, que cria o Grupo-Executivo do Setor Pesqueiro.

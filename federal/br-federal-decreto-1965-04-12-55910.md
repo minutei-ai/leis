@@ -1,5 +1,3 @@
-###DEC-055910-0-000-12-04-1965@@@
-
 DECRETO Nº 55.910, DE 12 DE ABRIL DE 1965.
 
 Concede  autorização para o funcionamento dos Cursos de História, Pedagogia e Jornalismo da Faculdade de Filosofia de Campos.

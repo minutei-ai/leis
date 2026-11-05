@@ -1,5 +1,3 @@
-###DEC-004163-0-000-12-03-2002@@@
-
 DECRETO Nº 4.163, DE 12 DE MARÇO DE 2002
 
 Dispõe sobre a execução do Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 36, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, (MERCOSUL), e o Governo da República da Bolívia, de 31 de dezembro de 2001.
@@ -14,7 +12,6 @@ Considerando que o Acordo de Complementação Econômica nº 36 foi incorporado 
 
 Considerando que os Plenipotenciários da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai (MERCOSUL), por um lado, e da República da Bolívia, de outro, firmaram em 31 de dezembro de 2001, em Montevidéu, o Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 36, relativo à concessão de quotas pela Argentina à Bolívia;
 
-<br>
 D E C R E T A :
 
 Art. 1º O Décimo Sétimo Protocolo Adicional ao Acordo de Complementação Econômica nº 36, de 31 de dezembro de 2001, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do MERCOSUL, e o Governo da República da Bolívia, apenso por cópia ao presente Decreto, será executado e cumprido tão inteiramente como nele se contém.
@@ -45,15 +42,26 @@ ITEM NALADI/SH (93) 6205.30.00 quota: 750 kg
 
 Artigo 2º- O presente Protocolo entrará em vigência na data de sua assinatura.
 
-A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual enviará cópias devidamente autenticadas aos Governos signatários.<br>
-EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos trinta e um dias do mês de dezembro de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos. (a)<br>
-Pelo Governo da República Argentina:<br>
-CARLOS ONIS VIGIL<br>
-Pelo Governo da República Federativa do Brasil:<br>
-JOSÉ ARTUR DENOT MEDEIROS<br>
-Pelo Governo da República do Paraguai:<br>
-JOSÉ MARÍA CASAL<br>
-Pelo Governo da República Oriental do Uruguai:<br>
-ELBIO OSCAR ROSSELLI FRIERI<br>
-Pelo Governo da República da Bolívia:<br>
-WILLY VARGAS VACAFLOR<br>
+A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual enviará cópias devidamente autenticadas aos Governos signatários.
+
+EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos trinta e um dias do mês de dezembro de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos. (a)
+
+Pelo Governo da República Argentina:
+
+CARLOS ONIS VIGIL
+
+Pelo Governo da República Federativa do Brasil:
+
+JOSÉ ARTUR DENOT MEDEIROS
+
+Pelo Governo da República do Paraguai:
+
+JOSÉ MARÍA CASAL
+
+Pelo Governo da República Oriental do Uruguai:
+
+ELBIO OSCAR ROSSELLI FRIERI
+
+Pelo Governo da República da Bolívia:
+
+WILLY VARGAS VACAFLOR

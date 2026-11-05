@@ -1,5 +1,3 @@
-###DEC-069061-0-000-13-08-1971@@@
-
 DECRETO Nº 69.061, de 13 de agÔsto de 1971.
 
 Concede autorização à Companhia Ingram Marine Inc. para operar, em águas brasileiras, com os barcos especializados "DB-3" e "Gulf ACE" de nacionalidade norte-americana, nos serviços que especifica.

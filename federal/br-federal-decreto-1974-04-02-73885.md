@@ -1,5 +1,3 @@
-###DEC-073885-0-000-02-04-1974@@@
-
 DECRETO Nº 73.885, DE 2 DE ABRIL DE 1974.
 
 Torna sem efeito o aproveitamento de disponível no Quadro de Pessoal do IPASE e dá outras providências.

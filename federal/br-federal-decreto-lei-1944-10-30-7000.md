@@ -1,5 +1,3 @@
-###DEL-007000-0-000-30-10-1944@@@
-
 DECRETO-LEI N. 7.000 – DE 30 DE OUTUBrO DE 1944
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 1.184.799,00, para trabalhos de pesquisa e prospecções de jazidas de pirita

@@ -1,5 +1,3 @@
-###DEC-060110-0-000-20-01-1967@@@
-
 DECRETO Nº 60.110, DE 20 dE JANEIRO DE 1967.
 
 Torna sem efeito parte dos decretos que, menciona, os quais criaram ou alteraram cargos isolados de provimento efetivo e cargos de carreira após a vigência da Lei n° 3.780, de 12 e julho de 1960.

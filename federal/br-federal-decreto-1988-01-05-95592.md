@@ -1,7 +1,3 @@
-1
-
-###DEC-095592-0-000-05-01-1988@@@
-
 DECRETO N° 95.592, DE 5 DE JANEIRO DE 1988
 
 Dispõe sobre o aumento do capital autorizado da PETROFLEX INDÚSTRIA E COMÉRCIO S.A.

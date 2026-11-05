@@ -1,5 +1,3 @@
-###DEL-001487-0-000-10-11-1976@@@
-
 # DECRETO-Lei Nº 1.487, DE 10 DE NOVEMBRO DE 1976
 
 Autoriza remissão de créditos relativos a imposto territorial rural e a contribuição dos que exercem atividades rurais, relativos a 1975, e dispensa a taxa de serviços cadastrais correspondente a 1975 e 1976.

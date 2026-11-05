@@ -1,6 +1,10 @@
 > **LEI Nº 4.117, DE 28 DE JUNHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Institui a Campanha Maio Roxo no Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Institui a Campanha Maio Roxo no Estado.
+
+</td></tr></tbody></table>
 
 **A GOVERNADORA DO ESTADO DO ACRE, em exercício**
 

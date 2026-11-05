@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208575)<br>
-
 # LEI N° 17.768, DE 27 DE SETEMBRO DE 2023
 
 ## (Projeto de lei n° 216/2022, do Deputado Sebastião Santos - REPUBLICANOS)

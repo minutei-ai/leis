@@ -1,5 +1,3 @@
-###DEC-054373-0-000-05-10-1964@@@
-
 Decreto nº 54.373, de 5 de outubro de 1964.
 
 Outorga à firma Moinho Caramuru Limitada concessão para o aproveitamento da energia hidráulica de um desnível no rio Caturetê, Município de Sarandi, Estado do Rio Grande do Sul.

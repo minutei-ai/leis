@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212888)<br>
-
 # DECRETO N° 70.793, DE 13 DE AGOSTO DE 2026
 
 ### _Declara de utilidade pública, para fins de desapropriação pelo Departamento de Estradas de Rodagem - DER, a área necessária à duplicação da Rodovia João Leme dos Santos, SP-264, no Município de Salto de Pirapora, e dá providências correlatas._

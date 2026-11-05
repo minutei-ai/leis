@@ -1,5 +1,3 @@
-###DEC-089500-0-000-29-03-1984@@@
-
 DECRETO Nº 89.500, de 29 de março de 1984
 
 Concede à SIDERURGIA BRASILEIRA S.A. - SIDERBRÁS autorização para proceder ao aumento do seu capital autorizado, bem como do capital social.

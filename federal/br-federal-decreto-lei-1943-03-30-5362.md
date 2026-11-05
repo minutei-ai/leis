@@ -1,5 +1,3 @@
-###DEL-005362-0-000-30-03-1943@@@
-
 DECRETO‑LEI N. 5.362 – DE 30 DE MARÇO DE 1943
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito suplementar de Cr$ 20.400,00 à verba que especifica e dá outras providências

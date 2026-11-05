@@ -1,5 +1,3 @@
-###DEC-002268-0-000-30-06-1997@@@
-
 DECRETO Nº 2.268, DE 30 JUNHO DE 1997
 
 Regulamenta a Lei nº 9.434, de 4 de fevereiro de 1997, que dispõe sobre a remoção de órgãos, tecidos e partes do corpo humano para fim de transplante e tratamento, e dá outras providências.

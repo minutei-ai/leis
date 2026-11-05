@@ -1,5 +1,3 @@
-###DEC-067783-0-000-10-12-1970@@@
-
 DECRETO Nº 67.783, DE 10 DE DEZEMBRO DE 1970.
 
 Declara caduco o Decreto nº 43.860, de 9 de junho de 1958.

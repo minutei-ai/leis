@@ -1,5 +1,3 @@
-###DEL-008582-0-000-08-01-1946@@@
-
 DECRETO- LEI N. 8.582 – DE 8 de JANEIRO DE 1946
 
 Releva dívida do “Fluminense Fooball Club” para com a União nas condições que especifica.

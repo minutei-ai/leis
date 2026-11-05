@@ -1,5 +1,3 @@
-###DEC-056919-0-000-01-10-1965@@@
-
 DECRETO Nº 56.919, DE 1 DE OUTUBRO DE 1965.
 
 Autoriza a Mineração Pirangi S.A. a lavrar bauxita no município de Poços de Caldas, Estado de Minas Gerais.

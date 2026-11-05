@@ -1,5 +1,3 @@
-###DEC-061160-0-000-16-08-1967@@@
-
 DECRETO Nº 61.160, DE 16 DE AGôSTO DE 1967.
 
 Cria o Fundo de Financiamento para Saneamento - FINASE - e dá outras providências.

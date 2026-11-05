@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211778)<br>
-
 # DECRETO N° 70.056, DE 05 DE NOVEMBRO DE 2025
 
 ### _Altera dispositivo do Decreto n° 69.597, de 9 de junho de 2025, que autoriza a Fazenda do Estado a permitir o uso, a título precário e gratuito, por prazo indeterminado, em favor do Município de Franco da Rocha, de parte do imóvel que especifica._

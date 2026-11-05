@@ -1,6 +1,6 @@
 DECRETO Nº 10.113, DE 12 DE NOVEMBRO DE 2019
 
-Altera o Decreto nº 8.154, de 16 de dezembro de 2013, para dispor sobre a composição do Comitê Nacional de Prevenção e Combate à Tortura.<br>
+Altera o Decreto nº 8.154, de 16 de dezembro de 2013, para dispor sobre a composição do Comitê Nacional de Prevenção e Combate à Tortura.
 
 O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, caput, inciso VI, alínea “a”, da Constituição,
 

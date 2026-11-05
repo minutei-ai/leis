@@ -1,5 +1,3 @@
-###DEC-075016-0-000-02-12-1974@@@
-
 DECRETO Nº 75.016, DE 2 DE DEZEMBRO DE 1974.
 
 Concede reconhecimento ao curso de Medicina da Faculdade de Ciências Médicas "Dr. José Antônio Garcia Coutinho" mantida pela Fundação de Ensino Superior do Vale do Sapucaí, com sede na cidade de Pouso Alegre, Estado de Minas Gerais.

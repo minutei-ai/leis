@@ -1,6 +1,10 @@
 > **LEI Nº 4.611, DE 15 DE JULHO DE 2025**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Assegura a realização de ritos religiosos voluntários nas unidades de ensino públicas e privadas em todo o Estado.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Assegura a realização de ritos religiosos voluntários nas unidades de ensino públicas e privadas em todo o Estado.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

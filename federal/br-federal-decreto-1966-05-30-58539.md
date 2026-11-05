@@ -1,5 +1,3 @@
-###DEC-058539-0-000-30-05-1966@@@
-
 DECRETO Nº 58.539, DE 30 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Erly Avelino Villas a lavrar caulim no Município de Chácara, Estado de Minas Gerais.

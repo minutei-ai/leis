@@ -1,5 +1,3 @@
-###DEC-094249-0-000-22-04-1987@@@
-
 DECRETO Nº 94.249, DE 22 DE ABRIL DE 1987
 
 Outorga concessão à RÁDIO LIBERAL DE MORADA NOVA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Morada Nova, Estado do Ceará.

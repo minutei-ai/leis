@@ -1,7 +1,3 @@
-1
-
-###DEC-001175-0-000-01-07-1994@@@
-
 DECRETO N° 1.175, DE 1° DE JULHO DE 1994
 
 Altera as alíquotas do Imposto sobre Produtos Industrializados incidente sobre os produtos que menciona.

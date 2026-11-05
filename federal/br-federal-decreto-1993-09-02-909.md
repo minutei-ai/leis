@@ -1,7 +1,3 @@
-1
-
-###DEC-000909-0-000-02-09-1993@@@
-
 DECRETO Nº 909, DE 2 DE SETEMBRO DE 1993
 
 Altera o Decreto nº 77.919, de 25 de junho de 1976, que dispõe sobre o ensino no Exército.

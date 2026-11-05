@@ -1,5 +1,3 @@
-###DEC-082025-0-000-24-07-1978@@@
-
 DECRETO Nº 82.025, DE 24 DE JULHO DE 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

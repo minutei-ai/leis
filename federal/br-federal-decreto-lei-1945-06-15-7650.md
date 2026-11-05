@@ -1,5 +1,3 @@
-###DEL-007650-0-000-15-06-1945@@@
-
 DECRETO-LEI N. 7.650 – DE 15 DE JUNHO DE 1945
 
 Autoriza o Prefeito do Distrito Federal a isentar a Associação Cristã Feminina do Rio de Janeiro dos impostos que menciona

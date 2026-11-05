@@ -1,5 +1,3 @@
-###DEC-068458-0-000-01-04-1971@@@
-
 DECRETO Nº 68.458 - DE 1º DE abril DE 1971.
 
 Provê sôbre a extinção da Coordenação Nacional de Bôlsas de Estudos.

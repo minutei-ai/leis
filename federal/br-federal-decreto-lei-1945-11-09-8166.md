@@ -1,5 +1,3 @@
-###DEL-008166-0-000-09-11-1945@@@
-
 DECRETO-LEI N. 8.166 – DE 9 DE NOVEMBRO DE 1945
 
 Concede o direito de voto a brasileiros incorporados às fôrças armadas durante a guerra, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-069684-0-000-03-12-1971@@@
-
 DECRETO Nº 69.684 - DE 3 DE DEZEMBRO DE 1971
 
 Concede autorização a Sociedade Seguradora estrangeira para aumentar o capital de suas operações no Brasil.

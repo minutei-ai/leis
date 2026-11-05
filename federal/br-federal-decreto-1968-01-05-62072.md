@@ -1,5 +1,3 @@
-###DEC-062072-0-000-05-01-1968@@@
-
 DECRETO Nº 62.072, DE 5 DE JANEIRO DE 1968.
 
 Autoriza o cidadão brasileiro Christovão Moreira da Silva a lavrar argila, no município de Resende, Estado do Rio de Janeiro.

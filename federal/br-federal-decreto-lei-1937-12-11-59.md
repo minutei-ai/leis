@@ -1,5 +1,3 @@
-###DEL-000059-0-000-11-12-1937@@@
-
 DECRETO-LEI N. 59 – DE 11 DE DEZEMBRO DE 1937
 
 Dispõe sôbre registo das sociedades civís a que se refere o art. 4º do decreto-lei n. 37, de 2 do corrente mês

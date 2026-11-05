@@ -1,5 +1,3 @@
-###DEC-084374-0-000-07-01-1980@@@
-
 DECRETO Nº 84.374, DE 7 DE JANEIRO DE 1980
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Piquete da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

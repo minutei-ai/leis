@@ -1,5 +1,3 @@
-###DEC-090634-0-000-05-12-1984@@@
-
 Decreto nº 90.634, de 05 de dezembro de 1984
 
 Dispõe sobre o montante do Capital Social da Vale do Rio Doce Navegação S.A.-DOCENAVE.

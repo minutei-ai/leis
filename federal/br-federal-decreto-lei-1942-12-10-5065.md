@@ -1,5 +1,3 @@
-###DEL-005065-0-000-10-12-1942@@@
-
 DECRETO-LEI N. 5.065 – DE 10 DE DEZEMBRO DE 1942
 
 Cria uma coletoria federal no município de Poxorêu, no Estado de Mato Grosso, e dá outras providências

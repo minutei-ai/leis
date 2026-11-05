@@ -1,5 +1,3 @@
-###DEL-009453-0-000-12-07-1946@@@
-
 DECRETO-LEI N. 9.453 – DE 12 DE JULHO DE 1946
 
 Dá nova redação ao § 3º do art. 16 do Decreto-lei nº 8.933, de 26 de Janeiro de 1946.

@@ -1,7 +1,3 @@
-1
-
-###DEC-002001-0-000-05-09-1996@@@
-
 DECRETO Nº 2.001, DE 5 DE SETEMBRO DE 1996.
 
 Dispõe sobre a criação do Programa de Reorientação Institucional do Ministério da Agricultura e do Abastecimento - PRIMA.

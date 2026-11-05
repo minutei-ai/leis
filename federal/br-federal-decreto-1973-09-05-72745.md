@@ -1,5 +1,3 @@
-###DEC-072745-0-000-05-09-1973@@@
-
 DECRETO Nº 72.745, DE 5 DE SETEMBRO DE 1973.
 
 Dispõe sobre o recolhimento de diferenças de preços sobre estoques de trigo e dá outras providências.

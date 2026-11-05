@@ -1,7 +1,3 @@
-1
-
-###DEC-095765-0-000-02-03-1988@@@
-
 DECRETO N° 95.765, DE 2 DE MARÇO DE 1988
 
 Declara de interesse social para fins de desapropriação, o imóvel rural denominado “Fazenda Morro Grande ou Curicaca”, classificado como latifúndio por exploração, situado no Município de Duque de Caxias, no Estado  do Rio de Janeiro, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.691, de 19 de maio de 1986, e dá outras providências:

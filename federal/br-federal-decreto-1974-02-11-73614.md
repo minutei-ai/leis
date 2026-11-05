@@ -1,5 +1,3 @@
-###DEC-073614-0-000-11-02-1974@@@
-
 DECRETO Nº 73.614, DE 11 DE FEVEREIRO DE 1974.
 
 Transfere, com os respectivos cargos funcionários de quadros em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual IBGE.

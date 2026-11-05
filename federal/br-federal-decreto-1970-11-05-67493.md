@@ -1,5 +1,3 @@
-###DEC-067493-0-000-05-11-1970@@@
-
 decreto nº 67.493, de 5 de novembro de 1970.
 
 Cria função gratificada no Quadro de Pessoal do Ministério da Indústria e do Comércio.

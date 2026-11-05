@@ -1,18 +1,16 @@
-###DEC-042530-0-000-30-10-1957@@@
+**DECRETO Nº 42.530, DE 30 DE OUTUBRO DE 1957.**
 
-<strong>DECRETO Nº 42.530, DE 30 DE OUTUBRO DE 1957.</strong>
+***Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, para o ano de 1958.***
 
-<em><strong>Fixa os preços básicos mínimos para o financiamento ou aquisição de cereais e outros gêneros de produção nacional, para o ano de 1958.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando a atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o disposto no art. 3º da Lei nº 1.506, de 19 de dezembro de 1951,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando a atribuição que lhe confere o artigo 87, nº I, da Constituição, e tendo em vista o disposto no art. 3º da Lei nº 1.506, de 19 de dezembro de 1951,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Os preços básicos mínimos para as operações de financiamento ou aquisição, no ano de 1958, dos produtos especificadamente mencionados no parágrafo único do art. 1º da Lei nº 1.506, de 19 de dezembro de 1951, são constantes do art. 2º dêste Decreto.
+**Art**. 1º Os preços básicos mínimos para as operações de financiamento ou aquisição, no ano de 1958, dos produtos especificadamente mencionados no parágrafo único do art. 1º da Lei nº 1.506, de 19 de dezembro de 1951, são constantes do art. 2º dêste Decreto.
 
 Parágrafo único. Êstes preços referem-se aos produtos postos nos principais centros de consumo do país, assim considerados efeitos dêste Decreto os respectivos postos de escoamento, atendidas as condições e especificações decorrentes da Lei nº 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 2º Os preços básicos mínimos estabelecidos neste decreto, são os seguintes:
+**Art**. 2º Os preços básicos mínimos estabelecidos neste decreto, são os seguintes:
 
 Arroz
 
@@ -64,15 +62,15 @@ Dezoito cruzeiros e quarenta centavos (Cr$18,40) por arroba de quinze (15) quilo
 
 Os preços para o produto entregue em outras regiões localidades das regiões produtoras serão oportunamente determinadas nos têrmos da art. 4º nº 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 3º Os preços que trata o art. 2º dêste Decreto referem-se à mercadoria nova da safra de 1958, embalada em sacaria nova, devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados neste Decreto e nos mencionados na letra <em>a</em> da art. 6º e no art. 7º, da Lei nº 1.506, de 19 de dezembro de 1951.
+**Art**. 3º Os preços que trata o art. 2º dêste Decreto referem-se à mercadoria nova da safra de 1958, embalada em sacaria nova, devidamente marcada com as necessárias indicações, classificada, expurgada e depositada nos armazéns indicados neste Decreto e nos mencionados na letra *a* da art. 6º e no art. 7º, da Lei nº 1.506, de 19 de dezembro de 1951.
 
-<strong>Art</strong>. 4º Êste Decreto entrará em vigor na data de sua publicação.
+**Art**. 4º Êste Decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 30 de outubro de 1957; 136º da independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Maria Alkmim
 

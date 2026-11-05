@@ -1,5 +1,3 @@
-###DEC-051474-0-000-25-05-1962@@@
-
 DECRETO Nº 51.474, DE 25 DE MAIO DE 1962.
 
 Retifica o enquadramento provisório de servidores do Ministério da Saúde.

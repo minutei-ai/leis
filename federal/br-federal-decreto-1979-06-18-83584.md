@@ -1,5 +1,3 @@
-###DEC-083584-0-000-18-06-1979@@@
-
 Decreto nº 83.584, de 18 de junho de 1979
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Ceres, Estado de Goiás.

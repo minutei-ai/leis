@@ -1,5 +1,3 @@
-###DEC-059484-0-000-09-11-1966@@@
-
 DECRETO Nº 59.484, de 9 de novembro de 1966.
 
 Retifica o art. 1º do Decreto número 55.420, de 31 de dezembro de 1954.

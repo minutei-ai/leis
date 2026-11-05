@@ -1,5 +1,3 @@
-###DEC-077281-0-000-11-03-1976@@@
-
 DECRETO Nº 77.281, DE 11 DE MARÇO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada ao Governo do Estado de Alagoas, para que a autarquia Rádio Difusora de Alagoas execute servindo de radiodifusão sonora em onda média de âmbito regional, na Cidade de Maceió, Estado de Alagoas.

@@ -1,5 +1,3 @@
-###DEC-078344-0-000-31-08-1976@@@
-
 DECRETO Nº 78.344, DE 31 DE AGOSTO DE 1976.
 
 Concede reconhecimento aos cursos de Formação de Técnicos de Grau Superior, da Faculdade de Tecnologia, da Universidade Mackenzie, com sede em São Paulo, Estado de São Paulo.

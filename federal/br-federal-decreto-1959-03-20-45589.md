@@ -1,5 +1,3 @@
-###DEC-045589-0-000-20-03-1959@@@
-
 DECRETO Nº 45.589, DE 20 DE MARÇO DE 1959.
 
 Torna insubsistente o Decreto número 45.583, de 18 de março de 1959, que considera de interêsse militar as funções exercidas na Campanha Nacional de Merenda Escolar do Ministério da Educação e Cultura.

@@ -1,5 +1,3 @@
-###DEC-076371-0-000-02-10-1975@@@
-
 DECRETO Nº 76.371, DE 2 DE OUTUBRO DE 1975.
 
 Concede à Companhia de Cimento Salvador - COCISA o direito de lavrar calcário no Município de São Francisco do Conde, Estado da Bahia.

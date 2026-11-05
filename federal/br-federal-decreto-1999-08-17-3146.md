@@ -1,5 +1,3 @@
-###DEC-003146-0-000-17-08-1999@@@
-
 DECRETO Nº 3.146, DE 17 DE AGOSTO DE 1999.
 
 Dispõe sobre a execução do Décimo Terceiro Protocolo Adicional ao Acordo de Alcance Parcial de Renegociação nº 10 (Protocolo de Adequação), entre os Governos da República Federativa do Brasil e da República da Colômbia, de 5 de julho de 1999.
@@ -42,4 +40,20 @@ A Secretaria-Geral da Associação será depositária do presente Protocolo, do 
 
 EM FÉ DO QUE, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos cinco dias do mês de julho de mil novecentos e noventa e nove, em um original nos idiomas portguês e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República Federativa do Brasil:</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Pelo Governo da República da Colômbia:</span></p></td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>JOSÉ ARTUR DENOT MEDEIROS</span></p></td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>MANUEL JOSÉ CÁRDENAS</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil:
+
+</td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+Pelo Governo da República da Colômbia:
+
+</td></tr><tr><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+JOSÉ ARTUR DENOT MEDEIROS
+
+</td><td style="width:204.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top">
+
+MANUEL JOSÉ CÁRDENAS
+
+</td></tr></tbody></table>

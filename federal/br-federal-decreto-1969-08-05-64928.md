@@ -1,5 +1,3 @@
-###DEC-064928-0-000-05-08-1969@@@
-
 DECRETO Nº 64.928 - DE 5 DE AGôSTO DE 1969.
 
 Declara caduco o Decreto nº 995, de 15 de maio de 1962.

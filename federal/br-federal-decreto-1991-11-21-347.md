@@ -1,7 +1,3 @@
-1
-
-###DEC-000347-0-000-21-11-1991@@@
-
 DECRETO Nº 347, DE 21 DE NOVEMBRO DE 1991
 
 Determina a utilização dos sistemas SIAFI e SIAPE no âmbito do Poder Executivo Federal.

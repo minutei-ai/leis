@@ -1,5 +1,3 @@
-###DEC-052001-0-000-14-05-1963@@@
-
 DECRETO Nº 52.001, de 14 de maio de 1963.
 
 Altera, temporariamente, o Regulamento de Promoções para Oficiais da Marinha.

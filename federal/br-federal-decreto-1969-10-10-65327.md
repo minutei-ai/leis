@@ -1,5 +1,3 @@
-###DEC-065327-0-000-10-10-1969@@@
-
 DECRETO Nº 65.327 - DE 10 DE OUTUBRO DE 1969.
 
 Altera o Decreto nº 57.617, de 7 de janeiro de 1966, que aprovou a regulamentação das Leis ns. 2.308, de 31 de agôsto de 1954; 2.944, de 8 de novembro de 1956; 4.156, de 28 de novembro de 1962; 4.364, de 22 de julho de 1964 e 4.676, de 16 de junho de 1965; regulamenta o Decreto-lei nº 644, de 23 de junho de 1969 e dá outras providências.

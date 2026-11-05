@@ -1,7 +1,3 @@
-1
-
-###DEC-085838-0-000-24-03-1981@@@
-
 Decreto nº 85.838, de 24 de março de 1981.
 
 Dispõe sobre o Grupo-Atividades Aeroespaciais, e dá outras providências.

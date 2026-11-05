@@ -1,5 +1,3 @@
-###DEC-001844-0-000-26-03-1996@@@
-
 DECRETO Nº 1.844, DE 26 DE MARÇO DE 1996.
 
 Institui Grupo de Trabalho Interministerial (GTI) para os fins que especifica, e dá outras providências.

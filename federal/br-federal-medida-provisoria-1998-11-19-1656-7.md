@@ -1,5 +1,3 @@
-###MPV-001656-0-007-19-11-1998@@@
-
 medida provisória nº 1.656-7, de 19 de novembro de 1998.
 
 Dispõe sobre o salário mínimo a vigorar a partir de 1º de maio de 1998.

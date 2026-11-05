@@ -1,5 +1,3 @@
-###DEC-082659-0-000-16-11-1978@@@
-
 Decreto nº 82.659, de 16 de novembro de 1978.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Ribeirão Preto da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

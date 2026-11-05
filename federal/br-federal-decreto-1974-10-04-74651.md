@@ -1,5 +1,3 @@
-###DEC-074651-0-000-04-10-1974@@@
-
 DECRETO Nº 74.651, DE 4 DE OUTUBRO DE 1974.
 
 Concede reconhecimento aos cursos de Pedagogia e de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Cruzeiro, mantida pelo Instituto de Ensino Superior de Cruzeiro, com sede na Cidade de Cruzeiro, Estado de São Paulo.

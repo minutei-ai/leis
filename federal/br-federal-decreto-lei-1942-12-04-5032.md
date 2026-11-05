@@ -1,5 +1,3 @@
-###DEL-005032-0-000-04-12-1942@@@
-
 DECRETO-LEI N. 5.032 – DE 4 DE DEZEMBRO DE 1942
 
 Cria uma Comissão Executiva, para controlar a produção, o comércio e a exportação de frutas do País

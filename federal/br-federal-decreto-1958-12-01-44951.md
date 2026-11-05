@@ -1,5 +1,3 @@
-###DEC-044951-0-000-01-12-1958@@@
-
 DECRETO Nº 44.951, DE 1 DE dezembro DE 1958.
 
 Autoriza o cidadão brasileiro Moacyr Pinheiro Ferreira a pesquisar ouro, no Município de Pôrto do Moz, Estado do Pará.

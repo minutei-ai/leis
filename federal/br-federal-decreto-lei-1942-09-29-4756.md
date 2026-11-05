@@ -1,5 +1,3 @@
-###DEL-004756-0-000-29-09-1942@@@
-
 DECRETO-LEI N. 4.756 – DE 29 DE SETEMBRO DE 1942
 
 Abre ao Ministério da Educação e Saúde o crédito especial de 63:499$5, para liquidação de despesa

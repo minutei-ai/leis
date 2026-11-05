@@ -1,5 +1,3 @@
-###DEC-048384-0-000-22-06-1960@@@
-
 DECRETO Nº 48.384, DE 22 DE JUNHO DE 1960.
 
 Concede à Minas de Antonina S.A., Produção e Exportação de Minérios de Ferro, autorização para funcionar como emprêsa de mineração.

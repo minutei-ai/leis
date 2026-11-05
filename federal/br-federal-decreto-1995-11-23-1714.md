@@ -1,7 +1,3 @@
-1
-
-###DEC-001714-0-000-23-11-1995@@@
-
 DECRETO N° 1.714, DE 23 DE NOVEMBRO DE 1995.
 
 Dá nova redação ao art. 9° do Decreto n° 89.588, de 26 de abril de 1984, que dispõe sobre Instituto de Estudos do Mar Almirante Paulo Moreira (IEAPM).

@@ -1,5 +1,3 @@
-###DEC-077101-0-000-03-02-1976@@@
-
 decreto nº 77.101, de 3 de fevereiro de 1976.
 
 Autoriza a cessão sob a forma de utilização gratuita, dos imóveis que menciona, situados na Cidade de Porto Alegre, Estado do Rio Grande do Sul.

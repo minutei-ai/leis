@@ -1,5 +1,3 @@
-###DEC-083460-0-000-17-05-1979@@@
-
 decreto nº 83.460, de 17 de maio de 1979.
 
 Autoriza o funcionamento dos cursos de Administração e de Ciências Econômicas da Faculdade Estadual de Filosofia, Ciências e Letras de Cornélio Procópio, Estado do Paraná.

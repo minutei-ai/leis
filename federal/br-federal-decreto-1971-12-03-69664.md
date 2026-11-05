@@ -1,5 +1,3 @@
-###DEC-069664-0-000-03-12-1971@@@
-
 DECRETO Nº 69.664 - DE 3 DE DEZEMBRO DE 1971
 
 Redistribui, com os respectivos ocupantes para o Quadro de Pessoal - Parte Especial - das Secretarias do Ministério Público da União junto à Justiça do Trabalho, cargos originários do Extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-079581-0-000-26-04-1977@@@
-
 Decreto nº 79.581, de 26 de abril de 1977.
 
 Concede à Mineração Oriente Novo S.A. o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

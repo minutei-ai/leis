@@ -1,5 +1,3 @@
-###DEC-057455-0-000-17-12-1965@@@
-
 DECRETO Nº 57.455, DE 17 DE DEZEMBRO DE 1965.
 
 Outorga concessão a Rádio São Francisco Ltda. sediada na cidade de Caxias do Sul, Estado do Rio Grande do Sul, para instalar uma emissora de rádiodifusão sonora.

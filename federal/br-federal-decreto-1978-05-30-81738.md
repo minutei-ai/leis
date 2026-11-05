@@ -1,5 +1,3 @@
-###DEC-081738-0-000-30-05-1978@@@
-
 Decreto nº 81 738 de 30 de maio de 1978
 
 Autoriza JOSÉ PUERTAS GIMENEZ, de nacionalidade espanhola, a adquirir imóvel rural.

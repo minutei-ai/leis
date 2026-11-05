@@ -1,5 +1,3 @@
-###DEC-047422-0-000-12-12-1959@@@
-
 DECRETO Nº 47.422, DE 12 DE DEZEMBRO DE 1959.
 
 Torna sem efeito o Decreto nº 47.023, de 14 de outubro de 1959.

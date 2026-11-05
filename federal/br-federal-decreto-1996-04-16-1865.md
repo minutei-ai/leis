@@ -1,5 +1,3 @@
-###DEC-001865-0-000-16-04-1996@@@
-
 DECRETO Nº 1.865, DE 16 DE ABRIL DE 1996.
 
 Remaneja cargos em comissão do Grupo Direção e Assessoramento Superiores - DAS e da outras providências.

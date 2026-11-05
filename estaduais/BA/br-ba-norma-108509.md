@@ -6,7 +6,8 @@ O GOVERNADOR DO ESTADO DA BAHIA, no exercício da competência que lhe foi deleg
 
 Art. 1º - Fica reorganizado, na forma indicada na presente Lei, o Departamento das Municipalidades - D.M., criado pela [Lei nº 2.930, de 11 de maio de 1971](https://www.legislabahia.ba.gov.br/documentos/lei-no-2930-de-11-de-maio-de-1971#LO_2_930) .
 
-CAPÍTULO I -<br>
+CAPÍTULO I -
+
 FINALIDADE E COMPETÊNCIA
 
 Art. 2º - O Departamento das Municipalidades, órgão da administração centralizada, diretamente subordinado à Chefia da Casa Civil do Gabinete do Governador, tem por finalidade prestar assistência técnica às estâncias hidrominerais e balneários e, em caráter supletivo, aos municípios, competindo-lhe:
@@ -33,7 +34,8 @@ X - promover desapropriações de bens e intervenções em serviços declarados 
 
 XI - exercer outras atividades correlatas.
 
-CAPÍTULO II -<br>
+CAPÍTULO II -
+
 ESTRUTURA
 
 Art. 3º - O Departamento das Municipalidades tem a seguinte estrutura:
@@ -68,7 +70,8 @@ IX - Estância Hidromineral de OLIVENÇA
 
 Art. 4º - O assessoramento jurídico do Departamento das Municipalidades cabe à Procuradoria Geral do Estado, nos termos da legislação em vigor.
 
-CAPÍTULO III -<br>
+CAPÍTULO III -
+
 COMPETÊNCIA DOS ÓRGÃOS DO DEPARTAMENTO
 
 Art. 5º - Ao Gabinete do Diretor Geral, que presta assistência direta ao titular do órgão, compete:
@@ -141,7 +144,8 @@ VI - executar as demarcações intermunicipais estabelecidas, em articulação c
 
 VII - exercer outras atividades correlatas.
 
-CAPÍTULO IV -<br>
+CAPÍTULO IV -
+
 DISPOSIÇÕES GERAIS E TRANSITÓRIAS
 
 Art. 13 - Fica o Poder Executivo autorizado a:
@@ -158,13 +162,62 @@ JOÃO DURVAL CARNEIRO
 
 Governador
 
-Luiz José de Oliveira<br>
-<br>
-<br>
-<br>
+Luiz José de Oliveira
 
 **ANEXO ÚNICO**
 
 CARGOS EM COMISSÃO
 
-<table style="margin-left: 38.95pt; border-collapse: collapse;" border="1" cellspacing="0" cellpadding="0"><tbody><tr><td style="width: 191.35pt; border: 1pt solid windowtext; padding: 0cm 3.5pt;" valign="top" width="255"><p style="margin: 12pt 0cm 6pt; text-align: center;" align="center">DENOMINAÇÃO</p></td><td style="width: 91.35pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="122"><p style="margin: 12pt 0cm 6pt; text-align: center;" align="center">SÍMBOLO</p></td><td style="width: 100.05pt; border-width: 1pt 1pt 1pt medium; border-style: solid solid solid none; border-color: windowtext windowtext windowtext -moz-use-text-color; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="133"><p style="margin: 12pt 0cm 6pt; text-align: center;" align="center">QUANTIDADE</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Chefe de Assessoria</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Coordenador</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">03</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Diretor do Serviço de Administração</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Inspetor Setorial de Finanças</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">01</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Administrador de Estância</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-5</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">03</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Assessor</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">04</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Coordenador Adjunto</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-4</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">06</p></td></tr><tr><td style="width: 191.35pt; border-right: 1pt solid windowtext; border-width: medium 1pt 1pt; border-style: none solid solid; border-color: -moz-use-text-color windowtext windowtext; -moz-border-top-colors: none; -moz-border-right-colors: none; -moz-border-bottom-colors: none; -moz-border-left-colors: none; -moz-border-image: none; padding: 0cm 3.5pt;" valign="top" width="255"><p>Oficial de Gabinete</p></td><td style="width: 91.35pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="122"><p style="text-align: center;" align="center">DAS-2</p></td><td style="width: 100.05pt; border-width: medium 1pt 1pt medium; border-style: none solid solid none; border-color: -moz-use-text-color windowtext windowtext -moz-use-text-color; padding: 0cm 3.5pt;" valign="top" width="133"><p style="text-align: center;" align="center">01</p></td></tr></tbody></table>
+DENOMINAÇÃO
+
+SÍMBOLO
+
+QUANTIDADE
+
+Chefe de Assessoria
+
+DAS-5
+
+01
+
+Coordenador
+
+DAS-5
+
+03
+
+Diretor do Serviço de Administração
+
+DAS-5
+
+01
+
+Inspetor Setorial de Finanças
+
+DAS-5
+
+01
+
+Administrador de Estância
+
+DAS-5
+
+03
+
+Assessor
+
+DAS-4
+
+04
+
+Coordenador Adjunto
+
+DAS-4
+
+06
+
+Oficial de Gabinete
+
+DAS-2
+
+01

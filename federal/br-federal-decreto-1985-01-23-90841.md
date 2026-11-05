@@ -1,5 +1,3 @@
-###DEC-090841-0-000-23-01-1985@@@
-
 Decreto nº 90.841, de 23 de janeiro de 1985
 
 Autoriza o funcionamento da Escola de Zootecnia da Autarquia Universidade do Sudoeste da Bahia.

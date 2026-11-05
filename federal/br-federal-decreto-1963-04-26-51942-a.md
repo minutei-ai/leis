@@ -1,5 +1,3 @@
-###DEC-051942-A-000-26-04-1963@@@
-
 DECRETO Nº 51.942-A, DE 26 DE ABRIL DE 1963.
 
 Autoriza o cidadão brasileiro Carlos Alberto Fasanaro a pesquisar diatomita no município de Ceará-Mirim, Estado do Rio Grande do Norte.

@@ -1,5 +1,3 @@
-###DEC-050816-0-000-22-06-1961@@@
-
 decreto nº 50.816, de 22 de junho de 1961.
 
 Suspende, prazo de um (1) ano, dispositivos do Regulamento de promoções dos Oficiais da Aeronáutica da Ativa ( Repromaer).

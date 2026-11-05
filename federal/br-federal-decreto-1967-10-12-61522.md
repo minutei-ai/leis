@@ -1,5 +1,3 @@
-###DEC-061522-0-000-12-10-1967@@@
-
 DECRETO Nº 61.522, DE 12 DE OUTUBRO 1967.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de 6,30 x 17,80 m localizada no tôpo do “Edifício Itália”, à Av. São Luiz, nº 72, esquina com Avenida Ipiranga, na Cidade de São Paulo, necessária à instalação de uma estrutura metálica com capacidade para suportar antenas parabólicas do Sistema Nacional de Telecomunicações.

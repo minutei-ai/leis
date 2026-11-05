@@ -1,5 +1,3 @@
-###DEC-094088-0-000-11-03-1987@@@
-
 DECRETO N° 94.088, DE 11 DE MARÇO DE 1987
 
 Declara de ocupação dos indígenas Zoró área de terras no Município de Aripuanã, no Estado de Mato Grosso, e dá outras providências.

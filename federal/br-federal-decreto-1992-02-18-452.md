@@ -1,7 +1,3 @@
-1
-
-###DEC-000452-0-000-18-02-1992@@@
-
 DECRETO N° 452, DE 18 DE FEVEREIRO DE 1992
 
 Regulamenta o art. 3° da Lei n° 8.402 de 8 de janeiro de 1992, que institui regime fiscal especial para compras internas com fim exclusivo de exportação.

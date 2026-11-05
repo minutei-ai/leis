@@ -1,5 +1,3 @@
-###DEC-094749-0-000-10-08-1987@@@
-
 DECRETO Nº 94.749, DE 10 DE AGOSTO DE 1987.
 
 Outorga concessão à SOCIEDADE RÁDIO HULHA NEGRA DE CRICIÚMA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Criciúma, Estado de Santa Catarina.

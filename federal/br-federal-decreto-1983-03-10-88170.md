@@ -1,5 +1,3 @@
-###DEC-088170-0-000-10-03-1983@@@
-
 DecretO nº 88.170, de 10 de março de 1983.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Centrais Elétricas do Sul do Brasil S.A.-ELETROSUL., no Estado do Paraná.

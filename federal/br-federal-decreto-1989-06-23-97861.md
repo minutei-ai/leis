@@ -1,7 +1,3 @@
-1
-
-###DEC-097861-0-000-23-06-1989@@@
-
 DECRETO Nº 97.861, DE 23 DE JUNHO DE 1989
 
 Altera a redação do Decreto nº 94.327, de 13 de maio de 1987, que dispõe sobre a estrutura básica do Ministério das Relações Exteriores, e dá outras providências.

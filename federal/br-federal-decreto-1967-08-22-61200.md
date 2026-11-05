@@ -1,5 +1,3 @@
-###DEC-061200-0-000-22-08-1967@@@
-
 DECRETO nº 61.200, DE 22 DE AGÔSTO DE 1967.
 
 Providências transitórias para o funcionamento da Escola de Comando e Estado Maior da Aeronáutica (ECEMAR).

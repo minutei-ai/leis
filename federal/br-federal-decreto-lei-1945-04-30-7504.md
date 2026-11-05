@@ -1,5 +1,3 @@
-###DEL-007504-0-000-30-04-1945@@@
-
 DECRETO-LEI N. 7.504 – DE 30 DE ABRIL DE 1945
 
 Dispõe sôbre a lotação dos cargos do Quadro da Justiça, do Ministério da Justiça e Negócios Interiores, e dá outras providências

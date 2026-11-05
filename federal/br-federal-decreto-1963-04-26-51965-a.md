@@ -1,5 +1,3 @@
-###DEC-051965-A-000-26-04-1963@@@
-
 DECRETO Nº 51.965-A, DE 26 DE ABRIL DE 1963.
 
 Outorga à Companhia Paranaense de Energia Elétrica (COPEL) concessão para distribuir energia elétrica no município de Jaguapitã, no Estado do Paraná.

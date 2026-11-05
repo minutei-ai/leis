@@ -1,5 +1,3 @@
-###DEL-009397-0-000-21-06-1946@@@
-
 DECRETO-LEI N. 9.397 – DE 21 DE JUNHO DE 1946
 
 Abre, ao Ministério da Educação e Saúde, o crédito especial de Cr$ 2.722,60, para pagamento de vencimentos.

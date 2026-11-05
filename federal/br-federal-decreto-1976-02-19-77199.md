@@ -1,5 +1,3 @@
-###DEC-077199-0-000-19-02-1976@@@
-
 decreto nº 77.199, de 19 de fevereiro de 1976.
 
 Concede reconhecimento ao curso de Matemática, do Centro de Estudos Superiores de Londrina, com sede na cidade de Londrina, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-005888-0-000-06-09-2006@@@
-
 DECRETO Nº 5.888, DE 6 DE SETEMBRO DE 2006.
 
 Promulga o Acordo entre o Governo da República Federativa do Brasil e o Governo da República do Líbano sobre Cooperação na Área do Turismo, celebrado em Beirute, em 4 de dezembro de 2003.
@@ -24,11 +22,7 @@ Brasília, 6 de setembro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-         Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no D.O.U. de 8.9.2006.
-
-ACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A
+         Celso Luiz Nunes AmorimACORDO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E A
 
 REPÚBLICA DO LÍBANO SOBRE  COOPERAÇÃO NO CAMPO DO TURISMO
 

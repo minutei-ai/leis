@@ -1,5 +1,3 @@
-###DEC-088975-0-000-09-11-1983@@@
-
 decreto nº 88.975, de 09 de novembro de 1983
 
 Acrescenta parágrafo único ao artigo 23 do Decreto nº 84.362, de 31 de dezembro de 1979, que dispõe sobre a estrutura de controle interno.

@@ -1,5 +1,3 @@
-###DEL-008754-0-000-21-01-1946@@@
-
 DECRETO-LEI N. 8.754 – DE 21 DE JANEIRO DE 1946
 
 Altera diversas carreiras dos Quadros Suplementar e Permanente do Ministério da Fazenda e dá outras providências.

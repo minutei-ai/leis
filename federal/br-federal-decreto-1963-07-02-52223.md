@@ -1,5 +1,3 @@
-###DEC-052223-0-000-02-07-1963@@@
-
 Decreto Nº 52.223, DE 2 DE JULHO DE 1963.
 
 Aprova o regimento da Biblioteca no Ministério da Fazenda e dá outras providências.

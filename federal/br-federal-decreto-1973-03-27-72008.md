@@ -1,5 +1,3 @@
-###DEC-072008-0-000-27-03-1973@@@
-
 DECRETO Nº 72.008, DE 27 DE MARÇO DE 1973.
 
 Concede permissão, em caráter permanente, à S.A. Indústrias Reunidas Francisco Matarazzo, em seu estabelecimento fabril Santo Eduardo, para funcionar aos domingos e nos dias feriados civis e religiosos.

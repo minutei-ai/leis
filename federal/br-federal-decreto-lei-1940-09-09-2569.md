@@ -1,5 +1,3 @@
-###DEL-002569-0-000-09-09-1940@@@
-
 DECRETO-LEI N. 2.569 – DE 9 DE SETEMBRO DE 1940
 
 Altera a tabela do quadro VI do Ministério da Justiça e Negócios Interiores, e dá outras providências

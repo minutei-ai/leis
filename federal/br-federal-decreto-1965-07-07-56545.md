@@ -1,5 +1,3 @@
-###DEC-056545-0-000-07-07-1965@@@
-
 DECRETO Nº 56.545, DE 7 DE JULHO DE 1965.
 
 Altera a redação do Art. 148 do Regulamento de bases e Destacamento de Bases Aéreas

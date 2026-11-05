@@ -1,5 +1,3 @@
-###DEL-008374-0-000-14-12-1945@@@
-
 DECRETO-LEI N. 8.374 – DE 14 DE DEZEMBRO DE 1945
 
 Dispõe sôbre a administração do Loide Brasileiro, Patrimônio Nacional

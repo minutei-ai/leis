@@ -1,5 +1,3 @@
-###DEL-007879-0-000-20-08-1945@@@
-
 DECRETO-LEI N. 7.879 – DE 20 DE AGÔSTO DE 1945
 
 Abre ao Ministério da Viação E Obras Públicas o crédito especial de Cr$ 48.000.000,00, para atender à instalação de beneficiamento de carvão nacional e equipamentos, a cargo da Companhia Siderúrgica Nacional.

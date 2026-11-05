@@ -1,5 +1,3 @@
-###DEC-006515-0-000-22-07-2008@@@
-
 DECRETO Nº 6.515, DE 22 DE JULHO DE 2008.
 
 Institui, no âmbito dos Ministérios do Meio Ambiente e da Justiça, os Programas de Segurança Ambiental denominados Guarda Ambiental Nacional e Corpo de Guarda-Parques, e dá outras providências.

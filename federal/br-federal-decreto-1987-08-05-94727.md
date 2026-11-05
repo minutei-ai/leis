@@ -1,5 +1,3 @@
-###DEC-094727-0-000-05-08-1987@@@
-
 DECRETO Nº 94.727, DE 5 DE AGOSTO DE 1987.
 
 Dispõe sobre a execução do Sexto Protocolo Adicional ao Acordo de Alcance Parcial nº 3, de Renegociação das Preferências Outorgadas no Período 1962/1980, subscrito entre o Brasil e o Chile.

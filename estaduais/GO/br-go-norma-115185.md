@@ -46,5 +46,6 @@ III – 1º de julho de 2026, em relação ao art. 1º.
 
 Goiânia, 3 de junho de 2026; 138º da República.
 
-DANIEL VILELA<br>
+DANIEL VILELA
+
 Governador do Estado

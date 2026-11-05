@@ -1,5 +1,3 @@
-###DEL-000138-0-000-29-12-1937@@@
-
 DECRETO-LEI N. 138 – DE 29 DE DEZEMBRO DE 1937
 
 Suspende, provisòriamente, a cobrança dos impostos de licença para localização de coméricio, indústrias e profissões no Distrito Federal

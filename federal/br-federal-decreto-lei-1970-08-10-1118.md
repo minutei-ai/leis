@@ -1,5 +1,3 @@
-###DEL-001118-0-000-10-08-1970@@@
-
 # dECRETO-LEI Nº 1.118, DE 10 de AGÔSTO DE 1970
 
 Dispõe sôbre medidas fiscais de estímulo à exportação e dá outras providências.

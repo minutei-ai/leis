@@ -1,5 +1,3 @@
-###DEC-073390-0-000-31-12-1973@@@
-
 DECRETO Nº 73.390 - DE 31 DE DEZEMBRO DE 1973
 
 Torna sem efeito aproveitamento de disponível no Ministério da Fazenda, e dá outras providências.

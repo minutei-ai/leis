@@ -1,5 +1,3 @@
-###DEC-048388-0-000-22-06-1960@@@
-
 DECRETO Nº 48.388, DE 22 DE JUNHO DE 1960.
 
 Estende ao Distrito Federal, provisòriamente, a jurisdição da Delegacia Regional do Trabalho no Estado de Goiás.

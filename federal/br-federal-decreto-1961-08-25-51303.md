@@ -1,5 +1,3 @@
-###DEC-051303-0-000-25-08-1961@@@
-
 Decreto nº 51.303, de 25 de agôsto de 1961.
 
 Autoriza o cidadão brasileiro Valdir de Cezaro Nanon a pesquisar fluorita no município de Tubarão, Estado de Santa Catarina.

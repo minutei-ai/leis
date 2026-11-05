@@ -1,5 +1,3 @@
-###DEC-006364-0-000-23-01-2008@@@
-
 DECRETO Nº 6.364, DE 23 DE JANEIRO DE 2008.
 
 Promulga o Acordo de Cooperação no Setor do Turismo entre o Governo da República Federativa do Brasil e o Governo da República Helênica, celebrado em Brasília, em 19 de dezembro de 2002.
@@ -22,11 +20,7 @@ Brasília, 23 de janeiro de 2008; 187o da Independência e 120o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 24.1.2008
-
-ACORDO DE COOPERAÇÃO NO SETOR DE TURISMO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA HELÊNICA
+Celso Luiz Nunes AmorimACORDO DE COOPERAÇÃO NO SETOR DE TURISMO ENTRE O GOVERNO DA REPÚBLICA FEDERATIVA DO BRASIL E O GOVERNO DA REPÚBLICA HELÊNICA
 
 O Governo da República Federativa do Brasil
 

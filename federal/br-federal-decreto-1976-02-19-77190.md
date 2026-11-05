@@ -1,5 +1,3 @@
-###DEC-077190-0-000-19-02-1976@@@
-
 decreto nº 77.190, de 19 de fevereiro de 1976.
 
 Altera a redação do artigo 1º do Decreto número 76.531, de 03 de novembro de 1975, que declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da Companhia Brasileira de Energia Elétrica - CBEE.

@@ -1,5 +1,3 @@
-###DEL-001689-0-000-30-07-1979@@@
-
 # Decreto-lei nº 1.689, de 30 de Julho de 1979
 
 Concede isenção de impostos relativamente a selos, peças filatélicas e material de uso filatélico vendidos no recinto das exportações vinculadas à “Brasiliana 79”, e dá outras providências.

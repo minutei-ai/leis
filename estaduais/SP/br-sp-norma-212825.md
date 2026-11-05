@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212825)<br>
-
 # DECRETO N° 70.748, DE 02 DE JULHO DE 2026
 
 ### _Autoriza a outorga de uso de parte do imóvel que especifica à concessionária Rodovias Integradas do Oeste S/A - SPVIAS e dá providências correlatas._

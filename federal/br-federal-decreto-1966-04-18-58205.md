@@ -1,5 +1,3 @@
-###DEC-058205-0-000-18-04-1966@@@
-
 decreto nº 58.205, de 18 de abril de 1966.
 
 Autoriza a cidadã Iracema Teixeira Rogich a lavrar calcário no Município de Salto de Pirapora Estado de São Paulo

@@ -1,5 +1,3 @@
-###DEL-005230-0-000-05-02-1943@@@
-
 DECRETO‑LEI N. 5.230 – DE 5 DE FEVEREIRO DE 1943
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de ...... Cr$ 5.467,70 para pagamento de proventos de disponibilidade.

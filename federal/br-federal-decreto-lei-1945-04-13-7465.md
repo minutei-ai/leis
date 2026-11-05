@@ -1,5 +1,3 @@
-###DEL-007465-0-000-13-04-1945@@@
-
 DECRETO-LEI N. 7.465 – DE 13 DE ABRIL DE 1945
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 4. 710. 785,30, para classificação de despesa proveniente do transporte de valores

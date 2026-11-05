@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211052)<br>
-
 # DECRETO N° 69.614, DE 11 DE JUNHO DE 2025
 
 ### _Autoriza a Fazenda do Estado a receber, mediante doação, sem ônus ou encargo, do Município de São José do Rio Preto, o imóvel que especifica._

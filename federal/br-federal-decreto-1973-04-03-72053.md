@@ -1,5 +1,3 @@
-###DEC-072053-0-000-03-04-1973@@@
-
 DECRETO Nº 72.053, DE 3 DE ABRIL DE 1973.
 
 Aprova o Regulamento da Diretoria de Promoções, do Departamento-Geral do Pessoal do Ministério do Exército, e dá outras providências.

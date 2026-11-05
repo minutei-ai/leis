@@ -1,5 +1,3 @@
-###DEC-004780-0-000-15-07-2003@@@
-
 DECRETO Nº 4.780, DE 15 DE JULHO DE 2003.
 
        Aprova o Regulamento da Reserva da Marinha e dá outras providências.

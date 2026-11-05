@@ -1,5 +1,3 @@
-###DEC-094984-0-000-30-09-1987@@@
-
 DECRETO Nº 94.984, DE 30 DE SETEMBRO DE 1987
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terras e benfeitorias, integrantes do perímetro abrangido pelo Decreto nº 90.223, de 25 de setembro de 1984, que criou o Parque Nacional da Serra do Cipó, no Estado de Minas Gerais.

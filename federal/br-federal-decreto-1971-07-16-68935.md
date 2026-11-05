@@ -1,5 +1,3 @@
-###DEC-068935-0-000-16-07-1971@@@
-
 DECRETO Nº 68.935, DE 16 DE JULHO DE 1971.
 
 Concede à Magnesita S. A. o direito de lavrar agalmatolito, no município de Onça do Pitangui, Estado de Minas Gerais.

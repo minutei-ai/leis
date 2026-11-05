@@ -1,5 +1,3 @@
-###DEC-091388-0-000-01-07-1985@@@
-
 Decreto nº 91.388, de 01 de julho de 1985.
 
 Altera dispositivos do Decreto nº 85.795, de 9 de março de 1981, que instituiu a Secretaria de Imprensa e Divulgação, e dá outras providências.

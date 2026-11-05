@@ -1,5 +1,3 @@
-###DEC-047837-0-000-05-03-1960@@@
-
 decreto nº 47.837, de 5 de Março de 1960.
 
 Altera a lotação numérica das Repartições atendidas pelo Quadro Permanente do Ministério da Aeronáutica.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209353)<br>
-
 # LEI N° 17.910, DE 23 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 776/2023, do Deputado Ricardo Madalena - PL)

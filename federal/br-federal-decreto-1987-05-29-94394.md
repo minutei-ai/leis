@@ -1,5 +1,3 @@
-###DEC-094394-0-000-29-05-1987@@@
-
 DECRETO Nº 94.394, DE 29 DE MAIO DE 1987.
 
 Cria função de confiança na Tabela Permanente do Ministério da Marinha, e dá outras providências.

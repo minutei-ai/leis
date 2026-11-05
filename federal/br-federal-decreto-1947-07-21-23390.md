@@ -1,20 +1,18 @@
-###DEC-023390-0-000-21-07-1947@@@
+**DECRETO Nº 23.390, DE 21 DE JULHO DE 1947**
 
-<strong>DECRETO Nº 23.390, DE 21 DE JULHO DE 1947</strong>
+***Outorga a Honório Gomes, ou emprêsa***  ***que organizar, concessão para o aproveitamento da energia hidráulica da cachoeira das Oliveiras, no rio Itapecerica, distrito da sede do município de Divinópolis, Estado de Minas Gerais.***
 
-<em><strong>Outorga a Honório Gomes, ou emprêsa</strong></em>  <em><strong>que organizar, concessão para o aproveitamento da energia hidráulica da cachoeira das Oliveiras, no rio Itapecerica, distrito da sede do município de Divinópolis, Estado de Minas Gerais.</strong></em>
+**OPRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas (Decreto n.º  24.643, de 10 de julho de 1934),
 
-<strong>O</strong> <strong>PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas (Decreto n.º  24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1.º Respeitados so direitos de terceiros anteriormente adquiridos, é outorgada a Honório Gomes, ou emprêsa  que organizar, concessão para o aproveitamento da energia hidráulica da cachoeira das Oliveiras, no rio Itapecerica, distrito da sede do município de Divinópolis, Estado de  Minas Gerais.
+**Art**. 1.º Respeitados so direitos de terceiros anteriormente adquiridos, é outorgada a Honório Gomes, ou emprêsa  que organizar, concessão para o aproveitamento da energia hidráulica da cachoeira das Oliveiras, no rio Itapecerica, distrito da sede do município de Divinópolis, Estado de  Minas Gerais.
 
 § 1. º Em portaria do Ministro da Agricultura, por ocasião da aprovação dos projetos, serão determinadas a altura de queda e aproveitar, a descarga e a potência concedida.
 
 § 2.º O aproveitamento destina-se à utilização de energia para consumo exclusivo do concessionário.
 
-<strong>Art</strong>. 2º  Sob pena de caducidade do presente título concessionário obriga-se a :
+**Art**. 2º  Sob pena de caducidade do presente título concessionário obriga-se a :
 
 I – Registrar-se na Divisão de Águas, dentro do prazo de trinta (30) dias após a sau publicação.
 
@@ -48,22 +46,22 @@ IV – Obebedecer, em todos so projetos, às prescrições de ordem técnica que
 
 Parágrafo único. Os prazos a que se refere êste artigo poderão ser prorrogadas pelo Ministério da Agricultura.
 
-<strong>Art</strong>.3.º A minuta do contrato disciplinar dessa concessão será preparada pela Divisão de  Águas, as instalações necessárias a observações linimetricas a medição de descarga do curso dágua que vai utiliza e a realizar as observações de acôrdo com as instruções da mesma Divisão.
+**Art**.3.º A minuta do contrato disciplinar dessa concessão será preparada pela Divisão de  Águas, as instalações necessárias a observações linimetricas a medição de descarga do curso dágua que vai utiliza e a realizar as observações de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 5.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de  Águas.
+**Art**. 5.º A presente concessão vigorará pelo prazo de trinta (30) anos, contado da data do registro do respectivo contrato na Divisão de  Águas.
 
-<strong>Art</strong>. 6.º Findo o prazo da concessão tôda a propriedade do concessionário que no memento existir em função exclusiva e permanente da utilização da energia hidráulica referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, mediante indenização do custo histórico, isto é do capital efetivamente invertido, menos a depreciação.
+**Art**. 6.º Findo o prazo da concessão tôda a propriedade do concessionário que no memento existir em função exclusiva e permanente da utilização da energia hidráulica referente ao aproveitamento concedido, reverterá ao Estado de Minas Gerais, mediante indenização do custo histórico, isto é do capital efetivamente invertido, menos a depreciação.
 
-<strong>Art</strong>. 7.º Se o Govêrno do Estado de Minas Gerais não fizer uso do seu direito a essa reversão caberá ao concessionário a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma, que no respectivo contrato, deverá estar prevista, ou de restabelecer no curso dágua às suas expensas, a situação anterior ao aproveitamento concedido.
+**Art**. 7.º Se o Govêrno do Estado de Minas Gerais não fizer uso do seu direito a essa reversão caberá ao concessionário a alternativa de requerer ao Govêrno Federal seja a concessão renovada pela forma, que no respectivo contrato, deverá estar prevista, ou de restabelecer no curso dágua às suas expensas, a situação anterior ao aproveitamento concedido.
 
 Parágrafo único. Para os efeitos dêste artigo fica o concessionário obrigado a dar conhecimento ao Govêrno Federal da decisão do Estado de Minas Gerais, e a entrar com o requerimento de prorrogação da concessão ou o de desistência desta até seis (6) meses antes do término do respectivo prazo.
 
-<strong>Art</strong>. 8.º O concessionário gozará, desde a data do registro de que trata o n.º III do art. 2.º e enquanto vigorar esta cocnessão, dos favores constantes do Código de Águas e as leis especiais sôbre a matéria.
+**Art**. 8.º O concessionário gozará, desde a data do registro de que trata o n.º III do art. 2.º e enquanto vigorar esta cocnessão, dos favores constantes do Código de Águas e as leis especiais sôbre a matéria.
 
-<strong>Art</strong>. 9.º O presente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
+**Art**. 9.º O presente decreto entrará em vigor na data da sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 16 de julho de 1947, 126.º da Independência e 59º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Daniel de Carvalho

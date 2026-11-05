@@ -1,5 +1,3 @@
-###DEC-004994-0-000-19-02-2004@@@
-
 DECRETO Nº 4.994, DE 19 DE FEVEREIRO DE 2004.
 
 Dá nova redação ao art. 1º do Decreto nº 4.838, de 11 de setembro de 2003, que dispõe sobre a composição do Conselho Nacional de Ciência e Tecnologia - CCT.

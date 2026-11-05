@@ -1,5 +1,3 @@
-###DEC-066918-0-000-20-07-1970@@@
-
 DECRETO Nº 66.918, DE 20 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 20.564, de 12 de fevereiro de 1946.

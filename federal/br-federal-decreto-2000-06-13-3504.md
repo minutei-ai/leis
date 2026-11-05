@@ -1,5 +1,3 @@
-###DEC-003504-0-000-13-06-2000@@@
-
 DECRETO Nº 3.504, DE 13 DE JUNHO DE 2000.
 
 Altera dispositivos do Decreto nº 2.536, de 6 de abril de 1998, que dispõe sobre a concessão do Certificado de Entidade de Fins Filantrópicos a que se refere o inciso IV do art. 18 da Lei nº 8.742, de 7 de dezembro de 1993.

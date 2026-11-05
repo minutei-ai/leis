@@ -1,20 +1,18 @@
-###DEC-030291-0-000-19-12-1951@@@
+**DECRETO Nº 30.291, DE 19 DE DEZEMBRO DE 1951.**
 
-<strong>DECRETO Nº 30.291, DE 19 DE DEZEMBRO DE 1951.</strong>
+***Outorga a Irmãos Schlmberger concessão para o aprovamento de energia hidráulica do salto Curucaca existente no rio Jordão, município do Guarapuava, Estado do Paraná.***
 
-<em><strong>Outorga a Irmãos Schlmberger concessão para o aprovamento de energia hidráulica do salto Curucaca existente no rio Jordão, município do Guarapuava, Estado do Paraná.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição quer lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas(dec. 24.643, de 10 de julho de 1934),
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição quer lhe confere o artigo 87, inciso I, da Constituição, e nos têrmos do artigo 150 do Código de Águas(dec. 24.643, de 10 de julho de 1934),
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É outorgada à Irmãos Schumberger e Cia. Ltda. concessão para o aproveitamento de energia hidráulica do salto Curucaca, existente no rio Jordão, no limite dos distritos de Guarapuava e Candoi município de Guarapuava, Estado do Paraná.
+**Art**. 1º É outorgada à Irmãos Schumberger e Cia. Ltda. concessão para o aproveitamento de energia hidráulica do salto Curucaca, existente no rio Jordão, no limite dos distritos de Guarapuava e Candoi município de Guarapuava, Estado do Paraná.
 
 § 1º Em portaria do Ministro da Agricultura, no ato da aprovação dos projetos, serão determinadas a altura da queda a aproveitar, a descarga de derivação e a potência.
 
 § 2º O aproveitamento destina-se à produção, transmissão e distribuição de energia elétrica para serviço público, de utilidade publica e para comércio de energia no município de Guarapuava, Estado do Paraná.
 
-<strong>Art</strong>. 2º Caducará o presente título independente de ato declamatório se a concessionária não satisfazer as condições seguintes:
+**Art**. 2º Caducará o presente título independente de ato declamatório se a concessionária não satisfazer as condições seguintes:
 
 I - Registrá-lo na Divisão de Águas, dentro de 30 dias, contandos da data de sua publicação.
 
@@ -100,30 +98,30 @@ V - Iniciar e concluir as obras nos prazos que forem determinados pelo Ministér
 
 Parágrafo único - Os prazos a que se refere êste artigo poderão ser prorrogados por ato do Ministério da Agricultura.
 
-<strong>Art</strong>. 3º A concessionária fica abrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso dágua que vai utilizar de acôrdo com as instruções da mesma Divisão.
+**Art**. 3º A concessionária fica abrigada a construir e manter nas proximidades do aproveitamento, onde e desde quando fôr determinado pela Divisão de Águas, as instalações necessárias a observações fluviométricas e medições de descarga do curso dágua que vai utilizar de acôrdo com as instruções da mesma Divisão.
 
-<strong>Art</strong>. 4º O capital a se remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo de forma permanente, para a produção, transmissão e distribuição da energia elétrica.
+**Art**. 4º O capital a se remunerar será o efetivamente investido nas instalações da concessionária, em função de sua indústria, concorrendo de forma permanente, para a produção, transmissão e distribuição da energia elétrica.
 
-<strong>Art</strong>. 5º As tarifas de energia elétrica serão firmadas pelo Ministério da Agricultura e trienalmente/Código.
+**Art**. 5º As tarifas de energia elétrica serão firmadas pelo Ministério da Agricultura e trienalmente/Código.
 
-<strong>Art</strong>. 6º Para manutenção em integridade do capital a que se refere o artigo 4º será criado um fundo de reserva que proverá às renovações determinadas pela depreciação ou impostas por acidentes.
+**Art**. 6º Para manutenção em integridade do capital a que se refere o artigo 4º será criado um fundo de reserva que proverá às renovações determinadas pela depreciação ou impostas por acidentes.
 
 Parágrafo único - A constituição dêsse fundo, que se denominará reserva de renovação, será realizada por quota especial, que incidirá sôbre as tarifas, sob forma de percentagem. Esta quota será determinada tendo-se em vista a duração média do material a cuja renovação a dita reserva terá que atender, podendo ser modificada, trienalmente, na época da revisão das tarifas.
 
-<strong>Art</strong>. 7º Findo o prazo da concessão, todos os bens e instalações que no momento existente em função exclusiva e permanentemente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Estado do Paraná, em conformidade com o estipulado nos arts.165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do artigo 6º.
+**Art**. 7º Findo o prazo da concessão, todos os bens e instalações que no momento existente em função exclusiva e permanentemente da produção, transmissão e distribuição de energia elétrica, referente ao aproveitamento concedido, reverterão ao Estado do Paraná, em conformidade com o estipulado nos arts.165 e 166 do Código de Águas, mediante indenização, na base do custo histórico, do capital não amortizado, deduzida a reserva de renovação a que se refere o parágrafo único do artigo 6º.
 
 § 1º A concessionária poderá requerer ao Govêrno Federal que a concessão seja renovada, mediante as condições que vierem a ser estipuladas, desde que as aprova de que o Estado do Paraná não se opõe a utilização dos bens objetos de reversão.
 
 § 2º A comissionária deverá entrar com o pedido a que se refere o parágrafo anterior, até 6 meses antes de findar o prazo de vigência da concessão, atendendo-se, se o não fizer que não pretender a renovação.
 
-<strong>Art</strong>. 8º Apresente concessão vigorará pelo prazo de 30 anos, contatado da data do registro do respectivo contrato pelo Tribunal de Contas.
+**Art**. 8º Apresente concessão vigorará pelo prazo de 30 anos, contatado da data do registro do respectivo contrato pelo Tribunal de Contas.
 
-<strong>Art</strong>. 9º O presente decreto entrará em vigor na data de sua publicação.
+**Art**. 9º O presente decreto entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 10. Revogam-se as disposições em contrário.
+**Art**. 10. Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 19 de dezembro de 1951, 130º da Independência e 63º da República.
 
-<strong>GETULIO VARGAS</strong>
+**GETULIO VARGAS**
 
 João Cleofas

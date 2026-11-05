@@ -1,5 +1,3 @@
-###MPV-001874-0-016-22-10-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.874-16, DE 22 DE OUTUBRO DE 1999.
 
 Acrescenta dispositivo à Lei nº 9.605, de 12 de fevereiro de 1998, que dispõe sobre as sanções penais e administrativas derivadas de condutas e atividades lesivas ao meio ambiente.

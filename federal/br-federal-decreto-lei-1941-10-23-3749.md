@@ -1,5 +1,3 @@
-###DEL-003749-0-000-23-10-1941@@@
-
 DECRETO-LEI N. 3.749 – DE 23 DE OUTUBRO DE 1941
 
 Dispõe sobre escreventes substitutos e custas de serventuários da Justiça do Distrito Federal.

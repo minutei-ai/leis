@@ -1,5 +1,3 @@
-###LEI-000000-0-000-27-08-1830@@@
-
 LEI - DE 27 DE AGOSTO DE 1830
 
 Manda abrir um canal para facilitar o commercio da capital com o interior da Provincia do Maranhão.

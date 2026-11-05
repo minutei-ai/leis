@@ -1,24 +1,22 @@
-###DEC-031340-0-000-26-08-1952@@@
+**DECRETO Nº 31.340, DE 26 DE AGÔSTO DE 1952.**
 
-<strong>DECRETO Nº 31.340, DE 26 DE AGÔSTO DE 1952.</strong>
+***Outorga concessão à Sociedade Rádio Emissora Continental Limitada para estabelecer, na cidade de Campos, Estado do Rio de Janeiro, uma estação radiodifusora de ondas médias.***
 
-<em><strong>Outorga concessão à Sociedade Rádio Emissora Continental Limitada para estabelecer, na cidade de Campos, Estado do Rio de Janeiro, uma estação radiodifusora de ondas médias.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Sociedade Rádio Emissora Continental Limitada, com sede na cidade de Niterói, Estado do Rio de Janeiro, e tendo em vista o disposto no artigo 5º, nº XII, da mesma Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, nº I, da Constituição, atendendo ao que requereu a Sociedade Rádio Emissora Continental Limitada, com sede na cidade de Niterói, Estado do Rio de Janeiro, e tendo em vista o disposto no artigo 5º, nº XII, da mesma Constituição,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único - Fica outorgada concessão à Sociedade Rádio Emissora Continental Limitada, nos têrmos do artigo 11, do Decreto nº 24.655, de 11 de julho de 1934, para estabelecer, na cidade de Campos, Estado do Rio de Janeiro, pelo prazo de três (3) anos, de conformidade com o disposto no artigo 4º, parágrafo 1º, do Decreto nº 29.783, de 19 de julho de 1951, sem direito de exclusividade, uma estação radiodifusora de ondas médias, destinada a executar os serviços de radiodifusão.
 
-Parágrafo único - O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no “<em>Diário</em> <em>Oficial</em>”, sob pena de ser considerada nula a concessão.
+Parágrafo único - O contrato decorrente desta concessão obedecerá às cláusulas que com êste baixam, assinadas pelo Ministro de Estado dos Negócios da Viação e Obras Públicas, e deverá ser assinado dentro de 60 (sessenta) dias, a contar da data da publicação dêste decreto no “*DiárioOficial*”, sob pena de ser considerada nula a concessão.
 
 Rio de Janeiro, 26 de agôsto de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Alvaro de Souza Lima
 
-<strong>CLÁUSULAS A QUE SE REFERE O DECRETO Nº 31.340, DESTA DATA</strong>
+**CLÁUSULAS A QUE SE REFERE O DECRETO Nº 31.340, DESTA DATA**
 
 I
 
@@ -76,7 +74,7 @@ VI
 
 Pela inobservância de qualquer das presentes cláusulas, em que não esteja prevista a imediata caducidade da concessão, o Govêrno Federal poderá, pelo órgão fiscalizador, impor à concessionária multa de Cr$100,00 (cem cruzeiros) a Cr$5.000,00 (cinco mil cruzeiros), conforme a gravidade da infração.
 
-Parágrafo único - A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no <em>Diário Oficial</em>.
+Parágrafo único - A importância de qualquer multa será recolhida à Tesouraria do Departamento dos Correios e Telégrafos, dentro do prazo improrrogável de trinta (30) dias a contar da data da notificação feita diretamente à concessionária ou da publicação do ato no *Diário Oficial*.
 
 VII
 
@@ -86,9 +84,9 @@ VIII
 
 A concessão será considerada caduca, para todos os efeitos, sem direito a qualquer indenização:
 
-a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas <em>a</em>, <em>b</em>, <em>c</em>, <em>d</em>, <em>e</em> (<em>infine</em>), <em>j</em>, <em>l</em> e <em>m</em> da cláusula III;
+a) se, em todo o tempo, fôr verificada inobservância das disposições contidas nas alíneas *a*, *b*, *c*, *d*, *e* (*infine*), *j*, *l* e *m* da cláusula III;
 
-b) se não forem pagas, dentro dos prazos estabelecidos, a quota e contribuições a que se refere a alínea <em>e</em> da cláusula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
+b) se não forem pagas, dentro dos prazos estabelecidos, a quota e contribuições a que se refere a alínea *e* da cláusula III, bem como a importância de qualquer multa imposta nos têrmos da cláusula VI;
 
 c) se, em qualquer tempo, se verificar o emprêgo da estação para outros fins que não os determinados na concessão e admitidos pela legislação que reger a matéria.
 
@@ -102,4 +100,4 @@ Parágrafo segundo - A concessão será considerada perempta se o Govêrno feder
 
 Rio de Janeiro, 26 de agôsto de 1952.
 
-<strong>ALVARO DE SOUZA LIMA</strong>
+**ALVARO DE SOUZA LIMA**

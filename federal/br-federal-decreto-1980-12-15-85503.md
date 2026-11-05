@@ -1,5 +1,3 @@
-###DEC-085503-0-000-15-12-1980@@@
-
 Decreto nº 85.503, de 15 de dezembro de 1980.
 
 Autoriza a Petrobrás Mineração S.A. - PETROMISA, a proceder ao aumento do limite de seu Capital Social.

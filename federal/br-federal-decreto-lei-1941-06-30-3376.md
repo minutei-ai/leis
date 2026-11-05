@@ -1,5 +1,3 @@
-###DEL-003376-0-000-30-06-1941@@@
-
 DECRETO-LEI N. 3.376 – DE 30 DE JUNHO DE 1941
 
 Altera, sem aumento de despesa, o atual Orçamento do Ministério da Viação e Obras Públicas

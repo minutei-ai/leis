@@ -1,5 +1,3 @@
-###DEC-066654-0-000-02-06-1970@@@
-
 DECRETO Nº 66.654, DE 2 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Casa de Caridade de Carangola com sede em Carangola, Estado de Minas Gerais.

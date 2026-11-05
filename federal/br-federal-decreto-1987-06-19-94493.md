@@ -1,5 +1,3 @@
-###DEC-094493-0-000-19-06-1987@@@
-
 DECRETO N° 94.493, DE 19 DE JUNHO DE 1987
 
 Altera a composição da Comissão Nacional para Assuntos da Associação Latino-Americana de Integração (CNAALADI).

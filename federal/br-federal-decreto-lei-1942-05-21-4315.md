@@ -1,5 +1,3 @@
-###DEL-004315-0-000-21-05-1942@@@
-
 DECRETO-LEI N. 4.315 – de 21 DE MAIO DE 1942
 
 Concede subvenção à linha Rio-Recife, da “Navegação Aérea Brasileira, S. A.”, e abre o crédito especial de 1.796:300$0, para ocorrer à despesa neste exercício

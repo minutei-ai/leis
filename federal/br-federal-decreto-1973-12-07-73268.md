@@ -1,5 +1,3 @@
-###DEC-073268-0-000-07-12-1973@@@
-
 DECRETO Nº 73.268 - DE 7 DE DEZEMBRO DE 1973
 
 Dispõe sobre o estabelecimento de um cargo de Tesoureiro Auxiliar de 1a categoria do Quadro de Pessoal - Parte Suplementar - do ex-Departamento dos Correios e Telégrafos, atual Empresa Brasileira de Correios e Telégrafos.

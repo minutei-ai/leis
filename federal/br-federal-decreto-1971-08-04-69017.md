@@ -1,5 +1,3 @@
-###DEC-069017-0-000-04-08-1971@@@
-
 decreto nº 69.017, de 4 de AGÔSTO de 1971.
 
 Declara de utilidade pública a Sociedade dos Joseleitos de Cristo, com sede em Tucano, Estado da Bahia.

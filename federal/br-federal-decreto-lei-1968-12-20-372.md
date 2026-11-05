@@ -1,5 +1,3 @@
-###DEL-000372-0-000-20-12-1968@@@
-
 DECRETO-LEI Nº 372, DE 20 DE DEZEMBRO DE 1968
 
 Autoriza o Poder Executivo a emitir Letras do Tesouro a serem utilizadas como garantia subsidiária nas operações de crédito realizadas entre a Companhia de Navegação Lloyd Brasileiro e o Banco do Brasil S.A. e dá outras providências.

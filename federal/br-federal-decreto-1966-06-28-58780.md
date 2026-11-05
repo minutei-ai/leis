@@ -1,5 +1,3 @@
-###DEC-058780-0-000-28-06-1966@@@
-
 DECRETO Nº 58.780, DE 28 DE JUNHO DE 1966.
 
 Cria no Departamento Nacional de Portos e Vias Navegáveis (DNPVN) a Junta Administrativa do Porto de Itajai (JAPI)

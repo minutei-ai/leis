@@ -1,5 +1,3 @@
-###DEC-060399-0-000-11-03-1967@@@
-
 Decreto nº 60.399, de 11 de março de 1967.
 
 Autoriza o cidadão brasileiro Arnaldo Michelletti a pesquisar feldspato e quartzito no município de Santa Branca, Estado de São Paulo.

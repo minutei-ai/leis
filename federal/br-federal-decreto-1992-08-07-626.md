@@ -1,7 +1,3 @@
-1
-
-###DEC-000626-0-000-10-08-1992@@@
-
 DECRETO N° 626, DE 10 DE AGOSTO DE 1992
 
 Altera áreas de jurisdição dos Comandos Militares de Área e das Regiões Militares e dá outras providências.

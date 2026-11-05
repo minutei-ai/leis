@@ -1,5 +1,3 @@
-###DEC-065548-0-000-21-10-1969@@@
-
 DECRETO Nº 65.548 - DE 21 DE OUTUBRO DE 1969.
 
 Altera a denominação de funções gratificadas do Ministério da Fazenda e dá outras providências.

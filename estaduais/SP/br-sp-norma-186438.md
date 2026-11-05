@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/186438)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei/2018/compilacao-lei-16726-22.05.2018.html)
 
 # LEI N° 16.726, DE 22 DE MAIO DE 2018
@@ -9,8 +8,10 @@
 
 ### _~~Obriga as operadoras de serviços de telefonia fixa e móvel, bem como as operadoras de televisão por assinatura, a divulgarem e manterem estabelecimento físico em cada cidade na qual prestarem serviços no Estado, para atendimento presencial ao consumidor~~_
 
-~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:~~<br>
-~~Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8°, da Constituição do Estado, a seguinte lei:~~<br>
+~~O PRESIDENTE DA ASSEMBLEIA LEGISLATIVA:~~
+
+~~Faço saber que a Assembleia Legislativa decreta e eu promulgo, nos termos do artigo 28, § 8°, da Constituição do Estado, a seguinte lei:~~
+
 ~~Artigo 1° - Ficam obrigadas as operadoras de serviços de telefonia fixa e móvel, bem como as operadoras de televisão por assinatura, a divulgarem e manterem estabelecimento físico em cada cidade na qual prestarem serviços no Estado, para atendimento presencial ao consumidor.~~
 
 ~~**§ 1° -** O atendimento presencial permite o encaminhamento de qualquer espécie de solicitação a respeito dos serviços em oferta ou promoção.~~

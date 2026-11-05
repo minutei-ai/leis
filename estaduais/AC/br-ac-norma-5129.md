@@ -1,6 +1,10 @@
 > **LEI Nº 3.920, DE 01 DE ABRIL DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Cria a carreira típica de Estado da gestão governamental e altera a Lei nº 2.266, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores ocupantes do cargo de gestor de políticas públicas da administração direta e indireta do Estado do Acre.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Cria a carreira típica de Estado da gestão governamental e altera a Lei nº 2.266, de 31 de março de 2010, que estabelece nova estrutura de carreira para os servidores ocupantes do cargo de gestor de políticas públicas da administração direta e indireta do Estado do Acre.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

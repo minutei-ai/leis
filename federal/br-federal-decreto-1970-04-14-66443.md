@@ -1,5 +1,3 @@
-###DEC-066443-0-000-14-04-1970@@@
-
 DECRETO Nº 66.443, de 14 de abril de 1970.
 
 Autoriza o funcionamento da Faculdade de Filosofia, Ciências e Letras de Patos de Minas, no Estado de Minas Gerais.

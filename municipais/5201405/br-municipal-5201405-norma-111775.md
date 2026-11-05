@@ -504,7 +504,8 @@ Art. 31. O Município é representado nas Comissões Intergestores Bipartite - C
 
 CAPÍTULO V
 
-DOS BENEFÍCIOS EVENTUAIS, DOS SERVIÇOS, DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL<br>
+DOS BENEFÍCIOS EVENTUAIS, DOS SERVIÇOS, DOS PROGRAMAS DE ASSISTÊNCIA SOCIAL
+
 E DOS PROJETOS DE ENFRENTAMENTO DA POBREZA.
 
 Seção I
@@ -721,16 +722,20 @@ VIII – outras receitas que venham a ser legalmente instituídas.
 
 § 3º As contas recebedoras dos recursos do cofinanciamento federal das ações socioassistenciais serão abertas pelo Fundo Nacional de Assistência Social.
 
-Art. 57-A Ficam desvinculados do Fundo Municipal de Assistência Social - FMAS 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B Ato do das Disposições Constitucionais Transitórias.<br>
+Art. 57-A Ficam desvinculados do Fundo Municipal de Assistência Social - FMAS 50% (cinquenta por cento), até 31 de dezembro de 2026, e 30% (trinta por cento), no período de 1º de janeiro de 2027 a 31 de dezembro de 2032, das receitas relativas a impostos, contribuições, taxas e multas, já instituídos ou que vierem a ser criados até a referida data, seus adicionais e respectivos acréscimos legais, e outras receitas correntes, por força do disposto no art. 76-B Ato do das Disposições Constitucionais Transitórias.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.<br>
+§ 1º Os recursos desvinculados na forma do _caput_ deste artigo serão transferidos ao Tesouro Municipal, ressalvadas as transferências obrigatórias e voluntárias entre entes da Federação com destinação específica em lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.<br>
+§ 2º A cada exercício financeiro, até a data de que trata o _caput_ deste artigo, poderão ser utilizados, exclusivamente para o financiamento de políticas públicas locais de saúde, educação e adaptação às mudanças climáticas, os _superávits_ financeiros, verificados no exercício financeiro imediatamente anterior, do fundo público de que trata esta Lei.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
-Art. 57-B. O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.<br>
+Art. 57-B. O saldo financeiro apurado ao final de cada exercício, não comprometido com o pagamento de restos a pagar e com as despesas liquidadas e não pagas no exercício corrente, relativamente ao Fundo de que trata esta Lei, será automaticamente transferido à conta do Tesouro Municipal como Recurso Ordinário do Tesouro, observadas as disposições constitucionais.
+
 (Redação acrescentada pela Lei nº 3.870, de 28 de novembro de 2025)
 
 Art. 58. O FMAS será gerido pela Secretaria Municipal de Assistência Social, sob orientação e fiscalização do Conselho Municipal de Assistência Social.
@@ -761,13 +766,14 @@ Art. 62. Revogam-se as disposições em contrário. (LEIS 1521/1996; LEI 1523/1
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA DE GOIÂNIA – GO, 06 de Abril de 2020.
 
-GUSTAVO MENDANHA<br>
-Prefeito Municipal<br>
-<br>
-<br>
-FÁBIO PASSAGLIA<br>
+GUSTAVO MENDANHA
+
+Prefeito Municipal
+
+FÁBIO PASSAGLIA
+
 Chefe da Casa Civil
 
-<br>
-MAYARA FERREIRA MARFIM MENDANHA<br>
+MAYARA FERREIRA MARFIM MENDANHA
+
 Secretária Municipal de Assistência Social

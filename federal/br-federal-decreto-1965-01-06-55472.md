@@ -1,5 +1,3 @@
-###DEC-055472-0-000-06-01-1965@@@
-
 DECRETO Nº 55.472, DE 6 DE JANEIRO DE 1965.
 
 Suprime cargo extinto.

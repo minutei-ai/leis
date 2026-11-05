@@ -1,5 +1,3 @@
-###DEL-002978-0-000-23-01-1941@@@
-
 DECRETO-LEI N. 2.978 – DE 23 DE JANEIRO DE 1941
 
 Dispõe sobre o exercício dos Procuradores Regionais e dos Procuradores Adjuntos das Procuradorias Regionais, de que trata o parágrafo único do art. 29 do regulamento aprovado pelo Decreto nº 6.596, de 12 de dezembro de 1940, e dá outras providências.

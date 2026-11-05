@@ -1,5 +1,3 @@
-###DEL-004677-0-000-10-09-1942@@@
-
 DECRETO-LEI N. 4.677 – DE 10 DE SETEMBRO DE 1942
 
 Autoriza o Tesouro Nacional a garantir operação de crédito no Banco do Brasil, e dá outras providências

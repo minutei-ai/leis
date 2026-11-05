@@ -1,5 +1,3 @@
-###DEC-044912-0-000-28-11-1958@@@
-
 DECRETO Nº 44.912, DE 28 DE NOVEMBRO DE 1958.
 
 Altera o Regulamento do Quadro dos Cursos do Ensino Industrial, aprovado pelo Decreto nº 8.673, de 3 de fevereiro de 1942, e dá outras providências.

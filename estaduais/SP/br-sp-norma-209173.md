@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209173)<br>
-
 # LEI N° 17.865, DE 09 DE MARÇO DE 2024
 
 ## (Projeto de lei n° 90/2021, do Deputado Murilo Felix – PODE)

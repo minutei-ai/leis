@@ -1,5 +1,3 @@
-###DEC-005116-0-000-24-06-2004@@@
-
 DECRETO Nº 5.116, DE 24 DE JUNHO DE 2004
 
 Regulamenta o inciso VIII do art. 7º do Decreto-Lei nº 2.320, de 26 de janeiro de 1987, que dispõe sobre o ingresso nas categorias funcionais da Carreira Policial Federal e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-053062-0-000-03-12-1963@@@
-
 DECRETO Nº 53.062, DE 3 DE DEZEMBRO DE 1963.
 
 Retifica relação que acompanhou o Decreto nº 51.650, de 7 de janeiro de 1963, que aprovou o enquadramento dos cargos e funções da Estrada de Ferro São Luiz - Teresina e deu outras providências.

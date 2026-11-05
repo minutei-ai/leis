@@ -1,5 +1,3 @@
-###DEL-006657-0-000-04-07-1944@@@
-
 DECRETO-LEI N. 6.657 – DE 4 DE JULHO DE 1944
 
 Reorganiza o Departamento Nacional de Indústria e Comércio do Ministério do TrabaIho, Indústria e Comércio e dá outras providências
@@ -96,6 +94,78 @@ Alexandre Marcondes Filho.
 
 Paulo Lira.
 
-<table cellspacing="0" cellpadding="0" style="margin-left:13.95pt; margin-bottom:0pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:56.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Número</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>De cargos</span></p></td><td style="width:74.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Carreira ou cargo</span></p></td><td style="width:74.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Classe ou padrão</span></p></td><td style="width:74.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Excedentes</span></p></td><td style="width:74.45pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Vagos</span></p></td><td style="width:57.05pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Provisórios</span></p></td></tr><tr><td style="width:56.75pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5</span></p><p class="Tabela" style="text-indent:0pt"><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">6</span><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span>Economista</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>..........................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>..........................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>..........................</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>..........................</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>..........................</span></p></td><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>N</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>M</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>L</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>K</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>J</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>___</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>___</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>___</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>___</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>___</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:74.45pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>2</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>3</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>4</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span>5</span></p><p class="Tabela" style="text-indent:0pt"><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">6</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>20</span></p></td><td style="width:57.05pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="text-decoration:underline; -aw-import:spaces">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span style="text-decoration:underline">14</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>14</span></p></td></tr></tbody></table>
+Número
+
+De cargos
+
+Carreira ou cargo
+
+Classe ou padrão
+
+Excedentes
+
+Vagos
+
+Provisórios
+
+2
+
+3
+
+4
+
+5
+
+         6
+
+20
+
+Economista
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+..........................
+
+N
+
+M
+
+L
+
+K
+
+J
+
+___
+
+___
+
+___
+
+___
+
+___
+
+2
+
+3
+
+4
+
+5
+
+            6
+
+20
+
+14
+
+14
 
 Observações – Os cargos provisórios serão suprimidos à medida que forem sendo promovidos os seus ocupantes.

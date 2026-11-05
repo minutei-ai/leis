@@ -1,5 +1,3 @@
-###DEC-081700-0-000-22-05-1978@@@
-
 Decreto nº 81 700, de 22 de maio de 1978
 
 Declara revogado o decreto que outorgou à RÁDIO DIFUSORA DE RORAIMA concessão para instalar, na cidade de Boa Vista, Território Federal de Roraima, estação de radiodifusão sonora em onda tropical.

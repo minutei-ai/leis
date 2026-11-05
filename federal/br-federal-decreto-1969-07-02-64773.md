@@ -1,5 +1,3 @@
-###DEC-064773-0-000-02-07-1969@@@
-
 DECRETO Nº 64.773 - DE 2 DE JULHO DE 1969.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

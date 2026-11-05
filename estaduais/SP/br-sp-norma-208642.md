@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208642)<br>
-
 # LEI N° 17.796, DE 06 DE OUTUBRO DE 2023
 
 ## (Projeto de lei n° 557/2022, do Deputado Paulo Correa Jr - PSD)

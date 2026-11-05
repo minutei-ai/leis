@@ -1,5 +1,3 @@
-###DEC-007896-0-000-01-02-2013-PUB-01@@@
-
 DECRETO Nº\- 7.896, DE 1º\- DE FEVEREIRO DE 2013
 
 Dispõe sobre a inclusão no Programa Nacional de Desestatização - PND do Aeroporto Internacional do Rio de Janeiro/Galeão \- Antonio Carlos Jobim, localizado no Município do Rio de Janeiro, Estado do Rio de Janeiro, e do Aeroporto Internacional Tancredo Neves, localizado nos Municípios de Confins e de Lagoa Santa, Estado de Minas Gerais, e dá outras providências.

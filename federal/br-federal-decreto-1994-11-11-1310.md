@@ -1,7 +1,3 @@
-1
-
-###DEC-001310-0-000-11-11-1994@@@
-
 DECRETO Nº 1.310, DE 11 DE NOVEMBRO DE 1994
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 1.085, de 14 de março de 1994.

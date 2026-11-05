@@ -1,5 +1,3 @@
-###DEC-071005-0-000-22-08-1972@@@
-
 DECRETO Nº 71.005, De 22 DE AGOSTO DE 1972.
 
 Declara de utilidade pública, para fins de desapropriação, áreas iniciais ou aproveitamentos progressivo da energia hidráulicas, denominado Sobradinho, no rio São Francisco, no Estado da Bahia.

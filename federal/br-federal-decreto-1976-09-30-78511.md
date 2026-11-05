@@ -1,5 +1,3 @@
-###DEC-078511-0-000-30-09-1976@@@
-
 DECRETO Nº 78.511, DE 30 DE SETEMBRO DE 1976.
 
 Autoriza o registro, em nome da União Federal, do terreno que menciona, situado na Cidade de Manaus, Estado do Amazonas.

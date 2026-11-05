@@ -1,5 +1,3 @@
-###DEL-008160-0-000-03-11-1945@@@
-
 DECRETO-LEI N. 8.160 – DE 3 DE NOVEMBRO DE 1945
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 15.000.000,00 para ocorrer a despesas com obras e instalações do Polígono da Marambaia

@@ -1,5 +1,3 @@
-###DEC-081681-0-000-18-05-1978@@@
-
 Decreto n.° 81.681, de 18 de maio de 1978
 
 Confisca bens pertencentes a SILVIO LEMOS, brasileiro, casado, funcionário público estadual, residente em Curitiba, Paraná, e dá outras providências.

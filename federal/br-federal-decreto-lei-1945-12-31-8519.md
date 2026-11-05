@@ -1,5 +1,3 @@
-###DEL-008519-0-000-31-12-1945@@@
-
 DECRETO-LEI N. 8.519 – DE 31 DE DEZEMBRO DE 1945
 
 Abre ao Ministério da Viação e Obras Públicas o crédito especial de Cr$ 25.000.000,00, para auxílio à Estrada de Ferro Central do Brasil.

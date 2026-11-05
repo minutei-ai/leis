@@ -1,5 +1,3 @@
-###DEC-052796-0-000-31-10-1963@@@
-
 DECRETO Nº 52.796, DE 31 DE OUTUBRO DE 1963.
 
 Cria funções gratificadas no Quadro de Pessoal do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-077253-0-000-27-02-1976@@@
-
 DECRETO Nº 77.253, DE 27 de FEVEREIRO DE 1976
 
 Autoriza o funcionamento da habilitação em Comércio Exterior, no curso de Administração, do Instituto de Ciências Sociais São Judas Tadeu, com sede na cidade de São Paulo, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-006811-0-000-21-08-1944@@@
-
 DECRETO-LEI N. 6.811 – DE 21 DE AGÔSTO DE 1944
 
 Abre, ao Ministério da Educação e Saúde, o crédito suplementar que especifica

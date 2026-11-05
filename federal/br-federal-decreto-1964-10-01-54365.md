@@ -1,5 +1,3 @@
-###DEC-054365-0-000-01-10-1964@@@
-
 DECRETO Nº 54.365, DE 1º DE OUTUBRO DE 1964.
 
 Constitui Grupo de Trabalho para examinar a viabilidade técnica econômica e financeira de uma fábrica de cimento em Barbalha, Ceará, bem como promover a sua concretização.

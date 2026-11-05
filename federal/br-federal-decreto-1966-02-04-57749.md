@@ -1,5 +1,3 @@
-###DEC-057749-0-000-04-02-1966@@@
-
 DECRETO Nº 57.749, DE 4 DE FEVEREIRO DE 1966.
 
 Concede reconhecimento ao Curso de Biblioteconomia e Documentação da Universidade Federal do Paraná.

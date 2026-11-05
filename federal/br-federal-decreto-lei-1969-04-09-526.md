@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/30b46f54-e57f-4290-83f3-f19e71e5c214/texto#nowhere)
 
-###DEL-000526-0-000-09-04-1969@@@
-
 DECRETO-LEI Nº 526, DE 9 DE ABRIL DE 1969
 
 Dispõe sôbre o término do prazo de prestação de contas do BNDE.

@@ -1,5 +1,3 @@
-###DEC-046095-0-000-19-05-1959@@@
-
 DECRETO Nº 46.095, de 19 de maio de 1959.
 
 Autoriza à Luz e Fôrça Santo Amaro Limitada a instalar um grupo termoelétrico no Distrito de Santo Amaro da Imperatriz, Município de Palhoça, Estado de Santa Catarina.

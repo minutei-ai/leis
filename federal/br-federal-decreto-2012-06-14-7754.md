@@ -1,5 +1,3 @@
-###DEC-007754-0-000-14-06-2012-PUB-01@@@
-
 DECRETO N° 7.754, DE 14 DE JUNHO DE 2012
 
 Dispõe sobre a execução, no território nacional da Resolução 2036 (2012), de 22 de  fevereiro de 2012, adotada pelo Conselho de Segurança das Nações Unidas que, entre outras disposições, requer que os Estados adotem as medidas necessárias a impedir a importação de carvão vegetal da Somália.

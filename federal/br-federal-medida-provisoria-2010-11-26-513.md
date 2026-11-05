@@ -1,5 +1,3 @@
-###MPV-000513-0-000-26-11-2010-PUB-01@@@
-
 MEDIDA PROVISÓRIA No 513, DE 26 DE NOVEMBRO DE 2010
 
 Autoriza o Fundo de Compensação de Variações Salariais - FCVS a assumir, na forma disciplinada em ato do Conselho Curador do Fundo de Compensação de Variações Salariais - CCFCVS, direitos e obrigações do Seguro Habitacional do Sistema Financeiro da Habitação - SH/SFH, oferecer cobertura direta a contratos de financiamento habitacional averbados na Apólice do SH/SFH, autoriza o Departamento Nacional de Infraestrutura de Transporte - DNIT a utilizar recursos federais em apoio à transferência definitiva do domínio da malha rodoviária federal para os Estados, acresce o Porto do Pólo Industrial de Manaus no item 4.2 da Relação Descritiva dos Portos Marítimos, Fluviais e Lacustres, integrante do Anexo do Plano Nacional de Viação, aprovado pela Lei nº 5.917, de 10 de setembro de 1973, e dá outras providências.
@@ -90,7 +88,21 @@ Art. 8º O item 4.2 - Relação Descritiva dos Portos Marítimos, Fluviais e Lac
 
 "4.2. Relação Descritiva dos Portos Marítimos, Fluviais e Lacustres do Plano Nacional de Viação
 
-<table cellspacing="0" cellpadding="0" style="margin-left:77.62pt; border:0.75pt solid #000000; border-collapse:collapse"><tbody><tr><td style="width:42.6pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Nº </span><span style="font-family:Arial; font-size:0.55em; -aw-import:spaces">&nbsp;</span><span style="font-family:Arial">de Ordem</span></p></td><td style="width:163.1pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Denominação</span></p></td><td style="width:21.35pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">UF</span></p></td><td style="width:63.85pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Localização</span></p></td></tr><tr><td style="width:42.6pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">218</span></p></td><td style="width:163.1pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Porto do Pólo Industrial de Manaus</span></p></td><td style="width:21.35pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">AM</span></p></td><td style="width:63.85pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; padding-right:3.12pt; padding-left:3.12pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Rio Negro</span></p></td></tr></tbody></table>
+Nº  de Ordem
+
+Denominação
+
+UF
+
+Localização
+
+218
+
+Porto do Pólo Industrial de Manaus
+
+AM
+
+Rio Negro
 
  " (NR)
 

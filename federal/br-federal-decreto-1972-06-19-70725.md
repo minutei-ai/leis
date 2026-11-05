@@ -1,5 +1,3 @@
-###DEC-070725-0-000-19-06-1972@@@
-
 DECRETO Nº 70.725, DE 19 DE JUNHO DE 1972.
 
 Cria o Centro de Operações Cartográficas.

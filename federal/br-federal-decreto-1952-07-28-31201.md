@@ -1,14 +1,12 @@
-###DEC-031201-0-000-28-07-1952@@@
+**DECRETO Nº 31.201, DE 28 DE JULHO DE 1952.**
 
-<strong>DECRETO Nº 31.201, DE 28 DE JULHO DE 1952.</strong>
+***Altera o valor das multas estabelecidas no Regulamento para as Capitanias de Portos, aprovado e mandado executar pelo Decreto nº 5.798, de 11 de junho de 1940.***
 
-<em><strong>Altera o valor das multas estabelecidas no Regulamento para as Capitanias de Portos, aprovado e mandado executar pelo Decreto nº 5.798, de 11 de junho de 1940.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º As multas estipuladas no Regulamento paras as Carpintarias de Portos, aprovado e mandado executar pelo Decreto nº 5.798, de 11 de junho de 1940, passam a vigorar com os seguintes valores correspondentes às infrações de que tratam os artigos abaixo especificados:
+**Art**. 1º As multas estipuladas no Regulamento paras as Carpintarias de Portos, aprovado e mandado executar pelo Decreto nº 5.798, de 11 de junho de 1940, passam a vigorar com os seguintes valores correspondentes às infrações de que tratam os artigos abaixo especificados:
 
 Art. 79 - De Cr$50,00 a Cr$500,00.
 
@@ -152,7 +150,7 @@ Art. 464 - Cr$1.000,00; § 2º - Cr$200,00.
 
 Art. 468, parágrafo único - Cr$500,00.
 
-Art. 471, alínea <em>c</em> - Cr$200,00.
+Art. 471, alínea *c* - Cr$200,00.
 
 Art. 472, § 6º  \- Cr$200,00.
 
@@ -160,10 +158,10 @@ Art. 485 - Cr$1.000,00.
 
 Art. 641 - Cr$500,00.
 
-<strong>Art</strong>. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 28 de julho de 1952; 131º da Independência e 64º da República.
 
-<strong>GETÚLIO VARGAS</strong>
+**GETÚLIO VARGAS**
 
 Renato de Almeida Guillobel

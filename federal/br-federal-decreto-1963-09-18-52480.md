@@ -1,5 +1,3 @@
-###DEC-052480-0-000-18-09-1963@@@
-
 DECRETO Nº 52.480, DE 18 DE SETEMBRO DE 1963.
 
 Declara de interêsse social para fins de desapropriação as terras situadas em Campo Grande, Estado da Guanabara, com a denominação de “Fazenda da Pedra” e “Fazenda Santa Clara”, e dá outras providências.

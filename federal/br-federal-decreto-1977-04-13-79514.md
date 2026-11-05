@@ -1,5 +1,3 @@
-###DEC-079514-0-000-13-04-1977@@@
-
 DECRETO Nº 79.514, DE 13 DE ABRIL DE 1977.
 
 Concede à Cianita Ltda. o direito de lavrar minério de manganês no Município de Santana do Riacho, Estado de Minas Gerais.

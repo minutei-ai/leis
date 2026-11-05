@@ -1,5 +1,3 @@
-###DEL-008010-0-000-29-09-1945@@@
-
 DECRETO-LEI N. 8.010 – DE 29 DE SETEMBRO DE 1945
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 7.319.000,00 à verba que especifica

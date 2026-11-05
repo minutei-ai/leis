@@ -1,5 +1,3 @@
-###DEC-044982-0-000-02-12-1958@@@
-
 DECRETO Nº 44.982, DE 2 DE DEZEMBRO DE 1958.
 
 Autoriza o cidadão brasileiro Luiz Carvalho de Araújo a lavrar calcário e associados no Município de Inhapim, Estado de Minas Gerais.

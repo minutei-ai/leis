@@ -1,5 +1,3 @@
-###DEL-001174-0-000-11-06-1971@@@
-
 # DECRETO-LEI Nº 1.174, DE 11 DE JUNHO DE 1971
 
 Estende ao Programa de Construção Naval - 1971-1975 os incentivos fiscais que menciona, e dá outras providências.

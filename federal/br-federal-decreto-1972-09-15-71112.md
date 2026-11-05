@@ -1,5 +1,3 @@
-###DEC-071112-0-000-15-09-1972@@@
-
 DECRETO Nº 71.112, DE 15 DE SETEMBRO DE 1972.
 
 Inclui a prova de alfabetização entre os requisitos essenciais à matricula de trabalhadores em serviço de estiva e conexos.
@@ -19,8 +17,6 @@ Emílio G. Médici
 Mário David Adreazza
 
 Júlio Barata
-
-###DEC-071112-0-000-15-09-1972@@@
 
 DECRETO Nº 71.112, DE 15 DE SETEMBRO DE 1972.
 

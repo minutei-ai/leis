@@ -1,5 +1,3 @@
-###DEC-079143-0-000-18-01-1977@@@
-
 DECRETO Nº 79.143, DE 18 DE JANEIRO DE 1977.
 
 Autoriza a transformação dos cursos de Ciências e de Matemática, da Faculdade de Filosofia, Ciências e Letras "Ministro Tarso Dutra", com sede na cidade de Dracena, Estado de São Paulo.

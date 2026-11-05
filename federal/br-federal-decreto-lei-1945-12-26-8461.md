@@ -1,5 +1,3 @@
-###DEL-008461-0-000-26-12-1945@@@
-
 DECRETO-LEI N. 8.461 – DE 26 DE DEZEMBRO DE 1945
 
 Dá nova redação ao Decreto-lei número 7.473, de 18 de abril de 1945, que dispõe sôbre a criação do Instituto Rio Branco.

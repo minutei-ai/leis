@@ -20,7 +20,8 @@ Goiânia, 7 de janeiro de 2026; 138º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado
 
 ANEXO ÚNICO

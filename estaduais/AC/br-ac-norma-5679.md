@@ -1,6 +1,10 @@
 > **LEI Nº 4.138, DE 24 DE JULHO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Isenta o Imposto sobre a Propriedade de Veículos Automotores - IPVA, nas condições que específica.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Isenta o Imposto sobre a Propriedade de Veículos Automotores - IPVA, nas condições que específica.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

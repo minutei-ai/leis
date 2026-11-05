@@ -1,5 +1,3 @@
-###DEC-053802-0-000-23-03-1964@@@
-
 DECRETO Nº 53.802, DE 23 DE MARÇO DE 1964.
 
 Institui o “Prêmio de Produtividade”, a ser concedido aos produtores rurais pela Comissão de Financiamento da Produção.

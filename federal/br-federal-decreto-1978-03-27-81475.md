@@ -1,5 +1,3 @@
-###DEC-081475-0-000-27-03-1978@@@
-
 Decreto nº 81.475, de 27 de março de 1978.
 
 Declara perempta a concessão outorgada à Rádio Brejuí Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Currais Novos, Estado do Rio Grande do Norte.

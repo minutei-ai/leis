@@ -1,5 +1,3 @@
-###DEC-093901-0-000-09-01-1987@@@
-
 # DECRETO Nº 93.901, DE 09 DE JANEIRO DE 1987
 
 Dispõe sobre o estabelecimento de medidas e procedimentos, relativos ao racionamento de energia elétrica.

@@ -1,5 +1,3 @@
-###DEC-059856-0-000-23-12-1966@@@
-
 DECRETO Nº 59.856, DE 23 DE DEZEMBRO DE 1966.
 
 Renova o decreto nº 1.673, de 26 de novembro de 1962.

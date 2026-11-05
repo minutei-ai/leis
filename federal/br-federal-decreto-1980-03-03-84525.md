@@ -1,5 +1,3 @@
-###DEC-084525-0-000-03-03-1980@@@
-
 decreto nº 84.525, de 03 de março de 1980
 
 Cargos Privativos de Oficial-General do Exército em tempo de paz.

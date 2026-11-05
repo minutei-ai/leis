@@ -1,5 +1,3 @@
-###DEC-088352-0-000-03-06-1983@@@
-
 DECRETO Nº 88.352, DE 3 DE JUNHO DE 1983.
 
 Altera dispositivos do Decreto nº 71.534, de 12 de dezembro de 1972, que dispõe sobre a estrutura, funcionamento e competência do Ministério das Relações Exteriores.

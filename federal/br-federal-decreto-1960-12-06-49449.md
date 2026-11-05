@@ -1,5 +1,3 @@
-###DEC-049449-0-000-06-12-1960@@@
-
 DECRETO Nº 49.449, DE 6 DE DEZEMBRO DE 1960.
 
 Autoriza o cidadão brasileiro Deusdedith de Barros Lima a pesquisar mica no município de Galiléia, Estado de Minas Gerais.

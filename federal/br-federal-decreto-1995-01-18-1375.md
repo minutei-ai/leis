@@ -1,7 +1,3 @@
-1
-
-###DEC-001375-0-000-18-01-1995@@@
-
 DECRETO N° 1.375, DE 18 DE JANEIRO DE 1995
 
 Altera dispositivos do Decreto n° 99.188, de 17 de março de 1990.

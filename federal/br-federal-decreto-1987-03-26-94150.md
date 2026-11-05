@@ -1,5 +1,3 @@
-###DEC-094150-0-000-26-03-1987@@@
-
 DECRETO Nº 94.150, DE 26 DE MARÇO DE 1987.
 
 Autoriza o Banco da Amazônia S.A. - BASA a elevar o seu capital social.

@@ -1,5 +1,3 @@
-###DEL-004165-0-000-10-03-1942@@@
-
 DECRETO-LEI N. 4.165 – DE 10 DE MARÇO DE 1942
 
 Revigora, no presente ano, o decreto-lei n. 3.143, de 25 de março de 1941

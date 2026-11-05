@@ -1,5 +1,3 @@
-###DEC-096408-0-000-22-07-1988@@@
-
 DECRETO N° 96.408, DE 22 DE JULHO DE 1988
 
 Outorga concessão À RÁDIO A VOZ DE ITAPAGÉ LTDA. para explorar serviço de radiodifusão sonora em onda média, na Cidade de Itapagé, Estado do Ceará.

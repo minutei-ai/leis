@@ -1,5 +1,3 @@
-###DEC-000192-0-000-20-08-1991@@@
-
 DECRETO Nº 192, DE 20 DE AGOSTO DE 1991
 
 Regulamenta a Lei nº 8.199, de 28 de junho de 1991, que concede isenção do Imposto sobre Produtos Industrializados na aquisição de automóveis para utilização no transporte individual de passageiros (táxi).

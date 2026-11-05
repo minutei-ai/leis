@@ -1,7 +1,3 @@
-1
-
-###DEC-099668-0-000-06-11-1990@@@
-
 DECRETO N° 99.668, DE 6 DE NOVEMBRO DE 1990
 
 Concede a AEROFLOT - LINHAS AÉREAS  SOVIÉTICAS autorização para instalar uma sucursal para venda de transporte aéreo no Brasil, na Cidade do Rio de Janeiro.

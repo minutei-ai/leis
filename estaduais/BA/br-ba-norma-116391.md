@@ -1,12 +1,19 @@
 LEI Nº 3.650 DE 19 DE MAIO DE 1978
 
-Ver também:<br>
-[Lei nº 10.214, de 26 de junho de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10214-de-26-de-junho-de-2006#LO_10_214) \- Altera a estrutura organizacional e de cargos em comissão do Departamento Estadual de Trânsito - DETRAN e dá outras providências.[<br>
-Decreto nº 9.492 de 15 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9492-de-15-de-julho-de-2005#DEC_9_492) \- Homologa a Resolução nº 001/2005, do Conselho de Administração do Departamento Estadual de Trânsito - DETRAN.[<br>
-Lei nº 9.436, de 23 de março de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9436-de-23-de-marco-de-2005#LO_9_436) \- Modifica a vinculação estrutural do Departamento Estadual de Trânsito - DETRAN e dá outras providências.<br>
-[Decreto nº 7.624, de 25 de junho de 1999](https://www.legislabahia.ba.gov.br/documentos/decreto-no-7624-de-25-de-junho-de-1999#DEC_7_624) \- Aprova o Regimento do Departamento Estadual de Trânsito - DETRAN.<br>
-[Decreto nº 3.650, de 04 de novembro de 1994](https://www.legislabahia.ba.gov.br/documentos/decreto-no-3650-de-04-de-novembro-de-1994#DEC_3_650) \- Cria a 5ª Região de Trânsito, no Município de São Félix do Coribe. Altera a composição da 17ª CIRETRAN e dá outras providências.[<br>
-Decreto nº 1.847, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/decreto-no-1847-de-23-de-dezembro-de-1992#DEC_1_847) \- Aprova a Resolução nº 012/92, de 21 de dezembro de 1992, do Conselho de Administração do Departamento Estadual de Trânsito - DETRAN.<br>
+Ver também:
+
+[Lei nº 10.214, de 26 de junho de 2006](https://www.legislabahia.ba.gov.br/documentos/lei-no-10214-de-26-de-junho-de-2006#LO_10_214) \- Altera a estrutura organizacional e de cargos em comissão do Departamento Estadual de Trânsito - DETRAN e dá outras providências.[
+
+Decreto nº 9.492 de 15 de julho de 2005](https://www.legislabahia.ba.gov.br/documentos/decreto-no-9492-de-15-de-julho-de-2005#DEC_9_492) \- Homologa a Resolução nº 001/2005, do Conselho de Administração do Departamento Estadual de Trânsito - DETRAN.[
+
+Lei nº 9.436, de 23 de março de 2005](https://www.legislabahia.ba.gov.br/documentos/lei-no-9436-de-23-de-marco-de-2005#LO_9_436) \- Modifica a vinculação estrutural do Departamento Estadual de Trânsito - DETRAN e dá outras providências.
+
+[Decreto nº 7.624, de 25 de junho de 1999](https://www.legislabahia.ba.gov.br/documentos/decreto-no-7624-de-25-de-junho-de-1999#DEC_7_624) \- Aprova o Regimento do Departamento Estadual de Trânsito - DETRAN.
+
+[Decreto nº 3.650, de 04 de novembro de 1994](https://www.legislabahia.ba.gov.br/documentos/decreto-no-3650-de-04-de-novembro-de-1994#DEC_3_650) \- Cria a 5ª Região de Trânsito, no Município de São Félix do Coribe. Altera a composição da 17ª CIRETRAN e dá outras providências.[
+
+Decreto nº 1.847, de 23 de dezembro de 1992](https://www.legislabahia.ba.gov.br/documentos/decreto-no-1847-de-23-de-dezembro-de-1992#DEC_1_847) \- Aprova a Resolução nº 012/92, de 21 de dezembro de 1992, do Conselho de Administração do Departamento Estadual de Trânsito - DETRAN.
+
 [Lei nº 6.417, de 31 de agosto de 1992](https://www.legislabahia.ba.gov.br/documentos/lei-no-6417-de-31-de-agosto-de-1992#LO_6_417) \- Reorganiza o Departamento Estadual de Trânsito - DETRAN e dá outras providências.
 
 Transforma o Departamento Estadual de Trânsito em autarquia e dá outras providências.

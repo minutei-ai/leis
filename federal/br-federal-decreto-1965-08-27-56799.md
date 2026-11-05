@@ -1,5 +1,3 @@
-###DEC-056799-0-000-27-08-1965@@@
-
 DECRETO Nº 56.799, DE 27 DE AGÔSTO DE 1965.
 
 Cria a Junta Interministerial de Contrôle da Implantação do Cadastro e do Impôsto Territorial Rural, previstos no Estatuto da Terra.

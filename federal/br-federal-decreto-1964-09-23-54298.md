@@ -1,5 +1,3 @@
-###DEC-054298-0-000-23-09-1964@@@
-
 DECRETO Nº 54.298, DE 23 DE SETEMBRO DE 1964.
 
 Fixa coeficientes de aceleração de depreciação para as indústrias que enumera.

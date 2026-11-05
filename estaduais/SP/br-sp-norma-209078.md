@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209078)<br>
-
 # DECRETO N° 68.307, DE 16 DE JANEIRO DE 2024
 
 ### _Altera o artigo 27 do Decreto n° 54.645, de 5 de agosto de 2009, que regulamenta dispositivos da Lei n° 12.300, de 16 de março de 2006, que institui a Política Estadual de Resíduos Sólidos._

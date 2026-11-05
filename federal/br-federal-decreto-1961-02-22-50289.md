@@ -1,5 +1,3 @@
-###DEC-050289-0-000-22-02-1961@@@
-
 Decreto nº 50.289, de 22 de fevereiro de 1961.
 
 Altera o Decreto nº 34.596, de 16 de novembro de 1953.

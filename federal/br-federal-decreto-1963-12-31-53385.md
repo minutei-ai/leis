@@ -1,5 +1,3 @@
-###DEC-053385-0-000-31-12-1963@@@
-
 DECRETO Nº 53.385, DE 31 DE DEZEMBRO DE 1963.
 
 Aprova o regulamento para subvenção das linhas aéreas internacionais operadas por emprêsas brasileiras.
@@ -130,23 +128,77 @@ Art. 21. No exercício de 1963 a subvenção global às linhas internacionais n�
 
 Art. 22. Tendo em vista que a dotação orçamentária para 1964 não obedeceu ao critério estabelecido no Art. 2º dêste Regulamento no referido exercício de 1964, o valor da subvenção por quilometro voado a ser paga às emprêsas que operam linhas aéreas internacionais será calculado na base de uma parte fixa e de uma parte ponderada, que obedecerá aos índices adiante enumerados:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Pontos</span></p></td></tr></tbody></table>
+Pontos
 
 a) Grau de interêsse público:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas para países sul-americanos centro-americanos e México...................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas para a América do Norte e Europa.......................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas ou trechos de linhas para o Oriente Próximo, Oriente Médio Extremo Oriente ou África..........................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:bottom"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,5</span></p></td></tr></tbody></table>
+linhas para países sul-americanos centro-americanos e México...................................
+
+5
+
+linhas para a América do Norte e Europa.......................................................................
+
+3,5
+
+linhas ou trechos de linhas para o Oriente Próximo, Oriente Médio Extremo Oriente ou África..........................................................................................................................
+
+1,5
 
 b) Tipo de Aeronave:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas operadas com Boing-707 DC-8, Convair 990 ......................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Caravelle e Electra..........................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Linhas operadas com L-1049 e DC-7C..........................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Linhas operadas com Convair 340-440..........................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Linhas operadas com DC-3, C-46 e PBY.......................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>0,5</span></p></td></tr></tbody></table>
+linhas operadas com Boing-707 DC-8, Convair 990 ......................................................
+
+5
+
+Caravelle e Electra..........................................................................................................
+
+3
+
+Linhas operadas com L-1049 e DC-7C..........................................................................
+
+1,5
+
+Linhas operadas com Convair 340-440..........................................................................
+
+1
+
+Linhas operadas com DC-3, C-46 e PBY.......................................................................
+
+0,5
 
 c) Rentabilidade da linha:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas que tenham acusado no ano anterior receita inferior a 50% da despesa............</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas que tenham acusado no ano anterior receita compreendida entre 50% e 75% da despesa.....................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas que tenham acusado no ano anterior receita compreendida entre 75% a 100% da despesa.....................................................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1,5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Às linhas cuja receita no ano anterior tenha superado, a despesa não será atribuído pêso algum nesta chave </span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr></tbody></table>
+linhas que tenham acusado no ano anterior receita inferior a 50% da despesa............
+
+5
+
+linhas que tenham acusado no ano anterior receita compreendida entre 50% e 75% da despesa.....................................................................................................................
+
+3,5
+
+linhas que tenham acusado no ano anterior receita compreendida entre 75% a 100% da despesa.....................................................................................................................
+
+1,5
+
+Às linhas cuja receita no ano anterior tenha superado, a despesa não será atribuído pêso algum nesta chave
 
 d) Número de frequências:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas com 1 freqüência semanal...................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas com 2 freqüência semanais................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>3,5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas com 3 ou 4 freqüência semanais........................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>2,5</span></p></td></tr><tr><td style="width:379.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>linhas com 5 ou mais freqüências...................................................................................</span></p></td><td style="width:45.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>1</span></p></td></tr></tbody></table>
+linhas com 1 freqüência semanal...................................................................................
+
+5
+
+linhas com 2 freqüência semanais................................................................................
+
+3,5
+
+linhas com 3 ou 4 freqüência semanais........................................................................
+
+2,5
+
+linhas com 5 ou mais freqüências...................................................................................
+
+1
 
 Brasília, DF., em 31 de dezembro de 1963.
 
@@ -155,8 +207,6 @@ Major-Brigadeiro-do-Ar
 Anysio Botelho
 
 Ministro da Aeronáutica
-
-###DEC-053385-0-000-31-12-1963@@@RET01+++
 
 Decreto nº 53.385, de 31 de dezembro de 1963.
 

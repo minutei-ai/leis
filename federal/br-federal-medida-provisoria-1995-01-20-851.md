@@ -1,5 +1,3 @@
-###MPV-000851-0-000-20-01-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 851, DE 20 DE JANEIRO DE 1995
 
 Dispõe  sobre o Plano Real, o Sistema Monetário Nacional, estabelece as regras e condições de emissão do Real e os critérios para conversão das obrigações para o Real, e dá outras providências.

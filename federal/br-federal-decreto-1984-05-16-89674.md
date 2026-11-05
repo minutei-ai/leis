@@ -1,5 +1,3 @@
-###DEC-089674-0-000-16-05-1984@@@
-
 Decreto nº 89.674, de 16 de maio de 1984
 
 Autoriza o funcionamento do curso de Fisioterapia da Faculdade de Ciências da Saúde e Sociais, Estado do Rio de Janeiro.

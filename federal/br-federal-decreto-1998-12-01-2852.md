@@ -1,5 +1,3 @@
-###DEC-002852-0-000-01-12-1998@@@
-
 DECRETO Nº 2.852, DE 1º DE DEZEMBRO DE 1998.
 
 Altera o Programa de Dispêndios Globais - PDG de diversas empresas estatais federais para 1998, aprovado pelo Decreto nº 2.453, de 6 de janeiro de 1998.

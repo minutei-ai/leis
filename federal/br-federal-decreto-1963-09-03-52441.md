@@ -1,5 +1,3 @@
-###DEC-052441-0-000-03-09-1963@@@
-
 DECRETO Nº 52.441, DE 3 DE SETEMBRO 1963.
 
 Aprova o Regimento do Serviço de Informação Agrícola do Ministério da Agricultura.
@@ -389,8 +387,6 @@ Art. 19. Os Chefes de Seção, Agência e Turma, Administradores, Assessor, Secr
 Brasília, 3 de setembro de 1963.
 
 Oswaldo Lima Filho
-
-###DEC-052441-0-000-03-09-1963@@@RET01+++
 
 DECRETO Nº 52.441, DE 3 DE SETEMBRO DE 1963.
 

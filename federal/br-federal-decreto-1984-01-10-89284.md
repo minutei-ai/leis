@@ -1,5 +1,3 @@
-###DEC-089284-0-000-10-01-1984@@@
-
 Decreto nº 89.284, de 10 de janeiro de 1984.
 
 Cria o Fundo de Assistência Habitacional - FUNDHAB - e dá outras providências.

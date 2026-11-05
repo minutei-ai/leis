@@ -1,5 +1,3 @@
-###DEC-056445-0-000-09-06-1965@@@
-
 DECRETO Nº 56.445, DE 9 DE JUNHO DE 1965.
 
 Concede à Guardian Assurance Company Limited autorização para aumentar o capital destinado as suas operações de seguros no Brasil.

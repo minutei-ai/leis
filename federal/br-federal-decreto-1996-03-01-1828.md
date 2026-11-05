@@ -1,5 +1,3 @@
-###DEC-001828-0-000-01-03-1996@@@
-
 DECRETO N° 1.828, DE 1º DE MARÇO DE 1996.
 
 Remaneja cargos em comissão e funções gratificadas e dá outras providências.

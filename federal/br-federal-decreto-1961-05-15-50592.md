@@ -1,5 +1,3 @@
-###DEC-050592-0-000-15-05-1961@@@
-
 DECRETO Nº 50.592, DE 15 DE MAIO DE 1961.
 
 Altera o Decreto nº 47.732, de 5 de dezembro de 1959.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/208913)<br>
-
 # DECRETO N° 68.165, DE 09 DE DEZEMBRO DE 2023
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rota das Bandeiras S/A, as áreas complementares necessárias à implantação das vias marginais norte e sul, no trecho entre os km 114+000m e 121+120m da Rodovia Professor Zeferino Vaz, SP-332, nos Municípios de Paulínia e Campinas, e dá providências correlatas._

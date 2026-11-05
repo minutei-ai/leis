@@ -1,5 +1,3 @@
-###DEC-083356-0-000-23-04-1979@@@
-
 Decreto nº 83.356, de 23 de abril de 1979.
 
 Concede autorização à FÁBRICA DE RENDAS ARP S/A, para funcionar aos domingos e feriados civis e religiosos, nos setores que menciona, do seu estabelecimento industrial situado à Av. Conselheiro Julius Arp, 80 Nova Friburgo - Rio de Janeiro.

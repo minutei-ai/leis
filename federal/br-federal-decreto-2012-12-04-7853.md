@@ -1,5 +1,3 @@
-###DEC-007853-0-000-04-12-2012-PUB-01@@@
-
 DECRETO Nº  7.853, DE 4 DE DEZEMBRO DE 2012
 
 Altera o Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

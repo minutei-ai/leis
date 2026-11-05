@@ -1,5 +1,3 @@
-###DEC-052656-0-000-10-10-1963@@@
-
 DECRETO Nº 52.656, DE 10 DE OUTUBRO DE 1963.
 
 Autoriza a Emprêsa Mina da Bôa Vista S. A., a comprar pedras preciosas.

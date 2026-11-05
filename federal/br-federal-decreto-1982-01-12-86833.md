@@ -1,5 +1,3 @@
-###DEC-086833-0-000-12-01-1982@@@
-
 DECRETO Nº 86.833, DE 12 DE JANEIRO DE 1982
 
 Dispõe sobre a revogação de Decretos que aprovam Regulamentos de Órgãos do Ministério da Aeronáutica.

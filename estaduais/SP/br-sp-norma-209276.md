@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209276)<br>
-
 # DECRETO N° 68.435, DE 04 DE ABRIL DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Concessionária Rodovias do Tietê S/A, a área complementar necessária à implantação de dispositivo de acesso e retorno no km 25+800m da Rodovia SP-101, no Município de Monte Mor, e dá providências correlatas._

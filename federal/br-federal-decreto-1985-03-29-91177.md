@@ -1,5 +1,3 @@
-###DEC-091177-0-000-29-03-1985@@@
-
 Decreto nº 91.177, de 29 de março de 1985.
 
 Institui Comissão Nacional visando à reformulação da educação superior e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085534-0-000-16-12-1980@@@
-
 DECRETO Nº 85.534, de 16 de dezembro de 1980.
 
 Cria o 34º Batalhão de Infantaria Motorizado no Ministério do Exército e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-085914-0-000-15-04-1981@@@
-
 Decreto nº 85.914, de 15 de abril de 1981.
 
 Altera a composição do Conselho Nacional do Cinema (CONCINE) e dá outras providências.

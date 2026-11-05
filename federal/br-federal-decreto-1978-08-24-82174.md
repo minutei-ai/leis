@@ -1,5 +1,3 @@
-###DEC-082174-0-000-24-08-1978@@@
-
 Decreto nº 82.174, de 24 de agosto de 1978.
 
 Cria a Comissão Permanente dos Serviços de Saúde da Marinha, Exército e Aeronáutica (CPSSMEA), a que se refere o artigo 15, item I, do Decreto nº 79.031, de 23 de dezembro de 1976, e dá outras providências.

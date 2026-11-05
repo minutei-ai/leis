@@ -1,5 +1,3 @@
-###DEC-049119-0-000-15-10-1960@@@
-
 DECRETO Nº 49.119, DE 15 DE OUTUBRO DE 1960.
 
 Transfere função da Tabela Única de Mensalistas do Ministério da Justiça e Negócios Interiores para idêntica Tabela do Ministério da Fazenda.

@@ -1,5 +1,3 @@
-###DEC-070371-0-000-06-04-1972@@@
-
 DECRETO Nº 70.371, DE 6 DE ABRIL DE 1972.
 
 Declara de utilidade pública o Colégio Cristo Rei, também chamado Educandário Cristo Rei, com sede em Patos, Estado da Paraíba.

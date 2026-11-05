@@ -1,5 +1,3 @@
-###DEC-090198-0-000-17-09-1984@@@
-
 Decreto nº 90.198, de 17 de setembro de 1984
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor de Petróleo Brasileiro - PETROBRÁS, imóveis constituídos de terras e benfeitorias, de propriedade particular que menciona.

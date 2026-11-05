@@ -1,5 +1,3 @@
-###DEC-066727-0-000-16-06-1970@@@
-
 DECRETO Nº 66.727, DE 16 DE JUNHO DE 1970.
 
 Retifica o § 5º do artigo 6º do Decreto nº 66.522, de 30 de abril de 1970.

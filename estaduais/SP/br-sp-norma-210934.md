@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210934)<br>
-
 # DECRETO N° 69.533, DE 13 DE MAIO DE 2025
 
 ### _Inclui dispositivo no Decreto n° 64.418, de 28 de agosto de 2019, que dispõe sobre os processos de dissolução, liquidação, extinção, transformação, fusão, incorporação ou cisão de empresas controladas direta ou indiretamente pelo Estado._

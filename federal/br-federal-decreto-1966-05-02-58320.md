@@ -1,5 +1,3 @@
-###DEC-058320-0-000-02-05-1966@@@
-
 decreto nº 58.320, de 2 de maio de 1966.
 
 Declara caduco o Decreto nº 8.620, de 28 de janeiro de 1942.

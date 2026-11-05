@@ -1,5 +1,3 @@
-###DEL-006981-0-000-24-10-1944@@@
-
 DECRETO-LEI N. 6.981 – DE 24 DE OUTUBRO DE 1944
 
 Abre ao Ministério da Educação e Saúde o crédito suplementar de Cr$ 150.000,00 à verba que especifica

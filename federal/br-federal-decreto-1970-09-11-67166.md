@@ -1,5 +1,3 @@
-###DEC-067166-0-000-11-09-1970@@@
-
 DECRETO Nº 67.166, DE 11 DE SETEMBRO DE 1970.
 
 Declara caduco o Decreto nº 12.802, de 7 de julho de 1943.

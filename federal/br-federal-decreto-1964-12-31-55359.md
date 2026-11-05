@@ -1,5 +1,3 @@
-###DEC-055359-0-000-31-12-1964@@@
-
 Decreto nº 55.359, de 31 de dezembro de 1964.
 
 Transfere da Prefeitura Municipal de Estrêla para a Companhia Estadual de Energia Elétrica a concessão para produzir e distribuir energia elétrica.

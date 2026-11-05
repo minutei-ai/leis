@@ -1,5 +1,3 @@
-###DEL-005404-0-000-13-04-1943@@@
-
 DECRETO‑LEI N. 5.404 – DE  13 DE ABRIL DE 1943
 
 Modifica o decreto‑lei n. 5.162, de 31 de dezembro de 1942

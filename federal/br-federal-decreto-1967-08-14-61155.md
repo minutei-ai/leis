@@ -1,5 +1,3 @@
-###DEC-061155-0-000-14-08-1967@@@
-
 DECRETO Nº 61.155, DE 14 DE AGÔSTO DE 1967.
 
 Declara de utilidade pública a “Cáritas Brasileira” com sede no Estado da Guanabara.

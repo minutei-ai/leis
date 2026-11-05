@@ -1,5 +1,3 @@
-###DEC-067052-0-000-13-08-1970@@@
-
 DECRETO Nº 67.052, DE 13 DE AGôSTO DE 1970.
 
 Institui o Fundo de Eletrificação Rural - FUER, e dá outras providências.

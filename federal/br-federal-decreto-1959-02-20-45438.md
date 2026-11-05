@@ -1,5 +1,3 @@
-###DEC-045438-0-000-20-02-1959@@@
-
 Decreto nº 45.438, de 20 de fevereiro de 1959.
 
 Concede o abono provisório aos servidores do Conselho Federal de Contabilidade.

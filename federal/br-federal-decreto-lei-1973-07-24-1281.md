@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/f5b5b70f-1640-4124-8d68-376534ec228a/texto#nowhere)
 
-###DEL-001281-0-000-24-07-1973@@@
-
 # DEcRETO-LEI Nº 1.281, De 24 DE JULHO DE 1973
 
 Altera a redação do parágrafo 1º, do artigo 7º, da Lei nº 4.357, de 16 de julho de 1964, e dá outras providências.

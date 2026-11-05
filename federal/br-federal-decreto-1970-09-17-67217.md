@@ -1,5 +1,3 @@
-###DEC-067217-0-000-17-09-1970@@@
-
 DECRETO Nº 67.217, DE 17 DE SETEMBRO DE 1970.
 
 Prorroga autorização concedida à firma brasileira Indústria e Comércio de Areia Ltda., para operar com draga de propriedade estrangeira, na extração de areia na Região de Foz de Iguaçu.

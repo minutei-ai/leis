@@ -1,5 +1,3 @@
-###DEC-057526-0-000-28-12-1965@@@
-
 DECRETO Nº 57.526, DE 28 DE DEZEMBRO DE 1965.
 
 Concede autorização para funcionar como emprêsa de energia elétrica

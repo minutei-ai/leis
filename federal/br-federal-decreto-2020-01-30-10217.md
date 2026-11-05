@@ -108,4 +108,4 @@ Brasília, 30 de janeiro de 2020; 199º da Independência e 132º da República.
 
 JAIR MESSIAS BOLSONARO
 
-Paulo Guedes<br>
+Paulo Guedes

@@ -1,5 +1,3 @@
-###DEC-055428-0-000-31-12-1964@@@
-
 DECRETO Nº 55.428, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro João Bosco de Carvalho a lavrar mica, no município de Santa Maria do Suassuí, Estado de Minas Gerais.

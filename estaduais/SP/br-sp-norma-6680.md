@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/6680)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1998/compilacao-lei.complementar-846-04.06.1998.html)
 
 # LEI COMPLEMENTAR N° 846, DE 04 DE JUNHO DE 1998
@@ -9,10 +8,12 @@
 
 O GOVERNADOR DO ESTADO DE SÃO PAULO: Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
 
-#### **CAPÍTULO I** <br>
+#### **CAPÍTULO I** 
+
 **Das Organizações Sociais**
 
-#### **Seção I** <br>
+#### **Seção I** 
+
 **Da Qualificação** 
 
 ~~Artigo 1° - O Poder Executivo poderá qualificar como organizações sociais pessoas jurídicas de direito privado, sem fins lucrativos, cujas atividades sejam dirigidas à saúde e à cultura, atendidos os requisitos previstos nesta lei complementar.~~ 
@@ -61,33 +62,56 @@ _\- Parágrafo único com redação dada pela [Lei Complementar n° 1.243, de 30
 
 **Parágrafo único** \- Somente serão qualificadas como organização social, as entidades que, efetivamente, comprovarem possuir serviços próprios de assistência a saúde, há mais de 5 (cinco) anos.
 
-#### **Seção II**<br>
+#### **Seção II**
+
 **Do Conselho de Administração** 
 
-**Artigo 3°** \- O Conselho de Administração deve estar estruturado nos termos do respectivo estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes critérios básicos:<br>
-**I** \- ser composto por:<br>
-**a)** até 55 % (cinquenta e cinco por cento) no caso de associação civil, de membros eleitos dentre os membros ou os associados;<br>
-**b)** 35% (trinta e cinco por cento) de membros eleitos pelos demais integrantes do Conselho, dentre pessoas de notória capacidade profissional e reconhecida idoneidade moral;<br>
-**c)** 10% (dez por cento) de membros eleitos pelos empregados da entidade;<br>
-**II** \- os membros eleitos ou indicados para compor o Conselho que não poderão ser parentes consanguíneos ou afins ate o 3° grau do Governador, Vice-Governador e Secretários de Estado, terão mandato de quatro anos, admitida uma recondução;<br>
-**III** \- o primeiro mandato de metade dos membros eleitos ou indicados deve ser de dois anos, segundo critérios estabelecidos no estatuto;<br>
-**IV** \- o dirigente máximo da entidade deve participar das reuniões do Conselho, sem direito a voto;<br>
-**V** \- o Conselho deve reunir-se ordinariamente, no mínimo, três vezes a cada ano, e extraordinariamente, a qualquer tempo;<br>
-**VI** \- os conselheiros não receberão remuneração pelos serviços que, nesta condição, prestarem à organização social, ressalvada a ajuda de custo por reunião da qual participem; e<br>
-**VII** \- os conselheiros eleitos ou indicados para integrar a Diretoria da entidade devem renunciar ao assumirem às correspondentes funções executivas.<br>
-**Artigo 4°** \- Para os fins de atendimento dos requisitos de qualificação, devem ser incluídas entre as atribuições privativas do Conselho de Administração:<br>
-**I** \- aprovar a proposta de contrato de gestão da entidade;<br>
-**II** \- aprovar a proposta de orçamento da entidade e o programa de investimentos;<br>
-**III** \- designar e dispensar os membros da Diretoria;<br>
-**IV** \- fixar a remuneração dos membros da Diretoria;<br>
-**V** \- aprovar os estatutos, bem como suas alterações e a extinção da entidade por maioria, no mínimo, de 2/3 (dois terços) de seus membros;<br>
-**VI** \- aprovar o regimento interno da entidade, que deve dispor, no mínimo, sobre a estrutura, o gerenciamento, os cargos e as competências;<br>
-**VII** \- aprovar por maioria, no mínimo, de 2/3 (dois terços) de seus membros, o regulamento próprio contendo os procedimentos que deve adotar para a contratação de obras e serviços, bem como para compras e alienações, e o plano de cargos, salários e benefícios dos empregados da entidade;<br>
-**VIII** \- aprovar e encaminhar, ao órgão supervisor da execução do contrato de gestão, os relatórios gerenciais e de atividades da entidade, elaborados pela Diretoria; e<br>
-**IX** \- fiscalizar o cumprimento das diretrizes e metas definidas e aprovar os demonstrativos financeiros e contábeis e as contas anuais da entidade, com o auxílio de auditoria externa.<br>
+**Artigo 3°** \- O Conselho de Administração deve estar estruturado nos termos do respectivo estatuto, observados, para os fins de atendimento dos requisitos de qualificação, os seguintes critérios básicos:
+
+**I** \- ser composto por:
+
+**a)** até 55 % (cinquenta e cinco por cento) no caso de associação civil, de membros eleitos dentre os membros ou os associados;
+
+**b)** 35% (trinta e cinco por cento) de membros eleitos pelos demais integrantes do Conselho, dentre pessoas de notória capacidade profissional e reconhecida idoneidade moral;
+
+**c)** 10% (dez por cento) de membros eleitos pelos empregados da entidade;
+
+**II** \- os membros eleitos ou indicados para compor o Conselho que não poderão ser parentes consanguíneos ou afins ate o 3° grau do Governador, Vice-Governador e Secretários de Estado, terão mandato de quatro anos, admitida uma recondução;
+
+**III** \- o primeiro mandato de metade dos membros eleitos ou indicados deve ser de dois anos, segundo critérios estabelecidos no estatuto;
+
+**IV** \- o dirigente máximo da entidade deve participar das reuniões do Conselho, sem direito a voto;
+
+**V** \- o Conselho deve reunir-se ordinariamente, no mínimo, três vezes a cada ano, e extraordinariamente, a qualquer tempo;
+
+**VI** \- os conselheiros não receberão remuneração pelos serviços que, nesta condição, prestarem à organização social, ressalvada a ajuda de custo por reunião da qual participem; e
+
+**VII** \- os conselheiros eleitos ou indicados para integrar a Diretoria da entidade devem renunciar ao assumirem às correspondentes funções executivas.
+
+**Artigo 4°** \- Para os fins de atendimento dos requisitos de qualificação, devem ser incluídas entre as atribuições privativas do Conselho de Administração:
+
+**I** \- aprovar a proposta de contrato de gestão da entidade;
+
+**II** \- aprovar a proposta de orçamento da entidade e o programa de investimentos;
+
+**III** \- designar e dispensar os membros da Diretoria;
+
+**IV** \- fixar a remuneração dos membros da Diretoria;
+
+**V** \- aprovar os estatutos, bem como suas alterações e a extinção da entidade por maioria, no mínimo, de 2/3 (dois terços) de seus membros;
+
+**VI** \- aprovar o regimento interno da entidade, que deve dispor, no mínimo, sobre a estrutura, o gerenciamento, os cargos e as competências;
+
+**VII** \- aprovar por maioria, no mínimo, de 2/3 (dois terços) de seus membros, o regulamento próprio contendo os procedimentos que deve adotar para a contratação de obras e serviços, bem como para compras e alienações, e o plano de cargos, salários e benefícios dos empregados da entidade;
+
+**VIII** \- aprovar e encaminhar, ao órgão supervisor da execução do contrato de gestão, os relatórios gerenciais e de atividades da entidade, elaborados pela Diretoria; e
+
+**IX** \- fiscalizar o cumprimento das diretrizes e metas definidas e aprovar os demonstrativos financeiros e contábeis e as contas anuais da entidade, com o auxílio de auditoria externa.
+
 **Artigo 5°** \- Aos conselheiros, administradores e dirigentes das organizações sociais da saúde é vedado exercer cargo de chefia ou função de confiança no Sistema Único de Saúde - SUS.
 
-#### **Seção III** <br>
+#### **Seção III** 
+
 **Do Contrato de Gestão** 
 
 ~~Artigo 6° - Para os efeitos desta lei complementar, entende-se por contrato de gestão o instrumento firmado entre o Poder Público e a entidade qualificada como organização social, com vistas à formação de uma parceria entre as partes para fomento e execução de atividades relativas à área da saúde ou da cultura.~~ 
@@ -206,7 +230,8 @@ _\- Item 2 acrescentado pela [Lei Complementar n° 1.243, de 30/05/2014](https:/
 
 _\- § 4° acrescentado pela [Lei Complementar n° 1.131, de 27/12/2010](https://www.al.sp.gov.br/norma/160709)._
 
-#### **Seção IV** <br>
+#### **Seção IV** 
+
 **Da Execução e Fiscalização do Contrato de Gestão** 
 
 ~~Artigo 9° - A execução do contrato de gestão celebrado por organização social será fiscalizada pelo Secretário de Estado da Saúde ou pela Secretaria de Estado da Cultura, nas áreas correspondentes.~~ 
@@ -231,7 +256,8 @@ _\- "Caput" com redação dada pela [Lei Complementar n° 1.243, de 30/05/2014](
 
 **Artigo 12** \- O balanço e demais prestações de contas da organização social devem, necessariamente , ser publicados no Diário Oficial do Estado e analisados pelo Tribunal de Contas do Estado de São Paulo.
 
-#### **Seção V** <br>
+#### **Seção V** 
+
 **Do Fomento ás Atividades Sociais** 
 
 **Artigo 13** \- As entidades qualificadas como organizações sociais ficam declaradas como entidades de interesse social e utilidade pública para todos os efeitos legais.
@@ -274,16 +300,18 @@ _\- § 4° acrescentado pela_ [](https://www.al.sp.gov.br/norma/208993)_[Lei Com
 
 **Artigo 17** \- São extensíveis, no âmbito do Estado, os efeitos dos artigos 13 e 14, § 3°, para as entidades qualificadas como organizações sociais pela União, pelos Estados, Distrito Federal e Municípios, quando houver reciprocidade e desde que a legislação local não contrarie as normas gerais emanadas da União sobre a matéria, os preceitos desta lei complementar, bem como os da legislação específica de âmbito estadual.
 
-#### **Seção VI** <br>
+#### **Seção VI** 
+
 **Da Desqualificação** 
 
 **Artigo 18** \- O Poder Executivo poderá proceder à desqualificação da entidade como organização social quando verificado o descumprimento das disposições contidas no contrato de gestão. 
 
 **§ 1° -** A desqualificação será precedida de processo administrativo, assegurado o direito de ampla defesa, respondendo os dirigentes da organização social, individual e solidariamente, pelos danos ou prejuízos decorrentes de sua ação ou omissão. 
 
-**§ 2°** **\-** A desqualificação importará reversão dos bens permitidos e do saldo remanescente dos recursos financeiros entregues á utilização da organização social, sem prejuízo das sanções contratuais penais e civis aplicáveis a espécie.
+**§ 2°\-** A desqualificação importará reversão dos bens permitidos e do saldo remanescente dos recursos financeiros entregues á utilização da organização social, sem prejuízo das sanções contratuais penais e civis aplicáveis a espécie.
 
-**CAPÍTULO II** <br>
+**CAPÍTULO II** 
+
 **Das Disposições Finais e Transitórias** 
 
 **Artigo 19** \- A organização social fará publicar na imprensa e no Diário Oficial do Estado, no prazo máximo de 90 (noventa) dias contados da assinatura do contrato de gestão, regulamento próprio contendo os procedimentos que adotará para a contratação de obras e serviços, bem como para compras com emprego de recursos provenientes do Poder Público.
@@ -292,7 +320,8 @@ _\- § 4° acrescentado pela_ [](https://www.al.sp.gov.br/norma/208993)_[Lei Com
 
 **Artigo 21** \- Nas hipóteses de a entidade pleiteante da habilitação como organização social existir há mais de 5 (cinco) anos, contados da data da publicação desta lei complementar, fica estipulado o prazo de 2 (dois) anos para adaptação das normas do respectivo estatuto ao disposto no artigo 3.°, incisos de I a V.
 
-**Artigo 22** \- Fica acrescido parágrafo ao artigo 20 da [Lei Complementar n.° 791, de 9 de março de 1995](https://www.al.sp.gov.br/norma/11613), do seguinte teor:<br>
+**Artigo 22** \- Fica acrescido parágrafo ao artigo 20 da [Lei Complementar n.° 791, de 9 de março de 1995](https://www.al.sp.gov.br/norma/11613), do seguinte teor:
+
 "§ 7° - A habilitação de entidade como organização social e à decorrente relação de parceria com o Poder Público, para fomento e execução de atividades relativas à área da saúde, nos termos da legislação estadual pertinente, não se aplica o disposto no § 5° deste artigo."
 
 **Artigo 23** \- Os requisitos específicos de qualificação das organizações sociais da área de cultura serão estabelecidos em decreto do Poder Executivo, a ser editado no prazo de 60 (sessenta) dias a contar da publicação desta lei complementar.

@@ -1,5 +1,3 @@
-###DEL-003976-0-000-26-12-1941@@@
-
 DECRETO-LEI N. 3.976 – DE 26 DE DEZEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saude, o crédito especial de réis 2:000$0, para liquidação de despesas efetuadas com a Delegação de Estudantes da Baía.

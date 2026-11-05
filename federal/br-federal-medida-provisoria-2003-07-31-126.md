@@ -1,5 +1,3 @@
-###MPV-000126-0-000-31-07-2003@@@
-
 MEDIDA PROVISÓRIA Nº 126, DE 31 DE JULHO 2003.
 
 Dispõe sobre a assunção, pela União, de responsabilidades civis perante terceiros no caso de atentados terroristas, atos de guerra ou eventos correlatos, contra aeronaves de matrícula brasileira operadas por empresas brasileiras de transporte aéreo público, excluídas as empresas de táxi aéreo.       
@@ -42,6 +40,8 @@ Parágrafo único.  A receita a que se refere o caput deste artigo poderá se
 
         Brasília, 31 de julho de 2003; 182º da Independência e 115º da República.
 
-LUIZ INÁCIO LULA DA SILVA<br>
-Antonio Palocci Filho<br>
+LUIZ INÁCIO LULA DA SILVA
+
+Antonio Palocci Filho
+
 Francisco Roberto de Albuquerque

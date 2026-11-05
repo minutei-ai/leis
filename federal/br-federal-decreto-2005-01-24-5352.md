@@ -1,5 +1,3 @@
-###DEC-005352-0-000-24-01-2005@@@
-
 DECRETO Nº 5.352 DE 24 DE JANEIRO DE 2005
 
 Institui o Serviço Social Autônomo Agência Brasileira de Desenvolvimento Industrial \- ABDI e dá outras providências.

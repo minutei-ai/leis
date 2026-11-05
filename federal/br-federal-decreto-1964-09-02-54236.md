@@ -1,5 +1,3 @@
-###DEC-054236-0-000-02-09-1964@@@
-
 DECRETO Nº 54.236, DE 2 DE SETEMBRO DE 1964.
 
 Restabelece a transferência, da Parte Suplementar para a Parte Permanente da Tabela Única de Extranumerário-mensalista do Ministério da Aeronáutica, das funções que menciona.

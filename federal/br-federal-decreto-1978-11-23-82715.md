@@ -1,5 +1,3 @@
-###DEC-082715-0-000-23-11-1978@@@
-
 Decreto nº 82.715, de 23 de novemBrO de 1978.
 
 Autoriza o registro, em nome da União Federal, dos Imóveis que menciona, situados no Território Federal do Amapá.

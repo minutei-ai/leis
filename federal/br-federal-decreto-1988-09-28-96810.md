@@ -1,5 +1,3 @@
-###DEC-096810-0-000-28-09-1988@@@
-
 DECRETO N° 96.810, DE 28 DE SETEMBRO DE 1988
 
 Outorga concessão ao SISTEMA ARAÇA DE COMUNICAÇÕES LTDA., para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Araçatuba, Estado de São Paulo.

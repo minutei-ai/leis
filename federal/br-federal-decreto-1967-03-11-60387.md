@@ -1,5 +1,3 @@
-###DEC-060387-0-000-11-03-1967@@@
-
 DECRETO Nº 60.387, DE 11 DE MARÇO DE 1967.
 
 Autoriza o cidadão brasileiro Marcos Antônio Monteiro de Barros a lavrar argila no município de Santa Rita de Passa Quatro, Estado de São Paulo.

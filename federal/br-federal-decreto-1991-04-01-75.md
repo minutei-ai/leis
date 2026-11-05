@@ -1,5 +1,3 @@
-###DEC-000075-0-000-01-04-1991@@@
-
 DECRETO Nº 75, DE 1º DE ABRIL DE 1991.
 
 Altera o Decreto nº 99.266, de 28 de maio de 1990, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-078037-0-000-12-07-1976@@@
-
 DECRETO Nº 78.037, DE 12 DE JULHO DE 1976.
 
 Concede à Empresa de Águas Minerais Soledade Ltda., o direito de lavrar água mineral no Município de Itaperuna, Estado do Rio de janeiro.

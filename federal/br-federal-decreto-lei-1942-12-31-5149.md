@@ -1,5 +1,3 @@
-###DEL-005149-0-000-31-12-1942@@@
-
 DECRETO-LEI N. 5.149 – DE 31 DE DEZEMBRO DE 1942
 
 Dispõe sobre o pagamento do selo em operações do Banco de Crédito da Borracha S/A.

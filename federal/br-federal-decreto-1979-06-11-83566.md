@@ -1,5 +1,3 @@
-###DEC-083566-0-000-11-06-1979@@@
-
 Decreto nº 83.566, de 11 de junho de 1979.
 
 Concede reconhecimento à habilitação em Física do Curso de Ciências, da Faculdade Estadual de Filosofia, Ciências e Letras de Cornélio Procópio, em Cornélio Procópio, Paraná.

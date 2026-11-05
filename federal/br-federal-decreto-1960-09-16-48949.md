@@ -1,5 +1,3 @@
-###DEC-048949-0-000-16-09-1960@@@
-
 Decreto nº 48.949, de 16 de setembro de 1960.
 
 Abre, pelo Ministério da Marinha, o crédito especial de Cr$85.000.000,00 para pagamento de despesas de qualquer natureza com a instalação e início do funcionamento do Instituto de Pesquisas da Marinha.

@@ -1,5 +1,3 @@
-###DEC-071943-0-000-20-03-1973@@@
-
 DECRETO Nº 71.943, DE 20 DE MARÇO DE 1973.
 
 Dispõe sobre a anulação do enquadramento de servidor do Instituto de previdência e Assistência dos Servidores do Estado, e dá outras providências.

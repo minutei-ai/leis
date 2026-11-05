@@ -1,5 +1,3 @@
-###DEC-050882-0-000-29-06-1961@@@
-
 DECRETO Nº 50.882, DE 29 DE JUNHO DE 1961.
 
 Altera dispositivo do Regimento da Comissão do Vale do São Francisco, aprovado pelo Decreto número 29.807, de 25 de julho de 1951.

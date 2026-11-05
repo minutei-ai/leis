@@ -1,18 +1,16 @@
-###DEC-038608-0-000-18-01-1956@@@
-
 <!-- reproducao-incompleta:inicio -->
 
 > **Reprodução incompleta — nota editorial do acervo:** a peça acompanhante (modelo-grafico) mencionada neste ato ainda não foi recuperada. O texto oficial disponível abaixo não representa o ato integral com todas as suas peças. A recuperação permanece no [backlog](../PENDENCIAS.md). Este aviso não faz parte do texto legal.
 
 <!-- reproducao-incompleta:fim -->
 
-<strong>DECRETO Nº 38.608, DE 18 DE JANEIRO DE 1956.</strong>
+**DECRETO Nº 38.608, DE 18 DE JANEIRO DE 1956.**
 
-<em><strong>Cria o Estandarte-Distintivo para Batalhão de Guardas.</strong></em>
+***Cria o Estandarte-Distintivo para Batalhão de Guardas.***
 
-<strong>O VICE-PRESIDENTE DO SENADO FEDERAL</strong>, no exercício de cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o Art<strong>.</strong>  87, inciso I, da Constituição Federal,
+**O VICE-PRESIDENTE DO SENADO FEDERAL**, no exercício de cargo de PRESIDENTE DA REPÚBLICA, usando da atribuição que lhe confere o Art**.**  87, inciso I, da Constituição Federal,
 
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. Fica criado o Estandarte-Distintivo para o Batalhão de Guardas de acôrdo com o modêlo que acompanha êste decreto, com as seguintes características:
 
@@ -38,6 +36,6 @@ Artigo único. Fica criado o Estandarte-Distintivo para o Batalhão de Guardas d
 
 Rio de Janeiro, 18 de janeiro de 1956; 135 º da Independência e 68º da República.
 
-<strong>NEREU RAMOS</strong>
+**NEREU RAMOS**
 
 Henrique Lott.

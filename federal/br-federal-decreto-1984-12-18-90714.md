@@ -1,5 +1,3 @@
-###DEC-090714-0-000-18-12-1984@@@
-
 # Decreto nº 90.714, de 18 de dezembro de 1984
 
 Dispõe sobre o limite do Capital Autorizado da Nuclebrás Enriquecimento Isotópico S.A. - NUCLEI.

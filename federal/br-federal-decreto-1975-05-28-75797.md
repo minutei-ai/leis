@@ -1,5 +1,3 @@
-###DEC-075797-0-000-28-05-1975@@@
-
 DECRETO Nº 75.797, DE 28 DE MAIO DE 1975.
 
 Autoriza a transferência, para o patrimônio do Instituto Nacional de Colonização e Reforma Agrária - INCRA, da área confiscada de Brasil-Reflorestamento e Celulose Ltda. - CELUBRÁS, pelo Decreto número 68.471, de 5 de abril de 1971.

@@ -1,5 +1,3 @@
-###DEL-009100-0-000-27-03-1946@@@
-
 DECRETO-LEI N. 9.100 – DE 27 DE MARÇO DE 1946
 
 Lei de organização do Ministério da Guerra.

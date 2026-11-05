@@ -1,5 +1,3 @@
-###DEC-085231-0-000-06-10-1980@@@
-
 Decreto nº 85.231, de 06 de outubro de 1980.
 
 Altera dispositivos do Decreto nº 72.021, de 28 de março de 1973, que discrimina os órgãos cujos cargos, funções ou atividades, desempenhadas nas condições da Lei de Retribuição no Exterior, se consideram permanentes.

@@ -1,5 +1,3 @@
-###DEC-083983-0-000-18-09-1979@@@
-
 DECRETO Nº 83.983, de 18 de setembro de 1979.
 
 Dá nova redação a dispositivo do Decreto nº 77.919, de 25 de junho de 1976, que regulamenta a Lei nº 6.265, de 19 de novembro de 1975 - Lei do Ensino do Exército.

@@ -1,5 +1,3 @@
-###MPV-002103-0-040-26-04-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.103- 40, DE 26 DE ABRIL DE 2001
 
 Dispõe sobre operações financeiras entre o Tesouro Nacional e as entidades que menciona, e dá outras providências.

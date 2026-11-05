@@ -1,7 +1,3 @@
-1
-
-###MPV-001515-0-000-15-08-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.515, DE 15 DE AGOSTO DE 1996.
 
 Altera o limite de dedução de que trata o § 2º do art. 1º da Lei nº 8.685, de 20 de julho de 1993, que cria mecanismos de fomento à atividade audiovisual, e dá outras providências.

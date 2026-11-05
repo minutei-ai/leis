@@ -1,5 +1,3 @@
-###DEC-088591-0-000-02-08-1983@@@
-
 Decreto nº 88.591, de 02 de agosto de 1983
 
 Autoriza o funcionamento do curso de Fonoaudiologia da Sociedade de Ensino Superior do Rio de Janeiro.

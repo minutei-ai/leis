@@ -1,5 +1,3 @@
-###DEC-007946-0-000-07-03-2013-PUB-01@@@
-
 DECRETO N° 7.946, DE 7 DE MARÇO DE 2013
 
 Dispõe sobre os efetivos do pessoal militar do Exército, em serviço ativo, para 2013.

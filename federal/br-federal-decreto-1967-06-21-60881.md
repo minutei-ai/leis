@@ -1,5 +1,3 @@
-###DEC-060881-0-000-21-06-1967@@@
-
 decreto nº 60.881, de 21 de junho de 1967.
 
 Extingue o Comando Militar de Brasília.

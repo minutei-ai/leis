@@ -1,5 +1,3 @@
-###DEC-095243-0-000-16-11-1987@@@
-
 DECRETO N° 95.243, DE 16 DE NOVEMBRO DE 1987
 
 Dá nova redação ao artigo 1° do Decreto n° 95.001, de 5 de outubro de 1987.

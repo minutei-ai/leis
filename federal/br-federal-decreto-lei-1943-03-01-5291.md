@@ -1,5 +1,3 @@
-###DEL-005291-0-000-01-03-1943@@@
-
 DECRETO‑LEI N. 5.291 – DE 1 DE MARÇO DE 1943
 
 Prorroga o prazo do recolhimento compulsório para aquisição das Obrigações de Guerra pelos segurados dos Institutos e Caixas de Aposentadoria e Pensões, e dá outras providências

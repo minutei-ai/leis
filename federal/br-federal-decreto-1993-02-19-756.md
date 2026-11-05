@@ -1,7 +1,3 @@
-1
-
-###DEC-000756-0-000-19-02-1993@@@
-
 DECRETO N° 756, DE 19 DE FEVEREIRO DE 1993
 
 Regulamenta o art. 6° da Lei n° 8.624, de 4 de fevereiro de 1993, estabelece condições de dedutibilidade do imposto sobre a renda, e dá outras providências.

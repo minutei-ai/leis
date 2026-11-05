@@ -1,5 +1,3 @@
-###DEL-001359-0-000-19-11-1974@@@
-
 # DECRETO-LEI Nº 1.359, DE 19 DE NOVEMBRO DE 1974
 
 Autoriza a utilização, no exercício de 1975 de recursos do Fundo de Liquidez da Previdência Social para despesas de organização e instalação do Ministério da Previdência e Assistência Social, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-094081-0-000-06-03-1987@@@
-
 DECRETO N° 94.081, DE 6 DE MARÇO DE 1987
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Processamento de Dados do Instituto de Ciências Sociais de Americana.

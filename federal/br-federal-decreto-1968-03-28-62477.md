@@ -1,5 +1,3 @@
-###DEC-062477-0-000-28-03-1968@@@
-
 DECRETO Nº 62.477, DE 28 DE MARÇO DE 1968.
 
 Estende as disposições do Decreto nº 62.404, de 15 de março de 1968, às áreas do Estado do Pará, que declara em estado de calamidade.

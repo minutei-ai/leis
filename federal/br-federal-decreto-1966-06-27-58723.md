@@ -1,5 +1,3 @@
-###DEC-058723-0-000-27-06-1966@@@
-
 DECRETO Nº 58.723, DE 27 DE JUNHO DE 1966.
 
 Declara sem efeito o Decreto nº 25.290, de 30 de julho de 1948.

@@ -1,5 +1,3 @@
-###DEC-080308-0-000-09-09-1977@@@
-
 Decreto nº 80.308, de 9 de setembro de 1977.
 
 Concede à CAULISA - Indústria de Caulim S.A. o direito de lavrar caulim no Município de Junco do Seridó, Estado da Paraíba.

@@ -1,7 +1,3 @@
-1
-
-###DEC-098068-0-000-18-08-1989@@@
-
 DECRETO N° 98.068, DE 18 DE AGOSTO DE 1989
 
 Dispõe sobre o hasteamento da bandeira nacional, e dá outras providências.

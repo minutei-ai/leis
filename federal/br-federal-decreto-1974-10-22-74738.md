@@ -1,5 +1,3 @@
-###DEC-074738-0-000-22-10-1974@@@
-
 Decreto nº 74.738, de 22 de outubro de 1974.
 
 Concede reconhecimento ao curso de Ciências Contábeis da Faculdade de Ciências Econômicas, Contábeis, Administrativas e Atuariais, mantida pelo Instituto de Ensino Superior da Região Bragantina, com sede na cidade de Bragantina Paulista, Estado de São Paulo.

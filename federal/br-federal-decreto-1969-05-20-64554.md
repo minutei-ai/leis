@@ -1,5 +1,3 @@
-###DEC-064554-0-000-20-05-1969@@@
-
 DECRETO Nº 64.554, DE 20 DE MAIO DE 1969.
 
 Declara de utilidade pública a "Obra das Vocações Missionárias Capuchinhas do Ceará", com sede em Fortaleza, Estado do Ceará.

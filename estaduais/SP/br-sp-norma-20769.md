@@ -1,24 +1,30 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=20769)
-
 # LEI Nº 7.112, DE 30 DE ABRIL DE 1991
 
 ## (Projeto de lei nº 307/90 do deputado Afanásio Jazadji)
 
 ### _Dá denominação a Centro de Saúde situado na Capital._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:<br>
-**Artigo 1.º -** Passa a denominar-se "Prof.ª Jandira Nasur" o Centro de Saúde II - Vila Gumercindo, na Capital.<br>
-**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.<br>
-Palácio dos Bandeirantes, 30 de abril de 1991.<br>
-LUIZ ANTONIO FLEURY FILHO<br>
-Nader Wafae,<br>
-Secretário da Saúde<br>
-Cláudio Ferraz de Alvarenga,<br>
-Secretário do Governo<br>
-Publicada na Assessoria Técnico-Legislativa, aos 30 de abril de 1991.
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
 
-<br>
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei:
+
+**Artigo 1.º -** Passa a denominar-se "Prof.ª Jandira Nasur" o Centro de Saúde II - Vila Gumercindo, na Capital.
+
+**Artigo 2.º -** Esta lei entrará em vigor na data de sua publicação.
+
+Palácio dos Bandeirantes, 30 de abril de 1991.
+
+LUIZ ANTONIO FLEURY FILHO
+
+Nader Wafae,
+
+Secretário da Saúde
+
+Cláudio Ferraz de Alvarenga,
+
+Secretário do Governo
+
+Publicada na Assessoria Técnico-Legislativa, aos 30 de abril de 1991.
 
 #### Retificação - Diário Oficial Executivo I 21/05/1991, p. 1
 
@@ -26,41 +32,30 @@ Publicada na Assessoria Técnico-Legislativa, aos 30 de abril de 1991.
 
 _(Projeto de lei nº 307/90 do deputado Afanásio Jazadji)_
 
-<br>
-
 _Dá denominação a Centro de Saúde situado na Capital._
-
-<br>
 
 ...............................................................
 
 **Retificação do D.O. de 1.°-5-91**
 
-**Artigo 1.° -** Na 1.ª linha<br>
-Onde se lê-. ... denominar-se Prof.ª Jandira Nasur" o Centro ... leia-se:... denominar-se "Prof.ª Jandira Massur" o Centro ...
+**Artigo 1.° -** Na 1.ª linha
 
-<br>
-<br>
-<br>
+Onde se lê-. ... denominar-se Prof.ª Jandira Nasur" o Centro ... leia-se:... denominar-se "Prof.ª Jandira Massur" o Centro ...
 
 #### Retificação - Diário Oficial Executivo I 23/05/1991, p. 1
 
-#### <br>
+####
+
 LEI N. 7.112, DE 30 DE ABRIL DE 1991
 
 _(Projeto de lei nº 307/90 do deputado Afanásio Jazadji)_
 
-<br>
-
 _Dá denominação a Centro de Saúde situado na Capital._
-
-<br>
 
 #### LEI N. 7.112, DE 30 DE ABRIL DE 1991
 
-<br>
-
 **Retificação**
 
-**Artigo 1.° -** Na 1.ª linha<br>
+**Artigo 1.° -** Na 1.ª linha
+
 onde se lê: ... denomiar-se "Prof.ª Jandira Nasur" o Centro ... leia-se: ... denominar-se "Prof. Jandira Masur" o Centro ...

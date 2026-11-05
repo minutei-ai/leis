@@ -90,5 +90,6 @@ Parágrafo único. Os efeitos da presente Lei, desde que seja realizada a adesã
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA-GO, aos 04 de outubro de 2023.
 
-VILMAR MARIANO DA SILVA<br>
+VILMAR MARIANO DA SILVA
+
 Prefeito

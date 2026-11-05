@@ -1,5 +1,3 @@
-###DEC-087839-0-000-22-11-1982@@@
-
 Decreto nº 87.839, de 22 de novembro de 1982.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, áreas de terra situadas na faixa de segurança do reservatório da Usina Hidrelétrica de Nova Avanhandava da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

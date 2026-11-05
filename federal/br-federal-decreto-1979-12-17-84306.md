@@ -1,5 +1,3 @@
-###DEC-084306-0-000-17-12-1979@@@
-
 Decreto nº 84.306, de 17 de dezembro de 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estados de São Paulo.

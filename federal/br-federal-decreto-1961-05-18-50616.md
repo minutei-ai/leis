@@ -1,5 +1,3 @@
-###DEC-050616-0-000-18-05-1961@@@
-
 DECRETO Nº 50.616, DE 18 DE MAIO DE 1961.
 
 Declara de utilidade pública, para fins de constituição de servidões administrativas as faixas de terras necessárias ao estabelecimento da linha de transmissão da Usina do Gafanhoto à Usina João de Deus, no Estado de Minas Gerais.

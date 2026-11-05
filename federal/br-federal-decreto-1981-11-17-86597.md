@@ -1,5 +1,3 @@
-###DEC-086597-0-000-17-11-1981@@@
-
 Decreto nº 86.597, de 17 de novembro de 1981
 
 Outorga à CESP - Companhia Energética de São Paulo concessão para o aproveitamento da energia hidráulica de um trecho do rio Tietê, na divisa entre os Municípios de Andradina e Pereira Barreto, no Estado de São Paulo.

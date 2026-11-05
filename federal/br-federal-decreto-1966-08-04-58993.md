@@ -1,5 +1,3 @@
-###DEC-058993-0-000-04-08-1966@@@
-
 DECRETO Nº 58.993, DE 4 DE AGÔSTO DE 1966.
 
 Altera dispositivos do Decreto número 57.814, de 15 de fevereiro de 1966.

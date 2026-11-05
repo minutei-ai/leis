@@ -1,5 +1,3 @@
-###DEC-089445-0-000-19-03-1984@@@
-
 DECRETO Nº 89.445, de 19 de março de 1984.
 
 Cria o centro de instrução de guerra electrônica no ministério do exército e dá outras providências.

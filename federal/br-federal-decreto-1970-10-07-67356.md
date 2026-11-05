@@ -1,5 +1,3 @@
-###DEC-067356-0-000-07-10-1970@@@
-
 DECRETO Nº 67.356, DE 7 DE OUTUBRO DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Departamento Nacional de Estradas de Rodagem, cargo do Ministério do Trabalho e Previdência Social.

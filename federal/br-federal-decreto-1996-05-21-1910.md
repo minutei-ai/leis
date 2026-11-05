@@ -1,7 +1,3 @@
-1
-
-###DEC-001910-0-000-21-05-1996@@@
-
 # DECRETO N° 1.910, DE 21 DE MAIO DE 1996.
 
 Dispõe sobre a concessão e a permissão de serviços desenvolvidos em terminais alfandegados de uso público, e dá outras providências.

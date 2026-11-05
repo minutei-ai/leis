@@ -1,5 +1,3 @@
-###DEC-061081-0-000-27-07-1967@@@
-
 Decreto nº 61.081, de 27 de julho de 1967.
 
 Declara a cessação da exploração dos serviços de energia elétrica pela Companhia Industrial Ouropretana, nos distritos de Glaura, Miguel Burnier, Santa Rita de Ouro Prêto, Santo Antônio do Leite, Ouro Prêto, São Bartolomeu, Amarantina, Antônio Pereira, município de Ouro Prêto, Estado de Minas Gerais e outorga concessão à Centrais Elétricas de Minas Gerais S.A. nos distritos citados acima, do município de Ouro Prêto, Estado de Minas Gerais e dá outras providências.

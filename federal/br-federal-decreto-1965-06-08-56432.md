@@ -1,5 +1,3 @@
-###DEC-056432-0-000-08-06-1965@@@
-
 DECRETO Nº 56.432, DE 8 DE JUNHO DE 1965.
 
 Autoriza Toledo Duarte Mineração Ltda. a pesquisar minério de manganês, no município e Conselheiro Lafaiete, Estado de Minas Gerais.

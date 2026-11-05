@@ -1,5 +1,3 @@
-###DEC-068895-0-000-08-07-1971@@@
-
 DECRETO Nº 68.895, DE 8 DE JULHO DE 1971.
 
 Concede autorização à Companhia panamenha Offshore International Sociedade Anônima, para operar em águas brasileiras, com a embarcação "Discoverer-I" de nacionalidade panamenha, nos serviços que especifica.

@@ -1,5 +1,3 @@
-###DEL-007912-0-000-30-08-1945@@@
-
 DECRETO-LEI N. 7.912 – DE 30 DE AGÔSTO DE 1945
 
 Autoriza  o Prefeito do Distrito Federal a conceder a isenção do impôsto que menciona.

@@ -1,5 +1,3 @@
-###DEC-061564-0-000-18-10-1967@@@
-
 decreto nº 61.564, de 18 de outubro de 1967.
 
 Inclui parágrafo no artigo 16 do Decreto nº 59.316, de 28 de setembro de 1966, que regulamenta a Lei nº 4.907, de 17 de dezembro de 1965.

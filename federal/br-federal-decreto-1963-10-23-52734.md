@@ -1,5 +1,3 @@
-###DEC-052734-0-000-23-10-1963@@@
-
 DECRETO Nº 52.734, DE 23 DE OUTUBRO DE 1963.
 
 Eleva o capital do Instituto de Resseguro do Brasil.

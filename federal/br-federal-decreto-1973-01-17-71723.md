@@ -1,5 +1,3 @@
-###DEC-071723-0-000-17-01-1973@@@
-
 DECRETO Nº 71.723, DE 17 DE JANEIRO DE 1973.
 
 Concede autorização à Centrais Elétricas de Carazinho S.A. - ELETROCAR, para funcionar como empresa de energia elétrica.

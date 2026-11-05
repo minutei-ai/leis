@@ -1,5 +1,3 @@
-###DEC-092387-0-000-06-02-1986@@@
-
 DECRETO Nº 92.387, DE 06 DE FEVEREIRO DE 1986
 
 Altera o Regulamento do Código Nacional de Trânsito.

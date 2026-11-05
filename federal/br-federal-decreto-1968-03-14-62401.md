@@ -1,5 +1,3 @@
-###DEC-062401-0-000-14-03-1968@@@
-
 DECRETO Nº 62.401, DE 14 DE MARÇO DE 1968.
 
 Aprova o Regimento Interno do Gabinete do Ministro do Trabalho e Previdência Social.

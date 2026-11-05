@@ -1,5 +1,3 @@
-###DEC-083345-0-000-17-04-1979@@@
-
 Decreto nº 83.345, de 17 de abril de 1979.
 
 Outorga á nova Suíça Empreendimentos Imobiliários Ltda, Concessão para o aproveitamento da energia hidráulica de um trecho do rio Paca Grande, no Estado de São Paulo, para uso exclusivo.

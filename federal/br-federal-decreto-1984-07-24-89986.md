@@ -1,5 +1,3 @@
-###DEC-089986-0-000-24-07-1984@@@
-
 Decreto nº 89.986, de 24 de julho de 1984
 
 Declara de utilidade pública as instituições que menciona.

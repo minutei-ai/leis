@@ -1,5 +1,3 @@
-###DEC-075562-0-000-07-04-1975@@@
-
 DECRETO Nº 75.562, DE 7 DE ABRIL DE 1975.
 
 Extingue as Delegacias Regionais do Trabalho dos antigos Estados do Rio de Janeiro e da Guanabara, cria a Delegacia Regional do Trabalho do Estado do Rio de Janeiro e a Subdelegacia do Trabalho em Niterói, e dá outras providências.

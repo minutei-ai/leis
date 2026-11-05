@@ -1,5 +1,3 @@
-###DEC-004331-0-000-12-08-2002@@@
-
 DECRETO Nº 4.331, DE 12 DE AGOSTO DE 2002
 
 Dispõe sobre a prorrogação do prazo dos trabalhos de inventariança do Departamento Nacional de Estradas de Rodagem - DNER, a que alude o Decreto nº 4.128, de 13 de fevereiro de 2002.

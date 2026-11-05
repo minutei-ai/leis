@@ -1,5 +1,3 @@
-###DEC-006983-0-000-19-10-2009@@@
-
 DECRETO Nº 6.983, DE 19 DE OUTUBRO DE 2009.
 
 Altera o Decreto no 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

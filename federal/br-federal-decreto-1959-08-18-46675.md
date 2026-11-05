@@ -1,5 +1,3 @@
-###DEC-046675-0-000-18-08-1959@@@
-
 decreto nº 46.675, de 18 de agôsto de 1959.
 
 Concede à MIBRACO - Mineração Brasileira Comercial Limitada autorização para funcionar como emprêsa de mineração.

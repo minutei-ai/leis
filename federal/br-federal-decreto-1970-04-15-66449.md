@@ -1,5 +1,3 @@
-###DEC-066449-0-000-15-04-1970@@@
-
 DECRETO Nº 66.449, DE 15 DE ABRIL DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro de Pessoal - Parte Especial - do Ministério da Agricultura, cargo originário da Universidade Federal Rural do Rio de Janeiro, e dá outras providências.

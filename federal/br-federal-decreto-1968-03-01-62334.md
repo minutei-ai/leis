@@ -1,5 +1,3 @@
-###DEC-062334-0-000-01-03-1968@@@
-
 DECRETO Nº 62.334, DE 1º DE MARÇO DE 1968.
 
 Autoriza a Light - Serviços de eletricidade S.A. a construir linha de transmissão.

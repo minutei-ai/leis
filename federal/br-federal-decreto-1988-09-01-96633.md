@@ -1,5 +1,3 @@
-###DEC-096633-0-000-01-09-1988@@@
-
 DECRETO N° 96.633, DE 1° DE SETEMBRO DE 1988
 
 Dispõe sobre a ocupação de imóveis residenciais, administrados pela Presidência da República e Vice-Presidência da República, e dá outras providências.

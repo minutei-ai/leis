@@ -1,5 +1,3 @@
-###DEL-001992-0-000-29-12-1982@@@
-
 # Decreto-lei nº 1.992, de 29 de dezembro de 1982.
 
 Fixa o valor do soldo base do cálculo da remuneração dos militares.

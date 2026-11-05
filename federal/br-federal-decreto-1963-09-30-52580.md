@@ -1,5 +1,3 @@
-###DEC-052580-0-000-30-09-1963@@@
-
 DECRETO Nº 52.580, DE 30 DE SETEMBRO DE 1963.
 
 Outorga à Prefeitura Municipal de Carazinho, Estado do Rio Grande do Sul, concessão para o aproveitamento progressivo de energia hidráulica de um trecho do Rio da Várzea.

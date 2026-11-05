@@ -1,5 +1,3 @@
-###DEC-003573-0-000-22-08-2000@@@
-
 DECRETO Nº 3.573, DE 22 DE AGOSTO DE 2000.
 
 Dispõe sobre a execução do Vigésimo Quarto Protocolo Adicional ao Acordo de Complementação Econômica nº 35, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, como Estados Partes do Mercado Comum do Sul (MERCOSUL), e o Governo da República do Chile, de 08 de maio de 2000.

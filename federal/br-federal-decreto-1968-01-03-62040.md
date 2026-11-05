@@ -1,5 +1,3 @@
-###DEC-062040-0-000-03-01-1968@@@
-
 DECRETO Nº 62.040, de 3 de JANEIRO DE 1968.
 
 Concede à sociedade Norton Megaw, Hampshire & Co. Limited autorização para continuar a funcionar na República do Brasil.

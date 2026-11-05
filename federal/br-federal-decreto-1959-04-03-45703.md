@@ -1,5 +1,3 @@
-###DEC-045703-0-000-03-04-1959@@@
-
 DECRETO Nº 45.703, DE 3 DE ABRIL DE 1959.
 
 Autoriza a emprêsa de mineração Th. Badin de Minérios Ltda, a pesquisar columbita nos municípios de Rio de Contas e Paramirim, Estado da Bahia.

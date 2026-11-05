@@ -1,5 +1,3 @@
-###DEC-050272-0-000-15-02-1961@@@
-
 DECRETO Nº 50.272, de 15 de fevereiro de 1961.
 
 Revogam o Decreto nº 43.710, de 15 de maio de 1958 e dá outras providências.

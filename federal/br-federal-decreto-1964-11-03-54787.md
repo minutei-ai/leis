@@ -1,5 +1,3 @@
-###DEC-054787-0-000-03-11-1964@@@
-
 DECRETO Nº 54.787, DE 3 DE NOVEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Armando Della Monica a pesquisar areia quartzosa no Município de São Paulo, Estado de São Paulo.

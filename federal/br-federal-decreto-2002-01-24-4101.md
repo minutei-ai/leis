@@ -1,5 +1,3 @@
-###DEC-004101-0-000-24-01-2002@@@
-
 DECRETO Nº 4.101, DE 24 DE JANEIRO DE 2002.
 
 Dispõe sobre a execução do Quinquagésimo Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 2 (Veículos automotores), entre os Governos da República Federativa do Brasil e da República Oriental do Uruguai, de 27 de setembro de 200l.
@@ -52,4 +50,16 @@ A Secretaria-Geral da ALADI será depositária do presente Protocolo, do qual en
 
 Em fé do que, os respectivos Plenipotenciários assinam o presente Protocolo na cidade de Montevidéu, aos vinte e sete dias do mês de setembro de dois mil e um, em um original nos idiomas português e espanhol, sendo ambos os textos igualmente válidos.
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:238.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Federativa do Brasil</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">José Artur Denot Medeiros</span></p></td></tr><tr><td style="width:238.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top"><p style="text-align:center; line-height:12pt"><span style="font-size:10pt">Pelo Governo da República Oriental do Uruguai</span></p><p style="margin-top:6pt; text-align:center; line-height:12pt"><span style="font-size:10pt">Elbio Rosselli Frieri</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:238.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República Federativa do Brasil
+
+José Artur Denot Medeiros
+
+</td></tr><tr><td style="width:238.1pt; padding-right:3pt; padding-left:3pt; vertical-align:top">
+
+Pelo Governo da República Oriental do Uruguai
+
+Elbio Rosselli Frieri
+
+</td></tr></tbody></table>

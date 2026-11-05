@@ -1,5 +1,3 @@
-###DEC-007150-0-000-08-04-2010@@@
-
 DECRETO Nº 7.150, DE 8 DE ABRIL DE 2010.
 
 Promulga a Decisão CMC no 11/09 “Fundo para a Convergência Estrutural do Mercosul - Projetos de Integração Produtiva”, adotada durante a XXXVII Reunião Ordinária do Conselho do Mercado Comum, em Assunção, em 24 de julho de 2009.

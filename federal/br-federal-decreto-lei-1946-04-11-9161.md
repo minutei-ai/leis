@@ -1,5 +1,3 @@
-###DEL-009161-0-000-11-04-1946@@@
-
 DECRETO- LEI N. 9.161 – DE 11 DE ABRIL DE 1946
 
 Extingue o Depósito de Intendência da Fôrça Expedicionária Brasileira e cria o Depósito de Recuperação de  Material de intendência do Rio.

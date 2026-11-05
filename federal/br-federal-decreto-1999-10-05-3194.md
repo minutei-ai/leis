@@ -1,5 +1,3 @@
-###DEC-003194-0-000-05-10-1999@@@
-
 DECRETO Nº 3.194, DE 5 DE OUTUBRO DE 1999.
 
 Promulga o Protocolo de Integração Educacional o para a Formação de Recursos Humanos no Nível de Pós-Graduação entre os Países Membros do MERCOSUL, concluído em Fortaleza, em 16 de dezembro de 1996.
@@ -118,4 +116,36 @@ Da mesma forma, o Governo da República do Paraguai notificará os Governos dos 
 
 Feito em Fortaleza, em 16 de dezembro de 1996, em um original nos idiomas espanhol e português, sendo ambos os textos igualmente autênticos.
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Argentina</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Federativa do Brasil</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Guido di Tella</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Luiz Felipe Lampreia</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Relações Exteriores</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro das Relações Exteriores</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt; -aw-import:ignore">&nbsp;</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Pelo Governo da República</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Oriental do Uruguai</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Do Paraguai</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Agustin Espinosa</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ruben Melgarejo Lanzoni</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Diretor-Geral para Assuntos de Integração</span></p></td></tr><tr><td style="width:230.55pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">Ministro de Relações Exteriores</span></p></td><td style="width:195.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Arial; font-size:10pt">e Mercosul do Ministério das Relações Exteriores</span></p></td></tr></tbody></table>
+Pelo Governo da República
+
+Pelo Governo da República
+
+Argentina
+
+Federativa do Brasil
+
+Guido di Tella
+
+Luiz Felipe Lampreia
+
+Ministro de Relações Exteriores
+
+Ministro das Relações Exteriores
+
+Pelo Governo da República
+
+Pelo Governo da República
+
+Oriental do Uruguai
+
+Do Paraguai
+
+Agustin Espinosa
+
+Ruben Melgarejo Lanzoni
+
+Diretor-Geral para Assuntos de Integração
+
+Ministro de Relações Exteriores
+
+e Mercosul do Ministério das Relações Exteriores

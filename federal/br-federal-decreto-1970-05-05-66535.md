@@ -1,5 +1,3 @@
-###DEC-066535-0-000-05-05-1970@@@
-
 DECRETO Nº 66.535, DE 5 DE MAIO DE 1970.
 
 Concede reconhecimento de Faculdade.

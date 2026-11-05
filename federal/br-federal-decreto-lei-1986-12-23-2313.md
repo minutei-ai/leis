@@ -1,5 +1,3 @@
-###DEL-002313-0-000-23-12-1986@@@
-
 # DECRETO Nº 2.313, DE 23 DE DEZEMBRO DE 1986
 
 Altera a redação do artigo 3º do Decreto-lei nº 2.303, de 21 de novembro de 1986 e dá outras providências.
@@ -39,8 +37,6 @@ Brasília, 23 de dezembro de 1986; 165º da Independência e 98º da República.
 JOSÉ SARNEY
 
 Dilson Domingos Funaro
-
-###DEL-002313-0-000-23-12-1986@@@RET01+++
 
 # DECRETO-LEI Nº 2.313,DE 23 DE DEZEMBRO DE 1986
 

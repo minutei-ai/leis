@@ -42,5 +42,6 @@ Goiânia, 31 de outubro de 2025; 137º da República.
 
  
 
-RONALDO CAIADO<br>
+RONALDO CAIADO
+
 Governador do Estado

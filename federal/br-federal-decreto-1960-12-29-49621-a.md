@@ -1,5 +1,3 @@
-###DEC-049621-A-000-29-12-1960@@@
-
 DECRETO N. 49.621 – A – DE 29 DE DEZEMBRO DE 1960
 
 Suprime o Consulado Honorário do Brasil em Cherburgo, França.

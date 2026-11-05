@@ -1,5 +1,3 @@
-###DEC-093988-0-000-30-01-1987@@@
-
 DECRETO N° 93.988, DE 30 DE JANEIRO DE 1987
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado "Fazenda Rio Jabuti", constituído pelas Glebas 8, 9 e 11, classificado no Cadastro de Imóveis Rurais do INCRA, como "latifúndio por exploração", situado no Município de São Domingos do Capim, Estado do Pará, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.623, de 02 de maio de 1986 e dá outras providências.

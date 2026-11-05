@@ -1,5 +1,3 @@
-###DEL-007994-0-000-24-09-1945@@@
-
 DECRETO-LEI N. 7.994 – DE 24 DE SETEMBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito suplementar de Cr$ 8.400,00.

@@ -1,5 +1,3 @@
-###MPV-001740-0-026-14-12-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.740-26, DE 14 DE DEZEMBRO DE 1998.
 
 Define diretrizes e incentivos fiscais para o desenvolvimento regional e dá outras providências.

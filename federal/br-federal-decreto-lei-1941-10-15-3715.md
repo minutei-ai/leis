@@ -1,5 +1,3 @@
-###DEL-003715-0-000-15-10-1941@@@
-
 DECRETO-LEI N. 3.715 – DE 15 DE OUTUBRO DE 1941
 
 Preenchimento de vagas de professores no Colégio Militar

@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/60e0ee6c-c7ff-46f6-9ce5-a0cf9b414ddd/texto#nowhere)
 
-###DEL-000778-0-000-21-08-1969@@@
-
 DECRETO-LEI Nº 778, DE 21 DE AGôSTO DE 1969.
 
 Autoriza o funcionamento da Universidade Federal de Ouro Prêto (UFOP) e dá outras providências.

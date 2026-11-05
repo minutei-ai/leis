@@ -1,5 +1,3 @@
-###DEC-072592-0-000-13-08-1973@@@
-
 DECRETO nº 72.592, DE 13 DE AGOSTO DE 1973.
 
 Concede à Mineração Iedem Ltda. o direito de lavrar minério de manganês nos Municípios de Dom Silvério e São Domingos do Prata, Estado de Minas Gerais.

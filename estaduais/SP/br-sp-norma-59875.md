@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59875)
-
 # LEI Nº 12.196, DE 06 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 626/2004, da Deputada Célia Leão - PSDB)

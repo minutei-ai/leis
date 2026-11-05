@@ -1,5 +1,3 @@
-###DEC-061267-0-000-01-09-1967@@@
-
 DECRETO Nº 61.267, DE 1 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério do Exército.

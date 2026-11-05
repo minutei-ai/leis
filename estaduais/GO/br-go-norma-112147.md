@@ -16,44 +16,275 @@ Art. 2º Esta portaria entra em vigor nesta data.
 
 QUADRO 1
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>SUPLEMENTAÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP</b></td></tr></tbody></table>
+**SUPLEMENTAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA</td><td style=" width:85px;    ">06 181 1051 3178</td><td style=" width:85px;    ">27130000</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 889.901,13</td><td style=" width:85px;    ">R$ 479.004,36</td><td style=" width:85px;    ">R$ 1.368.905,49</td></tr></tbody></table>
+**2950-FUNDO ESTADUAL DE SEGURANÇA PÚBLICA - FUNESP**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR &nbsp;</b></td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO</td><td style=" width:85px;    ">23 691 1054 2441</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 202.053,88</td><td style=" width:85px;    ">R$ 961.604,78</td><td style=" width:85px;    ">R$ 1.163.658,66</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ORÇAMENTÁRIO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A SUPLEMENTAR</b></td><td style=" width:85px;  height:19px;   "><b>SALDO ATUALIZADO</b></td></tr><tr><td style=" width:85px;    ">FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S</td><td style=" width:85px;    ">11 334 1054 2448</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 167.483,84</td><td style=" width:85px;    ">R$ 1.500.000,00</td><td style=" width:85px;    ">R$ 1.667.483,84</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL A SUPLEMENTAR POR FONTE</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 961.604,78</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 479.004,36</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.500.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL A SUPLEMENTAR</b></td><td style=" width:340px;    ">R$ 2.940.609,14</td></tr></tbody></table>
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+ESTRUTURAÇÃO DE UNIDADE DE SEGURANÇA PÚBLICA
+
+06 181 1051 3178
+
+27130000
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 889.901,13
+
+R$ 479.004,36
+
+R$ 1.368.905,49
+
+**3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR  **
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO
+
+23 691 1054 2441
+
+17530161
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 202.053,88
+
+R$ 961.604,78
+
+R$ 1.163.658,66
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO ORÇAMENTÁRIO**
+
+**VALOR A SUPLEMENTAR**
+
+**SALDO ATUALIZADO**
+
+FOMENTO A ARRANJOS PRODUTIVOS LOCAIS - APL'S
+
+11 334 1054 2448
+
+27610156
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 167.483,84
+
+R$ 1.500.000,00
+
+R$ 1.667.483,84
+
+**TOTAL A SUPLEMENTAR POR FONTE**
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 961.604,78
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 479.004,36
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 1.500.000,00
+
+**TOTAL A SUPLEMENTAR**
+
+R$ 2.940.609,14
 
 QUADRO 2
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>REDUÇÃO</b></td></tr><tr><td style=" width:680px;    "><b>3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR &nbsp;</b></td></tr></tbody></table>
+**REDUÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO</td><td style=" width:85px;    ">23 691 1054 2441</td><td style=" width:85px;    ">17530161</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">4 - INVESTIMENTOS</td><td style=" width:85px;    ">R$ 1.114.270,00</td><td style=" width:85px;    ">R$ 961.604,78</td><td style=" width:85px;    ">R$ 961.604,78</td></tr></tbody></table>
+**3351-FUNDO DE DESENVOLVIMENTO DE ATIVIDADES INDUSTRIAIS - FUNPRODUZIR  **
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL</b><br>3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL</td></tr></tbody></table>
+**ESPECIFICAÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">TRANSFERÊNCIA DE RENDA COMPLEMENTAR - GOIÁS + INCLUSIVO</td><td style=" width:85px;    ">08 242 1040 2586</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">90</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 883.200,00</td><td style=" width:85px;    ">R$ 883.200,00</td></tr></tbody></table>
+**AÇÃO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>4200 - SECRETARIA DE ESTADO DA RETOMADA</b><br>4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA</td></tr></tbody></table>
+**FONTE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:85px;  height:19px;   "><b>ESPECIFICAÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>AÇÃO</b></td><td style=" width:85px;  height:19px;   "><b>FONTE</b></td><td style=" width:85px;  height:19px;   "><b>MODALIDADE</b></td><td style=" width:85px;  height:19px;   "><b>GRUPO</b></td><td style=" width:85px;  height:19px;   "><b>SALDO A PROGRAMAR</b></td><td style=" width:85px;  height:19px;   "><b>VALOR BLOQUEADO</b></td><td style=" width:85px;  height:19px;   "><b>VALOR A REDUZIR</b></td></tr><tr><td style=" width:85px;    ">CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL</td><td style=" width:85px;    ">12 363 1054 2443</td><td style=" width:85px;    ">27610156</td><td style=" width:85px;    ">50</td><td style=" width:85px;    ">3 - OUTRAS DESPESAS CORRENTES</td><td style=" width:85px;    ">R$ 0,00</td><td style=" width:85px;    ">R$ 616.800,00</td><td style=" width:85px;    ">R$ 616.800,00</td></tr></tbody></table>
+**MODALIDADE**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso I</b></td></tr></tbody></table>
+**GRUPO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;  height:19px;   ">R$ 479.004,36</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 479.004,36</td></tr></tbody></table>
+**SALDO A PROGRAMAR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §&nbsp; 1º&nbsp; Inciso III</b></td></tr></tbody></table>
+**VALOR BLOQUEADO**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 961.604,78</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.500.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.461.604,78</td></tr></tbody></table>
+**VALOR A REDUZIR**
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:680px;  height:19px;   "><b>TOTAL POR FONTE</b></td></tr></tbody></table>
+GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOLVIMENTO ECONÔMICO E SOCIAL REGIONALIZADO
 
-<table align="center" class="Table" style="border-collapse:collapse"><tbody><tr><td style=" width:340px;  height:19px;   ">17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS</td><td style=" width:340px;  height:19px;   ">R$ 961.604,78</td></tr><tr><td style=" width:340px;    ">27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 479.004,36</td></tr><tr><td style=" width:340px;    ">27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES</td><td style=" width:340px;    ">R$ 1.500.000,00</td></tr><tr><td style=" width:340px;    "><b>TOTAL</b></td><td style=" width:340px;    ">R$ 2.940.609,14</td></tr></tbody></table>
+23 691 1054 2441
+
+17530161
+
+90
+
+4 - INVESTIMENTOS
+
+R$ 1.114.270,00
+
+R$ 961.604,78
+
+R$ 961.604,78
+
+**3000 - SECRETARIA DE ESTADO DE DESENVOLVIMENTO SOCIAL**
+3001 - GABINETE DO SECRETÁRIO DE ESTADO DE DESENVOLVIMENTO SOCIAL
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+TRANSFERÊNCIA DE RENDA COMPLEMENTAR - GOIÁS + INCLUSIVO
+
+08 242 1040 2586
+
+27610156
+
+90
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 883.200,00
+
+R$ 883.200,00
+
+**4200 - SECRETARIA DE ESTADO DA RETOMADA**
+4201 - GABINETE DO SECRETÁRIO DE ESTADO DA RETOMADA
+
+**ESPECIFICAÇÃO**
+
+**AÇÃO**
+
+**FONTE**
+
+**MODALIDADE**
+
+**GRUPO**
+
+**SALDO A PROGRAMAR**
+
+**VALOR BLOQUEADO**
+
+**VALOR A REDUZIR**
+
+CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL
+
+12 363 1054 2443
+
+27610156
+
+50
+
+3 - OUTRAS DESPESAS CORRENTES
+
+R$ 0,00
+
+R$ 616.800,00
+
+R$ 616.800,00
+
+**TOTAL UTILIZADO DE SUPERAVIT POR FONTE - Art 43 §  1º  Inciso I**
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 479.004,36
+
+**TOTAL**
+
+R$ 479.004,36
+
+**TOTAL ANULAÇÃO DE DOTAÇÃO POR FONTE - Art 43 §  1º  Inciso III**
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 961.604,78
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 1.500.000,00
+
+**TOTAL**
+
+R$ 2.461.604,78
+
+**TOTAL POR FONTE**
+
+17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS
+
+R$ 961.604,78
+
+27130000 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE SEGURANÇA PÚBLICA - FSP - EXERCÍCIOS ANTERIORES
+
+R$ 479.004,36
+
+27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES
+
+R$ 1.500.000,00
+
+**TOTAL**
+
+R$ 2.940.609,14

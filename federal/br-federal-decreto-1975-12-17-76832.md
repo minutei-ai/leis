@@ -1,5 +1,3 @@
-###DEC-076832-0-000-17-12-1975@@@
-
 DECRETO Nº 76.832, DE 17 DE DEZEMBRO DE 1975.
 
 Altera a denominação da Federação das Escolas Federais Isoladas do Estado da Guanabara e dá outras providências.

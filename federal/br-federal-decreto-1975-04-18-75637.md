@@ -1,5 +1,3 @@
-###DEC-075637-0-000-18-04-1975@@@
-
 DECRETO Nº 75.637, DE 18 DE ABRIL DE 1975.
 
 Autoriza a cessão, sob o regime de aforamento, do terreno de acrescidos de marinha que menciona, situado em Recife, Estado de Pernambuco.

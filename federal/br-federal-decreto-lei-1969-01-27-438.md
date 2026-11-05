@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/490435e4-b540-4f29-be1e-6455d82d92a1/texto#nowhere)
 
-###DEL-000438-0-000-27-01-1969@@@
-
 DECRETo-LEI Nº 438, DE 27 jAneiRO DE 1969
 
 Altera dispositivo da Lei 4.545, de 10 de dezembro de 1964, que dispõe sôbre reestruturação administrativa do Distrito Federal, e dá outras providências.

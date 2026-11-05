@@ -1,5 +1,3 @@
-###DEC-005496-0-000-21-07-2005@@@
-
 DECRETO Nº 5.496, DE 21 DE JULHO DE 2005.
 
        Promulga o texto das Emendas aos Artigos I, II, VIII, IX e XVI do Acordo relativo à Organização Internacional de Telecomunicações por Satélite (INTELSAT), aprovado pela XX Reunião da Assembléia das Partes em Copenhague, em 31 de agosto de 1995.
@@ -24,11 +22,7 @@ O PRESIDENTE DA REPÚBLICA, no uso da atribuição que lhe confere o art. 84, in
 
 LUIZ INÁCIO LULA DA SILVA
 
-Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 22.7.2005
-
-ACORDO RELATIVO À ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT). EMENDAS AOS ARTIGOS I, II, VIII, IX e XVI APROVADAS PELA XX ASSEMBLÉIA DAS PARTES.
+Celso Luiz Nunes AmorimACORDO RELATIVO À ORGANIZAÇÃO INTERNACIONAL DE TELECOMUNICAÇÕES POR SATÉLITE (INTELSAT). EMENDAS AOS ARTIGOS I, II, VIII, IX e XVI APROVADAS PELA XX ASSEMBLÉIA DAS PARTES.
 
  Artigo I
 

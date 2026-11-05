@@ -1,5 +1,3 @@
-###DEC-084651-0-000-23-04-1980@@@
-
 Decreto nº 84.651, de 23 de abril de 1980
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado SIUPÉ, situado nos Municípios de São Gonçalo do Amarante e Paracuru, no Estado do Ceará, compreendido na área prioritária de reforma agrária de que tratam os Decretos nºs 60.465/67, 61.106/67, 68.085/71, 75.147/74 e 82.884/78.

@@ -1,5 +1,3 @@
-###DEC-077446-0-000-14-04-1976@@@
-
 DECRETO Nº 77.446 - DE 14 DE ABRIL DE 1976
 
 Autoriza o aterro de área em mar e a cessão, sob o regime de aforamento, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

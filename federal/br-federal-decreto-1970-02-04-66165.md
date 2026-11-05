@@ -1,5 +1,3 @@
-###DEC-066165-0-000-04-02-1970@@@
-
 DECRETO Nº 66.165 - DE 4 DE FEVEREIRO DE 1970
 
 Declara de utilidade pública a Fundação Paulista de Assistência à Infância, com sede em São Paulo, Estado de São Paulo.

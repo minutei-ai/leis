@@ -1,5 +1,3 @@
-###DEC-086549-0-000-06-11-1981@@@
-
 Decreto nº 86.549, de 6 de novembro de 1981.
 
 Dispõe sobre a contratação, de acordo com os arts. 96 e 97 do Decreto-lei nº 200, de 25 de fevereiro de 1967, de especialistas e consultores técnicos para os órgãos dotados de autonomia limitada e dá outras providências.

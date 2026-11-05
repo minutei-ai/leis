@@ -1,5 +1,3 @@
-###DEC-060023-0-000-11-01-1967@@@
-
 DECRETA Nº 60.023, DE 11 DE JANEIRO DE 1967.
 
 Autoriza o cidadão brasileiro Ronaldo Diniz Cambraia a pesquisar calcário no município de Candeias, Estado de Minas Gerais.

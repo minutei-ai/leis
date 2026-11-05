@@ -1,5 +1,3 @@
-###DEC-086898-0-000-03-02-1982@@@
-
 Decreto nº 86.898, de 03 de fevereiro de 1982
 
 Autoriza a transferência direta para a PALMARES-COMUNICAÇÕES LTDA., da concessão outorgada à FUNDAÇÃO RÁDIO EDUCADORA PALMARES DE ALAGOAS, para executar serviços de radiodifusão sonora em onda média de âmbito regional, na cidade de Maceió, Estado de Alagoas.

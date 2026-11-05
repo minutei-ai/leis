@@ -1,5 +1,3 @@
-###DEC-089377-0-000-10-02-1984@@@
-
 DECRETO Nº 89.377, DE 10 DE FEVEREIRO DE 1984.
 
 Declara Luto Oficial.

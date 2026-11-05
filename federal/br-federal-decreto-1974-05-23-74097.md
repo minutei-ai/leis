@@ -1,5 +1,3 @@
-###DEC-074097-0-000-23-05-1974@@@
-
 DECRETO Nº 74.097, DE 23 DE MAIO DE 1974.
 
 Torna sem efeito aproveitamento, no Quadro de Pessoal do IPASE, de disponível do Ministério da Saúde.

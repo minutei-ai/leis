@@ -1,5 +1,3 @@
-###DEC-046489-0-000-20-07-1959@@@
-
 DECRETO Nº 46.489, DE 20 DE JULHO DE 1959.
 
 Concede à Companhia de Tecidos Paulista autorização para funcionar como emprêsa de mineração.

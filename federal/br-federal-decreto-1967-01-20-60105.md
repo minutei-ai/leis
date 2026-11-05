@@ -1,5 +1,3 @@
-###DEC-060105-0-000-20-01-1967@@@
-
 DECRETO nº 60.105, DE 20 DE JANEIRO DE 1967.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$28.686.591.259 autorizado pelo Decreto-lei nº 35, de 18 de novembro de 1966, para o fim que se especifica.

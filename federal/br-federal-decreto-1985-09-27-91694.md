@@ -1,5 +1,3 @@
-###DEC-091694-0-000-27-09-1985@@@
-
 Decreto nº 91.694, de 27 de setembro de 1985
 
 Proibe a criação de novos cursos de Direito em Território Nacional.

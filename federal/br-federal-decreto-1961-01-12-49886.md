@@ -1,5 +1,3 @@
-###DEC-049886-0-000-12-01-1961@@@
-
 DECRETO Nº 49.886, DE 12 DE JANEIRO DE 1961.
 
 Declara de utilidade pública a Associação Beneficente de Catanduva, com sede em Catanduva, Estado de São Paulo.

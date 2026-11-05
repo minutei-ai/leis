@@ -1,5 +1,3 @@
-###DEC-000575-0-000-23-06-1992@@@
-
 DECRETO Nº 575, DE 23 DE JUNHO DE 1992
 
 Dispõe sobre a transferência de bens, haveres e contencioso judicial da EMBRAFILME - Distribuidora de Filmes S.A., em liquidação, e dá outras providências.

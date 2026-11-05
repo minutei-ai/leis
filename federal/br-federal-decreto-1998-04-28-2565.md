@@ -1,5 +1,3 @@
-###DEC-002565-0-000-28-04-1998@@@
-
 DECRETO Nº 2.565, DE 28 DE ABRIL DE 1998
 
 Disciplina o instituto de progressão a que se refere o parágrafo único do art. 2º da Lei nº 9.266, de 15 de março de 1996, e dá outras providências.

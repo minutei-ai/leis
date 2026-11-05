@@ -1,5 +1,3 @@
-###DEL-008559-0-000-04-01-1946@@@
-
 DECRETO-LEI N. 8.559 – DE 4 DE JANEIRO DE 1946
 
 Altera a redação do art. 3º do Decreto-lei nº 8.526 de 31 de dezembro de 1945.

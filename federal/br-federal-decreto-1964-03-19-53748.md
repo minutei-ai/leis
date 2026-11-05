@@ -1,5 +1,3 @@
-###DEC-053748-0-000-19-03-1964@@@
-
 DECRETO Nº 53.748, DE 19 DE MARÇO DE 1964.
 
 Concede reconhecimento ao Conservatório Musical Pio XII, de Bauru, Estado de São Paulo.

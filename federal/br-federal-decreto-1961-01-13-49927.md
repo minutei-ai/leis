@@ -1,5 +1,3 @@
-###DEC-049927-0-000-13-01-1961@@@
-
 DECRETO Nº 49.927, DE 13 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Leonardo Antônio Galvão a pesquisar água mineral, no município de Nova Era, Estado de Minas Gerais.

@@ -1,24 +1,22 @@
-###DEC-042319-0-000-23-09-1957@@@
+**DECRETO Nº 42.319, DE 23 DE SETEMBRO DE 1957.**
 
-<strong>DECRETO Nº 42.319, DE 23 DE SETEMBRO DE 1957.</strong>
+***Dispõe sôbre a redação do item XXXIII do art. 2º do Decreto nº 34.395, de 28 de outubro de 1953.***
 
-<em><strong>Dispõe sôbre a redação do item XXXIII do art. 2º do Decreto nº 34.395, de 28 de outubro de 1953.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º O item XXXIII do artigo 2º do Decreto nº 34.395, de 28 de outubro de 1953, passa a vigorar com a seguinte redação:
+**Art**. 1º O item XXXIII do artigo 2º do Decreto nº 34.395, de 28 de outubro de 1953, passa a vigorar com a seguinte redação:
 
 “XXXIII - formas de afastamento previstas no art. 79 exceto as reguladas nos itens IV, VII, VIII, IX e XII.”
 
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação;
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação;
 
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 23 de setembro de 1957; 136º da Independência e 69º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 Nereu Ramos
 

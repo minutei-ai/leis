@@ -1,5 +1,3 @@
-###DEL-003066-0-000-20-02-1941@@@
-
 DECRETO-LEI N. 3.066 – DE 20 DE FEVEREIRO DE 1941
 
 Abre pelo Ministério da Fazenda, o crédito especial de 40:325$0 para pagamento de vencimentos atrasados de extranumerários do Departamento Federal de Compras

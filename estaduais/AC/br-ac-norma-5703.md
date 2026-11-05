@@ -1,6 +1,10 @@
 > **LEI Nº 4.151, DE 09 DE AGOSTO DE 2023**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre a cartilha de orientação às crianças e adolescentes para a prevenção contra crimes que atinjam a dignidade sexual na rede mundial de computadores.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre a cartilha de orientação às crianças e adolescentes para a prevenção contra crimes que atinjam a dignidade sexual na rede mundial de computadores.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

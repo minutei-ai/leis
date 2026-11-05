@@ -1,5 +1,3 @@
-###DEC-062405-0-000-15-03-1968@@@
-
 DECRETO Nº 62.405, DE 15 DE MARÇO DE 1968.
 
 Declara de utilidade pública a “Associação das Obras Pavonianas de Assistência”, com sede em Vitória, Espírito Santo.

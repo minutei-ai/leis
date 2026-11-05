@@ -1,5 +1,3 @@
-###DEC-046636-0-000-17-08-1959@@@
-
 DECRETO Nº 46.636, DE 17 DE AGôSTO DE 1959.
 
 Dá nova redação ao artigo 1º e ao inciso I do art. 3º do Decreto número 43.953, que outorgou à Centrais Elétricas de Minas Gerais S.A., concessão para distribuir energia elétrica no município de Campo do Meio, Estado de Minas Gerais.

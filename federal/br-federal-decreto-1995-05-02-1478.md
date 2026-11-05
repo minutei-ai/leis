@@ -1,7 +1,3 @@
-1
-
-###DEC-001478-0-000-02-05-1995@@@
-
 # DECRETO Nº 1.478, DE 2 DE MAIO DE 1995
 
 Dispõe sobre a execução do Protocolo de Adesão do Uruguai ao Acordo de Alcance Parcial de Cooperação e Intercâmbio de Bens Utilizados na Defesa e Proteção do Meio Ambiente entre  Brasil, Argentina e Uruguai, de 15 de julho de 1994.

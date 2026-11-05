@@ -1,5 +1,3 @@
-###MPV-000127-0-000-04-08-2003@@@
-
 MEDIDA PROVISÓRIA Nº 127, DE 4 DE AGOSTO 2003.
 
        Dispõe sobre a criação do Programa Emergencial e Excepcional de Apoio às Concessionárias de Serviços Públicos de Distribuição de Energia Elétrica e dá outras providências.

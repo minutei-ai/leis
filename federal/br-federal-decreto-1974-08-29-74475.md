@@ -1,5 +1,3 @@
-###DEC-074475-0-000-29-08-1974@@@
-
 DECRETO nº 74.475 - DE 29 DE AGOSTO DE 1974.
 
 Declara em extinção o Quadro de Oficiais do Serviço de Veterinária do Exército, e dá outras providências.

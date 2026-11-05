@@ -1,5 +1,3 @@
-###DEC-047808-0-000-20-02-1960@@@
-
 DECRETO Nº 47.808, DE 20 DE FEVEREIRO DE 1960.
 
 Outorga concessão à Rádio Difusora São Paulo Sociedade Anónima para estabelecer uma estação de radiotelevisão em Ribeirão Prêto, Estado de São Paulo.

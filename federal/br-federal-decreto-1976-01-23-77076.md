@@ -1,5 +1,3 @@
-###DEC-077076-0-000-23-01-1976@@@
-
 Decreto nº 77.076, de 23 de janeiro de 1976
 
 Promulga o Estatuto da Comissão Latino-Americana de Aviação Civil (CLAC)

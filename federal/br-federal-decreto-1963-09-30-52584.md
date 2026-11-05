@@ -1,5 +1,3 @@
-###DEC-052584-0-000-30-09-1963@@@
-
 DECRETO Nº 52.584, DE 30 DE SETEMBRO DE 1963.
 
 Autoriza a Companhia Amazônica Têxtil de Aniagem a instalar 2 (dois) grupos diesel, para uso exclusivo.

@@ -1,5 +1,3 @@
-###DEC-093257-0-000-17-09-1986@@@
-
 DECRETO Nº 93.257, DE 17 DE SETEMBRO DE 1986
 
 Renova a concessão outorgada à RÁDIO A VOZ DO OESTE LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Cuiabá, Estado do Mato Grosso.

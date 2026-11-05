@@ -1,5 +1,3 @@
-###DEC-060088-0-000-18-01-1967@@@
-
 DECRETO Nº 60.088, DE 18 DE JANEIRO DE 1967.
 
 Aprova a alteração do artigo 5º dos estatutos da Petróleo Brasileiro S. A. - PETROBRÁS.

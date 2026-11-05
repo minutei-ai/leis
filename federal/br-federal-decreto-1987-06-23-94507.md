@@ -1,5 +1,3 @@
-###DEC-094507-0-000-23-06-1987@@@
-
 DECRETO N° 94.507, DE 23 DE JUNHO DE 1987.
 
 Regulamenta as disposições contidas no artigo 154 da Lei n° 6.880, de 9 de dezembro de 1980, que dispõe sobre os militares da Aeronáutica incapacitados para atividades aéreas.

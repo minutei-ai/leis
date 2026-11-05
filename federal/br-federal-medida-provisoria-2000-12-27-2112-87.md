@@ -1,5 +1,3 @@
-###MPV-002112-0-087-27-12-2000@@@
-
 MEDIDA PROVISÓRIA Nº 2.112-87, DE 27 DE DEZEMBRO DE 2000.
 
 Organiza e disciplinar os Sistemas de Planejamento e de Orçamento Federal, de Administração Financeira Federal, de Contabilidade Federal e de Controle Interno do Poder Executivo Federal, e dá outras providências.

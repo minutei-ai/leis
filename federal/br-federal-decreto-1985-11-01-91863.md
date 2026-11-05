@@ -1,5 +1,3 @@
-###DEC-091863-0-000-01-11-1985@@@
-
 Decreto nº 91.863, de 01 de novembro de 1985
 
 Renova a concessão autorgada à RÁDIO CAPIXABA LTDA., para explorar serviço de radiodifusão sonora em ondas tropicais, na cidade de Vitória, Estado do Espírito Santo.

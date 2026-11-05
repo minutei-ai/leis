@@ -1,5 +1,3 @@
-###DEL-008246-0-000-28-11-1945@@@
-
 DECRETO-LEI N. 8.246 – DE 28 DE NOVEMBRO DE 1945
 
 Abre ao Conselho de Imigração e Colonizando o crédito de Cr$ 45. 200,00 suplementar à verba que especifica.

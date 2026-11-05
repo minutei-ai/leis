@@ -1,5 +1,3 @@
-###DEC-077470-0-000-22-04-1976@@@
-
 DECRETO Nº 77.470 - DE 22 DE ABRIL DE 1976
 
 Concede à Moralles & Companhia Limitada o direito de lavrar calcário no Município de Caçapava do Sul, Estado do Rio Grande do Sul,

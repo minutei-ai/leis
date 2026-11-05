@@ -1,5 +1,3 @@
-###DEC-094713-0-000-31-07-1987@@@
-
 DECRETO Nº 94.713, DE 31 DE JULHO DE 1987.
 
 Institui o Concurso anual de "Software" Educacional Brasileiro e dá outras providências.

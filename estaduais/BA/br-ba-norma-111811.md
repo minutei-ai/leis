@@ -1,6 +1,7 @@
 LEI Nº 10.954 DE 21 DE DEZEMBRO DE 2007
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [11.016](https://www.legislabahia.ba.gov.br/documentos/decreto-no-11016-de-23-de-abril-de-2008) , de 23 de abril de 2008 - Dispõe sobre a concessão de Pensão Especial, em favor dos dependentes das vítimas do acidente ocorrido no Estádio Octávio Mangabeira - Fonte Nova, e dá outras providências.
 
 Autoriza o Poder Executivo a instituir Pensão Especial, na forma que indica, e dá outras providências.

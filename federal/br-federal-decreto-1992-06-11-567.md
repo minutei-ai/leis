@@ -1,5 +1,3 @@
-###DEC-000567-0-000-11-06-1992@@@
-
 DECRETO N° 567, DE 11 DE JUNHO DE 1992
 
 Regulamenta a Lei n° 8.401, de 8 de janeiro de 1992, que dispõe sobre controle da autenticidade de cópias de obras audiovisuais em videograma, postas em comércio.

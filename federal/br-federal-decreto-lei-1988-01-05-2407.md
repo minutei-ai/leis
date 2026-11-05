@@ -1,5 +1,3 @@
-###DEL-002407-0-000-05-01-1988@@@
-
 DECRETO-LEI Nº 2.407, DE 5 DE JANEIRO DE 1988
 
 Dispõe sobre a isenção do Imposto sobre Operações de Crédito, Câmbio e Seguro, e sobre Operações relativas a Título de Valores Mobiliários (IOF) nas Operações de Financiamento relativas à habitação.

@@ -1,5 +1,3 @@
-###MPV-001923-0-001-04-11-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.923-1, DE 4 DE NOVEMBRO DE 1999.
 
 Institui o Programa de Recuperação Fiscal – REFIS.

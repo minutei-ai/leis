@@ -1,5 +1,3 @@
-###MPV-000064-0-000-26-08-2002@@@
-
 MEDIDA PROVISÓRIA Nº 64, DE 26 DE AGOSTO DE 2002
 
 Estabelece exceção ao alcance do art. 2º da Lei nº 10.192, de 14 de fevereiro de 2001, que dispõe sobre medidas complementares ao Plano Real, e dá outras providências.

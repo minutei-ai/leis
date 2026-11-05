@@ -1,5 +1,3 @@
-###DEC-052631-0-000-08-10-1963@@@
-
 DECRETO Nº 52.631, DE 8 DE OUTUBRO DE 1963.
 
 Autoriza Centrais Elétricas de Minas Gerais S.A. a construir linha de transmissão.

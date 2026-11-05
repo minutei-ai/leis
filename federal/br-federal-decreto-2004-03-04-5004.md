@@ -1,5 +1,3 @@
-###DEC-005004-0-000-04-03-2004@@@
-
 DECRETO Nº 5.004, DE 4 DE MARÇO DE 2004.
 
 Cria o Programa de Incentivo à Implementação de Projetos de Interesse Social - PIPS, com fundamento na Lei nº 10.735, de 11 de setembro de 2003, regulamenta as condições para a implementação do Programa e dá outras providências.

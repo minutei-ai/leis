@@ -1,5 +1,3 @@
-###DEL-004493-0-000-17-07-1942@@@
-
 DECRETO-LEI N. 4.493 – DE 17 DE JULHO DE 1942
 
 Abre, pelo Ministério da Agricultura, o crédito suplementar de 37:500$0, à verba que especifica

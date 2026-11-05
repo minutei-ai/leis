@@ -1,5 +1,3 @@
-###DEC-091167-0-000-22-03-1985@@@
-
 DECRETO Nº 91.167, de 22 de março de 1985
 
 Autoriza a Confederação Nacional das Profissões Liberais a filiar-se à Confederação Latinoamericana de Associações de Profissionais Universitários.

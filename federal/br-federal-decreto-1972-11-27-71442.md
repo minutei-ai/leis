@@ -1,5 +1,3 @@
-###DEC-071442-0-000-27-11-1972@@@
-
 DECRETO Nº 71.442, DE 27 DE NOVEMBRO DE 1972.
 
 Torna sem efeito a inclusão de cargos da extinta Superintendência do Plano de Valorização da Amazônia no então Ministério da Guerra, e dá outras providências.

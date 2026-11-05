@@ -1,5 +1,3 @@
-###DEC-051173-0-000-10-08-1961@@@
-
 DECRETO Nº 51.173, DE 10 DE AGôSTO DE 1961.
 
 Suprime cargo extinto.

@@ -1,5 +1,3 @@
-###DEC-060826-0-000-07-06-1967@@@
-
 DECRETO Nº 60.826, DE 7 DE junho DE 1967.
 
 Transfere da Companhia Distribuidora de Eletricidade Brejo Paraibano para a Sociedade Anônima de Eletrificação da Paraíba diversas concessões para distribuição de Energia elétrica.

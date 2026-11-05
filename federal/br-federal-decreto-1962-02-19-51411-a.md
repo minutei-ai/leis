@@ -1,5 +1,3 @@
-###DEC-051411-A-000-19-02-1962@@@
-
 DECRETO Nº 51.411-a, DE 19 DE FEVEREIRO DE 1962.
 
 Dispõe sôbre o provimento dos cargos, em comissão, de diretor dos estabelecimentos federais de ensino superior isolados ou integrantes das Universidades Federais vinculadas ao Ministério da Educação e Cultura, e dá outras providências.

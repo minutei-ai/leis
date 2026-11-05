@@ -1,6 +1,14 @@
+<!-- nota-edicao:inicio -->
+
+> Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020_ _.
+
+<!-- nota-edicao:fim -->
+
 Lei Ordinária n° 20.945 / 2020           Lei Ordinária n° 20.913 / 2020
 
-<table border="0" cellpadding="0" width="100%"><tbody><tr><td width="100%"><p style="TEXT-ALIGN: right" align="right"><font size="2" face="Arial">&nbsp;</font></p></td></tr><tr><td width="100%"><p style="TEXT-ALIGN: center" align="center"><font size="2" color="#808000" face="Arial"><img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif"><br><strong>GOVERNO DO ESTADO DE GOIÁS</strong></font><font size="2" face="Arial"><br></font><strong><font size="2" color="#808000" face="Arial">Secretaria de Estado da Casa Civil</font></strong></p></td></tr></tbody></table>
+<img border="0" alt="" width="68" height="90" src="/assets/brasao_goias.gif">
+**GOVERNO DO ESTADO DE GOIÁS**
+**Secretaria de Estado da Casa Civil**
 
 **LEI Nº 20.945, DE 30 DE DEZEMBRO DE 2020**
 
@@ -130,7 +138,27 @@ Art. 2º  Fica acrescido o Anexo VIII à Lei nº 11.651, de 1991, com a seguint
 
 MERCADORIAS SUJEITAS À ANTECIPAÇÃO DO IMPOSTO SEM ENCERRAMENTO DA TRIBUTAÇÃO
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: medium none; margin-left: 76.3pt"><tbody><tr style="height: 40.55pt"><td width="189" valign="top" style="width: 5.0cm; height: 40.55pt; border: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="margin-left: 49.25pt; margin-right: 19.2pt; margin-top: 0cm; margin-bottom: .0001pt"><span style="font-family: Arial"><font size="2">CÓDIGO DA NBM/SH</font></span></p></td><td width="355" valign="top" style="width: 266.15pt; height: 40.55pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: 1.0pt solid windowtext; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="margin-left: 49.25pt"><span style="font-family: Arial"><font size="2">MERCADORIA</font></span></p></td></tr><tr><td width="189" valign="top" style="width: 5.0cm; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="margin-left: 49.25pt; margin-right: 38.7pt; margin-top: 0cm; margin-bottom: .0001pt"><span style="font-family: Arial"><font size="2">1006.20</font></span></p></td><td width="355" valign="top" style="width: 266.15pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="text-align: justify; margin-left: -2.45pt"><span style="font-family: Arial"><font size="2">ARROZ DESCASCADO (ARROZ “CARGO” OU CASTANHO) PARBOILIZADO OU NÃO</font></span></p></td></tr><tr><td width="189" valign="top" style="width: 5.0cm; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" align="center" style="text-align: center; margin-left: 49.25pt; margin-right: 38.7pt; margin-top: 0cm; margin-bottom: .0001pt"><span style="font-family: Arial"><font size="2">1006.30</font></span></p></td><td width="355" valign="top" style="width: 266.15pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="text-align: justify; margin-left: -2.45pt"><span style="font-family: Arial"><font size="2">ARROZ SEMIBRANQUEADO OU BRANQUEADO, MESMO POLIDO OU BRUNIDO, PARBOILIZADO OU NÃO</font></span></p></td></tr><tr><td width="189" valign="top" style="width: 5.0cm; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" align="center" style="text-align: center; margin-left: 49.25pt; margin-right: 38.7pt; margin-top: 0cm; margin-bottom: .0001pt"><span style="font-family: Arial"><font size="2">1006.40.00</font></span></p></td><td width="355" valign="top" style="width: 266.15pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="text-align: justify; margin-left: -2.45pt"><span style="font-family: Arial"><font size="2">ARROZ QUEBRADO (TRINCA DE ARROZ)</font></span></p></td></tr><tr><td width="189" valign="top" style="width: 5.0cm; border-left: 1.0pt solid windowtext; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" align="center" style="text-align: center; margin-left: 49.25pt; margin-right: 38.7pt; margin-top: 0cm; margin-bottom: .0001pt"><span style="font-family: Arial"><font size="2">0713.3</font></span></p></td><td width="355" valign="top" style="width: 266.15pt; border-left: medium none; border-right: 1.0pt solid windowtext; border-top: medium none; border-bottom: 1.0pt solid windowtext; padding-left: 5.4pt; padding-right: 5.4pt; padding-top: 0cm; padding-bottom: 0cm"><p class="MsoNormal" style="text-align: justify; margin-left: -2.45pt"><span style="font-family: Arial"><font size="2">FEIJÃO (Vigna spp., Phaseolus spp.)</font></span></p><p class="MsoNormal" style="text-align: justify; margin-left: -2.45pt"><span style="font-family: Arial"><font size="2">Exceto: feijão para semeadura e feijão que não tenha sido submetido a processo de industrialização.</font></span></p></td></tr></tbody></table>
+CÓDIGO DA NBM/SH
+
+MERCADORIA
+
+1006.20
+
+ARROZ DESCASCADO (ARROZ “CARGO” OU CASTANHO) PARBOILIZADO OU NÃO
+
+1006.30
+
+ARROZ SEMIBRANQUEADO OU BRANQUEADO, MESMO POLIDO OU BRUNIDO, PARBOILIZADO OU NÃO
+
+1006.40.00
+
+ARROZ QUEBRADO (TRINCA DE ARROZ)
+
+0713.3
+
+FEIJÃO (Vigna spp., Phaseolus spp.)
+
+Exceto: feijão para semeadura e feijão que não tenha sido submetido a processo de industrialização.
 
                 ”(NR)
 
@@ -162,7 +190,6 @@ Art. 6º  Esta Lei entra em vigor na data de sua publicação. 
 
  Goiânia, 30 de dezembro de 2020; 132ª da República..
 
-RONALDO CAIADO<br>
-Governador do Estado  
+RONALDO CAIADO
 
-_Este texto não substitui o publicado no Suplemento do D.O. de 30-12-2020_ _._
+Governador do Estado

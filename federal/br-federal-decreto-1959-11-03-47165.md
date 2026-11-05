@@ -1,5 +1,3 @@
-###DEC-047165-0-000-03-11-1959@@@
-
 DECRETO Nº 47.165, DE 3 DE NOVEMBRO DE 1950.
 
 Altera o Decreto nº 28.959, de 11 de dezembro de 1950.

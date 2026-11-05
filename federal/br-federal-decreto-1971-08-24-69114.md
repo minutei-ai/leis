@@ -1,5 +1,3 @@
-###DEC-069114-0-000-24-08-1971@@@
-
 DECRETO Nº 69.114, DE 24 DE AGÔSTO DE 1971.
 
 Redistribui com o respectivo ocupante, cargo do Ministério do Trabalho e Previdência Social para o Instituto Nacional da Previdência Social e dá outras providências.

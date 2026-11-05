@@ -1,5 +1,3 @@
-###DEL-002271-0-000-13-03-1985@@@
-
 # DECRETO-LEI Nº 2.271, DE 13 DE MARÇO DE 1985
 
 Revoga o Decreto-lei nº 1.343, de 11 de setembro de 1974, e o art. 12 do Decreto-lei nº 352, de 17 de junho de 1968.

@@ -66,8 +66,6 @@ IV – 1º de julho de 2022, quanto ao art. 34 do Anexo VIII do RCTE.
 
 Goiânia, 1º de dezembro de 2022; 134º da República.
 
-<br>
-
 RONALDO CAIADO
 
 Governador do Estado

@@ -1,7 +1,3 @@
-1
-
-###MPV-001209-0-000-28-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.209, DE 28 DE NOVEMBRO DE 1995.
 
 Dispõe sobre o Cadastro Informativo dos créditos não quitados de órgãos e entidades federais, e dá outras providências.

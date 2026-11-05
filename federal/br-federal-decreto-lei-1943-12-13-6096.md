@@ -1,5 +1,3 @@
-###DEL-006096-0-000-13-12-1943@@@
-
 DECRETO‑LEI N. 6.096 – DE 13 DE DEZEMBRO DE 1943
 
 Autoriza a doação, ao Clube de Engenharia do Rio de Janeiro, de terreno na Esplanada do Castelo

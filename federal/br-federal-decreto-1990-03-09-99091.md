@@ -1,7 +1,3 @@
-1
-
-###DEC-099091-0-000-09-03-1990@@@
-
 DECRETO Nº 99.091, DE 9 DE MARÇO DE 1990.
 
 Promulga o Acordo sobre Cooperação Econômica e Industrial, entre a República Federativa do Brasil e o Governo Federal da Áustria.

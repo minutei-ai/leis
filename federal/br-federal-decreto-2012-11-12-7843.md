@@ -1,5 +1,3 @@
-###DEC-007843-0-000-12-11-2012-PUB-01@@@
-
 DECRETO Nº 7.843, DE 12 DE NOVEMBRO DE 2012
 
 Estabelece a aplicação de margem de preferência em licitações realizadas no âmbito da administração pública federal para aquisição de disco para moeda, para fins do disposto no art. 3º da Lei nº 8.666, de 21 de junho de 1993.

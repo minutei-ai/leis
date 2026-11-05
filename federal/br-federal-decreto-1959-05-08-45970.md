@@ -1,5 +1,3 @@
-###DEC-045970-0-000-08-05-1959@@@
-
 DECRETO Nº 45.970, DE 8 DE MAIO DE 1959.
 
 Cria, em caráter transitório, junto à Presidência da República, as funções que menciona, e dá outras providências.

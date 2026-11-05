@@ -1,5 +1,3 @@
-###DEC-071919-0-000-15-03-1973@@@
-
 DECRETO Nº 71.919, DE 15 DE MARÇO DE 1973.
 
 Concede reconhecimento à Faculdade de Filosofia, Ciências e Letras, mantida pela Associação Pró-Ensino em Santa Cruz do Sul (APESC), RS.

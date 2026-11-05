@@ -1,5 +1,3 @@
-###DEC-084809-0-000-17-06-1980@@@
-
 Decreto nº 84.809, de 17 de junho de 1980.
 
 Autoriza a transferência direta para a HIDROS COMUNICAÇÕES LTDA., da concessão outorgada à RÁDIO IRACEMA DE FORTALEZA S.A., para execução de serviço radiodifusão sonora de onda média, de âmbito regional, na cidade de Sobral, Estado do Ceará.

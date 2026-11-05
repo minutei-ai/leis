@@ -1,5 +1,3 @@
-###DEC-003434-0-000-25-04-2000@@@
-
 DECRETO N° 3.434, DE 25 DE ABRIL DE 2000.
 
 Cria o Escritório de Representação do Brasil em Timor Leste, e dá outras providências.

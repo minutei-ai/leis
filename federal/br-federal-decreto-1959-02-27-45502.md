@@ -1,5 +1,3 @@
-###DEC-045502-0-000-27-02-1959@@@
-
 DECRETO Nº 45.502, DE 27 DE Fevereiro DE 1959.
 
 Aprova a Segunda Edição de Farmacopéia Brasileira com suas novas inclusões e modificações e de dá outras providencias.

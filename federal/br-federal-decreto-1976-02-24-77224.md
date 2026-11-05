@@ -1,5 +1,3 @@
-###DEC-077224-0-000-24-02-1976@@@
-
 DECRETO Nº 77.224, DE 24 DE FEVEREIRO DE 1976
 
 Renova por 10 (dez) anos a concessão outorgada à Emissoras Reunidas Rádio Cultura Ltda. para executar serviço de radiodifusão sonora em onda média de âmbito regional, na cidade de Erechim, Estado do Rio Grande do Sul.

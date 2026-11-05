@@ -1,6 +1,7 @@
 LEI Nº 12.593 DE 25 DE OUTUBRO DE 2012
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [17.286](javascript: openDoc\() , de 19 de dezembro de 2016 - Altera a composição do Conselho Estadual dos Direitos da Pessoa com Deficiência - COEDE.
 
 Dispõe sobre o Conselho Estadual dos Direitos da Pessoa com Deficiência - COEDE/BA, criado pela Lei nº 8.268, de 04 de julho de 2002.

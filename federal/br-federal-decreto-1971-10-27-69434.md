@@ -1,5 +1,3 @@
-###DEC-069434-0-000-27-10-1971@@@
-
 DECRETO Nº 69.434 - de 27 de outubro de 1971
 
 Torna sem efeito aproveitamento de disponível no Quadro de Pessoal do Departamento Nacional de Estradas de Ferro.

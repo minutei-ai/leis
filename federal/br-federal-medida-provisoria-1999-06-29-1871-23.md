@@ -1,5 +1,3 @@
-###MPV-001871-0-023-29-06-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.871-23, DE 29 DE JUNHO DE 1999.
 
 Altera dispositivos da Lei nº 8.313, de 23 de dezembro de 1991, e dá outras providências.

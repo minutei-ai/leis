@@ -1,5 +1,3 @@
-###DEC-081237-0-000-20-01-1978@@@
-
 DECRETO Nº 81.237 de 20 de janeiro de 1978
 
 Muda subordinação de Grande-Unidade no Ministério do Exército e dá outras providências.

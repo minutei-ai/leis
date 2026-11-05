@@ -1,5 +1,3 @@
-###DEL-008880-0-000-24-01-1946@@@
-
 DECRETO-LEI N. 8.880 – DE 24 DE JANEIRO DE 1946
 
 Dispõe sôbre a gratificação por assinatura de notas do papel-moeda

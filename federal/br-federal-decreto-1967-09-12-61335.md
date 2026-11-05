@@ -1,5 +1,3 @@
-###DEC-061335-0-000-12-09-1967@@@
-
 decreto nº 61.335, de 12 de setembro de 1967.
 
 Declara de utilidade pública para fim de desapropriação, imóvel que menciona, necessário ao Ministério do Exército.

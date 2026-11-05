@@ -1,5 +1,3 @@
-###DEC-059532-0-000-09-11-1966@@@
-
 DECRETO Nº 59.532, DE 9 DE NOVEMBRO DE 1966.
 
 Autoriza o cidadão brasileiro José Pinto dos Santos a pesquisar feldspato no município de Divino das Laranjeiras, Estado de Minas Laranjeiras, Estado de Minas Gerais.

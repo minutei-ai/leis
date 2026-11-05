@@ -1,5 +1,3 @@
-###DEC-057640-0-000-14-01-1966@@@
-
 decreto nº 57.640, de 14 de janeiro de 1966.
 
 Declara de utilidade pública, para fins de desapropriação, o imóvel que menciona, necessário ao Ministério da Guerra.

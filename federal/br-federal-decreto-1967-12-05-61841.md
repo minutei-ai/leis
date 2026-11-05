@@ -1,5 +1,3 @@
-###DEC-061841-0-000-05-12-1967@@@
-
 DECRETO Nº 61.841, DE 5 DE DEZEMBRO DE 1967.
 
 Autoriza a Companhia Energia Elétrica da Bahia a construir linha de transmissão.

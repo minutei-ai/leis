@@ -1,5 +1,3 @@
-###DEC-057976-0-000-11-03-1966@@@
-
 DECRETO Nº 57.976, DE 11 DE MARÇO DE 1966.
 
 Renova a declaração de utilidade pública a que se refere o Decreto número 29.089, de 5 de janeiro de 1951, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Espinho Branco, Estado de Paraíba.

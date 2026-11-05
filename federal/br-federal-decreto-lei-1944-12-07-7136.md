@@ -1,5 +1,3 @@
-###DEL-007136-0-000-07-12-1944@@@
-
 DECRETO-LEI N. 7.136 – DE 7 DE DEZEMBRO DE 1944
 
       Autoriza a aceitação de doação de terreno feita à União peIo Município de São João da Barra

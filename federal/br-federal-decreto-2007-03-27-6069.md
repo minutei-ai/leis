@@ -1,5 +1,3 @@
-###DEC-006069-0-000-27-03-2007@@@
-
 DECRETO Nº 6.069, DE 27 DE MARÇO DE 2007.
 
 Regulamenta a Gratificação de Desempenho de Atividades Especializadas e Técnicas de Informações e Avaliações Educacionais - GDIAE e a Gratificação de Desempenho de Atividades de Estudos, Pesquisas e Avaliações Educacionais - GDINEP de que trata o art. 62 da Lei no 11.357, de 19 de outubro de 2006.
@@ -143,5 +141,3 @@ LUIZ INÁCIO LULA DA SILVA
 Paulo Bernardo Silva
 
 Fernando Haddad
-
-Este texto não substitui o publicado no DOU de 28.3.2007.

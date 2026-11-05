@@ -1,5 +1,3 @@
-###DEC-076872-0-000-22-12-1975@@@
-
 DECRETO Nº 76.872, De 22 de Dezembro De 1975.
 
 Regulamenta a Lei nº 6.050, de 24 de maio de 1974, que dispõe sobre a fluoretação da água em sistemas públicos e abastecimento.

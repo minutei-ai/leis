@@ -1,5 +1,3 @@
-###DEC-083171-0-000-13-02-1979@@@
-
 DECRETO Nº 83.171, DE 13 DE FEVEREIRO DE 1979
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de linha de transmissão da CESP - Companhia Energética de São Paulo, no Estado de São Paulo.

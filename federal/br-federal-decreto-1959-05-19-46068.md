@@ -1,5 +1,3 @@
-###DEC-046068-0-000-19-05-1959@@@
-
 DECRETO Nº 46.068, DE 19 DE MAIO DE 1959.
 
 Autoriza a Francelino Horta Júnior & Cia Ltda. a comprar pedras preciosas.

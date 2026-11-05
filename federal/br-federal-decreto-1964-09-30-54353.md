@@ -1,5 +1,3 @@
-###DEC-054353-0-000-30-09-1964@@@
-
 decreto nº 54.353, de 30 de setembro de 1964.
 
 Autoriza a Centrais Elétricas de Goiás S.A. a constituir hipoteca de segundo grau.

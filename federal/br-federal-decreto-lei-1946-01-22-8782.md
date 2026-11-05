@@ -1,5 +1,3 @@
-###DEL-008782-0-000-22-01-1946@@@
-
 DECRETO-LEI N. 8.782 – DE 22 DE JANEIRO DE 1946
 
 Abre, ao Ministério da Fazenda, o crédito especial de Cr$ 16.301,70, para atender ao pagamento de salários devidos a Ernani Mendes de Vasconcelos.

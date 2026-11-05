@@ -1,5 +1,3 @@
-###DEC-051708-0-000-15-02-1963@@@
-
 DECRETO Nº 51.708, DE 15 DE FEVEREIRO DE 1963.
 
 Retifica o Decreto nº 51.653, de 10 de janeiro de 1963 e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005801-0-000-08-09-1943@@@
-
 DECRETO‑LEI N. 5.801 – De 8 DE SETEMBRO DE 1943
 
 Considera de interêsse militar a Expedição Roncador‑Xingú

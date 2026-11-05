@@ -8,8 +8,10 @@ Art. 1º Fica revogada a Lei Municipal 2.835, de 09 de setembro de 2009 que “C
 
 MUNICÍPIO DE APARECIDA DE GOIÂNIA, Aos 15 de dezembro de 2021.
 
-GUSTAVO MENDANHA MELO<br>
+GUSTAVO MENDANHA MELO
+
 Prefeito Municipal
 
-FÁBIO PASSAGLIA<br>
+FÁBIO PASSAGLIA
+
 Secretário de Governo

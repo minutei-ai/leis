@@ -1,5 +1,3 @@
-###DEC-006935-0-000-12-08-2009@@@
-
 DECRETO Nº 6.935, DE 12 DE AGOSTO DE 2009.
 
 Dispõe sobre a execução no Território Nacional da Resolução n~~º~~ 1.874, de 12 de junho de 2009, do Conselho de Segurança das Nações Unidas, a qual mantém e reforça as sanções impostas à República Popular Democrática da Coreia, previstas na Resolução n~~º~~ 1.718 do Conselho de Segurança, incorporada ao ordenamento jurídico nacional pelo Decreto n~~º~~ 5.957, de 7 de novembro de 2006, e, entre outros dispositivos, proíbe a exportação de armas e materiais relacionados pela República Popular Democrática da Coreia e restringe sua importação por aquele País; autoriza a realização de inspeções em embarcações destinadas à República Popular Democrática da Coreia, ou dela provenientes; restringe as atividades financeiras da República Popular Democrática da Coreia; e exige a cessação de todas as atividades nucleares e balísticas da República Popular Democrática da Coreia.

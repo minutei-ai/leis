@@ -1,5 +1,3 @@
-###DEC-086551-0-000-09-11-1981@@@
-
 DECRETO Nº 86.551, DE 09 DE NOVEMBRO DE 1981.
 
 Dispõe sobre a expedição de diplomas e certificados relativos às habitações profissionais de 2º grau.

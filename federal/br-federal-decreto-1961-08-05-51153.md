@@ -1,5 +1,3 @@
-###DEC-051153-0-000-05-08-1961@@@
-
 DECRETO Nº 51.153, DE 5 DE AGÔSTO DE 1961.
 
 Outorga concessão à Televisão Itapoã Sociedade Anônima para estabelecer uma estação de Televisão, em VHF, geradora de programas, na cidade de Salvador, Estado da Bahia.

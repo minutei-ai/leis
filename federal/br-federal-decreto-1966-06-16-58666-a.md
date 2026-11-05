@@ -1,5 +1,3 @@
-###DEC-058666-A-000-16-06-1966@@@
-
 DECRETO Nº 58.666-A, DE 16 DE JUNHO DE 1966.
 
 Regulamenta o disposto nos arts. 18 a 24, da Lei nº 4.869, de 1º de dezembro de 1965 (III Plano Diretor da SUDENE).
@@ -104,17 +102,169 @@ f) o valor dos bens de capital preexistentes a serem incorporados ao projeto, fi
 
 Art. 7º Os projetos beneficiários de aplicação ou reinvestimento de recursos derivados dos Artigos 34 e 18 serão qualificados em 3 (três) faixas distintas de prioridade - designadas pelas letras “A”, “B” e “C” - cada uma das quais expressará a respectiva taxa de participação daqueles recursos no projeto que nela se classifique, e serão alcançados em função da quantidade de pontos de classificação, obtida pelo projeto, observados os limites e especificações da tabela abaixo:
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Faixa de Prioridade</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Taxa de participação dos recursos dos artigos 34 e 18</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:center"><span>Quantidade de pontos de classificação</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>A</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>75% (setenta e cinco por cento)</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Igual ou maior que 50</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>B</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>50% (cinqüenta por cento)</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Igual ou superior a 30 e menor que 50</span></p></td></tr><tr><td style="width:46.15pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>C</span></p></td><td style="width:177.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25% (vinte e cinco por cento)</span></p></td><td style="width:191.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Menor que 30</span></p></td></tr></tbody></table>
+Faixa de Prioridade
+
+Taxa de participação dos recursos dos artigos 34 e 18
+
+Quantidade de pontos de classificação
+
+A
+
+75% (setenta e cinco por cento)
+
+Igual ou maior que 50
+
+B
+
+50% (cinqüenta por cento)
+
+Igual ou superior a 30 e menor que 50
+
+C
+
+25% (vinte e cinco por cento)
+
+Menor que 30
 
 Art. 8º O Conselho Deliberativo da SUDENE, mediante parecer fundamentado da Secretaria Executiva, pronunciar-se-á, em cada caso sôbre a classificação dos projetos nas faixas de prioridade mencionadas no artigo anterior, observado o número de pontos obtido de acôrdo com os critérios abaixo:
 
 I - Para o caso de projetos industriais e de telecomunicações
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que visem à implantação, complementação, modernização ou ampliação de sistemas de telecomunicações sob as formas de telegrafia, telefonia e radiocomunicação, que interliguem, por meio de transmissões recíprocas, duas ou mais comunidades situados na área da atuação da SUDENE ..................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que visem à implantação, complementação, modernização ou ampliação de indústrias básicas e germinativas, definidas como tais aquelas que, a critério da SUDENE, objetivem a produção de bens de capital, de bens duráveis de consumo e de bens de uso generalizado na indústria, agricultura e pesca ..............................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt; text-align:justify"><span>Projetos, cuja localização, no Nordeste, se verifiquem segundo a distribuição de prioridade abaixo:</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>1 - nas áreas dos municípios de Recife e Salvador dos que com êsses atualmente se limitam e nos distritos industriais que servem ou venham a servir àquelas capitais</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>2 - nos municípios dos Estados do Nordeste à exceção do Maranhão, Piauí, Rio Grande do Norte e Sergipe ................................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>3 - nos Estados do Rio Grande do Norte e Sergipe ..........................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>4 - nos Estados do Piauí e do Maranhã ............................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos de implantação, complementação, modernização ou ampliação de indústrias que objetivem a produção de bens destinados à alimentação básica ..............................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que representem atividade pioneira, assim definidos aquêles que devam produzir bens sem similares no Estado onde se localizem ou, excepcionalmente, a critério da SUDENE, bens sem similar em regiões geoeconômicas distintas, de um mesmo Estado, destinados a suprimento do respectivo mercado e utilizando matéria-prima local, não se considerando como produção de bens similar a de caráter incipiente ou artesanal .......................................................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que se enquadrem em programas especiais resultantes de estudos realizados, ou aprovados, pela SUDENE e definidos como de alta prioridade para o desenvolvimento regional ..................................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>g)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que visem à modernização, complementação ou ampliação de indústria, com aumento da respectiva rentabilidade .................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>h)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que visem à modernização, complementação ou ampliação de indústria, com aumento de respectiva rentabilidade .................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>i)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos em que pelo menos 50% (cinqüenta por cento) dos respectivos custos de matérias-primas e materiais secundários sejam constituídos de matérias-primas agrícolas e minerais produzidos no Nordeste, ou de bens intermediários também produzidos na região, a partir daquelas matérias-primas ..................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>j)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que propiciem absorção intensiva de mão-de-obra, assim considerados aquêles que assegurem pelo menos 300 (trezentos) empregos estáveis diretos ou apresentem participação efetiva de salários e encargos trabalhistas e sociais superior a 25% (vinte e cinco por cento) do valor agregado bruto .....................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>k)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos em que participação dos recursos derivados dos Artigos 34 e 18 seja proporcionada, sob qualquer modalidade, por uma quantia de mínima de 10 (dez) pessoas jurídicas distingas, ou quando se tratar de participação em importância superior a 10.000 (dez mil) vêzes o maior salário-mínimo vigente no país, pelo menos 50% (cinqüenta por cento) da mencionada importância sejam proporcionados por 25 (vinte e cinco) pessoas jurídicas distintas, cada uma das quais com a participação mínima de 1% (um por cento) ...........................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>l)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que absorvam nos seus investimentos a maior parcela possível de componentes nacionais e sòmente empreguem bens estrangeiros de valor superior a US$100.000 que não tenham similar nacional e cuja importação se faça mediante financiamentos adequados, ou seja registrada como investimento de capital estrangeiro sem cobertura cambial, nos têrmos da legislação em vigor ..............................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>5</span></p></td></tr></tbody></table>
+a)
+
+Projetos que visem à implantação, complementação, modernização ou ampliação de sistemas de telecomunicações sob as formas de telegrafia, telefonia e radiocomunicação, que interliguem, por meio de transmissões recíprocas, duas ou mais comunidades situados na área da atuação da SUDENE ..................................................
+
+25
+
+b)
+
+Projetos que visem à implantação, complementação, modernização ou ampliação de indústrias básicas e germinativas, definidas como tais aquelas que, a critério da SUDENE, objetivem a produção de bens de capital, de bens duráveis de consumo e de bens de uso generalizado na indústria, agricultura e pesca ..............................................
+
+25
+
+c)
+
+Projetos, cuja localização, no Nordeste, se verifiquem segundo a distribuição de prioridade abaixo:
+
+1 - nas áreas dos municípios de Recife e Salvador dos que com êsses atualmente se limitam e nos distritos industriais que servem ou venham a servir àquelas capitais
+
+5
+
+2 - nos municípios dos Estados do Nordeste à exceção do Maranhão, Piauí, Rio Grande do Norte e Sergipe ................................................................................................
+
+10
+
+3 - nos Estados do Rio Grande do Norte e Sergipe ..........................................................
+
+15
+
+4 - nos Estados do Piauí e do Maranhã ............................................................................
+
+20
+
+d)
+
+Projetos de implantação, complementação, modernização ou ampliação de indústrias que objetivem a produção de bens destinados à alimentação básica ..............................
+
+20
+
+e)
+
+Projetos que representem atividade pioneira, assim definidos aquêles que devam produzir bens sem similares no Estado onde se localizem ou, excepcionalmente, a critério da SUDENE, bens sem similar em regiões geoeconômicas distintas, de um mesmo Estado, destinados a suprimento do respectivo mercado e utilizando matéria-prima local, não se considerando como produção de bens similar a de caráter incipiente ou artesanal .......................................................................................................................
+
+10
+
+f)
+
+Projetos que se enquadrem em programas especiais resultantes de estudos realizados, ou aprovados, pela SUDENE e definidos como de alta prioridade para o desenvolvimento regional ..................................................................................................
+
+10
+
+g)
+
+Projetos que visem à modernização, complementação ou ampliação de indústria, com aumento da respectiva rentabilidade .................................................................................
+
+5
+
+h)
+
+Projetos que visem à modernização, complementação ou ampliação de indústria, com aumento de respectiva rentabilidade .................................................................................
+
+5
+
+i)
+
+Projetos em que pelo menos 50% (cinqüenta por cento) dos respectivos custos de matérias-primas e materiais secundários sejam constituídos de matérias-primas agrícolas e minerais produzidos no Nordeste, ou de bens intermediários também produzidos na região, a partir daquelas matérias-primas ..................................................
+
+5
+
+j)
+
+Projetos que propiciem absorção intensiva de mão-de-obra, assim considerados aquêles que assegurem pelo menos 300 (trezentos) empregos estáveis diretos ou apresentem participação efetiva de salários e encargos trabalhistas e sociais superior a 25% (vinte e cinco por cento) do valor agregado bruto .....................................................
+
+5
+
+k)
+
+Projetos em que participação dos recursos derivados dos Artigos 34 e 18 seja proporcionada, sob qualquer modalidade, por uma quantia de mínima de 10 (dez) pessoas jurídicas distingas, ou quando se tratar de participação em importância superior a 10.000 (dez mil) vêzes o maior salário-mínimo vigente no país, pelo menos 50% (cinqüenta por cento) da mencionada importância sejam proporcionados por 25 (vinte e cinco) pessoas jurídicas distintas, cada uma das quais com a participação mínima de 1% (um por cento) ...........................................................................................
+
+5
+
+l)
+
+Projetos que absorvam nos seus investimentos a maior parcela possível de componentes nacionais e sòmente empreguem bens estrangeiros de valor superior a US$100.000 que não tenham similar nacional e cuja importação se faça mediante financiamentos adequados, ou seja registrada como investimento de capital estrangeiro sem cobertura cambial, nos têrmos da legislação em vigor ..............................................
+
+5
 
 II - Para o caso de projetos agrícolas
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>a)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que objetivem a produção de bens de demanda reconhecidamente insatisfeita, ou de gêneros alimentícios de primeira necessidade e oferta regional insatisfatória .......</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>25</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>b)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que se enquadrem em programas especiais elaborados ou aprovados pela SUDENE e definidos como de relevante interêsse parra o desenvolvimento do Nordeste ............................................................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>c)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos de empreendimentos pioneiros, assim considerados os que se localizem em áreas atualmente inexploradas ou que objetivem a produção de bens ainda não produzidos ou produzidos em escala incipiente no Nordeste ...........................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>d)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que objetivem diversificar a produção em zonas de monoculturas, inclusive mediante liberação de terras agricultáveis para utilização em programas de recolonização e de refôrma agrária ...................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>20</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>e)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que, simultâneamente, permitem o aumento quantitativo e qualitativo da produção agropecuário no Nordeste .................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>15</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>f)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos que impliquem aumento da produtividade de empreendimento preexistente, ou que objetivem a substituição de atividade de baixa rentabilidade por outra rentabilidade superior ..............................................................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>g)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos em que se contemplem a introdução de técnica viáveis de conservação do solo e defesa dos recursos naturais, inclusive técnicas de irrigação e drenagem ............</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr><tr><td style="width:10.7pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>h)</span></p></td><td style="width:389.9pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt; text-align:justify"><span>Projetos de longo prazo de maturação, que contemplem a implantação de culturas permanentes ou silvicultura ...............................................................................................</span></p></td><td style="width:14.25pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>10</span></p></td></tr></tbody></table>
+a)
+
+Projetos que objetivem a produção de bens de demanda reconhecidamente insatisfeita, ou de gêneros alimentícios de primeira necessidade e oferta regional insatisfatória .......
+
+25
+
+b)
+
+Projetos que se enquadrem em programas especiais elaborados ou aprovados pela SUDENE e definidos como de relevante interêsse parra o desenvolvimento do Nordeste ............................................................................................................................
+
+20
+
+c)
+
+Projetos de empreendimentos pioneiros, assim considerados os que se localizem em áreas atualmente inexploradas ou que objetivem a produção de bens ainda não produzidos ou produzidos em escala incipiente no Nordeste ...........................................
+
+20
+
+d)
+
+Projetos que objetivem diversificar a produção em zonas de monoculturas, inclusive mediante liberação de terras agricultáveis para utilização em programas de recolonização e de refôrma agrária ...................................................................................
+
+20
+
+e)
+
+Projetos que, simultâneamente, permitem o aumento quantitativo e qualitativo da produção agropecuário no Nordeste .................................................................................
+
+15
+
+f)
+
+Projetos que impliquem aumento da produtividade de empreendimento preexistente, ou que objetivem a substituição de atividade de baixa rentabilidade por outra rentabilidade superior ..............................................................................................................................
+
+10
+
+g)
+
+Projetos em que se contemplem a introdução de técnica viáveis de conservação do solo e defesa dos recursos naturais, inclusive técnicas de irrigação e drenagem ............
+
+10
+
+h)
+
+Projetos de longo prazo de maturação, que contemplem a implantação de culturas permanentes ou silvicultura ...............................................................................................
+
+10
 
 Parágrafo único. Considerando outros aspectos gerais de essencialidade e disponibilidade de recursos dos arts. 34 e 18, a SUDENE poderá fazer acréscimos de até 10 (dez) pontos e deduções de até 15 (quinze) pontos, no total de pontos atribuídos ao projeto na fôrma dêste artigo.
 

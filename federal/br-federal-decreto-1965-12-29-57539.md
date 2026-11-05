@@ -1,5 +1,3 @@
-###DEC-057539-0-000-29-12-1965@@@
-
 DECRETO Nº 57.539, DE 29 DE DEZEMBRO DE 1965.
 
 Outorga ao Departamento de Águas e Energia do Estado de Pernambuco concessão para distribuir energia elétrica ao distrito de Cimbres, Município de Pesqueira, Estado de Pernambuco.

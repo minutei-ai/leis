@@ -1,5 +1,3 @@
-###DEL-007359-0-000-06-03-1945@@@
-
 DECRETO-LEI N. 7.359 – DE 6 DE MARÇO DE 1945
 
 Modifica o regulamento da Ordem dos Advogados do Brasil

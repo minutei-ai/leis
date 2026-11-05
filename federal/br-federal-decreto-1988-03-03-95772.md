@@ -1,7 +1,3 @@
-1
-
-###DEC-095772-0-000-03-03-1988@@@
-
 DECRETO N° 95.772, DE 3 DE MARÇO DE 1988
 
 Outorga concessão à Comunicações Minas Liberdade Ltda., para explorar serviço de radiodifusão sonora em onde média, na cidade de Passos, Estado de Minas Gerais.

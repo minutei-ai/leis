@@ -1,5 +1,3 @@
-###DEC-006214-0-000-26-09-2007@@@
-
 DECRETO Nº 6.214, DE 26 DE SETEMBRO DE 2007.
 
 Regulamenta o benefício de prestação continuada da assistência social devido à pessoa com deficiência e ao idoso de que trata a Lei no 8.742, de 7 de dezembro de 1993, e a Lei no 10.741, de 1o de outubro de 2003, acresce parágrafo ao art. 162 do Decreto no 3.048, de 6 de maio de 1999, e dá outras providências.
@@ -24,11 +22,7 @@ LUIZ INÁCIO LULA DA SILVA
 
 Luiz Marinho
 
-Patrus Ananias
-
-Este texto não substitui o publicado no DOU de 28.9.2007
-
-ANEXO
+Patrus AnaniasANEXO
 
 REGULAMENTO DO BENEFÍCIO DE PRESTAÇÃO CONTINUADA
 

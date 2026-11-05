@@ -1,5 +1,3 @@
-###DEC-055245-0-000-21-12-1964@@@
-
 DECRETO Nº 55.245, DE 21 DE DEZEMBRO DE 1964.
 
 Dispõe sôbre a corretagem de seguros dos órgãos centralizados da União, autarquias e sociedades de economia mista em que haja participação majoritária ao Poder Público e dá outras providências.
@@ -63,8 +61,6 @@ Mauro Thibau
 Roberto de Oliveira Campos
 
 Oswaldo Cordeiro de Farias
-
-###DEC-055245-0-000-21-12-1964@@@RET01+++
 
 Decreto nº 55.245, de 21 de dezembro de 1964.
 

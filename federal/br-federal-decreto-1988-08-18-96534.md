@@ -1,5 +1,3 @@
-###DEC-096534-0-000-18-08-1988@@@
-
 DECRETO N° 96.534, DE 18 DE AGOSTO DE 1988
 
 Declara luto oficial.

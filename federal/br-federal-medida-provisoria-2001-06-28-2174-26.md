@@ -1,5 +1,3 @@
-###MPV-002174-0-026-28-06-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2.174‑26, DE 28 DE JUNHO DE 2001
 
 Institui, no âmbito do Poder Executivo da União, o Programa de Desligamento Voluntário ‑ PDV, a jornada de trabalho reduzida com remuneração proporcional e a licença sem remuneração com pagamento de incentivo em pecúnia, destinados ao servidor da administração pública direta, autárquica e fundacional.

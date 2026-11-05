@@ -1,5 +1,3 @@
-###DEC-060223-0-000-16-02-1967@@@
-
 DECRTETO Nº 60.223, DE 16 DE FEVEREIRO DE 1967.
 
 Aprova o alteração introduzida nos Estatutos da Pôrto Seguro - Companhia de Seguros Gerais, relativa ao aumento do capital social.

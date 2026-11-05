@@ -1,5 +1,3 @@
-###DEC-084022-0-000-24-09-1979@@@
-
 Decreto nº 84.022, de 24 de setembro de 1979.
 
 Concede autorização à empresa MARATHON PETROLEUM NORTE BRAZIL, LTD. para operar no mar territorial do Brasil, fixado pelo Decreto-lei nº 1.098, de 25 de março de 1970, a serviço da Petróleo Brasileiro S. A - PETROBRÁS.

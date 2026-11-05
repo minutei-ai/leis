@@ -1,5 +1,3 @@
-###DEC-094432-0-000-11-06-1987@@@
-
 DECRETO Nº 94.432, DE 11 DE JUNHO DE 1987
 
 Dispõe sobre a aplicação do disposto no Decreto nº 91.410, de 5 de julho de 1985, aos servidores em exercício na Secretaria de Administração Pública da Presidência da República.

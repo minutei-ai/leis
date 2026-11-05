@@ -1,5 +1,3 @@
-###DEC-082291-0-000-19-09-1978@@@
-
 DECRETO Nº 82.291, de 19 de setembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado de Pernambuco.

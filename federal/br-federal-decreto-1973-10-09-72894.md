@@ -1,5 +1,3 @@
-###DEC-072894-0-000-09-10-1973@@@
-
 DECRETO Nº 72.894, DE 9 DE OUTUBRO DE 1973.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias, situados no Município de São José dos Campos, Estado de São Paulo.

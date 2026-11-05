@@ -1750,7 +1750,8 @@ def build_species_reconciliation() -> dict[str, Any]:
                 'especie': 'decreto-lei',
                 'publicados': published_dl,
                 'errata_correspondencia_inversa': errata['decretos_leis_snapshot_correspondencia_inversa'],
-                'nota': 'Igualdade de contagem não certifica colação de conteúdo (#96 permanece).',
+                'delta_arquivos_vs_errata': published_dl - errata['decretos_leis_snapshot_correspondencia_inversa'],
+                'nota': 'A contagem atual inclui lotes posteriores ao snapshot; presença não certifica colação de conteúdo (#96 permanece).',
             },
             {
                 'especie': 'lei',
@@ -2296,7 +2297,7 @@ def cmd_verify() -> None:
 
     # Reconciliação de espécies (#83)
     recon = load_json(PROVAS / 'reconciliacao-especies-publicadas.json')
-    assert recon['publicados_por_especie_caminho']['decreto-lei'] == 9647
+    assert recon == build_species_reconciliation(), 'reconciliação desatualizada — rode generate'
     assert '#102' in {b['id'] for b in recon['blockers_concretos']}
     assert '#103' in {b['id'] for b in recon['blockers_concretos']}
     assert 'avanco_desde_inventario_inicial' in matriz

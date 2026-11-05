@@ -1,5 +1,3 @@
-###DEC-073741-0-000-06-03-1974@@@
-
 DECRETO Nº 73.741, DE 6 DE MARÇO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Educadora de Limeira S.A., para executar serviço de radiodifusão sonora em onda tropical, na cidade de Limeira, Estado de São Paulo.

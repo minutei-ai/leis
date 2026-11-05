@@ -1,5 +1,3 @@
-###DEC-061584-0-000-20-10-1967@@@
-
 DECRETO Nº 61.584, DE 20 DE OUTUBRO DE 1967.
 
 Concede reconhecimento à Faculdade Estadual de Ciências Econômicas de Maringá.

@@ -1,5 +1,3 @@
-###DEC-092228-0-000-27-12-1985@@@
-
 decreto nº 92.228, de 27 de dezembro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, e declara de interesse social, para fins de desapropriação, parte do imóvel rural denominado "Faxinal dos Domingues", compreendido na referida área, no Município de Fraiburgo, no Estado de Santa Catarina, e dá outras providências.

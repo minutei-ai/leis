@@ -1,5 +1,3 @@
-###DEC-049127-0-000-20-10-1960@@@
-
 DECRETO Nº 49.127, DE 20 DE OUTUBRO DE 1960.
 
 Altera a lotação numérica dos cargos em Comissão de Agente em Agência de Categoria “E” e dos cargos isolados de Tesouraria-Auxiliar, do Quadro Permanente de Pessoal do Instituto de Aposentadoria e Pensões dos Industriarios.

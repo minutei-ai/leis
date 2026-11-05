@@ -1,5 +1,3 @@
-###DEL-001591-0-000-21-12-1977@@@
-
 # Decreto-lei nº 1.591, de 21 de dezembro de 1977
 
 Prorroga o prazo da isenção dos impostos de importação e sobre produtos industrializados para equipamentos cinematográficos, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-065237-0-000-26-09-1969@@@
-
 DECRETO Nº 65.237 - DE 26 DE SETEMBRO DE 1969.
 
 Cria no Ministério das Minas e Energia o Comitê Coordenador dos Estudos Energéticos da Região Nordeste do Brasil.

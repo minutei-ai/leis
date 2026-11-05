@@ -1,5 +1,3 @@
-###DEC-079238-0-000-10-02-1977@@@
-
 dECRETO N.º 79.238, DE 10 DE FEVEREIRO DE 1977.
 
 Concede reconhecimento ao curso de História, da Faculdade de Filosofia, Ciências e Letras "Eugênio Pacelli", com sede na cidade de Pouso Alegre, Estado de Minas Gerais.

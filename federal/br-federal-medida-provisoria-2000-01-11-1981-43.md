@@ -1,7 +1,6 @@
-Senado Federal<br>
-Legislação Brasileira - Normas Jurídicas em Texto Integral
+Senado Federal
 
-###MPV-001981\-0-043\-11\-01-2000@@@
+Legislação Brasileira - Normas Jurídicas em Texto Integral
 
 MEDIDA PROVISÓRIA Nº 1.981-43, DE 11 DE JANEIRO DE 2000.
 

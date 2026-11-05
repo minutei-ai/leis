@@ -1,5 +1,3 @@
-###DEC-076295-0-000-18-09-1975@@@
-
 DECRETO Nº 76.295 - DE 18 DE SETEMBRO DE 1975
 
 Altera o Regulamento do Fundo do Exército (R-198) e dá outras providências.

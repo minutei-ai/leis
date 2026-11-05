@@ -1,5 +1,3 @@
-###DEC-094510-0-000-23-06-1987@@@
-
 DECRETO Nº 94.510, DE 23 DE JUNHO DE 1987.
 
 Cria Função de Assessoramento Superior (FAS), para o Ministério da Fazenda, e dá outras providências.

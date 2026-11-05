@@ -1,5 +1,3 @@
-###DEC-080613-0-000-25-10-1977@@@
-
 DECRETO Nº 80.613, DE 25 DE OUTUBRO DE 1977.
 
 Declara de Utilidade Pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem, em favor de a Petróleo Brasileiro S.A.. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, necessários à construção de oleoduto ligando o Terminal de Utinga à refinaria de Capuava, situados nos Municípios de São Caetano do Sul e Mauá, no Estado de São Paulo.

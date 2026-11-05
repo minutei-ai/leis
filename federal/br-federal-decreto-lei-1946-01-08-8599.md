@@ -1,5 +1,3 @@
-###DEL-008599-0-000-08-01-1946@@@
-
 DECRETO-LEI N. 8.599 – DE 8 DE JANEIRO DE 1946
 
 Dispõe sôbre distribuição de dotações orçamentárias.

@@ -1,5 +1,3 @@
-###DEC-048033-0-000-05-04-1960@@@
-
 DECRETO Nº 43.033, DE 5 DE ABRIL DE 1960.
 
 Autoriza o Ministro da Agricultura a prorrogar à vigência do Decreto nº 46.794, de 4 de setembro de 1959, e estabelece outras providências.

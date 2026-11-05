@@ -1,5 +1,3 @@
-###DEC-002122-0-000-13-01-1997@@@
-
 DECRETO Nº 2.122, DE 13 DE JANEIRO DE 1997
 
 Aprova o Estatuto Social da Casa da Moeda do Brasil (CMB).

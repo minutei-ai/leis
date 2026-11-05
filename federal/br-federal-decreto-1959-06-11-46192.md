@@ -1,5 +1,3 @@
-###DEC-046192-0-000-11-06-1959@@@
-
 DECRETO Nº 46.192, DE 11 DE JUNHO DE 1959.
 
 Declara de utilidade pública a “União dos Agricultores e Criadores” - (UNAC) - com sede em Frederico Westphalen, Estado do Rio de Grande do Sul.

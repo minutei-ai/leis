@@ -1,5 +1,3 @@
-###DEC-090088-0-000-21-08-1984@@@
-
 Decreto nº 90.088, de 21 agosto de 1984.
 
 Dá nova redação ao artigo 2º do Decreto nº 88.374, de 7 de junho de 1983.

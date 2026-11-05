@@ -1,5 +1,3 @@
-###DEC-093599-0-000-21-11-1986@@@
-
 DECRETO Nº 93.599, DE 21 DE NOVEMBRO DE 1986.
 
 Dispõe sobre a estrutura organizacional da Fundação Instituto Brasileiro de Geografia e Estatística - IBGE, e dá outras providências.

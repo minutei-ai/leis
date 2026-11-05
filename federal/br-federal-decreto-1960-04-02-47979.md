@@ -1,5 +1,3 @@
-###DEC-047979-0-000-02-04-1960@@@
-
 DECRETO Nº 47.979, DE 2 DE ABRIL DE 1960.
 
 Declara de utilidade pública, para fins de desapropriação área de terra na cidade de Santa Maria, Rio Grande do Sul.

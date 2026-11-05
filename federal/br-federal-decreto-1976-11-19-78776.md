@@ -1,5 +1,3 @@
-###DEC-078776-0-000-19-11-1976@@@
-
 decreto nº 78.776, 19 de novembro de 1976
 
 Fixa o jator de reajustamento salarial relativo a novembro de 1976.

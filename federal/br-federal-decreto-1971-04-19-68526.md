@@ -1,5 +1,3 @@
-###DEC-068526-0-000-19-04-1971@@@
-
 DECRETO Nº 68.526 - DE 19 DE ABRIL DE 1971.
 
 Declara de utilidade pública o Lar dos Meninos (Ladome), com sede em Presidente Prudente, Estado de São Paulo.

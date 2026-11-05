@@ -1,5 +1,3 @@
-###DEC-074312-0-000-23-07-1974@@@
-
 DECRETO Nº 74.312 - DE 23 DE JULHO DE 1974.
 
 Concede reconhecimento ao curso de Estudos Sociais da Faculdade de Filosofia, Ciências e Letras de Cruzeiro, mantida pelo Instituto de Ensino Superior de Cruzeiro, com sede na cidade de Cruzeiro, Estado de São Paulo.

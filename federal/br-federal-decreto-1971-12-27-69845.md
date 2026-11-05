@@ -1,5 +1,3 @@
-###DEC-069845-0-000-27-12-1971@@@
-
 DECRETO Nº 69.845 - DE 27 DE DEZEMBRO DE 1971
 
 Regulamenta a Lei nº 5.726 de 29 de outubro de 1971.

@@ -1,5 +1,3 @@
-###DEC-061763-0-000-23-11-1967@@@
-
 DECRETO Nº 61.763, DE 23 DE NOVEMBRO DE 1967.
 
 Declara insubsistente o Decreto número 22.628, de 24 de fevereiro de 1947.

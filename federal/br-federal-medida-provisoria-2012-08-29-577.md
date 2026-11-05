@@ -1,5 +1,3 @@
-###MPV-000577-0-000-29-08-2012-PUB-01@@@
-
 MEDIDA PROVISÓRIA N°\- 577, DE 29 DE AGOSTO DE 2012
 
 Dispõe sobre a extinção das concessões de serviço público de energia elétrica e a prestação  temporária do serviço, sobre a intervenção para adequação do serviço público de energia elétrica, e dá outras providências.

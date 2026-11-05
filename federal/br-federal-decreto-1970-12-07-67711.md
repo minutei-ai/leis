@@ -1,5 +1,3 @@
-###DEC-067711-0-000-07-12-1970@@@
-
 Decreto nº 67.711, de 7 de dezembro de 1970.
 
 Concede à Bauxita Santa Rita Limitada o direito de lavrar bauxita, no município de Oriximiná, Estado do Pará.

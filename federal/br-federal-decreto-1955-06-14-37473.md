@@ -1,14 +1,12 @@
-###DEC-037473-0-000-14-06-1955@@@
+**DECRETO Nº 37.473, DE 14 DE JUNHO DE 1955.**
 
-<strong>DECRETO Nº 37.473, DE 14 DE JUNHO DE 1955.</strong>
+***Declara de utilidade pública as áreas de terra necessárias ao aproveitamento hidrelétrico de Peixoto, no Rio Grande, Estado de Minas Gerais, e autoriza a Companhia Paulista de Fôrça e Luz a promover a respectiva desapropriação.***
 
-<em><strong>Declara de utilidade pública as áreas de terra necessárias ao aproveitamento hidrelétrico de Peixoto, no Rio Grande, Estado de Minas Gerais, e autoriza a Companhia Paulista de Fôrça e Luz a promover a respectiva desapropriação.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, atendendo ao que dispõe o Decreto-lei número 3.365, de 21 de junho de 1941, e ao que requer a Companhia Paulista de Fôrça e Luz S. A., com sede no Rio de Janeiro,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição, atendendo ao que dispõe o Decreto-lei número 3.365, de 21 de junho de 1941, e ao que requer a Companhia Paulista de Fôrça e Luz S. A., com sede no Rio de Janeiro,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Ficam declaradas de utilidade pública as áreas de terra adiante discriminadas, situadas nos municípios de Delfinópolis, Passos, Sacramento, Ibiraci, São João Batista do Glória e Cássia, no Estado de Minas Gerais, necessárias ao aproveitamento hidrelétrico de Peixoto, a que se refere o Decreto nº 31.132, de 11 de julho de 1952.
+**Art**. 1º Ficam declaradas de utilidade pública as áreas de terra adiante discriminadas, situadas nos municípios de Delfinópolis, Passos, Sacramento, Ibiraci, São João Batista do Glória e Cássia, no Estado de Minas Gerais, necessárias ao aproveitamento hidrelétrico de Peixoto, a que se refere o Decreto nº 31.132, de 11 de julho de 1952.
 
 1 - Área de duzentos e dezoito mil e oitocentos (218.800) metros quadrados, de propriedade atribuída a Firmiano Alves Maia, de acôrdo com a planta aprovada nº BX-D-9.239-R.
 
@@ -174,16 +172,16 @@
 
 Parágrafo único. As glebas acima discriminadas estão indicadas nas plantas aprovadas pelo Sr. Ministro da Agricultura, constantes do processo D.Ag.4.318-54, da Divisão de Águas do Departamento Nacional da Produção Mineral, do Ministério da Agricultura.
 
-<strong>Art</strong>. 2º A Companhia Paulista de Fôrça e Luz, Sociedade Anônima, fica autorizada a promover, na forma da legislação vigente, a desapropriação das áreas indicadas, com as benfeitorias nelas existentes.
+**Art**. 2º A Companhia Paulista de Fôrça e Luz, Sociedade Anônima, fica autorizada a promover, na forma da legislação vigente, a desapropriação das áreas indicadas, com as benfeitorias nelas existentes.
 
-<strong>Art</strong>. 3º A presente desapropriação é declarada de caráter urgente, para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152, e 9.811, respectivamente de 6 de março de 1942 e 9 de setembro de 1946.
+**Art**. 3º A presente desapropriação é declarada de caráter urgente, para os efeitos do art. 15 do Decreto-lei nº 3.365, de 21 de junho de 1941, modificado pelos de ns. 4.152, e 9.811, respectivamente de 6 de março de 1942 e 9 de setembro de 1946.
 
-<strong>Art</strong>. 4º Êste Decreto entra em vigor na data de sua publicação.
+**Art**. 4º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 5º Revogam-se as disposições em contrário.
+**Art**. 5º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 14 de junho de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Munhoz da Rocha

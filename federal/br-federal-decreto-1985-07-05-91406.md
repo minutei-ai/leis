@@ -1,5 +1,3 @@
-###DEC-091406-0-000-05-07-1985@@@
-
 Decreto nº 91.406 de 5 de julho de 1985.
 
 Altera o prazo de recolhimento das contribuições de Previdência Social, e dá outras providências.
@@ -14,7 +12,29 @@ Art. 2º - São mantidas inalteradas as disposições relativas ao recolhimento 
 
 Art. 3º - Em 1985, o recolhimento das contribuições a que refere o artigo 1º obedecerá ao seguinte calendário:
 
-<table cellspacing="0" cellpadding="0" style="margin-left:70.9pt; border-collapse:collapse"><tbody><tr><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">MÊS (COMPETÊNCIA)</span></p></td><td style="width:138.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial; text-decoration:underline">RECOLHIMENTO (ATÉ DIA)</span></p></td></tr><tr><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Julho</span></p></td><td style="width:138.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">27 de agosto</span></p></td></tr><tr><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Agosto</span></p></td><td style="width:138.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">24 de setembro</span></p></td></tr><tr><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Setembro</span></p></td><td style="width:138.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">21 de outubro</span></p></td></tr><tr><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Outubro</span></p></td><td style="width:138.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">18 de novembro</span></p></td></tr><tr><td style="width:130.95pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">Novembro</span></p></td><td style="width:138.05pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="widows:0; orphans:0; font-size:10pt"><span style="font-family:Arial">13 de dezembro</span></p></td></tr></tbody></table>
+MÊS (COMPETÊNCIA)
+
+RECOLHIMENTO (ATÉ DIA)
+
+Julho
+
+27 de agosto
+
+Agosto
+
+24 de setembro
+
+Setembro
+
+21 de outubro
+
+Outubro
+
+18 de novembro
+
+Novembro
+
+13 de dezembro
 
 Art. 4º - O Ministério da Previdência e Assistência Social expedirá normas necessárias à implantação do calendário a que se fere o artigo 3º deste Decreto.
 

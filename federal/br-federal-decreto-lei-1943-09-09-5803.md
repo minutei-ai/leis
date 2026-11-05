@@ -1,5 +1,3 @@
-###DEL-005803-0-000-09-09-1943@@@
-
 DECRETO‑LEI N. 5.803 – DE 9 DE SETEMBRO DE 1943
 
 Cria funções gratificadas no Ministério da Agricultura e dá outras providências

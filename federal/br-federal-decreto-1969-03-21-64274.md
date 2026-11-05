@@ -1,5 +1,3 @@
-###DEC-064274-0-000-21-03-1969@@@
-
 DECRETO Nº 64.274, DE 21 DE MARÇO DE 1969.
 
 Autoriza a cessão, sob a forma de utilização gratuita, de terreno que menciona, situado na Avenida Brasil, no Estado da Guanabara.

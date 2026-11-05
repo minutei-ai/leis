@@ -1,5 +1,3 @@
-###DEC-072374-0-000-15-06-1973@@@
-
 Decreto nº 72.374, de 15 de junho de 1973.
 
 Altera o artigo 7º, do Decreto número 67.505, de 6 de novembro de 1970.

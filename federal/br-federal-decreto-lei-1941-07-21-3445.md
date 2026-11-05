@@ -1,5 +1,3 @@
-###DEL-003445-0-000-21-07-1941@@@
-
 DECRETO-LEI N. 3.445 – DE 21 DE JULHO DE 1941
 
  Dispõe sobre a taxa de fiscalização de Empresas Moageiras

@@ -1,5 +1,3 @@
-###DEC-067390-0-000-16-10-1970@@@
-
 DECRETO Nº 67.390, DE 16 DE OUTUBRO DE 1970.
 
 Declara caduco o Decreto nº 38.827 de 5 de março de 1956.

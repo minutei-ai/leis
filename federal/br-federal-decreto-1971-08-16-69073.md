@@ -1,5 +1,3 @@
-###DEC-069073-0-000-16-08-1971@@@
-
 DECRETO Nº 69.073, DE 16 DE AGÔSTO DE 1971.
 
 Redistribui cargos, com os respectivos ocupantes, do Instituto Brasileiro de Desenvolvimento Florestal para o Ministério da Agricultura.

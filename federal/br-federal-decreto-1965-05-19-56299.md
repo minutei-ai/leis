@@ -1,5 +1,3 @@
-###DEC-056299-0-000-19-05-1965@@@
-
 DECRETO Nº 55.299, DE 19 DE MAIO DE 1965.
 
 Declara de utilidade pública a Santa Casa de Misericórdia de Bauru, com sede em Bauru, Estado de São Paulo.

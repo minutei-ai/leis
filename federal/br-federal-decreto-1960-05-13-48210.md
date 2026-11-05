@@ -1,5 +1,3 @@
-###DEC-048210-0-000-13-05-1960@@@
-
 DECRETO Nº 48.210, DE 13 DE MAIO DE 1960.
 
 Autoriza o cidadão brasileiro Romulo Carvalho a pesquisar mica, quartzo e feldspato, no município de Eugenópolis, Estado de Minas Gerais.

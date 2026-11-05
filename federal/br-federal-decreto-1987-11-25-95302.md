@@ -1,5 +1,3 @@
-###DEC-095302-0-000-25-11-1987@@@
-
 DECRETO N° 95.302, DE 25 DE NOVEMBRO DE 1987.
 
 Dispõe sobre a transformação em Missão Diplomática permanente da Representação Especial em Viena.
@@ -21,8 +19,6 @@ Brasília, em 25 de novembro de 1987; 166° da Independência e 99° da Repúbli
 JOSÉ SARNEY
 
 Roberto Costa de Abreu Sodré
-
-###DEC-095302-0-000-25-11-1987@@@REP01+++
 
 DECRETO N° 95.302, DE 25 DE NOVEMBRO DE 1987.
 

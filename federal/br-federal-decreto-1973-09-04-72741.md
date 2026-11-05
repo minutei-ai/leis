@@ -1,5 +1,3 @@
-###DEC-072741-0-000-04-09-1973@@@
-
 DECRETO Nº 72.741, DE 4 DE SETEMBRO DE 1973.
 
 Concede á Mineração Serra do Cipó Ltda. o direito de lavrar minério de manganês no Município de Santana do Pirapama, Estado de Minas Gerais.

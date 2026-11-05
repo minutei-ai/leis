@@ -1,5 +1,3 @@
-###DEC-059106-0-000-19-08-1966@@@
-
 Decreto nº 59.106, de 19 de agÔsto de 1966.
 
 Concede à Companhia Pelotense de Eletricidade autorização para funcionar como emprêsa de energia elétrica.

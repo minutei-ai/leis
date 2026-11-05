@@ -1,7 +1,3 @@
-1
-
-###MPV-000799-0-000-30-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 799, DE 30 DE DEZEMBRO DE 1994
 
 Dispõe sobre a Nota do Tesouro Nacional - NTN e sua utilização para aquisição de bens e direitos alienados no âmbito do Programa Nacional de Desestatização (PND), instituído pela Lei nº 8.031, de 12 de abril de 1990, consolidando as normas sobre a matéria constante da Lei nº 8.177, de 1º de março de 1991, e da Lei nº 8.249, de 24 de outubro de 1991, e altera o art. 3º da Lei nº 8.249/91.

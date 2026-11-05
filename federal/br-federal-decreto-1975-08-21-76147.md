@@ -1,5 +1,3 @@
-###DEC-076147-0-000-21-08-1975@@@
-
 DECRETO Nº 76.147 - DE 21 DE AGOSTO DE 1975
 
 Autoriza o funcionamento do curso de Turismo da Faculdade de Comunicação e Turismo Hélio Alonso, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

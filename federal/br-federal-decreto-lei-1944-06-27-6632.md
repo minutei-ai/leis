@@ -1,5 +1,3 @@
-###DEL-006632-0-000-27-06-1944@@@
-
 DECRETO-LEI N. 6.632 – DE 27 DE JUNHO DE 1944
 
 Dispõe sôbre o cômputo de período de licença de extranumerários-mensalistas e contratados da União

@@ -1,5 +1,3 @@
-###DEC-084848-0-000-26-06-1980@@@
-
 decreto nº 84.848, de 26 de junho de 1980.
 
 Concede indulto, reduz penas e dá outras providências.

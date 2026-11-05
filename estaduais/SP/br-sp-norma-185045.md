@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=185045)
-
 # DECRETO Nº 63.168, DE 19 DE JANEIRO DE 2018
 
 ### _Revoga o Decreto nº 63.150, de 12 de janeiro de 2018_
@@ -16,8 +14,12 @@ Palácio dos Bandeirantes, 19 de janeiro de 2018
 
 GERALDO ALCKMIN\]
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 19 de janeiro de 2018.

@@ -1,14 +1,12 @@
-###DEC-037039-0-000-15-03-1955@@@
+**DECRETO Nº 37.039, DE 15 DE MARÇO DE 1955.**
 
-<strong>DECRETO Nº 37.039, DE 15 DE MARÇO DE 1955.</strong>
+***Dá nova redação a letra a do artigo 53, do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954.***
 
-<em><strong>Dá nova redação a letra a do artigo 53, do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º É dado à letra <em>a</em> do artigo 53 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, a seguinte redação:
+**Art**. 1º É dado à letra *a* do artigo 53 do Regulamento aprovado pelo Decreto nº 34.999, de 2 de fevereiro de 1954, a seguinte redação:
 
 “Art. 53 ....................................................................................................................................
 
@@ -20,6 +18,6 @@ O Símbolo do Exército guardará sempre suas côres características. Quando bo
 
 Rio de Janeiro, 15 de março de 1955; 134º da Independência e 67º da República.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

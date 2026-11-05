@@ -1,5 +1,3 @@
-###DEC-077928-0-000-30-06-1976@@@
-
 DECRETO Nº 77.928, DE 30 DE JUNHO DE 1976.
 
 Declara de utilidade pública para fins de constituição de servidão administrativa faixa de terra destinada à passagem de linha de transmissão da Companhia Elétrica Caiuá no Estado de São Paulo.

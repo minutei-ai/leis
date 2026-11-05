@@ -1,5 +1,3 @@
-###DEC-060343-0-000-09-03-1967@@@
-
 DECRETO Nº 60.343, DE 9 DE MARÇO DE 1967.
 
 Aprova o Regulamento do Serviço de Aprendizagem Comercial (SENAC).

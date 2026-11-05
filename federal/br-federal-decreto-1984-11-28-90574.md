@@ -1,5 +1,3 @@
-###DEC-090574-0-000-28-11-1984@@@
-
 Decreto nº 90.574, de 28 de novembro de 1984.
 
 Altera o Decreto nº 90.079, de 16 de agosto de 1984, que "dispõe sobre o Regulamento da Escola Superior de Guerra e dá outras providências".

@@ -1,5 +1,3 @@
-###DEC-071308-0-000-03-11-1972@@@
-
 Decreto Nº 71.308, DE 3 DE NOVEMBRO DE 1972.
 
 Aprova o Regulamento da Diretoria de Serviço Militar, do Departamento Geral do Pessoal do Ministério do Exército e dá outras providências.

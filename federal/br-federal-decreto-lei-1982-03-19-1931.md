@@ -1,5 +1,3 @@
-###DEL-001931-0-000-19-03-1982@@@
-
 # Decreto nº 1.931 em 19 de março de 1982
 
 Modifica o Decreto-lei nº 1.893, de 1981, que dispõe sobre a adoção de medidas de incentivo à arrecadação federal.

@@ -1,5 +1,3 @@
-###DEC-086789-0-000-28-12-1981@@@
-
 Decreto nº 86.789, De 28 de dezembro de 1981.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixas de terra destinadas à passagem de linhas de transmissão da LIGHT - Serviços de Eletricidade S.A., no Estado de São Paulo.

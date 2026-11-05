@@ -18,10 +18,12 @@ III  – a vigilância epidemiológica e ações de saúde de interesse individ
 
 IV  – o controle e a fiscalização das agressões ao meio ambiente, nele compreendido o ambiente de trabalho, em comum acordo com as organizações competentes das esferas federal e estadual.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA ADMINISTRAÇÃO DO FUNDO
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DA SUBORBINAÇÃO DO FUNDO
 
 Art. 2º  O Fundo Municipal de Saúde ficará subordinado diretamente ao Secretario Municipal de Saúde.
@@ -46,10 +48,12 @@ VII – assinar cheques com o responsável pela Tesouraria, quando for o caso;
 
 VIII – ordenar empenhos e pagamentos das despesas do Fundo;
 
-IX – firmar convênios e contratos, inclusive de empréstimos, juntamente com o Prefeito, referente a recursos que serão administrados pelo Fundo.<br>
+IX – firmar convênios e contratos, inclusive de empréstimos, juntamente com o Prefeito, referente a recursos que serão administrados pelo Fundo.
+
  
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DA COORDENAÇÃO DO FUNDO
 
 Art. 4º  São atribuições do Coordenador do Fundo:
@@ -84,10 +88,12 @@ XI – manter o controle e a avaliação da produção das unidade integrantes d
 
 XII – encaminhar, mensalmente, ao Secretario Municipal de Saúde, relatórios de acompanhamento e avaliação da produção de serviços prestados pela rede municipal de saúde.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DOS RECURSOS DO FUNDO
 
-SUBSEÇÃO I<br>
+SUBSEÇÃO I
+
 DOS RECURSOS FINANCEIROS
 
 Art. 5º São receitas do Fundo:
@@ -104,7 +110,8 @@ V – as parcelas do produto de arrecadação de outras receitas próprias oriun
 
 VI – doações em espécie feitas diretamente para o Fundo.
 
-VII -  contrapartida do Município, com meta de atingir o mínimo de 10% (dez por cento), do Orçamento Municipal.<br>
+VII -  contrapartida do Município, com meta de atingir o mínimo de 10% (dez por cento), do Orçamento Municipal.
+
 (Redação acrescentada pela Lei Ordinária nº 1.665, de 10 de novembro de 1997).
 
 § 1º - As receitas referidas neste artigo serão depositadas, obrigatoriamente, em conta especial a ser aberta e mantida em agencia de estabelecimento oficial de crédito.
@@ -115,7 +122,8 @@ I – da experiência de disponibilidade em função do cumprimento de programa�
 
 II – de previa aprovação do Secretario Municipal de Saúde.
 
-SUBSEÇÃO   II<br>
+SUBSEÇÃO   II
+
 DOS ATIVOS DO FUNDO
 
     Art. 6º - constituem ativos do Fundo Municipal de Saúde:
@@ -132,15 +140,18 @@ V – bens moveis e imóveis destinados à administração do sistema de saúde 
 
 Parágrafo Único – Anualmente, se processará o inventario dos bens e direitos vinculados ao Fundo.
 
-SUBSEÇÃO<br>
+SUBSEÇÃO
+
 DOS PASSIVOS DO FUNDO
 
     Art. 7º  Constituem passivos do Fundo Municipal de Saúde as obrigações de qualquer natureza que porventura o Município venha a assumir para a manutenção e o funcionamento dos sistema municipal de saúde.
 
-SEÇÃO   V<br>
+SEÇÃO   V
+
 DO ORÇAMENTO E DA CONTABILIDADE
 
-SUBSEÇÃO   I<br>
+SUBSEÇÃO   I
+
 DO ORÇAMENTO
 
     Art. 8º  O orçamento do Fundo Municipal de Saúde evidenciará as políticas e o programa de trabalhos governamentais, observados o Plano  Plurianual, a Lei de Diretrizes Orçamentárias e os princípios da universalidade e do  equilíbrio.
@@ -149,7 +160,8 @@ DO ORÇAMENTO
 
     § 2º - O orçamento do Fundo Municipal de Saúde observará, na sua elaboração e na sua execução, os padrões e normas estabelecidas na legislação pertinente.
 
-SUBSEÇÃO  II<br>
+SUBSEÇÃO  II
+
 DA CONTABILIDADE
 
 Art. 9º  A contabilidade do Fundo Municipal de Saúde tem por objetivo evidenciar a situação financeira, patrimonial e orçamentária do Sistema municipal de saúde, observados os padrões e normas estabelecidas na legislação pertinente.
@@ -164,10 +176,12 @@ Art. 11º   A escrituração contábil será feita pelo método das partidas d
 
 § 3º - As demonstrações e ao relatórios produzidos passarão a integrar a contabilidade – geral do Município.
 
-SEÇÃO VI<br>
+SEÇÃO VI
+
 DA EXECUÇÃO ORÇAMENTARIA
 
-SUBSEÇÃO   I<br>
+SUBSEÇÃO   I
+
 DA DESPESA
 
     Art. 12º  Imediatamente, após a promulgação da Lei de Orçamento, o Secretario Municipal de Saúde aprovará o quadro de cotas trimestrais que serão distribuídas entre as unidade executoras do sistema municipal de saúde.
@@ -196,12 +210,14 @@ VII - desenvolvimento de programas de capacitação e aperfeiçoamento de recurs
 
 VIII – atendimento de despesas diversas, de caráter urgente e inadiável, necessárias à execução das ações e serviços de saúde mencionados no art. 1º da presente Lei.
 
-SUBSEÇÃO   II<br>
+SUBSEÇÃO   II
+
 DAS RECEITAS
 
     Art. 15º  A execução orçamentária das receitas se processará através da obtenção do seu produto nas fontes determinadas nesta Lei.
 
-CAPÍTULO    III<br>
+CAPÍTULO    III
+
 DISPOSIÇÕES FINAIS
 
 Art. 16º  O Fundo Municipal de Saúde terá vigência ilimitada.
@@ -214,18 +230,18 @@ Parágrafo Único – As despesas a serem atendidas pelo presente Crédito corre
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, aos vinte e quatro dias do mês de outubro de hum mil novecentos e noventa e hum.
 
-<br>
-SEBASTIÃO LEMES VIANA<br>
+SEBASTIÃO LEMES VIANA
+
 PREFEITO MUNICIPAL
 
-<br>
-PAULO RÉGIS MATOS VALADARES<br>
+PAULO RÉGIS MATOS VALADARES
+
 SEC. DO GOV.  MUNICIPAL
 
-<br>
-LUCILIA VIANA DE REZENDE<br>
+LUCILIA VIANA DE REZENDE
+
 SEC. DE SAÚDE
 
-<br>
-LUIS CARLOS DE CASTRO<br>
+LUIS CARLOS DE CASTRO
+
 SEC. DE FINANÇAS

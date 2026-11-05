@@ -1,5 +1,3 @@
-###DEC-005917-0-000-28-09-2006@@@
-
 DECRETO Nº 5.917, DE 28 DE SETEMBRO DE 2006.
 
 Prorroga o prazo referido no caput do art.15 do Decreto nº 5.406, de 30 de março de 2005, que regulamenta o cadastro obrigatório para fins de fiscalização das sociedades empresárias, das sociedades simples e dos empresários individuais que prestam serviços turísticos remunerados.
@@ -17,5 +15,3 @@ Brasília, 28 de setembro de 2006; 185º da Independência e 118º da República
 LUIZ INÁCIO LULA DA SILVA
 
            Walfrido Silvino dos Mares Guia Neto
-
-Este texto não substitui o publicado no D.O.U. de 29.9.2006.

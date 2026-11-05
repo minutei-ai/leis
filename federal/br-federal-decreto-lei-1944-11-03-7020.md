@@ -1,5 +1,3 @@
-###DEL-007020-0-000-03-11-1944@@@
-
 DECRETO-LEI N. 7.O20 – DE 3 DE NOVEMBRO DE 1944
 
 Autoriza o Prefeito do Distrito Federal a isentar a “Venerável Ordem Terceira do Senhor Bom Jesus do Calvário da Via-Sacra” de pagamento do impôsto que menciona

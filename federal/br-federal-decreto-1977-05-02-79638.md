@@ -1,5 +1,3 @@
-###DEC-079638-0-000-02-05-1977@@@
-
 DECRETO Nº 79.638, DE 2 DE MAIO DE 1977
 
 Retifica a concessão de lavra outorgada à S.A. Mineração da Trindade - SAMITRI, pelo Decreto n.º 65.123, de 10 de setembro de 1969.

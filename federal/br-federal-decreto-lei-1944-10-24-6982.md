@@ -1,5 +1,3 @@
-###DEL-006982-0-000-24-10-1944@@@
-
 DECRETO-LEI N. 6.982 – DE 24 DE OUTUBRO DE 1944
 
 Dispõe sôbre o pessoal da Comissão Executiva dos Produtos de  Mandioca

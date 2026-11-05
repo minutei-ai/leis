@@ -1,7 +1,3 @@
-1
-
-###DEC-085807-0-000-11-03-1981@@@
-
 Decreto nº 85.807, de 11 de março de 1981.
 
 Concede à Telecomunicações de Mato Grosso S.A. - TELEMAT, empresa controlada da TELECOMUNICAÇÕES BRASILEIRAS S.A. - TELEBRÁS, autorização para promover o aumento do seu capital social.

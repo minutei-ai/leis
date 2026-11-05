@@ -1,5 +1,3 @@
-###DEC-068302-0-000-01-03-1971@@@
-
 DECRETO Nº 68.302, DE 1 DE MARÇO DE 1971.
 
 Confisca bem de Antonio dos Santos Netto e dá outras providências.

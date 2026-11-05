@@ -1,5 +1,3 @@
-###DEC-045447-0-000-23-02-1959@@@
-
 decreto nº 45.447, de 23 de fevereiro de 1959.
 
 Concede o abono provisório aos servidores da Caixa Econômica Federal de Minas Gerais.

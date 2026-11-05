@@ -1,5 +1,3 @@
-###DEL-008138-0-000-25-10-1945@@@
-
 DECRETO-LEI N. 8.138 – DE 25 DE OUTUBRO DE 1945
 
 Abre ao Ministério do Trabalho, Indústria e Comércio o crédito especial de Cr$ 550.000,00 para despesas com a Delegação do Brasil à 27ª Conferência Internacional do Trabalho.

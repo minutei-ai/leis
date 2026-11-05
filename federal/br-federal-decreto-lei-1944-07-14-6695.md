@@ -1,5 +1,3 @@
-###DEL-006695-0-000-14-07-1944@@@
-
 DECRETO-LEI N. 6.695 – DE 14 DE JULHO DE 1944
 
 Dispõe sôbre registro e distribuição de crédito e registro de despesa na Prefeitura do Distrito Federal

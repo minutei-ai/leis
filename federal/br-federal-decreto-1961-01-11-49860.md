@@ -1,5 +1,3 @@
-###DEC-049860-0-000-11-01-1961@@@
-
 DECRETO Nº 49.860, DE 11 DE JANEIRO DE 1961.
 
 Prorroga a concessão outorgada a Companhia Rádio Internacional do Brasil, para executar os serviços radiotelegráfico público internacional e radiotelegráfico público restrito internacional.

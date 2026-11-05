@@ -1,5 +1,3 @@
-###DEC-060540-0-000-06-04-1967@@@
-
 DECRETO Nº 60.540, DE 6 DE ABRIL DE 1967.
 
 Revoga o art. 1º do Decreto número 59.399, de 18 de outubro de 1966, na parte referente ao 2º Grupo de Artilharia de Costa.

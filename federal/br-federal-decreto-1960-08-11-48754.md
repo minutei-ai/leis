@@ -1,5 +1,3 @@
-###DEC-048754-0-000-11-08-1960@@@
-
 DECRETO Nº 48.754, DE 11 DE AGôSTO DE 1960.
 
 Concede reconhecimento a curso.

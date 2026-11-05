@@ -1,5 +1,3 @@
-###DEC-055102-0-000-01-12-1964@@@
-
 DECRETO Nº 55.102, DE 1º DE DEZEMBRO DE 1964.
 
 Concede indulto a sentenciados pela forma menciona.

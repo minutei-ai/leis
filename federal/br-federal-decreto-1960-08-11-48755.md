@@ -1,5 +1,3 @@
-###DEC-048755-0-000-11-08-1960@@@
-
 DECRETO Nº 48.755, DE 11 DE AGÔSTO DE 1960.
 
 Cria a Agência do Serviço de Economia Rural no Estado da Guanabara.

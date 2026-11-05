@@ -1,5 +1,3 @@
-###DEC-066312-0-000-12-03-1970@@@
-
 DECRETO Nº 66.312 - DE 12 DE MARÇO DE 1970
 
 Autoriza o Ministro da Fazenda a conceder a Garantia da União a operação externa e dá outras providências.

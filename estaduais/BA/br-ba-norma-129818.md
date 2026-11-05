@@ -4,7 +4,8 @@ Dispõe sobre o procedimento de inscrição de créditos não tributários em d�
 
 **O VICE-GOVERNADOR, NO EXERCÍCIO DO CARGO DE GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS DISPOSIÇÕES PRELIMINARES
 
 Art. 1º - Esta Lei dispõe sobre o procedimento administrativo de inscrição em dívida ativa de créditos não tributários provenientes da Administração Pública Estadual e disciplina os mecanismos de controle da cobrança dos títulos executivos extrajudiciais titularizados pela Fazenda Pública Estadual.
@@ -25,7 +26,8 @@ II - na hipótese de revelia;
 
 III - após o transcurso do prazo para pagamento fixado na notificação de decisão administrativa irrecorrível.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS ATOS PREPARATÓRIOS À INSCRIÇÃO EM DÍVIDA ATIVA NÃO TRIBUTÁRIA
 
 Art. 5º - Os créditos não tributários sujeitos à inscrição em dívida ativa deverão ser obrigatoriamente constituídos mediante processo administrativo, com observância aos princípios da legalidade, impessoalidade, moralidade, publicidade, eficiência, celeridade, razoabilidade, proporcionalidade, motivação, devido processo legal e ampla defesa, segurança jurídica, oficialidade, verdade material, gratuidade e, quando cabível, da instrumentalidade das formas.
@@ -42,7 +44,8 @@ Art. 6º - Compete ao órgão jurídico do titular do crédito não tributário 
 
 § 4º - O Termo de Inscrição em Dívida Ativa Não Tributária, a Certidão de Dívida Ativa dele extraída e a petição inicial em processo de execução fiscal deverão ser subscritos pelo Procurador do Estado, manualmente ou por chancela eletrônica, observadas as disposições legais.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PROCEDIMENTO DE INSCRIÇÃO DO CRÉDITO NÃO TRIBUTÁRIO EM DÍVIDA ATIVA
 
 Art. 7º - A inscrição do crédito não tributário em dívida ativa será efetuada mediante o apontamento em livro próprio dos seguintes dados, com a consequente expedição da Certidão de Inscrição em Dívida Ativa Não Tributária (CDA-NT):
@@ -103,7 +106,8 @@ Parágrafo único - O disposto neste artigo se aplica às autarquias e fundaçõ
 
 Art. 13 - O Procurador Geral do Estado poderá autorizar o recebimento de bem imóvel ou móvel em pagamento de dívida ativa não tributária, nas condições e forma regulamentares.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS ACRÉSCIMOS LEGAIS
 
 Art. 14 - O crédito inscrito em dívida ativa não tributária, inadimplido nos prazos previstos na legislação, corrigido monetariamente, será acrescido de juros de mora e honorários advocatícios, sem prejuízo da imposição de multas previstas em contrato ou legislação específica.
@@ -118,7 +122,8 @@ Art. 15 - A partir da inscrição em dívida ativa, passará a incidir o percent
 
 Parágrafo único - Os honorários previstos no caput deste artigo terão a mesma destinação daqueles incidentes sobre a dívida ativa tributária.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DO PARCELAMENTO
 
 Art. 16 - O pedido de parcelamento implica confissão irretratável do débito e a expressa renúncia ou desistência de recurso administrativo ou judicial, bem como de propositura de ação judicial.
@@ -131,7 +136,8 @@ Art. 18 - O parcelamento do crédito da dívida ativa não tributária observar�
 
 Parágrafo único - Enquanto não advier o regulamento previsto no caput deste artigo aplicar-se-ão, no que couber, as normas relativas ao parcelamento do crédito da dívida ativa tributária, inclusive quanto ao número máximo e ao valor mínimo de parcelas.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DA DESTINAÇÃO DOS RECURSOS
 
 Art. 19 - Os recursos provenientes da cobrança administrativa da dívida ativa não tributária das entidades integrantes da Administração Indireta terão a seguinte destinação:
@@ -144,7 +150,8 @@ Parágrafo único - A aplicação do regime orçamentário de caixa que resulta 
 
 Art. 20 - Os honorários advocatícios provenientes da cobrança administrativa da dívida ativa não tributária da Administração Direta serão transferidos integralmente ao Fundo de Modernização da Procuradoria Geral do Estado.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 21 - O Procurador Geral do Estado adotará as providências necessárias à implementação das atividades administrativas de inscrição de créditos não tributários em dívida ativa disciplinados por esta Lei, no prazo de 180 (cento e oitenta) dias, a contar de sua publicação.

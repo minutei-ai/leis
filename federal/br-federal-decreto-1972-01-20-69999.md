@@ -1,5 +1,3 @@
-###DEC-069999-0-000-20-01-1972@@@
-
 Decreto Nº 69.999, De 20 de Janeiro de 1972.
 
 Declara de utilidade pública a Arquiconfraria do Imaculado Coração de Maria, com sede em São José do Rio Preto, Estado de São Paulo.

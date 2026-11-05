@@ -1,5 +1,3 @@
-###DEC-094050-0-000-23-02-1987@@@
-
 DECRETO Nº 94.050, DE 23 DE FEVEREIRO DE 1987.
 
 Retifica dispositivos do Decreto nº 89.710, de 28 de maio de 1984.

@@ -1,7 +1,3 @@
-1
-
-###DEC-000702-0-000-22-12-1992@@@
-
 Decreto N° 702, DE 22 DE DEZEMBRO DE 1992
 
 Fixa a lotação dos Adidos e Adjuntos de Adidos Militares junto às representações diplomáticas no exterior, e dá outras providências.

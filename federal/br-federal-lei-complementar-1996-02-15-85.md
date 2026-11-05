@@ -1,7 +1,3 @@
-1
-
-###LCP-000085-0-000-15-02-1996@@@
-
 LEI COMPLEMENTAR Nº 85, DE 15 DE FEVEREIRO DE 1996.
 
 Altera o art. 7º da Lei Complementar nº 70, de 30 de dezembro de 1991, que estabelece a Contribuição para Financiamento da Seguridade Social - COFINS.

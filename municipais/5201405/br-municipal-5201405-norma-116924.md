@@ -4,7 +4,8 @@ Autoriza o Chefe do Poder Executivo Municipal a firmar Termo de Cooperação com
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA APROVOU E EU, PREFEITO MUNICIPAL, SANCIONO A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS PRINCÍPIOS E DAS DISPOSIÇÕES GERAIS
 
 Art. 1º Fica o Chefe do Poder Executivo Municipal autorizado a firmar Termo de Cooperação Técnica com o Tribunal de Justiça do Estado de Goiás, visando operacionalizar sistemas eficientes para fins de protocolização, fiscalização, controle, administração e distribuição automática das ações referentes às execuções fiscais.
@@ -25,7 +26,8 @@ Art. 4º As medidas conciliadoras, instituídas por esta Lei, para quitação de
 
 Parágrafo único. Os débitos não ajuizados deverão ser negociados junto às unidades de atendimento da Secretaria Municipal de Fazenda.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA TRANSAÇÃO JUDICIAL
 
 Art. 5º A transação judicial tributária consiste em concessões mútuas por parte do Município de Aparecida de Goiânia e do devedor do crédito tributário de ITBI, IPTU, ITU, ISS, MULTAS, TAXAS E CONTRIBUIÇÃO DE MELHORIA, amparada por cláusulas exorbitantes do direito comum, tendo como objetivo por fim às ações judiciais em tramitação.
@@ -74,7 +76,8 @@ Art. 12. O termo de transação dos créditos ajuizados será homologado por sen
 
 parágrafo único e, exclusivamente pelo contribuinte ou por seu representante legal.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO PARCELAMENTO JUDICIAL
 
 Art. 13. O parcelamento judicial consiste em medida facilitadora do adimplemento do crédito tributário, mediante o aproveitamento das remissões consignadas nesta Lei, cuja parcela não pode ser inferior a R$100,00 (cem reais).
@@ -91,11 +94,14 @@ Art. 18. Esta Lei entrará em vigor na data de sua publicação.
 
 Gabinete do Prefeito Municipal de Aparecida de Goiânia, Estado de Goiás, aos 12 dias do mês de novembro do ano de 2015.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-TARCÍSIO FRANCISCO DOS SANTOS<br>
+TARCÍSIO FRANCISCO DOS SANTOS
+
 Procurador Geral do Município

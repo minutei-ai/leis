@@ -1,5 +1,3 @@
-###DEC-005303-0-000-10-12-2004@@@
-
 DECRETO Nº 5.303 DE 10 DE DEZEMBRO DE 2004
 
 Dá nova redação ao art. 3º do Decreto nº 5.079, de 12 de maio de 2004, que dispõe sobre a composição, estruturação, competência e funcionamento do Conselho Nacional de Segurança Alimentar e Nutricional - CONSEA.

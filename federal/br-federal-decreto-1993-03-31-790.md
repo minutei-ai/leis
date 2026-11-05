@@ -1,7 +1,3 @@
-1
-
-###DEC-000790-0-000-31-03-1993@@@
-
 DECRETO N° 790, DE 31 DE MARÇO DE 1993
 
 Altera o Regulamento do Serviço Nacional de Aprendizagem Rural SENAR, aprovado pelo Decreto n° 566, de 10 de junho de 1992.

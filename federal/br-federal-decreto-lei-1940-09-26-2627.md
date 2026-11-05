@@ -1,5 +1,3 @@
-###DEL-002627-0-000-26-09-1940@@@
-
 DECRETO-LEI N. 2.627 – DE 26 DE SETEMBRO DE 1940
 
 Dispõe sobre as sociedades por ações

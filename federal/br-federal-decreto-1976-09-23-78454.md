@@ -1,5 +1,3 @@
-###DEC-078454-0-000-23-09-1976@@@
-
 decreto nº 78.454, de 23 de setembro de 1976.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas - DNOCS, área de terra abrangida pela bacia hidráulica e faixa seca do Açude Público "Sabugi", no Estado do Rio Grande do Norte.

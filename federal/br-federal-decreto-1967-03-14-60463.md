@@ -1,5 +1,3 @@
-###DEC-060463-0-000-14-03-1967@@@
-
 Decreto nº 60.463, de 14 de março de 1967.
 
 Aprova e manda executar o Regimento Interno da Divisão de Segurança e Informações do Ministério das Relações Exteriores.

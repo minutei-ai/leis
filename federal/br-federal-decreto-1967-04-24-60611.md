@@ -1,5 +1,3 @@
-###DEC-060611-0-000-24-04-1967@@@
-
 DECRETO Nº 60.611, DE 24 DE ABRIL DE 1967.
 
 Dispõe em caráter transitório, sôbre apuração de merecimento para os fins de promoção dos funcionários públicos civis da União e das Autarquias federais e dá outras providências.

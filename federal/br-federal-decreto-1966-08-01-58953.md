@@ -1,5 +1,3 @@
-###DEC-058953-0-000-01-08-1966@@@
-
 DECRETO Nº 58.953, de 1 de agÔsto de 1966.
 
 Concede reconhecimento à Faculdade de Serviço Social de Brasília.

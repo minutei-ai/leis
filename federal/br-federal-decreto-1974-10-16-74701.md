@@ -1,5 +1,3 @@
-###DEC-074701-0-000-16-10-1974@@@
-
 DECRETO Nº 74.701, DE 16 DE OUTUBRO DE 1974.
 
 Altera o Decreto nº 51.469, de 21 de maio de 1962, que aprovou o Quadro de Pessoal da Universidade Federal do Rio Grande do Norte, em cumprimento às disposições da Lei nº 3.849, de 18 de dezembro de 1960, e da outras providências.

@@ -1,5 +1,3 @@
-###DEC-003606-0-000-20-09-2000@@@
-
 DECRETO Nº 3.606, DE 20 DE SETEMBRO DE 2000.
 
 Autoriza a concessão de subvenção econômica, sob a forma de equalização de preços,  ao amparo da Lei nº 8.427, de 27 de maio de 1992.

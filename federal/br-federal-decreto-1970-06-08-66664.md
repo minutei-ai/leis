@@ -1,5 +1,3 @@
-###DEC-066664-0-000-08-06-1970@@@
-
 DECRETO Nº 66.664, DE 8 DE JUNHO DE 1970.
 
 Declara de utilidade pública a Associação Hospital de Santo Ângelo, com sede em Santo Ângelo, Estado do Rio Grande do Sul.

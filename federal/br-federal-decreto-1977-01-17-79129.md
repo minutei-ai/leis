@@ -1,5 +1,3 @@
-###DEC-079129-0-000-17-01-1977@@@
-
 DECRETO Nº 79.129, DE 17 DE JANEIRO DE 1977.
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, da Universidade Federal Fluminense, com sede na cidade de Niterói, Estado do Rio de Janeiro.

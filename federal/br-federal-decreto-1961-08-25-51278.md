@@ -1,5 +1,3 @@
-###DEC-051278-0-000-25-08-1961@@@
-
 DECRETO Nº 51.278, DE 25 DE AGÔSTO DE 1961.
 
 Autoriza o Govêrno do Estado de Sergipe a lavrar calcário no município de Laranjeiras, Estado de Sergipe.

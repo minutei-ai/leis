@@ -1,5 +1,3 @@
-###DEL-006903-0-000-26-09-1944@@@
-
 DECRETO-LEI N. 6.903 – DE 26 DE SETEMBRO DE 1944
 
 Fixa a contribuição do Brasil destinada à Administração de Assistência e Reabilitação das Nações Unidas (United Nations Relief and Rehabilitation Administration – Unrra) e dá outras providências

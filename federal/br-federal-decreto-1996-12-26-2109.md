@@ -1,7 +1,3 @@
-1
-
-###DEC-002109-0-000-26-12-1996@@@
-
 DECRETO Nº 2.109, DE 26 DE DEZEMBRO DE 1996.
 
 Altera o artigo 1º do Decreto nº 894, de 16 de agosto de 1993.

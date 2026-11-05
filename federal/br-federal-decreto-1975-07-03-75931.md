@@ -1,5 +1,3 @@
-###DEC-075931-0-000-03-07-1975@@@
-
 decreto nº 75.931, de 3 de julho de 1975.
 
 Concede à Companhia Nacional de Alcalis, o direito de lavrar conchas calcárias no Município de São Pedro da Aldeia, Estado do Rio de Janeiro.

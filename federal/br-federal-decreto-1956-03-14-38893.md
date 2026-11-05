@@ -1,40 +1,38 @@
-###DEC-038893-0-000-14-03-1956@@@
+**DECRETO Nº 38.893, DE 14 DE MARÇO DE 1956.**
 
-<strong>DECRETO Nº 38.893, DE 14 DE MARÇO DE 1956.</strong>
+***Aprova o Regulamento do Museu Histórico e Diplomático do Itamaraty.***
 
-<em><strong>Aprova o Regulamento do Museu Histórico e Diplomático do Itamaraty.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, de acôrdo com o disposto no art. 7º do Decreto-lei nº 9.121, de 3 de abril de 1946,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, de acôrdo com o disposto no art. 7º do Decreto-lei nº 9.121, de 3 de abril de 1946,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regulamento do Museu Histórico e Diplomático do Itamaraty que, assinado pelo Ministro de Estado das Relações Exteriores, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento do Museu Histórico e Diplomático do Itamaraty que, assinado pelo Ministro de Estado das Relações Exteriores, com êste baixa.
-
-<strong>Art</strong>. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, em 14 de março de 1956; 135º da Independência e 68º da República.
 
-<strong>JUSCELINO KUBITSCHEK</strong>
+**JUSCELINO KUBITSCHEK**
 
 José Carlos de Macedo Soares
 
-<strong>REGULAMENTO DO MUSEU HISTÓRICO E DIPLOMÁTICO DO ITAMARATY</strong>
+**REGULAMENTO DO MUSEU HISTÓRICO E DIPLOMÁTICO DO ITAMARATY**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º - O Museu Histórico e Diplomático do Itamaraty, órgão integrante do Ministério das Relações Exteriores, diretamente subordinado ao respectivo Ministro de Estado, tem por finalidade:
+**Art**. 1º - O Museu Histórico e Diplomático do Itamaraty, órgão integrante do Ministério das Relações Exteriores, diretamente subordinado ao respectivo Ministro de Estado, tem por finalidade:
 
 I - recolher, classificar, catalogar e expôr ao público objetos e documentos de importância histórica e valor artístico ligados à história diplomática do Brasil;
 
 II - concorrer, por meio de pesquisas, estudos, cursos, conferências, comemorações e publicações, para o conhecimento da história diplomática do país, o culto de suas tradições e de seus grandes vultos.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º - O Museu é constituído dos seguintes órgãos:
+**Art**. 2º - O Museu é constituído dos seguintes órgãos:
 
 I - Seção de Iconografia, Mobiliário e Relíquias Históricas;
 
@@ -42,31 +40,31 @@ II - Seção de Numismática, Sigilografia e Condecorações;
 
 III - Secretaria.
 
-<strong>Art</strong>. 3º - O Museu será dirigido por um Diretor em comissão, escolhido pelo Ministro de Estado, dentre os servidores do Ministério das Relações Exteriores.
+**Art**. 3º - O Museu será dirigido por um Diretor em comissão, escolhido pelo Ministro de Estado, dentre os servidores do Ministério das Relações Exteriores.
 
-<strong>Art</strong>. 4º - O Diretor será assistido pelos Chefes de Seção, por um Secretário e por um Conservador, escolhidos, de preferência, dentre os servidores do Ministério das Relações Exteriores.
+**Art**. 4º - O Diretor será assistido pelos Chefes de Seção, por um Secretário e por um Conservador, escolhidos, de preferência, dentre os servidores do Ministério das Relações Exteriores.
 
 Parágrafo único - Os Chefes de Seção e o Secretário serão assistidos, cada um, por um Auxiliar.
 
-<strong>Art</strong>. 5º - Os órgãos que integram o Museu funcionarão em regime de mútua colaboração, sob a orientação do Diretor, e em estreita coordenação com os demais órgãos do Ministério.
+**Art**. 5º - Os órgãos que integram o Museu funcionarão em regime de mútua colaboração, sob a orientação do Diretor, e em estreita coordenação com os demais órgãos do Ministério.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da competência dos órgãos</em>
+*Da competência dos órgãos*
 
-<strong>Art</strong>. 6º - À Seção de Iconografia, Mobiliária e Relíquias Históricas compete:
+**Art**. 6º - À Seção de Iconografia, Mobiliária e Relíquias Históricas compete:
 
 I - Receber, classificar, colecionar, catalogar, expôr e conservar os quadros, fotografias, mapas, móveis e relíquias ligados à história diplomática do Brasil;
 
 II - Realizar pesquisas sôbre assuntos da história diplomática relacionados com as finalidades do Museu.
 
-<strong>Art</strong>. 7º - À Seção de Numismática, Sigilografia e Condecorações compete:
+**Art**. 7º - À Seção de Numismática, Sigilografia e Condecorações compete:
 
 I - Receber, classificar, colecionar, catalogar, expôr e conservar as moedas, medalhas, peças sigilares e condecorações referentes à mesma história diplomática;
 
 II - Realizar pesquisas sôbre assuntos correlatos com as mesmas peças.
 
-<strong>Art</strong>. 8º - A Secretaria compete:
+**Art**. 8º - A Secretaria compete:
 
 I - Manter o repositório dos documentos relativos ao Museu;
 
@@ -88,11 +86,11 @@ IX - Receber, registrar, expedir e arquivar a correspondência oficial e demais 
 
 X - Assistir o Diretor nos assuntos referentes à administração e ao pessoal do Museu, devendo, para tanto, manter-se perfeitamente articulada com o Departamento de Administração do Ministério.
 
-<strong>CAPÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>Das atribuições do pessoal</em>
+*Das atribuições do pessoal*
 
-<strong>Art</strong>. 8º - Ao Diretor compete:
+**Art**. 8º - Ao Diretor compete:
 
 I - Orientar, coordenar, dirigir e fiscalizar os trabalhos do Museu;
 
@@ -128,7 +126,7 @@ XVI - Estabelecer o horário para visitas ao Museu;
 
 XVII - Resolver os casos omissos.
 
-<strong>Art</strong>. 10. Aos Chefes de Seção compete:
+**Art**. 10. Aos Chefes de Seção compete:
 
 I - Dirigir e fiscalizar o trabalho das respectivas Seções;
 
@@ -146,7 +144,7 @@ VII - Conferir anualmente o inventário dos bens sob sua guarda;
 
 VIII - Orientar as visitas coletivas e consultas.
 
-<strong>Art</strong>. 11. Ao Secretário compete:
+**Art**. 11. Ao Secretário compete:
 
 I - Dirigir e fiscalizar o trabalho da Secretaria;
 
@@ -160,7 +158,7 @@ V - Dar os pareceres solicitados pelo Diretor;
 
 VI - Dar conveniente divulgação das atividades do Museu.
 
-<strong>Art</strong>. 12 - Ao Conservador compete:
+**Art**. 12 - Ao Conservador compete:
 
 I - Dar assistência técnica aos Chefes de Seção;
 
@@ -168,35 +166,35 @@ II - Estudar os objetos e documentos, fazer pesquisas e anotações ou comentár
 
 III - Providenciar sôbre a conservação dos objetos e documentos pertencentes ao Museu.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>Do horário</em>
+*Do horário*
 
-<strong>Art</strong>. 13. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público, fixado porém, o de 44 horas de trabalho semanal para os vigias.
+**Art**. 13. O horário normal de trabalho será fixado pelo Diretor, respeitado o número de horas semanais estabelecido para o serviço público, fixado porém, o de 44 horas de trabalho semanal para os vigias.
 
-<strong>Art</strong>. 14. Os servidores do Museu estão sujeitos ao regime de plantões nos domingos e feriados, obedecendo a condição de um mínimo de 33 horas de trabalho semanal com um dia obrigatório para descanso.
+**Art**. 14. Os servidores do Museu estão sujeitos ao regime de plantões nos domingos e feriados, obedecendo a condição de um mínimo de 33 horas de trabalho semanal com um dia obrigatório para descanso.
 
 Parágrafo único. O Diretor não está sujeito a ponto, devendo, porém, observar o disposto no art. 5º da Lei nº 2.188, de 3 de março de 1954.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>Das substituições</em>
+*Das substituições*
 
-<strong>Art</strong>. 15. Serão automaticamente substituídos nas faltas e impedimentos ocasionais
+**Art**. 15. Serão automaticamente substituídos nas faltas e impedimentos ocasionais
 
 I - O Diretor por um Chefe de Seção, previamente designado pelo Ministro de Estado;
 
 II - Os Chefes de Seção, por servidores previamente designados pelo Diretor.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>Disposições gerais</em>
+*Disposições gerais*
 
-<strong>Art</strong>. 16. Será permitida a entrada ao Museu de tôdas as pessoas que se apresentarem convenientemente trajadas, salvo crianças, menores de 10 anos de idade, não acompanhadas por pessoa idônea.
+**Art**. 16. Será permitida a entrada ao Museu de tôdas as pessoas que se apresentarem convenientemente trajadas, salvo crianças, menores de 10 anos de idade, não acompanhadas por pessoa idônea.
 
-<strong>Art</strong>. 17. O Museu deverá facilitar a sua visitação por todos os meios possíveis e fornecer ao público quaisquer informações relacionadas com as suas finalidades tendo em vista despertar nos visitantes e consulentes o interêsse pelo culto das tradições nacionais, pela história diplomática do país e por seus grandes valores.
+**Art**. 17. O Museu deverá facilitar a sua visitação por todos os meios possíveis e fornecer ao público quaisquer informações relacionadas com as suas finalidades tendo em vista despertar nos visitantes e consulentes o interêsse pelo culto das tradições nacionais, pela história diplomática do país e por seus grandes valores.
 
-<strong>Art</strong>. 18. Os objetos expostos não poderão ser retirados dos mostruários para estudo ou exame sem permissão expressa do Diretor.
+**Art**. 18. Os objetos expostos não poderão ser retirados dos mostruários para estudo ou exame sem permissão expressa do Diretor.
 
 § 1º Não se mostrarão objetos retirados dos mostruários a mais de uma pessoa ao mesmo tempo.
 
@@ -206,16 +204,16 @@ II - Os Chefes de Seção, por servidores previamente designados pelo Diretor.
 
 § 4º Em hipótese alguma poderão os objetos e documentos do Museu ser cedidos por empréstimos, devendo qualquer exposição dos mesmos fora da sua sede ser feita sob inteira responsabilidade do Diretor.
 
-<strong>Art</strong>. 19. O Museu para fins de divulgação, poderá editar folhetos, postais e outras publicações ilustradas visando a difusão dos fatos históricos relacionados com os objetos das suas coleções.
+**Art**. 19. O Museu para fins de divulgação, poderá editar folhetos, postais e outras publicações ilustradas visando a difusão dos fatos históricos relacionados com os objetos das suas coleções.
 
-<strong>Art</strong>. 20. As grandes datas e os grandes vultos da história diplomática do Brasil serão comemorados pelo Museu por meio de exposições, conferências e solenidades cívicas.
+**Art**. 20. As grandes datas e os grandes vultos da história diplomática do Brasil serão comemorados pelo Museu por meio de exposições, conferências e solenidades cívicas.
 
-<strong>Art</strong>. 21. O Museu manterá as mais estreitas relações com estabelecimentos similares do país e do estrangeiro.
+**Art**. 21. O Museu manterá as mais estreitas relações com estabelecimentos similares do país e do estrangeiro.
 
-<strong>Art</strong>. 22. Em casos especiais, os trabalhos de restauração poderão ser confiados a pessoas estranhas ao Museu, de idoneidade e capacidade comprovadas, a juízo do Diretor e mediante aprovação do Ministro de Estado.
+**Art**. 22. Em casos especiais, os trabalhos de restauração poderão ser confiados a pessoas estranhas ao Museu, de idoneidade e capacidade comprovadas, a juízo do Diretor e mediante aprovação do Ministro de Estado.
 
-<strong>Art</strong>. 23. Nas fotografias feitas no interior do Museu, é absolutamente proibido o uso de substâncias destinadas a produzir luz artificial.
+**Art**. 23. Nas fotografias feitas no interior do Museu, é absolutamente proibido o uso de substâncias destinadas a produzir luz artificial.
 
 Rio de Janeiro, 14 de março de 1956.
 
-<strong>JOSÉ CARLOS DE MACEDO SOARES</strong>
+**JOSÉ CARLOS DE MACEDO SOARES**

@@ -1,5 +1,3 @@
-###DEC-056036-0-000-23-04-1965@@@
-
 DECRETO Nº 56.036, DE 23 DE ABRIL DE 1965.
 
 Concede à Hugo Ziemer & Cia. autorização para funcionar como emprêsa de mineração.

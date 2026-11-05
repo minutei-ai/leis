@@ -1,5 +1,3 @@
-###DEC-004090-0-000-16-01-2002@@@
-
 DECRETO Nº 4.090, DE 16 DE JANEIRO DE 2002.
 
 Fixa, para a Marinha do Brasil, o número de vagas para promoções obrigatórias de Oficiais, para os Corpos e Quadros que menciona, no ano-base de 2001.

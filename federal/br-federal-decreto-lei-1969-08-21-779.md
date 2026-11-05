@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/99d03ea1-2348-428a-892c-73aa48f2ee0b/texto#nowhere)
 
-###DEL-000779-0-000-21-08-1969@@@
-
 DECRETO-LEI Nº 779, De 21 DE AGÔSTO DE 1969
 
 Dispõe sôbre a aplicação de normas processuais trabalhistas à União Federal, aos Estados, Municípios, Distrito Federal e Autarquias ou Fundações de direito público que não explorem atividade econômica.

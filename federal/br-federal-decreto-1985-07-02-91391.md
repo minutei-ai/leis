@@ -1,5 +1,3 @@
-###DEC-091391-0-000-02-07-1985@@@
-
 Decreto nº 91.391, de 02 de julho de 1985.
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado Apucaraninha, situado no Município de Londrina, no Estado do Paraná, e compreendida na área prioritária, para fins de reforma agrária, fixada pelo Decreto nº 91.390, de 02 de julho de 1985.

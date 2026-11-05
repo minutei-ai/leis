@@ -1,5 +1,3 @@
-###DEC-054348-0-000-29-09-1964@@@
-
 DECRETO Nº 54.348, DE 29 DE SETEMBRO DE 1964.
 
 Transfere da Prefeitura Municipal de Carmo do Paranaíba para Centrais Elétricas de Minas Gerais S.A. a concessão para distribuir energia elétrica no município, e da outras providências.

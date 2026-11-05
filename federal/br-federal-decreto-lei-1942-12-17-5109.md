@@ -1,5 +1,3 @@
-###DEL-005109-0-000-17-12-1942@@@
-
 DECRETO-LEI N. 5.109 – DE 17 DE DEZEMBRO DE 1942
 
 Abre, ao Ministério do Trabalho, Indústria e Comércio, o crédito suplementar de Cr$ 28.000,00, à dotação que especifica.

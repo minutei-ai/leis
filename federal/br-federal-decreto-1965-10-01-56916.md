@@ -1,5 +1,3 @@
-###DEC-056916-0-000-01-10-1965@@@
-
 Decreto Nº 56.916, DE 1º DE Outubro DE 1965.
 
 Declara de utilidade pública para fins de desapropriação, pela Divisão de Águas do Departamento Nacional da Produção Mineral do Ministério das Minas e Energia, terreno situado no Município de Belo Horizonte, no Estado de Minas Gerais.

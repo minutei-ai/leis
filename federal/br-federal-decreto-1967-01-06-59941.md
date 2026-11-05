@@ -1,5 +1,3 @@
-###DEC-059941-0-000-06-01-1967@@@
-
 DECRETO Nº 59.941, DE 6 DE JANEIRO DE 1967.
 
 Aprova o Estatuto da Fundação Universidade do Maranhão.

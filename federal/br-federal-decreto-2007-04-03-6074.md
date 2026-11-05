@@ -1,5 +1,3 @@
-###DEC-006074-0-000-03-04-2007@@@
-
 DECRETO Nº 6.074, DE 3 DE ABRIL DE 2007.
 
 Altera o art. 2o do Decreto no 1.791, de 15 de janeiro de 1996, que instituiu o Comitê Nacional de Pesquisas Antárticas - CONAPA.
@@ -33,5 +31,3 @@ Brasília,  3  de  abril   de 2007; 186o da Independência e 119o da Repúb
 LUIZ INÁCIO LULA DA SILVA
 
 Sérgio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 4.4.2007

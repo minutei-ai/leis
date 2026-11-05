@@ -1,5 +1,3 @@
-###DEC-074752-0-000-23-10-1974@@@
-
 Decreto nº 74.752, de 23 de outubro de 1974.
 
 Concede à Companhia de Cimento Portland Paraíso o direito de lavrar calcita e dolomita no Município de Campos, Estado do Rio de Janeiro.

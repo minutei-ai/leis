@@ -1,5 +1,3 @@
-###DEC-045829-0-000-17-04-1959@@@
-
 DECRETO Nº 45.829, DE 17 DE ABRIL DE 1959
 
 Transforma o 8º RA 75 Mon e os 3º e 7º GA 75 Cav em unidades motorizadas.

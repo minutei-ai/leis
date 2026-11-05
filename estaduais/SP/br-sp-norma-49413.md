@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=49413)
-
 # LEI Nº 11.678, DE 06 DE FEVEREIRO DE 2004
 
 ## (PL 254/2003 - Marcelo Bueno)

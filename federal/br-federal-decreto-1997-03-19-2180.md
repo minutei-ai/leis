@@ -1,5 +1,3 @@
-###DEC-002180-0-000-19-03-1997@@@
-
 DECRETO Nº 2.180, DE 19 DE MARÇO DE 1997
 
 Suprime os incisos VII, VIII, IX, XVI, XVII, XX, e XXI, do art. 1º do Decreto nº 95.859, de 22 de março de 1988 e os incisos VII, VIII e XII, do art. 1º do Decreto nº 97.596, de 30 de março de 1989, que dispõe sobre terras públicas federais, afetadas a uso especial do Ministério do Exército.

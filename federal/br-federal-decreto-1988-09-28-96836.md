@@ -1,5 +1,3 @@
-###DEC-096836-0-000-28-09-1988@@@
-
 DECRETO Nº 96.836, DE 28 DE SETEMBRO DE 1988
 
 Renova a concessão outorgada a RÁDIO RURAL DE FRAIBURGO LTDA., para explorar serviço de radiodifusão sonora em onda média, na Cidade de Fraiburgo, Estado de Santa Catarina.

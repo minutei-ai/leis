@@ -1,7 +1,3 @@
-1
-
-###DEC-098280-0-000-11-10-1989@@@
-
 DECRETO N° 98.280, DE 11 DE OUTUBRO DE 1989
 
 Autoriza o funcionamento do curso de Letras do Centro de Ensino Superior, em Chapecó, Estado de Santa Catarina.

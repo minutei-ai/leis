@@ -1,5 +1,3 @@
-###DEC-093928-0-000-14-01-1987@@@
-
 DECRETO N° 93.928, DE 14 DE JANEIRO DE 1987
 
 Altera o Estatuto da Fundação Nacional para Educação de Jovens e Adultos - EDUCAR.

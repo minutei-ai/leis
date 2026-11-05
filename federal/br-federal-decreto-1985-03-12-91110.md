@@ -1,5 +1,3 @@
-###DEC-091110-0-000-12-03-1985@@@
-
 DECRETO Nº 91.110, dE 12 de MARÇO dE 1985
 
 Outorga concessão à TELEVISÃO RONDON LIMITADA, para explorar serviço de radiodifusão de sons e imagens (televisão), na cidade de Rondonópolis, Estado do Mato Grosso.

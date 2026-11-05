@@ -1,5 +1,3 @@
-###DEL-007591-0-000-31-05-1945@@@
-
 DECRETO-LEI N. 7.591 – DE 31 DE MAIO DE 1945
 
 Concede subvenção à “S. A. Empresa de Viação Aérea Rio Grandense” (VARlG), e dá outras providências

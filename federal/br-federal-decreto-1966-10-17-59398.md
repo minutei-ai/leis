@@ -1,5 +1,3 @@
-###DEC-059398-0-000-17-10-1966@@@
-
 decreto nº 59.398, de 17 de outubro de 1966.
 
 Altera as alíneas d e e do Art. 1º do Decreto nº 57.624, de 13 janeiro de 1966.

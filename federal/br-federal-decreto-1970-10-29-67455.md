@@ -1,5 +1,3 @@
-###DEC-067455-0-000-29-10-1970@@@
-
 Decreto nº 67.455 - de 29 de outubro de 1970
 
 Declara de utilidade pública o Betel - Lar da Igreja, com sede em Sorocaba, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009405-0-000-27-06-1946@@@
-
 DECRETO-LEI N. 9.405 – DE 27 DE JUNHO DE 1946
 
 Dispõe sôbre a competência para concessão de licenças aos servidores da Prefeitura do Distrito Federal.

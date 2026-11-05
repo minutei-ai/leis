@@ -1,5 +1,3 @@
-###DEC-074579-0-000-19-09-1974@@@
-
 DECRETO nº 74.579, DE 19 DE SETEMBRO DE 1974.
 
 Concede a Argentina de Souza Oliveira, firma individual, o direito de lavrar minério de ferro nos Municípios de Congonhas do Campo e Belo Vale, Estado de Minas Gerais.

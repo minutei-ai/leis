@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59405)
-
 # LEI Nº 12.159, DE 20 DE DEZEMBRO DE 2005
 
 ## (PL 554/2004 - Roberto Engler)

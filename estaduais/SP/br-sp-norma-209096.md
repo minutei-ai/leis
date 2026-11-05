@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209096)<br>
-
 # DECRETO N° 68.324, DE 01 DE FEVEREIRO DE 2024
 
 ### _Declara de utilidade pública, para fins de desapropriação pela Entrevias Concessionária de Rodovias S/A, as áreas necessárias à duplicação do trecho entre os km 245+000m e 273+160m da Rodovia Dona Leonor Mendes de Barros, SP-333, nos Municípios de Cafelândia, Guarantã e Pongaí, e dá providências correlatas._

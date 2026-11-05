@@ -1,7 +1,3 @@
-1
-
-###DEC-098948-0-000-15-02-1990@@@
-
 DECRETO Nº 98.948, DE 15 DE FEVEREIRO DE 1990
 
 Outorga concessão à S/A CORREIO BRAZILIENZE, para explorar serviço de radiodifusão de sons e imagens (televisão), na Cidade de Goiânia, Estado de Goiás.

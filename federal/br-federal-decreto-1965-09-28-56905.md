@@ -1,5 +1,3 @@
-###DEC-056905-0-000-28-09-1965@@@
-
 DECRETO Nº 56.905, DE 28 DE SETEMBRO de 1965.
 
 Retifica o Decreto nº 56.837, de 3 de setembro de 1965, a fim de incluir um art. 3º
@@ -25,8 +23,6 @@ Brasília, 28 de setembro de 1965; 144º da Independência 77º da República.
 H. Castelo Branco
 
 Juarez Tavora
-
-###DEC-056905-0-000-28-09-1965@@@RET01+++
 
 DECRETO Nº 56.905, DE 28 DE SETEMBRO DE 1965.
 

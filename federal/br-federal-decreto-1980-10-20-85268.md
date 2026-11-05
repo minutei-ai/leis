@@ -1,5 +1,3 @@
-###DEC-085268-0-000-20-10-1980@@@
-
 DECRETO Nº 85.268, DE 20 DE OUTUBRO DE 1980
 
 Transfere de localização os 1º/8º/GAv, 3º/8º/Gav, 2º/10º/Gav e 1º/13º/GAv da Força Aérea Brasileira.

@@ -1,5 +1,3 @@
-###DEC-091396-0-000-04-07-1985@@@
-
 DECRETO Nº 91.396, DE 04 DE JULHO DE 1985
 
 Fixa as atribuições gerais e a constituição do Conselho Superior de Economia e Finanças do Exército.

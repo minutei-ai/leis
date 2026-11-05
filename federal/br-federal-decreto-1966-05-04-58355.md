@@ -1,5 +1,3 @@
-###DEC-058355-0-000-04-05-1966@@@
-
 DECRETO Nº 58.355, DE 4 DE MAIO DE 1966.
 
 Declara de utilidade pública, para fins de desapropriação, pelo Departamento Nacional de Obras Contra as Secas, área de terreno necessária à construção de um poço profundo, para o Serviço de Abastecimento dágua na cidade de Tauá no Estado do Ceará.

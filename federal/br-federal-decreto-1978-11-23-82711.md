@@ -1,5 +1,3 @@
-###DEC-082711-0-000-23-11-1978@@@
-
 Decreto nº 82.711, de 23 de novembro de 1978.
 
 Dispõe sobre a transferência do Colégio Agrícola de Brasília para o Distrito Federal e dá outras providências.

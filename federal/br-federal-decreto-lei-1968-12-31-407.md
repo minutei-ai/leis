@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/47a2d26c-1cc5-4f1a-8ef9-5aa0221ca6d6/texto#nowhere)
 
-###DEL-000407-0-000-31-12-1968@@@
-
 DECRETO-Lei nº 407, DE 31 DE DEZemBRO DE 1968
 
 Fixa alíquotas máximas para o Impôsto sôbre Circulação de Mercadorias.

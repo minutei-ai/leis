@@ -1,5 +1,3 @@
-###DEC-066377-0-000-24-03-1970@@@
-
 DECRETO Nº 66.377 - DE 24 DE MARÇO DE 1970
 
 Declara de utilidade pública, o Grupo Espírita Cristão "Evangelho de Jesus", com sede em Barbacena, Estado de Minas Gerais.

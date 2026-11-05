@@ -1,5 +1,3 @@
-###DEC-004408-0-000-04-10-2002@@@
-
 DECRETO Nº 4.408, DE 4 DE OUTUBRO DE 2002
 
 Dispõe sobre a delegação de competência de que trata o Decreto nº 4.243, de 22 de maio de 2002.

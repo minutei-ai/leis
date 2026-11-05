@@ -1,5 +1,3 @@
-###DEC-096181-0-000-20-06-1988@@@
-
 DECRETO N° 96.181, DE 20 DE JUNHO DE 1988
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação de subestaçao da Companhia Paulista de Força e Luz -  CPFL, no Município de Amparo, Estado de São Paulo.

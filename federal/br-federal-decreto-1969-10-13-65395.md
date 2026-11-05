@@ -1,5 +1,3 @@
-###DEC-065395-0-000-13-10-1969@@@
-
 DECRETO Nº 65.395 - DE 13 DE OUTUBRO DE 1969.
 
 Extingue cargos do Quadro de Pessoal do Ministério da Fazenda.

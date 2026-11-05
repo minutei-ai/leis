@@ -1,5 +1,3 @@
-###DEC-090764-0-000-28-12-1984@@@
-
 Decreto nº 90.764, de 28 de dezembro de 1984
 
 Dispõe sobre a classificação de categorias de localidades especiais a que se refere o Decreto nº 54.466, de 14 de outubro de 1964.

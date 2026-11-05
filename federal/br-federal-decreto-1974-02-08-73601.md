@@ -1,5 +1,3 @@
-###DEC-073601-0-000-08-02-1974@@@
-
 DECRETO Nº 73.601, de 8 de Fevereiro de 1974.
 
 Dispõe sobre a organização do Instituto Brasileiro de Desenvolvimento Florestal, e dá outras providências.

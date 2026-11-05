@@ -1,5 +1,3 @@
-###DEC-069951-0-000-18-01-1972@@@
-
 Decreto nº 69.951, de 18 de janeiro de 1972.
 
 Declara de utilidade pública o Amparo Maternal, com sede em São Paulo, Estado de São Paulo.

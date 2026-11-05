@@ -1,5 +1,3 @@
-###DEC-075206-0-000-10-01-1975@@@
-
 DECRETO Nº 75.206, DE 10 DE JANEIRO DE 1975.
 
 Declara desnecessidade e extingue cargos do Quadro de Pessoal do DASP e dá outras providências.

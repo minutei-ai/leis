@@ -1,5 +1,3 @@
-###DEC-081158-0-000-02-01-1978@@@
-
 Decreto nº 81.158, de 02 janeiro de 1978.
 
 Declara a caducidade da concessão de lavra que menciona.

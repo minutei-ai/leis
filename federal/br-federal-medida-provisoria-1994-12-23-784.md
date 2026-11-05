@@ -1,7 +1,3 @@
-1
-
-###MPV-000784-0-000-23-12-1994@@@
-
 # MEDIDA PROVISÓRIA Nº 784, DE 23 DE DEZEMBRO DE 1994
 
 Altera o art. 60 da Lei nº 8.694, de 12 de agosto de 1993, que dispõe sobre as diretrizes para a elaboração e execução da lei orçamentária anual de 1994.

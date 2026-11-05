@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212928)<br>
-
 # DECRETO N° 70.825, DE 27 DE AGOSTO DE 2026
 
 ### _Prorroga o prazo para usufruir férias que foram indeferidas em decorrência dos decretos que especifica, para os integrantes das carreiras policiais civis em exercício na Secretaria da Segurança Pública._

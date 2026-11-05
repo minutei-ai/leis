@@ -1,5 +1,3 @@
-###DEC-088538-0-000-20-07-1983@@@
-
 Decreto nº 88.538, de 20 de julho de 1983.
 
 Revoga o Decreto nº 69.443, de 29 de outubro de 1971, que aprova o Regulamento do Centro de Munição da Marinha.

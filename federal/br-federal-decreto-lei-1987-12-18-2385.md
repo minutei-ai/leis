@@ -1,5 +1,3 @@
-###DEL-002385-0-000-18-12-1987@@@
-
 # DECRETO-LEI Nº 2.385, DE 18 DE DEZEMBRO DE 1987.
 
 Dispõe sobre gratificação a ser concedida aos servidores de nível médio e superior do Departamento Nacional da Produção Mineral, do Ministério das Minas e Energia.
@@ -60,7 +58,31 @@ Aureliano Chaves
 
 ## (Art. 6º, item III, do Decreto-lei nº 1.341, de 22 de agosto de 1974)
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:113.02pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Denominação das Gratificações e Indenizações</span></p></td><td style="width:150.6pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Definição</span></p></td><td style="width:124.72pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Bases de Concessão e Valor</span></p></td></tr><tr><td style="width:113.02pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Gratificação de Desempenho deAtividade Mineral</span></p></td><td style="width:150.6pt; border-style:solid; border-width:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">Gratificação devida aos servidores públicos em efetivo exercício, do Departamento Nacional da Produção Mineral - DNPM - MME.</span></p></td><td style="width:124.72pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top"><p style="font-size:10pt"><span style="font-family:Arial">De 95% a 120% incidentes sobre o vencimento ou salário, escalonado em valores, a ser divulgado pelo Ministro de Estado competente.</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:113.02pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top">
+
+Denominação das Gratificações e Indenizações
+
+</td><td style="width:150.6pt; border-style:solid; border-width:0.75pt; vertical-align:top">
+
+Definição
+
+</td><td style="width:124.72pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top">
+
+Bases de Concessão e Valor
+
+</td></tr><tr><td style="width:113.02pt; border-top-style:solid; border-top-width:0.75pt; border-right-style:solid; border-right-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top">
+
+Gratificação de Desempenho deAtividade Mineral
+
+</td><td style="width:150.6pt; border-style:solid; border-width:0.75pt; vertical-align:top">
+
+Gratificação devida aos servidores públicos em efetivo exercício, do Departamento Nacional da Produção Mineral - DNPM - MME.
+
+</td><td style="width:124.72pt; border-top-style:solid; border-top-width:0.75pt; border-left-style:solid; border-left-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; vertical-align:top">
+
+De 95% a 120% incidentes sobre o vencimento ou salário, escalonado em valores, a ser divulgado pelo Ministro de Estado competente.
+
+</td></tr></tbody></table>
 
 # (\*)DECRETO-LEI Nº 2.385, DE 18 DE DEZEMBRO DE 1987.
 

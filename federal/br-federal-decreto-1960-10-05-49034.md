@@ -1,5 +1,3 @@
-###DEC-049034-0-000-05-10-1960@@@
-
 decreto nº 49.034, de 5 de outubro de 1960.
 
 Autoriza Indústria e Comércio de Minérios Maria Luiza Ltda. a pesquisar talco e magnésio, no município de Franco da Rocha, Estado de São Paulo.

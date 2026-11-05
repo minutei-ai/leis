@@ -1,5 +1,3 @@
-###DEC-053660-0-000-04-03-1964@@@
-
 DECRETO Nº 53.660, DE 4 DE MARÇO DE 1964.
 
 Eleva à categoria de Embaixada a Representação Diplomática do Brasil junto ao Govêrno da Jordânia.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.457, DE 03 DE DEZEMBRO DE 2024**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Concede Titulo Honorífico de Cidadão Acreano ao Sr. Breno Geovane Azevedo Caetano.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Concede Titulo Honorífico de Cidadão Acreano ao Sr. Breno Geovane Azevedo Caetano.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

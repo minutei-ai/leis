@@ -1,4 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=5579)<br>
 [Texto compilado](https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1997/compilacao-lei.complementar-831-01.10.1997.html)
 
 # LEI COMPLEMENTAR Nº 831, DE 01 DE OUTUBRO DE 1997
@@ -7,46 +6,442 @@
 
 ### _Prorroga prazo de concessão do Prêmio de Incentivo à Qualidade - PIQ e dá providências correlatas._
 
-O GOVERNADOR DO ESTADO DE SÃO PAULO:<br>
-Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:<br>
-**Artigo 1º -** Fica prorrogado até 31 de dezembro de 1998 o prazo para a concessão do Prêmio de Incentivo à Qualidade - PIQ, instituído pela [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789).<br>
-**Artigo 2º -** Passa a vigorar com a seguinte redação o "caput" do artigo 2º da [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789):<br>
-"Artigo 2º - Para efeito de atribuição do Prêmio, as classes a que se refere o artigo 1º ficam distribuídas em 5 (cinco) grupos, na forma do Anexo desta lei complementar."<br>
-**Artigo 3º -** Fica acrescentado ao artigo 3º da [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789), o inciso V na seguinte conformidade:<br>
-"V - Grupo V: até 53,02%."<br>
-**Artigo 4º -** O Anexo a que se referem os artigos 1º e 2º da [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789), fica alterado na conformidade do Anexo que integra esta lei complementar.<br>
-**Artigo 5º -** As despesas resultantes da aplicação desta lei complementar, para o período de 1º de setembro de 1997 a 31 de dezembro de 1998, serão cobertas com recursos, em valor equivalente, do montante a que se refere o item 2 do § 3º do artigo 7.º da [Lei Complementar nº 567, de 20 de julho de 1988](http://www.al.sp.gov.br/norma?id=25426), alterado pelo artigo 1º da [Lei Complementar nº 779, de 23 de dezembro de 1994](http://www.al.sp.gov.br/norma?id=12044), e o eventual saldo remanescente terá a destinação nele mencionada.<br>
-**Artigo 6º -** Esta lei complementar entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de setembro de 1997.<br>
-Palácio dos Bandeirantes, em 1º de outubro de 1997.<br>
-Mário Covas<br>
-Yoshiaki Nakano<br>
-Secretário da Fazenda<br>
-Walter Feldman<br>
-Secretário - Chefe da Casa Civil<br>
-Antonio Angarita<br>
-Secretário do Governo e Gestão Estratégica<br>
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e eu promulgo a seguinte lei complementar:
+
+**Artigo 1º -** Fica prorrogado até 31 de dezembro de 1998 o prazo para a concessão do Prêmio de Incentivo à Qualidade - PIQ, instituído pela [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789).
+
+**Artigo 2º -** Passa a vigorar com a seguinte redação o "caput" do artigo 2º da [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789):
+
+"Artigo 2º - Para efeito de atribuição do Prêmio, as classes a que se refere o artigo 1º ficam distribuídas em 5 (cinco) grupos, na forma do Anexo desta lei complementar."
+
+**Artigo 3º -** Fica acrescentado ao artigo 3º da [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789), o inciso V na seguinte conformidade:
+
+"V - Grupo V: até 53,02%."
+
+**Artigo 4º -** O Anexo a que se referem os artigos 1º e 2º da [Lei Complementar n.º 804, de 21 de dezembro de 1995](http://www.al.sp.gov.br/norma?id=10789), fica alterado na conformidade do Anexo que integra esta lei complementar.
+
+**Artigo 5º -** As despesas resultantes da aplicação desta lei complementar, para o período de 1º de setembro de 1997 a 31 de dezembro de 1998, serão cobertas com recursos, em valor equivalente, do montante a que se refere o item 2 do § 3º do artigo 7.º da [Lei Complementar nº 567, de 20 de julho de 1988](http://www.al.sp.gov.br/norma?id=25426), alterado pelo artigo 1º da [Lei Complementar nº 779, de 23 de dezembro de 1994](http://www.al.sp.gov.br/norma?id=12044), e o eventual saldo remanescente terá a destinação nele mencionada.
+
+**Artigo 6º -** Esta lei complementar entrará em vigor na data de sua publicação, produzindo efeitos a partir de 1º de setembro de 1997.
+
+Palácio dos Bandeirantes, em 1º de outubro de 1997.
+
+Mário Covas
+
+Yoshiaki Nakano
+
+Secretário da Fazenda
+
+Walter Feldman
+
+Secretário - Chefe da Casa Civil
+
+Antonio Angarita
+
+Secretário do Governo e Gestão Estratégica
+
 Publicada na Assessoria Técnico-Legislativa, em 1º de outubro de 1997.
 
 #### ANEXO
 
 a que se refere o artigo 4º da Lei Complementar nº 831, de 1º de outubro de 1997.
 
-<table align="center" border="1" cellpadding="2" cellspacing="0"><tbody><tr><td valign="top" width="234"><p><b>SUBANEXO 1 - Classes enquadradas na <a target="_top" href="http://www.al.sp.gov.br/norma?id=18412">Lei Complementar nº 674/92</a></b></p></td><td valign="top" width="257"><p style="text-align: center;"><b>GRUPO</b></p></td></tr><tr><td valign="top" width="234"><p>Atendente</p></td><td valign="top" width="257"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Auxiliar de Enfermagem</p></td><td valign="top" width="257"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Assistente Social</p></td><td valign="top" width="257"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Assistente Social Chefe</p></td><td valign="top" width="257"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Cirurgião Dentista</p></td><td valign="top" width="257"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Médico</p></td><td valign="top" width="257"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Nutricionista</p></td><td valign="top" width="257"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Psicólogo</p></td><td valign="top" width="257"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Técnico de Laboratório</p></td><td valign="top" width="257"><p style="text-align: center;">II</p></td></tr></tbody></table>
+**SUBANEXO 1 - Classes enquadradas na [Lei Complementar nº 674/92](http://www.al.sp.gov.br/norma?id=18412)**
+
+**GRUPO**
+
+Atendente
+
+I
+
+Auxiliar de Enfermagem
+
+II
+
+Assistente Social
+
+IV
+
+Assistente Social Chefe
+
+IV
+
+Cirurgião Dentista
+
+IV
+
+Médico
+
+IV
+
+Nutricionista
+
+IV
+
+Psicólogo
+
+IV
+
+Técnico de Laboratório
+
+II
 
 #### ANEXO
 
 a que se refere o artigo 4º da Lei Complementar nº 831, de 1º de outubro de 1997.
 
-<table align="center" border="1" cellpadding="2" cellspacing="0"><tbody><tr><td valign="top" width="234"><p><b>SUBANEXO 2 - Classes enquadradas na <a target="_top" href="http://www.al.sp.gov.br/norma?id=16608">Lei Complementar nº 700/92</a></b></p></td><td valign="top" width="256"><p style="text-align: center;"><b>GRUPO</b></p></td></tr><tr><td valign="top" width="234"><p>Agente de Análise Contábil</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Analista Contábil</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Analista Contábil Inspetor</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Analista Contábil Supervisor</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Analista de Planejamento Financeiro</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Analista para Despesa Pessoal</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Analista Técnico da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Assistente de Planejamento Financeiro I</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente de Planejamento Financeiro II</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente de Planejamento Financeiro III</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico de Coordenador da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico da Fazenda Estadual I</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico da Fazenda Estadual II</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico da Fazenda Estadual III</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Auditor</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Auxiliar Administrativo Fazendário</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Chefe de Seção Técnica da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Contador</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Contador Chefe</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Contador Encarregado</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Contador Geral da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Controlador de Pagamento de Pessoal I</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Controlador de Pagamento de Pessoal II</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Controlador de Pagamento de Pessoal III</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Controlador de Pagamento de Pessoal IV</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Controlador de Pagamento de Pessoal Chefe</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Diretor de Divisão da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor de Serviço da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Departamento da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Divisão Contábil</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Divisão da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Serviço da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Julgador Tributário</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Supervisor de Equipe Técnica da Fazenda Estadual</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Técnico de Apoio à Arrecadação Tributária</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr></tbody></table>
+**SUBANEXO 2 - Classes enquadradas na [Lei Complementar nº 700/92](http://www.al.sp.gov.br/norma?id=16608)**
+
+**GRUPO**
+
+Agente de Análise Contábil
+
+IV
+
+Analista Contábil
+
+IV
+
+Analista Contábil Inspetor
+
+IV
+
+Analista Contábil Supervisor
+
+IV
+
+Analista de Planejamento Financeiro
+
+IV
+
+Analista para Despesa Pessoal
+
+IV
+
+Analista Técnico da Fazenda Estadual
+
+IV
+
+Assistente de Planejamento Financeiro I
+
+V
+
+Assistente de Planejamento Financeiro II
+
+V
+
+Assistente de Planejamento Financeiro III
+
+V
+
+Assistente Técnico de Coordenador da Fazenda Estadual
+
+V
+
+Assistente Técnico da Fazenda Estadual I
+
+V
+
+Assistente Técnico da Fazenda Estadual II
+
+V
+
+Assistente Técnico da Fazenda Estadual III
+
+V
+
+Auditor
+
+IV
+
+Auxiliar Administrativo Fazendário
+
+III
+
+Chefe de Seção Técnica da Fazenda Estadual
+
+IV
+
+Contador
+
+IV
+
+Contador Chefe
+
+IV
+
+Contador Encarregado
+
+IV
+
+Contador Geral da Fazenda Estadual
+
+V
+
+Controlador de Pagamento de Pessoal I
+
+III
+
+Controlador de Pagamento de Pessoal II
+
+III
+
+Controlador de Pagamento de Pessoal III
+
+III
+
+Controlador de Pagamento de Pessoal IV
+
+III
+
+Controlador de Pagamento de Pessoal Chefe
+
+III
+
+Diretor de Divisão da Fazenda Estadual
+
+V
+
+Diretor de Serviço da Fazenda Estadual
+
+V
+
+Diretor Técnico de Departamento da Fazenda Estadual
+
+V
+
+Diretor Técnico de Divisão Contábil
+
+V
+
+Diretor Técnico de Divisão da Fazenda Estadual
+
+V
+
+Diretor Técnico de Serviço da Fazenda Estadual
+
+V
+
+Julgador Tributário
+
+IV
+
+Supervisor de Equipe Técnica da Fazenda Estadual
+
+IV
+
+Técnico de Apoio à Arrecadação Tributária
+
+III
 
 #### ANEXO
 
 a que se refere o artigo 4º da Lei Complementar nº 831, de 1º de outubro de 1997.
 
-<table align="center" border="1" cellpadding="2" cellspacing="0"><tbody><tr><td valign="top" width="234"><p><b>SUBANEXO 3 - Classes enquadradas na <a target="_top" href="http://www.al.sp.gov.br/norma?id=16084">Lei Complementar nº 712/93</a></b></p></td><td valign="top" width="256"><p style="text-align: center;"><b>GRUPO</b></p></td></tr><tr><td valign="top" width="234"><p>Administrador</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Agente Administrativo</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Agente de Administração Pública</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Agente de Serviços Técnicos</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Almoxarife</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Ascensorista</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Assessor Técnico de Gabinete</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico da Administração Pública</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico de Direção I</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico de Direção II</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico de Direção III</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico de Gabinete I</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Assistente Técnico de Gabinete II</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Auxiliar de Administração Pública</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Auxiliar de Desenvolvimento Infantil</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Auxiliar de Gabinete</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Auxiliar de Serviços</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Bibliotecário</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Chefe de Gabinete (NR)</p><p><em>- Classe incluída pelo artigo 21 da <a target="_top" href="http://www.al.sp.gov.br/norma?id=58294">Lei Complementar nº 975, de 06/10/2005</a>, retroagindo seus efeitos a 01/09/2005.</em></p></td><td style="text-align: center;" valign="top" width="256"><p>&nbsp;</p><p style="text-align: center;">V (NR)</p></td></tr><tr><td valign="top" width="234"><p>Chefe de Seção</p></td><td valign="top" width="256"><p style="text-align: center;">III</p></td></tr><tr><td valign="top" width="234"><p>Chefe de Seção Técnica</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Coordenador da Fazenda Estadual (NR)</p><p><em>- Classe incluída pelo artigo 21 da <a target="_top" href="http://www.al.sp.gov.br/norma?id=58294">Lei Complementar nº 975, de 06/10/2005</a>, retroagindo seus efeitos a 01/09/2005.</em></p></td><td style="text-align: center;" valign="top" width="256"><p>&nbsp;</p><p style="text-align: center;">V (NR)</p></td></tr><tr><td valign="top" width="234"><p>Diretor de Departamento</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor de Divisão</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor de Serviço</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Departamento</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Divisão</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Divisão de Saúde (NR)</p><p><em>- Classe incluída pelo artigo 21 da <a target="_top" href="http://www.al.sp.gov.br/norma?id=58294">Lei Complementar nº 975, de 06/10/2005</a>, retroagindo seus efeitos a 01/09/2005.</em></p></td><td valign="top" width="256"><p>&nbsp;</p><p style="text-align: center;">V (NR)</p></td></tr><tr><td valign="top" width="234"><p>Diretor Técnico de Serviço</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Economista</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Encarregado de Setor</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Encarregado de Turma</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Estatístico</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Executivo Público I</p></td><td valign="top" width="256"><p style="text-align: center;">V</p></td></tr><tr><td valign="top" width="234"><p>Motorista</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Oficial Administrativo</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Oficial de Gabinete</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Oficial de Serviços e Manutenção</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Oficial de Serviços Gráficos</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Operador de Máquinas</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Operador de Telecomunicações</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Revisor</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr><tr><td valign="top" width="234"><p>Secretário</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Técnico de Contabilidade</p></td><td valign="top" width="256"><p style="text-align: center;">II</p></td></tr><tr><td valign="top" width="234"><p>Telefonista</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr><tr><td valign="top" width="234"><p>Trabalhador Braçal</p></td><td valign="top" width="256"><p style="text-align: center;">I</p></td></tr></tbody></table>
+**SUBANEXO 3 - Classes enquadradas na [Lei Complementar nº 712/93](http://www.al.sp.gov.br/norma?id=16084)**
+
+**GRUPO**
+
+Administrador
+
+IV
+
+Agente Administrativo
+
+II
+
+Agente de Administração Pública
+
+IV
+
+Agente de Serviços Técnicos
+
+II
+
+Almoxarife
+
+II
+
+Ascensorista
+
+I
+
+Assessor Técnico de Gabinete
+
+V
+
+Assistente Técnico da Administração Pública
+
+V
+
+Assistente Técnico de Direção I
+
+V
+
+Assistente Técnico de Direção II
+
+V
+
+Assistente Técnico de Direção III
+
+V
+
+Assistente Técnico de Gabinete I
+
+V
+
+Assistente Técnico de Gabinete II
+
+V
+
+Auxiliar de Administração Pública
+
+IV
+
+Auxiliar de Desenvolvimento Infantil
+
+I
+
+Auxiliar de Gabinete
+
+II
+
+Auxiliar de Serviços
+
+I
+
+Bibliotecário
+
+IV
+
+Chefe de Gabinete (NR)
+
+*- Classe incluída pelo artigo 21 da [Lei Complementar nº 975, de 06/10/2005](http://www.al.sp.gov.br/norma?id=58294), retroagindo seus efeitos a 01/09/2005.*
+
+V (NR)
+
+Chefe de Seção
+
+III
+
+Chefe de Seção Técnica
+
+IV
+
+Coordenador da Fazenda Estadual (NR)
+
+*- Classe incluída pelo artigo 21 da [Lei Complementar nº 975, de 06/10/2005](http://www.al.sp.gov.br/norma?id=58294), retroagindo seus efeitos a 01/09/2005.*
+
+V (NR)
+
+Diretor de Departamento
+
+V
+
+Diretor de Divisão
+
+V
+
+Diretor de Serviço
+
+V
+
+Diretor Técnico de Departamento
+
+V
+
+Diretor Técnico de Divisão
+
+V
+
+Diretor Técnico de Divisão de Saúde (NR)
+
+*- Classe incluída pelo artigo 21 da [Lei Complementar nº 975, de 06/10/2005](http://www.al.sp.gov.br/norma?id=58294), retroagindo seus efeitos a 01/09/2005.*
+
+V (NR)
+
+Diretor Técnico de Serviço
+
+V
+
+Economista
+
+IV
+
+Encarregado de Setor
+
+II
+
+Encarregado de Turma
+
+II
+
+Estatístico
+
+IV
+
+Executivo Público I
+
+V
+
+Motorista
+
+II
+
+Oficial Administrativo
+
+II
+
+Oficial de Gabinete
+
+II
+
+Oficial de Serviços e Manutenção
+
+I
+
+Oficial de Serviços Gráficos
+
+I
+
+Operador de Máquinas
+
+II
+
+Operador de Telecomunicações
+
+II
+
+Revisor
+
+IV
+
+Secretário
+
+II
+
+Técnico de Contabilidade
+
+II
+
+Telefonista
+
+I
+
+Trabalhador Braçal
+
+I
 
 #### ANEXO
 
 a que se refere o artigo 4º da Lei Complementar nº 831, de 1º de outubro de 1997.
 
-<table align="center" border="1" cellpadding="2" cellspacing="0"><tbody><tr><td valign="top" width="234"><p><b>SUBANEXO 4 - Classes enquadradas na <a target="_top" href="http://www.al.sp.gov.br/norma?id=25538">Lei Complementar nº 540/88</a></b></p></td><td valign="top" width="256"><p style="text-align: center;"><b>GRUPO</b></p></td></tr><tr><td valign="top" width="234"><p>Engenheiro I a VI</p></td><td valign="top" width="256"><p style="text-align: center;">IV</p></td></tr></tbody></table>
+**SUBANEXO 4 - Classes enquadradas na [Lei Complementar nº 540/88](http://www.al.sp.gov.br/norma?id=25538)**
+
+**GRUPO**
+
+Engenheiro I a VI
+
+IV

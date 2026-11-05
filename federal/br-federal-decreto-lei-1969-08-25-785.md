@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/2893fd3f-23c1-4603-9c3e-f3cad9b69baf/texto#nowhere)
 
-###DEL-000785-0-000-25-08-1969@@@
-
 DECreto-LEI Nº 785, dE 25 De AGÔSTO DE 1969
 
 Dispõe sôbre infrações às normas relativas à saúde e respectivas penalidades.

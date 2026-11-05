@@ -1,5 +1,3 @@
-###DEL-003717-0-000-15-10-1941@@@
-
 DECRETO-lei N. 3.717 – DE 15 DE OUTUBRO DE 1941
 
 Dispõe sobre a inspeção sanitária e classificação do mel de abelhas e dá outras providências.

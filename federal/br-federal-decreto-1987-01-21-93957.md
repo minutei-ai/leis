@@ -1,5 +1,3 @@
-###DEC-093957-0-000-21-01-1987@@@
-
 DECRETO Nº 93.957, DE 21 DE JANEIRO DE 1987
 
 Dispõe sobre o regime jurídico da aprovação de projetos de florestamento para fins de aplicação dos recursos dos Fundos de Investimento de que trata o Decreto-lei nº 1.376, de 12 de dezembro de 1974, e dá outras providências.

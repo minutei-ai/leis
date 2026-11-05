@@ -1,5 +1,3 @@
-###DEC-059516-0-000-09-11-1966@@@
-
 decreto n° 59.516, de 9 de novembro de 1966.
 
 Autoriza a cidadã brasileira Anésia Soares Cunha a pesquisar águas marinhas no município de Jequitinhonha, Estado de Minas Gerais.

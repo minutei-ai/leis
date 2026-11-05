@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=59886)
-
 # LEI Nº 12.207, DE 06 DE JANEIRO DE 2006
 
 ## (Projeto de lei nº 472/2005, do deputado Orlando Morando - PL)

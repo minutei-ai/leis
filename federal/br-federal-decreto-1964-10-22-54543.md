@@ -1,5 +1,3 @@
-###DEC-054543-0-000-22-10-1964@@@
-
 DECRETO Nº 54.543, DE 22 DE OUTUBRO DE 1964.
 
 Prorroga por 60 dias o prazo estabelecido no art. 2º do Decreto número 54.210, de 26 de agôsto de 1964 e dá outras providências.

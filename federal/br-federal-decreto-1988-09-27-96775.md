@@ -1,5 +1,3 @@
-###DEC-096775-0-000-27-09-1988@@@
-
 DECRETO N° 96.775, DE 27 DE SETEMBRO DE 1988
 
 Altera a redação dos incisos I, II, VI e VIII do artigo 19 do Decreto n° 85.565, de 18 de dezembro de 1980, que regulamenta o Decreto-Lei n° 1.809, de 7 de outubro de 198O, e dá outras providencias.

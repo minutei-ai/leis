@@ -1,5 +1,3 @@
-###DEC-066802-0-000-30-06-1970@@@
-
 DECRETO Nº 66.802 - DE 30 DE JUNHO DE 1970
 
 Aprova incorporação de empr6esa de energia elétrica no Estado de Minas Gerais e dá outras providências.

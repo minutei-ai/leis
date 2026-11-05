@@ -1,5 +1,3 @@
-###DEL-000082-0-000-18-12-1937@@@
-
 DECRETO-LEI N. 82 – DE 18 DE DEZEMBRO DE 1937
 
 Incorpora o Instituto Nacional de Saúde Pública ao Instituto Osvaldo Cruz e define as atribuições dêste

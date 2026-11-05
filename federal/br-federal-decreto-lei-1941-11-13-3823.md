@@ -1,5 +1,3 @@
-###DEL-003823-0-000-13-11-1941@@@
-
 DECRETO-LEI N. 3.823 – DE 13 DE NOVEMBRO DE 1941
 
 Abre, pelo Ministério da Educação e Saúde, o credito suplementar de 2:000$0, à verba, que especifica.

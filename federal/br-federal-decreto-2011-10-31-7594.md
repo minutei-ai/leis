@@ -1,5 +1,3 @@
-###DEC-007594-0-000-31-10-2011-PUB-01@@@
-
 DECRETO Nº 7.594, DE 31 DE OUTUBRO DE 2011
 
 Altera o Decreto nº 6.170, de 25 de julho de 2007, que dispõe sobre as normas relativas às transferências de recursos da União mediante convênios e contratos  de repasse.

@@ -1,5 +1,3 @@
-###MPV-000164-0-000-29-01-2004@@@
-
 MEDIDA PROVISÓRIA Nº 164, DE 29 DE JANEIRO 2004.
 
 Dispõe sobre a Contribuição para os Programas de Integração Social e de Formação do Patrimônio do Servidor Público e a Contribuição para o Financiamento da Seguridade Social incidentes sobre a importação de bens e serviços, e dá outras providências.

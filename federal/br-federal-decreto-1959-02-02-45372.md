@@ -1,5 +1,3 @@
-###DEC-045372-0-000-02-02-1959@@@
-
 decreto nº 45.372, de 2 fevereiro de 1959.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Ferro faixa de terreno e benfeitorias atingidas pela ligação Campina Grande-Patos, no Estado da Paraíba.

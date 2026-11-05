@@ -1,5 +1,3 @@
-###DEC-061394-0-000-21-09-1967@@@
-
 DECRETO nº 61.394, DE 21 DE SETEMBRO DE 1967.
 
 Declara de utilidade pública a “Sociedade Hospitalar Beneficente São Vicente de Paulo”, com sede em Passo Fundo, Estado do Rio Grande do Sul.

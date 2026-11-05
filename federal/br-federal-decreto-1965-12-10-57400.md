@@ -1,5 +1,3 @@
-###DEC-057400-0-000-10-12-1965@@@
-
 Decreto nº 57.400, de 10 de dezembro de 1965.
 
 Cria o 11º Pelotão de Remuniciamento e dá outras providências.

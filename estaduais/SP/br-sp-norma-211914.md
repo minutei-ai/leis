@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/211914)<br>
-
 # DECRETO N° 70.136, DE 01 DE DEZEMBRO DE 2025
 
 ### _Institui a Medalha "Cinquentenário do Comando de Policiamento do Interior Três - Coronel PM Paulo Monte Serrat Filho" e dá providências correlatas._

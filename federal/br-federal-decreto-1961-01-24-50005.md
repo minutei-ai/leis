@@ -1,5 +1,3 @@
-###DEC-050005-0-000-24-01-1961@@@
-
 DECRETO Nº 50.005, DE 24 DE JANEIRO DE 1961.
 
 Autoriza o cidadão brasileiro Joaquim da Silva Caldeira a pesquisar minério de ferro no município de Guanhães, Estado de Minas Gerais.

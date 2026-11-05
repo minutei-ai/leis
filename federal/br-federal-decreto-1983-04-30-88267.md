@@ -1,5 +1,3 @@
-###DEC-088267-0-000-30-04-1983@@@
-
 DECRETO Nº 88.267, DE 30 DE ABRIL DE 1983
 
 Fixa novos níveis de salário-mínimo para todo o território nacional.

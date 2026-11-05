@@ -1,5 +1,3 @@
-###DEL-000344-0-000-28-12-1967@@@
-
 DECRETO-LEI Nº 344, DE 28 DE DEZEMBRO DE 1967
 
 Altera alíquotas do Impôsto sôbre Produtos Industrializados.

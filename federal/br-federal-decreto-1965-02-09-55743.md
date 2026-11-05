@@ -1,5 +1,3 @@
-###DEC-055743-0-000-09-02-1965@@@
-
 decreto nº 55.743, de 9 de fevereiro de 1965.
 
 Declara de utilidade pública para fins de desapropriação, imóveis destinados à Universidade do Ceará.

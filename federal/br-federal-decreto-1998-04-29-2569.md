@@ -1,5 +1,3 @@
-###DEC-002569-0-000-29-04-1998@@@
-
 DECRETO Nº 2.569, DE 29 DE ABRIL DE 1998
 
 Fixa, para o período de 1º maio 1998 a 30 de abril de 1999, o limite para as importações realizadas pelas empresas comerciais da Zona Franca de Manaus, beneficiadas com os incentivos de que trata o Decreto-lei nº 288, de 28 de fevereiro de 1967, bem assim os aplicáveis às Áreas de Livre Comércio.
@@ -62,7 +60,27 @@ Art. 4º A SUFRAMA poderá conceder às empresas comerciais localizadas na ZFM e
 
 LAe = \[ MVIe x 0,30 + Mle x 0,20 + NEe x 0,20 + (RTe x Ce) x 0,15 + BIRe x 0,1 5\]x LAG
 
-<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:115.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Symbol; font-size:10pt">S</span><span style="font-family:Arial; font-size:10pt">MVI</span></p></td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Symbol; font-size:10pt">S</span><span style="font-family:Arial; font-size:10pt">MI</span></p></td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Symbol; font-size:10pt">S</span><span style="font-family:Arial; font-size:10pt">NE</span></p></td><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Symbol; font-size:10pt">S</span><span style="font-family:Arial; font-size:10pt">RT</span></p></td><td style="width:100.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top"><p style="line-height:12pt; widows:0; orphans:0"><span style="font-family:Symbol; font-size:10pt">S</span><span style="font-family:Arial; font-size:10pt">BIR</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0" style="border-collapse:collapse"><tbody><tr><td style="width:115.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+SMVI
+
+</td><td style="width:45.9pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+SMI
+
+</td><td style="width:67.15pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+SNE
+
+</td><td style="width:60.1pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+SRT
+
+</td><td style="width:100.75pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top">
+
+SBIR
+
+</td></tr></tbody></table>
 
 sendo:
 

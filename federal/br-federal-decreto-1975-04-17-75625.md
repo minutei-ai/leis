@@ -1,5 +1,3 @@
-###DEC-075625-0-000-17-04-1975@@@
-
 DECRETO Nº 75.625, DE 17 DE ABRIL DE 1975.
 
 Altera o Decreto nº 71.407, de 20 de novembro de 1972 que dispõe sobre o Instituto Nacional de Estudos e Pesquisas Educacionais, do Ministério da Educação e Cultura.

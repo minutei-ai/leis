@@ -1,46 +1,44 @@
-###DEC-023254-0-000-27-06-1947@@@
+**DECRETO Nº 23.254, DE 27 DE JUNHO DE 1947.**
 
-<strong>DECRETO Nº 23.254, DE 27 DE JUNHO DE 1947.</strong>
+***Aprova o Regulamento para o Comando de Zona Aérea.***
 
-<em><strong>Aprova o Regulamento para o Comando de Zona Aérea.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, item I, da Constituição,
+**Decreta:**
 
-<strong>Decreta:</strong>
+**Art**. 1º Fica aprovado o Regulamento para o Comando de Zona Aérea que, com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica, para execução dos Decretos-leis ns. 9.888 e 9.889, de 16 de setembro de 1946.
 
-<strong>Art</strong>. 1º Fica aprovado o Regulamento para o Comando de Zona Aérea que, com êste baixa, assinado pelo Ministro de Estado dos Negócios da Aeronáutica, para execução dos Decretos-leis ns. 9.888 e 9.889, de 16 de setembro de 1946.
+**Art**. 2º O aludido Regulamento entrará em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º O aludido Regulamento entrará em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, em 27 de junho de 1947, 126º da Independência e 59º da República.
 
-<strong>Eurico G. Dutra</strong>
+**Eurico G. Dutra**
 
 Armando Trompowsky
 
-<strong>regulamento para o comando de zona aérea</strong>
+**regulamento para o comando de zona aérea**
 
-<strong>capítulo i</strong>
+**capítulo i**
 
-<em>Missão e Subordinação</em>
+*Missão e Subordinação*
 
-<strong>Art</strong>. 1º O Comando da Zona Aérea é órgão de Comando Territorial ao qual compete a preparação militar e logística sob o ponto de vista aeronáutico de todo território sob sua jurisdição, incumbindo-lhe ainda a responsabilidade pela instrução das Fôrças, Serviços e Estabelecimentos sediados ou em atividades nos respectivos territórios, bem como o preparo e desenvolvimento dos planos para o emprego correspondente e das medidas de conjunto para a defesa aérea de sua Zona.
+**Art**. 1º O Comando da Zona Aérea é órgão de Comando Territorial ao qual compete a preparação militar e logística sob o ponto de vista aeronáutico de todo território sob sua jurisdição, incumbindo-lhe ainda a responsabilidade pela instrução das Fôrças, Serviços e Estabelecimentos sediados ou em atividades nos respectivos territórios, bem como o preparo e desenvolvimento dos planos para o emprego correspondente e das medidas de conjunto para a defesa aérea de sua Zona.
 
 Parágrafo único. O Comando de Zona Aérea exerce sua ação sôbre as Unidades, Serviços e Órgãos sediados ou em atividade nos respectivos Territórios, com exceção daqueles que, por fôrça de regulamento ou ato expresso do Ministro da Aeronáutica, estejam subordinados, parcial ou totalmente a outras autoridades, os quais devem contudo, aos comandantes de Zonas as dependências disciplinares que lhe compete como Comandante de Guarnição.
 
-<strong>Art</strong>. 2º O Comando da Zona Aérea é subordinado ao Ministro da Aeronáutica:
+**Art**. 2º O Comando da Zona Aérea é subordinado ao Ministro da Aeronáutica:
 
 \- diretamente nas questões disciplinares e administrativas;
 
 \- por intermédio do Estado Maior da Aeronáutica nas questões de organização, instrução e emprego.
 
-<strong>capítulo ii</strong>
+**capítulo ii**
 
-<em>Organização e Atribuições</em>
+*Organização e Atribuições*
 
-<strong>Art</strong>. 3º - O Comando de Zona Aérea, para realizar seus objetivos, terá a seguinte organização:
+**Art**. 3º - O Comando de Zona Aérea, para realizar seus objetivos, terá a seguinte organização:
 
 \- Comandante da Zona Aérea
 
@@ -52,9 +50,9 @@ Parágrafo único. O Comando de Zona Aérea exerce sua ação sôbre as Unidades
 
 \- Elementos do Q. G.
 
-<em>Comandante da Zona Aérea</em>
+*Comandante da Zona Aérea*
 
-<strong>Art</strong>. 4º - Ao Comandante de Zona Aérea, incumbido de zelar para que a instrução nas Unidades da F. A. B. se processe com o máximo de eficiência, compete:
+**Art**. 4º - Ao Comandante de Zona Aérea, incumbido de zelar para que a instrução nas Unidades da F. A. B. se processe com o máximo de eficiência, compete:
 
 a) a responsabilidade pela coordenação, superintendência e eficiência do funcionamento dos Serviços da Zona;
 
@@ -80,9 +78,9 @@ k) transferir dentro do território de sua jurisdição as praças sob o seu Com
 
 l) apresentar ao Ministro, até 1º de fevereiro, um relatório sucinto compreendendo a estatística das atividades da Zona Aérea no ano anterior e uma crítica contendo sugestões visando sanar as deficiências encontradas.
 
-<em>Estado Maior</em>
+*Estado Maior*
 
-<strong>Art</strong>. 5º O Estado Maior, é o órgão do Comando que se caracteriza como elemento de previsão, competindo-lhe:
+**Art**. 5º O Estado Maior, é o órgão do Comando que se caracteriza como elemento de previsão, competindo-lhe:
 
 a) reunir e preparar os elementos para que o comandante possa julgar e decidir;
 
@@ -94,7 +92,7 @@ d) assegurar a transmissão das ordens e instruções e verificar a sua execuç�
 
 e) preparar os documentos que devam ser submetidos à assinatura do Comandante.
 
-<strong>Art</strong>. 6º Para cumprimento de suas finalidades o E. M. Z. Aé. compreende:
+**Art**. 6º Para cumprimento de suas finalidades o E. M. Z. Aé. compreende:
 
 Chefia.
 
@@ -106,13 +104,13 @@ Chefia.
 
 4ª Seção - Logística e Serviços ....................................................................................... A-4
 
-<strong>Art</strong>. 7º Ao Chefe do E. M. Z. Aé. compete:
+**Art**. 7º Ao Chefe do E. M. Z. Aé. compete:
 
 a) dirigir o serviço do E. M., orientando os chefes de Seção ou adjuntos sôbre os respectivos trabalhos, fiscalizando sua execução;
 
 b) exercer ação direta e pessoal sôbre os trabalhos de preparação e instrução para a guerra;
 
-c) provocar ordens de execução e providenciar sôbre os entendimentos que se fizerem necessários, com elementos do Exército e da Marinha, tendo em vista o que prescreve a letra <em>b</em>;
+c) provocar ordens de execução e providenciar sôbre os entendimentos que se fizerem necessários, com elementos do Exército e da Marinha, tendo em vista o que prescreve a letra *b*;
 
 d) dirigir a instrução física, intelectual, tática e técnica dos oficiais do E.M.;
 
@@ -140,7 +138,7 @@ o) organizar até 20 de janeiro, os dados para o relatório dos trabalhos realiz
 
 Parágrafo único. No exercício do cargo o Chefe do E. M. das Zonas Aéreas tem atribuições de comandante de unidade relativa ao seu pôsto sôbre o pessoal subordinado à Zona Aérea.
 
-<strong>Art</strong>. 8º Para atender aos serviços comuns aos diversos órgãos do Comando, o E. M. dispõe de uma seção auxiliar, diretamente subordinada ao Chefe do E.M.Z. Aé., que compreende:
+**Art**. 8º Para atender aos serviços comuns aos diversos órgãos do Comando, o E. M. dispõe de uma seção auxiliar, diretamente subordinada ao Chefe do E.M.Z. Aé., que compreende:
 
 Secretaria (protocolo, expedição, arquivo, mecanografia e estatística).
 
@@ -148,7 +146,7 @@ Portaria (freqüência, asseio, conservação e vigilância das dependências do
 
 Transportes (próprios do Q. G.).
 
-<strong>Art</strong>. 9º A 1ª Seção - Pessoal - compete:
+**Art**. 9º A 1ª Seção - Pessoal - compete:
 
 a) tratar dos assuntos referentes a:
 
@@ -188,7 +186,7 @@ convocação de reservas
 
 pessoal da reserva e reformados.
 
-<strong>Art</strong>. 10. À 2ª Seção - Informações - compete:
+**Art**. 10. À 2ª Seção - Informações - compete:
 
 a) organizar e dirigir a bisca de informações militares e os planos respectivos;
 
@@ -208,7 +206,7 @@ h) atender as relações com o público;
 
 i) controlar a documentação sigilosa.
 
-<strong>Art</strong>. 11. À 3ª Seção - Operações - compete:
+**Art**. 11. À 3ª Seção - Operações - compete:
 
 a) estudar e encaminhar sugestões relativas a organisação dos efetivos, regulamentos de emprêgo das unidades aéreas, normas de emprêgo do material aéreo, terrestre, bélico e de comunicações;
 
@@ -230,7 +228,7 @@ g) estudar e determinar o local para a instrução de tiro e bombardeio;
 
 h) realizar inspeções periódicas, tendo em vista fiscalizar e orientar a instrução e o adestramento nas unidades, encaminhando ao Comando relatórios relativos ao aproveitamento.
 
-<strong>Art</strong>. 12. A 4ª Seção - Logística - compete:
+**Art**. 12. A 4ª Seção - Logística - compete:
 
 a) Estudar os planos de movimentação e deslocamentos das unidades, bem como os recursos em transporte, abastecimento, etc.;
 
@@ -244,17 +242,17 @@ e) tratar da mobilização industrial, mantendo em dia, um fichário do material
 
 Parágrafo único. Quando a Chefia da Seção for exercida por oficial menos graduado que os Chefes de Serviço a coordenação dos serviços será pelo Chefe de E. M. de Zona.
 
-<em>Inspetoria</em>
+*Inspetoria*
 
-<strong>Art</strong>. 13. A Inspetoria será exercida pelo Comandante da Zona Aérea, por si ou pelos seus órgãos do Q. G., correlatos aos inspecionados.
+**Art**. 13. A Inspetoria será exercida pelo Comandante da Zona Aérea, por si ou pelos seus órgãos do Q. G., correlatos aos inspecionados.
 
-<em>Serviços</em>
+*Serviços*
 
-<strong>Art</strong>. 14. Os Serviços de Zona Aérea são conjuntos de órgãos (de direção e execução) tendo como objetivo básico atender dentro de cada Zona, as necessidades da F. A. B., assegurando às Unidades Aéreas todos os recursos necessários a sua eficiência, bem como prever os níveis de material necessários a execução dos planos elaborados pelo E. M.
+**Art**. 14. Os Serviços de Zona Aérea são conjuntos de órgãos (de direção e execução) tendo como objetivo básico atender dentro de cada Zona, as necessidades da F. A. B., assegurando às Unidades Aéreas todos os recursos necessários a sua eficiência, bem como prever os níveis de material necessários a execução dos planos elaborados pelo E. M.
 
-<strong>Art</strong>. 15. Cada Serviço, disporá em cada Zona: de um órgão de direção regional, de órgãos de execução regional e órgãos de execução local.
+**Art**. 15. Cada Serviço, disporá em cada Zona: de um órgão de direção regional, de órgãos de execução regional e órgãos de execução local.
 
-<strong>Art</strong>. 16. O Comando da Zona Aérea dispõe dos seguintes órgãos de direção regional de serviços (Chefias de Serviço):
+**Art**. 16. O Comando da Zona Aérea dispõe dos seguintes órgãos de direção regional de serviços (Chefias de Serviço):
 
 Serviço do Material de Zona Aérea - (S. M. Z. Aé.).
 
@@ -266,11 +264,11 @@ Serviço de Engenharia de Zona Aérea - (S. Eng. Z. Aé.).
 
 Serviço de Rotas de Zona Aérea - (S. R. Z. Aé.).
 
-<strong>Art</strong>. 17. Os Chefes de Serviços de Zona Aéreas (S. Z. Aé) centralizam, como órgãos de direção dentro das respectivas Zonas, as questões e assuntos da alçada do respectivo Serviço.
+**Art**. 17. Os Chefes de Serviços de Zona Aéreas (S. Z. Aé) centralizam, como órgãos de direção dentro das respectivas Zonas, as questões e assuntos da alçada do respectivo Serviço.
 
-<strong>Art</strong>. 18. Os Chefes de S. Z. Aé. se subordinam disciplinar e administrativamente aos Comandos das Zonas Aéreas e, tecnicamente, às Diretorias correspondentes, através dos respectivos comandantes quando se tratar de ordem de serviço, e, diretamente, nos assuntos de natureza técnica informativa.
+**Art**. 18. Os Chefes de S. Z. Aé. se subordinam disciplinar e administrativamente aos Comandos das Zonas Aéreas e, tecnicamente, às Diretorias correspondentes, através dos respectivos comandantes quando se tratar de ordem de serviço, e, diretamente, nos assuntos de natureza técnica informativa.
 
-<strong>Art</strong>. 19. Em princípio, os S. Z. Aé. serão chefiados por oficiais superiores.
+**Art**. 19. Em princípio, os S. Z. Aé. serão chefiados por oficiais superiores.
 
 \- S.M.Z. Aé. - oficial superior aviador, de preferência da categoria de Engenheiro;
 
@@ -284,7 +282,7 @@ Serviço de Rotas de Zona Aérea - (S. R. Z. Aé.).
 
 Parágrafo único. Os S. Z. Aé. disporão do pessoal militar previsto no Q. E.e pessoal civil de acôrdo com as tabelas aprovadas.
 
-<strong>Art</strong>. 20. Ao Chefe do S.Z.Aé., responsável perante o Comandante da Zona pela eficiência de todos os serviços que lhe são afetos, compete:
+**Art**. 20. Ao Chefe do S.Z.Aé., responsável perante o Comandante da Zona pela eficiência de todos os serviços que lhe são afetos, compete:
 
 a) orientar e fiscalizar as atividades técnicas dos órgãos existentes nas respectivas Zonas;
 
@@ -306,11 +304,11 @@ d) Ao S.Eng.Z.Aé. - elaborar todos os estudos anteprojetos e orçamentos das ob
 
 e) Ao S.R.Z.Aé - Dirigir os serviços afetos à D.R., na Zona Aérea, no tocante à proteção ao vôo, transmissões, comunicações e metereologia, lhe devendo subordinação tôdas as redes e postos regionais; orientar as questões relativas ao material empregado nas redes e postos regionais no tocante a suprimentos e manutenção; opinar nas questões de pessoal utilizado no Serviço.
 
-<strong>Art</strong>. 21. Os Chefes do S.Z.Aé. serão auxiliares técnicos do Comandante de Zona Aérea em todos os assuntos que se relacionem com o respectivo serviço, recebendo instruções diretas dos órgãos diretores dos Serviços, dos quais são delegados regionais.
+**Art**. 21. Os Chefes do S.Z.Aé. serão auxiliares técnicos do Comandante de Zona Aérea em todos os assuntos que se relacionem com o respectivo serviço, recebendo instruções diretas dos órgãos diretores dos Serviços, dos quais são delegados regionais.
 
-<em>Elementos do Q.G.</em>
+*Elementos do Q.G.*
 
-<strong>Art</strong>. 22. O Comando de Zona poderá dispor dos seguintes elementos de Q.G.:
+**Art**. 22. O Comando de Zona poderá dispor dos seguintes elementos de Q.G.:
 
 \- Unidade de Aviões do Q.G.
 
@@ -322,13 +320,13 @@ e) Ao S.R.Z.Aé - Dirigir os serviços afetos à D.R., na Zona Aérea, no tocant
 
 \- Unidades de Guarda.
 
-<strong>Art</strong>. 23. Os elementos do Q.G. terão organização e efetivos próprios em cada caso.
+**Art**. 23. Os elementos do Q.G. terão organização e efetivos próprios em cada caso.
 
-<strong>capítulo iii</strong>
+**capítulo iii**
 
-<em>Pessoal</em>
+*Pessoal*
 
-<strong>Art</strong>. 24. O Comando da Zona Aérea disporá do seguinte pessoal:
+**Art**. 24. O Comando da Zona Aérea disporá do seguinte pessoal:
 
 a) Comandante - Major Brigadeiro ou Brigadeiro do Ar.
 
@@ -344,11 +342,11 @@ f) Pessoal militar em número fixado pelo respectivo quadro de efetivos;
 
 g) Pessoal Civil - De acôrdo com as tabelas.
 
-<strong>capítulo iv</strong>
+**capítulo iv**
 
-<em>Das Substituições Temporárias</em>
+*Das Substituições Temporárias*
 
-<strong>Art</strong>. 25. Nos impedimentos temporários de curta duração a substituição será feita pelos oficiais dentro da própria repartição. Nos casos de férias ou substituições interinas;
+**Art**. 25. Nos impedimentos temporários de curta duração a substituição será feita pelos oficiais dentro da própria repartição. Nos casos de férias ou substituições interinas;
 
 a) o Comandante da Zona pelo mais graduado dos oficiais aviadores da Zona Aérea;
 
@@ -356,14 +354,14 @@ b) o Chefe do Estado Maior da Zona Aérea pelo mais graduado dos Chefes de Seç�
 
 c) desde que o Comandante ou Chefe do Estado Maior não se ausente por período superior a 10 dias, ou não abandonem o território da jurisdição não haverá passagem de comando ou função; o Chefe do E. M. ou o oficial mais graduado do seu E. M., em tal caso, responde pelo expediente.
 
-<strong>Art</strong>. 26. Sempre que das substituições acima ficarem algumas autoridade subordinadas a comando ou repartição a cargo do oficial sôbre o qual tenham precedência hierárquica, as relações entre eles se limitarão ao encaminhamento de documentos que serão resolvidos pela autoridade superior.
+**Art**. 26. Sempre que das substituições acima ficarem algumas autoridade subordinadas a comando ou repartição a cargo do oficial sôbre o qual tenham precedência hierárquica, as relações entre eles se limitarão ao encaminhamento de documentos que serão resolvidos pela autoridade superior.
 
-<strong>capítulo v</strong>
+**capítulo v**
 
-<em>Disposições Gerias</em>
+*Disposições Gerias*
 
-<strong>Art</strong>. 27. Os Comando de Zona Aérea, terão um "Regimento Interno" que estabelecerá as minúcias de sua organização e funcionamento, as subdivisão dos serviços e as atribuições e deveres do pessoal.
+**Art**. 27. Os Comando de Zona Aérea, terão um "Regimento Interno" que estabelecerá as minúcias de sua organização e funcionamento, as subdivisão dos serviços e as atribuições e deveres do pessoal.
 
 Rio de Janeiro, em 27 de junho de 1947.
 
-<strong>Armando Trompowsky</strong>
+**Armando Trompowsky**

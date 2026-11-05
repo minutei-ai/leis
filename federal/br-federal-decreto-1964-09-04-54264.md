@@ -1,5 +1,3 @@
-###DEC-054264-0-000-04-09-1964@@@
-
 DECRETO Nº 54.264, DE 4 DE SETEMBRO DE 1964.
 
 Aprova a revisão do Quadro do Pessoal do Departamento Nacional de Portos e Vias Navegáveis e dá outras providências.

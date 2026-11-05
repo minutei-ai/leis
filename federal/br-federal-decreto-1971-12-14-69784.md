@@ -1,5 +1,3 @@
-###DEC-069784-0-000-14-12-1971@@@
-
 DECRETO Nº 69.784 - DE 14 DE DEZEMBRO DE 1971
 
 Autoriza o Presidente da Comissão Coordenadora do Projeto Aeroporto Internacional (CCPAI) a gerir recursos provenientes de empréstimo externo e dá outras providências.

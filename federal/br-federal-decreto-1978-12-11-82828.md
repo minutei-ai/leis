@@ -1,5 +1,3 @@
-###DEC-082828-0-000-11-12-1978@@@
-
 Decreto nº 82.828, de 11 de dezembro de 1978
 
 Autorizada o registro, em nome da União Federal, do imóvel que menciona, situado no Município de Benjamim Constant, Estado do Amazonas.

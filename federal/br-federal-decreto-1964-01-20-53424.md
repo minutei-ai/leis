@@ -1,5 +1,3 @@
-###DEC-053424-0-000-20-01-1964@@@
-
 DECRETO Nº 53.424, DE 20 DE JANEIRO DE 1964.
 
 Autoriza Minex S.A. Emprêsa de Mineração a pesquisar bauxita no município de Mogi das Cruzes, Estado de São Paulo.

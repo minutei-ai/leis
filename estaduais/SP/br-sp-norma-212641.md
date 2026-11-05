@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212641)<br>
-
 # DECRETO N° 70.634, DE 21 DE MAIO DE 2026
 
 ### _Transfere para a Secretaria da Saúde a administração do imóvel que especifica e autoriza a outorga de uso ao Município de Caraguatatuba._

@@ -1,22 +1,20 @@
-###DEC-021586-0-000-05-08-1946@@@
+**DECRETO Nº 21.586, DE 5 DE AGÔSTO DE 1946**
 
-<strong>DECRETO Nº 21.586, DE 5 DE AGÔSTO DE 1946</strong>
+***Concede à sociedade anônima “Telefoktiebolaget L. M. Ericsson” autorização para funcionar na República.***
 
-<em><strong>Concede à sociedade anônima “Telefoktiebolaget L. M. Ericsson” autorização para funcionar na República.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, atendendo ao que requereu a sociedade anônima ”Telefonaktiebolaget L. M. Ericsson”,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, atendendo ao que requereu a sociedade anônima ”Telefonaktiebolaget L. M. Ericsson”,
-
-<strong>DECRETA:</strong>
+**DECRETA:**
 
 Artigo único. E’ concedida à sociedade anônima “Telefonaktiebolaget L.M. Ericsson”, com sede na cidade de Estocolmo, Suécia, autorização para funcionar na República, com o capital de Cr$4.000.000,00 (quatro milhões de cruzeiros) e os estatutos que apresentou, mediante as cláusulas que êste acompanham, assinadas pelo Ministro de Estado dos Negócios do Trabalho, Indústria e Comércio, ficando a mesma sociedade obrigada a cumprir integralmente as leis e regulamentos em vigor, ou que venham a vigorar, sôbre o objeto da referida autorização.
 
 Rio de Janeiro, 5 de agôsto de 1946, 125º da Independência e 58º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 Octacilio Negrão de Lima
 
-<strong>CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 21.586, DESTA DATA</strong>
+**CLÁUSULAS QUE ACOMPANHAM O DECRETO Nº 21.586, DESTA DATA**
 
 I
 
@@ -42,4 +40,4 @@ A infração de qualquer das cláusulas para a qual não esteja cominada pena es
 
 Rio de Janeiro, 5 de Agôsto de 1946.
 
-<strong>OCTACÍLIO NEGRÃO DE LIMA</strong>
+**OCTACÍLIO NEGRÃO DE LIMA**

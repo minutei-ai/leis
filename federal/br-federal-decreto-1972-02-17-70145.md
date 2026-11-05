@@ -1,5 +1,3 @@
-###DEC-070145-0-000-17-02-1972@@@
-
 DECRETO Nº 70.145, DE 17 DE FEVEREIRO DE 1972.
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada à passagem de linha de transmissão entre as sedes dos municípios de Novo Brasil e Jussara, no Estado de Goiás.

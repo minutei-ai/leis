@@ -1,5 +1,3 @@
-###DEC-046927-0-000-30-09-1959@@@
-
 DECRETO Nº 46.927, DE 30 DE SETEMBRO DE 1959.
 
 Autoriza o Ministro de Estado dos Negócios da Agricultura a alterar as especificações para classificação e fiscalização da exportações do abacaxi.

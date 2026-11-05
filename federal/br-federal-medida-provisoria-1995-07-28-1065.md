@@ -1,7 +1,3 @@
-1
-
-###MPV-001065-0-000-28-07-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.065, DE 28 DE JULHO DE 1995.
 
 Dá nova redação ao art. 2º da Lei nº 8.844, de 20 de janeiro de 1994.

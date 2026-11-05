@@ -1,5 +1,3 @@
-###DEC-084709-0-000-13-05-1980@@@
-
 DECRETO Nº 84.709, DE 13 DE MAIO DE 1980.
 
 Revoga o artigo 3º do Decreto nº 82.476, de 1978, e o Decreto nº 84.300, de 1979.

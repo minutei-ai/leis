@@ -1,5 +1,3 @@
-###DEL-000134-0-000-02-02-1967@@@
-
 DECRETO-LEI nº 134, de 2 DE FEVEREIRD DE 1967
 
 Dispõe sôbre o cálculo do “impôsto único” incidente sôbre águas minerais industrializadas, e dá outras providências.

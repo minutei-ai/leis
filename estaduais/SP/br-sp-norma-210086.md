@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210086)<br>
-
 # LEI N° 18.055, DE 04 DE OUTUBRO DE 2024
 
 ## (Projeto de lei n° 118/2024, do Deputado Thiago Auricchio - PL)

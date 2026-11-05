@@ -1,5 +1,3 @@
-###DEC-066970-0-000-28-07-1970@@@
-
 DECRETO Nº 66.970, DE 28 DE JULHO DE 1970.
 
 Declara caduco o Decreto nº 23.916, de 24 de setembro de 1947.

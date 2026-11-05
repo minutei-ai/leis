@@ -1,5 +1,3 @@
-###DEL-000027-0-000-30-11-1937@@@
-
 DECRETO-LEI N. 27 – DE 30 DE NOVEMBRO DE 1937
 
 Abre, pelo Ministério da Viação e Obras Públicas, o crédito especial de 1.500:000$000, destinado à construção de uma ponte sôbre o rio Toropí

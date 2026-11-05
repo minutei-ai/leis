@@ -1,5 +1,3 @@
-###DEC-048341-0-000-21-06-1960@@@
-
 Decreto nº 48.341, de 21 de junho de 1960.
 
 Autoriza o cidadão Brasileiro José Patrus de Souza a pesquisar silimanita e diamante, nos municípios de Grão Mogol e Virgem da Lapa, Estado de Minas Gerais.

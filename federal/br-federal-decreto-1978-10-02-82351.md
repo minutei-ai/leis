@@ -1,5 +1,3 @@
-###DEC-082351-0-000-02-10-1978@@@
-
 decreto nº 82.351, de 02 de setembro de 1978.
 
 Aprova o Estatuto do Centro Nacional de Aperfeiçoamento de Pessoal para Formação Profissional (CENAFOR).

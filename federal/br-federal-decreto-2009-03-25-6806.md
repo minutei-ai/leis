@@ -1,5 +1,3 @@
-###DEC-006806-0-000-25-03-2009@@@
-
 DECRETO Nº 6.806, DE 25 DE MARÇO DE 2009.
 
 Delega competência ao Ministro de Estado da Defesa para aprovar o Regulamento de Continências, Honras, Sinais de Respeito e Cerimonial Militar das Forças Armadas.

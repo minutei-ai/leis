@@ -1,5 +1,3 @@
-###DEC-052219-0-000-02-07-1963@@@
-
 DECRETO Nº 52.219, DE 2 DE JULHO DE 1963.
 
 Autoriza o cidadão brasileiro Clovis Scripilliti a pesquisar minério de ferro, no município de Jequié, Estado da Bahia.

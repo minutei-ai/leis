@@ -1,5 +1,3 @@
-###DEC-000619-0-000-29-07-1992@@@ 
-
 DECRETO N° 619, DE 29 DE JULHO DE 1992
 
 Promulga o Tratado para o Estabelecimento de um Estatuto das Empresas Binacionais Brasileiro-Argentinas, entre o Governo da República Federativa do Brasil e o Governo da República Argentina.

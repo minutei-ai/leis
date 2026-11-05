@@ -1,5 +1,3 @@
-###DEC-051969-0-000-26-04-1963@@@
-
 Decreto nº 51.969, de 26 de abril de 1963.
 
 Autoriza o cidadão brasilleiro Lygio de Souza Santos a pesquisar bauxita no município de Itamonte, Estado de Minas Gerais.

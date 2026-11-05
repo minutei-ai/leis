@@ -1,5 +1,3 @@
-###DEC-069288-0-000-24-09-1971@@@
-
 Decreto nº 69.288, de 24 de setembro de 1971.
 
 Dispõe sôbre o Regulamento para o Corpo do Pessoal Subalterno da Armada, aprovado pelo Decreto número 60.433, de 13 de março de 1967 e alterado pelos decretos nºs 63.725, de 4 de dezembro de 1968 e 68.359, de 16 de março de 1971.

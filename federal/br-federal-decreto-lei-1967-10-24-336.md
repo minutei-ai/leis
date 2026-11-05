@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d2c5f1db-2ae5-4f5a-a8c1-dae00f6eca18/texto#nowhere)
 
-###DEL-000336-0-000-24-10-1967@@@
-
 DECRETO-LEI Nº 336, DE 24 DE OUTUBRO DE 1967
 
 Altera os critérios de distribuição do Impôsto Único sôbre Energia Elétrica e dá outras providências.

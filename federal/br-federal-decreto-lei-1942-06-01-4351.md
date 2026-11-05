@@ -1,5 +1,3 @@
-###DEL-004351-0-000-01-06-1942@@@
-
 DECRETO-LEI N. 4.351 – DE 1 DE JUNHO DE 1942
 
 Desapropria terrenos adjacentes ao aeroporto de Jagarão, e declara a urgência da referida desapropriação

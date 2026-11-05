@@ -1,5 +1,3 @@
-###DEC-066085-0-000-16-01-1970@@@
-
 decreto nº 66.085 - de 16 de janeiro de 1970
 
 Extingue o Quadro de Radiotelegrafistas do Exército e dá outras providências.

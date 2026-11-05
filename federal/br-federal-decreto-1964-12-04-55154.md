@@ -1,5 +1,3 @@
-###DEC-055154-0-000-04-12-1964@@@
-
 Decreto nº 55.154, de 4 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Luiz Edmundo Appel a pesquisar cassiterita no município de Pôrto Velho, Território Federal de Rondônia.

@@ -1,5 +1,3 @@
-###DEC-045749-0-000-07-04-1959@@@
-
 DECRETO Nº 45.749, DE 7 DE abril DE 1959.
 
 Autoriza a Companhia Brasileira de Ligantes Hidráulicas a pesquisar argila no município de Macaé, Estado do Rio de Janeiro.

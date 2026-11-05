@@ -1,7 +1,3 @@
-1
-
-###DEC-098851-0-000-22-01-1990@@@
-
 DECRETO N° 98.851, DE 22 DE JANEIRO DE 1990
 
 Fixa o percentual de não numerados de Capitães-de-Mar-e-Guerra dos diversos Corpos de Carreira da Marinha, definitivamente impossibilitados de acesso ao primeiro posto de Oficial-General.

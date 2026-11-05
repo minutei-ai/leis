@@ -1,5 +1,3 @@
-###DEC-080827-0-000-28-11-1977@@@
-
 DECRETO Nº 80.827, DE 28 DE NOVEMBRO DE 1977.
 
 Dispõe sobre o Programa de Investimentos das entidades da Administração indireta e fundações.

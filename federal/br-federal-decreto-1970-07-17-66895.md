@@ -1,5 +1,3 @@
-###DEC-066895-0-000-17-07-1970@@@
-
 DECRETO Nº 66.895, DE 17 DE JUlHO DE 1970.
 
 Declara caduco o Decreto nº 10.123, de trinta e um (31) de julho de 1942.

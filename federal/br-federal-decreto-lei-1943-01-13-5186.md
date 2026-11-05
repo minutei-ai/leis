@@ -1,5 +1,3 @@
-###DEL-005186-0-000-13-01-1943@@@
-
 DECRETO‑LEI N. 5.186 – DE 13 DE JANEIRO DE 1943
 
 Regula o uso da ortografia em todo o país

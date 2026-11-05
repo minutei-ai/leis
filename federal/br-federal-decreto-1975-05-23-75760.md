@@ -1,5 +1,3 @@
-###DEC-075760-0-000-23-05-1975@@@
-
 DECRETO N° 75.760, DE 23 DE MAIO DE 1975.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado no Estado da Bahia.

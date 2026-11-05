@@ -1,4 +1,5 @@
-ESTADO DE GOIÁS<br>
+ESTADO DE GOIÁS
+
 CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA/GO
 
 EMENDA À LEI ORGÂNICA N° 007, DE 6 DE FEVEREIRO DE 2024
@@ -33,5 +34,6 @@ Art. 3º Esta Emenda à Lei Orgânica entra em vigor na data da sua publicação
 
 Câmara Municipal de Aparecida de Goiânia, 6 de fevereiro de 2024.
 
-ANDRÉ LUIS CARLOS DA SILVA<br>
+ANDRÉ LUIS CARLOS DA SILVA
+
 Presidente

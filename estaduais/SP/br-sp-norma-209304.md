@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209304)<br>
-
 # LEI N° 17.899, DE 16 DE ABRIL DE 2024
 
 ## (Projeto de lei n° 488/2021, do Deputado Sergio Victor - NOVO)

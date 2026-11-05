@@ -1,6 +1,7 @@
 LEI Nº 7.076 DE 18 DE ABRIL DE 1997
 
-Ver também:[<br>
+Ver também:[
+
 § 2º do art. 2º](https://www.legislabahia.ba.gov.br/documentos/lei-no-7250-de-09-de-janeiro-de-1998#LO_7_250_art__2_P__2) da [Lei 7.250, de 09 de janeiro de 1998](https://www.legislabahia.ba.gov.br/documentos/lei-no-7250-de-09-de-janeiro-de-1998#LO_7_250) : "Excluem-se dos valores constantes do Anexo I desta Lei os abonos especiais instituídos pelas Leis nºs 6.942, de 19 de março de 1996 e 7.076, de 18 de abril de 1997."
 
 Concede abono aos ocupantes de cargos integrantes dos quadros permanente e temporário do Ministério Público.

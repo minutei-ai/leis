@@ -1,5 +1,3 @@
-###DEC-083505-0-000-28-05-1979@@@
-
 DECRETO Nº 83.505, DE 28 DE MAIO DE 1979.
 
 Autoriza o funcionamento das habilitações Supervisão Escolar, e Orientação Educacional, do Curso de Pedagogia da Faculdade de Ciências da Educação, com sede na cidade de Chapecó, Estado de Santa Catarina.

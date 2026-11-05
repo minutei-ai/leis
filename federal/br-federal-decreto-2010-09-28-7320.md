@@ -1,5 +1,3 @@
-###DEC-007320-0-000-28-09-2010-PUB-01@@@
-
 DECRETO Nº 7.320, DE 28 DE SETEMBRO DE 2010.
 
 Regulamenta a forma de habilitação e co-habilitação ao Regime Especial de Incentivos para o Desenvolvimento de Infraestrutura da Indústria Petrolífera nas Regiões Norte, Nordeste e Centro-Oeste - REPENEC, de que tratam os arts. 1o a 5o da Lei no 12.249, de 11 de junho de 2010.

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209091)<br>
-
 # DECRETO N° 68.320, DE 26 DE JANEIRO DE 2024
 
 ### _Substitui os Anexos I, II e III do Decreto n° 57.905, de 23 de março de 2012, que autoriza a Casa Militar, por sua Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, a representar o Estado na celebração de convênios com Municípios paulistas, objetivando a transferência de recursos financeiros para aquisição de materiais e execução de obras e serviços destinados à defesa civil, abrangendo ações de prevenção, resposta e recuperação._
@@ -22,7 +20,8 @@ Secretário-Chefe da Casa Civil
 
 Publicado na Casa Civil, aos 26 de janeiro de 2024.
 
-#### ANEXO I <br>
+#### ANEXO I 
+
 a que se refere o artigo 1° do Decreto n° 68.320, de 26 de janeiro de 2024
 
 **TERMO DE CONVÊNIO N° CMIL - \_\_\_\_/630/\_\_\_**
@@ -31,14 +30,16 @@ Termo de Convênio que celebram o Estado de São Paulo, por intermédio da Casa 
 
 O Estado de São Paulo, por intermédio da Casa Militar e esta por sua Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, com sede na Av. Morumbi, n° 4.500, neste ato representada por seu Coordenador, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_, devidamente autorizada pelo Governador do Estado, nos termos do [Decreto n° 57.905, de 23 de março de 2012](https://www.al.sp.gov.br/norma/166447), e alterações posteriores, doravante designada COORDENADORIA, e o Município de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ representado neste ato por seu (sua) Prefeito(a), \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, celebram o presente convênio, que se regerá pela Lei federal n° 14.133, de 1° de abril de 2021, e pela Lei n° 6.544, de 20 de novembro de 1989, no que couber, e demais normas regulamentares aplicáveis, mediante as cláusulas e condições que seguem.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio a transferência de recursos financeiros destinados à \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, conforme plano de trabalho constante do Processo n° \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_.
 
 **Parágrafo único -** Com vistas ao melhor aproveitamento dos recursos, o plano de trabalho de que trata o "caput" desta cláusula poderá ser adequado, mediante prévia autorização da COORDENADORIA, fundamentada em manifestação de seu setor técnico, vedada a alteração do objeto ou o acréscimo de valor a ser transferido pelo Estado.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações
 
 I - São obrigações da COORDENADORIA:
@@ -91,7 +92,8 @@ o) quando for o caso, após a assinatura deste instrumento, apresentar nota de e
 
 p) divulgar o edital da licitação para execução do objeto a que se refere a Cláusula Primeira no prazo de até 120 (cento e vinte) dias a partir da assinatura deste instrumento e apresentar, à COORDENADORIA, documentação comprobatória, conforme inciso II do artigo 17 da Lei federal n° 14.133, de 1° de abril de 2021.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Valor e dos Recursos
 
 O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, cabendo à COORDENADORIA a transferência da quantia de R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, que onerará o elemento econômico \_\_\_\_\_\_\_\_ do orçamento da Casa Militar, sendo R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ de responsabilidade do MUNICÍPIO.
@@ -104,7 +106,8 @@ O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, cabendo �
 
 **§ 4° -** A contrapartida municipal consistirá em \[incluir na hipótese de previsão de contrapartida não financeira\].
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Da Utilização dos Recursos
 
 O MUNICÍPIO deverá manter os recursos transferidos pela COORDENADORIA em conta bancária específica, de que trata a Cláusula Terceira, permitindo-se efetuar saques somente para pagamento de despesas previstas no plano de trabalho, mediante cheque nominal ou ordem bancária ao credor ou para aplicação no mercado financeiro na forma do § 1° desta cláusula.
@@ -117,7 +120,8 @@ O MUNICÍPIO deverá manter os recursos transferidos pela COORDENADORIA em conta
 
 **§ 4° -** Na hipótese de alteração do valor do convênio, a mesma proporção entre Coordenadoria e Município deverá ser mantida, respeitando o contido no parágrafo segundo da Cláusula Terceira. Caberá ao Município arcar, a título de contrapartida, com os custos de eventuais adequações ao plano de trabalho que impliquem acréscimo ao valor originalmente ajustado.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Glosa das Despesas
 
 É vedada a utilização dos recursos transferidos, pactuados neste convênio, em finalidade diversa da estabelecida pelo plano de trabalho a que se refere este instrumento, bem como para:
@@ -128,7 +132,8 @@ II - pagamento de gratificação, consultoria ou qualquer espécie de remuneraç
 
 III - quitação de despesas realizadas antes da celebração deste convênio ou após expirado o respectivo prazo de vigência.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO encaminhará à COORDENADORIA a prestação de contas final dos recursos transferidos, da contrapartida, quando existir, e dos rendimentos apurados em aplicações no mercado financeiro, no prazo máximo de 30 (trinta) dias contados do encerramento das obras ou serviços, em conformidade com o cronograma físico-financeiro, constituída das peças abaixo indicadas, as quais serão encartadas aos autos do processo correspondente para exame por parte do órgão competente:
@@ -153,19 +158,22 @@ VII - relatório da Coordenadoria Municipal de Defesa Civil, ou órgão congêne
 
 **§ 3° -** Verificada não conformidade da prestação de contas apresentada, o MUNICÍPIO será notificado para, em 30 (trinta) dias, sanar as irregularidades constatadas.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Liberação dos Recursos
 
 Os recursos de responsabilidade da COORDENADORIA serão transferidos parceladamente ao MUNICÍPIO, em conformidade com o cronograma físico-financeiro que faz parte integrante deste convênio.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Rescisão e da Denúncia
 
 Este convênio poderá, a qualquer tempo, ser denunciado por desinteresse de qualquer dos partícipes, mediante notificação prévia, por escrito, com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou das cláusulas ora pactuadas.
 
 **Parágrafo único -** Em caso de rescisão ficará o MUNICÍPIO impedido de receber novos auxílios até que proceda à respectiva regularização.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Restituição dos Recursos
 
 Quando da conclusão do objeto pactuado, da denúncia, da rescisão ou da extinção deste instrumento, o MUNICÍPIO, no prazo de 30 (trinta) dias contados da ocorrência do evento, é obrigado a recolher à conta do Tesouro Estadual:
@@ -182,19 +190,22 @@ c) os recursos forem utilizados em finalidade diversa da estabelecida neste conv
 
 III - o valor da contrapartida, se houver, quando não comprovada sua aplicação na consecução do objeto conveniado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Publicação
 
 A eficácia deste termo de convênio fica condicionada à publicação do respectivo extrato no Diário Oficial do Estado.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Vigência
 
 O presente convênio vigorará pelo prazo de 12 (doze) meses, a contar de sua assinatura.
 
 **Parágrafo único -** O prazo de que trata o "caput" desta cláusula poderá ser prorrogado, mediante justificativa fundamentada e celebração de termo de aditamento, com prévia anuência da COORDENADORIA, observado o limite máximo de vigência de 60 (sessenta) meses.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Do Foro
 
 Fica eleito o Foro da Capital do Estado para dirimir quaisquer questões resultantes da execução deste convênio.
@@ -231,7 +242,8 @@ NOME:
 
 CPF:
 
-#### ANEXO II <br>
+#### ANEXO II 
+
 a que se refere o artigo 1° do Decreto n° 68.320, de 26 de janeiro 2024
 
 **TERMO DE CONVÊNIO N° CMIL - \_\_\_\_/630/\_\_\_**
@@ -240,14 +252,16 @@ Termo de Convênio que celebram o Estado de São Paulo, por intermédio da Casa 
 
 O Estado de São Paulo, por intermédio da Casa Militar e esta por sua Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, com sede na Av. Morumbi, n° 4.500, neste ato representada por seu Coordenador, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_, devidamente autorizada pelo Governador do Estado, nos termos do [Decreto n° 57.905, de 23 de março de 2012](https://www.al.sp.gov.br/norma/166447), e alterações posteriores, doravante designada COORDENADORIA, e o Município de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ representado neste ato por seu (sua) Prefeito(a), \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, celebram o presente convênio, que se regerá pela Lei federal n° 14.133, de 1° de abril de 2021, e pela Lei n° 6.544, de 20 de novembro de 1989, no que couber, e demais normas regulamentares aplicáveis, mediante as cláusulas e condições que seguem.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio a transferência de recursos financeiros para a execução de (obs: definir quais estudos e projetos técnicos serão abrangidos pelo convênio), destinados ao emprego futuro em serviço ou obra de prevenção e/ou recuperação de defesa civil, conforme plano de trabalho constante do Processo n°.
 
 **Parágrafo único -** Com vistas ao melhor aproveitamento dos recursos, o plano de trabalho poderá ser alterado parcialmente, desde que haja prévia autorização da COORDENADORIA, fundamentada em manifestação de seu setor técnico, vedada a alteração do objeto.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações
 
 I - São obrigações da COORDENADORIA:
@@ -292,7 +306,8 @@ l) definir o(s) responsável(is) técnico(s) pelo serviço, comunicando por escr
 
 m) depositar a contrapartida, quando exigível, na conta bancária específica do convênio, em conformidade com o previsto no cronograma físico-financeiro e de desembolso.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Valor e dos Recursos
 
 (Versão I - para o caso de contrapartida financeira do Município) 
@@ -333,7 +348,8 @@ O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, que onera
 
 **§ 3° -** Os recursos transferidos pela COORDENADORIA ao MUNICÍPIO serão depositados em conta vinculada ao fundo municipal junto ao Banco do Brasil S.A., devendo ser aplicados, exclusivamente, na execução do objeto deste convênio.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Da Utilização dos Recursos
 
 O MUNICÍPIO deverá manter os recursos repassados pela COORDENADORIA em conta bancária específica, de que trata a Cláusula Terceira, permitindo-se efetuar saques somente para pagamento de despesas previstas no plano de trabalho, mediante cheque nominal ou ordem bancária ao credor ou para aplicação no mercado financeiro na forma do § 1° desta cláusula.
@@ -344,7 +360,8 @@ O MUNICÍPIO deverá manter os recursos repassados pela COORDENADORIA em conta b
 
 **§ 3° -** O descumprimento do disposto nos parágrafos anteriores obrigará o MUNICÍPIO à reposição do numerário recebido, acrescido da remuneração da caderneta de poupança no período, até a data do efetivo depósito.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Glosa das Despesas
 
 É vedada a utilização dos recursos repassados, pactuados neste convênio, em finalidade diversa da estabelecida pelo plano de trabalho a que se refere este instrumento, bem como para:
@@ -355,7 +372,8 @@ II - pagamento de gratificação, consultoria ou qualquer espécie de remuneraç
 
 III - quitação de despesas realizadas antes da celebração deste convênio ou quando expirado seu prazo de vigência.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO encaminhará à COORDENADORIA a prestação de contas final dos recursos transferidos, da contrapartida, quando existir, e dos rendimentos apurados em aplicações no mercado financeiro, no prazo máximo de 30 (trinta) dias contados do encerramento dos serviços, na conformidade com o cronograma físico-financeiro, constituída das peças abaixo indicadas, as quais serão encartadas aos autos do processo correspondente para exame por parte do órgão competente:
@@ -374,19 +392,22 @@ V - relatório da Coordenadoria Municipal de Defesa Civil, ou órgão congênere
 
 **§ 2° -** Verificada a não conformidade da prestação de contas apresentada, o MUNICÍPIO será notificado para, em 30 (trinta) dias, sanar eventuais irregularidades.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Liberação dos Recursos
 
 Os recursos de responsabilidade da COORDENADORIA serão repassados parceladamente ao MUNICÍPIO, de conformidade com o cronograma físico-financeiro que faz parte integrante do presente ajuste.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Rescisão e da Denúncia
 
 Este convênio poderá, a qualquer tempo, ser denunciado por desinteresse de qualquer dos partícipes, mediante notificação prévia, por escrito, com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou das cláusulas ora pactuadas.
 
 **Parágrafo Único -** Em caso de rescisão ficará o MUNICÍPIO impedido de receber novos auxílios até que proceda à respectiva regularização.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Restituição dos Recursos
 
 Quando da conclusão do objeto pactuado, da denúncia, da rescisão ou da extinção deste instrumento, o MUNICÍPIO, no prazo de 30 (trinta) dias contados da ocorrência do evento, é obrigado a recolher à conta do Tesouro Estadual:
@@ -403,24 +424,28 @@ c) os recursos forem utilizados em finalidade diversa da estabelecida neste conv
 
 III - o valor da contrapartida, se houver, quando não comprovada sua aplicação na consecução do objeto conveniado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Publicação
 
 A eficácia deste termo de convênio fica condicionada à publicação do respectivo extrato no Diário Oficial do Estado.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Vigência
 
 O presente convênio vigorará pelo prazo de \_\_\_\_\_ dias, a contar de sua assinatura.
 
 **Parágrafo único -** A vigência deste convênio poderá ser prorrogada, mediante justificativa fundamentada e lavratura de termo de aditamento, desde que aceita pela COORDENADORIA, observado o limite máximo de 60 (sessenta) meses.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Da Propriedade dos Estudos e Projetos Técnicos Produzidos 
 
 Aprovada a prestação de contas, os estudos e projetos técnicos desenvolvidos passarão ao patrimônio do MUNICÍPIO.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Do Foro
 
 Fica eleito o Foro da Capital do Estado para dirimir quaisquer questões resultantes da execução deste convênio.
@@ -457,7 +482,8 @@ NOME:
 
 CPF:
 
-#### ANEXO III <br>
+#### ANEXO III 
+
 a que se refere o artigo 1° do Decreto n° 68.320, de 26 de janeiro 2024
 
 **TERMO DE CONVÊNIO N° CMIL - \_\_\_\_/630/\_\_\_**
@@ -466,7 +492,8 @@ Termo de Convênio que celebram o Estado de São Paulo, por intermédio da Casa 
 
 O Estado de São Paulo, por intermédio da Casa Militar e esta por sua Coordenadoria Estadual de Proteção e Defesa Civil - CEPDEC, com sede na Av. Morumbi, n° 4.500, neste ato representada por seu Coordenador, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \_\_\_\_\_\_, devidamente autorizada pelo Governador do Estado, nos termos do [Decreto n° 57.905, de 23 de março de 2012](https://www.al.sp.gov.br/norma/166447), e alterações posteriores, doravante designada COORDENADORIA, e o Município de \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ representado neste ato por seu (sua) Prefeito(a), \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, doravante designado MUNICÍPIO, celebram o presente convênio, que se regerá pela Lei federal n° 14.133, de 1° de abril de 2021, e pela Lei n° 6.544, de 20 de novembro de 1989, no que couber, e demais normas regulamentares aplicáveis, mediante as cláusulas e condições que seguem.
 
-#### CLÁUSULA PRIMEIRA<br>
+#### CLÁUSULA PRIMEIRA
+
 Do Objeto
 
 Constitui objeto deste convênio a transferência de recursos financeiros destinados à execução de serviços e aquisição de materiais de resposta por parte do MUNICÍPIO, conforme plano de trabalho constante do Processo n° \_\_\_\_\_\_\_\_\_\_\_\_.
@@ -475,7 +502,8 @@ Constitui objeto deste convênio a transferência de recursos financeiros destin
 
 **§ 2° -** Com vistas ao melhor aproveitamento dos recursos, o plano de trabalho poderá ser alterado parcialmente, desde que haja prévia autorização da COORDENADORIA, fundamentada em manifestação de seu setor técnico, vedada a alteração do objeto.
 
-#### CLÁUSULA SEGUNDA<br>
+#### CLÁUSULA SEGUNDA
+
 Das Obrigações
 
 I - São obrigações da COORDENADORIA:
@@ -524,7 +552,8 @@ m) depositar a contrapartida, quando exigível, na conta bancária específica d
 
 n) fornecer cópia física ou digital, para guarda junto à COORDENADORIA, do produto final do mapeamento realizado.
 
-#### CLÁUSULA TERCEIRA<br>
+#### CLÁUSULA TERCEIRA
+
 Do Valor e dos Recursos
 
 (Versão I - para o caso de contrapartida financeira do Município) 
@@ -565,7 +594,8 @@ O valor do presente convênio é de R$ \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, que onera
 
 **§ 3° -** Os recursos transferidos pela COORDENADORIA ao MUNICÍPIO serão depositados em conta vinculada ao fundo municipal junto ao Banco do Brasil S. A., devendo ser aplicados, exclusivamente, na execução do objeto deste convênio.
 
-#### CLÁUSULA QUARTA<br>
+#### CLÁUSULA QUARTA
+
 Da Utilização dos Recursos
 
 O MUNICÍPIO deverá manter os recursos repassados pela COORDENADORIA em conta bancária específica, de que trata a cláusula terceira, permitindo-se efetuar saques somente para pagamento de despesas previstas no plano de trabalho, mediante cheque nominal ou ordem bancária ao credor ou para aplicação no mercado financeiro na forma do parágrafo primeiro desta cláusula.
@@ -576,7 +606,8 @@ O MUNICÍPIO deverá manter os recursos repassados pela COORDENADORIA em conta b
 
 **§ 3° -** O descumprimento do disposto nos parágrafos anteriores obrigará o MUNICÍPIO à reposição do numerário recebido, acrescido da remuneração da caderneta de poupança no período, até a data do efetivo depósito.
 
-#### CLÁUSULA QUINTA<br>
+#### CLÁUSULA QUINTA
+
 Da Glosa das Despesas
 
 É vedada a utilização dos recursos repassados, pactuados neste convênio, em finalidade diversa da estabelecida pelo plano de trabalho a que se refere este instrumento, bem como para:
@@ -587,7 +618,8 @@ II - pagamento de gratificação, consultoria ou qualquer espécie de remuneraç
 
 III - quitação de despesas realizadas antes da celebração deste convênio ou quando expirado seu prazo de vigência.
 
-#### CLÁUSULA SEXTA<br>
+#### CLÁUSULA SEXTA
+
 Da Prestação de Contas
 
 O MUNICÍPIO encaminhará à COORDENADORIA a prestação de contas final dos recursos transferidos, da contrapartida, quando existir, e os de rendimentos apurados em aplicações no mercado financeiro, no prazo máximo de 30 (trinta) dias contados do encerramento dos serviços, na conformidade com o cronograma físico-financeiro, constituída das peças abaixo indicadas, as quais serão encartadas aos autos do processo correspondente para exame por parte do órgão competente:
@@ -608,19 +640,22 @@ VI - relatório da Coordenadoria Municipal de Defesa Civil, ou órgão congêner
 
 **§ 2° -** Verificada a não conformidade da prestação de contas apresentada, o MUNICÍPIO será notificado para, em 30 (trinta) dias, sanar eventuais irregularidades.
 
-#### CLÁUSULA SÉTIMA<br>
+#### CLÁUSULA SÉTIMA
+
 Da Liberação dos Recursos
 
 Os recursos de responsabilidade da COORDENADORIA serão repassados parceladamente ao MUNICÍPIO, de conformidade com o cronograma físico-financeiro que faz parte integrante do presente ajuste.
 
-#### CLÁUSULA OITAVA<br>
+#### CLÁUSULA OITAVA
+
 Da Rescisão e da Denúncia
 
 Este convênio poderá, a qualquer tempo, ser denunciado por desinteresse de qualquer dos partícipes, mediante notificação prévia, por escrito, com antecedência mínima de 30 (trinta) dias, e será rescindido por infração legal ou das cláusulas ora pactuadas.
 
 **Parágrafo único -** Em caso de rescisão ficará o MUNICÍPIO impedido de receber novos auxílios até que proceda à respectiva regularização.
 
-#### CLÁUSULA NONA<br>
+#### CLÁUSULA NONA
+
 Da Restituição dos Recursos
 
 Quando da conclusão do objeto pactuado, da denúncia, da rescisão ou da extinção deste instrumento, o MUNICÍPIO, no prazo de 30 (trinta) dias contados da ocorrência do evento, é obrigado a recolher à conta do Tesouro Estadual:
@@ -637,24 +672,28 @@ c) os recursos forem utilizados em finalidade diversa da estabelecida neste conv
 
 III - o valor da contrapartida, se houver, quando não comprovada sua aplicação na consecução do objeto conveniado.
 
-#### CLÁUSULA DÉCIMA<br>
+#### CLÁUSULA DÉCIMA
+
 Da Publicação
 
 A eficácia deste termo de convênio fica condicionada à publicação do respectivo extrato no Diário Oficial do Estado.
 
-#### CLÁUSULA DÉCIMA PRIMEIRA<br>
+#### CLÁUSULA DÉCIMA PRIMEIRA
+
 Da Vigência
 
 O presente convênio vigorará pelo prazo de \_\_\_\_\_ dias, a contar de sua assinatura.
 
 **Parágrafo único -** A vigência deste convênio poderá ser prorrogada, mediante justificativa fundamentada e lavratura de termo de aditamento, desde que aceita pela COORDENADORIA, observado o limite máximo de 60 (sessenta) meses.
 
-#### CLÁUSULA DÉCIMA SEGUNDA<br>
+#### CLÁUSULA DÉCIMA SEGUNDA
+
 Da Propriedade dos Estudos e Projetos Técnicos Produzidos 
 
 Aprovada a prestação de contas, o mapeamento produzido passará ao patrimônio do MUNICÍPIO.
 
-#### CLÁUSULA DÉCIMA TERCEIRA<br>
+#### CLÁUSULA DÉCIMA TERCEIRA
+
 Do Foro
 
 Fica eleito o Foro da Capital do Estado para dirimir quaisquer questões resultantes da execução deste convênio.

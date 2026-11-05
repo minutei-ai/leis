@@ -1,5 +1,3 @@
-###DEC-045758-0-000-07-04-1959@@@
-
 DECRETO Nº 45.758, DE 7 DE ABRIL DE 1959.
 
 Autoriza o cidadão brasileiro Milton Antunes de Siqueira a pesquisar mica no município de Iapu, Estado de Minas Gerais.

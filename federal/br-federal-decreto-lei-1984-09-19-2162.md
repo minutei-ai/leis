@@ -1,5 +1,3 @@
-###DEL-002162-0-000-19-09-1984@@@
-
 # DECRETO-LEI Nº 2.162, DE 19 DE SETEMBRO DE 1984
 
 Altera o limite máximo para elevação das alíquotas da Tarifa Aduaneira no Brasil.

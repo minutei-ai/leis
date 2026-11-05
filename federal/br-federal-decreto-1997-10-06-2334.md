@@ -1,5 +1,3 @@
-###DEC-002334-0-000-06-10-1997@@@
-
 DECRETO Nº 2.334, DE 6 DE OUTUBRO DE 1997
 
 Prorroga o prazo a que se refere o art. 2º do Decreto nº 2.027, de 11 de outubro de 1996.

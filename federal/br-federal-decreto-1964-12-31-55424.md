@@ -1,5 +1,3 @@
-###DEC-055424-0-000-31-12-1964@@@
-
 DECRETO Nº 55.424, DE 31 DE DEZEMBRO DE 1964.
 
 Autoriza o cidadão brasileiro Geraldo Pedro da Silva a pesquisar diamante, no município de Itamarandiba, Estado de Minas Gerais.

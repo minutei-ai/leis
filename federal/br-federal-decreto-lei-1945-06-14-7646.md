@@ -1,5 +1,3 @@
-###DEL-007646-0-000-14-06-1945@@@
-
 DECRETO-LEI N. 7.646 – DE 14 DE JUNHO DE 1945
 
 Cria o Campo de Sementes de Horticultura e Fruticultura de Virgínia, no Ministério da Agricultura, e adota outras providências

@@ -1,5 +1,3 @@
-###DEC-061470-0-000-05-10-1967@@@
-
 DECRETO Nº 61.470, DE 5 DE OUTUBRO DE 1967.
 
 Autoriza Emibra-Emprêsa de Minérios Brasil Norte Nordeste Ltda. a lavrar opala, no município de Pedro II, Estado do Piauí.

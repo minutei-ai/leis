@@ -1,5 +1,3 @@
-###DEL-003979-0-000-26-12-1941@@@
-
 DECRETO-LEI N. 3.979 – DE 26 DE DEZEMBRO DE 1941
 
 Prorroga a vigência do crédito especial aberto pelo decreto-lei número 2.050, de 1 de março de 1940

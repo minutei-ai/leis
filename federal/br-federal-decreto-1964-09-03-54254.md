@@ -1,5 +1,3 @@
-###DEC-054254-0-000-03-09-1964@@@
-
 DECRETO Nº 54.254, de 3 de setembro de 1964.
 
 Dá instruções sôbre residências distribuídas a titulares de cargos em comissão.

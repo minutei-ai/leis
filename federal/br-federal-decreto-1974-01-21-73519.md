@@ -1,5 +1,3 @@
-###DEC-073519-0-000-21-01-1974@@@
-
 DECRETO N° 73.519, DE 21 DE JANEIRO DE 1974.
 
 Concede à Hidromineral Quilombo Ltda. o direito de lavrar água mineral no Município de Iacanga, Estado de São Paulo.

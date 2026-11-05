@@ -1,5 +1,3 @@
-###DEC-052044-0-000-24-05-1963@@@
-
 DECRETO Nº 52.044, DE 24 DE MAIO DE 1963.
 
 Autoriza o cidadão brasileiro Jacyro Faury a pesquisar argila e caulim no município de Mogi das Cruzes, Estado de São Paulo.

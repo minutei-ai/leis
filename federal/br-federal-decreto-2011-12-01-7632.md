@@ -1,5 +1,3 @@
-###DEC-007632-0-000-01-12-2011-PUB-01@@@
-
 DECRETO Nº 7.632, DE 1º  DE DEZEMBRO DE 2011
 
 Altera os arts. 7º e 15-A do Decreto nº 6.306, de 14 de dezembro de 2007, que regulamenta o Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos ou Valores Mobiliários - IOF.

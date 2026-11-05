@@ -1,5 +1,3 @@
-###DEC-059562-0-000-14-11-1966@@@
-
 DECRETO Nº 59.562, DE 14 DE NOVEMBRO DE 1966.
 
 Concede à sociedade anônima Elizabeth Arden (South America) INC. Autorização para continuar a funcionar na República dos Estados Unidos do Brasil.

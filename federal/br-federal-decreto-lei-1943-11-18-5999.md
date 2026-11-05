@@ -1,5 +1,3 @@
-###DEL-005999-0-000-18-11-1943@@@
-
 DECRETO‑LEI N. 5.999 – DE 18 DE NOVEMBRO DE 1943
 
 Regula a forma de execução do decreto‑lei n. 5.451, do número III do artigo 4º do decreto‑lei n. 4.750 e do decreto‑lei n. 4.599 e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-057536-0-000-29-12-1965@@@
-
 DECRETO Nº 57.536, DE 29 DE DEZEMBRO DE 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste concessão para distribuir energia elétrica.

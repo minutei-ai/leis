@@ -26,12 +26,13 @@ II - 13 (treze) representantes de entidades da sociedade civil organizada, sendo
 
 ..............................................................................................................."
 
-Retificado no D.O.E. de 04.01.2012.<br>
-No art. 2° da Lei nº 12.625, de 28 de dezembro de 2012, publicada no Diário Oficial do Estado da Bahia de 29 e 30 de dezembro de 2012:<br>
+Retificado no D.O.E. de 04.01.2012.
+
+No art. 2° da Lei nº 12.625, de 28 de dezembro de 2012, publicada no Diário Oficial do Estado da Bahia de 29 e 30 de dezembro de 2012:
 
 **ONDE SE LÊ**:
 
-...I - 13 (treze)...<br>
+...I - 13 (treze)...
 
 **LEIA-SE**:
 

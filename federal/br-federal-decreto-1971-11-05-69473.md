@@ -1,5 +1,3 @@
-###DEC-069473-0-000-05-11-1971@@@
-
 DECRETO Nº 69.473 - DE 5 DE NOVEMBRO DE 1971
 
 Declara de utilidade pública, para fins de constituição de servidão, uma faixa de terra destinada a passagem de linha de transmissão no Distrito Federal.

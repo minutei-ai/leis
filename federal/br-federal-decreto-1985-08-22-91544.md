@@ -1,5 +1,3 @@
-###DEC-091544-0-000-22-08-1985@@@
-
 Decreto nº 91.544, de 22 de agosto de 1985
 
 Autoriza a transferência direta da concessão outorgada à RÁDIO SACRAMENTO LTDA., para a FUNDAÇÃO NOSSA SENHORA DO PATROCÍNIO Do SANTÍSSIMO SACRAMENTO.

@@ -1,5 +1,3 @@
-###DEC-056598-0-000-21-07-1965@@@
-
 DECRETO Nº 56.598, DE 21 DE JULHO DE 1965.
 
 Dispõe sôbre a concessão de gratificação pela representação de gabinete.

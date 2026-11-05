@@ -1,5 +1,3 @@
-###DEC-048151-0-000-05-05-1960@@@
-
 DECRETO Nº 48.151, DE 5 DE MAIO DE 1960.
 
 Aprova alterações introduzidas nos Estatutos inclusive aumento do capital social da Companhia de Seguros Gerais Corcovado.

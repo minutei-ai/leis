@@ -1,5 +1,3 @@
-###DEC-082640-0-000-14-11-1978@@@
-
 Decreto nº 82.640, de 14 de novembro de 1978.
 
 Autoriza o registro, em nome da União Federal, do imóvel que menciona, situado na Cidade e Estado do Rio de Janeiro.

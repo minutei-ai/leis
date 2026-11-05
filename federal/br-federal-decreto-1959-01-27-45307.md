@@ -1,5 +1,3 @@
-###DEC-045307-0-000-27-01-1959@@@
-
 decreto nº 45.307, de 27 de janeiro de 1959.
 
 Declara caduco o Decreto nº 16.664, de 27 de setembro de 1944.

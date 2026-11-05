@@ -1,5 +1,3 @@
-###DEL-000699-0-000-23-07-1969@@@
-
 DECRETO-LEI Nº 699, DE 23 DE JULHO DE 1969
 
 Autoriza, ao Poder Executivo, a transferência para o Fundo do Exército de recursos provenientes da alienação de imóvel.

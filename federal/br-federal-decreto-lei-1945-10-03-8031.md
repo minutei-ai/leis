@@ -1,5 +1,3 @@
-###DEL-008031-0-000-03-10-1945@@@
-
 DECRETO-LEI N. 8.031 – DE 3 DE OUTUBRO DE 1945
 
 Autoriza a organização da Companhia Hidro Elétrica do São Francisco

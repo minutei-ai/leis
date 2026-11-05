@@ -1,5 +1,3 @@
-###DEC-079962-0-000-14-07-1977@@@
-
 DECRETO Nº 79.962, DE 14 DE JULHO DE 1977
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à paisagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

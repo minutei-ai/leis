@@ -1,6 +1,7 @@
 LEI Nº 5.566 DE 28 DE DEZEMBRO DE 1989
 
-Ver também:<br>
+Ver também:
+
 Decreto nº [14.342](https://www.legislabahia.ba.gov.br/documentos/decreto-no-14342-de-01-de-marco-de-2013#DEC%2014.342) de 01 de março de 2013 - Aprova o Regimento Interno da Junta Administrativa de Recursos de Infrações - JARI/DERBA, vinculada ao Departamento de Infra-Estrutura de Transportes da Bahia - DERBA. 
 
 Cria a Junta Administrativa de Recursos de Infrações (JARI), na estrutura do Departamento de Estradas de Rodagem da Bahia - DERBA, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-072734-0-000-04-09-1973@@@
-
 DECRETO Nº 72.734, de 4 de setembro de 1973.
 
 Concede à Mineração Cambuí S.A. o direito de lavrar argila, no Município de Araucária, Estado do Paraná.

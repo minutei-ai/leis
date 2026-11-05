@@ -1,5 +1,3 @@
-###DEC-048347-0-000-21-06-1960@@@
-
 DECRETO Nº 48.347, DE 21 DE JUNHO DE 1960.
 
 Declara caduca o Decreto nº 8.862, de 26 de fevereiro de 1942.

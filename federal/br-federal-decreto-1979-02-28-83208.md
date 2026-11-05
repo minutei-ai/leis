@@ -1,5 +1,3 @@
-###DEC-083208-0-000-28-02-1979@@@
-
 Decreto nº 83.208, de 28 de fevereiro de 1979
 
 Concede reconhecimento ao curso de Arquitetura e Urbanismo, da Universidade Federal do Rio Grande do Norte, com sede na cidade de Natal, Estado do Rio Grande do Norte.

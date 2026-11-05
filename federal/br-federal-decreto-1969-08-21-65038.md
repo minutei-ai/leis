@@ -1,5 +1,3 @@
-###DEC-065038-0-000-21-08-1969@@@
-
 DECRETO Nº 65.038 - DE 21 DE AGôSTO DE 1969.
 
 Redistribui, com o respectivo ocupante para o Quadro de Pessoal - Parte Especial - do Departamento de Policial Federal, cargo originário do extinto Lloyd Brasileiro - Patrimônio Nacional e dá outras providências.

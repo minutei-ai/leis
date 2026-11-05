@@ -1,5 +1,3 @@
-###DEC-005343-0-000-14-01-2005@@@
-
 DECRETO Nº 5.343 DE 14 DE JANEIRO DE 2005
 
 Dá nova redação ao parágrafo único do art. 11 do Decreto no 3.800, de 20 de abril de 2001, e ao parágrafo único do art.10 do Decreto nº 4.401, de 1º de outubro de 2002, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-076756-0-000-09-12-1975@@@
-
 DECRETO Nº 76.756, DE 9 DE DEZEMBRO DE 1975
 
 Autoriza o Serviço do Patrimônio da União a formalizar a não aceitação da doação do terreno que menciona, situado no Município de Urussanga, Estado de Santa Catarina.

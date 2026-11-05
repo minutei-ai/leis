@@ -1,5 +1,3 @@
-###DEC-000137-0-000-27-05-1991@@@
-
 DECRETO Nº 137, DE 27 DE MAIO DE 1991
 
 Institui o Programa de Gestão das Empresas Estatais e dá outras providências.

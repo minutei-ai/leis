@@ -1,7 +1,3 @@
-1
-
-###DEC-099760-0-000-04-12-1990@@@
-
 # DECRETO N° 99.760, DE 4 DE DEZEMBRO DE 1990
 
 Altera os artigos 13 e 14 do Regulamento da Ordem do Mérito Militar, aprovado pelo Decreto n° 92.493, de 25 de março de 1.986.

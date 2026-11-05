@@ -1,5 +1,3 @@
-###DEC-095182-0-000-10-11-1987@@@
-
 DECRETO N° 95.182, DE 10 DE NOVEMBRO DE 1987
 
 Autoriza o funcionamento de habilitação do curso de Administração do Instituto de Ciências Sociais Aplicadas, Distrito Federal.

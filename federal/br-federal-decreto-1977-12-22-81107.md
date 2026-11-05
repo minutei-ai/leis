@@ -1,5 +1,3 @@
-###DEC-081107-0-000-22-12-1977@@@
-
 Decreto nº 81.107, de 22 de dezembro de 1977.
 
 Define o elenco de atividades consideradas de alto interesse para o desenvolvimento e a segurança nacional, para efeito do disposto nos artigos 1º e 2º do Decreto-lei n° 1.413, de 14 de agosto de 1975.

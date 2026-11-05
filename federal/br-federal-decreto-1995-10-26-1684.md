@@ -1,7 +1,3 @@
-1
-
-###DEC-001684-0-000-26-10-1995@@@
-
 DECRETO Nº 1.684, DE 26 DE OUTUBRO DE 1995.
 
 Dá nova redação a dispositivos do Decreto nº 1.648, de 27 de setembro de 1995, que dispõe sobre a participação de servidores públicos federais em conferências, congressos ou outros eventos similares que se realizarem no País.

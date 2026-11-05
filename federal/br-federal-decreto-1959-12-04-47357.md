@@ -1,5 +1,3 @@
-###DEC-047357-0-000-04-12-1959@@@
-
 DECRETO Nº 47.357, 4 DE DEZEMBRO DE 1959.
 
 Autoriza o cidadão brasileiro Manoel Jorge Curi a pesquisar esmeralda no município de Conquista, Estado da Bahia.

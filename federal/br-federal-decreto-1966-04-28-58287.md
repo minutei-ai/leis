@@ -1,5 +1,3 @@
-###DEC-058287-0-000-28-04-1966@@@
-
 Decreto nº 58.287, de 28 de abril de 1966.
 
 Concede à Usina Colombina S.A., autorização para funcionar como emprêsa de mineração.

@@ -1,5 +1,3 @@
-###DEL-005986-0-000-11-11-1943@@@
-
 DECRETO‑LEI N. 5.986 – DE 11 DE NOVEMBRO DE 1943
 
 Abre ao Ministério da Guerra o crédito especial de Cr$ 40.080,00 para Paga­mento de gratificação de magistério

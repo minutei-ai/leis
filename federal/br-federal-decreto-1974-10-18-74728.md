@@ -1,5 +1,3 @@
-###DEC-074728-0-000-18-10-1974@@@
-
 DECRETO Nº 74.728, DE 18 DE OUTUBRO DE 1974.
 
 Altera os Decretos nº 72.523, de 25 de julho de 1973 e 72.562, de 31 de julho de 1973, que confiscam bens da Companhia Brasileira de Cimento Portland Perus e da Estrada de Ferro Perus-Pirapora S. A., e dá outras providências.

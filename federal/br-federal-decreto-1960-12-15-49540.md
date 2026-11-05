@@ -1,5 +1,3 @@
-###DEC-049540-0-000-15-12-1960@@@
-
 DECRETO Nº 49.540, DE 15 DE DEZEMBRO DE 1960.
 
 Retifica e altera Decreto nº 38.673, de 27 de janeiro de 1956, retificado pelo Decreto nº 38.966, de 3 de abril de 1956.

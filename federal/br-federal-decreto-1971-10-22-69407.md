@@ -1,5 +1,3 @@
-###DEC-069407-0-000-22-10-1971@@@
-
 DECRETO Nº 69.407 - DE 22 DE OUTUBRO DE 1971
 
 Declaram de utilidade pública, para fins de desapropriação, o terreno situado a rua Espírito Santo nº 998, constituída pelos lotes nºs 13 e 15 do Quarteirão nº 18 da 3ª Seção Urbana, em Belo Horizonte, Estado de Minas Gerais, necessário a construção da Estação Central de Telex daquela Cidade e instalação de outros equipamentos indispensáveis ao Sistema Nacional de Telecomunicações.

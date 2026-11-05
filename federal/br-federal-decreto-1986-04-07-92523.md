@@ -1,5 +1,3 @@
-###DEC-092523-0-000-07-04-1986@@@
-
 DECRETO Nº 92.523, DE 7 DE ABRIL DE 1986
 
 Fixa o percentual de não-numerados de Capitães-de-Mar-e-Guerra dos diversos Corpos de Carreira da Marinha, definitivamente impossibilitados de acesso ao primeiro posto de Oficial-General.

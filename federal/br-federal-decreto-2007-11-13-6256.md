@@ -1,5 +1,3 @@
-###DEC-006256-0-000-13-11-2007@@@
-
 DECRETO Nº 6.256, DE 13 DE NOVEMBRO DE 2007.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, do Trem de Alta Velocidade - TAV e de trecho da BR-040 MG, e dá outras providências.
@@ -39,5 +37,3 @@ LUIZ INÁCIO LULA DA SILVA
 Alfredo Nascimento
 
 Ivan João Guimarães Ramalho
-
-Este texto não substitui o publicado no DOU de 14.11.2007

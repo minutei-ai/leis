@@ -1,5 +1,3 @@
-###DEC-091781-0-000-15-10-1985@@@
-
 Decreto nº 91.781, de 15 de outuBro de 1985.
 
 Acrescenta parágrafos ao artigo 7º do Decreto nº 87.043, de 22 de março de 1982, que dispõe sobre a aplicação dos recursos do Salário-Educação.

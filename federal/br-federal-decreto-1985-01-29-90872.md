@@ -1,5 +1,3 @@
-###DEC-090872-0-000-29-01-1985@@@
-
 # DECReto nº 90.872, dE 29 de janeirO de 1985
 
 Autoriza o funcionamento do curso de Geografia da Faculdade de Ciências e Letras de Votuporanga, São Paulo.

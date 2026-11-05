@@ -1,5 +1,3 @@
-###DEC-046165-0-000-05-06-1959@@@
-
 DECRETO Nº 46.165, DE 5 DE JUNHO DE 1959.
 
 Autoriza a São Paulo Light S. A., Serviços de Eletricidade, a construir uma linha de transmissão no município de São Bernardo do Campo, para servir às fábricas Mercedes Bens S. A. e Willys Overland do Brasil S. A.

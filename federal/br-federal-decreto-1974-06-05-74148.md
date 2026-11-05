@@ -1,5 +1,3 @@
-###DEC-074148-0-000-05-06-1974@@@
-
 DECRETO Nº 74.148, DE 5 DE JUNHO DE 1974.
 
 Cria a Embaixada do Brasil no Estado de Catar.

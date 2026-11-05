@@ -1,5 +1,3 @@
-###MPV-001693-0-042-27-11-1998@@@
-
 MEDIDA PROVISÓRIA Nº 1.693-42, DE 27 DE NOVEMBRO DE 1998.
 
 Altera a legislação referente ao Adicional ao Frete para a Renovação da Marinha Mercante - AFRMM e ao Fundo da Marinha Mercante - FMM, e dá outras providências.

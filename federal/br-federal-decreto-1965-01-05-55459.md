@@ -1,5 +1,3 @@
-###DEC-055459-0-000-05-01-1965@@@
-
 DECRETO Nº 55.459, DE 5 DE JANEIRO DE 1965.
 
 Autoriza Mineração e Usina Wigg Sociedade Anônima a lavrar minério de ferro no município de Itabirito, Estado de Minas Gerais.

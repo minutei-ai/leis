@@ -1,5 +1,3 @@
-###DEC-068110-0-000-26-01-1971@@@
-
 DECRETO Nº 68.110, de 26 de Janeiro de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, a Consórcio Construtor Rio Niterói S.A. e dá outras providências.

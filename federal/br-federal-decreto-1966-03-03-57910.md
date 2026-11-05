@@ -1,5 +1,3 @@
-###DEC-057910-0-000-03-03-1966@@@
-
 decreto nº 57.910, de 3 de março de 1966.
 
 Suspende provisoriamente, em relação às Autarquias vinculadas ao Ministério da Viação e obras Públicas as restrições do artigo 6º do Decreto nº 44.767, de 30 de outubro de 1958, combinado com artigo 17º parágrafo 3º do Decreto nº 807, de 30 de março de 1962.

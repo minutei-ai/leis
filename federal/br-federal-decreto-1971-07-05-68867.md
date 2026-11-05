@@ -1,5 +1,3 @@
-###DEC-068867-0-000-05-07-1971@@@
-
 DECRETO Nº 68.867, DE 5 DE JULHO DE 1971.
 
 Concede a Cerâmica Santo Antônio S.A. - CESA o direito de lavrar argila, no município de Recife, Estado de Pernambuco.

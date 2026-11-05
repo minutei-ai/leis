@@ -1,5 +1,3 @@
-###DEC-060697-0-000-08-05-1967@@@
-
 DECRETO Nº 60.697, DE 8 DE MAIO DE 1967.
 
 Dispõe sôbre a destinação dos recursos a que se refere o § 2º do artigo 2º do Decreto nº 53.912, de 11 de maio de 1964, e dá outras providências.

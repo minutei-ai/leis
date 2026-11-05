@@ -1,5 +1,3 @@
-###DEC-083704-0-000-09-07-1979@@@
-
 Decreto nº 83.704, de 09 de julho de 1979.
 
 Concede reconhecimento ao curso de Artes Práticas da Faculdade de Artes de Guararapes, com sede na cidade de São Paulo, Estado de São Paulo.

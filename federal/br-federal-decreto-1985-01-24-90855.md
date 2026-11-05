@@ -1,5 +1,3 @@
-###DEC-090855-0-000-24-01-1985@@@
-
 DECRETO Nº 90.855, de 24 de janeiro De 1985
 
 Outorga concessão à RÁDIO SERTÕES DE MOMBAÇA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Mombaça, Estado do Ceará.

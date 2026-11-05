@@ -1,5 +1,3 @@
-###DEL-003893-0-000-05-12-1941@@@
-
 DECRETO-LEI N. 3.893 – DE 5 DE DEZEMBRO DE 1941
 
 Estabelece as normas mediante as quais serão permitidas as escavações nos logradouros públicos e dá outras providências

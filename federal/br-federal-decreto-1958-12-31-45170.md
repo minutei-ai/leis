@@ -1,5 +1,3 @@
-###DEC-045170-0-000-31-12-1958@@@
-
 Decreto nº 45.170, de 31 de dezembro de 1958.
 
 Autoriza o cidadão brasileiro Manoel Miranda Lobato a pesquisar minérios de manganês, ferro e associados, no município de Corumbá, Estado de Mato Grosso.

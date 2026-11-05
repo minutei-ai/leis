@@ -1,5 +1,3 @@
-###DEC-050793-0-000-15-06-1961@@@
-
 Decreto nº 50.793, de 15 de junho de 1961.
 
 Concede autorização para funcionar como emprêsa de energia elétrica à Companhia de Eletricidade de Alagoas.

@@ -1,5 +1,3 @@
-###DEL-007205-0-000-29-12-1944@@@
-
 DECRETO-LEI N. 7.205 – DE 29 DE DEZEMBRO DE 1944
 
 Cria uma Agência do Departamento Federal de Compras na Cidade de São Paulo e dá outras providências

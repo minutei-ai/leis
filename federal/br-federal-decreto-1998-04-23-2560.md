@@ -1,5 +1,3 @@
-###DEC-002560-0-000-23-04-1998@@@
-
 DECRETO Nº 2.560, DE 23 DE ABRIL DE 1998
 
 Dispõe sobre a não aplicação do Decreto nº 757, de 19 de fevereiro de 1993, ao Banco do Estado de São Paulo S.A. - BANESPA.

@@ -1,5 +1,3 @@
-###DEC-076856-0-000-17-12-1975@@@
-
 DECRETO Nº 76.856, DE 17 DE DEZEMBRO DE 1975.
 
 Concede reconhecimento ao curso de Letras da Faculdade de Filosofia, Ciências e Letras de Itararé, com sede na cidade de Itararé, Estado de São Paulo.

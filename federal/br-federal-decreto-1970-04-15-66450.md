@@ -1,5 +1,3 @@
-###DEC-066450-0-000-15-04-1970@@@
-
 DECRETO Nº 66.450, DE 15 DE ABRIL DE 1970.
 
 Autoriza o Serviço do Patrimônio da União a ceder terrenos ao Departamento Nacional de Estradas de Rodagem e dá outras providências.

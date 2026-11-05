@@ -1,5 +1,3 @@
-###DEC-074480-0-000-30-08-1974@@@
-
 DECRETO Nº 74.480 - DE 30 DE AGOSTO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação, uma área de terra urbana, com benfeitorias, situada no Distrito de Japeri, Município de Nova Iguaçu, Estado do Rio de Janeiro, destinada à instalação de uma estação telefônica automática pela Companhia Telefônica Brasileira - CTB.

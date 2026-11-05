@@ -1,5 +1,3 @@
-###DEL-004021-0-000-15-01-1942@@@
-
 DECRETO-LEI N. 4.021 – DE 15 DE JANEIRO DE 1942
 
 Amplia a competência das delegações do Tribunal de Contas

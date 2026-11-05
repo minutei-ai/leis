@@ -1,5 +1,3 @@
-###DEC-006578-0-000-25-09-2008@@@
-
 DECRETO Nº 6.578, DE 25 DE SETEMBRO DE 2008.
 
 Dispõe sobre a criação da Embaixada do Brasil em Baku, República do Azerbaijão.

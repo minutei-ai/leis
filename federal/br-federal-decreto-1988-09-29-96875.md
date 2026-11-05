@@ -1,5 +1,3 @@
-###DEC-096875-0-000-29-09-1988@@@
-
 DECRETO N° 96.875, DE 29 DE SETEMBRO DE 1988
 
 Revoga a concessão outorgada à EMPRESA JORNALÍSTICA O POVO S.A. para execu­tar serviço de radiodifusão sonora em onda curta na Cidade de Fortaleza, Estado do Ceará.

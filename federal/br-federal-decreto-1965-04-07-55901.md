@@ -1,5 +1,3 @@
-###DEC-055901-0-000-07-04-1965@@@
-
 DECRETO Nº 55.901, DE 7 DE ABRIL DE 1965.
 
 Acrescenta um parágrafo ao artigo 9º do Decreto nº 55.813, de 8 de março de 1965.

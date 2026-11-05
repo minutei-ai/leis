@@ -1,5 +1,3 @@
-###DEC-091911-0-000-12-11-1985@@@
-
 Decreto nº 91.911, de 12 de nOvembro de 1985.
 
 Altera o objeto da concessão outorgada ao Estado de Sergipe pelo Decreto nº 23.460, de 16 de novembro de 1933, e dá outras providências.

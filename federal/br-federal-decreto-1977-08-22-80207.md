@@ -1,5 +1,3 @@
-###DEC-080207-0-000-22-08-1977@@@
-
 DECRETO Nº 80.207, DE 22 DE AGOSTO DE 1977.
 
 Concede à Companhia de Cimento Portland Barroso o direito de lavrar calcário no Município de Barroso, Estado de Minas Gerais.

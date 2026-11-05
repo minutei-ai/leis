@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210458)<br>
-
 # DECRETO N° 69.234, DE 23 DE DEZEMBRO DE 2024
 
 ### _Institui o novo Regulamento de Perícias Médicas e Saúde Ocupacional do Estado de São Paulo._
@@ -8,7 +6,8 @@ O GOVERNADOR DO ESTADO DE SÃO PAULO, no uso de suas atribuições legais,
 
 Decreta:
 
-#### CAPÍTULO I<br>
+#### CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 **Artigo 1° -** As perícias médicas e a identificação, classificação e avaliação de unidades e atividades insalubres realizadas pela Diretoria de Perícias Médicas do Estado de São Paulo, órgão médico oficial do Estado, ficam regulamentadas por este decreto.
@@ -49,7 +48,8 @@ II - junta médica: perícia médica realizada por, no mínimo, dois médicos.
 
 **§ 7° -** Quando realizada junta médica, na hipótese de entendimentos divergentes, um terceiro profissional médico, será convocado.
 
-#### CAPÍTULO II<br>
+#### CAPÍTULO II
+
 DAS PERÍCIAS MÉDICAS PARA FINS DE INGRESSO NO SERVIÇO PÚBLICO ESTADUAL
 
 **Artigo 4° -** A perícia médica para fins de ingresso no serviço público estadual tem por objetivo avaliar a aptidão laboral do candidato, assegurando sua capacidade para o exercício das atribuições inerentes ao cargo público a ser exercido.
@@ -64,14 +64,16 @@ II - os nomeados para cargos de livre provimento em comissão ou designados para
 
 **Parágrafo único -** A realização da perícia para fins de ingresso de que trata o "caput" do artigo 4° deste decreto, será obrigatória para os servidores readaptados ou, ainda, que tenham gozado mais de 15 (quinze) dias de licença médica, corridos ou não, nos 6 (seis) meses anteriores à nomeação.
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DA PERÍCIA MÉDICA DE PRÉ-AVALIAÇÃO DE INGRESSO DE PESSOA COM DEFICIÊNCIA
 
 **Artigo 6° -** A perícia médica para avaliação da compatibilidade de deficiência com o exercício das atribuições do cargo, no caso de candidatos que se declaram pessoa com deficiência, será realizada pela Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria, da Diretoria de Perícias Médicas do Estado de São Paulo, nos termos do artigo 3° da [Lei Complementar n° 683, de 18 de setembro de 1992](https://www.al.sp.gov.br/norma/17308), c.c. o artigo 3°-A, do [Decreto n° 59.591, de 14 de outubro de 2013](https://www.al.sp.gov.br/norma/171262).
 
 **Paragrafo único -** A perícia médica de que trata o "caput" deste artigo será realizada conforme modelo estabelecido pela Diretoria de Perícias Médicas do Estado de São Paulo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DA PERÍCIA MÉDICA PARA FINS DE POSSE E EXERCÍCIO
 
 **Artigo 7° -** A perícia médica para fins de posse e exercício deve ser solicitada pelo órgão ou entidade para o qual o candidato foi nomeado, mediante registro de requisição à Diretoria de Perícias Médicas do Estado de São Paulo, no prazo de até 3 (três) dias úteis subsequentes ao da publicação da nomeação do candidato no Diário Oficial do Estado.
@@ -92,12 +94,14 @@ II - outras unidades da administração direta e autárquica, mediante resoluç�
 
 **Parágrafo único -** A unidade mencionada no "caput" deste artigo ficará responsável pela decisão final sobre as perícias médicas que realizar.
 
-#### CAPÍTULO III<br>
+#### CAPÍTULO III
+
 DAS LICENÇAS MÉDICAS
 
 **Artigo 11 -** As licenças médicas para tratamento de saúde e por motivo de doença em pessoa da família, previstas nos incisos I e IV do artigo 181 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), são concedidas ao servidor mediante a realização de perícia médica pela Diretoria de Perícias Médicas do Estado de São Paulo, bem como pelas unidades credenciadas nos termos do artigo 2° deste decreto.
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DA LICENÇA PARA TRATAMENTO DE SAÚDE
 
 **Artigo 12 -** A licença para tratamento de saúde poderá ser concedida:
@@ -106,7 +110,8 @@ I - "ex-officio";
 
 II - a pedido do servidor.
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 DA LICENÇA EX-OFFICIO
 
 **Artigo 13 -** O superior imediato ou mediato, diante das condições de saúde do servidor, pode solicitar a concessão de licença para tratamento de saúde "ex-officio", mediante requisição à Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria, da Diretoria de Perícias Médicas do Estado de São Paulo.
@@ -117,7 +122,8 @@ DA LICENÇA EX-OFFICIO
 
 **Artigo 14 -** O pedido poderá ser indeferido pela Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria, da Diretoria de Perícias Médicas do Estado de São Paulo, não cabendo qualquer recurso ou pedido de reconsideração.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 DA LICENÇA A PEDIDO
 
 **Artigo 15 -** O servidor que necessitar de licença para tratamento de saúde deve requerer agendamento de perícia, até o primeiro dia útil subsequente à data de expedição de seu atestado médico, nos termos de orientação a ser expedida pela Diretoria de Perícias Médicas do Estado de São Paulo.
@@ -164,7 +170,8 @@ DA LICENÇA A PEDIDO
 
 **§ 8° -** Caberá à Diretoria de Perícias Médicas do Estado de São Paulo, a expedição da relação com os códigos da Classificação Internacional de Doenças (CID), aos quais se aplicam o afastamento de que trata o "caput" deste artigo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DA LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA
 
 **Artigo 18 -** O servidor que necessitar de licença por motivo de doença em pessoa da família deve requerer agendamento de perícia, até o primeiro dia útil subsequente a contar da data do início do afastamento do servidor.
@@ -189,7 +196,8 @@ DA LICENÇA POR MOTIVO DE DOENÇA EM PESSOA DA FAMÍLIA
 
 **Artigo 20 -** O servidor licenciado por motivo de doença em pessoa da família é obrigado a reassumir o exercício quando não subsistir a doença ou quando, por meio de perícia médica, ficar comprovada a cessação dos motivos que determinaram a licença.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DA LICENÇA À SERVIDORA GESTANTE
 
 **Artigo 21 -** A licença à servidora gestante deve ser concedida nos termos do artigo 198 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), diretamente pela órgão setorial ou subsetorial do Sistema de Administração de Pessoal, independentemente da realização de perícia médica e de manifestação pela Diretoria de Perícias Médicas do Estado de São Paulo.
@@ -202,7 +210,8 @@ DA LICENÇA À SERVIDORA GESTANTE
 
 **Parágrafo único -** Na hipótese prevista no "caput" deste artigo, a servidora poderá solicitar a cessação da licença concedida, cabendo as providências com relação à cessação à autoridade responsável pelo ato concessório.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DA REASSUNÇÃO DE EXERCÍCIO
 
 **Artigo 24 -** O servidor deve reassumir o exercício de seu cargo:
@@ -215,12 +224,14 @@ III - quando for considerado com a capacidade laborativa preservada para o exerc
 
 **Parágrafo único -** Nas hipóteses previstas nos incisos II e III deste artigo, o servidor deverá reassumir suas funções no primeiro dia útil subsequente à publicação da conclusão da perícia médica, sendo consideradas injustificadas as faltas caso não reassuma o exercício.
 
-#### SEÇÃO V<br>
+#### SEÇÃO V
+
 DA PERÍCIA PARA FINS DE LICENÇAS MÉDICAS
 
 **Artigo 25 -** A perícia médica para fins de licença será agendada no polo de atendimento ao qual pertence o município da sede de exercício do servidor, exceto no caso de licença por motivo de doença em pessoa da família.
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 DA PERÍCIA HOSPITALAR, DOMICILIAR OU FORA DA SEDE DE EXERCÍCIO
 
 **Artigo 26 -** O servidor que, diante de suas condições de saúde, necessitar que a perícia médica ocorra em unidade hospitalar na qual se encontre internado, em seu domicílio, ou fora de sua sede de exercício, deve informar esta condição ao requisitar a realização da perícia médica.
@@ -231,14 +242,16 @@ DA PERÍCIA HOSPITALAR, DOMICILIAR OU FORA DA SEDE DE EXERCÍCIO
 
 **Artigo 28 -** Aplica-se o disposto nesta subseção, no que couber, às perícias médicas para fins de estudo de aposentadoria por incapacidade permanente para o trabalho.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 DA PERÍCIA MÉDICA PARA SERVIDOR DE OUTRO ESTADO
 
 **Artigo 29 -** O órgão médico oficial, federal, estadual ou municipal, de qualquer dos Poderes poderá solicitar à Diretoria de Perícias Médicas do Estado de São Paulo, por meio de ofício, a realização de perícia médica, para as finalidades previstas neste decreto, em servidor de seu estado que se encontre no estado de São Paulo.
 
 **Parágrafo único -** Somente serão atendidos os pedidos cujo período de afastamento solicitado estiver ainda em vigência e de acordo com os limites orçamentários previstos.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 DA LICENÇA PARA SERVIDOR DO ESTADO DE SÃO PAULO EM TRÂNSITO
 
 **Artigo 30 -** A unidade do servidor que se encontrar em outro estado ou país e que necessitar de licença médica deve comunicar à Diretoria de Perícias Médicas do Estado de São Paulo, para que sejam adotadas providências quanto à concessão do afastamento.
@@ -261,7 +274,8 @@ DA LICENÇA PARA SERVIDOR DO ESTADO DE SÃO PAULO EM TRÂNSITO
 
 **§ 4° -** O laudo de que trata o "caput" deste artigo poderá ser emitido por qualquer órgão médico oficial federal, estadual ou municipal de qualquer ente nacional.
 
-#### SEÇÃO VI<br>
+#### SEÇÃO VI
+
 DA DECISÃO FINAL E DA PUBLICAÇÃO DO RESULTADO DAS LICENÇAS MÉDICAS
 
 **Artigo 32 -** Cabe ao Coordenador de Perícias de Ingresso, Licenças, Readaptação e Aposentadoria, da Diretoria de Perícias Médicas do Estado de São Paulo, proferir a decisão final sobre as perícias médicas para concessão de licenças médicas e reassunção de exercício, observadas as normas e instruções relativas às perícias médicas.
@@ -304,7 +318,8 @@ IV - exigir comprovante idôneo de adesão ao tratamento determinado;
 
 V - convocar a qualquer tempo o servidor para realização de perícia médica, inclusive nos casos em que houver dispensa de perícia previamente estabelecida.
 
-#### SEÇÃO VII<br>
+#### SEÇÃO VII
+
 DO INÍCIO E DA RETROAÇÃO DAS LICENÇAS MÉDICAS
 
 **Artigo 36 -** As licenças médicas de que tratam os artigos 15 e 18 deste decreto, quando concedidas, terão como data de início a data da requisição de agendamento.
@@ -325,7 +340,8 @@ DO INÍCIO E DA RETROAÇÃO DAS LICENÇAS MÉDICAS
 
 **Artigo 38 -** A licença para tratamento de saúde "ex-officio" será concedida a partir da data da publicação da decisão final.
 
-#### SEÇÃO VIII<br>
+#### SEÇÃO VIII
+
 DA LICENÇA AO SERVIDOR ACIDENTADO NO EXERCÍCIO DE SUAS ATRIBUIÇÕES OU ACOMETIDO DE DOENÇA PROFISSIONAL
 
 **Artigo 39 -** O servidor acidentado no exercício de suas atribuições ou acometido de doença profissional ou do trabalho deve solicitar o preenchimento da Notificação de Acidente de Trabalho - NAT e agendamento para que possa ser submetido à perícia médica, para afastamento pelo período em que se encontrar impossibilitado de exercer suas atribuições funcionais em razão do evento danoso.
@@ -342,7 +358,8 @@ DA LICENÇA AO SERVIDOR ACIDENTADO NO EXERCÍCIO DE SUAS ATRIBUIÇÕES OU ACOMET
 
 **Artigo 44 -** O servidor que necessitar manter-se em licença para tratamento de saúde em decorrência de acidente de trabalho ou de doença profissional deve requerer o enquadramento das licenças subsequentes.
 
-#### SEÇÃO IX<br>
+#### SEÇÃO IX
+
 DA LICENÇA COMPULSÓRIA
 
 **Artigo 45 -** O servidor será afastado por licença compulsória, nos termos do artigo 206, da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593), quando a autoridade sanitária competente atribuir a ele a condição de fonte de infecção de doença transmissível, enquanto durar esta condição.
@@ -351,7 +368,8 @@ DA LICENÇA COMPULSÓRIA
 
 **§ 2° -** O servidor deverá reassumir suas funções se não positivada a doença, considerando-se como de efetivo exercício o período de licença compulsória, cabendo à unidade administrativa em que tiver exercício regularizar a situação nos termos do artigo 208 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593).
 
-#### CAPÍTULO IV<br>
+#### CAPÍTULO IV
+
 DAS PERÍCIAS MÉDICAS PARA FINS DE READAPTAÇÃO FUNCIONAL E APOSENTADORIA POR INCAPACIDADE PERMANENTE PARA O TRABALHO
 
 **Artigo 46 -** As perícias médicas para fins de readaptação funcional e aposentadoria por incapacidade permanente para o trabalho poderão ser propostas exclusivamente:
@@ -370,7 +388,8 @@ II - pelo responsável pela unidade administrativa em que o servidor tiver exerc
 
 **Artigo 49 -** Quando a junta médica verificar a necessidade de concessão de licença para tratamento de saúde, esta se dará independentemente de requisição de agendamento, nos termos do item 1 do § 2° do artigo 193 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593).
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DA READAPTAÇÃO FUNCIONAL
 
 **Artigo 50 -** O servidor público estadual poderá ser readaptado, após ser submetido à junta médica, quando ocorrer modificação de suas condições de saúde que altere sua capacidade de trabalho.
@@ -383,7 +402,8 @@ DA READAPTAÇÃO FUNCIONAL
 
 **Artigo 52 -** A critério da Administração, o servidor readaptado poderá ser nomeado para prover cargo em comissão ou ser designado para o exercício de outras funções do serviço público estadual, desde que observada pela autoridade competente a compatibilidade do rol de atividades, com as novas atribuições, emitido pela Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria, da Diretoria de Perícias Médicas do Estado de São Paulo.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DA APOSENTADORIA POR INCAPACIDADE PERMANENTE PARA O TRABALHO
 
 **Artigo 53 -** As perícias médicas destinadas a comprovar a incapacidade permanente para o trabalho, no cargo em que o servidor estiver investido, quando insuscetível de readaptação funcional, serão realizadas nos termos do artigo 47 deste decreto.
@@ -416,7 +436,8 @@ II - o enquadramento legal.
 
 **§ 2° -** Será tornada sem efeito a reversão de que trata o § 1° deste artigo e cassada a aposentadoria do servidor que não tomar posse ou não entrar em exercício no prazo legal.
 
-#### CAPÍTULO V<br>
+#### CAPÍTULO V
+
 DAS PERÍCIAS PARA FINS DE INSTRUÇÃO DE PROCEDIMENTOS DISCIPLINARES OU ADMINISTRATIVOS
 
 **Artigo 59 -** A autoridade competente pode requerer à Diretoria de Perícias Médicas do Estado de São Paulo a realização de perícia médica para fins de instrução de procedimentos disciplinares ou administrativos.
@@ -425,7 +446,8 @@ DAS PERÍCIAS PARA FINS DE INSTRUÇÃO DE PROCEDIMENTOS DISCIPLINARES OU ADMINIS
 
 **Parágrafo único -** Caso o servidor não compareça à convocação de que trata o "caput" deste artigo, caberá à unidade administrativa em que tiver exercício, observar o disposto no artigo 262 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593).
 
-#### CAPÍTULO VI<br>
+#### CAPÍTULO VI
+
 DO ACOMPANHAMENTO AO SERVIDOR DEPENDENTE QUÍMICO
 
 **Artigo 61 -** O servidor que apresentar sintomas de dependência química que influenciem no exercício de suas atividades laborativas deverá ser encaminhado à Diretoria de Perícias Médicas do Estado de São Paulo, pela unidade administrativa em que tiver exercício, para submissão à perícia médica.
@@ -438,7 +460,8 @@ DO ACOMPANHAMENTO AO SERVIDOR DEPENDENTE QUÍMICO
 
 **Artigo 62 -** Na hipótese de não comparecimento do servidor para realização da avaliação de que trata este Capítulo, caberá à unidade administrativa em que tiver exercício observar o disposto no artigo 262 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593).
 
-#### CAPÍTULO VII<br>
+#### CAPÍTULO VII
+
 DA IDENTIFICAÇÃO E CLASSIFICAÇÃO DAS UNIDADES E ATIVIDADES INSALUBRES
 
 **Artigo 63 -** Compete à Coordenadoria de Insalubridade e Acidentes do Trabalho, da Diretoria de Perícias Médicas do Estado de São Paulo:
@@ -477,10 +500,12 @@ VI - apurar a responsabilidade do requerente, na hipótese de inveracidade das i
 
 **Parágrafo único -** Aplica-se o disposto no "caput" deste artigo nas hipóteses de concessão de readaptação e de manutenção ou cessação da readaptação funcional vigente.
 
-#### CAPÍTULO VIII<br>
+#### CAPÍTULO VIII
+
 DOS PEDIDOS DE RECONSIDERAÇÃO E RECURSO
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 DAS PERÍCIAS PARA FINS DE INGRESSO
 
 **Artigo 67 -** Do ato decisório sobre a perícia médica para fins de ingresso, de que trata o artigo 9° deste decreto, caberá recurso ao Diretor de Perícias Médicas do Estado de São Paulo.
@@ -491,7 +516,8 @@ DAS PERÍCIAS PARA FINS DE INGRESSO
 
 **§ 3° -** O prazo previsto no § 2° deste artigo encerra-se com a publicação da decisão sobre o pedido de recurso, ainda que não decorrido o prazo total.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 DAS PERICIAS PARA FINS DE LICENÇAS MÉDICAS, READAPTAÇÃO E APOSENTADORIA POR INCAPACIDADE PERMANENTE PARA O TRABALHO
 
 **Artigo 68 -** Da decisão final de que trata o artigo 33 deste decreto, bem como das decisões sobre as perícias para fins de readaptação funcional e aposentadoria por incapacidade permanente para o trabalho, cabe:
@@ -506,7 +532,8 @@ II - recurso, em última instância, endereçado ao Diretor de Perícias Médica
 
 **§ 3° -** O Diretor de Perícias Médicas do Estado de São Paulo poderá determinar novas diligências à Coordenadoria de Ingresso, Licenças, Readaptação e Aposentadoria, ou requerer manifestação para subsidiar a decisão sobre o recurso de que trata o inciso II deste artigo.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 DA LICENÇA AO SERVIDOR ACIDENTADO NO EXERCÍCIO DE SUAS ATRIBUIÇÕES OU ACOMETIDO DE DOENÇA PROFISSIONAL
 
 **Artigo 69 -** Do ato decisório sobre a ocorrência de nexo causal ao servidor acidentado no exercício de suas atribuições ou acometido de doença profissional cabe:
@@ -521,7 +548,8 @@ II - recurso, em última instância, endereçado ao Diretor de Perícias Médica
 
 **§ 3° -** O Diretor de Perícias Médicas do Estado de São Paulo poderá determinar novas diligências à Coordenadoria de Insalubridade e Acidentes do Trabalho, ou requerer manifestação para subsidiar a decisão sobre o recurso de que trata o inciso II deste artigo, podendo ser determinada a realização de nova perícia médica para reavaliação do servidor.
 
-#### SEÇÃO IV<br>
+#### SEÇÃO IV
+
 DA IDENTIFICAÇÃO E CLASSIFICAÇÃO DAS UNIDADES INSALUBRES
 
 **Artigo 70 -** Do ato decisório sobre solicitações de adicional de insalubridade cabe:
@@ -536,7 +564,8 @@ II - recurso, em última instância, dirigido ao Diretor de Perícias Médicas d
 
 **§ 3° -** O Diretor de Perícias Médicas do Estado de São Paulo poderá determinar novas diligências à Coordenadoria de Insalubridade e Acidentes do Trabalho ou requerer manifestação para subsidiar a decisão sobre o recurso de que trata o inciso II deste artigo.
 
-#### CAPÍTULO IX<br>
+#### CAPÍTULO IX
+
 DAS DISPOSIÇÕES FINAIS
 
 **Artigo 71 -** Se o servidor se recusar a submeter-se à perícia médica, a unidade administrativa em que tiver exercício será comunicada, por meio de publicação no Diário Oficial do Estado, para fins de suspensão do pagamento de seu vencimento ou remuneração, nos termos do artigo 262 da [Lei n° 10.261, de 28 de outubro de 1968](https://www.al.sp.gov.br/norma/28593).

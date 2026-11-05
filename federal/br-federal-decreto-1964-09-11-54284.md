@@ -1,5 +1,3 @@
-###DEC-054284-0-000-11-09-1964@@@
-
 Decreto nº 54.284, de 11 de setembro de 1964.
 
 Declara de utilidade pública, para desapropriação, terrenos que menciona, no Campo dos Afonsos, Estado da Guanabara, necessários ao Ministério da Aeronáutica.

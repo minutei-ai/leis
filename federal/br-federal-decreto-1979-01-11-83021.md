@@ -1,5 +1,3 @@
-###DEC-083021-0-000-11-01-1979@@@
-
 DECRETO Nº 83.021, DE 11 DE JANEIRO DE 1979
 
 Concede reconhecimento aos cursos de Letras, e de Estudos Sociais, ministrados pela Universidade Estadual Paulista Júlio de Mesquita Filho, com sede na cidade de São Paulo, Estado de São Paulo.

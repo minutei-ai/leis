@@ -1,5 +1,3 @@
-###DEC-006489-0-000-19-06-2008@@@
-
 DECRETO Nº 6.489, DE 19 DE JUNHO DE 2008.
 
 Regulamenta a Lei no 11.705, de 19 de junho de 2008, no ponto em que restringe a comercialização de bebidas alcoólicas em rodovias federais.
@@ -109,5 +107,3 @@ LUIZ INÁCIO LULA DA SILVA
         Marcio Fortes de Almeida
 
 Jorge Armando Felix
-
-Este texto não substitui o publicado no DOU de 20.6.2008

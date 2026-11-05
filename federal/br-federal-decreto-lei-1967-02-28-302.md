@@ -1,5 +1,3 @@
-###DEL-000302-0-000-28-02-1967@@@
-
 DECReto-lei Nº 302, De 28 DE FEVeREIRO DE 1967
 
 Revoga o Decreto-lei nº 137, de 2 de fevereiro de 1967, dispõe sôbre a política de consolidação do Distrito Federal; cria a Coordenação do Desenvolvimento de Brasília (CODEBRÁS), extingue o Grupo de Trabalho de Brasília (GTB), e dá outras providências.

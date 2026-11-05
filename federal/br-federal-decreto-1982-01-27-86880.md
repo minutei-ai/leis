@@ -1,5 +1,3 @@
-###DEC-086880-0-000-27-01-1982@@@
-
 Decreto nº 86.880, de 27 de janeiro de 1982
 
 Institui o ano de 1982, como o "Ano Nacional do Idoso" e cria Comissão Nacional para coordenar e apresentar sugestões sobre a problemática dos idosos.

@@ -1,5 +1,3 @@
-###DEC-007167-0-000-05-05-2010@@@
-
 DECRETO Nº 7.167, DE 5 DE MAIO DE 2010.
 
 Regulamenta o Fundo Nacional de Desenvolvimento Florestal - FNDF.

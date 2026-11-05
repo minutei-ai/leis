@@ -1,5 +1,3 @@
-###MPV-001816-0-001-15-04-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.816-1, DE 15 DE ABRIL DE 1999
 
 Institui medidas adicionais de estímulo e apoio à restruturação e ao ajuste fiscal dos Estados e dá outras providências.

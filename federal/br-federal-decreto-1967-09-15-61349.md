@@ -1,5 +1,3 @@
-###DEC-061349-0-000-15-09-1967@@@
-
 DECRETO Nº 61.349, DE 15 DE SETEMBRO DE 1967.
 
 Considera de alto interêsse nacional para os fins previstos nos arts. 37 e 39 da Lei 4.131, de 3 de setembro de 1962, a Indústria de Construção Naval.

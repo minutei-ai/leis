@@ -1,42 +1,40 @@
-###DEC-020536-0-000-26-01-1946@@@
+**DECRETO Nº 20.536, DE 26 DE JANEIRO DE 1946.**
 
-<strong>DECRETO Nº 20.536, DE 26 DE JANEIRO DE 1946.</strong>
+***Aprova a Regimento do Departamento Nacional da Propriedade Industrial (D.N.P.I.) do Ministério do Trabalho, Indústria e Comércio.***
 
-<em><strong>Aprova a Regimento do Departamento Nacional da Propriedade Industrial (D.N.P.I.) do Ministério do Trabalho, Indústria e Comércio.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 74, letra *a,* da Constituição,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 74, letra <em>a,</em> da Constituição,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
+**Art**. 1º Fica aprovado o Regimento do Departamento Nacional da Propriedade Industrial, que, assinado pelo Ministro de Estado do Trabalho, Indústria e Comércio, com êste baixa.
 
-<strong>Art</strong>. 1º Fica aprovado o Regimento do Departamento Nacional da Propriedade Industrial, que, assinado pelo Ministro de Estado do Trabalho, Indústria e Comércio, com êste baixa.
+**Art**. 2º Êste Decreto entra em vigor na data de sua publicação.
 
-<strong>Art</strong>. 2º Êste Decreto entra em vigor na data de sua publicação.
-
-<strong>Art</strong>. 3º Revogam-se as disposições em contrário.
+**Art**. 3º Revogam-se as disposições em contrário.
 
 Rio de Janeiro, 26 de janeiro de 1946, 125º da Independência e 58º da República.
 
-<strong>JOSÉ LINHARES</strong>
+**JOSÉ LINHARES**
 
 R. de Carneiro de Mendonça
 
-<strong>REGIMENTO INTERNO DO DEPARTAMENTO NACIONAL DA PROPRIEDADE NACIONAL</strong>
+**REGIMENTO INTERNO DO DEPARTAMENTO NACIONAL DA PROPRIEDADE NACIONAL**
 
-<strong>CAPÍTULO I</strong>
+**CAPÍTULO I**
 
-<em>Da finalidade</em>
+*Da finalidade*
 
-<strong>Art</strong>. 1º O Departamento Nacional da Propriedade Industrial (DNPI), órgão integrante do Ministério do Trabalho, Indústria e Comércio, diretamente subordinado ao Ministro de Estado, tem por finalidade:
+**Art**. 1º O Departamento Nacional da Propriedade Industrial (DNPI), órgão integrante do Ministério do Trabalho, Indústria e Comércio, diretamente subordinado ao Ministro de Estado, tem por finalidade:
 
 I - promover e executar, na foram da legislação em vigor e no dos tratados ou convenções a que o Brasil esteja ligado, a proteção da propriedade industrial, em sua função econômica e jurídica, garantindo os direitos daqueles que contribuem para melhor aproveitamento ou distribuição da riqueza, mantendo a lealdade da concorrência do comércio e na indústria, e estimulando a iniciativa industrial, no espírito criador e inventivo;
 
 II - promover o aproveitamento das invenções pela indústria nacional, através dos órgãos públicos com a mesma relacionados e dos particulares representativos dos seus interêsses, servindo de intermédio entre êles e os inventores.
 
-<strong>CAPÍTULO II</strong>
+**CAPÍTULO II**
 
-<em>Da organização</em>
+*Da organização*
 
-<strong>Art</strong>. 2º O Departamento Nacional da Propriedade Industrial, compõe-se de:
+**Art**. 2º O Departamento Nacional da Propriedade Industrial, compõe-se de:
 
 Divisão Jurídica (DJ).
 
@@ -48,25 +46,25 @@ Seção de Comunicações (SC).
 
 Seção de Administração (S.A.).
 
-<strong>Art</strong>. 3º O Departamento Nacional da Propriedade Industrial será dirigido por um Diretor Geral, e cada Divisão por um Diretor.
+**Art**. 3º O Departamento Nacional da Propriedade Industrial será dirigido por um Diretor Geral, e cada Divisão por um Diretor.
 
-<strong>Art</strong>. 4º O Diretor Geral e cada Diretor de Divisão terão, um secretário designado entre os funcionários públicos.
+**Art**. 4º O Diretor Geral e cada Diretor de Divisão terão, um secretário designado entre os funcionários públicos.
 
 § 1º O Diretor Geral terá, também um auxiliar de Gabinete.
 
 § 2º As Seções terão chefes designados pelo Diretor Geral.
 
-<strong>Art</strong>. 5º Os órgãos do Departamento Nacional da Propriedade Industrial funcionarão perfeitamente articulado em regime de mútua colaboração, sob a orientação do Diretor Geral.
+**Art**. 5º Os órgãos do Departamento Nacional da Propriedade Industrial funcionarão perfeitamente articulado em regime de mútua colaboração, sob a orientação do Diretor Geral.
 
-<strong>CAPÍTULO III</strong>
+**CAPÍTULO III**
 
-<em>Da organização e competência das divisões e seções</em>
+*Da organização e competência das divisões e seções*
 
-<strong>SEÇÃO I</strong>
+**SEÇÃO I**
 
-<em>Da Divisão Jurídica</em>
+*Da Divisão Jurídica*
 
-<strong>Art</strong>. 6º À Divisão Jurídica compete:
+**Art**. 6º À Divisão Jurídica compete:
 
 I - examinar, do ponto de vista crítico e processual, os pedidos de registro de marcas de indústria ou de comércio, nome comercial, título de estabelecimento, insígneas e expressões ou sinais de propaganda, registro de recompensas industriais, bem como os pedidos de patentes de invenção, garantia de prioridade, modêlo de utilidade, desenho ou modêlo industrial.
 
@@ -74,19 +72,19 @@ II - examinar os pedidos de transferências, alterações de nome,caducidades, d
 
 III - opinar em todos os processos onde se faça mister o exame sob o aspecto jurídico.
 
-<strong>Art</strong>. 7º A Divisão Jurídica compõe-se de:
+**Art**. 7º A Divisão Jurídica compõe-se de:
 
 Seção de Exame Formal (S.E.F.)
 
 Seção Legal (S.L.)
 
-<strong>Art</strong>. 8º À Seção de Exame Formal compete:
+**Art**. 8º À Seção de Exame Formal compete:
 
 I - proceder ao exame inicial dos documentos constantes dos processos, no que diz respeito à regularidade formal dos mesmos;
 
 II - fazer as exigências que se tornarem necessárias à regularidade dos processos.
 
-<strong>Art</strong>. 9º À Seção Legal compete:
+**Art**. 9º À Seção Legal compete:
 
 I - proceder ao exame dos pedidos de transferências, alterações de nome, caducidade, desistências, contratos de exploração de marcas, licença obrigatória para a exploração de invenções, cancelamento de patentes;
 
@@ -94,17 +92,17 @@ II - preparar o expediente em resposta aos pedidos de informações dos Juízes 
 
 III - manifestar-se, de modo geral, do ponto de vista jurídico, sôbre os processos que lhe forem encaminhados.
 
-<strong>SEÇÃO II</strong>
+**SEÇÃO II**
 
-<em>DA Divisão de Marcas</em>
+*DA Divisão de Marcas*
 
-<strong>Art</strong>. 10.À divisão de Marcas compete:
+**Art**. 10.À divisão de Marcas compete:
 
 I - examinar, do ponto de vista técnico, pedidos de registro de marcas de indústria ou de comércio, nome comercial, título de estabelecimento, insígnea, expressões ou sinais de propaganda, recompensas industriais, opinando sôbre a sua concessão;
 
 II - classificar e arquivar todos os documentos relativos a marcas, nomes, títulos, insígneas, expressões ou sinais de propaganda, recompensas industriais, registrados, indeferidos ou em andamento.
 
-<strong>Art</strong>. 11. A Divisão de Marcas compõe-se de:
+**Art**. 11. A Divisão de Marcas compõe-se de:
 
 Seção de Interferência (S.I.)
 
@@ -112,13 +110,13 @@ Seção de Pesquisas (S.P.)
 
 Seção de Arquivo (S.ARQ.)
 
-<strong>Art</strong>. 12.À Seção de Interferências compete:
+**Art**. 12.À Seção de Interferências compete:
 
 I - proceder ao exame comparativo das anterioridades reveladas pelas buscas, indicando, nos processos, para o julgamento dos pedidos de registro, os impedimentos considerados interferentes;
 
 II - fazer ou propor exigências de ordem técnicas relativamente à classificação, discriminação dos produtos, modificações nos clichês.
 
-<strong>Art</strong>. 13. À Seção de Pesquisas compete:
+**Art**. 13. À Seção de Pesquisas compete:
 
 I - pesquisar no fichários e arquivos próprios, de acôrdo com a classificação e o sistema adotados, as anterioridades impeditivas, nos casos de reprodução ou imitação de marcas, nomes, títulos, insígnias, expressões ou sinais de propaganda, já registrados ou dependentes do registro, a fim de serem apreciadas as interferências apuradas;
 
@@ -134,7 +132,7 @@ VI - classificar, segundo os métodos adotados, todos os pedidos de registro de 
 
 VII - remeter à Seção de Interferências (SI), quando necessário todos os processos, exemplares e livros das marcas apontadas como colidentes.
 
-<strong>Art</strong>. 14. À Seção de Arquivo compete:
+**Art**. 14. À Seção de Arquivo compete:
 
 I - o arquivamento de todos os processos de registro de marcas, nomes, títulos, insígnias, expressões ou sinais de propaganda, recompensas industriais, bem como de quaisquer outros documentos relativos aos assuntos afetos à Divisão de Marcas;
 
@@ -144,11 +142,11 @@ III - guardar, devidamente em ordem e encadernados, os livros de exemplares, de 
 
 IV - preparar e expedir as certidões e cópias fotostásticas relativas aos serviços da Divisão.
 
-<strong>SEÇÃO III</strong>
+**SEÇÃO III**
 
-<em>Da Divisão de privilégios</em>
+*Da Divisão de privilégios*
 
-<strong>Art</strong>. 15. À Divisão de Privilégios compete:
+**Art**. 15. À Divisão de Privilégios compete:
 
 I - examinar, do ponto de vista técnico, as condições legais de patenteabilidade dos pedidos da invenção, modêlos de utilidade, desenho, ou modêlo industrial, opinando sôbre a concessão dos mesmos;
 
@@ -156,7 +154,7 @@ II - incrementar o espírito inventivo, orientando os inventores sôbre as forma
 
 III - classificar e arquivar todos os processos e documentos relativos às invenções requeridas no Departamento.
 
-<strong>Art</strong>. 16. A Divisão de Privilégio compõe-se:
+**Art**. 16. A Divisão de Privilégio compõe-se:
 
 Seção de Orientação e Coordenação (SOC)
 
@@ -164,7 +162,7 @@ Seção Técnica (ST)
 
 Seção de Arquivo e Museu de Invenções (S.A.M.I.):
 
-<strong>Art</strong>. 17. À Seção e Orientação e Coordenação compete:
+**Art**. 17. À Seção e Orientação e Coordenação compete:
 
 I - elaborar e propor a expedição de instruções ou normas que facilitem o entendimento e aplicação das leis em vigor ou solucionem questões de caráter geral, relativas ao campo de ação da Divisão de Privilégios;
 
@@ -176,7 +174,7 @@ IV - articular-se com as entidades da administração pública ou particulares l
 
 V - promover estudo e conferências públicas de modo a incentivar o espírito inventivo nacional, objetivando o aperfeiçoamento técnico nas indústrias do país.
 
-<strong>Art</strong>. 18. À Seção e Técnica compete:
+**Art**. 18. À Seção e Técnica compete:
 
 I - examinar e dar parecer técnico sôbre as condições de patenteabilidade da invenções, cujos privilégios são requeridos e discutidos;
 
@@ -188,7 +186,7 @@ IV - dirimir as questões que se suscitarem em torno da classificação e denomi
 
 V - proceder a buscas e ao exame de anterioridades, não só; entre as invenções constantes do Arquivo do Departamento, como também em livros, revistas, catálogos e quaisquer outras fontes idôneas.
 
-<strong>Art</strong>. 19. À Seção de Arquivo e Museu de Invenções compete:
+**Art**. 19. À Seção de Arquivo e Museu de Invenções compete:
 
 I - manter atualizada, acompanhando o desenvolvimento da tecnologia, a classificação e nomenclatura das indústrias;
 
@@ -204,11 +202,11 @@ VI - preparar e expedir certidões e cópias fotostáticas requeridas sôbre os 
 
 VIII - organizar e conservar o Museu de Invenções mediante a seleção de amostras e modelos depositados no Departamento.
 
-<strong>SEÇÃO IV</strong>
+**SEÇÃO IV**
 
-<em>Da Seção de Comunicações</em>
+*Da Seção de Comunicações*
 
-<strong>Art</strong>. 20. À Seção de Comunicações (S.C.) compete:
+**Art**. 20. À Seção de Comunicações (S.C.) compete:
 
 I - receber, mediante protocolo geral, pela ordem rigorosamente cronológica, todos os pedidos de privilégios de invenção ou de marcas de indústria ou de comércio, e, bem assim, quaisquer outros documentos a êles referentes ou apresentados no Departamento;
 
@@ -222,11 +220,11 @@ V - manter o fichário dos processos em andamento, controlando o movimento dos m
 
 VI - atender aos interessados, dando-lhes tôdas as informações solicitadas sôbre o andamento dos respectivos processos ou sôbre as exigências feitas.
 
-<strong>SEÇÃO V</strong>
+**SEÇÃO V**
 
-<em>Da Seção de Adminstração</em>
+*Da Seção de Adminstração*
 
-<strong>Art</strong>. 21. À Seção de Administração compete:
+**Art**. 21. À Seção de Administração compete:
 
 I - promover as medidas preliminares necessárias à administração do pessoal, material, orçamento e comunicações a cargo do Departamento de Administração do Ministério do Trabalho, com o qual deverá funcionar perfeitamente articulada, observando as normas e métodos de trabalho pelo mesmo prescritas;
 
@@ -244,11 +242,11 @@ VII - recolher diariamente os livros de ponto das Seções e promover o levantam
 
 VIII - preparar os Boletins de freqüência encaminhando-os à Divisão do Pessoal.
 
-<strong>C</strong><strong>APÍTULO IV</strong>
+**CAPÍTULO IV**
 
-<em>DAS ATRIBUIÇÕES DO PESSOAL</em>
+*DAS ATRIBUIÇÕES DO PESSOAL*
 
-<strong>Art</strong>. 22. Ao Diretor Geral incumbe:
+**Art**. 22. Ao Diretor Geral incumbe:
 
 I - administrar e representar o DNPI;
 
@@ -304,7 +302,7 @@ XXVI - propor ao Ministro de Estado, por iniciativa própria ou por sugestão do
 
 XXVII - assinar as cartas patentes e os certificados de marcas.
 
-<strong>Art</strong>. 23. Aos Diretores de Divisão incumbe:
+**Art**. 23. Aos Diretores de Divisão incumbe:
 
 I - administrar a Divisão respectiva;
 
@@ -342,7 +340,7 @@ XVII - conceder férias ao pessoal que lhe fôr imediatamente subordinado e deci
 
 XVIII - proferir despachos interlocutórios.
 
-<strong>Art</strong>. 24. Aos chefes de Seção compete:
+**Art**. 24. Aos chefes de Seção compete:
 
 I - dirigir os respectivos setores;
 
@@ -364,7 +362,7 @@ IX - organizar e submeter à aprovação da autoridade imediata as escalas de f�
 
 X - autorizar a expedição de certidões.
 
-<strong>Art</strong>. 25. Aos secretários compete:
+**Art**. 25. Aos secretários compete:
 
 I - atender as pessoas que desejarem comunicar-se com os respectivos Diretores, encaminhando-as ou dando-lhes conhecimento do assunto a tratar;
 
@@ -372,7 +370,7 @@ II - representar os Diretores quando para isso forem designados;
 
 III - redigir a correspondência pessoal dos Diretores.
 
-<strong>Art</strong>. 26. Aos Assessores técnicos compete:
+**Art**. 26. Aos Assessores técnicos compete:
 
 I - emitir parecer, devidamente fundamentado, sôbre as condições legais de patenteabilidade das invenções cujos privilégios forem requeridos, tendo em vista não só os elementos de que dispuserem, como também as anterioridades que hajam sido apuradas pelos assistentes técnicos;
 
@@ -398,7 +396,7 @@ XI - colaborar com o Chefe da Seção Técnica na classificação dos processos,
 
 XII - propor ao Chefe da Seção Técnica as medidas que julgarem convenientes ao bom andamento dos trabalhos.
 
-<strong>Art</strong>. 27. Aos Assistentes Técnicos compete:
+**Art**. 27. Aos Assistentes Técnicos compete:
 
 I - proceder ao exame técnico das invenções para as quais forem requeridos privilégios, selecionando com os elementos de que dispuserem, e, principalmente, nos constantes do Arquivo da Divisão de Privilégios, as anterioridades legais que, ao seu Juízo, possam interferir;
 
@@ -408,7 +406,7 @@ III - dar busca e emitir parecer nos pedidos de certidões, quando êstes depend
 
 IV - classificar os pedidos de privilégios depositados, de acôrdo com a classificação e métodos adotados.
 
-<strong>Art</strong>. 28. Aos Examinadores de Marcas compete:
+**Art**. 28. Aos Examinadores de Marcas compete:
 
 I - proceder às buscas de anterioridades para apuração das interferências entre marcas, nomes, títulos, insígnias, expressões ou sinais de propaganda;
 
@@ -418,7 +416,7 @@ III - examinar a classificação discriminação dos produtos, propondo a altera
 
 IV - fazer as anotações nas fichas, nos livros e nos exemplares das ocorrências verificadas nos registros das marcas, bem como transferências, caducidades, cancelamentos, desistência e outras determinadas em despacho.
 
-<strong>Art</strong>. 29. Ao Encarregado de Publicidade compete:
+**Art**. 29. Ao Encarregado de Publicidade compete:
 
 I - promover à publicação do expediente diário das Seções, dos Diretores e do Diretor Geral;
 
@@ -426,37 +424,37 @@ II promover a publicação dos “Arquivos da Propriedade Industrial”.
 
 III - providenciar sôbre a conferência do expediente publicado;
 
-IV - receber os “<em>clichês</em>” de marcas e patentes apresentados;
+IV - receber os “*clichês*” de marcas e patentes apresentados;
 
 V - diligenciar junto às Seções respectivas, para a colheita do material necessário ao preparo das publicações.
 
-<strong>Art</strong>. 30. Aos Servidores que não tenham atribuições especificadas neste Regimento, compete executar os trabalhos que lhes forem determinados pelo chefe imediato.
+**Art**. 30. Aos Servidores que não tenham atribuições especificadas neste Regimento, compete executar os trabalhos que lhes forem determinados pelo chefe imediato.
 
-<strong>CAPÍTULO V</strong>
+**CAPÍTULO V**
 
-<em>DA LOTAÇÃO</em>
+*DA LOTAÇÃO*
 
-<strong>Art</strong>. 31. O Departamento Nacional da Propriedade Industrial terá lotação que fôr aprovada por decreto.
+**Art**. 31. O Departamento Nacional da Propriedade Industrial terá lotação que fôr aprovada por decreto.
 
 Parágrafo único. Além do pessoal constante de lotação, o Departamento poderá ter pessoal extranumerário admitido no forma da legislação em vigor.
 
-<strong>CAPÍTULO VI</strong>
+**CAPÍTULO VI**
 
-<em>DO HORÁRIO</em>
+*DO HORÁRIO*
 
-<strong>Art</strong>. 32. O horário normal de trabalho do Departamento Nacional da Propriedade Industrial será fixado pelo Diretor Geral, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
+**Art**. 32. O horário normal de trabalho do Departamento Nacional da Propriedade Industrial será fixado pelo Diretor Geral, respeitado o número de horas semanais estabelecido para o Serviço Público Civil.
 
-<strong>Art</strong>. 33. Com exceção do Diretor Geral, dos Diretores de Divisão e dos Assessores Técnicos, todos os demais servidores lotados no Departamento Nacional da Propriedade Industrial estão sujeitos a ponto.
+**Art**. 33. Com exceção do Diretor Geral, dos Diretores de Divisão e dos Assessores Técnicos, todos os demais servidores lotados no Departamento Nacional da Propriedade Industrial estão sujeitos a ponto.
 
 § 1º Os Assessores Técnicos deverão, porém, comparecer diàriamente ao Departamento, de acôrdo com a escala e o horário que forem estabelecidos.
 
 § 2º A freqüência de pessoal designado pelo Diretor Geral para executar trabalhos externos deve ser registrada pelo sistema de ponto e verificada, também, por meio de boletins de produção controlados pelo superior imediato e remetidos à Seção de Administração, para anotações.
 
-<strong>CAPÍTULO VII</strong>
+**CAPÍTULO VII**
 
-<em>DAS SUBSTITUIÇÕES</em>
+*DAS SUBSTITUIÇÕES*
 
-<strong>Art</strong>. 34. Seção substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
+**Art**. 34. Seção substituídos, automàticamente, em suas faltas e impedimentos eventuais até 30 dias:
 
 I - O Diretor Geral, por um Diretor de Divisão de sua indicação, designado pelo Ministro de Estado;
 
@@ -466,14 +464,14 @@ III - Os Chefes de Seção, por servidores designados pelo Diretor Geral.
 
 Parágrafo único. Haverá, sempre servidores previàmente designados para as substituições de que trata êste artigo.
 
-<strong>CAPÍTULO VIII</strong>
+**CAPÍTULO VIII**
 
-<em>DISPOSIÇÕES GERAIS</em>
+*DISPOSIÇÕES GERAIS*
 
-<strong>Art</strong>. 35. Os casos omissos ou duvidosos que, na aplicação dêste Regimento, surgirem com respeito à organização interna dos serviços, serão resolvidos pelo Diretor Geral.
+**Art**. 35. Os casos omissos ou duvidosos que, na aplicação dêste Regimento, surgirem com respeito à organização interna dos serviços, serão resolvidos pelo Diretor Geral.
 
-<strong>Art</strong>. 36. Os demais casos omissos ou duvidosos, também referentes à aplicação dêsse Regimento, serão resolvidos pelo Ministro do Trabalho, Indústria e Comércio.
+**Art**. 36. Os demais casos omissos ou duvidosos, também referentes à aplicação dêsse Regimento, serão resolvidos pelo Ministro do Trabalho, Indústria e Comércio.
 
 Rio de Janeiro, 26 de Janeiro de 1946.
 
-<strong>R. CARNEIRO DE MENDONÇA</strong>
+**R. CARNEIRO DE MENDONÇA**

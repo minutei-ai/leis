@@ -1,5 +1,3 @@
-###DEC-050285-0-000-21-02-1961@@@
-
 DECRETO Nº 50.285, DE 21 DE FEVEREIRO DE 1961.
 
 Proíbe a nomeação ou admissão de pessoal no serviço Civil do Poder Executivo e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068644-0-000-21-05-1971@@@
-
 DECRETO Nº 68.644 - de 21 de maio de 1971.
 
 Reconhece o Curso de Formação de Engenheiros Tecnólogos de Alimentos da Faculdade de Tecnologia de Alimentos, da Universidade Estadual de Campinas - SP.

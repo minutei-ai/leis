@@ -1,5 +1,3 @@
-###DEC-090542-0-000-20-11-1984@@@
-
 Decreto nº 90.542, de 20 de novembro de 1984
 
 Institui "O Ano Nacional da Cultura".

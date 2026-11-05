@@ -1,5 +1,3 @@
-###DEC-087987-0-000-23-12-1982@@@
-
 Decreto nº 87.987, de 23 de dezembro de 1982
 
  Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Obras Contra as Secas-DNOCS, área de terra abrangida pela bacia hidráulica e faixa seca do açude público "ENGENHEIRO ARMANDO RIBEIRO GONÇALVES, nos Municípios de Açu, Ipanguaçu, São Rafael, Santana do Matos e Jucurutu, no Estado do Rio Grande do Norte.

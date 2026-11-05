@@ -1,5 +1,3 @@
-###DEC-064974-0-000-11-08-1969@@@
-
 DECRETO Nº 64.974 - DE 11 DE AGÔSTO DE 1969.
 
 Concede a Indústrias Brasileiras de Artigos Refratários S. A., "IBAR" o direito de lavrar argila refratária, no município de Suzano, Estado de São Paulo.

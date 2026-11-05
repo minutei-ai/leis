@@ -1,5 +1,3 @@
-###DEC-081009-0-000-12-12-1977@@@
-
 Decreto nº 81.009, de 12 de dezembro de 1977.
 
 Concede à Mineração Itapó Ltda. o direito de lavrar calcário dolomítico no Município de Piracicaba, Estado de São Paulo.

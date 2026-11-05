@@ -1,5 +1,3 @@
-###DEC-062313-0-000-23-02-1968@@@
-
 DECRETO Nº 62.313, DE 23 DE FEVEREIRO DE 1968.
 
 Autoriza a Companhia Brasileira de Energia Elétrica a construir linhas de transmissão no Estado do Rio de Janeiro e dá outras providências.

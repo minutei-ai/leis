@@ -1,5 +1,3 @@
-###DEC-067912-0-000-21-12-1970@@@
-
 DECRETO Nº 67.912, DE 21 DE DEZEMBRO DE 1970.
 
 Considera insubsistente o Decreto que cassou a aposentadoria de Athayde Ignácio Cardoso e dá outras providências.

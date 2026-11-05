@@ -1,5 +1,3 @@
-###DEC-068581-0-000-04-05-1971@@@
-
 Decreto nº 68.581 - de 04 de maio de 1971.
 
 Ratifica disposições legais sôbre o Serviço de Loteria do Estado do Espírito Santo.

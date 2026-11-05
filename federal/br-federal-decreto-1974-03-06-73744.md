@@ -1,5 +1,3 @@
-###DEC-073744-0-000-06-03-1974@@@
-
 DECRETO Nº 73.744, DE 6 DE MARÇO DE 1974.
 
 Renova por 10 (dez) anos a concessão outorgada à Rádio Guaíba S. A., para executar serviço de radiodifusão sonora em onda média de âmbito nacional, na cidade de Porto Alegre Nacional, na cidade, de Porto Alegre, Estado do Rio Grande do Sul.

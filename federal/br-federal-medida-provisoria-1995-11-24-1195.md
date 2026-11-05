@@ -1,7 +1,3 @@
-1
-
-###MPV-001195-0-000-24-11-1995@@@
-
 # MEDIDA PROVISÓRIA Nº 1.195, DE 24 DE NOVEMBRO DE 1995.
 
 Altera a redação de dispositivos das Leis nºs 8.112, de 11 de dezembro de 1990, e 8.911, de 11 de julho de 1994, para instituir os Décimos Incorporados, e dá outras providências.

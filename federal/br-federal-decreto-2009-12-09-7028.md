@@ -1,5 +1,3 @@
-###DEC-007028-0-000-09-12-2009@@@
-
 DECRETO Nº 7.028, DE 9 DE DEZEMBRO DE 2009.
 
 Altera o Decreto no 5.992, de 19 de dezembro de 2006, que dispõe sobre a concessão de diárias no âmbito da administração federal direta, autárquica e fundacional.

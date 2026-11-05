@@ -1,5 +1,3 @@
-###DEC-049970-0-000-20-01-1961@@@
-
 DECRETO Nº 49.970, DE 20 DE JANEIRO DE 1961.
 
 Suprime cargo extinto

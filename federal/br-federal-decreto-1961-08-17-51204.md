@@ -1,5 +1,3 @@
-###DEC-051204-0-000-17-08-1961@@@
-
 DECRETO Nº 51.204, DE 17 DE AGÔSTO DE 1961.
 
 Dispõe sôbre a intervenção, na Cooperativa Banco de Crédito Popular de Pernambuco Ltda.

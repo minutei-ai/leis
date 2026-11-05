@@ -1,5 +1,3 @@
-###DEC-007358-0-000-17-11-2010-PUB-01@@@
-
 DECRETO Nº 7.358, DE 17 DE NOVEMBRO DE 2010. <http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/DEC%207.358-2010?OpenDocument>
 
 Institui o Sistema Nacional do Comércio Justo e Solidário - SCJS, cria sua Comissão Gestora Nacional, e dá outras providências

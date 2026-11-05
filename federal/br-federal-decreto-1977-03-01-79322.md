@@ -1,5 +1,3 @@
-###DEC-079322-0-000-01-03-1977@@@
-
 DECRETO Nº 79.322, DE 1º DE MARÇO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, total ou parcial, ou instituição de servidão de passagem em favor de o Petróleo Brasileiro S.A. - PETROBRÁS, imóveis, constituídos de terras e benfeitorias, necessários a construção dos Oleodutos e Gasodutos de Sergipe e Alagoas, linhas de transmissão e adutora, ligando os Municípios de Carmópolis e Aracaju no Estado de Sergipe.

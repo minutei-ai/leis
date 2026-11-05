@@ -1,5 +1,3 @@
-###DEC-004050-0-000-12-12-2001@@@
-
 DECRETO Nº 4.050, DE 12 DE DEZEMBRO DE 2001
 
 Regulamenta o art. 93 da Lei no 8.112, de 11 de dezembro de 1990, que dispõe sobre a cessão de servidores de órgãos e entidades da Administração Pública Federal, direta, autárquica e fundacional, e dá outras providências.

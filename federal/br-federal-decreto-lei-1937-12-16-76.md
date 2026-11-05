@@ -1,5 +1,3 @@
-###DEL-000076-0-000-16-12-1937@@@
-
 DECRETO-LEI N. 76 – DE 16 DE DEZEMBRO DE 1937
 
 Autoriza a aquisição de um imóvel em Curitiba, para residência do comandante da 5ª Região Militar

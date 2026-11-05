@@ -1,5 +1,3 @@
-###DEC-046258-0-000-23-06-1959@@@
-
 DECRETO Nº 46.258, DE 23 DE JUNHO DE 1959.
 
 Aprova o Regulamento da Escola Nacional de Saúde Pública, do Ministério da Saúde.
@@ -797,8 +795,6 @@ Art. 73. Os casos omissos, no presente Regulamento, serão resolvidos pelo Minis
 Rio de Janeiro, 23 de junho de 1959.
 
 MÁRIO PINOTTI
-
-###DEC-046258-0-000-23-06-1959@@@RET01+++
 
 decreto nº 46.258, de 23 de junho de 1959.
 

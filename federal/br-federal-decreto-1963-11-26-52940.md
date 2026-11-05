@@ -1,5 +1,3 @@
-###DEC-052940-0-000-26-11-1963@@@
-
 DECRETO Nº 52.940, DE 26 DE NOVEMBRO de 1963.
 
 Renova o Decreto nº 48.610, de 25 de julho de 1960.

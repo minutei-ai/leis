@@ -1,5 +1,3 @@
-###DEC-093899-0-000-08-01-1987@@@
-
 # DECRETO Nº 93.899, DE 08 DE JANEIRO DE 1987
 
 Renova a concessão outorgada à RÁDIO CLUBE DE MARÍLIA LTDA., para explorar serviço de radiodifusão sonora em onda tropical, na cidade de Marília, Estado de São Paulo.

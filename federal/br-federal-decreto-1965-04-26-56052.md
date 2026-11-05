@@ -1,5 +1,3 @@
-###DEC-056052-0-000-26-04-1965@@@
-
 DECRETO Nº 56.052, DE 26 DE ABRIL DE 1965.
 
 Declara públicas, de uso comum, as águas do curso d’ água que especifica.

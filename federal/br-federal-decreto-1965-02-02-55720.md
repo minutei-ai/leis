@@ -1,5 +1,3 @@
-###DEC-055720-0-000-02-02-1965@@@
-
 DECRETO Nº 55.720, DE 2 DE FEVEREIRO DE 1965.
 
 Autoriza o cidadão brasileiro Anilson Varizo à pesquisar cassiterita no município de Macapá, território Federal do Amapá.

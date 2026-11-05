@@ -1,5 +1,3 @@
-###DEC-090997-0-000-27-02-1985@@@
-
 Decreto nº 90.997, de 27 de fevereiro de 1985.
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Barra do Corda, no Estado do Maranhão.

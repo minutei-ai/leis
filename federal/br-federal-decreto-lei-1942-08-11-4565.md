@@ -1,5 +1,3 @@
-###DEL-004565-0-000-11-08-1942@@@
-
 DECRETO-LEI N. 4.565 – DE 11 DE AGOSTO DE 1942
 
 Altera e retifica disposições do Código de Processo Civil

@@ -1,5 +1,3 @@
-###DEC-083340-0-000-17-04-1979@@@
-
 Decreto nº 83.340, de 17 de abril de 1979.
 
 Concede reconhecimento ao curso de Matemática, ministrado no Campus de Campina Grande pelo Universidade Federal da Paraíba.

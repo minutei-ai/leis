@@ -1,5 +1,3 @@
-###DEC-049920-0-000-13-01-1961@@@
-
 DECRETO Nº 49.920, DE 13 DE JANEIRO DE 1961.
 
 Concede autorização à Cooperativa Banco de Torrinha Limitada para modificar seu estatuto social.

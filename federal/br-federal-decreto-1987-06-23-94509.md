@@ -1,5 +1,3 @@
-###DEC-094509-0-000-23-06-1987@@@
-
 DECRETO N° 94.509, DE 23 DE JUNHO DE 1987.
 
 Autoriza o aumento do capital social da Centrais Elétricas de Roraima S.A. - CER.

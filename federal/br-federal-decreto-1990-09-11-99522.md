@@ -1,7 +1,3 @@
-1
-
-###DEC-099522-0-000-11-09-1990@@@
-
 DECRETO N° 99.522, DE 11 DE SETEMBRO DE 1990
 
 Declara de utilidade pública, para fins de desapropriação, terrenos situados no lugar denominado Pedra do Imbuque/Campinho, no Município de Porto Seguro, Estado da Bahia.

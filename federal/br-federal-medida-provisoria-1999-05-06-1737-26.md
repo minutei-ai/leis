@@ -1,5 +1,3 @@
-###MPV-001737-0-026-06-05-1999@@@
-
 MEDIDA PROVISÓRIA Nº 1.737-26, DE 6 DE MAIO DE 1999.
 
 Dispõe sobre o salário mínimo para o período de 1º de  maio de 1997 a 30 de abril de 1998.

@@ -1,5 +1,3 @@
-###DEC-047083-0-000-22-10-1959@@@
-
 DECRETO Nº 47.083, DE 22 DE OUTUBRO DE 1959.
 
 Outorga à Prefeitura Municipal de Barra do São Francisco, Estado do Espírito Santo, concessão para o aproveitamento de energia hidráulica da cachoeira do Rio Prêto, existente no Rio Prêto, distrito sede do município de Barra do São Francisco, Estado do Espírito Santo.

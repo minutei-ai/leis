@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=58197)
-
 # LEI Nº 12.078, DE 04 DE OUTUBRO DE 2005
 
 ## ( PL 1288/2003 - Marcelo Bueno)

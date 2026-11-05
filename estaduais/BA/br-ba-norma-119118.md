@@ -2,7 +2,8 @@ O PRESIDENTE DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DA BAHIA PROMULGA E FAZ PUBLIC
 
 LEI Nº 6.363 DE 08 DE JANEIRO DE 1992
 
-Ver também:<br>
+Ver também:
+
 Lei nº 13.355 de 29 de junho de 2015 - Atualiza, na forma da Lei nº 12.057, 11 de janeiro de 2011, os limites dos Municípios de Baixa Grande, Capela do Alto Alegre, Gavião , Mairi , Nova Fátima , Pé de Serra , Pintadas , Riachão do Jacuípe, São José do Jacuípe , Várzea da Roça e Várzea do Poço. 
 
 Altera a redação do [art. 1º da Lei nº 4.409](https://www.legislabahia.ba.gov.br/documentos/lei-no-4409-de-19-de-marco-de-1985#LO_4_409_Art__1) , nos limites do Município de Capela do Alto Alegre com os Municípios de Jacobina, Gavião, Riachão de Jacuípe, Pé de Serra e Ipirá e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-056035-0-000-23-04-1965@@@
-
 DECRETO Nº 56.035, DE 23 DE ABRIL DE 1965.
 
 Concede à Mineração Paracatu Ltda. autorização para funcionar como emprêsa de mineração.

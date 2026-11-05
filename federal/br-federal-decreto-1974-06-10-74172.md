@@ -1,5 +1,3 @@
-###DEC-074172-0-000-10-06-1974@@@
-
 DECRETO Nº 74.172, DE 10 DE JUNHO DE 1974.
 
 Declara interditada, para fins de atração de grupo indígena, área que discrimina, nos Municípios de Mazagão e Macapá, no Território Federal do Amapá.

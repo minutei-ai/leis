@@ -1,5 +1,3 @@
-###DEC-048934-0-000-10-09-1960@@@
-
 decreto nº 48.934, de 10 de setembro de 1960.
 
 Altera o art. 7º do Decreto n.º 42.570, de 25 de outubro de 1957.

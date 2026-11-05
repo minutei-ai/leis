@@ -1,5 +1,3 @@
-###DEC-067241-0-000-23-09-1970@@@
-
 decreto nº 67.241, de 23 de setembro de 1970.
 
 Concede à Cia. de Cimento Aratu S.A. o direito de lavrar areia quartzosa, no município de Simões Filho, Estado da Bahia.

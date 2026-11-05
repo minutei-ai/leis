@@ -1,5 +1,3 @@
-###DEC-052008-0-000-16-05-1963@@@
-
 DECRETO Nº 52.008, de 16 de maio de 1963.
 
 Altera o enquadramento dos cargos, funções e empregos do Instituto de Aposentadoria de pensões dos Bancários.

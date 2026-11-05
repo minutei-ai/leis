@@ -1,5 +1,3 @@
-###DEC-072639-0-000-17-08-1973@@@
-
 DECRETO Nº 72.639, DE 17 DE AGOSTO DE 1973.
 
 Torna sem efeito disponibilidade de ex-Combatente.

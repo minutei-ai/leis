@@ -1,5 +1,3 @@
-###DEC-073736-0-000-05-03-1974@@@
-
 DECRETO Nº 73.736, DE 5 DE MARÇO DE 1974.
 
 Concede reconhecimento nos cursos de Física, de Química e de Pedagogia, da Universidade Federal de São Carlos, com sede na cidade de São Carlos, Estado de São Paulo.

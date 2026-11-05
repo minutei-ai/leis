@@ -1,5 +1,3 @@
-###DEC-046395-0-000-08-07-1959@@@
-
 DECRETO Nº 46.395, DE 8 DE JULHO DE 1959.
 
 Autoriza a execução de serviços em Fortaleza, Estado do Ceará.

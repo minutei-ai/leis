@@ -1,5 +1,3 @@
-###DEC-082349-0-000-02-10-1978@@@
-
 Decreto nº 82.349, de 02 de outubro de 1978
 
 Autoriza o Ministro da Fazenda a conceder garantia a empréstimo externo a ser contratado pela Companhia Siderúrgica de Tubarão.
@@ -19,8 +17,6 @@ ERNESTO GEISEL
 Mário Henrique Simonsem
 
 João Paulo dos Reis Velloso
-
-###DEC-082349-0-000-02-10-1978@@@RET01+++
 
 Decreto nº 82.349, DE 2 DE OUTUBRO DE 1978
 

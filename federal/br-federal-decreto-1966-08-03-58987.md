@@ -1,5 +1,3 @@
-###DEC-058987-0-000-03-08-1966@@@
-
 DECRETO Nº 58.987, DE 3 DE AGÔSTO DE 1966.
 
 Suspende a aplicação de dispositivos do Decreto nº 57.361-A, de 29 de novembro de 1965, e dá outras providências.

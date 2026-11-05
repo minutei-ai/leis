@@ -1,5 +1,3 @@
-###DEC-075530-0-000-25-03-1975@@@
-
 DECRETO Nº 75.530, DE 25 DE MARÇO DE 1975.
 
 Declara de utilidade pública, para fins de desapropriação, o domínio útil e benfeitorias de um imóvel situado na cidade de Cabo Frio, Estado do Rio de Janeiro, destinado à construção de uma estação telefônica pela Companhia Telefônica Brasileira.

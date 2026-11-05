@@ -1,5 +1,3 @@
-###DEC-079890-0-000-29-06-1977@@@
-
 DECRETO Nº 79.890, DE 29 DE JUNHO DE 1977
 
 Decreta a suspensão da intervenção federal no Município de Rio Branco, Estado do Acre, com base no artigo 3º do Ato Institucional nº 5, de 13 de dezembro de 1968.

@@ -1,5 +1,3 @@
-###DEC-045063-0-000-19-12-1958@@@
-
 DECRETO Nº 45.063, DE 19 DE DEZEMBRO DE 1958.
 
 Concede autorização para o funcionamento de serviço social da Faculdade de Serviço Social de Santa Catarina.
@@ -15,8 +13,6 @@ Rio de Janeiro, 19 de dezembro de 1958; 137º da Independência e 70º da Repúb
 Juscelino Kubitschek
 
 Clóvis Salgado
-
-###DEC-045063-0-000-19-12-1958@@@RET01+++
 
 DECRETO Nº 45.063, DE 19 DE DEZEMBRO DE 1958.
 

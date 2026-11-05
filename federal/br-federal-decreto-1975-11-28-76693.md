@@ -1,5 +1,3 @@
-###DEC-076693-0-000-28-11-1975@@@
-
 DECRETO Nº 76.693, DE 28 DE NOVEMBRO DE 1975.
 
 Aprova o Regulamento do Fundo Especial de Publicidade e Divulgação e dá outras providências.

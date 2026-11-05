@@ -1,7 +1,3 @@
-1
-
-###DEC-000239-0-000-24-10-1991@@@
-
 DECRETO Nº 239, DE 24 DE OUTUBRO DE 1991
 
 Altera alíquotas do Imposto sobre Produtos Industrializados.

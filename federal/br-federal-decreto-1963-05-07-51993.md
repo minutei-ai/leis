@@ -1,5 +1,3 @@
-###DEC-051993-0-000-07-05-1963@@@
-
 DECRETO Nº 51.993, De 7 de MAIO DE 1963
 
 Dispõe sôbre bens e direitos de companhias de seguro alemãs.

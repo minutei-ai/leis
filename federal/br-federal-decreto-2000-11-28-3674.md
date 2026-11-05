@@ -1,5 +1,3 @@
-###DEC-003674-0-000-28-11-2000@@@
-
 DECRETO Nº 3.674, DE 28 DE NOVEMBRO DE 2000.
 
 Prorroga o prazo estabelecido no art. 1º do Decreto nº 3.075, de 1º de junho de 1999.

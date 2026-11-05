@@ -1,5 +1,3 @@
-###DEC-056945-0-000-01-10-1965@@@
-
 DECRETO Nº 56.945, de 1º DE OUTUBRO DE 1965.
 
 Renova o decreto nº 51.949- A, de 26 de abril de 1963.

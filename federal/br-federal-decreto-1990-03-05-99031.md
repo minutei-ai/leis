@@ -1,7 +1,3 @@
-1
-
-###DEC-099031-0-000-05-03-1990@@@
-
 DECRETO N° 99.031, DE 5 DE MARÇO DE 1990.
 
 Autoriza o funcionamento do curso de Administração da Faculdade de Ciências Contábeis e Administrativas de Barra do Garças.

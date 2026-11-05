@@ -1,5 +1,3 @@
-###DEC-076073-0-000-31-07-1975@@@
-
 DECRETO Nº 76.073, DE 31 DE JULHO DE 1975.
 
 Concede à Transminério Sul Minas Limitada, o direito de lavrar, quartzito e areia quartzosa no Município de Marmelópolis, Estado de Minas Gerais.

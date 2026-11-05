@@ -1,7 +1,3 @@
-1
-
-###DEC-001079-0-000-08-03-1994@@@
-
 # DECRETO N° 1.079, DE 8 DE MARÇO DE 1994
 
 Prorroga o prazo estabelecido no Decreto n° 9l8, de 8 de setembro de 1993.

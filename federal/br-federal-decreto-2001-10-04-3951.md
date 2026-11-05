@@ -1,5 +1,3 @@
-###DEC-003951-0-000-04-10-2001@@@
-
 DECRETO Nº 3.951, DE 4 DE OUTUBRO DE 2001
 
 Designa a Autoridade Central para dar cumprimento às obrigações impostas pela Convenção sobre os Aspectos Civis do Seqüestro Internacional de Crianças, cria o Conselho da Autoridade Central Administrativa Federal contra o Seqüestro Internacional de Crianças e institui o Programa Nacional para Cooperação no Regresso de Crianças e Adolescentes Brasileiros Seqüestrados Internacionalmente.

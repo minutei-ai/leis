@@ -1,5 +1,3 @@
-###DEC-064918-0-000-31-07-1969@@@
-
 DECRETO Nº 64.918 - DE 31 DE JUlHO DE 1969.
 
 Institui, em caráter permanente, a "Operação Mauá" (OPEMA), e dá outras providências.

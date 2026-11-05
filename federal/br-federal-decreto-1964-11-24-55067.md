@@ -1,5 +1,3 @@
-###DEC-055067-0-000-24-11-1964@@@
-
 DECRETO Nº 55.067, DE 24 DE novembro DE 1964.
 
 Concede reconhecimento à Escola de Música da Fundação Universidade Mineira de Arte, de Belo Horizonte, Estado de Minas Gerais.

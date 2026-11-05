@@ -1,5 +1,3 @@
-###DEC-088086-0-000-07-02-1983@@@
-
 # DECRETO Nº 88.086, de 07 de fevereiro de 1983.
 
 Dispõe sobre o uso, pela Administração Pública Federal, de chancela mecânica, nas condições que estabelece, e dá outras providências.

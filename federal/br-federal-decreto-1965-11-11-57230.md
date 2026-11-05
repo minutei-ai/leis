@@ -1,5 +1,3 @@
-###DEC-057230-0-000-11-11-1965@@@
-
 Decreto nº 57.230, de 11 de novembro de 1965.
 
 Transfere da Companhia de Eletricidade do Médio Rio Doce para a Centrais Elétricas de Minas Gerais S.A. a concessão para o aproveitamento de energia hidráulica.

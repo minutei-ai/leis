@@ -1,5 +1,3 @@
-###DEC-079572-0-000-25-04-1977@@@
-
 Decreto nº 79.572, de 25 de abril de 1977.
 
 Autoriza o aterro de área em mar e a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na Cidade e Estado do Rio de Janeiro.

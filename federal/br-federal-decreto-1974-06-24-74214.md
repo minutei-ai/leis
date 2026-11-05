@@ -1,5 +1,3 @@
-###DEC-074214-0-000-24-06-1974@@@
-
 DECRETO Nº 74.214, DE 24 DE JUNHO DE 1974.
 
 Dispõe sobre o regulamento da Seção Nacional do Brasil do Instituto Pan-Americano de Geografia e História.

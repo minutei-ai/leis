@@ -1,5 +1,3 @@
-###DEC-048437-0-000-28-06-1960@@@
-
 DECRETO Nº 48.437, DE 28 DE JUNHO DE 1960.
 
 Aprova Regulamento do Gabinete do Ministro da Agricultura.
@@ -237,8 +235,6 @@ Art. 26. Os motoristas que servem ao Gabinete do Ministro ficam sob contrôle e 
 Art. 27. Os casos omissos neste Regimento serão resolvidos pelo Ministro, por propostas do Chefe do Gabinete.
 
 Barros Carvalho
-
-###DEC-048437-0-000-28-06-1960@@@RET01+++
 
 decreto nº 48.437, de 28 de junho de 1960.
 

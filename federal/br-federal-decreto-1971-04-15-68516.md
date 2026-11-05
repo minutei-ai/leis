@@ -1,5 +1,3 @@
-###DEC-068516-0-000-15-04-1971@@@
-
 Decreto nº 68.516 - de 15 de abril de 1971.
 
 Declara de utilidade pública, para fins de desapropriação, em regime de urgência, o imóvel adjacente à sede do Tribunal Regional do Trabalho da 5ª Região, situado à Rua Inácio Tosta, nº 40, no subdistrito de Nazaré, na cidade de Salvador - Bahia.

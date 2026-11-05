@@ -1,7 +1,3 @@
-1
-
-###MPV-001373-0-000-03-04-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.373, DE 3 DE ABRIL DE 1996.
 
 Acrescenta § 5º ao art. 4º da Lei nº 8.884, de 11 de junho de 1994, e dá outras providências.

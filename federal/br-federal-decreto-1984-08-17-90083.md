@@ -1,5 +1,3 @@
-###DEC-090083-0-000-17-08-1984@@@
-
 Decreto nº 90.083, de 17 de agosto de 1984
 
 Autoriza o funcionamento da habilitação em Jornalismo, da Fundação Educacional de Bauru-SP.

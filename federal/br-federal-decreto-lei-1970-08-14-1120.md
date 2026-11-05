@@ -1,5 +1,3 @@
-###DEL-001120-0-000-14-08-1970@@@
-
 # DECRETO-LEI Nº 1.120, DE 14 DE AGÔSTO DE 1970
 
 Autoriza o Ministro dos Transportes a tomar as providências necessárias a regularização de débitos da União para com a Companhia de Navegação Lloyd Brasileiro.

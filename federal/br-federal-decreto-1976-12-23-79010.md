@@ -1,5 +1,3 @@
-###DEC-079010-0-000-23-12-1976@@@
-
 DECRETO Nº 79.010, DE 23 DE DEZEMBRO DE 1976.
 
 Concede reconhecimento aos cursos de Psicologia, Bacharelado, Licenciatura e Formação de Psicólogo da Faculdade de Ciências Humanas com sede na cidade de Belo Horizonte, Minas Gerais.

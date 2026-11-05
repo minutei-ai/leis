@@ -1,5 +1,3 @@
-###DEC-044874-0-000-26-11-1958@@@
-
 DECRETO Nº 44.874, DE 26 DE NOVEMBRO DE 1958.
 
 Aprova alterações introduzidas nos Estatutos, inclusive transferência da sede social da Companhia Ceará de Seguros Gerais.

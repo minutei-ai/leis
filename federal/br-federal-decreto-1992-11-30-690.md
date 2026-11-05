@@ -1,7 +1,3 @@
-1
-
-###DEC-000690-0-000-30-11-1992@@@
-
 DECRETO Nº 690, DE 30 DE NOVEMBRO DE 1992
 
 Altera a constituição da Comissão Brasileira de Atividades Espaciais (Cobae).

@@ -1,7 +1,3 @@
-1
-
-###DEC-002039-0-000-15-10-1996@@@
-
 DECRETO Nº 2.039, DE 15 DE OUTUBRO DE 1996.
 
 Dispõe sobre a inclusão, no Programa Nacional de Desestatização - PND, da Companhia Nordestina de Sondagens e Perfurações - CONESP.

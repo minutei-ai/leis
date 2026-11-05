@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209747)<br>
-
 # DECRETO N° 68.707, DE 23 DE JULHO DE 2024
 
 ### _Altera o Decreto n° 50.977, de 20 de julho de 2006, que ratifica convênios celebrados nos termos da Lei Complementar federal n° 24, de 7 de janeiro de 1975, aprova convênios, protocolos e ajustes SINIEF e introduz alterações no Regulamento do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - RICMS._

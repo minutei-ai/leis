@@ -1,7 +1,3 @@
-1
-
-###DEC-000797-0-000-13-04-1993@@@
-
 DECRETO N° 797, DE 13 DE ABRIL DE 1993
 
 Dá nova redação aos arts. 13 e 17, caput, dos Estatutos da Indústria de Material Bélico do Brasil (Imbel), aprovados pelo Decreto nº 97.752, de 16 de maio de 1989.

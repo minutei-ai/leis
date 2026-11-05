@@ -1,5 +1,3 @@
-###DEC-058129-0-000-30-03-1966@@@
-
 DECRETO Nº 58.129, DE 30 DE MARçO DE 1966.
 
 Autorizar a S.A. de Cimento, Mineração e Cabotagem “Cimimar” a lavrar calcário, no município de Parnaíba, Estado de São Paulo.

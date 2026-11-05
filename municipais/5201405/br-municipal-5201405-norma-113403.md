@@ -1,4 +1,5 @@
-DECRETO Nº 2.226, DE 17 DE SETEMBRO DE 2025<br>
+DECRETO Nº 2.226, DE 17 DE SETEMBRO DE 2025
+
 (Revogado pelo Decreto nº 286, de 13 de abril de 2026).
 
 ~~Dispõe sobre o remembramento dos Lotes 01, 02, 03 e 10, todos da Quadra 03, situados à Rua Independência, no Loteamento Setor Serra Dourada 3ª Etapa, no Município de Aparecida de Goiânia.~~
@@ -21,7 +22,8 @@ DECRETO Nº 2.226, DE 17 DE SETEMBRO DE 2025<br>
 
  
 
-~~LEANDRO VILELA VELLOSO<br>
+~~LEANDRO VILELA VELLOSO
+
 Prefeito de Aparecida de Goiânia~~
 
 ~~ANEXO~~

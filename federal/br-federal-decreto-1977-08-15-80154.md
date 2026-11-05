@@ -1,5 +1,3 @@
-###DEC-080154-0-000-15-08-1977@@@
-
 DECRETO N° 80.154, DE 15 DE AGOSTO DE 1977.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessária à implantação da subestação de Criciúma, da Centrais Elétricas de Santa Catarina S. A. - CELESC, no Estado de Santa Catarina.
@@ -25,8 +23,6 @@ Brasília, 15 de agosto de 1977; 156° da Independência e 89° da República.
 Ernesto Geisel
 
 Shigeaki Ueki
-
-###DEC-080154-0-000-15-08-1977@@@
 
 DECRETO N° 80.154, DE 15 DE AGOSTO DE 1977.
 

@@ -1,5 +1,3 @@
-###DEC-052012-0-000-16-05-1963@@@
-
 DECRETO Nº 52.012, DE 16 DE Maio 1963.
 
 Outorga concessão à Planalto Promoções e Informação Limitada, para estabelecer uma estação radiodifusora de onda média na cidade de Brasília, Distrito Federal.
@@ -21,8 +19,6 @@ Brasília-DF, 16 de novembro de 1963; 142º da Independência e 75º da Repúbli
 João Goulart
 
 João Mangabeira
-
-###DEC-052012-0-000-17-05-1963@@@RET01+++
 
 DECRETO Nº 52.012, DE 17 DE MAIO DE 1963.
 

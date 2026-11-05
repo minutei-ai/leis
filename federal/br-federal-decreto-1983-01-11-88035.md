@@ -1,5 +1,3 @@
-###DEC-088035-0-000-11-01-1983@@@
-
 Decreto nº 88.035, de 11 de janeiro de 1983
 
 Concede autorização ao navio norte-americano "ROBERT D. CONRAD" para realizar em águas brasileiras os serviços que especifica.

@@ -1,5 +1,3 @@
-###DEC-068953-0-000-20-07-1971@@@
-
 Decreto Nº 68.953, DE 20 DE JULHO DE 1971.
 
 Declara de utilidade pública a Sociedade Hospital Nossa Senhora de Pompéia, com sede em Viadutos, Estado do Rio Grande do Sul.

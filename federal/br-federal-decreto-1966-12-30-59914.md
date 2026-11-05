@@ -1,5 +1,3 @@
-###DEC-059914-0-000-30-12-1966@@@
-
 DECRETO Nº 59.914, DE 30 DE DEZEMBRO DE 1966.
 
 Declara de utilidade pública a Associação Casa de Caridade de Conservatória, com sede em Conservatória Município de Valença  Estado do Rio de Janeiro.

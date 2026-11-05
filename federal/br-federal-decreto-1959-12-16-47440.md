@@ -1,5 +1,3 @@
-###DEC-047440-0-000-16-12-1959@@@
-
 DECRETO Nº 47.440, DE 16 DE Dezembro DE 1959.
 
 Altera a lotação de repartições atendidas pelos Quadros Permanente e Suplementar do Ministério da Agricultura.

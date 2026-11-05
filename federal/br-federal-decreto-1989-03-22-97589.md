@@ -1,5 +1,3 @@
-###DEC-097589-0-000-22-03-1989@@@
-
 DECRETO N° 97.589, DE 22 DE MARÇO DE 1989
 
 Declara de utilidade pública as instituições que menciona.

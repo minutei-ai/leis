@@ -1,5 +1,3 @@
-###DEC-094796-0-000-20-08-1987@@@
-
 DECRETO N° 94.796, DE 20 DE AGOSTO DE 1987
 
 Eleva o capital da Empresa Pública Financiadora de Estudos e Projetos - FINEP.

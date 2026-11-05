@@ -1,5 +1,3 @@
-###DEC-082377-0-000-04-10-1978@@@
-
 Decreto nº 82 377, de 04 de outubro de 1978.
 
 Autoriza a conversão dos cursos de Música, de Desenho e Plástica, em curso de Educação Artística da Universidade de Caixas do Sul, Estado do Rio  Grande do Sul.

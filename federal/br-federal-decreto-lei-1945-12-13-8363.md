@@ -1,5 +1,3 @@
-###DEL-008363-0-000-13-12-1945@@@
-
 DECRETO-LEI N. 8.363 – DE 13 DE DEZEMBRO DE 1945
 
 Revoga o titulo – “Dos contratos de trabalho na indústria Têxtil”, constante do Decreto-lei nº 6.688, de 13 de julho de 1944, e dá outras providências.

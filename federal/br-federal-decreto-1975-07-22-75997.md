@@ -1,5 +1,3 @@
-###DEC-075997-0-000-22-07-1975@@@
-
 DECRETO Nº 75.997 - DE 22 DE JULHO DE 1975.
 
 Concede reconhecimento ao curso de Odontologia da Faculdade de Odontologia "João Prudente", mantida pela Associação Educativa Evangélica, com sede na cidade de Anápolis, Estado de Goiás.

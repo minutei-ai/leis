@@ -1,6 +1,10 @@
 > **LEI Nº 3.968, DE 20 DE JULHO DE 2022**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o ingresso e permanência de cães de terapia e de assistência, utilizados em Intervenções Assistidas com Animais - IAA, em locais públicos e privados.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o ingresso e permanência de cães de terapia e de assistência, utilizados em Intervenções Assistidas com Animais - IAA, em locais públicos e privados.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

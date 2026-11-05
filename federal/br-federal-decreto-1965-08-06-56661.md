@@ -1,5 +1,3 @@
-###DEC-056661-0-000-06-08-1965@@@
-
 DECRETO Nº 56.661, DE 6 DE AGÔSTO DE 1965.
 
 Autoriza o cidadão brasileiro Brasil Melchior a pesquisar calcário no município de Eldorado Paulista, Estado de São Paulo.

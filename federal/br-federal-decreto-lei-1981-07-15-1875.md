@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/d6bb2824-b013-4208-8d11-17a7ce90f843/texto#nowhere)
 
-###DEL-001875-0-000-15-07-1981@@@
-
 # DECRETO-LEI nº 1.875, de 15 de julho de 1981.
 
 Dispõe sobre a simplificação de normas gerais de direito financeiro aplicáveis a Municípios com população inferior a 50.000 (cinqüenta mil) habitantes.

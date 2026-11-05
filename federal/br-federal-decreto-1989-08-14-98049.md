@@ -1,7 +1,3 @@
-1
-
-###DEC-098049-0-000-14-08-1989@@@
-
 DECRETO Nº 98.049, DE 14 DE AGOSTO DE 1989
 
 Autoriza o funcionamento do curso de Ciências da Faculdade de Ciências de Dourados.

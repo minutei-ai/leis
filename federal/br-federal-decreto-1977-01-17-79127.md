@@ -1,5 +1,3 @@
-###DEC-079127-0-000-17-01-1977@@@
-
 DECRETO Nº 79.127, DE 17 de JANEIRO DE 1977.
 
 Autoriza o funcionamento do curso de Tecnólogo em Fonoaudiologia, do Centro de Educação e Pesquisa da Terapia da Palavra, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

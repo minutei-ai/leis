@@ -1,5 +1,3 @@
-###DEC-058308-0-000-02-05-1966@@@
-
 DECRETO Nº 58.308, DE 2 DE MAIO DE 1966.
 
 Autoriza o cidadão brasileiro Ramiro Rivéria Miranda a pesquisar minério de manganês no Município de Apiaí, Estado de São Paulo.

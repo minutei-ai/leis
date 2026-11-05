@@ -1,5 +1,3 @@
-###DEL-003970-0-000-24-12-1941@@@
-
 DECRETO-LEI N. 3.970 – DE 24 DE DEZEMBRO DE 1941
 
 Torna extensiva ao exercício de 1942 a aplicação do crédito a que se refere o artigo 3º do decreto-lei n° 1.353, de 16 de junho de 1939.

@@ -1,5 +1,3 @@
-###DEC-003170-0-000-15-09-1999@@@
-
 DECRETO Nº 3.170, DE 15 DE SETEMBRO DE 1999.
 
 Altera o Programa de Dispêndios Globais – PDG para 1999, aprovado pelo Decreto nº 2.912, de 29 de dezembro de 1998, da Empresa Brasileira de Infra-Estrutura Aeroportuária – INFRAERO.

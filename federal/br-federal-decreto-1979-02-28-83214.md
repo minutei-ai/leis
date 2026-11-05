@@ -1,5 +1,3 @@
-###DEC-083214-0-000-28-02-1979@@@
-
 DECRETO Nº 83.214, DE 28 DE FEVEREIRO DE 1979
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração da Guanabara, com sede na cidade do Rio de Janeiro, Estado do Rio de Janeiro.

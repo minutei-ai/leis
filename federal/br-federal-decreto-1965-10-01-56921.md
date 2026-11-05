@@ -1,5 +1,3 @@
-###DEC-056921-0-000-01-10-1965@@@
-
 DECRETO Nº 56.921, DE 1º DE OUTUBRO DE 1965.
 
 Autoriza o cidadão brasileiro Humberto da Veiga Sampaio a pesquisar calcário no município de Ilhéus, Estado da Bahia.

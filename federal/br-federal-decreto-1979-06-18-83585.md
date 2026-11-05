@@ -1,5 +1,3 @@
-###DEC-083585-0-000-18-06-1979@@@
-
 Decreto nº 83.585, de 18 de junho de 1979
 
 Concede à Mineração Oriente Novo S.A. o direito de lavrar cassiterita no Município de Porto Velho, Território Federal de Rondônia.

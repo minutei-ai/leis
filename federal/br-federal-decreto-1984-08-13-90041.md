@@ -1,5 +1,3 @@
-###DEC-090041-0-000-13-08-1984@@@
-
 Decreto nº 90.041, de 13 de agosto de 1984
 
 Dispõe sobre a fixação de área prioritária, para fins de reforma agrária, no Município de Guarapuava, no Estado do Paraná.

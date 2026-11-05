@@ -1,5 +1,3 @@
-###DEC-007385-0-000-08-12-2010-PUB-01@@@
-
 DECRETO Nº 7.385, DE 8 DE DEZEMBRO DE 2010. <http://legislacao.planalto.gov.br/legisla/legislacao.nsf/Viw\_Identificacao/DEC%207.385-2010?OpenDocument>
 
 Institui o Sistema Universidade Aberta do Sistema Único de Saúde - UNA-SUS, e dá outras providências.

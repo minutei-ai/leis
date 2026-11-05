@@ -1,5 +1,3 @@
-###DEC-061051-0-000-24-07-1967@@@
-
 DECRETO Nº 61.051, DE 24 DE JULHO DE 1967.
 
 Declara de utilidade pública o “Centro Social Leão XIII”, com sede em São Paulo, Estado de São Paulo.

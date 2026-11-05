@@ -1,6 +1,10 @@
 > **LEI Nº 3.725, DE 13 DE ABRIL DE 2021**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Dispõe sobre o processamento de produtos de origem vegetal.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Dispõe sobre o processamento de produtos de origem vegetal.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 
@@ -124,8 +128,6 @@
 
 **§ 1º** As multas previstas nos incisos I a III, serão aplicadas em dobro, sucessivamente, em caso de reincidência na mesma infração.
 
-<br>
-
 **§ 2º** Na hipótese de não pagamento de multa, na forma prevista nesta lei, pessoa física e jurídica autuada, terá seu nome inscrito na dívida ativa do Estado, que será protestada em cartório pelo IDAF/AC.
 
 **§ 3º** Os valores de multas serão reajustados anualmente, com base no Índice de Preços ao Consumidor Amplo – IPCA, do ano anterior.
@@ -171,8 +173,6 @@
 **Art. 22.** Fica revogada a Lei nº 1.308 de 24 de dezembro de 1999.
 
 Rio Branco-Acre, 13 de abril de 2021, 133º da República, 119º do Tratado de Petrópolis e 60º do Estado do Acre. 
-
-<br>
 
 **Gladson de Lima Cameli**
 

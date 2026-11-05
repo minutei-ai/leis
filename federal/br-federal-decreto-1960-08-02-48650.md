@@ -1,5 +1,3 @@
-###DEC-048650-0-000-02-08-1960@@@
-
 DECRETO Nº 48.650, de 2 de agôsto de 1960.
 
 Autoriza estrangeiro a adquirir em transferência de aforamonto, a fração ideal do domínio útil do terreno de marinha, que menciona, no Estado da Gunanabara.

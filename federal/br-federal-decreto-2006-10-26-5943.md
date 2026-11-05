@@ -1,5 +1,3 @@
-###DEC-005943-0-000-26-10-2006@@@
-
 DECRETO Nº 5.943, DE 26 DE OUTUBRO DE 2006.
 
 Dispõe sobre a execução do Terceiro Protocolo Adicional ao Acordo de Complementação Econômica no 59, entre os Governos da República Federativa do Brasil, da República Argentina, da República do Paraguai e da República Oriental do Uruguai, Estados Partes do Mercosul, e os Governos da República Bolivariana da Venezuela, da República da Colômbia e da República do Equador, de 30 de junho de 2006.
@@ -22,11 +20,7 @@ Brasília, 26 de outubro de 2006; 185o da Independência e 118o da República.
 
 LUIZ INÁCIO LULA DA SILVA
 
-      Celso Luiz Nunes Amorim
-
-Este texto não substitui o publicado no DOU de 27.10.2006
-
-ACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 59 ASSINADO ENTRE OS GOVERNOS DA REPÚBLICA ARGENTINA, DA REPÚBLICA FEDERATIVA DO BRASIL, DA REPÚBLICA DO PARAGUAI E DA REPÚBLICA ORIENTAL DO URUGUAI, ESTADOS PARTES DO MERCOSUL E OS GOVERNOS DA REPÚBLICA DA COLÔMBIA, DA REPÚBLICA DO EQUADOR E DA REPÚBLICA BOLIVARIANA DA VENEZUELA, PAÍSES-MEMBROS DA COMUNIDADE ANDINA
+      Celso Luiz Nunes AmorimACORDO DE COMPLEMENTAÇÃO ECONÔMICA No 59 ASSINADO ENTRE OS GOVERNOS DA REPÚBLICA ARGENTINA, DA REPÚBLICA FEDERATIVA DO BRASIL, DA REPÚBLICA DO PARAGUAI E DA REPÚBLICA ORIENTAL DO URUGUAI, ESTADOS PARTES DO MERCOSUL E OS GOVERNOS DA REPÚBLICA DA COLÔMBIA, DA REPÚBLICA DO EQUADOR E DA REPÚBLICA BOLIVARIANA DA VENEZUELA, PAÍSES-MEMBROS DA COMUNIDADE ANDINA
 
  Terceiro Protocolo Adicional
 

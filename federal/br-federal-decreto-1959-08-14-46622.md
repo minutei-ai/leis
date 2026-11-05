@@ -1,5 +1,3 @@
-###DEC-046622-0-000-14-08-1959@@@
-
 Decreto nº 46.622, de 14 de agôsto de 1959.
 
 Autoriza a Companhia de Eletricidade do Alto Rio Doce a constituir hipóteca sôbre os seus bens e instalações em favor do Banco Nacional do Desenvolvimento Econômico.

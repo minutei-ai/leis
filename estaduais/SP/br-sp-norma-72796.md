@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=72796)
-
 # LEI Nº 12.639, DE 06 DE JULHO DE 2007
 
 ## (Projeto de lei nº 575, de 2005, do Deputado Antonio Mentor - PT)

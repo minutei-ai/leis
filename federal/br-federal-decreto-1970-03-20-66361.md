@@ -1,5 +1,3 @@
-###DEC-066361-0-000-20-03-1970@@@
-
 DECRETO Nº 66.361 - DE 20 DE MARÇO DE 1970
 
 Autoriza o Serviço de Patrimônio da União a aceitar a doação do terreno que menciona, situado no Município de Passa - Quatro, no Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-059389-0-000-13-10-1966@@@
-
 DECRETO Nº 59.389, DE 13 DE OUTUBRO DE 1966.
 
 Aprova o Regimento do Instituto de Matemática Pura e Aplicada.

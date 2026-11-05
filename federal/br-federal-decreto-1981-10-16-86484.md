@@ -1,5 +1,3 @@
-###DEC-086484-0-000-16-10-1981@@@
-
 Decreto nº 86.484, de 16 de outubro de 1981
 
 Autoriza estrangeiros a adquirirem direitos sobre terrenos que menciona, situados nos Municípios do Rio de Janeiro, Niterói e Angra dos Reis, Estado do Rio de Janeiro.

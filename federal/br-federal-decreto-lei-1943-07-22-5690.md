@@ -1,5 +1,3 @@
-###DEL-005690-0-000-22-07-1943@@@
-
 DECRETO‑LEI N. 5.690 – DE  22 DE JULHO DE 1943
 
 Abre ao Ministério das Relações Exteriores um crédito especial de Cr$ 100.000,00 para o fim que especifica

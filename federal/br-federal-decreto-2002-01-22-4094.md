@@ -1,5 +1,3 @@
-###DEC-004094-0-000-22-01-2002@@@
-
 DECRETO Nº 4.094, DE 22 DE JANEIRO DE 2002.
 
 Altera o Decreto no 4.080, de 10 de janeiro de 2002, que dispõe sobre a execução orçamentária e financeira dos órgãos, dos fundos e das entidades do Poder Executivo até a publicação do cronograma anual de desembolso de que trata o art. 72 da Lei no 10.266, de 24 de julho de 2001.

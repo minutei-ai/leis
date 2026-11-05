@@ -1,5 +1,3 @@
-###DEC-004332-0-000-12-08-2002@@@
-
 DECRETO Nº 4.332, DE 12 DE AGOSTO DE 2002
 
 Estabelece normas para o planejamento, a coordenação e a execução das medidas de segurança a serem implementadas durante as viagens presidenciais em território nacional, e dá outras providências.

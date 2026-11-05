@@ -1,5 +1,3 @@
-###DEC-059668-0-000-05-12-1966@@@
-
 DECRETO Nº 59.668, DE 5 DE DEZEMBRO DE 1966
 
 Abre ao Ministério das Relações Exteriores o crédito especial de Cr$120.000.000 para atender ao pagamento das despesas decorrentes da visita ao Brasil do Presidente da Itália.

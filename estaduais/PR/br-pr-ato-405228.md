@@ -20,8 +20,10 @@ A Assembleia Legislativa do Estado do Paraná aprovou e eu promulgo, nos termos 
 
 Curitiba, 9 de setembro de 2026.
 
-_Deputado ALEXANDRE CURI<br>
+_Deputado ALEXANDRE CURI
+
 Presidente_
 
-_Deputado ALEXANDRE AMARO<br>
+_Deputado ALEXANDRE AMARO
+
 Autor_

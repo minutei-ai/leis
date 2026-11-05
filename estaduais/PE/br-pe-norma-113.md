@@ -106,171 +106,21 @@ FREDERICO DA COSTA AMÂNCIO
 
 THIAGO ARRAES DE ALENCAR NORÕES
 
-**<br>
+**
+
 **
 
 **ANEXO - I**
 
 **TABELAS DE VENCIMENTO BASE DO CARGO PÚBLICO DE JORNALISTA, INTEGRANTE DO GRUPO OCUPACIONAL COMUNICAÇÃO - “GC”**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2012</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-1</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.045,67</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-2</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.332,07</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-3</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.658,56</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-4</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.030,75</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2012 </td></tr><tr><td valign="top"> Símbolo de Nível </td><td valign="top"> Vencimento Base (R$) </td></tr><tr><td valign="top"> GC-1 </td><td valign="top"> 2.045,67 </td></tr><tr><td valign="top"> GC-2 </td><td valign="top"> 2.332,07 </td></tr><tr><td valign="top"> GC-3 </td><td valign="top"> 2.658,56 </td></tr><tr><td valign="top"> GC-4 </td><td valign="top"> 3.030,75 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALORES VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2013</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-1</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.168,41</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-2</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.515,36</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-3</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.917,82</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-4</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.384,67</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> VALORES VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2013 </td></tr><tr><td valign="top"> Símbolo de Nível </td><td valign="top"> Vencimento Base (R$) </td></tr><tr><td valign="top"> GC-1 </td><td valign="top"> 2.168,41 </td></tr><tr><td valign="top"> GC-2 </td><td valign="top"> 2.515,36 </td></tr><tr><td valign="top"> GC-3 </td><td valign="top"> 2.917,82 </td></tr><tr><td valign="top"> GC-4 </td><td valign="top"> 3.384,67 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALORES VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2014</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-1</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.298,52</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-2</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.758,22</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-3</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.309,87</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC-4</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.971,84</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> VALORES VÁLIDOS A PARTIR DE 1º DE JUNHO DE 2014 </td></tr><tr><td valign="top"> Símbolo de Nível </td><td valign="top"> Vencimento Base (R$) </td></tr><tr><td valign="top"> GC-1 </td><td valign="top"> 2.298,52 </td></tr><tr><td valign="top"> GC-2 </td><td valign="top"> 2.758,22 </td></tr><tr><td valign="top"> GC-3 </td><td valign="top"> 3.309,87 </td></tr><tr><td valign="top"> GC-4 </td><td valign="top"> 3.971,84 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="0" cellspacing="0" cellpadding="0" width="613" style="width:459.6pt;margin-left:-71.8pt;border-collapse:collapse"><tbody><tr style="height:10.5pt"><td width="613" colspan="2" style="width:459.6pt;border:solid black 1.0pt;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VÁLIDA A PARTIR DE 1º DE JUNHO DE 2016</span></p></td></tr><tr style="height:10.0pt"><td width="352" style="width:263.65pt;border:solid black 1.0pt;border-top:none;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="261" style="width:195.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:10.0pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr style="height:10.5pt"><td width="352" style="width:263.65pt;border:solid black 1.0pt;border-top:none;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC – 1</span></p></td><td width="261" style="width:195.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.298,52</span></p></td></tr><tr style="height:10.5pt"><td width="352" style="width:263.65pt;border:solid black 1.0pt;border-top:none;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC – 2</span></p></td><td width="261" style="width:195.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.758,22</span></p></td></tr><tr style="height:10.5pt"><td width="352" style="width:263.65pt;border:solid black 1.0pt;border-top:none;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC – 3</span></p></td><td width="261" style="width:195.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.309,87</span></p></td></tr><tr style="height:10.5pt"><td width="352" style="width:263.65pt;border:solid black 1.0pt;border-top:none;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC – 4</span></p></td><td width="261" style="width:195.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.971,84</span></p></td></tr><tr style="height:10.5pt"><td width="352" style="width:263.65pt;border:solid black 1.0pt;border-top:none;
-  padding:1.5pt 1.5pt 1.5pt 1.5pt;height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">GC – 5</span></p></td><td width="261" style="width:195.95pt;border-top:none;border-left:none;
-  border-bottom:solid black 1.0pt;border-right:solid black 1.0pt;padding:1.5pt 1.5pt 1.5pt 1.5pt;
-  height:10.5pt"><p class="MsoNormal" align="center" style="margin-top:0cm;margin-right:-.05pt;
-  margin-bottom:0cm;margin-left:0cm;margin-bottom:.0001pt;text-align:center;
-  line-height:normal"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.766,21</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2"> VÁLIDA A PARTIR DE 1º DE JUNHO DE 2016 </td></tr><tr><td> Símbolo de Nível </td><td> Vencimento Base (R$) </td></tr><tr><td> GC – 1 </td><td> 2.298,52 </td></tr><tr><td> GC – 2 </td><td> 2.758,22 </td></tr><tr><td> GC – 3 </td><td> 3.309,87 </td></tr><tr><td> GC – 4 </td><td> 3.971,84 </td></tr><tr><td> GC – 5 </td><td> 4.766,21 </td></tr></tbody></table>
 
 (Acrescida pelo art. 1° e Anexo Único da [Lei Complementar n° 327, de 9 de junho de 2016](https://legis.alepe.pe.gov.br/?lc3272016).)
 
@@ -278,113 +128,8 @@ THIAGO ARRAES DE ALENCAR NORÕES
 
 **TABELAS DE VENCIMENTO BASE DO CARGO PÚBLICO DE ASSESSOR JURÍDICO DO ESTADO, DE SIMBOLOGIA - “AJE”**
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2012</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - I</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.572,01</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - II</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.932,09</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - III</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.342,58</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - IV</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.810,54</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2012 </td></tr><tr><td valign="top"> Símbolo de Nível </td><td valign="top"> Vencimento Base (R$) </td></tr><tr><td valign="top"> AJE - I </td><td valign="top"> 2.572,01 </td></tr><tr><td valign="top"> AJE - II </td><td valign="top"> 2.932,09 </td></tr><tr><td valign="top"> AJE - III </td><td valign="top"> 3.342,58 </td></tr><tr><td valign="top"> AJE - IV </td><td valign="top"> 3.810,54 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2013</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - I</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.726,33</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - II</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.162,54</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - III</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.668,54</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - IV</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.255,51</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2013 </td></tr><tr><td valign="top"> Símbolo de Nível </td><td valign="top"> Vencimento Base (R$) </td></tr><tr><td valign="top"> AJE - I </td><td valign="top"> 2.726,33 </td></tr><tr><td valign="top"> AJE - II </td><td valign="top"> 3.162,54 </td></tr><tr><td valign="top"> AJE - III </td><td valign="top"> 3.668,54 </td></tr><tr><td valign="top"> AJE - IV </td><td valign="top"> 4.255,51 </td></tr></tbody></table>
 
-<table class="MsoNormalTable" border="1" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:none"><tbody><tr><td width="614" colspan="2" valign="top" style="width:460.55pt;border:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2014</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Símbolo de Nível</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" align="center" style="margin-bottom:0cm;margin-bottom:.0001pt;
-  text-align:center;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">Vencimento Base (R$)</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - I</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">2.889,91</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - II</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">3.467,89</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - III</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.161,46</span></p></td></tr><tr><td width="307" valign="top" style="width:230.25pt;border:solid windowtext 1.0pt;
-  border-top:none;padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">AJE - IV</span></p></td><td width="307" valign="top" style="width:230.3pt;border-top:none;border-left:
-  none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt;
-  padding:0cm 5.4pt 0cm 5.4pt"><p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;text-align:
-  justify;line-height:normal;text-autospace:none"><span style="font-size:12.0pt;
-  font-family:&quot;Times New Roman&quot;,&quot;serif&quot;">4.993,76</span></p></td></tr></tbody></table>
+<table cellspacing="0" cellpadding="0"><tbody><tr><td colspan="2" valign="top"> VALORES VÁLIDOS A PARTIR DE 1º DE SETEMBRO DE 2014 </td></tr><tr><td valign="top"> Símbolo de Nível </td><td valign="top"> Vencimento Base (R$) </td></tr><tr><td valign="top"> AJE - I </td><td valign="top"> 2.889,91 </td></tr><tr><td valign="top"> AJE - II </td><td valign="top"> 3.467,89 </td></tr><tr><td valign="top"> AJE - III </td><td valign="top"> 4.161,46 </td></tr><tr><td valign="top"> AJE - IV </td><td valign="top"> 4.993,76 </td></tr></tbody></table>

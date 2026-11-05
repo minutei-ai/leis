@@ -1,5 +1,3 @@
-###DEC-079755-0-000-31-05-1977@@@
-
 DECRETO Nº 79.755, DE 31 DE MAIO DE 1977.
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada á passagem de linha de transmissão da Centrais Elétricas de São Paulo S.A. - CESP, no Estado de São Paulo.

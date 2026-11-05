@@ -1,5 +1,3 @@
-###DEC-083221-0-000-01-03-1979@@@
-
 Decreto nº 83.221, de 1º de março de 1979
 
 Concede reconhecimento aos cursos de Turismo e de Comunicação Social da Faculdade de Relações Públicas e Turismo do Brooklin, com sede em São Paulo, Estado de São Paulo.

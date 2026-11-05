@@ -1,5 +1,3 @@
-###DEC-092911-0-000-09-07-1986@@@
-
 DECRETO Nº 92.911, DE 9 DE JULHO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra, e benfeitorias, necessária à implantação da estação transformadora de transmissão e distribuição Glicério, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

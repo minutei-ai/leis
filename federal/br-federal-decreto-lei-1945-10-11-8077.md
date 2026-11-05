@@ -1,5 +1,3 @@
-###DEL-008077-0-000-11-10-1945@@@
-
 DECRETO-LEI N. 8.077 – DE 11 DE OUTUBRO DE 1945
 
 Dispõe sôbre a aplicação de créditos orçamentários e adicionais destinados a despesas de material da Justiça dos Territórios Federais.

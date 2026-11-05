@@ -1,5 +1,3 @@
-###DEC-078374-0-000-03-09-1976@@@
-
 DECRETO Nº 78.374, DE 3 DE SETEMBRO DE 1976.
 
 Concede reconhecimento ao curso de Administração, da Faculdade de Administração de Empresas de Catanduva com sede na Cidade de Catanduva, Estado de São Paulo.

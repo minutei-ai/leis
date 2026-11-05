@@ -1,5 +1,3 @@
-###DEC-086174-0-000-02-07-1981@@@
-
 DECRETO Nº 86.174, DE 02 DE JULHO DE 1981.
 
 Declara de utilidade pública as instituições que menciona.

@@ -1,5 +1,3 @@
-###DEC-062281-0-000-20-02-1968@@@
-
 DECRETO Nº 62.281, DE 20 DE FEVEREIRO DE 1968.
 
 Altera o Decreto nº 61.514, de 12 de outubro de 1967.

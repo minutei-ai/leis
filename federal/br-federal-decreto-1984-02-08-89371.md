@@ -1,5 +1,3 @@
-###DEC-089371-0-000-08-02-1984@@@
-
 DECRETO Nº 89.371, DE 08 DE FEVEREIRO DE 1984
 
 Renova por 10 (dez) anos a concessão outorgada à FUNDAÇÃO SÃO VICENTE DE PAULO, para explorar serviço de radiodifusão sonora em onda média, na cidade de Araucária, Estado do Paraná.

@@ -1,5 +1,3 @@
-###DEC-092575-0-000-18-04-1986@@@
-
 DECRETO Nº 92.575, DE 18 DE ABRIL DE 1986
 
 Autoriza a Fantex S.A. - Indústria e Comércio Têxtil com sede no Município de Jundiaí, Estado de São Paulo, a utilizar o trabalho noturno de mulher maior de dezoito anos, e dá outras providências.

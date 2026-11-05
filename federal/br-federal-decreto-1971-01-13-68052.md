@@ -1,5 +1,3 @@
-###DEC-068052-0-000-13-01-1971@@@
-
 DECRETO Nº 68.052, de 13 de JANEIRO DE 1971.
 
 Aprova alteração introduzida nos Estatutos da Centrais Elétricas Brasileiras S.A. - ELETROBRÁS.

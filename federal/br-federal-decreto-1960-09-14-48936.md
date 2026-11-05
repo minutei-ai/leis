@@ -1,5 +1,3 @@
-###DEC-048936-0-000-14-09-1960@@@
-
 DECRETO Nº 48.936, DE 14 DE SETEMBRO DE 1960.
 
 Cria um Grupo de Trabalho com a finalidade de estudar os problemas de arquivo no Brasil e sua transferência para Brasília.

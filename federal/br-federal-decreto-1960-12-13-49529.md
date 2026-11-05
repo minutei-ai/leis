@@ -1,5 +1,3 @@
-###DEC-049529-0-000-13-12-1960@@@
-
 DECRETO Nº 49.529, DE 13 DE DEZEMBRO DE 1960.
 
 Cria Universidade Rural do Sul (U.R.S.) e dá outras providências.

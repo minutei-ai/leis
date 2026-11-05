@@ -1,5 +1,3 @@
-###DEC-047532-0-000-28-12-1959@@@
-
 Decreto nº 47.532, de 28 de dezembro de 1959.
 
 Autoriza o funcionamento de Curso.

@@ -1,5 +1,3 @@
-###DEL-003367-0-000-25-06-1941@@@
-
 DECRETO-LEI N. 3.367 – DE 25 DE JUNHO DE 1941
 
 Eleva à categoria de Embaixada a representação diplomática do Brasil na Bolivia

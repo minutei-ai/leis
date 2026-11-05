@@ -1,5 +1,3 @@
-###DEC-085867-0-000-01-04-1981@@@
-
 Decreto nº 85.867, DE 01 DE ABRIL DE 1981.
 
 Autoriza o funcionamento dos cursos de Estudos Sociais e de Letras da Faculdade de Ciências e Letras de Osório, com sede na cidade de Osório, Estado do Rio Grande do Sul.

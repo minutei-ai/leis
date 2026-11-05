@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/4c7aab04-075e-4ecc-98b9-91da7432e251/texto#nowhere)
 
-###DEL-000919-0-000-08-10-1969@@@
-
 DECRETO-LEI Nº 919, de 8 de OUTUBRO DE 1969
 
 Transfere cargos para o Quadro de Pessoal do Ministério da Fazenda

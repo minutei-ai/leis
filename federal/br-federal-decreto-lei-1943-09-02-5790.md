@@ -1,5 +1,3 @@
-###DEL-005790-0-000-02-09-1943@@@
-
 DECRETO‑LEI N. 5.790 – DE 2 DE SETEMBRO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 40.040,50 para pagamento de, indenizações decorrentes, de requisições

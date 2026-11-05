@@ -1,5 +1,3 @@
-###DEC-065309-0-000-08-10-1969@@@
-
 DECRETO Nº 65.309 - DE 8 DE OUTUBRO de 1969.
 
 Altera dispositivos do Decreto 64.193, de 12 de março de 1969

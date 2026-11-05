@@ -1,5 +1,3 @@
-###DEC-074143-0-000-04-06-1974@@@
-
 DECRETO Nº 74.143, de 4 de junho de 1974.
 
 Dispõe sobre viagens ao exterior, a serviço ou com o fim de aperfeiçoamento, sem nomeação ou designação, e dá outras providências.

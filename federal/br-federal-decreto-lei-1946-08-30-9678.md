@@ -1,5 +1,3 @@
-###DEL-009678-0-000-30-08-1946@@@
-
 DECRETO-LEI N. 9.678 – DE 30 DE AGÔSTO DE 1946
 
 Autoriza o Prefeito do Distrito Federal a baixar requlamento para as instalações de esgôto dos prédios do Distrito Federal e dá outras providências.

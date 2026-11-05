@@ -1,7 +1,3 @@
-1
-
-###DEL-001003-0-000-21-10-1969@@@
-
 dECRETO-LEI Nº 1.003, DE 21 DE OuTuBRO DE 1969
 
 Lei da Organização Judiciária Militar

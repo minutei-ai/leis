@@ -1,5 +1,3 @@
-###DEC-079575-0-000-26-04-1977@@@
-
 DECRETO N.º 79.575, DE 26 DE ABRIL DE 1977
 
 Suprime a alínea c e altera a redação da alínea b do artigo 2º do Regulamento do Sistema Previdenciário e Assistencial dos empregadores Rurais e seus Dependentes, aprovado pelo Decreto nº 77.514, de 29 de abril de 1976.

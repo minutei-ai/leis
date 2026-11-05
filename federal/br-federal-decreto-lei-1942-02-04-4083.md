@@ -1,5 +1,3 @@
-###DEL-004083-0-000-04-02-1942@@@
-
 DECRETO-LEI N. 4.083 – DE 4 DE FEVEREIRO DE 1942
 
 Dá nova organização aos Cursos de Aperfeiçoamento e Especialização criados pelo decreto-lei n. 1.514, de 16 de agosto de 1939

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210405)<br>
-
 # DECRETO N° 69.178, DE 18 DE DEZEMBRO DE 2024
 
 ### _Altera o Decreto n° 59.824, de 26 de novembro de 2013, que "Altera o Regulamento do Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo", para dar nova redação ao Título XI, seus Capítulos, Seções e Artigos, no que se refere à nomenclatura da Escola de Educação Permanente._
@@ -10,20 +8,24 @@ Decreta:
 
 **Artigo 1° -** O Título XI, seus capítulos, seções e artigos do [Decreto n° 59.824, de 26 de novembro de 2013](https://www.al.sp.gov.br/norma/171831), passam a vigorar com a seguinte redação: 
 
-#### "TÍTULO XI<br>
+#### "TÍTULO XI
+
 Do HCX FMUSP
 
-#### Capítulo I<br>
+#### Capítulo I
+
 Dos órgãos de Direção Superior
 
 Artigo 234 - O Conselho Diretivo é órgão colegiado, de direção superior do HCX FMUSP.
 
 Artigo 235 - A Diretoria Executiva é órgão individual, de direção superior do HCX FMUSP.
 
-#### Capítulo II<br>
+#### Capítulo II
+
 Do Conselho Diretivo
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Composição e Funcionamento
 
 Artigo 236 - O Conselho Diretivo do HCX FMUSP será composto por:
@@ -56,7 +58,8 @@ Artigo 237 - O Conselho Diretivo reunir-se-á, ordinariamente, na forma a ser es
 
 Parágrafo único - O Conselho Diretivo deliberará por votação majoritária, presente a maioria de seus membros.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Atribuições
 
 Artigo 238 - O Conselho Diretivo do HCX FMUSP tem as seguintes atribuições:
@@ -101,7 +104,8 @@ XIX - cumprir e fazer cumprir o Regulamento, Regimentos Internos e demais normas
 
 XX - resolver os casos omissos.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Competências
 
 Artigo 239 - O Presidente do Conselho Diretivo tem as seguintes competências:
@@ -126,10 +130,12 @@ IX - informar, regularmente, desempenhos e resultados do HCX FMUSP ao Conselho D
 
 Parágrafo único - Nas ausências e impedimentos legais, o Vice-Presidente exercerá as competências do Presidente.
 
-#### Capítulo III<br>
+#### Capítulo III
+
 Da Diretoria Executiva
 
-#### SEÇÃO I<br>
+#### SEÇÃO I
+
 Da Estrutura
 
 Artigo 240 - Subordinam-se à Diretoria Executiva:
@@ -144,10 +150,12 @@ IV - Gerência de Programas de Educação - Nível Superior - Área Multiprofiss
 
 V - Gerência de Operações.
 
-#### SEÇÃO II<br>
+#### SEÇÃO II
+
 Das Atribuições
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Da Diretoria Executiva
 
 Artigo 241 - À Diretoria Executiva do HCX FMUSP incumbe:
@@ -184,7 +192,8 @@ X - prospectar oportunidades de ensino junto aos Institutos e Hospitais Auxiliar
 
 XI - controlar a presença e a pontualidade dos servidores a ela subordinados.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Da Assessoria Técnica
 
 Artigo 243 - A Assessoria Técnica tem as seguintes atribuições:
@@ -207,7 +216,8 @@ VIII - estabelecer os padrões técnicos e acadêmicos dos cursos e eventos de g
 
 IX - promover a interface do HCX FMUSP com órgãos regulamentadores da educação e saúde.
 
-#### SUBSEÇÃO III<br>
+#### SUBSEÇÃO III
+
 Da Gerência de Programas de Ensino - Nível Técnico e Básico
 
 Artigo 244 - A Gerência de Programas de Nível Técnico e Básico tem as seguintes atribuições:
@@ -224,7 +234,8 @@ V - responder pela qualidade técnica dos instrutores ou entidades de ensino con
 
 VI - controlar a presença e a pontualidade dos servidores a ela subordinados.
 
-#### SUBSEÇÃO IV<br>
+#### SUBSEÇÃO IV
+
 Da Gerência de Programas de Nível Superior - Área Médica
 
 Artigo 245 - A Gerência de Programas de Nível Superior - Área Médica tem as seguintes atribuições:
@@ -241,7 +252,8 @@ V - responder pela qualidade técnica dos instrutores ou entidades de ensino con
 
 VI - controlar a presença e a pontualidade dos servidores a ela subordinados.
 
-#### SUBSEÇÃO V<br>
+#### SUBSEÇÃO V
+
 Da Gerência de Programas de Nível Superior - Área Multiprofissional
 
 Artigo 246 - A Gerência de Programas de Nível Superior - Área Multiprofissional tem as seguintes atribuições:
@@ -258,7 +270,8 @@ V - responder pela qualidade técnica dos instrutores ou entidades de ensino con
 
 VI - controlar a presença e a pontualidade dos servidores a ela subordinados.
 
-#### SUBSEÇÃO VI<br>
+#### SUBSEÇÃO VI
+
 Da Gerência de Operações
 
 Artigo 247 - A Gerência de Operações tem as seguintes atribuições:
@@ -279,10 +292,12 @@ VII - coordenar, com a orientação das Diretorias Corporativas do HCFMUSP, a ex
 
 VIII - controlar a presença e a pontualidade dos servidores a ela subordinados.
 
-#### SEÇÃO III<br>
+#### SEÇÃO III
+
 Das Competências
 
-#### SUBSEÇÃO I<br>
+#### SUBSEÇÃO I
+
 Das Competências Específicas do Diretor Executivo
 
 Artigo 248 - É competência do Diretor Executivo do HCX FMUSP:
@@ -297,7 +312,8 @@ IV - seguir as diretrizes emanadas do Conselho Diretivo do HCX FMUSP;
 
 V - cumprir e fazer cumprir as determinações do Gabinete da Superintendência.
 
-#### SUBSEÇÃO II<br>
+#### SUBSEÇÃO II
+
 Das Competências Específicas dos Gerentes
 
 Artigo 249 - Aos Gerentes compete:

@@ -1,5 +1,3 @@
-###DEC-052694-0-000-15-10-1963@@@
-
 DECRETO Nº 52.694, DE 15 DE OUTUBRO DE 1963.
 
 Dispõe sôbre o retôrno ao Serviço da União do Pessoal transferido para o Estado da Guanabara.

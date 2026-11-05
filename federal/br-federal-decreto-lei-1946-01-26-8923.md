@@ -1,5 +1,3 @@
-###DEL-008923-0-000-26-01-1946@@@
-
 DECRETO-LEI N. 8.923 – DE 26 DE JANEIRO DE 1946
 
 Altera a carreira de operário de antes gráficas do Quadro suplementar do Ministério da Guerra, dá-lhe nova, denominação, suprime função gratificada, cria cargo isolado e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-093123-0-000-18-08-1986@@@
-
 DECRETO Nº 93.123, DE 18 DE AGOSTO DE 1986
 
 Declara de utilidade pública, para fins de desapropriação, área de terra complementar necessária à implantação da ETD Cláudia, da ELETROPAULO - Eletricidade de São Paulo S.A., no Estado de São Paulo.

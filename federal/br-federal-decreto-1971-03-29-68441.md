@@ -1,5 +1,3 @@
-###DEC-068441-0-000-29-03-1971@@@
-
 decreto nº 68.441, de 29 de março de 1971.
 
 Altera a Composição da Comissão de Coordenação das Inspetorias Gerais de Finanças (INGECOR).

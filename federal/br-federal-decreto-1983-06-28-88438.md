@@ -1,5 +1,3 @@
-###DEC-088438-0-000-28-06-1983@@@
-
 Decreto nº 88.438, de 28 de junho de 1983
 
 Dispõe sobre a regulamentação do exercício da profissão de Biólogo, de acordo com a Lei nº 6.684, de 3 de setembro de 1979 e de conformidade com a alteração estabelecida pela Lei nº 7.017 de 30 de agosto de 1982.

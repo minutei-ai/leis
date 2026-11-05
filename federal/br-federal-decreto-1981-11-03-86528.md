@@ -1,5 +1,3 @@
-###DEC-086528-0-000-03-11-1981@@@
-
 Decreto nº 86.528, de 03 de novembro de 1981.
 
 Declara de utilidade pública, para fins de desapropriação total ou parcial ou instituição de servidão administrativa e/ou de passagem, em favor da Petróleo Brasileiro S.A. - PETROBRÁS, imóveis constituídos de terras e benfeitorias que menciona.

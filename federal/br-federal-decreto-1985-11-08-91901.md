@@ -1,5 +1,3 @@
-###DEC-091901-0-000-08-11-1985@@@
-
 Decreto nº 91.901, de 08 de novembro de 1985
 
 Autoriza o funcionamento de habilitação do curso de Ciências da Faculdade de Filosofia, Ciências e Letras do Distrito Federal.

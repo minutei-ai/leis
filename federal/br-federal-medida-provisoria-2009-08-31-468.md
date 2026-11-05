@@ -1,5 +1,3 @@
-###MPV-000468-0-000-31-08-2009@@@
-
 MEDIDA PROVISÓRIA Nº 468, DE 31 DE AGOSTO DE 2009.
 
 Dispõe sobre a transferência de depósitos judiciais e extrajudiciais de tributos e contribuições federais para a Caixa Econômica Federal.

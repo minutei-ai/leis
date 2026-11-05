@@ -1,5 +1,3 @@
-###DEL-002665-0-000-03-10-1940@@@
-
 DECRETO-LEI N. 2.665 – DE 3 DE OUTUBRO DE 1940
 
 Abre, pelo Ministério da Fazenda, o crédito suplementar de 450 :000$0 à verba que especifica

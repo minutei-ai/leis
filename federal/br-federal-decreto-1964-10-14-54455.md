@@ -1,5 +1,3 @@
-###DEC-054455-0-000-14-10-1964@@@
-
 decreto nº 54.455, de 14 de outubro de 1964.
 
 Renova o Decreto nº 49.895, de 12 de janeiro de 1961.

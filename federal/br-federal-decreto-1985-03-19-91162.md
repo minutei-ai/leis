@@ -1,5 +1,3 @@
-###DEC-091162-0-000-19-03-1985@@@
-
 DECRETO Nº 91.162, de 19 de março de 1985.
 
 Altera os efetivos de Oficiais-Generais Combatentes.

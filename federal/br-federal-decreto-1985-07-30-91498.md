@@ -1,5 +1,3 @@
-###DEC-091498-0-000-30-07-1985@@@
-
 Decreto nº 91.498, de 3O de julho de 1985
 
 Renova a concessão outorgada à RÁDIO CLUBE DE ITAPEVA LTDA., para explorar serviço de radiodifusão sonora em onda média, na cidade de Itapeva, Estado de São Paulo.

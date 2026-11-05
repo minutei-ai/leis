@@ -1,5 +1,3 @@
-###LEI-000000-0-000-25-09-1829@@@
-
 LEI - DE 25 DE SETEMBRO DE 1829
 
 Marca o subsidio e ajuda de custo dos deputados da segunda legislatura.

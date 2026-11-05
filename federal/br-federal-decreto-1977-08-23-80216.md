@@ -1,5 +1,3 @@
-###DEC-080216-0-000-23-08-1977@@@
-
 DECRETO Nº 80.216, DE 23 DE AGOSTO DE 1977.
 
 Autoriza o Banco Financeiro Sudamericano Y Banco de Paysandu (BAFISUD) a funcionar no País.
@@ -17,8 +15,6 @@ Brasília, 23 de agosto de 1977; 156º da Independência e 89º da República.
 ERNESTO GEISEL
 
 Mário Henrique Simonsen.
-
-###DEC-080216-0-000-23-08-1977@@@RET+++
 
 DECRETO Nº 80.216, DE 23 DE AGOSTO DE 1977.
 

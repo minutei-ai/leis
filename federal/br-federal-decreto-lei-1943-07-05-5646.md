@@ -1,5 +1,3 @@
-###DEL-005646-0-000-05-07-1943@@@
-
 DECRETO‑LEI N. 5.646 – DE 5 DE JULHO DE 1943
 
 Dá nova redação do  art. 2º do decreto‑lei n. 3.672, de 1 de outubro de 1941

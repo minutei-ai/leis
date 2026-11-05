@@ -1,5 +1,3 @@
-###DEC-073436-0-000-11-01-1974@@@
-
 DECRETO Nº 73.436, DE 11 DE JANEIRO 1974.
 
 Autorizo a cessão, sob a forma de utilização gratuita, do terreno que menciona, situado na cidade de Foz do Iguaçu, Estado do Paraná.

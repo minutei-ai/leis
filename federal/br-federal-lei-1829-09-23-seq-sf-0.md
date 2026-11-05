@@ -1,5 +1,3 @@
-###LEI-000000-0-000-23-09-1829@@@
-
 LEI - DE 23 DE SETEMBRO DE 1829
 
 Sobre a extincção do Banco do Brazil e mais disposições a elle tendentes.

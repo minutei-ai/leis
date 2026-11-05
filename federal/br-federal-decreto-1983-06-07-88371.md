@@ -1,5 +1,3 @@
-###DEC-088371-0-000-07-06-1983@@@
-
 # Decreto nº 88.371, de 07 de junho de 1983
 
 Dispõe sobre o reajustamento das prestações dos mutuários do Sistema Financeiro da Habitação e dá outras providências.

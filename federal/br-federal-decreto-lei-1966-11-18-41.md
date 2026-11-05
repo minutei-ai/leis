@@ -1,5 +1,3 @@
-###DEL-000041-0-000-18-11-1966@@@
-
 DECRETO-LEI Nº 41, DE 18 DE NOVEMBRO DE 1966
 
 Dispõe sôbre a dissolução de sociedades civis de fins assistenciais.

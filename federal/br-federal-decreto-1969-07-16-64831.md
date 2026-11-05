@@ -1,5 +1,3 @@
-###DEC-064831-0-000-16-07-1969@@@
-
 decreto nº 64.831 - de 16 de julho de 1969.
 
 Declara de utilidade pública a Irmandade da Santa Casa de Misericórdia e Maternidade "Dona Zilda Salvagni" de Taquaritinga, Estado de São Paulo.

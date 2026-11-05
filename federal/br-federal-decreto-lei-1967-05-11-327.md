@@ -1,5 +1,3 @@
-###DEL-000327-0-000-11-05-1967@@@
-
 DECRETO-LEI Nº 327, DE 11 DE MAIO DE 1967
 
 Abre ao Ministério da Fazenda o crédito especial de NCr$600.000,00 (seiscentos mil cruzeiros novos) destinado a atender no corrente ano as despesas de gratificação especial do Serviço Nacional de Informações.

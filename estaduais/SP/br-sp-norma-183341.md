@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](http://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/?id=183341)
-
 # DECRETO Nº 62.836, DE 25 DE SETEMBRO DE 2017
 
 ### _Dispõe sobre o prazo do cumprimento do encargo previsto na Lei Estadual 14.168, de 29 de junho de 2010_
@@ -16,8 +14,12 @@ Palácio dos Bandeirantes, 25 de setembro de 2017
 
 GERALDO ALCKMIN
 
-Samuel Moreira da Silva Junior<br>
-Secretário-Chefe da Casa Civil<br>
-Saulo de Castro Abreu Filho<br>
-Secretário de Governo<br>
+Samuel Moreira da Silva Junior
+
+Secretário-Chefe da Casa Civil
+
+Saulo de Castro Abreu Filho
+
+Secretário de Governo
+
 Publicado na Secretaria de Governo, aos 25 de setembro de 2017.

@@ -1,5 +1,3 @@
-###DEC-087909-0-000-07-12-1982@@@
-
 Decreto nº 87.909, de 07 de dezembro de 1982.
 
 Extingue Organização Militar no Ministério do Exército e dá outras providências

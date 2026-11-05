@@ -1,5 +1,3 @@
-###DEC-088484-0-000-05-07-1983@@@
-
 Decreto nº 88.484, de 05 de julho de 1983
 
 Cria funções de confiança na Tabela Permanente dos Gabinetes da Presidência da República sem aumento de despesa.

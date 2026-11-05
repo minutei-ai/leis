@@ -1,5 +1,3 @@
-###MPV-000352-0-000-22-01-2007@@@
-
 MEDIDA PROVISÓRIA Nº 352, DE 22 DE JANEIRO DE 2007.
 
 Dispõe sobre os incentivos às indústrias de equipamentos para TV Digital e de componentes eletrônicos semicondutores e sobre a proteção à propriedade intelectual das topografias de circuitos integrados.
@@ -635,5 +633,3 @@ Guido Mantega
 Luiz Fernando Furlan
 
 Sergio Machado Rezende
-
-Este texto não substitui o publicado no DOU de 22.1.2007 - Edição extra e retificado no DOU de 23.1.2007.

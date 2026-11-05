@@ -1,5 +1,3 @@
-###DEC-071981-0-000-22-03-1973@@@
-
 DECRETO Nº 71.981, DE 22 DE MARÇO DE 1973.
 
 Promulga a convenção sobre Responsabilidade Internacional por Danos Causados por Objetos Espaciais.

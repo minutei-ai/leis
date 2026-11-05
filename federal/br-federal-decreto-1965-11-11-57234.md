@@ -1,5 +1,3 @@
-###DEC-057234-0-000-11-11-1965@@@
-
 DECRETO Nº 57.234, DE 11 DE NOVEMBRO DE 1965.
 
 Outorga à Companhia de Eletrificação Rural do Nordeste (CERNE) concessão para distribuir energia elétrica.

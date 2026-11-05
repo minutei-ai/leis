@@ -1,5 +1,3 @@
-###DEC-077183-0-000-19-02-1976@@@
-
 DECRETO Nº 77.183, DE 19 DE FEVEREIRO DE 1976
 
 Autoriza a contratação dos empréstimos em moeda estrangeira, para os fins que menciona, e dá outras providências.

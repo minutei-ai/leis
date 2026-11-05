@@ -1,5 +1,3 @@
-###DEC-096110-0-000-01-06-1988@@@
-
 DECRETO N° 96.110, DE 1° DE JUNHO DE 1988
 
 Declara de interesse social. para fins de desapropriação, o imóvel rural denominado “COLÔNIA PIQUIRI, GLEBA 12, LOTES 09. 12 E 13” também conhecido por “FAZENDA SÃO JOÃO”, classificado como “latifúndio por exploração”, situado no Município de Palmital, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto n° 92.622, de 02 de maio de 1986, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEC-068070-0-000-15-01-1971@@@
-
 DECRETO Nº 68.070, DE 15 DE JANEIRO DE 1971.
 
 Acrescenta o parágrafo único ao artigo 83 do Regulamento aprovado pelo Decreto nº 41.475, de 8 de maio de 1957.

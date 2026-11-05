@@ -1,5 +1,3 @@
-###DEC-055444-0-000-05-01-1965@@@
-
 DECRETO Nº 55.444, DE 05 DE JANEIRO DE 1965.
 
 Considera de alto interêsse nacional as inversões de capital fixo no aproveitamento industrial de rochas fosfatadas para fins agrícolas.

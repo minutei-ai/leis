@@ -1,5 +1,3 @@
-###DEC-053114-0-000-10-12-1963@@@
-
 DECRETO Nº 53.114, DE 10 DE DEZEMBRO DE 1963.
 
 Renova Decreto nº 48.303, de 17 de junho de 1960.

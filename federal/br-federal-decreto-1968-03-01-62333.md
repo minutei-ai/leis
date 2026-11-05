@@ -1,5 +1,3 @@
-###DEC-062333-0-000-01-03-1968@@@
-
 DECRETO Nº 62.333, DE 1º DE MARÇO DE 1968.
 
 Outorga à Companhia Paulista de Fôrça e Luz, concessão para distribuir energia elétrica no município de Claraval, Estado de São Paulo e dá outras providências.

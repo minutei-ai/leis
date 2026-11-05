@@ -1,5 +1,3 @@
-###DEC-060606-0-000-20-04-1967@@@
-
 DECRETO Nº 60.606, DE 20 DE ABRIL DE 1967.
 
 Cria a Colônia Militar de Tabatinga.

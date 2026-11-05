@@ -1,5 +1,3 @@
-###DEC-064566-0-000-22-05-1969@@@
-
 DECRETO Nº 64.566, DE 22 DE MAIO DE 1969.
 
 Transforma a 2ª Companhia de Policia do Exército em 2º Batalhão de Policia do Exército.

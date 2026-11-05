@@ -1,5 +1,3 @@
-###DEL-004339-0-000-26-05-1942@@@
-
 DECRETO-LEI N. 4.339 – DE 26 DE MAIO DE 1942
 
 Cria o 5º Grupo de Artilharia de Dorso na 6º Região Militar

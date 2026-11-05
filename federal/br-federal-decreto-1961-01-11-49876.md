@@ -1,5 +1,3 @@
-###DEC-049876-0-000-11-01-1961@@@
-
 Decreto nº 49.876, de 11 de janeiro de 1961.
 
 Vincula recursos do Fundo Federal de Eletrificação e autoriza a aquisição de ações da Hidroelétrica do Rio Doce, S.A.

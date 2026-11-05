@@ -1,7 +1,3 @@
-1
-
-###MPV-001545-0-000-18-12-1996@@@
-
 # MEDIDA PROVISÓRIA Nº 1.545, DE 18 DE DEZEMBRO DE 1996.
 
 Dispõe sobre os fundos que especifica e dá outras providências.

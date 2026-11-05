@@ -1,5 +1,3 @@
-###DEC-076374-0-000-02-10-1975@@@
-
 DECRETO Nº 76.374, DE 2 DE OUTUBRO DE 1975
 
 Dispõe sobre a jurisdição territorial dos 1º e 6º Distritos Navais e transfere a sede dos 3º e 6º Distritos Navais.

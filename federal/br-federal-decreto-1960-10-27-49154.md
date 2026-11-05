@@ -1,5 +1,3 @@
-###DEC-049154-0-000-27-10-1960@@@
-
 DECRETO Nº 49.154, DE 27 DE OUTUBRO DE 1960.
 
 Renova a declaração de utilidade pública a que se refere o Decreto nº 35.737, de 28-6-1954, para fins de desapropriação, pelo Departamento Nacional, de Obras Contra as Sêcas, da área de terreno necessária à construção do açude público Cacimbas, no Município do Piauí.

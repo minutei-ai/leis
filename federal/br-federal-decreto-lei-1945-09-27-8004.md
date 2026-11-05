@@ -1,5 +1,3 @@
-###DEL-008004-0-000-27-09-1945@@@
-
 DECRETO-LEI N. 8.004 – DE 27 DE SETEMBRO DE 1945
 
 Restabelece, em todo o território nacional, a matrícula de condutores de veículos.

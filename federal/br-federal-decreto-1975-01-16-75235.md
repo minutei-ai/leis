@@ -1,5 +1,3 @@
-###DEC-075235-0-000-16-01-1975@@@
-
 Decreto nº 75.235, de 16 de janeiro de 1975.
 
 Concede reconhecimento ao curso de Agronomia da Escola Superior de Agronomia do Espírito Santo, com sede na cidade de Vitória, Estado do Espírito Santo.

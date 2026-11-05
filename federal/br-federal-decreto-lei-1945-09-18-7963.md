@@ -1,5 +1,3 @@
-###DEL-007963-0-000-18-09-1945@@@
-
 DECRETO-LEI N. 7.963 – DE 18 DE SETEMBRO DE 1945 
 
 Altera, sem aumento de despesa, o atual Orçamento do Ministério da Guerra             

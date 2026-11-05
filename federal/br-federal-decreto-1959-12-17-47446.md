@@ -1,5 +1,3 @@
-###DEC-047446-0-000-17-12-1959@@@
-
 DECRETO Nº 47.446, DE 17 DE DEZEMBRO DE 1959.
 
 Cria o Parque Nacional de Aparados da Serra, no município de São Francisco de Paula, no Estado do Rio Grande do Sul.

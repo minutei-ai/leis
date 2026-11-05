@@ -1,5 +1,3 @@
-###DEL-007462-0-000-12-04-1945@@@
-
 DECRETO-LEI N. 7.462 – DE 12 DE ABRIL DE 1945
 
 Abre ao Ministério da Justiça e Negócios Interiores o crédito suplementar de Cr$ 1 .387. 800,00, à verba que especifica

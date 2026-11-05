@@ -1,5 +1,3 @@
-###DEC-049651-0-000-31-12-1960@@@
-
 DECRETO Nº 49.651, DE 31 DE DEZEMBRO DE 1960.
 
 Abre ao Ministério da Educação e Cultura o crédito especial de Cr$3.000.000,00, para auxiliar o Teatro Brasileiro de Comédia.

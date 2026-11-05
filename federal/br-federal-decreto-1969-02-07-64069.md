@@ -1,5 +1,3 @@
-###DEC-064069-0-000-07-02-1969@@@
-
 DECRETO Nº 64.069, DE 7 DE FEVEREIRO DE 1969.
 
 Ratifica disposições legais sôbre o Serviço de Loteria do Estado de Mato Grosso.

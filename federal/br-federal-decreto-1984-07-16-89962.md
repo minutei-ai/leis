@@ -1,5 +1,3 @@
-###DEC-089962-0-000-16-07-1984@@@
-
 Decreto nº 89.962, de 16 de julho de 1984
 
 Declara de utilidade pública, para fins de constituição de servidão administrativa, faixa de terra destinada à passagem de ramal de linha de transmissão da Companhia Paulista de Força e Luz-CPFL, no Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEL-009422-0-000-03-07-1946@@@
-
 DECRETO-LEI N. 9.422 – DE 3 DE JULHO DE 1946
 
 Dispõe sôbre o registro de partidos políticos.

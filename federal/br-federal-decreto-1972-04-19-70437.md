@@ -1,5 +1,3 @@
-###DEC-070437-0-000-19-04-1972@@@
-
 DECRETO Nº 70.437, DE 19 DE ABRIL DE 1972.
 
 Declara de utilidade pública a Associação de Proteção à Saúde, à Maternidade e à Infância - PACOTI, com sede em Pacoti, Estado do Ceará.

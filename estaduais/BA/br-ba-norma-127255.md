@@ -4,10 +4,12 @@ Institui a Política Estadual de Resíduos Sólidos, e dá outras providências.
 
 O GOVERNADOR DO ESTADO DA BAHIA, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-TÍTULO I<br>
+TÍTULO I
+
 DA POLÍTICA ESTADUAL DE RESÍDUOS SÓLIDOS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES GERAIS
 
 Art. 1º - Esta Lei institui a Política Estadual de Resíduos Sólidos - PERS, dispondo sobre seus princípios, objetivos, diretrizes e instrumentos, e estabelece normas relativas à gestão e ao gerenciamento integrados de resíduos sólidos, em regime de cooperação com o setor público, o setor empresarial e os demais segmentos da sociedade civil.
@@ -16,7 +18,8 @@ Art. 2º - A Política Estadual de Resíduos Sólidos - PERS integra a Política
 
 Parágrafo único - A PERS articula-se com as políticas estaduais de educação ambiental, recursos hídricos, saúde pública, mudanças climáticas, desenvolvimento econômico, desenvolvimento urbano e promoção da inclusão social.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DO OBJETO E DO CAMPO DE APLICAÇÃO
 
 Art. 3º - O âmbito de incidência da PERS é definido pelo art. 12 desta Lei que classifica os resíduos sólidos, respeitadas as demais disposições regulamentares a eles aplicáveis.
@@ -27,7 +30,8 @@ Art. 4º - Estão sujeitas à observância da PERS as pessoas físicas ou juríd
 
 Art. 5º - Aplicam-se aos resíduos sólidos, além do disposto nesta Lei, as normas estabelecidas pelos órgãos do Sistema Nacional do Meio Ambiente - SISNAMA, do Sistema Nacional de Vigilância Sanitária - SNVS, do Sistema Unificado de Atenção à Sanidade Agropecuária - SUASA, do Sistema Nacional de Metrologia, Normalização e Qualidade Industrial - SINMETRO, pelos órgãos que integram os Sistemas estaduais correlatos, e pelo disposto na Lei nº 6.455, de 25 de janeiro de 1993, no que se refere ao descarte de embalagens e resíduos de agrotóxicos, seus componentes e afins.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS PRINCÍPIOS, OBJETIVOS E DIRETRIZES
 
 Art. 6º - Os princípios, os objetivos e as diretrizes da Política Estadual de Resíduos Sólidos - PERS deverão orientar as metas, os programas, os instrumentos e as ações relacionadas com a gestão estadual de resíduos sólidos e rejeitos.
@@ -112,7 +116,8 @@ III - implementar programas setoriais e projetos de educação ambiental e de mo
 
 Parágrafo único - O Estado priorizará o apoio às iniciativas de soluções consorciadas ou compartilhadas entre 02 (dois) ou mais Municípios.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DEFINIÇÕES E DA CLASSIFICAÇÃO DOS RESÍDUOS SÓLIDOS
 
 Art. 11 - Para efeito desta Lei, considera-se:
@@ -235,10 +240,12 @@ b)resíduos não perigosos: aqueles não enquadrados na alínea "a" deste inciso
 
 Parágrafo único - Respeitado o disposto no art. 25 desta Lei, os resíduos referidos na alínea "d" do inciso I deste artigo, se caracterizados como não perigosos, podem, em razão de sua natureza, composição ou volume, ser equiparados aos resíduos domiciliares pelo Poder Público Municipal.
 
-TÍTULO II<br>
+TÍTULO II
+
 DA GESTÃO DOS RESÍDUOS SÓLIDOS
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DOS INSTRUMENTOS
 
 Art. 13 - São instrumentos da Política Estadual de Resíduos Sólidos - PERS:
@@ -265,12 +272,14 @@ X - os instrumentos previstos na legislação ambiental, de recursos hídricos, 
 
 XI - os acordos setoriais e os termos de compromisso.
 
-SEÇÃO I<br>
+SEÇÃO I
+
 EDUCAÇÃO AMBIENTAL
 
 Art. 14 - A educação ambiental na gestão dos resíduos sólidos é parte integrante da Política Estadual de Resíduos Sólidos e tem como objetivo planejar, coordenar, orientar e integrar as ações de educação ambiental, com vistas à adoção de padrões sustentáveis de produção e consumo de bens e serviços, bem como à gestão e ao gerenciamento integrado e ambientalmente adequado dos resíduos sólidos.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 COLETA SELETIVA E LOGÍSTICA REVERSA
 
 Art. 15 - A coleta seletiva e a logística reversa têm por objetivos:
@@ -285,17 +294,20 @@ IV - propiciar condições para que as atividades produtivas alcancem níveis el
 
 V - compatibilizar os interesses entre os agentes econômicos, ambientais, sociais, culturais e políticos.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 ACORDOS SETORIAIS E TERMOS DE COMPROMISSO
 
 Art. 16 - Os acordos setoriais e os termos de compromisso firmados entre o Poder Público e o setor empresarial, com o objetivo de implantar a responsabilidade compartilhada pelo ciclo de vida do produto, podem ter abrangência estadual ou municipal.
 
 Parágrafo único - Os acordos firmados no âmbito municipal podem ampliar, mas não abrandar, as medidas de proteção ambiental constantes nos acordos setoriais e termos de compromisso firmados com o Estado.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PLANOS DE RESÍDUOS SÓLIDOS
 
-SEÇÃO I<br>
+SEÇÃO I
+
 DAS DISPOSIÇÕES GERAIS
 
 Art. 17 - Os Planos de Resíduos Sólidos disciplinarão os diferentes fluxos de resíduos, os agentes envolvidos na segregação na origem, no acondicionamento, no armazenamento temporário, na coleta, no transporte, no transbordo, no tratamento dos resíduos sólidos e na destinação final adequada dos resíduos, assim como a regulação, o monitoramento, a avaliação, a fiscalização, o aperfeiçoamento, a prestação dos serviços e o controle social das ações de intervenção neles propostas.
@@ -320,7 +332,8 @@ VI - os Planos de Gerenciamento de Resíduos Sólidos.
 
 § 3º - Quando de sua elaboração e revisão, os planos a que se referem os incisos II e III deste artigo serão enviados ao Conselho Estadual das Cidades da Bahia - ConCidades/BA, a fim de obter manifestação deste colegiado, em caráter consultivo.
 
-SEÇÃO II<br>
+SEÇÃO II
+
 DO PLANO ESTADUAL DE RESÍDUOS SÓLIDOS
 
 Art. 19 - O Plano Estadual de Resíduos Sólidos é o conjunto de diretrizes, estratégias e metas que deve orientar a implementação da Política Estadual de Resíduos Sólidos - PERS, estabelecendo as bases para a aplicação dos investimentos, a captação de recursos financeiros e outras propostas para sua implementação.
@@ -361,7 +374,8 @@ b)áreas degradadas em razão de disposição inadequada de resíduos sólidos o
 
 XIII - meios a serem utilizados para o controle e a fiscalização, no âmbito estadual, de sua implementação e operacionalização, assegurado o controle social.
 
-SEÇÃO III<br>
+SEÇÃO III
+
 DOS PLANOS REGIONAIS, MICRORREGIONAIS, DE REGIÕES METROPOLITANAS OU AGLOMERAÇÕES URBANAS
 
 Art. 21 - Além do Plano Estadual de Resíduos Sólidos, o Estado da Bahia poderá elaborar Planos de Resíduos Sólidos direcionados às regiões, microrregiões, regiões metropolitanas ou aglomerações urbanas, conforme dispuser o regulamento.
@@ -378,14 +392,16 @@ Art. 22 - Os Planos regionais, microrregionais, de regiões metropolitanas ou de
 
 Art. 23 - Os planos regionais de resíduos sólidos observarão a abrangência territorial dos planos regionais de saneamento básico, mencionados no art. 12 da Lei nº 11.172, de 01 de dezembro de 2008, que instituiu a Política Estadual de Saneamento Básico.
 
-SEÇÃO IV<br>
+SEÇÃO IV
+
 DOS PLANOS INTERMUNICIPAIS E MUNICIPAIS DE GESTÃO INTEGRADA DE RESÍDUOS SÓLIDOS
 
 Art. 24 - Os Planos intermunicipais e municipais de gestão integrada de resíduos sólidos devem apresentar o conteúdo mínimo previsto nos parágrafos e incisos do art. 19 da Lei Federal nº 12.305, de 02 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos.
 
 Parágrafo único - Os Planos intermunicipais de que trata o caput deste artigo devem ser previamente apreciados pelo conselho municipal de todos os Municípios envolvidos com competência para dispor sobre a matéria relacionada aos resíduos sólidos.
 
-SEÇÃO V<br>
+SEÇÃO V
+
 DOS PLANOS DE GERENCIAMENTO DE RESÍDUOS SÓLIDOS
 
 Art. 25 - Estão sujeitos à elaboração do Plano de Gerenciamento de Resíduos Sólidos:
@@ -420,7 +436,8 @@ Art. 28 - Os responsáveis pelos Planos de Gerenciamento de Resíduos Sólidos m
 
 Art. 29 - O Plano de Gerenciamento de Resíduos Sólidos, quando couber, é parte integrante do processo de licenciamento ambiental de empreendimento ou atividade, na forma do Regulamento.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DO SISTEMA ESTADUAL DE INFORMAÇÕES DE RESÍDUOS SÓLIDOS
 
 Art. 30 - O Estado da Bahia organizará e manterá o Sistema Estadual de Informações sobre a Gestão dos Resíduos Sólidos, articulado com o Sistema Estadual de Informações de Saneamento Básico, instituído pela Lei nº 11.172, de 01 de dezembro de 2008, e com o Sistema Estadual de Informações Ambientais e de Recursos Hídricos - SEIA, instituído pela Lei nº 10.431, de 20 de dezembro de 2006, e com demais sistemas de informação estaduais aderentes, nos termos do regulamento, com os objetivos de:
@@ -441,7 +458,8 @@ Art. 32 - Os responsáveis pelos Planos de Gerenciamento de Resíduos Sólidos m
 
 Parágrafo único - Para a consecução do disposto no caput deste artigo, sem prejuízo de outras exigências cabíveis, será implementado sistema declaratório com periodicidade anual, na forma do regulamento.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DOS INSTRUMENTOS ECONÔMICOS
 
 Art. 33 - O Estado poderá conceder benefícios ou incentivos fiscais, financeiros ou creditícios, às seguintes iniciativas:
@@ -492,17 +510,20 @@ Art. 40 - Serão definidas em normas complementares as formas de acesso aos fund
 
 Art. 41 - O atendimento ao disposto neste Capítulo será efetivado em consonância com a Lei Complementar Federal nº 101, de 04 de maio de 2000, Lei de Responsabilidade Fiscal, bem como com as diretrizes e objetivos do respectivo plano plurianual, as metas e as prioridades fixadas pelas leis de diretrizes orçamentárias e nos limites das disponibilidades propiciadas pelas leis orçamentárias anuais.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DA REGULAÇÃO
 
 Art. 42 - A regulação pode ser exercida pelos titulares dos serviços públicos de limpeza urbana e manejo de resíduos sólidos ou por delegação destes a consórcio público ou a ente regulador estadual ou municipal.
 
 Art. 43 - Ao ente regulador cabe fixar normas e fiscalizar a prestação dos serviços públicos de limpeza urbana e manejo de resíduos sólidos nos aspectos físico-operacionais, comerciais e econômico-financeiros.
 
-TÍTULO III<br>
+TÍTULO III
+
 DAS RESPONSABILIDADES
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DAS RESPONSABILIDADES DOS GERADORES E DO PODER PÚBLICO
 
 Art. 44 - O Poder Público, o setor empresarial e a coletividade são responsáveis pela efetividade das ações voltadas para assegurar os objetivos, os princípios, as diretrizes e as demais determinações estabelecidas nesta Lei, em seu regulamento e demais normas pertinentes.
@@ -523,7 +544,8 @@ Parágrafo único - Os responsáveis pelo dano mencionado no caput deste artigo 
 
 Art. 49 - Aplicam-se a esta Lei as disposições da Lei nº 10.431, de 20 de dezembro de 2006, especialmente no que se refere às responsabilidades previstas nos seus arts. 32 a 35, bem como as demais disposições contidas na legislação estadual de vigilância sanitária e agropecuária.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DA RESPONSABILIDADE COMPARTILHADA
 
 Art. 50 - É instituída a responsabilidade compartilhada pelo ciclo de vida dos produtos, a ser implementada de forma individualizada e encadeada, abrangendo os fabricantes, importadores, distribuidores e comerciantes, os consumidores e os titulares dos serviços públicos de limpeza urbana e de manejo de resíduos sólidos, consoante as atribuições e procedimentos previstos neste Capítulo.
@@ -600,7 +622,8 @@ I - acondicionar adequadamente e de forma diferenciada os resíduos sólidos ger
 
 II - disponibilizar adequadamente os resíduos sólidos reutilizáveis e recicláveis para coleta ou devolução.
 
-TÍTULO IV<br>
+TÍTULO IV
+
 DAS PROIBIÇÕES
 
 Art. 62 - São proibidas no Estado da Bahia as seguintes formas de destinação ou disposição final de resíduos sólidos ou rejeitos:
@@ -629,7 +652,8 @@ IV - fixação de habitações temporárias ou permanentes;
 
 V - outras atividades vedadas pelo Poder Público.
 
-TÍTULO V<br>
+TÍTULO V
+
 DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS
 
 Art. 64 - Considera-se infração toda ação ou omissão que viole as regras jurídicas de uso, gozo, promoção, proteção e recuperação do meio ambiente, aplicando-se a esta Lei as disposições relativas às infrações contidas na Lei nº 10.431, de 20 de dezembro de 2006 e demais normas delas decorrentes, bem como aquelas previstas na legislação da vigilância sanitária e agropecuária nos aspectos pertinentes ao objeto desta Lei.

@@ -1,5 +1,3 @@
-###DEC-068635-0-000-20-05-1971@@@
-
 DECRETO Nº 68.635, de 20 de maio 1971.
 
 Altera a redação dos artigos 6º e 58 do Decreto n° 68.419, de 25 de março de 1971.

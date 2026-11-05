@@ -1,5 +1,3 @@
-###DEL-001621-0-000-13-04-1978@@@
-
 # Decreto-lei nº 1.621, de 13 de abril de 1978
 
 Concede incentivos à capitalização da empresa privada nacional e ao financiamento da pequena e média empresa de regiões menos desenvolvidas e dá outras providências.

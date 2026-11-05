@@ -1,5 +1,3 @@
-###DEL-003883-0-000-04-12-1941@@@
-
 DECRETO-LEI N. 3.883 – DE 4 DE DEZEMBRO DE 1941
 
 Autoriza o Prefeito do Distrito Federal a realizar a permuta dos terrenos que menciona

@@ -1,5 +1,3 @@
-###DEC-054116-0-000-12-08-1964@@@
-
 decreto nº 54.116, de 12 de agôsto de 1964.
 
 Declara de utilidade pública, para fins de desapropriação pelo Departamento Nacional de Estradas de Rodagem, área de terreno situada no município de Ibaiti, Estado de Paraná.

@@ -1,5 +1,3 @@
-###DEC-058777-0-000-28-06-1966@@@
-
 DECRETO Nº 58.777, DE 28 DE JUNHO DE 1966.
 
 Ministério da Fazenda. Abre o crédito especial de Cr$1.700.000.000, para atender ao disposto no art. 6º do Decreto nº 49.160, de 1º de novembro de 1960.

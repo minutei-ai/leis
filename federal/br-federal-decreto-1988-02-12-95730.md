@@ -1,7 +1,3 @@
-1
-
-###DEC-095730-0-000-12-02-1988@@@
-
 DECRETO N° 95.730, DE 12 DE FEVEREIRO DE 1988
 
 Altera o Decreto n° 94.338, de 18 de maio de 1987, que dispõe sobre a iniciação ao trabalho do menor assistido.

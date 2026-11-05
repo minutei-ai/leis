@@ -1,5 +1,3 @@
-###DEC-055504-0-000-11-01-1965@@@
-
 DECRETO Nº 55.504, DE 11 DE JANEIRO DE 1965.
 
 Autoriza o cidadão brasileiro Alair Gonçalves Couto a pesquisar minério de ferro no município de Nova Lima, Estado de Minas Gerais.

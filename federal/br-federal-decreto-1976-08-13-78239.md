@@ -1,5 +1,3 @@
-###DEC-078239-0-000-13-08-1976@@@
-
 Decreto nº 78.239, de 13 de agosto de 1976.
 
 Declara de utilidade pública, para fins de desapropriação, áreas de terra e benfeitorias necessárias à implantação da subestação de Santa Efigênia da Centrais Elétricas de Minas Gerais S.A. - CEMIG, no Estado de Minas Gerais.

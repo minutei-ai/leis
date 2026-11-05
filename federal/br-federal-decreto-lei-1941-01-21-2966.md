@@ -1,5 +1,3 @@
-###DEL-002966-0-000-21-01-1941@@@
-
 DECRETO-LEI N. 2.966 – DE 21 DE JANEIRO DE 1941
 
 Incorpora ao patrimônio da União a Compagnie du Port de Rio de Janeiro e dá outras providências

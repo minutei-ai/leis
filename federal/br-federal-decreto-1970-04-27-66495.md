@@ -1,5 +1,3 @@
-###DEC-066495-0-000-27-04-1970@@@
-
 DECRETO Nº 66.495, DE 27 DE ABRIL DE 1970.
 
 Redistribui, com o respectivo ocupante, para o Quadro e Pessoal - Parte Especial - do Departamento Administrativo do Pessoal Civil, cargo originário do Território Federal de Rondônia, e dá outras providências.

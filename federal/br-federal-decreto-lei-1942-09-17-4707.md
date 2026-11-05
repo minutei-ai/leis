@@ -1,5 +1,3 @@
-###DEL-004707-0-000-17-09-1942@@@
-
 decreto-lei n. 4.707 - de 17 de setembro de 1942
 
 Dispõe sobre a vigência da Lei de Introdução ao Código Civil

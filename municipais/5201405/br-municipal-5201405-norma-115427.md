@@ -4,7 +4,8 @@ Dispõe sobre as Diretrizes Orçamentárias para o exercício de 2022.
 
 FAÇO SABER QUE A CÂMARA MUNICIPAL DE APARECIDA DE GOIÂNIA MANTEVE E EU PROMULGO NOS TERMOS DO ARTIGO 54, PARÁGRAFO 1º E 9º DA LEI ORGÂNICA DO MUNICÍIO, A SEGUINTE LEI:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DISPOSIÇÕES PRELIMINARES
 
 Art. 1º Ficam estabelecidas, em conformidade ao disposto no art. 165, §2º, da Constituição Federal, art. 92, §2º, da Lei Orgânica do Município de Aparecida de Goiânia e das disposições contidas na Lei Complementar nº 101, de 04 de maio de 2000, as diretrizes gerais para elaboração dos orçamentos do Município para o exercício de 2022, compreendendo:
@@ -31,7 +32,8 @@ X.    as demais disposições gerais. 
 
 Art. 2º O projeto da Lei Orçamentária Anual para o exercício de 2022 será elaborado a partir da consolidação das propostas setoriais apresentadas pelos órgãos/entidades, bem como das propostas e sugestões formuladas pela população, por intermédio de audiência pública e dos meios disponibilizados via internet.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DAS PRIORIDADES E METAS DA ADMINISTRAÇÃO PÚBLICA MUNICIPAL
 
 Art. 3° As metas finalísticas e as prioridades para o exercício financeiro de 2022 serão estabelecidas na Lei Municipal que trata do Plano Plurianual (PPA) relativo ao período 2022-2025, sendo referendadas para o exercício de 2022 no que não contradizerem às necessárias atualizações constantes desta Lei e em face da revisão periódica do cenário econômico e fiscal.
@@ -50,7 +52,8 @@ c)    recursos decorrentes da alienação de imóveis e ativos;
 
 d)    exploração de atividades econômicas diretas;
 
-e)    geração de receita patrimonial.<br>
+e)    geração de receita patrimonial.
+
          
 
  II - no âmbito das despesas:
@@ -71,7 +74,8 @@ g)    priorização de despesas finalísticas, em especial as relacionadas a 
 
 Art. 5º O Plano Plurianual, desdobramento estratégico do Plano de Governo, bem como esta Lei de Diretrizes Orçamentárias serão norteadores do projeto da Lei Orçamentária Anual para 2022, estruturado por programas e ações regionalizadas (projeto/atividade).
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DA ORGANIZAÇÃO E ESTRUTURA DOS ORÇAMENTOS
 
 Art. 6º Para elaboração da Lei Orçamentária Anual deve-se adotar a classificação funcional-programática, definida na Portaria Conjunta STN/SOF nº 3/2008, no Manual de Contabilidade Aplicada ao Setor Público (MCASP) e no Manual de Demonstrativos Fiscais (MDF).
@@ -134,10 +138,12 @@ II.    consolidação dos quadros orçamentários, contendo inclusive o quadr
 
 III.    orçamento fiscal e da seguridade social dos Poderes Executivo, Legislativo e Administração Indireta.
 
-Parágrafo único. O PLOA conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 112, da Lei Orgânica Municipal.<br>
+Parágrafo único. O PLOA conterá ainda a programação referente à manutenção e desenvolvimento do ensino, nos termos do art. 112, da Lei Orgânica Municipal.
+
  
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DAS DIRETRIZES GERAIS PARA A ELABORAÇÃO E EXECUÇÃO DOS ORÇAMENTOS DO MUNICÍPIO E SUAS ALTERAÇÕES.
 
 Art. 11 A elaboração do projeto de lei, a aprovação e a execução da Lei Orçamentária para o exercício vindouro evidenciarão a transparência da gestão fiscal, observados os princípios da publicidade e a garantia do acesso popular através de audiências públicas (presenciais ou eletrônicas) previamente programadas.
@@ -266,7 +272,8 @@ Art. 33 Nenhuma despesa poderá ser fixada sem que esteja legalmente definida na
 
 Art. 34 Na programação dos investimentos, aqueles em fase de execução terão prioridade sobre novos projetos.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES RELATIVAS ÀS DESPESAS COM PESSOAL E ENCARGOS SOCIAL
 
 Art. 35 As despesas totais com pessoal serão limitadas em 60% (sessenta por cento) da Receita Corrente Líquida (RCL) do Município, sendo 6% (seis por cento) para o Legislativo e 54% (cinquenta e quatro por cento) para o Poder Executivo, nos termos do art. 20, inciso III, da Lei Complementar nº 101/2000, excetuando-se os casos de:
@@ -297,7 +304,8 @@ Art. 38 Nenhum benefício ou serviço relativo à seguridade social poderá ser 
 
 Art. 39 Desde que não ultrapasse o limite legal de gastos com pessoal conforme previsto na Lei de Responsabilidade Fiscal fica autorizado as nomeações e contratações dos aprovados em concursos públicos já autorizados em Lei de Diretriz Orçamentária de exercício anterior, para provimento de cargo efetivo, bem como a contratação por prazo determinado em substituição de servidores.
 
-CAPÍTULO VI<br>
+CAPÍTULO VI
+
 DAS DISPOSIÇÕES SOBRE ALTERAÇÕES NA LEGISLAÇÃO TRIBUTÁRIA DO MUNICÍPIO
 
 Art. 40 O Poder Executivo Municipal poderá enviar à Câmara Municipal projeto de lei dispondo sobre alterações na legislação tributária, cujos efeitos poderão ser considerados, especialmente sobre:
@@ -318,7 +326,8 @@ VII.    instituição de novas taxas pela prestação de serviços públicos 
 
 VIII.    revisão das isenções tributárias, para manter o interesse público e estimular o desenvolvimento econômico e a justiça social.
 
-CAPÍTULO VII<br>
+CAPÍTULO VII
+
 CRITÉRIOS E FORMAS DE LIMITAÇÃO DE EMPENHO
 
 Art. 41 Na hipótese de ocorrência das circunstancias estabelecidas no caput do art. 9º e no inciso II do § 1º do art. 31, da Lei Complementar nº 101/2000, o Poder Executivo e o Poder Legislativo procederão a respectiva limitação de empenho e de movimentação financeira, calculada de forma proporcional à participação dos Poderes no total das dotações iniciais constantes da Lei Orçamentária de 2021, utilizando para tal fim as cotas orçamentárias e financeiras.
@@ -351,7 +360,8 @@ IX.    investimentos novos.
 
 §5º. Se verificado, ao final de um bimestre, que a realização da receita não será suficiente para garantir o equilíbrio das contas públicas, adotar-se-ão as mesmas medidas previstas neste artigo.
 
-CAPÍTULO VIII<br>
+CAPÍTULO VIII
+
 DEFINIÇÃO DE CRITÉRIOS PARA INÍCIO DE NOVOS PROJETOS
 
 Art. 42 Além da observância das metas e prioridades definidas nos termos do art. 3º desta Lei, a Lei Orçamentária de 2022 e seus créditos adicionais, observado o disposto no art. 45 da Lei Complementar nº 101/2000 somente incluirão novos projetos se:
@@ -366,7 +376,8 @@ IV - os recursos alocados destinarem-se a contrapartidas de recursos federais, e
 
 Parágrafo único. Considera-se projeto em andamento, para os efeitos desta Lei, aquele cuja execução iniciar-se até a data de encaminhamento da proposta orçamentária para o exercício de 2022, cujo cronograma de execução ultrapasse o término do exercício de 2021.
 
-CAPÍTULO IX<br>
+CAPÍTULO IX
+
 INCENTIVO A PARTICIPAÇÃO POPULAR
 
 Art. 43 O PLOA do Município, relativo ao exercício financeiro de 2022, deverá assegurar a transparência na elaboração e execução do orçamento.
@@ -379,10 +390,12 @@ Art. 44 Será assegurada ao cidadão a participação nas audiências públicas,
 
 I.    elaboração da proposta orçamentária de 2022;
 
-II.    demonstração dos resultados obtidos pela Administração, na execução do planejamento.<br>
+II.    demonstração dos resultados obtidos pela Administração, na execução do planejamento.
+
  
 
-CAPÍTULO X<br>
+CAPÍTULO X
+
 DAS DISPOSIÇÕES FINAIS
 
 Art. 45 A programação de receitas e despesas a serem previstas no Orçamento para o exercício de 2022 deverá ser compatível com os objetivos e metas do Plano Plurianual (PPA) e da Lei de Diretrizes Orçamentárias (LDO).
@@ -399,7 +412,8 @@ Art. 50 - Esta Lei entrará em vigor em 01 de janeiro de 2022.
 
 Câmara Municipal de Aparecida de Goiânia, aos 03 dias do mês de março do ano de 2022.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal
 
 [ANEXO DE METAS FISCAIS](https://legisla.casacivil.go.gov.br/api/v1/arquivos/18889)

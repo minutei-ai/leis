@@ -1,5 +1,3 @@
-###DEC-081525-0-000-06-04-1978@@@
-
 Decreto nº 81.525, de 06 de abril de 1978.
 
 Retifica a concessão de lavra outorgada à S.A de Cimento, Mineração e Cabotagem - "CIMIMAR'' pelo Decreto nº 77 328, de 24 de março de 1976.

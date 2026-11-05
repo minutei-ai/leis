@@ -1,7 +1,3 @@
-1
-
-###DEC-098922-0-000-02-02-1990@@@
-
 DECRETO Nº 98.922, DE 2 DE FEVEREIRO DE 1990
 
 Outorga concessão ao SISTEMA NORTE DE RÁDIO E TELEVISÃO LTDA., radiodifusão de sons e imagens (televisão), na Cidade de Linhares, Estado do Espírito Santo.

@@ -1,5 +1,3 @@
-###DEC-097333-0-000-21-12-1988@@@
-
 DECRETO Nº 97.333, DE 21 DE DEZEMBRO DE 1988
 
 Autoriza o funcionamento do Curso Superior de Tecnologia em Hotelaria do Instituto Superior de Hotelaria e Turismo, em São Paulo, Estado de São Paulo.

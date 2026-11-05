@@ -1,5 +1,3 @@
-###DEC-053883-0-000-13-04-1964@@@
-
 DECRETO Nº 53.883, DE 13 DE ABRIL DE 1964.
 
 Revoga o Decreto nº 53.700, de 13 de março de 1964.

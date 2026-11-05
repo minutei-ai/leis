@@ -1,5 +1,3 @@
-###DEC-073631-0-000-13-02-1974@@@
-
 DECRETO Nº 73.631, DE 13 DE FEVEREIRO DE 1974.
 
 Autoriza o funcionamento da Faculdade de Ciências Administrativas, Econômicas e Contábeis "OSWALDO CRUZ", mantida pelo Instituto Educacional "OSWALDO QUIRINO, com sede na cidade de São Paulo, Estado de São Paulo.

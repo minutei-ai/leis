@@ -1,5 +1,3 @@
-###DEC-045185-0-000-31-12-1958@@@
-
 DECRETO Nº 45.185, DE 31 DE DEZEMBRO DE 1958.
 
 Autoriza o Departamento de Águas e Energia Elétrica do Estado de São Paulo a transferir da cidade de Franca para a de Andradina, três grupos diesel-elétricos.

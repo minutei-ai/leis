@@ -1,5 +1,3 @@
-###DEC-050963-0-000-17-07-1961@@@
-
 DECRETO Nº 50.963, DE 17 DE JULHO DE 1961.
 
 Transfere cargo que menciona do Quadro do Pessoal do Ministério da Marinha com o respectivo ocupante.

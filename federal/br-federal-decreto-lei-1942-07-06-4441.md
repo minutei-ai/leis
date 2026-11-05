@@ -1,5 +1,3 @@
-###DEL-004441-0-000-06-07-1942@@@
-
 DECRETO-LEI N. 4.441 – DE 6 DE JULHO DE  1942
 
 Abre ao Ministério das Relações Exteriores o crédito especial de 3.570:000$0, para despesas a cargo da Comissão Mista Brasileiro-Boliviana de Estudos de Petróleo

@@ -1,5 +1,3 @@
-###DEC-057268-0-000-16-11-1965@@@
-
 DECRETO Nº 57.268, DE 16 DE NOVEMBRO DE 1965.
 
 Outorga concessão à Centrais Elétricas do Rio das Contas S.A. para distribuir energia elétrica e dá outras providências.

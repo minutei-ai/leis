@@ -1,7 +1,5 @@
 [](https://normas.leg.br/api/public/binario/66850cc2-78af-4d9f-ad2a-80ed68067504/texto#nowhere)
 
-###DEL-000817-0-000-05-09-1969@@@
-
 DECRETO-LEI Nº 817, DE 5 DE SETEMbRo DE 1969
 
 Dispõe sôbre o enquadramento definitivo do pessoal ferroviário e dá outras providências.

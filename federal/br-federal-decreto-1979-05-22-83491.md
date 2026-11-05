@@ -1,5 +1,3 @@
-###DEC-083491-0-000-22-05-1979@@@
-
 Decreto nº 83.491, de 22 de maio de 1979.
 
 Dispõe sobre e Regulamento do Centro de Instrução e Adestramento "Almirante Áttila Monteiro Aché" (CIAMA).

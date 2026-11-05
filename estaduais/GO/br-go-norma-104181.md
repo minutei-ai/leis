@@ -8,7 +8,8 @@ O **GOVERNADOR DO ESTADO DE GOIÁS**, no uso de suas atribuições constituciona
 
 Art. 1º Fica delegada, nos termos dos §§ 1º e 2º do art. 35 da Lei nº [17.928](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/89895/lei-17928), de 27 de dezembro de 2012, aos secretários de Estado ou correspondente hierárquico a competência para autorizar a realização de concessão, cessão, permissão ou autorização de uso de bem imóvel estadual afetado legalmente ao respectivo órgão ou entidade, da seguinte forma:
 
-I - terminais rodoviários de passageiros, ao Secretário-Chefe da Secretaria-Geral da Governadoria;<br>
+I - terminais rodoviários de passageiros, ao Secretário-Chefe da Secretaria-Geral da Governadoria;
+
 \- [Redação dada pelo Decreto nº 10.102, de 20-06-2022](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105665/decreto-10102).
 
 ~~I – terminais rodoviários de passageiros, ao Secretário de Estado de Desenvolvimento e Inovação;~~
@@ -23,7 +24,8 @@ V – unidades de conservação estaduais, ao Secretário de Estado Meio Ambient
 
 VI – unidades de ensino, exclusivamente no escopo do processo de municipalização de ensino, ao Secretário de Estado da Educação.
 
-VII – o Centro Cultural Oscar Niemeyer e o Centro de Convenções de Anápolis, ao Secretário de Estado da Retomada.<br>
+VII – o Centro Cultural Oscar Niemeyer e o Centro de Convenções de Anápolis, ao Secretário de Estado da Retomada.
+
 \- [Acrescido pelo Decreto nº 10.521, de 2-8-2024](https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109256/decreto-10521).
 
 Parágrafo único. A autorização para a realização de concessão, cessão, permissão ou autorização de uso dos demais bens imóveis estaduais fica delegada ao Secretário de Estado da Administração.
@@ -43,8 +45,6 @@ Art. 4º O órgão que formalizou a concessão, a cessão, a permissão ou a aut
 Art. 5º Este Decreto entra em vigor na data de sua publicação.
 
 Goiânia, 7 de julho de 2021, 133º da República.
-
-<br>
 
 RONALDO CAIADO
 

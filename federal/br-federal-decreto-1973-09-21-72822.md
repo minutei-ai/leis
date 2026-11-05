@@ -1,5 +1,3 @@
-###DEC-072822-0-000-21-09-1973@@@
-
 DECRETO Nº 72.822, DE 21 DE SETEMBRO DE 1973.
 
 Autoriza estrangeiros a adquirirem direitos sobre os terrenos que menciona.

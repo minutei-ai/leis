@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210534)<br>
-
 # RESOLUÇÃO DA ALESP N° 946, DE 13 DE JANEIRO DE 2025
 
 ## (Projeto de Resolução n° 24, de 2024)

@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209951)<br>
-
 # LEI N° 18.027, DE 10 DE SETEMBRO DE 2024
 
 ## (Projeto de lei n° 539/2023, do Deputado Felipe Franco - UNIÃO)

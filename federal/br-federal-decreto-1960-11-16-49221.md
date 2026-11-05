@@ -1,5 +1,3 @@
-###DEC-049221-0-000-16-11-1960@@@
-
 decreto nº 49.221, de 16 de novembro de 1960.
 
 Autoriza a Centrais Elétricas de Minas Gerais S.A. a ampliar seu sistema de transmissão de energia elétrica mediante a construção de uma linha entre as Cidades de Pedro Leopoldo e de Sete Lagoas, passando pela de Matozinhos, tudo no Estado de Minas Gerais.

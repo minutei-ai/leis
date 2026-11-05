@@ -1,5 +1,3 @@
-###DEC-093013-0-000-27-07-1986@@@
-
 DECRETO Nº 93.013, DE 27 DE JULHO DE 1986
 
 Declara de interesse social, para fins de desapropriação, o imóvel rural denominado ''Fazenda Bom Pastor I'', situado no Município de Laranjeiras do Sul, no Estado do Paraná, compreendido na zona prioritária, para fins de reforma agrária, fixada pelo Decreto nº 92.622, de 2 de maio de 1986, e dá outras providências.

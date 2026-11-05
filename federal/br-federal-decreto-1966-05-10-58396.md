@@ -1,5 +1,3 @@
-###DEC-058396-0-000-10-05-1966@@@
-
 decreto n º 58.396, de 10 e maio de 1966.
 
 Aprova a alteração introduzida nos Estatutos da Companhia de Seguros Pôrto Alegrense, relativa ao aumento do capital social.

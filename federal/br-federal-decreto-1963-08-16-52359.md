@@ -1,5 +1,3 @@
-###DEC-052359-0-000-16-08-1963@@@
-
 DECRETO Nº 52.359, DE 16 DE AGÔSTO DE 1963.
 
 Faz cessão do domínio útil de terreno à Central de Abastecimento de Pernambuco S.A. - CAPESA.

@@ -1,5 +1,3 @@
-###DEC-047014-0-000-13-10-1959@@@
-
 DECRETO Nº 47.014, DE 13 DE OUTUBRO DE 1959.
 
 Autoriza o cidadão brasileiro José Tomás de Aquino Pereira a pesquisar diamante no município de Diamantina, Estado de Minas Gerais.

@@ -1,5 +1,3 @@
-###DEC-083043-0-000-15-01-1979@@@
-
 DECRETO Nº 83.043, DE 15 DE JANEIRO DE 1979
 
 Concede reconhecimento ao curso de Biblioteconomia, ministrado pelo Centro de Ciências Jurídicas e Econômicas, com sede na cidade de Vitória, Estado do Espírito Santo.

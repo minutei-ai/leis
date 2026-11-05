@@ -1,5 +1,3 @@
-###DEL-004650-0-000-02-09-1942@@@
-
 DECRETO-LEI N. 4.650 – DE 2 DE SETEMBRO DE 1942
 
 Estende aos bancos canadenses de depósito as disposições do decreto-lei número 3.786, de 1 de novembro de 1941, e dá outras providências.

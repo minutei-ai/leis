@@ -1,5 +1,3 @@
-###DEC-062121-0-000-15-01-1968@@@
-
 DECRETO Nº 62.121, DE 15 DE JANEIRO DE 1968.
 
 Declara de utilidade pública a “Ordem Auxiliadora das Senhoras Evangélicas - O.A.S.E.”, com sede em São Paulo, Estado de São Paulo.

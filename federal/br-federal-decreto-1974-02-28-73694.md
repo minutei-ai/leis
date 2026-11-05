@@ -1,5 +1,3 @@
-###DEC-073694-0-000-28-02-1974@@@
-
 decreto nº 73.694, de 28 de fevereiro de 1974.
 
 Autoriza o funcionamento da Faculdade de Educação do Distrito Federal, mantida pelo Centro de Ensino Unificado de Brasília - CEUB, com sede na Cidade de Brasília, Distrito Federal.

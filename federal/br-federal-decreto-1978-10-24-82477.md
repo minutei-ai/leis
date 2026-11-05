@@ -1,5 +1,3 @@
-###DEC-082477-0-000-24-10-1978@@@
-
 Decreto nº 82.477, de 24 de outubro de 1978
 
 Retificada a autorização de lavra conferida à Companhia de Mineração Novalimense pelo Decreto nº 41 328, de 10 de abril de 1957, alterado pelo Decreto nº 49 662, de 31 de dezembro de 1960.

@@ -1,5 +1,3 @@
-###DEC-050341-0-000-15-03-1961@@@
-
 DECRETO Nº 50.341, DE 15 DE MARÇO DE 1961.
 
 Revoga o Decreto nº 49.323, de 23 de novembro de 1960, que alterou a estrutura do Quadro do Pessoal do Instituto de Previdência e Assistência dos Servidores do Estado.

@@ -1,7 +1,3 @@
-1
-
-###DEC-099200-0-000-30-03-1990@@@
-
 # DECRETO N° 99.200, DE 30 DE MARÇO DE 1990
 
 Dá nova redação ao art. 3° do Decreto n° 74.557, de 12 de setembro de 1974, que criou a Comissão Interministerial para os Recursos do Mar (Cirm).

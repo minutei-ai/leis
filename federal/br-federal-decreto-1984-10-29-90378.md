@@ -1,5 +1,3 @@
-###DEC-090378-0-000-29-10-1984@@@
-
 Decreto nº 90.378, de 29 de outubro de 1984.
 
 Delega competência ao Ministro de Estado das Minas e Energia para a prática do ato que menciona.

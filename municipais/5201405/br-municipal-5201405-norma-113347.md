@@ -30,5 +30,6 @@ VIII- Pertencentes a outras esferas do governo: União, Estados e Municípios.
 
 Art. 2º Esta lei entrará em vigor na data de sua publicação, revogando as disposições em contrário.
 
-ANDRÉ LUÍS CARLOS DA SILVA<br>
+ANDRÉ LUÍS CARLOS DA SILVA
+
 Presidente da Câmara Municipal

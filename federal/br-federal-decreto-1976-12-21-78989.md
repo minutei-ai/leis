@@ -1,5 +1,3 @@
-###DEC-078989-0-000-21-12-1976@@@
-
 DECRETO Nº 78.989, DE 21 DE DEZEMBRO DE 1976.
 
 Aprova a alteração nos Estatutos da Companhia Auxiliar de Empresas Elétricas Brasileiras - CAEEB.

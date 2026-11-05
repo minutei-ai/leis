@@ -1,5 +1,3 @@
-###DEC-071946-0-000-20-03-1973@@@
-
 DECRETO Nº 71.946, DE 20 DE março DE 1973.
 
 Declara de utilidade pública para fins de constituição de servidão faixas de terra destinadas à passagem de linhas de transmissão no Estado do Espírito Santo.

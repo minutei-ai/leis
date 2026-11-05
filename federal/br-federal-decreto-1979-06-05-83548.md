@@ -1,5 +1,3 @@
-###DEC-083548-0-000-05-06-1979@@@
-
 Decreto nº 83.548, de 5 de junho de 1979.
 
 Cria, no Estado do Piauí, o Parque Nacional da Serra da Capivara, com os limites que específica e da outras providências.

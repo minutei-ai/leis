@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/209702)<br>
-
 # LEI N° 17.971, DE 10 DE JULHO DE 2024
 
 ## (Projeto de lei n° 267/2022, do Deputado Carlos Giannazi - PSOL)

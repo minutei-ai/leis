@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/210265)<br>
-
 # DECRETO N° 69.089, DE 26 DE NOVEMBRO DE 2024
 
 ### _Institui o Programa Bairro Paulista, no âmbito da Secretaria de Desenvolvimento Urbano e Habitação, e dá providências correlatas._

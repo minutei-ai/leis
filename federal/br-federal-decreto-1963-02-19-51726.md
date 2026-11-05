@@ -1,5 +1,3 @@
-###DEC-051726-0-000-19-02-1963@@@
-
 DECRETO Nº 51.726, DE 19 DE FEVEREIRO DE 1963.
 
 Aprova o Regulamento para execução da Lei nº 4.118, de 27 de agôsto de 1962.
@@ -851,8 +849,6 @@ Art. 132. A importância correspondente aos 12% (doze porcento) do produto da ar
 Art. 133. A CNEN publicará em seu Boletim Interno, todos os atos administrativos do órgão e no Diário Oficial da União, as Resoluções de interêsse geral, observadas as disposições do Decreto nº 47.021, de 14 de outubro de 1959.
 
 Art. 134. A CNEN apurará as atribuições de fato cometidas aos atuais servidores e por eles exercidas habitualmente em razão de habilitação e capacidade, a fim de enquadrá-los definitivamente, através de Resolução, no seu quadro próprio, nas classes de natureza correspondente às funções que atualmente desempenham.
-
-###DEC-051726-0-000-19-02-1963@@@RET01+++
 
 DECRETO Nº 51.726, DE 19 DE FEVEREIRO DE 1963.
 

@@ -1,5 +1,3 @@
-###DEC-049029-0-000-05-10-1960@@@
-
 DECRETO Nº 49.029, DE 5 DE OUTUBRO DE 1960.
 
 Autoriza o cidadão brasileiro Wilson Felix Soares a pesquisar minério de ferro e manganês no município de Corumbá, Estado de Mato Grosso.

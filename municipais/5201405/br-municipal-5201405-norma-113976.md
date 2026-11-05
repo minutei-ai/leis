@@ -12,7 +12,8 @@ Considerando a necessidade de estabelecer os procedimentos a serem observados pe
 
 **RESOLVE:**
 
-Art. 1º Fica delegado aos Secretários Municipais e Presidentes de Autarquias, definidos na Lei Municipal nº 64, de 31 de dezembro de 2012, ou na que vier a substituí-la, poderes para no âmbito de sua pasta, homologar, adjucar, firmar contrato e termos de aditamento advindos de Processos Licitatórios, bem como convênios e contratos afins, excetos os relativos à contratação de recursos humanos.<br>
+Art. 1º Fica delegado aos Secretários Municipais e Presidentes de Autarquias, definidos na Lei Municipal nº 64, de 31 de dezembro de 2012, ou na que vier a substituí-la, poderes para no âmbito de sua pasta, homologar, adjucar, firmar contrato e termos de aditamento advindos de Processos Licitatórios, bem como convênios e contratos afins, excetos os relativos à contratação de recursos humanos.
+
 (Redação alterada pelo Decreto "N" Nº 564, de 11 de julho de 2024).
 
 ~~Art. 1° Delegar aos Secretários Municipais e Presidentes de Autarquias, definidos na Lei Municipal nº 64, de 31 de dezembro de 2012, poderes para no âmbito de sua pasta, homologar, adjucar, firmar contrato e termos de aditamento advindos de Processos Licitatórios, bem como convênios e contratos a fins, excetos os relativos à contratação de recursos humanos.~~
@@ -27,5 +28,6 @@ Art. 4° Este Decreto entra em vigor na data de sua publicação, retroagindo se
 
 Gabinete do Prefeito do Município de Aparecida de Goiânia, Estado de Goiás, aos 05 dias do mês de janeiro do ano de 2017.
 
-GUSTAVO MENDANHA<br>
+GUSTAVO MENDANHA
+
 Prefeito

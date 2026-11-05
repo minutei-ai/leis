@@ -20,7 +20,8 @@ QUADRO 1
 
 SUPLEMENTAÇÃO
 
-| **400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**<br>
+| **400 - TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS**
+
 **401 - GABINETE DO PRESIDENTE DO TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS** |
 | --- |
 |   **ESPECIFICAÇÃO** |   **AÇÃO** |   **FONTE** |   **MODALIDADE** |   **GRUPO** | **SALDO ORÇAMENTÁRIO** | **VALOR A SUPLEMENTAR** |   **SALDO ATUALIZADO** |
@@ -28,4 +29,4 @@ SUPLEMENTAÇÃO
 
 TOTAL A SUPLEMENTAR POR FONTE: R$ 175.500.000,00
 
-<table><tbody><tr><td rowspan="1" style="text-align: justify;">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td style="text-align: justify;">R$ 175.500.000,00</td></tr></tbody></table>
+<table><tbody><tr><td rowspan="1">25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS- RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES</td><td>R$ 175.500.000,00</td></tr></tbody></table>

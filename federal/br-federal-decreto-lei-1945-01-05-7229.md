@@ -1,5 +1,3 @@
-###DEL-007229-0-000-05-01-1945@@@
-
 DECRETO-LEI N. 7.229 – DE 5 DE JANEIRO DE 1945
 
 Reorganiza o Departamento do Interior e da Justiça, do Ministério da Justiça e negócios Interiores, e dá outras providências

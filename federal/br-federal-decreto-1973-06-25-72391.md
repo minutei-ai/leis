@@ -1,5 +1,3 @@
-###DEC-072391-0-000-25-06-1973@@@
-
 DECRETO Nº 72.391, DE 25 DE JUNHO DE 1973.
 
 Concede reconhecimento dos cursos de Ciências Biológicas, licenciatura plena, e Ciências Biológicas, Bacharelado (modalidade médica), do Instituto de Ciências Biológicas, da Organização Mojiana de Educação e Cultura, com sede na cidade de Moji das Cruzes, Estado de São Paulo.

@@ -1,5 +1,3 @@
-###DEC-083662-0-000-02-07-1979@@@
-
 DECRETO Nº 83.662, DE 02 DE JULHO DE 1979.
 
 Autoriza o Serviço do Patrimônio da União a promover a aceitação da doação dos terrenos que menciona, situados no Município de Belo Horizonte, Estado de Minas Gerais.

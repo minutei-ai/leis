@@ -1,5 +1,3 @@
-###DEC-070631-0-000-26-05-1972@@@
-
 DECRETO Nº 70.631, DE 26 de MAIO DE 1972.
 
 Altera o parágrafo único do artigo 2º do Decreto nº 68.703, de 3 de  junho de 1971.

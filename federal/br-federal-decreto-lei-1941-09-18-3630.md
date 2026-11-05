@@ -1,5 +1,3 @@
-###DEL-003630-0-000-18-09-1941@@@
-
 DECRETO-LEI N. 3.630 – DE 18 DE SETEMBRO DE 1941
 
 Dispõe sobre o pagamento da diferença de vencimentos a que se refere o art. 3º da lei n. 284, de 28 de outubro de 1936

@@ -1,5 +1,3 @@
-###DEC-005475-0-000-22-06-2005@@@
-
 DECRETO Nº 5.475, DE 22 DE JUNHO DE 2005
 
 Altera a denominação e o objetivo da Comissão Nacional de Alfabetização, instituída pelo Decreto nº 4.834, de 8 de setembro de 2003.

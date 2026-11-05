@@ -1,5 +1,3 @@
-###DEC-004269-0-000-13-06-2002@@@
-
 DECRETO Nº 4.269, DE 13 DE JUNHO DE 2002
 
 Dispõe sobre a reorganização da Comissão Nacional de População e Desenvolvimento - CNPD e dá outras providências.

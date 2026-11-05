@@ -1,5 +1,3 @@
-###DEC-073000-0-000-25-10-1973@@@
-
 Decreto nº 73.000, de 25 de outubro de 1973.
 
 Retifica o Decreto nº 66.553, de 11 de maio de 1970, que alterou o Quadro de Pessoal do extinto Serviço de Alimentação da Previdência Social, e dá outras providências.

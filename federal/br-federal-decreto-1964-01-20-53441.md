@@ -1,5 +1,3 @@
-###DEC-053441-0-000-20-01-1964@@@
-
 DECRETO Nº 53.441, DE 20 DE JANEIRO DE 1964.
 
 Transfere da Sociedade Fôrça e luz Araujense Limitada para Prefeitura Municipal de Araujos, Estado de Minas Gerais, a concessão para produzir, transferir e distribuir energia elétrica no município.

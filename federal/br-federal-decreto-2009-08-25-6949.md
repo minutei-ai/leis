@@ -1,5 +1,3 @@
-###DEC-006949-0-000-25-08-2009@@@
-
 DECRETO Nº 6.949, DE 25 DE AGOSTO DE 2009.
 
 Promulga a Convenção Internacional sobre os Direitos das Pessoas com Deficiência e seu Protocolo Facultativo, assinados em Nova York, em 30 de março de 2007.

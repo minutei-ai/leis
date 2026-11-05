@@ -1,5 +1,3 @@
-###DEC-061776-0-000-24-11-1967@@@
-
 Decreto nº 61.776, de 24 de novembro de 1967.
 
 Dispõe sôbre os afastamentos de funcionários civis federais das respectivas repartições e dá outras providências.

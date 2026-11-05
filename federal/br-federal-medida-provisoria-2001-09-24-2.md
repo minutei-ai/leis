@@ -1,5 +1,3 @@
-###MPV-000002-0-000-24-09-2001@@@
-
 MEDIDA PROVISÓRIA Nº 2, DE 24 DE SETEMBRO DE 2001.
 
 Dispõe sobre a assunção pela União de responsabilidades civis perante terceiros no caso de atentados terroristas ou atos de guerra contra aeronaves de empresas aéreas brasileiras.

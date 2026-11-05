@@ -1,5 +1,3 @@
-###DEC-082285-0-000-19-09-1978@@@
-
 DECRETO Nº 82.285, DE 19 DE SETEMBRO DE 1978.
 
 Retifica a concessão de lavra outorgada a Júlio Bento da Silva - Firma Individual pelo Decreto n º 72.733, de 04 de setembro de 1973.

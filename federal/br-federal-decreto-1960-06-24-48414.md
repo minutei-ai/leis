@@ -1,5 +1,3 @@
-###DEC-048414-0-000-24-06-1960@@@
-
 DECRETO Nº 48.414, DE 24 DE JUNHO DE 1960.
 
 Outorga à Prefeitura Municipal de Virgolândia, Estado de Minas Gerais, concessão para o aproveitamento de energia hidráulica da cachoeira Ramalhete, existente no ribeirão Ramalhete, distrito da sede do município de Virgolândia, Estado de Minas Gerais.

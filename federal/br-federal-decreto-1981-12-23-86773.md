@@ -1,5 +1,3 @@
-###DEC-086773-0-000-23-12-1981@@@
-
 Decreto nº 86.773, de 23 de dezembro de 1981
 
 Modifica o Decreto nº 54.937, de 04 de novembro de 1964, que regulamenta o tombamento dos bens das empresas de eletricidade, e dá outras providências.

@@ -1,5 +1,3 @@
-###DEL-005728-0-000-05-08-1943@@@
-
 DECRETO-LEI N. 5728 – DE 5 DE AGÔSTO DE 1943
 
 Abre ao Ministério da Fazenda o crédito especial de Cr$ 2.000.000,00 para a Coordenação da Mobilização Econômica
@@ -16,17 +14,29 @@ Art. 2º As despesas serão efetuadas de acôrdo com a discriminação abaixo e 
 
 PESSOAL
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Para pagamento de serviços tarefados.......................</span></p></td><td style="width:237.45pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>1.000.000,00</span></p></td></tr></tbody></table>
+Para pagamento de serviços tarefados.......................
+
+1.000.000,00
 
 MATERIAL
 
 MATERIAL PERMANENTE
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Móveis e artigos de ornamentação..................................................</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>184.000,00</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p></td></tr><tr><td style="width:294.2pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Máquinas, aparelhos e utensílios de escritório e bibliotéca.............</span></p></td><td style="width:78.05pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>156.000,00</span></p></td><td style="width:95.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>340.000,00</span></p></td></tr></tbody></table>
+Móveis e artigos de ornamentação..................................................
+
+184.000,00
+
+Máquinas, aparelhos e utensílios de escritório e bibliotéca.............
+
+156.000,00
+
+340.000,00
 
 MATERIAL DE CONSUMO
 
-<table cellspacing="0" cellpadding="0" style="margin-bottom:0pt; border-collapse:collapse"><tbody><tr><td style="width:301.3pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>Artigos de expediente, desenho, ensino e educação; artigos escolares para distribuïção, fichas e livros de escrituração; impressos e material de classificação ...............................................</span></p></td><td style="width:173.6pt; padding-right:3.5pt; padding-left:3.5pt; vertical-align:top"><p class="Tabela" style="text-indent:0pt"><span style="-aw-import:ignore">&nbsp;</span></p><p class="Tabela" style="margin-bottom:0pt; text-indent:0pt"><span>122.010,00</span></p></td></tr></tbody></table>
+Artigos de expediente, desenho, ensino e educação; artigos escolares para distribuïção, fichas e livros de escrituração; impressos e material de classificação ...............................................
+
+122.010,00
 
 DIVERSAS DESPESAS
 

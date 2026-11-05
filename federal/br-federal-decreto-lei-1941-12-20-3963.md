@@ -1,5 +1,3 @@
-###DEL-003963-0-000-20-12-1941@@@
-
 DECRETO-LEI N. 3.963 – DE 20 DE DEZEMBRO DE 1941
 
 Abre ao Ministério da Educação e Saude, o crédito especial de réis 250:000$0, para admissão de pessoal extranumerário em 1942, incumbido do controle e escrituração dos recursos destinados ao Plano de Saneamento da Amazônia.

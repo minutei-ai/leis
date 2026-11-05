@@ -86,11 +86,14 @@ Art. 2º - Esta Lei entrará em vigor na data de sua publicação.
 
 GABINETE DO PREFEITO MUNICIPAL DE APARECIDA GOIÂNIA, ESTADO DE GOIÁS, AOS 02 DIAS DO MÊS DE JULHO DO ANO DE 2014.
 
-LUIZ ALBERTO MAGUITO VILELA<br>
+LUIZ ALBERTO MAGUITO VILELA
+
 Prefeito Municipal
 
-EULER MORAIS<br>
+EULER MORAIS
+
 Secretário Municipal de Governo e Integração Institucional
 
-CARLOS EDUARDO DE PAULA RODRIGUES<br>
+CARLOS EDUARDO DE PAULA RODRIGUES
+
 Secretário Municipal da Fazenda

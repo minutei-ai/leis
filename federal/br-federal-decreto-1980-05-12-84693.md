@@ -1,5 +1,3 @@
-###DEC-084693-0-000-12-05-1980@@@
-
 DECRETO Nº 84.693, DE 12 DE MAIO DE 1980.
 
 Declara de utilidade pública, para fins de desapropriação, área de terra necessárias à implantação da subestação Ipuã, da Companhia Paulista de Força e Luz - CPFL, no Estado de São Paulo.

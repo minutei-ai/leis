@@ -1,5 +1,3 @@
-###DEC-064583-0-000-27-05-1969@@@
-
 decreto nº 64.583, de 27 de maio de 1969.
 
 Declara de utilidade pública a Associação de Puericultura de Irará, com sede em Irará, Estado da Bahia.

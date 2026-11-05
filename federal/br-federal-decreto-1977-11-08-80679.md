@@ -1,5 +1,3 @@
-###DEC-080679-0-000-08-11-1977@@@
-
 DECRETO Nº 80.679, DE 08 DE NOVEMBRO DE 1977.
 
 Concede à Companhia Paulista de Mineração o direito de lavrar argila no Município de Uberaba, Estado de Minas Gerais.

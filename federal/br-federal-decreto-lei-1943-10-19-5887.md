@@ -1,5 +1,3 @@
-###DEL-005887-0-000-19-10-1943@@@
-
 DECRETO‑LEI N. 5.887 – DE 19 DE OUTUBRO DE 1943
 
 Abre, ao Ministério da Educação e Saúde o crédito especial de Cr$ 8.644,00 (oito mil seiscentos e quarenta e quatro cruzeiros), para pagamento das vantagens (Pessoal) que indica.

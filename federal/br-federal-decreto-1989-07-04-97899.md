@@ -1,7 +1,3 @@
-1
-
-###DEC-097899-0-000-04-07-1989@@@
-
 DECRETO N° 97.899, DE 4 DE JULHO DE 1989
 
 Declara de interesse social, para fins de reforma agrária, o imóvel rural denominado FAZENDA PONTAL, classificado como latifúndio por exploração, situado no Município de Japaratuba, no Estado de Sergipe, compreendido na zona prioritária fixada pelo Decreto n° 92.687, de 19 de maio de 1986, e dá outras providências.

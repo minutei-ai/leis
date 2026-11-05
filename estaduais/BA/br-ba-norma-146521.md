@@ -4,12 +4,14 @@ Institui a Política de Transição Energética do Estado da Bahia, o Programa E
 
 **O GOVERNADOR DO ESTADO DA BAHIA**, faço saber que a Assembleia Legislativa decreta e eu sanciono a seguinte Lei:
 
-CAPÍTULO I<br>
+CAPÍTULO I
+
 DA DISPOSIÇÃO GERAL
 
 **Art. 1º** - Fica instituída a Política de Transição Energética do Estado da Bahia, que se regerá pelos princípios, objetivos, diretrizes e instrumentos estabelecidos por esta Lei.
 
-CAPÍTULO II<br>
+CAPÍTULO II
+
 DOS PRINCÍPIOS, OBJETIVOS E DIRETRIZES DA POLÍTICA DE TRANSIÇÃO ENERGÉTICA
 
 **Art. 2º** - A Política de Transição Energética do Estado da Bahia será orientada pelos seguintes princípios:
@@ -56,7 +58,8 @@ DOS PRINCÍPIOS, OBJETIVOS E DIRETRIZES DA POLÍTICA DE TRANSIÇÃO ENERGÉTICA
 
 **VIII -** estimular a eficiência energética e o uso racional de energia, principalmente nos processos produtivos.
 
-CAPÍTULO III<br>
+CAPÍTULO III
+
 DOS INSTRUMENTOS DA POLÍTICA DE TRANSIÇÃO ENERGÉTICA
 
 **Art. 5º** - São instrumentos da Política de Transição Energética do Estado da Bahia:
@@ -279,7 +282,8 @@ DOS INSTRUMENTOS DA POLÍTICA DE TRANSIÇÃO ENERGÉTICA
 
 **§ 3**º - Para efeito do disposto no § 2º deste artigo, o Poder Executivo deverá priorizar, sempre que possível, áreas próximas às infraestruturas de processamento e escoamento de produção, bem como outros aspectos socioambientais associados ao território.
 
-CAPÍTULO IV<br>
+CAPÍTULO IV
+
 DO COMITÊ DE ACOMPANHAMENTO DO PLANO ESTADUAL DE TRANSIÇÃO ENERGÉTICA
 
 **Art. 20** - Fica criado o Comitê de Acompanhamento do Plano Estadual de Transição Energética, com as seguintes competências:
@@ -312,17 +316,20 @@ DO COMITÊ DE ACOMPANHAMENTO DO PLANO ESTADUAL DE TRANSIÇÃO ENERGÉTICA
 
 **VIII -** 01 (um) representante da Secretaria do Planejamento - SEPLAN;
 
-Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.<br>
+Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.
+
 Redação Original: "VIII - 01 (um) representante do Instituto do Meio Ambiente e Recursos Hídricos- INEMA;"
 
 **IX -** 01 (um) representante do Instituto do Meio Ambiente e Recursos Hídricos - INEMA;
 
-Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.<br>
+Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.
+
 Redação Original: "IX - 01 (um) representante da Fundação de Amparo à Pesquisa do Estado da Bahia - FAPESB;"
 
 **X -** 01 (um) representante da Fundação de Amparo à Pesquisa do Estado da Bahia - FAPESB;
 
-Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.<br>
+Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.
+
 Redação Original: "X - 01 (um) representante da BAHIAINVESTE - Empresa Baiana de Ativos S.A."
 
 **XI -**  01 (um) representante da BAHIAINVESTE - Empresa Baiana de Ativos S. A
@@ -331,14 +338,16 @@ Acrescido pelo Art. 1º da Lei nº [14.997](https://www.legislabahia.ba.gov.br/d
 
 **§1º** \- A coordenação do Comitê de Acompanhamento do Plano Estadual de Transição Energética será exercida pelo representante da BAHIAINVESTE.
 
-Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.<br>
+Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.
+
 Redação Original: "§ 1º - A coordenação do Comitê de Acompanhamento do Plano Estadual de Transição Energética será exercida pelo representante da SEMA"
 
 **§ 2**º - Os membros do Comitê de Acompanhamento do Plano Estadual de Transição Energética serão indicados pelos titulares dos respectivos órgãos e entidades.
 
 **§3º** - Poderão ser convidados para participarem de reuniões do Comitê de Acompanhamento do Plano Estadual de Transição Energética membros do Conselho Estadual de Meio Ambiente - CEPRAM e do Conselho Estadual Recursos Hídricos - CONERH, de outros colegiados e fóruns, bem como pessoas físicas ou representantes de pessoas jurídicas, públicas ou privadas, cuja atuação ou finalidade institucional esteja relacionada às ações previstas no Plano Estadual de Transição Energética.
 
-Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.<br>
+Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.
+
 Redação Original: "§ 3º - Poderão ser convidados para participarem de reuniões do Comitê de Acompanhamento do Plano Estadual de Transição Energética membros do Conselho Estadual de Meio Ambiente - CEPRAM e do Conselho Estadual de Recursos Hídricos - CONERH, bem como pessoas físicas ou representantes de pessoas jurídicas, públicas ou privadas, cuja atuação ou finalidade institucional esteja relacionada às ações previstas no Plano Estadual de Transição Energética."
 
 **§ 4**º - Os membros titulares e suplentes do Comitê de Acompanhamento do Plano Estadual de Transição Energética serão nomeados pelo Chefe do Poder Executivo.
@@ -347,14 +356,16 @@ Redação Original: "§ 3º - Poderão ser convidados para participarem de reuni
 
 **Art. 22** - O Regimento do Comitê de Acompanhamento do Plano Estadual de Transição Energética, por ele aprovado, definirá as normas de sua organização e funcionamento.
 
-CAPÍTULO V<br>
+CAPÍTULO V
+
 DAS DISPOSIÇÕES FINAIS
 
 **Art. 23** - O Poder Executivo poderá firmar convênios e acordos com outras esferas de governo, empresas e organizações da sociedade civil visando promover a colaboração na transição para fontes de energia mais limpas e sustentáveis.
 
 **Art. 24** - Ato do Chefe do Poder Executivo instituirá Grupo de Trabalho para elaborar proposta do Plano Estadual de Transição Energética, que será coordenado por um representante da BAHIAINVESTE, contando com um representante da SEPLAN, na qualidade de suplente, podendo ser solicitada, em caráter excepcional, a assessoria técnica de órgãos ou entidades do Poder Executivo Estadual.
 
-Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.<br>
+Redação de acordo com a Lei nº [14.997](https://www.legislabahia.ba.gov.br/documentos/lei-no-14997-de-17-de-outubro-de-2025) de 17 de outubro de 2025.
+
 Redação Original: "Art. 24 - Ato do Chefe do Poder Executivo instituirá Grupo de Trabalho, coordenado por um representante da SEMA, para elaborar proposta do Plano Estadual de Transição Energética, podendo ser solicitada, em caráter excepcional, a assessoria técnica de órgãos ou entidades do Poder Executivo Estadual."
 
 **Art. 25** - Fica o Chefe do Poder Executivo autorizado a fazer as modificações orçamentárias que se fizerem necessárias ao cumprimento do disposto nesta Lei.

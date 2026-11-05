@@ -1,5 +1,3 @@
-###DEC-053756-0-000-19-03-1964@@@
-
 DECRETO Nº 53.756, DE 19 DE MARÇO DE 1964.
 
 Declara a cessação dos serviços de energia elétrica no município de Uruburetama, Estado do Ceará e outorga a respectiva concessão à Companhia de Eletrificação Centro-Norte do Ceará.

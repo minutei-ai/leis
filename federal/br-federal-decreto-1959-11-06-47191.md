@@ -1,5 +1,3 @@
-###DEC-047191-0-000-06-11-1959@@@
-
 DECRETO N.º 47.191, DE 6 DE NOVEMBRO DE 1959
 
 Concede à Empresa de Águas Ouro Fino Limitada autorização para funcionar como empresa de mineração.

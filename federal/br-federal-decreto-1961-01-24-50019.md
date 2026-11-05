@@ -1,5 +1,3 @@
-###DEC-050019-0-000-24-01-1961@@@
-
 DECRETO Nº 50.019, DE 24 DE JANEIRO DE 1961.
 
 Concede a Chaves, Fumo & Cia. Ltda. autorização para funcionar como emprêsa de mineração.

@@ -1,6 +1,10 @@
 > **LEI Nº 4.772, DE 19 DE JANEIRO DE 2026**
 
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td><p><span><span><span>Altera a Lei nº 4.627, de 31 de julho de 2025, que dispõe sobre as diretrizes orçamentárias do Estado do Acre para o exercício financeiro de 2026.</span></span></span></p></td></tr></tbody></table>
+<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td>&nbsp;</td><td>
+
+Altera a Lei nº 4.627, de 31 de julho de 2025, que dispõe sobre as diretrizes orçamentárias do Estado do Acre para o exercício financeiro de 2026.
+
+</td></tr></tbody></table>
 
 **O GOVERNADOR DO ESTADO DO ACRE**
 

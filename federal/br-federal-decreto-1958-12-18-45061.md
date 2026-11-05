@@ -1,5 +1,3 @@
-###DEC-045061-0-000-18-12-1958@@@
-
 DECRETO Nº 45.061, DE 18 DE DEZEMBRO DE 1958.
 
 Declara de utilidade pública, para fins de desapropriação, imóveis que menciona, em Pindamonhangaba, Estado de São Paulo, necessários à 2ª Região Militar e Ministério da Guerra.

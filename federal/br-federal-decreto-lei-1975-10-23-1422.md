@@ -1,5 +1,3 @@
-###DEL-001422-0-000-23-10-1975@@@
-
 # DECRETO-LEI Nº 1.422, DE 23 DE OUTUBRO DE 1975
 
 Dispõe sobre o Salário-Educação.

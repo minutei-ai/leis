@@ -1,5 +1,3 @@
-###DEC-073402-0-000-31-12-1973@@@
-
 DECRETO Nº 73.402 - de 31 de Dezembro de 1973
 
 Transfere, com os respectivos cargos, funcionários de quadros em extinção da antiga autarquia Instituto Brasileiro de Geografia e Estatística, atual Fundação IBGE.

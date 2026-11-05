@@ -1,5 +1,3 @@
-###DEC-055124-0-000-02-12-1964@@@
-
 decreto nº 55.124, de 02 de dezembro de 1964.
 
 Autoriza o cidadão brasileiro Moacyr Coelho de Oliveira a pesquisar trípoli, no município de Capão Bonito, Estado de São Paulo.

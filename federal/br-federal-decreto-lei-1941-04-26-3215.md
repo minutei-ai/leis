@@ -1,5 +1,3 @@
-###DEL-003215-0-000-26-04-1941@@@
-
 DECRETO-LEI N. 3.215 – DE 26 DE ABRIL DE 1941
 
 Ratifica os atos de compra, pelo Ministério da Agricultura, mediante escritura pública, dos imóveis utilizados pelas dependências do extinto Serviço Técnico do Café, a partir de 1933. e dá outras providências

@@ -1,5 +1,3 @@
-###DEC-073417-0-000-04-01-1974@@@
-
 DECRETO Nº 73.417, DE 4 DE JANEIRO DE 1974.
 
 Declara de utilidade pública, para fins de desapropriação pela superintendência do Desenvolvimento da Região Centro - Oeste - SUDECO, a área de terreno que descreve, necessária à implantação do Plano Diretor Urbanístico de Vila Rondônia, no Território Federal de Rondônia.

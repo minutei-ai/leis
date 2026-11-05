@@ -1,5 +1,3 @@
-###DEC-075866-0-000-13-06-1975@@@
-
 DECRETO Nº 75.866, De 13 De Junho de 1975.
 
 Concede reconhecimento à área de Técnicas Profissionais dos Esquemas I e II do Curso de Professores para as Disciplinas de formação Especial no Ensino de 2º grau, da Faculdade Niteroiense de Formação de Professores, com sede na cidade de Niterói, Estado do Rio de Janeiro.

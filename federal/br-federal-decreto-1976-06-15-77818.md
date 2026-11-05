@@ -1,5 +1,3 @@
-###DEC-077818-0-000-15-06-1976@@@
-
 DECRETO Nº 77.818, DE 15 DE JUNHO DE 1976.
 
 Concede reconhecimento ao curso de Serviço Social da Escola de Serviço Social, com sede na Cidade de Araraquara, Estado de São Paulo.

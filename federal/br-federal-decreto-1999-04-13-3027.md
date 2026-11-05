@@ -1,5 +1,3 @@
-###DEC-003027-0-000-13-04-1999@@@
-
 DECRETO Nº 3.027, DE 13 DE ABRIL DE 1999
 
 Regulamenta a Lei Complementar nº 93, de 4 de fevereiro de 1998, que criou o Fundo de Terras e da Reforma Agrária - Banco da Terra, e dá outras providências.

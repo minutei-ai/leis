@@ -1,5 +1,3 @@
-###DEC-079728-0-000-26-05-1977@@@
-
 DECRETO Nº 79.728, DE 26 DE MAIO DE 1977.
 
 Concede reconhecimento ao curso de Formação de Professores de Disciplinas Especializadas do 2ºgrau, Esquema I, da Universidade Federal de Sergipe.

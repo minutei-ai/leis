@@ -1,5 +1,3 @@
-###DEC-081160-0-000-02-01-1978@@@
-
 Decreto nº 81 160, de 02 de janeiro de 1978.
 
 Concede à Mineração Geral do Nordeste S/A o direito de lavrar argila no Município de Jaboatão, Estado de Pernambuco.

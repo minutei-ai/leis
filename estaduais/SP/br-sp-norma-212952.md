@@ -1,5 +1,3 @@
-[Assembleia Legislativa do Estado de São Paulo](https://www.al.sp.gov.br/) [Ficha informativa](https://www.al.sp.gov.br/norma/212952)<br>
-
 # DECRETO N° 70.849, DE 09 DE SETEMBRO DE 2026
 
 ### _Autoriza a Fazenda do Estado a receber, mediante permissão de uso, a título precário e gratuito, por prazo indeterminado, do Município de Mogi Guaçu, parte do imóvel que especifica._

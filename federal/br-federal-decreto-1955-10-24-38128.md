@@ -1,14 +1,12 @@
-###DEC-038128-0-000-24-10-1955@@@
+**DECRETO Nº 38.128, DE 24 DE OUTUBRO DE 1955.**
 
-<strong>DECRETO Nº 38.128, DE 24 DE OUTUBRO DE 1955.</strong>
+***Altera artigos do Regulamento de Departamento de Desportos do Exército, aprovado pelo Decreto nº 26.368, de 17 de fevereiro de 1949.***
 
-<em><strong>Altera artigos do Regulamento de Departamento de Desportos do Exército, aprovado pelo Decreto nº 26.368, de 17 de fevereiro de 1949.</strong></em>
+**O PRESIDENTE DA REPUBLICA**, usando da atribuição que lhe confere o art 87, inciso I, da Constituição Federal,
 
-<strong>O PRESIDENTE DA REPUBLICA</strong>, usando da atribuição que lhe confere o art 87, inciso I, da Constituição Federal,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica alterado o Regulamento do Departamento de Desportos do Exército, aprovado pelo Decreto nº 26.368, de 17 de fevereiro de 1949, pela forma que segue:
+**Art**. 1º Fica alterado o Regulamento do Departamento de Desportos do Exército, aprovado pelo Decreto nº 26.368, de 17 de fevereiro de 1949, pela forma que segue:
 
 “Art. 4º A escolha dos oficiais para a Direção do DDE recairá sôbre elementos do Exercito Ativo e as nomeações e designações serão feitas mediante prévio convite c sem prejuízo do serviço.”
 
@@ -48,10 +46,10 @@ Parágrafo único, Os trabalhos de secretaria serão digeridos por um 1º ou 2º
 
 “Parágrafo único, Os trabalhos da Direção Técnica serão executados por oficiais do QAO que terão para auxiliares, sargentos e dactilógrafos pertencentes ao Contingente.”
 
-<strong>Art</strong>. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 2º Êste decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de Janeiro, 24 de outubro de 1955; 134º da Independência e 67º da Republica.
 
-<strong>JOÃO CAFÉ FILHO</strong>
+**JOÃO CAFÉ FILHO**
 
 Henrique Lott

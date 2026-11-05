@@ -1,5 +1,3 @@
-###DEL-000030-0-000-17-11-1966@@@
-
 DECRETO-LEI Nº 30, DE 17 DE NOVEMBRO DE 1966
 
 Acrescenta um inciso, sob o nº IV, ao art. 15 da Lei nº 5.010, de 30 de maio de 1966, que organiza a Justiça Federal de primeira instância.

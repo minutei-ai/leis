@@ -1,5 +1,3 @@
-###DEC-057140-0-000-29-10-1965@@@
-
 DECRETO Nº 57.140, DE 29 DE OUTUBRO DE1965.
 
 Concede à The London & Lancashire Insurance Company Limited autorização para aumentar o capital destinado as suas operações de seguros no Brasil.

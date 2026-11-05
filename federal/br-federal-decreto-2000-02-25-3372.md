@@ -1,5 +1,3 @@
-###DEC-003372-0-000-25-02-2000@@@
-
 DECRETO Nº 3.372, DE 25 DE FEVEREIRO DE 2000
 
 Prorroga o prazo de remanejamento estabelecido nos Decretos que menciona, e dá outras providências.

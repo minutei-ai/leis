@@ -1,14 +1,12 @@
-###DEC-028481-0-000-10-08-1950@@@
+**DECRETO Nº 28.481, DE 18 DE AGÔSTO DE 1950.**
 
-<strong>DECRETO Nº 28.481, DE 18 DE AGÔSTO DE 1950.</strong>
+***Declara a utilidade da desapropriação dos imóveis que menciona, situados no município de Cubatão, Estado de São Paulo, e necessários a instalação de Refinária ao Petróleo de 45.000 barris diários.***
 
-<em><strong>Declara a utilidade da desapropriação dos imóveis que menciona, situados no município de Cubatão, Estado de São Paulo, e necessários a instalação de Refinária ao Petróleo de 45.000 barris diários.</strong></em>
+**O PRESIDENTE DA REPÚBLICA**, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no art. 5º, letra *h*, do Decreto-lei nº 3.365, de 21 de julho de 1941 combinado com o art. 1º do Decreto-lei nº 395, de 29 de abril de 1938,
 
-<strong>O PRESIDENTE DA REPÚBLICA</strong>, usando da atribuição que lhe confere o artigo 87, inciso I, da Constituição e tendo em vista o disposto no art. 5º, letra <em>h</em>, do Decreto-lei nº 3.365, de 21 de julho de 1941 combinado com o art. 1º do Decreto-lei nº 395, de 29 de abril de 1938,
+**DECRETA:**
 
-<strong>DECRETA:</strong>
-
-<strong>Art</strong>. 1º Fica declarada a utilidade pública da desapropriação dos imóveis abaixo discriminadas, com as construções e benfeitorias neles existentes, situados no município de Cubatão, Estado de São Paulo:
+**Art**. 1º Fica declarada a utilidade pública da desapropriação dos imóveis abaixo discriminadas, com as construções e benfeitorias neles existentes, situados no município de Cubatão, Estado de São Paulo:
 
 a) Uma faixa de terras denominação “Chácara do Fernando”, com a superfície de 276.000m<sup>2</sup> de propriedades do epólio de Luis Ribeiro Conceição e outro no memorial elaborados pelo Conselho Nacional autenticadas, com êste baixam;
 
@@ -38,14 +36,14 @@ Quadra 14: Lotes ns. 3, 8 e 16;
 
 Quadra 15: lotes ns. 1, 2, 3, 4 e 5.
 
-<strong>Art</strong>. 2º Destinam-se os referidos imóveis à integração da área necessária à instalação de Refinaria de Petróleo de 45.000 barris diário a cargo do Conselho Nacional de Petróleo.
+**Art**. 2º Destinam-se os referidos imóveis à integração da área necessária à instalação de Refinaria de Petróleo de 45.000 barris diário a cargo do Conselho Nacional de Petróleo.
 
-<strong>Art</strong>. 3º É declarada a urgência da desapropriação nos têrmos do artigo 15 do citado Decreto-lei número 3.365, com a nova redação dada pelo Decreto-lei nº 9.811, de 9 de setembro de 1946, ficando o Conselho Nacional de Petróleo autorizado a efetivá-la na forma do art. 10 do mesmo Decreto-lei nº 3.365.
+**Art**. 3º É declarada a urgência da desapropriação nos têrmos do artigo 15 do citado Decreto-lei número 3.365, com a nova redação dada pelo Decreto-lei nº 9.811, de 9 de setembro de 1946, ficando o Conselho Nacional de Petróleo autorizado a efetivá-la na forma do art. 10 do mesmo Decreto-lei nº 3.365.
 
-<strong>Art</strong>. 4º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+**Art**. 4º O presente Decreto entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
 
 Rio de janeiro, 10 de agôsto de 1950; 129º Da Independência e 52º da República.
 
-<strong>EURICO G. DUTRA</strong>
+**EURICO G. DUTRA**
 
 José Francisco Boas Fortes

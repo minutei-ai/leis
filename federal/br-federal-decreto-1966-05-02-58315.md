@@ -1,5 +1,3 @@
-###DEC-058315-0-000-02-05-1966@@@
-
 DECRETO Nº 58.315, DE 2 DE MAIO DE 1966.
 
 Aprova as alterações introduzidas nos Estatutos da Campanha de Seguros Guanabara, inclusive aumento do capital social.

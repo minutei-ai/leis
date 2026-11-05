@@ -1,5 +1,3 @@
-###DEC-082505-0-000-27-10-1978@@@
-
 Decreto nº 82.505, de 27 de outubro de 1978.
 
 Retifica a autorização de lavra conferida ao cidadão brasileiro José Barbosa de Paula pelo Decreto nº 34.973, de 21 de janeiro de 1954.

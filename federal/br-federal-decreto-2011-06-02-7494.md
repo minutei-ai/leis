@@ -1,5 +1,3 @@
-###DEC-007494-0-000-02-06-2011-PUB-01@@@
-
 DECRETO Nº 7.494, DE 2 DE JUNHO DE 2011
 
 Altera o Decreto nº 5.209, de 17 de setembro de 2004, que regulamenta a Lei nº 10.836, de 9 de janeiro de 2004, que cria o Programa Bolsa Família.
